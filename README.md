@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can a Corporate Interior Fit-Out Enhance Workplace Productivity?](https://dev.to/line_andspace_5e363c2bbd/how-can-a-corporate-interior-fit-out-enhance-workplace-productivity-2mlp)
-- [Test](https://dev.to/arpit_tiwari_22499eda78de/test-155m)
-- [What Makes a Great HR Consultant—and Why Your Business Needs One](https://dev.to/yehia_samir123/what-makes-a-great-hr-consultant-and-why-your-business-needs-one-466f)
-- [How do I get into Data Science from a Non-Technical Background?](https://dev.to/elearning_solutions_791be/how-do-i-get-into-data-science-from-a-non-technical-background-7mi)
+- [What’s the Difference Between Java and JavaScript? Explained Simply](https://dev.to/tpointtechedu/whats-the-difference-between-java-and-javascript-explained-simply-5e3e)
+- [Short Talk Future of React Native.](https://dev.to/erenelagz/short-talk-for-future-of-react-native-171)
+- [Snap Planets in Order: How Snapchat Turns Friends into Planets](https://dev.to/ray_parker01/snap-planets-in-order-how-snapchat-turns-friends-into-planets-27j0)
+- [How to tokenize things using bitcoin on layer one, on the actual bitcoin Blockchain, not layer two protocols](https://dev.to/sadiksajid/how-to-tokenize-things-using-bitcoin-on-layer-one-on-the-actual-bitcoin-blockchain-not-layer-two-3gmg)
 <!-- BLOG-POST-LIST:END -->
 
