@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing in 2025: Saving Our Apps, Saving Our Day 😊](https://dev.to/vaibhavkuls/software-testing-in-2025-saving-our-apps-saving-our-day-2d2l)
-- [Big Data Processing - Case Study 1 &lpar;Hadoop&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-1-hadoop-19cn)
-- [The Evolution of EPG: From Set-Top Boxes to Streaming Apps](https://dev.to/malhotraaa/the-evolution-of-epg-from-set-top-boxes-to-streaming-apps-198o)
-- [NodeJS Intro..](https://dev.to/samandarhodiev/what-is-nodejs-download-nodejsuse-nodejs-in-terminalnode-package-manager-4c5e)
+- [ReactJS Datatable](https://dev.to/samseptiano/reactjs-datatable-cm7)
+- [From Bugs to Trust: QA&#39;s Role in Building a Comfortable Crypto Trading Experience](https://dev.to/philip_crypto92/from-bugs-to-trust-qas-role-in-building-a-comfortable-crypto-trading-experience-65j)
+- [How to seed million rows!!](https://dev.to/vaitheeswaran-lm/how-to-seed-million-rows-3opa)
+- [Dev.to API ile Otomatik Yayın &lpar;TypeScript&rpar;](https://dev.to/yunus_emremert_1756b71d3/devto-api-ile-otomatik-yayin-typescript-4glf)
 <!-- BLOG-POST-LIST:END -->
 
