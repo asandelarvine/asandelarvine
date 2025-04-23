@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the Difference Between Java and JavaScript? Explained Simply](https://dev.to/tpointtechedu/whats-the-difference-between-java-and-javascript-explained-simply-5e3e)
-- [Short Talk Future of React Native.](https://dev.to/erenelagz/short-talk-for-future-of-react-native-171)
-- [Snap Planets in Order: How Snapchat Turns Friends into Planets](https://dev.to/ray_parker01/snap-planets-in-order-how-snapchat-turns-friends-into-planets-27j0)
-- [How to tokenize things using bitcoin on layer one, on the actual bitcoin Blockchain, not layer two protocols](https://dev.to/sadiksajid/how-to-tokenize-things-using-bitcoin-on-layer-one-on-the-actual-bitcoin-blockchain-not-layer-two-3gmg)
+- [Software Testing in 2025: Saving Our Apps, Saving Our Day 😊](https://dev.to/vaibhavkuls/software-testing-in-2025-saving-our-apps-saving-our-day-2d2l)
+- [Big Data Processing - Case Study 1 &lpar;Hadoop&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-1-hadoop-19cn)
+- [The Evolution of EPG: From Set-Top Boxes to Streaming Apps](https://dev.to/malhotraaa/the-evolution-of-epg-from-set-top-boxes-to-streaming-apps-198o)
+- [NodeJS Intro..](https://dev.to/samandarhodiev/what-is-nodejs-download-nodejsuse-nodejs-in-terminalnode-package-manager-4c5e)
 <!-- BLOG-POST-LIST:END -->
 
