@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures &amp; Algorigthms - Serie](https://dev.to/onedev/data-structures-algorigthms-serie-14kd)
-- [🚀 Hosting a Static Website on AWS EC2 -My First Step Toward DevOps](https://dev.to/bluezeus/hosting-a-static-website-on-aws-ec2-my-first-step-toward-devops-3joj)
-- [Build Your Own Authenticator: TOTP vs HOTP Explained](https://dev.to/apalb/build-your-own-authenticator-totp-vs-hotp-explained-2315)
-- [Vue - Objetos: Mutáveis, Imutáveis ou Fixos](https://dev.to/stefanyrepetcki/vue-objetos-mutaveis-imutaveis-ou-fixos-5hj9)
+- [Build a Shared-Nothing Distributed Queue with SQLite and Python](https://dev.to/hexshift/build-a-shared-nothing-distributed-queue-with-sqlite-and-python-3p1)
+- [Интересно было читать](https://dev.to/bogdannovotarskij/intieriesno-bylo-chitat-2f7e)
+- [Очень полезно](https://dev.to/bogdannovotarskij/ochien-poliezno-2jip)
+- [[Boost]](https://dev.to/bogdannovotarskij/-3fc9)
 <!-- BLOG-POST-LIST:END -->
 
