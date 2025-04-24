@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I am Learning SQL&lpar;mysql&rpar; in 2025.](https://dev.to/tahir_rafique/i-am-learning-sqlmysql-in-2025-h6h)
-- [Serverless Architecture](https://dev.to/nishant_keshav/serverless-268f)
-- [How I Mastered Merging Sorted Lists with Pointer Tactics](https://dev.to/luparinx/how-i-mastered-merging-sorted-lists-with-pointer-tactics-4j00)
-- [Design Patterns in Spring: Making Your Code Elegant and Maintainable](https://dev.to/wastech/design-patterns-in-spring-making-your-code-elegant-and-maintainable-1g3)
+- [The Future of AI: How Artificial Intelligence is Transforming Our World](https://dev.to/nishant_rathore_a4555652e/the-future-of-ai-how-artificial-intelligence-is-transforming-our-world-eio)
+- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-1o85)
+- [I launched my own service monitor &lpar;with a focus on simplicity and agility&rpar;](https://dev.to/shahahaco/i-launched-my-own-service-monitor-with-a-focus-on-simplicity-and-agility-3c9p)
+- [Comparing EDC with Traditional Data Capture Methods](https://dev.to/pharmacrm/comparing-edc-with-traditional-data-capture-methods-3meh)
 <!-- BLOG-POST-LIST:END -->
 
