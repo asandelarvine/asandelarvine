@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Frappe &amp; ERPNext Setup with a Single Script &lpar;Linux + macOS&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/automating-frappe-erpnext-setup-with-a-single-script-linux-macos-2onl)
-- [ML_DAY2_WORKSHOP](https://dev.to/preteka/mlday2workshop-1f1g)
-- [Package Management in Red Hat Linux with `dnf` and `yum`](https://dev.to/shamain_anjum/package-management-in-red-hat-linux-with-dnf-and-yum-523m)
-- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
+- [The Cloud Security Blind Spots: What Most Cloud Engineers Don’t Know About Linux Security](https://dev.to/dtemi/the-cloud-security-blind-spots-what-most-cloud-engineers-dont-know-about-linux-security-53dj)
+- [Combining UI and API Testing: A Unified QA Strategy for Modern Teams](https://dev.to/shubham-theqa/combining-ui-and-api-testing-a-unified-qa-strategy-for-modern-teams-4me7)
+- [Introducing Potpie&#39;s Slack Integration: Bring Your Custom AI Agents to Where You Work](https://dev.to/potpie/introducing-potpies-slack-integration-bring-your-custom-ai-agents-to-where-you-work-3hoi)
+- [Dockerize a Python ML Model and push in GitHub&lpar;With Steps + ScreenShots&rpar;](https://dev.to/jayalakshmi_s_bf86a8c8d64/dockerize-a-python-ml-model-and-push-in-githubsteps-with-screenshots-2kfb)
 <!-- BLOG-POST-LIST:END -->
 
