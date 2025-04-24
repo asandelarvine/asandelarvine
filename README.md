@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating 20 Years of Django: Why Developers Still Love It](https://dev.to/leapcell/celebrating-20-years-of-django-why-developers-still-love-it-38i)
-- [Step-by-Step Git Commands Execution:](https://dev.to/kavin_t24mcr053_a2852585/step-by-step-git-commands-execution-42ne)
-- [🌸10 Aesthetic Self-Care Rituals That Take 10 Minutes or Less](https://dev.to/kavinaya_lakshmanasamy_e2/10-aesthetic-self-care-rituals-that-take-10-minutes-or-less-2kgg)
-- [[Boost]](https://dev.to/wesleycoder/-1i4l)
+- [🚧 Composer “Could Not Find the Config File” Error: Fixing the Bin Path](https://dev.to/chaitanya_rai_9f647dffb8a/composer-could-not-find-the-config-file-error-fixing-the-bin-path-5adj)
+- [Best Event Registration Platforms of 2025: Top Picks with Features, Benefits, and Pricing](https://dev.to/saanvipatel099/best-event-registration-platforms-of-2025-top-picks-with-features-benefits-and-pricing-2j1p)
+- [Project Scope Creep: What It Is and How to Prevent It in Dev Projects](https://dev.to/teamcamp/project-scope-creep-what-it-is-and-how-to-prevent-it-in-dev-projects-3loa)
+- [Answer: How to generate a random alpha-numeric string](https://dev.to/rtco2020/answer-how-to-generate-a-random-alpha-numeric-string-2nfc)
 <!-- BLOG-POST-LIST:END -->
 
