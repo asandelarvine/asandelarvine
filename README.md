@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture in NestJS](https://dev.to/geampiere/event-driven-architecture-in-nestjs-ccj)
-- [How Cloud-Based ETL Pipelines Are Transforming Real-Time Healthcare Decision Making](https://dev.to/a_bojjam/how-cloud-based-etl-pipelines-are-transforming-real-time-healthcare-decision-making-5cfp)
-- [Diseño de un sistema de gestión de información del control de acceso para la biblioteca de mi universidad](https://dev.to/jose-c0/diseno-de-un-sistema-de-gestion-de-informacion-del-control-de-acceso-para-la-biblioteca-2k03)
-- [PostgreSQL vs MySQL vs Redis: Choose Your Fighter](https://dev.to/devlinkstudios/postgresql-vs-mysql-vs-redis-choose-your-fighter-2ea0)
+- [How to Build a Web-Based Audio Sampler with Real-Time Pitch and Playback Control](https://dev.to/hexshift/how-to-build-a-web-based-audio-sampler-with-real-time-pitch-and-playback-control-39n)
+- [How to Generate Procedural Audio Textures in the Browser &lpar;No Samples Needed&rpar;](https://dev.to/hexshift/how-to-generate-procedural-audio-textures-in-the-browser-no-samples-needed-332l)
+- [Building a Polyphonic Synth with Web Audio API &lpar;No Libraries Needed&rpar;](https://dev.to/hexshift/building-a-polyphonic-synth-with-web-audio-api-no-libraries-needed-4a07)
+- [How to Capture Microphone Input and Visualize Audio in the Browser](https://dev.to/hexshift/how-to-capture-microphone-input-and-visualize-audio-in-the-browser-3p08)
 <!-- BLOG-POST-LIST:END -->
 
