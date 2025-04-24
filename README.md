@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cloud Security Blind Spots: What Most Cloud Engineers Don’t Know About Linux Security](https://dev.to/dtemi/the-cloud-security-blind-spots-what-most-cloud-engineers-dont-know-about-linux-security-53dj)
-- [Combining UI and API Testing: A Unified QA Strategy for Modern Teams](https://dev.to/shubham-theqa/combining-ui-and-api-testing-a-unified-qa-strategy-for-modern-teams-4me7)
-- [Introducing Potpie&#39;s Slack Integration: Bring Your Custom AI Agents to Where You Work](https://dev.to/potpie/introducing-potpies-slack-integration-bring-your-custom-ai-agents-to-where-you-work-3hoi)
-- [Dockerize a Python ML Model and push in GitHub&lpar;With Steps + ScreenShots&rpar;](https://dev.to/jayalakshmi_s_bf86a8c8d64/dockerize-a-python-ml-model-and-push-in-githubsteps-with-screenshots-2kfb)
+- [I am Learning SQL&lpar;mysql&rpar; in 2025.](https://dev.to/tahir_rafique/i-am-learning-sqlmysql-in-2025-h6h)
+- [Serverless Architecture](https://dev.to/nishant_keshav/serverless-268f)
+- [How I Mastered Merging Sorted Lists with Pointer Tactics](https://dev.to/luparinx/how-i-mastered-merging-sorted-lists-with-pointer-tactics-4j00)
+- [Design Patterns in Spring: Making Your Code Elegant and Maintainable](https://dev.to/wastech/design-patterns-in-spring-making-your-code-elegant-and-maintainable-1g3)
 <!-- BLOG-POST-LIST:END -->
 
