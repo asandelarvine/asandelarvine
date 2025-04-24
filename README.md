@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recorriendo arrays en JavaScript: de lo clásico a lo moderno](https://dev.to/andresws/recorriendo-arrays-en-javascript-de-lo-clasico-a-lo-moderno-gko)
-- [Ryan &amp; Ben Show Guest Appearance &amp; myCFML](https://dev.to/gamesover/ryan-ben-show-guest-appearance-mycfml-phg)
-- [Orchestrated AI: New Framework Beats Autonomous Agents by 76%](https://dev.to/aimodels-fyi/orchestrated-ai-new-framework-beats-autonomous-agents-by-76-2mdb)
-- [LLMs vs Web3: New Benchmark Reveals Which AI Gets Blockchain](https://dev.to/aimodels-fyi/llms-vs-web3-new-benchmark-reveals-which-ai-gets-blockchain-jn4)
+- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
+- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
+- [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
+- [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
 <!-- BLOG-POST-LIST:END -->
 
