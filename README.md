@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Shopify Agencies Can Scale with White Label SEO](https://dev.to/me_bhavesh/how-shopify-agencies-can-scale-with-white-label-seo-4242)
-- [Leveraging GitHub Sponsors for Organizations: Maximizing Open-Source Funding &amp; Community Engagement](https://dev.to/laetitiaperraut/leveraging-github-sponsors-for-organizations-maximizing-open-source-funding-community-engagement-4d94)
-- [Scrapeless Scraping Browser - Browser Fingerprint Customization](https://dev.to/datacollectionscraper/scrapeless-scraping-browser-browser-fingerprint-customization-340a)
-- [How to Use Excel DAYS360 Function?](https://dev.to/excel24x7/how-to-use-excel-days360-function-4dmh)
+- [ServiceNow - Important Terms](https://dev.to/guru_prasanna_01/servicenow-important-terms-4knc)
+- [Install Tailwind CSS v4 in a Vue 3 + Vite Project](https://dev.to/maulik2900/install-tailwind-css-v4-in-a-vue-3-vite-project-1nbg)
+- [Explode Your Organic Traffic with Our Link Building Wizards](https://dev.to/robertjohn5814/explode-your-organic-traffic-with-our-link-building-wizards-57el)
+- [How Web3 Trading Tournaments Turn Bear Markets into Builder Moments](https://dev.to/iri_denis/how-web3-trading-tournaments-turn-bear-markets-into-builder-moments-1308)
 <!-- BLOG-POST-LIST:END -->
 
