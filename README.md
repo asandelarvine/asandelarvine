@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Web-Based Audio Sampler with Real-Time Pitch and Playback Control](https://dev.to/hexshift/how-to-build-a-web-based-audio-sampler-with-real-time-pitch-and-playback-control-39n)
-- [How to Generate Procedural Audio Textures in the Browser &lpar;No Samples Needed&rpar;](https://dev.to/hexshift/how-to-generate-procedural-audio-textures-in-the-browser-no-samples-needed-332l)
-- [Building a Polyphonic Synth with Web Audio API &lpar;No Libraries Needed&rpar;](https://dev.to/hexshift/building-a-polyphonic-synth-with-web-audio-api-no-libraries-needed-4a07)
-- [How to Capture Microphone Input and Visualize Audio in the Browser](https://dev.to/hexshift/how-to-capture-microphone-input-and-visualize-audio-in-the-browser-3p08)
+- [How Much Energy Does ChatGPT Use Per Prompt?](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-2o24)
+- [Apa Itu Samsung DeX? Ubah HP Jadi Komputer?](https://dev.to/ryfazrin/apa-itu-samsung-dex-ubah-hp-jadi-komputer-1m9p)
+- [How to Create Your Own Home Lab for Hacking](https://dev.to/pawanjswal/how-to-create-your-own-home-lab-for-hacking-1i7i)
+- [Build a C# PDF Summarizer with OpenAI &lpar;Free Tier&rpar;](https://dev.to/seonglinchua/build-a-c-pdf-summarizer-with-openai-free-tier-4b4n)
 <!-- BLOG-POST-LIST:END -->
 
