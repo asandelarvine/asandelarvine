@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master PHP 8.3: The Ultimate Guide for Modern Web Developers](https://dev.to/code_2/master-php-83-the-ultimate-guide-for-modern-web-developers-4ma5)
-- [Multi-Channel Lead Automation in Frappe: LinkedIn, Website Forms, Webhooks &amp; WhatsApp](https://dev.to/pranav_dixit_8b5a2ad19270/multi-channel-lead-automation-in-frappe-linkedin-website-forms-webhooks-whatsapp-5f2d)
-- [🚀 Dockerizing and Setting Up CI/CD for a .NET API with GitLab](https://dev.to/yash_maisuriya/dockerizing-and-setting-up-cicd-for-a-net-api-with-gitlab-2bjf)
-- [Bridging the Gap: Time-Bound Access in Event-Driven Architectures &lpar;Part 1 of 3&rpar;](https://dev.to/gvensan/bridging-the-gap-time-bound-access-in-event-driven-architectures-part-1-of-3-5bbi)
+- [Automating Frappe &amp; ERPNext Setup with a Single Script &lpar;Linux + macOS&rpar;](https://dev.to/pranav_dixit_8b5a2ad19270/automating-frappe-erpnext-setup-with-a-single-script-linux-macos-2onl)
+- [ML_DAY2_WORKSHOP](https://dev.to/preteka/mlday2workshop-1f1g)
+- [Package Management in Red Hat Linux with `dnf` and `yum`](https://dev.to/shamain_anjum/package-management-in-red-hat-linux-with-dnf-and-yum-523m)
+- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
 <!-- BLOG-POST-LIST:END -->
 
