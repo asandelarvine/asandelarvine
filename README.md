@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 12 Java Learning :](https://dev.to/vigneshwaralingam/day-12-java-learning--4d7j)
-- [How to Get Started with the Suno Music API with CometAPI?](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-started-with-the-suno-music-api-with-cometapi-k5h)
-- [Docker ve Kubernetes Çağında Containerization&#39;ın Geleceği: Modern Yazılım Geliştirmede Yeni Trendler](https://dev.to/yunus_emremert_1756b71d3/docker-ve-kubernetes-caginda-containerizationin-gelecegi-modern-yazilim-gelistirmede-yeni-trendler-43ef)
-- [LLM Agent Architecture for Scalable Company Summaries](https://dev.to/bobysf12/llm-agent-architecture-for-scalable-company-summaries-31m2)
+- [Programming Session Day 9–15: Number Property Programs in Java &lpar;Using `while` Loops&rpar;](https://dev.to/vigneshwaralingam/programming-session-day-9-15-number-property-programs-in-java-using-while-loops-4581)
+- [JS IQ - Level 1 - Part 2 &lpar;Pondit&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/js-iq-level-1-part-2-13k1)
+- [How to build a Task Manager using Django + HTMX](https://dev.to/up_min_sparcs/how-to-build-a-task-manager-using-django-htmx-43f4)
+- [Hi guys, do you guys know what problem is in this command?](https://dev.to/hng_trtrn_67bc14029b/hi-guys-do-you-guys-know-what-problem-is-in-this-command-4pci)
 <!-- BLOG-POST-LIST:END -->
 
