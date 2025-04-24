@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unnecessarily biased, boring, unprofessional JavaScript study note.](https://dev.to/gyunam_bark/unnecessarily-biased-boring-unprofessional-javascript-study-note-n85)
-- [Asszertív kommunikáció a technológiai munkakörnyezetben - Fejlesztői útmutató](https://dev.to/balazsrefi/asszertiv-kommunikacio-a-technologiai-munkakornyezetben-fejlesztoi-utmutato-3i3)
-- [IPython 的奇特 feature](https://dev.to/codemee/ipython-de-qi-te-feature-2fn8)
-- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
+- [Day 12 Java Learning :](https://dev.to/vigneshwaralingam/day-12-java-learning--4d7j)
+- [How to Get Started with the Suno Music API with CometAPI?](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-started-with-the-suno-music-api-with-cometapi-k5h)
+- [Docker ve Kubernetes Çağında Containerization&#39;ın Geleceği: Modern Yazılım Geliştirmede Yeni Trendler](https://dev.to/yunus_emremert_1756b71d3/docker-ve-kubernetes-caginda-containerizationin-gelecegi-modern-yazilim-gelistirmede-yeni-trendler-43ef)
+- [LLM Agent Architecture for Scalable Company Summaries](https://dev.to/bobysf12/llm-agent-architecture-for-scalable-company-summaries-31m2)
 <!-- BLOG-POST-LIST:END -->
 
