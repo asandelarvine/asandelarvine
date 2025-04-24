@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Session Day 9–15: Number Property Programs in Java &lpar;Using `while` Loops&rpar;](https://dev.to/vigneshwaralingam/programming-session-day-9-15-number-property-programs-in-java-using-while-loops-4581)
-- [JS IQ - Level 1 - Part 2 &lpar;Pondit&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/js-iq-level-1-part-2-13k1)
-- [How to build a Task Manager using Django + HTMX](https://dev.to/up_min_sparcs/how-to-build-a-task-manager-using-django-htmx-43f4)
-- [Hi guys, do you guys know what problem is in this command?](https://dev.to/hng_trtrn_67bc14029b/hi-guys-do-you-guys-know-what-problem-is-in-this-command-4pci)
+- [Master PHP 8.3: The Ultimate Guide for Modern Web Developers](https://dev.to/code_2/master-php-83-the-ultimate-guide-for-modern-web-developers-4ma5)
+- [Multi-Channel Lead Automation in Frappe: LinkedIn, Website Forms, Webhooks &amp; WhatsApp](https://dev.to/pranav_dixit_8b5a2ad19270/multi-channel-lead-automation-in-frappe-linkedin-website-forms-webhooks-whatsapp-5f2d)
+- [🚀 Dockerizing and Setting Up CI/CD for a .NET API with GitLab](https://dev.to/yash_maisuriya/dockerizing-and-setting-up-cicd-for-a-net-api-with-gitlab-2bjf)
+- [Bridging the Gap: Time-Bound Access in Event-Driven Architectures &lpar;Part 1 of 3&rpar;](https://dev.to/gvensan/bridging-the-gap-time-bound-access-in-event-driven-architectures-part-1-of-3-5bbi)
 <!-- BLOG-POST-LIST:END -->
 
