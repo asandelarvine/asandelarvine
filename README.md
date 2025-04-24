@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚧 Composer “Could Not Find the Config File” Error: Fixing the Bin Path](https://dev.to/chaitanya_rai_9f647dffb8a/composer-could-not-find-the-config-file-error-fixing-the-bin-path-5adj)
-- [Best Event Registration Platforms of 2025: Top Picks with Features, Benefits, and Pricing](https://dev.to/saanvipatel099/best-event-registration-platforms-of-2025-top-picks-with-features-benefits-and-pricing-2j1p)
-- [Project Scope Creep: What It Is and How to Prevent It in Dev Projects](https://dev.to/teamcamp/project-scope-creep-what-it-is-and-how-to-prevent-it-in-dev-projects-3loa)
-- [Answer: How to generate a random alpha-numeric string](https://dev.to/rtco2020/answer-how-to-generate-a-random-alpha-numeric-string-2nfc)
+- [Product Card UI](https://dev.to/preetha_vaishnavi_2b82358/product-card-ui-5b0b)
+- [[Boost]](https://dev.to/osiris8/-5ggb)
+- [GIT/GIT HUB COMMANDS](https://dev.to/shreevaishnavi_b24mcr100/gitgit-hub-commands-5pd)
+- [You&#39;re Not a Secure Developer Until You&#39;ve Built These 5 Projects](https://dev.to/shourya_sinha/youre-not-a-secure-developer-until-youve-built-these-5-projects-2g0m)
 <!-- BLOG-POST-LIST:END -->
 
