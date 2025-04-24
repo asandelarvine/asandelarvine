@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow - Important Terms](https://dev.to/guru_prasanna_01/servicenow-important-terms-4knc)
-- [Install Tailwind CSS v4 in a Vue 3 + Vite Project](https://dev.to/maulik2900/install-tailwind-css-v4-in-a-vue-3-vite-project-1nbg)
-- [Explode Your Organic Traffic with Our Link Building Wizards](https://dev.to/robertjohn5814/explode-your-organic-traffic-with-our-link-building-wizards-57el)
-- [How Web3 Trading Tournaments Turn Bear Markets into Builder Moments](https://dev.to/iri_denis/how-web3-trading-tournaments-turn-bear-markets-into-builder-moments-1308)
+- [Deploy a Django Rest Api on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Action.](https://dev.to/kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-4c6c)
+- [🌐 Unlocking the Power of Microsoft Azure: A Beginner’s Guide to Cloud Computing](https://dev.to/jms-luck/unlocking-the-power-of-microsoft-azure-a-beginners-guide-to-cloud-computing-5cj2)
+- [The Code Maestro Ambassador Program — Join the Guild 🧠](https://dev.to/codemaestro_ai/the-code-maestro-ambassador-program-join-the-guild-3plf)
+- [Still struggling to stay productive despite downloading multiple productivity tools? What you need is an app that offers all your productivity tools in one. Brite is your all-in-one productivity companion, check out this guide to using the Brite App.](https://dev.to/ollie20/still-struggling-to-stay-productive-even-after-downloading-multiple-productivity-tools-what-you-212n)
 <!-- BLOG-POST-LIST:END -->
 
