@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Product Card UI](https://dev.to/preetha_vaishnavi_2b82358/product-card-ui-5b0b)
-- [[Boost]](https://dev.to/osiris8/-5ggb)
-- [GIT/GIT HUB COMMANDS](https://dev.to/shreevaishnavi_b24mcr100/gitgit-hub-commands-5pd)
-- [You&#39;re Not a Secure Developer Until You&#39;ve Built These 5 Projects](https://dev.to/shourya_sinha/youre-not-a-secure-developer-until-youve-built-these-5-projects-2g0m)
+- [Free Content Creation Tools For Social Media on Turbo0](https://dev.to/justin3go/free-content-creation-tools-for-social-media-on-turbo0-4a87)
+- [Widgets: An Introduction](https://dev.to/jyothishjohnson/widgets-an-introduction-5a02)
+- [INTRODUCTION TO DATA ENGINEERING](https://dev.to/nicholas_kipngeno_0589c3e/introduction-to-data-engineering-5ebj)
+- [Modern Tasarım: Front-End Tasarım Desenleri ve Kullanıcı Deneyimini Geliştirme Sanatı](https://dev.to/yunus_emremert_1756b71d3/modern-tasarim-front-end-tasarim-desenleri-ve-kullanici-deneyimini-gelistirme-sanati-1j87)
 <!-- BLOG-POST-LIST:END -->
 
