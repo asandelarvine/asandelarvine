@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Energy Does ChatGPT Use Per Prompt?](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-2o24)
-- [Apa Itu Samsung DeX? Ubah HP Jadi Komputer?](https://dev.to/ryfazrin/apa-itu-samsung-dex-ubah-hp-jadi-komputer-1m9p)
-- [How to Create Your Own Home Lab for Hacking](https://dev.to/pawanjswal/how-to-create-your-own-home-lab-for-hacking-1i7i)
-- [Build a C# PDF Summarizer with OpenAI &lpar;Free Tier&rpar;](https://dev.to/seonglinchua/build-a-c-pdf-summarizer-with-openai-free-tier-4b4n)
+- [Celebrating 20 Years of Django: Why Developers Still Love It](https://dev.to/leapcell/celebrating-20-years-of-django-why-developers-still-love-it-38i)
+- [Step-by-Step Git Commands Execution:](https://dev.to/kavin_t24mcr053_a2852585/step-by-step-git-commands-execution-42ne)
+- [🌸10 Aesthetic Self-Care Rituals That Take 10 Minutes or Less](https://dev.to/kavinaya_lakshmanasamy_e2/10-aesthetic-self-care-rituals-that-take-10-minutes-or-less-2kgg)
+- [[Boost]](https://dev.to/wesleycoder/-1i4l)
 <!-- BLOG-POST-LIST:END -->
 
