@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Content Creation Tools For Social Media on Turbo0](https://dev.to/justin3go/free-content-creation-tools-for-social-media-on-turbo0-4a87)
-- [Widgets: An Introduction](https://dev.to/jyothishjohnson/widgets-an-introduction-5a02)
-- [INTRODUCTION TO DATA ENGINEERING](https://dev.to/nicholas_kipngeno_0589c3e/introduction-to-data-engineering-5ebj)
-- [Modern Tasarım: Front-End Tasarım Desenleri ve Kullanıcı Deneyimini Geliştirme Sanatı](https://dev.to/yunus_emremert_1756b71d3/modern-tasarim-front-end-tasarim-desenleri-ve-kullanici-deneyimini-gelistirme-sanati-1j87)
+- [Why 2025 Is the Year of AI-First Developer Tools](https://dev.to/mariecolvinn/why-2025-is-the-year-of-ai-first-developer-tools-3gih)
+- [📅 Understanding Application Log Timeframes: A Guide to Log Time Formats and Timezone Differences](https://dev.to/nithish_rodrigo/understanding-application-log-timeframes-a-guide-to-log-time-formats-and-timezone-differences-3ggo)
+- [Bug of the week #7](https://dev.to/pikotutorial/bug-of-the-week-7-2c6p)
+- [Facial Recognition vs. Other Authentication Methods](https://dev.to/luxandcloud/facial-recognition-vs-other-authentication-methods-5h1j)
 <!-- BLOG-POST-LIST:END -->
 
