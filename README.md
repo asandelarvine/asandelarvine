@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [whoami: &gt; 0xW3ston](https://dev.to/techlabma/whoami-0xw3ston-5abf)
-- [What is host &quot;0.0.0.0&quot;?](https://dev.to/engrmark/what-is-host0000-goa)
-- [[Boost]](https://dev.to/jtravisp/-1ell)
-- [Site do meu casamento &lpar;Alguém me ajuda?&rpar;](https://dev.to/ryangwalchmei/site-do-meu-casamento-alguem-me-ajuda-55gk)
+- [Recorriendo arrays en JavaScript: de lo clásico a lo moderno](https://dev.to/andresws/recorriendo-arrays-en-javascript-de-lo-clasico-a-lo-moderno-gko)
+- [Ryan &amp; Ben Show Guest Appearance &amp; myCFML](https://dev.to/gamesover/ryan-ben-show-guest-appearance-mycfml-phg)
+- [Orchestrated AI: New Framework Beats Autonomous Agents by 76%](https://dev.to/aimodels-fyi/orchestrated-ai-new-framework-beats-autonomous-agents-by-76-2mdb)
+- [LLMs vs Web3: New Benchmark Reveals Which AI Gets Blockchain](https://dev.to/aimodels-fyi/llms-vs-web3-new-benchmark-reveals-which-ai-gets-blockchain-jn4)
 <!-- BLOG-POST-LIST:END -->
 
