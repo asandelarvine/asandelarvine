@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Modules: The Backbone of Code](https://dev.to/lovestaco/js-modules-the-backbone-of-code-554o)
-- [Implementing JWT Middleware in Next.js: A Complete Guide to Auth](https://dev.to/leapcell/implementing-jwt-middleware-in-nextjs-a-complete-guide-to-auth-1b2d)
-- [Azure Applied Skills: Creating and configuring Azure Firewall](https://dev.to/johnogbonna/azure-applied-skills-creating-and-configuring-azure-firewall-mal)
-- [✨ Words That Work: 9 UX Writing Tips ✍️](https://dev.to/swetty_sultania_834f90237/words-that-work-9-ux-writing-tips-4e82)
+- [Why It Sucks to Be a Python Developer in 2025](https://dev.to/neil_brown_4c355cb16f17f2/why-it-sucks-to-be-a-python-developer-in-2025-25j3)
+- [JSON TO JOI SCHEMA CONVERTER](https://dev.to/prawesh_kumar_3fabbdc3844/json-to-joi-schema-converter-5ae)
+- [YouTube &amp; Spotify Playlist Randomizer](https://dev.to/lee_315dd1e13420e63e2b813/youtube-spotify-playlist-randomizer-3kad)
+- [Node.js vs Golang: Which One Should You Choose](https://dev.to/brilworks/nodejs-vs-golang-which-one-should-you-choose-469l)
 <!-- BLOG-POST-LIST:END -->
 
