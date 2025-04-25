@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Temel Yazılım Geliştirme Becerisi: Kodlama Ötesinde Başarılı Bir Kariyer İçin Anahtarlar](https://dev.to/yunus_emremert_1756b71d3/temel-yazilim-gelistirme-becerisi-kodlama-otesinde-basarili-bir-kariyer-icin-anahtarlar-1609)
-- [OWASP Top 10 For Flutter – M4: Insufficient Input/Output Validation in Flutter](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m4-insufficient-inputoutput-validation-in-flutter-5528)
-- [Guia Prático de Performance no Power BI](https://dev.to/ludolua/guia-pratico-de-performance-no-power-bi-2cba)
-- [Government RFPs: How AI Can Make Them Less of a Headache &lpar;and More Effective&rpar;](https://dev.to/meet_desai_6fbd24be7a17e6/government-rfps-how-ai-can-make-them-less-of-a-headache-and-more-effective-387i)
+- [The 5 Kinds Of Tech People Who Will Survive AI](https://dev.to/clark_teeple/the-5-kinds-of-tech-people-who-will-survive-ai-6ln)
+- [Daily Dose 25 April 2025](https://dev.to/td_inc/daily-dose-25-april-2025-b8a)
+- [What is AIOps?](https://dev.to/ta2ozg/what-is-aiops-h66)
+- [🧠 8 Data Structures That Make Your Database Perform Like Magic](https://dev.to/pandeyaditya0002/8-data-structures-that-make-your-database-perform-like-magic-8f)
 <!-- BLOG-POST-LIST:END -->
 
