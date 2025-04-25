@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flash-install](https://dev.to/nomnomhub/flash-install-502a)
-- [Implementing Simple RAG in local environment /w .NET &lpar;C#&rpar;.](https://dev.to/rufo123/implementing-simple-rag-in-local-environment-w-net-c-3mfo)
-- [What is a transformer model?](https://dev.to/shriyansh_iot_98734929139/what-is-a-transformer-model-43ia)
-- [How to install Terraform on Windows and run your first project](https://dev.to/nandkishor/how-to-install-terraform-on-windows-and-run-your-first-project-4pko)
+- [Ali Roboshoot: A Phaser 3 Arcade Shooter Powered by Alibaba Cloud](https://dev.to/async_dime/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c)
+- [Text-to-SQL: A Developer’s Zero-to-Hero Guide](https://dev.to/timescale/text-to-sql-a-developers-zero-to-hero-guide-48gi)
+- [Random Forest Algorithm: Powering Smarter Predictions with Supervised Learning](https://dev.to/poojzz_/random-forest-algorithm-powering-smarter-predictions-with-supervised-learning-2ibf)
+- [ToPILImage in PyTorch](https://dev.to/hyperkai/topilimage-in-pytorch-506c)
 <!-- BLOG-POST-LIST:END -->
 
