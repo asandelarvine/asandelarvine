@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/yaninagaray/untitled-4hnd)
-- [Webdesign](https://dev.to/muhammad_asadarshad_6098/webdesign-1j16)
-- [Flujo GitOps para Despliegue de Aplicaciones Web en GCP &lpar;Terraform + Argo CD + Kubernetes + Helm + GitHub Actions + Docker&rpar;](https://dev.to/liannmelannyhuamancunyas/flujo-gitops-para-despliegue-de-aplicaciones-web-en-gcp-terraform-argo-cd-kubernetes-helm--52o)
-- [Why Kubernetes Is Used - Kubernetes Simply Explained](https://dev.to/idubi/why-kubernetes-is-used-kubernetes-simply-explained-2gbb)
+- [10 VS Code Extensions That Actually Save You Time &lpar;Not Just Look Cool&rpar;](https://dev.to/sung_jinwoo_ae9a810f8c46a/10-vs-code-extensions-that-actually-save-you-time-not-just-look-cool-2a18)
+- [Fedora 39 Multi-Monitor set-up guide : Split, Stack, or Go HDMI-Only ft. QHD 27QN600](https://dev.to/codelemonade/fedora-39-multi-monitor-set-up-guide-split-stack-or-go-hdmi-only-ft-qhd-27qn600-1e42)
+- [Some Thoughts on AI and Creating Content](https://dev.to/devgrana/some-thoughts-on-ai-and-creating-content-3nd5)
+- [🚀 Level Up with These 10+ Useful Git Commands](https://dev.to/karthikio/level-up-with-these-10-useful-git-commands-o2b)
 <!-- BLOG-POST-LIST:END -->
 
