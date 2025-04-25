@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Exploring Event-Driven Architecture: A New Era in System Design 📊](https://dev.to/tejaroyal/exploring-event-driven-architecture-a-new-era-in-system-design-3gmd)
-- [My Experience Participating in KWoC](https://dev.to/shreyashsri/my-experience-participating-in-kwoc-3dac)
-- [This is my solution to the Character Counter challenge of FrontendMentor.](https://dev.to/nimusoes/this-is-my-solution-to-the-character-counter-challenge-of-frontendmentor-3p9b)
-- [Releated bro..](https://dev.to/ricorizz/releated-bro-1n8)
+- [Data Breach Forensics Investigation](https://dev.to/maithanh/data-breach-forensics-investigation-4d9a)
+- [String manipulation without in built methods Part 3](https://dev.to/ciamuthama/string-manipulation-without-in-built-methods-part-2-48n0)
+- [Hey there! I&#39;m Shihong Gan — a C++-obsessed third-year student building things that matter](https://dev.to/gshdev/hey-there-im-shihong-gan-a-c-obsessed-third-year-student-building-things-that-matter-d4h)
+- [🎨 Hi, I’m Swetty Sultania — UI/UX Designer &amp; Founder of @NuroDesign 🦄 🛍️ Check out my work 👇https://lnkd.in/enumg6KG](https://dev.to/swetty_sultania_834f90237/hi-im-swetty-sultania-uiux-designer-founder-of-nurodesign-check-out-my-work-kj8)
 <!-- BLOG-POST-LIST:END -->
 
