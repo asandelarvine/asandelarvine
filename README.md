@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled Blog](https://dev.to/meet_desai_6fbd24be7a17e6/untitled-blog-2e4k)
-- [Setting up a Kubernetes cluster with MicroK8s](https://dev.to/sertxudev/setting-up-a-kubernetes-cluster-with-microk8s-61k)
-- [How to Get Started with AWS Generative AI in Just 5 Steps](https://dev.to/mathu_seelan_a19e13f9b7fb/how-to-get-started-with-aws-generative-ai-in-just-5-steps-2n4a)
-- [Read this and your Web Design and Development Skills will take off](https://dev.to/web_dev-usman/read-this-and-your-web-design-and-development-skills-will-take-off-4hd6)
+- [How to bulk convert WebP to JPG &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-bulk-convert-webp-to-jpg-tutorial-2d0m)
+- [Join our webinar](https://dev.to/esthermillet/join-our-webinar-2gbe)
+- [Logan Paul&#39;s Flat Earth Joke: A Hilariously Level Perspective](https://dev.to/meet_desai_6fbd24be7a17e6/logan-pauls-flat-earth-joke-a-hilariously-level-perspective-1he)
+- [From Hello World to Hello Customers: Why Programs Aren’t Products](https://dev.to/this-is-learning/from-hello-world-to-hello-customers-why-programs-arent-products-imp)
 <!-- BLOG-POST-LIST:END -->
 
