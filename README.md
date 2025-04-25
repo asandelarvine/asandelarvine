@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It Sucks to Be a Python Developer in 2025](https://dev.to/neil_brown_4c355cb16f17f2/why-it-sucks-to-be-a-python-developer-in-2025-25j3)
-- [JSON TO JOI SCHEMA CONVERTER](https://dev.to/prawesh_kumar_3fabbdc3844/json-to-joi-schema-converter-5ae)
-- [YouTube &amp; Spotify Playlist Randomizer](https://dev.to/lee_315dd1e13420e63e2b813/youtube-spotify-playlist-randomizer-3kad)
-- [Node.js vs Golang: Which One Should You Choose](https://dev.to/brilworks/nodejs-vs-golang-which-one-should-you-choose-469l)
+- [🌐 Exploring Event-Driven Architecture: A New Era in System Design 📊](https://dev.to/tejaroyal/exploring-event-driven-architecture-a-new-era-in-system-design-3gmd)
+- [My Experience Participating in KWoC](https://dev.to/shreyashsri/my-experience-participating-in-kwoc-3dac)
+- [This is my solution to the Character Counter challenge of FrontendMentor.](https://dev.to/nimusoes/this-is-my-solution-to-the-character-counter-challenge-of-frontendmentor-3p9b)
+- [Releated bro..](https://dev.to/ricorizz/releated-bro-1n8)
 <!-- BLOG-POST-LIST:END -->
 
