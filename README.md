@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Webhook Service: How To Approach System Design Interview + Practical Example](https://dev.to/louaiboumediene/webhook-service-how-to-approach-system-design-interview-practical-example-8f7)
-- [24MCR001 - ML DAY1](https://dev.to/ajaykanna_24mcr001/24mcr001-ml-day1-521d)
-- [Git Advance Commands](https://dev.to/hema_js24mcr033/git-advance-commands-3ao1)
-- [RTK Query: A Beginner-Friendly Guide](https://dev.to/jakaria/rtk-query-a-beginner-friendly-guide-3ggg)
+- [Building a Logistic Regression Model with Python &amp; Running the Project in Docker: A Hands-On Guide](https://dev.to/iamjabastin/building-a-logistic-regression-model-with-python-running-the-project-in-docker-a-hands-on-guide-348c)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-873)
+- [How to use Variables to customize Terraform configuration](https://dev.to/olalekan_oladiran_d74b7a6/how-to-use-variables-to-customize-terraform-configuration-3oia)
+- [Starting My Journey to Become an AI Generalist — With No Code, No Certificates, Just AI Tools](https://dev.to/mukeshmoharana369/starting-my-journey-to-become-an-ai-generalist-with-no-code-no-certificates-just-ai-tools-mpd)
 <!-- BLOG-POST-LIST:END -->
 
