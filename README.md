@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🌟](https://dev.to/hanzla-baig/-5dmd)
+- [If You Run Your CI Locally, You’ve Already Failed](https://dev.to/francescobianco/if-you-run-your-ci-locally-youve-already-failed-28fn)
 - [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
 - [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
-- [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
-- [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
 <!-- BLOG-POST-LIST:END -->
 
