@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Vertex Cover Approximation via Iterative Dominating Set Transformations](https://dev.to/frank_vega_987689489099bf/efficient-vertex-cover-approximation-via-iterative-dominating-set-transformations-40i9)
-- [How I Set Up a Full Monitoring &amp; Status Page for My Side Project in 15 Minutes &lpar;for Free&rpar;](https://dev.to/therealfloatdev/how-i-set-up-a-full-monitoring-status-page-for-my-side-project-in-15-minutes-for-free-54a1)
-- [تجربه من از کار با Django: از مبتدی تا توسعه‌دهنده حرفه‌ای](https://dev.to/amir_mohamadzade_423ccf93/tjrbh-mn-z-khr-b-django-z-mbtdy-t-twshdhndh-hrfhy-22d0)
-- [6 retrieval augmented generation &lpar;RAG&rpar; techniques you should know](https://dev.to/logrocket/6-retrieval-augmented-generation-rag-techniques-you-should-know-4a5l)
+- [Untitled](https://dev.to/yaninagaray/untitled-4hnd)
+- [Webdesign](https://dev.to/muhammad_asadarshad_6098/webdesign-1j16)
+- [Flujo GitOps para Despliegue de Aplicaciones Web en GCP &lpar;Terraform + Argo CD + Kubernetes + Helm + GitHub Actions + Docker&rpar;](https://dev.to/liannmelannyhuamancunyas/flujo-gitops-para-despliegue-de-aplicaciones-web-en-gcp-terraform-argo-cd-kubernetes-helm--52o)
+- [Why Kubernetes Is Used - Kubernetes Simply Explained](https://dev.to/idubi/why-kubernetes-is-used-kubernetes-simply-explained-2gbb)
 <!-- BLOG-POST-LIST:END -->
 
