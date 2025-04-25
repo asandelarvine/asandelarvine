@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect the SafeLine Management Interface](https://dev.to/carrie_luo1/how-to-protect-the-safeline-management-interface-4c9i)
-- [Learning to Code with Free Online Resources](https://dev.to/denni25/learning-to-code-with-free-online-resources-32i0)
-- [Decoding the Latest Funded Startups: Trends and Lessons for Developers](https://dev.to/meet_desai_6fbd24be7a17e6/decoding-the-latest-funded-startups-trends-and-lessons-for-developers-1c1m)
-- [Best Analytics Tools for the Gaming Industry](https://dev.to/pambrus/best-analytics-tools-for-the-gaming-industry-5fjm)
+- [15 Best ERP Software of 2025 for Every Business Size and Industry.](https://dev.to/bhavesh_gangani_/15-best-erp-software-of-2025-for-every-business-size-and-industry-4fee)
+- [El papel del personal de procesos de negocio en el impulso del crecimiento organizacional](https://dev.to/linnoit/el-papel-del-personal-de-procesos-de-negocio-en-el-impulso-del-crecimiento-organizacional-4n61)
+- [Was ist ein Headless CMS? Und warum Sanity.io mein neuer bester Freund ist 🚀](https://dev.to/ivo_sa/was-ist-ein-headless-cms-und-warum-sanityio-mein-neuer-bester-freund-ist-1l8m)
+- [Top Use Cases of AWS in Modern Application Development](https://dev.to/piya__c204c9e90/top-use-cases-of-aws-in-modern-application-development-1okn)
 <!-- BLOG-POST-LIST:END -->
 
