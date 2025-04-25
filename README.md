@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep It Tight: Using Locally Scoped Helper Functions in Kotlin Use Cases](https://dev.to/paulfranco/keep-it-tight-using-locally-scoped-helper-functions-in-kotlin-use-cases-5004)
-- [Applying Any SAST Tools to Any Application: A Practical Guide&quot; published](https://dev.to/draigo15/applying-any-sast-tools-to-any-application-a-practical-guidepublished-3063)
-- [Forex Data Interface: Deep Dive into Alltick&#39;s Quantitative Trading Data Engine](https://dev.to/liliiii/forex-data-interface-deep-dive-into-allticks-quantitative-trading-data-engine-fi)
-- [Creating and Managing Directories in Termux &lpar;Beginner Guide&rpar;](https://dev.to/terminaltools/creating-and-managing-directories-in-termux-beginner-guide-3b2d)
+- [JS Modules: The Backbone of Code](https://dev.to/lovestaco/js-modules-the-backbone-of-code-554o)
+- [Implementing JWT Middleware in Next.js: A Complete Guide to Auth](https://dev.to/leapcell/implementing-jwt-middleware-in-nextjs-a-complete-guide-to-auth-1b2d)
+- [Azure Applied Skills: Creating and configuring Azure Firewall](https://dev.to/johnogbonna/azure-applied-skills-creating-and-configuring-azure-firewall-mal)
+- [✨ Words That Work: 9 UX Writing Tips ✍️](https://dev.to/swetty_sultania_834f90237/words-that-work-9-ux-writing-tips-4e82)
 <!-- BLOG-POST-LIST:END -->
 
