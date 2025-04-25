@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Progress Aggregation in a Deeply Nested Task Hierarchy with Real-Time Sync &lpar;PostgreSQL + PowerSync&rpar;](https://dev.to/paging/efficient-progress-aggregation-in-a-deeply-nested-task-hierarchy-with-real-time-sync-postgresql--1don)
-- [Quantum Computing: The new engine for drug discovery?](https://dev.to/davidbosah/quantum-computing-the-new-engine-for-drug-discovery-26gi)
-- [A Fase de Avaliação &lpar;Evaluation&rpar;](https://dev.to/_richardson_/a-fase-de-avaliacao-evaluation-43g5)
-- [Just some advice for new devs in 2025](https://dev.to/blqke/just-some-advice-for-new-devs-in-2025-2kdc)
+- [🧵 Why Rust Needs `FdWrapper`: Understanding File Descriptors and RAII at the System Level](https://dev.to/_56d7718cea8fe00ec1610/why-rust-needs-fdwrapper-understanding-file-descriptors-and-raii-at-the-system-level-3oom)
+- [Pourquoi la Nissan CUE-X de 1985 reste une pépite tech en 2025 🚗💾](https://dev.to/mission_ile_de_la_cite/pourquoi-la-nissan-cue-x-de-1985-reste-une-pepite-tech-en-2025-4pla)
+- [Navigating the Future of Decentralized Decision-Making: Arbitrum and On-Chain Governance](https://dev.to/bobcars/navigating-the-future-of-decentralized-decision-making-arbitrum-and-on-chain-governance-4b6g)
+- [👉 Gathering Magic: How .reduce&lpar;&rpar; is JavaScript Alchemy](https://dev.to/middledev/gathering-magic-how-reduce-is-javascript-alchemy-48gf)
 <!-- BLOG-POST-LIST:END -->
 
