@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Kinds Of Tech People Who Will Survive AI](https://dev.to/clark_teeple/the-5-kinds-of-tech-people-who-will-survive-ai-6ln)
-- [Daily Dose 25 April 2025](https://dev.to/td_inc/daily-dose-25-april-2025-b8a)
-- [What is AIOps?](https://dev.to/ta2ozg/what-is-aiops-h66)
-- [🧠 8 Data Structures That Make Your Database Perform Like Magic](https://dev.to/pandeyaditya0002/8-data-structures-that-make-your-database-perform-like-magic-8f)
+- [Flash-install](https://dev.to/nomnomhub/flash-install-502a)
+- [Implementing Simple RAG in local environment /w .NET &lpar;C#&rpar;.](https://dev.to/rufo123/implementing-simple-rag-in-local-environment-w-net-c-3mfo)
+- [What is a transformer model?](https://dev.to/shriyansh_iot_98734929139/what-is-a-transformer-model-43ia)
+- [How to install Terraform on Windows and run your first project](https://dev.to/nandkishor/how-to-install-terraform-on-windows-and-run-your-first-project-4pko)
 <!-- BLOG-POST-LIST:END -->
 
