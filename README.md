@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 25 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-april-l2a)
-- [About Day-2](https://dev.to/janarthan_g/about-day-2-4bal)
-- [Monitoring Made Simple: How SigNoz Is Revolutionizing Observability for Engineering Teams 📊](https://dev.to/prateekbka/monitoring-made-simple-how-signoz-is-revolutionizing-observability-for-engineering-teams-511b)
-- [The Coffee-Cam: How Our Office Coffee Machine Learned to Talk](https://dev.to/opctim/the-coffee-cam-how-our-office-coffee-machine-learned-to-talk-dlf)
+- [Webhook Service: How To Approach System Design Interview + Practical Example](https://dev.to/louaiboumediene/webhook-service-how-to-approach-system-design-interview-practical-example-8f7)
+- [24MCR001 - ML DAY1](https://dev.to/ajaykanna_24mcr001/24mcr001-ml-day1-521d)
+- [Git Advance Commands](https://dev.to/hema_js24mcr033/git-advance-commands-3ao1)
+- [RTK Query: A Beginner-Friendly Guide](https://dev.to/jakaria/rtk-query-a-beginner-friendly-guide-3ggg)
 <!-- BLOG-POST-LIST:END -->
 
