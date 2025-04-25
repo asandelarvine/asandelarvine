@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best ERP Software of 2025 for Every Business Size and Industry.](https://dev.to/bhavesh_gangani_/15-best-erp-software-of-2025-for-every-business-size-and-industry-4fee)
-- [El papel del personal de procesos de negocio en el impulso del crecimiento organizacional](https://dev.to/linnoit/el-papel-del-personal-de-procesos-de-negocio-en-el-impulso-del-crecimiento-organizacional-4n61)
-- [Was ist ein Headless CMS? Und warum Sanity.io mein neuer bester Freund ist 🚀](https://dev.to/ivo_sa/was-ist-ein-headless-cms-und-warum-sanityio-mein-neuer-bester-freund-ist-1l8m)
-- [Top Use Cases of AWS in Modern Application Development](https://dev.to/piya__c204c9e90/top-use-cases-of-aws-in-modern-application-development-1okn)
+- [Temel Yazılım Geliştirme Becerisi: Kodlama Ötesinde Başarılı Bir Kariyer İçin Anahtarlar](https://dev.to/yunus_emremert_1756b71d3/temel-yazilim-gelistirme-becerisi-kodlama-otesinde-basarili-bir-kariyer-icin-anahtarlar-1609)
+- [OWASP Top 10 For Flutter – M4: Insufficient Input/Output Validation in Flutter](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m4-insufficient-inputoutput-validation-in-flutter-5528)
+- [Guia Prático de Performance no Power BI](https://dev.to/ludolua/guia-pratico-de-performance-no-power-bi-2cba)
+- [Government RFPs: How AI Can Make Them Less of a Headache &lpar;and More Effective&rpar;](https://dev.to/meet_desai_6fbd24be7a17e6/government-rfps-how-ai-can-make-them-less-of-a-headache-and-more-effective-387i)
 <!-- BLOG-POST-LIST:END -->
 
