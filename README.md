@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Breach Forensics Investigation](https://dev.to/maithanh/data-breach-forensics-investigation-4d9a)
-- [String manipulation without in built methods Part 3](https://dev.to/ciamuthama/string-manipulation-without-in-built-methods-part-2-48n0)
-- [Hey there! I&#39;m Shihong Gan — a C++-obsessed third-year student building things that matter](https://dev.to/gshdev/hey-there-im-shihong-gan-a-c-obsessed-third-year-student-building-things-that-matter-d4h)
-- [🎨 Hi, I’m Swetty Sultania — UI/UX Designer &amp; Founder of @NuroDesign 🦄 🛍️ Check out my work 👇https://lnkd.in/enumg6KG](https://dev.to/swetty_sultania_834f90237/hi-im-swetty-sultania-uiux-designer-founder-of-nurodesign-check-out-my-work-kj8)
+- [Untitled Blog](https://dev.to/meet_desai_6fbd24be7a17e6/untitled-blog-2e4k)
+- [Setting up a Kubernetes cluster with MicroK8s](https://dev.to/sertxudev/setting-up-a-kubernetes-cluster-with-microk8s-61k)
+- [How to Get Started with AWS Generative AI in Just 5 Steps](https://dev.to/mathu_seelan_a19e13f9b7fb/how-to-get-started-with-aws-generative-ai-in-just-5-steps-2n4a)
+- [Read this and your Web Design and Development Skills will take off](https://dev.to/web_dev-usman/read-this-and-your-web-design-and-development-skills-will-take-off-4hd6)
 <!-- BLOG-POST-LIST:END -->
 
