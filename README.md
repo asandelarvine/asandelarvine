@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ali Roboshoot: A Phaser 3 Arcade Shooter Powered by Alibaba Cloud](https://dev.to/async_dime/ali-roboshoot-a-phaser-3-arcade-shooter-powered-by-alibaba-cloud-30c)
-- [Text-to-SQL: A Developer’s Zero-to-Hero Guide](https://dev.to/timescale/text-to-sql-a-developers-zero-to-hero-guide-48gi)
-- [Random Forest Algorithm: Powering Smarter Predictions with Supervised Learning](https://dev.to/poojzz_/random-forest-algorithm-powering-smarter-predictions-with-supervised-learning-2ibf)
-- [ToPILImage in PyTorch](https://dev.to/hyperkai/topilimage-in-pytorch-506c)
+- [🚀 Your Daily Crypto Job Digest For 25 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-25-april-l2a)
+- [About Day-2](https://dev.to/janarthan_g/about-day-2-4bal)
+- [Monitoring Made Simple: How SigNoz Is Revolutionizing Observability for Engineering Teams 📊](https://dev.to/prateekbka/monitoring-made-simple-how-signoz-is-revolutionizing-observability-for-engineering-teams-511b)
+- [The Coffee-Cam: How Our Office Coffee Machine Learned to Talk](https://dev.to/opctim/the-coffee-cam-how-our-office-coffee-machine-learned-to-talk-dlf)
 <!-- BLOG-POST-LIST:END -->
 
