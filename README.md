@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Logistic Regression Model with Python &amp; Running the Project in Docker: A Hands-On Guide](https://dev.to/iamjabastin/building-a-logistic-regression-model-with-python-running-the-project-in-docker-a-hands-on-guide-348c)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-873)
-- [How to use Variables to customize Terraform configuration](https://dev.to/olalekan_oladiran_d74b7a6/how-to-use-variables-to-customize-terraform-configuration-3oia)
-- [Starting My Journey to Become an AI Generalist — With No Code, No Certificates, Just AI Tools](https://dev.to/mukeshmoharana369/starting-my-journey-to-become-an-ai-generalist-with-no-code-no-certificates-just-ai-tools-mpd)
+- [Efficient Vertex Cover Approximation via Iterative Dominating Set Transformations](https://dev.to/frank_vega_987689489099bf/efficient-vertex-cover-approximation-via-iterative-dominating-set-transformations-40i9)
+- [How I Set Up a Full Monitoring &amp; Status Page for My Side Project in 15 Minutes &lpar;for Free&rpar;](https://dev.to/therealfloatdev/how-i-set-up-a-full-monitoring-status-page-for-my-side-project-in-15-minutes-for-free-54a1)
+- [تجربه من از کار با Django: از مبتدی تا توسعه‌دهنده حرفه‌ای](https://dev.to/amir_mohamadzade_423ccf93/tjrbh-mn-z-khr-b-django-z-mbtdy-t-twshdhndh-hrfhy-22d0)
+- [6 retrieval augmented generation &lpar;RAG&rpar; techniques you should know](https://dev.to/logrocket/6-retrieval-augmented-generation-rag-techniques-you-should-know-4a5l)
 <!-- BLOG-POST-LIST:END -->
 
