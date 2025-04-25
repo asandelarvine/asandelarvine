@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 VS Code Extensions That Actually Save You Time &lpar;Not Just Look Cool&rpar;](https://dev.to/sung_jinwoo_ae9a810f8c46a/10-vs-code-extensions-that-actually-save-you-time-not-just-look-cool-2a18)
-- [Fedora 39 Multi-Monitor set-up guide : Split, Stack, or Go HDMI-Only ft. QHD 27QN600](https://dev.to/codelemonade/fedora-39-multi-monitor-set-up-guide-split-stack-or-go-hdmi-only-ft-qhd-27qn600-1e42)
-- [Some Thoughts on AI and Creating Content](https://dev.to/devgrana/some-thoughts-on-ai-and-creating-content-3nd5)
-- [🚀 Level Up with These 10+ Useful Git Commands](https://dev.to/karthikio/level-up-with-these-10-useful-git-commands-o2b)
+- [Efficient Progress Aggregation in a Deeply Nested Task Hierarchy with Real-Time Sync &lpar;PostgreSQL + PowerSync&rpar;](https://dev.to/paging/efficient-progress-aggregation-in-a-deeply-nested-task-hierarchy-with-real-time-sync-postgresql--1don)
+- [Quantum Computing: The new engine for drug discovery?](https://dev.to/davidbosah/quantum-computing-the-new-engine-for-drug-discovery-26gi)
+- [A Fase de Avaliação &lpar;Evaluation&rpar;](https://dev.to/_richardson_/a-fase-de-avaliacao-evaluation-43g5)
+- [Just some advice for new devs in 2025](https://dev.to/blqke/just-some-advice-for-new-devs-in-2025-2kdc)
 <!-- BLOG-POST-LIST:END -->
 
