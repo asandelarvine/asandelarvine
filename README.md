@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Persistent Undo/Redo Stack in React Without Redux](https://dev.to/hexshift/how-to-build-a-persistent-undoredo-stack-in-react-without-redux-4ceg)
-- [How to Build a Debounced Global Search Context in React &lpar;No Libraries&rpar;](https://dev.to/hexshift/how-to-build-a-debounced-global-search-context-in-react-no-libraries-21p8)
-- [JavaScript Functions](https://dev.to/nuriddin_aliy_69d80bb2700/javascript-functions-196i)
-- [Building a Custom React Context with Optimized Selectors &lpar;Without Re-Renders&rpar;](https://dev.to/hexshift/building-a-custom-react-context-with-optimized-selectors-without-re-renders-38jn)
+- [Instagram App Clone with Pure HTML and CSS 📸](https://dev.to/abdullah_web_dev/instagram-app-clone-with-pure-html-and-css-4d1n)
+- [OBS Çoklu Kayıt Çözümü Kamera ve Ekranı Farklı Videolar Olarak Kaydetme](https://dev.to/eagledfc/obs-coklu-kayit-cozumu-kamera-ve-ekrani-farkli-videolar-olarak-kaydetme-1fnh)
+- [How to Turn Code Into Art and Games with p5.js](https://dev.to/up_min_sparcs/how-to-turn-code-into-art-and-games-with-p5js-1n7j)
+- [Build a Google Homepage Clone Using Only HTML and CSS 🚀](https://dev.to/abdullah_web_dev/build-a-google-homepage-clone-using-only-html-and-css-3mf6)
 <!-- BLOG-POST-LIST:END -->
 
