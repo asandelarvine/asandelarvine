@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Better Commits and Pull Requests for Clean and Scalable Projects](https://dev.to/ndekocode/how-to-write-better-commits-and-pull-requests-for-clean-and-scalable-projects-3b1n)
-- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-1b2f)
-- [JavaScript Mastery Showdown: Precision, Power, and Performance](https://dev.to/anupam_kumar/javascript-mastery-showdown-precision-power-and-performance-285i)
-- [The Best Way to Study Smarter, Not Harder](https://dev.to/researchwize/the-best-way-to-study-smarter-not-harder-2jdn)
+- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
+- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
+- [Your Kubernetes clusters deserve to stay clean. Your platform deserves full control. Now you can have both.](https://dev.to/simone_morellato/your-kubernetes-clusters-deserve-to-stay-clean-your-platform-deserves-full-control-now-you-can-2di8)
+- [🤷‍♀️ SeraJS is a lightweight, signal-based reactive JavaScript library](https://dev.to/codervai/serajs-is-a-lightweight-signal-based-reactive-javascript-library-5alo)
 <!-- BLOG-POST-LIST:END -->
 
