@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the MERN Stack: Your Ultimate Roadmap to Full-Stack Supremacy](https://dev.to/anupam_kumar/mastering-the-mern-stack-your-ultimate-roadmap-to-full-stack-supremacy-nnn)
-- [AWS Serverless: Build a CI/CD Pipeline for Lambda and API Gateway Using SAM and GitHub - Part 1](https://dev.to/bhatiagirish/aws-serverless-build-a-cicd-pipeline-for-lambda-and-api-gateway-using-sam-and-github-part-1-313b)
-- [Git Branching Strategy](https://dev.to/khalid7487/git-branching-strategy-c31)
-- [7 AI-Powered Productivity Tools That Will Supercharge Your Workflow in 2025](https://dev.to/tamajit_modak/7-ai-powered-productivity-tools-that-will-supercharge-your-workflow-in-2025-394h)
+- [Kuwain: Arabic Language Injection Boosts English LLM Without Retraining](https://dev.to/aimodels-fyi/kuwain-arabic-language-injection-boosts-english-llm-without-retraining-6hc)
+- [CRUST-Bench: New Benchmark for Safe C-to-Rust Transpilation with Realistic Code &amp; Tests](https://dev.to/aimodels-fyi/crust-bench-new-benchmark-for-safe-c-to-rust-transpilation-with-realistic-code-tests-46do)
+- [ML DAY 1 &lpar;24MCR019&rpar;](https://dev.to/dharshini_v_e802db3656637/ml-day-1-24mcr019-2b1p)
+- [Verify LLMs: How to Spot Fake AI in Decentralized Networks](https://dev.to/aimodels-fyi/verify-llms-how-to-spot-fake-ai-in-decentralized-networks-2mfp)
 <!-- BLOG-POST-LIST:END -->
 
