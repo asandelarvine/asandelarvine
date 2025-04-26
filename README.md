@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Iris Flower Prediction using Machine Learning 🌸](https://dev.to/dhanushya_venkatrajan_15a/iris-flower-prediction-using-machine-learning-4231)
-- [Reverse words](https://dev.to/maddiepst/reverse-words-28h9)
-- [Beyond the Basics: 10 Git Commands to Level Up Your Development Game](https://dev.to/developersakthi/beyond-the-basics-10-git-commands-to-level-up-your-development-game-gm6)
-- [🎩 Ansible Local Lab with Vagrant in No Time](https://dev.to/kartikdudeja21/ansible-local-lab-with-vagrant-in-no-time-1oln)
+- [In my free time i read blogs in Dev and then i find this blog really interesting check it out!](https://dev.to/aryan_panwala/in-my-free-time-i-read-blogs-in-dev-and-then-i-find-this-blog-really-interesting-check-it-out-3jpk)
+- [The Iron Triangle in software Projects](https://dev.to/nikhil_sachapara/the-iron-triangle-in-software-projects-22io)
+- [Great Blog on Iron Triangle in Software project Check it out](https://dev.to/pranesh_patel/great-blog-on-iron-triangle-in-software-project-check-it-out-25mp)
+- [🛡️ Why It&#39;s Crucial to Protect Your API Keys and API Tokens](https://dev.to/cl0udleadanis/why-its-crucial-to-protect-your-api-keys-and-api-tokens-37o8)
 <!-- BLOG-POST-LIST:END -->
 
