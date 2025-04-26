@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript&#39;s Execution Contexts](https://dev.to/omriluz1/understanding-javascripts-execution-contexts-3l34)
-- [Perspective carousel](https://dev.to/preetha_vaishnavi_2b82358/perspective-carousel-gd2)
-- [witness](https://dev.to/preetha_vaishnavi_2b82358/witness-2f66)
-- [Building AI Model](https://dev.to/theaniketrajdev/building-ai-model-2h75)
+- [Make Your Game Faster with IMG + Alibaba Cloud CDN](https://dev.to/jamesrmoro/make-your-game-faster-with-img-alibaba-cloud-cdn-5cho)
+- [🚀 I Dockerized a simple ML model and uploaded it to GitHub with step-by-step commands and screenshots. Perfect for beginners! 🔥](https://dev.to/m_kanagadurga_14/i-dockerized-a-simple-ml-model-and-uploaded-it-to-github-with-step-by-step-commands-and-5gdg)
+- [How I do local development CockroachDB Backups](https://dev.to/sweethuman/how-i-do-local-development-cockroachdb-backups-389b)
+- [How I Use ChatGPT to Refactor Smarter, Not Harder](https://dev.to/sung_jinwoo_ae9a810f8c46a/how-i-use-chatgpt-to-refactor-smarter-not-harder-385d)
 <!-- BLOG-POST-LIST:END -->
 
