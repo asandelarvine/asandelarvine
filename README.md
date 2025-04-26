@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your Game Faster with IMG + Alibaba Cloud CDN](https://dev.to/jamesrmoro/make-your-game-faster-with-img-alibaba-cloud-cdn-5cho)
-- [🚀 I Dockerized a simple ML model and uploaded it to GitHub with step-by-step commands and screenshots. Perfect for beginners! 🔥](https://dev.to/m_kanagadurga_14/i-dockerized-a-simple-ml-model-and-uploaded-it-to-github-with-step-by-step-commands-and-5gdg)
-- [How I do local development CockroachDB Backups](https://dev.to/sweethuman/how-i-do-local-development-cockroachdb-backups-389b)
-- [How I Use ChatGPT to Refactor Smarter, Not Harder](https://dev.to/sung_jinwoo_ae9a810f8c46a/how-i-use-chatgpt-to-refactor-smarter-not-harder-385d)
+- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
+- [Hospedagem gratuita: vale a Pena? vantagens e limitações explicadas](https://dev.to/estudiowin/hospedagem-gratuita-vale-a-pena-vantagens-e-limitacoes-explicadas-4g4l)
+- [What Makes a Status Page Trustworthy? A Dev’s Checklist](https://dev.to/therealfloatdev/what-makes-a-status-page-trustworthy-a-devs-checklist-cfo)
+- [Mangas no Kindle](https://dev.to/duardodev/mangas-no-kindle-1p10)
 <!-- BLOG-POST-LIST:END -->
 
