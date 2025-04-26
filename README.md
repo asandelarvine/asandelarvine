@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy Modernization Day Nigeria](https://dev.to/saint_vandora/legacy-modernization-day-nigeria-doo)
-- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
-- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
-- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
+- [Memory Management in JS: The Silent Hero](https://dev.to/lovestaco/memory-management-in-js-the-silent-hero-4310)
+- [🎬 Linux Sitcom Episode: &quot;The One Where They Manage User Accounts&quot;](https://dev.to/higgs182092/linux-sitcom-episode-the-one-where-they-manage-user-accounts-57e8)
+- [Complejidad de un algoritmo](https://dev.to/erickvasm/complejidad-de-un-algoritmo-4ma6)
+- [MANUAL TESTING AND ITS FUTURE](https://dev.to/aiswaryapr123/manual-testing-and-its-future-l6i)
 <!-- BLOG-POST-LIST:END -->
 
