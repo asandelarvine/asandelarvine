@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram App Clone with Pure HTML and CSS 📸](https://dev.to/abdullah_web_dev/instagram-app-clone-with-pure-html-and-css-4d1n)
-- [OBS Çoklu Kayıt Çözümü Kamera ve Ekranı Farklı Videolar Olarak Kaydetme](https://dev.to/eagledfc/obs-coklu-kayit-cozumu-kamera-ve-ekrani-farkli-videolar-olarak-kaydetme-1fnh)
-- [How to Turn Code Into Art and Games with p5.js](https://dev.to/up_min_sparcs/how-to-turn-code-into-art-and-games-with-p5js-1n7j)
-- [Build a Google Homepage Clone Using Only HTML and CSS 🚀](https://dev.to/abdullah_web_dev/build-a-google-homepage-clone-using-only-html-and-css-3mf6)
+- [How I Use AI to Design Webflow Sites 2x Faster](https://dev.to/ciphernutz/how-i-use-ai-to-design-webflow-sites-2x-faster-5djg)
+- [I Built a Free JSON Formatter &amp; Viewer for Developers — Feedback Welcome!](https://dev.to/sachinkasana/i-built-a-free-json-formatter-viewer-for-developers-feedback-welcome-33o4)
+- [Golang: Generics in Go](https://dev.to/olawaleo/golang-generics-in-go-4ima)
+- [Go - &lpar;6&rpar; Arrays and Slices](https://dev.to/chathurashmini/go-6-arrays-and-slices-43mn)
 <!-- BLOG-POST-LIST:END -->
 
