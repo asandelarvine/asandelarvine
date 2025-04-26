@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Render Wars: Rise of the Client [Part 1]](https://dev.to/abanoubsamir28/render-wars-rise-of-the-client-part-1-c9p)
-- [The Monitoring Stack That Saved Me 3 Nights of Sleep](https://dev.to/therealfloatdev/the-monitoring-stack-that-saved-me-3-nights-of-sleep-boc)
-- [Understanding Apex Data Types: The Building Blocks of Salesforce Development](https://dev.to/oyinfunke/understanding-apex-data-types-the-building-blocks-of-salesforce-development-54i2)
-- [🚀 How to Quickly Deploy a Containerized Nginx Server on Google Cloud Using Terraform](https://dev.to/surendergupta/how-to-quickly-deploy-a-containerized-nginx-server-on-google-cloud-using-terraform-29cn)
+- [How AWS Contact Center Integrates with CRM &amp; ERP Solutions](https://dev.to/mathu_seelan_a19e13f9b7fb/how-aws-contact-center-integrates-with-crm-erp-solutions-2c7b)
+- [Building Relaticle: A Free &amp; Open Source CRM with Laravel 12 &amp; Filament 3](https://dev.to/manukminasyan/building-relaticle-a-free-open-source-crm-with-laravel-12-filament-3-h3g)
+- [🌦️ Meet Your Interactive Weather Companion!](https://dev.to/buildandcodewithraman/meet-your-interactive-weather-companion-35p0)
+- [Exploring Arbitrum Wallet Compatibility and Withdrawal Times: A Comprehensive Analysis](https://dev.to/laetitiaperraut/exploring-arbitrum-wallet-compatibility-and-withdrawal-times-a-comprehensive-analysis-11km)
 <!-- BLOG-POST-LIST:END -->
 
