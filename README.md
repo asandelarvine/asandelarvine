@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧵 Why Rust Needs `FdWrapper`: Understanding File Descriptors and RAII at the System Level](https://dev.to/_56d7718cea8fe00ec1610/why-rust-needs-fdwrapper-understanding-file-descriptors-and-raii-at-the-system-level-3oom)
-- [Pourquoi la Nissan CUE-X de 1985 reste une pépite tech en 2025 🚗💾](https://dev.to/mission_ile_de_la_cite/pourquoi-la-nissan-cue-x-de-1985-reste-une-pepite-tech-en-2025-4pla)
-- [Navigating the Future of Decentralized Decision-Making: Arbitrum and On-Chain Governance](https://dev.to/bobcars/navigating-the-future-of-decentralized-decision-making-arbitrum-and-on-chain-governance-4b6g)
-- [👉 Gathering Magic: How .reduce&lpar;&rpar; is JavaScript Alchemy](https://dev.to/middledev/gathering-magic-how-reduce-is-javascript-alchemy-48gf)
+- [How to Write Better Commits and Pull Requests for Clean and Scalable Projects](https://dev.to/ndekocode/how-to-write-better-commits-and-pull-requests-for-clean-and-scalable-projects-3b1n)
+- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-1b2f)
+- [JavaScript Mastery Showdown: Precision, Power, and Performance](https://dev.to/anupam_kumar/javascript-mastery-showdown-precision-power-and-performance-285i)
+- [The Best Way to Study Smarter, Not Harder](https://dev.to/researchwize/the-best-way-to-study-smarter-not-harder-2jdn)
 <!-- BLOG-POST-LIST:END -->
 
