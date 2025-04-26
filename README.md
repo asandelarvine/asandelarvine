@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kuwain: Arabic Language Injection Boosts English LLM Without Retraining](https://dev.to/aimodels-fyi/kuwain-arabic-language-injection-boosts-english-llm-without-retraining-6hc)
-- [CRUST-Bench: New Benchmark for Safe C-to-Rust Transpilation with Realistic Code &amp; Tests](https://dev.to/aimodels-fyi/crust-bench-new-benchmark-for-safe-c-to-rust-transpilation-with-realistic-code-tests-46do)
-- [ML DAY 1 &lpar;24MCR019&rpar;](https://dev.to/dharshini_v_e802db3656637/ml-day-1-24mcr019-2b1p)
-- [Verify LLMs: How to Spot Fake AI in Decentralized Networks](https://dev.to/aimodels-fyi/verify-llms-how-to-spot-fake-ai-in-decentralized-networks-2mfp)
+- [I got tired of building backend APIs manually, so I built a tool to generate them instantly 🚀”](https://dev.to/apier_development_86d9e54/i-got-tired-of-building-backend-apis-manually-so-i-built-a-tool-to-generate-them-instantly--b1k)
+- [Arbitrum and Network Congestion: Navigating the Future of Scalable Decentralized Applications](https://dev.to/ahmmrizv9/arbitrum-and-network-congestion-navigating-the-future-of-scalable-decentralized-applications-3d2h)
+- [What&#39;s in Cloud Computing..?](https://dev.to/akash029/whats-in-cloud-computing-h1b)
+- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
 <!-- BLOG-POST-LIST:END -->
 
