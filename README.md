@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
-- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
-- [Your Kubernetes clusters deserve to stay clean. Your platform deserves full control. Now you can have both.](https://dev.to/simone_morellato/your-kubernetes-clusters-deserve-to-stay-clean-your-platform-deserves-full-control-now-you-can-2di8)
-- [🤷‍♀️ SeraJS is a lightweight, signal-based reactive JavaScript library](https://dev.to/codervai/serajs-is-a-lightweight-signal-based-reactive-javascript-library-5alo)
+- [Iris Flower Prediction using Machine Learning 🌸](https://dev.to/dhanushya_venkatrajan_15a/iris-flower-prediction-using-machine-learning-4231)
+- [Reverse words](https://dev.to/maddiepst/reverse-words-28h9)
+- [Beyond the Basics: 10 Git Commands to Level Up Your Development Game](https://dev.to/developersakthi/beyond-the-basics-10-git-commands-to-level-up-your-development-game-gm6)
+- [🎩 Ansible Local Lab with Vagrant in No Time](https://dev.to/kartikdudeja21/ansible-local-lab-with-vagrant-in-no-time-1oln)
 <!-- BLOG-POST-LIST:END -->
 
