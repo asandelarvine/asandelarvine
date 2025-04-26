@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Privacy in Arbitrum: Bridging Blockchain Confidentiality with Modern Innovations](https://dev.to/kallileiser/enhancing-privacy-in-arbitrum-bridging-blockchain-confidentiality-with-modern-innovations-1ofe)
-- [Building CLI Applications in Python](https://dev.to/godofgeeks/building-cli-applications-in-python-3cnc)
-- [Django Migrations in Kubernetes: Avoid Downtime with These Battle-Tested Tips ⚙️](https://dev.to/pranav_dixit_8b5a2ad19270/django-migrations-in-kubernetes-avoid-downtime-with-these-battle-tested-tips-3neg)
-- [Amazon Chime Login: A Step-By-Step Guide to Logging In and Getting Started](https://dev.to/khushi0918_khushi_5ad706c/amazon-chime-login-a-step-by-step-guide-to-logging-in-and-getting-started-45dg)
+- [Render Wars: Rise of the Client [Part 1]](https://dev.to/abanoubsamir28/render-wars-rise-of-the-client-part-1-c9p)
+- [The Monitoring Stack That Saved Me 3 Nights of Sleep](https://dev.to/therealfloatdev/the-monitoring-stack-that-saved-me-3-nights-of-sleep-boc)
+- [Understanding Apex Data Types: The Building Blocks of Salesforce Development](https://dev.to/oyinfunke/understanding-apex-data-types-the-building-blocks-of-salesforce-development-54i2)
+- [🚀 How to Quickly Deploy a Containerized Nginx Server on Google Cloud Using Terraform](https://dev.to/surendergupta/how-to-quickly-deploy-a-containerized-nginx-server-on-google-cloud-using-terraform-29cn)
 <!-- BLOG-POST-LIST:END -->
 
