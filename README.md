@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In my free time i read blogs in Dev and then i find this blog really interesting check it out!](https://dev.to/aryan_panwala/in-my-free-time-i-read-blogs-in-dev-and-then-i-find-this-blog-really-interesting-check-it-out-3jpk)
-- [The Iron Triangle in software Projects](https://dev.to/nikhil_sachapara/the-iron-triangle-in-software-projects-22io)
-- [Great Blog on Iron Triangle in Software project Check it out](https://dev.to/pranesh_patel/great-blog-on-iron-triangle-in-software-project-check-it-out-25mp)
-- [🛡️ Why It&#39;s Crucial to Protect Your API Keys and API Tokens](https://dev.to/cl0udleadanis/why-its-crucial-to-protect-your-api-keys-and-api-tokens-37o8)
+- [Building a Multilingual Business Assistant for Kenya](https://dev.to/navashub/building-a-multilingual-business-assistant-for-kenya-231)
+- [Digital Marketing for Developers: Why It Matters](https://dev.to/dct_technology/digital-marketing-for-developers-why-it-matters-189o)
+- [Mastering React Portals: Build Complex Modals, Tooltips, and Overlays Like a Pro](https://dev.to/hexshift/mastering-react-portals-build-complex-modals-tooltips-and-overlays-like-a-pro-47h8)
+- [How to Boost ROI From LinkedIn Prospecting](https://dev.to/joywinter90/how-to-boost-roi-from-linkedin-prospecting-20pe)
 <!-- BLOG-POST-LIST:END -->
 
