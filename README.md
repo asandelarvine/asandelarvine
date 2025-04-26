@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multilingual Business Assistant for Kenya](https://dev.to/navashub/building-a-multilingual-business-assistant-for-kenya-231)
-- [Digital Marketing for Developers: Why It Matters](https://dev.to/dct_technology/digital-marketing-for-developers-why-it-matters-189o)
-- [Mastering React Portals: Build Complex Modals, Tooltips, and Overlays Like a Pro](https://dev.to/hexshift/mastering-react-portals-build-complex-modals-tooltips-and-overlays-like-a-pro-47h8)
-- [How to Boost ROI From LinkedIn Prospecting](https://dev.to/joywinter90/how-to-boost-roi-from-linkedin-prospecting-20pe)
+- [Enhancing Privacy in Arbitrum: Bridging Blockchain Confidentiality with Modern Innovations](https://dev.to/kallileiser/enhancing-privacy-in-arbitrum-bridging-blockchain-confidentiality-with-modern-innovations-1ofe)
+- [Building CLI Applications in Python](https://dev.to/godofgeeks/building-cli-applications-in-python-3cnc)
+- [Django Migrations in Kubernetes: Avoid Downtime with These Battle-Tested Tips ⚙️](https://dev.to/pranav_dixit_8b5a2ad19270/django-migrations-in-kubernetes-avoid-downtime-with-these-battle-tested-tips-3neg)
+- [Amazon Chime Login: A Step-By-Step Guide to Logging In and Getting Started](https://dev.to/khushi0918_khushi_5ad706c/amazon-chime-login-a-step-by-step-guide-to-logging-in-and-getting-started-45dg)
 <!-- BLOG-POST-LIST:END -->
 
