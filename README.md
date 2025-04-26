@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of building backend APIs manually, so I built a tool to generate them instantly 🚀”](https://dev.to/apier_development_86d9e54/i-got-tired-of-building-backend-apis-manually-so-i-built-a-tool-to-generate-them-instantly--b1k)
-- [Arbitrum and Network Congestion: Navigating the Future of Scalable Decentralized Applications](https://dev.to/ahmmrizv9/arbitrum-and-network-congestion-navigating-the-future-of-scalable-decentralized-applications-3d2h)
-- [What&#39;s in Cloud Computing..?](https://dev.to/akash029/whats-in-cloud-computing-h1b)
-- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
+- [Legacy Modernization Day Nigeria](https://dev.to/saint_vandora/legacy-modernization-day-nigeria-doo)
+- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
+- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
+- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
 <!-- BLOG-POST-LIST:END -->
 
