@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI to Design Webflow Sites 2x Faster](https://dev.to/ciphernutz/how-i-use-ai-to-design-webflow-sites-2x-faster-5djg)
-- [I Built a Free JSON Formatter &amp; Viewer for Developers — Feedback Welcome!](https://dev.to/sachinkasana/i-built-a-free-json-formatter-viewer-for-developers-feedback-welcome-33o4)
-- [Golang: Generics in Go](https://dev.to/olawaleo/golang-generics-in-go-4ima)
-- [Go - &lpar;6&rpar; Arrays and Slices](https://dev.to/chathurashmini/go-6-arrays-and-slices-43mn)
+- [Create AES on C/JAVA || SubBytes / ShiftRows / Vulnerabilities &lpar;second part&rpar;](https://dev.to/dima853/create-aes-on-cjava-subbytes-shiftrows-vulnerabilities-second-part-6io)
+- [Not Just Software: How ERP Becomes Your Business’s Digital Brain](https://dev.to/bhavesh_gangani_/not-just-software-how-erp-becomes-your-businesss-digital-brain-1m38)
+- [Top Open-Source Blue Team Tools: Fortifying Cyber Defenses](https://dev.to/pawanjswal/top-open-source-blue-team-tools-fortifying-cyber-defenses-4n4n)
+- [🧱Migrating from Monolith to Microservices with GKE: Core Concepts](https://dev.to/kansm/migrating-from-monolith-to-microservices-with-gke-core-concepts-25a3)
 <!-- BLOG-POST-LIST:END -->
 
