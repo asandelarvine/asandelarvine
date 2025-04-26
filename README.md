@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Management in JS: The Silent Hero](https://dev.to/lovestaco/memory-management-in-js-the-silent-hero-4310)
-- [🎬 Linux Sitcom Episode: &quot;The One Where They Manage User Accounts&quot;](https://dev.to/higgs182092/linux-sitcom-episode-the-one-where-they-manage-user-accounts-57e8)
-- [Complejidad de un algoritmo](https://dev.to/erickvasm/complejidad-de-un-algoritmo-4ma6)
-- [MANUAL TESTING AND ITS FUTURE](https://dev.to/aiswaryapr123/manual-testing-and-its-future-l6i)
+- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
+- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
+- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
+- [MARVEL POSTER [CSS GRID]](https://dev.to/preetha_vaishnavi_2b82358/marvel-poster-css-grid-nmd)
 <!-- BLOG-POST-LIST:END -->
 
