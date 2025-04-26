@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
-- [Hospedagem gratuita: vale a Pena? vantagens e limitações explicadas](https://dev.to/estudiowin/hospedagem-gratuita-vale-a-pena-vantagens-e-limitacoes-explicadas-4g4l)
-- [What Makes a Status Page Trustworthy? A Dev’s Checklist](https://dev.to/therealfloatdev/what-makes-a-status-page-trustworthy-a-devs-checklist-cfo)
-- [Mangas no Kindle](https://dev.to/duardodev/mangas-no-kindle-1p10)
+- [Mistakes as a programmer.](https://dev.to/pandeakshat/mistakes-as-a-programmer-13e8)
+- [Building My First Telegram Bot with Node.js — A Beginner’s Journey. My first step to escape tutorial HELL](https://dev.to/gulshanjha0/building-my-first-telegram-bot-with-nodejs-a-beginners-journey-my-first-step-to-escape-3j7i)
+- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
+- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
 <!-- BLOG-POST-LIST:END -->
 
