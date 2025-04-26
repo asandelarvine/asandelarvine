@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AWS Contact Center Integrates with CRM &amp; ERP Solutions](https://dev.to/mathu_seelan_a19e13f9b7fb/how-aws-contact-center-integrates-with-crm-erp-solutions-2c7b)
-- [Building Relaticle: A Free &amp; Open Source CRM with Laravel 12 &amp; Filament 3](https://dev.to/manukminasyan/building-relaticle-a-free-open-source-crm-with-laravel-12-filament-3-h3g)
-- [🌦️ Meet Your Interactive Weather Companion!](https://dev.to/buildandcodewithraman/meet-your-interactive-weather-companion-35p0)
-- [Exploring Arbitrum Wallet Compatibility and Withdrawal Times: A Comprehensive Analysis](https://dev.to/laetitiaperraut/exploring-arbitrum-wallet-compatibility-and-withdrawal-times-a-comprehensive-analysis-11km)
+- [How to Build a Persistent Undo/Redo Stack in React Without Redux](https://dev.to/hexshift/how-to-build-a-persistent-undoredo-stack-in-react-without-redux-4ceg)
+- [How to Build a Debounced Global Search Context in React &lpar;No Libraries&rpar;](https://dev.to/hexshift/how-to-build-a-debounced-global-search-context-in-react-no-libraries-21p8)
+- [JavaScript Functions](https://dev.to/nuriddin_aliy_69d80bb2700/javascript-functions-196i)
+- [Building a Custom React Context with Optimized Selectors &lpar;Without Re-Renders&rpar;](https://dev.to/hexshift/building-a-custom-react-context-with-optimized-selectors-without-re-renders-38jn)
 <!-- BLOG-POST-LIST:END -->
 
