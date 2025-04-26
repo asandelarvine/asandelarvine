@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create AES on C/JAVA || SubBytes / ShiftRows / Vulnerabilities &lpar;second part&rpar;](https://dev.to/dima853/create-aes-on-cjava-subbytes-shiftrows-vulnerabilities-second-part-6io)
-- [Not Just Software: How ERP Becomes Your Business’s Digital Brain](https://dev.to/bhavesh_gangani_/not-just-software-how-erp-becomes-your-businesss-digital-brain-1m38)
-- [Top Open-Source Blue Team Tools: Fortifying Cyber Defenses](https://dev.to/pawanjswal/top-open-source-blue-team-tools-fortifying-cyber-defenses-4n4n)
-- [🧱Migrating from Monolith to Microservices with GKE: Core Concepts](https://dev.to/kansm/migrating-from-monolith-to-microservices-with-gke-core-concepts-25a3)
+- [Mastering the MERN Stack: Your Ultimate Roadmap to Full-Stack Supremacy](https://dev.to/anupam_kumar/mastering-the-mern-stack-your-ultimate-roadmap-to-full-stack-supremacy-nnn)
+- [AWS Serverless: Build a CI/CD Pipeline for Lambda and API Gateway Using SAM and GitHub - Part 1](https://dev.to/bhatiagirish/aws-serverless-build-a-cicd-pipeline-for-lambda-and-api-gateway-using-sam-and-github-part-1-313b)
+- [Git Branching Strategy](https://dev.to/khalid7487/git-branching-strategy-c31)
+- [7 AI-Powered Productivity Tools That Will Supercharge Your Workflow in 2025](https://dev.to/tamajit_modak/7-ai-powered-productivity-tools-that-will-supercharge-your-workflow-in-2025-394h)
 <!-- BLOG-POST-LIST:END -->
 
