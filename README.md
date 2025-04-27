@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Natural Language System Configuration Manager with Spring AI](https://dev.to/jingsewu/building-a-natural-language-system-configuration-manager-with-spring-ai-176h)
-- [Short Polling vs Long Polling - A Comprehensive Guide for Developers](https://dev.to/debajit13/short-polling-vs-long-polling-a-comprehensive-guide-for-developers-31j3)
-- [Building a Dynamic Prompt Engine for an AI SaaS - TaxJoy &lpar;Next.js + Vercel AI SDK&rpar;](https://dev.to/bobbyhalljr/building-a-dynamic-prompt-engine-for-an-ai-saas-taxjoy-nextjs-vercel-ai-sdk-11ff)
-- [Integrate SpringAI with DeepSeek](https://dev.to/jingsewu/integrate-springai-with-deepseek-548m)
+- [Introduction to Loa v0.0.1-alpha: Release the first version](https://dev.to/lunastev/introduction-to-loa-v001-alpha-release-the-first-version-25bl)
+- [Js](https://dev.to/inaciobrwi/js-4c66)
+- [A Pitfall: Child Goroutines Causing Service Crashes](https://dev.to/akishichinibu/a-pitfall-child-goroutines-causing-service-crashes-403b)
+- [Façade Pattern](https://dev.to/tak089/facade-pattern-4d5p)
 <!-- BLOG-POST-LIST:END -->
 
