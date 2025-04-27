@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mini projet architecture d&#39;application SPRING BOOT +Anguler](https://dev.to/rmida_gazala_6329ac24a6b6/mini-projet-architecture-dapplication-spring-boot-anguler-3469)
-- [🌱 Spring Framework for Beginners: Build Java Apps Like a Pro!](https://dev.to/matin676/spring-framework-for-beginners-build-java-apps-like-a-pro-4mic)
-- [From Silent Machines to Emotional Beings: The Evolution of Robots and the Pursuit of Feelings.](https://dev.to/elsayed_zewayed_91621702f/from-silent-machines-to-emotional-beings-the-evolution-of-robots-and-the-pursuit-of-feelings-2gmh)
-- [Understanding JavaScript Arithmetic](https://dev.to/code_2/understanding-javascript-arithmetic-21a0)
+- [How to Turn Off Notifications on Windows 11?](https://dev.to/winsides/how-to-turn-off-notifications-on-windows-11-jd5)
+- [Red Hat Linux Server Survival Guide: Must-Check Services for Peak Performance](https://dev.to/axisinfo_0a61830e06c3c950/essential-services-to-check-on-a-red-hat-linux-server-a-beginners-guide-5d1g)
+- [Installing and Using OpenVAS on Kali Linux – A Complete Guide](https://dev.to/terminaltools/installing-and-using-openvas-on-kali-linux-a-complete-guide-10d3)
+- [Automação de Processos: BPMN, BPMS e RPA - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/automacao-de-processos-bpmn-bpms-e-rpa-by-vladimir-oliveira-lima-120g)
 <!-- BLOG-POST-LIST:END -->
 
