@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [READY?](https://dev.to/machine/ready-51pg)
-- [Python upload document and analyse with library&#39;s.](https://dev.to/abzresponsible/python-upload-document-and-analyse-with-librarys-37oo)
-- [Docker Compose Explained Like You&#39;re Five](https://dev.to/rajeshrenato/docker-compose-explained-like-youre-five-53cp)
-- [Flutter’da Card Kullanımı: Şık ve Basit Bir Başlangıç](https://dev.to/simalnigbolu/flutterda-card-kullanimi-sik-ve-basit-bir-baslangic-3kh1)
+- [Computer Networks](https://dev.to/ziokaustav/computer-network-15o7)
+- [Top Tech Stacks for Centralized Crypto Exchange Development in 2025](https://dev.to/tomhardy/top-tech-stacks-for-centralized-crypto-exchange-development-in-2025-4fnh)
+- [Building AI Model](https://dev.to/theaniketraj/building-ai-model-32ee)
+- [✨ The Next-Gen Travel Itinerary Planner: Where AI Meets Adventure](https://dev.to/buildandcodewithraman/the-next-gen-travel-itinerary-planner-where-ai-meets-adventure-46dn)
 <!-- BLOG-POST-LIST:END -->
 
