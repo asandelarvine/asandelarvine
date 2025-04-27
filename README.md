@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Rust Error Handling with Thiserror](https://dev.to/leapcell/simplifying-rust-error-handling-with-thiserror-400b)
-- [Recap of the Next.js Bug That Got Apps Hacked &lpar;And How to Protect Yours&rpar;](https://dev.to/rubymuibi/recap-of-the-nextjs-bug-that-got-apps-hacked-and-how-to-protect-yours-4b1p)
-- [Imaginarium - Build. Explore. Leave Your Mark.](https://dev.to/milewski/imaginarium-build-explore-leave-your-mark-1p3i)
-- [🚀 Kubernetes Pod Commands &amp; YAML Guide – Quick Reference for Devs &amp; DevOps](https://dev.to/dechen_tshering_3577/kubernetes-pod-commands-yaml-guide-quick-reference-for-devs-devops-4ld)
+- [Funding and Innovation: Blockchain, Cybersecurity, &amp; Open Source – A Comprehensive Analysis](https://dev.to/jennythomas498/funding-and-innovation-blockchain-cybersecurity-open-source-a-comprehensive-analysis-2n6b)
+- [Leetcode - 114. Flatten Binary Tree to Linked List](https://dev.to/rakeshreddy512/leetcode-114-flatten-binary-tree-to-linked-list-2h2o)
+- [Building a Personal Diary App with React and Firebase: A Complete Journey.](https://dev.to/elvis24tech/building-a-personal-diary-app-with-react-and-firebase-a-complete-journey-2950)
+- [Mastering Dependency Injection in Spring Boot: Real-World Examples and Best Practices](https://dev.to/dhanush___b/mastering-dependency-injection-in-spring-boot-real-world-examples-and-best-practices-1dof)
 <!-- BLOG-POST-LIST:END -->
 
