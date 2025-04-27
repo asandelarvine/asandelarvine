@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Funding and Innovation: Blockchain, Cybersecurity, &amp; Open Source – A Comprehensive Analysis](https://dev.to/jennythomas498/funding-and-innovation-blockchain-cybersecurity-open-source-a-comprehensive-analysis-2n6b)
-- [Leetcode - 114. Flatten Binary Tree to Linked List](https://dev.to/rakeshreddy512/leetcode-114-flatten-binary-tree-to-linked-list-2h2o)
-- [Building a Personal Diary App with React and Firebase: A Complete Journey.](https://dev.to/elvis24tech/building-a-personal-diary-app-with-react-and-firebase-a-complete-journey-2950)
-- [Mastering Dependency Injection in Spring Boot: Real-World Examples and Best Practices](https://dev.to/dhanush___b/mastering-dependency-injection-in-spring-boot-real-world-examples-and-best-practices-1dof)
+- [Designing a Fast and Resilient API Architecture with Refresh-Ahead Caching](https://dev.to/ariel-ibarra/designing-a-fast-and-resilient-api-architecture-with-refresh-ahead-caching-acp)
+- [Data Mapper Pattern in Enterprise Application Architecture](https://dev.to/marioflores7/data-mapper-pattern-in-enterprise-application-architecture-4fg)
+- [20 Fullstack Project Ideas That Will Land You a Job in 2025](https://dev.to/code_2/20-fullstack-project-ideas-that-will-land-you-a-job-in-2025-3h35)
+- [Neo4j Tutorial: # 📚 Handling Neo4j Database Consistency Errors — With a Real-Life Example and Visuals](https://dev.to/mangesh28/neo4j-tutorial-handling-neo4j-database-consistency-errors-with-a-real-life-example-and-47b7)
 <!-- BLOG-POST-LIST:END -->
 
