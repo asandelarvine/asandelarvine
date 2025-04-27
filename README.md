@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Turn Off Notifications on Windows 11?](https://dev.to/winsides/how-to-turn-off-notifications-on-windows-11-jd5)
-- [Red Hat Linux Server Survival Guide: Must-Check Services for Peak Performance](https://dev.to/axisinfo_0a61830e06c3c950/essential-services-to-check-on-a-red-hat-linux-server-a-beginners-guide-5d1g)
-- [Installing and Using OpenVAS on Kali Linux – A Complete Guide](https://dev.to/terminaltools/installing-and-using-openvas-on-kali-linux-a-complete-guide-10d3)
-- [Automação de Processos: BPMN, BPMS e RPA - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/automacao-de-processos-bpmn-bpms-e-rpa-by-vladimir-oliveira-lima-120g)
+- [Simplifying Rust Error Handling with Thiserror](https://dev.to/leapcell/simplifying-rust-error-handling-with-thiserror-400b)
+- [Recap of the Next.js Bug That Got Apps Hacked &lpar;And How to Protect Yours&rpar;](https://dev.to/rubymuibi/recap-of-the-nextjs-bug-that-got-apps-hacked-and-how-to-protect-yours-4b1p)
+- [Imaginarium - Build. Explore. Leave Your Mark.](https://dev.to/milewski/imaginarium-build-explore-leave-your-mark-1p3i)
+- [🚀 Kubernetes Pod Commands &amp; YAML Guide – Quick Reference for Devs &amp; DevOps](https://dev.to/dechen_tshering_3577/kubernetes-pod-commands-yaml-guide-quick-reference-for-devs-devops-4ld)
 <!-- BLOG-POST-LIST:END -->
 
