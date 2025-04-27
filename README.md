@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes as a programmer.](https://dev.to/pandeakshat/mistakes-as-a-programmer-13e8)
-- [Building My First Telegram Bot with Node.js — A Beginner’s Journey. My first step to escape tutorial HELL](https://dev.to/gulshanjha0/building-my-first-telegram-bot-with-nodejs-a-beginners-journey-my-first-step-to-escape-3j7i)
-- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
-- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
+- [Level Up Your Class Notes with AI Analysis](https://dev.to/researchwize/level-up-your-class-notes-with-ai-analysis-20ml)
+- [Arbitrum: Pioneering Open Source in Blockchain – A Deep Dive into Innovation and Community Impact](https://dev.to/jennythomas498/arbitrum-pioneering-open-source-in-blockchain-a-deep-dive-into-innovation-and-community-impact-24g1)
+- [Understanding .well-known URIs](https://dev.to/bharathvaj_ganesan/understanding-well-known-uris-45bh)
+- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
 <!-- BLOG-POST-LIST:END -->
 
