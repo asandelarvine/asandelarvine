@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Applied Skills: Create DNS zones and configure DNS settings](https://dev.to/johnogbonna/azure-applied-skills-create-dns-zones-and-configure-dns-settings-48m)
-- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
-- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
-- [[Boost]](https://dev.to/akash029/-492g)
+- [AL4A: The Cable-Cloak of PCB Realms](https://dev.to/ersajay/al4a-the-cable-cloak-of-pcb-realms-31a8)
+- [How AI is Revolutionizing Renewable Energy Grids: A Developer’s Guide to Sustainable Tech 🫡](https://dev.to/surajai/how-ai-is-revolutionizing-renewable-energy-grids-a-developers-guide-to-sustainable-tech-18od)
+- [Guardrails as Architecture: Safe guarding GenAI apps](https://dev.to/arbitrarybytes/guardrails-as-architecture-safe-guarding-genai-apps-46pd)
+- [Senior Management Assurance: The Missing Link to Cybersecurity Resilience](https://dev.to/micromindercs/senior-management-assurance-the-missing-link-to-cybersecurity-resilience-1844)
 <!-- BLOG-POST-LIST:END -->
 
