@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install 377 Ethical Hacking Tools in Termux with Tool-X](https://dev.to/terminaltools/how-to-install-377-ethical-hacking-tools-in-termux-with-tool-x-4l7g)
-- [Responsive navigation multilevel](https://dev.to/preetha_vaishnavi_2b82358/responsive-navigation-multilevel-37pd)
-- [My Game The Last Cluck Dungeon Crawler](https://dev.to/krishdevninja/my-game-the-last-cluck-dungeon-crawler-4d3p)
-- [WebGL Apple Cards](https://dev.to/preetha_vaishnavi_2b82358/webgl-apple-cards-47h)
+- [Building a Natural Language System Configuration Manager with Spring AI](https://dev.to/jingsewu/building-a-natural-language-system-configuration-manager-with-spring-ai-176h)
+- [Short Polling vs Long Polling - A Comprehensive Guide for Developers](https://dev.to/debajit13/short-polling-vs-long-polling-a-comprehensive-guide-for-developers-31j3)
+- [Building a Dynamic Prompt Engine for an AI SaaS - TaxJoy &lpar;Next.js + Vercel AI SDK&rpar;](https://dev.to/bobbyhalljr/building-a-dynamic-prompt-engine-for-an-ai-saas-taxjoy-nextjs-vercel-ai-sdk-11ff)
+- [Integrate SpringAI with DeepSeek](https://dev.to/jingsewu/integrate-springai-with-deepseek-548m)
 <!-- BLOG-POST-LIST:END -->
 
