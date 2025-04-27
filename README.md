@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networks](https://dev.to/ziokaustav/computer-network-15o7)
-- [Top Tech Stacks for Centralized Crypto Exchange Development in 2025](https://dev.to/tomhardy/top-tech-stacks-for-centralized-crypto-exchange-development-in-2025-4fnh)
-- [Building AI Model](https://dev.to/theaniketraj/building-ai-model-32ee)
-- [✨ The Next-Gen Travel Itinerary Planner: Where AI Meets Adventure](https://dev.to/buildandcodewithraman/the-next-gen-travel-itinerary-planner-where-ai-meets-adventure-46dn)
+- [How to Install 377 Ethical Hacking Tools in Termux with Tool-X](https://dev.to/terminaltools/how-to-install-377-ethical-hacking-tools-in-termux-with-tool-x-4l7g)
+- [Responsive navigation multilevel](https://dev.to/preetha_vaishnavi_2b82358/responsive-navigation-multilevel-37pd)
+- [My Game The Last Cluck Dungeon Crawler](https://dev.to/krishdevninja/my-game-the-last-cluck-dungeon-crawler-4d3p)
+- [WebGL Apple Cards](https://dev.to/preetha_vaishnavi_2b82358/webgl-apple-cards-47h)
 <!-- BLOG-POST-LIST:END -->
 
