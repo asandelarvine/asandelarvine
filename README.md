@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Internationalization in Next.js](https://dev.to/jakaria/internationalization-in-nextjs-1hoa)
-- [Building Scroll-Triggered Animations in Tailwind CSS Without External Libraries](https://dev.to/hexshift/building-scroll-triggered-animations-in-tailwind-css-without-external-libraries-jf7)
-- [Perplexity&#39;s iOS app gets an AI voice assistant](https://dev.to/sadiksajid/perplexitys-ios-app-gets-an-ai-voice-assistant-444l)
-- [Unique In Order](https://dev.to/maddiepst/unique-in-order-570m)
+- [Azure Applied Skills: Create DNS zones and configure DNS settings](https://dev.to/johnogbonna/azure-applied-skills-create-dns-zones-and-configure-dns-settings-48m)
+- [7 less common computer input devices](https://dev.to/maxpatiiuk/7-less-common-computer-input-devices-1bel)
+- [building a reactive library from](https://dev.to/jiang8823/building-a-reactive-library-from-471o)
+- [[Boost]](https://dev.to/akash029/-492g)
 <!-- BLOG-POST-LIST:END -->
 
