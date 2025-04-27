@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arbitrum Token Distribution: Pioneering Community-Driven DeFi Growth](https://dev.to/bobcars/arbitrum-token-distribution-pioneering-community-driven-defi-growth-3g0p)
-- [Learn About Database Architecture: The Full Guide](https://dev.to/mohammad1105/learn-about-database-architecture-the-full-guide-ecj)
-- [A Deep Dive into FormData and sendBeacon](https://dev.to/ayako_yk/a-deep-dive-into-formdata-and-sendbeacon-2909)
-- [From Flaky Tests to Security Threats: Where Quality Overlaps with Risk](https://dev.to/gopinath_kathiresan_2f4b2/from-flaky-tests-to-security-threats-where-quality-overlaps-with-risk-31a2)
+- [Internationalization in Next.js](https://dev.to/jakaria/internationalization-in-nextjs-1hoa)
+- [Building Scroll-Triggered Animations in Tailwind CSS Without External Libraries](https://dev.to/hexshift/building-scroll-triggered-animations-in-tailwind-css-without-external-libraries-jf7)
+- [Perplexity&#39;s iOS app gets an AI voice assistant](https://dev.to/sadiksajid/perplexitys-ios-app-gets-an-ai-voice-assistant-444l)
+- [Unique In Order](https://dev.to/maddiepst/unique-in-order-570m)
 <!-- BLOG-POST-LIST:END -->
 
