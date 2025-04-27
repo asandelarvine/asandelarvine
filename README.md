@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Fast and Resilient API Architecture with Refresh-Ahead Caching](https://dev.to/ariel-ibarra/designing-a-fast-and-resilient-api-architecture-with-refresh-ahead-caching-acp)
-- [Data Mapper Pattern in Enterprise Application Architecture](https://dev.to/marioflores7/data-mapper-pattern-in-enterprise-application-architecture-4fg)
-- [20 Fullstack Project Ideas That Will Land You a Job in 2025](https://dev.to/code_2/20-fullstack-project-ideas-that-will-land-you-a-job-in-2025-3h35)
-- [Neo4j Tutorial: # 📚 Handling Neo4j Database Consistency Errors — With a Real-Life Example and Visuals](https://dev.to/mangesh28/neo4j-tutorial-handling-neo4j-database-consistency-errors-with-a-real-life-example-and-47b7)
+- [Structured approach to versioning](https://dev.to/khanze99/structured-approach-to-versioning-5eig)
+- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
+- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
+- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
 <!-- BLOG-POST-LIST:END -->
 
