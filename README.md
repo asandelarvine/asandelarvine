@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building SEO-Optimized Directory Services with Codehooks.io: A Developer&#39;s Guide](https://dev.to/restdbjones/building-seo-optimized-directory-services-with-codehooksio-a-developers-guide-56gd)
-- [Leveraging Proxies to Optimize Large Language Model Training](https://dev.to/swiftproxy_residential/leveraging-proxies-to-optimize-large-language-model-training-1el)
-- [Just launched my first technical blog! Learn how to set up an AWS EC2 instance like a pro and kickstart your cloud projects. I&#39;m excited to share my very first blog. https://abdullahbinamin.blogspot.com/2025/04/setting-up-aws-ec2-instance-to-set-up.html](https://dev.to/abdullahbinamin/just-launched-my-first-technical-blog-learn-how-to-set-up-an-aws-ec2-instance-like-a-pro-and-3f02)
-- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
+- [Hey I just made a game, please try it folks! ✌️](https://dev.to/async_dime/hey-i-just-made-a-game-please-try-it-folks-1okd)
+- [Create a password strength meter with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-a-password-strength-meter-with-tailwind-css-and-javascript-3da2)
+- [Client-Side SSR: Build a Component-Based Landing Page in 10 Minutes⏱️](https://dev.to/hmpljs/client-side-ssr-build-a-component-based-landing-page-in-10-minutes-2784)
+- [How I Would Learn Software Engineering If I Had to Start All Over Again in 2025](https://dev.to/akum_acha_2519d3ec8cd1514/how-i-would-learn-software-engineering-if-i-had-to-start-all-over-again-in-2025-hef)
 <!-- BLOG-POST-LIST:END -->
 
