@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend letter to frontend lovers](https://dev.to/shreyvijayvargiya/frontend-letter-to-frontend-lovers-jnj)
-- [Day 148/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-148365-learning-full-stack-5794)
-- [Using &quot;Function as Children&quot; in React](https://dev.to/hasunnilupul/using-function-as-children-in-react-2hk7)
-- [How to Secure Your Node.js APIS](https://dev.to/gariglow/how-to-secure-your-nodejs-apis-3gn6)
+- [Building SEO-Optimized Directory Services with Codehooks.io: A Developer&#39;s Guide](https://dev.to/restdbjones/building-seo-optimized-directory-services-with-codehooksio-a-developers-guide-56gd)
+- [Leveraging Proxies to Optimize Large Language Model Training](https://dev.to/swiftproxy_residential/leveraging-proxies-to-optimize-large-language-model-training-1el)
+- [Just launched my first technical blog! Learn how to set up an AWS EC2 instance like a pro and kickstart your cloud projects. I&#39;m excited to share my very first blog. https://abdullahbinamin.blogspot.com/2025/04/setting-up-aws-ec2-instance-to-set-up.html](https://dev.to/abdullahbinamin/just-launched-my-first-technical-blog-learn-how-to-set-up-an-aws-ec2-instance-like-a-pro-and-3f02)
+- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
 <!-- BLOG-POST-LIST:END -->
 
