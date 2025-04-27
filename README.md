@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AL4A: The Cable-Cloak of PCB Realms](https://dev.to/ersajay/al4a-the-cable-cloak-of-pcb-realms-31a8)
-- [How AI is Revolutionizing Renewable Energy Grids: A Developer’s Guide to Sustainable Tech 🫡](https://dev.to/surajai/how-ai-is-revolutionizing-renewable-energy-grids-a-developers-guide-to-sustainable-tech-18od)
-- [Guardrails as Architecture: Safe guarding GenAI apps](https://dev.to/arbitrarybytes/guardrails-as-architecture-safe-guarding-genai-apps-46pd)
-- [Senior Management Assurance: The Missing Link to Cybersecurity Resilience](https://dev.to/micromindercs/senior-management-assurance-the-missing-link-to-cybersecurity-resilience-1844)
+- [Frontend letter to frontend lovers](https://dev.to/shreyvijayvargiya/frontend-letter-to-frontend-lovers-jnj)
+- [Day 148/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-148365-learning-full-stack-5794)
+- [Using &quot;Function as Children&quot; in React](https://dev.to/hasunnilupul/using-function-as-children-in-react-2hk7)
+- [How to Secure Your Node.js APIS](https://dev.to/gariglow/how-to-secure-your-nodejs-apis-3gn6)
 <!-- BLOG-POST-LIST:END -->
 
