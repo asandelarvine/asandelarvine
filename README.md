@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Loa v0.0.1-alpha: Release the first version](https://dev.to/lunastev/introduction-to-loa-v001-alpha-release-the-first-version-25bl)
-- [Js](https://dev.to/inaciobrwi/js-4c66)
-- [A Pitfall: Child Goroutines Causing Service Crashes](https://dev.to/akishichinibu/a-pitfall-child-goroutines-causing-service-crashes-403b)
-- [Façade Pattern](https://dev.to/tak089/facade-pattern-4d5p)
+- [Mini projet architecture d&#39;application SPRING BOOT +Anguler](https://dev.to/rmida_gazala_6329ac24a6b6/mini-projet-architecture-dapplication-spring-boot-anguler-3469)
+- [🌱 Spring Framework for Beginners: Build Java Apps Like a Pro!](https://dev.to/matin676/spring-framework-for-beginners-build-java-apps-like-a-pro-4mic)
+- [From Silent Machines to Emotional Beings: The Evolution of Robots and the Pursuit of Feelings.](https://dev.to/elsayed_zewayed_91621702f/from-silent-machines-to-emotional-beings-the-evolution-of-robots-and-the-pursuit-of-feelings-2gmh)
+- [Understanding JavaScript Arithmetic](https://dev.to/code_2/understanding-javascript-arithmetic-21a0)
 <!-- BLOG-POST-LIST:END -->
 
