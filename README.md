@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IOT: Log File Collection with Fluent Bit](https://dev.to/admantium/iot-log-file-collection-with-fluent-bit-2k5j)
-- [Bot Blitz: Host Your HTML5 Game on Alibaba Cloud OSS](https://dev.to/ion_finisher/bot-blitz-host-your-html5-game-on-alibaba-cloud-oss-245g)
-- [FileViewerModal component in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/fileviewermodal-component-in-suna-an-open-source-generalist-ai-agent-49mj)
-- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
+- [How to train LLM faster](https://dev.to/hiteshchawla/how-to-train-llm-faster-pa2)
+- [From Automation to Insight: Logging Errors with Power Automate and AppInsight](https://dev.to/balagmadhu/from-automation-to-insight-logging-errors-with-power-automate-and-appinsight-3aeo)
+- [[Boost]](https://dev.to/aryan_panwala/-42n8)
+- [[Boost]](https://dev.to/pranesh_patel/-7kn)
 <!-- BLOG-POST-LIST:END -->
 
