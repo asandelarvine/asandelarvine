@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dynamic Pagination in React: Server-Side Fetching with Client Components](https://dev.to/vishw-patel/building-dynamic-pagination-in-react-server-side-fetching-with-client-components-el5)
-- [Memristive AI Networks: Revolutionizing Adaptive Computing](https://dev.to/avalily/memristive-ai-networks-revolutionizing-adaptive-computing-jck)
-- [Authentication &amp; Authorization](https://dev.to/godofgeeks/authentication-authorization-jl6)
-- [Software architecture 2025 — My thoughts](https://dev.to/kevinbkdev/software-architecture-2025-my-thoughts-57kp)
+- [Chatbot TNC - SaaS Webflow Website Template](https://dev.to/wanda_mfonsecawanda_c8/chatbot-tnc-saas-webflow-website-template-272e)
+- [Building a Smarter Way to Explore Next.js Docs: My Weekend with Semantic Search + RAG](https://dev.to/luqmanshaban/building-a-smarter-way-to-explore-nextjs-docs-my-weekend-with-semantic-search-rag-5hl4)
+- [Have you ever heard about proxy injection? Discover how to build an automatic proxy injector &lpar;Linkerd like&rpar; in Rust](https://dev.to/lorenzo_tettamanti/have-you-ever-heard-about-proxy-injection-discover-how-to-build-an-automatic-proxy-injector-53n5)
+- [Top 10 Web Application Monitoring Tools in 2025](https://dev.to/alibby/top-10-web-application-monitoring-tools-in-2025-2b42)
 <!-- BLOG-POST-LIST:END -->
 
