@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Endüstri 4.0: Geleceğin Fabrikaları](https://dev.to/fatih_alparslan_527760d23/endustri-40-gelecegin-fabrikalari-52bb)
-- [🌐 What Really Happens When You Type a URL into Your Browser?](https://dev.to/pandeyaditya0002/what-really-happens-when-you-type-a-url-into-your-browser-1bp8)
-- [Choosing Between React, Vue, and Angular in 2025](https://dev.to/bridgegroupsolutions/choosing-between-react-vue-and-angular-in-2025-22m6)
-- [Beginner&#39;s Guide to the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/apideck/beginners-guide-to-the-model-context-protocol-mcp-323h)
+- [REST vs gRPC in Python: A Practical Benchmark!](https://dev.to/ninii72387534/rest-vs-grpc-in-python-a-practical-benchmark-3o35)
+- [40+ Essential JavaScript Coding Challenges for Interviews and Practice](https://dev.to/koolkamalkishor/40-essential-javascript-coding-challenges-for-interviews-and-practice-4d17)
+- [NONPARTITIONED ONLINE in Oracle SQL](https://dev.to/mrcaption49/nonpartitioned-online-in-oracle-sql-3233)
+- [Design Pattern](https://dev.to/sudhir_mangla_8a6d591880b/design-pattern-692)
 <!-- BLOG-POST-LIST:END -->
 
