@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs gRPC in Python: A Practical Benchmark!](https://dev.to/ninii72387534/rest-vs-grpc-in-python-a-practical-benchmark-3o35)
-- [40+ Essential JavaScript Coding Challenges for Interviews and Practice](https://dev.to/koolkamalkishor/40-essential-javascript-coding-challenges-for-interviews-and-practice-4d17)
-- [NONPARTITIONED ONLINE in Oracle SQL](https://dev.to/mrcaption49/nonpartitioned-online-in-oracle-sql-3233)
-- [Design Pattern](https://dev.to/sudhir_mangla_8a6d591880b/design-pattern-692)
+- [Exploring Blockchain’s Transformative Role in Legal Contracts and Smart Agreements](https://dev.to/kallileiser/exploring-blockchains-transformative-role-in-legal-contracts-and-smart-agreements-18cl)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-hji)
+- [ML DAY 2 GIT ADVANCE COMMANDS](https://dev.to/dharshini_v_e802db3656637/ml-day-2-git-advance-commands-30c4)
+- [Introduction to SELinux in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-selinux-in-red-hat-linux-39bi)
 <!-- BLOG-POST-LIST:END -->
 
