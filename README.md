@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🍕 How a Food Delivery App Works Behind the Scenes: Microservices, Communication, and Flow Explained](https://dev.to/devcorner/how-a-food-delivery-app-works-behind-the-scenes-microservices-communication-and-flow-explained-4bjm)
-- [Traços de Caráter Terapêuticos que Transformam Relações e Vidas](https://dev.to/chimecough39/tracos-de-carater-terapeuticos-que-transformam-relacoes-e-vidas-273o)
-- [Just Updated My Terminal-Style Portfolio! Would Love Your Feedback](https://dev.to/cosmicwanderer7/just-updated-my-terminal-style-portfolio-would-love-your-feedback-28pf)
-- [A Deep Dive into Node.js Logging Tools](https://dev.to/leapcell/a-deep-dive-into-nodejs-logging-tools-2f9f)
+- [Crafting a Minimalist File Upload API with Node.js and Express](https://dev.to/sung_jinwoo_ae9a810f8c46a/crafting-a-minimalist-file-upload-api-with-nodejs-and-express-1dob)
+- [Quark’s Outlines: Python Operators](https://dev.to/mike-vincent/quarks-outlines-python-operators-228n)
+- [[Boost]](https://dev.to/thecrucial/-4pnk)
+- [Traço de Caráter Rígido: Impactos nas Relações Sociais e Pessoais](https://dev.to/pessoadesigner661sigma/traco-de-carater-rigido-impactos-nas-relacoes-sociais-e-pessoais-3ja8)
 <!-- BLOG-POST-LIST:END -->
 
