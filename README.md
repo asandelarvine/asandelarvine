@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to train LLM faster](https://dev.to/hiteshchawla/how-to-train-llm-faster-pa2)
-- [From Automation to Insight: Logging Errors with Power Automate and AppInsight](https://dev.to/balagmadhu/from-automation-to-insight-logging-errors-with-power-automate-and-appinsight-3aeo)
-- [[Boost]](https://dev.to/aryan_panwala/-42n8)
-- [[Boost]](https://dev.to/pranesh_patel/-7kn)
+- [Exploring AI Agents: Types, Real-world Examples, and Limitations](https://dev.to/lollypopdesign/exploring-ai-agents-types-real-world-examples-and-limitations-3mm3)
+- [Cyberpunk Tic Tac Toe..](https://dev.to/hkn_2011/cyberpunk-tic-tac-toe-55l7)
+- [Suna AI: Free&amp;Open Source alternative to Manus](https://dev.to/fallon_jimmy/suna-ai-freeopen-source-alternative-to-manus-cbg)
+- [Exploring Blockchain in Government and Tax Compliance: Innovations, Funding, and Future Trends](https://dev.to/rachellovestowrite/exploring-blockchain-in-government-and-tax-compliance-innovations-funding-and-future-trends-47d8)
 <!-- BLOG-POST-LIST:END -->
 
