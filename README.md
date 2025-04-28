@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TE AMO](https://dev.to/tekashi_medbau_fd8fc4d5c/te-amo-45fi)
-- [🚀 Exploring the Future of AI: Join the Vietnamese AI Community at BloAI](https://dev.to/meekit1307/exploring-the-future-of-ai-join-the-vietnamese-ai-community-at-bloai-4810)
-- [TE AMO](https://dev.to/tekashi_medbau_fd8fc4d5c/te-amo-3n5p)
-- [Better Presentations with AI-Powered Slide Notes](https://dev.to/researchwize/better-presentations-with-ai-powered-slide-notes-10bg)
+- [What are Tables in Snowflake Really?](https://dev.to/armaankhan8270/what-are-tables-in-snowflake-really-1k53)
+- [Avoid Burnout with Smart, Managed Study Workflows](https://dev.to/researchwize/avoid-burnout-with-smart-managed-study-workflows-2fe6)
+- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
+- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
 <!-- BLOG-POST-LIST:END -->
 
