@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Tables in Snowflake Really?](https://dev.to/armaankhan8270/what-are-tables-in-snowflake-really-1k53)
-- [Avoid Burnout with Smart, Managed Study Workflows](https://dev.to/researchwize/avoid-burnout-with-smart-managed-study-workflows-2fe6)
-- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
-- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
+- [IOT: Log File Collection with Fluent Bit](https://dev.to/admantium/iot-log-file-collection-with-fluent-bit-2k5j)
+- [Bot Blitz: Host Your HTML5 Game on Alibaba Cloud OSS](https://dev.to/ion_finisher/bot-blitz-host-your-html5-game-on-alibaba-cloud-oss-245g)
+- [FileViewerModal component in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/fileviewermodal-component-in-suna-an-open-source-generalist-ai-agent-49mj)
+- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
 <!-- BLOG-POST-LIST:END -->
 
