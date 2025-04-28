@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Error Handling Compared: anyhow vs thiserror vs snafu](https://dev.to/leapcell/rust-error-handling-compared-anyhow-vs-thiserror-vs-snafu-2003)
-- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-1ip8)
-- [macOS Apps With Embedded Daemons](https://dev.to/brysontyrrell/macos-apps-with-embedded-daemons-333a)
-- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-ia0)
+- [Learn to build AI agents which can - do web search, read webpage, scrape websites and analyze all infos to generate detailed case study.](https://dev.to/astrodevil/learn-to-build-ai-agents-which-can-do-web-search-read-webpage-scrape-websites-and-analyze-all-4pe8)
+- [[Boost]](https://dev.to/tojumercy1/-31d5)
+- [Azure VMSS: Deploy &amp; Connect via SSH.](https://dev.to/tojumercy1/azure-vmss-deploy-connect-via-ssh-5dad)
+- [How I Use Python to Make Extra Cash Every Month &lpar;Even as a Beginner&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/how-i-use-python-to-make-extra-cash-every-month-even-as-a-beginner-by-faruk-ahmed-apr-2025-452a)
 <!-- BLOG-POST-LIST:END -->
 
