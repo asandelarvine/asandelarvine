@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Blockchain’s Transformative Role in Legal Contracts and Smart Agreements](https://dev.to/kallileiser/exploring-blockchains-transformative-role-in-legal-contracts-and-smart-agreements-18cl)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-hji)
-- [ML DAY 2 GIT ADVANCE COMMANDS](https://dev.to/dharshini_v_e802db3656637/ml-day-2-git-advance-commands-30c4)
-- [Introduction to SELinux in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-selinux-in-red-hat-linux-39bi)
+- [Making Combinatory: Introduction to KorGE](https://dev.to/gmitch215/making-combinatory-introduction-to-korge-flc)
+- [ML Assignment Day2](https://dev.to/dinesh_s24mcr020_7d1bf6c/ml-assignment-day2-1mf4)
+- [Data model for hotel management system using html css and JavaScript](https://dev.to/madieu_sannoh_25fbec04c65/data-model-for-hotel-management-system-using-html-css-and-javascript-5575)
+- [Blockchain, NFTs, and Open-Source in Music Industry: A Harmonious Transformation](https://dev.to/ashucommits/blockchain-nfts-and-open-source-in-music-industry-a-harmonious-transformation-ngc)
 <!-- BLOG-POST-LIST:END -->
 
