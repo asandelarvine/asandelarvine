@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Combinatory: Introduction to KorGE](https://dev.to/gmitch215/making-combinatory-introduction-to-korge-flc)
-- [ML Assignment Day2](https://dev.to/dinesh_s24mcr020_7d1bf6c/ml-assignment-day2-1mf4)
-- [Data model for hotel management system using html css and JavaScript](https://dev.to/madieu_sannoh_25fbec04c65/data-model-for-hotel-management-system-using-html-css-and-javascript-5575)
-- [Blockchain, NFTs, and Open-Source in Music Industry: A Harmonious Transformation](https://dev.to/ashucommits/blockchain-nfts-and-open-source-in-music-industry-a-harmonious-transformation-ngc)
+- [🍕 How a Food Delivery App Works Behind the Scenes: Microservices, Communication, and Flow Explained](https://dev.to/devcorner/how-a-food-delivery-app-works-behind-the-scenes-microservices-communication-and-flow-explained-4bjm)
+- [Traços de Caráter Terapêuticos que Transformam Relações e Vidas](https://dev.to/chimecough39/tracos-de-carater-terapeuticos-que-transformam-relacoes-e-vidas-273o)
+- [Just Updated My Terminal-Style Portfolio! Would Love Your Feedback](https://dev.to/cosmicwanderer7/just-updated-my-terminal-style-portfolio-would-love-your-feedback-28pf)
+- [A Deep Dive into Node.js Logging Tools](https://dev.to/leapcell/a-deep-dive-into-nodejs-logging-tools-2f9f)
 <!-- BLOG-POST-LIST:END -->
 
