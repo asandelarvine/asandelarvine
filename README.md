@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master TypeScript in 60 Days: Your Roadmap to Becoming a Professional Developer](https://dev.to/code_2/master-typescript-in-60-days-your-roadmap-to-becoming-a-professional-developer-1cp6)
-- [Automatic VPN Connectivity for Entra ID-Only Windows Devices: A Native Approach](https://dev.to/mukul_d/manipulating-image-position-using-cssddd-4kb9)
-- [How Tattooing Taught Me About Patience, Craft, and Creativity](https://dev.to/isaacbokhoor/how-tattooing-taught-me-about-patience-craft-and-creativity-4en3)
-- [Day 1149 : Stay Up](https://dev.to/dwane/day-1149-stay-up-2b4e)
+- [How to Create Psychological Safety Without Lowering the Bar](https://dev.to/remejuan/how-to-create-psychological-safety-without-lowering-the-bar-64i)
+- [MatrixSwarm: Death on Command — The Kill Chain They Forgot to Teach You](https://dev.to/matrixswarm/matrixswarm-death-on-command-the-kill-chain-they-forgot-to-teach-you-5fap)
+- [Création d&#39;un système d&#39;authentification sécurisé en utilisant: php , sql , js](https://dev.to/loufi__yt_2b361de6191c9c0/creation-dun-systeme-dauthentification-securise-en-utilisant-php-sql-js-10gb)
+- [InsightFlow Part 2: Setting Up the Cloud Infrastructure with Terraform](https://dev.to/pizofreude/insightflow-part-2-setting-up-the-cloud-infrastructure-with-terraform-368k)
 <!-- BLOG-POST-LIST:END -->
 
