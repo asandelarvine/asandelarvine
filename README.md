@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependencies for developing Spring boot application](https://dev.to/ramya_kamalasekaran/dependencies-for-developing-spring-boot-application-lng)
-- [Weather display based on the city using springboot and Rest API](https://dev.to/ramya_kamalasekaran/weather-display-based-on-the-city-using-springboot-and-rest-api-2ano)
-- [Git User Switching Script Setup Guide](https://dev.to/devops-boy/git-user-switching-script-setup-guide-41cn)
-- [The Beauty of Ruby and Trees](https://dev.to/offjeff91/the-beauty-of-ruby-and-trees-1lg1)
+- [Master TypeScript in 60 Days: Your Roadmap to Becoming a Professional Developer](https://dev.to/code_2/master-typescript-in-60-days-your-roadmap-to-becoming-a-professional-developer-1cp6)
+- [Automatic VPN Connectivity for Entra ID-Only Windows Devices: A Native Approach](https://dev.to/mukul_d/manipulating-image-position-using-cssddd-4kb9)
+- [How Tattooing Taught Me About Patience, Craft, and Creativity](https://dev.to/isaacbokhoor/how-tattooing-taught-me-about-patience-craft-and-creativity-4en3)
+- [Day 1149 : Stay Up](https://dev.to/dwane/day-1149-stay-up-2b4e)
 <!-- BLOG-POST-LIST:END -->
 
