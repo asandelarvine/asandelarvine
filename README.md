@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced debugging for Stimulus](https://dev.to/railsdesigner/enhanced-debugging-for-stimulus-1c4m)
-- [Sabes que hacer?](https://dev.to/laura_suero16/sabes-que-hacer-1c08)
-- [DAY 3 ASSESSMENT](https://dev.to/lipika_vanan_7607eee9bbff/day-3-assessment-ja7)
-- [Top 6 Cloud Data Migration Mistakes and How to Avoid Them](https://dev.to/mehul_budasana/top-6-cloud-data-migration-mistakes-and-how-to-avoid-them-5ap7)
+- [Rust Error Handling Compared: anyhow vs thiserror vs snafu](https://dev.to/leapcell/rust-error-handling-compared-anyhow-vs-thiserror-vs-snafu-2003)
+- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-1ip8)
+- [macOS Apps With Embedded Daemons](https://dev.to/brysontyrrell/macos-apps-with-embedded-daemons-333a)
+- [Building a Kubernetes Cluster from Scratch With K3s And MetalLB](https://dev.to/alyconr/building-a-kubernetes-cluster-from-scratch-with-k3s-and-metallb-ia0)
 <!-- BLOG-POST-LIST:END -->
 
