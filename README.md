@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn to build AI agents which can - do web search, read webpage, scrape websites and analyze all infos to generate detailed case study.](https://dev.to/astrodevil/learn-to-build-ai-agents-which-can-do-web-search-read-webpage-scrape-websites-and-analyze-all-4pe8)
-- [[Boost]](https://dev.to/tojumercy1/-31d5)
-- [Azure VMSS: Deploy &amp; Connect via SSH.](https://dev.to/tojumercy1/azure-vmss-deploy-connect-via-ssh-5dad)
-- [How I Use Python to Make Extra Cash Every Month &lpar;Even as a Beginner&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/how-i-use-python-to-make-extra-cash-every-month-even-as-a-beginner-by-faruk-ahmed-apr-2025-452a)
+- [Dependencies for developing Spring boot application](https://dev.to/ramya_kamalasekaran/dependencies-for-developing-spring-boot-application-lng)
+- [Weather display based on the city using springboot and Rest API](https://dev.to/ramya_kamalasekaran/weather-display-based-on-the-city-using-springboot-and-rest-api-2ano)
+- [Git User Switching Script Setup Guide](https://dev.to/devops-boy/git-user-switching-script-setup-guide-41cn)
+- [The Beauty of Ruby and Trees](https://dev.to/offjeff91/the-beauty-of-ruby-and-trees-1lg1)
 <!-- BLOG-POST-LIST:END -->
 
