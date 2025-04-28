@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring AI Agents: Types, Real-world Examples, and Limitations](https://dev.to/lollypopdesign/exploring-ai-agents-types-real-world-examples-and-limitations-3mm3)
-- [Cyberpunk Tic Tac Toe..](https://dev.to/hkn_2011/cyberpunk-tic-tac-toe-55l7)
-- [Suna AI: Free&amp;Open Source alternative to Manus](https://dev.to/fallon_jimmy/suna-ai-freeopen-source-alternative-to-manus-cbg)
-- [Exploring Blockchain in Government and Tax Compliance: Innovations, Funding, and Future Trends](https://dev.to/rachellovestowrite/exploring-blockchain-in-government-and-tax-compliance-innovations-funding-and-future-trends-47d8)
+- [Building Dynamic Pagination in React: Server-Side Fetching with Client Components](https://dev.to/vishw-patel/building-dynamic-pagination-in-react-server-side-fetching-with-client-components-el5)
+- [Memristive AI Networks: Revolutionizing Adaptive Computing](https://dev.to/avalily/memristive-ai-networks-revolutionizing-adaptive-computing-jck)
+- [Authentication &amp; Authorization](https://dev.to/godofgeeks/authentication-authorization-jl6)
+- [Software architecture 2025 — My thoughts](https://dev.to/kevinbkdev/software-architecture-2025-my-thoughts-57kp)
 <!-- BLOG-POST-LIST:END -->
 
