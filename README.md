@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No-Code Magic with n8n: I Built a Cheeky Telegram News Bot in Hours!](https://dev.to/altug_gokoglu/no-code-magic-with-n8n-i-built-a-cheeky-telegram-news-bot-in-hours-1bb2)
-- [Immortality Might Be an Illusion of Dimensions](https://dev.to/coffee_milk_6a7bcb3947a0a/immortality-might-be-an-illusion-of-dimensions-38ob)
-- [AI-Jarvis-WhatsApp-Bot](https://dev.to/rishabhsahilll/ai-jarvis-whatsapp-bot-267e)
-- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
+- [What&#39;s that coffee like?](https://dev.to/preetha_vaishnavi_2b82358/whats-that-coffee-like-323l)
+- [[gsap/component] Full Screen Image Zoom on Hover](https://dev.to/preetha_vaishnavi_2b82358/gsapcomponent-full-screen-image-zoom-on-hover-2k4p)
+- [Data Structures #1: Linked Lists](https://dev.to/tkouleris/data-structures-1-linked-lists-1jb2)
+- [ToPILImage in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-5-5dh7)
 <!-- BLOG-POST-LIST:END -->
 
