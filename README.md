@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Confusing Code Review Comments!](https://dev.to/marcopatino/stop-writing-confusing-code-review-comments-eni)
-- [Parsing Unstructured Text Into Clean, Structured Data — A Regex-Powered Approach](https://dev.to/chloe123190241/parsing-unstructured-text-into-clean-structured-data-a-regex-powered-approach-1e65)
-- [nice](https://dev.to/omriluz1/nice-34jl)
-- [The Hidden Secret to Get the Job of Your Dreams](https://dev.to/rasulkireev/the-hidden-secret-to-get-the-job-of-your-dreams-2f27)
+- [Neurosell announces $800K seed round of investment to refine and scale Virton AI - fitting rooms for online stores](https://dev.to/neurosell/neurosell-announces-800k-seed-round-of-investment-to-refine-and-scale-virton-ai-fitting-rooms-2bb8)
+- [Building Future-Proof Themes with Performance in Mind](https://dev.to/gm-kamrussama/building-future-proof-themes-with-performance-in-mind-4kln)
+- [Understanding Angular Signals: A New Era of Reactivity](https://dev.to/khoanguyen1411/understanding-angular-signals-a-new-era-of-reactivity-4533)
+- [[Boost]](https://dev.to/blackscripts/-9nh)
 <!-- BLOG-POST-LIST:END -->
 
