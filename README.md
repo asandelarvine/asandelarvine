@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum’s Popularity Is Fading — Here&#39;s How Developers Are Fighting to Save It](https://dev.to/philip_crypto92/ethereums-popularity-is-fading-heres-how-developers-are-fighting-to-save-it-1g00)
-- [KeyCloak OAuth2 + React JS Integration](https://dev.to/anushibin007/keycloak-oauth2-react-js-integration-34bl)
-- [You Think You’re Safe Online? Hackers Think You’re a Joke.](https://dev.to/abdelaziz_moustakim_45a4c/you-think-youre-safe-online-hackers-think-youre-a-joke-1lil)
-- [Master Basic List Operations in Python Without Using Built-in Methods in Python &lpar;Part 2&rpar;](https://dev.to/ciamuthama/master-basic-list-operations-in-python-without-using-built-in-methods-in-python-part-2-46fo)
+- [Stop Writing Confusing Code Review Comments!](https://dev.to/marcopatino/stop-writing-confusing-code-review-comments-eni)
+- [Parsing Unstructured Text Into Clean, Structured Data — A Regex-Powered Approach](https://dev.to/chloe123190241/parsing-unstructured-text-into-clean-structured-data-a-regex-powered-approach-1e65)
+- [nice](https://dev.to/omriluz1/nice-34jl)
+- [The Hidden Secret to Get the Job of Your Dreams](https://dev.to/rasulkireev/the-hidden-secret-to-get-the-job-of-your-dreams-2f27)
 <!-- BLOG-POST-LIST:END -->
 
