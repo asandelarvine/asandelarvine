@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/aryan_panwala/-3ak3)
-- [Coding is execution. Thinking is creation.](https://dev.to/mr_stone/coding-is-execution-thinking-is-creation-28g9)
-- [Securing AI with DeepTeam — LLM red teaming framework](https://dev.to/karthick965938/securing-ai-with-deepteam-llm-red-teaming-framework-5fbb)
-- [[Boost]](https://dev.to/nikhil_sachapara/-579n)
+- [MCP vs API: Revolutionizing AI Integration &amp; Development](https://dev.to/bitontree/mcp-vs-api-revolutionizing-ai-integration-development-4eea)
+- [The Great AI Agent Protocol Race: Function Calling vs. MCP vs. A2A](https://dev.to/zilliz/the-great-ai-agent-protocol-race-function-calling-vs-mcp-vs-a2a-2k5b)
+- [Online Python Compiler vs Desktop IDEs: What to Choose?](https://dev.to/tpointtechblog/online-python-compiler-vs-desktop-ides-what-to-choose-1kki)
+- [Running Wild with LLMs: 10 Open-Source Models You Can Tame on Your Local Machine](https://dev.to/sakethkowtha/running-wild-with-llms-10-open-source-models-you-can-tame-on-your-local-machine-3glb)
 <!-- BLOG-POST-LIST:END -->
 
