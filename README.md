@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Common Mistake in Decision Making Statements? Programmers Must Avoid These Errors](https://dev.to/utcli-solutions/what-is-a-common-mistake-in-decision-making-statements-programmers-must-avoid-these-errors-47fo)
-- [A Developer’s Guide to Retrieval Augmented Generation &lpar;RAG&rpar; — How It Actually Works](https://dev.to/zestminds_technologies_c1/a-developers-guide-to-retrieval-augmented-generation-rag-how-it-actually-works-5gjf)
-- [In the Tech World, There Are SIMPs Too](https://dev.to/holasoymalva/in-the-tech-world-there-are-simps-too-50nk)
-- [Connect Any Postgres to Real-Time Analytics](https://dev.to/timescale/connect-any-postgres-to-real-time-analytics-5anm)
+- [Boost Workforce Skills with an Enterprise LMS](https://dev.to/professional_trainer_c8c1/boost-workforce-skills-with-an-enterprise-lms-50mi)
+- [React Day 2025 – Hot Takes, Deep Dives &amp; the Future of UI Engineering](https://dev.to/kelseyroche/react-day-2025-hot-takes-deep-dives-the-future-of-ui-engineering-1219)
+- [🎬 The Sysadmin Show – Episode 9: “The Curious Case of the Special Bits”](https://dev.to/higgs182092/the-sysadmin-show-episode-9-the-curious-case-of-the-special-bits-5135)
+- [Exploring Blockchain Project Funding and Liquidity Pools: Innovation Driving Decentralized Finance](https://dev.to/zhangwei42/exploring-blockchain-project-funding-and-liquidity-pools-innovation-driving-decentralized-finance-2l7l)
 <!-- BLOG-POST-LIST:END -->
 
