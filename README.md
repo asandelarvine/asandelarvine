@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 From 2,500 to 1,000,000 Particles: Supercharging a Three.js Demo with WebAssembly](https://dev.to/m1kc3b/from-2500-to-1000000-particles-supercharging-a-threejs-demo-with-webassembly-24b)
-- [From Full Stack Freelancer to Micro SaaS Founder: Vibe coding as a Solo Developer](https://dev.to/gugocharade/from-full-stack-freelancer-to-micro-saas-founder-vibe-coding-as-a-solo-developer-3mdi)
-- [🔄 Rotate Array in Java &lpar;Left &amp; Right&rpar; Using Reverse Algorithm — Clean Code Explained](https://dev.to/devcorner/rotate-array-in-java-left-right-using-reverse-algorithm-clean-code-explained-58go)
-- [[Boost]](https://dev.to/gedons/-4hk1)
+- [Guide To Build Your Own Crypto AI Agent](https://dev.to/ciphernutz/guide-to-build-your-own-crypto-ai-agent-1eib)
+- [My Journey with Infinity School and Computer Engineering](https://dev.to/mattsu014/my-journey-with-infinity-school-and-computer-engineering-4424)
+- [&quot;WARNING: JavaScript Type Conversion Could Be Destroying Your App!&quot;](https://dev.to/shifa_2/warning-javascript-type-conversion-could-be-destroying-your-app-4mnd)
+- [Watching Tutorials Doesn’t Make You an Expert](https://dev.to/holasoymalva/watching-programming-tutorials-doesnt-make-you-an-expert-2a80)
 <!-- BLOG-POST-LIST:END -->
 
