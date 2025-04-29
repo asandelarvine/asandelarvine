@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s that coffee like?](https://dev.to/preetha_vaishnavi_2b82358/whats-that-coffee-like-323l)
-- [[gsap/component] Full Screen Image Zoom on Hover](https://dev.to/preetha_vaishnavi_2b82358/gsapcomponent-full-screen-image-zoom-on-hover-2k4p)
-- [Data Structures #1: Linked Lists](https://dev.to/tkouleris/data-structures-1-linked-lists-1jb2)
-- [ToPILImage in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-5-5dh7)
+- [🧠 From 2,500 to 1,000,000 Particles: Supercharging a Three.js Demo with WebAssembly](https://dev.to/m1kc3b/from-2500-to-1000000-particles-supercharging-a-threejs-demo-with-webassembly-24b)
+- [From Full Stack Freelancer to Micro SaaS Founder: Vibe coding as a Solo Developer](https://dev.to/gugocharade/from-full-stack-freelancer-to-micro-saas-founder-vibe-coding-as-a-solo-developer-3mdi)
+- [🔄 Rotate Array in Java &lpar;Left &amp; Right&rpar; Using Reverse Algorithm — Clean Code Explained](https://dev.to/devcorner/rotate-array-in-java-left-right-using-reverse-algorithm-clean-code-explained-58go)
+- [[Boost]](https://dev.to/gedons/-4hk1)
 <!-- BLOG-POST-LIST:END -->
 
