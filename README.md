@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSRF Vulnerability in Symfony Framework Explained](https://dev.to/pentest_testing_corp/ssrf-vulnerability-in-symfony-framework-explained-5db3)
-- [Anima AI Playground: Designing and Building full-stack SAAS Application](https://dev.to/shreyvijayvargiya/anima-ai-playground-designing-and-building-full-stack-saas-application-6he)
-- [Table RS: Advanced Wasmy Table Component 📊](https://dev.to/wiseai/table-rs-advanced-wasmy-table-component-4ela)
-- [Calling member function on a nullptr in C++](https://dev.to/pikotutorial/calling-member-function-on-a-nullptr-in-c-j15)
+- [Ethereum’s Popularity Is Fading — Here&#39;s How Developers Are Fighting to Save It](https://dev.to/philip_crypto92/ethereums-popularity-is-fading-heres-how-developers-are-fighting-to-save-it-1g00)
+- [KeyCloak OAuth2 + React JS Integration](https://dev.to/anushibin007/keycloak-oauth2-react-js-integration-34bl)
+- [You Think You’re Safe Online? Hackers Think You’re a Joke.](https://dev.to/abdelaziz_moustakim_45a4c/you-think-youre-safe-online-hackers-think-youre-a-joke-1lil)
+- [Master Basic List Operations in Python Without Using Built-in Methods in Python &lpar;Part 2&rpar;](https://dev.to/ciamuthama/master-basic-list-operations-in-python-without-using-built-in-methods-in-python-part-2-46fo)
 <!-- BLOG-POST-LIST:END -->
 
