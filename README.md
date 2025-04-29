@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ How I Debugged and Fixed Alembic Migration Issues: A Full Journey](https://dev.to/c_6b7a8e65d067ddc62/how-i-debugged-and-fixed-alembic-migration-issues-in-production-a-full-journey-461c)
-- [React IQ &lpar;PHero&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/react-iq-phero-47hf)
-- [Navigating Agency in an Age of Automated Thought](https://dev.to/rawveg/navigating-agency-in-an-age-of-automated-thought-26e0)
-- [02: Create and configure network security groups](https://dev.to/sheyitex/02-create-and-configure-network-security-groups-5g2d)
+- [Anotações Repetidas &lpar;Repeating Annotations&rpar;](https://dev.to/fundamentosjava/anotacoes-repetidas-repeating-annotations-3gg1)
+- [How to Monitor Everything That’s Not Just Your App &lpar;DNS, Email, APIs, DBs…&rpar;](https://dev.to/therealfloatdev/how-to-monitor-everything-thats-not-just-your-app-dns-email-apis-dbs-16)
+- [Limitações da inferência no lambda](https://dev.to/fundamentosjava/limitacoes-da-inferencia-no-lambda-nc3)
+- [Qual é o tipo de uma expressão Lambda?](https://dev.to/fundamentosjava/qual-e-o-tipo-de-uma-expressao-lambda-o30)
 <!-- BLOG-POST-LIST:END -->
 
