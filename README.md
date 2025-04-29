@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurosell announces $800K seed round of investment to refine and scale Virton AI - fitting rooms for online stores](https://dev.to/neurosell/neurosell-announces-800k-seed-round-of-investment-to-refine-and-scale-virton-ai-fitting-rooms-2bb8)
-- [Building Future-Proof Themes with Performance in Mind](https://dev.to/gm-kamrussama/building-future-proof-themes-with-performance-in-mind-4kln)
-- [Understanding Angular Signals: A New Era of Reactivity](https://dev.to/khoanguyen1411/understanding-angular-signals-a-new-era-of-reactivity-4533)
-- [[Boost]](https://dev.to/blackscripts/-9nh)
+- [Supercharge your business insights: Power BI dashboards meet PowerApps integration](https://dev.to/megaminds/supercharge-your-business-insights-power-bi-dashboards-meet-powerapps-integration-1224)
+- [[Boost]](https://dev.to/cprecioso/-546c)
+- [🚀 Smarter Google ADK Prompts: Inject State and Artifact Data Dynamically Placeholders](https://dev.to/masahide/smarter-adk-prompts-inject-state-and-artifact-data-dynamically-placeholders-2dcm)
+- [Integrating PayTabs Payment Gateway with Next.js: A Scalable Approach](https://dev.to/muhammadaqib86/integrating-paytabs-payment-gateway-with-nextjs-a-scalable-approach-1ka0)
 <!-- BLOG-POST-LIST:END -->
 
