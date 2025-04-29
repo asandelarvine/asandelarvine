@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Workforce Skills with an Enterprise LMS](https://dev.to/professional_trainer_c8c1/boost-workforce-skills-with-an-enterprise-lms-50mi)
-- [React Day 2025 – Hot Takes, Deep Dives &amp; the Future of UI Engineering](https://dev.to/kelseyroche/react-day-2025-hot-takes-deep-dives-the-future-of-ui-engineering-1219)
-- [🎬 The Sysadmin Show – Episode 9: “The Curious Case of the Special Bits”](https://dev.to/higgs182092/the-sysadmin-show-episode-9-the-curious-case-of-the-special-bits-5135)
-- [Exploring Blockchain Project Funding and Liquidity Pools: Innovation Driving Decentralized Finance](https://dev.to/zhangwei42/exploring-blockchain-project-funding-and-liquidity-pools-innovation-driving-decentralized-finance-2l7l)
+- [Application Security Testing Types](https://dev.to/lea_abraham_7a0232a6cd616/application-security-testing-types-5cha)
+- [SQL: The Secret Weapon Behind Data Analytics and Data Science](https://dev.to/joseph_hinga_mwangi/sql-the-secret-weapon-behind-data-analytics-and-data-science-2lm8)
+- [Optimizing Cloud Cost Management Tools: Strategies for Effective Resource Control and Cost Efficiency](https://dev.to/kapusto/optimizing-cloud-cost-management-tools-strategies-for-effective-resource-control-and-cost-2ajd)
+- [Why Should You Use Linux? Real-Life Reasons That Make a Difference](https://dev.to/marzena_pugo_b8978575380f/why-should-you-use-linux-real-life-reasons-that-make-a-difference-49a5)
 <!-- BLOG-POST-LIST:END -->
 
