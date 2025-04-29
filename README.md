@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
-- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
-- [Day 150/365 [Learning Full stack]](https://dev.to/munin-1/day-150365-learning-full-stack-62c)
-- [How to Run a Rails Application on GitHub Codespaces](https://dev.to/hamajyotan/how-to-run-a-rails-application-on-github-codespaces-48k0)
+- [Linealytics](https://dev.to/humbert/linealytics-j2e)
+- [OCSP or CRL: Which Is the Superior Certificate Revocation Approach?](https://dev.to/edenallen/ocsp-or-crl-which-is-the-superior-certificate-revocation-approach-1b1a)
+- [AWS Compute Showdown: ECS vs. EKS vs. Fargate vs. Lambda – Choosing Your Champion](https://dev.to/pkkolla/aws-compute-showdown-ecs-vs-eks-vs-fargate-vs-lambda-choosing-your-champion-28fd)
+- [MatrixSwarm: Stop Locking Your AI Inside Russian Nesting Dolls](https://dev.to/matrixswarm/matrixswarm-stop-locking-your-ai-inside-russian-nesting-dolls-24e7)
 <!-- BLOG-POST-LIST:END -->
 
