@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InsightFlow Part 3: Building the Data Ingestion Layer with AWS Batch](https://dev.to/pizofreude/insightflow-part-3-building-the-data-ingestion-layer-with-aws-batch-4k44)
-- [Blockchain and Medical Records: Revolutionizing Healthcare](https://dev.to/laetitiaperraut/blockchain-and-medical-records-revolutionizing-healthcare-3fcd)
-- [[Boost]](https://dev.to/davinceleecode/-k0j)
-- [Building Secure, Scalable Healthcare APIs with Azure API Management and AWS API Gateway: A Deep Technical Study](https://dev.to/a_bojjam/building-secure-scalable-healthcare-apis-with-azure-api-management-and-aws-api-gateway-a-deep-2gil)
+- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
+- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
+- [Day 150/365 [Learning Full stack]](https://dev.to/munin-1/day-150365-learning-full-stack-62c)
+- [How to Run a Rails Application on GitHub Codespaces](https://dev.to/hamajyotan/how-to-run-a-rails-application-on-github-codespaces-48k0)
 <!-- BLOG-POST-LIST:END -->
 
