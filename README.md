@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run AI Models Entirely in the Browser Using WebAssembly + ONNX Runtime &lpar;No Backend Required&rpar;](https://dev.to/hexshift/run-ai-models-entirely-in-the-browser-using-webassembly-onnx-runtime-no-backend-required-4lag)
-- [Understanding the Power of Loadcell Technology for Weighing](https://dev.to/harrisonailent/understanding-the-power-of-loadcell-technology-for-weighing-7ff)
-- [Oneal Omatseye Lajuwomi’s Approach to Renewable Power for the Future](https://dev.to/oneallajuwomi/oneal-omatseye-lajuwomis-approach-to-renewable-power-for-the-future-11ml)
-- [Choosing the Right Dataset for Your Image Classification Project](https://dev.to/smart_data_/choosing-the-right-dataset-for-your-image-classification-project-17co)
+- [SSRF Vulnerability in Symfony Framework Explained](https://dev.to/pentest_testing_corp/ssrf-vulnerability-in-symfony-framework-explained-5db3)
+- [Anima AI Playground: Designing and Building full-stack SAAS Application](https://dev.to/shreyvijayvargiya/anima-ai-playground-designing-and-building-full-stack-saas-application-6he)
+- [Table RS: Advanced Wasmy Table Component 📊](https://dev.to/wiseai/table-rs-advanced-wasmy-table-component-4ela)
+- [Calling member function on a nullptr in C++](https://dev.to/pikotutorial/calling-member-function-on-a-nullptr-in-c-j15)
 <!-- BLOG-POST-LIST:END -->
 
