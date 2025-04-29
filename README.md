@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Application Security Testing Types](https://dev.to/lea_abraham_7a0232a6cd616/application-security-testing-types-5cha)
-- [SQL: The Secret Weapon Behind Data Analytics and Data Science](https://dev.to/joseph_hinga_mwangi/sql-the-secret-weapon-behind-data-analytics-and-data-science-2lm8)
-- [Optimizing Cloud Cost Management Tools: Strategies for Effective Resource Control and Cost Efficiency](https://dev.to/kapusto/optimizing-cloud-cost-management-tools-strategies-for-effective-resource-control-and-cost-2ajd)
-- [Why Should You Use Linux? Real-Life Reasons That Make a Difference](https://dev.to/marzena_pugo_b8978575380f/why-should-you-use-linux-real-life-reasons-that-make-a-difference-49a5)
+- [🛠️ How I Debugged and Fixed Alembic Migration Issues: A Full Journey](https://dev.to/c_6b7a8e65d067ddc62/how-i-debugged-and-fixed-alembic-migration-issues-in-production-a-full-journey-461c)
+- [React IQ &lpar;PHero&rpar;](https://dev.to/ruhul_aminsujon_f65b3678/react-iq-phero-47hf)
+- [Navigating Agency in an Age of Automated Thought](https://dev.to/rawveg/navigating-agency-in-an-age-of-automated-thought-26e0)
+- [02: Create and configure network security groups](https://dev.to/sheyitex/02-create-and-configure-network-security-groups-5g2d)
 <!-- BLOG-POST-LIST:END -->
 
