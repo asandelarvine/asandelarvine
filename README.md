@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide To Build Your Own Crypto AI Agent](https://dev.to/ciphernutz/guide-to-build-your-own-crypto-ai-agent-1eib)
-- [My Journey with Infinity School and Computer Engineering](https://dev.to/mattsu014/my-journey-with-infinity-school-and-computer-engineering-4424)
-- [&quot;WARNING: JavaScript Type Conversion Could Be Destroying Your App!&quot;](https://dev.to/shifa_2/warning-javascript-type-conversion-could-be-destroying-your-app-4mnd)
-- [Watching Tutorials Doesn’t Make You an Expert](https://dev.to/holasoymalva/watching-programming-tutorials-doesnt-make-you-an-expert-2a80)
+- [What is a Common Mistake in Decision Making Statements? Programmers Must Avoid These Errors](https://dev.to/utcli-solutions/what-is-a-common-mistake-in-decision-making-statements-programmers-must-avoid-these-errors-47fo)
+- [A Developer’s Guide to Retrieval Augmented Generation &lpar;RAG&rpar; — How It Actually Works](https://dev.to/zestminds_technologies_c1/a-developers-guide-to-retrieval-augmented-generation-rag-how-it-actually-works-5gjf)
+- [In the Tech World, There Are SIMPs Too](https://dev.to/holasoymalva/in-the-tech-world-there-are-simps-too-50nk)
+- [Connect Any Postgres to Real-Time Analytics](https://dev.to/timescale/connect-any-postgres-to-real-time-analytics-5anm)
 <!-- BLOG-POST-LIST:END -->
 
