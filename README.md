@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge your business insights: Power BI dashboards meet PowerApps integration](https://dev.to/megaminds/supercharge-your-business-insights-power-bi-dashboards-meet-powerapps-integration-1224)
-- [[Boost]](https://dev.to/cprecioso/-546c)
-- [🚀 Smarter Google ADK Prompts: Inject State and Artifact Data Dynamically Placeholders](https://dev.to/masahide/smarter-adk-prompts-inject-state-and-artifact-data-dynamically-placeholders-2dcm)
-- [Integrating PayTabs Payment Gateway with Next.js: A Scalable Approach](https://dev.to/muhammadaqib86/integrating-paytabs-payment-gateway-with-nextjs-a-scalable-approach-1ka0)
+- [Day 9/ 30 Days of Linux Mastery: Special Permissions &lpar;SUID, SGID, Sticky Bit&rpar;](https://dev.to/amandaigwe/day-9-30-days-of-linux-mastery-special-permissions-suid-sgid-sticky-bit-5daa)
+- [2 cool ways to use :has&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/2-cool-ways-to-use-has-4hcn)
+- [How to Receive Phone Call 📞 Alerts Using AWS CloudWatch, Lambda &amp; Twilio](https://dev.to/harshil_thummar/how-to-receive-phone-call-alerts-using-aws-cloudwatch-lambda-twilio-3hlj)
+- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
 <!-- BLOG-POST-LIST:END -->
 
