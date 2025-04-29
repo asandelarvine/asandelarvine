@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs API: Revolutionizing AI Integration &amp; Development](https://dev.to/bitontree/mcp-vs-api-revolutionizing-ai-integration-development-4eea)
-- [The Great AI Agent Protocol Race: Function Calling vs. MCP vs. A2A](https://dev.to/zilliz/the-great-ai-agent-protocol-race-function-calling-vs-mcp-vs-a2a-2k5b)
-- [Online Python Compiler vs Desktop IDEs: What to Choose?](https://dev.to/tpointtechblog/online-python-compiler-vs-desktop-ides-what-to-choose-1kki)
-- [Running Wild with LLMs: 10 Open-Source Models You Can Tame on Your Local Machine](https://dev.to/sakethkowtha/running-wild-with-llms-10-open-source-models-you-can-tame-on-your-local-machine-3glb)
+- [Run AI Models Entirely in the Browser Using WebAssembly + ONNX Runtime &lpar;No Backend Required&rpar;](https://dev.to/hexshift/run-ai-models-entirely-in-the-browser-using-webassembly-onnx-runtime-no-backend-required-4lag)
+- [Understanding the Power of Loadcell Technology for Weighing](https://dev.to/harrisonailent/understanding-the-power-of-loadcell-technology-for-weighing-7ff)
+- [Oneal Omatseye Lajuwomi’s Approach to Renewable Power for the Future](https://dev.to/oneallajuwomi/oneal-omatseye-lajuwomis-approach-to-renewable-power-for-the-future-11ml)
+- [Choosing the Right Dataset for Your Image Classification Project](https://dev.to/smart_data_/choosing-the-right-dataset-for-your-image-classification-project-17co)
 <!-- BLOG-POST-LIST:END -->
 
