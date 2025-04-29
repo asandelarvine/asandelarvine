@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linealytics](https://dev.to/humbert/linealytics-j2e)
-- [OCSP or CRL: Which Is the Superior Certificate Revocation Approach?](https://dev.to/edenallen/ocsp-or-crl-which-is-the-superior-certificate-revocation-approach-1b1a)
-- [AWS Compute Showdown: ECS vs. EKS vs. Fargate vs. Lambda – Choosing Your Champion](https://dev.to/pkkolla/aws-compute-showdown-ecs-vs-eks-vs-fargate-vs-lambda-choosing-your-champion-28fd)
-- [MatrixSwarm: Stop Locking Your AI Inside Russian Nesting Dolls](https://dev.to/matrixswarm/matrixswarm-stop-locking-your-ai-inside-russian-nesting-dolls-24e7)
+- [[Boost]](https://dev.to/aryan_panwala/-3ak3)
+- [Coding is execution. Thinking is creation.](https://dev.to/mr_stone/coding-is-execution-thinking-is-creation-28g9)
+- [Securing AI with DeepTeam — LLM red teaming framework](https://dev.to/karthick965938/securing-ai-with-deepteam-llm-red-teaming-framework-5fbb)
+- [[Boost]](https://dev.to/nikhil_sachapara/-579n)
 <!-- BLOG-POST-LIST:END -->
 
