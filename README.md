@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PermitBlog: Headless Blog with Built-in Access Control](https://dev.to/shameel/permitblog-headless-blog-with-built-in-access-control-2cbc)
-- [Building a Website While Rebuilding Myself](https://dev.to/anthony_crisa_e4426751244/building-a-website-while-rebuilding-myself-11f8)
-- [GitHub Actions Pro: Reusable Workflows, Matrix Magic &amp; Custom Automation](https://dev.to/alex_aslam/github-actions-pro-reusable-workflows-matrix-magic-custom-automation-1pm9)
-- [Qwen 3: Alibaba&#39;s Leap Forward in Open-Source AI](https://dev.to/mechcloud_academy/qwen-3-alibabas-leap-forward-in-open-source-ai-4hg3)
+- [The Convergence of Blockchain Security, NFTs, and Open Source Funding](https://dev.to/ahmmrizv9/the-convergence-of-blockchain-security-nfts-and-open-source-funding-1k0p)
+- [Understanding /etc/passwd – Linux User Account Properties &lpar;Day 10 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/understanding-etcpasswd-linux-user-account-properties-day-10-of-30-2blk)
+- [Angular vs React: Here’s What Actually Matters](https://dev.to/senthilkumar06/angular-vs-react-heres-what-actually-matters-4jmm)
+- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
 <!-- BLOG-POST-LIST:END -->
 
