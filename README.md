@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Bash Scripting in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-bash-scripting-in-red-hat-linux-dl6)
-- [Diving into the World of Initial DEX Offerings &lpar;IDOs&rpar; – A Comprehensive Overview](https://dev.to/zhangwei42/diving-into-the-world-of-initial-dex-offerings-idos-a-comprehensive-overview-5epo)
-- [SSL Certificate for Subdomains: How to Get One for Your Website](https://dev.to/alicemartin/ssl-certificate-for-subdomains-how-to-get-one-for-your-website-18p1)
-- [Mock APIs in 60 Seconds: A Quick Guide for Front‑End Devs](https://dev.to/samirfcis/mock-apis-in-60-seconds-a-quick-guide-for-front-end-devs-257m)
+- [Microsoft CEO claims up to 30% of company code is written by AI](https://dev.to/future_ai/microsoft-ceo-claims-up-to-30-of-company-code-is-written-by-ai-dan)
+- [Generative AI is not replacing jobs or hurting wages at all, say economists](https://dev.to/future_ai/generative-ai-is-not-replacing-jobs-or-hurting-wages-at-all-say-economists-2g8h)
+- [⚡Top 7 Chrome Extensions Every Developer Should Use🫵](https://dev.to/dev_kiran/top-7-chrome-extensions-every-developer-should-use-4i88)
+- [Go doesn&#39;t believe in frameworks, but teams still need them](https://dev.to/encore/go-doesnt-believe-in-frameworks-but-teams-still-need-them-2ikm)
 <!-- BLOG-POST-LIST:END -->
 
