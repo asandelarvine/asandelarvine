@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft CEO claims up to 30% of company code is written by AI](https://dev.to/future_ai/microsoft-ceo-claims-up-to-30-of-company-code-is-written-by-ai-dan)
-- [Generative AI is not replacing jobs or hurting wages at all, say economists](https://dev.to/future_ai/generative-ai-is-not-replacing-jobs-or-hurting-wages-at-all-say-economists-2g8h)
-- [⚡Top 7 Chrome Extensions Every Developer Should Use🫵](https://dev.to/dev_kiran/top-7-chrome-extensions-every-developer-should-use-4i88)
-- [Go doesn&#39;t believe in frameworks, but teams still need them](https://dev.to/encore/go-doesnt-believe-in-frameworks-but-teams-still-need-them-2ikm)
+- [How Software is Transforming the Wellness and Aesthetic Industry](https://dev.to/elite_chicagospad_1c5b47/how-software-is-transforming-the-wellness-and-aesthetic-industry-288f)
+- [[Boost]](https://dev.to/bogdannovotarskij/-e56)
+- [Time Tracking Dashboard Solution](https://dev.to/bmeinert8/time-tracking-dashboard-solution-3m3l)
+- [Everything You Need to Know About SolidJS](https://dev.to/abdelaziz_moustakim_45a4c/everything-you-need-to-know-about-solidjs-4mg4)
 <!-- BLOG-POST-LIST:END -->
 
