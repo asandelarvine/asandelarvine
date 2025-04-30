@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Funding Mechanisms for DeFi Blockchain Projects – A Comprehensive Analysis](https://dev.to/rachellovestowrite/exploring-funding-mechanisms-for-defi-blockchain-projects-a-comprehensive-analysis-2i7l)
-- [How Google Docs Uses Operational Transformation for Real-Time Collaboration](https://dev.to/dhanush___b/how-google-docs-uses-operational-transformation-for-real-time-collaboration-119)
-- [Blockchain Project Funding: A Comprehensive Guide for dApps Developers](https://dev.to/zhangwei42/blockchain-project-funding-a-comprehensive-guide-for-dapps-developers-1mf9)
-- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
+- [The Role of an Independent Software Testing Company in Ensuring Superior Product Quality](https://dev.to/testree/the-role-of-an-independent-software-testing-company-in-ensuring-superior-product-quality-p0g)
+- [KICS: A Developer-Friendly SAST Tool for Securing Infrastructure as Code](https://dev.to/paltadash/kics-a-developer-friendly-sast-tool-for-securing-infrastructure-as-code-2koa)
+- [Navigating the Blockchain Financing Maze: Strategies for Funding Projects in Bear Markets](https://dev.to/laetitiaperraut/navigating-the-blockchain-financing-maze-strategies-for-funding-projects-in-bear-markets-4df6)
+- [Day-33: Conditional Statements in java](https://dev.to/e00049/day-33-conditional-statements-in-java-cn6)
 <!-- BLOG-POST-LIST:END -->
 
