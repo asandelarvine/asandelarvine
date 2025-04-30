@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 6.5 Tbps Attack!](https://dev.to/yuvasec/the-65-tbps-attack-443o)
-- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
-- [CI/CD pipeline using GitHub Actions to deploy to Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/ivanchiou/cicd-pipeline-using-github-actions-to-deploy-to-google-cloud-platform-gcp-3105)
-- [Built an Extension for GitHub Copilot to save, share and build rules for AI for you](https://dev.to/gregce10/built-an-extension-for-github-copilot-to-save-share-and-build-rules-for-ai-for-you-lbc)
+- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
+- [The Technology Behind YouTube’s Auto-Captioning System](https://dev.to/activejack/the-technology-behind-youtubes-auto-captioning-system-1o45)
+- [From Zero to Cloud Hero: My First AWS EC2 &amp; S3 Web Project](https://dev.to/casualweightlifter54/from-zero-to-cloud-hero-my-first-aws-ec2-s3-web-project-26jh)
+- [🚀 New to AWS? Start with EC2! It&#39;s a virtual server in the cloud. Create a free-tier account, launch a t2.micro instance, connect via SSH, and explore Linux or host simple apps. Perfect first step into cloud computing! 💡 #AWS #DevOps #Cloud](https://dev.to/nilupul4242/new-to-aws-start-with-ec2-its-a-virtual-server-in-the-cloud-create-a-free-tier-account-33b0)
 <!-- BLOG-POST-LIST:END -->
 
