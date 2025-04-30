@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Convergence of Blockchain Security, NFTs, and Open Source Funding](https://dev.to/ahmmrizv9/the-convergence-of-blockchain-security-nfts-and-open-source-funding-1k0p)
-- [Understanding /etc/passwd – Linux User Account Properties &lpar;Day 10 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/understanding-etcpasswd-linux-user-account-properties-day-10-of-30-2blk)
-- [Angular vs React: Here’s What Actually Matters](https://dev.to/senthilkumar06/angular-vs-react-heres-what-actually-matters-4jmm)
-- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
+- [Integrating KC Authorization Services into NestJS API](https://dev.to/haithamoumer/integrating-kc-authorization-services-into-nestjs-api-46kd)
+- [Understanding Blockchain Transaction Fees: An In-Depth Exploration](https://dev.to/ashucommits/understanding-blockchain-transaction-fees-an-in-depth-exploration-2fn0)
+- [Kotlin + gRPC: Streaming, Deadlines, and Structured Error Handling](https://dev.to/lucasfugisawa/kotlin-grpc-streaming-deadlines-and-structured-error-handling-5e9k)
+- [Mojolicious and Docker part 2](https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei)
 <!-- BLOG-POST-LIST:END -->
 
