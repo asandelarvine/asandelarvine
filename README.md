@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master JavaScript Error Tracking: 7 Essential Techniques for Reliable Applications](https://dev.to/aaravjoshi/master-javascript-error-tracking-7-essential-techniques-for-reliable-applications-gbj)
-- [Peer Review 1: Poland&#39;s Real Estate Market Dashboards and Insights with Streamlit &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-1-polands-real-estate-market-dashboards-and-insights-with-streamlit-part-2-5eah)
-- [Checklist Completo para Lançar Seu SaaS do Zero](https://dev.to/lincolixavier/checklist-completo-para-lancar-seu-saas-do-zero-g13)
-- [The Must-Know Black-Owned Dining Establishments in Los Angeles](https://dev.to/apptechies/the-must-know-black-owned-dining-establishments-in-los-angeles-31a9)
+- [Building Predictive Models for AIOps in CI/CD Pipelines](https://dev.to/zazz_official/building-predictive-models-for-aiops-in-cicd-pipelines-45f4)
+- [DRY is Not Always Clean](https://dev.to/grenishrai/dry-is-not-always-clean-2gfj)
+- [Trusted Randomness in Web3: How Oasis Sapphire Solves the RNG Problem](https://dev.to/caerlower/trusted-randomness-in-web3-how-oasis-sapphire-solves-the-rng-problem-3e37)
+- [Serverless Computing: Simplifying Cloud Development](https://dev.to/austinozor/serverless-computing-simplifying-cloud-development-2o88)
 <!-- BLOG-POST-LIST:END -->
 
