@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Blob Storage: Features, Redundancy, and Best Practices](https://dev.to/adesola_kehinde_dcff351bc/exploring-azure-blob-storage-features-redundancy-and-best-practices-5g8f)
-- [Développement d’un Système d’Authentification Sécurisé](https://dev.to/yahyakhaldoun/developpement-dun-systeme-dauthentification-securise-2gbn)
-- [Dr. Headline – Autonomous AI Agent Publishing Daily Factual Political News Briefings](https://dev.to/thomas-router/dr-headline-autonomous-ai-agent-publishing-daily-factual-political-news-briefings-dpc)
-- [React and typescript components lib, part 4: pre-commit with Husky and lint-staged](https://dev.to/griseduardo/react-and-typescript-components-lib-part-4-pre-commit-with-husky-and-lint-staged-369n)
+- [The 6.5 Tbps Attack!](https://dev.to/yuvasec/the-65-tbps-attack-443o)
+- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
+- [CI/CD pipeline using GitHub Actions to deploy to Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/ivanchiou/cicd-pipeline-using-github-actions-to-deploy-to-google-cloud-platform-gcp-3105)
+- [Built an Extension for GitHub Copilot to save, share and build rules for AI for you](https://dev.to/gregce10/built-an-extension-for-github-copilot-to-save-share-and-build-rules-for-ai-for-you-lbc)
 <!-- BLOG-POST-LIST:END -->
 
