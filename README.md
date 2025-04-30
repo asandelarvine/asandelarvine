@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shorthand Conditionals in PHP You Should Know](https://dev.to/mr_steelze/shorthand-conditionals-in-php-you-should-know-22np)
-- [The impact of Power Apps on resource management in healthcare](https://dev.to/megaminds/the-impact-of-power-apps-on-resource-management-in-healthcare-pi4)
-- [Why Is Real Device Testing Preferred Over Emulators And Simulators](https://dev.to/shubham-theqa/why-is-real-device-testing-preferred-over-emulators-and-simulators-2415)
-- [Apprenez à créer une connexion sécurisée en PHP avec PDO et le hachage de mots de passe.](https://dev.to/youssef_betho_b7642962fd2/apprenez-a-creer-une-connexion-securisee-en-php-avec-pdo-et-le-hachage-de-mots-de-passe-2099)
+- [Unveiling Justice: A Guide to Public Interest Litigation 🌟](https://dev.to/smartscape_fq_2k6/unveiling-justice-a-guide-to-public-interest-litigation-3col)
+- [Permit IO Auth Challenge: Document and Team Management API with Fine-Grained Access Control](https://dev.to/baliachbryan/permit-io-auth-challenge-document-and-team-management-api-with-fine-grained-access-control-pkp)
+- [Svelte vs React in 2025: The Ultimate Showdown for Future-Proof Frontend Development](https://dev.to/paulthedev/svelte-vs-react-in-2025-the-ultimate-showdown-for-future-proof-frontend-development-5694)
+- [Eww Sigma Devs Don’t Write Commits](https://dev.to/drlacheheb/eww-sigma-devs-dont-write-commits-pci)
 <!-- BLOG-POST-LIST:END -->
 
