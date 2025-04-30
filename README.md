@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your .NET MAUI Mobile App Might Break Sooner Than You Think &lpar;And How to Fix It Early](https://dev.to/p_0c0278d/why-your-net-maui-mobile-app-might-break-sooner-than-you-think-and-how-to-fix-it-early-288a)
-- [Boosting Performance: Essential Memory Optimization Techniques for Spring Boot Applications](https://dev.to/tharindufdo/boosting-performance-essential-memory-optimization-techniques-for-spring-boot-applications-11ng)
-- [[Boost]](https://dev.to/nghihua/-852)
-- [Build Trust, Not Buzzwords: A Dev-Centric Approach to Advertising on DEV](https://dev.to/engnelson/build-trust-not-buzzwords-a-dev-centric-approach-to-advertising-on-dev-4ojj)
+- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
+- [Building Chatbots with Amazon Bedrock: Scalable GenAI for the Enterprise](https://dev.to/anshul_kichara/building-chatbots-with-amazon-bedrock-scalable-genai-for-the-enterprise-1ohm)
+- [Tidewave: Connecting Web Apps to AI-Powered Development](https://dev.to/adolfont/tidewave-connecting-web-apps-to-ai-powered-development-248h)
+- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
 <!-- BLOG-POST-LIST:END -->
 
