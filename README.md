@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of an Independent Software Testing Company in Ensuring Superior Product Quality](https://dev.to/testree/the-role-of-an-independent-software-testing-company-in-ensuring-superior-product-quality-p0g)
-- [KICS: A Developer-Friendly SAST Tool for Securing Infrastructure as Code](https://dev.to/paltadash/kics-a-developer-friendly-sast-tool-for-securing-infrastructure-as-code-2koa)
-- [Navigating the Blockchain Financing Maze: Strategies for Funding Projects in Bear Markets](https://dev.to/laetitiaperraut/navigating-the-blockchain-financing-maze-strategies-for-funding-projects-in-bear-markets-4df6)
-- [Day-33: Conditional Statements in java](https://dev.to/e00049/day-33-conditional-statements-in-java-cn6)
+- [MEMS: The Iron Throne of Micro-Tech](https://dev.to/ersajay/mems-the-iron-throne-of-micro-tech-2cm3)
+- [Certified Cloud Computing Foundation Course Details: Your First Step into the Cloud!](https://dev.to/jackscory_bcfb7343b7082b0/certified-cloud-computing-foundation-course-details-your-first-step-into-the-cloud-oim)
+- [Java Switch Statements](https://dev.to/jeya_lakshmi_c417e8c65649/java-switch-statements-1o89)
+- [Java Syntax – Your First Step into Writing Java Code](https://dev.to/krishdevninja/java-syntax-your-first-step-into-writing-java-code-4h3c)
 <!-- BLOG-POST-LIST:END -->
 
