@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Origin Resource Sharing](https://dev.to/the-matrixneo/cross-origin-resource-sharing-278l)
-- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
-- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
-- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
+- [PermitBlog: Headless Blog with Built-in Access Control](https://dev.to/shameel/permitblog-headless-blog-with-built-in-access-control-2cbc)
+- [Building a Website While Rebuilding Myself](https://dev.to/anthony_crisa_e4426751244/building-a-website-while-rebuilding-myself-11f8)
+- [GitHub Actions Pro: Reusable Workflows, Matrix Magic &amp; Custom Automation](https://dev.to/alex_aslam/github-actions-pro-reusable-workflows-matrix-magic-custom-automation-1pm9)
+- [Qwen 3: Alibaba&#39;s Leap Forward in Open-Source AI](https://dev.to/mechcloud_academy/qwen-3-alibabas-leap-forward-in-open-source-ai-4hg3)
 <!-- BLOG-POST-LIST:END -->
 
