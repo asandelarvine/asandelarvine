@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart Documentation, based on OpenAI Embeddings &lpar;Chunking, Indexing, and Searching&rpar;](https://dev.to/aypineau/building-a-smart-documentation-based-on-openai-embeddings-chunking-indexing-and-searching-4nam)
-- [Building Chatbots with Amazon Bedrock: Scalable GenAI for the Enterprise](https://dev.to/anshul_kichara/building-chatbots-with-amazon-bedrock-scalable-genai-for-the-enterprise-1ohm)
-- [Tidewave: Connecting Web Apps to AI-Powered Development](https://dev.to/adolfont/tidewave-connecting-web-apps-to-ai-powered-development-248h)
-- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
+- [🚀 Your Daily Crypto Job Digest For 30 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-april-58be)
+- [💡Why Use Azure Service Bus? How to Integrate in .NET](https://dev.to/kiranrongali/why-use-azure-service-bus-how-to-integrate-in-net-13f9)
+- [Boost Your Dev Team&#39;s Efficiency with Oraculum](https://dev.to/daniyar_art/boost-your-dev-teams-efficiency-with-oraculum-481f)
+- [F2](https://dev.to/david_bermenvliz/f2-19j5)
 <!-- BLOG-POST-LIST:END -->
 
