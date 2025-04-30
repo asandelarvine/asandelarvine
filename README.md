@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 30 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-april-58be)
-- [💡Why Use Azure Service Bus? How to Integrate in .NET](https://dev.to/kiranrongali/why-use-azure-service-bus-how-to-integrate-in-net-13f9)
-- [Boost Your Dev Team&#39;s Efficiency with Oraculum](https://dev.to/daniyar_art/boost-your-dev-teams-efficiency-with-oraculum-481f)
-- [F2](https://dev.to/david_bermenvliz/f2-19j5)
+- [Introduction to Bash Scripting in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-bash-scripting-in-red-hat-linux-dl6)
+- [Diving into the World of Initial DEX Offerings &lpar;IDOs&rpar; – A Comprehensive Overview](https://dev.to/zhangwei42/diving-into-the-world-of-initial-dex-offerings-idos-a-comprehensive-overview-5epo)
+- [SSL Certificate for Subdomains: How to Get One for Your Website](https://dev.to/alicemartin/ssl-certificate-for-subdomains-how-to-get-one-for-your-website-18p1)
+- [Mock APIs in 60 Seconds: A Quick Guide for Front‑End Devs](https://dev.to/samirfcis/mock-apis-in-60-seconds-a-quick-guide-for-front-end-devs-257m)
 <!-- BLOG-POST-LIST:END -->
 
