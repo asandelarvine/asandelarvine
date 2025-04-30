@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MEMS: The Iron Throne of Micro-Tech](https://dev.to/ersajay/mems-the-iron-throne-of-micro-tech-2cm3)
-- [Certified Cloud Computing Foundation Course Details: Your First Step into the Cloud!](https://dev.to/jackscory_bcfb7343b7082b0/certified-cloud-computing-foundation-course-details-your-first-step-into-the-cloud-oim)
-- [Java Switch Statements](https://dev.to/jeya_lakshmi_c417e8c65649/java-switch-statements-1o89)
-- [Java Syntax – Your First Step into Writing Java Code](https://dev.to/krishdevninja/java-syntax-your-first-step-into-writing-java-code-4h3c)
+- [🐍 40 Python Interview Questions for 2025 — How Many Can You Answer? 🎯](https://dev.to/finalroundai/40-python-interview-questions-for-2025-how-many-can-you-answer-9k6)
+- [Goals Check-In: How&#39;s Your Progress Flowing?](https://dev.to/virtualcoffee/goals-check-in-hows-your-progress-flowing-2a45)
+- [SVG dimension attributes and adaptive icons](https://dev.to/jsha/svg-dimension-attributes-and-adaptive-icons-5d6g)
+- [Part 2: Smarter Than Rules — Semantic Detection, Zero-Day Protection, and Real-World Impact](https://dev.to/sharon_42e16b8da44dabde6d/part-2-smarter-than-rules-semantic-detection-zero-day-protection-and-real-world-impact-3g9a)
 <!-- BLOG-POST-LIST:END -->
 
