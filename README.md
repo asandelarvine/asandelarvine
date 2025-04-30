@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fernando_noise/-1m00)
-- [Top 10 Reasons You Need a Cloud Readiness Assessment](https://dev.to/mehul_budasana/top-10-reasons-you-need-a-cloud-readiness-assessment-48k4)
-- [Rubber Duck Debugging: Why You Should Keep a Duck on Your Desk](https://dev.to/johnsonrcl/rubber-duck-debugging-why-you-should-keep-a-duck-on-your-desk-4cap)
-- [Don’t Wait for Users to Complain: These Two Bad Boys Got You Covered](https://dev.to/lovestaco/dont-wait-for-users-to-complain-these-two-bad-boys-got-you-covered-2324)
+- [Cross-Origin Resource Sharing](https://dev.to/the-matrixneo/cross-origin-resource-sharing-278l)
+- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
+- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
+- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
 <!-- BLOG-POST-LIST:END -->
 
