@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Justice: A Guide to Public Interest Litigation 🌟](https://dev.to/smartscape_fq_2k6/unveiling-justice-a-guide-to-public-interest-litigation-3col)
-- [Permit IO Auth Challenge: Document and Team Management API with Fine-Grained Access Control](https://dev.to/baliachbryan/permit-io-auth-challenge-document-and-team-management-api-with-fine-grained-access-control-pkp)
-- [Svelte vs React in 2025: The Ultimate Showdown for Future-Proof Frontend Development](https://dev.to/paulthedev/svelte-vs-react-in-2025-the-ultimate-showdown-for-future-proof-frontend-development-5694)
-- [Eww Sigma Devs Don’t Write Commits](https://dev.to/drlacheheb/eww-sigma-devs-dont-write-commits-pci)
+- [Why Your .NET MAUI Mobile App Might Break Sooner Than You Think &lpar;And How to Fix It Early](https://dev.to/p_0c0278d/why-your-net-maui-mobile-app-might-break-sooner-than-you-think-and-how-to-fix-it-early-288a)
+- [Boosting Performance: Essential Memory Optimization Techniques for Spring Boot Applications](https://dev.to/tharindufdo/boosting-performance-essential-memory-optimization-techniques-for-spring-boot-applications-11ng)
+- [[Boost]](https://dev.to/nghihua/-852)
+- [Build Trust, Not Buzzwords: A Dev-Centric Approach to Advertising on DEV](https://dev.to/engnelson/build-trust-not-buzzwords-a-dev-centric-approach-to-advertising-on-dev-4ojj)
 <!-- BLOG-POST-LIST:END -->
 
