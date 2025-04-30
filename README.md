@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
-- [The Technology Behind YouTube’s Auto-Captioning System](https://dev.to/activejack/the-technology-behind-youtubes-auto-captioning-system-1o45)
-- [From Zero to Cloud Hero: My First AWS EC2 &amp; S3 Web Project](https://dev.to/casualweightlifter54/from-zero-to-cloud-hero-my-first-aws-ec2-s3-web-project-26jh)
-- [🚀 New to AWS? Start with EC2! It&#39;s a virtual server in the cloud. Create a free-tier account, launch a t2.micro instance, connect via SSH, and explore Linux or host simple apps. Perfect first step into cloud computing! 💡 #AWS #DevOps #Cloud](https://dev.to/nilupul4242/new-to-aws-start-with-ec2-its-a-virtual-server-in-the-cloud-create-a-free-tier-account-33b0)
+- [Exploring Funding Mechanisms for DeFi Blockchain Projects – A Comprehensive Analysis](https://dev.to/rachellovestowrite/exploring-funding-mechanisms-for-defi-blockchain-projects-a-comprehensive-analysis-2i7l)
+- [How Google Docs Uses Operational Transformation for Real-Time Collaboration](https://dev.to/dhanush___b/how-google-docs-uses-operational-transformation-for-real-time-collaboration-119)
+- [Blockchain Project Funding: A Comprehensive Guide for dApps Developers](https://dev.to/zhangwei42/blockchain-project-funding-a-comprehensive-guide-for-dapps-developers-1mf9)
+- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
 <!-- BLOG-POST-LIST:END -->
 
