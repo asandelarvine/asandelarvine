@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Predictive Models for AIOps in CI/CD Pipelines](https://dev.to/zazz_official/building-predictive-models-for-aiops-in-cicd-pipelines-45f4)
-- [DRY is Not Always Clean](https://dev.to/grenishrai/dry-is-not-always-clean-2gfj)
-- [Trusted Randomness in Web3: How Oasis Sapphire Solves the RNG Problem](https://dev.to/caerlower/trusted-randomness-in-web3-how-oasis-sapphire-solves-the-rng-problem-3e37)
-- [Serverless Computing: Simplifying Cloud Development](https://dev.to/austinozor/serverless-computing-simplifying-cloud-development-2o88)
+- [[Boost]](https://dev.to/fernando_noise/-1m00)
+- [Top 10 Reasons You Need a Cloud Readiness Assessment](https://dev.to/mehul_budasana/top-10-reasons-you-need-a-cloud-readiness-assessment-48k4)
+- [Rubber Duck Debugging: Why You Should Keep a Duck on Your Desk](https://dev.to/johnsonrcl/rubber-duck-debugging-why-you-should-keep-a-duck-on-your-desk-4cap)
+- [Don’t Wait for Users to Complain: These Two Bad Boys Got You Covered](https://dev.to/lovestaco/dont-wait-for-users-to-complain-these-two-bad-boys-got-you-covered-2324)
 <!-- BLOG-POST-LIST:END -->
 
