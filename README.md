@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Software is Transforming the Wellness and Aesthetic Industry](https://dev.to/elite_chicagospad_1c5b47/how-software-is-transforming-the-wellness-and-aesthetic-industry-288f)
-- [[Boost]](https://dev.to/bogdannovotarskij/-e56)
-- [Time Tracking Dashboard Solution](https://dev.to/bmeinert8/time-tracking-dashboard-solution-3m3l)
-- [Everything You Need to Know About SolidJS](https://dev.to/abdelaziz_moustakim_45a4c/everything-you-need-to-know-about-solidjs-4mg4)
+- [Master JavaScript Error Tracking: 7 Essential Techniques for Reliable Applications](https://dev.to/aaravjoshi/master-javascript-error-tracking-7-essential-techniques-for-reliable-applications-gbj)
+- [Peer Review 1: Poland&#39;s Real Estate Market Dashboards and Insights with Streamlit &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-1-polands-real-estate-market-dashboards-and-insights-with-streamlit-part-2-5eah)
+- [Checklist Completo para Lançar Seu SaaS do Zero](https://dev.to/lincolixavier/checklist-completo-para-lancar-seu-saas-do-zero-g13)
+- [The Must-Know Black-Owned Dining Establishments in Los Angeles](https://dev.to/apptechies/the-must-know-black-owned-dining-establishments-in-los-angeles-31a9)
 <!-- BLOG-POST-LIST:END -->
 
