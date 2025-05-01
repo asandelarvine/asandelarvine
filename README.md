@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
-- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
-- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
-- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
+- [Elasticity of Demand](https://dev.to/dylanomics/elasticity-of-demand-30f)
+- [🔐How to Fix GitHub Authentication Failed: Switch from Password to Token or SSH](https://dev.to/chaitanyarai3/how-to-fix-github-authentication-failed-switch-from-password-to-token-or-ssh-1hdg)
+- [Python Memory Optimization: 9 Practical Techniques for Large-Scale Applications](https://dev.to/aaravjoshi/python-memory-optimization-9-practical-techniques-for-large-scale-applications-5fac)
+- [High-Quality Transcription of Noisy Dual-Channel Phone Calls](https://dev.to/andreik/high-quality-transcription-of-noisy-dual-channel-phone-calls-92)
 <!-- BLOG-POST-LIST:END -->
 
