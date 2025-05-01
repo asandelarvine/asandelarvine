@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticity of Demand](https://dev.to/dylanomics/elasticity-of-demand-30f)
-- [🔐How to Fix GitHub Authentication Failed: Switch from Password to Token or SSH](https://dev.to/chaitanyarai3/how-to-fix-github-authentication-failed-switch-from-password-to-token-or-ssh-1hdg)
-- [Python Memory Optimization: 9 Practical Techniques for Large-Scale Applications](https://dev.to/aaravjoshi/python-memory-optimization-9-practical-techniques-for-large-scale-applications-5fac)
-- [High-Quality Transcription of Noisy Dual-Channel Phone Calls](https://dev.to/andreik/high-quality-transcription-of-noisy-dual-channel-phone-calls-92)
+- [Colour Detector Camera PWA with React + Camera API + TailwindCSS](https://dev.to/mahmud-r-farhan/colour-detector-camera-pwa-with-react-camera-api-tailwindcss-1eg2)
+- [5 Quality Assurance Software Solutions for Small Businesses](https://dev.to/cloudestersoftware/5-quality-assurance-software-solutions-for-small-businesses-l3n)
+- [4 Free Tools to Visualize Your Color Palette on Real UI Components](https://dev.to/darwinphi/4-free-tools-to-visualize-your-color-palette-on-real-ui-components-18pe)
+- [Microservices Ki Kahaani Part 2: Messaging - When REST &amp; gRPC Need a Break!](https://dev.to/puneet_kumar_0e593e14483e/microservices-ki-kahaani-part-2-messaging-when-rest-grpc-need-a-break-3pph)
 <!-- BLOG-POST-LIST:END -->
 
