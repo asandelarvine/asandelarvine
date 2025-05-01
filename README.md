@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fun Kubernetes: A Beginner&#39;s Guide to the Container Playground](https://dev.to/collinsushi/the-fun-kubernetes-a-beginners-guide-to-the-container-playground-5e5l)
-- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
-- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
-- [Revolutionizing Blockchain Innovation: The Synergy of Bounty Programs and Project Grants](https://dev.to/bobcars/revolutionizing-blockchain-innovation-the-synergy-of-bounty-programs-and-project-grants-5bj5)
+- [Quais as melhores ferramentas para trabalhar com Node?](https://dev.to/dotmendes/quais-as-melhores-ferramentas-para-trabalhar-com-node-4cj1)
+- [Build Real-Time Knowledge Graph For Documents with LLM](https://dev.to/badmonster0/build-real-time-knowledge-graph-for-documents-with-llm-256h)
+- [Day 152/365 [Learning Full stack]](https://dev.to/munin-1/day-152365-learning-full-stack-4n8f)
+- [Uma paisagem urbana futurista ao pôr do sol com carros voadores e luzes de néon](https://dev.to/tadeu_migoto_1e05ce185828/uma-paisagem-urbana-futurista-ao-por-do-sol-com-carros-voadores-e-luzes-de-neon-3gk0)
 <!-- BLOG-POST-LIST:END -->
 
