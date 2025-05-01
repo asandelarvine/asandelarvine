@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quais as melhores ferramentas para trabalhar com Node?](https://dev.to/dotmendes/quais-as-melhores-ferramentas-para-trabalhar-com-node-4cj1)
-- [Build Real-Time Knowledge Graph For Documents with LLM](https://dev.to/badmonster0/build-real-time-knowledge-graph-for-documents-with-llm-256h)
-- [Day 152/365 [Learning Full stack]](https://dev.to/munin-1/day-152365-learning-full-stack-4n8f)
-- [Uma paisagem urbana futurista ao pôr do sol com carros voadores e luzes de néon](https://dev.to/tadeu_migoto_1e05ce185828/uma-paisagem-urbana-futurista-ao-por-do-sol-com-carros-voadores-e-luzes-de-neon-3gk0)
+- [Day 34 : Loop Practice programmings](https://dev.to/sangamithra_k_78d83d6fb9d/day-34-loop-practice-programmings-4777)
+- [I need code help with these javascript questions Create a BankAccount constructor function that takes a user&#39;s name and balance. Add a method called deposit&lpar;amount&rpar; that increases the balance and logs the new balance, and another method withdraw&lpar;amount&rpar;](https://dev.to/joanitaawinjo/i-need-code-help-with-these-javascript-questions-create-a-bankaccount-constructor-function-that-hl3)
+- [Mastering Permission Management with `sudoers` in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/mastering-permission-management-with-sudoers-in-red-hat-linux-346k)
+- [Harnessing Office Power Tools and Tips for Energy Efficiency](https://dev.to/tech_love_ccd095911ee1dac/harnessing-office-power-tools-and-tips-for-energy-efficiency-23pg)
 <!-- BLOG-POST-LIST:END -->
 
