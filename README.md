@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 01 May!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-may-195m)
-- [What kind of database should you choose for your startup app?](https://dev.to/bharathvaj_ganesan/what-kind-of-database-should-you-choose-for-your-startup-app-33dn)
-- [The Future of Coding is Getting Wild: How AI, Like This Cursor IDE Thing, is Changing Everything](https://dev.to/dks/the-future-of-coding-is-getting-wild-how-ai-like-this-cursor-ide-thing-is-changing-everything-2h9l)
-- [Managing Data in Docker: Understanding Volumes for Persistence](https://dev.to/mayankcse/managing-data-in-docker-understanding-volumes-for-persistence-49i6)
+- [🐧Penguin Scripting Suite: v.1.0](https://dev.to/vak-rashu/penguin-scripting-suite-v10-4i7f)
+- [Migrating from Windows to Linux](https://dev.to/raman_butta/migrating-from-windows-to-linux-53ho)
+- [Power of Manufacturing Data Analytics: A Strategic Advantage](https://dev.to/gauridigital/power-of-manufacturing-data-analytics-a-strategic-advantage-47of)
+- [Unlocking the Power of AI: A Developer’s Ultimate Guide to Tools, Prompt Engineering, and Productivity Mastery](https://dev.to/ivocreates/unlocking-the-power-of-ai-a-developers-ultimate-guide-to-tools-prompt-engineering-and-4dj)
 <!-- BLOG-POST-LIST:END -->
 
