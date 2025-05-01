@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitbanging a Procedural Sphere: Precision to Perfection](https://dev.to/dchahla/bitbanging-a-procedural-sphere-precision-to-perfection-1lgd)
-- [Unlocking the Future: The Role of a Developer Experience Engineer in Modern Software Development](https://dev.to/jetthoughts/unlocking-the-future-the-role-of-a-developer-experience-engineer-in-modern-software-development-105)
-- [Hotel Page Design](https://dev.to/preetha_vaishnavi_2b82358/hotel-page-design-55b1)
-- [📘 Refatorando com Service Objects no Ruby on Rails](https://dev.to/kintsugi-coder/tutorial-refatorando-com-service-objects-no-ruby-on-rails-4d05)
+- [Day-35: While Loop practice in java](https://dev.to/pavithra_c_butterfly/day-35-while-loop-practice-in-java-e2h)
+- [Angular smart dumb components](https://dev.to/codebykwakes/angular-smart-dumb-components-45jo)
+- [How NFTs Work: The Tech Behind the Tokens](https://dev.to/mysteryminusplus/how-nfts-work-the-tech-behind-the-tokens-19gf)
+- [Dynamic Arrays - DSA Notes 📝](https://dev.to/jurozaw/dynamic-arrays-dsa-notes-49l8)
 <!-- BLOG-POST-LIST:END -->
 
