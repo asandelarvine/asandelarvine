@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Completes Human Photos! See How Reference Images Fill Missing Parts](https://dev.to/aimodels-fyi/ai-completes-human-photos-see-how-reference-images-fill-missing-parts-2mi1)
-- [AI Designs Rockets: 85% Accuracy, Cuts Design Time 60%](https://dev.to/aimodels-fyi/ai-designs-rockets-85-accuracy-cuts-design-time-60-2ob1)
-- [RAKG: Build Knowledge Graphs Automatically Using Document-Level Retrieval](https://dev.to/aimodels-fyi/rakg-build-knowledge-graphs-automatically-using-document-level-retrieval-1116)
-- [New AI Model Predicts Clicks: Quadratic Interest Network &lpar;QIN&rpar; Outperforms in Multimodal CTR Prediction Challenge](https://dev.to/aimodels-fyi/new-ai-model-predicts-clicks-quadratic-interest-network-qin-outperforms-in-multimodal-ctr-33lo)
+- [APIs](https://dev.to/autodd/apis-1bp4)
+- [200/365 | ¥10M Job Challenge - Things I&#39;m not good at](https://dev.to/kameken100/200365-y10m-job-challenge-things-im-not-good-at-1heo)
+- [How to Build a Ghibli-Style AI Video App Using Pixverse and Eachlab🎉](https://dev.to/astrodevil/how-to-build-a-ghibli-style-ai-video-app-using-pixverse-and-eachlab-fhc)
+- [30 Pro Tips from a Senior Frontend Dev 🚀](https://dev.to/sajibcse68/30-pro-tips-from-a-senior-frontend-dev-177i)
 <!-- BLOG-POST-LIST:END -->
 
