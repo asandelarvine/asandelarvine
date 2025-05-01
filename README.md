@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First Blog with Django: Part 1 - Setting Up Your Development Environment](https://dev.to/kihuni/build-your-first-blog-with-django-part-1-setting-up-your-development-environment-4igc)
-- [Exploring Blockchain Governance: Navigating Decentralization and Beyond](https://dev.to/ahmmrizv9/exploring-blockchain-governance-navigating-decentralization-and-beyond-dhg)
-- [Frameworks to write LinkedIn posts](https://dev.to/rajkundalia/frameworks-to-write-linkedin-posts-3h2f)
-- [Deploy Permit.IO PDP To Heroku Under 5 Mins! [Video Included]](https://dev.to/aidityasadhakim/deploy-permitio-pdp-to-heroku-under-5-mins-video-included-153l)
+- [How to Design a Traditional Windmill Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-traditional-windmill-using-3d-cad-software-loa)
+- [From Scratch to Google Internship: My 3-Month Journey Begins!](https://dev.to/reenmayee/from-scratch-to-google-internship-my-3-month-journey-begins-1069)
+- [DAO Funding for Blockchain Projects: Revolutionizing Access to Capital](https://dev.to/kallileiser/dao-funding-for-blockchain-projects-revolutionizing-access-to-capital-1p2o)
+- [[Let&#39;s Have LLMs Read OSS Too!] Creating a Code Reading Agent Is Great](https://dev.to/ymbigo/lets-have-llms-read-oss-too-creating-a-code-reading-agent-is-great-33n6)
 <!-- BLOG-POST-LIST:END -->
 
