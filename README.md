@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Traditional Windmill Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-traditional-windmill-using-3d-cad-software-loa)
-- [From Scratch to Google Internship: My 3-Month Journey Begins!](https://dev.to/reenmayee/from-scratch-to-google-internship-my-3-month-journey-begins-1069)
-- [DAO Funding for Blockchain Projects: Revolutionizing Access to Capital](https://dev.to/kallileiser/dao-funding-for-blockchain-projects-revolutionizing-access-to-capital-1p2o)
-- [[Let&#39;s Have LLMs Read OSS Too!] Creating a Code Reading Agent Is Great](https://dev.to/ymbigo/lets-have-llms-read-oss-too-creating-a-code-reading-agent-is-great-33n6)
+- [Impact of Azure Disk type on Azure cost management](https://dev.to/animesh_sarkar/impact-of-azure-disk-type-on-azure-cost-management-2dj3)
+- [Simple menus in Bash scripts with select](https://dev.to/pikotutorial/simple-menus-in-bash-scripts-with-select-3lof)
+- [How to Choose the Right .NET Barcode Reader SDK for Your Project](https://dev.to/mhamzap10/how-to-choose-the-right-net-barcode-reader-sdk-for-your-project-49fd)
+- [Python to Rust - Some early thoughts](https://dev.to/ninadmhatre/python-to-rust-some-early-thoughts-k09)
 <!-- BLOG-POST-LIST:END -->
 
