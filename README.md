@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs](https://dev.to/autodd/apis-1bp4)
-- [200/365 | ¥10M Job Challenge - Things I&#39;m not good at](https://dev.to/kameken100/200365-y10m-job-challenge-things-im-not-good-at-1heo)
-- [How to Build a Ghibli-Style AI Video App Using Pixverse and Eachlab🎉](https://dev.to/astrodevil/how-to-build-a-ghibli-style-ai-video-app-using-pixverse-and-eachlab-fhc)
-- [30 Pro Tips from a Senior Frontend Dev 🚀](https://dev.to/sajibcse68/30-pro-tips-from-a-senior-frontend-dev-177i)
+- [Processing Foundation is hiring a Processing Project Lead!](https://dev.to/soniachoi/processing-foundation-is-hiring-a-processing-project-lead-k6i)
+- [Parallel Processing with PHP &lpar;Part 2&rpar;: Inter-Process Communication](https://dev.to/robertobutti/parallel-processing-with-php-part-2-inter-process-communication-517m)
+- [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
+- [I Tested Phrasly AI Detector, Here&#39;s My Honest Review &lpar;With Proof&rpar;](https://dev.to/kash92/i-tested-phrasly-ai-detector-heres-my-honest-review-with-proof-2d49)
 <!-- BLOG-POST-LIST:END -->
 
