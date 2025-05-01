@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Processing Foundation is hiring a Processing Project Lead!](https://dev.to/soniachoi/processing-foundation-is-hiring-a-processing-project-lead-k6i)
-- [Parallel Processing with PHP &lpar;Part 2&rpar;: Inter-Process Communication](https://dev.to/robertobutti/parallel-processing-with-php-part-2-inter-process-communication-517m)
-- [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
-- [I Tested Phrasly AI Detector, Here&#39;s My Honest Review &lpar;With Proof&rpar;](https://dev.to/kash92/i-tested-phrasly-ai-detector-heres-my-honest-review-with-proof-2d49)
+- [Enterprise Design Pattern: Implementing the Service Layer Pattern in Python](https://dev.to/ronal_daniellupacamaman/enterprise-design-pattern-implementing-the-service-layer-pattern-in-python-57mh)
+- [onuze - Open source reddit alternative](https://dev.to/shaongit/onuze-open-source-reddit-alternative-4p25)
+- [&quot;Healing with Algorithms: How AI is Revolutionizing the Future of Healthcare&quot;](https://dev.to/dibborah100/healing-with-algorithms-how-ai-is-revolutionizing-the-future-of-healthcare-5fb8)
+- [✍️ Writing Design Docs That Don’t Suck &lpar;And Why It’s a Superpower for Engineers&rpar;](https://dev.to/pronnoygoswami/writing-design-docs-that-dont-suck-and-why-its-a-superpower-for-engineers-1gk8)
 <!-- BLOG-POST-LIST:END -->
 
