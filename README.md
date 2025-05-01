@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Modern POS Solution Streamlines Inventory, Billing, and Reporting](https://dev.to/bhavesh_gangani_/how-a-modern-pos-solution-streamlines-inventory-billing-and-reporting-5ci7)
-- [[Boost]](https://dev.to/badmonster0/-206a)
-- [Personalized Leather Passport Holders: A Stylish Travel Accessory](https://dev.to/nisha_luthra_7a55ef0b13b0/personalized-leather-passport-holders-a-stylish-travel-accessory-5ci4)
-- [My Self](https://dev.to/justkoding69s/my-self-3li5)
+- [Build Your First Blog with Django: Part 1 - Setting Up Your Development Environment](https://dev.to/kihuni/build-your-first-blog-with-django-part-1-setting-up-your-development-environment-4igc)
+- [Exploring Blockchain Governance: Navigating Decentralization and Beyond](https://dev.to/ahmmrizv9/exploring-blockchain-governance-navigating-decentralization-and-beyond-dhg)
+- [Frameworks to write LinkedIn posts](https://dev.to/rajkundalia/frameworks-to-write-linkedin-posts-3h2f)
+- [Deploy Permit.IO PDP To Heroku Under 5 Mins! [Video Included]](https://dev.to/aidityasadhakim/deploy-permitio-pdp-to-heroku-under-5-mins-video-included-153l)
 <!-- BLOG-POST-LIST:END -->
 
