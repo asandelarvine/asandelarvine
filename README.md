@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP em 2025: Por Que Ele Ainda Reina na Web?](https://dev.to/matheussesso/php-em-2025-por-que-ele-ainda-reina-na-web-429)
-- [Accelerating Python with Rust: A Practical Guide](https://dev.to/leapcell/accelerating-python-with-rust-a-practical-guide-38gm)
-- [How AI Understands Your Documents: The Secret Sauce of RAG](https://dev.to/mario_s/how-ai-understands-your-documents-the-secret-sauce-of-rag-5cnb)
-- [200 JavaScript Project Ideas to Sharpen Your Skills &lpar;With Source Code Inside!&rpar;](https://dev.to/code_2/200-javascript-project-ideas-to-sharpen-your-skills-with-source-code-inside-518h)
+- [How a Modern POS Solution Streamlines Inventory, Billing, and Reporting](https://dev.to/bhavesh_gangani_/how-a-modern-pos-solution-streamlines-inventory-billing-and-reporting-5ci7)
+- [[Boost]](https://dev.to/badmonster0/-206a)
+- [Personalized Leather Passport Holders: A Stylish Travel Accessory](https://dev.to/nisha_luthra_7a55ef0b13b0/personalized-leather-passport-holders-a-stylish-travel-accessory-5ci4)
+- [My Self](https://dev.to/justkoding69s/my-self-3li5)
 <!-- BLOG-POST-LIST:END -->
 
