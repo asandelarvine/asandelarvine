@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐧Penguin Scripting Suite: v.1.0](https://dev.to/vak-rashu/penguin-scripting-suite-v10-4i7f)
-- [Migrating from Windows to Linux](https://dev.to/raman_butta/migrating-from-windows-to-linux-53ho)
-- [Power of Manufacturing Data Analytics: A Strategic Advantage](https://dev.to/gauridigital/power-of-manufacturing-data-analytics-a-strategic-advantage-47of)
-- [Unlocking the Power of AI: A Developer’s Ultimate Guide to Tools, Prompt Engineering, and Productivity Mastery](https://dev.to/ivocreates/unlocking-the-power-of-ai-a-developers-ultimate-guide-to-tools-prompt-engineering-and-4dj)
+- [Rocal UI - A simple template engine with Rust🦀](https://dev.to/picolt/rocal-ui-a-simple-template-engine-with-rust-19d5)
+- [Qwen 3 Benchmarks, Comparisons, Model Specifications, and More](https://dev.to/best_codes/qwen-3-benchmarks-comparisons-model-specifications-and-more-4hoa)
+- [[Boost]](https://dev.to/uliyahoo/-45fc)
+- [Exploratory Testing in 2025: The Human Edge in a Fast-Paced Dev World 🔍](https://dev.to/vaibhavkuls/exploratory-testing-in-2025-the-human-edge-in-a-fast-paced-dev-world-34)
 <!-- BLOG-POST-LIST:END -->
 
