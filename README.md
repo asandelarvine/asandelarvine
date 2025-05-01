@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Impact of Azure Disk type on Azure cost management](https://dev.to/animesh_sarkar/impact-of-azure-disk-type-on-azure-cost-management-2dj3)
-- [Simple menus in Bash scripts with select](https://dev.to/pikotutorial/simple-menus-in-bash-scripts-with-select-3lof)
-- [How to Choose the Right .NET Barcode Reader SDK for Your Project](https://dev.to/mhamzap10/how-to-choose-the-right-net-barcode-reader-sdk-for-your-project-49fd)
-- [Python to Rust - Some early thoughts](https://dev.to/ninadmhatre/python-to-rust-some-early-thoughts-k09)
+- [# When Laravel Feels Too Heavy: Why Velto Was Created?](https://dev.to/veltophp/-when-laravel-feels-too-heavy-why-velto-was-created-219)
+- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
+- [Book Recommendation Web App: A Cloud-Powered Solution for Personalized Book Discovery](https://dev.to/leonardkachi/book-recommendation-web-app-a-cloud-powered-solution-for-personalized-book-discovery-2cmn)
+- [Giới Thiệu Về SEO Và Cách Cấu Hình SEO Trong PHP](https://dev.to/18_nhtphngv_c0a9824/gioi-thieu-ve-seo-va-cach-cau-hinh-seo-trong-php-790)
 <!-- BLOG-POST-LIST:END -->
 
