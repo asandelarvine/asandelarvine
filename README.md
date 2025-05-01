@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Colour Detector Camera PWA with React + Camera API + TailwindCSS](https://dev.to/mahmud-r-farhan/colour-detector-camera-pwa-with-react-camera-api-tailwindcss-1eg2)
-- [5 Quality Assurance Software Solutions for Small Businesses](https://dev.to/cloudestersoftware/5-quality-assurance-software-solutions-for-small-businesses-l3n)
-- [4 Free Tools to Visualize Your Color Palette on Real UI Components](https://dev.to/darwinphi/4-free-tools-to-visualize-your-color-palette-on-real-ui-components-18pe)
-- [Microservices Ki Kahaani Part 2: Messaging - When REST &amp; gRPC Need a Break!](https://dev.to/puneet_kumar_0e593e14483e/microservices-ki-kahaani-part-2-messaging-when-rest-grpc-need-a-break-3pph)
+- [🚀 Your Daily Crypto Job Digest For 01 May!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-may-195m)
+- [What kind of database should you choose for your startup app?](https://dev.to/bharathvaj_ganesan/what-kind-of-database-should-you-choose-for-your-startup-app-33dn)
+- [The Future of Coding is Getting Wild: How AI, Like This Cursor IDE Thing, is Changing Everything](https://dev.to/dks/the-future-of-coding-is-getting-wild-how-ai-like-this-cursor-ide-thing-is-changing-everything-2h9l)
+- [Managing Data in Docker: Understanding Volumes for Persistence](https://dev.to/mayankcse/managing-data-in-docker-understanding-volumes-for-persistence-49i6)
 <!-- BLOG-POST-LIST:END -->
 
