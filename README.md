@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, Developers, and the Future of Blogging — Are We Just Talking to Ourselves?](https://dev.to/superdoo/ai-developers-and-the-future-of-blogging-are-we-just-talking-to-ourselves-cdd)
-- [How to Set Up Termux Desktop GUI on Android | Linux on Mobile](https://dev.to/terminaltools/how-to-set-up-termux-desktop-gui-on-android-linux-on-mobile-13f)
-- [Unlocking Liquidity: A Comprehensive Guide to Understanding Drip Network](https://dev.to/rachellovestowrite/unlocking-liquidity-a-comprehensive-guide-to-understanding-drip-network-37l5)
-- [How to deploy React apps to GitHub Pages](https://dev.to/logrocket/how-to-deploy-react-apps-to-github-pages-2db8)
+- [AI Completes Human Photos! See How Reference Images Fill Missing Parts](https://dev.to/aimodels-fyi/ai-completes-human-photos-see-how-reference-images-fill-missing-parts-2mi1)
+- [AI Designs Rockets: 85% Accuracy, Cuts Design Time 60%](https://dev.to/aimodels-fyi/ai-designs-rockets-85-accuracy-cuts-design-time-60-2ob1)
+- [RAKG: Build Knowledge Graphs Automatically Using Document-Level Retrieval](https://dev.to/aimodels-fyi/rakg-build-knowledge-graphs-automatically-using-document-level-retrieval-1116)
+- [New AI Model Predicts Clicks: Quadratic Interest Network &lpar;QIN&rpar; Outperforms in Multimodal CTR Prediction Challenge](https://dev.to/aimodels-fyi/new-ai-model-predicts-clicks-quadratic-interest-network-qin-outperforms-in-multimodal-ctr-33lo)
 <!-- BLOG-POST-LIST:END -->
 
