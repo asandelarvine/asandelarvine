@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-35: While Loop practice in java](https://dev.to/pavithra_c_butterfly/day-35-while-loop-practice-in-java-e2h)
-- [Angular smart dumb components](https://dev.to/codebykwakes/angular-smart-dumb-components-45jo)
-- [How NFTs Work: The Tech Behind the Tokens](https://dev.to/mysteryminusplus/how-nfts-work-the-tech-behind-the-tokens-19gf)
-- [Dynamic Arrays - DSA Notes 📝](https://dev.to/jurozaw/dynamic-arrays-dsa-notes-49l8)
+- [AI, Developers, and the Future of Blogging — Are We Just Talking to Ourselves?](https://dev.to/superdoo/ai-developers-and-the-future-of-blogging-are-we-just-talking-to-ourselves-cdd)
+- [How to Set Up Termux Desktop GUI on Android | Linux on Mobile](https://dev.to/terminaltools/how-to-set-up-termux-desktop-gui-on-android-linux-on-mobile-13f)
+- [Unlocking Liquidity: A Comprehensive Guide to Understanding Drip Network](https://dev.to/rachellovestowrite/unlocking-liquidity-a-comprehensive-guide-to-understanding-drip-network-37l5)
+- [How to deploy React apps to GitHub Pages](https://dev.to/logrocket/how-to-deploy-react-apps-to-github-pages-2db8)
 <!-- BLOG-POST-LIST:END -->
 
