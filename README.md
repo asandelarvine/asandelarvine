@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concept Of Ingress In Kubernetes : Basics](https://dev.to/alkesh009/concept-of-ingress-in-kubernetes-basics-14hl)
-- [Predictive Analytics: How AI Is Learning to Read Your Users&#39; Minds — Before You Even Ask](https://dev.to/okoye_ndidiamaka_5e3b7d30/predictive-analytics-how-ai-is-learning-to-read-your-users-minds-before-you-even-ask-11db)
-- [ES Modules and CommonJS Modules Explained](https://dev.to/artem_turlenko/es-modules-and-commonjs-modules-explained-4gm)
-- [The 10 Things to Consider Before Creating Your Own Cryptocurrency](https://dev.to/hexshift/the-10-things-to-consider-before-creating-your-own-cryptocurrency-2f5h)
+- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
+- [Gamepad API for Game Controller Integration](https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-2j7a)
+- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
+- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
 <!-- BLOG-POST-LIST:END -->
 
