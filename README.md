@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Blob on the Web: A Practical Guide for Handling Files and Binary Data](https://dev.to/kouta222/mastering-blob-on-the-web-a-practical-guide-for-handling-files-and-binary-data-jf1)
-- [🍹 Don&#39;t Drink the Single Responsibility KoolAid](https://dev.to/suryadavinci/dont-drink-the-single-responsibility-koolaid-32g2)
-- [Supercharge Your Lambda Functions with Powertools for AWS Lambda](https://dev.to/marciojc/supercharge-your-lambda-functions-with-powertools-for-aws-lambda-4a97)
-- [Performance Testing: Uncover Bottlenecks Before Users Do](https://dev.to/shubham-theqa/performance-testing-uncover-bottlenecks-before-users-do-3dd2)
+- [Sustainable Kubernetes workload with Kepler](https://dev.to/mageshwaransekar/sustainable-kubernetes-workload-with-kepler-2lp7)
+- [OWASP Top 10 For Flutter — M5: Insecure Communication for Flutter and Dart](https://dev.to/yurii_denchyk_bb561af8d2d/owasp-top-10-for-flutter-m5-insecure-communication-for-flutter-and-dart-42hm)
+- [WeTransact: Microsoft Azure Marketplace Integration](https://dev.to/wetransact/wetransact-microsoft-azure-marketplace-integration-a96)
+- [Part 2: The Vite Chronicals](https://dev.to/svbygoibear/part-2-the-vite-chronicals-2ic0)
 <!-- BLOG-POST-LIST:END -->
 
