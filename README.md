@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fidenza&#39;s Role in Cyberwar: The Unlikely Intersection of Art, NFTs, and Cybersecurity](https://dev.to/zhangwei42/fidenzas-role-in-cyberwar-the-unlikely-intersection-of-art-nfts-and-cybersecurity-2a8i)
-- [PDF 1.7 vs PDF 2.0: Why it’s important for developers to understand](https://dev.to/joyfill/pdf-17-vs-pdf-20-why-its-important-for-developers-to-understand-mno)
-- [Troubleshooting Common Issues in Broadcast Playout Software](https://dev.to/malhotraaa/troubleshooting-common-issues-in-broadcast-playout-software-4181)
-- [🚀 From Zero to Hero: Deploying a FastAPI Backend on Google Cloud Run with CI/CD, Docker &amp; MongoDB](https://dev.to/surendergupta/from-zero-to-hero-deploying-a-fastapi-backend-on-google-cloud-run-with-cicd-docker-mongodb-1301)
+- [Mastering Blob on the Web: A Practical Guide for Handling Files and Binary Data](https://dev.to/kouta222/mastering-blob-on-the-web-a-practical-guide-for-handling-files-and-binary-data-jf1)
+- [🍹 Don&#39;t Drink the Single Responsibility KoolAid](https://dev.to/suryadavinci/dont-drink-the-single-responsibility-koolaid-32g2)
+- [Supercharge Your Lambda Functions with Powertools for AWS Lambda](https://dev.to/marciojc/supercharge-your-lambda-functions-with-powertools-for-aws-lambda-4a97)
+- [Performance Testing: Uncover Bottlenecks Before Users Do](https://dev.to/shubham-theqa/performance-testing-uncover-bottlenecks-before-users-do-3dd2)
 <!-- BLOG-POST-LIST:END -->
 
