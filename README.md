@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set the Default Node Version Using NVM in Mac or Windows &lpar;with in 60 Seconds&rpar;](https://dev.to/muhammadaqib86/how-to-set-the-default-node-version-using-nvm-in-mac-or-windows-with-in-60-seconds-2fl7)
-- [AI-Powered Coding: Raising the Bar on Quality and Creativity](https://dev.to/roshan_1204/ai-powered-coding-raising-the-bar-on-quality-and-creativity-1d55)
-- [Project of the Week: Prisma](https://dev.to/riyanapatel/project-of-the-week-prisma-272m)
-- [Welcome to the Vibeconomy](https://dev.to/clubbrb/welcome-to-the-vibeconomy-3ik6)
+- [MCP サーバーを活用して Amazon Q デベロッパーCLIの能力を強化しよう](https://dev.to/aws/mcp-sabawohuo-yong-site-amazon-q-deberotupaclinoneng-li-woqiang-hua-siyou-1ka0)
+- [Day 13 of Learning Python!](https://dev.to/harshvdev/day-13-of-learning-python-4ibb)
+- [Ashkan always delivers no-fluff advice. This article hits hard but it’s exactly what founders need to hear.](https://dev.to/noahboswel79/ashkan-always-delivers-no-fluff-advice-this-article-hits-hard-but-its-exactly-what-founders-need-51ci)
+- [Ai Supabase Seeder](https://dev.to/mmvergara/ai-supabase-seeder-n1k)
 <!-- BLOG-POST-LIST:END -->
 
