@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Really Need a “Second Brain”?](https://dev.to/luca1iu/do-you-really-need-a-second-brain-4jfm)
-- [Getting started with networking 🛜🕸️](https://dev.to/nitin_b_839821d8ec281e9c9/getting-started-with-networking-48d4)
-- [Traverse the Process Environment Block &lpar;PEB&rpar; in Rust](https://dev.to/windasunnie/traverse-the-process-environment-block-peb-in-rust-498b)
-- [Scrape Swiggy Reviews Data | Zomato Reviews Data Extraction](https://dev.to/datazivot1/scrape-swiggy-reviews-data-zomato-reviews-data-extraction-41f0)
+- [Fidenza&#39;s Role in Cyberwar: The Unlikely Intersection of Art, NFTs, and Cybersecurity](https://dev.to/zhangwei42/fidenzas-role-in-cyberwar-the-unlikely-intersection-of-art-nfts-and-cybersecurity-2a8i)
+- [PDF 1.7 vs PDF 2.0: Why it’s important for developers to understand](https://dev.to/joyfill/pdf-17-vs-pdf-20-why-its-important-for-developers-to-understand-mno)
+- [Troubleshooting Common Issues in Broadcast Playout Software](https://dev.to/malhotraaa/troubleshooting-common-issues-in-broadcast-playout-software-4181)
+- [🚀 From Zero to Hero: Deploying a FastAPI Backend on Google Cloud Run with CI/CD, Docker &amp; MongoDB](https://dev.to/surendergupta/from-zero-to-hero-deploying-a-fastapi-backend-on-google-cloud-run-with-cicd-docker-mongodb-1301)
 <!-- BLOG-POST-LIST:END -->
 
