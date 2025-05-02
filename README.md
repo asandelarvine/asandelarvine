@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who else hates this time❓](https://dev.to/rally_for_jira/who-else-hates-this-time-4614)
-- [Set Class in Ruby 💎](https://dev.to/ritumka/set-class-in-ruby-4f25)
-- [The Five Levels Of SQL](https://dev.to/mendy_kevin_94ec1db73e1df/the-five-levels-of-sql-5hdd)
-- [Most productivity advice is just guilt in disguise. Here’s what could actually worked: &gt; Walk &gt; Shower &gt; One sentence Repeat daily. No pressure. No apps. You don’t need a new version of yours. You need a rhythm that lets the real you show up.](https://dev.to/diamantino_almeida/most-productivity-advice-is-just-guilt-in-disguise-heres-what-could-actually-worked--3jgk)
+- [Why Next.js is the Best Framework for SEO in 2025](https://dev.to/umairarshad-dev/why-nextjs-is-the-best-framework-for-seo-in-2025-24m2)
+- [Cross-Platform Software Development – Part 1: Yes, Bytes Can Be 9 Bits](https://dev.to/nikolay_chirkov/cross-platform-software-development-part-1-yes-bytes-can-be-9-bits-2c71)
+- [Supercharge Your Workflow: AI Chatbots, CLI Magic, and Smarter AI Usage with nGPT](https://dev.to/nazdridoy/supercharge-your-workflow-ai-chatbots-cli-magic-and-smarter-ai-usage-with-ngpt-mhg)
+- [How to Create a Secure Cryptocurrency with Zero Budget](https://dev.to/hexshift/how-to-create-a-secure-cryptocurrency-with-zero-budget-4bo4)
 <!-- BLOG-POST-LIST:END -->
 
