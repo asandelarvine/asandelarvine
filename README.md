@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Created a CI/CD Pipeline for Deploying a Dockerized Slim-PHP App with Caddy](https://dev.to/aabill/how-i-created-a-cicd-pipeline-for-deploying-a-dockerized-slim-php-app-with-caddy-nib)
-- [Integrating APIs Is Now Table Stakes—So We’re Giving It Away for Free](https://dev.to/lonti-davidb/integrating-apis-is-now-table-stakes-so-were-giving-it-away-for-free-2bbf)
-- [My CV](https://dev.to/mohamed_outerbah_eea4b2f0/my-cv-3fa)
-- [The Drip Network Team: Innovators in DeFi](https://dev.to/kallileiser/the-drip-network-team-innovators-in-defi-2kp2)
+- [Java em 2025: A Evolução da Linguagem e o Futuro da Programação](https://dev.to/caio_rodriguesbackend/java-em-2025-a-evolucao-da-linguagem-e-o-futuro-da-programacao-8ol)
+- [A Chinese name Generate or Translate tool](https://dev.to/yang_jerry_63234ef95c90d8/a-chinese-name-generate-or-translate-tool-1mfe)
+- [Deep Dive: Mastering Register-ObjectEvent in PowerShell — Real-Time Event Handling Like a Pro](https://dev.to/kedster/deep-dive-mastering-register-objectevent-in-powershell-real-time-event-handling-like-a-pro-33c5)
+- [The Essential Web Security Guide for Developers](https://dev.to/mohammad1105/the-essential-web-security-guide-for-developers-26dk)
 <!-- BLOG-POST-LIST:END -->
 
