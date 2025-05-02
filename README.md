@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to simulate a Worker Node failure in your Kubernetes Cluster without direct acces](https://dev.to/zenika/how-to-simulate-a-worker-node-failure-in-your-kubernetes-cluster-without-direct-acces-54f6)
-- [Elon Musk&#39;s Dive into the CryptoPunks Phenomenon: A Journey Through the NFT Universe](https://dev.to/jennythomas498/elon-musks-dive-into-the-cryptopunks-phenomenon-a-journey-through-the-nft-universe-52da)
-- [Untitled](https://dev.to/notakiddfromasia/untitled-53pi)
-- [Why Hiring Software Developers in USA Is a Smart Long-Term Move](https://dev.to/yashsmith/why-hiring-software-developers-in-usa-is-a-smart-long-term-move-3347)
+- [Do You Really Need a “Second Brain”?](https://dev.to/luca1iu/do-you-really-need-a-second-brain-4jfm)
+- [Getting started with networking 🛜🕸️](https://dev.to/nitin_b_839821d8ec281e9c9/getting-started-with-networking-48d4)
+- [Traverse the Process Environment Block &lpar;PEB&rpar; in Rust](https://dev.to/windasunnie/traverse-the-process-environment-block-peb-in-rust-498b)
+- [Scrape Swiggy Reviews Data | Zomato Reviews Data Extraction](https://dev.to/datazivot1/scrape-swiggy-reviews-data-zomato-reviews-data-extraction-41f0)
 <!-- BLOG-POST-LIST:END -->
 
