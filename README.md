@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP サーバーを活用して Amazon Q デベロッパーCLIの能力を強化しよう](https://dev.to/aws/mcp-sabawohuo-yong-site-amazon-q-deberotupaclinoneng-li-woqiang-hua-siyou-1ka0)
-- [Day 13 of Learning Python!](https://dev.to/harshvdev/day-13-of-learning-python-4ibb)
-- [Ashkan always delivers no-fluff advice. This article hits hard but it’s exactly what founders need to hear.](https://dev.to/noahboswel79/ashkan-always-delivers-no-fluff-advice-this-article-hits-hard-but-its-exactly-what-founders-need-51ci)
-- [Ai Supabase Seeder](https://dev.to/mmvergara/ai-supabase-seeder-n1k)
+- [Race Conditions in JWT Refresh Token Rotation 🏃‍♀️‍➡️](https://dev.to/silentwatcher_95/race-conditions-in-jwt-refresh-token-rotation-3j5k)
+- [Kuinka aloittaa web-kehityksen opiskelu vuonna 2025 &lpar;Aloittelijan opas&rpar;](https://dev.to/sofiamayer_dev/kuinka-aloittaa-web-kehityksen-opiskelu-vuonna-2025-aloittelijan-opas-15fo)
+- [2.2.3 Hybrid Architectures &lpar;Distributed Systems&rpar;](https://dev.to/dima853/223-hybrid-architectures-distributed-systems-14d4)
+- [Predicting Crop Yield using Machine Learning](https://dev.to/h4ck3r/predicting-crop-yield-using-machine-learning-3b79)
 <!-- BLOG-POST-LIST:END -->
 
