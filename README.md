@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 YouTube Channels to Learn MERN Stack &lpar;with GitHub Repos&rpar;](https://dev.to/devshefali/7-youtube-channels-to-learn-mern-stack-with-github-repos-49if)
-- [How I Met Your Frontend &lpar;and Almost Lost My Mind&rpar;](https://dev.to/ruslan_zholseitov/how-i-met-your-frontend-and-almost-lost-my-mind-3lph)
-- [Building a Mobile App for Diabetes Management: Technical Architecture and Challenges](https://dev.to/jeremy_libeskind_4bfdc99f/building-a-mobile-app-for-diabetes-management-technical-architecture-and-challenges-ib)
-- [Why &#39;Thank You&#39; &amp; &#39;Please&#39; cost AI Millions of Dollars](https://dev.to/smartterss/why-thank-you-please-cost-ai-millions-of-dollars-27dn)
+- [Concept Of Ingress In Kubernetes : Basics](https://dev.to/alkesh009/concept-of-ingress-in-kubernetes-basics-14hl)
+- [Predictive Analytics: How AI Is Learning to Read Your Users&#39; Minds — Before You Even Ask](https://dev.to/okoye_ndidiamaka_5e3b7d30/predictive-analytics-how-ai-is-learning-to-read-your-users-minds-before-you-even-ask-11db)
+- [ES Modules and CommonJS Modules Explained](https://dev.to/artem_turlenko/es-modules-and-commonjs-modules-explained-4gm)
+- [The 10 Things to Consider Before Creating Your Own Cryptocurrency](https://dev.to/hexshift/the-10-things-to-consider-before-creating-your-own-cryptocurrency-2f5h)
 <!-- BLOG-POST-LIST:END -->
 
