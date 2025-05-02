@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable and Resilient Architecture on AWS](https://dev.to/aws-builders/building-a-scalable-and-resilient-architecture-on-aws-35g2)
-- [Interface &amp; Class](https://dev.to/vasutamil19/interface-class-gol)
-- [Creating a Linux VM on Azure](https://dev.to/habeeb_hameed_0753445424a/part-1-creating-a-linux-vm-on-azure-475e)
-- [From Zero to Scale: Kubernetes on Proxmox &lpar;The scaling Autopilot Method&rpar;](https://dev.to/3deep5me/from-zero-to-scale-kubernetes-on-proxmox-the-scaling-autopilot-method-1l64)
+- [How to Set the Default Node Version Using NVM in Mac or Windows &lpar;with in 60 Seconds&rpar;](https://dev.to/muhammadaqib86/how-to-set-the-default-node-version-using-nvm-in-mac-or-windows-with-in-60-seconds-2fl7)
+- [AI-Powered Coding: Raising the Bar on Quality and Creativity](https://dev.to/roshan_1204/ai-powered-coding-raising-the-bar-on-quality-and-creativity-1d55)
+- [Project of the Week: Prisma](https://dev.to/riyanapatel/project-of-the-week-prisma-272m)
+- [Welcome to the Vibeconomy](https://dev.to/clubbrb/welcome-to-the-vibeconomy-3ik6)
 <!-- BLOG-POST-LIST:END -->
 
