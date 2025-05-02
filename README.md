@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inter-Process Communication between NodeJS and Python](https://dev.to/besworks/inter-process-communication-between-nodejs-and-python-djf)
-- [&quot;From Garage to Global: Unleashing AI to Supercharge Startup Success!&quot;](https://dev.to/dibborah100/from-garage-to-global-unleashing-ai-to-supercharge-startup-success-22jk)
-- [Tailwind CSS to your React Native projects!](https://dev.to/swapnil_ahmmedshishir_2d/tailwind-css-to-your-react-native-projects-29g)
-- [AI Killed Your Competitive Edge. Here&#39;s What Will Save It.](https://dev.to/shayy/ai-killed-your-competitive-edge-heres-what-will-save-it-2gje)
+- [Introduction to Data Engineering Concepts |7| Data Warehousing Fundamentals](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-7-data-warehousing-fundamentals-3j03)
+- [Introduction to Data Engineering Concepts |6| Data Modeling Basics](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-6-data-modeling-basics-d31)
+- [Spring Application Advisor: Built for Spring, Designed for Java](https://dev.to/michelle_sebek_/spring-application-advisor-built-for-spring-designed-for-java-3doa)
+- [Play Arcade Games and Learn How to Code Them](https://dev.to/seralto/play-arcade-games-and-learn-how-to-code-them-58la)
 <!-- BLOG-POST-LIST:END -->
 
