@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic go lang](https://dev.to/valdineisantos/basic-go-lang-22jf)
-- [Reliable SMTP Servers Compared: Yournotify vs. Brevo vs. SendGrid &lpar;2025 Review&rpar;](https://dev.to/charlesmudy/reliable-smtp-servers-compared-yournotify-vs-brevo-vs-sendgrid-2025-review-2k9n)
-- [Postgres: Ordered Queries and the Planner](https://dev.to/misachi/postgres-ordered-queries-and-the-planner-1151)
-- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
+- [How I Created a CI/CD Pipeline for Deploying a Dockerized Slim-PHP App with Caddy](https://dev.to/aabill/how-i-created-a-cicd-pipeline-for-deploying-a-dockerized-slim-php-app-with-caddy-nib)
+- [Integrating APIs Is Now Table Stakes—So We’re Giving It Away for Free](https://dev.to/lonti-davidb/integrating-apis-is-now-table-stakes-so-were-giving-it-away-for-free-2bbf)
+- [My CV](https://dev.to/mohamed_outerbah_eea4b2f0/my-cv-3fa)
+- [The Drip Network Team: Innovators in DeFi](https://dev.to/kallileiser/the-drip-network-team-innovators-in-defi-2kp2)
 <!-- BLOG-POST-LIST:END -->
 
