@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
-- [Gamepad API for Game Controller Integration](https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-2j7a)
-- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
-- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
+- [How to simulate a Worker Node failure in your Kubernetes Cluster without direct acces](https://dev.to/zenika/how-to-simulate-a-worker-node-failure-in-your-kubernetes-cluster-without-direct-acces-54f6)
+- [Elon Musk&#39;s Dive into the CryptoPunks Phenomenon: A Journey Through the NFT Universe](https://dev.to/jennythomas498/elon-musks-dive-into-the-cryptopunks-phenomenon-a-journey-through-the-nft-universe-52da)
+- [Untitled](https://dev.to/notakiddfromasia/untitled-53pi)
+- [Why Hiring Software Developers in USA Is a Smart Long-Term Move](https://dev.to/yashsmith/why-hiring-software-developers-in-usa-is-a-smart-long-term-move-3347)
 <!-- BLOG-POST-LIST:END -->
 
