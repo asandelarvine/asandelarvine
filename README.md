@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Upgrade Your React Codebase: 5 Custom Hooks to Try in 2025](https://dev.to/aleksei_aleinikov/upgrade-your-react-codebase-5-custom-hooks-to-try-in-2025-2gd2)
-- [BillingErrorAlert component in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/billingerroralert-component-in-suna-an-open-source-generalist-ai-agent-566d)
-- [🚨 Why You Should Avoid assert in Python in 2025](https://dev.to/aleksei_aleinikov/why-you-should-avoid-assert-in-python-in-2025-4835)
-- [🚀 How to Build Scalable Apps with React Router v7 in 2025](https://dev.to/aleksei_aleinikov/how-to-build-scalable-apps-with-react-router-v7-in-2025-54a4)
+- [Building a Ride-Sharing Platform to Reduce Traffic and Promote Smarter Travel](https://dev.to/vivek_dudhatra/building-a-ride-sharing-platform-to-reduce-traffic-and-promote-smarter-travel-57ae)
+- [Don&#39;t lead from an ivory tower!](https://dev.to/urbanisierung/dont-lead-from-an-ivory-tower-1610)
+- [How to Host an Express App on AWS EC2 with NGINX &lpar;Free Tier Guide&rpar;](https://dev.to/blueberries4/how-to-host-an-express-app-on-aws-ec2-with-nginx-free-tier-guide-3bd6)
+- [🧠 The Power of Web Workers for Frontend Performance](https://dev.to/hasunnilupul/the-power-of-web-workers-for-frontend-performance-1h6i)
 <!-- BLOG-POST-LIST:END -->
 
