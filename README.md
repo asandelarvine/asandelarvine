@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Ride-Sharing Platform to Reduce Traffic and Promote Smarter Travel](https://dev.to/vivek_dudhatra/building-a-ride-sharing-platform-to-reduce-traffic-and-promote-smarter-travel-57ae)
-- [Don&#39;t lead from an ivory tower!](https://dev.to/urbanisierung/dont-lead-from-an-ivory-tower-1610)
-- [How to Host an Express App on AWS EC2 with NGINX &lpar;Free Tier Guide&rpar;](https://dev.to/blueberries4/how-to-host-an-express-app-on-aws-ec2-with-nginx-free-tier-guide-3bd6)
-- [🧠 The Power of Web Workers for Frontend Performance](https://dev.to/hasunnilupul/the-power-of-web-workers-for-frontend-performance-1h6i)
+- [7 YouTube Channels to Learn MERN Stack &lpar;with GitHub Repos&rpar;](https://dev.to/devshefali/7-youtube-channels-to-learn-mern-stack-with-github-repos-49if)
+- [How I Met Your Frontend &lpar;and Almost Lost My Mind&rpar;](https://dev.to/ruslan_zholseitov/how-i-met-your-frontend-and-almost-lost-my-mind-3lph)
+- [Building a Mobile App for Diabetes Management: Technical Architecture and Challenges](https://dev.to/jeremy_libeskind_4bfdc99f/building-a-mobile-app-for-diabetes-management-technical-architecture-and-challenges-ib)
+- [Why &#39;Thank You&#39; &amp; &#39;Please&#39; cost AI Millions of Dollars](https://dev.to/smartterss/why-thank-you-please-cost-ai-millions-of-dollars-27dn)
 <!-- BLOG-POST-LIST:END -->
 
