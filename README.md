@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java em 2025: A Evolução da Linguagem e o Futuro da Programação](https://dev.to/caio_rodriguesbackend/java-em-2025-a-evolucao-da-linguagem-e-o-futuro-da-programacao-8ol)
-- [A Chinese name Generate or Translate tool](https://dev.to/yang_jerry_63234ef95c90d8/a-chinese-name-generate-or-translate-tool-1mfe)
-- [Deep Dive: Mastering Register-ObjectEvent in PowerShell — Real-Time Event Handling Like a Pro](https://dev.to/kedster/deep-dive-mastering-register-objectevent-in-powershell-real-time-event-handling-like-a-pro-33c5)
-- [The Essential Web Security Guide for Developers](https://dev.to/mohammad1105/the-essential-web-security-guide-for-developers-26dk)
+- [🚀 Upgrade Your React Codebase: 5 Custom Hooks to Try in 2025](https://dev.to/aleksei_aleinikov/upgrade-your-react-codebase-5-custom-hooks-to-try-in-2025-2gd2)
+- [BillingErrorAlert component in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/billingerroralert-component-in-suna-an-open-source-generalist-ai-agent-566d)
+- [🚨 Why You Should Avoid assert in Python in 2025](https://dev.to/aleksei_aleinikov/why-you-should-avoid-assert-in-python-in-2025-4835)
+- [🚀 How to Build Scalable Apps with React Router v7 in 2025](https://dev.to/aleksei_aleinikov/how-to-build-scalable-apps-with-react-router-v7-in-2025-54a4)
 <!-- BLOG-POST-LIST:END -->
 
