@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Engineering Concepts |18| The Power of Dremio in the Modern Lakehouse](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-18-the-power-of-dremio-in-the-modern-lakehouse-515l)
-- [Introduction to Data Engineering Concepts |17| Apache Iceberg, Arrow, and Polaris](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-17-apache-iceberg-arrow-and-polaris-2ei1)
-- [Gamepad API for Game Controller Integration](https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-62n)
-- [Introduction to Data Engineering Concepts |16| Data Lakehouse Architecture Explained](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-16-data-lakehouse-architecture-explained-2l5k)
+- [Who else hates this time❓](https://dev.to/rally_for_jira/who-else-hates-this-time-4614)
+- [Set Class in Ruby 💎](https://dev.to/ritumka/set-class-in-ruby-4f25)
+- [The Five Levels Of SQL](https://dev.to/mendy_kevin_94ec1db73e1df/the-five-levels-of-sql-5hdd)
+- [Most productivity advice is just guilt in disguise. Here’s what could actually worked: &gt; Walk &gt; Shower &gt; One sentence Repeat daily. No pressure. No apps. You don’t need a new version of yours. You need a rhythm that lets the real you show up.](https://dev.to/diamantino_almeida/most-productivity-advice-is-just-guilt-in-disguise-heres-what-could-actually-worked--3jgk)
 <!-- BLOG-POST-LIST:END -->
 
