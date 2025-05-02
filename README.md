@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Engineering Concepts |7| Data Warehousing Fundamentals](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-7-data-warehousing-fundamentals-3j03)
-- [Introduction to Data Engineering Concepts |6| Data Modeling Basics](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-6-data-modeling-basics-d31)
-- [Spring Application Advisor: Built for Spring, Designed for Java](https://dev.to/michelle_sebek_/spring-application-advisor-built-for-spring-designed-for-java-3doa)
-- [Play Arcade Games and Learn How to Code Them](https://dev.to/seralto/play-arcade-games-and-learn-how-to-code-them-58la)
+- [Introduction to Data Engineering Concepts |18| The Power of Dremio in the Modern Lakehouse](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-18-the-power-of-dremio-in-the-modern-lakehouse-515l)
+- [Introduction to Data Engineering Concepts |17| Apache Iceberg, Arrow, and Polaris](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-17-apache-iceberg-arrow-and-polaris-2ei1)
+- [Gamepad API for Game Controller Integration](https://dev.to/omriluz1/gamepad-api-for-game-controller-integration-62n)
+- [Introduction to Data Engineering Concepts |16| Data Lakehouse Architecture Explained](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-16-data-lakehouse-architecture-explained-2l5k)
 <!-- BLOG-POST-LIST:END -->
 
