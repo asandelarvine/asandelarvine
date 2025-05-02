@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Race Conditions in JWT Refresh Token Rotation 🏃‍♀️‍➡️](https://dev.to/silentwatcher_95/race-conditions-in-jwt-refresh-token-rotation-3j5k)
-- [Kuinka aloittaa web-kehityksen opiskelu vuonna 2025 &lpar;Aloittelijan opas&rpar;](https://dev.to/sofiamayer_dev/kuinka-aloittaa-web-kehityksen-opiskelu-vuonna-2025-aloittelijan-opas-15fo)
-- [2.2.3 Hybrid Architectures &lpar;Distributed Systems&rpar;](https://dev.to/dima853/223-hybrid-architectures-distributed-systems-14d4)
-- [Predicting Crop Yield using Machine Learning](https://dev.to/h4ck3r/predicting-crop-yield-using-machine-learning-3b79)
+- [Inter-Process Communication between NodeJS and Python](https://dev.to/besworks/inter-process-communication-between-nodejs-and-python-djf)
+- [&quot;From Garage to Global: Unleashing AI to Supercharge Startup Success!&quot;](https://dev.to/dibborah100/from-garage-to-global-unleashing-ai-to-supercharge-startup-success-22jk)
+- [Tailwind CSS to your React Native projects!](https://dev.to/swapnil_ahmmedshishir_2d/tailwind-css-to-your-react-native-projects-29g)
+- [AI Killed Your Competitive Edge. Here&#39;s What Will Save It.](https://dev.to/shayy/ai-killed-your-competitive-edge-heres-what-will-save-it-2gje)
 <!-- BLOG-POST-LIST:END -->
 
