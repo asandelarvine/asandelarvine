@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Permission Link](https://dev.to/godfroy_tech/permission-link-112l)
-- [Install Strapi v4 in Docker &lpar;without getting docked 🐳&rpar;](https://dev.to/uncle_ben/install-strapi-v4-in-docker-without-getting-docked--288d)
-- [The Gamified Focus System You Didn&#39;t Know You Needed](https://dev.to/rijultp/the-gamified-focus-system-you-didnt-know-you-needed-2cop)
-- [A Next.js Starter for Music/Video SaaS --Would You Use It?](https://dev.to/minyorange/a-nextjs-starter-for-musicvideo-saas-would-you-use-it-52b9)
+- [🚀 From Beginner to Pro: Essential Tips and Tricks for Aspiring Web Developers 🌐💻](https://dev.to/srijan-xi/from-beginner-to-pro-essential-tips-and-tricks-for-aspiring-web-developers-4191)
+- [Teaching Ecology Through Games: How Simulated Forests Can Build Real-World Awareness](https://dev.to/paulcuffe/teaching-ecology-through-games-how-simulated-forests-can-build-real-world-awareness-1kjd)
+- [Battery Status API for Power Management Awareness](https://dev.to/omriluz1/battery-status-api-for-power-management-awareness-56m6)
+- [[Boost]](https://dev.to/dragostrif/-33nh)
 <!-- BLOG-POST-LIST:END -->
 
