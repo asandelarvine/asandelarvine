@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Software Development – Between Productivity Gains and Knowledge Loss](https://dev.to/kmo/ai-in-software-development-between-productivity-gains-and-knowledge-loss-3p34)
-- [Step-by-Step Guide to Installing RabbitMQ on a Virtual Server](https://dev.to/xavki/step-by-step-guide-to-installing-rabbitmq-on-a-virtual-server-421m)
-- [&quot;AI &amp; Robotics in Personalized Medicine: Pioneering Insights and VC Forces Shaping the Future&quot;](https://dev.to/dibborah100/ai-robotics-in-personalized-medicine-pioneering-insights-and-vc-forces-shaping-the-future-19k8)
-- [O que aprendi pensando em como funciona a criptografia de ponta a ponta nos chats](https://dev.to/tadeubdev/o-que-aprendi-pensando-em-como-funciona-a-criptografia-de-ponta-a-ponta-nos-chats-1lkk)
+- [AI Summary Manager with Role-Based Access Control](https://dev.to/adonaitechnologies/ai-summary-manager-with-role-based-access-control-4nch)
+- [Implementing HTMX with Flask and Jinja2 for Dynamic Content Rendering](https://dev.to/hexshift/implementing-htmx-with-flask-and-jinja2-for-dynamic-content-rendering-2bck)
+- [# PostgreSQL Tutorial: “Too Many Open Files” Error: Diagnosis and Resolution Guide](https://dev.to/mangesh28/-postgresql-tutorial-too-many-open-files-error-diagnosis-and-resolution-guide-1nhf)
+- [Finding Free RBT Mock Exam PDFs 📄: Your Guide to Smart Test Prep](https://dev.to/rbtpracticeexamus/finding-free-rbt-mock-exam-pdfs-your-guide-to-smart-test-prep-4827)
 <!-- BLOG-POST-LIST:END -->
 
