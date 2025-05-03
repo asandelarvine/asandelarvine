@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Patch Management in OT, Overcoming Obstacles with Precision Solutions](https://dev.to/shieldworkz_d5fbada24309f/mastering-patch-management-in-ot-overcoming-obstacles-with-precision-solutions-3eof)
-- [[Boost]](https://dev.to/karanverma/-4093)
-- [Wantek: Revolutionizing the Way We Hear the World](https://dev.to/afra_seo/wantek-revolutionizing-the-way-we-hear-the-world-b5a)
-- [Understanding Different Types of Software Tests](https://dev.to/philipwalsh/understanding-different-types-of-software-tests-f9d)
+- [AI Governance: Research Misses Real-World Business Needs](https://dev.to/aimodels-fyi/ai-governance-research-misses-real-world-business-needs-5e44)
+- [AI Time Traveler? Language Models Struggle with Historical Accuracy](https://dev.to/aimodels-fyi/ai-time-traveler-language-models-struggle-with-historical-accuracy-1ejh)
+- [160K Chest X-Rays Released: Largest Public Dataset with Radiology Reports!](https://dev.to/aimodels-fyi/160k-chest-x-rays-released-largest-public-dataset-with-radiology-reports-40ml)
+- [Spatial Speech Translation: Hear &amp; Understand Anyone, Anywhere, Instantly!](https://dev.to/aimodels-fyi/spatial-speech-translation-hear-understand-anyone-anywhere-instantly-16mh)
 <!-- BLOG-POST-LIST:END -->
 
