@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;AI Meets Medicine: How Venture Capital Titans Are Fueling the Healthcare Revolution&quot;](https://dev.to/dibborah100/ai-meets-medicine-how-venture-capital-titans-are-fueling-the-healthcare-revolution-43p3)
-- [Steps to Use Subdomains on localhost Manually](https://dev.to/nurulislamrimon/steps-to-use-subdomains-on-localhost-manually-2ee1)
-- [I Learnt C in 2 weeks but have been FAILING to Learn dutch for 5 years. What this Taught me About Learning.](https://dev.to/itamartati/i-learnt-c-in-2-weeks-but-have-been-failing-to-learn-dutch-for-5-years-what-this-taught-me-about-4b68)
-- [🌍 We’re not just moving — we’re shifting our lives.](https://dev.to/middledev/were-not-just-moving-were-shifting-our-lives-4ee0)
+- [TARDIS-SN : My Pre-GSoC Journey, Codebase &amp; Guide](https://dev.to/akashjana/tardis-sn-my-pre-gsoc-journey-codebase-guide-2j0m)
+- [The Future of Sports: How Blockchain Funding is Changing the Game](https://dev.to/ahmmrizv9/the-future-of-sports-how-blockchain-funding-is-changing-the-game-4amk)
+- [The Power of Soft Skills: Why They Matter More Than Ever](https://dev.to/manishgiri1/the-power-of-soft-skills-why-they-matter-more-than-ever-1hpe)
+- [How to import Faceone code in apps script](https://dev.to/zako_mako_9a4826822204c78/how-to-import-faceone-code-in-apps-script-39dk)
 <!-- BLOG-POST-LIST:END -->
 
