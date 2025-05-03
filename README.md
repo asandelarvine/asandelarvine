@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TARDIS-SN : My Pre-GSoC Journey, Codebase &amp; Guide](https://dev.to/akashjana/tardis-sn-my-pre-gsoc-journey-codebase-guide-2j0m)
-- [The Future of Sports: How Blockchain Funding is Changing the Game](https://dev.to/ahmmrizv9/the-future-of-sports-how-blockchain-funding-is-changing-the-game-4amk)
-- [The Power of Soft Skills: Why They Matter More Than Ever](https://dev.to/manishgiri1/the-power-of-soft-skills-why-they-matter-more-than-ever-1hpe)
-- [How to import Faceone code in apps script](https://dev.to/zako_mako_9a4826822204c78/how-to-import-faceone-code-in-apps-script-39dk)
+- [Leetcode 1007. Minimum Domino Rotations For Equal Row](https://dev.to/rohithv07/leetcode-1007-minimum-domino-rotations-for-equal-row-4hef)
+- [Funding the Future: Investing in Blockchain Privacy Solutions](https://dev.to/kallileiser/funding-the-future-investing-in-blockchain-privacy-solutions-ni9)
+- [Stop Using AWS.](https://dev.to/code42cate/stop-using-aws-4eg)
+- [C# vs Angular: Universal Principles of Dependency Injection](https://dev.to/artstesh/c-vs-angular-universal-principles-of-dependency-injection-36j9)
 <!-- BLOG-POST-LIST:END -->
 
