@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Beginner to Pro: Essential Tips and Tricks for Aspiring Web Developers 🌐💻](https://dev.to/srijan-xi/from-beginner-to-pro-essential-tips-and-tricks-for-aspiring-web-developers-4191)
-- [Teaching Ecology Through Games: How Simulated Forests Can Build Real-World Awareness](https://dev.to/paulcuffe/teaching-ecology-through-games-how-simulated-forests-can-build-real-world-awareness-1kjd)
-- [Battery Status API for Power Management Awareness](https://dev.to/omriluz1/battery-status-api-for-power-management-awareness-56m6)
-- [[Boost]](https://dev.to/dragostrif/-33nh)
+- [AI in Software Development – Between Productivity Gains and Knowledge Loss](https://dev.to/kmo/ai-in-software-development-between-productivity-gains-and-knowledge-loss-3p34)
+- [Step-by-Step Guide to Installing RabbitMQ on a Virtual Server](https://dev.to/xavki/step-by-step-guide-to-installing-rabbitmq-on-a-virtual-server-421m)
+- [&quot;AI &amp; Robotics in Personalized Medicine: Pioneering Insights and VC Forces Shaping the Future&quot;](https://dev.to/dibborah100/ai-robotics-in-personalized-medicine-pioneering-insights-and-vc-forces-shaping-the-future-19k8)
+- [O que aprendi pensando em como funciona a criptografia de ponta a ponta nos chats](https://dev.to/tadeubdev/o-que-aprendi-pensando-em-como-funciona-a-criptografia-de-ponta-a-ponta-nos-chats-1lkk)
 <!-- BLOG-POST-LIST:END -->
 
