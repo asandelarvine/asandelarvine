@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Summary Manager with Role-Based Access Control](https://dev.to/adonaitechnologies/ai-summary-manager-with-role-based-access-control-4nch)
-- [Implementing HTMX with Flask and Jinja2 for Dynamic Content Rendering](https://dev.to/hexshift/implementing-htmx-with-flask-and-jinja2-for-dynamic-content-rendering-2bck)
-- [# PostgreSQL Tutorial: “Too Many Open Files” Error: Diagnosis and Resolution Guide](https://dev.to/mangesh28/-postgresql-tutorial-too-many-open-files-error-diagnosis-and-resolution-guide-1nhf)
-- [Finding Free RBT Mock Exam PDFs 📄: Your Guide to Smart Test Prep](https://dev.to/rbtpracticeexamus/finding-free-rbt-mock-exam-pdfs-your-guide-to-smart-test-prep-4827)
+- [How I Made My First GitHub Action Work &lpar;With Google&#39;s Help&rpar;](https://dev.to/arbythecoder/how-i-made-my-first-github-action-work-with-googles-help-3h01)
+- [Title: &quot;Ms. Strange’s Compliance Codex: A Librarian’s Guide to Ethical Exploits &amp; Bug Bounty Protocols&quot;](https://dev.to/creatur3245/title-ms-stranges-compliance-codex-a-librarians-guide-to-ethical-exploits-bug-bounty-12j4)
+- [&quot;Quantum Leap: How Startups and Tech Giants are Shaping the Future of Computing&quot;](https://dev.to/dibborah100/quantum-leap-how-startups-and-tech-giants-are-shaping-the-future-of-computing-1fpm)
+- [🎮 Counting Down to GTA 6 One Day at a Time](https://dev.to/camskithedev/counting-down-to-gta-6-one-day-at-a-time-p9j)
 <!-- BLOG-POST-LIST:END -->
 
