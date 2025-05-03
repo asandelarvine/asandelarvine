@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance: Research Misses Real-World Business Needs](https://dev.to/aimodels-fyi/ai-governance-research-misses-real-world-business-needs-5e44)
-- [AI Time Traveler? Language Models Struggle with Historical Accuracy](https://dev.to/aimodels-fyi/ai-time-traveler-language-models-struggle-with-historical-accuracy-1ejh)
-- [160K Chest X-Rays Released: Largest Public Dataset with Radiology Reports!](https://dev.to/aimodels-fyi/160k-chest-x-rays-released-largest-public-dataset-with-radiology-reports-40ml)
-- [Spatial Speech Translation: Hear &amp; Understand Anyone, Anywhere, Instantly!](https://dev.to/aimodels-fyi/spatial-speech-translation-hear-understand-anyone-anywhere-instantly-16mh)
+- [Smart Textiles 2.0: How the Square Rug Became a Tech Device](https://dev.to/vikash_sharma/smart-textiles-20-how-the-square-rug-became-a-tech-device-3d07)
+- [Получение донатов DonationAlerts в реальном времени: Руководство по WebSocket и OAuth 2.0 на Python &lpar;FastAPI&rpar;](https://dev.to/fedor-pasynkov-ru/poluchieniie-donatov-donationalerts-v-riealnom-vriemieni-rukovodstvo-po-websocket-i-oauth-20-na-python-2pgm)
+- [🧠 𝐒𝐡𝐨𝐮𝐥𝐝 𝐐𝐀 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 𝐒𝐭𝐢𝐥𝐥 𝐁𝐞 𝐆𝐨𝐨𝐝 𝐌𝐚𝐧𝐮𝐚𝐥 𝐓𝐞𝐬𝐭𝐞𝐫𝐬?](https://dev.to/dimit999/-ci1)
+- [How to write Semantic HTML](https://dev.to/israelrotimi/how-to-write-semantic-html-185e)
 <!-- BLOG-POST-LIST:END -->
 
