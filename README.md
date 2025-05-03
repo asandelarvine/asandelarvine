@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Month](https://dev.to/mileswk/meme-month-5946)
-- [Why Next.js is the Best Framework for SEO in 2025](https://dev.to/umairarshad-dev/why-nextjs-is-the-best-framework-for-seo-in-2025-24m2)
-- [Cross-Platform Software Development – Part 1: Yes, Bytes Can Be 9 Bits](https://dev.to/nikolay_chirkov/cross-platform-software-development-part-1-yes-bytes-can-be-9-bits-2c71)
-- [Supercharge Your Workflow: AI Chatbots, CLI Magic, and Smarter AI Usage with nGPT](https://dev.to/nazdridoy/supercharge-your-workflow-ai-chatbots-cli-magic-and-smarter-ai-usage-with-ngpt-mhg)
+- [How MCP Leverages OAuth 2.1 and RFC 9728 for Authorization](https://dev.to/patrick_chan_0922a197d89d/how-mcp-leverages-oauth-21-and-rfc-9728-for-authorization-58dn)
+- [Maybe Your Business Doesn&#39;t Need an App.](https://dev.to/bill_vivino_481bc473fa0d9/maybe-your-business-doesnt-need-an-app-3jae)
+- [Code Smell 298 - Microsoft Windows Time Waste](https://dev.to/mcsee/code-smell-298-microsoft-windows-time-waste-30k1)
+- [🚀 How to Install and Use Amazon Q for Developers in Your IDE](https://dev.to/aws-builders/how-to-install-and-use-amazon-q-for-developers-in-your-ide-4e3h)
 <!-- BLOG-POST-LIST:END -->
 
