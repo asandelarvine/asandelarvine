@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Post Exploitation Techniques](https://dev.to/godofgeeks/post-exploitation-techniques-1o33)
-- [This new version of BASIC is Awesome!!](https://dev.to/selfish_dev/minibasic--4faj)
-- [Cryptography in Cybersecurity: A Comprehensive Guide | 2025](https://dev.to/wininlife_academy_14d5cee/cryptography-in-cybersecurity-a-comprehensive-guide-2025-2ccd)
-- [Understanding a Netcat-Based Reverse Shell Using FIFO](https://dev.to/tejaromalius/understanding-a-netcat-based-reverse-shell-using-fifo-5e4k)
+- [Mastering Patch Management in OT, Overcoming Obstacles with Precision Solutions](https://dev.to/shieldworkz_d5fbada24309f/mastering-patch-management-in-ot-overcoming-obstacles-with-precision-solutions-3eof)
+- [[Boost]](https://dev.to/karanverma/-4093)
+- [Wantek: Revolutionizing the Way We Hear the World](https://dev.to/afra_seo/wantek-revolutionizing-the-way-we-hear-the-world-b5a)
+- [Understanding Different Types of Software Tests](https://dev.to/philipwalsh/understanding-different-types-of-software-tests-f9d)
 <!-- BLOG-POST-LIST:END -->
 
