@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Source of Truth: Cross-Component Styling with React Compound Pattern](https://dev.to/zeling_chen_73840b4951f53/single-source-of-truth-cross-component-styling-with-react-compound-pattern-3bnc)
-- [Hồi quy tuyến tính](https://dev.to/congngheaivn/hoi-quy-tuyen-tinh-3mhk)
-- [This Week in Cloud: Unexpected AWS Tour](https://dev.to/blkgrlcto/this-week-in-cloud-unexpected-aws-tour-3481)
-- [Everything you need to know about @starting-style!](https://dev.to/salehmubashar/everything-you-need-to-know-about-starting-style-39j6)
+- [Rendering Tooltips with React Portals &lpar;Without Breaking Layout&rpar;](https://dev.to/hexshift/rendering-tooltips-with-react-portals-without-breaking-layout-2970)
+- [Canary Deployments no Kubernetes utilizando um CRD &lpar;desenvolvido por mim&rpar;](https://dev.to/marcos_xavier/automatizando-canary-deployments-no-kubernetes-com-um-crd-3kck)
+- [Understanding the Market Dynamics of Fragment Telegram Username: An In-Depth Analysis](https://dev.to/ahmmrizv9/understanding-the-market-dynamics-of-fragment-telegram-username-an-in-depth-analysis-37ol)
+- [How to Create a Reusable Modal Component in React](https://dev.to/hexshift/how-to-create-a-reusable-modal-component-in-react-597j)
 <!-- BLOG-POST-LIST:END -->
 
