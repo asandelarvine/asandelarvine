@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Open Source Funding with Gemini&#39;s Nifty Gateway](https://dev.to/bobcars/bridging-open-source-funding-with-geminis-nifty-gateway-3hkn)
-- [[Você sabia?] Você já usa Singleton no seu app React sem perceber](https://dev.to/werliton/voce-sabia-voce-ja-usa-singleton-no-seu-app-react-sem-perceber-2hmn)
-- [Understanding Virtual Machines vs. Containers: A Complete Guide](https://dev.to/xavki/understanding-virtual-machines-vs-containers-a-complete-guide-5l2)
-- [My Game Development Journey: Finding My Path](https://dev.to/cansucreates/my-game-development-journey-finding-my-path-46fg)
+- [How to promote my product?](https://dev.to/daxsoft/how-to-promote-my-product-73e)
+- [Exposing and Reusing Infrastructure Data with Terraform Outputs](https://dev.to/olalekan_oladiran_d74b7a6/exposing-and-reusing-infrastructure-data-with-terraform-outputs-13aa)
+- [Avoiding Connectivity Failures: How to Manage FirewallD Blocked Ports in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/avoiding-connectivity-failures-how-to-manage-firewalld-blocked-ports-in-red-hat-linux-422l)
+- [Why You Should Always Convert PDFs to Word for Easier Editing](https://dev.to/pdf_4me/why-you-should-always-convert-pdfs-to-word-for-easier-editing-28b)
 <!-- BLOG-POST-LIST:END -->
 
