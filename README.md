@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextronix Diet: Forks Over Fail](https://dev.to/nevin100/nextronix-diet-forks-over-fail-2pp5)
-- [List of important Docker commands: Docker Series 03](https://dev.to/ankur0904/list-of-important-docker-commands-docker-series-03-1ihn)
-- [I’ve Built the Most Ergonomic Go Config Library](https://dev.to/john_doe_9ee7a1434273bedf/ive-built-the-most-ergonomic-go-config-library-44jb)
-- [Java Tutorial-What is Java](https://dev.to/clara1123/java-tutorial-what-is-java-586h)
+- [Permission Link](https://dev.to/godfroy_tech/permission-link-112l)
+- [Install Strapi v4 in Docker &lpar;without getting docked 🐳&rpar;](https://dev.to/uncle_ben/install-strapi-v4-in-docker-without-getting-docked--288d)
+- [The Gamified Focus System You Didn&#39;t Know You Needed](https://dev.to/rijultp/the-gamified-focus-system-you-didnt-know-you-needed-2cop)
+- [A Next.js Starter for Music/Video SaaS --Would You Use It?](https://dev.to/minyorange/a-nextjs-starter-for-musicvideo-saas-would-you-use-it-52b9)
 <!-- BLOG-POST-LIST:END -->
 
