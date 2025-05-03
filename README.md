@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Textiles 2.0: How the Square Rug Became a Tech Device](https://dev.to/vikash_sharma/smart-textiles-20-how-the-square-rug-became-a-tech-device-3d07)
-- [Получение донатов DonationAlerts в реальном времени: Руководство по WebSocket и OAuth 2.0 на Python &lpar;FastAPI&rpar;](https://dev.to/fedor-pasynkov-ru/poluchieniie-donatov-donationalerts-v-riealnom-vriemieni-rukovodstvo-po-websocket-i-oauth-20-na-python-2pgm)
-- [🧠 𝐒𝐡𝐨𝐮𝐥𝐝 𝐐𝐀 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐬 𝐒𝐭𝐢𝐥𝐥 𝐁𝐞 𝐆𝐨𝐨𝐝 𝐌𝐚𝐧𝐮𝐚𝐥 𝐓𝐞𝐬𝐭𝐞𝐫𝐬?](https://dev.to/dimit999/-ci1)
-- [How to write Semantic HTML](https://dev.to/israelrotimi/how-to-write-semantic-html-185e)
+- [🌱 A Beginner&#39;s Guide to Functional Programming](https://dev.to/devcorner/a-beginners-guide-to-functional-programming-2gkg)
+- [I Tested Tons of AI Resume Builders - These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-tons-of-ai-resume-builders-these-8-are-the-absolute-best-p7e)
+- [From Beginner to Pro: Docker + Terraform for Scalable AI Agents](https://dev.to/docker/from-beginner-to-pro-deploying-scalable-ai-workloads-with-docker-terraform-41f2)
+- [2025 Update: CompTIA A+ Core 1 &lpar;220-1201&rpar; Certification Guide – Syllabus, Cost &amp; Tips](https://dev.to/cert_study_4c9a871b492407/2025-update-comptia-a-core-1-220-1201-certification-guide-syllabus-cost-tips-1efg)
 <!-- BLOG-POST-LIST:END -->
 
