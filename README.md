@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 A Beginner&#39;s Guide to Functional Programming](https://dev.to/devcorner/a-beginners-guide-to-functional-programming-2gkg)
-- [I Tested Tons of AI Resume Builders - These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-tons-of-ai-resume-builders-these-8-are-the-absolute-best-p7e)
-- [From Beginner to Pro: Docker + Terraform for Scalable AI Agents](https://dev.to/docker/from-beginner-to-pro-deploying-scalable-ai-workloads-with-docker-terraform-41f2)
-- [2025 Update: CompTIA A+ Core 1 &lpar;220-1201&rpar; Certification Guide – Syllabus, Cost &amp; Tips](https://dev.to/cert_study_4c9a871b492407/2025-update-comptia-a-core-1-220-1201-certification-guide-syllabus-cost-tips-1efg)
+- [&quot;AI Meets Medicine: How Venture Capital Titans Are Fueling the Healthcare Revolution&quot;](https://dev.to/dibborah100/ai-meets-medicine-how-venture-capital-titans-are-fueling-the-healthcare-revolution-43p3)
+- [Steps to Use Subdomains on localhost Manually](https://dev.to/nurulislamrimon/steps-to-use-subdomains-on-localhost-manually-2ee1)
+- [I Learnt C in 2 weeks but have been FAILING to Learn dutch for 5 years. What this Taught me About Learning.](https://dev.to/itamartati/i-learnt-c-in-2-weeks-but-have-been-failing-to-learn-dutch-for-5-years-what-this-taught-me-about-4b68)
+- [🌍 We’re not just moving — we’re shifting our lives.](https://dev.to/middledev/were-not-just-moving-were-shifting-our-lives-4ee0)
 <!-- BLOG-POST-LIST:END -->
 
