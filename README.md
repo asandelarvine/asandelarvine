@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Minds of AI Agents: How Their Evolving Behavior Reshapes Business Risk](https://dev.to/abhishekshakya/inside-the-minds-of-ai-agents-how-their-evolving-behavior-reshapes-business-risk-4km6)
-- [FastiShare: Your Offline File Sharing Superpower](https://dev.to/cas8398/fastishare-your-offline-file-sharing-superpower-6pi)
-- [“How AWS Leveraged AWS to Power an Innovative Tech Challenge”](https://dev.to/creative_group_4ef68577fe/how-aws-leveraged-aws-to-power-an-innovative-tech-challenge-5620)
-- [Cryptocurrency &amp; Blockchain 101: Bitcoin, Ethereum, dApps, and Beyond](https://dev.to/sung_jinwoo_ae9a810f8c46a/cryptocurrency-blockchain-101-bitcoin-ethereum-dapps-and-beyond-418c)
+- [Post Exploitation Techniques](https://dev.to/godofgeeks/post-exploitation-techniques-1o33)
+- [This new version of BASIC is Awesome!!](https://dev.to/selfish_dev/minibasic--4faj)
+- [Cryptography in Cybersecurity: A Comprehensive Guide | 2025](https://dev.to/wininlife_academy_14d5cee/cryptography-in-cybersecurity-a-comprehensive-guide-2025-2ccd)
+- [Understanding a Netcat-Based Reverse Shell Using FIFO](https://dev.to/tejaromalius/understanding-a-netcat-based-reverse-shell-using-fifo-5e4k)
 <!-- BLOG-POST-LIST:END -->
 
