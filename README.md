@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering Tooltips with React Portals &lpar;Without Breaking Layout&rpar;](https://dev.to/hexshift/rendering-tooltips-with-react-portals-without-breaking-layout-2970)
-- [Canary Deployments no Kubernetes utilizando um CRD &lpar;desenvolvido por mim&rpar;](https://dev.to/marcos_xavier/automatizando-canary-deployments-no-kubernetes-com-um-crd-3kck)
-- [Understanding the Market Dynamics of Fragment Telegram Username: An In-Depth Analysis](https://dev.to/ahmmrizv9/understanding-the-market-dynamics-of-fragment-telegram-username-an-in-depth-analysis-37ol)
-- [How to Create a Reusable Modal Component in React](https://dev.to/hexshift/how-to-create-a-reusable-modal-component-in-react-597j)
+- [The Future of Philanthropy: Funding for Blockchain in Charitable Endeavors](https://dev.to/ashucommits/the-future-of-philanthropy-funding-for-blockchain-in-charitable-endeavors-4a0e)
+- [CDN Caching Strategies for Next.js: Speed Up Your Website Globally](https://dev.to/melvinprince/cdn-caching-strategies-for-nextjs-speed-up-your-website-globally-4194)
+- [nil in Go: Is More Complicated Than You Think](https://dev.to/leapcell/nil-in-go-is-more-complicated-than-you-think-29gp)
+- [Roly, my first CSS animation &lpar;check hover&rpar;](https://dev.to/preetha_vaishnavi_2b82358/roly-my-first-css-animation-check-hover-2525)
 <!-- BLOG-POST-LIST:END -->
 
