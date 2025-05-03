@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Philanthropy: Funding for Blockchain in Charitable Endeavors](https://dev.to/ashucommits/the-future-of-philanthropy-funding-for-blockchain-in-charitable-endeavors-4a0e)
-- [CDN Caching Strategies for Next.js: Speed Up Your Website Globally](https://dev.to/melvinprince/cdn-caching-strategies-for-nextjs-speed-up-your-website-globally-4194)
-- [nil in Go: Is More Complicated Than You Think](https://dev.to/leapcell/nil-in-go-is-more-complicated-than-you-think-29gp)
-- [Roly, my first CSS animation &lpar;check hover&rpar;](https://dev.to/preetha_vaishnavi_2b82358/roly-my-first-css-animation-check-hover-2525)
+- [Inside the Minds of AI Agents: How Their Evolving Behavior Reshapes Business Risk](https://dev.to/abhishekshakya/inside-the-minds-of-ai-agents-how-their-evolving-behavior-reshapes-business-risk-4km6)
+- [FastiShare: Your Offline File Sharing Superpower](https://dev.to/cas8398/fastishare-your-offline-file-sharing-superpower-6pi)
+- [“How AWS Leveraged AWS to Power an Innovative Tech Challenge”](https://dev.to/creative_group_4ef68577fe/how-aws-leveraged-aws-to-power-an-innovative-tech-challenge-5620)
+- [Cryptocurrency &amp; Blockchain 101: Bitcoin, Ethereum, dApps, and Beyond](https://dev.to/sung_jinwoo_ae9a810f8c46a/cryptocurrency-blockchain-101-bitcoin-ethereum-dapps-and-beyond-418c)
 <!-- BLOG-POST-LIST:END -->
 
