@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Machine Learning really about ?](https://dev.to/shub_03/what-is-machine-learning-really-about--349j)
-- [A Beginner’s Guide to Getting Started with Messages in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-getting-started-with-messages-in-langchain-4b6i)
-- [My Git &amp; GitHub Learning](https://dev.to/sourav_mahato_3900/my-git-github-learning-5a9b)
-- [Annotations in Oracle Database 23ai](https://dev.to/vahidusefzadeh/annotations-in-oracle-database-23ai-13el)
+- [Nextronix Diet: Forks Over Fail](https://dev.to/nevin100/nextronix-diet-forks-over-fail-2pp5)
+- [List of important Docker commands: Docker Series 03](https://dev.to/ankur0904/list-of-important-docker-commands-docker-series-03-1ihn)
+- [I’ve Built the Most Ergonomic Go Config Library](https://dev.to/john_doe_9ee7a1434273bedf/ive-built-the-most-ergonomic-go-config-library-44jb)
+- [Java Tutorial-What is Java](https://dev.to/clara1123/java-tutorial-what-is-java-586h)
 <!-- BLOG-POST-LIST:END -->
 
