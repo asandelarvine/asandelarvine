@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EDA Pro: Reusable Python Notebook for Exploratory Data Analysis](https://dev.to/drkouakou_rene_c45b636d7c/eda-pro-reusable-python-notebook-for-exploratory-data-analysis-mpl)
-- [Mastering Python with UV: The Complete Guide to Lightning-Fast Development](https://dev.to/krish_desai_117/mastering-python-with-uv-the-complete-guide-to-lightning-fast-development-2gnl)
-- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
-- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
+- [Change Management Tracker](https://dev.to/neviarrawlinson/change-management-tracker-3j2e)
+- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
+- [ChatGPT told me this very insightful line regarding startups or business, &quot;Validate your idea with actual users or small launches, not opinions.&quot; What is your thought on this?](https://dev.to/frikishaan/chatgpt-told-me-this-very-insightful-line-regarding-startups-or-business-validate-your-idea-13jm)
+- [I&#39;ve been thinking a bit about my dream team, and I’d love to hear your thoughts too! What makes team successful?](https://dev.to/rkhaslarov/ive-been-thinking-a-bit-about-my-dream-team-and-id-love-to-hear-your-thoughts-too-what-makes-ogp)
 <!-- BLOG-POST-LIST:END -->
 
