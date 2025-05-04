@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-3dmc)
-- [Behind the Query: The Secret Life of Database Indexes](https://dev.to/umangmittal/behind-the-query-the-secret-life-of-database-indexes-37a6)
-- [How to Build a RESTful API in Node.js and Test it with Postman](https://dev.to/gurkeerats2/how-to-build-a-restful-api-in-nodejs-and-test-it-with-postman-378h)
-- [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://dev.to/0xkoji/wsl-troubleshooting-guide-when-you-can-not-access-to-wsl2-from-terminal-6e6)
+- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
+- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
+- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
+- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
 <!-- BLOG-POST-LIST:END -->
 
