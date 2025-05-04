@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made My First GitHub Action Work &lpar;With Google&#39;s Help&rpar;](https://dev.to/arbythecoder/how-i-made-my-first-github-action-work-with-googles-help-3h01)
-- [Title: &quot;Ms. Strange’s Compliance Codex: A Librarian’s Guide to Ethical Exploits &amp; Bug Bounty Protocols&quot;](https://dev.to/creatur3245/title-ms-stranges-compliance-codex-a-librarians-guide-to-ethical-exploits-bug-bounty-12j4)
-- [&quot;Quantum Leap: How Startups and Tech Giants are Shaping the Future of Computing&quot;](https://dev.to/dibborah100/quantum-leap-how-startups-and-tech-giants-are-shaping-the-future-of-computing-1fpm)
-- [🎮 Counting Down to GTA 6 One Day at a Time](https://dev.to/camskithedev/counting-down-to-gta-6-one-day-at-a-time-p9j)
+- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
+- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
+- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
+- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
 <!-- BLOG-POST-LIST:END -->
 
