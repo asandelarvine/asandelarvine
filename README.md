@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Ruby on Rails to Rust: How Loco Bridges Simplicity and Performance](https://dev.to/fayismahmood/from-ruby-on-rails-to-rust-how-loco-bridges-simplicity-and-performance-1g22)
-- [Use LaunchDarkly&lpar;LD&rpar; with Golang](https://dev.to/ankitmalikg/use-launchdarklyld-with-golang-21ig)
-- [Thank you for sharing the detailed website outline for MAA JAMWAY INSTITUTE. If you want, I can help you build the full website based on this structure using Tailwind CSS, HTML, and JavaScript. Just let me know which page or section you&#39;d like me to start](https://dev.to/jitendra_singhshekhawat_/thank-you-for-sharing-the-detailed-website-outline-for-maa-jamway-institute-if-you-want-i-can-53i3)
-- [The Role of Manual Testing: Techniques and Future in the AI Era](https://dev.to/namrata_saha_f82d00e587b0/the-role-of-manual-testing-techniques-and-future-in-the-ai-era-3kog)
+- [🤪 7 JavaScript Tricks They Don’t Teach You in Bootcamp](https://dev.to/abubaker_siddique_513b7e2/7-javascript-tricks-they-dont-teach-you-in-bootcamp-49hl)
+- [Utility Containers in Docker: A Powerful Tool for Local Development Without Polluting Your Machine](https://dev.to/mayankcse/utility-containers-in-docker-a-powerful-tool-for-local-development-without-polluting-your-machine-54op)
+- [How to Fix Incorrect Function Parameter Passing in C++](https://dev.to/generatecodedev/how-to-fix-incorrect-function-parameter-passing-in-c-5h5a)
+- [JSPNotation](https://dev.to/learnjavatools/jspnotation-2ji1)
 <!-- BLOG-POST-LIST:END -->
 
