@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sea Waves](https://dev.to/preetha_vaishnavi_2b82358/sea-waves-56jc)
-- [TrailerTime - Permissions Redefined](https://dev.to/nahida_anjum_2fe64e2ab9c1/trailertime-permissions-redefined-cp8)
-- [Star Wars Day - May 4](https://dev.to/devh0us3/star-wars-day-may-4-5g54)
-- [Create SMTP server 101](https://dev.to/thekbbohara/create-smtp-server-101-5p5)
+- [# Data Cleaning Process Modeling with BPMN and BizAgi](https://dev.to/aljutupapa/-data-cleaning-process-modeling-with-bpmn-and-bizagi-2f78)
+- [Inheritance](https://dev.to/datatoinfinity/inheritance-1oa2)
+- [Web Communication Series: Understanding Short Polling with a Simple Node.js Example](https://dev.to/frontendbytes/web-communication-series-understanding-short-polling-with-a-simple-nodejs-example-3nb)
+- [In-Depth Go Concurrency: A Practical Guide to Goroutine Performance](https://dev.to/jones_charles_ad50858dbc0/in-depth-go-concurrency-a-practical-guide-to-goroutine-performance-nee)
 <!-- BLOG-POST-LIST:END -->
 
