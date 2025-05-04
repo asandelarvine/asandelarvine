@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Requests to Reports: Clean Logging in API Testing](https://dev.to/asaianudeep/from-requests-to-reports-clean-logging-in-api-testing-2dod)
-- [Rest Client - Fetch](https://dev.to/esbanegas/rest-client-fetch-1l3k)
-- [20 Essential Python Programming Practice Questions for Beginners](https://dev.to/blackmare01wolf/20-essential-python-programming-practice-questions-for-beginners-3kn0)
-- [🛡️ 7 Frontend Security Vulnerabilities You Should Know &lpar;And Fix&rpar;](https://dev.to/chaudharidevam/7-frontend-security-vulnerabilities-you-should-know-and-fix-22hi)
+- [🧠 Understanding MVC Architecture with Spring Boot – A Beginner’s Guide](https://dev.to/matin676/understanding-mvc-architecture-with-spring-boot-a-beginners-guide-42bn)
+- [Why Visual Studio Code is Still the Best Code Editor in 2025?](https://dev.to/samiru_hemaka_d692dc070de/why-visual-studio-code-is-still-the-best-code-editor-in-2025-j1)
+- [🚀 How I Launched My First EC2 Instance on AWS &lpar;A Beginner&#39;s Guide&rpar;](https://dev.to/kaustav_dey_/how-i-launched-my-first-ec2-instance-on-aws-a-beginners-guide-1196)
+- [Visibility of Search for Large Data Using Amazon CloudSearch](https://dev.to/aws-builders/visibility-of-search-for-large-data-using-amazon-cloudsearch-4h73)
 <!-- BLOG-POST-LIST:END -->
 
