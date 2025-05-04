@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Bash Commands You Must Know Master commands &lpar;With Examples&rpar;](https://dev.to/badalraj9203/top-10-bash-commands-you-must-knowmaster-commands-with-examples-5d9p)
-- [Authorization in MCP Server with Permit.io - A JIRA-like Task Management API](https://dev.to/fahminlb33/authorization-in-mcp-server-with-permitio-a-jira-like-task-management-api-492l)
-- [How I Built My First VPC with 6 Subnets &lpar;And Only Mildly Panicked&rpar;](https://dev.to/kaustav_dey_/how-i-built-my-first-vpc-with-6-subnets-and-only-mildly-panicked-4op3)
-- [Building an Angular Developer Career Path: From Junior to Architect](https://dev.to/karol_modelski/building-an-angular-developer-career-path-from-junior-to-architect-1p31)
+- [From Requests to Reports: Clean Logging in API Testing](https://dev.to/asaianudeep/from-requests-to-reports-clean-logging-in-api-testing-2dod)
+- [Rest Client - Fetch](https://dev.to/esbanegas/rest-client-fetch-1l3k)
+- [20 Essential Python Programming Practice Questions for Beginners](https://dev.to/blackmare01wolf/20-essential-python-programming-practice-questions-for-beginners-3kn0)
+- [🛡️ 7 Frontend Security Vulnerabilities You Should Know &lpar;And Fix&rpar;](https://dev.to/chaudharidevam/7-frontend-security-vulnerabilities-you-should-know-and-fix-22hi)
 <!-- BLOG-POST-LIST:END -->
 
