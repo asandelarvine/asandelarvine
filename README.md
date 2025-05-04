@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own HMAC-Signed Double-Submit CSRF](https://dev.to/silentwatcher_95/building-your-own-hmac-signed-double-submit-csrf-3cgh)
-- [Introduction to SOC in Cybersecurity: Types, Roles, and Responsibilities](https://dev.to/wresford_smile/introduction-to-soc-in-cybersecurity-types-roles-and-responsibilities-3n40)
-- [How to Change clientid to Identity in Postgres Without Losing Data?](https://dev.to/generatecodedev/how-to-change-clientid-to-identity-in-postgres-without-losing-data-1am4)
-- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
+- [🚀 Introducing AquaScript: Your Ultimate Free JSON API Hub for Developers](https://dev.to/aquascript/introducing-aquascript-your-ultimate-free-json-api-hub-for-developers-341o)
+- [Building a Secure AI Medical Assistant with Permit.io, GroundX RAG, and Vercel AI SDK](https://dev.to/jacksonkasi/building-a-secure-ai-medical-assistant-with-permitio-groundx-rag-and-vercel-ai-sdk-5433)
+- [Какая операционная система VPS лучше для сайта на WordPress?](https://dev.to/wphelpru/kakaia-opieratsionnaia-sistiema-vps-luchshie-dlia-saita-na-wordpress-30op)
+- [How to Fix &#39;Not a Directory&#39; Error in Flutter on Mac?](https://dev.to/generatecodedev/how-to-fix-not-a-directory-error-in-flutter-on-mac-2m15)
 <!-- BLOG-POST-LIST:END -->
 
