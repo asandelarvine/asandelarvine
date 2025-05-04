@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with n8n: A Complete Guide to Workflow Automation](https://dev.to/krish_desai_117/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation-4gb5)
-- [html2canvas react Custom Fonts not exporting to image.](https://dev.to/rajan_sharma_72492849f8ac/html2canvas-react-custom-fonts-not-exporting-to-image-2446)
-- [Building &quot;Production-Grade&quot; APIs in .NET](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-3813)
-- [Permit IO Challenge Entry: Tool Access Panel](https://dev.to/codanyks/permit-io-challenge-entry-tool-access-panel-276h)
+- [&quot;From AI to Z: How Trailblazing Startups Are Redefining Healthcare in the Era of Tech Titans&quot;](https://dev.to/dibborah100/from-ai-to-z-how-trailblazing-startups-are-redefining-healthcare-in-the-era-of-tech-titans-3pme)
+- [Dev](https://dev.to/immilengo_7e6e5148135/dev-fml)
+- [The new Cypress features you should be using](https://dev.to/soumayaerradi/the-new-cypress-features-you-should-be-using-252a)
+- [Power BI vs Tableau in Financial Forecasting: Tools for Smarter Business Decisions](https://dev.to/kapusto/power-bi-vs-tableau-in-financial-forecasting-tools-for-smarter-business-decisions-29an)
 <!-- BLOG-POST-LIST:END -->
 
