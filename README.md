@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing AquaScript: Your Ultimate Free JSON API Hub for Developers](https://dev.to/aquascript/introducing-aquascript-your-ultimate-free-json-api-hub-for-developers-341o)
-- [Building a Secure AI Medical Assistant with Permit.io, GroundX RAG, and Vercel AI SDK](https://dev.to/jacksonkasi/building-a-secure-ai-medical-assistant-with-permitio-groundx-rag-and-vercel-ai-sdk-5433)
-- [Какая операционная система VPS лучше для сайта на WordPress?](https://dev.to/wphelpru/kakaia-opieratsionnaia-sistiema-vps-luchshie-dlia-saita-na-wordpress-30op)
-- [How to Fix &#39;Not a Directory&#39; Error in Flutter on Mac?](https://dev.to/generatecodedev/how-to-fix-not-a-directory-error-in-flutter-on-mac-2m15)
+- [&quot;Project Analyzer with Amazon Q Developer CLI&quot; A command-line tool that automates project analysis using Amazon Q Developer](https://dev.to/maschietto_maschiettos_5d/project-analyzer-with-amazon-q-developer-cli-a-command-line-tool-that-automates-project-analysis-d8p)
+- [How to Generate Compact Regular Expressions in Ruby?](https://dev.to/generatecodedev/how-to-generate-compact-regular-expressions-in-ruby-4lh0)
+- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
+- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
 <!-- BLOG-POST-LIST:END -->
 
