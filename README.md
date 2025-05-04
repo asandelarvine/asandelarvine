@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
-- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
-- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
-- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
+- [Top 10 Bash Commands You Must Know Master commands &lpar;With Examples&rpar;](https://dev.to/badalraj9203/top-10-bash-commands-you-must-knowmaster-commands-with-examples-5d9p)
+- [Authorization in MCP Server with Permit.io - A JIRA-like Task Management API](https://dev.to/fahminlb33/authorization-in-mcp-server-with-permitio-a-jira-like-task-management-api-492l)
+- [How I Built My First VPC with 6 Subnets &lpar;And Only Mildly Panicked&rpar;](https://dev.to/kaustav_dey_/how-i-built-my-first-vpc-with-6-subnets-and-only-mildly-panicked-4op3)
+- [Building an Angular Developer Career Path: From Junior to Architect](https://dev.to/karol_modelski/building-an-angular-developer-career-path-from-junior-to-architect-1p31)
 <!-- BLOG-POST-LIST:END -->
 
