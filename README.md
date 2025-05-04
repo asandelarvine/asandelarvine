@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Understanding MVC Architecture with Spring Boot – A Beginner’s Guide](https://dev.to/matin676/understanding-mvc-architecture-with-spring-boot-a-beginners-guide-42bn)
-- [Why Visual Studio Code is Still the Best Code Editor in 2025?](https://dev.to/samiru_hemaka_d692dc070de/why-visual-studio-code-is-still-the-best-code-editor-in-2025-j1)
-- [🚀 How I Launched My First EC2 Instance on AWS &lpar;A Beginner&#39;s Guide&rpar;](https://dev.to/kaustav_dey_/how-i-launched-my-first-ec2-instance-on-aws-a-beginners-guide-1196)
-- [Visibility of Search for Large Data Using Amazon CloudSearch](https://dev.to/aws-builders/visibility-of-search-for-large-data-using-amazon-cloudsearch-4h73)
+- [Building AI Agents with n8n: A Complete Guide to Workflow Automation](https://dev.to/krish_desai_117/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation-4gb5)
+- [html2canvas react Custom Fonts not exporting to image.](https://dev.to/rajan_sharma_72492849f8ac/html2canvas-react-custom-fonts-not-exporting-to-image-2446)
+- [Building &quot;Production-Grade&quot; APIs in .NET](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-3813)
+- [Permit IO Challenge Entry: Tool Access Panel](https://dev.to/codanyks/permit-io-challenge-entry-tool-access-panel-276h)
 <!-- BLOG-POST-LIST:END -->
 
