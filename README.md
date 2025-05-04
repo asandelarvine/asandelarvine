@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript](https://dev.to/_5061f26e4074e89e001b0/javascript-22kf)
-- [Using react-native-vector-icons in React Native](https://dev.to/ajmal_hasan/using-react-native-vector-icons-in-react-native-1bem)
-- [How I Caught My Code Review Bot Writing Poetry and the Tool I Built to Expose It](https://dev.to/therealfredp3d/how-i-caught-my-code-review-bot-writing-poetry-and-the-tool-i-built-to-expose-it-d62)
-- [Real-time Facial Emotion Analysis with .NET 10 and gRPC](https://dev.to/ngtduc693/real-time-facial-emotion-analysis-with-net-10-and-grpc-579p)
+- [Data Readiness Assessment: Is Your Data Prepared for AI Success?](https://dev.to/ai4b/data-readiness-assessment-is-your-data-prepared-for-ai-success-1mcc)
+- [Building a RAG System with Firebase Functions, OpenAI, and Pinecone](https://dev.to/neetigyachahar/building-a-rag-system-with-firebase-functions-openai-and-pinecone-1ei)
+- [QuickCollab - Permissions- First Workspace Collaboration App](https://dev.to/mahendra_maddipati/quickcollab-permissions-first-workspace-collaboration-app-3o3c)
+- [Advanced CSS selectors exercise - answers](https://dev.to/preetha_vaishnavi_2b82358/advanced-css-selectors-exercise-answers-67i)
 <!-- BLOG-POST-LIST:END -->
 
