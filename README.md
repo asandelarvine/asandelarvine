@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Readiness Assessment: Is Your Data Prepared for AI Success?](https://dev.to/ai4b/data-readiness-assessment-is-your-data-prepared-for-ai-success-1mcc)
-- [Building a RAG System with Firebase Functions, OpenAI, and Pinecone](https://dev.to/neetigyachahar/building-a-rag-system-with-firebase-functions-openai-and-pinecone-1ei)
-- [QuickCollab - Permissions- First Workspace Collaboration App](https://dev.to/mahendra_maddipati/quickcollab-permissions-first-workspace-collaboration-app-3o3c)
-- [Advanced CSS selectors exercise - answers](https://dev.to/preetha_vaishnavi_2b82358/advanced-css-selectors-exercise-answers-67i)
+- [From Ruby on Rails to Rust: How Loco Bridges Simplicity and Performance](https://dev.to/fayismahmood/from-ruby-on-rails-to-rust-how-loco-bridges-simplicity-and-performance-1g22)
+- [Use LaunchDarkly&lpar;LD&rpar; with Golang](https://dev.to/ankitmalikg/use-launchdarklyld-with-golang-21ig)
+- [Thank you for sharing the detailed website outline for MAA JAMWAY INSTITUTE. If you want, I can help you build the full website based on this structure using Tailwind CSS, HTML, and JavaScript. Just let me know which page or section you&#39;d like me to start](https://dev.to/jitendra_singhshekhawat_/thank-you-for-sharing-the-detailed-website-outline-for-maa-jamway-institute-if-you-want-i-can-53i3)
+- [The Role of Manual Testing: Techniques and Future in the AI Era](https://dev.to/namrata_saha_f82d00e587b0/the-role-of-manual-testing-techniques-and-future-in-the-ai-era-3kog)
 <!-- BLOG-POST-LIST:END -->
 
