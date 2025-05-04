@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Management Tracker](https://dev.to/neviarrawlinson/change-management-tracker-3j2e)
-- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
-- [ChatGPT told me this very insightful line regarding startups or business, &quot;Validate your idea with actual users or small launches, not opinions.&quot; What is your thought on this?](https://dev.to/frikishaan/chatgpt-told-me-this-very-insightful-line-regarding-startups-or-business-validate-your-idea-13jm)
-- [I&#39;ve been thinking a bit about my dream team, and I’d love to hear your thoughts too! What makes team successful?](https://dev.to/rkhaslarov/ive-been-thinking-a-bit-about-my-dream-team-and-id-love-to-hear-your-thoughts-too-what-makes-ogp)
+- [[Boost]](https://dev.to/anthonymax/-3dmc)
+- [Behind the Query: The Secret Life of Database Indexes](https://dev.to/umangmittal/behind-the-query-the-secret-life-of-database-indexes-37a6)
+- [How to Build a RESTful API in Node.js and Test it with Postman](https://dev.to/gurkeerats2/how-to-build-a-restful-api-in-nodejs-and-test-it-with-postman-378h)
+- [WSL Troubleshooting Guide When You Can Not Access to WSL2 From Terminal](https://dev.to/0xkoji/wsl-troubleshooting-guide-when-you-can-not-access-to-wsl2-from-terminal-6e6)
 <!-- BLOG-POST-LIST:END -->
 
