@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;From AI to Z: How Trailblazing Startups Are Redefining Healthcare in the Era of Tech Titans&quot;](https://dev.to/dibborah100/from-ai-to-z-how-trailblazing-startups-are-redefining-healthcare-in-the-era-of-tech-titans-3pme)
-- [Dev](https://dev.to/immilengo_7e6e5148135/dev-fml)
-- [The new Cypress features you should be using](https://dev.to/soumayaerradi/the-new-cypress-features-you-should-be-using-252a)
-- [Power BI vs Tableau in Financial Forecasting: Tools for Smarter Business Decisions](https://dev.to/kapusto/power-bi-vs-tableau-in-financial-forecasting-tools-for-smarter-business-decisions-29an)
+- [Sea Waves](https://dev.to/preetha_vaishnavi_2b82358/sea-waves-56jc)
+- [TrailerTime - Permissions Redefined](https://dev.to/nahida_anjum_2fe64e2ab9c1/trailertime-permissions-redefined-cp8)
+- [Star Wars Day - May 4](https://dev.to/devh0us3/star-wars-day-may-4-5g54)
+- [Create SMTP server 101](https://dev.to/thekbbohara/create-smtp-server-101-5p5)
 <!-- BLOG-POST-LIST:END -->
 
