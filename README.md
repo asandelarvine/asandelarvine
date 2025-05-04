@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤪 7 JavaScript Tricks They Don’t Teach You in Bootcamp](https://dev.to/abubaker_siddique_513b7e2/7-javascript-tricks-they-dont-teach-you-in-bootcamp-49hl)
-- [Utility Containers in Docker: A Powerful Tool for Local Development Without Polluting Your Machine](https://dev.to/mayankcse/utility-containers-in-docker-a-powerful-tool-for-local-development-without-polluting-your-machine-54op)
-- [How to Fix Incorrect Function Parameter Passing in C++](https://dev.to/generatecodedev/how-to-fix-incorrect-function-parameter-passing-in-c-5h5a)
-- [JSPNotation](https://dev.to/learnjavatools/jspnotation-2ji1)
+- [Build a File Upload API in Golang](https://dev.to/bitsofmandal-yt/build-a-file-upload-api-in-golang-18oi)
+- [Integration Digest for April 2025](https://dev.to/stn1slv/integration-digest-for-april-2025-5dod)
+- [IBM&#39;s Pioneering Role in Open Source and Blockchain: A Holistic Analysis](https://dev.to/vitalisorenko/ibms-pioneering-role-in-open-source-and-blockchain-a-holistic-analysis-2c5o)
+- [MLOps Explained: Why Operationalizing Machine Learning is Crucial for Long‑Term Success](https://dev.to/ai4b/mlops-explained-why-operationalizing-machine-learning-is-crucial-for-long-term-success-59p7)
 <!-- BLOG-POST-LIST:END -->
 
