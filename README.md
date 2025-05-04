@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made my own pixel-art tool!!](https://dev.to/kobayashiiii/i-made-my-own-pixel-art-tool-2ak1)
-- [Building a Multi-Tier Flask App with Gunicorn, Nginx, PostgreSQL, and Systemd Using Ansible](https://dev.to/rahatnaqvi/building-a-multi-tier-flask-app-with-gunicorn-nginx-postgresql-and-systemd-using-ansible-5579)
-- [How to Use Pointers in Golang in 2025?](https://dev.to/nigelsilonero/how-to-use-pointers-in-golang-in-2025-1482)
-- [Kotlin vs Java: Which is Better for Android Development?](https://dev.to/media_geneous_bb80d6b5563/kotlin-vs-java-which-is-better-for-android-development-ke7)
+- [EDA Pro: Reusable Python Notebook for Exploratory Data Analysis](https://dev.to/drkouakou_rene_c45b636d7c/eda-pro-reusable-python-notebook-for-exploratory-data-analysis-mpl)
+- [Mastering Python with UV: The Complete Guide to Lightning-Fast Development](https://dev.to/krish_desai_117/mastering-python-with-uv-the-complete-guide-to-lightning-fast-development-2gnl)
+- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
+- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
 <!-- BLOG-POST-LIST:END -->
 
