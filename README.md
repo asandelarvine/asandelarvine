@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
-- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
-- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
-- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
+- [I made my own pixel-art tool!!](https://dev.to/kobayashiiii/i-made-my-own-pixel-art-tool-2ak1)
+- [Building a Multi-Tier Flask App with Gunicorn, Nginx, PostgreSQL, and Systemd Using Ansible](https://dev.to/rahatnaqvi/building-a-multi-tier-flask-app-with-gunicorn-nginx-postgresql-and-systemd-using-ansible-5579)
+- [How to Use Pointers in Golang in 2025?](https://dev.to/nigelsilonero/how-to-use-pointers-in-golang-in-2025-1482)
+- [Kotlin vs Java: Which is Better for Android Development?](https://dev.to/media_geneous_bb80d6b5563/kotlin-vs-java-which-is-better-for-android-development-ke7)
 <!-- BLOG-POST-LIST:END -->
 
