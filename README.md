@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Data Cleaning Process Modeling with BPMN and BizAgi](https://dev.to/aljutupapa/-data-cleaning-process-modeling-with-bpmn-and-bizagi-2f78)
-- [Inheritance](https://dev.to/datatoinfinity/inheritance-1oa2)
-- [Web Communication Series: Understanding Short Polling with a Simple Node.js Example](https://dev.to/frontendbytes/web-communication-series-understanding-short-polling-with-a-simple-nodejs-example-3nb)
-- [In-Depth Go Concurrency: A Practical Guide to Goroutine Performance](https://dev.to/jones_charles_ad50858dbc0/in-depth-go-concurrency-a-practical-guide-to-goroutine-performance-nee)
+- [JavaScript](https://dev.to/_5061f26e4074e89e001b0/javascript-22kf)
+- [Using react-native-vector-icons in React Native](https://dev.to/ajmal_hasan/using-react-native-vector-icons-in-react-native-1bem)
+- [How I Caught My Code Review Bot Writing Poetry and the Tool I Built to Expose It](https://dev.to/therealfredp3d/how-i-caught-my-code-review-bot-writing-poetry-and-the-tool-i-built-to-expose-it-d62)
+- [Real-time Facial Emotion Analysis with .NET 10 and gRPC](https://dev.to/ngtduc693/real-time-facial-emotion-analysis-with-net-10-and-grpc-579p)
 <!-- BLOG-POST-LIST:END -->
 
