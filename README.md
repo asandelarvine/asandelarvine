@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Doesn’t Suffer — But It Shapes the World of Those Who Do](https://dev.to/arcibyte/ai-doesnt-suffer-but-it-shapes-the-world-of-those-who-do-179h)
-- [Essential Patterns for Resilient Distributed Systems](https://dev.to/alexmyronov/essential-patterns-for-resilient-distributed-systems-228p)
-- [How to Properly Use Flexbox for a Responsive Header](https://dev.to/generatecodedev/how-to-properly-use-flexbox-for-a-responsive-header-56ei)
-- [Web Bluetooth API for Device Communication](https://dev.to/omriluz1/web-bluetooth-api-for-device-communication-27i3)
+- [Building Your Own HMAC-Signed Double-Submit CSRF](https://dev.to/silentwatcher_95/building-your-own-hmac-signed-double-submit-csrf-3cgh)
+- [Introduction to SOC in Cybersecurity: Types, Roles, and Responsibilities](https://dev.to/wresford_smile/introduction-to-soc-in-cybersecurity-types-roles-and-responsibilities-3n40)
+- [How to Change clientid to Identity in Postgres Without Losing Data?](https://dev.to/generatecodedev/how-to-change-clientid-to-identity-in-postgres-without-losing-data-1am4)
+- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
 <!-- BLOG-POST-LIST:END -->
 
