@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Laravel Event Listeners for Cleaner, Decoupled Code](https://dev.to/aleson-franca/using-laravel-event-listeners-for-cleaner-decoupled-code-51dl)
-- [Staying Ahead in JavaScript: What’s Trending in 2025](https://dev.to/michaelwiley9999/staying-ahead-in-javascript-whats-trending-in-2025-4fb4)
-- [Feature Flags in .NET](https://dev.to/sung_jinwoo_ae9a810f8c46a/feature-flags-in-net-5656)
-- [Building Your Own Web Server — Part 3: Blocking Single and Multithreaded Server](https://dev.to/dmytro_huz/building-your-own-web-server-part-3-blocking-single-and-multithreaded-server-3h7i)
+- [How Linux Awakens: What Happens When You Press the Power Button.](https://dev.to/gennyonyema/how-linux-awakens-what-happens-when-you-press-the-power-button-2ap3)
+- [Why Harrison G Herdzik Believes Every Tech Student Should Start a Side Business](https://dev.to/harrison_herdzik_f1a83305/why-harrison-g-herdzik-believes-every-tech-student-should-start-a-side-business-21k0)
+- [Pioneering the Future of NFT Infrastructure: Milady Maker and Arbitrum](https://dev.to/rachellovestowrite/pioneering-the-future-of-nft-infrastructure-milady-maker-and-arbitrum-3d4a)
+- [How Harrison Herdzik Diagnoses and Fixes IT Problems for Non-Technical Clients](https://dev.to/harrison_herdzik_f1a83305/how-harrison-herdzik-diagnoses-and-fixes-it-problems-for-non-technical-clients-55ma)
 <!-- BLOG-POST-LIST:END -->
 
