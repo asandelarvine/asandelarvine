@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [val ou var, eis a questão](https://dev.to/jonny-dev/val-ou-var-eis-a-questao-196g)
-- [Building a Robust Data Hub: Understanding the Data Types That Power It](https://dev.to/kedster/building-a-robust-data-hub-understanding-the-data-types-that-power-it-1mlp)
-- [PRODUCTION-LEVEL BLUE-GREEN DEPLOYMENT](https://dev.to/devops_methodology_d2b67f/production-level-blue-green-deployment-1ac0)
-- [How to Fix Selenium Edge Driver Unknown Version Error in Java?](https://dev.to/generatecodedev/how-to-fix-selenium-edge-driver-unknown-version-error-in-java-1e9)
+- [How NoLogin Was Born: From a Computer Lab Frustration to a Sharing Revolution](https://dev.to/deekshith_b_57ac55882b25c/how-nologin-was-born-from-a-computer-lab-frustration-to-a-sharing-revolution-1n01)
+- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
+- [Integrating Filebeat and Logstash with Elasticsearch](https://dev.to/xavki/integrating-filebeat-and-logstash-with-elasticsearch-3o80)
+- [O11Y e Negócio, uma aproximação necessária](https://dev.to/skimifil/o11y-e-negocio-uma-aproximacao-necessaria-2jg2)
 <!-- BLOG-POST-LIST:END -->
 
