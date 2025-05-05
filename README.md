@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence In The IT Industry Opportunities &amp; Challenges](https://dev.to/glaxitofficial/artificial-intelligence-in-the-it-industry-opportunities-challenges-o5d)
-- [Starvation in Javascript: When your program remains Hungry](https://dev.to/devanshhh/starvation-in-javascript-when-your-program-remains-hungry-1i19)
-- [🚀 Application Tier Platform Migration Oracle EBS R12.2.x](https://dev.to/decomoreira/application-tier-platform-migration-oracle-ebs-r122x-28oc)
-- [Expedition 33 publisher: &quot;Elder Scrolls: Oblivion didn’t seem to harm us at all&quot;](https://dev.to/gg_news/expedition-33-publisher-elder-scrolls-oblivion-didnt-seem-to-harm-us-at-all-4in)
+- [Why Your AI Company Needs a New Homepage](https://dev.to/talweezy/why-your-ai-company-needs-a-new-homepage-1n4b)
+- [How to Fix Stacks and Tabs Not Rendering in TypeScript?](https://dev.to/generatecodedev/how-to-fix-stacks-and-tabs-not-rendering-in-typescript-5bol)
+- [Permissions API to Manage User Consent](https://dev.to/omriluz1/permissions-api-to-manage-user-consent-2eij)
+- [Hello world!](https://dev.to/joaquin_gerez/hello-world-46i1)
 <!-- BLOG-POST-LIST:END -->
 
