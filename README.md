@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Forgot to Close the File](https://dev.to/bhuvaneshm_dev/the-day-i-forgot-to-close-the-file-24m8)
-- [The Remote-Preneur Reality: What Most Developers and Freelancers Don&#39;t See Coming](https://dev.to/matteotech/the-remote-preneur-reality-what-most-developers-and-freelancers-dont-see-coming-2091)
-- [What is ORD?](https://dev.to/e77/what-is-ord-3cgf)
-- [How to Fix &#39;Expression is Ambiguous for Type Lookup&#39; in Swift?](https://dev.to/generatecodedev/how-to-fix-expression-is-ambiguous-for-type-lookup-in-swift-pm6)
+- [[Boost]](https://dev.to/headf1rst/-3g81)
+- [Quarkus 3 application on AWS Lambda- Part 1 Introduction to the sample application and first Lambda performance measurements](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-1-introduction-to-the-sample-application-and-first-lambda-30lb)
+- [In case you missed it](https://dev.to/d4vinci/in-case-you-missed-it-4mi1)
+- [😰 System design rounds used to scare me. Until I built a simple 2 2 quadrant to structure my thinking. I’ve finally written about it - with one example of Product Listing Page.](https://dev.to/smilegupta/system-design-rounds-used-to-scare-me-until-i-built-a-simple-2x2-quadrant-to-structure-my-c1n)
 <!-- BLOG-POST-LIST:END -->
 
