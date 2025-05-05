@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Programmer Needs a Non Computer Hobby 🎯](https://dev.to/mahdijazini/why-every-programmer-needs-a-non-computer-hobby-fgf)
-- [Exploring Event Delegation in JavaScript](https://dev.to/dev-alamin/exploring-event-delegation-in-javascript-2jid)
-- [SaaS-Ready Web Scraping with Tiered Permissions using Permit.io](https://dev.to/tamizhme/saas-ready-web-scraping-with-tiered-permissions-using-permitio-143d)
-- [Permitron: AI-Powered Task Management with Fine-Grained Permissions](https://dev.to/shaikmohdhuzaifa/permitron-ai-powered-task-management-with-fine-grained-permissions-14h)
+- [🧠 40 System Design Questions That Can Land You a $150K Job in 2025 💰 🔥](https://dev.to/finalroundai/40-system-design-questions-that-can-land-you-a-150k-job-in-2025-18j2)
+- [Level Up Your Integration Tests in .NET: Record, Replay, Relax](https://dev.to/georgopoulosgiannis/level-up-your-integration-tests-in-net-record-replay-relax-2m5c)
+- [Dark Patterns in UX: How to Recognize Manipulative Design—and Why Ethical Design Is More Important Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/dark-patterns-in-ux-how-to-recognize-manipulative-design-and-why-ethical-design-is-more-important-o6j)
+- [🖥️ No IDE? No Problem: How I Started an EC2 Instance Using AWS CloudShell and SSH’d in From the Terminal](https://dev.to/kaustav_dey_/no-ide-no-problem-how-i-started-an-ec2-instance-using-aws-cloudshell-and-sshd-in-from-3e39)
 <!-- BLOG-POST-LIST:END -->
 
