@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
-- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
-- [The Anatomy of Barriers](https://dev.to/lsahn/the-anatomy-of-barriers-34n2)
-- [Uploading File Attachments with Other Fields in Laravel API Using Postman](https://dev.to/msnmongare/uploading-file-attachments-with-other-fields-in-laravel-api-using-postman-gm3)
+- [Using Checkout Action in GitHub Actions Workflow](https://dev.to/spacelift/using-checkout-action-in-github-actions-workflow-2bna)
+- [Nginx Ingress Controller in Kubernetes](https://dev.to/keyvan_soleimani/nginx-ingress-controller-in-kubernetes-422p)
+- [Building an Online Restaurant Reservation &amp; Advance Ordering System with Angular](https://dev.to/vivek_dudhatra/building-an-online-restaurant-reservation-advance-ordering-system-with-angular-886)
+- [To-Do list](https://dev.to/kashif_solangi_659a0fe086/to-do-list-1ef0)
 <!-- BLOG-POST-LIST:END -->
 
