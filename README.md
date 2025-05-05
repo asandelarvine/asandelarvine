@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/headf1rst/-3g81)
-- [Quarkus 3 application on AWS Lambda- Part 1 Introduction to the sample application and first Lambda performance measurements](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-1-introduction-to-the-sample-application-and-first-lambda-30lb)
-- [In case you missed it](https://dev.to/d4vinci/in-case-you-missed-it-4mi1)
-- [😰 System design rounds used to scare me. Until I built a simple 2 2 quadrant to structure my thinking. I’ve finally written about it - with one example of Product Listing Page.](https://dev.to/smilegupta/system-design-rounds-used-to-scare-me-until-i-built-a-simple-2x2-quadrant-to-structure-my-c1n)
+- [val ou var, eis a questão](https://dev.to/jonny-dev/val-ou-var-eis-a-questao-196g)
+- [Building a Robust Data Hub: Understanding the Data Types That Power It](https://dev.to/kedster/building-a-robust-data-hub-understanding-the-data-types-that-power-it-1mlp)
+- [PRODUCTION-LEVEL BLUE-GREEN DEPLOYMENT](https://dev.to/devops_methodology_d2b67f/production-level-blue-green-deployment-1ac0)
+- [How to Fix Selenium Edge Driver Unknown Version Error in Java?](https://dev.to/generatecodedev/how-to-fix-selenium-edge-driver-unknown-version-error-in-java-1e9)
 <!-- BLOG-POST-LIST:END -->
 
