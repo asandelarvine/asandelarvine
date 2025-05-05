@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Q Backup Manager: A Modular Bash Backup Script Powered by Amazon Q Developer](https://dev.to/purushotam_adhikari_bd199/q-backup-manager-a-modular-bash-backup-script-powered-by-amazon-q-developer-f9o)
-- [Kubernetes: The Overblown Balloon in the Tech Playground](https://dev.to/sakethkowtha/kubernetes-the-overblown-balloon-in-the-tech-playground-2a9k)
-- [5 Things I Wish I Knew Before Starting a Startup as a Software Engineer](https://dev.to/code42cate/5-things-i-wish-i-knew-before-starting-a-startup-as-a-software-engineer-208i)
-- [Creating ASCII Art with Python: A Fun Guide to Text Transformations](https://dev.to/diamantino_almeida/creating-ascii-art-with-python-a-fun-guide-to-text-transformations-38o2)
+- [My Go-To Toolkit: Top 10 Shadcn/ui Components I Rely On for Modern Web Development](https://dev.to/therealmrmumba/my-go-to-toolkit-top-10-shadcnui-components-i-rely-on-for-modern-web-development-31l3)
+- [#3 Fidely Project Update: a better UI 💪](https://dev.to/pul/3-fidely-project-update-a-better-ui-15j8)
+- [The Anatomy of Barriers](https://dev.to/lsahn/the-anatomy-of-barriers-34n2)
+- [Uploading File Attachments with Other Fields in Laravel API Using Postman](https://dev.to/msnmongare/uploading-file-attachments-with-other-fields-in-laravel-api-using-postman-gm3)
 <!-- BLOG-POST-LIST:END -->
 
