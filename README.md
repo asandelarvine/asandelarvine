@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 40 System Design Questions That Can Land You a $150K Job in 2025 💰 🔥](https://dev.to/finalroundai/40-system-design-questions-that-can-land-you-a-150k-job-in-2025-18j2)
-- [Level Up Your Integration Tests in .NET: Record, Replay, Relax](https://dev.to/georgopoulosgiannis/level-up-your-integration-tests-in-net-record-replay-relax-2m5c)
-- [Dark Patterns in UX: How to Recognize Manipulative Design—and Why Ethical Design Is More Important Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/dark-patterns-in-ux-how-to-recognize-manipulative-design-and-why-ethical-design-is-more-important-o6j)
-- [🖥️ No IDE? No Problem: How I Started an EC2 Instance Using AWS CloudShell and SSH’d in From the Terminal](https://dev.to/kaustav_dey_/no-ide-no-problem-how-i-started-an-ec2-instance-using-aws-cloudshell-and-sshd-in-from-3e39)
+- [AI-Assisted Legacy Data Migration: Ensuring Accuracy and Efficiency](https://dev.to/shikharsparx_5a1d27a73942/ai-assisted-legacy-data-migration-ensuring-accuracy-and-efficiency-5633)
+- [CloudNativePG: Run PostgreSQL inside Kubernetes](https://dev.to/sertxudev/cloudnativepg-run-postgresql-inside-kubernetes-30n1)
+- [We are live on Product Hunt! 🚨](https://dev.to/shruthi/we-are-live-on-product-hunt-37f8)
+- [Arquitetura REST: Fundamentos, Princípios e Aplicações em Sistemas Distribuídos](https://dev.to/jpbonetti/arquitetura-rest-fundamentos-principios-e-aplicacoes-em-sistemas-distribuidos-jik)
 <!-- BLOG-POST-LIST:END -->
 
