@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code like an Onion: The Decorator Pattern](https://dev.to/zeling_chen_73840b4951f53/code-like-an-onion-the-decorator-pattern-ff)
-- [How to Fix MissingPluginException with Geolocator in Flutter?](https://dev.to/generatecodedev/how-to-fix-missingpluginexception-with-geolocator-in-flutter-1hpa)
-- [Da Bot Updates the Old Shotgun Meme](https://dev.to/mwlang/da-bot-updates-the-old-shotgun-meme-3lpa)
-- [Indie Hacking Success Stories and the Power of Open Source Licensing: A Deep Dive](https://dev.to/jennythomas498/indie-hacking-success-stories-and-the-power-of-open-source-licensing-a-deep-dive-44am)
+- [Innovative Funding Through Tokenized Licenses for Open Source Projects](https://dev.to/ashucommits/innovative-funding-through-tokenized-licenses-for-open-source-projects-21kg)
+- [How to Add Unique ID to Each Row in CSV with C#](https://dev.to/generatecodedev/how-to-add-unique-id-to-each-row-in-csv-with-c-2hi6)
+- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
+- [Behind the Cloud - The TRUTH About TeraBox.](https://dev.to/yuvasec/behind-the-cloud-the-truth-about-terabox-3j49)
 <!-- BLOG-POST-LIST:END -->
 
