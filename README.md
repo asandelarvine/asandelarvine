@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌩️ AWS vs Azure: A Comprehensive Comparison of Leading Cloud Platforms](https://dev.to/akash029/aws-vs-azure-a-comprehensive-comparison-of-leading-cloud-platforms-4164)
-- [Resolving Deadlocks in Transactions in Spring Boot](https://dev.to/tharindufdo/resolving-deadlocks-in-transactions-in-spring-boot-5a9j)
-- [Perl 🐪 Weekly #719 - How do you deal with the decline?](https://dev.to/szabgab/perl-weekly-719-how-do-you-deal-with-the-decline-4d5g)
-- [Re-stake. Reinforce. Revolutionize](https://dev.to/dhis_is_jj/re-stake-reinforce-revolutionize-1cln)
+- [Why Every Programmer Needs a Non Computer Hobby 🎯](https://dev.to/mahdijazini/why-every-programmer-needs-a-non-computer-hobby-fgf)
+- [Exploring Event Delegation in JavaScript](https://dev.to/dev-alamin/exploring-event-delegation-in-javascript-2jid)
+- [SaaS-Ready Web Scraping with Tiered Permissions using Permit.io](https://dev.to/tamizhme/saas-ready-web-scraping-with-tiered-permissions-using-permitio-143d)
+- [Permitron: AI-Powered Task Management with Fine-Grained Permissions](https://dev.to/shaikmohdhuzaifa/permitron-ai-powered-task-management-with-fine-grained-permissions-14h)
 <!-- BLOG-POST-LIST:END -->
 
