@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability in Action: A Google Cloud Next demo](https://dev.to/googlecloud/observability-in-action-a-google-cloud-next-demo-2fkb)
-- [How to Await AJAX Response in JavaScript Validation Function?](https://dev.to/generatecodedev/how-to-await-ajax-response-in-javascript-validation-function-3p84)
-- [Rails Designer v1.14: All-new Calendar Component](https://dev.to/railsdesigner/rails-designer-v114-all-new-calendar-component-5bn1)
-- [How to Fix &quot;The MAC is invalid.&quot; Exception in Spatie Permission](https://dev.to/biostate/how-to-fix-the-mac-is-invalid-exception-in-spatie-permission-39oc)
+- [Artificial Intelligence In The IT Industry Opportunities &amp; Challenges](https://dev.to/glaxitofficial/artificial-intelligence-in-the-it-industry-opportunities-challenges-o5d)
+- [Starvation in Javascript: When your program remains Hungry](https://dev.to/devanshhh/starvation-in-javascript-when-your-program-remains-hungry-1i19)
+- [🚀 Application Tier Platform Migration Oracle EBS R12.2.x](https://dev.to/decomoreira/application-tier-platform-migration-oracle-ebs-r122x-28oc)
+- [Expedition 33 publisher: &quot;Elder Scrolls: Oblivion didn’t seem to harm us at all&quot;](https://dev.to/gg_news/expedition-33-publisher-elder-scrolls-oblivion-didnt-seem-to-harm-us-at-all-4in)
 <!-- BLOG-POST-LIST:END -->
 
