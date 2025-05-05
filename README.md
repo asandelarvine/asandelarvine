@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Legacy Data Migration: Ensuring Accuracy and Efficiency](https://dev.to/shikharsparx_5a1d27a73942/ai-assisted-legacy-data-migration-ensuring-accuracy-and-efficiency-5633)
-- [CloudNativePG: Run PostgreSQL inside Kubernetes](https://dev.to/sertxudev/cloudnativepg-run-postgresql-inside-kubernetes-30n1)
-- [We are live on Product Hunt! 🚨](https://dev.to/shruthi/we-are-live-on-product-hunt-37f8)
-- [Arquitetura REST: Fundamentos, Princípios e Aplicações em Sistemas Distribuídos](https://dev.to/jpbonetti/arquitetura-rest-fundamentos-principios-e-aplicacoes-em-sistemas-distribuidos-jik)
+- [Q Backup Manager: A Modular Bash Backup Script Powered by Amazon Q Developer](https://dev.to/purushotam_adhikari_bd199/q-backup-manager-a-modular-bash-backup-script-powered-by-amazon-q-developer-f9o)
+- [Kubernetes: The Overblown Balloon in the Tech Playground](https://dev.to/sakethkowtha/kubernetes-the-overblown-balloon-in-the-tech-playground-2a9k)
+- [5 Things I Wish I Knew Before Starting a Startup as a Software Engineer](https://dev.to/code42cate/5-things-i-wish-i-knew-before-starting-a-startup-as-a-software-engineer-208i)
+- [Creating ASCII Art with Python: A Fun Guide to Text Transformations](https://dev.to/diamantino_almeida/creating-ascii-art-with-python-a-fun-guide-to-text-transformations-38o2)
 <!-- BLOG-POST-LIST:END -->
 
