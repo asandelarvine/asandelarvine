@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Jenkins Setup with Docker](https://dev.to/hostman_com/how-to-automate-jenkins-setup-with-docker-pkf)
-- [API Key Vs. OAuth – How to Choose the best Authentication](https://dev.to/boldsign/api-key-vs-oauth-how-to-choose-the-best-authentication-4lec)
-- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
-- [How to Fix SQL Insert Statement Errors with Unions](https://dev.to/generatecodedev/how-to-fix-sql-insert-statement-errors-with-unions-5aj)
+- [The Day I Forgot to Close the File](https://dev.to/bhuvaneshm_dev/the-day-i-forgot-to-close-the-file-24m8)
+- [The Remote-Preneur Reality: What Most Developers and Freelancers Don&#39;t See Coming](https://dev.to/matteotech/the-remote-preneur-reality-what-most-developers-and-freelancers-dont-see-coming-2091)
+- [What is ORD?](https://dev.to/e77/what-is-ord-3cgf)
+- [How to Fix &#39;Expression is Ambiguous for Type Lookup&#39; in Swift?](https://dev.to/generatecodedev/how-to-fix-expression-is-ambiguous-for-type-lookup-in-swift-pm6)
 <!-- BLOG-POST-LIST:END -->
 
