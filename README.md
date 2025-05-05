@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Possibilities: How I Built a YouTube Shorts Blocker for Kids Using Only Amazon Q Developer](https://dev.to/aws-builders/exploring-the-possibilities-how-i-built-a-youtube-shorts-blocker-for-kids-using-only-amazon-q-33f5)
-- [How to Fix &#39;data&#39; Argument Error in Node.js Password Reset](https://dev.to/generatecodedev/how-to-fix-data-argument-error-in-nodejs-password-reset-1ao)
-- [Relationship Property Law and Its Impact on Families with Children in Christchurch](https://dev.to/seoexpert14/relationship-property-law-and-its-impact-on-families-with-children-in-christchurch-1ai0)
-- [Another jamathon thingy, but this time with authZ](https://dev.to/instancer-kirik/another-jamathon-thingy-but-this-time-with-authz-2f2b)
+- [🌩️ AWS vs Azure: A Comprehensive Comparison of Leading Cloud Platforms](https://dev.to/akash029/aws-vs-azure-a-comprehensive-comparison-of-leading-cloud-platforms-4164)
+- [Resolving Deadlocks in Transactions in Spring Boot](https://dev.to/tharindufdo/resolving-deadlocks-in-transactions-in-spring-boot-5a9j)
+- [Perl 🐪 Weekly #719 - How do you deal with the decline?](https://dev.to/szabgab/perl-weekly-719-how-do-you-deal-with-the-decline-4d5g)
+- [Re-stake. Reinforce. Revolutionize](https://dev.to/dhis_is_jj/re-stake-reinforce-revolutionize-1cln)
 <!-- BLOG-POST-LIST:END -->
 
