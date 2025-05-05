@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When website crashes happen: 10 high‑profile failures &amp; what happened](https://dev.to/gatling/when-website-crashes-happen-10-high-profile-failures-what-happened-48i7)
-- [Understanding Node.js Architecture: Deep Dive into Event Loop, Threads, and Concurrency](https://dev.to/nitinsonicoder/understanding-nodejs-architecture-deep-dive-into-event-loop-threads-and-concurrency-50cb)
-- [Day 12/ 30 Days of Linux Mastery: Process Management Simplified](https://dev.to/amandaigwe/day-12-30-days-of-linux-mastery-process-management-simplified-4pmh)
-- [Vault Architecture](https://dev.to/abobakrahmed/vault-architecture-4hk6)
+- [How to Automate Jenkins Setup with Docker](https://dev.to/hostman_com/how-to-automate-jenkins-setup-with-docker-pkf)
+- [API Key Vs. OAuth – How to Choose the best Authentication](https://dev.to/boldsign/api-key-vs-oauth-how-to-choose-the-best-authentication-4lec)
+- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
+- [How to Fix SQL Insert Statement Errors with Unions](https://dev.to/generatecodedev/how-to-fix-sql-insert-statement-errors-with-unions-5aj)
 <!-- BLOG-POST-LIST:END -->
 
