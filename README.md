@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Checkout Action in GitHub Actions Workflow](https://dev.to/spacelift/using-checkout-action-in-github-actions-workflow-2bna)
-- [Nginx Ingress Controller in Kubernetes](https://dev.to/keyvan_soleimani/nginx-ingress-controller-in-kubernetes-422p)
-- [Building an Online Restaurant Reservation &amp; Advance Ordering System with Angular](https://dev.to/vivek_dudhatra/building-an-online-restaurant-reservation-advance-ordering-system-with-angular-886)
-- [To-Do list](https://dev.to/kashif_solangi_659a0fe086/to-do-list-1ef0)
+- [When website crashes happen: 10 high‑profile failures &amp; what happened](https://dev.to/gatling/when-website-crashes-happen-10-high-profile-failures-what-happened-48i7)
+- [Understanding Node.js Architecture: Deep Dive into Event Loop, Threads, and Concurrency](https://dev.to/nitinsonicoder/understanding-nodejs-architecture-deep-dive-into-event-loop-threads-and-concurrency-50cb)
+- [Day 12/ 30 Days of Linux Mastery: Process Management Simplified](https://dev.to/amandaigwe/day-12-30-days-of-linux-mastery-process-management-simplified-4pmh)
+- [Vault Architecture](https://dev.to/abobakrahmed/vault-architecture-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
