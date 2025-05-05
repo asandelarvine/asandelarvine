@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Linux Awakens: What Happens When You Press the Power Button.](https://dev.to/gennyonyema/how-linux-awakens-what-happens-when-you-press-the-power-button-2ap3)
-- [Why Harrison G Herdzik Believes Every Tech Student Should Start a Side Business](https://dev.to/harrison_herdzik_f1a83305/why-harrison-g-herdzik-believes-every-tech-student-should-start-a-side-business-21k0)
-- [Pioneering the Future of NFT Infrastructure: Milady Maker and Arbitrum](https://dev.to/rachellovestowrite/pioneering-the-future-of-nft-infrastructure-milady-maker-and-arbitrum-3d4a)
-- [How Harrison Herdzik Diagnoses and Fixes IT Problems for Non-Technical Clients](https://dev.to/harrison_herdzik_f1a83305/how-harrison-herdzik-diagnoses-and-fixes-it-problems-for-non-technical-clients-55ma)
+- [ما الفرق بين الـ Frontend والـ Backend في تطوير الويب؟](https://dev.to/ahmed_hashem/m-lfrq-byn-l-frontend-wl-backend-fy-ttwyr-lwyb-2af8)
+- [How to Resolve &#39;Access Denied&#39; Error in Bifurcation Mint TLS 1.3](https://dev.to/generatecodedev/how-to-resolve-access-denied-error-in-bifurcation-mint-tls-13-3b75)
+- [🚀 Bringing AI Search On-Device: Introducing MOSS](https://dev.to/sriinferedge/bringing-ai-search-on-device-introducing-moss-43j3)
+- [Do traditional agile meetings still work for remote teams❓](https://dev.to/rally_for_jira/do-traditional-agile-meetings-still-work-for-remote-teams-59gk)
 <!-- BLOG-POST-LIST:END -->
 
