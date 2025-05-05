@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovative Funding Through Tokenized Licenses for Open Source Projects](https://dev.to/ashucommits/innovative-funding-through-tokenized-licenses-for-open-source-projects-21kg)
-- [How to Add Unique ID to Each Row in CSV with C#](https://dev.to/generatecodedev/how-to-add-unique-id-to-each-row-in-csv-with-c-2hi6)
-- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
-- [Behind the Cloud - The TRUTH About TeraBox.](https://dev.to/yuvasec/behind-the-cloud-the-truth-about-terabox-3j49)
+- [Exploring the Possibilities: How I Built a YouTube Shorts Blocker for Kids Using Only Amazon Q Developer](https://dev.to/aws-builders/exploring-the-possibilities-how-i-built-a-youtube-shorts-blocker-for-kids-using-only-amazon-q-33f5)
+- [How to Fix &#39;data&#39; Argument Error in Node.js Password Reset](https://dev.to/generatecodedev/how-to-fix-data-argument-error-in-nodejs-password-reset-1ao)
+- [Relationship Property Law and Its Impact on Families with Children in Christchurch](https://dev.to/seoexpert14/relationship-property-law-and-its-impact-on-families-with-children-in-christchurch-1ai0)
+- [Another jamathon thingy, but this time with authZ](https://dev.to/instancer-kirik/another-jamathon-thingy-but-this-time-with-authz-2f2b)
 <!-- BLOG-POST-LIST:END -->
 
