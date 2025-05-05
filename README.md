@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How NoLogin Was Born: From a Computer Lab Frustration to a Sharing Revolution](https://dev.to/deekshith_b_57ac55882b25c/how-nologin-was-born-from-a-computer-lab-frustration-to-a-sharing-revolution-1n01)
-- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
-- [Integrating Filebeat and Logstash with Elasticsearch](https://dev.to/xavki/integrating-filebeat-and-logstash-with-elasticsearch-3o80)
-- [O11Y e Negócio, uma aproximação necessária](https://dev.to/skimifil/o11y-e-negocio-uma-aproximacao-necessaria-2jg2)
+- [Observability in Action: A Google Cloud Next demo](https://dev.to/googlecloud/observability-in-action-a-google-cloud-next-demo-2fkb)
+- [How to Await AJAX Response in JavaScript Validation Function?](https://dev.to/generatecodedev/how-to-await-ajax-response-in-javascript-validation-function-3p84)
+- [Rails Designer v1.14: All-new Calendar Component](https://dev.to/railsdesigner/rails-designer-v114-all-new-calendar-component-5bn1)
+- [How to Fix &quot;The MAC is invalid.&quot; Exception in Spatie Permission](https://dev.to/biostate/how-to-fix-the-mac-is-invalid-exception-in-spatie-permission-39oc)
 <!-- BLOG-POST-LIST:END -->
 
