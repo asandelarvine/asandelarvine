@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Project Analyzer with Amazon Q Developer CLI&quot; A command-line tool that automates project analysis using Amazon Q Developer](https://dev.to/maschietto_maschiettos_5d/project-analyzer-with-amazon-q-developer-cli-a-command-line-tool-that-automates-project-analysis-d8p)
-- [How to Generate Compact Regular Expressions in Ruby?](https://dev.to/generatecodedev/how-to-generate-compact-regular-expressions-in-ruby-4lh0)
-- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
-- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
+- [Code like an Onion: The Decorator Pattern](https://dev.to/zeling_chen_73840b4951f53/code-like-an-onion-the-decorator-pattern-ff)
+- [How to Fix MissingPluginException with Geolocator in Flutter?](https://dev.to/generatecodedev/how-to-fix-missingpluginexception-with-geolocator-in-flutter-1hpa)
+- [Da Bot Updates the Old Shotgun Meme](https://dev.to/mwlang/da-bot-updates-the-old-shotgun-meme-3lpa)
+- [Indie Hacking Success Stories and the Power of Open Source Licensing: A Deep Dive](https://dev.to/jennythomas498/indie-hacking-success-stories-and-the-power-of-open-source-licensing-a-deep-dive-44am)
 <!-- BLOG-POST-LIST:END -->
 
