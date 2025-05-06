@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTAP Using a Star Query on MongoDB Atlas Search Index](https://dev.to/mongodb/htap-using-a-star-query-on-mongodb-atlas-search-index-17p5)
-- [How to Decrypt Google Chrome Cookies in C#](https://dev.to/generatecodedev/how-to-decrypt-google-chrome-cookies-in-c-1ej2)
-- [How to install Docker on RedHat/Oracle Linux](https://dev.to/farisdurrani/how-to-install-docker-on-redhatoracle-linux-3gnl)
-- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-3j8j)
+- [Monitor Website Changes with Python, Streamlit, Slack &amp; Olostep](https://dev.to/mohammad_ehsanansari_671/monitor-website-changes-with-python-streamlit-slack-olostep-3h87)
+- [Best Appium Alternatives for Mobile Test Automation in 2025](https://dev.to/shubham-theqa/best-appium-alternatives-for-mobile-test-automation-in-2025-3f9i)
+- [Safe Refactoring in .NET with Light/Dark Mode and Feature Flags](https://dev.to/georgopoulosgiannis/safe-refactoring-in-net-with-lightdark-mode-and-feature-flags-1dil)
+- [How to Update Local Notifications Every Second in Swift?](https://dev.to/generatecodedev/how-to-update-local-notifications-every-second-in-swift-1n3f)
 <!-- BLOG-POST-LIST:END -->
 
