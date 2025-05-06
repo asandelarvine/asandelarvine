@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the AWS Advanced Networking Worth It?](https://dev.to/skillboosttrainer/is-the-aws-advanced-networking-worth-it-5hdl)
-- [# 🎓 I just earned the &quot;Software Engineering Essentials&quot; certificate from IBM!](https://dev.to/sneha152004/-i-just-earned-the-software-engineering-essentials-certificate-from-ibm-47h3)
-- [How to Pass Parameters to TypeScript Functions in ASP.NET MVC?](https://dev.to/generatecodedev/how-to-pass-parameters-to-typescript-functions-in-aspnet-mvc-plf)
-- [How to Use Multer with React.js and Node.js for File Uploads](https://dev.to/ramcpucoder/how-to-use-multer-with-reactjs-and-nodejs-for-file-uploads-23ie)
+- [HTAP Using a Star Query on MongoDB Atlas Search Index](https://dev.to/mongodb/htap-using-a-star-query-on-mongodb-atlas-search-index-17p5)
+- [How to Decrypt Google Chrome Cookies in C#](https://dev.to/generatecodedev/how-to-decrypt-google-chrome-cookies-in-c-1ej2)
+- [How to install Docker on RedHat/Oracle Linux](https://dev.to/farisdurrani/how-to-install-docker-on-redhatoracle-linux-3gnl)
+- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-3j8j)
 <!-- BLOG-POST-LIST:END -->
 
