@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Capas en CSS: Guía Completa para Dominar la Regla @layer y Controlar la Especificidad](https://dev.to/johnserranodev/capas-en-css-guia-completa-para-dominar-la-regla-layer-y-controlar-la-especificidad-lcg)
-- [Sightful&#39;s Spacetop Is a Better, More Practical Spatial Computing Experience](https://dev.to/future_arvr/sightfuls-spacetop-is-a-better-more-practical-spatial-computing-experience-330b)
-- [Chrome-Plated Coding: 10 Extensions That&#39;ll Make You Feel Like a Dev Superhero](https://dev.to/sakethkowtha/chrome-plated-coding-10-extensions-thatll-make-you-feel-like-a-dev-superhero-3ehd)
-- [The concept of a temporary View state in JavaScript](https://dev.to/anthonymax/the-concept-of-a-temporary-view-state-in-javascript-2ag3)
+- [How to Use CodeIgniter Query Builder for SQL Queries?](https://dev.to/generatecodedev/how-to-use-codeigniter-query-builder-for-sql-queries-km9)
+- [Untitled](https://dev.to/donato_conturla_5edec32b6/untitled-2iln)
+- [How to Resolve Tensor Input Issues with Semantic Segmentation in MATLAB](https://dev.to/generatecodedev/how-to-resolve-tensor-input-issues-with-semantic-segmentation-in-matlab-3gcp)
+- [My Journey Through Cisco’s Introduction to Cybersecurity: What I Learned &amp; Why It Matters](https://dev.to/s_j_9c4bdb31f6630da7/my-journey-through-ciscos-introduction-to-cybersecurity-what-i-learned-why-it-matters-1en)
 <!-- BLOG-POST-LIST:END -->
 
