@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix R8 Compilation Error in Flutter APK Build](https://dev.to/generatecodedev/how-to-fix-r8-compilation-error-in-flutter-apk-build-14ki)
-- [Substring from a Column of Strings — From SQL to SPL #25](https://dev.to/judith677/substring-from-a-column-of-strings-from-sql-to-spl-25-5b0b)
-- [Introduction to access control model: ACL, RBAC, ABAC](https://dev.to/whchi/introduction-to-access-control-model-acl-rbac-abac-4m1k)
-- [Celebrating 20 Years of Arduino: Highlights from Arduino Day Philippines 2025](https://dev.to/kakacomputer-media/celebrating-20-years-of-arduino-highlights-from-arduino-day-philippines-2025-6c6)
+- [How to Fix &#39;Unable to Load Dynamic Library mongodb.so&#39; Error in PHP](https://dev.to/generatecodedev/how-to-fix-unable-to-load-dynamic-library-mongodbso-error-in-php-28g7)
+- [Fractals and Amazon Q Developer](https://dev.to/gara501/fractals-and-amazon-q-c58)
+- [JavaScript and AI: Bridging Front-End and Intelligent Systems](https://dev.to/_0cf639bab57a4a0a3c7b4/javascript-and-ai-bridging-front-end-and-intelligent-systems-35g)
+- [How to Fix Capybara-Webkit Installation Errors on Ubuntu?](https://dev.to/generatecodedev/how-to-fix-capybara-webkit-installation-errors-on-ubuntu-6n6)
 <!-- BLOG-POST-LIST:END -->
 
