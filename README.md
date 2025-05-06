@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor Website Changes with Python, Streamlit, Slack &amp; Olostep](https://dev.to/mohammad_ehsanansari_671/monitor-website-changes-with-python-streamlit-slack-olostep-3h87)
-- [Best Appium Alternatives for Mobile Test Automation in 2025](https://dev.to/shubham-theqa/best-appium-alternatives-for-mobile-test-automation-in-2025-3f9i)
-- [Safe Refactoring in .NET with Light/Dark Mode and Feature Flags](https://dev.to/georgopoulosgiannis/safe-refactoring-in-net-with-lightdark-mode-and-feature-flags-1dil)
-- [How to Update Local Notifications Every Second in Swift?](https://dev.to/generatecodedev/how-to-update-local-notifications-every-second-in-swift-1n3f)
+- [TS2327: Property &#39;{0}&#39; is optional in type &#39;{1}&#39; but required in type &#39;{2}&#39;](https://dev.to/rivkaavraham/ts2327-property-0-is-optional-in-type-1-but-required-in-type-2-44a2)
+- [TS2333: &#39;this&#39; cannot be referenced in constructor arguments](https://dev.to/ahmad_tibibi/ts2333-this-cannot-be-referenced-in-constructor-arguments-5566)
+- [TS2332: &#39;this&#39; cannot be referenced in current location](https://dev.to/ahmad_tibibi/ts2332-this-cannot-be-referenced-in-current-location-56gd)
+- [TS2331: &#39;this&#39; cannot be referenced in a module or namespace body](https://dev.to/turingvangisms/ts2331-this-cannot-be-referenced-in-a-module-or-namespace-body-5h0d)
 <!-- BLOG-POST-LIST:END -->
 
