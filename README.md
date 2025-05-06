@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contracts: Automating Compliance in Asset Tokenization](https://dev.to/victoruzo/smart-contracts-automating-compliance-in-asset-tokenization-ao7)
-- [Benefits of Cloud TCO](https://dev.to/emma_wags_8dd9b74533690da/benefits-of-cloud-tco-5fb)
-- [Beyond Traditional APIs: The Rise of MCP and A2A in the AI Revolution](https://dev.to/dave_clissold/beyond-traditional-apis-the-rise-of-mcp-and-a2a-in-the-ai-revolution-4jo)
-- [How to Dynamically Pivot Object Keys in SQL?](https://dev.to/generatecodedev/how-to-dynamically-pivot-object-keys-in-sql-5eg3)
+- [AI-Powered Phishing Attacks: Can AI Fool Even Cybersecurity Experts?](https://dev.to/glaxitofficial/ai-powered-phishing-attacks-can-ai-fool-even-cybersecurity-experts-5c84)
+- [Restarting Laravel Queue Workers Safely](https://dev.to/silverfox/restarting-laravel-queue-workers-safely-306d)
+- [Cloud-native or cloud-naive ?](https://dev.to/mr_stone/cloud-native-or-cloud-naive--43fi)
+- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
 <!-- BLOG-POST-LIST:END -->
 
