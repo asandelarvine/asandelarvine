@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lynx Framework for Sale🙂🐾](https://dev.to/signor_p/lynx-framework-for-sale-5h10)
-- [When PCBs Learn From Failure: How AI is Using Defective Boards to Improve the Next Generation](https://dev.to/saqsmithpcb/when-pcbs-learn-from-failure-how-ai-is-using-defective-boards-to-improve-the-next-generation-2nfj)
-- [Replacing Prisma Accelerate with Redis and Twemproxy](https://dev.to/delgerskhn/replacing-prisma-accelerate-with-redis-and-twemproxy-4lgp)
-- [How Automated, UI-Driven NiFi Data Flow Deployment Reduces Errors](https://dev.to/dataflowmanager/how-automated-ui-driven-nifi-data-flow-deployment-reduces-errors-d2a)
+- [Google AI Studio Just Got a Major Upgrade! 🚀](https://dev.to/proflead/google-ai-studio-just-got-a-major-upgrade-7gm)
+- [Master Asynchronous JavaScript: Promises, Async/Await, Fetch API + Pokémon Project](https://dev.to/ebereplenty/master-asynchronous-javascript-promises-asyncawait-fetch-api-pokemon-project-41gn)
+- [How to Properly Type InputEvent in Svelte with TypeScript?](https://dev.to/generatecodedev/how-to-properly-type-inputevent-in-svelte-with-typescript-56d3)
+- [How to Choose Between Plastic and Paper Packaging](https://dev.to/jowenkay/how-to-choose-between-plastic-and-paper-packaging-2gpg)
 <!-- BLOG-POST-LIST:END -->
 
