@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [17 dev-first companies hiring engineers, advocates, writers. Find your next opportunity in the dev tools space.](https://dev.to/fmerian/17-dev-first-companies-hiring-engineers-advocates-writers-find-your-next-opportunity-in-the-dev-2j1d)
-- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3b00)
-- [Simple vs. Preflighted Requests in CORS: What Developers Need to Know](https://dev.to/shikarisohan/simple-vs-preflighted-requests-in-cors-what-developers-need-to-know-276n)
-- [What is Unit Testing?](https://dev.to/keploy/what-is-unit-testing-5fh9)
+- [I started learning React.js ...what should I follow ?](https://dev.to/md_musharrafima_6190/i-started-learning-reactjs-what-should-i-follow--3kd)
+- [🚀 Build a Secure Text Sharing App Using MERN Stack — TextVault 🛡️](https://dev.to/adesh_mishra_07/build-a-secure-text-sharing-app-using-mern-stack-textvault-41jk)
+- [🤖 Automate Invoicing &amp; Payments with AI Agents: Better Finances for Developers](https://dev.to/anshikaila/automate-invoicing-payments-with-ai-agents-better-finances-for-developers-2nee)
+- [Automating WhatsApp with Venom Bot: A Complete Guide](https://dev.to/syed_mudasseranayat_e251/automating-whatsapp-with-venom-bot-a-complete-guide-1npf)
 <!-- BLOG-POST-LIST:END -->
 
