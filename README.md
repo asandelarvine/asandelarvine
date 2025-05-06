@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ما الفرق بين الـ Frontend والـ Backend في تطوير الويب؟](https://dev.to/ahmed_hashem/m-lfrq-byn-l-frontend-wl-backend-fy-ttwyr-lwyb-2af8)
-- [How to Resolve &#39;Access Denied&#39; Error in Bifurcation Mint TLS 1.3](https://dev.to/generatecodedev/how-to-resolve-access-denied-error-in-bifurcation-mint-tls-13-3b75)
-- [🚀 Bringing AI Search On-Device: Introducing MOSS](https://dev.to/sriinferedge/bringing-ai-search-on-device-introducing-moss-43j3)
-- [Do traditional agile meetings still work for remote teams❓](https://dev.to/rally_for_jira/do-traditional-agile-meetings-still-work-for-remote-teams-59gk)
+- [Building an Excel Summarizer Using Streamlit, Karo, and LLMs](https://dev.to/fintechbro/building-an-excel-summarizer-using-streamlit-karo-and-llms-2ldl)
+- [Shu Ha Ri ... path to mastery](https://dev.to/michael-gokey/shu-ha-ri-path-to-mastery-135b)
+- [Go-Scheduler: Understanding Why Goroutines Are So Lightweight](https://dev.to/meerthika/go-scheduler-understanding-why-goroutines-are-so-lightweight-3ka8)
+- [Como começar em Cloud e DevOps? Um guia direto pra iniciantes](https://dev.to/technerdsup/como-comecar-com-cloud-e-devops-um-guia-direto-pra-iniciantes-2jd1)
 <!-- BLOG-POST-LIST:END -->
 
