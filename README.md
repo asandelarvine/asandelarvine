@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio Just Got a Major Upgrade! 🚀](https://dev.to/proflead/google-ai-studio-just-got-a-major-upgrade-7gm)
-- [Master Asynchronous JavaScript: Promises, Async/Await, Fetch API + Pokémon Project](https://dev.to/ebereplenty/master-asynchronous-javascript-promises-asyncawait-fetch-api-pokemon-project-41gn)
-- [How to Properly Type InputEvent in Svelte with TypeScript?](https://dev.to/generatecodedev/how-to-properly-type-inputevent-in-svelte-with-typescript-56d3)
-- [How to Choose Between Plastic and Paper Packaging](https://dev.to/jowenkay/how-to-choose-between-plastic-and-paper-packaging-2gpg)
+- [Decentralized AI: The Blueprint for a Safer, Smarter, and More Sovereign Future](https://dev.to/malok/decentralized-ai-the-blueprint-for-a-safer-smarter-and-more-sovereign-future-3idp)
+- [Categorizing Markdown Files for a Scalable Knowledge Base](https://dev.to/hexshift/categorizing-markdown-files-for-a-scalable-knowledge-base-2g4m)
+- [Why Does My Jetpack Compose APK Crash with NoSuchMethodError?](https://dev.to/generatecodedev/why-does-my-jetpack-compose-apk-crash-with-nosuchmethoderror-1dm2)
+- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
 <!-- BLOG-POST-LIST:END -->
 
