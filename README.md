@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TS2327: Property &#39;{0}&#39; is optional in type &#39;{1}&#39; but required in type &#39;{2}&#39;](https://dev.to/rivkaavraham/ts2327-property-0-is-optional-in-type-1-but-required-in-type-2-44a2)
-- [TS2333: &#39;this&#39; cannot be referenced in constructor arguments](https://dev.to/ahmad_tibibi/ts2333-this-cannot-be-referenced-in-constructor-arguments-5566)
-- [TS2332: &#39;this&#39; cannot be referenced in current location](https://dev.to/ahmad_tibibi/ts2332-this-cannot-be-referenced-in-current-location-56gd)
-- [TS2331: &#39;this&#39; cannot be referenced in a module or namespace body](https://dev.to/turingvangisms/ts2331-this-cannot-be-referenced-in-a-module-or-namespace-body-5h0d)
+- [Smart Contracts: Automating Compliance in Asset Tokenization](https://dev.to/victoruzo/smart-contracts-automating-compliance-in-asset-tokenization-ao7)
+- [Benefits of Cloud TCO](https://dev.to/emma_wags_8dd9b74533690da/benefits-of-cloud-tco-5fb)
+- [Beyond Traditional APIs: The Rise of MCP and A2A in the AI Revolution](https://dev.to/dave_clissold/beyond-traditional-apis-the-rise-of-mcp-and-a2a-in-the-ai-revolution-4jo)
+- [How to Dynamically Pivot Object Keys in SQL?](https://dev.to/generatecodedev/how-to-dynamically-pivot-object-keys-in-sql-5eg3)
 <!-- BLOG-POST-LIST:END -->
 
