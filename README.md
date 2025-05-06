@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized AI: The Blueprint for a Safer, Smarter, and More Sovereign Future](https://dev.to/malok/decentralized-ai-the-blueprint-for-a-safer-smarter-and-more-sovereign-future-3idp)
-- [Categorizing Markdown Files for a Scalable Knowledge Base](https://dev.to/hexshift/categorizing-markdown-files-for-a-scalable-knowledge-base-2g4m)
-- [Why Does My Jetpack Compose APK Crash with NoSuchMethodError?](https://dev.to/generatecodedev/why-does-my-jetpack-compose-apk-crash-with-nosuchmethoderror-1dm2)
-- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
+- [Is the AWS Advanced Networking Worth It?](https://dev.to/skillboosttrainer/is-the-aws-advanced-networking-worth-it-5hdl)
+- [# 🎓 I just earned the &quot;Software Engineering Essentials&quot; certificate from IBM!](https://dev.to/sneha152004/-i-just-earned-the-software-engineering-essentials-certificate-from-ibm-47h3)
+- [How to Pass Parameters to TypeScript Functions in ASP.NET MVC?](https://dev.to/generatecodedev/how-to-pass-parameters-to-typescript-functions-in-aspnet-mvc-plf)
+- [How to Use Multer with React.js and Node.js for File Uploads](https://dev.to/ramcpucoder/how-to-use-multer-with-reactjs-and-nodejs-for-file-uploads-23ie)
 <!-- BLOG-POST-LIST:END -->
 
