@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Development with Cursor?](https://dev.to/diploi/remote-development-with-cursor-4okl)
-- [How to Use MACD Like a Pro: 3 Technical Signals Developers Should Know](https://dev.to/philip_crypto92/how-to-use-macd-like-a-pro-3-technical-signals-developers-should-know-16pn)
-- [Cybersecurity for Everyone: Protect Yourself in a Connected World](https://dev.to/jahith_hussain_96a8bb6e6f/cybersecurity-for-everyone-protect-yourself-in-a-connected-world-3iml)
-- [⚛️ Build a Simple Todo App with React Store - a Tiny React State Manager](https://dev.to/9zemian5/build-a-simple-todo-app-with-react-store-a-tiny-react-state-manager-59bb)
+- [Balanced vs Extreme vs SSD vs Standard: Choosing the Right Persistent Disk in GCP](https://dev.to/venkatramanan_46/balanced-vs-extreme-vs-ssd-vs-standard-choosing-the-right-persistent-disk-in-gcp-2mg4)
+- [Exploring the World of Linux Distributions: A Comprehensive Guide](https://dev.to/derick_etale_1f0ed3497dfc/exploring-the-world-of-linux-distributions-a-comprehensive-guide-3j87)
+- [Data Structures Tutorial: A Beginner’s Guide to Mastering the Basics](https://dev.to/tpointtechadu/data-structures-tutorial-a-beginners-guide-to-mastering-the-basics-4p6a)
+- [Update Addons AWS EKS](https://dev.to/rafaelonline/update-addons-aws-eks-i7o)
 <!-- BLOG-POST-LIST:END -->
 
