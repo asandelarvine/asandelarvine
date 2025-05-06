@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Balanced vs Extreme vs SSD vs Standard: Choosing the Right Persistent Disk in GCP](https://dev.to/venkatramanan_46/balanced-vs-extreme-vs-ssd-vs-standard-choosing-the-right-persistent-disk-in-gcp-2mg4)
-- [Exploring the World of Linux Distributions: A Comprehensive Guide](https://dev.to/derick_etale_1f0ed3497dfc/exploring-the-world-of-linux-distributions-a-comprehensive-guide-3j87)
-- [Data Structures Tutorial: A Beginner’s Guide to Mastering the Basics](https://dev.to/tpointtechadu/data-structures-tutorial-a-beginners-guide-to-mastering-the-basics-4p6a)
-- [Update Addons AWS EKS](https://dev.to/rafaelonline/update-addons-aws-eks-i7o)
+- [Lynx Framework for Sale🙂🐾](https://dev.to/signor_p/lynx-framework-for-sale-5h10)
+- [When PCBs Learn From Failure: How AI is Using Defective Boards to Improve the Next Generation](https://dev.to/saqsmithpcb/when-pcbs-learn-from-failure-how-ai-is-using-defective-boards-to-improve-the-next-generation-2nfj)
+- [Replacing Prisma Accelerate with Redis and Twemproxy](https://dev.to/delgerskhn/replacing-prisma-accelerate-with-redis-and-twemproxy-4lgp)
+- [How Automated, UI-Driven NiFi Data Flow Deployment Reduces Errors](https://dev.to/dataflowmanager/how-automated-ui-driven-nifi-data-flow-deployment-reduces-errors-d2a)
 <!-- BLOG-POST-LIST:END -->
 
