@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dissecting the HTTP Request — Line by Line](https://dev.to/hasansafwan/dissecting-the-http-request-line-by-line-39cn)
-- [How to Capture MP3 Playback Time in PHP and JavaScript](https://dev.to/generatecodedev/how-to-capture-mp3-playback-time-in-php-and-javascript-4jo6)
-- [Flight 2035 discontinued](https://dev.to/zako_mako_9a4826822204c78/flight-2035-discontinued-1i93)
-- [💅 💔 100 Days CSS in 10 Days — Because Who Needs a Girlfriend When You Have border-radius?](https://dev.to/sudo_091/100-days-css-in-10-days-because-who-needs-a-girlfriend-when-you-have-border-radius-49d0)
+- [Capas en CSS: Guía Completa para Dominar la Regla @layer y Controlar la Especificidad](https://dev.to/johnserranodev/capas-en-css-guia-completa-para-dominar-la-regla-layer-y-controlar-la-especificidad-lcg)
+- [Sightful&#39;s Spacetop Is a Better, More Practical Spatial Computing Experience](https://dev.to/future_arvr/sightfuls-spacetop-is-a-better-more-practical-spatial-computing-experience-330b)
+- [Chrome-Plated Coding: 10 Extensions That&#39;ll Make You Feel Like a Dev Superhero](https://dev.to/sakethkowtha/chrome-plated-coding-10-extensions-thatll-make-you-feel-like-a-dev-superhero-3ehd)
+- [The concept of a temporary View state in JavaScript](https://dev.to/anthonymax/the-concept-of-a-temporary-view-state-in-javascript-2ag3)
 <!-- BLOG-POST-LIST:END -->
 
