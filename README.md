@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I started learning React.js ...what should I follow ?](https://dev.to/md_musharrafima_6190/i-started-learning-reactjs-what-should-i-follow--3kd)
-- [🚀 Build a Secure Text Sharing App Using MERN Stack — TextVault 🛡️](https://dev.to/adesh_mishra_07/build-a-secure-text-sharing-app-using-mern-stack-textvault-41jk)
-- [🤖 Automate Invoicing &amp; Payments with AI Agents: Better Finances for Developers](https://dev.to/anshikaila/automate-invoicing-payments-with-ai-agents-better-finances-for-developers-2nee)
-- [Automating WhatsApp with Venom Bot: A Complete Guide](https://dev.to/syed_mudasseranayat_e251/automating-whatsapp-with-venom-bot-a-complete-guide-1npf)
+- [My Development Favorite Commands Cheatsheet](https://dev.to/jurerick/my-development-favorite-commands-cheatsheet-1mik)
+- [LLM 훈련/추론 시 총 메모리 크기는?](https://dev.to/synabreu/llm-curon-si-cong-memori-keugineun-40pn)
+- [🧠🚀Open project for discussion: OS Against Porn - Anyone interested in implementing it?🧩](https://dev.to/abde_47c5dbf7505d7133a883/open-project-for-discussion-os-against-porn-anyone-interested-in-implementing-it-29dd)
+- [How do you develop code for an FPGA?](https://dev.to/carolineee/how-do-you-develop-code-for-an-fpga-5cb5)
 <!-- BLOG-POST-LIST:END -->
 
