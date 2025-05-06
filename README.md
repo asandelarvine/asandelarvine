@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;Unable to Load Dynamic Library mongodb.so&#39; Error in PHP](https://dev.to/generatecodedev/how-to-fix-unable-to-load-dynamic-library-mongodbso-error-in-php-28g7)
-- [Fractals and Amazon Q Developer](https://dev.to/gara501/fractals-and-amazon-q-c58)
-- [JavaScript and AI: Bridging Front-End and Intelligent Systems](https://dev.to/_0cf639bab57a4a0a3c7b4/javascript-and-ai-bridging-front-end-and-intelligent-systems-35g)
-- [How to Fix Capybara-Webkit Installation Errors on Ubuntu?](https://dev.to/generatecodedev/how-to-fix-capybara-webkit-installation-errors-on-ubuntu-6n6)
+- [17 dev-first companies hiring engineers, advocates, writers. Find your next opportunity in the dev tools space.](https://dev.to/fmerian/17-dev-first-companies-hiring-engineers-advocates-writers-find-your-next-opportunity-in-the-dev-2j1d)
+- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3b00)
+- [Simple vs. Preflighted Requests in CORS: What Developers Need to Know](https://dev.to/shikarisohan/simple-vs-preflighted-requests-in-cors-what-developers-need-to-know-276n)
+- [What is Unit Testing?](https://dev.to/keploy/what-is-unit-testing-5fh9)
 <!-- BLOG-POST-LIST:END -->
 
