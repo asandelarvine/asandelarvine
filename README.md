@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Phishing Attacks: Can AI Fool Even Cybersecurity Experts?](https://dev.to/glaxitofficial/ai-powered-phishing-attacks-can-ai-fool-even-cybersecurity-experts-5c84)
-- [Restarting Laravel Queue Workers Safely](https://dev.to/silverfox/restarting-laravel-queue-workers-safely-306d)
-- [Cloud-native or cloud-naive ?](https://dev.to/mr_stone/cloud-native-or-cloud-naive--43fi)
-- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
+- [Dissecting the HTTP Request — Line by Line](https://dev.to/hasansafwan/dissecting-the-http-request-line-by-line-39cn)
+- [How to Capture MP3 Playback Time in PHP and JavaScript](https://dev.to/generatecodedev/how-to-capture-mp3-playback-time-in-php-and-javascript-4jo6)
+- [Flight 2035 discontinued](https://dev.to/zako_mako_9a4826822204c78/flight-2035-discontinued-1i93)
+- [💅 💔 100 Days CSS in 10 Days — Because Who Needs a Girlfriend When You Have border-radius?](https://dev.to/sudo_091/100-days-css-in-10-days-because-who-needs-a-girlfriend-when-you-have-border-radius-49d0)
 <!-- BLOG-POST-LIST:END -->
 
