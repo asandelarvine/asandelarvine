@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Development Favorite Commands Cheatsheet](https://dev.to/jurerick/my-development-favorite-commands-cheatsheet-1mik)
-- [LLM 훈련/추론 시 총 메모리 크기는?](https://dev.to/synabreu/llm-curon-si-cong-memori-keugineun-40pn)
-- [🧠🚀Open project for discussion: OS Against Porn - Anyone interested in implementing it?🧩](https://dev.to/abde_47c5dbf7505d7133a883/open-project-for-discussion-os-against-porn-anyone-interested-in-implementing-it-29dd)
-- [How do you develop code for an FPGA?](https://dev.to/carolineee/how-do-you-develop-code-for-an-fpga-5cb5)
+- [Create vertical tabs with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-vertical-tabs-with-tailwind-css-and-javascript-4omb)
+- [TCP client/server with Python](https://dev.to/pikotutorial/tcp-clientserver-with-python-c6m)
+- [A Free, Open-Source Web Application Firewall: SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/a-free-open-source-web-application-firewall-safeline-53el)
+- [How to Properly Implement mat-list and mat-divider in Angular?](https://dev.to/generatecodedev/how-to-properly-implement-mat-list-and-mat-divider-in-angular-392b)
 <!-- BLOG-POST-LIST:END -->
 
