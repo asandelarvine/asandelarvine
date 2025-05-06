@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Excel Summarizer Using Streamlit, Karo, and LLMs](https://dev.to/fintechbro/building-an-excel-summarizer-using-streamlit-karo-and-llms-2ldl)
-- [Shu Ha Ri ... path to mastery](https://dev.to/michael-gokey/shu-ha-ri-path-to-mastery-135b)
-- [Go-Scheduler: Understanding Why Goroutines Are So Lightweight](https://dev.to/meerthika/go-scheduler-understanding-why-goroutines-are-so-lightweight-3ka8)
-- [Como começar em Cloud e DevOps? Um guia direto pra iniciantes](https://dev.to/technerdsup/como-comecar-com-cloud-e-devops-um-guia-direto-pra-iniciantes-2jd1)
+- [How to Fix R8 Compilation Error in Flutter APK Build](https://dev.to/generatecodedev/how-to-fix-r8-compilation-error-in-flutter-apk-build-14ki)
+- [Substring from a Column of Strings — From SQL to SPL #25](https://dev.to/judith677/substring-from-a-column-of-strings-from-sql-to-spl-25-5b0b)
+- [Introduction to access control model: ACL, RBAC, ABAC](https://dev.to/whchi/introduction-to-access-control-model-acl-rbac-abac-4m1k)
+- [Celebrating 20 Years of Arduino: Highlights from Arduino Day Philippines 2025](https://dev.to/kakacomputer-media/celebrating-20-years-of-arduino-highlights-from-arduino-day-philippines-2025-6c6)
 <!-- BLOG-POST-LIST:END -->
 
