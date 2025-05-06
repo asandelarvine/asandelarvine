@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create vertical tabs with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/create-vertical-tabs-with-tailwind-css-and-javascript-4omb)
-- [TCP client/server with Python](https://dev.to/pikotutorial/tcp-clientserver-with-python-c6m)
-- [A Free, Open-Source Web Application Firewall: SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/a-free-open-source-web-application-firewall-safeline-53el)
-- [How to Properly Implement mat-list and mat-divider in Angular?](https://dev.to/generatecodedev/how-to-properly-implement-mat-list-and-mat-divider-in-angular-392b)
+- [Remote Development with Cursor?](https://dev.to/diploi/remote-development-with-cursor-4okl)
+- [How to Use MACD Like a Pro: 3 Technical Signals Developers Should Know](https://dev.to/philip_crypto92/how-to-use-macd-like-a-pro-3-technical-signals-developers-should-know-16pn)
+- [Cybersecurity for Everyone: Protect Yourself in a Connected World](https://dev.to/jahith_hussain_96a8bb6e6f/cybersecurity-for-everyone-protect-yourself-in-a-connected-world-3iml)
+- [⚛️ Build a Simple Todo App with React Store - a Tiny React State Manager](https://dev.to/9zemian5/build-a-simple-todo-app-with-react-store-a-tiny-react-state-manager-59bb)
 <!-- BLOG-POST-LIST:END -->
 
