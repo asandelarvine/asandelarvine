@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kyverno: Seu aliado ideal para governança e políticas no Kubernetes](https://dev.to/danielbatubenga/kyverno-aliado-perfeito-para-politicas-no-kubernetes-2nfi)
-- [Haramain Train: A Modern Link Between History and the Future](https://dev.to/henry_henry_35ca83e331f84/haramain-train-a-modern-link-between-history-and-the-future-3017)
-- [I Didn’t Expect AI to Transform SaaS This Fast &lpar;But Here We Are&rpar;](https://dev.to/clickit_devops/i-didnt-expect-ai-to-transform-saas-this-fast-but-here-we-are-508m)
-- [How to Debug TypeScript with Node.js and VSCode Correctly?](https://dev.to/generatecodedev/how-to-debug-typescript-with-nodejs-and-vscode-correctly-jl3)
+- [Searching among 3.2 Billion Common Crawl URLs with &lt;10µs lookup time and on a 48€/month server](https://dev.to/mehrant/searching-among-32-billion-common-crawl-urls-with-10us-lookup-time-and-on-a-48eumonth-server-7g0)
+- [Why Everyone Avoids TEXT Fields in MySQL](https://dev.to/leapcell/why-everyone-avoids-text-fields-in-mysql-2mhg)
+- [Financial Viability &amp; Metrics in Open Source Projects – A Deep Dive into Economic Growth, Sponsorship, and Innovative Funding](https://dev.to/rachellovestowrite/financial-viability-metrics-in-open-source-projects-a-deep-dive-into-economic-growth-5bea)
+- [How to Insert Multiple Records into MySQL with PHP?](https://dev.to/generatecodedev/how-to-insert-multiple-records-into-mysql-with-php-1g8c)
 <!-- BLOG-POST-LIST:END -->
 
