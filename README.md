@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching among 3.2 Billion Common Crawl URLs with &lt;10µs lookup time and on a 48€/month server](https://dev.to/mehrant/searching-among-32-billion-common-crawl-urls-with-10us-lookup-time-and-on-a-48eumonth-server-7g0)
-- [Why Everyone Avoids TEXT Fields in MySQL](https://dev.to/leapcell/why-everyone-avoids-text-fields-in-mysql-2mhg)
-- [Financial Viability &amp; Metrics in Open Source Projects – A Deep Dive into Economic Growth, Sponsorship, and Innovative Funding](https://dev.to/rachellovestowrite/financial-viability-metrics-in-open-source-projects-a-deep-dive-into-economic-growth-5bea)
-- [How to Insert Multiple Records into MySQL with PHP?](https://dev.to/generatecodedev/how-to-insert-multiple-records-into-mysql-with-php-1g8c)
+- [Interactive Web Application Development](https://dev.to/souhaillaghchimdev/interactive-web-application-development-gc9)
+- [Programming Project Management](https://dev.to/souhaillaghchimdev/programming-project-management-4oko)
+- [Digital Marketing for Programmers](https://dev.to/souhaillaghchimdev/digital-marketing-for-programmers-44fp)
+- [`ref` and `unsafe` in Async and Iterator Methods — Unlocking `Span&lt;T&gt;` in C# 13](https://dev.to/cristiansifuentes/ref-and-unsafe-in-async-and-iterator-methods-unlocking-span-in-c-13-5eoc)
 <!-- BLOG-POST-LIST:END -->
 
