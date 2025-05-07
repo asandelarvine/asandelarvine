@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Geographic Information Systems &lpar;GIS&rpar; Development](https://dev.to/souhaillaghchimdev/geographic-information-systems-gis-development-3201)
-- [Educational Robotics Programming](https://dev.to/souhaillaghchimdev/educational-robotics-programming-29j)
-- [E-learning Platform Development](https://dev.to/souhaillaghchimdev/e-learning-platform-development-37i8)
-- [Test-Driven Development &lpar;TDD&rpar;](https://dev.to/souhaillaghchimdev/test-driven-development-tdd-2g2d)
+- [Bridges](https://dev.to/donnellycarroll/bridges-3i83)
+- [How to Fix &#39;Cannot find GeneratedPluginRegistrant&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-cannot-find-generatedpluginregistrant-in-flutter-4m5d)
+- [Static Method](https://dev.to/datatoinfinity/static-method-7c)
+- [AI could do a lot more than just note-taking in meetings](https://dev.to/rally_for_jira/ai-could-do-a-lot-more-than-just-note-taking-in-meetings-3ohm)
 <!-- BLOG-POST-LIST:END -->
 
