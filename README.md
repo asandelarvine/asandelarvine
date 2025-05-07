@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Data Versioning Matters in Machine Learning Projects](https://dev.to/sai_rishika_0e321c17cfc13/why-data-versioning-matters-in-machine-learning-projects-4342)
-- [Keyboard Hero](https://dev.to/preetha_vaishnavi_2b82358/keyboard-hero-1cmh)
-- [How to Design a Tape Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-tape-roller-using-3d-cad-software-4bhk)
-- [Hamburger Icons Animations](https://dev.to/preetha_vaishnavi_2b82358/hamburger-icons-animations-4dl0)
+- [CI/CD 101: From Code Commit to Production](https://dev.to/akash_roy_3bc76e473db5e40/cicd-101-from-code-commit-to-production-3bii)
+- [Level Up Your PDF Game: From 1998 to Stunning in 15 Minutes](https://dev.to/ethan_reportgen/level-up-your-pdf-game-from-1998-to-stunning-in-15-minutes-3m60)
+- [Setting Up NVM, Node.js, and Yarn on WSL Ubuntu](https://dev.to/pu-lazydev/setting-up-nvm-nodejs-and-yarn-on-wsl-ubuntu-50bg)
+- [Terraform depends_on: What it is, When to use it, and Best Practices](https://dev.to/techielass/terraform-dependson-what-it-is-when-to-use-it-and-best-practices-5ene)
 <!-- BLOG-POST-LIST:END -->
 
