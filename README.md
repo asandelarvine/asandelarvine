@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TimeTracks: A Lightweight, Versatile Time Tracking Tool Built for Developers](https://dev.to/dragan_at_visidra/introducing-timetracks-a-lightweight-versatile-time-tracking-tool-built-for-developers-1ncg)
-- [You Don&#39;t Need Markdown to Blog—But It Makes It Easier](https://dev.to/canro91/you-dont-need-markdown-to-blog-but-it-makes-it-easier-5255)
-- [Power Up Your Playtime: Jollibee Just Launched GameJoy Combos and They&#39;re a Gamer’s Dream Come True! 🎮🍔](https://dev.to/kakacomputer-media/power-up-your-playtime-jollibee-just-launched-gamejoy-combos-and-theyre-a-gamers-dream-come-10jf)
-- [How to configure and customize the Go SDK for Azure Cosmos DB](https://dev.to/abhirockzz/how-to-configure-and-customize-the-go-sdk-for-azure-cosmos-db-97a)
+- [Why Data Versioning Matters in Machine Learning Projects](https://dev.to/sai_rishika_0e321c17cfc13/why-data-versioning-matters-in-machine-learning-projects-4342)
+- [Keyboard Hero](https://dev.to/preetha_vaishnavi_2b82358/keyboard-hero-1cmh)
+- [How to Design a Tape Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-tape-roller-using-3d-cad-software-4bhk)
+- [Hamburger Icons Animations](https://dev.to/preetha_vaishnavi_2b82358/hamburger-icons-animations-4dl0)
 <!-- BLOG-POST-LIST:END -->
 
