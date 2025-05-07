@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The build moves, but it no longer moves you.](https://dev.to/driftwalker/the-build-moves-but-it-no-longer-moves-you-4fh)
-- [Aplicación de la ciberseguridad en grandes empresas: retos y estrategias modernas](https://dev.to/ice_kuroba_9efec2d3819004/aplicacion-de-la-ciberseguridad-en-grandes-empresas-retos-y-estrategias-modernas-4a3d)
-- [#7 DP: Observer](https://dev.to/stv4s/7-dp-observer-27en)
-- [How to Join Accounting and Periods Tables in C# EF Core](https://dev.to/generatecodedev/how-to-join-accounting-and-periods-tables-in-c-ef-core-1283)
+- [🧪 5 Weirdly Useful Python Libraries You’ve Probably Never Heard Of &lpar;But Will Love&rpar;](https://dev.to/0x3d_site/5-weirdly-useful-python-libraries-youve-probably-never-heard-of-but-will-love-285p)
+- [7 Hidden Costs in Cloud Computing: What Every Business Needs to Know](https://dev.to/mehul_budasana/7-hidden-costs-in-cloud-computing-what-every-business-needs-to-know-1aj5)
+- [What is Data Remanence?](https://dev.to/e77/what-is-data-remanence-5g4o)
+- [What trends can I apply to my website?](https://dev.to/nathaly_cardenas_b849ad3b/what-trends-can-i-apply-to-my-website-3mc4)
 <!-- BLOG-POST-LIST:END -->
 
