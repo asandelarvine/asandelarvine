@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Web Application Development](https://dev.to/souhaillaghchimdev/interactive-web-application-development-gc9)
-- [Programming Project Management](https://dev.to/souhaillaghchimdev/programming-project-management-4oko)
-- [Digital Marketing for Programmers](https://dev.to/souhaillaghchimdev/digital-marketing-for-programmers-44fp)
-- [`ref` and `unsafe` in Async and Iterator Methods — Unlocking `Span&lt;T&gt;` in C# 13](https://dev.to/cristiansifuentes/ref-and-unsafe-in-async-and-iterator-methods-unlocking-span-in-c-13-5eoc)
+- [Geographic Information Systems &lpar;GIS&rpar; Development](https://dev.to/souhaillaghchimdev/geographic-information-systems-gis-development-3201)
+- [Educational Robotics Programming](https://dev.to/souhaillaghchimdev/educational-robotics-programming-29j)
+- [E-learning Platform Development](https://dev.to/souhaillaghchimdev/e-learning-platform-development-37i8)
+- [Test-Driven Development &lpar;TDD&rpar;](https://dev.to/souhaillaghchimdev/test-driven-development-tdd-2g2d)
 <!-- BLOG-POST-LIST:END -->
 
