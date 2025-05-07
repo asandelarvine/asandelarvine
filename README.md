@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Hosting is Right for You? A No-Nonsense Breakdown](https://dev.to/davinceleecode/which-hosting-is-right-for-you-a-no-nonsense-breakdown-4d91)
-- [How to Implement a JavaScript Plugin System in Rust with Deno](https://dev.to/generatecodedev/how-to-implement-a-javascript-plugin-system-in-rust-with-deno-34bj)
-- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous_bb80d6b5563/learning-swift-the-basics-of-ios-development-1mpp)
-- [Iterable unpacking in Python](https://dev.to/hyperkai/variable-assignment-in-python-2-1if9)
+- [Introducing TimeTracks: A Lightweight, Versatile Time Tracking Tool Built for Developers](https://dev.to/dragan_at_visidra/introducing-timetracks-a-lightweight-versatile-time-tracking-tool-built-for-developers-1ncg)
+- [You Don&#39;t Need Markdown to Blog—But It Makes It Easier](https://dev.to/canro91/you-dont-need-markdown-to-blog-but-it-makes-it-easier-5255)
+- [Power Up Your Playtime: Jollibee Just Launched GameJoy Combos and They&#39;re a Gamer’s Dream Come True! 🎮🍔](https://dev.to/kakacomputer-media/power-up-your-playtime-jollibee-just-launched-gamejoy-combos-and-theyre-a-gamers-dream-come-10jf)
+- [How to configure and customize the Go SDK for Azure Cosmos DB](https://dev.to/abhirockzz/how-to-configure-and-customize-the-go-sdk-for-azure-cosmos-db-97a)
 <!-- BLOG-POST-LIST:END -->
 
