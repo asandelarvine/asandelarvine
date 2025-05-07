@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Azure Networks: Creating and Configuring Network Security Groups &lpar;NSGs&rpar; and Application Security Groups &lpar;ASGs&rpar;](https://dev.to/chinonso_ukadike/securing-azure-networks-creating-and-configuring-network-security-groups-nsgs-and-application-mgk)
-- [How to Improve Maven Build Times for Multi-Module Java Projects?](https://dev.to/generatecodedev/how-to-improve-maven-build-times-for-multi-module-java-projects-4p22)
-- [Linear Search](https://dev.to/sudhakar_v_c404997aeec839/linear-search-278k)
-- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
+- [The build moves, but it no longer moves you.](https://dev.to/driftwalker/the-build-moves-but-it-no-longer-moves-you-4fh)
+- [Aplicación de la ciberseguridad en grandes empresas: retos y estrategias modernas](https://dev.to/ice_kuroba_9efec2d3819004/aplicacion-de-la-ciberseguridad-en-grandes-empresas-retos-y-estrategias-modernas-4a3d)
+- [#7 DP: Observer](https://dev.to/stv4s/7-dp-observer-27en)
+- [How to Join Accounting and Periods Tables in C# EF Core](https://dev.to/generatecodedev/how-to-join-accounting-and-periods-tables-in-c-ef-core-1283)
 <!-- BLOG-POST-LIST:END -->
 
