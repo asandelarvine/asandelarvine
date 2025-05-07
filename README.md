@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250506 C# Video Processing Foundation Library](https://dev.to/methodoxdivooka/devlog-20250506-c-video-processing-foundation-library-1b1e)
-- [CAP Theorem – The Three Fronts You Can&#39;t Win All At Once](https://dev.to/clbku/cap-theorem-the-three-fronts-you-cant-win-all-at-once-3g4f)
-- [Check Docker Installation Details- part 1](https://dev.to/kamruldev/check-docker-installation-details-part-1-3327)
-- [Why is My Display Class Not Working Inside If-Else Blocks?](https://dev.to/generatecodedev/why-is-my-display-class-not-working-inside-if-else-blocks-44ld)
+- [Which Hosting is Right for You? A No-Nonsense Breakdown](https://dev.to/davinceleecode/which-hosting-is-right-for-you-a-no-nonsense-breakdown-4d91)
+- [How to Implement a JavaScript Plugin System in Rust with Deno](https://dev.to/generatecodedev/how-to-implement-a-javascript-plugin-system-in-rust-with-deno-34bj)
+- [Learning Swift: The Basics of iOS Development](https://dev.to/media_geneous_bb80d6b5563/learning-swift-the-basics-of-ios-development-1mpp)
+- [Iterable unpacking in Python](https://dev.to/hyperkai/variable-assignment-in-python-2-1if9)
 <!-- BLOG-POST-LIST:END -->
 
