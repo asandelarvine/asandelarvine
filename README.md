@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlane: Unleash the Power of Rust for High-Performance Web Services](https://dev.to/_95e41982c9ad08a13458d/hyperlane-unleash-the-power-of-rust-for-high-performance-web-services-2no0)
-- [The Relationship Between GDP and Stock Market Performance](https://dev.to/marketdaily/the-relationship-between-gdp-and-stock-market-performance-2l2c)
-- [Creating A2A Agents with Python: Building a Simple Math Agent - Part II](https://dev.to/sreeni5018/creating-a2a-agents-with-python-building-a-simple-math-agent-part-ii-1j9l)
-- [Testing in the Era of Microservices and APIs: A Leadership Perspective](https://dev.to/gopinath_kathiresan_2f4b2/testing-in-the-era-of-microservices-and-apis-a-leadership-perspective-3pod)
+- [Open Source Funding and Blockchain Project Funding: A New Era for Innovation](https://dev.to/rachellovestowrite/open-source-funding-and-blockchain-project-funding-a-new-era-for-innovation-n5k)
+- [What Are the Notable Cpan Modules for Perl Developers?](https://dev.to/jordankeurope/what-are-the-notable-cpan-modules-for-perl-developers-2b91)
+- [Can a Phlex Component Yield Multiple Times in Ruby?](https://dev.to/generatecodedev/can-a-phlex-component-yield-multiple-times-in-ruby-4f90)
+- [How to Handle Exceptions in Perl in 2025?](https://dev.to/nigelsilonero/how-to-handle-exceptions-in-perl-in-2025-2bea)
 <!-- BLOG-POST-LIST:END -->
 
