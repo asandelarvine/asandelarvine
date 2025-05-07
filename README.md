@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the WordPress Loop: The Heartbeat of Your Content](https://dev.to/farhan-developer/understanding-the-wordpress-loop-the-heartbeat-of-your-content-1no8)
-- [Decoding Your DevOps Team: A Peek with Schein&#39;s Culture Model](https://dev.to/sebs/decoding-your-devops-team-a-peek-with-scheins-culture-model-5a04)
-- [From Power-On to initrd with U-Boot](https://dev.to/rbalashevich/from-power-on-to-initrd-with-u-boot-35da)
-- [How to Stack Bar Charts with AM Charts 4 in JavaScript?](https://dev.to/generatecodedev/how-to-stack-bar-charts-with-am-charts-4-in-javascript-1ldj)
+- [Securing Azure Networks: Creating and Configuring Network Security Groups &lpar;NSGs&rpar; and Application Security Groups &lpar;ASGs&rpar;](https://dev.to/chinonso_ukadike/securing-azure-networks-creating-and-configuring-network-security-groups-nsgs-and-application-mgk)
+- [How to Improve Maven Build Times for Multi-Module Java Projects?](https://dev.to/generatecodedev/how-to-improve-maven-build-times-for-multi-module-java-projects-4p22)
+- [Linear Search](https://dev.to/sudhakar_v_c404997aeec839/linear-search-278k)
+- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
 <!-- BLOG-POST-LIST:END -->
 
