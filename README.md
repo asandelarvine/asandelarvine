@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 5 Weirdly Useful Python Libraries You’ve Probably Never Heard Of &lpar;But Will Love&rpar;](https://dev.to/0x3d_site/5-weirdly-useful-python-libraries-youve-probably-never-heard-of-but-will-love-285p)
-- [7 Hidden Costs in Cloud Computing: What Every Business Needs to Know](https://dev.to/mehul_budasana/7-hidden-costs-in-cloud-computing-what-every-business-needs-to-know-1aj5)
-- [What is Data Remanence?](https://dev.to/e77/what-is-data-remanence-5g4o)
-- [What trends can I apply to my website?](https://dev.to/nathaly_cardenas_b849ad3b/what-trends-can-i-apply-to-my-website-3mc4)
+- [Kyverno: Seu aliado ideal para governança e políticas no Kubernetes](https://dev.to/danielbatubenga/kyverno-aliado-perfeito-para-politicas-no-kubernetes-2nfi)
+- [Haramain Train: A Modern Link Between History and the Future](https://dev.to/henry_henry_35ca83e331f84/haramain-train-a-modern-link-between-history-and-the-future-3017)
+- [I Didn’t Expect AI to Transform SaaS This Fast &lpar;But Here We Are&rpar;](https://dev.to/clickit_devops/i-didnt-expect-ai-to-transform-saas-this-fast-but-here-we-are-508m)
+- [How to Debug TypeScript with Node.js and VSCode Correctly?](https://dev.to/generatecodedev/how-to-debug-typescript-with-nodejs-and-vscode-correctly-jl3)
 <!-- BLOG-POST-LIST:END -->
 
