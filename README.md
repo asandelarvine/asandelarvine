@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-39me)
-- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-512)
-- [6 Things I Wish I Knew Before My First CI/CD Deployment](https://dev.to/msnmongare/6-things-i-wish-i-knew-before-my-first-cicd-deployment-1ld)
-- [Basis Path Testing Explained: A Comprehensive Guide for QA Engineers](https://dev.to/jamescantor38/basis-path-testing-explained-a-comprehensive-guide-for-qa-engineers-3lfn)
+- [Day 14/ 30 Days of Linux Mastery: Find Command](https://dev.to/amandaigwe/day-14-30-days-of-linux-mastery-find-command-4330)
+- [🔐 How to Secure Your AWS Lambda Functions in 2025](https://dev.to/zazz_io/how-to-secure-your-aws-lambda-functions-in-2025-3o2)
+- [🤖 React + AI Stack for 2025 💪&lpar;just. a chill stack~&rpar;](https://dev.to/chendjou237/react-ai-stack-for-2025-just-a-chill-stack-18ji)
+- [Open Source Grants for Developers – Empowering the Next Generation of Innovation](https://dev.to/rachellovestowrite/open-source-grants-for-developers-empowering-the-next-generation-of-innovation-1mfa)
 <!-- BLOG-POST-LIST:END -->
 
