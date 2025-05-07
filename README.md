@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Vue vs. Angular vs. Next.js in 2025: Which One Should You Learn?](https://dev.to/eva_clari_289d85ecc68da48/react-vs-vue-vs-angular-vs-nextjs-in-2025-which-one-should-you-learn-2oma)
-- [[Boost]](https://dev.to/eva_clari_289d85ecc68da48/-4e9o)
-- [Amazon S3: Your Ultimate Guide to Infinite, Secure, and Cost-Effective Cloud Object Storage](https://dev.to/pkkolla/amazon-s3-your-ultimate-guide-to-infinite-secure-and-cost-effective-cloud-object-storage-40km)
-- [🛠️ How to Deploy a Laravel App with Zero Downtime Using Git Hooks](https://dev.to/yehnda/how-to-deploy-a-laravel-app-with-zero-downtime-using-git-hooks-3lj6)
+- [From Bug Nightmare to Code Dream: How ChatGPT Became My Virtual Exterminator](https://dev.to/sakethkowtha/from-bug-nightmare-to-code-dream-how-chatgpt-became-my-virtual-exterminator-28go)
+- [Does a Function Call End the Lifetime of Variable Length Arrays in C?](https://dev.to/generatecodedev/does-a-function-call-end-the-lifetime-of-variable-length-arrays-in-c-3i5c)
+- [Top 5 Foundation LLMs for Agentic AI: Exploring the Future of Intelligent Systems](https://dev.to/surgedatalab/top-5-foundation-llms-for-agentic-ai-exploring-the-future-of-intelligent-systems-2el3)
+- [A wuick write up about my first experience with Django. Check it out here: https://ko-fi.com/post/My-First-Django-Project-What-I-Learned-With-a-Li-G2G51EMSJF?fromEditor=true](https://dev.to/monte_bruce/a-wuick-write-up-about-my-first-experience-with-django-check-it-out-here-adj)
 <!-- BLOG-POST-LIST:END -->
 
