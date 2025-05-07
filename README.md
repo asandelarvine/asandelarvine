@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Demystifying Amazon Nova: AWS&#39;s Powerful New Family of AI Models](https://dev.to/aws-builders/demystifying-amazon-nova-awss-powerful-new-family-of-ai-models-h6f)
-- [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
-- [10分钟创建自己的博客网站](https://dev.to/hey_jude_e22ee2d154c514b0/10fen-zhong-chuang-jian-zi-ji-de-bo-ke-wang-zhan-4n6d)
-- [Code Template Hub: How I Supercharged My Development Workflow &lpar;And You Can Too!&rpar;](https://dev.to/johnnyp/code-template-hub-how-i-supercharged-my-development-workflow-and-you-can-too-3ni4)
+- [Understanding the WordPress Loop: The Heartbeat of Your Content](https://dev.to/farhan-developer/understanding-the-wordpress-loop-the-heartbeat-of-your-content-1no8)
+- [Decoding Your DevOps Team: A Peek with Schein&#39;s Culture Model](https://dev.to/sebs/decoding-your-devops-team-a-peek-with-scheins-culture-model-5a04)
+- [From Power-On to initrd with U-Boot](https://dev.to/rbalashevich/from-power-on-to-initrd-with-u-boot-35da)
+- [How to Stack Bar Charts with AM Charts 4 in JavaScript?](https://dev.to/generatecodedev/how-to-stack-bar-charts-with-am-charts-4-in-javascript-1ldj)
 <!-- BLOG-POST-LIST:END -->
 
