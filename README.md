@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Docker Installation Details- Part 2](https://dev.to/kamruldev/check-docker-installation-details-part-2-2ook)
-- [AI Dating Pictures: How Artificial Intelligence Is Changing Online Dating](https://dev.to/usmanasghar/ai-dating-pictures-how-artificial-intelligence-is-changing-online-dating-111b)
-- [SDK Playground: Who Are You Blocking on BlueSky?](https://dev.to/pykpyky/sdk-playground-who-are-you-blocking-on-bluesky-3o6m)
-- [Introduction to Container Images and Orchestration](https://dev.to/hridyeshbisht/introduction-to-container-images-and-orchestration-32pb)
+- [Installing SafeLine WAF on Synology NAS](https://dev.to/carrie_luo1/installing-safeline-waf-on-synology-nas-106l)
+- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
+- [AIOps Trends in Enhancing IT Operations and Ensuring Uptime](https://dev.to/tomcao2012/aiops-trends-in-enhancing-it-operations-and-ensuring-uptime-m90)
+- [How to Detect Continuous Mouse Button Hold in C++ with ncurses?](https://dev.to/generatecodedev/how-to-detect-continuous-mouse-button-hold-in-c-with-ncurses-2il6)
 <!-- BLOG-POST-LIST:END -->
 
