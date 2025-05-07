@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14/ 30 Days of Linux Mastery: Find Command](https://dev.to/amandaigwe/day-14-30-days-of-linux-mastery-find-command-4330)
-- [🔐 How to Secure Your AWS Lambda Functions in 2025](https://dev.to/zazz_io/how-to-secure-your-aws-lambda-functions-in-2025-3o2)
-- [🤖 React + AI Stack for 2025 💪&lpar;just. a chill stack~&rpar;](https://dev.to/chendjou237/react-ai-stack-for-2025-just-a-chill-stack-18ji)
-- [Open Source Grants for Developers – Empowering the Next Generation of Innovation](https://dev.to/rachellovestowrite/open-source-grants-for-developers-empowering-the-next-generation-of-innovation-1mfa)
+- [React vs. Vue vs. Angular vs. Next.js in 2025: Which One Should You Learn?](https://dev.to/eva_clari_289d85ecc68da48/react-vs-vue-vs-angular-vs-nextjs-in-2025-which-one-should-you-learn-2oma)
+- [[Boost]](https://dev.to/eva_clari_289d85ecc68da48/-4e9o)
+- [Amazon S3: Your Ultimate Guide to Infinite, Secure, and Cost-Effective Cloud Object Storage](https://dev.to/pkkolla/amazon-s3-your-ultimate-guide-to-infinite-secure-and-cost-effective-cloud-object-storage-40km)
+- [🛠️ How to Deploy a Laravel App with Zero Downtime Using Git Hooks](https://dev.to/yehnda/how-to-deploy-a-laravel-app-with-zero-downtime-using-git-hooks-3lj6)
 <!-- BLOG-POST-LIST:END -->
 
