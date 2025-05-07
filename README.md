@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing SafeLine WAF on Synology NAS](https://dev.to/carrie_luo1/installing-safeline-waf-on-synology-nas-106l)
-- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
-- [AIOps Trends in Enhancing IT Operations and Ensuring Uptime](https://dev.to/tomcao2012/aiops-trends-in-enhancing-it-operations-and-ensuring-uptime-m90)
-- [How to Detect Continuous Mouse Button Hold in C++ with ncurses?](https://dev.to/generatecodedev/how-to-detect-continuous-mouse-button-hold-in-c-with-ncurses-2il6)
+- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-39me)
+- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-512)
+- [6 Things I Wish I Knew Before My First CI/CD Deployment](https://dev.to/msnmongare/6-things-i-wish-i-knew-before-my-first-cicd-deployment-1ld)
+- [Basis Path Testing Explained: A Comprehensive Guide for QA Engineers](https://dev.to/jamescantor38/basis-path-testing-explained-a-comprehensive-guide-for-qa-engineers-3lfn)
 <!-- BLOG-POST-LIST:END -->
 
