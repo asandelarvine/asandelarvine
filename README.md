@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Funding and Blockchain Project Funding: A New Era for Innovation](https://dev.to/rachellovestowrite/open-source-funding-and-blockchain-project-funding-a-new-era-for-innovation-n5k)
-- [What Are the Notable Cpan Modules for Perl Developers?](https://dev.to/jordankeurope/what-are-the-notable-cpan-modules-for-perl-developers-2b91)
-- [Can a Phlex Component Yield Multiple Times in Ruby?](https://dev.to/generatecodedev/can-a-phlex-component-yield-multiple-times-in-ruby-4f90)
-- [How to Handle Exceptions in Perl in 2025?](https://dev.to/nigelsilonero/how-to-handle-exceptions-in-perl-in-2025-2bea)
+- [DevLog 20250506 C# Video Processing Foundation Library](https://dev.to/methodoxdivooka/devlog-20250506-c-video-processing-foundation-library-1b1e)
+- [CAP Theorem – The Three Fronts You Can&#39;t Win All At Once](https://dev.to/clbku/cap-theorem-the-three-fronts-you-cant-win-all-at-once-3g4f)
+- [Check Docker Installation Details- part 1](https://dev.to/kamruldev/check-docker-installation-details-part-1-3327)
+- [Why is My Display Class Not Working Inside If-Else Blocks?](https://dev.to/generatecodedev/why-is-my-display-class-not-working-inside-if-else-blocks-44ld)
 <!-- BLOG-POST-LIST:END -->
 
