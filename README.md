@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bug Nightmare to Code Dream: How ChatGPT Became My Virtual Exterminator](https://dev.to/sakethkowtha/from-bug-nightmare-to-code-dream-how-chatgpt-became-my-virtual-exterminator-28go)
-- [Does a Function Call End the Lifetime of Variable Length Arrays in C?](https://dev.to/generatecodedev/does-a-function-call-end-the-lifetime-of-variable-length-arrays-in-c-3i5c)
-- [Top 5 Foundation LLMs for Agentic AI: Exploring the Future of Intelligent Systems](https://dev.to/surgedatalab/top-5-foundation-llms-for-agentic-ai-exploring-the-future-of-intelligent-systems-2el3)
-- [A wuick write up about my first experience with Django. Check it out here: https://ko-fi.com/post/My-First-Django-Project-What-I-Learned-With-a-Li-G2G51EMSJF?fromEditor=true](https://dev.to/monte_bruce/a-wuick-write-up-about-my-first-experience-with-django-check-it-out-here-adj)
+- [🌟 Demystifying Amazon Nova: AWS&#39;s Powerful New Family of AI Models](https://dev.to/aws-builders/demystifying-amazon-nova-awss-powerful-new-family-of-ai-models-h6f)
+- [Join the Bright Data Real-Time AI Agents Challenge: $3,000 in prizes!](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog)
+- [10分钟创建自己的博客网站](https://dev.to/hey_jude_e22ee2d154c514b0/10fen-zhong-chuang-jian-zi-ji-de-bo-ke-wang-zhan-4n6d)
+- [Code Template Hub: How I Supercharged My Development Workflow &lpar;And You Can Too!&rpar;](https://dev.to/johnnyp/code-template-hub-how-i-supercharged-my-development-workflow-and-you-can-too-3ni4)
 <!-- BLOG-POST-LIST:END -->
 
