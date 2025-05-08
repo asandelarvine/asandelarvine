@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridges](https://dev.to/donnellycarroll/bridges-3i83)
-- [How to Fix &#39;Cannot find GeneratedPluginRegistrant&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-cannot-find-generatedpluginregistrant-in-flutter-4m5d)
-- [Static Method](https://dev.to/datatoinfinity/static-method-7c)
-- [AI could do a lot more than just note-taking in meetings](https://dev.to/rally_for_jira/ai-could-do-a-lot-more-than-just-note-taking-in-meetings-3ohm)
+- [Working with Dates and Calendar Calculations 8/10](https://dev.to/rezmoss/working-with-dates-and-calendar-calculations-810-518p)
+- [How to Create a Flexible Column Layout with Pure CSS](https://dev.to/generatecodedev/how-to-create-a-flexible-column-layout-with-pure-css-3jo8)
+- [image](https://dev.to/kentechgeek/image-1pa9)
+- [How to Sort Filenames in Bash While Keeping Paths](https://dev.to/generatecodedev/how-to-sort-filenames-in-bash-while-keeping-paths-1gek)
 <!-- BLOG-POST-LIST:END -->
 
