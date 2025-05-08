@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [آموزش کار با آرایه ها در سی شارپ: از مقدماتی تا پیشرفته](https://dev.to/tosinso/amwzsh-khr-b-aryh-h-dr-sy-shrp-z-mqdmty-t-pyshrfth-47d3)
-- [Simple Root Detection: Implementation and verification](https://dev.to/yurii_denchyk_bb561af8d2d/simple-root-detection-implementation-and-verification-121n)
-- [Simple Root Detection: Implementation and verification](https://dev.to/yurii_denchyk_bb561af8d2d/simple-root-detection-implementation-and-verification-33aj)
-- [Permit.io](https://dev.to/gitkit13/permitio-e3o)
+- [Exploring the World of Blockchain Technology](https://dev.to/bobcars/exploring-the-world-of-blockchain-technology-jde)
+- [Leetcode - 124. Binary Tree Maximum Path Sum](https://dev.to/rakeshreddy512/leetcode-124-binary-tree-maximum-path-sum-41e9)
+- [Bungie has motion to dismiss Destiny 2 copyright lawsuit denied over &#39;vaulted&#39; campaign storyline](https://dev.to/gg_news/bungie-has-motion-to-dismiss-destiny-2-copyright-lawsuit-denied-over-vaulted-campaign-storyline-5b97)
+- [EA says Apex Legends revenue will drop 40% this year making it one of the biggest declines in the game’s history](https://dev.to/gg_news/ea-says-apex-legends-revenue-will-drop-40-this-year-making-it-one-of-the-biggest-declines-in-the-2m4)
 <!-- BLOG-POST-LIST:END -->
 
