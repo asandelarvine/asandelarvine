@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blind Spot Blocking Enterprise AI Success](https://dev.to/talweezy/the-blind-spot-blocking-enterprise-ai-success-2ci2)
-- [Building Custom Extensions for Microsoft 365 Copilot with Teams Toolkit](https://dev.to/syedkamran/building-custom-extensions-for-microsoft-365-copilot-with-teams-toolkit-mj9)
-- [Meta concerns in ML security/privacy University of Waterloo x PSU](https://dev.to/salincalyna/meta-concerns-in-ml-securityprivacy-is-due-university-of-waterloo-x-psu-450a)
-- [Virtual Platforms for Meetings: Features That Make or Break Your Remote Strategy](https://dev.to/diana_black_5edb83146b969/virtual-platforms-for-meetings-features-that-make-or-break-your-remote-strategy-311b)
+- [Why I Ditched Apple Remote Desktop: A DevOps Engineer&#39;s Journey to Smarter Mac Management](https://dev.to/sagar_2006/why-i-ditched-apple-remote-desktop-a-devops-engineers-journey-to-smarter-mac-management-5g91)
+- [How to Fix Flow Usage Issues in Kotlin ViewModel?](https://dev.to/generatecodedev/how-to-fix-flow-usage-issues-in-kotlin-viewmodel-1o7d)
+- [Why I’m Building a Free Study Platform for Bihar Board Students — And How You Can Help!](https://dev.to/raajaryan/why-im-building-a-free-study-platform-for-bihar-board-students-and-how-you-can-help-3lb3)
+- [The Day I Discovered List Comprehension](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-list-comprehension-3f2b)
 <!-- BLOG-POST-LIST:END -->
 
