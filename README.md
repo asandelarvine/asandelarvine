@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Slashed Infrastructure Costs by 80% for a Struggling Startup](https://dev.to/jaskarandeogan/how-i-slashed-infrastructure-costs-by-80-for-a-struggling-startup-23)
-- [Manual Testing Basics and Beyond](https://dev.to/gopinathchandran24/manual-testing-basics-and-beyond-4eme)
-- [How to Fix ProviderNotFoundException in Flutter App](https://dev.to/generatecodedev/how-to-fix-providernotfoundexception-in-flutter-app-3nf1)
-- [What I Learned During the SheFi Program — And Why I Recommend It](https://dev.to/ayda_ma04a645d96526b/what-i-learned-during-the-shefi-program-and-why-i-recommend-it-3h7)
+- [I Built &quot;Hackerman&quot; with Amazon Q](https://dev.to/aws-builders/i-built-hackerman-with-amazon-q-29jn)
+- [How Do ACID Principles Work in SQL Databases?](https://dev.to/generatecodedev/how-do-acid-principles-work-in-sql-databases-2ln4)
+- [Why does operator+= work with initializer lists in C++?](https://dev.to/generatecodedev/why-does-operator-work-with-initializer-lists-in-c-4il7)
+- [Transform Your Website into a Mobile App with AI: A Step-by-Step Guide](https://dev.to/srdan_borovi_584c6b1d773/transform-your-website-into-a-mobile-app-with-ai-a-step-by-step-guide-18kc)
 <!-- BLOG-POST-LIST:END -->
 
