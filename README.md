@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Save Hours Managing Ghost with These Python Scripts](https://dev.to/devasservice/save-hours-managing-ghost-with-these-python-scripts-3h62)
-- [How to Decode Nested JSON Strings in Scala with Circe?](https://dev.to/generatecodedev/how-to-decode-nested-json-strings-in-scala-with-circe-1657)
-- [Open Source Project Investment: A Convergence of Collaboration, Blockchain, and NFTs](https://dev.to/vitalisorenko/open-source-project-investment-a-convergence-of-collaboration-blockchain-and-nfts-c32)
-- [The AI Evolution: Why the Spotlight Has Shifted from Single Models to Multimodal Agents](https://dev.to/ishmam_jahan_4269b6f13ba5/the-ai-evolution-why-the-spotlight-has-shifted-from-single-models-to-multimodal-agents-1j6n)
+- [🚀 Stellar Dev Diaries: Episode 2 - Becoming Fundable](https://dev.to/stellar/stellar-dev-diaries-episode-2-becoming-fundable-4kg3)
+- [Fundamentals of Manual Testing: Techniques and Approaches](https://dev.to/gopinathchandran24/fundamentals-of-manual-testing-techniques-and-approaches-4in5)
+- [Dehydrated Fruits: The Future of Sustainable, Scalable Food Production](https://dev.to/aakansha_puri_7af484d1d0e/dehydrated-fruits-the-future-of-sustainable-scalable-food-production-3n5j)
+- [AGILE SCRUM MASTER TRAINING &amp; CERTIFICATION?](https://dev.to/arianaa/agile-scrum-master-training-certification-36o8)
 <!-- BLOG-POST-LIST:END -->
 
