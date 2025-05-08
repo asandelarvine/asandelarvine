@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Patterns for Shared State Management in React](https://dev.to/kinsflow/effective-patterns-for-shared-state-management-in-react-4ha1)
-- [How to Dynamically Filter Pandas DataFrame by Date in Python?](https://dev.to/generatecodedev/how-to-dynamically-filter-pandas-dataframe-by-date-in-python-1m97)
-- [Building KARL-AI](https://dev.to/theaniketraj/building-karl-ai-3p77)
-- [Recurring Calendar Events in Rails](https://dev.to/railsdesigner/recurring-calendar-events-in-rails-369k)
+- [10 Cool CodePen Demos &lpar;April 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2025-482a)
+- [Linux Myths vs Reality: What Beginners Should Know](https://dev.to/sanasadiq/linux-myths-vs-reality-what-beginners-should-know-191c)
+- [Linux for Non-Techies: A Simple Guide to Getting Comfortable](https://dev.to/sanasadiq/linux-for-non-techies-a-simple-guide-to-getting-comfortable-1jfb)
+- [React Full-Stack Just Code: Build a Business 🧠💰](https://dev.to/0x2e_tech/react-full-stack-just-code-build-a-business-bob)
 <!-- BLOG-POST-LIST:END -->
 
