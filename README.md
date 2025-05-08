@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the World of Blockchain Technology](https://dev.to/bobcars/exploring-the-world-of-blockchain-technology-jde)
-- [Leetcode - 124. Binary Tree Maximum Path Sum](https://dev.to/rakeshreddy512/leetcode-124-binary-tree-maximum-path-sum-41e9)
-- [Bungie has motion to dismiss Destiny 2 copyright lawsuit denied over &#39;vaulted&#39; campaign storyline](https://dev.to/gg_news/bungie-has-motion-to-dismiss-destiny-2-copyright-lawsuit-denied-over-vaulted-campaign-storyline-5b97)
-- [EA says Apex Legends revenue will drop 40% this year making it one of the biggest declines in the game’s history](https://dev.to/gg_news/ea-says-apex-legends-revenue-will-drop-40-this-year-making-it-one-of-the-biggest-declines-in-the-2m4)
+- [CSS image slider w/ next/prev buttons](https://dev.to/preetha_vaishnavi_2b82358/css-image-slider-w-nextprev-buttons-1m84)
+- [Solving TryHackMe&#39;s &quot;Pickle Rick&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-pickle-rick-room-a-complete-walktrough-7dn)
+- [How to Fix Samsung System UI Over Flutter App Issue?](https://dev.to/generatecodedev/how-to-fix-samsung-system-ui-over-flutter-app-issue-1b3k)
+- [CPChallenge: Food Drops](https://dev.to/preetha_vaishnavi_2b82358/cpchallenge-food-drops-58l7)
 <!-- BLOG-POST-LIST:END -->
 
