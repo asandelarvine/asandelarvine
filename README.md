@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily handle concurrency: Concurrency programming model of Cangjie language under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/easily-handle-concurrency-concurrency-programming-model-of-cangjie-language-under-harmonyos-next-5036)
-- [Play with paradigm switching: Cangjie&#39;s functional and object-oriented combat under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/play-with-paradigm-switching-cangjies-functional-and-object-oriented-combat-under-harmonyos-next-3h86)
-- [HarmonyOS Next development essentials: efficient type system and type inference of Cangjie language](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-development-essentials-efficient-type-system-and-type-inference-of-cangjie-language-2njf)
-- [How Smart Factories Are Using AI to Revolutionize Production Scheduling and Cut Costs](https://dev.to/gauridigital/how-smart-factories-are-using-ai-to-revolutionize-production-scheduling-and-cut-costs-1ddb)
+- [🚀 Week 2 of My Web Development Journey](https://dev.to/adhyanjain2512/week-2-of-my-web-development-journey-2m38)
+- [Llambda.co — Serverless AI made simple](https://dev.to/vladfaust/llambdaco-serverless-ai-made-simple-1mij)
+- [Level Up Your React Code: A Friendly Guide to Unit Testing Best Practices](https://dev.to/rizul_sharma/level-up-your-react-code-a-friendly-guide-to-unit-testing-best-practices-44lh)
+- [Linux Backup Strategies](https://dev.to/chielo_chiamaka/linux-backup-strategies-2pl1)
 <!-- BLOG-POST-LIST:END -->
 
