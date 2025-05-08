@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Dates and Calendar Calculations 8/10](https://dev.to/rezmoss/working-with-dates-and-calendar-calculations-810-518p)
-- [How to Create a Flexible Column Layout with Pure CSS](https://dev.to/generatecodedev/how-to-create-a-flexible-column-layout-with-pure-css-3jo8)
-- [image](https://dev.to/kentechgeek/image-1pa9)
-- [How to Sort Filenames in Bash While Keeping Paths](https://dev.to/generatecodedev/how-to-sort-filenames-in-bash-while-keeping-paths-1gek)
+- [DAY 40: Array in Looping JAVA](https://dev.to/sangamithra_k_78d83d6fb9d/day-40-array-in-looping-java-18ff)
+- [How to Troubleshoot Ansible Playbook Execution Issues in Bash?](https://dev.to/generatecodedev/how-to-troubleshoot-ansible-playbook-execution-issues-in-bash-3i4g)
+- [Why Gen Z Devs Need to Learn Prompt Engineering](https://dev.to/syedahmershah/why-gen-z-devs-need-to-learn-prompt-engineering-5ek0)
+- [Routing in Spin Apps with Hono](https://dev.to/fermyon/routing-in-spin-apps-with-hono-jnh)
 <!-- BLOG-POST-LIST:END -->
 
