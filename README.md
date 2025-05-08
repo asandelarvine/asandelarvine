@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built &quot;Hackerman&quot; with Amazon Q](https://dev.to/aws-builders/i-built-hackerman-with-amazon-q-29jn)
-- [How Do ACID Principles Work in SQL Databases?](https://dev.to/generatecodedev/how-do-acid-principles-work-in-sql-databases-2ln4)
-- [Why does operator+= work with initializer lists in C++?](https://dev.to/generatecodedev/why-does-operator-work-with-initializer-lists-in-c-4il7)
-- [Transform Your Website into a Mobile App with AI: A Step-by-Step Guide](https://dev.to/srdan_borovi_584c6b1d773/transform-your-website-into-a-mobile-app-with-ai-a-step-by-step-guide-18kc)
+- [Monitoramento de Erros com Sentry no React + Vite: Guia Completo](https://dev.to/werliton/monitoramento-de-erros-com-sentry-no-react-vite-guia-completo-3km1)
+- [Google A2A Protocol : Integrating AI into existing Java Applications](https://dev.to/vishalmysore/google-a2a-protocol-integrating-ai-into-existing-java-applications-4nlp)
+- [Easy parsing with reasonable error messages in OCaml&#39;s Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
+- [How to Implement Multiple App Initializers in Angular 19?](https://dev.to/generatecodedev/how-to-implement-multiple-app-initializers-in-angular-19-35ig)
 <!-- BLOG-POST-LIST:END -->
 
