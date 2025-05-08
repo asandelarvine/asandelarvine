@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Common Cloud Threats Exploiting Agentic AI Systems](https://dev.to/clouddefenseai/5-common-cloud-threats-exploiting-agentic-ai-systems-15ap)
-- [Building Scalable Applications with Node.js](https://dev.to/million_formula_3be3d915d/building-scalable-applications-with-nodejs-9c5)
-- [Testing Account Verification with Cypress](https://dev.to/mailosaur_/testing-account-verification-with-cypress-2oi7)
-- [🚀 Node.js 24 Update: What Developers Need to Know](https://dev.to/binud_panging_4b13572a8bb/nodejs-24-update-what-developers-need-to-know-2men)
+- [Easily handle concurrency: Concurrency programming model of Cangjie language under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/easily-handle-concurrency-concurrency-programming-model-of-cangjie-language-under-harmonyos-next-5036)
+- [Play with paradigm switching: Cangjie&#39;s functional and object-oriented combat under HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/play-with-paradigm-switching-cangjies-functional-and-object-oriented-combat-under-harmonyos-next-3h86)
+- [HarmonyOS Next development essentials: efficient type system and type inference of Cangjie language](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-development-essentials-efficient-type-system-and-type-inference-of-cangjie-language-2njf)
+- [How Smart Factories Are Using AI to Revolutionize Production Scheduling and Cut Costs](https://dev.to/gauridigital/how-smart-factories-are-using-ai-to-revolutionize-production-scheduling-and-cut-costs-1ddb)
 <!-- BLOG-POST-LIST:END -->
 
