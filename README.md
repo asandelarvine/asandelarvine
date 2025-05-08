@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS image slider w/ next/prev buttons](https://dev.to/preetha_vaishnavi_2b82358/css-image-slider-w-nextprev-buttons-1m84)
-- [Solving TryHackMe&#39;s &quot;Pickle Rick&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-pickle-rick-room-a-complete-walktrough-7dn)
-- [How to Fix Samsung System UI Over Flutter App Issue?](https://dev.to/generatecodedev/how-to-fix-samsung-system-ui-over-flutter-app-issue-1b3k)
-- [CPChallenge: Food Drops](https://dev.to/preetha_vaishnavi_2b82358/cpchallenge-food-drops-58l7)
+- [BSides Seattle 2025: Rebuilding Trust in Systems In The Age Of NHIs](https://dev.to/gitguardian/bsides-seattle-2025-rebuilding-trust-in-systems-in-the-age-of-nhis-52fn)
+- [🚀 Building Vibe Coding: A Personal Planner Powered by AI – Looking for Devs &amp; Teammates! Hey DEV community! 🙌 I&#39;m currently working on an ambitious project called Vibe Coding – a next-gen AI-powered personal planner designed to help people take control](https://dev.to/tfkm/building-vibe-coding-a-personal-planner-powered-by-ai-looking-for-devs-teammates-hey-dev-3og7)
+- [Juan Diego Prieto](https://dev.to/juan_prieto_11f6c1b4775de/juan-diego-prieto-343k)
+- [DBSCAN: Finding Cluster of any shape](https://dev.to/leonhard_kwahle_7d09cf417/dbscan-finding-cluster-of-any-shape-1kc7)
 <!-- BLOG-POST-LIST:END -->
 
