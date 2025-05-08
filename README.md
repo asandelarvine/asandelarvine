@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Digital Markets: The Role of 5G and Edge Computing 🚀📶](https://dev.to/srijan-xi/revolutionizing-digital-markets-the-role-of-5g-and-edge-computing-kn6)
-- [Building JavaFactory Plugin: Can Code Generation Be Automated with LLMs?](https://dev.to/java_factory_dev/building-javafactory-plugin-can-code-generation-be-automated-with-llms-1lno)
-- [Test Plan for Sauce demo Website](https://dev.to/dhanusappa/test-plan-for-sauce-demo-website-dhn)
-- [An Overview of Vitara.AI](https://dev.to/nithya_iyer/overview-of-vitaraai-n8m)
+- [The Blind Spot Blocking Enterprise AI Success](https://dev.to/talweezy/the-blind-spot-blocking-enterprise-ai-success-2ci2)
+- [Building Custom Extensions for Microsoft 365 Copilot with Teams Toolkit](https://dev.to/syedkamran/building-custom-extensions-for-microsoft-365-copilot-with-teams-toolkit-mj9)
+- [Meta concerns in ML security/privacy University of Waterloo x PSU](https://dev.to/salincalyna/meta-concerns-in-ml-securityprivacy-is-due-university-of-waterloo-x-psu-450a)
+- [Virtual Platforms for Meetings: Features That Make or Break Your Remote Strategy](https://dev.to/diana_black_5edb83146b969/virtual-platforms-for-meetings-features-that-make-or-break-your-remote-strategy-311b)
 <!-- BLOG-POST-LIST:END -->
 
