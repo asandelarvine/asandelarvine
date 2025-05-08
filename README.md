@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 2 of My Web Development Journey](https://dev.to/adhyanjain2512/week-2-of-my-web-development-journey-2m38)
-- [Llambda.co — Serverless AI made simple](https://dev.to/vladfaust/llambdaco-serverless-ai-made-simple-1mij)
-- [Level Up Your React Code: A Friendly Guide to Unit Testing Best Practices](https://dev.to/rizul_sharma/level-up-your-react-code-a-friendly-guide-to-unit-testing-best-practices-44lh)
-- [Linux Backup Strategies](https://dev.to/chielo_chiamaka/linux-backup-strategies-2pl1)
+- [Revolutionizing Digital Markets: The Role of 5G and Edge Computing 🚀📶](https://dev.to/srijan-xi/revolutionizing-digital-markets-the-role-of-5g-and-edge-computing-kn6)
+- [Building JavaFactory Plugin: Can Code Generation Be Automated with LLMs?](https://dev.to/java_factory_dev/building-javafactory-plugin-can-code-generation-be-automated-with-llms-1lno)
+- [Test Plan for Sauce demo Website](https://dev.to/dhanusappa/test-plan-for-sauce-demo-website-dhn)
+- [An Overview of Vitara.AI](https://dev.to/nithya_iyer/overview-of-vitaraai-n8m)
 <!-- BLOG-POST-LIST:END -->
 
