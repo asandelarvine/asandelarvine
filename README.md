@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Blinking Text in HTML Without the Blink Tag?](https://dev.to/generatecodedev/how-to-create-blinking-text-in-html-without-the-blink-tag-54oo)
-- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
-- [Navigating Financial Sustainability in Open Source Projects](https://dev.to/ashucommits/navigating-financial-sustainability-in-open-source-projects-2on7)
-- [Deploying AI/ML Models via Cloud APIs in Healthcare: A Developer&#39;s Guide to National Impact](https://dev.to/a_bojjam/deploying-aiml-models-via-cloud-apis-in-healthcare-a-developers-guide-to-national-impact-1a46)
+- [Save Hours Managing Ghost with These Python Scripts](https://dev.to/devasservice/save-hours-managing-ghost-with-these-python-scripts-3h62)
+- [How to Decode Nested JSON Strings in Scala with Circe?](https://dev.to/generatecodedev/how-to-decode-nested-json-strings-in-scala-with-circe-1657)
+- [Open Source Project Investment: A Convergence of Collaboration, Blockchain, and NFTs](https://dev.to/vitalisorenko/open-source-project-investment-a-convergence-of-collaboration-blockchain-and-nfts-c32)
+- [The AI Evolution: Why the Spotlight Has Shifted from Single Models to Multimodal Agents](https://dev.to/ishmam_jahan_4269b6f13ba5/the-ai-evolution-why-the-spotlight-has-shifted-from-single-models-to-multimodal-agents-1j6n)
 <!-- BLOG-POST-LIST:END -->
 
