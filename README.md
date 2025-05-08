@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt là gì](https://dev.to/congngheaivn/prompt-la-gi-34da)
-- [Software Process](https://dev.to/codemonkmi/software-process-g2e)
-- [LLM Integration in Software Engineering: A Comprehensive Framework of Paradigm Shifts, Core Components &amp; Best Practices](https://dev.to/boting_wang_9571e70af30b/llm-integration-in-software-engineering-a-comprehensive-framework-of-paradigm-shifts-core-21ci)
-- [All-in-One GitHub Repository-Driven Dev.to Article Management System](https://dev.to/kentechgeek/all-in-one-github-repository-driven-devto-article-management-system-2031)
+- [How to Create Blinking Text in HTML Without the Blink Tag?](https://dev.to/generatecodedev/how-to-create-blinking-text-in-html-without-the-blink-tag-54oo)
+- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
+- [Navigating Financial Sustainability in Open Source Projects](https://dev.to/ashucommits/navigating-financial-sustainability-in-open-source-projects-2on7)
+- [Deploying AI/ML Models via Cloud APIs in Healthcare: A Developer&#39;s Guide to National Impact](https://dev.to/a_bojjam/deploying-aiml-models-via-cloud-apis-in-healthcare-a-developers-guide-to-national-impact-1a46)
 <!-- BLOG-POST-LIST:END -->
 
