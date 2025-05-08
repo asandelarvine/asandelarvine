@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;April 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2025-482a)
-- [Linux Myths vs Reality: What Beginners Should Know](https://dev.to/sanasadiq/linux-myths-vs-reality-what-beginners-should-know-191c)
-- [Linux for Non-Techies: A Simple Guide to Getting Comfortable](https://dev.to/sanasadiq/linux-for-non-techies-a-simple-guide-to-getting-comfortable-1jfb)
-- [React Full-Stack Just Code: Build a Business 🧠💰](https://dev.to/0x2e_tech/react-full-stack-just-code-build-a-business-bob)
+- [How I Slashed Infrastructure Costs by 80% for a Struggling Startup](https://dev.to/jaskarandeogan/how-i-slashed-infrastructure-costs-by-80-for-a-struggling-startup-23)
+- [Manual Testing Basics and Beyond](https://dev.to/gopinathchandran24/manual-testing-basics-and-beyond-4eme)
+- [How to Fix ProviderNotFoundException in Flutter App](https://dev.to/generatecodedev/how-to-fix-providernotfoundexception-in-flutter-app-3nf1)
+- [What I Learned During the SheFi Program — And Why I Recommend It](https://dev.to/ayda_ma04a645d96526b/what-i-learned-during-the-shefi-program-and-why-i-recommend-it-3h7)
 <!-- BLOG-POST-LIST:END -->
 
