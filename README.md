@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoramento de Erros com Sentry no React + Vite: Guia Completo](https://dev.to/werliton/monitoramento-de-erros-com-sentry-no-react-vite-guia-completo-3km1)
-- [Google A2A Protocol : Integrating AI into existing Java Applications](https://dev.to/vishalmysore/google-a2a-protocol-integrating-ai-into-existing-java-applications-4nlp)
-- [Easy parsing with reasonable error messages in OCaml&#39;s Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
-- [How to Implement Multiple App Initializers in Angular 19?](https://dev.to/generatecodedev/how-to-implement-multiple-app-initializers-in-angular-19-35ig)
+- [Changing Log Level at Runtime](https://dev.to/kiponos/changing-log-level-at-runtime-5geb)
+- [Генератор супепаролей](https://dev.to/vladislav_veretennikov_1a/gienierator-supieparoliei-4j2a)
+- [How to Rotate and Float Images in HTML for Mobile](https://dev.to/generatecodedev/how-to-rotate-and-float-images-in-html-for-mobile-1ock)
+- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
 <!-- BLOG-POST-LIST:END -->
 
