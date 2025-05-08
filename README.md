@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 40: Array in Looping JAVA](https://dev.to/sangamithra_k_78d83d6fb9d/day-40-array-in-looping-java-18ff)
-- [How to Troubleshoot Ansible Playbook Execution Issues in Bash?](https://dev.to/generatecodedev/how-to-troubleshoot-ansible-playbook-execution-issues-in-bash-3i4g)
-- [Why Gen Z Devs Need to Learn Prompt Engineering](https://dev.to/syedahmershah/why-gen-z-devs-need-to-learn-prompt-engineering-5ek0)
-- [Routing in Spin Apps with Hono](https://dev.to/fermyon/routing-in-spin-apps-with-hono-jnh)
+- [Prompt là gì](https://dev.to/congngheaivn/prompt-la-gi-34da)
+- [Software Process](https://dev.to/codemonkmi/software-process-g2e)
+- [LLM Integration in Software Engineering: A Comprehensive Framework of Paradigm Shifts, Core Components &amp; Best Practices](https://dev.to/boting_wang_9571e70af30b/llm-integration-in-software-engineering-a-comprehensive-framework-of-paradigm-shifts-core-21ci)
+- [All-in-One GitHub Repository-Driven Dev.to Article Management System](https://dev.to/kentechgeek/all-in-one-github-repository-driven-devto-article-management-system-2031)
 <!-- BLOG-POST-LIST:END -->
 
