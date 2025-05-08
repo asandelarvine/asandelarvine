@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched Apple Remote Desktop: A DevOps Engineer&#39;s Journey to Smarter Mac Management](https://dev.to/sagar_2006/why-i-ditched-apple-remote-desktop-a-devops-engineers-journey-to-smarter-mac-management-5g91)
-- [How to Fix Flow Usage Issues in Kotlin ViewModel?](https://dev.to/generatecodedev/how-to-fix-flow-usage-issues-in-kotlin-viewmodel-1o7d)
-- [Why I’m Building a Free Study Platform for Bihar Board Students — And How You Can Help!](https://dev.to/raajaryan/why-im-building-a-free-study-platform-for-bihar-board-students-and-how-you-can-help-3lb3)
-- [The Day I Discovered List Comprehension](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-list-comprehension-3f2b)
+- [آموزش کار با آرایه ها در سی شارپ: از مقدماتی تا پیشرفته](https://dev.to/tosinso/amwzsh-khr-b-aryh-h-dr-sy-shrp-z-mqdmty-t-pyshrfth-47d3)
+- [Simple Root Detection: Implementation and verification](https://dev.to/yurii_denchyk_bb561af8d2d/simple-root-detection-implementation-and-verification-121n)
+- [Simple Root Detection: Implementation and verification](https://dev.to/yurii_denchyk_bb561af8d2d/simple-root-detection-implementation-and-verification-33aj)
+- [Permit.io](https://dev.to/gitkit13/permitio-e3o)
 <!-- BLOG-POST-LIST:END -->
 
