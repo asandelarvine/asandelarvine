@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stellar Dev Diaries: Episode 2 - Becoming Fundable](https://dev.to/stellar/stellar-dev-diaries-episode-2-becoming-fundable-4kg3)
-- [Fundamentals of Manual Testing: Techniques and Approaches](https://dev.to/gopinathchandran24/fundamentals-of-manual-testing-techniques-and-approaches-4in5)
-- [Dehydrated Fruits: The Future of Sustainable, Scalable Food Production](https://dev.to/aakansha_puri_7af484d1d0e/dehydrated-fruits-the-future-of-sustainable-scalable-food-production-3n5j)
-- [AGILE SCRUM MASTER TRAINING &amp; CERTIFICATION?](https://dev.to/arianaa/agile-scrum-master-training-certification-36o8)
+- [5 Common Cloud Threats Exploiting Agentic AI Systems](https://dev.to/clouddefenseai/5-common-cloud-threats-exploiting-agentic-ai-systems-15ap)
+- [Building Scalable Applications with Node.js](https://dev.to/million_formula_3be3d915d/building-scalable-applications-with-nodejs-9c5)
+- [Testing Account Verification with Cypress](https://dev.to/mailosaur_/testing-account-verification-with-cypress-2oi7)
+- [🚀 Node.js 24 Update: What Developers Need to Know](https://dev.to/binud_panging_4b13572a8bb/nodejs-24-update-what-developers-need-to-know-2men)
 <!-- BLOG-POST-LIST:END -->
 
