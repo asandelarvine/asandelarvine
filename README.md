@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abhishek Desikan | Growing as a Software Engineer Means Letting Go of Perfection](https://dev.to/abhishekdesikan/abhishek-desikan-growing-as-a-software-engineer-means-letting-go-of-perfection-2gde)
-- [Building a Book Sharing application with Amazon Q CLI](https://dev.to/aws/building-a-book-sharing-application-with-amazon-q-cli-5dl8)
-- [The Runway Walk: Techniques for High-Fashion and Commercial Modeling](https://dev.to/celebritynews/the-runway-walk-techniques-for-high-fashion-and-commercial-modeling-4dpk)
-- [How to Fix Client ID Assignment Issues in ASP.NET with SQLite](https://dev.to/generatecodedev/how-to-fix-client-id-assignment-issues-in-aspnet-with-sqlite-4bca)
+- [A spread argument must either have a tuple type or be passed to a rest parameter. ts&lpar;2556&rpar;](https://dev.to/d4rekanguok/a-spread-argument-must-either-have-a-tuple-type-or-be-passed-to-a-rest-parameter-ts2556-1516)
+- [Debugging Browser Extensions: Taming the Chaos Like a Pro 🛠️](https://dev.to/alex_aslam/debugging-browser-extensions-taming-the-chaos-like-a-pro-j08)
+- [Modern Browser Extension Development: Supercharge Your Workflow with React, Vue, or Svelte](https://dev.to/alex_aslam/modern-browser-extension-development-supercharge-your-workflow-with-react-vue-or-svelte-3ipd)
+- [Chatbots Believe What You Tell Them — Even When You’re Not Certain](https://dev.to/jim_alfareh_1fd618f0ff706/chatbots-believe-what-you-tell-them-even-when-youre-not-certain-6h0)
 <!-- BLOG-POST-LIST:END -->
 
