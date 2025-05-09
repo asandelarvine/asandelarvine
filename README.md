@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Is Leading the World in Artificial Intelligence in 2025?](https://dev.to/priyankapandey/who-is-leading-the-world-in-artificial-intelligence-in-2025-e32)
-- [How to Correctly Read a Bash Array from a File](https://dev.to/generatecodedev/how-to-correctly-read-a-bash-array-from-a-file-10ae)
-- [MarketPulse AI: Real-Time Market Intelligence Agent](https://dev.to/aniruddhaadak/marketpulse-ai-real-time-market-intelligence-agent-429k)
-- [MarketPulse AI: Real-Time Market Intelligence Agent](https://dev.to/aniruddhaadak/marketpulse-ai-real-time-market-intelligence-agent-435)
+- [CR2032: The One Battery of Middle-Earth](https://dev.to/ersajay/cr2032-the-one-battery-of-middle-earth-i7p)
+- [List of AI Services Offered By AWS](https://dev.to/venkatramanan_46/list-of-ai-services-offered-by-aws-96g)
+- [[Boost]](https://dev.to/pranesh_patel/-4k48)
+- [How to remove productivity blockers in Dev teams](https://dev.to/pratham_naik_project_manager/how-to-remove-productivity-blockers-in-dev-teams-4bjf)
 <!-- BLOG-POST-LIST:END -->
 
