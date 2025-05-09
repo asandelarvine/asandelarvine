@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Changing Log Level at Runtime](https://dev.to/kiponos/changing-log-level-at-runtime-5geb)
-- [Генератор супепаролей](https://dev.to/vladislav_veretennikov_1a/gienierator-supieparoliei-4j2a)
-- [How to Rotate and Float Images in HTML for Mobile](https://dev.to/generatecodedev/how-to-rotate-and-float-images-in-html-for-mobile-1ock)
-- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
+- [Support Unlimited Forwarded Email Messages via API &lpar;and ColdFusion&rpar;](https://dev.to/gamesover/support-unlimited-forwarded-email-messages-via-api-and-coldfusion-1meb)
+- [How to Fix MySQL Error 1054 with CONCAT in CodeIgniter?](https://dev.to/generatecodedev/how-to-fix-mysql-error-1054-with-concat-in-codeigniter-p5m)
+- [How to Build API-Centric Frontend Apps in Bellini](https://dev.to/lonti-davidb/how-to-build-api-centric-frontend-apps-in-bellini-56ak)
+- [Understanding Error Unions in Zig: Safe and Explicit Error Handling](https://dev.to/hexshift/understanding-error-unions-in-zig-safe-and-explicit-error-handling-3e0)
 <!-- BLOG-POST-LIST:END -->
 
