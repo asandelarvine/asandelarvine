@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [zkJSON Litepaper v1.0](https://dev.to/weave_db/zkjson-litepaper-v10-2765)
-- [Free vs Paid SSL Certificates: What&#39;s the Difference?](https://dev.to/daniel_williams_4cf14d76f/free-vs-paid-ssl-certificates-whats-the-difference-1nlp)
-- [Passkeys &amp; Password Managers: Essential Guide for Relying Parties](https://dev.to/corbado/passkeys-password-managers-essential-guide-for-relying-parties-2118)
-- [🚀 Vonage Developer Newsletter, April 2025: Java SDK update, tech insights, and more](https://dev.to/vonagedev/vonage-developer-newsletter-april-2025-java-sdk-update-tech-insights-and-more-b1)
+- [Drexel Bench](https://dev.to/aaryan_tahir_6c3500b9021a/drexel-bench-4849)
+- [Java: Inheritance, Method Overrides, and Polymorphism.](https://dev.to/oleksandr_java/java-inheritance-method-overrides-and-polymorphism-cao)
+- [Git Tales: Part 2 - Demons in the Cloud](https://dev.to/davisbug/git-tales-part-2-demons-in-the-cloud-2ii9)
+- [Master Routing in React with React Router — learn how client-side routing works, build nested and dynamic routes, and navigate programmatically using real-world examples and clear explanations.](https://dev.to/joshi16/master-routing-in-react-with-react-router-learn-how-client-side-routing-works-build-nested-and-3ck3)
 <!-- BLOG-POST-LIST:END -->
 
