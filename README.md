@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex in java](https://dev.to/sugumar_r_a5f301adf1fb49a/regex-in-java-3hcn)
-- [Exploring The Sandbox’s Role in Musk’s Metaverse Vision: A Deep Dive into Blockchain &amp; NFT Innovation](https://dev.to/kallileiser/exploring-the-sandboxs-role-in-musks-metaverse-vision-a-deep-dive-into-blockchain-nft-21ih)
-- [AWS Databases Unlocked: Choosing the Right Engine for Your Application in 2025](https://dev.to/pkkolla/aws-databases-unlocked-choosing-the-right-engine-for-your-application-in-2025-34ki)
-- [Sharding vs. Partitioning](https://dev.to/souravbandyopadhyay/sharding-vs-partitioning-1cfh)
+- [LH2L: Servers 101 &lpar;Now 2x as basic!&rpar;](https://dev.to/thomas_hammon_07aab1f11f5/lh2l-servers-101-now-2x-as-basic-5a23)
+- [Getting Started with P5js](https://dev.to/kevin-ewing/getting-started-with-p5js-8k2)
+- [How to Fix Bootstrap Buttons for Expanding Forms Properly?](https://dev.to/generatecodedev/how-to-fix-bootstrap-buttons-for-expanding-forms-properly-2ga8)
+- [From Helpful to Hilariously Wrong: Inside LLM Hallucinations](https://dev.to/rijultp/from-helpful-to-hilariously-wrong-inside-llm-hallucinations-38cm)
 <!-- BLOG-POST-LIST:END -->
 
