@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 9th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-9th-may-2025-53ba)
-- [Google A2A Protocol : Kafka Messaging Agent](https://dev.to/vishalmysore/google-a2a-protocol-kafka-messaging-agent-1a96)
-- [Conquer the Subarray Sum: Sliding Window vs. Brute Force](https://dev.to/tanvir_azad/conquer-the-subarray-sum-sliding-window-vs-brute-force-28mf)
-- [Google A2A protocol : Log Monitoring Agent](https://dev.to/vishalmysore/google-a2a-protocol-log-monitoring-agent-30d)
+- [Abhishek Desikan | Growing as a Software Engineer Means Letting Go of Perfection](https://dev.to/abhishekdesikan/abhishek-desikan-growing-as-a-software-engineer-means-letting-go-of-perfection-2gde)
+- [Building a Book Sharing application with Amazon Q CLI](https://dev.to/aws/building-a-book-sharing-application-with-amazon-q-cli-5dl8)
+- [The Runway Walk: Techniques for High-Fashion and Commercial Modeling](https://dev.to/celebritynews/the-runway-walk-techniques-for-high-fashion-and-commercial-modeling-4dpk)
+- [How to Fix Client ID Assignment Issues in ASP.NET with SQLite](https://dev.to/generatecodedev/how-to-fix-client-id-assignment-issues-in-aspnet-with-sqlite-4bca)
 <!-- BLOG-POST-LIST:END -->
 
