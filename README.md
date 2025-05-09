@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔁 How to Redirect Users to the App Store or Play Store in React Native](https://dev.to/amitkumar13/how-to-redirect-users-to-the-app-store-or-play-store-in-react-native-2hjd)
-- [Siemens: Embracing Blockchain for a Sustainable Future](https://dev.to/jennythomas498/siemens-embracing-blockchain-for-a-sustainable-future-4b6p)
-- [* for Iterable Unpacking in a Python function](https://dev.to/hyperkai/-for-iterable-unpacking-in-a-python-function-3l5l)
-- [How to Create a Sliding Navbar for Mobile Responsiveness](https://dev.to/generatecodedev/how-to-create-a-sliding-navbar-for-mobile-responsiveness-49l3)
+- [Regex in java](https://dev.to/sugumar_r_a5f301adf1fb49a/regex-in-java-3hcn)
+- [Exploring The Sandbox’s Role in Musk’s Metaverse Vision: A Deep Dive into Blockchain &amp; NFT Innovation](https://dev.to/kallileiser/exploring-the-sandboxs-role-in-musks-metaverse-vision-a-deep-dive-into-blockchain-nft-21ih)
+- [AWS Databases Unlocked: Choosing the Right Engine for Your Application in 2025](https://dev.to/pkkolla/aws-databases-unlocked-choosing-the-right-engine-for-your-application-in-2025-34ki)
+- [Sharding vs. Partitioning](https://dev.to/souravbandyopadhyay/sharding-vs-partitioning-1cfh)
 <!-- BLOG-POST-LIST:END -->
 
