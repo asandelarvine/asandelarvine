@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Support Unlimited Forwarded Email Messages via API &lpar;and ColdFusion&rpar;](https://dev.to/gamesover/support-unlimited-forwarded-email-messages-via-api-and-coldfusion-1meb)
-- [How to Fix MySQL Error 1054 with CONCAT in CodeIgniter?](https://dev.to/generatecodedev/how-to-fix-mysql-error-1054-with-concat-in-codeigniter-p5m)
-- [How to Build API-Centric Frontend Apps in Bellini](https://dev.to/lonti-davidb/how-to-build-api-centric-frontend-apps-in-bellini-56ak)
-- [Understanding Error Unions in Zig: Safe and Explicit Error Handling](https://dev.to/hexshift/understanding-error-unions-in-zig-safe-and-explicit-error-handling-3e0)
+- [How to Keep a Scrolling Log Updated in Real-Time with Python and CSS?](https://dev.to/generatecodedev/how-to-keep-a-scrolling-log-updated-in-real-time-with-python-and-css-2ejh)
+- [Exploring kubectl-ai: Your AI-Powered Kubernetes Assistant](https://dev.to/mechcloud_academy/exploring-kubectl-ai-your-ai-powered-kubernetes-assistant-4glp)
+- [SSH in Linux: Your Secure Gateway to Remote Control](https://dev.to/marzena_pugo_b8978575380f/ssh-in-linux-your-secure-gateway-to-remote-control-269b)
+- [How to Fix &#39;Undefined Symbols for Architecture arm64&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-undefined-symbols-for-architecture-arm64-in-flutter-b18)
 <!-- BLOG-POST-LIST:END -->
 
