@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI tools DevOps Engineers must know in 2025 | TurtleCI](https://dev.to/linhgumiho/top-5-ai-tools-devops-engineers-must-know-in-2025-turtleci-1kj2)
-- [👽 Alien Interview Simulator — Ace Your Next Intergalactic Tech Interview!](https://dev.to/mehtahrishi/alien-interview-simulator-ace-your-next-intergalactic-tech-interview-113n)
-- [How to Debug WKWebView in iOS Without Upgrading Xcode?](https://dev.to/generatecodedev/how-to-debug-wkwebview-in-ios-without-upgrading-xcode-f9)
-- [Voice bots - Audio feedback Loop Issue](https://dev.to/shivansh_kumar_8419afbb84/voice-bots-audio-feedback-loop-issue-55b)
+- [zkJSON Litepaper v1.0](https://dev.to/weave_db/zkjson-litepaper-v10-2765)
+- [Free vs Paid SSL Certificates: What&#39;s the Difference?](https://dev.to/daniel_williams_4cf14d76f/free-vs-paid-ssl-certificates-whats-the-difference-1nlp)
+- [Passkeys &amp; Password Managers: Essential Guide for Relying Parties](https://dev.to/corbado/passkeys-password-managers-essential-guide-for-relying-parties-2118)
+- [🚀 Vonage Developer Newsletter, April 2025: Java SDK update, tech insights, and more](https://dev.to/vonagedev/vonage-developer-newsletter-april-2025-java-sdk-update-tech-insights-and-more-b1)
 <!-- BLOG-POST-LIST:END -->
 
