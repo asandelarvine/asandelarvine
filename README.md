@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Won&#39;t Save Your SEO](https://dev.to/wimadev/wordpress-wont-save-your-seo-4og6)
-- [5 Reasons Why Some Junior Developers Never Become Seniors](https://dev.to/gbengacode/5-reasons-why-some-junior-developers-never-become-seniors-a4k)
-- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 2&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-2-3jia)
-- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 1&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-1-5dhj)
+- [Security news weekly round-up - 9th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-9th-may-2025-53ba)
+- [Google A2A Protocol : Kafka Messaging Agent](https://dev.to/vishalmysore/google-a2a-protocol-kafka-messaging-agent-1a96)
+- [Conquer the Subarray Sum: Sliding Window vs. Brute Force](https://dev.to/tanvir_azad/conquer-the-subarray-sum-sliding-window-vs-brute-force-28mf)
+- [Google A2A protocol : Log Monitoring Agent](https://dev.to/vishalmysore/google-a2a-protocol-log-monitoring-agent-30d)
 <!-- BLOG-POST-LIST:END -->
 
