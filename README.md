@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LH2L: Servers 101 &lpar;Now 2x as basic!&rpar;](https://dev.to/thomas_hammon_07aab1f11f5/lh2l-servers-101-now-2x-as-basic-5a23)
-- [Getting Started with P5js](https://dev.to/kevin-ewing/getting-started-with-p5js-8k2)
-- [How to Fix Bootstrap Buttons for Expanding Forms Properly?](https://dev.to/generatecodedev/how-to-fix-bootstrap-buttons-for-expanding-forms-properly-2ga8)
-- [From Helpful to Hilariously Wrong: Inside LLM Hallucinations](https://dev.to/rijultp/from-helpful-to-hilariously-wrong-inside-llm-hallucinations-38cm)
+- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
+- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
+- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
+- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
 <!-- BLOG-POST-LIST:END -->
 
