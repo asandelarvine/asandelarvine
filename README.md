@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep a Scrolling Log Updated in Real-Time with Python and CSS?](https://dev.to/generatecodedev/how-to-keep-a-scrolling-log-updated-in-real-time-with-python-and-css-2ejh)
-- [Exploring kubectl-ai: Your AI-Powered Kubernetes Assistant](https://dev.to/mechcloud_academy/exploring-kubectl-ai-your-ai-powered-kubernetes-assistant-4glp)
-- [SSH in Linux: Your Secure Gateway to Remote Control](https://dev.to/marzena_pugo_b8978575380f/ssh-in-linux-your-secure-gateway-to-remote-control-269b)
-- [How to Fix &#39;Undefined Symbols for Architecture arm64&#39; in Flutter?](https://dev.to/generatecodedev/how-to-fix-undefined-symbols-for-architecture-arm64-in-flutter-b18)
+- [🧒🐧 Linux for Kids: From Terminal Tetris to Bash Scripting – A Parent–Child Adventure](https://dev.to/rajpreet_gill_6272051bd31/linux-for-kids-from-terminal-tetris-to-bash-scripting-a-parent-child-adventure-ch1)
+- [How Developers Can Build AI Tools Without a PhD](https://dev.to/code_2/how-developers-can-build-ai-tools-without-a-phd-2d0i)
+- [How To Create a Responsive Collapsible Sidebar Menu](https://dev.to/chrys/how-to-create-a-responsive-collapsible-sidebar-menu-52kp)
+- [Designing a Smart Home Control Panel with PX30 and LVGL / Qt5 on Linux Buildroot](https://dev.to/rocktech/designing-a-smart-home-control-panel-with-px30-and-lvgl-qt5-on-linux-buildroot-38do)
 <!-- BLOG-POST-LIST:END -->
 
