@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST Easy: Building Bulletproof APIs with Go Fiber](https://dev.to/tavernetech/rest-easy-building-bulletproof-apis-with-go-fiber-2j92)
-- [From Code to Cash: Monetizing Python AI Agents ⚡](https://dev.to/tarekoraby/from-code-to-cash-monetizing-python-ai-agents-4bgc)
-- [The Fastest Way to Earn Money in Tech &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/the-fastest-way-to-earn-money-in-tech-master-guide-3a0o)
-- [How I Went From Sorting CVs to Building a Full AI-Powered SaaS With Zero Traditional Code](https://dev.to/julien_doussot/how-i-went-from-sorting-cvs-to-building-a-full-ai-powered-saas-with-zero-traditional-code-105g)
+- [🔁 How to Redirect Users to the App Store or Play Store in React Native](https://dev.to/amitkumar13/how-to-redirect-users-to-the-app-store-or-play-store-in-react-native-2hjd)
+- [Siemens: Embracing Blockchain for a Sustainable Future](https://dev.to/jennythomas498/siemens-embracing-blockchain-for-a-sustainable-future-4b6p)
+- [* for Iterable Unpacking in a Python function](https://dev.to/hyperkai/-for-iterable-unpacking-in-a-python-function-3l5l)
+- [How to Create a Sliding Navbar for Mobile Responsiveness](https://dev.to/generatecodedev/how-to-create-a-sliding-navbar-for-mobile-responsiveness-49l3)
 <!-- BLOG-POST-LIST:END -->
 
