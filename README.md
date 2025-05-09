@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
-- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
-- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
-- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
+- [WordPress Won&#39;t Save Your SEO](https://dev.to/wimadev/wordpress-wont-save-your-seo-4og6)
+- [5 Reasons Why Some Junior Developers Never Become Seniors](https://dev.to/gbengacode/5-reasons-why-some-junior-developers-never-become-seniors-a4k)
+- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 2&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-2-3jia)
+- [The Ultimate AI Experiment: When LLMs Play the Danganronpa Killing Game &lpar;Part 1&rpar;](https://dev.to/zachary62/the-ultimate-ai-experiment-when-llms-play-the-danganronpa-killing-game-part-1-5dhj)
 <!-- BLOG-POST-LIST:END -->
 
