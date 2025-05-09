@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CR2032: The One Battery of Middle-Earth](https://dev.to/ersajay/cr2032-the-one-battery-of-middle-earth-i7p)
-- [List of AI Services Offered By AWS](https://dev.to/venkatramanan_46/list-of-ai-services-offered-by-aws-96g)
-- [[Boost]](https://dev.to/pranesh_patel/-4k48)
-- [How to remove productivity blockers in Dev teams](https://dev.to/pratham_naik_project_manager/how-to-remove-productivity-blockers-in-dev-teams-4bjf)
+- [Unlocking Synergy: The Intersection of Blockchain and AI](https://dev.to/jennythomas498/unlocking-synergy-the-intersection-of-blockchain-and-ai-1gn1)
+- [The Future of QA: Best AI Test Management Tools in 2025](https://dev.to/sarahthomasdev/the-future-of-qa-best-ai-test-management-tools-in-2025-3fap)
+- [🔐 AWS Code Pipeline Now Supports AWS Secrets Manager in Commands Action](https://dev.to/latchudevops/aws-code-pipeline-now-supports-aws-secrets-manager-in-commands-action-4b04)
+- [C# Image Resizer Using ZeroMQ and Protobuf](https://dev.to/agbagbarao/c-image-resizer-using-zeromq-and-protobuf-24nd)
 <!-- BLOG-POST-LIST:END -->
 
