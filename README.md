@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
-- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
-- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
-- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
+- [2D Overlay on 3D IFC BIM model](https://dev.to/drashevski/2d-overlay-on-3d-ifc-bim-model-1d5g)
+- [MCP vs Codium AI: Control Plane Coordination vs Automated Code Generation](https://dev.to/clouddefenseai/mcp-vs-codium-ai-control-plane-coordination-vs-automated-code-generation-37k)
+- [How to Start a Side Hustle and Build Passive Income](https://dev.to/nhc_siam/how-to-start-a-side-hustle-and-build-passive-income-430j)
+- [Papyrus Font Designer](https://dev.to/czmilo/report-papyrus-font-analysis-16j6)
 <!-- BLOG-POST-LIST:END -->
 
