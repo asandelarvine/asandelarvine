@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧒🐧 Linux for Kids: From Terminal Tetris to Bash Scripting – A Parent–Child Adventure](https://dev.to/rajpreet_gill_6272051bd31/linux-for-kids-from-terminal-tetris-to-bash-scripting-a-parent-child-adventure-ch1)
-- [How Developers Can Build AI Tools Without a PhD](https://dev.to/code_2/how-developers-can-build-ai-tools-without-a-phd-2d0i)
-- [How To Create a Responsive Collapsible Sidebar Menu](https://dev.to/chrys/how-to-create-a-responsive-collapsible-sidebar-menu-52kp)
-- [Designing a Smart Home Control Panel with PX30 and LVGL / Qt5 on Linux Buildroot](https://dev.to/rocktech/designing-a-smart-home-control-panel-with-px30-and-lvgl-qt5-on-linux-buildroot-38do)
+- [Who Is Leading the World in Artificial Intelligence in 2025?](https://dev.to/priyankapandey/who-is-leading-the-world-in-artificial-intelligence-in-2025-e32)
+- [How to Correctly Read a Bash Array from a File](https://dev.to/generatecodedev/how-to-correctly-read-a-bash-array-from-a-file-10ae)
+- [MarketPulse AI: Real-Time Market Intelligence Agent](https://dev.to/aniruddhaadak/marketpulse-ai-real-time-market-intelligence-agent-429k)
+- [MarketPulse AI: Real-Time Market Intelligence Agent](https://dev.to/aniruddhaadak/marketpulse-ai-real-time-market-intelligence-agent-435)
 <!-- BLOG-POST-LIST:END -->
 
