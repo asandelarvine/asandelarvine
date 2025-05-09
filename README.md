@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2D Overlay on 3D IFC BIM model](https://dev.to/drashevski/2d-overlay-on-3d-ifc-bim-model-1d5g)
-- [MCP vs Codium AI: Control Plane Coordination vs Automated Code Generation](https://dev.to/clouddefenseai/mcp-vs-codium-ai-control-plane-coordination-vs-automated-code-generation-37k)
-- [How to Start a Side Hustle and Build Passive Income](https://dev.to/nhc_siam/how-to-start-a-side-hustle-and-build-passive-income-430j)
-- [Papyrus Font Designer](https://dev.to/czmilo/report-papyrus-font-analysis-16j6)
+- [REST Easy: Building Bulletproof APIs with Go Fiber](https://dev.to/tavernetech/rest-easy-building-bulletproof-apis-with-go-fiber-2j92)
+- [From Code to Cash: Monetizing Python AI Agents ⚡](https://dev.to/tarekoraby/from-code-to-cash-monetizing-python-ai-agents-4bgc)
+- [The Fastest Way to Earn Money in Tech &lpar;Master Guide&rpar;](https://dev.to/scofieldidehen/the-fastest-way-to-earn-money-in-tech-master-guide-3a0o)
+- [How I Went From Sorting CVs to Building a Full AI-Powered SaaS With Zero Traditional Code](https://dev.to/julien_doussot/how-i-went-from-sorting-cvs-to-building-a-full-ai-powered-saas-with-zero-traditional-code-105g)
 <!-- BLOG-POST-LIST:END -->
 
