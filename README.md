@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Knowing Your Audience is More Important Than Your Design](https://dev.to/icontechsoft/why-knowing-your-audience-is-more-important-than-your-design-4ecl)
-- [Programmers will be programmers..](https://dev.to/ysathyasai/programmers-will-be-programmers-318c)
-- [Why does my Windows Form app close on menu click in .NET 8?](https://dev.to/generatecodedev/why-does-my-windows-form-app-close-on-menu-click-in-net-8-4o9g)
-- [A Call to Action for the XRPL Community: Why We Must Veto Amendments](https://dev.to/enchstyle/a-call-to-action-for-the-xrpl-community-why-we-must-veto-amendments-3oga)
+- [Doctors often gaslight women with pelvic disorders and pain, study finds](https://dev.to/future_science/doctors-often-gaslight-women-with-pelvic-disorders-and-pain-study-finds-4kbl)
+- [Are you limiting your WordPress projects with just posts and pages? 🤔](https://dev.to/farhan-developer/are-you-limiting-your-wordpress-projects-with-just-posts-and-pages-3f0e)
+- [Software Development: Art, Science, and Gardening](https://dev.to/christian_altwibbing_985/software-development-art-science-and-gardening-57ob)
+- [HarmonyOS Next High Reliable Cross-device Task Scheduling Engine—Practical Memory and Resource Management Battle](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-high-reliable-cross-device-task-scheduling-engine-practical-memory-and-resource-2165)
 <!-- BLOG-POST-LIST:END -->
 
