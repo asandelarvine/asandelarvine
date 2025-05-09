@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Doctors often gaslight women with pelvic disorders and pain, study finds](https://dev.to/future_science/doctors-often-gaslight-women-with-pelvic-disorders-and-pain-study-finds-4kbl)
-- [Are you limiting your WordPress projects with just posts and pages? 🤔](https://dev.to/farhan-developer/are-you-limiting-your-wordpress-projects-with-just-posts-and-pages-3f0e)
-- [Software Development: Art, Science, and Gardening](https://dev.to/christian_altwibbing_985/software-development-art-science-and-gardening-57ob)
-- [HarmonyOS Next High Reliable Cross-device Task Scheduling Engine—Practical Memory and Resource Management Battle](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-high-reliable-cross-device-task-scheduling-engine-practical-memory-and-resource-2165)
+- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
+- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
+- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
+- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
 <!-- BLOG-POST-LIST:END -->
 
