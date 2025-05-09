@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Synergy: The Intersection of Blockchain and AI](https://dev.to/jennythomas498/unlocking-synergy-the-intersection-of-blockchain-and-ai-1gn1)
-- [The Future of QA: Best AI Test Management Tools in 2025](https://dev.to/sarahthomasdev/the-future-of-qa-best-ai-test-management-tools-in-2025-3fap)
-- [🔐 AWS Code Pipeline Now Supports AWS Secrets Manager in Commands Action](https://dev.to/latchudevops/aws-code-pipeline-now-supports-aws-secrets-manager-in-commands-action-4b04)
-- [C# Image Resizer Using ZeroMQ and Protobuf](https://dev.to/agbagbarao/c-image-resizer-using-zeromq-and-protobuf-24nd)
+- [Top 5 AI tools DevOps Engineers must know in 2025 | TurtleCI](https://dev.to/linhgumiho/top-5-ai-tools-devops-engineers-must-know-in-2025-turtleci-1kj2)
+- [👽 Alien Interview Simulator — Ace Your Next Intergalactic Tech Interview!](https://dev.to/mehtahrishi/alien-interview-simulator-ace-your-next-intergalactic-tech-interview-113n)
+- [How to Debug WKWebView in iOS Without Upgrading Xcode?](https://dev.to/generatecodedev/how-to-debug-wkwebview-in-ios-without-upgrading-xcode-f9)
+- [Voice bots - Audio feedback Loop Issue](https://dev.to/shivansh_kumar_8419afbb84/voice-bots-audio-feedback-loop-issue-55b)
 <!-- BLOG-POST-LIST:END -->
 
