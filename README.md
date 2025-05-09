@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Drexel Bench](https://dev.to/aaryan_tahir_6c3500b9021a/drexel-bench-4849)
-- [Java: Inheritance, Method Overrides, and Polymorphism.](https://dev.to/oleksandr_java/java-inheritance-method-overrides-and-polymorphism-cao)
-- [Git Tales: Part 2 - Demons in the Cloud](https://dev.to/davisbug/git-tales-part-2-demons-in-the-cloud-2ii9)
-- [Master Routing in React with React Router — learn how client-side routing works, build nested and dynamic routes, and navigate programmatically using real-world examples and clear explanations.](https://dev.to/joshi16/master-routing-in-react-with-react-router-learn-how-client-side-routing-works-build-nested-and-3ck3)
+- [Why Knowing Your Audience is More Important Than Your Design](https://dev.to/icontechsoft/why-knowing-your-audience-is-more-important-than-your-design-4ecl)
+- [Programmers will be programmers..](https://dev.to/ysathyasai/programmers-will-be-programmers-318c)
+- [Why does my Windows Form app close on menu click in .NET 8?](https://dev.to/generatecodedev/why-does-my-windows-form-app-close-on-menu-click-in-net-8-4o9g)
+- [A Call to Action for the XRPL Community: Why We Must Veto Amendments](https://dev.to/enchstyle/a-call-to-action-for-the-xrpl-community-why-we-must-veto-amendments-3oga)
 <!-- BLOG-POST-LIST:END -->
 
