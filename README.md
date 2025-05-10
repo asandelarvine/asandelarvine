@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitcoin: Bridging Open Source, Blockchain, and Sustainable Funding](https://dev.to/vitalisorenko/gitcoin-bridging-open-source-blockchain-and-sustainable-funding-1he4)
-- [Building immutable collection dynamically in Kotlin](https://dev.to/cyrilsahula/building-immutable-collection-dynamically-in-kotlin-13g2)
-- [How to Calculate R0, R1, and C1 Parameters for RC Circuits?](https://dev.to/generatecodedev/how-to-calculate-r0-r1-and-c1-parameters-for-rc-circuits-33g6)
-- [Linux System Hardening: Essential Security Practices for Servers](https://dev.to/caffinecoder54/linux-system-hardening-essential-security-practices-for-servers-5e49)
+- [AI in Linux: Powering the Future from the Command Line](https://dev.to/marzena_pugo_b8978575380f/ai-in-linux-powering-the-future-from-the-command-line-42lh)
+- [10 Git Commands Every DevOps Engineer Should Know – Essential Tips &amp; Pro Tricks](https://dev.to/yash_sonawane25/10-git-commands-every-devops-engineer-should-know-essential-tips-pro-tricks-1cof)
+- [Connecting Claude Tools to Hashnode using MCP Server](https://dev.to/sbmagar13/connecting-claude-tools-to-hashnode-using-mcp-server-lin)
+- [How to Fix &#39;flutter_launcher_icons&#39; Not Finding Image Paths?](https://dev.to/generatecodedev/how-to-fix-flutterlaunchericons-not-finding-image-paths-4fkf)
 <!-- BLOG-POST-LIST:END -->
 
