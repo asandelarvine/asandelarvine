@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-math-quick-additions-and-subtractions-for-software-developers-5eg4)
-- [Open Source Project Sponsorship Platforms: Empowering Innovation](https://dev.to/ahmmrizv9/open-source-project-sponsorship-platforms-empowering-innovation-14oc)
-- [How to Fix Image Loading Issues in Flutter with YouTube Thumbnails?](https://dev.to/generatecodedev/how-to-fix-image-loading-issues-in-flutter-with-youtube-thumbnails-3nc7)
-- [Understanding Future and Stream in Dart](https://dev.to/vlopess/understanding-future-and-stream-in-dart-1246)
+- [Gitcoin: Bridging Open Source, Blockchain, and Sustainable Funding](https://dev.to/vitalisorenko/gitcoin-bridging-open-source-blockchain-and-sustainable-funding-1he4)
+- [Building immutable collection dynamically in Kotlin](https://dev.to/cyrilsahula/building-immutable-collection-dynamically-in-kotlin-13g2)
+- [How to Calculate R0, R1, and C1 Parameters for RC Circuits?](https://dev.to/generatecodedev/how-to-calculate-r0-r1-and-c1-parameters-for-rc-circuits-33g6)
+- [Linux System Hardening: Essential Security Practices for Servers](https://dev.to/caffinecoder54/linux-system-hardening-essential-security-practices-for-servers-5e49)
 <!-- BLOG-POST-LIST:END -->
 
