@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Post](https://dev.to/xiaodayuda/my-first-post-4j45)
-- [Amazon RDS Unlocked: Your Ultimate Guide to Managed Databases in AWS &lpar;2025 Edition&rpar;](https://dev.to/pkkolla/amazon-rds-unlocked-your-ultimate-guide-to-managed-databases-in-aws-2025-edition-4cbk)
-- [Laravel 12 API Integration with Sanctum: Step-by-Step Guide](https://dev.to/mamondev193/laravel-12-api-integration-with-sanctum-step-by-step-guide-2hio)
-- [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
+- [Deploying and Exposing Go Apps with Kubernetes Ingress, Part 2](https://dev.to/olymahmud/deploying-and-exposing-go-apps-with-kubernetes-ingress-part-2-2232)
+- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
+- [Trying to Build in Public — But Reddit Keeps Silencing Me](https://dev.to/barret_kc/trying-to-build-in-public-but-reddit-keeps-silencing-me-24p4)
+- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
 <!-- BLOG-POST-LIST:END -->
 
