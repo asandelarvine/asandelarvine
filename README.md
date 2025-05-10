@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A Secure AI App Store: The Future of Privacy and Innovation](https://dev.to/jetthoughts/building-a-secure-ai-app-store-the-future-of-privacy-and-innovation-3jmi)
-- [Rust or Zig: The Battle for the Future of Systems Programming](https://dev.to/code_area_9036c9663233d92/rust-or-zig-the-battle-for-the-future-of-systems-programming-18oi)
-- [Two Worlds, One Goal: Creating Balance.](https://dev.to/dhis_is_jj/two-worlds-one-goal-creating-balance-1ckk)
-- [5 Killer Habits: Be A Rebel- A Manifesto for the Modern Maverick](https://dev.to/ayisha_thabassum_/5-killer-habits-be-a-rebel-a-manifesto-for-the-modern-maverick-2h33)
+- [Introducing QitOps: A Unified CLI for API, Performance, and Security Testing](https://dev.to/qitops/introducing-qitops-a-unified-cli-for-api-performance-and-security-testing-pal)
+- [Sustainable Funding for Open Source: Navigating Challenges and Emerging Innovations](https://dev.to/ahmmrizv9/sustainable-funding-for-open-source-navigating-challenges-and-emerging-innovations-f5e)
+- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
+- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
 <!-- BLOG-POST-LIST:END -->
 
