@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why java don&#39;t have her own Pandas and numPy Libraries??](https://dev.to/mousomashakel/why-java-dont-have-her-own-pandas-and-numpy-libraries-817)
-- [duq duq goose!](https://dev.to/scarabdata/duq-duq-goose-c4n)
-- [How to Fix Flutter &#39;checkDevDebugAarMetadata&#39; Error?](https://dev.to/generatecodedev/how-to-fix-flutter-checkdevdebugaarmetadata-error-do4)
-- [DOOM...*rendered* using a single DIV and CSS! 🤯🔫💥](https://dev.to/grahamthedev/doomrendered-using-a-single-div-and-css-1fal)
+- [Installing Bun on WSL2 with Homebrew](https://dev.to/0xkoji/installing-bun-on-wsl2-with-homebrew-16hh)
+- [Why is the URL parameter None in FastAPI from Next.js?](https://dev.to/generatecodedev/why-is-the-url-parameter-none-in-fastapi-from-nextjs-jda)
+- [Building Legal AI Tools: Challenges Developers Need to Know Before Writing a Single Line of Code](https://dev.to/__c1eb674788c/building-legal-ai-tools-challenges-developers-need-to-know-before-writing-a-single-line-of-code-4j38)
+- [Understanding Computers: A Beginner’s Guide to Digital Brains](https://dev.to/tpointtechblog/understanding-computers-a-beginners-guide-to-digital-brains-2b2b)
 <!-- BLOG-POST-LIST:END -->
 
