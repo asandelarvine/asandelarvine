@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Compiler is now in RC! No more manual memoization — just write React, and the compiler optimizes it for you. Still experimental, but a big leap forward. 🔗 https://react.dev/blog/2025/04/21/react-compiler-rc #react #javascript #webdev](https://dev.to/dzienisz/react-compiler-is-now-in-rc-no-more-manual-memoization-just-write-react-and-the-compiler-1inm)
-- [Implementing a Scalable Filtering and Segmentation Panel for Large-Scale MongoDB Database](https://dev.to/devaaai/implementing-a-scalable-filtering-and-segmentation-panel-for-large-scale-mongodb-database-37fh)
-- [How to Add Custom Fields to HubSpot Forms with ClickPatrol?](https://dev.to/generatecodedev/how-to-add-custom-fields-to-hubspot-forms-with-clickpatrol-145i)
-- [Essential Collaboration Tools for Remote Development Teams](https://dev.to/jetthoughts/essential-collaboration-tools-for-remote-development-teams-2n8f)
+- [I Built an AI Platform That Lets You Create Your Digital Twin — Here&#39;s How It Works](https://dev.to/farazfo/i-built-an-ai-platform-that-lets-you-create-your-digital-twin-heres-how-it-works-28ba)
+- [What is Jackson? The Open Source Business Model, Funding, and Community – A Deep Dive](https://dev.to/ahmmrizv9/what-is-jackson-the-open-source-business-model-funding-and-community-a-deep-dive-22db)
+- [209/365 | ¥10M Job Challenge - Tied Down in Japan](https://dev.to/kameken100/209365-y10m-job-challenge-tied-down-in-japan-1m6n)
+- [How can I persist macOS Accessibility API permissions in Swift?](https://dev.to/generatecodedev/how-can-i-persist-macos-accessibility-api-permissions-in-swift-3a1c)
 <!-- BLOG-POST-LIST:END -->
 
