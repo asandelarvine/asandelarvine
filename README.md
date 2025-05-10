@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Lombok? Unpacking the Open Source Business Model, Funding Strategies, and Community Impact](https://dev.to/ashucommits/what-is-lombok-unpacking-the-open-source-business-model-funding-strategies-and-community-impact-61m)
-- [BankNifty Algorithmic Trading System: Powered by Amazon Q Developer](https://dev.to/drishan_gupta_d4e2a552ce1/banknifty-algorithmic-trading-system-powered-by-amazon-q-developer-2hp9)
-- [[Boost]](https://dev.to/lizeeraphael/-em0)
-- [GitLab CI vs. GitHub Actions: Which CI/CD Giant Fits Your Workflow? 🚀](https://dev.to/alex_aslam/gitlab-ci-vs-github-actions-which-cicd-giant-fits-your-workflow-4mp1)
+- [How to Manage Departments and Users in C# EF Core](https://dev.to/generatecodedev/how-to-manage-departments-and-users-in-c-ef-core-23n6)
+- [How to Use Libuv In Your Zig Project](https://dev.to/pmbanugo/how-to-use-libuv-in-your-zig-project-4ije)
+- [When cert-manager meets Essendi XC](https://dev.to/angeloxx/when-cert-manager-meets-essendi-xc-27ni)
+- [Real-time Deepfakes: what if &quot;seeing is believing&quot; no longer means anything?](https://dev.to/spacexnu/real-time-deepfakes-what-if-seeing-is-believing-no-longer-means-anything-2248)
 <!-- BLOG-POST-LIST:END -->
 
