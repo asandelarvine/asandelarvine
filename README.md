@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project made with latest Angular 19 features](https://dev.to/anubedam/project-made-with-latest-angular-19-features-48op)
-- [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
-- [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
-- [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
+- [Why java don&#39;t have her own Pandas and numPy Libraries??](https://dev.to/mousomashakel/why-java-dont-have-her-own-pandas-and-numpy-libraries-817)
+- [duq duq goose!](https://dev.to/scarabdata/duq-duq-goose-c4n)
+- [How to Fix Flutter &#39;checkDevDebugAarMetadata&#39; Error?](https://dev.to/generatecodedev/how-to-fix-flutter-checkdevdebugaarmetadata-error-do4)
+- [DOOM...*rendered* using a single DIV and CSS! 🤯🔫💥](https://dev.to/grahamthedev/doomrendered-using-a-single-div-and-css-1fal)
 <!-- BLOG-POST-LIST:END -->
 
