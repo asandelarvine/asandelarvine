@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Linux: Powering the Future from the Command Line](https://dev.to/marzena_pugo_b8978575380f/ai-in-linux-powering-the-future-from-the-command-line-42lh)
-- [10 Git Commands Every DevOps Engineer Should Know – Essential Tips &amp; Pro Tricks](https://dev.to/yash_sonawane25/10-git-commands-every-devops-engineer-should-know-essential-tips-pro-tricks-1cof)
-- [Connecting Claude Tools to Hashnode using MCP Server](https://dev.to/sbmagar13/connecting-claude-tools-to-hashnode-using-mcp-server-lin)
-- [How to Fix &#39;flutter_launcher_icons&#39; Not Finding Image Paths?](https://dev.to/generatecodedev/how-to-fix-flutterlaunchericons-not-finding-image-paths-4fkf)
+- [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
+- [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
+- [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
+- [◼️1/100 Block-by-Block: Learning Resources](https://dev.to/nocibambi/1100-block-by-block-learning-resources-2598)
 <!-- BLOG-POST-LIST:END -->
 
