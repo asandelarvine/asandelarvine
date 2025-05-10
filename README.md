@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines for the first projects...](https://dev.to/raad_shahamat/guidelines-for-the-first-projects-1o26)
-- [Postman Was My Therapist: How I Finally Mastered APIs by Talking to Them Directly](https://dev.to/arbythecoder/postman-was-my-therapist-how-i-finally-mastered-apis-by-talking-to-them-directly-2309)
-- [Kaltrinkeda e os Novos Avanços.](https://dev.to/notmadebyahuman/kaltrinkeda-e-os-novos-avancos-57l)
-- [Kaltrinkeda and the New Advances](https://dev.to/notmadebyahuman_english/kaltrinkeda-and-the-new-advances-o8k)
+- [Sobre operações comutativas e associativas](https://dev.to/jeffque/sobre-operacoes-comutativas-e-associativas-1hg)
+- [Picklepong: An 8-bit TRON-inspired Pong game!](https://dev.to/itskalii/picklepong-an-8-bit-tron-inspired-pong-game-kg6)
+- [GitHub Projects My Way](https://dev.to/vst/github-projects-my-way-260m)
+- [How to Reduce Duplication of Method Implementations in Go](https://dev.to/generatecodedev/how-to-reduce-duplication-of-method-implementations-in-go-5c0i)
 <!-- BLOG-POST-LIST:END -->
 
