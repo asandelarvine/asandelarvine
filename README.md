@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Bun on WSL2 with Homebrew](https://dev.to/0xkoji/installing-bun-on-wsl2-with-homebrew-16hh)
-- [Why is the URL parameter None in FastAPI from Next.js?](https://dev.to/generatecodedev/why-is-the-url-parameter-none-in-fastapi-from-nextjs-jda)
-- [Building Legal AI Tools: Challenges Developers Need to Know Before Writing a Single Line of Code](https://dev.to/__c1eb674788c/building-legal-ai-tools-challenges-developers-need-to-know-before-writing-a-single-line-of-code-4j38)
-- [Understanding Computers: A Beginner’s Guide to Digital Brains](https://dev.to/tpointtechblog/understanding-computers-a-beginners-guide-to-digital-brains-2b2b)
+- [Building A Secure AI App Store: The Future of Privacy and Innovation](https://dev.to/jetthoughts/building-a-secure-ai-app-store-the-future-of-privacy-and-innovation-3jmi)
+- [Rust or Zig: The Battle for the Future of Systems Programming](https://dev.to/code_area_9036c9663233d92/rust-or-zig-the-battle-for-the-future-of-systems-programming-18oi)
+- [Two Worlds, One Goal: Creating Balance.](https://dev.to/dhis_is_jj/two-worlds-one-goal-creating-balance-1ckk)
+- [5 Killer Habits: Be A Rebel- A Manifesto for the Modern Maverick](https://dev.to/ayisha_thabassum_/5-killer-habits-be-a-rebel-a-manifesto-for-the-modern-maverick-2h33)
 <!-- BLOG-POST-LIST:END -->
 
