@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and Exposing Go Apps with Kubernetes Ingress, Part 2](https://dev.to/olymahmud/deploying-and-exposing-go-apps-with-kubernetes-ingress-part-2-2232)
-- [Crushing the Command Line: How I Used Amazon Q to Build a Smarter FastAPI Scaffolder](https://dev.to/ken_mwaura1/crushing-the-command-line-how-i-used-amazon-q-to-build-a-smarter-fastapi-scaffolder-3c45)
-- [Trying to Build in Public — But Reddit Keeps Silencing Me](https://dev.to/barret_kc/trying-to-build-in-public-but-reddit-keeps-silencing-me-24p4)
-- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
+- [🔐 Stop hardcoding secrets: generate `.env` files from AWS SSM with a simple CLI](https://dev.to/macalbert/stop-hardcoding-secrets-generate-env-files-from-aws-ssm-with-a-simple-cli-f77)
+- [Neurosell launched a major update to Virton AI and talk about future development plans](https://dev.to/devsdaddy/neurosell-launched-a-major-update-to-virton-ai-and-talk-about-future-development-plans-50p9)
+- [Truthy and Falsy in JS: What Every Developer Should Know](https://dev.to/abuhorairatarif/truthy-and-falsy-in-js-what-every-developer-should-know-3c59)
+- [Unlocking Innovation: How the AI Code Generator is Transforming Software Development in 2025](https://dev.to/atforeveryoung/unlocking-innovation-how-the-ai-code-generator-is-transforming-software-development-in-2025-3l9n)
 <!-- BLOG-POST-LIST:END -->
 
