@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Stop hardcoding secrets: generate `.env` files from AWS SSM with a simple CLI](https://dev.to/macalbert/stop-hardcoding-secrets-generate-env-files-from-aws-ssm-with-a-simple-cli-f77)
-- [Neurosell launched a major update to Virton AI and talk about future development plans](https://dev.to/devsdaddy/neurosell-launched-a-major-update-to-virton-ai-and-talk-about-future-development-plans-50p9)
-- [Truthy and Falsy in JS: What Every Developer Should Know](https://dev.to/abuhorairatarif/truthy-and-falsy-in-js-what-every-developer-should-know-3c59)
-- [Unlocking Innovation: How the AI Code Generator is Transforming Software Development in 2025](https://dev.to/atforeveryoung/unlocking-innovation-how-the-ai-code-generator-is-transforming-software-development-in-2025-3l9n)
+- [Guidelines for the first projects...](https://dev.to/raad_shahamat/guidelines-for-the-first-projects-1o26)
+- [Postman Was My Therapist: How I Finally Mastered APIs by Talking to Them Directly](https://dev.to/arbythecoder/postman-was-my-therapist-how-i-finally-mastered-apis-by-talking-to-them-directly-2309)
+- [Kaltrinkeda e os Novos Avanços.](https://dev.to/notmadebyahuman/kaltrinkeda-e-os-novos-avancos-57l)
+- [Kaltrinkeda and the New Advances](https://dev.to/notmadebyahuman_english/kaltrinkeda-and-the-new-advances-o8k)
 <!-- BLOG-POST-LIST:END -->
 
