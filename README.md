@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-math-quick-additions-and-subtractions-for-software-developers-5eg4)
+- [Open Source Project Sponsorship Platforms: Empowering Innovation](https://dev.to/ahmmrizv9/open-source-project-sponsorship-platforms-empowering-innovation-14oc)
+- [How to Fix Image Loading Issues in Flutter with YouTube Thumbnails?](https://dev.to/generatecodedev/how-to-fix-image-loading-issues-in-flutter-with-youtube-thumbnails-3nc7)
 - [Understanding Future and Stream in Dart](https://dev.to/vlopess/understanding-future-and-stream-in-dart-1246)
-- [💍 aws-vault-lite: One AWS Secret to Rule Them All](https://dev.to/fabiocore/aws-vault-lite-one-aws-secret-to-rule-them-all-h6e)
-- [💹 Build a Real-Time Crypto Arbitrage Bot Using Python and Graph Theory](https://dev.to/timothy4826/build-a-real-time-crypto-arbitrage-bot-using-python-and-graph-theory-3ep6)
-- [I dropped a post blog over on Ko-Fi about exploring Python GUI frameworks! https://ko-fi.com/barbarossalivesgamestudio](https://dev.to/monte_bruce/i-dropped-a-post-blog-over-on-ko-fi-about-exploring-python-gui-frameworks-9lk)
 <!-- BLOG-POST-LIST:END -->
 
