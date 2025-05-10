@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Departments and Users in C# EF Core](https://dev.to/generatecodedev/how-to-manage-departments-and-users-in-c-ef-core-23n6)
-- [How to Use Libuv In Your Zig Project](https://dev.to/pmbanugo/how-to-use-libuv-in-your-zig-project-4ije)
-- [When cert-manager meets Essendi XC](https://dev.to/angeloxx/when-cert-manager-meets-essendi-xc-27ni)
-- [Real-time Deepfakes: what if &quot;seeing is believing&quot; no longer means anything?](https://dev.to/spacexnu/real-time-deepfakes-what-if-seeing-is-believing-no-longer-means-anything-2248)
+- [Why All The Fuss About Attorney Lawyer Mesothelioma?](https://dev.to/eelcrop8/why-all-the-fuss-about-attorney-lawyer-mesothelioma-23am)
+- [HarmonyOS NEXT Development Case: Reversi &lpar;Othello&rpar;](https://dev.to/zhongcx/harmonyos-next-development-case-reversi-othello-3m3b)
+- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
+- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
 <!-- BLOG-POST-LIST:END -->
 
