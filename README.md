@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Project made with latest Angular 19 features](https://dev.to/anubedam/project-made-with-latest-angular-19-features-48op)
 - [Building &lpar;PWAs&rpar; with Vue.js &amp; Ionic](https://dev.to/dct_technology/building-pwas-with-vuejs-ionic-1li1)
 - [Code Whisperer Time Machine](https://dev.to/zareen/code-whisperer-time-machine-143b)
 - [How to Implement Instance Counters with Class-Level Variables in Ruby?](https://dev.to/generatecodedev/how-to-implement-instance-counters-with-class-level-variables-in-ruby-187m)
-- [◼️1/100 Block-by-Block: Learning Resources](https://dev.to/nocibambi/1100-block-by-block-learning-resources-2598)
 <!-- BLOG-POST-LIST:END -->
 
