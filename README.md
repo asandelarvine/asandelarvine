@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sobre operações comutativas e associativas](https://dev.to/jeffque/sobre-operacoes-comutativas-e-associativas-1hg)
-- [Picklepong: An 8-bit TRON-inspired Pong game!](https://dev.to/itskalii/picklepong-an-8-bit-tron-inspired-pong-game-kg6)
-- [GitHub Projects My Way](https://dev.to/vst/github-projects-my-way-260m)
-- [How to Reduce Duplication of Method Implementations in Go](https://dev.to/generatecodedev/how-to-reduce-duplication-of-method-implementations-in-go-5c0i)
+- [🚀 React Compiler is now in RC! No more manual memoization — just write React, and the compiler optimizes it for you. Still experimental, but a big leap forward. 🔗 https://react.dev/blog/2025/04/21/react-compiler-rc #react #javascript #webdev](https://dev.to/dzienisz/react-compiler-is-now-in-rc-no-more-manual-memoization-just-write-react-and-the-compiler-1inm)
+- [Implementing a Scalable Filtering and Segmentation Panel for Large-Scale MongoDB Database](https://dev.to/devaaai/implementing-a-scalable-filtering-and-segmentation-panel-for-large-scale-mongodb-database-37fh)
+- [How to Add Custom Fields to HubSpot Forms with ClickPatrol?](https://dev.to/generatecodedev/how-to-add-custom-fields-to-hubspot-forms-with-clickpatrol-145i)
+- [Essential Collaboration Tools for Remote Development Teams](https://dev.to/jetthoughts/essential-collaboration-tools-for-remote-development-teams-2n8f)
 <!-- BLOG-POST-LIST:END -->
 
