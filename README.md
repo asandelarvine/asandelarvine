@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing QitOps: A Unified CLI for API, Performance, and Security Testing](https://dev.to/qitops/introducing-qitops-a-unified-cli-for-api-performance-and-security-testing-pal)
-- [Sustainable Funding for Open Source: Navigating Challenges and Emerging Innovations](https://dev.to/ahmmrizv9/sustainable-funding-for-open-source-navigating-challenges-and-emerging-innovations-f5e)
-- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
-- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
+- [Day 17/ 30 Days of Linux Mastery: Grep Command](https://dev.to/amandaigwe/day-17-30-days-of-linux-mastery-grep-command-2ccd)
+- [Learning Elixir: Named Functions](https://dev.to/abreujp/learning-elixir-named-functions-4e7d)
+- [Why You Should Care About the Agent2Agent &lpar;A2A&rpar; Protocol as a Developer](https://dev.to/blurbify/why-you-should-care-about-the-agent2agent-a2a-protocol-as-a-developer-13n4)
+- [Deploying and Exposing Go Apps with Kubernetes Ingress, Part 1](https://dev.to/olymahmud/deploying-and-exposing-go-apps-with-kubernetes-ingress-part-1-2ck0)
 <!-- BLOG-POST-LIST:END -->
 
