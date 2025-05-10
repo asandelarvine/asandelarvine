@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17/ 30 Days of Linux Mastery: Grep Command](https://dev.to/amandaigwe/day-17-30-days-of-linux-mastery-grep-command-2ccd)
-- [Learning Elixir: Named Functions](https://dev.to/abreujp/learning-elixir-named-functions-4e7d)
-- [Why You Should Care About the Agent2Agent &lpar;A2A&rpar; Protocol as a Developer](https://dev.to/blurbify/why-you-should-care-about-the-agent2agent-a2a-protocol-as-a-developer-13n4)
-- [Deploying and Exposing Go Apps with Kubernetes Ingress, Part 1](https://dev.to/olymahmud/deploying-and-exposing-go-apps-with-kubernetes-ingress-part-1-2ck0)
+- [AWS ECR with Endpoints - Access Errors](https://dev.to/dilusha_rasanjana/aws-ecr-with-endpoints-access-errors-4k5j)
+- [Fragment Telegram and TON Blockchain: Revolutionizing Digital Transactions and Communication](https://dev.to/vitalisorenko/fragment-telegram-and-ton-blockchain-revolutionizing-digital-transactions-and-communication-16i4)
+- [We&#39;re Building EComToken — Looking for Devs &amp; Community Support!](https://dev.to/ecomtoken/were-building-ecomtoken-looking-for-devs-community-support-6hg)
+- [How to Implement OAuth2 Client Credentials Flow in Kotlin](https://dev.to/generatecodedev/how-to-implement-oauth2-client-credentials-flow-in-kotlin-31kh)
 <!-- BLOG-POST-LIST:END -->
 
