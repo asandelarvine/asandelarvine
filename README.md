@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Platform That Lets You Create Your Digital Twin — Here&#39;s How It Works](https://dev.to/farazfo/i-built-an-ai-platform-that-lets-you-create-your-digital-twin-heres-how-it-works-28ba)
-- [What is Jackson? The Open Source Business Model, Funding, and Community – A Deep Dive](https://dev.to/ahmmrizv9/what-is-jackson-the-open-source-business-model-funding-and-community-a-deep-dive-22db)
-- [209/365 | ¥10M Job Challenge - Tied Down in Japan](https://dev.to/kameken100/209365-y10m-job-challenge-tied-down-in-japan-1m6n)
-- [How can I persist macOS Accessibility API permissions in Swift?](https://dev.to/generatecodedev/how-can-i-persist-macos-accessibility-api-permissions-in-swift-3a1c)
+- [What is Lombok? Unpacking the Open Source Business Model, Funding Strategies, and Community Impact](https://dev.to/ashucommits/what-is-lombok-unpacking-the-open-source-business-model-funding-strategies-and-community-impact-61m)
+- [BankNifty Algorithmic Trading System: Powered by Amazon Q Developer](https://dev.to/drishan_gupta_d4e2a552ce1/banknifty-algorithmic-trading-system-powered-by-amazon-q-developer-2hp9)
+- [[Boost]](https://dev.to/lizeeraphael/-em0)
+- [GitLab CI vs. GitHub Actions: Which CI/CD Giant Fits Your Workflow? 🚀](https://dev.to/alex_aslam/gitlab-ci-vs-github-actions-which-cicd-giant-fits-your-workflow-4mp1)
 <!-- BLOG-POST-LIST:END -->
 
