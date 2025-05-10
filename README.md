@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECR with Endpoints - Access Errors](https://dev.to/dilusha_rasanjana/aws-ecr-with-endpoints-access-errors-4k5j)
-- [Fragment Telegram and TON Blockchain: Revolutionizing Digital Transactions and Communication](https://dev.to/vitalisorenko/fragment-telegram-and-ton-blockchain-revolutionizing-digital-transactions-and-communication-16i4)
-- [We&#39;re Building EComToken — Looking for Devs &amp; Community Support!](https://dev.to/ecomtoken/were-building-ecomtoken-looking-for-devs-community-support-6hg)
-- [How to Implement OAuth2 Client Credentials Flow in Kotlin](https://dev.to/generatecodedev/how-to-implement-oauth2-client-credentials-flow-in-kotlin-31kh)
+- [My First Post](https://dev.to/xiaodayuda/my-first-post-4j45)
+- [Amazon RDS Unlocked: Your Ultimate Guide to Managed Databases in AWS &lpar;2025 Edition&rpar;](https://dev.to/pkkolla/amazon-rds-unlocked-your-ultimate-guide-to-managed-databases-in-aws-2025-edition-4cbk)
+- [Laravel 12 API Integration with Sanctum: Step-by-Step Guide](https://dev.to/mamondev193/laravel-12-api-integration-with-sanctum-step-by-step-guide-2hio)
+- [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
 <!-- BLOG-POST-LIST:END -->
 
