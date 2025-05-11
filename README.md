@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚MY Book Recommender: Powered By Amazon Q Developer](https://dev.to/prasaanth_hari_da28512823/my-book-recommender-powered-by-amazon-q-developer-22a0)
-- [@Transactional in Spring Boot: What Does It Do?](https://dev.to/generatecodedev/transactional-in-spring-boot-what-does-it-do-ekf)
-- [JavaLSM: An LSM Tree Based Key-Value Storage in Java](https://dev.to/sashaonion/javalsm-an-lsm-tree-based-key-value-storage-in-java-5ci6)
-- [From Pixels to Performance – Mastering Frontend Engineering in 2025](https://dev.to/nancy43/from-pixels-to-performance-mastering-frontend-engineering-in-2025-530m)
+- [How to Fix &#39;AttributeError&#39; in KivyMD Toggle Button Implementation?](https://dev.to/generatecodedev/how-to-fix-attributeerror-in-kivymd-toggle-button-implementation-1g83)
+- [HarmonyOS Next billion-level IoT connection middle platform—from compilation optimization to distributed runtime](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-billion-level-iot-connection-middle-platform-from-compilation-optimization-to-24gg)
+- [Hedera Examples Java: Open Source Funding, Community &amp; Blockchain Innovations](https://dev.to/kallileiser/hedera-examples-java-open-source-funding-community-blockchain-innovations-3658)
+- [HarmonyOS Next Financial-Level Distributed Transaction Framework—The Art of High Concurrency and Security](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-financial-level-distributed-transaction-framework-the-art-of-high-concurrency-and-35ai)
 <!-- BLOG-POST-LIST:END -->
 
