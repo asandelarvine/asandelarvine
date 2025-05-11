@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Having Conversations with AI: Are We Bonding?](https://dev.to/carl_tyson/the-psychology-of-having-conversations-with-ai-are-we-bonding-4hnd)
-- [🐍 Mastering Python Virtual Environments: A Practical Guide for Developers](https://dev.to/ashokagr/mastering-python-virtual-environments-a-practical-guide-for-developers-3489)
-- [My Photo Gallery](https://dev.to/praveen_rajtg_fd95510c8/my-photo-gallery-55bm)
-- [What is redis pipeline](https://dev.to/ankitmalikg/what-is-redis-pipeline-11ab)
+- [Latest 50+ Github Repositories Repositories For your Next Project | Github Recap May 10, 2025](https://dev.to/gittech/latest-50-github-repositories-repositories-for-your-next-project-github-recap-may-08-2025-lcj)
+- [Prompt Engineering: The New Kid on the Tech Block or Just Another Buzzword?](https://dev.to/sakethkowtha/prompt-engineering-the-new-kid-on-the-tech-block-or-just-another-buzzword-21fe)
+- [🔋 Powering Precision The Future of Hysteresis Brakes Dynamometers and Motor Testing Systems](https://dev.to/curlerweeder8/powering-precision-the-future-of-hysteresis-brakes-dynamometers-and-motor-testing-systems-1njm)
+- [How to Fix Dropdown Button Issues After Modal Closure?](https://dev.to/generatecodedev/how-to-fix-dropdown-button-issues-after-modal-closure-3fpm)
 <!-- BLOG-POST-LIST:END -->
 
