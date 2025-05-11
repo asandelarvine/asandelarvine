@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is getHashCode&lpar;&rpar; in C# and How to Use It?](https://dev.to/generatecodedev/what-is-gethashcode-in-c-and-how-to-use-it-26jp)
-- [RetroMix DJ: An AI-Enhanced Digital Mixing Experience](https://dev.to/adonaitechnologies/retromix-dj-an-ai-enhanced-digital-mixing-experience-3bil)
-- [Advancements in Software Engineering: Safety, Sustainability, and AI Integration in Contemporary Research](https://dev.to/khanali21/advancements-in-software-engineering-safety-sustainability-and-ai-integration-in-contemporary-1k1i)
-- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
+- [10 underrated tools to level up your UX game—beyond Figma. From responsive testing to copy AI](https://dev.to/swetty_sultania_834f90237/10-underrated-tools-to-level-up-your-ux-game-beyond-figmafrom-responsive-testing-to-copy-ai-12mo)
+- [Which Programming Languages Fuel Today’s Malware Attacks](https://dev.to/alexcybersmith/which-programming-languages-fuel-todays-malware-attacks-3lja)
+- [How to Fix Build Error in Parcel with Tailwind CSS and PostCSS?](https://dev.to/generatecodedev/how-to-fix-build-error-in-parcel-with-tailwind-css-and-postcss-11c)
+- [Building KARL-AI](https://dev.to/theaniketraj/building-karl-ai-23dg)
 <!-- BLOG-POST-LIST:END -->
 
