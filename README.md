@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latest 50+ Github Repositories Repositories For your Next Project | Github Recap May 10, 2025](https://dev.to/gittech/latest-50-github-repositories-repositories-for-your-next-project-github-recap-may-08-2025-lcj)
-- [Prompt Engineering: The New Kid on the Tech Block or Just Another Buzzword?](https://dev.to/sakethkowtha/prompt-engineering-the-new-kid-on-the-tech-block-or-just-another-buzzword-21fe)
-- [🔋 Powering Precision The Future of Hysteresis Brakes Dynamometers and Motor Testing Systems](https://dev.to/curlerweeder8/powering-precision-the-future-of-hysteresis-brakes-dynamometers-and-motor-testing-systems-1njm)
-- [How to Fix Dropdown Button Issues After Modal Closure?](https://dev.to/generatecodedev/how-to-fix-dropdown-button-issues-after-modal-closure-3fpm)
+- [⚡ Introducing Extreme Router: A High-Performance, Plugin Driven JavaScript Router](https://dev.to/liorcodev/introducing-extreme-router-a-high-performance-plugin-driven-javascript-router-262)
+- [How to Optimize 2D Slices in Go: Understanding Capacity](https://dev.to/generatecodedev/how-to-optimize-2d-slices-in-go-understanding-capacity-4d67)
+- [Mental Models for Vector Dimensions](https://dev.to/thatechmaestro/mental-models-for-vector-dimensions-18nc)
+- [Building an Enterprise-Grade AWS CI/CD Pipeline with Terraform](https://dev.to/aws-builders/building-an-enterprise-grade-aws-cicd-pipeline-with-terraform-3fg3)
 <!-- BLOG-POST-LIST:END -->
 
