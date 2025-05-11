@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨💄GlamMate: A Smart Beauty Booking App Powered by Python and Real-Time Notifications📱](https://dev.to/kaniskasri_tsp_27/glammate-a-smart-beauty-booking-app-powered-by-python-and-real-time-notifications-5418)
-- [What does &#39;extend self&#39; do in Ruby modules?](https://dev.to/generatecodedev/what-does-extend-self-do-in-ruby-modules-3k4o)
-- [From Beginner to Builder: My Journey Creating an Open-Source App &lpar;as a non-dev&rpar;](https://dev.to/yell0wsuit/from-beginner-to-builder-my-journey-creating-an-open-source-app-as-a-non-dev-536c)
-- [How to Crack Technical Interviews &lpar;Without Crying&rpar;: A Beginner-Friendly, No-Nonsense Guide for 2025](https://dev.to/piyush_sati_0409/how-to-crack-technical-interviews-without-crying-a-beginner-friendly-no-nonsense-guide-for-2025-2pp)
+- [Generate Git action CI/CD pipeline using Amazon Q CLI](https://dev.to/coder_dragon/generate-git-action-cicd-pipeline-using-amazon-q-cli-3plo)
+- [Teaching Kids: Publishing Their First Website! &lpar;Part 4 of Series&rpar;](https://dev.to/jliter/teaching-kids-publishing-their-first-website-part-4-of-series-5hja)
+- [What is Ocean Protocol Java SDK? The Open Source Business Model, Funding, and Community](https://dev.to/laetitiaperraut/what-is-ocean-protocol-java-sdk-the-open-source-business-model-funding-and-community-1h79)
+- [Should You Be Concerned About &#39;distutils_hack&#39; in Python?](https://dev.to/generatecodedev/should-you-be-concerned-about-distutilshack-in-python-235a)
 <!-- BLOG-POST-LIST:END -->
 
