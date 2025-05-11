@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript + Rust: All You Need in 2025](https://dev.to/criscmd/typescript-rust-all-you-need-in-2025-3dic)
-- [HarmonyOS NEXT Development Case: Counter Application](https://dev.to/zhongcx/harmonyos-next-development-case-counter-application-4bj3)
-- [Why I&#39;m Transitioning to DevOps/SRE: Building My Career in Public](https://dev.to/joshuamichaelhall/why-im-transitioning-to-devopssre-building-my-career-in-public-2ao4)
-- [Don’t Use SQL If Your Client Doesn’t Know What They Want](https://dev.to/criscmd/dont-use-sql-if-your-client-doesnt-know-what-they-want-2hhm)
+- [HarmonyOS NEXT Development Case: Programmer Calculator - HarmonyOS Developer Community](https://dev.to/zhongcx/harmonyos-next-development-case-programmer-calculator-harmonyos-developer-community-3cel)
+- [100 Practical Computer Science Projects with Source Code: From Beginner to Expert](https://dev.to/code_2/100-practical-computer-science-projects-with-source-code-from-beginner-to-expert-i32)
+- [HarmonyOS NEXT Development Case: Latitude and Longitude Distance Calculation](https://dev.to/zhongcx/harmonyos-next-development-case-latitude-and-longitude-distance-calculation-22dn)
+- [🛡️ Cybersecurity 101: How to Stay Safe from Rising Cyber Threats](https://dev.to/ivocreates/cybersecurity-101-how-to-stay-safe-from-rising-cyber-threats-241k)
 <!-- BLOG-POST-LIST:END -->
 
