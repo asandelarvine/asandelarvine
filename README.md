@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix 403 Forbidden Error on Single File Upload in Flutter?](https://dev.to/generatecodedev/how-to-fix-403-forbidden-error-on-single-file-upload-in-flutter-2jk7)
-- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
-- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
-- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
+- [📝 CRUD Operation with Node.js, Express &amp; MongoDB](https://dev.to/ncutixavier/crud-blog-app-with-nodejs-express-mongodb-d42)
+- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
+- [Coding Challenge Practice - Question 6](https://dev.to/tomivan/coding-challenge-practice-question-6-3anm)
+- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
 <!-- BLOG-POST-LIST:END -->
 
