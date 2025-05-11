@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [M.I.A.](https://dev.to/codecara/mia-244i)
-- [How to Exit a Bash Script with an Error Message?](https://dev.to/generatecodedev/how-to-exit-a-bash-script-with-an-error-message-492e)
-- [Jenkins 101: Your First Pipeline Made Easy &lpar;Declarative vs. Scripted&rpar;](https://dev.to/alex_aslam/jenkins-101-your-first-pipeline-made-easy-declarative-vs-scripted-75)
-- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
+- [How to Fix 403 Forbidden Error on Single File Upload in Flutter?](https://dev.to/generatecodedev/how-to-fix-403-forbidden-error-on-single-file-upload-in-flutter-2jk7)
+- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
+- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
+- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
 <!-- BLOG-POST-LIST:END -->
 
