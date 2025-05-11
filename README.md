@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;AttributeError&#39; in KivyMD Toggle Button Implementation?](https://dev.to/generatecodedev/how-to-fix-attributeerror-in-kivymd-toggle-button-implementation-1g83)
-- [HarmonyOS Next billion-level IoT connection middle platform—from compilation optimization to distributed runtime](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-billion-level-iot-connection-middle-platform-from-compilation-optimization-to-24gg)
-- [Hedera Examples Java: Open Source Funding, Community &amp; Blockchain Innovations](https://dev.to/kallileiser/hedera-examples-java-open-source-funding-community-blockchain-innovations-3658)
-- [HarmonyOS Next Financial-Level Distributed Transaction Framework—The Art of High Concurrency and Security](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-financial-level-distributed-transaction-framework-the-art-of-high-concurrency-and-35ai)
+- [✨💄GlamMate: A Smart Beauty Booking App Powered by Python and Real-Time Notifications📱](https://dev.to/kaniskasri_tsp_27/glammate-a-smart-beauty-booking-app-powered-by-python-and-real-time-notifications-5418)
+- [What does &#39;extend self&#39; do in Ruby modules?](https://dev.to/generatecodedev/what-does-extend-self-do-in-ruby-modules-3k4o)
+- [From Beginner to Builder: My Journey Creating an Open-Source App &lpar;as a non-dev&rpar;](https://dev.to/yell0wsuit/from-beginner-to-builder-my-journey-creating-an-open-source-app-as-a-non-dev-536c)
+- [How to Crack Technical Interviews &lpar;Without Crying&rpar;: A Beginner-Friendly, No-Nonsense Guide for 2025](https://dev.to/piyush_sati_0409/how-to-crack-technical-interviews-without-crying-a-beginner-friendly-no-nonsense-guide-for-2025-2pp)
 <!-- BLOG-POST-LIST:END -->
 
