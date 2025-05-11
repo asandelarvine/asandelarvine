@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔁 Blog – Identity Lifecycle Management: Automating Access from Hire to Exit](https://dev.to/amit_ambekar_c022e6732f8d/blog-identity-lifecycle-management-automating-access-from-hire-to-exit-5dlc)
-- [What is an API?](https://dev.to/selfish_dev/what-is-an-api-hee)
-- [Advancing Robotic Intelligence: A Synthesis of Recent Innovations in Autonomous Systems, Manipulation, and Human-Robot I](https://dev.to/khanali21/advancing-robotic-intelligence-a-synthesis-of-recent-innovations-in-autonomous-systems-1nd9)
-- [Odoo 18 redirect to external url after payment](https://dev.to/nitin_solanky_4398ba8994a/odoo-18-redirect-to-external-url-after-payment-1696)
+- [What is getHashCode&lpar;&rpar; in C# and How to Use It?](https://dev.to/generatecodedev/what-is-gethashcode-in-c-and-how-to-use-it-26jp)
+- [RetroMix DJ: An AI-Enhanced Digital Mixing Experience](https://dev.to/adonaitechnologies/retromix-dj-an-ai-enhanced-digital-mixing-experience-3bil)
+- [Advancements in Software Engineering: Safety, Sustainability, and AI Integration in Contemporary Research](https://dev.to/khanali21/advancements-in-software-engineering-safety-sustainability-and-ai-integration-in-contemporary-1k1i)
+- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
 <!-- BLOG-POST-LIST:END -->
 
