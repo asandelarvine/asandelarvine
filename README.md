@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI: 5 Dicas Cruciais para Turbinar a Performance da sua API Python](https://dev.to/gustavogarciapereira/fastapi-5-dicas-cruciais-para-turbinar-a-performance-da-sua-api-python-4l1k)
-- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
-- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
-- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
+- [🚀 Powering Precision The Future of Hysteresis Brakes Dynamometers and Motor Test Systems 🌟](https://dev.to/roomwatch7/powering-precision-the-future-of-hysteresis-brakes-dynamometers-and-motor-test-systems-1fmd)
+- [AI Girlfriends and the Transformation of Modern Relationships](https://dev.to/ryder_andrew/ai-girlfriends-and-the-transformation-of-modern-relationships-moe)
+- [Never Ghosted Again: The Rise of AI Companions in a Lonely World](https://dev.to/eljoooy/never-ghosted-again-the-rise-of-ai-companions-in-a-lonely-world-2iib)
+- [When AI Don&#39;t Ghost: Exploring Digital Companions in Modern Dating](https://dev.to/the_sea_shell/when-ai-dont-ghost-exploring-digital-companions-in-modern-dating-1ia)
 <!-- BLOG-POST-LIST:END -->
 
