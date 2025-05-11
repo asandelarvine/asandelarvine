@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 underrated tools to level up your UX game—beyond Figma. From responsive testing to copy AI](https://dev.to/swetty_sultania_834f90237/10-underrated-tools-to-level-up-your-ux-game-beyond-figmafrom-responsive-testing-to-copy-ai-12mo)
-- [Which Programming Languages Fuel Today’s Malware Attacks](https://dev.to/alexcybersmith/which-programming-languages-fuel-todays-malware-attacks-3lja)
-- [How to Fix Build Error in Parcel with Tailwind CSS and PostCSS?](https://dev.to/generatecodedev/how-to-fix-build-error-in-parcel-with-tailwind-css-and-postcss-11c)
-- [Building KARL-AI](https://dev.to/theaniketraj/building-karl-ai-23dg)
+- [The Psychology of Having Conversations with AI: Are We Bonding?](https://dev.to/carl_tyson/the-psychology-of-having-conversations-with-ai-are-we-bonding-4hnd)
+- [🐍 Mastering Python Virtual Environments: A Practical Guide for Developers](https://dev.to/ashokagr/mastering-python-virtual-environments-a-practical-guide-for-developers-3489)
+- [My Photo Gallery](https://dev.to/praveen_rajtg_fd95510c8/my-photo-gallery-55bm)
+- [What is redis pipeline](https://dev.to/ankitmalikg/what-is-redis-pipeline-11ab)
 <!-- BLOG-POST-LIST:END -->
 
