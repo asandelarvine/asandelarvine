@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why All The Fuss About Attorney Lawyer Mesothelioma?](https://dev.to/eelcrop8/why-all-the-fuss-about-attorney-lawyer-mesothelioma-23am)
-- [HarmonyOS NEXT Development Case: Reversi &lpar;Othello&rpar;](https://dev.to/zhongcx/harmonyos-next-development-case-reversi-othello-3m3b)
-- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
-- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
+- [What Does {sys.executable} -m Mean in Python Code?](https://dev.to/generatecodedev/what-does-sysexecutable-m-mean-in-python-code-2gld)
+- [Real Time Multi-agent System](https://dev.to/pritom02bh/real-time-multi-agent-system-50c1)
+- [How to Fix Flutter Web Release Errors During Build](https://dev.to/generatecodedev/how-to-fix-flutter-web-release-errors-during-build-45k)
+- [Weekly Challenge: The maximum difference](https://dev.to/simongreennet/weekly-challenge-the-maximum-difference-2bnm)
 <!-- BLOG-POST-LIST:END -->
 
