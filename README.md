@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Development Case: Programmer Calculator - HarmonyOS Developer Community](https://dev.to/zhongcx/harmonyos-next-development-case-programmer-calculator-harmonyos-developer-community-3cel)
-- [100 Practical Computer Science Projects with Source Code: From Beginner to Expert](https://dev.to/code_2/100-practical-computer-science-projects-with-source-code-from-beginner-to-expert-i32)
-- [HarmonyOS NEXT Development Case: Latitude and Longitude Distance Calculation](https://dev.to/zhongcx/harmonyos-next-development-case-latitude-and-longitude-distance-calculation-22dn)
-- [🛡️ Cybersecurity 101: How to Stay Safe from Rising Cyber Threats](https://dev.to/ivocreates/cybersecurity-101-how-to-stay-safe-from-rising-cyber-threats-241k)
+- [AI Companions: The Future of Relationships in a Digital World](https://dev.to/ali_pahlavan/ai-companions-the-future-of-relationships-in-a-digital-world-48i3)
+- [9 tricks that separate a pro Typescript developer from an noob 😎](https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd)
+- [&lt;h1&gt;Just how to Get an Original Spanish Vehicle driver&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/mouseland69/just-how-to-get-an-original-spanish-vehicle-drivers-license-in-2025-2en0)
+- [Build a game Under an Hour with SplashKit](https://dev.to/movini/build-a-game-under-an-hour-with-splashkit-1j57)
 <!-- BLOG-POST-LIST:END -->
 
