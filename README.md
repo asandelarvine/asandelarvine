@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Powering Precision The Future of Hysteresis Brakes Dynamometers and Motor Test Systems 🌟](https://dev.to/roomwatch7/powering-precision-the-future-of-hysteresis-brakes-dynamometers-and-motor-test-systems-1fmd)
-- [AI Girlfriends and the Transformation of Modern Relationships](https://dev.to/ryder_andrew/ai-girlfriends-and-the-transformation-of-modern-relationships-moe)
-- [Never Ghosted Again: The Rise of AI Companions in a Lonely World](https://dev.to/eljoooy/never-ghosted-again-the-rise-of-ai-companions-in-a-lonely-world-2iib)
-- [When AI Don&#39;t Ghost: Exploring Digital Companions in Modern Dating](https://dev.to/the_sea_shell/when-ai-dont-ghost-exploring-digital-companions-in-modern-dating-1ia)
+- [M.I.A.](https://dev.to/codecara/mia-244i)
+- [How to Exit a Bash Script with an Error Message?](https://dev.to/generatecodedev/how-to-exit-a-bash-script-with-an-error-message-492e)
+- [Jenkins 101: Your First Pipeline Made Easy &lpar;Declarative vs. Scripted&rpar;](https://dev.to/alex_aslam/jenkins-101-your-first-pipeline-made-easy-declarative-vs-scripted-75)
+- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
 <!-- BLOG-POST-LIST:END -->
 
