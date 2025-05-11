@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Companions: The Future of Relationships in a Digital World](https://dev.to/ali_pahlavan/ai-companions-the-future-of-relationships-in-a-digital-world-48i3)
-- [9 tricks that separate a pro Typescript developer from an noob 😎](https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd)
-- [&lt;h1&gt;Just how to Get an Original Spanish Vehicle driver&#39;s License in 2025&lt;/h1&gt;&lt;br&gt;](https://dev.to/mouseland69/just-how-to-get-an-original-spanish-vehicle-drivers-license-in-2025-2en0)
-- [Build a game Under an Hour with SplashKit](https://dev.to/movini/build-a-game-under-an-hour-with-splashkit-1j57)
+- [Apache Hadoop: Open Source Business Model, Funding, and Community](https://dev.to/ashucommits/apache-hadoop-open-source-business-model-funding-and-community-h69)
+- [Building a Live Search Feature with Phoenix LiveView](https://dev.to/hexshift/building-a-live-search-feature-with-phoenix-liveview-1154)
+- [Building Real-Time Dashboards with Phoenix LiveView](https://dev.to/hexshift/building-real-time-dashboards-with-phoenix-liveview-33pl)
+- [How to Use Structs in Macros for C++ Template Magic?](https://dev.to/generatecodedev/how-to-use-structs-in-macros-for-c-template-magic-5e02)
 <!-- BLOG-POST-LIST:END -->
 
