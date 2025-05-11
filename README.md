@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Introducing Extreme Router: A High-Performance, Plugin Driven JavaScript Router](https://dev.to/liorcodev/introducing-extreme-router-a-high-performance-plugin-driven-javascript-router-262)
-- [How to Optimize 2D Slices in Go: Understanding Capacity](https://dev.to/generatecodedev/how-to-optimize-2d-slices-in-go-understanding-capacity-4d67)
-- [Mental Models for Vector Dimensions](https://dev.to/thatechmaestro/mental-models-for-vector-dimensions-18nc)
-- [Building an Enterprise-Grade AWS CI/CD Pipeline with Terraform](https://dev.to/aws-builders/building-an-enterprise-grade-aws-cicd-pipeline-with-terraform-3fg3)
+- [📚MY Book Recommender: Powered By Amazon Q Developer](https://dev.to/prasaanth_hari_da28512823/my-book-recommender-powered-by-amazon-q-developer-22a0)
+- [@Transactional in Spring Boot: What Does It Do?](https://dev.to/generatecodedev/transactional-in-spring-boot-what-does-it-do-ekf)
+- [JavaLSM: An LSM Tree Based Key-Value Storage in Java](https://dev.to/sashaonion/javalsm-an-lsm-tree-based-key-value-storage-in-java-5ci6)
+- [From Pixels to Performance – Mastering Frontend Engineering in 2025](https://dev.to/nancy43/from-pixels-to-performance-mastering-frontend-engineering-in-2025-530m)
 <!-- BLOG-POST-LIST:END -->
 
