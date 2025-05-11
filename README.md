@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Design Patterns](https://dev.to/godofgeeks/javascript-design-patterns-4ci5)
-- [My Second Month as an LFX Mentee: Advancing Microcks Deployments](https://dev.to/alikhere/my-second-month-as-an-lfx-mentee-advancing-microcks-deployments-bp1)
-- [From Curiosity to Code — My Self-Taught Dev Journey](https://dev.to/sayyed_rabeeh/from-curiosity-to-code-my-self-taught-dev-journey-46d9)
-- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
+- [🔁 Blog – Identity Lifecycle Management: Automating Access from Hire to Exit](https://dev.to/amit_ambekar_c022e6732f8d/blog-identity-lifecycle-management-automating-access-from-hire-to-exit-5dlc)
+- [What is an API?](https://dev.to/selfish_dev/what-is-an-api-hee)
+- [Advancing Robotic Intelligence: A Synthesis of Recent Innovations in Autonomous Systems, Manipulation, and Human-Robot I](https://dev.to/khanali21/advancing-robotic-intelligence-a-synthesis-of-recent-innovations-in-autonomous-systems-1nd9)
+- [Odoo 18 redirect to external url after payment](https://dev.to/nitin_solanky_4398ba8994a/odoo-18-redirect-to-external-url-after-payment-1696)
 <!-- BLOG-POST-LIST:END -->
 
