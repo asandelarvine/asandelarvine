@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [◼️2/100: Block-by-Block](https://dev.to/nocibambi/2100-block-by-block-51de)
-- [CampusConnect – A Role-Based College Management Web App](https://dev.to/dhilip_se_8326ffae1858ef/campusconnect-a-role-based-college-management-web-app-30hk)
-- [Language Learning Bot - Amazon Q Developer](https://dev.to/ganga_sris_249f4b671caaa/language-learning-bot-amazon-q-developer-d31)
-- [How to Create a Moving Gradient Background Like Obra Dinn](https://dev.to/generatecodedev/how-to-create-a-moving-gradient-background-like-obra-dinn-48hk)
+- [FastAPI: 5 Dicas Cruciais para Turbinar a Performance da sua API Python](https://dev.to/gustavogarciapereira/fastapi-5-dicas-cruciais-para-turbinar-a-performance-da-sua-api-python-4l1k)
+- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
+- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
+- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
 <!-- BLOG-POST-LIST:END -->
 
