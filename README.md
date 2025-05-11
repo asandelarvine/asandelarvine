@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Hadoop: Open Source Business Model, Funding, and Community](https://dev.to/ashucommits/apache-hadoop-open-source-business-model-funding-and-community-h69)
-- [Building a Live Search Feature with Phoenix LiveView](https://dev.to/hexshift/building-a-live-search-feature-with-phoenix-liveview-1154)
-- [Building Real-Time Dashboards with Phoenix LiveView](https://dev.to/hexshift/building-real-time-dashboards-with-phoenix-liveview-33pl)
-- [How to Use Structs in Macros for C++ Template Magic?](https://dev.to/generatecodedev/how-to-use-structs-in-macros-for-c-template-magic-5e02)
+- [JavaScript Design Patterns](https://dev.to/godofgeeks/javascript-design-patterns-4ci5)
+- [My Second Month as an LFX Mentee: Advancing Microcks Deployments](https://dev.to/alikhere/my-second-month-as-an-lfx-mentee-advancing-microcks-deployments-bp1)
+- [From Curiosity to Code — My Self-Taught Dev Journey](https://dev.to/sayyed_rabeeh/from-curiosity-to-code-my-self-taught-dev-journey-46d9)
+- [The Angular Learning Curve in 2025: A Roadmap for New Developers](https://dev.to/karol_modelski/the-angular-learning-curve-in-2025-a-roadmap-for-new-developers-e0o)
 <!-- BLOG-POST-LIST:END -->
 
