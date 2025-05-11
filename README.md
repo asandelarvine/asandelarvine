@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does {sys.executable} -m Mean in Python Code?](https://dev.to/generatecodedev/what-does-sysexecutable-m-mean-in-python-code-2gld)
-- [Real Time Multi-agent System](https://dev.to/pritom02bh/real-time-multi-agent-system-50c1)
-- [How to Fix Flutter Web Release Errors During Build](https://dev.to/generatecodedev/how-to-fix-flutter-web-release-errors-during-build-45k)
-- [Weekly Challenge: The maximum difference](https://dev.to/simongreennet/weekly-challenge-the-maximum-difference-2bnm)
+- [TypeScript + Rust: All You Need in 2025](https://dev.to/criscmd/typescript-rust-all-you-need-in-2025-3dic)
+- [HarmonyOS NEXT Development Case: Counter Application](https://dev.to/zhongcx/harmonyos-next-development-case-counter-application-4bj3)
+- [Why I&#39;m Transitioning to DevOps/SRE: Building My Career in Public](https://dev.to/joshuamichaelhall/why-im-transitioning-to-devopssre-building-my-career-in-public-2ao4)
+- [Don’t Use SQL If Your Client Doesn’t Know What They Want](https://dev.to/criscmd/dont-use-sql-if-your-client-doesnt-know-what-they-want-2hhm)
 <!-- BLOG-POST-LIST:END -->
 
