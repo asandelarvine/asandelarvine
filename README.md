@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Git action CI/CD pipeline using Amazon Q CLI](https://dev.to/coder_dragon/generate-git-action-cicd-pipeline-using-amazon-q-cli-3plo)
-- [Teaching Kids: Publishing Their First Website! &lpar;Part 4 of Series&rpar;](https://dev.to/jliter/teaching-kids-publishing-their-first-website-part-4-of-series-5hja)
-- [What is Ocean Protocol Java SDK? The Open Source Business Model, Funding, and Community](https://dev.to/laetitiaperraut/what-is-ocean-protocol-java-sdk-the-open-source-business-model-funding-and-community-1h79)
-- [Should You Be Concerned About &#39;distutils_hack&#39; in Python?](https://dev.to/generatecodedev/should-you-be-concerned-about-distutilshack-in-python-235a)
+- [◼️2/100: Block-by-Block](https://dev.to/nocibambi/2100-block-by-block-51de)
+- [CampusConnect – A Role-Based College Management Web App](https://dev.to/dhilip_se_8326ffae1858ef/campusconnect-a-role-based-college-management-web-app-30hk)
+- [Language Learning Bot - Amazon Q Developer](https://dev.to/ganga_sris_249f4b671caaa/language-learning-bot-amazon-q-developer-d31)
+- [How to Create a Moving Gradient Background Like Obra Dinn](https://dev.to/generatecodedev/how-to-create-a-moving-gradient-background-like-obra-dinn-48hk)
 <!-- BLOG-POST-LIST:END -->
 
