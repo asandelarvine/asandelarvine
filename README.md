@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Broken - Opt out of the data broker nightmare with Privotron and Amazon Q Developer](https://dev.to/mrmemory/data-broken-opt-out-of-the-data-broker-nightmare-with-privotron-and-amazon-q-developer-2omd)
-- [🚀 Scaling a Laravel app? This series breaks down real-world patterns for clean, maintainable, high-performance code. Start here with Part 1 — from DDD to service layers and beyond! #Laravel #Architecture](https://dev.to/prekshashah2509/scaling-a-laravel-app-this-series-breaks-down-real-world-patterns-for-clean-maintainable-fnp)
-- [Thiết Kế Trải Nghiệm Người Dùng Hiệu Quả Với Core Web Vitals: Hướng Dẫn Từ Thực Chiến](https://dev.to/giaminh/thiet-ke-trai-nghiem-nguoi-dung-hieu-qua-voi-core-web-vitals-huong-dan-tu-thuc-chien-20ij)
-- [Experience with Fellou: The World’s First Agentic Browser](https://dev.to/kansm/experience-with-fellou-the-worlds-first-agentic-browser-3lbn)
+- [Destroy service for rxjs observables](https://dev.to/benarambide/destroy-service-for-rxjs-observables-b4f)
+- [Building Fullstack Apps with Next.js 15 and TypeScript](https://dev.to/code_2/building-fullstack-apps-with-nextjs-15-and-typescript-2cpp)
+- [How to Bind Values in CollectionView for MAUI in C#?](https://dev.to/generatecodedev/how-to-bind-values-in-collectionview-for-maui-in-c-c1a)
+- [🌐📘 Understanding the CSS Box Model with a Simple Example 😊💻](https://dev.to/tamilselvan1812/understanding-the-css-box-model-with-a-simple-example-4i6o)
 <!-- BLOG-POST-LIST:END -->
 
