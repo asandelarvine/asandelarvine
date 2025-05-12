@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pros and Cons of Manual vs Automated Accessibility Testing](https://dev.to/maria_bueno/the-pros-and-cons-of-manual-vs-automated-accessibility-testing-12id)
-- [What is OrbitDB? The Open Source Business Model, Funding, and Community](https://dev.to/vitalisorenko/what-is-orbitdb-the-open-source-business-model-funding-and-community-48nf)
-- [Git Native API Client &lpar;free, no login&rpar;](https://dev.to/nikoldimit/git-native-api-client-free-no-login-553n)
-- [Beyond Rasgulla and Gulab Jamun: 10 Hidden Indian Sweets You Need to Taste](https://dev.to/isladavid/beyond-rasgulla-and-gulab-jamun-10-hidden-indian-sweets-you-need-to-taste-58hm)
+- [🕹️ I Turned My Flask App Into a Game — Every API Call Is a Level](https://dev.to/abubaker_siddique_513b7e2/i-turned-my-flask-app-into-a-game-every-api-call-is-a-level-4j5d)
+- [Grok 3 vs o3: A Comprehensive Comparison](https://dev.to/_37bbf0c253c0b3edec531e/grok-3-vs-o3-a-comprehensive-comparison-2gnp)
+- [O cérebro odeia pensar: o poder da interface óbvia](https://dev.to/alissonfcosta/o-cerebro-odeia-pensar-o-poder-da-interface-obvia-4bl0)
+- [I Turned My Terminal Into a Browser Using Python](https://dev.to/abubaker_siddique_513b7e2/i-turned-my-terminal-into-a-browser-using-python-1a75)
 <!-- BLOG-POST-LIST:END -->
 
