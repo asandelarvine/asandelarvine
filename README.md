@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Top 10 IDEs for Web Development in 2025: The Ultimate Showdown 💥](https://dev.to/nish2005karsh/top-10-ides-for-web-development-in-2025-the-ultimate-showdown-1ag6)
-- [Launching Version 1.0 : AI-Powered Mock Interview Platform](https://dev.to/soumilgit/launching-version-10-ai-powered-mock-interview-platform-2n5p)
-- [The Birth Of Your Web3 Product. Stage Three: Developing](https://dev.to/evrecode_lab_2025_bg/the-birth-of-your-web3-product-stage-three-developing-3bhm)
-- [Zero Trust Security Model: Implementation Roadmap](https://dev.to/bridgegroupsolutions/zero-trust-security-model-implementation-roadmap-6gd)
+- [🎉 Build Your Own Chat MCP Client with Next.js⚡](https://dev.to/composiodev/build-your-own-chat-mcp-client-with-nextjs-4a0k)
+- [Google Translate Alternatives: Exploring the Best Translation Tools for Every Need in 2025](https://dev.to/colinreed/google-translate-alternatives-exploring-the-best-translation-tools-for-every-need-in-2025-8ne)
+- [Login page using HTML AND CSS](https://dev.to/neelakandan_ravi/login-page-using-html-and-css-37o6)
+- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-3pd3)
 <!-- BLOG-POST-LIST:END -->
 
