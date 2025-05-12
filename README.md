@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own Web Server — Part 4: Single-threaded non-blocking server](https://dev.to/dmytro_huz/building-your-own-web-server-part-4-single-threaded-non-blocking-server-3h5n)
-- [Back After a Break — Building Something Meaningful!](https://dev.to/techgeniuskaran/back-after-a-break-building-something-meaningful-pfh)
-- [Clean SQL with Comments: Syntax and Practices for All Engines](https://dev.to/dbvismarketing/clean-sql-with-comments-syntax-and-practices-for-all-engines-38df)
-- [Quark’s Outlines: Python Forbidden Characters](https://dev.to/mike-vincent/quarks-outlines-python-forbidden-characters-5chn)
+- [[Boost]](https://dev.to/hamzok/-54la)
+- [How to Retrieve a JSON Object and Access Token in PHP](https://dev.to/generatecodedev/how-to-retrieve-a-json-object-and-access-token-in-php-4213)
+- [Mastering JavaScript for React &lpar;TypeScript Edition&rpar; in 30 Practical Examples](https://dev.to/tishonator/mastering-javascript-for-react-typescript-edition-in-30-practical-examples-30e7)
+- [Introducing Saksh Wallet: A Simple Wallet System for Laravel](https://dev.to/susheel_kumar_2041f5433d2/introducing-saksh-wallet-a-simple-wallet-system-for-laravel-46oa)
 <!-- BLOG-POST-LIST:END -->
 
