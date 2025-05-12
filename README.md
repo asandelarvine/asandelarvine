@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andaman Islands for Solo Travelers: A Safe and Welcoming Destination](https://dev.to/jafar_ahmadabdul_cecc087/andaman-islands-for-solo-travelers-a-safe-and-welcoming-destination-59m6)
-- [Workflow-Level Resilience in Orkes Conductor: Timeouts and Failure Workflows](https://dev.to/orkes/workflow-level-resilience-in-orkes-conductor-timeouts-and-failure-workflows-1nc5)
-- [The Future of Digital Companionship: AI Conversationalists in 2025](https://dev.to/ryder_andrew/the-future-of-digital-companionship-ai-conversationalists-in-2025-1l7k)
-- [Securing Temporary Credentials in AWS: What You Should Be Doing But Probably Aren’t](https://dev.to/ejher/securing-temporary-credentials-in-aws-what-you-should-be-doing-but-probably-arent-24cc)
+- [8 best practices for website monitoring](https://dev.to/manageengineapm/8-best-practices-for-website-monitoring-1i8b)
+- [Astronoby v0.7.0: Planets and ephemerides](https://dev.to/rhannequin/astronoby-v070-planets-and-ephemerides-85b)
+- [🔍 System Reliability Is Built on Code, But Optimized Through Tools: My SRE Journey with Telescope &amp; Blackfire](https://dev.to/mwacharo6/system-reliability-is-built-on-code-but-optimized-through-tools-my-sre-journey-with-telescope--4j2a)
+- [INTEGRATING SEERBIT NODE.JS SDK IN YOUR APPLICATION](https://dev.to/seerbit_developers/integrating-seerbit-nodejs-sdk-in-your-application-445k)
 <!-- BLOG-POST-LIST:END -->
 
