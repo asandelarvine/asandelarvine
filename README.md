@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Build Your Own Chat MCP Client with Next.js⚡](https://dev.to/composiodev/build-your-own-chat-mcp-client-with-nextjs-4a0k)
-- [Google Translate Alternatives: Exploring the Best Translation Tools for Every Need in 2025](https://dev.to/colinreed/google-translate-alternatives-exploring-the-best-translation-tools-for-every-need-in-2025-8ne)
-- [Login page using HTML AND CSS](https://dev.to/neelakandan_ravi/login-page-using-html-and-css-37o6)
-- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-3pd3)
+- [Google’s “Desktop View” Might Just Kill Samsung DeX](https://dev.to/squaredtech/googles-desktop-view-might-just-kill-samsung-dex-4bb5)
+- [Meet Mallient – The email client built for productivity, privacy, and teams](https://dev.to/mallient/meet-mallient-the-email-client-built-for-productivity-privacy-and-teams-3nm7)
+- [Warehouse Security with IoT and Automated Fence Systems](https://dev.to/karen_londres/warehouse-security-with-iot-and-automated-fence-systems-4o57)
+- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;2&rpar;: Building a Multi-Agent Meeting Scheduling System](https://dev.to/jnth/google-agent-sdk-introduction-2-building-a-multi-agent-meeting-scheduling-system-1ach)
 <!-- BLOG-POST-LIST:END -->
 
