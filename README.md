@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Login Page with HTML and CSS &amp; Host Your Project on GitLab...](https://dev.to/a_ramesh/how-to-create-a-login-page-with-html-and-css-host-your-project-on-gitlab-4086)
-- [Best AI Coding Assistant for Beginners and Experts](https://dev.to/keploy/best-ai-coding-assistant-for-beginners-and-experts-4ofi)
-- [Nice to meet you](https://dev.to/jonghwan_park_db47287e25c/nice-to-meet-you-e5l)
-- [Micro-Apps: The New Frontier of Scalable Mobile App Development](https://dev.to/dct_technology/micro-apps-the-new-frontier-of-scalable-mobile-app-development-39n6)
+- [DevOps in Embedded Software? Let’s Be Honest: It Doesn’t Really Exist](https://dev.to/sagge/devops-in-embedded-software-lets-be-honest-it-doesnt-really-exist-199h)
+- [Selecting the Right Java Testing Framework To Ensure Superior Software Quality](https://dev.to/grjoeay/selecting-the-right-java-testing-framework-to-ensure-superior-software-quality-5hdo)
+- [&quot;How to Write Clean and Maintainable Go Code&quot;](https://dev.to/antmusumba/how-to-write-clean-and-maintainable-go-code-57p6)
+- [Unlocking the Power of JavaScript Slice: Essential Tips and Tricks](https://dev.to/tpointtechedu/unlocking-the-power-of-javascript-slice-essential-tips-and-tricks-flg)
 <!-- BLOG-POST-LIST:END -->
 
