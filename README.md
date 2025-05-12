@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 CRUD Operation with Node.js, Express &amp; MongoDB](https://dev.to/ncutixavier/crud-blog-app-with-nodejs-express-mongodb-d42)
-- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
-- [Coding Challenge Practice - Question 6](https://dev.to/tomivan/coding-challenge-practice-question-6-3anm)
-- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
+- [Uso da programação assíncrona em Python visando um sistema responsivo e performático](https://dev.to/wguii/uso-da-programacao-assincrona-em-python-visando-um-sistema-responsivo-e-performatico-20n)
+- [ARQUITETURA REST: PRINCÍPIOS, PADRÕES E APLICABILIDADE NO DESENVOLVIMENTO DE SISTEMAS DISTRIBUÍDOS](https://dev.to/mlaurajeronimo/arquitetura-rest-principios-padroes-e-aplicabilidade-no-desenvolvimento-de-sistemas-distribuidos-24i4)
+- [How to Efficiently Use JAX for Numerical Pipelines](https://dev.to/generatecodedev/how-to-efficiently-use-jax-for-numerical-pipelines-4hmb)
+- [5 Common Workflow Automation Mistakes &lpar;And How to Avoid Them&rpar;](https://dev.to/lonti-davidb/5-common-workflow-automation-mistakes-and-how-to-avoid-them-5hmn)
 <!-- BLOG-POST-LIST:END -->
 
