@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uso da programação assíncrona em Python visando um sistema responsivo e performático](https://dev.to/wguii/uso-da-programacao-assincrona-em-python-visando-um-sistema-responsivo-e-performatico-20n)
-- [ARQUITETURA REST: PRINCÍPIOS, PADRÕES E APLICABILIDADE NO DESENVOLVIMENTO DE SISTEMAS DISTRIBUÍDOS](https://dev.to/mlaurajeronimo/arquitetura-rest-principios-padroes-e-aplicabilidade-no-desenvolvimento-de-sistemas-distribuidos-24i4)
-- [How to Efficiently Use JAX for Numerical Pipelines](https://dev.to/generatecodedev/how-to-efficiently-use-jax-for-numerical-pipelines-4hmb)
-- [5 Common Workflow Automation Mistakes &lpar;And How to Avoid Them&rpar;](https://dev.to/lonti-davidb/5-common-workflow-automation-mistakes-and-how-to-avoid-them-5hmn)
+- [Data Broken - Opt out of the data broker nightmare with Privotron and Amazon Q Developer](https://dev.to/mrmemory/data-broken-opt-out-of-the-data-broker-nightmare-with-privotron-and-amazon-q-developer-2omd)
+- [🚀 Scaling a Laravel app? This series breaks down real-world patterns for clean, maintainable, high-performance code. Start here with Part 1 — from DDD to service layers and beyond! #Laravel #Architecture](https://dev.to/prekshashah2509/scaling-a-laravel-app-this-series-breaks-down-real-world-patterns-for-clean-maintainable-fnp)
+- [Thiết Kế Trải Nghiệm Người Dùng Hiệu Quả Với Core Web Vitals: Hướng Dẫn Từ Thực Chiến](https://dev.to/giaminh/thiet-ke-trai-nghiem-nguoi-dung-hieu-qua-voi-core-web-vitals-huong-dan-tu-thuc-chien-20ij)
+- [Experience with Fellou: The World’s First Agentic Browser](https://dev.to/kansm/experience-with-fellou-the-worlds-first-agentic-browser-3lbn)
 <!-- BLOG-POST-LIST:END -->
 
