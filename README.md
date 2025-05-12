@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 best practices for website monitoring](https://dev.to/manageengineapm/8-best-practices-for-website-monitoring-1i8b)
-- [Astronoby v0.7.0: Planets and ephemerides](https://dev.to/rhannequin/astronoby-v070-planets-and-ephemerides-85b)
-- [🔍 System Reliability Is Built on Code, But Optimized Through Tools: My SRE Journey with Telescope &amp; Blackfire](https://dev.to/mwacharo6/system-reliability-is-built-on-code-but-optimized-through-tools-my-sre-journey-with-telescope--4j2a)
-- [INTEGRATING SEERBIT NODE.JS SDK IN YOUR APPLICATION](https://dev.to/seerbit_developers/integrating-seerbit-nodejs-sdk-in-your-application-445k)
+- [The Pros and Cons of Manual vs Automated Accessibility Testing](https://dev.to/maria_bueno/the-pros-and-cons-of-manual-vs-automated-accessibility-testing-12id)
+- [What is OrbitDB? The Open Source Business Model, Funding, and Community](https://dev.to/vitalisorenko/what-is-orbitdb-the-open-source-business-model-funding-and-community-48nf)
+- [Git Native API Client &lpar;free, no login&rpar;](https://dev.to/nikoldimit/git-native-api-client-free-no-login-553n)
+- [Beyond Rasgulla and Gulab Jamun: 10 Hidden Indian Sweets You Need to Taste](https://dev.to/isladavid/beyond-rasgulla-and-gulab-jamun-10-hidden-indian-sweets-you-need-to-taste-58hm)
 <!-- BLOG-POST-LIST:END -->
 
