@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Join Dark Arts: Anti Joins, Semi Joins, and Beyond](https://dev.to/cristiansifuentes/sql-join-dark-arts-anti-joins-semi-joins-and-beyond-5bmp)
-- [Unveiling GNU Lesser General Public License v3: A Comprehensive Exploration](https://dev.to/bobcars/unveiling-gnu-lesser-general-public-license-v3-a-comprehensive-exploration-52jl)
-- [How to Configure and Use Regex and Myconio in Code::Blocks?](https://dev.to/generatecodedev/how-to-configure-and-use-regex-and-myconio-in-codeblocks-46pl)
-- [StorageManager API for Managing Offline Data](https://dev.to/omriluz1/storagemanager-api-for-managing-offline-data-oon)
+- [The Philosophy of Film Editing](https://dev.to/celebritynews/the-philosophy-of-film-editing-55c5)
+- [Ambient Invisible Intelligent: The seamless Integration of AI](https://dev.to/ifeol/ambient-invisible-intelligent-the-seamless-integration-of-ai-73a)
+- [JavaScript Closure Simplified](https://dev.to/hariclerry/javascript-closure-simplified-f2m)
+- [A Simple Framework for Designing User Interfaces &lpar;for Solo Devs &amp; Small Teams&rpar;](https://dev.to/shayy/a-simple-framework-for-designing-user-interfaces-for-solo-devs-small-teams-36hj)
 <!-- BLOG-POST-LIST:END -->
 
