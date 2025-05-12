@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps in Embedded Software? Let’s Be Honest: It Doesn’t Really Exist](https://dev.to/sagge/devops-in-embedded-software-lets-be-honest-it-doesnt-really-exist-199h)
-- [Selecting the Right Java Testing Framework To Ensure Superior Software Quality](https://dev.to/grjoeay/selecting-the-right-java-testing-framework-to-ensure-superior-software-quality-5hdo)
-- [&quot;How to Write Clean and Maintainable Go Code&quot;](https://dev.to/antmusumba/how-to-write-clean-and-maintainable-go-code-57p6)
-- [Unlocking the Power of JavaScript Slice: Essential Tips and Tricks](https://dev.to/tpointtechedu/unlocking-the-power-of-javascript-slice-essential-tips-and-tricks-flg)
+- [Building Your Own Web Server — Part 4: Single-threaded non-blocking server](https://dev.to/dmytro_huz/building-your-own-web-server-part-4-single-threaded-non-blocking-server-3h5n)
+- [Back After a Break — Building Something Meaningful!](https://dev.to/techgeniuskaran/back-after-a-break-building-something-meaningful-pfh)
+- [Clean SQL with Comments: Syntax and Practices for All Engines](https://dev.to/dbvismarketing/clean-sql-with-comments-syntax-and-practices-for-all-engines-38df)
+- [Quark’s Outlines: Python Forbidden Characters](https://dev.to/mike-vincent/quarks-outlines-python-forbidden-characters-5chn)
 <!-- BLOG-POST-LIST:END -->
 
