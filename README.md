@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Web Dev Business With Just React](https://dev.to/rare_source/build-a-web-dev-business-with-just-react-7pj)
-- [30+ Github Repo For your Next Project | Gittech May 11, 2025](https://dev.to/gittech/30-github-repo-for-your-next-project-gittech-may-11-2025-2n77)
-- [MySQL vs MongoDB for SaaS: Which Database Should You Choose in 2025](https://dev.to/swapnil_ahmmedshishir_2d/mysql-vs-mongodb-for-saas-which-database-should-you-choose-in-2025-k5o)
-- [When Your Login Page Becomes the Frontline: Lessons from a Real-World enumeration attack](https://dev.to/cloud-iam/when-your-login-page-becomes-the-frontline-lessons-from-a-real-world-enumeration-attack-31ng)
+- [In the Programming World, There Are SIMPs Too](https://dev.to/holasoymalva/in-the-programming-world-there-are-simps-too-19k6)
+- [Looking for Feedback on My Dev Portfolio](https://dev.to/liam-brophy/looking-for-feedback-on-my-dev-portfolio-5dng)
+- [How Manual QA Can Implement Left-Shift Testing in Frontend](https://dev.to/maximlogunov/how-manual-qa-can-implement-left-shift-testing-in-frontend-26fe)
+- [Build a Food-Ordering Chatbot in 30 Minutes by .NET 10 and Azure](https://dev.to/ngtduc693/build-a-food-ordering-chatbot-in-30-minutes-by-net-10-and-azure-14df)
 <!-- BLOG-POST-LIST:END -->
 
