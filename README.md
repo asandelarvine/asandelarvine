@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use EXPLAIN to fix slow queries in MySQL](https://dev.to/drupaladmin/how-to-use-explain-to-fix-slow-queries-in-mysql-1ph3)
-- [AWS Solutions Architect Career Path: Roles, Skills, and Certification](https://dev.to/skillboosttrainer/aws-solutions-architect-career-path-roles-skills-and-certification-5gna)
-- [Why Ab Initio Was &lpar;and Still Is&rpar; Years Ahead of Modern ETL Tools](https://dev.to/govind_joshi/why-ab-initio-was-and-still-is-years-ahead-of-modern-etl-tools-9p5)
-- [How to Fix Side Effects Between Jest Tests in TypeScript](https://dev.to/generatecodedev/how-to-fix-side-effects-between-jest-tests-in-typescript-54ll)
+- [Materialized Views in SQL: Supercharging Read Performance](https://dev.to/cristiansifuentes/materialized-views-in-sql-supercharging-read-performance-38n8)
+- [Why Is the Project Planning &amp; Initiation Phase So Important?](https://dev.to/writegenic/why-is-the-project-planning-initiation-phase-so-important-jap)
+- [💾 I Just Launched My GitHub Database Online &lpar;7000+ Repositories Curated&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-just-launched-my-github-database-online-7000-repositories-curated-3f7a)
+- [How to Access an Android Emulator&#39;s Local Server from Browser?](https://dev.to/generatecodedev/how-to-access-an-android-emulators-local-server-from-browser-fno)
 <!-- BLOG-POST-LIST:END -->
 
