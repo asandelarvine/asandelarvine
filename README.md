@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hamzok/-54la)
-- [How to Retrieve a JSON Object and Access Token in PHP](https://dev.to/generatecodedev/how-to-retrieve-a-json-object-and-access-token-in-php-4213)
-- [Mastering JavaScript for React &lpar;TypeScript Edition&rpar; in 30 Practical Examples](https://dev.to/tishonator/mastering-javascript-for-react-typescript-edition-in-30-practical-examples-30e7)
-- [Introducing Saksh Wallet: A Simple Wallet System for Laravel](https://dev.to/susheel_kumar_2041f5433d2/introducing-saksh-wallet-a-simple-wallet-system-for-laravel-46oa)
+- [Andaman Islands for Solo Travelers: A Safe and Welcoming Destination](https://dev.to/jafar_ahmadabdul_cecc087/andaman-islands-for-solo-travelers-a-safe-and-welcoming-destination-59m6)
+- [Workflow-Level Resilience in Orkes Conductor: Timeouts and Failure Workflows](https://dev.to/orkes/workflow-level-resilience-in-orkes-conductor-timeouts-and-failure-workflows-1nc5)
+- [The Future of Digital Companionship: AI Conversationalists in 2025](https://dev.to/ryder_andrew/the-future-of-digital-companionship-ai-conversationalists-in-2025-1l7k)
+- [Securing Temporary Credentials in AWS: What You Should Be Doing But Probably Aren’t](https://dev.to/ejher/securing-temporary-credentials-in-aws-what-you-should-be-doing-but-probably-arent-24cc)
 <!-- BLOG-POST-LIST:END -->
 
