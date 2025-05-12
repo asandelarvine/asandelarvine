@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s “Desktop View” Might Just Kill Samsung DeX](https://dev.to/squaredtech/googles-desktop-view-might-just-kill-samsung-dex-4bb5)
-- [Meet Mallient – The email client built for productivity, privacy, and teams](https://dev.to/mallient/meet-mallient-the-email-client-built-for-productivity-privacy-and-teams-3nm7)
-- [Warehouse Security with IoT and Automated Fence Systems](https://dev.to/karen_londres/warehouse-security-with-iot-and-automated-fence-systems-4o57)
-- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;2&rpar;: Building a Multi-Agent Meeting Scheduling System](https://dev.to/jnth/google-agent-sdk-introduction-2-building-a-multi-agent-meeting-scheduling-system-1ach)
+- [Build a Web Dev Business With Just React](https://dev.to/rare_source/build-a-web-dev-business-with-just-react-7pj)
+- [30+ Github Repo For your Next Project | Gittech May 11, 2025](https://dev.to/gittech/30-github-repo-for-your-next-project-gittech-may-11-2025-2n77)
+- [MySQL vs MongoDB for SaaS: Which Database Should You Choose in 2025](https://dev.to/swapnil_ahmmedshishir_2d/mysql-vs-mongodb-for-saas-which-database-should-you-choose-in-2025-k5o)
+- [When Your Login Page Becomes the Frontline: Lessons from a Real-World enumeration attack](https://dev.to/cloud-iam/when-your-login-page-becomes-the-frontline-lessons-from-a-real-world-enumeration-attack-31ng)
 <!-- BLOG-POST-LIST:END -->
 
