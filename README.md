@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In the Programming World, There Are SIMPs Too](https://dev.to/holasoymalva/in-the-programming-world-there-are-simps-too-19k6)
-- [Looking for Feedback on My Dev Portfolio](https://dev.to/liam-brophy/looking-for-feedback-on-my-dev-portfolio-5dng)
-- [How Manual QA Can Implement Left-Shift Testing in Frontend](https://dev.to/maximlogunov/how-manual-qa-can-implement-left-shift-testing-in-frontend-26fe)
-- [Build a Food-Ordering Chatbot in 30 Minutes by .NET 10 and Azure](https://dev.to/ngtduc693/build-a-food-ordering-chatbot-in-30-minutes-by-net-10-and-azure-14df)
+- [How to use EXPLAIN to fix slow queries in MySQL](https://dev.to/drupaladmin/how-to-use-explain-to-fix-slow-queries-in-mysql-1ph3)
+- [AWS Solutions Architect Career Path: Roles, Skills, and Certification](https://dev.to/skillboosttrainer/aws-solutions-architect-career-path-roles-skills-and-certification-5gna)
+- [Why Ab Initio Was &lpar;and Still Is&rpar; Years Ahead of Modern ETL Tools](https://dev.to/govind_joshi/why-ab-initio-was-and-still-is-years-ahead-of-modern-etl-tools-9p5)
+- [How to Fix Side Effects Between Jest Tests in TypeScript](https://dev.to/generatecodedev/how-to-fix-side-effects-between-jest-tests-in-typescript-54ll)
 <!-- BLOG-POST-LIST:END -->
 
