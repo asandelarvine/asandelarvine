@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Materialized Views in SQL: Supercharging Read Performance](https://dev.to/cristiansifuentes/materialized-views-in-sql-supercharging-read-performance-38n8)
-- [Why Is the Project Planning &amp; Initiation Phase So Important?](https://dev.to/writegenic/why-is-the-project-planning-initiation-phase-so-important-jap)
-- [💾 I Just Launched My GitHub Database Online &lpar;7000+ Repositories Curated&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-just-launched-my-github-database-online-7000-repositories-curated-3f7a)
-- [How to Access an Android Emulator&#39;s Local Server from Browser?](https://dev.to/generatecodedev/how-to-access-an-android-emulators-local-server-from-browser-fno)
+- [SQL Join Dark Arts: Anti Joins, Semi Joins, and Beyond](https://dev.to/cristiansifuentes/sql-join-dark-arts-anti-joins-semi-joins-and-beyond-5bmp)
+- [Unveiling GNU Lesser General Public License v3: A Comprehensive Exploration](https://dev.to/bobcars/unveiling-gnu-lesser-general-public-license-v3-a-comprehensive-exploration-52jl)
+- [How to Configure and Use Regex and Myconio in Code::Blocks?](https://dev.to/generatecodedev/how-to-configure-and-use-regex-and-myconio-in-codeblocks-46pl)
+- [StorageManager API for Managing Offline Data](https://dev.to/omriluz1/storagemanager-api-for-managing-offline-data-oon)
 <!-- BLOG-POST-LIST:END -->
 
