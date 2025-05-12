@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Destroy service for rxjs observables](https://dev.to/benarambide/destroy-service-for-rxjs-observables-b4f)
-- [Building Fullstack Apps with Next.js 15 and TypeScript](https://dev.to/code_2/building-fullstack-apps-with-nextjs-15-and-typescript-2cpp)
-- [How to Bind Values in CollectionView for MAUI in C#?](https://dev.to/generatecodedev/how-to-bind-values-in-collectionview-for-maui-in-c-c1a)
-- [🌐📘 Understanding the CSS Box Model with a Simple Example 😊💻](https://dev.to/tamilselvan1812/understanding-the-css-box-model-with-a-simple-example-4i6o)
+- [How to Create a Login Page with HTML and CSS &amp; Host Your Project on GitLab...](https://dev.to/a_ramesh/how-to-create-a-login-page-with-html-and-css-host-your-project-on-gitlab-4086)
+- [Best AI Coding Assistant for Beginners and Experts](https://dev.to/keploy/best-ai-coding-assistant-for-beginners-and-experts-4ofi)
+- [Nice to meet you](https://dev.to/jonghwan_park_db47287e25c/nice-to-meet-you-e5l)
+- [Micro-Apps: The New Frontier of Scalable Mobile App Development](https://dev.to/dct_technology/micro-apps-the-new-frontier-of-scalable-mobile-app-development-39n6)
 <!-- BLOG-POST-LIST:END -->
 
