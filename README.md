@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕹️ I Turned My Flask App Into a Game — Every API Call Is a Level](https://dev.to/abubaker_siddique_513b7e2/i-turned-my-flask-app-into-a-game-every-api-call-is-a-level-4j5d)
-- [Grok 3 vs o3: A Comprehensive Comparison](https://dev.to/_37bbf0c253c0b3edec531e/grok-3-vs-o3-a-comprehensive-comparison-2gnp)
-- [O cérebro odeia pensar: o poder da interface óbvia](https://dev.to/alissonfcosta/o-cerebro-odeia-pensar-o-poder-da-interface-obvia-4bl0)
-- [I Turned My Terminal Into a Browser Using Python](https://dev.to/abubaker_siddique_513b7e2/i-turned-my-terminal-into-a-browser-using-python-1a75)
+- [💥 Top 10 IDEs for Web Development in 2025: The Ultimate Showdown 💥](https://dev.to/nish2005karsh/top-10-ides-for-web-development-in-2025-the-ultimate-showdown-1ag6)
+- [Launching Version 1.0 : AI-Powered Mock Interview Platform](https://dev.to/soumilgit/launching-version-10-ai-powered-mock-interview-platform-2n5p)
+- [The Birth Of Your Web3 Product. Stage Three: Developing](https://dev.to/evrecode_lab_2025_bg/the-birth-of-your-web3-product-stage-three-developing-3bhm)
+- [Zero Trust Security Model: Implementation Roadmap](https://dev.to/bridgegroupsolutions/zero-trust-security-model-implementation-roadmap-6gd)
 <!-- BLOG-POST-LIST:END -->
 
