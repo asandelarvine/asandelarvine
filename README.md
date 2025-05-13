@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Fitness Wearable Data Analysis API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-fitness-wearable-data-analysis-api-with-tinybird-5e2i)
-- [5 Simple Steps to Reduce Your AWS Bill Without Technical Expertise](https://dev.to/jevin/5-simple-steps-to-reduce-your-aws-bill-without-technical-expertise-3665)
-- [Build a Real-time E-commerce Data API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-e-commerce-data-api-with-tinybird-5f96)
-- [Build a Real-Time Sales Analytics Dashboard API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-sales-analytics-dashboard-api-with-tinybird-3pie)
+- [Unlock the Power of Visual AI: How Jeda.ai is Transforming the Future of Work](https://dev.to/fahimh007/unlock-the-power-of-visual-ai-how-jedaai-is-transforming-the-future-of-work-2hh6)
+- [Frontiers in Computer Vision: Interpretability, Efficiency, Robustness, and Unified Learning in the Era of Deep AI Advan](https://dev.to/khanali21/frontiers-in-computer-vision-interpretability-efficiency-robustness-and-unified-learning-in-the-54mf)
+- [JavaScript string manipulation technique Every Developer Should Know [Part 1]](https://dev.to/mroman7/javascript-string-manipulation-technique-every-developer-should-know-part-1-39a0)
+- [Advancements and Challenges in Computational Linguistics: A Synthesis of Recent Research](https://dev.to/khanali21/advancements-and-challenges-in-computational-linguistics-a-synthesis-of-recent-research-3lfl)
 <!-- BLOG-POST-LIST:END -->
 
