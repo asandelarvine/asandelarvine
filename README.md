@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Under the Hood: How Tesla Powers its Android App with React Native](https://dev.to/whatstack/under-the-hood-how-tesla-powers-its-android-app-with-react-native-eb4)
-- [A Comprehensive Guide to Building a Deep Research Agent with Qwen3 Locally](https://dev.to/composiodev/a-comprehensive-guide-to-building-a-deep-research-agent-with-qwen3-locally-1jgm)
-- [🚀 Day 1 of My 30-Day Core Java Challenge – Learning with Udemy!](https://dev.to/sujaykumar_84604ac0165b3a/day-1-of-my-30-day-core-java-challenge-learning-with-udemy-580)
-- [Uniapp Development Tutorial for HarmonyOS Applications - Optional api and Composite api](https://dev.to/youlanjihua/uniappkai-fa-hong-meng-ying-yong-jiao-cheng-zhi-xuan-xiang-shi-apihe-zu-he-shi-api-b7j)
+- [Accessibility Testing on Windows on Mac](https://dev.to/tatyanabayramova/accessibility-testing-on-windows-on-mac-48e4)
+- [Discovering the Joy of Building Reliable Front-End Applications](https://dev.to/jigargosar/discovering-the-joy-of-building-reliable-front-end-applications-5633)
+- [Can You Pass a List of Child Objects to a Parent Function in Java?](https://dev.to/generatecodedev/can-you-pass-a-list-of-child-objects-to-a-parent-function-in-java-14e9)
+- [Top 25 Tricky C# Interview Questions &lpar;With Explanations and Code Examples&rpar;](https://dev.to/renukapatil/top-25-tricky-c-interview-questions-with-explanations-and-code-examples-3222)
 <!-- BLOG-POST-LIST:END -->
 
