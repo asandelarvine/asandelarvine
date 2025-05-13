@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel AI SDK v5 Internals - Part 9 — Database Deep Dive: Persisting UIMessages Effectively](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-9-database-deep-dive-persisting-uimessages-effectively-362l)
-- [Vercel AI SDK v5 Internals - Part 8 — Server &amp; Client Tool Execution Deep Dive](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-8-server-client-tool-execution-deep-dive-3omh)
-- [🧠 10 Tricky CSS Questions for Frontend Developer Interviews &lpar;with Answers &amp; Examples&rpar;](https://dev.to/javascriptwizzard/10-tricky-css-questions-for-frontend-developer-interviews-with-answers-examples-1ob3)
-- [Vercel AI SDK v5 Internals - Part 7 — Decoupling Your Backend: The ChatTransport Abstraction Explained](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-7-decoupling-your-backend-the-chattransport-abstraction-1a83)
+- [Built an AI Assistant to Summarize and Query My Emails – Seeking Feedback](https://dev.to/naman_mistry_b727da6da302/built-an-ai-assistant-to-summarize-and-query-my-emails-seeking-feedback-4pjg)
+- [How to Fix &#39;require Test::Directory&#39; Failure in Perl?](https://dev.to/generatecodedev/how-to-fix-require-testdirectory-failure-in-perl-42gc)
+- [Web Codecs API for Advanced Media Decoding](https://dev.to/omriluz1/web-codecs-api-for-advanced-media-decoding-1ok8)
+- [Stop Hiring Data Analysts](https://dev.to/hermanzdosilovic/stop-hiring-data-analysts-1deb)
 <!-- BLOG-POST-LIST:END -->
 
