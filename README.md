@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Excel YEAR Function?](https://dev.to/excel24x7/how-to-use-excel-year-function-2no8)
-- [Unveiling CDDL 1.1: A Deep Dive into Open Source Licensing, Developer Compensation, and Fair Code Practices](https://dev.to/jennythomas498/unveiling-cddl-11-a-deep-dive-into-open-source-licensing-developer-compensation-and-fair-code-1hmi)
-- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
-- [Next.js Setup Guide for Developers](https://dev.to/pu-lazydev/nextjs-setup-guide-for-developers-4l1l)
+- [Story of CocoIndex, at 1k stars 🎉](https://dev.to/cocoindex/story-of-cocoindex-at-1k-stars-4ohl)
+- [How to Troubleshoot ASAN Logging Issues in C Daemons](https://dev.to/generatecodedev/how-to-troubleshoot-asan-logging-issues-in-c-daemons-5a92)
+- [Unveiling Open Software License 3.0: A Comprehensive Summary, Exploration and Review](https://dev.to/ashucommits/unveiling-open-software-license-30-a-comprehensive-summary-exploration-and-review-2m3j)
+- [🌟 Understanding the 4 Main Concepts of Object-Oriented Programming &lpar;OOP&rpar; with Examples](https://dev.to/md-afsar-mahmud/understanding-the-4-main-concepts-of-object-oriented-programming-oop-with-examples-jhn)
 <!-- BLOG-POST-LIST:END -->
 
