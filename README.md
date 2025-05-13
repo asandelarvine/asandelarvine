@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Testing on Windows on Mac](https://dev.to/tatyanabayramova/accessibility-testing-on-windows-on-mac-48e4)
-- [Discovering the Joy of Building Reliable Front-End Applications](https://dev.to/jigargosar/discovering-the-joy-of-building-reliable-front-end-applications-5633)
-- [Can You Pass a List of Child Objects to a Parent Function in Java?](https://dev.to/generatecodedev/can-you-pass-a-list-of-child-objects-to-a-parent-function-in-java-14e9)
-- [Top 25 Tricky C# Interview Questions &lpar;With Explanations and Code Examples&rpar;](https://dev.to/renukapatil/top-25-tricky-c-interview-questions-with-explanations-and-code-examples-3222)
+- [Swarm Intelligence Journey #3 Grey Wolf](https://dev.to/diosamuel/swarm-intelligence-journey-3-grey-wolf-4cib)
+- [Swarm Intelligence Journey #2 Krill Herd](https://dev.to/diosamuel/swarm-intelligence-journey-2-krill-herd-1ecc)
+- [Swarm Intelligence Journey #1 Bat Algorithm](https://dev.to/diosamuel/swarm-intelligence-journey-1-bat-algorithm-2c2c)
+- [Real-world Microsoft 365 Copilot Implementation](https://dev.to/borisgigovic/real-world-microsoft-365-copilot-implementation-4ce7)
 <!-- BLOG-POST-LIST:END -->
 
