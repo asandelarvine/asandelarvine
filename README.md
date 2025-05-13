@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up ESLint in my Next.js + TypeScript project to keep code clean, consistent, and bug-free—a must for writing like a pro!](https://dev.to/vanessa082/setting-up-eslint-in-my-nextjs-typescript-project-to-keep-code-clean-consistent-and-bug-free-a-4boe)
-- [My Favorite Home Assistant Automation: Waking Up to the Smell of Coffee ☕️](https://dev.to/stefanoero/my-favorite-home-assistant-automation-waking-up-to-the-smell-of-coffee-27kk)
-- [Top 5 AI Tools That Can Boost Developer Productivity in 2025](https://dev.to/hobaaaa/top-5-ai-tools-that-can-boost-developer-productivity-in-2025-37of)
-- [Gas Leak Detection and Air Quality Sensors in Appliances: Ensuring Safety and Comfort in Modern Homes](https://dev.to/jonathanjone/gas-leak-detection-and-air-quality-sensors-in-appliances-ensuring-safety-and-comfort-in-modern-bd6)
+- [Escape Learning Loops and Build Projects for Profit](https://dev.to/0x4c-quest/escape-learning-loops-and-build-projects-for-profit-2e90)
+- [How to Transcribe &amp; Summarize Meetings Locally with Meetily : The Best Self-Hosted, Open Source AI Meeting Tool](https://dev.to/zackriya/how-to-transcribe-summarize-meetings-locally-with-meetily-the-best-self-hosted-open-source-ai-dmk)
+- [Angular: Beyond the fog #1](https://dev.to/geromegrignon/angular-beyond-the-fog-1-3oli)
+- [Turn Repetitive Work into React Tools People Pay For 💊](https://dev.to/0x2e_tech/turn-repetitive-work-into-react-tools-people-pay-for-4a7h)
 <!-- BLOG-POST-LIST:END -->
 
