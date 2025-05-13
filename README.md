@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity Unlocked: Your Guide to Daily Inbox Processing](https://dev.to/wraith/productivity-unlocked-your-guide-to-daily-inbox-processing-47ll)
-- [Appliances Powered by Wireless Charging Technology: A Glimpse into the Future of Cord-Free Convenience](https://dev.to/jonathanjone/appliances-powered-by-wireless-charging-technology-a-glimpse-into-the-future-of-cord-free-4a2e)
-- [Fixing Bugs Found on Production](https://dev.to/carlosrambles/fixing-bugs-found-on-production-32ed)
-- [How to Diagnose a Segmentation Fault in Perl Scripts?](https://dev.to/generatecodedev/how-to-diagnose-a-segmentation-fault-in-perl-scripts-2p1d)
+- [⚔️ The Final Bosses of No-Code &lpar;Part 2&rpar;: 5 More Underrated Weapons You Shouldn’t Sleep On 😴💥](https://dev.to/nish2005karsh/the-final-bosses-of-no-code-part-2-5-more-underrated-weapons-you-shouldnt-sleep-on-pbl)
+- [Why is the QMenuBar not displaying in my Qt Application?](https://dev.to/generatecodedev/why-is-the-qmenubar-not-displaying-in-my-qt-application-16i4)
+- [I Built a New Programming Language for Neurodivergent Creators — Meet Sona](https://dev.to/bryantad/i-built-a-new-programming-language-for-neurodivergent-creators-meet-sona-3402)
+- [Getting Started with Solana: 5 Essential Tools Every Developer Should Use](https://dev.to/favebs/getting-started-with-solana-5-essential-tools-every-developer-should-use-14pn)
 <!-- BLOG-POST-LIST:END -->
 
