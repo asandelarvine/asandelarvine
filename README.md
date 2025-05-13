@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Story of CocoIndex, at 1k stars 🎉](https://dev.to/cocoindex/story-of-cocoindex-at-1k-stars-4ohl)
-- [How to Troubleshoot ASAN Logging Issues in C Daemons](https://dev.to/generatecodedev/how-to-troubleshoot-asan-logging-issues-in-c-daemons-5a92)
-- [Unveiling Open Software License 3.0: A Comprehensive Summary, Exploration and Review](https://dev.to/ashucommits/unveiling-open-software-license-30-a-comprehensive-summary-exploration-and-review-2m3j)
-- [🌟 Understanding the 4 Main Concepts of Object-Oriented Programming &lpar;OOP&rpar; with Examples](https://dev.to/md-afsar-mahmud/understanding-the-4-main-concepts-of-object-oriented-programming-oop-with-examples-jhn)
+- [Under the Hood: How Tesla Powers its Android App with React Native](https://dev.to/whatstack/under-the-hood-how-tesla-powers-its-android-app-with-react-native-eb4)
+- [A Comprehensive Guide to Building a Deep Research Agent with Qwen3 Locally](https://dev.to/composiodev/a-comprehensive-guide-to-building-a-deep-research-agent-with-qwen3-locally-1jgm)
+- [🚀 Day 1 of My 30-Day Core Java Challenge – Learning with Udemy!](https://dev.to/sujaykumar_84604ac0165b3a/day-1-of-my-30-day-core-java-challenge-learning-with-udemy-580)
+- [Uniapp Development Tutorial for HarmonyOS Applications - Optional api and Composite api](https://dev.to/youlanjihua/uniappkai-fa-hong-meng-ying-yong-jiao-cheng-zhi-xuan-xiang-shi-apihe-zu-he-shi-api-b7j)
 <!-- BLOG-POST-LIST:END -->
 
