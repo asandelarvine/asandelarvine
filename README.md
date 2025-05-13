@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Service Marketplace with Django: Lessons from Netfix](https://dev.to/apondiart/building-a-service-marketplace-with-django-lessons-from-netfix-5aj0)
-- [Why is the Login Failing in My Flutter Web App Release?](https://dev.to/generatecodedev/why-is-the-login-failing-in-my-flutter-web-app-release-40l)
-- [3335. Total Characters in String After Transformations I](https://dev.to/mdarifulhaque/3335-total-characters-in-string-after-transformations-i-e34)
-- [They say my job won&#39;t survive...](https://dev.to/alvaromontoro/they-say-my-job-wont-survive-12lc)
+- [How to Use Excel YEAR Function?](https://dev.to/excel24x7/how-to-use-excel-year-function-2no8)
+- [Unveiling CDDL 1.1: A Deep Dive into Open Source Licensing, Developer Compensation, and Fair Code Practices](https://dev.to/jennythomas498/unveiling-cddl-11-a-deep-dive-into-open-source-licensing-developer-compensation-and-fair-code-1hmi)
+- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
+- [Next.js Setup Guide for Developers](https://dev.to/pu-lazydev/nextjs-setup-guide-for-developers-4l1l)
 <!-- BLOG-POST-LIST:END -->
 
