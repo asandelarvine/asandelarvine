@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neuron AI: O Framework PHP de Inteligência Artificial 🐘](https://dev.to/razielrodrigues/neuron-ai-o-framework-php-de-inteligencia-artificial-37nm)
-- [🚀 DRF ViewSets &amp; Routers Explained – Build REST APIs Faster with Django](https://dev.to/ebereplenty/drf-viewsets-routers-explained-build-rest-apis-faster-with-django-4683)
-- [🧬 I Built a Flask App That Evolves Based on User Behavior](https://dev.to/abubaker_siddique_513b7e2/i-built-a-flask-app-that-evolves-based-on-user-behavior-cci)
-- [From Side Project to Invoicing Solution: A Developer&#39;s Practical API Journey](https://dev.to/arbythecoder/from-side-project-to-invoicing-solution-a-developers-practical-api-journey-1maa)
+- [We built a browser-like inspect tool for prompts 🛠️🎛📄](https://dev.to/narsagna/we-built-a-browser-like-inspect-tool-for-prompts-27f6)
+- [Give me 3 reason that why python is best other than any programming languages?](https://dev.to/velvosoft/give-me-3-reason-that-why-python-is-best-other-than-any-programming-languages-5g3c)
+- [Smart Fridges Ordering Groceries Automatically: A Glimpse into the Future of Kitchen Convenience](https://dev.to/jonathanjone/smart-fridges-ordering-groceries-automatically-a-glimpse-into-the-future-of-kitchen-convenience-113m)
+- [How to Fix Rust Compilation Error When Reading Tokens from File](https://dev.to/generatecodedev/how-to-fix-rust-compilation-error-when-reading-tokens-from-file-2998)
 <!-- BLOG-POST-LIST:END -->
 
