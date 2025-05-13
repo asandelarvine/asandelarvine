@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We built a browser-like inspect tool for prompts 🛠️🎛📄](https://dev.to/narsagna/we-built-a-browser-like-inspect-tool-for-prompts-27f6)
-- [Give me 3 reason that why python is best other than any programming languages?](https://dev.to/velvosoft/give-me-3-reason-that-why-python-is-best-other-than-any-programming-languages-5g3c)
-- [Smart Fridges Ordering Groceries Automatically: A Glimpse into the Future of Kitchen Convenience](https://dev.to/jonathanjone/smart-fridges-ordering-groceries-automatically-a-glimpse-into-the-future-of-kitchen-convenience-113m)
-- [How to Fix Rust Compilation Error When Reading Tokens from File](https://dev.to/generatecodedev/how-to-fix-rust-compilation-error-when-reading-tokens-from-file-2998)
+- [Setting up ESLint in my Next.js + TypeScript project to keep code clean, consistent, and bug-free—a must for writing like a pro!](https://dev.to/vanessa082/setting-up-eslint-in-my-nextjs-typescript-project-to-keep-code-clean-consistent-and-bug-free-a-4boe)
+- [My Favorite Home Assistant Automation: Waking Up to the Smell of Coffee ☕️](https://dev.to/stefanoero/my-favorite-home-assistant-automation-waking-up-to-the-smell-of-coffee-27kk)
+- [Top 5 AI Tools That Can Boost Developer Productivity in 2025](https://dev.to/hobaaaa/top-5-ai-tools-that-can-boost-developer-productivity-in-2025-37of)
+- [Gas Leak Detection and Air Quality Sensors in Appliances: Ensuring Safety and Comfort in Modern Homes](https://dev.to/jonathanjone/gas-leak-detection-and-air-quality-sensors-in-appliances-ensuring-safety-and-comfort-in-modern-bd6)
 <!-- BLOG-POST-LIST:END -->
 
