@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Elastic License: A Comprehensive Exploration on Fair Open Source Licensing](https://dev.to/kallileiser/unveiling-elastic-license-a-comprehensive-exploration-on-fair-open-source-licensing-591i)
-- [Automate git commit messages with a simple bash script and openrouter](https://dev.to/tomdekan/automate-git-commit-messages-with-a-simple-bash-script-and-openrouter-lno)
-- [Guia de Estudo Go 1](https://dev.to/eduardorosa/guia-de-estudo-go-1-1no)
-- [From Phone Lines to Ethernet: An Introduction to Copper Cabling](https://dev.to/andrew_despres/from-phone-lines-to-ethernet-an-introduction-to-copper-cabling-3jp2)
+- [Unveiling European Union Public License 1.2: Balancing Fair Code and Open Source Innovation](https://dev.to/rachellovestowrite/unveiling-european-union-public-license-12-balancing-fair-code-and-open-source-innovation-mp)
+- [How to Conduct an Effective Patent Invalidity Search Using PatentScan.AI](https://dev.to/muhammad_abdullah_0f40cb1/how-to-conduct-an-effective-patent-invalidity-search-using-patentscanai-2ibm)
+- [What are Linkage Types in C Translation Units?](https://dev.to/generatecodedev/what-are-linkage-types-in-c-translation-units-3knf)
+- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
 <!-- BLOG-POST-LIST:END -->
 
