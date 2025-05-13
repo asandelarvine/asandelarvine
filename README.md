@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built an AI Assistant to Summarize and Query My Emails – Seeking Feedback](https://dev.to/naman_mistry_b727da6da302/built-an-ai-assistant-to-summarize-and-query-my-emails-seeking-feedback-4pjg)
-- [How to Fix &#39;require Test::Directory&#39; Failure in Perl?](https://dev.to/generatecodedev/how-to-fix-require-testdirectory-failure-in-perl-42gc)
-- [Web Codecs API for Advanced Media Decoding](https://dev.to/omriluz1/web-codecs-api-for-advanced-media-decoding-1ok8)
-- [Stop Hiring Data Analysts](https://dev.to/hermanzdosilovic/stop-hiring-data-analysts-1deb)
+- [🚀 End-to-End Docker: Apache Server Build, Push, and Networked Deploy](https://dev.to/vvakim/end-to-end-docker-apache-server-build-push-and-networked-deploy-gd3)
+- [Nextjs Oauth2 Integration with AuthAction](https://dev.to/authaction/nextjs-oauth2-integration-with-authaction-8oa)
+- [🚀 Angular 20: What’s Coming and Why the Release Cycle Matters](https://dev.to/rohtashsethi/angular-20-whats-coming-and-why-the-release-cycle-matters-4kdo)
+- [History of JavaScript](https://dev.to/ahmed_niazy/history-of-javascript-4b43)
 <!-- BLOG-POST-LIST:END -->
 
