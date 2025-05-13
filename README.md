@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swarm Intelligence Journey #3 Grey Wolf](https://dev.to/diosamuel/swarm-intelligence-journey-3-grey-wolf-4cib)
-- [Swarm Intelligence Journey #2 Krill Herd](https://dev.to/diosamuel/swarm-intelligence-journey-2-krill-herd-1ecc)
-- [Swarm Intelligence Journey #1 Bat Algorithm](https://dev.to/diosamuel/swarm-intelligence-journey-1-bat-algorithm-2c2c)
-- [Real-world Microsoft 365 Copilot Implementation](https://dev.to/borisgigovic/real-world-microsoft-365-copilot-implementation-4ce7)
+- [Should you join a community to learn Rust?](https://dev.to/francescoxx/should-you-join-a-community-to-learn-rust-j16)
+- [SSH Error Explained: Permission Denied &lpar;publickey&rpar; — And How We Solved It 🔐](https://dev.to/chaitanyarai3/ssh-error-explained-permission-denied-publickey-and-how-we-solved-it-kfl)
+- [Recent Advances in Machine Learning: Efficiency, Interpretability, and Robustness](https://dev.to/khanali21/recent-advances-in-machine-learning-efficiency-interpretability-and-robustness-4o55)
+- [animated form](https://dev.to/amna_haroon_381f5d51b7358/animated-form-11b6)
 <!-- BLOG-POST-LIST:END -->
 
