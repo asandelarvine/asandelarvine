@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/samueljoseph/-4bfh)
-- [How to Troubleshoot ZK-Proof Generation Issues in Next.js](https://dev.to/generatecodedev/how-to-troubleshoot-zk-proof-generation-issues-in-nextjs-53hd)
-- [Wrkspace: One-Time Setup, Lifetime Productivity](https://dev.to/mfcmatheus/wrkspace-one-time-setup-lifetime-productivity-2j1c)
-- [Getting Started with Linux: System Information and User Management](https://dev.to/dhavalthakar97/getting-started-with-linux-system-information-and-user-management-26m1)
+- [Building a Service Marketplace with Django: Lessons from Netfix](https://dev.to/apondiart/building-a-service-marketplace-with-django-lessons-from-netfix-5aj0)
+- [Why is the Login Failing in My Flutter Web App Release?](https://dev.to/generatecodedev/why-is-the-login-failing-in-my-flutter-web-app-release-40l)
+- [3335. Total Characters in String After Transformations I](https://dev.to/mdarifulhaque/3335-total-characters-in-string-after-transformations-i-e34)
+- [They say my job won&#39;t survive...](https://dev.to/alvaromontoro/they-say-my-job-wont-survive-12lc)
 <!-- BLOG-POST-LIST:END -->
 
