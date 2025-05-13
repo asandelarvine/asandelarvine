@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 End-to-End Docker: Apache Server Build, Push, and Networked Deploy](https://dev.to/vvakim/end-to-end-docker-apache-server-build-push-and-networked-deploy-gd3)
-- [Nextjs Oauth2 Integration with AuthAction](https://dev.to/authaction/nextjs-oauth2-integration-with-authaction-8oa)
-- [🚀 Angular 20: What’s Coming and Why the Release Cycle Matters](https://dev.to/rohtashsethi/angular-20-whats-coming-and-why-the-release-cycle-matters-4kdo)
-- [History of JavaScript](https://dev.to/ahmed_niazy/history-of-javascript-4b43)
+- [Unveiling Elastic License: A Comprehensive Exploration on Fair Open Source Licensing](https://dev.to/kallileiser/unveiling-elastic-license-a-comprehensive-exploration-on-fair-open-source-licensing-591i)
+- [Automate git commit messages with a simple bash script and openrouter](https://dev.to/tomdekan/automate-git-commit-messages-with-a-simple-bash-script-and-openrouter-lno)
+- [Guia de Estudo Go 1](https://dev.to/eduardorosa/guia-de-estudo-go-1-1no)
+- [From Phone Lines to Ethernet: An Introduction to Copper Cabling](https://dev.to/andrew_despres/from-phone-lines-to-ethernet-an-introduction-to-copper-cabling-3jp2)
 <!-- BLOG-POST-LIST:END -->
 
