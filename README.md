@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of Visual AI: How Jeda.ai is Transforming the Future of Work](https://dev.to/fahimh007/unlock-the-power-of-visual-ai-how-jedaai-is-transforming-the-future-of-work-2hh6)
-- [Frontiers in Computer Vision: Interpretability, Efficiency, Robustness, and Unified Learning in the Era of Deep AI Advan](https://dev.to/khanali21/frontiers-in-computer-vision-interpretability-efficiency-robustness-and-unified-learning-in-the-54mf)
-- [JavaScript string manipulation technique Every Developer Should Know [Part 1]](https://dev.to/mroman7/javascript-string-manipulation-technique-every-developer-should-know-part-1-39a0)
-- [Advancements and Challenges in Computational Linguistics: A Synthesis of Recent Research](https://dev.to/khanali21/advancements-and-challenges-in-computational-linguistics-a-synthesis-of-recent-research-3lfl)
+- [Vercel AI SDK v5 Internals - Part 9 — Database Deep Dive: Persisting UIMessages Effectively](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-9-database-deep-dive-persisting-uimessages-effectively-362l)
+- [Vercel AI SDK v5 Internals - Part 8 — Server &amp; Client Tool Execution Deep Dive](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-8-server-client-tool-execution-deep-dive-3omh)
+- [🧠 10 Tricky CSS Questions for Frontend Developer Interviews &lpar;with Answers &amp; Examples&rpar;](https://dev.to/javascriptwizzard/10-tricky-css-questions-for-frontend-developer-interviews-with-answers-examples-1ob3)
+- [Vercel AI SDK v5 Internals - Part 7 — Decoupling Your Backend: The ChatTransport Abstraction Explained](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-7-decoupling-your-backend-the-chattransport-abstraction-1a83)
 <!-- BLOG-POST-LIST:END -->
 
