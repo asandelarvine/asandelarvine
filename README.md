@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Escape Learning Loops and Build Projects for Profit](https://dev.to/0x4c-quest/escape-learning-loops-and-build-projects-for-profit-2e90)
-- [How to Transcribe &amp; Summarize Meetings Locally with Meetily : The Best Self-Hosted, Open Source AI Meeting Tool](https://dev.to/zackriya/how-to-transcribe-summarize-meetings-locally-with-meetily-the-best-self-hosted-open-source-ai-dmk)
-- [Angular: Beyond the fog #1](https://dev.to/geromegrignon/angular-beyond-the-fog-1-3oli)
-- [Turn Repetitive Work into React Tools People Pay For 💊](https://dev.to/0x2e_tech/turn-repetitive-work-into-react-tools-people-pay-for-4a7h)
+- [Productivity Unlocked: Your Guide to Daily Inbox Processing](https://dev.to/wraith/productivity-unlocked-your-guide-to-daily-inbox-processing-47ll)
+- [Appliances Powered by Wireless Charging Technology: A Glimpse into the Future of Cord-Free Convenience](https://dev.to/jonathanjone/appliances-powered-by-wireless-charging-technology-a-glimpse-into-the-future-of-cord-free-4a2e)
+- [Fixing Bugs Found on Production](https://dev.to/carlosrambles/fixing-bugs-found-on-production-32ed)
+- [How to Diagnose a Segmentation Fault in Perl Scripts?](https://dev.to/generatecodedev/how-to-diagnose-a-segmentation-fault-in-perl-scripts-2p1d)
 <!-- BLOG-POST-LIST:END -->
 
