@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Jenkins to GitHub Actions/GitLab CI: A Stress-Free Step-by-Step Guide 🚀](https://dev.to/alex_aslam/migrating-from-jenkins-to-github-actionsgitlab-ci-a-stress-free-step-by-step-guide-4fak)
-- [Automatic tag deletion for Docker registries](https://dev.to/moritzrinow/automatic-tag-deletion-for-docker-registries-122h)
-- [Behind the Build: Engineering an AI-Powered Digital Banking SuperApp Using React Micro-Apps](https://dev.to/jason_linus_31db0de7f8441/behind-the-build-engineering-an-ai-powered-digital-banking-superapp-using-react-micro-apps-57o5)
-- [Tech Skills Growth Guide](https://dev.to/tak089/tech-skills-growth-guide-24e2)
+- [Why FastAPI Will Supercharge Your Next Python Project 🚀](https://dev.to/mahuel18/why-fastapi-will-supercharge-your-next-python-project-4i65)
+- [[Boost]](https://dev.to/mahdijazini/-1o50)
+- [Cybersecurity Metrics &amp; KPIs in 2025: The Key Indicators Every Business Should Track](https://dev.to/corbado/cybersecurity-metrics-kpis-in-2025-the-key-indicators-every-business-should-track-3fjp)
+- [How to Properly Use CSS in Your React Project](https://dev.to/generatecodedev/how-to-properly-use-css-in-your-react-project-kam)
 <!-- BLOG-POST-LIST:END -->
 
