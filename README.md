@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Creative Commons Zero 1.0: A Deep Dive into Open Collaboration and Licensing Evolution](https://dev.to/rachellovestowrite/unveiling-creative-commons-zero-10-a-deep-dive-into-open-collaboration-and-licensing-evolution-2hk7)
-- [Lovable vs Bolt — What&#39;s Best?](https://dev.to/this-is-learning/lovable-vs-bolt-whats-best-2447)
-- [[Dev Notes] Implementing Photo-Gallery-Style Sliding Multi-Select with Custom Gestures](https://dev.to/handwer/dev-notes-implementing-photo-gallery-style-sliding-multi-select-with-custom-gestures-53n3)
-- [Starting JS Today 💻](https://dev.to/krishna_chd/starting-js-today-27po)
+- [Unveiling CeCILL Free Software License Agreement 2.1: A Comprehensive Exploration](https://dev.to/laetitiaperraut/unveiling-cecill-free-software-license-agreement-21-a-comprehensive-exploration-11k2)
+- [Fine-Tuning SSL Protocols and Ciphers in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/fine-tuning-ssl-protocols-and-ciphers-in-safeline-waf-3fbi)
+- [Mentorship: How to Get the Most Out of Your Mentoring Experience](https://dev.to/diamantino_almeida/mentorship-how-to-get-the-most-out-of-your-mentoring-experience-26ka)
+- [Top 5 Benefits of Using Breathing Caps in Industrial and Automotive Systems](https://dev.to/porvent/top-5-benefits-of-using-breathing-caps-in-industrial-and-automotive-systems-3ebh)
 <!-- BLOG-POST-LIST:END -->
 
