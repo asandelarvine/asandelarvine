@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Retrospective Tools for Agile Teams 💡](https://dev.to/mattlewandowski93/top-free-retrospective-tools-for-agile-teams-4je0)
-- [ShowDev: OpsBay – Self-Hosted Dev Tools Without the Hassle](https://dev.to/itefixnet/showdev-opsbay-self-hosted-dev-tools-without-the-hassle-34a7)
-- [Build Your Own Voice Chatbot From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-voice-chatbot-from-scratch-a-pocketflow-tutorial-o93)
-- [Setting Up Modular Capability Plugins &lpar;MCP&rpar; with Amazon Q on Arch Linux](https://dev.to/lakmalya/setting-up-modular-capability-plugins-mcp-with-amazon-q-on-arch-linux-ond)
+- [CLion agora é gratuito!](https://dev.to/marcosplusplus/clion-agora-e-gratuito-kge)
+- [AI as Exploit: The Weaponization of Perception and Authority](https://dev.to/anthony_fox_aabf9d00159f3/ai-as-exploit-the-weaponization-of-perception-and-authority-1d3k)
+- [From Legacy Rest to GPC - Vanguard-Go ⚔️](https://dev.to/pullreview/from-legacy-rest-to-gpc-vanguard-go-5c5)
+- [What Is Vibe Coding?](https://dev.to/neopotato/what-is-vibe-coding-mke)
 <!-- BLOG-POST-LIST:END -->
 
