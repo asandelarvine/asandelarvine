@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NFTs on Solana vs Ethereum: Which Is Better for Brands?](https://dev.to/favebs/nfts-on-solana-vs-ethereum-which-is-better-for-brands-2khj)
-- [SolarWinds IT Asset Management: Features, Drawbacks, and Better Alternatives](https://dev.to/emily_assetloom/solarwinds-it-asset-management-features-drawbacks-and-better-alternatives-27eg)
-- [Wild Bets &amp; Island Dreams: What Crypto Billionaires Are Doing With Their Money &lpar;and What I’d Do Instead&rpar;](https://dev.to/iri_denis/wild-bets-island-dreams-what-crypto-billionaires-are-doing-with-their-money-and-what-id-do-3jp6)
-- [Frontiers in Robotics: Key Themes, Methodologies, and Innovations from May 2025 arXiv cs.RO Research](https://dev.to/khanali21/frontiers-in-robotics-key-themes-methodologies-and-innovations-from-may-2025-arxiv-csro-research-1m36)
+- [Manager’s guide: Planning &amp; budgeting a web component library for internal tools](https://dev.to/dronahq/managers-guide-planning-budgeting-a-web-component-library-for-internal-tools-6jn)
+- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
+- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
+- [My Latest Achievement: Reviewing ‘Mastering Visual Studio 2022’ – A Deep Dive Into Advanced C# &amp; .NET Development](https://dev.to/amr-saafan/my-latest-achievement-reviewing-mastering-visual-studio-2022-a-deep-dive-into-advanced-c--375j)
 <!-- BLOG-POST-LIST:END -->
 
