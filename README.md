@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task 7: ToDoList Creation](https://dev.to/pradeepmtm/task-7-todolist-creation-4deh)
-- [Solar-Powered IoT System for Monitoring Wooden Fence Deterioration](https://dev.to/karen_londres/solar-powered-iot-system-for-monitoring-wooden-fence-deterioration-1pe6)
-- [🛡️ What Is a Sovereign Cloud—and How Tanzu Spring + Spring AI Enable Innovation Within Borders](https://dev.to/michelle_sebek_/what-is-a-sovereign-cloud-and-how-tanzu-spring-spring-ai-enable-innovation-within-borders-5abm)
-- [Kotlin&#39;s Performance and What it Means](https://dev.to/gmitch215/kotlins-performance-and-what-it-means-19gj)
+- [How to Upload Files to SFTP Folders Using Bash](https://dev.to/generatecodedev/how-to-upload-files-to-sftp-folders-using-bash-7j4)
+- [Domain-Driven Architecture: Blueprint for Scalable Systems Part 2](https://dev.to/fredrick_oladipupo/domain-driven-architecture-blueprint-for-scalable-systems-part-2-2l8a)
+- [Proyecto Node.js con TypeScript y Clean Architecture para Gestión de Usuarios](https://dev.to/fullsnacker/proyecto-nodejs-con-typescript-y-clean-architecture-para-gestion-de-usuarios-1hap)
+- [🚀 10 Very Important Deployment Tips Every Developer Must Know](https://dev.to/er-raj-aryan/10-very-important-deployment-tips-every-developer-must-know-4fbd)
 <!-- BLOG-POST-LIST:END -->
 
