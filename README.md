@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Upload Files to SFTP Folders Using Bash](https://dev.to/generatecodedev/how-to-upload-files-to-sftp-folders-using-bash-7j4)
-- [Domain-Driven Architecture: Blueprint for Scalable Systems Part 2](https://dev.to/fredrick_oladipupo/domain-driven-architecture-blueprint-for-scalable-systems-part-2-2l8a)
-- [Proyecto Node.js con TypeScript y Clean Architecture para Gestión de Usuarios](https://dev.to/fullsnacker/proyecto-nodejs-con-typescript-y-clean-architecture-para-gestion-de-usuarios-1hap)
-- [🚀 10 Very Important Deployment Tips Every Developer Must Know](https://dev.to/er-raj-aryan/10-very-important-deployment-tips-every-developer-must-know-4fbd)
+- [Slideup Footer animation](https://dev.to/saneha_gill_36d91c4bb794c/slideup-footer-animation-2p41)
+- [// Basic shooter game using HTML Canvas and JavaScript const canvas = document.createElement&lpar;&#39;canvas&#39;&rpar;; const ctx = canvas.getContext&lpar;&#39;2d&#39;&rpar;; document.body.appendChild&lpar;canvas&rpar;; canvas.width = 800; canvas.height = 600; let keys = {}; let bullets = []; let e](https://dev.to/j_v_2aeae8f58409b9b881f72/-basic-shooter-game-using-html-canvas-and-javascript-const-canvas--1lcg)
+- [[Boost]](https://dev.to/sjmsre/-4d9b)
+- [Managing Shared Environments with Grace](https://dev.to/sjmsre/managing-shared-environments-with-grace-2f5i)
 <!-- BLOG-POST-LIST:END -->
 
