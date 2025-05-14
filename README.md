@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Magic of Object-Oriented Programming with Ruby](https://dev.to/daviducolo/unveiling-the-magic-of-object-oriented-programming-with-ruby-4ec)
-- [Building Agent-based GUIs: The Future of Human-Computer Interaction](https://dev.to/rakshith2605/building-agent-based-guis-the-future-of-human-computer-interaction-18kp)
-- [The Case for Code Simplicity in the Age of AI](https://dev.to/ujjavala/the-case-for-code-simplicity-in-the-age-of-ai-1edn)
-- [Build React Native Apps: Offline-First Approach Using GraphQL and Caching](https://dev.to/theaydev/build-react-native-apps-offline-first-approach-using-graphql-and-caching-33gn)
+- [Task 7: ToDoList Creation](https://dev.to/pradeepmtm/task-7-todolist-creation-4deh)
+- [Solar-Powered IoT System for Monitoring Wooden Fence Deterioration](https://dev.to/karen_londres/solar-powered-iot-system-for-monitoring-wooden-fence-deterioration-1pe6)
+- [🛡️ What Is a Sovereign Cloud—and How Tanzu Spring + Spring AI Enable Innovation Within Borders](https://dev.to/michelle_sebek_/what-is-a-sovereign-cloud-and-how-tanzu-spring-spring-ai-enable-innovation-within-borders-5abm)
+- [Kotlin&#39;s Performance and What it Means](https://dev.to/gmitch215/kotlins-performance-and-what-it-means-19gj)
 <!-- BLOG-POST-LIST:END -->
 
