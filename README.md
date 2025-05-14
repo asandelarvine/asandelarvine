@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Expansion of IoT-Integrated Apps: The Next Frontier in Mobile App Development](https://dev.to/p_0c0278d/the-expansion-of-iot-integrated-apps-the-next-frontier-in-mobile-app-development-enb)
-- [Smarter Web App Defense with SafeLine WAF: Dynamic Protection &amp; Anti-Crawling Made Simple](https://dev.to/sharon_42e16b8da44dabde6d/smarter-web-app-defense-with-safeline-waf-dynamic-protection-anti-crawling-made-simple-3l7)
-- [DIY Python Web Scraping Tool: Proxy IP Management and Optimization Tips](https://dev.to/member_960fb7a7/diy-python-web-scraping-tool-proxy-ip-management-and-optimization-tips-oma)
-- [AI Automation &amp; AI Agents: The Future of Autonomous Operations](https://dev.to/routeclouds/ai-automation-ai-agents-the-future-of-autonomous-operations-2a9b)
+- [HTML for Beginners: Everything You Need to Know to Get Started](https://dev.to/pythontutorial/html-for-beginners-everything-you-need-to-know-to-get-started-30i3)
+- [Leveraging Helm for Standardized Application Deployments: A Technical Deep Dive](https://dev.to/sudip_chhatui/leveraging-helm-for-standardized-application-deployments-a-technical-deep-dive-51ko)
+- [Why Do Both echo /$USER and echo &#39;$USER&#39; Output the Same in Bash?](https://dev.to/generatecodedev/why-do-both-echo-user-and-echo-user-output-the-same-in-bash-1cp9)
+- [Network Security: Using Socks5 Proxies to Prevent Hacking Attacks](https://dev.to/member_960fb7a7/network-security-using-socks5-proxies-to-prevent-hacking-attacks-4f97)
 <!-- BLOG-POST-LIST:END -->
 
