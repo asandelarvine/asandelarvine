@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Patent Invalidity Search Steps: A Guide for Professionals](https://dev.to/patentscanai/mastering-patent-invalidity-search-steps-a-guide-for-professionals-l1n)
-- [DocTextExtractor: A Flutter Package to Extract Text from Word, PDF, Google Docs, and Markdown](https://dev.to/destinyed/doctextextractor-a-flutter-package-to-extract-text-from-word-pdf-google-docs-and-markdown-5gj4)
-- [Deploying Storage Solution for Testing and Training.](https://dev.to/lotanna_obianefo/deploying-storage-solution-for-testing-and-training-3ppg)
-- [Why is C++ Expression Evaluated Wrong for &#39;x3 - y&#39;?](https://dev.to/generatecodedev/why-is-c-expression-evaluated-wrong-for-x3-y-3cfb)
+- [Top Free Retrospective Tools for Agile Teams 💡](https://dev.to/mattlewandowski93/top-free-retrospective-tools-for-agile-teams-4je0)
+- [ShowDev: OpsBay – Self-Hosted Dev Tools Without the Hassle](https://dev.to/itefixnet/showdev-opsbay-self-hosted-dev-tools-without-the-hassle-34a7)
+- [Build Your Own Voice Chatbot From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-voice-chatbot-from-scratch-a-pocketflow-tutorial-o93)
+- [Setting Up Modular Capability Plugins &lpar;MCP&rpar; with Amazon Q on Arch Linux](https://dev.to/lakmalya/setting-up-modular-capability-plugins-mcp-with-amazon-q-on-arch-linux-ond)
 <!-- BLOG-POST-LIST:END -->
 
