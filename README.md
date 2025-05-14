@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML for Beginners: Everything You Need to Know to Get Started](https://dev.to/pythontutorial/html-for-beginners-everything-you-need-to-know-to-get-started-30i3)
-- [Leveraging Helm for Standardized Application Deployments: A Technical Deep Dive](https://dev.to/sudip_chhatui/leveraging-helm-for-standardized-application-deployments-a-technical-deep-dive-51ko)
-- [Why Do Both echo /$USER and echo &#39;$USER&#39; Output the Same in Bash?](https://dev.to/generatecodedev/why-do-both-echo-user-and-echo-user-output-the-same-in-bash-1cp9)
-- [Network Security: Using Socks5 Proxies to Prevent Hacking Attacks](https://dev.to/member_960fb7a7/network-security-using-socks5-proxies-to-prevent-hacking-attacks-4f97)
+- [Unveiling Creative Commons Zero 1.0: A Deep Dive into Open Collaboration and Licensing Evolution](https://dev.to/rachellovestowrite/unveiling-creative-commons-zero-10-a-deep-dive-into-open-collaboration-and-licensing-evolution-2hk7)
+- [Lovable vs Bolt — What&#39;s Best?](https://dev.to/this-is-learning/lovable-vs-bolt-whats-best-2447)
+- [[Dev Notes] Implementing Photo-Gallery-Style Sliding Multi-Select with Custom Gestures](https://dev.to/handwer/dev-notes-implementing-photo-gallery-style-sliding-multi-select-with-custom-gestures-53n3)
+- [Starting JS Today 💻](https://dev.to/krishna_chd/starting-js-today-27po)
 <!-- BLOG-POST-LIST:END -->
 
