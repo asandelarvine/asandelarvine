@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manager’s guide: Planning &amp; budgeting a web component library for internal tools](https://dev.to/dronahq/managers-guide-planning-budgeting-a-web-component-library-for-internal-tools-6jn)
-- [Are Apologies Training AIs to Deceive?](https://dev.to/rawveg/are-apologies-training-ais-to-deceive-3ja3)
-- [Untitled](https://dev.to/deeptargha_kumar_5c8e51da/untitled-2a99)
-- [My Latest Achievement: Reviewing ‘Mastering Visual Studio 2022’ – A Deep Dive Into Advanced C# &amp; .NET Development](https://dev.to/amr-saafan/my-latest-achievement-reviewing-mastering-visual-studio-2022-a-deep-dive-into-advanced-c--375j)
+- [How To Make Website Using HTML and CSS | Website Design With HTML And CSS | Animation Using GSAP](https://dev.to/code_area_9036c9663233d92/how-to-make-website-using-html-and-css-website-design-with-html-and-css-animation-using-gsap-2pi5)
+- [The Next Digital Workforce: AI Copilot Solutions and the Future of Work.](https://dev.to/gabrielmateo/the-next-digital-workforce-ai-copilot-solutions-and-the-future-of-work-1082)
+- [How to Use SQL in Go](https://dev.to/coding-with-patrik/how-to-use-sql-in-go-3ekk)
+- [Scrum vs. Kanban vs. SAFe: Choosing the Right Agile Framework for Your Team](https://dev.to/abdul_rafay_d745e1094fdd5/scrum-vs-kanban-vs-safe-choosing-the-right-agile-framework-for-your-team-27l0)
 <!-- BLOG-POST-LIST:END -->
 
