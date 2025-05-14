@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak and Spring Boot: The Ultimate Guide to Implementing Single Sign-On](https://dev.to/tuan/keycloak-and-spring-boot-the-ultimate-guide-to-implementing-single-sign-on-j6k)
-- [K8s basic for dev!](https://dev.to/tuan/k8s-basic-for-dev-3alh)
-- [How to Test Dart Function Assertion Errors Gracefully?](https://dev.to/generatecodedev/how-to-test-dart-function-assertion-errors-gracefully-4a0j)
-- [🐳 What is Docker? A Beginner-Friendly Breakdown](https://dev.to/arafique458/what-is-docker-a-beginner-friendly-breakdown-2h7o)
+- [How to Write Better Functions: A Clean Code Checklist](https://dev.to/sanjeev_kumar_55ba8af553a/how-to-write-better-functions-a-clean-code-checklist-39an)
+- [Cách Tích Hợp Đăng Nhập Google, GitHub Và Facebook Trong Ứng Dụng Java &lpar;Spring Boot&rpar;](https://dev.to/uyen/cach-tich-hop-dang-nhap-google-github-va-facebook-trong-ung-dung-java-spring-boot-25je)
+- [I Built tip.md to Help Open-Source Devs Get Crypto Tips via GitHub READMEs—What Do You Think?](https://dev.to/xr0am/i-built-tipmd-to-help-open-source-devs-get-crypto-tips-via-github-readmes-what-do-you-think-2p0b)
+- [How to Select Rows from a DataFrame in Pandas Based on Column Values?](https://dev.to/generatecodedev/how-to-select-rows-from-a-dataframe-in-pandas-based-on-column-values-4145)
 <!-- BLOG-POST-LIST:END -->
 
