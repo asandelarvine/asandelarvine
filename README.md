@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Standard Deviation in Python with np.std](https://dev.to/tpointtechblog/mastering-standard-deviation-in-python-with-npstd-1aff)
-- [How to Create Custom Marshaler for gRPC in Go?](https://dev.to/generatecodedev/how-to-create-custom-marshaler-for-grpc-in-go-35p5)
-- [A Tale of TCO in JavaScript](https://dev.to/dcotelessa/a-tale-of-tco-in-javascript-4i91)
-- [Role of MLOps in Machine Learning Deployment](https://dev.to/sum_byron/role-of-mlops-in-machine-learning-deployment-4dm4)
+- [How to Partition Using GParted Live](https://dev.to/jakariyaaa/how-to-partition-using-gparted-live-4m44)
+- [Implementing a Realistic 3D Air Hockey Table with Three.js and React](https://dev.to/yomero243/implementing-a-realistic-3d-air-hockey-table-with-threejs-and-react-28hn)
+- [Making Sense of Software Architecture with the C4 Model](https://dev.to/lovestaco/making-sense-of-software-architecture-with-the-c4-model-1814)
+- [The Easiest Way to Be Ignored When Communicating at Work](https://dev.to/canro91/the-easiest-way-to-be-ignored-when-communicating-at-work-1hb9)
 <!-- BLOG-POST-LIST:END -->
 
