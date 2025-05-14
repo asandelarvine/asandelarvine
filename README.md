@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Order Changes Behavior in Chained Decorators](https://dev.to/hevalhazalkurt/how-order-changes-behavior-in-chained-decorators-5932)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-2hcn)
-- [How to Efficiently Override ListTile in Flutter with Dart?](https://dev.to/generatecodedev/how-to-efficiently-override-listtile-in-flutter-with-dart-5f3i)
-- [Log Level Control - in Real-Time](https://dev.to/kiponos/log-level-control-in-real-time-58o1)
+- [We Use Angular: Discover the Companies Powering Their Products with Angular](https://dev.to/ng-delhi/we-use-angular-discover-the-companies-powering-their-products-with-angular-j1g)
+- [🌐 Why You Should Use Azure Front Door and WAF to Protect Your APIs](https://dev.to/kiranrongali/why-you-should-use-azure-front-door-and-waf-to-protect-your-apis-54d)
+- [Unleash Collaborative AI Power: Introducing the KeystoneAI-Framework &lpar;v2.0.0&rpar;!](https://dev.to/philippe_sthely_7739a5443/unleash-collaborative-ai-power-introducing-the-keystoneai-framework-v200-34p0)
+- [🚀 Introducing Markdown Viewer v2.0](https://dev.to/thisisdeveloper/introducing-markdown-viewer-v20-com)
 <!-- BLOG-POST-LIST:END -->
 
