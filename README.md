@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Make Website Using HTML and CSS | Website Design With HTML And CSS | Animation Using GSAP](https://dev.to/code_area_9036c9663233d92/how-to-make-website-using-html-and-css-website-design-with-html-and-css-animation-using-gsap-2pi5)
-- [The Next Digital Workforce: AI Copilot Solutions and the Future of Work.](https://dev.to/gabrielmateo/the-next-digital-workforce-ai-copilot-solutions-and-the-future-of-work-1082)
-- [How to Use SQL in Go](https://dev.to/coding-with-patrik/how-to-use-sql-in-go-3ekk)
-- [Scrum vs. Kanban vs. SAFe: Choosing the Right Agile Framework for Your Team](https://dev.to/abdul_rafay_d745e1094fdd5/scrum-vs-kanban-vs-safe-choosing-the-right-agile-framework-for-your-team-27l0)
+- [How I &lpar;Almost&rpar; Outsourced My Brain to Gemini Pro](https://dev.to/d2d_weizhi/how-i-almost-outsourced-my-brain-to-gemini-pro-430n)
+- [Everything you need to know about Token Listings in 2025](https://dev.to/wellschristopher/everything-you-need-to-know-about-token-listings-in-2025-246b)
+- [5 Things That Should Be Illegal to Self Host](https://dev.to/code42cate/5-things-that-should-be-illegal-to-self-host-3d21)
+- [Seamless Unit Testing Across Technologies - Running Python Tests from .NET Web API](https://dev.to/javonet/seamless-unit-testing-across-technologies-running-python-tests-from-net-web-api-542o)
 <!-- BLOG-POST-LIST:END -->
 
