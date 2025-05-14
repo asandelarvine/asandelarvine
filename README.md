@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling CeCILL Free Software License Agreement 2.1: A Comprehensive Exploration](https://dev.to/laetitiaperraut/unveiling-cecill-free-software-license-agreement-21-a-comprehensive-exploration-11k2)
-- [Fine-Tuning SSL Protocols and Ciphers in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/fine-tuning-ssl-protocols-and-ciphers-in-safeline-waf-3fbi)
-- [Mentorship: How to Get the Most Out of Your Mentoring Experience](https://dev.to/diamantino_almeida/mentorship-how-to-get-the-most-out-of-your-mentoring-experience-26ka)
-- [Top 5 Benefits of Using Breathing Caps in Industrial and Automotive Systems](https://dev.to/porvent/top-5-benefits-of-using-breathing-caps-in-industrial-and-automotive-systems-3ebh)
+- [NFTs on Solana vs Ethereum: Which Is Better for Brands?](https://dev.to/favebs/nfts-on-solana-vs-ethereum-which-is-better-for-brands-2khj)
+- [SolarWinds IT Asset Management: Features, Drawbacks, and Better Alternatives](https://dev.to/emily_assetloom/solarwinds-it-asset-management-features-drawbacks-and-better-alternatives-27eg)
+- [Wild Bets &amp; Island Dreams: What Crypto Billionaires Are Doing With Their Money &lpar;and What I’d Do Instead&rpar;](https://dev.to/iri_denis/wild-bets-island-dreams-what-crypto-billionaires-are-doing-with-their-money-and-what-id-do-3jp6)
+- [Frontiers in Robotics: Key Themes, Methodologies, and Innovations from May 2025 arXiv cs.RO Research](https://dev.to/khanali21/frontiers-in-robotics-key-themes-methodologies-and-innovations-from-may-2025-arxiv-csro-research-1m36)
 <!-- BLOG-POST-LIST:END -->
 
