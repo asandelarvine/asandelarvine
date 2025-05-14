@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I &lpar;Almost&rpar; Outsourced My Brain to Gemini Pro](https://dev.to/d2d_weizhi/how-i-almost-outsourced-my-brain-to-gemini-pro-430n)
-- [Everything you need to know about Token Listings in 2025](https://dev.to/wellschristopher/everything-you-need-to-know-about-token-listings-in-2025-246b)
-- [5 Things That Should Be Illegal to Self Host](https://dev.to/code42cate/5-things-that-should-be-illegal-to-self-host-3d21)
-- [Seamless Unit Testing Across Technologies - Running Python Tests from .NET Web API](https://dev.to/javonet/seamless-unit-testing-across-technologies-running-python-tests-from-net-web-api-542o)
+- [Unveiling the Magic of Object-Oriented Programming with Ruby](https://dev.to/daviducolo/unveiling-the-magic-of-object-oriented-programming-with-ruby-4ec)
+- [Building Agent-based GUIs: The Future of Human-Computer Interaction](https://dev.to/rakshith2605/building-agent-based-guis-the-future-of-human-computer-interaction-18kp)
+- [The Case for Code Simplicity in the Age of AI](https://dev.to/ujjavala/the-case-for-code-simplicity-in-the-age-of-ai-1edn)
+- [Build React Native Apps: Offline-First Approach Using GraphQL and Caching](https://dev.to/theaydev/build-react-native-apps-offline-first-approach-using-graphql-and-caching-33gn)
 <!-- BLOG-POST-LIST:END -->
 
