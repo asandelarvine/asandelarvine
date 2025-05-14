@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Ollama with TypeScript: A Simple Guide](https://dev.to/jonigl/using-ollama-with-typescript-a-simple-guide-1nf4)
-- [Day 3: Create, Read, Delete — Your First File Kung Fu in RHEL 9](https://dev.to/higgs182092/day-3-create-read-delete-your-first-file-kung-fu-in-rhel-9-3dmb)
-- [I built a simple fitness tracker to fix my own problem — here’s the stack I used](https://dev.to/yoavsbg17/i-built-a-simple-fitness-tracker-to-fix-my-own-problem-heres-the-stack-i-used-4829)
-- [How to Send Pardot Tracking Data in ASP.NET without AJAX?](https://dev.to/generatecodedev/how-to-send-pardot-tracking-data-in-aspnet-without-ajax-12pf)
+- [Mastering Patent Invalidity Search Steps: A Guide for Professionals](https://dev.to/patentscanai/mastering-patent-invalidity-search-steps-a-guide-for-professionals-l1n)
+- [DocTextExtractor: A Flutter Package to Extract Text from Word, PDF, Google Docs, and Markdown](https://dev.to/destinyed/doctextextractor-a-flutter-package-to-extract-text-from-word-pdf-google-docs-and-markdown-5gj4)
+- [Deploying Storage Solution for Testing and Training.](https://dev.to/lotanna_obianefo/deploying-storage-solution-for-testing-and-training-3ppg)
+- [Why is C++ Expression Evaluated Wrong for &#39;x3 - y&#39;?](https://dev.to/generatecodedev/why-is-c-expression-evaluated-wrong-for-x3-y-3cfb)
 <!-- BLOG-POST-LIST:END -->
 
