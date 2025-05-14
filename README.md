@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling European Union Public License 1.2: Balancing Fair Code and Open Source Innovation](https://dev.to/rachellovestowrite/unveiling-european-union-public-license-12-balancing-fair-code-and-open-source-innovation-mp)
-- [How to Conduct an Effective Patent Invalidity Search Using PatentScan.AI](https://dev.to/muhammad_abdullah_0f40cb1/how-to-conduct-an-effective-patent-invalidity-search-using-patentscanai-2ibm)
-- [What are Linkage Types in C Translation Units?](https://dev.to/generatecodedev/what-are-linkage-types-in-c-translation-units-3knf)
-- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
+- [Keycloak and Spring Boot: The Ultimate Guide to Implementing Single Sign-On](https://dev.to/tuan/keycloak-and-spring-boot-the-ultimate-guide-to-implementing-single-sign-on-j6k)
+- [K8s basic for dev!](https://dev.to/tuan/k8s-basic-for-dev-3alh)
+- [How to Test Dart Function Assertion Errors Gracefully?](https://dev.to/generatecodedev/how-to-test-dart-function-assertion-errors-gracefully-4a0j)
+- [🐳 What is Docker? A Beginner-Friendly Breakdown](https://dev.to/arafique458/what-is-docker-a-beginner-friendly-breakdown-2h7o)
 <!-- BLOG-POST-LIST:END -->
 
