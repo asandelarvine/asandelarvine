@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Partition Using GParted Live](https://dev.to/jakariyaaa/how-to-partition-using-gparted-live-4m44)
-- [Implementing a Realistic 3D Air Hockey Table with Three.js and React](https://dev.to/yomero243/implementing-a-realistic-3d-air-hockey-table-with-threejs-and-react-28hn)
-- [Making Sense of Software Architecture with the C4 Model](https://dev.to/lovestaco/making-sense-of-software-architecture-with-the-c4-model-1814)
-- [The Easiest Way to Be Ignored When Communicating at Work](https://dev.to/canro91/the-easiest-way-to-be-ignored-when-communicating-at-work-1hb9)
+- [The Expansion of IoT-Integrated Apps: The Next Frontier in Mobile App Development](https://dev.to/p_0c0278d/the-expansion-of-iot-integrated-apps-the-next-frontier-in-mobile-app-development-enb)
+- [Smarter Web App Defense with SafeLine WAF: Dynamic Protection &amp; Anti-Crawling Made Simple](https://dev.to/sharon_42e16b8da44dabde6d/smarter-web-app-defense-with-safeline-waf-dynamic-protection-anti-crawling-made-simple-3l7)
+- [DIY Python Web Scraping Tool: Proxy IP Management and Optimization Tips](https://dev.to/member_960fb7a7/diy-python-web-scraping-tool-proxy-ip-management-and-optimization-tips-oma)
+- [AI Automation &amp; AI Agents: The Future of Autonomous Operations](https://dev.to/routeclouds/ai-automation-ai-agents-the-future-of-autonomous-operations-2a9b)
 <!-- BLOG-POST-LIST:END -->
 
