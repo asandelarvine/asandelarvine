@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slideup Footer animation](https://dev.to/saneha_gill_36d91c4bb794c/slideup-footer-animation-2p41)
-- [// Basic shooter game using HTML Canvas and JavaScript const canvas = document.createElement&lpar;&#39;canvas&#39;&rpar;; const ctx = canvas.getContext&lpar;&#39;2d&#39;&rpar;; document.body.appendChild&lpar;canvas&rpar;; canvas.width = 800; canvas.height = 600; let keys = {}; let bullets = []; let e](https://dev.to/j_v_2aeae8f58409b9b881f72/-basic-shooter-game-using-html-canvas-and-javascript-const-canvas--1lcg)
-- [[Boost]](https://dev.to/sjmsre/-4d9b)
-- [Managing Shared Environments with Grace](https://dev.to/sjmsre/managing-shared-environments-with-grace-2f5i)
+- [How Order Changes Behavior in Chained Decorators](https://dev.to/hevalhazalkurt/how-order-changes-behavior-in-chained-decorators-5932)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-2hcn)
+- [How to Efficiently Override ListTile in Flutter with Dart?](https://dev.to/generatecodedev/how-to-efficiently-override-listtile-in-flutter-with-dart-5f3i)
+- [Log Level Control - in Real-Time](https://dev.to/kiponos/log-level-control-in-real-time-58o1)
 <!-- BLOG-POST-LIST:END -->
 
