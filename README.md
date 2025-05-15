@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Vowel-java](https://dev.to/neelakandan_ravi/remove-vowel-java-33ph)
-- [How to Handle Null Values and Case Sensitivity in JPA Queries](https://dev.to/generatecodedev/how-to-handle-null-values-and-case-sensitivity-in-jpa-queries-1m5a)
-- [🎉 Two New Milestones on My Full Stack Journey! 🚀](https://dev.to/sneha152004/two-new-milestones-on-my-full-stack-journey-1j3c)
-- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
+- [HarmonyOS Next Industrial Control Application Development Case Analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-industrial-control-application-development-case-analysis-2e2i)
+- [HarmonyOS Next Education Application Development Practice and Thoughts](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-education-application-development-practice-and-thoughts-51n1)
+- [HarmonyOS Next Medical Health Application Development Exploration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-medical-health-application-development-exploration-4afn)
+- [HarmonyOS Next e-commerce application development full process analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-e-commerce-application-development-full-process-analysis-4a90)
 <!-- BLOG-POST-LIST:END -->
 
