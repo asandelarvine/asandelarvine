@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ICTC 2025: A Developer&#39;s Perspective on the Future of Competitive Crypto Trading](https://dev.to/alexnav/ictc-2025-a-developers-perspective-on-the-future-of-competitive-crypto-trading-2klg)
-- [TDZ Pro is clearly operating on a different level with this strategy.](https://dev.to/purpleartisansalad/tdz-pro-is-clearly-operating-on-a-different-level-with-this-strategy-jmn)
-- [Query MongoDB Like a Human with ScoutDB](https://dev.to/bhuvaneshm_dev/query-mongodb-like-a-human-with-scoutdb-4bg2)
-- [Elm’s Type Inference: Crafting Sound Code with Friendly Compiler](https://dev.to/jigargosar/elms-type-inference-crafting-sound-code-with-friendly-compiler-194h)
+- [🎯 Google Dorking for Job Hunting: Advanced Tricks &amp; Commands &lpar;Part 2&rpar;](https://dev.to/nish2005karsh/google-dorking-for-job-hunting-advanced-tricks-commands-part-2-oeo)
+- [The Simple Math of why big tech needs AI](https://dev.to/mikkergimenez/the-simple-math-of-why-big-tech-needs-ai-15kb)
+- [Simplify Private Data Warehouse Ops: Visualized, Secure, and Fast with BendDeploy on Kubernetes](https://dev.to/ksanaka/simplify-private-data-warehouse-ops-visualized-secure-and-fast-with-benddeploy-on-kubernetes-1b1e)
+- [What’s the best way to find qualified Web3 developers in 2025?](https://dev.to/vadym_info_polus/whats-the-best-way-to-find-qualified-web3-developers-in-2025-aae)
 <!-- BLOG-POST-LIST:END -->
 
