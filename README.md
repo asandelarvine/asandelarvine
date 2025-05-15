@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Physics with Functional Programming and Haskell](https://dev.to/estebanmarin/learning-physics-with-functional-programming-and-haskell-l1h)
-- [🌐 Computer Networks: The Backbone of the Internet](https://dev.to/panicatthekernel/computer-networks-the-backbone-of-the-internet-3pml)
-- [◼️4/100 Block-by-Block: Securing content provenance](https://dev.to/nocibambi/4100-block-by-block-securing-content-provenance-37pg)
-- [Callbacks in JavaScript](https://dev.to/10samarth/callbacks-in-javascript-bo0)
+- [Remove Vowel-java](https://dev.to/neelakandan_ravi/remove-vowel-java-33ph)
+- [How to Handle Null Values and Case Sensitivity in JPA Queries](https://dev.to/generatecodedev/how-to-handle-null-values-and-case-sensitivity-in-jpa-queries-1m5a)
+- [🎉 Two New Milestones on My Full Stack Journey! 🚀](https://dev.to/sneha152004/two-new-milestones-on-my-full-stack-journey-1j3c)
+- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
 <!-- BLOG-POST-LIST:END -->
 
