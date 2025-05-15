@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Flask Blueprints: The First Step to Scalable Web Apps](https://dev.to/shravanjain/mastering-flask-blueprints-the-first-step-to-scalable-web-apps-1fg4)
-- [Chatbot Testing Using AI — How-To Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/chatbot-testing-using-ai-how-to-guide-148l)
-- [[Boost]](https://dev.to/rakeshv675/-6b0)
-- [Learn to Code and Land Your First Tech Job in 4 Months &lpar;Even If You’re Starting From Scratch&rpar;](https://dev.to/egledigital/learn-to-code-and-land-your-first-tech-job-in-4-months-even-if-youre-starting-from-scratch-3lka)
+- [Week 3 of Web Dev](https://dev.to/adhyanjain2512/week-3-of-web-dev-51cl)
+- [Catching Secrets Early: A Lightweight Build-Time Tripwire for Vite](https://dev.to/tawe/catching-secrets-early-a-lightweight-build-time-tripwire-for-vite-3caj)
+- [Compatibility Testing in Software: The Blind Spot in Load Testing](https://dev.to/yamsbar/compatibility-testing-in-software-the-blind-spot-in-load-testing-3caa)
+- [&quot;That&#39;s not what I meant.&quot; - Every designer, ever. Well let&#39;s fix that!](https://dev.to/atuxdesign/thats-not-what-i-meant-every-designer-ever-well-lets-fix-that-13a8)
 <!-- BLOG-POST-LIST:END -->
 
