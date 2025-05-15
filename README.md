@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OCR for Historical Documents and Unusual Fonts](https://dev.to/revisepdf/ocr-for-historical-documents-and-unusual-fonts-1ldl)
-- [RSA Conference 2025: How Agentic AI Is Redefining Trust, Identity, and Access at Scale](https://dev.to/gitguardian/rsa-conference-2025-how-agentic-ai-is-redefining-trust-identity-and-access-at-scale-2h3e)
-- [[Boost]](https://dev.to/cicirello/-2me8)
-- [Healthy Developer: How Sleep Enhances Your Well-being](https://dev.to/_0cf639bab57a4a0a3c7b4/healthy-developer-how-sleep-enhances-your-well-being-41n6)
+- [You&#39;re slicing your architecture wrong!](https://dev.to/somedood/youre-slicing-your-architecture-wrong-4ob9)
+- [Valve takes another step toward making SteamOS a true Windows competitor](https://dev.to/gg_news/valve-takes-another-step-toward-making-steamos-a-true-windows-competitor-e6p)
+- [small thought: Developer Ethics may be a bridge to work with AI tools](https://dev.to/arenukvern/small-thought-developer-ethics-may-be-a-bridge-to-work-with-ai-tools-3mha)
+- [Sony considers further price rises, as it braces for £500m tariffs impact](https://dev.to/gg_news/sony-considers-further-price-rises-as-it-braces-for-ps500m-tariffs-impact-59nm)
 <!-- BLOG-POST-LIST:END -->
 
