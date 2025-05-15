@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 20 Best AI Coding Agents🧙‍♂️](https://dev.to/dev_kiran/top-20-best-ai-coding-agents-3khe)
-- [Kubernetes Security in 2025: Best Practices for Protecting Your Clusters](https://dev.to/zazz_io/kubernetes-security-in-2025-best-practices-for-protecting-your-clusters-5gcf)
-- [Custom Form Components in Angular: Avoid These Common Mistakes](https://dev.to/aminkarimi_sis/custom-form-components-in-angular-avoid-these-common-mistakes-with-controlvalueaccessor-and-7be)
-- [Multiple Django apps on same port](https://dev.to/harnoorpuniyani/multiple-django-apps-on-same-port-31ma)
+- [The World&#39;s First Agentic Mongo GUI](https://dev.to/scoutdb/the-worlds-first-agentic-mongo-gui-1dni)
+- [mTLS in OneEntry: When Security Is Not an Option but a Standard](https://dev.to/oneentry/mtls-in-oneentry-when-security-is-not-an-option-but-a-standard-p36)
+- [Azure OpenAI vs Azure AI Search: What’s the Difference?](https://dev.to/harman_diaz/azure-openai-vs-azure-ai-search-whats-the-difference-7fb)
+- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
 <!-- BLOG-POST-LIST:END -->
 
