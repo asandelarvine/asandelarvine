@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 3 of Web Dev](https://dev.to/adhyanjain2512/week-3-of-web-dev-51cl)
-- [Catching Secrets Early: A Lightweight Build-Time Tripwire for Vite](https://dev.to/tawe/catching-secrets-early-a-lightweight-build-time-tripwire-for-vite-3caj)
-- [Compatibility Testing in Software: The Blind Spot in Load Testing](https://dev.to/yamsbar/compatibility-testing-in-software-the-blind-spot-in-load-testing-3caa)
-- [&quot;That&#39;s not what I meant.&quot; - Every designer, ever. Well let&#39;s fix that!](https://dev.to/atuxdesign/thats-not-what-i-meant-every-designer-ever-well-lets-fix-that-13a8)
+- [🔥Top 20 Best AI Coding Agents🧙‍♂️](https://dev.to/dev_kiran/top-20-best-ai-coding-agents-3khe)
+- [Kubernetes Security in 2025: Best Practices for Protecting Your Clusters](https://dev.to/zazz_io/kubernetes-security-in-2025-best-practices-for-protecting-your-clusters-5gcf)
+- [Custom Form Components in Angular: Avoid These Common Mistakes](https://dev.to/aminkarimi_sis/custom-form-components-in-angular-avoid-these-common-mistakes-with-controlvalueaccessor-and-7be)
+- [Multiple Django apps on same port](https://dev.to/harnoorpuniyani/multiple-django-apps-on-same-port-31ma)
 <!-- BLOG-POST-LIST:END -->
 
