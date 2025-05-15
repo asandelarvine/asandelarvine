@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The World&#39;s First Agentic Mongo GUI](https://dev.to/scoutdb/the-worlds-first-agentic-mongo-gui-1dni)
-- [mTLS in OneEntry: When Security Is Not an Option but a Standard](https://dev.to/oneentry/mtls-in-oneentry-when-security-is-not-an-option-but-a-standard-p36)
-- [Azure OpenAI vs Azure AI Search: What’s the Difference?](https://dev.to/harman_diaz/azure-openai-vs-azure-ai-search-whats-the-difference-7fb)
-- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
+- [Mastering Containers: Unraveling the Power of Orchestration](https://dev.to/naman_kaley_7ae6b731cb0f1/mastering-containers-unraveling-the-power-of-orchestration-2p8a)
+- [Authorizing Sport: Firebase + Permit.io](https://dev.to/na_dev_22af7e4ce79/authorizing-sport-firebase-permitio-404a)
+- [How to Handle Dialog and Back Button Issues in Flutter?](https://dev.to/generatecodedev/how-to-handle-dialog-and-back-button-issues-in-flutter-315k)
+- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
 <!-- BLOG-POST-LIST:END -->
 
