@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Effectively Vet Your Supply Chain for Optimal Performance](https://dev.to/sonichigo/how-to-effectively-vet-your-supply-chain-for-optimal-performance-1fkn)
-- [From Dev Sketch to Diagram with AI: Visualize Ideas and Generate JSON Like Never Before](https://dev.to/aidevtools/from-dev-sketch-to-diagram-with-ai-visualize-ideas-and-generate-json-like-never-before-41lk)
-- [How Server Management Practices Impact Website Performance: An SEO Perspective](https://dev.to/merin_reji_c98c113a0d2a47/how-server-management-practices-impact-website-performance-an-seo-perspective-10h1)
-- [Introducing Cloud Attachment Pro: A Free Redmine Plugin for Seamless Cloud Storage Integration](https://dev.to/railsfactory_sedin/introducing-cloud-attachment-pro-a-free-redmine-plugin-for-seamless-cloud-storage-integration-4bi1)
+- [How to Start Contributing to Open Source Projects &lpar;Even as a Beginner&rpar;](https://dev.to/dhis_is_jj/how-to-start-contributing-to-open-source-projects-even-as-a-beginner-4664)
+- [How to Choose the Right Tech Stack for Your Web App in 2025: A Complete Guide](https://dev.to/sneha_inspite_1afc598a1f9/how-to-choose-the-right-tech-stack-for-your-web-app-in-2025-a-complete-guide-c17)
+- [Announcing My New Weekly Article Series on System Design!](https://dev.to/ujjwall-r/announcing-my-new-weekly-article-series-on-system-design-175g)
+- [Gatekeepers Limit Continuous Delivery’s Benefits](https://dev.to/_steve_fenton_/gatekeepers-limit-continuous-deliverys-benefits-2kj7)
 <!-- BLOG-POST-LIST:END -->
 
