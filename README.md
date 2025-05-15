@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolve or Fade: How to Future-Proof Your Personal Brand in Tech](https://dev.to/okoye_ndidiamaka_5e3b7d30/evolve-or-fade-how-to-future-proof-your-personal-brand-in-tech-29m)
-- [Never get caught off guard: Receive your server&#39;s health every minute by Email](https://dev.to/philippe_borribo/never-get-caught-off-guard-receive-your-servers-health-every-minute-by-email-412f)
-- [Make C++ a better place #3: D as an alternative](https://dev.to/pikotutorial/make-c-a-better-place-3-d-as-an-alternative-29a7)
-- [In-Depth Analysis of HarmonyOS 5 ArkWeb: Unveiling Core Functions and Hidden Tips](https://dev.to/dcdvdv_a_5059c020ba962689/in-depth-analysis-of-harmonyos-5-arkweb-unveiling-core-functions-and-hidden-tips-1a5e)
+- [How to Effectively Vet Your Supply Chain for Optimal Performance](https://dev.to/sonichigo/how-to-effectively-vet-your-supply-chain-for-optimal-performance-1fkn)
+- [From Dev Sketch to Diagram with AI: Visualize Ideas and Generate JSON Like Never Before](https://dev.to/aidevtools/from-dev-sketch-to-diagram-with-ai-visualize-ideas-and-generate-json-like-never-before-41lk)
+- [How Server Management Practices Impact Website Performance: An SEO Perspective](https://dev.to/merin_reji_c98c113a0d2a47/how-server-management-practices-impact-website-performance-an-seo-perspective-10h1)
+- [Introducing Cloud Attachment Pro: A Free Redmine Plugin for Seamless Cloud Storage Integration](https://dev.to/railsfactory_sedin/introducing-cloud-attachment-pro-a-free-redmine-plugin-for-seamless-cloud-storage-integration-4bi1)
 <!-- BLOG-POST-LIST:END -->
 
