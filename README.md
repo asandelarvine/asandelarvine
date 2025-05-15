@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From 60 to 25 Hours: Practical Tips for Effective AI-Assisted Development](https://dev.to/snikidev/from-60-to-25-hours-practical-tips-for-effective-ai-assisted-development-5e3n)
-- [Functional Components vs Class components in React](https://dev.to/satya_venna_1994/functional-components-vs-class-components-in-react-3f7p)
-- [How Does an Ai name Generator Work?](https://dev.to/bazarmulyaofficial/how-does-an-ai-name-generator-work-49m8)
-- [How to Correctly Capture Mouse Click Coordinates in C++?](https://dev.to/generatecodedev/how-to-correctly-capture-mouse-click-coordinates-in-c-4n8a)
+- [How We Launched 10x Faster in Production](https://dev.to/gentos/how-we-launched-10x-faster-in-production-4fed)
+- [Unveiling the Historical Permission Notice and Disclaimer: A Deep Dive into Legacy Open Source Licensing](https://dev.to/vitalisorenko/unveiling-the-historical-permission-notice-and-disclaimer-a-deep-dive-into-legacy-open-source-4ion)
+- [Kinsing: el minero que afecta a sistemas Linux](https://dev.to/hermann_pollackhpollack/kinsing-el-minero-que-afecta-a-sistemas-linux-4ejm)
+- [How to Fix JavaScript Functions for Creating and Removing HTML Elements?](https://dev.to/generatecodedev/how-to-fix-javascript-functions-for-creating-and-removing-html-elements-3pe1)
 <!-- BLOG-POST-LIST:END -->
 
