@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Containers: Unraveling the Power of Orchestration](https://dev.to/naman_kaley_7ae6b731cb0f1/mastering-containers-unraveling-the-power-of-orchestration-2p8a)
-- [Authorizing Sport: Firebase + Permit.io](https://dev.to/na_dev_22af7e4ce79/authorizing-sport-firebase-permitio-404a)
-- [How to Handle Dialog and Back Button Issues in Flutter?](https://dev.to/generatecodedev/how-to-handle-dialog-and-back-button-issues-in-flutter-315k)
-- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
+- [From 60 to 25 Hours: Practical Tips for Effective AI-Assisted Development](https://dev.to/snikidev/from-60-to-25-hours-practical-tips-for-effective-ai-assisted-development-5e3n)
+- [Functional Components vs Class components in React](https://dev.to/satya_venna_1994/functional-components-vs-class-components-in-react-3f7p)
+- [How Does an Ai name Generator Work?](https://dev.to/bazarmulyaofficial/how-does-an-ai-name-generator-work-49m8)
+- [How to Correctly Capture Mouse Click Coordinates in C++?](https://dev.to/generatecodedev/how-to-correctly-capture-mouse-click-coordinates-in-c-4n8a)
 <!-- BLOG-POST-LIST:END -->
 
