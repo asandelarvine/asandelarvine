@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BREAKING NEWS: Revolutionary AI Scheduling Model Disrupts Multi-Billion Dollar Industries](https://dev.to/hitesh_pandey_3792c88782e/breaking-news-revolutionary-ai-scheduling-model-disrupts-multi-billion-dollar-industries-kk1)
-- [How to Overwrite CSS Grid Properties with JavaScript?](https://dev.to/generatecodedev/how-to-overwrite-css-grid-properties-with-javascript-3k0e)
-- [Understanding Android Fragmentation and Its Impact on Testers](https://dev.to/misterankit/understanding-android-fragmentation-and-its-impact-on-testers-i0m)
-- [Why Does SIGINT Queue Behavior in C Work This Way?](https://dev.to/generatecodedev/why-does-sigint-queue-behavior-in-c-work-this-way-4d84)
+- [Learning Physics with Functional Programming and Haskell](https://dev.to/estebanmarin/learning-physics-with-functional-programming-and-haskell-l1h)
+- [🌐 Computer Networks: The Backbone of the Internet](https://dev.to/panicatthekernel/computer-networks-the-backbone-of-the-internet-3pml)
+- [◼️4/100 Block-by-Block: Securing content provenance](https://dev.to/nocibambi/4100-block-by-block-securing-content-provenance-37pg)
+- [Callbacks in JavaScript](https://dev.to/10samarth/callbacks-in-javascript-bo0)
 <!-- BLOG-POST-LIST:END -->
 
