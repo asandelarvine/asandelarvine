@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next Industrial Control Application Development Case Analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-industrial-control-application-development-case-analysis-2e2i)
-- [HarmonyOS Next Education Application Development Practice and Thoughts](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-education-application-development-practice-and-thoughts-51n1)
-- [HarmonyOS Next Medical Health Application Development Exploration](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-medical-health-application-development-exploration-4afn)
-- [HarmonyOS Next e-commerce application development full process analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-e-commerce-application-development-full-process-analysis-4a90)
+- [Evolve or Fade: How to Future-Proof Your Personal Brand in Tech](https://dev.to/okoye_ndidiamaka_5e3b7d30/evolve-or-fade-how-to-future-proof-your-personal-brand-in-tech-29m)
+- [Never get caught off guard: Receive your server&#39;s health every minute by Email](https://dev.to/philippe_borribo/never-get-caught-off-guard-receive-your-servers-health-every-minute-by-email-412f)
+- [Make C++ a better place #3: D as an alternative](https://dev.to/pikotutorial/make-c-a-better-place-3-d-as-an-alternative-29a7)
+- [In-Depth Analysis of HarmonyOS 5 ArkWeb: Unveiling Core Functions and Hidden Tips](https://dev.to/dcdvdv_a_5059c020ba962689/in-depth-analysis-of-harmonyos-5-arkweb-unveiling-core-functions-and-hidden-tips-1a5e)
 <!-- BLOG-POST-LIST:END -->
 
