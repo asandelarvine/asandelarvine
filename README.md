@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Packages and Updates in Linux Efficiently](https://dev.to/marzena_pugo_b8978575380f/managing-packages-and-updates-in-linux-efficiently-4k0e)
-- [Self-Education by AI](https://dev.to/zenrajko/self-education-by-ai-h9g)
-- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
-- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
+- [OCR for Historical Documents and Unusual Fonts](https://dev.to/revisepdf/ocr-for-historical-documents-and-unusual-fonts-1ldl)
+- [RSA Conference 2025: How Agentic AI Is Redefining Trust, Identity, and Access at Scale](https://dev.to/gitguardian/rsa-conference-2025-how-agentic-ai-is-redefining-trust-identity-and-access-at-scale-2h3e)
+- [[Boost]](https://dev.to/cicirello/-2me8)
+- [Healthy Developer: How Sleep Enhances Your Well-being](https://dev.to/_0cf639bab57a4a0a3c7b4/healthy-developer-how-sleep-enhances-your-well-being-41n6)
 <!-- BLOG-POST-LIST:END -->
 
