@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling OpenLDAP Public License: A Comprehensive Analysis and Future Outlook](https://dev.to/ahmmrizv9/unveiling-openldap-public-license-a-comprehensive-analysis-and-future-outlook-53hh)
-- [Backend&#39;in Derinliklerinde: Veri Tabanı Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/backendin-derinliklerinde-veri-tabani-optimizasyonu-1i8h)
-- [How to Fix PydanticSchemaGenerationError with Nested DefaultDict in Python?](https://dev.to/generatecodedev/how-to-fix-pydanticschemagenerationerror-with-nested-defaultdict-in-python-1jn8)
-- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
+- [How Code Reviews Made Me a Better Engineer](https://dev.to/nalaka_sampath_72181287cf/how-code-reviews-made-me-a-better-engineer-dmo)
+- [Android SDK Architecture](https://dev.to/binoy123/android-sdk-architecture-5gk0)
+- [earned a certification on Let&#39;s Upgrade](https://dev.to/nivethavelu_063f1d9ce64f2/earned-a-certification-on-lets-upgrade-3jai)
+- [System Design for a Scalable Web Application](https://dev.to/er-raj-aryan/system-design-for-a-scalable-web-application-1gof)
 <!-- BLOG-POST-LIST:END -->
 
