@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Contributing to Open Source Projects &lpar;Even as a Beginner&rpar;](https://dev.to/dhis_is_jj/how-to-start-contributing-to-open-source-projects-even-as-a-beginner-4664)
-- [How to Choose the Right Tech Stack for Your Web App in 2025: A Complete Guide](https://dev.to/sneha_inspite_1afc598a1f9/how-to-choose-the-right-tech-stack-for-your-web-app-in-2025-a-complete-guide-c17)
-- [Announcing My New Weekly Article Series on System Design!](https://dev.to/ujjwall-r/announcing-my-new-weekly-article-series-on-system-design-175g)
-- [Gatekeepers Limit Continuous Delivery’s Benefits](https://dev.to/_steve_fenton_/gatekeepers-limit-continuous-deliverys-benefits-2kj7)
+- [Managing Packages and Updates in Linux Efficiently](https://dev.to/marzena_pugo_b8978575380f/managing-packages-and-updates-in-linux-efficiently-4k0e)
+- [Self-Education by AI](https://dev.to/zenrajko/self-education-by-ai-h9g)
+- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
+- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
 <!-- BLOG-POST-LIST:END -->
 
