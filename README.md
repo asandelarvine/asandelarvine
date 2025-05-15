@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Code Reviews Made Me a Better Engineer](https://dev.to/nalaka_sampath_72181287cf/how-code-reviews-made-me-a-better-engineer-dmo)
-- [Android SDK Architecture](https://dev.to/binoy123/android-sdk-architecture-5gk0)
-- [earned a certification on Let&#39;s Upgrade](https://dev.to/nivethavelu_063f1d9ce64f2/earned-a-certification-on-lets-upgrade-3jai)
-- [System Design for a Scalable Web Application](https://dev.to/er-raj-aryan/system-design-for-a-scalable-web-application-1gof)
+- [BREAKING NEWS: Revolutionary AI Scheduling Model Disrupts Multi-Billion Dollar Industries](https://dev.to/hitesh_pandey_3792c88782e/breaking-news-revolutionary-ai-scheduling-model-disrupts-multi-billion-dollar-industries-kk1)
+- [How to Overwrite CSS Grid Properties with JavaScript?](https://dev.to/generatecodedev/how-to-overwrite-css-grid-properties-with-javascript-3k0e)
+- [Understanding Android Fragmentation and Its Impact on Testers](https://dev.to/misterankit/understanding-android-fragmentation-and-its-impact-on-testers-i0m)
+- [Why Does SIGINT Queue Behavior in C Work This Way?](https://dev.to/generatecodedev/why-does-sigint-queue-behavior-in-c-work-this-way-4d84)
 <!-- BLOG-POST-LIST:END -->
 
