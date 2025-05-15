@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLion agora é gratuito!](https://dev.to/marcosplusplus/clion-agora-e-gratuito-kge)
-- [AI as Exploit: The Weaponization of Perception and Authority](https://dev.to/anthony_fox_aabf9d00159f3/ai-as-exploit-the-weaponization-of-perception-and-authority-1d3k)
-- [From Legacy Rest to GPC - Vanguard-Go ⚔️](https://dev.to/pullreview/from-legacy-rest-to-gpc-vanguard-go-5c5)
-- [What Is Vibe Coding?](https://dev.to/neopotato/what-is-vibe-coding-mke)
+- [Unveiling OpenLDAP Public License: A Comprehensive Analysis and Future Outlook](https://dev.to/ahmmrizv9/unveiling-openldap-public-license-a-comprehensive-analysis-and-future-outlook-53hh)
+- [Backend&#39;in Derinliklerinde: Veri Tabanı Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/backendin-derinliklerinde-veri-tabani-optimizasyonu-1i8h)
+- [How to Fix PydanticSchemaGenerationError with Nested DefaultDict in Python?](https://dev.to/generatecodedev/how-to-fix-pydanticschemagenerationerror-with-nested-defaultdict-in-python-1jn8)
+- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
 <!-- BLOG-POST-LIST:END -->
 
