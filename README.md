@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Launched 10x Faster in Production](https://dev.to/gentos/how-we-launched-10x-faster-in-production-4fed)
-- [Unveiling the Historical Permission Notice and Disclaimer: A Deep Dive into Legacy Open Source Licensing](https://dev.to/vitalisorenko/unveiling-the-historical-permission-notice-and-disclaimer-a-deep-dive-into-legacy-open-source-4ion)
-- [Kinsing: el minero que afecta a sistemas Linux](https://dev.to/hermann_pollackhpollack/kinsing-el-minero-que-afecta-a-sistemas-linux-4ejm)
-- [How to Fix JavaScript Functions for Creating and Removing HTML Elements?](https://dev.to/generatecodedev/how-to-fix-javascript-functions-for-creating-and-removing-html-elements-3pe1)
+- [🧠 Solana’s Ecosystem: Key Players and How Developers Can Leverage Them](https://dev.to/favebs/solanas-ecosystem-key-players-and-how-developers-can-leverage-them-1o1k)
+- [How to Validate Data for BMP Character Encoding in Java?](https://dev.to/generatecodedev/how-to-validate-data-for-bmp-character-encoding-in-java-225l)
+- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
+- [Automating My Docker Apache Server with Python](https://dev.to/vvakim/automating-my-docker-apache-server-with-python-2mo3)
 <!-- BLOG-POST-LIST:END -->
 
