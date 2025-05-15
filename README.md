@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Google Dorking for Job Hunting: Advanced Tricks &amp; Commands &lpar;Part 2&rpar;](https://dev.to/nish2005karsh/google-dorking-for-job-hunting-advanced-tricks-commands-part-2-oeo)
-- [The Simple Math of why big tech needs AI](https://dev.to/mikkergimenez/the-simple-math-of-why-big-tech-needs-ai-15kb)
-- [Simplify Private Data Warehouse Ops: Visualized, Secure, and Fast with BendDeploy on Kubernetes](https://dev.to/ksanaka/simplify-private-data-warehouse-ops-visualized-secure-and-fast-with-benddeploy-on-kubernetes-1b1e)
-- [What’s the best way to find qualified Web3 developers in 2025?](https://dev.to/vadym_info_polus/whats-the-best-way-to-find-qualified-web3-developers-in-2025-aae)
+- [Mastering Flask Blueprints: The First Step to Scalable Web Apps](https://dev.to/shravanjain/mastering-flask-blueprints-the-first-step-to-scalable-web-apps-1fg4)
+- [Chatbot Testing Using AI — How-To Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/chatbot-testing-using-ai-how-to-guide-148l)
+- [[Boost]](https://dev.to/rakeshv675/-6b0)
+- [Learn to Code and Land Your First Tech Job in 4 Months &lpar;Even If You’re Starting From Scratch&rpar;](https://dev.to/egledigital/learn-to-code-and-land-your-first-tech-job-in-4-months-even-if-youre-starting-from-scratch-3lka)
 <!-- BLOG-POST-LIST:END -->
 
