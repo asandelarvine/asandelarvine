@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re slicing your architecture wrong!](https://dev.to/somedood/youre-slicing-your-architecture-wrong-4ob9)
-- [Valve takes another step toward making SteamOS a true Windows competitor](https://dev.to/gg_news/valve-takes-another-step-toward-making-steamos-a-true-windows-competitor-e6p)
-- [small thought: Developer Ethics may be a bridge to work with AI tools](https://dev.to/arenukvern/small-thought-developer-ethics-may-be-a-bridge-to-work-with-ai-tools-3mha)
-- [Sony considers further price rises, as it braces for £500m tariffs impact](https://dev.to/gg_news/sony-considers-further-price-rises-as-it-braces-for-ps500m-tariffs-impact-59nm)
+- [ICTC 2025: A Developer&#39;s Perspective on the Future of Competitive Crypto Trading](https://dev.to/alexnav/ictc-2025-a-developers-perspective-on-the-future-of-competitive-crypto-trading-2klg)
+- [TDZ Pro is clearly operating on a different level with this strategy.](https://dev.to/purpleartisansalad/tdz-pro-is-clearly-operating-on-a-different-level-with-this-strategy-jmn)
+- [Query MongoDB Like a Human with ScoutDB](https://dev.to/bhuvaneshm_dev/query-mongodb-like-a-human-with-scoutdb-4bg2)
+- [Elm’s Type Inference: Crafting Sound Code with Friendly Compiler](https://dev.to/jigargosar/elms-type-inference-crafting-sound-code-with-friendly-compiler-194h)
 <!-- BLOG-POST-LIST:END -->
 
