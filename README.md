@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux in Action: Mastering User Account Operations &amp; Management](https://dev.to/dhavalthakar97/linux-in-action-mastering-user-account-operations-management-1neg)
-- [Help secure Express apps](https://dev.to/gnrlbzik/help-secure-express-apps-3p5i)
-- [Inside the UDP Protocol: Anatomy, Features, and &quot;Non-Services&quot;](https://dev.to/kumarprateek18/inside-the-udp-protocol-anatomy-features-and-non-services-3hfm)
-- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
+- [How to Transform Jupyter Notebook into a Maintainable AI Project](https://dev.to/eddiegulay/how-to-transform-jupyter-notebook-into-a-maintainable-ai-project-3cjl)
+- [Hero Sections: A small visual study](https://dev.to/macglencoe/hero-sections-a-small-visual-study-1moi)
+- [Analyzing V8’s Hidden Classes for Performance Insights](https://dev.to/omriluz1/analyzing-v8s-hidden-classes-for-performance-insights-3fhk)
+- [“Calculus, Code, and the Quiet Art of Understanding Change”](https://dev.to/mahi96/calculus-code-and-the-quiet-art-of-understanding-change-644)
 <!-- BLOG-POST-LIST:END -->
 
