@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your Eyes on the End: Using the tail Command for Real-Time File Monitoring](https://dev.to/dtemi/keep-your-eyes-on-the-end-using-the-tail-command-for-real-time-file-monitoring-47k1)
-- [Data related Non-Functional Requirements](https://dev.to/lukasniessen/-data-related-non-functional-requirements-gi5)
-- [🚀 Stop Wasting Time: 7 AI Tools Every Developer Should Be Using in 2025](https://dev.to/mohamed-riham/stop-wasting-time-7-ai-tools-every-developer-should-be-using-in-2025-4nl9)
-- [Next.js - Fundamentos](https://dev.to/mauriciogc/nextjs-fundamentos-35e2)
+- [Linux in Action: Mastering User Account Operations &amp; Management](https://dev.to/dhavalthakar97/linux-in-action-mastering-user-account-operations-management-1neg)
+- [Help secure Express apps](https://dev.to/gnrlbzik/help-secure-express-apps-3p5i)
+- [Inside the UDP Protocol: Anatomy, Features, and &quot;Non-Services&quot;](https://dev.to/kumarprateek18/inside-the-udp-protocol-anatomy-features-and-non-services-3hfm)
+- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
 <!-- BLOG-POST-LIST:END -->
 
