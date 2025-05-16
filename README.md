@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Transform Jupyter Notebook into a Maintainable AI Project](https://dev.to/eddiegulay/how-to-transform-jupyter-notebook-into-a-maintainable-ai-project-3cjl)
-- [Hero Sections: A small visual study](https://dev.to/macglencoe/hero-sections-a-small-visual-study-1moi)
-- [Analyzing V8’s Hidden Classes for Performance Insights](https://dev.to/omriluz1/analyzing-v8s-hidden-classes-for-performance-insights-3fhk)
-- [“Calculus, Code, and the Quiet Art of Understanding Change”](https://dev.to/mahi96/calculus-code-and-the-quiet-art-of-understanding-change-644)
+- [TypeScript as a Template Engine](https://dev.to/90dy/typescript-as-a-template-engine-4376)
+- [Ng-News 25/19: NgRx SignalStore Events, Nx 21](https://dev.to/this-is-angular/ng-news-2518-ngrx-signalstore-events-nx-21-1526)
+- [JavaScript Static vs Private: Explained by My Cat Oreo](https://dev.to/tanvir_azad/javascript-static-vs-private-explained-by-my-cat-oreo-4oeb)
+- [How I Built a Local AI Assistant for Obsidian — No Cloud, No API Keys](https://dev.to/gaston1balcarce/how-i-built-a-local-ai-assistant-for-obsidian-no-cloud-no-api-keys-a2k)
 <!-- BLOG-POST-LIST:END -->
 
