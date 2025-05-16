@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial Lengkap Menggunakan Git Rebase](https://dev.to/miki-dev/tutorial-lengkap-menggunakan-git-rebase-2025-3i1h)
-- [5 Best Free Reverse Proxy Solutions for 2025](https://dev.to/sharon_42e16b8da44dabde6d/5-best-free-reverse-proxy-solutions-for-2025-405h)
-- [Perfection Is Not Adding More, It’s Removing What’s Unnecessary—The Story of Elm](https://dev.to/jigargosar/perfection-is-not-adding-more-its-removing-whats-unnecessary-the-story-of-elm-26ci)
-- [ERC-4337’s Updated Developer Guide for AA, Ethereum Activates Pectra, Circle’s Gasless Transactions, DeFi Wallets vs AI Agents](https://dev.to/alexandradev/erc-4337s-updated-developer-guide-for-aa-ethereum-activates-pectra-circles-gasless-ce9)
+- [How Core Java Helped Me Understand the MERN Stack Better](https://dev.to/raajaryan/how-core-java-helped-me-understand-the-mern-stack-better-4mng)
+- [How to Install Qwen3-32B-GGUF Locally?](https://dev.to/nodeshiftcloud/how-to-install-qwen3-32b-gguf-locally-1d82)
+- [NuralTone Theme](https://dev.to/kaioodutra/nuraltone-theme-3e7n)
+- [📦 Stock Management System Project in Java &lpar;with Source Code&rpar;](https://dev.to/khushi_967474543cb2a20908/stock-management-system-project-in-java-with-source-code-10e6)
 <!-- BLOG-POST-LIST:END -->
 
