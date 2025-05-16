@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boosting Page Load Times: Practical Strategies for a Faster Website](https://dev.to/devsmitra/boosting-page-load-times-practical-strategies-for-a-faster-website-5aln)
-- [[Boost]](https://dev.to/yebor974/-38o4)
-- [SQL Made Easy: A Tutorial for Beginners](https://dev.to/rishabhtpt/sql-made-easy-a-tutorial-for-beginners-3mmk)
-- [Unveiling Open CASCADE Technology Public License 6.6: A Holistic Exploration of Open Source Fair Code Licensing](https://dev.to/zhangwei42/unveiling-open-cascade-technology-public-license-66-a-holistic-exploration-of-open-source-fair-1dh0)
+- [With SPL, It Seems We Don’t Need ORM Anymore](https://dev.to/serina_8340/with-spl-it-seems-we-dont-need-orm-anymore-m31)
+- [Astro Internalization With Dynamic Routing](https://dev.to/whitehare/astro-internalization-with-dynamic-routing-4o9k)
+- [The Value of Choosing the Right Dynamics 365 Implementation Partner](https://dev.to/ranjika50/the-value-of-choosing-the-right-dynamics-365-implementation-partner-17o4)
+- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
 <!-- BLOG-POST-LIST:END -->
 
