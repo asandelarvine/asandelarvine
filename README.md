@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Coding Skills You&#39;ll Need in 2025](https://dev.to/er-raj-aryan/10-essential-coding-skills-youll-need-in-2025-4eb3)
-- [Building MCP Server for Kubernetes](https://dev.to/vijaykodam/building-mcp-server-for-kubernetes-4l10)
-- [Finding Pair with Target Sum](https://dev.to/tanvir_azad/finding-pair-with-target-sum-2kln)
-- [Leave Script Behind](https://dev.to/lsb/leave-script-behind-25ip)
+- [Node.js Event Loop Visualized Series](https://dev.to/vagostep/nodejs-event-loop-visualized-series-2fip)
+- [Automated RDS PostgreSQL 🐘Restoration Using GitHub Actions Workflow_Dispatch](https://dev.to/gerson_morales_3e89188d50/automated-rds-postgresql-restoration-using-github-actions-workflowdispatch-1lfp)
+- [Big Changes at Meteor Software: Our Next Chapter](https://dev.to/meteor/big-changes-at-meteor-software-our-next-chapter-g22)
+- [🧠 Fractal Grid UI: A Recursive Layout You Can Click Into](https://dev.to/andysay/fractal-grid-ui-a-recursive-layout-you-can-click-into-2d52)
 <!-- BLOG-POST-LIST:END -->
 
