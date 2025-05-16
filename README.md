@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23/ 30 Days of Linux Mastery: &#39;tar&#39; Command](https://dev.to/amandaigwe/day-23-30-days-of-linux-mastery-tar-command-4f74)
-- [Keep It Small, Keep It Moving: The Real Power of Tiny PRs](https://dev.to/luvbug/keep-it-small-keep-it-moving-the-real-power-of-tiny-prs-nb)
-- [Lightweight and High-Performance Rust HTTP Server Library for Modern Web Services](https://dev.to/_95e41982c9ad08a13458d/lightweight-and-high-performance-rust-http-server-library-for-modern-web-services-23j4)
-- [Setting Up a Modern Web Development Environment in 2025](https://dev.to/hasanulmukit/setting-up-a-modern-web-development-environment-in-2025-3i59)
+- [10 Essential Coding Skills You&#39;ll Need in 2025](https://dev.to/er-raj-aryan/10-essential-coding-skills-youll-need-in-2025-4eb3)
+- [Building MCP Server for Kubernetes](https://dev.to/vijaykodam/building-mcp-server-for-kubernetes-4l10)
+- [Finding Pair with Target Sum](https://dev.to/tanvir_azad/finding-pair-with-target-sum-2kln)
+- [Leave Script Behind](https://dev.to/lsb/leave-script-behind-25ip)
 <!-- BLOG-POST-LIST:END -->
 
