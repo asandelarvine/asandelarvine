@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is React beginner-friendly?](https://dev.to/bdavidxyz/is-react-beginner-friendly-7ic)
-- [Unveiling MirOS License: A Comprehensive Exploration of Fair Code, Dual Licensing, and Open Source Innovation](https://dev.to/kallileiser/unveiling-miros-license-a-comprehensive-exploration-of-fair-code-dual-licensing-and-open-source-4p42)
-- [A Look Back at an 8-Year-Old 2D Tank Game](https://dev.to/deveshhh/a-look-back-at-an-8-year-old-2d-tank-game-3b0c)
-- [Exploring the Latest JavaScript Features in ESNext](https://dev.to/hasunnilupul/exploring-the-latest-javascript-features-in-esnext-2a8g)
+- [🚀 Boosting Page Load Times: Practical Strategies for a Faster Website](https://dev.to/devsmitra/boosting-page-load-times-practical-strategies-for-a-faster-website-5aln)
+- [[Boost]](https://dev.to/yebor974/-38o4)
+- [SQL Made Easy: A Tutorial for Beginners](https://dev.to/rishabhtpt/sql-made-easy-a-tutorial-for-beginners-3mmk)
+- [Unveiling Open CASCADE Technology Public License 6.6: A Holistic Exploration of Open Source Fair Code Licensing](https://dev.to/zhangwei42/unveiling-open-cascade-technology-public-license-66-a-holistic-exploration-of-open-source-fair-1dh0)
 <!-- BLOG-POST-LIST:END -->
 
