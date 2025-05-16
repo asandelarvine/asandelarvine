@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AWS Transform for .NET is Now Generally Available – Modernize Your Windows Apps with AI!](https://dev.to/latchudevops/aws-transform-for-net-is-now-generally-available-modernize-your-windows-apps-with-ai-3f21)
-- [From Frontend to Backend in 90 Days: My Honest Journey + Beginner Tips](https://dev.to/preeti_yadav/from-frontend-to-backend-in-90-days-my-honest-journey-beginner-tips-npd)
-- [WEEK 2](https://dev.to/amanch04/week-2-1ehh)
-- [How to Fix TypeORM Entity Metadata Not Found Error in Next.js](https://dev.to/generatecodedev/how-to-fix-typeorm-entity-metadata-not-found-error-in-nextjs-4lpn)
+- [Is React beginner-friendly?](https://dev.to/bdavidxyz/is-react-beginner-friendly-7ic)
+- [Unveiling MirOS License: A Comprehensive Exploration of Fair Code, Dual Licensing, and Open Source Innovation](https://dev.to/kallileiser/unveiling-miros-license-a-comprehensive-exploration-of-fair-code-dual-licensing-and-open-source-4p42)
+- [A Look Back at an 8-Year-Old 2D Tank Game](https://dev.to/deveshhh/a-look-back-at-an-8-year-old-2d-tank-game-3b0c)
+- [Exploring the Latest JavaScript Features in ESNext](https://dev.to/hasunnilupul/exploring-the-latest-javascript-features-in-esnext-2a8g)
 <!-- BLOG-POST-LIST:END -->
 
