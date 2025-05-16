@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Replacing the Base URL of a Path in JavaScript](https://dev.to/amitkumar13/replacing-the-base-url-of-a-path-in-javascript-52kh)
-- [Build a Therapy Marketplace Using Next.js and Firebase](https://dev.to/getstreamhq/build-a-therapy-marketplace-using-nextjs-and-firebase-37)
-- [When I am with HTML before JS and when JS come to me](https://dev.to/ishdav/when-i-am-with-html-before-js-and-when-js-come-to-me-1eil)
-- [👋 Just Passing By...](https://dev.to/onedev/just-passing-by-2nl1)
+- [Machine Learning Techniques Revolutionizing Target Identification in Drug Discovery](https://dev.to/clairlabs/machine-learning-techniques-revolutionizing-target-identification-in-drug-discovery-1h8c)
+- [Selenium with Python Interview Questions and Answers &lpar;2025&rpar;](https://dev.to/morrismoses149/selenium-with-python-interview-questions-and-answers-2025-2kdf)
+- [What is Nginx ?](https://dev.to/vincenttommi/what-is-nginx-3p4c)
+- [Performance Optimization When Integrating AR Virtual Try-On in Shopify Apps](https://dev.to/catherine_tolkacheva_6a5e/performance-optimization-when-integrating-ar-virtual-try-on-in-shopify-apps-167b)
 <!-- BLOG-POST-LIST:END -->
 
