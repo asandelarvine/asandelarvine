@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1ch5)
-- [Push Images To Artifact Registry using GitHub Actions &amp; Workload Identity](https://dev.to/filip_lindqvist_62cc4e0e4/google-cloud-artifact-registry-with-github-actions-using-workload-identity-2h8c)
-- [Why Performance Testing Matters: Key Benefits Explained](https://dev.to/jamescantor38/why-performance-testing-matters-key-benefits-explained-1p3j)
-- [What is Intelligent Agents?](https://dev.to/e77/what-is-intelligent-agents-5a37)
+- [Software Engineers as Modern-Day Architects](https://dev.to/alireza_minagar_99f01ecb6/software-engineers-as-modern-day-architects-k78)
+- [Dont Forget to Package Go App the right way in Docker](https://dev.to/bitsofmandal-yt/how-to-properly-package-a-golang-app-inside-a-docker-container-5of)
+- [Exposing Kubernetes Metrics: Adding Metrics Server to Your Local Cluster](https://dev.to/houssambourkane/exposing-kubernetes-metrics-adding-metrics-server-to-your-local-cluster-1bd)
+- [[Hack] PicoCTF: Low Level Binary Intro - Intro to Debuggers](https://dev.to/falme/hack-picoctf-low-level-binary-intro-intro-to-debuggers-3jd7)
 <!-- BLOG-POST-LIST:END -->
 
