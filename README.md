@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Techniques Revolutionizing Target Identification in Drug Discovery](https://dev.to/clairlabs/machine-learning-techniques-revolutionizing-target-identification-in-drug-discovery-1h8c)
-- [Selenium with Python Interview Questions and Answers &lpar;2025&rpar;](https://dev.to/morrismoses149/selenium-with-python-interview-questions-and-answers-2025-2kdf)
-- [What is Nginx ?](https://dev.to/vincenttommi/what-is-nginx-3p4c)
-- [Performance Optimization When Integrating AR Virtual Try-On in Shopify Apps](https://dev.to/catherine_tolkacheva_6a5e/performance-optimization-when-integrating-ar-virtual-try-on-in-shopify-apps-167b)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1ch5)
+- [Push Images To Artifact Registry using GitHub Actions &amp; Workload Identity](https://dev.to/filip_lindqvist_62cc4e0e4/google-cloud-artifact-registry-with-github-actions-using-workload-identity-2h8c)
+- [Why Performance Testing Matters: Key Benefits Explained](https://dev.to/jamescantor38/why-performance-testing-matters-key-benefits-explained-1p3j)
+- [What is Intelligent Agents?](https://dev.to/e77/what-is-intelligent-agents-5a37)
 <!-- BLOG-POST-LIST:END -->
 
