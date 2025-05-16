@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineers as Modern-Day Architects](https://dev.to/alireza_minagar_99f01ecb6/software-engineers-as-modern-day-architects-k78)
-- [Dont Forget to Package Go App the right way in Docker](https://dev.to/bitsofmandal-yt/how-to-properly-package-a-golang-app-inside-a-docker-container-5of)
-- [Exposing Kubernetes Metrics: Adding Metrics Server to Your Local Cluster](https://dev.to/houssambourkane/exposing-kubernetes-metrics-adding-metrics-server-to-your-local-cluster-1bd)
-- [[Hack] PicoCTF: Low Level Binary Intro - Intro to Debuggers](https://dev.to/falme/hack-picoctf-low-level-binary-intro-intro-to-debuggers-3jd7)
+- [Day 23/ 30 Days of Linux Mastery: &#39;tar&#39; Command](https://dev.to/amandaigwe/day-23-30-days-of-linux-mastery-tar-command-4f74)
+- [Keep It Small, Keep It Moving: The Real Power of Tiny PRs](https://dev.to/luvbug/keep-it-small-keep-it-moving-the-real-power-of-tiny-prs-nb)
+- [Lightweight and High-Performance Rust HTTP Server Library for Modern Web Services](https://dev.to/_95e41982c9ad08a13458d/lightweight-and-high-performance-rust-http-server-library-for-modern-web-services-23j4)
+- [Setting Up a Modern Web Development Environment in 2025](https://dev.to/hasanulmukit/setting-up-a-modern-web-development-environment-in-2025-3i59)
 <!-- BLOG-POST-LIST:END -->
 
