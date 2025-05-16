@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Promise.all&lpar;&rpar;: The Case of the Missing Tuna](https://dev.to/tanvir_azad/promiseall-the-case-of-the-missing-tuna-1eh9)
-- [Code Less, Prompt Better: Unlocking Python&#39;s Built-in LLM Enhancers](https://dev.to/angu10/code-less-prompt-better-unlocking-pythons-built-in-llm-enhancers-3hdd)
-- [[Boost]](https://dev.to/anthonymax/-kcg)
-- [Testing Strategies for CI/CD: Balancing Speed, Depth, and Sanity 🧪](https://dev.to/alex_aslam/testing-strategies-for-cicd-balancing-speed-depth-and-sanity-350e)
+- [Why Filmmakers Should Attend Film Festivals: Networking, Exposure, and Beyond](https://dev.to/celebritynews/why-filmmakers-should-attend-film-festivals-networking-exposure-and-beyond-jff)
+- [Start and Switch Syndrome](https://dev.to/xavier_dupont_dd40dda8fd0/start-and-switch-syndrome-hhb)
+- [Unveiling Eiffel Forum License 2: A Holistic Analysis and Future Perspectives](https://dev.to/ahmmrizv9/unveiling-eiffel-forum-license-2-a-holistic-analysis-and-future-perspectives-27mj)
+- [AI in Animation](https://dev.to/rawveg/ai-in-animation-1pjj)
 <!-- BLOG-POST-LIST:END -->
 
