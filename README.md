@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Dynamic Arrays in C++ for Beginners](https://dev.to/generatecodedev/understanding-dynamic-arrays-in-c-for-beginners-k5o)
-- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;5&rpar;: Developer Mindset](https://dev.to/jnth/google-agent-development-kit-adk-introduction-5-developer-mindset-206b)
-- [Important Considerations When Using Go&#39;s Time Package 9/10](https://dev.to/rezmoss/important-considerations-when-using-gos-time-package-910-3aim)
-- [Alpha Prototype Complete!](https://dev.to/macglencoe/alpha-prototype-complete-2p52)
+- [SOLID Principles in JavaScript](https://dev.to/zeeshanali0704/solid-principles-in-javascript-a-beginner-friendly-guide-4085)
+- [Getting Started with React-Grid-Layout](https://dev.to/sheep_/getting-started-with-react-grid-layout-3aic)
+- [Building a Svelte Tooltip Extension for Browser Enhancements](https://dev.to/hexshift/building-a-svelte-tooltip-extension-for-browser-enhancements-53)
+- [Entendendo as Coleções do Java: List, Set e Map](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-as-colecoes-do-java-list-set-e-map-33jh)
 <!-- BLOG-POST-LIST:END -->
 
