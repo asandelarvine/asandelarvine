@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [With SPL, It Seems We Don’t Need ORM Anymore](https://dev.to/serina_8340/with-spl-it-seems-we-dont-need-orm-anymore-m31)
-- [Astro Internalization With Dynamic Routing](https://dev.to/whitehare/astro-internalization-with-dynamic-routing-4o9k)
-- [The Value of Choosing the Right Dynamics 365 Implementation Partner](https://dev.to/ranjika50/the-value-of-choosing-the-right-dynamics-365-implementation-partner-17o4)
-- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
+- [Protect Your Web App in 2025: 7 OAuth &amp; JWT Hacks You Wish You Knew Yesterday](https://dev.to/gauridigital/protect-your-web-app-in-2025-7-oauth-jwt-hacks-you-wish-you-knew-yesterday-2bn0)
+- [HarmonyOS Overview](https://dev.to/rentingting602/harmonyos-overview-44ld)
+- [What It Really Means to Be a Self-Taught Developer in 2025](https://dev.to/dhis_is_jj/what-it-really-means-to-be-a-self-taught-developer-in-2025-401k)
+- [Goodbye Sails.js — Thanks for the Ride](https://dev.to/restoapp/goodbye-sailsjs-thanks-for-the-ride-2nk4)
 <!-- BLOG-POST-LIST:END -->
 
