@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles in JavaScript](https://dev.to/zeeshanali0704/solid-principles-in-javascript-a-beginner-friendly-guide-4085)
-- [Getting Started with React-Grid-Layout](https://dev.to/sheep_/getting-started-with-react-grid-layout-3aic)
-- [Building a Svelte Tooltip Extension for Browser Enhancements](https://dev.to/hexshift/building-a-svelte-tooltip-extension-for-browser-enhancements-53)
-- [Entendendo as Coleções do Java: List, Set e Map](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-as-colecoes-do-java-list-set-e-map-33jh)
+- [🚀 AWS Transform for .NET is Now Generally Available – Modernize Your Windows Apps with AI!](https://dev.to/latchudevops/aws-transform-for-net-is-now-generally-available-modernize-your-windows-apps-with-ai-3f21)
+- [From Frontend to Backend in 90 Days: My Honest Journey + Beginner Tips](https://dev.to/preeti_yadav/from-frontend-to-backend-in-90-days-my-honest-journey-beginner-tips-npd)
+- [WEEK 2](https://dev.to/amanch04/week-2-1ehh)
+- [How to Fix TypeORM Entity Metadata Not Found Error in Next.js](https://dev.to/generatecodedev/how-to-fix-typeorm-entity-metadata-not-found-error-in-nextjs-4lpn)
 <!-- BLOG-POST-LIST:END -->
 
