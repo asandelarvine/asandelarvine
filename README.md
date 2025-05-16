@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript as a Template Engine](https://dev.to/90dy/typescript-as-a-template-engine-4376)
-- [Ng-News 25/19: NgRx SignalStore Events, Nx 21](https://dev.to/this-is-angular/ng-news-2518-ngrx-signalstore-events-nx-21-1526)
-- [JavaScript Static vs Private: Explained by My Cat Oreo](https://dev.to/tanvir_azad/javascript-static-vs-private-explained-by-my-cat-oreo-4oeb)
-- [How I Built a Local AI Assistant for Obsidian — No Cloud, No API Keys](https://dev.to/gaston1balcarce/how-i-built-a-local-ai-assistant-for-obsidian-no-cloud-no-api-keys-a2k)
+- [Promise.all&lpar;&rpar;: The Case of the Missing Tuna](https://dev.to/tanvir_azad/promiseall-the-case-of-the-missing-tuna-1eh9)
+- [Code Less, Prompt Better: Unlocking Python&#39;s Built-in LLM Enhancers](https://dev.to/angu10/code-less-prompt-better-unlocking-pythons-built-in-llm-enhancers-3hdd)
+- [[Boost]](https://dev.to/anthonymax/-kcg)
+- [Testing Strategies for CI/CD: Balancing Speed, Depth, and Sanity 🧪](https://dev.to/alex_aslam/testing-strategies-for-cicd-balancing-speed-depth-and-sanity-350e)
 <!-- BLOG-POST-LIST:END -->
 
