@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your Web App in 2025: 7 OAuth &amp; JWT Hacks You Wish You Knew Yesterday](https://dev.to/gauridigital/protect-your-web-app-in-2025-7-oauth-jwt-hacks-you-wish-you-knew-yesterday-2bn0)
-- [HarmonyOS Overview](https://dev.to/rentingting602/harmonyos-overview-44ld)
-- [What It Really Means to Be a Self-Taught Developer in 2025](https://dev.to/dhis_is_jj/what-it-really-means-to-be-a-self-taught-developer-in-2025-401k)
-- [Goodbye Sails.js — Thanks for the Ride](https://dev.to/restoapp/goodbye-sailsjs-thanks-for-the-ride-2nk4)
+- [Tutorial Lengkap Menggunakan Git Rebase](https://dev.to/miki-dev/tutorial-lengkap-menggunakan-git-rebase-2025-3i1h)
+- [5 Best Free Reverse Proxy Solutions for 2025](https://dev.to/sharon_42e16b8da44dabde6d/5-best-free-reverse-proxy-solutions-for-2025-405h)
+- [Perfection Is Not Adding More, It’s Removing What’s Unnecessary—The Story of Elm](https://dev.to/jigargosar/perfection-is-not-adding-more-its-removing-whats-unnecessary-the-story-of-elm-26ci)
+- [ERC-4337’s Updated Developer Guide for AA, Ethereum Activates Pectra, Circle’s Gasless Transactions, DeFi Wallets vs AI Agents](https://dev.to/alexandradev/erc-4337s-updated-developer-guide-for-aa-ethereum-activates-pectra-circles-gasless-ce9)
 <!-- BLOG-POST-LIST:END -->
 
