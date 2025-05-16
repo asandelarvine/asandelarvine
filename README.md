@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Solana’s Ecosystem: Key Players and How Developers Can Leverage Them](https://dev.to/favebs/solanas-ecosystem-key-players-and-how-developers-can-leverage-them-1o1k)
-- [How to Validate Data for BMP Character Encoding in Java?](https://dev.to/generatecodedev/how-to-validate-data-for-bmp-character-encoding-in-java-225l)
-- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
-- [Automating My Docker Apache Server with Python](https://dev.to/vvakim/automating-my-docker-apache-server-with-python-2mo3)
+- [Understanding Dynamic Arrays in C++ for Beginners](https://dev.to/generatecodedev/understanding-dynamic-arrays-in-c-for-beginners-k5o)
+- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;5&rpar;: Developer Mindset](https://dev.to/jnth/google-agent-development-kit-adk-introduction-5-developer-mindset-206b)
+- [Important Considerations When Using Go&#39;s Time Package 9/10](https://dev.to/rezmoss/important-considerations-when-using-gos-time-package-910-3aim)
+- [Alpha Prototype Complete!](https://dev.to/macglencoe/alpha-prototype-complete-2p52)
 <!-- BLOG-POST-LIST:END -->
 
