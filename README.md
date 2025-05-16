@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Event Loop Visualized Series](https://dev.to/vagostep/nodejs-event-loop-visualized-series-2fip)
-- [Automated RDS PostgreSQL 🐘Restoration Using GitHub Actions Workflow_Dispatch](https://dev.to/gerson_morales_3e89188d50/automated-rds-postgresql-restoration-using-github-actions-workflowdispatch-1lfp)
-- [Big Changes at Meteor Software: Our Next Chapter](https://dev.to/meteor/big-changes-at-meteor-software-our-next-chapter-g22)
-- [🧠 Fractal Grid UI: A Recursive Layout You Can Click Into](https://dev.to/andysay/fractal-grid-ui-a-recursive-layout-you-can-click-into-2d52)
+- [Keep Your Eyes on the End: Using the tail Command for Real-Time File Monitoring](https://dev.to/dtemi/keep-your-eyes-on-the-end-using-the-tail-command-for-real-time-file-monitoring-47k1)
+- [Data related Non-Functional Requirements](https://dev.to/lukasniessen/-data-related-non-functional-requirements-gi5)
+- [🚀 Stop Wasting Time: 7 AI Tools Every Developer Should Be Using in 2025](https://dev.to/mohamed-riham/stop-wasting-time-7-ai-tools-every-developer-should-be-using-in-2025-4nl9)
+- [Next.js - Fundamentos](https://dev.to/mauriciogc/nextjs-fundamentos-35e2)
 <!-- BLOG-POST-LIST:END -->
 
