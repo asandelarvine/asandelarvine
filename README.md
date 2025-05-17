@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to display git shortsha in terminal](https://dev.to/bdavidxyz/how-to-display-git-shortsha-in-terminal-2n7j)
-- [Teamcamp for Dev Teams: Ship Faster, Collaborate Smarter](https://dev.to/teamcamp/teamcamp-for-dev-teams-ship-faster-collaborate-smarter-fk2)
-- [No Framework Overkill — Just Express and JSX](https://dev.to/leapcell/no-framework-overkill-just-express-and-jsx-30c0)
-- [How to Use Async Communication method to stay productive](https://dev.to/pratham_naik_project_manager/ho-to-use-astnc-communication-method-to-stay-productive-2pnl)
+- [Top AI Tools and Libraries for Java Developers in 2025](https://dev.to/keploy/top-ai-tools-and-libraries-for-java-developers-in-2025-4of)
+- [How to Run Effective 1 on 1 Meetings That Drive Employee Growth](https://dev.to/diana_black_5edb83146b969/how-to-run-effective-1-on-1-meetings-that-drive-employee-growth-2n56)
+- [Recent Advances in Computer Vision: Efficient Adaptation, 3D Understanding, Robustness, Multi-Modal Fusion, Medical Appl](https://dev.to/khanali21/recent-advances-in-computer-vision-efficient-adaptation-3d-understanding-robustness-multi-modal-g88)
+- [Types of SQL statements](https://dev.to/mujahida_joynab_64c7407d8/types-of-sql-statements-205k)
 <!-- BLOG-POST-LIST:END -->
 
