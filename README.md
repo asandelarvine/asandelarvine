@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Mental Math: Fast Multiplications and Divisions for Software Engineers](https://dev.to/josemariairiarte/optimizing-mental-math-fast-multiplications-and-divisions-for-software-egineers-43a0)
-- [Creating Modal Windows with Pure CSS: No JavaScript Required](https://dev.to/maxprilutskiy/creating-modal-windows-with-pure-css-no-javascript-required-1ja)
-- [gem oauth2 v2.0.10 released](https://dev.to/galtzo/gem-oauth2-v2010-released-10bj)
-- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
+- [Hello DEV Community 👋](https://dev.to/rachits999003/hello-dev-community-h0b)
+- [Scroll Animation Without JavaScript: Introducing animation-timeline: view&lpar;&rpar;;](https://dev.to/mdhassanpatwary/scroll-animation-without-javascript-introducing-animation-timeline-view-3col)
+- [reCharge：基于 SwiftUI 的全方位健康睡眠管理 App 实现原理与技术分享](https://dev.to/carpe_wang_37cb6023fc08ee/rechargeji-yu-swiftui-de-quan-fang-wei-jian-kang-shui-mian-guan-li-app-shi-xian-yuan-li-yu-ji-zhu-fen-xiang-4abc)
+- [Hey everyone, I’m working on a cybersecurity app called JamLock — focused on protecting users from skimming, hacking, and digital identity theft in real time. It includes features like NFC skimmer detection, encrypted vaults, behavioral security, emergenc](https://dev.to/curtis_ray_6d17eca1efba78/hey-everyone-im-working-on-a-cybersecurity-app-called-jamlock-focused-on-protecting-users-3ecd)
 <!-- BLOG-POST-LIST:END -->
 
