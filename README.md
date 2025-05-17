@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Wan2.1 VACE Locally: An All-In-One AI Video Creation &amp; Editing Suite](https://dev.to/nodeshiftcloud/how-to-install-wan21-vace-locally-an-all-in-one-video-creation-editing-suite-4pdj)
-- [Integrating Tailwind CSS with React: A Comprehensive Technical Guide](https://dev.to/code_2/integrating-tailwind-css-with-react-a-comprehensive-technical-guide-284f)
-- [Go router navigation observer](https://dev.to/mattia/go-router-navigation-observer-1gj4)
-- [Process, Thread, Multi-threading, Concurrency](https://dev.to/ahasanpapon/process-thread-multi-threading-concurrency-10ol)
+- [System Design Basics: Why The Right Method Matters](https://dev.to/ujjwall-r/system-design-basics-why-the-right-method-matters-44f)
+- [Hidden Capabilities of Remix.js That Will Transform Your Approach to Markdown Blogs in 2025](https://dev.to/vitalii_petrenko_dev/hidden-capabilities-of-remixjs-that-will-transform-your-approach-to-markdown-blogs-in-2025-4ic5)
+- [Natural Language Browser Automation with Amazon Bedrock &amp; Playwright](https://dev.to/naoki_ishihara_d8646adfae/natural-language-browser-automation-with-amazon-bedrock-playwright-3hji)
+- [Boost Your English Reflexes with Amazon Nova Sonic](https://dev.to/pnghaianh/boost-your-english-reflexes-with-amazon-nova-sonic-2gfc)
 <!-- BLOG-POST-LIST:END -->
 
