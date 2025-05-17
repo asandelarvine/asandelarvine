@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Filmmakers Should Attend Film Festivals: Networking, Exposure, and Beyond](https://dev.to/celebritynews/why-filmmakers-should-attend-film-festivals-networking-exposure-and-beyond-jff)
-- [Start and Switch Syndrome](https://dev.to/xavier_dupont_dd40dda8fd0/start-and-switch-syndrome-hhb)
-- [Unveiling Eiffel Forum License 2: A Holistic Analysis and Future Perspectives](https://dev.to/ahmmrizv9/unveiling-eiffel-forum-license-2-a-holistic-analysis-and-future-perspectives-27mj)
-- [AI in Animation](https://dev.to/rawveg/ai-in-animation-1pjj)
+- [Unveiling Haiku License: A Comprehensive Exploration and Review](https://dev.to/bobcars/unveiling-haiku-license-a-comprehensive-exploration-and-review-1d0l)
+- [How AI and Python Helped Modernize a Legacy Insurance System](https://dev.to/bsudabathula/how-ai-and-python-helped-modernize-a-legacy-insurance-system-480c)
+- [Java EE Servidores Antigos e Aplicações Legadas](https://dev.to/ikauedev/servidores-antigos-e-aplicacoes-legadas-java-panorama-desafios-e-estrategias-de-modernizacao-388)
+- [Request for Tips on Enhancing Website Visual Effects](https://dev.to/shadow91102/request-for-tips-on-enhancing-website-visual-effects-30ac)
 <!-- BLOG-POST-LIST:END -->
 
