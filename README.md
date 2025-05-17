@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python ↔ JavaScript? HTML ↔ JSX? Explore These Code Converters](https://dev.to/beautifyyourcode_30afcb0d/python-javascript-html-jsx-explore-these-code-converters-37mh)
-- [How Code Beautifiers Improve Readability and Debugging](https://dev.to/beautifyyourcode_30afcb0d/how-code-beautifiers-improve-readability-and-debugging-29ig)
-- [🎙️ Introducing react-native-voice2text: Seamless Voice-to-Text for React Native Android Apps 📱](https://dev.to/gokul_krishnas_151bdb69/introducing-react-native-voice2text-seamless-voice-to-text-for-react-native-android-apps-2k8h)
-- [Why the Future of AI Note Taking is Local, Offline, and Open Source: Taking Back Control of Your Meeting Data](https://dev.to/zackriya/why-the-future-of-ai-note-taking-is-local-offline-and-open-source-taking-back-control-of-your-5bnc)
+- [12 Free AI Tools Developers Can Use to Launch a Profitable Side Project &lpar;Without Paying a Dime&rpar;](https://dev.to/businesshub360/12-free-ai-tools-developers-can-use-to-launch-a-profitable-side-project-without-paying-a-dime-47p9)
+- [Top 15 VSCode Extensions Every Angular Developer Should Know About](https://dev.to/developerchandan/top-15-vscode-extensions-every-angular-developer-should-know-about-544f)
+- [اردو ٹیکسٹ مینیجر](https://dev.to/waleed_abid_dd8fa8668a71b/rdw-ttykhstt-mynyjr-1mgo)
+- [The Fourth Step into the World of RxJS: Unfinished Streams - Silent Killers of Applications](https://dev.to/artstesh/the-fourth-step-into-the-world-of-rxjs-unfinished-streams-silent-killers-of-applications-2njb)
 <!-- BLOG-POST-LIST:END -->
 
