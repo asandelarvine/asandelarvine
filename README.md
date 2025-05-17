@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated GitHub Repos, Branches &amp; PRs Using Claude AI and Docker Desktop MCP](https://dev.to/vellanki/how-i-automated-github-repos-branches-prs-using-claude-ai-and-docker-desktop-mcp-1929)
-- [📝 Building Your First Smart Contract on Arbitrum &lpar;Without Losing Your Mind&rpar;](https://dev.to/favebs/building-your-first-smart-contract-on-arbitrum-without-losing-your-mind-3ded)
-- [Option Pattern in Go: Advanced Parameter Handling](https://dev.to/leapcell/option-pattern-in-go-advanced-parameter-handling-15hf)
-- [redictability, Pre-Recorded Reality, and AI Evolution: From Dilbert to LivinGrimoire](https://dev.to/owly/redictability-pre-recorded-reality-and-ai-evolution-from-dilbert-to-livingrimoire-3po5)
+- [Lambda in Python](https://dev.to/hyperkai/lambda-in-python-o8)
+- [📌 O que é Tabela Verdade e pra que serve?](https://dev.to/senhorita_zi/o-que-e-tabela-verdade-e-pra-que-serve-dpa)
+- [Requesting info](https://dev.to/darth_sql/requesting-info-57gi)
+- [The DNA of a Domain: Understanding DNS, FQDNs, and Domain Structures](https://dev.to/daud99/the-dna-of-a-domain-understanding-dns-fqdns-and-domain-structures-1in2)
 <!-- BLOG-POST-LIST:END -->
 
