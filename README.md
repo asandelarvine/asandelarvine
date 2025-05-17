@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue-Green Deployments: Ship Code Fearlessly with Zero Downtime 🚀](https://dev.to/alex_aslam/blue-green-deployments-ship-code-fearlessly-with-zero-downtime-402h)
-- [Comprehensive Guide to Pinia for State Management in Vue.js](https://dev.to/marco_quintella_c76815385/comprehensive-guide-to-pinia-for-state-management-in-vuejs-3jki)
-- [Yes the current job hunting landscape is a mess, here’s how you can play around it](https://dev.to/rj11io/yes-the-current-job-hunting-landscape-is-a-mess-heres-how-you-can-play-around-it-34fd)
-- [What Is UFO Code?](https://dev.to/neopotato/what-is-ufo-code-36pi)
+- [How I Automated GitHub Repos, Branches &amp; PRs Using Claude AI and Docker Desktop MCP](https://dev.to/vellanki/how-i-automated-github-repos-branches-prs-using-claude-ai-and-docker-desktop-mcp-1929)
+- [📝 Building Your First Smart Contract on Arbitrum &lpar;Without Losing Your Mind&rpar;](https://dev.to/favebs/building-your-first-smart-contract-on-arbitrum-without-losing-your-mind-3ded)
+- [Option Pattern in Go: Advanced Parameter Handling](https://dev.to/leapcell/option-pattern-in-go-advanced-parameter-handling-15hf)
+- [redictability, Pre-Recorded Reality, and AI Evolution: From Dilbert to LivinGrimoire](https://dev.to/owly/redictability-pre-recorded-reality-and-ai-evolution-from-dilbert-to-livingrimoire-3po5)
 <!-- BLOG-POST-LIST:END -->
 
