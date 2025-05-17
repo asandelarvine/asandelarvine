@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Tools and Libraries for Java Developers in 2025](https://dev.to/keploy/top-ai-tools-and-libraries-for-java-developers-in-2025-4of)
-- [How to Run Effective 1 on 1 Meetings That Drive Employee Growth](https://dev.to/diana_black_5edb83146b969/how-to-run-effective-1-on-1-meetings-that-drive-employee-growth-2n56)
-- [Recent Advances in Computer Vision: Efficient Adaptation, 3D Understanding, Robustness, Multi-Modal Fusion, Medical Appl](https://dev.to/khanali21/recent-advances-in-computer-vision-efficient-adaptation-3d-understanding-robustness-multi-modal-g88)
-- [Types of SQL statements](https://dev.to/mujahida_joynab_64c7407d8/types-of-sql-statements-205k)
+- [🔐 Control Cloudflare Infrastructure Using AI + MCP &lpar;with Python Example&rpar;](https://dev.to/extinctsion/control-cloudflare-infrastructure-using-ai-mcp-with-python-example-1bak)
+- [VLANs and Trunking](https://dev.to/godofgeeks/vlans-and-trunking-57d0)
+- [Split Slick Slideshow](https://dev.to/preetha_vaishnavi_2b82358/split-slick-slideshow-558b)
+- [Java Variables: A Complete Guide &lpar;feat. var Type Inference&rpar;](https://dev.to/kmartita/java-variables-a-complete-guide-feat-var-type-inference-382k)
 <!-- BLOG-POST-LIST:END -->
 
