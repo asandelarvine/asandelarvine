@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Still Writing PHP in 2025? Absolutely, &lpar;even with AI&rpar; and here’s why.](https://dev.to/josepico/still-writing-php-in-2025-absolutely-even-with-ai-and-heres-why-4h9b)
-- [What’s Happening Inside Your Linux Kernel?](https://dev.to/sonichigo/whats-happening-inside-your-linux-kernel-gcg)
-- [Flutter Enums in Flutter with Sealed Classes in Dart 3](https://dev.to/ms3byoussef/flutter-enums-in-flutter-with-sealed-classes-in-dart-3-28cl)
-- [Why You Should Consider DevOps for Your Organization](https://dev.to/babita/why-you-should-consider-devops-for-your-organization-2447)
+- [Why Queues Obliterate Lists in the Digital Battlefield](https://dev.to/owly/why-queues-obliterate-lists-in-the-digital-battlefield-16dk)
+- [Learn how to drastically improve your React app’s performance using lazy loading and `React.Suspense`. This guide covers route-level code splitting, loading fallbacks, best practices, and real-world benefits for Core Web Vitals.](https://dev.to/joshi16/learn-how-to-drastically-improve-your-react-apps-performance-using-lazy-loading-and-18am)
+- [Front-End Web Development Trends](https://dev.to/bridgegroupsolutions/front-end-web-development-trends-405)
+- [⚡ Boost React Performance with Lazy Loading + Suspense](https://dev.to/joshi16/boost-react-performance-with-lazy-loading-suspense-364c)
 <!-- BLOG-POST-LIST:END -->
 
