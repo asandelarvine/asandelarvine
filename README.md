@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Queues Obliterate Lists in the Digital Battlefield](https://dev.to/owly/why-queues-obliterate-lists-in-the-digital-battlefield-16dk)
-- [Learn how to drastically improve your React app’s performance using lazy loading and `React.Suspense`. This guide covers route-level code splitting, loading fallbacks, best practices, and real-world benefits for Core Web Vitals.](https://dev.to/joshi16/learn-how-to-drastically-improve-your-react-apps-performance-using-lazy-loading-and-18am)
-- [Front-End Web Development Trends](https://dev.to/bridgegroupsolutions/front-end-web-development-trends-405)
-- [⚡ Boost React Performance with Lazy Loading + Suspense](https://dev.to/joshi16/boost-react-performance-with-lazy-loading-suspense-364c)
+- [A Step-by-Step Guide to Deploying Web Apps on Azure App Service Using CI/CD](https://dev.to/onyema_blaise_83/a-step-by-step-guide-to-deploying-web-apps-on-azure-app-service-using-cicd-3l7j)
+- [Live Train Running Status: How to Check Your Train’s Real-Time Location](https://dev.to/rail_recipe_55/live-train-running-status-how-to-check-your-trains-real-time-location-191k)
+- [Quick read to know what Model Context Protocol is ...](https://dev.to/iarunsaragadam/quick-read-to-know-what-model-context-protocol-is--1386)
+- [From Microservices to Monetization: Building a Real Estate Platform the Right Way](https://dev.to/manimovassagh/from-microservices-to-monetization-building-a-real-estate-platform-the-right-way-271e)
 <!-- BLOG-POST-LIST:END -->
 
