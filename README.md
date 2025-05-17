@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own Meme Generator with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/nipurn_agarwal_843c2b4c81/building-your-own-meme-generator-with-model-context-protocol-mcp-1im6)
-- [[Boost]](https://dev.to/b77614d/-2dnm)
-- [What Developers Should Know Before Building Retail Store Software](https://dev.to/azizur_rahman/what-developers-should-know-before-building-retail-store-software-34o8)
-- [Understanding JavaScript&#39;s Memory Leak Patterns](https://dev.to/omriluz1/understanding-javascripts-memory-leak-patterns-39ao)
+- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
+- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
+- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
+- [Developers and the Cisco 300-715 SISE Certification: A Match You Didn’t Know You Needed](https://dev.to/aakruthi_singh_ef9a32b0ab/developers-and-the-cisco-300-715-sise-certification-a-match-you-didnt-know-you-needed-4691)
 <!-- BLOG-POST-LIST:END -->
 
