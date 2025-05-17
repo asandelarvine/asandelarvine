@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Haiku License: A Comprehensive Exploration and Review](https://dev.to/bobcars/unveiling-haiku-license-a-comprehensive-exploration-and-review-1d0l)
-- [How AI and Python Helped Modernize a Legacy Insurance System](https://dev.to/bsudabathula/how-ai-and-python-helped-modernize-a-legacy-insurance-system-480c)
-- [Java EE Servidores Antigos e Aplicações Legadas](https://dev.to/ikauedev/servidores-antigos-e-aplicacoes-legadas-java-panorama-desafios-e-estrategias-de-modernizacao-388)
-- [Request for Tips on Enhancing Website Visual Effects](https://dev.to/shadow91102/request-for-tips-on-enhancing-website-visual-effects-30ac)
+- [Optimizing Mental Math: Fast Multiplications and Divisions for Software Engineers](https://dev.to/josemariairiarte/optimizing-mental-math-fast-multiplications-and-divisions-for-software-egineers-43a0)
+- [Creating Modal Windows with Pure CSS: No JavaScript Required](https://dev.to/maxprilutskiy/creating-modal-windows-with-pure-css-no-javascript-required-1ja)
+- [gem oauth2 v2.0.10 released](https://dev.to/galtzo/gem-oauth2-v2010-released-10bj)
+- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
 <!-- BLOG-POST-LIST:END -->
 
