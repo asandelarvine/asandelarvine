@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://dev.to/clmey/python-5514)
-- [Firebase Authentication in React: A Simple Step-by-Step Guide](https://dev.to/fonyuygita/firebase-authentication-in-react-a-simple-step-by-step-guide-24m6)
-- [Advanced Use Cases for Proxy in Data Validation](https://dev.to/omriluz1/advanced-use-cases-for-proxy-in-data-validation-2495)
-- [Small Language Models &lpar;SLMs&rpar;](https://dev.to/aniruddhaadak/small-language-models-slms-31c2)
+- [Blue-Green Deployments: Ship Code Fearlessly with Zero Downtime 🚀](https://dev.to/alex_aslam/blue-green-deployments-ship-code-fearlessly-with-zero-downtime-402h)
+- [Comprehensive Guide to Pinia for State Management in Vue.js](https://dev.to/marco_quintella_c76815385/comprehensive-guide-to-pinia-for-state-management-in-vuejs-3jki)
+- [Yes the current job hunting landscape is a mess, here’s how you can play around it](https://dev.to/rj11io/yes-the-current-job-hunting-landscape-is-a-mess-heres-how-you-can-play-around-it-34fd)
+- [What Is UFO Code?](https://dev.to/neopotato/what-is-ufo-code-36pi)
 <!-- BLOG-POST-LIST:END -->
 
