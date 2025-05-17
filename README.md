@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA Chronicles Day 3: Solidifying the Core – 5 Problems, 5 Learnings](https://dev.to/codealchemy/dsa-chronicles-day-3-solidifying-the-core-5-problems-5-learnings-4laj)
-- [🚀 Hire a PHP Laravel Developer to Build Scalable Web Apps, Admin Panels, and DApps – 7+ Years of Experience](https://dev.to/surendergupta/hire-a-php-laravel-developer-to-build-scalable-web-apps-admin-panels-and-dapps-7-years-of-4d05)
-- [Building a Sentiment Analysis App with React, Flask, and Hugging Face Transformers](https://dev.to/allanninal/building-a-sentiment-analysis-app-with-react-flask-and-hugging-face-transformers-38il)
-- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
+- [SOLUTIONS ARCHITECT VS. PRESALES IN THE CLOUD INDUSTRY: AWS SOLUTIONS ARCHITECT AND PRESALES](https://dev.to/ductt/solutions-architect-vs-presales-in-the-cloud-industry-aws-solutions-architect-and-presales-gke)
+- [I&#39;m a self-taught dev from a small town in India. I need help getting a laptop/PC — can&#39;t afford one.](https://dev.to/robert_macwan/im-a-self-taught-dev-from-a-small-town-in-india-i-need-help-getting-any-old-working-laptoppc--2n1c)
+- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
+- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
 <!-- BLOG-POST-LIST:END -->
 
