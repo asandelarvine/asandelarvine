@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Deploying Web Apps on Azure App Service Using CI/CD](https://dev.to/onyema_blaise_83/a-step-by-step-guide-to-deploying-web-apps-on-azure-app-service-using-cicd-3l7j)
-- [Live Train Running Status: How to Check Your Train’s Real-Time Location](https://dev.to/rail_recipe_55/live-train-running-status-how-to-check-your-trains-real-time-location-191k)
-- [Quick read to know what Model Context Protocol is ...](https://dev.to/iarunsaragadam/quick-read-to-know-what-model-context-protocol-is--1386)
-- [From Microservices to Monetization: Building a Real Estate Platform the Right Way](https://dev.to/manimovassagh/from-microservices-to-monetization-building-a-real-estate-platform-the-right-way-271e)
+- [Python ↔ JavaScript? HTML ↔ JSX? Explore These Code Converters](https://dev.to/beautifyyourcode_30afcb0d/python-javascript-html-jsx-explore-these-code-converters-37mh)
+- [How Code Beautifiers Improve Readability and Debugging](https://dev.to/beautifyyourcode_30afcb0d/how-code-beautifiers-improve-readability-and-debugging-29ig)
+- [🎙️ Introducing react-native-voice2text: Seamless Voice-to-Text for React Native Android Apps 📱](https://dev.to/gokul_krishnas_151bdb69/introducing-react-native-voice2text-seamless-voice-to-text-for-react-native-android-apps-2k8h)
+- [Why the Future of AI Note Taking is Local, Offline, and Open Source: Taking Back Control of Your Meeting Data](https://dev.to/zackriya/why-the-future-of-ai-note-taking-is-local-offline-and-open-source-taking-back-control-of-your-5bnc)
 <!-- BLOG-POST-LIST:END -->
 
