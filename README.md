@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Control Cloudflare Infrastructure Using AI + MCP &lpar;with Python Example&rpar;](https://dev.to/extinctsion/control-cloudflare-infrastructure-using-ai-mcp-with-python-example-1bak)
-- [VLANs and Trunking](https://dev.to/godofgeeks/vlans-and-trunking-57d0)
-- [Split Slick Slideshow](https://dev.to/preetha_vaishnavi_2b82358/split-slick-slideshow-558b)
-- [Java Variables: A Complete Guide &lpar;feat. var Type Inference&rpar;](https://dev.to/kmartita/java-variables-a-complete-guide-feat-var-type-inference-382k)
+- [Building Your Own Meme Generator with Model Context Protocol &lpar;MCP&rpar;](https://dev.to/nipurn_agarwal_843c2b4c81/building-your-own-meme-generator-with-model-context-protocol-mcp-1im6)
+- [[Boost]](https://dev.to/b77614d/-2dnm)
+- [What Developers Should Know Before Building Retail Store Software](https://dev.to/azizur_rahman/what-developers-should-know-before-building-retail-store-software-34o8)
+- [Understanding JavaScript&#39;s Memory Leak Patterns](https://dev.to/omriluz1/understanding-javascripts-memory-leak-patterns-39ao)
 <!-- BLOG-POST-LIST:END -->
 
