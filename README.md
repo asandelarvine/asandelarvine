@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Free AI Tools Developers Can Use to Launch a Profitable Side Project &lpar;Without Paying a Dime&rpar;](https://dev.to/businesshub360/12-free-ai-tools-developers-can-use-to-launch-a-profitable-side-project-without-paying-a-dime-47p9)
-- [Top 15 VSCode Extensions Every Angular Developer Should Know About](https://dev.to/developerchandan/top-15-vscode-extensions-every-angular-developer-should-know-about-544f)
-- [اردو ٹیکسٹ مینیجر](https://dev.to/waleed_abid_dd8fa8668a71b/rdw-ttykhstt-mynyjr-1mgo)
-- [The Fourth Step into the World of RxJS: Unfinished Streams - Silent Killers of Applications](https://dev.to/artstesh/the-fourth-step-into-the-world-of-rxjs-unfinished-streams-silent-killers-of-applications-2njb)
+- [DSA Chronicles Day 3: Solidifying the Core – 5 Problems, 5 Learnings](https://dev.to/codealchemy/dsa-chronicles-day-3-solidifying-the-core-5-problems-5-learnings-4laj)
+- [🚀 Hire a PHP Laravel Developer to Build Scalable Web Apps, Admin Panels, and DApps – 7+ Years of Experience](https://dev.to/surendergupta/hire-a-php-laravel-developer-to-build-scalable-web-apps-admin-panels-and-dapps-7-years-of-4d05)
+- [Building a Sentiment Analysis App with React, Flask, and Hugging Face Transformers](https://dev.to/allanninal/building-a-sentiment-analysis-app-with-react-flask-and-hugging-face-transformers-38il)
+- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
 <!-- BLOG-POST-LIST:END -->
 
