@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
-- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
-- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
-- [Developers and the Cisco 300-715 SISE Certification: A Match You Didn’t Know You Needed](https://dev.to/aakruthi_singh_ef9a32b0ab/developers-and-the-cisco-300-715-sise-certification-a-match-you-didnt-know-you-needed-4691)
+- [Still Writing PHP in 2025? Absolutely, &lpar;even with AI&rpar; and here’s why.](https://dev.to/josepico/still-writing-php-in-2025-absolutely-even-with-ai-and-heres-why-4h9b)
+- [What’s Happening Inside Your Linux Kernel?](https://dev.to/sonichigo/whats-happening-inside-your-linux-kernel-gcg)
+- [Flutter Enums in Flutter with Sealed Classes in Dart 3](https://dev.to/ms3byoussef/flutter-enums-in-flutter-with-sealed-classes-in-dart-3-28cl)
+- [Why You Should Consider DevOps for Your Organization](https://dev.to/babita/why-you-should-consider-devops-for-your-organization-2447)
 <!-- BLOG-POST-LIST:END -->
 
