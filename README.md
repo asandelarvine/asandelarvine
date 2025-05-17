@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV Community 👋](https://dev.to/rachits999003/hello-dev-community-h0b)
-- [Scroll Animation Without JavaScript: Introducing animation-timeline: view&lpar;&rpar;;](https://dev.to/mdhassanpatwary/scroll-animation-without-javascript-introducing-animation-timeline-view-3col)
-- [reCharge：基于 SwiftUI 的全方位健康睡眠管理 App 实现原理与技术分享](https://dev.to/carpe_wang_37cb6023fc08ee/rechargeji-yu-swiftui-de-quan-fang-wei-jian-kang-shui-mian-guan-li-app-shi-xian-yuan-li-yu-ji-zhu-fen-xiang-4abc)
-- [Hey everyone, I’m working on a cybersecurity app called JamLock — focused on protecting users from skimming, hacking, and digital identity theft in real time. It includes features like NFC skimmer detection, encrypted vaults, behavioral security, emergenc](https://dev.to/curtis_ray_6d17eca1efba78/hey-everyone-im-working-on-a-cybersecurity-app-called-jamlock-focused-on-protecting-users-3ecd)
+- [How to display git shortsha in terminal](https://dev.to/bdavidxyz/how-to-display-git-shortsha-in-terminal-2n7j)
+- [Teamcamp for Dev Teams: Ship Faster, Collaborate Smarter](https://dev.to/teamcamp/teamcamp-for-dev-teams-ship-faster-collaborate-smarter-fk2)
+- [No Framework Overkill — Just Express and JSX](https://dev.to/leapcell/no-framework-overkill-just-express-and-jsx-30c0)
+- [How to Use Async Communication method to stay productive](https://dev.to/pratham_naik_project_manager/ho-to-use-astnc-communication-method-to-stay-productive-2pnl)
 <!-- BLOG-POST-LIST:END -->
 
