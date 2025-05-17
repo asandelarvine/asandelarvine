@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Basics: Why The Right Method Matters](https://dev.to/ujjwall-r/system-design-basics-why-the-right-method-matters-44f)
-- [Hidden Capabilities of Remix.js That Will Transform Your Approach to Markdown Blogs in 2025](https://dev.to/vitalii_petrenko_dev/hidden-capabilities-of-remixjs-that-will-transform-your-approach-to-markdown-blogs-in-2025-4ic5)
-- [Natural Language Browser Automation with Amazon Bedrock &amp; Playwright](https://dev.to/naoki_ishihara_d8646adfae/natural-language-browser-automation-with-amazon-bedrock-playwright-3hji)
-- [Boost Your English Reflexes with Amazon Nova Sonic](https://dev.to/pnghaianh/boost-your-english-reflexes-with-amazon-nova-sonic-2gfc)
+- [Python](https://dev.to/clmey/python-5514)
+- [Firebase Authentication in React: A Simple Step-by-Step Guide](https://dev.to/fonyuygita/firebase-authentication-in-react-a-simple-step-by-step-guide-24m6)
+- [Advanced Use Cases for Proxy in Data Validation](https://dev.to/omriluz1/advanced-use-cases-for-proxy-in-data-validation-2495)
+- [Small Language Models &lpar;SLMs&rpar;](https://dev.to/aniruddhaadak/small-language-models-slms-31c2)
 <!-- BLOG-POST-LIST:END -->
 
