@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLUTIONS ARCHITECT VS. PRESALES IN THE CLOUD INDUSTRY: AWS SOLUTIONS ARCHITECT AND PRESALES](https://dev.to/ductt/solutions-architect-vs-presales-in-the-cloud-industry-aws-solutions-architect-and-presales-gke)
-- [I&#39;m a self-taught dev from a small town in India. I need help getting a laptop/PC — can&#39;t afford one.](https://dev.to/robert_macwan/im-a-self-taught-dev-from-a-small-town-in-india-i-need-help-getting-any-old-working-laptoppc--2n1c)
-- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
-- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
+- [Choosing A Template Engine: The More Powerful Problem](https://dev.to/vst/choosing-a-template-engine-the-more-powerful-problem-53km)
+- [Fade in and out scroll bar on div hover](https://dev.to/preetha_vaishnavi_2b82358/fade-in-and-out-scroll-bar-on-div-hover-2ipf)
+- [MVA 495.1 Loops](https://dev.to/preetha_vaishnavi_2b82358/mva-4951-loops-3fk6)
+- [FlexBox Exercise #4 - Same height cards](https://dev.to/preetha_vaishnavi_2b82358/flexbox-exercise-4-same-height-cards-4nmm)
 <!-- BLOG-POST-LIST:END -->
 
