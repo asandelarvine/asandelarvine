@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing A Template Engine: The More Powerful Problem](https://dev.to/vst/choosing-a-template-engine-the-more-powerful-problem-53km)
-- [Fade in and out scroll bar on div hover](https://dev.to/preetha_vaishnavi_2b82358/fade-in-and-out-scroll-bar-on-div-hover-2ipf)
-- [MVA 495.1 Loops](https://dev.to/preetha_vaishnavi_2b82358/mva-4951-loops-3fk6)
-- [FlexBox Exercise #4 - Same height cards](https://dev.to/preetha_vaishnavi_2b82358/flexbox-exercise-4-same-height-cards-4nmm)
+- [How to Install Wan2.1 VACE Locally: An All-In-One AI Video Creation &amp; Editing Suite](https://dev.to/nodeshiftcloud/how-to-install-wan21-vace-locally-an-all-in-one-video-creation-editing-suite-4pdj)
+- [Integrating Tailwind CSS with React: A Comprehensive Technical Guide](https://dev.to/code_2/integrating-tailwind-css-with-react-a-comprehensive-technical-guide-284f)
+- [Go router navigation observer](https://dev.to/mattia/go-router-navigation-observer-1gj4)
+- [Process, Thread, Multi-threading, Concurrency](https://dev.to/ahasanpapon/process-thread-multi-threading-concurrency-10ol)
 <!-- BLOG-POST-LIST:END -->
 
