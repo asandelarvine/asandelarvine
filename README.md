@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling GNU Lesser General Public License 2.1: A Deep Dive into Open Source Licensing and Its Future](https://dev.to/bobcars/unveiling-gnu-lesser-general-public-license-21-a-deep-dive-into-open-source-licensing-and-its-j9c)
-- [Data Communication and Networking Study Guide for BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/data-communication-and-networking-study-guide-for-bca-semester-2-mcu-bhopal-1i8p)
-- [Heroku AI is now GA](https://dev.to/anush_dsouza_cf978a0d5406/heroku-ai-is-now-ga-3hel)
-- [A Brief History of Artificial Intelligence](https://dev.to/aireadycompass/a-brief-history-of-artificial-intelligence-1p47)
+- [🚀 Introducing the Code to Image Generator App — Turn Code Into Art!](https://dev.to/myogeshchavan97/introducing-the-code-to-image-generator-app-turn-code-into-art-2l89)
+- [Understanding the punycode Deprecation Warning in Node.js](https://dev.to/bharathvaj_ganesan/understanding-the-punycode-deprecation-warning-in-nodejs-5ffe)
+- [I&#39;m About to Ship My First EdTech-Focused App 🚀](https://dev.to/rono0365/im-about-to-ship-my-first-edtech-focused-app-316h)
+- [🧠 Difference Between pydantic and mypy](https://dev.to/muskanfatim/difference-between-pydantic-and-mypy-24al)
 <!-- BLOG-POST-LIST:END -->
 
