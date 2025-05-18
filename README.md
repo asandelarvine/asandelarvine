@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing the Code to Image Generator App — Turn Code Into Art!](https://dev.to/myogeshchavan97/introducing-the-code-to-image-generator-app-turn-code-into-art-2l89)
-- [Understanding the punycode Deprecation Warning in Node.js](https://dev.to/bharathvaj_ganesan/understanding-the-punycode-deprecation-warning-in-nodejs-5ffe)
-- [I&#39;m About to Ship My First EdTech-Focused App 🚀](https://dev.to/rono0365/im-about-to-ship-my-first-edtech-focused-app-316h)
-- [🧠 Difference Between pydantic and mypy](https://dev.to/muskanfatim/difference-between-pydantic-and-mypy-24al)
+- [7 Programming Mistakes I Made That Almost Destroyed My Projects &lpar;And How I Fixed Them&rpar;](https://dev.to/thameemx/7-programming-mistakes-i-made-that-almost-destroyed-my-projects-and-how-i-fixed-them-1fcn)
+- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
+- [A Comprehensive Guide to Bug Hunting](https://dev.to/xybersec/a-comprehensive-guide-to-bug-hunting-2l01)
+- [Building a No-Code Quant Backtesting Platform — My Journey Begins](https://dev.to/chair_2579a3e599995ce64da/building-a-no-code-quant-backtesting-platform-my-journey-begins-2kcj)
 <!-- BLOG-POST-LIST:END -->
 
