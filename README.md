@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [system capability call: teach you step by step to play &quot;system-level magic&quot;](https://dev.to/lyc233333/system-capability-call-teach-you-step-by-step-to-play-system-level-magic-36)
-- [HarmonyOS Next enterprise-level data security &quot;encrypted offensive and defensive battle&quot;](https://dev.to/lyc233333/harmonyos-next-enterprise-level-data-security-encrypted-offensive-and-defensive-battle-318h)
-- [Don’t quit your dev job just yet: the market’s not your friend in 2025](https://dev.to/devlinktips/dont-quit-your-dev-job-just-yet-the-markets-not-your-friend-in-2025-5f5c)
-- [Why modern software feels broken and why we keep shipping it anyway](https://dev.to/devlinktips/why-modern-software-feels-broken-and-why-we-keep-shipping-it-anyway-1omm)
+- [The Subtle Corrosion of Code: How Gresham&#39;s Law Applies to Software Development](https://dev.to/jeandevbr/the-subtle-corrosion-of-code-how-greshams-law-applies-to-software-development-1a9e)
+- [Incoming Weekend Call UI](https://dev.to/preetha_vaishnavi_2b82358/incoming-weekend-call-ui-1ofn)
+- [What 117 Days of Reflection Taught Me About Writing Code That Lasts](https://dev.to/tonystpierre/what-117-days-of-reflection-taught-me-about-writing-code-that-lasts-4b17)
+- [How to analyze Java application performance with async-profiler in Amazon EKS](https://dev.to/amogh_deshpande_1176/how-to-analyze-java-application-performance-with-async-profiler-in-amazon-eks-5d9o)
 <!-- BLOG-POST-LIST:END -->
 
