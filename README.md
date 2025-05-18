@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling GNU Free Documentation License 1.1: In-Depth Exploration and Future Outlook](https://dev.to/kallileiser/unveiling-gnu-free-documentation-license-11-in-depth-exploration-and-future-outlook-4kd3)
-- [Relational-n-back](https://dev.to/michael_02910bc84e622d090/relational-n-back-4834)
-- [[Boost]](https://dev.to/rakeshv675/-56h6)
-- [Demystifying `className` in React: HTML Attributes, TypeScript, and Styling Mastery](https://dev.to/cristiansifuentes/demystifying-classname-in-react-html-attributes-typescript-and-styling-mastery-3i6d)
+- [Weekly #20-2025: Metaverse Setbacks, AI Privacy, Uber’s Kubernetes Leap, Discord’s Search Revolution &amp; The “AI-First” Mandate](https://dev.to/sudhansubedi/weekly-20-2025-metaverse-setbacks-ai-privacy-ubers-kubernetes-leap-discords-search-nfj)
+- [Each child in a list should have a unique key prop](https://dev.to/bdavidxyz/each-child-in-a-list-should-have-a-unique-key-prop-1d03)
+- [Mastering useRef with NodeJS.Timeout in React + TypeScript](https://dev.to/cristiansifuentes/mastering-useref-with-nodejstimeout-in-react-typescript-1hf0)
+- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
 <!-- BLOG-POST-LIST:END -->
 
