@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CRISPR-Cas9, Code, and the Future of Programmable Biology](https://dev.to/alireza_minagar_99f01ecb6/crispr-cas9-code-and-the-future-of-programmable-biology-358e)
-- [[Boost]](https://dev.to/dqrshan/-1chd)
-- [Want to Be a Top .NET Developer?](https://dev.to/hasanmonsur/want-to-be-a-top-net-developer-1kem)
-- [The secret to a long-lasting career in Software Engineering](https://dev.to/kwnaidoo/the-secret-to-a-long-lasting-career-in-software-engineering-ofp)
+- [Say Goodbye to Payment Gateway Headaches: A Developer-Friendly SDK for East Africa 🚀](https://dev.to/pollarbrian/say-goodbye-to-payment-gateway-headaches-a-developer-friendly-sdk-for-east-africa-1jp8)
+- [ECS with Fargate for Beginners: Zero to Deploy](https://dev.to/oncloud7/ecs-with-fargate-for-beginners-zero-to-deploy-574l)
+- [Fully agentic coding with OpenAI Codex, JavaScript’s New Superpower, Deno’s updated next-gen web framework, and more](https://dev.to/thisweekinjavascript/fully-agentic-coding-with-openai-codex-javascripts-new-superpower-denos-updated-next-gen-web-3lk5)
+- [Wait... Where Did My Margin Go? 🤯 &lpar;Margin Collapsing Explained&rpar;](https://dev.to/agarwalamn/wait-where-did-my-margin-go-margin-collapsing-explained-4jfe)
 <!-- BLOG-POST-LIST:END -->
 
