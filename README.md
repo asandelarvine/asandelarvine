@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The process of creating an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-2a5d)
-- [How AI is Going to Disrupt Cloud Computing](https://dev.to/cloudoku-training/how-ai-is-going-to-disrupt-cloud-computing-48e0)
-- [How to create an effective application security Programme: Strategies, practices, and Tools for Optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-3f0a)
-- [New Project: Markdown TOC Generator 📑](https://dev.to/rajeshepili/new-project-markdown-toc-generator-5goa)
+- [What is GO](https://dev.to/selfish_dev/what-is-go-1247)
+- [The process of creating an effective Application Security Program: Strategies, methods, and Tools for Optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-methods-and-tools-13b8)
+- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
+- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
 <!-- BLOG-POST-LIST:END -->
 
