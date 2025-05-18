@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried Strands Agent](https://dev.to/shiruta/i-tried-strands-agent-1ik6)
-- [Deep Dive into the JavaScript Compiler Pipeline](https://dev.to/omriluz1/deep-dive-into-the-javascript-compiler-pipeline-853)
-- [How to setup Void IDE in Linux](https://dev.to/hpnightowl/how-to-setup-void-ide-in-linux-4j6f)
-- [Mark Zuckerberg Wants Developers to Build Smarter, With Meta AI](https://dev.to/ingramone/mark-zuckerberg-wants-developers-to-build-smarter-with-meta-ai-3cn3)
+- [The process of creating an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-2a5d)
+- [How AI is Going to Disrupt Cloud Computing](https://dev.to/cloudoku-training/how-ai-is-going-to-disrupt-cloud-computing-48e0)
+- [How to create an effective application security Programme: Strategies, practices, and Tools for Optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-programme-strategies-practices-and-tools-for-3f0a)
+- [New Project: Markdown TOC Generator 📑](https://dev.to/rajeshepili/new-project-markdown-toc-generator-5goa)
 <!-- BLOG-POST-LIST:END -->
 
