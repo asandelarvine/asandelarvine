@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Payment Gateway Headaches: A Developer-Friendly SDK for East Africa 🚀](https://dev.to/pollarbrian/say-goodbye-to-payment-gateway-headaches-a-developer-friendly-sdk-for-east-africa-1jp8)
-- [ECS with Fargate for Beginners: Zero to Deploy](https://dev.to/oncloud7/ecs-with-fargate-for-beginners-zero-to-deploy-574l)
-- [Fully agentic coding with OpenAI Codex, JavaScript’s New Superpower, Deno’s updated next-gen web framework, and more](https://dev.to/thisweekinjavascript/fully-agentic-coding-with-openai-codex-javascripts-new-superpower-denos-updated-next-gen-web-3lk5)
-- [Wait... Where Did My Margin Go? 🤯 &lpar;Margin Collapsing Explained&rpar;](https://dev.to/agarwalamn/wait-where-did-my-margin-go-margin-collapsing-explained-4jfe)
+- [My first blog :&rpar;](https://dev.to/mdhvg/my-first-blog--4jm9)
+- [The FREE Cursor Alternative That Builds Entire Websites For You &lpar;1-Minute Setup&rpar;](https://dev.to/itshayder/the-free-cursor-alternative-that-builds-entire-websites-for-you-1-minute-setup-53hc)
+- [🧾 Build a Custom QR Code Generator Using Python and Streamlit in Minutes!](https://dev.to/nish2005karsh/build-a-custom-qr-code-generator-using-python-and-streamlit-in-minutes-fcl)
+- [🚀 Boost Your WooCommerce Sales with Faker Review Lite &lpar;Yes, It’s That Simple&rpar;](https://dev.to/oxyian/boost-your-woocommerce-sales-with-faker-review-lite-yes-its-that-simple-5dcn)
 <!-- BLOG-POST-LIST:END -->
 
