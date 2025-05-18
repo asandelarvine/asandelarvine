@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is GO](https://dev.to/selfish_dev/what-is-go-1247)
-- [The process of creating an effective Application Security Program: Strategies, methods, and Tools for Optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-methods-and-tools-13b8)
-- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
-- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
+- [OpenAI Codex vs GPT](https://dev.to/bhuvaneshm_dev/openai-codex-vs-gpt-59d5)
+- [Intro to accessibility testing](https://dev.to/carmemias/intro-to-accessibility-testing-2igl)
+- [Junior vs Mid vs Senior Developer: What’s the Real Difference?](https://dev.to/alisamir/junior-vs-mid-vs-senior-developer-whats-the-real-difference-443i)
+- [Why Linking your Test Scripts with the Test Management Tool is a Game-Changer!](https://dev.to/s_chathuranga_j/why-linking-your-test-scripts-with-the-test-management-tool-is-a-game-changer-5a2p)
 <!-- BLOG-POST-LIST:END -->
 
