@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Turns Evil: How Hackers Weaponize Machine Learning](https://dev.to/nightmare-lynx/when-ai-turns-evil-how-hackers-weaponize-machine-learning-319e)
-- [Real-Time Synchronization of Oracle Tables via Kafka: A Comprehensive Guide](https://dev.to/devaaai/real-time-synchronization-of-oracle-tables-via-kafka-a-comprehensive-guide-17g7)
-- [Cómo desplegar Angular 19 en GitHub Pages desde GitHub Actions](https://dev.to/altaskur/como-desplegar-angular-19-en-github-pages-desde-github-actions-9d8)
-- [Announcing Toolifyx’s Responsiveness Tester – Test Smarter, Build Better!](https://dev.to/gkhan205/announcing-toolifyxs-responsiveness-tester-test-smarter-build-better-29l1)
+- [CRISPR-Cas9, Code, and the Future of Programmable Biology](https://dev.to/alireza_minagar_99f01ecb6/crispr-cas9-code-and-the-future-of-programmable-biology-358e)
+- [[Boost]](https://dev.to/dqrshan/-1chd)
+- [Want to Be a Top .NET Developer?](https://dev.to/hasanmonsur/want-to-be-a-top-net-developer-1kem)
+- [The secret to a long-lasting career in Software Engineering](https://dev.to/kwnaidoo/the-secret-to-a-long-lasting-career-in-software-engineering-ofp)
 <!-- BLOG-POST-LIST:END -->
 
