@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Subtle Corrosion of Code: How Gresham&#39;s Law Applies to Software Development](https://dev.to/jeandevbr/the-subtle-corrosion-of-code-how-greshams-law-applies-to-software-development-1a9e)
-- [Incoming Weekend Call UI](https://dev.to/preetha_vaishnavi_2b82358/incoming-weekend-call-ui-1ofn)
-- [What 117 Days of Reflection Taught Me About Writing Code That Lasts](https://dev.to/tonystpierre/what-117-days-of-reflection-taught-me-about-writing-code-that-lasts-4b17)
-- [How to analyze Java application performance with async-profiler in Amazon EKS](https://dev.to/amogh_deshpande_1176/how-to-analyze-java-application-performance-with-async-profiler-in-amazon-eks-5d9o)
+- [When AI Turns Evil: How Hackers Weaponize Machine Learning](https://dev.to/nightmare-lynx/when-ai-turns-evil-how-hackers-weaponize-machine-learning-319e)
+- [Real-Time Synchronization of Oracle Tables via Kafka: A Comprehensive Guide](https://dev.to/devaaai/real-time-synchronization-of-oracle-tables-via-kafka-a-comprehensive-guide-17g7)
+- [Cómo desplegar Angular 19 en GitHub Pages desde GitHub Actions](https://dev.to/altaskur/como-desplegar-angular-19-en-github-pages-desde-github-actions-9d8)
+- [Announcing Toolifyx’s Responsiveness Tester – Test Smarter, Build Better!](https://dev.to/gkhan205/announcing-toolifyxs-responsiveness-tester-test-smarter-build-better-29l1)
 <!-- BLOG-POST-LIST:END -->
 
