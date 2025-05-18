@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrando koa-graphql para grahpql-http](https://dev.to/dantas/migrando-koa-graphql-para-grahpql-http-1kp8)
-- [Unveiling OpenMAMA License: A Comprehensive Exploration of Fair Code and Sustainable Open Source Ecosystems](https://dev.to/ahmmrizv9/unveiling-openmama-license-a-comprehensive-exploration-of-fair-code-and-sustainable-open-source-4ipd)
-- [Welcome back to Part 3 of the Immo Finder App project! 👷‍♂️](https://dev.to/manimovassagh/welcome-back-to-part-3-of-the-immo-finder-app-project-3j3b)
-- [Deploying Novu on a Virtual Machine](https://dev.to/bayo99/deploying-novu-on-a-virtual-machine-3b91)
+- [Unveiling PostgreSQL License Variant: A Comprehensive Exploration of Open Source Fairness](https://dev.to/ashucommits/unveiling-postgresql-license-variant-a-comprehensive-exploration-of-open-source-fairness-1bl)
+- [From Zero to Git Hero: Hosting Your Own GitHub with Gitea on Linux](https://dev.to/isaac_ntumpi/from-zero-to-git-hero-hosting-your-own-github-with-gitea-on-linux-3dmj)
+- [Why you should become a developer marketer &lpar;A cold invitation&rpar;](https://dev.to/xamfonos/why-you-should-become-a-developer-marketer-a-cold-invitation-2ifh)
+- [The pause after you ship](https://dev.to/tonystpierre/the-pause-after-you-ship-4o0g)
 <!-- BLOG-POST-LIST:END -->
 
