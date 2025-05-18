@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth or JWT? Everything Developers Need to Know in 2025](https://dev.to/nilebits/oauth-or-jwt-everything-developers-need-to-know-in-2025-32lg)
-- [Türkiye&#39;nin Dijital Nabzı: Haberdizayn.com, Aktuel.net ve Abdulkadirgungor.com Üzerinden Çevrimiçi Dünyaya Bir Bakış](https://dev.to/abdulkadir_gungor_86/turkiyenin-dijital-nabzi-haberdizayncom-aktuelnet-ve-abdulkadirgungorcom-uzerinden-cevrimici-lp1)
-- [Unveiling GNU General Public License 1.0: A Holistic Exploration of Open Source Licensing Principles](https://dev.to/kallileiser/unveiling-gnu-general-public-license-10-a-holistic-exploration-of-open-source-licensing-principles-dd)
-- [Weekly Challenge: Compare the Average](https://dev.to/simongreennet/weekly-challenge-compare-the-average-1907)
+- [system capability call: teach you step by step to play &quot;system-level magic&quot;](https://dev.to/lyc233333/system-capability-call-teach-you-step-by-step-to-play-system-level-magic-36)
+- [HarmonyOS Next enterprise-level data security &quot;encrypted offensive and defensive battle&quot;](https://dev.to/lyc233333/harmonyos-next-enterprise-level-data-security-encrypted-offensive-and-defensive-battle-318h)
+- [Don’t quit your dev job just yet: the market’s not your friend in 2025](https://dev.to/devlinktips/dont-quit-your-dev-job-just-yet-the-markets-not-your-friend-in-2025-5f5c)
+- [Why modern software feels broken and why we keep shipping it anyway](https://dev.to/devlinktips/why-modern-software-feels-broken-and-why-we-keep-shipping-it-anyway-1omm)
 <!-- BLOG-POST-LIST:END -->
 
