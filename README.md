@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #20-2025: Metaverse Setbacks, AI Privacy, Uber’s Kubernetes Leap, Discord’s Search Revolution &amp; The “AI-First” Mandate](https://dev.to/sudhansubedi/weekly-20-2025-metaverse-setbacks-ai-privacy-ubers-kubernetes-leap-discords-search-nfj)
-- [Each child in a list should have a unique key prop](https://dev.to/bdavidxyz/each-child-in-a-list-should-have-a-unique-key-prop-1d03)
-- [Mastering useRef with NodeJS.Timeout in React + TypeScript](https://dev.to/cristiansifuentes/mastering-useref-with-nodejstimeout-in-react-typescript-1hf0)
-- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
+- [Unveiling GNU Lesser General Public License 2.1: A Deep Dive into Open Source Licensing and Its Future](https://dev.to/bobcars/unveiling-gnu-lesser-general-public-license-21-a-deep-dive-into-open-source-licensing-and-its-j9c)
+- [Data Communication and Networking Study Guide for BCA Semester 2 - MCU Bhopal](https://dev.to/abhishek_gupta_f080622fe3/data-communication-and-networking-study-guide-for-bca-semester-2-mcu-bhopal-1i8p)
+- [Heroku AI is now GA](https://dev.to/anush_dsouza_cf978a0d5406/heroku-ai-is-now-ga-3hel)
+- [A Brief History of Artificial Intelligence](https://dev.to/aireadycompass/a-brief-history-of-artificial-intelligence-1p47)
 <!-- BLOG-POST-LIST:END -->
 
