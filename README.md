@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambda in Python](https://dev.to/hyperkai/lambda-in-python-o8)
-- [📌 O que é Tabela Verdade e pra que serve?](https://dev.to/senhorita_zi/o-que-e-tabela-verdade-e-pra-que-serve-dpa)
-- [Requesting info](https://dev.to/darth_sql/requesting-info-57gi)
-- [The DNA of a Domain: Understanding DNS, FQDNs, and Domain Structures](https://dev.to/daud99/the-dna-of-a-domain-understanding-dns-fqdns-and-domain-structures-1in2)
+- [My Journey with RSI](https://dev.to/maxpatiiuk/my-journey-with-rsi-4f9m)
+- [Types of dependencies in package.json file](https://dev.to/hemantgovekar/types-of-dependencies-in-packagejson-file-1i1j)
+- [Operadores Bitwise em Golang](https://dev.to/cristian_tebaldi/operadores-bitwise-em-golang-1144)
+- [`pnpm` setting steps](https://dev.to/shelner/pnpm-setting-steps-3d84)
 <!-- BLOG-POST-LIST:END -->
 
