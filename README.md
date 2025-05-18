@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling PostgreSQL License Variant: A Comprehensive Exploration of Open Source Fairness](https://dev.to/ashucommits/unveiling-postgresql-license-variant-a-comprehensive-exploration-of-open-source-fairness-1bl)
-- [From Zero to Git Hero: Hosting Your Own GitHub with Gitea on Linux](https://dev.to/isaac_ntumpi/from-zero-to-git-hero-hosting-your-own-github-with-gitea-on-linux-3dmj)
-- [Why you should become a developer marketer &lpar;A cold invitation&rpar;](https://dev.to/xamfonos/why-you-should-become-a-developer-marketer-a-cold-invitation-2ifh)
-- [The pause after you ship](https://dev.to/tonystpierre/the-pause-after-you-ship-4o0g)
+- [Mise à l&#39;échelle et équilibrage de la charge de votre architecture](https://dev.to/la_grcenkinki_0ae00d92f/mise-a-lechelle-et-equilibrage-de-la-charge-de-votre-architecture-3lfa)
+- [How to Convert EPS to PNG: A Developer’s Guide](https://dev.to/smartdev72/how-to-convert-eps-to-png-a-developers-guide-3bnc)
+- [Beyond Promises](https://dev.to/rawveg/beyond-promises-2fdk)
+- [Unveiling the Ricoh Source Code Public License: A Holistic Look at Fair Code and Future Innovations](https://dev.to/rachellovestowrite/unveiling-the-ricoh-source-code-public-license-a-holistic-look-at-fair-code-and-future-innovations-4l5)
 <!-- BLOG-POST-LIST:END -->
 
