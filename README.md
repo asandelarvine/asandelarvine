@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Stop Timezone Chaos in Your Business App: A Laravel Developer’s Guide To Setup User TimeZone Based Carbon Usage](https://dev.to/codewithmikee/stop-timezone-chaos-in-your-business-app-a-laravel-developers-guide-to-setup-user-timezone-c2g)
-- [Why Consistency Matters More Than Motivation &lpar;As a Developer&rpar;](https://dev.to/hobaaaa/why-consistency-matters-more-than-motivation-as-a-developer-2ngi)
-- [# Hello Dev.to! Meet Samuel — An Aspiring Software Developer on a Journey](https://dev.to/sam_mwendwa_a6123278be84a/-hello-devto-meet-samuel-an-aspiring-software-developer-on-a-journey-2ijf)
-- [Leveraging ES2022 Features for Cleaner Code](https://dev.to/omriluz1/leveraging-es2022-features-for-cleaner-code-5857)
+- [Migrando koa-graphql para grahpql-http](https://dev.to/dantas/migrando-koa-graphql-para-grahpql-http-1kp8)
+- [Unveiling OpenMAMA License: A Comprehensive Exploration of Fair Code and Sustainable Open Source Ecosystems](https://dev.to/ahmmrizv9/unveiling-openmama-license-a-comprehensive-exploration-of-fair-code-and-sustainable-open-source-4ipd)
+- [Welcome back to Part 3 of the Immo Finder App project! 👷‍♂️](https://dev.to/manimovassagh/welcome-back-to-part-3-of-the-immo-finder-app-project-3j3b)
+- [Deploying Novu on a Virtual Machine](https://dev.to/bayo99/deploying-novu-on-a-virtual-machine-3b91)
 <!-- BLOG-POST-LIST:END -->
 
