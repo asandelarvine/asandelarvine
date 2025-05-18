@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first blog :&rpar;](https://dev.to/mdhvg/my-first-blog--4jm9)
-- [The FREE Cursor Alternative That Builds Entire Websites For You &lpar;1-Minute Setup&rpar;](https://dev.to/itshayder/the-free-cursor-alternative-that-builds-entire-websites-for-you-1-minute-setup-53hc)
-- [🧾 Build a Custom QR Code Generator Using Python and Streamlit in Minutes!](https://dev.to/nish2005karsh/build-a-custom-qr-code-generator-using-python-and-streamlit-in-minutes-fcl)
-- [🚀 Boost Your WooCommerce Sales with Faker Review Lite &lpar;Yes, It’s That Simple&rpar;](https://dev.to/oxyian/boost-your-woocommerce-sales-with-faker-review-lite-yes-its-that-simple-5dcn)
+- [IMF Approves 7 Billion Climate Resilience Loan for Pakistan](https://dev.to/scriptxeno/imf-approves-7-billion-climate-resilience-loan-for-pakistan-1i3p)
+- [NEST useful packages](https://dev.to/wakeup_flower_8591a6cb6a9/nest-useful-packages-4ke)
+- [CI/CD for Monorepos: Taming the Beast with Smart Strategies 🚀](https://dev.to/alex_aslam/cicd-for-monorepos-taming-the-beast-with-smart-strategies-3np0)
+- [Build a One-File EXE with PyInstaller &lpar;Including Binaries &amp; Resources&rpar;](https://dev.to/arhamrumi/build-a-one-file-exe-with-pyinstaller-including-binaries-resources-3o00)
 <!-- BLOG-POST-LIST:END -->
 
