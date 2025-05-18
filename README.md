@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with RSI](https://dev.to/maxpatiiuk/my-journey-with-rsi-4f9m)
-- [Types of dependencies in package.json file](https://dev.to/hemantgovekar/types-of-dependencies-in-packagejson-file-1i1j)
-- [Operadores Bitwise em Golang](https://dev.to/cristian_tebaldi/operadores-bitwise-em-golang-1144)
-- [`pnpm` setting steps](https://dev.to/shelner/pnpm-setting-steps-3d84)
+- [Unveiling GNU Free Documentation License 1.1: In-Depth Exploration and Future Outlook](https://dev.to/kallileiser/unveiling-gnu-free-documentation-license-11-in-depth-exploration-and-future-outlook-4kd3)
+- [Relational-n-back](https://dev.to/michael_02910bc84e622d090/relational-n-back-4834)
+- [[Boost]](https://dev.to/rakeshv675/-56h6)
+- [Demystifying `className` in React: HTML Attributes, TypeScript, and Styling Mastery](https://dev.to/cristiansifuentes/demystifying-classname-in-react-html-attributes-typescript-and-styling-mastery-3i6d)
 <!-- BLOG-POST-LIST:END -->
 
