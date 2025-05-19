@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Multimodal RAG](https://dev.to/voltagent/what-is-multimodal-rag-pf8)
-- [.NET Learning Notes: Unit Test&lpar;Castle Dynamic Proxy&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-unit-testcastle-dynamic-proxy-21p8)
-- [Fast API Request Handling](https://dev.to/hiteshchawla/fast-api-request-handling-39be)
-- [Copyleft Licenses: A Comprehensive Guide for Open Source and Commercial Success](https://dev.to/rachellovestowrite/copyleft-licenses-a-comprehensive-guide-for-open-source-and-commercial-success-31np)
+- [DeepL Alternatives: Exploring the Best Translation Tools](https://dev.to/colinreed/deepl-alternatives-exploring-the-best-translation-tools-174e)
+- [Q: Suggestion needed](https://dev.to/swatiqfin/q-suggestion-needed-2m4n)
+- [KI-Nachrichten Deutschland Q1 2025: Revolutionizing Society or Hitting Limits?](https://dev.to/vitalisorenko/ki-nachrichten-deutschland-q1-2025-revolutionizing-society-or-hitting-limits-24f)
+- [Taking Python Further in Cybersecurity: Real-World Applications and Projects](https://dev.to/hexshift/taking-python-further-in-cybersecurity-real-world-applications-and-projects-4ah1)
 <!-- BLOG-POST-LIST:END -->
 
