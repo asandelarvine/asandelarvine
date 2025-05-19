@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can smart tools and a bit of code really eliminate 80% of manual data entry work?](https://dev.to/debian_nate_/can-smart-tools-and-a-bit-of-code-really-eliminate-80-of-manual-data-entry-work-28pm)
-- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
-- [🚀 Web Performance Metrics: How to Improve FCP, LCP, and CLS](https://dev.to/hasunnilupul/web-performance-metrics-how-to-improve-fcp-lcp-and-cls-395e)
-- [From Cloud Chaos to Developer Delight: Your Practical Guide to Building an Internal Developer Platform](https://dev.to/akshaymittal143/from-cloud-chaos-to-developer-delight-your-practical-guide-to-building-an-internal-developer-3o7n)
+- [Unveiling the Tidelift Open Source Funding Model: Bridging the Gap Between Business and OSS Sustainability](https://dev.to/ahmmrizv9/unveiling-the-tidelift-open-source-funding-model-bridging-the-gap-between-business-and-oss-2a54)
+- [🚀 AI + IoT is the future of smart technology.](https://dev.to/red9systech/ai-iot-is-the-future-of-smart-technology-1e1)
+- [Learn Java Programming Language with Practical Projects](https://dev.to/pythontutorial/learn-java-programming-language-with-practical-projects-2j06)
+- [Empowering Business Innovation with Cutting‑Edge Technology: Development Practices Based on HarmonyOS 5 Atomic Vision Services](https://dev.to/dcdvdv_a_5059c020ba962689/empowering-business-innovation-with-cutting-edge-technology-development-practices-based-on-53nk)
 <!-- BLOG-POST-LIST:END -->
 
