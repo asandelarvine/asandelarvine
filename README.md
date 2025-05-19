@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Tons of AI Image Generators - These 10 Are the Best by Far](https://dev.to/nitinfab/i-tested-tons-of-ai-image-generators-these-10-are-the-best-by-far-cj6)
-- [Service Level Objectives Examples and the SLO Development Lifecycle &lpar;SLODLC&rpar;](https://dev.to/kapusto/service-level-objectives-examples-and-the-slo-development-lifecycle-slodlc-5amh)
-- [Open Source Spotlight: Weekly Innovations and Future Trends in Open Source](https://dev.to/vitalisorenko/open-source-spotlight-weekly-innovations-and-future-trends-in-open-source-7k6)
-- [How I Struggled &lpar;and Finally Succeeded&rpar; Configuring Redis on Oracle Linux](https://dev.to/pouria_ghadiri/how-i-struggled-and-finally-succeeded-configuring-redis-on-oracle-linux-2iib)
+- [BIOS Screen Using React, Redux, Tailwind !!!](https://dev.to/xb16/bios-screen-using-react-redux-tailwind--2boo)
+- [Getting Started with the AWS Rekognition API](https://dev.to/apgarrett/getting-started-with-the-aws-rekognition-api-epe)
+- [Why AI Tools Fail When You Don’t Know the Basics](https://dev.to/hobaaaa/why-ai-tools-fail-when-you-dont-know-the-basics-268b)
+- [This is exactly the kind of approach most teams overlook in their CRM strategy.](https://dev.to/zaramercer89/this-is-exactly-the-kind-of-approach-most-teams-overlook-in-their-crm-strategy-2amj)
 <!-- BLOG-POST-LIST:END -->
 
