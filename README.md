@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Why You Should Ditch Popular Frameworks &lpar;And What to Use Instead!&rpar; 🔥](https://dev.to/alexroor4/why-you-should-ditch-popular-frameworks-and-what-to-use-instead-jo3)
-- [How to build a Domain Specific Deep Research Agent Using Qwen3 &amp; Composio Locally](https://dev.to/composiodev/how-to-build-a-domain-specific-deep-research-agent-using-qwen3-composio-locally-1pb)
-- [📅 Day 1/75 of LeetCode Practice – [Today’s Focus: Arrays / Strings / Sliding Window]](https://dev.to/nish2005karsh/day-175-of-leetcode-practice-todays-focus-arrays-strings-sliding-window-258b)
-- [🧠 How to Write Shell Scripts That Access Memory Safely](https://dev.to/francescobianco/how-to-write-shell-scripts-that-access-memory-safely-399f)
+- [Cracking the &lt; 1-second Voice Loop: What We Learned After 30+ Stack Benchmarks](https://dev.to/cloudx/cracking-the-1-second-voice-loop-what-we-learned-after-30-stack-benchmarks-427)
+- [Voice-Controlled Access: Securing Doors and Gates with IoT Assistants](https://dev.to/karen_londres/voice-controlled-access-securing-doors-and-gates-with-iot-assistants-30l7)
+- [🪄 The magic you are looking for is in the work you are avoiding! Let that sink in... 😎 Have an amazing start of the week! 💯🤝 #mondaymotivation #growthmindset #keeplearning #webdevelopment](https://dev.to/wahabshah23/the-magic-you-are-looking-for-is-in-the-work-you-are-avoiding-let-that-sink-in-have-an-l83)
+- [what commits should represent....](https://dev.to/gnrlbzik/what-commits-should-represent-d03)
 <!-- BLOG-POST-LIST:END -->
 
