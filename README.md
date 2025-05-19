@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugins made-to-scale: uma visão sobre cache, filas e resiliência.](https://dev.to/lerian/plugins-made-to-scale-uma-visao-sobre-cache-filas-e-resiliencia-2o7c)
-- [Serverless Is a Lie &lpar;Unless You’re Using SQLite&rpar;](https://dev.to/shayy/serverless-is-a-lie-unless-youre-using-sqlite-45ja)
-- [The Quiet Crisis: How is AI Eroding Our Technical Competence?](https://dev.to/sebs/the-quiet-crisis-how-is-ai-eroding-our-technical-competence-2in2)
-- [Implementing a Custom Reactive Library in Vanilla JS](https://dev.to/omriluz1/implementing-a-custom-reactive-library-in-vanilla-js-4i2o)
+- [Building Scalable and Secure IT Infrastructure for Small and Medium Enterprises &lpar;SMEs&rpar;](https://dev.to/brunocavana/building-scalable-and-secure-it-infrastructure-for-small-and-medium-enterprises-smes-3che)
+- [Introducing Telepipe: Your New Favorite CLI for Telegram Notifications &amp; File Sharing](https://dev.to/linuxmaster/introducing-telepipe-your-new-favorite-cli-for-telegram-notifications-file-sharing-3mj3)
+- [How to Secure a Segment of TCP Tunnel with TLS Using Gost?](https://dev.to/davis8988/how-to-secure-a-segment-of-tcp-tunnel-with-tls-using-gost-240m)
+- [Python vs SQL: Which is Best for Querying and Cleaning Data?](https://dev.to/kenyansa/python-vs-sql-which-is-best-for-querying-and-cleaning-data-pcf)
 <!-- BLOG-POST-LIST:END -->
 
