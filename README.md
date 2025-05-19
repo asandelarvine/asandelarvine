@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox&#39;s Data Sharing: What It Means for Your Privacy – A Holistic Analysis](https://dev.to/ashucommits/firefoxs-data-sharing-what-it-means-for-your-privacy-a-holistic-analysis-e5e)
-- [Image Engineering with Amazon Nova Canvas [🎥 Video Demo Included]](https://dev.to/aws-builders/image-engineering-with-amazon-nova-canvas-video-demo-included-4kag)
-- [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3)
-- [Why SafeLine Might Be the Best Open Source WAF You Haven’t Tried Yet](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-might-be-the-best-open-source-waf-you-havent-tried-yet-o7l)
+- [What is Multimodal RAG](https://dev.to/voltagent/what-is-multimodal-rag-pf8)
+- [.NET Learning Notes: Unit Test&lpar;Castle Dynamic Proxy&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-unit-testcastle-dynamic-proxy-21p8)
+- [Fast API Request Handling](https://dev.to/hiteshchawla/fast-api-request-handling-39be)
+- [Copyleft Licenses: A Comprehensive Guide for Open Source and Commercial Success](https://dev.to/rachellovestowrite/copyleft-licenses-a-comprehensive-guide-for-open-source-and-commercial-success-31np)
 <!-- BLOG-POST-LIST:END -->
 
