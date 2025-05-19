@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Security Risks and Vulnerabilities in Model Context Protocol &lpar;MCP&rpar;: The Emerging Challenge for AI Systems](https://dev.to/stevengonsalvez/exploring-security-risks-and-vulnerabilities-in-model-context-protocol-mcp-the-emerging-3mcn)
-- [&quot;My First React Native App: A Custom Admin Tool for My Website](https://dev.to/formantaudio/my-first-react-native-app-a-custom-admin-tool-for-my-website-31km)
-- [Coding Challenge Practice - Question 7](https://dev.to/tomivan/coding-challenge-practice-question-7-3ip8)
-- [Musical Chord Progression Arpeggiator](https://dev.to/rafal_gnasiuk/musical-chord-progression-arpeggiator-2mf3)
+- [Beware the Evil Twin: Exploring Wi-Fi Impersonation Attacks](https://dev.to/tanyonghe/beware-the-evil-twin-exploring-wi-fi-impersonation-attacks-4dim)
+- [How to Set Up PostgreSQL for Your Django App on a VPS Server](https://dev.to/msnmongare/how-to-set-up-postgresql-for-your-django-app-on-a-vps-server-1nil)
+- [Mastering `useDebugValue` in React: Debug Smarter, Code Better](https://dev.to/cristiansifuentes/mastering-usedebugvalue-in-react-debug-smarter-code-better-2d76)
+- [10 Livros de Programação Escritos por Brasileiros ou em Português](https://dev.to/marcosplusplus/10-livros-de-programacao-escritos-por-brasileiros-ou-em-portugues-4675)
 <!-- BLOG-POST-LIST:END -->
 
