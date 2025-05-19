@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BIOS Screen Using React, Redux, Tailwind !!!](https://dev.to/xb16/bios-screen-using-react-redux-tailwind--2boo)
-- [Getting Started with the AWS Rekognition API](https://dev.to/apgarrett/getting-started-with-the-aws-rekognition-api-epe)
-- [Why AI Tools Fail When You Don’t Know the Basics](https://dev.to/hobaaaa/why-ai-tools-fail-when-you-dont-know-the-basics-268b)
-- [This is exactly the kind of approach most teams overlook in their CRM strategy.](https://dev.to/zaramercer89/this-is-exactly-the-kind-of-approach-most-teams-overlook-in-their-crm-strategy-2amj)
+- [Plugins made-to-scale: uma visão sobre cache, filas e resiliência.](https://dev.to/lerian/plugins-made-to-scale-uma-visao-sobre-cache-filas-e-resiliencia-2o7c)
+- [Serverless Is a Lie &lpar;Unless You’re Using SQLite&rpar;](https://dev.to/shayy/serverless-is-a-lie-unless-youre-using-sqlite-45ja)
+- [The Quiet Crisis: How is AI Eroding Our Technical Competence?](https://dev.to/sebs/the-quiet-crisis-how-is-ai-eroding-our-technical-competence-2in2)
+- [Implementing a Custom Reactive Library in Vanilla JS](https://dev.to/omriluz1/implementing-a-custom-reactive-library-in-vanilla-js-4i2o)
 <!-- BLOG-POST-LIST:END -->
 
