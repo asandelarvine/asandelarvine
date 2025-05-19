@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EXPRESS.JS #1 &lpar;WHAT I HAVE LEARNED&rpar;](https://dev.to/rama_83f129f1bde0bcdee2f6/expressjs-1-what-i-have-learned-4m3m)
-- [Do You Use SELECT * or Explicit Columns in Production Queries?](https://dev.to/codeliner/do-you-use-select-or-explicit-columns-in-production-queries-3n69)
-- [From Zero to Hero: The Best CSS Tutorial for Aspiring Developers](https://dev.to/tpointtechblog/from-zero-to-hero-the-best-css-tutorial-for-aspiring-developers-31ak)
-- [Relational query languages](https://dev.to/aniruddhaadak/relational-query-languages-4854)
+- [Can smart tools and a bit of code really eliminate 80% of manual data entry work?](https://dev.to/debian_nate_/can-smart-tools-and-a-bit-of-code-really-eliminate-80-of-manual-data-entry-work-28pm)
+- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
+- [🚀 Web Performance Metrics: How to Improve FCP, LCP, and CLS](https://dev.to/hasunnilupul/web-performance-metrics-how-to-improve-fcp-lcp-and-cls-395e)
+- [From Cloud Chaos to Developer Delight: Your Practical Guide to Building an Internal Developer Platform](https://dev.to/akshaymittal143/from-cloud-chaos-to-developer-delight-your-practical-guide-to-building-an-internal-developer-3o7n)
 <!-- BLOG-POST-LIST:END -->
 
