@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable and Secure IT Infrastructure for Small and Medium Enterprises &lpar;SMEs&rpar;](https://dev.to/brunocavana/building-scalable-and-secure-it-infrastructure-for-small-and-medium-enterprises-smes-3che)
-- [Introducing Telepipe: Your New Favorite CLI for Telegram Notifications &amp; File Sharing](https://dev.to/linuxmaster/introducing-telepipe-your-new-favorite-cli-for-telegram-notifications-file-sharing-3mj3)
-- [How to Secure a Segment of TCP Tunnel with TLS Using Gost?](https://dev.to/davis8988/how-to-secure-a-segment-of-tcp-tunnel-with-tls-using-gost-240m)
-- [Python vs SQL: Which is Best for Querying and Cleaning Data?](https://dev.to/kenyansa/python-vs-sql-which-is-best-for-querying-and-cleaning-data-pcf)
+- [Exploring Security Risks and Vulnerabilities in Model Context Protocol &lpar;MCP&rpar;: The Emerging Challenge for AI Systems](https://dev.to/stevengonsalvez/exploring-security-risks-and-vulnerabilities-in-model-context-protocol-mcp-the-emerging-3mcn)
+- [&quot;My First React Native App: A Custom Admin Tool for My Website](https://dev.to/formantaudio/my-first-react-native-app-a-custom-admin-tool-for-my-website-31km)
+- [Coding Challenge Practice - Question 7](https://dev.to/tomivan/coding-challenge-practice-question-7-3ip8)
+- [Musical Chord Progression Arpeggiator](https://dev.to/rafal_gnasiuk/musical-chord-progression-arpeggiator-2mf3)
 <!-- BLOG-POST-LIST:END -->
 
