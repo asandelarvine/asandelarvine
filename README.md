@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatiza tu despliegue con GitOps usando Flux y Kubernetes 🚀](https://dev.to/haroldo89/automatiza-tu-despliegue-con-gitops-usando-flux-y-kubernetes-1262)
-- [The Story of Building Asia’s Largest Broker Hub 🌏](https://dev.to/coderbiozed/the-story-of-building-asias-largest-broker-hub-5g7e)
-- [Does My dApp Architecture Need to Be Auditable?](https://dev.to/velvosoft/does-my-dapp-architecture-need-to-be-auditable-2fii)
-- [[Boost]](https://dev.to/victorprdh/-2hf6)
+- [Building an AI-Powered Web Data Pipeline with n8n, Scrapeless, and Claude](https://dev.to/datacollectionscraper/building-an-ai-powered-web-data-pipeline-with-n8n-scrapeless-and-claude-4eg6)
+- [Dark Patterns in Enterprise Software &lpar;And How to Avoid Them&rpar;](https://dev.to/corporateone/dark-patterns-in-enterprise-software-and-how-to-avoid-them-bf)
+- [Comprehensive guide to understanding and building effective AI agents](https://dev.to/ai4b/comprehensive-guide-to-understanding-and-building-effective-ai-agents-4p95)
+- [Entry-Level Data Engineer: What Recruiters Are Really Looking For in 2025](https://dev.to/browsejobs/entry-level-data-engineer-what-recruiters-are-really-looking-for-in-2025-3fkf)
 <!-- BLOG-POST-LIST:END -->
 
