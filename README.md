@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Understanding `AND &lpar;&amp;&amp;&rpar;` and `OR &lpar;||&rpar;` Operators in JavaScript](https://dev.to/himanayk/understanding-and-and-or-operators-in-javascript-nf4)
-- [Purge: Uninstaller for macOS That Goes Deep](https://dev.to/wess/purge-uninstaller-for-macos-that-goes-deep-3odi)
-- [What Scales Faster Than Code? Trust.](https://dev.to/santoshi_kumari_c34ae877b/what-scales-faster-than-code-trust-287n)
-- [Introducing &quot;flux&quot; the modern Go framework](https://dev.to/bisiolayemi/introducing-flux-the-modern-go-framework-6i4)
+- [From JavaScript to Python: A Syntax Guide for Developers](https://dev.to/mohinsheikh/from-javascript-to-python-a-syntax-guide-for-developers-4ea0)
+- [Реализация Паттерна Compound Component в React: Практическое Руководство от Богдана Новотарского](https://dev.to/bogdannovotarskij/riealizatsiia-pattierna-compound-component-v-react-praktichieskoie-rukovodstvo-ot-boghdana-novotarskogho-5ff2)
+- [Why as a Back-end-engineer you should know an Operating System and it&#39;s Basics!](https://dev.to/vincenttommi/why-as-a-back-end-engineer-you-should-know-an-operating-system-and-its-basics-4594)
+- [Share the Blessings - Support Qurbani 2025 at Banbury Madni Masjid](https://dev.to/banbury_madni_masjid/share-the-blessings-support-qurbani-2025-at-banbury-madni-masjid-30gp)
 <!-- BLOG-POST-LIST:END -->
 
