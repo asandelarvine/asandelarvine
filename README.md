@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Web Data Pipeline with n8n, Scrapeless, and Claude](https://dev.to/datacollectionscraper/building-an-ai-powered-web-data-pipeline-with-n8n-scrapeless-and-claude-4eg6)
-- [Dark Patterns in Enterprise Software &lpar;And How to Avoid Them&rpar;](https://dev.to/corporateone/dark-patterns-in-enterprise-software-and-how-to-avoid-them-bf)
-- [Comprehensive guide to understanding and building effective AI agents](https://dev.to/ai4b/comprehensive-guide-to-understanding-and-building-effective-ai-agents-4p95)
-- [Entry-Level Data Engineer: What Recruiters Are Really Looking For in 2025](https://dev.to/browsejobs/entry-level-data-engineer-what-recruiters-are-really-looking-for-in-2025-3fkf)
+- [✨ Understanding `AND &lpar;&amp;&amp;&rpar;` and `OR &lpar;||&rpar;` Operators in JavaScript](https://dev.to/himanayk/understanding-and-and-or-operators-in-javascript-nf4)
+- [Purge: Uninstaller for macOS That Goes Deep](https://dev.to/wess/purge-uninstaller-for-macos-that-goes-deep-3odi)
+- [What Scales Faster Than Code? Trust.](https://dev.to/santoshi_kumari_c34ae877b/what-scales-faster-than-code-trust-287n)
+- [Introducing &quot;flux&quot; the modern Go framework](https://dev.to/bisiolayemi/introducing-flux-the-modern-go-framework-6i4)
 <!-- BLOG-POST-LIST:END -->
 
