@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Tidelift Open Source Funding Model: Bridging the Gap Between Business and OSS Sustainability](https://dev.to/ahmmrizv9/unveiling-the-tidelift-open-source-funding-model-bridging-the-gap-between-business-and-oss-2a54)
-- [🚀 AI + IoT is the future of smart technology.](https://dev.to/red9systech/ai-iot-is-the-future-of-smart-technology-1e1)
-- [Learn Java Programming Language with Practical Projects](https://dev.to/pythontutorial/learn-java-programming-language-with-practical-projects-2j06)
-- [Empowering Business Innovation with Cutting‑Edge Technology: Development Practices Based on HarmonyOS 5 Atomic Vision Services](https://dev.to/dcdvdv_a_5059c020ba962689/empowering-business-innovation-with-cutting-edge-technology-development-practices-based-on-53nk)
+- [Firefox&#39;s Data Sharing: What It Means for Your Privacy – A Holistic Analysis](https://dev.to/ashucommits/firefoxs-data-sharing-what-it-means-for-your-privacy-a-holistic-analysis-e5e)
+- [Image Engineering with Amazon Nova Canvas [🎥 Video Demo Included]](https://dev.to/aws-builders/image-engineering-with-amazon-nova-canvas-video-demo-included-4kag)
+- [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3)
+- [Why SafeLine Might Be the Best Open Source WAF You Haven’t Tried Yet](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-might-be-the-best-open-source-waf-you-havent-tried-yet-o7l)
 <!-- BLOG-POST-LIST:END -->
 
