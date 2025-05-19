@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepL Alternatives: Exploring the Best Translation Tools](https://dev.to/colinreed/deepl-alternatives-exploring-the-best-translation-tools-174e)
-- [Q: Suggestion needed](https://dev.to/swatiqfin/q-suggestion-needed-2m4n)
-- [KI-Nachrichten Deutschland Q1 2025: Revolutionizing Society or Hitting Limits?](https://dev.to/vitalisorenko/ki-nachrichten-deutschland-q1-2025-revolutionizing-society-or-hitting-limits-24f)
-- [Taking Python Further in Cybersecurity: Real-World Applications and Projects](https://dev.to/hexshift/taking-python-further-in-cybersecurity-real-world-applications-and-projects-4ah1)
+- [Automatiza tu despliegue con GitOps usando Flux y Kubernetes 🚀](https://dev.to/haroldo89/automatiza-tu-despliegue-con-gitops-usando-flux-y-kubernetes-1262)
+- [The Story of Building Asia’s Largest Broker Hub 🌏](https://dev.to/coderbiozed/the-story-of-building-asias-largest-broker-hub-5g7e)
+- [Does My dApp Architecture Need to Be Auditable?](https://dev.to/velvosoft/does-my-dapp-architecture-need-to-be-auditable-2fii)
+- [[Boost]](https://dev.to/victorprdh/-2hf6)
 <!-- BLOG-POST-LIST:END -->
 
