@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
-- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
-- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
-- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
+- [EXPRESS.JS #1 &lpar;WHAT I HAVE LEARNED&rpar;](https://dev.to/rama_83f129f1bde0bcdee2f6/expressjs-1-what-i-have-learned-4m3m)
+- [Do You Use SELECT * or Explicit Columns in Production Queries?](https://dev.to/codeliner/do-you-use-select-or-explicit-columns-in-production-queries-3n69)
+- [From Zero to Hero: The Best CSS Tutorial for Aspiring Developers](https://dev.to/tpointtechblog/from-zero-to-hero-the-best-css-tutorial-for-aspiring-developers-31ak)
+- [Relational query languages](https://dev.to/aniruddhaadak/relational-query-languages-4854)
 <!-- BLOG-POST-LIST:END -->
 
