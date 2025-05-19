@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the &lt; 1-second Voice Loop: What We Learned After 30+ Stack Benchmarks](https://dev.to/cloudx/cracking-the-1-second-voice-loop-what-we-learned-after-30-stack-benchmarks-427)
-- [Voice-Controlled Access: Securing Doors and Gates with IoT Assistants](https://dev.to/karen_londres/voice-controlled-access-securing-doors-and-gates-with-iot-assistants-30l7)
-- [🪄 The magic you are looking for is in the work you are avoiding! Let that sink in... 😎 Have an amazing start of the week! 💯🤝 #mondaymotivation #growthmindset #keeplearning #webdevelopment](https://dev.to/wahabshah23/the-magic-you-are-looking-for-is-in-the-work-you-are-avoiding-let-that-sink-in-have-an-l83)
-- [what commits should represent....](https://dev.to/gnrlbzik/what-commits-should-represent-d03)
+- [How to connect Powerbeats Pro 1 with Ubuntu 24.04.1 LTS &lpar;UPDATE&rpar;](https://dev.to/justplegend/how-to-connect-powerbeats-pro-1-with-ubuntu-24041-lts-update-3jjh)
+- [Monorepo Dependency Chaos: Proven Hacks to Keep Your Codebase Sane &lpar;and Your Team Happy&rpar; 💥](https://dev.to/alex_aslam/monorepo-dependency-chaos-proven-hacks-to-keep-your-codebase-sane-and-your-team-happy-1957)
+- [Breaking the Waterfall: Using Azure DevOps Boards for Agile AWS Infrastructure Delivery](https://dev.to/aws-builders/breaking-the-waterfall-using-azure-devops-boards-for-agile-aws-infrastructure-delivery-274j)
+- [Nextgen-mft: Secure, AI-powered Managed File Transfer &lpar;SFTP/HTTPS + Crypto + Anomaly Detection&rpar;](https://dev.to/raghavachellu/nextgen-mft-secure-ai-powered-managed-file-transfer-sftphttps-crypto-anomaly-detection-1fm8)
 <!-- BLOG-POST-LIST:END -->
 
