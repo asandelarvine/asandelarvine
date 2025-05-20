@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Remote MCP Server on Contextum &lpar;Without Auth&rpar;](https://dev.to/contextumai/building-a-remote-mcp-server-on-contextum-without-auth-4mdm)
-- [File Transfers Slowing You Down? Try rsync now!](https://dev.to/zujaj/file-transfers-slowing-you-down-try-rsync-now-1608)
-- [Another security patch. Another missed opportunity.](https://dev.to/tidefoundation/another-security-patch-another-missed-opportunity-4p68)
-- [Uniface for Beginners: How to Properly Define Numeric Parameters](https://dev.to/mi2824/uniface-for-beginners-how-to-properly-define-numeric-parameters-509h)
+- [When AI Models Gossip: What One Model Thinks About Another](https://dev.to/santoshi_kumari_c34ae877b/when-ai-models-gossip-what-one-model-thinks-about-another-2k7l)
+- [Computer Networks: A Beginner’s Guide to the Internet’s Hidden Magic](https://dev.to/aniruddhaadak_/computer-networks-a-beginners-guide-to-the-internets-hidden-magic-2efi)
+- [Getting Started with Ledger Live at ledger.com/start](https://dev.to/ledgerstartlive/getting-started-with-ledger-live-at-ledgercomstart-3h8l)
+- [About YashanDB](https://dev.to/yashandb/about-yashandb-566g)
 <!-- BLOG-POST-LIST:END -->
 
