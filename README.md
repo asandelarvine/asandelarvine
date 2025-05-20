@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an AI-Powered Login Form in a React Native App &lpar;2025 Edition](https://dev.to/aneeqakhan/creating-an-ai-powered-login-form-in-a-react-native-app-2025-edition-fec)
-- [How I Save 10 Hours a Week with Node.js Automation Scripts](https://dev.to/skander_benali_3dadffbb0/how-i-save-10-hours-a-week-with-nodejs-automation-scripts-5gca)
-- [Taking PWAs Beyond the Basics with Capacitor.js: Build Truly Native-Like Apps Using Web Tech](https://dev.to/kioumars_rahimi/taking-pwas-beyond-the-basics-with-capacitorjs-build-truly-native-like-apps-using-web-tech-2ooo)
-- [Clockwork Conquest Begins: My First Canon Mini-Game Is Live!](https://dev.to/tonikaren2632_5548d75857a/clockwork-conquest-begins-my-first-canon-mini-game-is-live-45g0)
+- [Liskov Substitution Principle: Inheritance That Looks Right But Breaks Everything](https://dev.to/gabrielle_eduarda_776996b/liskov-substitution-principle-inheritance-that-looks-right-but-breaks-everything-19ei)
+- [How to Implement JWT Authentication in Django REST Framework &lpar;Without the Headache&rpar;](https://dev.to/adham_emam/how-to-implement-jwt-authentication-in-django-rest-framework-without-the-headache-2iff)
+- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
+- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
 <!-- BLOG-POST-LIST:END -->
 
