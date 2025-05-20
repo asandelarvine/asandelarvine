@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hideo Kojima Leaves USB Stick of Game Ideas for Posthumous Projects](https://dev.to/gg_news/hideo-kojima-leaves-usb-stick-of-game-ideas-for-posthumous-projects-1720)
-- [Unlike Cyberpunk 2077, &quot;Cyberpunk 2&quot; Uses Procedural Generation](https://dev.to/gg_news/unlike-cyberpunk-2077-cyberpunk-2-uses-procedural-generation-1272)
-- [Nintendo apologizes and admits Switch 2 won’t support VRR in docked mode despite earlier claims](https://dev.to/gg_news/nintendo-apologizes-and-admits-switch-2-wont-support-vrr-in-docked-mode-despite-earlier-claims-2e8o)
-- [SAG-AFTRA has filed an unfair labor practice charge against Epic Games for its use of A.I. for Darth Vader’s voice in Fortnite](https://dev.to/gg_news/sag-aftra-has-filed-an-unfair-labor-practice-charge-against-epic-games-for-its-use-of-ai-for-7gn)
+- [Creating an AI-Powered Login Form in a React Native App &lpar;2025 Edition](https://dev.to/aneeqakhan/creating-an-ai-powered-login-form-in-a-react-native-app-2025-edition-fec)
+- [How I Save 10 Hours a Week with Node.js Automation Scripts](https://dev.to/skander_benali_3dadffbb0/how-i-save-10-hours-a-week-with-nodejs-automation-scripts-5gca)
+- [Taking PWAs Beyond the Basics with Capacitor.js: Build Truly Native-Like Apps Using Web Tech](https://dev.to/kioumars_rahimi/taking-pwas-beyond-the-basics-with-capacitorjs-build-truly-native-like-apps-using-web-tech-2ooo)
+- [Clockwork Conquest Begins: My First Canon Mini-Game Is Live!](https://dev.to/tonikaren2632_5548d75857a/clockwork-conquest-begins-my-first-canon-mini-game-is-live-45g0)
 <!-- BLOG-POST-LIST:END -->
 
