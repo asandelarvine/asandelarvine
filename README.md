@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Number Guessing Game in Java](https://dev.to/ramya_kamalasekaran/number-guessing-game-in-java-4ngj)
-- [Building Your First Real Time Chat Connection with Python and WebSockets](https://dev.to/hexshift/building-your-first-real-time-chat-connection-with-python-and-websockets-4696)
-- [Mastering Real-Time Chat: Introduction to Building Live Messaging Apps](https://dev.to/hexshift/mastering-real-time-chat-introduction-to-building-live-messaging-apps-36ij)
-- [Delivered a Production-Level Streaming App for a Client in Early 2024](https://dev.to/abdul_wahab_fe886de9acd8a/delivered-a-production-level-streaming-app-for-a-client-in-early-2024-2ji)
+- [From Zero to Cloud: Building Your First Java Web App on AWS with VS Code](https://dev.to/adesola_kehinde/from-zero-to-cloud-building-your-first-java-web-app-on-aws-with-vs-code-1j3m)
+- [lefthook.yml in n8n codebase.](https://dev.to/ramunarasinga-11/lefthookyml-in-n8n-codebase-5f4c)
+- [Creating a MIDI Sound Module with Raspberry Pi and FluidSynth](https://dev.to/jereme/creating-a-midi-sound-module-with-raspberry-pi-and-fluidsynth-1gkk)
+- [AI Makin Pinter, Makin Meresap!](https://dev.to/koala_educationandtechnology/ai-makin-pinter-makin-meresap-57ca)
 <!-- BLOG-POST-LIST:END -->
 
