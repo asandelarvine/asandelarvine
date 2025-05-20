@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When I Was Rejected as a Junior, I Built a SaaS in 27 Days](https://dev.to/email-forge/when-i-was-rejected-as-a-junior-i-built-a-saas-in-27-days-3nbb)
-- [How to upgrade n8n uses Docker on DigitalOcean](https://dev.to/andywahyudi/how-to-upgrade-n8n-uses-docker-on-digitalocean-1jn1)
-- [Detecting SSH Brute Force Attacks with Python: Building a Simple Monitor](https://dev.to/hexshift/detecting-ssh-brute-force-attacks-with-python-building-a-simple-monitor-3mon)
-- [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
+- [Number Guessing Game in Java](https://dev.to/ramya_kamalasekaran/number-guessing-game-in-java-4ngj)
+- [Building Your First Real Time Chat Connection with Python and WebSockets](https://dev.to/hexshift/building-your-first-real-time-chat-connection-with-python-and-websockets-4696)
+- [Mastering Real-Time Chat: Introduction to Building Live Messaging Apps](https://dev.to/hexshift/mastering-real-time-chat-introduction-to-building-live-messaging-apps-36ij)
+- [Delivered a Production-Level Streaming App for a Client in Early 2024](https://dev.to/abdul_wahab_fe886de9acd8a/delivered-a-production-level-streaming-app-for-a-client-in-early-2024-2ji)
 <!-- BLOG-POST-LIST:END -->
 
