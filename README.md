@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Free AI Tool That Converts Any Video to Subtitles, Transcripts &amp; Summaries](https://dev.to/ankurclub/how-i-built-a-free-ai-tool-that-converts-any-video-to-subtitles-transcripts-summaries-316j)
-- [Ethereum Developers Propose EIP-7523 to Reduce Gas Fees and Improve Scalability](https://dev.to/theblockverse/ethereum-developers-propose-eip-7523-to-reduce-gas-fees-and-improve-scalability-3ppa)
-- [React Native para Iniciantes: Do Zero ao Seu Primeiro App Multiplataforma &lpar;Sem Complicações!&rpar;](https://dev.to/albericojr/react-native-para-iniciantes-do-zero-ao-seu-primeiro-app-multiplataforma-sem-complicacoes-3clp)
-- [When Swagger Lies: Fixing API Drift Before It Breaks You](https://dev.to/copyleftdev/title-when-swagger-lies-fixing-api-drift-before-it-breaks-you-ijo)
+- [Istio vs. Linkerd Comparison](https://dev.to/haroon_khan_12facf02d4b10/istio-vs-linkerd-comparison-2n8l)
+- [Automated Financial Document Analysis System](https://dev.to/devnet/automated-financial-document-analysis-system-5pb)
+- [Cloud Computing Careers: Pathways and Required Skills](https://dev.to/solamalai_college/cloud-computing-careers-pathways-and-required-skills-2889)
+- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
 <!-- BLOG-POST-LIST:END -->
 
