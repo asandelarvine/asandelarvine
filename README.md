@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema Markup SEO: Hidden HTML Code That Doubles Your Search Traffic](https://dev.to/reubenoyeyele/schema-markup-seo-hidden-html-code-that-doubles-your-search-traffic-2e2e)
-- [Android TV App: Search Overlay Not Disappearing Properly](https://dev.to/ramses-eloy/android-tv-app-search-overlay-not-disappearing-properly-1cbm)
-- [Day 9: The Mysterious World of Pipes and Redirection in RHEL 9](https://dev.to/higgs182092/day-9-the-mysterious-world-of-pipes-and-redirection-in-rhel-9-2fea)
-- [You Don&#39;t Need Your Own Backend to Call LLM from Front End](https://dev.to/b4rtaz/you-dont-need-your-own-backend-to-call-llm-from-front-end-1jpb)
+- [Hideo Kojima Leaves USB Stick of Game Ideas for Posthumous Projects](https://dev.to/gg_news/hideo-kojima-leaves-usb-stick-of-game-ideas-for-posthumous-projects-1720)
+- [Unlike Cyberpunk 2077, &quot;Cyberpunk 2&quot; Uses Procedural Generation](https://dev.to/gg_news/unlike-cyberpunk-2077-cyberpunk-2-uses-procedural-generation-1272)
+- [Nintendo apologizes and admits Switch 2 won’t support VRR in docked mode despite earlier claims](https://dev.to/gg_news/nintendo-apologizes-and-admits-switch-2-wont-support-vrr-in-docked-mode-despite-earlier-claims-2e8o)
+- [SAG-AFTRA has filed an unfair labor practice charge against Epic Games for its use of A.I. for Darth Vader’s voice in Fortnite](https://dev.to/gg_news/sag-aftra-has-filed-an-unfair-labor-practice-charge-against-epic-games-for-its-use-of-ai-for-7gn)
 <!-- BLOG-POST-LIST:END -->
 
