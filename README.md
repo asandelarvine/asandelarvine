@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Models Gossip: What One Model Thinks About Another](https://dev.to/santoshi_kumari_c34ae877b/when-ai-models-gossip-what-one-model-thinks-about-another-2k7l)
-- [Computer Networks: A Beginner’s Guide to the Internet’s Hidden Magic](https://dev.to/aniruddhaadak_/computer-networks-a-beginners-guide-to-the-internets-hidden-magic-2efi)
-- [Getting Started with Ledger Live at ledger.com/start](https://dev.to/ledgerstartlive/getting-started-with-ledger-live-at-ledgercomstart-3h8l)
-- [About YashanDB](https://dev.to/yashandb/about-yashandb-566g)
+- [What&#39;s New 🆕🤯 in PostgreSQL 18 🐘 - a DBA&#39;s Perspective](https://dev.to/bytebase/whats-new-in-postgresql-18-a-dbas-perspective-2bp6)
+- [Introducing FEAScript](https://dev.to/nikoscham/introducing-feascript-6ma)
+- [Let’s review some code: C++ #2](https://dev.to/pikotutorial/lets-review-some-code-c-2-39ad)
+- [Cara Mengunduh dan Menginstal Postman di Mac, Windows, Linux](https://dev.to/miki-dev/cara-mengunduh-dan-menginstal-postman-di-mac-windows-linux-1cmp)
 <!-- BLOG-POST-LIST:END -->
 
