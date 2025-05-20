@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio vs. Linkerd Comparison](https://dev.to/haroon_khan_12facf02d4b10/istio-vs-linkerd-comparison-2n8l)
-- [Automated Financial Document Analysis System](https://dev.to/devnet/automated-financial-document-analysis-system-5pb)
-- [Cloud Computing Careers: Pathways and Required Skills](https://dev.to/solamalai_college/cloud-computing-careers-pathways-and-required-skills-2889)
-- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
+- [Claude Pro vs Claude Max : Pricing, Features &amp; Ideal Use Cases](https://dev.to/_37bbf0c253c0b3edec531e/claude-pro-vs-claude-max-pricing-features-ideal-use-cases-4plk)
+- [IoT monitoring with Kafka and Tinybird](https://dev.to/tinybirdco/iot-monitoring-with-kafka-and-tinybird-39gk)
+- [Will Your AI Generated App Break in Production? 3 Ways to Test It](https://dev.to/benwilkins/will-your-ai-generated-app-break-in-production-3-ways-to-test-it-4il6)
+- [SSDLC – Implementação](https://dev.to/raysh_/ssdlc-implementacao-2mae)
 <!-- BLOG-POST-LIST:END -->
 
