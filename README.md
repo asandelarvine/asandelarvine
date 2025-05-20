@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Mapping Records to Users in Django Rest Framework &lpar;DRF&rpar;](https://dev.to/ebereplenty/mapping-records-to-users-in-django-rest-framework-drf-36h0)
-- [Meet rys — The Fastest Way to Build Debian Packages from Your Project](https://dev.to/zyntraxis_c908fa8b32e04cb/meet-rys-the-fastest-way-to-build-debian-packages-from-your-project-59hl)
-- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
-- [I Learned More From GitHub Issues Than Stack Overflow](https://dev.to/abubaker_siddique_513b7e2/i-learned-more-from-github-issues-than-stack-overflow-kpb)
+- [Schema Markup SEO: Hidden HTML Code That Doubles Your Search Traffic](https://dev.to/reubenoyeyele/schema-markup-seo-hidden-html-code-that-doubles-your-search-traffic-2e2e)
+- [Android TV App: Search Overlay Not Disappearing Properly](https://dev.to/ramses-eloy/android-tv-app-search-overlay-not-disappearing-properly-1cbm)
+- [Day 9: The Mysterious World of Pipes and Redirection in RHEL 9](https://dev.to/higgs182092/day-9-the-mysterious-world-of-pipes-and-redirection-in-rhel-9-2fea)
+- [You Don&#39;t Need Your Own Backend to Call LLM from Front End](https://dev.to/b4rtaz/you-dont-need-your-own-backend-to-call-llm-from-front-end-1jpb)
 <!-- BLOG-POST-LIST:END -->
 
