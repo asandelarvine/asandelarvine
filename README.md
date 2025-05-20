@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Default Article Title](https://dev.to/haroon_khan_12facf02d4b10/default-article-title-4jin)
-- [💡 Strict with your code, flexible with the world.](https://dev.to/devunionx/strict-with-your-code-flexible-with-the-world-1jij)
-- [Extracting Data from an API using Python &lpar;requests&rpar;](https://dev.to/kiprotichterer/extracting-data-from-an-api-using-python-requests-4h5)
-- [AI Isn’t a Shortcut. It’s a Mirror.](https://dev.to/hobaaaa/ai-isnt-a-shortcut-its-a-mirror-25bj)
+- [GSAP ScrollTrigger DrawSVG](https://dev.to/preetha_vaishnavi_2b82358/gsap-scrolltrigger-drawsvg-2oa2)
+- [7-Segments clock](https://dev.to/preetha_vaishnavi_2b82358/7-segments-clock-1ia1)
+- [Monorepo Lockfiles: The Secret Weapon to Crush Dependency Drift Forever 🔒](https://dev.to/alex_aslam/monorepo-lockfiles-the-secret-weapon-to-crush-dependency-drift-forever-4ac)
+- [Survey - CSS display and positioning](https://dev.to/preetha_vaishnavi_2b82358/survey-css-display-and-positioning-kjp)
 <!-- BLOG-POST-LIST:END -->
 
