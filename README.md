@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GSAP ScrollTrigger DrawSVG](https://dev.to/preetha_vaishnavi_2b82358/gsap-scrolltrigger-drawsvg-2oa2)
-- [7-Segments clock](https://dev.to/preetha_vaishnavi_2b82358/7-segments-clock-1ia1)
-- [Monorepo Lockfiles: The Secret Weapon to Crush Dependency Drift Forever 🔒](https://dev.to/alex_aslam/monorepo-lockfiles-the-secret-weapon-to-crush-dependency-drift-forever-4ac)
-- [Survey - CSS display and positioning](https://dev.to/preetha_vaishnavi_2b82358/survey-css-display-and-positioning-kjp)
+- [JavaScript&#39;s Building Blocks: A Beginner&#39;s Guide to Data Types](https://dev.to/arun_km_29412b29674318e61/javascripts-building-blocks-a-beginners-guide-to-data-types-52c)
+- [Looking for an experienced PHP Dev. Start immediately, Long-Term hire. Serious Inquiries only. #php #laravel](https://dev.to/blen_joseph_7627d9269440b/looking-for-an-experienced-php-dev-start-immediately-long-term-hire-serious-inquiries-only-10ib)
+- [History Java](https://dev.to/icelink/history-java-11gf)
+- [True Vibe Coding in 2025: Hype, Reality, and Practical Applications of AI Coding Tools](https://dev.to/webviziodotcom/true-vibe-coding-in-2025-hype-reality-and-practical-applications-of-ai-coding-tools-595n)
 <!-- BLOG-POST-LIST:END -->
 
