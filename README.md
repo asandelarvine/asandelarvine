@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Pro vs Claude Max : Pricing, Features &amp; Ideal Use Cases](https://dev.to/_37bbf0c253c0b3edec531e/claude-pro-vs-claude-max-pricing-features-ideal-use-cases-4plk)
-- [IoT monitoring with Kafka and Tinybird](https://dev.to/tinybirdco/iot-monitoring-with-kafka-and-tinybird-39gk)
-- [Will Your AI Generated App Break in Production? 3 Ways to Test It](https://dev.to/benwilkins/will-your-ai-generated-app-break-in-production-3-ways-to-test-it-4il6)
-- [SSDLC – Implementação](https://dev.to/raysh_/ssdlc-implementacao-2mae)
+- [Default Article Title](https://dev.to/haroon_khan_12facf02d4b10/default-article-title-4jin)
+- [💡 Strict with your code, flexible with the world.](https://dev.to/devunionx/strict-with-your-code-flexible-with-the-world-1jij)
+- [Extracting Data from an API using Python &lpar;requests&rpar;](https://dev.to/kiprotichterer/extracting-data-from-an-api-using-python-requests-4h5)
+- [AI Isn’t a Shortcut. It’s a Mirror.](https://dev.to/hobaaaa/ai-isnt-a-shortcut-its-a-mirror-25bj)
 <!-- BLOG-POST-LIST:END -->
 
