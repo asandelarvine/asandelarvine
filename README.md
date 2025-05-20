@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize ASP.NET Core Identity With EF Core for Your Project Needs](https://dev.to/antonmartyniuk/how-to-customize-aspnet-core-identity-with-ef-core-for-your-project-needs-3nlf)
-- [Why your terminal is boring and what to use instead](https://dev.to/devlinktips/why-your-terminal-is-boring-and-what-to-use-instead-26f)
-- [Simple Gas Optimization Techniques Every Ethereum Developer Should Know](https://dev.to/dhis_is_jj/simple-gas-optimization-techniques-every-ethereum-developer-should-know-2ei4)
-- [🚀 Meet ApolloAgent: The Code Assistant I Built So I’d Stop Talking to Myself](https://dev.to/albz/meet-apolloagent-the-code-assistant-i-built-so-id-stop-talking-to-myself-4fp4)
+- [🚀 Automate iOS Builds and Uploads to TestFlight Using Fastlane](https://dev.to/amitkumar13/automate-ios-builds-and-uploads-to-testflight-using-fastlane-jp)
+- [Comprehensive API Security Testing Services: Protect Your Business from Cyber Threats](https://dev.to/strongbox/comprehensive-api-security-testing-services-protect-your-business-from-cyber-threats-2ode)
+- [Day 9/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-9200-full-stack-5616)
+- [Predicting Diabetes with AI: A Neural Network Approach for Better Health Outcomes](https://dev.to/perctapera/predicting-diabetes-with-ai-a-neural-network-approach-for-better-health-outcomes-366n)
 <!-- BLOG-POST-LIST:END -->
 
