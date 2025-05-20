@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript&#39;s Building Blocks: A Beginner&#39;s Guide to Data Types](https://dev.to/arun_km_29412b29674318e61/javascripts-building-blocks-a-beginners-guide-to-data-types-52c)
-- [Looking for an experienced PHP Dev. Start immediately, Long-Term hire. Serious Inquiries only. #php #laravel](https://dev.to/blen_joseph_7627d9269440b/looking-for-an-experienced-php-dev-start-immediately-long-term-hire-serious-inquiries-only-10ib)
-- [History Java](https://dev.to/icelink/history-java-11gf)
-- [True Vibe Coding in 2025: Hype, Reality, and Practical Applications of AI Coding Tools](https://dev.to/webviziodotcom/true-vibe-coding-in-2025-hype-reality-and-practical-applications-of-ai-coding-tools-595n)
+- [🔐 Mapping Records to Users in Django Rest Framework &lpar;DRF&rpar;](https://dev.to/ebereplenty/mapping-records-to-users-in-django-rest-framework-drf-36h0)
+- [Meet rys — The Fastest Way to Build Debian Packages from Your Project](https://dev.to/zyntraxis_c908fa8b32e04cb/meet-rys-the-fastest-way-to-build-debian-packages-from-your-project-59hl)
+- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
+- [I Learned More From GitHub Issues Than Stack Overflow](https://dev.to/abubaker_siddique_513b7e2/i-learned-more-from-github-issues-than-stack-overflow-kpb)
 <!-- BLOG-POST-LIST:END -->
 
