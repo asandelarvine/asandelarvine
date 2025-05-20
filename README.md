@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Automate iOS Builds and Uploads to TestFlight Using Fastlane](https://dev.to/amitkumar13/automate-ios-builds-and-uploads-to-testflight-using-fastlane-jp)
-- [Comprehensive API Security Testing Services: Protect Your Business from Cyber Threats](https://dev.to/strongbox/comprehensive-api-security-testing-services-protect-your-business-from-cyber-threats-2ode)
-- [Day 9/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-9200-full-stack-5616)
-- [Predicting Diabetes with AI: A Neural Network Approach for Better Health Outcomes](https://dev.to/perctapera/predicting-diabetes-with-ai-a-neural-network-approach-for-better-health-outcomes-366n)
+- [How I Built a Free AI Tool That Converts Any Video to Subtitles, Transcripts &amp; Summaries](https://dev.to/ankurclub/how-i-built-a-free-ai-tool-that-converts-any-video-to-subtitles-transcripts-summaries-316j)
+- [Ethereum Developers Propose EIP-7523 to Reduce Gas Fees and Improve Scalability](https://dev.to/theblockverse/ethereum-developers-propose-eip-7523-to-reduce-gas-fees-and-improve-scalability-3ppa)
+- [React Native para Iniciantes: Do Zero ao Seu Primeiro App Multiplataforma &lpar;Sem Complicações!&rpar;](https://dev.to/albericojr/react-native-para-iniciantes-do-zero-ao-seu-primeiro-app-multiplataforma-sem-complicacoes-3clp)
+- [When Swagger Lies: Fixing API Drift Before It Breaks You](https://dev.to/copyleftdev/title-when-swagger-lies-fixing-api-drift-before-it-breaks-you-ijo)
 <!-- BLOG-POST-LIST:END -->
 
