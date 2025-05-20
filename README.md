@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Cloud: Building Your First Java Web App on AWS with VS Code](https://dev.to/adesola_kehinde/from-zero-to-cloud-building-your-first-java-web-app-on-aws-with-vs-code-1j3m)
-- [lefthook.yml in n8n codebase.](https://dev.to/ramunarasinga-11/lefthookyml-in-n8n-codebase-5f4c)
-- [Creating a MIDI Sound Module with Raspberry Pi and FluidSynth](https://dev.to/jereme/creating-a-midi-sound-module-with-raspberry-pi-and-fluidsynth-1gkk)
-- [AI Makin Pinter, Makin Meresap!](https://dev.to/koala_educationandtechnology/ai-makin-pinter-makin-meresap-57ca)
+- [Beware the Evil Twin: Exploring Wi-Fi Impersonation Attacks](https://dev.to/tanyonghe/beware-the-evil-twin-exploring-wi-fi-impersonation-attacks-4chd)
+- [How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/naik_sejal/how-a-5-minute-habit-can-10x-your-weekly-output-5gdk)
+- [How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/pranesh_patel/how-a-5-minute-habit-can-10x-your-weekly-output-3613)
+- [Daily Logs for Devs: How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/teamcamp/daily-logs-for-devs-how-a-5-minute-habit-can-10x-your-weekly-output-4peb)
 <!-- BLOG-POST-LIST:END -->
 
