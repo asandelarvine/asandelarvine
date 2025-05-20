@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New 🆕🤯 in PostgreSQL 18 🐘 - a DBA&#39;s Perspective](https://dev.to/bytebase/whats-new-in-postgresql-18-a-dbas-perspective-2bp6)
-- [Introducing FEAScript](https://dev.to/nikoscham/introducing-feascript-6ma)
-- [Let’s review some code: C++ #2](https://dev.to/pikotutorial/lets-review-some-code-c-2-39ad)
-- [Cara Mengunduh dan Menginstal Postman di Mac, Windows, Linux](https://dev.to/miki-dev/cara-mengunduh-dan-menginstal-postman-di-mac-windows-linux-1cmp)
+- [How We Used Lovable + Cursor + Momen to Build Our Social Metrics Tool](https://dev.to/momen_hq/how-we-used-lovable-cursor-momen-to-build-our-social-metrics-tool-4g40)
+- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;6&rpar;: Deploy to Google Cloud](https://dev.to/jnth/google-agent-development-kit-adk-introduction-5-deploy-to-google-cloud-1nnb)
+- [Next.js 15 + Shadcn UI + Custom Clerk Auth: The Dev-Friendly Starter You’ve Been Waiting For](https://dev.to/ayoub_fedil/nextjs-15-shadcn-ui-custom-clerk-auth-the-dev-friendly-starter-youve-been-waiting-for-4f3o)
+- [How the Richest in Crypto Think](https://dev.to/martin_call/how-the-richest-in-crypto-think-o1d)
 <!-- BLOG-POST-LIST:END -->
 
