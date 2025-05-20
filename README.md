@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Used Lovable + Cursor + Momen to Build Our Social Metrics Tool](https://dev.to/momen_hq/how-we-used-lovable-cursor-momen-to-build-our-social-metrics-tool-4g40)
-- [Google Agent Development Kit &lpar;ADK&rpar; Introduction &lpar;6&rpar;: Deploy to Google Cloud](https://dev.to/jnth/google-agent-development-kit-adk-introduction-5-deploy-to-google-cloud-1nnb)
-- [Next.js 15 + Shadcn UI + Custom Clerk Auth: The Dev-Friendly Starter You’ve Been Waiting For](https://dev.to/ayoub_fedil/nextjs-15-shadcn-ui-custom-clerk-auth-the-dev-friendly-starter-youve-been-waiting-for-4f3o)
-- [How the Richest in Crypto Think](https://dev.to/martin_call/how-the-richest-in-crypto-think-o1d)
+- [How Generative Models Are Writing the Next Git Commit Before You Even Code](https://dev.to/santoshi_kumari_c34ae877b/how-generative-models-are-writing-the-next-git-commit-before-you-even-code-321k)
+- [When I Fed 20,000 Words into an AI Prompt... It Gained a Personality: Part 3 – Behind the Scenes of Building It](https://dev.to/creator_haru/when-i-fed-20000-words-into-an-ai-prompt-it-gained-a-personality-part-3-behind-the-scenes-of-4l0g)
+- [When I Fed 20,000 Words into an AI Prompt... It Gained a Personality: Part 2 – Prompt Design Deep Dive](https://dev.to/creator_haru/when-i-fed-20000-words-into-an-ai-prompt-it-gained-a-personality-part-2-prompt-design-deep-3ib4)
+- [When I Fed 20,000 Words into an AI Prompt... It Gained a Personality: Part 1 – Overview](https://dev.to/creator_haru/when-i-fed-20000-words-into-an-ai-prompt-it-gained-a-personality-part-1-overview-3do4)
 <!-- BLOG-POST-LIST:END -->
 
