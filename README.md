@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beware the Evil Twin: Exploring Wi-Fi Impersonation Attacks](https://dev.to/tanyonghe/beware-the-evil-twin-exploring-wi-fi-impersonation-attacks-4chd)
-- [How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/naik_sejal/how-a-5-minute-habit-can-10x-your-weekly-output-5gdk)
-- [How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/pranesh_patel/how-a-5-minute-habit-can-10x-your-weekly-output-3613)
-- [Daily Logs for Devs: How a 5-Minute Habit Can 10x Your Weekly Output](https://dev.to/teamcamp/daily-logs-for-devs-how-a-5-minute-habit-can-10x-your-weekly-output-4peb)
+- [Building a Remote MCP Server on Contextum &lpar;Without Auth&rpar;](https://dev.to/contextumai/building-a-remote-mcp-server-on-contextum-without-auth-4mdm)
+- [File Transfers Slowing You Down? Try rsync now!](https://dev.to/zujaj/file-transfers-slowing-you-down-try-rsync-now-1608)
+- [Another security patch. Another missed opportunity.](https://dev.to/tidefoundation/another-security-patch-another-missed-opportunity-4p68)
+- [Uniface for Beginners: How to Properly Define Numeric Parameters](https://dev.to/mi2824/uniface-for-beginners-how-to-properly-define-numeric-parameters-509h)
 <!-- BLOG-POST-LIST:END -->
 
