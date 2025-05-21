@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploy Static Website from S3 to Multiple Buckets using AWS CodePipeline](https://dev.to/latchudevops/deploy-static-website-from-s3-to-multiple-buckets-using-aws-codepipeline-4140)
-- [🔌 Demystifying ARPANET: The Spark Before the Web](https://dev.to/entangledcognition/demystifying-arpanet-the-spark-before-the-web-4ci)
-- [Post-App Era? Why More Brands Are Betting on Web Apps Over Native App](https://dev.to/dct_technology/post-app-era-why-more-brands-are-betting-on-web-apps-over-native-app-1cd2)
-- [Game Creation via AWS Q CLI](https://dev.to/aws-builders/game-creation-via-aws-q-cli-55b9)
+- [Google I/O Keynote 2025 Summary: Gemini Deep Think, Search AI Mode, Android XR, Jules](https://dev.to/justdetermined/google-io-keynote-2025-summary-gemini-deep-think-search-ai-mode-android-xr-jules-3g1b)
+- [Deploy a Docker App to Coolify in 5 Minutes](https://dev.to/lucasnevespereira/deploy-a-docker-app-to-coolify-in-5-minutes-5a6n)
+- [Blockchain Beginner guide](https://dev.to/entangledcognition/blockchain-beginner-guide-4m3o)
+- [Virtual DOM &amp; what is its role in React?](https://dev.to/dessomu/virtual-dom-what-is-its-role-in-react-dh9)
 <!-- BLOG-POST-LIST:END -->
 
