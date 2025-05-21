@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Centralizing Your API Calls with Axios: TypeScript Example](https://dev.to/jionnlol/centralizing-your-api-calls-with-axios-typescript-example-an8)
-- [Building GameHub Platform: A Steam-like Ecosystem for Students with AWS Cloud](https://dev.to/aws-builders/building-gamehub-platform-a-steam-like-ecosystem-for-students-with-aws-cloud-3mi5)
-- [Sleeping while Selling: How I Automated My FunPay Store with a Python Bot &lpar;and You Can Too!&rpar;](https://dev.to/krufuake_78e9b973ac0d6c0a/sleeping-while-selling-how-i-automated-my-funpay-store-with-a-python-bot-and-you-can-too-58el)
-- [How to Design Bath Soap Holder Using 3D CAD Software](https://dev.to/julia970/how-to-design-bath-soap-holder-using-3d-cad-software-1cj8)
+- [Coding Is Thinking: Why I Still Write Code by Hand](https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2)
+- [How to Import CSV Files into SQL Server: Four Reliable Methods](https://dev.to/olenium/how-to-import-csv-files-into-sql-server-four-reliable-methods-44bc)
+- [⚔️ Spring Boot Maven Plugin vs Maven Compiler Plugin — What’s the Difference? When you&#39;re working on a Spring B](https://dev.to/imajenasyon/maven-plugin-vs-springboot-plugin-38j8)
+- [Traits in PHP – a powerful yet underused tool?](https://dev.to/victorprdh/traits-in-php-a-powerful-yet-underused-tool-7k6)
 <!-- BLOG-POST-LIST:END -->
 
