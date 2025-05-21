@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `useReducer` in React: A Step-by-Step Guide for Real-World State Management](https://dev.to/cristiansifuentes/mastering-usereducer-in-react-a-step-by-step-guide-for-real-world-state-management-2le6)
-- [Zyn 2.1.0 Update — Customizable Build Profiles](https://dev.to/zyntraxis_c908fa8b32e04cb/zyn-210-update-customizable-build-profiles-29hl)
-- [Solitude: Not A Flaw But A Choice](https://dev.to/phoebe_smith/solitude-not-a-flaw-but-a-choice-1ok8)
-- [Open Source Call: Help build a life-saving AI-powered skin cancer app 👋 Hi everyone, I&#39;m Dr. Fadi Alakrami, a physician building an open-source project to help people detect early signs of melanoma, BCC, and SCC – using only their phone, AI, and camera –](https://dev.to/fadi_alakrami_e4786e4a130/open-source-call-help-build-a-life-saving-ai-powered-skin-cancer-app-hi-everyone-im-dr-4gdm)
+- [Daily Quantum Learning #13 — Josephson Junctions](https://dev.to/quantumashx/daily-quantum-learning-13-josephson-junctions-21e4)
+- [Leveraging Decorators for Aspect-Oriented Programming in JS](https://dev.to/omriluz1/leveraging-decorators-for-aspect-oriented-programming-in-js-2kh3)
+- [Understand Organizational Politics, Conflict Management, and Organizational Design](https://dev.to/aniruddhaadak_/understand-organizational-politics-conflict-management-and-organizational-design-e4l)
+- [OpenAI Makes Bold Hardware Move with $6.5B Acquisition of Jony Ive&#39;s AI Startup](https://dev.to/emilyarya/openai-makes-bold-hardware-move-with-65b-acquisition-of-jony-ives-ai-startup-4070)
 <!-- BLOG-POST-LIST:END -->
 
