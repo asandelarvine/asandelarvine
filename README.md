@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building 8-Bit Computer From Scratch](https://dev.to/sysreverse/building-8-bit-computer-from-scratch-21ld)
-- [Free Font Changer Tool for Stylish Text – Perfect for Developers &amp; Creators](https://dev.to/money33/free-font-changer-tool-for-stylish-text-perfect-for-developers-creators-5cl1)
-- [🧭 Navigating the Modern Software Industry: What Every Developer Should Know](https://dev.to/infoinlet/navigating-the-modern-software-industry-what-every-developer-should-know-1m0f)
-- [Restricting Container Capabilities: Reducing the Kernel Attack Surface in Docker](https://dev.to/hexshift/restricting-container-capabilities-reducing-the-kernel-attack-surface-in-docker-5952)
+- [How to Share Your Local Next.js App Online Using Pinggy](https://dev.to/lightningdev123/how-to-share-your-local-nextjs-app-online-using-pinggy-55m8)
+- [Deploying Code on a Friday: A Nightmare Story](https://dev.to/velvosoft/deploying-code-on-a-friday-a-nightmare-story-n36)
+- [What is LLaMA Factory? LLM Fine-Tuning](https://dev.to/voltagent/what-is-llama-factory-llm-fine-tuning-1d23)
+- [The One Thing Nobody Tells You About Learning to Code](https://dev.to/joshlawson100/the-one-thing-nobody-tells-you-about-learning-to-code-447j)
 <!-- BLOG-POST-LIST:END -->
 
