@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Day 6 - Mini Project – Custom Button Styler](https://dev.to/krishna_chd/day-6-mini-project-custom-button-styler-3n4j)
-- [👀 👀](https://dev.to/maxprilutskiy/-5hk)
-- [PWC 322 String Format](https://dev.to/boblied/pwc-322-string-format-33pd)
-- [HTML5 Elements You Didn&#39;t Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan)
+- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
+- [Introducing the New InsureBC Victoria Website](https://dev.to/jovan_sihota/introducing-the-new-victoria-website-3i6a)
+- [Ускоряем Elixir: интеграция с нативным кодом &lpar;NIF, Ports и др.&rpar;](https://dev.to/adamanq/uskoriaiem-elixir-intieghratsiia-s-nativnym-kodom-nif-ports-i-dr-17kk)
+- [Retrieval Technique Series-2.How to Index Massive Disk Data Using B+ Trees](https://dev.to/yaruyng/retrieval-technique-series-2how-to-index-massive-disk-data-using-b-trees-4hn0)
 <!-- BLOG-POST-LIST:END -->
 
