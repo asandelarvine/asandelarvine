@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Serverless Architecture for Better Performance](https://dev.to/simpl-olivia/optimizing-serverless-architecture-for-better-performance-56oi)
-- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
-- [Garbage Collection in Java: A Simple Explanation](https://dev.to/kmartita/garbage-collection-in-java-simply-explained-5fif)
-- [Weather App](https://dev.to/naajihsiraj/weather-app-472a)
+- [Centralizing Your API Calls with Axios: TypeScript Example](https://dev.to/jionnlol/centralizing-your-api-calls-with-axios-typescript-example-an8)
+- [Building GameHub Platform: A Steam-like Ecosystem for Students with AWS Cloud](https://dev.to/aws-builders/building-gamehub-platform-a-steam-like-ecosystem-for-students-with-aws-cloud-3mi5)
+- [Sleeping while Selling: How I Automated My FunPay Store with a Python Bot &lpar;and You Can Too!&rpar;](https://dev.to/krufuake_78e9b973ac0d6c0a/sleeping-while-selling-how-i-automated-my-funpay-store-with-a-python-bot-and-you-can-too-58el)
+- [How to Design Bath Soap Holder Using 3D CAD Software](https://dev.to/julia970/how-to-design-bath-soap-holder-using-3d-cad-software-1cj8)
 <!-- BLOG-POST-LIST:END -->
 
