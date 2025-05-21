@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📈From Zero to DevOps: Week 4 – Building a Strong Foundation in Linux Networking- TCP Working](https://dev.to/vrj_bhvsr/from-zero-to-devops-week-4-building-a-strong-foundation-in-linux-networking-tcp-working-36ia)
-- [Nested ExtJS Form Data](https://dev.to/lminuti/nested-extjs-form-data-jbe)
-- [Project KARL - AI](https://dev.to/theaniketraj/project-karl-ai-3616)
-- [9 Performance Optimization Tips for Windows 11](https://dev.to/best_codes/9-performance-optimization-tips-for-windows-11-2inf)
+- [Building a Multiplayer System in Unreal Engine with Steam &amp; LAN](https://dev.to/winterturtle23/building-a-multiplayer-system-in-unreal-engine-with-steam-lan-3ndc)
+- [Hosting 300+ Websites - A Technical Deep Dive](https://dev.to/stormkit/hosting-300-websites-a-technical-deep-dive-5248)
+- [🛡️ Cybersecurity Roadmap with Certifications &lpar;Beginner Advanced&rpar;](https://dev.to/abhigyan31/cybersecurity-roadmap-with-certifications-beginner-advanced-3khm)
+- [AWS is taking out the trash 🗑️](https://dev.to/skillboosttrainer/aws-is-taking-out-the-trash-3pi2)
 <!-- BLOG-POST-LIST:END -->
 
