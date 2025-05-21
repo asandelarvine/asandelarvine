@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Quantum Learning #13 — Josephson Junctions](https://dev.to/quantumashx/daily-quantum-learning-13-josephson-junctions-21e4)
-- [Leveraging Decorators for Aspect-Oriented Programming in JS](https://dev.to/omriluz1/leveraging-decorators-for-aspect-oriented-programming-in-js-2kh3)
-- [Understand Organizational Politics, Conflict Management, and Organizational Design](https://dev.to/aniruddhaadak_/understand-organizational-politics-conflict-management-and-organizational-design-e4l)
-- [OpenAI Makes Bold Hardware Move with $6.5B Acquisition of Jony Ive&#39;s AI Startup](https://dev.to/emilyarya/openai-makes-bold-hardware-move-with-65b-acquisition-of-jony-ives-ai-startup-4070)
+- [Example of caching Google Translate translation results for a multilingual site on NextJS](https://dev.to/petrtcoi/example-of-caching-google-translate-translation-results-for-a-multilingual-site-on-nextjs-4ana)
+- [🧠 Build a Real-Time Chat App in Laravel Using Reverb + Blade + Alpine.js](https://dev.to/tahsin000/build-a-real-time-chat-app-in-laravel-using-reverb-blade-alpinejs-2d9m)
+- [# 🔗 nodeBond – Local IPC Bridge for Node.js &lpar;no TCP, no dependencies&rpar;](https://dev.to/xzdes/-nodebond-local-ipc-bridge-for-nodejs-no-tcp-no-dependencies-8c9)
+- [Self-Paced Learning Strategies for Today’s Evolving Job Market](https://dev.to/marketdaily/self-paced-learning-strategies-for-todays-evolving-job-market-2nm4)
 <!-- BLOG-POST-LIST:END -->
 
