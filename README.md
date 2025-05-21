@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Maintenance, Safer Operations: The AI Advantage in Industrial Fault Detection:Md.Mahfuzur rahman Enam](https://dev.to/mahfuzur_rahmanenam/smarter-maintenance-safer-operations-the-ai-advantage-in-industrial-fault-detectionmdmahfuzur-5d0f)
-- [From Zero to Neural Networks in Go: Concepts, Structure, and Practical Implementation](https://dev.to/leapcell/from-zero-to-neural-networks-in-go-concepts-structure-and-practical-implementation-1od6)
-- [What is Django in Web Development? Features, Benefits, and Use Cases](https://dev.to/tpointtechblog/what-is-django-in-web-development-features-benefits-and-use-cases-569m)
-- [callsites usage in n8n source code to get callsites from the V8 stack trace API](https://dev.to/ramunarasinga-11/callsites-usage-in-n8n-source-code-to-get-callsites-from-the-v8-stack-trace-api-50jp)
+- [Building 8-Bit Computer From Scratch](https://dev.to/sysreverse/building-8-bit-computer-from-scratch-21ld)
+- [Free Font Changer Tool for Stylish Text – Perfect for Developers &amp; Creators](https://dev.to/money33/free-font-changer-tool-for-stylish-text-perfect-for-developers-creators-5cl1)
+- [🧭 Navigating the Modern Software Industry: What Every Developer Should Know](https://dev.to/infoinlet/navigating-the-modern-software-industry-what-every-developer-should-know-1m0f)
+- [Restricting Container Capabilities: Reducing the Kernel Attack Surface in Docker](https://dev.to/hexshift/restricting-container-capabilities-reducing-the-kernel-attack-surface-in-docker-5952)
 <!-- BLOG-POST-LIST:END -->
 
