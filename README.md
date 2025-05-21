@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Veo AI Kya Hai: गूगल की नई एआई टेक्नोलॉजी से वीडियो जनरेशन का भविष्य](https://dev.to/vishalkumar1111/google-veo-ai-kya-hai-guugl-kii-nii-eaaii-tteknolonjii-se-viiddiyo-jnreshn-kaa-bhvissy-e6b)
-- [Why Security Is Non-Negotiable in Crypto &lpar;And What Happens When You Cut Corners&rpar;](https://dev.to/kaankaya/why-security-is-non-negotiable-in-crypto-and-what-happens-when-you-cut-corners-47am)
-- [Essential Magento Upgrades: Migration, Security, Speed, and SEO](https://dev.to/webbycrownsolutions/essential-magento-upgrades-migration-security-speed-and-seo-4b6l)
-- [From Listing to Longevity: Why Most Tokens Fade After the Hype &lpar;And What We Can Actually Do About It&rpar;](https://dev.to/leo_scott_357f10236fabe00/from-listing-to-longevity-why-most-tokens-fade-after-the-hype-and-what-we-can-actually-do-about-5h6g)
+- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
+- [🧠 How UX Shaped COVID, Airbnb’s Redesign &amp; SVG-to-CSS Tool](https://dev.to/adam/how-ux-shaped-covid-airbnbs-redesign-svg-to-css-tool-5ajk)
+- [Como o protocolo HTTP funciona?](https://dev.to/alexreis/como-o-protocolo-http-funciona-55oc)
+- [Before I Got the Map, I Got It All Wrong](https://dev.to/kofiadu/before-i-got-the-map-i-got-it-all-wrong-13g)
 <!-- BLOG-POST-LIST:END -->
 
