@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: MCP Is All You Need](https://dev.to/viralne94104639/ai-agents-mcp-is-all-you-need-5h15)
-- [AI Agent faster memory access](https://dev.to/emiroberti/ai-agent-faster-memory-access-1n92)
-- [Untitled](https://dev.to/miguel_lopez_ea3ab4474f09/untitled-5b13)
-- [New Directing Styles in Modern Television](https://dev.to/willthomas/new-directing-styles-in-modern-television-11gl)
+- [Mastering `useReducer` in React: A Step-by-Step Guide for Real-World State Management](https://dev.to/cristiansifuentes/mastering-usereducer-in-react-a-step-by-step-guide-for-real-world-state-management-2le6)
+- [Zyn 2.1.0 Update — Customizable Build Profiles](https://dev.to/zyntraxis_c908fa8b32e04cb/zyn-210-update-customizable-build-profiles-29hl)
+- [Solitude: Not A Flaw But A Choice](https://dev.to/phoebe_smith/solitude-not-a-flaw-but-a-choice-1ok8)
+- [Open Source Call: Help build a life-saving AI-powered skin cancer app 👋 Hi everyone, I&#39;m Dr. Fadi Alakrami, a physician building an open-source project to help people detect early signs of melanoma, BCC, and SCC – using only their phone, AI, and camera –](https://dev.to/fadi_alakrami_e4786e4a130/open-source-call-help-build-a-life-saving-ai-powered-skin-cancer-app-hi-everyone-im-dr-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
