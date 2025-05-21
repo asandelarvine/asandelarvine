@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaked Battlefield 6 Footage Gives Off Bad Company 2 Vibes, Dev Says](https://dev.to/gg_news/leaked-battlefield-6-footage-gives-off-bad-company-2-vibes-dev-says-3bn8)
-- [House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back](https://dev.to/future_ai/house-republicans-want-to-stop-states-from-regulating-ai-more-than-100-organizations-are-pushing-3pog)
-- [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://dev.to/future_ai/chicago-sun-times-publishes-made-up-books-and-fake-experts-in-ai-debacle-549l)
-- [Largest deepfake porn site shuts down forever](https://dev.to/future_ai/largest-deepfake-porn-site-shuts-down-forever-2cdo)
+- [📈From Zero to DevOps: Week 4 – Building a Strong Foundation in Linux Networking- TCP Working](https://dev.to/vrj_bhvsr/from-zero-to-devops-week-4-building-a-strong-foundation-in-linux-networking-tcp-working-36ia)
+- [Nested ExtJS Form Data](https://dev.to/lminuti/nested-extjs-form-data-jbe)
+- [Project KARL - AI](https://dev.to/theaniketraj/project-karl-ai-3616)
+- [9 Performance Optimization Tips for Windows 11](https://dev.to/best_codes/9-performance-optimization-tips-for-windows-11-2inf)
 <!-- BLOG-POST-LIST:END -->
 
