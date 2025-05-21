@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
-- [🧠 How UX Shaped COVID, Airbnb’s Redesign &amp; SVG-to-CSS Tool](https://dev.to/adam/how-ux-shaped-covid-airbnbs-redesign-svg-to-css-tool-5ajk)
-- [Como o protocolo HTTP funciona?](https://dev.to/alexreis/como-o-protocolo-http-funciona-55oc)
-- [Before I Got the Map, I Got It All Wrong](https://dev.to/kofiadu/before-i-got-the-map-i-got-it-all-wrong-13g)
+- [🚀 Deploy Static Website from S3 to Multiple Buckets using AWS CodePipeline](https://dev.to/latchudevops/deploy-static-website-from-s3-to-multiple-buckets-using-aws-codepipeline-4140)
+- [🔌 Demystifying ARPANET: The Spark Before the Web](https://dev.to/entangledcognition/demystifying-arpanet-the-spark-before-the-web-4ci)
+- [Post-App Era? Why More Brands Are Betting on Web Apps Over Native App](https://dev.to/dct_technology/post-app-era-why-more-brands-are-betting-on-web-apps-over-native-app-1cd2)
+- [Game Creation via AWS Q CLI](https://dev.to/aws-builders/game-creation-via-aws-q-cli-55b9)
 <!-- BLOG-POST-LIST:END -->
 
