@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multiplayer System in Unreal Engine with Steam &amp; LAN](https://dev.to/winterturtle23/building-a-multiplayer-system-in-unreal-engine-with-steam-lan-3ndc)
-- [Hosting 300+ Websites - A Technical Deep Dive](https://dev.to/stormkit/hosting-300-websites-a-technical-deep-dive-5248)
-- [🛡️ Cybersecurity Roadmap with Certifications &lpar;Beginner Advanced&rpar;](https://dev.to/abhigyan31/cybersecurity-roadmap-with-certifications-beginner-advanced-3khm)
-- [AWS is taking out the trash 🗑️](https://dev.to/skillboosttrainer/aws-is-taking-out-the-trash-3pi2)
+- [Let’s Get Life Easy: Secure JSON/CSV Conversions Without Uploading Data](https://dev.to/ranasthala-dev/lets-get-life-easy-secure-jsoncsv-conversions-without-uploading-data-4cl9)
+- [Week 4 of Website Development](https://dev.to/adhyanjain2512/week-4-of-website-development-4485)
+- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
+- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems.](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
 <!-- BLOG-POST-LIST:END -->
 
