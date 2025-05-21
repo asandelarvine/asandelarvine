@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Get Life Easy: Secure JSON/CSV Conversions Without Uploading Data](https://dev.to/ranasthala-dev/lets-get-life-easy-secure-jsoncsv-conversions-without-uploading-data-4cl9)
-- [Week 4 of Website Development](https://dev.to/adhyanjain2512/week-4-of-website-development-4485)
-- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
-- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems.](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
+- [AI Agents: MCP Is All You Need](https://dev.to/viralne94104639/ai-agents-mcp-is-all-you-need-5h15)
+- [AI Agent faster memory access](https://dev.to/emiroberti/ai-agent-faster-memory-access-1n92)
+- [Untitled](https://dev.to/miguel_lopez_ea3ab4474f09/untitled-5b13)
+- [New Directing Styles in Modern Television](https://dev.to/willthomas/new-directing-styles-in-modern-television-11gl)
 <!-- BLOG-POST-LIST:END -->
 
