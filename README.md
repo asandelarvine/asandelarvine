@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
-- [Introducing the New InsureBC Victoria Website](https://dev.to/jovan_sihota/introducing-the-new-victoria-website-3i6a)
-- [Ускоряем Elixir: интеграция с нативным кодом &lpar;NIF, Ports и др.&rpar;](https://dev.to/adamanq/uskoriaiem-elixir-intieghratsiia-s-nativnym-kodom-nif-ports-i-dr-17kk)
-- [Retrieval Technique Series-2.How to Index Massive Disk Data Using B+ Trees](https://dev.to/yaruyng/retrieval-technique-series-2how-to-index-massive-disk-data-using-b-trees-4hn0)
+- [Smarter Maintenance, Safer Operations: The AI Advantage in Industrial Fault Detection:Md.Mahfuzur rahman Enam](https://dev.to/mahfuzur_rahmanenam/smarter-maintenance-safer-operations-the-ai-advantage-in-industrial-fault-detectionmdmahfuzur-5d0f)
+- [From Zero to Neural Networks in Go: Concepts, Structure, and Practical Implementation](https://dev.to/leapcell/from-zero-to-neural-networks-in-go-concepts-structure-and-practical-implementation-1od6)
+- [What is Django in Web Development? Features, Benefits, and Use Cases](https://dev.to/tpointtechblog/what-is-django-in-web-development-features-benefits-and-use-cases-569m)
+- [callsites usage in n8n source code to get callsites from the V8 stack trace API](https://dev.to/ramunarasinga-11/callsites-usage-in-n8n-source-code-to-get-callsites-from-the-v8-stack-trace-api-50jp)
 <!-- BLOG-POST-LIST:END -->
 
