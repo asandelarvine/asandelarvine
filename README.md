@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Liskov Substitution Principle: Inheritance That Looks Right But Breaks Everything](https://dev.to/gabrielle_eduarda_776996b/liskov-substitution-principle-inheritance-that-looks-right-but-breaks-everything-19ei)
-- [How to Implement JWT Authentication in Django REST Framework &lpar;Without the Headache&rpar;](https://dev.to/adham_emam/how-to-implement-jwt-authentication-in-django-rest-framework-without-the-headache-2iff)
-- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
-- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
+- [🎯 Day 6 - Mini Project – Custom Button Styler](https://dev.to/krishna_chd/day-6-mini-project-custom-button-styler-3n4j)
+- [👀 👀](https://dev.to/maxprilutskiy/-5hk)
+- [PWC 322 String Format](https://dev.to/boblied/pwc-322-string-format-33pd)
+- [HTML5 Elements You Didn&#39;t Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan)
 <!-- BLOG-POST-LIST:END -->
 
