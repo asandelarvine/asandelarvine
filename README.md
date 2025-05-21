@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O Keynote 2025 Summary: Gemini Deep Think, Search AI Mode, Android XR, Jules](https://dev.to/justdetermined/google-io-keynote-2025-summary-gemini-deep-think-search-ai-mode-android-xr-jules-3g1b)
-- [Deploy a Docker App to Coolify in 5 Minutes](https://dev.to/lucasnevespereira/deploy-a-docker-app-to-coolify-in-5-minutes-5a6n)
-- [Blockchain Beginner guide](https://dev.to/entangledcognition/blockchain-beginner-guide-4m3o)
-- [Virtual DOM &amp; what is its role in React?](https://dev.to/dessomu/virtual-dom-what-is-its-role-in-react-dh9)
+- [Leaked Battlefield 6 Footage Gives Off Bad Company 2 Vibes, Dev Says](https://dev.to/gg_news/leaked-battlefield-6-footage-gives-off-bad-company-2-vibes-dev-says-3bn8)
+- [House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back](https://dev.to/future_ai/house-republicans-want-to-stop-states-from-regulating-ai-more-than-100-organizations-are-pushing-3pog)
+- [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://dev.to/future_ai/chicago-sun-times-publishes-made-up-books-and-fake-experts-in-ai-debacle-549l)
+- [Largest deepfake porn site shuts down forever](https://dev.to/future_ai/largest-deepfake-porn-site-shuts-down-forever-2cdo)
 <!-- BLOG-POST-LIST:END -->
 
