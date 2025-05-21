@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide on Light/Dark Mode Toggle Using JavaScript &lpar;No Frameworks&rpar;](https://dev.to/giftintech/beginners-guide-on-lightdark-mode-toggle-using-javascript-no-frameworks-n2i)
-- [Machine Learning 101](https://dev.to/busycaesar/introduction-to-machine-learning-a22)
-- [Stop Using `console.log` — These Debugging Tricks Will Blow Your Mind](https://dev.to/joshlawson100/stop-using-consolelog-these-debugging-tricks-will-blow-your-mind-436f)
-- [Top 5 Algorithms For Learning AI Agents](https://dev.to/zahramh99/top-5-algorithms-for-learning-ai-agents-4p89)
+- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
+- [readonly vs disabled in Rails Forms](https://dev.to/jessalejo/readonly-vs-disabled-in-rails-forms-47cj)
+- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
+- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
 <!-- BLOG-POST-LIST:END -->
 
