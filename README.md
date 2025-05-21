@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Example of caching Google Translate translation results for a multilingual site on NextJS](https://dev.to/petrtcoi/example-of-caching-google-translate-translation-results-for-a-multilingual-site-on-nextjs-4ana)
-- [🧠 Build a Real-Time Chat App in Laravel Using Reverb + Blade + Alpine.js](https://dev.to/tahsin000/build-a-real-time-chat-app-in-laravel-using-reverb-blade-alpinejs-2d9m)
-- [# 🔗 nodeBond – Local IPC Bridge for Node.js &lpar;no TCP, no dependencies&rpar;](https://dev.to/xzdes/-nodebond-local-ipc-bridge-for-nodejs-no-tcp-no-dependencies-8c9)
-- [Self-Paced Learning Strategies for Today’s Evolving Job Market](https://dev.to/marketdaily/self-paced-learning-strategies-for-todays-evolving-job-market-2nm4)
+- [Beginner&#39;s Guide on Light/Dark Mode Toggle Using JavaScript &lpar;No Frameworks&rpar;](https://dev.to/giftintech/beginners-guide-on-lightdark-mode-toggle-using-javascript-no-frameworks-n2i)
+- [Machine Learning 101](https://dev.to/busycaesar/introduction-to-machine-learning-a22)
+- [Stop Using `console.log` — These Debugging Tricks Will Blow Your Mind](https://dev.to/joshlawson100/stop-using-consolelog-these-debugging-tricks-will-blow-your-mind-436f)
+- [Top 5 Algorithms For Learning AI Agents](https://dev.to/zahramh99/top-5-algorithms-for-learning-ai-agents-4p89)
 <!-- BLOG-POST-LIST:END -->
 
