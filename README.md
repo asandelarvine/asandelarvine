@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Share Your Local Next.js App Online Using Pinggy](https://dev.to/lightningdev123/how-to-share-your-local-nextjs-app-online-using-pinggy-55m8)
-- [Deploying Code on a Friday: A Nightmare Story](https://dev.to/velvosoft/deploying-code-on-a-friday-a-nightmare-story-n36)
-- [What is LLaMA Factory? LLM Fine-Tuning](https://dev.to/voltagent/what-is-llama-factory-llm-fine-tuning-1d23)
-- [The One Thing Nobody Tells You About Learning to Code](https://dev.to/joshlawson100/the-one-thing-nobody-tells-you-about-learning-to-code-447j)
+- [Optimizing Serverless Architecture for Better Performance](https://dev.to/simpl-olivia/optimizing-serverless-architecture-for-better-performance-56oi)
+- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
+- [Garbage Collection in Java: A Simple Explanation](https://dev.to/kmartita/garbage-collection-in-java-simply-explained-5fif)
+- [Weather App](https://dev.to/naajihsiraj/weather-app-472a)
 <!-- BLOG-POST-LIST:END -->
 
