@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
-- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
-- [Statistics by Time Window — From SQL to SPL #31](https://dev.to/judith677/statistics-by-time-window-from-sql-to-spl-31-387b)
-- [🧼 How to Write Clean React Code](https://dev.to/leap_chanvuthy_87d0e3c919/how-to-write-clean-react-code-4244)
+- [Eyeglasses for Women: Blending Fashion, Comfort, and Vision](https://dev.to/prisha_singh_4b5f9d71bc64/eyeglasses-for-women-blending-fashion-comfort-and-vision-5eh8)
+- [Unveiling the Core of REST: A Deep Dive into Resources and Collections in API Design](https://dev.to/ralphsebastian/unveiling-the-core-of-rest-a-deep-dive-into-resources-and-collections-in-api-design-48ld)
+- [noOp variable in n8n source code.](https://dev.to/ramunarasinga-11/noop-variable-in-n8n-source-code-d3d)
+- [Safari&#39;s Tab Key Trap: Why Your Website&#39;s Focus Navigation Might Be Breaking for Safari Users](https://dev.to/hawkchen/safaris-tab-key-trap-why-your-websites-focus-navigation-might-be-breaking-for-safari-users-5632)
 <!-- BLOG-POST-LIST:END -->
 
