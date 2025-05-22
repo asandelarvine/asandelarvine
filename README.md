@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Linux Upskill Challenge Journey: Day 1](https://dev.to/carloslramirez/my-linux-upskill-challenge-day-1-36no)
-- [Paridade e Representação Binária](https://dev.to/cataploft/paridade-e-representacao-binaria-48bd)
-- [The Ultimate Guide to Flutter Version Management for Every Developer Level](https://dev.to/alaminkarno/the-ultimate-guide-to-flutter-version-management-for-every-developer-level-3n3h)
-- [How we built the open-source SOTA AI Agent on SWE-bench Verified](https://dev.to/refact/how-we-built-the-open-source-sota-ai-agent-on-swe-bench-verified-1gml)
+- [Validating Environment Variables in Node.js with Zod](https://dev.to/roshan_ican/validating-environment-variables-in-nodejs-with-zod-2epn)
+- [AI for New Developers – Part 1: What AI Can &lpar;and Can’t&rpar; Actually Help With](https://dev.to/thecaptaindumbass/ai-for-new-developers-part-1-what-ai-can-and-cant-actually-help-with-2epa)
+- [In-depth Look at JavaScript&#39;s Internal Slot Mechanics](https://dev.to/omriluz1/in-depth-look-at-javascripts-internal-slot-mechanics-117j)
+- [[Boost]](https://dev.to/ben/-ljm)
 <!-- BLOG-POST-LIST:END -->
 
