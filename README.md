@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub&#39;s MCP Server: You Can Now Talk to Your Repos](https://dev.to/fernandezbaptiste/githubs-mcp-server-you-can-now-talk-to-your-repos-2ho5)
-- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
-- [关于java的反射](https://dev.to/aquareo/guan-yu-javade-fan-she-fig)
-- [🚀 From Code to Cash: Panduan Lengkap Memilih Badan Usaha untuk Developer Indonesia](https://dev.to/frynnn/from-code-to-cash-panduan-lengkap-memilih-badan-usaha-untuk-developer-indonesia-4j5i)
+- [Stream PostgreSQL WALs with Zero Data Loss in Mind](https://dev.to/alzhi_f93e67fa45b972/stream-postgresql-wals-with-zero-data-loss-in-mind-5e17)
+- [GeoGuessr Mapmakers Disable Popular Maps in Protest of Esports World Cup Tournament](https://dev.to/gg_news/geoguessr-mapmakers-disable-popular-maps-in-protest-of-esports-world-cup-tournament-2g6i)
+- [Doom: The Dark Ages &#39;The Biggest Launch in id&#39;s History&#39; — but No Sales Figure Yet - IGN](https://dev.to/gg_news/doom-the-dark-ages-the-biggest-launch-in-ids-history-but-no-sales-figure-yet-ign-1gge)
+- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-4f6m)
 <!-- BLOG-POST-LIST:END -->
 
