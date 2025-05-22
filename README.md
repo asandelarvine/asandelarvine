@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
-- [readonly vs disabled in Rails Forms](https://dev.to/jessalejo/readonly-vs-disabled-in-rails-forms-47cj)
-- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
-- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
+- [Isolamento no TDAH: Como enfrentar a solidão e melhorar sua vida](https://dev.to/pessoamaster218epsilon/isolamento-no-tdah-como-enfrentar-a-solidao-e-melhorar-sua-vida-4260)
+- [Tesla’s Optimus: A Stock Price Disaster Waiting to Happen](https://dev.to/owly/teslas-optimus-a-stock-price-disaster-waiting-to-happen-7d7)
+- [Linux in Action: Mastering Group Account Management &amp; Operations](https://dev.to/dhavalthakar97/linux-in-action-mastering-group-account-management-operations-1cgc)
+- [Seeing the World: A Beginner&#39;s Guide to Convolutional Neural Networks &lpar;CNNs&rpar; with PyTorch](https://dev.to/saadmanrafat/seeing-the-world-a-beginners-guide-to-convolutional-neural-networks-cnns-with-pytorch-593c)
 <!-- BLOG-POST-LIST:END -->
 
