@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SonicScan - A Music Fingerprinting and Identification App](https://dev.to/rony000013/sonicscan-a-music-fingerprinting-and-identification-app-2g4a)
-- [A Comprehensive Guide to Checking Logs in a Linux Server](https://dev.to/msnmongare/a-comprehensive-guide-to-checking-logs-in-a-linux-server-1pl3)
-- [How to Use Transcription to Make YouTube Videos Searchable &lpar;And SEO-Friendly&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-use-transcription-to-make-youtube-videos-searchable-and-seo-friendly-1o0j)
-- [Exploring Blockchain Variants: Public, Private, Consortium, and Hybrid](https://dev.to/ahmmrizv9/exploring-blockchain-variants-public-private-consortium-and-hybrid-17nn)
+- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
+- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
+- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
+- [【HarmonyOS 5】一次开发多端部署](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-ci-kai-fa-duo-duan-bu-shu-yi-lun-bo-tu-tablan-lie-biao-wei-li-pei-he-zha-ge-bu-ju-yu-mei-ti-cha-xun-jin-xing-ui-de-duo-kai-fa--3d0m)
 <!-- BLOG-POST-LIST:END -->
 
