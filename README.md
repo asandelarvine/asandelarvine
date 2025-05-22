@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Sonnet and Opus 4 &lpar;Executive Summary&rpar;](https://dev.to/punkpeye/claude-sonnet-and-opus-4-executive-summary-3h2j)
-- [# 👑 Building a Prince of Persia-Inspired Platformer with Amazon Q CLI &amp; Pygame on Linux](https://dev.to/astha_gore_4500d320c31960/-building-a-prince-of-persia-inspired-platformer-with-amazon-q-cli-pygame-on-linux-pon)
-- [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually](https://dev.to/hevalhazalkurt/behind-the-underscores-ep01-understanding-pythons-special-methods-conceptually-3hl0)
-- [How to Install PHP GD Extension on Ubuntu 24.04](https://dev.to/sureshramani/how-to-install-php-gd-extension-on-ubuntu-2404-gk7)
+- [My Linux Upskill Challenge Journey: Day 1](https://dev.to/carloslramirez/my-linux-upskill-challenge-day-1-36no)
+- [Paridade e Representação Binária](https://dev.to/cataploft/paridade-e-representacao-binaria-48bd)
+- [The Ultimate Guide to Flutter Version Management for Every Developer Level](https://dev.to/alaminkarno/the-ultimate-guide-to-flutter-version-management-for-every-developer-level-3n3h)
+- [How we built the open-source SOTA AI Agent on SWE-bench Verified](https://dev.to/refact/how-we-built-the-open-source-sota-ai-agent-on-swe-bench-verified-1gml)
 <!-- BLOG-POST-LIST:END -->
 
