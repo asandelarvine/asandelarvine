@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Validating Environment Variables in Node.js with Zod](https://dev.to/roshan_ican/validating-environment-variables-in-nodejs-with-zod-2epn)
-- [AI for New Developers – Part 1: What AI Can &lpar;and Can’t&rpar; Actually Help With](https://dev.to/thecaptaindumbass/ai-for-new-developers-part-1-what-ai-can-and-cant-actually-help-with-2epa)
-- [In-depth Look at JavaScript&#39;s Internal Slot Mechanics](https://dev.to/omriluz1/in-depth-look-at-javascripts-internal-slot-mechanics-117j)
-- [[Boost]](https://dev.to/ben/-ljm)
+- [Why Does Your Code Work on Your Laptop But Breaks in Production? 💻➡️💥](https://dev.to/arbythecoder/why-does-your-code-work-on-your-laptop-but-breaks-in-production-2gmd)
+- [Why Hybrid Cloud Isn’t Just a Buzzword, It’s a Business Imperative in 2025](https://dev.to/shlok-talepa/why-hybrid-cloud-isnt-just-a-buzzword-its-a-business-imperative-in-2025-1g3o)
+- [As A DevOps Engineer: What Are The Best Practices To Boost Performance? Any Expert Who Can Guide Through This To All](https://dev.to/shlok-talepa/as-a-devops-engineer-what-are-the-best-practices-to-boost-performance-any-expert-who-can-guide-36lm)
+- [Fullstack Authentication with Next.js and ASP.NET Core over Secure Cross-Domain Cookies](https://dev.to/sinjulmsbh/fullstack-authentication-with-nextjs-and-aspnet-core-over-secure-cross-domain-cookies-4i3g)
 <!-- BLOG-POST-LIST:END -->
 
