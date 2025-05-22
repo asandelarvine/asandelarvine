@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Legal Dimensions and Technological Innovations of Fragment Telegram and Blockchain Integration](https://dev.to/jennythomas498/the-legal-dimensions-and-technological-innovations-of-fragment-telegram-and-blockchain-integration-31gb)
-- [Difference between Mobile and Web App testing](https://dev.to/misterankit/difference-between-mobile-and-web-app-testing-e51)
-- [Why Tech Teams Hire Data Scientists and DevOps Together](https://dev.to/alex2002/why-tech-teams-hire-data-scientists-and-devops-together-9k9)
-- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
+- [SonicScan - A Music Fingerprinting and Identification App](https://dev.to/rony000013/sonicscan-a-music-fingerprinting-and-identification-app-2g4a)
+- [A Comprehensive Guide to Checking Logs in a Linux Server](https://dev.to/msnmongare/a-comprehensive-guide-to-checking-logs-in-a-linux-server-1pl3)
+- [How to Use Transcription to Make YouTube Videos Searchable &lpar;And SEO-Friendly&rpar;](https://dev.to/shruti_saraswat_c258d5934/how-to-use-transcription-to-make-youtube-videos-searchable-and-seo-friendly-1o0j)
+- [Exploring Blockchain Variants: Public, Private, Consortium, and Hybrid](https://dev.to/ahmmrizv9/exploring-blockchain-variants-public-private-consortium-and-hybrid-17nn)
 <!-- BLOG-POST-LIST:END -->
 
