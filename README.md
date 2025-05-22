@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone’s Journey is Different... and That’s the Whole Point](https://dev.to/roddevlascio/everyones-journey-is-different-and-thats-the-whole-point-53ce)
-- [Streamline email communication with bulk reply in Genesys Cloud](https://dev.to/carloslm/streamline-email-communication-with-bulk-reply-in-genesys-cloud-1n2g)
-- [Building MongoDB-based event-driven applications with DocumentDB](https://dev.to/aws-builders/building-mongodb-based-event-driven-applications-with-documentdb-pne)
-- [How to pay the difference when upgrading from VIP to SVIP on the website?](https://dev.to/selenium39/how-to-pay-the-difference-when-upgrading-from-vip-to-svip-on-the-website-2f1g)
+- [Bitcoin Pizza Day 2025: 15 Years Later and That Pizza’s Worth $1.1 Billion 😳](https://dev.to/dhis_is_jj/bitcoin-pizza-day-2025-15-years-later-and-that-pizzas-worth-11-billion-38c9)
+- [Comparing LLMs and Python OCR Packages: Opportunities and Challenges in OCR Accuracy](https://dev.to/unbrokencocoon/comparing-llms-and-python-ocr-packages-opportunities-and-challenges-in-ocr-accuracy-3ppa)
+- [The Utility Folder Trap: How It Can Lead to Bad Coding Habits](https://dev.to/petchnattkit/the-utility-folder-trap-how-it-can-lead-to-bad-coding-habits-4ic3)
+- [I want to run a machine learning code](https://dev.to/zakaria_mustakeem_21cc430/i-want-to-run-a-machine-learning-code-p1j)
 <!-- BLOG-POST-LIST:END -->
 
