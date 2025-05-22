@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Pizza Day 2025: 15 Years Ago, 10,000 BTC Bought Two Pizzas](https://dev.to/scofieldidehen/bitcoin-pizza-day-2025-15-years-ago-10000-btc-bought-two-pizzas-9be)
-- [Day 28/ 30 Days of Linux Mastery: Variables and Inputs in Shell Scripting](https://dev.to/amandaigwe/day-28-30-days-of-linux-mastery-variables-and-inputs-in-shell-scripting-mp8)
-- [JobFlowAI: Your AI-Powered Copilot for Smarter Job Hunting](https://dev.to/notsointresting/jobflowai-your-ai-powered-copilot-for-smarter-job-hunting-mf0)
-- [Publish a Python Package &lpar;Part-3&rpar;](https://dev.to/datatoinfinity/publish-a-python-package-part-3-27i8)
+- [GitHub&#39;s MCP Server: You Can Now Talk to Your Repos](https://dev.to/fernandezbaptiste/githubs-mcp-server-you-can-now-talk-to-your-repos-2ho5)
+- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
+- [关于java的反射](https://dev.to/aquareo/guan-yu-javade-fan-she-fig)
+- [🚀 From Code to Cash: Panduan Lengkap Memilih Badan Usaha untuk Developer Indonesia](https://dev.to/frynnn/from-code-to-cash-panduan-lengkap-memilih-badan-usaha-untuk-developer-indonesia-4j5i)
 <!-- BLOG-POST-LIST:END -->
 
