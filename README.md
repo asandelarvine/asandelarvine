@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Eyeglasses for Women: Blending Fashion, Comfort, and Vision](https://dev.to/prisha_singh_4b5f9d71bc64/eyeglasses-for-women-blending-fashion-comfort-and-vision-5eh8)
-- [Unveiling the Core of REST: A Deep Dive into Resources and Collections in API Design](https://dev.to/ralphsebastian/unveiling-the-core-of-rest-a-deep-dive-into-resources-and-collections-in-api-design-48ld)
-- [noOp variable in n8n source code.](https://dev.to/ramunarasinga-11/noop-variable-in-n8n-source-code-d3d)
-- [Safari&#39;s Tab Key Trap: Why Your Website&#39;s Focus Navigation Might Be Breaking for Safari Users](https://dev.to/hawkchen/safaris-tab-key-trap-why-your-websites-focus-navigation-might-be-breaking-for-safari-users-5632)
+- [The Legal Dimensions and Technological Innovations of Fragment Telegram and Blockchain Integration](https://dev.to/jennythomas498/the-legal-dimensions-and-technological-innovations-of-fragment-telegram-and-blockchain-integration-31gb)
+- [Difference between Mobile and Web App testing](https://dev.to/misterankit/difference-between-mobile-and-web-app-testing-e51)
+- [Why Tech Teams Hire Data Scientists and DevOps Together](https://dev.to/alex2002/why-tech-teams-hire-data-scientists-and-devops-together-9k9)
+- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
 <!-- BLOG-POST-LIST:END -->
 
