@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entire Google I/O under 200 words](https://dev.to/grenishrai/entire-google-io-under-200-words-211)
-- [Improve your Appwrite developer experience with dev keys](https://dev.to/appwrite/improve-your-appwrite-developer-experience-with-dev-keys-347l)
-- [Creating Accessible PDFs: A Comprehensive Guide](https://dev.to/revisepdf/creating-accessible-pdfs-a-comprehensive-guide-1o3e)
-- [Easy Steps to deploy Super Mario Game on AWS EKS Using Terraform](https://dev.to/aws-builders/easy-steps-to-deploy-super-mario-game-on-aws-eks-using-terraform-4oi)
+- [Bitcoin Pizza Day 2025: 15 Years Ago, 10,000 BTC Bought Two Pizzas](https://dev.to/scofieldidehen/bitcoin-pizza-day-2025-15-years-ago-10000-btc-bought-two-pizzas-9be)
+- [Day 28/ 30 Days of Linux Mastery: Variables and Inputs in Shell Scripting](https://dev.to/amandaigwe/day-28-30-days-of-linux-mastery-variables-and-inputs-in-shell-scripting-mp8)
+- [JobFlowAI: Your AI-Powered Copilot for Smarter Job Hunting](https://dev.to/notsointresting/jobflowai-your-ai-powered-copilot-for-smarter-job-hunting-mf0)
+- [Publish a Python Package &lpar;Part-3&rpar;](https://dev.to/datatoinfinity/publish-a-python-package-part-3-27i8)
 <!-- BLOG-POST-LIST:END -->
 
