@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/blackscripts/-2dg0)
-- [Zexson Team YouTube Channel](https://dev.to/signor_p/zexson-team-youtube-channel-fc)
-- [Applications and Challenges of 3D Printing Technology in Mechanical Manufacturing](https://dev.to/illlis/applications-and-challenges-of-3d-printing-technology-in-mechanical-manufacturing-2p)
-- [In a World of AI Coders and Automation — Soft Skills Will Be Your Superpower](https://dev.to/codelikeandrew/in-a-world-of-ai-coders-and-automation-soft-skills-will-be-your-superpower-1hpd)
+- [Everyone’s Journey is Different... and That’s the Whole Point](https://dev.to/roddevlascio/everyones-journey-is-different-and-thats-the-whole-point-53ce)
+- [Streamline email communication with bulk reply in Genesys Cloud](https://dev.to/carloslm/streamline-email-communication-with-bulk-reply-in-genesys-cloud-1n2g)
+- [Building MongoDB-based event-driven applications with DocumentDB](https://dev.to/aws-builders/building-mongodb-based-event-driven-applications-with-documentdb-pne)
+- [How to pay the difference when upgrading from VIP to SVIP on the website?](https://dev.to/selenium39/how-to-pay-the-difference-when-upgrading-from-vip-to-svip-on-the-website-2f1g)
 <!-- BLOG-POST-LIST:END -->
 
