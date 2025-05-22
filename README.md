@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Your Code Work on Your Laptop But Breaks in Production? 💻➡️💥](https://dev.to/arbythecoder/why-does-your-code-work-on-your-laptop-but-breaks-in-production-2gmd)
-- [Why Hybrid Cloud Isn’t Just a Buzzword, It’s a Business Imperative in 2025](https://dev.to/shlok-talepa/why-hybrid-cloud-isnt-just-a-buzzword-its-a-business-imperative-in-2025-1g3o)
-- [As A DevOps Engineer: What Are The Best Practices To Boost Performance? Any Expert Who Can Guide Through This To All](https://dev.to/shlok-talepa/as-a-devops-engineer-what-are-the-best-practices-to-boost-performance-any-expert-who-can-guide-36lm)
-- [Fullstack Authentication with Next.js and ASP.NET Core over Secure Cross-Domain Cookies](https://dev.to/sinjulmsbh/fullstack-authentication-with-nextjs-and-aspnet-core-over-secure-cross-domain-cookies-4i3g)
+- [We’re Looking for Contributors](https://dev.to/lovit_js/were-looking-for-contributors-1f52)
+- [&quot;Eu Só Aprendo na Prática&quot; - O Que Isso Realmente Significa e Por Que Pode Não Ser a Melhor Estratégia](https://dev.to/asouza/eu-so-aprendo-na-pratica-o-que-isso-realmente-significa-e-por-que-pode-nao-ser-a-melhor-1f07)
+- [React Router v7: la evolución que React necesitaba](https://dev.to/kevinccbsg/react-router-v7-la-evolucion-que-react-necesitaba-47pc)
+- [How to Begin RWA Tokenization: Key Stages](https://dev.to/vadym_info_polus/how-to-begin-rwa-tokenization-key-stages-5f96)
 <!-- BLOG-POST-LIST:END -->
 
