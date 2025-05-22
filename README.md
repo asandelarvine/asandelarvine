@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stay Sane &lpar;and Stand Out&rpar; in a Crowded Job Market](https://dev.to/tlorent/how-to-stay-sane-and-stand-out-in-a-crowded-job-market-2b4n)
-- [I made a simple AI chatbot called LifeAI – no login, no ads, just chat. Try it here: https://lifeai.vercel.app](https://dev.to/fariz_lifvand_0b180d6cd22/hey-everyone-i-recently-launched-a-small-project-called-lifeai-a-lightweight-chatbot-ai-that-4l0)
-- [Dark Mode, Redux, and Quote APIs: A Dev Portfolio That’s More Than a Landing Pag](https://dev.to/ahmed_sherif_helmy_ahmed/dark-mode-redux-and-quote-apis-a-dev-portfolio-thats-more-than-a-landing-pag-1bm6)
-- [10 Python Tricks You Probably Didn’t Know 💡🐍](https://dev.to/nish2005karsh/10-python-tricks-you-probably-didnt-know-2bo4)
+- [Linux on mobile, my experience so far](https://dev.to/behdanisohrab/linux-on-mobile-my-experience-so-far-nbm)
+- [403 Forbidden Console Theme #CodePenChallenge](https://dev.to/preetha_vaishnavi_2b82358/403-forbidden-console-theme-codepenchallenge-35g7)
+- [Dica de TI: Operadores lógicos](https://dev.to/vivianbr/dica-de-ti-operadores-logicos-3e3b)
+- [Understanding Settlement in Precious Metal Transactions](https://dev.to/miles_carter/understanding-settlement-in-precious-metal-transactions-35a2)
 <!-- BLOG-POST-LIST:END -->
 
