@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Isolamento no TDAH: Como enfrentar a solidão e melhorar sua vida](https://dev.to/pessoamaster218epsilon/isolamento-no-tdah-como-enfrentar-a-solidao-e-melhorar-sua-vida-4260)
-- [Tesla’s Optimus: A Stock Price Disaster Waiting to Happen](https://dev.to/owly/teslas-optimus-a-stock-price-disaster-waiting-to-happen-7d7)
-- [Linux in Action: Mastering Group Account Management &amp; Operations](https://dev.to/dhavalthakar97/linux-in-action-mastering-group-account-management-operations-1cgc)
-- [Seeing the World: A Beginner&#39;s Guide to Convolutional Neural Networks &lpar;CNNs&rpar; with PyTorch](https://dev.to/saadmanrafat/seeing-the-world-a-beginners-guide-to-convolutional-neural-networks-cnns-with-pytorch-593c)
+- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
+- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
+- [Statistics by Time Window — From SQL to SPL #31](https://dev.to/judith677/statistics-by-time-window-from-sql-to-spl-31-387b)
+- [🧼 How to Write Clean React Code](https://dev.to/leap_chanvuthy_87d0e3c919/how-to-write-clean-react-code-4244)
 <!-- BLOG-POST-LIST:END -->
 
