@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux on mobile, my experience so far](https://dev.to/behdanisohrab/linux-on-mobile-my-experience-so-far-nbm)
-- [403 Forbidden Console Theme #CodePenChallenge](https://dev.to/preetha_vaishnavi_2b82358/403-forbidden-console-theme-codepenchallenge-35g7)
-- [Dica de TI: Operadores lógicos](https://dev.to/vivianbr/dica-de-ti-operadores-logicos-3e3b)
-- [Understanding Settlement in Precious Metal Transactions](https://dev.to/miles_carter/understanding-settlement-in-precious-metal-transactions-35a2)
+- [Claude Sonnet and Opus 4 &lpar;Executive Summary&rpar;](https://dev.to/punkpeye/claude-sonnet-and-opus-4-executive-summary-3h2j)
+- [# 👑 Building a Prince of Persia-Inspired Platformer with Amazon Q CLI &amp; Pygame on Linux](https://dev.to/astha_gore_4500d320c31960/-building-a-prince-of-persia-inspired-platformer-with-amazon-q-cli-pygame-on-linux-pon)
+- [Behind the Underscores EP01: Understanding Python’s Special Methods Conceptually](https://dev.to/hevalhazalkurt/behind-the-underscores-ep01-understanding-pythons-special-methods-conceptually-3hl0)
+- [How to Install PHP GD Extension on Ubuntu 24.04](https://dev.to/sureshramani/how-to-install-php-gd-extension-on-ubuntu-2404-gk7)
 <!-- BLOG-POST-LIST:END -->
 
