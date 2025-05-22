@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin Pizza Day 2025: 15 Years Later and That Pizza’s Worth $1.1 Billion 😳](https://dev.to/dhis_is_jj/bitcoin-pizza-day-2025-15-years-later-and-that-pizzas-worth-11-billion-38c9)
-- [Comparing LLMs and Python OCR Packages: Opportunities and Challenges in OCR Accuracy](https://dev.to/unbrokencocoon/comparing-llms-and-python-ocr-packages-opportunities-and-challenges-in-ocr-accuracy-3ppa)
-- [The Utility Folder Trap: How It Can Lead to Bad Coding Habits](https://dev.to/petchnattkit/the-utility-folder-trap-how-it-can-lead-to-bad-coding-habits-4ic3)
-- [I want to run a machine learning code](https://dev.to/zakaria_mustakeem_21cc430/i-want-to-run-a-machine-learning-code-p1j)
+- [Entire Google I/O under 200 words](https://dev.to/grenishrai/entire-google-io-under-200-words-211)
+- [Improve your Appwrite developer experience with dev keys](https://dev.to/appwrite/improve-your-appwrite-developer-experience-with-dev-keys-347l)
+- [Creating Accessible PDFs: A Comprehensive Guide](https://dev.to/revisepdf/creating-accessible-pdfs-a-comprehensive-guide-1o3e)
+- [Easy Steps to deploy Super Mario Game on AWS EKS Using Terraform](https://dev.to/aws-builders/easy-steps-to-deploy-super-mario-game-on-aws-eks-using-terraform-4oi)
 <!-- BLOG-POST-LIST:END -->
 
