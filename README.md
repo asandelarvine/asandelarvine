@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
-- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
-- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
-- [【HarmonyOS 5】一次开发多端部署](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-ci-kai-fa-duo-duan-bu-shu-yi-lun-bo-tu-tablan-lie-biao-wei-li-pei-he-zha-ge-bu-ju-yu-mei-ti-cha-xun-jin-xing-ui-de-duo-kai-fa--3d0m)
+- [Understanding goroutines in Go](https://dev.to/trulyursdelv/understanding-goroutines-in-go-3iia)
+- [Top 5 Magento Tactics to Optimize Speed, Security &amp; SEO](https://dev.to/webbycrownsolutions/top-5-magento-tactics-to-optimize-speed-security-seo-oo0)
+- [What is llms.txt?](https://dev.to/hayerhans/what-is-llmstxt-1hgg)
+- [Destruction order vs thread safety in C++](https://dev.to/pikotutorial/destruction-order-vs-thread-safety-in-c-1nc4)
 <!-- BLOG-POST-LIST:END -->
 
