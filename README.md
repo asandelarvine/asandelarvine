@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding goroutines in Go](https://dev.to/trulyursdelv/understanding-goroutines-in-go-3iia)
-- [Top 5 Magento Tactics to Optimize Speed, Security &amp; SEO](https://dev.to/webbycrownsolutions/top-5-magento-tactics-to-optimize-speed-security-seo-oo0)
-- [What is llms.txt?](https://dev.to/hayerhans/what-is-llmstxt-1hgg)
-- [Destruction order vs thread safety in C++](https://dev.to/pikotutorial/destruction-order-vs-thread-safety-in-c-1nc4)
+- [[Boost]](https://dev.to/blackscripts/-2dg0)
+- [Zexson Team YouTube Channel](https://dev.to/signor_p/zexson-team-youtube-channel-fc)
+- [Applications and Challenges of 3D Printing Technology in Mechanical Manufacturing](https://dev.to/illlis/applications-and-challenges-of-3d-printing-technology-in-mechanical-manufacturing-2p)
+- [In a World of AI Coders and Automation — Soft Skills Will Be Your Superpower](https://dev.to/codelikeandrew/in-a-world-of-ai-coders-and-automation-soft-skills-will-be-your-superpower-1hpd)
 <!-- BLOG-POST-LIST:END -->
 
