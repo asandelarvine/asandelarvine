@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stream PostgreSQL WALs with Zero Data Loss in Mind](https://dev.to/alzhi_f93e67fa45b972/stream-postgresql-wals-with-zero-data-loss-in-mind-5e17)
-- [GeoGuessr Mapmakers Disable Popular Maps in Protest of Esports World Cup Tournament](https://dev.to/gg_news/geoguessr-mapmakers-disable-popular-maps-in-protest-of-esports-world-cup-tournament-2g6i)
-- [Doom: The Dark Ages &#39;The Biggest Launch in id&#39;s History&#39; — but No Sales Figure Yet - IGN](https://dev.to/gg_news/doom-the-dark-ages-the-biggest-launch-in-ids-history-but-no-sales-figure-yet-ign-1gge)
-- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-4f6m)
+- [How to Stay Sane &lpar;and Stand Out&rpar; in a Crowded Job Market](https://dev.to/tlorent/how-to-stay-sane-and-stand-out-in-a-crowded-job-market-2b4n)
+- [I made a simple AI chatbot called LifeAI – no login, no ads, just chat. Try it here: https://lifeai.vercel.app](https://dev.to/fariz_lifvand_0b180d6cd22/hey-everyone-i-recently-launched-a-small-project-called-lifeai-a-lightweight-chatbot-ai-that-4l0)
+- [Dark Mode, Redux, and Quote APIs: A Dev Portfolio That’s More Than a Landing Pag](https://dev.to/ahmed_sherif_helmy_ahmed/dark-mode-redux-and-quote-apis-a-dev-portfolio-thats-more-than-a-landing-pag-1bm6)
+- [10 Python Tricks You Probably Didn’t Know 💡🐍](https://dev.to/nish2005karsh/10-python-tricks-you-probably-didnt-know-2bo4)
 <!-- BLOG-POST-LIST:END -->
 
