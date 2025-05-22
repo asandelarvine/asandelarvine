@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Looking for Contributors](https://dev.to/lovit_js/were-looking-for-contributors-1f52)
-- [&quot;Eu Só Aprendo na Prática&quot; - O Que Isso Realmente Significa e Por Que Pode Não Ser a Melhor Estratégia](https://dev.to/asouza/eu-so-aprendo-na-pratica-o-que-isso-realmente-significa-e-por-que-pode-nao-ser-a-melhor-1f07)
-- [React Router v7: la evolución que React necesitaba](https://dev.to/kevinccbsg/react-router-v7-la-evolucion-que-react-necesitaba-47pc)
-- [How to Begin RWA Tokenization: Key Stages](https://dev.to/vadym_info_polus/how-to-begin-rwa-tokenization-key-stages-5f96)
+- [WebAI - Using Google Built-in AI APIs](https://dev.to/aileenvl/webai-using-google-built-in-ai-apis-59g1)
+- [Mastering Vim: Buffers, Windows, and Your Text Editing Arsenal](https://dev.to/boonecabaldev/mastering-vim-buffers-windows-and-your-text-editing-arsenal-28ai)
+- [Automation and Humanity](https://dev.to/rawveg/automation-and-humanity-3jf8)
+- [[Boost] Basics of React server-side rendering with Express.js](https://dev.to/gnrlbzik/-27i6)
 <!-- BLOG-POST-LIST:END -->
 
