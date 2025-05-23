@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebAI - Using Google Built-in AI APIs](https://dev.to/aileenvl/webai-using-google-built-in-ai-apis-59g1)
-- [Mastering Vim: Buffers, Windows, and Your Text Editing Arsenal](https://dev.to/boonecabaldev/mastering-vim-buffers-windows-and-your-text-editing-arsenal-28ai)
-- [Automation and Humanity](https://dev.to/rawveg/automation-and-humanity-3jf8)
-- [[Boost] Basics of React server-side rendering with Express.js](https://dev.to/gnrlbzik/-27i6)
+- [LivinGrimoire&#39;s Exciting 11th Port](https://dev.to/owly/livingrimoires-exciting-11th-port-33me)
+- [Node.js&#39; config Library Shouldn&#39;t Be Used in TypeScript](https://dev.to/jesterxl/nodejs-config-library-shouldnt-be-used-in-typescript-48op)
+- [Why We Almost Gave Up on Our App—Until We Fixed the UX](https://dev.to/ryan_adam_ad956fc4a05e487/why-we-almost-gave-up-on-our-app-until-we-fixed-the-ux-5g8n)
+- [CS5OP Final Project](https://dev.to/jblenumerateur/cs5op-final-project-56b5)
 <!-- BLOG-POST-LIST:END -->
 
