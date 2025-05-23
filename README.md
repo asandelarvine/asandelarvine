@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Greedy Snake Built Using Amazon Q CLI and Amazon Q Extension](https://dev.to/aws-builders/greedy-snake-built-using-amazon-q-cli-and-amazon-q-extension-5691)
-- [How to test if a mocked component receives the correct props in Jest and RTL &lpar;new since React 19&rpar;](https://dev.to/peterlidee/how-to-test-if-a-mocked-component-receives-the-correct-props-in-jest-and-rtl-new-since-react-19-2240)
-- [CI/CD for Mobile vs. Web: Why Mobile Feels Like Herding Cats &lpar;and Web is Walk in the Park&rpar; 🐱🌐](https://dev.to/alex_aslam/cicd-for-mobile-vs-web-why-mobile-feels-like-herding-cats-and-web-is-walk-in-the-park-47fb)
-- [How to Build an Android App to Control Your Automatic Gate via Wi-Fi](https://dev.to/karen_londres/how-to-build-an-android-app-to-control-your-automatic-gate-via-wi-fi-2dd8)
+- [Caching in Frontend Development: A Guide to Faster and Smarter Web Apps](https://dev.to/toni_naumoski_mk/caching-in-frontend-development-a-guide-to-faster-and-smarter-web-apps-2de9)
+- [7 Modern Use Cases of IIFE](https://dev.to/ycmjason/7-modern-use-cases-of-iife-50ej)
+- [A Beginner’s Guide to Designing RESTful APIs in Node.js](https://dev.to/surajsundar/a-beginners-guide-to-designing-restful-apis-in-nodejs-1eh4)
+- [This is exactly what most remote teams are missing right now.](https://dev.to/zaramercer89/this-is-exactly-what-most-remote-teams-are-missing-right-now-3e19)
 <!-- BLOG-POST-LIST:END -->
 
