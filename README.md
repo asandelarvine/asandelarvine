@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey Developers! Let&#39;s Talk About Your Toolkit! 🧰💻](https://dev.to/hanzla-baig/hey-developers-lets-talk-about-your-toolkit-3oc2)
-- [Stac: Server Driven UI framework for Flutter](https://dev.to/smartterss/stac-server-driven-ui-framework-for-flutter-701)
-- [pnpm vs npm vs yarn: আপনার প্রোজেক্টে কোনটা ব্যবহার করা উচিত?](https://dev.to/rironib/pnpm-vs-npm-vs-yarn-aapnaar-projektte-konttaa-bybhaar-kraa-ucit-35fa)
-- [8 Memes That Perfectly Capture the Chaos of Developer Life](https://dev.to/bob_3c3f7eea794d453be29ee/8-memes-that-perfectly-capture-the-chaos-of-developer-life-2jo7)
+- [Frontend vs. Backend Dev&#39;t: Did We Go Too Far?](https://dev.to/okedialf/frontend-vs-backend-devt-did-we-go-too-far-1c4n)
+- [Interstellar Insights: Visualizing Length Contraction and Time Dilation](https://dev.to/gerryleonugroho/interstellar-insights-visualizing-length-contraction-and-time-dilation-63p)
+- [Choosing the Right APM Software: 5 Key Factors to Consider](https://dev.to/olivia_madison_b0ad7090ad/choosing-the-right-apm-software-5-key-factors-to-consider-4kfm)
+- [Mengatur Registry CmderMini di Windows 11](https://dev.to/pandito__/mengatur-registry-cmdermini-di-windows-11-3anb)
 <!-- BLOG-POST-LIST:END -->
 
