@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a NEPSE Share Calculator for Nepal’s Stock Traders – Here’s Why &amp; How](https://dev.to/iamvibecoder/i-built-a-nepse-share-calculator-for-nepals-stock-traders-heres-why-how-42a1)
-- [Active Record: O Coração dos Modelos no Rails](https://dev.to/marcosfernandesdev/active-record-o-coracao-dos-modelos-no-rails-2gdp)
-- [Taming Your First Docker Build in 5 Minutes](https://dev.to/infraforge-dev/taming-your-first-docker-build-in-5-minutes-2nod)
-- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
+- [What’s the Most Overlooked Aspect of Web Design?](https://dev.to/codeliner/whats-the-most-overlooked-aspect-of-web-design-84a)
+- [🫰🏼🫰🏼Why Do Every Tech YouTuber Try to Sell You a Course?](https://dev.to/chaoocharles/why-do-every-tech-youtuber-try-to-sell-you-a-course-3f1f)
+- [🚀 Building My Own Mars Rover Simulator with Python &amp; Tkinter](https://dev.to/supun_wickramarachchi_e74/building-my-own-mars-rover-simulator-with-python-tkinter-566d)
+- [Claude 4 is now available on Polite AI](https://dev.to/politeai/claude-4-is-now-available-on-polite-ai-2jhh)
 <!-- BLOG-POST-LIST:END -->
 
