@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LivinGrimoire&#39;s Exciting 11th Port](https://dev.to/owly/livingrimoires-exciting-11th-port-33me)
-- [Node.js&#39; config Library Shouldn&#39;t Be Used in TypeScript](https://dev.to/jesterxl/nodejs-config-library-shouldnt-be-used-in-typescript-48op)
-- [Why We Almost Gave Up on Our App—Until We Fixed the UX](https://dev.to/ryan_adam_ad956fc4a05e487/why-we-almost-gave-up-on-our-app-until-we-fixed-the-ux-5g8n)
-- [CS5OP Final Project](https://dev.to/jblenumerateur/cs5op-final-project-56b5)
+- [login &amp; signup form with html css &amp; javascript](https://dev.to/baybin_baby_30c68118f4908/login-signup-form-with-html-css-javascript-o2i)
+- [Beginner’s Guide to Exception Handling in Spring Boot](https://dev.to/mohammedquasimda/beginners-guide-to-exception-handling-in-spring-boot-mo7)
+- [DevLog 20250522: Serverles &amp; Serverside vs Client Side Rendering](https://dev.to/methodox/devlog-20250522-serverles-serverside-vs-client-side-rendering-2n0h)
+- [🧑‍💻 Want to Become a Full Stack Developer? Here&#39;s Your Step-by-Step Roadmap 🚀 2025](https://dev.to/saif_uddin/want-to-become-a-full-stack-developer-heres-your-step-by-step-roadmap-2025-405k)
 <!-- BLOG-POST-LIST:END -->
 
