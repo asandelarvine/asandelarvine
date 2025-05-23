@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RxDB](https://dev.to/thevlpha/rxdb--36bc)
-- [This content feels grounded in real experience. It’s rare to find something so honest and useful.](https://dev.to/alexbenshoof/this-content-feels-grounded-in-real-experience-its-rare-to-find-something-so-honest-and-useful-3449)
-- [The Swiss Army Knife of Vector Graphics Scripting](https://dev.to/gnrlbzik/the-swiss-army-knife-of-vector-graphics-scripting-48hj)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1pm4)
+- [Greedy Snake Built Using Amazon Q CLI and Amazon Q Extension](https://dev.to/aws-builders/greedy-snake-built-using-amazon-q-cli-and-amazon-q-extension-5691)
+- [How to test if a mocked component receives the correct props in Jest and RTL &lpar;new since React 19&rpar;](https://dev.to/peterlidee/how-to-test-if-a-mocked-component-receives-the-correct-props-in-jest-and-rtl-new-since-react-19-2240)
+- [CI/CD for Mobile vs. Web: Why Mobile Feels Like Herding Cats &lpar;and Web is Walk in the Park&rpar; 🐱🌐](https://dev.to/alex_aslam/cicd-for-mobile-vs-web-why-mobile-feels-like-herding-cats-and-web-is-walk-in-the-park-47fb)
+- [How to Build an Android App to Control Your Automatic Gate via Wi-Fi](https://dev.to/karen_londres/how-to-build-an-android-app-to-control-your-automatic-gate-via-wi-fi-2dd8)
 <!-- BLOG-POST-LIST:END -->
 
