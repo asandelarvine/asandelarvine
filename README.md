@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MCP-I: A New Identity Standard for AI Agents](https://dev.to/h0bb5/introducing-mcp-i-a-new-identity-standard-for-ai-agents-f1g)
-- [The Tiny Cat Guide to AI #4: LLM Evaluation – Is Your AI on Catnip? &lpar;Spotting Hallucinations&rpar;](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-4-llm-evaluation-is-your-ai-on-catnip-spotting-hallucinations-2bb2)
-- [Just Code, Chaos, and One Hell of a Plot Twist](https://dev.to/rishu_kumar_671d7d3f68642/just-code-chaos-and-one-hell-of-a-plot-twist-1bio)
-- [LocoLama – Local AI Chat Terminal Using Ollama + Next.js &lpar;DROP002&rpar;](https://dev.to/godsimijempire/locolama-local-ai-chat-terminal-using-ollama-nextjs-drop002-59j8)
+- [# 🧩 nodeBond: Lightweight IPC for Node.js — revived and improved](https://dev.to/xzdes/-nodebond-lightweight-ipc-for-nodejs-revived-and-improved-3fbe)
+- [Kotlin for AI-Powered App Development](https://dev.to/code_2/kotlin-for-ai-powered-app-development-18k1)
+- [First post &lpar;ദ്ദി • • &rpar;](https://dev.to/etherealedith/first-post-ddi--1e16)
+- [AI Trap for beginner programmers](https://dev.to/etherealedith/ai-trap-for-programmers-beginners-372i)
 <!-- BLOG-POST-LIST:END -->
 
