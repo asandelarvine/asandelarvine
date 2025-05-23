@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open Source Auth Glue: authentik](https://dev.to/lovestaco/the-open-source-auth-glue-authentik-5hbg)
-- [Por qué escalar un producto antes de validarlo puede ser tu mayor error &lpar;y qué aprendimos de los gigantes&rpar;](https://dev.to/wikytzone/por-que-escalar-un-producto-antes-de-validarlo-puede-ser-tu-mayor-error-y-que-aprendimos-de-los-2g06)
-- [Next.js 15 App Router Caching: Why Self-Hosted Apps Need Redis &lpar;And How to Implement It&rpar;](https://dev.to/technnik/nextjs-15-app-router-caching-why-self-hosted-apps-need-redis-and-how-to-implement-it-23op)
-- [I Turned LinkedIn Recruiter Spam Into a Customer Funnel](https://dev.to/jose_d2bdebc87edd0151585f/i-turned-linkedin-recruiter-spam-into-a-customer-funnel-4g8o)
+- [Introducing MCP-I: A New Identity Standard for AI Agents](https://dev.to/h0bb5/introducing-mcp-i-a-new-identity-standard-for-ai-agents-f1g)
+- [The Tiny Cat Guide to AI #4: LLM Evaluation – Is Your AI on Catnip? &lpar;Spotting Hallucinations&rpar;](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-4-llm-evaluation-is-your-ai-on-catnip-spotting-hallucinations-2bb2)
+- [Just Code, Chaos, and One Hell of a Plot Twist](https://dev.to/rishu_kumar_671d7d3f68642/just-code-chaos-and-one-hell-of-a-plot-twist-1bio)
+- [LocoLama – Local AI Chat Terminal Using Ollama + Next.js &lpar;DROP002&rpar;](https://dev.to/godsimijempire/locolama-local-ai-chat-terminal-using-ollama-nextjs-drop002-59j8)
 <!-- BLOG-POST-LIST:END -->
 
