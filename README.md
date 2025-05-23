@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend vs. Backend Dev&#39;t: Did We Go Too Far?](https://dev.to/okedialf/frontend-vs-backend-devt-did-we-go-too-far-1c4n)
-- [Interstellar Insights: Visualizing Length Contraction and Time Dilation](https://dev.to/gerryleonugroho/interstellar-insights-visualizing-length-contraction-and-time-dilation-63p)
-- [Choosing the Right APM Software: 5 Key Factors to Consider](https://dev.to/olivia_madison_b0ad7090ad/choosing-the-right-apm-software-5-key-factors-to-consider-4kfm)
-- [Mengatur Registry CmderMini di Windows 11](https://dev.to/pandito__/mengatur-registry-cmdermini-di-windows-11-3anb)
+- [A Website Without a Strategy Behind it Is Doomed to Fail](https://dev.to/web_dev-usman/a-website-without-a-strategy-behind-it-is-doomed-to-fail-47m4)
+- [5G-Ready Web Application Development](https://dev.to/bridgegroupsolutions/5g-ready-web-application-development-1pkn)
+- [How to Build a Mobile App Using Free AI Tools: My Journey with Splitup](https://dev.to/ibrahim_broach/how-to-build-a-mobile-app-using-free-ai-tools-my-journey-with-splitup-gk5)
+- [【HarmonyOS 5】如何给未知类型对象定义类型并使用递归打印所有的Key](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-guan-jian-zi-chan-cun-chu-kai-fa-an-li-5cg8)
 <!-- BLOG-POST-LIST:END -->
 
