@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Build and Run Your First Distributed HarmonyOS App in 15 Minutes &lpar;HarmonyOS 5.0.0 or high&rpar;](https://dev.to/marxu/build-and-run-your-first-distributed-harmonyos-app-in-15-minutes-harmonyos-500-or-high-115o)
-- [Risk Management: The Invisible Skill That Separates Great Project Managers From the Rest](https://dev.to/okoye_ndidiamaka_5e3b7d30/risk-management-the-invisible-skill-that-separates-great-project-managers-from-the-rest-1e37)
-- [When to use a Class Component? When to use a Function Component?](https://dev.to/nedajahanfar/when-to-use-a-class-component-when-to-use-a-function-component-44h7)
-- [Unlock the Power of High-Quality Software Tools and Datasets with Product Bank](https://dev.to/shepherdholdt82/unlock-the-power-of-high-quality-software-tools-and-datasets-with-product-bank-4cde)
+- [Understanding the Options Pattern in .NET Core](https://dev.to/vimaltwit/understanding-the-options-pattern-in-net-core-j1j)
+- [Why Every Developer Should Understand Lithium Batteries in the Age of Portable Everything](https://dev.to/docy/why-every-developer-should-understand-lithium-batteries-in-the-age-of-portable-everything-4oh1)
+- [My Journey Into Frontend Development &lpar;And What I’m Learning&rpar;](https://dev.to/senzy01/my-journey-into-frontend-development-and-what-im-learning-4h3)
+- [🧠 The S-400 and Smart Defense: How AI Algorithms Could Revolutionize Automated Air Defense](https://dev.to/yashforsure/the-s-400-and-smart-defense-how-ai-algorithms-could-revolutionize-automated-air-defense-1d0a)
 <!-- BLOG-POST-LIST:END -->
 
