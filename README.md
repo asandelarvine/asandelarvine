@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🧩 nodeBond: Lightweight IPC for Node.js — revived and improved](https://dev.to/xzdes/-nodebond-lightweight-ipc-for-nodejs-revived-and-improved-3fbe)
-- [Kotlin for AI-Powered App Development](https://dev.to/code_2/kotlin-for-ai-powered-app-development-18k1)
-- [First post &lpar;ദ്ദി • • &rpar;](https://dev.to/etherealedith/first-post-ddi--1e16)
-- [AI Trap for beginner programmers](https://dev.to/etherealedith/ai-trap-for-programmers-beginners-372i)
+- [🔄 Automate Laravel Migrations After - git pull — A Simple Local Setup for Teams](https://dev.to/tahsin000/automate-laravel-migrations-after-git-pull-a-simple-local-setup-for-teams-89m)
+- [IEnumerable vs IReadOnlyList in .NET: When Should You Use Each?](https://dev.to/infraforge-dev/ienumerable-vs-ireadonlylist-in-net-when-should-you-use-each-4p5b)
+- [Understanding Lifetimes with Real-World Analogy](https://dev.to/sgchris/understanding-lifetimes-with-real-world-analogy-3n3k)
+- [🧠 The Silence That Shipped Nothing: A Psychological Postmortem of My Fake Startup](https://dev.to/copyleftdev/the-silence-that-shipped-nothing-a-psychological-postmortem-of-my-fake-startup-39ph)
 <!-- BLOG-POST-LIST:END -->
 
