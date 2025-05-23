@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Winston, a logger for just about everything.](https://dev.to/ramunarasinga-11/winston-a-logger-for-just-about-everything-21a6)
-- [DaisyUI vs. shadcn/ui: A Clear Comparison for Frontend Devs 🎨](https://dev.to/truonggiangne/daisyui-vs-shadcnui-a-clear-comparison-for-frontend-devs-f0l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
-- [Anime Design Pattern](https://dev.to/simwai/anime-design-pattern-1l9o)
+- [Hey Developers! Let&#39;s Talk About Your Toolkit! 🧰💻](https://dev.to/hanzla-baig/hey-developers-lets-talk-about-your-toolkit-3oc2)
+- [Stac: Server Driven UI framework for Flutter](https://dev.to/smartterss/stac-server-driven-ui-framework-for-flutter-701)
+- [pnpm vs npm vs yarn: আপনার প্রোজেক্টে কোনটা ব্যবহার করা উচিত?](https://dev.to/rironib/pnpm-vs-npm-vs-yarn-aapnaar-projektte-konttaa-bybhaar-kraa-ucit-35fa)
+- [8 Memes That Perfectly Capture the Chaos of Developer Life](https://dev.to/bob_3c3f7eea794d453be29ee/8-memes-that-perfectly-capture-the-chaos-of-developer-life-2jo7)
 <!-- BLOG-POST-LIST:END -->
 
