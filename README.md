@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [26 Freelancers Followed Me Yesterday — Here’s the Legal Lesson Behind That Surge](https://dev.to/petro_savchenko_77/23-freelancers-followed-me-yesterday-heres-the-legal-lesson-behind-that-surge-4m0h)
-- [Day 15-Cloning the X &lpar;Twitter&rpar; Login Page with HTML and CSS: A Front-End Practice Project 🌐](https://dev.to/tamilselvan1812/day-15-cloning-the-x-twitter-login-page-with-html-and-css-a-front-end-practice-project-1c8g)
-- [Azure CloudOps Control Tower: Effortless Azure Infrastructure with Terraform](https://dev.to/daniel_ntim_7b0da30f70442/azure-cloudops-control-tower-effortless-azure-infrastructure-with-terraform-3e15)
-- [How I Used Edge-TTS to Build a Free Online Text-to-Speech Site](https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9)
+- [RxDB](https://dev.to/thevlpha/rxdb--36bc)
+- [This content feels grounded in real experience. It’s rare to find something so honest and useful.](https://dev.to/alexbenshoof/this-content-feels-grounded-in-real-experience-its-rare-to-find-something-so-honest-and-useful-3449)
+- [The Swiss Army Knife of Vector Graphics Scripting](https://dev.to/gnrlbzik/the-swiss-army-knife-of-vector-graphics-scripting-48hj)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1pm4)
 <!-- BLOG-POST-LIST:END -->
 
