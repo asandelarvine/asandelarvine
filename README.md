@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Stitch: The New AI UI Design Tool That Turns Prompts into Pixel-Perfect Interfaces](https://dev.to/rahulgithubweb/google-stitch-the-new-ai-ui-design-tool-that-turns-prompts-into-pixel-perfect-interfaces-461d)
-- [Building a Shared AI Memory System: How I Connected Claude Desktop and VS Code Through Vagrant](https://dev.to/svenlito/building-a-shared-ai-memory-system-how-i-connected-claude-desktop-and-vs-code-through-vagrant-2280)
-- [Reversing a string](https://dev.to/heli9/reversing-a-string-3d8n)
-- [How Introverted Engineering Managers Thrive Under Pressure](https://dev.to/devunionx/how-introverted-engineering-managers-thrive-under-pressure-39lk)
+- [The Open Source Auth Glue: authentik](https://dev.to/lovestaco/the-open-source-auth-glue-authentik-5hbg)
+- [Por qué escalar un producto antes de validarlo puede ser tu mayor error &lpar;y qué aprendimos de los gigantes&rpar;](https://dev.to/wikytzone/por-que-escalar-un-producto-antes-de-validarlo-puede-ser-tu-mayor-error-y-que-aprendimos-de-los-2g06)
+- [Next.js 15 App Router Caching: Why Self-Hosted Apps Need Redis &lpar;And How to Implement It&rpar;](https://dev.to/technnik/nextjs-15-app-router-caching-why-self-hosted-apps-need-redis-and-how-to-implement-it-23op)
+- [I Turned LinkedIn Recruiter Spam Into a Customer Funnel](https://dev.to/jose_d2bdebc87edd0151585f/i-turned-linkedin-recruiter-spam-into-a-customer-funnel-4g8o)
 <!-- BLOG-POST-LIST:END -->
 
