@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CSS: Mastering Animations with JavaScript By AIDOMOAN SENAKPON GODFROY –Tech Writer | Developer | Animation Enthusiast](https://dev.to/godfroy_tech/beyond-css-mastering-animations-with-javascript-by-aidomoan-senakpon-godfroy-tech-writer--4n35)
-- [🧠 Microsoft Lays Off 6,000 Employees to Prioritize AI – What This Means for Tech Jobs](https://dev.to/techbooktrends_58f8ebcb4b/microsoft-lays-off-6000-employees-to-prioritize-ai-what-this-means-for-tech-jobs-2mho)
-- [Why Every Business Needs a Smart Data Sourcing Strategy](https://dev.to/samuel_mitter_06d9e3f9c78/why-every-business-needs-a-smart-data-sourcing-strategy-4loo)
-- [How to Perform a Local SEO Audit for Your Business](https://dev.to/threeglogic3/how-to-perform-a-local-seo-audit-for-your-business-1d0e)
+- [🌐 Build and Run Your First Distributed HarmonyOS App in 15 Minutes &lpar;HarmonyOS 5.0.0 or high&rpar;](https://dev.to/marxu/build-and-run-your-first-distributed-harmonyos-app-in-15-minutes-harmonyos-500-or-high-115o)
+- [Risk Management: The Invisible Skill That Separates Great Project Managers From the Rest](https://dev.to/okoye_ndidiamaka_5e3b7d30/risk-management-the-invisible-skill-that-separates-great-project-managers-from-the-rest-1e37)
+- [When to use a Class Component? When to use a Function Component?](https://dev.to/nedajahanfar/when-to-use-a-class-component-when-to-use-a-function-component-44h7)
+- [Unlock the Power of High-Quality Software Tools and Datasets with Product Bank](https://dev.to/shepherdholdt82/unlock-the-power-of-high-quality-software-tools-and-datasets-with-product-bank-4cde)
 <!-- BLOG-POST-LIST:END -->
 
