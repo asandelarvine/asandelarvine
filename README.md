@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Microsoft 365 Apps Every Business Should Use in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/top-7-microsoft-365-apps-every-business-should-use-in-2025-30cp)
-- [Maximizing Efficiency with Fleet Fuel Management: The Smart Move for Modern Fleet Operations](https://dev.to/hypernym_io/maximizing-efficiency-with-fleet-fuel-management-the-smart-move-for-modern-fleet-operations-47bi)
-- [🎓 How to become a product data expert with Sentric Academy &lpar;free and online&rpar;](https://dev.to/irene_beghini/how-to-become-a-product-data-expert-with-sentric-academy-free-and-online-40e4)
-- [Abstract Factory Pattern – A DevBlog You’ll Actually Read](https://dev.to/syedyshiraz/abstract-factory-pattern-a-devblog-youll-actually-read-21n2)
+- [SQL vs. NoSQL | Schema Design Differences Explained Visually](https://dev.to/roxana_haidiner/sql-vs-nosql-schema-design-differences-explained-visually-365g)
+- [CyberChef](https://dev.to/byteknight/cyberchef-480a)
+- [Part 1: How to Start HarmonyOS App Development?](https://dev.to/xhunmon/part-1-how-to-start-harmonyos-app-development-2g30)
+- [Loyverse Amazon Integration by SKUplugs: Seamless Retail Synchronization](https://dev.to/mary_lindsay/loyverse-amazon-integration-by-skuplugs-seamless-retail-synchronization-5162)
 <!-- BLOG-POST-LIST:END -->
 
