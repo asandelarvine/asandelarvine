@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the Most Overlooked Aspect of Web Design?](https://dev.to/codeliner/whats-the-most-overlooked-aspect-of-web-design-84a)
-- [🫰🏼🫰🏼Why Do Every Tech YouTuber Try to Sell You a Course?](https://dev.to/chaoocharles/why-do-every-tech-youtuber-try-to-sell-you-a-course-3f1f)
-- [🚀 Building My Own Mars Rover Simulator with Python &amp; Tkinter](https://dev.to/supun_wickramarachchi_e74/building-my-own-mars-rover-simulator-with-python-tkinter-566d)
-- [Claude 4 is now available on Polite AI](https://dev.to/politeai/claude-4-is-now-available-on-polite-ai-2jhh)
+- [Google Stitch: The New AI UI Design Tool That Turns Prompts into Pixel-Perfect Interfaces](https://dev.to/rahulgithubweb/google-stitch-the-new-ai-ui-design-tool-that-turns-prompts-into-pixel-perfect-interfaces-461d)
+- [Building a Shared AI Memory System: How I Connected Claude Desktop and VS Code Through Vagrant](https://dev.to/svenlito/building-a-shared-ai-memory-system-how-i-connected-claude-desktop-and-vs-code-through-vagrant-2280)
+- [Reversing a string](https://dev.to/heli9/reversing-a-string-3d8n)
+- [How Introverted Engineering Managers Thrive Under Pressure](https://dev.to/devunionx/how-introverted-engineering-managers-thrive-under-pressure-39lk)
 <!-- BLOG-POST-LIST:END -->
 
