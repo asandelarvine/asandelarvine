@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL vs. NoSQL | Schema Design Differences Explained Visually](https://dev.to/roxana_haidiner/sql-vs-nosql-schema-design-differences-explained-visually-365g)
-- [CyberChef](https://dev.to/byteknight/cyberchef-480a)
-- [Part 1: How to Start HarmonyOS App Development?](https://dev.to/xhunmon/part-1-how-to-start-harmonyos-app-development-2g30)
-- [Loyverse Amazon Integration by SKUplugs: Seamless Retail Synchronization](https://dev.to/mary_lindsay/loyverse-amazon-integration-by-skuplugs-seamless-retail-synchronization-5162)
+- [26 Freelancers Followed Me Yesterday — Here’s the Legal Lesson Behind That Surge](https://dev.to/petro_savchenko_77/23-freelancers-followed-me-yesterday-heres-the-legal-lesson-behind-that-surge-4m0h)
+- [Day 15-Cloning the X &lpar;Twitter&rpar; Login Page with HTML and CSS: A Front-End Practice Project 🌐](https://dev.to/tamilselvan1812/day-15-cloning-the-x-twitter-login-page-with-html-and-css-a-front-end-practice-project-1c8g)
+- [Azure CloudOps Control Tower: Effortless Azure Infrastructure with Terraform](https://dev.to/daniel_ntim_7b0da30f70442/azure-cloudops-control-tower-effortless-azure-infrastructure-with-terraform-3e15)
+- [How I Used Edge-TTS to Build a Free Online Text-to-Speech Site](https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9)
 <!-- BLOG-POST-LIST:END -->
 
