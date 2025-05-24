@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/godofgeeks/azure-kubernetes-service-aks-j47)
-- [🎯 Build a Terminal Task Manager in Python with pyfiglet and rich!!!](https://dev.to/nish2005karsh/build-a-terminal-task-manager-in-python-with-pyfiglet-and-rich-24fh)
-- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
-- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
+- [Day 8 - Attribute Binding in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/day-8-attribute-binding-in-vue-3-svelte-5-and-angular-3ncc)
+- [Build a Full Backend Without Coding – A Beginner’s Guide to Strapi Headless CMS](https://dev.to/anil_krishna_296fa66237d5/build-a-full-backend-without-coding-a-beginners-guide-to-strapi-headless-cms-34g4)
+- [“AI Agents in Action” book: A Deep Dive into the Future of Intelligent Systems](https://dev.to/aairom/ai-agents-in-action-book-a-deep-dive-into-the-future-of-intelligent-systems-n1)
+- [Advanced Use of Function.prototype.bind in JS](https://dev.to/omriluz1/advanced-use-of-functionprototypebind-in-js-1oh0)
 <!-- BLOG-POST-LIST:END -->
 
