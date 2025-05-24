@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Automate Laravel Migrations After - git pull — A Simple Local Setup for Teams](https://dev.to/tahsin000/automate-laravel-migrations-after-git-pull-a-simple-local-setup-for-teams-89m)
-- [IEnumerable vs IReadOnlyList in .NET: When Should You Use Each?](https://dev.to/infraforge-dev/ienumerable-vs-ireadonlylist-in-net-when-should-you-use-each-4p5b)
-- [Understanding Lifetimes with Real-World Analogy](https://dev.to/sgchris/understanding-lifetimes-with-real-world-analogy-3n3k)
-- [🧠 The Silence That Shipped Nothing: A Psychological Postmortem of My Fake Startup](https://dev.to/copyleftdev/the-silence-that-shipped-nothing-a-psychological-postmortem-of-my-fake-startup-39ph)
+- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
+- [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
+- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
+- [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
 <!-- BLOG-POST-LIST:END -->
 
