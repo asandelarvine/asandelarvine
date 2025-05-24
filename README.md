@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket 请求通过 CDN 返回 403 Forbidden 的问题排查与解决](https://dev.to/truman_999999999/websocket-qing-qiu-tong-guo-cdn-fan-hui-403-forbidden-de-wen-ti-pai-cha-yu-jie-jue-lo4)
-- [In this walkthrough, we’ll show how to build a semantic image search engine powered by multimodal AI – searchable with natural language in real time, with data insight to understand what’s going on step by step.](https://dev.to/badmonster0/in-this-walkthrough-well-show-how-to-build-a-semantic-image-search-engine-powered-by-multimodal-150n)
-- [Securing Quarkus Microservices via Kong API Gateway](https://dev.to/djamware_tutorial_eba1a61/securing-quarkus-microservices-via-kong-api-gateway-38kh)
-- [Seccomp in Docker: Reducing Kernel Attack Surface with System Call Filtering](https://dev.to/hexshift/seccomp-in-docker-reducing-kernel-attack-surface-with-system-call-filtering-2654)
+- [The Role of AI in Shaping Political Campaigns and Elections](https://dev.to/bridgegroupsolutions/the-role-of-ai-in-shaping-political-campaigns-and-elections-74f)
+- [Precision v/s Recall in Machine Learning](https://dev.to/lea_abraham_7a0232a6cd616/precision-vs-recall-in-machine-learning-41af)
+- [TypeScript Operators: Types, Usage, and Examples](https://dev.to/rishabhtpt/typescript-operators-types-usage-and-examples-3g1)
+- [CSS Tutorial for Web Developers: Modern Layouts and Responsive Design](https://dev.to/pythontutorial/css-tutorial-for-web-developers-modern-layouts-and-responsive-design-3oh7)
 <!-- BLOG-POST-LIST:END -->
 
