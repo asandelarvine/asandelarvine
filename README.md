@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async ဆိုတာဘယ်လိုမျိုးလဲ](https://dev.to/myozawlatt/async-chiuttaabhyliumiulai-2bm)
-- [Mental Math Hacks: Swift Estimations of Powers and Roots for Programmers](https://dev.to/josemariairiarte/mental-math-hacks-swift-estimations-of-powers-and-roots-for-programmers-321m)
-- [I created a code search tool made in Flask.](https://dev.to/coder_acco/i-created-a-code-search-tool-made-in-flask-g58)
-- [I created a code search too made in Flask.](https://dev.to/coder_acco/i-created-a-code-search-too-made-in-flask-2fhb)
+- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
+- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
+- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
 <!-- BLOG-POST-LIST:END -->
 
