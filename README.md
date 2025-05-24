@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS KMS vs. AWS Certificate Manager: The Ultimate Guide to Cloud Security Layers](https://dev.to/pkkolla/aws-kms-vs-aws-certificate-manager-the-ultimate-guide-to-cloud-security-layers-4hem)
-- [Writing Kubernetes Manifests: From Beginner to Advanced](https://dev.to/haswanth/writing-kubernetes-manifests-from-beginner-to-advanced-3pgb)
-- [SPEEDTEST](https://dev.to/brian_oiko_5c72fb6a37124b/speedtest-1opd)
-- [Ever Wondered How Powerful a Well-Written Prompt Can Be?](https://dev.to/shariya_shuvo/ever-wondered-how-powerful-a-well-written-prompt-can-be-8ee)
+- [How to Use Docker Compose and Python to Automate Your Jenkins Environment](https://dev.to/vvakim/how-to-use-docker-compose-and-python-to-automate-your-jenkins-environment-3eg7)
+- [Understanding the Basics of REST APIs](https://dev.to/mohamed-riham/understanding-the-basics-of-rest-apis-2ngp)
+- [◼️14/100 Block-by-Block: Decentralized Science &lpar;DeSci&rpar;](https://dev.to/nocibambi/14100-block-by-block-decentralized-science-desci-3901)
+- [React 19 Game Changer Hooks](https://dev.to/arunez/react-19-game-changer-hooks-49gp)
 <!-- BLOG-POST-LIST:END -->
 
