@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Reviews Suck. Here’s What Helped &lpar;and Where It Can Break&rpar;](https://dev.to/xxkiraxx/code-reviews-suck-heres-what-helped-and-where-it-can-break-50hg)
-- [Export HTML Tables to PowerPoint with WebView2 and VSTO](https://dev.to/adilkhan/export-html-tables-to-powerpoint-with-webview2-and-vsto-1fem)
-- [Getting Started with Amazon Q Developer CLI by Building a Game](https://dev.to/rash522/getting-started-with-amazon-q-developer-cli-by-building-a-game-1c8)
-- [Your Code Passed. Now What?](https://dev.to/tonystpierre/your-code-passed-now-what-3m69)
+- [Retrieving System MAC Address Across OS Platforms](https://dev.to/wildshark/retrieving-system-mac-address-across-os-platforms-3fjo)
+- [How to install Maven &lpar;Apache Maven&rpar; on Windows 11?](https://dev.to/yofreormaza/how-to-install-maven-apache-maven-on-windows-11-33e8)
+- [Ultra Fast Colab I Just Deleted Pip from a Colab Notebook, and IT STILL WORKED!](https://dev.to/phoenix_stormjr_cce7d09/ultra-fast-colab-i-just-deleted-pip-from-a-colab-notebook-and-it-still-worked-23nk)
+- [T vs any in TypeScript](https://dev.to/bdavidxyz/t-vs-any-in-typescript-59ol)
 <!-- BLOG-POST-LIST:END -->
 
