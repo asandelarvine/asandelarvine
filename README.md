@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup and configure NGINX on Ubuntu](https://dev.to/vishnusatheesh/how-to-setup-and-configure-nginx-on-ubuntu-3ol8)
-- [Can You Share an Image as an Audio File? Yes—Here’s How It Works ?](https://dev.to/prasadjoshi660/can-you-share-an-image-as-an-audio-file-yes-heres-how-it-works--3e2)
-- [[Boost]](https://dev.to/toanld/-21dl)
-- [Key Factors Affecting Cloud Migration ROI](https://dev.to/emma_wags_8dd9b74533690da/key-factors-affecting-cloud-migration-roi-2gpd)
+- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
+- [Building a Dynamic User Profile Dashboard with GraphQL](https://dev.to/johneliud/building-a-dynamic-user-profile-dashboard-with-graphql-670)
+- [UIKit Previews in Xcode](https://dev.to/markkazakov/uikit-previews-in-xcode-1i77)
+- [future of gaming](https://dev.to/nkkone/ccg-arg-ai-11fb)
 <!-- BLOG-POST-LIST:END -->
 
