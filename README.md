@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
-- [Building a Dynamic User Profile Dashboard with GraphQL](https://dev.to/johneliud/building-a-dynamic-user-profile-dashboard-with-graphql-670)
-- [UIKit Previews in Xcode](https://dev.to/markkazakov/uikit-previews-in-xcode-1i77)
-- [future of gaming](https://dev.to/nkkone/ccg-arg-ai-11fb)
+- [CSS and HTML Tricks: A Comprehensive Guide](https://dev.to/ahmed_niazy/css-and-html-tricks-a-comprehensive-guide-1kb1)
+- [Docs Weren’t Enough? Here’s the Real Smart UI + Storybook Guide](https://dev.to/archabajpai/docs-werent-enough-heres-the-real-smart-ui-storybook-guide-4lhi)
+- [React’s Four Horsemen of the Frontendpocalypse](https://dev.to/lovestaco/reacts-four-horsemen-of-the-frontendpocalypse-52hh)
+- [Deep Dive into JavaScript&#39;s Call Stack and Heap](https://dev.to/omriluz1/deep-dive-into-javascripts-call-stack-and-heap-m9l)
 <!-- BLOG-POST-LIST:END -->
 
