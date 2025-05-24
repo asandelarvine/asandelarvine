@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Shaping Political Campaigns and Elections](https://dev.to/bridgegroupsolutions/the-role-of-ai-in-shaping-political-campaigns-and-elections-74f)
-- [Precision v/s Recall in Machine Learning](https://dev.to/lea_abraham_7a0232a6cd616/precision-vs-recall-in-machine-learning-41af)
-- [TypeScript Operators: Types, Usage, and Examples](https://dev.to/rishabhtpt/typescript-operators-types-usage-and-examples-3g1)
-- [CSS Tutorial for Web Developers: Modern Layouts and Responsive Design](https://dev.to/pythontutorial/css-tutorial-for-web-developers-modern-layouts-and-responsive-design-3oh7)
+- [Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/godofgeeks/azure-kubernetes-service-aks-j47)
+- [🎯 Build a Terminal Task Manager in Python with pyfiglet and rich!!!](https://dev.to/nish2005karsh/build-a-terminal-task-manager-in-python-with-pyfiglet-and-rich-24fh)
+- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
+- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
 <!-- BLOG-POST-LIST:END -->
 
