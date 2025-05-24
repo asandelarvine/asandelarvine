@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN App Deployed on Kubernetes | 3 TIER WEB APPLICATION via Kubeadm](https://dev.to/devops_methodology_d2b67f/mern-app-deployed-on-kubernetes-3-tier-web-application-via-kubeadm-4ndh)
-- [Laravel 12 Remove Public from URL](https://dev.to/mshsayket/laravel-12-remove-public-from-url-4m2g)
-- [[Boost]](https://dev.to/markjackmilian/-48ie)
-- [Who’s Afraid of the Liskov Substitution Principle?](https://dev.to/markjackmilian/whos-afraid-of-the-liskov-substitution-principle-4mfl)
+- [50 DevOps Project Ideas to Build Your Skills: From Beginner to Advanced](https://dev.to/haswanth/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-bal)
+- [A New Era of Agent Native Applications](https://dev.to/ilbets/a-new-era-of-agent-native-applications-515n)
+- [How to Control an Iron Fence with a Microcontroller and IoT Sensors](https://dev.to/karen_londres/how-to-control-an-iron-fence-with-a-microcontroller-and-iot-sensors-59n1)
+- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
 <!-- BLOG-POST-LIST:END -->
 
