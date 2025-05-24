@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS and HTML Tricks: A Comprehensive Guide](https://dev.to/ahmed_niazy/css-and-html-tricks-a-comprehensive-guide-1kb1)
-- [Docs Weren’t Enough? Here’s the Real Smart UI + Storybook Guide](https://dev.to/archabajpai/docs-werent-enough-heres-the-real-smart-ui-storybook-guide-4lhi)
-- [React’s Four Horsemen of the Frontendpocalypse](https://dev.to/lovestaco/reacts-four-horsemen-of-the-frontendpocalypse-52hh)
-- [Deep Dive into JavaScript&#39;s Call Stack and Heap](https://dev.to/omriluz1/deep-dive-into-javascripts-call-stack-and-heap-m9l)
+- [Code Reviews Suck. Here’s What Helped &lpar;and Where It Can Break&rpar;](https://dev.to/xxkiraxx/code-reviews-suck-heres-what-helped-and-where-it-can-break-50hg)
+- [Export HTML Tables to PowerPoint with WebView2 and VSTO](https://dev.to/adilkhan/export-html-tables-to-powerpoint-with-webview2-and-vsto-1fem)
+- [Getting Started with Amazon Q Developer CLI by Building a Game](https://dev.to/rash522/getting-started-with-amazon-q-developer-cli-by-building-a-game-1c8)
+- [Your Code Passed. Now What?](https://dev.to/tonystpierre/your-code-passed-now-what-3m69)
 <!-- BLOG-POST-LIST:END -->
 
