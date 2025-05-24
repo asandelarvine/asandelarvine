@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 - Attribute Binding in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/day-8-attribute-binding-in-vue-3-svelte-5-and-angular-3ncc)
-- [Build a Full Backend Without Coding – A Beginner’s Guide to Strapi Headless CMS](https://dev.to/anil_krishna_296fa66237d5/build-a-full-backend-without-coding-a-beginners-guide-to-strapi-headless-cms-34g4)
-- [“AI Agents in Action” book: A Deep Dive into the Future of Intelligent Systems](https://dev.to/aairom/ai-agents-in-action-book-a-deep-dive-into-the-future-of-intelligent-systems-n1)
-- [Advanced Use of Function.prototype.bind in JS](https://dev.to/omriluz1/advanced-use-of-functionprototypebind-in-js-1oh0)
+- [Build smart AI chatbot with Open AI assistant in few minutes!](https://dev.to/nick_record_14b1650191fc3/build-smart-ai-chatbot-with-open-ai-assistant-in-few-minutes-4n36)
+- [🌿 Understanding Transaction Propagation in Spring Boot](https://dev.to/devcorner/understanding-transaction-propagation-in-spring-boot-58ii)
+- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
+- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
 <!-- BLOG-POST-LIST:END -->
 
