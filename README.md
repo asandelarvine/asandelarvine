@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
-- [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
-- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
-- [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
+- [Async ဆိုတာဘယ်လိုမျိုးလဲ](https://dev.to/myozawlatt/async-chiuttaabhyliumiulai-2bm)
+- [Mental Math Hacks: Swift Estimations of Powers and Roots for Programmers](https://dev.to/josemariairiarte/mental-math-hacks-swift-estimations-of-powers-and-roots-for-programmers-321m)
+- [I created a code search tool made in Flask.](https://dev.to/coder_acco/i-created-a-code-search-tool-made-in-flask-g58)
+- [I created a code search too made in Flask.](https://dev.to/coder_acco/i-created-a-code-search-too-made-in-flask-2fhb)
 <!-- BLOG-POST-LIST:END -->
 
