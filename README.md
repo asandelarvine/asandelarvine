@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 DevOps Project Ideas to Build Your Skills: From Beginner to Advanced](https://dev.to/haswanth/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-bal)
-- [A New Era of Agent Native Applications](https://dev.to/ilbets/a-new-era-of-agent-native-applications-515n)
-- [How to Control an Iron Fence with a Microcontroller and IoT Sensors](https://dev.to/karen_londres/how-to-control-an-iron-fence-with-a-microcontroller-and-iot-sensors-59n1)
-- [Build Medical AI with Google’s MedGemma 4B &amp; 27B: A Complete Installation Guide](https://dev.to/nodeshiftcloud/build-medical-ai-with-googles-medgemma-4b-27b-a-complete-installation-guide-1pb3)
+- [AWS KMS vs. AWS Certificate Manager: The Ultimate Guide to Cloud Security Layers](https://dev.to/pkkolla/aws-kms-vs-aws-certificate-manager-the-ultimate-guide-to-cloud-security-layers-4hem)
+- [Writing Kubernetes Manifests: From Beginner to Advanced](https://dev.to/haswanth/writing-kubernetes-manifests-from-beginner-to-advanced-3pgb)
+- [SPEEDTEST](https://dev.to/brian_oiko_5c72fb6a37124b/speedtest-1opd)
+- [Ever Wondered How Powerful a Well-Written Prompt Can Be?](https://dev.to/shariya_shuvo/ever-wondered-how-powerful-a-well-written-prompt-can-be-8ee)
 <!-- BLOG-POST-LIST:END -->
 
