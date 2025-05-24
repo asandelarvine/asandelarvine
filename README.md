@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi Joins the Custom SoC Race](https://dev.to/bhuvaneshm_dev/xiaomi-joins-the-custom-soc-race-321a)
-- [Unlocking Potential: 6 Compelling Reasons to Outsource Software Development to Peru in 2024](https://dev.to/jetthoughts/unlocking-potential-6-compelling-reasons-to-outsource-software-development-to-peru-in-2024-23c3)
-- [Are Dating Apps Just Digital Honeytraps?](https://dev.to/nightmare-lynx/are-dating-apps-just-digital-honeytraps-a4f)
-- [Deploying a Multi-Tier Web App on AWS: A Journey Through Challenges and Costly Lesson](https://dev.to/tharun_reddy_a193bc1b993b/deploying-a-multi-tier-web-app-on-aws-a-journey-through-challenges-and-costly-lesson-4m44)
+- [MERN App Deployed on Kubernetes | 3 TIER WEB APPLICATION via Kubeadm](https://dev.to/devops_methodology_d2b67f/mern-app-deployed-on-kubernetes-3-tier-web-application-via-kubeadm-4ndh)
+- [Laravel 12 Remove Public from URL](https://dev.to/mshsayket/laravel-12-remove-public-from-url-4m2g)
+- [[Boost]](https://dev.to/markjackmilian/-48ie)
+- [Who’s Afraid of the Liskov Substitution Principle?](https://dev.to/markjackmilian/whos-afraid-of-the-liskov-substitution-principle-4mfl)
 <!-- BLOG-POST-LIST:END -->
 
