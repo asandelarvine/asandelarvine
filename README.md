@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone now can create profitable business with AI](https://dev.to/martintonev/everyone-now-can-create-profitable-business-with-ai-560d)
-- [AWS Multi Region Failover Infrastructure](https://dev.to/ashraf-minhaj/aws-multi-region-failover-infrastructure-2314)
-- [[Boost]](https://dev.to/western_king01/-24k0)
-- [AI Isn’t Replacing Developers — It’s Making Them Irreplaceable](https://dev.to/abhishekshakya/ai-isnt-replacing-developers-its-making-them-irreplaceable-3o40)
+- [How to setup and configure NGINX on Ubuntu](https://dev.to/vishnusatheesh/how-to-setup-and-configure-nginx-on-ubuntu-3ol8)
+- [Can You Share an Image as an Audio File? Yes—Here’s How It Works ?](https://dev.to/prasadjoshi660/can-you-share-an-image-as-an-audio-file-yes-heres-how-it-works--3e2)
+- [[Boost]](https://dev.to/toanld/-21dl)
+- [Key Factors Affecting Cloud Migration ROI](https://dev.to/emma_wags_8dd9b74533690da/key-factors-affecting-cloud-migration-roi-2gpd)
 <!-- BLOG-POST-LIST:END -->
 
