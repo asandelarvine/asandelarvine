@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build smart AI chatbot with Open AI assistant in few minutes!](https://dev.to/nick_record_14b1650191fc3/build-smart-ai-chatbot-with-open-ai-assistant-in-few-minutes-4n36)
-- [🌿 Understanding Transaction Propagation in Spring Boot](https://dev.to/devcorner/understanding-transaction-propagation-in-spring-boot-58ii)
-- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
-- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
+- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/softatdm2_72a33ff84f854d3/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-26fd)
+- [Day 30/ 30 Days of Linux Mastery: Mastering &#39;for&#39;, &#39;do&#39;, &#39;while&#39;, and &#39;case&#39; Statements in Shell Scripts](https://dev.to/amandaigwe/day-30-30-days-of-linux-mastery-mastering-for-do-while-and-case-statements-in-shell-3ha0)
+- [Inside a emoji-picker-react: State, Events, and UI Patterns](https://dev.to/ruturajgh/inside-a-emoji-picker-react-state-events-and-ui-patterns-4a13)
+- [The simplest way to add Google sign-in to your Next.js app ✍](https://dev.to/tomdekan/the-simplest-way-to-add-google-sign-in-to-your-nextjs-app-3237)
 <!-- BLOG-POST-LIST:END -->
 
