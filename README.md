@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrieving System MAC Address Across OS Platforms](https://dev.to/wildshark/retrieving-system-mac-address-across-os-platforms-3fjo)
-- [How to install Maven &lpar;Apache Maven&rpar; on Windows 11?](https://dev.to/yofreormaza/how-to-install-maven-apache-maven-on-windows-11-33e8)
-- [Ultra Fast Colab I Just Deleted Pip from a Colab Notebook, and IT STILL WORKED!](https://dev.to/phoenix_stormjr_cce7d09/ultra-fast-colab-i-just-deleted-pip-from-a-colab-notebook-and-it-still-worked-23nk)
-- [T vs any in TypeScript](https://dev.to/bdavidxyz/t-vs-any-in-typescript-59ol)
+- [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
+- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
+- [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
+- [Why Functional Decomposition Leads to Bad System Design](https://dev.to/ujjwall-r/why-functional-decomposition-leads-to-bad-system-design-5chd)
 <!-- BLOG-POST-LIST:END -->
 
