@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/softatdm2_72a33ff84f854d3/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-26fd)
-- [Day 30/ 30 Days of Linux Mastery: Mastering &#39;for&#39;, &#39;do&#39;, &#39;while&#39;, and &#39;case&#39; Statements in Shell Scripts](https://dev.to/amandaigwe/day-30-30-days-of-linux-mastery-mastering-for-do-while-and-case-statements-in-shell-3ha0)
-- [Inside a emoji-picker-react: State, Events, and UI Patterns](https://dev.to/ruturajgh/inside-a-emoji-picker-react-state-events-and-ui-patterns-4a13)
-- [The simplest way to add Google sign-in to your Next.js app ✍](https://dev.to/tomdekan/the-simplest-way-to-add-google-sign-in-to-your-nextjs-app-3237)
+- [Terraform Made Easy: A Hands-On Introduction for Beginners](https://dev.to/anand_ghangoria_125645bf4/terraform-made-easy-a-hands-on-introduction-for-beginners-fl)
+- [13 Free Web-Based Developer Tools You&#39;ll Actually Use](https://dev.to/sayem314/13-free-web-based-developer-tools-youll-actually-use-3j4p)
+- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-oo)
+- [Padrão Repository: A Abstração que Transformou o Acesso a Dados em Aplicações .NET](https://dev.to/gustavo_cremonez/padrao-repository-a-abstracao-que-transformou-o-acesso-a-dados-em-aplicacoes-net-21pn)
 <!-- BLOG-POST-LIST:END -->
 
