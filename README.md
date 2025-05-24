@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
-- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
-- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
+- [WebSocket 请求通过 CDN 返回 403 Forbidden 的问题排查与解决](https://dev.to/truman_999999999/websocket-qing-qiu-tong-guo-cdn-fan-hui-403-forbidden-de-wen-ti-pai-cha-yu-jie-jue-lo4)
+- [In this walkthrough, we’ll show how to build a semantic image search engine powered by multimodal AI – searchable with natural language in real time, with data insight to understand what’s going on step by step.](https://dev.to/badmonster0/in-this-walkthrough-well-show-how-to-build-a-semantic-image-search-engine-powered-by-multimodal-150n)
+- [Securing Quarkus Microservices via Kong API Gateway](https://dev.to/djamware_tutorial_eba1a61/securing-quarkus-microservices-via-kong-api-gateway-38kh)
+- [Seccomp in Docker: Reducing Kernel Attack Surface with System Call Filtering](https://dev.to/hexshift/seccomp-in-docker-reducing-kernel-attack-surface-with-system-call-filtering-2654)
 <!-- BLOG-POST-LIST:END -->
 
