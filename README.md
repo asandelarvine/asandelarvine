@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Week 5](https://dev.to/upinar/web-development-week-5-12fg)
-- [Do you know what happens to your resume formatting when you apply to a job and how it can get garbled by an ATS? 🤯 https://climbandpivot.beehiiv.com/p/interview-with-a-recruiter-everything-you-ve-wanted-to-ask-about-resumes](https://dev.to/severin_wiggenhorn/do-you-know-what-happens-to-your-resume-formatting-when-you-apply-to-a-job-and-how-it-can-get-17l3)
-- [17 Years Across Giants: My Transition into the Data World through Collaboration and Change](https://dev.to/smarak_pani_8d6924a30c268/17-years-across-giants-my-transition-into-the-data-world-through-collaboration-and-change-1kfl)
-- [Here is a creative blog post about space: &quot;Beyond the Cosmic Veil: Unraveling the Mysteries of Space&quot; The All](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-blog-post-about-space-beyond-the-cosmic-veil-unraveling-the-mysteries-of-18ci)
+- [🐍 Python AI &amp; Data Programming Zero to Hero](https://dev.to/cnnsyhnx/python-ai-data-programming-zero-to-hero-4m7d)
+- [Exploring the Impact of JIT Compilation on JS Code](https://dev.to/omriluz1/exploring-the-impact-of-jit-compilation-on-js-code-59ji)
+- [Code Smell 301 - Database as Parameter](https://dev.to/mcsee/code-smell-301-database-as-parameter-27)
+- [Top 10 Underrated JavaScript Libraries You Should Explore in 2025](https://dev.to/arkhan/top-10-underrated-javascript-libraries-you-should-explore-in-2025-2o11)
 <!-- BLOG-POST-LIST:END -->
 
