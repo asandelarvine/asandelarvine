@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of receiving Database Hibernated messages? Keep Your DB Awake with Hibernot !](https://dev.to/harsh_bhardwaj_809a89d3a7/tired-of-receiving-database-hibernated-messages-keep-your-db-awake-with-hibernot--1hhb)
-- [Pig Latin - with Python](https://dev.to/heli9/pig-latin-with-python-13en)
-- [Hire Data Scientists for DevOps Metrics &amp; Incident Prediction](https://dev.to/alex2002/hire-data-scientists-for-devops-metrics-incident-prediction-446g)
-- [Avoiding Meltdowns in Microservices: The Circuit Breaker Pattern](https://dev.to/lovestaco/avoiding-meltdowns-in-microservices-the-circuit-breaker-pattern-5666)
+- [Angular v20&#39;s big launch at Google I/O 2025, Claude Sonnet and Opus 4, TypeScript’s 10x Speed Boost, and more](https://dev.to/thisweekinjavascript/angular-v20s-big-launch-at-google-io-2025-claude-sonnet-and-opus-4-typescripts-10x-speed-23fi)
+- [Software Development Concepts Project](https://dev.to/rundownkraken/software-development-concepts-project-4ak0)
+- [Analizando caminos narrativos con grafos](https://dev.to/margeloggonzalez95/analizando-caminos-narrativos-con-grafos-3aie)
+- [Untitled](https://dev.to/she_he_8427f9db3a95733b33/untitled-4pe8)
 <!-- BLOG-POST-LIST:END -->
 
