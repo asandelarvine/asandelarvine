@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 4 of My DevOps Journey: Linux Internals, Kernel &amp; System Processes](https://dev.to/mritunjay_tiwari_c043f513/week-4-of-my-devops-journey-linux-internals-kernel-system-processes-b8k)
-- [10 Must-Read AI and LLM Engineering Books for Developers in 2025](https://dev.to/somadevtoo/10-must-read-ai-and-llm-engineering-books-for-developers-in-2025-129j)
-- [ESLint is Dead, Long Live Biome?](https://dev.to/byte-sized-news/eslint-is-dead-long-live-biome-31km)
-- [Empowering the Future: The Impact of Online Learning Platforms on Student Development](https://dev.to/ghummantech/empowering-the-future-the-impact-of-online-learning-platforms-on-student-development-43if)
+- [How to Reduce Docker Image Size: Best Practices and Tips for DevOps Engineers](https://dev.to/haswanth/how-to-reduce-docker-image-size-best-practices-and-tips-for-devops-engineers-5402)
+- [How to Open New Terminal Windows in Separate Workspaces on GNOME &lpar;Arch Linux&rpar;](https://dev.to/ktauchathuranga/how-to-open-new-terminal-windows-in-separate-workspaces-on-gnome-arch-linux-107h)
+- [📚 What I Learned Today :On the open source contribution day 1](https://dev.to/vigneshwaralingam/what-i-learned-today-on-the-open-source-contribution-day-1-2kgm)
+- [Top 9 Hidden Free AI Tools for Web Developers in 2025](https://dev.to/developerchandan/top-9-hidden-free-ai-tools-for-web-developers-in-2025-4d9f)
 <!-- BLOG-POST-LIST:END -->
 
