@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-1328)
-- [CODE TIPS #1 — Контра-интуитивната индентация и скобите в LISP](https://dev.to/dvt32/code-tips-1-kontra-intuitivnata-indientatsiia-i-skobitie-v-lisp-1n35)
-- [NexSh — Stop Googling, Start Talking](https://dev.to/m97chahboun/nexsh-stop-googling-start-talking-1mnj)
-- [Unlocking the Power of Case Summaries with Copilot in Dynamics 365 Customer Service](https://dev.to/nikhildynamicsce/unlocking-the-power-of-case-summaries-with-copilot-in-dynamics-365-customer-service-1fag)
+- [Understanding Bytes, Bits, and Data Types in C++](https://dev.to/sushi7/understanding-bytes-bits-and-data-types-in-c-5gih)
+- [Somaliland at 34: A Model of African Resilience and Self-Reliance Worthy of Global Recognition](https://dev.to/gov_afrika_b681dfae823748/somaliland-at-34-a-model-of-african-resilience-and-self-reliance-worthy-of-global-recognition-23kf)
+- [Your First Stop for SFCC Troubleshooting: WebDAV Logs](https://dev.to/geronde/your-first-stop-for-sfcc-troubleshooting-webdav-logs-2ijf)
+- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
 <!-- BLOG-POST-LIST:END -->
 
