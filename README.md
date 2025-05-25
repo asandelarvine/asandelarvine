@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BIOS Password Bypass](https://dev.to/blackwall/bios-password-bypass-4a8o)
-- [Weekly Challenge: Strings and Arrays](https://dev.to/simongreennet/weekly-challenge-strings-and-arrays-4a8h)
-- [Hands-Free Design: Automated Assistants That Do the Heavy Lifting](https://dev.to/atforeveryoung/hands-free-design-automated-assistants-that-do-the-heavy-lifting-ibe)
-- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-3oi2)
+- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
+- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
+- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
+- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
 <!-- BLOG-POST-LIST:END -->
 
