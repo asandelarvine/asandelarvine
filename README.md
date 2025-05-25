@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular v20&#39;s big launch at Google I/O 2025, Claude Sonnet and Opus 4, TypeScript’s 10x Speed Boost, and more](https://dev.to/thisweekinjavascript/angular-v20s-big-launch-at-google-io-2025-claude-sonnet-and-opus-4-typescripts-10x-speed-23fi)
-- [Software Development Concepts Project](https://dev.to/rundownkraken/software-development-concepts-project-4ak0)
-- [Analizando caminos narrativos con grafos](https://dev.to/margeloggonzalez95/analizando-caminos-narrativos-con-grafos-3aie)
-- [Untitled](https://dev.to/she_he_8427f9db3a95733b33/untitled-4pe8)
+- [Web Development Week 5](https://dev.to/upinar/web-development-week-5-12fg)
+- [Do you know what happens to your resume formatting when you apply to a job and how it can get garbled by an ATS? 🤯 https://climbandpivot.beehiiv.com/p/interview-with-a-recruiter-everything-you-ve-wanted-to-ask-about-resumes](https://dev.to/severin_wiggenhorn/do-you-know-what-happens-to-your-resume-formatting-when-you-apply-to-a-job-and-how-it-can-get-17l3)
+- [17 Years Across Giants: My Transition into the Data World through Collaboration and Change](https://dev.to/smarak_pani_8d6924a30c268/17-years-across-giants-my-transition-into-the-data-world-through-collaboration-and-change-1kfl)
+- [Here is a creative blog post about space: &quot;Beyond the Cosmic Veil: Unraveling the Mysteries of Space&quot; The All](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-blog-post-about-space-beyond-the-cosmic-veil-unraveling-the-mysteries-of-18ci)
 <!-- BLOG-POST-LIST:END -->
 
