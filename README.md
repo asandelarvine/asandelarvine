@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hugo: partialCached or not?](https://dev.to/spo0q/hugo-partialcached-or-not-116h)
-- [Understanding and Preventing XSS Attacks in Express and React Applications](https://dev.to/crit3cal/understanding-and-preventing-xss-attacks-in-express-and-react-applications-lpn)
-- [How I Automate Image Editing for My Blog Using Just a Few Lines of Code](https://dev.to/smartdev72/how-i-automate-image-editing-for-my-blog-using-just-a-few-lines-of-code-52ff)
-- [Getting Started with Spring Boot: Complete Beginner’s Tutorial](https://dev.to/jemmyjessii/getting-started-with-spring-boot-complete-beginners-tutorial-2dn5)
+- [NPM Downlytics](https://dev.to/mr_882a4b4c99be10898d6f7/npm-downlytics-1dn8)
+- [A2A and MCP Combined Implementation](https://dev.to/heetvekariya/a2a-and-mcp-combined-implementation-5bg9)
+- [🚀 Reducing JavaScript Bundle Size with Code Splitting in 2025](https://dev.to/hamzakhan/reducing-javascript-bundle-size-with-code-splitting-in-2025-3927)
+- [Introduction](https://dev.to/akshthakkar/introduction-4g88)
 <!-- BLOG-POST-LIST:END -->
 
