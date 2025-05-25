@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Best New CSS Features in 2025 Already Supported in All Major Browsers](https://dev.to/devunionx/the-10-best-new-css-features-in-2025-already-supported-in-all-major-browsers-19m3)
-- [Understanding Promises in JavaScript: A Formal Introduction](https://dev.to/shifa_2/understanding-promises-in-javascript-a-formal-introduction-1aek)
-- [Agent in a desktop app](https://dev.to/avnsh/agent-in-a-desktop-app-enb)
-- [Building a Scalable Event-Driven System on AWS with DynamoDB Streams, SQS, and ECS](https://dev.to/ryo_ariyama_b521d7133c493/building-a-scalable-event-driven-system-on-aws-with-dynamodb-streams-sqs-and-ecs-5c1e)
+- [Automating Microservice Deployment to AWS Fargate Using CodePipeline](https://dev.to/esthernnolum/automating-microservice-deployment-to-aws-fargate-using-codepipeline-473o)
+- [How to Combine &amp; Run AI Models Without Deploying⛵](https://dev.to/astrodevil/how-to-combine-run-ai-models-without-deploying-28o7)
+- [Highlighting Harm in the Canadian Medical System — A Public Record Project](https://dev.to/formantaudio/highlighting-harm-in-the-canadian-medical-system-a-public-record-project-4l65)
+- [The top 11 web application vulnerability scanners with self-hosting and automation](https://dev.to/chrdek/the-top-11-web-application-vulnerability-scanners-with-self-hosting-and-automation-24jm)
 <!-- BLOG-POST-LIST:END -->
 
