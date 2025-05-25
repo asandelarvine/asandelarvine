@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Bytes, Bits, and Data Types in C++](https://dev.to/sushi7/understanding-bytes-bits-and-data-types-in-c-5gih)
-- [Somaliland at 34: A Model of African Resilience and Self-Reliance Worthy of Global Recognition](https://dev.to/gov_afrika_b681dfae823748/somaliland-at-34-a-model-of-african-resilience-and-self-reliance-worthy-of-global-recognition-23kf)
-- [Your First Stop for SFCC Troubleshooting: WebDAV Logs](https://dev.to/geronde/your-first-stop-for-sfcc-troubleshooting-webdav-logs-2ijf)
-- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
+- [🥷 NewsNinja](https://dev.to/ai_with_hassan/newsninja-4kca)
+- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
+- [Day 34 — Layers Are Building &lpar;React, JS OOP, Matplotlib&rpar;](https://dev.to/mridulbansal2006/day-34-layers-are-building-react-js-oop-matplotlib-2l0i)
+- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
 <!-- BLOG-POST-LIST:END -->
 
