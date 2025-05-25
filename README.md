@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AG-2 in Practice #2 – Setting Up AG-2 and Creating Your First Agent](https://dev.to/dazevedo/ag-2-in-practice-2-setting-up-ag-2-and-creating-your-first-agent-1e0a)
-- [Shared Libraries in Dynamics 365 CE: Why You Should Centralize Your Code](https://dev.to/nikhildynamicsce/shared-libraries-in-dynamics-365-ce-why-you-should-centralize-your-code-1ldl)
-- [AG-2 in Practice #1 – What is AG-2 &lpar;formerly AutoGen&rpar; and How Does It Work?](https://dev.to/dazevedo/ag-2-in-practice-1-what-is-ag-2-formerly-autogen-and-how-does-it-work-ag9)
-- [Should You Copy Production Data to Lower Environments in Power Platform?](https://dev.to/nikhildynamicsce/should-you-copy-production-data-to-lower-environments-in-power-platform-5aok)
+- [AWS Elastic Beanstalk](https://dev.to/godofgeeks/aws-elastic-beanstalk-288h)
+- [The Business Case for Angular: Why Enterprises Still Choose Angular in 2025](https://dev.to/karol_modelski/the-business-case-for-angular-why-enterprises-still-choose-angular-in-2025-2l50)
+- [🚀 Building Playwright Framework Step By Step - Initial Setup](https://dev.to/idavidov13/building-playwright-framework-step-by-step-initial-setup-3iba)
+- [Single Computers vs Distributed Systems: Why Everything Gets Complicated](https://dev.to/lukasniessen/single-computers-vs-distributed-systems-why-everything-gets-complicated-1j4k)
 <!-- BLOG-POST-LIST:END -->
 
