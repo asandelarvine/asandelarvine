@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Docker Image Size: Best Practices and Tips for DevOps Engineers](https://dev.to/haswanth/how-to-reduce-docker-image-size-best-practices-and-tips-for-devops-engineers-5402)
-- [How to Open New Terminal Windows in Separate Workspaces on GNOME &lpar;Arch Linux&rpar;](https://dev.to/ktauchathuranga/how-to-open-new-terminal-windows-in-separate-workspaces-on-gnome-arch-linux-107h)
-- [📚 What I Learned Today :On the open source contribution day 1](https://dev.to/vigneshwaralingam/what-i-learned-today-on-the-open-source-contribution-day-1-2kgm)
-- [Top 9 Hidden Free AI Tools for Web Developers in 2025](https://dev.to/developerchandan/top-9-hidden-free-ai-tools-for-web-developers-in-2025-4d9f)
+- [Hugo: partialCached or not?](https://dev.to/spo0q/hugo-partialcached-or-not-116h)
+- [Understanding and Preventing XSS Attacks in Express and React Applications](https://dev.to/crit3cal/understanding-and-preventing-xss-attacks-in-express-and-react-applications-lpn)
+- [How I Automate Image Editing for My Blog Using Just a Few Lines of Code](https://dev.to/smartdev72/how-i-automate-image-editing-for-my-blog-using-just-a-few-lines-of-code-52ff)
+- [Getting Started with Spring Boot: Complete Beginner’s Tutorial](https://dev.to/jemmyjessii/getting-started-with-spring-boot-complete-beginners-tutorial-2dn5)
 <!-- BLOG-POST-LIST:END -->
 
