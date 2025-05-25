@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
-- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
-- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
-- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
+- [What Are HTTP Status Codes and Why Do They Matter?](https://dev.to/dillionhuston/what-are-http-status-codes-and-why-do-they-matter-15ia)
+- [Pygame balloon shooting game using Amazon Q Developer IDE/CLI.](https://dev.to/aws-builders/pygame-balloon-shooting-game-using-amazon-q-developer-idecli-11ga)
+- [RECURSION: WHERE EVERY CALL IS ANOTHER BITE OF BOWL](https://dev.to/zelengungor/recursion-where-every-call-is-another-bite-of-bowl-oba)
+- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
 <!-- BLOG-POST-LIST:END -->
 
