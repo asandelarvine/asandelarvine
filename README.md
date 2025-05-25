@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to React Native for Mobile Development](https://dev.to/media_geneous_bb80d6b5563/introduction-to-react-native-for-mobile-development-lo0)
-- [Wordpress REST API - creating your first custom endpoint](https://dev.to/raymundoch/wordpress-rest-api-creating-your-first-custom-endpoint-572h)
-- [Submission - Postmark Challenge: Inbox Innovators](https://dev.to/lomaymi/submission-postmark-challenge-inbox-innovators-egc)
-- [The Silent Killers: Top 5 Things That Break Power Automate Flows in Production](https://dev.to/nikhildynamicsce/the-silent-killers-top-5-things-that-break-power-automate-flows-in-production-79m)
+- [AlertInsightHub: AI-Powered Cloud Alert Triage &amp; Visualization Platform Using Postmark](https://dev.to/cloudcraftcurator/alertinsighthub-ai-powered-cloud-alert-triage-visualization-platform-using-postmark-103n)
+- [St Page Flip](https://dev.to/preetha_vaishnavi_2b82358/st-page-flip-2fo4)
+- [Animated Tab Bar](https://dev.to/preetha_vaishnavi_2b82358/animated-tab-bar-2h43)
+- [Bubbles](https://dev.to/preetha_vaishnavi_2b82358/bubbles-13om)
 <!-- BLOG-POST-LIST:END -->
 
