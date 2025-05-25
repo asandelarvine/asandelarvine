@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Exchange Standard CAL: Secure User Access to Essential Email, Calendar &amp; Contacts](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-exchange-standard-cal-secure-user-access-to-essential-email-calendar-contacts-39df)
-- [📨Building a Scalable Notification System Using RabbitMQ in Node.js — A Real-World Practice for CookSync](https://dev.to/joha/building-a-scalable-notification-system-using-rabbitmq-in-nodejs-a-real-world-practice-for-do)
-- [🚀 DataOps Terminal — AI-Powered Command Center for Web Data](https://dev.to/ghostking314/dataops-terminal-ai-powered-command-center-for-web-data-5h62)
-- [Weekly #21-2025: AI Everywhere: Google, Apple, Cursor, GitHub &amp; the Future of Development, AWS Security Flaw](https://dev.to/weekly/weekly-21-2025-ai-everywhere-google-apple-cursor-github-the-future-of-development-aws-50n8)
+- [AG-2 in Practice #2 – Setting Up AG-2 and Creating Your First Agent](https://dev.to/dazevedo/ag-2-in-practice-2-setting-up-ag-2-and-creating-your-first-agent-1e0a)
+- [Shared Libraries in Dynamics 365 CE: Why You Should Centralize Your Code](https://dev.to/nikhildynamicsce/shared-libraries-in-dynamics-365-ce-why-you-should-centralize-your-code-1ldl)
+- [AG-2 in Practice #1 – What is AG-2 &lpar;formerly AutoGen&rpar; and How Does It Work?](https://dev.to/dazevedo/ag-2-in-practice-1-what-is-ag-2-formerly-autogen-and-how-does-it-work-ag9)
+- [Should You Copy Production Data to Lower Environments in Power Platform?](https://dev.to/nikhildynamicsce/should-you-copy-production-data-to-lower-environments-in-power-platform-5aok)
 <!-- BLOG-POST-LIST:END -->
 
