@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Microservice Deployment to AWS Fargate Using CodePipeline](https://dev.to/esthernnolum/automating-microservice-deployment-to-aws-fargate-using-codepipeline-473o)
-- [How to Combine &amp; Run AI Models Without Deploying⛵](https://dev.to/astrodevil/how-to-combine-run-ai-models-without-deploying-28o7)
-- [Highlighting Harm in the Canadian Medical System — A Public Record Project](https://dev.to/formantaudio/highlighting-harm-in-the-canadian-medical-system-a-public-record-project-4l65)
-- [The top 11 web application vulnerability scanners with self-hosting and automation](https://dev.to/chrdek/the-top-11-web-application-vulnerability-scanners-with-self-hosting-and-automation-24jm)
+- [Tired of receiving Database Hibernated messages? Keep Your DB Awake with Hibernot !](https://dev.to/harsh_bhardwaj_809a89d3a7/tired-of-receiving-database-hibernated-messages-keep-your-db-awake-with-hibernot--1hhb)
+- [Pig Latin - with Python](https://dev.to/heli9/pig-latin-with-python-13en)
+- [Hire Data Scientists for DevOps Metrics &amp; Incident Prediction](https://dev.to/alex2002/hire-data-scientists-for-devops-metrics-incident-prediction-446g)
+- [Avoiding Meltdowns in Microservices: The Circuit Breaker Pattern](https://dev.to/lovestaco/avoiding-meltdowns-in-microservices-the-circuit-breaker-pattern-5666)
 <!-- BLOG-POST-LIST:END -->
 
