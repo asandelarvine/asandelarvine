@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Hosting Demystified: A Beginner’s Guide for Developers](https://dev.to/devmagz/web-hosting-demystified-a-beginners-guide-for-developers-1po0)
-- [🚀 Build Your Own AI Assistant with Node.js: My Roadmap and Journey 🌟](https://dev.to/ataur39n/build-your-own-ai-assistant-with-nodejs-my-roadmap-and-journey-46c7)
-- [How I&#39;m Prepping for Interview Assessments — Smarter and Faster](https://dev.to/seonglinchua/how-im-prepping-for-interview-assessments-smarter-and-faster-1458)
-- [Web Mimarisi: Gelecek Şimdi](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecek-simdi-2ke1)
+- [Introduction to React Native for Mobile Development](https://dev.to/media_geneous_bb80d6b5563/introduction-to-react-native-for-mobile-development-lo0)
+- [Wordpress REST API - creating your first custom endpoint](https://dev.to/raymundoch/wordpress-rest-api-creating-your-first-custom-endpoint-572h)
+- [Submission - Postmark Challenge: Inbox Innovators](https://dev.to/lomaymi/submission-postmark-challenge-inbox-innovators-egc)
+- [The Silent Killers: Top 5 Things That Break Power Automate Flows in Production](https://dev.to/nikhildynamicsce/the-silent-killers-top-5-things-that-break-power-automate-flows-in-production-79m)
 <!-- BLOG-POST-LIST:END -->
 
