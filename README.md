@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Python AI &amp; Data Programming Zero to Hero](https://dev.to/cnnsyhnx/python-ai-data-programming-zero-to-hero-4m7d)
-- [Exploring the Impact of JIT Compilation on JS Code](https://dev.to/omriluz1/exploring-the-impact-of-jit-compilation-on-js-code-59ji)
-- [Code Smell 301 - Database as Parameter](https://dev.to/mcsee/code-smell-301-database-as-parameter-27)
-- [Top 10 Underrated JavaScript Libraries You Should Explore in 2025](https://dev.to/arkhan/top-10-underrated-javascript-libraries-you-should-explore-in-2025-2o11)
+- [[Boost]](https://dev.to/david_bussell14/-1328)
+- [CODE TIPS #1 — Контра-интуитивната индентация и скобите в LISP](https://dev.to/dvt32/code-tips-1-kontra-intuitivnata-indientatsiia-i-skobitie-v-lisp-1n35)
+- [NexSh — Stop Googling, Start Talking](https://dev.to/m97chahboun/nexsh-stop-googling-start-talking-1mnj)
+- [Unlocking the Power of Case Summaries with Copilot in Dynamics 365 Customer Service](https://dev.to/nikhildynamicsce/unlocking-the-power-of-case-summaries-with-copilot-in-dynamics-365-customer-service-1fag)
 <!-- BLOG-POST-LIST:END -->
 
