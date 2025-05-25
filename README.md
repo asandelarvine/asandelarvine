@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Elastic Beanstalk](https://dev.to/godofgeeks/aws-elastic-beanstalk-288h)
-- [The Business Case for Angular: Why Enterprises Still Choose Angular in 2025](https://dev.to/karol_modelski/the-business-case-for-angular-why-enterprises-still-choose-angular-in-2025-2l50)
-- [🚀 Building Playwright Framework Step By Step - Initial Setup](https://dev.to/idavidov13/building-playwright-framework-step-by-step-initial-setup-3iba)
-- [Single Computers vs Distributed Systems: Why Everything Gets Complicated](https://dev.to/lukasniessen/single-computers-vs-distributed-systems-why-everything-gets-complicated-1j4k)
+- [🚀 Week 4 of My DevOps Journey: Linux Internals, Kernel &amp; System Processes](https://dev.to/mritunjay_tiwari_c043f513/week-4-of-my-devops-journey-linux-internals-kernel-system-processes-b8k)
+- [10 Must-Read AI and LLM Engineering Books for Developers in 2025](https://dev.to/somadevtoo/10-must-read-ai-and-llm-engineering-books-for-developers-in-2025-129j)
+- [ESLint is Dead, Long Live Biome?](https://dev.to/byte-sized-news/eslint-is-dead-long-live-biome-31km)
+- [Empowering the Future: The Impact of Online Learning Platforms on Student Development](https://dev.to/ghummantech/empowering-the-future-the-impact-of-online-learning-platforms-on-student-development-43if)
 <!-- BLOG-POST-LIST:END -->
 
