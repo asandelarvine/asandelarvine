@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are HTTP Status Codes and Why Do They Matter?](https://dev.to/dillionhuston/what-are-http-status-codes-and-why-do-they-matter-15ia)
-- [Pygame balloon shooting game using Amazon Q Developer IDE/CLI.](https://dev.to/aws-builders/pygame-balloon-shooting-game-using-amazon-q-developer-idecli-11ga)
-- [RECURSION: WHERE EVERY CALL IS ANOTHER BITE OF BOWL](https://dev.to/zelengungor/recursion-where-every-call-is-another-bite-of-bowl-oba)
-- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
+- [The 10 Best New CSS Features in 2025 Already Supported in All Major Browsers](https://dev.to/devunionx/the-10-best-new-css-features-in-2025-already-supported-in-all-major-browsers-19m3)
+- [Understanding Promises in JavaScript: A Formal Introduction](https://dev.to/shifa_2/understanding-promises-in-javascript-a-formal-introduction-1aek)
+- [Agent in a desktop app](https://dev.to/avnsh/agent-in-a-desktop-app-enb)
+- [Building a Scalable Event-Driven System on AWS with DynamoDB Streams, SQS, and ECS](https://dev.to/ryo_ariyama_b521d7133c493/building-a-scalable-event-driven-system-on-aws-with-dynamodb-streams-sqs-and-ecs-5c1e)
 <!-- BLOG-POST-LIST:END -->
 
