@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
-- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
-- [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
-- [Why Functional Decomposition Leads to Bad System Design](https://dev.to/ujjwall-r/why-functional-decomposition-leads-to-bad-system-design-5chd)
+- [Web Hosting Demystified: A Beginner’s Guide for Developers](https://dev.to/devmagz/web-hosting-demystified-a-beginners-guide-for-developers-1po0)
+- [🚀 Build Your Own AI Assistant with Node.js: My Roadmap and Journey 🌟](https://dev.to/ataur39n/build-your-own-ai-assistant-with-nodejs-my-roadmap-and-journey-46c7)
+- [How I&#39;m Prepping for Interview Assessments — Smarter and Faster](https://dev.to/seonglinchua/how-im-prepping-for-interview-assessments-smarter-and-faster-1458)
+- [Web Mimarisi: Gelecek Şimdi](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecek-simdi-2ke1)
 <!-- BLOG-POST-LIST:END -->
 
