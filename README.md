@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AlertInsightHub: AI-Powered Cloud Alert Triage &amp; Visualization Platform Using Postmark](https://dev.to/cloudcraftcurator/alertinsighthub-ai-powered-cloud-alert-triage-visualization-platform-using-postmark-103n)
-- [St Page Flip](https://dev.to/preetha_vaishnavi_2b82358/st-page-flip-2fo4)
-- [Animated Tab Bar](https://dev.to/preetha_vaishnavi_2b82358/animated-tab-bar-2h43)
-- [Bubbles](https://dev.to/preetha_vaishnavi_2b82358/bubbles-13om)
+- [Microsoft Exchange Standard CAL: Secure User Access to Essential Email, Calendar &amp; Contacts](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-exchange-standard-cal-secure-user-access-to-essential-email-calendar-contacts-39df)
+- [📨Building a Scalable Notification System Using RabbitMQ in Node.js — A Real-World Practice for CookSync](https://dev.to/joha/building-a-scalable-notification-system-using-rabbitmq-in-nodejs-a-real-world-practice-for-do)
+- [🚀 DataOps Terminal — AI-Powered Command Center for Web Data](https://dev.to/ghostking314/dataops-terminal-ai-powered-command-center-for-web-data-5h62)
+- [Weekly #21-2025: AI Everywhere: Google, Apple, Cursor, GitHub &amp; the Future of Development, AWS Security Flaw](https://dev.to/weekly/weekly-21-2025-ai-everywhere-google-apple-cursor-github-the-future-of-development-aws-50n8)
 <!-- BLOG-POST-LIST:END -->
 
