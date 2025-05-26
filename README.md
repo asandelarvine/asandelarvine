@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your IP Got Blocked by SafeLine WAF &lpar;And What It Means&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/why-your-ip-got-blocked-by-safeline-waf-and-what-it-means-1lc5)
-- [Empowering Modern IT Support: Why Microsoft Intune Remote Help Is a Game-Changer](https://dev.to/roshan_karki_f2b61b26c3a8/empowering-modern-it-support-why-microsoft-intune-remote-help-is-a-game-changer-p5k)
-- [🎥Unlock Google Veo 3 Today: 3 Insider Methods You Can&#39;t Afford to Miss](https://dev.to/fallon_jimmy/unlock-google-veo-3-today-3-insider-methods-you-cant-afford-to-miss-3n77)
-- [AWS EC2 Security Groups - Your Virtual Firewall in the Cloud](https://dev.to/costqai/aws-ec2-security-groups-your-virtual-firewall-in-the-cloud-3eop)
+- [AI in Car Rentals: The Tech Behind Smart Fleets and Intelligent Operations](https://dev.to/priyansh_shah_786ec03624e/ai-in-car-rentals-the-tech-behind-smart-fleets-and-intelligent-operations-53i2)
+- [Lifetimes in Rust aren&#39;t that hard](https://dev.to/pixperk/lifetimes-in-rust-arent-that-hard-k3m)
+- [🎯 Typography Tips for Better UI Design! #TypographyTips #UIDesign #UXDesign #FigmaTips](https://dev.to/swetty_sultania_834f90237/typography-tips-for-better-ui-design-typographytips-uidesign-uxdesign-figmatips-3b3m)
+- [HarmonyOS运动开发：如何绘制运动速度轨迹](https://dev.to/smartbackme/harmonyosyun-dong-kai-fa-ru-he-hui-zhi-yun-dong-su-du-gui-ji-4ffe)
 <!-- BLOG-POST-LIST:END -->
 
