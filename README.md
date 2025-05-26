@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Car Rentals: The Tech Behind Smart Fleets and Intelligent Operations](https://dev.to/priyansh_shah_786ec03624e/ai-in-car-rentals-the-tech-behind-smart-fleets-and-intelligent-operations-53i2)
-- [Lifetimes in Rust aren&#39;t that hard](https://dev.to/pixperk/lifetimes-in-rust-arent-that-hard-k3m)
-- [🎯 Typography Tips for Better UI Design! #TypographyTips #UIDesign #UXDesign #FigmaTips](https://dev.to/swetty_sultania_834f90237/typography-tips-for-better-ui-design-typographytips-uidesign-uxdesign-figmatips-3b3m)
-- [HarmonyOS运动开发：如何绘制运动速度轨迹](https://dev.to/smartbackme/harmonyosyun-dong-kai-fa-ru-he-hui-zhi-yun-dong-su-du-gui-ji-4ffe)
+- [Bootstrap Tabs, Pills &amp; Buttons](https://dev.to/preetha_vaishnavi_2b82358/bootstrap-tabs-pills-buttons-3l4j)
+- [Understanding Kubernetes: part 56 – Native Sidecar Containers](https://dev.to/aurelievache/understanding-kubernetes-part-56-native-sidecar-containers-3l4m)
+- [Using SQL for data analysis seems to be a false proposition](https://dev.to/esproc_spl/using-sql-for-data-analysis-seems-to-be-a-false-proposition-256d)
+- [# 🚀 Из просто умного JSON в бронированный JSON на стероидах — встречайте WiseJSON](https://dev.to/xzdes/-iz-prosto-umnogho-json-v-bronirovannyi-json-na-stieroidakh-vstriechaitie-wisejson-3k83)
 <!-- BLOG-POST-LIST:END -->
 
