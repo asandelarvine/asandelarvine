@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
-- [Why software projects fail.](https://dev.to/fjzavala21/why-software-projects-fail-2gla)
-- [🧠 Perplexity vs. ChatGPT：你其實搞錯他們的定位 💭 他們根本不是同一種生物。](https://dev.to/jennifer_andleigh_a84c434/perplexity-vs-chatgptni-qi-shi-zhi-zai-gao-cuo-ta-men-de-ding-wei-ta-men-gen-ben-bu-shi-tong-zhong-sheng-wu--27o6)
-- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
+- [Leadership](https://dev.to/aniruddhaadak_/leadership-ak8)
+- [Polymorphic C](https://dev.to/rdentato/polymorphic-c-4kk2)
+- [Hugging Face MCP Course.](https://dev.to/abdullahadeeb/hugging-face-mcp-course-5bbi)
+- [From Web 3.0 to Web 4.0 - Embracing the Agentic Web and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/williamdk/from-web-30-to-web-40-embracing-the-agentic-web-and-model-context-protocol-mcp-21d7)
 <!-- BLOG-POST-LIST:END -->
 
