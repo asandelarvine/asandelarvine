@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🥷 NewsNinja](https://dev.to/ai_with_hassan/newsninja-4kca)
-- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
-- [Day 34 — Layers Are Building &lpar;React, JS OOP, Matplotlib&rpar;](https://dev.to/mridulbansal2006/day-34-layers-are-building-react-js-oop-matplotlib-2l0i)
-- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
+- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
+- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
+- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
+- [LibTracker VS Code Extension: Streamline Your Dependency Management](https://dev.to/windmillcode/libtracker-vs-code-extension-streamline-your-dependency-management-16mc)
 <!-- BLOG-POST-LIST:END -->
 
