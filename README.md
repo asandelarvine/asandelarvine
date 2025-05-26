@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why JavaScript? Actually it&#39;s ECMAScript](https://dev.to/anshuman_khanna/why-javascript-actually-its-ecmascript-5cen)
-- [I built a WhatsApp Web UI Clone](https://dev.to/soorajsnblaze333/i-built-a-whatsapp-web-ui-clone-2723)
-- [Early Return vs. Classic If-Else: A Universal Pattern for Writing Cleaner Code](https://dev.to/eddiegoldman/early-return-vs-classic-if-else-a-universal-pattern-for-writing-cleaner-code-1083)
-- [Apple Ordered to Allow Crypto Payments &amp; NFT Links in iOS Apps After Court Ruling](https://dev.to/dextrapps/apple-ordered-to-allow-crypto-payments-nft-links-in-ios-apps-after-court-ruling-3043)
+- [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
+- [Why software projects fail.](https://dev.to/fjzavala21/why-software-projects-fail-2gla)
+- [🧠 Perplexity vs. ChatGPT：你其實搞錯他們的定位 💭 他們根本不是同一種生物。](https://dev.to/jennifer_andleigh_a84c434/perplexity-vs-chatgptni-qi-shi-zhi-zai-gao-cuo-ta-men-de-ding-wei-ta-men-gen-ben-bu-shi-tong-zhong-sheng-wu--27o6)
+- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
 <!-- BLOG-POST-LIST:END -->
 
