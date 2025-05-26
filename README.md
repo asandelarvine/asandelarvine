@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-5e03)
-- [‘Elden Ring&#39; Movie in the Works From &#39;Civil War&#39; Director Alex Garland, A24](https://dev.to/gg_news/elden-ring-movie-in-the-works-from-civil-war-director-alex-garland-a24-5a46)
-- [Star Wars Battlefront 2 devs want to ‘get the band back together&#39; to make Battlefront 3](https://dev.to/gg_news/star-wars-battlefront-2-devs-want-to-get-the-band-back-together-to-make-battlefront-3-54jp)
-- [Warhammer 40,000 Maker Games Workshop Is Doing So Well It&#39;s Giving $27 Million to Its Staff](https://dev.to/gg_news/warhammer-40000-maker-games-workshop-is-doing-so-well-its-giving-27-million-to-its-staff-4fim)
+- [🧠 Build a Terminal Typing Speed Tester in Python &lpar;With WPM &amp; Accuracy Tracking&rpar; 🚀](https://dev.to/nish2005karsh/build-a-terminal-typing-speed-tester-in-python-with-wpm-accuracy-tracking-4fe4)
+- [Los diagramas más populares para el trabajo del gerente de proyectos](https://dev.to/debra_paredes/los-diagramas-mas-populares-para-el-trabajo-del-gerente-de-proyectos-11m7)
+- [Navigating the Talent Landscape: IT Staff Augmentation vs. In-House Recruitment](https://dev.to/jetthoughts/navigating-the-talent-landscape-it-staff-augmentation-vs-in-house-recruitment-3pgn)
+- [Understanding Service Registration &amp; Keyed Services in Dependency Injection](https://dev.to/jitenshahani/understanding-service-registration-keyed-services-in-dependency-injection-1cbf)
 <!-- BLOG-POST-LIST:END -->
 
