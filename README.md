@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership](https://dev.to/aniruddhaadak_/leadership-ak8)
-- [Polymorphic C](https://dev.to/rdentato/polymorphic-c-4kk2)
-- [Hugging Face MCP Course.](https://dev.to/abdullahadeeb/hugging-face-mcp-course-5bbi)
-- [From Web 3.0 to Web 4.0 - Embracing the Agentic Web and Model Context Protocol &lpar;MCP&rpar;](https://dev.to/williamdk/from-web-30-to-web-40-embracing-the-agentic-web-and-model-context-protocol-mcp-21d7)
+- [product Management Dashboard UI – Clean and Responsive](https://dev.to/ahmed_niazy/product-management-dashboard-ui-clean-and-responsive-3laa)
+- [Free Responsive Admin Panel UI Template – HTML, CSS, JavaScript Source Code](https://dev.to/codebloxer_dev/free-responsive-admin-panel-ui-template-html-css-javascript-source-code-fgc)
+- [🧭 Introduction to Web Accessibility &lpar;a11y&rpar; – where to start?](https://dev.to/aleksandra_rataj/introduction-to-web-accessibility-a11y-where-to-start-5h6d)
+- [Supercharge Your Deployments: GitHub Actions + Azure Web App CI/CD](https://dev.to/edudeveloper/supercharge-your-deployments-github-actions-azure-web-app-cicd-1lkd)
 <!-- BLOG-POST-LIST:END -->
 
