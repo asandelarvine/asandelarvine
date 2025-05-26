@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Build a Terminal Typing Speed Tester in Python &lpar;With WPM &amp; Accuracy Tracking&rpar; 🚀](https://dev.to/nish2005karsh/build-a-terminal-typing-speed-tester-in-python-with-wpm-accuracy-tracking-4fe4)
-- [Los diagramas más populares para el trabajo del gerente de proyectos](https://dev.to/debra_paredes/los-diagramas-mas-populares-para-el-trabajo-del-gerente-de-proyectos-11m7)
-- [Navigating the Talent Landscape: IT Staff Augmentation vs. In-House Recruitment](https://dev.to/jetthoughts/navigating-the-talent-landscape-it-staff-augmentation-vs-in-house-recruitment-3pgn)
-- [Understanding Service Registration &amp; Keyed Services in Dependency Injection](https://dev.to/jitenshahani/understanding-service-registration-keyed-services-in-dependency-injection-1cbf)
+- [How does AI integrate with the Waterfall methodology?](https://dev.to/writegenic/how-does-ai-integrate-with-the-waterfall-methodology-446j)
+- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
+- [Looking at c#&#39;s Task&lt;IEnumerable&lt;T&gt;&gt;](https://dev.to/dampee/looking-at-cs-taskienumerable-14ph)
+- [Trackle](https://dev.to/sbdesigns/trackle-1li3)
 <!-- BLOG-POST-LIST:END -->
 
