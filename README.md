@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrap Tabs, Pills &amp; Buttons](https://dev.to/preetha_vaishnavi_2b82358/bootstrap-tabs-pills-buttons-3l4j)
-- [Understanding Kubernetes: part 56 – Native Sidecar Containers](https://dev.to/aurelievache/understanding-kubernetes-part-56-native-sidecar-containers-3l4m)
-- [Using SQL for data analysis seems to be a false proposition](https://dev.to/esproc_spl/using-sql-for-data-analysis-seems-to-be-a-false-proposition-256d)
-- [# 🚀 Из просто умного JSON в бронированный JSON на стероидах — встречайте WiseJSON](https://dev.to/xzdes/-iz-prosto-umnogho-json-v-bronirovannyi-json-na-stieroidakh-vstriechaitie-wisejson-3k83)
+- [[AutoBE] Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
+- [[Boost]](https://dev.to/paulwababu/-1mbn)
+- [Controlling a Reverse Shell Using OpenAI Agents: A Technical Deep Dive](https://dev.to/paulwababu/controlling-a-reverse-shell-using-openai-agents-a-technical-deep-dive-1iba)
+- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
 <!-- BLOG-POST-LIST:END -->
 
