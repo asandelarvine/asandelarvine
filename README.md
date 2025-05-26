@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First AI Cloud Project with AWS: Start with Real-Time Data Ingestion](https://dev.to/mohsinsheikhani/your-first-ai-cloud-project-with-aws-start-with-real-time-data-ingestion-1k96)
-- [Lynx vs React Native: Uma Nova Alternativa no Mundo Cross-Platform?](https://dev.to/aroldo_goulart_b196718b4f/lynx-vs-react-native-uma-nova-alternativa-no-mundo-cross-platform-383l)
-- [Lonely Island RPG](https://dev.to/jpaulin/lonely-island-rpg-4eci)
-- [I just published my first dev article! While working on a React Native project, I couldn’t find a good guide on setting up push notifications with Expo and Firebase, so I decided to write one myself.](https://dev.to/totoledao/i-just-published-my-first-dev-article-while-working-on-a-react-native-project-i-couldnt-find-a-3438)
+- [Tattooing Is a Creative Language — Just Like Code](https://dev.to/isaacbokhoor/tattooing-is-a-creative-language-just-like-code-553m)
+- [The Only 3 Game Engines That Actually Matter in 2025 💥 &lpar;Spoiler: You Already Know Them&rpar;](https://dev.to/flatingofamily/the-only-3-game-engines-that-actually-matter-in-2025-spoiler-you-already-know-them-4aeo)
+- [Consideration of body-image component styling upgrade](https://dev.to/macglencoe/consideration-of-body-image-component-styling-upgrade-1aig)
+- [[Boost]](https://dev.to/farlamo/-1kee)
 <!-- BLOG-POST-LIST:END -->
 
