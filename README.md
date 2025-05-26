@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐛🔍 Debugging JavaScript Like a Pro: Mastering Browser DevTools &amp; Node.js 🛠️](https://dev.to/hanzla-baig/debugging-javascript-like-a-pro-mastering-browser-devtools-nodejs-85g)
-- [Can I Customize Templates in Resume Builders in 2025?](https://dev.to/puratabla/can-i-customize-templates-in-resume-builders-in-2025-454n)
-- [Building a Steampunk Mini-Game in Unity — Clockwork Conquest: Trade &amp; Trick](https://dev.to/tonikaren2632_5548d75857a/building-a-steampunk-mini-game-in-unity-clockwork-conquest-trade-trick-pe0)
-- [Animated Login Form-CSS](https://dev.to/preetha_vaishnavi_2b82358/animated-login-form-css-4p7g)
+- [Why Your IP Got Blocked by SafeLine WAF &lpar;And What It Means&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/why-your-ip-got-blocked-by-safeline-waf-and-what-it-means-1lc5)
+- [Empowering Modern IT Support: Why Microsoft Intune Remote Help Is a Game-Changer](https://dev.to/roshan_karki_f2b61b26c3a8/empowering-modern-it-support-why-microsoft-intune-remote-help-is-a-game-changer-p5k)
+- [🎥Unlock Google Veo 3 Today: 3 Insider Methods You Can&#39;t Afford to Miss](https://dev.to/fallon_jimmy/unlock-google-veo-3-today-3-insider-methods-you-cant-afford-to-miss-3n77)
+- [AWS EC2 Security Groups - Your Virtual Firewall in the Cloud](https://dev.to/costqai/aws-ec2-security-groups-your-virtual-firewall-in-the-cloud-3eop)
 <!-- BLOG-POST-LIST:END -->
 
