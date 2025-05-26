@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[AutoBE] Backend Vibe Coding Agent, generating 100% working code by Compiler Feedback Strategy](https://dev.to/samchon/autobe-backend-vibe-coding-agent-generating-100-working-code-by-compiler-feedback-strategy-50j1)
-- [[Boost]](https://dev.to/paulwababu/-1mbn)
-- [Controlling a Reverse Shell Using OpenAI Agents: A Technical Deep Dive](https://dev.to/paulwababu/controlling-a-reverse-shell-using-openai-agents-a-technical-deep-dive-1iba)
-- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
+- [How to Translate Spanish to Italian Effectively: A Practical Guide](https://dev.to/colinreed/how-to-translate-spanish-to-italian-effectively-a-practical-guide-4eg1)
+- [IoT Sensor Data Management System with MongoDB and .NET](https://dev.to/softacom/iot-sensor-data-management-system-with-mongodb-and-net-3epm)
+- [Time &amp; Space Complexity](https://dev.to/rakesh_chaubey_ac4fa25823/time-space-complexity-2k0f)
+- [Getting McFly Working on Ubuntu Server](https://dev.to/nickytonline/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e)
 <!-- BLOG-POST-LIST:END -->
 
