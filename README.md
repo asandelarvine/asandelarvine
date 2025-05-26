@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Spanish to Italian Effectively: A Practical Guide](https://dev.to/colinreed/how-to-translate-spanish-to-italian-effectively-a-practical-guide-4eg1)
-- [IoT Sensor Data Management System with MongoDB and .NET](https://dev.to/softacom/iot-sensor-data-management-system-with-mongodb-and-net-3epm)
-- [Time &amp; Space Complexity](https://dev.to/rakesh_chaubey_ac4fa25823/time-space-complexity-2k0f)
-- [Getting McFly Working on Ubuntu Server](https://dev.to/nickytonline/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e)
+- [ServBay: Create Your Perfect macOS Development Environment with One Click](https://dev.to/servbay/servbay-create-your-perfect-macos-development-environment-with-one-click-25p6)
+- [Code with a View: Why Digital Nomads Are Falling in Love with Remote Work in Athens 🇬🇷](https://dev.to/lycawn_antoniades_42e8c8a/code-with-a-view-why-digital-nomads-are-falling-in-love-with-remote-work-in-athens-4afj)
+- [Stop Testing on Fake Devices: The Real Cost of Real Browser Testing in 2025](https://dev.to/p_0c0278d/stop-testing-on-fake-devices-the-real-cost-of-real-browser-testing-in-2025-390g)
+- [From Intern to Full-Time: How One Job Kickstarted My Developer Journey](https://dev.to/amoreno/from-intern-to-full-time-how-one-job-kickstarted-my-developer-journey-2l8m)
 <!-- BLOG-POST-LIST:END -->
 
