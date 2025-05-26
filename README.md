@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SecureFetch.AspNetCore](https://dev.to/ethernmyth/introducing-securefetchaspnetcore-3c58)
-- [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)
-- [⚔️ Cyber Wars 2025: How India Is Battling Digital Threats on Multiple Fronts](https://dev.to/tamajit_modak/cyber-wars-2025-how-india-is-battling-digital-threats-on-multiple-fronts-27gi)
-- [CockroachDB with .NET: Why is it new?](https://dev.to/hasanmonsur/cockroachdb-with-net-why-is-it-new-13p7)
+- [DBMS 2024](https://dev.to/aniruddhaadak_/dbms-2024-3ogi)
+- [Enhance Your TCP Troubleshooting: Free Wireshark Profile for Network Engineers](https://dev.to/elelabdev/enhance-your-tcp-troubleshooting-free-wireshark-profile-for-network-engineers-3fla)
+- [📞 Integrating Twilio into your project: Part 1 - Creating your account](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-1-creating-your-account-1oof)
+- [What Is a Case Class in Scala and Why Is It Useful?](https://dev.to/puratabla/what-is-a-case-class-in-scala-and-why-is-it-useful-2b3o)
 <!-- BLOG-POST-LIST:END -->
 
