@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DBMS 2024](https://dev.to/aniruddhaadak_/dbms-2024-3ogi)
-- [Enhance Your TCP Troubleshooting: Free Wireshark Profile for Network Engineers](https://dev.to/elelabdev/enhance-your-tcp-troubleshooting-free-wireshark-profile-for-network-engineers-3fla)
-- [📞 Integrating Twilio into your project: Part 1 - Creating your account](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-1-creating-your-account-1oof)
-- [What Is a Case Class in Scala and Why Is It Useful?](https://dev.to/puratabla/what-is-a-case-class-in-scala-and-why-is-it-useful-2b3o)
+- [Why JavaScript? Actually it&#39;s ECMAScript](https://dev.to/anshuman_khanna/why-javascript-actually-its-ecmascript-5cen)
+- [I built a WhatsApp Web UI Clone](https://dev.to/soorajsnblaze333/i-built-a-whatsapp-web-ui-clone-2723)
+- [Early Return vs. Classic If-Else: A Universal Pattern for Writing Cleaner Code](https://dev.to/eddiegoldman/early-return-vs-classic-if-else-a-universal-pattern-for-writing-cleaner-code-1083)
+- [Apple Ordered to Allow Crypto Payments &amp; NFT Links in iOS Apps After Court Ruling](https://dev.to/dextrapps/apple-ordered-to-allow-crypto-payments-nft-links-in-ios-apps-after-court-ruling-3043)
 <!-- BLOG-POST-LIST:END -->
 
