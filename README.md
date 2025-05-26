@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Product Ideas Fail?](https://dev.to/pratham_naik_project_manager/why-most-product-ideas-fail-33k1)
-- [Why Most Product Ideas Fail &lpar;and the Tools Developers Actually Need to Build Ones That Don’t&rpar;](https://dev.to/teamcamp/why-most-product-ideas-fail-and-the-tools-developers-actually-need-to-build-ones-that-dont-315a)
-- [Onboarding Engineers in an Era of Code Explosion](https://dev.to/lonetrouper/onboarding-engineers-in-an-era-of-code-explosion-5ef9)
-- [BrightData MCP - Google ADK: Professional Web Scraping Platform](https://dev.to/arjun_prabhulal/brightdata-mcp-google-adk-professional-web-scraping-platform-2f5d)
+- [🐛🔍 Debugging JavaScript Like a Pro: Mastering Browser DevTools &amp; Node.js 🛠️](https://dev.to/hanzla-baig/debugging-javascript-like-a-pro-mastering-browser-devtools-nodejs-85g)
+- [Can I Customize Templates in Resume Builders in 2025?](https://dev.to/puratabla/can-i-customize-templates-in-resume-builders-in-2025-454n)
+- [Building a Steampunk Mini-Game in Unity — Clockwork Conquest: Trade &amp; Trick](https://dev.to/tonikaren2632_5548d75857a/building-a-steampunk-mini-game-in-unity-clockwork-conquest-trade-trick-pe0)
+- [Animated Login Form-CSS](https://dev.to/preetha_vaishnavi_2b82358/animated-login-form-css-4p7g)
 <!-- BLOG-POST-LIST:END -->
 
