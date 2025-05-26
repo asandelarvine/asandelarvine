@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
-- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
-- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
-- [LibTracker VS Code Extension: Streamline Your Dependency Management](https://dev.to/windmillcode/libtracker-vs-code-extension-streamline-your-dependency-management-16mc)
+- [The Ops Apocalypse is Coming! SSL Certificate Validity to be Shortened Again?](https://dev.to/patel1314/the-ops-apocalypse-is-coming-ssl-certificate-validity-to-be-shortened-again-2dgj)
+- [🌿 GreenOps e AWS Well-Architected Framework](https://dev.to/sertaoseracloud/greenops-e-aws-well-architected-framework-1ibc)
+- [Higher-Order Functions](https://dev.to/tohemt/higher-order-functions-3250)
+- [Data Structures #3: Trie](https://dev.to/tkouleris/data-structures-3-trie-djp)
 <!-- BLOG-POST-LIST:END -->
 
