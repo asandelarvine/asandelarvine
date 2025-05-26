@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/job_muli_d1257dba621eeec5/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-1o7n)
-- [[Boost]](https://dev.to/espoir/-184e)
-- [Searching for a new Keywordkönig](https://dev.to/florian_meissner_11fa9b98/searching-for-a-new-keywordkonig-10mm)
-- [🚀 How I Built My First Python Automation Script &lpar;And You Can Too!&rpar; Hey devs! 👋](https://dev.to/nihal473/how-i-built-my-first-python-automation-script-and-you-can-toohey-devs-14g4)
+- [Introducing SecureFetch.AspNetCore](https://dev.to/ethernmyth/introducing-securefetchaspnetcore-3c58)
+- [🔥Claude Opus 4 vs. Gemini 2.5 Pro vs. OpenAI o3 Coding Comparison 🚀](https://dev.to/composiodev/claude-opus-4-vs-gemini-25-pro-vs-openai-o3-coding-comparison-3jnp)
+- [⚔️ Cyber Wars 2025: How India Is Battling Digital Threats on Multiple Fronts](https://dev.to/tamajit_modak/cyber-wars-2025-how-india-is-battling-digital-threats-on-multiple-fronts-27gi)
+- [CockroachDB with .NET: Why is it new?](https://dev.to/hasanmonsur/cockroachdb-with-net-why-is-it-new-13p7)
 <!-- BLOG-POST-LIST:END -->
 
