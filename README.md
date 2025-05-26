@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How does AI integrate with the Waterfall methodology?](https://dev.to/writegenic/how-does-ai-integrate-with-the-waterfall-methodology-446j)
-- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
-- [Looking at c#&#39;s Task&lt;IEnumerable&lt;T&gt;&gt;](https://dev.to/dampee/looking-at-cs-taskienumerable-14ph)
-- [Trackle](https://dev.to/sbdesigns/trackle-1li3)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/job_muli_d1257dba621eeec5/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-1o7n)
+- [[Boost]](https://dev.to/espoir/-184e)
+- [Searching for a new Keywordkönig](https://dev.to/florian_meissner_11fa9b98/searching-for-a-new-keywordkonig-10mm)
+- [🚀 How I Built My First Python Automation Script &lpar;And You Can Too!&rpar; Hey devs! 👋](https://dev.to/nihal473/how-i-built-my-first-python-automation-script-and-you-can-toohey-devs-14g4)
 <!-- BLOG-POST-LIST:END -->
 
