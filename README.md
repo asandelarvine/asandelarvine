@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding&quot;Attention Is All You Need.......&quot;](https://dev.to/kaustubhyerkade/decodingattention-is-all-you-need-2eog)
-- [Today’s Progress – Odin Project Foundation Course](https://dev.to/ainycodes07/todays-progress-odin-project-foundation-course-44nj)
-- [Perception](https://dev.to/aniruddhaadak_/perception-49l6)
-- [How to Set Up CI/CD for Your Django App Using GitHub Actions and Systemd](https://dev.to/msnmongare/how-to-set-up-cicd-for-your-django-app-using-github-actions-and-systemd-2cob)
+- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
+- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
+- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
+- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
 <!-- BLOG-POST-LIST:END -->
 
