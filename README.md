@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/gamini_jayaweera_9cf2f8b1/untitled-3mi9)
-- [From Exam Paper Assembly to AI Buddy: How I Got Cursed into Generative Coding &lpar;Let&#39;s Share Stories!&rpar;](https://dev.to/gokerdev/from-exam-paper-assembly-to-ai-buddy-how-i-got-cursed-into-generative-coding-lets-share-stories-3gbo)
-- [Publish Your First NPM Package](https://dev.to/arunez/publish-your-first-npm-package-3a9o)
-- [DevOps vs SRE: Detailed Comparison](https://dev.to/sameerimtiaz/devops-vs-sre-detailed-comparison-2d32)
+- [Decoding&quot;Attention Is All You Need.......&quot;](https://dev.to/kaustubhyerkade/decodingattention-is-all-you-need-2eog)
+- [Today’s Progress – Odin Project Foundation Course](https://dev.to/ainycodes07/todays-progress-odin-project-foundation-course-44nj)
+- [Perception](https://dev.to/aniruddhaadak_/perception-49l6)
+- [How to Set Up CI/CD for Your Django App Using GitHub Actions and Systemd](https://dev.to/msnmongare/how-to-set-up-cicd-for-your-django-app-using-github-actions-and-systemd-2cob)
 <!-- BLOG-POST-LIST:END -->
 
