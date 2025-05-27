@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of AI on Software Development: A Double-Edged Sword](https://dev.to/abdallahsaleh/the-impact-of-ai-on-software-development-a-double-edged-sword-5hgh)
-- [Crafting an Effective Application Security Program: Strategies, Methods and Tools for the Best results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-1i4i)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
-- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
+- [Untitled](https://dev.to/gamini_jayaweera_9cf2f8b1/untitled-3mi9)
+- [From Exam Paper Assembly to AI Buddy: How I Got Cursed into Generative Coding &lpar;Let&#39;s Share Stories!&rpar;](https://dev.to/gokerdev/from-exam-paper-assembly-to-ai-buddy-how-i-got-cursed-into-generative-coding-lets-share-stories-3gbo)
+- [Publish Your First NPM Package](https://dev.to/arunez/publish-your-first-npm-package-3a9o)
+- [DevOps vs SRE: Detailed Comparison](https://dev.to/sameerimtiaz/devops-vs-sre-detailed-comparison-2d32)
 <!-- BLOG-POST-LIST:END -->
 
