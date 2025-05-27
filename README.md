@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to OVER Engineer a Website // What is a Tech Stack?](https://dev.to/alishirani/how-to-over-engineer-a-website-what-is-a-tech-stack-26g9)
-- [Retro Slot Machine with HTML, CSS, and JavaScript](https://dev.to/preetha_vaishnavi_2b82358/retro-slot-machine-with-html-css-and-javascript-251l)
-- [The Rise of Multi-Agent AI: Where It’s Going and Why It Matters](https://dev.to/daniel_vojcak_9ba2d00af8b/the-rise-of-multi-agent-ai-where-its-going-and-why-it-matters-3782)
-- [Diversity of Dev Tools and Frameworks](https://dev.to/luiz_camargo_0ee57bad05e6/diversity-of-dev-tools-and-frameworks-5gic)
+- [What Cats Might Teach Us About Silent UX and Unspoken Connection](https://dev.to/versiqcontent/what-cats-might-teach-us-about-silent-ux-and-unspoken-connection-31aa)
+- [Breaking Down Microservices Architecture](https://dev.to/biswasprasana001/breaking-down-microservices-architecture-2ldk)
+- [Python Selenium Architecture](https://dev.to/ashnet_a/python-selenium-architecture-2n32)
+- [Do You Plan Ahead or Figure out Programs as You Are Writing Them?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-42im)
 <!-- BLOG-POST-LIST:END -->
 
