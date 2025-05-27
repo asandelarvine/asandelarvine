@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vamos falar sobre memory leak &lpar;Vazamento de ram&rpar;](https://dev.to/alexdlli/vamos-falar-sobre-memory-leak-vazamento-de-ram-ejm)
-- [Microsoft Copilot Now Supports GPT-4o Image Generation — Here’s What You Can Do with It](https://dev.to/squaredtech/microsoft-copilot-now-supports-gpt-4o-image-generation-heres-what-you-can-do-with-it-55m0)
-- [Lock Down Your Account: Enforcing 2FA Setup on Login](https://dev.to/iamdevbox/lock-down-your-account-enforcing-2fa-setup-on-login-4ehh)
-- [The Dark Side of Online Identity: Risks of User Impersonation](https://dev.to/iamdevbox/the-dark-side-of-online-identity-risks-of-user-impersonation-28ji)
+- [The Impact of AI on Software Development: A Double-Edged Sword](https://dev.to/abdallahsaleh/the-impact-of-ai-on-software-development-a-double-edged-sword-5hgh)
+- [Crafting an Effective Application Security Program: Strategies, Methods and Tools for the Best results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-1i4i)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
+- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
 <!-- BLOG-POST-LIST:END -->
 
