@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Counting the Stars with JavaScript: The Use Case for the bigint Primitive](https://dev.to/micmath/counting-the-stars-with-javascript-the-use-case-for-the-bigint-primitive-1be0)
-- [All Data and AI Weekly #191 - May 26, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-191-may-26-2025-1g1k)
-- [This post hit hard. So many truths about remote leadership that people avoid saying.](https://dev.to/lucasvonb/this-post-hit-hard-so-many-truths-about-remote-leadership-that-people-avoid-saying-2egg)
-- [My DualBoot Experience How i broke my laptop](https://dev.to/sourav_mahato_3900/my-dualboot-experience-how-i-broke-my-laptop-f83)
+- [Replit GenAI Security Scans and Shadow AI](https://dev.to/j12y/replit-genai-security-scans-and-shadow-ai-4kek)
+- [🧠JavaScript Basics](https://dev.to/chithra_priya/javascript-basics-1h2j)
+- [# Building a Smart Vue 3 Cart Manager Composable 🛒](https://dev.to/alanlovesw3/-building-a-smart-vue-3-cart-manager-composable-47h2)
+- [Build a Simple “Jump Jump” Game in Under 100 Lines of JavaScript](https://dev.to/albert_001ae66d1b1278b0ab/build-a-simple-jump-jump-game-in-under-100-lines-of-javascript-40g3)
 <!-- BLOG-POST-LIST:END -->
 
