@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to enable debug mode in nuqs?](https://dev.to/ramunarasinga-11/how-to-enable-debug-mode-in-nuqs-4kp9)
-- [Neon Circular pattern #anydayshaders 39](https://dev.to/preetha_vaishnavi_2b82358/neon-circular-pattern-anydayshaders-39-4j48)
-- [EchoCraftPro](https://dev.to/preetha_vaishnavi_2b82358/echocraftpro-3jbm)
-- [🛠 Maven vs Gradle vs Apache Ant — Which Java Build Tool Should You Use?](https://dev.to/matin676/maven-vs-gradle-vs-apache-ant-which-java-build-tool-should-you-use-4phl)
+- [What Is a WAF? A Beginner’s Guide to Web App Firewalls](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-a-beginners-guide-to-web-app-firewalls-4g9f)
+- [Git clean local branches](https://dev.to/bdavidxyz/git-clean-local-branches-14c7)
+- [Proposed HIPAA 2025 Mandates AI and Resilience](https://dev.to/briskinfosec_creations_8f/proposed-hipaa-2025-mandates-ai-and-resilience-31l9)
+- [Data Security &amp; Authorization: The Dual Pillars of a Robust Database System](https://dev.to/aniruddhaadak_/data-security-authorization-the-dual-pillars-of-a-robust-database-system-3m3p)
 <!-- BLOG-POST-LIST:END -->
 
