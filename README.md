@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Cats Might Teach Us About Silent UX and Unspoken Connection](https://dev.to/versiqcontent/what-cats-might-teach-us-about-silent-ux-and-unspoken-connection-31aa)
-- [Breaking Down Microservices Architecture](https://dev.to/biswasprasana001/breaking-down-microservices-architecture-2ldk)
-- [Python Selenium Architecture](https://dev.to/ashnet_a/python-selenium-architecture-2n32)
-- [Do You Plan Ahead or Figure out Programs as You Are Writing Them?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-42im)
+- [🎯 Day 11 – Started Learning Objects in JavaScript!](https://dev.to/krishna_chd/day-11-started-learning-objects-in-javascript-2c09)
+- [This gave me more clarity in five minutes than some full courses I’ve taken on communication.](https://dev.to/jackied0minguez/this-gave-me-more-clarity-in-five-minutes-than-some-full-courses-ive-taken-on-communication-2pda)
+- [Combine multiple S3 storage](https://dev.to/ktbsomen/combine-multiple-s3-storage-3idk)
+- [How to Cut Down on Restart Times in Your Node.js Application](https://dev.to/yakovlev_alexey/how-to-cut-down-on-restart-times-in-your-nodejs-application-3j0h)
 <!-- BLOG-POST-LIST:END -->
 
