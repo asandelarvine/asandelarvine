@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of AI Agent Learning!](https://dev.to/distalx/day-1-of-ai-agent-learning-5bh1)
-- [All computer networks video](https://dev.to/aniruddhaadak_/all-computer-networks-video-53o1)
-- [A True React Hook Form Alternative – FormEngine 4.0 Is Now MIT Licensed and Free! 🚀](https://dev.to/optimajet/a-true-react-hook-form-alternative-formengine-40-is-now-mit-licensed-and-free-1gke)
-- [📡 Real-Time Communication with SignalR in ASP.NET Core Complete Setup Guide](https://dev.to/hardik_jariwala_748c4a032/real-time-communication-with-signalr-in-aspnet-core-complete-setup-guide-22bb)
+- [Vamos falar sobre memory leak &lpar;Vazamento de ram&rpar;](https://dev.to/alexdlli/vamos-falar-sobre-memory-leak-vazamento-de-ram-ejm)
+- [Microsoft Copilot Now Supports GPT-4o Image Generation — Here’s What You Can Do with It](https://dev.to/squaredtech/microsoft-copilot-now-supports-gpt-4o-image-generation-heres-what-you-can-do-with-it-55m0)
+- [Lock Down Your Account: Enforcing 2FA Setup on Login](https://dev.to/iamdevbox/lock-down-your-account-enforcing-2fa-setup-on-login-4ehh)
+- [The Dark Side of Online Identity: Risks of User Impersonation](https://dev.to/iamdevbox/the-dark-side-of-online-identity-risks-of-user-impersonation-28ji)
 <!-- BLOG-POST-LIST:END -->
 
