@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Day 11 – Started Learning Objects in JavaScript!](https://dev.to/krishna_chd/day-11-started-learning-objects-in-javascript-2c09)
-- [This gave me more clarity in five minutes than some full courses I’ve taken on communication.](https://dev.to/jackied0minguez/this-gave-me-more-clarity-in-five-minutes-than-some-full-courses-ive-taken-on-communication-2pda)
-- [Combine multiple S3 storage](https://dev.to/ktbsomen/combine-multiple-s3-storage-3idk)
-- [How to Cut Down on Restart Times in Your Node.js Application](https://dev.to/yakovlev_alexey/how-to-cut-down-on-restart-times-in-your-nodejs-application-3j0h)
+- [Counting the Stars with JavaScript: The Use Case for the bigint Primitive](https://dev.to/micmath/counting-the-stars-with-javascript-the-use-case-for-the-bigint-primitive-1be0)
+- [All Data and AI Weekly #191 - May 26, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-191-may-26-2025-1g1k)
+- [This post hit hard. So many truths about remote leadership that people avoid saying.](https://dev.to/lucasvonb/this-post-hit-hard-so-many-truths-about-remote-leadership-that-people-avoid-saying-2egg)
+- [My DualBoot Experience How i broke my laptop](https://dev.to/sourav_mahato_3900/my-dualboot-experience-how-i-broke-my-laptop-f83)
 <!-- BLOG-POST-LIST:END -->
 
