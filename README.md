@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Replit GenAI Security Scans and Shadow AI](https://dev.to/j12y/replit-genai-security-scans-and-shadow-ai-4kek)
-- [🧠JavaScript Basics](https://dev.to/chithra_priya/javascript-basics-1h2j)
-- [# Building a Smart Vue 3 Cart Manager Composable 🛒](https://dev.to/alanlovesw3/-building-a-smart-vue-3-cart-manager-composable-47h2)
-- [Build a Simple “Jump Jump” Game in Under 100 Lines of JavaScript](https://dev.to/albert_001ae66d1b1278b0ab/build-a-simple-jump-jump-game-in-under-100-lines-of-javascript-40g3)
+- [Day 1 of AI Agent Learning!](https://dev.to/distalx/day-1-of-ai-agent-learning-5bh1)
+- [All computer networks video](https://dev.to/aniruddhaadak_/all-computer-networks-video-53o1)
+- [A True React Hook Form Alternative – FormEngine 4.0 Is Now MIT Licensed and Free! 🚀](https://dev.to/optimajet/a-true-react-hook-form-alternative-formengine-40-is-now-mit-licensed-and-free-1gke)
+- [📡 Real-Time Communication with SignalR in ASP.NET Core Complete Setup Guide](https://dev.to/hardik_jariwala_748c4a032/real-time-communication-with-signalr-in-aspnet-core-complete-setup-guide-22bb)
 <!-- BLOG-POST-LIST:END -->
 
