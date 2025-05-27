@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tattooing Is a Creative Language — Just Like Code](https://dev.to/isaacbokhoor/tattooing-is-a-creative-language-just-like-code-553m)
-- [The Only 3 Game Engines That Actually Matter in 2025 💥 &lpar;Spoiler: You Already Know Them&rpar;](https://dev.to/flatingofamily/the-only-3-game-engines-that-actually-matter-in-2025-spoiler-you-already-know-them-4aeo)
-- [Consideration of body-image component styling upgrade](https://dev.to/macglencoe/consideration-of-body-image-component-styling-upgrade-1aig)
-- [[Boost]](https://dev.to/farlamo/-1kee)
+- [Hostel Stress](https://dev.to/techpepson/hostel-stress-12m7)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
+- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
+- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
 <!-- BLOG-POST-LIST:END -->
 
