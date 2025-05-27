@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
-- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
-- [Common Solutions for Cross-Page Data Transmission in HarmonyOS-NEXT](https://dev.to/shaodong_xu/common-solutions-for-cross-page-data-transmission-in-harmonyos-next-5b1j)
-- [The 5 Levels of Machine Learning Projects: From Kaggle to Cutting-Edge AI](https://dev.to/thearjun/the-5-levels-of-machine-learning-projects-from-kaggle-to-cutting-edge-ai-4eaf)
+- [Dev Centric Tools for Building World class Products](https://dev.to/pranesh_patel/dev-centric-tools-for-building-world-class-products-4nog)
+- [Dev Cebtric Tools for Building World class Products](https://dev.to/pratham_naik_project_manager/dev-cebtric-tools-for-building-world-class-products-bk3)
+- [Dev-Centric Tools for Building World-Class Products in 2025](https://dev.to/teamcamp/dev-centric-tools-for-building-world-class-products-in-2025-20oj)
+- [🚫 Still using cProfile in 2025? There are better ways.](https://dev.to/aleksei_aleinikov/still-using-cprofile-in-2025-there-are-better-ways-3j3p)
 <!-- BLOG-POST-LIST:END -->
 
