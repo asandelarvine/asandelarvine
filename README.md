@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Free WAF Is Wildly Powerful — One Command to Stop Hackers](https://dev.to/sharon_42e16b8da44dabde6d/this-free-waf-is-wildly-powerful-one-command-to-stop-hackers-onb)
-- [Burnout, Imposter Syndrome, and the Death of Experience in Tech](https://dev.to/mikevarenek/burnout-imposter-syndrome-and-the-death-of-experience-in-tech-5fgd)
-- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
-- [J1SE &lpar;Java 1 Standard Edition&rpar; VS J2EE &lpar;Java 2 Enterprise Edition&rpar;](https://dev.to/sudhakar_v_c404997aeec839/j1se-java-1-standard-edition-vs-j2ee-java-2-enterprise-edition-41ae)
+- [Named Entity Recognition &lpar;NER&rpar; dalam Pipeline Knowledge Graph CTI Multi-PDF: Konsep, Kode, &amp; Tips Praktis](https://dev.to/ahmadasroni38/named-entity-recognition-ner-dalam-pipeline-knowledge-graph-cti-multi-pdf-konsep-kode-tips-hj2)
+- [𝗦𝗶𝗺𝗽𝗹𝗶𝗳𝘆𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 𝘄𝗶𝘁𝗵 𝗧𝗮𝘀𝗸 𝗚𝗿𝗼𝘂𝗽𝘀](https://dev.to/supraja_tangella_b7f0738e/-57di)
+- [Stop Leaving Money on the Table: Earn 15% Every Time You Add a Cookie Banner](https://dev.to/mehwish_malik_4f29ff7fb04/stop-leaving-money-on-the-table-earn-15-every-time-you-add-a-cookie-banner-5a7a)
+- [You do it wrong! Customizing ABP Login Page Correctly](https://dev.to/enisn/you-do-it-wrong-customizing-abp-login-page-correctly-l2k)
 <!-- BLOG-POST-LIST:END -->
 
