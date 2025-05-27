@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a WAF? A Beginner’s Guide to Web App Firewalls](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-waf-a-beginners-guide-to-web-app-firewalls-4g9f)
-- [Git clean local branches](https://dev.to/bdavidxyz/git-clean-local-branches-14c7)
-- [Proposed HIPAA 2025 Mandates AI and Resilience](https://dev.to/briskinfosec_creations_8f/proposed-hipaa-2025-mandates-ai-and-resilience-31l9)
-- [Data Security &amp; Authorization: The Dual Pillars of a Robust Database System](https://dev.to/aniruddhaadak_/data-security-authorization-the-dual-pillars-of-a-robust-database-system-3m3p)
+- [This Free WAF Is Wildly Powerful — One Command to Stop Hackers](https://dev.to/sharon_42e16b8da44dabde6d/this-free-waf-is-wildly-powerful-one-command-to-stop-hackers-onb)
+- [Burnout, Imposter Syndrome, and the Death of Experience in Tech](https://dev.to/mikevarenek/burnout-imposter-syndrome-and-the-death-of-experience-in-tech-5fgd)
+- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
+- [J1SE &lpar;Java 1 Standard Edition&rpar; VS J2EE &lpar;Java 2 Enterprise Edition&rpar;](https://dev.to/sudhakar_v_c404997aeec839/j1se-java-1-standard-edition-vs-j2ee-java-2-enterprise-edition-41ae)
 <!-- BLOG-POST-LIST:END -->
 
