@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Days of Java](https://dev.to/hasan048/the-new-days-of-java-8el)
-- [Troll face floppy bird](https://dev.to/she_he_8427f9db3a95733b33/troll-face-floppy-bird-n7k)
-- [Modern UI the Easy Way: Using Tailwind CSS with Angular](https://dev.to/nikhil6076/modern-ui-the-easy-way-using-tailwind-css-with-angular-146c)
-- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
+- [Redis Message Broker: How It Works and How to Use It](https://dev.to/hostman_com/redis-message-broker-how-it-works-and-how-to-use-it-2b28)
+- [AI Call Assistant: The Future of Automated Communication](https://dev.to/lindsayn159/ai-call-assistant-the-future-of-automated-communication-lpd)
+- [Notex](https://dev.to/lelixn/notex-2j40)
+- [Watch this 16-minute video and learn how to migrate Microsoft&#39;s former ASP.NET WebForms project to WebForms Core technology.](https://dev.to/elanatframework/watch-this-16-minute-video-and-learn-how-to-migrate-microsofts-former-aspnet-webforms-project-to-1ja8)
 <!-- BLOG-POST-LIST:END -->
 
