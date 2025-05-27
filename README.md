@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [c# because i dont understand](https://dev.to/anonymushelper/c-because-i-dont-understand-3opn)
-- [Understanding Ownership with Structs and Functions](https://dev.to/sgchris/understanding-ownership-with-structs-and-functions-3bbd)
-- [Life quotes](https://dev.to/syntaxlailaaa/life-quotes-a1j)
-- [Use Local LLM with Cursor](https://dev.to/0xkoji/use-local-llm-with-cursor-2h4i)
+- [The New Days of Java](https://dev.to/hasan048/the-new-days-of-java-8el)
+- [Troll face floppy bird](https://dev.to/she_he_8427f9db3a95733b33/troll-face-floppy-bird-n7k)
+- [Modern UI the Easy Way: Using Tailwind CSS with Angular](https://dev.to/nikhil6076/modern-ui-the-easy-way-using-tailwind-css-with-angular-146c)
+- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
 <!-- BLOG-POST-LIST:END -->
 
