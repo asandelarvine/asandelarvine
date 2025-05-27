@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-56io)
-- [Anthropic&#39;s new hybrid AI model can work on tasks autonomously for hours at a time](https://dev.to/future_ai/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time-5ad6)
-- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-4g6l)
-- [DOGE team using AI to scour personal data to root out Trump disloyalty: report](https://dev.to/future_ai/doge-team-using-ai-to-scour-personal-data-to-root-out-trump-disloyalty-report-okg)
+- [How to OVER Engineer a Website // What is a Tech Stack?](https://dev.to/alishirani/how-to-over-engineer-a-website-what-is-a-tech-stack-26g9)
+- [Retro Slot Machine with HTML, CSS, and JavaScript](https://dev.to/preetha_vaishnavi_2b82358/retro-slot-machine-with-html-css-and-javascript-251l)
+- [The Rise of Multi-Agent AI: Where It’s Going and Why It Matters](https://dev.to/daniel_vojcak_9ba2d00af8b/the-rise-of-multi-agent-ai-where-its-going-and-why-it-matters-3782)
+- [Diversity of Dev Tools and Frameworks](https://dev.to/luiz_camargo_0ee57bad05e6/diversity-of-dev-tools-and-frameworks-5gic)
 <!-- BLOG-POST-LIST:END -->
 
