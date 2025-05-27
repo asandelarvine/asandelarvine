@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Message Broker: How It Works and How to Use It](https://dev.to/hostman_com/redis-message-broker-how-it-works-and-how-to-use-it-2b28)
-- [AI Call Assistant: The Future of Automated Communication](https://dev.to/lindsayn159/ai-call-assistant-the-future-of-automated-communication-lpd)
-- [Notex](https://dev.to/lelixn/notex-2j40)
-- [Watch this 16-minute video and learn how to migrate Microsoft&#39;s former ASP.NET WebForms project to WebForms Core technology.](https://dev.to/elanatframework/watch-this-16-minute-video-and-learn-how-to-migrate-microsofts-former-aspnet-webforms-project-to-1ja8)
+- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-56io)
+- [Anthropic&#39;s new hybrid AI model can work on tasks autonomously for hours at a time](https://dev.to/future_ai/anthropics-new-hybrid-ai-model-can-work-on-tasks-autonomously-for-hours-at-a-time-5ad6)
+- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-4g6l)
+- [DOGE team using AI to scour personal data to root out Trump disloyalty: report](https://dev.to/future_ai/doge-team-using-ai-to-scour-personal-data-to-root-out-trump-disloyalty-report-okg)
 <!-- BLOG-POST-LIST:END -->
 
