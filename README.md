@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Centric Tools for Building World class Products](https://dev.to/pranesh_patel/dev-centric-tools-for-building-world-class-products-4nog)
-- [Dev Cebtric Tools for Building World class Products](https://dev.to/pratham_naik_project_manager/dev-cebtric-tools-for-building-world-class-products-bk3)
-- [Dev-Centric Tools for Building World-Class Products in 2025](https://dev.to/teamcamp/dev-centric-tools-for-building-world-class-products-in-2025-20oj)
-- [🚫 Still using cProfile in 2025? There are better ways.](https://dev.to/aleksei_aleinikov/still-using-cprofile-in-2025-there-are-better-ways-3j3p)
+- [How to enable debug mode in nuqs?](https://dev.to/ramunarasinga-11/how-to-enable-debug-mode-in-nuqs-4kp9)
+- [Neon Circular pattern #anydayshaders 39](https://dev.to/preetha_vaishnavi_2b82358/neon-circular-pattern-anydayshaders-39-4j48)
+- [EchoCraftPro](https://dev.to/preetha_vaishnavi_2b82358/echocraftpro-3jbm)
+- [🛠 Maven vs Gradle vs Apache Ant — Which Java Build Tool Should You Use?](https://dev.to/matin676/maven-vs-gradle-vs-apache-ant-which-java-build-tool-should-you-use-4phl)
 <!-- BLOG-POST-LIST:END -->
 
