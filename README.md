@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mejora tu English Speaking con Amazon Nova Sonic y RAG](https://dev.to/camila_hinojosa_anez/mejora-tu-english-speaking-con-amazon-nova-sonic-y-rag-3gd1)
-- [Future of Salesforce in 2025 and Beyond: Trends, Tech &amp; Transformation](https://dev.to/elearning_solutions_791be/future-of-salesforce-in-2025-and-beyond-trends-tech-transformation-1ofo)
-- [Load Testing a Scalable AWS Application Using Grafana k6](https://dev.to/kalio/load-testing-a-scalable-aws-application-using-grafana-k6-5238)
-- [📝 Como listar la concurrencia reservada y aprovisionada de nuestras Lambdas ⚡.](https://dev.to/aws-espanol/como-listar-la-concurrencia-reservada-y-aprovisionada-de-nuestras-lambdas--j33)
+- [Basic Natural Language Processing](https://dev.to/datatoinfinity/basic-natural-language-processing-2gp7)
+- [JavaScript Objects Explained Simply for Beginners &lpar;with Examples&rpar;](https://dev.to/afreen_shabbagh_5f2f474ed/javascript-objects-explained-simply-for-beginners-with-examples-4adc)
+- [Intersection Observer API: A tool for optimizing Infinite Scroll](https://dev.to/hydroxylase/intersection-observer-api-a-tool-for-optimizing-infinite-scroll-151)
+- [𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲: 𝗦𝗲𝘁𝘁𝗶𝗻𝗴 𝗨𝗽 𝗮 𝗥𝗲𝗹𝗲𝗮𝘀𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽 𝗨𝘀𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/--2ojg)
 <!-- BLOG-POST-LIST:END -->
 
