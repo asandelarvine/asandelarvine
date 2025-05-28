@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using RAG architecture for generative tasks](https://dev.to/bohdanstupak1/using-rag-architecture-for-generative-tasks-2pbk)
-- [Will AI + No-Code Replace Developers? What the Future Holds](https://dev.to/vasundhara/will-ai-no-code-replace-developers-what-the-future-holds-31l0)
-- [Advances in Information Retrieval: A Comprehensive Analysis of Recent Research](https://dev.to/khanali21/advances-in-information-retrieval-a-comprehensive-analysis-of-recent-research-156f)
-- [From Vec to Slice: Writing Generic Functions over Collections](https://dev.to/sgchris/from-vec-to-slice-writing-generic-functions-over-collections-1jgd)
+- [Why Some People Learn Faster &lpar;And How You Can Too&rpar;](https://dev.to/devunionx/why-some-people-learn-faster-and-how-you-can-too-a89)
+- [This felt like real advice from someone who has been through it. Calm, honest, and helpful.](https://dev.to/florenceng70697/this-felt-like-real-advice-from-someone-who-has-been-through-it-calm-honest-and-helpful-54p5)
+- [Building “Alien RPG”: How I Used Amazon Q AI to Create an Alien RPG Game](https://dev.to/ravikumar21/building-alien-rpg-how-i-used-amazon-q-ai-to-create-an-alien-rpg-game-1e)
+- [GIT sem medo: comandos básicos que eu realmente uso no dia a dia](https://dev.to/annalaura2/git-sem-medo-comandos-basicos-que-eu-realmente-uso-no-dia-a-dia-1fjl)
 <!-- BLOG-POST-LIST:END -->
 
