@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting Kimai on an Ubuntu Server](https://dev.to/code42cate/self-hosting-kimai-on-an-ubuntu-server-1h6e)
-- [🤖 Jony Ive + OpenAI, Create Calmer UX &amp; Is Paper the New Figma?](https://dev.to/adam/jony-ive-openai-create-calmer-ux-is-paper-the-new-figma-cf6)
-- [Is @threads a real thing, or just a playground full of fake users?](https://dev.to/hmzas/is-threads-a-real-thing-or-just-a-playground-full-of-fake-users-3daj)
-- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
+- [Building Resilient Microservices with C# and .NET: A Complete Guide](https://dev.to/chakewitz/building-resilient-microservices-with-c-and-net-a-complete-guide-2dea)
+- [Building a Chatbot With Symfony and MongoDB](https://dev.to/mongodb/building-a-chatbot-with-symfony-and-mongodb-5c8g)
+- [How Python Descriptors Simplified Our PageObjects &lpar;And Still Do&rpar;](https://dev.to/sshukalovich/how-python-descriptors-simplified-our-pageobjects-and-still-do-29od)
+- [JavaScript](https://dev.to/swetha_c8c2e8547316457985/javascript-122h)
 <!-- BLOG-POST-LIST:END -->
 
