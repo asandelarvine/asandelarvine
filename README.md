@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimenting with Ai MultiAgents](https://dev.to/ocansey11/experimenting-with-ai-multiagents-4nfg)
-- [Die wahren Kosten einer Webseite: Was Entwickler und Kunden wissen sollten](https://dev.to/ivo_sa/die-wahren-kosten-einer-webseite-was-entwickler-und-kunden-wissen-sollten-7o5)
-- [Farbpsychologie im Webdesign: Die verborgene Macht hinter erfolgreichen Interfaces](https://dev.to/ivo_sa/farbpsychologie-im-webdesign-die-verborgene-macht-hinter-erfolgreichen-interfaces-35m5)
-- [Claw Finding Algorithm Using Aegypti](https://dev.to/frank_vega_987689489099bf/claw-finding-algorithm-using-aegypti-2p0k)
+- [🧱 Terra Biteʒ 3: Instance Gratification ⚡️](https://dev.to/mercyndonga/terra-bitez-3-instance-gratification-3bol)
+- [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
+- [New GitHub Copilot Global Bootcamp: Now with Virtual and In-Person Workshops!](https://dev.to/azure/new-github-copilot-global-bootcamp-now-with-virtual-and-in-person-workshops-3cmh)
+- [VO3 AI Genarator](https://dev.to/jeyzolo/vo3-ai-genarator-4bhd)
 <!-- BLOG-POST-LIST:END -->
 
