@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Free Web App Vulnerability Scanners You Should Know in 2025](https://dev.to/sambishop/9-free-web-app-vulnerability-scanners-you-should-know-in-2025-20pm)
-- [5 Developer Tasks I Completely Offload to AI Now](https://dev.to/sercangundogan/5-developer-tasks-i-completely-offload-to-ai-now-422m)
-- [🏗️ Building Playwright Framework Step By Step - Setup Design Pattern](https://dev.to/idavidov13/playwright-framework-step-by-step-setup-design-pattern-4b9i)
-- [Smarter JavaScript in 2025: 10 TypeScript Features You Can’t Ignore](https://dev.to/raju_dandigam/smarter-javascript-in-2025-10-typescript-features-you-cant-ignore-5cf1)
+- [Is This a Refreshing Way to Understand Association?](https://dev.to/esproc_spl/is-this-a-refreshing-way-to-understand-association-3cpj)
+- [Making an Effective Application Security Programm: Strategies, techniques and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-programm-strategies-techniques-and-tools-to-maximize-2nmh)
+- [Struggling with UI Bugs After Every Release? Try Visual Regression Testing](https://dev.to/leeannamarshall225/struggling-with-ui-bugs-after-every-release-try-visual-regression-testing-2ebp)
+- [From MERN Stack to Transformers: My Journey into AI Begin](https://dev.to/devansh_singh/from-mern-stack-to-transformers-my-journey-into-ai-begin-1ppa)
 <!-- BLOG-POST-LIST:END -->
 
