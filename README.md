@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Encryption: Data Privacy &amp; Security](https://dev.to/adityabhuyan/understanding-encryption-data-privacy-security-5aoa)
-- [Upload UI #scss](https://dev.to/preetha_vaishnavi_2b82358/upload-ui-scss-2di1)
-- [Understanding Prometheus and Monitoring Python Applications](https://dev.to/leapcell/understanding-prometheus-and-monitoring-python-applications-3d0p)
-- [JavaScript,Method,Datatype](https://dev.to/neelakandan_ravi/javascriptmethoddatatype-3pnp)
+- [How To Create Successful Bunk Beds Cheap Tutorials On Home](https://dev.to/flatlevel25/how-to-create-successful-bunk-beds-cheap-tutorials-on-home-4g1o)
+- [Just How to Repair Gas Line Blockages](https://dev.to/beggarchill6/just-how-to-repair-gas-line-blockages-4nek)
+- [Mota &amp; Sons Guns&lt;br&gt;](https://dev.to/bettynorth1/mota-sons-guns-4ek4)
+- [Building Trust: How Security Guards Enhance Business Security](https://dev.to/brazilchurch36/building-trust-how-security-guards-enhance-business-security-4p3a)
 <!-- BLOG-POST-LIST:END -->
 
