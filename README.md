@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InboxMemory AI - RAG your Emails - Postmark](https://dev.to/ashiqsultan/inboxmemory-ai-rag-your-emails-postmark-1l63)
-- [Construindo SDKs: Lições da Lerian com o Midaz, o primeiro ledger open source da América Latina.](https://dev.to/lerian/construindo-sdks-licoes-da-lerian-com-o-midaz-o-primeiro-ledger-open-source-da-america-latina-1kid)
-- [Layering Approach &lpar;Lambda&rpar;](https://dev.to/shubham_singh_dc4c3162182/layering-approach-lambda-19j0)
-- [cms custom column task step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/cms-custom-column-task-step-by-step-1o3m)
+- [How to build a coding agent](https://dev.to/kamesh1/how-to-build-a-coding-agent-7f4)
+- [Why Augmented Intelligence after all?](https://dev.to/m0n0x41d/why-augmented-intelligence-after-all-5118)
+- [Design SwiftUI Forms with Open AI: A Beginner’s Guide to Dynamic iOS Interfaces](https://dev.to/himalidev/design-swiftui-forms-with-open-ai-a-beginners-guide-to-dynamic-ios-interfaces-3mml)
+- [custom row task step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/custom-row-task-step-by-step-4h9j)
 <!-- BLOG-POST-LIST:END -->
 
