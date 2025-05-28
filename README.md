@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Control GPIO on OK3568-C Using libgpiod &lpar;Buildroot Linux 4.19.206&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-control-gpio-on-ok3568-c-using-libgpiod-buildroot-linux-419206-41je)
-- [Lista de 15 plugins/extensiones en VS para potenciar el inicio del aprendizaje como Frontends](https://dev.to/durbonca/lista-de-15-pluginsextensiones-en-vs-para-potenciar-el-inicio-del-aprendizaje-como-frontends-4k5i)
-- [What is Bebugging in Software Testing?](https://dev.to/radha_4c842d8e4362a7cdd9c/what-is-bebugging-in-software-testing-3i7g)
-- [🎯 Solving Puzzles with Code: A Math Adventure Game Built with Amazon Q CLI](https://dev.to/aws-builders/solving-puzzles-with-code-a-math-adventure-game-built-with-amazon-q-cli-1pdb)
+- [Understanding Encryption: Data Privacy &amp; Security](https://dev.to/adityabhuyan/understanding-encryption-data-privacy-security-5aoa)
+- [Upload UI #scss](https://dev.to/preetha_vaishnavi_2b82358/upload-ui-scss-2di1)
+- [Understanding Prometheus and Monitoring Python Applications](https://dev.to/leapcell/understanding-prometheus-and-monitoring-python-applications-3d0p)
+- [JavaScript,Method,Datatype](https://dev.to/neelakandan_ravi/javascriptmethoddatatype-3pnp)
 <!-- BLOG-POST-LIST:END -->
 
