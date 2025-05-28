@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Natural Language Processing](https://dev.to/datatoinfinity/basic-natural-language-processing-2gp7)
-- [JavaScript Objects Explained Simply for Beginners &lpar;with Examples&rpar;](https://dev.to/afreen_shabbagh_5f2f474ed/javascript-objects-explained-simply-for-beginners-with-examples-4adc)
-- [Intersection Observer API: A tool for optimizing Infinite Scroll](https://dev.to/hydroxylase/intersection-observer-api-a-tool-for-optimizing-infinite-scroll-151)
-- [𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲: 𝗦𝗲𝘁𝘁𝗶𝗻𝗴 𝗨𝗽 𝗮 𝗥𝗲𝗹𝗲𝗮𝘀𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽 𝗨𝘀𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲](https://dev.to/supraja_tangella_b7f0738e/--2ojg)
+- [Self-hosting Kimai on an Ubuntu Server](https://dev.to/code42cate/self-hosting-kimai-on-an-ubuntu-server-1h6e)
+- [🤖 Jony Ive + OpenAI, Create Calmer UX &amp; Is Paper the New Figma?](https://dev.to/adam/jony-ive-openai-create-calmer-ux-is-paper-the-new-figma-cf6)
+- [Is @threads a real thing, or just a playground full of fake users?](https://dev.to/hmzas/is-threads-a-real-thing-or-just-a-playground-full-of-fake-users-3daj)
+- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
 <!-- BLOG-POST-LIST:END -->
 
