@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript to Python Mastery Guide: Syntax, Data Structures, OOP, Modules, Async...](https://dev.to/hossamgouda/javascript-to-python-mastery-guide-syntax-data-structures-oop-modules-async-5emg)
-- [Securing ASP.NET Core APIs with OAuth2 and OpenID Connect &lpar;2025 Edition&rpar;](https://dev.to/nikhilwagh/securing-aspnet-core-apis-with-oauth2-and-openid-connect-2025-edition-4j1c)
-- [🔥 From O&lpar;n&rpar; to O&lpar;1&rpar;: Smarter Game State for Smarter Code](https://dev.to/taratimmerman/from-on-to-o1-smarter-game-state-for-smarter-code-1fho)
-- [How FundGuard Drastically Improved Our CI with Modest Effort](https://dev.to/fundguard/how-fundguard-drastically-improved-our-ci-with-modest-effort-17jg)
+- [Experimenting with Ai MultiAgents](https://dev.to/ocansey11/experimenting-with-ai-multiagents-4nfg)
+- [Die wahren Kosten einer Webseite: Was Entwickler und Kunden wissen sollten](https://dev.to/ivo_sa/die-wahren-kosten-einer-webseite-was-entwickler-und-kunden-wissen-sollten-7o5)
+- [Farbpsychologie im Webdesign: Die verborgene Macht hinter erfolgreichen Interfaces](https://dev.to/ivo_sa/farbpsychologie-im-webdesign-die-verborgene-macht-hinter-erfolgreichen-interfaces-35m5)
+- [Claw Finding Algorithm Using Aegypti](https://dev.to/frank_vega_987689489099bf/claw-finding-algorithm-using-aegypti-2p0k)
 <!-- BLOG-POST-LIST:END -->
 
