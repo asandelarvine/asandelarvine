@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create Successful Bunk Beds Cheap Tutorials On Home](https://dev.to/flatlevel25/how-to-create-successful-bunk-beds-cheap-tutorials-on-home-4g1o)
-- [Just How to Repair Gas Line Blockages](https://dev.to/beggarchill6/just-how-to-repair-gas-line-blockages-4nek)
-- [Mota &amp; Sons Guns&lt;br&gt;](https://dev.to/bettynorth1/mota-sons-guns-4ek4)
-- [Building Trust: How Security Guards Enhance Business Security](https://dev.to/brazilchurch36/building-trust-how-security-guards-enhance-business-security-4p3a)
+- [9 Free Web App Vulnerability Scanners You Should Know in 2025](https://dev.to/sambishop/9-free-web-app-vulnerability-scanners-you-should-know-in-2025-20pm)
+- [5 Developer Tasks I Completely Offload to AI Now](https://dev.to/sercangundogan/5-developer-tasks-i-completely-offload-to-ai-now-422m)
+- [🏗️ Building Playwright Framework Step By Step - Setup Design Pattern](https://dev.to/idavidov13/playwright-framework-step-by-step-setup-design-pattern-4b9i)
+- [Smarter JavaScript in 2025: 10 TypeScript Features You Can’t Ignore](https://dev.to/raju_dandigam/smarter-javascript-in-2025-10-typescript-features-you-cant-ignore-5cf1)
 <!-- BLOG-POST-LIST:END -->
 
