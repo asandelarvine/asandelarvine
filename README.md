@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Microservices with C# and .NET: A Complete Guide](https://dev.to/chakewitz/building-resilient-microservices-with-c-and-net-a-complete-guide-2dea)
-- [Building a Chatbot With Symfony and MongoDB](https://dev.to/mongodb/building-a-chatbot-with-symfony-and-mongodb-5c8g)
-- [How Python Descriptors Simplified Our PageObjects &lpar;And Still Do&rpar;](https://dev.to/sshukalovich/how-python-descriptors-simplified-our-pageobjects-and-still-do-29od)
-- [JavaScript](https://dev.to/swetha_c8c2e8547316457985/javascript-122h)
+- [Using RAG architecture for generative tasks](https://dev.to/bohdanstupak1/using-rag-architecture-for-generative-tasks-2pbk)
+- [Will AI + No-Code Replace Developers? What the Future Holds](https://dev.to/vasundhara/will-ai-no-code-replace-developers-what-the-future-holds-31l0)
+- [Advances in Information Retrieval: A Comprehensive Analysis of Recent Research](https://dev.to/khanali21/advances-in-information-retrieval-a-comprehensive-analysis-of-recent-research-156f)
+- [From Vec to Slice: Writing Generic Functions over Collections](https://dev.to/sgchris/from-vec-to-slice-writing-generic-functions-over-collections-1jgd)
 <!-- BLOG-POST-LIST:END -->
 
