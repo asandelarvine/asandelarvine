@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a coding agent](https://dev.to/kamesh1/how-to-build-a-coding-agent-7f4)
-- [Why Augmented Intelligence after all?](https://dev.to/m0n0x41d/why-augmented-intelligence-after-all-5118)
-- [Design SwiftUI Forms with Open AI: A Beginner’s Guide to Dynamic iOS Interfaces](https://dev.to/himalidev/design-swiftui-forms-with-open-ai-a-beginners-guide-to-dynamic-ios-interfaces-3mml)
-- [custom row task step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/custom-row-task-step-by-step-4h9j)
+- [The Best Embedded Debug Probes and What They&#39;re Used For](https://dev.to/kalvin_mccallum/the-best-embedded-debug-probes-and-what-theyre-used-for-43ek)
+- [Domain Validation with the Notification Pattern](https://dev.to/horse_patterns/domain-validation-with-the-notification-pattern-99o)
+- [The Visual Cortex Algorithm: What Coding Can Learn from the Brain’s Vision Engine](https://dev.to/alireza_minagar_99f01ecb6/the-visual-cortex-algorithm-what-coding-can-learn-from-the-brains-vision-engine-426a)
+- [Deploying AI Agents Locally with Qwen3, Qwen-Agent, and Ollama](https://dev.to/bconsolvo/deploying-ai-agents-locally-with-qwen3-qwen-agent-and-ollama-1ddm)
 <!-- BLOG-POST-LIST:END -->
 
