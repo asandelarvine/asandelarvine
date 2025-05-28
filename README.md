@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is This a Refreshing Way to Understand Association?](https://dev.to/esproc_spl/is-this-a-refreshing-way-to-understand-association-3cpj)
-- [Making an Effective Application Security Programm: Strategies, techniques and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-programm-strategies-techniques-and-tools-to-maximize-2nmh)
-- [Struggling with UI Bugs After Every Release? Try Visual Regression Testing](https://dev.to/leeannamarshall225/struggling-with-ui-bugs-after-every-release-try-visual-regression-testing-2ebp)
-- [From MERN Stack to Transformers: My Journey into AI Begin](https://dev.to/devansh_singh/from-mern-stack-to-transformers-my-journey-into-ai-begin-1ppa)
+- [Nest JS Class Validator &amp; Class Transformers](https://dev.to/jay818/nest-js-class-validator-class-transformers-3ppg)
+- [Application Of AI In Various Business Sectors](https://dev.to/pat2002/application-of-ai-in-various-business-sectors-59em)
+- [Build Games with Amazon Q CLI](https://dev.to/sillyanucodes/build-games-with-amazon-q-cli-23i6)
+- [Part 9: Custom Swipeable Calendar Component](https://dev.to/xhunmon/part-9-custom-swipeable-calendar-component-4m2m)
 <!-- BLOG-POST-LIST:END -->
 
