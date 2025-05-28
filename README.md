@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 Integrating Twilio into your project: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-3-handling-webhooks-and-sending-messages-with-242l)
-- [Should I switch to Salesforce in 2025? Looking for advice from devs who’ve made the leap 🙏](https://dev.to/manikanta_chavvakula_e2da/should-i-switch-to-salesforce-in-2025-looking-for-advice-from-devs-whove-made-the-leap-1393)
-- [Event Handling Functions](https://dev.to/sudhakar_v_c404997aeec839/event-handling-functions-5dj)
-- [CyberVault: A Fully Local, Open-Source Password Manager Built with C#](https://dev.to/cybernilsen/cybervault-a-fully-local-open-source-password-manager-built-with-c-nop)
+- [InboxMemory AI - RAG your Emails - Postmark](https://dev.to/ashiqsultan/inboxmemory-ai-rag-your-emails-postmark-1l63)
+- [Construindo SDKs: Lições da Lerian com o Midaz, o primeiro ledger open source da América Latina.](https://dev.to/lerian/construindo-sdks-licoes-da-lerian-com-o-midaz-o-primeiro-ledger-open-source-da-america-latina-1kid)
+- [Layering Approach &lpar;Lambda&rpar;](https://dev.to/shubham_singh_dc4c3162182/layering-approach-lambda-19j0)
+- [cms custom column task step by step](https://dev.to/vuejstest_9d7a4f2fbe7631a/cms-custom-column-task-step-by-step-1o3m)
 <!-- BLOG-POST-LIST:END -->
 
