@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nest JS Class Validator &amp; Class Transformers](https://dev.to/jay818/nest-js-class-validator-class-transformers-3ppg)
-- [Application Of AI In Various Business Sectors](https://dev.to/pat2002/application-of-ai-in-various-business-sectors-59em)
-- [Build Games with Amazon Q CLI](https://dev.to/sillyanucodes/build-games-with-amazon-q-cli-23i6)
-- [Part 9: Custom Swipeable Calendar Component](https://dev.to/xhunmon/part-9-custom-swipeable-calendar-component-4m2m)
+- [Mejora tu English Speaking con Amazon Nova Sonic y RAG](https://dev.to/camila_hinojosa_anez/mejora-tu-english-speaking-con-amazon-nova-sonic-y-rag-3gd1)
+- [Future of Salesforce in 2025 and Beyond: Trends, Tech &amp; Transformation](https://dev.to/elearning_solutions_791be/future-of-salesforce-in-2025-and-beyond-trends-tech-transformation-1ofo)
+- [Load Testing a Scalable AWS Application Using Grafana k6](https://dev.to/kalio/load-testing-a-scalable-aws-application-using-grafana-k6-5238)
+- [📝 Como listar la concurrencia reservada y aprovisionada de nuestras Lambdas ⚡.](https://dev.to/aws-espanol/como-listar-la-concurrencia-reservada-y-aprovisionada-de-nuestras-lambdas--j33)
 <!-- BLOG-POST-LIST:END -->
 
