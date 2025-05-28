@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A crash course in Next.js middleware](https://dev.to/logrocket/a-crash-course-in-nextjs-middleware-3b7h)
-- [Stop Struggling with Forms in React - 4 Smart Ways to Handle Them](https://dev.to/werliton/stop-struggling-with-forms-in-react-4-smart-ways-to-handle-them-1hbp)
-- [Grafana Agent Installation and Configuration](https://dev.to/thdevops/grafana-agent-installation-and-configuration-49m4)
-- [🌍 Building a Digital Health Platform for Africa — Looking for a Volunteer Developer &lpar;Remote, Part-time&rpar;](https://dev.to/elox/building-a-digital-health-platform-for-africa-looking-for-a-volunteer-developer-remote-1cmo)
+- [Snake Game with Amazon Q CLI](https://dev.to/akanksha3012/snake-game-with-amazon-q-cli-3bee)
+- [Syncing Postman Collections from OpenAPI Automatically — Without Losing Team Edits](https://dev.to/dmiska25/syncing-postman-collections-from-openapi-automatically-without-losing-team-edits-37el)
+- [Assignment: Understanding Servers and Cloud Computing](https://dev.to/_eve_/assignment-understanding-servers-and-cloud-computing-4lgl)
+- [🌿 Understanding Spring, Spring Boot, IoC, and DI 🎨 What is MVC?](https://dev.to/elayaraj31/understanding-spring-spring-boot-ioc-and-di-what-is-mvc-428f)
 <!-- BLOG-POST-LIST:END -->
 
