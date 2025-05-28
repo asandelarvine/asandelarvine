@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Feedback as Growth](https://dev.to/tonystpierre/feedback-as-growth-28j4)
-- [Running Multiple MCP Servers on Docker + Windsurf](https://dev.to/ecorkran/running-multiple-mcp-servers-on-docker-windsurf-4jnc)
-- [Build an AI Fashion Assistant in Django - Full Tutorial &lpar;w/ videos&rpar;](https://dev.to/domvacchiano/build-an-ai-fashion-assistant-in-django-full-tutorial-w-videos-3414)
-- [Practical Development of Real Estate and Renovation Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-real-estate-and-renovation-applications-based-on-harmonyos-next-47lo)
+- [How to Control GPIO on OK3568-C Using libgpiod &lpar;Buildroot Linux 4.19.206&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-control-gpio-on-ok3568-c-using-libgpiod-buildroot-linux-419206-41je)
+- [Lista de 15 plugins/extensiones en VS para potenciar el inicio del aprendizaje como Frontends](https://dev.to/durbonca/lista-de-15-pluginsextensiones-en-vs-para-potenciar-el-inicio-del-aprendizaje-como-frontends-4k5i)
+- [What is Bebugging in Software Testing?](https://dev.to/radha_4c842d8e4362a7cdd9c/what-is-bebugging-in-software-testing-3i7g)
+- [🎯 Solving Puzzles with Code: A Math Adventure Game Built with Amazon Q CLI](https://dev.to/aws-builders/solving-puzzles-with-code-a-math-adventure-game-built-with-amazon-q-cli-1pdb)
 <!-- BLOG-POST-LIST:END -->
 
