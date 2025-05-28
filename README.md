@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
-- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
-- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
-- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
+- [Feedback as Growth](https://dev.to/tonystpierre/feedback-as-growth-28j4)
+- [Running Multiple MCP Servers on Docker + Windsurf](https://dev.to/ecorkran/running-multiple-mcp-servers-on-docker-windsurf-4jnc)
+- [Build an AI Fashion Assistant in Django - Full Tutorial &lpar;w/ videos&rpar;](https://dev.to/domvacchiano/build-an-ai-fashion-assistant-in-django-full-tutorial-w-videos-3414)
+- [Practical Development of Real Estate and Renovation Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-development-of-real-estate-and-renovation-applications-based-on-harmonyos-next-47lo)
 <!-- BLOG-POST-LIST:END -->
 
