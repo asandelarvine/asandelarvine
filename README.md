@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Snake Game with Amazon Q CLI](https://dev.to/akanksha3012/snake-game-with-amazon-q-cli-3bee)
-- [Syncing Postman Collections from OpenAPI Automatically — Without Losing Team Edits](https://dev.to/dmiska25/syncing-postman-collections-from-openapi-automatically-without-losing-team-edits-37el)
-- [Assignment: Understanding Servers and Cloud Computing](https://dev.to/_eve_/assignment-understanding-servers-and-cloud-computing-4lgl)
-- [🌿 Understanding Spring, Spring Boot, IoC, and DI 🎨 What is MVC?](https://dev.to/elayaraj31/understanding-spring-spring-boot-ioc-and-di-what-is-mvc-428f)
+- [💬 Integrating Twilio into your project: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-3-handling-webhooks-and-sending-messages-with-242l)
+- [Should I switch to Salesforce in 2025? Looking for advice from devs who’ve made the leap 🙏](https://dev.to/manikanta_chavvakula_e2da/should-i-switch-to-salesforce-in-2025-looking-for-advice-from-devs-whove-made-the-leap-1393)
+- [Event Handling Functions](https://dev.to/sudhakar_v_c404997aeec839/event-handling-functions-5dj)
+- [CyberVault: A Fully Local, Open-Source Password Manager Built with C#](https://dev.to/cybernilsen/cybervault-a-fully-local-open-source-password-manager-built-with-c-nop)
 <!-- BLOG-POST-LIST:END -->
 
