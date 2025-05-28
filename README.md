@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Some People Learn Faster &lpar;And How You Can Too&rpar;](https://dev.to/devunionx/why-some-people-learn-faster-and-how-you-can-too-a89)
-- [This felt like real advice from someone who has been through it. Calm, honest, and helpful.](https://dev.to/florenceng70697/this-felt-like-real-advice-from-someone-who-has-been-through-it-calm-honest-and-helpful-54p5)
-- [Building “Alien RPG”: How I Used Amazon Q AI to Create an Alien RPG Game](https://dev.to/ravikumar21/building-alien-rpg-how-i-used-amazon-q-ai-to-create-an-alien-rpg-game-1e)
-- [GIT sem medo: comandos básicos que eu realmente uso no dia a dia](https://dev.to/annalaura2/git-sem-medo-comandos-basicos-que-eu-realmente-uso-no-dia-a-dia-1fjl)
+- [A crash course in Next.js middleware](https://dev.to/logrocket/a-crash-course-in-nextjs-middleware-3b7h)
+- [Stop Struggling with Forms in React - 4 Smart Ways to Handle Them](https://dev.to/werliton/stop-struggling-with-forms-in-react-4-smart-ways-to-handle-them-1hbp)
+- [Grafana Agent Installation and Configuration](https://dev.to/thdevops/grafana-agent-installation-and-configuration-49m4)
+- [🌍 Building a Digital Health Platform for Africa — Looking for a Volunteer Developer &lpar;Remote, Part-time&rpar;](https://dev.to/elox/building-a-digital-health-platform-for-africa-looking-for-a-volunteer-developer-remote-1cmo)
 <!-- BLOG-POST-LIST:END -->
 
