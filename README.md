@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Build a Classic Snake Game with Python and Pygame on WSL using Amazon Q CLI](https://dev.to/haydensg2002/build-a-classic-snake-game-with-python-and-pygame-on-wsl-using-amazon-q-cli-2og8)
-- [💡 Have You Ever Had a Brilliant Idea… Then It Got Lost in the Mess?](https://dev.to/inam003/have-you-ever-had-a-brilliant-idea-then-it-got-lost-in-the-mess-5043)
-- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
-- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
+- [Meet &quot;ConvLang&quot;: A Conversational Programming Language for Everyone](https://dev.to/mariecolvinn/meet-convlang-a-conversational-programming-language-for-everyone-462h)
+- [How to Use Cherrystudio with CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-cherrystudio-with-cometapi-31p7)
+- [Claude Opus 4 vs Claude Sonnet 4](https://dev.to/_37bbf0c253c0b3edec531e/claude-opus-4-vs-claude-sonnet-4-1o4k)
+- [No-Code/Low-Code Tools for MVP Development in 2025](https://dev.to/kamal_deeppareek_f5bb5d8/no-codelow-code-tools-for-mvp-development-in-2025-1k3d)
 <!-- BLOG-POST-LIST:END -->
 
