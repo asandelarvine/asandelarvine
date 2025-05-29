@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop using console.log: Debug Smarter ⚡](https://dev.to/edudeveloper/stop-using-consolelog-debug-smarter-27bb)
-- [10 Linux Commands to Simplify Your Workflow — Part 1: 5 Must-Know Tools](https://dev.to/er-raj-aryan/10-linux-commands-to-simplify-your-workflow-part-1-5-must-know-tools-1i0d)
-- [Integrating Langflow into Open WebUI](https://dev.to/jeromek13/integrating-langflow-into-open-webui-2oc6)
-- [Websockets on FastAPI: Implementing a simple chat with rooms in 20 minutes](https://dev.to/amverum/websockets-on-fastapi-implementing-a-simple-chat-with-rooms-in-20-minutes-26hj)
+- [Home Fitness Assistant](https://dev.to/masnoon01/untitled-1iij)
+- [WAF Checker: A Simple Web Tool for Testing Your Web Application Firewall](https://dev.to/devh0us3/waf-checker-a-simple-web-tool-for-testing-your-web-application-firewall-528)
+- [Moving &lpar;back&rpar; to Mac &amp; setting up CEH Labs](https://dev.to/hanswillem/moving-back-to-mac-setting-up-ceh-labs-9il)
+- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
 <!-- BLOG-POST-LIST:END -->
 
