@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A brief introduction to V1 and V2 decorators in HarmonyOS development](https://dev.to/skyrejer/a-brief-introduction-to-v1-and-v2-decorators-in-harmonyos-development-1ibb)
-- [Sick of Ad-Infested Dev Tools? Here’s a Clean, Fast Alternative](https://dev.to/maksymsoloviov/sick-of-ad-infested-dev-tools-heres-a-clean-fast-alternative-2onc)
-- [TryHackMe: HTTP in Detail](https://dev.to/aditya8raj/tryhackme-http-in-detail-36e7)
-- [Next.js 15 Authentication with App Router and Middleware](https://dev.to/taufiqul7756/nextjs-15-authentication-with-app-router-and-middleware-4f94)
+- [This isn’t just theory, it’s something you can tell comes from real experience. Ashkan delivers value without trying to sell anything.](https://dev.to/thejuanchua/this-isnt-just-theory-its-something-you-can-tell-comes-from-real-experience-ashkan-delivers-22ej)
+- [What Does Professional Networking Really Mean in 2025?](https://dev.to/sahadatmarketing/what-does-professional-networking-really-mean-in-2025-105i)
+- [I built a JSON AST Interpreter — write &amp; run programs in pure JSON!](https://dev.to/xzdes/i-built-a-json-ast-interpreter-write-run-programs-in-pure-json-1hm6)
+- [Teams that manage Tech Debt well do this](https://dev.to/andrewkelly/teams-that-manage-tech-debt-well-do-this-ck5)
 <!-- BLOG-POST-LIST:END -->
 
