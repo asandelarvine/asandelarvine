@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Data Visualization Tools Matter for Developers, Managers, and Analysts](https://dev.to/dbvismarketing/why-data-visualization-tools-matter-for-developers-managers-and-analysts-36ml)
-- [Single Sign-On with OpenAM and OpenIG: Practical Implementation Examples](https://dev.to/maximthomas/single-sign-on-with-openam-and-openig-practical-implementation-examples-2gmi)
-- [Day -20 DOM Basics: Select, Update, Create, and Remove Elements Using JavaScript](https://dev.to/tamilselvan1812/day-20-dom-basics-select-update-create-and-remove-elements-using-javascript-21j3)
-- [Azure Local Solution Categories explained: Validated Nodes, Integrated Systems, and Premier Solutions](https://dev.to/techielass/azure-local-solution-categories-explained-validated-nodes-integrated-systems-and-premier-5dpd)
+- [Superpowers for Content Creators: make sure to turn them on!](https://dev.to/flotiq/superpowers-for-content-creators-make-sure-to-turn-them-on-406c)
+- [How a Simple Arch Linux Installation Made Me Accidentally Study Operating Systems](https://dev.to/prvkhvr/how-a-simple-arch-linux-installation-made-me-accidentally-study-operating-systems-5hen)
+- [Building for a Niche Audience: Thoughts on Working with Podsy.ge](https://dev.to/podsy_georgia/building-for-a-niche-audience-thoughts-on-working-with-podsyge-59gh)
+- [Bug of the week #9](https://dev.to/pikotutorial/bug-of-the-week-9-i2m)
 <!-- BLOG-POST-LIST:END -->
 
