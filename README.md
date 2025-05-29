@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet &quot;ConvLang&quot;: A Conversational Programming Language for Everyone](https://dev.to/mariecolvinn/meet-convlang-a-conversational-programming-language-for-everyone-462h)
-- [How to Use Cherrystudio with CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-cherrystudio-with-cometapi-31p7)
-- [Claude Opus 4 vs Claude Sonnet 4](https://dev.to/_37bbf0c253c0b3edec531e/claude-opus-4-vs-claude-sonnet-4-1o4k)
-- [No-Code/Low-Code Tools for MVP Development in 2025](https://dev.to/kamal_deeppareek_f5bb5d8/no-codelow-code-tools-for-mvp-development-in-2025-1k3d)
+- [Looking for Feedback on My DevOps Site](https://dev.to/devopsdaily/looking-for-feedback-on-my-devops-site-2ja)
+- [We Cannot Wait for the World to Train Our Talent — Why Africa Needs Immersion-Based AI Education Now!](https://dev.to/yamify/we-cannot-wait-for-the-world-to-train-our-talent-why-africa-needs-immersion-based-ai-education-l6c)
+- [Laravel helper for you](https://dev.to/anonymushelper/laravel-helper-for-you-379p)
+- [Why &amp;str is Better Than String in Parameters](https://dev.to/sgchris/why-str-is-better-than-string-in-parameters-4jn0)
 <!-- BLOG-POST-LIST:END -->
 
