@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Help Businesses Build Fast, Responsive Websites Using the MERN Stack](https://dev.to/anandhakrishnan15/how-i-help-businesses-build-fast-responsive-websites-using-the-mern-stack-4g8i)
-- [Is Chain Abstraction Dead?OpenZeppelin’s Guide on ERC-7786, Okto Platform Launch, Arcana Pay App, Abstract’s Onchain UX Demo](https://dev.to/alexandradev/is-chain-abstraction-deadopenzeppelins-guide-on-erc-7786-okto-platform-launch-arcana-pay-app-g58)
-- [Smarter Security: How Agentic AI Is Transforming Financial Protection](https://dev.to/destinovaailabs/smarter-security-how-agentic-ai-is-transforming-financial-protection-34hk)
-- [Day-2 JavaScript topics: Local variable and Global Variable, Introduction to DOM..](https://dev.to/chithra_priya/today-javascript-topics-local-variable-and-global-variable-introduction-to-dom-1f6g)
+- [🐍 Build a Classic Snake Game with Python and Pygame on WSL using Amazon Q CLI](https://dev.to/haydensg2002/build-a-classic-snake-game-with-python-and-pygame-on-wsl-using-amazon-q-cli-2og8)
+- [💡 Have You Ever Had a Brilliant Idea… Then It Got Lost in the Mess?](https://dev.to/inam003/have-you-ever-had-a-brilliant-idea-then-it-got-lost-in-the-mess-5043)
+- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
+- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
 <!-- BLOG-POST-LIST:END -->
 
