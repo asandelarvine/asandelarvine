@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Top 1% in Data Science: Proven Steps to Go From Beginner to Expert&quot;](https://dev.to/apurv_julaniya_79003759d3/top-1-in-data-science-proven-steps-to-go-from-beginner-to-expert-1k4e)
-- [Database Connection in Python, Go, and JavaScript](https://dev.to/hostman_com/database-connection-in-python-go-and-javascript-kgp)
-- [Encapsulation in Java Explained &lpar;Or Why Your Data Needs Boundaries Too&rpar;](https://dev.to/rodrigodelascio/encapsulation-in-java-explained-or-why-your-data-needs-boundaries-too-1fbe)
-- [How to build an AI-Powered Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot Assistant with TypeScript, Node.js and LangGraph](https://dev.to/omogbai/how-to-build-an-ai-powered-retrieval-augmented-generation-rag-chatbot-assistant-with-typescript-58ol)
+- [A brief introduction to V1 and V2 decorators in HarmonyOS development](https://dev.to/skyrejer/a-brief-introduction-to-v1-and-v2-decorators-in-harmonyos-development-1ibb)
+- [Sick of Ad-Infested Dev Tools? Here’s a Clean, Fast Alternative](https://dev.to/maksymsoloviov/sick-of-ad-infested-dev-tools-heres-a-clean-fast-alternative-2onc)
+- [TryHackMe: HTTP in Detail](https://dev.to/aditya8raj/tryhackme-http-in-detail-36e7)
+- [Next.js 15 Authentication with App Router and Middleware](https://dev.to/taufiqul7756/nextjs-15-authentication-with-app-router-and-middleware-4f94)
 <!-- BLOG-POST-LIST:END -->
 
