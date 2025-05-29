@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This isn’t just theory, it’s something you can tell comes from real experience. Ashkan delivers value without trying to sell anything.](https://dev.to/thejuanchua/this-isnt-just-theory-its-something-you-can-tell-comes-from-real-experience-ashkan-delivers-22ej)
-- [What Does Professional Networking Really Mean in 2025?](https://dev.to/sahadatmarketing/what-does-professional-networking-really-mean-in-2025-105i)
-- [I built a JSON AST Interpreter — write &amp; run programs in pure JSON!](https://dev.to/xzdes/i-built-a-json-ast-interpreter-write-run-programs-in-pure-json-1hm6)
-- [Teams that manage Tech Debt well do this](https://dev.to/andrewkelly/teams-that-manage-tech-debt-well-do-this-ck5)
+- [Supercharge Your Postgres Docker Setup with Extensions](https://dev.to/shrsv/supercharge-your-postgres-docker-setup-with-extensions-3leh)
+- [Dev Cheatsheets, Bundles &amp; Tools You’ll Actually Use](https://dev.to/resource_bunk_1077cab07da/dev-cheatsheets-bundles-tools-youll-actually-use-4f0d)
+- [Finding Your Dream Ruby Work: A Comprehensive Guide](https://dev.to/jetthoughts/finding-your-dream-ruby-work-a-comprehensive-guide-4lg5)
+- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
 <!-- BLOG-POST-LIST:END -->
 
