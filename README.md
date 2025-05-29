@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
-- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
-- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
-- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
+- [Serverless DevOps in Action: Automating GCP Workflows with Cloud Scheduler, Cloud Functions &amp; App Engine](https://dev.to/explorewithlavish/serverless-devops-in-action-automating-gcp-workflows-with-cloud-scheduler-cloud-functions-app-1b8g)
+- [Замощение домино и тримино](https://dev.to/faangmaster/zamoshchieniie-domino-i-trimino-3f1g)
+- [React and typescript components lib, part 5: documentation of components using storybook](https://dev.to/griseduardo/react-and-typescript-components-lib-part-5-documentation-of-components-using-storybook-4g4p)
+- [Biblioteca de componentes React e typescript, parte 5: documentação de componentes com storybook](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-5-documentacao-de-componentes-com-storybook-3hko)
 <!-- BLOG-POST-LIST:END -->
 
