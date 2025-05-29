@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Light Intensity Sensor APDS-9960](https://dev.to/admantium/home-assistant-light-intensity-sensor-apds-9960-4bn8)
-- [Day 2 - Session 2: JavaScript — DOM, Variables, and Interactivity](https://dev.to/sathish_226_/day-2-session-2-javascript-dom-variables-and-interactivity-1hn2)
-- [Day 2 - Session 1: Building a Product Card with HTML &amp; CSS](https://dev.to/sathish_226_/day-2-session-1-building-a-product-card-with-html-css-2j22)
-- [🚀 Applied AI for Developers: Get Practical, Stay Relevant](https://dev.to/kris_chou_5f6deb607e8cb75/applied-ai-for-developers-get-practical-stay-relevant-1i9e)
+- [What’s New in Bluetooth? The 2025 Tech Developers Should Know](https://dev.to/nikheelvs/whats-new-in-bluetooth-the-2025-tech-developers-should-know-1h40)
+- [MVC[model-view-controller]](https://dev.to/vimal_krush_349f0675b4ef9/mvcmodel-view-controller-i9o)
+- [Reinforcement Learning Meets UI: The Future of Adaptive Interfaces](https://dev.to/amanullah0/reinforcement-learning-meets-ui-the-future-of-adaptive-interfaces-2e7d)
+- [Understanding Port 443: The Backbone of HTTPS Explained](https://dev.to/certera_/understanding-port-443-the-backbone-of-https-explained-164i)
 <!-- BLOG-POST-LIST:END -->
 
