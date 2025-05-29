@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Postgres Docker Setup with Extensions](https://dev.to/shrsv/supercharge-your-postgres-docker-setup-with-extensions-3leh)
-- [Dev Cheatsheets, Bundles &amp; Tools You’ll Actually Use](https://dev.to/resource_bunk_1077cab07da/dev-cheatsheets-bundles-tools-youll-actually-use-4f0d)
-- [Finding Your Dream Ruby Work: A Comprehensive Guide](https://dev.to/jetthoughts/finding-your-dream-ruby-work-a-comprehensive-guide-4lg5)
-- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
+- [Stop using console.log: Debug Smarter ⚡](https://dev.to/edudeveloper/stop-using-consolelog-debug-smarter-27bb)
+- [10 Linux Commands to Simplify Your Workflow — Part 1: 5 Must-Know Tools](https://dev.to/er-raj-aryan/10-linux-commands-to-simplify-your-workflow-part-1-5-must-know-tools-1i0d)
+- [Integrating Langflow into Open WebUI](https://dev.to/jeromek13/integrating-langflow-into-open-webui-2oc6)
+- [Websockets on FastAPI: Implementing a simple chat with rooms in 20 minutes](https://dev.to/amverum/websockets-on-fastapi-implementing-a-simple-chat-with-rooms-in-20-minutes-26hj)
 <!-- BLOG-POST-LIST:END -->
 
