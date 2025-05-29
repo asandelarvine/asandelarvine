@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Vercel AI SDK?](https://dev.to/voltagent/what-is-vercel-ai-sdk-54ak)
-- [Book review: Writing for Developers](https://dev.to/nfrankel/book-review-writing-for-developers-1cij)
-- [Understanding Special Permissions in Red Hat Linux &lpar;Simple Guide for Beginners&rpar;](https://dev.to/axisinfo_0a61830e06c3c950/understanding-special-permissions-in-red-hat-linux-simple-guide-for-beginners-4c5g)
-- [🧠 Understanding CIDR and Subnetting: A Simple Guide for Beginners](https://dev.to/jack_brown_648fdeecb7401e/understanding-cidr-and-subnetting-a-simple-guide-for-beginners-j86)
+- [How I Help Businesses Build Fast, Responsive Websites Using the MERN Stack](https://dev.to/anandhakrishnan15/how-i-help-businesses-build-fast-responsive-websites-using-the-mern-stack-4g8i)
+- [Is Chain Abstraction Dead?OpenZeppelin’s Guide on ERC-7786, Okto Platform Launch, Arcana Pay App, Abstract’s Onchain UX Demo](https://dev.to/alexandradev/is-chain-abstraction-deadopenzeppelins-guide-on-erc-7786-okto-platform-launch-arcana-pay-app-g58)
+- [Smarter Security: How Agentic AI Is Transforming Financial Protection](https://dev.to/destinovaailabs/smarter-security-how-agentic-ai-is-transforming-financial-protection-34hk)
+- [Day-2 JavaScript topics: Local variable and Global Variable, Introduction to DOM..](https://dev.to/chithra_priya/today-javascript-topics-local-variable-and-global-variable-introduction-to-dom-1f6g)
 <!-- BLOG-POST-LIST:END -->
 
