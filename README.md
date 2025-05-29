@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed + Ollama + LLMs on a GPU VM: The Ultimate Local Dev Setup for Serious Coders](https://dev.to/nodeshiftcloud/zed-ollama-llms-on-a-gpu-vm-the-ultimate-local-dev-setup-for-serious-coders-18pd)
-- [Beginner](https://dev.to/jmferman/beginner-15ig)
-- [🥇 XBANKING — The World’s #1 DeFi Aggregator Chosen by Users](https://dev.to/xbanking_gmail_e8f6776310/xbanking-the-worlds-1-defi-aggregator-chosen-by-users-4gk4)
-- [100DaysOfCode — Day 28](https://dev.to/jobkroongit/100daysofcode-day-28-11lg)
+- [Why Data Visualization Tools Matter for Developers, Managers, and Analysts](https://dev.to/dbvismarketing/why-data-visualization-tools-matter-for-developers-managers-and-analysts-36ml)
+- [Single Sign-On with OpenAM and OpenIG: Practical Implementation Examples](https://dev.to/maximthomas/single-sign-on-with-openam-and-openig-practical-implementation-examples-2gmi)
+- [Day -20 DOM Basics: Select, Update, Create, and Remove Elements Using JavaScript](https://dev.to/tamilselvan1812/day-20-dom-basics-select-update-create-and-remove-elements-using-javascript-21j3)
+- [Azure Local Solution Categories explained: Validated Nodes, Integrated Systems, and Premier Solutions](https://dev.to/techielass/azure-local-solution-categories-explained-validated-nodes-integrated-systems-and-premier-5dpd)
 <!-- BLOG-POST-LIST:END -->
 
