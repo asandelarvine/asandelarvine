@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring a talent AI engineer&lpar;CTO, Project Manager, Team Lead&rpar;](https://dev.to/grant_abbott_02/hiring-a-talent-ai-engineercto-project-manager-team-lead-1b53)
-- [VPN vs. Proxy: Which is Better for Web Scraping?](https://dev.to/member_960fb7a7/vpn-vs-proxy-which-is-better-for-web-scraping-88h)
-- [Web Performansını İyileştirme Rehberi](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-rehberi-1f2)
-- [I Benchmarked 8 “AI Image Compression” Tools Using a 20MB File — Only Two Passed](https://dev.to/engineeredai/i-benchmarked-8-ai-image-compression-tools-using-a-20mb-file-only-two-passed-1hmi)
+- [Criando um grid de dados simples contendo paginação + filtros + barra de pesquisa + classificação usando MYSQL, PHP e AJAX pt.2](https://dev.to/luis_carlos60/criando-um-grid-de-dados-simples-contendo-paginacao-filtros-barra-de-pesquisa-classificacao-4cce)
+- [Don&#39;t Panic! Handle Errors Gracefully with &quot;panic&quot;, &quot;defer&quot;, and &quot;recover&quot; in Go](https://dev.to/wambita_sheila_fana/dont-panic-handle-errors-gracefully-with-panic-defer-and-recover-in-go-57hb)
+- [Joy of Test Driven Development&lpar;TDD&rpar; using Rspec in Ruby](https://dev.to/avirajkhare00/joy-of-test-driven-developmenttdd-using-rspec-in-ruby-5fi5)
+- [Spring framework basic](https://dev.to/sugumar_r_a5f301adf1fb49a/spring-framework-basic-4nml)
 <!-- BLOG-POST-LIST:END -->
 
