@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Superpowers for Content Creators: make sure to turn them on!](https://dev.to/flotiq/superpowers-for-content-creators-make-sure-to-turn-them-on-406c)
-- [How a Simple Arch Linux Installation Made Me Accidentally Study Operating Systems](https://dev.to/prvkhvr/how-a-simple-arch-linux-installation-made-me-accidentally-study-operating-systems-5hen)
-- [Building for a Niche Audience: Thoughts on Working with Podsy.ge](https://dev.to/podsy_georgia/building-for-a-niche-audience-thoughts-on-working-with-podsyge-59gh)
-- [Bug of the week #9](https://dev.to/pikotutorial/bug-of-the-week-9-i2m)
+- [What is Vercel AI SDK?](https://dev.to/voltagent/what-is-vercel-ai-sdk-54ak)
+- [Book review: Writing for Developers](https://dev.to/nfrankel/book-review-writing-for-developers-1cij)
+- [Understanding Special Permissions in Red Hat Linux &lpar;Simple Guide for Beginners&rpar;](https://dev.to/axisinfo_0a61830e06c3c950/understanding-special-permissions-in-red-hat-linux-simple-guide-for-beginners-4c5g)
+- [🧠 Understanding CIDR and Subnetting: A Simple Guide for Beginners](https://dev.to/jack_brown_648fdeecb7401e/understanding-cidr-and-subnetting-a-simple-guide-for-beginners-j86)
 <!-- BLOG-POST-LIST:END -->
 
