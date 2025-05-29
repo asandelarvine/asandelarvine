@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Fitness Assistant](https://dev.to/masnoon01/untitled-1iij)
-- [WAF Checker: A Simple Web Tool for Testing Your Web Application Firewall](https://dev.to/devh0us3/waf-checker-a-simple-web-tool-for-testing-your-web-application-firewall-528)
-- [Moving &lpar;back&rpar; to Mac &amp; setting up CEH Labs](https://dev.to/hanswillem/moving-back-to-mac-setting-up-ceh-labs-9il)
-- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
+- [Exames que Medem o Metabolismo do Cálcio e Fósforo no Seu Pet](https://dev.to/clinicaexames228/exames-que-medem-o-metabolismo-do-calcio-e-fosforo-no-seu-pet-4a81)
+- [Hipertireoidismo em gatos: como o potássio afeta a saúde eletrolítica](https://dev.to/labclinico823/hipertireoidismo-em-gatos-como-o-potassio-afeta-a-saude-eletrolitica-5fp5)
+- [[Boost]](https://dev.to/alexpa292/-53e2)
+- [Simplify Your REST API Logic in React with Connectors for REST APIs and GraphQL](https://dev.to/apollographql/simplify-your-rest-api-logic-in-react-with-connectors-for-rest-apis-and-graphql-5ab7)
 <!-- BLOG-POST-LIST:END -->
 
