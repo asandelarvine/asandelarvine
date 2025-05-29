@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Feedback on My DevOps Site](https://dev.to/devopsdaily/looking-for-feedback-on-my-devops-site-2ja)
-- [We Cannot Wait for the World to Train Our Talent — Why Africa Needs Immersion-Based AI Education Now!](https://dev.to/yamify/we-cannot-wait-for-the-world-to-train-our-talent-why-africa-needs-immersion-based-ai-education-l6c)
-- [Laravel helper for you](https://dev.to/anonymushelper/laravel-helper-for-you-379p)
-- [Why &amp;str is Better Than String in Parameters](https://dev.to/sgchris/why-str-is-better-than-string-in-parameters-4jn0)
+- [&quot;Top 1% in Data Science: Proven Steps to Go From Beginner to Expert&quot;](https://dev.to/apurv_julaniya_79003759d3/top-1-in-data-science-proven-steps-to-go-from-beginner-to-expert-1k4e)
+- [Database Connection in Python, Go, and JavaScript](https://dev.to/hostman_com/database-connection-in-python-go-and-javascript-kgp)
+- [Encapsulation in Java Explained &lpar;Or Why Your Data Needs Boundaries Too&rpar;](https://dev.to/rodrigodelascio/encapsulation-in-java-explained-or-why-your-data-needs-boundaries-too-1fbe)
+- [How to build an AI-Powered Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot Assistant with TypeScript, Node.js and LangGraph](https://dev.to/omogbai/how-to-build-an-ai-powered-retrieval-augmented-generation-rag-chatbot-assistant-with-typescript-58ol)
 <!-- BLOG-POST-LIST:END -->
 
