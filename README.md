@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exames que Medem o Metabolismo do Cálcio e Fósforo no Seu Pet](https://dev.to/clinicaexames228/exames-que-medem-o-metabolismo-do-calcio-e-fosforo-no-seu-pet-4a81)
-- [Hipertireoidismo em gatos: como o potássio afeta a saúde eletrolítica](https://dev.to/labclinico823/hipertireoidismo-em-gatos-como-o-potassio-afeta-a-saude-eletrolitica-5fp5)
-- [[Boost]](https://dev.to/alexpa292/-53e2)
-- [Simplify Your REST API Logic in React with Connectors for REST APIs and GraphQL](https://dev.to/apollographql/simplify-your-rest-api-logic-in-react-with-connectors-for-rest-apis-and-graphql-5ab7)
+- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
+- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
+- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
+- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
 <!-- BLOG-POST-LIST:END -->
 
