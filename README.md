@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s New in Bluetooth? The 2025 Tech Developers Should Know](https://dev.to/nikheelvs/whats-new-in-bluetooth-the-2025-tech-developers-should-know-1h40)
-- [MVC[model-view-controller]](https://dev.to/vimal_krush_349f0675b4ef9/mvcmodel-view-controller-i9o)
-- [Reinforcement Learning Meets UI: The Future of Adaptive Interfaces](https://dev.to/amanullah0/reinforcement-learning-meets-ui-the-future-of-adaptive-interfaces-2e7d)
-- [Understanding Port 443: The Backbone of HTTPS Explained](https://dev.to/certera_/understanding-port-443-the-backbone-of-https-explained-164i)
+- [Zed + Ollama + LLMs on a GPU VM: The Ultimate Local Dev Setup for Serious Coders](https://dev.to/nodeshiftcloud/zed-ollama-llms-on-a-gpu-vm-the-ultimate-local-dev-setup-for-serious-coders-18pd)
+- [Beginner](https://dev.to/jmferman/beginner-15ig)
+- [🥇 XBANKING — The World’s #1 DeFi Aggregator Chosen by Users](https://dev.to/xbanking_gmail_e8f6776310/xbanking-the-worlds-1-defi-aggregator-chosen-by-users-4gk4)
+- [100DaysOfCode — Day 28](https://dev.to/jobkroongit/100daysofcode-day-28-11lg)
 <!-- BLOG-POST-LIST:END -->
 
