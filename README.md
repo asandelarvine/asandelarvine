@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama AI Studio: Missing ui for ollama?](https://dev.to/4nkitd/ollama-ai-studio-missing-ui-for-ollama-2ndh)
-- [Odoo Database Table Naming Quirk](https://dev.to/jeevanizm/odoo-database-table-naming-quirk-3i7k)
-- [Masterclass on Game Theory in Competitive Programming.](https://dev.to/coding_blocks/masterclass-on-game-theory-in-competitive-programming-13ep)
-- [Cloud Waste Is Real: How to Reduce Your AWS Bill Without Downgrading Performance](https://dev.to/dct_technology/cloud-waste-is-real-how-to-reduce-your-aws-bill-without-downgrading-performance-211m)
+- [Hello Folks. I have written my first post on dev to, about Scope Functions in Kotlin. Feel free to give it a read and drop a review or suggestion. Also, would love to know your favourite scope function, or your favourite feature of Kotlin. Happy reading!](https://dev.to/prithviraj_kapil/hello-folks-i-have-written-my-first-post-on-dev-to-about-scope-functions-in-kotlin-feel-free-to-4622)
+- [Top 10 Must-Know Data Structures for Every Programmer](https://dev.to/rac/top-10-must-know-data-structures-for-every-programmer-1hg2)
+- [GoLogin: The Developer&#39;s Guide to Multi-Account Browser Management and Web Scraping](https://dev.to/s_devworld/gologin-the-developers-guide-to-multi-account-browser-management-and-web-scraping-30fo)
+- [Top 5 Product Analytics Tools for Fintech Companies in 2025](https://dev.to/pambrus/top-5-product-analytics-tools-for-fintech-companies-in-2025-18l8)
 <!-- BLOG-POST-LIST:END -->
 
