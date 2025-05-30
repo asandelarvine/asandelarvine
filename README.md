@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Writing Developer-Friendly Content That Performs: Why You Should Care About SEO &lpar;and a Checklist to Help&rpar;](https://dev.to/markfatter/writing-developer-friendly-content-that-performs-why-you-should-care-about-seo-and-a-checklist-4d5b)
-- [How to Deploy a Full Stack App to Koyeb Using Docker Compose and GitHub Actions](https://dev.to/ephraimx/how-to-deploy-a-full-stack-app-to-koyeb-using-docker-compose-and-github-actions-2oj)
-- [AI/ML Development Challenges and How Modern Teams Solve Them](https://dev.to/emilytechwriter/aiml-development-challenges-and-how-modern-teams-solve-them-3kme)
-- [Decoding the Magic: Python Fundamentals for Machine Learning](https://dev.to/dev_delvadiya_46ba68a43c4/decoding-the-magic-python-fundamentals-for-machine-learning-1e16)
+- [Como configurar deploy automático da sua API &lpar;GO&rpar; + Postgres com Docker via GitHub Actions e SSH](https://dev.to/gaabrielbrocco/como-configurar-deploy-automatico-da-sua-api-go-postgres-com-docker-via-github-actions-e-ssh-5a61)
+- [Games Workshop employees to receive £20m bonus](https://dev.to/gg_news/games-workshop-employees-to-receive-ps20m-bonus-1mho)
+- [Rumour: Hunter Schafer is being eyed as Princess Zelda in the Zelda movie](https://dev.to/gg_news/rumour-hunter-schafer-is-being-eyed-as-princess-zelda-in-the-zelda-movie-4od0)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-2k5p)
 <!-- BLOG-POST-LIST:END -->
 
