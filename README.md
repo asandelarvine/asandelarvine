@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps in Multi-Cloud Environments: Best Practices for 2025](https://dev.to/di_solutions/devops-in-multi-cloud-environments-best-practices-for-2025-50h7)
-- [Choosing Your Developer Path Series: Experiment First. Commit Later.](https://dev.to/tlorent/choosing-your-developer-path-series-experiment-first-commit-later-379l)
-- [𝗛𝗼𝘄 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗛𝗮𝗻𝗱𝗹𝗲𝘀 𝗣𝗿𝗲-𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗔𝗽𝗽𝗿𝗼𝘃𝗮𝗹𝘀 𝗶𝗻 𝗬𝗔𝗠𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--4hnb)
-- [🚀 See you at the AWS Partner Summit Madrid!](https://dev.to/fjrg2007/see-you-at-the-aws-partner-summit-madrid-3kd1)
+- [What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth](https://dev.to/carrie_luo1/what-is-ldap-a-quick-guide-how-safeline-supports-ldap-authentication-1lb4)
+- [Discord style stickers in Wordpress Comments](https://dev.to/itsaomi/discord-style-stickers-in-wordpress-comments-3d7)
+- [🔐 C# Logger haqida va uning darajalari](https://dev.to/umida5/c-logger-haqida-va-uning-darajalari-379)
+- [Working with JavaScript Symbols](https://dev.to/micmath/working-with-javascript-symbols-10k8)
 <!-- BLOG-POST-LIST:END -->
 
