@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY✌️OF JAVASCRIPT .JavaScript Variables and the DOM in HTML: A Beginner📚](https://dev.to/its_harii/dayof-javascript-javascript-variables-and-the-dom-in-html-a-beginners-guide-75)
-- [Day 3: Session 2: JavaScript DOM Manipulation + Template Literals](https://dev.to/sathish_226_/day-3-session-2-javascript-dom-manipulation-template-literals-2c1)
-- [I hate FAQs and they might make AI dumb](https://dev.to/claire_kinde/i-hate-faqs-and-they-might-make-ai-dumb-25ch)
-- [Day 3 Blog: Deep Dive into CSS Transitions, Transforms, Translate, and Grid &lpar;with Git Guide&rpar;](https://dev.to/sathish_226_/day-3-blog-deep-dive-into-css-transitions-transforms-translate-and-grid-with-git-guide-3ocp)
+- [Why C Still Matters: A Modern Tutorial](https://dev.to/tpointtechblog/why-c-still-matters-a-modern-tutorial-4jeb)
+- [Scrape Like a Pro: BeautifulSoup + Python Full Tutorial](https://dev.to/leapcell/scrape-like-a-pro-beautifulsoup-python-full-tutorial-nj4)
+- [[Write Up] Bandit Wargame Clear Log &lpar;Level 10 - 20&rpar;](https://dev.to/sankworks/write-up-bandit-wargame-clear-log-level-10-20-2042)
+- [Blazor Web App - WebAssembly Hosted in .NET8 and .NET9](https://dev.to/kazinix/blazor-web-app-webassembly-hosted-in-net8-and-net9-1k6g)
 <!-- BLOG-POST-LIST:END -->
 
