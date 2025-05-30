@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptos Move Tip #5 – Resource Management and Unbounded Execution](https://dev.to/maakai123/aptos-move-tip-5-resource-management-and-unbounded-execution-19kp)
-- [“I Just Wanted to Build a Website—But Ended Up Exposing the Silence We All Carry” https://senzyscripts.hashnode.dev/i-just-wanted-to-build-a-websitebut-ended-up-exposing-the-silence-we-all-carry?ref=twitter-share](https://dev.to/senzy01/i-just-wanted-to-build-a-website-but-ended-up-exposing-the-silence-we-all-carry-3gl3)
-- [Tagwise: Technical Review of AI-Powered Bookmark Categorization Project](https://dev.to/mantis-stajyer/tagwise-technical-review-of-ai-powered-bookmark-categorization-project-8k)
-- [Stop Asking for Estimates Like You’re Ordering a Pizza](https://dev.to/leaddontctrl/stop-asking-for-estimates-like-youre-ordering-a-pizza-23pi)
+- [AI Breakthrough Personalizes Prostate Cancer Treatment](https://dev.to/maurizio_morri_f7f4bd128c/ai-breakthrough-personalizes-prostate-cancer-treatment-mo8)
+- [Become a Pro at Building RESTful APIs Using .NET 9](https://dev.to/code_2/become-a-pro-at-building-restful-apis-using-net-9-5h84)
+- [How to Speed Up Frontend Development Without Sacrificing Flexibility](https://dev.to/lonti-davidb/how-to-speed-up-frontend-development-without-sacrificing-flexibility-3oil)
+- [Building a Bet Code Converter App: A Complete Guide](https://dev.to/betpaddi/building-a-bet-code-converter-app-a-complete-guide-55ic)
 <!-- BLOG-POST-LIST:END -->
 
