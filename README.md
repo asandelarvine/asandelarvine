@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Interview Questions &amp; Answers: The Ultimate Guide for 2025](https://dev.to/sameerimtiaz/devops-interview-questions-answers-the-ultimate-guide-for-2025-48lm)
-- [Categorize New Member](https://dev.to/maddiepst/categorize-new-member-5d1b)
-- [Token Metrics API Authentication: How to Connect Securely to AI-Powered Crypto Data](https://dev.to/api_builder_01/token-metrics-api-authentication-how-to-connect-securely-to-ai-powered-crypto-data-59ef)
-- [Stack, Heap and How Function Calls Really Work](https://dev.to/pkitz/stack-heap-and-how-function-calls-really-work-3mc5)
+- [Best Way to Learn TypeScript &amp; JavaScript for Playwright in Test Automation](https://dev.to/mahesh_heretolearn/best-way-to-learn-typescript-javascript-for-playwright-in-test-automation-4764)
+- [Corpus &amp; Vocabulary](https://dev.to/datatoinfinity/corpus-vocabulary-6ja)
+- [Sibling Relation Transitivity and a Little More](https://dev.to/kerthump/sibling-relation-transitivity-and-a-little-more-18pn)
+- [Next.js: getStaticProps, getServerSideProps, useEffect???](https://dev.to/dance_nguyen/nextjs-getstaticprops-getserversideprops-useeffect-47jo)
 <!-- BLOG-POST-LIST:END -->
 
