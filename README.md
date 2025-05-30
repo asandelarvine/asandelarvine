@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AuditD to Catch Silent Security Threats on Linux | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-use-auditd-to-catch-silent-security-threats-on-linux-by-faruk-ahmed-may-2025-4ldf)
-- [How I Caught a Suspicious Shell Script Running in /tmp &lpar;And What It Taught Me&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-caught-a-suspicious-shell-script-running-in-tmp-and-what-it-taught-me-by-faruk-ahmed--49mf)
-- [How to Fix “Permission Denied &lpar;publickey&rpar;” When Using Git with GitHub on Windows](https://dev.to/gyantocode/how-to-fix-permission-denied-publickey-when-using-git-with-github-on-windows-3c9f)
-- [How I Accidentally Left a Port Open on My Linux Server &lpar;And How I Caught It&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/how-i-accidentally-left-a-port-open-on-my-linux-server-and-how-i-caught-it-by-faruk-ahmed--185h)
+- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
+- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
+- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
+- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
 <!-- BLOG-POST-LIST:END -->
 
