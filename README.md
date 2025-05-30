@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You can feel the years of trial and error behind this piece and that makes it more impactful.](https://dev.to/michbrowning/you-can-feel-the-years-of-trial-and-error-behind-this-piece-and-that-makes-it-more-impactful-1hea)
-- [Zod: The Ultimate Validation Library for TypeScript](https://dev.to/ashikrnhq04/-59i3)
-- [Ashkan really breaks it down in a way that cuts through the noise. This is the kind of content that actually helps entrepreneurs.](https://dev.to/michbrowning/ashkan-really-breaks-it-down-in-a-way-that-cuts-through-the-noise-this-is-the-kind-of-content-that-4fnn)
-- [How I Learned to Stop Worrying and Love Version Control - A Lesson in Software Collaboration](https://dev.to/rahull_0906/how-i-learned-to-stop-worrying-and-love-version-control-a-lesson-in-software-collaboration-jp4)
+- [High-quality SVG icons for UIs](https://dev.to/gnrlbzik/high-quality-svg-icons-for-uis-31hg)
+- [Rock, Paper, Innovation: Create a Game in Minutes with Amazon Q](https://dev.to/aws-builders/rock-paper-innovation-create-a-game-in-minutes-with-amazon-q-ag3)
+- [The Enterprise Comfort Zone: When DevOps Teams Make You Forget How to Deploy](https://dev.to/jmazagao/the-enterprise-comfort-zone-when-devops-teams-make-you-forget-how-to-deploy-2jd0)
+- [Daily Z Reports and Weekly Reviews](https://dev.to/vst/daily-z-reports-and-weekly-reviews-4gmk)
 <!-- BLOG-POST-LIST:END -->
 
