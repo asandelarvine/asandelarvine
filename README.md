@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why C Still Matters: A Modern Tutorial](https://dev.to/tpointtechblog/why-c-still-matters-a-modern-tutorial-4jeb)
-- [Scrape Like a Pro: BeautifulSoup + Python Full Tutorial](https://dev.to/leapcell/scrape-like-a-pro-beautifulsoup-python-full-tutorial-nj4)
-- [[Write Up] Bandit Wargame Clear Log &lpar;Level 10 - 20&rpar;](https://dev.to/sankworks/write-up-bandit-wargame-clear-log-level-10-20-2042)
-- [Blazor Web App - WebAssembly Hosted in .NET8 and .NET9](https://dev.to/kazinix/blazor-web-app-webassembly-hosted-in-net8-and-net9-1k6g)
+- [Confessions of a Cloudaholic](https://dev.to/bridgegroupsolutions/confessions-of-a-cloudaholic-288d)
+- [How a new technology saved my final project!](https://dev.to/curtisjohn718/how-a-new-technology-saved-my-final-project-el7)
+- [SMUTR-1040K-TT: The Starry Guardian of Industry](https://dev.to/ersajay/smutr-1040k-tt-the-starry-guardian-of-industry-4da7)
+- [Data storing using file or database, which is more suitable?](https://dev.to/esproc_spl/data-storing-using-file-or-database-which-is-more-suitable-59bn)
 <!-- BLOG-POST-LIST:END -->
 
