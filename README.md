@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧼 Type-Safe Filtering in TypeScript: Handling Nullable Fields from Your Database](https://dev.to/toshiya_matsumoto_ac94abe/type-safe-filtering-in-typescript-handling-nullable-fields-from-your-database-22lo)
-- [Sign up Form](https://dev.to/mubarak-mohamed/sign-up-form-2jon)
-- [Anyone here using InvestSpy for portfolio analytics? Thoughts?](https://dev.to/denis21/anyone-here-using-investspy-for-portfolio-analytics-thoughts-38ak)
-- [[Showoff Saturday] ATM Simulator – Fullstack Web App built with Flask](https://dev.to/dennis_mpoukouris_8a1f826/showoff-saturday-atm-simulator-fullstack-web-app-built-with-flask-741)
+- [Built a Sudoku Game Using Amazon Q CLI on WSL Ubuntu – Try It Out!](https://dev.to/amarpreetbhatia/built-a-sudoku-game-using-amazon-q-cli-on-wsl-ubuntu-try-it-out-1hph)
+- [Smart Gate Automation with IoT and Google Assistant: A Practical Guide](https://dev.to/karen_londres/smart-gate-automation-with-iot-and-google-assistant-a-practical-guide-g41)
+- [🤖 Agentic AI vs ChatGPT AI: What&#39;s the Difference?](https://dev.to/mohitdecodes/agentic-ai-vs-chatgpt-ai-whats-the-difference-2foa)
+- [Project of the Week: Ghost 👻](https://dev.to/pullflow/project-of-the-week-ghost-1645)
 <!-- BLOG-POST-LIST:END -->
 
