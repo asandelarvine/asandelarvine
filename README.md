@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Confessions of a Cloudaholic](https://dev.to/bridgegroupsolutions/confessions-of-a-cloudaholic-288d)
-- [How a new technology saved my final project!](https://dev.to/curtisjohn718/how-a-new-technology-saved-my-final-project-el7)
-- [SMUTR-1040K-TT: The Starry Guardian of Industry](https://dev.to/ersajay/smutr-1040k-tt-the-starry-guardian-of-industry-4da7)
-- [Data storing using file or database, which is more suitable?](https://dev.to/esproc_spl/data-storing-using-file-or-database-which-is-more-suitable-59bn)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4pdg)
+- [Rate Limiting &amp; Throttling](https://dev.to/godofgeeks/rate-limiting-throttling-go8)
+- [What is pipelining in microprocessor?](https://dev.to/carolineee/what-is-pipelining-in-microprocessor-5a9i)
+- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
 <!-- BLOG-POST-LIST:END -->
 
