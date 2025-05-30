@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High-quality SVG icons for UIs](https://dev.to/gnrlbzik/high-quality-svg-icons-for-uis-31hg)
-- [Rock, Paper, Innovation: Create a Game in Minutes with Amazon Q](https://dev.to/aws-builders/rock-paper-innovation-create-a-game-in-minutes-with-amazon-q-ag3)
-- [The Enterprise Comfort Zone: When DevOps Teams Make You Forget How to Deploy](https://dev.to/jmazagao/the-enterprise-comfort-zone-when-devops-teams-make-you-forget-how-to-deploy-2jd0)
-- [Daily Z Reports and Weekly Reviews](https://dev.to/vst/daily-z-reports-and-weekly-reviews-4gmk)
+- [Como Instalar a Nova Versão do Clang/LLVM no Windows](https://dev.to/marcosplusplus/como-instalar-a-nova-versao-do-clangllvm-no-windows-3k75)
+- [Como Instalar a Nova Versão do GCC MinGW no Windows](https://dev.to/marcosplusplus/como-instalar-a-nova-versao-do-gcc-mingw-no-windows-5g2c)
+- [How to Install the New Version of GCC MinGW on Windows](https://dev.to/marcosplusplus/how-to-install-the-new-version-of-gcc-mingw-on-windows-5fcf)
+- [Mental RAM: Why You&#39;re Tired But Haven&#39;t Done Much](https://dev.to/osalumense/mental-ram-why-youre-tired-but-havent-done-much-3cbl)
 <!-- BLOG-POST-LIST:END -->
 
