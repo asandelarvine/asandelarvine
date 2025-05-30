@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [04-HarmonyOS5-FaceDetector-Case](https://dev.to/zhousg/04-harmonyos5-facedetector-case-5ekf)
-- [03-HarmonyOS5-TextRecognition-Case](https://dev.to/zhousg/03-harmonyos5-textrecognition-case-7e4)
-- [The QA Team Revolted: Our ChatGPT Experiment for Test Case Generation](https://dev.to/abhishekshakya/the-qa-team-revolted-our-chatgpt-experiment-for-test-case-generation-722)
-- [02-HarmonyOS5-SpeechRecognizer-Case](https://dev.to/zhousg/02-harmonyos5-speechrecognizer-case-3je)
+- [DAY✌️OF JAVASCRIPT .JavaScript Variables and the DOM in HTML: A Beginner📚](https://dev.to/its_harii/dayof-javascript-javascript-variables-and-the-dom-in-html-a-beginners-guide-75)
+- [Day 3: Session 2: JavaScript DOM Manipulation + Template Literals](https://dev.to/sathish_226_/day-3-session-2-javascript-dom-manipulation-template-literals-2c1)
+- [I hate FAQs and they might make AI dumb](https://dev.to/claire_kinde/i-hate-faqs-and-they-might-make-ai-dumb-25ch)
+- [Day 3 Blog: Deep Dive into CSS Transitions, Transforms, Translate, and Grid &lpar;with Git Guide&rpar;](https://dev.to/sathish_226_/day-3-blog-deep-dive-into-css-transitions-transforms-translate-and-grid-with-git-guide-3ocp)
 <!-- BLOG-POST-LIST:END -->
 
