@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Breakthrough Personalizes Prostate Cancer Treatment](https://dev.to/maurizio_morri_f7f4bd128c/ai-breakthrough-personalizes-prostate-cancer-treatment-mo8)
-- [Become a Pro at Building RESTful APIs Using .NET 9](https://dev.to/code_2/become-a-pro-at-building-restful-apis-using-net-9-5h84)
-- [How to Speed Up Frontend Development Without Sacrificing Flexibility](https://dev.to/lonti-davidb/how-to-speed-up-frontend-development-without-sacrificing-flexibility-3oil)
-- [Building a Bet Code Converter App: A Complete Guide](https://dev.to/betpaddi/building-a-bet-code-converter-app-a-complete-guide-55ic)
+- [04-HarmonyOS5-FaceDetector-Case](https://dev.to/zhousg/04-harmonyos5-facedetector-case-5ekf)
+- [03-HarmonyOS5-TextRecognition-Case](https://dev.to/zhousg/03-harmonyos5-textrecognition-case-7e4)
+- [The QA Team Revolted: Our ChatGPT Experiment for Test Case Generation](https://dev.to/abhishekshakya/the-qa-team-revolted-our-chatgpt-experiment-for-test-case-generation-722)
+- [02-HarmonyOS5-SpeechRecognizer-Case](https://dev.to/zhousg/02-harmonyos5-speechrecognizer-case-3je)
 <!-- BLOG-POST-LIST:END -->
 
