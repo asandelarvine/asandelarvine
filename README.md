@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is LDAP? A Quick Guide + How SafeLine Supports LDAP Auth](https://dev.to/carrie_luo1/what-is-ldap-a-quick-guide-how-safeline-supports-ldap-authentication-1lb4)
-- [Discord style stickers in Wordpress Comments](https://dev.to/itsaomi/discord-style-stickers-in-wordpress-comments-3d7)
-- [🔐 C# Logger haqida va uning darajalari](https://dev.to/umida5/c-logger-haqida-va-uning-darajalari-379)
-- [Working with JavaScript Symbols](https://dev.to/micmath/working-with-javascript-symbols-10k8)
+- [🧠Writing Developer-Friendly Content That Performs: Why You Should Care About SEO &lpar;and a Checklist to Help&rpar;](https://dev.to/markfatter/writing-developer-friendly-content-that-performs-why-you-should-care-about-seo-and-a-checklist-4d5b)
+- [How to Deploy a Full Stack App to Koyeb Using Docker Compose and GitHub Actions](https://dev.to/ephraimx/how-to-deploy-a-full-stack-app-to-koyeb-using-docker-compose-and-github-actions-2oj)
+- [AI/ML Development Challenges and How Modern Teams Solve Them](https://dev.to/emilytechwriter/aiml-development-challenges-and-how-modern-teams-solve-them-3kme)
+- [Decoding the Magic: Python Fundamentals for Machine Learning](https://dev.to/dev_delvadiya_46ba68a43c4/decoding-the-magic-python-fundamentals-for-machine-learning-1e16)
 <!-- BLOG-POST-LIST:END -->
 
