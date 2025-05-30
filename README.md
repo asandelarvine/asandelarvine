@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a Sudoku Game Using Amazon Q CLI on WSL Ubuntu – Try It Out!](https://dev.to/amarpreetbhatia/built-a-sudoku-game-using-amazon-q-cli-on-wsl-ubuntu-try-it-out-1hph)
-- [Smart Gate Automation with IoT and Google Assistant: A Practical Guide](https://dev.to/karen_londres/smart-gate-automation-with-iot-and-google-assistant-a-practical-guide-g41)
-- [🤖 Agentic AI vs ChatGPT AI: What&#39;s the Difference?](https://dev.to/mohitdecodes/agentic-ai-vs-chatgpt-ai-whats-the-difference-2foa)
-- [Project of the Week: Ghost 👻](https://dev.to/pullflow/project-of-the-week-ghost-1645)
+- [You can feel the years of trial and error behind this piece and that makes it more impactful.](https://dev.to/michbrowning/you-can-feel-the-years-of-trial-and-error-behind-this-piece-and-that-makes-it-more-impactful-1hea)
+- [Zod: The Ultimate Validation Library for TypeScript](https://dev.to/ashikrnhq04/-59i3)
+- [Ashkan really breaks it down in a way that cuts through the noise. This is the kind of content that actually helps entrepreneurs.](https://dev.to/michbrowning/ashkan-really-breaks-it-down-in-a-way-that-cuts-through-the-noise-this-is-the-kind-of-content-that-4fnn)
+- [How I Learned to Stop Worrying and Love Version Control - A Lesson in Software Collaboration](https://dev.to/rahull_0906/how-i-learned-to-stop-worrying-and-love-version-control-a-lesson-in-software-collaboration-jp4)
 <!-- BLOG-POST-LIST:END -->
 
