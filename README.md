@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Folks. I have written my first post on dev to, about Scope Functions in Kotlin. Feel free to give it a read and drop a review or suggestion. Also, would love to know your favourite scope function, or your favourite feature of Kotlin. Happy reading!](https://dev.to/prithviraj_kapil/hello-folks-i-have-written-my-first-post-on-dev-to-about-scope-functions-in-kotlin-feel-free-to-4622)
-- [Top 10 Must-Know Data Structures for Every Programmer](https://dev.to/rac/top-10-must-know-data-structures-for-every-programmer-1hg2)
-- [GoLogin: The Developer&#39;s Guide to Multi-Account Browser Management and Web Scraping](https://dev.to/s_devworld/gologin-the-developers-guide-to-multi-account-browser-management-and-web-scraping-30fo)
-- [Top 5 Product Analytics Tools for Fintech Companies in 2025](https://dev.to/pambrus/top-5-product-analytics-tools-for-fintech-companies-in-2025-18l8)
+- [DevOps in Multi-Cloud Environments: Best Practices for 2025](https://dev.to/di_solutions/devops-in-multi-cloud-environments-best-practices-for-2025-50h7)
+- [Choosing Your Developer Path Series: Experiment First. Commit Later.](https://dev.to/tlorent/choosing-your-developer-path-series-experiment-first-commit-later-379l)
+- [𝗛𝗼𝘄 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗛𝗮𝗻𝗱𝗹𝗲𝘀 𝗣𝗿𝗲-𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗔𝗽𝗽𝗿𝗼𝘃𝗮𝗹𝘀 𝗶𝗻 𝗬𝗔𝗠𝗟 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--4hnb)
+- [🚀 See you at the AWS Partner Summit Madrid!](https://dev.to/fjrg2007/see-you-at-the-aws-partner-summit-madrid-3kd1)
 <!-- BLOG-POST-LIST:END -->
 
