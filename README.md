@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como configurar deploy automático da sua API &lpar;GO&rpar; + Postgres com Docker via GitHub Actions e SSH](https://dev.to/gaabrielbrocco/como-configurar-deploy-automatico-da-sua-api-go-postgres-com-docker-via-github-actions-e-ssh-5a61)
-- [Games Workshop employees to receive £20m bonus](https://dev.to/gg_news/games-workshop-employees-to-receive-ps20m-bonus-1mho)
-- [Rumour: Hunter Schafer is being eyed as Princess Zelda in the Zelda movie](https://dev.to/gg_news/rumour-hunter-schafer-is-being-eyed-as-princess-zelda-in-the-zelda-movie-4od0)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-2k5p)
+- [🧼 Type-Safe Filtering in TypeScript: Handling Nullable Fields from Your Database](https://dev.to/toshiya_matsumoto_ac94abe/type-safe-filtering-in-typescript-handling-nullable-fields-from-your-database-22lo)
+- [Sign up Form](https://dev.to/mubarak-mohamed/sign-up-form-2jon)
+- [Anyone here using InvestSpy for portfolio analytics? Thoughts?](https://dev.to/denis21/anyone-here-using-investspy-for-portfolio-analytics-thoughts-38ak)
+- [[Showoff Saturday] ATM Simulator – Fullstack Web App built with Flask](https://dev.to/dennis_mpoukouris_8a1f826/showoff-saturday-atm-simulator-fullstack-web-app-built-with-flask-741)
 <!-- BLOG-POST-LIST:END -->
 
