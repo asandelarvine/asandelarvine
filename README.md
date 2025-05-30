@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4pdg)
-- [Rate Limiting &amp; Throttling](https://dev.to/godofgeeks/rate-limiting-throttling-go8)
-- [What is pipelining in microprocessor?](https://dev.to/carolineee/what-is-pipelining-in-microprocessor-5a9i)
-- [AWS open source newsletter, #210](https://dev.to/aws/aws-open-source-newsletter-210-23l0)
+- [Ollama AI Studio: Missing ui for ollama?](https://dev.to/4nkitd/ollama-ai-studio-missing-ui-for-ollama-2ndh)
+- [Odoo Database Table Naming Quirk](https://dev.to/jeevanizm/odoo-database-table-naming-quirk-3i7k)
+- [Masterclass on Game Theory in Competitive Programming.](https://dev.to/coding_blocks/masterclass-on-game-theory-in-competitive-programming-13ep)
+- [Cloud Waste Is Real: How to Reduce Your AWS Bill Without Downgrading Performance](https://dev.to/dct_technology/cloud-waste-is-real-how-to-reduce-your-aws-bill-without-downgrading-performance-211m)
 <!-- BLOG-POST-LIST:END -->
 
