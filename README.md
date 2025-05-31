@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Controle de fumaça e acessibilidade: soluções eficientes para ambientes seguros](https://dev.to/emergenciasafety001/controle-de-fumaca-e-acessibilidade-solucoes-eficientes-para-ambientes-seguros-2h2l)
-- [🎤 Your Gateway to Building VoiceNote AI: Mastering Speech-to-Text with Whisper](https://dev.to/fonyuygita/your-gateway-to-building-voicenote-ai-mastering-speech-to-text-with-whisper-509l)
-- [Harmonyos Cangjie Language Development Practical Tutorial: Implementing Product Category Pages](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-implementing-product-category-pages-41nf)
-- [📚 Your Gateway to Building ReadTrackr: Mastering the Open Library API](https://dev.to/fonyuygita/your-gateway-to-building-readtrackr-mastering-the-open-library-api-j9n)
+- [Why Mac Developers Invest in Paid Tools: Beyond Free Alternatives](https://dev.to/xinjie_zou_d67d2805538130/why-mac-developers-invest-in-paid-tools-beyond-free-alternatives-217m)
+- [Event-Driven Architectures](https://dev.to/godofgeeks/event-driven-architectures-4jch)
+- [The Day Dart Fooled Me: A List, A Loop, and a Vanishing Value](https://dev.to/alaminkarno/the-day-dart-fooled-me-a-list-a-loop-and-a-vanishing-value-3669)
+- [Controle de fumaça com alertas via SMS e app: segurança inteligente para seu ambiente](https://dev.to/segurancaspecialist800/controle-de-fumaca-com-alertas-via-sms-e-app-seguranca-inteligente-para-seu-ambiente-43b4)
 <!-- BLOG-POST-LIST:END -->
 
