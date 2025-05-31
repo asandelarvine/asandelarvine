@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Agentic Rag in Rust](https://dev.to/skeptrune/how-to-build-agentic-rag-in-rust-44o0)
-- [Why Every Programmer Should Embrace Failure](https://dev.to/joao_dalbem_afa16a8be0433/why-every-programmer-should-embrace-failure-2nb9)
-- [Performans İyileştirmesi: Saniyeler Kazan](https://dev.to/yunus_emremert_1756b71d3/performans-iyilestirmesi-saniyeler-kazan-ca7)
-- [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
+- [Adapting Technical Interviews to Counter AI-Assisted Cheating](https://dev.to/jotafeldmann/adapting-technical-interviews-to-counter-ai-assisted-cheating-36lk)
+- [Vibe coding an Email Ticket Automater using Postmark](https://dev.to/chiragagg5k/vibe-coding-an-email-ticket-automater-using-postmark-l11)
+- [Building the Smart City Pulse Dashboard: My Summer of Scribbling Hackathon Journey](https://dev.to/sujan_kowshikjilla_3f595/building-the-smart-city-pulse-dashboard-my-summer-of-scribbling-hackathon-journey-22m0)
+- [Starting with Statistics towards Decisions: An Effect of Equity Analysis on The Portfolio](https://dev.to/babiesant8/starting-with-statistics-towards-decisions-an-effect-of-equity-analysis-on-the-portfolio-19gl)
 <!-- BLOG-POST-LIST:END -->
 
