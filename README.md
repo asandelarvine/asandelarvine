@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building PDF Open Source Services with Angular &amp; GCP - PDF to Podcast](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-pdf-to-podcast-2abf)
-- [Hats Off &lpar;And On Again&rpar;: The Ridiculous Art of Tech Leadership](https://dev.to/leaddontctrl/hats-off-and-on-again-the-ridiculous-art-of-tech-leadership-4pfk)
-- [Scientists Use Language Models to Decode Human Genes](https://dev.to/maurizio_morri_f7f4bd128c/scientists-use-language-models-to-decode-human-genes-bkc)
-- [Day 2 Plans](https://dev.to/thankamatho/day-2-plans-3jm2)
+- [🧠 Backing Fields in C#: What They Are and Why You Should Care](https://dev.to/infraforge-dev/backing-fields-in-c-what-they-are-and-why-you-should-care-5f6p)
+- [Efficient Route Planning for Robotic Vacuums: Algorithms, Challenges, and Real-World Use](https://dev.to/emily_johnson_dev/efficient-route-planning-for-robotic-vacuums-algorithms-challenges-and-real-world-use-3j3)
+- [Data Warehousing and Data Mining](https://dev.to/aniruddhaadak_/data-warehousing-and-data-mining-20d6)
+- [Millau - ingress-proxy with self-configuration for Docker Swarm](https://dev.to/codelev/millau-ingress-proxy-with-self-configuration-for-docker-swarm-5g48)
 <!-- BLOG-POST-LIST:END -->
 
