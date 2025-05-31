@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV Community! I’m José Filipe – Aspiring Backend Developer 🚀](https://dev.to/josefilipe_dev/hello-dev-community-im-jose-filipe-aspiring-backend-developer-593)
-- [Using Dnd-Kit Basics](https://dev.to/tushar_sandhu/using-dnd-kit-basics-1hla)
-- [What’s the Best Way to Start Driving Lessons in Pakenham as a Beginner?](https://dev.to/maxdavis/whats-the-best-way-to-start-driving-lessons-in-pakenham-as-a-beginner-2eak)
-- [Top 7 DevOps Tools for Teams in 2025 &lpar;With Use Cases and Free Plans&rpar;](https://dev.to/tedh1677/top-7-devops-tools-for-teams-in-2025-with-use-cases-and-free-plans-49fj)
+- [The Future of Cybersecurity Jobs: What’s Thriving, Evolving, and Disappearing by 2030](https://dev.to/sameerimtiaz/the-future-of-cybersecurity-jobs-whats-thriving-evolving-and-disappearing-by-2030-29ea)
+- [How I Resolved the “Malicious App” Warning on Phantom Wallet Extension](https://dev.to/blockexperts/how-i-resolved-the-malicious-app-warning-on-phantom-wallet-extension-3j3)
+- [Best Practices for Async Error Handling in JavaScript](https://dev.to/omriluz1/best-practices-for-async-error-handling-in-javascript-397)
+- [Enhancing Agriculture with IoT and Big Data: A New Era of Smart Farming](https://dev.to/kapusto/enhancing-agriculture-with-iot-and-big-data-a-new-era-of-smart-farming-49l3)
 <!-- BLOG-POST-LIST:END -->
 
