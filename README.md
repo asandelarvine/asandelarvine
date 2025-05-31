@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Backing Fields in C#: What They Are and Why You Should Care](https://dev.to/infraforge-dev/backing-fields-in-c-what-they-are-and-why-you-should-care-5f6p)
-- [Efficient Route Planning for Robotic Vacuums: Algorithms, Challenges, and Real-World Use](https://dev.to/emily_johnson_dev/efficient-route-planning-for-robotic-vacuums-algorithms-challenges-and-real-world-use-3j3)
-- [Data Warehousing and Data Mining](https://dev.to/aniruddhaadak_/data-warehousing-and-data-mining-20d6)
-- [Millau - ingress-proxy with self-configuration for Docker Swarm](https://dev.to/codelev/millau-ingress-proxy-with-self-configuration-for-docker-swarm-5g48)
+- [Hello DEV Community! I’m José Filipe – Aspiring Backend Developer 🚀](https://dev.to/josefilipe_dev/hello-dev-community-im-jose-filipe-aspiring-backend-developer-593)
+- [Using Dnd-Kit Basics](https://dev.to/tushar_sandhu/using-dnd-kit-basics-1hla)
+- [What’s the Best Way to Start Driving Lessons in Pakenham as a Beginner?](https://dev.to/maxdavis/whats-the-best-way-to-start-driving-lessons-in-pakenham-as-a-beginner-2eak)
+- [Top 7 DevOps Tools for Teams in 2025 &lpar;With Use Cases and Free Plans&rpar;](https://dev.to/tedh1677/top-7-devops-tools-for-teams-in-2025-with-use-cases-and-free-plans-49fj)
 <!-- BLOG-POST-LIST:END -->
 
