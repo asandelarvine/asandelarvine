@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Technology You Should Know: Chatterbox](https://dev.to/kpcofgs/introducing-chatterbox-38pk)
-- [Stop Your Users From Cringing: How to Add Grammar and Spell-Check to Your Cypress Tests](https://dev.to/s_chathuranga_j/stop-your-users-from-cringing-how-to-add-grammar-and-spell-check-to-your-cypress-tests-5815)
-- [Day:5 JavaScript Project: Changing Colors with a Button](https://dev.to/seenuvasan_p/day5-javascript-project-changing-colors-with-a-button-15n4)
-- [Weekly #22-2025: AI Policy Debates, Smarter Terminals, and Cloud Native Breakthroughs](https://dev.to/weekly/weekly-22-2025-ai-policy-debates-smarter-terminals-and-cloud-native-breakthroughs-2nnd)
+- [Building PDF Open Source Services with Angular &amp; GCP - PDF to Podcast](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-pdf-to-podcast-2abf)
+- [Hats Off &lpar;And On Again&rpar;: The Ridiculous Art of Tech Leadership](https://dev.to/leaddontctrl/hats-off-and-on-again-the-ridiculous-art-of-tech-leadership-4pfk)
+- [Scientists Use Language Models to Decode Human Genes](https://dev.to/maurizio_morri_f7f4bd128c/scientists-use-language-models-to-decode-human-genes-bkc)
+- [Day 2 Plans](https://dev.to/thankamatho/day-2-plans-3jm2)
 <!-- BLOG-POST-LIST:END -->
 
