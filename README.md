@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FLUX.1 Kontext — The First AI Image Editor I Can Actually Control](https://dev.to/416_cat_d433213826543e7d0/flux1-kontext-the-first-ai-image-editor-i-can-actually-control-52d2)
-- [Controle de fumaça por zonas de contenção: eficiência e segurança do sistema](https://dev.to/segurancaconsultor925/controle-de-fumaca-por-zonas-de-contencao-eficiencia-e-seguranca-do-sistema-3158)
-- [100DaysOfCode — Day 29](https://dev.to/jobkroongit/100daysofcode-day-29-285o)
-- [OperationalError - no such table &lpar;Django 101&rpar;](https://dev.to/hastycodea/operationalerror-no-such-table-django-101-4e9d)
+- [DevTo AI Agent with A2A and MCP](https://dev.to/heetvekariya/devto-ai-agent-with-a2a-and-mcp-4d43)
+- [GO 101: Day 1](https://dev.to/dat_one_dev/go-101-day-1-5god)
+- [7 Best Tips to Become a Pro Java Developer](https://dev.to/tarunfulera/7-best-tips-to-become-a-pro-java-developer-4a23)
+- [Do You Really Need a 10Gbps Dedicated Server? Here’s What We Found After Testing](https://dev.to/noahbennett947/do-you-really-need-a-10gbps-dedicated-server-heres-what-we-found-after-testing-2o5h)
 <!-- BLOG-POST-LIST:END -->
 
