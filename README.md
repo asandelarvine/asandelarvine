@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Emotional Intelligence: The Unexpected Benefit of Online Learning for Students](https://dev.to/ghummantech/boosting-emotional-intelligence-the-unexpected-benefit-of-online-learning-for-students-18h)
-- [Vim: BackSpace - because VIM Adventures isn&#39;t worth the license cost](https://dev.to/mousepotatodoesstuff/vim-backspace-because-vim-adventures-isnt-worth-the-license-cost-338)
-- [Controle de fumaça em aeroportos: soluções eficientes que garantem segurança](https://dev.to/emergenciaexpert574/controle-de-fumaca-em-aeroportos-solucoes-eficientes-que-garantem-seguranca-1914)
-- [Day &lpar;10/30&rpar; - git branch -a + git remote show origin – Inspecting remote branches](https://dev.to/ruqaiya_beguwala/git-branch-a-git-remote-show-origin-inspecting-remote-branches-10o2)
+- [FLUX.1 Kontext — The First AI Image Editor I Can Actually Control](https://dev.to/416_cat_d433213826543e7d0/flux1-kontext-the-first-ai-image-editor-i-can-actually-control-52d2)
+- [Controle de fumaça por zonas de contenção: eficiência e segurança do sistema](https://dev.to/segurancaconsultor925/controle-de-fumaca-por-zonas-de-contencao-eficiencia-e-seguranca-do-sistema-3158)
+- [100DaysOfCode — Day 29](https://dev.to/jobkroongit/100daysofcode-day-29-285o)
+- [OperationalError - no such table &lpar;Django 101&rpar;](https://dev.to/hastycodea/operationalerror-no-such-table-django-101-4e9d)
 <!-- BLOG-POST-LIST:END -->
 
