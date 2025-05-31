@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevTo AI Agent with A2A and MCP](https://dev.to/heetvekariya/devto-ai-agent-with-a2a-and-mcp-4d43)
-- [GO 101: Day 1](https://dev.to/dat_one_dev/go-101-day-1-5god)
-- [7 Best Tips to Become a Pro Java Developer](https://dev.to/tarunfulera/7-best-tips-to-become-a-pro-java-developer-4a23)
-- [Do You Really Need a 10Gbps Dedicated Server? Here’s What We Found After Testing](https://dev.to/noahbennett947/do-you-really-need-a-10gbps-dedicated-server-heres-what-we-found-after-testing-2o5h)
+- [🌍 Your Gateway to Building IP Insight: Mastering Geolocation with IPify &amp; IPWhois](https://dev.to/fonyuygita/your-gateway-to-building-ip-insight-mastering-geolocation-with-ipify-ipwhois-4nj3)
+- [Simplifying Programmatic Database Handling](https://dev.to/amadou6e/simplifying-programmatic-database-handling-p7l)
+- [GitHub Actions to AWS OIDC Integration SetuP](https://dev.to/jajera/github-actions-to-aws-oidc-integration-setup-51me)
+- [Salesforce vs Dynamics 365: CRM Showdown for Beginners](https://dev.to/softat_c9baa9555054f52b2e/salesforce-vs-dynamics-365-crm-showdown-for-beginners-1382)
 <!-- BLOG-POST-LIST:END -->
 
