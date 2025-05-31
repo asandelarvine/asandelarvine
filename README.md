@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How My Weekend Project Went Viral on Hacker News](https://dev.to/magicnull/how-my-weekend-project-went-viral-on-hacker-news-3bhb)
-- [🚀 Amazon EKS Now Supports Kubernetes 1.33 — What’s New and Why It Matters](https://dev.to/latchudevops/amazon-eks-now-supports-kubernetes-133-whats-new-and-why-it-matters-37hl)
-- [Not All Bots Survive: Lessons From the Other Side of the Order Book](https://dev.to/martin_call/not-all-bots-survive-lessons-from-the-other-side-of-the-order-book-eck)
-- [What I Learned Cleaning 1 Million Rows of CSV Data Without Pandas](https://dev.to/abrar_ahmed/what-i-learned-cleaning-1-million-rows-of-csv-data-without-pandas-1a01)
+- [Vibecoded a Game using AmazonQ CLI](https://dev.to/mroshank/vibecoded-a-game-using-amazonq-cli-n3m)
+- [A Case for Semicolon-less JavaScript &lpar;ASI&rpar;](https://dev.to/hudsonnewey/why-javascript-semicolons-need-to-die-a-case-for-asi-5cca)
+- [Visualize Your Application Entities with MSAGL &lpar;Toolkit for .NET Devs&rpar;](https://dev.to/catchybytes_techy_5d77bcf/visualize-your-application-entities-with-msagl-free-toolkit-for-net-devs-jln)
+- [Refactoring with Result&lt;T, E&gt; and Custom Errors](https://dev.to/sgchris/refactoring-with-resultt-e-and-custom-errors-24ik)
 <!-- BLOG-POST-LIST:END -->
 
