@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data structure - Graph](https://dev.to/emmakang123/data-structure-graph-3a7b)
-- [Refining “Similar Posts” for Relevance and Simplicity](https://dev.to/logarithmicspirals/refining-similar-posts-for-relevance-and-simplicity-2gfl)
-- [From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the Power of Practical Experience](https://dev.to/justinkt/from-classroom-to-hackthebox-my-journey-through-cybersecurity-degree-certifications-and-the-5e7d)
-- [Securing Redis with ACLs and Integrating Redis Insight in Docker](https://dev.to/silentwatcher_95/securing-redis-with-acls-and-integrating-redis-insight-in-docker-59c1)
+- [sync or channel? The Right Choice for Go Synchronization](https://dev.to/leapcell/sync-or-channel-the-right-choice-for-go-synchronization-2m7i)
+- [🚦 Swift 6.1 From Risky to Robust: Concurrency &amp; Import Improvements](https://dev.to/shubham_sanghavi_55c51b74/swift-61-from-risky-to-robust-concurrency-import-improvements-1p14)
+- [[Boost]](https://dev.to/ytx/-2ni8)
+- [👋 Hello Dev Community – I’m Building Snippai, an AI-Powered Screenshot Agent](https://dev.to/ytx/hello-dev-community-im-building-snippai-an-ai-powered-screenshot-agent-5eab)
 <!-- BLOG-POST-LIST:END -->
 
