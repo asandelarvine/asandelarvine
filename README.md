@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 - Bolt Hackathon](https://dev.to/nipv20s/day-1-bolt-hackathon-31aa)
-- [🧠 How I Start My Day — A Routine That’s Rewiring My Brain](https://dev.to/yash_sonawane25/how-i-start-my-day-a-routine-thats-rewiring-my-brain-571c)
-- [Adapting Technical Interviews to Counter AI-Assisted Cheating](https://dev.to/jotafeldmann/adapting-technical-interviews-to-counter-ai-assisted-cheating-36lk)
-- [Vibe coding an Email Ticket Automater using Postmark](https://dev.to/chiragagg5k/vibe-coding-an-email-ticket-automater-using-postmark-l11)
+- [Building InboxHelm: A Smarter Way to Track Your Job Apps and Receipts](https://dev.to/sehmim_haque_cdf44fce56e1/building-inboxhelm-a-smarter-way-to-track-your-job-apps-and-receipts-92j)
+- [Ultimate DevOps Tutorial for Beginners and Experts](https://dev.to/tpointtechblog/ultimate-devops-tutorial-for-beginners-and-experts-17jj)
+- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-2d37)
+- [Best Icon &amp; Illustration Sites Every Developer Should Bookmark 🎨](https://dev.to/ajeetsingh2016/best-icon-illustration-sites-every-developer-should-bookmark-afp)
 <!-- BLOG-POST-LIST:END -->
 
