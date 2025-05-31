@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s fs Package: Modern File System Abstraction 1/9](https://dev.to/rezmoss/gos-fs-package-modern-file-system-abstraction-19-5aad)
-- [🧭 My CloudFormation Yatra – Architecting AWS Like an Epic India Trip 🛕🧳](https://dev.to/aws-builders/my-cloudformation-yatra-architecting-aws-like-an-epic-india-trip-2gkp)
-- [Flying with FloatingPawnMovement in Unreal Engine: A Dronewood Dev Breakdown](https://dev.to/winterturtle23/flying-with-floatingpawnmovement-in-unreal-engine-a-dronewood-dev-breakdown-546c)
-- [I Blogged Every Day for a Month -- Again](https://dev.to/vst/i-blogged-every-day-for-a-month-again-pkg)
+- [A New Technology You Should Know: Chatterbox](https://dev.to/kpcofgs/introducing-chatterbox-38pk)
+- [Stop Your Users From Cringing: How to Add Grammar and Spell-Check to Your Cypress Tests](https://dev.to/s_chathuranga_j/stop-your-users-from-cringing-how-to-add-grammar-and-spell-check-to-your-cypress-tests-5815)
+- [Day:5 JavaScript Project: Changing Colors with a Button](https://dev.to/seenuvasan_p/day5-javascript-project-changing-colors-with-a-button-15n4)
+- [Weekly #22-2025: AI Policy Debates, Smarter Terminals, and Cloud Native Breakthroughs](https://dev.to/weekly/weekly-22-2025-ai-policy-debates-smarter-terminals-and-cloud-native-breakthroughs-2nnd)
 <!-- BLOG-POST-LIST:END -->
 
