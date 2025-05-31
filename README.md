@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Regression Model using Math!](https://dev.to/busycaesar/regression-model-405j)
-- [The Synergy Between GPUs and AI: A Comprehensive Overview](https://dev.to/kpcofgs/the-synergy-between-gpus-and-ai-a-comprehensive-overview-399o)
-- [Finding the Road Back Home: Building a Clean PostGIS Gem for Rails 8](https://dev.to/seuros/finding-the-road-back-home-building-a-clean-postgis-gem-for-rails-8-21ai)
-- [The Day That Taught Me Something I’ll Never Forget](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-2keo)
+- [Go&#39;s fs Package: Modern File System Abstraction 1/9](https://dev.to/rezmoss/gos-fs-package-modern-file-system-abstraction-19-5aad)
+- [🧭 My CloudFormation Yatra – Architecting AWS Like an Epic India Trip 🛕🧳](https://dev.to/aws-builders/my-cloudformation-yatra-architecting-aws-like-an-epic-india-trip-2gkp)
+- [Flying with FloatingPawnMovement in Unreal Engine: A Dronewood Dev Breakdown](https://dev.to/winterturtle23/flying-with-floatingpawnmovement-in-unreal-engine-a-dronewood-dev-breakdown-546c)
+- [I Blogged Every Day for a Month -- Again](https://dev.to/vst/i-blogged-every-day-for-a-month-again-pkg)
 <!-- BLOG-POST-LIST:END -->
 
