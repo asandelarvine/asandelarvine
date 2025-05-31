@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Mac Developers Invest in Paid Tools: Beyond Free Alternatives](https://dev.to/xinjie_zou_d67d2805538130/why-mac-developers-invest-in-paid-tools-beyond-free-alternatives-217m)
-- [Event-Driven Architectures](https://dev.to/godofgeeks/event-driven-architectures-4jch)
-- [The Day Dart Fooled Me: A List, A Loop, and a Vanishing Value](https://dev.to/alaminkarno/the-day-dart-fooled-me-a-list-a-loop-and-a-vanishing-value-3669)
-- [Controle de fumaça com alertas via SMS e app: segurança inteligente para seu ambiente](https://dev.to/segurancaspecialist800/controle-de-fumaca-com-alertas-via-sms-e-app-seguranca-inteligente-para-seu-ambiente-43b4)
+- [Boosting Emotional Intelligence: The Unexpected Benefit of Online Learning for Students](https://dev.to/ghummantech/boosting-emotional-intelligence-the-unexpected-benefit-of-online-learning-for-students-18h)
+- [Vim: BackSpace - because VIM Adventures isn&#39;t worth the license cost](https://dev.to/mousepotatodoesstuff/vim-backspace-because-vim-adventures-isnt-worth-the-license-cost-338)
+- [Controle de fumaça em aeroportos: soluções eficientes que garantem segurança](https://dev.to/emergenciaexpert574/controle-de-fumaca-em-aeroportos-solucoes-eficientes-que-garantem-seguranca-1914)
+- [Day &lpar;10/30&rpar; - git branch -a + git remote show origin – Inspecting remote branches](https://dev.to/ruqaiya_beguwala/git-branch-a-git-remote-show-origin-inspecting-remote-branches-10o2)
 <!-- BLOG-POST-LIST:END -->
 
