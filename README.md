@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Learn TypeScript &amp; JavaScript for Playwright in Test Automation](https://dev.to/mahesh_heretolearn/best-way-to-learn-typescript-javascript-for-playwright-in-test-automation-4764)
-- [Corpus &amp; Vocabulary](https://dev.to/datatoinfinity/corpus-vocabulary-6ja)
-- [Sibling Relation Transitivity and a Little More](https://dev.to/kerthump/sibling-relation-transitivity-and-a-little-more-18pn)
-- [Next.js: getStaticProps, getServerSideProps, useEffect???](https://dev.to/dance_nguyen/nextjs-getstaticprops-getserversideprops-useeffect-47jo)
+- [How to Build Agentic Rag in Rust](https://dev.to/skeptrune/how-to-build-agentic-rag-in-rust-44o0)
+- [Why Every Programmer Should Embrace Failure](https://dev.to/joao_dalbem_afa16a8be0433/why-every-programmer-should-embrace-failure-2nb9)
+- [Performans İyileştirmesi: Saniyeler Kazan](https://dev.to/yunus_emremert_1756b71d3/performans-iyilestirmesi-saniyeler-kazan-ca7)
+- [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
 <!-- BLOG-POST-LIST:END -->
 
