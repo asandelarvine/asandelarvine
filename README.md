@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Your Gateway to Building IP Insight: Mastering Geolocation with IPify &amp; IPWhois](https://dev.to/fonyuygita/your-gateway-to-building-ip-insight-mastering-geolocation-with-ipify-ipwhois-4nj3)
-- [Simplifying Programmatic Database Handling](https://dev.to/amadou6e/simplifying-programmatic-database-handling-p7l)
-- [GitHub Actions to AWS OIDC Integration SetuP](https://dev.to/jajera/github-actions-to-aws-oidc-integration-setup-51me)
-- [Salesforce vs Dynamics 365: CRM Showdown for Beginners](https://dev.to/softat_c9baa9555054f52b2e/salesforce-vs-dynamics-365-crm-showdown-for-beginners-1382)
+- [How My Weekend Project Went Viral on Hacker News](https://dev.to/magicnull/how-my-weekend-project-went-viral-on-hacker-news-3bhb)
+- [🚀 Amazon EKS Now Supports Kubernetes 1.33 — What’s New and Why It Matters](https://dev.to/latchudevops/amazon-eks-now-supports-kubernetes-133-whats-new-and-why-it-matters-37hl)
+- [Not All Bots Survive: Lessons From the Other Side of the Order Book](https://dev.to/martin_call/not-all-bots-survive-lessons-from-the-other-side-of-the-order-book-eck)
+- [What I Learned Cleaning 1 Million Rows of CSV Data Without Pandas](https://dev.to/abrar_ahmed/what-i-learned-cleaning-1-million-rows-of-csv-data-without-pandas-1a01)
 <!-- BLOG-POST-LIST:END -->
 
