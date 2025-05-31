@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building InboxHelm: A Smarter Way to Track Your Job Apps and Receipts](https://dev.to/sehmim_haque_cdf44fce56e1/building-inboxhelm-a-smarter-way-to-track-your-job-apps-and-receipts-92j)
-- [Ultimate DevOps Tutorial for Beginners and Experts](https://dev.to/tpointtechblog/ultimate-devops-tutorial-for-beginners-and-experts-17jj)
-- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-2d37)
-- [Best Icon &amp; Illustration Sites Every Developer Should Bookmark 🎨](https://dev.to/ajeetsingh2016/best-icon-illustration-sites-every-developer-should-bookmark-afp)
+- [Controle de fumaça e acessibilidade: soluções eficientes para ambientes seguros](https://dev.to/emergenciasafety001/controle-de-fumaca-e-acessibilidade-solucoes-eficientes-para-ambientes-seguros-2h2l)
+- [🎤 Your Gateway to Building VoiceNote AI: Mastering Speech-to-Text with Whisper](https://dev.to/fonyuygita/your-gateway-to-building-voicenote-ai-mastering-speech-to-text-with-whisper-509l)
+- [Harmonyos Cangjie Language Development Practical Tutorial: Implementing Product Category Pages](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-implementing-product-category-pages-41nf)
+- [📚 Your Gateway to Building ReadTrackr: Mastering the Open Library API](https://dev.to/fonyuygita/your-gateway-to-building-readtrackr-mastering-the-open-library-api-j9n)
 <!-- BLOG-POST-LIST:END -->
 
