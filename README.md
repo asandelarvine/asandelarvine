@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Was Your First Programming Language — And Why Did You Start With It?](https://dev.to/kpcofgs/what-was-your-first-programming-language-and-why-did-you-start-with-it-1ff7)
-- [How Personalization Widgets Are Reshaping E-Commerce Delivery Experiences](https://dev.to/shushyam/how-personalization-widgets-are-reshaping-e-commerce-delivery-experiences-40ji)
-- [How to use FFmpeg with C++ &lpar;Windows and GNU/Linux&rpar;](https://dev.to/marcosplusplus/how-to-use-ffmpeg-with-c-windows-and-gnulinux-5g1o)
-- [Como utilizar o FFmpeg com C++ &lpar;Windows e GNU/Linux&rpar;](https://dev.to/marcosplusplus/como-utilizar-o-ffmpeg-com-c-windows-e-gnulinux-36en)
+- [Back to Basics 2025: Progress Check Up](https://dev.to/theoriginalbpc/back-to-basics-2025-progress-check-up-jik)
+- [Tomorrow will be an exciting day, the first serious launch on ProductHunt. Well, I hope it will be interesting!](https://dev.to/anthonymax/tomorrow-will-be-an-exciting-day-the-first-serious-launch-on-producthunt-well-i-hope-it-will-be-4cl7)
+- [World&#39;s Largest Hackathon: Day 3](https://dev.to/thankamatho/day-3-11fj)
+- [Built an AI-powered Shopify app that lets merchants create upsell rules using natural language](https://dev.to/pr135t/built-an-ai-powered-shopify-app-that-lets-merchants-create-upsell-rules-using-natural-language-16h)
 <!-- BLOG-POST-LIST:END -->
 
