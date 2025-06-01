@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-5 in JS: Understanding Math.random &amp; Math.floor, Array, Length property..](https://dev.to/chithra_priya/day-5-in-js-understanding-mathrandom-mathfloor-array-length-property-38dd)
-- [API and SDK, What Are These Two Terms Actually?](https://dev.to/ohdylan/api-and-sdk-what-are-these-two-terms-actually-1ad8)
-- [Exploring the Journey of Aniruddha Adak: A Tech Enthusiast and Innovator](https://dev.to/aniruddhaadak_/exploring-the-journey-of-aniruddha-adak-a-tech-enthusiast-and-innovator-by-sciraai-1ip9)
-- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-b9a)
+- [AI Agents in 2025: The Next Evolution of Artificial Intelligence](https://dev.to/aniruddhaadak/ai-agents-in-2025-the-next-evolution-of-artificial-intelligence-2j9p)
+- [Angular v20 is 35% faster, Remix v3 is breaking up with React, and the future of JavaScript](https://dev.to/thisweekinjavascript/angular-v20-is-35-faster-remix-v3-is-breaking-up-with-react-and-the-future-of-javascript-4h8p)
+- [Build with AI Manila 2025: Empowering Developers in the Agentic Era](https://dev.to/kakacomputer-media/build-with-ai-manila-2025-empowering-developers-in-the-agentic-era-24ib)
+- [Laravel Database Query Optimization: Best Practices for Faster Apps](https://dev.to/techsolver94/laravel-database-query-optimization-best-practices-for-faster-apps-gdc)
 <!-- BLOG-POST-LIST:END -->
 
