@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Transactions in Asynchronous Threads in Java &lpar;Spring&rpar;](https://dev.to/thellu/how-to-manage-transactions-in-asynchronous-threads-in-java-spring-1jl)
-- [ForskScope &lpar;diff viewer&rpar; 0.22 is in AUR](https://dev.to/nabbisen/forskscope-diff-viewer-022-is-in-aur-3p2j)
-- [SAGA](https://dev.to/stv4ns/saga-5hig)
-- [What If the Mind Stops Not From Weakness, But From Too Much Input?](https://dev.to/versiqcontent/what-if-the-mind-stops-not-from-weakness-but-from-too-much-input-el2)
+- [[Boost]](https://dev.to/ultimatehobbycoder/-2oi6)
+- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
+- [From reversed linked-list to registers, memory and assembly](https://dev.to/zhijunl/from-reversed-linked-list-to-registers-memory-and-assembly-2die)
+- [Perspective camera angles](https://dev.to/david_perry_c4359d006aaa4/perspective-camera-angles-4iij)
 <!-- BLOG-POST-LIST:END -->
 
