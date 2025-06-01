@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Open Source Vector Search Engines: A Comprehensive Comparison Guide for 2025](https://dev.to/zilliz/top-5-open-source-vector-search-engines-a-comprehensive-comparison-guide-for-2025-26p6)
-- [RSUs — What if you turned them into ETFs?](https://dev.to/cupofcode/rsus-what-if-you-turned-them-into-etfs-346e)
-- [Writing Your First Smart Contract in Solidity &lpar;Hello World&rpar;](https://dev.to/karthikaaax/writing-your-first-smart-contract-in-solidity-hello-world-3oph)
-- [JavaScript Operators](https://dev.to/sundar_joseph_94059a3e7a6/javascript-operators-51ag)
+- [Day-5 in JS: Understanding Math.random &amp; Math.floor, Array, Length property..](https://dev.to/chithra_priya/day-5-in-js-understanding-mathrandom-mathfloor-array-length-property-38dd)
+- [API and SDK, What Are These Two Terms Actually?](https://dev.to/ohdylan/api-and-sdk-what-are-these-two-terms-actually-1ad8)
+- [Exploring the Journey of Aniruddha Adak: A Tech Enthusiast and Innovator](https://dev.to/aniruddhaadak_/exploring-the-journey-of-aniruddha-adak-a-tech-enthusiast-and-innovator-by-sciraai-1ip9)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-b9a)
 <!-- BLOG-POST-LIST:END -->
 
