@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Malware vs. Spyware: What’s the Difference and How to Stay Safe](https://dev.to/terminaltools/malware-vs-spyware-whats-the-difference-and-how-to-stay-safe-38dh)
-- [I Learned Today-Understanding Arrays, Variables, Length, and Random Math in JavaScript](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-arrays-variables-length-and-random-math-in-javascript-kp5)
-- [Novedades en Angular 20](https://dev.to/antoniocardenas/novedades-en-angular-20-1o4o)
-- [Ransomware Explained: How It Works and How to Defend Against It](https://dev.to/terminaltools/ransomware-explained-how-it-works-and-how-to-defend-against-it-4cj9)
+- [💥 Got Blocked by a PlayStation Vet for Calling Out the Truth About AI Games](https://dev.to/formantaudio/random-thoughts-4mp8)
+- [POSTGRESQL DB IN PYTHON](https://dev.to/john_analytics/postgresql-db-in-python-1a88)
+- [[Node.js] How to Use Promises in a Callback-based Codebase](https://dev.to/gaurang847/nodejs-how-to-use-promises-in-a-callback-based-codebase-1a07)
+- [😍Amazing Useful Features Recently Added To Best Code To Image Generator App](https://dev.to/myogeshchavan97/amazing-useful-features-recently-added-to-best-code-to-image-generator-app-59lg)
 <!-- BLOG-POST-LIST:END -->
 
