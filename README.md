@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Lightweight Remote Gradio MCP Server with DuckDuckGo Search](https://dev.to/0xkoji/building-a-lightweight-remote-gradio-mcp-server-with-duckduckgo-search-fd6)
 - [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
 - [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
 - [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
-- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
 <!-- BLOG-POST-LIST:END -->
 
