@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL for Dummies &lpar;in 3min&rpar;](https://dev.to/dehemi_fabio/graphql-for-dummies-in-3min-55jk)
-- [Building a Lightweight Remote Gradio MCP Server with DuckDuckGo Search](https://dev.to/0xkoji/building-a-lightweight-remote-gradio-mcp-server-with-duckduckgo-search-fd6)
-- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
-- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [Malware vs. Spyware: What’s the Difference and How to Stay Safe](https://dev.to/terminaltools/malware-vs-spyware-whats-the-difference-and-how-to-stay-safe-38dh)
+- [I Learned Today-Understanding Arrays, Variables, Length, and Random Math in JavaScript](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-arrays-variables-length-and-random-math-in-javascript-kp5)
+- [Novedades en Angular 20](https://dev.to/antoniocardenas/novedades-en-angular-20-1o4o)
+- [Ransomware Explained: How It Works and How to Defend Against It](https://dev.to/terminaltools/ransomware-explained-how-it-works-and-how-to-defend-against-it-4cj9)
 <!-- BLOG-POST-LIST:END -->
 
