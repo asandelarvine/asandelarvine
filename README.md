@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of a Purple Background: Bold, Mysterious, and Majestic](https://dev.to/smartdev72/the-power-of-a-purple-background-bold-mysterious-and-majestic-4g67)
-- [The Endless Appeal of a Pink Background](https://dev.to/smartdev72/the-endless-appeal-of-a-pink-background-1056)
-- [Free ChatGPT Prompt: Turn YouTube Videos Into Study Guides in Minutes](https://dev.to/itshayder/free-chatgpt-prompt-turn-youtube-videos-into-study-guides-in-minutes-2jd4)
-- [Autonomy: How High-Performing Agile Teams Stay Aligned and Accountable](https://dev.to/scrumrise/autonomy-how-high-performing-agile-teams-stay-aligned-and-accountable-3k38)
+- [Welcome to our team](https://dev.to/aspxone-official/welcome-to-our-team-22lm)
+- [Spotify Clone with HTML &amp; CSS](https://dev.to/preetha_vaishnavi_2b82358/spotify-clone-with-html-css-i00)
+- [hello all](https://dev.to/peterakachukwu/hello-all-5blf)
+- [Whatsapp UI clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-1710)
 <!-- BLOG-POST-LIST:END -->
 
