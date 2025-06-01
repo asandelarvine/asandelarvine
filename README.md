@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Work &amp; Study: Strategies for Consistent Learning &lpar;9–5 Job&rpar;](https://dev.to/abhishekshakya/balancing-work-study-strategies-for-consistent-learning-9-5-job-m2a)
-- [Data Oriented vs Object Oriented Programming in Java](https://dev.to/anand_jaisy_2f7644a12001b/data-oriented-vs-object-oriented-programming-in-java-1fgn)
-- [The Quiet Power of a Coral Background](https://dev.to/smartdev72/the-quiet-power-of-a-coral-background-3bbg)
-- [Vortek Internals: Part 1 - Command Buffers](https://dev.to/possiblyquestionable/vortek-internals-part-1-command-buffers-3n7h)
+- [The Power of a Purple Background: Bold, Mysterious, and Majestic](https://dev.to/smartdev72/the-power-of-a-purple-background-bold-mysterious-and-majestic-4g67)
+- [The Endless Appeal of a Pink Background](https://dev.to/smartdev72/the-endless-appeal-of-a-pink-background-1056)
+- [Free ChatGPT Prompt: Turn YouTube Videos Into Study Guides in Minutes](https://dev.to/itshayder/free-chatgpt-prompt-turn-youtube-videos-into-study-guides-in-minutes-2jd4)
+- [Autonomy: How High-Performing Agile Teams Stay Aligned and Accountable](https://dev.to/scrumrise/autonomy-how-high-performing-agile-teams-stay-aligned-and-accountable-3k38)
 <!-- BLOG-POST-LIST:END -->
 
