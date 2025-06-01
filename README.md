@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
-- [Alternative to Mailchimp vs MailerLite Comparison](https://dev.to/charlesmudy/alternative-to-mailchimp-vs-mailerlite-comparison-141i)
-- [Firebase Functions: Real-Time Apps That Scale Like Magic &lpar;Without the Server Headaches&rpar; ✨🚀](https://dev.to/alex_aslam/firebase-functions-real-time-apps-that-scale-like-magic-without-the-server-headaches-cbk)
-- [sync or channel? The Right Choice for Go Synchronization](https://dev.to/leapcell/sync-or-channel-the-right-choice-for-go-synchronization-2m7i)
+- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
+- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
+- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
 <!-- BLOG-POST-LIST:END -->
 
