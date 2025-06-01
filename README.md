@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ultimatehobbycoder/-2oi6)
-- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
-- [From reversed linked-list to registers, memory and assembly](https://dev.to/zhijunl/from-reversed-linked-list-to-registers-memory-and-assembly-2die)
-- [Perspective camera angles](https://dev.to/david_perry_c4359d006aaa4/perspective-camera-angles-4iij)
+- [Top 5 Open Source Vector Search Engines: A Comprehensive Comparison Guide for 2025](https://dev.to/zilliz/top-5-open-source-vector-search-engines-a-comprehensive-comparison-guide-for-2025-26p6)
+- [RSUs — What if you turned them into ETFs?](https://dev.to/cupofcode/rsus-what-if-you-turned-them-into-etfs-346e)
+- [Writing Your First Smart Contract in Solidity &lpar;Hello World&rpar;](https://dev.to/karthikaaax/writing-your-first-smart-contract-in-solidity-hello-world-3oph)
+- [JavaScript Operators](https://dev.to/sundar_joseph_94059a3e7a6/javascript-operators-51ag)
 <!-- BLOG-POST-LIST:END -->
 
