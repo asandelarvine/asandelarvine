@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Got Blocked by a PlayStation Vet for Calling Out the Truth About AI Games](https://dev.to/formantaudio/random-thoughts-4mp8)
-- [POSTGRESQL DB IN PYTHON](https://dev.to/john_analytics/postgresql-db-in-python-1a88)
-- [[Node.js] How to Use Promises in a Callback-based Codebase](https://dev.to/gaurang847/nodejs-how-to-use-promises-in-a-callback-based-codebase-1a07)
-- [😍Amazing Useful Features Recently Added To Best Code To Image Generator App](https://dev.to/myogeshchavan97/amazing-useful-features-recently-added-to-best-code-to-image-generator-app-59lg)
+- [Scheduling Tasks with cron](https://dev.to/godofgeeks/scheduling-tasks-with-cron-3ofj)
+- [How to Stay Motivated as an Angular Developer in a Rapidly Evolving Tech World](https://dev.to/karol_modelski/how-to-stay-motivated-as-an-angular-developer-in-a-rapidly-evolving-tech-world-329a)
+- [what is an oa interview -unequal elements snowflake oa](https://dev.to/net_programhelp_e160eef28/what-is-an-oa-interview-unequal-elements-snowflake-oa-21ap)
+- [Brain-inspired agentic memory](https://dev.to/hannahyan/brain-inspired-agentic-memory-4765)
 <!-- BLOG-POST-LIST:END -->
 
