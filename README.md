@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents in 2025: The Next Evolution of Artificial Intelligence](https://dev.to/aniruddhaadak/ai-agents-in-2025-the-next-evolution-of-artificial-intelligence-2j9p)
-- [Angular v20 is 35% faster, Remix v3 is breaking up with React, and the future of JavaScript](https://dev.to/thisweekinjavascript/angular-v20-is-35-faster-remix-v3-is-breaking-up-with-react-and-the-future-of-javascript-4h8p)
-- [Build with AI Manila 2025: Empowering Developers in the Agentic Era](https://dev.to/kakacomputer-media/build-with-ai-manila-2025-empowering-developers-in-the-agentic-era-24ib)
-- [Laravel Database Query Optimization: Best Practices for Faster Apps](https://dev.to/techsolver94/laravel-database-query-optimization-best-practices-for-faster-apps-gdc)
+- [Whispers of Winter&#39;s Charm](https://dev.to/palak_singla_ae13e55615a4/whispers-of-winters-charm-159h)
+- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-49a2)
+- [Focus on one thing](https://dev.to/danytulumidis/focus-on-one-thing-2o1n)
+- [AI-Powered Hiring: From Inbox Chaos to Structured Data with Postmark &amp; LLM](https://dev.to/chengsokdara/ai-powered-hiring-from-inbox-chaos-to-structured-data-with-postmark-llm-59kf)
 <!-- BLOG-POST-LIST:END -->
 
