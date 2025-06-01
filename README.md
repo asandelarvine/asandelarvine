@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents : A2A, MCP, Scala &amp; Apache Spark](https://dev.to/vishalmysore/building-ai-agents-a2a-mcp-scala-apache-spark-445d)
-- [QuCode - 21DaysChallenge - Day 01](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-01-51hc)
-- [sign-up patterns walk through](https://dev.to/gnrlbzik/sign-up-patterns-walk-through-3j6o)
-- [Why Go Is Born for Cloud-Native](https://dev.to/leapcell/why-go-is-born-for-cloud-native-30b0)
+- [How to use FFmpeg with C++ &lpar;Windows and GNU/Linux&rpar;](https://dev.to/marcosplusplus/how-to-use-ffmpeg-with-c-windows-and-gnulinux-5g1o)
+- [Como utilizar o FFmpeg com C++ &lpar;Windows e GNU/Linux&rpar;](https://dev.to/marcosplusplus/como-utilizar-o-ffmpeg-com-c-windows-e-gnulinux-36en)
+- [Simplify Your API Calls in React with em-use-controller](https://dev.to/ethernmyth/simplify-your-api-calls-in-react-with-em-use-controller-4ib0)
+- [🧪 Managing Machine Learning Experiments with MLflow and Weights &amp; Biases &lpar;W&amp;B&rpar;](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3h5p)
 <!-- BLOG-POST-LIST:END -->
 
