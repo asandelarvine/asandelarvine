@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Meet Hope AI: Ship Real Software at Lightning Speed](https://dev.to/adam/meet-hope-ai-ship-real-software-at-lightning-speed-3ch8)
-- [Making AI Agents Easy](https://dev.to/splintersword/making-ai-agents-easy-17m7)
-- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
-- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
+- [Modern noise](https://dev.to/rowan_m/modern-noise-4hji)
+- [CODE TIPS #2 — Stop “using namespace std;” &lpar;C++&rpar;](https://dev.to/dvt32/code-tips-2-stop-using-namespace-std-c-4d0o)
+- [Google Cloud Auth Issue](https://dev.to/ifeanyichima/google-cloud-auth-issue-2eo1)
+- [How to Upgrade to Angular 20](https://dev.to/with_code_example/how-to-upgrade-to-angular-20-2064)
 <!-- BLOG-POST-LIST:END -->
 
