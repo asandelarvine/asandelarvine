@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scheduling Tasks with cron](https://dev.to/godofgeeks/scheduling-tasks-with-cron-3ofj)
-- [How to Stay Motivated as an Angular Developer in a Rapidly Evolving Tech World](https://dev.to/karol_modelski/how-to-stay-motivated-as-an-angular-developer-in-a-rapidly-evolving-tech-world-329a)
-- [what is an oa interview -unequal elements snowflake oa](https://dev.to/net_programhelp_e160eef28/what-is-an-oa-interview-unequal-elements-snowflake-oa-21ap)
-- [Brain-inspired agentic memory](https://dev.to/hannahyan/brain-inspired-agentic-memory-4765)
+- [Balancing Work &amp; Study: Strategies for Consistent Learning &lpar;9–5 Job&rpar;](https://dev.to/abhishekshakya/balancing-work-study-strategies-for-consistent-learning-9-5-job-m2a)
+- [Data Oriented vs Object Oriented Programming in Java](https://dev.to/anand_jaisy_2f7644a12001b/data-oriented-vs-object-oriented-programming-in-java-1fgn)
+- [The Quiet Power of a Coral Background](https://dev.to/smartdev72/the-quiet-power-of-a-coral-background-3bbg)
+- [Vortek Internals: Part 1 - Command Buffers](https://dev.to/possiblyquestionable/vortek-internals-part-1-command-buffers-3n7h)
 <!-- BLOG-POST-LIST:END -->
 
