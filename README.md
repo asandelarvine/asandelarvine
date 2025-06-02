@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Look: How Engineers Run AI Models on their Laptops](https://dev.to/mike-vincent/inside-look-how-engineers-run-ai-models-on-their-laptops-n1e)
-- [Web Development Week 6](https://dev.to/upinar/web-development-week-6-341l)
-- [What is User and Entity Behavior Analytics? &lpar;UEBA&rpar;](https://dev.to/clouddefenseai/what-is-user-and-entity-behavior-analytics-ueba-1oh2)
-- [[Boost]](https://dev.to/nikuamit/-3m4o)
+- [What is OpenAL? Features, Benefits &amp; How to Use It](https://dev.to/jane_watson_c27fd17f03341/what-is-openal-features-benefits-how-to-use-it-21ci)
+- [Rust-Powered APIs with Axum – A Complete 2025 Guide](https://dev.to/ashishjsharda26/rust-powered-apis-with-axum-a-complete-2025-guide-5574)
+- [a place for lazy yet ambitious ones](https://dev.to/boringskool/a-place-for-lazy-yet-ambitious-ones-469m)
+- [Integrating AI into Web Development: Best Practices and Tools](https://dev.to/khushii_34ceada974a6bfcc2/integrating-ai-into-web-development-best-practices-and-tools-5h7o)
 <!-- BLOG-POST-LIST:END -->
 
