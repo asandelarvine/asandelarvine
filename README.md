@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Merchant of Record: The Complete Guide for SaaS Founders](https://dev.to/shayy/merchant-of-record-the-complete-guide-for-saas-founders-1djk)
-- [Hello, I would like to share my algorithm which, as far as I know, solves an unsolvable problem.](https://dev.to/matthias_gibis_2a2e27210a/hello-i-would-like-to-share-my-algorithm-which-as-far-as-i-know-solves-an-unsolvable-problem-4kh6)
-- [🚀 Deploying Artifacts to Multiple S3 Buckets Using AWS CodePipeline](https://dev.to/latchudevops/deploying-artifacts-to-multiple-s3-buckets-using-aws-codepipeline-20n4)
-- [Modern Swift Storage](https://dev.to/maxnxi/modernswiftstorage-1k89)
+- [Understanding Web Servers by Building One in C](https://dev.to/uthsob_cb/understanding-web-servers-by-building-one-in-c-1l3n)
+- [🛡️ Como resolvi a vulnerabilidade de HTML Injection hoje...](https://dev.to/marcelomagario/blindando-seus-e-mails-contra-invasao-html-na-pratica-4jel)
+- [This made me rethink how we do hiring checks. Definitely going to implement some of these suggestions.](https://dev.to/robert_lanister_916b8b146/this-made-me-rethink-how-we-do-hiring-checks-definitely-going-to-implement-some-of-these-4abf)
+- [# Defining __main__ : Escaping the Imported Life, and Running as Yourself in a Programmed World](https://dev.to/agustinlescanno/-defining-main-escaping-the-imported-life-and-running-as-yourself-in-a-programmed-world-32p)
 <!-- BLOG-POST-LIST:END -->
 
