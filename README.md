@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeafWiki v0.3.0 – Small Update, Big Usability Wins](https://dev.to/perber/leafwiki-v030-small-update-big-usability-wins-54fn)
-- [All Data and AI Weekly #192 - June 2, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-192-june-2-2025-10o)
-- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
-- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
+- [Hello world](https://dev.to/paulpham157/hello-world-2j34)
+- [Make the Developer Experience Good](https://dev.to/dmackinn/make-the-developer-experience-good-5a3b)
+- [📡 From Click to Screen: How the Web Really Works](https://dev.to/nagato_js/from-click-to-screen-how-the-web-really-works-1foi)
+- [Quantum Computing and the Future of Cryptography](https://dev.to/williamoliver/quantum-computing-and-the-future-of-cryptography-26o4)
 <!-- BLOG-POST-LIST:END -->
 
