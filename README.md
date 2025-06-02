@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Servers by Building One in C](https://dev.to/uthsob_cb/understanding-web-servers-by-building-one-in-c-1l3n)
-- [🛡️ Como resolvi a vulnerabilidade de HTML Injection hoje...](https://dev.to/marcelomagario/blindando-seus-e-mails-contra-invasao-html-na-pratica-4jel)
-- [This made me rethink how we do hiring checks. Definitely going to implement some of these suggestions.](https://dev.to/robert_lanister_916b8b146/this-made-me-rethink-how-we-do-hiring-checks-definitely-going-to-implement-some-of-these-4abf)
-- [# Defining __main__ : Escaping the Imported Life, and Running as Yourself in a Programmed World](https://dev.to/agustinlescanno/-defining-main-escaping-the-imported-life-and-running-as-yourself-in-a-programmed-world-32p)
+- [LeafWiki v0.3.0 – Small Update, Big Usability Wins](https://dev.to/perber/leafwiki-v030-small-update-big-usability-wins-54fn)
+- [All Data and AI Weekly #192 - June 2, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-192-june-2-2025-10o)
+- [How to Build Scalable Voice Infrastructure with Programmable Telephony APIs](https://dev.to/klarissa_f/how-to-build-scalable-voice-infrastructure-with-programmable-telephony-apis-7o2)
+- [🧠 The Secret Sauce Behind Web3 Growth? Referral Architectures That Actually Scale](https://dev.to/andylarkin677/the-secret-sauce-behind-web3-growth-referral-architectures-that-actually-scale-1n7o)
 <!-- BLOG-POST-LIST:END -->
 
