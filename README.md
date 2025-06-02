@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt Hackathon Day 4/30: Token Optimization](https://dev.to/thankamatho/bolt-hackathon-day-430-token-optimization-3mf1)
-- [Build Your Own Social Media Scheduler: A Developer&#39;s Guide to API-Driven Automation](https://dev.to/greg_fernandes_4e829e4841/build-your-own-social-media-scheduler-a-developers-guide-to-api-driven-automation-1gel)
-- [Laravel &amp; Angular Home Automation Dashboard Rejected on CodeCanyon](https://dev.to/molly76/laravel-angular-home-automation-dashboard-rejected-on-codecanyon-2i0e)
-- [How to Build a Reusable E2E Playwright Framework with TypeScript – Fast Setup + Real User Flow](https://dev.to/gavgeros/how-to-build-a-reusable-e2e-playwright-framework-with-typescript-fast-setup-real-user-flow-1o4m)
+- [Tired of lodash?](https://dev.to/gnrlbzik/tired-of-lodash-51o8)
+- [Google Analytics 4 Essentials – For When You’re in a Rush &lpar;Like I Was&rpar;](https://dev.to/amoreno/google-analytics-4-essentials-for-when-youre-in-a-rush-like-i-was-1o09)
+- [Cybersecurity for Small Businesses: A Complete Guide](https://dev.to/terminaltools/cybersecurity-for-small-businesses-a-complete-guide-8lo)
+- [Wordpress REST API - URL parameters](https://dev.to/raymundoch/wordpress-rest-api-url-parameters-3nm)
 <!-- BLOG-POST-LIST:END -->
 
