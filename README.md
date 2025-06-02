@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate App Deployment with Cloud Build](https://dev.to/aldifp01/automate-app-deployment-with-cloud-build-2cdb)
-- [10 Common Mongoose Mistakes That Break Your MongoDB App](https://dev.to/arunangshu_das/10-common-mongoose-mistakes-that-break-your-mongodb-app-3780)
-- [What If YAML and Lisp Had a Child?: Bring Functional Power to Your Kubernetes Manifests](https://dev.to/totegamma/what-if-yaml-and-lisp-had-a-child-bring-functional-power-to-your-kubernetes-manifests-266h)
-- [Learn Python 001](https://dev.to/tamilvanan/learn-python-001-3gop)
+- [Using ChatGPT / Copilot for Infra-as-Code &lpar;IaC&rpar;](https://dev.to/routeclouds/using-chatgpt-copilot-for-infra-as-code-iac-5dma)
+- [Why OpenAI VC Didn’t Fund Me — And Why That’s Their Biggest Mistake](https://dev.to/the_epyq/why-openai-vc-didnt-fund-me-and-why-thats-their-biggest-mistake-5cph)
+- [First community.](https://dev.to/soflyforashyguy/first-community-3okl)
+- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
 <!-- BLOG-POST-LIST:END -->
 
