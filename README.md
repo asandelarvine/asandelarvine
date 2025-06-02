@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Why Most Developers Burn Out &lpar;And How I Learned to Avoid It&rpar;](https://dev.to/stasxreal/why-most-developers-burn-out-and-how-i-learned-to-avoid-it-3gfk)
-- [Stuck with no native integration? Here’s your cheat code. I just dropped a quick guide on using HTTP Requests in n8n to connect any app with an API. Real use cases, zero fluff.](https://dev.to/brains_behind_bots/stuck-with-no-native-integration-heres-your-cheat-code-i-just-dropped-a-quick-guide-on-using-3a1j)
-- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
-- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
+- [Bolt Hackathon Day 4/30: Token Optimization](https://dev.to/thankamatho/bolt-hackathon-day-430-token-optimization-3mf1)
+- [Build Your Own Social Media Scheduler: A Developer&#39;s Guide to API-Driven Automation](https://dev.to/greg_fernandes_4e829e4841/build-your-own-social-media-scheduler-a-developers-guide-to-api-driven-automation-1gel)
+- [Laravel &amp; Angular Home Automation Dashboard Rejected on CodeCanyon](https://dev.to/molly76/laravel-angular-home-automation-dashboard-rejected-on-codecanyon-2i0e)
+- [How to Build a Reusable E2E Playwright Framework with TypeScript – Fast Setup + Real User Flow](https://dev.to/gavgeros/how-to-build-a-reusable-e2e-playwright-framework-with-typescript-fast-setup-real-user-flow-1o4m)
 <!-- BLOG-POST-LIST:END -->
 
