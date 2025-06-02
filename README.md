@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using ChatGPT / Copilot for Infra-as-Code &lpar;IaC&rpar;](https://dev.to/routeclouds/using-chatgpt-copilot-for-infra-as-code-iac-5dma)
-- [Why OpenAI VC Didn’t Fund Me — And Why That’s Their Biggest Mistake](https://dev.to/the_epyq/why-openai-vc-didnt-fund-me-and-why-thats-their-biggest-mistake-5cph)
-- [First community.](https://dev.to/soflyforashyguy/first-community-3okl)
-- [Rust builder pattern library - what do you think?](https://dev.to/tomoikey/rust-builder-pattern-library-what-do-you-think-24c8)
+- [DOM and Array in JavaScript](https://dev.to/neelakandan_ravi/dom-and-array-in-javascript-39kn)
+- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
+- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
+- [Tokenizing Real-World Assets Is Just Wall Street Cosplaying Crypto](https://dev.to/favebs/tokenizing-real-world-assets-is-just-wall-street-cosplaying-crypto-2knm)
 <!-- BLOG-POST-LIST:END -->
 
