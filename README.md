@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Basics 2025: Progress Check Up](https://dev.to/theoriginalbpc/back-to-basics-2025-progress-check-up-jik)
-- [Tomorrow will be an exciting day, the first serious launch on ProductHunt. Well, I hope it will be interesting!](https://dev.to/anthonymax/tomorrow-will-be-an-exciting-day-the-first-serious-launch-on-producthunt-well-i-hope-it-will-be-4cl7)
-- [World&#39;s Largest Hackathon: Day 3](https://dev.to/thankamatho/day-3-11fj)
-- [Built an AI-powered Shopify app that lets merchants create upsell rules using natural language](https://dev.to/pr135t/built-an-ai-powered-shopify-app-that-lets-merchants-create-upsell-rules-using-natural-language-16h)
+- [Measuring Developer Productivity Gains with Low Code APIs](https://dev.to/lonti-davidb/measuring-developer-productivity-gains-with-low-code-apis-750)
+- [Blockchain and the Future of Data Collection: Trust in a Decentralized World Featuring William VerMeulen](https://dev.to/vermeulen/blockchain-and-the-future-of-data-collection-trust-in-a-decentralized-world-featuring-william-gij)
+- [Reddit Is Silencing a Legitimate Project and Spreading False Information — Here’s What You Need to Know](https://dev.to/oberst_murxes_93ab3a90a6e/reddit-is-silencing-a-legitimate-project-and-spreading-false-information-heres-what-you-need-to-13bj)
+- [🚀 React 19: A Cleaner, Smarter Developer Experience — Here’s What I Found](https://dev.to/siva_upadhyayula_f2e09ded/react-19-a-cleaner-smarter-developer-experience-heres-what-i-found-4914)
 <!-- BLOG-POST-LIST:END -->
 
