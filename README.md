@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-42f7)
-- [How do you stay sane with the non-stop tech hype &lpar;LLMs, anyone?&rpar;](https://dev.to/olgabraginskaya/how-do-you-stay-sane-with-the-non-stop-tech-hype-llms-anyone-5c86)
-- [Export Retrospectives to Confluence with Kollabe 📝](https://dev.to/mattlewandowski93/export-retrospectives-to-confluence-with-kollabe-g4o)
-- [Introduction](https://dev.to/bananawinter19/introduction-26ln)
+- [6 Threat Actors Targeting Face Authentication in 2FA / MFA](https://dev.to/3divi_inc/6-threat-actors-targeting-face-authentication-in-2fa-mfa-pf2)
+- [How JavaScript JIT Compilation Works](https://dev.to/prasunchakra/how-javascript-jit-compilation-works-286)
+- [Responsive Mail UI](https://dev.to/preetha_vaishnavi_2b82358/responsive-mail-ui-fji)
+- [Perl 🐪 Weekly #723 - Perl Ad Server needs ads](https://dev.to/szabgab/perl-weekly-723-perl-ad-server-needs-ads-2l6e)
 <!-- BLOG-POST-LIST:END -->
 
