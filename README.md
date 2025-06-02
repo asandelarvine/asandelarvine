@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello world](https://dev.to/paulpham157/hello-world-2j34)
-- [Make the Developer Experience Good](https://dev.to/dmackinn/make-the-developer-experience-good-5a3b)
-- [📡 From Click to Screen: How the Web Really Works](https://dev.to/nagato_js/from-click-to-screen-how-the-web-really-works-1foi)
-- [Quantum Computing and the Future of Cryptography](https://dev.to/williamoliver/quantum-computing-and-the-future-of-cryptography-26o4)
+- [🧠Why Most Developers Burn Out &lpar;And How I Learned to Avoid It&rpar;](https://dev.to/stasxreal/why-most-developers-burn-out-and-how-i-learned-to-avoid-it-3gfk)
+- [Stuck with no native integration? Here’s your cheat code. I just dropped a quick guide on using HTTP Requests in n8n to connect any app with an API. Real use cases, zero fluff.](https://dev.to/brains_behind_bots/stuck-with-no-native-integration-heres-your-cheat-code-i-just-dropped-a-quick-guide-on-using-3a1j)
+- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
+- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
 <!-- BLOG-POST-LIST:END -->
 
