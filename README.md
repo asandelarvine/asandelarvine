@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Server Operating Systems: The Backbone of Modern IT Infrastructure](https://dev.to/adityabhuyan/understanding-server-operating-systems-the-backbone-of-modern-it-infrastructure-d8h)
-- [Introduction](https://dev.to/ainx/introduction-3a0c)
-- [How Small Businesses Can Start Using AI Without Coding](https://dev.to/mark000112/how-small-businesses-can-start-using-ai-without-coding-1ng1)
-- [From Prototype to Production - Local Kubernetes: Our AI Resume Matcher&#39;s Journey](https://dev.to/reebow/from-prototype-to-production-local-kubernetes-our-ai-resume-matchers-journey-1hh7)
+- [Getting Started with Docker: A Beginner’s Guide](https://dev.to/judeotine/getting-started-with-docker-a-beginners-guide-17mo)
+- [How to Use Midjourney - Web Dev&#39;s Starter Guide](https://dev.to/skeptrune/how-to-use-midjourney-web-devs-starter-guide-1cl)
+- [Robylon AI](https://dev.to/listings_robylon_d0d750cd/robylon-ai-4oni)
+- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
 <!-- BLOG-POST-LIST:END -->
 
