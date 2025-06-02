@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring 029 - Replace NULL With Collection](https://dev.to/mcsee/refactoring-029-replace-null-with-collection-j3j)
-- [Meet AlgoBender Academy: The Tech Community That’s Changing the Game 🏆](https://dev.to/algobenderdaily263/meet-algobender-academy-the-tech-community-thats-changing-the-game-3ha0)
-- [Welcome to My Day 5, Session 2 Blog — Simple Login Form with HTML, CSS, and JavaScript](https://dev.to/sathish_226_/welcome-to-my-day-5-session-2-blog-simple-login-form-with-html-css-and-javascript-42aa)
-- [Day 5: Session 1:Building a Beginner-Friendly Responsive Navigation Bar with Media Queries and Flexbox](https://dev.to/sathish_226_/day-5-session-1building-a-beginner-friendly-responsive-navigation-bar-with-media-queries-and-29jd)
+- [Merchant of Record: The Complete Guide for SaaS Founders](https://dev.to/shayy/merchant-of-record-the-complete-guide-for-saas-founders-1djk)
+- [Hello, I would like to share my algorithm which, as far as I know, solves an unsolvable problem.](https://dev.to/matthias_gibis_2a2e27210a/hello-i-would-like-to-share-my-algorithm-which-as-far-as-i-know-solves-an-unsolvable-problem-4kh6)
+- [🚀 Deploying Artifacts to Multiple S3 Buckets Using AWS CodePipeline](https://dev.to/latchudevops/deploying-artifacts-to-multiple-s3-buckets-using-aws-codepipeline-20n4)
+- [Modern Swift Storage](https://dev.to/maxnxi/modernswiftstorage-1k89)
 <!-- BLOG-POST-LIST:END -->
 
