@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Docker: A Beginner’s Guide](https://dev.to/judeotine/getting-started-with-docker-a-beginners-guide-17mo)
-- [How to Use Midjourney - Web Dev&#39;s Starter Guide](https://dev.to/skeptrune/how-to-use-midjourney-web-devs-starter-guide-1cl)
-- [Robylon AI](https://dev.to/listings_robylon_d0d750cd/robylon-ai-4oni)
-- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
+- [Mobile Game Testing: A Complete Guide](https://dev.to/zikra_mohammadi/mobile-game-testing-a-complete-guide-2d05)
+- [A verse for the blockchain technology](https://dev.to/icraftcode/a-verse-for-the-blockchain-technology-13bc)
+- [Will Code Become the New Handloom?](https://dev.to/icraftcode/will-code-become-the-new-handloom-1lf8)
+- [Mensageria Transacional no .NET: Integrando o Padrão Outbox do Brighter com SQL Server e RabbitMQ](https://dev.to/actor-dev/mensageria-transacional-no-net-integrando-o-padrao-outbox-do-brighter-com-sql-server-e-rabbitmq-21g0)
 <!-- BLOG-POST-LIST:END -->
 
