@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is OpenAL? Features, Benefits &amp; How to Use It](https://dev.to/jane_watson_c27fd17f03341/what-is-openal-features-benefits-how-to-use-it-21ci)
-- [Rust-Powered APIs with Axum – A Complete 2025 Guide](https://dev.to/ashishjsharda26/rust-powered-apis-with-axum-a-complete-2025-guide-5574)
-- [a place for lazy yet ambitious ones](https://dev.to/boringskool/a-place-for-lazy-yet-ambitious-ones-469m)
-- [Integrating AI into Web Development: Best Practices and Tools](https://dev.to/khushii_34ceada974a6bfcc2/integrating-ai-into-web-development-best-practices-and-tools-5h7o)
+- [🖥️ One of the Coolest Dev Portfolios You’ll See – Styled Like a Terminal! 🚀](https://dev.to/ml318097/one-of-the-coolest-dev-portfolios-youll-see-styled-like-a-terminal-o12)
+- [Website downtime causes: 10 causes and resolution strategies](https://dev.to/gatling/website-downtime-causes-10-causes-and-resolution-strategies-52nf)
+- [I vibe-coded a $20M YC app in a weekend, here&#39;s how🧙‍♂️ 🪄](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
+- [🔧 11 Ways to Improve Your LLMService Class for Scalable AI](https://dev.to/mrzaizai2k/11-ways-to-improve-your-llmservice-class-for-scalable-ai-1g8k)
 <!-- BLOG-POST-LIST:END -->
 
