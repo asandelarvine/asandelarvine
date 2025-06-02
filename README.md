@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Developer Productivity Gains with Low Code APIs](https://dev.to/lonti-davidb/measuring-developer-productivity-gains-with-low-code-apis-750)
-- [Blockchain and the Future of Data Collection: Trust in a Decentralized World Featuring William VerMeulen](https://dev.to/vermeulen/blockchain-and-the-future-of-data-collection-trust-in-a-decentralized-world-featuring-william-gij)
-- [Reddit Is Silencing a Legitimate Project and Spreading False Information — Here’s What You Need to Know](https://dev.to/oberst_murxes_93ab3a90a6e/reddit-is-silencing-a-legitimate-project-and-spreading-false-information-heres-what-you-need-to-13bj)
-- [🚀 React 19: A Cleaner, Smarter Developer Experience — Here’s What I Found](https://dev.to/siva_upadhyayula_f2e09ded/react-19-a-cleaner-smarter-developer-experience-heres-what-i-found-4914)
+- [Automate App Deployment with Cloud Build](https://dev.to/aldifp01/automate-app-deployment-with-cloud-build-2cdb)
+- [10 Common Mongoose Mistakes That Break Your MongoDB App](https://dev.to/arunangshu_das/10-common-mongoose-mistakes-that-break-your-mongodb-app-3780)
+- [What If YAML and Lisp Had a Child?: Bring Functional Power to Your Kubernetes Manifests](https://dev.to/totegamma/what-if-yaml-and-lisp-had-a-child-bring-functional-power-to-your-kubernetes-manifests-266h)
+- [Learn Python 001](https://dev.to/tamilvanan/learn-python-001-3gop)
 <!-- BLOG-POST-LIST:END -->
 
