@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of lodash?](https://dev.to/gnrlbzik/tired-of-lodash-51o8)
-- [Google Analytics 4 Essentials – For When You’re in a Rush &lpar;Like I Was&rpar;](https://dev.to/amoreno/google-analytics-4-essentials-for-when-youre-in-a-rush-like-i-was-1o09)
-- [Cybersecurity for Small Businesses: A Complete Guide](https://dev.to/terminaltools/cybersecurity-for-small-businesses-a-complete-guide-8lo)
-- [Wordpress REST API - URL parameters](https://dev.to/raymundoch/wordpress-rest-api-url-parameters-3nm)
+- [Stay Ahead of AI API Changes with Pulse AI APIs — A Free Weekly Newsletter for Developers](https://dev.to/luigimattino/stay-ahead-of-ai-api-changes-with-pulse-ai-apis-a-free-weekly-newsletter-for-developers-36kn)
+- [&quot;The Ultimate Beginner&#39;s Guide to Learning Programming with HTML &amp; CSS in 2025&quot;](https://dev.to/jayswebdev83/the-ultimate-beginners-guide-to-learning-programming-with-html-css-in-2025-3eep)
+- [Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://dev.to/drupaladmin/understanding-and-inspecting-indexes-in-mysql-a-comprehensive-guide-2mlo)
+- [Quarkus - Java for Kubernetes](https://dev.to/ritabratadas343/quarkus-java-for-kubernetes-113a)
 <!-- BLOG-POST-LIST:END -->
 
