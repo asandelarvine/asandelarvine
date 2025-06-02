@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DOM and Array in JavaScript](https://dev.to/neelakandan_ravi/dom-and-array-in-javascript-39kn)
-- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
-- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
-- [Tokenizing Real-World Assets Is Just Wall Street Cosplaying Crypto](https://dev.to/favebs/tokenizing-real-world-assets-is-just-wall-street-cosplaying-crypto-2knm)
+- [Understanding Server Operating Systems: The Backbone of Modern IT Infrastructure](https://dev.to/adityabhuyan/understanding-server-operating-systems-the-backbone-of-modern-it-infrastructure-d8h)
+- [Introduction](https://dev.to/ainx/introduction-3a0c)
+- [How Small Businesses Can Start Using AI Without Coding](https://dev.to/mark000112/how-small-businesses-can-start-using-ai-without-coding-1ng1)
+- [From Prototype to Production - Local Kubernetes: Our AI Resume Matcher&#39;s Journey](https://dev.to/reebow/from-prototype-to-production-local-kubernetes-our-ai-resume-matchers-journey-1hh7)
 <!-- BLOG-POST-LIST:END -->
 
