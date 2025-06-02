@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ One of the Coolest Dev Portfolios You’ll See – Styled Like a Terminal! 🚀](https://dev.to/ml318097/one-of-the-coolest-dev-portfolios-youll-see-styled-like-a-terminal-o12)
-- [Website downtime causes: 10 causes and resolution strategies](https://dev.to/gatling/website-downtime-causes-10-causes-and-resolution-strategies-52nf)
-- [I vibe-coded a $20M YC app in a weekend, here&#39;s how🧙‍♂️ 🪄](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
-- [🔧 11 Ways to Improve Your LLMService Class for Scalable AI](https://dev.to/mrzaizai2k/11-ways-to-improve-your-llmservice-class-for-scalable-ai-1g8k)
+- [Refactoring 029 - Replace NULL With Collection](https://dev.to/mcsee/refactoring-029-replace-null-with-collection-j3j)
+- [Meet AlgoBender Academy: The Tech Community That’s Changing the Game 🏆](https://dev.to/algobenderdaily263/meet-algobender-academy-the-tech-community-thats-changing-the-game-3ha0)
+- [Welcome to My Day 5, Session 2 Blog — Simple Login Form with HTML, CSS, and JavaScript](https://dev.to/sathish_226_/welcome-to-my-day-5-session-2-blog-simple-login-form-with-html-css-and-javascript-42aa)
+- [Day 5: Session 1:Building a Beginner-Friendly Responsive Navigation Bar with Media Queries and Flexbox](https://dev.to/sathish_226_/day-5-session-1building-a-beginner-friendly-responsive-navigation-bar-with-media-queries-and-29jd)
 <!-- BLOG-POST-LIST:END -->
 
