@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Ahead of AI API Changes with Pulse AI APIs — A Free Weekly Newsletter for Developers](https://dev.to/luigimattino/stay-ahead-of-ai-api-changes-with-pulse-ai-apis-a-free-weekly-newsletter-for-developers-36kn)
-- [&quot;The Ultimate Beginner&#39;s Guide to Learning Programming with HTML &amp; CSS in 2025&quot;](https://dev.to/jayswebdev83/the-ultimate-beginners-guide-to-learning-programming-with-html-css-in-2025-3eep)
-- [Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://dev.to/drupaladmin/understanding-and-inspecting-indexes-in-mysql-a-comprehensive-guide-2mlo)
-- [Quarkus - Java for Kubernetes](https://dev.to/ritabratadas343/quarkus-java-for-kubernetes-113a)
+- [Requesting Feedbacks](https://dev.to/abdulrahman_nasser_95c51/requesting-feedbacks-3d38)
+- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
+- [Who&#39;s Building AI Autopilot?](https://dev.to/moxon/whos-building-ai-autopilot-5bpl)
+- [Using ColdFusion and Xpdf to extract PDF metadata](https://dev.to/gamesover/using-coldfusion-and-xpdf-to-extract-pdf-metadata-4pe3)
 <!-- BLOG-POST-LIST:END -->
 
