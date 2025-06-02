@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Game Testing: A Complete Guide](https://dev.to/zikra_mohammadi/mobile-game-testing-a-complete-guide-2d05)
-- [A verse for the blockchain technology](https://dev.to/icraftcode/a-verse-for-the-blockchain-technology-13bc)
-- [Will Code Become the New Handloom?](https://dev.to/icraftcode/will-code-become-the-new-handloom-1lf8)
-- [Mensageria Transacional no .NET: Integrando o Padrão Outbox do Brighter com SQL Server e RabbitMQ](https://dev.to/actor-dev/mensageria-transacional-no-net-integrando-o-padrao-outbox-do-brighter-com-sql-server-e-rabbitmq-21g0)
+- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-42f7)
+- [How do you stay sane with the non-stop tech hype &lpar;LLMs, anyone?&rpar;](https://dev.to/olgabraginskaya/how-do-you-stay-sane-with-the-non-stop-tech-hype-llms-anyone-5c86)
+- [Export Retrospectives to Confluence with Kollabe 📝](https://dev.to/mattlewandowski93/export-retrospectives-to-confluence-with-kollabe-g4o)
+- [Introduction](https://dev.to/bananawinter19/introduction-26ln)
 <!-- BLOG-POST-LIST:END -->
 
