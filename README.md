@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Top 6 PDF Viewers for React.js Developers in 2025](https://dev.to/ansonch/top-6-pdf-viewers-for-reactjs-developers-in-2025-37kh)
+- [🚀 Full-Stack PHP, MERN, and DApp Development – Let’s Build Something Awesome](https://dev.to/surendergupta/full-stack-php-mern-and-dapp-dev-services-by-surender-gupta-44c8)
 - [How to Send Emails and Save Them in the Sent Folder with DotApp PHP Framework](https://dev.to/dotapp/how-to-send-emails-and-save-them-in-the-sent-folder-with-dotapp-php-framework-3jp4)
 - [Detecting When a Sticky Element Becomes Sticky](https://dev.to/jakeisonline/detecting-when-a-sticky-element-becomes-sticky-38eg)
-- [Amazing Tool](https://dev.to/kelvincode1234/amazing-tool-cfc)
-- [node](https://dev.to/_5986a031a161588ac431b/node-3nf)
 <!-- BLOG-POST-LIST:END -->
 
