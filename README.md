@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SkillSync AI - Match Your Resume to Any JD in Your Browser](https://dev.to/ayushichoudhary19/skillsync-ai-match-your-resume-to-any-jd-in-your-browser-474k)
-- [How We Marketed a Niche SaaS Product with Zero Budget: 9 Strategies That Actually Worked](https://dev.to/tridenda/how-we-marketed-a-niche-saas-product-with-zero-budget-9-strategies-that-actually-worked-48gj)
-- [Ansible Hands-On Labs: Streamline IT with Groups Inventory, Copy, Cron, and Fetch Modules](https://dev.to/labex/ansible-hands-on-labs-streamline-it-with-groups-inventory-copy-cron-and-fetch-modules-2i9d)
-- [What is Multimodal AI](https://dev.to/aniruddhaadak/what-is-multimodal-ai-2l3a)
+- [Why I Built an Adobe Commerce Dev MCP Server and How It Can Help You Code Faster](https://dev.to/rafaelcg/why-i-built-an-adobe-commerce-dev-mcp-server-and-how-it-can-help-you-code-faster-5ac9)
+- [The Critical Role of Automated Dependency Scanning in the Modern Software Development Lifecycle](https://dev.to/leading-edje/the-critical-role-of-automated-dependency-scanning-in-the-modern-software-development-lifecycle-1hn9)
+- [How Asmorix Became a Top-Rated Software Training Institute in Chennai](https://dev.to/mackiejohn/how-asmorix-became-a-top-rated-software-training-institute-in-chennai-5534)
+- [A Comprehensive Guide for CTOs: Adobe Commerce SaaS vs Shopify](https://dev.to/rafaelcg/a-comprehensive-guide-for-ctos-adobe-commerce-saas-vs-shopify-2ic6)
 <!-- BLOG-POST-LIST:END -->
 
