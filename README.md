@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exciting Community News: We&#39;re Partnering with Google AI!](https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4)
-- [Is JavaScript Dead? How WebAssembly Is Rewriting the Future of Web Development](https://dev.to/axrisi/is-javascript-dead-how-webassembly-is-rewriting-the-future-of-web-development-2c4n)
-- [Drupal Form state with select multiple](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-form-state-with-select-multiple-1pdj)
-- [Understanding AWS RAM: Benefits and Use Cases](https://dev.to/aws-builders/understanding-aws-ram-benefits-and-use-cases-54n)
+- [SkillSync AI - Match Your Resume to Any JD in Your Browser](https://dev.to/ayushichoudhary19/skillsync-ai-match-your-resume-to-any-jd-in-your-browser-474k)
+- [How We Marketed a Niche SaaS Product with Zero Budget: 9 Strategies That Actually Worked](https://dev.to/tridenda/how-we-marketed-a-niche-saas-product-with-zero-budget-9-strategies-that-actually-worked-48gj)
+- [Ansible Hands-On Labs: Streamline IT with Groups Inventory, Copy, Cron, and Fetch Modules](https://dev.to/labex/ansible-hands-on-labs-streamline-it-with-groups-inventory-copy-cron-and-fetch-modules-2i9d)
+- [What is Multimodal AI](https://dev.to/aniruddhaadak/what-is-multimodal-ai-2l3a)
 <!-- BLOG-POST-LIST:END -->
 
