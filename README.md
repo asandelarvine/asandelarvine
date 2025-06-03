@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt Hackathon: Day One](https://dev.to/peiche/bolt-hackathon-day-one-dme)
-- [Awesome Next.js API Routes with next-api-decorators](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0)
-- [Mastering Conventional Commits: Structure, Benefits, and Tools](https://dev.to/tene/mastering-conventional-commits-structure-benefits-and-tools-3cpo)
-- [AI-Assisted Testing: A Survival Guide to Implementing MCP with Atlassian Tools](https://dev.to/paul_coles_633f698b10fd6e/ai-assisted-testing-a-survival-guide-to-implementing-mcp-with-atlassian-tools-2gnm)
+- [Hello World.](https://dev.to/mrposible/hello-world-1nik)
+- [Is Biotech Entering a New Era of Drug Discovery?](https://dev.to/maurizio_morri_f7f4bd128c/is-biotech-entering-a-new-era-of-drug-discovery-58n2)
+- [Rust 101 🦀 &lpar;Ep 02&rpar;](https://dev.to/kehn_marv/rust-101-ep-02-3be6)
+- [Self-hosted GitHub Actions runners aren&#39;t free](https://dev.to/depot/self-hosted-github-actions-runners-arent-free-2fib)
 <!-- BLOG-POST-LIST:END -->
 
