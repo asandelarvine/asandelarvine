@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Full PaaS Architecture in Azure with Just a Bash Script](https://dev.to/cristiansifuentes/deploying-a-full-paas-architecture-in-azure-with-just-a-bash-script-3j1j)
-- [Will AI Replace Developers? Here’s What’s Actually Changing...](https://dev.to/dontgetreplaced/will-ai-replace-developers-heres-whats-actually-changing-ppf)
-- [When Your Job Doesn’t Match Your Goals…](https://dev.to/bellatrix/when-your-job-doesnt-match-your-goals-5eda)
-- [Shorten URL Reflections](https://dev.to/jason_oh_242b4e371630fdac/url-shortening-service-reflections-44fj)
+- [Bolt Hackathon Day 5/30: Spitballing](https://dev.to/thankamatho/bolt-hackathon-day-530-spitballing-2728)
+- [🧠 How AI Is Revolutionizing Medical Education — A Developer’s Perspective](https://dev.to/alireza_minagar_99f01ecb6/how-ai-is-revolutionizing-medical-education-a-developers-perspective-3om7)
+- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
+- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
 <!-- BLOG-POST-LIST:END -->
 
