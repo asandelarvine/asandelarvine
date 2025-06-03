@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rajesh_patel/-2oge)
-- [[Boost]](https://dev.to/nikhil_sachapara/-534a)
-- [Laravel SwaggenerAI: Generate Swagger Documentation with AI in Seconds](https://dev.to/elpupas/laravel-swaggenerai-generate-swagger-documentation-with-ai-in-seconds-2feg)
-- [[Boost]](https://dev.to/naik_sejal/-2084)
+- [HarmonyOS Next Strings and Collections Advanced: From Processing to Performance Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-strings-and-collections-advanced-from-processing-to-performance-optimization-431i)
+- [CR2450: The Philosopher’s Battery](https://dev.to/ersajay/cr2450-the-philosophers-battery-2ihm)
+- [Effective Strategies for AWS Cost Optimization](https://dev.to/prabhakarmishra/effective-strategies-for-aws-cost-optimization-2ol7)
+- [🏋️ Lifted some states up!! - Day 1 Log](https://dev.to/abhayrsr/lifted-some-states-up-day-1-log-4djg)
 <!-- BLOG-POST-LIST:END -->
 
