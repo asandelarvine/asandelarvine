@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
-- [[Boost]](https://dev.to/pouyanjazini/-3133)
-- [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
-- [Security Incident Response](https://dev.to/godofgeeks/security-incident-response-539n)
+- [node](https://dev.to/_5986a031a161588ac431b/node-3nf)
+- [Yeah you can use PHP to code AI!](https://dev.to/razielrodrigues/yeah-you-can-use-php-to-code-ai-4lbe)
+- [Yeah you can use PHP to code AI 🤯](https://dev.to/razielrodrigues/yeah-you-can-use-php-to-code-ai-4f76)
+- [Trying ROS2: pub/sub within a single container](https://dev.to/pikotutorial/trying-ros2-pubsub-within-a-single-container-1phj)
 <!-- BLOG-POST-LIST:END -->
 
