@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
-- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
-- [Type Aliases and Newtypes: Wrapping for Safety](https://dev.to/sgchris/type-aliases-and-newtypes-wrapping-for-safety-c1l)
-- [Service Like SaaS: Turning Projects into Predictable Income](https://dev.to/codanyks/service-like-saas-turning-projects-into-predictable-income-11bn)
+- [Build Your Own Food Tracker with OpenAI Platform](https://dev.to/frosnerd/build-your-own-food-tracker-with-openai-platform-55n8)
+- [Help me know why Python is the best programming language.](https://dev.to/boluwatifeilerioluwa/help-me-know-why-python-is-the-best-programming-language-gpb)
+- [What is Your Approach to Solving Problems With Code?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-a4g)
+- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
 <!-- BLOG-POST-LIST:END -->
 
