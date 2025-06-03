@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Emails and Save Them in the Sent Folder with DotApp PHP Framework](https://dev.to/dotapp/how-to-send-emails-and-save-them-in-the-sent-folder-with-dotapp-php-framework-3jp4)
+- [Detecting When a Sticky Element Becomes Sticky](https://dev.to/jakeisonline/detecting-when-a-sticky-element-becomes-sticky-38eg)
+- [Amazing Tool](https://dev.to/kelvincode1234/amazing-tool-cfc)
 - [node](https://dev.to/_5986a031a161588ac431b/node-3nf)
-- [Yeah you can use PHP to code AI!](https://dev.to/razielrodrigues/yeah-you-can-use-php-to-code-ai-4lbe)
-- [Yeah you can use PHP to code AI 🤯](https://dev.to/razielrodrigues/yeah-you-can-use-php-to-code-ai-4f76)
-- [Trying ROS2: pub/sub within a single container](https://dev.to/pikotutorial/trying-ros2-pubsub-within-a-single-container-1phj)
 <!-- BLOG-POST-LIST:END -->
 
