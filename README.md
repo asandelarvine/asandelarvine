@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools I&#39;m Using in 2025 &lpar;not that anyone asked&rpar;](https://dev.to/wynandpieters/tools-im-using-in-2025-not-that-anyone-asked-42l9)
-- [.NET 10 + AI = Magic: How I Built an Intelligent Web App in a Weekend](https://dev.to/nikhilwagh/net-10-ai-magic-how-i-built-an-intelligent-web-app-in-a-weekend-3kf0)
-- [Pre-Caching Deep Dive: Boosting Performance Proactively](https://dev.to/devscriptor/pre-caching-deep-dive-boosting-performance-proactively-49ml)
-- [[Boost]](https://dev.to/charpie_searchcraft/-44mg)
+- [Deploying a Full PaaS Architecture in Azure with Just a Bash Script](https://dev.to/cristiansifuentes/deploying-a-full-paas-architecture-in-azure-with-just-a-bash-script-3j1j)
+- [Will AI Replace Developers? Here’s What’s Actually Changing...](https://dev.to/dontgetreplaced/will-ai-replace-developers-heres-whats-actually-changing-ppf)
+- [When Your Job Doesn’t Match Your Goals…](https://dev.to/bellatrix/when-your-job-doesnt-match-your-goals-5eda)
+- [Shorten URL Reflections](https://dev.to/jason_oh_242b4e371630fdac/url-shortening-service-reflections-44fj)
 <!-- BLOG-POST-LIST:END -->
 
