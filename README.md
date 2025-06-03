@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Food Tracker with OpenAI Platform](https://dev.to/frosnerd/build-your-own-food-tracker-with-openai-platform-55n8)
-- [Help me know why Python is the best programming language.](https://dev.to/boluwatifeilerioluwa/help-me-know-why-python-is-the-best-programming-language-gpb)
-- [What is Your Approach to Solving Problems With Code?](https://dev.to/anitaolsen/what-is-your-approach-to-solving-problems-with-code-a4g)
-- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
+- [Day 6: Building a Rock Paper Scissors Game with HTML, CSS, and JavaScript](https://dev.to/seenuvasan_p/day-6-building-a-rock-paper-scissors-game-with-html-css-and-javascript-39b2)
+- [# I&#39;m Building a Professional Restaurant Menu System for My Portfolio](https://dev.to/josefilipe_dev/-im-building-a-professional-restaurant-menu-system-for-my-portfolio-1g27)
+- [No guidance on network environment configuration](https://dev.to/liu_yang_fc0e605820ac220c/no-guidance-on-network-environment-configuration-55ng)
+- [Configure the agent](https://dev.to/liu_yang_fc0e605820ac220c/configure-the-agent-2g46)
 <!-- BLOG-POST-LIST:END -->
 
