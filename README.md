@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next Strings and Collections Advanced: From Processing to Performance Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-strings-and-collections-advanced-from-processing-to-performance-optimization-431i)
-- [CR2450: The Philosopher’s Battery](https://dev.to/ersajay/cr2450-the-philosophers-battery-2ihm)
-- [Effective Strategies for AWS Cost Optimization](https://dev.to/prabhakarmishra/effective-strategies-for-aws-cost-optimization-2ol7)
-- [🏋️ Lifted some states up!! - Day 1 Log](https://dev.to/abhayrsr/lifted-some-states-up-day-1-log-4djg)
+- [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
+- [[Boost]](https://dev.to/pouyanjazini/-3133)
+- [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
+- [Security Incident Response](https://dev.to/godofgeeks/security-incident-response-539n)
 <!-- BLOG-POST-LIST:END -->
 
