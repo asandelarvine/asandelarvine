@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World.](https://dev.to/mrposible/hello-world-1nik)
-- [Is Biotech Entering a New Era of Drug Discovery?](https://dev.to/maurizio_morri_f7f4bd128c/is-biotech-entering-a-new-era-of-drug-discovery-58n2)
-- [Rust 101 🦀 &lpar;Ep 02&rpar;](https://dev.to/kehn_marv/rust-101-ep-02-3be6)
-- [Self-hosted GitHub Actions runners aren&#39;t free](https://dev.to/depot/self-hosted-github-actions-runners-arent-free-2fib)
+- [Tools I&#39;m Using in 2025 &lpar;not that anyone asked&rpar;](https://dev.to/wynandpieters/tools-im-using-in-2025-not-that-anyone-asked-42l9)
+- [.NET 10 + AI = Magic: How I Built an Intelligent Web App in a Weekend](https://dev.to/nikhilwagh/net-10-ai-magic-how-i-built-an-intelligent-web-app-in-a-weekend-3kf0)
+- [Pre-Caching Deep Dive: Boosting Performance Proactively](https://dev.to/devscriptor/pre-caching-deep-dive-boosting-performance-proactively-49ml)
+- [[Boost]](https://dev.to/charpie_searchcraft/-44mg)
 <!-- BLOG-POST-LIST:END -->
 
