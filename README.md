@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Adobe Commerce Dev MCP Server and How It Can Help You Code Faster](https://dev.to/rafaelcg/why-i-built-an-adobe-commerce-dev-mcp-server-and-how-it-can-help-you-code-faster-5ac9)
-- [The Critical Role of Automated Dependency Scanning in the Modern Software Development Lifecycle](https://dev.to/leading-edje/the-critical-role-of-automated-dependency-scanning-in-the-modern-software-development-lifecycle-1hn9)
-- [How Asmorix Became a Top-Rated Software Training Institute in Chennai](https://dev.to/mackiejohn/how-asmorix-became-a-top-rated-software-training-institute-in-chennai-5534)
-- [A Comprehensive Guide for CTOs: Adobe Commerce SaaS vs Shopify](https://dev.to/rafaelcg/a-comprehensive-guide-for-ctos-adobe-commerce-saas-vs-shopify-2ic6)
+- [Bolt Hackathon: Day One](https://dev.to/peiche/bolt-hackathon-day-one-dme)
+- [Awesome Next.js API Routes with next-api-decorators](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0)
+- [Mastering Conventional Commits: Structure, Benefits, and Tools](https://dev.to/tene/mastering-conventional-commits-structure-benefits-and-tools-3cpo)
+- [AI-Assisted Testing: A Survival Guide to Implementing MCP with Atlassian Tools](https://dev.to/paul_coles_633f698b10fd6e/ai-assisted-testing-a-survival-guide-to-implementing-mcp-with-atlassian-tools-2gnm)
 <!-- BLOG-POST-LIST:END -->
 
