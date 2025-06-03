@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kilua Project Wizard for IntelliJ IDEA](https://dev.to/rjaros/kilua-project-wizard-for-intellij-idea-f42)
-- [Introducing LogManticsAI: LLM-Powered CLI for Semantic JSON Log Analysis](https://dev.to/chattermate/introducing-logmanticsai-llm-powered-cli-for-semantic-json-log-analysis-1969)
-- [How to Implement Argon2 for Secure Password Hashing in Go](https://dev.to/nesniv/how-to-implement-argon2-for-secure-password-hashing-in-go-54ec)
-- [📱 Top 25 Mobile App Development Companies in 2025](https://dev.to/johnestravis/top-25-mobile-app-development-companies-in-2025-44cm)
+- [[Boost]](https://dev.to/rajesh_patel/-2oge)
+- [[Boost]](https://dev.to/nikhil_sachapara/-534a)
+- [Laravel SwaggenerAI: Generate Swagger Documentation with AI in Seconds](https://dev.to/elpupas/laravel-swaggenerai-generate-swagger-documentation-with-ai-in-seconds-2feg)
+- [[Boost]](https://dev.to/naik_sejal/-2084)
 <!-- BLOG-POST-LIST:END -->
 
