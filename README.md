@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Top 6 PDF Viewers for React.js Developers in 2025](https://dev.to/ansonch/top-6-pdf-viewers-for-reactjs-developers-in-2025-37kh)
-- [🚀 Full-Stack PHP, MERN, and DApp Development – Let’s Build Something Awesome](https://dev.to/surendergupta/full-stack-php-mern-and-dapp-dev-services-by-surender-gupta-44c8)
-- [How to Send Emails and Save Them in the Sent Folder with DotApp PHP Framework](https://dev.to/dotapp/how-to-send-emails-and-save-them-in-the-sent-folder-with-dotapp-php-framework-3jp4)
-- [Detecting When a Sticky Element Becomes Sticky](https://dev.to/jakeisonline/detecting-when-a-sticky-element-becomes-sticky-38eg)
+- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
+- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
+- [Type Aliases and Newtypes: Wrapping for Safety](https://dev.to/sgchris/type-aliases-and-newtypes-wrapping-for-safety-c1l)
+- [Service Like SaaS: Turning Projects into Predictable Income](https://dev.to/codanyks/service-like-saas-turning-projects-into-predictable-income-11bn)
 <!-- BLOG-POST-LIST:END -->
 
