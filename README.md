@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run IBM DataPower in Docker in 5 Minutes! 🚀 &lpar;No IBM Cloud Needed!&rpar;](https://dev.to/francotel/run-ibm-datapower-in-docker-in-5-minutes-no-ibm-cloud-needed-3lo7)
-- [🚀 Frontend Development Just Got Stupidly Simple: How MCP is Revolutionizing Code Writing](https://dev.to/kenxuho/frontend-development-just-got-stupidly-simple-how-mcp-is-revolutionizing-code-writing-2fea)
-- [Choosing Between JWKS and Token Introspection for OAuth 2.0 Token Validation](https://dev.to/mechcloud_academy/choosing-between-jwks-and-token-introspection-for-oauth-20-token-validation-1h9d)
-- [Neural Networks: Benefits in Software Testing](https://dev.to/anil_csimplifyit_905c/neural-networks-benefits-in-software-testing-4gfj)
+- [The Quiet Revolution of Empowered Workers](https://dev.to/charpie_searchcraft/the-quiet-revolution-of-empowered-workers-49pp)
+- [Next.js 15 + React 19: Worth It?](https://dev.to/liu-purnomo/nextjs-15-react-19-worth-it-5fbj)
+- [🔒AI Ethics and Governance: A Comprehensive Guide](https://dev.to/furqanahmadrao/ai-ethics-and-governance-a-comprehensive-guide-4fce)
+- [The Philosophy of JavaScript: Messy, Mighty, and Made for the Web](https://dev.to/umarsiddique010/the-philosophy-of-javascript-messy-mighty-and-made-for-the-web-3ook)
 <!-- BLOG-POST-LIST:END -->
 
