@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Building a Rock Paper Scissors Game with HTML, CSS, and JavaScript](https://dev.to/seenuvasan_p/day-6-building-a-rock-paper-scissors-game-with-html-css-and-javascript-39b2)
-- [# I&#39;m Building a Professional Restaurant Menu System for My Portfolio](https://dev.to/josefilipe_dev/-im-building-a-professional-restaurant-menu-system-for-my-portfolio-1g27)
-- [No guidance on network environment configuration](https://dev.to/liu_yang_fc0e605820ac220c/no-guidance-on-network-environment-configuration-55ng)
-- [Configure the agent](https://dev.to/liu_yang_fc0e605820ac220c/configure-the-agent-2g46)
+- [Exciting Community News: We&#39;re Partnering with Google AI!](https://dev.to/devteam/exciting-community-news-were-partnering-with-google-ai-55c4)
+- [Is JavaScript Dead? How WebAssembly Is Rewriting the Future of Web Development](https://dev.to/axrisi/is-javascript-dead-how-webassembly-is-rewriting-the-future-of-web-development-2c4n)
+- [Drupal Form state with select multiple](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-form-state-with-select-multiple-1pdj)
+- [Understanding AWS RAM: Benefits and Use Cases](https://dev.to/aws-builders/understanding-aws-ram-benefits-and-use-cases-54n)
 <!-- BLOG-POST-LIST:END -->
 
