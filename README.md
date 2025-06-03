@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Requesting Feedbacks](https://dev.to/abdulrahman_nasser_95c51/requesting-feedbacks-3d38)
-- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
-- [Who&#39;s Building AI Autopilot?](https://dev.to/moxon/whos-building-ai-autopilot-5bpl)
-- [Using ColdFusion and Xpdf to extract PDF metadata](https://dev.to/gamesover/using-coldfusion-and-xpdf-to-extract-pdf-metadata-4pe3)
+- [Subscribe Notify pattern](https://dev.to/veritassoftware/subscribe-notify-pattern-2na9)
+- [[Boost]](https://dev.to/cherryramatis/-5017)
+- [Complete Guide to Functional Testing and Real Device Debugging](https://dev.to/xhunmon/complete-guide-to-functional-testing-and-real-device-debugging-1lc9)
+- [Multi-Device Adaptation and Responsive Design Best Practices](https://dev.to/xhunmon/multi-device-adaptation-and-responsive-design-best-practices-39bd)
 <!-- BLOG-POST-LIST:END -->
 
