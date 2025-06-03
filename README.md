@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Subscribe Notify pattern](https://dev.to/veritassoftware/subscribe-notify-pattern-2na9)
-- [[Boost]](https://dev.to/cherryramatis/-5017)
-- [Complete Guide to Functional Testing and Real Device Debugging](https://dev.to/xhunmon/complete-guide-to-functional-testing-and-real-device-debugging-1lc9)
-- [Multi-Device Adaptation and Responsive Design Best Practices](https://dev.to/xhunmon/multi-device-adaptation-and-responsive-design-best-practices-39bd)
+- [Run IBM DataPower in Docker in 5 Minutes! 🚀 &lpar;No IBM Cloud Needed!&rpar;](https://dev.to/francotel/run-ibm-datapower-in-docker-in-5-minutes-no-ibm-cloud-needed-3lo7)
+- [🚀 Frontend Development Just Got Stupidly Simple: How MCP is Revolutionizing Code Writing](https://dev.to/kenxuho/frontend-development-just-got-stupidly-simple-how-mcp-is-revolutionizing-code-writing-2fea)
+- [Choosing Between JWKS and Token Introspection for OAuth 2.0 Token Validation](https://dev.to/mechcloud_academy/choosing-between-jwks-and-token-introspection-for-oauth-20-token-validation-1h9d)
+- [Neural Networks: Benefits in Software Testing](https://dev.to/anil_csimplifyit_905c/neural-networks-benefits-in-software-testing-4gfj)
 <!-- BLOG-POST-LIST:END -->
 
