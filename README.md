@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma’s AI Features Are Getting Scary Good — Here’s What Designers Should Know](https://dev.to/dct_technology/figmas-ai-features-are-getting-scary-good-heres-what-designers-should-know-53hh)
-- [How to Train Employees on Cybersecurity Awareness](https://dev.to/terminaltools/how-to-train-employees-on-cybersecurity-awareness-189a)
-- [[Boost]](https://dev.to/badmonster0/-1f0a)
-- [Build Real-Time Knowledge Graphs from Documents Using CocoIndex + Kuzu &lpar;with LLMs &amp; Live Updates&rpar;](https://dev.to/cocoindex/build-real-time-knowledge-graphs-from-documents-using-cocoindex-kuzu-with-llms-live-updates-n1b)
+- [Most Popular .NET Domain-Driven Design &lpar;DDD&rpar; Resources: Top 5 GitHub Repositories, Frameworks &amp; Templates in 2025](https://dev.to/engincanv/most-popular-net-domain-driven-design-ddd-resources-top-5-github-repositories-frameworks--n9o)
+- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-5fnl)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/turu_guru/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-f96)
+- [readme2](https://dev.to/armaankhan8270/readme2-39dh)
 <!-- BLOG-POST-LIST:END -->
 
