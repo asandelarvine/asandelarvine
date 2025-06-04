@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt Hackathon Day 5/30: Spitballing](https://dev.to/thankamatho/bolt-hackathon-day-530-spitballing-2728)
-- [🧠 How AI Is Revolutionizing Medical Education — A Developer’s Perspective](https://dev.to/alireza_minagar_99f01ecb6/how-ai-is-revolutionizing-medical-education-a-developers-perspective-3om7)
-- [How to Talk to AI &lpar;and Get Better Results&rpar;](https://dev.to/_senhorbento/how-to-talk-to-ai-and-get-better-results-oia)
-- [The Bold Sweetness of a Raspberry Background](https://dev.to/smartdev72/the-bold-sweetness-of-a-raspberry-background-3ggp)
+- [Which ChatGPT Model Is Best? &lpar;As of May 2025&rpar;](https://dev.to/_37bbf0c253c0b3edec531e/which-chatgpt-model-is-best-as-of-may-2025-53dd)
+- [Functional tabs with only CSS &lpar;No JavaScript&rpar;](https://dev.to/0shuvo0/functional-tabs-with-only-css-no-javascript-29ok)
+- [A Developer’s Guide to sync.Once: Your Go Concurrency Lifesaver](https://dev.to/jones_charles_ad50858dbc0/a-developers-guide-to-synconce-your-go-concurrency-lifesaver-3kf2)
+- [The Developer Habits That Outlive You: Quiet Integrity in Code](https://dev.to/tonystpierre/the-developer-habits-that-outlive-you-quiet-integrity-in-code-2k0l)
 <!-- BLOG-POST-LIST:END -->
 
