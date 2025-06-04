@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
-- [The Latency Gap: Why Developers Should Care About the Fastest 5 Milliseconds](https://dev.to/alexnav/the-latency-gap-why-developers-should-care-about-the-fastest-5-milliseconds-nbo)
-- [JSONB DeTOASTing &lpar;read amplification&rpar;](https://dev.to/mongodb/jsonb-detoasting-read-amplification-4ikj)
-- [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
+- [Building an AI-Powered Git Commit Message Generator with Google Gemini](https://dev.to/muhammad_ghufran_3b9219d2/building-an-ai-powered-git-commit-message-generator-with-google-gemini-251d)
+- [Trusted Companions: Plugins Designers Swear By in 2025](https://dev.to/atforeveryoung/trusted-companions-plugins-designers-swear-by-in-2025-39i0)
+- [🐧 What’s in a Linux Desktop? A Beginner’s Guide to Ubuntu Applications](https://dev.to/1suleyman/whats-in-a-linux-desktop-a-beginners-guide-to-ubuntu-applications-2583)
+- [What Exactly Is Cloud Engineering?](https://dev.to/onlyfave/what-exactly-is-cloud-engineering-35h4)
 <!-- BLOG-POST-LIST:END -->
 
