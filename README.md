@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Popular .NET Domain-Driven Design &lpar;DDD&rpar; Resources: Top 5 GitHub Repositories, Frameworks &amp; Templates in 2025](https://dev.to/engincanv/most-popular-net-domain-driven-design-ddd-resources-top-5-github-repositories-frameworks--n9o)
-- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-5fnl)
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/turu_guru/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-f96)
-- [readme2](https://dev.to/armaankhan8270/readme2-39dh)
+- [Mail-minders: a zero-UI task assistant in your inbox](https://dev.to/ananyakallankudlu/mail-minders-a-zero-ui-task-assistant-in-your-inbox-e7g)
+- [Calculating NDVI in Python with Rasterio and GeoPandas](https://dev.to/kofiadu/calculating-ndvi-in-python-with-rasterio-and-geopandas-3egi)
+- [Reporting and Documentation](https://dev.to/godofgeeks/reporting-and-documentation-3k4i)
+- [NocoBase v1.7.0 Officially Released](https://dev.to/nocobase/nocobase-v170-officially-released-371p)
 <!-- BLOG-POST-LIST:END -->
 
