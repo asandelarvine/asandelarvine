@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Review, Release, and Common Issues](https://dev.to/xhunmon/complete-guide-to-review-release-and-common-issues-3em2)
-- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
-- [Nginx location 匹配机制](https://dev.to/dragon72463399/nginx-location-pi-pei-ji-zhi-2p4a)
-- [Secrets Are Still Killing Pipelines: The Rise of Secretless DevOps](https://dev.to/kedster/secrets-are-still-killing-pipelines-the-rise-of-secretless-devops-16c1)
+- [Creating Custom Hooks in React](https://dev.to/devshefali/creating-custom-hooks-in-react-3321)
+- [How AI is Transforming Email Outreach for Businesses](https://dev.to/atif_latif_f4749c67e01b78/how-ai-is-transforming-email-outreach-for-businesses-gcl)
+- [The Unsung Heroes of Machine Learning: Probability and Statistics](https://dev.to/dev_patel_35864ca1db6093c/the-unsung-heroes-of-machine-learning-probability-and-statistics-1e06)
+- [CSS Grid vs Flexbox: An Extended Tutorial with Examples](https://dev.to/mechcloud_academy/css-grid-vs-flexbox-an-extended-tutorial-with-examples-43l)
 <!-- BLOG-POST-LIST:END -->
 
