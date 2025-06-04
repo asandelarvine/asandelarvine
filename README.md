@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mail-minders: a zero-UI task assistant in your inbox](https://dev.to/ananyakallankudlu/mail-minders-a-zero-ui-task-assistant-in-your-inbox-e7g)
-- [Calculating NDVI in Python with Rasterio and GeoPandas](https://dev.to/kofiadu/calculating-ndvi-in-python-with-rasterio-and-geopandas-3egi)
-- [Reporting and Documentation](https://dev.to/godofgeeks/reporting-and-documentation-3k4i)
-- [NocoBase v1.7.0 Officially Released](https://dev.to/nocobase/nocobase-v170-officially-released-371p)
+- [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
+- [Exploring the Intersection of Functional and Object-Oriented Programming in JS](https://dev.to/omriluz1/exploring-the-intersection-of-functional-and-object-oriented-programming-in-js-3eac)
+- [A Modern Approach of Implementing Dark Mode](https://dev.to/renekaesler/a-modern-approach-of-implementing-dark-mode-20f8)
+- [This is very useful resources](https://dev.to/lelisa_yohanes_d6202ac89d/this-is-very-useful-resources-130b)
 <!-- BLOG-POST-LIST:END -->
 
