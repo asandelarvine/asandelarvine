@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which ChatGPT Model Is Best? &lpar;As of May 2025&rpar;](https://dev.to/_37bbf0c253c0b3edec531e/which-chatgpt-model-is-best-as-of-may-2025-53dd)
-- [Functional tabs with only CSS &lpar;No JavaScript&rpar;](https://dev.to/0shuvo0/functional-tabs-with-only-css-no-javascript-29ok)
-- [A Developer’s Guide to sync.Once: Your Go Concurrency Lifesaver](https://dev.to/jones_charles_ad50858dbc0/a-developers-guide-to-synconce-your-go-concurrency-lifesaver-3kf2)
-- [The Developer Habits That Outlive You: Quiet Integrity in Code](https://dev.to/tonystpierre/the-developer-habits-that-outlive-you-quiet-integrity-in-code-2k0l)
+- [Complete Guide to Review, Release, and Common Issues](https://dev.to/xhunmon/complete-guide-to-review-release-and-common-issues-3em2)
+- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
+- [Nginx location 匹配机制](https://dev.to/dragon72463399/nginx-location-pi-pei-ji-zhi-2p4a)
+- [Secrets Are Still Killing Pipelines: The Rise of Secretless DevOps](https://dev.to/kedster/secrets-are-still-killing-pipelines-the-rise-of-secretless-devops-16c1)
 <!-- BLOG-POST-LIST:END -->
 
