@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
-- [How to Install Fathom-R1-14B: The Most Efficient SOTA Math Reasoning LLM](https://dev.to/nodeshiftcloud/how-to-install-fathom-r1-14b-the-most-efficient-sota-math-reasoning-llm-jkd)
-- [Inside the Agent Loop: The Core of Autonomous AI Systems](https://dev.to/rijultp/inside-the-agent-loop-the-core-of-autonomous-ai-systems-5902)
-- [The long journey of writing a C++ VLC alternative, Rose Player](https://dev.to/rosemediahouse/the-long-journey-of-writing-a-c-vlc-alternative-rose-player-50ie)
+- [How Edge Computing and CDNs Supercharge Web Performance in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/how-edge-computing-and-cdns-supercharge-web-performance-in-2025-4gpl)
+- [Stop Copy-Pasting Your Entire Codebase to AI — Try Stagewise Instead](https://dev.to/connectalamin/stop-copy-pasting-your-entire-codebase-to-ai-try-stagewise-instead-35oc)
+- [Go Functions as First-Class Citizens: How to Use Them Properly](https://dev.to/leapcell/go-functions-as-first-class-citizens-how-to-use-them-properly-2jhi)
+- [Meet the Team Behind Story Hero — Our 30-Day Leap into the World’s Biggest Hackathon 🚀](https://dev.to/danielreiling/meet-the-team-behind-story-hero-our-30-day-leap-into-the-worlds-biggest-hackathon-169p)
 <!-- BLOG-POST-LIST:END -->
 
