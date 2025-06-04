@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🕰️ Make Your Screen Aesthetic with Fliqlo ⏳](https://dev.to/ml318097/make-your-screen-aesthetic-with-fliqlo-opj)
-- [Node.js Image Upload System: File Handling, Storage, and Database Integration](https://dev.to/webcraft-notes/nodejs-image-upload-system-file-handling-storage-and-database-integration-4mec)
-- [Dumping Credentials with Python: Automating LSASS Access and Credential Extraction Post-Exploitation](https://dev.to/devunionx/dumping-credentials-with-python-automating-lsass-access-and-credential-extraction-post-exploitation-1f8g)
-- [NoSQL Databases Explained: Types, Use Cases &amp; Core Characteristics](https://dev.to/hostman_com/nosql-databases-explained-types-use-cases-core-characteristics-4dcd)
+- [When Identity Becomes UI: Reflections on Ego, Skin, and the Invisible Code Between Us](https://dev.to/versiqcontent/when-identity-becomes-ui-reflections-on-ego-skin-and-the-invisible-code-between-us-4ndi)
+- [Advanced Ruby Regular Expressions: Mastering Pattern Matching and Text Processing](https://dev.to/daviducolo/advanced-ruby-regular-expressions-mastering-pattern-matching-and-text-processing-4m6i)
+- [What are the best new games?](https://dev.to/glenn_trojan_1e79e881c2b7/what-are-the-best-new-games-56kl)
+- [How I Built My First Web3 dApp: A &quot;Buy Me a Coffee&quot; Ethereum Tip Jar ☕](https://dev.to/dhis_is_jj/how-i-built-my-first-web3-dapp-a-buy-me-a-coffee-ethereum-tip-jar-4c8j)
 <!-- BLOG-POST-LIST:END -->
 
