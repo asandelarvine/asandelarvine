@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Try reading my 12 WEEKS OF EPYQ - World&#39;s largest product release. It&#39;s about my AGI roll out](https://dev.to/the_epyq/try-reading-my-12-weeks-of-epyq-worlds-largest-product-release-its-about-my-agi-roll-out-2c4e)
+- [You&#39;re so obsolete!](https://dev.to/baltasarq/youre-so-obsolete-1hgi)
 - [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
 - [Exploring the Intersection of Functional and Object-Oriented Programming in JS](https://dev.to/omriluz1/exploring-the-intersection-of-functional-and-object-oriented-programming-in-js-3eac)
-- [A Modern Approach of Implementing Dark Mode](https://dev.to/renekaesler/a-modern-approach-of-implementing-dark-mode-20f8)
-- [This is very useful resources](https://dev.to/lelisa_yohanes_d6202ac89d/this-is-very-useful-resources-130b)
 <!-- BLOG-POST-LIST:END -->
 
