@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Try reading my 12 WEEKS OF EPYQ - World&#39;s largest product release. It&#39;s about my AGI roll out](https://dev.to/the_epyq/try-reading-my-12-weeks-of-epyq-worlds-largest-product-release-its-about-my-agi-roll-out-2c4e)
-- [You&#39;re so obsolete!](https://dev.to/baltasarq/youre-so-obsolete-1hgi)
-- [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
-- [Exploring the Intersection of Functional and Object-Oriented Programming in JS](https://dev.to/omriluz1/exploring-the-intersection-of-functional-and-object-oriented-programming-in-js-3eac)
+- [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
+- [Sony Confirms State of Play PlayStation Showcase for Tomorrow &lpar;June 4&rpar;, Will Last 40+ Minutes](https://dev.to/gg_news/sony-confirms-state-of-play-playstation-showcase-for-tomorrow-june-4-will-last-40-minutes-1g07)
+- [Researchers estimate that early humans began smoking meat to extend its shelf life as long as a million years ago.](https://dev.to/future_science/researchers-estimate-that-early-humans-began-smoking-meat-to-extend-its-shelf-life-as-long-as-a-3fg2)
+- [What is AWS Strands Agent? 🧐 AI App with AWS Strands, Bedrock, Nova, Fast API, Streamlit UI 🤖](https://dev.to/omerberatsezer/what-is-aws-strands-agent-ai-app-with-aws-strands-bedrock-nova-fast-api-streamlit-ui-4j0c)
 <!-- BLOG-POST-LIST:END -->
 
