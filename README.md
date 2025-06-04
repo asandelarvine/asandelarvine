@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Image Upload System: File Handling, Storage, and Database Integration](https://dev.to/webcraft-notes/nodejs-image-upload-system-file-handling-storage-and-database-integration-4mec)
+- [Dumping Credentials with Python: Automating LSASS Access and Credential Extraction Post-Exploitation](https://dev.to/devunionx/dumping-credentials-with-python-automating-lsass-access-and-credential-extraction-post-exploitation-1f8g)
+- [NoSQL Databases Explained: Types, Use Cases &amp; Core Characteristics](https://dev.to/hostman_com/nosql-databases-explained-types-use-cases-core-characteristics-4dcd)
 - [Building an AI-Powered Git Commit Message Generator with Google Gemini](https://dev.to/muhammad_ghufran_3b9219d2/building-an-ai-powered-git-commit-message-generator-with-google-gemini-251d)
-- [Trusted Companions: Plugins Designers Swear By in 2025](https://dev.to/atforeveryoung/trusted-companions-plugins-designers-swear-by-in-2025-39i0)
-- [🐧 What’s in a Linux Desktop? A Beginner’s Guide to Ubuntu Applications](https://dev.to/1suleyman/whats-in-a-linux-desktop-a-beginners-guide-to-ubuntu-applications-2583)
-- [What Exactly Is Cloud Engineering?](https://dev.to/onlyfave/what-exactly-is-cloud-engineering-35h4)
 <!-- BLOG-POST-LIST:END -->
 
