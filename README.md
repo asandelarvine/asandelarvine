@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ASP.NET Core Identity: A Guide to the Default Database Tables](https://dev.to/davinceleecode/understanding-aspnet-core-identity-a-guide-to-the-default-database-tables-12a7)
-- [5 Best Tax Secrets for Investing in Singapore RCR](https://dev.to/pingbanjo65/5-best-tax-secrets-for-investing-in-singapore-rcr-b88)
-- [NLWeb: Microsoft&#39;s Protocol for AI-Powered Website Search](https://dev.to/punkpeye/nlweb-microsofts-protocol-for-ai-powered-website-search-ng8)
-- [The Reimagined Citadel: Finding Soul in Structure with the Modular Monolith](https://dev.to/vaib/the-reimagined-citadel-finding-soul-in-structure-with-the-modular-monolith-n67)
+- [Join our latest Frontend Challenge: June Celebrations](https://dev.to/devteam/join-our-latest-frontend-challenge-june-celebrations-34kc)
+- [How to Install Fathom-R1-14B: The Most Efficient SOTA Math Reasoning LLM](https://dev.to/nodeshiftcloud/how-to-install-fathom-r1-14b-the-most-efficient-sota-math-reasoning-llm-jkd)
+- [Inside the Agent Loop: The Core of Autonomous AI Systems](https://dev.to/rijultp/inside-the-agent-loop-the-core-of-autonomous-ai-systems-5902)
+- [The long journey of writing a C++ VLC alternative, Rose Player](https://dev.to/rosemediahouse/the-long-journey-of-writing-a-c-vlc-alternative-rose-player-50ie)
 <!-- BLOG-POST-LIST:END -->
 
