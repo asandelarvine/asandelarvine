@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
+- [The Latency Gap: Why Developers Should Care About the Fastest 5 Milliseconds](https://dev.to/alexnav/the-latency-gap-why-developers-should-care-about-the-fastest-5-milliseconds-nbo)
+- [JSONB DeTOASTing &lpar;read amplification&rpar;](https://dev.to/mongodb/jsonb-detoasting-read-amplification-4ikj)
 - [Persona 4 Remake Is Apparently Happening, As Voice Actor Confirms He&#39;s Not Coming Back For It](https://dev.to/gg_news/persona-4-remake-is-apparently-happening-as-voice-actor-confirms-hes-not-coming-back-for-it-41kn)
-- [Sony Confirms State of Play PlayStation Showcase for Tomorrow &lpar;June 4&rpar;, Will Last 40+ Minutes](https://dev.to/gg_news/sony-confirms-state-of-play-playstation-showcase-for-tomorrow-june-4-will-last-40-minutes-1g07)
-- [Researchers estimate that early humans began smoking meat to extend its shelf life as long as a million years ago.](https://dev.to/future_science/researchers-estimate-that-early-humans-began-smoking-meat-to-extend-its-shelf-life-as-long-as-a-3fg2)
-- [What is AWS Strands Agent? 🧐 AI App with AWS Strands, Bedrock, Nova, Fast API, Streamlit UI 🤖](https://dev.to/omerberatsezer/what-is-aws-strands-agent-ai-app-with-aws-strands-bedrock-nova-fast-api-streamlit-ui-4j0c)
 <!-- BLOG-POST-LIST:END -->
 
