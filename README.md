@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Hooks in React](https://dev.to/devshefali/creating-custom-hooks-in-react-3321)
-- [How AI is Transforming Email Outreach for Businesses](https://dev.to/atif_latif_f4749c67e01b78/how-ai-is-transforming-email-outreach-for-businesses-gcl)
-- [The Unsung Heroes of Machine Learning: Probability and Statistics](https://dev.to/dev_patel_35864ca1db6093c/the-unsung-heroes-of-machine-learning-probability-and-statistics-1e06)
-- [CSS Grid vs Flexbox: An Extended Tutorial with Examples](https://dev.to/mechcloud_academy/css-grid-vs-flexbox-an-extended-tutorial-with-examples-43l)
+- [Figma’s AI Features Are Getting Scary Good — Here’s What Designers Should Know](https://dev.to/dct_technology/figmas-ai-features-are-getting-scary-good-heres-what-designers-should-know-53hh)
+- [How to Train Employees on Cybersecurity Awareness](https://dev.to/terminaltools/how-to-train-employees-on-cybersecurity-awareness-189a)
+- [[Boost]](https://dev.to/badmonster0/-1f0a)
+- [Build Real-Time Knowledge Graphs from Documents Using CocoIndex + Kuzu &lpar;with LLMs &amp; Live Updates&rpar;](https://dev.to/cocoindex/build-real-time-knowledge-graphs-from-documents-using-cocoindex-kuzu-with-llms-live-updates-n1b)
 <!-- BLOG-POST-LIST:END -->
 
