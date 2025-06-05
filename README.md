@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding and poetry might seem worlds apart, but trust me—both are acts of creative rebellion cloaked in structure.](https://dev.to/axrisi/coding-and-poetry-might-seem-worlds-apart-but-trust-me-both-are-acts-of-creative-rebellion-cloaked-nd7)
-- [Build an LLM Web App in Python from Scratch: Part 2 &lpar;Streamlit &amp; FSM&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-2-streamlit-fsm-277g)
-- [🚀 Join My Fitness App Journey! Seeking an Organic Marketing Rockstar! 🚀](https://dev.to/xano/join-my-fitness-app-journey-seeking-an-organic-marketing-rockstar-2j38)
-- [Nx Monorepo Guide: React &amp; Node Fullstack App](https://dev.to/mayallo/nx-monorepo-guide-react-node-fullstack-app-1bhe)
+- [40+ Beautiful CSS Buttons You Can Copy and Paste Instantly](https://dev.to/devshefali/40-beautiful-css-buttons-you-can-copy-and-paste-instantly-40ph)
+- [Beyond Projects: Why Every Developer Should Embrace the Product Mindset](https://dev.to/satyabrata_dd224dce47e7bc/beyond-projects-why-every-developer-should-embrace-the-product-mindset-i14)
+- [Inbox Innovation with Postmark: Presenting InboxNinja 🥷](https://dev.to/vivekthedev/inbox-innovation-with-postmark-presenting-inboxninja-2oma)
+- [I just wrote a simple tutorial showing how to build your own Python LLM web app using Streamlit from scratch! https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-2-streamlit-fsm-277g](https://dev.to/zachary62/i-just-wrote-a-simple-tutorial-showing-how-to-build-your-own-python-llm-web-app-using-streamlit-1ahp)
 <!-- BLOG-POST-LIST:END -->
 
