@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [And so it begins](https://dev.to/aksh247/and-so-it-begins-3273)
-- [🚀 Getting Started with Solana: A Beginner-Friendly Guide](https://dev.to/ayxshsoni/getting-started-with-solana-a-beginner-friendly-guide-3mjc)
-- [Connecting Express to MongoDB with Mongoose, .env, and .gitignore](https://dev.to/tanmay_dev/connecting-express-to-mongodb-with-mongoose-env-and-gitignore-j2n)
-- [The Impact of Artificial Intelligence on Everyday Life](https://dev.to/p_ym_n/the-impact-of-artificial-intelligence-on-everyday-life-1pn0)
+- [The 12 Best Entity Component Systems for C++](https://dev.to/marcosplusplus/the-12-best-entity-component-systems-for-c-98h)
+- [Os 12 Melhores Entity Component System para C++](https://dev.to/marcosplusplus/os-12-melhores-entity-component-system-para-c-50p4)
+- [More Than Cleanliness: The Truth About OCD](https://dev.to/vitalhealthpsychiatry_846/more-than-cleanliness-the-truth-about-ocd-4n0f)
+- [Recuperando a soberania e a privacidade da sua comunicação pessoal e corporativa](https://dev.to/isafashiondev/recuperando-a-soberania-e-a-privacidade-da-sua-comunicacao-pessoal-e-corporativa-id3)
 <!-- BLOG-POST-LIST:END -->
 
