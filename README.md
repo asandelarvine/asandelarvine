@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arbitrary File Read Vulnerability in Vite &lpar;CVE-2025-31125&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/arbitrary-file-read-vulnerability-in-vite-cve-2025-31125-1p35)
-- [Return to the World of AI Mechanics](https://dev.to/annaspies/return-to-the-world-of-ai-mechanics-43d4)
-- [🔤 Beginner-Friendly Guide to Solving &quot;Lexicographically Smallest Equivalent String&quot; | LeetCode 1061 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-lexicographically-smallest-equivalent-string-leetcode-1061-1jg9)
-- [0day RCE Vulnerability in Apusic Application Server via IIOP Deserialization](https://dev.to/sharon_42e16b8da44dabde6d/0day-rce-vulnerability-in-apusic-application-server-via-iiop-deserialization-4fl5)
+- [Understanding the Role of Servlets in Modern Web Applications 🌐](https://dev.to/matin676/understanding-the-role-of-servlets-in-modern-web-applications-dd9)
+- [Playful Angular CDK Drag Examples](https://dev.to/ngmaterialdev/playful-angular-cdk-drag-examples-53ad)
+- [Why Clean Code Matters for Developers](https://dev.to/habeshaethiopia/why-clean-code-matters-for-developers-3kp7)
+- [[Boost]](https://dev.to/naik_sejal/-2pk9)
 <!-- BLOG-POST-LIST:END -->
 
