@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I replaced the HTMX in the project to this module🔥](https://dev.to/anthonymax/i-replaced-the-htmx-in-the-project-to-this-module-56bc)
-- [Ready to Level Up Your Typing? Meet TypeWin! 🚀](https://dev.to/1hamzabek/ready-to-level-up-your-typing-meet-typewin-1dif)
-- [RAG: Why Your LLM Needs a Reality Check &lpar;and How to Fix It&rpar;](https://dev.to/alex_aslam/rag-why-your-llm-needs-a-reality-check-and-how-to-fix-it-34a)
-- [Hello Dev Community My Journey into AIoT and Why I Believe Africa’s Digital Future Is Now](https://dev.to/petermuraya/hello-dev-community-my-journey-into-aiot-and-why-i-believe-africas-digital-future-is-now-39hf)
+- [And so it begins](https://dev.to/aksh247/and-so-it-begins-3273)
+- [🚀 Getting Started with Solana: A Beginner-Friendly Guide](https://dev.to/ayxshsoni/getting-started-with-solana-a-beginner-friendly-guide-3mjc)
+- [Connecting Express to MongoDB with Mongoose, .env, and .gitignore](https://dev.to/tanmay_dev/connecting-express-to-mongodb-with-mongoose-env-and-gitignore-j2n)
+- [The Impact of Artificial Intelligence on Everyday Life](https://dev.to/p_ym_n/the-impact-of-artificial-intelligence-on-everyday-life-1pn0)
 <!-- BLOG-POST-LIST:END -->
 
