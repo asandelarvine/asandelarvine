@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Bloomlog: Build a Journaling Habit in Just 1 Minute a Day](https://dev.to/bloomlog/introducing-bloomlog-build-a-journaling-habit-in-just-1-minute-a-day-36i5)
+- [Why Most Productivity and Mindfulness Apps Fail After Day Two](https://dev.to/bloomlog/why-most-productivity-and-mindfulness-apps-fail-after-day-two-1oii)
 - [Bolt Hackathon Day 7: Day Off](https://dev.to/thankamatho/bolt-hackathon-day-7-day-off-2lih)
 - [Story Hero - Dev Log - Day 7](https://dev.to/danielreiling/story-hero-dev-log-day-7-1dl6)
-- [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
-- [The 12 Best Entity Component Systems for C++](https://dev.to/marcosplusplus/the-12-best-entity-component-systems-for-c-98h)
 <!-- BLOG-POST-LIST:END -->
 
