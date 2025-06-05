@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying to Type Faster? Meet TypeWin](https://dev.to/rasheedmozaffar/trying-to-type-faster-meet-typewin-4l3j)
-- [Heads-Up Android Devs: 16KB Page Size Support Required by Nov 2025](https://dev.to/p_0c0278d/heads-up-android-devs-16kb-page-size-support-required-by-nov-2025-2bep)
-- [Creating a Web Application Using Python Flask](https://dev.to/hostman_com/creating-a-web-application-using-python-flask-2gp0)
-- [🚀 Introducing MCPX: A Gateway for Governing AI Agent Tool Usage](https://dev.to/esoloz/introducing-mcpx-a-gateway-for-governing-ai-agent-tool-usage-1ni)
+- [An overview of the security of lower-level TCP/IP protocols](https://dev.to/dima853/an-overview-of-the-security-of-lower-level-tcpip-protocols-4fnf)
+- [Why Language Learning Streaks Fail, and How Rewards Ignite Real Motivation](https://dev.to/yaptech/why-language-learning-streaks-fail-and-how-rewards-ignite-real-motivation-34c9)
+- [MCP + ADK with Privacy](https://dev.to/omanandswami2005/-29n9)
+- [🔐 ADK &amp; MCP: Your AI&#39;s Privacy Shield or Backdoor? What Indian Developers MUST Know!](https://dev.to/omanandswami2005/adk-mcp-your-ais-privacy-shield-or-backdoor-what-indian-developers-must-know-4pmj)
 <!-- BLOG-POST-LIST:END -->
 
