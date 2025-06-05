@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Careless People by Sarah Wynn-Williams - Book Review](https://dev.to/wsvincent/careless-people-by-sarah-wynn-williams-book-review-1c3o)
-- [Terraform Installation Guide](https://dev.to/devopsplayground/terraform-installation-guide-492i)
-- [Using Discord Components v2 with Discord.js 🔥](https://dev.to/best_codes/using-discord-components-v2-with-discordjs-8f)
-- [Designing Distributed Systems: Sagas and Trade-Offs](https://dev.to/randazraik/designing-distributed-systems-sagas-and-trade-offs-2o0p)
+- [🎯 Struggling with CSS Grid? This Visual Cheat Sheet Is a Game-Changer! 💡](https://dev.to/ml318097/struggling-with-css-grid-this-visual-cheat-sheet-is-a-game-changer-4jo9)
+- [Software-Defined Networking &lpar;SDN&rpar;: What It Is — and Why Your Company Needs It](https://dev.to/dumebii/software-defined-networking-sdn-what-it-is-and-why-your-company-needs-it-40oa)
+- [GitHub Unveils Copilot Coding Agent at Build 2025](https://dev.to/fernandezbaptiste/github-unveils-copilot-coding-agent-at-build-2025-3gi2)
+- [Midaz Terraform Foundation: AWS, GCP e Azure](https://dev.to/jeffersonrodrigues92/midaz-terraform-foundation-aws-gcp-e-azure-4e81)
 <!-- BLOG-POST-LIST:END -->
 
