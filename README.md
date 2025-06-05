@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Role of Servlets in Modern Web Applications 🌐](https://dev.to/matin676/understanding-the-role-of-servlets-in-modern-web-applications-dd9)
-- [Playful Angular CDK Drag Examples](https://dev.to/ngmaterialdev/playful-angular-cdk-drag-examples-53ad)
-- [Why Clean Code Matters for Developers](https://dev.to/habeshaethiopia/why-clean-code-matters-for-developers-3kp7)
-- [[Boost]](https://dev.to/naik_sejal/-2pk9)
+- [Coding and poetry might seem worlds apart, but trust me—both are acts of creative rebellion cloaked in structure.](https://dev.to/axrisi/coding-and-poetry-might-seem-worlds-apart-but-trust-me-both-are-acts-of-creative-rebellion-cloaked-nd7)
+- [Build an LLM Web App in Python from Scratch: Part 2 &lpar;Streamlit &amp; FSM&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-2-streamlit-fsm-277g)
+- [🚀 Join My Fitness App Journey! Seeking an Organic Marketing Rockstar! 🚀](https://dev.to/xano/join-my-fitness-app-journey-seeking-an-organic-marketing-rockstar-2j38)
+- [Nx Monorepo Guide: React &amp; Node Fullstack App](https://dev.to/mayallo/nx-monorepo-guide-react-node-fullstack-app-1bhe)
 <!-- BLOG-POST-LIST:END -->
 
