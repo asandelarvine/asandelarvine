@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Struggling with CSS Grid? This Visual Cheat Sheet Is a Game-Changer! 💡](https://dev.to/ml318097/struggling-with-css-grid-this-visual-cheat-sheet-is-a-game-changer-4jo9)
-- [Software-Defined Networking &lpar;SDN&rpar;: What It Is — and Why Your Company Needs It](https://dev.to/dumebii/software-defined-networking-sdn-what-it-is-and-why-your-company-needs-it-40oa)
-- [GitHub Unveils Copilot Coding Agent at Build 2025](https://dev.to/fernandezbaptiste/github-unveils-copilot-coding-agent-at-build-2025-3gi2)
-- [Midaz Terraform Foundation: AWS, GCP e Azure](https://dev.to/jeffersonrodrigues92/midaz-terraform-foundation-aws-gcp-e-azure-4e81)
+- [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
+- [How to Use @PropertySource in Your Spring Application](https://dev.to/tiuwill/how-to-use-propertysource-in-your-spring-application-3cee)
+- [BrightData&#39;s MCP: Fetching Real-time Web Data For LLMs](https://dev.to/sachingeek/brightdatas-mcp-fetching-real-time-web-data-for-llms-33jf)
+- [Credential Dumping Applications: What They Are, How They Work, and How to Defend Against Them](https://dev.to/verylazytech/credential-dumping-applications-what-they-are-how-they-work-and-how-to-defend-against-them-hn9)
 <!-- BLOG-POST-LIST:END -->
 
