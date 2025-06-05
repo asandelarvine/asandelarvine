@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Built collab.dev: Measuring What Really Matters in Open Source](https://dev.to/pullflow/how-we-built-collabdev-measuring-what-really-matters-in-open-source-3e6c)
+- [From Scratch: Building HTTP/2 and WebSocket with Raw Python Sockets](https://dev.to/leapcell/from-scratch-building-http2-and-websocket-with-raw-python-sockets-11lp)
+- [Fly Away from Fly.io](https://dev.to/code42cate/fly-away-from-flyio-i6i)
 - [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
-- [How to Use @PropertySource in Your Spring Application](https://dev.to/tiuwill/how-to-use-propertysource-in-your-spring-application-3cee)
-- [BrightData&#39;s MCP: Fetching Real-time Web Data For LLMs](https://dev.to/sachingeek/brightdatas-mcp-fetching-real-time-web-data-for-llms-33jf)
-- [Credential Dumping Applications: What They Are, How They Work, and How to Defend Against Them](https://dev.to/verylazytech/credential-dumping-applications-what-they-are-how-they-work-and-how-to-defend-against-them-hn9)
 <!-- BLOG-POST-LIST:END -->
 
