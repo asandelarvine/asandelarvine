@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Translation API for Business Use](https://dev.to/colinreed/best-translation-api-for-business-use-3lf5)
+- [How to Generate an AI SBOM, and What Tools to Use](https://dev.to/jozu/how-to-generate-an-ai-sbom-and-what-tools-to-use-9gg)
 - [An overview of the security of lower-level TCP/IP protocols](https://dev.to/dima853/an-overview-of-the-security-of-lower-level-tcpip-protocols-4fnf)
 - [Why Language Learning Streaks Fail, and How Rewards Ignite Real Motivation](https://dev.to/yaptech/why-language-learning-streaks-fail-and-how-rewards-ignite-real-motivation-34c9)
-- [MCP + ADK with Privacy](https://dev.to/omanandswami2005/-29n9)
-- [🔐 ADK &amp; MCP: Your AI&#39;s Privacy Shield or Backdoor? What Indian Developers MUST Know!](https://dev.to/omanandswami2005/adk-mcp-your-ais-privacy-shield-or-backdoor-what-indian-developers-must-know-4pmj)
 <!-- BLOG-POST-LIST:END -->
 
