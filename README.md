@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolt Hackathon Day 7: Day Off](https://dev.to/thankamatho/bolt-hackathon-day-7-day-off-2lih)
+- [Story Hero - Dev Log - Day 7](https://dev.to/danielreiling/story-hero-dev-log-day-7-1dl6)
+- [How to Make ChatGPT Codex Work with PHP and Symfony](https://dev.to/javiereguiluz/how-to-make-chatgpt-codex-work-with-php-and-symfony-4lj8)
 - [The 12 Best Entity Component Systems for C++](https://dev.to/marcosplusplus/the-12-best-entity-component-systems-for-c-98h)
-- [Os 12 Melhores Entity Component System para C++](https://dev.to/marcosplusplus/os-12-melhores-entity-component-system-para-c-50p4)
-- [More Than Cleanliness: The Truth About OCD](https://dev.to/vitalhealthpsychiatry_846/more-than-cleanliness-the-truth-about-ocd-4n0f)
-- [Recuperando a soberania e a privacidade da sua comunicação pessoal e corporativa](https://dev.to/isafashiondev/recuperando-a-soberania-e-a-privacidade-da-sua-comunicacao-pessoal-e-corporativa-id3)
 <!-- BLOG-POST-LIST:END -->
 
