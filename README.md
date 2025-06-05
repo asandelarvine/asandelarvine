@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built collab.dev: Measuring What Really Matters in Open Source](https://dev.to/pullflow/how-we-built-collabdev-measuring-what-really-matters-in-open-source-3e6c)
-- [From Scratch: Building HTTP/2 and WebSocket with Raw Python Sockets](https://dev.to/leapcell/from-scratch-building-http2-and-websocket-with-raw-python-sockets-11lp)
-- [Fly Away from Fly.io](https://dev.to/code42cate/fly-away-from-flyio-i6i)
-- [Join the Runner H &quot;AI Agent Prompting&quot; Challenge: $10,000 in Prizes for 20 Winners!!!](https://dev.to/devteam/join-the-runner-h-ai-agent-prompting-challenge-10000-in-prizes-for-20-winners-30ki)
+- [I replaced the HTMX in the project to this module🔥](https://dev.to/anthonymax/i-replaced-the-htmx-in-the-project-to-this-module-56bc)
+- [Ready to Level Up Your Typing? Meet TypeWin! 🚀](https://dev.to/1hamzabek/ready-to-level-up-your-typing-meet-typewin-1dif)
+- [RAG: Why Your LLM Needs a Reality Check &lpar;and How to Fix It&rpar;](https://dev.to/alex_aslam/rag-why-your-llm-needs-a-reality-check-and-how-to-fix-it-34a)
+- [Hello Dev Community My Journey into AIoT and Why I Believe Africa’s Digital Future Is Now](https://dev.to/petermuraya/hello-dev-community-my-journey-into-aiot-and-why-i-believe-africas-digital-future-is-now-39hf)
 <!-- BLOG-POST-LIST:END -->
 
