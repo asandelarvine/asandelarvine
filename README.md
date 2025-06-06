@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS alternatives?](https://dev.to/gnrlbzik/nextjs-alternatives-1ggn)
-- [Scaffolding Elegance: Mastering `Microsoft.EntityFrameworkCore.Design` &lpar;v9.0.5&rpar; in ASP.NET Core Web API](https://dev.to/cristiansifuentes/scaffolding-elegance-mastering-microsoftentityframeworkcoredesign-v905-in-aspnet-core-web-nn3)
-- [React Testing Setup: Vitest + TypeScript + React Testing Library](https://dev.to/kevinccbsg/react-testing-setup-vitest-typescript-react-testing-library-42c8)
-- [DeadLock - 50% Complete](https://dev.to/gamecoder/deadlock-50-complete-3627)
+- [Stop Typing Interfaces Manually — This VSCode Extension Does It for You](https://dev.to/onedev/stop-typing-interfaces-manually-this-vscode-extension-does-it-for-you-1p8a)
+- [Day-39 of Coding!](https://dev.to/harshvdev/day-39-of-coding-21dg)
+- [Suggestions for my startup](https://dev.to/rohit_shukla_ed709c29220c/suggestions-for-my-startup-1n2n)
+- [Honoring National Donut Day 2025](https://dev.to/axrisi/honoring-national-donut-day-2025-f49)
 <!-- BLOG-POST-LIST:END -->
 
