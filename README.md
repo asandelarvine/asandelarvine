@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1937)
-- [Email-First Medical Reporting for Rural Communities](https://dev.to/dishebh/email-first-medical-reporting-for-rural-communities-3ehh)
-- [WhiteBIT VIP Program: Advanced Trading Infrastructure for High-Volume Users](https://dev.to/alexnav/whitebit-vip-program-advanced-trading-infrastructure-for-high-volume-users-ahn)
-- [RESTful CRUD Everything](https://dev.to/epigene/restful-crud-everything-i87)
+- [Lemon Squeey React Next.js Payments](https://dev.to/shreyvijayvargiya/lemon-squeey-react-nextjs-payments-2k3a)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-58d6)
+- [How to Create an Animated Button with Hover Sound in React](https://dev.to/duythenight/how-to-create-an-animated-button-with-hover-sound-in-react-273p)
+- [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
 <!-- BLOG-POST-LIST:END -->
 
