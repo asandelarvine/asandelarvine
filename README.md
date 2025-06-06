@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flotiq vs Contentstack: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-contentstack-headless-cms-guide-2025-2do0)
-- [How does ChatGPT generate human-like text?](https://dev.to/swarupinfotech1/how-does-chatgpt-generate-human-like-text-1mmo)
-- [Ming: A CQRS Experiment in Elixir](https://dev.to/actor-dev/ming-elixir-project-to-cqrs-1m8o)
-- [Easiest Way to Migrate SafeLine WAF Data &lpar;Works in Minutes&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/easiest-way-to-migrate-safeline-waf-data-works-in-minutes-94i)
+- [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
+- [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
+- [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
+- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/swarupinfotech1/top-10-es6-features-that-every-developer-should-know-52pj)
 <!-- BLOG-POST-LIST:END -->
 
