@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-372n)
-- [🧠 Your Guide to Terraform Variables](https://dev.to/terraformmonkey/your-guide-to-terraform-variables-27kb)
-- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/serina_8340/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29if)
-- [Docker কি জিনিস?](https://dev.to/emdadulislam/docker-ki-jinis-21ah)
+- [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
+- [Why Rate Limiting Is Critical for API Security](https://dev.to/sharon_42e16b8da44dabde6d/why-rate-limiting-is-critical-for-api-security-4gij)
+- [How to Install and Run Sarvam – M Locally?](https://dev.to/nodeshiftcloud/how-to-install-and-run-sarvam-m-locally-2b0i)
+- [🚀Top 10 MCP Servers for 2025 &lpar;Yes, GitHub’s Included!&rpar;](https://dev.to/fallon_jimmy/top-10-mcp-servers-for-2025-yes-githubs-included-15jg)
 <!-- BLOG-POST-LIST:END -->
 
