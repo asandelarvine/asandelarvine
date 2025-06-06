@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Typing Interfaces Manually — This VSCode Extension Does It for You](https://dev.to/onedev/stop-typing-interfaces-manually-this-vscode-extension-does-it-for-you-1p8a)
-- [Day-39 of Coding!](https://dev.to/harshvdev/day-39-of-coding-21dg)
-- [Suggestions for my startup](https://dev.to/rohit_shukla_ed709c29220c/suggestions-for-my-startup-1n2n)
-- [Honoring National Donut Day 2025](https://dev.to/axrisi/honoring-national-donut-day-2025-f49)
+- [Send emails into Obsidian via Postmark](https://dev.to/kevboh/send-emails-into-obsidian-via-postmark-3aep)
+- [Implementing a JavaScript-Based Virtual Machine](https://dev.to/omriluz1/implementing-a-javascript-based-virtual-machine-515n)
+- [Building a Scalable Scientific LLM Pipeline: From Raw Data to Hugging Face](https://dev.to/darkstalker/building-a-scalable-scientific-llm-pipeline-from-raw-data-to-hugging-face-183d)
+- [Finding Your Dream Software Engineer Startup Jobs](https://dev.to/jetthoughts/finding-your-dream-software-engineer-startup-jobs-5cfd)
 <!-- BLOG-POST-LIST:END -->
 
