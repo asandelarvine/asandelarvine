@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Pillars of SOLID](https://dev.to/sajidurshajib/5-pillars-of-solid-15gn)
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-2-bcc)
-- [Runner H Viral Content Factory Agent](https://dev.to/axrisi/runner-h-viral-content-factory-agent-chn)
-- [Resurgence of Software Design in 2025?](https://dev.to/epigene/resurgence-of-software-design-in-2025-af3)
+- [Auto-Generating Clips for Social Media from Live Streams with the Strands Agents SDK](https://dev.to/aws/auto-generating-clips-for-social-media-from-live-streams-with-the-strands-agents-sdk-1kkj)
+- [Building the Web with Rust: Here&#39;s Why It Matters](https://dev.to/leapcell/building-the-web-with-rust-heres-why-it-matters-3efk)
+- [10 VS Code Extensions I Can’t Live Without in 2025](https://dev.to/odqin/10-vs-code-extensions-i-cant-live-without-in-2025-35d6)
+- [EA admits that embracing AI could lead to fans losing confidence in the company and its brands.](https://dev.to/gg_news/ea-admits-that-embracing-ai-could-lead-to-fans-losing-confidence-in-the-company-and-its-brands-5eh0)
 <!-- BLOG-POST-LIST:END -->
 
