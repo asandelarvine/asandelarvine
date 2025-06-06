@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Generating Clips for Social Media from Live Streams with the Strands Agents SDK](https://dev.to/aws/auto-generating-clips-for-social-media-from-live-streams-with-the-strands-agents-sdk-1kkj)
-- [Building the Web with Rust: Here&#39;s Why It Matters](https://dev.to/leapcell/building-the-web-with-rust-heres-why-it-matters-3efk)
-- [10 VS Code Extensions I Can’t Live Without in 2025](https://dev.to/odqin/10-vs-code-extensions-i-cant-live-without-in-2025-35d6)
-- [EA admits that embracing AI could lead to fans losing confidence in the company and its brands.](https://dev.to/gg_news/ea-admits-that-embracing-ai-could-lead-to-fans-losing-confidence-in-the-company-and-its-brands-5eh0)
+- [NextJS alternatives?](https://dev.to/gnrlbzik/nextjs-alternatives-1ggn)
+- [Scaffolding Elegance: Mastering `Microsoft.EntityFrameworkCore.Design` &lpar;v9.0.5&rpar; in ASP.NET Core Web API](https://dev.to/cristiansifuentes/scaffolding-elegance-mastering-microsoftentityframeworkcoredesign-v905-in-aspnet-core-web-nn3)
+- [React Testing Setup: Vitest + TypeScript + React Testing Library](https://dev.to/kevinccbsg/react-testing-setup-vitest-typescript-react-testing-library-42c8)
+- [DeadLock - 50% Complete](https://dev.to/gamecoder/deadlock-50-complete-3627)
 <!-- BLOG-POST-LIST:END -->
 
