@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement JOIN Operations Between Tables from Different Databases with esProc?](https://dev.to/esproc_spl/how-to-implement-join-operations-between-tables-from-different-databases-with-esproc-1g32)
-- [🤖 Greedy Robot &amp; Lexicographically Smallest String | LeetCode 2434 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/greedy-robot-lexicographically-smallest-string-leetcode-2434-c-javascript-python-3k4)
-- [Critical RCE Vulnerabilities Found in DataEase &lpar;CVE-2025-49001/49002&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-rce-vulnerabilities-found-in-dataease-cve-2025-4900149002-4bl4)
-- [Full-Scope Tests Passed! A Practical Guide to Apache DolphinScheduler 3.2.0 Single-Node Deployment and Verification](https://dev.to/chen_debra_3060b21d12b1b0/full-scope-tests-passed-a-practical-guide-to-apache-dolphinscheduler-320-single-node-deployment-1iba)
+- [Kubernetes &lpar;K8s&rpar; কি জিনিস? আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kubernetes-k8s-ki-jinis-aaddddaay-shikhe-nii-30p5)
+- [কাফকা &lpar;Apache Kafka&rpar; কি জিনিস? বন্ধুদের আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kaaphkaa-apache-kafka-ki-jinis-bndhuder-aaddddaay-shikhe-nii-1o0o)
+- [Top 10 AI Testing Tools You Need In 2025](https://dev.to/therealmrmumba/top-10-ai-testing-tools-you-need-in-2025-3e7k)
+- [Power BI Tutorial: From Data to Dashboard in Minutes](https://dev.to/tpointtechblog/power-bi-tutorial-from-data-to-dashboard-in-minutes-1o6o)
 <!-- BLOG-POST-LIST:END -->
 
