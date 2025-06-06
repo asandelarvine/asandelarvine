@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lemon Squeey React Next.js Payments](https://dev.to/shreyvijayvargiya/lemon-squeey-react-nextjs-payments-2k3a)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-58d6)
-- [How to Create an Animated Button with Hover Sound in React](https://dev.to/duythenight/how-to-create-an-animated-button-with-hover-sound-in-react-273p)
-- [There are so many challenges and hackathons live right now!](https://dev.to/devteam/there-are-so-many-challenges-and-hackathons-live-right-now-5eo7)
+- [5 Pillars of SOLID](https://dev.to/sajidurshajib/5-pillars-of-solid-15gn)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-2-bcc)
+- [Runner H Viral Content Factory Agent](https://dev.to/axrisi/runner-h-viral-content-factory-agent-chn)
+- [Resurgence of Software Design in 2025?](https://dev.to/epigene/resurgence-of-software-design-in-2025-af3)
 <!-- BLOG-POST-LIST:END -->
 
