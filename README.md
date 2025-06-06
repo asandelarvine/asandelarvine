@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
-- [Why Rate Limiting Is Critical for API Security](https://dev.to/sharon_42e16b8da44dabde6d/why-rate-limiting-is-critical-for-api-security-4gij)
-- [How to Install and Run Sarvam – M Locally?](https://dev.to/nodeshiftcloud/how-to-install-and-run-sarvam-m-locally-2b0i)
-- [🚀Top 10 MCP Servers for 2025 &lpar;Yes, GitHub’s Included!&rpar;](https://dev.to/fallon_jimmy/top-10-mcp-servers-for-2025-yes-githubs-included-15jg)
+- [Flotiq vs Contentstack: Headless CMS Guide 2025](https://dev.to/flotiq/flotiq-vs-contentstack-headless-cms-guide-2025-2do0)
+- [How does ChatGPT generate human-like text?](https://dev.to/swarupinfotech1/how-does-chatgpt-generate-human-like-text-1mmo)
+- [Ming: A CQRS Experiment in Elixir](https://dev.to/actor-dev/ming-elixir-project-to-cqrs-1m8o)
+- [Easiest Way to Migrate SafeLine WAF Data &lpar;Works in Minutes&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/easiest-way-to-migrate-safeline-waf-data-works-in-minutes-94i)
 <!-- BLOG-POST-LIST:END -->
 
