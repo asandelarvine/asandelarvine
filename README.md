@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Bundle is Lying to You: Hidden Costs of Tree-Shaking](https://dev.to/abhinavshinoy90/your-bundle-is-lying-to-you-hidden-costs-of-tree-shaking-15pd)
-- [🚀 Build a Custom Scheduling Page in Minutes with Cogency.io &lpar;No Code Needed&rpar;](https://dev.to/dailysandbox/build-a-custom-scheduling-page-in-minutes-with-cogencyio-no-code-needed-4fa8)
-- [Security news weekly round-up - 6th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-6th-june-2025-4118)
-- [How I Got Cited by ChatGPT, Perplexity, and Grok — Without Gaming the System](https://dev.to/blackblocksheep/how-i-got-cited-by-chatgpt-perplexity-and-grok-without-gaming-the-system-fg1)
+- [A Website at Home? Yep, Even Without a Static IP!](https://dev.to/hi3ris/a-website-at-home-yep-even-without-a-static-ip-3c92)
+- [Avoid These 3 Common Form Traps in React](https://dev.to/werliton/avoid-these-3-common-form-traps-in-react-4m3j)
+- [The Insight Weaver: Automated Knowledge Curator &amp; Synthesizer](https://dev.to/takitajwar17/the-insight-weaver-automated-knowledge-curator-synthesizer-28i7)
+- [Be 5x faster with Deno](https://dev.to/gnrlbzik/be-5x-faster-with-deno-52m5)
 <!-- BLOG-POST-LIST:END -->
 
