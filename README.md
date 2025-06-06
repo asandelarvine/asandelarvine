@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Against OWASP Top 10 with SafeLine WAF](https://dev.to/carrie_luo1/protecting-against-owasp-top-10-with-safeline-waf-2ifm)
-- [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
-- [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
-- [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
+- [How to Manually Install SafeLine WAF](https://dev.to/carrie_luo1/how-to-manually-install-safeline-waf-44ko)
+- [This Week In React #237: RSC, TanStack, Storybook | Legacy Arch, Hermes N-API | TC39, Import Maps, Vite, Vitest...](https://dev.to/sebastienlorber/this-week-in-react-237-rsc-tanstack-storybook-legacy-arch-hermes-n-api-tc39-import-maps-4jl)
+- [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
+- [10 Cool CodePen Demos &lpar;May 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2025-557d)
 <!-- BLOG-POST-LIST:END -->
 
