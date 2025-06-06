@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Send emails into Obsidian via Postmark](https://dev.to/kevboh/send-emails-into-obsidian-via-postmark-3aep)
-- [Implementing a JavaScript-Based Virtual Machine](https://dev.to/omriluz1/implementing-a-javascript-based-virtual-machine-515n)
-- [Building a Scalable Scientific LLM Pipeline: From Raw Data to Hugging Face](https://dev.to/darkstalker/building-a-scalable-scientific-llm-pipeline-from-raw-data-to-hugging-face-183d)
-- [Finding Your Dream Software Engineer Startup Jobs](https://dev.to/jetthoughts/finding-your-dream-software-engineer-startup-jobs-5cfd)
+- [Building YAP’s Community: How I’m Leading the Charge and Why I’m the Best Fit](https://dev.to/yaptech/building-yaps-community-how-im-leading-the-charge-and-why-im-the-best-fit-26d5)
+- [Integrando Podcasts a Kiu: Cómo Construí un Agente Virtual Serverless con AWS Bedrock y Pinecone](https://dev.to/fernandosilvot/integrando-podcasts-a-kiu-como-construi-un-agente-virtual-serverless-con-aws-bedrock-y-pinecone-3l6e)
+- [Day 1 of getting my extension to 1,000 users](https://dev.to/arzuno/day-1-of-getting-my-extension-to-1000-users-42np)
+- [🚀 Mastering select_for_update&lpar;&rpar; in Django: Prevent Race Conditions the Right Way](https://dev.to/karaa1122/mastering-selectforupdate-in-django-prevent-race-conditions-the-right-way-4l56)
 <!-- BLOG-POST-LIST:END -->
 
