@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Protecting Against OWASP Top 10 with SafeLine WAF](https://dev.to/carrie_luo1/protecting-against-owasp-top-10-with-safeline-waf-2ifm)
 - [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
 - [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
 - [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
-- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/swarupinfotech1/top-10-es6-features-that-every-developer-should-know-52pj)
 <!-- BLOG-POST-LIST:END -->
 
