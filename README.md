@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes &lpar;K8s&rpar; কি জিনিস? আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kubernetes-k8s-ki-jinis-aaddddaay-shikhe-nii-30p5)
-- [কাফকা &lpar;Apache Kafka&rpar; কি জিনিস? বন্ধুদের আড্ডায় শিখে নিই!](https://dev.to/emdadulislam/kaaphkaa-apache-kafka-ki-jinis-bndhuder-aaddddaay-shikhe-nii-1o0o)
-- [Top 10 AI Testing Tools You Need In 2025](https://dev.to/therealmrmumba/top-10-ai-testing-tools-you-need-in-2025-3e7k)
-- [Power BI Tutorial: From Data to Dashboard in Minutes](https://dev.to/tpointtechblog/power-bi-tutorial-from-data-to-dashboard-in-minutes-1o6o)
+- [🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-372n)
+- [🧠 Your Guide to Terraform Variables](https://dev.to/terraformmonkey/your-guide-to-terraform-variables-27kb)
+- [esProc SPL: Equivalent to the Python-enhanced DuckDB](https://dev.to/serina_8340/esproc-spl-equivalent-to-the-python-enhanced-duckdb-29if)
+- [Docker কি জিনিস?](https://dev.to/emdadulislam/docker-ki-jinis-21ah)
 <!-- BLOG-POST-LIST:END -->
 
