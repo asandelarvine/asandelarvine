@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All Langfuse Product Features now Free Open-Source](https://dev.to/clemra/all-langfuse-product-features-now-free-open-source-4140)
-- [🔐 NookChat – A One-Time Encrypted, Anonymous Chat App &lpar;No Login Required&rpar;](https://dev.to/dharamgfx/nookchat-a-one-time-encrypted-anonymous-chat-app-no-login-required-3hog)
-- [How to Prevent AI Agents From Breaking in Production](https://dev.to/gerimate/how-to-prevent-ai-agents-from-breaking-in-production-24c3)
-- [How to Translate Document &amp; Keep the Formatting](https://dev.to/elenahartmann/how-to-translate-document-keep-the-formatting-35c8)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1937)
+- [Email-First Medical Reporting for Rural Communities](https://dev.to/dishebh/email-first-medical-reporting-for-rural-communities-3ehh)
+- [WhiteBIT VIP Program: Advanced Trading Infrastructure for High-Volume Users](https://dev.to/alexnav/whitebit-vip-program-advanced-trading-infrastructure-for-high-volume-users-ahn)
+- [RESTful CRUD Everything](https://dev.to/epigene/restful-crud-everything-i87)
 <!-- BLOG-POST-LIST:END -->
 
