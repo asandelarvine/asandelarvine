@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best way to access Claude 4 Sonnet](https://dev.to/vijaykodam/best-way-to-access-claude-4-sonnet-2219)
-- [Node.js is not going anywhere.](https://dev.to/saqibtanveer-dev/nodejs-is-not-going-anywhere-31f5)
-- [Sync NGINX Configs with Ansible](https://dev.to/lovestaco/sync-nginx-configs-with-ansible-19cl)
-- [Getting started with Expo and React Native 2025](https://dev.to/its_nish/getting-started-with-expo-and-react-native-2025-51bc)
+- [100 days of Coding! Day 8](https://dev.to/aaanishaaa/100-days-of-coding-day-8-3edg)
+- [Code Smell 302 - Misleading Status Codes](https://dev.to/mcsee/code-smell-302-misleading-status-codes-10dd)
+- [# Understanding Event Listeners in JavaScript](https://dev.to/imoh_imohowo/-understanding-event-listeners-in-javascript-3063)
+- [🚀 Introducing QuickCode — A Free Platform to Practice Big Tech OA Questions + Help Recruiters Draft Problems Easily](https://dev.to/shubham_phogat_34d0c4a667/introducing-quickcode-a-free-platform-to-practice-big-tech-oa-questions-help-recruiters-draft-53fg)
 <!-- BLOG-POST-LIST:END -->
 
