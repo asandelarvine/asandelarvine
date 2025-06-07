@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Website at Home? Yep, Even Without a Static IP!](https://dev.to/hi3ris/a-website-at-home-yep-even-without-a-static-ip-3c92)
-- [Avoid These 3 Common Form Traps in React](https://dev.to/werliton/avoid-these-3-common-form-traps-in-react-4m3j)
-- [The Insight Weaver: Automated Knowledge Curator &amp; Synthesizer](https://dev.to/takitajwar17/the-insight-weaver-automated-knowledge-curator-synthesizer-28i7)
-- [Be 5x faster with Deno](https://dev.to/gnrlbzik/be-5x-faster-with-deno-52m5)
+- [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
+- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
+- [Web Performansını Optimize Et: Her Saniye Sayar!](https://dev.to/yunus_emremert_1756b71d3/web-performansini-optimize-et-her-saniye-sayar-4b86)
+- [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://dev.to/taniguchitakara/videoprism-a-foundational-visual-encoder-for-video-understanding-k57)
 <!-- BLOG-POST-LIST:END -->
 
