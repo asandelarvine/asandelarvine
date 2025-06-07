@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized Learning Coach](https://dev.to/dobrenteiistvan/personalized-learning-coach-4m1c)
-- [Memory MCP with Semantic Search Support](https://dev.to/mehrant/-k1o)
-- [PIDM — Python Internet Download Manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-4ak9)
-- [Problem Solving Doesn’t Take a Break — Even on Eid-ul-Azha 2025](https://dev.to/mahmudulhaqueshawon/problem-solving-doesnt-take-a-break-even-on-eid-ul-azha-2025-4ajm)
+- [Best way to access Claude 4 Sonnet](https://dev.to/vijaykodam/best-way-to-access-claude-4-sonnet-2219)
+- [Node.js is not going anywhere.](https://dev.to/saqibtanveer-dev/nodejs-is-not-going-anywhere-31f5)
+- [Sync NGINX Configs with Ansible](https://dev.to/lovestaco/sync-nginx-configs-with-ansible-19cl)
+- [Getting started with Expo and React Native 2025](https://dev.to/its_nish/getting-started-with-expo-and-react-native-2025-51bc)
 <!-- BLOG-POST-LIST:END -->
 
