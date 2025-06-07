@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explain the concept of garbage collection in Java. How can it be triggered manually?](https://dev.to/priya_yadav_f24ec65b0518b/explain-the-concept-of-garbage-collection-in-java-how-can-it-be-triggered-manually-53hn)
-- [Hello dev community I am ZiBi Tech 👨‍💻, passionate about cyber security and coding, hope I am welcome here🚀](https://dev.to/zibeon_webuin_5dae4283061/hello-dev-community-i-am-zibi-tech-passionate-about-cyber-security-and-coding-hope-i-am-3602)
-- [LEDGR - Receipts In, Insights Out. Automatically.](https://dev.to/ayesha_imr/ledgr-receipts-in-insights-out-automatically-4ek2)
-- [Advanced JavaScript Asynchronous With Async.js](https://dev.to/writech/advanced-javascript-asynchronous-with-asyncjs-3gmm)
+- [How to Create and Deploy a Preact Application on Hostman](https://dev.to/hostman_com/how-to-create-and-deploy-a-preact-application-on-hostman-54df)
+- [Terraform AWS multi-region deployments: region meta-argument in Beta](https://dev.to/aws-builders/terraform-aws-multi-region-deployments-region-meta-argument-in-beta-o76)
+- [🧠 Deep Dive into Solana’s Account Model: The Backbone of Solana’s Architecture](https://dev.to/ayxshsoni/deep-dive-into-solanas-account-model-the-backbone-of-solanas-architecture-22a2)
+- [🖥️ Linux Process Management for Beginners: A Day in the Life of a Junior Sysadmin](https://dev.to/ldwit/linux-process-management-for-beginners-a-day-in-the-life-of-a-junior-sysadmin-41fm)
 <!-- BLOG-POST-LIST:END -->
 
