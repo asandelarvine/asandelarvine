@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Phoenix LiveView Invoice Management App with Runner H](https://dev.to/hexshift/building-a-phoenix-liveview-invoice-management-app-with-runner-h-2hek)
-- [Building a Custom Cryptocurrency Candlestick Chart from Scratch with React](https://dev.to/radzion/building-a-custom-cryptocurrency-candlestick-chart-from-scratch-with-react-5gbk)
-- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
-- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
+- [Migrating from Ingress to Gateway API: Lessons from the Trenches](https://dev.to/mrupguru/migrating-from-ingress-to-gateway-api-lessons-from-the-trenches-4mnl)
+- [Produce and consume Kafka message with samara and golang](https://dev.to/mossnana/produce-and-consume-kafka-message-with-samara-and-golang-5fh9)
+- [Zero-Config DB Setup with Drizzle ORM Using drizzle-setup CLI](https://dev.to/devgauravjatt/zero-config-db-setup-with-drizzle-orm-using-drizzle-setup-cli-4905)
+- [CI/CD with GitHub Actions Using AWS self-hosted Runner](https://dev.to/sainath_patil_bcb48cfb7b9/cicd-with-github-actions-using-aws-self-hosted-runner-1gap)
 <!-- BLOG-POST-LIST:END -->
 
