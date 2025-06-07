@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Waterfall-Model software engineering. Does it still make sense nowadays?](https://dev.to/jeandevbr/waterfall-model-software-engineering-does-it-still-make-sense-nowadays-5dln)
-- [Using Svelte Runes in React](https://dev.to/trentbrew/using-svelte-runes-in-react-3g48)
-- [Minha implementação de Autenticação com JWT e Bcrypt](https://dev.to/marcelomagario/minha-implementacao-de-autenticacao-com-jwt-e-bcrypt-1a53)
-- [100 days of Coding! Day 8](https://dev.to/aaanishaaa/100-days-of-coding-day-8-3edg)
+- [Building AI Agents with A2A and MCP Protocol: A Hands-on Implementation Guide](https://dev.to/vishalmysore/building-ai-agents-with-a2a-and-mcp-protocol-a-hands-on-implementation-guide-4fbl)
+- [RedTiger: Advanced Automated XSS Vulnerability Testing Tool](https://dev.to/medjahdi/redtiger-advanced-automated-xss-vulnerability-testing-tool-4pdn)
+- [How I Used ChatGPT to Identify Two Songs I Heard Once — Over 30 Years Ago](https://dev.to/dveb/how-i-used-chatgpt-to-identify-two-songs-i-heard-once-over-30-years-ago-28f8)
+- [🎉 Celebrating Festa Junina: Brazilian Tradition in Color and Motion](https://dev.to/jamesrmoro/celebrating-festa-junina-brazilian-tradition-in-color-and-motion-1f2k)
 <!-- BLOG-POST-LIST:END -->
 
