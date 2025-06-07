@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Deploy a Preact Application on Hostman](https://dev.to/hostman_com/how-to-create-and-deploy-a-preact-application-on-hostman-54df)
-- [Terraform AWS multi-region deployments: region meta-argument in Beta](https://dev.to/aws-builders/terraform-aws-multi-region-deployments-region-meta-argument-in-beta-o76)
-- [🧠 Deep Dive into Solana’s Account Model: The Backbone of Solana’s Architecture](https://dev.to/ayxshsoni/deep-dive-into-solanas-account-model-the-backbone-of-solanas-architecture-22a2)
-- [🖥️ Linux Process Management for Beginners: A Day in the Life of a Junior Sysadmin](https://dev.to/ldwit/linux-process-management-for-beginners-a-day-in-the-life-of-a-junior-sysadmin-41fm)
+- [Inbox-as-Art Voice-Powered AI Art &amp; Email Creativity Postmark Challenge](https://dev.to/volde/inbox-as-art-voice-powered-ai-art-email-creativity-postmark-challenge-32mh)
+- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
+- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
+- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
 <!-- BLOG-POST-LIST:END -->
 
