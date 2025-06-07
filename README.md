@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inbox-as-Art Voice-Powered AI Art &amp; Email Creativity Postmark Challenge](https://dev.to/volde/inbox-as-art-voice-powered-ai-art-email-creativity-postmark-challenge-32mh)
-- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
-- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
-- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
+- [✅ The Real Role of Software Testing: It’s More Than Bug Hunting](https://dev.to/vaibhavkuls/the-real-role-of-software-testing-its-more-than-bug-hunting-22oa)
+- [🔗 Day 8 of Java Mastery: Concatenation in Java](https://dev.to/spyde/day-8-of-java-mastery-concatenation-in-java-omd)
+- [What’s the Agile Business Analyst &lpar;Agile BA&rpar; really doing in every Agile phase? https://truongbui.substack.com/p/role-of-an-agile-business-analyst](https://dev.to/truong/whats-the-agile-business-analyst-agile-ba-really-doing-in-every-agile-phase-d0f)
+- [Access an EC2 Instance Using Session Manager &lpar;Even Without SSH Keys](https://dev.to/sammy_cloud/access-an-ec2-instance-using-session-manager-even-without-ssh-keys-la1)
 <!-- BLOG-POST-LIST:END -->
 
