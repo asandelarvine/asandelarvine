@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step: Build Your First RAG Chatbot Fast](https://dev.to/startkabir/step-by-step-build-your-first-rag-chatbot-fast-3703)
-- [How Hard Can It Be? Building a Photo Sharing App Is Easy 😓](https://dev.to/wimadev/how-hard-can-it-be-building-a-photo-sharing-app-is-easy-19mo)
-- [Sumrise: Personal Spend Analyzer](https://dev.to/shriji/sumrise-personal-spend-analyzer-1df5)
-- [10 Years on GitHub: What I’ve Learned](https://dev.to/mathiasfc/10-years-on-github-what-ive-learned-4h8e)
+- [Personalized Learning Coach](https://dev.to/dobrenteiistvan/personalized-learning-coach-4m1c)
+- [Memory MCP with Semantic Search Support](https://dev.to/mehrant/-k1o)
+- [PIDM — Python Internet Download Manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-4ak9)
+- [Problem Solving Doesn’t Take a Break — Even on Eid-ul-Azha 2025](https://dev.to/mahmudulhaqueshawon/problem-solving-doesnt-take-a-break-even-on-eid-ul-azha-2025-4ajm)
 <!-- BLOG-POST-LIST:END -->
 
