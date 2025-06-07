@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deps](https://dev.to/fco/deps-453b)
-- [Index Negation Technique](https://dev.to/ashusharmacs/index-negation-technique-19ep)
-- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
-- [Data Structures Series #3: Binary Trees - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-3-binary-trees-implementation-use-cases-5dl5)
+- [Building a Phoenix LiveView Invoice Management App with Runner H](https://dev.to/hexshift/building-a-phoenix-liveview-invoice-management-app-with-runner-h-2hek)
+- [Building a Custom Cryptocurrency Candlestick Chart from Scratch with React](https://dev.to/radzion/building-a-custom-cryptocurrency-candlestick-chart-from-scratch-with-react-5gbk)
+- [Start with the problem statement and your mindset approach, then dive into the code journey.](https://dev.to/elhamnajeebullah/start-with-the-problem-statement-and-your-mindset-approach-then-dive-into-the-code-journey-4mm9)
+- [Research Experiment: Auto-Pricing SILVE via BNB on Binance Smart Chain](https://dev.to/quantum_shield1/research-experiment-auto-pricing-silve-via-bnb-on-binance-smart-chain-2mmn)
 <!-- BLOG-POST-LIST:END -->
 
