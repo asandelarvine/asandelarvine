@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Conditional Statements: if, elif, else Explained with Examples](https://dev.to/aadi_dawane_36464d534bb4c/python-conditional-statements-if-elif-else-explained-with-examples-ap8)
-- [Harmonyos Cangjie Language Development Practical Tutorial: Personal Center Page of Mall Application](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-practical-tutorial-personal-center-page-of-mall-application-29bm)
-- [Exploring the Limits of Asynchronous JavaScript with Fibers](https://dev.to/omriluz1/exploring-the-limits-of-asynchronous-javascript-with-fibers-md2)
-- [DNS records for Mail Server](https://dev.to/arifbasri/dns-records-for-mail-server-5ggb)
+- [🏠 Mailo: AI Email Replies, Seamlessly Delivered](https://dev.to/shravzzv/mailo-ai-email-replies-seamlessly-delivered-2lg6)
+- [# 🚀 Introducing `listine`: A Custom Virtual Scroll Library for Angular with True Dynamic Height Support](https://dev.to/hrssh_gupta_4775022de1d44/-introducing-listine-a-custom-virtual-scroll-library-for-angular-with-true-dynamic-height-258i)
+- [Harmonyos Ark UI network request](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-ark-ui-network-request-3pnm)
+- [Basic usage and tips of the HarmonyOS lightweight database DatabaseHelper](https://dev.to/liu_yang_fc0e605820ac220c/basic-usage-and-tips-of-the-harmonyos-lightweight-database-databasehelper-3oh0)
 <!-- BLOG-POST-LIST:END -->
 
