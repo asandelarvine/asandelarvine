@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ The Real Role of Software Testing: It’s More Than Bug Hunting](https://dev.to/vaibhavkuls/the-real-role-of-software-testing-its-more-than-bug-hunting-22oa)
-- [🔗 Day 8 of Java Mastery: Concatenation in Java](https://dev.to/spyde/day-8-of-java-mastery-concatenation-in-java-omd)
-- [What’s the Agile Business Analyst &lpar;Agile BA&rpar; really doing in every Agile phase? https://truongbui.substack.com/p/role-of-an-agile-business-analyst](https://dev.to/truong/whats-the-agile-business-analyst-agile-ba-really-doing-in-every-agile-phase-d0f)
-- [Access an EC2 Instance Using Session Manager &lpar;Even Without SSH Keys](https://dev.to/sammy_cloud/access-an-ec2-instance-using-session-manager-even-without-ssh-keys-la1)
+- [CC-my-Jira: Agentic JIRA Ticketing via Postmark](https://dev.to/youneslaaroussi/cc-my-jira-agentic-jira-ticketing-via-postmark-amf)
+- [Learning Go Interface Encapsulation from K8s](https://dev.to/leapcell/learning-go-interface-encapsulation-from-k8s-nnd)
+- [Am I good to go?](https://dev.to/boluwatifeilerioluwa/am-i-good-to-go-52m6)
+- [🎵 I Built the World&#39;s First Email Music Studio with Postmark](https://dev.to/1exer22/i-built-the-worlds-first-email-music-studio-with-postmark-l9l)
 <!-- BLOG-POST-LIST:END -->
 
