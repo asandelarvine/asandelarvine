@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
-- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
-- [Web Performansını Optimize Et: Her Saniye Sayar!](https://dev.to/yunus_emremert_1756b71d3/web-performansini-optimize-et-her-saniye-sayar-4b86)
-- [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://dev.to/taniguchitakara/videoprism-a-foundational-visual-encoder-for-video-understanding-k57)
+- [Deps](https://dev.to/fco/deps-453b)
+- [Index Negation Technique](https://dev.to/ashusharmacs/index-negation-technique-19ep)
+- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
+- [Data Structures Series #3: Binary Trees - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-3-binary-trees-implementation-use-cases-5dl5)
 <!-- BLOG-POST-LIST:END -->
 
