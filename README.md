@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Tools That Turn Junior Devs into Senior Engineers](https://dev.to/arunangshu_das/9-tools-that-turn-junior-devs-into-senior-engineers-j17)
-- [How to Sync Selected Range Across All Worksheets in Excel?](https://dev.to/excel24x7/how-to-sync-selected-range-across-all-worksheets-in-excel-4dbm)
-- [Building AI-Powered Image Apps with Gemini and Imagen on Vertex AI](https://dev.to/dataninsight/building-ai-powered-image-apps-with-gemini-and-imagen-on-vertex-ai-5d7f)
-- [SQL Vs NoSQL](https://dev.to/pooja_gujwar_bdcfc66105de/sql-vs-nosql-4m63)
+- [What Does a Front-End Developer Do?](https://dev.to/tarunfulera/what-does-a-front-end-developer-do-1jmi)
+- [Python Development](https://dev.to/bridgegroupsolutions/python-development-3ab5)
+- [Chapter 5: Final Touches &amp; Interactive Magic](https://dev.to/prasunchakra/chapter-5-final-touches-interactive-magic-1bdp)
+- [My first post in the community.](https://dev.to/ifeanyi_paul_olughu/my-first-post-in-the-community-580p)
 <!-- BLOG-POST-LIST:END -->
 
