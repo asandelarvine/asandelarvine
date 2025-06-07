@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100APIsOfCode : Day 3](https://dev.to/johns-dev-projects/100apisofcode-day-3-2k8p)
-- [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
-- [How I Automated My Tech Blog Workflow Using Runner H and AI](https://dev.to/extinctsion/how-i-automated-my-tech-blog-workflow-using-runner-h-and-ai-4h4)
-- [How to get AWS certification for beginners](https://dev.to/evolution25_4476ca8996573/how-to-get-aws-certification-for-beginners-4mnb)
+- [Explain the concept of garbage collection in Java. How can it be triggered manually?](https://dev.to/priya_yadav_f24ec65b0518b/explain-the-concept-of-garbage-collection-in-java-how-can-it-be-triggered-manually-53hn)
+- [Hello dev community I am ZiBi Tech 👨‍💻, passionate about cyber security and coding, hope I am welcome here🚀](https://dev.to/zibeon_webuin_5dae4283061/hello-dev-community-i-am-zibi-tech-passionate-about-cyber-security-and-coding-hope-i-am-3602)
+- [LEDGR - Receipts In, Insights Out. Automatically.](https://dev.to/ayesha_imr/ledgr-receipts-in-insights-out-automatically-4ek2)
+- [Advanced JavaScript Asynchronous With Async.js](https://dev.to/writech/advanced-javascript-asynchronous-with-asyncjs-3gmm)
 <!-- BLOG-POST-LIST:END -->
 
