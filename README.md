@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/solomonsojay/-2lo7)
-- [Tech bits 1 - Cypress screenshot errors in headless mode](https://dev.to/pakos/tech-bits-1-cypress-screenshot-errors-in-headless-mode-f1g)
-- [Azure SQL Database vs. SQL Managed Instance](https://dev.to/krupa_bhimani_1119cab2abc/azure-sql-database-vs-sql-managed-instance-1fch)
-- [I used Netflix subscription to understand their frontend system &amp; API design.](https://dev.to/nowaliraza/i-used-netflix-subscription-to-understand-their-frontend-system-api-design-40j1)
+- [Mission 5 Part One Meet for Coffee](https://dev.to/theoriginalbpc/mission-5-part-one-meet-for-coffee-2n6d)
+- [The GPU Hunger Games: My Epic Quest for Affordable Deep Learning Power &lpar;and a Jupyter Notebook That Just Works&rpar;](https://dev.to/rjvishwa/the-gpu-hunger-games-my-epic-quest-for-affordable-deep-learning-power-and-a-jupyter-notebook-that-2n5m)
+- [West Yorkshire Based Indie Locksmiths vs. Big National Locksmith Firms: A Comparison](https://dev.to/securityco371/west-yorkshire-based-indie-locksmiths-vs-big-national-locksmith-firms-a-comparison-1nkd)
+- [🚀 Just launched my new app: LinkList! 🔗📌](https://dev.to/ssekabirarobertsims/just-launched-my-new-app-linklist-8i0)
 <!-- BLOG-POST-LIST:END -->
 
