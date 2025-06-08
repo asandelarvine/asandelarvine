@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Dark theme &amp; Light theme in website](https://dev.to/capscode/add-dark-theme-light-theme-in-website-3lpl)
-- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
-- [Building Reliable Protected Routes with React Router v7](https://dev.to/ra1nbow1/building-reliable-protected-routes-with-react-router-v7-1ka0)
-- [Using BullMQ to Power AI Workflows &lpar;with Observability in Mind&rpar;](https://dev.to/lbd/using-bullmq-to-power-ai-workflows-with-observability-in-mind-1ieh)
+- [CodeReview Mail - Collaborative Development via Email](https://dev.to/aniruddhaadak/codereview-mail-collaborative-development-via-email-4022)
+- [DSA Pattern — Finding Common Characters From Words](https://dev.to/dev-alamin/dsa-pattern-finding-common-characters-from-words-5a5e)
+- [Learning Perl - Regular Expressions](https://dev.to/lnation/learning-perl-regular-expressions-1d4h)
+- [Building Scalable Cloud Infrastructure with Terraform on AWS](https://dev.to/kaif_shakeel/building-scalable-cloud-infrastructure-with-terraform-on-aws-27ak)
 <!-- BLOG-POST-LIST:END -->
 
