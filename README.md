@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Still Using Just One Type of Breakpoint?](https://dev.to/hiruthicsha/youre-still-using-just-one-type-of-breakpoint-1271)
-- [Safe Data Practices for AI Training &amp; Inference | AI Security series](https://dev.to/iamfaham/safe-data-practices-for-ai-training-inference-ai-security-series-1nl7)
-- [Workflows Are Not AI Agents: Selling Lies](https://dev.to/sfundomhlungu/workflows-are-not-ai-agents-selling-lies-8bg)
-- [How Do You See Yourself? A Coder or An Engineer.](https://dev.to/ayushhardeniya/how-do-you-see-yourself-a-coder-or-an-engineer-2dl4)
+- [Building a Strong Angular Portfolio: Beyond Code Samples](https://dev.to/karol_modelski/building-a-strong-angular-portfolio-beyond-code-samples-1bii)
+- [Building an AI Voice Assistant in 1 Minute &lpar;Mac Terminal&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-mac-terminal-3a5j)
+- [Day 18/30 - git stash --patch – Stash only specific changes interactively](https://dev.to/ruqaiya_beguwala/day-1830-git-stash-patch-stash-only-specific-changes-interactively-3ngp)
+- [How to deploy Kubernetes and Dapr together](https://dev.to/sirivarma/how-to-deploy-kubernetes-and-dapr-together-3ddn)
 <!-- BLOG-POST-LIST:END -->
 
