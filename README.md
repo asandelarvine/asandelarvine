@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won’t take your job – but your complacent laziness might!](https://dev.to/lowkey_dev_591/ai-wont-take-your-job-but-your-complacent-laziness-might-39d6)
-- [Amazon Bedrock Beats Paper: Troubleshooting LLM Hallucinations](https://dev.to/ahoughro/amazon-bedrock-beats-paper-troubleshooting-llm-hallucinations-4b30)
-- [Building an AI Voice Assistant in 1 Minute &lpar;Command Line&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-command-line-n4i)
-- [Meilisearch Filters: A Hands-On Guide for Developers](https://dev.to/shrsv/meilisearch-filters-a-hands-on-guide-for-developers-3bi5)
+- [[Boost]](https://dev.to/solomonsojay/-2lo7)
+- [Tech bits 1 - Cypress screenshot errors in headless mode](https://dev.to/pakos/tech-bits-1-cypress-screenshot-errors-in-headless-mode-f1g)
+- [Azure SQL Database vs. SQL Managed Instance](https://dev.to/krupa_bhimani_1119cab2abc/azure-sql-database-vs-sql-managed-instance-1fch)
+- [I used Netflix subscription to understand their frontend system &amp; API design.](https://dev.to/nowaliraza/i-used-netflix-subscription-to-understand-their-frontend-system-api-design-40j1)
 <!-- BLOG-POST-LIST:END -->
 
