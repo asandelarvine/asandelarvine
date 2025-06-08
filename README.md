@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with A2A and MCP Protocol: A Hands-on Implementation Guide](https://dev.to/vishalmysore/building-ai-agents-with-a2a-and-mcp-protocol-a-hands-on-implementation-guide-4fbl)
-- [RedTiger: Advanced Automated XSS Vulnerability Testing Tool](https://dev.to/medjahdi/redtiger-advanced-automated-xss-vulnerability-testing-tool-4pdn)
-- [How I Used ChatGPT to Identify Two Songs I Heard Once — Over 30 Years Ago](https://dev.to/dveb/how-i-used-chatgpt-to-identify-two-songs-i-heard-once-over-30-years-ago-28f8)
-- [🎉 Celebrating Festa Junina: Brazilian Tradition in Color and Motion](https://dev.to/jamesrmoro/celebrating-festa-junina-brazilian-tradition-in-color-and-motion-1f2k)
+- [Weekly #23-2025: AI Pair Programming Pitfalls, Four-Day Workweek Wins, Stepping Back for Perspective,&#39;Who Cares&#39; Era](https://dev.to/weekly/weekly-23-2025-ai-pair-programming-pitfalls-four-day-workweek-wins-stepping-back-for-4j0e)
+- [Deploying a NestJS and VueJS App with Dokploy](https://dev.to/vince155/deploying-a-nestjs-and-vuejs-app-with-dokploy-odl)
+- [[Boost]](https://dev.to/kwame_mensah_031f40132829/-3fna)
+- [Daily JavaScript Challenge #JS-201: Check for Balanced Parentheses](https://dev.to/dpc/daily-javascript-challenge-js-201-check-for-balanced-parentheses-2ool)
 <!-- BLOG-POST-LIST:END -->
 
