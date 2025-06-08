@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Know What About Me? Decoding My Digital Trail Across Major Platforms](https://dev.to/cloudiamo/you-know-what-about-me-decoding-my-digital-trail-across-major-platforms-3mbd)
-- [Kubernetes Deployments vs StatefulSets](https://dev.to/devopsdaily/kubernetes-deployments-vs-statefulsets-3m9b)
-- [Mock Me If You Can : Guide de Survie des Tests Logiciels](https://dev.to/yakadra/mock-me-if-you-can-guide-de-survie-des-tests-logiciels-4c9e)
-- [The Rise of AI-Powered Coding Tools: Cursor, Windsurf, and Beyond](https://dev.to/this-is-learning/the-rise-of-ai-powered-coding-tools-cursor-windsurf-and-beyond-1bla)
+- [AI won’t take your job – but your complacent laziness might!](https://dev.to/lowkey_dev_591/ai-wont-take-your-job-but-your-complacent-laziness-might-39d6)
+- [Amazon Bedrock Beats Paper: Troubleshooting LLM Hallucinations](https://dev.to/ahoughro/amazon-bedrock-beats-paper-troubleshooting-llm-hallucinations-4b30)
+- [Building an AI Voice Assistant in 1 Minute &lpar;Command Line&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-command-line-n4i)
+- [Meilisearch Filters: A Hands-On Guide for Developers](https://dev.to/shrsv/meilisearch-filters-a-hands-on-guide-for-developers-3bi5)
 <!-- BLOG-POST-LIST:END -->
 
