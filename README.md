@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Discipline of Returning: Prevent Code Erosion &amp; Build Resilient Systems](https://dev.to/tonystpierre/the-discipline-of-returning-prevent-code-erosion-build-resilient-systems-1kj6)
-- [Week 2 - of Learning AI](https://dev.to/distalx/week-2-of-learning-ai-jn0)
-- [🧱 Mastering CQRS with MediatR in C#](https://dev.to/mekobgs/mastering-cqrs-with-mediatr-in-c-51b9)
-- [Simplify Laravel Validation with the Rule Class](https://dev.to/mmramadan496/simplify-laravel-validation-with-the-rule-class-5aj2)
+- [MailFleet - Fleet Management Through Email](https://dev.to/ai_agi/mailfleet-fleet-management-through-email-158o)
+- [Best Time to Visit Mount Abu and Udaipur Alone?](https://dev.to/rajasthan_tourismbureau_/best-time-to-visit-mount-abu-and-udaipur-alone-53g4)
+- [How I Built A Contrast Checker For Accessibility In JavaScript](https://dev.to/thesyntaxdude/how-i-built-a-contrast-checker-for-accessibility-in-javascript-2c6m)
+- [How to create a Popover using React and Tailwind CSS](https://dev.to/swarupinfotech1/how-to-create-a-popover-using-react-and-tailwind-css-40on)
 <!-- BLOG-POST-LIST:END -->
 
