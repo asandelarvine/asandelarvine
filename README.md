@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Me Test ShareShard!](https://dev.to/scarabdata/help-me-test-shareshard-1d4g)
-- [PropertyFlow Mail - Smart Property Management](https://dev.to/ariondev/propertyflow-mail-smart-property-management-5gnm)
-- [Decoding the World: An Introduction to Machine Learning Paradigms](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-world-an-introduction-to-machine-learning-paradigms-6i1)
-- [StudyFlow Mail - Educational Assignment Management](https://dev.to/ariondev/studyflow-mail-educational-assignment-management-2n3c)
+- [You&#39;re Still Using Just One Type of Breakpoint?](https://dev.to/hiruthicsha/youre-still-using-just-one-type-of-breakpoint-1271)
+- [Safe Data Practices for AI Training &amp; Inference | AI Security series](https://dev.to/iamfaham/safe-data-practices-for-ai-training-inference-ai-security-series-1nl7)
+- [Workflows Are Not AI Agents: Selling Lies](https://dev.to/sfundomhlungu/workflows-are-not-ai-agents-selling-lies-8bg)
+- [How Do You See Yourself? A Coder or An Engineer.](https://dev.to/ayushhardeniya/how-do-you-see-yourself-a-coder-or-an-engineer-2dl4)
 <!-- BLOG-POST-LIST:END -->
 
