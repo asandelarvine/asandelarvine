@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass Cloud Certifications Without Any Technical Background](https://dev.to/cloudoku-training/how-to-pass-cloud-certifications-without-any-technical-background-57od)
-- [We are looking for people to work with us.](https://dev.to/terry_david_7cd0860d4261d/we-are-looking-for-people-to-work-with-us-38me)
-- [TrackLah!](https://dev.to/tanyonghe/tracklah-9e9)
-- [HarmonyOS Next IM Practical Combat: Handling So Dynamic Library Crash Issues](https://dev.to/qingkouwei/harmonyos-next-im-practical-combat-handling-so-dynamic-library-crash-issues-3ijj)
+- [A Simple Overview of The Modern RAG Developer’s Stack](https://dev.to/hasanulmukit/a-simple-overview-of-the-modern-rag-developers-stack-38ef)
+- [Compress File tool](https://dev.to/filemagichub/compress-file-tool-352e)
+- [🚀 LEDGR: AI-Powered Expense Tracker | Email-to-Expense Magic with Postmark &amp; Gemini AI](https://dev.to/jacksonkasi/ledgr-ai-powered-expense-tracker-email-to-expense-magic-with-postmark-gemini-ai-d2o)
+- [MailPlanet🌍: Visualize email origins on a global map](https://dev.to/ion_finisher/mailplanet-visualize-email-origins-on-a-global-map-33fo)
 <!-- BLOG-POST-LIST:END -->
 
