@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Generics in React Components: A Complete Guide](https://dev.to/jonathanguo/typescript-generics-in-react-components-a-complete-guide-1e88)
-- [Interested? Check this out to be a good DevOps engineer!! and most importantly to start out](https://dev.to/aayyusshh_69/interested-check-this-out-to-be-a-good-devops-engineer-and-most-importantly-to-start-out-4don)
-- [Global Query Filtering in EF Core](https://dev.to/shreyans_padmani/global-query-filtering-in-ef-core-28k0)
-- [Global Query Filtering in EF Core](https://dev.to/shreyans_padmani/global-query-filtering-in-ef-core-l1g)
+- [💥 Hinglish Programming Language: Code Ka Tadka! 🇮🇳✨](https://dev.to/pjdeveloper896/hinglish-programming-language-code-ka-tadka-230o)
+- [Which AI Agent Frameworks to Choose for Building Your First AI Agent &lpar;2025 Guide&rpar;](https://dev.to/meenakshi052003/which-ai-agent-frameworks-to-choose-for-building-your-first-ai-agent-2025-guide-mjb)
+- [Unleashing the Power of React Hooks: Revolutionizing State Management](https://dev.to/vjnvisakh/unleashing-the-power-of-react-hooks-revolutionizing-state-management-23n1)
+- [Web App Evolution in Java](https://dev.to/matin676/web-app-evolution-in-java-4628)
 <!-- BLOG-POST-LIST:END -->
 
