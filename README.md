@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Strong Angular Portfolio: Beyond Code Samples](https://dev.to/karol_modelski/building-a-strong-angular-portfolio-beyond-code-samples-1bii)
-- [Building an AI Voice Assistant in 1 Minute &lpar;Mac Terminal&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-mac-terminal-3a5j)
-- [Day 18/30 - git stash --patch – Stash only specific changes interactively](https://dev.to/ruqaiya_beguwala/day-1830-git-stash-patch-stash-only-specific-changes-interactively-3ngp)
-- [How to deploy Kubernetes and Dapr together](https://dev.to/sirivarma/how-to-deploy-kubernetes-and-dapr-together-3ddn)
+- [Boosting Digital Literacy: The Role of Online Learning Platforms in Empowering Students](https://dev.to/ghummantech/boosting-digital-literacy-the-role-of-online-learning-platforms-in-empowering-students-2edj)
+- [Advanced Integration of JavaScript with Native Code via FFI](https://dev.to/omriluz1/advanced-integration-of-javascript-with-native-code-via-ffi-47hl)
+- [Array.Map vs For...loop](https://dev.to/abhishekgowda28/arraymap-vs-forloop-34b3)
+- [𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝗶𝗻 𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗨𝘀𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗧𝗲𝗮𝗺𝘀](https://dev.to/supraja_tangella_b7f0738e/-n70)
 <!-- BLOG-POST-LIST:END -->
 
