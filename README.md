@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [June Celebrations: Pride In The Shadows, Still We Shine.](https://dev.to/tochi_/june-celebrations-pride-in-the-shadows-still-we-shine-40oi)
-- [Visualizing GPU Metrics with DCGM Exporter](https://dev.to/murajo/visualizing-gpu-metrics-with-dcgm-exporter-1268)
-- [Inbox Translator: Automatic Email Translation Made Easy](https://dev.to/adonaitechnologies/inbox-translator-automatic-email-translation-made-easy-2hc7)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-563k)
+- [Postmark Challenge: Publish to Dev.to Straight from Your Inbox](https://dev.to/razielrodrigues/postmark-challenge-publish-to-devto-straight-from-your-inbox-2aa6)
+- [Introducing Replyas: Shared Inbox, Simplified](https://dev.to/hyvip/introducing-replyas-shared-inbox-simplified-kll)
+- [Coping With Receiving Comments on Your Pull Requests](https://dev.to/carlosrambles/coping-with-receiving-comments-on-your-pull-requests-4fb8)
+- [Understanding Domain Authority: What It Is and How to Achieve a High Score](https://dev.to/cole_ruche/understanding-domain-authority-what-it-is-and-how-to-achieve-a-high-score-2c5g)
 <!-- BLOG-POST-LIST:END -->
 
