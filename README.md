@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Hinglish Programming Language: Code Ka Tadka! 🇮🇳✨](https://dev.to/pjdeveloper896/hinglish-programming-language-code-ka-tadka-230o)
-- [Which AI Agent Frameworks to Choose for Building Your First AI Agent &lpar;2025 Guide&rpar;](https://dev.to/meenakshi052003/which-ai-agent-frameworks-to-choose-for-building-your-first-ai-agent-2025-guide-mjb)
-- [Unleashing the Power of React Hooks: Revolutionizing State Management](https://dev.to/vjnvisakh/unleashing-the-power-of-react-hooks-revolutionizing-state-management-23n1)
-- [Web App Evolution in Java](https://dev.to/matin676/web-app-evolution-in-java-4628)
+- [Add Dark theme &amp; Light theme in website](https://dev.to/capscode/add-dark-theme-light-theme-in-website-3lpl)
+- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
+- [Building Reliable Protected Routes with React Router v7](https://dev.to/ra1nbow1/building-reliable-protected-routes-with-react-router-v7-1ka0)
+- [Using BullMQ to Power AI Workflows &lpar;with Observability in Mind&rpar;](https://dev.to/lbd/using-bullmq-to-power-ai-workflows-with-observability-in-mind-1ieh)
 <!-- BLOG-POST-LIST:END -->
 
