@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #23-2025: AI Pair Programming Pitfalls, Four-Day Workweek Wins, Stepping Back for Perspective,&#39;Who Cares&#39; Era](https://dev.to/weekly/weekly-23-2025-ai-pair-programming-pitfalls-four-day-workweek-wins-stepping-back-for-4j0e)
-- [Deploying a NestJS and VueJS App with Dokploy](https://dev.to/vince155/deploying-a-nestjs-and-vuejs-app-with-dokploy-odl)
-- [[Boost]](https://dev.to/kwame_mensah_031f40132829/-3fna)
-- [Daily JavaScript Challenge #JS-201: Check for Balanced Parentheses](https://dev.to/dpc/daily-javascript-challenge-js-201-check-for-balanced-parentheses-2ool)
+- [The Discipline of Returning: Prevent Code Erosion &amp; Build Resilient Systems](https://dev.to/tonystpierre/the-discipline-of-returning-prevent-code-erosion-build-resilient-systems-1kj6)
+- [Week 2 - of Learning AI](https://dev.to/distalx/week-2-of-learning-ai-jn0)
+- [🧱 Mastering CQRS with MediatR in C#](https://dev.to/mekobgs/mastering-cqrs-with-mediatr-in-c-51b9)
+- [Simplify Laravel Validation with the Rule Class](https://dev.to/mmramadan496/simplify-laravel-validation-with-the-rule-class-5aj2)
 <!-- BLOG-POST-LIST:END -->
 
