@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Overview of The Modern RAG Developer’s Stack](https://dev.to/hasanulmukit/a-simple-overview-of-the-modern-rag-developers-stack-38ef)
-- [Compress File tool](https://dev.to/filemagichub/compress-file-tool-352e)
-- [🚀 LEDGR: AI-Powered Expense Tracker | Email-to-Expense Magic with Postmark &amp; Gemini AI](https://dev.to/jacksonkasi/ledgr-ai-powered-expense-tracker-email-to-expense-magic-with-postmark-gemini-ai-d2o)
-- [MailPlanet🌍: Visualize email origins on a global map](https://dev.to/ion_finisher/mailplanet-visualize-email-origins-on-a-global-map-33fo)
+- [You Know What About Me? Decoding My Digital Trail Across Major Platforms](https://dev.to/cloudiamo/you-know-what-about-me-decoding-my-digital-trail-across-major-platforms-3mbd)
+- [Kubernetes Deployments vs StatefulSets](https://dev.to/devopsdaily/kubernetes-deployments-vs-statefulsets-3m9b)
+- [Mock Me If You Can : Guide de Survie des Tests Logiciels](https://dev.to/yakadra/mock-me-if-you-can-guide-de-survie-des-tests-logiciels-4c9e)
+- [The Rise of AI-Powered Coding Tools: Cursor, Windsurf, and Beyond](https://dev.to/this-is-learning/the-rise-of-ai-powered-coding-tools-cursor-windsurf-and-beyond-1bla)
 <!-- BLOG-POST-LIST:END -->
 
