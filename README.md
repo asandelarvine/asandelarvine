@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Digital Literacy: The Role of Online Learning Platforms in Empowering Students](https://dev.to/ghummantech/boosting-digital-literacy-the-role-of-online-learning-platforms-in-empowering-students-2edj)
-- [Advanced Integration of JavaScript with Native Code via FFI](https://dev.to/omriluz1/advanced-integration-of-javascript-with-native-code-via-ffi-47hl)
-- [Array.Map vs For...loop](https://dev.to/abhishekgowda28/arraymap-vs-forloop-34b3)
-- [𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝗶𝗻 𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗨𝘀𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗧𝗲𝗮𝗺𝘀](https://dev.to/supraja_tangella_b7f0738e/-n70)
+- [TypeScript Generics in React Components: A Complete Guide](https://dev.to/jonathanguo/typescript-generics-in-react-components-a-complete-guide-1e88)
+- [Interested? Check this out to be a good DevOps engineer!! and most importantly to start out](https://dev.to/aayyusshh_69/interested-check-this-out-to-be-a-good-devops-engineer-and-most-importantly-to-start-out-4don)
+- [Global Query Filtering in EF Core](https://dev.to/shreyans_padmani/global-query-filtering-in-ef-core-28k0)
+- [Global Query Filtering in EF Core](https://dev.to/shreyans_padmani/global-query-filtering-in-ef-core-l1g)
 <!-- BLOG-POST-LIST:END -->
 
