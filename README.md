@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Screw your favorite programming language](https://dev.to/danytulumidis/screw-your-favorite-programming-language-40c0)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-gbo)
-- [Mail-Guide-AI: AI-Powered Email Management with Postmark Integration](https://dev.to/contractorx/mail-guide-ai-ai-powered-email-management-with-postmark-integration-5dof)
-- [How I make my site searchable in 2 minutes](https://dev.to/technoph1le/how-i-make-my-site-searchable-in-2-minutes-48ok)
+- [June Celebrations: Pride In The Shadows, Still We Shine.](https://dev.to/tochi_/june-celebrations-pride-in-the-shadows-still-we-shine-40oi)
+- [Visualizing GPU Metrics with DCGM Exporter](https://dev.to/murajo/visualizing-gpu-metrics-with-dcgm-exporter-1268)
+- [Inbox Translator: Automatic Email Translation Made Easy](https://dev.to/adonaitechnologies/inbox-translator-automatic-email-translation-made-easy-2hc7)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-563k)
 <!-- BLOG-POST-LIST:END -->
 
