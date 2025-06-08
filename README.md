@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB with AWS EnhancedClient v2.x - Schemas and data serialization made easy](https://dev.to/neeldev96/dynamodb-with-aws-enhancedclient-v2x-schemas-and-data-serialization-made-easy-307i)
-- [🤖 The Sensational Machine](https://dev.to/j_t/the-sensational-machine-4164)
-- [CodeReview Mail - Collaborative Development via Email](https://dev.to/aniruddhaadak/codereview-mail-collaborative-development-via-email-4022)
-- [DSA Pattern — Finding Common Characters From Words](https://dev.to/dev-alamin/dsa-pattern-finding-common-characters-from-words-5a5e)
+- [How to Pass Cloud Certifications Without Any Technical Background](https://dev.to/cloudoku-training/how-to-pass-cloud-certifications-without-any-technical-background-57od)
+- [We are looking for people to work with us.](https://dev.to/terry_david_7cd0860d4261d/we-are-looking-for-people-to-work-with-us-38me)
+- [TrackLah!](https://dev.to/tanyonghe/tracklah-9e9)
+- [HarmonyOS Next IM Practical Combat: Handling So Dynamic Library Crash Issues](https://dev.to/qingkouwei/harmonyos-next-im-practical-combat-handling-so-dynamic-library-crash-issues-3ijj)
 <!-- BLOG-POST-LIST:END -->
 
