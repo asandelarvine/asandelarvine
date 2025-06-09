@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing props size in Sitecore XM Cloud Next.js to improve performance](https://dev.to/sebasab/reducing-props-size-in-sitecore-xm-cloud-nextjs-to-improve-performance-1850)
-- [Dependency Injection vs Service Locator](https://dev.to/ivorobioff/dependency-injection-vs-service-locator-4keb)
-- [Tidbit 03: innerText vs textContent in JavaScript – Not Twins, Just Cousins!](https://dev.to/atapas/tidbit-03-innertext-vs-textcontent-in-javascript-not-twins-just-cousins-3i4a)
-- [Build an AI Meeting Assistant with Stream Video and LLMs](https://dev.to/getstreamhq/build-an-ai-meeting-assistant-with-stream-video-and-llms-4kah)
+- [Real-Time Notifications: Building a Smart Fence IoT Alert System](https://dev.to/karen_londres/real-time-notifications-building-a-smart-fence-iot-alert-system-4hgb)
+- [🚀 Streamline Your Python &amp; Django Development with Production-Ready Cookiecutter Templates](https://dev.to/huynguyengl99/streamline-your-python-django-development-with-production-ready-cookiecutter-templates-455o)
+- [QuCode - 21DaysChallenge - Day 08](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-08-20ni)
+- [Revolutionize Onboarding with PLG OS](https://dev.to/plgosblogs/revolutionize-onboarding-with-plg-os-22j5)
 <!-- BLOG-POST-LIST:END -->
 
