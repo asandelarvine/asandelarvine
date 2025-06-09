@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Notifications: Building a Smart Fence IoT Alert System](https://dev.to/karen_londres/real-time-notifications-building-a-smart-fence-iot-alert-system-4hgb)
-- [🚀 Streamline Your Python &amp; Django Development with Production-Ready Cookiecutter Templates](https://dev.to/huynguyengl99/streamline-your-python-django-development-with-production-ready-cookiecutter-templates-455o)
-- [QuCode - 21DaysChallenge - Day 08](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-08-20ni)
-- [Revolutionize Onboarding with PLG OS](https://dev.to/plgosblogs/revolutionize-onboarding-with-plg-os-22j5)
+- [SQL COALESCE in Postgres: A Simple Guide](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl)
+- [&quot;Schema Later&quot; considered harmful 👉🏻 schema validation](https://dev.to/franckpachot/schema-later-considered-harmful-use-schema-validation-in-mongodb-364o)
+- [[Boost]](https://dev.to/gzapico/-p9p)
+- [Ultimate Mobile App Testing Checklist for Developers &amp; Testers](https://dev.to/morrismoses149/ultimate-mobile-app-testing-checklist-for-developers-testers-2499)
 <!-- BLOG-POST-LIST:END -->
 
