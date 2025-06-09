@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VoiceMailMaster](https://dev.to/abdussamadbello/voicemailmaster-4930)
-- [Top 5 Mistakes I Made as a Beginner Web Developer](https://dev.to/vjygour/top-5-mistakes-i-made-as-a-beginner-web-developer-4k82)
-- [Applying matching algorithms to real allocation problems. Part 2](https://dev.to/denissudak/applying-matching-algorithms-to-real-allocation-problems-part-2-3ami)
-- [HealthSync Mail - Medical Appointment Coordination](https://dev.to/ariondev/healthsync-mail-medical-appointment-coordination-598c)
+- [[Boost]](https://dev.to/danyearl/-1d82)
+- [🧠 What are Pages &lpar;in OS/memory&rpar;?](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
+- [Day 5 — Real-World Parameter Integration in FastAPI &lpar;Path + Query + Body&rpar;](https://dev.to/aws-builders/day-5-real-world-parameter-integration-in-fastapi-path-query-body-2nof)
+- [Como apliquei POO em um projeto pessoal pequeno: um estudo de caso de um Console App C#](https://dev.to/matheustmendes_/como-apliquei-poo-em-um-projeto-pessoal-pequeno-um-estudo-de-caso-de-um-console-app-c-4jo9)
 <!-- BLOG-POST-LIST:END -->
 
