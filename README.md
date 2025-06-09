@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Burned Out on Current Language Apps? Try This 30-Day Mastery Challenge](https://dev.to/yap2learn/burned-out-on-current-language-apps-try-this-30-day-mastery-challenge-o2a)
-- [Building a Modern Grep Alternative for Windows with .NET 9.0](https://dev.to/valginer0/building-a-modern-grep-alternative-for-windows-with-net-90-3k49)
-- [Learning Perl - Object Orientation](https://dev.to/lnationorg/learning-perl-object-orientation-2o0e)
-- [100 Days of Code – Python Roadmap](https://dev.to/riska997/100-days-of-code-python-roadmap-3hhc)
+- [C# Override Records ToString](https://dev.to/karenpayneoregon/c-override-records-tostring-50e7)
+- [The Algorithmic Tightrope: Navigating AI Collaboration and the New Workplace Divides](https://dev.to/vaib/the-algorithmic-tightrope-navigating-ai-collaboration-and-the-new-workplace-divides-a6o)
+- [Fixing “exit code: 255” in AWS CodeBuild](https://dev.to/moyarich/fixing-exit-code-255-in-aws-codebuild-no7)
+- [How Solo Developers Can Launch and Market Their Own Apps](https://dev.to/thevisibilitylab/how-solo-developers-can-launch-and-market-their-own-apps-9bc)
 <!-- BLOG-POST-LIST:END -->
 
