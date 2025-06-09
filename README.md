@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL COALESCE in Postgres: A Simple Guide](https://dev.to/mayallo/sql-coalesce-in-postgres-a-simple-guide-48nl)
-- [&quot;Schema Later&quot; considered harmful 👉🏻 schema validation](https://dev.to/franckpachot/schema-later-considered-harmful-use-schema-validation-in-mongodb-364o)
-- [[Boost]](https://dev.to/gzapico/-p9p)
-- [Ultimate Mobile App Testing Checklist for Developers &amp; Testers](https://dev.to/morrismoses149/ultimate-mobile-app-testing-checklist-for-developers-testers-2499)
+- [Implementing Low-Level Protocols with TypeScript](https://dev.to/hootan09/implementing-low-level-protocols-with-typescript-1bd2)
+- [Unlock Your DevOps Potential with KodeKloud Engineer](https://dev.to/odenyire/unlock-your-devops-potential-with-kodekloud-engineer-31gd)
+- [🚀 Exploring Serverless Architecture with AWS Lambda](https://dev.to/ahamed_ahnaf_84f1b6cdf9de/exploring-serverless-architecture-with-aws-lambda-353n)
+- [Practical FinOps Tips for AWS Cost Optimization](https://dev.to/kochereshchenko/practical-finops-tips-for-aws-cost-optimization-8ol)
 <!-- BLOG-POST-LIST:END -->
 
