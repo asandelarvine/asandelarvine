@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Override Records ToString](https://dev.to/karenpayneoregon/c-override-records-tostring-50e7)
-- [The Algorithmic Tightrope: Navigating AI Collaboration and the New Workplace Divides](https://dev.to/vaib/the-algorithmic-tightrope-navigating-ai-collaboration-and-the-new-workplace-divides-a6o)
-- [Fixing “exit code: 255” in AWS CodeBuild](https://dev.to/moyarich/fixing-exit-code-255-in-aws-codebuild-no7)
-- [How Solo Developers Can Launch and Market Their Own Apps](https://dev.to/thevisibilitylab/how-solo-developers-can-launch-and-market-their-own-apps-9bc)
+- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
+- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
+- [Software Architecture Needs a Rethink &lpar;Because AI Isn&#39;t Waiting&rpar;](https://dev.to/enricopiovesan/software-architecture-needs-a-rethink-because-ai-isnt-waiting-31me)
+- [12 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
 <!-- BLOG-POST-LIST:END -->
 
