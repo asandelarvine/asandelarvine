@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Low-Level Protocols with TypeScript](https://dev.to/hootan09/implementing-low-level-protocols-with-typescript-1bd2)
-- [Unlock Your DevOps Potential with KodeKloud Engineer](https://dev.to/odenyire/unlock-your-devops-potential-with-kodekloud-engineer-31gd)
-- [🚀 Exploring Serverless Architecture with AWS Lambda](https://dev.to/ahamed_ahnaf_84f1b6cdf9de/exploring-serverless-architecture-with-aws-lambda-353n)
-- [Practical FinOps Tips for AWS Cost Optimization](https://dev.to/kochereshchenko/practical-finops-tips-for-aws-cost-optimization-8ol)
+- [Stop Overpaying: 3 Cheaper Alternatives to DigitalOcean VPS](https://dev.to/tuliocalil/stop-overpaying-3-cheaper-alternatives-to-digitalocean-vps-449)
+- [How to Install Qwen3 Embedding 8B: Best Model for RAG, Search, &amp; Multilingual Embeddings](https://dev.to/nodeshiftcloud/how-to-install-qwen3-embedding-8b-best-model-for-rag-search-multilingual-embeddings-4kb)
+- [How to Install and Run Xiaomi MiMo-VL Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-xiaomi-mimo-vl-locally-4mpo)
+- [I Just Released My Personal Password Manager App — CyberSafe](https://dev.to/dducnv/i-just-released-my-personal-password-manager-app-cybersafe-kom)
 <!-- BLOG-POST-LIST:END -->
 
