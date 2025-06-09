@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
-- [Architecting a Scalable Voice Cloning Platform on AWS: A Case Study](https://dev.to/semperfitodd/architecting-a-scalable-voice-cloning-platform-on-aws-a-case-study-20e6)
-- [Harmonyos Next Cangjie Language Development Practical Tutorial: Store Detail Page](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-store-detail-page-24db)
-- [Python Dictionary Methods All in One](https://dev.to/theonlineaid/python-dictionary-methods-all-in-one-3n6o)
+- [Reducing props size in Sitecore XM Cloud Next.js to improve performance](https://dev.to/sebasab/reducing-props-size-in-sitecore-xm-cloud-nextjs-to-improve-performance-1850)
+- [Dependency Injection vs Service Locator](https://dev.to/ivorobioff/dependency-injection-vs-service-locator-4keb)
+- [Tidbit 03: innerText vs textContent in JavaScript – Not Twins, Just Cousins!](https://dev.to/atapas/tidbit-03-innertext-vs-textcontent-in-javascript-not-twins-just-cousins-3i4a)
+- [Build an AI Meeting Assistant with Stream Video and LLMs](https://dev.to/getstreamhq/build-an-ai-meeting-assistant-with-stream-video-and-llms-4kah)
 <!-- BLOG-POST-LIST:END -->
 
