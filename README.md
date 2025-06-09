@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vite File Read Vulnerability Exposed &lpar;CVE-2025-30208&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/vite-file-read-vulnerability-exposed-cve-2025-30208-16nb)
-- [One Inbox to Rule Them All: My Personalized Newsletter Digest App](https://dev.to/awesomedeva/one-inbox-to-rule-them-all-my-personalized-newsletter-digest-app-2k50)
-- [Most Accurate Translator Tool: What to Look for](https://dev.to/liamcorwin/most-accurate-translator-tool-what-to-look-for-k73)
-- [Instant Dataverse Functions &amp; Low-Code Plug-ins](https://dev.to/wyattdave/instant-dataverse-functions-low-code-plug-ins-2l20)
+- [Reverse Proxy vs WAF: What&#39;s the Real Difference?](https://dev.to/sharon_42e16b8da44dabde6d/reverse-proxy-vs-waf-whats-the-real-difference-m0j)
+- [Invoice Tracker - Automate Your Expense Monitoring Using Gmail, Gemini &amp; Postmark](https://dev.to/abhishek_satpathy_c5d1120/invoice-tracker-automate-your-expense-monitoring-using-gmail-gemini-postmark-gmd)
+- [VoiceMail: Your Inbox, Unchained by Voice](https://dev.to/anik2812/voicemail-your-inbox-unchained-by-voice-4a00)
+- [The Homework Genie: Just Email It!](https://dev.to/bhavna_b_baa952ae51dac930/the-homework-genie-just-email-it-44fd)
 <!-- BLOG-POST-LIST:END -->
 
