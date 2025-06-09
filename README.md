@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Architecture Design from K8s](https://dev.to/leapcell/learning-architecture-design-from-k8s-2dd9)
-- [Stop Overpaying: 3 Cheaper Alternatives to DigitalOcean VPS](https://dev.to/tuliocalil/stop-overpaying-3-cheaper-alternatives-to-digitalocean-vps-449)
-- [How to Install Qwen3 Embedding 8B: Best Model for RAG, Search, &amp; Multilingual Embeddings](https://dev.to/nodeshiftcloud/how-to-install-qwen3-embedding-8b-best-model-for-rag-search-multilingual-embeddings-4kb)
-- [MCP OAuth on AWS Lambda with WorkOS](https://dev.to/aws-builders/mcp-oauth-on-aws-lambda-with-workos-129)
+- [Story Hero - Day 2 Update](https://dev.to/danielreiling/story-hero-day-2-update-1h78)
+- [What&#39;s New at Sliplane: Faster Builds, SSH Access, APIs, Dedicated Power](https://dev.to/code42cate/whats-new-at-sliplane-faster-builds-ssh-access-apis-dedicated-power-4a76)
+- [Docker + Ansible: The Clean Way to Automate Infrastructure](https://dev.to/lovestaco/docker-ansible-the-clean-way-to-automate-infrastructure-5gmi)
+- [Story Hero - Day 1 Update](https://dev.to/danielreiling/story-hero-day-1-update-4ek8)
 <!-- BLOG-POST-LIST:END -->
 
