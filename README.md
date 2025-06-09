@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Story Hero - Day 2 Update](https://dev.to/danielreiling/story-hero-day-2-update-1h78)
-- [What&#39;s New at Sliplane: Faster Builds, SSH Access, APIs, Dedicated Power](https://dev.to/code42cate/whats-new-at-sliplane-faster-builds-ssh-access-apis-dedicated-power-4a76)
-- [Docker + Ansible: The Clean Way to Automate Infrastructure](https://dev.to/lovestaco/docker-ansible-the-clean-way-to-automate-infrastructure-5gmi)
-- [Story Hero - Day 1 Update](https://dev.to/danielreiling/story-hero-day-1-update-4ek8)
+- [Burned Out on Current Language Apps? Try This 30-Day Mastery Challenge](https://dev.to/yap2learn/burned-out-on-current-language-apps-try-this-30-day-mastery-challenge-o2a)
+- [Building a Modern Grep Alternative for Windows with .NET 9.0](https://dev.to/valginer0/building-a-modern-grep-alternative-for-windows-with-net-90-3k49)
+- [Learning Perl - Object Orientation](https://dev.to/lnationorg/learning-perl-object-orientation-2o0e)
+- [100 Days of Code – Python Roadmap](https://dev.to/riska997/100-days-of-code-python-roadmap-3hhc)
 <!-- BLOG-POST-LIST:END -->
 
