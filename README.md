@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mail to Blog: Publish to Blog using Email](https://dev.to/gigaarpit/mail-to-blog-publish-to-blog-using-email-3imn)
-- [Postmark Challenge: Publish to Dev.to Straight from Your Inbox 📖](https://dev.to/razielrodrigues/postmark-challenge-publish-to-devto-straight-from-your-inbox-e16)
-- [Redesignr.ai: The Fastest Way to Redesign or Rebuild Your Website with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-the-fastest-way-to-redesign-or-rebuild-your-website-with-ai-4dhk)
-- [Introducing Replyas: Shared Inbox, Simplified](https://dev.to/hyvip/introducing-replyas-shared-inbox-simplified-kll)
+- [VoiceMailMaster](https://dev.to/abdussamadbello/voicemailmaster-4930)
+- [Top 5 Mistakes I Made as a Beginner Web Developer](https://dev.to/vjygour/top-5-mistakes-i-made-as-a-beginner-web-developer-4k82)
+- [Applying matching algorithms to real allocation problems. Part 2](https://dev.to/denissudak/applying-matching-algorithms-to-real-allocation-problems-part-2-3ami)
+- [HealthSync Mail - Medical Appointment Coordination](https://dev.to/ariondev/healthsync-mail-medical-appointment-coordination-598c)
 <!-- BLOG-POST-LIST:END -->
 
