@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Architecture Design from K8s](https://dev.to/leapcell/learning-architecture-design-from-k8s-2dd9)
 - [Stop Overpaying: 3 Cheaper Alternatives to DigitalOcean VPS](https://dev.to/tuliocalil/stop-overpaying-3-cheaper-alternatives-to-digitalocean-vps-449)
 - [How to Install Qwen3 Embedding 8B: Best Model for RAG, Search, &amp; Multilingual Embeddings](https://dev.to/nodeshiftcloud/how-to-install-qwen3-embedding-8b-best-model-for-rag-search-multilingual-embeddings-4kb)
-- [How to Install and Run Xiaomi MiMo-VL Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-xiaomi-mimo-vl-locally-4mpo)
-- [I Just Released My Personal Password Manager App — CyberSafe](https://dev.to/dducnv/i-just-released-my-personal-password-manager-app-cybersafe-kom)
+- [MCP OAuth on AWS Lambda with WorkOS](https://dev.to/aws-builders/mcp-oauth-on-aws-lambda-with-workos-129)
 <!-- BLOG-POST-LIST:END -->
 
