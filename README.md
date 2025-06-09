@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Engine: Inside Uvicorn, Building a Fast ASGI Server in Pure Python](https://dev.to/leapcell/fastapi-engine-inside-uvicorn-building-a-fast-asgi-server-in-pure-python-392n)
-- [Meet the New CYPRESS-SCHEMA-VALIDATOR: When ZOD Joined Forces with AJV for the Ultimate Validation Duo!](https://dev.to/sebastianclavijo/meet-the-new-cypress-schema-validator-when-zod-joined-forces-with-ajv-for-the-ultimate-validation-2o73)
-- [REST-assured API Testing Framework: Complete Guide with Real-World Examples](https://dev.to/luzkalidgm/applying-rest-assured-api-testing-framework-real-world-examples-5coj)
-- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
+- [Vite File Read Vulnerability Exposed &lpar;CVE-2025-30208&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/vite-file-read-vulnerability-exposed-cve-2025-30208-16nb)
+- [One Inbox to Rule Them All: My Personalized Newsletter Digest App](https://dev.to/awesomedeva/one-inbox-to-rule-them-all-my-personalized-newsletter-digest-app-2k50)
+- [Most Accurate Translator Tool: What to Look for](https://dev.to/liamcorwin/most-accurate-translator-tool-what-to-look-for-k73)
+- [Instant Dataverse Functions &amp; Low-Code Plug-ins](https://dev.to/wyattdave/instant-dataverse-functions-low-code-plug-ins-2l20)
 <!-- BLOG-POST-LIST:END -->
 
