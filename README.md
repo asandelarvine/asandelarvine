@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Local LLM Tools and Models in 2025](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2025-47o7)
-- [&quot;Krishi Rakshak: Lightweight EfficientNet-Based Crop Disease Classifier&quot;](https://dev.to/vikas_sahani_3a7e2706846c/krishi-rakshak-lightweight-efficientnet-based-crop-disease-classifier-5bd6)
-- [Docker Multi-Stage Builds: Your Secret Weapon for Lean, Mean Container Machines](https://dev.to/oluwajubelo1/docker-multi-stage-builds-your-secret-weapon-for-lean-mean-container-machines-hl8)
-- [Understanding Local and Remote Model Context Protocols](https://dev.to/apideck/understanding-local-and-remote-model-context-protocols-5b26)
+- [The Rust Renaissance: Why OpenAI and the Tech World Are Shifting from Node.js for High-Performance Tools](https://dev.to/platypus98/the-rust-renaissance-why-openai-and-the-tech-world-are-shifting-from-nodejs-for-high-performance-5561)
+- [How to Migrate a PostgreSQL Database to Another Server](https://dev.to/hostman_com/how-to-migrate-a-postgresql-database-to-another-server-56dj)
+- [Charts in CSS](https://dev.to/madsstoumann/charts-in-css-1di1)
+- [Lists, Tuples, Sets, and Dictionaries in Python](https://dev.to/khushii_34ceada974a6bfcc2/lists-tuples-sets-and-dictionaries-in-python-368j)
 <!-- BLOG-POST-LIST:END -->
 
