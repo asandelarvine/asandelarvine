@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/danyearl/-1d82)
-- [🧠 What are Pages &lpar;in OS/memory&rpar;?](https://dev.to/sajidurshajib/what-are-pages-in-osmemory-46gc)
-- [Day 5 — Real-World Parameter Integration in FastAPI &lpar;Path + Query + Body&rpar;](https://dev.to/aws-builders/day-5-real-world-parameter-integration-in-fastapi-path-query-body-2nof)
-- [Como apliquei POO em um projeto pessoal pequeno: um estudo de caso de um Console App C#](https://dev.to/matheustmendes_/como-apliquei-poo-em-um-projeto-pessoal-pequeno-um-estudo-de-caso-de-um-console-app-c-4jo9)
+- [🚀 We&#39;re Hiring at Nexthink!](https://dev.to/ml318097/were-hiring-at-nexthink-2kg7)
+- [Developers, meet your new favorite feed](https://dev.to/ml318097/developers-meet-your-new-favorite-feed-21c6)
+- [⌨️ Boost Your Workflow with Keyboard Shortcuts! ⚡](https://dev.to/ml318097/boost-your-workflow-with-keyboard-shortcuts-33ka)
+- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
 <!-- BLOG-POST-LIST:END -->
 
