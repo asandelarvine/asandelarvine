@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 We&#39;re Hiring at Nexthink!](https://dev.to/ml318097/were-hiring-at-nexthink-2kg7)
-- [Developers, meet your new favorite feed](https://dev.to/ml318097/developers-meet-your-new-favorite-feed-21c6)
-- [⌨️ Boost Your Workflow with Keyboard Shortcuts! ⚡](https://dev.to/ml318097/boost-your-workflow-with-keyboard-shortcuts-33ka)
-- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
+- [FastAPI Engine: Inside Uvicorn, Building a Fast ASGI Server in Pure Python](https://dev.to/leapcell/fastapi-engine-inside-uvicorn-building-a-fast-asgi-server-in-pure-python-392n)
+- [Meet the New CYPRESS-SCHEMA-VALIDATOR: When ZOD Joined Forces with AJV for the Ultimate Validation Duo!](https://dev.to/sebastianclavijo/meet-the-new-cypress-schema-validator-when-zod-joined-forces-with-ajv-for-the-ultimate-validation-2o73)
+- [REST-assured API Testing Framework: Complete Guide with Real-World Examples](https://dev.to/luzkalidgm/applying-rest-assured-api-testing-framework-real-world-examples-5coj)
+- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
 <!-- BLOG-POST-LIST:END -->
 
