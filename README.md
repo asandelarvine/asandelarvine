@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Growing Dominance of Next.js Over Raw React in Modern Web Development](https://dev.to/tamjid_ahmed_e9bea176abee/the-growing-dominance-of-nextjs-over-raw-react-in-modern-web-development-8p5)
-- [When Modern Frameworks Fail, These 6 Patterns Save the Day](https://dev.to/tawe/when-modern-frameworks-fail-these-6-patterns-save-the-day-bfg)
-- [A New Technology You Should Know: Seelen-UI](https://dev.to/kpcofgs/a-new-technology-you-should-know-seelen-ui-4cgi)
-- [How To Instantly Create Stunning Professional Diagrams From Hand-Drawn Sketches Online](https://dev.to/ybouane/how-to-instantly-create-stunning-professional-diagrams-from-hand-drawn-sketches-online-2oib)
+- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
+- [Architecting a Scalable Voice Cloning Platform on AWS: A Case Study](https://dev.to/semperfitodd/architecting-a-scalable-voice-cloning-platform-on-aws-a-case-study-20e6)
+- [Harmonyos Next Cangjie Language Development Practical Tutorial: Store Detail Page](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-store-detail-page-24db)
+- [Python Dictionary Methods All in One](https://dev.to/theonlineaid/python-dictionary-methods-all-in-one-3n6o)
 <!-- BLOG-POST-LIST:END -->
 
