@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Session Manager but in Azure? Introducing Azure Bastion](https://dev.to/ppabis/aws-session-manager-but-in-azure-introducing-azure-bastion-2597)
-- [100+ Downloads in One Day!](https://dev.to/pjdeveloper896/100-downloads-in-one-day-1ggn)
-- [Java Inheritance](https://dev.to/prasanth362k/java-inheritance-1ha7)
-- [Top SaaS Trends in 2025: What Developers &amp; Startups Need to Know](https://dev.to/davidsadler/top-saas-trends-in-2025-what-developers-startups-need-to-know-3med)
+- [Firmware Dev](https://dev.to/sharanund/firmware-dev-37li)
+- [Read This Before OOP-ing Your Project : The Curse of Inheritance.](https://dev.to/sfundomhlungu/read-this-before-oop-ing-your-project-the-curse-of-inheritance-52hi)
+- [Kubernetes Fundamentals: A Beginner’s Guide to Modern Container Orchestration](https://dev.to/sindhuja_ns_1e491ce1088d/kubernetes-fundamentals-a-beginners-guide-to-modern-container-orchestration-3002)
+- [Building High-Performance Web3 Infrastructure @ EvaCodes](https://dev.to/illia_kuzmenko_24d533cb0d/building-high-performance-web3-infrastructure-evacodes-436l)
 <!-- BLOG-POST-LIST:END -->
 
