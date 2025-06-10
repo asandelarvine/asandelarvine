@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Execution Policy Error in npm](https://dev.to/doccaio/execution-policy-error-in-npm-2a52)
-- [Erro de política de execução npm](https://dev.to/doccaio/erro-de-politica-de-execucao-npm-le5)
-- [The Resilience Factor: Learn to Bounce Back from Adversity in Life](https://dev.to/shed_son_8667cd19f0263a67/the-resilience-factor-learn-to-bounce-back-from-adversity-in-life-4783)
-- [Hyperware: Dev tools to build in Web3](https://dev.to/sean_hyperware/hyperware-dev-tools-to-build-in-web3-f82)
+- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_3594517b83e72d/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
+- [How AI Is Changing the Estate Planning Attorney’s Role](https://dev.to/dalton_abreshears/how-ai-is-changing-the-estate-planning-attorneys-role-2pb5)
+- [How i validated my MVP without investing any cents on it using cloudflared tunnel](https://dev.to/adamsnows/creating-your-own-vps-using-your-own-computer-and-cloudflare-tunnel-j8d)
+- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
 <!-- BLOG-POST-LIST:END -->
 
