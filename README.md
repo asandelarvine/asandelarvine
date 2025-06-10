@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/bugbounted/test-4gfp)
-- [summary and analysis of the supply chain attack targeting the React Native development ecosystem](https://dev.to/fathulands/summary-and-analysis-of-the-supply-chain-attack-targeting-the-react-native-development-ecosystem-1bfp)
-- [Master GitOps with ArgoCD: Automate Your Kubernetes Deployments Like a Pro](https://dev.to/surendergupta/master-gitops-with-argocd-automate-your-kubernetes-deployments-like-a-pro-3f9c)
-- [Balancing Code and Crayons: A Mom’s Tech Tale](https://dev.to/code_and_crayons/balancing-code-and-crayons-a-moms-tech-tale-1d9e)
+- [A small guide how to start AWS Community Day from scratch](https://dev.to/aws-builders/a-small-guide-how-to-start-aws-community-day-from-scratch-3ehk)
+- [How Apps Run: Bare Metal, VMs, and Containers Compared](https://dev.to/rijultp/how-apps-run-bare-metal-vms-and-containers-compared-13ch)
+- [Why You Should Care About BuildContext in Flutter: The One Mistake That Cost Me Hours](https://dev.to/alaminkarno/why-you-should-care-about-buildcontext-in-flutter-the-one-mistake-that-cost-me-hours-5fn3)
+- [This kind of story gives new leaders permission to be thoughtful, not just efficient.](https://dev.to/themargauxs/this-kind-of-story-gives-new-leaders-permission-to-be-thoughtful-not-just-efficient-19d4)
 <!-- BLOG-POST-LIST:END -->
 
