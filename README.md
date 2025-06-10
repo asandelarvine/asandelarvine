@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A small guide how to start AWS Community Day from scratch](https://dev.to/aws-builders/a-small-guide-how-to-start-aws-community-day-from-scratch-3ehk)
-- [How Apps Run: Bare Metal, VMs, and Containers Compared](https://dev.to/rijultp/how-apps-run-bare-metal-vms-and-containers-compared-13ch)
-- [Why You Should Care About BuildContext in Flutter: The One Mistake That Cost Me Hours](https://dev.to/alaminkarno/why-you-should-care-about-buildcontext-in-flutter-the-one-mistake-that-cost-me-hours-5fn3)
-- [This kind of story gives new leaders permission to be thoughtful, not just efficient.](https://dev.to/themargauxs/this-kind-of-story-gives-new-leaders-permission-to-be-thoughtful-not-just-efficient-19d4)
+- [Execution Policy Error in npm](https://dev.to/doccaio/execution-policy-error-in-npm-2a52)
+- [Erro de política de execução npm](https://dev.to/doccaio/erro-de-politica-de-execucao-npm-le5)
+- [The Resilience Factor: Learn to Bounce Back from Adversity in Life](https://dev.to/shed_son_8667cd19f0263a67/the-resilience-factor-learn-to-bounce-back-from-adversity-in-life-4783)
+- [Hyperware: Dev tools to build in Web3](https://dev.to/sean_hyperware/hyperware-dev-tools-to-build-in-web3-f82)
 <!-- BLOG-POST-LIST:END -->
 
