@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_3594517b83e72d/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
-- [How AI Is Changing the Estate Planning Attorney’s Role](https://dev.to/dalton_abreshears/how-ai-is-changing-the-estate-planning-attorneys-role-2pb5)
-- [How i validated my MVP without investing any cents on it using cloudflared tunnel](https://dev.to/adamsnows/creating-your-own-vps-using-your-own-computer-and-cloudflare-tunnel-j8d)
-- [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
+- [The Most Requested BMW Parts in 2025 &lpar;And What That Tells Us About the Market&rpar;](https://dev.to/mtautoparts/the-most-requested-bmw-parts-in-2025-and-what-that-tells-us-about-the-market-2b0p)
+- [How should I deal with a coworker who is obviously using AI for their code, at a company which does not allow AI at all](https://dev.to/the_variant/how-should-i-deal-with-a-coworker-who-is-obviously-using-ai-for-their-code-at-a-company-which-does-b0c)
+- [Powershell Search Big File](https://dev.to/hardyweb/powershell-search-big-file-2nna)
+- [Cómo Usan Rust las Empresas](https://dev.to/nube_colectiva_nc/como-usan-rust-las-empresas-2oid)
 <!-- BLOG-POST-LIST:END -->
 
