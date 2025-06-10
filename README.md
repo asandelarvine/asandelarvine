@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
-- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
-- [Software Architecture Needs a Rethink &lpar;Because AI Isn&#39;t Waiting&rpar;](https://dev.to/enricopiovesan/software-architecture-needs-a-rethink-because-ai-isnt-waiting-31me)
-- [12 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
+- [Need help finsing the tight path forward to get my full stack as a beginner](https://dev.to/nikolai143/need-help-finsing-the-tight-path-forward-to-get-my-full-stack-as-a-beginner-1k9o)
+- [How to Build a High-Performance Hypercasual Game Aggregator Like RiseQuest](https://dev.to/mufeng/how-to-build-a-high-performance-hypercasual-game-aggregator-like-risequest-2ppd)
+- [Building a Mega Menu and Menu Builder](https://dev.to/siraj360/building-a-mega-menu-and-menu-builder-85l)
+- [Astro: La elección ideal para sitios web](https://dev.to/beresiartejuan/astro-la-eleccion-ideal-para-sitios-web-4mc9)
 <!-- BLOG-POST-LIST:END -->
 
