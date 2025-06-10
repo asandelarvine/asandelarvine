@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shocking Partnership: Why OpenAI is Now Using Google&#39;s Cloud &lpar;Despite Being Rivals&rpar;](https://dev.to/shiva_shanker_dec82951917/the-shocking-partnership-why-openai-is-now-using-googles-cloud-despite-being-rivals-2mkg)
-- [How to Download Any YouTube Video Using One Terminal Command &lpar;No Ads, No Bloat&rpar;](https://dev.to/surendergupta/how-to-download-any-youtube-video-using-one-terminal-command-no-ads-no-bloat-43ca)
-- [The Moon Doesn’t Need Followers. It Needs Witnesses.](https://dev.to/versiqcontent/the-moon-doesnt-need-followers-it-needs-witnesses-2g24)
-- [Stop Writing Docs, Start Generating Them: How I Document My Code in Minutes with Syntax Scribe](https://dev.to/mrpatrickwright/stop-writing-docs-start-generating-them-how-i-document-my-code-in-minutes-with-syntax-scribe-174m)
+- [My personal website](https://dev.to/m__mdy__m/my-personal-website-5h20)
+- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
+- [How to Convert Images to PDF in Java Using the Cloud SDK](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-images-to-pdf-in-java-using-the-cloud-sdk-36e4)
+- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
 <!-- BLOG-POST-LIST:END -->
 
