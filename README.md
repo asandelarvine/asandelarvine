@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Casual: Next.js, TypeScript, shadcn/ui &amp; Zustand E-Commerce](https://dev.to/saidmounaim/pure-casual-nextjs-typescript-shadcnui-zustand-e-commerce-2foj)
-- [[Boost]](https://dev.to/anthonymax/-2j64)
-- [Quantum Computing 101: Why Every Developer Should Pay Attention Right Now](https://dev.to/dct_technology/quantum-computing-101-why-every-developer-should-pay-attention-right-now-139k)
-- [Developers, Stop Guessing , Real Users Are Telling You What Works](https://dev.to/p_0c0278d/developers-stop-guessing-real-users-are-telling-you-what-works-4k3h)
+- [🗂️ Master SQL from Scratch – A Step-by-Step Roadmap with Visual Guide &amp; Progress Tracker](https://dev.to/biloustrike/master-sql-from-scratch-a-step-by-step-roadmap-with-visual-guide-progress-tracker-3jfg)
+- [Future-Proofing Your B2B Web Apps: Why Cookie Consent Is No Longer a &#39;Set It and Forget It&#39; Task.](https://dev.to/mehwish_malik_4f29ff7fb04/future-proofing-your-b2b-web-apps-why-cookie-consent-is-no-longer-a-set-it-and-forget-it-task-42hg)
+- [Introducing Guilty as Sock Hub: Tools and Strategies for Your Party Game](https://dev.to/youming666/introducing-guilty-as-sock-hub-tools-and-strategies-for-your-party-game-13fn)
+- [AI Funding and Developments: Navigating the 2025 Landscape](https://dev.to/rohit_bhatu/ai-funding-and-developments-navigating-the-2025-landscape-3c80)
 <!-- BLOG-POST-LIST:END -->
 
