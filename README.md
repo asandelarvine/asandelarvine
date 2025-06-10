@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Exploring Amazon Q CLI Building a Simple Tic-Tac-Toe Game](https://dev.to/mohitb_twt/exploring-amazon-q-cli-building-a-simple-tic-tac-toe-game-nid)
-- [ᯓ★ React useState Hook](https://dev.to/himanayk/-react-usestate-hook-3c8g)
-- [High-Performance Multithreaded HTTP Proxy Server in Java](https://dev.to/dhanush___b/high-performance-multithreaded-http-proxy-server-in-java-490b)
-- [GSC](https://dev.to/adamar/gsc-1hhl)
+- [The Hidden Performance Cost of Manual Data Fetching in React](https://dev.to/tobimadehin/the-hidden-performance-cost-of-manual-data-fetching-in-react-45a9)
+- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
+- [Hyperlane 框架详解与使用指南](https://dev.to/_95e41982c9ad08a13458d/hyperlane-kuang-jia-xiang-jie-yu-shi-yong-zhi-nan-32op)
+- [The Secret to Instagram 6-Grid Feed Size: Make Your Profile Stand Out!](https://dev.to/neonwebid/the-secret-to-instagram-6-grid-feed-size-make-your-profile-stand-out-1p3g)
 <!-- BLOG-POST-LIST:END -->
 
