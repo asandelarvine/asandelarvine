@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My personal website](https://dev.to/m__mdy__m/my-personal-website-5h20)
-- [Quickly Create Remote MCP Servers for APIs with Zuplo](https://dev.to/zuplo/quickly-create-remote-mcp-servers-for-apis-with-zuplo-18o6)
-- [How to Convert Images to PDF in Java Using the Cloud SDK](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-images-to-pdf-in-java-using-the-cloud-sdk-36e4)
-- [What is Tableau?](https://dev.to/satya_prakash_06/what-is-tableau-332n)
+- [Navigating the Nuances of bolt.new: A Guide to Common Quirks and Solutions](https://dev.to/lord_xavier/navigating-the-nuances-of-boltnew-a-guide-to-common-quirks-and-solutions-56np)
+- [How Docker Contexts Transformed My Multi-Environment Workflow](https://dev.to/raghavyuva/how-docker-contexts-transformed-my-multi-environment-workflow-20hg)
+- [Heroku has been having major platform issues today](https://dev.to/ben/heroku-has-been-having-major-platform-issues-today-3p9e)
+- [Lessons from Fixing My Video Thumbnail Nightmare in Firebase](https://dev.to/timahern/lessons-from-fixing-my-video-thumbnail-nightmare-in-firebase-3mob)
 <!-- BLOG-POST-LIST:END -->
 
