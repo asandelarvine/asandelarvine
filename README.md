@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒 How HTTPS Works — Explained in a Comic! 🌈🎉🍕](https://dev.to/ml318097/how-https-works-explained-in-a-comic-2p8a)
-- [Tidbit 04: JavaScript Promise Chain vs No-Chain](https://dev.to/atapas/tidbit-04-javascript-promise-chain-vs-no-chain-339p)
-- [✨ Web3 Tribe: No Cap, Just Community 💎](https://dev.to/dhis_is_jj/web3-tribe-no-cap-just-community-4j7o)
-- [🚀 Zero-Config Database Setup with Drizzle ORM - From Zero to Hero in 30 Seconds](https://dev.to/devgauravjatt/zero-config-database-setup-with-drizzle-orm-from-zero-to-hero-in-30-seconds-4f2d)
+- [🎮 Exploring Amazon Q CLI Building a Simple Tic-Tac-Toe Game](https://dev.to/mohitb_twt/exploring-amazon-q-cli-building-a-simple-tic-tac-toe-game-nid)
+- [ᯓ★ React useState Hook](https://dev.to/himanayk/-react-usestate-hook-3c8g)
+- [High-Performance Multithreaded HTTP Proxy Server in Java](https://dev.to/dhanush___b/high-performance-multithreaded-http-proxy-server-in-java-490b)
+- [GSC](https://dev.to/adamar/gsc-1hhl)
 <!-- BLOG-POST-LIST:END -->
 
