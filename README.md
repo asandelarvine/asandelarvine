@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗂️ Master SQL from Scratch – A Step-by-Step Roadmap with Visual Guide &amp; Progress Tracker](https://dev.to/biloustrike/master-sql-from-scratch-a-step-by-step-roadmap-with-visual-guide-progress-tracker-3jfg)
-- [Future-Proofing Your B2B Web Apps: Why Cookie Consent Is No Longer a &#39;Set It and Forget It&#39; Task.](https://dev.to/mehwish_malik_4f29ff7fb04/future-proofing-your-b2b-web-apps-why-cookie-consent-is-no-longer-a-set-it-and-forget-it-task-42hg)
-- [Introducing Guilty as Sock Hub: Tools and Strategies for Your Party Game](https://dev.to/youming666/introducing-guilty-as-sock-hub-tools-and-strategies-for-your-party-game-13fn)
-- [AI Funding and Developments: Navigating the 2025 Landscape](https://dev.to/rohit_bhatu/ai-funding-and-developments-navigating-the-2025-landscape-3c80)
+- [The Ultimate Guide to Self-Love: Nurturing Yourself From the Inside Out](https://dev.to/sia_negi21/the-ultimate-guide-to-self-love-nurturing-yourself-from-the-inside-out-58h)
+- [Puck 0.19: Slots API &amp; performance gains](https://dev.to/puckeditor/puck-019-slots-api-performance-gains-1eik)
+- [USING VITE?, Upgrade to tailwindcss..version 4](https://dev.to/csituma/using-vite-upgrade-to-tailiwindcss4-1c61)
+- [Unlocking State Management in React with Recoil](https://dev.to/vjnvisakh/unlocking-state-management-in-react-with-recoil-24cd)
 <!-- BLOG-POST-LIST:END -->
 
