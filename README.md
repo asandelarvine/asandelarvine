@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Self-Love: Nurturing Yourself From the Inside Out](https://dev.to/sia_negi21/the-ultimate-guide-to-self-love-nurturing-yourself-from-the-inside-out-58h)
-- [Puck 0.19: Slots API &amp; performance gains](https://dev.to/puckeditor/puck-019-slots-api-performance-gains-1eik)
-- [USING VITE?, Upgrade to tailwindcss..version 4](https://dev.to/csituma/using-vite-upgrade-to-tailiwindcss4-1c61)
-- [Unlocking State Management in React with Recoil](https://dev.to/vjnvisakh/unlocking-state-management-in-react-with-recoil-24cd)
+- [A Deep Dive into Arrays – Part 1: What, Why &amp; How](https://dev.to/ananyakallankudlu/a-deep-dive-into-arrays-part-1-what-why-how-1oio)
+- [New to Flotiq? Here’s what you need to know before you register](https://dev.to/flotiq/new-to-flotiq-heres-what-you-need-to-know-before-you-register-4odp)
+- [Crap, is Node.js Dead? I Barely Warmed Up My Express App!](https://dev.to/tomastomas/crap-is-nodejs-dead-i-barely-warmed-up-my-express-app-2fof)
+- [Untitled](https://dev.to/lakhdar_kaddar_e80cf1d903/untitled-220o)
 <!-- BLOG-POST-LIST:END -->
 
