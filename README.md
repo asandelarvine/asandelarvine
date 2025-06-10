@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help finsing the tight path forward to get my full stack as a beginner](https://dev.to/nikolai143/need-help-finsing-the-tight-path-forward-to-get-my-full-stack-as-a-beginner-1k9o)
-- [How to Build a High-Performance Hypercasual Game Aggregator Like RiseQuest](https://dev.to/mufeng/how-to-build-a-high-performance-hypercasual-game-aggregator-like-risequest-2ppd)
-- [Building a Mega Menu and Menu Builder](https://dev.to/siraj360/building-a-mega-menu-and-menu-builder-85l)
-- [Astro: La elección ideal para sitios web](https://dev.to/beresiartejuan/astro-la-eleccion-ideal-para-sitios-web-4mc9)
+- [Predicting the Future: An Introduction to Supervised Learning: Regression](https://dev.to/dev_patel_35864ca1db6093c/predicting-the-future-an-introduction-to-supervised-learning-regression-39f)
+- [Say Goodbye to Try/Catch Blocks with the ECMAScript ?= Operator](https://dev.to/jsdevspace/say-goodbye-to-trycatch-blocks-with-the-ecmascript-operator-mog)
+- [🌟 Showcase Your APIs On AquaScript For Free 🚀](https://dev.to/hanzla-baig/showcase-your-apis-on-aquascript-for-free-49oe)
+- [Mi momento más humilde, o cómo inicié en FinOps &lpar;es lo mismo 🫠&rpar;](https://dev.to/barbara_gaspar/mi-momento-mas-humilde-o-como-inicie-en-finops-es-lo-mismo--2eko)
 <!-- BLOG-POST-LIST:END -->
 
