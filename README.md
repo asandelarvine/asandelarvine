@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Predicting the Future: An Introduction to Supervised Learning: Regression](https://dev.to/dev_patel_35864ca1db6093c/predicting-the-future-an-introduction-to-supervised-learning-regression-39f)
-- [Say Goodbye to Try/Catch Blocks with the ECMAScript ?= Operator](https://dev.to/jsdevspace/say-goodbye-to-trycatch-blocks-with-the-ecmascript-operator-mog)
-- [🌟 Showcase Your APIs On AquaScript For Free 🚀](https://dev.to/hanzla-baig/showcase-your-apis-on-aquascript-for-free-49oe)
-- [Mi momento más humilde, o cómo inicié en FinOps &lpar;es lo mismo 🫠&rpar;](https://dev.to/barbara_gaspar/mi-momento-mas-humilde-o-como-inicie-en-finops-es-lo-mismo--2eko)
+- [🧮Beginner-Friendly Guide &quot;Maximum Difference Between Even and Odd Frequency I&quot; LeetCode 3442 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-difference-between-even-and-odd-frequency-i-leetcode-3442-c-5734)
+- [CVE-2025-29927: How a Header Bypass in Next.js Broke Auth for Some AI Apps](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-29927-how-a-header-bypass-in-nextjs-broke-auth-for-some-ai-apps-518p)
+- [Troubleshooting de redes em servidores cloud: como identifiquei um problema externo na conectividade](https://dev.to/marcos_vile/troubleshooting-de-redes-em-servidores-cloud-como-identifiquei-um-problema-externo-na-conectividade-122o)
+- [📊 New: Amazon CloudWatch Agent Now Supports Detailed EBS Performance Metrics &lpar;June 2025&rpar;](https://dev.to/latchudevops/new-amazon-cloudwatch-agent-now-supports-detailed-ebs-performance-metrics-june-2025-2lld)
 <!-- BLOG-POST-LIST:END -->
 
