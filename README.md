@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Requested BMW Parts in 2025 &lpar;And What That Tells Us About the Market&rpar;](https://dev.to/mtautoparts/the-most-requested-bmw-parts-in-2025-and-what-that-tells-us-about-the-market-2b0p)
-- [How should I deal with a coworker who is obviously using AI for their code, at a company which does not allow AI at all](https://dev.to/the_variant/how-should-i-deal-with-a-coworker-who-is-obviously-using-ai-for-their-code-at-a-company-which-does-b0c)
-- [Powershell Search Big File](https://dev.to/hardyweb/powershell-search-big-file-2nna)
-- [Cómo Usan Rust las Empresas](https://dev.to/nube_colectiva_nc/como-usan-rust-las-empresas-2oid)
+- [quieressermisanvalentin](https://dev.to/andriwil_590ab7253167fb02/quieressermisanvalentin-4fcc)
+- [QuCode - 21DaysChallenge - Day 10](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-10-504m)
+- [Check Every Key Exists in a PHP Array with Arr::hasAll&lpar;&rpar;](https://dev.to/ashallendesign/check-every-key-exists-in-a-php-array-with-arrhasall-4hef)
+- [Spring Boot 3 Redis](https://dev.to/c4rlosc7/spring-boot-3-redis-l9g)
 <!-- BLOG-POST-LIST:END -->
 
