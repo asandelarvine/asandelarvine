@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Performance Cost of Manual Data Fetching in React](https://dev.to/tobimadehin/the-hidden-performance-cost-of-manual-data-fetching-in-react-45a9)
-- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
-- [Hyperlane 框架详解与使用指南](https://dev.to/_95e41982c9ad08a13458d/hyperlane-kuang-jia-xiang-jie-yu-shi-yong-zhi-nan-32op)
-- [The Secret to Instagram 6-Grid Feed Size: Make Your Profile Stand Out!](https://dev.to/neonwebid/the-secret-to-instagram-6-grid-feed-size-make-your-profile-stand-out-1p3g)
+- [The Shocking Partnership: Why OpenAI is Now Using Google&#39;s Cloud &lpar;Despite Being Rivals&rpar;](https://dev.to/shiva_shanker_dec82951917/the-shocking-partnership-why-openai-is-now-using-googles-cloud-despite-being-rivals-2mkg)
+- [How to Download Any YouTube Video Using One Terminal Command &lpar;No Ads, No Bloat&rpar;](https://dev.to/surendergupta/how-to-download-any-youtube-video-using-one-terminal-command-no-ads-no-bloat-43ca)
+- [The Moon Doesn’t Need Followers. It Needs Witnesses.](https://dev.to/versiqcontent/the-moon-doesnt-need-followers-it-needs-witnesses-2g24)
+- [Stop Writing Docs, Start Generating Them: How I Document My Code in Minutes with Syntax Scribe](https://dev.to/mrpatrickwright/stop-writing-docs-start-generating-them-how-i-document-my-code-in-minutes-with-syntax-scribe-174m)
 <!-- BLOG-POST-LIST:END -->
 
