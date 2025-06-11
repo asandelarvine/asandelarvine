@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elegance in Every Ray: Discover the Best Sunglasses for Women](https://dev.to/prisha_singh_4b5f9d71bc64/elegance-in-every-ray-discover-the-best-sunglasses-for-women-3llh)
-- [Leveraging Robust Secrets Management for Secure Data Handling in Modern Applications](https://dev.to/zopdev/leveraging-robust-secrets-management-for-secure-data-handling-in-modern-applications-nel)
-- [Access Your Crypto Securely: Content Ledger Wallet Hub](https://dev.to/ledgercwallets/access-your-crypto-securely-content-ledger-wallet-hub-gb3)
-- [Designing E-Commerce Order Processing: Orchestration vs Choreography](https://dev.to/dinesh_dunukedeniya_539a3/designing-e-commerce-order-processing-orchestration-vs-choreography-2k6d)
+- [🌧️ Day 2 of #100DaysOfCode](https://dev.to/tushar_sabharwal_79588ef3/day-2-of-100daysofcode-52n8)
+- [What Makes Your EKS Cluster Idle, And What You Can Do](https://dev.to/angela_gupta/what-makes-your-eks-cluster-idle-and-what-you-can-do-27ai)
+- [Web3 Is Evolving: Real Business, Real Revenue, Real Engineering](https://dev.to/alexnav/web3-is-evolving-real-business-real-revenue-real-engineering-1nkb)
+- [I didn’t expect this kind of feedback — but it meant a lot](https://dev.to/worapon_jintajirakul/i-didnt-expect-this-kind-of-feedback-but-it-meant-a-lot-12c3)
 <!-- BLOG-POST-LIST:END -->
 
