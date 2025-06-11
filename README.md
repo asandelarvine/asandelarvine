@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The flexibility baked into this method is what makes it sustainable. So many systems fail because they try to rigidly control every minute.](https://dev.to/hawkeyedaniel/the-flexibility-baked-into-this-method-is-what-makes-it-sustainable-so-many-systems-fail-because-1nl3)
-- [The part about scammers having U.S. bank accounts and faking photo locations really stood out. It shows how far fraud tactics have evolved and why verification matters.](https://dev.to/hawkeyedaniel/the-part-about-scammers-having-us-bank-accounts-and-faking-photo-locations-really-stood-out-it-56ak)
-- [Building Microservices with Kafka: Bidirectional Communication with Multiple Topics](https://dev.to/devcorner/building-microservices-with-kafka-bidirectional-communication-with-multiple-topics-2fgj)
-- [Great Project!](https://dev.to/sampseiol1/great-project-3nmo)
+- [🔄 Service-to-Service Communication in Spring Boot using Kafka &lpar;with Spring Cloud Stream&rpar;](https://dev.to/devcorner/service-to-service-communication-in-spring-boot-using-kafka-with-spring-cloud-stream-192d)
+- [🚀 A Beginner’s Friendly Guide to GitHub and How to Push Code Using VS Code](https://dev.to/himanshu_bhagwat_efd7a248/a-beginners-friendly-guide-to-github-and-how-to-push-code-using-vs-code-12ml)
+- [forEach The Quiet Powerhouse](https://dev.to/maettatoo/foreach-the-quiet-powerhouse-5hmn)
+- [PostgreSQL Practical Labs: Error Handling, Advanced Data Types &amp; Kali Linux Setup](https://dev.to/labex/postgresql-practical-labs-error-handling-advanced-data-types-kali-linux-setup-18mb)
 <!-- BLOG-POST-LIST:END -->
 
