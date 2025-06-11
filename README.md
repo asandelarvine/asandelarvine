@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing AI Code Assistant – your smart companion for writing, reviewing, and improving code.](https://dev.to/zakkhassan97/introducing-ai-code-assistant-your-smart-companion-for-writing-reviewing-and-improving-code-4ll2)
-- [Blazing-Fast C++ Web Services with `qbm-http`](https://dev.to/mbelhadi/blazing-fast-c-web-services-with-qbm-http-16l0)
-- [National Donut Day &lpar;June 7th&rpar;](https://dev.to/aniruddhaadak/national-donut-day-june-7th-2933)
-- [How Excel is used in Real-World Analysis](https://dev.to/faith_cheptoo_799c7f28353/how-excel-is-used-in-real-world-analysis-pcm)
+- [10 Must-Have Fintech APIs and Tools for Developers in 2025](https://dev.to/therealmrmumba/10-must-have-fintech-apis-and-tools-for-developers-in-2025-2o1d)
+- [How DNS Works &lpar;Recursive Resolution and Stub Resolvers&rpar;](https://dev.to/lovestaco/how-dns-works-recursive-resolution-and-stub-resolvers-4k21)
+- [How to validate user input in Koval UI](https://dev.to/morewings/how-to-validate-user-input-in-koval-ui-10h0)
+- [Retrieval Technique Series-5.How Large-Scale Search Systems Accelerate Retrieval with Distributed Technology](https://dev.to/yaruyng/retrieval-technique-series-5how-large-scale-search-systems-accelerate-retrieval-with-distributed-4418)
 <!-- BLOG-POST-LIST:END -->
 
