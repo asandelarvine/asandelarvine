@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix JSP Not Rendering in Spring Boot &lpar;MVC + IntelliJ Guide&rpar;](https://dev.to/madebawojo/fix-jsp-not-rendering-in-spring-boot-mvc-intellij-guide-nmd)
-- [Learning Perl - Prototypes](https://dev.to/lnationorg/learning-perl-prototypes-3ha8)
-- [Leveraging AI-Driven Predictive Analytics to Optimize Test Execution in Agile Environments](https://dev.to/ramamallika_kadali_49a08f/leveraging-ai-driven-predictive-analytics-to-optimize-test-execution-in-agile-environments-2nna)
-- [Rust for Kids](https://dev.to/antonds/rust-for-kids-m0n)
+- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
+- [Karaoke Maker: From Music Video to KTV](https://dev.to/bigi/karaoke-maker-from-music-video-to-ktv-52op)
+- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
+- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
 <!-- BLOG-POST-LIST:END -->
 
