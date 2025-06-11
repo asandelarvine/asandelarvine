@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
-- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
-- [How to Become a Web Developer in 2025: A Step-by-Step Plan](https://dev.to/mikevarenek/how-to-become-a-web-developer-in-2025-a-step-by-step-plan-40ph)
-- [5 HTML Tips for Building a Secure Website](https://dev.to/imoh_imohowo/5-html-tips-for-building-a-secure-website-3kg)
+- [Understanding Leap Seconds and the 2005 Linux OS Glitch](https://dev.to/adityabhuyan/understanding-leap-seconds-and-the-2005-linux-os-glitch-2ffm)
+- [Development Guide for Food Discovery Application Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-food-discovery-application-based-on-harmonyos-next-4k4d)
+- [Practical Guide to Developing a Food Discovery App Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-guide-to-developing-a-food-discovery-app-based-on-harmonyos-next-5f3p)
+- [Full Analysis of &quot;TasteLog&quot; Food Community App Development Based on HarmonyOS Next](https://dev.to/linzhongxue/full-analysis-of-tastelog-food-community-app-development-based-on-harmonyos-next-5jj)
 <!-- BLOG-POST-LIST:END -->
 
