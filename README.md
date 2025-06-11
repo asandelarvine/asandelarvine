@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌧️ Day 2 of #100DaysOfCode](https://dev.to/tushar_sabharwal_79588ef3/day-2-of-100daysofcode-52n8)
-- [What Makes Your EKS Cluster Idle, And What You Can Do](https://dev.to/angela_gupta/what-makes-your-eks-cluster-idle-and-what-you-can-do-27ai)
-- [Web3 Is Evolving: Real Business, Real Revenue, Real Engineering](https://dev.to/alexnav/web3-is-evolving-real-business-real-revenue-real-engineering-1nkb)
-- [I didn’t expect this kind of feedback — but it meant a lot](https://dev.to/worapon_jintajirakul/i-didnt-expect-this-kind-of-feedback-but-it-meant-a-lot-12c3)
+- [Grid &lpar;Beta&rpar; – a free markdown editor crafted to streamline creating polished, multi-page social media posts.](https://dev.to/ml318097/grid-beta-a-free-markdown-editor-crafted-to-streamline-creating-polished-multi-page-social-451h)
+- [Vibe Coding: The New Way People Are Writing Code](https://dev.to/mariecolvinn/vibe-coding-the-new-way-people-are-writing-code-22o7)
+- [🍩 National Donut Day – Sweet &amp; Smart](https://dev.to/davinceleecode/national-donut-day-sweet-smart-4jdn)
+- [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
 <!-- BLOG-POST-LIST:END -->
 
