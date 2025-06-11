@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Grid &lpar;Beta&rpar; – a free markdown editor crafted to streamline creating polished, multi-page social media posts.](https://dev.to/ml318097/grid-beta-a-free-markdown-editor-crafted-to-streamline-creating-polished-multi-page-social-451h)
-- [Vibe Coding: The New Way People Are Writing Code](https://dev.to/mariecolvinn/vibe-coding-the-new-way-people-are-writing-code-22o7)
-- [🍩 National Donut Day – Sweet &amp; Smart](https://dev.to/davinceleecode/national-donut-day-sweet-smart-4jdn)
-- [Join the Storyblok Headless CMS Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-storyblok-headless-cms-challenge-3000-in-prizes-154n)
+- [How to Access and Use OpenAI Codex?](https://dev.to/_37bbf0c253c0b3edec531e/how-to-access-and-use-openai-codex-1i2e)
+- [Kling 2.1 vs Google veo 3: A Comparative Analysis](https://dev.to/_37bbf0c253c0b3edec531e/kling-21-vs-google-veo-3-a-comparative-analysis-312k)
+- [⚙️ Day 9 of Java Mastery: Understanding Operators in Java](https://dev.to/spyde/day-9-of-java-mastery-understanding-operators-in-java-4npk)
+- [Building a Distributed Key-Value Store with Raft in Go](https://dev.to/vaib/building-a-distributed-key-value-store-with-raft-in-go-1m47)
 <!-- BLOG-POST-LIST:END -->
 
