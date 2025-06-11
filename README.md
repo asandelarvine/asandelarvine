@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Surge: Rate Limiting Strategies in Phoenix APIs](https://dev.to/hexshift/taming-the-surge-rate-limiting-strategies-in-phoenix-apis-2ec2)
-- [Novidades do .NET MAUI no .NET 9: O Futuro do Desenvolvimento Multiplataforma](https://dev.to/daniloopinheiro/novidades-do-net-maui-no-net-9-o-futuro-do-desenvolvimento-multiplataforma-2o60)
-- [Novidades do C# 13: Recursos e Exemplos Práticos](https://dev.to/daniloopinheiro/novidades-do-c-13-recursos-e-exemplos-praticos-4g41)
-- [My Developer Toolkit](https://dev.to/jacobmillerv/my-developer-toolkit-41pa)
+- [The flexibility baked into this method is what makes it sustainable. So many systems fail because they try to rigidly control every minute.](https://dev.to/hawkeyedaniel/the-flexibility-baked-into-this-method-is-what-makes-it-sustainable-so-many-systems-fail-because-1nl3)
+- [The part about scammers having U.S. bank accounts and faking photo locations really stood out. It shows how far fraud tactics have evolved and why verification matters.](https://dev.to/hawkeyedaniel/the-part-about-scammers-having-us-bank-accounts-and-faking-photo-locations-really-stood-out-it-56ak)
+- [Building Microservices with Kafka: Bidirectional Communication with Multiple Topics](https://dev.to/devcorner/building-microservices-with-kafka-bidirectional-communication-with-multiple-topics-2fgj)
+- [Great Project!](https://dev.to/sampseiol1/great-project-3nmo)
 <!-- BLOG-POST-LIST:END -->
 
