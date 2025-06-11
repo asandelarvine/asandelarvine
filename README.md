@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Staying Alive: Phoenix LiveView’s Strategies for Reconnects, Recovery, and Real‑Time Resilience](https://dev.to/hexshift/staying-alive-phoenix-liveviews-strategies-for-reconnects-recovery-and-real-time-resilience-43l7)
-- [Clipboard, Tray Menus &amp; Global Hotkeys in NativePHP](https://dev.to/therahul_gupta/clipboard-tray-menus-global-hotkeys-in-nativephp-46p9)
-- [Neovim/vim macro](https://dev.to/hardyweb/neovimvim-macro-49fi)
-- [wise.commit – Smarter Git Commits with AI and Emojis](https://dev.to/samuelgomes0/wisecommit-smarter-git-commits-with-ai-and-emojis-2b05)
+- [🚀 Introducing AI Code Assistant – your smart companion for writing, reviewing, and improving code.](https://dev.to/zakkhassan97/introducing-ai-code-assistant-your-smart-companion-for-writing-reviewing-and-improving-code-4ll2)
+- [Blazing-Fast C++ Web Services with `qbm-http`](https://dev.to/mbelhadi/blazing-fast-c-web-services-with-qbm-http-16l0)
+- [National Donut Day &lpar;June 7th&rpar;](https://dev.to/aniruddhaadak/national-donut-day-june-7th-2933)
+- [How Excel is used in Real-World Analysis](https://dev.to/faith_cheptoo_799c7f28353/how-excel-is-used-in-real-world-analysis-pcm)
 <!-- BLOG-POST-LIST:END -->
 
