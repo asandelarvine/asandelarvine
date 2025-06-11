@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Have Fintech APIs and Tools for Developers in 2025](https://dev.to/therealmrmumba/10-must-have-fintech-apis-and-tools-for-developers-in-2025-2o1d)
-- [How DNS Works &lpar;Recursive Resolution and Stub Resolvers&rpar;](https://dev.to/lovestaco/how-dns-works-recursive-resolution-and-stub-resolvers-4k21)
-- [How to validate user input in Koval UI](https://dev.to/morewings/how-to-validate-user-input-in-koval-ui-10h0)
-- [Retrieval Technique Series-5.How Large-Scale Search Systems Accelerate Retrieval with Distributed Technology](https://dev.to/yaruyng/retrieval-technique-series-5how-large-scale-search-systems-accelerate-retrieval-with-distributed-4418)
+- [What is Google Agent Development Kit &lpar;ADK&rpar;? 🤖 Agent App with Local, Remote MCP Tools 🔧 using ADK, Gemini, Fast API, Streamlit UI](https://dev.to/omerberatsezer/what-is-google-agent-development-kit-adk-agent-app-with-local-remote-mcp-tools-using-adk-40om)
+- [What is Django? Exploring the Power of Python’s Top Web Framework](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-django-exploring-the-power-of-pythons-top-web-framework-24l0)
+- [No More Print Screen! Capture Websites Easily With Canva’s Website Screenshot App](https://dev.to/palash_das_e088693717c0c3/no-more-print-screen-capture-websites-easily-with-canvas-website-screenshot-app-1n21)
+- [REST APIs with Express](https://dev.to/godofgeeks/rest-apis-with-express-4phg)
 <!-- BLOG-POST-LIST:END -->
 
