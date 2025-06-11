@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar um scrollspy moderno com React e IntersectionObserver](https://dev.to/evenilsonliandro/como-criar-um-scrollspy-moderno-com-react-e-intersectionobserver-5ap8)
-- [Giant Viruses Discovered in the Ocean: A Hidden World of Microbial Power](https://dev.to/maurizio_morri_f7f4bd128c/giant-viruses-discovered-in-the-ocean-a-hidden-world-of-microbial-power-368p)
-- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
+- [Why I Stopped Writing “Just Another CSV Script” for Every Project](https://dev.to/abrar_ahmed/why-i-stopped-writing-just-another-csv-script-for-every-project-54ia)
+- [Mastering Regular Expressions: A Developer&#39;s Guide to Pattern Matching](https://dev.to/hardik_b2d8f0bca/mastering-regular-expressions-a-developers-guide-to-pattern-matching-2428)
+- [Let&#39;s support each other in this challenge](https://dev.to/vidakhoshpey22/lets-support-each-other-in-this-challenge-3mge)
+- [100 days of Coding! Day 12](https://dev.to/aaanishaaa/100-days-of-coding-day-12-55g0)
 <!-- BLOG-POST-LIST:END -->
 
