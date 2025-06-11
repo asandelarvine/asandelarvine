@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Service-to-Service Communication in Spring Boot using Kafka &lpar;with Spring Cloud Stream&rpar;](https://dev.to/devcorner/service-to-service-communication-in-spring-boot-using-kafka-with-spring-cloud-stream-192d)
-- [🚀 A Beginner’s Friendly Guide to GitHub and How to Push Code Using VS Code](https://dev.to/himanshu_bhagwat_efd7a248/a-beginners-friendly-guide-to-github-and-how-to-push-code-using-vs-code-12ml)
-- [forEach The Quiet Powerhouse](https://dev.to/maettatoo/foreach-the-quiet-powerhouse-5hmn)
-- [PostgreSQL Practical Labs: Error Handling, Advanced Data Types &amp; Kali Linux Setup](https://dev.to/labex/postgresql-practical-labs-error-handling-advanced-data-types-kali-linux-setup-18mb)
+- [Como criar um scrollspy moderno com React e IntersectionObserver](https://dev.to/evenilsonliandro/como-criar-um-scrollspy-moderno-com-react-e-intersectionobserver-5ap8)
+- [Giant Viruses Discovered in the Ocean: A Hidden World of Microbial Power](https://dev.to/maurizio_morri_f7f4bd128c/giant-viruses-discovered-in-the-ocean-a-hidden-world-of-microbial-power-368p)
+- [DevLog 20250611: SFML Text Shaping](https://dev.to/methodoxdivooka/devlog-20250611-sfml-text-shaping-3m39)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/lilly_kiganya_31ded25bb2f/how-excel-is-used-in-real-world-data-analysis-i0i)
 <!-- BLOG-POST-LIST:END -->
 
