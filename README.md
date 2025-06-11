@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Writing “Just Another CSV Script” for Every Project](https://dev.to/abrar_ahmed/why-i-stopped-writing-just-another-csv-script-for-every-project-54ia)
-- [Mastering Regular Expressions: A Developer&#39;s Guide to Pattern Matching](https://dev.to/hardik_b2d8f0bca/mastering-regular-expressions-a-developers-guide-to-pattern-matching-2428)
-- [Let&#39;s support each other in this challenge](https://dev.to/vidakhoshpey22/lets-support-each-other-in-this-challenge-3mge)
-- [100 days of Coding! Day 12](https://dev.to/aaanishaaa/100-days-of-coding-day-12-55g0)
+- [SaaS to help with everyday shopping](https://dev.to/gracielle/saas-to-help-with-everyday-shopping-4f5i)
+- [**The Use of Excel for Data Analysis in the Real World**](https://dev.to/elizabeth_munyao_e6b65682/the-use-of-excel-for-data-analysis-in-the-real-world-274l)
+- [Shifting Left with Policy-as-Code: Enforcing Infrastructure Security in Your DevSecOps Pipeline using OPA and Rego](https://dev.to/vaib/shifting-left-with-policy-as-code-enforcing-infrastructure-security-in-your-devsecops-pipeline-1k0)
+- [Overwhelmed After Your 30-Day Sprint? Keep the Fire Alive with 5 Proven Language-Learning Habits](https://dev.to/yap2learn/overwhelmed-after-your-30-day-sprint-keep-the-fire-alive-with-5-proven-language-learning-habits-1fdn)
 <!-- BLOG-POST-LIST:END -->
 
