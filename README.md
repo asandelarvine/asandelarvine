@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Google Agent Development Kit &lpar;ADK&rpar;? 🤖 Agent App with Local, Remote MCP Tools 🔧 using ADK, Gemini, Fast API, Streamlit UI](https://dev.to/omerberatsezer/what-is-google-agent-development-kit-adk-agent-app-with-local-remote-mcp-tools-using-adk-40om)
-- [What is Django? Exploring the Power of Python’s Top Web Framework](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-django-exploring-the-power-of-pythons-top-web-framework-24l0)
-- [No More Print Screen! Capture Websites Easily With Canva’s Website Screenshot App](https://dev.to/palash_das_e088693717c0c3/no-more-print-screen-capture-websites-easily-with-canvas-website-screenshot-app-1n21)
-- [REST APIs with Express](https://dev.to/godofgeeks/rest-apis-with-express-4phg)
+- [Taming the Beast: How to Fix the &quot;Project Too Large&quot; Error in bolt.new with .bolt/ignore](https://dev.to/lord_xavier/taming-the-beast-how-to-fix-the-project-too-large-error-in-boltnew-with-boltignore-3297)
+- [Postman: الأداة الشاملة لتطوير واختبار واجهات برمجة التطبيقات &lpar;APIs&rpar;](https://dev.to/misakadev/postman-ld-lshml-lttwyr-wkhtbr-wjht-brmj-lttbyqt-apis-470k)
+- [My First OpenStack Project: Deploying a VM with MicroStack on Ubuntu](https://dev.to/busa/my-first-openstack-project-deploying-a-vm-with-microstack-on-ubuntu-2c7b)
+- [5 Reasons SafeLine WAF Is the Go-To Open‑Source Web Firewall](https://dev.to/sharon_42e16b8da44dabde6d/5-reasons-safeline-waf-is-the-go-to-open-source-web-firewall-3hj0)
 <!-- BLOG-POST-LIST:END -->
 
