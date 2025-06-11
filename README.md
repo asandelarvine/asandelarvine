@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [quieressermisanvalentin](https://dev.to/andriwil_590ab7253167fb02/quieressermisanvalentin-4fcc)
-- [QuCode - 21DaysChallenge - Day 10](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-10-504m)
-- [Check Every Key Exists in a PHP Array with Arr::hasAll&lpar;&rpar;](https://dev.to/ashallendesign/check-every-key-exists-in-a-php-array-with-arrhasall-4hef)
-- [Spring Boot 3 Redis](https://dev.to/c4rlosc7/spring-boot-3-redis-l9g)
+- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
+- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
+- [How to Become a Web Developer in 2025: A Step-by-Step Plan](https://dev.to/mikevarenek/how-to-become-a-web-developer-in-2025-a-step-by-step-plan-40ph)
+- [5 HTML Tips for Building a Secure Website](https://dev.to/imoh_imohowo/5-html-tips-for-building-a-secure-website-3kg)
 <!-- BLOG-POST-LIST:END -->
 
