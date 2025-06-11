@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Beast: How to Fix the &quot;Project Too Large&quot; Error in bolt.new with .bolt/ignore](https://dev.to/lord_xavier/taming-the-beast-how-to-fix-the-project-too-large-error-in-boltnew-with-boltignore-3297)
-- [Postman: الأداة الشاملة لتطوير واختبار واجهات برمجة التطبيقات &lpar;APIs&rpar;](https://dev.to/misakadev/postman-ld-lshml-lttwyr-wkhtbr-wjht-brmj-lttbyqt-apis-470k)
-- [My First OpenStack Project: Deploying a VM with MicroStack on Ubuntu](https://dev.to/busa/my-first-openstack-project-deploying-a-vm-with-microstack-on-ubuntu-2c7b)
-- [5 Reasons SafeLine WAF Is the Go-To Open‑Source Web Firewall](https://dev.to/sharon_42e16b8da44dabde6d/5-reasons-safeline-waf-is-the-go-to-open-source-web-firewall-3hj0)
+- [Top 5 Principles for Effective AI-Powered “Vibe-Coding”](https://dev.to/gifhow/top-5-principles-for-effective-ai-powered-vibe-coding-4c3)
+- [GitHub repo is live! If this feels useful or interesting, drop a ⭐ or try the quickstart. Curious how devs would actually use Tirne in real projects.　https://github.com/Tirne-ts/Tirne](https://dev.to/yukinisihikawa/github-repo-is-live-if-this-feels-useful-or-interesting-drop-a-or-try-the-quickstart-curious-170a)
+- [How to Use a Formula to Convert Text to Sentence Case in Excel?](https://dev.to/excel24x7/how-to-use-a-formula-to-convert-text-to-sentence-case-in-excel-3fl0)
+- [Vitara AI - A Vibe Coding Tools](https://dev.to/violetbrown/-1li5)
 <!-- BLOG-POST-LIST:END -->
 
