@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Access and Use OpenAI Codex?](https://dev.to/_37bbf0c253c0b3edec531e/how-to-access-and-use-openai-codex-1i2e)
-- [Kling 2.1 vs Google veo 3: A Comparative Analysis](https://dev.to/_37bbf0c253c0b3edec531e/kling-21-vs-google-veo-3-a-comparative-analysis-312k)
-- [⚙️ Day 9 of Java Mastery: Understanding Operators in Java](https://dev.to/spyde/day-9-of-java-mastery-understanding-operators-in-java-4npk)
-- [Building a Distributed Key-Value Store with Raft in Go](https://dev.to/vaib/building-a-distributed-key-value-store-with-raft-in-go-1m47)
+- [Taming the Surge: Rate Limiting Strategies in Phoenix APIs](https://dev.to/hexshift/taming-the-surge-rate-limiting-strategies-in-phoenix-apis-2ec2)
+- [Novidades do .NET MAUI no .NET 9: O Futuro do Desenvolvimento Multiplataforma](https://dev.to/daniloopinheiro/novidades-do-net-maui-no-net-9-o-futuro-do-desenvolvimento-multiplataforma-2o60)
+- [Novidades do C# 13: Recursos e Exemplos Práticos](https://dev.to/daniloopinheiro/novidades-do-c-13-recursos-e-exemplos-praticos-4g41)
+- [My Developer Toolkit](https://dev.to/jacobmillerv/my-developer-toolkit-41pa)
 <!-- BLOG-POST-LIST:END -->
 
