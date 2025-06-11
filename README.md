@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Leap Seconds and the 2005 Linux OS Glitch](https://dev.to/adityabhuyan/understanding-leap-seconds-and-the-2005-linux-os-glitch-2ffm)
-- [Development Guide for Food Discovery Application Based on HarmonyOS Next](https://dev.to/linzhongxue/development-guide-for-food-discovery-application-based-on-harmonyos-next-4k4d)
-- [Practical Guide to Developing a Food Discovery App Based on HarmonyOS Next](https://dev.to/linzhongxue/practical-guide-to-developing-a-food-discovery-app-based-on-harmonyos-next-5f3p)
-- [Full Analysis of &quot;TasteLog&quot; Food Community App Development Based on HarmonyOS Next](https://dev.to/linzhongxue/full-analysis-of-tastelog-food-community-app-development-based-on-harmonyos-next-5jj)
+- [Staying Alive: Phoenix LiveView’s Strategies for Reconnects, Recovery, and Real‑Time Resilience](https://dev.to/hexshift/staying-alive-phoenix-liveviews-strategies-for-reconnects-recovery-and-real-time-resilience-43l7)
+- [Clipboard, Tray Menus &amp; Global Hotkeys in NativePHP](https://dev.to/therahul_gupta/clipboard-tray-menus-global-hotkeys-in-nativephp-46p9)
+- [Neovim/vim macro](https://dev.to/hardyweb/neovimvim-macro-49fi)
+- [wise.commit – Smarter Git Commits with AI and Emojis](https://dev.to/samuelgomes0/wisecommit-smarter-git-commits-with-ai-and-emojis-2b05)
 <!-- BLOG-POST-LIST:END -->
 
