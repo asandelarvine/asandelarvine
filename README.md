@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brasil e o uso de IA como inovação de prateleira](https://dev.to/fraconca/brasil-e-o-uso-de-ia-como-inovacao-de-prateleira-2flf)
-- [Why Python for Testing? Advanced Guide to Automation with Pytest, Selenium &amp; More](https://dev.to/testrig/why-python-for-testing-advanced-guide-to-automation-with-pytest-selenium-more-4df4)
-- [How is AI being used in Manufacturing](https://dev.to/pooja_jhaveri_c45a639c74a/how-is-ai-being-used-in-manufacturing-15kn)
-- [Supadex: A Mobile Dashboard for Supabase Developers 🚀](https://dev.to/guiolmar/supadex-a-mobile-dashboard-for-supabase-developers-5973)
+- [Elegance in Every Ray: Discover the Best Sunglasses for Women](https://dev.to/prisha_singh_4b5f9d71bc64/elegance-in-every-ray-discover-the-best-sunglasses-for-women-3llh)
+- [Leveraging Robust Secrets Management for Secure Data Handling in Modern Applications](https://dev.to/zopdev/leveraging-robust-secrets-management-for-secure-data-handling-in-modern-applications-nel)
+- [Access Your Crypto Securely: Content Ledger Wallet Hub](https://dev.to/ledgercwallets/access-your-crypto-securely-content-ledger-wallet-hub-gb3)
+- [Designing E-Commerce Order Processing: Orchestration vs Choreography](https://dev.to/dinesh_dunukedeniya_539a3/designing-e-commerce-order-processing-orchestration-vs-choreography-2k6d)
 <!-- BLOG-POST-LIST:END -->
 
