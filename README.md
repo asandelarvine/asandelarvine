@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS to help with everyday shopping](https://dev.to/gracielle/saas-to-help-with-everyday-shopping-4f5i)
-- [**The Use of Excel for Data Analysis in the Real World**](https://dev.to/elizabeth_munyao_e6b65682/the-use-of-excel-for-data-analysis-in-the-real-world-274l)
-- [Shifting Left with Policy-as-Code: Enforcing Infrastructure Security in Your DevSecOps Pipeline using OPA and Rego](https://dev.to/vaib/shifting-left-with-policy-as-code-enforcing-infrastructure-security-in-your-devsecops-pipeline-1k0)
-- [Overwhelmed After Your 30-Day Sprint? Keep the Fire Alive with 5 Proven Language-Learning Habits](https://dev.to/yap2learn/overwhelmed-after-your-30-day-sprint-keep-the-fire-alive-with-5-proven-language-learning-habits-1fdn)
+- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-19ge)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/giddybyt/how-excel-is-used-in-real-world-data-analysis-1j39)
+- [Untitled](https://dev.to/sayed_sami_fe929b6ce27237/untitled-4kei)
+- [MARVEL POSTER [CSS GRID]](https://dev.to/mahmoud_adel_e2115d5a60b7/marvel-poster-css-grid-263c)
 <!-- BLOG-POST-LIST:END -->
 
