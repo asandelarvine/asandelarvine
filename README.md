@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Principles for Effective AI-Powered “Vibe-Coding”](https://dev.to/gifhow/top-5-principles-for-effective-ai-powered-vibe-coding-4c3)
-- [GitHub repo is live! If this feels useful or interesting, drop a ⭐ or try the quickstart. Curious how devs would actually use Tirne in real projects.　https://github.com/Tirne-ts/Tirne](https://dev.to/yukinisihikawa/github-repo-is-live-if-this-feels-useful-or-interesting-drop-a-or-try-the-quickstart-curious-170a)
-- [How to Use a Formula to Convert Text to Sentence Case in Excel?](https://dev.to/excel24x7/how-to-use-a-formula-to-convert-text-to-sentence-case-in-excel-3fl0)
-- [Vitara AI - A Vibe Coding Tools](https://dev.to/violetbrown/-1li5)
+- [Brasil e o uso de IA como inovação de prateleira](https://dev.to/fraconca/brasil-e-o-uso-de-ia-como-inovacao-de-prateleira-2flf)
+- [Why Python for Testing? Advanced Guide to Automation with Pytest, Selenium &amp; More](https://dev.to/testrig/why-python-for-testing-advanced-guide-to-automation-with-pytest-selenium-more-4df4)
+- [How is AI being used in Manufacturing](https://dev.to/pooja_jhaveri_c45a639c74a/how-is-ai-being-used-in-manufacturing-15kn)
+- [Supadex: A Mobile Dashboard for Supabase Developers 🚀](https://dev.to/guiolmar/supadex-a-mobile-dashboard-for-supabase-developers-5973)
 <!-- BLOG-POST-LIST:END -->
 
