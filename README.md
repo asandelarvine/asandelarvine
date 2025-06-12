@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An abstract about me regarding my career](https://dev.to/s_vasanth_183951c70f1bd52/an-abstract-about-me-regarding-my-career-2h95)
-- [🛠️ Setting Up Python, Anaconda, and Jupyter Notebook &lpar;Beginner’s Guide&rpar;](https://dev.to/shrey1910/setting-up-python-anaconda-and-jupyter-notebook-beginners-guide-3m2l)
-- [The Mind Behind the Code: How Psychology Shapes Us as Web Developers](https://dev.to/jliter/the-mind-behind-the-code-how-psychology-shapes-us-as-web-developers-1ke7)
-- [My Docker Adventure: A Journey to Containerization](https://dev.to/laroseikitama/my-docker-adventure-a-journey-to-containerization-mpp)
+- [Agent architectures that scale](https://dev.to/callebknox/agent-architectures-that-scale-53of)
+- [Why React Still Reigns Supreme &lpar;Even though it probably shouldn&#39;t&rpar;](https://dev.to/pranta/why-react-still-reigns-supreme-even-though-it-probably-shouldnt-2736)
+- [Multi‑Account AWS Deployments with Serverless Framework](https://dev.to/dipeshjaiswal/multi-account-aws-deployments-with-serverless-framework-4nae)
+- [Do We Really Need Another Framework?](https://dev.to/raxraj/do-we-really-need-another-framework-4pag)
 <!-- BLOG-POST-LIST:END -->
 
