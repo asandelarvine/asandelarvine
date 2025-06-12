@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we streamlined frontend development with OpenAPI 🚀](https://dev.to/senior-debugger/how-we-streamlined-frontend-development-with-openapi-4dn2)
-- [How To Convince Your Boss To Pay for Your Upskilling](https://dev.to/zerotomastery/how-to-convince-your-boss-to-pay-for-your-upskilling-c3f)
-- [Voice Cloning for Financial Services: Revolutionizing Customer Engagement in a Secure AWS Environment](https://dev.to/semperfitodd/voice-cloning-for-financial-services-revolutionizing-customer-engagement-in-a-secure-aws-5dpf)
-- [How I Built a Reusable Fetch Hook in React and Published It to npm](https://dev.to/ashraf_g43/how-i-built-a-reusable-fetch-hook-in-react-and-published-it-to-npm-4kb3)
+- [Introducing Turbo Transition: create smoother Turbo Streams](https://dev.to/railsdesigner/introducing-turbo-transition-create-smoother-turbo-streams-3i4n)
+- [🔥 Master JavaScript Objects: The Ultimate Guide with Real-World Examples!](https://dev.to/techsolver94/master-javascript-objects-the-ultimate-guide-with-real-world-examples-25c4)
+- [¡Blazor y .NET 9: Desbloqueando la Velocidad Extrema con Server-Side Rendering &lpar;SSR&rpar; Estático para tu Web!](https://dev.to/exavier_jaguileradev/blazor-y-net-9-desbloqueando-la-velocidad-extrema-con-server-side-rendering-ssr-estatico-para-5d4b)
+- [Hello DEV community](https://dev.to/aimee1980/hello-dev-community-2bc3)
 <!-- BLOG-POST-LIST:END -->
 
