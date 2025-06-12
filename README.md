@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 JavaScript: The Root, the Rise, and the Reality Behind the Web](https://dev.to/amitha_0706/javascript-the-root-the-rise-and-the-reality-behind-the-web-342b)
-- [Handling Validation Errors for Multiple Forms](https://dev.to/mmramadan496/handling-validation-errors-for-multiple-forms-1i9d)
-- [Customizing Pagination links and sliding window](https://dev.to/mmramadan496/customizing-pagination-links-and-sliding-window-1p29)
-- [[Hiring] ConsentKeys | REMOTE | OIDC Developer - Privacy-First Identity Platform](https://dev.to/jaskarandeogan/hiring-consentkeys-remote-oidc-developer-privacy-first-identity-platform-452h)
+- [App Intents for Apple ecosystem](https://dev.to/softwaretechpro/app-intents-for-apple-ecosystem-3nek)
+- [Scaling GitOps in the Enterprise: Secure Secrets, Policy as Code, and Multi-Cluster Strategies](https://dev.to/vaib/scaling-gitops-in-the-enterprise-secure-secrets-policy-as-code-and-multi-cluster-strategies-6hb)
+- [Understanding A2A and Agent Cards](https://dev.to/vishalmysore/understanding-a2a-and-agent-cards-1h7d)
+- [TCP &amp; UDP for Backend Developer](https://dev.to/omargoher/tcp-udp-for-backend-developer-3h7c)
 <!-- BLOG-POST-LIST:END -->
 
