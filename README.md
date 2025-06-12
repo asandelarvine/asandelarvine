@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Agent looks promising – Part2 &lpar;June 2025&rpar;](https://dev.to/markpelf/-github-copilot-agent-looks-promising-part2-june-2025-1igf)
-- [Unveiling Security Mechanisms in HarmonyOS 5&#39;s Cangjie Programming Language: From Static Typing to Null Reference Safety](https://dev.to/dcdvdv_a_5059c020ba962689/unveiling-security-mechanisms-in-harmonyos-5s-cangjie-programming-language-from-static-typing-to-pp3)
-- [GitHub Copilot Agent looks promising – Part1 &lpar;June 2025&rpar;](https://dev.to/markpelf/github-copilot-agent-looks-promising-part1-june-2025-4cfc)
-- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/orage_mayank/what-to-expect-from-apples-bold-new-liquid-glass-ui-4f8l)
+- [The Unstoppable Benefits of Fitness: Elevate Your Life Today!](https://dev.to/sia_negi21/the-unstoppable-benefits-of-fitness-elevate-your-life-today-1dbj)
+- [Upload File Using Fetch Method](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-using-fetch-method-5nk)
+- [Umemura Farm Website – Devlog #3: Rebuilding My LP Structure from the Ground Up](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-3-2h4e)
+- [Upload file Node JS](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-node-js-423e)
 <!-- BLOG-POST-LIST:END -->
 
