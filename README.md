@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unstoppable Benefits of Fitness: Elevate Your Life Today!](https://dev.to/sia_negi21/the-unstoppable-benefits-of-fitness-elevate-your-life-today-1dbj)
-- [Upload File Using Fetch Method](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-using-fetch-method-5nk)
-- [Umemura Farm Website – Devlog #3: Rebuilding My LP Structure from the Ground Up](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-3-2h4e)
-- [Upload file Node JS](https://dev.to/sabir_sheikh_cd49d4c419e3/upload-file-node-js-423e)
+- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H 🚀 Overview For the Runner H “AI Agent Prompting” Challenge, I wanted to create something powerful but practical — something that genuinely helps me manage my day as a busy student.](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-overview-for-the-runner-h-a6c)
+- [Java Stream API – Interview-Ready Code Snippets](https://dev.to/rock_win_c053fa5fb2399067/java-stream-api-interview-ready-code-snippets-5dgm)
+- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-3ffi)
+- [How Big Data and AI Work Together: The Future of Intelligent Systems](https://dev.to/rac/how-big-data-and-ai-work-together-the-future-of-intelligent-systems-4ppn)
 <!-- BLOG-POST-LIST:END -->
 
