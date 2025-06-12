@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Online Resources to Pass Any Palo Alto Certification Exam](https://dev.to/aakruthi_singh_ef9a32b0ab/best-online-resources-to-pass-any-palo-alto-certification-exam-5928)
-- [Day-11:Building an Age Category Checker using JavaScript If-Else Statements.](https://dev.to/sathish_226_/day-11building-an-age-category-checker-using-javascript-if-else-statements-4n5c)
-- [From JS Mess to TS Success: Narrow your types in Ember Templates](https://dev.to/lighthouse-intelligence/from-js-mess-to-ts-success-narrow-your-types-in-ember-templates-36pj)
-- [In 2025, the Government of Pakistan introduced a modernized version of the 8171 web portal to enhance the accessibility and transparency of the Benazir Income Support Program. https://balochistan.org.pk](https://dev.to/malik_umar_b8d6299b7f5eb9/in-2025-the-government-of-pakistan-introduced-a-modernized-version-of-the-8171-web-portal-to-406o)
+- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
+- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
+- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
+- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
 <!-- BLOG-POST-LIST:END -->
 
