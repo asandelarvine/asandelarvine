@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, Dev Community! 👋](https://dev.to/heesungf5/hello-dev-community-cpa)
-- [Your Post Titlasde2](https://dev.to/negitamaai/your-post-titlasde2-1mm2)
-- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/tanya_k_b7e02af0edda9ff27/what-to-expect-from-apples-bold-new-liquid-glass-ui-3jdo)
-- [I Tried Manus AI — The &quot;Do-Everything&quot; Agent Everyone&#39;s Talking About](https://dev.to/abdelazizel7or/i-tried-manus-ai-the-do-everything-agent-everyones-talking-about-148m)
+- [[Boost]](https://dev.to/vijayr00/-4i3j)
+- [How to Speed Up Associations between Large Primary and Sub Tables with esProc](https://dev.to/esproc_spl/how-to-speed-up-associations-between-large-primary-and-sub-tables-with-esproc-aec)
+- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
+- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
 <!-- BLOG-POST-LIST:END -->
 
