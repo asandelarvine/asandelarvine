@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NetSuite for agriculture](https://dev.to/joywinter90/netsuite-for-agriculture-e43)
-- [Are you Neglecting Centralized Error Handling?](https://dev.to/flutterwaveeng/are-you-neglecting-centralized-error-handling-519)
-- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
-- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
+- [Best Online Resources to Pass Any Palo Alto Certification Exam](https://dev.to/aakruthi_singh_ef9a32b0ab/best-online-resources-to-pass-any-palo-alto-certification-exam-5928)
+- [Day-11:Building an Age Category Checker using JavaScript If-Else Statements.](https://dev.to/sathish_226_/day-11building-an-age-category-checker-using-javascript-if-else-statements-4n5c)
+- [From JS Mess to TS Success: Narrow your types in Ember Templates](https://dev.to/lighthouse-intelligence/from-js-mess-to-ts-success-narrow-your-types-in-ember-templates-36pj)
+- [In 2025, the Government of Pakistan introduced a modernized version of the 8171 web portal to enhance the accessibility and transparency of the Benazir Income Support Program. https://balochistan.org.pk](https://dev.to/malik_umar_b8d6299b7f5eb9/in-2025-the-government-of-pakistan-introduced-a-modernized-version-of-the-8171-web-portal-to-406o)
 <!-- BLOG-POST-LIST:END -->
 
