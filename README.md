@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H 🚀 Overview For the Runner H “AI Agent Prompting” Challenge, I wanted to create something powerful but practical — something that genuinely helps me manage my day as a busy student.](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-overview-for-the-runner-h-a6c)
-- [Java Stream API – Interview-Ready Code Snippets](https://dev.to/rock_win_c053fa5fb2399067/java-stream-api-interview-ready-code-snippets-5dgm)
-- [🧠 Automating My Day Like a Boss: My AI Assistant Setup with Runner H](https://dev.to/bob_599e8420e1c/automating-my-day-like-a-boss-my-ai-assistant-setup-with-runner-h-3ffi)
-- [How Big Data and AI Work Together: The Future of Intelligent Systems](https://dev.to/rac/how-big-data-and-ai-work-together-the-future-of-intelligent-systems-4ppn)
+- [NetSuite for agriculture](https://dev.to/joywinter90/netsuite-for-agriculture-e43)
+- [Are you Neglecting Centralized Error Handling?](https://dev.to/flutterwaveeng/are-you-neglecting-centralized-error-handling-519)
+- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
+- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
 <!-- BLOG-POST-LIST:END -->
 
