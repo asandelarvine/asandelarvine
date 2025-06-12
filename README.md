@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
-- [Karaoke Maker: From Music Video to KTV](https://dev.to/bigi/karaoke-maker-from-music-video-to-ktv-52op)
-- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
-- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
+- [Build an LLM Web App in Python from Scratch: Part 4 &lpar;FastAPI, Background Tasks &amp; SSE&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-4-fastapi-background-tasks-sse-21g4)
+- [🔥 Stop Wasting Time Debugging Markdown Previews — Meet SubhDev.com 🚀](https://dev.to/subhdev_d32c76d3cb8f4e11d/stop-wasting-time-debugging-markdown-previews-meet-subhdevcom-4ae7)
+- [Gmsh FEA &amp; CFD mesh generation with MATLAB](https://dev.to/precise-simulation/gmsh-fea-cfd-mesh-generation-with-matlab-586a)
+- [Hexagonal Rails: Escape the Framework Trap](https://dev.to/alex_aslam/hexagonal-rails-escape-the-framework-trap-3bc1)
 <!-- BLOG-POST-LIST:END -->
 
