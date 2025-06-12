@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an LLM Web App in Python from Scratch: Part 4 &lpar;FastAPI, Background Tasks &amp; SSE&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-4-fastapi-background-tasks-sse-21g4)
-- [🔥 Stop Wasting Time Debugging Markdown Previews — Meet SubhDev.com 🚀](https://dev.to/subhdev_d32c76d3cb8f4e11d/stop-wasting-time-debugging-markdown-previews-meet-subhdevcom-4ae7)
-- [Gmsh FEA &amp; CFD mesh generation with MATLAB](https://dev.to/precise-simulation/gmsh-fea-cfd-mesh-generation-with-matlab-586a)
-- [Hexagonal Rails: Escape the Framework Trap](https://dev.to/alex_aslam/hexagonal-rails-escape-the-framework-trap-3bc1)
+- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
+- [My HTML Learning Journey](https://dev.to/praveena_2109/my-html-learning-journey-1k3c)
+- [Getting Started with Web Development: My First Day Learning HTML &amp; CSS](https://dev.to/megha_m_3acdfe3f62da7873f/getting-started-with-web-development-my-first-day-learning-html-css-5hhi)
+- [Creative coding like this is exactly the kind of work that reminds us tech can be both expressive and deeply human. Plus pure CSS for sky, stars, and aurora ✨](https://dev.to/sarahmatta/creative-coding-like-this-is-exactly-the-kind-of-work-that-reminds-us-tech-can-be-both-expressive-cm2)
 <!-- BLOG-POST-LIST:END -->
 
