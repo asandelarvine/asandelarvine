@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Turbo Transition: create smoother Turbo Streams](https://dev.to/railsdesigner/introducing-turbo-transition-create-smoother-turbo-streams-3i4n)
-- [🔥 Master JavaScript Objects: The Ultimate Guide with Real-World Examples!](https://dev.to/techsolver94/master-javascript-objects-the-ultimate-guide-with-real-world-examples-25c4)
-- [¡Blazor y .NET 9: Desbloqueando la Velocidad Extrema con Server-Side Rendering &lpar;SSR&rpar; Estático para tu Web!](https://dev.to/exavier_jaguileradev/blazor-y-net-9-desbloqueando-la-velocidad-extrema-con-server-side-rendering-ssr-estatico-para-5d4b)
-- [Hello DEV community](https://dev.to/aimee1980/hello-dev-community-2bc3)
+- [This article helped me understand that remote work is not just about flexibility but also about building systems that support trust and autonomy.](https://dev.to/thejuanchua/this-article-helped-me-understand-that-remote-work-is-not-just-about-flexibility-but-also-about-4p0f)
+- [I sent this to our HR and security teams right after reading it. Better safe than sorry.](https://dev.to/thejuanchua/i-sent-this-to-our-hr-and-security-teams-right-after-reading-it-better-safe-than-sorry-4io)
+- [What stands out here is the way emotion and strategy are blended. Very few posts do that well.](https://dev.to/thejuanchua/what-stands-out-here-is-the-way-emotion-and-strategy-are-blended-very-few-posts-do-that-well-2bgk)
+- [The AI Revolution in Ethical Hacking: Empowering Defenders in the Digital Age](https://dev.to/vaib/the-ai-revolution-in-ethical-hacking-empowering-defenders-in-the-digital-age-52ag)
 <!-- BLOG-POST-LIST:END -->
 
