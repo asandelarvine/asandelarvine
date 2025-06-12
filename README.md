@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/vijayr00/-4i3j)
-- [How to Speed Up Associations between Large Primary and Sub Tables with esProc](https://dev.to/esproc_spl/how-to-speed-up-associations-between-large-primary-and-sub-tables-with-esproc-aec)
-- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
-- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
+- [GitHub Copilot Agent looks promising – Part2 &lpar;June 2025&rpar;](https://dev.to/markpelf/-github-copilot-agent-looks-promising-part2-june-2025-1igf)
+- [Unveiling Security Mechanisms in HarmonyOS 5&#39;s Cangjie Programming Language: From Static Typing to Null Reference Safety](https://dev.to/dcdvdv_a_5059c020ba962689/unveiling-security-mechanisms-in-harmonyos-5s-cangjie-programming-language-from-static-typing-to-pp3)
+- [GitHub Copilot Agent looks promising – Part1 &lpar;June 2025&rpar;](https://dev.to/markpelf/github-copilot-agent-looks-promising-part1-june-2025-4cfc)
+- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/orage_mayank/what-to-expect-from-apples-bold-new-liquid-glass-ui-4f8l)
 <!-- BLOG-POST-LIST:END -->
 
