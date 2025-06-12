@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [App Intents for Apple ecosystem](https://dev.to/softwaretechpro/app-intents-for-apple-ecosystem-3nek)
-- [Scaling GitOps in the Enterprise: Secure Secrets, Policy as Code, and Multi-Cluster Strategies](https://dev.to/vaib/scaling-gitops-in-the-enterprise-secure-secrets-policy-as-code-and-multi-cluster-strategies-6hb)
-- [Understanding A2A and Agent Cards](https://dev.to/vishalmysore/understanding-a2a-and-agent-cards-1h7d)
-- [TCP &amp; UDP for Backend Developer](https://dev.to/omargoher/tcp-udp-for-backend-developer-3h7c)
+- [Web Performance Optimization in 2025](https://dev.to/free_programmers/web-performance-optimization-in-2025-28ko)
+- [Code Smell 303 - Breaking Changes](https://dev.to/mcsee/code-smell-303-breaking-changes-36hh)
+- [Web Performance Optimization in 2025: Build a Site Faster Than a Rocket!](https://dev.to/free_programmers/web-performance-optimization-in-2025-build-a-site-faster-than-a-rocket-1id1)
+- [Limitations of Google Patents Advanced Search for Invalidation: What IP Professionals Need to Know](https://dev.to/patentscanai/limitations-of-google-patents-advanced-search-for-invalidation-what-ip-professionals-need-to-know-3ep2)
 <!-- BLOG-POST-LIST:END -->
 
