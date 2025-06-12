@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This article helped me understand that remote work is not just about flexibility but also about building systems that support trust and autonomy.](https://dev.to/thejuanchua/this-article-helped-me-understand-that-remote-work-is-not-just-about-flexibility-but-also-about-4p0f)
-- [I sent this to our HR and security teams right after reading it. Better safe than sorry.](https://dev.to/thejuanchua/i-sent-this-to-our-hr-and-security-teams-right-after-reading-it-better-safe-than-sorry-4io)
-- [What stands out here is the way emotion and strategy are blended. Very few posts do that well.](https://dev.to/thejuanchua/what-stands-out-here-is-the-way-emotion-and-strategy-are-blended-very-few-posts-do-that-well-2bgk)
-- [The AI Revolution in Ethical Hacking: Empowering Defenders in the Digital Age](https://dev.to/vaib/the-ai-revolution-in-ethical-hacking-empowering-defenders-in-the-digital-age-52ag)
+- [DevOps to finance: Explaining CI costs to your CFO](https://dev.to/depot/devops-to-finance-explaining-ci-costs-to-your-cfo-4dbe)
+- [The Business-First Approach to Cybersecurity: Why Technical Excellence Isn&#39;t Enough in 2025](https://dev.to/cristiangutie/the-business-first-approach-to-cybersecurity-why-technical-excellence-isnt-enough-in-2025-5755)
+- [React Reconciliation: From Stack to Fiber — What Changed and Why It Matters](https://dev.to/darshanakkhichi/react-reconciliation-from-stack-to-fiber-what-changed-and-why-it-matters-23gp)
+- [First Ever Images of the Sun’s Poles Open a New Frontier in Space Science &lpar;20250612-130651&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/first-ever-images-of-the-suns-poles-open-a-new-frontier-in-space-science-20250612-130651-39be)
 <!-- BLOG-POST-LIST:END -->
 
