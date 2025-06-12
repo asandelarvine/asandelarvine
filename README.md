@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent architectures that scale](https://dev.to/callebknox/agent-architectures-that-scale-53of)
-- [Why React Still Reigns Supreme &lpar;Even though it probably shouldn&#39;t&rpar;](https://dev.to/pranta/why-react-still-reigns-supreme-even-though-it-probably-shouldnt-2736)
-- [Multi‑Account AWS Deployments with Serverless Framework](https://dev.to/dipeshjaiswal/multi-account-aws-deployments-with-serverless-framework-4nae)
-- [Do We Really Need Another Framework?](https://dev.to/raxraj/do-we-really-need-another-framework-4pag)
+- [Productivity with AI: A Double-Edged Boost](https://dev.to/jakubstetz/productivity-with-ai-a-double-edged-boost-3a9j)
+- [I learned introduction of React...](https://dev.to/mukilaperiyasamy/i-learned-introduction-of-react-n1o)
+- [The Booming Era of Energy Storage: EMS and SCADA integration in Hybrid Power Plants](https://dev.to/rubn_parra_7072a9d10485e/the-booming-era-of-energy-storage-ems-and-scada-integration-in-hybrid-power-plants-5e25)
+- [Understanding Prototypes in JavaScript](https://dev.to/toni_naumoski_mk/understanding-prototypes-in-javascript-460g)
 <!-- BLOG-POST-LIST:END -->
 
