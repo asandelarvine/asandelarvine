@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps to finance: Explaining CI costs to your CFO](https://dev.to/depot/devops-to-finance-explaining-ci-costs-to-your-cfo-4dbe)
-- [The Business-First Approach to Cybersecurity: Why Technical Excellence Isn&#39;t Enough in 2025](https://dev.to/cristiangutie/the-business-first-approach-to-cybersecurity-why-technical-excellence-isnt-enough-in-2025-5755)
-- [React Reconciliation: From Stack to Fiber — What Changed and Why It Matters](https://dev.to/darshanakkhichi/react-reconciliation-from-stack-to-fiber-what-changed-and-why-it-matters-23gp)
-- [First Ever Images of the Sun’s Poles Open a New Frontier in Space Science &lpar;20250612-130651&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/first-ever-images-of-the-suns-poles-open-a-new-frontier-in-space-science-20250612-130651-39be)
+- [🌐 JavaScript: The Root, the Rise, and the Reality Behind the Web](https://dev.to/amitha_0706/javascript-the-root-the-rise-and-the-reality-behind-the-web-342b)
+- [Handling Validation Errors for Multiple Forms](https://dev.to/mmramadan496/handling-validation-errors-for-multiple-forms-1i9d)
+- [Customizing Pagination links and sliding window](https://dev.to/mmramadan496/customizing-pagination-links-and-sliding-window-1p29)
+- [[Hiring] ConsentKeys | REMOTE | OIDC Developer - Privacy-First Identity Platform](https://dev.to/jaskarandeogan/hiring-consentkeys-remote-oidc-developer-privacy-first-identity-platform-452h)
 <!-- BLOG-POST-LIST:END -->
 
