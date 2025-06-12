@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [비밀번호 입력 없이 ssh로 서버 접속](https://dev.to/__aa3e4bc832ba7032bfa3/bimilbeonho-ibryeog-eobsi-sshro-seobeo-jeobsog-log)
-- [Choosing the Right AI Agent Frameworks for Your Project](https://dev.to/lollypopdesign/choosing-the-right-ai-agent-frameworks-for-your-project-253a)
-- [🎯&quot;Maximum Difference Between Adjacent Elements in a Circular Array&quot; LeetCode 3423 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-adjacent-elements-in-a-circular-array-leetcode-3423-c-javascript-282i)
-- [&#39;Factory-style hackers&#39; who manipulate rankings with macros... Real-life security story blocked with LIAPP](https://dev.to/liapp/factory-style-hackers-who-manipulate-rankings-with-macros-real-life-security-story-blocked-bdp)
+- [Stop Measuring Story Points: Why Your Developer Productivity Metrics Are Actively Harming Your Team](https://dev.to/teamcamp/stop-measuring-story-points-why-your-developer-productivity-metrics-are-actively-harming-your-team-1p3b)
+- [Challenge: Upload File Path Traversal](https://dev.to/travondatrack/challenge-upload-file-path-traversal-pl4)
+- [Top Selenium Best Practices for Reliable and Scalable Test Automation](https://dev.to/misterankit/top-selenium-best-practices-for-reliable-and-scalable-test-automation-5g98)
+- [The One Line of Code That Crashes Most Node.js Apps](https://dev.to/arunangshu_das/the-one-line-of-code-that-crashes-most-nodejs-apps-pbj)
 <!-- BLOG-POST-LIST:END -->
 
