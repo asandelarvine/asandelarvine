@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Will Build the Future of Web3?](https://dev.to/martin_call/who-will-build-the-future-of-web3-i8d)
-- [Facebook Login in Angular 20 Using Standalone Components](https://dev.to/djamware_tutorial_eba1a61/facebook-login-in-angular-20-using-standalone-components-2m57)
-- [3 Features Every Debugging Tool Should Have](https://dev.to/tomjohnson3/3-features-every-debugging-tool-should-have-1kag)
-- [From Scratch to Kubernetes: My Full-Stack DevOps Project on a Local Machine](https://dev.to/david_oyewole/from-scratch-to-kubernetes-my-full-stack-devops-project-on-a-local-machine-1143)
+- [An abstract about me regarding my career](https://dev.to/s_vasanth_183951c70f1bd52/an-abstract-about-me-regarding-my-career-2h95)
+- [🛠️ Setting Up Python, Anaconda, and Jupyter Notebook &lpar;Beginner’s Guide&rpar;](https://dev.to/shrey1910/setting-up-python-anaconda-and-jupyter-notebook-beginners-guide-3m2l)
+- [The Mind Behind the Code: How Psychology Shapes Us as Web Developers](https://dev.to/jliter/the-mind-behind-the-code-how-psychology-shapes-us-as-web-developers-1ke7)
+- [My Docker Adventure: A Journey to Containerization](https://dev.to/laroseikitama/my-docker-adventure-a-journey-to-containerization-mpp)
 <!-- BLOG-POST-LIST:END -->
 
