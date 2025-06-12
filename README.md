@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
-- [My HTML Learning Journey](https://dev.to/praveena_2109/my-html-learning-journey-1k3c)
-- [Getting Started with Web Development: My First Day Learning HTML &amp; CSS](https://dev.to/megha_m_3acdfe3f62da7873f/getting-started-with-web-development-my-first-day-learning-html-css-5hhi)
-- [Creative coding like this is exactly the kind of work that reminds us tech can be both expressive and deeply human. Plus pure CSS for sky, stars, and aurora ✨](https://dev.to/sarahmatta/creative-coding-like-this-is-exactly-the-kind-of-work-that-reminds-us-tech-can-be-both-expressive-cm2)
+- [비밀번호 입력 없이 ssh로 서버 접속](https://dev.to/__aa3e4bc832ba7032bfa3/bimilbeonho-ibryeog-eobsi-sshro-seobeo-jeobsog-log)
+- [Choosing the Right AI Agent Frameworks for Your Project](https://dev.to/lollypopdesign/choosing-the-right-ai-agent-frameworks-for-your-project-253a)
+- [🎯&quot;Maximum Difference Between Adjacent Elements in a Circular Array&quot; LeetCode 3423 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-adjacent-elements-in-a-circular-array-leetcode-3423-c-javascript-282i)
+- [&#39;Factory-style hackers&#39; who manipulate rankings with macros... Real-life security story blocked with LIAPP](https://dev.to/liapp/factory-style-hackers-who-manipulate-rankings-with-macros-real-life-security-story-blocked-bdp)
 <!-- BLOG-POST-LIST:END -->
 
