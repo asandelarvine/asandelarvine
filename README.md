@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Measuring Story Points: Why Your Developer Productivity Metrics Are Actively Harming Your Team](https://dev.to/teamcamp/stop-measuring-story-points-why-your-developer-productivity-metrics-are-actively-harming-your-team-1p3b)
-- [Challenge: Upload File Path Traversal](https://dev.to/travondatrack/challenge-upload-file-path-traversal-pl4)
-- [Top Selenium Best Practices for Reliable and Scalable Test Automation](https://dev.to/misterankit/top-selenium-best-practices-for-reliable-and-scalable-test-automation-5g98)
-- [The One Line of Code That Crashes Most Node.js Apps](https://dev.to/arunangshu_das/the-one-line-of-code-that-crashes-most-nodejs-apps-pbj)
+- [Hello, Dev Community! 👋](https://dev.to/heesungf5/hello-dev-community-cpa)
+- [Your Post Titlasde2](https://dev.to/negitamaai/your-post-titlasde2-1mm2)
+- [What To Expect From Apple&#39;s Bold New Liquid Glass UI](https://dev.to/tanya_k_b7e02af0edda9ff27/what-to-expect-from-apples-bold-new-liquid-glass-ui-3jdo)
+- [I Tried Manus AI — The &quot;Do-Everything&quot; Agent Everyone&#39;s Talking About](https://dev.to/abdelazizel7or/i-tried-manus-ai-the-do-everything-agent-everyones-talking-about-148m)
 <!-- BLOG-POST-LIST:END -->
 
