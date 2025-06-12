@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity with AI: A Double-Edged Boost](https://dev.to/jakubstetz/productivity-with-ai-a-double-edged-boost-3a9j)
-- [I learned introduction of React...](https://dev.to/mukilaperiyasamy/i-learned-introduction-of-react-n1o)
-- [The Booming Era of Energy Storage: EMS and SCADA integration in Hybrid Power Plants](https://dev.to/rubn_parra_7072a9d10485e/the-booming-era-of-energy-storage-ems-and-scada-integration-in-hybrid-power-plants-5e25)
-- [Understanding Prototypes in JavaScript](https://dev.to/toni_naumoski_mk/understanding-prototypes-in-javascript-460g)
+- [How we streamlined frontend development with OpenAPI 🚀](https://dev.to/senior-debugger/how-we-streamlined-frontend-development-with-openapi-4dn2)
+- [How To Convince Your Boss To Pay for Your Upskilling](https://dev.to/zerotomastery/how-to-convince-your-boss-to-pay-for-your-upskilling-c3f)
+- [Voice Cloning for Financial Services: Revolutionizing Customer Engagement in a Secure AWS Environment](https://dev.to/semperfitodd/voice-cloning-for-financial-services-revolutionizing-customer-engagement-in-a-secure-aws-5dpf)
+- [How I Built a Reusable Fetch Hook in React and Published It to npm](https://dev.to/ashraf_g43/how-i-built-a-reusable-fetch-hook-in-react-and-published-it-to-npm-4kb3)
 <!-- BLOG-POST-LIST:END -->
 
