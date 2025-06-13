@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Father&#39;s Day means Dad Jokes.](https://dev.to/jarvisscript/fathers-day-means-dad-jokes-2554)
-- [My GitHub Journey: Learning SQL, Excel &amp; Automation for Admin Success](https://dev.to/syed_moin/my-github-journey-learning-sql-excel-automation-for-admin-success-198)
-- [Couchbase Weekly Updates - June 13, 2025](https://dev.to/couchbase/couchbase-weekly-updates-june-13-2025-43ag)
-- [dev.to and hashnode test](https://dev.to/imkarthikeyan/devto-and-hashnode-test-lfg)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3298)
+- [我与Hyperlane框架的探索之旅：从入门到性能优化](https://dev.to/_95e41982c9ad08a13458d/wo-yu-hyperlanekuang-jia-de-tan-suo-zhi-lu-cong-ru-men-dao-xing-neng-you-hua-5f25)
+- [How to setup Corporate Identity Access at scale in AWS?](https://dev.to/afrazkhan/how-to-setup-corporate-identity-access-at-scale-in-aws-3jol)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-1la7)
 <!-- BLOG-POST-LIST:END -->
 
