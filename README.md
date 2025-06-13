@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Performance Optimization in 2025](https://dev.to/free_programmers/web-performance-optimization-in-2025-28ko)
-- [Code Smell 303 - Breaking Changes](https://dev.to/mcsee/code-smell-303-breaking-changes-36hh)
-- [Web Performance Optimization in 2025: Build a Site Faster Than a Rocket!](https://dev.to/free_programmers/web-performance-optimization-in-2025-build-a-site-faster-than-a-rocket-1id1)
-- [Limitations of Google Patents Advanced Search for Invalidation: What IP Professionals Need to Know](https://dev.to/patentscanai/limitations-of-google-patents-advanced-search-for-invalidation-what-ip-professionals-need-to-know-3ep2)
+- [How to Structure a React Project in 2025: Clean, Scalable, and Practical](https://dev.to/algo_sync/how-to-structure-a-react-project-in-2025-clean-scalable-and-practical-15j6)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-248f)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-2jg1)
+- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-4da6)
 <!-- BLOG-POST-LIST:END -->
 
