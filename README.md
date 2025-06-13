@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Lists](https://dev.to/visali_nedunchezhian_ee73/html-lists-752)
-- [Adobe Photoshop Beta Now on Android – AI Editing Power in Your Pocket &lpar;But With Limits&rpar;](https://dev.to/squaredtech/adobe-photoshop-beta-now-on-android-ai-editing-power-in-your-pocket-but-with-limits-3f8)
-- [Untitled](https://dev.to/__ac16cdcf5f09e68/untitled-3jkh)
-- [Scaling Your Node.js App: An Introduction to Clustering](https://dev.to/erickengelhardt/scaling-your-nodejs-app-an-introduction-to-clustering-ff7)
+- [Postgres is Too Good &lpar;And Why That&#39;s Actually a Problem&rpar;](https://dev.to/shayy/postgres-is-too-good-and-why-thats-actually-a-problem-4imc)
+- [The Developer&#39;s Guide to Opening VS Code: From Noob to Ninja &lpar;and Everything Hilariously Wrong in Between&rpar;](https://dev.to/veronika_alejandraflores/the-developers-guide-to-opening-vs-code-from-noob-to-ninja-and-everything-hilariously-wrong-in-14n8)
+- [Beyond Buzzwords: Practical Domain-Driven Design in Action](https://dev.to/vaib/beyond-buzzwords-practical-domain-driven-design-in-action-37in)
+- [Five mistakes that slowed me down in learning to code](https://dev.to/uzzy412_73/five-mistakes-that-slowed-me-down-in-learning-to-code-c6o)
 <!-- BLOG-POST-LIST:END -->
 
