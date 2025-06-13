@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a WebSocket server easily with Go: EasyWS makes everything simple](https://dev.to/whoami_v_7bf12869d3cda8c6/build-a-websocket-server-easily-with-go-easyws-makes-everything-simple-3k4c)
-- [My First HTML &amp; CSS Web Page learning](https://dev.to/2021_cse_gayathrir_e733/my-first-html-css-web-page-jid)
-- [GeoServer Hit by Critical SSRF and XXE Vulnerabilities — Patch Now!](https://dev.to/sharon_42e16b8da44dabde6d/geoserver-hit-by-critical-ssrf-and-xxe-vulnerabilities-patch-now-36j4)
-- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-5k1)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-41ch)
+- [我与Hyperlane框架的探索之旅：从入门到性能优化](https://dev.to/_95e41982c9ad08a13458d/wo-yu-hyperlanekuang-jia-de-tan-suo-zhi-lu-cong-ru-men-dao-xing-neng-you-hua-5bi9)
+- [展望Hyperlane的未来：一个大三学生的开发心得与思考](https://dev.to/_95e41982c9ad08a13458d/zhan-wang-hyperlanede-wei-lai-ge-da-san-xue-sheng-de-kai-fa-xin-de-yu-si-kao-2o4p)
 <!-- BLOG-POST-LIST:END -->
 
