@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Structure a React Project in 2025: Clean, Scalable, and Practical](https://dev.to/algo_sync/how-to-structure-a-react-project-in-2025-clean-scalable-and-practical-15j6)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-248f)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-2jg1)
-- [Hyperlane：新一代高性能Rust框架的实战体验](https://dev.to/_95e41982c9ad08a13458d/hyperlanexin-dai-gao-xing-neng-rustkuang-jia-de-shi-zhan-ti-yan-4da6)
+- [Build a WebSocket server easily with Go: EasyWS makes everything simple](https://dev.to/whoami_v_7bf12869d3cda8c6/build-a-websocket-server-easily-with-go-easyws-makes-everything-simple-3k4c)
+- [My First HTML &amp; CSS Web Page learning](https://dev.to/2021_cse_gayathrir_e733/my-first-html-css-web-page-jid)
+- [GeoServer Hit by Critical SSRF and XXE Vulnerabilities — Patch Now!](https://dev.to/sharon_42e16b8da44dabde6d/geoserver-hit-by-critical-ssrf-and-xxe-vulnerabilities-patch-now-36j4)
+- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
 <!-- BLOG-POST-LIST:END -->
 
