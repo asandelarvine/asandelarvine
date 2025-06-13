@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-3f0e)
-- [Unlocking Memory in Agentic AI: 3 Powerful Open-Source Frameworks Driving the Future of Context-Aware Intelligence](https://dev.to/surgedatalab/unlocking-memory-in-agentic-ai-3-powerful-open-source-frameworks-driving-the-future-of-f90)
-- [展望Hyperlane的未来：一个大三学生的开发心得与思考](https://dev.to/_95e41982c9ad08a13458d/zhan-wang-hyperlanede-wei-lai-ge-da-san-xue-sheng-de-kai-fa-xin-de-yu-si-kao-3545)
-- [我用Hyperlane开发校园API的那些事儿：一个Rust新手的框架体验](https://dev.to/_95e41982c9ad08a13458d/wo-yong-hyperlanekai-fa-xiao-yuan-apide-na-xie-shi-er-ge-rustxin-shou-de-kuang-jia-ti-yan-434i)
+- [Apache Kafka and Spring Boot: A Simple Example](https://dev.to/nanditha_vuppunuthula_d09/apache-kafka-and-spring-boot-a-simple-example-5e05)
+- [🚀 Lovable vs. Cursor vs. Windsurf: Choosing the Right AI Development Tool for Your Needs](https://dev.to/icornea/lovable-vs-cursor-vs-windsurf-choosing-the-right-ai-development-tool-for-your-needs-1jmm)
+- [html lists with examples](https://dev.to/visali_nedunchezhian_ee73/html-lists-with-examples-59)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-3de6)
 <!-- BLOG-POST-LIST:END -->
 
