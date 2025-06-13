@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Shaping Employment &amp; Labor Law: An Attorney’s Take](https://dev.to/dalton_abreshears/how-ai-is-shaping-employment-labor-law-an-attorneys-take-4mkl)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-445e)
-- [Deploying a Python Microservices App on AWS with EKS, Docker, Helm, and RabbitMQ](https://dev.to/ngozi_n/deploying-a-python-microservices-app-on-aws-with-eks-docker-helm-and-rabbitmq-2n3n)
-- [Just Started Coding, Learn Agile to Build Real-World Skills](https://dev.to/2021_cse_gayathrir_e733/just-started-coding-learn-agile-to-build-real-world-skills-4eme)
+- [Father&#39;s Day means Dad Jokes.](https://dev.to/jarvisscript/fathers-day-means-dad-jokes-2554)
+- [My GitHub Journey: Learning SQL, Excel &amp; Automation for Admin Success](https://dev.to/syed_moin/my-github-journey-learning-sql-excel-automation-for-admin-success-198)
+- [Couchbase Weekly Updates - June 13, 2025](https://dev.to/couchbase/couchbase-weekly-updates-june-13-2025-43ag)
+- [dev.to and hashnode test](https://dev.to/imkarthikeyan/devto-and-hashnode-test-lfg)
 <!-- BLOG-POST-LIST:END -->
 
