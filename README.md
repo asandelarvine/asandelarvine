@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Posts by Month in Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-posts-by-month-in-bear-blog-4mda)
-- [How Excel is used in real -World Data Analysis.](https://dev.to/sumeya/how-excel-is-used-in-real-world-data-analysis-iic)
-- [.NET Moderno em Comunicação com MongoDB](https://dev.to/daniloopinheiro/net-moderno-em-comunicacao-com-mongodb-29ma)
-- [DEPENDENCY INVERSION IS REALLY USEFUL?](https://dev.to/yzpeedro/dependency-inversion-is-really-useful-3ag6)
+- [Mastering GitOps at Scale: Strategies for Multi-Cloud, Hybrid, and Edge](https://dev.to/vaib/mastering-gitops-at-scale-strategies-for-multi-cloud-hybrid-and-edge-3oah)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4nk4)
+- [How to Build Detailed Customer Personas Using AI](https://dev.to/mikuiwai/how-to-build-detailed-customer-personas-using-ai-l2n)
+- [How to Generate A/B Test Variations for Ads and Landing Pages with AI](https://dev.to/mikuiwai/how-to-generate-ab-test-variations-for-ads-and-landing-pages-with-ai-2idm)
 <!-- BLOG-POST-LIST:END -->
 
