@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitOps at Scale: Strategies for Multi-Cloud, Hybrid, and Edge](https://dev.to/vaib/mastering-gitops-at-scale-strategies-for-multi-cloud-hybrid-and-edge-3oah)
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4nk4)
-- [How to Build Detailed Customer Personas Using AI](https://dev.to/mikuiwai/how-to-build-detailed-customer-personas-using-ai-l2n)
-- [How to Generate A/B Test Variations for Ads and Landing Pages with AI](https://dev.to/mikuiwai/how-to-generate-ab-test-variations-for-ads-and-landing-pages-with-ai-2idm)
+- [GitHub Actions vs CircleCI: Which CI/CD Tool Should You Use in 2025?](https://dev.to/tedh1677/github-actions-vs-circleci-which-cicd-tool-should-you-use-in-2025-16c4)
+- [What I Learned in Tech: From Student to Full-Time Software Developer - Part 1/3](https://dev.to/arnavsharma2711/what-i-learned-in-tech-from-student-to-full-time-software-developer-part-13-2p14)
+- [AI Golf: Prompt Engineering for the Modern Age](https://dev.to/argenkiwi/ai-golf-prompt-engineering-for-the-modern-age-2oee)
+- [What I Learned About Arrays While Grinding NeetCode 150](https://dev.to/derya_65464c085c63b3c0788/what-i-learned-about-arrays-while-grinding-neetcode-150-31pe)
 <!-- BLOG-POST-LIST:END -->
 
