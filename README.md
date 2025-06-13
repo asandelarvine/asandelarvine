@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loved how this piece highlighted the power of clarity and confidence in email writing. It genuinely made me rethink the tone I use in my own messages.](https://dev.to/techbyfelix/loved-how-this-piece-highlighted-the-power-of-clarity-and-confidence-in-email-writing-it-genuinely-14cl)
-- [HarmonyOS Flutter Practice: 21- Detailed Explanation of Hybrid Development-1-Overview](https://dev.to/shaohushuo/harmonyos-flutter-practice-21-detailed-explanation-of-hybrid-development-1-overview-1ne2)
-- [Apple&#39;s Liquid Glass Design](https://dev.to/anistark/apples-liquid-glass-design-1ol5)
-- [Balancing Transparency and Privacy in Blockchain](https://dev.to/amio13/balancing-transparency-and-privacy-in-blockchain-5go7)
+- [How AI Is Shaping Employment &amp; Labor Law: An Attorney’s Take](https://dev.to/dalton_abreshears/how-ai-is-shaping-employment-labor-law-an-attorneys-take-4mkl)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-445e)
+- [Deploying a Python Microservices App on AWS with EKS, Docker, Helm, and RabbitMQ](https://dev.to/ngozi_n/deploying-a-python-microservices-app-on-aws-with-eks-docker-helm-and-rabbitmq-2n3n)
+- [Just Started Coding, Learn Agile to Build Real-World Skills](https://dev.to/2021_cse_gayathrir_e733/just-started-coding-learn-agile-to-build-real-world-skills-4eme)
 <!-- BLOG-POST-LIST:END -->
 
