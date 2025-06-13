@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Packaging &amp; Distribution](https://dev.to/godofgeeks/python-packaging-distribution-8ca)
-- [Understanding Variables and Data Types in C++](https://dev.to/tpointtech/understanding-variables-and-data-types-in-c-45hp)
-- [10+ Stunning React Icon Library](https://dev.to/theme_selection/10-stunning-react-icon-library-16a2)
-- [Top 7 Git Commands Every Developer Must Know &lpar;with Real-World Examples&rpar;](https://dev.to/red9systech/top-7-git-commands-every-developer-must-know-with-real-world-examples-1lcl)
+- [The Untold Problems of AI Agents &lpar;Explained Step by Step&rpar;](https://dev.to/abhishekshakya/the-untold-problems-of-ai-agents-explained-step-by-step-4c9h)
+- [HarmonyOS Overview - 01 What Is HarmonyOS](https://dev.to/harmonyosdevelopers/harmonyos-overview-01-what-is-harmonyos-2jkm)
+- [Mobile-First Isn’t Optional Anymore—It’s the Standard](https://dev.to/molly_scott_0605/mobile-first-isnt-optional-anymore-its-the-standard-1cpi)
+- [MySQL vs MongoDB - Visual Design with Real Data Models](https://dev.to/roxana_haidiner/mysql-vs-mongodb-visual-design-with-real-data-models-86l)
 <!-- BLOG-POST-LIST:END -->
 
