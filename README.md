@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to release development tools for Android XR glasses later this year](https://dev.to/future_arvr/google-to-release-development-tools-for-android-xr-glasses-later-this-year-35np)
-- [XREAL Project Aura: AR Glasses with up to 70 FoV - New X1S chip in the glasses and a Snapdragon in the puck](https://dev.to/future_arvr/xreal-project-aura-ar-glasses-with-up-to-70deg-fov-new-x1s-chip-in-the-glasses-and-a-snapdragon-in-1gc4)
-- [Samsung&#39;s Mixed Reality HMD ‘Project Moohan&#39; will launch in July](https://dev.to/future_arvr/samsungs-mixed-reality-hmd-project-moohan-will-launch-in-july-2pa9)
-- [IBM aims to build the world&#39;s first large-scale, error-corrected quantum computer by 2028](https://dev.to/future_quantum/ibm-aims-to-build-the-worlds-first-large-scale-error-corrected-quantum-computer-by-2028-2053)
+- [The oaoel were reversed](https://dev.to/jrgil20/the-oaoel-were-reversed-147k)
+- [Security Isn’t A Solo Sport: Community, Burnout, and Identity at BSides312](https://dev.to/gitguardian/security-isnt-a-solo-sport-community-burnout-and-identity-at-bsides312-1ef3)
+- [Why Functional Programming? 10 insights.](https://dev.to/k0sz/why-functional-programming-15cd)
+- [Understanding Concurrency in Go:A Beginner&#39;s Guide](https://dev.to/nungoedwin/understanding-concurrency-in-goa-beginners-guide-1m7e)
 <!-- BLOG-POST-LIST:END -->
 
