@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 12 most interesting DEV posts so far](https://dev.to/ingosteinke/my-12-most-interesting-dev-posts-so-far-iai)
-- [Snippai: An AI-Powered Screenshot Tool to Replace Snagit, Snipaste, and ShareX](https://dev.to/ytx/snippai-an-ai-powered-screenshot-tool-to-replace-snagit-snipaste-and-sharex-299o)
-- [Introducing Punch Name](https://dev.to/lanceway/introducing-punch-name-19p7)
-- [Choosing Your Developer Path Series: Yes, You Can Lead and Still Write Code](https://dev.to/tlorent/choosing-your-developer-path-series-yes-you-can-lead-and-still-write-code-3ma2)
+- [Cybersecurity Audit Checklist: The Risk of Free Online Tools](https://dev.to/liamcorwin/cybersecurity-audit-checklist-the-risk-of-free-online-tools-amj)
+- [eKilo – A super lightweight Vim alternative.](https://dev.to/antonio-foti/ekilo-a-super-lightweight-vim-alternative-1alf)
+- [打造你自己的虚拟定位神器：Linux Bash 脚本模拟 GPS NMEA 坐标](https://dev.to/ctkqiang/da-zao-ni-zi-ji-de-xu-ni-ding-wei-shen-qi-linux-bash-jiao-ben-mo-ni-gps-nmea-zuo-biao-5el3)
+- [Shallow Copy Vs Deep Copy](https://dev.to/pumpkin1996/shallow-copy-vs-deep-copy-o5p)
 <!-- BLOG-POST-LIST:END -->
 
