@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What To Expect From Apple’s Bold New Liquid Glass UI](https://dev.to/orage_technologies_/what-to-expect-from-apples-bold-new-liquid-glass-ui-4ic)
-- [LLMs are Bad at Math](https://dev.to/maximsaplin/llms-are-bad-at-math-5h4d)
-- [My SQL Learning Journey as an HR/Admin Assistant — From Basics to Real Projects](https://dev.to/syed_moin/my-sql-learning-journey-as-an-hradmin-assistant-from-basics-to-real-projects-329m)
-- [Why So Many Site Owners Still Skip Google Search Console &lpar;And Why They Shouldn’t&rpar;](https://dev.to/fayzakseo/why-so-many-site-owners-still-skip-google-search-console-and-why-they-shouldnt-3kmo)
+- [Python Packaging &amp; Distribution](https://dev.to/godofgeeks/python-packaging-distribution-8ca)
+- [Understanding Variables and Data Types in C++](https://dev.to/tpointtech/understanding-variables-and-data-types-in-c-45hp)
+- [10+ Stunning React Icon Library](https://dev.to/theme_selection/10-stunning-react-icon-library-16a2)
+- [Top 7 Git Commands Every Developer Must Know &lpar;with Real-World Examples&rpar;](https://dev.to/red9systech/top-7-git-commands-every-developer-must-know-with-real-world-examples-1lcl)
 <!-- BLOG-POST-LIST:END -->
 
