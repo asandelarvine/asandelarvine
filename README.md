@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Audit Checklist: The Risk of Free Online Tools](https://dev.to/liamcorwin/cybersecurity-audit-checklist-the-risk-of-free-online-tools-amj)
-- [eKilo – A super lightweight Vim alternative.](https://dev.to/antonio-foti/ekilo-a-super-lightweight-vim-alternative-1alf)
-- [打造你自己的虚拟定位神器：Linux Bash 脚本模拟 GPS NMEA 坐标](https://dev.to/ctkqiang/da-zao-ni-zi-ji-de-xu-ni-ding-wei-shen-qi-linux-bash-jiao-ben-mo-ni-gps-nmea-zuo-biao-5el3)
-- [Shallow Copy Vs Deep Copy](https://dev.to/pumpkin1996/shallow-copy-vs-deep-copy-o5p)
+- [Google to release development tools for Android XR glasses later this year](https://dev.to/future_arvr/google-to-release-development-tools-for-android-xr-glasses-later-this-year-35np)
+- [XREAL Project Aura: AR Glasses with up to 70 FoV - New X1S chip in the glasses and a Snapdragon in the puck](https://dev.to/future_arvr/xreal-project-aura-ar-glasses-with-up-to-70deg-fov-new-x1s-chip-in-the-glasses-and-a-snapdragon-in-1gc4)
+- [Samsung&#39;s Mixed Reality HMD ‘Project Moohan&#39; will launch in July](https://dev.to/future_arvr/samsungs-mixed-reality-hmd-project-moohan-will-launch-in-july-2pa9)
+- [IBM aims to build the world&#39;s first large-scale, error-corrected quantum computer by 2028](https://dev.to/future_quantum/ibm-aims-to-build-the-worlds-first-large-scale-error-corrected-quantum-computer-by-2028-2053)
 <!-- BLOG-POST-LIST:END -->
 
