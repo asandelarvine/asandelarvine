@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres is Too Good &lpar;And Why That&#39;s Actually a Problem&rpar;](https://dev.to/shayy/postgres-is-too-good-and-why-thats-actually-a-problem-4imc)
-- [The Developer&#39;s Guide to Opening VS Code: From Noob to Ninja &lpar;and Everything Hilariously Wrong in Between&rpar;](https://dev.to/veronika_alejandraflores/the-developers-guide-to-opening-vs-code-from-noob-to-ninja-and-everything-hilariously-wrong-in-14n8)
-- [Beyond Buzzwords: Practical Domain-Driven Design in Action](https://dev.to/vaib/beyond-buzzwords-practical-domain-driven-design-in-action-37in)
-- [Five mistakes that slowed me down in learning to code](https://dev.to/uzzy412_73/five-mistakes-that-slowed-me-down-in-learning-to-code-c6o)
+- [Step-by-Step Guide: Posts by Month in Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-posts-by-month-in-bear-blog-4mda)
+- [How Excel is used in real -World Data Analysis.](https://dev.to/sumeya/how-excel-is-used-in-real-world-data-analysis-iic)
+- [.NET Moderno em Comunicação com MongoDB](https://dev.to/daniloopinheiro/net-moderno-em-comunicacao-com-mongodb-29ma)
+- [DEPENDENCY INVERSION IS REALLY USEFUL?](https://dev.to/yzpeedro/dependency-inversion-is-really-useful-3ag6)
 <!-- BLOG-POST-LIST:END -->
 
