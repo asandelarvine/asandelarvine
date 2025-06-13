@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4b1p)
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-5c53)
-- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-2n3k)
-- [Best Ruby on Rails Hosting Providers in 2025 &lpar;Backed by 18 Years of Experience&rpar;](https://dev.to/railsfactory_sedin/best-ruby-on-rails-hosting-providers-in-2025-backed-by-18-years-of-experience-3cl1)
+- [What To Expect From Apple’s Bold New Liquid Glass UI](https://dev.to/orage_technologies_/what-to-expect-from-apples-bold-new-liquid-glass-ui-4ic)
+- [LLMs are Bad at Math](https://dev.to/maximsaplin/llms-are-bad-at-math-5h4d)
+- [My SQL Learning Journey as an HR/Admin Assistant — From Basics to Real Projects](https://dev.to/syed_moin/my-sql-learning-journey-as-an-hradmin-assistant-from-basics-to-real-projects-329m)
+- [Why So Many Site Owners Still Skip Google Search Console &lpar;And Why They Shouldn’t&rpar;](https://dev.to/fayzakseo/why-so-many-site-owners-still-skip-google-search-console-and-why-they-shouldnt-3kmo)
 <!-- BLOG-POST-LIST:END -->
 
