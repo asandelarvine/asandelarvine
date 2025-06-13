@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Untold Problems of AI Agents &lpar;Explained Step by Step&rpar;](https://dev.to/abhishekshakya/the-untold-problems-of-ai-agents-explained-step-by-step-4c9h)
-- [HarmonyOS Overview - 01 What Is HarmonyOS](https://dev.to/harmonyosdevelopers/harmonyos-overview-01-what-is-harmonyos-2jkm)
-- [Mobile-First Isn’t Optional Anymore—It’s the Standard](https://dev.to/molly_scott_0605/mobile-first-isnt-optional-anymore-its-the-standard-1cpi)
-- [MySQL vs MongoDB - Visual Design with Real Data Models](https://dev.to/roxana_haidiner/mysql-vs-mongodb-visual-design-with-real-data-models-86l)
+- [My 12 most interesting DEV posts so far](https://dev.to/ingosteinke/my-12-most-interesting-dev-posts-so-far-iai)
+- [Snippai: An AI-Powered Screenshot Tool to Replace Snagit, Snipaste, and ShareX](https://dev.to/ytx/snippai-an-ai-powered-screenshot-tool-to-replace-snagit-snipaste-and-sharex-299o)
+- [Introducing Punch Name](https://dev.to/lanceway/introducing-punch-name-19p7)
+- [Choosing Your Developer Path Series: Yes, You Can Lead and Still Write Code](https://dev.to/tlorent/choosing-your-developer-path-series-yes-you-can-lead-and-still-write-code-3ma2)
 <!-- BLOG-POST-LIST:END -->
 
