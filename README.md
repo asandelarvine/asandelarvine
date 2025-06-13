@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The oaoel were reversed](https://dev.to/jrgil20/the-oaoel-were-reversed-147k)
-- [Security Isn’t A Solo Sport: Community, Burnout, and Identity at BSides312](https://dev.to/gitguardian/security-isnt-a-solo-sport-community-burnout-and-identity-at-bsides312-1ef3)
-- [Why Functional Programming? 10 insights.](https://dev.to/k0sz/why-functional-programming-15cd)
-- [Understanding Concurrency in Go:A Beginner&#39;s Guide](https://dev.to/nungoedwin/understanding-concurrency-in-goa-beginners-guide-1m7e)
+- [Loved how this piece highlighted the power of clarity and confidence in email writing. It genuinely made me rethink the tone I use in my own messages.](https://dev.to/techbyfelix/loved-how-this-piece-highlighted-the-power-of-clarity-and-confidence-in-email-writing-it-genuinely-14cl)
+- [HarmonyOS Flutter Practice: 21- Detailed Explanation of Hybrid Development-1-Overview](https://dev.to/shaohushuo/harmonyos-flutter-practice-21-detailed-explanation-of-hybrid-development-1-overview-1ne2)
+- [Apple&#39;s Liquid Glass Design](https://dev.to/anistark/apples-liquid-glass-design-1ol5)
+- [Balancing Transparency and Privacy in Blockchain](https://dev.to/amio13/balancing-transparency-and-privacy-in-blockchain-5go7)
 <!-- BLOG-POST-LIST:END -->
 
