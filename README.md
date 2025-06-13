@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3298)
-- [我与Hyperlane框架的探索之旅：从入门到性能优化](https://dev.to/_95e41982c9ad08a13458d/wo-yu-hyperlanekuang-jia-de-tan-suo-zhi-lu-cong-ru-men-dao-xing-neng-you-hua-5f25)
-- [How to setup Corporate Identity Access at scale in AWS?](https://dev.to/afrazkhan/how-to-setup-corporate-identity-access-at-scale-in-aws-3jol)
-- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-1la7)
+- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-3f0e)
+- [Unlocking Memory in Agentic AI: 3 Powerful Open-Source Frameworks Driving the Future of Context-Aware Intelligence](https://dev.to/surgedatalab/unlocking-memory-in-agentic-ai-3-powerful-open-source-frameworks-driving-the-future-of-f90)
+- [展望Hyperlane的未来：一个大三学生的开发心得与思考](https://dev.to/_95e41982c9ad08a13458d/zhan-wang-hyperlanede-wei-lai-ge-da-san-xue-sheng-de-kai-fa-xin-de-yu-si-kao-3545)
+- [我用Hyperlane开发校园API的那些事儿：一个Rust新手的框架体验](https://dev.to/_95e41982c9ad08a13458d/wo-yong-hyperlanekai-fa-xiao-yuan-apide-na-xie-shi-er-ge-rustxin-shou-de-kuang-jia-ti-yan-434i)
 <!-- BLOG-POST-LIST:END -->
 
