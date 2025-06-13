@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka and Spring Boot: A Simple Example](https://dev.to/nanditha_vuppunuthula_d09/apache-kafka-and-spring-boot-a-simple-example-5e05)
-- [🚀 Lovable vs. Cursor vs. Windsurf: Choosing the Right AI Development Tool for Your Needs](https://dev.to/icornea/lovable-vs-cursor-vs-windsurf-choosing-the-right-ai-development-tool-for-your-needs-1jmm)
-- [html lists with examples](https://dev.to/visali_nedunchezhian_ee73/html-lists-with-examples-59)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-3de6)
+- [HTML Lists](https://dev.to/visali_nedunchezhian_ee73/html-lists-752)
+- [Adobe Photoshop Beta Now on Android – AI Editing Power in Your Pocket &lpar;But With Limits&rpar;](https://dev.to/squaredtech/adobe-photoshop-beta-now-on-android-ai-editing-power-in-your-pocket-but-with-limits-3f8)
+- [Untitled](https://dev.to/__ac16cdcf5f09e68/untitled-3jkh)
+- [Scaling Your Node.js App: An Introduction to Clustering](https://dev.to/erickengelhardt/scaling-your-nodejs-app-an-introduction-to-clustering-ff7)
 <!-- BLOG-POST-LIST:END -->
 
