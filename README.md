@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions vs CircleCI: Which CI/CD Tool Should You Use in 2025?](https://dev.to/tedh1677/github-actions-vs-circleci-which-cicd-tool-should-you-use-in-2025-16c4)
-- [What I Learned in Tech: From Student to Full-Time Software Developer - Part 1/3](https://dev.to/arnavsharma2711/what-i-learned-in-tech-from-student-to-full-time-software-developer-part-13-2p14)
-- [AI Golf: Prompt Engineering for the Modern Age](https://dev.to/argenkiwi/ai-golf-prompt-engineering-for-the-modern-age-2oee)
-- [What I Learned About Arrays While Grinding NeetCode 150](https://dev.to/derya_65464c085c63b3c0788/what-i-learned-about-arrays-while-grinding-neetcode-150-31pe)
+- [🧮 Beginner’s Guide to &quot;Maximum Difference by Remapping a Digit&quot; – LeetCode 2566 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-maximum-difference-by-remapping-a-digit-leetcode-2566-c-javascript--1lfa)
+- [TargetJS: Code-Ordered Reactivity and Targets - A New Paradigm for UI Development](https://dev.to/targetjs/targetjs-code-ordered-reactivity-and-targets-a-new-paradigm-for-ui-development-5eef)
+- [Application Framework: Cross-App Navigation Practice in HarmonyOS](https://dev.to/cn-gelivation/application-framework-cross-app-navigation-practice-in-harmonyos-1omn)
+- [DROGO Throne Ergonomic Gaming Chair Review: A Throne Built for Coders, Creators &amp; Gamers Alike](https://dev.to/codewithsuhani/drogo-throne-ergonomic-gaming-chair-review-a-throne-built-for-coders-creators-gamers-alike-3o0o)
 <!-- BLOG-POST-LIST:END -->
 
