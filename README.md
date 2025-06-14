@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Concurrency Patterns in Go](https://dev.to/godofgeeks/advanced-concurrency-patterns-in-go-2i88)
-- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-123i)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-fh1)
-- [The Pulse of Real-Time Interaction My &#39;Heartbeat Sync&#39; Journey with an Asynchronous Framework](https://dev.to/codeqwertyuiop/the-pulse-of-real-time-interaction-my-heartbeat-sync-journey-with-an-asynchronous-framework-4d8k)
+- [Implementation of HarmonyOS Schedule Feature](https://dev.to/isoneheart/implementation-of-harmonyos-schedule-feature-5fe7)
+- [[short] How to Check existing SSH public key in Windows](https://dev.to/softwarejutsu/short-how-to-check-existing-ssh-public-key-in-windows-43kb)
+- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-ibd)
+- [Free C++ Tutorial Point: Master C++ with Hands-On Learning](https://dev.to/tpointtechblog/free-c-tutorial-point-master-c-with-hands-on-learning-133p)
 <!-- BLOG-POST-LIST:END -->
 
