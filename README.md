@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Basic GenAI Terminologies Worth Knowing](https://dev.to/gervaisamoah/13-basic-genai-terminologies-worth-knowing-2dg7)
-- [Untitled](https://dev.to/mohamed_moazpollop_33437/untitled-3gih)
-- [Regular Expression or Regex - NLP](https://dev.to/datatoinfinity/regular-expression-or-regex-nlp-2mfo)
-- [IP &amp; Mac Address](https://dev.to/umairshakoor/ip-mac-address-56bo)
+- [WHILE LOOP](https://dev.to/vignesh_m_4971f2f8dfa54/while-loop-3ig5)
+- [about LLM and DeepLearning](https://dev.to/woodyxin/about-llm-and-deeplearning-4685)
+- [10 Tools Every Developer Should Try in 2025](https://dev.to/samuelmiozz/10-tools-every-developer-should-try-in-2025-3bif)
+- [Mastering AWS Knowledge Bases with Bedrock: A Complete Guide](https://dev.to/cloudoku-training/mastering-aws-knowledge-bases-with-bedrock-a-complete-guide-4o35)
 <!-- BLOG-POST-LIST:END -->
 
