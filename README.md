@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementation of HarmonyOS Schedule Feature](https://dev.to/isoneheart/implementation-of-harmonyos-schedule-feature-5fe7)
-- [[short] How to Check existing SSH public key in Windows](https://dev.to/softwarejutsu/short-how-to-check-existing-ssh-public-key-in-windows-43kb)
-- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-ibd)
-- [Free C++ Tutorial Point: Master C++ with Hands-On Learning](https://dev.to/tpointtechblog/free-c-tutorial-point-master-c-with-hands-on-learning-133p)
+- [Why We Switched from Godot to Unity – 5 Hard Lessons from an Indie Studio](https://dev.to/cosmictrinitygames/why-we-switched-from-godot-to-unity-5-hard-lessons-from-an-indie-studio-1ke4)
+- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-44gc)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-27lc)
+- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-1mhf)
 <!-- BLOG-POST-LIST:END -->
 
