@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Stack, Not a Startup: Creating Resilient One-Person Businesses](https://dev.to/codanyks/build-a-stack-not-a-startup-creating-resilient-one-person-businesses-54e2)
-- [Vue コンポーネント 階層](https://dev.to/nabbisen/vue-konponento-jie-ceng-4dd4)
-- [Oracle 23ai — Applying Grid Infrastructure Patches via GUI&lpar;Zero-Downtime&rpar;](https://dev.to/vahidusefzadeh/oracle-23ai-applying-grid-infrastructure-patches-via-guizero-downtime-49nl)
-- [Vue ディレクティブ 基本要素](https://dev.to/nabbisen/vue-deirekuteibu-ji-ben-yao-su-1epi)
+- [Thanks for this badge. I am proud to be a member of this great dev community!](https://dev.to/sinaezekiel/thanks-for-this-badge-i-am-proud-to-be-a-member-of-this-great-dev-community-16j)
+- [📬 Inbox Zero Butler – AI Agent for Smart Email Triage using Runner](https://dev.to/vishnu_rachapudi_75e73248/inbox-zero-butler-ai-agent-for-smart-email-triage-using-runner-5lc)
+- [My Journey Exploring Efficient Web Development Frameworks（1749917163660400）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749917163660400-1h87)
+- [Demystifying the Black Box: An Introduction to Explainable AI &lpar;XAI&rpar;](https://dev.to/vaib/demystifying-the-black-box-an-introduction-to-explainable-ai-xai-266h)
 <!-- BLOG-POST-LIST:END -->
 
