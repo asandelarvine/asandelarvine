@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧮 Beginner’s Guide to &quot;Maximum Difference by Remapping a Digit&quot; – LeetCode 2566 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-maximum-difference-by-remapping-a-digit-leetcode-2566-c-javascript--1lfa)
-- [TargetJS: Code-Ordered Reactivity and Targets - A New Paradigm for UI Development](https://dev.to/targetjs/targetjs-code-ordered-reactivity-and-targets-a-new-paradigm-for-ui-development-5eef)
-- [Application Framework: Cross-App Navigation Practice in HarmonyOS](https://dev.to/cn-gelivation/application-framework-cross-app-navigation-practice-in-harmonyos-1omn)
-- [DROGO Throne Ergonomic Gaming Chair Review: A Throne Built for Coders, Creators &amp; Gamers Alike](https://dev.to/codewithsuhani/drogo-throne-ergonomic-gaming-chair-review-a-throne-built-for-coders-creators-gamers-alike-3o0o)
+- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
+- [Why Every Junior Developer Should Learn Software Architecture Early](https://dev.to/techies_grow_28919d1972db/why-every-junior-developer-should-learn-software-architecture-early-97m)
+- [From Public AI to Military AI: Evolution, Ethics, and Implications](https://dev.to/ashikur_rahmannazil93/from-public-ai-to-military-ai-evolution-ethics-and-implications-3d71)
+- [Programming Differences Between a Normal Computer and a Supercomputer](https://dev.to/ashikur_rahmannazil93/programming-differences-between-a-normal-computer-and-a-supercomputer-5aoa)
 <!-- BLOG-POST-LIST:END -->
 
