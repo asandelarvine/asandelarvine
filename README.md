@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential uv Usage for Daily Development](https://dev.to/teihenn/essential-uv-usage-for-daily-development-gl0)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-n0i)
-- [Automate anything - Making research analysis effortless](https://dev.to/chiragagg5k/automate-anything-making-research-analysis-effortless-250a)
-- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-emo)
+- [✅ Type-Safe Utility Checks in TypeScript — 2025 Edition](https://dev.to/aleksei_aleinikov/type-safe-utility-checks-in-typescript-2025-edition-4en4)
+- [Golang with google wire](https://dev.to/kittichanr/golang-with-google-wire-516l)
+- [Introduction to DSA](https://dev.to/coder7475/introduction-to-dsa-42km)
+- [🧪 Virtual Environments for Data Engineers — 2025 Edition](https://dev.to/aleksei_aleinikov/virtual-environments-for-data-engineers-2025-edition-4km7)
 <!-- BLOG-POST-LIST:END -->
 
