@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KNN e Inteligência Artificial: Um Algoritmo Simples com Resultados Poderosos - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/knn-e-inteligencia-artificial-um-algoritmo-simples-com-resultados-poderosos-joao-claudio-nunes-49a0)
-- [揭秘下一代Web引擎：我的Rust框架深度体验与性能制胜之道](https://dev.to/codeqwertyuiop/jie-mi-xia-dai-webyin-qing-wo-de-rustkuang-jia-shen-du-ti-yan-yu-xing-neng-zhi-sheng-zhi-dao-ebi)
-- [性能优化实战：从理论到实践的深度探索](https://dev.to/codeqwertyuiop/xing-neng-you-hua-shi-zhan-cong-li-lun-dao-shi-jian-de-shen-du-tan-suo-560n)
-- [The Developer&#39;s Guide to Green Coding: Reducing Your Software&#39;s Carbon Footprint](https://dev.to/vaib/the-developers-guide-to-green-coding-reducing-your-softwares-carbon-footprint-5amo)
+- [Essential uv Usage for Daily Development](https://dev.to/teihenn/essential-uv-usage-for-daily-development-gl0)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-n0i)
+- [Automate anything - Making research analysis effortless](https://dev.to/chiragagg5k/automate-anything-making-research-analysis-effortless-250a)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-emo)
 <!-- BLOG-POST-LIST:END -->
 
