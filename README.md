@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Type-Safe Utility Checks in TypeScript — 2025 Edition](https://dev.to/aleksei_aleinikov/type-safe-utility-checks-in-typescript-2025-edition-4en4)
-- [Golang with google wire](https://dev.to/kittichanr/golang-with-google-wire-516l)
-- [Introduction to DSA](https://dev.to/coder7475/introduction-to-dsa-42km)
-- [🧪 Virtual Environments for Data Engineers — 2025 Edition](https://dev.to/aleksei_aleinikov/virtual-environments-for-data-engineers-2025-edition-4km7)
+- [Advanced Concurrency Patterns in Go](https://dev.to/godofgeeks/advanced-concurrency-patterns-in-go-2i88)
+- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-123i)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-fh1)
+- [The Pulse of Real-Time Interaction My &#39;Heartbeat Sync&#39; Journey with an Asynchronous Framework](https://dev.to/codeqwertyuiop/the-pulse-of-real-time-interaction-my-heartbeat-sync-journey-with-an-asynchronous-framework-4d8k)
 <!-- BLOG-POST-LIST:END -->
 
