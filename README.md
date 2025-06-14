@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Major WWDC 2025 Event Features and Fresh iOS 26 Rumors](https://dev.to/orage_mayank/major-wwdc-2025-event-features-and-fresh-ios-26-rumors-8a1)
-- [From Prompt to Product: A Guide to Building Automated AI Systems](https://dev.to/mikuiwai/from-prompt-to-product-a-guide-to-building-automated-ai-systems-147g)
-- [Using AI for Predictive Trend Analysis in Your Market](https://dev.to/mikuiwai/using-ai-for-predictive-trend-analysis-in-your-market-4jcd)
-- [Freelancers vs Agencies: Which Web Developer Should You Pick?](https://dev.to/weberasolutions/freelancers-vs-agencies-which-web-developer-should-you-pick-2nhf)
+- [13 Basic GenAI Terminologies Worth Knowing](https://dev.to/gervaisamoah/13-basic-genai-terminologies-worth-knowing-2dg7)
+- [Untitled](https://dev.to/mohamed_moazpollop_33437/untitled-3gih)
+- [Regular Expression or Regex - NLP](https://dev.to/datatoinfinity/regular-expression-or-regex-nlp-2mfo)
+- [IP &amp; Mac Address](https://dev.to/umairshakoor/ip-mac-address-56bo)
 <!-- BLOG-POST-LIST:END -->
 
