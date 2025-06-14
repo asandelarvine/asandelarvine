@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
-- [Why Every Junior Developer Should Learn Software Architecture Early](https://dev.to/techies_grow_28919d1972db/why-every-junior-developer-should-learn-software-architecture-early-97m)
-- [From Public AI to Military AI: Evolution, Ethics, and Implications](https://dev.to/ashikur_rahmannazil93/from-public-ai-to-military-ai-evolution-ethics-and-implications-3d71)
-- [Programming Differences Between a Normal Computer and a Supercomputer](https://dev.to/ashikur_rahmannazil93/programming-differences-between-a-normal-computer-and-a-supercomputer-5aoa)
+- [KNN e Inteligência Artificial: Um Algoritmo Simples com Resultados Poderosos - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/knn-e-inteligencia-artificial-um-algoritmo-simples-com-resultados-poderosos-joao-claudio-nunes-49a0)
+- [揭秘下一代Web引擎：我的Rust框架深度体验与性能制胜之道](https://dev.to/codeqwertyuiop/jie-mi-xia-dai-webyin-qing-wo-de-rustkuang-jia-shen-du-ti-yan-yu-xing-neng-zhi-sheng-zhi-dao-ebi)
+- [性能优化实战：从理论到实践的深度探索](https://dev.to/codeqwertyuiop/xing-neng-you-hua-shi-zhan-cong-li-lun-dao-shi-jian-de-shen-du-tan-suo-560n)
+- [The Developer&#39;s Guide to Green Coding: Reducing Your Software&#39;s Carbon Footprint](https://dev.to/vaib/the-developers-guide-to-green-coding-reducing-your-softwares-carbon-footprint-5amo)
 <!-- BLOG-POST-LIST:END -->
 
