@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [World Blood Donor Day](https://dev.to/aniruddhaadak/world-blood-donor-day-24ge)
-- [Integrating BM25 in Hybrid Search and Reranking Pipelines: Strategies and Applications](https://dev.to/negitamaai/integrating-bm25-in-hybrid-search-and-reranking-pipelines-strategies-and-applications-2f7b)
-- [PWAs Unleashed: Revolutionizing the Web with AI and Web3](https://dev.to/vaib/pwas-unleashed-revolutionizing-the-web-with-ai-and-web3-4m2j)
-- [How to A/B Test Your Prompts and Prove Their ROI](https://dev.to/mikuiwai/how-to-ab-test-your-prompts-and-prove-their-roi-2987)
+- [Build a Stack, Not a Startup: Creating Resilient One-Person Businesses](https://dev.to/codanyks/build-a-stack-not-a-startup-creating-resilient-one-person-businesses-54e2)
+- [Vue コンポーネント 階層](https://dev.to/nabbisen/vue-konponento-jie-ceng-4dd4)
+- [Oracle 23ai — Applying Grid Infrastructure Patches via GUI&lpar;Zero-Downtime&rpar;](https://dev.to/vahidusefzadeh/oracle-23ai-applying-grid-infrastructure-patches-via-guizero-downtime-49nl)
+- [Vue ディレクティブ 基本要素](https://dev.to/nabbisen/vue-deirekuteibu-ji-ben-yao-su-1epi)
 <!-- BLOG-POST-LIST:END -->
 
