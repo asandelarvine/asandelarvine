@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Switched from Godot to Unity – 5 Hard Lessons from an Indie Studio](https://dev.to/cosmictrinitygames/why-we-switched-from-godot-to-unity-5-hard-lessons-from-an-indie-studio-1ke4)
-- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-44gc)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-27lc)
-- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-1mhf)
+- [Why Developers Should Care About Email Marketing](https://dev.to/alisongbs/why-developers-should-care-about-email-marketing-2icg)
+- [Printed Invoice Misaligned Compared to Print Preview – How to Fix?](https://dev.to/ajay_e65b5eaa4dfb69f9a04a/printed-invoice-misaligned-compared-to-print-preview-how-to-fix-1fm1)
+- [Elementor AI Site Planner Review and Tutorial 2025 – FREE AI TOOL](https://dev.to/blogkraft/elementor-ai-site-planner-review-and-tutorial-2025-free-ai-tool-3a9)
+- [How to Ace the 30 Most Common Project Defense Questions](https://dev.to/project_championz_9d9586c/how-to-ace-the-30-most-common-project-defense-questions-10kg)
 <!-- BLOG-POST-LIST:END -->
 
