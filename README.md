@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks for this badge. I am proud to be a member of this great dev community!](https://dev.to/sinaezekiel/thanks-for-this-badge-i-am-proud-to-be-a-member-of-this-great-dev-community-16j)
-- [📬 Inbox Zero Butler – AI Agent for Smart Email Triage using Runner](https://dev.to/vishnu_rachapudi_75e73248/inbox-zero-butler-ai-agent-for-smart-email-triage-using-runner-5lc)
-- [My Journey Exploring Efficient Web Development Frameworks（1749917163660400）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749917163660400-1h87)
-- [Demystifying the Black Box: An Introduction to Explainable AI &lpar;XAI&rpar;](https://dev.to/vaib/demystifying-the-black-box-an-introduction-to-explainable-ai-xai-266h)
+- [Style Guide Proposal: Parentheses and Braces in PHP](https://dev.to/cedricfrancoys/style-guide-proposal-parentheses-and-braces-in-php-1pnn)
+- [Top IAM Challenges in Multi-Cloud Environments and How to Solve Them](https://dev.to/mahadi_uptech/top-iam-challenges-in-multi-cloud-environments-and-how-to-solve-them-2f6)
+- [Day 6 : File Uploads &amp; Form Handling in FastAPI](https://dev.to/awslearnerdaily/day-6-file-uploads-form-handling-in-fastapi-3kpl)
+- [🛡️ Examining the Database in SQL Injection Attacks](https://dev.to/onyxwizard/examining-the-database-in-sql-injection-attacks-7ck)
 <!-- BLOG-POST-LIST:END -->
 
