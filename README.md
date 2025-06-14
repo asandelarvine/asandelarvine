@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Style Guide Proposal: Parentheses and Braces in PHP](https://dev.to/cedricfrancoys/style-guide-proposal-parentheses-and-braces-in-php-1pnn)
-- [Top IAM Challenges in Multi-Cloud Environments and How to Solve Them](https://dev.to/mahadi_uptech/top-iam-challenges-in-multi-cloud-environments-and-how-to-solve-them-2f6)
-- [Day 6 : File Uploads &amp; Form Handling in FastAPI](https://dev.to/awslearnerdaily/day-6-file-uploads-form-handling-in-fastapi-3kpl)
-- [🛡️ Examining the Database in SQL Injection Attacks](https://dev.to/onyxwizard/examining-the-database-in-sql-injection-attacks-7ck)
+- [Peak Performance Understated Power（1749924431942500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749924431942500-4kg3)
+- [Inicio como Desenvolvedor](https://dev.to/juniorc027/inicio-como-desenvolvedor-3m1d)
+- [CSS Units Are Slowing Down Your Website - Here’s How to Fix It!](https://dev.to/werliton/css-units-throughput-how-units-impact-performance-293e)
+- [Serverless AI/ML: Building Scalable &amp; Cost-Effective Intelligent Applications](https://dev.to/vaib/serverless-aiml-building-scalable-cost-effective-intelligent-applications-ok7)
 <!-- BLOG-POST-LIST:END -->
 
