@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Heck Is a Viewport?](https://dev.to/inventoris/what-the-heck-is-a-viewport-453h)
-- [How We Slashed AWS Lambda Cold Starts by 90% with Node.js](https://dev.to/alex_aslam/how-we-slashed-aws-lambda-cold-starts-by-90-with-nodejs-1489)
-- [Unlocking the Immersive Internet with Generative AI](https://dev.to/vaib/unlocking-the-immersive-internet-with-generative-ai-b96)
-- [Advanced Concepts in Error Handling with Async/Await](https://dev.to/omriluz1/advanced-concepts-in-error-handling-with-asyncawait-3dc8)
+- [My Experience with Hyperlane（1749935303370300）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1749935303370300-4f0o)
+- [JavaScript Promises: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/smriti_4f19f53a3e55b45bcc/javascript-promises-all-vs-allsettled-and-race-vs-any-5h7b)
+- [Introducing netsec-analyzer: A DevOps-Friendly CLI to Scan Ports, Audit TLS, and Secure Linux](https://dev.to/raghavachellu/introducing-netsec-analyzer-a-devops-friendly-cli-to-scan-ports-audit-tls-and-secure-linux-29mh)
+- [The Poetry and Horizon of Code Framework（1749934700915400）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749934700915400-j3h)
 <!-- BLOG-POST-LIST:END -->
 
