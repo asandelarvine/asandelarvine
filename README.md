@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1749935303370300）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1749935303370300-4f0o)
-- [JavaScript Promises: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/smriti_4f19f53a3e55b45bcc/javascript-promises-all-vs-allsettled-and-race-vs-any-5h7b)
-- [Introducing netsec-analyzer: A DevOps-Friendly CLI to Scan Ports, Audit TLS, and Secure Linux](https://dev.to/raghavachellu/introducing-netsec-analyzer-a-devops-friendly-cli-to-scan-ports-audit-tls-and-secure-linux-29mh)
-- [The Poetry and Horizon of Code Framework（1749934700915400）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749934700915400-j3h)
+- [My Experience with Hyperlane（1749938925659000）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1749938925659000-6el)
+- [The Dawn of Blended Realities: Spatial Computing, AI, and Digital Twins Drive Industrial Transformation](https://dev.to/vaib/the-dawn-of-blended-realities-spatial-computing-ai-and-digital-twins-drive-industrial-4pmo)
+- [Set Up Your Company for Success with Docker &lpar;Part 5&rpar;](https://dev.to/gowsiyashek/set-up-your-company-for-success-with-docker-part-5-17a3)
+- [My Journey with the Hyperlane Framework（1749938323059900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749938323059900-5e0o)
 <!-- BLOG-POST-LIST:END -->
 
