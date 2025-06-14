@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHILE LOOP](https://dev.to/vignesh_m_4971f2f8dfa54/while-loop-3ig5)
-- [about LLM and DeepLearning](https://dev.to/woodyxin/about-llm-and-deeplearning-4685)
-- [10 Tools Every Developer Should Try in 2025](https://dev.to/samuelmiozz/10-tools-every-developer-should-try-in-2025-3bif)
-- [Mastering AWS Knowledge Bases with Bedrock: A Complete Guide](https://dev.to/cloudoku-training/mastering-aws-knowledge-bases-with-bedrock-a-complete-guide-4o35)
+- [World Blood Donor Day](https://dev.to/aniruddhaadak/world-blood-donor-day-24ge)
+- [Integrating BM25 in Hybrid Search and Reranking Pipelines: Strategies and Applications](https://dev.to/negitamaai/integrating-bm25-in-hybrid-search-and-reranking-pipelines-strategies-and-applications-2f7b)
+- [PWAs Unleashed: Revolutionizing the Web with AI and Web3](https://dev.to/vaib/pwas-unleashed-revolutionizing-the-web-with-ai-and-web3-4m2j)
+- [How to A/B Test Your Prompts and Prove Their ROI](https://dev.to/mikuiwai/how-to-ab-test-your-prompts-and-prove-their-roi-2987)
 <!-- BLOG-POST-LIST:END -->
 
