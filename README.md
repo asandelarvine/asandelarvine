@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1750014562149100）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750014562149100-369)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750014558754000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750014558754000-1hbg)
-- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
-- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
+- [The Poetry and Horizon of Code Framework（1750017903439800）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750017903439800-lpd)
+- [The Poetry and Horizon of Code Framework（1750017901536800）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750017901536800-34on)
+- [Spiking Neural Networks: Building Your First Brain-Inspired AI with BindsNET](https://dev.to/vaib/spiking-neural-networks-building-your-first-brain-inspired-ai-with-bindsnet-ldh)
+- [Juris: Object-First Web Development: A New Paradigm for Reactive User Interfaces](https://dev.to/resti_guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-opb)
 <!-- BLOG-POST-LIST:END -->
 
