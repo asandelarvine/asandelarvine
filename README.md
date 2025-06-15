@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heartbeat of Modern Web Applications（1749971454238100）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749971454238100-3idl)
-- [Monitoring &amp; Logging](https://dev.to/godofgeeks/monitoring-logging-2dbd)
-- [My Journey Exploring Efficient Web Development Frameworks（1749971150479800）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749971150479800-5eim)
-- [Image Generator for Apple iOS 26: What is Liquid Glass?](https://dev.to/virtual_realityvr_b2258a/image-generator-for-apple-ios-26-what-is-liquid-glass-43n3)
+- [The AI Revolution 2025: Breakthroughs, Ethics, and Visual Journey](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-visual-journey-3gap)
+- [Building a PSR-Compliant Microservice in Pure PHP - part 2](https://dev.to/dobrenteiistvan/building-a-psr-compliant-microservice-in-pure-php-part-2-3kb5)
+- [ওয়ার্ডপ্রেসে কাস্টম বাংলা ফন্ট যুক্ত করার সহজ উপায়](https://dev.to/bytes_vibe/oyyaarddprese-kaasttm-baanlaa-phntt-yukt-kraar-shj-upaayy-c45)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749975422112800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749975422112800-11m3)
 <!-- BLOG-POST-LIST:END -->
 
