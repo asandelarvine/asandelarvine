@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Google vs ChatGPT: Why I Stopped Googling Everything in 2025](https://dev.to/calmdigitalguy/-google-vs-chatgpt-why-i-stopped-googling-everything-in-2025-1l3e)
-- [The best testing strategy](https://dev.to/stebunovd/the-best-testing-strategy-10ci)
-- [The New Generation of High-Performance Web Frameworks（1750003597049000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750003597049000-4cb2)
-- [The New Generation of High-Performance Web Frameworks（1750003590414500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750003590414500-3i4f)
+- [Git Switch vs Git Checkout](https://dev.to/kyomel/git-switch-vs-git-checkout-4l50)
+- [The Poetry and Horizon of Code Framework（1750007263411600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750007263411600-3ohc)
+- [AWS Storage Session at GTU 🚀](https://dev.to/dhavalmojidra/my-aws-storage-session-at-gtu-5ald)
+- [250615_CPP: sum of array](https://dev.to/codebrew42/250615cpp-sum-of-array-18n6)
 <!-- BLOG-POST-LIST:END -->
 
