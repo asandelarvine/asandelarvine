@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution 2025: Breakthroughs, Ethics, and Visual Journey](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-visual-journey-3gap)
-- [Building a PSR-Compliant Microservice in Pure PHP - part 2](https://dev.to/dobrenteiistvan/building-a-psr-compliant-microservice-in-pure-php-part-2-3kb5)
-- [ওয়ার্ডপ্রেসে কাস্টম বাংলা ফন্ট যুক্ত করার সহজ উপায়](https://dev.to/bytes_vibe/oyyaarddprese-kaasttm-baanlaa-phntt-yukt-kraar-shj-upaayy-c45)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749975422112800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749975422112800-11m3)
+- [The New Generation of High-Performance Web Frameworks（1749978457913800）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749978457913800-19e4)
+- [&quot;I Built a Free [Format] Converter Tool - Here&#39;s Wh](https://dev.to/slot74246sleepy/i-built-a-free-format-converter-tool-heres-wh-nle)
+- [Linux 1](https://dev.to/ranjithsrt1/linux-1-pd2)
+- [Top 10 Most Asked JavaScript Interview Questions in 2025 &lpar;With Simple Answers + Code Examples&rpar;](https://dev.to/sid6398/top-10-most-asked-javascript-interview-questions-in-2025-with-simple-answers-code-examples-ddf)
 <!-- BLOG-POST-LIST:END -->
 
