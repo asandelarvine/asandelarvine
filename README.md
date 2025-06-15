@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Library vs. Framework](https://dev.to/manuartero/library-vs-framework-1671)
-- [A Duet of Performance and Safety（1749982096409700）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749982096409700-22c1)
-- [Memahami logika Pearl](https://dev.to/dev_nazwashabrina/memahami-logika-pearl-26o7)
-- [Building a Google Docs Package in Go: From API Setup to Document Management](https://dev.to/mufthi_ryanda_84ea0d65262/building-a-google-docs-package-in-go-from-api-setup-to-document-management-2oka)
+- [🚀Rapid Learnings from Rapid Prototyping🚀](https://dev.to/karthiks3000/rapid-learnings-from-rapid-prototyping-54pe)
+- [The Heartbeat of Modern Web Applications（1749985850560400）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749985850560400-epb)
+- [Ahmed-Niazy Nuxt 3 Starter – Everything You Need Out of the Box](https://dev.to/ahmed_niazy/ahmed-niazy-nuxt-3-starter-everything-you-need-out-of-the-box-104)
+- [The Critical Importance of Security in the Digital Age（1749985547638800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749985547638800-2gcb)
 <!-- BLOG-POST-LIST:END -->
 
