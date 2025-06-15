@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1750017903439800）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750017903439800-lpd)
-- [The Poetry and Horizon of Code Framework（1750017901536800）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750017901536800-34on)
-- [Spiking Neural Networks: Building Your First Brain-Inspired AI with BindsNET](https://dev.to/vaib/spiking-neural-networks-building-your-first-brain-inspired-ai-with-bindsnet-ldh)
-- [Juris: Object-First Web Development: A New Paradigm for Reactive User Interfaces](https://dev.to/resti_guay/juris-object-first-web-development-a-new-paradigm-for-reactive-user-interfaces-opb)
+- [A Duet of Performance and Safety（1750021866870300）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750021866870300-496f)
+- [My Experience with Hyperlane（1750021849305800）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750021849305800-1ja0)
+- [Queries on JSON 👉🏻 compound indexes &lpar;Equality, Sort, Range&rpar;](https://dev.to/franckpachot/queries-on-json-compound-indexes-equality-sort-range-2lce)
+- [My Journey Exploring Efficient Web Development Frameworks（1750021563250200）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750021563250200-1hbf)
 <!-- BLOG-POST-LIST:END -->
 
