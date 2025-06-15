@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Duet of Performance and Safety（1750021866870300）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750021866870300-496f)
-- [My Experience with Hyperlane（1750021849305800）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750021849305800-1ja0)
-- [Queries on JSON 👉🏻 compound indexes &lpar;Equality, Sort, Range&rpar;](https://dev.to/franckpachot/queries-on-json-compound-indexes-equality-sort-range-2lce)
-- [My Journey Exploring Efficient Web Development Frameworks（1750021563250200）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750021563250200-1hbf)
+- [Rusty Forge](https://dev.to/konni332/rusty-forge-k9a)
+- [My Journey with the Hyperlane Framework（1750025236572300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750025236572300-338g)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750025201178000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750025201178000-3136)
+- [The Data Lakehouse and Medallion Architecture: Unifying Data for BI and ML](https://dev.to/vaib/the-data-lakehouse-and-medallion-architecture-unifying-data-for-bi-and-ml-5014)
 <!-- BLOG-POST-LIST:END -->
 
