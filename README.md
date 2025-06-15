@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rusty Forge](https://dev.to/konni332/rusty-forge-k9a)
-- [My Journey with the Hyperlane Framework（1750025236572300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750025236572300-338g)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750025201178000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750025201178000-3136)
-- [The Data Lakehouse and Medallion Architecture: Unifying Data for BI and ML](https://dev.to/vaib/the-data-lakehouse-and-medallion-architecture-unifying-data-for-bi-and-ml-5014)
+- [🔐 A Practical Introduction to ISO 27001 for Developers](https://dev.to/alejandro_areiza2346/a-practical-introduction-to-iso-27001-for-developers-3c87)
+- [👋 Hello DEV Community, I&#39;m Alejandro!](https://dev.to/alejandro_areiza2346/hello-dev-community-im-alejandro-2kcd)
+- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
 <!-- BLOG-POST-LIST:END -->
 
