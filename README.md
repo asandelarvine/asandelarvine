@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Duet of Performance and Safety（1749958796199300）](https://dev.to/sdhjfhdshjgfhdsgfhj/a-duet-of-performance-and-safety1749958796199300-3no2)
-- [Criando um article do App](https://dev.to/xandongurgel/criando-um-article-do-app-8g8)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749958500054800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749958500054800-354f)
-- [Peak Performance Understated Power（1749958491375400）](https://dev.to/sdhjfhdshjgfhdsgfhj/peak-performance-understated-power1749958491375400-400o)
+- [How We “Hacked” an AI Service During the Global Hackathon &lpar;and Then Used the Same Trick on Others&rpar;](https://dev.to/theangmarcore/how-we-hacked-an-ai-service-during-the-global-hackathon-and-then-used-the-same-trick-on-others-gfp)
+- [Criando um article do App4](https://dev.to/xandongurgel/criando-um-article-do-app4-5bci)
+- [Unlocking Hyperautomation: The Transformative Power of RPA and Generative AI](https://dev.to/vaib/unlocking-hyperautomation-the-transformative-power-of-rpa-and-generative-ai-43dm)
+- [LangGraph + Gemini = Perplexity, But Smarter? &lpar;Free &amp; OpenSource&rpar;](https://dev.to/gaodalie_ai/langgraph-gemini-perplexity-but-smarter-free-opensource-24lh)
 <!-- BLOG-POST-LIST:END -->
 
