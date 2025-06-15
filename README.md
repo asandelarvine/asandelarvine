@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Exploring Efficient Web Development Frameworks（1749996578807400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1749996578807400-47o8)
-- [Peak Performance Understated Power（1749995972805900）](https://dev.to/member_b06955cb/peak-performance-understated-power1749995972805900-1nde)
-- [The New Generation of High-Performance Web Frameworks（1749995968677000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749995968677000-1l76)
-- [🚀 From Student to Engineer: My Journey into Applied AI, Voice Assistants, and Beyond](https://dev.to/mohamed-riham/from-student-to-engineer-my-journey-into-applied-ai-voice-assistants-and-beyond-5djj)
+- [My Journey with the Hyperlane Framework（1750000551257700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750000551257700-2hj4)
+- [My Experience with Hyperlane（1750000547035000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750000547035000-275p)
+- [The Heartbeat of Modern Web Applications（1750000248250300）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750000248250300-548f)
+- [The Heartbeat of Modern Web Applications（1750000242759100）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750000242759100-37ll)
 <!-- BLOG-POST-LIST:END -->
 
