@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Switch vs Git Checkout](https://dev.to/kyomel/git-switch-vs-git-checkout-4l50)
-- [The Poetry and Horizon of Code Framework（1750007263411600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1750007263411600-3ohc)
-- [AWS Storage Session at GTU 🚀](https://dev.to/dhavalmojidra/my-aws-storage-session-at-gtu-5ald)
-- [250615_CPP: sum of array](https://dev.to/codebrew42/250615cpp-sum-of-array-18n6)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750011522235100）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750011522235100-1836)
+- [Peak Performance Understated Power（1750011218462900）](https://dev.to/member_b06955cb/peak-performance-understated-power1750011218462900-4gp)
+- [The Heartbeat of Modern Web Applications（1750011214975100）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750011214975100-50db)
+- [My Journey with the Hyperlane Framework（1750010914269300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750010914269300-563i)
 <!-- BLOG-POST-LIST:END -->
 
