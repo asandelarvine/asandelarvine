@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Rapid Learnings from Rapid Prototyping🚀](https://dev.to/karthiks3000/rapid-learnings-from-rapid-prototyping-54pe)
-- [The Heartbeat of Modern Web Applications（1749985850560400）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749985850560400-epb)
-- [Ahmed-Niazy Nuxt 3 Starter – Everything You Need Out of the Box](https://dev.to/ahmed_niazy/ahmed-niazy-nuxt-3-starter-everything-you-need-out-of-the-box-104)
-- [The Critical Importance of Security in the Digital Age（1749985547638800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749985547638800-2gcb)
+- [Easily Set Up Your Usual tmux Pane Layout](https://dev.to/teihenn/easily-set-up-your-usual-tmux-pane-layout-2m5g)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749989803812900）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749989803812900-5b1g)
+- [Efficient self-attention mechanism](https://dev.to/lewis_won/efficient-self-attention-mechanism-1p64)
+- [My Journey Exploring Efficient Web Development Frameworks（1749989500771700）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749989500771700-5b73)
 <!-- BLOG-POST-LIST:END -->
 
