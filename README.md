@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML X CSS](https://dev.to/saksham_ital/html-x-css-519k)
-- [From Confusion to Clarity: My AI Agent for Intern Prep in Big Tech](https://dev.to/sarthak_rana/from-confusion-to-clarity-my-ai-agent-for-intern-prep-in-big-tech-mep)
-- [What is Site Reliability Engineering? A Beginner’s Guide](https://dev.to/sanjay_vagle_195d9b30aefb/what-is-site-reliability-engineering-a-beginners-guide-41c0)
-- [How Do You Approach Building Scalable PHP Applications?](https://dev.to/thecodeliner/how-do-you-approach-building-scalable-php-applications-13lj)
+- [🧠💻 When Neurons Meet Code: The New Language of Cognition](https://dev.to/alireza_minagar_99f01ecb6/when-neurons-meet-code-the-new-language-of-cognition-389l)
+- [🚀 Introducing RustyTodos: A Clean, Minimal TUI Todo App in Rust](https://dev.to/kushalmeghani1644/introducing-rustytodos-a-clean-minimal-tui-todo-app-in-rust-1pah)
+- [📘 AWS IAM Explained Desi-Style — With Hall Passes, Boundaries &amp; Principal’s Final Word! &lpar;Part 2&rpar;](https://dev.to/aws-builders/aws-iam-explained-desi-style-with-hall-passes-boundaries-principals-final-word-part-2-abg)
+- [Basics of HTML](https://dev.to/saksham_ital/basics-of-html-2o58)
 <!-- BLOG-POST-LIST:END -->
 
