@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Year Self-Study Notes My Journey with the Framework（1750011522235100）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750011522235100-1836)
-- [Peak Performance Understated Power（1750011218462900）](https://dev.to/member_b06955cb/peak-performance-understated-power1750011218462900-4gp)
-- [The Heartbeat of Modern Web Applications（1750011214975100）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750011214975100-50db)
-- [My Journey with the Hyperlane Framework（1750010914269300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750010914269300-563i)
+- [The Poetry and Horizon of Code Framework（1750014562149100）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750014562149100-369)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750014558754000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750014558754000-1hbg)
+- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
+- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
 <!-- BLOG-POST-LIST:END -->
 
