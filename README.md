@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Set Up Your Usual tmux Pane Layout](https://dev.to/teihenn/easily-set-up-your-usual-tmux-pane-layout-2m5g)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749989803812900）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749989803812900-5b1g)
-- [Efficient self-attention mechanism](https://dev.to/lewis_won/efficient-self-attention-mechanism-1p64)
-- [My Journey Exploring Efficient Web Development Frameworks（1749989500771700）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749989500771700-5b73)
+- [Mastering Laravel Job Queues - A Developer-Friendly Guide](https://dev.to/tahsin000/mastering-laravel-job-queues-a-developer-friendly-guide-4d9l)
+- [Simple Sieve - DSA](https://dev.to/kingsmen732/simple-sieve-dsa-14mh)
+- [Weekly Challenge: Counting the discounts](https://dev.to/simongreennet/weekly-challenge-counting-the-discounts-313f)
+- [The Heartbeat of Modern Web Applications（1749992939248200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749992939248200-641)
 <!-- BLOG-POST-LIST:END -->
 
