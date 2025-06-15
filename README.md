@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Laravel Job Queues - A Developer-Friendly Guide](https://dev.to/tahsin000/mastering-laravel-job-queues-a-developer-friendly-guide-4d9l)
-- [Simple Sieve - DSA](https://dev.to/kingsmen732/simple-sieve-dsa-14mh)
-- [Weekly Challenge: Counting the discounts](https://dev.to/simongreennet/weekly-challenge-counting-the-discounts-313f)
-- [The Heartbeat of Modern Web Applications（1749992939248200）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749992939248200-641)
+- [My Journey Exploring Efficient Web Development Frameworks（1749996578807400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1749996578807400-47o8)
+- [Peak Performance Understated Power（1749995972805900）](https://dev.to/member_b06955cb/peak-performance-understated-power1749995972805900-1nde)
+- [The New Generation of High-Performance Web Frameworks（1749995968677000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749995968677000-1l76)
+- [🚀 From Student to Engineer: My Journey into Applied AI, Voice Assistants, and Beyond](https://dev.to/mohamed-riham/from-student-to-engineer-my-journey-into-applied-ai-voice-assistants-and-beyond-5djj)
 <!-- BLOG-POST-LIST:END -->
 
