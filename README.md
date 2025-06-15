@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠💻 When Neurons Meet Code: The New Language of Cognition](https://dev.to/alireza_minagar_99f01ecb6/when-neurons-meet-code-the-new-language-of-cognition-389l)
-- [🚀 Introducing RustyTodos: A Clean, Minimal TUI Todo App in Rust](https://dev.to/kushalmeghani1644/introducing-rustytodos-a-clean-minimal-tui-todo-app-in-rust-1pah)
-- [📘 AWS IAM Explained Desi-Style — With Hall Passes, Boundaries &amp; Principal’s Final Word! &lpar;Part 2&rpar;](https://dev.to/aws-builders/aws-iam-explained-desi-style-with-hall-passes-boundaries-principals-final-word-part-2-abg)
-- [Basics of HTML](https://dev.to/saksham_ital/basics-of-html-2o58)
+- [The Heartbeat of Modern Web Applications（1749971454238100）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749971454238100-3idl)
+- [Monitoring &amp; Logging](https://dev.to/godofgeeks/monitoring-logging-2dbd)
+- [My Journey Exploring Efficient Web Development Frameworks（1749971150479800）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749971150479800-5eim)
+- [Image Generator for Apple iOS 26: What is Liquid Glass?](https://dev.to/virtual_realityvr_b2258a/image-generator-for-apple-ios-26-what-is-liquid-glass-43n3)
 <!-- BLOG-POST-LIST:END -->
 
