@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1749952076893200）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749952076893200-5da0)
-- [Peak Performance Understated Power（1749951935437800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749951935437800-4agf)
-- [[Boost]](https://dev.to/rakeshv675/-3ol3)
-- [The Heartbeat of Modern Web Applications（1749951631313800）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749951631313800-3fjd)
+- [A Duet of Performance and Safety（1749958796199300）](https://dev.to/sdhjfhdshjgfhdsgfhj/a-duet-of-performance-and-safety1749958796199300-3no2)
+- [Criando um article do App](https://dev.to/xandongurgel/criando-um-article-do-app-8g8)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749958500054800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749958500054800-354f)
+- [Peak Performance Understated Power（1749958491375400）](https://dev.to/sdhjfhdshjgfhdsgfhj/peak-performance-understated-power1749958491375400-400o)
 <!-- BLOG-POST-LIST:END -->
 
