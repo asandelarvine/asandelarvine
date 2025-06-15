@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750000551257700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750000551257700-2hj4)
-- [My Experience with Hyperlane（1750000547035000）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750000547035000-275p)
-- [The Heartbeat of Modern Web Applications（1750000248250300）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750000248250300-548f)
-- [The Heartbeat of Modern Web Applications（1750000242759100）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750000242759100-37ll)
+- [# Google vs ChatGPT: Why I Stopped Googling Everything in 2025](https://dev.to/calmdigitalguy/-google-vs-chatgpt-why-i-stopped-googling-everything-in-2025-1l3e)
+- [The best testing strategy](https://dev.to/stebunovd/the-best-testing-strategy-10ci)
+- [The New Generation of High-Performance Web Frameworks（1750003597049000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750003597049000-4cb2)
+- [The New Generation of High-Performance Web Frameworks（1750003590414500）](https://dev.to/member_b06955cb/the-new-generation-of-high-performance-web-frameworks1750003590414500-3i4f)
 <!-- BLOG-POST-LIST:END -->
 
