@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heartbeat of Modern Web Applications（1750055175650600）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750055175650600-phc)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750055175226900）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750055175226900-1ie5)
-- [My Architectural Choices and Practical Experience（1750054556011500）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750054556011500-5317)
-- [A Duet of Performance and Safety（1750054554958200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750054554958200-3cec)
+- [&lt;&gt;Building a Cross-Chain Swap with LayerZero on Monad &lt;/&gt;](https://dev.to/kalidecoder/building-a-cross-chain-swap-with-layerzero-on-monad--51h4)
+- [Data Security: Why Your Business Can&#39;t Afford to Ignore It](https://dev.to/brayden_t/data-security-why-your-business-cant-afford-to-ignore-it-465j)
+- [Case Study: Designing a URL Shortener](https://dev.to/godofgeeks/case-study-designing-a-url-shortener-3daf)
+- [My Journey with the Hyperlane Framework（1750057921342700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750057921342700-30cf)
 <!-- BLOG-POST-LIST:END -->
 
