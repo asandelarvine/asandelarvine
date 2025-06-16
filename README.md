@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Machine Learning?](https://dev.to/taqi_eddineelmamouni_72/what-is-machine-learning-549)
-- [9 AI Productivity Tools You Will Be Amazed to Discover👍⚡](https://dev.to/madza/9-ai-productivity-tools-you-will-be-amazed-to-discover-13do)
-- [My Experience with Hyperlane（1750077441385800）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750077441385800-cbo)
-- [My Journey Exploring Efficient Web Development Frameworks（1750077426047600）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750077426047600-723)
+- [Building a Design System with Ark UI - Menu component](https://dev.to/_estheradebayo/building-a-design-system-with-ark-ui-menu-component-237j)
+- [Genkit Tool Calling: Give AI Models &lpar;LLMs&rpar; the Tools to Get Things Done](https://dev.to/this-is-learning/genkit-tool-calling-give-ai-models-llms-the-tools-to-get-things-done-c4n)
+- [🪂 import antigravity — A Deep Dive into Python&#39;s Most Uselessly Brilliant Module](https://dev.to/bhuvaneshm_dev/import-antigravity-a-deep-dive-into-pythons-most-uselessly-brilliant-module-4i77)
+- [Peak Performance Understated Power（1750079863883000）](https://dev.to/member_b06955cb/peak-performance-understated-power1750079863883000-4f9h)
 <!-- BLOG-POST-LIST:END -->
 
