@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Design System with Ark UI - Menu component](https://dev.to/_estheradebayo/building-a-design-system-with-ark-ui-menu-component-237j)
-- [Genkit Tool Calling: Give AI Models &lpar;LLMs&rpar; the Tools to Get Things Done](https://dev.to/this-is-learning/genkit-tool-calling-give-ai-models-llms-the-tools-to-get-things-done-c4n)
-- [🪂 import antigravity — A Deep Dive into Python&#39;s Most Uselessly Brilliant Module](https://dev.to/bhuvaneshm_dev/import-antigravity-a-deep-dive-into-pythons-most-uselessly-brilliant-module-4i77)
-- [Peak Performance Understated Power（1750079863883000）](https://dev.to/member_b06955cb/peak-performance-understated-power1750079863883000-4f9h)
+- [I Gave GitHub Copilot Access to My Private Notes 🤯📓](https://dev.to/abubakersiddique771/i-gave-github-copilot-access-to-my-private-notes-3mn1)
+- [What are your goals for the week? #131](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-131-3gbo)
+- [Vue コンポーネント データ受渡し: 親 -&gt; 子](https://dev.to/nabbisen/vue-konponento-detashou-du-si-qin-zi-43oe)
+- [TanStack Form vs. React Hook Form](https://dev.to/logrocket/tanstack-form-vs-react-hook-form-6fb)
 <!-- BLOG-POST-LIST:END -->
 
