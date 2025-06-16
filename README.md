@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Story Hero - Day 16 Update](https://dev.to/danielreiling/story-hero-day-16-update-f5l)
-- [Vue コンポーネント間 データ受渡し: 子 -&gt; 親](https://dev.to/nabbisen/vue-konponentojian-detashou-du-si-zi-qin-4p9a)
-- [Comunicação Rápida e Tipada com gRPC no .NET](https://dev.to/daniloopinheiro/comunicacao-rapida-e-tipada-com-grpc-no-net-2b65)
-- [Mobile performance testing for banking and payment apps](https://dev.to/vivian_astor_2ed76e342250/mobile-performance-testing-for-banking-and-payment-apps-d54)
+- [GenAI&#39;s Ethical Imperative: Building Robust Data Governance Frameworks](https://dev.to/vaib/genais-ethical-imperative-building-robust-data-governance-frameworks-c99)
+- [Getting Started with Kubernetes](https://dev.to/shashankpalakurthi/getting-started-with-kubernetes-2nbe)
+- [🚀 Challenge Me!](https://dev.to/boluwatifeilerioluwa/challenge-me-1n08)
+- [CI Server for embedded systems based on Raspberry Pi](https://dev.to/thealbertdev/ci-server-for-embedded-systems-based-on-raspberry-pi-1jkk)
 <!-- BLOG-POST-LIST:END -->
 
