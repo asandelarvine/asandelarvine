@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Client Online Offline Status Feature using Ruby on Rails 8 Action Cable](https://dev.to/muhammad_syaifuddinzuhri/build-client-online-offline-status-feature-using-ruby-on-rails-8-action-cable-5bnm)
-- [🎯 Day 23 – Started Learning JPA &lpar;Java Persistence API&rpar;!](https://dev.to/krishna_chd/day-23-started-learning-jpa-java-persistence-api-1m20)
-- [🗂️ How to Use Arrays and Objects in TypeScript for Powerful QA Automation Scripts](https://dev.to/idavidov13/how-to-use-arrays-and-objects-in-typescript-for-powerful-qa-automation-scripts-3912)
-- [Hello](https://dev.to/arindam_langer_19fb6a7e6d/hello-3ddd)
+- [How to Install and Run MiniCPM 4.0 8B Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-minicpm-40-8b-locally-11m8)
+- [Free Claude Sonnet 4 for Local Development: Setting Up Aider with Cody](https://dev.to/hankchiutw/free-claude-sonnet-4-for-local-development-setting-up-aider-with-cody-39j4)
+- [Make Your TypeScript API Responses Safer with Zod &lpar;in seconds&rpar;](https://dev.to/edudeveloper/make-your-typescript-api-responses-safer-with-zod-in-seconds-2djf)
+- [How to Install GeoServer Extensions the Right Way](https://dev.to/ronitjadhav/how-to-install-geoserver-extensions-the-right-way-4e78)
 <!-- BLOG-POST-LIST:END -->
 
