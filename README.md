@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750051197607300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750051197607300-1nfo)
-- [My Experience with Hyperlane（1750051193457500）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750051193457500-371a)
-- [Apple Just Buffed Dev Tools](https://dev.to/zenoguy/apple-just-buffed-dev-tools-4bcn)
-- [GitLab Pipeline Annoyances](https://dev.to/feliciawalker/gitlab-pipeline-annoyances-11e4)
+- [The Heartbeat of Modern Web Applications（1750055175650600）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750055175650600-phc)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750055175226900）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1750055175226900-1ie5)
+- [My Architectural Choices and Practical Experience（1750054556011500）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750054556011500-5317)
+- [A Duet of Performance and Safety（1750054554958200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750054554958200-3cec)
 <!-- BLOG-POST-LIST:END -->
 
