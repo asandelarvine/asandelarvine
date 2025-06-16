@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I needed a clean, fast time zone converter without ads. Ended up building one – whatsthetime.online](https://dev.to/thekusaldarshana/i-needed-a-clean-fast-time-zone-converter-without-ads-ended-up-building-one-whatsthetimeonline-5ae0)
-- [Building an Uncensored Multi-Agent AI Debate System locally with Ollama: A Step-by-Step Guide with full code.](https://dev.to/k2wispp/building-an-uncensored-multi-agent-ai-debate-system-locally-with-ollama-a-step-by-step-guide-with-46nf)
-- [SNAPSHOTS SAVED MY LIFE &lpar;LINUX&rpar; , TIMESHIFT](https://dev.to/sourav_mahato_3900/snapshots-saved-my-life-linux-timeshift-34kc)
-- [Comunicação com Apache Kafka Usando .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-assincrona-com-apache-kafka-e-net-1h52)
+- [[Boost]](https://dev.to/josethz00/-42b8)
+- [Diagnosing and fixing critical PostgreSQL performance issues: A deep dive](https://dev.to/pedrohgoncalves/diagnosing-and-fixing-critical-postgresql-performance-issues-a-deep-dive-3jj)
+- [Why SIM Registration Is Necessary in the Philippines](https://dev.to/tonygubbur/why-sim-registration-is-necessary-in-the-philippines-55ka)
+- [🧠 Convolutional Neural Networks Demystified: A Python-Powered Exploration](https://dev.to/taqieddin/convolutional-neural-networks-demystified-a-python-powered-exploration-355j)
 <!-- BLOG-POST-LIST:END -->
 
