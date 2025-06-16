@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 A Practical Introduction to ISO 27001 for Developers](https://dev.to/alejandro_areiza2346/a-practical-introduction-to-iso-27001-for-developers-3c87)
-- [👋 Hello DEV Community, I&#39;m Alejandro!](https://dev.to/alejandro_areiza2346/hello-dev-community-im-alejandro-2kcd)
-- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
+- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
+- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
+- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
+- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
 <!-- BLOG-POST-LIST:END -->
 
