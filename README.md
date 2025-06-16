@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/josethz00/-42b8)
-- [Diagnosing and fixing critical PostgreSQL performance issues: A deep dive](https://dev.to/pedrohgoncalves/diagnosing-and-fixing-critical-postgresql-performance-issues-a-deep-dive-3jj)
-- [Why SIM Registration Is Necessary in the Philippines](https://dev.to/tonygubbur/why-sim-registration-is-necessary-in-the-philippines-55ka)
-- [🧠 Convolutional Neural Networks Demystified: A Python-Powered Exploration](https://dev.to/taqieddin/convolutional-neural-networks-demystified-a-python-powered-exploration-355j)
+- [Story Hero - Day 16 Update](https://dev.to/danielreiling/story-hero-day-16-update-f5l)
+- [Vue コンポーネント間 データ受渡し: 子 -&gt; 親](https://dev.to/nabbisen/vue-konponentojian-detashou-du-si-zi-qin-4p9a)
+- [Comunicação Rápida e Tipada com gRPC no .NET](https://dev.to/daniloopinheiro/comunicacao-rapida-e-tipada-com-grpc-no-net-2b65)
+- [Mobile performance testing for banking and payment apps](https://dev.to/vivian_astor_2ed76e342250/mobile-performance-testing-for-banking-and-payment-apps-d54)
 <!-- BLOG-POST-LIST:END -->
 
