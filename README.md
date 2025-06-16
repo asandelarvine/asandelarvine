@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Critical Importance of Security in the Digital Age（1750072258036800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750072258036800-e0f)
-- [My Journey Exploring Efficient Web Development Frameworks（1750072240514900）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750072240514900-22fn)
-- [From Midnight Anxiety to Morning Coffee: Building Smart Monitoring Scripts](https://dev.to/c_6b7a8e65d067ddc62/from-midnight-anxiety-to-morning-coffee-building-smart-monitoring-scripts-52i6)
-- [Day 14: My Small React Project Facebook like Post Component](https://dev.to/seenuvasan_p/day-14-my-small-react-project-facebook-like-post-component-dh8)
+- [What is Machine Learning?](https://dev.to/taqi_eddineelmamouni_72/what-is-machine-learning-549)
+- [9 AI Productivity Tools You Will Be Amazed to Discover👍⚡](https://dev.to/madza/9-ai-productivity-tools-you-will-be-amazed-to-discover-13do)
+- [My Experience with Hyperlane（1750077441385800）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750077441385800-cbo)
+- [My Journey Exploring Efficient Web Development Frameworks（1750077426047600）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750077426047600-723)
 <!-- BLOG-POST-LIST:END -->
 
