@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore the hands-on guide to LangChain — the framework that lets you build real-world AI apps with memory, agents, tools &amp; RAG. Whether you&#39;re a beginner or builder, this is your roadmap. Dive in! #GenAI #LangChain #LLMs](https://dev.to/brains_behind_bots/explore-the-hands-on-guide-to-langchain-the-framework-that-lets-you-build-real-world-ai-apps-with-10ab)
-- [A Duet of Performance and Safety（1750068592857200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750068592857200-p3l)
-- [Building a game using Amazon Q CLI](https://dev.to/myl3s/building-a-game-using-amazon-q-cli-2h7a)
-- [Comprehensive Guide to Developing Native HarmonyOS Themes &lpar;2025 Edition&rpar;](https://dev.to/moyantianwang/comprehensive-guide-to-developing-native-harmonyos-themes-2025-edition-3c93)
+- [The Critical Importance of Security in the Digital Age（1750072258036800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750072258036800-e0f)
+- [My Journey Exploring Efficient Web Development Frameworks（1750072240514900）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750072240514900-22fn)
+- [From Midnight Anxiety to Morning Coffee: Building Smart Monitoring Scripts](https://dev.to/c_6b7a8e65d067ddc62/from-midnight-anxiety-to-morning-coffee-building-smart-monitoring-scripts-52i6)
+- [Day 14: My Small React Project Facebook like Post Component](https://dev.to/seenuvasan_p/day-14-my-small-react-project-facebook-like-post-component-dh8)
 <!-- BLOG-POST-LIST:END -->
 
