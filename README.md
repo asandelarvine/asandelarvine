@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Run MiniCPM 4.0 8B Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-minicpm-40-8b-locally-11m8)
-- [Free Claude Sonnet 4 for Local Development: Setting Up Aider with Cody](https://dev.to/hankchiutw/free-claude-sonnet-4-for-local-development-setting-up-aider-with-cody-39j4)
-- [Make Your TypeScript API Responses Safer with Zod &lpar;in seconds&rpar;](https://dev.to/edudeveloper/make-your-typescript-api-responses-safer-with-zod-in-seconds-2djf)
-- [How to Install GeoServer Extensions the Right Way](https://dev.to/ronitjadhav/how-to-install-geoserver-extensions-the-right-way-4e78)
+- [Learning and connecting with Like minded individuals](https://dev.to/wittyke/learning-and-connecting-with-like-minded-individuals-592k)
+- [Designing the Conveyor CI Scheduling Mechanism](https://dev.to/jimjunior/designing-the-conveyor-ci-scheduling-mechanism-4f6j)
+- [Arithmetic Operations in Python – A Beginner-Friendly Guide](https://dev.to/shrey1910/arithmetic-operations-in-python-a-beginner-friendly-guide-2ejh)
+- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
 <!-- BLOG-POST-LIST:END -->
 
