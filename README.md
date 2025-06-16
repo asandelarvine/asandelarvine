@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI&#39;s Ethical Imperative: Building Robust Data Governance Frameworks](https://dev.to/vaib/genais-ethical-imperative-building-robust-data-governance-frameworks-c99)
-- [Getting Started with Kubernetes](https://dev.to/shashankpalakurthi/getting-started-with-kubernetes-2nbe)
-- [🚀 Challenge Me!](https://dev.to/boluwatifeilerioluwa/challenge-me-1n08)
-- [CI Server for embedded systems based on Raspberry Pi](https://dev.to/thealbertdev/ci-server-for-embedded-systems-based-on-raspberry-pi-1jkk)
+- [Backend&#39;in Geleceği: API İlk Yaklaşımı](https://dev.to/yunus_emremert_1756b71d3/backendin-gelecegi-api-ilk-yaklasimi-5822)
+- [My posts](https://dev.to/zuri/my-posts-5ddj)
+- [trino istio](https://dev.to/etolbakov/trino-istio-4i1a)
+- [“Procuro Cofundador Técnico para App Emocional com Impacto Social &lpar;equity 15–25%&rpar;”](https://dev.to/eco_humano-human_echo/procuro-cofundador-tecnico-para-app-emocional-com-impacto-social-equity-15-25-2g48)
 <!-- BLOG-POST-LIST:END -->
 
