@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;&gt;Building a Cross-Chain Swap with LayerZero on Monad &lt;/&gt;](https://dev.to/kalidecoder/building-a-cross-chain-swap-with-layerzero-on-monad--51h4)
-- [Data Security: Why Your Business Can&#39;t Afford to Ignore It](https://dev.to/brayden_t/data-security-why-your-business-cant-afford-to-ignore-it-465j)
-- [Case Study: Designing a URL Shortener](https://dev.to/godofgeeks/case-study-designing-a-url-shortener-3daf)
-- [My Journey with the Hyperlane Framework（1750057921342700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750057921342700-30cf)
+- [🎬 M3U8 to MP4 — The Easiest Way to Convert Videos, Instantly &amp; Privately](https://dev.to/zenstok/m3u8-to-mp4-the-easiest-way-to-convert-videos-instantly-privately-4j3b)
+- [# Legacy - How to Customize the Auth Challenge Page](https://dev.to/sharon_42e16b8da44dabde6d/-legacy-how-to-customize-the-auth-challenge-page-3ap4)
+- [Next-Generation AI for AI IMAGE GENERATOR](https://dev.to/sam_chan_d1bc8c1d9dac57d5/next-generation-ai-for-ai-image-generator-14nl)
+- [The New Generation of High-Performance Web Frameworks（1750061893671600）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750061893671600-5349)
 <!-- BLOG-POST-LIST:END -->
 
