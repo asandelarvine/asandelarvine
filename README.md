@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning and connecting with Like minded individuals](https://dev.to/wittyke/learning-and-connecting-with-like-minded-individuals-592k)
-- [Designing the Conveyor CI Scheduling Mechanism](https://dev.to/jimjunior/designing-the-conveyor-ci-scheduling-mechanism-4f6j)
-- [Arithmetic Operations in Python – A Beginner-Friendly Guide](https://dev.to/shrey1910/arithmetic-operations-in-python-a-beginner-friendly-guide-2ejh)
-- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
+- [Installing Redis 7.4 with Ansible &amp; a Custom `redis.conf`](https://dev.to/lovestaco/installing-redis-74-with-ansible-a-custom-redisconf-2h84)
+- [Hello guys, I&#39;m Jameel I&#39;m glad to be here.](https://dev.to/jstarz/hello-guys-im-jameel-im-glad-to-be-here-12fk)
+- [Meetup: Vector databases, RAG, BM25, sparse searches, AI model training](https://dev.to/getjv/meetup-vector-databases-rag-bm25-sparse-searches-ai-model-training-2pn2)
+- [Level 2 Godot](https://dev.to/charlie_perry_e1d44dc7773/level-2-godot-3gfj)
 <!-- BLOG-POST-LIST:END -->
 
