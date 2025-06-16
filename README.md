@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎬 M3U8 to MP4 — The Easiest Way to Convert Videos, Instantly &amp; Privately](https://dev.to/zenstok/m3u8-to-mp4-the-easiest-way-to-convert-videos-instantly-privately-4j3b)
-- [# Legacy - How to Customize the Auth Challenge Page](https://dev.to/sharon_42e16b8da44dabde6d/-legacy-how-to-customize-the-auth-challenge-page-3ap4)
-- [Next-Generation AI for AI IMAGE GENERATOR](https://dev.to/sam_chan_d1bc8c1d9dac57d5/next-generation-ai-for-ai-image-generator-14nl)
-- [The New Generation of High-Performance Web Frameworks（1750061893671600）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750061893671600-5349)
+- [Peak Performance Understated Power（1750064940729100）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750064940729100-41gd)
+- [The Poetry and Horizon of Code Framework（1750064930038900）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750064930038900-3a96)
+- [Why Everyone’s Talking About SafeLine — The Most Powerful Free WAF from Asia](https://dev.to/carrie_luo1/why-everyones-talking-about-safeline-the-most-powerful-free-waf-from-asia-51ne)
+- [Getting Started with LangChain: Build Smarter AI Apps with LLMs](https://dev.to/brains_behind_bots/getting-started-with-langchain-build-smarter-ai-apps-with-llms-53go)
 <!-- BLOG-POST-LIST:END -->
 
