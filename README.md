@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Critical Importance of Security in the Digital Age（1750047553963200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750047553963200-fl)
-- [The Heartbeat of Modern Web Applications（1750047549759600）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750047549759600-3caa)
-- [My Experience with Hyperlane（1750047250764600）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750047250764600-1gii)
-- [My Architectural Choices and Practical Experience（1750047247081100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750047247081100-3mg4)
+- [My Journey with the Hyperlane Framework（1750051197607300）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750051197607300-1nfo)
+- [My Experience with Hyperlane（1750051193457500）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750051193457500-371a)
+- [Apple Just Buffed Dev Tools](https://dev.to/zenoguy/apple-just-buffed-dev-tools-4bcn)
+- [GitLab Pipeline Annoyances](https://dev.to/feliciawalker/gitlab-pipeline-annoyances-11e4)
 <!-- BLOG-POST-LIST:END -->
 
