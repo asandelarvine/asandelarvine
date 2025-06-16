@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave GitHub Copilot Access to My Private Notes 🤯📓](https://dev.to/abubakersiddique771/i-gave-github-copilot-access-to-my-private-notes-3mn1)
-- [What are your goals for the week? #131](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-131-3gbo)
-- [Vue コンポーネント データ受渡し: 親 -&gt; 子](https://dev.to/nabbisen/vue-konponento-detashou-du-si-qin-zi-43oe)
-- [TanStack Form vs. React Hook Form](https://dev.to/logrocket/tanstack-form-vs-react-hook-form-6fb)
+- [Build Client Online Offline Status Feature using Ruby on Rails 8 Action Cable](https://dev.to/muhammad_syaifuddinzuhri/build-client-online-offline-status-feature-using-ruby-on-rails-8-action-cable-5bnm)
+- [🎯 Day 23 – Started Learning JPA &lpar;Java Persistence API&rpar;!](https://dev.to/krishna_chd/day-23-started-learning-jpa-java-persistence-api-1m20)
+- [🗂️ How to Use Arrays and Objects in TypeScript for Powerful QA Automation Scripts](https://dev.to/idavidov13/how-to-use-arrays-and-objects-in-typescript-for-powerful-qa-automation-scripts-3912)
+- [Hello](https://dev.to/arindam_langer_19fb6a7e6d/hello-3ddd)
 <!-- BLOG-POST-LIST:END -->
 
