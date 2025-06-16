@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
-- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
-- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
-- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
+- [Beating the Monday Blues as a CTO &lpar;Without Losing Your Mind&rpar;](https://dev.to/doozieakshay/beating-the-monday-blues-as-a-cto-without-losing-your-mind-1aan)
+- [A Duet of Performance and Safety（1750045122547000）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750045122547000-3g9p)
+- [Peak Performance Understated Power（1750045120603600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750045120603600-5774)
+- [The Heartbeat of Modern Web Applications（1750044817661800）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750044817661800-1cj3)
 <!-- BLOG-POST-LIST:END -->
 
