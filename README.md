@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beating the Monday Blues as a CTO &lpar;Without Losing Your Mind&rpar;](https://dev.to/doozieakshay/beating-the-monday-blues-as-a-cto-without-losing-your-mind-1aan)
-- [A Duet of Performance and Safety（1750045122547000）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750045122547000-3g9p)
-- [Peak Performance Understated Power（1750045120603600）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750045120603600-5774)
-- [The Heartbeat of Modern Web Applications（1750044817661800）](https://dev.to/member_b06955cb/the-heartbeat-of-modern-web-applications1750044817661800-1cj3)
+- [The Critical Importance of Security in the Digital Age（1750047553963200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750047553963200-fl)
+- [The Heartbeat of Modern Web Applications（1750047549759600）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750047549759600-3caa)
+- [My Experience with Hyperlane（1750047250764600）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750047250764600-1gii)
+- [My Architectural Choices and Practical Experience（1750047247081100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750047247081100-3mg4)
 <!-- BLOG-POST-LIST:END -->
 
