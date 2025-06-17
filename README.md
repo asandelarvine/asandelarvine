@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-32im)
-- [Mocking MongoDB Go Driver V2: How to Do It &lpar;and Why You Probably Shouldn&#39;t&rpar;](https://dev.to/prestonvasquez/mocking-mongodb-go-driver-v2-how-to-do-it-and-why-you-probably-shouldnt-4f30)
-- [I replaced Alpine.js in my app with this alternative 🔥](https://dev.to/hmpljs/i-replaced-alpinejs-in-my-app-with-this-alternative-kgk)
-- [From Reactive to Proactive: How AI and ML are Revolutionizing System Observability](https://dev.to/vaib/from-reactive-to-proactive-how-ai-and-ml-are-revolutionizing-system-observability-1b63)
+- [Why You Should Deep Copy Request Payloads in Node.js &lpar;Express &amp; NestJS&rpar;](https://dev.to/silentwatcher_95/why-you-should-deep-copy-request-payloads-in-nodejs-express-nestjs-59kk)
+- [Deploy a Website on AWS EC2 using Terraform with S3 Backup](https://dev.to/tejtandel/deploy-a-website-on-aws-ec2-using-terraform-with-s3-backup-3jjd)
+- [How to set up Vercel Image Optimization in TanStack Start](https://dev.to/ronanru/how-to-set-up-vercel-image-optimization-in-tanstack-start-21ed)
+- [Fix commond Laravel Horizon issues](https://dev.to/arielmejiadev/fix-commond-laravel-horizon-issues-2be3)
 <!-- BLOG-POST-LIST:END -->
 
