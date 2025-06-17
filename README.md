@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gas Estimation Failed](https://dev.to/hmbtalzd/gas-estimation-failed-5687)
-- [Still a beginner — but I’m proud of my small steps.](https://dev.to/yasmina/still-a-beginner-but-im-proud-of-my-small-steps-4hjc)
-- [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
-- [Building a Scalable Ride-Hailing App: Architecture Lessons from Real-World Implementation](https://dev.to/karim__sk/building-a-scalable-ride-hailing-app-architecture-lessons-from-real-world-implementation-4lbe)
+- [[Boost]](https://dev.to/aharna/-3k75)
+- [Has anyone used ZuppIO for metadata management and CI/CD in Salesforce?](https://dev.to/oleg_zhamoyda_a5943226c33/has-anyone-used-zuppio-for-metadata-management-and-cicd-in-salesforce-2jk6)
+- [Configure secure access to your workloads using Azure networking](https://dev.to/izuabueke/configure-secure-access-to-your-workloads-using-azure-networking-1i67)
+- [API Integration with Postman](https://dev.to/aanand_jha_2a0e97bdcbb743/api-integration-with-postman-12fn)
 <!-- BLOG-POST-LIST:END -->
 
