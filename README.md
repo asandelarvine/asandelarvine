@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a product people said they wanted. No one showed up.](https://dev.to/gguggulab/i-built-a-product-people-said-they-wanted-no-one-showed-up-13f3)
-- [How to Learn AI from Scratch](https://dev.to/lazypro/how-to-learn-ai-from-scratch-3368)
-- [Doing Science: What I learned while building RouteBastion as a Master’s Thesis project](https://dev.to/pietro-swe/doing-science-what-i-learned-while-building-routebastion-as-a-masters-thesis-project-279d)
-- [Beginner’s Guide to SQL Server Stored Procedures](https://dev.to/michael-gokey/beginners-guide-to-sql-server-stored-procedures-2o6a)
+- [SOLID - Guia Completo](https://dev.to/devarthurbarboza/solid-guia-completo-doe)
+- [New VMware ESXi Vulnerability Chain Enables VM Escape — Now Exploited in the Wild](https://dev.to/sharon_42e16b8da44dabde6d/new-vmware-esxi-vulnerability-chain-enables-vm-escape-now-exploited-in-the-wild-2kam)
+- [Netvue Achieves 52% Netvue Achieves 52% Reduction in GPU Costs using Automation](https://dev.to/cloudpilot-ai/netvue-achieves-52-netvue-achieves-52-reduction-in-gpu-costs-using-automation-9i2)
+- [Just Dropped: I&#39;m Now an Executive Contributor for Brainz Magazine](https://dev.to/ghostking314/just-dropped-im-now-an-executive-contributor-for-brainz-magazine-4ac9)
 <!-- BLOG-POST-LIST:END -->
 
