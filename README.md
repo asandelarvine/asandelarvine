@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/aharna/-3k75)
-- [Has anyone used ZuppIO for metadata management and CI/CD in Salesforce?](https://dev.to/oleg_zhamoyda_a5943226c33/has-anyone-used-zuppio-for-metadata-management-and-cicd-in-salesforce-2jk6)
-- [Configure secure access to your workloads using Azure networking](https://dev.to/izuabueke/configure-secure-access-to-your-workloads-using-azure-networking-1i67)
-- [API Integration with Postman](https://dev.to/aanand_jha_2a0e97bdcbb743/api-integration-with-postman-12fn)
+- [Capítulo 4: Configuração de Aplicações Quarkus](https://dev.to/erf88/capitulo-4-configuracao-de-aplicacoes-quarkus-3e6f)
+- [QuCode - 21DaysChallenge - Day 17](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-17-375b)
+- [From Side Hustles to Freelancing Full-Time: A Real Look at the Transition](https://dev.to/dayologic/from-side-hustles-to-freelancing-full-time-a-real-look-at-the-transition-1ppj)
+- [Are you letting the AI do the threat modeling?](https://dev.to/sydseter/are-you-letting-the-ai-do-the-threat-modeling-18o0)
 <!-- BLOG-POST-LIST:END -->
 
