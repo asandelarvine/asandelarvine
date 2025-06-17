@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Tuesday Tech Tip: Supercharge Your Terminal with OMZ! ✨🚀](https://dev.to/sroy8091/tuesday-tech-tip-supercharge-your-terminal-with-omz-3cpk)
-- [How to Choose the Right AI Model for Your Use Case &lpar;Without Going Crazy&rpar;](https://dev.to/mhamadelitawi/how-to-choose-the-right-ai-model-for-your-use-case-without-going-crazy-1ko0)
-- [My Transition into System Design: Building Better, Smarter Systems](https://dev.to/congomusah/my-transition-into-system-design-building-better-smarter-systems-1702)
-- [I Let Amazon&#39;s AI Build My Game for 3 Days. Here&#39;s What Happened](https://dev.to/patrity/i-let-amazons-ai-build-my-game-for-3-days-heres-what-happened-160j)
+- [Open Source Tools You must know in 2025!!](https://dev.to/ashishsimplecoder/open-source-tools-you-must-know-in-2025-2645)
+- [Maybe to someone who is in need](https://dev.to/abhiraj_damodare_a66eeb29/maybe-to-someone-who-is-in-need-23lo)
+- [Claude Code is First Choice](https://dev.to/thutch1976/claude-code-is-first-choice-2fbd)
+- [Why SageMaker Should Be Your Go-To for AI Projects](https://dev.to/simonnungwa/why-sagemaker-should-be-your-go-to-for-ai-projects-2a)
 <!-- BLOG-POST-LIST:END -->
 
