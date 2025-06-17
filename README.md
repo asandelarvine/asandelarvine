@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of AI with Toolkitly: Your Ultimate AI Tools Hub!](https://dev.to/toolkitly/unlock-the-power-of-ai-with-toolkitly-your-ultimate-ai-tools-hub-11oj)
-- [[Boost]](https://dev.to/pratham_naik_project_manager/-11f3)
-- [The 4-Hour Focus Block: Advanced Deep Work Techniques for Senior Developers](https://dev.to/teamcamp/the-4-hour-focus-block-advanced-deep-work-techniques-for-senior-developers-4136)
-- [Why your open banking adoption might fail without strong KYC](https://dev.to/flutterwaveeng/why-your-open-banking-adoption-might-fail-without-strong-kyc-2e5f)
+- [AI Content Research &amp; Blogpost Writing Assistant - RUNNER H](https://dev.to/meet_gohel_9f2ee9a5349695/ai-content-research-blogpost-writing-assistant-runner-h-20l5)
+- [Fortifying Your Aptos Assets: A Practical Guide to Key Account Rotation](https://dev.to/danielkestrel/fortifying-your-aptos-assets-a-practical-guide-to-key-account-rotation-1mmm)
+- [The Four Dots of Mystery](https://dev.to/leah_massey/the-four-dots-of-mystery-3cga)
+- [How to Implement Two-Way Communication in Android with React Native TurboModules &lpar;New Architecture&rpar;](https://dev.to/amitkumar13/how-to-implement-two-way-communication-in-android-with-react-native-turbomodules-new-architecture-bpb)
 <!-- BLOG-POST-LIST:END -->
 
