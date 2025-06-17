@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend&#39;in Geleceği: API İlk Yaklaşımı](https://dev.to/yunus_emremert_1756b71d3/backendin-gelecegi-api-ilk-yaklasimi-5822)
-- [My posts](https://dev.to/zuri/my-posts-5ddj)
-- [trino istio](https://dev.to/etolbakov/trino-istio-4i1a)
-- [“Procuro Cofundador Técnico para App Emocional com Impacto Social &lpar;equity 15–25%&rpar;”](https://dev.to/eco_humano-human_echo/procuro-cofundador-tecnico-para-app-emocional-com-impacto-social-equity-15-25-2g48)
+- [I built a product people said they wanted. No one showed up.](https://dev.to/gguggulab/i-built-a-product-people-said-they-wanted-no-one-showed-up-13f3)
+- [How to Learn AI from Scratch](https://dev.to/lazypro/how-to-learn-ai-from-scratch-3368)
+- [Doing Science: What I learned while building RouteBastion as a Master’s Thesis project](https://dev.to/pietro-swe/doing-science-what-i-learned-while-building-routebastion-as-a-masters-thesis-project-279d)
+- [Beginner’s Guide to SQL Server Stored Procedures](https://dev.to/michael-gokey/beginners-guide-to-sql-server-stored-procedures-2o6a)
 <!-- BLOG-POST-LIST:END -->
 
