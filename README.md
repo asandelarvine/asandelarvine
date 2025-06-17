@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀How the V8 JavaScript Engine Runs and Optimizes Your Code](https://dev.to/muhayminbinmehmood/how-the-v8-javascript-engine-runs-and-optimizes-your-code-1a0n)
-- [Como resolvi o erro “REGDB_E_CLASSNOTREG” ao instalar o WSL no Windows 11](https://dev.to/evertonpi/como-resolvi-o-erro-regdbeclassnotreg-ao-instalar-o-wsl-no-windows-11-307)
-- [Day 11/180 of Frontend Dev: Mastering HTML Tables for Structured Data](https://dev.to/code_2/day-11180-of-frontend-dev-mastering-html-tables-for-structured-data-ijg)
-- [Canvas Unleashed: Accelerating Sanity Work as AI Takes the Lead](https://dev.to/xb16/canvas-unleashed-accelerating-sanity-work-as-ai-takes-the-lead-nic)
+- [[Boost]](https://dev.to/anthonymax/-32im)
+- [Mocking MongoDB Go Driver V2: How to Do It &lpar;and Why You Probably Shouldn&#39;t&rpar;](https://dev.to/prestonvasquez/mocking-mongodb-go-driver-v2-how-to-do-it-and-why-you-probably-shouldnt-4f30)
+- [I replaced Alpine.js in my app with this alternative 🔥](https://dev.to/hmpljs/i-replaced-alpinejs-in-my-app-with-this-alternative-kgk)
+- [From Reactive to Proactive: How AI and ML are Revolutionizing System Observability](https://dev.to/vaib/from-reactive-to-proactive-how-ai-and-ml-are-revolutionizing-system-observability-1b63)
 <!-- BLOG-POST-LIST:END -->
 
