@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Capítulo 4: Configuração de Aplicações Quarkus](https://dev.to/erf88/capitulo-4-configuracao-de-aplicacoes-quarkus-3e6f)
-- [QuCode - 21DaysChallenge - Day 17](https://dev.to/paulobmsousa/qucode-21dayschallenge-day-17-375b)
-- [From Side Hustles to Freelancing Full-Time: A Real Look at the Transition](https://dev.to/dayologic/from-side-hustles-to-freelancing-full-time-a-real-look-at-the-transition-1ppj)
-- [Are you letting the AI do the threat modeling?](https://dev.to/sydseter/are-you-letting-the-ai-do-the-threat-modeling-18o0)
+- [Front-end Signing and Back-end Verification in JavaScript Applications](https://dev.to/ksotnykov/front-end-signing-and-back-end-verification-in-javascript-applications-32d7)
+- [We Built a Docker Alternative in Rust on Our Phones in Kenya. Here&#39;s Why.](https://dev.to/spheredevs/we-built-a-docker-alternative-in-rust-on-our-phones-in-kenya-heres-why-21c0)
+- [Why Does Your Business Need a Cloud Native Security Platform?](https://dev.to/abhayit2000/why-does-your-business-need-a-cloud-native-security-platform-556a)
+- [Git Workflows Overview](https://dev.to/davinceleecode/git-workflows-overview-5408)
 <!-- BLOG-POST-LIST:END -->
 
