@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SELinux Basics](https://dev.to/godofgeeks/selinux-basics-3o71)
-- [March’25 Updates: iOS VoiceOver Support, New KaneAI Features, and More! | LambdaTest](https://dev.to/lambdatest/march25-updates-ios-voiceover-support-new-kaneai-features-and-more-lambdatest-4mi9)
-- [Tutorial Buat Absensi Barcode Laravel](https://dev.to/story_coding/tutorial-buat-absensi-barcode-laravel-4g77)
-- [Setting up a Python project with CMake](https://dev.to/pikotutorial/setting-up-a-python-project-with-cmake-11ef)
+- [How Can You Assign a Value/Category based on Number Range in Excel?](https://dev.to/excel24x7/how-can-you-assign-a-valuecategory-based-on-number-range-in-excel-b32)
+- [Building Custom Script Plugins in Amazon OpenSearch Service: A Technical Deep Dive](https://dev.to/aws-builders/building-custom-script-plugins-in-amazon-opensearch-service-a-technical-deep-dive-3lnl)
+- [Explain your journey in the IT sector as a developer](https://dev.to/shubhanjay_tiwari/explain-your-journey-in-the-it-sector-as-a-developer-kkf)
+- [[Boost]](https://dev.to/david_babalola_84fe639739/-14a2)
 <!-- BLOG-POST-LIST:END -->
 
