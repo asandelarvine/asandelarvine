@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Locator – Handling Complex UI Elements with Ease](https://dev.to/quangto/playwright-locator-handling-complex-ui-elements-with-ease-2pj6)
-- [🚀 How I Successfully Passed the AWS Certified AI Practitioner &lpar;AIF-CO1&rpar;](https://dev.to/roay_line_6feb20f06ec2787/how-i-successfully-passed-the-aws-certified-ai-practitioner-aif-co1-26ge)
-- [10+ Best Next.js eCommerce Templates for 2025](https://dev.to/vinishbhaskar/10-best-nextjs-ecommerce-templates-for-2025-3cek)
-- [Day 9: Supercharge FastAPI with Async Programming](https://dev.to/awslearnerdaily/day-9-supercharge-fastapi-with-async-programming-3op4)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1fo2)
+- [[Boost]](https://dev.to/ananya330/-25g4)
+- [Better Tips for Maintaining Good Health](https://dev.to/khalil_khan_9ea7e99741461/better-tips-for-maintaining-good-health-4ij6)
+- [Too Lazy to Click: How I Scraped a 400-Page Forum Thread with Python](https://dev.to/hexcreator/too-lazy-to-click-how-i-scraped-a-400-page-forum-thread-with-python-1ol5)
 <!-- BLOG-POST-LIST:END -->
 
