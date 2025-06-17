@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide to Performance Optimization of HarmonyOS Next](https://dev.to/liu_yang_fc0e605820ac220c/practical-guide-to-performance-optimization-of-harmonyos-next-13if)
-- [Save the Date: Runner H Demo and Livestream on June 26 and July 3!](https://dev.to/devteam/save-the-date-runner-h-demo-and-livestream-on-june-26-and-july-3-3alf)
-- [Top 5 Custom Software Development Companies in Gothenburg](https://dev.to/data_ingenjoren/top-5-custom-software-development-companies-in-gothenburg-5adg)
-- [Making an Occupational Change...](https://dev.to/stefanmoore/making-an-occupational-change-3g62)
+- [Missed last week&#39;s Project of the Week? Check out MapLibre&#39;s collaboration metrics!](https://dev.to/riyanapatel/missed-last-weeks-project-of-the-week-check-out-maplibres-collaboration-metrics-90)
+- [Building an AI Content Pipeline: From Newsletter Headlines to Viral LinkedIn Posts](https://dev.to/allanninal/stop-creating-linkedin-posts-manually-i-built-an-ai-system-that-turns-headlines-into-viral-content-45e4)
+- [How to Write ChatGPT Prompts: A Complete Guide](https://dev.to/saifa/how-to-write-chatgpt-prompts-a-complete-guide-2amb)
+- [Mastering Kubernetes Security: A Practical Guide to Hardening Your Clusters](https://dev.to/vaib/mastering-kubernetes-security-a-practical-guide-to-hardening-your-clusters-dp2)
 <!-- BLOG-POST-LIST:END -->
 
