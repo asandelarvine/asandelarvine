@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Tools You must know in 2025!!](https://dev.to/ashishsimplecoder/open-source-tools-you-must-know-in-2025-2645)
-- [Maybe to someone who is in need](https://dev.to/abhiraj_damodare_a66eeb29/maybe-to-someone-who-is-in-need-23lo)
-- [Claude Code is First Choice](https://dev.to/thutch1976/claude-code-is-first-choice-2fbd)
-- [Why SageMaker Should Be Your Go-To for AI Projects](https://dev.to/simonnungwa/why-sagemaker-should-be-your-go-to-for-ai-projects-2a)
+- [🚀How the V8 JavaScript Engine Runs and Optimizes Your Code](https://dev.to/muhayminbinmehmood/how-the-v8-javascript-engine-runs-and-optimizes-your-code-1a0n)
+- [Como resolvi o erro “REGDB_E_CLASSNOTREG” ao instalar o WSL no Windows 11](https://dev.to/evertonpi/como-resolvi-o-erro-regdbeclassnotreg-ao-instalar-o-wsl-no-windows-11-307)
+- [Day 11/180 of Frontend Dev: Mastering HTML Tables for Structured Data](https://dev.to/code_2/day-11180-of-frontend-dev-mastering-html-tables-for-structured-data-ijg)
+- [Canvas Unleashed: Accelerating Sanity Work as AI Takes the Lead](https://dev.to/xb16/canvas-unleashed-accelerating-sanity-work-as-ai-takes-the-lead-nic)
 <!-- BLOG-POST-LIST:END -->
 
