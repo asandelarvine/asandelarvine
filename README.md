@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1fo2)
-- [[Boost]](https://dev.to/ananya330/-25g4)
-- [Better Tips for Maintaining Good Health](https://dev.to/khalil_khan_9ea7e99741461/better-tips-for-maintaining-good-health-4ij6)
-- [Too Lazy to Click: How I Scraped a 400-Page Forum Thread with Python](https://dev.to/hexcreator/too-lazy-to-click-how-i-scraped-a-400-page-forum-thread-with-python-1ol5)
+- [Changeish: Automate your changelog with AI](https://dev.to/itlackey/changeish-automate-your-changelog-with-ai-45kj)
+- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
+- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
+- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
 <!-- BLOG-POST-LIST:END -->
 
