@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m sure a lot of you can relate to this](https://dev.to/k41r0n/im-sure-a-lot-of-you-can-relate-to-this-49nb)
-- [Mastering DevSecOps and GitOps for Secure Cloud-Native Applications](https://dev.to/vaib/mastering-devsecops-and-gitops-for-secure-cloud-native-applications-4pm6)
-- [WWDC 2025 - iOS 26&#39;s Revolutionary Multilingual Enhancements](https://dev.to/arshtechpro/wwdc-2025-ios-26s-revolutionary-multilingual-enhancements-2fp2)
-- [Deploy a Secure EC2 Web Server with Terraform, Multi-AZ, and Remote State on AWS](https://dev.to/tejtandel/deploy-a-secure-ec2-web-server-with-terraform-multi-az-and-remote-state-on-aws-401g)
+- [Smart Filtering by Programming Language and Location: Simplifying Search on Our Platform](https://dev.to/erzana_muharremi/smart-filtering-by-programming-language-and-location-simplifying-search-on-our-platform-47el)
+- [Designing the Homepage &amp; Hero Section: Crafting First Impressions](https://dev.to/erzana_muharremi/designing-the-homepage-hero-section-crafting-first-impressions-133j)
+- [What Is the Walrus Operator &lpar;:=&rpar; in Python and Why It&#39;s So Useful](https://dev.to/eddiegoldman/what-is-the-walrus-operator-in-python-and-why-its-so-useful-3p0o)
+- [Designing Two Registration Experiences: One Platform, Two User Paths](https://dev.to/erzana_muharremi/designing-two-registration-experiences-one-platform-two-user-paths-pkm)
 <!-- BLOG-POST-LIST:END -->
 
