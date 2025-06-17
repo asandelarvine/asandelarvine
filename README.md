@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end Signing and Back-end Verification in JavaScript Applications](https://dev.to/ksotnykov/front-end-signing-and-back-end-verification-in-javascript-applications-32d7)
-- [We Built a Docker Alternative in Rust on Our Phones in Kenya. Here&#39;s Why.](https://dev.to/spheredevs/we-built-a-docker-alternative-in-rust-on-our-phones-in-kenya-heres-why-21c0)
-- [Why Does Your Business Need a Cloud Native Security Platform?](https://dev.to/abhayit2000/why-does-your-business-need-a-cloud-native-security-platform-556a)
-- [Git Workflows Overview](https://dev.to/davinceleecode/git-workflows-overview-5408)
+- [Practical Guide to Performance Optimization of HarmonyOS Next](https://dev.to/liu_yang_fc0e605820ac220c/practical-guide-to-performance-optimization-of-harmonyos-next-13if)
+- [Save the Date: Runner H Demo and Livestream on June 26 and July 3!](https://dev.to/devteam/save-the-date-runner-h-demo-and-livestream-on-june-26-and-july-3-3alf)
+- [Top 5 Custom Software Development Companies in Gothenburg](https://dev.to/data_ingenjoren/top-5-custom-software-development-companies-in-gothenburg-5adg)
+- [Making an Occupational Change...](https://dev.to/stefanmoore/making-an-occupational-change-3g62)
 <!-- BLOG-POST-LIST:END -->
 
