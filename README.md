@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Missed last week&#39;s Project of the Week? Check out MapLibre&#39;s collaboration metrics!](https://dev.to/riyanapatel/missed-last-weeks-project-of-the-week-check-out-maplibres-collaboration-metrics-90)
-- [Building an AI Content Pipeline: From Newsletter Headlines to Viral LinkedIn Posts](https://dev.to/allanninal/stop-creating-linkedin-posts-manually-i-built-an-ai-system-that-turns-headlines-into-viral-content-45e4)
-- [How to Write ChatGPT Prompts: A Complete Guide](https://dev.to/saifa/how-to-write-chatgpt-prompts-a-complete-guide-2amb)
-- [Mastering Kubernetes Security: A Practical Guide to Hardening Your Clusters](https://dev.to/vaib/mastering-kubernetes-security-a-practical-guide-to-hardening-your-clusters-dp2)
+- [⚙️ Tuesday Tech Tip: Supercharge Your Terminal with OMZ! ✨🚀](https://dev.to/sroy8091/tuesday-tech-tip-supercharge-your-terminal-with-omz-3cpk)
+- [How to Choose the Right AI Model for Your Use Case &lpar;Without Going Crazy&rpar;](https://dev.to/mhamadelitawi/how-to-choose-the-right-ai-model-for-your-use-case-without-going-crazy-1ko0)
+- [My Transition into System Design: Building Better, Smarter Systems](https://dev.to/congomusah/my-transition-into-system-design-building-better-smarter-systems-1702)
+- [I Let Amazon&#39;s AI Build My Game for 3 Days. Here&#39;s What Happened](https://dev.to/patrity/i-let-amazons-ai-build-my-game-for-3-days-heres-what-happened-160j)
 <!-- BLOG-POST-LIST:END -->
 
