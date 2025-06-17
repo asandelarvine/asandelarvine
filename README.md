@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Research &amp; Blogpost Writing Assistant - RUNNER H](https://dev.to/meet_gohel_9f2ee9a5349695/ai-content-research-blogpost-writing-assistant-runner-h-20l5)
-- [Fortifying Your Aptos Assets: A Practical Guide to Key Account Rotation](https://dev.to/danielkestrel/fortifying-your-aptos-assets-a-practical-guide-to-key-account-rotation-1mmm)
-- [The Four Dots of Mystery](https://dev.to/leah_massey/the-four-dots-of-mystery-3cga)
-- [How to Implement Two-Way Communication in Android with React Native TurboModules &lpar;New Architecture&rpar;](https://dev.to/amitkumar13/how-to-implement-two-way-communication-in-android-with-react-native-turbomodules-new-architecture-bpb)
+- [Gas Estimation Failed](https://dev.to/hmbtalzd/gas-estimation-failed-5687)
+- [Still a beginner — but I’m proud of my small steps.](https://dev.to/yasmina/still-a-beginner-but-im-proud-of-my-small-steps-4hjc)
+- [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
+- [Building a Scalable Ride-Hailing App: Architecture Lessons from Real-World Implementation](https://dev.to/karim__sk/building-a-scalable-ride-hailing-app-architecture-lessons-from-real-world-implementation-4lbe)
 <!-- BLOG-POST-LIST:END -->
 
