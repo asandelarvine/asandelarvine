@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Changeish: Automate your changelog with AI](https://dev.to/itlackey/changeish-automate-your-changelog-with-ai-45kj)
-- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
-- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
-- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
+- [SELinux Basics](https://dev.to/godofgeeks/selinux-basics-3o71)
+- [March’25 Updates: iOS VoiceOver Support, New KaneAI Features, and More! | LambdaTest](https://dev.to/lambdatest/march25-updates-ios-voiceover-support-new-kaneai-features-and-more-lambdatest-4mi9)
+- [Tutorial Buat Absensi Barcode Laravel](https://dev.to/story_coding/tutorial-buat-absensi-barcode-laravel-4g77)
+- [Setting up a Python project with CMake](https://dev.to/pikotutorial/setting-up-a-python-project-with-cmake-11ef)
 <!-- BLOG-POST-LIST:END -->
 
