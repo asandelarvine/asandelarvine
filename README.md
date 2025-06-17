@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Deep Copy Request Payloads in Node.js &lpar;Express &amp; NestJS&rpar;](https://dev.to/silentwatcher_95/why-you-should-deep-copy-request-payloads-in-nodejs-express-nestjs-59kk)
-- [Deploy a Website on AWS EC2 using Terraform with S3 Backup](https://dev.to/tejtandel/deploy-a-website-on-aws-ec2-using-terraform-with-s3-backup-3jjd)
-- [How to set up Vercel Image Optimization in TanStack Start](https://dev.to/ronanru/how-to-set-up-vercel-image-optimization-in-tanstack-start-21ed)
-- [Fix commond Laravel Horizon issues](https://dev.to/arielmejiadev/fix-commond-laravel-horizon-issues-2be3)
+- [I&#39;m sure a lot of you can relate to this](https://dev.to/k41r0n/im-sure-a-lot-of-you-can-relate-to-this-49nb)
+- [Mastering DevSecOps and GitOps for Secure Cloud-Native Applications](https://dev.to/vaib/mastering-devsecops-and-gitops-for-secure-cloud-native-applications-4pm6)
+- [WWDC 2025 - iOS 26&#39;s Revolutionary Multilingual Enhancements](https://dev.to/arshtechpro/wwdc-2025-ios-26s-revolutionary-multilingual-enhancements-2fp2)
+- [Deploy a Secure EC2 Web Server with Terraform, Multi-AZ, and Remote State on AWS](https://dev.to/tejtandel/deploy-a-secure-ec2-web-server-with-terraform-multi-az-and-remote-state-on-aws-401g)
 <!-- BLOG-POST-LIST:END -->
 
