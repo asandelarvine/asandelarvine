@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can You Assign a Value/Category based on Number Range in Excel?](https://dev.to/excel24x7/how-can-you-assign-a-valuecategory-based-on-number-range-in-excel-b32)
-- [Building Custom Script Plugins in Amazon OpenSearch Service: A Technical Deep Dive](https://dev.to/aws-builders/building-custom-script-plugins-in-amazon-opensearch-service-a-technical-deep-dive-3lnl)
-- [Explain your journey in the IT sector as a developer](https://dev.to/shubhanjay_tiwari/explain-your-journey-in-the-it-sector-as-a-developer-kkf)
-- [[Boost]](https://dev.to/david_babalola_84fe639739/-14a2)
+- [Unlock the Power of AI with Toolkitly: Your Ultimate AI Tools Hub!](https://dev.to/toolkitly/unlock-the-power-of-ai-with-toolkitly-your-ultimate-ai-tools-hub-11oj)
+- [[Boost]](https://dev.to/pratham_naik_project_manager/-11f3)
+- [The 4-Hour Focus Block: Advanced Deep Work Techniques for Senior Developers](https://dev.to/teamcamp/the-4-hour-focus-block-advanced-deep-work-techniques-for-senior-developers-4136)
+- [Why your open banking adoption might fail without strong KYC](https://dev.to/flutterwaveeng/why-your-open-banking-adoption-might-fail-without-strong-kyc-2e5f)
 <!-- BLOG-POST-LIST:END -->
 
