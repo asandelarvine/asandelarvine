@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Declaration &amp; Function Expression](https://dev.to/swetha67/function-declaration-function-expression-4m1d)
-- [Building a Tab Component with Tailwind CSS and React](https://dev.to/hexshift/building-a-tab-component-with-tailwind-css-and-react-3c4h)
-- [🐯 🚀 Timescale is now TigerData: Building the Modern PostgreSQL for the Analytical and Agentic Era](https://dev.to/tigerdata/timescale-is-now-tigerdata-building-the-modern-postgresql-for-the-analytical-and-agentic-era-3a51)
-- [Why I Left Building Services Engineering](https://dev.to/javaskr/why-i-left-building-services-engineering-5bi4)
+- [My Journey with the Hyperlane Framework（1750266624771900）](https://dev.to/member_e911e096/my-journey-with-the-hyperlane-framework1750266624771900-den)
+- [AI-Powered Job Hunt Automation - From Search to Interview Scheduling](https://dev.to/ariondev/ai-powered-job-hunt-automation-from-search-to-interview-scheduling-47ek)
+- [What is Azure AI Search](https://dev.to/pedromonteiroleite/what-is-azure-ai-search-jlk)
+- [Scholar Profile - John Round - 20250618-130727](https://dev.to/puddin1066/scholar-profile-john-round-20250618-130727-4ha1)
 <!-- BLOG-POST-LIST:END -->
 
