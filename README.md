@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Editor on Your Browser](https://dev.to/ronakm/code-editor-on-your-browser-47ko)
-- [Best Project Management Tools for Remote Developer Teams &lpar;2025 Edition&rpar;](https://dev.to/teamcamp/best-project-management-tools-for-remote-developer-teams-2025-edition-38nk)
-- [Building a Goal Tracker with React](https://dev.to/louiseka/building-a-goal-tracker-with-react-1j68)
-- [Day 15: Getting Started with Node.js: My First Day Journey](https://dev.to/seenuvasan_p/day-15-getting-started-with-nodejs-my-first-day-journey-47gl)
+- [I Built a Simple Budgeting App Called Budget Buddy](https://dev.to/voxdroid/i-built-a-simple-budgeting-app-called-budget-buddy-3nng)
+- [🐧 Meet Wally — Your Bilingual AI Penguin Buddy!](https://dev.to/julywu/meet-wally-your-bilingual-ai-penguin-buddy-50ge)
+- [Frontier Communications Login Account](https://dev.to/vladimirputinvp/frontier-communications-login-account-1nfd)
+- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
 <!-- BLOG-POST-LIST:END -->
 
