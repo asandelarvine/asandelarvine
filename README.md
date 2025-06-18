@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pratham_naik_project_manager/-h9d)
-- [The 2-Hour Deep Work Block: How Senior Devs Structure Their Most Productive Days](https://dev.to/teamcamp/the-2-hour-deep-work-block-how-senior-devs-structure-their-most-productive-days-3b66)
-- [Improve AI Visibility for Your WordPress Site with llms.txt – New Plugin Released!](https://dev.to/fulgidinc/improve-ai-visibility-for-your-wordpress-site-with-llmstxt-new-plugin-released-4810)
-- [CVE-2023-0386: Linux Kernel Improper Ownership Management Vulnerability](https://dev.to/freedom_coder/cve-2023-0386-linux-kernel-improper-ownership-management-vulnerability-46po)
+- [🎨 How to Add Effects Using CSS – Complete Guide](https://dev.to/chaitanya_chopde_dd0642ed/how-to-add-effects-using-css-complete-guide-1ljo)
+- [IPv6 Subnet Calculator Development Notes in HarmonyOS](https://dev.to/zhao1743914721/ipv6-subnet-calculator-development-notes-in-harmonyos-73m)
+- [IPv4 Subnet Calculator Development Notes in HarmonyOS](https://dev.to/zhao1743914721/ipv4-subnet-calculator-development-notes-in-harmonyos-5g2)
+- [Scalable UI State with React Context and Tailwind CSS](https://dev.to/hexshift/scalable-ui-state-with-react-context-and-tailwind-css-1pbh)
 <!-- BLOG-POST-LIST:END -->
 
