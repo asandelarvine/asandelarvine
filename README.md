@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Passionate About Building Practical Apps as a Software Developer](https://dev.to/mohammad_rifatujjama/why-im-passionate-about-building-practical-apps-as-a-software-developer-3ek8)
-- [Performance（1750270597473400）](https://dev.to/member_e911e096/performance1750270597473400-17a6)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750270595936500）](https://dev.to/member_a4f1642a/junior-year-self-study-notes-my-journey-with-the-framework1750270595936500-2957)
-- [Tesella, A Grid Generator](https://dev.to/miguelrodriguezp99/tesella-a-grid-generator-34kg)
+- [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
+- [A Duet of Performance and Safety（1750273734754500）](https://dev.to/member_e911e096/a-duet-of-performance-and-safety1750273734754500-l0d)
+- [The Poetry and Horizon of Code Framework（1750273703236300）](https://dev.to/member_a4f1642a/the-poetry-and-horizon-of-code-framework1750273703236300-4ddn)
+- [i just made an encryption algorithm for some reason:D](https://dev.to/alanalexander1011/i-just-made-an-encryption-algorithm-for-some-reasond-1g8o)
 <!-- BLOG-POST-LIST:END -->
 
