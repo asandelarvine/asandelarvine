@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://dev.to/tutti/uncertainty-of-thoughts-uncertainty-aware-planning-enhances-information-seeking-in-large-language-47i8)
-- [Highly Recommended: Maven Helper – The Ultimate Dependency Management Tool for VSCode &amp; Cursor](https://dev.to/hendiaome/highly-recommended-maven-helper-the-ultimate-dependency-management-tool-for-vscode-cursor-2dhn)
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2bpm)
-- [Become a Master with Pagination in Laravel | How to | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/become-a-master-with-pagination-in-laravel-how-to-tutorial-quick-win-wednesday-qww-b76)
+- [Programando en C](https://dev.to/baltasarq/programando-en-c-38dp)
+- [Logika Absensi Barcode](https://dev.to/story_coding/logika-absensi-barcode-b91)
+- [How to Build an Android/iOS App to Scan, Edit, and Save Documents with Flutter and HTML5](https://dev.to/yushulx/how-to-build-an-androidios-app-to-scan-edit-and-save-documents-with-flutter-and-html5-3bnn)
+- [Umemura Farm Website – Devlog #9: A Lesson in Visual Improvements and Git Discipline](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-9-a-lesson-in-visual-improvements-and-git-discipline-3ga3)
 <!-- BLOG-POST-LIST:END -->
 
