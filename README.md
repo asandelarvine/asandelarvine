@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Your Developer Path Series: Side Projects Are Free Coaching &lpar;or the side projects that helped me grow&rpar;](https://dev.to/tlorent/choosing-your-developer-path-series-side-projects-are-free-coaching-or-the-side-projects-that-2pg0)
-- [10 Tips for an Effective Software Asset Inventory for US Agencies](https://dev.to/jennifer_devsamurai/10-tips-for-an-effective-software-asset-inventory-for-us-agencies-26c9)
-- [A Practical Guide to Testing Custom React Routers](https://dev.to/zenika/a-practical-guide-to-testing-custom-react-routers-4j93)
-- [What Performance Really Means in Modern Storefronts &lpar;It is Not Just API Speed&rpar;](https://dev.to/aakanksha/what-performance-really-means-in-modern-storefronts-it-is-not-just-api-speed-4co2)
+- [Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://dev.to/tutti/uncertainty-of-thoughts-uncertainty-aware-planning-enhances-information-seeking-in-large-language-47i8)
+- [Highly Recommended: Maven Helper – The Ultimate Dependency Management Tool for VSCode &amp; Cursor](https://dev.to/hendiaome/highly-recommended-maven-helper-the-ultimate-dependency-management-tool-for-vscode-cursor-2dhn)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2bpm)
+- [Become a Master with Pagination in Laravel | How to | Tutorial | Quick Win Wednesday #QWW](https://dev.to/burtds/become-a-master-with-pagination-in-laravel-how-to-tutorial-quick-win-wednesday-qww-b76)
 <!-- BLOG-POST-LIST:END -->
 
