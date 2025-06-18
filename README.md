@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Cybersecurity Roles: A Walkthrough of TryHackMe&#39;s &quot;Careers in Cyber&quot; Room](https://dev.to/shadownet0110/exploring-cybersecurity-roles-a-walkthrough-of-tryhackmes-careers-in-cyber-room-ie5)
-- [💻 Sharpen Skills. Land Jobs. Build Strong Tech Teams.](https://dev.to/ml318097/sharpen-skills-land-jobs-build-strong-tech-teams-3b63)
-- [How I Built a Professional Website in 10 Minutes Using AI—My Personal Journey](https://dev.to/killer_scofield_d2f41df11/how-i-built-a-professional-website-in-10-minutes-using-ai-my-personal-journey-2hg8)
-- [🛰️ What Is a VPC? &lpar;And Why It’s Like Running a Cloud Coffee Shop&rpar;](https://dev.to/1suleyman/what-is-a-vpc-and-why-its-like-running-a-cloud-coffee-shop-240n)
+- [The calm confidence in this post is what makes it convincing. No hype, just execution.](https://dev.to/techbyfelix/the-calm-confidence-in-this-post-is-what-makes-it-convincing-no-hype-just-execution-2laj)
+- [MCP Model Context Protocol vs. Traditional APIs &lpar;REST, SOAP, GraphQL, gRPC&rpar;: The Future of API Communication](https://dev.to/sreeni5018/mcp-model-context-protocol-vs-traditional-apis-rest-soap-graphql-grpc-the-future-of-api-pi7)
+- [500 Orders Lost in Just 3 Minutes – All Because of One Forgotten Config Line](https://dev.to/lowkey_dev_591/500-orders-lost-in-just-3-minutes-all-because-of-one-forgotten-config-line-4o9d)
+- [How No-Code &amp; AI Are Revolutionizing SMBs and Startups](https://dev.to/mike_white_a343fda1f8a165/how-no-code-ai-are-revolutionizing-smbs-and-startups-3m56)
 <!-- BLOG-POST-LIST:END -->
 
