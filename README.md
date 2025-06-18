@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of open source](https://dev.to/praveena_2109/benefits-of-open-source-403c)
-- [Introducing gq-to-sql: Convert Graph-Style URL Queries into SQL](https://dev.to/huetteldorf/introducing-gq-to-sql-convert-graph-style-url-queries-into-sql-4h5o)
-- [The Captivating Universe of Mystery Box Subscription Services](https://dev.to/buyunclaimedmail/the-captivating-universe-of-mystery-box-subscription-services-3ek0)
-- [Synthex AI: Just Launched and Already Transforming AI Training Data](https://dev.to/theaniketgiri/synthex-ai-just-launched-and-already-transforming-ai-training-data-568b)
+- [I built Litlyx because I was done with all the other tools.](https://dev.to/litlyx/i-built-litlyx-because-i-was-done-with-all-the-other-tools-38co)
+- [Funções Genéricas Inteligentes](https://dev.to/iwilldev/funcoes-genericas-inteligentes-4oal)
+- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
+- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
 <!-- BLOG-POST-LIST:END -->
 
