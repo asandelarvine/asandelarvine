@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750266624771900）](https://dev.to/member_e911e096/my-journey-with-the-hyperlane-framework1750266624771900-den)
-- [AI-Powered Job Hunt Automation - From Search to Interview Scheduling](https://dev.to/ariondev/ai-powered-job-hunt-automation-from-search-to-interview-scheduling-47ek)
-- [What is Azure AI Search](https://dev.to/pedromonteiroleite/what-is-azure-ai-search-jlk)
-- [Scholar Profile - John Round - 20250618-130727](https://dev.to/puddin1066/scholar-profile-john-round-20250618-130727-4ha1)
+- [Why I’m Passionate About Building Practical Apps as a Software Developer](https://dev.to/mohammad_rifatujjama/why-im-passionate-about-building-practical-apps-as-a-software-developer-3ek8)
+- [Performance（1750270597473400）](https://dev.to/member_e911e096/performance1750270597473400-17a6)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750270595936500）](https://dev.to/member_a4f1642a/junior-year-self-study-notes-my-journey-with-the-framework1750270595936500-2957)
+- [Tesella, A Grid Generator](https://dev.to/miguelrodriguezp99/tesella-a-grid-generator-34kg)
 <!-- BLOG-POST-LIST:END -->
 
