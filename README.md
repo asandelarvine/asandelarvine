@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750211331431600）](https://dev.to/member_f0ea35cc/my-experience-with-hyperlane1750211331431600-c3f)
-- [Peak Performance Understated Power（1750209513172600）](https://dev.to/member_f0ea35cc/peak-performance-understated-power1750209513172600-148i)
-- [14-HarmonyOS5-VisionKit-CardRecognition-Case](https://dev.to/zhousg/14-harmonyos5-visionkit-cardrecognition-case-3e3m)
-- [My Architectural Choices and Practical Experience（1750208906585500）](https://dev.to/member_f0ea35cc/my-architectural-choices-and-practical-experience1750208906585500-502d)
+- [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
+- [AI in Software Testing: Actionable Advice for 2025](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-actionable-advice-for-2025-26m0)
+- [Check if Application is Installed](https://dev.to/flfljh/check-if-application-is-installed-38ia)
+- [System Boot Time Plugin](https://dev.to/flfljh/system-boot-time-plugin-4689)
 <!-- BLOG-POST-LIST:END -->
 
