@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Simple Budgeting App Called Budget Buddy](https://dev.to/voxdroid/i-built-a-simple-budgeting-app-called-budget-buddy-3nng)
-- [🐧 Meet Wally — Your Bilingual AI Penguin Buddy!](https://dev.to/julywu/meet-wally-your-bilingual-ai-penguin-buddy-50ge)
-- [Frontier Communications Login Account](https://dev.to/vladimirputinvp/frontier-communications-login-account-1nfd)
-- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
+- [Exploring Cybersecurity Roles: A Walkthrough of TryHackMe&#39;s &quot;Careers in Cyber&quot; Room](https://dev.to/shadownet0110/exploring-cybersecurity-roles-a-walkthrough-of-tryhackmes-careers-in-cyber-room-ie5)
+- [💻 Sharpen Skills. Land Jobs. Build Strong Tech Teams.](https://dev.to/ml318097/sharpen-skills-land-jobs-build-strong-tech-teams-3b63)
+- [How I Built a Professional Website in 10 Minutes Using AI—My Personal Journey](https://dev.to/killer_scofield_d2f41df11/how-i-built-a-professional-website-in-10-minutes-using-ai-my-personal-journey-2hg8)
+- [🛰️ What Is a VPC? &lpar;And Why It’s Like Running a Cloud Coffee Shop&rpar;](https://dev.to/1suleyman/what-is-a-vpc-and-why-its-like-running-a-cloud-coffee-shop-240n)
 <!-- BLOG-POST-LIST:END -->
 
