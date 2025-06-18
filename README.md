@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer](https://dev.to/saifullah478/web-developer-1n0f)
-- [WWDC 2025 - What’s new in Apple Pay](https://dev.to/arshtechpro/wwdc-2025-whats-new-in-apple-pay-5e8m)
-- [How We Predicted Drug Quantities in Healthcare Using Machine Learning — And Why It Matters](https://dev.to/fishi/how-we-predicted-drug-quantities-in-healthcare-using-machine-learning-and-why-it-matters-3dbi)
-- [Enhancing Data Visualization with Tailwind CSS and D3.js](https://dev.to/hexshift/clean-component-composition-with-tailwind-css-and-headless-ui-3e67)
+- [4 iOS UX Writing Secrets That Will Transform Your App&#39;s User Experience &lpar;Apple Insiders Reveal All&rpar;](https://dev.to/arshtechpro/4-ios-ux-writing-secrets-that-will-transform-your-apps-user-experience-apple-insiders-reveal-all-3d0f)
+- [My Architectural Choices and Practical Experience（1750282774876400）](https://dev.to/member_e911e096/my-architectural-choices-and-practical-experience1750282774876400-gef)
+- [Realtime（1750282675141300）](https://dev.to/member_e911e096/realtime1750282675141300-k85)
+- [AI Isn’t the Story. How We Work Together Is.](https://dev.to/wittycircuitry/ai-isnt-the-story-how-we-work-together-is-162c)
 <!-- BLOG-POST-LIST:END -->
 
