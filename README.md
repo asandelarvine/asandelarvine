@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programando en C](https://dev.to/baltasarq/programando-en-c-38dp)
-- [Logika Absensi Barcode](https://dev.to/story_coding/logika-absensi-barcode-b91)
-- [How to Build an Android/iOS App to Scan, Edit, and Save Documents with Flutter and HTML5](https://dev.to/yushulx/how-to-build-an-androidios-app-to-scan-edit-and-save-documents-with-flutter-and-html5-3bnn)
-- [Umemura Farm Website – Devlog #9: A Lesson in Visual Improvements and Git Discipline](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-9-a-lesson-in-visual-improvements-and-git-discipline-3ga3)
+- [Benefits of open source](https://dev.to/praveena_2109/benefits-of-open-source-403c)
+- [Introducing gq-to-sql: Convert Graph-Style URL Queries into SQL](https://dev.to/huetteldorf/introducing-gq-to-sql-convert-graph-style-url-queries-into-sql-4h5o)
+- [The Captivating Universe of Mystery Box Subscription Services](https://dev.to/buyunclaimedmail/the-captivating-universe-of-mystery-box-subscription-services-3ek0)
+- [Synthex AI: Just Launched and Already Transforming AI Training Data](https://dev.to/theaniketgiri/synthex-ai-just-launched-and-already-transforming-ai-training-data-568b)
 <!-- BLOG-POST-LIST:END -->
 
