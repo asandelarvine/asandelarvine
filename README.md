@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Metadata filters in Bedrock Agents](https://dev.to/buildandcodewithraman/configuring-metadata-filters-in-bedrock-agents-1e66)
-- [My Favorite Heygen Alternatives to Create Talking Ai Avatars &lpar;First One Will Amaze You&rpar;](https://dev.to/therealmrmumba/my-favorite-heygen-alternatives-to-create-talking-ai-avatars-first-one-will-amaze-you-515e)
-- [How to choose a good monitor for UI/UX Designers](https://dev.to/smartterss/how-to-choose-a-good-monitor-for-uiux-designers-5044)
-- [Critical SQL Injection Flaw Found in E-cology — RCE Possible](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-flaw-found-in-e-cology-rce-possible-3k75)
+- [Choosing Your Developer Path Series: Side Projects Are Free Coaching &lpar;or the side projects that helped me grow&rpar;](https://dev.to/tlorent/choosing-your-developer-path-series-side-projects-are-free-coaching-or-the-side-projects-that-2pg0)
+- [10 Tips for an Effective Software Asset Inventory for US Agencies](https://dev.to/jennifer_devsamurai/10-tips-for-an-effective-software-asset-inventory-for-us-agencies-26c9)
+- [A Practical Guide to Testing Custom React Routers](https://dev.to/zenika/a-practical-guide-to-testing-custom-react-routers-4j93)
+- [What Performance Really Means in Modern Storefronts &lpar;It is Not Just API Speed&rpar;](https://dev.to/aakanksha/what-performance-really-means-in-modern-storefronts-it-is-not-just-api-speed-4co2)
 <!-- BLOG-POST-LIST:END -->
 
