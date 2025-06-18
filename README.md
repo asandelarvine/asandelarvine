@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
-- [AI in Software Testing: Actionable Advice for 2025](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-actionable-advice-for-2025-26m0)
-- [Check if Application is Installed](https://dev.to/flfljh/check-if-application-is-installed-38ia)
-- [System Boot Time Plugin](https://dev.to/flfljh/system-boot-time-plugin-4689)
+- [[Boost]](https://dev.to/pratham_naik_project_manager/-h9d)
+- [The 2-Hour Deep Work Block: How Senior Devs Structure Their Most Productive Days](https://dev.to/teamcamp/the-2-hour-deep-work-block-how-senior-devs-structure-their-most-productive-days-3b66)
+- [Improve AI Visibility for Your WordPress Site with llms.txt – New Plugin Released!](https://dev.to/fulgidinc/improve-ai-visibility-for-your-wordpress-site-with-llmstxt-new-plugin-released-4810)
+- [CVE-2023-0386: Linux Kernel Improper Ownership Management Vulnerability](https://dev.to/freedom_coder/cve-2023-0386-linux-kernel-improper-ownership-management-vulnerability-46po)
 <!-- BLOG-POST-LIST:END -->
 
