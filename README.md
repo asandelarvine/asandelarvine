@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AG-UI: Bringing Any Agent to the Frontend](https://dev.to/copilotkit/ag-ui-bringing-any-agent-to-the-frontend-146l)
-- [Understanding Error Budget in Software Reliability Engineering](https://dev.to/kapusto/understanding-error-budget-in-software-reliability-engineering-54hk)
-- [Generative AI: The Double-Edged Sword in Cloud-Native Security](https://dev.to/vaib/generative-ai-the-double-edged-sword-in-cloud-native-security-4g38)
-- [The Real-World Test Automation Pyramid Explained](https://dev.to/iryna_k_d5aabe217736fefe7/the-real-world-test-automation-pyramid-explained-24im)
+- [Web Developer](https://dev.to/saifullah478/web-developer-1n0f)
+- [WWDC 2025 - What’s new in Apple Pay](https://dev.to/arshtechpro/wwdc-2025-whats-new-in-apple-pay-5e8m)
+- [How We Predicted Drug Quantities in Healthcare Using Machine Learning — And Why It Matters](https://dev.to/fishi/how-we-predicted-drug-quantities-in-healthcare-using-machine-learning-and-why-it-matters-3dbi)
+- [Enhancing Data Visualization with Tailwind CSS and D3.js](https://dev.to/hexshift/clean-component-composition-with-tailwind-css-and-headless-ui-3e67)
 <!-- BLOG-POST-LIST:END -->
 
