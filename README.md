@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 How to Add Effects Using CSS – Complete Guide](https://dev.to/chaitanya_chopde_dd0642ed/how-to-add-effects-using-css-complete-guide-1ljo)
-- [IPv6 Subnet Calculator Development Notes in HarmonyOS](https://dev.to/zhao1743914721/ipv6-subnet-calculator-development-notes-in-harmonyos-73m)
-- [IPv4 Subnet Calculator Development Notes in HarmonyOS](https://dev.to/zhao1743914721/ipv4-subnet-calculator-development-notes-in-harmonyos-5g2)
-- [Scalable UI State with React Context and Tailwind CSS](https://dev.to/hexshift/scalable-ui-state-with-react-context-and-tailwind-css-1pbh)
+- [Configuring Metadata filters in Bedrock Agents](https://dev.to/buildandcodewithraman/configuring-metadata-filters-in-bedrock-agents-1e66)
+- [My Favorite Heygen Alternatives to Create Talking Ai Avatars &lpar;First One Will Amaze You&rpar;](https://dev.to/therealmrmumba/my-favorite-heygen-alternatives-to-create-talking-ai-avatars-first-one-will-amaze-you-515e)
+- [How to choose a good monitor for UI/UX Designers](https://dev.to/smartterss/how-to-choose-a-good-monitor-for-uiux-designers-5044)
+- [Critical SQL Injection Flaw Found in E-cology — RCE Possible](https://dev.to/sharon_42e16b8da44dabde6d/critical-sql-injection-flaw-found-in-e-cology-rce-possible-3k75)
 <!-- BLOG-POST-LIST:END -->
 
