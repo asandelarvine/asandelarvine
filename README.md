@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Litlyx because I was done with all the other tools.](https://dev.to/litlyx/i-built-litlyx-because-i-was-done-with-all-the-other-tools-38co)
-- [Funções Genéricas Inteligentes](https://dev.to/iwilldev/funcoes-genericas-inteligentes-4oal)
-- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
-- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
+- [Code Editor on Your Browser](https://dev.to/ronakm/code-editor-on-your-browser-47ko)
+- [Best Project Management Tools for Remote Developer Teams &lpar;2025 Edition&rpar;](https://dev.to/teamcamp/best-project-management-tools-for-remote-developer-teams-2025-edition-38nk)
+- [Building a Goal Tracker with React](https://dev.to/louiseka/building-a-goal-tracker-with-react-1j68)
+- [Day 15: Getting Started with Node.js: My First Day Journey](https://dev.to/seenuvasan_p/day-15-getting-started-with-nodejs-my-first-day-journey-47gl)
 <!-- BLOG-POST-LIST:END -->
 
