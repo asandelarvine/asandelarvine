@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmark Challenge: Inbox Innovators Winner Announcement Delay](https://dev.to/devteam/postmark-challenge-inbox-innovators-winner-announcement-delay-400i)
-- [A Duet of Performance and Safety（1750273734754500）](https://dev.to/member_e911e096/a-duet-of-performance-and-safety1750273734754500-l0d)
-- [The Poetry and Horizon of Code Framework（1750273703236300）](https://dev.to/member_a4f1642a/the-poetry-and-horizon-of-code-framework1750273703236300-4ddn)
-- [i just made an encryption algorithm for some reason:D](https://dev.to/alanalexander1011/i-just-made-an-encryption-algorithm-for-some-reasond-1g8o)
+- [AG-UI: Bringing Any Agent to the Frontend](https://dev.to/copilotkit/ag-ui-bringing-any-agent-to-the-frontend-146l)
+- [Understanding Error Budget in Software Reliability Engineering](https://dev.to/kapusto/understanding-error-budget-in-software-reliability-engineering-54hk)
+- [Generative AI: The Double-Edged Sword in Cloud-Native Security](https://dev.to/vaib/generative-ai-the-double-edged-sword-in-cloud-native-security-4g38)
+- [The Real-World Test Automation Pyramid Explained](https://dev.to/iryna_k_d5aabe217736fefe7/the-real-world-test-automation-pyramid-explained-24im)
 <!-- BLOG-POST-LIST:END -->
 
