@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/xilentdev/-1241)
-- [Streamlit Dashboard: Let&#39;s analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
-- [部署自定义 Blockscout 区块链浏览器指南](https://dev.to/zhouming_zhang/bu-shu-zi-ding-yi-blockscout-qu-kuai-lian-liu-lan-qi-zhi-nan-4fma)
-- [What tip would you give to someone who wants to get promoted?](https://dev.to/shrutikapoor08/what-tip-would-you-give-to-someone-who-wants-to-get-promoted-12o4)
+- [🧠 React.ReactNode vs JSX.Element vs React.ReactElement – What&#39;s the Damn Difference?](https://dev.to/ale3oula/reactreactnode-vs-jsxelement-vs-reactreactelement-whats-the-damn-difference-2j0)
+- [Improving my previous OpenRewrite recipe](https://dev.to/nfrankel/improving-my-previous-openrewrite-recipe-36f1)
+- [JieLi AIoT Product Line Introduction Overview of BLE Chip Application Scenarios, Models, and Features](https://dev.to/ble_voice/jieli-aiot-product-line-introduction-overview-of-ble-chip-application-scenarios-models-and-386d)
+- [Understanding Share Vectron: Revolutionizing Cloud-Based Solutions for Business Growth](https://dev.to/service_seoo_acd87b63da0c/understanding-share-vectron-revolutionizing-cloud-based-solutions-for-business-growth-bm)
 <!-- BLOG-POST-LIST:END -->
 
