@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bug-to-Feature Mindset: How Top Developers Turn Problems Into Career Gold](https://dev.to/teamcamp/the-bug-to-feature-mindset-how-top-developers-turn-problems-into-career-gold-102a)
-- [My Journey Exploring Efficient Web Development Frameworks（1750309809710400）](https://dev.to/member_e911e096/my-journey-exploring-efficient-web-development-frameworks1750309809710400-2mco)
-- [HarmonyOS Privacy Popup Development Practice](https://dev.to/zhao1743914721/harmonyos-privacy-popup-development-practice-il4)
-- [HarmonyOS RDB Database Encapsulation and Usage Practice](https://dev.to/zhao1743914721/harmonyos-rdb-database-encapsulation-and-usage-practice-1b5n)
+- [10 best open source ChatGPT alternative that runs 100% locally](https://dev.to/therealmrmumba/10-best-open-source-chatgpt-alternative-that-runs-100-locally-jdc)
+- [Security Essentials Every Developer Should Know](https://dev.to/dct_technology/security-essentials-every-developer-should-know-3b06)
+- [React Native 0.80: Major Features, Performance &amp; Deprecations](https://dev.to/muhayminbinmehmood/react-native-080-major-features-performance-deprecations-1e3)
+- [The Rise of Emotional AI: How Machines Are Learning to Understand Our Feelings](https://dev.to/rubyjane/the-rise-of-emotional-ai-how-machines-are-learning-to-understand-our-feelings-8f6)
 <!-- BLOG-POST-LIST:END -->
 
