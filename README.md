@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Know If You Have Product-Market Fit?](https://dev.to/shayy/how-do-you-know-if-you-have-product-market-fit-1fmh)
-- [# Evogene Unveils Generative AI Platform for Small Molecule Discovery](https://dev.to/maurizio_morri_f7f4bd128c/-evogene-unveils-generative-ai-platform-for-small-molecule-discovery-4b85)
-- [Mastering Generative AI: Strategic Integration for Enhanced Collaboration and Productivity](https://dev.to/vaib/mastering-generative-ai-strategic-integration-for-enhanced-collaboration-and-productivity-b4l)
-- [Mastering Backend WebSockets: Your Essential Resource List](https://dev.to/vaib/mastering-backend-websockets-your-essential-resource-list-3i)
+- [Go should be more opinionated](https://dev.to/eminetto/go-should-be-more-opinionated-412b)
+- [Azure Fundamentals: Microsoft.Authorization](https://dev.to/devops_fundamental/azure-fundamentals-microsoftauthorization-3k7i)
+- [🕒 I built a weird little project: Buy and personalize any second in history](https://dev.to/chronomarks/i-built-a-weird-little-project-buy-and-personalize-any-second-in-history-5fhe)
+- [GCP Fundamentals: AdSense Platform API](https://dev.to/devops_fundamental/gcp-fundamentals-adsense-platform-api-22e3)
 <!-- BLOG-POST-LIST:END -->
 
