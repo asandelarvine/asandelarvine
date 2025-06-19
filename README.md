@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Memory Matching Game Using Amazon Q CLI &amp; Python](https://dev.to/sundus/building-a-memory-matching-game-using-amazon-q-cli-python-2g3h)
-- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
-- [The Joys of Modern Software Development: A Sarcastic Ode](https://dev.to/vaib/the-joys-of-modern-software-development-a-sarcastic-ode-4622)
-- [Architecture（1750330783854700）](https://dev.to/member_e911e096/architecture1750330783854700-3d6i)
+- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
+- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
+- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
+- [So refreshing to read something that respects the reader’s intelligence. That’s a signature trait in Ashkan Rajaee’s approach too.](https://dev.to/erinchan/so-refreshing-to-read-something-that-respects-the-readers-intelligence-thats-a-signature-trait-1dnn)
 <!-- BLOG-POST-LIST:END -->
 
