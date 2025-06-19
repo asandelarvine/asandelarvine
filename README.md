@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fundamentals: Autoscaling](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-52o3)
-- [Azure Fundamentals: Microsoft.AnalysisServices](https://dev.to/devops_fundamental/azure-fundamentals-microsoftanalysisservices-3eid)
-- [Latest News in JavaScript: Trends, Updates, and Community Insights](https://dev.to/kousay_najar_c0242646d307/latest-news-in-javascript-trends-updates-and-community-insights-3426)
-- [Introducing kotoba v0.0.1: Natural Language Web Testing with 6x Speed Improvement](https://dev.to/kaz123/introducing-kotoba-v001-natural-language-web-testing-with-6x-speed-improvement-i9j)
+- [GCP Fundamentals: Ad Exchange Buyer API II](https://dev.to/devops_fundamental/gcp-fundamentals-ad-exchange-buyer-api-ii-5fk9)
+- [We Just Launched Our Dev Docs for NextBlock CMS &lpar;Next.js + Supabase&rpar;](https://dev.to/nextblockcms/we-just-launched-our-dev-docs-for-nextblock-cms-nextjs-supabase-3h10)
+- [Locking It Down with Redis ACLs: A Dev&#39;s Guide to Secure Access](https://dev.to/lovestaco/locking-it-down-with-redis-acls-a-devs-guide-to-secure-access-1935)
+- [AWS Fundamentals: Autoscaling Plans](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-plans-162o)
 <!-- BLOG-POST-LIST:END -->
 
