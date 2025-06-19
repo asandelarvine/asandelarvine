@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rhannequin/-4jpj)
-- [The Dev-First Playbook to MCP: Build smarter AI interfaces and actually make money](https://dev.to/devlinktips/the-dev-first-playbook-to-mcp-build-smarter-ai-interfaces-and-actually-make-money-1g68)
-- [[Boost]](https://dev.to/anthonymax/-1f93)
-- [[Boost]](https://dev.to/vaib/-hp0)
+- [Brains. Bugs. Dopamine. how to trick yourself into loving code again](https://dev.to/devlinktips/brains-bugs-dopamine-how-to-trick-yourself-into-loving-code-again-4p7e)
+- [How AI Is Reshaping Urban Transport and Where eBikes Fit In](https://dev.to/badhonaub/how-ai-is-reshaping-urban-transport-and-where-ebikes-fit-in-11ea)
+- [Unlock Your Coding Superpowers: Essential VS Code Tools for Web Developers](https://dev.to/vaib/unlock-your-coding-superpowers-essential-vs-code-tools-for-web-developers-1c9n)
+- [Unleashing Edge AI with WebAssembly: Performance, Portability, and a Hands-On Guide](https://dev.to/vaib/unleashing-edge-ai-with-webassembly-performance-portability-and-a-hands-on-guide-p7o)
 <!-- BLOG-POST-LIST:END -->
 
