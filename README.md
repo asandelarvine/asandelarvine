@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Secure Invoice Generator with .NET 8 and Razor Pages](https://dev.to/kbyte_it_services/how-we-built-a-secure-invoice-generator-with-net-8-and-razor-pages-552b)
-- [One million $lookup challenge](https://dev.to/franckpachot/one-million-lookup-challenge-mongodb-slow-join-1kao)
-- [Stochastix: High-Performance Quantitative Backtesting Engine in PHP/Symfony](https://dev.to/williarin/stochastix-high-performance-quantitative-backtesting-engine-1mib)
-- [Cloudflare’s JA4 Fingerprinting: Smarter Threat Detection Through TLS](https://dev.to/carrie_luo1/cloudflares-ja4-fingerprinting-smarter-threat-detection-through-tls-1g28)
+- [AWS Fundamentals: Autoscaling](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-52o3)
+- [Azure Fundamentals: Microsoft.AnalysisServices](https://dev.to/devops_fundamental/azure-fundamentals-microsoftanalysisservices-3eid)
+- [Latest News in JavaScript: Trends, Updates, and Community Insights](https://dev.to/kousay_najar_c0242646d307/latest-news-in-javascript-trends-updates-and-community-insights-3426)
+- [Introducing kotoba v0.0.1: Natural Language Web Testing with 6x Speed Improvement](https://dev.to/kaz123/introducing-kotoba-v001-natural-language-web-testing-with-6x-speed-improvement-i9j)
 <!-- BLOG-POST-LIST:END -->
 
