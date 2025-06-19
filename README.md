@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 best open source ChatGPT alternative that runs 100% locally](https://dev.to/therealmrmumba/10-best-open-source-chatgpt-alternative-that-runs-100-locally-jdc)
-- [Security Essentials Every Developer Should Know](https://dev.to/dct_technology/security-essentials-every-developer-should-know-3b06)
-- [React Native 0.80: Major Features, Performance &amp; Deprecations](https://dev.to/muhayminbinmehmood/react-native-080-major-features-performance-deprecations-1e3)
-- [The Rise of Emotional AI: How Machines Are Learning to Understand Our Feelings](https://dev.to/rubyjane/the-rise-of-emotional-ai-how-machines-are-learning-to-understand-our-feelings-8f6)
+- [Execute Python with Shebang - Make Your Scripts Executable](https://dev.to/devasservice/execute-python-with-shebang-make-your-scripts-executable-17f2)
+- [AI Flashcard: NextJs &lpar;Basic&rpar;](https://dev.to/tak089/ai-flashcard-nextjs-basic-4kfh)
+- [A Developer’s Guide to SQL NOT IN: Smarter Queries, Faster Results](https://dev.to/dbvismarketing/a-developers-guide-to-sql-not-in-smarter-queries-faster-results-27dn)
+- [So glad I came across this. It does not just inspire, it equips.](https://dev.to/celestehar88/so-glad-i-came-across-this-it-does-not-just-inspire-it-equips-51k7)
 <!-- BLOG-POST-LIST:END -->
 
