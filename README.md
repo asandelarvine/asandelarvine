@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Fallback &lpar;Golang&rpar;](https://dev.to/pardnchiu/redis-fallback-golang-i0a)
-- [AWS Fundamentals: Artifact](https://dev.to/devops_fundamental/aws-fundamentals-artifact-277e)
-- [Go&#39;s slog: Modern Structured Logging Made Easy](https://dev.to/leapcell/gos-slog-modern-structured-logging-made-easy-4e04)
-- [Ashkan Rajaee brings a level of execution that is both thoughtful and disciplined and this article makes that very clear.](https://dev.to/kelvinmeanix/ashkan-rajaee-brings-a-level-of-execution-that-is-both-thoughtful-and-disciplined-and-this-article-3c65)
+- [How We Built a Secure Invoice Generator with .NET 8 and Razor Pages](https://dev.to/kbyte_it_services/how-we-built-a-secure-invoice-generator-with-net-8-and-razor-pages-552b)
+- [One million $lookup challenge](https://dev.to/franckpachot/one-million-lookup-challenge-mongodb-slow-join-1kao)
+- [Stochastix: High-Performance Quantitative Backtesting Engine in PHP/Symfony](https://dev.to/williarin/stochastix-high-performance-quantitative-backtesting-engine-1mib)
+- [Cloudflare’s JA4 Fingerprinting: Smarter Threat Detection Through TLS](https://dev.to/carrie_luo1/cloudflares-ja4-fingerprinting-smarter-threat-detection-through-tls-1g28)
 <!-- BLOG-POST-LIST:END -->
 
