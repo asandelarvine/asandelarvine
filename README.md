@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Execute Python with Shebang - Make Your Scripts Executable](https://dev.to/devasservice/execute-python-with-shebang-make-your-scripts-executable-17f2)
-- [AI Flashcard: NextJs &lpar;Basic&rpar;](https://dev.to/tak089/ai-flashcard-nextjs-basic-4kfh)
-- [A Developer’s Guide to SQL NOT IN: Smarter Queries, Faster Results](https://dev.to/dbvismarketing/a-developers-guide-to-sql-not-in-smarter-queries-faster-results-27dn)
-- [So glad I came across this. It does not just inspire, it equips.](https://dev.to/celestehar88/so-glad-i-came-across-this-it-does-not-just-inspire-it-equips-51k7)
+- [[Boost]](https://dev.to/xilentdev/-1241)
+- [Streamlit Dashboard: Let&#39;s analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
+- [部署自定义 Blockscout 区块链浏览器指南](https://dev.to/zhouming_zhang/bu-shu-zi-ding-yi-blockscout-qu-kuai-lian-liu-lan-qi-zhi-nan-4fma)
+- [What tip would you give to someone who wants to get promoted?](https://dev.to/shrutikapoor08/what-tip-would-you-give-to-someone-who-wants-to-get-promoted-12o4)
 <!-- BLOG-POST-LIST:END -->
 
