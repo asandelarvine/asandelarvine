@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Self-Hosted Chat Automation Platform?](https://dev.to/babu_munavarbasha_f3f21a7/why-i-built-a-self-hosted-chat-automation-platform-1ga)
-- [HarmonyOS Next Page Scrolling and Back-to-Top Implementation](https://dev.to/flfljh/-harmonyos-next-page-scrolling-and-back-to-top-implementation-2oam)
-- [Deep Observation of Object Array Changes for HarmonyOS Next](https://dev.to/flfljh/deep-observation-of-object-array-changes-for-harmonyos-next-gdk)
-- [“The Art of Version Control: Understanding GIT”](https://dev.to/crosston_jack/the-art-of-version-control-understanding-git-5ef3)
+- [Generative AI vs Predictive AI: What are the differences?](https://dev.to/lollypopdesign/generative-ai-vs-predictive-ai-what-are-the-differences-332e)
+- [🔥 Shrink Your Flutter App Size by 60% — Pro Techniques to Build Leaner, Faster APKs &lpar;2025&rpar;](https://dev.to/alex_codex_dev/shrink-your-flutter-app-size-by-60-pro-techniques-to-build-leaner-faster-apks-2025-lfh)
+- [HarmonyOS FlutterEngineGroup Integration Guide](https://dev.to/flfljh/harmonyos-flutterenginegroup-integration-guide-4kof)
+- [System Screenshot Detection](https://dev.to/flfljh/system-screenshot-detection-133p)
 <!-- BLOG-POST-LIST:END -->
 
