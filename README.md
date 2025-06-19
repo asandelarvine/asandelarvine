@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Ad Exchange Buyer API II](https://dev.to/devops_fundamental/gcp-fundamentals-ad-exchange-buyer-api-ii-5fk9)
-- [We Just Launched Our Dev Docs for NextBlock CMS &lpar;Next.js + Supabase&rpar;](https://dev.to/nextblockcms/we-just-launched-our-dev-docs-for-nextblock-cms-nextjs-supabase-3h10)
-- [Locking It Down with Redis ACLs: A Dev&#39;s Guide to Secure Access](https://dev.to/lovestaco/locking-it-down-with-redis-acls-a-devs-guide-to-secure-access-1935)
-- [AWS Fundamentals: Autoscaling Plans](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-plans-162o)
+- [How Do You Know If You Have Product-Market Fit?](https://dev.to/shayy/how-do-you-know-if-you-have-product-market-fit-1fmh)
+- [# Evogene Unveils Generative AI Platform for Small Molecule Discovery](https://dev.to/maurizio_morri_f7f4bd128c/-evogene-unveils-generative-ai-platform-for-small-molecule-discovery-4b85)
+- [Mastering Generative AI: Strategic Integration for Enhanced Collaboration and Productivity](https://dev.to/vaib/mastering-generative-ai-strategic-integration-for-enhanced-collaboration-and-productivity-b4l)
+- [Mastering Backend WebSockets: Your Essential Resource List](https://dev.to/vaib/mastering-backend-websockets-your-essential-resource-list-3i)
 <!-- BLOG-POST-LIST:END -->
 
