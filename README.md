@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Complete SaaS Boilerplate So You Don&#39;t Have To - Here&#39;s What&#39;s Inside](https://dev.to/abdo-ax/i-built-a-complete-saas-boilerplate-so-you-dont-have-to-heres-whats-inside-53i5)
-- [Understanding the Impact of Garbage Collection on JS Performance](https://dev.to/omriluz1/understanding-the-impact-of-garbage-collection-on-js-performance-23jk)
-- [AI code reviews: where it shines, where it fails, and how to use it like a pro](https://dev.to/devlinktips/ai-code-reviews-where-it-shines-where-it-fails-and-how-to-use-it-like-a-pro-1id1)
-- [100 days of Coding! Day 20](https://dev.to/aaanishaaa/100-days-of-coding-day-20-16nm)
+- [[Boost]](https://dev.to/rhannequin/-4jpj)
+- [The Dev-First Playbook to MCP: Build smarter AI interfaces and actually make money](https://dev.to/devlinktips/the-dev-first-playbook-to-mcp-build-smarter-ai-interfaces-and-actually-make-money-1g68)
+- [[Boost]](https://dev.to/anthonymax/-1f93)
+- [[Boost]](https://dev.to/vaib/-hp0)
 <!-- BLOG-POST-LIST:END -->
 
