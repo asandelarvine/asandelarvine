@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brains. Bugs. Dopamine. how to trick yourself into loving code again](https://dev.to/devlinktips/brains-bugs-dopamine-how-to-trick-yourself-into-loving-code-again-4p7e)
-- [How AI Is Reshaping Urban Transport and Where eBikes Fit In](https://dev.to/badhonaub/how-ai-is-reshaping-urban-transport-and-where-ebikes-fit-in-11ea)
-- [Unlock Your Coding Superpowers: Essential VS Code Tools for Web Developers](https://dev.to/vaib/unlock-your-coding-superpowers-essential-vs-code-tools-for-web-developers-1c9n)
-- [Unleashing Edge AI with WebAssembly: Performance, Portability, and a Hands-On Guide](https://dev.to/vaib/unleashing-edge-ai-with-webassembly-performance-portability-and-a-hands-on-guide-p7o)
+- [Why I Stopped Applying to FAANG Companies &lpar;And What I Learned Instead&rpar;](https://dev.to/holasoymalva/why-i-stopped-applying-to-faang-companies-and-what-i-learned-instead-1854)
+- [Vibe coding is destroying architecture: the silent rot in our AI-built systems](https://dev.to/devlinktips/vibe-coding-is-destroying-architecture-the-silent-rot-in-our-ai-built-systems-4p1n)
+- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
+- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
 <!-- BLOG-POST-LIST:END -->
 
