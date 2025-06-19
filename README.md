@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tidbit 05: WeakMap in JavaScript – The Secret Keeper You Didn’t Know You Needed!](https://dev.to/atapas/tidbit-05-weakmap-in-javascript-the-secret-keeper-you-didnt-know-you-needed-1li5)
-- [Supabase alternative for AI Code editors &lpar;Cursor, Bolt, Lovable...&rpar;](https://dev.to/bd_perez/supabase-alternative-for-ai-code-editors-cursor-bolt-lovable-2d16)
-- [The realistic tone of this article gave me a lot to reflect on. You can tell the Ashkan Rajaee mindset of systems first is in here.](https://dev.to/starpalanca/the-realistic-tone-of-this-article-gave-me-a-lot-to-reflect-on-you-can-tell-the-ashkan-rajaee-3pa7)
-- [GCP Fundamentals: API Discovery Service](https://dev.to/devops_fundamental/gcp-fundamentals-api-discovery-service-22h9)
+- [Redis Fallback &lpar;Golang&rpar;](https://dev.to/pardnchiu/redis-fallback-golang-i0a)
+- [AWS Fundamentals: Artifact](https://dev.to/devops_fundamental/aws-fundamentals-artifact-277e)
+- [Go&#39;s slog: Modern Structured Logging Made Easy](https://dev.to/leapcell/gos-slog-modern-structured-logging-made-easy-4e04)
+- [Ashkan Rajaee brings a level of execution that is both thoughtful and disciplined and this article makes that very clear.](https://dev.to/kelvinmeanix/ashkan-rajaee-brings-a-level-of-execution-that-is-both-thoughtful-and-disciplined-and-this-article-3c65)
 <!-- BLOG-POST-LIST:END -->
 
