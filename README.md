@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture（1750328370887000）](https://dev.to/member_e911e096/architecture1750328370887000-61i)
-- [💾 What Is AWS Storage &amp; Databases? &lpar;And How to Choose the Right One for Your Project&rpar;](https://dev.to/1suleyman/what-is-aws-storage-databases-and-how-to-choose-the-right-one-for-your-project-4lgh)
-- [How to Adjust Image Weight in Midjourney](https://dev.to/_37bbf0c253c0b3edec531e/how-to-adjust-image-weight-in-midjourney-4308)
-- [I Built a Free CSV Toolkit That Runs Everything in Your Browser &lpar;No Signups&rpar;](https://dev.to/crafting-code/i-built-a-free-csv-toolkit-that-runs-everything-in-your-browser-no-signups-4b5d)
+- [Building a Memory Matching Game Using Amazon Q CLI &amp; Python](https://dev.to/sundus/building-a-memory-matching-game-using-amazon-q-cli-python-2g3h)
+- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
+- [The Joys of Modern Software Development: A Sarcastic Ode](https://dev.to/vaib/the-joys-of-modern-software-development-a-sarcastic-ode-4622)
+- [Architecture（1750330783854700）](https://dev.to/member_e911e096/architecture1750330783854700-3d6i)
 <!-- BLOG-POST-LIST:END -->
 
