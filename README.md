@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 React.ReactNode vs JSX.Element vs React.ReactElement – What&#39;s the Damn Difference?](https://dev.to/ale3oula/reactreactnode-vs-jsxelement-vs-reactreactelement-whats-the-damn-difference-2j0)
-- [Improving my previous OpenRewrite recipe](https://dev.to/nfrankel/improving-my-previous-openrewrite-recipe-36f1)
-- [JieLi AIoT Product Line Introduction Overview of BLE Chip Application Scenarios, Models, and Features](https://dev.to/ble_voice/jieli-aiot-product-line-introduction-overview-of-ble-chip-application-scenarios-models-and-386d)
-- [Understanding Share Vectron: Revolutionizing Cloud-Based Solutions for Business Growth](https://dev.to/service_seoo_acd87b63da0c/understanding-share-vectron-revolutionizing-cloud-based-solutions-for-business-growth-bm)
+- [Architecture（1750328370887000）](https://dev.to/member_e911e096/architecture1750328370887000-61i)
+- [💾 What Is AWS Storage &amp; Databases? &lpar;And How to Choose the Right One for Your Project&rpar;](https://dev.to/1suleyman/what-is-aws-storage-databases-and-how-to-choose-the-right-one-for-your-project-4lgh)
+- [How to Adjust Image Weight in Midjourney](https://dev.to/_37bbf0c253c0b3edec531e/how-to-adjust-image-weight-in-midjourney-4308)
+- [I Built a Free CSV Toolkit That Runs Everything in Your Browser &lpar;No Signups&rpar;](https://dev.to/crafting-code/i-built-a-free-csv-toolkit-that-runs-everything-in-your-browser-no-signups-4b5d)
 <!-- BLOG-POST-LIST:END -->
 
