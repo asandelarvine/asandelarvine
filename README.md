@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI vs Predictive AI: What are the differences?](https://dev.to/lollypopdesign/generative-ai-vs-predictive-ai-what-are-the-differences-332e)
-- [🔥 Shrink Your Flutter App Size by 60% — Pro Techniques to Build Leaner, Faster APKs &lpar;2025&rpar;](https://dev.to/alex_codex_dev/shrink-your-flutter-app-size-by-60-pro-techniques-to-build-leaner-faster-apks-2025-lfh)
-- [HarmonyOS FlutterEngineGroup Integration Guide](https://dev.to/flfljh/harmonyos-flutterenginegroup-integration-guide-4kof)
-- [System Screenshot Detection](https://dev.to/flfljh/system-screenshot-detection-133p)
+- [The Bug-to-Feature Mindset: How Top Developers Turn Problems Into Career Gold](https://dev.to/teamcamp/the-bug-to-feature-mindset-how-top-developers-turn-problems-into-career-gold-102a)
+- [My Journey Exploring Efficient Web Development Frameworks（1750309809710400）](https://dev.to/member_e911e096/my-journey-exploring-efficient-web-development-frameworks1750309809710400-2mco)
+- [HarmonyOS Privacy Popup Development Practice](https://dev.to/zhao1743914721/harmonyos-privacy-popup-development-practice-il4)
+- [HarmonyOS RDB Database Encapsulation and Usage Practice](https://dev.to/zhao1743914721/harmonyos-rdb-database-encapsulation-and-usage-practice-1b5n)
 <!-- BLOG-POST-LIST:END -->
 
