@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go should be more opinionated](https://dev.to/eminetto/go-should-be-more-opinionated-412b)
-- [Azure Fundamentals: Microsoft.Authorization](https://dev.to/devops_fundamental/azure-fundamentals-microsoftauthorization-3k7i)
-- [🕒 I built a weird little project: Buy and personalize any second in history](https://dev.to/chronomarks/i-built-a-weird-little-project-buy-and-personalize-any-second-in-history-5fhe)
-- [GCP Fundamentals: AdSense Platform API](https://dev.to/devops_fundamental/gcp-fundamentals-adsense-platform-api-22e3)
+- [I Built a Complete SaaS Boilerplate So You Don&#39;t Have To - Here&#39;s What&#39;s Inside](https://dev.to/abdo-ax/i-built-a-complete-saas-boilerplate-so-you-dont-have-to-heres-whats-inside-53i5)
+- [Understanding the Impact of Garbage Collection on JS Performance](https://dev.to/omriluz1/understanding-the-impact-of-garbage-collection-on-js-performance-23jk)
+- [AI code reviews: where it shines, where it fails, and how to use it like a pro](https://dev.to/devlinktips/ai-code-reviews-where-it-shines-where-it-fails-and-how-to-use-it-like-a-pro-1id1)
+- [100 days of Coding! Day 20](https://dev.to/aaanishaaa/100-days-of-coding-day-20-16nm)
 <!-- BLOG-POST-LIST:END -->
 
