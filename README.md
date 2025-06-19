@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750286901763400）](https://dev.to/member_e911e096/my-experience-with-hyperlane1750286901763400-17k8)
-- [NLWeb - Turn Your Website into an AI chat bot quickly](https://dev.to/agenticarch/nlweb-accelerate-agentic-ai-in-your-website-1j56)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750286598724400）](https://dev.to/member_a4f1642a/junior-year-self-study-notes-my-journey-with-the-framework1750286598724400-574o)
-- [Deploy WordPress Locally with Vagrant + LAMP Learn how to spin up a VM, set up Apache, MySQL, PHP, and install WordPress - all from scratch. 📘 Clean, beginner-friendly, and practical. Check it out.](https://dev.to/bluezeus/deploy-wordpress-locally-with-vagrant-lamp-learn-how-to-spin-up-a-vm-set-up-apache-mysql-php-pe)
+- [AWS Fundamentals: Acm Pca](https://dev.to/devops_fundamental/aws-fundamentals-acm-pca-3nh1)
+- [Realtime（1750297598333300）](https://dev.to/member_e911e096/realtime1750297598333300-58k0)
+- [Hands-On Guide: Build an AI Legal Chatbot with Next.js and OpenAI GPT-4o-mini - Read the Full Article](https://dev.to/corpcubite/hands-on-guide-build-an-ai-legal-chatbot-with-nextjs-and-openai-gpt-4o-mini-read-the-full-371m)
+- [👓Beginner-Friendly Guide &quot;Partition Array Such That Maximum Difference Is K&quot; LeetCode 2294 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-partition-array-such-that-maximum-difference-is-k-leetcode-2294-c--3npa)
 <!-- BLOG-POST-LIST:END -->
 
