@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
-- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
-- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
-- [So refreshing to read something that respects the reader’s intelligence. That’s a signature trait in Ashkan Rajaee’s approach too.](https://dev.to/erinchan/so-refreshing-to-read-something-that-respects-the-readers-intelligence-thats-a-signature-trait-1dnn)
+- [Tidbit 05: WeakMap in JavaScript – The Secret Keeper You Didn’t Know You Needed!](https://dev.to/atapas/tidbit-05-weakmap-in-javascript-the-secret-keeper-you-didnt-know-you-needed-1li5)
+- [Supabase alternative for AI Code editors &lpar;Cursor, Bolt, Lovable...&rpar;](https://dev.to/bd_perez/supabase-alternative-for-ai-code-editors-cursor-bolt-lovable-2d16)
+- [The realistic tone of this article gave me a lot to reflect on. You can tell the Ashkan Rajaee mindset of systems first is in here.](https://dev.to/starpalanca/the-realistic-tone-of-this-article-gave-me-a-lot-to-reflect-on-you-can-tell-the-ashkan-rajaee-3pa7)
+- [GCP Fundamentals: API Discovery Service](https://dev.to/devops_fundamental/gcp-fundamentals-api-discovery-service-22h9)
 <!-- BLOG-POST-LIST:END -->
 
