@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JuiceFS 1.3 Beta 2 Integrates Apache Ranger for Fine-Grained Access Control](https://dev.to/daswu/juicefs-13-beta-2-integrates-apache-ranger-for-fine-grained-access-control-385d)
-- [ABOUT LINUX](https://dev.to/sabithasivaprakasam/about-linux-4imj)
-- [Beautiful Soup: Web Scraping&#39;s Delightful Deception](https://dev.to/drxven/beautiful-soup-web-scrapings-delightful-deception-4a00)
-- [Unity Catalog in Azure Databricks — Everything You Need to Know](https://dev.to/indrasen_9d014cf224a46c4a/unity-catalog-in-azure-databricks-everything-you-need-to-know-3k31)
+- [Advanced Persistent Threat &lpar;APT&rpar; Simulations](https://dev.to/godofgeeks/advanced-persistent-threat-apt-simulations-4ka)
+- [🎒 Friday Stack Pack: Tools, Toys &amp; Side Quests for the Weekend](https://dev.to/sroy8091/friday-stack-pack-tools-toys-side-quests-for-the-weekend-39ed)
+- [Keenthemes Metronic v9 &lpar;Tailwind version&rpar; with Symfony, Flask, and Django](https://dev.to/mohd_faizal_fea2afdf2f7f0/keenthemes-metronic-v9-tailwind-version-with-symfony-flask-and-django-bi)
+- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
 <!-- BLOG-POST-LIST:END -->
 
