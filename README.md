@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue Tip](https://dev.to/ibrahimalanshor/-44fj)
-- [The New Generation of High-Performance Web Frameworks（1750382925210600）](https://dev.to/member_c6d11ca9/the-new-generation-of-high-performance-web-frameworks1750382925210600-5f7)
-- [Labubu Doll: Origins and History](https://dev.to/justin3go/labubu-doll-origins-and-history-3kb5)
-- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
+- [How to Set Up LDAP Login for SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-ldap-login-for-safeline-waf-29l6)
+- [A Vibe Coding Beginner Tried Making a Game with Amazon Q CLI](https://dev.to/aws-builders/a-vibe-coding-beginner-tried-making-a-game-with-amazon-q-cli-1fkl)
+- [Docker Deep Dive: Essential Resources for Containerization](https://dev.to/vaib/docker-deep-dive-essential-resources-for-containerization-38fc)
+- [Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models](https://dev.to/sharon_42e16b8da44dabde6d/ollama-exposed-unauthenticated-access-vulnerability-could-leak-your-llm-models-1dpo)
 <!-- BLOG-POST-LIST:END -->
 
