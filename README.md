@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up LDAP Login for SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-ldap-login-for-safeline-waf-29l6)
-- [A Vibe Coding Beginner Tried Making a Game with Amazon Q CLI](https://dev.to/aws-builders/a-vibe-coding-beginner-tried-making-a-game-with-amazon-q-cli-1fkl)
-- [Docker Deep Dive: Essential Resources for Containerization](https://dev.to/vaib/docker-deep-dive-essential-resources-for-containerization-38fc)
-- [Ollama Exposed: Unauthenticated Access Vulnerability Could Leak Your LLM Models](https://dev.to/sharon_42e16b8da44dabde6d/ollama-exposed-unauthenticated-access-vulnerability-could-leak-your-llm-models-1dpo)
+- [[Boost]](https://dev.to/rakeshv675/-41ea)
+- [Writing Inline Assembly in the Crystal Programming Language](https://dev.to/kojix2/writing-inline-assembly-in-the-crystal-programming-language-d9a)
+- [2025 NestJS + React 19 + Drizzle ORM + Turborepo Architecture Decision Record](https://dev.to/xiunotes/2025-nestjs-react-19-drizzle-orm-turborepo-architecture-decision-record-3o1k)
+- [Azure Fundamentals: Microsoft.AzureArcData](https://dev.to/devops_fundamental/azure-fundamentals-microsoftazurearcdata-4dm6)
 <!-- BLOG-POST-LIST:END -->
 
