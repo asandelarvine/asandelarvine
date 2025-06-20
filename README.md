@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Getting Started with the KuCoin API Using kucoin-api &lpar;Node.js SDK&rpar;](https://dev.to/favee042/getting-started-with-the-kucoin-api-using-kucoin-api-nodejs-sdk-cfm)
-- [🚀 Building a Real-Time Notification Service with FastAPI, Redis Streams, and WebSockets](https://dev.to/geetnsh2k1/building-a-real-time-notification-service-with-fastapi-redis-streams-and-websockets-52ib)
-- [⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt](https://dev.to/nikita_rykhlov/go-tools-password-hashing-with-argon2-instead-of-bcrypt-38aj)
-- [GCP Fundamentals: Assured Workloads API](https://dev.to/devops_fundamental/gcp-fundamentals-assured-workloads-api-54cj)
+- [Laravel Migration With Schema Validation in MongoDB](https://dev.to/mongodb/laravel-migration-with-schema-validation-in-mongodb-3jcg)
+- [Flutter i18n: Global Apps Made Easy](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-i18n-global-apps-made-easy-3cj0)
+- [This Week In React #239: ViewTransition, Suspense, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo...](https://dev.to/sebastienlorber/this-week-in-react-239-viewtransition-suspense-use-mcp-compiler-intl-t-080-stable-apis-4k8k)
+- [How to Produce Voice-Over Files for Articulate](https://dev.to/liamcorwin/how-to-produce-voice-over-files-for-articulate-47e7)
 <!-- BLOG-POST-LIST:END -->
 
