@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashkan brings calm authority to a topic that’s often debated with a lot of noise and extremes.](https://dev.to/blakerants/ashkan-brings-calm-authority-to-a-topic-thats-often-debated-with-a-lot-of-noise-and-extremes-2dd7)
-- [Ashkan Rajaee anticipated remote work would be a permanent shift and that level of insight is rare.](https://dev.to/blakerants/ashkan-rajaee-anticipated-remote-work-would-be-a-permanent-shift-and-that-level-of-insight-is-rare-2b5l)
-- [My Architectural Choices and Practical Experience（1750432246491700）](https://dev.to/member_c6d11ca9/my-architectural-choices-and-practical-experience1750432246491700-20k5)
-- [IBM Fundamentals: Bluemix Car Rally Charge Coupon](https://dev.to/devopsfundamentals/ibm-fundamentals-bluemix-car-rally-charge-coupon-2n35)
+- [The AI Scene: Meta vs. OpenAI and the Increasing Talent Rivalry](https://dev.to/grenishrai/the-ai-scene-meta-vs-openai-and-the-increasing-talent-rivalry-2hnf)
+- [How to market tech startups. Week 1: TAM and SAM](https://dev.to/bellechase/how-to-market-tech-startups-week-1-tam-and-sam-295k)
+- [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://dev.to/gg_news/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-154g)
+- [Deploying a FullStack application to the cloud using Docker Compose Part 1](https://dev.to/josidbobo/deploying-a-fullstack-application-to-the-cloud-using-docker-compose-part-1-259d)
 <!-- BLOG-POST-LIST:END -->
 
