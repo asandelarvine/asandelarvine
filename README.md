@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rakeshv675/-41ea)
-- [Writing Inline Assembly in the Crystal Programming Language](https://dev.to/kojix2/writing-inline-assembly-in-the-crystal-programming-language-d9a)
-- [2025 NestJS + React 19 + Drizzle ORM + Turborepo Architecture Decision Record](https://dev.to/xiunotes/2025-nestjs-react-19-drizzle-orm-turborepo-architecture-decision-record-3o1k)
-- [Azure Fundamentals: Microsoft.AzureArcData](https://dev.to/devops_fundamental/azure-fundamentals-microsoftazurearcdata-4dm6)
+- [ytsurf: Watch YouTube Videos Without Leaving Your Terminal](https://dev.to/stan-breaks/ytsurf-watch-youtube-videos-without-leaving-your-terminal-4e0j)
+- [Why the 1958 Land Cruiser Is Basically the Linux Kernel of Cars](https://dev.to/clara-vellum/why-the-1958-land-cruiser-is-basically-the-linux-kernel-of-cars-37f2)
+- [Folder Structure Matters More Than You Think](https://dev.to/dct_technology/folder-structure-matters-more-than-you-think-5cn)
+- [HarmonyOS Developer Toolbox - Amount Converter Development Notes](https://dev.to/zhao1743914721/harmonyos-developer-toolbox-amount-converter-development-notes-13gl)
 <!-- BLOG-POST-LIST:END -->
 
