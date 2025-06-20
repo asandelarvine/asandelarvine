@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Persistent Threat &lpar;APT&rpar; Simulations](https://dev.to/godofgeeks/advanced-persistent-threat-apt-simulations-4ka)
-- [🎒 Friday Stack Pack: Tools, Toys &amp; Side Quests for the Weekend](https://dev.to/sroy8091/friday-stack-pack-tools-toys-side-quests-for-the-weekend-39ed)
-- [Keenthemes Metronic v9 &lpar;Tailwind version&rpar; with Symfony, Flask, and Django](https://dev.to/mohd_faizal_fea2afdf2f7f0/keenthemes-metronic-v9-tailwind-version-with-symfony-flask-and-django-bi)
-- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
+- [GCP Fundamentals: App Hub API](https://dev.to/devops_fundamental/gcp-fundamentals-app-hub-api-ao0)
+- [TravellerAI: The AI-Powered Smart Co-Pilot for Your Next Road Trip 🚗✨](https://dev.to/spandan_mukherjee_348b718/travellerai-the-ai-powered-smart-co-pilot-for-your-next-road-trip-125h)
+- [How to Delegate Tasks Effectively: A Leader&#39;s Guide](https://dev.to/fluidwave/how-to-delegate-tasks-effectively-a-leaders-guide-1aca)
+- [Azure Fundamentals: Microsoft.Cache](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcache-5eg0)
 <!-- BLOG-POST-LIST:END -->
 
