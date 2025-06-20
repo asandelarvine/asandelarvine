@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Environment File &lpar;.env&rpar; Checker and Syncer for ReactJS / NodeJS Project](https://dev.to/khuepm/environment-file-env-checker-and-syncer-for-reactjs-nodejs-project-4m5h)
-- [Choosing Your Developer Path Series: Start the Conversation or Start Looking](https://dev.to/tlorent/choosing-your-developer-path-series-start-the-conversation-or-start-looking-22ke)
-- [My Journey Exploring Efficient Web Development Frameworks（1750443302496400）](https://dev.to/member_c6d11ca9/my-journey-exploring-efficient-web-development-frameworks1750443302496400-36i9)
-- [Azure Fundamentals: Microsoft.DataFactory](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdatafactory-3bp6)
+- [ArtistAssistApp&#39;s June 2025 Update is Here!](https://dev.to/eugene-khyst/artistassistapps-june-2025-update-is-here-5hn3)
+- [The Turbo Way to Talk Native: React Native’s New Bridging System](https://dev.to/amitkumar13/the-turbo-way-to-talk-native-react-natives-new-bridging-system-2nh8)
+- [How I Deployed an EC2 Instance with Apache: A Step-by-Step Guide 🚀](https://dev.to/oluwatobiloba_oludare1/how-i-deployed-an-ec2-instance-with-apache-a-step-by-step-guide-39eh)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750445353992600）](https://dev.to/member_c6d11ca9/junior-year-self-study-notes-my-journey-with-the-framework1750445353992600-1jg)
 <!-- BLOG-POST-LIST:END -->
 
