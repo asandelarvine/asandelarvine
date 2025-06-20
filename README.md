@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: App Hub API](https://dev.to/devops_fundamental/gcp-fundamentals-app-hub-api-ao0)
-- [TravellerAI: The AI-Powered Smart Co-Pilot for Your Next Road Trip 🚗✨](https://dev.to/spandan_mukherjee_348b718/travellerai-the-ai-powered-smart-co-pilot-for-your-next-road-trip-125h)
-- [How to Delegate Tasks Effectively: A Leader&#39;s Guide](https://dev.to/fluidwave/how-to-delegate-tasks-effectively-a-leaders-guide-1aca)
-- [Azure Fundamentals: Microsoft.Cache](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcache-5eg0)
+- [The Hidden Depth of Skill: What Building Taught Me About Ego](https://dev.to/kalmin/the-hidden-depth-of-skill-what-building-taught-me-about-ego-kgg)
+- [Agentic AI vs RPA: Automating with Brains Instead of Scripts](https://dev.to/sidd911/agentic-ai-vs-rpa-automating-with-brains-instead-of-scripts-20j1)
+- [Implementing Sticky Tabs Effect in HarmonyOS ArkTS](https://dev.to/moyantianwang/implementing-sticky-tabs-effect-in-harmonyos-arkts-1p2d)
+- [Why AXI Protocol Supports Multiple Outstanding Transactions and How to Verify It Using UVM?](https://dev.to/adityabhuyan/why-axi-protocol-supports-multiple-outstanding-transactions-and-how-to-verify-it-using-uvm-4e81)
 <!-- BLOG-POST-LIST:END -->
 
