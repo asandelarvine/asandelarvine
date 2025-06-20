@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Checks API](https://dev.to/devopsfundamentals/gcp-fundamentals-checks-api-6ae)
-- [The Next Generation of Branded Types in TypeScript](https://dev.to/ahrjarrett/the-next-generation-of-branded-types-in-typescript-54jg)
-- [Architecture（1750450141024900）](https://dev.to/member_c6d11ca9/architecture1750450141024900-4h2j)
-- [Understanding redis.conf: How to Configure Your Redis Server](https://dev.to/rijultp/understanding-redisconf-how-to-configure-your-redis-server-38lf)
+- [Stay Current Without the Overwhelm: Why The Download Should Be Your Go-To Tech Update ⚡️](https://dev.to/andreagriffiths11/stay-current-without-the-overwhelm-why-the-download-should-be-your-go-to-tech-update-5a36)
+- [🚀 Laravel Migration Generator – Now with PostgreSQL and MSSQL Support](https://dev.to/n3xt0r/laravel-migration-generator-now-with-postgresql-and-mssql-support-2m24)
+- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
+- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
 <!-- BLOG-POST-LIST:END -->
 
