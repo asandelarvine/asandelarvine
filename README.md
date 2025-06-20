@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Scene: Meta vs. OpenAI and the Increasing Talent Rivalry](https://dev.to/grenishrai/the-ai-scene-meta-vs-openai-and-the-increasing-talent-rivalry-2hnf)
-- [How to market tech startups. Week 1: TAM and SAM](https://dev.to/bellechase/how-to-market-tech-startups-week-1-tam-and-sam-295k)
-- [Borderlands 4 system requirements demand 8 CPU cores and 8 GB of VRAM but the reality is probably a bit more forgiving than that](https://dev.to/gg_news/borderlands-4-system-requirements-demand-8-cpu-cores-and-8-gb-of-vram-but-the-reality-is-probably-a-154g)
-- [Deploying a FullStack application to the cloud using Docker Compose Part 1](https://dev.to/josidbobo/deploying-a-fullstack-application-to-the-cloud-using-docker-compose-part-1-259d)
+- [Security（1750439356199000）](https://dev.to/member_c6d11ca9/security1750439356199000-41a7)
+- [🔧 From WWC Mafia to The Hideout — Building a Secret Multiplayer Game Hub](https://dev.to/hito/from-wwc-mafia-to-the-hideout-building-a-secret-multiplayer-game-hub-1o3k)
+- [10 Ways a CLI Coding Agent Boosted My Productivity by 80%](https://dev.to/pankaj_singh_1022ee93e755/10-ways-a-cli-coding-agent-boosted-my-productivity-by-80-nnm)
+- [Azure Fundamentals: Microsoft.DBforPostgreSQL](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdbforpostgresql-588)
 <!-- BLOG-POST-LIST:END -->
 
