@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.DocumentDB](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdocumentdb-166m)
-- [GCP Fundamentals: Cloud Bigtable Admin API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-bigtable-admin-api-15b6)
-- [CRUD Lies: Hidden Pitfalls of Simple Updates](https://dev.to/alex_aslam/crud-lies-hidden-pitfalls-of-simple-updates-4g2c)
-- [Your Web Apps Are OBSOLETE! This PWA + React + PHP Combo Changes EVERYTHING!](https://dev.to/vaib/your-web-apps-are-obsolete-this-pwa-react-php-combo-changes-everything-4kb0)
+- [IBM Fundamentals: Cf Deployment Tracker Client Python](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-python-50lg)
+- [Create your very first NPM Packages](https://dev.to/kelvincode1234/create-your-very-first-npm-packages-2p98)
+- [Create your very first NPM Packages](https://dev.to/kelvincode1234/create-your-very-first-npm-packages-39p6)
+- [Build Your Own Local License Server for Popular Software &lpar;Windows Setup Guide&rpar;](https://dev.to/roman_muslikhov_2ab4ae3a2/build-your-own-local-license-server-for-popular-software-windows-setup-guide-4omk)
 <!-- BLOG-POST-LIST:END -->
 
