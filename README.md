@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security（1750439356199000）](https://dev.to/member_c6d11ca9/security1750439356199000-41a7)
-- [🔧 From WWC Mafia to The Hideout — Building a Secret Multiplayer Game Hub](https://dev.to/hito/from-wwc-mafia-to-the-hideout-building-a-secret-multiplayer-game-hub-1o3k)
-- [10 Ways a CLI Coding Agent Boosted My Productivity by 80%](https://dev.to/pankaj_singh_1022ee93e755/10-ways-a-cli-coding-agent-boosted-my-productivity-by-80-nnm)
-- [Azure Fundamentals: Microsoft.DBforPostgreSQL](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdbforpostgresql-588)
+- [Environment File &lpar;.env&rpar; Checker and Syncer for ReactJS / NodeJS Project](https://dev.to/khuepm/environment-file-env-checker-and-syncer-for-reactjs-nodejs-project-4m5h)
+- [Choosing Your Developer Path Series: Start the Conversation or Start Looking](https://dev.to/tlorent/choosing-your-developer-path-series-start-the-conversation-or-start-looking-22ke)
+- [My Journey Exploring Efficient Web Development Frameworks（1750443302496400）](https://dev.to/member_c6d11ca9/my-journey-exploring-efficient-web-development-frameworks1750443302496400-36i9)
+- [Azure Fundamentals: Microsoft.DataFactory](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdatafactory-3bp6)
 <!-- BLOG-POST-LIST:END -->
 
