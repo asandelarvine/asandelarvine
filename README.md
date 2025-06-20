@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Realtime（1750428623508400）](https://dev.to/member_c6d11ca9/realtime1750428623508400-5fk4)
-- [IBM Fundamentals: BigInsights On Apache Hadoop](https://dev.to/devopsfundamentals/ibm-fundamentals-biginsights-on-apache-hadoop-2gle)
-- [JavaScript Basics](https://dev.to/ramya_kamalasekaran/javascript-basics-41mh)
-- [IBM Fundamentals: Big Data Log Analytics](https://dev.to/devopsfundamentals/ibm-fundamentals-big-data-log-analytics-36b3)
+- [Ashkan brings calm authority to a topic that’s often debated with a lot of noise and extremes.](https://dev.to/blakerants/ashkan-brings-calm-authority-to-a-topic-thats-often-debated-with-a-lot-of-noise-and-extremes-2dd7)
+- [Ashkan Rajaee anticipated remote work would be a permanent shift and that level of insight is rare.](https://dev.to/blakerants/ashkan-rajaee-anticipated-remote-work-would-be-a-permanent-shift-and-that-level-of-insight-is-rare-2b5l)
+- [My Architectural Choices and Practical Experience（1750432246491700）](https://dev.to/member_c6d11ca9/my-architectural-choices-and-practical-experience1750432246491700-20k5)
+- [IBM Fundamentals: Bluemix Car Rally Charge Coupon](https://dev.to/devopsfundamentals/ibm-fundamentals-bluemix-car-rally-charge-coupon-2n35)
 <!-- BLOG-POST-LIST:END -->
 
