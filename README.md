@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Current Without the Overwhelm: Why The Download Should Be Your Go-To Tech Update ⚡️](https://dev.to/andreagriffiths11/stay-current-without-the-overwhelm-why-the-download-should-be-your-go-to-tech-update-5a36)
-- [🚀 Laravel Migration Generator – Now with PostgreSQL and MSSQL Support](https://dev.to/n3xt0r/laravel-migration-generator-now-with-postgresql-and-mssql-support-2m24)
-- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
-- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
+- [Azure Fundamentals: Microsoft.DocumentDB](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdocumentdb-166m)
+- [GCP Fundamentals: Cloud Bigtable Admin API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-bigtable-admin-api-15b6)
+- [CRUD Lies: Hidden Pitfalls of Simple Updates](https://dev.to/alex_aslam/crud-lies-hidden-pitfalls-of-simple-updates-4g2c)
+- [Your Web Apps Are OBSOLETE! This PWA + React + PHP Combo Changes EVERYTHING!](https://dev.to/vaib/your-web-apps-are-obsolete-this-pwa-react-php-combo-changes-everything-4kb0)
 <!-- BLOG-POST-LIST:END -->
 
