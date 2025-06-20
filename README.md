@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Crow C++ on Windows](https://dev.to/marcosplusplus/how-to-install-crow-c-on-windows-13ff)
-- [The Art of Saying No: Creating Boundaries and Systems as a Creative Freelancer](https://dev.to/codanyks/the-art-of-saying-no-creating-boundaries-and-systems-as-a-creative-freelancer-4ga4)
-- [The Heartbeat of Modern Web Applications（1750425506005500）](https://dev.to/member_c6d11ca9/the-heartbeat-of-modern-web-applications1750425506005500-1ha3)
-- [The Role of Cloud Security in a Digital Age](https://dev.to/mattylantz/the-role-of-cloud-security-in-a-digital-age-3i15)
+- [Realtime（1750428623508400）](https://dev.to/member_c6d11ca9/realtime1750428623508400-5fk4)
+- [IBM Fundamentals: BigInsights On Apache Hadoop](https://dev.to/devopsfundamentals/ibm-fundamentals-biginsights-on-apache-hadoop-2gle)
+- [JavaScript Basics](https://dev.to/ramya_kamalasekaran/javascript-basics-41mh)
+- [IBM Fundamentals: Big Data Log Analytics](https://dev.to/devopsfundamentals/ibm-fundamentals-big-data-log-analytics-36b3)
 <!-- BLOG-POST-LIST:END -->
 
