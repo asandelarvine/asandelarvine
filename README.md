@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ytsurf: Watch YouTube Videos Without Leaving Your Terminal](https://dev.to/stan-breaks/ytsurf-watch-youtube-videos-without-leaving-your-terminal-4e0j)
-- [Why the 1958 Land Cruiser Is Basically the Linux Kernel of Cars](https://dev.to/clara-vellum/why-the-1958-land-cruiser-is-basically-the-linux-kernel-of-cars-37f2)
-- [Folder Structure Matters More Than You Think](https://dev.to/dct_technology/folder-structure-matters-more-than-you-think-5cn)
-- [HarmonyOS Developer Toolbox - Amount Converter Development Notes](https://dev.to/zhao1743914721/harmonyos-developer-toolbox-amount-converter-development-notes-13gl)
+- [JuiceFS 1.3 Beta 2 Integrates Apache Ranger for Fine-Grained Access Control](https://dev.to/daswu/juicefs-13-beta-2-integrates-apache-ranger-for-fine-grained-access-control-385d)
+- [ABOUT LINUX](https://dev.to/sabithasivaprakasam/about-linux-4imj)
+- [Beautiful Soup: Web Scraping&#39;s Delightful Deception](https://dev.to/drxven/beautiful-soup-web-scrapings-delightful-deception-4a00)
+- [Unity Catalog in Azure Databricks — Everything You Need to Know](https://dev.to/indrasen_9d014cf224a46c4a/unity-catalog-in-azure-databricks-everything-you-need-to-know-3k31)
 <!-- BLOG-POST-LIST:END -->
 
