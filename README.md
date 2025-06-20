@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Depth of Skill: What Building Taught Me About Ego](https://dev.to/kalmin/the-hidden-depth-of-skill-what-building-taught-me-about-ego-kgg)
-- [Agentic AI vs RPA: Automating with Brains Instead of Scripts](https://dev.to/sidd911/agentic-ai-vs-rpa-automating-with-brains-instead-of-scripts-20j1)
-- [Implementing Sticky Tabs Effect in HarmonyOS ArkTS](https://dev.to/moyantianwang/implementing-sticky-tabs-effect-in-harmonyos-arkts-1p2d)
-- [Why AXI Protocol Supports Multiple Outstanding Transactions and How to Verify It Using UVM?](https://dev.to/adityabhuyan/why-axi-protocol-supports-multiple-outstanding-transactions-and-how-to-verify-it-using-uvm-4e81)
+- [AMD Syntax in SAP UI5](https://dev.to/lehonglong2411/amd-syntax-in-sap-ui5-4p7f)
+- [Trust Over Throttle: Leveraging o3-Pro for Accurate, Impactful AI](https://dev.to/qvfagundes/trust-over-throttle-leveraging-o3-pro-for-accurate-impactful-ai-3ack)
+- [ITIL &amp; PRINCE2: Making Service Management and Project Success Work Together](https://dev.to/borisgigovic/itil-prince2-making-service-management-and-project-success-work-together-53kb)
+- [CodePen #Challenge: Visualizing McDonald’s Menu with Free Pivot Grid Library 👩🏼‍💻📊🍔](https://dev.to/daria_filozop_bfe6aa68940/codepen-challenge-visualizing-mcdonalds-menu-with-free-pivot-grid-library-4nec)
 <!-- BLOG-POST-LIST:END -->
 
