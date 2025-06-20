@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Applying to FAANG Companies &lpar;And What I Learned Instead&rpar;](https://dev.to/holasoymalva/why-i-stopped-applying-to-faang-companies-and-what-i-learned-instead-1854)
-- [Vibe coding is destroying architecture: the silent rot in our AI-built systems](https://dev.to/devlinktips/vibe-coding-is-destroying-architecture-the-silent-rot-in-our-ai-built-systems-4p1n)
-- [The &quot;never&quot; Type in PHP](https://dev.to/ashallendesign/the-never-type-in-php-49e1)
-- [Devops isn’t broken it just hurts more than we admit](https://dev.to/devlinktips/devops-isnt-broken-it-just-hurts-more-than-we-admit-3ge)
+- [Vue Tip](https://dev.to/ibrahimalanshor/-44fj)
+- [The New Generation of High-Performance Web Frameworks（1750382925210600）](https://dev.to/member_c6d11ca9/the-new-generation-of-high-performance-web-frameworks1750382925210600-5f7)
+- [Labubu Doll: Origins and History](https://dev.to/justin3go/labubu-doll-origins-and-history-3kb5)
+- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
 <!-- BLOG-POST-LIST:END -->
 
