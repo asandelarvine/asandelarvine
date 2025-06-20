@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Migration With Schema Validation in MongoDB](https://dev.to/mongodb/laravel-migration-with-schema-validation-in-mongodb-3jcg)
-- [Flutter i18n: Global Apps Made Easy](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-i18n-global-apps-made-easy-3cj0)
-- [This Week In React #239: ViewTransition, Suspense, use-mcp, Compiler, Intl-T | 0.80, Stable APIs, iOS prebuilds, shadcn, Expo...](https://dev.to/sebastienlorber/this-week-in-react-239-viewtransition-suspense-use-mcp-compiler-intl-t-080-stable-apis-4k8k)
-- [How to Produce Voice-Over Files for Articulate](https://dev.to/liamcorwin/how-to-produce-voice-over-files-for-articulate-47e7)
+- [How to Install Crow C++ on Windows](https://dev.to/marcosplusplus/how-to-install-crow-c-on-windows-13ff)
+- [The Art of Saying No: Creating Boundaries and Systems as a Creative Freelancer](https://dev.to/codanyks/the-art-of-saying-no-creating-boundaries-and-systems-as-a-creative-freelancer-4ga4)
+- [The Heartbeat of Modern Web Applications（1750425506005500）](https://dev.to/member_c6d11ca9/the-heartbeat-of-modern-web-applications1750425506005500-1ha3)
+- [The Role of Cloud Security in a Digital Age](https://dev.to/mattylantz/the-role-of-cloud-security-in-a-digital-age-3i15)
 <!-- BLOG-POST-LIST:END -->
 
