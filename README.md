@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
-- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
-- [EXCEL KEY ASPECTS FOR DATA ANALYSIS](https://dev.to/john_analytics/excel-key-aspects-for-data-analysis-375k)
-- [What is pure function?](https://dev.to/kittichanr/what-is-pure-function-518)
+- [Azure Fundamentals: Microsoft.HanaOnAzure](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthanaonazure-251f)
+- [From React to SvelteKit: 3 &quot;Aha!&quot; Moments for a Skeptic](https://dev.to/lulumassagebh/from-react-to-sveltekit-3-aha-moments-for-a-skeptic-2dep)
+- [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
+- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/skill-wanderer/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
 <!-- BLOG-POST-LIST:END -->
 
