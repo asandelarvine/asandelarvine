@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SupportAI - Intelligent Customer Service Platform](https://dev.to/ariondev/supportai-intelligent-customer-service-platform-2jo9)
-- [Python Fundamentals: __getitem__](https://dev.to/devopsfundamentals/python-fundamentals-getitem-4hop)
-- [Azure Fundamentals: Microsoft.Relay](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftrelay-3lgl)
-- [NodeJS Fundamentals: event delegation](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-delegation-3ie0)
+- [Python Fundamentals: abc](https://dev.to/devopsfundamentals/python-fundamentals-abc-4fd)
+- [NodeJS Fundamentals: bind](https://dev.to/devopsfundamentals/nodejs-fundamentals-bind-2d1m)
+- [Kafka Fundamentals: kafka message](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-message-425d)
+- [Azure Fundamentals: Microsoft.Security](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftsecurity-4map)
 <!-- BLOG-POST-LIST:END -->
 
