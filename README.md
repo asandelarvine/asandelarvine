@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Fundamentals: CloudFoundry To CodeEngine](https://dev.to/devopsfundamentals/ibm-fundamentals-cloudfoundry-to-codeengine-3n16)
-- [Unlocking the CPU: 16 Essential Resources for Assembly and Machine Code](https://dev.to/vaib/unlocking-the-cpu-16-essential-resources-for-assembly-and-machine-code-2088)
-- [Debugging Dynamic Content Extraction: waitUntil Options in Browser Rendering Services](https://dev.to/morphinewan/debugging-dynamic-content-extraction-waituntil-options-in-browser-rendering-services-44cd)
-- [Why I Switched from Framer Motion to GSAP](https://dev.to/worapon_jintajirakul/why-i-switched-from-framer-motion-to-gsap-597b)
+- [Azure Fundamentals: Microsoft.Maintenance](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmaintenance-2all)
+- [NodeJS Fundamentals: closure](https://dev.to/devopsfundamentals/nodejs-fundamentals-closure-3mhe)
+- [Unleashing the Power of Cloud Computing with Containers](https://dev.to/vjnvisakh/unleashing-the-power-of-cloud-computing-with-containers-c8m)
+- [Beginner&#39;s Guide to Deploying with Docker and GitHub Actions](https://dev.to/dhruvjoshi9/beginners-guide-to-deploying-with-docker-and-github-actions-41o)
 <!-- BLOG-POST-LIST:END -->
 
