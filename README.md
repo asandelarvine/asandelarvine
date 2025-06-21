@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Fundamentals: abc](https://dev.to/devopsfundamentals/python-fundamentals-abc-4fd)
-- [NodeJS Fundamentals: bind](https://dev.to/devopsfundamentals/nodejs-fundamentals-bind-2d1m)
-- [Kafka Fundamentals: kafka message](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-message-425d)
-- [Azure Fundamentals: Microsoft.Security](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftsecurity-4map)
+- [Kafka Fundamentals: kafka replication](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-replication-317d)
+- [Azure Fundamentals: Microsoft.SignalRService](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftsignalrservice-2hg4)
+- [Python Fundamentals: aioredis](https://dev.to/devopsfundamentals/python-fundamentals-aioredis-48li)
+- [GCP Fundamentals: Cloud Text-to-Speech API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-text-to-speech-api-3e2p)
 <!-- BLOG-POST-LIST:END -->
 
