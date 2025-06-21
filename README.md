@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Fundamentals: Cf Deployment Tracker Client Python](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-python-50lg)
-- [Create your very first NPM Packages](https://dev.to/kelvincode1234/create-your-very-first-npm-packages-2p98)
-- [Create your very first NPM Packages](https://dev.to/kelvincode1234/create-your-very-first-npm-packages-39p6)
-- [Build Your Own Local License Server for Popular Software &lpar;Windows Setup Guide&rpar;](https://dev.to/roman_muslikhov_2ab4ae3a2/build-your-own-local-license-server-for-popular-software-windows-setup-guide-4omk)
+- [Why You Need to Humanize Your AI Written Content](https://dev.to/montropy/why-you-need-to-humanize-your-ai-written-content-16n6)
+- [VMware Fundamentals: Container Service Extension](https://dev.to/devopsfundamentals/vmware-fundamentals-container-service-extension-jhl)
+- [AWS Fundamentals: Codewhisperer](https://dev.to/devopsfundamentals/aws-fundamentals-codewhisperer-499l)
+- [Cómo emitir comprobantes de pago a SUNAT con NodeJS](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/como-emitir-comprobantes-de-pago-a-sunat-con-nodejs-3d7h)
 <!-- BLOG-POST-LIST:END -->
 
