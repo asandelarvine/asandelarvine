@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Cloud Identity-Aware Proxy API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-identity-aware-proxy-api-4c6b)
-- [Azure Fundamentals: Microsoft.MarketplaceOrdering](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmarketplaceordering-52fn)
-- [Streamlining Capacity Management with Bidirectional Conversion Between T-shirt Sizes and Points: CLI Tool &quot;sizely&quot;](https://dev.to/gr1m0h/streamlining-capacity-management-with-bidirectional-conversion-between-t-shirt-sizes-and-points-1ma6)
-- [How to setup RAG with VectorDB](https://dev.to/mozes721/how-to-setup-rag-with-vectordb-m85)
+- [🛠️ 1 Tool That Feels Like Cheating &lpar;but Isn’t&rpar; – Meet `tldraw`](https://dev.to/00rvn00/1-tool-that-feels-like-cheating-but-isnt-meet-tldraw-31fn)
+- [How to Convert a Basic Blueprint to a C++ Class in Unreal Engine 5](https://dev.to/adrielwerlich/how-to-convert-a-basic-blueprint-to-a-c-class-in-unreal-engine-5-4if5)
+- [Lock &amp; Key: A Developer’s Guide to Encryption and Decryption in JavaScript](https://dev.to/aggarwal_gaurav_1012/lock-key-a-developers-guide-to-encryption-and-decryption-in-javascript-42nd)
+- [Kafka Fundamentals: apache kafka](https://dev.to/devopsfundamentals/kafka-fundamentals-apache-kafka-1g8m)
 <!-- BLOG-POST-LIST:END -->
 
