@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GCP Fundamentals: Cloud Pub/Sub API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-pubsub-api-26kd)
-- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
-- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
-- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
+- [🌐 OCI Journey – Part 2: Networking in Oracle Cloud Infrastructure](https://dev.to/vishnu_rachapudi_75e73248/oci-journey-part-2-networking-in-oracle-cloud-infrastructure-8lp)
+- [Deploying Jenkins on EC2 for CI/CD Pipelines](https://dev.to/chinmay13/deploying-jenkins-on-ec2-for-cicd-pipelines-k15)
+- [Azure Fundamentals: Microsoft.PowerBI](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftpowerbi-40k4)
+- [Kafka Fundamentals: kafka partition](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-partition-14j9)
 <!-- BLOG-POST-LIST:END -->
 
