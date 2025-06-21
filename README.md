@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Unduck: Simplified DuckDuckGo Bang Redirects in Your Browser](https://dev.to/axrisi/introducing-unduck-simplified-duckduckgo-bang-redirects-in-your-browser-1kd3)
-- [How Browsers Render Webpages: A Deep Dive into Reflow, Paint, and Repaint](https://dev.to/satyaveer_jaligama/how-browsers-render-webpages-a-deep-dive-into-reflow-paint-and-repaint-m5n)
-- [Why You Should Design Error States Before Features](https://dev.to/dct_technology/why-you-should-design-error-states-before-features-2497)
-- [Bug Bounty Hunting Fundamentals](https://dev.to/godofgeeks/bug-bounty-hunting-fundamentals-4p5a)
+- [Builder Design Pattern in Java – A Complete Guide](https://dev.to/zeeshanali0704/builder-design-pattern-in-java-a-complete-guide-2l41)
+- [Maximizing Education: Uncovering the Astonishing Benefits of Blended Learning in the Online Learning Landscape](https://dev.to/ghummantech/maximizing-education-uncovering-the-astonishing-benefits-of-blended-learning-in-the-online-5n8)
+- [Day 6: Coding with AI — A New Type of Pair Programmer](https://dev.to/nader_fh/day-6-coding-with-ai-a-new-type-of-pair-programmer-16al)
+- [AI-Powered IaC: Transforming Cloud Management with Intelligent Infrastructure](https://dev.to/vaib/ai-powered-iac-transforming-cloud-management-with-intelligent-infrastructure-2p85)
 <!-- BLOG-POST-LIST:END -->
 
