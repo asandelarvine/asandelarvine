@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.Maintenance](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmaintenance-2all)
-- [NodeJS Fundamentals: closure](https://dev.to/devopsfundamentals/nodejs-fundamentals-closure-3mhe)
-- [Unleashing the Power of Cloud Computing with Containers](https://dev.to/vjnvisakh/unleashing-the-power-of-cloud-computing-with-containers-c8m)
-- [Beginner&#39;s Guide to Deploying with Docker and GitHub Actions](https://dev.to/dhruvjoshi9/beginners-guide-to-deploying-with-docker-and-github-actions-41o)
+- [How to Remove Malware from WordPress &amp; Secure Your Site](https://dev.to/dishang2512/how-to-remove-malware-from-wordpress-secure-your-site-j5b)
+- [Azure Fundamentals: Microsoft.ManagedNetwork](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmanagednetwork-1m5b)
+- [IBM Fundamentals: Clouddatabases Helloworld Kubernetes Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-kubernetes-examples-4n0d)
+- [Top 17 Tools for Scientific Simulation &amp; Modeling](https://dev.to/vaib/top-17-tools-for-scientific-simulation-modeling-311j)
 <!-- BLOG-POST-LIST:END -->
 
