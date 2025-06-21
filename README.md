@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 OCI Journey – Part 2: Networking in Oracle Cloud Infrastructure](https://dev.to/vishnu_rachapudi_75e73248/oci-journey-part-2-networking-in-oracle-cloud-infrastructure-8lp)
-- [Deploying Jenkins on EC2 for CI/CD Pipelines](https://dev.to/chinmay13/deploying-jenkins-on-ec2-for-cicd-pipelines-k15)
-- [Azure Fundamentals: Microsoft.PowerBI](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftpowerbi-40k4)
-- [Kafka Fundamentals: kafka partition](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-partition-14j9)
+- [Kafka Fundamentals: kafka partition](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-partition-2ib5)
+- [🚀 The Ultimate AquaScript Front-end Challenge Is Live ✨](https://dev.to/hanzla-baig/the-ultimate-aquascript-front-end-challenge-is-live-365o)
+- [Mobile Apps in der Immobilienbranche: Revolution für Investoren und Verwalter](https://dev.to/smartlandlord/mobile-apps-in-der-immobilienbranche-revolution-fur-investoren-und-verwalter-2a59)
+- [Online-Plattformen vs. traditionelle Makler: Die Disruption des Immobilienvertriebs](https://dev.to/smartlandlord/online-plattformen-vs-traditionelle-makler-die-disruption-des-immobilienvertriebs-2om0)
 <!-- BLOG-POST-LIST:END -->
 
