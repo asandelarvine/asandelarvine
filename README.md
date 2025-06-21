@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useSyncExternalStore Through Some Examples](https://dev.to/varadan13/understanding-usesyncexternalstore-through-some-examples-4m7c)
-- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
-- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
-- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
+- [GCP Fundamentals: Cloud Identity-Aware Proxy API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-identity-aware-proxy-api-4c6b)
+- [Azure Fundamentals: Microsoft.MarketplaceOrdering](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmarketplaceordering-52fn)
+- [Streamlining Capacity Management with Bidirectional Conversion Between T-shirt Sizes and Points: CLI Tool &quot;sizely&quot;](https://dev.to/gr1m0h/streamlining-capacity-management-with-bidirectional-conversion-between-t-shirt-sizes-and-points-1ma6)
+- [How to setup RAG with VectorDB](https://dev.to/mozes721/how-to-setup-rag-with-vectordb-m85)
 <!-- BLOG-POST-LIST:END -->
 
