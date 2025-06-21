@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Explore Swift and Java interoperability](https://dev.to/arshtechpro/wwdc-2025-explore-swift-and-java-interoperability-9j8)
-- [20+ Free React Admin Dashboard Templates](https://dev.to/wrap-pixel/20-free-react-admin-dashboard-templates-3ogm)
-- [WWDC 2025 - SwiftData iOS 26 - Class Inheritance &amp; Migration](https://dev.to/arshtechpro/wwdc-2025-swiftdata-ios-26-class-inheritance-migration-issues-30bh)
-- [Why .NET Maintains Strategic Relevance Amidst Java’s Open-Source Dominance](https://dev.to/thinh_nguyen_ecc6697b9d30/why-net-maintains-strategic-relevance-amidst-javas-open-source-dominance-hnb)
+- [Introducing Unduck: Simplified DuckDuckGo Bang Redirects in Your Browser](https://dev.to/axrisi/introducing-unduck-simplified-duckduckgo-bang-redirects-in-your-browser-1kd3)
+- [How Browsers Render Webpages: A Deep Dive into Reflow, Paint, and Repaint](https://dev.to/satyaveer_jaligama/how-browsers-render-webpages-a-deep-dive-into-reflow-paint-and-repaint-m5n)
+- [Why You Should Design Error States Before Features](https://dev.to/dct_technology/why-you-should-design-error-states-before-features-2497)
+- [Bug Bounty Hunting Fundamentals](https://dev.to/godofgeeks/bug-bounty-hunting-fundamentals-4p5a)
 <!-- BLOG-POST-LIST:END -->
 
