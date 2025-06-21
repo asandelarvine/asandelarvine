@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Fundamentals: kafka partition](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-partition-2ib5)
-- [🚀 The Ultimate AquaScript Front-end Challenge Is Live ✨](https://dev.to/hanzla-baig/the-ultimate-aquascript-front-end-challenge-is-live-365o)
-- [Mobile Apps in der Immobilienbranche: Revolution für Investoren und Verwalter](https://dev.to/smartlandlord/mobile-apps-in-der-immobilienbranche-revolution-fur-investoren-und-verwalter-2a59)
-- [Online-Plattformen vs. traditionelle Makler: Die Disruption des Immobilienvertriebs](https://dev.to/smartlandlord/online-plattformen-vs-traditionelle-makler-die-disruption-des-immobilienvertriebs-2om0)
+- [SupportAI - Intelligent Customer Service Platform](https://dev.to/ariondev/supportai-intelligent-customer-service-platform-2jo9)
+- [Python Fundamentals: __getitem__](https://dev.to/devopsfundamentals/python-fundamentals-getitem-4hop)
+- [Azure Fundamentals: Microsoft.Relay](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftrelay-3lgl)
+- [NodeJS Fundamentals: event delegation](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-delegation-3ie0)
 <!-- BLOG-POST-LIST:END -->
 
