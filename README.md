@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Kubernetes Security With Kyverno and OPA Gatekeeper](https://dev.to/aws-builders/simplify-kubernetes-security-with-kyverno-and-opa-gatekeeper-11o2)
-- [Introducing MonomaOS — A Python-Based Command-Line OS Prototype](https://dev.to/fotis_zaharia_240512610c2/introducing-monomaos-a-python-based-command-line-os-prototype-2oge)
-- [Top 17 Essential Git Tools for Enhanced Developer Productivity](https://dev.to/vaib/top-17-essential-git-tools-for-enhanced-developer-productivity-7f3)
-- [Azure Fundamentals: Microsoft.HealthcareApis &lpar;Healthcare APIs&rpar;](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthealthcareapis-healthcare-apis-2ia)
+- [WWDC 2025 - Explore Swift and Java interoperability](https://dev.to/arshtechpro/wwdc-2025-explore-swift-and-java-interoperability-9j8)
+- [20+ Free React Admin Dashboard Templates](https://dev.to/wrap-pixel/20-free-react-admin-dashboard-templates-3ogm)
+- [WWDC 2025 - SwiftData iOS 26 - Class Inheritance &amp; Migration](https://dev.to/arshtechpro/wwdc-2025-swiftdata-ios-26-class-inheritance-migration-issues-30bh)
+- [Why .NET Maintains Strategic Relevance Amidst Java’s Open-Source Dominance](https://dev.to/thinh_nguyen_ecc6697b9d30/why-net-maintains-strategic-relevance-amidst-javas-open-source-dominance-hnb)
 <!-- BLOG-POST-LIST:END -->
 
