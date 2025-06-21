@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ 1 Tool That Feels Like Cheating &lpar;but Isn’t&rpar; – Meet `tldraw`](https://dev.to/00rvn00/1-tool-that-feels-like-cheating-but-isnt-meet-tldraw-31fn)
-- [How to Convert a Basic Blueprint to a C++ Class in Unreal Engine 5](https://dev.to/adrielwerlich/how-to-convert-a-basic-blueprint-to-a-c-class-in-unreal-engine-5-4if5)
-- [Lock &amp; Key: A Developer’s Guide to Encryption and Decryption in JavaScript](https://dev.to/aggarwal_gaurav_1012/lock-key-a-developers-guide-to-encryption-and-decryption-in-javascript-42nd)
-- [Kafka Fundamentals: apache kafka](https://dev.to/devopsfundamentals/kafka-fundamentals-apache-kafka-1g8m)
+- [Discord OAuth, hard to understand, easy to use](https://dev.to/vxrpenter/discord-oauth-hard-to-understand-easy-to-use-1f33)
+- [Kafka Fundamentals: kafka cluster](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cluster-5264)
+- [Terraform Fundamentals: Bedrock Agents](https://dev.to/devopsfundamentals/terraform-fundamentals-bedrock-agents-e1)
+- [3 Subtle Mistakes That Slowed Down My Web App &lpar;And How I Fixed Them&rpar;](https://dev.to/freezystock/3-subtle-mistakes-that-slowed-down-my-web-app-and-how-i-fixed-them-1l29)
 <!-- BLOG-POST-LIST:END -->
 
