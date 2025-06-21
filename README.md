@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: let](https://dev.to/devopsfundamentals/nodejs-fundamentals-let-39km)
-- [We Built an AI Tool That Generates Full Backend Code from Plain English &lpar;Pipo360 v2&rpar;](https://dev.to/samuel_aondo_b3361b178e67/we-built-an-ai-tool-that-generates-full-backend-code-from-plain-english-pipo360-v2-34gn)
-- [Prototype Design Pattern](https://dev.to/zeeshanali0704/prototype-design-pattern-3i95)
-- [Why Lightweight Web Apps Still Matter in a Heavier Digital World](https://dev.to/seddek_britain_0c38299131/why-lightweight-web-apps-still-matter-in-a-heavier-digital-world-2i1n)
+- [Understanding useSyncExternalStore Through Some Examples](https://dev.to/varadan13/understanding-usesyncexternalstore-through-some-examples-4m7c)
+- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
+- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
+- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
 <!-- BLOG-POST-LIST:END -->
 
