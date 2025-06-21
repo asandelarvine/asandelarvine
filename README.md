@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remove Malware from WordPress &amp; Secure Your Site](https://dev.to/dishang2512/how-to-remove-malware-from-wordpress-secure-your-site-j5b)
-- [Azure Fundamentals: Microsoft.ManagedNetwork](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmanagednetwork-1m5b)
-- [IBM Fundamentals: Clouddatabases Helloworld Kubernetes Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-kubernetes-examples-4n0d)
-- [Top 17 Tools for Scientific Simulation &amp; Modeling](https://dev.to/vaib/top-17-tools-for-scientific-simulation-modeling-311j)
+- [NodeJS Fundamentals: let](https://dev.to/devopsfundamentals/nodejs-fundamentals-let-39km)
+- [We Built an AI Tool That Generates Full Backend Code from Plain English &lpar;Pipo360 v2&rpar;](https://dev.to/samuel_aondo_b3361b178e67/we-built-an-ai-tool-that-generates-full-backend-code-from-plain-english-pipo360-v2-34gn)
+- [Prototype Design Pattern](https://dev.to/zeeshanali0704/prototype-design-pattern-3i95)
+- [Why Lightweight Web Apps Still Matter in a Heavier Digital World](https://dev.to/seddek_britain_0c38299131/why-lightweight-web-apps-still-matter-in-a-heavier-digital-world-2i1n)
 <!-- BLOG-POST-LIST:END -->
 
