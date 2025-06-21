@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord OAuth, hard to understand, easy to use](https://dev.to/vxrpenter/discord-oauth-hard-to-understand-easy-to-use-1f33)
-- [Kafka Fundamentals: kafka cluster](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cluster-5264)
-- [Terraform Fundamentals: Bedrock Agents](https://dev.to/devopsfundamentals/terraform-fundamentals-bedrock-agents-e1)
-- [3 Subtle Mistakes That Slowed Down My Web App &lpar;And How I Fixed Them&rpar;](https://dev.to/freezystock/3-subtle-mistakes-that-slowed-down-my-web-app-and-how-i-fixed-them-1l29)
+- [GCP Fundamentals: Cloud Pub/Sub API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-pubsub-api-26kd)
+- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
+- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
+- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
 <!-- BLOG-POST-LIST:END -->
 
