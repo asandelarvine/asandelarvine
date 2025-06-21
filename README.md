@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.HanaOnAzure](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthanaonazure-251f)
-- [From React to SvelteKit: 3 &quot;Aha!&quot; Moments for a Skeptic](https://dev.to/lulumassagebh/from-react-to-sveltekit-3-aha-moments-for-a-skeptic-2dep)
-- [RunnerChallenge](https://dev.to/jeraldfelix/runnerchallenge-2959)
-- [The Wanderer&#39;s Path: A Journey of a Thousand Steps](https://dev.to/skill-wanderer/the-wanderers-path-a-journey-of-a-thousand-steps-22ej)
+- [Simplify Kubernetes Security With Kyverno and OPA Gatekeeper](https://dev.to/aws-builders/simplify-kubernetes-security-with-kyverno-and-opa-gatekeeper-11o2)
+- [Introducing MonomaOS — A Python-Based Command-Line OS Prototype](https://dev.to/fotis_zaharia_240512610c2/introducing-monomaos-a-python-based-command-line-os-prototype-2oge)
+- [Top 17 Essential Git Tools for Enhanced Developer Productivity](https://dev.to/vaib/top-17-essential-git-tools-for-enhanced-developer-productivity-7f3)
+- [Azure Fundamentals: Microsoft.HealthcareApis &lpar;Healthcare APIs&rpar;](https://dev.to/devopsfundamentals/azure-fundamentals-microsofthealthcareapis-healthcare-apis-2ia)
 <!-- BLOG-POST-LIST:END -->
 
