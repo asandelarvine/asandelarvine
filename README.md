@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Builder Design Pattern in Java – A Complete Guide](https://dev.to/zeeshanali0704/builder-design-pattern-in-java-a-complete-guide-2l41)
-- [Maximizing Education: Uncovering the Astonishing Benefits of Blended Learning in the Online Learning Landscape](https://dev.to/ghummantech/maximizing-education-uncovering-the-astonishing-benefits-of-blended-learning-in-the-online-5n8)
-- [Day 6: Coding with AI — A New Type of Pair Programmer](https://dev.to/nader_fh/day-6-coding-with-ai-a-new-type-of-pair-programmer-16al)
-- [AI-Powered IaC: Transforming Cloud Management with Intelligent Infrastructure](https://dev.to/vaib/ai-powered-iac-transforming-cloud-management-with-intelligent-infrastructure-2p85)
+- [IBM Fundamentals: CloudFoundry To CodeEngine](https://dev.to/devopsfundamentals/ibm-fundamentals-cloudfoundry-to-codeengine-3n16)
+- [Unlocking the CPU: 16 Essential Resources for Assembly and Machine Code](https://dev.to/vaib/unlocking-the-cpu-16-essential-resources-for-assembly-and-machine-code-2088)
+- [Debugging Dynamic Content Extraction: waitUntil Options in Browser Rendering Services](https://dev.to/morphinewan/debugging-dynamic-content-extraction-waituntil-options-in-browser-rendering-services-44cd)
+- [Why I Switched from Framer Motion to GSAP](https://dev.to/worapon_jintajirakul/why-i-switched-from-framer-motion-to-gsap-597b)
 <!-- BLOG-POST-LIST:END -->
 
