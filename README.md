@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Fundamentals: kafka replication](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-replication-317d)
-- [Azure Fundamentals: Microsoft.SignalRService](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftsignalrservice-2hg4)
-- [Python Fundamentals: aioredis](https://dev.to/devopsfundamentals/python-fundamentals-aioredis-48li)
-- [GCP Fundamentals: Cloud Text-to-Speech API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-text-to-speech-api-3e2p)
+- [🚀 StudyQuiz v0.1.0 — FastAPI Quiz Engine with Spaced Repetition &amp; CLI Quiz Attempts](https://dev.to/aissalaribi/studyquiz-v010-fastapi-quiz-engine-with-spaced-repetition-cli-quiz-attempts-3a8)
+- [Networking Fundamentals: Bridge](https://dev.to/devopsfundamentals/networking-fundamentals-bridge-23md)
+- [Python Fundamentals: any](https://dev.to/devopsfundamentals/python-fundamentals-any-3d3c)
+- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
 <!-- BLOG-POST-LIST:END -->
 
