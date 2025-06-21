@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Need to Humanize Your AI Written Content](https://dev.to/montropy/why-you-need-to-humanize-your-ai-written-content-16n6)
-- [VMware Fundamentals: Container Service Extension](https://dev.to/devopsfundamentals/vmware-fundamentals-container-service-extension-jhl)
-- [AWS Fundamentals: Codewhisperer](https://dev.to/devopsfundamentals/aws-fundamentals-codewhisperer-499l)
-- [Cómo emitir comprobantes de pago a SUNAT con NodeJS](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/como-emitir-comprobantes-de-pago-a-sunat-con-nodejs-3d7h)
+- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
+- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
+- [EXCEL KEY ASPECTS FOR DATA ANALYSIS](https://dev.to/john_analytics/excel-key-aspects-for-data-analysis-375k)
+- [What is pure function?](https://dev.to/kittichanr/what-is-pure-function-518)
 <!-- BLOG-POST-LIST:END -->
 
