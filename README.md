@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Tools I Use Every Day as a Startup Founder](https://dev.to/code42cate/5-ai-tools-i-use-every-day-as-a-startup-founder-49ae)
-- [Take a break](https://dev.to/haykerman/take-a-break-578c)
-- [# Eclipse Python Package Transforms LC‑MS Alignment for Untargeted Metabolomics](https://dev.to/maurizio_morri_f7f4bd128c/-eclipse-python-package-transforms-lc-ms-alignment-for-untargeted-metabolomics-2m40)
-- [[Boost]](https://dev.to/rakeshv675/-5c55)
+- [AI Models score ZERO on hard category problems on LiveCodeBench Pro..](https://dev.to/future_ai/ai-models-score-zero-on-hard-category-problems-on-livecodebench-pro-1c8m)
+- [Apple is reportedly considering the acquisition of Perplexity AI](https://dev.to/future_ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-dfo)
+- [apimock-rs v4.3: Dynamic response generation support](https://dev.to/nabbisen/apimock-rs-v43-dynamic-response-generation-support-4f0i)
+- [Explain in 5 Levels of Difficulty: Vibe Coding](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-vibe-coding-4f77)
 <!-- BLOG-POST-LIST:END -->
 
