@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Packer Examples For Vsphere](https://dev.to/devopsfundamentals/vmware-fundamentals-packer-examples-for-vsphere-2mgh)
-- [Weekly Challenge](https://dev.to/simongreennet/weekly-challenge-3ngd)
-- [How do you approach polymorphism in your PHP projects?](https://dev.to/thecodeliner/how-do-you-approach-polymorphism-in-your-php-projects-1i3l)
-- [Konsep dan Implementasi kelas di Bahasa Earl](https://dev.to/dev_nazwashabrina/konsep-dan-implementasi-kelas-di-bahasa-earl-548c)
+- [Top 5 Automation Tools 2025: The Ultimate Guide to Streamlining Your Workflow](https://dev.to/sushant_raj_420bacbb30d0c/top-5-automation-tools-2025-the-ultimate-guide-to-streamlining-your-workflow-3ni4)
+- [Python Fundamentals: asgi](https://dev.to/devopsfundamentals/python-fundamentals-asgi-1m67)
+- [Chess Meets Code: How I Created a Full-Stack Game Using React + MongoDB](https://dev.to/itxnargis/chess-meets-code-how-i-created-a-full-stack-game-using-react-mongodb-2610)
+- [A Sunday Reflection: Coding Apps &amp; New Opportunities](https://dev.to/dilip_kumardk_b41b9418/a-sunday-reflection-coding-apps-new-opportunities-22hp)
 <!-- BLOG-POST-LIST:END -->
 
