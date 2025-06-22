@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VITE-SHADCN-ADMIN](https://dev.to/lei_yuan_145686ea631e8317/vite-shadcn-admin-23b)
-- [Web Application Penetration Testing: How to Hack Like a Hacker &lpar;Before You Find You&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/web-application-penetration-testing-how-to-hack-like-a-hacker-before-you-find-you-f3j)
-- [End-to-End Workflow Automation with Prismatic.io](https://dev.to/rodgayacao01/end-to-end-workflow-automation-with-prismaticio-5ajh)
-- [Building a Resilient Architecture on AWS](https://dev.to/saydotech/building-a-resilient-architecture-on-aws-lkm)
+- [React Suspense: আপনার React অ্যাপ্লিকেশনের লোডিং স্টেটকে সহজ ও সুন্দর করুন &lpar;বাংলায়&rpar;](https://dev.to/electra_nur/react-suspense-aapnaar-react-ayaaplikeshner-loddin-sttettke-shj-o-sundr-krun-baanlaay-4hf1)
+- [Generative AI](https://dev.to/prashant_rajpoot_0e51a2b4/generative-ai-iak)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-4-2kj)
+- [Transforming IT Operations: The Power of AIOps and Generative AI](https://dev.to/vaib/transforming-it-operations-the-power-of-aiops-and-generative-ai-9i7)
 <!-- BLOG-POST-LIST:END -->
 
