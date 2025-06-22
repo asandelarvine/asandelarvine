@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 StudyQuiz v0.1.0 — FastAPI Quiz Engine with Spaced Repetition &amp; CLI Quiz Attempts](https://dev.to/aissalaribi/studyquiz-v010-fastapi-quiz-engine-with-spaced-repetition-cli-quiz-attempts-3a8)
-- [Networking Fundamentals: Bridge](https://dev.to/devopsfundamentals/networking-fundamentals-bridge-23md)
-- [Python Fundamentals: any](https://dev.to/devopsfundamentals/python-fundamentals-any-3d3c)
-- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
+- [📝 Beginner-Friendly Guide &quot;Divide a String Into Groups of Size k&quot; - LeetCode 2138 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-a-string-into-groups-of-size-k-leetcode-2138-c-python--2k80)
+- [The Quiet Gap in How We Message People Today](https://dev.to/supritgandhi/the-quiet-gap-in-how-we-message-people-today-42n5)
+- [Using Cloudinary&#39;s New MCP Server to Scrape Mozarella, Camembert and Parmesan](https://dev.to/jenlooper/using-cloudinarys-new-mcp-server-to-scrape-mozarella-camembert-and-parmesan-1m4b)
+- [Web Mimarisi: Geleceğin Temelleri](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecegin-temelleri-hkh)
 <!-- BLOG-POST-LIST:END -->
 
