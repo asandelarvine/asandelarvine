@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transmitters &lpar;TX&rpar;: The Next API Killer? [Dev Tutorial]](https://dev.to/yannisscherer/transmitters-tx-the-next-api-killer-dev-tutorial-3ggi)
-- [Relationships in Power BI](https://dev.to/maureen_mukami_4268d10eac/relationships-in-power-bi-44a4)
-- [Laravel Tip](https://dev.to/ibrahimalanshor/laravel-tip-426)
-- [How to Create Your Own Laravel String Helper Method Using a Macro](https://dev.to/ibrahimalanshor/how-to-create-your-own-laravel-string-helper-method-using-a-macro-872)
+- [How Standalone Components Changed My Angular Development Forever](https://dev.to/karol_modelski/how-standalone-components-changed-my-angular-development-forever-3jni)
+- [Hey Need help](https://dev.to/raghavendra_reddy_6d45132/hey-need-help-28k7)
+- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
+- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
 <!-- BLOG-POST-LIST:END -->
 
