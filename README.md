@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Your Free Numerology Chart Today – Unlock Your Personal Insights](https://dev.to/lifepurposeapp/get-your-free-numerology-chart-today-unlock-your-personal-insights-3o2f)
-- [Empowering Negotiation Skills: The Impact of Online Learning Platforms on Student Development](https://dev.to/ghummantech/empowering-negotiation-skills-the-impact-of-online-learning-platforms-on-student-development-130h)
-- [New Feature on Percy: Test Case Based Grouping](https://dev.to/anil_csimplifyit_905c/new-feature-on-percy-test-case-based-grouping-1eko)
-- [Programming Entry Level: project ideas oop](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-oop-kai)
+- [VITE-SHADCN-ADMIN](https://dev.to/lei_yuan_145686ea631e8317/vite-shadcn-admin-23b)
+- [Web Application Penetration Testing: How to Hack Like a Hacker &lpar;Before You Find You&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/web-application-penetration-testing-how-to-hack-like-a-hacker-before-you-find-you-f3j)
+- [End-to-End Workflow Automation with Prismatic.io](https://dev.to/rodgayacao01/end-to-end-workflow-automation-with-prismaticio-5ajh)
+- [Building a Resilient Architecture on AWS](https://dev.to/saydotech/building-a-resilient-architecture-on-aws-lkm)
 <!-- BLOG-POST-LIST:END -->
 
