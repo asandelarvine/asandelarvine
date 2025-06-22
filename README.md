@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Standalone Components Changed My Angular Development Forever](https://dev.to/karol_modelski/how-standalone-components-changed-my-angular-development-forever-3jni)
-- [Hey Need help](https://dev.to/raghavendra_reddy_6d45132/hey-need-help-28k7)
-- [My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers](https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci)
-- [Scale APP using Dependency Inversion Principle](https://dev.to/jay818/scale-app-using-dependency-inversion-principle-bgi)
+- [Get Your Free Numerology Chart Today – Unlock Your Personal Insights](https://dev.to/lifepurposeapp/get-your-free-numerology-chart-today-unlock-your-personal-insights-3o2f)
+- [Empowering Negotiation Skills: The Impact of Online Learning Platforms on Student Development](https://dev.to/ghummantech/empowering-negotiation-skills-the-impact-of-online-learning-platforms-on-student-development-130h)
+- [New Feature on Percy: Test Case Based Grouping](https://dev.to/anil_csimplifyit_905c/new-feature-on-percy-test-case-based-grouping-1eko)
+- [Programming Entry Level: project ideas oop](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-oop-kai)
 <!-- BLOG-POST-LIST:END -->
 
