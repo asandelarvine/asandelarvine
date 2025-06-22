@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built My Own JavaScript Form Validator &lpar;and What I Learned Doing It&rpar;](https://dev.to/hollo/why-i-built-my-own-javascript-form-validator-and-what-i-learned-doing-it-oa8)
-- [Graceful Server In Golang](https://dev.to/kyomel/graceful-server-in-golang-36b9)
-- [Machine Learning Fundamentals: a/b testing with python](https://dev.to/devopsfundamentals/machine-learning-fundamentals-ab-testing-with-python-3bmm)
-- [Java Features in 2025](https://dev.to/iammadhankumar/java-features-in-2025-479m)
+- [Free Self-Host AI Agent Workflows with n8n and Cloudflare Tunnel](https://dev.to/dalenguyen/free-self-host-ai-agent-workflows-with-n8n-and-cloudflare-tunnel-h5d)
+- [🧠 Download Smarter: Using Colab + Google Drive to Bypass Slow Direct Downloads](https://dev.to/rushier/download-smarter-using-colab-google-drive-to-bypass-slow-direct-downloads-2e7a)
+- [UI/UX - デザインの基本的な原則](https://dev.to/nabbisen/uiux-dezainnoji-ben-de-nayuan-ze-lf2)
+- [Automating Ghost CMS + MariaDB with Ansible &lpar;the Smart Way&rpar;](https://dev.to/lovestaco/automating-ghost-cms-mariadb-with-ansible-the-smart-way-33bk)
 <!-- BLOG-POST-LIST:END -->
 
