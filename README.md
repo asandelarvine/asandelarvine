@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Automated Tire E-Commerce: WooCommerce + API + SEO = 🛞](https://dev.to/padangostau_71208bc93a723/how-we-automated-tire-e-commerce-woocommerce-api-seo--1h1m)
-- [Unlock Database Perfection: 15 Essential Resources for SQL Normalization Mastery](https://dev.to/vaib/unlock-database-perfection-15-essential-resources-for-sql-normalization-mastery-2f8l)
-- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
-- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
+- [Python Fundamentals: assert](https://dev.to/devopsfundamentals/python-fundamentals-assert-5f1b)
+- [Automation in Action: Scenarios with Proxmox and Ansible](https://dev.to/serafiev/automation-in-action-scenarios-with-proxmox-and-ansible-3dno)
+- [Outbox Pattern: RabbitMQ Publishing Strategies for High-Performance Systems](https://dev.to/eragoo/outbox-pattern-rabbitmq-publishing-strategies-for-high-performance-systems-3haf)
+- [Web NFC and Broadcast Audio URIs](https://dev.to/denladeside/web-nfc-and-broadcast-audio-uris-1oh5)
 <!-- BLOG-POST-LIST:END -->
 
