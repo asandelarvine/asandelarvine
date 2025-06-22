@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Suspense: আপনার React অ্যাপ্লিকেশনের লোডিং স্টেটকে সহজ ও সুন্দর করুন &lpar;বাংলায়&rpar;](https://dev.to/electra_nur/react-suspense-aapnaar-react-ayaaplikeshner-loddin-sttettke-shj-o-sundr-krun-baanlaay-4hf1)
-- [Generative AI](https://dev.to/prashant_rajpoot_0e51a2b4/generative-ai-iak)
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-4-2kj)
-- [Transforming IT Operations: The Power of AIOps and Generative AI](https://dev.to/vaib/transforming-it-operations-the-power-of-aiops-and-generative-ai-9i7)
+- [How We Automated Tire E-Commerce: WooCommerce + API + SEO = 🛞](https://dev.to/padangostau_71208bc93a723/how-we-automated-tire-e-commerce-woocommerce-api-seo--1h1m)
+- [Unlock Database Perfection: 15 Essential Resources for SQL Normalization Mastery](https://dev.to/vaib/unlock-database-perfection-15-essential-resources-for-sql-normalization-mastery-2f8l)
+- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
+- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
 <!-- BLOG-POST-LIST:END -->
 
