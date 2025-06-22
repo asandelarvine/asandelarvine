@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Fundamentals: assert](https://dev.to/devopsfundamentals/python-fundamentals-assert-5f1b)
-- [Automation in Action: Scenarios with Proxmox and Ansible](https://dev.to/serafiev/automation-in-action-scenarios-with-proxmox-and-ansible-3dno)
-- [Outbox Pattern: RabbitMQ Publishing Strategies for High-Performance Systems](https://dev.to/eragoo/outbox-pattern-rabbitmq-publishing-strategies-for-high-performance-systems-3haf)
-- [Web NFC and Broadcast Audio URIs](https://dev.to/denladeside/web-nfc-and-broadcast-audio-uris-1oh5)
+- [Fine-Tuning a Language Model for Summarisation using LoRA](https://dev.to/sri_harikarthik_909342ac/fine-tuning-a-language-model-for-summarisation-using-lora-3lg)
+- [No More Boilerplate: Let AI Generate Your Express.js Endpoints](https://dev.to/ivanivanovv/no-more-boilerplate-let-ai-generate-your-expressjs-endpoints-3mo)
+- [Full stack Postgres](https://dev.to/kamaaaal/full-stack-postgres-1840)
+- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
 <!-- BLOG-POST-LIST:END -->
 
