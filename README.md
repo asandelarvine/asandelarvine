@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning a Language Model for Summarisation using LoRA](https://dev.to/sri_harikarthik_909342ac/fine-tuning-a-language-model-for-summarisation-using-lora-3lg)
-- [No More Boilerplate: Let AI Generate Your Express.js Endpoints](https://dev.to/ivanivanovv/no-more-boilerplate-let-ai-generate-your-expressjs-endpoints-3mo)
-- [Full stack Postgres](https://dev.to/kamaaaal/full-stack-postgres-1840)
-- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
+- [🚀 Build Your Next Online Business with These 12 Powerful Tools](https://dev.to/abubakersiddique771/build-your-next-online-business-with-these-12-powerful-tools-954)
+- [Mission 6 Resume Prep Part One](https://dev.to/theoriginalbpc/mission-6-resume-prep-part-one-ek1)
+- [Nested scrolling of Web components](https://dev.to/liu_yang_fc0e605820ac220c/nested-scrolling-of-web-components-281b)
+- [AlgorithmO #2 — Код на Хъфман за компресиране на данни](https://dev.to/dvt32/algorithmo-2-kod-na-khfman-za-kompriesiranie-na-danni-1c8c)
 <!-- BLOG-POST-LIST:END -->
 
