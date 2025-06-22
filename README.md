@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Login Screen with Multiple Options](https://dev.to/bleart_hyseni_96e2f4b936c/login-screen-with-multiple-options-2i86)
-- [I want to buy a gtx 1080ti will it cause me problems if I buy this video card? or is it a good idea?](https://dev.to/spartans300_0d97d850e608b/i-want-to-buy-a-gtx-1080ti-will-it-cause-me-problems-if-i-buy-this-video-card-or-is-it-a-good-idea-3a43)
-- [🚀 DareMe Entry Point &amp; Logo Animation](https://dev.to/bleart_hyseni_96e2f4b936c/dareme-entry-point-logo-animation-3i4o)
-- [Tried Learning Data Analytics the Hard Way — Here’s What Finally Worked for Me](https://dev.to/vaibhav_tyagi_22/tried-learning-data-analytics-the-hard-way-heres-what-finally-worked-for-me-522o)
+- [Understanding virtualization &amp; containers in the simplest way](https://dev.to/deborahemeni1/understanding-virtualization-containers-in-the-simplest-way-18m3)
+- [🤖 Building Magic Tray: How AI Transformed Educational Game Development](https://dev.to/sujah_ameer/building-magic-tray-how-ai-transformed-educational-game-development-37i9)
+- [Enterprise SQL Server Index Maintenance: Multi-Database Automation with Email Reporting](https://dev.to/georgpiwonka/enterprise-sql-server-index-maintenance-multi-database-automation-with-email-reporting-39b)
+- [Open Ticket: The Best Self-Hosted Discord Support Bot &lpar;2025 Guide&rpar;](https://dev.to/djj123dj/open-ticket-the-best-self-hosted-discord-support-bot-2025-guide-4ji)
 <!-- BLOG-POST-LIST:END -->
 
