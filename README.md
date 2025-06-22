@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Models score ZERO on hard category problems on LiveCodeBench Pro..](https://dev.to/future_ai/ai-models-score-zero-on-hard-category-problems-on-livecodebench-pro-1c8m)
-- [Apple is reportedly considering the acquisition of Perplexity AI](https://dev.to/future_ai/apple-is-reportedly-considering-the-acquisition-of-perplexity-ai-dfo)
-- [apimock-rs v4.3: Dynamic response generation support](https://dev.to/nabbisen/apimock-rs-v43-dynamic-response-generation-support-4f0i)
-- [Explain in 5 Levels of Difficulty: Vibe Coding](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-vibe-coding-4f77)
+- [Domain Password Audit Tool &lpar;DPAT&rpar;](https://dev.to/berilbbj/domain-password-audit-tool-dpat-3k7)
+- [How UK Founders Hire Artificial Intelligence Developers](https://dev.to/kamini_bisht_b566379d4b82/how-uk-founders-hire-artificial-intelligence-developers-l04)
+- [Red Dead Redemption star says he &quot;possibly misled some people&quot; but insists &quot;exciting&quot; news is still on the way](https://dev.to/gg_news/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-2l6p)
+- [Amazon Prime Gaming gets six bonus ‘free&#39; games today, including Tomb Raider I-III Remastered](https://dev.to/gg_news/amazon-prime-gaming-gets-six-bonus-free-games-today-including-tomb-raider-i-iii-remastered-3450)
 <!-- BLOG-POST-LIST:END -->
 
