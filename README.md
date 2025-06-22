@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Fundamentals: CloudWatch Observability Access Manager](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-observability-access-manager-23ia)
-- [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
-- [video-to-format: YouTube Video &amp; Audio Downloader CLI/Node.js Tool](https://dev.to/nguyn_vin_d8ad3f9a2aae7/video-to-format-youtube-video-audio-downloader-clinodejs-tool-4746)
-- [50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/50-days-of-building-a-small-language-model-from-scratch-k50)
+- [VMware Fundamentals: Packer Examples For Vsphere](https://dev.to/devopsfundamentals/vmware-fundamentals-packer-examples-for-vsphere-2mgh)
+- [Weekly Challenge](https://dev.to/simongreennet/weekly-challenge-3ngd)
+- [How do you approach polymorphism in your PHP projects?](https://dev.to/thecodeliner/how-do-you-approach-polymorphism-in-your-php-projects-1i3l)
+- [Konsep dan Implementasi kelas di Bahasa Earl](https://dev.to/dev_nazwashabrina/konsep-dan-implementasi-kelas-di-bahasa-earl-548c)
 <!-- BLOG-POST-LIST:END -->
 
