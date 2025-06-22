@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Beginner-Friendly Guide &quot;Divide a String Into Groups of Size k&quot; - LeetCode 2138 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-a-string-into-groups-of-size-k-leetcode-2138-c-python--2k80)
-- [The Quiet Gap in How We Message People Today](https://dev.to/supritgandhi/the-quiet-gap-in-how-we-message-people-today-42n5)
-- [Using Cloudinary&#39;s New MCP Server to Scrape Mozarella, Camembert and Parmesan](https://dev.to/jenlooper/using-cloudinarys-new-mcp-server-to-scrape-mozarella-camembert-and-parmesan-1m4b)
-- [Web Mimarisi: Geleceğin Temelleri](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecegin-temelleri-hkh)
+- [Terraform Fundamentals: CloudWatch Observability Access Manager](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-observability-access-manager-23ia)
+- [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
+- [video-to-format: YouTube Video &amp; Audio Downloader CLI/Node.js Tool](https://dev.to/nguyn_vin_d8ad3f9a2aae7/video-to-format-youtube-video-audio-downloader-clinodejs-tool-4746)
+- [50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/50-days-of-building-a-small-language-model-from-scratch-k50)
 <!-- BLOG-POST-LIST:END -->
 
