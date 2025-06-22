@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Self-Host AI Agent Workflows with n8n and Cloudflare Tunnel](https://dev.to/dalenguyen/free-self-host-ai-agent-workflows-with-n8n-and-cloudflare-tunnel-h5d)
-- [🧠 Download Smarter: Using Colab + Google Drive to Bypass Slow Direct Downloads](https://dev.to/rushier/download-smarter-using-colab-google-drive-to-bypass-slow-direct-downloads-2e7a)
-- [UI/UX - デザインの基本的な原則](https://dev.to/nabbisen/uiux-dezainnoji-ben-de-nayuan-ze-lf2)
-- [Automating Ghost CMS + MariaDB with Ansible &lpar;the Smart Way&rpar;](https://dev.to/lovestaco/automating-ghost-cms-mariadb-with-ansible-the-smart-way-33bk)
+- [Multiplayer Mode – Challenge a Friend!](https://dev.to/fatlindosmanii/multiplayer-mode-challenge-a-friend-fao)
+- [Gamifying Challenges – Points, Streaks &amp; Badges](https://dev.to/fatlindosmanii/gamifying-challenges-points-streaks-badges-31f)
+- [Cryptocurrency &amp; DeFi Portfolio Management Agent](https://dev.to/ai_agi/cryptocurrency-defi-portfolio-management-agent-21m5)
+- [Notifications in React Native – Real-time Reactions](https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m)
 <!-- BLOG-POST-LIST:END -->
 
