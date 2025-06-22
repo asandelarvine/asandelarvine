@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build Your Next Online Business with These 12 Powerful Tools](https://dev.to/abubakersiddique771/build-your-next-online-business-with-these-12-powerful-tools-954)
-- [Mission 6 Resume Prep Part One](https://dev.to/theoriginalbpc/mission-6-resume-prep-part-one-ek1)
-- [Nested scrolling of Web components](https://dev.to/liu_yang_fc0e605820ac220c/nested-scrolling-of-web-components-281b)
-- [AlgorithmO #2 — Код на Хъфман за компресиране на данни](https://dev.to/dvt32/algorithmo-2-kod-na-khfman-za-kompriesiranie-na-danni-1c8c)
+- [A Month with Supercode.sh: How I Learned to Stop Worrying and Love the Cursor agent](https://dev.to/john_p_wilson/a-month-with-supercodesh-how-i-learned-to-stop-worrying-and-love-the-cursor-agent-11ml)
+- [🎧 Introducing OpenSpot — Your Gateway to Limitless Music 🎶](https://dev.to/blackhatdevx/introducing-openspot-your-gateway-to-limitless-music-4ob9)
+- [TanStack Router: How to protect routes with an authentication guard](https://dev.to/this-is-learning/tanstack-router-how-to-protect-routes-with-an-authentication-guard-1laj)
+- [The One Productivity Tool You Didn&#39;t Know You Can&#39;t Live Without](https://dev.to/saarshechter/the-one-productivity-tool-you-didnt-know-you-cant-live-without-4378)
 <!-- BLOG-POST-LIST:END -->
 
