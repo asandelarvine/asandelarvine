@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiplayer Mode – Challenge a Friend!](https://dev.to/fatlindosmanii/multiplayer-mode-challenge-a-friend-fao)
-- [Gamifying Challenges – Points, Streaks &amp; Badges](https://dev.to/fatlindosmanii/gamifying-challenges-points-streaks-badges-31f)
-- [Cryptocurrency &amp; DeFi Portfolio Management Agent](https://dev.to/ai_agi/cryptocurrency-defi-portfolio-management-agent-21m5)
-- [Notifications in React Native – Real-time Reactions](https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m)
+- [🔐 Login Screen with Multiple Options](https://dev.to/bleart_hyseni_96e2f4b936c/login-screen-with-multiple-options-2i86)
+- [I want to buy a gtx 1080ti will it cause me problems if I buy this video card? or is it a good idea?](https://dev.to/spartans300_0d97d850e608b/i-want-to-buy-a-gtx-1080ti-will-it-cause-me-problems-if-i-buy-this-video-card-or-is-it-a-good-idea-3a43)
+- [🚀 DareMe Entry Point &amp; Logo Animation](https://dev.to/bleart_hyseni_96e2f4b936c/dareme-entry-point-logo-animation-3i4o)
+- [Tried Learning Data Analytics the Hard Way — Here’s What Finally Worked for Me](https://dev.to/vaibhav_tyagi_22/tried-learning-data-analytics-the-hard-way-heres-what-finally-worked-for-me-522o)
 <!-- BLOG-POST-LIST:END -->
 
