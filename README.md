@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How One Blog Post Became a Thread, Newsletter, and LinkedIn Post with Runner H](https://dev.to/protik_49/how-one-blog-post-became-a-thread-newsletter-and-linkedin-post-with-runner-h-n0o)
+- [Medical RAG Research with txtai](https://dev.to/neuml/medical-rag-research-with-txtai-2b35)
+- [Quando foi que a gente parou de fazer perguntas?](https://dev.to/analaura/quando-foi-que-a-gente-parou-de-fazer-perguntas-45hc)
 - [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
-- [springboot.firststeps&lpar;P2&rpar;](https://dev.to/learnspringtools/springbootfirststepsp2-4o52)
-- [springboot.firststeps&lpar;lib&rpar;](https://dev.to/learnspringtools/springbootfirststepslib-54ki)
-- [Declarative Programming: SQL, HTML, CSS, Prolog Guide](https://dev.to/vaib/declarative-programming-sql-html-css-prolog-guide-nd0)
 <!-- BLOG-POST-LIST:END -->
 
