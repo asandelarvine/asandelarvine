@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/marcin_szolke_ea25b6d741c/-33ch)
-- [🚀 Zero-Downtime In-Place Deployments with AWS CodeDeploy, Auto Scaling, and Rollback](https://dev.to/latchudevops/zero-downtime-in-place-deployments-with-aws-codedeploy-auto-scaling-and-rollback-3p7n)
-- [🔐 &quot;My Password Wasn&#39;t Enough&quot;: Why You Need Multi-Factor Authentication Now More Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/my-password-wasnt-enough-why-you-need-multi-factor-authentication-now-more-than-ever-ol3)
-- [How Custom Connectors Expand Power Platform Functionality](https://dev.to/geekktech/how-custom-connectors-expand-power-platform-functionality-b7e)
+- [Deploy Windows VM with NSG and IIS using Terraform on Azure](https://dev.to/smallsun2025/deploy-windows-vm-with-nsg-and-iis-using-terraform-on-azure-4485)
+- [📦 What’s in the SIP Envelope? &lpar;A Peek at SDP&rpar;](https://dev.to/sip_games/whats-in-the-sip-envelope-a-peek-at-sdp-4mim)
+- [Meme Monday](https://dev.to/ben/meme-monday-jg8)
+- [Automating PostgreSQL Backups with a Shell Script](https://dev.to/azayshrestha/automating-postgresql-backups-with-a-shell-script-4m8h)
 <!-- BLOG-POST-LIST:END -->
 
