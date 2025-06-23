@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sphere v0.2.0: Introducing a Public Hub for Shareable, Sandboxed Commands](https://dev.to/spheredevs/sphere-v020-introducing-a-public-hub-for-shareable-sandboxed-commands-2c4d)
-- [Display and Edit DateTime Correctly with Time Zone Awareness in Blazor Server](https://dev.to/arika0093/display-and-edit-datetime-correctly-with-time-zone-awareness-in-blazor-server-2p4h)
-- [wtfutil/wtf release v0.44.0 and my contribution long forgotten](https://dev.to/jonasbn/wtfutilwtf-release-v0440-and-my-contribution-long-forgotten-2cgj)
-- [Day 3 : DX-First Thinking: Why I Added @EnableTenantIsolation to My Spring Boot Starter](https://dev.to/rahulsbhatt/day-3-dx-first-thinking-why-i-added-enabletenantisolation-to-my-spring-boot-starter-5fba)
+- [Optimizing Async Operations: When Promise.all Destroys Your Performance &lpar;And When to Use Loops Instead&rpar;](https://dev.to/alex_aslam/optimizing-async-operations-when-promiseall-destroys-your-performance-and-when-to-use-loops-35bo)
+- [I Built the Most Advanced Bolt.new Project Ever - And I&#39;m Hitting Platform Limits](https://dev.to/alexsofroniev/i-built-the-most-advanced-boltnew-project-ever-and-im-hitting-platform-limits-32mp)
+- [The David vs. Goliath Playbook: How Small Teams Can Build Big Tech-Caliber AI Customer Experiences](https://dev.to/sonnia_okoye/the-david-vs-goliath-playbook-how-small-teams-can-build-big-tech-caliber-ai-customer-experiences-24p3)
+- [Test Drive Before You Buy: Your Guide to AI Code Assistant Trials in 2025](https://dev.to/bekahhw/test-drive-before-you-buy-your-guide-to-ai-code-assistant-trials-in-2025-14pk)
 <!-- BLOG-POST-LIST:END -->
 
