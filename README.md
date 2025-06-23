@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out last week&#39;s Project of the Week!](https://dev.to/riyanapatel/check-out-last-weeks-project-of-the-week-2913)
-- [I Taught My AI Agent to Find What Isn&#39;t There. It Found Million-Dollar Clients.](https://dev.to/automatedprospect/i-taught-my-ai-agent-to-find-what-isnt-there-it-found-million-dollar-clients-2acl)
-- [Fitness Automation System 💪](https://dev.to/ximet/fitness-automation-system-49j4)
-- [HTTP STATUS CODES](https://dev.to/mahbubur001/http-status-codes-59ji)
+- [🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa)
+- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
+- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
+- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
 <!-- BLOG-POST-LIST:END -->
 
