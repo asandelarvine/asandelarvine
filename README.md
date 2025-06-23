@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Know When It&#39;s Time to Leave a Job &lpar;In 8 Signs&rpar;](https://dev.to/canro91/how-to-know-when-its-time-to-leave-a-job-in-8-signs-i85)
-- [Deep Work vs Daily Standups: The Productivity Battle Every Dev Team Faces](https://dev.to/teamcamp/deep-work-vs-daily-standups-the-productivity-battle-every-dev-team-faces-4j5i)
-- [SQL JOIN Types and Differences Explained](https://dev.to/freyasky/sql-join-types-and-differences-explained-558k)
-- [🏛️ Stop Writing Brittle Tests: Your Blueprint for a Scalable TypeScript POM](https://dev.to/idavidov13/stop-writing-brittle-tests-your-blueprint-for-a-scalable-typescript-pom-3jm0)
+- [Getting Started with Selenium Testing](https://dev.to/testgrid_io/getting-started-with-selenium-testing-46jl)
+- [👨‍💻 Master Event Delegation in JavaScript – A Must-Know Technique!](https://dev.to/webtechnology_tutorials_f/master-event-delegation-in-javascript-a-must-know-technique-11e4)
+- [Rsync Vulnerabilities Open the Door to Remote Exploits](https://dev.to/sharon_42e16b8da44dabde6d/rsync-vulnerabilities-open-the-door-to-remote-exploits-3bgm)
+- [🧼 Data Hygiene: The Real Foundation of Angular Front-End Architecture](https://dev.to/fmondo/data-hygiene-the-real-foundation-of-angular-front-end-architecture-41m4)
 <!-- BLOG-POST-LIST:END -->
 
