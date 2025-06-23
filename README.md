@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Selenium Testing](https://dev.to/testgrid_io/getting-started-with-selenium-testing-46jl)
-- [👨‍💻 Master Event Delegation in JavaScript – A Must-Know Technique!](https://dev.to/webtechnology_tutorials_f/master-event-delegation-in-javascript-a-must-know-technique-11e4)
-- [Rsync Vulnerabilities Open the Door to Remote Exploits](https://dev.to/sharon_42e16b8da44dabde6d/rsync-vulnerabilities-open-the-door-to-remote-exploits-3bgm)
-- [🧼 Data Hygiene: The Real Foundation of Angular Front-End Architecture](https://dev.to/fmondo/data-hygiene-the-real-foundation-of-angular-front-end-architecture-41m4)
+- [🔥 What’s New in React Native? Major Updates Every Dev Should Know](https://dev.to/muhayminbinmehmood/whats-new-in-react-native-major-updates-every-dev-should-know-3e9j)
+- [Mastering URL Routing in a Lightweight Python Web Framework](https://dev.to/hexshift/mastering-url-routing-in-a-lightweight-python-web-framework-2i99)
+- [History of Java: evolution, legal battles with Microsoft, Mars exploration, Spring, Gradle and Maven, IDEA and Eclipse](https://dev.to/pvsdev/history-of-java-evolution-legal-battles-with-microsoft-mars-exploration-spring-gradle-and-55na)
+- [今更聞けない？ビットコインとは何か？初心者向けに仕組みと特徴をわかりやすく解説](https://dev.to/buddy_nft_26352f73c602348/jin-geng-wen-kenaibitutokointohahe-kachu-xin-zhe-xiang-kenishi-zu-mitote-zheng-wowakariyasukujie-shuo-4mmb)
 <!-- BLOG-POST-LIST:END -->
 
