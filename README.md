@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Password Audit Tool &lpar;DPAT&rpar;](https://dev.to/berilbbj/domain-password-audit-tool-dpat-3k7)
-- [How UK Founders Hire Artificial Intelligence Developers](https://dev.to/kamini_bisht_b566379d4b82/how-uk-founders-hire-artificial-intelligence-developers-l04)
-- [Red Dead Redemption star says he &quot;possibly misled some people&quot; but insists &quot;exciting&quot; news is still on the way](https://dev.to/gg_news/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-2l6p)
-- [Amazon Prime Gaming gets six bonus ‘free&#39; games today, including Tomb Raider I-III Remastered](https://dev.to/gg_news/amazon-prime-gaming-gets-six-bonus-free-games-today-including-tomb-raider-i-iii-remastered-3450)
+- [Simplified Usage of Search Component](https://dev.to/flfljh/simplified-usage-of-search-component-1pda)
+- [Implementing Custom Status Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-custom-status-bar-in-harmonyos-next-2a06)
+- [Border Usage and Individual Direction in HarmonyOS NextSettings](https://dev.to/flfljh/border-usage-and-individual-direction-in-harmonyos-nextsettings-502c)
+- [The AI Revolution: Reshaping the Workforce, Not Necessarily Replacing It Entirely](https://dev.to/dilip_muthuraj/the-ai-revolution-reshaping-the-workforce-not-necessarily-replacing-it-entirely-5ggh)
 <!-- BLOG-POST-LIST:END -->
 
