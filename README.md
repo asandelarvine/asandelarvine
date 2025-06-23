@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker containers vs. Virtual machines: What&#39;s the difference?](https://dev.to/riteshkokam/docker-containers-vs-virtual-machines-whats-the-difference-4i22)
-- [Building Faster Apps with Dart 3.8: New Features Explained](https://dev.to/mahmoud-saeed/building-faster-apps-with-dart-38-new-features-explained-2ak2)
-- [Automate MongoDB Database Backups with C# Console Application and Windows Task Scheduler](https://dev.to/auyeungdavid_2847435260/automate-mongodb-database-backups-with-c-console-application-and-windows-task-scheduler-4co8)
-- [NodeJS Fundamentals: setter](https://dev.to/devopsfundamentals/nodejs-fundamentals-setter-2ag)
+- [Juneteenth Journey - A Celebration of Freedom](https://dev.to/kelvincode1234/juneteenth-journey-a-celebration-of-freedom-1fka)
+- [I appreciated how the article shows Ashkan Rajaee prioritizing clarity over chaos while others were still reacting.](https://dev.to/kierwolf20/i-appreciated-how-the-article-shows-ashkan-rajaee-prioritizing-clarity-over-chaos-while-others-were-5d9l)
+- [What is an API? And Why Data Architecture Depends on Them](https://dev.to/alexmercedcoder/what-is-an-api-and-why-data-architecture-depends-on-them-53db)
+- [Quarkus 3 application on AWS Lambda- Part 6 Optimization strategies for the cold and warm starts](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-6-optimization-strategies-for-the-cold-and-warm-starts-588m)
 <!-- BLOG-POST-LIST:END -->
 
