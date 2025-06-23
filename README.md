@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛒 Thinking of Migrating to Shopify in 2025? Here’s Your Go-To Checklist](https://dev.to/fourfoldtechofficial/thinking-of-migrating-to-shopify-in-2025-heres-your-go-to-checklist-36j6)
-- [🦊 Modernize your CI/CD with CI/CD Catalog](https://dev.to/zenika/modernize-your-cicd-with-cicd-catalog-7b2)
-- [Java syllabus](https://dev.to/jeya_lakshmi_c417e8c65649/java-syllabus-kli)
-- [Top 10 Deployment Tools Developers Are Loving in 2025 &lpar;Based on Usability, Not Hype&rpar;](https://dev.to/jevin/top-10-deployment-tools-developers-are-loving-in-2025-based-on-usability-not-hype-ljm)
+- [👁️‍🗨️ The Haunting of AquaScript: Movies Challenge Has Begun...](https://dev.to/hanzla-baig/the-haunting-of-aquascript-movies-challenge-has-begun-3iij)
+- [Express vs NestJS: Which Framework Actually Delivers Better Performance? [2025]](https://dev.to/mahmoud-saeed/express-vs-nestjs-which-framework-actually-delivers-better-performance-2025-5fkm)
+- [How Atlassian’s Forge Quest Hackathon Helped Me Revive My Postman Doc App](https://dev.to/biomathcode/how-atlassians-forge-quest-hackathon-helped-me-revive-my-postman-doc-app-42en)
+- [This deserves a wider audience. Honest, helpful, and reflective of what Ashkan Rajaee advocates in the entrepreneurial journey.](https://dev.to/techtalk/this-deserves-a-wider-audience-honest-helpful-and-reflective-of-what-ashkan-rajaee-advocates-in-2cnk)
 <!-- BLOG-POST-LIST:END -->
 
