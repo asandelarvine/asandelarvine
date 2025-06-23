@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How One Blog Post Became a Thread, Newsletter, and LinkedIn Post with Runner H](https://dev.to/protik_49/how-one-blog-post-became-a-thread-newsletter-and-linkedin-post-with-runner-h-n0o)
-- [Medical RAG Research with txtai](https://dev.to/neuml/medical-rag-research-with-txtai-2b35)
-- [Quando foi que a gente parou de fazer perguntas?](https://dev.to/analaura/quando-foi-que-a-gente-parou-de-fazer-perguntas-45hc)
-- [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
+- [Handling Concurrency with Row Level Locking in PostgreSQL](https://dev.to/nickcosmo/handling-concurrency-with-row-level-locking-in-postgresql-1p3)
+- [Comparing Software Architecture Documentation Models and When to Use Them](https://dev.to/adityasatrio/comparing-software-architecture-documentation-models-and-when-to-use-them-495n)
+- [Boost Your Code: 15 Essential Visual Studio Extensions Every Developer Needs](https://dev.to/vaib/boost-your-code-15-essential-visual-studio-extensions-every-developer-needs-53p5)
+- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
 <!-- BLOG-POST-LIST:END -->
 
