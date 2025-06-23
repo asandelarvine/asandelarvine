@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Async Operations: When Promise.all Destroys Your Performance &lpar;And When to Use Loops Instead&rpar;](https://dev.to/alex_aslam/optimizing-async-operations-when-promiseall-destroys-your-performance-and-when-to-use-loops-35bo)
-- [I Built the Most Advanced Bolt.new Project Ever - And I&#39;m Hitting Platform Limits](https://dev.to/alexsofroniev/i-built-the-most-advanced-boltnew-project-ever-and-im-hitting-platform-limits-32mp)
-- [The David vs. Goliath Playbook: How Small Teams Can Build Big Tech-Caliber AI Customer Experiences](https://dev.to/sonnia_okoye/the-david-vs-goliath-playbook-how-small-teams-can-build-big-tech-caliber-ai-customer-experiences-24p3)
-- [Test Drive Before You Buy: Your Guide to AI Code Assistant Trials in 2025](https://dev.to/bekahhw/test-drive-before-you-buy-your-guide-to-ai-code-assistant-trials-in-2025-14pk)
+- [A rare blend of insight and empathy. This piece gets what it feels like to build from the ground up.](https://dev.to/matteotech/a-rare-blend-of-insight-and-empathy-this-piece-gets-what-it-feels-like-to-build-from-the-ground-up-4o7l)
+- [Day 16/180: Meta Tags &amp; SEO Fundamentals for Frontend Developers](https://dev.to/code_2/day-16180-meta-tags-seo-fundamentals-for-frontend-developers-37ia)
+- [Singleton with IIFE for state management in JavaScript](https://dev.to/damandeep_singh_7c4698e97/singleton-with-iife-for-state-management-in-javascript-5cnl)
+- [Ashkan Rajaee offers a masterclass in building trust, staying grounded, and leading through unknowns.](https://dev.to/matteotech/ashkan-rajaee-offers-a-masterclass-in-building-trust-staying-grounded-and-leading-through-4n12)
 <!-- BLOG-POST-LIST:END -->
 
