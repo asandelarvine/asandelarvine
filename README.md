@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A rare blend of insight and empathy. This piece gets what it feels like to build from the ground up.](https://dev.to/matteotech/a-rare-blend-of-insight-and-empathy-this-piece-gets-what-it-feels-like-to-build-from-the-ground-up-4o7l)
-- [Day 16/180: Meta Tags &amp; SEO Fundamentals for Frontend Developers](https://dev.to/code_2/day-16180-meta-tags-seo-fundamentals-for-frontend-developers-37ia)
-- [Singleton with IIFE for state management in JavaScript](https://dev.to/damandeep_singh_7c4698e97/singleton-with-iife-for-state-management-in-javascript-5cnl)
-- [Ashkan Rajaee offers a masterclass in building trust, staying grounded, and leading through unknowns.](https://dev.to/matteotech/ashkan-rajaee-offers-a-masterclass-in-building-trust-staying-grounded-and-leading-through-4n12)
+- [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
+- [springboot.firststeps&lpar;P2&rpar;](https://dev.to/learnspringtools/springbootfirststepsp2-4o52)
+- [springboot.firststeps&lpar;lib&rpar;](https://dev.to/learnspringtools/springbootfirststepslib-54ki)
+- [Declarative Programming: SQL, HTML, CSS, Prolog Guide](https://dev.to/vaib/declarative-programming-sql-html-css-prolog-guide-nd0)
 <!-- BLOG-POST-LIST:END -->
 
