@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Juneteenth Journey - A Celebration of Freedom](https://dev.to/kelvincode1234/juneteenth-journey-a-celebration-of-freedom-1fka)
-- [I appreciated how the article shows Ashkan Rajaee prioritizing clarity over chaos while others were still reacting.](https://dev.to/kierwolf20/i-appreciated-how-the-article-shows-ashkan-rajaee-prioritizing-clarity-over-chaos-while-others-were-5d9l)
-- [What is an API? And Why Data Architecture Depends on Them](https://dev.to/alexmercedcoder/what-is-an-api-and-why-data-architecture-depends-on-them-53db)
-- [Quarkus 3 application on AWS Lambda- Part 6 Optimization strategies for the cold and warm starts](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-6-optimization-strategies-for-the-cold-and-warm-starts-588m)
+- [Check out last week&#39;s Project of the Week!](https://dev.to/riyanapatel/check-out-last-weeks-project-of-the-week-2913)
+- [I Taught My AI Agent to Find What Isn&#39;t There. It Found Million-Dollar Clients.](https://dev.to/automatedprospect/i-taught-my-ai-agent-to-find-what-isnt-there-it-found-million-dollar-clients-2acl)
+- [Fitness Automation System 💪](https://dev.to/ximet/fitness-automation-system-49j4)
+- [HTTP STATUS CODES](https://dev.to/mahbubur001/http-status-codes-59ji)
 <!-- BLOG-POST-LIST:END -->
 
