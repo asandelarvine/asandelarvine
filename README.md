@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 What’s New in React Native? Major Updates Every Dev Should Know](https://dev.to/muhayminbinmehmood/whats-new-in-react-native-major-updates-every-dev-should-know-3e9j)
-- [Mastering URL Routing in a Lightweight Python Web Framework](https://dev.to/hexshift/mastering-url-routing-in-a-lightweight-python-web-framework-2i99)
-- [History of Java: evolution, legal battles with Microsoft, Mars exploration, Spring, Gradle and Maven, IDEA and Eclipse](https://dev.to/pvsdev/history-of-java-evolution-legal-battles-with-microsoft-mars-exploration-spring-gradle-and-55na)
-- [今更聞けない？ビットコインとは何か？初心者向けに仕組みと特徴をわかりやすく解説](https://dev.to/buddy_nft_26352f73c602348/jin-geng-wen-kenaibitutokointohahe-kachu-xin-zhe-xiang-kenishi-zu-mitote-zheng-wowakariyasukujie-shuo-4mmb)
+- [Patterns of Enterprise Application Architecture - Data Source Patterns &lpar;2&rpar;](https://dev.to/edgaremmanuel/patterns-of-enterprise-application-architecture-data-source-patterns-2-3f4n)
+- [Build and Share Your Own Private AI Assistant Using Jan and Pinggy](https://dev.to/lightningdev123/build-and-share-your-own-private-ai-assistant-using-jan-and-pinggy-4g1k)
+- [[Boost]](https://dev.to/hadil/-3m1f)
+- [🎌 Bring Anime to Life on the Web: How I Built an Interactive One Piece Website with GSAP](https://dev.to/bharath_d_2005/bring-anime-to-life-on-the-web-how-i-built-an-interactive-one-piece-website-with-gsap-7a0)
 <!-- BLOG-POST-LIST:END -->
 
