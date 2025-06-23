@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From DevOps to Internal Developer Platforms &lpar;IDPs&rpar;: Why Enterprises Are Building Golden Paths](https://dev.to/abhayit2000/from-devops-to-internal-developer-platforms-idps-why-enterprises-are-building-golden-paths-21k4)
-- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
-- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
-- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
+- [🛒 Thinking of Migrating to Shopify in 2025? Here’s Your Go-To Checklist](https://dev.to/fourfoldtechofficial/thinking-of-migrating-to-shopify-in-2025-heres-your-go-to-checklist-36j6)
+- [🦊 Modernize your CI/CD with CI/CD Catalog](https://dev.to/zenika/modernize-your-cicd-with-cicd-catalog-7b2)
+- [Java syllabus](https://dev.to/jeya_lakshmi_c417e8c65649/java-syllabus-kli)
+- [Top 10 Deployment Tools Developers Are Loving in 2025 &lpar;Based on Usability, Not Hype&rpar;](https://dev.to/jevin/top-10-deployment-tools-developers-are-loving-in-2025-based-on-usability-not-hype-ljm)
 <!-- BLOG-POST-LIST:END -->
 
