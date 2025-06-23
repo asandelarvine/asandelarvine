@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👁️‍🗨️ The Haunting of AquaScript: Movies Challenge Has Begun...](https://dev.to/hanzla-baig/the-haunting-of-aquascript-movies-challenge-has-begun-3iij)
-- [Express vs NestJS: Which Framework Actually Delivers Better Performance? [2025]](https://dev.to/mahmoud-saeed/express-vs-nestjs-which-framework-actually-delivers-better-performance-2025-5fkm)
-- [How Atlassian’s Forge Quest Hackathon Helped Me Revive My Postman Doc App](https://dev.to/biomathcode/how-atlassians-forge-quest-hackathon-helped-me-revive-my-postman-doc-app-42en)
-- [This deserves a wider audience. Honest, helpful, and reflective of what Ashkan Rajaee advocates in the entrepreneurial journey.](https://dev.to/techtalk/this-deserves-a-wider-audience-honest-helpful-and-reflective-of-what-ashkan-rajaee-advocates-in-2cnk)
+- [Docker containers vs. Virtual machines: What&#39;s the difference?](https://dev.to/riteshkokam/docker-containers-vs-virtual-machines-whats-the-difference-4i22)
+- [Building Faster Apps with Dart 3.8: New Features Explained](https://dev.to/mahmoud-saeed/building-faster-apps-with-dart-38-new-features-explained-2ak2)
+- [Automate MongoDB Database Backups with C# Console Application and Windows Task Scheduler](https://dev.to/auyeungdavid_2847435260/automate-mongodb-database-backups-with-c-console-application-and-windows-task-scheduler-4co8)
+- [NodeJS Fundamentals: setter](https://dev.to/devopsfundamentals/nodejs-fundamentals-setter-2ag)
 <!-- BLOG-POST-LIST:END -->
 
