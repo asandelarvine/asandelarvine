@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Windows VM with NSG and IIS using Terraform on Azure](https://dev.to/smallsun2025/deploy-windows-vm-with-nsg-and-iis-using-terraform-on-azure-4485)
-- [📦 What’s in the SIP Envelope? &lpar;A Peek at SDP&rpar;](https://dev.to/sip_games/whats-in-the-sip-envelope-a-peek-at-sdp-4mim)
-- [Meme Monday](https://dev.to/ben/meme-monday-jg8)
-- [Automating PostgreSQL Backups with a Shell Script](https://dev.to/azayshrestha/automating-postgresql-backups-with-a-shell-script-4m8h)
+- [From DevOps to Internal Developer Platforms &lpar;IDPs&rpar;: Why Enterprises Are Building Golden Paths](https://dev.to/abhayit2000/from-devops-to-internal-developer-platforms-idps-why-enterprises-are-building-golden-paths-21k4)
+- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
+- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
+- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
 <!-- BLOG-POST-LIST:END -->
 
