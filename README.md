@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Usage of Search Component](https://dev.to/flfljh/simplified-usage-of-search-component-1pda)
-- [Implementing Custom Status Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-custom-status-bar-in-harmonyos-next-2a06)
-- [Border Usage and Individual Direction in HarmonyOS NextSettings](https://dev.to/flfljh/border-usage-and-individual-direction-in-harmonyos-nextsettings-502c)
-- [The AI Revolution: Reshaping the Workforce, Not Necessarily Replacing It Entirely](https://dev.to/dilip_muthuraj/the-ai-revolution-reshaping-the-workforce-not-necessarily-replacing-it-entirely-5ggh)
+- [🚀 2 Days of Innovation &amp; Learning at the AWS Bootcamp with GTU! Grateful for growth, skills &amp; amazing community! 🙌💡](https://dev.to/parmar_smit_983ce4648c148/2-days-of-innovation-learning-at-the-aws-bootcamp-with-gtu-grateful-for-growth-skills--1l8i)
+- [Imitation Box Horse - Homepage Activity Configuration &lpar;5&rpar;](https://dev.to/whl15290959515/imitation-box-horse-homepage-activity-configuration-5-3pn)
+- [Imitation Box Horse - Home Module Configuration &lpar;4&rpar;](https://dev.to/whl15290959515/imitation-box-horse-home-module-configuration-4-21oi)
+- [Clean Architecture in Go: A Practical Guide with go-clean-arch](https://dev.to/leapcell/clean-architecture-in-go-a-practical-guide-with-go-clean-arch-51h7)
 <!-- BLOG-POST-LIST:END -->
 
