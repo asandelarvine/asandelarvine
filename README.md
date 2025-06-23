@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns of Enterprise Application Architecture - Data Source Patterns &lpar;2&rpar;](https://dev.to/edgaremmanuel/patterns-of-enterprise-application-architecture-data-source-patterns-2-3f4n)
-- [Build and Share Your Own Private AI Assistant Using Jan and Pinggy](https://dev.to/lightningdev123/build-and-share-your-own-private-ai-assistant-using-jan-and-pinggy-4g1k)
-- [[Boost]](https://dev.to/hadil/-3m1f)
-- [🎌 Bring Anime to Life on the Web: How I Built an Interactive One Piece Website with GSAP](https://dev.to/bharath_d_2005/bring-anime-to-life-on-the-web-how-i-built-an-interactive-one-piece-website-with-gsap-7a0)
+- [[Boost]](https://dev.to/marcin_szolke_ea25b6d741c/-33ch)
+- [🚀 Zero-Downtime In-Place Deployments with AWS CodeDeploy, Auto Scaling, and Rollback](https://dev.to/latchudevops/zero-downtime-in-place-deployments-with-aws-codedeploy-auto-scaling-and-rollback-3p7n)
+- [🔐 &quot;My Password Wasn&#39;t Enough&quot;: Why You Need Multi-Factor Authentication Now More Than Ever](https://dev.to/okoye_ndidiamaka_5e3b7d30/my-password-wasnt-enough-why-you-need-multi-factor-authentication-now-more-than-ever-ol3)
+- [How Custom Connectors Expand Power Platform Functionality](https://dev.to/geekktech/how-custom-connectors-expand-power-platform-functionality-b7e)
 <!-- BLOG-POST-LIST:END -->
 
