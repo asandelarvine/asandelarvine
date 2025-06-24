@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview experiences through my mistake and Careless:](https://dev.to/vigneshwaralingam/interview-experiences-through-my-mistake-and-careless-32e5)
-- [How to Give Your AI Agents Real-Time Search Superpowers with Tavily](https://dev.to/abdibrokhim/how-to-give-your-ai-agents-real-time-search-superpowers-with-tavily-3398)
-- [🌐 Synthetic Testing in Production: The New QA Frontier](https://dev.to/vaibhavkuls/synthetic-testing-in-production-the-new-qa-frontier-3820)
-- [Relatable, actionable, and real. Loved how practical yet human this piece feels.](https://dev.to/moorethanjim/relatable-actionable-and-real-loved-how-practical-yet-human-this-piece-feels-5a38)
+- [It’s refreshing to read something that doesn’t pretend building a business is easy or instant. Thanks for this.](https://dev.to/edwardvinke/its-refreshing-to-read-something-that-doesnt-pretend-building-a-business-is-easy-or-instant-543e)
+- [🚀 Introducing blaze-install: A Faster, Modern Alternative to npm for Node.js](https://dev.to/edouards_landscaping_0a01/introducing-blaze-install-a-faster-modern-alternative-to-npm-for-nodejs-1553)
+- [Machine Learning Fundamentals: accuracy with python](https://dev.to/devopsfundamentals/machine-learning-fundamentals-accuracy-with-python-54cc)
+- [Building an agency site to showcase services and publish blogs. Is it better to code it from scratch for full control, or use a customizable template for a faster launch? Looking for perspectives from others who’ve faced this decision.](https://dev.to/chrisywz/building-an-agency-site-to-showcase-services-and-publish-blogs-is-it-better-to-code-it-from-3nab)
 <!-- BLOG-POST-LIST:END -->
 
