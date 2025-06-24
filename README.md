@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Try VeltoPHP | Lightweight and simple RVC PHP Framework](https://dev.to/veltophp/try-veltophp-lightweight-and-simple-rvc-php-framework-1kcd)
-- [GCP Fundamentals: Contact Center AI Platform API](https://dev.to/devopsfundamentals/gcp-fundamentals-contact-center-ai-platform-api-5ld)
-- [A New Lightweight Framework for AI Training: Easy, Modular, Ray-Free](https://dev.to/labubu_donna/a-new-lightweight-framework-for-ai-training-easy-modular-ray-free-5gdm)
-- [Using a database in the Cangjie development language](https://dev.to/youlanjihua/using-a-database-in-the-cangjie-development-language-32pl)
+- [What makes an app truly user-friendly? It&#39;s not just about how it looks, but how it feels to use. I focus on practical UX, making sure every click and interaction is smooth and intuitive. That&#39;s the core of great web development! ✨ #UserExperience #WebDesi](https://dev.to/highcenburg/what-makes-an-app-truly-user-friendly-its-not-just-about-how-it-looks-but-how-it-feels-to-use-i-3kmi)
+- [Implementing &quot;Suspense&quot; with a simple Observable](https://dev.to/dariomannu/implementing-suspense-with-a-simple-observable-5ag2)
+- [🚀 Why Linux is the Backbone of DevOps](https://dev.to/sreekanth_kuruba_91721e5d/why-linux-is-the-backbone-of-devops-1dj7)
+- [Terraform Fundamentals: CloudWatch RUM](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-rum-4k6g)
 <!-- BLOG-POST-LIST:END -->
 
