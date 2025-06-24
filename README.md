@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s refreshing to read something that doesn’t pretend building a business is easy or instant. Thanks for this.](https://dev.to/edwardvinke/its-refreshing-to-read-something-that-doesnt-pretend-building-a-business-is-easy-or-instant-543e)
-- [🚀 Introducing blaze-install: A Faster, Modern Alternative to npm for Node.js](https://dev.to/edouards_landscaping_0a01/introducing-blaze-install-a-faster-modern-alternative-to-npm-for-nodejs-1553)
-- [Machine Learning Fundamentals: accuracy with python](https://dev.to/devopsfundamentals/machine-learning-fundamentals-accuracy-with-python-54cc)
-- [Building an agency site to showcase services and publish blogs. Is it better to code it from scratch for full control, or use a customizable template for a faster launch? Looking for perspectives from others who’ve faced this decision.](https://dev.to/chrisywz/building-an-agency-site-to-showcase-services-and-publish-blogs-is-it-better-to-code-it-from-3nab)
+- [The JS Bundle Wars.](https://dev.to/manuartero/the-js-bundle-wars-1776)
+- [How to Install and Run Mistral Small 3.2 24B](https://dev.to/nodeshiftcloud/how-to-install-and-run-mistral-small-32-24b-m4j)
+- [Machine Learning Fundamentals: active learning](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-54g8)
+- [DSA Dailys #2](https://dev.to/arshan_rahman_/dsa-dailys-2-58e9)
 <!-- BLOG-POST-LIST:END -->
 
