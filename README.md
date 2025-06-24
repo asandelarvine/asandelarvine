@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [◼️46/100 Block-by-Block: How Ponder optimized its data indexing workflow](https://dev.to/nocibambi/46100-block-by-block-how-ponder-optimized-its-data-indexing-workflow-25e)
-- [Hi! 🖐](https://dev.to/silje-tech/hi-9h0)
-- [My Journey into Frontend Development: From HTML to React](https://dev.to/masood_vali_ce52d833c4f03/my-journey-into-frontend-development-from-html-to-react-3ncg)
-- [How to Lazy-Load Images with Native HTML and Boost Your Site&#39;s Core Web Vitals](https://dev.to/fourfoldtechofficial/how-to-lazy-load-images-with-native-html-and-boost-your-sites-core-web-vitals-1eik)
+- [How Angular 20&#39;s Signals Will Change Your Code Forever](https://dev.to/rohit4321/how-angular-20s-signals-will-change-your-code-forever-462d)
+- [NodeJS Fundamentals: fork](https://dev.to/devopsfundamentals/nodejs-fundamentals-fork-2fpm)
+- [Fortinet Under Fire: New Auth Bypass Bug Actively Exploited &lpar;CVE-2024-55591&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/fortinet-under-fire-new-auth-bypass-bug-actively-exploited-cve-2024-55591-bb0)
+- [Go Coding with Asparagos: Can oranges sow the seeds of discord in linear time?](https://dev.to/asparagos/go-coding-with-asparagos-can-oranges-sow-the-seeds-of-discord-in-linear-time-1643)
 <!-- BLOG-POST-LIST:END -->
 
