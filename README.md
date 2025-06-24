@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Seeking International Opportunities | Expert Software Engineer with 8+ Years Experience Hello DEV Community 👋](https://dev.to/moise_donaldngueki_6318b/seeking-international-opportunities-expert-software-engineer-with-8-years-experience-hello-dev-1a48)
-- [Building a User Feedback Collector with Node.js and Express.js](https://dev.to/ameh_mathias/building-a-user-feedback-collector-with-nodejs-and-expressjs-5akl)
-- [Why This CSS Specificity Visualizer Changed Everything For Me](https://dev.to/webutilitylabs/why-this-css-specificity-visualizer-changed-everything-for-me-2ikn)
-- [```markdown](https://dev.to/mosininamdar/markdown-aab)
+- [CSS &lpar;C&rpar;oDe to Summer Celebrations](https://dev.to/ozeljko/css-code-to-summer-celebrations-5f0g)
+- [Choosing a Custom Software Development Company in 2025](https://dev.to/moulika_paraminfo_b43e84e/choosing-a-custom-software-development-company-in-2025-55il)
+- [Introducing Kubernetes MCP: Safe, Read-Only Kubernetes Operations with AI](https://dev.to/kkb0318/introducing-kubernetes-mcp-safe-read-only-kubernetes-operations-with-ai-p74)
+- [How to Write Midjourney Prompts](https://dev.to/jackyxbb/how-to-write-midjourney-prompts-3icc)
 <!-- BLOG-POST-LIST:END -->
 
