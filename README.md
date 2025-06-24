@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
-- [🔒 My EC2 Instance Froze — No SSH, No Web CLI. Here&#39;s What Caused It &lpar;and How I Fixed It&rpar;](https://dev.to/vishal_09/my-ec2-instance-froze-no-ssh-no-web-cli-heres-what-caused-it-and-how-i-fixed-it-1317)
-- [Everything you need to know about referrals](https://dev.to/severin_wiggenhorn/everything-you-need-to-know-about-referrals-1ki3)
-- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 2 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-2-read-the-full-article-4pcd)
+- [From Theory to Impact: Implementing Shift-Left from Scratch](https://dev.to/m4rri4nne/from-theory-to-impact-implementing-shift-left-from-scratch-5dnl)
+- [If you’ve upgraded boto3 or the JavaScript S3 client in the last week, uploading files won’t work. Here’s how to fix it.](https://dev.to/tigrisdata/if-youve-upgraded-boto3-or-the-javascript-s3-client-in-the-last-week-uploading-files-wont-work-5ehb)
+- [Scoped Styling and the History of CSS Scoping](https://dev.to/namix/scoped-styling-and-the-history-of-css-scoping-2cog)
+- [How One Engineer Saved Us $110K and Ended Our Database Nightmare 🚀](https://dev.to/usemotion/how-one-engineer-saved-us-110k-and-ended-our-database-nightmare-1g1o)
 <!-- BLOG-POST-LIST:END -->
 
