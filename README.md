@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Prompt Engineering Tips for Better AI-Generated Node.js Code](https://dev.to/ivanivanovv/five-prompt-engineering-tips-for-better-ai-generated-nodejs-code-ih1)
-- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
-- [Godot Launches Official Assets Store](https://dev.to/dat_one_dev/godot-launches-official-assets-store-3135)
-- [The Importance of Leveraging AI to Learn](https://dev.to/ameh_mathias/the-importance-of-leveraging-ai-to-learn-4c2n)
+- [Interview experiences through my mistake and Careless:](https://dev.to/vigneshwaralingam/interview-experiences-through-my-mistake-and-careless-32e5)
+- [How to Give Your AI Agents Real-Time Search Superpowers with Tavily](https://dev.to/abdibrokhim/how-to-give-your-ai-agents-real-time-search-superpowers-with-tavily-3398)
+- [🌐 Synthetic Testing in Production: The New QA Frontier](https://dev.to/vaibhavkuls/synthetic-testing-in-production-the-new-qa-frontier-3820)
+- [Relatable, actionable, and real. Loved how practical yet human this piece feels.](https://dev.to/moorethanjim/relatable-actionable-and-real-loved-how-practical-yet-human-this-piece-feels-5a38)
 <!-- BLOG-POST-LIST:END -->
 
