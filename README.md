@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Search Engines for Developers in 2025](https://dev.to/ekta_shukla_64c9d1cae3b14/top-ai-search-engines-for-developers-in-2025-3of8)
-- [[Boost]](https://dev.to/nikhil_sachapara/-5aji)
-- [[Boost]](https://dev.to/naik_sejal/-5d1l)
-- [[Boost]](https://dev.to/pranesh_patel/-2mgc)
+- [◼️46/100 Block-by-Block: How Ponder optimized its data indexing workflow](https://dev.to/nocibambi/46100-block-by-block-how-ponder-optimized-its-data-indexing-workflow-25e)
+- [Hi! 🖐](https://dev.to/silje-tech/hi-9h0)
+- [My Journey into Frontend Development: From HTML to React](https://dev.to/masood_vali_ce52d833c4f03/my-journey-into-frontend-development-from-html-to-react-3ncg)
+- [How to Lazy-Load Images with Native HTML and Boost Your Site&#39;s Core Web Vitals](https://dev.to/fourfoldtechofficial/how-to-lazy-load-images-with-native-html-and-boost-your-sites-core-web-vitals-1eik)
 <!-- BLOG-POST-LIST:END -->
 
