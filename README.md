@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The JS Bundle Wars.](https://dev.to/manuartero/the-js-bundle-wars-1776)
-- [How to Install and Run Mistral Small 3.2 24B](https://dev.to/nodeshiftcloud/how-to-install-and-run-mistral-small-32-24b-m4j)
-- [Machine Learning Fundamentals: active learning](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-54g8)
-- [DSA Dailys #2](https://dev.to/arshan_rahman_/dsa-dailys-2-58e9)
+- [Aegypti is a Python package that solves the Triangle-Free Problem in graph theory—determining whether an undirected graph contains any 3-cycles &lpar;triangles&rpar;. It implements an efficient algorithm with O&lpar;n + m + t&rpar; for counting/all-triangle detection.](https://dev.to/frank_vega_987689489099bf/aegypti-is-a-python-package-that-solves-the-triangle-free-problem-in-graph-theory-determining-3pme)
+- [Machine Learning Fundamentals: active learning example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-example-24a7)
+- [Exciting job opportunities ❤️](https://dev.to/srbhr/exciting-job-opportunities-505h)
+- [🚀 Starting My DevOps + QA Automation Journey](https://dev.to/rishabh-lakhanpal/starting-my-devops-qa-automation-journey-3lhl)
 <!-- BLOG-POST-LIST:END -->
 
