@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Impact: Implementing Shift-Left from Scratch](https://dev.to/m4rri4nne/from-theory-to-impact-implementing-shift-left-from-scratch-5dnl)
-- [If you’ve upgraded boto3 or the JavaScript S3 client in the last week, uploading files won’t work. Here’s how to fix it.](https://dev.to/tigrisdata/if-youve-upgraded-boto3-or-the-javascript-s3-client-in-the-last-week-uploading-files-wont-work-5ehb)
-- [Scoped Styling and the History of CSS Scoping](https://dev.to/namix/scoped-styling-and-the-history-of-css-scoping-2cog)
-- [How One Engineer Saved Us $110K and Ended Our Database Nightmare 🚀](https://dev.to/usemotion/how-one-engineer-saved-us-110k-and-ended-our-database-nightmare-1g1o)
+- [React Native Animated Content Scroll - Update](https://dev.to/urielcisneros/react-native-animated-content-scroll-update-1fpp)
+- [Modern C#](https://dev.to/ghefarm/modern-c-1b8g)
+- [AI-generated code working integration I built a system where an LLM agent posts to Slack via a remote MCP server using LangChain. The hard part? Async bugs Schema mismatches Version churn How I fixed it with bind_tools&lpar;&rpar; 👇 📖 https://bit.ly/lan](https://dev.to/vram/ai-generated-code-working-integration-i-built-a-system-where-an-llm-agent-posts-to-slack-via-a-4kfm)
+- [Unlocking the Web for All: Essential Frontend Accessibility Resources &lpar;WCAG Focus&rpar;](https://dev.to/vaib/unlocking-the-web-for-all-essential-frontend-accessibility-resources-wcag-focus-252h)
 <!-- BLOG-POST-LIST:END -->
 
