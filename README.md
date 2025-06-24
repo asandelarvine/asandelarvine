@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Concurrency with Row Level Locking in PostgreSQL](https://dev.to/nickcosmo/handling-concurrency-with-row-level-locking-in-postgresql-1p3)
-- [Comparing Software Architecture Documentation Models and When to Use Them](https://dev.to/adityasatrio/comparing-software-architecture-documentation-models-and-when-to-use-them-495n)
-- [Boost Your Code: 15 Essential Visual Studio Extensions Every Developer Needs](https://dev.to/vaib/boost-your-code-15-essential-visual-studio-extensions-every-developer-needs-53p5)
-- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
+- [Huawei&#39;s Self-Developed Cangjie Programming Language to Go Open Source, Sharing Equal Status with ArkTS in the Future](https://dev.to/waylau521/huaweis-self-developed-cangjie-programming-language-to-go-open-source-sharing-equal-status-with-983)
+- [Still using npm for everything? Time to level up your JavaScript game 🚀](https://dev.to/kiransm/still-using-npm-for-everything-time-to-level-up-your-javascript-game-f84)
+- [Harmony-Free: Hengong Preferences - Preferences Settings](https://dev.to/rogueybj/harmony-free-hengong-preferences-preferences-settings-24ko)
+- [Deailing with OAuth SSR in a Next.js project](https://dev.to/burakdev/deailing-with-oauth-ssr-in-a-nextjs-project-3897)
 <!-- BLOG-POST-LIST:END -->
 
