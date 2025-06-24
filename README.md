@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS &lpar;C&rpar;oDe to Summer Celebrations](https://dev.to/ozeljko/css-code-to-summer-celebrations-5f0g)
-- [Choosing a Custom Software Development Company in 2025](https://dev.to/moulika_paraminfo_b43e84e/choosing-a-custom-software-development-company-in-2025-55il)
-- [Introducing Kubernetes MCP: Safe, Read-Only Kubernetes Operations with AI](https://dev.to/kkb0318/introducing-kubernetes-mcp-safe-read-only-kubernetes-operations-with-ai-p74)
-- [How to Write Midjourney Prompts](https://dev.to/jackyxbb/how-to-write-midjourney-prompts-3icc)
+- [Five Prompt Engineering Tips for Better AI-Generated Node.js Code](https://dev.to/ivanivanovv/five-prompt-engineering-tips-for-better-ai-generated-nodejs-code-ih1)
+- [This entire system is a reminder that professionalism doesn’t require fancy tools, just consistency and clear intent. TDZ PRO gets that.](https://dev.to/techtalk/this-entire-system-is-a-reminder-that-professionalism-doesnt-require-fancy-tools-just-consistency-mh)
+- [Godot Launches Official Assets Store](https://dev.to/dat_one_dev/godot-launches-official-assets-store-3135)
+- [The Importance of Leveraging AI to Learn](https://dev.to/ameh_mathias/the-importance-of-leveraging-ai-to-learn-4c2n)
 <!-- BLOG-POST-LIST:END -->
 
