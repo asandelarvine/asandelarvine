@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei&#39;s Self-Developed Cangjie Programming Language to Go Open Source, Sharing Equal Status with ArkTS in the Future](https://dev.to/waylau521/huaweis-self-developed-cangjie-programming-language-to-go-open-source-sharing-equal-status-with-983)
-- [Still using npm for everything? Time to level up your JavaScript game 🚀](https://dev.to/kiransm/still-using-npm-for-everything-time-to-level-up-your-javascript-game-f84)
-- [Harmony-Free: Hengong Preferences - Preferences Settings](https://dev.to/rogueybj/harmony-free-hengong-preferences-preferences-settings-24ko)
-- [Deailing with OAuth SSR in a Next.js project](https://dev.to/burakdev/deailing-with-oauth-ssr-in-a-nextjs-project-3897)
+- [Try VeltoPHP | Lightweight and simple RVC PHP Framework](https://dev.to/veltophp/try-veltophp-lightweight-and-simple-rvc-php-framework-1kcd)
+- [GCP Fundamentals: Contact Center AI Platform API](https://dev.to/devopsfundamentals/gcp-fundamentals-contact-center-ai-platform-api-5ld)
+- [A New Lightweight Framework for AI Training: Easy, Modular, Ray-Free](https://dev.to/labubu_donna/a-new-lightweight-framework-for-ai-training-easy-modular-ray-free-5gdm)
+- [Using a database in the Cangjie development language](https://dev.to/youlanjihua/using-a-database-in-the-cangjie-development-language-32pl)
 <!-- BLOG-POST-LIST:END -->
 
