@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen AI, RAGS, CAG, Fine tuning, VectorDB, LangChain, LangSmith, LangGraph, Lang Flow, MCP, AI Agents, Agentic RAG](https://dev.to/ashutoshsarangi/gen-ai-rags-cag-fine-tuning-vectordb-langchain-langsmith-langgraph-lang-flow-mcp-ai-51g5)
-- [The Best ngrok alternative for Mac: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-mac-tunnelmole-open-source-255i)
-- [I published my first Desktop App after 6 months of work — Everything I learnt](https://dev.to/paul_freeman/i-published-my-first-desktop-app-after-6-months-of-work-everything-i-learnt-34m0)
-- [Here is my first article ever! I hope you&#39;ll enjoy reading it. I will be very happy to respond to any comments you may have. :&rpar;](https://dev.to/restray/here-is-my-first-article-ever-i-hope-youll-enjoy-reading-it-i-will-be-very-happy-to-respond-to-2oc)
+- [🌍 Seeking International Opportunities | Expert Software Engineer with 8+ Years Experience Hello DEV Community 👋](https://dev.to/moise_donaldngueki_6318b/seeking-international-opportunities-expert-software-engineer-with-8-years-experience-hello-dev-1a48)
+- [Building a User Feedback Collector with Node.js and Express.js](https://dev.to/ameh_mathias/building-a-user-feedback-collector-with-nodejs-and-expressjs-5akl)
+- [Why This CSS Specificity Visualizer Changed Everything For Me](https://dev.to/webutilitylabs/why-this-css-specificity-visualizer-changed-everything-for-me-2ikn)
+- [```markdown](https://dev.to/mosininamdar/markdown-aab)
 <!-- BLOG-POST-LIST:END -->
 
