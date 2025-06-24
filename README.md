@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi user authentication with multi user access and multi role access](https://dev.to/bikkinenipradeep/multi-user-authentication-with-multi-user-access-and-multi-role-access-3g8i)
-- [From Views to Tables: How I Optimized dbt Models with Delta on Databricks](https://dev.to/vijayrodrigues/from-views-to-tables-how-i-optimized-dbt-models-with-delta-on-databricks-f7n)
-- [15 Critical Steps to Secure Your Linux Server: Complete Security Guide](https://dev.to/serafiev/15-critical-steps-to-secure-your-linux-server-complete-security-guide-49h4)
-- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-20gn)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
+- [🔒 My EC2 Instance Froze — No SSH, No Web CLI. Here&#39;s What Caused It &lpar;and How I Fixed It&rpar;](https://dev.to/vishal_09/my-ec2-instance-froze-no-ssh-no-web-cli-heres-what-caused-it-and-how-i-fixed-it-1317)
+- [Everything you need to know about referrals](https://dev.to/severin_wiggenhorn/everything-you-need-to-know-about-referrals-1ki3)
+- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 2 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-2-read-the-full-article-4pcd)
 <!-- BLOG-POST-LIST:END -->
 
