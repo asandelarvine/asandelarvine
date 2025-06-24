@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Animated Content Scroll - Update](https://dev.to/urielcisneros/react-native-animated-content-scroll-update-1fpp)
-- [Modern C#](https://dev.to/ghefarm/modern-c-1b8g)
-- [AI-generated code working integration I built a system where an LLM agent posts to Slack via a remote MCP server using LangChain. The hard part? Async bugs Schema mismatches Version churn How I fixed it with bind_tools&lpar;&rpar; 👇 📖 https://bit.ly/lan](https://dev.to/vram/ai-generated-code-working-integration-i-built-a-system-where-an-llm-agent-posts-to-slack-via-a-4kfm)
-- [Unlocking the Web for All: Essential Frontend Accessibility Resources &lpar;WCAG Focus&rpar;](https://dev.to/vaib/unlocking-the-web-for-all-essential-frontend-accessibility-resources-wcag-focus-252h)
+- [&quot;Lifeforce&quot; at 40 | A sci-fi horror film only Cannon could have made](https://dev.to/popcorn_movies/lifeforce-at-40-a-sci-fi-horror-film-only-cannon-could-have-made-39jn)
+- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-579)
+- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-39ml)
+- [‘Sinners&#39; Sets Max Streaming Release Date - July 4](https://dev.to/popcorn_movies/sinners-sets-max-streaming-release-date-july-4-518p)
 <!-- BLOG-POST-LIST:END -->
 
