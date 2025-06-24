@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aegypti is a Python package that solves the Triangle-Free Problem in graph theory—determining whether an undirected graph contains any 3-cycles &lpar;triangles&rpar;. It implements an efficient algorithm with O&lpar;n + m + t&rpar; for counting/all-triangle detection.](https://dev.to/frank_vega_987689489099bf/aegypti-is-a-python-package-that-solves-the-triangle-free-problem-in-graph-theory-determining-3pme)
-- [Machine Learning Fundamentals: active learning example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-example-24a7)
-- [Exciting job opportunities ❤️](https://dev.to/srbhr/exciting-job-opportunities-505h)
-- [🚀 Starting My DevOps + QA Automation Journey](https://dev.to/rishabh-lakhanpal/starting-my-devops-qa-automation-journey-3lhl)
+- [Multi user authentication with multi user access and multi role access](https://dev.to/bikkinenipradeep/multi-user-authentication-with-multi-user-access-and-multi-role-access-3g8i)
+- [From Views to Tables: How I Optimized dbt Models with Delta on Databricks](https://dev.to/vijayrodrigues/from-views-to-tables-how-i-optimized-dbt-models-with-delta-on-databricks-f7n)
+- [15 Critical Steps to Secure Your Linux Server: Complete Security Guide](https://dev.to/serafiev/15-critical-steps-to-secure-your-linux-server-complete-security-guide-49h4)
+- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-20gn)
 <!-- BLOG-POST-LIST:END -->
 
