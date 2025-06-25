@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modernize to Maximize: How Applications Modernization Drives Business Agility](https://dev.to/crmsoftware361/modernize-to-maximize-how-applications-modernization-drives-business-agility-2j0j)
-- [Useful Array Methods Every Beginner Must Master](https://dev.to/giftintech/useful-array-methods-every-beginner-must-master-3omf)
-- [OpenAI vs Gemini War: Why Cloud Certifications Still Matter in 2025](https://dev.to/sarahmoz/openai-vs-gemini-war-why-cloud-certifications-still-matter-in-2025-41ah)
-- [How to automatically decrypt a LUKS LVM setup on boot with a USB](https://dev.to/filisko/how-to-automatically-decrypt-a-luks-lvm-setup-on-boot-with-a-usb-411i)
+- [[CSS] 🔥Animation vs Transition: Which one will kill your performance first?](https://dev.to/senior-debugger/css-animation-vs-transition-which-one-will-kill-your-performance-first-14am)
+- [React-এ useRef কি আপনার জন্য রহস্যময়? 🤔 আসুন, এর জাদুকরী ব্যবহারগুলো জেনে নিই!](https://dev.to/electra_nur/react-e-useref-ki-aapnaar-jny-rhsymy-aasun-er-jaadukrii-bybhaargulo-jene-nii-26n5)
+- [Why Python Is Slow — The Real Reasons and Practical Workarounds](https://dev.to/gafoo/why-python-is-slow-the-real-reasons-and-practical-workarounds-4e2c)
+- [How long does it take for Instagram to process an account type switch?](https://dev.to/mike_d54642803649fd01cda0/how-long-does-it-take-for-instagram-to-process-an-account-type-switch-3e8j)
 <!-- BLOG-POST-LIST:END -->
 
