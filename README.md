@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID in Databases: What It Really Means &lpar;with Real-Life Bank Scenarios in the USA &amp; Germany&rpar;](https://dev.to/obeej/acid-in-databases-what-it-really-means-with-real-life-bank-scenarios-in-the-usa-germany-3n4p)
-- [A New Era of Code Quality: Beyond bugs and into legal license compliance and risk management](https://dev.to/lizzzzz/a-new-era-of-code-quality-beyond-bugs-and-into-legal-license-compliance-and-risk-management-5g8n)
-- [Inyección de JavaScript a través de una búsqueda mal validada 🧠💻⚠️](https://dev.to/alfondodelciber/inyeccion-de-javascript-a-traves-de-una-busqueda-mal-validada-89)
-- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-e8h)
+- [WWDC 2025 - The Next Evolution of Speech-to-Text using SpeechAnalyzer](https://dev.to/arshtechpro/wwdc-2025-the-next-evolution-of-speech-to-text-using-speechanalyzer-6lo)
+- [WWDC 2025 - Go further with MapKit &amp; MapKit JavaScript](https://dev.to/arshtechpro/wwdc-2025-go-further-with-mapkit-mapkit-javascript-a5l)
+- [The Developer&#39;s Imperative: Surfing the AI Wave &lpar;Before it Swamps Your Stack&rpar;](https://dev.to/writerelliswilson/the-developers-imperative-surfing-the-ai-wave-before-it-swamps-your-stack-578l)
+- [Technical Interviews in the AI Era](https://dev.to/joacod/technical-interviews-in-the-ai-era-2phk)
 <!-- BLOG-POST-LIST:END -->
 
