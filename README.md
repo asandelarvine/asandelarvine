@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS5-Anonymous-Login-Guide-EN](https://dev.to/cyang/harmonyos5-anonymous-login-guide-en-4lmd)
-- [Exploring Cloudflare Containers: A Game-Changer for Global App Deployment](https://dev.to/mechcloud_academy/exploring-cloudflare-containers-a-game-changer-for-global-app-deployment-2bio)
-- [Patch-based, environment-aware Kubernetes deployments using plain YAML and zero templating](https://dev.to/alzhi_f93e67fa45b972/patch-based-environment-aware-kubernetes-deployments-using-plain-yaml-and-zero-templating-5gh1)
-- [HarmonyOS5 Cloud Services Technology Sharing - Cloud Storage Guide](https://dev.to/cyang/harmonyos5-cloud-services-technology-sharing-cloud-storage-guide-15on)
+- [ArkUI-X框架LogInterface使用指南](https://dev.to/aloe/arkui-xkuang-jia-loginterfaceshi-yong-zhi-nan-1o5)
+- [We Gave Our Engineers AI. Here&#39;s What Happened.](https://dev.to/gail_axelrod_03844667f64d/we-gave-our-engineers-ai-heres-what-happened-2din)
+- [Machine Learning Fundamentals: active learning project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-project-k7k)
+- [Building AI-Powered Crypto Alert Systems with Token Metrics Crypto API and Windsurf](https://dev.to/api_builder_01/building-ai-powered-crypto-alert-systems-with-token-metrics-crypto-api-and-windsurf-3le2)
 <!-- BLOG-POST-LIST:END -->
 
