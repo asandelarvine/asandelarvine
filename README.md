@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[CSS] 🔥Animation vs Transition: Which one will kill your performance first?](https://dev.to/senior-debugger/css-animation-vs-transition-which-one-will-kill-your-performance-first-14am)
-- [React-এ useRef কি আপনার জন্য রহস্যময়? 🤔 আসুন, এর জাদুকরী ব্যবহারগুলো জেনে নিই!](https://dev.to/electra_nur/react-e-useref-ki-aapnaar-jny-rhsymy-aasun-er-jaadukrii-bybhaargulo-jene-nii-26n5)
-- [Why Python Is Slow — The Real Reasons and Practical Workarounds](https://dev.to/gafoo/why-python-is-slow-the-real-reasons-and-practical-workarounds-4e2c)
-- [How long does it take for Instagram to process an account type switch?](https://dev.to/mike_d54642803649fd01cda0/how-long-does-it-take-for-instagram-to-process-an-account-type-switch-3e8j)
+- [La secuencia de los Padawan](https://dev.to/baltasarq/la-secuencia-de-los-padawan-2h2p)
+- [CSS Color Functions](https://dev.to/faridsa/css-color-functions-2i4k)
+- [What is Quality Assurance? A Beginner’s Guide to Building Better Products](https://dev.to/di_solutions/what-is-quality-assurancea-beginners-guide-to-building-better-products-10pm)
+- [ME Network 2.0: Modular Blockchain Infrastructure Built for Real Scalability](https://dev.to/metaearth/me-network-20-modular-blockchain-infrastructure-built-for-real-scalability-5co1)
 <!-- BLOG-POST-LIST:END -->
 
