@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Hack: Let Code Blocks Break Free From Container Width](https://dev.to/barim/css-hack-let-code-blocks-break-free-from-container-width-183e)
-- [Built a game using Lovable](https://dev.to/vijaykodam/built-a-game-using-lovable-5hj6)
-- [A programmer yelling at the clouds about vibe coding](https://dev.to/daniel-octomind/a-programmer-yelling-at-the-clouds-about-vibe-coding-2m3j)
-- [The Grammar of Objectivity](https://dev.to/agustn_startari_0c8417a8/the-grammar-of-objectivity-2c16)
+- [HarmonyOS5-Anonymous-Login-Guide-EN](https://dev.to/cyang/harmonyos5-anonymous-login-guide-en-4lmd)
+- [Exploring Cloudflare Containers: A Game-Changer for Global App Deployment](https://dev.to/mechcloud_academy/exploring-cloudflare-containers-a-game-changer-for-global-app-deployment-2bio)
+- [Patch-based, environment-aware Kubernetes deployments using plain YAML and zero templating](https://dev.to/alzhi_f93e67fa45b972/patch-based-environment-aware-kubernetes-deployments-using-plain-yaml-and-zero-templating-5gh1)
+- [HarmonyOS5 Cloud Services Technology Sharing - Cloud Storage Guide](https://dev.to/cyang/harmonyos5-cloud-services-technology-sharing-cloud-storage-guide-15on)
 <!-- BLOG-POST-LIST:END -->
 
