@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Umemura Farm Website – Devlog #16: Contact Page Progress and Adding Texture to Home Visuals](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-16-contact-page-progress-and-adding-texture-to-home-visuals-kl2)
-- [Modelo de Maturidade Richardson &lpar;RMM&rpar;](https://dev.to/carloseduardoalvesviana/niveis-de-maturidade-de-richardson-30c8)
-- [HarmonyOS 5 Demo Example of Bidirectional Communication between HarmonyOS Web Components and Embedded Web Pages](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-demo-example-of-bidirectional-communication-between-harmonyos-web-components-and-3ed9)
-- [If programming languages were people](https://dev.to/alex_stewart_ee973ece52be/if-programming-languages-were-people-594e)
+- [VMware Fundamentals: Photon Checksum Generator](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-checksum-generator-1jln)
+- [Programing as a art - chapter 2](https://dev.to/pjdeveloper896/programing-as-a-art-chapter-2-5299)
+- [ติวสอบสัมภาษณ์งาน Java เบื้องต้น ฉบับ มือใหม่ [2]](https://dev.to/c_nook4545/tiwsbsamphaasn-java-ebuuengtn-chbab-muueaihm-2-1n76)
+- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
 <!-- BLOG-POST-LIST:END -->
 
