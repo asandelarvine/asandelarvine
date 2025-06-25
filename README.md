@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Treasure Case Sharing of HarmonyOS 5 Development — One-to-Many Development Example &lpar;Community Comments&rpar;](https://dev.to/cyang/treasure-case-sharing-of-harmonyos-5-development-one-to-many-development-example-community-3858)
-- [Treasure Case Sharing of HarmonyOS 5 Development — One-to-Many Development Example &lpar;Banking and Wealth Management&rpar;](https://dev.to/cyang/treasure-case-sharing-of-harmonyos-5-development-one-to-many-development-example-banking-and-3ob3)
-- [Treasure Case Sharing of HarmonyOS 5 Development — Foldable Screen Hover State Development Practice](https://dev.to/cyang/treasure-case-sharing-of-harmonyos-5-development-foldable-screen-hover-state-development-practice-88l)
-- [Treasure Case Sharing of HarmonyOS 5 Development — Foldable Screen Development Practice](https://dev.to/cyang/treasure-case-sharing-of-harmonyos-5-development-foldable-screen-development-practice-2oea)
+- [🐳 From FastAPI to Production: The Complete Docker Guide for Python Developers](https://dev.to/eddiemuhoro/from-fastapi-to-production-the-complete-docker-guide-for-python-developers-5d4k)
+- [Rails on Jets: Serverless Active Record? Here’s What Broke](https://dev.to/alex_aslam/rails-on-jets-serverless-active-record-heres-what-broke-54am)
+- [Day 4: software engineering Insights &lpar;#4&rpar;](https://dev.to/milade/day-4-software-engineering-insights-4-4nc6)
+- [Building a Multi-Application Kubernetes Marketplace: TCP/UDP App Onboarding at Scale](https://dev.to/kahuna04/building-a-multi-application-kubernetes-marketplace-tcpudp-app-onboarding-at-scale-1i74)
 <!-- BLOG-POST-LIST:END -->
 
