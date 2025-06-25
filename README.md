@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I created a game from scratch using AWS](https://dev.to/javitech_co/this-is-how-i-created-a-game-from-scratch-using-aws-5enb)
-- [🚀 Stepping into Dev++ | Let’s Build the Future with AI 🤖](https://dev.to/balram15/stepping-into-dev-lets-build-the-future-with-ai-33hf)
-- [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
-- [Styling Your First React Component — A Gentle Introduction](https://dev.to/elram_gavrieli_887f3d6046/styling-your-first-react-component-a-gentle-introduction-1c82)
+- [No More Boring Roadmaps — I Built an AI That Designs Yours Visually](https://dev.to/bugblitz98/no-more-boring-roadmaps-i-built-an-ai-that-designs-yours-visually-286p)
+- [Why API Integration Is Too Important to Leave to Non-Developers](https://dev.to/lonti-davidb/why-api-integration-is-too-important-to-leave-to-non-developers-el9)
+- [HarmonyOS Flutter Wakelock Plugin &lpar;Screen Wake Lock Management&rpar;](https://dev.to/flfljh/harmonyos-flutter-wakelock-plugin-screen-wake-lock-management-b20)
+- [HarmonyOS Flutter Video Trimmer &lpar;Video Clipping Implementation&rpar;](https://dev.to/flfljh/harmonyos-flutter-video-trimmer-video-clipping-implementation-3dkd)
 <!-- BLOG-POST-LIST:END -->
 
