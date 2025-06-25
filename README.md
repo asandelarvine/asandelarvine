@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - The Next Evolution of Speech-to-Text using SpeechAnalyzer](https://dev.to/arshtechpro/wwdc-2025-the-next-evolution-of-speech-to-text-using-speechanalyzer-6lo)
-- [WWDC 2025 - Go further with MapKit &amp; MapKit JavaScript](https://dev.to/arshtechpro/wwdc-2025-go-further-with-mapkit-mapkit-javascript-a5l)
-- [The Developer&#39;s Imperative: Surfing the AI Wave &lpar;Before it Swamps Your Stack&rpar;](https://dev.to/writerelliswilson/the-developers-imperative-surfing-the-ai-wave-before-it-swamps-your-stack-578l)
-- [Technical Interviews in the AI Era](https://dev.to/joacod/technical-interviews-in-the-ai-era-2phk)
+- [fortune](https://dev.to/orsenthil/fortune-3ehb)
+- [Spelling Checker - NLP](https://dev.to/datatoinfinity/spelling-checker-nlp-h53)
+- [Building Scalable Web Applications with Advanced JavaScript Patterns](https://dev.to/omriluz1/building-scalable-web-applications-with-advanced-javascript-patterns-5e4c)
+- [Building a Real-World Context-Aware Movie Chatbot Using Amazon Bedrock - Nova Pro](https://dev.to/aws-builders/building-a-real-world-context-aware-movie-chatbot-using-amazon-bedrock-nova-pro-jge)
 <!-- BLOG-POST-LIST:END -->
 
