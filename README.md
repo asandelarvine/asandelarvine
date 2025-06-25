@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The honesty in this episode made it incredibly powerful. Ashkan Rajaee continues to raise the bar for leadership.](https://dev.to/giobvisco/the-honesty-in-this-episode-made-it-incredibly-powerful-ashkan-rajaee-continues-to-raise-the-bar-50hj)
-- [FAKER PHP](https://dev.to/xefi/faker-php-3n7)
-- [testing](https://dev.to/galahad-arpit/testing-12he)
-- [The Fetch API Trap: When HTTP Errors Don&#39;t Land in Catch](https://dev.to/kresohr/the-fetch-api-trap-when-http-errors-dont-land-in-catch-40l6)
+- [ACID in Databases: What It Really Means &lpar;with Real-Life Bank Scenarios in the USA &amp; Germany&rpar;](https://dev.to/obeej/acid-in-databases-what-it-really-means-with-real-life-bank-scenarios-in-the-usa-germany-3n4p)
+- [A New Era of Code Quality: Beyond bugs and into legal license compliance and risk management](https://dev.to/lizzzzz/a-new-era-of-code-quality-beyond-bugs-and-into-legal-license-compliance-and-risk-management-5g8n)
+- [Inyección de JavaScript a través de una búsqueda mal validada 🧠💻⚠️](https://dev.to/alfondodelciber/inyeccion-de-javascript-a-traves-de-una-busqueda-mal-validada-89)
+- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-e8h)
 <!-- BLOG-POST-LIST:END -->
 
