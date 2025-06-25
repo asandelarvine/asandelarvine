@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a 3D Exoplanet Simulator with Real-Time Habitability Analysis](https://dev.to/devesh0099/building-a-3d-exoplanet-simulator-with-real-time-habitability-analysis-29b8)
-- [File transfer from source to destinatio](https://dev.to/abdullahkhan89/file-transfer-from-source-to-destinatio-316a)
-- [Rebuilding Bloated cron jobs with Event Bridge](https://dev.to/aws-builders/rebuilding-bloated-cron-jobs-with-event-bridge-10d2)
-- [Ways to Speak to a Human at Copa Airlines; A Step-by-Step Guide](https://dev.to/james_robot_46e984bd32967/ways-to-speak-to-a-human-at-copa-airlines-a-step-by-step-guide-4n4c)
+- [Agent with Memory, BuiltIn Search, LiteLLM using Google Agent Development Kit 🤖 Gemini, Fast API, Streamlit 🗃](https://dev.to/omerberatsezer/agent-with-memory-builtin-search-litellm-using-google-agent-development-kit-gemini-fast-api-3n1l)
+- [Learn Largest Contentful Paint &lpar;LCP&rpar; in simple words](https://dev.to/saurabh_raj_afaabe1844a4c/learn-largest-contentful-paint-lcp-in-simple-words-4jl0)
+- [My Web Dev Journey: From CS50X to FullStackDeveloper—How Do I Land That First Dollar?](https://dev.to/anees_ali_acca2b3e87729d0/my-web-dev-journey-from-cs50x-to-fullstackdeveloper-how-do-i-land-that-first-dollar-hh6)
+- [SOC167 - LS Command Detected in Requested URL | Letsdefend.io](https://dev.to/yowise/soc167-ls-command-detected-in-requested-url-letsdefendio-d4b)
 <!-- BLOG-POST-LIST:END -->
 
