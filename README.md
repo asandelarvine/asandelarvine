@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkUI-X框架LogInterface使用指南](https://dev.to/aloe/arkui-xkuang-jia-loginterfaceshi-yong-zhi-nan-1o5)
-- [We Gave Our Engineers AI. Here&#39;s What Happened.](https://dev.to/gail_axelrod_03844667f64d/we-gave-our-engineers-ai-heres-what-happened-2din)
-- [Machine Learning Fundamentals: active learning project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-active-learning-project-k7k)
-- [Building AI-Powered Crypto Alert Systems with Token Metrics Crypto API and Windsurf](https://dev.to/api_builder_01/building-ai-powered-crypto-alert-systems-with-token-metrics-crypto-api-and-windsurf-3le2)
+- [Web Display Issues, Tab Bottom Obstruction, Navigation Bar Theme Color Adaptation](https://dev.to/qingkouwei/web-display-issues-tab-bottom-obstruction-navigation-bar-theme-color-adaptation-129o)
+- [Screenshot Prevention, Flutter Popups, Clipboard Functions, Cross-File Style Reuse, Reading Page Turning](https://dev.to/qingkouwei/screenshot-prevention-flutter-popups-clipboard-functions-cross-file-style-reuse-reading-page-2mbg)
+- [Resource to RGBA Conversion, Web Component Safe Area, Custom Dialog Closure, Pixel Object Passing](https://dev.to/qingkouwei/resource-to-rgba-conversion-web-component-safe-area-custom-dialog-closure-pixel-object-passing-4bba)
+- [How to reduce CI/CD costs: Complete optimization checklist](https://dev.to/depot/how-to-reduce-cicd-costs-complete-optimization-checklist-4bj8)
 <!-- BLOG-POST-LIST:END -->
 
