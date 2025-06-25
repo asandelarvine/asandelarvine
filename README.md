@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent with Memory, BuiltIn Search, LiteLLM using Google Agent Development Kit 🤖 Gemini, Fast API, Streamlit 🗃](https://dev.to/omerberatsezer/agent-with-memory-builtin-search-litellm-using-google-agent-development-kit-gemini-fast-api-3n1l)
-- [Learn Largest Contentful Paint &lpar;LCP&rpar; in simple words](https://dev.to/saurabh_raj_afaabe1844a4c/learn-largest-contentful-paint-lcp-in-simple-words-4jl0)
-- [My Web Dev Journey: From CS50X to FullStackDeveloper—How Do I Land That First Dollar?](https://dev.to/anees_ali_acca2b3e87729d0/my-web-dev-journey-from-cs50x-to-fullstackdeveloper-how-do-i-land-that-first-dollar-hh6)
-- [SOC167 - LS Command Detected in Requested URL | Letsdefend.io](https://dev.to/yowise/soc167-ls-command-detected-in-requested-url-letsdefendio-d4b)
+- [SafeLine WAF: SSL/TLS Protocol and Cipher Suite Guide](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-ssltls-protocol-and-cipher-suite-guide-mnb)
+- [為什麼我決定自己寫一個投資策略通知工具](https://dev.to/aryung/wei-shi-mo-wo-jue-ding-zi-ji-xie-ge-tou-zi-ce-lue-tong-zhi-gong-ju-49n3)
+- [Simulating C-Style Pointers in Ruby: A Complete Guide](https://dev.to/daviducolo/simulating-c-style-pointers-in-ruby-a-complete-guide-b46)
+- [NodeJS Fundamentals: spawn](https://dev.to/devopsfundamentals/nodejs-fundamentals-spawn-af1)
 <!-- BLOG-POST-LIST:END -->
 
