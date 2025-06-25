@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No More Boring Roadmaps — I Built an AI That Designs Yours Visually](https://dev.to/bugblitz98/no-more-boring-roadmaps-i-built-an-ai-that-designs-yours-visually-286p)
-- [Why API Integration Is Too Important to Leave to Non-Developers](https://dev.to/lonti-davidb/why-api-integration-is-too-important-to-leave-to-non-developers-el9)
-- [HarmonyOS Flutter Wakelock Plugin &lpar;Screen Wake Lock Management&rpar;](https://dev.to/flfljh/harmonyos-flutter-wakelock-plugin-screen-wake-lock-management-b20)
-- [HarmonyOS Flutter Video Trimmer &lpar;Video Clipping Implementation&rpar;](https://dev.to/flfljh/harmonyos-flutter-video-trimmer-video-clipping-implementation-3dkd)
+- [Umemura Farm Website – Devlog #16: Contact Page Progress and Adding Texture to Home Visuals](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-16-contact-page-progress-and-adding-texture-to-home-visuals-kl2)
+- [Modelo de Maturidade Richardson &lpar;RMM&rpar;](https://dev.to/carloseduardoalvesviana/niveis-de-maturidade-de-richardson-30c8)
+- [HarmonyOS 5 Demo Example of Bidirectional Communication between HarmonyOS Web Components and Embedded Web Pages](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-demo-example-of-bidirectional-communication-between-harmonyos-web-components-and-3ed9)
+- [If programming languages were people](https://dev.to/alex_stewart_ee973ece52be/if-programming-languages-were-people-594e)
 <!-- BLOG-POST-LIST:END -->
 
