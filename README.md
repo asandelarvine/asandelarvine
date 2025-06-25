@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-58ig)
-- [15minutes Review: A Smarter Way to Learn in Just 15 Minutes](https://dev.to/15minutes/15minutes-review-a-smarter-way-to-learn-in-just-15-minutes-3205)
-- [From Zero to One: A Complete Guide to Implementing WeChat Sharing in HarmonyOS](https://dev.to/_46ad8e02443cdd7ecf4db/from-zero-to-one-a-complete-guide-to-implementing-wechat-sharing-in-harmonyos-30od)
-- [📈 AdWiz: AI-Powered Ad Ideas, Straight to Slack](https://dev.to/shravzzv/adwiz-ai-powered-ad-ideas-straight-to-slack-hgb)
+- [Un loader UX-friendly en Angular avec cet utilitaire RxJS](https://dev.to/romain_geffrault_10d88369/un-loader-ux-friendly-en-angular-avec-cet-utilitaire-rxjs-1184)
+- [Give Your AI Agents Persistent Memory with Mem0](https://dev.to/abdibrokhim/give-your-ai-agents-persistent-memory-with-mem0-3eff)
+- [Day 10 - Building the Navigation System with a Workspace-Aware Sidebar](https://dev.to/nader_fh/day-10-building-the-navigation-system-with-a-workspace-aware-sidebar-2bco)
+- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
 <!-- BLOG-POST-LIST:END -->
 
