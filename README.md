@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF: SSL/TLS Protocol and Cipher Suite Guide](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-ssltls-protocol-and-cipher-suite-guide-mnb)
-- [為什麼我決定自己寫一個投資策略通知工具](https://dev.to/aryung/wei-shi-mo-wo-jue-ding-zi-ji-xie-ge-tou-zi-ce-lue-tong-zhi-gong-ju-49n3)
-- [Simulating C-Style Pointers in Ruby: A Complete Guide](https://dev.to/daviducolo/simulating-c-style-pointers-in-ruby-a-complete-guide-b46)
-- [NodeJS Fundamentals: spawn](https://dev.to/devopsfundamentals/nodejs-fundamentals-spawn-af1)
+- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-58ig)
+- [15minutes Review: A Smarter Way to Learn in Just 15 Minutes](https://dev.to/15minutes/15minutes-review-a-smarter-way-to-learn-in-just-15-minutes-3205)
+- [From Zero to One: A Complete Guide to Implementing WeChat Sharing in HarmonyOS](https://dev.to/_46ad8e02443cdd7ecf4db/from-zero-to-one-a-complete-guide-to-implementing-wechat-sharing-in-harmonyos-30od)
+- [📈 AdWiz: AI-Powered Ad Ideas, Straight to Slack](https://dev.to/shravzzv/adwiz-ai-powered-ad-ideas-straight-to-slack-hgb)
 <!-- BLOG-POST-LIST:END -->
 
