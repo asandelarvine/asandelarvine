@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [La secuencia de los Padawan](https://dev.to/baltasarq/la-secuencia-de-los-padawan-2h2p)
-- [CSS Color Functions](https://dev.to/faridsa/css-color-functions-2i4k)
-- [What is Quality Assurance? A Beginner’s Guide to Building Better Products](https://dev.to/di_solutions/what-is-quality-assurancea-beginners-guide-to-building-better-products-10pm)
-- [ME Network 2.0: Modular Blockchain Infrastructure Built for Real Scalability](https://dev.to/metaearth/me-network-20-modular-blockchain-infrastructure-built-for-real-scalability-5co1)
+- [CSS Hack: Let Code Blocks Break Free From Container Width](https://dev.to/barim/css-hack-let-code-blocks-break-free-from-container-width-183e)
+- [Built a game using Lovable](https://dev.to/vijaykodam/built-a-game-using-lovable-5hj6)
+- [A programmer yelling at the clouds about vibe coding](https://dev.to/daniel-octomind/a-programmer-yelling-at-the-clouds-about-vibe-coding-2m3j)
+- [The Grammar of Objectivity](https://dev.to/agustn_startari_0c8417a8/the-grammar-of-objectivity-2c16)
 <!-- BLOG-POST-LIST:END -->
 
