@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Photon Checksum Generator](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-checksum-generator-1jln)
-- [Programing as a art - chapter 2](https://dev.to/pjdeveloper896/programing-as-a-art-chapter-2-5299)
-- [ติวสอบสัมภาษณ์งาน Java เบื้องต้น ฉบับ มือใหม่ [2]](https://dev.to/c_nook4545/tiwsbsamphaasn-java-ebuuengtn-chbab-muueaihm-2-1n76)
-- [I Wrote the S2E01 Recap for Model Mondays: Advanced Reasoning Session](https://dev.to/sharda_kaur/i-wrote-the-s2e01-recap-for-model-mondays-advanced-reasoning-session-o05)
+- [Building a 3D Exoplanet Simulator with Real-Time Habitability Analysis](https://dev.to/devesh0099/building-a-3d-exoplanet-simulator-with-real-time-habitability-analysis-29b8)
+- [File transfer from source to destinatio](https://dev.to/abdullahkhan89/file-transfer-from-source-to-destinatio-316a)
+- [Rebuilding Bloated cron jobs with Event Bridge](https://dev.to/aws-builders/rebuilding-bloated-cron-jobs-with-event-bridge-10d2)
+- [Ways to Speak to a Human at Copa Airlines; A Step-by-Step Guide](https://dev.to/james_robot_46e984bd32967/ways-to-speak-to-a-human-at-copa-airlines-a-step-by-step-guide-4n4c)
 <!-- BLOG-POST-LIST:END -->
 
