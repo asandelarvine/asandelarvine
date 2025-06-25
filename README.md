@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Display Issues, Tab Bottom Obstruction, Navigation Bar Theme Color Adaptation](https://dev.to/qingkouwei/web-display-issues-tab-bottom-obstruction-navigation-bar-theme-color-adaptation-129o)
-- [Screenshot Prevention, Flutter Popups, Clipboard Functions, Cross-File Style Reuse, Reading Page Turning](https://dev.to/qingkouwei/screenshot-prevention-flutter-popups-clipboard-functions-cross-file-style-reuse-reading-page-2mbg)
-- [Resource to RGBA Conversion, Web Component Safe Area, Custom Dialog Closure, Pixel Object Passing](https://dev.to/qingkouwei/resource-to-rgba-conversion-web-component-safe-area-custom-dialog-closure-pixel-object-passing-4bba)
-- [How to reduce CI/CD costs: Complete optimization checklist](https://dev.to/depot/how-to-reduce-cicd-costs-complete-optimization-checklist-4bj8)
+- [The honesty in this episode made it incredibly powerful. Ashkan Rajaee continues to raise the bar for leadership.](https://dev.to/giobvisco/the-honesty-in-this-episode-made-it-incredibly-powerful-ashkan-rajaee-continues-to-raise-the-bar-50hj)
+- [FAKER PHP](https://dev.to/xefi/faker-php-3n7)
+- [testing](https://dev.to/galahad-arpit/testing-12he)
+- [The Fetch API Trap: When HTTP Errors Don&#39;t Land in Catch](https://dev.to/kresohr/the-fetch-api-trap-when-http-errors-dont-land-in-catch-40l6)
 <!-- BLOG-POST-LIST:END -->
 
