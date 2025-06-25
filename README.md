@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [fortune](https://dev.to/orsenthil/fortune-3ehb)
-- [Spelling Checker - NLP](https://dev.to/datatoinfinity/spelling-checker-nlp-h53)
-- [Building Scalable Web Applications with Advanced JavaScript Patterns](https://dev.to/omriluz1/building-scalable-web-applications-with-advanced-javascript-patterns-5e4c)
-- [Building a Real-World Context-Aware Movie Chatbot Using Amazon Bedrock - Nova Pro](https://dev.to/aws-builders/building-a-real-world-context-aware-movie-chatbot-using-amazon-bedrock-nova-pro-jge)
+- [Predict Like a Leader Without a Crystal Ball](https://dev.to/diamantino_almeida/predict-like-a-leader-without-a-crystal-ball-44ce)
+- [Why game development is a great learning playgroung](https://dev.to/albertzeyer/why-game-development-is-a-great-learning-playgroung-46k9)
+- [Software Architecture Styles : Monolith, Modulith, Micro-services, which option is better for you](https://dev.to/aharmaz/software-architecture-styles-monolith-modulith-micro-services-which-option-is-better-for-you-fad)
+- [🛠 The Tools That Power My Day-to-Day Workflow &lpar;as a MERN Stack Dev&rpar; in 2025](https://dev.to/realcw_bishop/the-tools-that-power-my-day-to-day-workflow-as-a-mern-stack-dev-in-2025-bg7)
 <!-- BLOG-POST-LIST:END -->
 
