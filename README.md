@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GNSS+Drones+AI: How Agricultural Stereo Operation Reinvents Production Processes](https://dev.to/beidou/gnssdronesai-how-agricultural-stereo-operation-reinvents-production-processes-4pf0)
-- [🕵️ &quot;We Thought It Was Secure… Until It Wasn&#39;t.&quot;](https://dev.to/okoye_ndidiamaka_5e3b7d30/we-thought-it-was-secure-until-it-wasnt-18l2)
-- [Advanced Patterns for Event Handling in Browser Environments](https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4)
-- [Ng-News 25/25: &quot;Charted&quot; Coding, SSR &amp; Incremental Hydration](https://dev.to/this-is-angular/ng-news-2525-charted-coding-ssr-incremental-hydration-40ne)
+- [Why People Still Bother Installing Modded Apps on iOS in 2025](https://dev.to/1_king_0b1e1f8bfe6d1/why-people-still-bother-installing-modded-apps-on-ios-in-2025-24ga)
+- [Testing an OpenRewrite recipe](https://dev.to/nfrankel/testing-an-openrewrite-recipe-4l9a)
+- [Host Your Own Web Firewall with SafeLine — No Cloud Needed](https://dev.to/sharon_42e16b8da44dabde6d/host-your-own-web-firewall-with-safeline-no-cloud-needed-oia)
+- [Bro, My App Got Rejected… But I Didn’t Even Add Those Permissions!](https://dev.to/alaminkarno/bro-my-app-got-rejected-but-i-didnt-even-add-those-permissions-48o7)
 <!-- BLOG-POST-LIST:END -->
 
