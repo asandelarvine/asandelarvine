@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Attendance with Biometric HR Systems – A Real-World Use Case](https://dev.to/bazil_taha_3ef27087963853/automating-attendance-with-biometric-hr-systems-a-real-world-use-case-k3e)
-- [Playwright: Using Cognito to Log In for Your E2E Tests](https://dev.to/r0nunes/playwright-using-cognito-to-log-in-for-your-e2e-tests-3ap7)
-- [Building REST APIs with FastAPI: A Comprehensive Guide](https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8)
-- [Variables-Java](https://dev.to/sri_raam_8a9025855753313a/variables-java-54ok)
+- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-48ck)
+- [NodeJS Fundamentals: module](https://dev.to/devopsfundamentals/nodejs-fundamentals-module-5aom)
+- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-4bh4)
+- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-4ghd)
 <!-- BLOG-POST-LIST:END -->
 
