@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📱From APK to .aab: Master the Modern Way to Build &amp; Ship Android Apps](https://dev.to/ayon_ssp/from-apk-to-aab-master-the-modern-way-to-build-ship-android-apps-3e7m)
-- [Generative AI in 2025: Transforming Enterprise Software for the Future](https://dev.to/qasim_blogs/generative-ai-in-2025-transforming-enterprise-software-for-the-future-3c89)
-- [Our internal tool](https://dev.to/aspxone-official/our-internal-tool-53og)
-- [🍰Top 10 Best Cake Shop Full-Stack Projects for Beginners in C#, ASP.NET, and .NET Core](https://dev.to/sapanapal6/top-10-best-cake-shop-full-stack-projects-for-beginners-in-c-aspnet-and-net-core-3c16)
+- [Automating Attendance with Biometric HR Systems – A Real-World Use Case](https://dev.to/bazil_taha_3ef27087963853/automating-attendance-with-biometric-hr-systems-a-real-world-use-case-k3e)
+- [Playwright: Using Cognito to Log In for Your E2E Tests](https://dev.to/r0nunes/playwright-using-cognito-to-log-in-for-your-e2e-tests-3ap7)
+- [Building REST APIs with FastAPI: A Comprehensive Guide](https://dev.to/gautammanak1/building-rest-apis-with-fastapi-a-comprehensive-guide-45f8)
+- [Variables-Java](https://dev.to/sri_raam_8a9025855753313a/variables-java-54ok)
 <!-- BLOG-POST-LIST:END -->
 
