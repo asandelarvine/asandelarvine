@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encrypt &amp; Decrypt Text Securely in the Browser](https://dev.to/goonlinetools/encrypt-decrypt-text-securely-in-the-browser-3le2)
-- [[Boost]](https://dev.to/rajesh_patel/-5o6)
-- [10 AI Tools That Cut Documentation Time by 70% &lpar;Real 2025 Benchmarks&rpar;](https://dev.to/teamcamp/10-ai-tools-that-cut-documentation-time-by-70-real-2025-benchmarks-4fen)
-- [VMware Fundamentals: Photon Docker Image](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-docker-image-58nl)
+- [🚀 Wore Many Hats, Captured Countless Moments – My Journey with AWS Community Day Ahmedabad!](https://dev.to/aricpandya_security/wore-many-hats-captured-countless-moments-my-journey-with-aws-community-day-ahmedabad-32pj)
+- [MongoDB Tutorial for Beginners | Learn NoSQL Database Step-by-Step](https://dev.to/tpointtechblog/mongodb-tutorial-for-beginners-learn-nosql-database-step-by-step-2n7i)
+- [Programming as a Art - Chapter - 6](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-6-174c)
+- [How to Use ChatGPT for Coding: Prompts and Examples for Python, JavaScript, and More](https://dev.to/oluwawunmiadesewa/how-to-use-chatgpt-for-coding-prompts-and-examples-for-python-javascript-and-more-4hph)
 <!-- BLOG-POST-LIST:END -->
 
