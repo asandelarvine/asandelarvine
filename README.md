@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19/180 of Frontend Dev: Creating a Multi-Page Professional Portfolio Site](https://dev.to/code_2/day-19180-of-frontend-dev-creating-a-multi-page-professional-portfolio-site-3fj)
-- [How I Built a Smarter ZIP Engine with AI: My Day 9 &amp; 10 Journey &lpar;Pagonic Project&rpar;](https://dev.to/setrathexx/how-i-built-a-smarter-zip-engine-with-ai-my-day-9-10-journey-pagonic-project-262m)
-- [Bun vs. Deno vs. Node.js: The Ultimate JavaScript Runtime Showdown](https://dev.to/alex_aslam/bun-vs-deno-vs-nodejs-the-ultimate-javascript-runtime-showdown-g52)
-- [🧠 I built an AI that helps overthinkers shut up and decide](https://dev.to/rrretsuf/i-built-an-ai-that-helps-overthinkers-shut-up-and-decide-4655)
+- [Remote Homelab Admin with Tailscale](https://dev.to/lpmi13/remote-homelab-admin-with-tailscale-1jp2)
+- [Go Programming: A Beginner&#39;s Guide](https://dev.to/darshil89/go-programming-a-beginners-guide-58l1)
+- [Building a Smart Task Manager with JavaScript: From Concept to Code](https://dev.to/darshil89/building-a-smart-task-manager-with-javascript-from-concept-to-code-2dn)
+- [⚙️ Model Client System, Universal Routing &amp; Fine-Tuning &lpar;Transformer + Non-Transformer&rpar; in MultiMind SDK](https://dev.to/multimindsdk/model-client-system-universal-routing-fine-tuning-transformer-non-transformer-in-2aii)
 <!-- BLOG-POST-LIST:END -->
 
