@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Query the Records Closest to the Specified Time Each Day — From SQL to SPL #43](https://dev.to/judith677/query-the-records-closest-to-the-specified-time-each-day-from-sql-to-spl-43-43a7)
-- [Huawei HarmonyOS AppStartup Framework: A Powerful Assistant for Optimizing Application Startup Performance](https://dev.to/flfljh/huawei-harmonyos-appstartup-framework-a-powerful-assistant-for-optimizing-application-startup-5e99)
-- [HarmonyOS Flutter PackageInfo Plugin &lpar;Retrieving Package Metadata&rpar;](https://dev.to/flfljh/harmonyos-flutter-packageinfo-plugin-retrieving-package-metadata-jd5)
-- [HarmonyOS Flutter Contacts Integration &lpar;Accessing Native Address Book&rpar;](https://dev.to/flfljh/harmonyos-flutter-contacts-integration-accessing-native-address-book-2bji)
+- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
+- [Vibe Testing — An Intuition-Driven Approach with Genqe](https://dev.to/anil_csimplifyit_905c/vibe-testing-an-intuition-driven-approach-with-genqe-3ib7)
+- [Looking for a mentor](https://dev.to/hamdaalketbiii/looking-for-a-mentor-5fcp)
+- [```](https://dev.to/mosininamdar/-2lck)
 <!-- BLOG-POST-LIST:END -->
 
