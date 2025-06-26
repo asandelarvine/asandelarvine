@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Under Fire: Red Teaming with DeepTeam + Ollama](https://dev.to/nodeshiftcloud/llms-under-fire-red-teaming-with-deepteam-ollama-3l1i)
-- [# 5 Full-Stack Technologies That Will Be Dead by 2026 🪦](https://dev.to/shiva_shanker_dec82951917/-5-full-stack-technologies-that-will-be-dead-by-2026-3ko4)
-- [🛠️ Mastering Git &amp; GitHub](https://dev.to/lilocreator/mastering-git-github-506m)
-- [EventSource: Real-Time Made Easy](https://dev.to/nickgabe/eventsource-real-time-made-easy-49co)
+- [📱From APK to .aab: Master the Modern Way to Build &amp; Ship Android Apps](https://dev.to/ayon_ssp/from-apk-to-aab-master-the-modern-way-to-build-ship-android-apps-3e7m)
+- [Generative AI in 2025: Transforming Enterprise Software for the Future](https://dev.to/qasim_blogs/generative-ai-in-2025-transforming-enterprise-software-for-the-future-3c89)
+- [Our internal tool](https://dev.to/aspxone-official/our-internal-tool-53og)
+- [🍰Top 10 Best Cake Shop Full-Stack Projects for Beginners in C#, ASP.NET, and .NET Core](https://dev.to/sapanapal6/top-10-best-cake-shop-full-stack-projects-for-beginners-in-c-aspnet-and-net-core-3c16)
 <!-- BLOG-POST-LIST:END -->
 
