@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Bold Decisions: Letting Team Members Go Without Taking It Personally](https://dev.to/kris_chou_5f6deb607e8cb75/making-bold-decisions-letting-team-members-go-without-taking-it-personally-263i)
-- [GitLab vs GitHub: Which One to Use?](https://dev.to/s_vasanth_183951c70f1bd52/gitlab-vs-github-which-one-to-use-5g1o)
-- [Setting Default Values in Laravel 12 Eloquent Models](https://dev.to/techsolver94/setting-default-values-in-laravel-12-eloquent-models-5ej5)
-- [&quot;The Secret Life of Money: Unraveling the Mysteries of Your Wallet&quot; Introduction Money, the ultima](https://dev.to/palak_singla_ae13e55615a4/the-secret-life-of-money-unraveling-the-mysteries-of-your-walletintroductionmoney-the-ultima-246m)
+- [🚀 Mastering Vectors in Rust](https://dev.to/nyagooh/mastering-vectors-in-rust-1m0h)
+- [I made a real-time Mafia game you can play with strangers – no signups&lpar;pt2&rpar;](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signupspt2-3jd2)
+- [🚀 Motivation](https://dev.to/keerthana_gudi_89fa82757f/motivation-2m9d)
+- [Made a free tool for fun to encrypt and decrypt the usual ciphers](https://dev.to/zobzter/made-a-free-tool-for-fun-to-encrypt-and-decrypt-the-usual-ciphers-1g7b)
 <!-- BLOG-POST-LIST:END -->
 
