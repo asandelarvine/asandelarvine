@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade your notes with AI research](https://dev.to/sroy8091/upgrade-your-notes-with-ai-research-50b3)
-- [This Free Google AI Tool Just Made Developers Drop Their Paid Subscriptions](https://dev.to/apilover/this-free-google-ai-tool-just-made-developers-drop-their-paid-subscriptions-31mb)
-- [🔥 Takeaways from the Chennai AWS Meetup – May 2025](https://dev.to/balahariharang/takeaways-from-the-chennai-aws-meetup-may-2025-4fnc)
-- [Unlocking the Power of Gen AI: Key Takeaways from AWS Summit India Online 2025](https://dev.to/balahariharang/unlocking-the-power-of-gen-ai-key-takeaways-from-aws-summit-india-online-2025-2i7b)
+- [Features I Wish Postgres Had but MySQL Already Has](https://dev.to/bytebase/features-i-wish-postgres-had-but-mysql-already-has-216b)
+- [Is selfhosting a good idea?](https://dev.to/ultimatehobbycoder/is-selfhosting-a-good-idea-5337)
+- [How AI Agents Empower Small Businesses for Global Success](https://dev.to/milcah03/how-ai-agents-empower-small-businesses-for-global-success-3je8)
+- [NodeJS Fundamentals: exec](https://dev.to/devopsfundamentals/nodejs-fundamentals-exec-1i3g)
 <!-- BLOG-POST-LIST:END -->
 
