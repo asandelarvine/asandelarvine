@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Features I Wish Postgres Had but MySQL Already Has](https://dev.to/bytebase/features-i-wish-postgres-had-but-mysql-already-has-216b)
-- [Is selfhosting a good idea?](https://dev.to/ultimatehobbycoder/is-selfhosting-a-good-idea-5337)
-- [How AI Agents Empower Small Businesses for Global Success](https://dev.to/milcah03/how-ai-agents-empower-small-businesses-for-global-success-3je8)
-- [NodeJS Fundamentals: exec](https://dev.to/devopsfundamentals/nodejs-fundamentals-exec-1i3g)
+- [GNSS+Drones+AI: How Agricultural Stereo Operation Reinvents Production Processes](https://dev.to/beidou/gnssdronesai-how-agricultural-stereo-operation-reinvents-production-processes-4pf0)
+- [🕵️ &quot;We Thought It Was Secure… Until It Wasn&#39;t.&quot;](https://dev.to/okoye_ndidiamaka_5e3b7d30/we-thought-it-was-secure-until-it-wasnt-18l2)
+- [Advanced Patterns for Event Handling in Browser Environments](https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4)
+- [Ng-News 25/25: &quot;Charted&quot; Coding, SSR &amp; Incremental Hydration](https://dev.to/this-is-angular/ng-news-2525-charted-coding-ssr-incremental-hydration-40ne)
 <!-- BLOG-POST-LIST:END -->
 
