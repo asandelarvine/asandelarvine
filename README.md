@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
-- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-52g1)
-- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-2ii5)
-- [‘Sinners&#39; Sets Max Streaming Release Date - July 4](https://dev.to/popcorn_movies/sinners-sets-max-streaming-release-date-july-4-38gi)
+- [🚀 Automatiza tu Facturación Electrónica en Perú: De Manual a API en 10 minutos con PHP](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/automatiza-tu-facturacion-electronica-en-peru-de-manual-a-api-en-10-minutos-con-php-4b4l)
+- [🛡️ How RedXShield is Changing Africa’s Cybersecurity Game](https://dev.to/lindambeki/how-redxshield-is-changing-africas-cybersecurity-game-45bn)
+- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
+- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
 <!-- BLOG-POST-LIST:END -->
 
