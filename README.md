@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why People Still Bother Installing Modded Apps on iOS in 2025](https://dev.to/1_king_0b1e1f8bfe6d1/why-people-still-bother-installing-modded-apps-on-ios-in-2025-24ga)
-- [Testing an OpenRewrite recipe](https://dev.to/nfrankel/testing-an-openrewrite-recipe-4l9a)
-- [Host Your Own Web Firewall with SafeLine — No Cloud Needed](https://dev.to/sharon_42e16b8da44dabde6d/host-your-own-web-firewall-with-safeline-no-cloud-needed-oia)
-- [Bro, My App Got Rejected… But I Didn’t Even Add Those Permissions!](https://dev.to/alaminkarno/bro-my-app-got-rejected-but-i-didnt-even-add-those-permissions-48o7)
+- [10 Best Enterprise Translation Software Features](https://dev.to/liamcorwin/10-best-enterprise-translation-software-features-2mi5)
+- [DAY 2:Git &amp; GitHub: From Local Legend to Cloud Coder ☁️](https://dev.to/sanaipei001/day-2git-github-from-local-legend-to-cloud-coder-1okd)
+- [GraalVM Native Binaries: Benefits, Drawbacks, Adoption](https://dev.to/adityabhuyan/graalvm-native-binaries-benefits-drawbacks-adoption-7h)
+- [Josephus Problem well explained for beginner](https://dev.to/thedeepseeker/josephus-problem-well-explained-for-beginner-22f5)
 <!-- BLOG-POST-LIST:END -->
 
