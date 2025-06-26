@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Homelab Admin with Tailscale](https://dev.to/lpmi13/remote-homelab-admin-with-tailscale-1jp2)
-- [Go Programming: A Beginner&#39;s Guide](https://dev.to/darshil89/go-programming-a-beginners-guide-58l1)
-- [Building a Smart Task Manager with JavaScript: From Concept to Code](https://dev.to/darshil89/building-a-smart-task-manager-with-javascript-from-concept-to-code-2dn)
-- [⚙️ Model Client System, Universal Routing &amp; Fine-Tuning &lpar;Transformer + Non-Transformer&rpar; in MultiMind SDK](https://dev.to/multimindsdk/model-client-system-universal-routing-fine-tuning-transformer-non-transformer-in-2aii)
+- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
+- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-52g1)
+- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-2ii5)
+- [‘Sinners&#39; Sets Max Streaming Release Date - July 4](https://dev.to/popcorn_movies/sinners-sets-max-streaming-release-date-july-4-38gi)
 <!-- BLOG-POST-LIST:END -->
 
