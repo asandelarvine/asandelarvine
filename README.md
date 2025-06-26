@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashkan Rajaee is redefining what it means to lead in difficult moments. This article proves that.](https://dev.to/sofiarights/ashkan-rajaee-is-redefining-what-it-means-to-lead-in-difficult-moments-this-article-proves-that-4i84)
-- [HarmonyOS development understands the dynamic setting of attributes](https://dev.to/redvip8866/harmonyos-development-understands-the-dynamic-setting-of-attributes-3946)
-- [The part about not needing 14 different tools hit hard. This is remote startup wisdom at its finest.](https://dev.to/thedenisegagnon/the-part-about-not-needing-14-different-tools-hit-hard-this-is-remote-startup-wisdom-at-its-finest-15k2)
-- [Imitation Hema - Confirmation Order Page &lpar;Business Logic&rpar; &lpar;30&rpar;](https://dev.to/whl15290959515/imitation-hema-confirmation-order-page-business-logic-30-mnl)
+- [Machine Learning Fundamentals: adam optimizer example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-adam-optimizer-example-1am7)
+- [Mastering Linux File Editors: From First Keystroke to Confident Command-Line Editing](https://dev.to/aishwarygathe/mastering-linux-file-editors-from-first-keystroke-to-confident-command-line-editing-3h82)
+- [🏗️ Multi-Service vs Multi-Node: What’s the Difference?](https://dev.to/sovannaro/multi-service-vs-multi-node-whats-the-difference-5dnm)
+- [HOST a Website Using Gitlab](https://dev.to/m_ramavel_8d478add09a105c/host-a-website-using-gitlab-9gh)
 <!-- BLOG-POST-LIST:END -->
 
