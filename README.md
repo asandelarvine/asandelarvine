@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-48ck)
-- [NodeJS Fundamentals: module](https://dev.to/devopsfundamentals/nodejs-fundamentals-module-5aom)
-- [Secret Netflix Movie That Landed Lofty California Tax Credit Is Likely Brad Pitt&#39;s ‘Adventures Of Cliff Booth&#39;](https://dev.to/popcorn_movies/secret-netflix-movie-that-landed-lofty-california-tax-credit-is-likely-brad-pitts-adventures-of-4bh4)
-- [‘Total Recall&#39; at 35: What One of Arnold Schwarzenegger&#39;s Best Movies Says About Its Star](https://dev.to/popcorn_movies/total-recall-at-35-what-one-of-arnold-schwarzeneggers-best-movies-says-about-its-star-4ghd)
+- [Ashkan Rajaee is redefining what it means to lead in difficult moments. This article proves that.](https://dev.to/sofiarights/ashkan-rajaee-is-redefining-what-it-means-to-lead-in-difficult-moments-this-article-proves-that-4i84)
+- [HarmonyOS development understands the dynamic setting of attributes](https://dev.to/redvip8866/harmonyos-development-understands-the-dynamic-setting-of-attributes-3946)
+- [The part about not needing 14 different tools hit hard. This is remote startup wisdom at its finest.](https://dev.to/thedenisegagnon/the-part-about-not-needing-14-different-tools-hit-hard-this-is-remote-startup-wisdom-at-its-finest-15k2)
+- [Imitation Hema - Confirmation Order Page &lpar;Business Logic&rpar; &lpar;30&rpar;](https://dev.to/whl15290959515/imitation-hema-confirmation-order-page-business-logic-30-mnl)
 <!-- BLOG-POST-LIST:END -->
 
