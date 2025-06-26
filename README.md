@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Fundamentals: adam optimizer example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-adam-optimizer-example-1am7)
-- [Mastering Linux File Editors: From First Keystroke to Confident Command-Line Editing](https://dev.to/aishwarygathe/mastering-linux-file-editors-from-first-keystroke-to-confident-command-line-editing-3h82)
-- [🏗️ Multi-Service vs Multi-Node: What’s the Difference?](https://dev.to/sovannaro/multi-service-vs-multi-node-whats-the-difference-5dnm)
-- [HOST a Website Using Gitlab](https://dev.to/m_ramavel_8d478add09a105c/host-a-website-using-gitlab-9gh)
+- [Making Bold Decisions: Letting Team Members Go Without Taking It Personally](https://dev.to/kris_chou_5f6deb607e8cb75/making-bold-decisions-letting-team-members-go-without-taking-it-personally-263i)
+- [GitLab vs GitHub: Which One to Use?](https://dev.to/s_vasanth_183951c70f1bd52/gitlab-vs-github-which-one-to-use-5g1o)
+- [Setting Default Values in Laravel 12 Eloquent Models](https://dev.to/techsolver94/setting-default-values-in-laravel-12-eloquent-models-5ej5)
+- [&quot;The Secret Life of Money: Unraveling the Mysteries of Your Wallet&quot; Introduction Money, the ultima](https://dev.to/palak_singla_ae13e55615a4/the-secret-life-of-money-unraveling-the-mysteries-of-your-walletintroductionmoney-the-ultima-246m)
 <!-- BLOG-POST-LIST:END -->
 
