@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
-- [Vibe Testing — An Intuition-Driven Approach with Genqe](https://dev.to/anil_csimplifyit_905c/vibe-testing-an-intuition-driven-approach-with-genqe-3ib7)
-- [Looking for a mentor](https://dev.to/hamdaalketbiii/looking-for-a-mentor-5fcp)
-- [```](https://dev.to/mosininamdar/-2lck)
+- [Encrypt &amp; Decrypt Text Securely in the Browser](https://dev.to/goonlinetools/encrypt-decrypt-text-securely-in-the-browser-3le2)
+- [[Boost]](https://dev.to/rajesh_patel/-5o6)
+- [10 AI Tools That Cut Documentation Time by 70% &lpar;Real 2025 Benchmarks&rpar;](https://dev.to/teamcamp/10-ai-tools-that-cut-documentation-time-by-70-real-2025-benchmarks-4fen)
+- [VMware Fundamentals: Photon Docker Image](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-docker-image-58nl)
 <!-- BLOG-POST-LIST:END -->
 
