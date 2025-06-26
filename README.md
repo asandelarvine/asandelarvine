@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Wore Many Hats, Captured Countless Moments – My Journey with AWS Community Day Ahmedabad!](https://dev.to/aricpandya_security/wore-many-hats-captured-countless-moments-my-journey-with-aws-community-day-ahmedabad-32pj)
-- [MongoDB Tutorial for Beginners | Learn NoSQL Database Step-by-Step](https://dev.to/tpointtechblog/mongodb-tutorial-for-beginners-learn-nosql-database-step-by-step-2n7i)
-- [Programming as a Art - Chapter - 6](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-6-174c)
-- [How to Use ChatGPT for Coding: Prompts and Examples for Python, JavaScript, and More](https://dev.to/oluwawunmiadesewa/how-to-use-chatgpt-for-coding-prompts-and-examples-for-python-javascript-and-more-4hph)
+- [Upgrade your notes with AI research](https://dev.to/sroy8091/upgrade-your-notes-with-ai-research-50b3)
+- [This Free Google AI Tool Just Made Developers Drop Their Paid Subscriptions](https://dev.to/apilover/this-free-google-ai-tool-just-made-developers-drop-their-paid-subscriptions-31mb)
+- [🔥 Takeaways from the Chennai AWS Meetup – May 2025](https://dev.to/balahariharang/takeaways-from-the-chennai-aws-meetup-may-2025-4fnc)
+- [Unlocking the Power of Gen AI: Key Takeaways from AWS Summit India Online 2025](https://dev.to/balahariharang/unlocking-the-power-of-gen-ai-key-takeaways-from-aws-summit-india-online-2025-2i7b)
 <!-- BLOG-POST-LIST:END -->
 
