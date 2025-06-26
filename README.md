@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Numbers](https://dev.to/costa86/numbers-2i9p)
-- [Create a simple REST API in python using Flask.](https://dev.to/kiani0x01/create-a-simple-rest-api-in-python-using-flask-3abk)
-- [An essential guide on what is git and how to use git and github.](https://dev.to/kiani0x01/an-essential-guide-on-what-is-git-and-how-to-use-git-and-github-34lb)
-- [Day 16: The Human Connection in Code](https://dev.to/casperday11/day-16-the-human-connection-in-code-2nci)
+- [Day 19/180 of Frontend Dev: Creating a Multi-Page Professional Portfolio Site](https://dev.to/code_2/day-19180-of-frontend-dev-creating-a-multi-page-professional-portfolio-site-3fj)
+- [How I Built a Smarter ZIP Engine with AI: My Day 9 &amp; 10 Journey &lpar;Pagonic Project&rpar;](https://dev.to/setrathexx/how-i-built-a-smarter-zip-engine-with-ai-my-day-9-10-journey-pagonic-project-262m)
+- [Bun vs. Deno vs. Node.js: The Ultimate JavaScript Runtime Showdown](https://dev.to/alex_aslam/bun-vs-deno-vs-nodejs-the-ultimate-javascript-runtime-showdown-g52)
+- [🧠 I built an AI that helps overthinkers shut up and decide](https://dev.to/rrretsuf/i-built-an-ai-that-helps-overthinkers-shut-up-and-decide-4655)
 <!-- BLOG-POST-LIST:END -->
 
