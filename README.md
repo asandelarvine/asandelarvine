@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Mastering Vectors in Rust](https://dev.to/nyagooh/mastering-vectors-in-rust-1m0h)
-- [I made a real-time Mafia game you can play with strangers – no signups&lpar;pt2&rpar;](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signupspt2-3jd2)
-- [🚀 Motivation](https://dev.to/keerthana_gudi_89fa82757f/motivation-2m9d)
-- [Made a free tool for fun to encrypt and decrypt the usual ciphers](https://dev.to/zobzter/made-a-free-tool-for-fun-to-encrypt-and-decrypt-the-usual-ciphers-1g7b)
+- [Numbers](https://dev.to/costa86/numbers-2i9p)
+- [Create a simple REST API in python using Flask.](https://dev.to/kiani0x01/create-a-simple-rest-api-in-python-using-flask-3abk)
+- [An essential guide on what is git and how to use git and github.](https://dev.to/kiani0x01/an-essential-guide-on-what-is-git-and-how-to-use-git-and-github-34lb)
+- [Day 16: The Human Connection in Code](https://dev.to/casperday11/day-16-the-human-connection-in-code-2nci)
 <!-- BLOG-POST-LIST:END -->
 
