@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Code Assistant Actually Helps Developers Grow?](https://dev.to/bekahhw/which-code-assistant-actually-helps-developers-grow-1ki8)
-- [URL Yazıldıqda Hansı Proseslər İşləyir? &lpar;DNS, TCP, TLS, HTTP izahı ilə&rpar;](https://dev.to/metin_abbaszade_2cf1af1c4/url-yazildiqda-hansi-proseslr-islyir-dns-tcp-tls-http-izahi-il-9g2)
-- [Mastering Advanced Vim Commands – Navigate, Search, Replace Like a Pro 💻](https://dev.to/sahillearninglinux/mastering-advanced-vim-commands-navigate-search-replace-like-a-pro-3g19)
-- [Rediscovering My Passion: From Burnout Back to Excitement](https://dev.to/nombrekeff/rediscovering-my-passion-from-burnout-back-to-excitement-cp5)
+- [How JavaScript Cuts Time-to-Market for Custom Web Applications](https://dev.to/michaelwiley9999/how-javascript-cuts-time-to-market-for-custom-web-applications-9o6)
+- [NodeJS Fundamentals: export](https://dev.to/devopsfundamentals/nodejs-fundamentals-export-ig7)
+- [Making Terraform Workspaces in the same project](https://dev.to/drewmullen/making-terraform-workspaces-in-the-same-project-2nhd)
+- [React Router..](https://dev.to/paviarunachalam/react-router-325p)
 <!-- BLOG-POST-LIST:END -->
 
