@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Clean Code Cookbook](https://dev.to/nigel10122/the-clean-code-cookbook-4o27)
-- [We Want Your Thoughts on the Twitter X Rebrand](https://dev.to/jiaji_wang_2c6e9353640fad/we-want-your-thoughts-on-the-twitter-x-rebrand-1643)
-- [How to Build a Search Engine from Scratch in Python &lpar;No External Packages&rpar;](https://dev.to/leapcell/how-to-build-a-search-engine-from-scratch-in-python-no-external-packages-a41)
-- [🚀 Thrilled to Join the Tech Community!](https://dev.to/manukumar07/thrilled-to-join-the-tech-community-42bf)
+- [Which Code Assistant Actually Helps Developers Grow?](https://dev.to/bekahhw/which-code-assistant-actually-helps-developers-grow-1ki8)
+- [URL Yazıldıqda Hansı Proseslər İşləyir? &lpar;DNS, TCP, TLS, HTTP izahı ilə&rpar;](https://dev.to/metin_abbaszade_2cf1af1c4/url-yazildiqda-hansi-proseslr-islyir-dns-tcp-tls-http-izahi-il-9g2)
+- [Mastering Advanced Vim Commands – Navigate, Search, Replace Like a Pro 💻](https://dev.to/sahillearninglinux/mastering-advanced-vim-commands-navigate-search-replace-like-a-pro-3g19)
+- [Rediscovering My Passion: From Burnout Back to Excitement](https://dev.to/nombrekeff/rediscovering-my-passion-from-burnout-back-to-excitement-cp5)
 <!-- BLOG-POST-LIST:END -->
 
