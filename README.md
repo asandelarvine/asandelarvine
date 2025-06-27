@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of Intelligence](https://dev.to/sonmusui/the-illusion-of-intelligence-2e6)
-- [HarmonyOS5-NewsAPP-KnockShare](https://dev.to/zhousg/harmonyos5-newsapp-knockshare-1e6g)
-- [Practical Case of HarmonyOS NEXT Cangjie Development Language: Simple Music Playback Page](https://dev.to/youlanjihua/practical-case-of-harmonyos-next-cangjie-development-language-simple-music-playback-page-49l)
-- [what is the mathematical realization of attention maps from multiple heads?](https://dev.to/henri_wang_d48b1e9bc1ea79/what-is-the-mathematical-realization-of-attention-maps-from-multiple-heads-30jk)
+- [🚀 Kickstart Your PL-300 Journey with Practice Lab 1!](https://dev.to/member_e103fb33/kickstart-your-pl-300-journey-with-practice-lab-1-1170)
+- [How to Run AI Models Privately on Your AI PC with Model HQ; No Cloud, No Code](https://dev.to/llmware/how-to-run-ai-models-privately-on-your-ai-pc-with-model-hq-no-cloud-no-code-3o9k)
+- [VMware Fundamentals: Photon Linux](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-linux-3ilf)
+- [Building a Reliable Crypto Analysis Website: A Guide for Developers and Enthusiasts](https://dev.to/siddarth_1619_0ac9c0bd6fb/building-a-reliable-crypto-analysis-website-a-guide-for-developers-and-enthusiasts-2k63)
 <!-- BLOG-POST-LIST:END -->
 
