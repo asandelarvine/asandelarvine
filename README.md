@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [26th June.](https://dev.to/ramkumar_radhakrishnan/26th-june-58h2)
-- [The Rise of Edge Computing with Node.js: How We Cut Latency by 60%](https://dev.to/alex_aslam/the-rise-of-edge-computing-with-nodejs-how-we-cut-latency-by-60-58gj)
-- [Deploying a Static Website on S3 with Terraform](https://dev.to/antai/deploying-a-static-website-on-s3-with-terraform-17b)
-- [JavaScript Concept: Currying and its implementation in Redux](https://dev.to/alifa_ara_heya/javascript-concept-currying-and-its-implementation-in-redux-abe)
+- [Security news weekly round-up - 27th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-27th-june-2025-4ckn)
+- [Heartfelt Review of The iN Crowd: Life, Legacy, Leadership – Rise Above Challenges with Kahlil Carter](https://dev.to/christopherfinkelstein/heartfelt-review-of-the-in-crowd-life-legacy-leadership-rise-above-challenges-with-kahlil-46jo)
+- [The Silent Killers in Node.js: uncaughtException and unhandledRejection 🐦](https://dev.to/silentwatcher_95/the-silent-killers-in-nodejs-uncaughtexception-and-unhandledrejection-1p9b)
+- [🚀 HexTo Just Got a Massive Upgrade: Harmonies, Tokens, Vision Sim, and More!](https://dev.to/elhoucine_ousidiali_fae35/hexto-just-got-a-massive-upgrade-harmonies-tokens-vision-sim-and-more-2304)
 <!-- BLOG-POST-LIST:END -->
 
