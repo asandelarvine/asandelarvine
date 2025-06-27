@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [So impressed by Ashkan Rajaee’s ability to create dialogue instead of division. Leadership content we truly need.](https://dev.to/themargauxs/so-impressed-by-ashkan-rajaees-ability-to-create-dialogue-instead-of-division-leadership-content-129f)
-- [Claude Learns to Blackmail? : Anthropic&#39;s Research](https://dev.to/grenishrai/claude-learns-to-blackmail-anthropics-research-mhf)
-- [Automating Vault Installation with Ansible on Ubuntu](https://dev.to/lovestaco/automating-vault-installation-with-ansible-on-ubuntu-3k3i)
-- [A Personal Portfolio you must try !](https://dev.to/msranjana/a-personal-portfolio-you-must-try--jdj)
+- [Comprehensive Health Optimization Agent](https://dev.to/ai_agi/comprehensive-health-optimization-agent-bn9)
+- [Cache Breakdown Prevention with Go’s singleflight](https://dev.to/leapcell/cache-breakdown-prevention-with-gos-singleflight-2b14)
+- [My first portfolio in Figma](https://dev.to/yowise/my-first-portfolio-in-figma-ofh)
+- [Amazon Q in Action ! Pacman Inspired game deployed](https://dev.to/aws-builders/amazon-q-in-action-pacman-inspired-game-deployed-555m)
 <!-- BLOG-POST-LIST:END -->
 
