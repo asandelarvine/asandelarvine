@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How JavaScript Cuts Time-to-Market for Custom Web Applications](https://dev.to/michaelwiley9999/how-javascript-cuts-time-to-market-for-custom-web-applications-9o6)
-- [NodeJS Fundamentals: export](https://dev.to/devopsfundamentals/nodejs-fundamentals-export-ig7)
-- [Making Terraform Workspaces in the same project](https://dev.to/drewmullen/making-terraform-workspaces-in-the-same-project-2nhd)
-- [React Router..](https://dev.to/paviarunachalam/react-router-325p)
+- [Loved how this did not glamorize remote work but instead offered tools to make it sustainable.](https://dev.to/tobylokii/loved-how-this-did-not-glamorize-remote-work-but-instead-offered-tools-to-make-it-sustainable-28me)
+- [SCI-FI is all you need: Meet GEN-I-SYS](https://dev.to/ashishw/sci-fi-is-all-you-need-meet-gen-i-sys-2kf)
+- [🎨 New to CSS? This One’s for You!](https://dev.to/ml318097/new-to-css-this-ones-for-you-2oo7)
+- [Session Keys Aren’t Enough — Here’s How to Store Keys Without Holding Them](https://dev.to/caerlower/session-keys-arent-enough-heres-how-to-store-keys-without-holding-them-1355)
 <!-- BLOG-POST-LIST:END -->
 
