@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Gemini CLI and Other Top Coding Agents - Here&#39;s What I Found](https://dev.to/therealmrmumba/i-tested-gemini-cli-and-other-top-coding-agents-heres-what-i-found-om1)
-- [How to import BIM data from the building industry into GISBox in one click](https://dev.to/gisbox_en/how-to-import-bim-data-from-the-building-industry-into-gisbox-in-one-click-4oih)
-- [Why Working at a Café Can Supercharge Your Productivity as a Developer](https://dev.to/satyabrata_dd224dce47e7bc/why-working-at-a-cafe-can-supercharge-your-productivity-as-a-developer-5606)
-- [A very good read on CRP and how to optimize it.](https://dev.to/javascriptwizzard/a-very-good-read-on-crp-and-how-to-optimize-it-1g47)
+- [NodeJS Fundamentals: execFile](https://dev.to/devopsfundamentals/nodejs-fundamentals-execfile-5bon)
+- [Step-by-Step: Custom Markers in MapLibre GL with Geoapify Marker API](https://dev.to/geoapify/step-by-step-custom-markers-in-maplibre-gl-with-geoapify-marker-api-3dk1)
+- [How to Set Up Smart Notifications in SafeLine &lpar;v8.8+&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-smart-notifications-in-safeline-v88-46g1)
+- [How to animate objects on scroll with Tailwind CSS and the JavaScript intersection observer API](https://dev.to/mike_andreuzza/how-to-animate-objects-on-scroll-with-tailwind-css-and-the-javascript-intersection-observer-api-49nj)
 <!-- BLOG-POST-LIST:END -->
 
