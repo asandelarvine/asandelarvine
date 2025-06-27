@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Web Development Journey - The New Maze](https://dev.to/rinidh/my-web-development-journey-the-new-maze-4j5f)
-- [SSO Security Exposed: Real-World Attack Scenarios in 2025](https://dev.to/smdefencerabbit/sso-security-exposed-real-world-attack-scenarios-in-2025-2fo1)
-- [AI Won’t Replace You — But It Will Move You](https://dev.to/javaskr/ai-wont-replace-you-but-it-will-move-you-12nd)
-- [Here’s how i break down what job listings really mean](https://dev.to/thetechpreneur/heres-how-i-break-down-what-job-listings-really-mean-5blg)
+- [Centralize Your Node.js Config: How to Leverage npm&#39;s config Key with cross-env](https://dev.to/silentwatcher_95/centralize-your-nodejs-config-how-to-leverage-npms-config-key-with-cross-env-l2h)
+- [RustConf in 2025: Exploring the Next Decade of Rust — Seattle, Sept 2-5](https://dev.to/rustfoundation/rustconf-in-2025-exploring-the-next-decade-of-rust-seattle-sept-2-5-lk2)
+- [[Boost]](https://dev.to/kanishk_gupta_bd1cf3858f4/-3n97)
+- [From Manual Grind to AI Power: My Journey with Keploy API Testing](https://dev.to/kanishk_gupta_bd1cf3858f4/from-manual-grind-to-ai-power-my-journey-with-keploy-api-testing-1ign)
 <!-- BLOG-POST-LIST:END -->
 
