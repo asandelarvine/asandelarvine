@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Health Optimization Agent](https://dev.to/ai_agi/comprehensive-health-optimization-agent-bn9)
-- [Cache Breakdown Prevention with Go’s singleflight](https://dev.to/leapcell/cache-breakdown-prevention-with-gos-singleflight-2b14)
-- [My first portfolio in Figma](https://dev.to/yowise/my-first-portfolio-in-figma-ofh)
-- [Amazon Q in Action ! Pacman Inspired game deployed](https://dev.to/aws-builders/amazon-q-in-action-pacman-inspired-game-deployed-555m)
+- [My Web Development Journey - The New Maze](https://dev.to/rinidh/my-web-development-journey-the-new-maze-4j5f)
+- [SSO Security Exposed: Real-World Attack Scenarios in 2025](https://dev.to/smdefencerabbit/sso-security-exposed-real-world-attack-scenarios-in-2025-2fo1)
+- [AI Won’t Replace You — But It Will Move You](https://dev.to/javaskr/ai-wont-replace-you-but-it-will-move-you-12nd)
+- [Here’s how i break down what job listings really mean](https://dev.to/thetechpreneur/heres-how-i-break-down-what-job-listings-really-mean-5blg)
 <!-- BLOG-POST-LIST:END -->
 
