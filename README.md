@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS 5 Business App Tip - OTP Input Component](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-business-app-tip-otp-input-component-fg8)
-- [How to Call Global Dialogs from Classes in HarmonyOS](https://dev.to/_46ad8e02443cdd7ecf4db/how-to-call-global-dialogs-from-classes-in-harmonyos-2017)
-- [Unmasking the Shadows: Understanding and Mitigating Server Side Request Forgery &lpar;SSRF&rpar;](https://dev.to/vjnvisakh/unmasking-the-shadows-understanding-and-mitigating-server-side-request-forgery-ssrf-1lm5)
-- [SwiftUI Component Architecture Mastery: Professional Styling, Testing &amp; Performance &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-professional-styling-testing-performance-2025-1h5p)
+- [Build Games Challenge](https://dev.to/sanakainat/build-games-challenge-4gf4)
+- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
+- [Just launched a free 9-chapter course on Agentic AI Systems](https://dev.to/adiapplab_a693f56906b67cc/just-launched-a-free-9-chapter-course-on-agentic-ai-systems-2h1c)
+- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
 <!-- BLOG-POST-LIST:END -->
 
