@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Automatiza tu Facturación Electrónica en Perú: De Manual a API en 10 minutos con PHP](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/automatiza-tu-facturacion-electronica-en-peru-de-manual-a-api-en-10-minutos-con-php-4b4l)
-- [🛡️ How RedXShield is Changing Africa’s Cybersecurity Game](https://dev.to/lindambeki/how-redxshield-is-changing-africas-cybersecurity-game-45bn)
-- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
-- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
+- [Untitle](https://dev.to/rober2184/untitle-5egm)
+- [Without a Native Operating System, Decentralized AI Cannot Exist — This Is Why SeaOS Was Born](https://dev.to/seaos_ai/without-a-native-operating-system-decentralized-ai-cannot-exist-this-is-why-seaos-was-born-pl7)
+- [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
+- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
 <!-- BLOG-POST-LIST:END -->
 
