@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Games Challenge](https://dev.to/sanakainat/build-games-challenge-4gf4)
-- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
-- [Just launched a free 9-chapter course on Agentic AI Systems](https://dev.to/adiapplab_a693f56906b67cc/just-launched-a-free-9-chapter-course-on-agentic-ai-systems-2h1c)
-- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
+- [The Clean Code Cookbook](https://dev.to/nigel10122/the-clean-code-cookbook-4o27)
+- [We Want Your Thoughts on the Twitter X Rebrand](https://dev.to/jiaji_wang_2c6e9353640fad/we-want-your-thoughts-on-the-twitter-x-rebrand-1643)
+- [How to Build a Search Engine from Scratch in Python &lpar;No External Packages&rpar;](https://dev.to/leapcell/how-to-build-a-search-engine-from-scratch-in-python-no-external-packages-a41)
+- [🚀 Thrilled to Join the Tech Community!](https://dev.to/manukumar07/thrilled-to-join-the-tech-community-42bf)
 <!-- BLOG-POST-LIST:END -->
 
