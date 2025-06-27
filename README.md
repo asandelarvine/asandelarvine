@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Kickstart Your PL-300 Journey with Practice Lab 1!](https://dev.to/member_e103fb33/kickstart-your-pl-300-journey-with-practice-lab-1-1170)
-- [How to Run AI Models Privately on Your AI PC with Model HQ; No Cloud, No Code](https://dev.to/llmware/how-to-run-ai-models-privately-on-your-ai-pc-with-model-hq-no-cloud-no-code-3o9k)
-- [VMware Fundamentals: Photon Linux](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-linux-3ilf)
-- [Building a Reliable Crypto Analysis Website: A Guide for Developers and Enthusiasts](https://dev.to/siddarth_1619_0ac9c0bd6fb/building-a-reliable-crypto-analysis-website-a-guide-for-developers-and-enthusiasts-2k63)
+- [Building a Simple To-Do List App with JavaScript](https://dev.to/muhammadatiflatif/building-a-simple-to-do-list-app-with-javascript-oc9)
+- [Understanding Promises in JavaScript: A Comprehensive Guide](https://dev.to/muhammadatiflatif/understanding-promises-in-javascript-a-comprehensive-guide-1220)
+- [How to Build a REST API with Node.js and Express](https://dev.to/muhammadatiflatif/how-to-build-a-rest-api-with-nodejs-and-express-1m39)
+- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
 <!-- BLOG-POST-LIST:END -->
 
