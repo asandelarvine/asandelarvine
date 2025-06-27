@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple To-Do List App with JavaScript](https://dev.to/muhammadatiflatif/building-a-simple-to-do-list-app-with-javascript-oc9)
-- [Understanding Promises in JavaScript: A Comprehensive Guide](https://dev.to/muhammadatiflatif/understanding-promises-in-javascript-a-comprehensive-guide-1220)
-- [How to Build a REST API with Node.js and Express](https://dev.to/muhammadatiflatif/how-to-build-a-rest-api-with-nodejs-and-express-1m39)
-- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
+- [I Tested Gemini CLI and Other Top Coding Agents - Here&#39;s What I Found](https://dev.to/therealmrmumba/i-tested-gemini-cli-and-other-top-coding-agents-heres-what-i-found-om1)
+- [How to import BIM data from the building industry into GISBox in one click](https://dev.to/gisbox_en/how-to-import-bim-data-from-the-building-industry-into-gisbox-in-one-click-4oih)
+- [Why Working at a Café Can Supercharge Your Productivity as a Developer](https://dev.to/satyabrata_dd224dce47e7bc/why-working-at-a-cafe-can-supercharge-your-productivity-as-a-developer-5606)
+- [A very good read on CRP and how to optimize it.](https://dev.to/javascriptwizzard/a-very-good-read-on-crp-and-how-to-optimize-it-1g47)
 <!-- BLOG-POST-LIST:END -->
 
