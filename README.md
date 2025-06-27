@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: execFile](https://dev.to/devopsfundamentals/nodejs-fundamentals-execfile-5bon)
-- [Step-by-Step: Custom Markers in MapLibre GL with Geoapify Marker API](https://dev.to/geoapify/step-by-step-custom-markers-in-maplibre-gl-with-geoapify-marker-api-3dk1)
-- [How to Set Up Smart Notifications in SafeLine &lpar;v8.8+&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-smart-notifications-in-safeline-v88-46g1)
-- [How to animate objects on scroll with Tailwind CSS and the JavaScript intersection observer API](https://dev.to/mike_andreuzza/how-to-animate-objects-on-scroll-with-tailwind-css-and-the-javascript-intersection-observer-api-49nj)
+- [How to Test HarmonyOS 5 Apps: Must-Have Toolkit for Developers](https://dev.to/dcdvdv_a_5059c020ba962689/how-to-test-harmonyos-5-apps-must-have-toolkit-for-developers-41c5)
+- [Heyy i am new here can you tell me what to do](https://dev.to/hsmanu1205/heyy-i-am-new-here-can-you-tell-me-what-to-do-560c)
+- [From Manual API Testing to AI-Powered Automation: My Experience with Keploy](https://dev.to/shruti_pathak/from-manual-api-testing-to-ai-powered-automation-my-experience-with-keploy-40h4)
+- [Learn CSS - Shadows intro 1](https://dev.to/marcelinaredocindo14/learn-css-shadows-intro-1-3ep9)
 <!-- BLOG-POST-LIST:END -->
 
