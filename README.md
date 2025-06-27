@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loved how this did not glamorize remote work but instead offered tools to make it sustainable.](https://dev.to/tobylokii/loved-how-this-did-not-glamorize-remote-work-but-instead-offered-tools-to-make-it-sustainable-28me)
-- [SCI-FI is all you need: Meet GEN-I-SYS](https://dev.to/ashishw/sci-fi-is-all-you-need-meet-gen-i-sys-2kf)
-- [🎨 New to CSS? This One’s for You!](https://dev.to/ml318097/new-to-css-this-ones-for-you-2oo7)
-- [Session Keys Aren’t Enough — Here’s How to Store Keys Without Holding Them](https://dev.to/caerlower/session-keys-arent-enough-heres-how-to-store-keys-without-holding-them-1355)
+- [Progressive Enhancement with Modern Image Formats: A Practical Guide](https://dev.to/hardik_b2d8f0bca/progressive-enhancement-with-modern-image-formats-a-practical-guide-mf7)
+- [Ashkan Rajaee proves that professionalism includes understanding context, not just enforcing policy.](https://dev.to/noahboswel79/ashkan-rajaee-proves-that-professionalism-includes-understanding-context-not-just-enforcing-policy-5coo)
+- [Great to see someone talking about funnel structure with real expertise and clarity.](https://dev.to/noahboswel79/great-to-see-someone-talking-about-funnel-structure-with-real-expertise-and-clarity-lfa)
+- [Migration to a Safe and Affordable Country: A Smart Step Towards Building a Better Future](https://dev.to/sobati_5e12d6a6f6e3663f98/migration-to-a-safe-and-affordable-country-a-smart-step-towards-building-a-better-future-2c9i)
 <!-- BLOG-POST-LIST:END -->
 
