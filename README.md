@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Centralize Your Node.js Config: How to Leverage npm&#39;s config Key with cross-env](https://dev.to/silentwatcher_95/centralize-your-nodejs-config-how-to-leverage-npms-config-key-with-cross-env-l2h)
-- [RustConf in 2025: Exploring the Next Decade of Rust — Seattle, Sept 2-5](https://dev.to/rustfoundation/rustconf-in-2025-exploring-the-next-decade-of-rust-seattle-sept-2-5-lk2)
-- [[Boost]](https://dev.to/kanishk_gupta_bd1cf3858f4/-3n97)
-- [From Manual Grind to AI Power: My Journey with Keploy API Testing](https://dev.to/kanishk_gupta_bd1cf3858f4/from-manual-grind-to-ai-power-my-journey-with-keploy-api-testing-1ign)
+- [26th June.](https://dev.to/ramkumar_radhakrishnan/26th-june-58h2)
+- [The Rise of Edge Computing with Node.js: How We Cut Latency by 60%](https://dev.to/alex_aslam/the-rise-of-edge-computing-with-nodejs-how-we-cut-latency-by-60-58gj)
+- [Deploying a Static Website on S3 with Terraform](https://dev.to/antai/deploying-a-static-website-on-s3-with-terraform-17b)
+- [JavaScript Concept: Currying and its implementation in Redux](https://dev.to/alifa_ara_heya/javascript-concept-currying-and-its-implementation-in-redux-abe)
 <!-- BLOG-POST-LIST:END -->
 
