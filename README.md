@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitle](https://dev.to/rober2184/untitle-5egm)
-- [Without a Native Operating System, Decentralized AI Cannot Exist — This Is Why SeaOS Was Born](https://dev.to/seaos_ai/without-a-native-operating-system-decentralized-ai-cannot-exist-this-is-why-seaos-was-born-pl7)
-- [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
-- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
+- [The Illusion of Intelligence](https://dev.to/sonmusui/the-illusion-of-intelligence-2e6)
+- [HarmonyOS5-NewsAPP-KnockShare](https://dev.to/zhousg/harmonyos5-newsapp-knockshare-1e6g)
+- [Practical Case of HarmonyOS NEXT Cangjie Development Language: Simple Music Playback Page](https://dev.to/youlanjihua/practical-case-of-harmonyos-next-cangjie-development-language-simple-music-playback-page-49l)
+- [what is the mathematical realization of attention maps from multiple heads?](https://dev.to/henri_wang_d48b1e9bc1ea79/what-is-the-mathematical-realization-of-attention-maps-from-multiple-heads-30jk)
 <!-- BLOG-POST-LIST:END -->
 
