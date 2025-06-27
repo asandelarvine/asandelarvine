@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual to AI: My Journey with Keploy Chrome Extension](https://dev.to/sorbojit_mondal_2f38ba9c7/from-manual-to-ai-my-journey-with-keploy-chrome-extension-1b7)
-- [Kafka Fundamentals: kafka flush.interval.ms](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-flushintervalms-4c2l)
-- [Phased vs Big Bang Implementation: Choosing the Right Strategy for Your Dynamics 365 Journey](https://dev.to/ranjika50/phased-vs-big-bang-implementation-choosing-the-right-strategy-for-your-dynamics-365-journey-3aj1)
-- [Using Java/Python in place of stored procedure for batch jobs?](https://dev.to/esproc_spl/using-javapython-in-place-of-stored-procedure-for-batch-jobs-42kj)
+- [HarmonyOS 5 Business App Tip - OTP Input Component](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-business-app-tip-otp-input-component-fg8)
+- [How to Call Global Dialogs from Classes in HarmonyOS](https://dev.to/_46ad8e02443cdd7ecf4db/how-to-call-global-dialogs-from-classes-in-harmonyos-2017)
+- [Unmasking the Shadows: Understanding and Mitigating Server Side Request Forgery &lpar;SSRF&rpar;](https://dev.to/vjnvisakh/unmasking-the-shadows-understanding-and-mitigating-server-side-request-forgery-ssrf-1lm5)
+- [SwiftUI Component Architecture Mastery: Professional Styling, Testing &amp; Performance &lpar;2025&rpar;](https://dev.to/swift_pal/swiftui-component-architecture-mastery-professional-styling-testing-performance-2025-1h5p)
 <!-- BLOG-POST-LIST:END -->
 
