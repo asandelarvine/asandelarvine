@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: import](https://dev.to/devopsfundamentals/nodejs-fundamentals-import-32jm)
-- [10 Python Tricks Every Developer Should Know](https://dev.to/gulshan0709/10-python-tricks-every-developer-should-know-1oa3)
-- [The Anti-ChatGPT Sales Approach: Why Personalization Still Wins](https://dev.to/charlie_brinicombe/the-anti-chatgpt-sales-approach-why-personalization-still-wins-1cj7)
-- [Angular Image Optimization: Lazy Loading and Beyond](https://dev.to/hardik_b2d8f0bca/angular-image-optimization-lazy-loading-and-beyond-he7)
+- [【Journey of HarmonyOS Next】Developing on ArkTS &lpar;3&rpar; -&gt; JS-compatible Web Development &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-on-arkts-3-js-compatible-web-development-1-3ii8)
+- [Building a Modern Tier List App: Architecture and Logic Deep Dive](https://dev.to/blamsa0mine/building-a-modern-tier-list-app-architecture-and-logic-deep-dive-1c3k)
+- [HarmonyOS Development: Simple Implementation of a Service Card](https://dev.to/abnerming888/harmonyos-development-simple-implementation-of-a-service-card-4im8)
+- [Verification vs. Validation in Software Testing – A Clear Breakdown](https://dev.to/lipika_chaliha_62f07e3f7b/verification-vs-validation-in-software-testing-a-clear-breakdown-bho)
 <!-- BLOG-POST-LIST:END -->
 
