@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ERC 1155 Token](https://dev.to/tech_journey_85208cd43521/erc-1155-token-41ka)
-- [Integrating Spring Boot with Angular](https://dev.to/tleipzig/integrating-spring-boot-with-angular-42kc)
-- [How to Generate an Array of Numbers in a Specific Range in JavaScript](https://dev.to/ibrahimalanshor/how-to-generate-an-array-of-numbers-in-a-specific-range-in-javascript-4j38)
-- [🔥 DeepSeek API is 100% FREE! &lpar;No Excuses Left&rpar; Build AI Apps &amp; Chatbots Easily 🚀](https://dev.to/ritesh2204/deepseek-api-is-100-free-no-excuses-left-build-ai-apps-chatbots-easily-6md)
+- [NodeJS Fundamentals: import](https://dev.to/devopsfundamentals/nodejs-fundamentals-import-32jm)
+- [10 Python Tricks Every Developer Should Know](https://dev.to/gulshan0709/10-python-tricks-every-developer-should-know-1oa3)
+- [The Anti-ChatGPT Sales Approach: Why Personalization Still Wins](https://dev.to/charlie_brinicombe/the-anti-chatgpt-sales-approach-why-personalization-still-wins-1cj7)
+- [Angular Image Optimization: Lazy Loading and Beyond](https://dev.to/hardik_b2d8f0bca/angular-image-optimization-lazy-loading-and-beyond-he7)
 <!-- BLOG-POST-LIST:END -->
 
