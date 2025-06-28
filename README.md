@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware Fundamentals: Photon Os Installer](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-os-installer-3f1d)
-- [From Freelance Developer to Founder of Karvexia – My Journey Building a Tech Company from Scratch](https://dev.to/karthikeyankamaraj/from-freelance-developer-to-founder-of-karvexia-my-journey-building-a-tech-company-from-scratch-220j)
-- [From Frustration to Flow: How Keploy Changed the Way I Test APIs](https://dev.to/sakshisejal296/from-frustration-to-flow-how-keploy-changed-the-way-i-test-apis-2i4g)
-- [HarmonyOS Development: hvigorw, Compile and Build, Implement Command Packaging](https://dev.to/abnerming888/harmonyos-development-hvigorw-compile-and-build-implement-command-packaging-4n0p)
+- [📊 ClientPulse – Your AI Assistant for Client Follow-Ups &amp; Summaries](https://dev.to/shravzzv/clientpulse-your-ai-assistant-for-client-follow-ups-summaries-17og)
+- [pride_rainbow_css_art](https://dev.to/aniruddhaadak/priderainbowcssart-1i9c)
+- [Journey on linux](https://dev.to/audi_nathanael_2ebc067b3c/journey-on-linux-m5n)
+- [My Experience with AI-Driven API Testing using Keploy](https://dev.to/neha_bommireddy_ca874840b/my-experience-with-ai-driven-api-testing-using-keploy-hco)
 <!-- BLOG-POST-LIST:END -->
 
