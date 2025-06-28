@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end Security Best Practices](https://dev.to/godofgeeks/front-end-security-best-practices-2ki)
-- [📖 Closures in JavaScript — Unlocking Private Variables](https://dev.to/chaitanya_chopde_dd0642ed/day-2-closures-in-javascript-unlocking-private-variables-225)
-- [NodeJS Fundamentals: worker_threads](https://dev.to/devopsfundamentals/nodejs-fundamentals-workerthreads-mld)
-- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;3&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca)
+- [Global Font, Non-null Assertion, Component Dialog Usage, List Scroll to Top, Soft Keyboard Control](https://dev.to/qingkouwei/global-font-non-null-assertion-component-dialog-usage-list-scroll-to-top-soft-keyboard-control-4f0k)
+- [Gesture Password, Text Gradient, Page Return Value Passing, Network Image Display, Timer](https://dev.to/qingkouwei/gesture-password-text-gradient-page-return-value-passing-network-image-display-timer-558i)
+- [Parent Component Triggering Child Component Methods, List Gap Issues, Page Show/Hide, Dynamic JSON Modification](https://dev.to/qingkouwei/parent-component-triggering-child-component-methods-list-gap-issues-page-showhide-dynamic-json-1p1h)
+- [【Journey of HarmonyOS Next】Developing with ArkTS &lpar;2&rpar; -&gt; UI Development 1](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-with-arkts-2-ui-development-1-450j)
 <!-- BLOG-POST-LIST:END -->
 
