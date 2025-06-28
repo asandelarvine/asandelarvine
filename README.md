@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;2&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-2-o66)
-- [From Manual Hustle to AI Magic: My First API Testing Experience with Keploy Extension](https://dev.to/vipulsc1/from-manual-hustle-to-ai-magic-my-first-api-testing-experience-with-keploy-extension-1i0e)
-- [How I Use ChatGPT to Supercharge My Game Development Workflow](https://dev.to/slackerrrrrrrrrr7777777777/how-i-use-chatgpt-to-supercharge-my-game-development-workflow-2cg0)
-- [Getting Started with Gofr: The Developer-Friendly Go Framework You Need to Try!](https://dev.to/akshama_chauhan_c05a3f009/getting-started-with-gofr-the-developer-friendly-go-framework-you-need-to-try-1f47)
+- [Front-end Security Best Practices](https://dev.to/godofgeeks/front-end-security-best-practices-2ki)
+- [📖 Closures in JavaScript — Unlocking Private Variables](https://dev.to/chaitanya_chopde_dd0642ed/day-2-closures-in-javascript-unlocking-private-variables-225)
+- [NodeJS Fundamentals: worker_threads](https://dev.to/devopsfundamentals/nodejs-fundamentals-workerthreads-mld)
+- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;3&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca)
 <!-- BLOG-POST-LIST:END -->
 
