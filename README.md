@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-1chh)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2je6)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2jcm)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-3jk9)
+- [How I Went From 0 to 100% API Test Coverage in Minutes with Keploy](https://dev.to/ali_rizvi_98fb6f3a8039d94/how-i-went-from-0-to-100-api-test-coverage-in-minutes-with-keploy-522a)
+- [Dad&#39;s Canned Jokes - June CSS Art Challenge](https://dev.to/jarvisscript/dads-canned-jokes-june-css-art-challenge-1cp4)
+- [🚀 My Developer Portfolio Is Live and Now Fully Responsive!](https://dev.to/nicolasandrescl/my-developer-portfolio-is-live-and-now-fully-responsive-mb9)
+- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
 <!-- BLOG-POST-LIST:END -->
 
