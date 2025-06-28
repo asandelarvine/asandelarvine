@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From C# to Swift; Discovering new worlds!](https://dev.to/rasheedmozaffar/from-c-to-swift-discovering-new-worlds-1934)
-- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-515a)
-- [Rath Yatra - Chariots of Divine](https://dev.to/trishnapattanaik/rath-yatra-chariots-of-divine-52pg)
-- [Building a Custom Dependency Injection Container in JavaScript](https://dev.to/omriluz1/building-a-custom-dependency-injection-container-in-javascript-47k3)
+- [Understanding Key Cloud Concepts.](https://dev.to/ezekiel_umesi_5bd2fa6069c/understanding-key-cloud-concepts-2b15)
+- [Introducing ChargeDose: The Smart Battery Reminder for Windows Users](https://dev.to/thekusaldarshana/introducing-chargedose-the-smart-battery-reminder-for-windows-users-53ck)
+- [MindsDB Stress Test Knowledge Base - My Journey Creating App using MindsDB KB](https://dev.to/gungz/mindsdb-stress-test-knowledge-base-my-journey-creating-app-using-mindsdb-kb-3p4j)
+- [Vulnerability Assessment](https://dev.to/salman_khan_c31307505285e/vulnerability-assessment-14fl)
 <!-- BLOG-POST-LIST:END -->
 
