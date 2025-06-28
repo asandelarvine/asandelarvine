@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 305 - Null Infinity](https://dev.to/mcsee/code-smell-305-null-infinity-196i)
-- [Nvidia Surges to Top Spot: AI Demand Fuels Market Dominance](https://dev.to/narendra_patil_9d03733681/nvidia-surges-to-top-spot-ai-demand-fuels-market-dominance-12dm)
-- [Kubernetes with aiops](https://dev.to/stefanie-a/kubernetes-with-aiops-4fd4)
-- [Day 21/180 of Frontend Dev: Introduction to CSS - Syntax, Selectors, and Applying Styles](https://dev.to/code_2/day-21180-of-frontend-dev-introduction-to-css-syntax-selectors-and-applying-styles-61f)
+- [Linux Insight Blogs: chmod](https://dev.to/ankur0904/linux-insight-blogs-chmod-dfb)
+- [Learn In-Demand Web Development &amp; Coding Skills For Free](https://dev.to/chrisdixon161/learn-in-demand-web-development-coding-skills-for-free-4mcd)
+- [Soft Launching Instagram: Build Buzz Before the Big Reveal](https://dev.to/uisaleh/soft-launching-instagram-build-buzz-before-the-big-reveal-9ci)
+- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;25&rpar; -&gt; Business Introduction &lpar;2&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-25-business-introduction-2-36l3)
 <!-- BLOG-POST-LIST:END -->
 
