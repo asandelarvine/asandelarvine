@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Cross-Origin Resources, Web Long-Press Menu, Web Request Interception, Screen Recording Prevention, Base64 Image Dimensions](https://dev.to/qingkouwei/web-cross-origin-resources-web-long-press-menu-web-request-interception-screen-recording-2m44)
-- [🚀 Startup Scout Agent: Find the Hottest New Startups with One AI Prompt | Runner H Challenge](https://dev.to/aditya_007/startup-scout-agent-find-the-hottest-new-startups-with-one-ai-prompt-runner-h-challenge-f97)
-- [Web File Upload, Continuous Click Monitoring in Four Directions, Fold Hover, String Operations, and Sandbox Video Playback](https://dev.to/qingkouwei/web-file-upload-continuous-click-monitoring-in-four-directions-fold-hover-string-operations-and-125h)
-- [Built My Personal Portfolio Using HTML CSS and JavaScript](https://dev.to/sudhakar_v_c404997aeec839/built-my-personal-portfolio-using-html-css-and-javascript-2do4)
+- [Detailed Explanation of HarmonyOS App.json5 Configuration](https://dev.to/mengr/detailed-explanation-of-harmonyos-appjson5-configuration-21aj)
+- [Routing Stack Issues, Image Rounding, Color Resource to Hex Conversion, Dataset Change Crash, Component Lifecycle](https://dev.to/qingkouwei/routing-stack-issues-image-rounding-color-resource-to-hex-conversion-dataset-change-crash-1kck)
+- [Like Animation Implementation, Grid Visible Items, Refresh Component, Code Specifications, State Variables](https://dev.to/qingkouwei/like-animation-implementation-grid-visible-items-refresh-component-code-specifications-state-llm)
+- [Open source: ImageKit, a Rust-based tool for batch image compression and watermarking.](https://dev.to/frr/open-source-imagekit-a-rust-based-tool-for-batch-image-compression-and-watermarking-2i5)
 <!-- BLOG-POST-LIST:END -->
 
