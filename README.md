@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pride Month 2025: Love Wins 🏳️‍🌈](https://dev.to/makendrang/pride-month-2025-love-wins-48ef)
-- [Real Time Communication SSE Advanced Streaming Web（1751108950906000）](https://dev.to/member_9f9a54c5/real-time-communication-sse-advanced-streaming-web1751108950906000-2o13)
-- [What Makes a Project Management Tool Truly Work for Modern Teams](https://dev.to/parizad/what-makes-a-project-management-tool-truly-work-for-modern-teams-4ln2)
-- [Web Application Security Input Protection Common（1751108282582500）](https://dev.to/member_9f9a54c5/web-application-security-input-protection-common1751108282582500-68c)
+- [Step-by-Step: Build a Lightweight Search Engine Using Only Node.js](https://dev.to/leapcell/step-by-step-build-a-lightweight-search-engine-using-only-nodejs-3043)
+- [A Comprehensive Guide to VPC Peering in GCP and Azure](https://dev.to/christiana_orji/a-comprehensive-guide-to-vpc-peering-in-gcp-and-azure-1ki7)
+- [Extending to Status Bar, Global Storage Issues, State Variable Collaboration, Refresh Component Usage](https://dev.to/qingkouwei/extending-to-status-bar-global-storage-issues-state-variable-collaboration-refresh-component-21cm)
+- [Image Saving, Scrolling Issues, Dialog Page Effect, Child Components Throwing Custom Events to Parent Components](https://dev.to/qingkouwei/image-saving-scrolling-issues-dialog-page-effect-child-components-throwing-custom-events-to-1pl1)
 <!-- BLOG-POST-LIST:END -->
 
