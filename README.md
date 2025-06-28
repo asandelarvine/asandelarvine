@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Key Cloud Concepts.](https://dev.to/ezekiel_umesi_5bd2fa6069c/understanding-key-cloud-concepts-2b15)
-- [Introducing ChargeDose: The Smart Battery Reminder for Windows Users](https://dev.to/thekusaldarshana/introducing-chargedose-the-smart-battery-reminder-for-windows-users-53ck)
-- [MindsDB Stress Test Knowledge Base - My Journey Creating App using MindsDB KB](https://dev.to/gungz/mindsdb-stress-test-knowledge-base-my-journey-creating-app-using-mindsdb-kb-3p4j)
-- [Vulnerability Assessment](https://dev.to/salman_khan_c31307505285e/vulnerability-assessment-14fl)
+- [WWDC 2025 - iOS 26 - Enhance your app’s audio recording capabilities](https://dev.to/arshtechpro/wwdc-2025-ios-26-enhance-your-apps-audio-recording-capabilities-h7e)
+- [Weekly 0083](https://dev.to/kasuken/weekly-0083-50j5)
+- [WWDC 2025 - Enhancing your camera experience with capture controls](https://dev.to/arshtechpro/wwdc-2025-enhancing-your-camera-experience-with-capture-controls-3mfo)
+- [How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock](https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi)
 <!-- BLOG-POST-LIST:END -->
 
