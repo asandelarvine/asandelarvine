@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
-- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
-- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
-- [Automating Persistent AI On the Fly](https://dev.to/jmoncayopursuit/automating-persistent-ai-on-the-fly-1i0d)
+- [VMware Fundamentals: Photon Os Installer](https://dev.to/devopsfundamentals/vmware-fundamentals-photon-os-installer-3f1d)
+- [From Freelance Developer to Founder of Karvexia – My Journey Building a Tech Company from Scratch](https://dev.to/karthikeyankamaraj/from-freelance-developer-to-founder-of-karvexia-my-journey-building-a-tech-company-from-scratch-220j)
+- [From Frustration to Flow: How Keploy Changed the Way I Test APIs](https://dev.to/sakshisejal296/from-frustration-to-flow-how-keploy-changed-the-way-i-test-apis-2i4g)
+- [HarmonyOS Development: hvigorw, Compile and Build, Implement Command Packaging](https://dev.to/abnerming888/harmonyos-development-hvigorw-compile-and-build-implement-command-packaging-4n0p)
 <!-- BLOG-POST-LIST:END -->
 
