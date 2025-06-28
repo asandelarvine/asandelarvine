@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
-- [[Boost]](https://dev.to/rakeshv675/-46go)
-- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
-- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
+- [From C# to Swift; Discovering new worlds!](https://dev.to/rasheedmozaffar/from-c-to-swift-discovering-new-worlds-1934)
+- [Big Data Fundamentals: big data tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-tutorial-515a)
+- [Rath Yatra - Chariots of Divine](https://dev.to/trishnapattanaik/rath-yatra-chariots-of-divine-52pg)
+- [Building a Custom Dependency Injection Container in JavaScript](https://dev.to/omriluz1/building-a-custom-dependency-injection-container-in-javascript-47k3)
 <!-- BLOG-POST-LIST:END -->
 
