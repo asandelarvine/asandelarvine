@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step: Build a Lightweight Search Engine Using Only Node.js](https://dev.to/leapcell/step-by-step-build-a-lightweight-search-engine-using-only-nodejs-3043)
-- [A Comprehensive Guide to VPC Peering in GCP and Azure](https://dev.to/christiana_orji/a-comprehensive-guide-to-vpc-peering-in-gcp-and-azure-1ki7)
-- [Extending to Status Bar, Global Storage Issues, State Variable Collaboration, Refresh Component Usage](https://dev.to/qingkouwei/extending-to-status-bar-global-storage-issues-state-variable-collaboration-refresh-component-21cm)
-- [Image Saving, Scrolling Issues, Dialog Page Effect, Child Components Throwing Custom Events to Parent Components](https://dev.to/qingkouwei/image-saving-scrolling-issues-dialog-page-effect-child-components-throwing-custom-events-to-1pl1)
+- [ERC 1155 Token](https://dev.to/tech_journey_85208cd43521/erc-1155-token-41ka)
+- [Integrating Spring Boot with Angular](https://dev.to/tleipzig/integrating-spring-boot-with-angular-42kc)
+- [How to Generate an Array of Numbers in a Specific Range in JavaScript](https://dev.to/ibrahimalanshor/how-to-generate-an-array-of-numbers-in-a-specific-range-in-javascript-4j38)
+- [🔥 DeepSeek API is 100% FREE! &lpar;No Excuses Left&rpar; Build AI Apps &amp; Chatbots Easily 🚀](https://dev.to/ritesh2204/deepseek-api-is-100-free-no-excuses-left-build-ai-apps-chatbots-easily-6md)
 <!-- BLOG-POST-LIST:END -->
 
