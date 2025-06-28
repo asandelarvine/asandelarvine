@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Went From 0 to 100% API Test Coverage in Minutes with Keploy](https://dev.to/ali_rizvi_98fb6f3a8039d94/how-i-went-from-0-to-100-api-test-coverage-in-minutes-with-keploy-522a)
-- [Dad&#39;s Canned Jokes - June CSS Art Challenge](https://dev.to/jarvisscript/dads-canned-jokes-june-css-art-challenge-1cp4)
-- [🚀 My Developer Portfolio Is Live and Now Fully Responsive!](https://dev.to/nicolasandrescl/my-developer-portfolio-is-live-and-now-fully-responsive-mb9)
-- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
+- [From Jupyter to Production: Operationalizing ML Models at Scale](https://dev.to/ramya_boorugula_eb8dcdbbc/from-jupyter-to-production-operationalizing-ml-models-at-scale-1de3)
+- [FastAPI: A Python Web Framework for NodeJS Developers](https://dev.to/raffycastillo/fastapi-a-python-web-framework-for-nodejs-developers-4klj)
+- [GCP Fundamentals: Data Labeling API](https://dev.to/devopsfundamentals/gcp-fundamentals-data-labeling-api-5a6a)
+- [Automating Persistent AI On the Fly](https://dev.to/jmoncayopursuit/automating-persistent-ai-on-the-fly-1i0d)
 <!-- BLOG-POST-LIST:END -->
 
