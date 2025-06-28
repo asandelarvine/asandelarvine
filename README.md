@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Font, Non-null Assertion, Component Dialog Usage, List Scroll to Top, Soft Keyboard Control](https://dev.to/qingkouwei/global-font-non-null-assertion-component-dialog-usage-list-scroll-to-top-soft-keyboard-control-4f0k)
-- [Gesture Password, Text Gradient, Page Return Value Passing, Network Image Display, Timer](https://dev.to/qingkouwei/gesture-password-text-gradient-page-return-value-passing-network-image-display-timer-558i)
-- [Parent Component Triggering Child Component Methods, List Gap Issues, Page Show/Hide, Dynamic JSON Modification](https://dev.to/qingkouwei/parent-component-triggering-child-component-methods-list-gap-issues-page-showhide-dynamic-json-1p1h)
-- [【Journey of HarmonyOS Next】Developing with ArkTS &lpar;2&rpar; -&gt; UI Development 1](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-with-arkts-2-ui-development-1-450j)
+- [Web Cross-Origin Resources, Web Long-Press Menu, Web Request Interception, Screen Recording Prevention, Base64 Image Dimensions](https://dev.to/qingkouwei/web-cross-origin-resources-web-long-press-menu-web-request-interception-screen-recording-2m44)
+- [🚀 Startup Scout Agent: Find the Hottest New Startups with One AI Prompt | Runner H Challenge](https://dev.to/aditya_007/startup-scout-agent-find-the-hottest-new-startups-with-one-ai-prompt-runner-h-challenge-f97)
+- [Web File Upload, Continuous Click Monitoring in Four Directions, Fold Hover, String Operations, and Sandbox Video Playback](https://dev.to/qingkouwei/web-file-upload-continuous-click-monitoring-in-four-directions-fold-hover-string-operations-and-125h)
+- [Built My Personal Portfolio Using HTML CSS and JavaScript](https://dev.to/sudhakar_v_c404997aeec839/built-my-personal-portfolio-using-html-css-and-javascript-2do4)
 <!-- BLOG-POST-LIST:END -->
 
