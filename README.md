@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Insight Blogs: chmod](https://dev.to/ankur0904/linux-insight-blogs-chmod-dfb)
-- [Learn In-Demand Web Development &amp; Coding Skills For Free](https://dev.to/chrisdixon161/learn-in-demand-web-development-coding-skills-for-free-4mcd)
-- [Soft Launching Instagram: Build Buzz Before the Big Reveal](https://dev.to/uisaleh/soft-launching-instagram-build-buzz-before-the-big-reveal-9ci)
-- [【Journey of HarmonyOS Next】DevEco Studio User Guide &lpar;25&rpar; -&gt; Business Introduction &lpar;2&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-deveco-studio-user-guide-25-business-introduction-2-36l3)
+- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
+- [[Boost]](https://dev.to/rakeshv675/-46go)
+- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
+- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
 <!-- BLOG-POST-LIST:END -->
 
