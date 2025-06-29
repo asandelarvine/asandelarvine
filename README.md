@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual API Testing to AI-Powered Automation with Keploy](https://dev.to/aryan_gupta_4380870a4871e/from-manual-api-testing-to-ai-powered-automation-with-keploy-2kd0)
-- [CSS Flex](https://dev.to/m_ramavel_8d478add09a105c/css-flex-3fae)
-- [Code Review and Team Collaboration Best Practices Systematic Methods for Improving Code Quality（1751174196520100）](https://dev.to/member_f4f4c714/code-review-and-team-collaboration-best-practices-systematic-methods-for-improving-code-4cfo)
-- [Laravel: The Beginner-Friendly Powerhouse of Web Development](https://dev.to/rohitdhiman/laravel-the-beginner-friendly-powerhouse-of-web-development-1cg3)
+- [Architectural Decision Making Real World Web Modern（1751177961729800）](https://dev.to/member_8d9a8f47/architectural-decision-making-real-world-web-modern1751177961729800-4ap3)
+- [Advanced Routing System Dynamic URL RESTful API Design（1751177812974900）](https://dev.to/member_f4f4c714/advanced-routing-system-dynamic-url-restful-api-design1751177812974900-nem)
+- [How We Detect Digital Overload and Emotional Residue: A New Era of Proactive Digital Wellness](https://dev.to/gaofenngwe_kabubi_9553d10/how-we-detect-digital-overload-and-emotional-residue-a-new-era-of-proactive-digital-wellness-ei)
+- [Memory Safety Ultimate Performance Balance（1751176681301600）](https://dev.to/member_8d9a8f47/memory-safety-ultimate-performance-balance1751176681301600-5cm0)
 <!-- BLOG-POST-LIST:END -->
 
