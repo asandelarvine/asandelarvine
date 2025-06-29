@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Decision Making Real World Web Modern（1751177961729800）](https://dev.to/member_8d9a8f47/architectural-decision-making-real-world-web-modern1751177961729800-4ap3)
-- [Advanced Routing System Dynamic URL RESTful API Design（1751177812974900）](https://dev.to/member_f4f4c714/advanced-routing-system-dynamic-url-restful-api-design1751177812974900-nem)
-- [How We Detect Digital Overload and Emotional Residue: A New Era of Proactive Digital Wellness](https://dev.to/gaofenngwe_kabubi_9553d10/how-we-detect-digital-overload-and-emotional-residue-a-new-era-of-proactive-digital-wellness-ei)
-- [Memory Safety Ultimate Performance Balance（1751176681301600）](https://dev.to/member_8d9a8f47/memory-safety-ultimate-performance-balance1751176681301600-5cm0)
+- [NodeJS Fundamentals: buffer](https://dev.to/devopsfundamentals/nodejs-fundamentals-buffer-lh2)
+- [Automate Server Deployments with GitHub Actions &amp; SSH](https://dev.to/devopswithamol/automate-server-deployments-with-github-actions-ssh-p24)
+- [Hyperlane Framework Learning Journey Basic Setup（1751180825247000）](https://dev.to/member_f4f4c714/hyperlane-framework-learning-journey-basic-setup1751180825247000-3j78)
+- [透過模擬人類的對話解除 LLM 對話串長度限制與解決多輪對話中迷失問題](https://dev.to/pardnchiu/tou-guo-mo-ni-ren-lei-de-dui-hua-jie-chu-llm-dui-hua-chuan-chang-du-xian-zhi-yu-jie-jue-duo-lun-dui-hua-zhong-mi-shi-wen-ti-4l54)
 <!-- BLOG-POST-LIST:END -->
 
