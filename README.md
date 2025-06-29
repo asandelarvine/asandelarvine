@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Airline Recovery Post-COVID: Who Bounced Back and Why](https://dev.to/darrendube/airline-recovery-post-covid-who-bounced-back-and-why-2i3p)
-- [AWS open source newsletter, #211](https://dev.to/aws/aws-open-source-newsletter-211-188)
-- [Think, Damnit: A Brutal Guide to Asking Better Programming Questions](https://dev.to/jinparkmida/think-damnit-a-brutal-guide-to-asking-better-programming-questions-hno)
-- [基于 NebulaGraph 的 Sui 链上关系分析器](https://dev.to/coderserio/ji-yu-nebulagraph-de-sui-lian-shang-guan-xi-fen-xi-qi-5522)
+- [WWDC 2025 - Enhance child safety with PermissionKit](https://dev.to/arshtechpro/wwdc-2025-enhance-child-safety-with-permissionkit-52jb)
+- [WWDC 2025 - Deliver age-appropriate experiences in your app](https://dev.to/arshtechpro/wwdc-2025-deliver-age-appropriate-experiences-in-your-app-4nc8)
+- [I created a basic UI and hosted it in hugging face: https://huggingface.co/spaces/francozanardi/pycaps Now, you can test it online, without any installation or registration :&rpar; I&#39;d love to hear any kind of feedback!](https://dev.to/francozanardi/i-created-a-basic-ui-and-hosted-it-in-hugging-face-lkb)
+- [Get user secrets for projects](https://dev.to/karenpayneoregon/get-user-secrets-for-projects-3b0h)
 <!-- BLOG-POST-LIST:END -->
 
