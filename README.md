@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: buffer](https://dev.to/devopsfundamentals/nodejs-fundamentals-buffer-lh2)
-- [Automate Server Deployments with GitHub Actions &amp; SSH](https://dev.to/devopswithamol/automate-server-deployments-with-github-actions-ssh-p24)
-- [Hyperlane Framework Learning Journey Basic Setup（1751180825247000）](https://dev.to/member_f4f4c714/hyperlane-framework-learning-journey-basic-setup1751180825247000-3j78)
-- [透過模擬人類的對話解除 LLM 對話串長度限制與解決多輪對話中迷失問題](https://dev.to/pardnchiu/tou-guo-mo-ni-ren-lei-de-dui-hua-jie-chu-llm-dui-hua-chuan-chang-du-xian-zhi-yu-jie-jue-duo-lun-dui-hua-zhong-mi-shi-wen-ti-4l54)
+- [PermissionUtil, authorization related tool classes](https://dev.to/787107497/permissionutils-authorization-related-tool-classes-3935)
+- [Top 5 Zapier Recipes for Developers That Save Hours Weekly](https://dev.to/brook_051cd08713006b/top-5-zapier-recipes-for-developers-that-save-hours-weekly-5h1h)
+- [Is Blockchain Really Secure?](https://dev.to/gathangaelijah/is-blockchain-really-secure-f4e)
+- [Perfect Combination of Message Queue and Real Time Communication Distributed System Design Practice（1751184441449800）](https://dev.to/member_f4f4c714/perfect-combination-of-message-queue-and-real-time-communication-distributed-system-design-1haa)
 <!-- BLOG-POST-LIST:END -->
 
