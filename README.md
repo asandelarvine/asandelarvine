@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 CharmCode Editor v5.0: The Microkernel Revolution Beyond VSCode 🚀](https://dev.to/charmpic/charmcode-editor-v50-the-microkernel-revolution-beyond-vscode-45k)
-- [pnpm monorepo step-by-step example: sharing type and values between React and NestJS](https://dev.to/lico/pnpm-monorepo-step-by-step-example-sharing-type-and-values-between-react-and-nestjs-2gco)
-- [Android Made Accessible: Kotlin Code Generation from Natural Language](https://dev.to/atforeveryoung/android-made-accessible-kotlin-code-generation-from-natural-language-3cg3)
-- [Art of Error Handling Complete Solution from Panic to Graceful Degradation（1751200365370000）](https://dev.to/member_8d9a8f47/art-of-error-handling-complete-solution-from-panic-to-graceful-degradation1751200365370000-1o)
+- [Ecosystem Integration Patterns Third Party Design（1751203563983100）](https://dev.to/member_8d9a8f47/ecosystem-integration-patterns-third-party-design1751203563983100-5fbc)
+- [Revolutionizing LLM Interactions: Code2Prompt – Your Code&#39;s New AI Assistant](https://dev.to/githubopensource/revolutionizing-llm-interactions-code2prompt-your-codes-new-ai-assistant-5him)
+- [🌱 My Python Summer — Week 2: Operators, Practice &amp; Tiny Triumphs](https://dev.to/misspresidentcodes/my-python-summer-week-2-operators-practice-tiny-triumphs-64l)
+- [Implementing AI in Software Product Development: A Machine Learning-Focused Approach](https://dev.to/tim_ferriss_ce5fc283850e6/implementing-ai-in-software-product-development-a-machine-learning-focused-approach-1k1h)
 <!-- BLOG-POST-LIST:END -->
 
