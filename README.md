@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PermissionUtil, authorization related tool classes](https://dev.to/787107497/permissionutils-authorization-related-tool-classes-3935)
-- [Top 5 Zapier Recipes for Developers That Save Hours Weekly](https://dev.to/brook_051cd08713006b/top-5-zapier-recipes-for-developers-that-save-hours-weekly-5h1h)
-- [Is Blockchain Really Secure?](https://dev.to/gathangaelijah/is-blockchain-really-secure-f4e)
-- [Perfect Combination of Message Queue and Real Time Communication Distributed System Design Practice（1751184441449800）](https://dev.to/member_f4f4c714/perfect-combination-of-message-queue-and-real-time-communication-distributed-system-design-1haa)
+- [Team Collaboration and Version Control Best Practice Experience of Modern Software Development Process（1751188054052800）](https://dev.to/member_f4f4c714/team-collaboration-and-version-control-best-practice-experience-of-modern-software-development-ab9)
+- [Spell Checker- Operation on Text-NLP](https://dev.to/datatoinfinity/spell-checker-operation-on-text-nlp-17fg)
+- [🚀 Just Dropped: Beginner-Friendly API Learning Repository! 🌐](https://dev.to/bhuvan_raj/just-dropped-beginner-friendly-api-learning-repository-5h19)
+- [Tokenization &amp; Data Masking using Lambda - The $700 Million Question](https://dev.to/aws-builders/tokenization-data-masking-using-lambda-the-700-million-question-1h0g)
 <!-- BLOG-POST-LIST:END -->
 
