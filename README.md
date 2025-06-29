@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Design Philosophy Patterns High Web（1751195245473500）](https://dev.to/member_8d9a8f47/context-design-philosophy-patterns-high-web1751195245473500-8a0)
-- [This is a submission for the [Murf AI Coding Challenge 2]&lpar;https://lu.ma/0dzhcc01?tk=BzAOd4&rpar;](https://dev.to/devu_gupta_193d8715244d19/this-is-a-submission-for-the-murf-ai-coding-challenge-2httpsluma0dzhcc01tkbzaod4-e8)
-- [UFW&lpar;Uncomplicated Firewall&rpar;](https://dev.to/cheulong/ufwuncomplicated-firewall-5a43)
-- [Mastering @ConfigurationProperties in Spring Boot: Injecting Configuration in a Clean &amp; Scalable Way](https://dev.to/realnamehidden1_61/mastering-configurationproperties-in-spring-boot-injecting-configuration-in-a-clean-scalable-45ao)
+- [🎉 CharmCode Editor v5.0: The Microkernel Revolution Beyond VSCode 🚀](https://dev.to/charmpic/charmcode-editor-v50-the-microkernel-revolution-beyond-vscode-45k)
+- [pnpm monorepo step-by-step example: sharing type and values between React and NestJS](https://dev.to/lico/pnpm-monorepo-step-by-step-example-sharing-type-and-values-between-react-and-nestjs-2gco)
+- [Android Made Accessible: Kotlin Code Generation from Natural Language](https://dev.to/atforeveryoung/android-made-accessible-kotlin-code-generation-from-natural-language-3cg3)
+- [Art of Error Handling Complete Solution from Panic to Graceful Degradation（1751200365370000）](https://dev.to/member_8d9a8f47/art-of-error-handling-complete-solution-from-panic-to-graceful-degradation1751200365370000-1o)
 <!-- BLOG-POST-LIST:END -->
 
