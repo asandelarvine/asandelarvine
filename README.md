@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reconciliation &amp; ForwardRef In React](https://dev.to/jay818/reconciliation-forwardref-in-react-27dh)
-- [Performance Analysis Toolchain Usage and Practice Complete Process from Profiling to Performance Tuning（1751192271495100）](https://dev.to/member_f4f4c714/performance-analysis-toolchain-usage-and-practice-complete-process-from-profiling-to-performance-1kij)
-- [Building practical workflows: data observability, AI trend analysis &amp; proactivity.](https://dev.to/joojodontoh/building-practical-workflows-data-observability-ai-trend-analysis-proactivity-3odi)
-- [Memory Safety Revolution Memory Leaks Modern Web（1751192041898900）](https://dev.to/member_8d9a8f47/memory-safety-revolution-memory-leaks-modern-web1751192041898900-4n1g)
+- [Context Design Philosophy Patterns High Web（1751195245473500）](https://dev.to/member_8d9a8f47/context-design-philosophy-patterns-high-web1751195245473500-8a0)
+- [This is a submission for the [Murf AI Coding Challenge 2]&lpar;https://lu.ma/0dzhcc01?tk=BzAOd4&rpar;](https://dev.to/devu_gupta_193d8715244d19/this-is-a-submission-for-the-murf-ai-coding-challenge-2httpsluma0dzhcc01tkbzaod4-e8)
+- [UFW&lpar;Uncomplicated Firewall&rpar;](https://dev.to/cheulong/ufwuncomplicated-firewall-5a43)
+- [Mastering @ConfigurationProperties in Spring Boot: Injecting Configuration in a Clean &amp; Scalable Way](https://dev.to/realnamehidden1_61/mastering-configurationproperties-in-spring-boot-injecting-configuration-in-a-clean-scalable-45ao)
 <!-- BLOG-POST-LIST:END -->
 
