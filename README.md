@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
-- [Best Practices for Using Dynamic SVGs in Your Frontend](https://dev.to/damandeep_singh_7c4698e97/best-practices-for-using-dynamic-svgs-in-your-frontend-5hg3)
-- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
-- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
+- [I Found A Lightweight CMS To Replace WordPress](https://dev.to/newsx/i-found-a-lightweight-cms-to-replace-wordpress-5amb)
+- [Turbo Streams vs. htmx SSE: A Latency Deep Dive](https://dev.to/alex_aslam/turbo-streams-vs-htmx-sse-a-latency-deep-dive-45d8)
+- [The SEO Tech Stack Behind High-Ranking Dental Websites — A Developer&#39;s Guide](https://dev.to/remedo_clinitechpvtltd/the-seo-tech-stack-behind-high-ranking-dental-websites-a-developers-guide-3m0m)
+- [AI-Powered Ticket Routing &amp; SLA Breach Prediction in JIRA- My Real-World Automation Journey](https://dev.to/aroojjaved93/ai-powered-ticket-routing-sla-breach-prediction-in-jira-my-real-world-automation-journey-1adb)
 <!-- BLOG-POST-LIST:END -->
 
