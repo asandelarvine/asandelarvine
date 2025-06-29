@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Team Collaboration and Version Control Best Practice Experience of Modern Software Development Process（1751188054052800）](https://dev.to/member_f4f4c714/team-collaboration-and-version-control-best-practice-experience-of-modern-software-development-ab9)
-- [Spell Checker- Operation on Text-NLP](https://dev.to/datatoinfinity/spell-checker-operation-on-text-nlp-17fg)
-- [🚀 Just Dropped: Beginner-Friendly API Learning Repository! 🌐](https://dev.to/bhuvan_raj/just-dropped-beginner-friendly-api-learning-repository-5h19)
-- [Tokenization &amp; Data Masking using Lambda - The $700 Million Question](https://dev.to/aws-builders/tokenization-data-masking-using-lambda-the-700-million-question-1h0g)
+- [Reconciliation &amp; ForwardRef In React](https://dev.to/jay818/reconciliation-forwardref-in-react-27dh)
+- [Performance Analysis Toolchain Usage and Practice Complete Process from Profiling to Performance Tuning（1751192271495100）](https://dev.to/member_f4f4c714/performance-analysis-toolchain-usage-and-practice-complete-process-from-profiling-to-performance-1kij)
+- [Building practical workflows: data observability, AI trend analysis &amp; proactivity.](https://dev.to/joojodontoh/building-practical-workflows-data-observability-ai-trend-analysis-proactivity-3odi)
+- [Memory Safety Revolution Memory Leaks Modern Web（1751192041898900）](https://dev.to/member_8d9a8f47/memory-safety-revolution-memory-leaks-modern-web1751192041898900-4n1g)
 <!-- BLOG-POST-LIST:END -->
 
