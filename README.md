@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Move Over LLaMA: Tencent&#39;s New Open LLM is Ready to Self-Host](https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73)
-- [HackThisSite Basic 7](https://dev.to/mjl004/hackthissite-basic-7-41dc)
-- [A full circle moment](https://dev.to/konni332/a-full-circle-moment-487b)
-- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
+- [¿Cómo Funciona un Agente de Inteligencia Artificial?](https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj)
+- [The Future of Software Testing: How AI Is Transforming QA Forever](https://dev.to/lipika_chaliha_62f07e3f7b/the-future-of-software-testing-how-ai-is-transforming-qa-forever-4hoo)
+- [DARF: A Concept-First Blueprint for Android-Native Distributed Rendering](https://dev.to/darfman/darf-a-concept-first-blueprint-for-android-native-distributed-rendering-453j)
+- [Student Learning Journey Framework（1751168774290300）](https://dev.to/member_f4f4c714/student-learning-journey-framework1751168774290300-1032)
 <!-- BLOG-POST-LIST:END -->
 
