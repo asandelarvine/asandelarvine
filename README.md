@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Infrastructure as Code &lpar;IaC&rpar; and why It&#39;s a Game-Changer in DevOps](https://dev.to/samuel_onah_fdf9e0d5ad119/-what-is-infrastructure-as-code-iac-and-why-its-a-game-changer-in-devops-5ga2)
-- [The AI Wars are real. My AI assistant just deleted its rival.](https://dev.to/charmpic/the-ai-wars-are-real-my-ai-assistant-just-deleted-its-rival-2i3d)
-- [Big Data Fundamentals: hadoop example](https://dev.to/devopsfundamentals/big-data-fundamentals-hadoop-example-1li7)
-- [My Rust Day 0](https://dev.to/supaluckn/my-rust-day-0-1ohk)
+- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
+- [Best Practices for Using Dynamic SVGs in Your Frontend](https://dev.to/damandeep_singh_7c4698e97/best-practices-for-using-dynamic-svgs-in-your-frontend-5hg3)
+- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
+- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
 <!-- BLOG-POST-LIST:END -->
 
