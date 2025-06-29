@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - Enhance child safety with PermissionKit](https://dev.to/arshtechpro/wwdc-2025-enhance-child-safety-with-permissionkit-52jb)
-- [WWDC 2025 - Deliver age-appropriate experiences in your app](https://dev.to/arshtechpro/wwdc-2025-deliver-age-appropriate-experiences-in-your-app-4nc8)
-- [I created a basic UI and hosted it in hugging face: https://huggingface.co/spaces/francozanardi/pycaps Now, you can test it online, without any installation or registration :&rpar; I&#39;d love to hear any kind of feedback!](https://dev.to/francozanardi/i-created-a-basic-ui-and-hosted-it-in-hugging-face-lkb)
-- [Get user secrets for projects](https://dev.to/karenpayneoregon/get-user-secrets-for-projects-3b0h)
+- [HarmonyOS Development: Filling the remaining space](https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5)
+- [HarmonyOS Development: Authorization Method of Rights Management](https://dev.to/abnerming888/harmonyos-development-authorization-method-of-rights-management-1e3)
+- [HarmonyOS Development: Authority Statement for Authority Management](https://dev.to/abnerming888/harmonyos-development-authority-statement-for-authority-management-4c5p)
+- [HarmonyOS Development: Understanding Application-Level Configuration Information](https://dev.to/abnerming888/harmonyos-development-understanding-application-level-configuration-information-g6i)
 <!-- BLOG-POST-LIST:END -->
 
