@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WhisperVoice: Hide Secret Messages Inside Natural Voice Notes](https://dev.to/harshada_ghanwat/whispervoice-hide-secret-messages-inside-natural-voice-notes-2jfg)
-- [harmony-dialog](https://dev.to/787107497/harmony-dialog-17gp)
-- [This Is How I Mastered TypeScript Like I&#39;m 5 &lpar;Type Inference!&rpar;&lpar;7&rpar;](https://dev.to/wisdombits/this-is-how-i-mastered-typescript-like-im-5-type-inference7-4983)
-- [Day 19: Shipped the frontend, brain officially resigned](https://dev.to/casperday11/day-19-shipped-the-frontend-brain-officially-resigned-1ga5)
+- [What Devs Are Really Searching About Gemini CLI Right Now](https://dev.to/abubakersiddique771/what-devs-are-really-searching-about-gemini-cli-right-now-6l7)
+- [Machine Learning Fundamentals: autoencoder](https://dev.to/devopsfundamentals/machine-learning-fundamentals-autoencoder-1655)
+- [Flame Graph Performance Truth Analysis（1751213807259200）](https://dev.to/member_8d9a8f47/flame-graph-performance-truth-analysis1751213807259200-2c7c)
+- [Global Bluetooth Chip Market Trends in 2025: Key Dynamics and Technological Advancements](https://dev.to/ble_voice/global-bluetooth-chip-market-trends-in-2025-key-dynamics-and-technological-advancements-3oec)
 <!-- BLOG-POST-LIST:END -->
 
