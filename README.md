@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
-- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
-- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
-- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
+- [WhisperVoice: Hide Secret Messages Inside Natural Voice Notes](https://dev.to/harshada_ghanwat/whispervoice-hide-secret-messages-inside-natural-voice-notes-2jfg)
+- [harmony-dialog](https://dev.to/787107497/harmony-dialog-17gp)
+- [This Is How I Mastered TypeScript Like I&#39;m 5 &lpar;Type Inference!&rpar;&lpar;7&rpar;](https://dev.to/wisdombits/this-is-how-i-mastered-typescript-like-im-5-type-inference7-4983)
+- [Day 19: Shipped the frontend, brain officially resigned](https://dev.to/casperday11/day-19-shipped-the-frontend-brain-officially-resigned-1ga5)
 <!-- BLOG-POST-LIST:END -->
 
