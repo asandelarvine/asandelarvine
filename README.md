@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecosystem Integration Patterns Third Party Design（1751203563983100）](https://dev.to/member_8d9a8f47/ecosystem-integration-patterns-third-party-design1751203563983100-5fbc)
-- [Revolutionizing LLM Interactions: Code2Prompt – Your Code&#39;s New AI Assistant](https://dev.to/githubopensource/revolutionizing-llm-interactions-code2prompt-your-codes-new-ai-assistant-5him)
-- [🌱 My Python Summer — Week 2: Operators, Practice &amp; Tiny Triumphs](https://dev.to/misspresidentcodes/my-python-summer-week-2-operators-practice-tiny-triumphs-64l)
-- [Implementing AI in Software Product Development: A Machine Learning-Focused Approach](https://dev.to/tim_ferriss_ce5fc283850e6/implementing-ai-in-software-product-development-a-machine-learning-focused-approach-1k1h)
+- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
+- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
+- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
+- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
 <!-- BLOG-POST-LIST:END -->
 
