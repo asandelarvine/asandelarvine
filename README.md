@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Devs Are Really Searching About Gemini CLI Right Now](https://dev.to/abubakersiddique771/what-devs-are-really-searching-about-gemini-cli-right-now-6l7)
-- [Machine Learning Fundamentals: autoencoder](https://dev.to/devopsfundamentals/machine-learning-fundamentals-autoencoder-1655)
-- [Flame Graph Performance Truth Analysis（1751213807259200）](https://dev.to/member_8d9a8f47/flame-graph-performance-truth-analysis1751213807259200-2c7c)
-- [Global Bluetooth Chip Market Trends in 2025: Key Dynamics and Technological Advancements](https://dev.to/ble_voice/global-bluetooth-chip-market-trends-in-2025-key-dynamics-and-technological-advancements-3oec)
+- [Handling Forms in React Like a Pro 🚀](https://dev.to/vjygour/handling-forms-in-react-like-a-pro-29og)
+- [Hydra Practical Labs: Mastering Brute-Force Attacks on Telnet, SSH &amp; HTTP](https://dev.to/labex/hydra-practical-labs-mastering-brute-force-attacks-on-telnet-ssh-http-5cgd)
+- [🚀 Tired of Slow Queries? Use CQRS with PostgreSQL to Split Reads &amp; Writes](https://dev.to/vishad_patel_f54e007e16e5/tired-of-slow-queries-use-cqrs-with-postgresql-to-split-reads-writes-466e)
+- [🔥Top 5 Amazing CLI Tools🤯](https://dev.to/dev_kiran/top-5-amazing-cli-tools-38pj)
 <!-- BLOG-POST-LIST:END -->
 
