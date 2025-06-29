@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Found A Lightweight CMS To Replace WordPress](https://dev.to/newsx/i-found-a-lightweight-cms-to-replace-wordpress-5amb)
-- [Turbo Streams vs. htmx SSE: A Latency Deep Dive](https://dev.to/alex_aslam/turbo-streams-vs-htmx-sse-a-latency-deep-dive-45d8)
-- [The SEO Tech Stack Behind High-Ranking Dental Websites — A Developer&#39;s Guide](https://dev.to/remedo_clinitechpvtltd/the-seo-tech-stack-behind-high-ranking-dental-websites-a-developers-guide-3m0m)
-- [AI-Powered Ticket Routing &amp; SLA Breach Prediction in JIRA- My Real-World Automation Journey](https://dev.to/aroojjaved93/ai-powered-ticket-routing-sla-breach-prediction-in-jira-my-real-world-automation-journey-1adb)
+- [Airline Recovery Post-COVID: Who Bounced Back and Why](https://dev.to/darrendube/airline-recovery-post-covid-who-bounced-back-and-why-2i3p)
+- [AWS open source newsletter, #211](https://dev.to/aws/aws-open-source-newsletter-211-188)
+- [Think, Damnit: A Brutal Guide to Asking Better Programming Questions](https://dev.to/jinparkmida/think-damnit-a-brutal-guide-to-asking-better-programming-questions-hno)
+- [基于 NebulaGraph 的 Sui 链上关系分析器](https://dev.to/coderserio/ji-yu-nebulagraph-de-sui-lian-shang-guan-xi-fen-xi-qi-5522)
 <!-- BLOG-POST-LIST:END -->
 
