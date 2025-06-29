@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HSM Integration with Hyperledger Fabric Java SDK: Bridging the Security Gap](https://dev.to/zakaria_hossain_3b0c0f4da/hsm-integration-with-hyperledger-fabric-java-sdk-bridging-the-security-gap-3bki)
-- [Beyond the Hype Cycle: A Deep Dive into Generative AI and its Architectural Shifts](https://dev.to/sniperkraken007/beyond-the-hype-cycle-a-deep-dive-into-generative-ai-and-its-architectural-shifts-1o82)
-- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751170582875600）](https://dev.to/member_f4f4c714/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-33ob)
-- [What is the intersection of software performance and human performance in developer world?](https://dev.to/thinesh_founder/what-is-the-intersection-of-software-performance-and-human-performance-in-developer-world-kfn)
+- [From Manual API Testing to AI-Powered Automation with Keploy](https://dev.to/aryan_gupta_4380870a4871e/from-manual-api-testing-to-ai-powered-automation-with-keploy-2kd0)
+- [CSS Flex](https://dev.to/m_ramavel_8d478add09a105c/css-flex-3fae)
+- [Code Review and Team Collaboration Best Practices Systematic Methods for Improving Code Quality（1751174196520100）](https://dev.to/member_f4f4c714/code-review-and-team-collaboration-best-practices-systematic-methods-for-improving-code-4cfo)
+- [Laravel: The Beginner-Friendly Powerhouse of Web Development](https://dev.to/rohitdhiman/laravel-the-beginner-friendly-powerhouse-of-web-development-1cg3)
 <!-- BLOG-POST-LIST:END -->
 
