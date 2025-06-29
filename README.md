@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo Funciona un Agente de Inteligencia Artificial?](https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj)
-- [The Future of Software Testing: How AI Is Transforming QA Forever](https://dev.to/lipika_chaliha_62f07e3f7b/the-future-of-software-testing-how-ai-is-transforming-qa-forever-4hoo)
-- [DARF: A Concept-First Blueprint for Android-Native Distributed Rendering](https://dev.to/darfman/darf-a-concept-first-blueprint-for-android-native-distributed-rendering-453j)
-- [Student Learning Journey Framework（1751168774290300）](https://dev.to/member_f4f4c714/student-learning-journey-framework1751168774290300-1032)
+- [HSM Integration with Hyperledger Fabric Java SDK: Bridging the Security Gap](https://dev.to/zakaria_hossain_3b0c0f4da/hsm-integration-with-hyperledger-fabric-java-sdk-bridging-the-security-gap-3bki)
+- [Beyond the Hype Cycle: A Deep Dive into Generative AI and its Architectural Shifts](https://dev.to/sniperkraken007/beyond-the-hype-cycle-a-deep-dive-into-generative-ai-and-its-architectural-shifts-1o82)
+- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751170582875600）](https://dev.to/member_f4f4c714/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-33ob)
+- [What is the intersection of software performance and human performance in developer world?](https://dev.to/thinesh_founder/what-is-the-intersection-of-software-performance-and-human-performance-in-developer-world-kfn)
 <!-- BLOG-POST-LIST:END -->
 
