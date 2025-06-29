@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Forms in React Like a Pro 🚀](https://dev.to/vjygour/handling-forms-in-react-like-a-pro-29og)
-- [Hydra Practical Labs: Mastering Brute-Force Attacks on Telnet, SSH &amp; HTTP](https://dev.to/labex/hydra-practical-labs-mastering-brute-force-attacks-on-telnet-ssh-http-5cgd)
-- [🚀 Tired of Slow Queries? Use CQRS with PostgreSQL to Split Reads &amp; Writes](https://dev.to/vishad_patel_f54e007e16e5/tired-of-slow-queries-use-cqrs-with-postgresql-to-split-reads-writes-466e)
-- [🔥Top 5 Amazing CLI Tools🤯](https://dev.to/dev_kiran/top-5-amazing-cli-tools-38pj)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and why It&#39;s a Game-Changer in DevOps](https://dev.to/samuel_onah_fdf9e0d5ad119/-what-is-infrastructure-as-code-iac-and-why-its-a-game-changer-in-devops-5ga2)
+- [The AI Wars are real. My AI assistant just deleted its rival.](https://dev.to/charmpic/the-ai-wars-are-real-my-ai-assistant-just-deleted-its-rival-2i3d)
+- [Big Data Fundamentals: hadoop example](https://dev.to/devopsfundamentals/big-data-fundamentals-hadoop-example-1li7)
+- [My Rust Day 0](https://dev.to/supaluckn/my-rust-day-0-1ohk)
 <!-- BLOG-POST-LIST:END -->
 
