@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Lock and Concurrency Control Resource Synchronization Mechanisms in Multi Node Environment（1751260659677800）](https://dev.to/member_6d3fad5b/distributed-lock-and-concurrency-control-resource-synchronization-mechanisms-in-multi-node-57hi)
-- [💳 Razorpay + Flutter 🔥 | Step-by-Step Integration Guide &lpar;2025](https://dev.to/alex_codex_dev/razorpay-flutter-step-by-step-integration-guide-2025-5ek6)
-- [HarmonyOS Case Converter Dev Notes &amp; Real-World Gotchas](https://dev.to/lovehmos/harmonyos-case-converter-dev-notes-real-world-gotchas-20h3)
-- [HarmonyOS MD5 Tool Dev Notes &amp; crypto-js Pitfalls](https://dev.to/lovehmos/harmonyos-md5-tool-dev-notes-crypto-js-pitfalls-5bp3)
+- [E-commerce Giants Leading the Way: Inspiring AI Chatbot Success Stories](https://dev.to/destinovaailabs/e-commerce-giants-leading-the-way-inspiring-ai-chatbot-success-stories-4ep7)
+- [WebApp Security Checklist For Business in USA](https://dev.to/jennysmith7/webapp-security-checklist-for-business-in-usa-18pi)
+- [Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows](https://dev.to/nagarakesh4/orchestrating-multi-agents-unifying-fragmented-tools-into-coordinated-workflows-37ph)
+- [Step-by-Step Amazon Clone Development](https://dev.to/david_beckam_df898f761b30/step-by-step-amazon-clone-development-k2m)
 <!-- BLOG-POST-LIST:END -->
 
