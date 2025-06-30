@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Filling the remaining space](https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5)
-- [HarmonyOS Development: Authorization Method of Rights Management](https://dev.to/abnerming888/harmonyos-development-authorization-method-of-rights-management-1e3)
-- [HarmonyOS Development: Authority Statement for Authority Management](https://dev.to/abnerming888/harmonyos-development-authority-statement-for-authority-management-4c5p)
-- [HarmonyOS Development: Understanding Application-Level Configuration Information](https://dev.to/abnerming888/harmonyos-development-understanding-application-level-configuration-information-g6i)
+- [Understanding Quota Project Warnings When Using Google Cloud ADC](https://dev.to/polar3130/understanding-quota-project-warnings-when-using-google-cloud-adc-4bpd)
+- [Você conhece os pilares da programação orientada a objetos?](https://dev.to/herlon_costa_2976ae93adb3/voce-conhece-os-pilares-da-programacao-orientada-a-objetos-m6m)
+- [How Fast Can Autosteer Systems Pay for Themselves?](https://dev.to/gnss/how-fast-can-autosteer-systems-pay-for-themselves-1ond)
+- [How I Use Self-Reflection to Stay on Track Daily, Weekly, Monthly, and Yearly](https://dev.to/maxpatiiuk/how-i-use-self-reflection-to-stay-on-track-daily-weekly-monthly-and-yearly-1n1f)
 <!-- BLOG-POST-LIST:END -->
 
