@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Import on Interaction](https://dev.to/jay818/import-on-interaction-5127)
-- [Achieve Success with Professional and Personal Goals](https://dev.to/fluidwave/achieve-success-with-professional-and-personal-goals-21n4)
-- [Understanding LLMs &amp; Ideating A Decentralized Approach To Solve Challenges](https://dev.to/dc600/understanding-llms-ideating-a-decentralized-approach-to-solve-challenges-3n0m)
-- [HarmonyOS Next 5.0.4 Release Update Notes and Adaptation Guide](https://dev.to/qingkouwei/harmonyos-next-504-release-update-notes-and-adaptation-guide-2e29)
+- [The Implicit Lambda Syntax](https://dev.to/esproc_spl/the-implicit-lambda-syntax-3a7j)
+- [Getting Hammered by Bots? Rate Limit Your API Before It&#39;s Too Late](https://dev.to/sharon_42e16b8da44dabde6d/getting-hammered-by-bots-rate-limit-your-api-before-its-too-late-4g6c)
+- [What is `useSlots` in Vue?](https://dev.to/jacobandrewsky/what-is-useslots-in-vue-2hd)
+- [🧠 Mastering useCallback in React: Prevent Unnecessary Re-Renders and Boost Performance](https://dev.to/webtechnology_tutorials_f/mastering-usecallback-in-react-prevent-unnecessary-re-renders-and-boost-performance-5hmb)
 <!-- BLOG-POST-LIST:END -->
 
