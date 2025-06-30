@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’ll Never Trust Carets Again](https://dev.to/manuartero/why-ill-never-trust-carets-again-1dno)
-- [What are your goals for the week? #133](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-133-3cd3)
-- [NodeJS Fundamentals: default export](https://dev.to/devopsfundamentals/nodejs-fundamentals-default-export-1k4i)
-- [Why affiliates should get equity, not cash](https://dev.to/charlie_brinicombe/the-creator-equity-strategy-when-to-give-away-ownership-to-build-your-community-1dda)
+- [Plugin System Design How to Build Extensible Framework Core Architecture（1751296181433600）](https://dev.to/member_35db4d53/plugin-system-design-how-to-build-extensible-framework-core-architecture1751296181433600-46ad)
+- [Death Stranding 2 On the Beach is Incredible - Review](https://dev.to/gg_news/death-stranding-2-on-the-beach-is-incredible-review-1ojk)
+- [You Won’t Believe These July Game Releases!](https://dev.to/gg_news/you-wont-believe-these-july-game-releases-39go)
+- [5 Tools That Helped Me Catch 70% More Bugs in the Codebase [Important!]](https://dev.to/entelligenceai/5-tools-that-helped-me-catch-70-more-bugs-in-the-codebase-important-3phk)
 <!-- BLOG-POST-LIST:END -->
 
