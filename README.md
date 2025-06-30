@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jetpack Compose Revolution: Describe Your UI, Get Perfect Kotlin Code](https://dev.to/atforeveryoung/jetpack-compose-revolution-describe-your-ui-get-perfect-kotlin-code-3he5)
-- [CodeBehind Turns Two Years Old](https://dev.to/elanatframework/codebehind-turns-two-years-old-1aok)
-- [Create simple swiper component](https://dev.to/shelner/create-simple-swiper-component-3n6e)
-- [Python Fundamentals: augmented assignment](https://dev.to/devopsfundamentals/python-fundamentals-augmented-assignment-2f5f)
+- [Building Multi-Tenant Analytics with Snowflake RBAC and Sigma Computing: Part 3](https://dev.to/qvfagundes/building-multi-tenant-analytics-with-snowflake-rbac-and-sigma-computing-part-3-5db9)
+- [All Data and AI Weekly #196 - June 30, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-196-june-30-2025-2eoa)
+- [Mastering Your Digital Privacy: A Comprehensive Guide to Online Protection](https://dev.to/swayam_dc1eefb8839da110de/mastering-your-digital-privacy-a-comprehensive-guide-to-online-protection-43n5)
+- [Easy Water Level Indicator You Can Build – No Microcontroller Needed](https://dev.to/david_thomas/diy-water-level-alarm-with-buzzer-no-microcontroller-needed-4l37)
 <!-- BLOG-POST-LIST:END -->
 
