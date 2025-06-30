@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: spark example](https://dev.to/devopsfundamentals/big-data-fundamentals-spark-example-475f)
-- [Devlog #3 ahhhhh it&#39;s SPELLTAIL](https://dev.to/bain_8a987225b41e21618fcb/devlog-3-ahhhhh-its-spelltail-1j08)
-- [Automation Use Case 2](https://dev.to/etohartman/automation-use-case-2-5g10)
-- [Force Make migrations in Django](https://dev.to/msnmongare/force-make-migrations-in-django-4nf7)
+- [I Finally Understood map, filter And reduce In JavaScript](https://dev.to/karo_io_/i-finally-understand-map-filter-and-reduce-in-javascript-5hm0)
+- [Tree List Use Case 4](https://dev.to/etohartman/tree-list-use-case-4-6if)
+- [How OpenAI uses Postgres at Scale](https://dev.to/itsjjpowell/how-openai-uses-postgres-at-scale-45c9)
+- [[Boost]](https://dev.to/versioncontrol/-2jfe)
 <!-- BLOG-POST-LIST:END -->
 
