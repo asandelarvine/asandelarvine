@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Understood map, filter And reduce In JavaScript](https://dev.to/karo_io_/i-finally-understand-map-filter-and-reduce-in-javascript-5hm0)
-- [Tree List Use Case 4](https://dev.to/etohartman/tree-list-use-case-4-6if)
-- [How OpenAI uses Postgres at Scale](https://dev.to/itsjjpowell/how-openai-uses-postgres-at-scale-45c9)
-- [[Boost]](https://dev.to/versioncontrol/-2jfe)
+- [State of Devs 2025 Survey: Maybe Don&#39;t Call Yourself a Frontend Developer?](https://dev.to/sachagreif/state-of-devs-2025-survey-maybe-dont-call-yourself-a-frontend-developer-4125)
+- [React and typescript components lib, part 6: code autogeneration with Hygen](https://dev.to/griseduardo/react-and-typescript-components-lib-part-6-code-autogeneration-with-hygen-1hbd)
+- [Biblioteca de componentes React e typescript, parte 6: autogeração de código com Hygen](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-6-autogeracao-de-codigo-com-hygen-2cf0)
+- [The Technology Behind SmoothCSV - The Ultimate CSV Editor](https://dev.to/kohii/the-technology-behind-smoothcsv-the-ultimate-csv-editor-3lg0)
 <!-- BLOG-POST-LIST:END -->
 
