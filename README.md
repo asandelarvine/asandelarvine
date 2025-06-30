@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugin System Design How to Build Extensible Framework Core Architecture（1751296181433600）](https://dev.to/member_35db4d53/plugin-system-design-how-to-build-extensible-framework-core-architecture1751296181433600-46ad)
-- [Death Stranding 2 On the Beach is Incredible - Review](https://dev.to/gg_news/death-stranding-2-on-the-beach-is-incredible-review-1ojk)
-- [You Won’t Believe These July Game Releases!](https://dev.to/gg_news/you-wont-believe-these-july-game-releases-39go)
-- [5 Tools That Helped Me Catch 70% More Bugs in the Codebase [Important!]](https://dev.to/entelligenceai/5-tools-that-helped-me-catch-70-more-bugs-in-the-codebase-important-3phk)
+- [🎉 Build Your Own Personal Voice AI Agent to Control All Your Apps⚡](https://dev.to/composiodev/build-your-own-personal-voice-ai-agent-to-control-all-your-apps-2dfa)
+- [GSoC 2025 – Week 4 with CircuitVerse 🧩](https://dev.to/senbo/gsoc-2025-week-4-with-circuitverse-312p)
+- [How Simple Animations Can Make a Big Impact on Your Website](https://dev.to/sushilmagare10/how-simple-animations-can-make-a-big-impact-on-your-website-34on)
+- [ChatGPT Shopping — Here’s What is and How to Use!](https://dev.to/_37bbf0c253c0b3edec531e/chatgpt-shopping-heres-what-is-and-how-to-use-g46)
 <!-- BLOG-POST-LIST:END -->
 
