@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/prasanthreact/-29np)
-- [VS Code vs VSCodium](https://dev.to/sevaki_rajasekar_700822f9/vs-code-vs-vscodium-5d9h)
-- [Reducing Data Lake Costs on AWS by 80%: A High-Level Strategy Guide](https://dev.to/mr-ashishpanda/reducing-data-lake-costs-on-aws-by-80-a-high-level-strategy-guide-23cn)
-- [How Much Can You Realistically Make If You Buy Bitcoin Now? – My Honest Opinion](https://dev.to/golu12/how-much-can-you-realistically-make-if-you-buy-bitcoin-now-my-honest-opinion-485k)
+- [From Scratch to Restore: Automating PostgreSQL Setup &amp; Backups with Ansible](https://dev.to/lovestaco/from-scratch-to-restore-automating-postgresql-setup-backups-with-ansible-12h6)
+- [Come along for 20 days of deep Django learning experience with me](https://dev.to/nyambura20/come-along-for-20-days-of-deep-django-learning-experience-with-me-4efa)
+- [Enable Azure Monitor Diagnostic Settings with Terraform](https://dev.to/techielass/enable-azure-monitor-diagnostic-settings-with-terraform-1adj)
+- [How to configure Azure Monitor Diagnostic settings in the Azure Portal](https://dev.to/techielass/how-to-configure-azure-monitor-diagnostic-settings-in-the-azure-portal-44c)
 <!-- BLOG-POST-LIST:END -->
 
