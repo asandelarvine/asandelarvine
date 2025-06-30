@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into my very first Hackathon](https://dev.to/s_mathavi_2fa1e3ea8514f34/stepping-into-my-very-first-hackathon-5905)
-- [Quark’s Outlines: Python None](https://dev.to/mike-vincent/quarks-outlines-python-none-5d9e)
-- [Lightning-Fast, Minimal AI/API Serverless Deployment: The Essence and Practice of Mastra Lambda Docker Deploy](https://dev.to/hayata_yamamoto/lightning-fast-minimal-aiapi-serverless-deployment-the-essence-and-practice-of-mastra-lambda-kjk)
-- [Top 10 SoapUI Alternatives That Won&#39;t Give You a Headache in 2025](https://dev.to/apilover/top-10-soapui-alternatives-that-wont-give-you-a-headache-in-2025-lg)
+- [what is the difference betwen mock and injectmocks and when do i use it?](https://dev.to/imajenasyon/what-is-the-difference-betwen-mock-and-injectmocks-and-when-do-i-use-it-4hbh)
+- [This is called interaction testing](https://dev.to/imajenasyon/this-is-called-interaction-testing-43lg)
+- [Esc1 and the Hidden Dangers of Poor API Key Management](https://dev.to/kapusto/esc1-and-the-hidden-dangers-of-poor-api-key-management-51c5)
+- [HarmonyOS PDF Kit: Dev Survival Guide &amp; Gotchas](https://dev.to/lovehmos/harmonyos-pdf-kit-dev-survival-guide-gotchas-1kbi)
 <!-- BLOG-POST-LIST:END -->
 
