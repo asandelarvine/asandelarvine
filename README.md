@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/bagaswibowo/-54kf)
-- [Azure Fundamentals: Microsoft.Visualstudio](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvisualstudio-3m81)
-- [🔍 How to Write High-Signal Prompts for Accurate Results from AI Tools](https://dev.to/rock_win_c053fa5fb2399067/how-to-write-high-signal-prompts-for-accurate-results-from-ai-tools-2031)
-- [HarmonyOS App Dev with Uniapp Real-World Practice &amp; Tips](https://dev.to/lovehmos/harmonyos-app-dev-with-uniapp-real-world-practice-tips-2k92)
+- [How to Start Your Own MCP Server with n8n](https://dev.to/dalenguyen/how-to-start-your-own-mcp-server-with-n8n-2d17)
+- [Part 1: Design Patterns by Purpose – A Developer’s Map](https://dev.to/sagi0312/part-1-design-patterns-by-purpose-a-developers-map-156c)
+- [Why LAN Messenger Is Still a Smart Choice for Local Team Communication in 2025](https://dev.to/lov111vol99/why-lan-messenger-is-still-a-smart-choice-for-local-team-communication-in-2025-1cdc)
+- [การสร้าง Docker Image สำหรับ Go ให้เหมาะกับ Production](https://dev.to/somprasongd/kaarsraang-docker-image-samhrab-go-aihehmaaakab-production-529b)
 <!-- BLOG-POST-LIST:END -->
 
