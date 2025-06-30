@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what is the difference betwen mock and injectmocks and when do i use it?](https://dev.to/imajenasyon/what-is-the-difference-betwen-mock-and-injectmocks-and-when-do-i-use-it-4hbh)
-- [This is called interaction testing](https://dev.to/imajenasyon/this-is-called-interaction-testing-43lg)
-- [Esc1 and the Hidden Dangers of Poor API Key Management](https://dev.to/kapusto/esc1-and-the-hidden-dangers-of-poor-api-key-management-51c5)
-- [HarmonyOS PDF Kit: Dev Survival Guide &amp; Gotchas](https://dev.to/lovehmos/harmonyos-pdf-kit-dev-survival-guide-gotchas-1kbi)
+- [🔐 Mastering Authentication in Bubble: A Complete Guide &lpar;with Social Login, Magic Links &amp; More&rpar;](https://dev.to/ebereplenty/mastering-authentication-in-bubble-a-complete-guide-with-social-login-magic-links-more-3e7p)
+- [Trends in the frontend tech stack in 2025: What you need to know for long-term growth](https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd)
+- [[Boost]](https://dev.to/phuc/-klp)
+- [Demystifying Django: How I Learned the Project Structure &lpar;Through My Own Debugging Lens&rpar;](https://dev.to/zabby/demystifying-django-how-i-learned-the-project-structure-through-my-own-debugging-lens-2929)
 <!-- BLOG-POST-LIST:END -->
 
