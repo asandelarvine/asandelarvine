@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Build Your Own Personal Voice AI Agent to Control All Your Apps⚡](https://dev.to/composiodev/build-your-own-personal-voice-ai-agent-to-control-all-your-apps-2dfa)
-- [GSoC 2025 – Week 4 with CircuitVerse 🧩](https://dev.to/senbo/gsoc-2025-week-4-with-circuitverse-312p)
-- [How Simple Animations Can Make a Big Impact on Your Website](https://dev.to/sushilmagare10/how-simple-animations-can-make-a-big-impact-on-your-website-34on)
-- [ChatGPT Shopping — Here’s What is and How to Use!](https://dev.to/_37bbf0c253c0b3edec531e/chatgpt-shopping-heres-what-is-and-how-to-use-g46)
+- [[Boost]](https://dev.to/prasanthreact/-29np)
+- [VS Code vs VSCodium](https://dev.to/sevaki_rajasekar_700822f9/vs-code-vs-vscodium-5d9h)
+- [Reducing Data Lake Costs on AWS by 80%: A High-Level Strategy Guide](https://dev.to/mr-ashishpanda/reducing-data-lake-costs-on-aws-by-80-a-high-level-strategy-guide-23cn)
+- [How Much Can You Realistically Make If You Buy Bitcoin Now? – My Honest Opinion](https://dev.to/golu12/how-much-can-you-realistically-make-if-you-buy-bitcoin-now-my-honest-opinion-485k)
 <!-- BLOG-POST-LIST:END -->
 
