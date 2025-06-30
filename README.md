@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Giants Leading the Way: Inspiring AI Chatbot Success Stories](https://dev.to/destinovaailabs/e-commerce-giants-leading-the-way-inspiring-ai-chatbot-success-stories-4ep7)
-- [WebApp Security Checklist For Business in USA](https://dev.to/jennysmith7/webapp-security-checklist-for-business-in-usa-18pi)
-- [Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows](https://dev.to/nagarakesh4/orchestrating-multi-agents-unifying-fragmented-tools-into-coordinated-workflows-37ph)
-- [Step-by-Step Amazon Clone Development](https://dev.to/david_beckam_df898f761b30/step-by-step-amazon-clone-development-k2m)
+- [Import on Interaction](https://dev.to/jay818/import-on-interaction-5127)
+- [Achieve Success with Professional and Personal Goals](https://dev.to/fluidwave/achieve-success-with-professional-and-personal-goals-21n4)
+- [Understanding LLMs &amp; Ideating A Decentralized Approach To Solve Challenges](https://dev.to/dc600/understanding-llms-ideating-a-decentralized-approach-to-solve-challenges-3n0m)
+- [HarmonyOS Next 5.0.4 Release Update Notes and Adaptation Guide](https://dev.to/qingkouwei/harmonyos-next-504-release-update-notes-and-adaptation-guide-2e29)
 <!-- BLOG-POST-LIST:END -->
 
