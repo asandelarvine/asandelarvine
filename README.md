@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Tenant Analytics with Snowflake RBAC and Sigma Computing: Part 3](https://dev.to/qvfagundes/building-multi-tenant-analytics-with-snowflake-rbac-and-sigma-computing-part-3-5db9)
-- [All Data and AI Weekly #196 - June 30, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-196-june-30-2025-2eoa)
-- [Mastering Your Digital Privacy: A Comprehensive Guide to Online Protection](https://dev.to/swayam_dc1eefb8839da110de/mastering-your-digital-privacy-a-comprehensive-guide-to-online-protection-43n5)
-- [Easy Water Level Indicator You Can Build – No Microcontroller Needed](https://dev.to/david_thomas/diy-water-level-alarm-with-buzzer-no-microcontroller-needed-4l37)
+- [Why I’ll Never Trust Carets Again](https://dev.to/manuartero/why-ill-never-trust-carets-again-1dno)
+- [What are your goals for the week? #133](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-133-3cd3)
+- [NodeJS Fundamentals: default export](https://dev.to/devopsfundamentals/nodejs-fundamentals-default-export-1k4i)
+- [Why affiliates should get equity, not cash](https://dev.to/charlie_brinicombe/the-creator-equity-strategy-when-to-give-away-ownership-to-build-your-community-1dda)
 <!-- BLOG-POST-LIST:END -->
 
