@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch to Restore: Automating PostgreSQL Setup &amp; Backups with Ansible](https://dev.to/lovestaco/from-scratch-to-restore-automating-postgresql-setup-backups-with-ansible-12h6)
-- [Come along for 20 days of deep Django learning experience with me](https://dev.to/nyambura20/come-along-for-20-days-of-deep-django-learning-experience-with-me-4efa)
-- [Enable Azure Monitor Diagnostic Settings with Terraform](https://dev.to/techielass/enable-azure-monitor-diagnostic-settings-with-terraform-1adj)
-- [How to configure Azure Monitor Diagnostic settings in the Azure Portal](https://dev.to/techielass/how-to-configure-azure-monitor-diagnostic-settings-in-the-azure-portal-44c)
+- [☕️ Monday Motivation: Debug Your Monday Blues 🐛](https://dev.to/sroy8091/monday-motivation-debug-your-monday-blues-mfi)
+- [🔍 Demystifying Node.js Core Modules: A Practical Dive into fs and path](https://dev.to/ayushssshhh/demystifying-nodejs-core-modules-a-practical-dive-into-fs-and-path-i0l)
+- [Bloom Filters and Cuckoo Filters](https://dev.to/vigneshm243/bloom-filters-and-cuckoo-filters-3hgl)
+- [Introducing DEV Education Tracks: Expert-Guided Tutorials for Learning New Skills and Earning Badges](https://dev.to/devteam/introducing-dev-education-tracks-expert-guided-tutorials-for-learning-new-skills-and-earning-badges-48oi)
 <!-- BLOG-POST-LIST:END -->
 
