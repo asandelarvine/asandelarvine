@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Devs 2025 Survey: Maybe Don&#39;t Call Yourself a Frontend Developer?](https://dev.to/sachagreif/state-of-devs-2025-survey-maybe-dont-call-yourself-a-frontend-developer-4125)
-- [React and typescript components lib, part 6: code autogeneration with Hygen](https://dev.to/griseduardo/react-and-typescript-components-lib-part-6-code-autogeneration-with-hygen-1hbd)
-- [Biblioteca de componentes React e typescript, parte 6: autogeração de código com Hygen](https://dev.to/griseduardo/biblioteca-de-componentes-react-e-typescript-parte-6-autogeracao-de-codigo-com-hygen-2cf0)
-- [The Technology Behind SmoothCSV - The Ultimate CSV Editor](https://dev.to/kohii/the-technology-behind-smoothcsv-the-ultimate-csv-editor-3lg0)
+- [SnapSkill – Track what you learn, one snap at a time](https://dev.to/pr135t/snapskill-track-what-you-learn-one-snap-at-a-time-3hon)
+- [Programming Entry Level: how to git](https://dev.to/devopsfundamentals/programming-entry-level-how-to-git-577k)
+- [Angular 20 + Micronaut](https://dev.to/anand_jaisy_2f7644a12001b/angular-20-micronaut-4ka0)
+- [azd CLI extension framework](https://dev.to/kristenwomack/azd-cli-extension-framework-4kh4)
 <!-- BLOG-POST-LIST:END -->
 
