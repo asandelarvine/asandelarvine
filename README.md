@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Implicit Lambda Syntax](https://dev.to/esproc_spl/the-implicit-lambda-syntax-3a7j)
-- [Getting Hammered by Bots? Rate Limit Your API Before It&#39;s Too Late](https://dev.to/sharon_42e16b8da44dabde6d/getting-hammered-by-bots-rate-limit-your-api-before-its-too-late-4g6c)
-- [What is `useSlots` in Vue?](https://dev.to/jacobandrewsky/what-is-useslots-in-vue-2hd)
-- [🧠 Mastering useCallback in React: Prevent Unnecessary Re-Renders and Boost Performance](https://dev.to/webtechnology_tutorials_f/mastering-usecallback-in-react-prevent-unnecessary-re-renders-and-boost-performance-5hmb)
+- [Stepping into my very first Hackathon](https://dev.to/s_mathavi_2fa1e3ea8514f34/stepping-into-my-very-first-hackathon-5905)
+- [Quark’s Outlines: Python None](https://dev.to/mike-vincent/quarks-outlines-python-none-5d9e)
+- [Lightning-Fast, Minimal AI/API Serverless Deployment: The Essence and Practice of Mastra Lambda Docker Deploy](https://dev.to/hayata_yamamoto/lightning-fast-minimal-aiapi-serverless-deployment-the-essence-and-practice-of-mastra-lambda-kjk)
+- [Top 10 SoapUI Alternatives That Won&#39;t Give You a Headache in 2025](https://dev.to/apilover/top-10-soapui-alternatives-that-wont-give-you-a-headache-in-2025-lg)
 <!-- BLOG-POST-LIST:END -->
 
