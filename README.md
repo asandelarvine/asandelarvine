@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Your Own MCP Server with n8n](https://dev.to/dalenguyen/how-to-start-your-own-mcp-server-with-n8n-2d17)
-- [Part 1: Design Patterns by Purpose – A Developer’s Map](https://dev.to/sagi0312/part-1-design-patterns-by-purpose-a-developers-map-156c)
-- [Why LAN Messenger Is Still a Smart Choice for Local Team Communication in 2025](https://dev.to/lov111vol99/why-lan-messenger-is-still-a-smart-choice-for-local-team-communication-in-2025-1cdc)
-- [การสร้าง Docker Image สำหรับ Go ให้เหมาะกับ Production](https://dev.to/somprasongd/kaarsraang-docker-image-samhrab-go-aihehmaaakab-production-529b)
+- [Distributed Lock and Concurrency Control Resource Synchronization Mechanisms in Multi Node Environment（1751260659677800）](https://dev.to/member_6d3fad5b/distributed-lock-and-concurrency-control-resource-synchronization-mechanisms-in-multi-node-57hi)
+- [💳 Razorpay + Flutter 🔥 | Step-by-Step Integration Guide &lpar;2025](https://dev.to/alex_codex_dev/razorpay-flutter-step-by-step-integration-guide-2025-5ek6)
+- [HarmonyOS Case Converter Dev Notes &amp; Real-World Gotchas](https://dev.to/lovehmos/harmonyos-case-converter-dev-notes-real-world-gotchas-20h3)
+- [HarmonyOS MD5 Tool Dev Notes &amp; crypto-js Pitfalls](https://dev.to/lovehmos/harmonyos-md5-tool-dev-notes-crypto-js-pitfalls-5bp3)
 <!-- BLOG-POST-LIST:END -->
 
