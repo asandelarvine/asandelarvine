@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-5419: Google Chromium V8 Out-of-Bounds Read and Write Vulnerability](https://dev.to/freedom_coder/cve-2025-5419-google-chromium-v8-out-of-bounds-read-and-write-vulnerability-4le0)
-- [The Best ngrok Alternative for Windows: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-windows-tunnelmole-open-source-5925)
-- [Key Steps in the Master Data Governance Process](https://dev.to/ruhi_072535d43bad1fbf183e/key-steps-in-the-master-data-governance-process-5c98)
-- [Transposer: A Lightweight, Training-Free Neural Architecture That Learns from Raw Embeddings Without Attention](https://dev.to/lumgenlab/transposer-a-lightweight-training-free-neural-architecture-that-learns-from-raw-embeddings-39h3)
+- [Top 10 Tech News That Changed Everything This Month &lpar;July 2025&rpar; - A Developer&#39;s Perspective](https://dev.to/shiva_shanker_dec82951917/top-10-tech-news-that-changed-everything-this-month-july-2025-a-developers-perspective-3ka0)
+- [Laravel for SaaS: How to Keep Multi-Tenant Data Safe](https://dev.to/kamruljpi/laravel-for-saas-how-to-keep-multi-tenant-data-safe-3o7d)
+- [TickEvent web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI.](https://dev.to/saidmounaim/tickevent-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-3d6g)
+- [How to convert Images, PDF, Excel sheets, or JSON to a relational database with AI](https://dev.to/bobur/how-to-convert-images-pdf-excel-sheets-or-json-to-a-relational-database-with-ai-29a4)
 <!-- BLOG-POST-LIST:END -->
 
