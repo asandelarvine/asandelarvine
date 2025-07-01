@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Queue to Click: Why Digitalization is the Future of Prescriptions](https://dev.to/yelowxpress/from-queue-to-click-why-digitalization-is-the-future-of-prescriptions-j4d)
-- [Revisiting My Old Neural Network Project in Go](https://dev.to/harun_alrasyid_d6c9f599c/revisiting-my-old-neural-network-project-in-go-37ep)
-- [A Must-Read for Keyboard Enthusiasts: The Ultimate Guide to Matching Low Profile Keycaps with Switches](https://dev.to/mysticcoder/a-must-read-for-keyboard-enthusiasts-the-ultimate-guide-to-matching-low-profile-keycaps-with-alk)
-- [My First App, My First User – Built with AI, Shared by Heart](https://dev.to/loop9596/my-first-app-my-first-user-built-with-ai-shared-by-heart-m3p)
+- [AI Baby Tools: Complete Review of Features &amp; Prices](https://dev.to/govind_singhjhala_9f8924/ai-baby-tools-complete-review-of-features-prices-p8a)
+- [The Business Imperative: Why Agentic AI is Driving Unprecedented ROI](https://dev.to/agami_tech_414cabb7522ea1/the-business-imperative-why-agentic-ai-is-driving-unprecedented-roi-5fn3)
+- [The Future of AI in Development](https://dev.to/joel_amos/the-future-of-ai-in-development-2d1i)
+- [Understanding Space and Time Complexity in Software Development](https://dev.to/blackscripts/understanding-space-and-time-complexity-in-software-development-2k0g)
 <!-- BLOG-POST-LIST:END -->
 
