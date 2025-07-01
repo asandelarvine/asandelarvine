@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiler Optimization Techniques（1751401115124300）](https://dev.to/member_a5799784/compiler-optimization-techniques1751401115124300-3bh3)
-- [Building Intelligent IoT Applications with PostgreSQL: Time-Series + Semantic Search + Text-to-SQL](https://dev.to/matthewmctighe1/building-intelligent-iot-applications-with-postgresql-time-series-semantic-search-text-to-sql-4pbm)
-- [Poetry and Horizon Code Design Future Vision Web（1751400164310800）](https://dev.to/member_14fef070/poetry-and-horizon-code-design-future-vision-web1751400164310800-2en2)
-- [Serverless FastAPI Testing: Use Moto and Just Mock It!](https://dev.to/aws-builders/serverless-fastapi-testing-use-moto-and-just-mock-it-2p35)
+- [Extending Methods in WebForms Core](https://dev.to/elanatframework/extending-methods-in-webforms-core-57jj)
+- [Distributed Computing Framework（1751404035281700）](https://dev.to/member_de57975b/distributed-computing-framework1751404035281700-2knp)
+- [Now available: Claude Code sessions in Depot](https://dev.to/depot/now-available-claude-code-sessions-in-depot-33kd)
+- [Reference Architecture for Team AI Productivity](https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi)
 <!-- BLOG-POST-LIST:END -->
 
