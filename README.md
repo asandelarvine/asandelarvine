@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Baby Tools: Complete Review of Features &amp; Prices](https://dev.to/govind_singhjhala_9f8924/ai-baby-tools-complete-review-of-features-prices-p8a)
-- [The Business Imperative: Why Agentic AI is Driving Unprecedented ROI](https://dev.to/agami_tech_414cabb7522ea1/the-business-imperative-why-agentic-ai-is-driving-unprecedented-roi-5fn3)
-- [The Future of AI in Development](https://dev.to/joel_amos/the-future-of-ai-in-development-2d1i)
-- [Understanding Space and Time Complexity in Software Development](https://dev.to/blackscripts/understanding-space-and-time-complexity-in-software-development-2k0g)
+- [CVE-2025-5419: Google Chromium V8 Out-of-Bounds Read and Write Vulnerability](https://dev.to/freedom_coder/cve-2025-5419-google-chromium-v8-out-of-bounds-read-and-write-vulnerability-4le0)
+- [The Best ngrok Alternative for Windows: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-windows-tunnelmole-open-source-5925)
+- [Key Steps in the Master Data Governance Process](https://dev.to/ruhi_072535d43bad1fbf183e/key-steps-in-the-master-data-governance-process-5c98)
+- [Transposer: A Lightweight, Training-Free Neural Architecture That Learns from Raw Embeddings Without Attention](https://dev.to/lumgenlab/transposer-a-lightweight-training-free-neural-architecture-that-learns-from-raw-embeddings-39h3)
 <!-- BLOG-POST-LIST:END -->
 
