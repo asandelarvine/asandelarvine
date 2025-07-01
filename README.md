@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SnapSkill – Track what you learn, one snap at a time](https://dev.to/pr135t/snapskill-track-what-you-learn-one-snap-at-a-time-3hon)
-- [Programming Entry Level: how to git](https://dev.to/devopsfundamentals/programming-entry-level-how-to-git-577k)
-- [Angular 20 + Micronaut](https://dev.to/anand_jaisy_2f7644a12001b/angular-20-micronaut-4ka0)
-- [azd CLI extension framework](https://dev.to/kristenwomack/azd-cli-extension-framework-4kh4)
+- [Must - Read for Parents: Recommendations of Programming Development Boards Suitable for Children&#39;s Learning](https://dev.to/jamesliu/must-read-for-parents-recommendations-of-programming-development-boards-suitable-for-childrens-3a24)
+- [Evaluation of the 5 Hottest Development Boards: Can Be Used as Game Consoles and Control Home Appliances!](https://dev.to/jamesliu/evaluation-of-the-5-hottest-development-boards-can-be-used-as-game-consoles-and-control-home-2hgp)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751334084108900）](https://dev.to/member_a5799784/event-driven-architecture-pattern-application-practice-in-web-frameworks1751334084108900-5ek5)
+- [Deployment Automation 1（1751333971633400）](https://dev.to/member_35db4d53/deployment-automation-11751333971633400-3iai)
 <!-- BLOG-POST-LIST:END -->
 
