@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Tech News That Changed Everything This Month &lpar;July 2025&rpar; - A Developer&#39;s Perspective](https://dev.to/shiva_shanker_dec82951917/top-10-tech-news-that-changed-everything-this-month-july-2025-a-developers-perspective-3ka0)
-- [Laravel for SaaS: How to Keep Multi-Tenant Data Safe](https://dev.to/kamruljpi/laravel-for-saas-how-to-keep-multi-tenant-data-safe-3o7d)
-- [TickEvent web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI.](https://dev.to/saidmounaim/tickevent-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-3d6g)
-- [How to convert Images, PDF, Excel sheets, or JSON to a relational database with AI](https://dev.to/bobur/how-to-convert-images-pdf-excel-sheets-or-json-to-a-relational-database-with-ai-29a4)
+- [From Words to Worlds: Understanding Generative AI&#39;s Text-to-Image Revolution](https://dev.to/dev_patel_35864ca1db6093c/from-words-to-worlds-understanding-generative-ais-text-to-image-revolution-5f8g)
+- [I Built a CNN to Detect Skin Cancer from Images &lpar;Beginner ML Project&rpar;](https://dev.to/hassanahmedai/i-built-a-cnn-to-detect-skin-cancer-from-images-beginner-ml-project-2pak)
+- [Why Choosing React and Node.js as a Tech Stack Accelerated My Career](https://dev.to/dhrubagoswami/why-choosing-react-and-nodejs-as-a-tech-stack-accelerated-my-career-15n)
+- [Running Django &amp; Java Apps in Containers — My Docker Week Recap](https://dev.to/vishal_09/running-django-java-apps-in-containers-my-docker-week-recap-109o)
 <!-- BLOG-POST-LIST:END -->
 
