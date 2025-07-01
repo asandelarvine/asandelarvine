@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta&#39;s ‘Superintelligence&#39; Team](https://dev.to/future_ai/here-is-everyone-mark-zuckerberg-has-hired-so-far-for-metas-superintelligence-team-3lm1)
-- [Denmark to tackle deepfakes by giving people copyright to their own features](https://dev.to/future_ai/denmark-to-tackle-deepfakes-by-giving-people-copyright-to-their-own-features-2kl2)
-- [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://dev.to/future_ai/microsoft-says-its-new-ai-system-diagnosed-patients-4-times-more-accurately-than-human-doctors-kod)
-- [Пентестинг: основы, преимущества и применение](https://dev.to/cybersecpro_online/pientiestingh-osnovy-prieimushchiestva-i-primienieniie-1f93)
+- [Tmux to Zellij](https://dev.to/pyuan/tmux-to-zellij-5no)
+- [iconic lines...of java](https://dev.to/sona_08/iconic-lines-29ik)
+- [Real-Time Game Server Architecture Low Latency High Concurrency Implementation（1751393925829700）](https://dev.to/member_35db4d53/real-time-game-server-architecture-low-latency-high-concurrency-implementation1751393925829700-3pgl)
+- [Debounce in JavaScript](https://dev.to/jakaria/debounce-in-javascript-29g7)
 <!-- BLOG-POST-LIST:END -->
 
