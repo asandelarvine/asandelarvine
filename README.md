@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: dynamic import](https://dev.to/devopsfundamentals/nodejs-fundamentals-dynamic-import-lbd)
-- [20 TypeScript Tricks Every Developer Should Know](https://dev.to/shayy/20-typescript-tricks-every-developer-should-know-94c)
-- [Misadventures in Docker and WASM Benchmarking](https://dev.to/0xlynett/misadventures-in-docker-and-wasm-benchmarking-4fon)
-- [`Subject` vs `BehaviorSubject` in **RxJS](https://dev.to/renukapatil/subject-vs-behaviorsubject-in-rxjs-5760)
+- [Compile-Time Metaprogramming（1751382639404200）](https://dev.to/member_de57975b/compile-time-metaprogramming1751382639404200-4jc1)
+- [Technical Blog Writing Guide（1751382561046300）](https://dev.to/member_a5799784/technical-blog-writing-guide1751382561046300-3896)
+- [🔍 What Is Monitoring &amp; Governance in AWS? &lpar;And Why It’s a Game-Changer for Cloud Builders&rpar;](https://dev.to/1suleyman/what-is-monitoring-governance-in-aws-and-why-its-a-game-changer-for-cloud-builders-40o4)
+- [7 Tips on how I Leverage AI and Still Write My Own Code](https://dev.to/joorch/7-tips-on-how-i-leverage-ai-and-still-write-my-own-code-446c)
 <!-- BLOG-POST-LIST:END -->
 
