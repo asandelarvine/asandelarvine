@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tmux to Zellij](https://dev.to/pyuan/tmux-to-zellij-5no)
-- [iconic lines...of java](https://dev.to/sona_08/iconic-lines-29ik)
-- [Real-Time Game Server Architecture Low Latency High Concurrency Implementation（1751393925829700）](https://dev.to/member_35db4d53/real-time-game-server-architecture-low-latency-high-concurrency-implementation1751393925829700-3pgl)
-- [Debounce in JavaScript](https://dev.to/jakaria/debounce-in-javascript-29g7)
+- [Infrastructure as Code &lpar;IaC&rpar;: Revolutionizing DevOps](https://dev.to/stoicdavi/infrastructure-as-code-iac-revolutionizing-devops-4jbo)
+- [Bidirectional Communication Protocols（1751396906788100）](https://dev.to/member_de57975b/bidirectional-communication-protocols1751396906788100-52m4)
+- [Big Data Fundamentals: spark tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-spark-tutorial-31lo)
+- [CVE-2025-48927: TeleMessage TM SGNL Initialization of a Resource with an Insecure Default Vulnerability](https://dev.to/freedom_coder/cve-2025-48927-telemessage-tm-sgnl-initialization-of-a-resource-with-an-insecure-default-445j)
 <!-- BLOG-POST-LIST:END -->
 
