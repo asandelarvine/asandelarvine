@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending Methods in WebForms Core](https://dev.to/elanatframework/extending-methods-in-webforms-core-57jj)
-- [Distributed Computing Framework（1751404035281700）](https://dev.to/member_de57975b/distributed-computing-framework1751404035281700-2knp)
-- [Now available: Claude Code sessions in Depot](https://dev.to/depot/now-available-claude-code-sessions-in-depot-33kd)
-- [Reference Architecture for Team AI Productivity](https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi)
+- [Elio and the reason today&#39;s original children&#39;s films are flopping](https://dev.to/popcorn_movies/elio-and-the-reason-todays-original-childrens-films-are-flopping-2mo1)
+- [A Deep Dive into a Real-World Recon Workflow](https://dev.to/rodneys_int/a-deep-dive-into-a-real-world-recon-workflow-hpi)
+- [My Pentesting AI Learned a New Word: Orchestrate.](https://dev.to/rodneys_int/my-pentesting-ai-learned-a-new-word-orchestrate-4bp3)
+- [AMC Theaters Now Warns Moviegoers About Lengthy Previews Before Films Start](https://dev.to/popcorn_movies/amc-theaters-now-warns-moviegoers-about-lengthy-previews-before-films-start-235h)
 <!-- BLOG-POST-LIST:END -->
 
