@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code &lpar;IaC&rpar;: Revolutionizing DevOps](https://dev.to/stoicdavi/infrastructure-as-code-iac-revolutionizing-devops-4jbo)
-- [Bidirectional Communication Protocols（1751396906788100）](https://dev.to/member_de57975b/bidirectional-communication-protocols1751396906788100-52m4)
-- [Big Data Fundamentals: spark tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-spark-tutorial-31lo)
-- [CVE-2025-48927: TeleMessage TM SGNL Initialization of a Resource with an Insecure Default Vulnerability](https://dev.to/freedom_coder/cve-2025-48927-telemessage-tm-sgnl-initialization-of-a-resource-with-an-insecure-default-445j)
+- [Compiler Optimization Techniques（1751401115124300）](https://dev.to/member_a5799784/compiler-optimization-techniques1751401115124300-3bh3)
+- [Building Intelligent IoT Applications with PostgreSQL: Time-Series + Semantic Search + Text-to-SQL](https://dev.to/matthewmctighe1/building-intelligent-iot-applications-with-postgresql-time-series-semantic-search-text-to-sql-4pbm)
+- [Poetry and Horizon Code Design Future Vision Web（1751400164310800）](https://dev.to/member_14fef070/poetry-and-horizon-code-design-future-vision-web1751400164310800-2en2)
+- [Serverless FastAPI Testing: Use Moto and Just Mock It!](https://dev.to/aws-builders/serverless-fastapi-testing-use-moto-and-just-mock-it-2p35)
 <!-- BLOG-POST-LIST:END -->
 
