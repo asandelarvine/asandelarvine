@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Words to Worlds: Understanding Generative AI&#39;s Text-to-Image Revolution](https://dev.to/dev_patel_35864ca1db6093c/from-words-to-worlds-understanding-generative-ais-text-to-image-revolution-5f8g)
-- [I Built a CNN to Detect Skin Cancer from Images &lpar;Beginner ML Project&rpar;](https://dev.to/hassanahmedai/i-built-a-cnn-to-detect-skin-cancer-from-images-beginner-ml-project-2pak)
-- [Why Choosing React and Node.js as a Tech Stack Accelerated My Career](https://dev.to/dhrubagoswami/why-choosing-react-and-nodejs-as-a-tech-stack-accelerated-my-career-15n)
-- [Running Django &amp; Java Apps in Containers — My Docker Week Recap](https://dev.to/vishal_09/running-django-java-apps-in-containers-my-docker-week-recap-109o)
+- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
+- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
+- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
+- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
 <!-- BLOG-POST-LIST:END -->
 
