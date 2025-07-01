@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugger Mindset : how top developers Handle burnout like code issue](https://dev.to/pratham_naik_project_manager/debugger-mindset-how-top-developers-handle-burnout-like-code-issue-4hlo)
-- [The Debugger&#39;s Mindset: How Top Developers Handle Burnout Like Code Issues](https://dev.to/teamcamp/the-debuggers-mindset-how-top-developers-handle-burnout-like-code-issues-39oa)
-- [Middleware Magic Advanced Request Processing（1751346538064300）](https://dev.to/member_a5799784/middleware-magic-advanced-request-processing1751346538064300-1d8o)
-- [I just wrote a tutorial on the most overlooked part of building powerful LLM agents: the Action Space. https://dev.to/zachary62/llm-agents-arsenal-a-beginners-guide-to-the-action-space-n75](https://dev.to/zachary62/i-just-wrote-a-tutorial-on-the-most-overlooked-part-of-building-powerful-llm-agents-the-action-m49)
+- [A Practical Guide to Layered Configuration for Modern JavaScript Applications](https://dev.to/raulfdm/a-practical-guide-to-layered-configuration-for-modern-javascript-applications-5709)
+- [From Web Developer to ML Research Engineer: My 60-Day Transformation Journey Begins](https://dev.to/vivekjami/from-web-developer-to-ml-research-engineer-my-60-day-transformation-journey-begins-1c34)
+- [Wallpy: A Wallpaper Changer for Linux Desktops 🌄](https://dev.to/jayantur13/wallpy-a-wallpaper-changer-for-linux-desktops-1khj)
+- [What is !important in CSS and Why You Shouldn’t Use It](https://dev.to/devshefali/what-is-important-in-css-and-why-you-shouldnt-use-it-52pl)
 <!-- BLOG-POST-LIST:END -->
 
