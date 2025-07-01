@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Must - Read for Parents: Recommendations of Programming Development Boards Suitable for Children&#39;s Learning](https://dev.to/jamesliu/must-read-for-parents-recommendations-of-programming-development-boards-suitable-for-childrens-3a24)
-- [Evaluation of the 5 Hottest Development Boards: Can Be Used as Game Consoles and Control Home Appliances!](https://dev.to/jamesliu/evaluation-of-the-5-hottest-development-boards-can-be-used-as-game-consoles-and-control-home-2hgp)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751334084108900）](https://dev.to/member_a5799784/event-driven-architecture-pattern-application-practice-in-web-frameworks1751334084108900-5ek5)
-- [Deployment Automation 1（1751333971633400）](https://dev.to/member_35db4d53/deployment-automation-11751333971633400-3iai)
+- [Learn These 6 Data Structures in a Week &lpar;With Practice Problems and Code&rpar;](https://dev.to/oluwawunmiadesewa/learn-these-6-data-structures-in-a-week-with-practice-problems-and-code-1jc8)
+- [Real World Project Case Study Campus Modern Web（1751341617311700）](https://dev.to/member_35db4d53/real-world-project-case-study-campus-modern-web1751341617311700-5e09)
+- [Environment Configuration Testing（1751341602419900）](https://dev.to/member_14fef070/environment-configuration-testing1751341602419900-2797)
+- [Cache and Data Locality Optimization（1751341557219000）](https://dev.to/member_a5799784/cache-and-data-locality-optimization1751341557219000-4nlh)
 <!-- BLOG-POST-LIST:END -->
 
