@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compile-Time Metaprogramming（1751382639404200）](https://dev.to/member_de57975b/compile-time-metaprogramming1751382639404200-4jc1)
-- [Technical Blog Writing Guide（1751382561046300）](https://dev.to/member_a5799784/technical-blog-writing-guide1751382561046300-3896)
-- [🔍 What Is Monitoring &amp; Governance in AWS? &lpar;And Why It’s a Game-Changer for Cloud Builders&rpar;](https://dev.to/1suleyman/what-is-monitoring-governance-in-aws-and-why-its-a-game-changer-for-cloud-builders-40o4)
-- [7 Tips on how I Leverage AI and Still Write My Own Code](https://dev.to/joorch/7-tips-on-how-i-leverage-ai-and-still-write-my-own-code-446c)
+- [finally!!](https://dev.to/harshith_mullapudi/finally-1e75)
+- [Small Projects That Taught Me Big Lessons in Web Development](https://dev.to/vadym_info_polus/small-projects-that-taught-me-big-lessons-in-web-development-1d6d)
+- [Architectural Decision Making Real World Web Modern（1751386144959800）](https://dev.to/member_14fef070/architectural-decision-making-real-world-web-modern1751386144959800-1p29)
+- [DAY 15-CSS FLEX](https://dev.to/asran_2025/day-15-css-flex-nad)
 <!-- BLOG-POST-LIST:END -->
 
