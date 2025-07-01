@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💉✨ Before &amp; After inject&lpar;&rpar;: Angular Moves You’ll Love in 2025](https://dev.to/aleksei_aleinikov/before-after-inject-angular-moves-youll-love-in-2025-2e7d)
-- [✨ From Zero to Cloud: Designing a Scalable Fintech Payments Platform on AWS](https://dev.to/abhijith_dev/from-zero-to-cloud-designing-a-scalable-fintech-payments-platform-on-aws-2hoc)
-- [SafeLine WAF: How Config Sync Enables Active-Active Architecture](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-how-config-sync-enables-active-active-architecture-46gn)
-- [🛡️✨ Stop Typos in Property Paths — Type-Safe Magic for 2025](https://dev.to/aleksei_aleinikov/stop-typos-in-property-paths-type-safe-magic-for-2025-4pin)
+- [From Queue to Click: Why Digitalization is the Future of Prescriptions](https://dev.to/yelowxpress/from-queue-to-click-why-digitalization-is-the-future-of-prescriptions-j4d)
+- [Revisiting My Old Neural Network Project in Go](https://dev.to/harun_alrasyid_d6c9f599c/revisiting-my-old-neural-network-project-in-go-37ep)
+- [A Must-Read for Keyboard Enthusiasts: The Ultimate Guide to Matching Low Profile Keycaps with Switches](https://dev.to/mysticcoder/a-must-read-for-keyboard-enthusiasts-the-ultimate-guide-to-matching-low-profile-keycaps-with-alk)
+- [My First App, My First User – Built with AI, Shared by Heart](https://dev.to/loop9596/my-first-app-my-first-user-built-with-ai-shared-by-heart-m3p)
 <!-- BLOG-POST-LIST:END -->
 
