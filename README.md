@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Form Inspector: inspect and debug your forms online](https://dev.to/kilianvalkhof/html-form-inspector-inspect-and-debug-your-forms-online-m0p)
-- [AI Won’t Replace Quality Engineers — It Will Empower Us](https://dev.to/marivicdbp/ai-wont-replace-quality-engineers-it-will-empower-us-4p9l)
-- [ONLYOFFICE Docs 9.0 for developers: API updates](https://dev.to/onlyoffice/onlyoffice-docs-90-for-developers-api-updates-di8)
-- [AWS Cost Optimization- Identify Stale Resources using Lambda Function.](https://dev.to/abhishek_korde_31/aws-cost-optimization-using-lambda-function-20m1)
+- [NodeJS Fundamentals: dynamic import](https://dev.to/devopsfundamentals/nodejs-fundamentals-dynamic-import-lbd)
+- [20 TypeScript Tricks Every Developer Should Know](https://dev.to/shayy/20-typescript-tricks-every-developer-should-know-94c)
+- [Misadventures in Docker and WASM Benchmarking](https://dev.to/0xlynett/misadventures-in-docker-and-wasm-benchmarking-4fon)
+- [`Subject` vs `BehaviorSubject` in **RxJS](https://dev.to/renukapatil/subject-vs-behaviorsubject-in-rxjs-5760)
 <!-- BLOG-POST-LIST:END -->
 
