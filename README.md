@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn These 6 Data Structures in a Week &lpar;With Practice Problems and Code&rpar;](https://dev.to/oluwawunmiadesewa/learn-these-6-data-structures-in-a-week-with-practice-problems-and-code-1jc8)
-- [Real World Project Case Study Campus Modern Web（1751341617311700）](https://dev.to/member_35db4d53/real-world-project-case-study-campus-modern-web1751341617311700-5e09)
-- [Environment Configuration Testing（1751341602419900）](https://dev.to/member_14fef070/environment-configuration-testing1751341602419900-2797)
-- [Cache and Data Locality Optimization（1751341557219000）](https://dev.to/member_a5799784/cache-and-data-locality-optimization1751341557219000-4nlh)
+- [Debugger Mindset : how top developers Handle burnout like code issue](https://dev.to/pratham_naik_project_manager/debugger-mindset-how-top-developers-handle-burnout-like-code-issue-4hlo)
+- [The Debugger&#39;s Mindset: How Top Developers Handle Burnout Like Code Issues](https://dev.to/teamcamp/the-debuggers-mindset-how-top-developers-handle-burnout-like-code-issues-39oa)
+- [Middleware Magic Advanced Request Processing（1751346538064300）](https://dev.to/member_a5799784/middleware-magic-advanced-request-processing1751346538064300-1d8o)
+- [I just wrote a tutorial on the most overlooked part of building powerful LLM agents: the Action Space. https://dev.to/zachary62/llm-agents-arsenal-a-beginners-guide-to-the-action-space-n75](https://dev.to/zachary62/i-just-wrote-a-tutorial-on-the-most-overlooked-part-of-building-powerful-llm-agents-the-action-m49)
 <!-- BLOG-POST-LIST:END -->
 
