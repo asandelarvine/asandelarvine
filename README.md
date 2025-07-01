@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elio and the reason today&#39;s original children&#39;s films are flopping](https://dev.to/popcorn_movies/elio-and-the-reason-todays-original-childrens-films-are-flopping-2mo1)
-- [A Deep Dive into a Real-World Recon Workflow](https://dev.to/rodneys_int/a-deep-dive-into-a-real-world-recon-workflow-hpi)
-- [My Pentesting AI Learned a New Word: Orchestrate.](https://dev.to/rodneys_int/my-pentesting-ai-learned-a-new-word-orchestrate-4bp3)
-- [AMC Theaters Now Warns Moviegoers About Lengthy Previews Before Films Start](https://dev.to/popcorn_movies/amc-theaters-now-warns-moviegoers-about-lengthy-previews-before-films-start-235h)
+- [hybrid dev: spread your wings and fly](https://dev.to/bcoman/hybrid-dev-spread-your-wings-and-fly-c91)
+- [SIMD Vectorized Computing（1751411167322500）](https://dev.to/member_de57975b/simd-vectorized-computing1751411167322500-1e0p)
+- [Real-Time Collaboration Systems（1751411159700300）](https://dev.to/member_a5799784/real-time-collaboration-systems1751411159700300-1olg)
+- [Control of spin qubits at near absolute zero a game changer for quantum computers](https://dev.to/future_quantum/control-of-spin-qubits-at-near-absolute-zero-a-game-changer-for-quantum-computers-3k86)
 <!-- BLOG-POST-LIST:END -->
 
