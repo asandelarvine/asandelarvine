@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [finally!!](https://dev.to/harshith_mullapudi/finally-1e75)
-- [Small Projects That Taught Me Big Lessons in Web Development](https://dev.to/vadym_info_polus/small-projects-that-taught-me-big-lessons-in-web-development-1d6d)
-- [Architectural Decision Making Real World Web Modern（1751386144959800）](https://dev.to/member_14fef070/architectural-decision-making-real-world-web-modern1751386144959800-1p29)
-- [DAY 15-CSS FLEX](https://dev.to/asran_2025/day-15-css-flex-nad)
+- [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta&#39;s ‘Superintelligence&#39; Team](https://dev.to/future_ai/here-is-everyone-mark-zuckerberg-has-hired-so-far-for-metas-superintelligence-team-3lm1)
+- [Denmark to tackle deepfakes by giving people copyright to their own features](https://dev.to/future_ai/denmark-to-tackle-deepfakes-by-giving-people-copyright-to-their-own-features-2kl2)
+- [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://dev.to/future_ai/microsoft-says-its-new-ai-system-diagnosed-patients-4-times-more-accurately-than-human-doctors-kod)
+- [Пентестинг: основы, преимущества и применение](https://dev.to/cybersecpro_online/pientiestingh-osnovy-prieimushchiestva-i-primienieniie-1f93)
 <!-- BLOG-POST-LIST:END -->
 
