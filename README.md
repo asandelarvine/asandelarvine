@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Layered Configuration for Modern JavaScript Applications](https://dev.to/raulfdm/a-practical-guide-to-layered-configuration-for-modern-javascript-applications-5709)
-- [From Web Developer to ML Research Engineer: My 60-Day Transformation Journey Begins](https://dev.to/vivekjami/from-web-developer-to-ml-research-engineer-my-60-day-transformation-journey-begins-1c34)
-- [Wallpy: A Wallpaper Changer for Linux Desktops 🌄](https://dev.to/jayantur13/wallpy-a-wallpaper-changer-for-linux-desktops-1khj)
-- [What is !important in CSS and Why You Shouldn’t Use It](https://dev.to/devshefali/what-is-important-in-css-and-why-you-shouldnt-use-it-52pl)
+- [💉✨ Before &amp; After inject&lpar;&rpar;: Angular Moves You’ll Love in 2025](https://dev.to/aleksei_aleinikov/before-after-inject-angular-moves-youll-love-in-2025-2e7d)
+- [✨ From Zero to Cloud: Designing a Scalable Fintech Payments Platform on AWS](https://dev.to/abhijith_dev/from-zero-to-cloud-designing-a-scalable-fintech-payments-platform-on-aws-2hoc)
+- [SafeLine WAF: How Config Sync Enables Active-Active Architecture](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-how-config-sync-enables-active-active-architecture-46gn)
+- [🛡️✨ Stop Typos in Property Paths — Type-Safe Magic for 2025](https://dev.to/aleksei_aleinikov/stop-typos-in-property-paths-type-safe-magic-for-2025-4pin)
 <!-- BLOG-POST-LIST:END -->
 
