@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Best PCs for Redshift Rendering in 2025? [Build Guide &amp; Buying Tips]](https://dev.to/irender_gpu_cloud/what-are-the-best-pcs-for-redshift-rendering-in-2025-build-guide-buying-tips-42hl)
-- [Flutter Write Less, Do More: Supercharge Your Flutter Apps with Mplix Extensions](https://dev.to/taniksha_sharma_b4a11092f/flutter-write-less-do-more-supercharge-your-flutter-apps-with-mplix-extensions-4ik5)
-- [FastiQuran: A Distraction-Free Digital Companion for Your Spiritual Journey](https://dev.to/cas8398/fastiquran-a-distraction-free-digital-companion-for-your-spiritual-journey-2d30)
-- [[Boost]](https://dev.to/osiris8/-1anh)
+- [Containerized vs Traditional Deployment（1751447912686100）](https://dev.to/member_35db4d53/containerized-vs-traditional-deployment1751447912686100-6je)
+- [My Journey with SafeLine: A Practical and Powerful Open Source WAF](https://dev.to/sharon_42e16b8da44dabde6d/my-journey-with-safeline-a-practical-and-powerful-open-source-waf-2l2d)
+- [Cloudwatch Monitoring](https://dev.to/muhirwajd/cloudwatch-monitoring-4o9b)
+- [[School Landing Page – Part 1, Section 4] Layout Planning &amp; Low-Fidelity Sketch](https://dev.to/umemarop/school-landing-page-part-1-section-4-layout-planning-low-fidelity-sketch-13ff)
 <!-- BLOG-POST-LIST:END -->
 
