@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: NARAKA FEST Direct 2025 | New Extraction Mode: Rift Traversal Coming Soon](https://dev.to/gg_news/ign-naraka-fest-direct-2025-new-extraction-mode-rift-traversal-coming-soon-1i13)
-- [A Detailed MinIO Tutorial: How to Set Up MinIO in 3 Minutes](https://dev.to/tomastomas/a-detailed-minio-tutorial-how-to-set-up-minio-in-3-minutes-4l6l)
-- [Front-end além de pintar botão!](https://dev.to/stherzada/front-end-alem-de-pintar-botao-50pb)
-- [Oops, Wrong Git Author — Here’s How I Fixed It](https://dev.to/wendy_tabitha/oops-wrong-git-author-heres-how-i-fixed-it-5gjd)
+- [Next Generation High Web Rust Based Solutions（1751465465625200）](https://dev.to/member_35db4d53/next-generation-high-web-rust-based-solutions1751465465625200-4b0j)
+- [NodeJS Fundamentals: bundler](https://dev.to/devopsfundamentals/nodejs-fundamentals-bundler-33fd)
+- [Personalized Skill Growth Navigator](https://dev.to/gok26/personalized-skill-growth-navigator-5f3d)
+- [Good article!](https://dev.to/ikbaltaqyudin/good-article-1e0g)
 <!-- BLOG-POST-LIST:END -->
 
