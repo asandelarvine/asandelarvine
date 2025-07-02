@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: When Reality Punches You in the Face](https://dev.to/vivekjami/day-2-when-reality-punches-you-in-the-face-k37)
-- [🗳️ POLL: What’s the Most Underrated Skill for a Software Engineer?](https://dev.to/georgekobaidze/poll-whats-the-most-underrated-skill-for-a-software-engineer-2nd1)
-- [How to Bash Set Environment Variable on Linux – Step-by-Step Guide](https://dev.to/john_usa_37eaebbaba39d9c9/how-to-bash-set-environment-variable-on-linux-step-by-step-guide-do6)
-- [🚀 5 Game-Changing AI Tools Every Frontend Developer Should Use in 2025](https://dev.to/er-raj-aryan/5-game-changing-ai-tools-every-frontend-developer-should-use-in-2025-3k9g)
+- [Machine Learning Fundamentals: boosting](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-2i5h)
+- [Configuration Management Evolution（1751476413218700）](https://dev.to/member_6bc7e52c/configuration-management-evolution1751476413218700-1a2c)
+- [# BioDynamo v2 Brings GPU Acceleration to Large-Scale Cell Simulations](https://dev.to/maurizio_morri_f7f4bd128c/-biodynamo-v2-brings-gpu-acceleration-to-large-scale-cell-simulations-1237)
+- [Minimalist Programming Philosophy（1751476268489700）](https://dev.to/member_35db4d53/minimalist-programming-philosophy1751476268489700-180a)
 <!-- BLOG-POST-LIST:END -->
 
