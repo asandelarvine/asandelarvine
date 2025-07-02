@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In case you&#39;re in the same situation I was in, take a read about my experience!](https://dev.to/nombrekeff/in-case-youre-in-the-same-situation-i-was-in-take-a-read-about-my-experience-4pdh)
-- [You&#39;ll thank yourself for reading this](https://dev.to/lokesh_singh/youll-thank-yourself-for-reading-this-3g5e)
-- [🔥Want a 30 LPA Tech Job? These 48 Competitions Are Your Shortcut to Google, Meta, Amazon &amp; More!](https://dev.to/lokesh_singh/want-a-30-lpa-tech-job-these-48-competitions-are-your-shortcut-to-google-meta-amazon-more-13gi)
-- [Why Do Businesses Need Help with CRM?](https://dev.to/sneha_chavan_f18b3d64aabb/why-do-businesses-need-help-with-crm-4ofo)
+- [IGN: NARAKA FEST Direct 2025 | New Extraction Mode: Rift Traversal Coming Soon](https://dev.to/gg_news/ign-naraka-fest-direct-2025-new-extraction-mode-rift-traversal-coming-soon-1i13)
+- [A Detailed MinIO Tutorial: How to Set Up MinIO in 3 Minutes](https://dev.to/tomastomas/a-detailed-minio-tutorial-how-to-set-up-minio-in-3-minutes-4l6l)
+- [Front-end além de pintar botão!](https://dev.to/stherzada/front-end-alem-de-pintar-botao-50pb)
+- [Oops, Wrong Git Author — Here’s How I Fixed It](https://dev.to/wendy_tabitha/oops-wrong-git-author-heres-how-i-fixed-it-5gjd)
 <!-- BLOG-POST-LIST:END -->
 
