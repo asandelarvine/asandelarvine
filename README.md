@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Fundamentals: boosting](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-2i5h)
-- [Configuration Management Evolution（1751476413218700）](https://dev.to/member_6bc7e52c/configuration-management-evolution1751476413218700-1a2c)
-- [# BioDynamo v2 Brings GPU Acceleration to Large-Scale Cell Simulations](https://dev.to/maurizio_morri_f7f4bd128c/-biodynamo-v2-brings-gpu-acceleration-to-large-scale-cell-simulations-1237)
-- [Minimalist Programming Philosophy（1751476268489700）](https://dev.to/member_35db4d53/minimalist-programming-philosophy1751476268489700-180a)
+- [Looking for a US-Based Long-Term Collaborator for AI &amp; Software Projects](https://dev.to/mohammad9551/looking-for-a-us-based-long-term-collaborator-for-ai-software-projects-16nd)
+- [🏆⏳ BlockMate AI: Your Automated Deep‑Work &amp; Accountability Buddy 🤖](https://dev.to/divyasinghdev/blockmate-ai-your-automated-deep-work-accountability-buddy-38oh)
+- [Async Programming Patterns（1751478503748500）](https://dev.to/member_57439f86/async-programming-patterns1751478503748500-go1)
+- [La cybersécurité et les mots de passe](https://dev.to/robin_boucher_4a5559d1b96/la-cybersecurite-et-les-mots-de-passe-4p3)
 <!-- BLOG-POST-LIST:END -->
 
