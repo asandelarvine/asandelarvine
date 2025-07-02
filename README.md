@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Do I Even Say? &lpar;Spoiler: Literally Anything&rpar;](https://dev.to/calypso_coding/what-do-i-even-say-spoiler-literally-anything-4cd1)
-- [Fault-Tolerant Quantum Computers for Muggles](https://dev.to/longor/fault-tolerant-quantum-computers-for-muggles-58id)
-- [Earth is trapping much more heat than climate models forecast – and the rate has doubled in 20 years](https://dev.to/future_science/earth-is-trapping-much-more-heat-than-climate-models-forecast-and-the-rate-has-doubled-in-20-years-3ldc)
-- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-18kf)
+- [Cache and Data Locality Optimization（1751425789967800）](https://dev.to/member_35db4d53/cache-and-data-locality-optimization1751425789967800-5271)
+- [How to Evaluate the Extensibility and Customization Capabilities of Open-Source Admin Dashboards? 6 Key Evaluation Dimensions](https://dev.to/nocobase/how-to-evaluate-the-extensibility-and-customization-capabilities-of-open-source-admin-dashboards-6-3b0j)
+- [String in Python &lpar;13&rpar;](https://dev.to/hyperkai/string-in-python-13-3bmp)
+- [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
 <!-- BLOG-POST-LIST:END -->
 
