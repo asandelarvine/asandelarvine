@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache and Data Locality Optimization（1751425789967800）](https://dev.to/member_35db4d53/cache-and-data-locality-optimization1751425789967800-5271)
-- [How to Evaluate the Extensibility and Customization Capabilities of Open-Source Admin Dashboards? 6 Key Evaluation Dimensions](https://dev.to/nocobase/how-to-evaluate-the-extensibility-and-customization-capabilities-of-open-source-admin-dashboards-6-3b0j)
-- [String in Python &lpar;13&rpar;](https://dev.to/hyperkai/string-in-python-13-3bmp)
-- [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
+- [Push Service Technology Selection and Performance Strategy Experience Sharing（1751429911429000）](https://dev.to/member_a5799784/push-service-technology-selection-and-performance-strategy-experience-sharing1751429911429000-1kk8)
+- [playwright通过CDP远程连接浏览器并且控制](https://dev.to/dragon72463399/playwrighttong-guo-cdpyuan-cheng-lian-jie-liu-lan-qi-bing-qie-kong-zhi-1bma)
+- [System Monitoring Solutions（1751429602823500）](https://dev.to/member_35db4d53/system-monitoring-solutions1751429602823500-c6d)
+- [How to Create a Local Chatbot Without Coding in Less Than 10 Minutes on AI PCs](https://dev.to/llmware/how-to-create-a-local-chatbot-without-coding-in-less-than-10-minutes-on-ai-pcs-2ajl)
 <!-- BLOG-POST-LIST:END -->
 
