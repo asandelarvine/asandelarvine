@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quiet Builders — A Community for Devs Who Build with Soul 🌙💻](https://dev.to/pjdeveloper896/the-quiet-builders-a-community-for-devs-who-build-with-soul-46g6)
-- [Misusing OAuth 2.0 Client Credentials in Public Apps — A Security Breakdown](https://dev.to/leonfazliusentry/misusing-oauth-20-client-credentials-in-public-apps-a-security-breakdown-1hj2)
-- [What&#39;s Really Powering Your Computer? Meet the Daemons](https://dev.to/marufsarker/whats-really-powering-your-computer-meet-the-daemons-6c5)
-- [🚀 From Code to Production in Minutes: Mastering CI/CD for Faster, Smarter Software Delivery](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-code-to-production-in-minutes-mastering-cicd-for-faster-smarter-software-delivery-3cdi)
+- [20+ Free &amp; Responsive React Website Templates to Use](https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi)
+- [Starting Small, Dreaming Big: My LN247 Talk on Building Tech Startups in Nigeria](https://dev.to/subair09/starting-small-dreaming-big-my-ln247-talk-on-building-tech-startups-in-nigeria-k42)
+- [TSWHZC Technical Deep Dive: Openpayd-Ripple Integration Architecture](https://dev.to/tswhzc/tswhzc-technical-deep-dive-openpayd-ripple-integration-architecture-gl8)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project（1751453256722600）](https://dev.to/member_35db4d53/memory-leak-terminator-how-type-safety-saved-my-graduation-project1751453256722600-194h)
 <!-- BLOG-POST-LIST:END -->
 
