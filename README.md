@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure MariaDB SSL Connection](https://dev.to/bytebase/how-to-configure-mariadb-ssl-connection-1cg)
-- [Ever stared at a red Lighthouse score wondering &quot;didn&#39;t we just optimize this last sprint?&quot; - No fluff. Just the techniques that make your sites snappier and users happier.](https://dev.to/istealersn_dev/ever-stared-at-a-red-lighthouse-score-wondering-didnt-we-just-optimize-this-last-sprint-no-49fm)
-- [System Monitoring Solutions（1751437038277000）](https://dev.to/member_de57975b/system-monitoring-solutions1751437038277000-1h98)
-- [A Developer&#39;s Guide to Faster Page Rendering](https://dev.to/istealersn_dev/a-developers-guide-to-faster-page-rendering-5bg9)
+- [Architectural Decision Making Real World Web Modern（1751439590003300）](https://dev.to/member_de57975b/architectural-decision-making-real-world-web-modern1751439590003300-4066)
+- [Needing advice on project](https://dev.to/pfi_ielts_7fd3ca569921f20/needing-advice-on-project-2fbe)
+- [Cache and Data Locality Optimization（1751438952033400）](https://dev.to/member_de57975b/cache-and-data-locality-optimization1751438952033400-2085)
+- [CVE-2024-38077: Critical RCE in Windows RDL Service](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-38077-critical-rce-in-windows-rdl-service-1imk)
 <!-- BLOG-POST-LIST:END -->
 
