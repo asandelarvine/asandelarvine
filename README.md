@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Push Service Technology Selection and Performance Strategy Experience Sharing（1751429911429000）](https://dev.to/member_a5799784/push-service-technology-selection-and-performance-strategy-experience-sharing1751429911429000-1kk8)
-- [playwright通过CDP远程连接浏览器并且控制](https://dev.to/dragon72463399/playwrighttong-guo-cdpyuan-cheng-lian-jie-liu-lan-qi-bing-qie-kong-zhi-1bma)
-- [System Monitoring Solutions（1751429602823500）](https://dev.to/member_35db4d53/system-monitoring-solutions1751429602823500-c6d)
-- [How to Create a Local Chatbot Without Coding in Less Than 10 Minutes on AI PCs](https://dev.to/llmware/how-to-create-a-local-chatbot-without-coding-in-less-than-10-minutes-on-ai-pcs-2ajl)
+- [Navigating the Agentic Frontier: A Strategic Lens on Governance, Security, and Responsible AI](https://dev.to/agami_tech_414cabb7522ea1/navigating-the-agentic-frontier-a-strategic-lens-on-governance-security-and-responsible-ai-4k59)
+- [How We Solved Weak Cipher Issues in Our API Gateway Using CloudFront](https://dev.to/bsivamani/how-we-solved-weak-cipher-issues-in-our-api-gateway-using-cloudfront-20h5)
+- [Technical Debt Management（1751433419002700）](https://dev.to/member_35db4d53/technical-debt-management1751433419002700-3gn9)
+- [7 Insane Gemini CLI Tips That Will Make You a Superhuman Developer](https://dev.to/therealmrmumba/7-insane-gemini-cli-tips-that-will-make-you-a-superhuman-developer-2d7h)
 <!-- BLOG-POST-LIST:END -->
 
