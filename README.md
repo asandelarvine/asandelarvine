@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Added Local Notifications in Flutter Without Firebase](https://dev.to/mayur_pawar_8b6c0658c55fd/how-i-added-local-notifications-in-flutter-without-firebase-2bpn)
-- [Building Universal Cross Platform Web Advanced（1751483331080000）](https://dev.to/member_6bc7e52c/building-universal-cross-platform-web-advanced1751483331080000-4gm9)
-- [5 Powerful CLI-Based Coding Agents for Developers in 2025 [Don&#39;t Miss These!]](https://dev.to/forgecode/5-powerful-cli-based-coding-agents-for-developers-in-2025-dont-miss-these-4nk9)
-- [🚀 Day 1 of Building TaskVerse — The Ultimate Productivity Platform](https://dev.to/prateek2711/day-1-of-building-taskverse-the-ultimate-productivity-platform-2m1h)
+- [Exploring High Efficiency Web Analysis Results（1751487482109100）](https://dev.to/member_57439f86/exploring-high-efficiency-web-analysis-results1751487482109100-eep)
+- [iOS 26 Beta 2: What&#39;s in for Developers](https://dev.to/arshtechpro/ios-26-beta-2-whats-in-for-developers-280h)
+- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications（1751487106513800）](https://dev.to/member_6bc7e52c/event-stream-processing-architecture-pattern-best-practices-in-real-time-3k4c)
+- [Big Data Fundamentals: flink project](https://dev.to/devopsfundamentals/big-data-fundamentals-flink-project-eli)
 <!-- BLOG-POST-LIST:END -->
 
