@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Agentic Frontier: A Strategic Lens on Governance, Security, and Responsible AI](https://dev.to/agami_tech_414cabb7522ea1/navigating-the-agentic-frontier-a-strategic-lens-on-governance-security-and-responsible-ai-4k59)
-- [How We Solved Weak Cipher Issues in Our API Gateway Using CloudFront](https://dev.to/bsivamani/how-we-solved-weak-cipher-issues-in-our-api-gateway-using-cloudfront-20h5)
-- [Technical Debt Management（1751433419002700）](https://dev.to/member_35db4d53/technical-debt-management1751433419002700-3gn9)
-- [7 Insane Gemini CLI Tips That Will Make You a Superhuman Developer](https://dev.to/therealmrmumba/7-insane-gemini-cli-tips-that-will-make-you-a-superhuman-developer-2d7h)
+- [How to Configure MariaDB SSL Connection](https://dev.to/bytebase/how-to-configure-mariadb-ssl-connection-1cg)
+- [Ever stared at a red Lighthouse score wondering &quot;didn&#39;t we just optimize this last sprint?&quot; - No fluff. Just the techniques that make your sites snappier and users happier.](https://dev.to/istealersn_dev/ever-stared-at-a-red-lighthouse-score-wondering-didnt-we-just-optimize-this-last-sprint-no-49fm)
+- [System Monitoring Solutions（1751437038277000）](https://dev.to/member_de57975b/system-monitoring-solutions1751437038277000-1h98)
+- [A Developer&#39;s Guide to Faster Page Rendering](https://dev.to/istealersn_dev/a-developers-guide-to-faster-page-rendering-5bg9)
 <!-- BLOG-POST-LIST:END -->
 
