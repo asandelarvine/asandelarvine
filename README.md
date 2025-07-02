@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [hybrid dev: spread your wings and fly](https://dev.to/bcoman/hybrid-dev-spread-your-wings-and-fly-c91)
-- [SIMD Vectorized Computing（1751411167322500）](https://dev.to/member_de57975b/simd-vectorized-computing1751411167322500-1e0p)
-- [Real-Time Collaboration Systems（1751411159700300）](https://dev.to/member_a5799784/real-time-collaboration-systems1751411159700300-1olg)
-- [Control of spin qubits at near absolute zero a game changer for quantum computers](https://dev.to/future_quantum/control-of-spin-qubits-at-near-absolute-zero-a-game-changer-for-quantum-computers-3k86)
+- [What Do I Even Say? &lpar;Spoiler: Literally Anything&rpar;](https://dev.to/calypso_coding/what-do-i-even-say-spoiler-literally-anything-4cd1)
+- [Fault-Tolerant Quantum Computers for Muggles](https://dev.to/longor/fault-tolerant-quantum-computers-for-muggles-58id)
+- [Earth is trapping much more heat than climate models forecast – and the rate has doubled in 20 years](https://dev.to/future_science/earth-is-trapping-much-more-heat-than-climate-models-forecast-and-the-rate-has-doubled-in-20-years-3ldc)
+- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-18kf)
 <!-- BLOG-POST-LIST:END -->
 
