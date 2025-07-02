@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage context rot by exploring new experimental features in Amazon Q CLI](https://dev.to/aws/manage-context-rot-by-exploring-new-experimental-features-in-amazon-q-cli-10ki)
-- [Pixel Perfect AI](https://dev.to/aniruddhaadak/pixel-perfect-ai-5fj)
-- [After the Hack: Living the Dream!](https://dev.to/warnerbell/after-the-hack-living-the-dream-3706)
-- [Technology Selection Wisdom（1751492993553600）](https://dev.to/member_35db4d53/technology-selection-wisdom1751492993553600-4kjn)
+- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture（1751497744754500）](https://dev.to/member_57439f86/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-1glb)
+- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
 <!-- BLOG-POST-LIST:END -->
 
