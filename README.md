@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Launched: WebDev Club – A Cozy Community for Web Developers](https://dev.to/krishna_kantsingh_e86e7d/just-launched-webdev-club-a-cozy-community-for-web-developers-g73)
-- [Learning AI/ML on Kaggle.](https://dev.to/riettah/learning-aiml-on-kaggle-2me2)
-- [How to Use Worker: Secure Job Execution Made Simple](https://dev.to/ehsaniara/how-to-use-worker-secure-job-execution-made-simple-559h)
-- [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
+- [Manage context rot by exploring new experimental features in Amazon Q CLI](https://dev.to/aws/manage-context-rot-by-exploring-new-experimental-features-in-amazon-q-cli-10ki)
+- [Pixel Perfect AI](https://dev.to/aniruddhaadak/pixel-perfect-ai-5fj)
+- [After the Hack: Living the Dream!](https://dev.to/warnerbell/after-the-hack-living-the-dream-3706)
+- [Technology Selection Wisdom（1751492993553600）](https://dev.to/member_35db4d53/technology-selection-wisdom1751492993553600-4kjn)
 <!-- BLOG-POST-LIST:END -->
 
