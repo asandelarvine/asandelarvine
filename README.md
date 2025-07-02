@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next Generation High Web Rust Based Solutions（1751465465625200）](https://dev.to/member_35db4d53/next-generation-high-web-rust-based-solutions1751465465625200-4b0j)
-- [NodeJS Fundamentals: bundler](https://dev.to/devopsfundamentals/nodejs-fundamentals-bundler-33fd)
-- [Personalized Skill Growth Navigator](https://dev.to/gok26/personalized-skill-growth-navigator-5f3d)
-- [Good article!](https://dev.to/ikbaltaqyudin/good-article-1e0g)
+- [Poetry and Horizon Code Design Future Vision Web（1751469572622200）](https://dev.to/member_35db4d53/poetry-and-horizon-code-design-future-vision-web1751469572622200-1h5l)
+- [Code Readability Techniques（1751469515864900）](https://dev.to/member_57439f86/code-readability-techniques1751469515864900-3o1e)
+- [⌛️Weekly Focus Forge: Automated Hour Tracking 🗓️⏱️](https://dev.to/divyasinghdev/weekly-focus-forge-automated-hour-tracking-5469)
+- [🎓 Frontend Masters — Learn from Industry Experts, Go Beyond Senior Dev](https://dev.to/ml318097/frontend-masters-learn-from-industry-experts-go-beyond-senior-dev-1e7n)
 <!-- BLOG-POST-LIST:END -->
 
