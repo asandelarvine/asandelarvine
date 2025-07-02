@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerized vs Traditional Deployment（1751447912686100）](https://dev.to/member_35db4d53/containerized-vs-traditional-deployment1751447912686100-6je)
-- [My Journey with SafeLine: A Practical and Powerful Open Source WAF](https://dev.to/sharon_42e16b8da44dabde6d/my-journey-with-safeline-a-practical-and-powerful-open-source-waf-2l2d)
-- [Cloudwatch Monitoring](https://dev.to/muhirwajd/cloudwatch-monitoring-4o9b)
-- [[School Landing Page – Part 1, Section 4] Layout Planning &amp; Low-Fidelity Sketch](https://dev.to/umemarop/school-landing-page-part-1-section-4-layout-planning-low-fidelity-sketch-13ff)
+- [The Quiet Builders — A Community for Devs Who Build with Soul 🌙💻](https://dev.to/pjdeveloper896/the-quiet-builders-a-community-for-devs-who-build-with-soul-46g6)
+- [Misusing OAuth 2.0 Client Credentials in Public Apps — A Security Breakdown](https://dev.to/leonfazliusentry/misusing-oauth-20-client-credentials-in-public-apps-a-security-breakdown-1hj2)
+- [What&#39;s Really Powering Your Computer? Meet the Daemons](https://dev.to/marufsarker/whats-really-powering-your-computer-meet-the-daemons-6c5)
+- [🚀 From Code to Production in Minutes: Mastering CI/CD for Faster, Smarter Software Delivery](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-code-to-production-in-minutes-mastering-cicd-for-faster-smarter-software-delivery-3cdi)
 <!-- BLOG-POST-LIST:END -->
 
