@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a US-Based Long-Term Collaborator for AI &amp; Software Projects](https://dev.to/mohammad9551/looking-for-a-us-based-long-term-collaborator-for-ai-software-projects-16nd)
-- [🏆⏳ BlockMate AI: Your Automated Deep‑Work &amp; Accountability Buddy 🤖](https://dev.to/divyasinghdev/blockmate-ai-your-automated-deep-work-accountability-buddy-38oh)
-- [Async Programming Patterns（1751478503748500）](https://dev.to/member_57439f86/async-programming-patterns1751478503748500-go1)
-- [La cybersécurité et les mots de passe](https://dev.to/robin_boucher_4a5559d1b96/la-cybersecurite-et-les-mots-de-passe-4p3)
+- [🚀 How I Added Local Notifications in Flutter Without Firebase](https://dev.to/mayur_pawar_8b6c0658c55fd/how-i-added-local-notifications-in-flutter-without-firebase-2bpn)
+- [Building Universal Cross Platform Web Advanced（1751483331080000）](https://dev.to/member_6bc7e52c/building-universal-cross-platform-web-advanced1751483331080000-4gm9)
+- [5 Powerful CLI-Based Coding Agents for Developers in 2025 [Don&#39;t Miss These!]](https://dev.to/forgecode/5-powerful-cli-based-coding-agents-for-developers-in-2025-dont-miss-these-4nk9)
+- [🚀 Day 1 of Building TaskVerse — The Ultimate Productivity Platform](https://dev.to/prateek2711/day-1-of-building-taskverse-the-ultimate-productivity-platform-2m1h)
 <!-- BLOG-POST-LIST:END -->
 
