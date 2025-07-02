@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring High Efficiency Web Analysis Results（1751487482109100）](https://dev.to/member_57439f86/exploring-high-efficiency-web-analysis-results1751487482109100-eep)
-- [iOS 26 Beta 2: What&#39;s in for Developers](https://dev.to/arshtechpro/ios-26-beta-2-whats-in-for-developers-280h)
-- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications（1751487106513800）](https://dev.to/member_6bc7e52c/event-stream-processing-architecture-pattern-best-practices-in-real-time-3k4c)
-- [Big Data Fundamentals: flink project](https://dev.to/devopsfundamentals/big-data-fundamentals-flink-project-eli)
+- [Just Launched: WebDev Club – A Cozy Community for Web Developers](https://dev.to/krishna_kantsingh_e86e7d/just-launched-webdev-club-a-cozy-community-for-web-developers-g73)
+- [Learning AI/ML on Kaggle.](https://dev.to/riettah/learning-aiml-on-kaggle-2me2)
+- [How to Use Worker: Secure Job Execution Made Simple](https://dev.to/ehsaniara/how-to-use-worker-secure-job-execution-made-simple-559h)
+- [Join Our Newest Frontend Challenge: Office Edition! Sponsored by Axero with $3,000 in Prizes 💸](https://dev.to/devteam/join-our-newest-frontend-challenge-office-edition-sponsored-by-axero-with-3000-in-prizes-21ap)
 <!-- BLOG-POST-LIST:END -->
 
