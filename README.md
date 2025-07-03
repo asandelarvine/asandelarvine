@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝘠𝘰𝘶 𝘮𝘢𝘺 𝘥𝘦𝘭𝘢𝘺, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵.](https://dev.to/sonmusui/--1k68)
-- [Why Now Is the Best Time to Start Freelance Web Development](https://dev.to/vjygour/why-now-is-the-best-time-to-start-freelance-web-development-2pm5)
-- [JavaScript Variable Naming: Rules You Can’t Ignore](https://dev.to/andriy_ovcharov_312ead391/javascript-variable-naming-rules-you-cant-ignore-593i)
-- [Containerized vs Traditional Deployment（1751519242763600）](https://dev.to/member_57439f86/containerized-vs-traditional-deployment1751519242763600-3084)
+- [Comparing `std::set` and `std::unordered_set` in C++](https://dev.to/dushyant_singhrao_08/comparing-stdset-and-stdunorderedset-in-c-29gg)
+- [AI in the Vineyard: How Japanese Wine Producers Are Using Data to Grow Better Grapes 🧐🍇](https://dev.to/mark_morey_40465ceccddaa8/ai-in-the-vineyard-how-japanese-wine-producers-are-using-data-to-grow-better-grapes-4fp1)
+- [first post](https://dev.to/helpothon/first-post-2h0d)
+- [🧠 Open‑WebSearch MCP Plugin — Free multi‑engine web search 🌐, no API key!](https://dev.to/aasee/open-websearch-mcp-plugin-free-multi-engine-web-search-no-api-key-1pi7)
 <!-- BLOG-POST-LIST:END -->
 
