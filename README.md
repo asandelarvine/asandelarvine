@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing `std::set` and `std::unordered_set` in C++](https://dev.to/dushyant_singhrao_08/comparing-stdset-and-stdunorderedset-in-c-29gg)
-- [AI in the Vineyard: How Japanese Wine Producers Are Using Data to Grow Better Grapes 🧐🍇](https://dev.to/mark_morey_40465ceccddaa8/ai-in-the-vineyard-how-japanese-wine-producers-are-using-data-to-grow-better-grapes-4fp1)
-- [first post](https://dev.to/helpothon/first-post-2h0d)
-- [🧠 Open‑WebSearch MCP Plugin — Free multi‑engine web search 🌐, no API key!](https://dev.to/aasee/open-websearch-mcp-plugin-free-multi-engine-web-search-no-api-key-1pi7)
+- [Provide storage for the IT department testing and training](https://dev.to/adeyemo/provide-storage-for-the-it-department-testing-and-training-1m3o)
+- [The evolving role of AI for Data Professionals](https://dev.to/agape_aurora_4b5303956dc6/the-evolving-role-of-ai-for-data-professionals-3npl)
+- [Configuration Management: 12 factor, Factor III](https://dev.to/toluwanee/configuration-management-12-factor-factor-iii-hoa)
+- [¿Cómo llamar a iberia costa rica telefono para ayuda Disponible 24/7 horas?](https://dev.to/glenmaxiiii/como-llamar-a-iberia-costa-rica-telefono-para-ayuda-disponible-247-horas-3ld3)
 <!-- BLOG-POST-LIST:END -->
 
