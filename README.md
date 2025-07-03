@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Article: write a unique title for an article on seasons](https://dev.to/varuni_j_154728175e3f9f85/article-write-a-unique-title-for-an-article-on-seasons-khk)
-- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality（1751545748202800）](https://dev.to/member_57439f86/code-review-and-team-collaboration-best-practices-methods-for-improving-code-26k5)
-- [I Taught My Smart Contract to Dream: AI-Generated Solidity Code](https://dev.to/dhis_is_jj/i-taught-my-smart-contract-to-dream-ai-generated-solidity-code-2ijh)
-- [AWS re:Invent: How I Finally Found My Sense of Belonging](https://dev.to/aws-builders/aws-reinvent-how-i-finally-found-my-sense-of-belonging-58n5)
+- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
+- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
+- [🧠 JavaScript Promises Explained — A Complete Guide for Beginners](https://dev.to/lokesh_keswani/javascript-promises-explained-a-complete-guide-for-beginners-gbe)
+- [Day 23: When Your Brain Runs on Dial-Up](https://dev.to/casperday11/day-23-when-your-brain-runs-on-dial-up-27pb)
 <!-- BLOG-POST-LIST:END -->
 
