@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Introducing Helpothon: Leveraging Technology for Social Good](https://dev.to/helpothon/-introducing-helpothon-leveraging-technology-for-social-good-26ni)
-- [Technology Selection Wisdom（1751568581749700）](https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b)
-- [Real-Time Backend for Mobile Apps Without WebSockets: A Modern Pub/Sub Alternative](https://dev.to/vlad_kuiantsev/real-time-backend-for-mobile-apps-without-websockets-a-modern-pubsub-alternative-4327)
-- [JavaScript String Methods](https://dev.to/mukilaperiyasamy/javascript-string-methods-55k6)
+- [Entenda o MCP: O Protocolo que Liga LLMs a Dados e Ferramentas](https://dev.to/pachicodes/entenda-o-mcp-o-protocolo-que-liga-llms-a-dados-e-ferramentas-2loh)
+- [Basic Linux command &lpar;Hostname&rpar;](https://dev.to/cheulong/basic-linux-command-hostname-3fk5)
+- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-3c53)
+- [How does an Incident Response Policy help in managing cybersecurity threats?](https://dev.to/writegenic/how-does-an-incident-response-policy-help-in-managing-cybersecurity-threats-55m6)
 <!-- BLOG-POST-LIST:END -->
 
