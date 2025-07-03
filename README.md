@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project KARL](https://dev.to/theaniketraj/project-karl-4m7b)
-- [6 Offline Practices for Sharper Coding and Design Thinking 💡](https://dev.to/manukumar07/6-offline-practices-for-sharper-coding-and-design-thinking-el6)
-- [How to Use ONNX Runtime in Delphi for Object Detection](https://dev.to/serge_pilko/how-to-use-onnx-runtime-in-delphi-for-object-detection-53hm)
-- [How to Fix err_ngrok_6024: The ngrok Splash Page Error &lpar;and Why Tunnelmole is Better&rpar;](https://dev.to/robbiecahill/how-to-fix-errngrok6024-the-ngrok-splash-page-error-and-why-tunnelmole-is-better-1pnk)
+- [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
+- [From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project &lpar;Part One&rpar;](https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m)
+- [What is Data Enrichment ＆ How AI Enhances Its Power](https://dev.to/powerdrill_ai/what-is-data-enrichment-how-ai-enhances-its-power-3m8m)
+- [How to Add Internationalization &lpar;i18n&rpar; to a React App Using i18next [2025 Edition]](https://dev.to/anilparmar/how-to-add-internationalization-i18n-to-a-react-app-using-i18next-2025-edition-3hkk)
 <!-- BLOG-POST-LIST:END -->
 
