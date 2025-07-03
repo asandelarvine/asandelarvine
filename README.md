@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture（1751497744754500）](https://dev.to/member_57439f86/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-1glb)
-- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
-- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
+- [Cross Platform Web Write Once Run Rust Framework（1751506224416200）](https://dev.to/member_6bc7e52c/cross-platform-web-write-once-run-rust-framework1751506224416200-2hf2)
+- [Can Modern Systems Run Out of Memory Effects on malloc&lpar;&rpar;?](https://dev.to/adityabhuyan/can-modern-systems-run-out-of-memory-effects-on-malloc-22n1)
+- [Critical Security Importance Digital Age Web Techniques（1751505540803000）](https://dev.to/member_6bc7e52c/critical-security-importance-digital-age-web-techniques1751505540803000-188f)
+- [🧠 Why Learn Powerful Shell Scripting — Even When We Have Python, PowerShell, and Go?](https://dev.to/srinivasamcjf/why-learn-powerful-shell-scripting-even-when-we-have-python-powershell-and-go-1999)
 <!-- BLOG-POST-LIST:END -->
 
