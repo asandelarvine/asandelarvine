@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Storage Account with Security and Networking Settings](https://dev.to/cliffndee/creating-a-storage-account-with-security-and-networking-settings-2k84)
-- [Laravel API Development: Best Practices and Security](https://dev.to/arasosman/laravel-api-development-best-practices-and-security-5e8i)
-- [Untitled](https://dev.to/jefferson_cuevagil_c0e09/untitled-79c)
-- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
+- [𝘠𝘰𝘶 𝘮𝘢𝘺 𝘥𝘦𝘭𝘢𝘺, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘸𝘪𝘭𝘭 𝘯𝘰𝘵.](https://dev.to/sonmusui/--1k68)
+- [Why Now Is the Best Time to Start Freelance Web Development](https://dev.to/vjygour/why-now-is-the-best-time-to-start-freelance-web-development-2pm5)
+- [JavaScript Variable Naming: Rules You Can’t Ignore](https://dev.to/andriy_ovcharov_312ead391/javascript-variable-naming-rules-you-cant-ignore-593i)
+- [Containerized vs Traditional Deployment（1751519242763600）](https://dev.to/member_57439f86/containerized-vs-traditional-deployment1751519242763600-3084)
 <!-- BLOG-POST-LIST:END -->
 
