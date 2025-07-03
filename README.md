@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/sarahokolo/-4499)
-- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751529511681000）](https://dev.to/member_6bc7e52c/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751529511681000-4gg0)
-- [Middleware Magic Advanced Request Processing Techniques（1751528826827600）](https://dev.to/member_6bc7e52c/middleware-magic-advanced-request-processing-techniques1751528826827600-3fl9)
-- [A Developer&#39;s Guide to Unit Testing Nuxt 3 Server Routes](https://dev.to/doantrongnam/a-developers-guide-to-unit-testing-nuxt-3-server-routes-4f55)
+- [Designing a News Feed System: Facebook and Twitter Architecture](https://dev.to/sgchris/designing-a-news-feed-system-facebook-and-twitter-architecture-5292)
+- [Building a Chat System Like WhatsApp: Real-time at Scale](https://dev.to/sgchris/building-a-chat-system-like-whatsapp-real-time-at-scale-1o2g)
+- [Designing URL Shortener Systems: From TinyURL to Bit.ly Scale](https://dev.to/sgchris/designing-url-shortener-systems-from-tinyurl-to-bitly-scale-1ip5)
+- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751533631311700）](https://dev.to/member_57439f86/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751533631311700-2p00)
 <!-- BLOG-POST-LIST:END -->
 
