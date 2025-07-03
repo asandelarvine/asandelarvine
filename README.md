@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the IT department testing and training](https://dev.to/adeyemo/provide-storage-for-the-it-department-testing-and-training-1m3o)
-- [The evolving role of AI for Data Professionals](https://dev.to/agape_aurora_4b5303956dc6/the-evolving-role-of-ai-for-data-professionals-3npl)
-- [Configuration Management: 12 factor, Factor III](https://dev.to/toluwanee/configuration-management-12-factor-factor-iii-hoa)
-- [¿Cómo llamar a iberia costa rica telefono para ayuda Disponible 24/7 horas?](https://dev.to/glenmaxiiii/como-llamar-a-iberia-costa-rica-telefono-para-ayuda-disponible-247-horas-3ld3)
+- [[Boost]](https://dev.to/sarahokolo/-4499)
+- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751529511681000）](https://dev.to/member_6bc7e52c/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751529511681000-4gg0)
+- [Middleware Magic Advanced Request Processing Techniques（1751528826827600）](https://dev.to/member_6bc7e52c/middleware-magic-advanced-request-processing-techniques1751528826827600-3fl9)
+- [A Developer&#39;s Guide to Unit Testing Nuxt 3 Server Routes](https://dev.to/doantrongnam/a-developers-guide-to-unit-testing-nuxt-3-server-routes-4f55)
 <!-- BLOG-POST-LIST:END -->
 
