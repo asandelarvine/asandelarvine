@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TaskMaster el futuro del desarrollo con IA](https://dev.to/gersomsim/taskmaster-el-futuro-del-desarrollo-con-ia-k36)
-- [How Gen AI Differs from Traditional Machine Learning](https://dev.to/satp2000/how-gen-ai-differs-from-traditional-machine-learning-2ef1)
-- [By the way, maybe there is someone who can post HMPL in Ycombinator with a pumped up account in HN? It would be really cool, it would help us!](https://dev.to/anthonymax/by-the-way-maybe-there-is-someone-who-can-post-hmpl-in-ycombinator-with-a-pumped-up-account-in-hn-2d31)
-- [Git-Sensei: Where Coding Style Meets Anime Destiny](https://dev.to/sroy8091/git-sensei-where-coding-style-meets-anime-destiny-2l8l)
+- [why this error?](https://dev.to/nosytlabs/why-this-error-10hm)
+- [Introducing BlazorThemes –Theme Management for Blazor Apps](https://dev.to/zl23abdessamed/introducing-blazorthemes-theme-management-for-blazor-apps-3d9p)
+- [🌟 Looking for Volunteer Judges &amp; Mentors for a Beginner-Friendly Low/No Code Hackathon! 🌟](https://dev.to/cwidusahan/looking-for-volunteer-judges-mentors-for-a-beginner-friendly-lowno-code-hackathon-mmb)
+- [AI in the Driver’s Seat: Evolution Never Stopped, It Just Advanced](https://dev.to/ethernmyth/ai-in-the-drivers-seat-evolution-never-stopped-it-just-advanced-p5)
 <!-- BLOG-POST-LIST:END -->
 
