@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [why this error?](https://dev.to/nosytlabs/why-this-error-10hm)
-- [Introducing BlazorThemes –Theme Management for Blazor Apps](https://dev.to/zl23abdessamed/introducing-blazorthemes-theme-management-for-blazor-apps-3d9p)
-- [🌟 Looking for Volunteer Judges &amp; Mentors for a Beginner-Friendly Low/No Code Hackathon! 🌟](https://dev.to/cwidusahan/looking-for-volunteer-judges-mentors-for-a-beginner-friendly-lowno-code-hackathon-mmb)
-- [AI in the Driver’s Seat: Evolution Never Stopped, It Just Advanced](https://dev.to/ethernmyth/ai-in-the-drivers-seat-evolution-never-stopped-it-just-advanced-p5)
+- [Why I Built 5 Docker Projects After My First Client Deployment Failed](https://dev.to/arbythecoder/why-i-built-5-docker-projects-after-my-first-client-deployment-failed-24pl)
+- [Automating dev.to Publishing with GitHub Actions](https://dev.to/px4n/automating-devto-publishing-with-github-actions-148h)
+- [Middleware Architecture Patterns Cross Cutting Web（1751582887257700）](https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea)
+- [Understanding Strategy Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-strategy-design-pattern-a-simple-guide-h2a)
 <!-- BLOG-POST-LIST:END -->
 
