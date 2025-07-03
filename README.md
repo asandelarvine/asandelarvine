@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Web Write Once Run Rust Framework（1751506224416200）](https://dev.to/member_6bc7e52c/cross-platform-web-write-once-run-rust-framework1751506224416200-2hf2)
-- [Can Modern Systems Run Out of Memory Effects on malloc&lpar;&rpar;?](https://dev.to/adityabhuyan/can-modern-systems-run-out-of-memory-effects-on-malloc-22n1)
-- [Critical Security Importance Digital Age Web Techniques（1751505540803000）](https://dev.to/member_6bc7e52c/critical-security-importance-digital-age-web-techniques1751505540803000-188f)
-- [🧠 Why Learn Powerful Shell Scripting — Even When We Have Python, PowerShell, and Go?](https://dev.to/srinivasamcjf/why-learn-powerful-shell-scripting-even-when-we-have-python-powershell-and-go-1999)
+- [Breaking Down RL2: Why We Built a Ray-Less RL Framework for AI Agents](https://dev.to/accioprocurement/breaking-down-rl2-why-we-built-a-ray-less-rl-framework-for-ai-agents-j00)
+- [How to create a storage account and configure basic settings for security and networking.](https://dev.to/onyemuche/how-to-create-a-storage-account-and-configure-basic-settings-for-security-and-networking-4fco)
+- [Model Mondays S2E03 - AMA on SLMs and Reasoning](https://dev.to/azure/model-mondays-s2e03-ama-on-slms-and-reasoning-25dg)
+- [GCP Fundamentals: Dataflow API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataflow-api-48on)
 <!-- BLOG-POST-LIST:END -->
 
