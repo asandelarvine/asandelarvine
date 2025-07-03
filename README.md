@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Where do you host your apps these days &lpar;and why&rpar;?](https://dev.to/devopsdaily/where-do-you-host-your-apps-these-days-and-why-476g)
-- [Architectural Decision Making Real World Web Modern（1751566223544300）](https://dev.to/member_57439f86/architectural-decision-making-real-world-web-modern1751566223544300-3kob)
-- [UX Web Components: 101 for Frontend Developers &amp; Designers](https://dev.to/aharna/ux-web-components-101-for-frontend-developers-designers-532d)
-- [Build a SOC simulator using Google AI Studio](https://dev.to/yowise/build-a-soc-simulator-using-google-ai-studio-2ffk)
+- [# Introducing Helpothon: Leveraging Technology for Social Good](https://dev.to/helpothon/-introducing-helpothon-leveraging-technology-for-social-good-26ni)
+- [Technology Selection Wisdom（1751568581749700）](https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b)
+- [Real-Time Backend for Mobile Apps Without WebSockets: A Modern Pub/Sub Alternative](https://dev.to/vlad_kuiantsev/real-time-backend-for-mobile-apps-without-websockets-a-modern-pubsub-alternative-4327)
+- [JavaScript String Methods](https://dev.to/mukilaperiyasamy/javascript-string-methods-55k6)
 <!-- BLOG-POST-LIST:END -->
 
