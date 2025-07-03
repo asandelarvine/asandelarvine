@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Assistants Meet Your VS Code Setup](https://dev.to/bekahhw/when-ai-assistants-meet-your-vs-code-setup-312g)
-- [Hi, I’m Mohammad Rifatujjaman — Specializing in Software Development &amp; Android App Development](https://dev.to/mohammad_rifatujjaman/hi-im-mohammad-rifatujjaman-specializing-in-software-development-android-app-development-2hap)
-- [Indicators of Compromise &lpar;IoCs&rpar;](https://dev.to/pelk/indicators-of-compromise-iocs-1p77)
-- [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
+- [Where do you host your apps these days &lpar;and why&rpar;?](https://dev.to/devopsdaily/where-do-you-host-your-apps-these-days-and-why-476g)
+- [Architectural Decision Making Real World Web Modern（1751566223544300）](https://dev.to/member_57439f86/architectural-decision-making-real-world-web-modern1751566223544300-3kob)
+- [UX Web Components: 101 for Frontend Developers &amp; Designers](https://dev.to/aharna/ux-web-components-101-for-frontend-developers-designers-532d)
+- [Build a SOC simulator using Google AI Studio](https://dev.to/yowise/build-a-soc-simulator-using-google-ai-studio-2ffk)
 <!-- BLOG-POST-LIST:END -->
 
