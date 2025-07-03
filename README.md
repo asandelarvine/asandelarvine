@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda o MCP: O Protocolo que Liga LLMs a Dados e Ferramentas](https://dev.to/pachicodes/entenda-o-mcp-o-protocolo-que-liga-llms-a-dados-e-ferramentas-2loh)
-- [Basic Linux command &lpar;Hostname&rpar;](https://dev.to/cheulong/basic-linux-command-hostname-3fk5)
-- [Custom Iterators Using Symbol.iterator](https://dev.to/omriluz1/custom-iterators-using-symboliterator-3c53)
-- [How does an Incident Response Policy help in managing cybersecurity threats?](https://dev.to/writegenic/how-does-an-incident-response-policy-help-in-managing-cybersecurity-threats-55m6)
+- [TaskMaster el futuro del desarrollo con IA](https://dev.to/gersomsim/taskmaster-el-futuro-del-desarrollo-con-ia-k36)
+- [How Gen AI Differs from Traditional Machine Learning](https://dev.to/satp2000/how-gen-ai-differs-from-traditional-machine-learning-2ef1)
+- [By the way, maybe there is someone who can post HMPL in Ycombinator with a pumped up account in HN? It would be really cool, it would help us!](https://dev.to/anthonymax/by-the-way-maybe-there-is-someone-who-can-post-hmpl-in-ycombinator-with-a-pumped-up-account-in-hn-2d31)
+- [Git-Sensei: Where Coding Style Meets Anime Destiny](https://dev.to/sroy8091/git-sensei-where-coding-style-meets-anime-destiny-2l8l)
 <!-- BLOG-POST-LIST:END -->
 
