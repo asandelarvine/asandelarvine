@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Odd-Even Linked List solution #leetcode328](https://dev.to/reaperggs/odd-even-linked-list-solution-leetcode328-o4k)
-- [Machine Learning Fundamentals: boosting example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-example-2ajo)
-- [[Boost]](https://dev.to/jasmin/-577h)
-- [The New Git Blame: Who&#39;s Responsible When AI Writes the Code?](https://dev.to/pullflow/the-new-git-blame-whos-responsible-when-ai-writes-the-code-285j)
+- [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
+- [Bye bye!](https://dev.to/terceranexus6/bye-bye-3d8p)
+- [Sending Emails Using Queues in Laravel](https://dev.to/techsolver94/sending-emails-using-queues-in-laravel-16n0)
+- [Risk Identification and Analysis: A Cornerstone of Cybersecurity Strategy](https://dev.to/pelk/risk-identification-and-analysis-a-cornerstone-of-cybersecurity-strategy-1jk3)
 <!-- BLOG-POST-LIST:END -->
 
