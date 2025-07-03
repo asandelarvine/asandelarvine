@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Debt Management（1751548777698600）](https://dev.to/member_57439f86/technical-debt-management1751548777698600-429o)
-- [Art of System Integration Make Applications Run Seamlessly Across Different Platforms（1751548691003600）](https://dev.to/member_6bc7e52c/art-of-system-integration-make-applications-run-seamlessly-across-different-1ohf)
-- [🧠 JavaScript Promises Explained — A Complete Guide for Beginners](https://dev.to/lokesh_keswani/javascript-promises-explained-a-complete-guide-for-beginners-gbe)
-- [Day 23: When Your Brain Runs on Dial-Up](https://dev.to/casperday11/day-23-when-your-brain-runs-on-dial-up-27pb)
+- [Kickstart Your Web Development Career in Bangalore — My Go-To Recommendation Breaking into tech isn&#39;t just about learning to code—it’s about getting the right guidance, hands-on experience, and placement support.](https://dev.to/vijay_kumar_1ceaf1133524c/kickstart-your-web-development-career-in-bangalore-my-go-to-recommendation-breaking-into-tech-3gao)
+- [Turn Neovim into Cursor in Minutes 🚀](https://dev.to/composiodev/turn-neovim-into-cursor-in-minutes-2hoe)
+- [NodeJS Fundamentals: Webpack](https://dev.to/devopsfundamentals/nodejs-fundamentals-webpack-4dde)
+- [Cross-Platform Performance Optimization（1751551811006100）](https://dev.to/member_57439f86/cross-platform-performance-optimization1751551811006100-2kc9)
 <!-- BLOG-POST-LIST:END -->
 
