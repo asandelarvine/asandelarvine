@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [When AI Assistants Meet Your VS Code Setup](https://dev.to/bekahhw/when-ai-assistants-meet-your-vs-code-setup-312g)
+- [Hi, I’m Mohammad Rifatujjaman — Specializing in Software Development &amp; Android App Development](https://dev.to/mohammad_rifatujjaman/hi-im-mohammad-rifatujjaman-specializing-in-software-development-android-app-development-2hap)
+- [Indicators of Compromise &lpar;IoCs&rpar;](https://dev.to/pelk/indicators-of-compromise-iocs-1p77)
 - [Machine Learning Fundamentals: boosting project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-project-1638)
-- [Bye bye!](https://dev.to/terceranexus6/bye-bye-3d8p)
-- [Sending Emails Using Queues in Laravel](https://dev.to/techsolver94/sending-emails-using-queues-in-laravel-16n0)
-- [Risk Identification and Analysis: A Cornerstone of Cybersecurity Strategy](https://dev.to/pelk/risk-identification-and-analysis-a-cornerstone-of-cybersecurity-strategy-1jk3)
 <!-- BLOG-POST-LIST:END -->
 
