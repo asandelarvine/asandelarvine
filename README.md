@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Web Development Career in Bangalore — My Go-To Recommendation Breaking into tech isn&#39;t just about learning to code—it’s about getting the right guidance, hands-on experience, and placement support.](https://dev.to/vijay_kumar_1ceaf1133524c/kickstart-your-web-development-career-in-bangalore-my-go-to-recommendation-breaking-into-tech-3gao)
-- [Turn Neovim into Cursor in Minutes 🚀](https://dev.to/composiodev/turn-neovim-into-cursor-in-minutes-2hoe)
-- [NodeJS Fundamentals: Webpack](https://dev.to/devopsfundamentals/nodejs-fundamentals-webpack-4dde)
-- [Cross-Platform Performance Optimization（1751551811006100）](https://dev.to/member_57439f86/cross-platform-performance-optimization1751551811006100-2kc9)
+- [Odd-Even Linked List solution #leetcode328](https://dev.to/reaperggs/odd-even-linked-list-solution-leetcode328-o4k)
+- [Machine Learning Fundamentals: boosting example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-boosting-example-2ajo)
+- [[Boost]](https://dev.to/jasmin/-577h)
+- [The New Git Blame: Who&#39;s Responsible When AI Writes the Code?](https://dev.to/pullflow/the-new-git-blame-whos-responsible-when-ai-writes-the-code-285j)
 <!-- BLOG-POST-LIST:END -->
 
