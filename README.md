@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
-- [From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project &lpar;Part One&rpar;](https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m)
-- [What is Data Enrichment ＆ How AI Enhances Its Power](https://dev.to/powerdrill_ai/what-is-data-enrichment-how-ai-enhances-its-power-3m8m)
-- [How to Add Internationalization &lpar;i18n&rpar; to a React App Using i18next [2025 Edition]](https://dev.to/anilparmar/how-to-add-internationalization-i18n-to-a-react-app-using-i18next-2025-edition-3hkk)
+- [Article: write a unique title for an article on seasons](https://dev.to/varuni_j_154728175e3f9f85/article-write-a-unique-title-for-an-article-on-seasons-khk)
+- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality（1751545748202800）](https://dev.to/member_57439f86/code-review-and-team-collaboration-best-practices-methods-for-improving-code-26k5)
+- [I Taught My Smart Contract to Dream: AI-Generated Solidity Code](https://dev.to/dhis_is_jj/i-taught-my-smart-contract-to-dream-ai-generated-solidity-code-2ijh)
+- [AWS re:Invent: How I Finally Found My Sense of Belonging](https://dev.to/aws-builders/aws-reinvent-how-i-finally-found-my-sense-of-belonging-58n5)
 <!-- BLOG-POST-LIST:END -->
 
