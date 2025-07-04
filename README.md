@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a Public URL for Your Linux Virtual Machine with Tunnelmole](https://dev.to/robbiecahill/how-to-get-a-public-url-for-your-linux-virtual-machine-with-tunnelmole-12)
-- [Learn Python Programming Language with This Complete Python Tutorial](https://dev.to/rishabhtpt/learn-python-programming-language-with-this-complete-python-tutorial-4p6j)
-- [UX SweetAlert, a Symfony bundle integrating the SweetAlert2 library in Symfony applications.](https://dev.to/pentiminax/ux-sweetalert-a-symfony-bundle-integrating-the-sweetalert2-library-in-symfony-applications-51oj)
-- [How to Monetize Your Skills and Make Money as a Junior Backend Developer](https://dev.to/masteringbackend/how-to-monetize-your-skills-and-make-money-as-a-junior-backend-developer-2334)
+- [10 Misconceptions Your Boss Has Concerning Latex Memory Foam Mattress](https://dev.to/resultray6/10-misconceptions-your-boss-has-concerning-latex-memory-foam-mattress-6p5)
+- [From AI-theist to Bolt-Lievers: The Story Behind hegrid.site](https://dev.to/budigunawan99/from-ai-theist-to-bolt-lievers-the-story-behind-hegridsite-4bhc)
+- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
+- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
 <!-- BLOG-POST-LIST:END -->
 
