@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wellness Planning Made Easy: Diet, Exercise &amp; Smart Scheduling](https://dev.to/zara_qureshi_fdca3ade9d57/wellness-planning-made-easy-diet-exercise-smart-scheduling-3930)
-- [Why &quot;Building in Public&quot; is Going to Damage Your Brand](https://dev.to/shreyan_01/why-building-in-public-is-going-to-damage-your-brand-4l14)
-- [Conventional Commits : un premier pas vers l’automatisation](https://dev.to/jpiazzal/conventional-commits-un-premier-pas-vers-lautomatisation-3l5d)
-- [Top 7 Open-Source Projects to Contribute to in 2025](https://dev.to/manukumar07/top-7-open-source-projects-to-contribute-to-in-2025-3f)
+- [[Boost]](https://dev.to/thanks_apojore_/-50m7)
+- [Excited to share StudentSphere from Bolt Hackathon! 🚀 We&#39;re revolutionizing student professional identity &amp; global opps!](https://dev.to/avamikoz/excited-to-share-studentsphere-from-bolt-hackathon-were-revolutionizing-student-professional-4gmc)
+- [ChatGPT Connectors: The Enterprise AI Game-Changer You&#39;ve Been Waiting For](https://dev.to/freeman_nomad/chatgpt-connectors-the-enterprise-ai-game-changer-youve-been-waiting-for-1n1h)
+- [Comprehensive Analysis of Jieli Chip Models and Functions: Selection Guide and Key Points](https://dev.to/ble_voice/comprehensive-analysis-of-jieli-chip-models-and-functions-selection-guide-and-key-points-160c)
 <!-- BLOG-POST-LIST:END -->
 
