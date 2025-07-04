@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is SuggestoAI?](https://dev.to/suggestoai/what-is-suggestoai-4804)
-- [From 0 to counterfeit detecting hero in 30 days. Still not featured, but forever building. 🧠🔥 #AI #Bolt #devchallenge](https://dev.to/getappsai/from-0-to-counterfeit-detecting-hero-in-30-days-still-not-featured-but-forever-building-ai-4fb6)
-- [8 Practical Strategies to Modernise Your Legacy Applications for the Cloud](https://dev.to/shlok-talepa/5-practical-strategies-to-modernise-your-legacy-applications-for-the-cloud-1nh6)
-- [Network Health Check &amp; Diagram for Families](https://dev.to/captredbeard/network-health-check-diagram-for-families-45bh)
+- [Escritura para desarrolladores en la era de la IA](https://dev.to/meyer-pidiache/escritura-para-desarrolladores-en-la-era-de-la-ia-1cn8)
+- [Security news weekly round-up - 4th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi)
+- [Automating SOP Content Creation with Runner H](https://dev.to/cybertica/automating-sop-content-creation-with-runner-h-5cnp)
+- [10 Best LeetCode Alternatives for Coding Practice and Interview Prep &lpar;2025&rpar;](https://dev.to/blasterzm/10-best-leetcode-alternatives-for-coding-practice-and-interview-prep-2025-1nk1)
 <!-- BLOG-POST-LIST:END -->
 
