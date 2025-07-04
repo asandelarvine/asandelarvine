@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/thanks_apojore_/-50m7)
-- [Excited to share StudentSphere from Bolt Hackathon! 🚀 We&#39;re revolutionizing student professional identity &amp; global opps!](https://dev.to/avamikoz/excited-to-share-studentsphere-from-bolt-hackathon-were-revolutionizing-student-professional-4gmc)
-- [ChatGPT Connectors: The Enterprise AI Game-Changer You&#39;ve Been Waiting For](https://dev.to/freeman_nomad/chatgpt-connectors-the-enterprise-ai-game-changer-youve-been-waiting-for-1n1h)
-- [Comprehensive Analysis of Jieli Chip Models and Functions: Selection Guide and Key Points](https://dev.to/ble_voice/comprehensive-analysis-of-jieli-chip-models-and-functions-selection-guide-and-key-points-160c)
+- [🧠 EPYQ Week 6 /12: Failure as Feedback](https://dev.to/the_epyq/epyq-week-6-12-failure-as-feedback-1ih8)
+- [I Just Want to Make the AI-Translated World a Bit Simpler, Nyaa](https://dev.to/charmpic/i-just-want-to-make-the-ai-translated-world-a-bit-simpler-nyaa-lme)
+- [Build a Border Radius Generator with HTML, CSS &amp; JavaScript | Mini UI Project](https://dev.to/alizehcodes/build-a-border-radius-generator-with-html-css-javascript-mini-ui-project-3lad)
+- [Bitcoin Intelligence Daily Brief - Automated Market &amp; Industry Intelligence](https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp)
 <!-- BLOG-POST-LIST:END -->
 
