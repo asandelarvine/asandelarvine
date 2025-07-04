@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Escritura para desarrolladores en la era de la IA](https://dev.to/meyer-pidiache/escritura-para-desarrolladores-en-la-era-de-la-ia-1cn8)
-- [Security news weekly round-up - 4th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi)
-- [Automating SOP Content Creation with Runner H](https://dev.to/cybertica/automating-sop-content-creation-with-runner-h-5cnp)
-- [10 Best LeetCode Alternatives for Coding Practice and Interview Prep &lpar;2025&rpar;](https://dev.to/blasterzm/10-best-leetcode-alternatives-for-coding-practice-and-interview-prep-2025-1nk1)
+- [Day night cycle](https://dev.to/waste_land_0202106205ae31/day-night-cycle-5ghp)
+- [iOS 26 Network Extension: URL Filtering Revolution for Enterprise and Consumer Apps](https://dev.to/arshtechpro/ios-26-network-extension-url-filtering-revolution-for-enterprise-and-consumer-apps-40ij)
+- [The Rise of AI-Generated Phishing Websites: How Hackers Are Weaponizing Generative Tools](https://dev.to/ranjan_devto/the-rise-of-ai-generated-phishing-websites-how-hackers-are-weaponizing-generative-tools-277p)
+- [Warum Clean Code manchmal zu &#39;sauber&#39; ist 🧹](https://dev.to/ivo_sa/warum-clean-code-manchmal-zu-sauber-ist-oka)
 <!-- BLOG-POST-LIST:END -->
 
