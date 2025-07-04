@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Code](https://dev.to/tempuskg/test-code-13op)
-- [Eve-ng NAT Network Yapılandırması](https://dev.to/aciklab/eve-ng-nat-network-yapilandirmasi-5ee6)
-- [Prompts: A Layer Above Declarative Programming?](https://dev.to/yujikuroki/prompts-a-layer-above-declarative-programming-3kl2)
-- [Keystone Keycloak Entegrasyonu](https://dev.to/aciklab/keystone-keycloak-entegrasyonu-5gkg)
+- [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
+- [Drop Your Web App/API &amp; I’ll Run a Free Security Scan &lpar;pentesting&rpar; on It](https://dev.to/jigar_online/drop-your-web-appapi-ill-run-a-free-security-scan-pentesting-on-it-1moi)
+- [Growing with AI, a developer&#39;s perspective.](https://dev.to/zeze1020/growing-with-ai-a-developers-perspective-3bhc)
+- [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://dev.to/alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-2ijf)
 <!-- BLOG-POST-LIST:END -->
 
