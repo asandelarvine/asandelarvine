@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
-- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
-- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
-- [Get you anime avatar for github](https://dev.to/sroy8091/get-you-anime-avatar-for-github-1f98)
+- [Freedom in a Utopia of Supermen](https://dev.to/sean_mchugh_0448fbde08482/freedom-in-a-utopia-of-supermen-4b4e)
+- [Image Pixel RGBA Extractor：免费在线图像像素色彩提取工具全解析](https://dev.to/wtsolutions/image-pixel-rgba-extractormian-fei-zai-xian-tu-xiang-xiang-su-se-cai-ti-qu-gong-ju-quan-jie-xi-4ha9)
+- [VMware Fundamentals: Power Validated Solutions For Cloud Foundation](https://dev.to/devopsfundamentals/vmware-fundamentals-power-validated-solutions-for-cloud-foundation-1o2m)
+- [TiKV Component GC &lpar;Physical Space Reclamation&rpar; Principles and Common Issues](https://dev.to/tidbcommunity/tikv-component-gc-physical-space-reclamation-principles-and-common-issues-33a1)
 <!-- BLOG-POST-LIST:END -->
 
