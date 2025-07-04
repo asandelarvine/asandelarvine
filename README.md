@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freedom in a Utopia of Supermen](https://dev.to/sean_mchugh_0448fbde08482/freedom-in-a-utopia-of-supermen-4b4e)
-- [Image Pixel RGBA Extractor：免费在线图像像素色彩提取工具全解析](https://dev.to/wtsolutions/image-pixel-rgba-extractormian-fei-zai-xian-tu-xiang-xiang-su-se-cai-ti-qu-gong-ju-quan-jie-xi-4ha9)
-- [VMware Fundamentals: Power Validated Solutions For Cloud Foundation](https://dev.to/devopsfundamentals/vmware-fundamentals-power-validated-solutions-for-cloud-foundation-1o2m)
-- [TiKV Component GC &lpar;Physical Space Reclamation&rpar; Principles and Common Issues](https://dev.to/tidbcommunity/tikv-component-gc-physical-space-reclamation-principles-and-common-issues-33a1)
+- [This Is How I Mastered TypeScript Like I&#39;m 5 &lpar;Essential Concepts!&rpar;&lpar;10&rpar;](https://dev.to/karandeepsingh7070/this-is-how-i-mastered-typescript-like-im-5-essential-concepts10-50i4)
+- [Umemura Farm Website – Devlog #25: Seasonal Logic Refactor and Purchase Section Structuring](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-25-seasonal-logic-refactor-and-purchase-section-structuring-1pn8)
+- [Learn Docker: A Beginner’s Guide to Containerization](https://dev.to/suraj_kumar_fb57ae0928df2/learn-docker-a-beginners-guide-to-containerization-ni5)
+- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
 <!-- BLOG-POST-LIST:END -->
 
