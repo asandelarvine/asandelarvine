@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built 5 Docker Projects After My First Client Deployment Failed](https://dev.to/arbythecoder/why-i-built-5-docker-projects-after-my-first-client-deployment-failed-24pl)
-- [Automating dev.to Publishing with GitHub Actions](https://dev.to/px4n/automating-devto-publishing-with-github-actions-148h)
-- [Middleware Architecture Patterns Cross Cutting Web（1751582887257700）](https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea)
-- [Understanding Strategy Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-strategy-design-pattern-a-simple-guide-h2a)
+- [Building a Health Symptom Tracker App: From Concept to Launch 🏥](https://dev.to/booshpooshy/building-a-health-symptom-tracker-app-from-concept-to-launch-5alm)
+- [Supercharge Your Workflow: A Developer&#39;s Guide to Gemini CLI and Code Assist](https://dev.to/vetriselvan_11/supercharge-your-workflow-a-developers-guide-to-gemini-cli-and-code-assist-490)
+- [Setting Up Virtual Machines on Linux: Common Mistakes to Avoid](https://dev.to/adityabhuyan/setting-up-virtual-machines-on-linux-common-mistakes-to-avoid-52i8)
+- [Building Spokane Tech: Part 4](https://dev.to/spokanetech/building-spokane-tech-part-4-1bk1)
 <!-- BLOG-POST-LIST:END -->
 
