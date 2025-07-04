@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power BI Developers in the age of AI](https://dev.to/agape_aurora_4b5303956dc6/power-bi-developers-in-the-age-of-ai-34c6)
-- [Rate Limiting for Django Websites](https://dev.to/djangotricks/rate-limiting-for-django-websites-52g0)
-- [How to Deploy SafeLine WAF on a CyberPanel VPS](https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina)
-- [A Test That No One Runs Is Worse Than No Test At All](https://dev.to/dct_technology/a-test-that-no-one-runs-is-worse-than-no-test-at-all-1k5f)
+- [How to Get a Public URL for Your Linux Virtual Machine with Tunnelmole](https://dev.to/robbiecahill/how-to-get-a-public-url-for-your-linux-virtual-machine-with-tunnelmole-12)
+- [Learn Python Programming Language with This Complete Python Tutorial](https://dev.to/rishabhtpt/learn-python-programming-language-with-this-complete-python-tutorial-4p6j)
+- [UX SweetAlert, a Symfony bundle integrating the SweetAlert2 library in Symfony applications.](https://dev.to/pentiminax/ux-sweetalert-a-symfony-bundle-integrating-the-sweetalert2-library-in-symfony-applications-51oj)
+- [How to Monetize Your Skills and Make Money as a Junior Backend Developer](https://dev.to/masteringbackend/how-to-monetize-your-skills-and-make-money-as-a-junior-backend-developer-2334)
 <!-- BLOG-POST-LIST:END -->
 
