@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Is How I Mastered TypeScript Like I&#39;m 5 &lpar;Essential Concepts!&rpar;&lpar;10&rpar;](https://dev.to/karandeepsingh7070/this-is-how-i-mastered-typescript-like-im-5-essential-concepts10-50i4)
-- [Umemura Farm Website – Devlog #25: Seasonal Logic Refactor and Purchase Section Structuring](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-25-seasonal-logic-refactor-and-purchase-section-structuring-1pn8)
-- [Learn Docker: A Beginner’s Guide to Containerization](https://dev.to/suraj_kumar_fb57ae0928df2/learn-docker-a-beginners-guide-to-containerization-ni5)
-- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
+- [A React Starter Template for the Impatient Developer](https://dev.to/paras594/a-react-starter-template-for-the-impatient-developer-455a)
+- [Two major shortcomings of Python in enterprise applications](https://dev.to/esproc_spl/two-major-shortcomings-of-python-in-enterprise-applications-1o9o)
+- [Building Secure CI/CD Pipelines: DevSecOps in Action](https://dev.to/bankai_infotech/building-secure-cicd-pipelines-devsecops-in-action-5367)
+- [🔄 Automate Linux Administration Tasks with Ansible](https://dev.to/sindhuja_ns_1e491ce1088d/automate-linux-administration-tasks-with-ansible-5aha)
 <!-- BLOG-POST-LIST:END -->
 
