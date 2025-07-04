@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Health Symptom Tracker App: From Concept to Launch 🏥](https://dev.to/booshpooshy/building-a-health-symptom-tracker-app-from-concept-to-launch-5alm)
-- [Supercharge Your Workflow: A Developer&#39;s Guide to Gemini CLI and Code Assist](https://dev.to/vetriselvan_11/supercharge-your-workflow-a-developers-guide-to-gemini-cli-and-code-assist-490)
-- [Setting Up Virtual Machines on Linux: Common Mistakes to Avoid](https://dev.to/adityabhuyan/setting-up-virtual-machines-on-linux-common-mistakes-to-avoid-52i8)
-- [Building Spokane Tech: Part 4](https://dev.to/spokanetech/building-spokane-tech-part-4-1bk1)
+- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
+- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
+- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
+- [Get you anime avatar for github](https://dev.to/sroy8091/get-you-anime-avatar-for-github-1f98)
 <!-- BLOG-POST-LIST:END -->
 
