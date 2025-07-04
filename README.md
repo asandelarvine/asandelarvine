@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing RisingWave&#39;s Hosted Iceberg Catalog-No External Setup Needed](https://dev.to/__354f265b41dafa0d901b/introducing-risingwaves-hosted-iceberg-catalog-no-external-setup-needed-65d)
-- [Testing HTTP Requests with http.RoundTripper](https://dev.to/dialaeke/testing-http-requests-with-httproundtripper-47go)
-- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
-- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
+- [Wellness Planning Made Easy: Diet, Exercise &amp; Smart Scheduling](https://dev.to/zara_qureshi_fdca3ade9d57/wellness-planning-made-easy-diet-exercise-smart-scheduling-3930)
+- [Why &quot;Building in Public&quot; is Going to Damage Your Brand](https://dev.to/shreyan_01/why-building-in-public-is-going-to-damage-your-brand-4l14)
+- [Conventional Commits : un premier pas vers l’automatisation](https://dev.to/jpiazzal/conventional-commits-un-premier-pas-vers-lautomatisation-3l5d)
+- [Top 7 Open-Source Projects to Contribute to in 2025](https://dev.to/manukumar07/top-7-open-source-projects-to-contribute-to-in-2025-3f)
 <!-- BLOG-POST-LIST:END -->
 
