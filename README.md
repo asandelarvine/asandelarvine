@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use npm &lpar;and Not pnpm... Yet&rpar; to Build Electron + React + Vite + Tailwind Apps](https://dev.to/yurirxmos/why-you-should-use-npm-and-not-pnpm-yet-to-build-electron-react-vite-tailwind-apps-4oc9)
-- [How The Builder Market Is Using AI to Fix a Broken Industry](https://dev.to/kenleighv/how-the-builder-market-is-using-ai-to-fix-a-broken-industry-3hof)
-- [Optimisation des performances web](https://dev.to/hassanioussama/optimisation-des-performances-web-aif)
-- [Serilog IDestructuringPolicy](https://dev.to/karenpayneoregon/serilog-idestructuringpolicy-9)
+- [Introducing Quotely: My Journey Building a Modern App for Daily Inspiration](https://dev.to/pranta/introducing-quotely-my-journey-building-a-modern-app-for-daily-inspiration-2a2a)
+- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
+- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
+- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
 <!-- BLOG-POST-LIST:END -->
 
