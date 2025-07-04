@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Quotely: My Journey Building a Modern App for Daily Inspiration](https://dev.to/pranta/introducing-quotely-my-journey-building-a-modern-app-for-daily-inspiration-2a2a)
-- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
-- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
-- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
+- [What is SuggestoAI?](https://dev.to/suggestoai/what-is-suggestoai-4804)
+- [From 0 to counterfeit detecting hero in 30 days. Still not featured, but forever building. 🧠🔥 #AI #Bolt #devchallenge](https://dev.to/getappsai/from-0-to-counterfeit-detecting-hero-in-30-days-still-not-featured-but-forever-building-ai-4fb6)
+- [8 Practical Strategies to Modernise Your Legacy Applications for the Cloud](https://dev.to/shlok-talepa/5-practical-strategies-to-modernise-your-legacy-applications-for-the-cloud-1nh6)
+- [Network Health Check &amp; Diagram for Families](https://dev.to/captredbeard/network-health-check-diagram-for-families-45bh)
 <!-- BLOG-POST-LIST:END -->
 
