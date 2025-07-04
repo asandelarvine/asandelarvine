@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como usar Cloudflare para servir um domínio customizado com HTTPS de um bucket S3](https://dev.to/marcos_vile/como-usar-cloudflare-para-servir-um-dominio-customizado-com-https-de-um-bucket-s3-3p4h)
-- [Mind Map: From Powering On Laptop to Loading an Application](https://dev.to/jad_core/mind-map-from-powering-on-laptop-to-loading-an-application-1i5g)
-- [How to Build an Expense Tracker on Solana with Anchor](https://dev.to/johnfawole/how-to-build-an-expense-tracker-on-solana-with-anchor-5g05)
-- [How I Increased List Scroll FPS from 30 to 58 in React Native](https://dev.to/arsdev/how-i-increased-list-scroll-fps-from-30-to-58-in-react-native-4b0n)
+- [Test Code](https://dev.to/tempuskg/test-code-13op)
+- [Eve-ng NAT Network Yapılandırması](https://dev.to/aciklab/eve-ng-nat-network-yapilandirmasi-5ee6)
+- [Prompts: A Layer Above Declarative Programming?](https://dev.to/yujikuroki/prompts-a-layer-above-declarative-programming-3kl2)
+- [Keystone Keycloak Entegrasyonu](https://dev.to/aciklab/keystone-keycloak-entegrasyonu-5gkg)
 <!-- BLOG-POST-LIST:END -->
 
