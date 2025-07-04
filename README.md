@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Side Project Paradox: Why 80% Fail and How to Be the 20%](https://dev.to/teamcamp/the-side-project-paradox-why-80-fail-and-how-to-be-the-20-39jn)
-- [Day-50 Understanding Destructuring in JavaScript](https://dev.to/tamilselvan1812/day-50-understanding-destructuring-in-javascript-gl3)
-- [How Signers Can Add Form Fields before eSigning a Document](https://dev.to/boldsign/how-signers-can-add-form-fields-before-esigning-a-document-3c9g)
-- [Create a Marketplace Like Amazon](https://dev.to/david_beckam_df898f761b30/create-a-marketplace-like-amazon-296f)
+- [Power BI Developers in the age of AI](https://dev.to/agape_aurora_4b5303956dc6/power-bi-developers-in-the-age-of-ai-34c6)
+- [Rate Limiting for Django Websites](https://dev.to/djangotricks/rate-limiting-for-django-websites-52g0)
+- [How to Deploy SafeLine WAF on a CyberPanel VPS](https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina)
+- [A Test That No One Runs Is Worse Than No Test At All](https://dev.to/dct_technology/a-test-that-no-one-runs-is-worse-than-no-test-at-all-1k5f)
 <!-- BLOG-POST-LIST:END -->
 
