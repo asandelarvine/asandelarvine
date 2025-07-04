@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Template Tricks that Actually Work](https://dev.to/saltorgil/email-template-tricks-that-actually-work-15ol)
-- [Drop Your Web App/API &amp; I’ll Run a Free Security Scan &lpar;pentesting&rpar; on It](https://dev.to/jigar_online/drop-your-web-appapi-ill-run-a-free-security-scan-pentesting-on-it-1moi)
-- [Growing with AI, a developer&#39;s perspective.](https://dev.to/zeze1020/growing-with-ai-a-developers-perspective-3bhc)
-- [Part 1: Building Zero-Knowledge Encryption That Actually Works](https://dev.to/alexsofroniev/part-1-building-zero-knowledge-encryption-that-actually-works-2ijf)
+- [Introducing RisingWave&#39;s Hosted Iceberg Catalog-No External Setup Needed](https://dev.to/__354f265b41dafa0d901b/introducing-risingwaves-hosted-iceberg-catalog-no-external-setup-needed-65d)
+- [Testing HTTP Requests with http.RoundTripper](https://dev.to/dialaeke/testing-http-requests-with-httproundtripper-47go)
+- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
+- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
 <!-- BLOG-POST-LIST:END -->
 
