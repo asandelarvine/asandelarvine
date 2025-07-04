@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Misconceptions Your Boss Has Concerning Latex Memory Foam Mattress](https://dev.to/resultray6/10-misconceptions-your-boss-has-concerning-latex-memory-foam-mattress-6p5)
-- [From AI-theist to Bolt-Lievers: The Story Behind hegrid.site](https://dev.to/budigunawan99/from-ai-theist-to-bolt-lievers-the-story-behind-hegridsite-4bhc)
-- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
-- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
+- [Como usar Cloudflare para servir um domínio customizado com HTTPS de um bucket S3](https://dev.to/marcos_vile/como-usar-cloudflare-para-servir-um-dominio-customizado-com-https-de-um-bucket-s3-3p4h)
+- [Mind Map: From Powering On Laptop to Loading an Application](https://dev.to/jad_core/mind-map-from-powering-on-laptop-to-loading-an-application-1i5g)
+- [How to Build an Expense Tracker on Solana with Anchor](https://dev.to/johnfawole/how-to-build-an-expense-tracker-on-solana-with-anchor-5g05)
+- [How I Increased List Scroll FPS from 30 to 58 in React Native](https://dev.to/arsdev/how-i-increased-list-scroll-fps-from-30-to-58-in-react-native-4b0n)
 <!-- BLOG-POST-LIST:END -->
 
