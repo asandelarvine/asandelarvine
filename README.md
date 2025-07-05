@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your “Brilliant” Idea Is Worthless Until You Test It &lpar;Dev Edition&rpar;](https://dev.to/dwilliams99/why-your-brilliant-idea-is-worthless-until-you-test-it-dev-edition-5b96)
-- [How Much Python Should I Know Before Jumping Into NumPy and Pandas?](https://dev.to/connectalamin/how-much-python-should-i-know-before-jumping-into-numpy-and-pandas-2n8g)
-- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-3lm5)
-- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-3o8m)
+- [Travel Agent](https://dev.to/julsr_mx/travel-agent-jlb)
+- [ShieldEye - Automated Vulnerability Scanner](https://dev.to/exiv703/shieldeye-automated-vulnerability-scanner-4ilm)
+- [One Checkbox to Cloud: Migrating from Tosca DEX Agents to E2G](https://dev.to/johnjvester/one-checkbox-to-cloud-migrating-from-tosca-dex-agents-to-e2g-43de)
+- [Memory Leak Terminator How Type Safety Saved My Graduation Project](https://dev.to/member_a07758c4/memory-leak-terminator-how-type-safety-saved-my-graduation-project-56nd)
 <!-- BLOG-POST-LIST:END -->
 
