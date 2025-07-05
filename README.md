@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_4731f562/middleware-magic-advanced-request-processing-techniques-1dkc)
-- [Cloud Security Fundamentals](https://dev.to/godofgeeks/cloud-security-fundamentals-4djo)
-- [Technology Selection Wisdom](https://dev.to/member_a07758c4/technology-selection-wisdom-mbn)
-- [NodeJS Fundamentals: URL](https://dev.to/devopsfundamentals/nodejs-fundamentals-url-jfo)
+- [Developer Experience Revolution](https://dev.to/member_a07758c4/developer-experience-revolution-30e9)
+- [Real Time Communication SSE Advanced Streaming Web](https://dev.to/member_4731f562/real-time-communication-sse-advanced-streaming-web-523a)
+- [SyllabusBuddy: Free BCA/MCA Notes, Projects &amp; Papers for MSU, AKTU, CCSU &amp; UP Universities](https://dev.to/niveshbansal07/syllabusbuddy-free-bcamca-notes-projects-papers-for-msu-aktu-ccsu-up-universities-522k)
+- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_a07758c4/middleware-magic-advanced-request-processing-techniques-43nf)
 <!-- BLOG-POST-LIST:END -->
 
