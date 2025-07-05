@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In Cursor, Context is King.](https://dev.to/gvegacl/in-cursor-context-is-king-3ai7)
-- [Cross Platform Universal Applications](https://dev.to/member_a07758c4/cross-platform-universal-applications-2i3o)
-- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
-- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
+- [Cross Platform Web Write Once Run Rust Framework](https://dev.to/member_a07758c4/cross-platform-web-write-once-run-rust-framework-5361)
+- [TE AMO](https://dev.to/brayan_perezcruz_15f3a94/te-amo-2045)
+- [The AI Coding Stack Developers Are Using to Save 20+ Hours a Week &lpar;2025 Edition&rpar;](https://dev.to/arkhan/the-ai-coding-stack-developers-are-using-to-save-20-hours-a-week-2025-edition-5g48)
+- [Big Data Fundamentals: kafka with python](https://dev.to/devopsfundamentals/big-data-fundamentals-kafka-with-python-1nm0)
 <!-- BLOG-POST-LIST:END -->
 
