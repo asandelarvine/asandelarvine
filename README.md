@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet HSTCalculator.Onl – Canada’s Free &amp; Private GST/HST Calculator](https://dev.to/hstcalculatoronl/meet-hstcalculatoronl-canadas-free-private-gsthst-calculator-3n6m)
-- [An Architectural Paradigm for Stateful, Learning, and Cost-Efficient AI](https://dev.to/tlrag/an-architectural-paradigm-for-stateful-learning-and-cost-efficient-ai-3jg3)
-- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality](https://dev.to/member_a07758c4/code-review-and-team-collaboration-best-practices-methods-for-improving-code-quality-47bn)
-- [Message Queue Architecture Patterns](https://dev.to/member_4731f562/message-queue-architecture-patterns-21c4)
+- [RunnerH failed to populate sheet and document](https://dev.to/anand_yadav_8aa5f4e199fc8/runnerh-failed-to-populate-sheet-and-document-2nn7)
+- [picoCTF &quot;homework&quot; Walkthrough](https://dev.to/7jw92nvd1klaq1/picoctf-homework-walkthrough-384a)
+- [Open Source Community Values](https://dev.to/member_a07758c4/open-source-community-values-1ck7)
+- [Microservices Architecture Design](https://dev.to/member_4731f562/microservices-architecture-design-1ihd)
 <!-- BLOG-POST-LIST:END -->
 
