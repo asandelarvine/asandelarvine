@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Web Write Once Run Rust Framework](https://dev.to/member_a07758c4/cross-platform-web-write-once-run-rust-framework-5361)
-- [TE AMO](https://dev.to/brayan_perezcruz_15f3a94/te-amo-2045)
-- [The AI Coding Stack Developers Are Using to Save 20+ Hours a Week &lpar;2025 Edition&rpar;](https://dev.to/arkhan/the-ai-coding-stack-developers-are-using-to-save-20-hours-a-week-2025-edition-5g48)
-- [Big Data Fundamentals: kafka with python](https://dev.to/devopsfundamentals/big-data-fundamentals-kafka-with-python-1nm0)
+- [A Smarter Way to Reinvest Liquidity Pool Rewards: Using Machine Learning on Solana](https://dev.to/joehenzi/a-smarter-way-to-reinvest-liquidity-pool-rewards-using-machine-learning-on-solana-403g)
+- [Big Data Fundamentals: hive](https://dev.to/devopsfundamentals/big-data-fundamentals-hive-1j59)
+- [Zotero hacks: reliably setup unlimited storage for your personal academic library](https://dev.to/ikashnitsky/zotero-hacks-reliably-setup-unlimited-storage-for-your-personal-academic-library-4j34)
+- [Pencil Portrait App](https://dev.to/mdgreen18/pencil-portrait-app-4i1l)
 <!-- BLOG-POST-LIST:END -->
 
