@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
-- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
-- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
-- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
+- [🚀✨ I’m Salehe shabani — and I’m ready to WIN!](https://dev.to/salehe_shabani_b7745785e28/im-salehe-shabani-and-im-ready-to-win-25a5)
+- [Real-Time Game Server Architecture Low Latency High Concurrency Implementation](https://dev.to/member_4731f562/real-time-game-server-architecture-low-latency-high-concurrency-implementation-464l)
+- [Set up Gemini-Cli on my Mac](https://dev.to/hackablock/set-up-gemini-cli-on-my-mac-453k)
+- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_a07758c4/poetry-and-horizon-code-design-future-vision-web-4n41)
 <!-- BLOG-POST-LIST:END -->
 
