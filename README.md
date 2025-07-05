@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀✨ I’m Salehe shabani — and I’m ready to WIN!](https://dev.to/salehe_shabani_b7745785e28/im-salehe-shabani-and-im-ready-to-win-25a5)
-- [Real-Time Game Server Architecture Low Latency High Concurrency Implementation](https://dev.to/member_4731f562/real-time-game-server-architecture-low-latency-high-concurrency-implementation-464l)
-- [Set up Gemini-Cli on my Mac](https://dev.to/hackablock/set-up-gemini-cli-on-my-mac-453k)
-- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_a07758c4/poetry-and-horizon-code-design-future-vision-web-4n41)
+- [🏯Beginner-Friendly Guide &quot;Find Lucky Integer in an Array&quot; – LeetCode 1394 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-lucky-integer-in-an-array-leetcode-1394-c-python--8lb)
+- [📋My own system designer - Darwin](https://dev.to/sroy8091/my-own-hld-designer-darwin-57np)
+- [Pandas Rename Column: The First Step to Cleaner, Smarter Data](https://dev.to/madison_taylor_1e66db05b5/pandas-rename-column-the-first-step-to-cleaner-smarter-data-3ib4)
+- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose](https://dev.to/member_a07758c4/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose-457m)
 <!-- BLOG-POST-LIST:END -->
 
