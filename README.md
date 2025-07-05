@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FrugalGPT: Reducing LLM Costs &amp; Improving Performance](https://dev.to/portkey/frugalgpt-reducing-llm-costs-improving-performance-2797)
-- [Choosing the Right Library Still Sucks — Here’s How I’m Using AI to Fix It](https://dev.to/uvais724/choosing-the-right-library-still-sucks-heres-how-im-using-ai-to-fix-it-3lnd)
-- [Cross-Platform Performance Optimization](https://dev.to/member_a07758c4/cross-platform-performance-optimization-5873)
-- [🕒 Python Message Scheduler: Send SMS at a Specific Time Using Twilio](https://dev.to/vivek_dudhatra/python-message-scheduler-send-sms-at-a-specific-time-using-twilio-520p)
+- [Kiffarino: you local trello/jira for your sideprojects.](https://dev.to/vikkio88/keep-your-tickets-with-your-code-4iah)
+- [🖥️ How Code Runs: A Beginner’s Guide to What Happens When You Press “Run”](https://dev.to/farhan_shahriar_/how-code-runs-a-beginners-guide-to-what-happens-when-you-press-run-107j)
+- [Stress Testing Amazon DocumentDB with Python &lpar;`pymongo`&rpar;](https://dev.to/dm8ry/stress-testing-amazon-documentdb-with-python-pymongo-p5l)
+- [Animating Custom Marker Motion On React-Native-Maps With Reanimated](https://dev.to/victor_olufade_241a02b9b0/animating-custom-marker-motion-on-react-native-maps-with-reanimated-d58)
 <!-- BLOG-POST-LIST:END -->
 
