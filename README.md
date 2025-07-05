@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeWin vs MonkeyType: A Developer&#39;s Perspective on Typing Test Platforms](https://dev.to/1hamzabek/typewin-vs-monkeytype-a-developers-perspective-on-typing-test-platforms-36ch)
-- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_4731f562/poetry-and-horizon-code-design-future-vision-web-2983)
-- [[Part01] Getting Started with Red Hat OpenShift with NVIDIA](https://dev.to/gamasy/getting-started-with-red-hat-openshift-with-nvidia-k23)
-- [Live Streaming System Architecture](https://dev.to/member_a07758c4/live-streaming-system-architecture-3plc)
+- [FrugalGPT: Reducing LLM Costs &amp; Improving Performance](https://dev.to/portkey/frugalgpt-reducing-llm-costs-improving-performance-2797)
+- [Choosing the Right Library Still Sucks — Here’s How I’m Using AI to Fix It](https://dev.to/uvais724/choosing-the-right-library-still-sucks-heres-how-im-using-ai-to-fix-it-3lnd)
+- [Cross-Platform Performance Optimization](https://dev.to/member_a07758c4/cross-platform-performance-optimization-5873)
+- [🕒 Python Message Scheduler: Send SMS at a Specific Time Using Twilio](https://dev.to/vivek_dudhatra/python-message-scheduler-send-sms-at-a-specific-time-using-twilio-520p)
 <!-- BLOG-POST-LIST:END -->
 
