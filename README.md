@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability Practices: A Complete Guide with Real-World Node.js Implementation](https://dev.to/jhonticonachambi/observability-practices-a-complete-guide-with-real-world-nodejs-implementation-fjc)
-- [Problem: ATM Withdrawal Simulator &lpar;Thailand Edition&rpar;](https://dev.to/riz007/problem-atm-withdrawal-simulator-thailand-edition-193l)
-- [Complete Automation with GitHub Actions: From Testing to Automatic Deployment](https://dev.to/paltadash/complete-automation-with-github-actions-from-testing-to-automatic-deployment-495h)
-- [Speed Revolution Asynchronous Modern Web Frameworks](https://dev.to/member_4731f562/speed-revolution-asynchronous-modern-web-frameworks-23f9)
+- [Meet HSTCalculator.Onl – Canada’s Free &amp; Private GST/HST Calculator](https://dev.to/hstcalculatoronl/meet-hstcalculatoronl-canadas-free-private-gsthst-calculator-3n6m)
+- [An Architectural Paradigm for Stateful, Learning, and Cost-Efficient AI](https://dev.to/tlrag/an-architectural-paradigm-for-stateful-learning-and-cost-efficient-ai-3jg3)
+- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality](https://dev.to/member_a07758c4/code-review-and-team-collaboration-best-practices-methods-for-improving-code-quality-47bn)
+- [Message Queue Architecture Patterns](https://dev.to/member_4731f562/message-queue-architecture-patterns-21c4)
 <!-- BLOG-POST-LIST:END -->
 
