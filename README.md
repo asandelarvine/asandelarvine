@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RunnerH failed to populate sheet and document](https://dev.to/anand_yadav_8aa5f4e199fc8/runnerh-failed-to-populate-sheet-and-document-2nn7)
-- [picoCTF &quot;homework&quot; Walkthrough](https://dev.to/7jw92nvd1klaq1/picoctf-homework-walkthrough-384a)
-- [Open Source Community Values](https://dev.to/member_a07758c4/open-source-community-values-1ck7)
-- [Microservices Architecture Design](https://dev.to/member_4731f562/microservices-architecture-design-1ihd)
+- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_4731f562/middleware-magic-advanced-request-processing-techniques-1dkc)
+- [Cloud Security Fundamentals](https://dev.to/godofgeeks/cloud-security-fundamentals-4djo)
+- [Technology Selection Wisdom](https://dev.to/member_a07758c4/technology-selection-wisdom-mbn)
+- [NodeJS Fundamentals: URL](https://dev.to/devopsfundamentals/nodejs-fundamentals-url-jfo)
 <!-- BLOG-POST-LIST:END -->
 
