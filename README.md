@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Experience Revolution](https://dev.to/member_a07758c4/developer-experience-revolution-30e9)
-- [Real Time Communication SSE Advanced Streaming Web](https://dev.to/member_4731f562/real-time-communication-sse-advanced-streaming-web-523a)
-- [SyllabusBuddy: Free BCA/MCA Notes, Projects &amp; Papers for MSU, AKTU, CCSU &amp; UP Universities](https://dev.to/niveshbansal07/syllabusbuddy-free-bcamca-notes-projects-papers-for-msu-aktu-ccsu-up-universities-522k)
-- [Middleware Magic Advanced Request Processing Techniques](https://dev.to/member_a07758c4/middleware-magic-advanced-request-processing-techniques-43nf)
+- [TypeWin vs MonkeyType: A Developer&#39;s Perspective on Typing Test Platforms](https://dev.to/1hamzabek/typewin-vs-monkeytype-a-developers-perspective-on-typing-test-platforms-36ch)
+- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_4731f562/poetry-and-horizon-code-design-future-vision-web-2983)
+- [[Part01] Getting Started with Red Hat OpenShift with NVIDIA](https://dev.to/gamasy/getting-started-with-red-hat-openshift-with-nvidia-k23)
+- [Live Streaming System Architecture](https://dev.to/member_a07758c4/live-streaming-system-architecture-3plc)
 <!-- BLOG-POST-LIST:END -->
 
