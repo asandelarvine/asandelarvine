@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Refactor Chaotic JavaScript Code: A Step-by-Step Guide](https://dev.to/andriy_ovcharov_312ead391/how-to-refactor-chaotic-javascript-code-a-step-by-step-guide-56e9)
-- [NodeJS Fundamentals: Parcel](https://dev.to/devopsfundamentals/nodejs-fundamentals-parcel-3i5e)
-- [Functional Programming in Web](https://dev.to/member_a07758c4/functional-programming-in-web-1b7f)
-- [Must-Have Visual Studio Code Extensions for Every Developer](https://dev.to/mrcaption49/extension-3o1c)
+- [Who is Aleem.Developer? The Student Behind PDF Translator](https://dev.to/aleem_developer/who-is-aleemdeveloper-the-student-behind-pdf-translator-3obn)
+- [Archived: Popular backend frameworks by performance benchmark ranking in 2024](https://dev.to/tuananhpham/archived-popular-backend-frameworks-by-performance-benchmark-ranking-in-2024-25g7)
+- [Mastering Asynchronous Programming Patterns Task Modern Web](https://dev.to/member_a07758c4/mastering-asynchronous-programming-patterns-task-modern-web-2l3o)
+- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
 <!-- BLOG-POST-LIST:END -->
 
