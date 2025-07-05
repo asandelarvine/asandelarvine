@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏯Beginner-Friendly Guide &quot;Find Lucky Integer in an Array&quot; – LeetCode 1394 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-lucky-integer-in-an-array-leetcode-1394-c-python--8lb)
-- [📋My own system designer - Darwin](https://dev.to/sroy8091/my-own-hld-designer-darwin-57np)
-- [Pandas Rename Column: The First Step to Cleaner, Smarter Data](https://dev.to/madison_taylor_1e66db05b5/pandas-rename-column-the-first-step-to-cleaner-smarter-data-3ib4)
-- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose](https://dev.to/member_a07758c4/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose-457m)
+- [Observability Practices: A Complete Guide with Real-World Node.js Implementation](https://dev.to/jhonticonachambi/observability-practices-a-complete-guide-with-real-world-nodejs-implementation-fjc)
+- [Problem: ATM Withdrawal Simulator &lpar;Thailand Edition&rpar;](https://dev.to/riz007/problem-atm-withdrawal-simulator-thailand-edition-193l)
+- [Complete Automation with GitHub Actions: From Testing to Automatic Deployment](https://dev.to/paltadash/complete-automation-with-github-actions-from-testing-to-automatic-deployment-495h)
+- [Speed Revolution Asynchronous Modern Web Frameworks](https://dev.to/member_4731f562/speed-revolution-asynchronous-modern-web-frameworks-23f9)
 <!-- BLOG-POST-LIST:END -->
 
