@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Smarter Way to Reinvest Liquidity Pool Rewards: Using Machine Learning on Solana](https://dev.to/joehenzi/a-smarter-way-to-reinvest-liquidity-pool-rewards-using-machine-learning-on-solana-403g)
-- [Big Data Fundamentals: hive](https://dev.to/devopsfundamentals/big-data-fundamentals-hive-1j59)
-- [Zotero hacks: reliably setup unlimited storage for your personal academic library](https://dev.to/ikashnitsky/zotero-hacks-reliably-setup-unlimited-storage-for-your-personal-academic-library-4j34)
-- [Pencil Portrait App](https://dev.to/mdgreen18/pencil-portrait-app-4i1l)
+- [Why Your “Brilliant” Idea Is Worthless Until You Test It &lpar;Dev Edition&rpar;](https://dev.to/dwilliams99/why-your-brilliant-idea-is-worthless-until-you-test-it-dev-edition-5b96)
+- [How Much Python Should I Know Before Jumping Into NumPy and Pandas?](https://dev.to/connectalamin/how-much-python-should-i-know-before-jumping-into-numpy-and-pandas-2n8g)
+- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-3lm5)
+- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-3o8m)
 <!-- BLOG-POST-LIST:END -->
 
