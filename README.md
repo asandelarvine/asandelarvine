@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiffarino: you local trello/jira for your sideprojects.](https://dev.to/vikkio88/keep-your-tickets-with-your-code-4iah)
-- [🖥️ How Code Runs: A Beginner’s Guide to What Happens When You Press “Run”](https://dev.to/farhan_shahriar_/how-code-runs-a-beginners-guide-to-what-happens-when-you-press-run-107j)
-- [Stress Testing Amazon DocumentDB with Python &lpar;`pymongo`&rpar;](https://dev.to/dm8ry/stress-testing-amazon-documentdb-with-python-pymongo-p5l)
-- [Animating Custom Marker Motion On React-Native-Maps With Reanimated](https://dev.to/victor_olufade_241a02b9b0/animating-custom-marker-motion-on-react-native-maps-with-reanimated-d58)
+- [Python - Methods, Variables &amp; Data structures.](https://dev.to/guhanathan/python-methods-variables-data-structures-35k7)
+- [Application and Evolution of Patterns in Programming ization of Classic Patterns](https://dev.to/member_a07758c4/application-and-evolution-of-patterns-in-programming-ization-of-classic-patterns-1bn8)
+- [Best AI Testing Tools](https://dev.to/tokyodal/best-ai-testing-tools-2ffm)
+- [The Top 7 AI Testing Tools Every Developer Should Know in 2025](https://dev.to/tokyodal/the-top-7-ai-testing-tools-every-developer-should-know-in-2025-4gjh)
 <!-- BLOG-POST-LIST:END -->
 
