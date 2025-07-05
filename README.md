@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Simpler Apps Just Feel Better](https://dev.to/code_hive/when-simpler-apps-just-feel-better-3pbd)
-- [Scholarship Hunter](https://dev.to/toyaab/scholarship-hunter-20l0)
-- [Machine Learning Fundamentals: classification tutorial](https://dev.to/devopsfundamentals/machine-learning-fundamentals-classification-tutorial-18e6)
-- [Top Fractional CMO Agencies for Custom Software Development Firms](https://dev.to/danylo_fedirko_e38be56528/top-fractional-cmo-agencies-for-custom-software-development-firms-4071)
+- [In Cursor, Context is King.](https://dev.to/gvegacl/in-cursor-context-is-king-3ai7)
+- [Cross Platform Universal Applications](https://dev.to/member_a07758c4/cross-platform-universal-applications-2i3o)
+- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
+- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
 <!-- BLOG-POST-LIST:END -->
 
