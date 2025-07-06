@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Secured Passwords in My Spring Boot Project &lpar;N1netails&rpar; Using BCrypt](https://dev.to/shahidfoy/how-i-secured-passwords-in-my-spring-boot-project-n1netails-using-bcrypt-4o31)
-- [Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery](https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml)
-- [Is Node.js Single Threaded or Multithreaded?](https://dev.to/kiani0x01/is-nodejs-single-threaded-or-multithreaded-p8m)
-- [From SEO to Software: My Journey into Full-Stack Development](https://dev.to/mrsquid45/from-seo-to-software-my-journey-into-full-stack-development-522c)
+- [How to Train AI Model](https://dev.to/atifwattoo/how-to-train-ai-model-bd)
+- [Mission 7: Update Your Portfolio Part One](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-one-1eji)
+- [Platão e os Modelos Ideais: IA, Generalização e Representações Latentes](https://dev.to/francis_targanski_21ee095/platao-e-os-modelos-ideais-ia-generalizacao-e-representacoes-latentes-32f5)
+- [Building My First End-to-End Machine Learning Project](https://dev.to/anshikalohan/building-my-first-end-to-end-machine-learning-project-23a3)
 <!-- BLOG-POST-LIST:END -->
 
