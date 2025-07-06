@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Art: Drawing Yoda with CSS](https://dev.to/alvaromontoro/css-art-drawing-yoda-with-css-2n6c)
-- [Why Your FastAPI App Isn’t Fast: Understanding Python Concurrency](https://dev.to/akhil_pl/why-your-fastapi-app-isnt-fast-understanding-python-concurrency-3e7f)
-- [The 7 Cloud Components That Power 90% of Modern Applications](https://dev.to/canvascloudai/the-7-cloud-components-that-power-90-of-modern-applications-5foa)
-- [🚀 I Accidentally Vibe-Coded a Native Android iPerf3 App &lpar;With AI-Powered Logs&rpar;](https://dev.to/abhi5h3k/i-accidentally-vibe-coded-a-native-android-iperf3-app-with-ai-powered-logs-46dd)
+- [🚨 I Built an AI Crisis Response Commander That Never Sleeps](https://dev.to/kareemblessed/i-built-an-ai-crisis-response-commander-that-never-sleeps-30ko)
+- [I Took Another Shot at Fullstack—and I’m Glad I Did](https://dev.to/prashantswarop9/i-took-another-shot-at-fullstack-and-im-glad-i-did-3mn7)
+- [NodeJS Fundamentals: esbuild](https://dev.to/devopsfundamentals/nodejs-fundamentals-esbuild-12h6)
+- [I Used Runner H to Find Tech Deals too Good to be True](https://dev.to/dirsebastian/i-used-runner-h-to-find-tech-deals-too-good-to-be-true-34hl)
 <!-- BLOG-POST-LIST:END -->
 
