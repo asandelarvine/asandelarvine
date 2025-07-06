@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Prompt Engineering for Beginners: How I’m Learning to Talk to AI Like a Developer&quot;](https://dev.to/shayo_victor_c02f1777210e/prompt-engineering-for-beginners-how-im-learning-to-talk-to-ai-like-a-developer-2jpf)
-- [PaperPulse—Your daily heartbeat on the latest research](https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko)
-- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-3mal)
-- [How to Export a Webflow Site and Host It Anywhere Easily](https://dev.to/ybouane/how-to-export-a-webflow-site-and-host-it-anywhere-easily-1f1)
+- [VoxCode IDE](https://dev.to/camperojose/voxcode-ide-2ap0)
+- [My dev journey](https://dev.to/mwikali/my-dev-journey-14in)
+- [Technology Selection Wisdom](https://dev.to/member_a07758c4/technology-selection-wisdom-1ca6)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
 <!-- BLOG-POST-LIST:END -->
 
