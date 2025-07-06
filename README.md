@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-298a)
-- [Testing in the Unknown: Navigating Software Quality in the Age of Uncertainty](https://dev.to/vaibhavkuls/testing-in-the-unknown-navigating-software-quality-in-the-age-of-uncertainty-1m8l)
-- [How Generative AI Learns: From Data to Imagination](https://dev.to/kedark/how-generative-ai-learns-from-data-to-imagination-1mgf)
-- [How Generative AI Learns: From Data to Imagination](https://dev.to/kedark/how-generative-ai-learns-from-data-to-imagination-44nh)
+- [Claude Code meets Nix: Your AI Assistant, Properly Packaged](https://dev.to/sadjow/claude-code-meets-nix-your-ai-assistant-properly-packaged-9k5)
+- [Understanding State &amp; Memory in AutoGen: Teaching AI to Think in Steps](https://dev.to/brains_behind_bots/understanding-state-memory-in-autogen-teaching-ai-to-think-in-steps-5cdb)
+- [🔄 Model Context Protocol vs API: Understanding the Next Evolution in AI Integration](https://dev.to/aiservices/model-context-protocol-vs-api-understanding-the-next-evolution-in-ai-integration-2nc8)
+- [Server-Side Geolocation Filtering in Laravel with the Haversine Formula](https://dev.to/mreduar/server-side-geolocation-filtering-in-laravel-with-the-haversine-formula-28c)
 <!-- BLOG-POST-LIST:END -->
 
