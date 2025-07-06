@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OmniVeo: Built Across Timezones, Fueled by Grit](https://dev.to/shanman333/omniveo-built-across-timezones-fueled-by-grit-4588)
-- [I built an AI agent that helps you improve your LLM apps — automatically.](https://dev.to/suzuki_yuto_786e3bc445acb/-gg3)
-- [Real World Project Case Study Campus Modern Web](https://dev.to/member_a07758c4/real-world-project-case-study-campus-modern-web-2a3e)
-- [Hosting n8n on AWS EC2 with Docker](https://dev.to/zahraajawad/hosting-n8n-on-aws-ec2-with-docker-imj)
+- [I Was Silenced for Telling the Truth About Winnipeg’s Game Dev Scene — So Here&#39;s the Truth](https://dev.to/formantaudio/i-was-silenced-for-telling-the-truth-about-winnipegs-game-dev-scene-so-heres-the-truth-48k2)
+- [How Dangerous Code Assumptions Lead to Exploits](https://dev.to/tonystpierre/how-dangerous-code-assumptions-lead-to-exploits-ohe)
+- [Building a Modern Web Application for a Tech Startup – My Experience...](https://dev.to/a_ramesh/building-a-modern-web-application-for-a-tech-startup-my-experience-3n49)
+- [🚀 hevue-img-preview: A Lightweight &amp; Powerful Vue Image Preview Plugin for Web &amp; Mobile](https://dev.to/_c523fb077d7e99c1e840a/hevue-img-preview-a-lightweight-powerful-vue-image-preview-plugin-for-web-mobile-20j2)
 <!-- BLOG-POST-LIST:END -->
 
