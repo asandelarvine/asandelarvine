@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱💻 Gemini’s Quiet Revolution: Transform Your Draft, Define Your Brand 🧩✨](https://dev.to/divyasinghdev/geminis-quiet-revolution-transform-your-draft-define-your-brand-1nci)
-- [PolicyPilotPro was built entirely using Bolt.new in less than 48 hours](https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc)
-- [A Deep Dive into Go&#39;s sync.Once](https://dev.to/leapcell/a-deep-dive-into-gos-synconce-3inn)
-- [The strategy evolves when the platform changes](https://dev.to/rafaelcg/the-strategy-evolves-when-the-platform-changes-5d48)
+- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
+- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
+- [⛴️Beginner-Friendly Guide &quot;Find Sum Pairs with Dynamic Count Updates&quot; – LeetCode 1865 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-sum-pairs-with-dynamic-count-updates-leetcode-1865-c-python-2jjm)
+- [On-Premises AI vs. Cloud AI vs. AI Tools: What Should You Choose?](https://dev.to/alifar/on-premises-ai-vs-cloud-ai-vs-ai-tools-what-should-you-choose-2i0l)
 <!-- BLOG-POST-LIST:END -->
 
