@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code meets Nix: Your AI Assistant, Properly Packaged](https://dev.to/sadjow/claude-code-meets-nix-your-ai-assistant-properly-packaged-9k5)
-- [Understanding State &amp; Memory in AutoGen: Teaching AI to Think in Steps](https://dev.to/brains_behind_bots/understanding-state-memory-in-autogen-teaching-ai-to-think-in-steps-5cdb)
-- [🔄 Model Context Protocol vs API: Understanding the Next Evolution in AI Integration](https://dev.to/aiservices/model-context-protocol-vs-api-understanding-the-next-evolution-in-ai-integration-2nc8)
-- [Server-Side Geolocation Filtering in Laravel with the Haversine Formula](https://dev.to/mreduar/server-side-geolocation-filtering-in-laravel-with-the-haversine-formula-28c)
+- [API Testing Frameworks Comparison: REST Assured vs Postman vs Playwright](https://dev.to/gregobhm/api-testing-frameworks-comparison-rest-assured-vs-postman-vs-playwright-16pd)
+- [I built diffx, a structure-aware, AI-first diff tool in Rust. Let&#39;s end the comma-induced suffering.](https://dev.to/kako-jun/i-built-diffx-a-structure-aware-ai-first-diff-tool-in-rust-lets-end-the-comma-induced-suffering-491h)
+- [Web Development Learning Path](https://dev.to/member_a07758c4/web-development-learning-path-3ao2)
+- [MCP Server: Powring AI-Driven Workflows](https://dev.to/samira_talebi_cca34ce28b8/mcp-server-powring-ai-driven-workflows-52i7)
 <!-- BLOG-POST-LIST:END -->
 
