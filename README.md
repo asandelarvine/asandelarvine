@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Silenced for Telling the Truth About Winnipeg’s Game Dev Scene — So Here&#39;s the Truth](https://dev.to/formantaudio/i-was-silenced-for-telling-the-truth-about-winnipegs-game-dev-scene-so-heres-the-truth-48k2)
-- [How Dangerous Code Assumptions Lead to Exploits](https://dev.to/tonystpierre/how-dangerous-code-assumptions-lead-to-exploits-ohe)
-- [Building a Modern Web Application for a Tech Startup – My Experience...](https://dev.to/a_ramesh/building-a-modern-web-application-for-a-tech-startup-my-experience-3n49)
-- [🚀 hevue-img-preview: A Lightweight &amp; Powerful Vue Image Preview Plugin for Web &amp; Mobile](https://dev.to/_c523fb077d7e99c1e840a/hevue-img-preview-a-lightweight-powerful-vue-image-preview-plugin-for-web-mobile-20j2)
+- [#1 Introduction to Python](https://dev.to/prakash_vinukonda_363ed4b/1-introduction-to-python-2651)
+- [🎲Rolling the Dice with AWS: Build a fun “Snakes &amp; Ladders” Game with Amazon Q CLI🐍](https://dev.to/yamini_pathuri_c60bea08d2/rolling-the-dice-with-aws-build-a-fun-snakes-ladders-game-with-amazon-q-cli-245e)
+- [🧑‍💻 New Portfolio Template Released!](https://dev.to/sathishk_dev/new-portfolio-template-released-1ghg)
+- [Long Connection Management](https://dev.to/member_a07758c4/long-connection-management-3kg)
 <!-- BLOG-POST-LIST:END -->
 
