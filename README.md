@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Manual Memory Management vs Python Automatic Memory Management: A Performance Comparison](https://dev.to/adityabhuyan/c-manual-memory-management-vs-python-automatic-memory-management-a-performance-comparison-58gg)
-- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality](https://dev.to/member_a07758c4/code-review-and-team-collaboration-best-practices-methods-for-improving-code-quality-5f1i)
-- [🔍 Tracking Global Keyboard Shortcuts in Node.js &lpar;Windows&rpar;](https://dev.to/jigargosar/tracking-global-keyboard-shortcuts-in-nodejs-windows-17ej)
-- [How F1 Thinking Can Improve Your Software Development](https://dev.to/dancoulter/how-f1-thinking-can-improve-your-software-development-30mg)
+- [OmniVeo: Built Across Timezones, Fueled by Grit](https://dev.to/shanman333/omniveo-built-across-timezones-fueled-by-grit-4588)
+- [I built an AI agent that helps you improve your LLM apps — automatically.](https://dev.to/suzuki_yuto_786e3bc445acb/-gg3)
+- [Real World Project Case Study Campus Modern Web](https://dev.to/member_a07758c4/real-world-project-case-study-campus-modern-web-2a3e)
+- [Hosting n8n on AWS EC2 with Docker](https://dev.to/zahraajawad/hosting-n8n-on-aws-ec2-with-docker-imj)
 <!-- BLOG-POST-LIST:END -->
 
