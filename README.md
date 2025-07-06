@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the f*ck happened to builders?](https://dev.to/hyvip/what-the-fck-happened-to-builders-n7k)
-- [Linux Insight Blogs: rsync](https://dev.to/ankur0904/linux-insight-blogs-rsync-55nd)
-- [Nexus Dynamics - Frontend challenge](https://dev.to/imkarthikeyan/nexus-dynamics-frontend-challenge-43ig)
-- [Aggregator Platform Ideas](https://dev.to/shreyvijayvargiya/aggregator-platform-ideas-2kk4)
+- [Job Application AI Agent](https://dev.to/subutai/job-application-ai-agent-42ko)
+- [Блог | MailHog упрощает тестирование отправки email в .NET проектах без риска отправки реальных писем](https://dev.to/__c87c/blogh-mailhog-uproshchaiet-tiestirovaniie-otpravki-email-v-net-proiektakh-biez-riska-otpravki-riealnykh-ohk)
+- [Practice of Test Driven Development Strategy from Unit Testing to Integration Testing](https://dev.to/member_a07758c4/practice-of-test-driven-development-strategy-from-unit-testing-to-integration-testing-1g4m)
+- [A New Technology You Should Know: Sniffnet](https://dev.to/kpcofgs/-a-new-technology-you-should-know-sniffnet-1gg0)
 <!-- BLOG-POST-LIST:END -->
 
