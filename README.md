@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ORMs Are Annoying! Until You Try Living Without One](https://dev.to/gaurang847/orms-are-annoying-until-you-try-living-without-one-14d6)
-- [Monitor &amp; Alert: Notify Admins When Scheduled Power Automate Flows Are Deactivated &lpar;Using FetchXML&rpar;](https://dev.to/nikhildynamicsce/monitor-alert-notify-admins-when-scheduled-power-automate-flows-are-deactivated-using-fetchxml-5gne)
-- [.NET Learning Notes: Using MailHog with .NET for Email Testing](https://dev.to/alexleeeeeeeeee/net-learning-notes-using-mailhog-with-net-for-email-testing-op4)
-- [Poetry and Horizon Code Design Future Vision Web](https://dev.to/member_a07758c4/poetry-and-horizon-code-design-future-vision-web-3kd7)
+- [What the f*ck happened to builders?](https://dev.to/hyvip/what-the-fck-happened-to-builders-n7k)
+- [Linux Insight Blogs: rsync](https://dev.to/ankur0904/linux-insight-blogs-rsync-55nd)
+- [Nexus Dynamics - Frontend challenge](https://dev.to/imkarthikeyan/nexus-dynamics-frontend-challenge-43ig)
+- [Aggregator Platform Ideas](https://dev.to/shreyvijayvargiya/aggregator-platform-ideas-2kk4)
 <!-- BLOG-POST-LIST:END -->
 
