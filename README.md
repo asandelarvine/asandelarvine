@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
-- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
-- [⛴️Beginner-Friendly Guide &quot;Find Sum Pairs with Dynamic Count Updates&quot; – LeetCode 1865 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-sum-pairs-with-dynamic-count-updates-leetcode-1865-c-python-2jjm)
-- [On-Premises AI vs. Cloud AI vs. AI Tools: What Should You Choose?](https://dev.to/alifar/on-premises-ai-vs-cloud-ai-vs-ai-tools-what-should-you-choose-2i0l)
+- [Technical Blog Writing Guide](https://dev.to/member_a07758c4/technical-blog-writing-guide-298a)
+- [Testing in the Unknown: Navigating Software Quality in the Age of Uncertainty](https://dev.to/vaibhavkuls/testing-in-the-unknown-navigating-software-quality-in-the-age-of-uncertainty-1m8l)
+- [How Generative AI Learns: From Data to Imagination](https://dev.to/kedark/how-generative-ai-learns-from-data-to-imagination-1mgf)
+- [How Generative AI Learns: From Data to Imagination](https://dev.to/kedark/how-generative-ai-learns-from-data-to-imagination-44nh)
 <!-- BLOG-POST-LIST:END -->
 
