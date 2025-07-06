@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Application AI Agent](https://dev.to/subutai/job-application-ai-agent-42ko)
-- [Блог | MailHog упрощает тестирование отправки email в .NET проектах без риска отправки реальных писем](https://dev.to/__c87c/blogh-mailhog-uproshchaiet-tiestirovaniie-otpravki-email-v-net-proiektakh-biez-riska-otpravki-riealnykh-ohk)
-- [Practice of Test Driven Development Strategy from Unit Testing to Integration Testing](https://dev.to/member_a07758c4/practice-of-test-driven-development-strategy-from-unit-testing-to-integration-testing-1g4m)
-- [A New Technology You Should Know: Sniffnet](https://dev.to/kpcofgs/-a-new-technology-you-should-know-sniffnet-1gg0)
+- [CSS Art: Drawing Yoda with CSS](https://dev.to/alvaromontoro/css-art-drawing-yoda-with-css-2n6c)
+- [Why Your FastAPI App Isn’t Fast: Understanding Python Concurrency](https://dev.to/akhil_pl/why-your-fastapi-app-isnt-fast-understanding-python-concurrency-3e7f)
+- [The 7 Cloud Components That Power 90% of Modern Applications](https://dev.to/canvascloudai/the-7-cloud-components-that-power-90-of-modern-applications-5foa)
+- [🚀 I Accidentally Vibe-Coded a Native Android iPerf3 App &lpar;With AI-Powered Logs&rpar;](https://dev.to/abhi5h3k/i-accidentally-vibe-coded-a-native-android-iperf3-app-with-ai-powered-logs-46dd)
 <!-- BLOG-POST-LIST:END -->
 
