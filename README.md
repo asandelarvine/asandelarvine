@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#1 Introduction to Python](https://dev.to/prakash_vinukonda_363ed4b/1-introduction-to-python-2651)
-- [🎲Rolling the Dice with AWS: Build a fun “Snakes &amp; Ladders” Game with Amazon Q CLI🐍](https://dev.to/yamini_pathuri_c60bea08d2/rolling-the-dice-with-aws-build-a-fun-snakes-ladders-game-with-amazon-q-cli-245e)
-- [🧑‍💻 New Portfolio Template Released!](https://dev.to/sathishk_dev/new-portfolio-template-released-1ghg)
-- [Long Connection Management](https://dev.to/member_a07758c4/long-connection-management-3kg)
+- [How I Secured Passwords in My Spring Boot Project &lpar;N1netails&rpar; Using BCrypt](https://dev.to/shahidfoy/how-i-secured-passwords-in-my-spring-boot-project-n1netails-using-bcrypt-4o31)
+- [Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery](https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml)
+- [Is Node.js Single Threaded or Multithreaded?](https://dev.to/kiani0x01/is-nodejs-single-threaded-or-multithreaded-p8m)
+- [From SEO to Software: My Journey into Full-Stack Development](https://dev.to/mrsquid45/from-seo-to-software-my-journey-into-full-stack-development-522c)
 <!-- BLOG-POST-LIST:END -->
 
