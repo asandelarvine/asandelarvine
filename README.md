@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I started tracking my dev journey daily — turns out, it changed everything.](https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g)
-- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-55km)
-- [Unlock AI’s Hidden Power: The Ultimate Guide to Prompt Engineering](https://dev.to/gabrielhca/unlock-ais-hidden-power-the-ultimate-guide-to-prompt-engineering-c41)
-- [Standard vs Enhanced Data Models in Power Pages](https://dev.to/power365tips/standard-vs-enhanced-data-models-in-power-pages-5214)
+- [Test Blog Post from Fix Testing](https://dev.to/pponali/test-blog-post-from-fix-testing-22i0)
+- [JobSquirrel - A 2 week Claude Code Project that tailors your resume to a job listing with ease.](https://dev.to/sean_mchugh_0448fbde08482/jobsquirrel-a-2-week-claude-code-project-that-tailors-your-resume-to-a-job-listing-with-ease-2g8l)
+- [Pointers in Go](https://dev.to/iamismile/pointers-in-go-1470)
+- [API Pen Testing](https://dev.to/godofgeeks/api-pen-testing-4hc6)
 <!-- BLOG-POST-LIST:END -->
 
