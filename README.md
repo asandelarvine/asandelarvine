@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Guarantee Race Conditions When Integration Testing](https://dev.to/jonashdown/how-to-guarantee-race-conditions-when-integration-testing-234h)
-- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_a07758c4/cross-platform-tool-building-universal-web-applications-advanced-23kh)
-- [Charm of Method Chaining Fluent Interface Patterns in Frameworks](https://dev.to/member_a07758c4/charm-of-method-chaining-fluent-interface-patterns-in-frameworks-3a3h)
-- [Devlog #9 Netflix and chill](https://dev.to/bain_8a987225b41e21618fcb/devlog-9-netflix-and-chill-55ll)
+- [&quot;Prompt Engineering for Beginners: How I’m Learning to Talk to AI Like a Developer&quot;](https://dev.to/shayo_victor_c02f1777210e/prompt-engineering-for-beginners-how-im-learning-to-talk-to-ai-like-a-developer-2jpf)
+- [PaperPulse—Your daily heartbeat on the latest research](https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko)
+- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-3mal)
+- [How to Export a Webflow Site and Host It Anywhere Easily](https://dev.to/ybouane/how-to-export-a-webflow-site-and-host-it-anywhere-easily-1f1)
 <!-- BLOG-POST-LIST:END -->
 
