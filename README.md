@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 I Built an AI Crisis Response Commander That Never Sleeps](https://dev.to/kareemblessed/i-built-an-ai-crisis-response-commander-that-never-sleeps-30ko)
-- [I Took Another Shot at Fullstack—and I’m Glad I Did](https://dev.to/prashantswarop9/i-took-another-shot-at-fullstack-and-im-glad-i-did-3mn7)
-- [NodeJS Fundamentals: esbuild](https://dev.to/devopsfundamentals/nodejs-fundamentals-esbuild-12h6)
-- [I Used Runner H to Find Tech Deals too Good to be True](https://dev.to/dirsebastian/i-used-runner-h-to-find-tech-deals-too-good-to-be-true-34hl)
+- [C++ Manual Memory Management vs Python Automatic Memory Management: A Performance Comparison](https://dev.to/adityabhuyan/c-manual-memory-management-vs-python-automatic-memory-management-a-performance-comparison-58gg)
+- [Code Review and Team Collaboration Best Practices Methods for Improving Code Quality](https://dev.to/member_a07758c4/code-review-and-team-collaboration-best-practices-methods-for-improving-code-quality-5f1i)
+- [🔍 Tracking Global Keyboard Shortcuts in Node.js &lpar;Windows&rpar;](https://dev.to/jigargosar/tracking-global-keyboard-shortcuts-in-nodejs-windows-17ej)
+- [How F1 Thinking Can Improve Your Software Development](https://dev.to/dancoulter/how-f1-thinking-can-improve-your-software-development-30mg)
 <!-- BLOG-POST-LIST:END -->
 
