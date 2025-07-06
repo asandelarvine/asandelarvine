@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train AI Model](https://dev.to/atifwattoo/how-to-train-ai-model-bd)
-- [Mission 7: Update Your Portfolio Part One](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-one-1eji)
-- [Platão e os Modelos Ideais: IA, Generalização e Representações Latentes](https://dev.to/francis_targanski_21ee095/platao-e-os-modelos-ideais-ia-generalizacao-e-representacoes-latentes-32f5)
-- [Building My First End-to-End Machine Learning Project](https://dev.to/anshikalohan/building-my-first-end-to-end-machine-learning-project-23a3)
+- [How To Guarantee Race Conditions When Integration Testing](https://dev.to/jonashdown/how-to-guarantee-race-conditions-when-integration-testing-234h)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_a07758c4/cross-platform-tool-building-universal-web-applications-advanced-23kh)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks](https://dev.to/member_a07758c4/charm-of-method-chaining-fluent-interface-patterns-in-frameworks-3a3h)
+- [Devlog #9 Netflix and chill](https://dev.to/bain_8a987225b41e21618fcb/devlog-9-netflix-and-chill-55ll)
 <!-- BLOG-POST-LIST:END -->
 
