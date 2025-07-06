@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Testing Frameworks Comparison: REST Assured vs Postman vs Playwright](https://dev.to/gregobhm/api-testing-frameworks-comparison-rest-assured-vs-postman-vs-playwright-16pd)
-- [I built diffx, a structure-aware, AI-first diff tool in Rust. Let&#39;s end the comma-induced suffering.](https://dev.to/kako-jun/i-built-diffx-a-structure-aware-ai-first-diff-tool-in-rust-lets-end-the-comma-induced-suffering-491h)
-- [Web Development Learning Path](https://dev.to/member_a07758c4/web-development-learning-path-3ao2)
-- [MCP Server: Powring AI-Driven Workflows](https://dev.to/samira_talebi_cca34ce28b8/mcp-server-powring-ai-driven-workflows-52i7)
+- [I started tracking my dev journey daily — turns out, it changed everything.](https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g)
+- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-55km)
+- [Unlock AI’s Hidden Power: The Ultimate Guide to Prompt Engineering](https://dev.to/gabrielhca/unlock-ais-hidden-power-the-ultimate-guide-to-prompt-engineering-c41)
+- [Standard vs Enhanced Data Models in Power Pages](https://dev.to/power365tips/standard-vs-enhanced-data-models-in-power-pages-5214)
 <!-- BLOG-POST-LIST:END -->
 
