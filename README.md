@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VoxCode IDE](https://dev.to/camperojose/voxcode-ide-2ap0)
-- [My dev journey](https://dev.to/mwikali/my-dev-journey-14in)
-- [Technology Selection Wisdom](https://dev.to/member_a07758c4/technology-selection-wisdom-1ca6)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
+- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4f2e)
+- [The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You](https://dev.to/gertrude_abagale/the-scariest-threat-in-cybersecurity-it-might-be-the-person-sitting-next-to-you-58cj)
+- [The Last Human Debugger](https://dev.to/writerelliswilson/the-last-human-debugger-4d5j)
+- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2k5g)
 <!-- BLOG-POST-LIST:END -->
 
