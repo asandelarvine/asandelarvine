@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Intro into eBPF and Rust](https://dev.to/maheshrayas/-intro-into-ebpf-and-rust-l2m)
-- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems](https://dev.to/member_a07758c4/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems-100f)
-- [Mastering Stress Management: The Unexpected Benefits of Online Learning Platforms for Students](https://dev.to/ghummantech/mastering-stress-management-the-unexpected-benefits-of-online-learning-platforms-for-students-52nk)
-- [Building WCAG-Compliant Flutter Components: Automating Contrast Calculations](https://dev.to/zoegilbert/building-wcag-compliant-flutter-components-automating-contrast-calculations-56h2)
+- [Competition of data processing languages on JVM: Kotlin, Scala and SPL](https://dev.to/esproc_spl/competition-of-data-processing-languages-on-jvm-kotlin-scala-and-spl-46ma)
+- [Code a Neural Network from Scratch in NumPy](https://dev.to/vuk_rosic/code-a-neural-network-from-scratch-in-numpy-494o)
+- [DeepGEMM Essentials: High-Performance FP8 Matrix Multiplication](https://dev.to/vuk_rosic/deepgemm-essentials-high-performance-fp8-matrix-multiplication-i02)
+- [JUnit Architectural Analysis](https://dev.to/vlopess/junit-architectural-analysis-me8)
 <!-- BLOG-POST-LIST:END -->
 
