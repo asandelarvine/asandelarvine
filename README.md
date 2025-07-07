@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a Custom WordPress Website](https://dev.to/ansari_taimur_6171d0312ce/how-to-make-a-custom-wordpress-website-45n4)
-- [What is Mobile Device Management &lpar;MDM&rpar;?](https://dev.to/teresa_tran/what-is-mobile-device-management-mdm-3d4)
-- [What are some databases we use everyday?](https://dev.to/asim_roy_995291972b9d217d/what-are-some-databases-we-use-everyday-4h3o)
-- [IAM, CIAM, and IDaaS for Developers: Implementation Patterns and Practical Trade-offs](https://dev.to/deepakgupta/iam-ciam-and-idaas-for-developers-implementation-patterns-and-practical-trade-offs-gb8)
+- [# Intro into eBPF and Rust](https://dev.to/maheshrayas/-intro-into-ebpf-and-rust-l2m)
+- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems](https://dev.to/member_a07758c4/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems-100f)
+- [Mastering Stress Management: The Unexpected Benefits of Online Learning Platforms for Students](https://dev.to/ghummantech/mastering-stress-management-the-unexpected-benefits-of-online-learning-platforms-for-students-52nk)
+- [Building WCAG-Compliant Flutter Components: Automating Contrast Calculations](https://dev.to/zoegilbert/building-wcag-compliant-flutter-components-automating-contrast-calculations-56h2)
 <!-- BLOG-POST-LIST:END -->
 
