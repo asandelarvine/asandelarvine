@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build Enterprise Apps in Minutes with AWS App Studio &lpar;No Infrastructure Hassles!&rpar;](https://dev.to/aws-builders/build-enterprise-apps-in-minutes-with-aws-app-studio-no-infrastructure-hassles-266j)
-- [Gemini CLI for Frontend Devs: Your New Favorite Terminal Superpower 🔥](https://dev.to/rio14/gemini-cli-for-frontend-devs-your-new-favorite-terminal-superpower-1md5)
-- [Tauri vs. Electron: performance, bundle size, and the real trade-offs](https://dev.to/gethopp/tauri-vs-electron-performance-bundle-size-and-the-real-trade-offs-1el4)
-- [How to make your APIs ready for AI agents?](https://dev.to/reshab_agarwal/how-to-make-your-apis-ready-for-ai-agents-2afj)
+- [GameSpot: Death Stranding 2 GameSpot Review](https://dev.to/gg_news/gamespot-death-stranding-2-gamespot-review-5ea9)
+- [GameSpot: Death Stranding 2 Is The Closest We&#39;ll Get To Metal Gear Solid 5 Sequel](https://dev.to/gg_news/gamespot-death-stranding-2-is-the-closest-well-get-to-metal-gear-solid-5-sequel-17d9)
+- [GameSpot: Delivering Nothing But PAIN In Death Stranding 2 - Brutal Difficulty Gameplay](https://dev.to/gg_news/gamespot-delivering-nothing-but-pain-in-death-stranding-2-brutal-difficulty-gameplay-39po)
+- [GameSpot: Donkey Kong Bananza Looks Like The Mario Odyssey Successor No One Expected | Hands-On Impressions](https://dev.to/gg_news/gamespot-donkey-kong-bananza-looks-like-the-mario-odyssey-successor-no-one-expected-hands-on-2hpd)
 <!-- BLOG-POST-LIST:END -->
 
