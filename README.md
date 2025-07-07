@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Uncovered - A Simple Introduction](https://dev.to/s_vasanth_183951c70f1bd52/javascript-uncovered-a-simple-introduction-192j)
-- [🧠 AI vs. Human Intelligence: Are We Getting Smarter or Just Better at Asking ChatGPT?](https://dev.to/hmzas/ai-vs-human-intelligence-are-we-getting-smarter-or-just-better-at-asking-chatgpt-3i6p)
-- [Serverless A2A with Spin](https://dev.to/fermyon/serverless-a2a-with-spin-41lb)
-- [How to Build Beautiful GUIs in Golang : 3 Web UI Paths](https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm)
+- [Next Greater Element in Circular Array](https://dev.to/rohithv07/next-greater-element-in-circular-array-1g6k)
+- [TypeScript to Go: Why does it really matter?](https://dev.to/kresohr/typescript-to-go-why-does-it-really-matter-10da)
+- [Is Mistral AI&#39;s Magistral the Key to Transparent and Multilingual AI Reasoning?](https://dev.to/jovin_george_733dcfc16291/is-mistral-ais-magistral-the-key-to-transparent-and-multilingual-ai-reasoning-4hgl)
+- [Significance of Python Virtual Environment](https://dev.to/magesh_narayanan_da14a227/significance-of-python-virtual-environment-aim)
 <!-- BLOG-POST-LIST:END -->
 
