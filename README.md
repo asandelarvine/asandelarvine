@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next Greater Element in Circular Array](https://dev.to/rohithv07/next-greater-element-in-circular-array-1g6k)
-- [TypeScript to Go: Why does it really matter?](https://dev.to/kresohr/typescript-to-go-why-does-it-really-matter-10da)
-- [Is Mistral AI&#39;s Magistral the Key to Transparent and Multilingual AI Reasoning?](https://dev.to/jovin_george_733dcfc16291/is-mistral-ais-magistral-the-key-to-transparent-and-multilingual-ai-reasoning-4hgl)
-- [Significance of Python Virtual Environment](https://dev.to/magesh_narayanan_da14a227/significance-of-python-virtual-environment-aim)
+- [From University Project to Paid API: How I Built and Shipped a Real AI Product in 3 Weeks](https://dev.to/kwameaseda/from-university-project-to-paid-api-how-i-built-and-shipped-a-real-ai-product-in-3-weeks-55gb)
+- [Day 6: Django User Management System: A Practical Guide to Building, Testing &amp; Deploying](https://dev.to/sanaipei001/day-6-django-user-management-system-a-practical-guide-to-building-testing-deploying-5b82)
+- [Big Data Fundamentals: hbase example](https://dev.to/devopsfundamentals/big-data-fundamentals-hbase-example-395k)
+- [Untitled](https://dev.to/veffond_jordan_12eddb1209/untitled-5dk9)
 <!-- BLOG-POST-LIST:END -->
 
