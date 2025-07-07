@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof that adult brains make new neurons settles scientific controversy](https://dev.to/future_science/proof-that-adult-brains-make-new-neurons-settles-scientific-controversy-ibh)
-- [Crunchyroll gets caught using bad ChatGPT subtitles on its new anime series &#39;Necronomico and the Cosmic Horror Show&#39;](https://dev.to/popcorn_tv/crunchyroll-gets-caught-using-bad-chatgpt-subtitles-on-its-new-anime-series-necronomico-and-the-3jom)
-- [Julian McMahon Dies: ‘Nip/Tuck&#39;, ‘Fantastic Four&#39;, ‘FBI: Most Wanted&#39; Star Was 56](https://dev.to/popcorn_tv/julian-mcmahon-dies-niptuck-fantastic-four-fbi-most-wanted-star-was-56-2bgh)
-- [‘Squid Game&#39; Season 3 Becomes First Show To Debut No. 1 On Netflix Across 93 Countries With 60.1M Views](https://dev.to/popcorn_tv/squid-game-season-3-becomes-first-show-to-debut-no-1-on-netflix-across-93-countries-with-601m-5260)
+- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
+- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
+- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
+- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
 <!-- BLOG-POST-LIST:END -->
 
