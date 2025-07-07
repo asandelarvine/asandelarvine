@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching in Django](https://dev.to/py_dagi/caching-in-django-5gcc)
-- [Cómo Garantizan los CRMs Farmacéuticos el Cumplimiento con el GDPR, HIPAA y la FDA 21 CFR Parte 11](https://dev.to/pharmacrm/como-garantizan-los-crms-farmaceuticos-el-cumplimiento-con-el-gdpr-hipaa-y-la-fda-21-cfr-parte-11-46g7)
-- [Hello Dev.to](https://dev.to/romaninsh/hello-devto-52gg)
-- [Unboxing Terraform Internals – Part 1: The Big Picture](https://dev.to/techls/unboxing-terraform-internals-part-1-the-big-picture-n2m)
+- [Proof that adult brains make new neurons settles scientific controversy](https://dev.to/future_science/proof-that-adult-brains-make-new-neurons-settles-scientific-controversy-ibh)
+- [Crunchyroll gets caught using bad ChatGPT subtitles on its new anime series &#39;Necronomico and the Cosmic Horror Show&#39;](https://dev.to/popcorn_tv/crunchyroll-gets-caught-using-bad-chatgpt-subtitles-on-its-new-anime-series-necronomico-and-the-3jom)
+- [Julian McMahon Dies: ‘Nip/Tuck&#39;, ‘Fantastic Four&#39;, ‘FBI: Most Wanted&#39; Star Was 56](https://dev.to/popcorn_tv/julian-mcmahon-dies-niptuck-fantastic-four-fbi-most-wanted-star-was-56-2bgh)
+- [‘Squid Game&#39; Season 3 Becomes First Show To Debut No. 1 On Netflix Across 93 Countries With 60.1M Views](https://dev.to/popcorn_tv/squid-game-season-3-becomes-first-show-to-debut-no-1-on-netflix-across-93-countries-with-601m-5260)
 <!-- BLOG-POST-LIST:END -->
 
