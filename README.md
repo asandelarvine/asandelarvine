@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From University Project to Paid API: How I Built and Shipped a Real AI Product in 3 Weeks](https://dev.to/kwameaseda/from-university-project-to-paid-api-how-i-built-and-shipped-a-real-ai-product-in-3-weeks-55gb)
-- [Day 6: Django User Management System: A Practical Guide to Building, Testing &amp; Deploying](https://dev.to/sanaipei001/day-6-django-user-management-system-a-practical-guide-to-building-testing-deploying-5b82)
-- [Big Data Fundamentals: hbase example](https://dev.to/devopsfundamentals/big-data-fundamentals-hbase-example-395k)
-- [Untitled](https://dev.to/veffond_jordan_12eddb1209/untitled-5dk9)
+- [Instantly Write Engaging FAQ Sections for Your Product Pages &lpar;Without Spending Hours&rpar;](https://dev.to/snappy_tuts/instantly-write-engaging-faq-sections-for-your-product-pages-without-spending-hours-4dn6)
+- [A Smarter Way to Auto-Generate Your Project Docs with AI](https://dev.to/abubakersiddique771/a-smarter-way-to-auto-generate-your-project-docs-with-ai-37lb)
+- [Vibe coding my way: a dream-inspired journey](https://dev.to/yunika66/vibe-coding-my-way-a-dream-inspired-journey-5a97)
+- [A Guide to Express.js](https://dev.to/calebjay/a-guide-to-expressjs-4h9m)
 <!-- BLOG-POST-LIST:END -->
 
