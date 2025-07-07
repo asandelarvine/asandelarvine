@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Death Stranding 2 GameSpot Review](https://dev.to/gg_news/gamespot-death-stranding-2-gamespot-review-5ea9)
-- [GameSpot: Death Stranding 2 Is The Closest We&#39;ll Get To Metal Gear Solid 5 Sequel](https://dev.to/gg_news/gamespot-death-stranding-2-is-the-closest-well-get-to-metal-gear-solid-5-sequel-17d9)
-- [GameSpot: Delivering Nothing But PAIN In Death Stranding 2 - Brutal Difficulty Gameplay](https://dev.to/gg_news/gamespot-delivering-nothing-but-pain-in-death-stranding-2-brutal-difficulty-gameplay-39po)
-- [GameSpot: Donkey Kong Bananza Looks Like The Mario Odyssey Successor No One Expected | Hands-On Impressions](https://dev.to/gg_news/gamespot-donkey-kong-bananza-looks-like-the-mario-odyssey-successor-no-one-expected-hands-on-2hpd)
+- [Guide to svelte state for react dummies](https://dev.to/himanshuc3/guide-to-svelte-state-for-react-dummies-2bei)
+- [#🚀 React Clean Code Cheatsheet — Visual Guide](https://dev.to/samirtahiri/-react-clean-code-cheatsheet-visual-guide-42j8)
+- [AWS Confirmed the Crash. Then Denied It. Then Billed Us.](https://dev.to/azzlain/aws-confirmed-the-crash-then-denied-it-then-billed-us-mp7)
+- [🚀 I Built a Django User Management System in One Day](https://dev.to/rinnahoyugi/i-built-a-django-user-management-system-in-one-day-30nk)
 <!-- BLOG-POST-LIST:END -->
 
