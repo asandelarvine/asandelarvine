@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instantly Write Engaging FAQ Sections for Your Product Pages &lpar;Without Spending Hours&rpar;](https://dev.to/snappy_tuts/instantly-write-engaging-faq-sections-for-your-product-pages-without-spending-hours-4dn6)
-- [A Smarter Way to Auto-Generate Your Project Docs with AI](https://dev.to/abubakersiddique771/a-smarter-way-to-auto-generate-your-project-docs-with-ai-37lb)
-- [Vibe coding my way: a dream-inspired journey](https://dev.to/yunika66/vibe-coding-my-way-a-dream-inspired-journey-5a97)
-- [A Guide to Express.js](https://dev.to/calebjay/a-guide-to-expressjs-4h9m)
+- [[Boost]](https://dev.to/david_bussell14/-414a)
+- [# ProT-Vision: New AI Tool Enhances Protein Structure Classification](https://dev.to/maurizio_morri_f7f4bd128c/-prot-vision-new-ai-tool-enhances-protein-structure-classification-27e5)
+- [[Boost]](https://dev.to/anthonymax/-1nlj)
+- [Service Mesh: A Senior Software Engineer’s Guide &lpar;With Kuma as an Example&rpar;](https://dev.to/iamcymentho/service-mesh-a-senior-software-engineers-guide-with-kuma-as-an-example-1g7h)
 <!-- BLOG-POST-LIST:END -->
 
