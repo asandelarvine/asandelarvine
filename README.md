@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-4cge)
-- [Stop Manually Checking Rates: Automate Naira Exchange Alerts with Runner H🚀](https://dev.to/toyaab/stop-manually-checking-rates-automate-naira-exchange-alerts-with-runner-h-5128)
-- [From &quot;Where Do I Start?&quot; to a Step-by-Step Plan with Your Personal Project Manager Agent](https://dev.to/j_t/from-where-do-i-start-to-a-step-by-step-plan-with-your-personal-project-manager-agent-3oc3)
-- [10 Key Lessons from My Failed SaaS Launch](https://dev.to/arunangshu_das/10-key-lessons-from-my-failed-saas-launch-4ih8)
+- [The 3-2-1 Remote Rule: How Senior Devs Stay Productive Working From Home](https://dev.to/teamcamp/the-3-2-1-remote-rule-how-senior-devs-stay-productive-working-from-home-on0)
+- [A Coding Environment Developed with AI for AI to Enable High Efficiency](https://dev.to/hotjams09/a-coding-environment-developed-with-ai-for-ai-to-enable-high-efficiency-53mn)
+- [Auth Guards in angular](https://dev.to/renukapatil/auth-guards-in-angular-5702)
+- [DTOs and AutoMapper in .NET Core](https://dev.to/renukapatil/dtos-and-automapper-in-net-core-1ko5)
 <!-- BLOG-POST-LIST:END -->
 
