@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 3-2-1 Remote Rule: How Senior Devs Stay Productive Working From Home](https://dev.to/teamcamp/the-3-2-1-remote-rule-how-senior-devs-stay-productive-working-from-home-on0)
-- [A Coding Environment Developed with AI for AI to Enable High Efficiency](https://dev.to/hotjams09/a-coding-environment-developed-with-ai-for-ai-to-enable-high-efficiency-53mn)
-- [Auth Guards in angular](https://dev.to/renukapatil/auth-guards-in-angular-5702)
-- [DTOs and AutoMapper in .NET Core](https://dev.to/renukapatil/dtos-and-automapper-in-net-core-1ko5)
+- [Runner H Exposed the Truth: Your 100K Salary Isn’t All What You Deserve by Law ⚖️](https://dev.to/sharafon/runnerh-exposed-the-truth-your-100k-salary-isnt-all-what-you-deserve-by-law-c28)
+- [CPU Cache-Friendly Data Structures](https://dev.to/member_a07758c4/cpu-cache-friendly-data-structures-2ok5)
+- [Stop Shipping Broken .env Files — Meet env-check-ts](https://dev.to/divyansh_kumar_1/stop-shipping-broken-env-files-meet-env-check-ts-17p8)
+- [The Road To Emotional AI - Why I’m Studying ROS 2 and Python While Building My Own Robots](https://dev.to/pneuma-studios/the-road-to-emotional-ai-why-im-studying-ros-2-and-python-while-building-my-own-robots-20lh)
 <!-- BLOG-POST-LIST:END -->
 
