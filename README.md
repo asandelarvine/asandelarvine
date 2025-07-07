@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Selling My Project: GameGift &lpar;£1000&rpar;](https://dev.to/vulcanwm/im-selling-my-project-gamegift-ps1000-3n1n)
-- [How to Start a SaaS Company with Zero Budget: A Practical Guide](https://dev.to/agami_tech_414cabb7522ea1/how-to-start-a-saas-company-with-zero-budget-a-practical-guide-4pb8)
-- [How to build an Agent with Laravel](https://dev.to/aprodilles/how-to-build-an-agent-with-laravel-mdi)
-- [Enterprise ML governance: Tracking AI lineage and risk with Unity Catalog](https://dev.to/danialgauhar/enterprise-ml-governance-tracking-ai-lineage-and-risk-with-unity-catalog-4069)
+- [Caching in Django](https://dev.to/py_dagi/caching-in-django-5gcc)
+- [Cómo Garantizan los CRMs Farmacéuticos el Cumplimiento con el GDPR, HIPAA y la FDA 21 CFR Parte 11](https://dev.to/pharmacrm/como-garantizan-los-crms-farmaceuticos-el-cumplimiento-con-el-gdpr-hipaa-y-la-fda-21-cfr-parte-11-46g7)
+- [Hello Dev.to](https://dev.to/romaninsh/hello-devto-52gg)
+- [Unboxing Terraform Internals – Part 1: The Big Picture](https://dev.to/techls/unboxing-terraform-internals-part-1-the-big-picture-n2m)
 <!-- BLOG-POST-LIST:END -->
 
