@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day Two – Sleep Tracker Tab Built and Working](https://dev.to/econdev/day-two-sleep-tracker-tab-built-and-working-7l9)
-- [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
-- [Create a Lift and Drag Calculator with Python: A Beginner’s Guide to Aerodynamics](https://dev.to/galacticcircuit/create-a-lift-and-drag-calculator-with-python-a-beginners-guide-to-aerodynamics-1bm0)
-- [&quot;🎮 Novo jogo lançado: Bola Frenética! Controle o boneco e a bola preta &lpar;A/D e setas e clica com o mouse na tela.&rpar; para pegar bolas coloridas. Meu primeiro jogo. Não é alto nível, mas já um inicio!](https://dev.to/franciscobatistajunior/-novo-jogo-lancado-bola-frenetica-controle-o-boneco-e-a-bola-preta-ad-e-setas-e-clica-com-o-3lif)
+- [Detox Week](https://dev.to/cargdev/detox-week-4k6h)
+- [Building a Slack AI Chatbot to Process PDF Content with n8n](https://dev.to/aihacks/building-a-slack-ai-chatbot-to-process-pdf-content-with-n8n-14hi)
+- [Built an AI Agent using Strands Agents SDK](https://dev.to/aws-builders/built-an-ai-agent-using-strands-agents-sdk-2o55)
+- [One-Stop Developer Guide to Prompt Engineering Across OpenAI, Anthropic, and Google](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)
 <!-- BLOG-POST-LIST:END -->
 
