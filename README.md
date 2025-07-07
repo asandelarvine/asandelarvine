@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Competition of data processing languages on JVM: Kotlin, Scala and SPL](https://dev.to/esproc_spl/competition-of-data-processing-languages-on-jvm-kotlin-scala-and-spl-46ma)
-- [Code a Neural Network from Scratch in NumPy](https://dev.to/vuk_rosic/code-a-neural-network-from-scratch-in-numpy-494o)
-- [DeepGEMM Essentials: High-Performance FP8 Matrix Multiplication](https://dev.to/vuk_rosic/deepgemm-essentials-high-performance-fp8-matrix-multiplication-i02)
-- [JUnit Architectural Analysis](https://dev.to/vlopess/junit-architectural-analysis-me8)
+- [I&#39;m Selling My Project: GameGift &lpar;£1000&rpar;](https://dev.to/vulcanwm/im-selling-my-project-gamegift-ps1000-3n1n)
+- [How to Start a SaaS Company with Zero Budget: A Practical Guide](https://dev.to/agami_tech_414cabb7522ea1/how-to-start-a-saas-company-with-zero-budget-a-practical-guide-4pb8)
+- [How to build an Agent with Laravel](https://dev.to/aprodilles/how-to-build-an-agent-with-laravel-mdi)
+- [Enterprise ML governance: Tracking AI lineage and risk with Unity Catalog](https://dev.to/danialgauhar/enterprise-ml-governance-tracking-ai-lineage-and-risk-with-unity-catalog-4069)
 <!-- BLOG-POST-LIST:END -->
 
