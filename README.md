@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to svelte state for react dummies](https://dev.to/himanshuc3/guide-to-svelte-state-for-react-dummies-2bei)
-- [#🚀 React Clean Code Cheatsheet — Visual Guide](https://dev.to/samirtahiri/-react-clean-code-cheatsheet-visual-guide-42j8)
-- [AWS Confirmed the Crash. Then Denied It. Then Billed Us.](https://dev.to/azzlain/aws-confirmed-the-crash-then-denied-it-then-billed-us-mp7)
-- [🚀 I Built a Django User Management System in One Day](https://dev.to/rinnahoyugi/i-built-a-django-user-management-system-in-one-day-30nk)
+- [JavaScript Uncovered - A Simple Introduction](https://dev.to/s_vasanth_183951c70f1bd52/javascript-uncovered-a-simple-introduction-192j)
+- [🧠 AI vs. Human Intelligence: Are We Getting Smarter or Just Better at Asking ChatGPT?](https://dev.to/hmzas/ai-vs-human-intelligence-are-we-getting-smarter-or-just-better-at-asking-chatgpt-3i6p)
+- [Serverless A2A with Spin](https://dev.to/fermyon/serverless-a2a-with-spin-41lb)
+- [How to Build Beautiful GUIs in Golang : 3 Web UI Paths](https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm)
 <!-- BLOG-POST-LIST:END -->
 
