@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-414a)
-- [# ProT-Vision: New AI Tool Enhances Protein Structure Classification](https://dev.to/maurizio_morri_f7f4bd128c/-prot-vision-new-ai-tool-enhances-protein-structure-classification-27e5)
-- [[Boost]](https://dev.to/anthonymax/-1nlj)
-- [Service Mesh: A Senior Software Engineer’s Guide &lpar;With Kuma as an Example&rpar;](https://dev.to/iamcymentho/service-mesh-a-senior-software-engineers-guide-with-kuma-as-an-example-1g7h)
+- [Day Two – Sleep Tracker Tab Built and Working](https://dev.to/econdev/day-two-sleep-tracker-tab-built-and-working-7l9)
+- [The Essential Sprint Ceremonies](https://dev.to/kdipippo/the-essential-sprint-ceremonies-4co9)
+- [Create a Lift and Drag Calculator with Python: A Beginner’s Guide to Aerodynamics](https://dev.to/galacticcircuit/create-a-lift-and-drag-calculator-with-python-a-beginners-guide-to-aerodynamics-1bm0)
+- [&quot;🎮 Novo jogo lançado: Bola Frenética! Controle o boneco e a bola preta &lpar;A/D e setas e clica com o mouse na tela.&rpar; para pegar bolas coloridas. Meu primeiro jogo. Não é alto nível, mas já um inicio!](https://dev.to/franciscobatistajunior/-novo-jogo-lancado-bola-frenetica-controle-o-boneco-e-a-bola-preta-ad-e-setas-e-clica-com-o-3lif)
 <!-- BLOG-POST-LIST:END -->
 
