@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Runner H Exposed the Truth: Your 100K Salary Isn’t All What You Deserve by Law ⚖️](https://dev.to/sharafon/runnerh-exposed-the-truth-your-100k-salary-isnt-all-what-you-deserve-by-law-c28)
-- [CPU Cache-Friendly Data Structures](https://dev.to/member_a07758c4/cpu-cache-friendly-data-structures-2ok5)
-- [Stop Shipping Broken .env Files — Meet env-check-ts](https://dev.to/divyansh_kumar_1/stop-shipping-broken-env-files-meet-env-check-ts-17p8)
-- [The Road To Emotional AI - Why I’m Studying ROS 2 and Python While Building My Own Robots](https://dev.to/pneuma-studios/the-road-to-emotional-ai-why-im-studying-ros-2-and-python-while-building-my-own-robots-20lh)
+- [Market Scout AI](https://dev.to/genjess/market-scout-ai-37n8)
+- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-4djn)
+- [ARCH10 Blueberry Funded Coupon Code – Get 45% Off on All Challenges](https://dev.to/blueberryfundedcouponcode/arch10-blueberry-funded-coupon-code-get-45-off-on-all-challenges-i9)
+- [Just One Prompt and Viola!](https://dev.to/credit_time_61af5aa9986fc/just-one-prompt-and-viola-560f)
 <!-- BLOG-POST-LIST:END -->
 
