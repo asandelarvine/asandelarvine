@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
-- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
-- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
-- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
+- [🚀 Build Enterprise Apps in Minutes with AWS App Studio &lpar;No Infrastructure Hassles!&rpar;](https://dev.to/aws-builders/build-enterprise-apps-in-minutes-with-aws-app-studio-no-infrastructure-hassles-266j)
+- [Gemini CLI for Frontend Devs: Your New Favorite Terminal Superpower 🔥](https://dev.to/rio14/gemini-cli-for-frontend-devs-your-new-favorite-terminal-superpower-1md5)
+- [Tauri vs. Electron: performance, bundle size, and the real trade-offs](https://dev.to/gethopp/tauri-vs-electron-performance-bundle-size-and-the-real-trade-offs-1el4)
+- [How to make your APIs ready for AI agents?](https://dev.to/reshab_agarwal/how-to-make-your-apis-ready-for-ai-agents-2afj)
 <!-- BLOG-POST-LIST:END -->
 
