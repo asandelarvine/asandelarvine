@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Market Scout AI](https://dev.to/genjess/market-scout-ai-37n8)
-- [Event Stream Processing Architecture Pattern Best Practices in Real-Time Applications](https://dev.to/member_a07758c4/event-stream-processing-architecture-pattern-best-practices-in-real-time-applications-4djn)
-- [ARCH10 Blueberry Funded Coupon Code – Get 45% Off on All Challenges](https://dev.to/blueberryfundedcouponcode/arch10-blueberry-funded-coupon-code-get-45-off-on-all-challenges-i9)
-- [Just One Prompt and Viola!](https://dev.to/credit_time_61af5aa9986fc/just-one-prompt-and-viola-560f)
+- [How to Make a Custom WordPress Website](https://dev.to/ansari_taimur_6171d0312ce/how-to-make-a-custom-wordpress-website-45n4)
+- [What is Mobile Device Management &lpar;MDM&rpar;?](https://dev.to/teresa_tran/what-is-mobile-device-management-mdm-3d4)
+- [What are some databases we use everyday?](https://dev.to/asim_roy_995291972b9d217d/what-are-some-databases-we-use-everyday-4h3o)
+- [IAM, CIAM, and IDaaS for Developers: Implementation Patterns and Practical Trade-offs](https://dev.to/deepakgupta/iam-ciam-and-idaas-for-developers-implementation-patterns-and-practical-trade-offs-gb8)
 <!-- BLOG-POST-LIST:END -->
 
