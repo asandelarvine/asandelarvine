@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flame Graph Performance Truth Analysis](https://dev.to/member_a07758c4/flame-graph-performance-truth-analysis-4f2e)
-- [The Scariest Threat in Cybersecurity? It Might Be the Person Sitting Next to You](https://dev.to/gertrude_abagale/the-scariest-threat-in-cybersecurity-it-might-be-the-person-sitting-next-to-you-58cj)
-- [The Last Human Debugger](https://dev.to/writerelliswilson/the-last-human-debugger-4d5j)
-- [Minimalist Programming Philosophy](https://dev.to/member_a07758c4/minimalist-programming-philosophy-2k5g)
+- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-4cge)
+- [Stop Manually Checking Rates: Automate Naira Exchange Alerts with Runner H🚀](https://dev.to/toyaab/stop-manually-checking-rates-automate-naira-exchange-alerts-with-runner-h-5128)
+- [From &quot;Where Do I Start?&quot; to a Step-by-Step Plan with Your Personal Project Manager Agent](https://dev.to/j_t/from-where-do-i-start-to-a-step-by-step-plan-with-your-personal-project-manager-agent-3oc3)
+- [10 Key Lessons from My Failed SaaS Launch](https://dev.to/arunangshu_das/10-key-lessons-from-my-failed-saas-launch-4ih8)
 <!-- BLOG-POST-LIST:END -->
 
