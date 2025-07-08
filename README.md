@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Fundamentals: confusion matrix project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-confusion-matrix-project-3j6l)
-- [The &quot;Anchor Offer&quot; Tactic](https://dev.to/thetechpreneur/the-anchor-offer-tactic-3g3j)
-- [🔧 Must-Know VS Code Settings &amp; Playwright Extension Features for Test Automation](https://dev.to/wishinfinite/must-know-vs-code-settings-playwright-extension-features-for-test-automation-1im3)
-- [nullptr in C23](https://dev.to/pauljlucas/nullptr-in-c23-1cn6)
+- [Web Developer Travis McCracken on Choosing Rust and Go for Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-choosing-rust-and-go-for-backend-systems-meh)
+- [Next.js ওয়েবসাইট Hostinger VPS-এ ডিপ্লয় ডকুমেন্টেশন](https://dev.to/tariqul420/nextjs-oyebsaaitt-hostinger-vps-e-ddiply-ddkumentteshn-2pc)
+- [3 Issues That Remote MCP Developers Should Avoid](https://dev.to/portia-ai/3-issues-that-remote-mcp-developers-should-avoid-226o)
+- [Deployment Automation 1](https://dev.to/github-recommend/deployment-automation-1-1343)
 <!-- BLOG-POST-LIST:END -->
 
