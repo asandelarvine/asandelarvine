@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/zaman_mehmood_5e97598d28f/github-and-ec2-manual-deployment-with-deploy-keys-1f9e)
-- [Why I Ditched API Routes for Server Actions in Next.js](https://dev.to/adamp78/why-i-ditched-api-routes-for-server-actions-in-nextjs-b16)
-- [Big Data Fundamentals: hbase with python](https://dev.to/devopsfundamentals/big-data-fundamentals-hbase-with-python-2h8g)
-- [One Month into GSoC with AOSSIE: My Journey Building Perspective](https://dev.to/parag_ghatage_dev124/one-month-into-gsoc-with-aossie-my-journey-building-perspective-3j51)
+- [Web Developer Travis McCracken on Learning Rust Made Me a Better Go Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-rust-made-me-a-better-go-dev-2bmi)
+- [How does ChatGPT generate human-like text?](https://dev.to/zaman_mehmood_5e97598d28f/how-does-chatgpt-generate-human-like-text-4ob7)
+- [Using Strands Agents with Anthropic 🧬](https://dev.to/aws/using-strands-agents-with-anthropic-20jn)
+- [How to create a Popover using React and Tailwind CSS](https://dev.to/zaman_mehmood_5e97598d28f/how-to-create-a-popover-using-react-and-tailwind-css-3odo)
 <!-- BLOG-POST-LIST:END -->
 
