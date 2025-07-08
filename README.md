@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Annotations, Beans, Spring Container &amp; Dependency Injection in Spring Boot](https://dev.to/elayaraj31/understanding-annotations-beans-spring-container-dependency-injection-in-spring-boot-20c3)
-- [The Rise of AI Vibe Coding: Latest Innovations in 2025](https://dev.to/alshaercode/the-rise-of-ai-vibe-coding-latest-innovations-in-2025-4kc9)
-- [Website Design &amp; Front-end Development](https://dev.to/kaoria/website-design-front-end-development-2mef)
-- [The state of Agentic AI and the need for Agentic Memory](https://dev.to/surrealdb/the-state-of-agentic-ai-and-the-need-for-agentic-memory-gjb)
+- [🧠 From Hive and Elastic to ClickHouse: What Surprised Me](https://dev.to/mohhddhassan/from-hive-and-elastic-to-clickhouse-what-surprised-me-24ak)
+- [Audience Matters!](https://dev.to/dvjosefr/audience-matters-4fjk)
+- [If a deployment fails in production!](https://dev.to/renukapatil/if-a-deployment-fails-in-production-318a)
+- [How I Automated a Shopify Store with AI, APIs and No-Code Tools](https://dev.to/alifar/how-i-automated-a-shopify-store-with-ai-apis-and-no-code-tools-36gg)
 <!-- BLOG-POST-LIST:END -->
 
