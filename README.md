@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;June 2025&rpar; + A talk with Ben Evans](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2025-dme)
-- [Un Agente simple para realizar resumen del contenido de sitios web con Embabel](https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj)
-- [Can Technology Save Entertainment Voting? Addressing Fraud, Fairness, and the Future](https://dev.to/teknixcorp/can-technology-save-entertainment-voting-addressing-fraud-fairness-and-the-future-n7g)
-- [When Dragons Go Missing: A Tale of URL Parameter Parsing in Phoenix LiveView](https://dev.to/meksquest/when-dragons-go-missing-a-tale-of-url-parameter-parsing-in-phoenix-liveview-224d)
+- [It’s all done in SQL, with a single sink configuration — no microservices, no glue code.](https://dev.to/__354f265b41dafa0d901b/its-all-done-in-sql-with-a-single-sink-configuration-no-microservices-no-glue-code-28ni)
+- [The AI Surge: How Large Language Models Are Transforming the Way We Code](https://dev.to/fstrube/the-ai-surge-how-large-language-models-are-transforming-the-way-we-code-2fk8)
+- [XSS Attack Types Explained — and How SafeLine WAF Stops Them](https://dev.to/sharon_42e16b8da44dabde6d/xss-attack-types-explained-and-how-safeline-waf-stops-them-12kd)
+- [What’s New in RisingWave v2.4: Event Stream Processing Platform Updates](https://dev.to/__354f265b41dafa0d901b/whats-new-in-risingwave-v24-event-stream-processing-platform-updates-4a4c)
 <!-- BLOG-POST-LIST:END -->
 
