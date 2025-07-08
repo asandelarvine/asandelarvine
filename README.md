@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Vue&#39;s Single File Components &lpar;.vue&rpar; in the browser directly, no build step](https://dev.to/thejaredwilcurt/using-vues-single-file-components-vue-in-the-browser-directly-no-build-step-50j3)
-- [🚀 What is Ethereum? A Beginner-Friendly Overview](https://dev.to/binary-r/what-is-ethereum-a-beginner-friendly-overview-4loe)
-- [Understanding Rendering in Programming: From Code to Pixels](https://dev.to/chami/understanding-rendering-in-programming-from-code-to-pixels-358h)
-- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
+- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
+- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
+- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
+- [reddit mcp热门讨论集锦](https://dev.to/dragon72463399/reddit-mcpre-men-tao-lun-ji-jin-50m1)
 <!-- BLOG-POST-LIST:END -->
 
