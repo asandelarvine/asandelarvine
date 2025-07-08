@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a TURN server? &lpar;Traversal Using Relays around NAT&rpar;](https://dev.to/metered-video/what-is-a-turn-server-traversal-using-relays-around-nat-28fg)
-- [QA Audit: A Shortcut to Software Quality and Customer Satisfaction](https://dev.to/testfort_inc/qa-audit-a-shortcut-to-software-quality-and-customer-satisfaction-4n4o)
-- [Beyond the Basics: Advanced Custom Theme Building in WordPress](https://dev.to/muhammadmedhat/beyond-the-basics-advanced-custom-theme-building-in-wordpress-4068)
-- [Mastering Asynchronous Programming Patterns Task Modern Web](https://dev.to/github-recommend/mastering-asynchronous-programming-patterns-task-modern-web-4c16)
+- [Great Vue example project](https://dev.to/dbavedb/great-vue-example-project-51g3)
+- [What is NER in NLP? Real-World Examples and Use Cases Using Python and spaCy](https://dev.to/datatoinfinity/what-is-ner-in-nlp-real-world-examples-and-use-cases-using-python-and-spacy-7ik)
+- [UGC vs. AIGC vs. AI-UGC](https://dev.to/synergy_shock/ugc-vs-aigc-vs-ai-ugc-3anm)
+- [AI-Powered Image Prompt Generator for Faster App Creation](https://dev.to/kakra/ai-powered-image-prompt-generator-for-faster-app-creation-408i)
 <!-- BLOG-POST-LIST:END -->
 
