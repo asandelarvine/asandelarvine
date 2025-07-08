@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you confident your data won&#39;t be exposed when using AI?](https://dev.to/elliotrpmorris/are-you-confident-your-data-wont-be-exposed-when-using-ai-39ce)
-- [Introducing multi_select_flutter_custom: A Customizable Multi-Select Widget for Flutter Apps](https://dev.to/sharrmapallavii/introducing-multiselectfluttercustom-a-customizable-multi-select-widget-for-flutter-apps-3gmb)
-- [SQL Expressions in Rust](https://dev.to/romaninsh/sql-expressions-in-rust-4p5n)
-- [Shift-right testing with load testing metrics](https://dev.to/gatling/shift-right-testing-with-load-testing-metrics-k7)
+- [FHIRPath: A Deep Dive into Static Type Analysis for Robust Tooling](https://dev.to/health_samurai/fhirpath-a-deep-dive-into-static-type-analysis-for-robust-tooling-3bl7)
+- [How to Translate Subtitles for Professional Videos](https://dev.to/colinreed/how-to-translate-subtitles-for-professional-videos-28k0)
+- [Say Goodbye to Try-Catch: Smart Async Error Handling in Express 🚀](https://dev.to/dev-rashedin/say-goodbye-to-try-catch-smart-async-error-handling-in-express-33hi)
+- [5 Tips to Boost Your Productivity as a Developer](https://dev.to/jackson_misiocha_36e7ab5b/5-tips-to-boost-your-productivity-as-a-developer-4eo9)
 <!-- BLOG-POST-LIST:END -->
 
