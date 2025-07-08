@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Vue example project](https://dev.to/dbavedb/great-vue-example-project-51g3)
-- [What is NER in NLP? Real-World Examples and Use Cases Using Python and spaCy](https://dev.to/datatoinfinity/what-is-ner-in-nlp-real-world-examples-and-use-cases-using-python-and-spacy-7ik)
-- [UGC vs. AIGC vs. AI-UGC](https://dev.to/synergy_shock/ugc-vs-aigc-vs-ai-ugc-3anm)
-- [AI-Powered Image Prompt Generator for Faster App Creation](https://dev.to/kakra/ai-powered-image-prompt-generator-for-faster-app-creation-408i)
+- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/zaman_mehmood_5e97598d28f/github-and-ec2-manual-deployment-with-deploy-keys-1f9e)
+- [Why I Ditched API Routes for Server Actions in Next.js](https://dev.to/adamp78/why-i-ditched-api-routes-for-server-actions-in-nextjs-b16)
+- [Big Data Fundamentals: hbase with python](https://dev.to/devopsfundamentals/big-data-fundamentals-hbase-with-python-2h8g)
+- [One Month into GSoC with AOSSIE: My Journey Building Perspective](https://dev.to/parag_ghatage_dev124/one-month-into-gsoc-with-aossie-my-journey-building-perspective-3j51)
 <!-- BLOG-POST-LIST:END -->
 
