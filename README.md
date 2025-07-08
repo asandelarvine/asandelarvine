@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Way to go](https://dev.to/michael_edwardsothieno_2/way-to-go-245b)
-- [⚙️ Stop Repeating Yourself: How Task Automation Can Make You a Smarter, Faster Developer](https://dev.to/okoye_ndidiamaka_5e3b7d30/stop-repeating-yourself-how-task-automation-can-make-you-a-smarter-faster-developer-4ffh)
-- [How to Build Your First AI Agent &lpar;The Developer’s Quickstart Manual&rpar;](https://dev.to/alifar/how-to-build-your-first-ai-agent-the-developers-quickstart-manual-2b39)
-- [Express-style routing in Next.js APIs with next-edge-router](https://dev.to/araldhafeeri/express-style-routing-in-nextjs-apis-with-next-edge-router-17l0)
+- [Understanding Annotations, Beans, Spring Container &amp; Dependency Injection in Spring Boot](https://dev.to/elayaraj31/understanding-annotations-beans-spring-container-dependency-injection-in-spring-boot-20c3)
+- [The Rise of AI Vibe Coding: Latest Innovations in 2025](https://dev.to/alshaercode/the-rise-of-ai-vibe-coding-latest-innovations-in-2025-4kc9)
+- [Website Design &amp; Front-end Development](https://dev.to/kaoria/website-design-front-end-development-2mef)
+- [The state of Agentic AI and the need for Agentic Memory](https://dev.to/surrealdb/the-state-of-agentic-ai-and-the-need-for-agentic-memory-gjb)
 <!-- BLOG-POST-LIST:END -->
 
