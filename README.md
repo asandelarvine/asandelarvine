@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
-- [Top 5 Mistakes to Avoid in Regression Testing](https://dev.to/misterankit/top-5-mistakes-to-avoid-in-regression-testing-5e7c)
-- [🔑 Amazon Bedrock API Keys: Autenticación Simplificada para Desarrolladores](https://dev.to/aws-espanol/amazon-bedrock-api-keys-autenticacion-simplificada-para-desarrolladores-41pg)
-- [FIRST DAY JAVA TRAINING](https://dev.to/selvakumar_r_4bac08f5eaa6/first-day-java-training-1o0p)
+- [การใช้ docker compose ในการติดตั้ง gitlab ใน rocky linux](https://dev.to/cross1308/kaaraich-docker-compose-ainkaartidtang-gitlab-ain-rocky-linux-51m5)
+- [1751. Maximum Number of Events That Can Be Attended II](https://dev.to/mdarifulhaque/1751-maximum-number-of-events-that-can-be-attended-ii-102a)
+- [Building a Real-Time CPU Monitor for macOS with xbar](https://dev.to/ravgeetdhillon/building-a-real-time-cpu-monitor-for-macos-with-xbar-4nch)
+- [Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/switch-between-installed-php-versions-on-linux-5752)
 <!-- BLOG-POST-LIST:END -->
 
