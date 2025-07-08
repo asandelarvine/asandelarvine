@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Entry Level: beginner text editor](https://dev.to/devopsfundamentals/programming-entry-level-beginner-text-editor-58b3)
-- [🤖 Part 3: Building a Price Recommendation Engine with Pandas and Scikit-Learn](https://dev.to/qvfagundes/part-3-building-a-price-recommendation-engine-with-pandas-and-scikit-learn-2pk9)
-- [How I Built a Hospital Patient Management System Using SQL](https://dev.to/akansrodger/how-i-built-a-hospital-patient-management-system-using-sql-43a6)
-- [Next.js: React&#39;s Glow-Up Era](https://dev.to/ana_almonte029/nextjs-reacts-glow-up-era-586c)
+- [My post on GenAI!!](https://dev.to/rishirajbal/my-post-on-genai-2jjj)
+- [[Personal Project #9] UEFA Women’s Euro 2025: Why Is Spain Dominating](https://dev.to/ezeeyeyo/personal-project-9-uefa-womens-euro-2025-why-is-spain-dominating-1f6d)
+- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
+- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
 <!-- BLOG-POST-LIST:END -->
 
