@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
-- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
-- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
-- [reddit mcp热门讨论集锦](https://dev.to/dragon72463399/reddit-mcpre-men-tao-lun-ji-jin-50m1)
+- [Ringer Movies: ‘Jurassic World Rebirth&#39; Does Not Find a Way. Plus: ‘The Odyssey&#39; Is Coming! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-jurassic-world-rebirth-does-not-find-a-way-plus-the-odyssey-is-coming-the-291j)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-41k0)
+- [Ringer Movies: The 2025 Movie Auction Returns! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-2025-movie-auction-returns-the-big-picture-54ac)
+- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-1lb4)
 <!-- BLOG-POST-LIST:END -->
 
