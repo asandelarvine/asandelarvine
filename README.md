@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s all done in SQL, with a single sink configuration — no microservices, no glue code.](https://dev.to/__354f265b41dafa0d901b/its-all-done-in-sql-with-a-single-sink-configuration-no-microservices-no-glue-code-28ni)
-- [The AI Surge: How Large Language Models Are Transforming the Way We Code](https://dev.to/fstrube/the-ai-surge-how-large-language-models-are-transforming-the-way-we-code-2fk8)
-- [XSS Attack Types Explained — and How SafeLine WAF Stops Them](https://dev.to/sharon_42e16b8da44dabde6d/xss-attack-types-explained-and-how-safeline-waf-stops-them-12kd)
-- [What’s New in RisingWave v2.4: Event Stream Processing Platform Updates](https://dev.to/__354f265b41dafa0d901b/whats-new-in-risingwave-v24-event-stream-processing-platform-updates-4a4c)
+- [Unauthenticated SQL Injection Found in Weaver e-cology Platform](https://dev.to/sharon_42e16b8da44dabde6d/unauthenticated-sql-injection-found-in-weaver-e-cology-platform-jng)
+- [Linux Kernel Fundamentals](https://dev.to/godofgeeks/linux-kernel-fundamentals-453l)
+- [NodeJS Fundamentals: debugger](https://dev.to/devopsfundamentals/nodejs-fundamentals-debugger-b0g)
+- [Unlock the Power of Real‑Time HubSpot CRM Automation](https://dev.to/__354f265b41dafa0d901b/unlock-the-power-of-real-time-hubspot-crm-automation-4m34)
 <!-- BLOG-POST-LIST:END -->
 
