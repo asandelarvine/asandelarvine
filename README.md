@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [การใช้ docker compose ในการติดตั้ง gitlab ใน rocky linux](https://dev.to/cross1308/kaaraich-docker-compose-ainkaartidtang-gitlab-ain-rocky-linux-51m5)
-- [1751. Maximum Number of Events That Can Be Attended II](https://dev.to/mdarifulhaque/1751-maximum-number-of-events-that-can-be-attended-ii-102a)
-- [Building a Real-Time CPU Monitor for macOS with xbar](https://dev.to/ravgeetdhillon/building-a-real-time-cpu-monitor-for-macos-with-xbar-4nch)
-- [Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/switch-between-installed-php-versions-on-linux-5752)
+- [10 Cool CodePen Demos &lpar;June 2025&rpar; + A talk with Ben Evans](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2025-dme)
+- [Un Agente simple para realizar resumen del contenido de sitios web con Embabel](https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj)
+- [Can Technology Save Entertainment Voting? Addressing Fraud, Fairness, and the Future](https://dev.to/teknixcorp/can-technology-save-entertainment-voting-addressing-fraud-fairness-and-the-future-n7g)
+- [When Dragons Go Missing: A Tale of URL Parameter Parsing in Phoenix LiveView](https://dev.to/meksquest/when-dragons-go-missing-a-tale-of-url-parameter-parsing-in-phoenix-liveview-224d)
 <!-- BLOG-POST-LIST:END -->
 
