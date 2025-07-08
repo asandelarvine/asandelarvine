@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Jurassic World Rebirth&#39; Does Not Find a Way. Plus: ‘The Odyssey&#39; Is Coming! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-jurassic-world-rebirth-does-not-find-a-way-plus-the-odyssey-is-coming-the-291j)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-41k0)
-- [Ringer Movies: The 2025 Movie Auction Returns! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-2025-movie-auction-returns-the-big-picture-54ac)
-- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-1lb4)
+- [Machine Learning Fundamentals: confusion matrix project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-confusion-matrix-project-3j6l)
+- [The &quot;Anchor Offer&quot; Tactic](https://dev.to/thetechpreneur/the-anchor-offer-tactic-3g3j)
+- [🔧 Must-Know VS Code Settings &amp; Playwright Extension Features for Test Automation](https://dev.to/wishinfinite/must-know-vs-code-settings-playwright-extension-features-for-test-automation-1im3)
+- [nullptr in C23](https://dev.to/pauljlucas/nullptr-in-c23-1cn6)
 <!-- BLOG-POST-LIST:END -->
 
