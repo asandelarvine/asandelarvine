@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Choosing Rust and Go for Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-choosing-rust-and-go-for-backend-systems-meh)
-- [Next.js ওয়েবসাইট Hostinger VPS-এ ডিপ্লয় ডকুমেন্টেশন](https://dev.to/tariqul420/nextjs-oyebsaaitt-hostinger-vps-e-ddiply-ddkumentteshn-2pc)
-- [3 Issues That Remote MCP Developers Should Avoid](https://dev.to/portia-ai/3-issues-that-remote-mcp-developers-should-avoid-226o)
-- [Deployment Automation 1](https://dev.to/github-recommend/deployment-automation-1-1343)
+- [What is a TURN server? &lpar;Traversal Using Relays around NAT&rpar;](https://dev.to/metered-video/what-is-a-turn-server-traversal-using-relays-around-nat-28fg)
+- [QA Audit: A Shortcut to Software Quality and Customer Satisfaction](https://dev.to/testfort_inc/qa-audit-a-shortcut-to-software-quality-and-customer-satisfaction-4n4o)
+- [Beyond the Basics: Advanced Custom Theme Building in WordPress](https://dev.to/muhammadmedhat/beyond-the-basics-advanced-custom-theme-building-in-wordpress-4068)
+- [Mastering Asynchronous Programming Patterns Task Modern Web](https://dev.to/github-recommend/mastering-asynchronous-programming-patterns-task-modern-web-4c16)
 <!-- BLOG-POST-LIST:END -->
 
