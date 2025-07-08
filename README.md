@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O que a ciência tem revelado sobre a saúde do coração?](https://dev.to/imfpressglobal/o-que-a-ciencia-tem-revelado-sobre-a-saude-do-coracao-4a9o)
-- [HTML pen](https://dev.to/abrar_hussain_8987ff73128/html-pen-4d07)
-- [The Real Breach Happens After the Login: How Privilege Escalation Fuels Cyber Attacks](https://dev.to/nullc0d3/the-real-breach-happens-after-the-login-how-privilege-escalation-fuels-cyber-attacks-4684)
-- [7 Basic Git Commands](https://dev.to/aerabi/7-basic-git-commands-4h6n)
+- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
+- [Top 5 Mistakes to Avoid in Regression Testing](https://dev.to/misterankit/top-5-mistakes-to-avoid-in-regression-testing-5e7c)
+- [🔑 Amazon Bedrock API Keys: Autenticación Simplificada para Desarrolladores](https://dev.to/aws-espanol/amazon-bedrock-api-keys-autenticacion-simplificada-para-desarrolladores-41pg)
+- [FIRST DAY JAVA TRAINING](https://dev.to/selvakumar_r_4bac08f5eaa6/first-day-java-training-1o0p)
 <!-- BLOG-POST-LIST:END -->
 
