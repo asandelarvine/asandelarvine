@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 From Hive and Elastic to ClickHouse: What Surprised Me](https://dev.to/mohhddhassan/from-hive-and-elastic-to-clickhouse-what-surprised-me-24ak)
-- [Audience Matters!](https://dev.to/dvjosefr/audience-matters-4fjk)
-- [If a deployment fails in production!](https://dev.to/renukapatil/if-a-deployment-fails-in-production-318a)
-- [How I Automated a Shopify Store with AI, APIs and No-Code Tools](https://dev.to/alifar/how-i-automated-a-shopify-store-with-ai-apis-and-no-code-tools-36gg)
+- [Are you confident your data won&#39;t be exposed when using AI?](https://dev.to/elliotrpmorris/are-you-confident-your-data-wont-be-exposed-when-using-ai-39ce)
+- [Introducing multi_select_flutter_custom: A Customizable Multi-Select Widget for Flutter Apps](https://dev.to/sharrmapallavii/introducing-multiselectfluttercustom-a-customizable-multi-select-widget-for-flutter-apps-3gmb)
+- [SQL Expressions in Rust](https://dev.to/romaninsh/sql-expressions-in-rust-4p5n)
+- [Shift-right testing with load testing metrics](https://dev.to/gatling/shift-right-testing-with-load-testing-metrics-k7)
 <!-- BLOG-POST-LIST:END -->
 
