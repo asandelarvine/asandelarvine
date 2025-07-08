@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unauthenticated SQL Injection Found in Weaver e-cology Platform](https://dev.to/sharon_42e16b8da44dabde6d/unauthenticated-sql-injection-found-in-weaver-e-cology-platform-jng)
-- [Linux Kernel Fundamentals](https://dev.to/godofgeeks/linux-kernel-fundamentals-453l)
-- [NodeJS Fundamentals: debugger](https://dev.to/devopsfundamentals/nodejs-fundamentals-debugger-b0g)
-- [Unlock the Power of Real‑Time HubSpot CRM Automation](https://dev.to/__354f265b41dafa0d901b/unlock-the-power-of-real-time-hubspot-crm-automation-4m34)
+- [Way to go](https://dev.to/michael_edwardsothieno_2/way-to-go-245b)
+- [⚙️ Stop Repeating Yourself: How Task Automation Can Make You a Smarter, Faster Developer](https://dev.to/okoye_ndidiamaka_5e3b7d30/stop-repeating-yourself-how-task-automation-can-make-you-a-smarter-faster-developer-4ffh)
+- [How to Build Your First AI Agent &lpar;The Developer’s Quickstart Manual&rpar;](https://dev.to/alifar/how-to-build-your-first-ai-agent-the-developers-quickstart-manual-2b39)
+- [Express-style routing in Next.js APIs with next-edge-router](https://dev.to/araldhafeeri/express-style-routing-in-nextjs-apis-with-next-edge-router-17l0)
 <!-- BLOG-POST-LIST:END -->
 
