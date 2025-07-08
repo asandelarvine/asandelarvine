@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detox Week](https://dev.to/cargdev/detox-week-4k6h)
-- [Building a Slack AI Chatbot to Process PDF Content with n8n](https://dev.to/aihacks/building-a-slack-ai-chatbot-to-process-pdf-content-with-n8n-14hi)
-- [Built an AI Agent using Strands Agents SDK](https://dev.to/aws-builders/built-an-ai-agent-using-strands-agents-sdk-2o55)
-- [One-Stop Developer Guide to Prompt Engineering Across OpenAI, Anthropic, and Google](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)
+- [O que a ciência tem revelado sobre a saúde do coração?](https://dev.to/imfpressglobal/o-que-a-ciencia-tem-revelado-sobre-a-saude-do-coracao-4a9o)
+- [HTML pen](https://dev.to/abrar_hussain_8987ff73128/html-pen-4d07)
+- [The Real Breach Happens After the Login: How Privilege Escalation Fuels Cyber Attacks](https://dev.to/nullc0d3/the-real-breach-happens-after-the-login-how-privilege-escalation-fuels-cyber-attacks-4684)
+- [7 Basic Git Commands](https://dev.to/aerabi/7-basic-git-commands-4h6n)
 <!-- BLOG-POST-LIST:END -->
 
