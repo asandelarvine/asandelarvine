@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FHIRPath: A Deep Dive into Static Type Analysis for Robust Tooling](https://dev.to/health_samurai/fhirpath-a-deep-dive-into-static-type-analysis-for-robust-tooling-3bl7)
-- [How to Translate Subtitles for Professional Videos](https://dev.to/colinreed/how-to-translate-subtitles-for-professional-videos-28k0)
-- [Say Goodbye to Try-Catch: Smart Async Error Handling in Express 🚀](https://dev.to/dev-rashedin/say-goodbye-to-try-catch-smart-async-error-handling-in-express-33hi)
-- [5 Tips to Boost Your Productivity as a Developer](https://dev.to/jackson_misiocha_36e7ab5b/5-tips-to-boost-your-productivity-as-a-developer-4eo9)
+- [Using Vue&#39;s Single File Components &lpar;.vue&rpar; in the browser directly, no build step](https://dev.to/thejaredwilcurt/using-vues-single-file-components-vue-in-the-browser-directly-no-build-step-50j3)
+- [🚀 What is Ethereum? A Beginner-Friendly Overview](https://dev.to/binary-r/what-is-ethereum-a-beginner-friendly-overview-4loe)
+- [Understanding Rendering in Programming: From Code to Pixels](https://dev.to/chami/understanding-rendering-in-programming-from-code-to-pixels-358h)
+- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
 <!-- BLOG-POST-LIST:END -->
 
