@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Axero Hollistic](https://dev.to/shalom_mendonca_/axero-hollistic-3lnb)
-- [ASX 200 52 Week Highs Lows: Movement in WDS, BXB, and S32 Stocks](https://dev.to/fiona_martinez_3d96681f5b/asx-200-52-week-highs-lows-movement-in-wds-bxb-and-s32-stocks-4jpf)
-- [A Complete Overview of Same-Origin Policy &lpar;SOP&rpar; and Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/marsou001/a-complete-overview-of-same-origin-policy-sop-and-cross-origin-resource-sharing-cors-5bmo)
-- [Lock-Free Data Structures](https://dev.to/github-recommend/lock-free-data-structures-c7o)
+- [🔥 Ethereum Basics: From Wallets to Smart Contracts](https://dev.to/githaiga22/ethereum-basics-from-wallets-to-smart-contracts-44g1)
+- [🔥 Ethereum Basics: From Wallets to Smart Contracts](https://dev.to/githaiga22/ethereum-basics-from-wallets-to-smart-contracts-2kd0)
+- [HTML in a Heartbeat: Instantly Export Figma Mockups to Web-Ready Code](https://dev.to/atforeveryoung/html-in-a-heartbeat-instantly-export-figma-mockups-to-web-ready-code-34eg)
+- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
 <!-- BLOG-POST-LIST:END -->
 
