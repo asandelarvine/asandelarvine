@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coroutine Scheduler Implementation](https://dev.to/github-recommend/coroutine-scheduler-implementation-3oik)
-- [[Boost]](https://dev.to/aninomus_ani_40117b9e3804/-46pd)
-- [TypeScript 定義型別時 file.d.ts 與 file.ts 的檔名有什麼差別？What’s the difference between file.d.ts and file.ts in TypeScript](https://dev.to/kueiapp/typescript-ding-yi-xing-bie-shi-filedts-yu-filets-de-dang-ming-you-shi-mo-chai-bie-whats-the-difference-between-filedts-and-filets-9l8)
-- [It&#39;s Pointers All The Way Down](https://dev.to/knunn553/its-pointers-all-the-way-down-1m34)
+- [Time Intelligence Functions &lpar;DAX&rpar;](https://dev.to/johnkyalo/time-intelligence-functions-dax-5h6d)
+- [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
+- [Who Counts as ‘Human’ in Human-Centered Design?](https://dev.to/a11yatasurion/who-counts-as-human-in-human-centered-design-49g5)
+- [What makes Rust&#39;s compiler and runtime appealing for developers who are less experienced or prone to mistakes compared to C++?](https://dev.to/adityabhuyan/what-makes-rusts-compiler-and-runtime-appealing-for-developers-who-are-less-experienced-or-prone-55o8)
 <!-- BLOG-POST-LIST:END -->
 
