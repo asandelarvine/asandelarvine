@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/github-recommend/cross-platform-tool-building-universal-web-applications-advanced-3bhg)
-- [How to Design a Toilet Paper Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-toilet-paper-roller-using-3d-cad-software-c4l)
-- [Practical approach to interface, delegate, events in Unity](https://dev.to/kwesikwaa/practical-approach-to-interface-delegate-events-in-unity-2d57)
-- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
+- [Axero Hollistic](https://dev.to/shalom_mendonca_/axero-hollistic-3lnb)
+- [ASX 200 52 Week Highs Lows: Movement in WDS, BXB, and S32 Stocks](https://dev.to/fiona_martinez_3d96681f5b/asx-200-52-week-highs-lows-movement-in-wds-bxb-and-s32-stocks-4jpf)
+- [A Complete Overview of Same-Origin Policy &lpar;SOP&rpar; and Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/marsou001/a-complete-overview-of-same-origin-policy-sop-and-cross-origin-resource-sharing-cors-5bmo)
+- [Lock-Free Data Structures](https://dev.to/github-recommend/lock-free-data-structures-c7o)
 <!-- BLOG-POST-LIST:END -->
 
