@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache SeaTunnel Hive Deep Integration Guide: Principles, Configuration, &amp; Practice](https://dev.to/seatunnel/apache-seatunnel-x-hive-deep-integration-guide-principles-configuration-practice-2gaa)
-- [Kafka Fundamentals: kafka lag monitoring](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-lag-monitoring-2eo4)
-- [dapper and EF core](https://dev.to/renukapatil/dapper-and-ef-core-579c)
-- [How to Create Any Google Veo 3 Video Styles with json format Hack](https://dev.to/therealmrmumba/how-to-create-any-google-veo-3-video-styles-with-json-format-hack-1ond)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/github-recommend/cross-platform-tool-building-universal-web-applications-advanced-3bhg)
+- [How to Design a Toilet Paper Roller Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-toilet-paper-roller-using-3d-cad-software-c4l)
+- [Practical approach to interface, delegate, events in Unity](https://dev.to/kwesikwaa/practical-approach-to-interface-delegate-events-in-unity-2d57)
+- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
 <!-- BLOG-POST-LIST:END -->
 
