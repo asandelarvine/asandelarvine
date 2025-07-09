@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Design Philosophy Patterns High Web](https://dev.to/github-recommend/context-design-philosophy-patterns-high-web-1b08)
-- [Hi friends, Day 2 of learning html today we learned 1&rpar; sementric element &lt;header&gt; &lt;section&gt; &lt;nav&gt; &lt;footer&gt; 2&rpar; list of elements Block line element Inline element 3&rpar; create list of items Order list &lt;ol&gt;&lt;/ol&gt; Unorder list &lt;ul&gt;&lt;/ul&gt; Thank you](https://dev.to/anitha_veda/hi-friends-day-2-of-learning-html-today-we-learned-1-sementric-element-38gh)
-- [Code vs LLM in a simple planning poker agent example](https://dev.to/portia-ai/code-vs-llm-in-a-simple-planning-poker-agent-example-5dg0)
-- [How to Create an EC2 Instance on AWS](https://dev.to/dj_orchido/how-to-create-an-ec2-instance-on-aws-56gl)
+- [Configurando ambiente Node.js do zero](https://dev.to/lucaspereiradesouzat/configurando-ambiente-nodejs-do-zero-5b9i)
+- [Redis on AWS](https://dev.to/vishnuvg/redis-on-aws-32kg)
+- [Reactive HTML Without JavaScript Frameworks 🔥](https://dev.to/thinnguyenqb/reactive-html-without-javascript-frameworks-2001)
+- [From Struggle to Solution-An Approach to Solving a programming problem using #650.Leetcode&#39;s 2 keys keyboard as an example](https://dev.to/hectorw_tt/from-struggle-to-solution-an-approach-to-solving-a-programming-problem-using-650leetcodes-2-keys-1a6i)
 <!-- BLOG-POST-LIST:END -->
 
