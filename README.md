@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
-- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
-- [Shopify Development Tips That Increase Sales in 2025](https://dev.to/omatic_growth/shopify-development-tips-that-increase-sales-in-2025-4nn6)
-- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
+- [Getting started with TensorflowJS](https://dev.to/eerk/getting-started-with-tensorflowjs-3ilb)
+- [Minha Primeira Experiência como Tech Leader: Uma Transição para um Papel Híbrido](https://dev.to/fabaohs/minha-primeira-experiencia-como-tech-leader-uma-transicao-para-um-papel-hibrido-48na)
+- [How to Use macOS 26 Beta Inside a VM Without Third-Party Apps](https://dev.to/belous/how-to-use-macos-26-beta-inside-a-vm-without-third-party-apps-4j21)
+- [Big Data Fundamentals: delta lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-project-1fak)
 <!-- BLOG-POST-LIST:END -->
 
