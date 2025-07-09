@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Me sinto bom mas não o suficiente, o que fazer?](https://dev.to/higorxi/me-sinto-bom-mas-nao-o-suficiente-o-que-fazer-3dnp)
-- [AWS Beginners Learning Journey - A Technical Guide [Part-1]](https://dev.to/suvrajeet/aws-beginners-learning-journey-a-technical-guide-part-1-4hpg)
-- [# How to Investigate a Compromised Linux Server](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
-- [Top 5 Code-Level Techniques to Handle High Traffic in Spring Boot: Part 1](https://dev.to/abhijithzero/top-5-code-level-techniques-to-handle-high-traffic-in-spring-boot-part-1-29en)
+- [🚀 Criando um Banco Digital com .NET 8: DDD, CQRS, JWT, Docker e mais!](https://dev.to/alex_feitoza_e1b15034d5e7/criando-um-banco-digital-com-net-8-ddd-cqrs-jwt-docker-e-mais-3om9)
+- [How HDDs and SSDs Store Data The Block Storage Model](https://dev.to/sachin_tolay_052a7e539e57/how-hdds-and-ssds-store-data-the-block-storage-model-4m9i)
+- [Programming Entry Level: for beginners terminal](https://dev.to/devopsfundamentals/programming-entry-level-for-beginners-terminal-136h)
+- [JavaScript: Execution Context &amp; this Made Easy](https://dev.to/faeizmn/javascript-execution-context-this-made-easy-22ck)
 <!-- BLOG-POST-LIST:END -->
 
