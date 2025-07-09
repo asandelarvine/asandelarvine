@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Criando um Banco Digital com .NET 8: DDD, CQRS, JWT, Docker e mais!](https://dev.to/alex_feitoza_e1b15034d5e7/criando-um-banco-digital-com-net-8-ddd-cqrs-jwt-docker-e-mais-3om9)
-- [How HDDs and SSDs Store Data The Block Storage Model](https://dev.to/sachin_tolay_052a7e539e57/how-hdds-and-ssds-store-data-the-block-storage-model-4m9i)
-- [Programming Entry Level: for beginners terminal](https://dev.to/devopsfundamentals/programming-entry-level-for-beginners-terminal-136h)
-- [JavaScript: Execution Context &amp; this Made Easy](https://dev.to/faeizmn/javascript-execution-context-this-made-easy-22ck)
+- [How Brand and Market Dynamics Shape Fashion Pricing](https://dev.to/blkbusiness/how-brand-and-market-dynamics-shape-fashion-pricing-351o)
+- [New project deployed on AWS! Wi-Fi Connectivity Notification!](https://dev.to/marcelomagario/new-project-deployed-on-aws-wi-fi-connectivity-notification-3fcn)
+- [Programming Entry Level: guide dictionaries](https://dev.to/devopsfundamentals/programming-entry-level-guide-dictionaries-b61)
+- [Fun with Postgres Recovery](https://dev.to/misachi/fun-with-postgres-recovery-f5e)
 <!-- BLOG-POST-LIST:END -->
 
