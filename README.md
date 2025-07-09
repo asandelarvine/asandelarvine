@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Build Your Own Developer Avatar with Google AI Studio — My Submission for the DEV Education Track](https://dev.to/om_shree_0709/build-your-own-developer-avatar-with-google-ai-studio-my-submission-for-the-dev-education-track-3hj4)
-- [C++ with no classes?](https://dev.to/pvsdev/c-with-no-classes-4adm)
-- [How to Secure a Website and How SafeLine Helps](https://dev.to/carrie_luo1/how-to-secure-a-website-and-how-safeline-helps-6ec)
-- [After the Hack: What Comes Next](https://dev.to/0xtommythomas/after-the-hack-what-comes-next-mbj)
+- [How to Use import/export in JavaScript ES6 Modules](https://dev.to/devshefali/how-to-use-importexport-in-javascript-es6-modules-19a9)
+- [Scraping Twitter in 2025: A Developer&#39;s Guide to Surviving the API Apocalypse](https://dev.to/sivarampg/scraping-twitter-in-2025-a-developers-guide-to-surviving-the-api-apocalypse-5bbd)
+- [Why delaying your CMS Upgrade costs more than you think](https://dev.to/flotiq/why-delaying-your-cms-upgrade-costs-more-than-you-think-c1k)
+- [Devlog#1 SlideMD](https://dev.to/kongsakchai/devlog1-slidemd-422f)
 <!-- BLOG-POST-LIST:END -->
 
