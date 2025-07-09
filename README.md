@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Ethereum Basics: From Wallets to Smart Contracts](https://dev.to/githaiga22/ethereum-basics-from-wallets-to-smart-contracts-44g1)
-- [🔥 Ethereum Basics: From Wallets to Smart Contracts](https://dev.to/githaiga22/ethereum-basics-from-wallets-to-smart-contracts-2kd0)
-- [HTML in a Heartbeat: Instantly Export Figma Mockups to Web-Ready Code](https://dev.to/atforeveryoung/html-in-a-heartbeat-instantly-export-figma-mockups-to-web-ready-code-34eg)
-- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
+- [GitHub Integration in VS Code Using Docker MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/github-integration-in-vs-code-using-docker-mcp-a-step-by-step-tutorial-3ddg)
+- [Getting started with Claude 4 API: A developer’s walkthrough](https://dev.to/logrocket/getting-started-with-claude-4-api-a-developers-walkthrough-1n1b)
+- [🚀 What’s New in Ruby 3.4 – The Language We Love Keeps Getting Sharper](https://dev.to/obaidaashfaq20/whats-new-in-ruby-34-the-language-we-love-keeps-getting-sharper-1e10)
+- [Building a Modern, Type-Safe Authentication System for Django REST Framework](https://dev.to/huynguyengl99/building-a-modern-type-safe-authentication-system-for-django-rest-framework-c42)
 <!-- BLOG-POST-LIST:END -->
 
