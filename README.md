@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use import/export in JavaScript ES6 Modules](https://dev.to/devshefali/how-to-use-importexport-in-javascript-es6-modules-19a9)
-- [Scraping Twitter in 2025: A Developer&#39;s Guide to Surviving the API Apocalypse](https://dev.to/sivarampg/scraping-twitter-in-2025-a-developers-guide-to-surviving-the-api-apocalypse-5bbd)
-- [Why delaying your CMS Upgrade costs more than you think](https://dev.to/flotiq/why-delaying-your-cms-upgrade-costs-more-than-you-think-c1k)
-- [Devlog#1 SlideMD](https://dev.to/kongsakchai/devlog1-slidemd-422f)
+- [Apache SeaTunnel Hive Deep Integration Guide: Principles, Configuration, &amp; Practice](https://dev.to/seatunnel/apache-seatunnel-x-hive-deep-integration-guide-principles-configuration-practice-2gaa)
+- [Kafka Fundamentals: kafka lag monitoring](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-lag-monitoring-2eo4)
+- [dapper and EF core](https://dev.to/renukapatil/dapper-and-ef-core-579c)
+- [How to Create Any Google Veo 3 Video Styles with json format Hack](https://dev.to/therealmrmumba/how-to-create-any-google-veo-3-video-styles-with-json-format-hack-1ond)
 <!-- BLOG-POST-LIST:END -->
 
