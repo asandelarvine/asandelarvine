@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 “Google Alert: Someone Just Logged In?” — Don’t Fall for the Phishing Trap](https://dev.to/sybersecure/google-alert-someone-just-logged-in-dont-fall-for-the-phishing-trap-3d6m)
-- [Do you remember the first time you saw a computer? 🤔](https://dev.to/canro91/do-you-remember-the-first-time-you-saw-a-computer-4cem)
-- [Speed Revolution Asynchronous Modern Web Frameworks](https://dev.to/github-recommend/speed-revolution-asynchronous-modern-web-frameworks-3o6d)
-- [miei primi due repository open-source: DockerDevBase e DockerDevKit](https://dev.to/santifromsicily/miei-primi-due-repository-open-source-dockerdevbase-e-dockerdevkit-52ff)
+- [Context Design Philosophy Patterns High Web](https://dev.to/github-recommend/context-design-philosophy-patterns-high-web-1b08)
+- [Hi friends, Day 2 of learning html today we learned 1&rpar; sementric element &lt;header&gt; &lt;section&gt; &lt;nav&gt; &lt;footer&gt; 2&rpar; list of elements Block line element Inline element 3&rpar; create list of items Order list &lt;ol&gt;&lt;/ol&gt; Unorder list &lt;ul&gt;&lt;/ul&gt; Thank you](https://dev.to/anitha_veda/hi-friends-day-2-of-learning-html-today-we-learned-1-sementric-element-38gh)
+- [Code vs LLM in a simple planning poker agent example](https://dev.to/portia-ai/code-vs-llm-in-a-simple-planning-poker-agent-example-5dg0)
+- [How to Create an EC2 Instance on AWS](https://dev.to/dj_orchido/how-to-create-an-ec2-instance-on-aws-56gl)
 <!-- BLOG-POST-LIST:END -->
 
