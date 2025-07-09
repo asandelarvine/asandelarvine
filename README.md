@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
+- [🐨Beginner-Friendly Guide &quot;Maximize Free Time by Rescheduling Meetings&quot; – LeetCode 3439 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-free-time-by-rescheduling-meetings-leetcode-3439-c--299l)
 - [Time Intelligence Functions &lpar;DAX&rpar;](https://dev.to/johnkyalo/time-intelligence-functions-dax-5h6d)
 - [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
-- [Who Counts as ‘Human’ in Human-Centered Design?](https://dev.to/a11yatasurion/who-counts-as-human-in-human-centered-design-49g5)
-- [What makes Rust&#39;s compiler and runtime appealing for developers who are less experienced or prone to mistakes compared to C++?](https://dev.to/adityabhuyan/what-makes-rusts-compiler-and-runtime-appealing-for-developers-who-are-less-experienced-or-prone-55o8)
 <!-- BLOG-POST-LIST:END -->
 
