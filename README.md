@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My post on GenAI!!](https://dev.to/rishirajbal/my-post-on-genai-2jjj)
-- [[Personal Project #9] UEFA Women’s Euro 2025: Why Is Spain Dominating](https://dev.to/ezeeyeyo/personal-project-9-uefa-womens-euro-2025-why-is-spain-dominating-1f6d)
-- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
-- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
+- [Coroutine Scheduler Implementation](https://dev.to/github-recommend/coroutine-scheduler-implementation-3oik)
+- [[Boost]](https://dev.to/aninomus_ani_40117b9e3804/-46pd)
+- [TypeScript 定義型別時 file.d.ts 與 file.ts 的檔名有什麼差別？What’s the difference between file.d.ts and file.ts in TypeScript](https://dev.to/kueiapp/typescript-ding-yi-xing-bie-shi-filedts-yu-filets-de-dang-ming-you-shi-mo-chai-bie-whats-the-difference-between-filedts-and-filets-9l8)
+- [It&#39;s Pointers All The Way Down](https://dev.to/knunn553/its-pointers-all-the-way-down-1m34)
 <!-- BLOG-POST-LIST:END -->
 
