@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Integration in VS Code Using Docker MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/github-integration-in-vs-code-using-docker-mcp-a-step-by-step-tutorial-3ddg)
-- [Getting started with Claude 4 API: A developer’s walkthrough](https://dev.to/logrocket/getting-started-with-claude-4-api-a-developers-walkthrough-1n1b)
-- [🚀 What’s New in Ruby 3.4 – The Language We Love Keeps Getting Sharper](https://dev.to/obaidaashfaq20/whats-new-in-ruby-34-the-language-we-love-keeps-getting-sharper-1e10)
-- [Building a Modern, Type-Safe Authentication System for Django REST Framework](https://dev.to/huynguyengl99/building-a-modern-type-safe-authentication-system-for-django-rest-framework-c42)
+- [GameSpot: Delivering Nothing But PAIN In Death Stranding 2 - Brutal Difficulty Gameplay](https://dev.to/gg_news/gamespot-delivering-nothing-but-pain-in-death-stranding-2-brutal-difficulty-gameplay-35cj)
+- [GameSpot: Donkey Kong Bananza Looks Like The Mario Odyssey Successor No One Expected | Hands-On Impressions](https://dev.to/gg_news/gamespot-donkey-kong-bananza-looks-like-the-mario-odyssey-successor-no-one-expected-hands-on-3ndf)
+- [GameSpot: Rematch GameSpot Review](https://dev.to/gg_news/gamespot-rematch-gamespot-review-53gi)
+- [GameSpot: You Win Some, Lose Some - Tony Hawk&#39;s Pro Skater 3+4 GameSpot Review](https://dev.to/gg_news/gamespot-you-win-some-lose-some-tony-hawks-pro-skater-34-gamespot-review-1n3m)
 <!-- BLOG-POST-LIST:END -->
 
