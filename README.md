@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configurando ambiente Node.js do zero](https://dev.to/lucaspereiradesouzat/configurando-ambiente-nodejs-do-zero-5b9i)
-- [Redis on AWS](https://dev.to/vishnuvg/redis-on-aws-32kg)
-- [Reactive HTML Without JavaScript Frameworks 🔥](https://dev.to/thinnguyenqb/reactive-html-without-javascript-frameworks-2001)
-- [From Struggle to Solution-An Approach to Solving a programming problem using #650.Leetcode&#39;s 2 keys keyboard as an example](https://dev.to/hectorw_tt/from-struggle-to-solution-an-approach-to-solving-a-programming-problem-using-650leetcodes-2-keys-1a6i)
+- [Big Data Fundamentals: delta lake example](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-example-3ncg)
+- [Tired of Static Figures? Blokees Lets You Build the Legends Yourself](https://dev.to/katherineboyarsky/tired-of-static-figures-blokees-lets-you-build-the-legends-yourself-5d3c)
+- [Shopify Development Tips That Increase Sales in 2025](https://dev.to/omatic_growth/shopify-development-tips-that-increase-sales-in-2025-4nn6)
+- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
 <!-- BLOG-POST-LIST:END -->
 
