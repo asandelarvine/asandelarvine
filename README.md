@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with TensorflowJS](https://dev.to/eerk/getting-started-with-tensorflowjs-3ilb)
-- [Minha Primeira Experiência como Tech Leader: Uma Transição para um Papel Híbrido](https://dev.to/fabaohs/minha-primeira-experiencia-como-tech-leader-uma-transicao-para-um-papel-hibrido-48na)
-- [How to Use macOS 26 Beta Inside a VM Without Third-Party Apps](https://dev.to/belous/how-to-use-macos-26-beta-inside-a-vm-without-third-party-apps-4j21)
-- [Big Data Fundamentals: delta lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-delta-lake-project-1fak)
+- [Me sinto bom mas não o suficiente, o que fazer?](https://dev.to/higorxi/me-sinto-bom-mas-nao-o-suficiente-o-que-fazer-3dnp)
+- [AWS Beginners Learning Journey - A Technical Guide [Part-1]](https://dev.to/suvrajeet/aws-beginners-learning-journey-a-technical-guide-part-1-4hpg)
+- [# How to Investigate a Compromised Linux Server](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
+- [Top 5 Code-Level Techniques to Handle High Traffic in Spring Boot: Part 1](https://dev.to/abhijithzero/top-5-code-level-techniques-to-handle-high-traffic-in-spring-boot-part-1-29en)
 <!-- BLOG-POST-LIST:END -->
 
