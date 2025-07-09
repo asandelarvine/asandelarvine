@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Tool to Help Someone Sleep Better — Meet Veo3](https://dev.to/duker/i-built-an-ai-tool-to-help-someone-sleep-better-meet-veo3-41ej)
-- [Calling All NodeJS Wizards: What Would You Add to the Ultimate Boilerplate?](https://dev.to/anchildress11/calling-all-nodejs-wizards-what-would-you-add-to-the-ultimate-boilerplate-38aj)
-- [Cook, Connect, Collaborate: Top Group Cooking Activities for Teams](https://dev.to/sosparty/cook-connect-collaborate-top-group-cooking-activities-for-teams-5247)
-- [🧩 Discovering ERP: A Developer’s Journey into Small Business Needs](https://dev.to/amrahussein/discovering-erp-a-developers-journey-into-small-business-needs-3ipk)
+- [JavaScript Closures Explained Simply &lpar;with Real Examples&rpar;](https://dev.to/aggarwal_gaurav_1012/javascript-closures-explained-simply-with-real-examples-2oj9)
+- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
+- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
+- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
 <!-- BLOG-POST-LIST:END -->
 
