@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Closures Explained Simply &lpar;with Real Examples&rpar;](https://dev.to/aggarwal_gaurav_1012/javascript-closures-explained-simply-with-real-examples-2oj9)
-- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
-- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
-- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
+- [✨ Build Your Own Developer Avatar with Google AI Studio — My Submission for the DEV Education Track](https://dev.to/om_shree_0709/build-your-own-developer-avatar-with-google-ai-studio-my-submission-for-the-dev-education-track-3hj4)
+- [C++ with no classes?](https://dev.to/pvsdev/c-with-no-classes-4adm)
+- [How to Secure a Website and How SafeLine Helps](https://dev.to/carrie_luo1/how-to-secure-a-website-and-how-safeline-helps-6ec)
+- [After the Hack: What Comes Next](https://dev.to/0xtommythomas/after-the-hack-what-comes-next-mbj)
 <!-- BLOG-POST-LIST:END -->
 
