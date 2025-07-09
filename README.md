@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Delivering Nothing But PAIN In Death Stranding 2 - Brutal Difficulty Gameplay](https://dev.to/gg_news/gamespot-delivering-nothing-but-pain-in-death-stranding-2-brutal-difficulty-gameplay-35cj)
-- [GameSpot: Donkey Kong Bananza Looks Like The Mario Odyssey Successor No One Expected | Hands-On Impressions](https://dev.to/gg_news/gamespot-donkey-kong-bananza-looks-like-the-mario-odyssey-successor-no-one-expected-hands-on-3ndf)
-- [GameSpot: Rematch GameSpot Review](https://dev.to/gg_news/gamespot-rematch-gamespot-review-53gi)
-- [GameSpot: You Win Some, Lose Some - Tony Hawk&#39;s Pro Skater 3+4 GameSpot Review](https://dev.to/gg_news/gamespot-you-win-some-lose-some-tony-hawks-pro-skater-34-gamespot-review-1n3m)
+- [🚨 “Google Alert: Someone Just Logged In?” — Don’t Fall for the Phishing Trap](https://dev.to/sybersecure/google-alert-someone-just-logged-in-dont-fall-for-the-phishing-trap-3d6m)
+- [Do you remember the first time you saw a computer? 🤔](https://dev.to/canro91/do-you-remember-the-first-time-you-saw-a-computer-4cem)
+- [Speed Revolution Asynchronous Modern Web Frameworks](https://dev.to/github-recommend/speed-revolution-asynchronous-modern-web-frameworks-3o6d)
+- [miei primi due repository open-source: DockerDevBase e DockerDevKit](https://dev.to/santifromsicily/miei-primi-due-repository-open-source-dockerdevbase-e-dockerdevkit-52ff)
 <!-- BLOG-POST-LIST:END -->
 
