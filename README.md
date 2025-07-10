@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Ways To Use In-App Messaging &lpar;And How They’ll Help You&rpar;](https://dev.to/sarahlindauer/6-ways-to-use-in-app-messaging-and-how-theyll-help-you-ekl)
-- [Introduction to Java](https://dev.to/mukilaperiyasamy/introduction-to-java-4f52)
-- [Does Node.js Use Multiple Cores?](https://dev.to/kiani0x01/does-nodejs-use-multiple-cores-d75)
-- [Use import Instead of require](https://dev.to/kiani0x01/use-import-instead-of-require-9h8)
+- [Automating Form Submissions with Playwright MCP and a Prompt file](https://dev.to/debs_obrien/automating-form-submissions-with-playwright-mcp-and-a-prompt-file-43c3)
+- [MongoDB Integration in VS Code Using MongoDB MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/mongodb-integration-in-vs-code-using-mongodb-mcp-a-step-by-step-tutorial-44p5)
+- [Day 30/180 of Frontend Dev: Understanding CSS Float and Clear Properties](https://dev.to/code_2/day-30180-of-frontend-dev-understanding-css-float-and-clear-properties-4o8b)
+- [INTRODUCTION OF CONDTIONAL STATEMENT](https://dev.to/arulak/introduction-of-condtional-statement-nc0)
 <!-- BLOG-POST-LIST:END -->
 
