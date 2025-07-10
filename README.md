@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Elon Musk just invent AGI? Everything you need to know about Grok 4 and how to try it out](https://dev.to/code42cate/did-elon-musk-just-invent-agi-everything-you-need-to-know-about-grok-4-and-how-to-try-it-out-2p6m)
-- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
-- [&quot;Freemium vs. free trials for B2B SaaS—what’s your playbook? &lpar;Building an AI tool, need your take&rpar;&quot;](https://dev.to/ybeybeybe/freemium-vs-free-trials-for-b2b-saas-whats-your-playbook-building-an-ai-tool-need-your-take-567a)
-- [forget agi. forget agents. you have no idea what is coming.](https://dev.to/polymathsomnath/forget-agi-forget-agents-you-have-no-idea-what-is-coming-4gbe)
+- [Thinking of Launching a SaaS in 2025? Here&#39;s My #1 Piece of Advice](https://dev.to/devopsdaily/thinking-of-launching-a-saas-in-2025-heres-my-1-piece-of-advice-1al5)
+- [📝 Build a To-Do List App with HTML, CSS &amp; JavaScript | Beginner JavaScript Project Tutorial](https://dev.to/saimanis/build-a-to-do-list-app-with-html-css-javascript-beginner-javascript-project-tutorial-2eaj)
+- [How to transform workflows from Excel to a project management tool](https://dev.to/taskford/how-to-transform-workflows-from-excel-to-a-project-management-tool-36nn)
+- [Kafka Fundamentals: kafka cruise control](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cruise-control-4nb8)
 <!-- BLOG-POST-LIST:END -->
 
