@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Form Submissions with Playwright MCP and a Prompt file](https://dev.to/debs_obrien/automating-form-submissions-with-playwright-mcp-and-a-prompt-file-43c3)
-- [MongoDB Integration in VS Code Using MongoDB MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/mongodb-integration-in-vs-code-using-mongodb-mcp-a-step-by-step-tutorial-44p5)
-- [Day 30/180 of Frontend Dev: Understanding CSS Float and Clear Properties](https://dev.to/code_2/day-30180-of-frontend-dev-understanding-css-float-and-clear-properties-4o8b)
-- [INTRODUCTION OF CONDTIONAL STATEMENT](https://dev.to/arulak/introduction-of-condtional-statement-nc0)
+- [Event Loop Monitoring and Performance Analysis](https://dev.to/omriluz1/event-loop-monitoring-and-performance-analysis-2n33)
+- [How I Built and Deployed My Portfolio Site From Scratch &lpar;With Failures, Fixes, and a Domain&rpar;](https://dev.to/econdev/how-i-built-and-deployed-my-portfolio-site-from-scratch-with-failures-fixes-and-a-domain-4166)
+- [Dynamic Dropdown Filtering in JSP Using AJAX and Custom Tags](https://dev.to/galisetty_priyatham_c1a49/dynamic-dropdown-filtering-in-jsp-using-ajax-and-custom-tags-55il)
+- [DevLog 20250710: Generics in Divooka](https://dev.to/methodox/devlog-20250710-generics-in-divooka-49e6)
 <!-- BLOG-POST-LIST:END -->
 
