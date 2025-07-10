@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Learning Progress for a Japanese Beginner](https://dev.to/tofu1216/python-learning-progress-for-a-japanese-beginner-1obg)
-- [Cloud Cost Optimization: FinOps Best Practices](https://dev.to/binyam/cloud-cost-optimization-finops-best-practices-1050)
-- [How I Fixed GitHub’s 14 Days Repo Traffic Graph](https://dev.to/m4xshen/how-i-fixed-githubs-14-days-repo-traffic-graph-59ji)
-- [Discord community; let&#39;s go](https://dev.to/trucktrek_trek_d7dcf92c7b/hello-everyone-51a5)
+- [IGN: Breaking Down the Aftermath of Xbox&#39;s Massive Layoffs - Unlocked Clips](https://dev.to/gg_news/ign-breaking-down-the-aftermath-of-xboxs-massive-layoffs-unlocked-clips-4k5b)
+- [IGN: Baby Assassins 3 - Exclusive Trailer &lpar;2025&rpar; Akari Takaishi, Saori Izawa](https://dev.to/gg_news/ign-baby-assassins-3-exclusive-trailer-2025-akari-takaishi-saori-izawa-pep)
+- [IGN: ARK: Aquatica - Official Release Date Trailer](https://dev.to/gg_news/ign-ark-aquatica-official-release-date-trailer-1e63)
+- [IGN: Shark Dentist - Official Announcement Trailer](https://dev.to/gg_news/ign-shark-dentist-official-announcement-trailer-3jg0)
 <!-- BLOG-POST-LIST:END -->
 
