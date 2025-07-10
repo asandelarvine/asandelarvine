@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking of Launching a SaaS in 2025? Here&#39;s My #1 Piece of Advice](https://dev.to/devopsdaily/thinking-of-launching-a-saas-in-2025-heres-my-1-piece-of-advice-1al5)
-- [📝 Build a To-Do List App with HTML, CSS &amp; JavaScript | Beginner JavaScript Project Tutorial](https://dev.to/saimanis/build-a-to-do-list-app-with-html-css-javascript-beginner-javascript-project-tutorial-2eaj)
-- [How to transform workflows from Excel to a project management tool](https://dev.to/taskford/how-to-transform-workflows-from-excel-to-a-project-management-tool-36nn)
-- [Kafka Fundamentals: kafka cruise control](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cruise-control-4nb8)
+- [Lambdalet.AI: Reinventing the bookmarklet](https://dev.to/aws-builders/lambdaletai-reinventing-the-bookmarklet-3772)
+- [Vite vs Next.js: A Comprehensive Comparison](https://dev.to/kevinwalker/vite-vs-nextjs-a-comprehensive-comparison-5796)
+- [&quot;Why If-Else is Your Code&#39;s First Brain Cell&quot;](https://dev.to/praveena_2109/why-if-else-is-your-codes-first-brain-cell-59lc)
+- [Dive into Google&#39;s Agent Development Kit &lpar;ADK&rpar; to build production-ready AI agents](https://dev.to/sayed_ali_alkamel/dive-into-googles-agent-development-kit-adk-to-build-production-ready-ai-agents-goa)
 <!-- BLOG-POST-LIST:END -->
 
