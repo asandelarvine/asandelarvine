@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Fundamentals: cross validation tutorial](https://dev.to/devopsfundamentals/machine-learning-fundamentals-cross-validation-tutorial-5ag8)
-- [What I Learned About POS Systems During a Casual Mall Visit](https://dev.to/hassamdev/what-i-learned-about-pos-systems-during-a-casual-mall-visit-5hhf)
-- [Modular Design for Large-Scale Systems](https://dev.to/member_85ffbbbe/modular-design-for-large-scale-systems-2n4n)
-- [https://medium.com/@alex2020global/filesystem-navigation-in-linux-aabaa87e8029](https://dev.to/pingalex/httpsmediumcomalex2020globalfilesystem-navigation-in-linux-aabaa87e8029-lm6)
+- [YouTube channel mirror on Jekyll - part 4](https://dev.to/solvecomputerscience/youtube-channel-mirror-on-jekyll-part-4-4jbm)
+- [How API client automation can save you hours in development](https://dev.to/logrocket/how-api-client-automation-can-save-you-hours-in-development-3gbh)
+- [How to Bridge Networks in Docker Compose &lpar;`docker-compose.yml`&rpar;](https://dev.to/lovestaco/how-to-bridge-networks-in-docker-compose-docker-composeyml-1i03)
+- [How to Deploy a Windows Server 2022 Domain Controller with VirtualBox Manager](https://dev.to/ibrahimbioabu/how-to-deploy-a-windows-server-2022-domain-controller-with-virtualbox-manager-5dpn)
 <!-- BLOG-POST-LIST:END -->
 
