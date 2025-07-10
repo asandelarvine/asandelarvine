@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A2A ADK Expense Reimbursement Agent](https://dev.to/czmilo/a2a-adk-expense-reimbursement-agent-cp0)
-- [Terraform Fundamentals: Comprehend](https://dev.to/devopsfundamentals/terraform-fundamentals-comprehend-2379)
-- [🌐 Open-WebSearch MCP: Give Your AI Plugin Real-Time Web Access — for Free](https://dev.to/aasee/open-websearch-mcp-give-your-ai-plugin-real-time-web-access-for-free-1coc)
-- [🔥 MASSIVE AI UPDATE: 424 NEW MODELS UNLEASHED! 🚀 #TypeGPT](https://dev.to/mjehra/massive-ai-update-424-new-models-unleashed-typegpt-36ai)
+- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
+- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
+- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
+- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
 <!-- BLOG-POST-LIST:END -->
 
