@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate and Record Audio in Another Language](https://dev.to/elenahartmann/how-to-translate-and-record-audio-in-another-language-1lke)
-- [6 Must-Try VS Code AI Tools Every Developer Should Know in 2025](https://dev.to/alifar/6-must-try-vs-code-ai-tools-every-developer-should-know-in-2025-bl6)
-- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
-- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
+- [Did Elon Musk just invent AGI? Everything you need to know about Grok 4 and how to try it out](https://dev.to/code42cate/did-elon-musk-just-invent-agi-everything-you-need-to-know-about-grok-4-and-how-to-try-it-out-2p6m)
+- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
+- [&quot;Freemium vs. free trials for B2B SaaS—what’s your playbook? &lpar;Building an AI tool, need your take&rpar;&quot;](https://dev.to/ybeybeybe/freemium-vs-free-trials-for-b2b-saas-whats-your-playbook-building-an-ai-tool-need-your-take-567a)
+- [forget agi. forget agents. you have no idea what is coming.](https://dev.to/polymathsomnath/forget-agi-forget-agents-you-have-no-idea-what-is-coming-4gbe)
 <!-- BLOG-POST-LIST:END -->
 
