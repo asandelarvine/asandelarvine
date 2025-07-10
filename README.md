@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to React Portals](https://dev.to/olenadrugalya/intro-to-react-portals-4lp)
-- [How to create a Popover using React and Tailwind CSS](https://dev.to/bilal_haider_697f82e123f3/how-to-create-a-popover-using-react-and-tailwind-css-g53)
-- [Building a Motion Tracking Balloon Burst Game with Python &amp; OpenCV](https://dev.to/hypotheticalvik/building-a-motion-tracking-balloon-burst-game-with-python-opencv-n13)
-- [🧱 How We’d Architect a Crypto Messenger With Peer-to-Peer Transfers](https://dev.to/dalem/how-wed-architect-a-crypto-messenger-with-peer-to-peer-transfers-131n)
+- [The Cost to Neglecting Website Maintenance](https://dev.to/yehia_samir/the-cost-to-neglecting-website-maintenance-4l0m)
+- [DEV Education Track Submission](https://dev.to/sadies/dev-education-track-submission-54ij)
+- [🛠️ Advanced Node.js Debugging: Beyond console.log](https://dev.to/padie78/advanced-nodejs-debugging-beyond-consolelog-3jnj)
+- [testy: YAML-Based Functional Tests for Go HTTP APIs](https://dev.to/roman_chudov_aae89a53d641/testy-yaml-based-functional-tests-for-go-http-apis-2i75)
 <!-- BLOG-POST-LIST:END -->
 
