@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Brand and Market Dynamics Shape Fashion Pricing](https://dev.to/blkbusiness/how-brand-and-market-dynamics-shape-fashion-pricing-351o)
-- [New project deployed on AWS! Wi-Fi Connectivity Notification!](https://dev.to/marcelomagario/new-project-deployed-on-aws-wi-fi-connectivity-notification-3fcn)
-- [Programming Entry Level: guide dictionaries](https://dev.to/devopsfundamentals/programming-entry-level-guide-dictionaries-b61)
-- [Fun with Postgres Recovery](https://dev.to/misachi/fun-with-postgres-recovery-f5e)
+- [THIRD DAY JAVA FULL STACK TRAINING](https://dev.to/selvakumar_r_4bac08f5eaa6/third-day-java-full-stack-training-4fe2)
+- [Building a Vanilla JS Intranet Dashboard: A Developer-Centric Approach](https://dev.to/discovered12345/building-a-vanilla-js-intranet-dashboard-a-developer-centric-approach-47jo)
+- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
+- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
 <!-- BLOG-POST-LIST:END -->
 
