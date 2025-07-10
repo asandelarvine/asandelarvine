@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the terraform providers command tells you](https://dev.to/techielass/what-the-terraform-providers-command-tells-you-3j1)
-- [Powering the Future of AI and HPC with NVIDIA GPU Cloud](https://dev.to/cyfutureai/powering-the-future-of-ai-and-hpc-with-nvidia-gpu-cloud-2pnj)
-- [Don’t Architect for Today—Architect for Change](https://dev.to/dct_technology/dont-architect-for-today-architect-for-change-17ji)
-- [How to Use CASE to Sort an ENUM Column in MySQL](https://dev.to/ibrahimalanshor/how-to-use-case-to-sort-an-enum-column-in-mysql-3642)
+- [How to Translate and Record Audio in Another Language](https://dev.to/elenahartmann/how-to-translate-and-record-audio-in-another-language-1lke)
+- [6 Must-Try VS Code AI Tools Every Developer Should Know in 2025](https://dev.to/alifar/6-must-try-vs-code-ai-tools-every-developer-should-know-in-2025-bl6)
+- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
+- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
 <!-- BLOG-POST-LIST:END -->
 
