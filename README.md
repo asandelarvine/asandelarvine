@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube channel mirror on Jekyll - part 4](https://dev.to/solvecomputerscience/youtube-channel-mirror-on-jekyll-part-4-4jbm)
-- [How API client automation can save you hours in development](https://dev.to/logrocket/how-api-client-automation-can-save-you-hours-in-development-3gbh)
-- [How to Bridge Networks in Docker Compose &lpar;`docker-compose.yml`&rpar;](https://dev.to/lovestaco/how-to-bridge-networks-in-docker-compose-docker-composeyml-1i03)
-- [How to Deploy a Windows Server 2022 Domain Controller with VirtualBox Manager](https://dev.to/ibrahimbioabu/how-to-deploy-a-windows-server-2022-domain-controller-with-virtualbox-manager-5dpn)
+- [6 Ways To Use In-App Messaging &lpar;And How They’ll Help You&rpar;](https://dev.to/sarahlindauer/6-ways-to-use-in-app-messaging-and-how-theyll-help-you-ekl)
+- [Introduction to Java](https://dev.to/mukilaperiyasamy/introduction-to-java-4f52)
+- [Does Node.js Use Multiple Cores?](https://dev.to/kiani0x01/does-nodejs-use-multiple-cores-d75)
+- [Use import Instead of require](https://dev.to/kiani0x01/use-import-instead-of-require-9h8)
 <!-- BLOG-POST-LIST:END -->
 
