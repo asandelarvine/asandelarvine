@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THIRD DAY JAVA FULL STACK TRAINING](https://dev.to/selvakumar_r_4bac08f5eaa6/third-day-java-full-stack-training-4fe2)
-- [Building a Vanilla JS Intranet Dashboard: A Developer-Centric Approach](https://dev.to/discovered12345/building-a-vanilla-js-intranet-dashboard-a-developer-centric-approach-47jo)
-- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
-- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
+- [A2A ADK Expense Reimbursement Agent](https://dev.to/czmilo/a2a-adk-expense-reimbursement-agent-cp0)
+- [Terraform Fundamentals: Comprehend](https://dev.to/devopsfundamentals/terraform-fundamentals-comprehend-2379)
+- [🌐 Open-WebSearch MCP: Give Your AI Plugin Real-Time Web Access — for Free](https://dev.to/aasee/open-websearch-mcp-give-your-ai-plugin-real-time-web-access-for-free-1coc)
+- [🔥 MASSIVE AI UPDATE: 424 NEW MODELS UNLEASHED! 🚀 #TypeGPT](https://dev.to/mjehra/massive-ai-update-424-new-models-unleashed-typegpt-36ai)
 <!-- BLOG-POST-LIST:END -->
 
