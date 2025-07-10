@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambdalet.AI: Reinventing the bookmarklet](https://dev.to/aws-builders/lambdaletai-reinventing-the-bookmarklet-3772)
-- [Vite vs Next.js: A Comprehensive Comparison](https://dev.to/kevinwalker/vite-vs-nextjs-a-comprehensive-comparison-5796)
-- [&quot;Why If-Else is Your Code&#39;s First Brain Cell&quot;](https://dev.to/praveena_2109/why-if-else-is-your-codes-first-brain-cell-59lc)
-- [Dive into Google&#39;s Agent Development Kit &lpar;ADK&rpar; to build production-ready AI agents](https://dev.to/sayed_ali_alkamel/dive-into-googles-agent-development-kit-adk-to-build-production-ready-ai-agents-goa)
+- [Intro to React Portals](https://dev.to/olenadrugalya/intro-to-react-portals-4lp)
+- [How to create a Popover using React and Tailwind CSS](https://dev.to/bilal_haider_697f82e123f3/how-to-create-a-popover-using-react-and-tailwind-css-g53)
+- [Building a Motion Tracking Balloon Burst Game with Python &amp; OpenCV](https://dev.to/hypotheticalvik/building-a-motion-tracking-balloon-burst-game-with-python-opencv-n13)
+- [🧱 How We’d Architect a Crypto Messenger With Peer-to-Peer Transfers](https://dev.to/dalem/how-wed-architect-a-crypto-messenger-with-peer-to-peer-transfers-131n)
 <!-- BLOG-POST-LIST:END -->
 
