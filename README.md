@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Explained Like You&#39;re Five &lpar;But Smarter&rpar;](https://dev.to/fonyuygita/open-source-explained-like-youre-five-but-smarter-5ckh)
-- [Leetcode - 236. Lowest Common Ancestor of a Binary Tree](https://dev.to/rakeshreddy512/leetcode-236-lowest-common-ancestor-of-a-binary-tree-133f)
-- [VR for Preschool: Transforming Early Learning with Immersive Technology](https://dev.to/nismo/vr-for-preschool-transforming-early-learning-with-immersive-technology-46ik)
-- [10 Proven Ways to Improve JavaScript Performance in the Browser](https://dev.to/alexeybashkirov/10-proven-ways-to-improve-javascript-performance-in-the-browser-59p0)
+- [What the terraform providers command tells you](https://dev.to/techielass/what-the-terraform-providers-command-tells-you-3j1)
+- [Powering the Future of AI and HPC with NVIDIA GPU Cloud](https://dev.to/cyfutureai/powering-the-future-of-ai-and-hpc-with-nvidia-gpu-cloud-2pnj)
+- [Don’t Architect for Today—Architect for Change](https://dev.to/dct_technology/dont-architect-for-today-architect-for-change-17ji)
+- [How to Use CASE to Sort an ENUM Column in MySQL](https://dev.to/ibrahimalanshor/how-to-use-case-to-sort-an-enum-column-in-mysql-3642)
 <!-- BLOG-POST-LIST:END -->
 
