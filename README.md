@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost to Neglecting Website Maintenance](https://dev.to/yehia_samir/the-cost-to-neglecting-website-maintenance-4l0m)
-- [DEV Education Track Submission](https://dev.to/sadies/dev-education-track-submission-54ij)
-- [🛠️ Advanced Node.js Debugging: Beyond console.log](https://dev.to/padie78/advanced-nodejs-debugging-beyond-consolelog-3jnj)
-- [testy: YAML-Based Functional Tests for Go HTTP APIs](https://dev.to/roman_chudov_aae89a53d641/testy-yaml-based-functional-tests-for-go-http-apis-2i75)
+- [Python Learning Progress for a Japanese Beginner](https://dev.to/tofu1216/python-learning-progress-for-a-japanese-beginner-1obg)
+- [Cloud Cost Optimization: FinOps Best Practices](https://dev.to/binyam/cloud-cost-optimization-finops-best-practices-1050)
+- [How I Fixed GitHub’s 14 Days Repo Traffic Graph](https://dev.to/m4xshen/how-i-fixed-githubs-14-days-repo-traffic-graph-59ji)
+- [Discord community; let&#39;s go](https://dev.to/trucktrek_trek_d7dcf92c7b/hello-everyone-51a5)
 <!-- BLOG-POST-LIST:END -->
 
