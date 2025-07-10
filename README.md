@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lucky-cyber3008/-170g)
-- [What is the purpose of jsconfig.json?](https://dev.to/xnivaxhzne/what-is-the-purpose-of-jsconfigjson-4ob0)
-- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
-- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
+- [Open Source Explained Like You&#39;re Five &lpar;But Smarter&rpar;](https://dev.to/fonyuygita/open-source-explained-like-youre-five-but-smarter-5ckh)
+- [Leetcode - 236. Lowest Common Ancestor of a Binary Tree](https://dev.to/rakeshreddy512/leetcode-236-lowest-common-ancestor-of-a-binary-tree-133f)
+- [VR for Preschool: Transforming Early Learning with Immersive Technology](https://dev.to/nismo/vr-for-preschool-transforming-early-learning-with-immersive-technology-46ik)
+- [10 Proven Ways to Improve JavaScript Performance in the Browser](https://dev.to/alexeybashkirov/10-proven-ways-to-improve-javascript-performance-in-the-browser-59p0)
 <!-- BLOG-POST-LIST:END -->
 
