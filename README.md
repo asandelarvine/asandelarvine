@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 30: When the lights went out but the ideas turned on](https://dev.to/casperday11/day-30-when-the-lights-went-out-but-the-ideas-turned-on-41d8)
-- [Understanding Recursive Resolvers in DNS](https://dev.to/obeej/understanding-recursive-resolvers-in-dns-3ahl)
-- [Machine Learning Fundamentals: cross validation project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-cross-validation-project-1bg6)
-- [5 Best Spring Boot + MongoDB + AWS Projects for Fresh Graduates](https://dev.to/pkkolla/5-best-spring-boot-mongodb-aws-projects-for-fresh-graduates-52f1)
+- [Machine Learning Fundamentals: cross validation tutorial](https://dev.to/devopsfundamentals/machine-learning-fundamentals-cross-validation-tutorial-5ag8)
+- [What I Learned About POS Systems During a Casual Mall Visit](https://dev.to/hassamdev/what-i-learned-about-pos-systems-during-a-casual-mall-visit-5hhf)
+- [Modular Design for Large-Scale Systems](https://dev.to/member_85ffbbbe/modular-design-for-large-scale-systems-2n4n)
+- [https://medium.com/@alex2020global/filesystem-navigation-in-linux-aabaa87e8029](https://dev.to/pingalex/httpsmediumcomalex2020globalfilesystem-navigation-in-linux-aabaa87e8029-lm6)
 <!-- BLOG-POST-LIST:END -->
 
