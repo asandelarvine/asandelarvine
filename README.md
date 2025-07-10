@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Breaking Down the Aftermath of Xbox&#39;s Massive Layoffs - Unlocked Clips](https://dev.to/gg_news/ign-breaking-down-the-aftermath-of-xboxs-massive-layoffs-unlocked-clips-4k5b)
-- [IGN: Baby Assassins 3 - Exclusive Trailer &lpar;2025&rpar; Akari Takaishi, Saori Izawa](https://dev.to/gg_news/ign-baby-assassins-3-exclusive-trailer-2025-akari-takaishi-saori-izawa-pep)
-- [IGN: ARK: Aquatica - Official Release Date Trailer](https://dev.to/gg_news/ign-ark-aquatica-official-release-date-trailer-1e63)
-- [IGN: Shark Dentist - Official Announcement Trailer](https://dev.to/gg_news/ign-shark-dentist-official-announcement-trailer-3jg0)
+- [Day 30: When the lights went out but the ideas turned on](https://dev.to/casperday11/day-30-when-the-lights-went-out-but-the-ideas-turned-on-41d8)
+- [Understanding Recursive Resolvers in DNS](https://dev.to/obeej/understanding-recursive-resolvers-in-dns-3ahl)
+- [Machine Learning Fundamentals: cross validation project](https://dev.to/devopsfundamentals/machine-learning-fundamentals-cross-validation-project-1bg6)
+- [5 Best Spring Boot + MongoDB + AWS Projects for Fresh Graduates](https://dev.to/pkkolla/5-best-spring-boot-mongodb-aws-projects-for-fresh-graduates-52f1)
 <!-- BLOG-POST-LIST:END -->
 
