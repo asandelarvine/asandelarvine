@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with MCP Desktop Extensions &lpar;DXT&rpar; in Claude Desktop](https://dev.to/om_shree_0709/getting-started-with-mcp-desktop-extensions-dxt-in-claude-desktop-40hj)
-- [# 🚀 Uniface call Statement: Executing Functions and ProcScript Modules](https://dev.to/zu2824/-uniface-call-statement-executing-functions-and-procscript-modules-3mkm)
-- [Getting Started with Playwright — Introduction to Web Testing Automation](https://dev.to/rodrigoobc/getting-started-with-playwright-introduction-to-web-testing-automation-1fdh)
-- [The Underrated Power of Consistency](https://dev.to/umairarshad-dev/the-underrated-power-of-consistency-11hf)
+- [Stimulus 3.0: Why We’re All-In](https://dev.to/alex_aslam/stimulus-30-why-were-all-in-3f88)
+- [Testing With The Builder Pattern](https://dev.to/jonashdown/testing-with-the-builder-pattern-33gn)
+- [Bulk GoHighLevel Email Template Deletion Tool](https://dev.to/samee-ullah/bulk-gohighlevel-email-template-deletion-tool-2m1g)
+- [From VPS to Home: How I Built My €90 Development Server That&#39;s Been Running for Almost a Year](https://dev.to/abdallahaho/from-vps-to-home-how-i-built-my-eu90-development-server-thats-been-running-for-almost-a-year-c8a)
 <!-- BLOG-POST-LIST:END -->
 
