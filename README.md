@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [javascript conditional statements](https://dev.to/kuhanraja_ar_1df623b8e2e/javascript-conditional-statements-2ppp)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks1171](https://dev.to/member_d50fddd8/event-driven-architecture-pattern-application-practice-in-web-frameworks1171-2kik)
-- [🧠 DSA Series - Day 4](https://dev.to/laxmann/dsa-series-day-4-4mgb)
-- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
+- [RGB Meets Sustainability: Backlit Keycaps Made with Recyclable Materials](https://dev.to/mysticcoder/rgb-meets-sustainability-backlit-keycaps-made-with-recyclable-materials-3j89)
+- [Why Real-Time Data Analytics in ERP Is a Game-Changer for Manufacturers](https://dev.to/sigzentechnologies/why-real-time-data-analytics-in-erp-is-a-game-changer-for-manufacturers-1pj8)
+- [🚀 Hands-On with Veo3.bot: Google Veo 3 Video Generation Without Gemini Subscription](https://dev.to/fredai/hands-on-with-veo3bot-google-veo-3-video-generation-without-gemini-subscription-jp2)
+- [GraalVM + WASM from the Perspective of a J2CL/GWT Developer](https://dev.to/treblereel/graalvm-wasm-from-the-perspective-of-a-j2clgwt-developer-4i)
 <!-- BLOG-POST-LIST:END -->
 
