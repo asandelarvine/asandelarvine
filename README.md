@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rajesh_patel/-m9l)
-- [[Boost]](https://dev.to/aryan_panwala/-156a)
-- [[Boost]](https://dev.to/nikhil_sachapara/-387a)
-- [[Boost]](https://dev.to/naik_sejal/-4p2e)
+- [javascript conditional statements](https://dev.to/kuhanraja_ar_1df623b8e2e/javascript-conditional-statements-2ppp)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks1171](https://dev.to/member_d50fddd8/event-driven-architecture-pattern-application-practice-in-web-frameworks1171-2kik)
+- [🧠 DSA Series - Day 4](https://dev.to/laxmann/dsa-series-day-4-4mgb)
+- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
 <!-- BLOG-POST-LIST:END -->
 
