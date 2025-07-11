@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git learn basic](https://dev.to/hieubr/git-learn-basic-37ek)
-- [WWDC 2025 - Interactive Snippets: Guide for iOS Developers](https://dev.to/arshtechpro/wwd-2025-interactive-snippets-guide-for-ios-developers-4ln6)
-- [A beginner&#39;s guide to the Codeformer model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-codeformer-model-by-lucataco-on-replicate-5bb4)
-- [How to Undo the Most Recent Local Commits in Git](https://dev.to/iamcymentho/how-to-undo-the-most-recent-local-commits-in-git-124c)
+- [🍁Beginner-Friendly Guide &quot;Most Booked Meeting Room Logic&quot; – LeetCode 2402 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-most-booked-meeting-room-logic-leetcode-2402-c-python--1i0l)
+- [AI-Generated Code: Finding the Right Percentage for Your Development Team](https://dev.to/pantoai/ai-generated-code-finding-the-right-percentage-for-your-development-team-5f83)
+- [Model Mondays S2E04 - AI Developer Experiences](https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf)
+- [Constructor](https://dev.to/infanta_mano_0c36865b3d79/constructor-2ili)
 <!-- BLOG-POST-LIST:END -->
 
