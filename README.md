@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️ “I Spoke to My Browser… And It Spoke Back with the Truth!”](https://dev.to/rajguru_yadav_56d13a7b8fc/i-spoke-to-my-browser-and-it-spoke-back-with-the-truth-2f8j)
-- [A Day in the Life of a DevOps Engineer](https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba)
-- [Why Numpy is faster than Pure Python: A Speed Comparison](https://dev.to/uwintwalijean/why-numpy-is-faster-than-pure-python-a-speed-comparison-57mj)
-- [How to Get the Best Out of Notion MCP Server with Cursor and Claude?](https://dev.to/composiodev/how-to-get-the-best-out-of-notion-mcp-server-with-cursor-and-claude-1lc9)
+- [Frontend challenge](https://dev.to/soorajsnblaze333/frontend-challenge-8b1)
+- [NodeJS Fundamentals: XMLHttpRequest](https://dev.to/devopsfundamentals/nodejs-fundamentals-xmlhttprequest-4hi1)
+- [Database Connection Management2659](https://dev.to/member_d50fddd8/database-connection-management2659-32ao)
+- [Improve child to parent communication with xState 5](https://dev.to/gtodorov/improve-child-to-parent-communication-with-xstate-5-1onp)
 <!-- BLOG-POST-LIST:END -->
 
