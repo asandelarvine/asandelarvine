@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Before You Start: Set Up an AWS Account 🚀 [Part 2]](https://dev.to/suvrajeet/before-you-start-set-up-an-aws-account-part-2-2nef)
-- [The JavaScript Library for the DOM You Don&#39;t Control](https://dev.to/doeixd/the-javascript-library-for-the-dom-you-dont-control-569g)
-- [My First Day at Payilagam : Part 2 ...](https://dev.to/vigneshwaralingam/my-first-day-at-payilagam-part-2--46pa)
-- [🏗️ Designing a Project File Structure: Practical Guide Inspired by Clean Code Architecture](https://dev.to/farhan_shahriar_/designing-a-project-file-structure-practical-guide-inspired-by-clean-code-architecture-53de)
+- [Big Data Fundamentals: data lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-project-1l71)
+- [Combining Action Goals and Outcome Goals to Keep Moving Forward &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/combining-action-goals-and-outcome-goals-to-keep-moving-forward-bite-size-article-cig)
+- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
+- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
 <!-- BLOG-POST-LIST:END -->
 
