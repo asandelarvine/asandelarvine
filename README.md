@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stimulus 3.0: Why We’re All-In](https://dev.to/alex_aslam/stimulus-30-why-were-all-in-3f88)
-- [Testing With The Builder Pattern](https://dev.to/jonashdown/testing-with-the-builder-pattern-33gn)
-- [Bulk GoHighLevel Email Template Deletion Tool](https://dev.to/samee-ullah/bulk-gohighlevel-email-template-deletion-tool-2m1g)
-- [From VPS to Home: How I Built My €90 Development Server That&#39;s Been Running for Almost a Year](https://dev.to/abdallahaho/from-vps-to-home-how-i-built-my-eu90-development-server-thats-been-running-for-almost-a-year-c8a)
+- [Tip: ask your agent to create a /debug page](https://dev.to/peter/tip-ask-your-agent-to-create-a-debug-page-57ek)
+- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
+- [I wrote up a post about how to easily build A2A-style agents. I also talk a bit about why I like A2A more than MCP.](https://dev.to/technosophos/i-wrote-up-a-post-about-how-to-easily-build-a2a-style-agents-i-also-talk-a-bit-about-why-i-like-j0j)
+- [Dev Setup - dbt Core 1.9.0 with Airflow 3.0 Orchestration](https://dev.to/sanjayio/dev-setup-dbt-core-190-with-airflow-30-orchestration-1fgf)
 <!-- BLOG-POST-LIST:END -->
 
