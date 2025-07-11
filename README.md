@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: data lake tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-tutorial-287d)
-- [Next.js Performance Boost: 5s to 500ms Load Time](https://dev.to/dubeyrishabh108/nextjs-performance-boost-5s-to-500ms-load-time-43kl)
-- [Security Architecture: Secure Network Design Principles](https://dev.to/pelk/security-architecture-secure-network-design-principles-1oem)
-- [JSON-to-Struct with Uniface 10.4 jsonToStruct: A Practical Guide 📄⚡](https://dev.to/zu2824/json-to-struct-with-uniface-104-jsontostruct-a-practical-guide-d62)
+- [Getting started with MCP Desktop Extensions &lpar;DXT&rpar; in Claude Desktop](https://dev.to/om_shree_0709/getting-started-with-mcp-desktop-extensions-dxt-in-claude-desktop-40hj)
+- [# 🚀 Uniface call Statement: Executing Functions and ProcScript Modules](https://dev.to/zu2824/-uniface-call-statement-executing-functions-and-procscript-modules-3mkm)
+- [Getting Started with Playwright — Introduction to Web Testing Automation](https://dev.to/rodrigoobc/getting-started-with-playwright-introduction-to-web-testing-automation-1fdh)
+- [The Underrated Power of Consistency](https://dev.to/umairarshad-dev/the-underrated-power-of-consistency-11hf)
 <!-- BLOG-POST-LIST:END -->
 
