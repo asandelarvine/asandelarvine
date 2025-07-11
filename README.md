@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Causing a car crash in Japan](https://dev.to/kallekall/causing-a-car-crash-in-japan-2lgk)
-- [DevLog 20250711: __init__.py](https://dev.to/methodox/devlog-20250711-initpy-345i)
-- [Quick CSS Tips You’ll Actually Use 🎯](https://dev.to/vjygour/quick-css-tips-youll-actually-use-ncm)
-- [A 16 year old boy made 700+ project](https://dev.to/hacker_khan_a112f762053bb/a-16-year-old-boy-made-700-project-1p47)
+- [🎙️ “I Spoke to My Browser… And It Spoke Back with the Truth!”](https://dev.to/rajguru_yadav_56d13a7b8fc/i-spoke-to-my-browser-and-it-spoke-back-with-the-truth-2f8j)
+- [A Day in the Life of a DevOps Engineer](https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba)
+- [Why Numpy is faster than Pure Python: A Speed Comparison](https://dev.to/uwintwalijean/why-numpy-is-faster-than-pure-python-a-speed-comparison-57mj)
+- [How to Get the Best Out of Notion MCP Server with Cursor and Claude?](https://dev.to/composiodev/how-to-get-the-best-out-of-notion-mcp-server-with-cursor-and-claude-1lc9)
 <!-- BLOG-POST-LIST:END -->
 
