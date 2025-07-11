@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Zapier’s Ultimate Guide to Remote Work](https://dev.to/ml318097/zapiers-ultimate-guide-to-remote-work-bmi)
-- [📘 Complete Docker Image Publishing CheatSheet 🐳🚀](https://dev.to/dpvasani56/complete-docker-image-publishing-cheatsheet-jo4)
-- [Using atomic design in Vue: The best approach for scalable component architecture](https://dev.to/senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-5cna)
-- [🧭 Docker Port Mapping &amp; CLI Flag CheatSheet](https://dev.to/dpvasani56/docker-port-mapping-cli-flag-cheatsheet-cm)
+- [Vibe Coding a VSCode Extension](https://dev.to/bascodes/vibe-coding-a-vscode-extension-4mj6)
+- [Machine Learning Fundamentals: data augmentation example](https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-augmentation-example-2mfa)
+- [Minimum Viable Slice: Overcoming Builder’s Block](https://dev.to/dileeparanawake/minimum-viable-slice-overcoming-builders-block-4pec)
+- [Did you know you can subscribe to an MQTT broker with C# in under 10 lines?](https://dev.to/odmardaniel/did-you-know-you-can-subscribe-to-an-mqtt-broker-with-c-in-under-10-lines-m9i)
 <!-- BLOG-POST-LIST:END -->
 
