@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: data lake project](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-project-1l71)
-- [Combining Action Goals and Outcome Goals to Keep Moving Forward &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/combining-action-goals-and-outcome-goals-to-keep-moving-forward-bite-size-article-cig)
-- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
-- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
+- [Big Data Fundamentals: data lake tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-data-lake-tutorial-287d)
+- [Next.js Performance Boost: 5s to 500ms Load Time](https://dev.to/dubeyrishabh108/nextjs-performance-boost-5s-to-500ms-load-time-43kl)
+- [Security Architecture: Secure Network Design Principles](https://dev.to/pelk/security-architecture-secure-network-design-principles-1oem)
+- [JSON-to-Struct with Uniface 10.4 jsonToStruct: A Practical Guide 📄⚡](https://dev.to/zu2824/json-to-struct-with-uniface-104-jsontostruct-a-practical-guide-d62)
 <!-- BLOG-POST-LIST:END -->
 
