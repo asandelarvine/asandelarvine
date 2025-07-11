@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend challenge](https://dev.to/soorajsnblaze333/frontend-challenge-8b1)
-- [NodeJS Fundamentals: XMLHttpRequest](https://dev.to/devopsfundamentals/nodejs-fundamentals-xmlhttprequest-4hi1)
-- [Database Connection Management2659](https://dev.to/member_d50fddd8/database-connection-management2659-32ao)
-- [Improve child to parent communication with xState 5](https://dev.to/gtodorov/improve-child-to-parent-communication-with-xstate-5-1onp)
+- [🌐 Zapier’s Ultimate Guide to Remote Work](https://dev.to/ml318097/zapiers-ultimate-guide-to-remote-work-bmi)
+- [📘 Complete Docker Image Publishing CheatSheet 🐳🚀](https://dev.to/dpvasani56/complete-docker-image-publishing-cheatsheet-jo4)
+- [Using atomic design in Vue: The best approach for scalable component architecture](https://dev.to/senior-debugger/using-atomic-design-in-vue-the-best-approach-for-scalable-component-architecture-5cna)
+- [🧭 Docker Port Mapping &amp; CLI Flag CheatSheet](https://dev.to/dpvasani56/docker-port-mapping-cli-flag-cheatsheet-cm)
 <!-- BLOG-POST-LIST:END -->
 
