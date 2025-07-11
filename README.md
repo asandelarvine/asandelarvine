@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RGB Meets Sustainability: Backlit Keycaps Made with Recyclable Materials](https://dev.to/mysticcoder/rgb-meets-sustainability-backlit-keycaps-made-with-recyclable-materials-3j89)
-- [Why Real-Time Data Analytics in ERP Is a Game-Changer for Manufacturers](https://dev.to/sigzentechnologies/why-real-time-data-analytics-in-erp-is-a-game-changer-for-manufacturers-1pj8)
-- [🚀 Hands-On with Veo3.bot: Google Veo 3 Video Generation Without Gemini Subscription](https://dev.to/fredai/hands-on-with-veo3bot-google-veo-3-video-generation-without-gemini-subscription-jp2)
-- [GraalVM + WASM from the Perspective of a J2CL/GWT Developer](https://dev.to/treblereel/graalvm-wasm-from-the-perspective-of-a-j2clgwt-developer-4i)
+- [Do Developers Need a Better Mock API Generator? I’m Building One and Want Your Feedback 🚀](https://dev.to/aman_gupta_16/do-developers-need-a-better-mock-api-generator-im-building-one-and-want-your-feedback-470e)
+- [🧠 AGI: The Mind Behind the Machine](https://dev.to/azhan_j_71b0e414743b0dc0e/agi-the-mind-behind-the-machine-28k3)
+- [Memory Pool Design Patterns0436](https://dev.to/member_d50fddd8/memory-pool-design-patterns0436-1hb8)
+- [🚫 Stop Disposable Emails in Laravel: The Ultimate `laravel-disposable-email` Guide](https://dev.to/eramitgupta/stop-disposable-emails-in-laravel-the-ultimate-laravel-disposable-email-guide-141p)
 <!-- BLOG-POST-LIST:END -->
 
