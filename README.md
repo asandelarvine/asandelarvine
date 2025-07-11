@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
-- [What happens if a backdoored laptop is bought by the wrong person?](https://dev.to/adc/what-happens-if-a-backdoored-laptop-is-bought-by-the-wrong-person-3m31)
-- [How I Saved 2.7GB of Memory in Odoo by Skipping the ORM](https://dev.to/alesisjoan/how-i-saved-27gb-of-memory-in-odoo-by-skipping-the-orm-828)
-- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
+- [🔧 Before You Start: Set Up an AWS Account 🚀 [Part 2]](https://dev.to/suvrajeet/before-you-start-set-up-an-aws-account-part-2-2nef)
+- [The JavaScript Library for the DOM You Don&#39;t Control](https://dev.to/doeixd/the-javascript-library-for-the-dom-you-dont-control-569g)
+- [My First Day at Payilagam : Part 2 ...](https://dev.to/vigneshwaralingam/my-first-day-at-payilagam-part-2--46pa)
+- [🏗️ Designing a Project File Structure: Practical Guide Inspired by Clean Code Architecture](https://dev.to/farhan_shahriar_/designing-a-project-file-structure-practical-guide-inspired-by-clean-code-architecture-53de)
 <!-- BLOG-POST-LIST:END -->
 
