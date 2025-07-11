@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Developers Need a Better Mock API Generator? I’m Building One and Want Your Feedback 🚀](https://dev.to/aman_gupta_16/do-developers-need-a-better-mock-api-generator-im-building-one-and-want-your-feedback-470e)
-- [🧠 AGI: The Mind Behind the Machine](https://dev.to/azhan_j_71b0e414743b0dc0e/agi-the-mind-behind-the-machine-28k3)
-- [Memory Pool Design Patterns0436](https://dev.to/member_d50fddd8/memory-pool-design-patterns0436-1hb8)
-- [🚫 Stop Disposable Emails in Laravel: The Ultimate `laravel-disposable-email` Guide](https://dev.to/eramitgupta/stop-disposable-emails-in-laravel-the-ultimate-laravel-disposable-email-guide-141p)
+- [5 lezioni che ho imparato con Django &lpar;che nessuno dice&rpar; | 5 lessons I learned with Django &lpar;no one tells you&rpar;](https://dev.to/roberto_celano/5-lezioni-che-ho-imparato-con-django-che-nessuno-dice-5-lessons-i-learned-with-django-no-one-4fik)
+- [Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploying-safeline-waf-on-kubernetes-a-beginner-friendly-guide-2dl3)
+- [Breaking Boundaries: How Online Learning Transcends Geographical Limits for Students](https://dev.to/ghummantech/breaking-boundaries-how-online-learning-transcends-geographical-limits-for-students-30n7)
+- [Flotiq Live Preview Plugin + Next.js: Complete Setup Guide](https://dev.to/flotiq/flotiq-live-preview-plugin-nextjs-complete-setup-guide-2kg3)
 <!-- BLOG-POST-LIST:END -->
 
