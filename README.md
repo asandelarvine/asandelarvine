@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How WazirX Is Setting a Legal Benchmark in Crypto Restructuring](https://dev.to/kianashekhar/how-wazirx-is-setting-a-legal-benchmark-in-crypto-restructuring-a6m)
-- [JAVA Script Operators](https://dev.to/visali_nedunchezhian_ee73/java-script-operators-1oi3)
-- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
-- [🚀 Grok 4 Has Arrived: A New Era in AI Reasoning, Coding, and Real-Time Insight](https://dev.to/hmzas/grok-4-has-arrived-a-new-era-in-ai-reasoning-coding-and-real-time-insight-30e7)
+- [Causing a car crash in Japan](https://dev.to/kallekall/causing-a-car-crash-in-japan-2lgk)
+- [DevLog 20250711: __init__.py](https://dev.to/methodox/devlog-20250711-initpy-345i)
+- [Quick CSS Tips You’ll Actually Use 🎯](https://dev.to/vjygour/quick-css-tips-youll-actually-use-ncm)
+- [A 16 year old boy made 700+ project](https://dev.to/hacker_khan_a112f762053bb/a-16-year-old-boy-made-700-project-1p47)
 <!-- BLOG-POST-LIST:END -->
 
