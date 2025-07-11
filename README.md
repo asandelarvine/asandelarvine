@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔑 You Don’t Own Crypto — You Own a Key 🔐: Here’s What That Means](https://dev.to/binary-r/you-dont-own-crypto-you-own-a-key-heres-what-that-means-4p1i)
-- [Containerized vs Traditional Deployment7905](https://dev.to/member_d50fddd8/containerized-vs-traditional-deployment7905-103l)
-- [Creating Synthetic Dialogues using RAG and Gemini](https://dev.to/unbrokencocoon/creating-synthetic-dialogues-using-rag-and-gemini-4ni2)
-- [7GUIs in Mint](https://dev.to/gdotdesign/7guis-in-mint-3544)
+- [Kafka Fundamentals: kafka connect](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-connect-3g4i)
+- [[Boost]](https://dev.to/hadil/-497n)
+- [🚀 How to Use Pinecone with Node.js to Store Candidate Embeddings](https://dev.to/safal_bhandari/how-to-use-pinecone-with-nodejs-to-store-candidate-embeddings-1pme)
+- [AES Encryption Modes: AES-GCM, AES-CBC, AES-CTR](https://dev.to/haikelfazzani/aes-encryption-modes-aes-gcm-aes-cbc-aes-ctr-21cl)
 <!-- BLOG-POST-LIST:END -->
 
