@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 lezioni che ho imparato con Django &lpar;che nessuno dice&rpar; | 5 lessons I learned with Django &lpar;no one tells you&rpar;](https://dev.to/roberto_celano/5-lezioni-che-ho-imparato-con-django-che-nessuno-dice-5-lessons-i-learned-with-django-no-one-4fik)
-- [Deploying SafeLine WAF on Kubernetes: A Beginner-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploying-safeline-waf-on-kubernetes-a-beginner-friendly-guide-2dl3)
-- [Breaking Boundaries: How Online Learning Transcends Geographical Limits for Students](https://dev.to/ghummantech/breaking-boundaries-how-online-learning-transcends-geographical-limits-for-students-30n7)
-- [Flotiq Live Preview Plugin + Next.js: Complete Setup Guide](https://dev.to/flotiq/flotiq-live-preview-plugin-nextjs-complete-setup-guide-2kg3)
+- [🔑 You Don’t Own Crypto — You Own a Key 🔐: Here’s What That Means](https://dev.to/binary-r/you-dont-own-crypto-you-own-a-key-heres-what-that-means-4p1i)
+- [Containerized vs Traditional Deployment7905](https://dev.to/member_d50fddd8/containerized-vs-traditional-deployment7905-103l)
+- [Creating Synthetic Dialogues using RAG and Gemini](https://dev.to/unbrokencocoon/creating-synthetic-dialogues-using-rag-and-gemini-4ni2)
+- [7GUIs in Mint](https://dev.to/gdotdesign/7guis-in-mint-3544)
 <!-- BLOG-POST-LIST:END -->
 
