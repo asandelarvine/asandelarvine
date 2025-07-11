@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of My 90-Day Frontend Journey: Why I’m Learning React &amp; Tailwind in Public](https://dev.to/brioleays/day-1-of-my-90-day-frontend-journey-why-im-learning-react-tailwind-in-public-34mh)
-- [Shortest Tour Problem &lpar;Udacity&rpar;](https://dev.to/char1iedevos/shortest-tour-problem-udacity-30j4)
-- [Custom Transformers Are the Secret to Making ML Pipelines Work in Practice](https://dev.to/apoorvtripathi1999/custom-transformers-are-the-secret-to-making-ml-pipelines-work-in-practice-i14)
-- [The art of guesstimating](https://dev.to/dejanualex/the-art-of-guesstimating-3ne4)
+- [Git learn basic](https://dev.to/hieubr/git-learn-basic-37ek)
+- [WWDC 2025 - Interactive Snippets: Guide for iOS Developers](https://dev.to/arshtechpro/wwd-2025-interactive-snippets-guide-for-ios-developers-4ln6)
+- [A beginner&#39;s guide to the Codeformer model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-codeformer-model-by-lucataco-on-replicate-5bb4)
+- [How to Undo the Most Recent Local Commits in Git](https://dev.to/iamcymentho/how-to-undo-the-most-recent-local-commits-in-git-124c)
 <!-- BLOG-POST-LIST:END -->
 
