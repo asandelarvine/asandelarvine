@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How GSSoC Helped Me Build My Portfolio as a Frontend Developer](https://dev.to/muskanfatim/how-gssoc-helped-me-build-my-portfolio-as-a-frontend-developer-pg6)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;8893&rpar;](https://dev.to/member_fdfd31bf/production-deployment-strategies-for-high-performance-web-services8893-mji)
-- [[Boost]](https://dev.to/afaq9o/-1j70)
-- [WebSocket Revolution in Real-Time Communication&lpar;1918&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication1918-e5b)
+- [Clean Code = Change Insurance. Pay the Premium or Face Bankruptcy.](https://dev.to/medunes/clean-code-change-insurance-pay-the-premium-or-face-bankruptcy-9no)
+- [Application of Async Programming in Web Development&lpar;1226&rpar;](https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development1226-1pe3)
+- [Using obsidian without claude MCP? Try this and I bet your notes will be more refined and complete](https://dev.to/sroy8091/using-obsidian-without-claude-mcp-try-this-and-i-bet-your-notes-will-be-more-refined-and-complete-3i12)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;0452&rpar;](https://dev.to/member_fdfd31bf/design-philosophy-of-zero-dependency-web-framework0452-2d0b)
 <!-- BLOG-POST-LIST:END -->
 
