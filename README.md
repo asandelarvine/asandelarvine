@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6737&rpar;](https://dev.to/member_bf115bc6/memory-safety-meets-extreme-performance-in-web-servers6737-35i5)
-- [[New] React Native &amp; Android SDK 15: A Developer&#39;s Guide](https://dev.to/onlyhasbi/new-react-native-android-sdk-15-a-developers-guide-485m)
-- [TCP Optimization Techniques for Web Server Performance&lpar;1791&rpar;](https://dev.to/member_bb466cd7/tcp-optimization-techniques-for-web-server-performance1791-4d0j)
-- [High-Performance Routing System Design and Implementation&lpar;9988&rpar;](https://dev.to/member_c4991035/high-performance-routing-system-design-and-implementation9988-411e)
+- [NodeJS Fundamentals: dns](https://dev.to/devopsfundamentals/nodejs-fundamentals-dns-4739)
+- [An Introduction to Model Context Protocol &lpar;MCP&rpar;](https://dev.to/mohammedsafvan/an-introduction-to-model-context-protocol-mcp-jd6)
+- [DealMorph – Automate Telegram Bot](https://dev.to/omniradhanexus/dealmorph-automate-telegram-bot-7f3)
+- [What Is Vibe Coding🤔? Here&#39;s To Do It.](https://dev.to/soumyadeepdey/what-is-vibe-coding-how-to-do-it-4e9j)
 <!-- BLOG-POST-LIST:END -->
 
