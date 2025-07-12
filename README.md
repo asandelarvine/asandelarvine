@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Cryptography in Ethereum](https://dev.to/githaiga22/cryptography-in-ethereum-g21)
-- [SkylarkTV: Streaming Platform Built with Next.js and Skylark CMS](https://dev.to/jameswallis/skylarktv-streaming-platform-built-with-nextjs-and-skylark-cms-18gh)
-- [Terraform MCP Server: What It Is and Why Engineering Teams Are Adopting It](https://dev.to/mehul_budasana/terraform-mcp-server-what-it-is-and-why-engineering-teams-are-adopting-it-308h)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5345&rpar;](https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla)
+- [🚦 Real-Time Freight Tracker with Java &amp; WebSockets &lpar;Phase 2&rpar;](https://dev.to/jayantineu/real-time-freight-tracker-with-java-websockets-phase-2-5265)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;1647&rpar;](https://dev.to/member_8a2272d3/http-request-processing-with-zero-copy-optimization1647-3fch)
+- [Asynchronous Programming Patterns for Web Development&lpar;9730&rpar;](https://dev.to/member_bf115bc6/asynchronous-programming-patterns-for-web-development9730-2l9b)
+- [Rust Implementation for High Concurrency Processing&lpar;4570&rpar;](https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing4570-2669)
 <!-- BLOG-POST-LIST:END -->
 
