@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating My Inbox with AI: A Python Email Assistant using Cohere, Gmail API, and Telegram Alerts](https://dev.to/armaansharma12/automating-my-inbox-with-ai-a-python-email-assistant-using-cohere-gmail-api-and-telegram-alerts-k15)
-- [I submitted a project for the new challenge #algoliachallenge Biased opinion: The best way to use Algolia MCP 👇 https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5](https://dev.to/axrisi/i-submitted-a-project-for-the-new-challenge-algoliachallenge-biased-opinion-the-best-way-to-1ho3)
-- [Self-Documenting MCP: One-Step Algolia Setup via MCP Server in Cursor IDE](https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5)
-- [Color pedia Cats with Imagen API](https://dev.to/aniruddhaadak/color-pedia-cats-with-imagen-api-4map)
+- [🧠 Build or Use a Free Dream Interpreter Powered by AI – No Login Required!](https://dev.to/html5x/build-or-use-a-free-dream-interpreter-powered-by-ai-no-login-required-15fn)
+- [The Invisible Epidemic 😷: Facing the Silent Crisis of Burnout [with Sam Loeffler]](https://dev.to/sonika_onboardedhq/the-invisible-epidemic-facing-the-silent-crisis-of-burnout-with-sam-loeffler-19jp)
+- [Why HikariCP Throws Timeout &amp; How to Fix It](https://dev.to/anasanjaria/why-hikaricp-throws-timeout-how-to-fix-it-3p0f)
+- [🧠 Understanding the CAP Theorem – Through Alice’s Distributed Adventure 🚀](https://dev.to/sajidurshajib/understanding-the-cap-theorem-through-alices-distributed-adventure-pmp)
 <!-- BLOG-POST-LIST:END -->
 
