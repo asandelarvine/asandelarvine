@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code = Change Insurance. Pay the Premium or Face Bankruptcy.](https://dev.to/medunes/clean-code-change-insurance-pay-the-premium-or-face-bankruptcy-9no)
-- [Application of Async Programming in Web Development&lpar;1226&rpar;](https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development1226-1pe3)
-- [Using obsidian without claude MCP? Try this and I bet your notes will be more refined and complete](https://dev.to/sroy8091/using-obsidian-without-claude-mcp-try-this-and-i-bet-your-notes-will-be-more-refined-and-complete-3i12)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;0452&rpar;](https://dev.to/member_fdfd31bf/design-philosophy-of-zero-dependency-web-framework0452-2d0b)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;2947&rpar;](https://dev.to/member_bb466cd7/revolutionary-performance-breakthrough-in-modern-web-development2947-4nkn)
+- [5 Lessons You Can Learn From Patio Door Track Repair](https://dev.to/nickelguide9/5-lessons-you-can-learn-from-patio-door-track-repair-40pa)
+- [HTTP Response Optimization and Streaming Techniques&lpar;7031&rpar;](https://dev.to/member_bf115bc6/http-response-optimization-and-streaming-techniques7031-4o8k)
+- [How to Hire a Backend Developer as an Executive](https://dev.to/dmitrybaraishuk/how-to-hire-a-backend-developer-as-an-executive-5gbi)
 <!-- BLOG-POST-LIST:END -->
 
