@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚦 Real-Time Freight Tracker with Java &amp; WebSockets &lpar;Phase 2&rpar;](https://dev.to/jayantineu/real-time-freight-tracker-with-java-websockets-phase-2-5265)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;1647&rpar;](https://dev.to/member_8a2272d3/http-request-processing-with-zero-copy-optimization1647-3fch)
-- [Asynchronous Programming Patterns for Web Development&lpar;9730&rpar;](https://dev.to/member_bf115bc6/asynchronous-programming-patterns-for-web-development9730-2l9b)
-- [Rust Implementation for High Concurrency Processing&lpar;4570&rpar;](https://dev.to/member_3bd028d5/rust-implementation-for-high-concurrency-processing4570-2669)
+- [🚀 Host Your First Website on AWS S3 - From Zero to Live in 45 Minutes [Part-3]](https://dev.to/suvrajeet/host-your-first-website-on-aws-s3-from-zero-to-live-in-45-minutes-part-3-db6)
+- [Provide storage for the public website](https://dev.to/adeyemo/provide-storage-for-the-public-website-274d)
+- [Application of Async Programming in Web Development&lpar;4806&rpar;](https://dev.to/member_3bd028d5/application-of-async-programming-in-web-development4806-9b9)
+- [TCP Optimization Techniques for Web Server Performance&lpar;4913&rpar;](https://dev.to/member_bf115bc6/tcp-optimization-techniques-for-web-server-performance4913-1b0l)
 <!-- BLOG-POST-LIST:END -->
 
