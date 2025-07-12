@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenShift + AWS Observability: Track Logs &amp; Metrics Without Code](https://dev.to/sindhuja_ns_1e491ce1088d/openshift-aws-observability-track-logs-metrics-without-code-2fkc)
-- [Meme Coin Development Tools: Best Resources for New Creators](https://dev.to/shelly_jackson_c6aec6426b/meme-coin-development-tools-best-resources-for-new-creators-4lll)
-- [TCP Optimization Techniques for Web Server Performance&lpar;4171&rpar;](https://dev.to/member_8a2272d3/tcp-optimization-techniques-for-web-server-performance4171-12a0)
-- [Information Extraction in NLP: Techniques, Tools &amp; Real-World Examples](https://dev.to/datatoinfinity/information-extraction-in-nlp-techniques-tools-real-world-examples-j75)
+- [WebSocket Revolution in Real-Time Communication&lpar;2827&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication2827-29bd)
+- [Amazon Q CLI Games challenge - Flappy qUfo](https://dev.to/srgchrksv/amazon-q-cli-games-challenge-flappy-qufo-38ig)
+- [🚀 Integrating Video Calls in React Native with Jitsi Meet](https://dev.to/stephen_adebayo_df57fd4ea/integrating-video-calls-in-react-native-with-jitsi-meet-4907)
+- [Middleware Architecture Patterns for Request Processing&lpar;3991&rpar;](https://dev.to/member_c4991035/middleware-architecture-patterns-for-request-processing3991-297c)
 <!-- BLOG-POST-LIST:END -->
 
