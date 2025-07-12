@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tip: ask your agent to create a /debug page](https://dev.to/peter/tip-ask-your-agent-to-create-a-debug-page-57ek)
-- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
-- [I wrote up a post about how to easily build A2A-style agents. I also talk a bit about why I like A2A more than MCP.](https://dev.to/technosophos/i-wrote-up-a-post-about-how-to-easily-build-a2a-style-agents-i-also-talk-a-bit-about-why-i-like-j0j)
-- [Dev Setup - dbt Core 1.9.0 with Airflow 3.0 Orchestration](https://dev.to/sanjayio/dev-setup-dbt-core-190-with-airflow-30-orchestration-1fgf)
+- [How to Give Your IIoT Device a Public URL with Tunnelmole](https://dev.to/robbiecahill/how-to-give-your-iiot-device-a-public-url-with-tunnelmole-4kd4)
+- [The Dumb Little Project That Saved My Sanity](https://dev.to/accioprocurement/the-dumb-little-project-that-saved-my-sanity-n8l)
+- [Java Genius: How to Instantly Build Android Apps from Figma](https://dev.to/atforeveryoung/java-genius-how-to-instantly-build-android-apps-from-figma-34b6)
+- [Gorkey school app](https://dev.to/reefyid/gorkey-school-app-2hga)
 <!-- BLOG-POST-LIST:END -->
 
