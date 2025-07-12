@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Give Your IIoT Device a Public URL with Tunnelmole](https://dev.to/robbiecahill/how-to-give-your-iiot-device-a-public-url-with-tunnelmole-4kd4)
-- [The Dumb Little Project That Saved My Sanity](https://dev.to/accioprocurement/the-dumb-little-project-that-saved-my-sanity-n8l)
-- [Java Genius: How to Instantly Build Android Apps from Figma](https://dev.to/atforeveryoung/java-genius-how-to-instantly-build-android-apps-from-figma-34b6)
-- [Gorkey school app](https://dev.to/reefyid/gorkey-school-app-2hga)
+- [Why Rockchip RK3566 Android SBC Is Gaining Attention in Industrial IoT](https://dev.to/tonyhe8688/why-rockchip-rk3566-android-sbc-is-gaining-attention-in-industrial-iot-2974)
+- [🔥 Blazing Fast Markdown Rendering for React – Benchmarked &amp; Battle-Tested](https://dev.to/mayank1513/blazing-fast-markdown-rendering-for-react-benchmarked-battle-tested-4748)
+- [String in Python &lpar;20&rpar;](https://dev.to/hyperkai/string-in-python-20-1cdb)
+- [String in Python &lpar;19&rpar;](https://dev.to/hyperkai/string-in-python-19-4j0d)
 <!-- BLOG-POST-LIST:END -->
 
