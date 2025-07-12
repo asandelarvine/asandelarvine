@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS - One Step Forward](https://dev.to/khemendra-jatav-ji/beginning-of-css-3cle)
-- [The $2M Developer Productivity Crisis: How 5 IT Leaders Cut Wasted Time by 65%](https://dev.to/teamcamp/the-2m-developer-productivity-crisis-how-5-it-leaders-cut-wasted-time-by-65-5gfl)
-- [Choosing Between JavaScript and TypeScript: A Practical Guide](https://dev.to/manukumar07/choosing-between-javascript-and-typescript-a-practical-guide-48ai)
-- [Is it okay to start coding after +2 and get a degree later?](https://dev.to/ayisha_shiba_2d4c4b75c1bc/is-it-okay-to-start-coding-after-2-and-get-a-degree-later-ckd)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6737&rpar;](https://dev.to/member_bf115bc6/memory-safety-meets-extreme-performance-in-web-servers6737-35i5)
+- [[New] React Native &amp; Android SDK 15: A Developer&#39;s Guide](https://dev.to/onlyhasbi/new-react-native-android-sdk-15-a-developers-guide-485m)
+- [TCP Optimization Techniques for Web Server Performance&lpar;1791&rpar;](https://dev.to/member_bb466cd7/tcp-optimization-techniques-for-web-server-performance1791-4d0j)
+- [High-Performance Routing System Design and Implementation&lpar;9988&rpar;](https://dev.to/member_c4991035/high-performance-routing-system-design-and-implementation9988-411e)
 <!-- BLOG-POST-LIST:END -->
 
