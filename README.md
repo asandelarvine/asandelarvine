@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😱 Most Developers Fail Here: Delete a Node from a BST in O&lpar;h&rpar; Without Recursion &lpar;Python Version&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/most-developers-fail-here-delete-a-node-from-a-bst-in-oh-without-recursion-python-version-52kj)
-- [RinaWarp Terminal – World&#39;s First Mermaid AI Terminal 🌊](https://dev.to/bigsgotchu/rinawarp-terminal-worlds-first-mermaid-ai-terminal-32bo)
-- [NodeJS Fundamentals: axios](https://dev.to/devopsfundamentals/nodejs-fundamentals-axios-73h)
-- [Rust Implementation for High Concurrency Processing&lpar;7441&rpar;](https://dev.to/member_fdfd31bf/rust-implementation-for-high-concurrency-processing7441-1j0b)
+- [📚 DevDocs — All API Docs in One Fast, Searchable Interface](https://dev.to/ml318097/devdocs-all-api-docs-in-one-fast-searchable-interface-2b2c)
+- [Deploying a Voting App on AWS EKS](https://dev.to/aws-builders/deploying-a-voting-app-on-aws-eks-j2m)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;8918&rpar;](https://dev.to/member_3bd028d5/resource-management-and-memory-efficiency-in-web-servers8918-1dhn)
+- [Machine Learning Fundamentals: data augmentation tutorial](https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-augmentation-tutorial-3kdi)
 <!-- BLOG-POST-LIST:END -->
 
