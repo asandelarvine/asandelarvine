@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Host Your First Website on AWS S3 - From Zero to Live in 45 Minutes [Part-3]](https://dev.to/suvrajeet/host-your-first-website-on-aws-s3-from-zero-to-live-in-45-minutes-part-3-db6)
-- [Provide storage for the public website](https://dev.to/adeyemo/provide-storage-for-the-public-website-274d)
-- [Application of Async Programming in Web Development&lpar;4806&rpar;](https://dev.to/member_3bd028d5/application-of-async-programming-in-web-development4806-9b9)
-- [TCP Optimization Techniques for Web Server Performance&lpar;4913&rpar;](https://dev.to/member_bf115bc6/tcp-optimization-techniques-for-web-server-performance4913-1b0l)
+- [Middleware Architecture Patterns for Request Processing&lpar;3755&rpar;](https://dev.to/member_fdfd31bf/middleware-architecture-patterns-for-request-processing3755-5g7c)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;3735&rpar;](https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6)
+- [How to Create A Telegram Bot with BuilderEngine.](https://dev.to/a_rjun_m/how-to-create-a-telegram-bot-with-builderengine-1716)
+- [High-Performance Routing System Design and Implementation&lpar;5600&rpar;](https://dev.to/member_3bd028d5/high-performance-routing-system-design-and-implementation5600-2o53)
 <!-- BLOG-POST-LIST:END -->
 
