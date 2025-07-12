@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Revolution in Real-Time Communication&lpar;2827&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication2827-29bd)
-- [Amazon Q CLI Games challenge - Flappy qUfo](https://dev.to/srgchrksv/amazon-q-cli-games-challenge-flappy-qufo-38ig)
-- [🚀 Integrating Video Calls in React Native with Jitsi Meet](https://dev.to/stephen_adebayo_df57fd4ea/integrating-video-calls-in-react-native-with-jitsi-meet-4907)
-- [Middleware Architecture Patterns for Request Processing&lpar;3991&rpar;](https://dev.to/member_c4991035/middleware-architecture-patterns-for-request-processing3991-297c)
+- [😱 Most Developers Fail Here: Delete a Node from a BST in O&lpar;h&rpar; Without Recursion &lpar;Python Version&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/most-developers-fail-here-delete-a-node-from-a-bst-in-oh-without-recursion-python-version-52kj)
+- [RinaWarp Terminal – World&#39;s First Mermaid AI Terminal 🌊](https://dev.to/bigsgotchu/rinawarp-terminal-worlds-first-mermaid-ai-terminal-32bo)
+- [NodeJS Fundamentals: axios](https://dev.to/devopsfundamentals/nodejs-fundamentals-axios-73h)
+- [Rust Implementation for High Concurrency Processing&lpar;7441&rpar;](https://dev.to/member_fdfd31bf/rust-implementation-for-high-concurrency-processing7441-1j0b)
 <!-- BLOG-POST-LIST:END -->
 
