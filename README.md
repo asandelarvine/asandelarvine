@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: dns](https://dev.to/devopsfundamentals/nodejs-fundamentals-dns-4739)
-- [An Introduction to Model Context Protocol &lpar;MCP&rpar;](https://dev.to/mohammedsafvan/an-introduction-to-model-context-protocol-mcp-jd6)
-- [DealMorph – Automate Telegram Bot](https://dev.to/omniradhanexus/dealmorph-automate-telegram-bot-7f3)
-- [What Is Vibe Coding🤔? Here&#39;s To Do It.](https://dev.to/soumyadeepdey/what-is-vibe-coding-how-to-do-it-4e9j)
+- [Provide private storage for internal company documents](https://dev.to/arctaiwo/provide-private-storage-for-internal-company-documents-1c7o)
+- [Revolutionizing Education: How Online Learning Platforms are Tailoring to Gen Z&#39;s Unique Needs](https://dev.to/ghummantech/revolutionizing-education-how-online-learning-platforms-are-tailoring-to-gen-zs-unique-needs-2iah)
+- [Efficient WebSocket Server-Side Processing&lpar;9961&rpar;](https://dev.to/member_3bd028d5/efficient-websocket-server-side-processing9961-112)
+- [New Choice for Cross-Platform Web Service Development&lpar;4620&rpar;](https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4620-2pj1)
 <!-- BLOG-POST-LIST:END -->
 
