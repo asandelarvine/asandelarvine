@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient WebSocket Server-Side Processing&lpar;2202&rpar;](https://dev.to/member_bf115bc6/efficient-websocket-server-side-processing2202-5fh9)
-- [Rust Async Web Framework Performance Breakthrough&lpar;2794&rpar;](https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough2794-1fei)
-- [Everything about ESM and treeshaking](https://dev.to/pouja/everything-about-esm-and-treeshaking-5f4l)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;0092&rpar;](https://dev.to/member_bb466cd7/concurrency-mastery-through-advanced-async-programming0092-2pf5)
+- [Automating My Inbox with AI: A Python Email Assistant using Cohere, Gmail API, and Telegram Alerts](https://dev.to/armaansharma12/automating-my-inbox-with-ai-a-python-email-assistant-using-cohere-gmail-api-and-telegram-alerts-k15)
+- [I submitted a project for the new challenge #algoliachallenge Biased opinion: The best way to use Algolia MCP 👇 https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5](https://dev.to/axrisi/i-submitted-a-project-for-the-new-challenge-algoliachallenge-biased-opinion-the-best-way-to-1ho3)
+- [Self-Documenting MCP: One-Step Algolia Setup via MCP Server in Cursor IDE](https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5)
+- [Color pedia Cats with Imagen API](https://dev.to/aniruddhaadak/color-pedia-cats-with-imagen-api-4map)
 <!-- BLOG-POST-LIST:END -->
 
