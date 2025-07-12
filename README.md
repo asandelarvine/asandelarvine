@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;2947&rpar;](https://dev.to/member_bb466cd7/revolutionary-performance-breakthrough-in-modern-web-development2947-4nkn)
-- [5 Lessons You Can Learn From Patio Door Track Repair](https://dev.to/nickelguide9/5-lessons-you-can-learn-from-patio-door-track-repair-40pa)
-- [HTTP Response Optimization and Streaming Techniques&lpar;7031&rpar;](https://dev.to/member_bf115bc6/http-response-optimization-and-streaming-techniques7031-4o8k)
-- [How to Hire a Backend Developer as an Executive](https://dev.to/dmitrybaraishuk/how-to-hire-a-backend-developer-as-an-executive-5gbi)
+- [OpenShift + AWS Observability: Track Logs &amp; Metrics Without Code](https://dev.to/sindhuja_ns_1e491ce1088d/openshift-aws-observability-track-logs-metrics-without-code-2fkc)
+- [Meme Coin Development Tools: Best Resources for New Creators](https://dev.to/shelly_jackson_c6aec6426b/meme-coin-development-tools-best-resources-for-new-creators-4lll)
+- [TCP Optimization Techniques for Web Server Performance&lpar;4171&rpar;](https://dev.to/member_8a2272d3/tcp-optimization-techniques-for-web-server-performance4171-12a0)
+- [Information Extraction in NLP: Techniques, Tools &amp; Real-World Examples](https://dev.to/datatoinfinity/information-extraction-in-nlp-techniques-tools-real-world-examples-j75)
 <!-- BLOG-POST-LIST:END -->
 
