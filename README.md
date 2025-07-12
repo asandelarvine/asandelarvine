@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 DevDocs — All API Docs in One Fast, Searchable Interface](https://dev.to/ml318097/devdocs-all-api-docs-in-one-fast-searchable-interface-2b2c)
-- [Deploying a Voting App on AWS EKS](https://dev.to/aws-builders/deploying-a-voting-app-on-aws-eks-j2m)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;8918&rpar;](https://dev.to/member_3bd028d5/resource-management-and-memory-efficiency-in-web-servers8918-1dhn)
-- [Machine Learning Fundamentals: data augmentation tutorial](https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-augmentation-tutorial-3kdi)
+- [🔐 Cryptography in Ethereum](https://dev.to/githaiga22/cryptography-in-ethereum-g21)
+- [SkylarkTV: Streaming Platform Built with Next.js and Skylark CMS](https://dev.to/jameswallis/skylarktv-streaming-platform-built-with-nextjs-and-skylark-cms-18gh)
+- [Terraform MCP Server: What It Is and Why Engineering Teams Are Adopting It](https://dev.to/mehul_budasana/terraform-mcp-server-what-it-is-and-why-engineering-teams-are-adopting-it-308h)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5345&rpar;](https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla)
 <!-- BLOG-POST-LIST:END -->
 
