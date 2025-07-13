@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The REST API Trick 95% of Developers Miss!](https://dev.to/alokoct21/the-rest-api-trick-95-of-developers-miss-41oj)
-- [CI/CD Meets Monitoring: My Full DevOps Stack with Node.js, Kubernetes, and GitHub Actions](https://dev.to/sayan_singh_dda15e0427c9d/cicd-meets-monitoring-my-full-devops-stack-with-nodejs-kubernetes-and-github-actions-3036)
-- [How I built JavaScript&#39;s fastest &quot;deep equals&quot; function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-equals-function-51n8)
-- [From URL to React: What Happens When You Type URL and Press Enter?](https://dev.to/shubham_ghule_e94e88f98ce/from-url-to-react-what-happens-when-you-press-enter-40n8)
+- [AWS Roadmap](https://dev.to/avinash_nag_7d138cfd2b16a/aws-roadmap-5b54)
+- [CSS Art Office Culture - Frontend Challenge Submission](https://dev.to/aibughunter/css-art-office-culture-frontend-challenge-submission-93a)
+- [Missing Number&quot; problem — a common coding question on LeetCode &lpar;#268&rpar; and interviews at companies like Amazon.](https://dev.to/harshpdev/missing-number-problem-a-common-coding-question-on-leetcode-268-and-interviews-at-companies-69d)
+- [Building a GAN from Scratch: My Journey into Generative AI 🤖](https://dev.to/gruhesh_kurra_6eb933146da/building-a-gan-from-scratch-my-journey-into-generative-ai-5fg7)
 <!-- BLOG-POST-LIST:END -->
 
