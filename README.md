@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tryhackme - Cyber Kill Chain](https://dev.to/hr21don/tryhackme-cyber-kill-chain-2ab5)
-- [🟢 How to Launch an Ubuntu EC2 Instance on AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/augustine_okwaraebuzie_4e/how-to-launch-an-ubuntu-ec2-instance-on-aws-step-by-step-guide-59al)
-- [How to Avoid TLE &lpar;Time Limit Exceeded&rpar; Errors in Coding Problems](https://dev.to/pratikshya_behera_/how-to-avoid-tle-time-limit-exceeded-errors-in-coding-problems-1df2)
-- [🧩 When to Use NoSQL and SQL?](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m)
+- [GameSpot: 50 Practical Tips In BOTW That Still Work On Switch 2](https://dev.to/gg_news/gamespot-50-practical-tips-in-botw-that-still-work-on-switch-2-2646)
+- [IGN: What GTA 6 Can Learn From GTA 4, AKA The Best GTA Game](https://dev.to/gg_news/ign-what-gta-6-can-learn-from-gta-4-aka-the-best-gta-game-3658)
+- [IGN: Of Ash and Steel Is a Charmingly Old-School Fantasy Adventure](https://dev.to/gg_news/ign-of-ash-and-steel-is-a-charmingly-old-school-fantasy-adventure-n3l)
+- [IGN: What The Surprise Character Who Called Superman A B!tch Means To The Future of James Gunn&#39;s DCU](https://dev.to/gg_news/ign-what-the-surprise-character-who-called-superman-a-btch-means-to-the-future-of-james-gunns-dcu-3a0c)
 <!-- BLOG-POST-LIST:END -->
 
