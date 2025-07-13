@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Roadmap](https://dev.to/avinash_nag_7d138cfd2b16a/aws-roadmap-5b54)
-- [CSS Art Office Culture - Frontend Challenge Submission](https://dev.to/aibughunter/css-art-office-culture-frontend-challenge-submission-93a)
-- [Missing Number&quot; problem — a common coding question on LeetCode &lpar;#268&rpar; and interviews at companies like Amazon.](https://dev.to/harshpdev/missing-number-problem-a-common-coding-question-on-leetcode-268-and-interviews-at-companies-69d)
-- [Building a GAN from Scratch: My Journey into Generative AI 🤖](https://dev.to/gruhesh_kurra_6eb933146da/building-a-gan-from-scratch-my-journey-into-generative-ai-5fg7)
+- [NodeJS Fundamentals: domain](https://dev.to/devopsfundamentals/nodejs-fundamentals-domain-3b04)
+- [Kubernetes Workshop1 : Step10 : Service Loadbalancer](https://dev.to/cross1308/kubernetes-workshop1-step9-service-loadbalancer-565i)
+- [Breaking Circular Dependencies in Kotlin with the Mediator Pattern](https://dev.to/mikesplore/breaking-circular-dependencies-in-kotlin-with-the-mediator-pattern-136d)
+- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
 <!-- BLOG-POST-LIST:END -->
 
