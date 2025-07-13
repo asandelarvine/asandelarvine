@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📄 Mastering Page Breaks in Uniface: The eject Statement Explained](https://dev.to/petercode/mastering-page-breaks-in-uniface-the-eject-statement-explained-3en1)
-- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
-- [🚀 Introducing CodeWhiz: Your AI-Powered Code Commenting Sidekick for VS Code 🧠✨](https://dev.to/puneetkumar2010/introducing-codewhiz-your-ai-powered-code-commenting-sidekick-for-vs-code-1nhc)
-- [How to create a simple waitlist form in Next.js using Supabase to collect responses](https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe)
+- [C++ Is The GOAT — Part 4: Cross-Platform Powerhouse 🌍🖥️📱](https://dev.to/hmzas/c-is-the-goat-part-4-cross-platform-powerhouse-19of)
+- [C++ Is The GOAT — Part 3: The Multi-Paradigm Wizard 🧙‍♂️✨](https://dev.to/hmzas/c-is-the-goat-part-3-the-multi-paradigm-wizard-38k2)
+- [C++ Is The GOAT — Part 2: Memory Management Mastery 🧠💾](https://dev.to/hmzas/c-is-the-goat-part-2-memory-management-mastery-4hcc)
+- [Sharpen Your Front-End Skills: Quick HTML, CSS &amp; React Interview Challenges](https://dev.to/gouranga-das-khulna/sharpen-your-front-end-skills-quick-html-css-react-interview-challenges-5f2c)
 <!-- BLOG-POST-LIST:END -->
 
