@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLOUD PRACTITIONER Revisión de Examen y Simulación](https://dev.to/camila_vinza/cloud-practitioner-revision-de-examen-y-simulacion-21f2)
-- [From Shipping Containers to Software: Understanding Docker and Kubernetes](https://dev.to/dev_patel_35864ca1db6093c/from-shipping-containers-to-software-understanding-docker-and-kubernetes-5pl)
-- [Flutter Fast-Track: Instantly Export Figma Designs to Cross-Platform Code](https://dev.to/atforeveryoung/flutter-fast-track-instantly-export-figma-designs-to-cross-platform-code-1be6)
-- [How to Automatically Switch Layout Direction Based on Course Language in a React Native E-learning App?](https://dev.to/med_ahmed_ebecf00a85e8b15/how-to-automatically-switch-layout-direction-based-on-course-language-in-a-react-native-e-learning-4amk)
+- [Understanding Go Slices: Why They Behave Unexpectedly](https://dev.to/anu_madhav_62b44758e55af7/understanding-go-slices-why-they-behave-unexpectedly-52db)
+- [Introduction to Java](https://dev.to/naveen2521/introduction-to-java-kb0)
+- [Managing Apache Tomcat with systemd on Linux – A DevOps Guide](https://dev.to/ahmad01/managing-apache-tomcat-with-systemd-on-linux-a-devops-guide-1j2k)
+- [String in Python &lpar;21&rpar;](https://dev.to/hyperkai/string-in-python-21-3o5p)
 <!-- BLOG-POST-LIST:END -->
 
