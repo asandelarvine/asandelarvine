@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BREAKING: Free AI API Keys 2025: 3 Secret Platforms Replacing Paid Services](https://dev.to/itshayder/breaking-free-ai-api-keys-2025-3-secret-platforms-replacing-paid-services-2708)
-- [[Boost]](https://dev.to/theorienet/-8d2)
-- [🚀 5 AI Tools That Saved Me 20+ Hours Last Month](https://dev.to/theorienet/5-ai-tools-that-saved-me-20-hours-last-month-52i8)
-- [Why Not Implement HMR with Static Analysis?](https://dev.to/muspi-merol/why-not-implement-hmr-with-static-analysis-2l5d)
+- [CLOUD PRACTITIONER Revisión de Examen y Simulación](https://dev.to/camila_vinza/cloud-practitioner-revision-de-examen-y-simulacion-21f2)
+- [From Shipping Containers to Software: Understanding Docker and Kubernetes](https://dev.to/dev_patel_35864ca1db6093c/from-shipping-containers-to-software-understanding-docker-and-kubernetes-5pl)
+- [Flutter Fast-Track: Instantly Export Figma Designs to Cross-Platform Code](https://dev.to/atforeveryoung/flutter-fast-track-instantly-export-figma-designs-to-cross-platform-code-1be6)
+- [How to Automatically Switch Layout Direction Based on Course Language in a React Native E-learning App?](https://dev.to/med_ahmed_ebecf00a85e8b15/how-to-automatically-switch-layout-direction-based-on-course-language-in-a-react-native-e-learning-4amk)
 <!-- BLOG-POST-LIST:END -->
 
