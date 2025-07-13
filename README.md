@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/vamsirajagiri/-11oc)
-- [Why, after 20 years as a JavaScript developer, I switched to semicolons](https://dev.to/matthewdean/why-after-20-years-as-a-javascript-developer-i-switched-to-semicolons-2n1c)
-- [MySQL Indexing Demystified: Step-by-Step Instructions for Developers](https://dev.to/__0bf10cd6f/mysql-indexing-demystified-step-by-step-instructions-for-developers-3mn5)
-- [How I Built a Real-Time Gesture-to-Text Translator Using Python and MediaPipe](https://dev.to/tayo4christ/how-i-built-a-real-time-gesture-to-text-translator-using-python-and-mediapipe-1c75)
+- [Getting Started with Rust in 2025: Why Now Is a Great Time to Learn Rust 🦀](https://dev.to/basfar/getting-started-with-rust-in-2025-why-now-is-a-great-time-to-learn-rust-1d89)
+- [Part 4: Real-time Blockchain Updates --- Listening for Smart Contract Events with web3.py](https://dev.to/divine_igbinoba_fb6de7207/part-4-real-time-blockchain-updates-listening-for-smart-contract-events-with-web3py-32dl)
+- [Milla Photo Image Carousel &lpar; Animation &rpar;](https://dev.to/online_zone76/milla-photo-image-carousel-animation--2agh)
+- [A Deep Dive into CSS Animations with keyframes](https://dev.to/mechcloud_academy/a-deep-dive-into-css-animations-with-keyframes-7n6)
 <!-- BLOG-POST-LIST:END -->
 
