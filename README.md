@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Clock: How Online Learning Platforms Elevate Students&#39; Time Management Skills](https://dev.to/ghummantech/mastering-the-clock-how-online-learning-platforms-elevate-students-time-management-skills-865)
-- [🧠 Why You Don’t Need Redux in 2025](https://dev.to/manukumar07/why-you-dont-need-redux-in-2025-29dg)
-- [darkmatter](https://dev.to/preetha_vaishnavi_2b82358/darkmatter-62e)
-- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5)
+- [🔄 Understanding the Break Statement in Uniface 10.4](https://dev.to/petercode/understanding-the-break-statement-in-uniface-104-3jg8)
+- [How long does it usually take you to learn a new language? And practise it in real-life projects?](https://dev.to/dara01x/how-long-does-it-usually-take-you-to-learn-a-new-language-and-practise-it-in-real-life-projects-42oc)
+- [Your First Angular 20 Project: Step‑by‑Step for Absolute Beginners](https://dev.to/preethi_r_eecc1107f906ec6/your-first-angular-20-project-step-by-step-for-absolute-beginners-3mb1)
+- [Uniface 10.4: The blockdata Statement - Elegant Multi-line Text Definition](https://dev.to/petercode/uniface-104-the-blockdata-statement-elegant-multi-line-text-definition-4764)
 <!-- BLOG-POST-LIST:END -->
 
