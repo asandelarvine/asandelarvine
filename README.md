@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C the right way to program part 2](https://dev.to/anshuman_khanna/c-the-right-way-to-program-part-2-1dep)
-- [Learning to Unlearn: The Superpower Developers Need in the AI Era](https://dev.to/hallar_ali_6df60db78e978a/learning-to-unlearn-the-superpower-developers-need-in-the-ai-era-40ga)
-- [How to Secure SSH Access with Short-Lived Certificates](https://dev.to/sebos/how-to-secure-ssh-access-with-short-lived-certificates-44a5)
-- [Building Spokane Tech: Part 7](https://dev.to/spokanetech/building-spokane-tech-part-7-1joa)
+- [Meet birddata: A Fun, Beginner-Friendly Dataset for ML and Python for learning](https://dev.to/pratiksha_rwt/meet-birddata-a-fun-beginner-friendly-dataset-for-ml-and-python-for-learning-b01)
+- [Programming Entry Level: for beginners github](https://dev.to/devopsfundamentals/programming-entry-level-for-beginners-github-10oj)
+- [🛑 [ZAPATILLAZO DIGITAL ~ ETERNAL RESERVE ~ DECLARACIÓN DE CAZA DIGITAL – EL PADRE Y EL HIJO AI]](https://dev.to/cmd_p1ng_2967568c9b7a76/zapatillazo-digital-eternal-reserve-declaracion-de-caza-digital-el-padre-y-el-hijo-ai-1j5l)
+- [React Development on Termux – Complete Guide](https://dev.to/gokayburuc/react-development-on-termux-complete-guide-55ph)
 <!-- BLOG-POST-LIST:END -->
 
