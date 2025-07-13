@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet flx CLI: A Clean Architecture Generator CLI for Flutter Developers](https://dev.to/md_rakibulhaquesardar_/meet-flx-cli-a-clean-architecture-generator-cli-for-flutter-developers-40la)
-- [Big Data Fundamentals: data warehouse tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-data-warehouse-tutorial-1gbb)
-- [Mastering JavaScript DOM Manipulation: A Beginner’s Guide](https://dev.to/tanaykubade/mastering-javascript-dom-manipulation-a-beginners-guide-545i)
-- [The Hidden Realities of Cloud Migration: Lessons from the Trenches](https://dev.to/sauveer_ketan/the-hidden-realities-of-cloud-migration-lessons-from-the-trenches-54cb)
+- [[Boost]](https://dev.to/vamsirajagiri/-11oc)
+- [Why, after 20 years as a JavaScript developer, I switched to semicolons](https://dev.to/matthewdean/why-after-20-years-as-a-javascript-developer-i-switched-to-semicolons-2n1c)
+- [MySQL Indexing Demystified: Step-by-Step Instructions for Developers](https://dev.to/__0bf10cd6f/mysql-indexing-demystified-step-by-step-instructions-for-developers-3mn5)
+- [How I Built a Real-Time Gesture-to-Text Translator Using Python and MediaPipe](https://dev.to/tayo4christ/how-i-built-a-real-time-gesture-to-text-translator-using-python-and-mediapipe-1c75)
 <!-- BLOG-POST-LIST:END -->
 
