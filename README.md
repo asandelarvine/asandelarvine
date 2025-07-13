@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Understanding the Break Statement in Uniface 10.4](https://dev.to/petercode/understanding-the-break-statement-in-uniface-104-3jg8)
-- [How long does it usually take you to learn a new language? And practise it in real-life projects?](https://dev.to/dara01x/how-long-does-it-usually-take-you-to-learn-a-new-language-and-practise-it-in-real-life-projects-42oc)
-- [Your First Angular 20 Project: Step‑by‑Step for Absolute Beginners](https://dev.to/preethi_r_eecc1107f906ec6/your-first-angular-20-project-step-by-step-for-absolute-beginners-3mb1)
-- [Uniface 10.4: The blockdata Statement - Elegant Multi-line Text Definition](https://dev.to/petercode/uniface-104-the-blockdata-statement-elegant-multi-line-text-definition-4764)
+- [Understanding Uniface componentToStruct: Converting Component Data to Structures 🚀](https://dev.to/petercode/understanding-uniface-componenttostruct-converting-component-data-to-structures-5coa)
+- [Markdown Processing in AI Applications with mq-mcp](https://dev.to/harehare/markdown-processing-in-ai-applications-with-mq-mcp-cnl)
+- [Today I learned Java class,Objtect and OOPS concept.](https://dev.to/kanaga_vimala_66acce9cf6e/today-i-learned-java-classobjtect-and-oops-concept-23p)
+- [How I Built E2E Tests for Chrome Extensions Using Playwright and CDP](https://dev.to/corrupt952/how-i-built-e2e-tests-for-chrome-extensions-using-playwright-and-cdp-11fl)
 <!-- BLOG-POST-LIST:END -->
 
