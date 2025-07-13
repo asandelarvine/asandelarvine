@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding of Deep Copy and Shallow Copy in JavaScript](https://dev.to/kannan_ravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-h3i)
-- [Why Your Flutter App Rebuilds Too Much — And How to Fix It](https://dev.to/alaminkarno/why-your-flutter-app-rebuilds-too-much-and-how-to-fix-it-bpi)
-- [🧠 10-Day JS Challenge: Arrays &amp; Array Methods Day-6](https://dev.to/smriti_webdev/10-day-js-challenge-arrays-array-methods-day-6-b3b)
-- [Top 5 Infrastructure-Level Techniques to Handle High Traffic in Spring Boot: Part 2](https://dev.to/abhijithzero/top-5-infrastructure-level-techniques-to-handle-high-traffic-in-spring-boot-part-2-3g48)
+- [Meet flx CLI: A Clean Architecture Generator CLI for Flutter Developers](https://dev.to/md_rakibulhaquesardar_/meet-flx-cli-a-clean-architecture-generator-cli-for-flutter-developers-40la)
+- [Big Data Fundamentals: data warehouse tutorial](https://dev.to/devopsfundamentals/big-data-fundamentals-data-warehouse-tutorial-1gbb)
+- [Mastering JavaScript DOM Manipulation: A Beginner’s Guide](https://dev.to/tanaykubade/mastering-javascript-dom-manipulation-a-beginners-guide-545i)
+- [The Hidden Realities of Cloud Migration: Lessons from the Trenches](https://dev.to/sauveer_ketan/the-hidden-realities-of-cloud-migration-lessons-from-the-trenches-54cb)
 <!-- BLOG-POST-LIST:END -->
 
