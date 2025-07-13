@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: 50 Practical Tips In BOTW That Still Work On Switch 2](https://dev.to/gg_news/gamespot-50-practical-tips-in-botw-that-still-work-on-switch-2-2646)
-- [IGN: What GTA 6 Can Learn From GTA 4, AKA The Best GTA Game](https://dev.to/gg_news/ign-what-gta-6-can-learn-from-gta-4-aka-the-best-gta-game-3658)
-- [IGN: Of Ash and Steel Is a Charmingly Old-School Fantasy Adventure](https://dev.to/gg_news/ign-of-ash-and-steel-is-a-charmingly-old-school-fantasy-adventure-n3l)
-- [IGN: What The Surprise Character Who Called Superman A B!tch Means To The Future of James Gunn&#39;s DCU](https://dev.to/gg_news/ign-what-the-surprise-character-who-called-superman-a-btch-means-to-the-future-of-james-gunns-dcu-3a0c)
+- [Roslyn CodeFix for updating code](https://dev.to/mikhailnefedov/roslyn-codefix-for-updating-code-33a4)
+- [Provide private storage for internal company documents](https://dev.to/adeyemo/provide-private-storage-for-internal-company-documents-5885)
+- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
+- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
 <!-- BLOG-POST-LIST:END -->
 
