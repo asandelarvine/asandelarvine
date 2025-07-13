@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy of Application from S3 Bucket Using AWS Amplify](https://dev.to/aws-builders/deploy-of-application-from-s3-bucket-using-aws-amplify-bpf)
-- [How Jekyll almost killed our vitepress docs](https://dev.to/raghavyuva/how-jkyll-almost-killed-our-vitepress-docs-3ph8)
-- [Help me fix the error code](https://dev.to/huy_nguyn_95e81095b82a7b/help-me-fix-the-error-code-2cp9)
-- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-1koa)
+- [[Boost]](https://dev.to/atharvayadav28/-2de)
+- [Build a Cryptocurrency Web App Using React or Next.js](https://dev.to/er-raj-aryan/build-a-cryptocurrency-web-app-using-react-or-nextjs-2m7)
+- [How to Add ESLint and prettier to an Angular Application](https://dev.to/extinctsion/how-to-add-eslint-and-prettier-to-an-angular-application-3oc3)
+- [✫ CodeCharm: VS Code Extension That Comments Your Code Like an AI Pro &lpar;With Emojis!&rpar;](https://dev.to/puneetkumar2010/codecharm-vs-code-extension-that-comments-your-code-like-an-ai-pro-with-emojis-2ko2)
 <!-- BLOG-POST-LIST:END -->
 
