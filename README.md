@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roslyn CodeFix for updating code](https://dev.to/mikhailnefedov/roslyn-codefix-for-updating-code-33a4)
-- [Provide private storage for internal company documents](https://dev.to/adeyemo/provide-private-storage-for-internal-company-documents-5885)
-- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
-- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
+- [Deploy of Application from S3 Bucket Using AWS Amplify](https://dev.to/aws-builders/deploy-of-application-from-s3-bucket-using-aws-amplify-bpf)
+- [How Jekyll almost killed our vitepress docs](https://dev.to/raghavyuva/how-jkyll-almost-killed-our-vitepress-docs-3ph8)
+- [Help me fix the error code](https://dev.to/huy_nguyn_95e81095b82a7b/help-me-fix-the-error-code-2cp9)
+- [🎨 I Created My First VS Code Theme, Introducing VoidCore](https://dev.to/pranav89624/i-created-my-first-vs-code-theme-introducing-voidcore-1koa)
 <!-- BLOG-POST-LIST:END -->
 
