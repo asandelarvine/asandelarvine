@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Uniface componentToStruct: Converting Component Data to Structures 🚀](https://dev.to/petercode/understanding-uniface-componenttostruct-converting-component-data-to-structures-5coa)
-- [Markdown Processing in AI Applications with mq-mcp](https://dev.to/harehare/markdown-processing-in-ai-applications-with-mq-mcp-cnl)
-- [Today I learned Java class,Objtect and OOPS concept.](https://dev.to/kanaga_vimala_66acce9cf6e/today-i-learned-java-classobjtect-and-oops-concept-23p)
-- [How I Built E2E Tests for Chrome Extensions Using Playwright and CDP](https://dev.to/corrupt952/how-i-built-e2e-tests-for-chrome-extensions-using-playwright-and-cdp-11fl)
+- [📄 Mastering Page Breaks in Uniface: The eject Statement Explained](https://dev.to/petercode/mastering-page-breaks-in-uniface-the-eject-statement-explained-3en1)
+- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
+- [🚀 Introducing CodeWhiz: Your AI-Powered Code Commenting Sidekick for VS Code 🧠✨](https://dev.to/puneetkumar2010/introducing-codewhiz-your-ai-powered-code-commenting-sidekick-for-vs-code-1nhc)
+- [How to create a simple waitlist form in Next.js using Supabase to collect responses](https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe)
 <!-- BLOG-POST-LIST:END -->
 
