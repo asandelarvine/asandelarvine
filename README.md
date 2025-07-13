@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Is The GOAT — Part 4: Cross-Platform Powerhouse 🌍🖥️📱](https://dev.to/hmzas/c-is-the-goat-part-4-cross-platform-powerhouse-19of)
-- [C++ Is The GOAT — Part 3: The Multi-Paradigm Wizard 🧙‍♂️✨](https://dev.to/hmzas/c-is-the-goat-part-3-the-multi-paradigm-wizard-38k2)
-- [C++ Is The GOAT — Part 2: Memory Management Mastery 🧠💾](https://dev.to/hmzas/c-is-the-goat-part-2-memory-management-mastery-4hcc)
-- [Sharpen Your Front-End Skills: Quick HTML, CSS &amp; React Interview Challenges](https://dev.to/gouranga-das-khulna/sharpen-your-front-end-skills-quick-html-css-react-interview-challenges-5f2c)
+- [Tryhackme - Cyber Kill Chain](https://dev.to/hr21don/tryhackme-cyber-kill-chain-2ab5)
+- [🟢 How to Launch an Ubuntu EC2 Instance on AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/augustine_okwaraebuzie_4e/how-to-launch-an-ubuntu-ec2-instance-on-aws-step-by-step-guide-59al)
+- [How to Avoid TLE &lpar;Time Limit Exceeded&rpar; Errors in Coding Problems](https://dev.to/pratikshya_behera_/how-to-avoid-tle-time-limit-exceeded-errors-in-coding-problems-1df2)
+- [🧩 When to Use NoSQL and SQL?](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m)
 <!-- BLOG-POST-LIST:END -->
 
