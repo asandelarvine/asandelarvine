@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/atharvayadav28/-2de)
-- [Build a Cryptocurrency Web App Using React or Next.js](https://dev.to/er-raj-aryan/build-a-cryptocurrency-web-app-using-react-or-nextjs-2m7)
-- [How to Add ESLint and prettier to an Angular Application](https://dev.to/extinctsion/how-to-add-eslint-and-prettier-to-an-angular-application-3oc3)
-- [✫ CodeCharm: VS Code Extension That Comments Your Code Like an AI Pro &lpar;With Emojis!&rpar;](https://dev.to/puneetkumar2010/codecharm-vs-code-extension-that-comments-your-code-like-an-ai-pro-with-emojis-2ko2)
+- [Understanding of Deep Copy and Shallow Copy in JavaScript](https://dev.to/kannan_ravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-h3i)
+- [Why Your Flutter App Rebuilds Too Much — And How to Fix It](https://dev.to/alaminkarno/why-your-flutter-app-rebuilds-too-much-and-how-to-fix-it-bpi)
+- [🧠 10-Day JS Challenge: Arrays &amp; Array Methods Day-6](https://dev.to/smriti_webdev/10-day-js-challenge-arrays-array-methods-day-6-b3b)
+- [Top 5 Infrastructure-Level Techniques to Handle High Traffic in Spring Boot: Part 2](https://dev.to/abhijithzero/top-5-infrastructure-level-techniques-to-handle-high-traffic-in-spring-boot-part-2-3g48)
 <!-- BLOG-POST-LIST:END -->
 
