@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: domain](https://dev.to/devopsfundamentals/nodejs-fundamentals-domain-3b04)
-- [Kubernetes Workshop1 : Step10 : Service Loadbalancer](https://dev.to/cross1308/kubernetes-workshop1-step9-service-loadbalancer-565i)
-- [Breaking Circular Dependencies in Kotlin with the Mediator Pattern](https://dev.to/mikesplore/breaking-circular-dependencies-in-kotlin-with-the-mediator-pattern-136d)
-- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
+- [Mastering the Clock: How Online Learning Platforms Elevate Students&#39; Time Management Skills](https://dev.to/ghummantech/mastering-the-clock-how-online-learning-platforms-elevate-students-time-management-skills-865)
+- [🧠 Why You Don’t Need Redux in 2025](https://dev.to/manukumar07/why-you-dont-need-redux-in-2025-29dg)
+- [darkmatter](https://dev.to/preetha_vaishnavi_2b82358/darkmatter-62e)
+- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5)
 <!-- BLOG-POST-LIST:END -->
 
