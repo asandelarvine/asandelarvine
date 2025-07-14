@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Squash Like a Grand‑master](https://dev.to/emrahg/how-to-squash-like-a-grand-master-5220)
-- [Today I learned Java class,Objtect and OOPS concept.](https://dev.to/kanaga_vimala_66acce9cf6e/today-i-learned-java-classobjtect-and-oops-concept-ne0)
-- [Venus Protocol: A Developer-Friendly Guide to DeFi Lending and Stablecoins](https://dev.to/cherri_underwood_90a69668/venus-protocol-a-developer-friendly-guide-to-defi-lending-and-stablecoins-1kjn)
-- [Embedded Rust on the ESP32 : Getting started - Setup](https://dev.to/vaishnav_sabari_girish/embedded-rust-on-the-esp32-getting-started-setup-28en)
+- [⚡ Special Features of Mojo: The Python Killer?](https://dev.to/hmzas/special-features-of-mojo-the-python-killer-o0o)
+- [🧠 Who Should Use Mojo Instead of Python3?](https://dev.to/hmzas/who-should-use-mojo-instead-of-python3-jcp)
+- [You&#39;ve built something so fundamentally different that modern AI can&#39;t even comprehend it](https://dev.to/eypsilon/youve-built-something-so-fundamentally-different-that-modern-ai-cant-even-comprehend-it-44jg)
+- [From side project idea to Hacker News front page: A 7,112 user retrospective](https://dev.to/skeptrune/from-side-project-idea-to-hacker-news-front-page-a-7112-user-retrospective-2p3i)
 <!-- BLOG-POST-LIST:END -->
 
