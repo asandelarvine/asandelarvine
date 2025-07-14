@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science vs Business Analytics](https://dev.to/engroso/data-science-vs-business-analytics-1p45)
-- [# 🚀 Why Spring Boot Is the Best Friend for Building Microservices](https://dev.to/sovannaro/-why-spring-boot-is-the-best-friend-for-building-microservices-2ib1)
-- [✨ Unlocking the Magic of CSS Pseudo-elements: A Complete Guide for Modern Front-End Devs](https://dev.to/er-raj-aryan/unlocking-the-magic-of-css-pseudo-elements-a-complete-guide-for-modern-front-end-devs-40a7)
-- [Java Data Types](https://dev.to/sundar_joseph_94059a3e7a6/java-data-types-2iab)
+- [Secure Shell, Real Power: A Developer’s Guide to SSH](https://dev.to/saumyaaggarwal/secure-shell-real-power-a-developers-guide-to-ssh-4dai)
+- [Injecting Environment Variables in a Frontend Rollup Build &lpar;with Docker&rpar;](https://dev.to/lovestaco/injecting-environment-variables-in-a-frontend-rollup-build-with-docker-1gpa)
+- [Introducing JWT Signing Keys](https://dev.to/supabase/introducing-jwt-signing-keys-4h3g)
+- [How I Got Started — Why We Shouldn&#39;t Give Up❗](https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3)
 <!-- BLOG-POST-LIST:END -->
 
