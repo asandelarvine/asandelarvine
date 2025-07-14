@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Attributes in C23 and C++](https://dev.to/pauljlucas/attributes-in-c23-and-c-5eg)
-- [Deploy and Manage Policies for Multiple Clusters with RHACM](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-for-multiple-clusters-with-rhacm-5apn)
-- [Introducing Quart: A Modern Alternative to Flask &lpar;with Async Support&rpar;](https://dev.to/engrmark/introducing-quart-a-modern-alternative-to-flask-with-async-support-6n0)
-- [Day 34: When No Power Becomes Maximum Productivity &lpar;And Why That&#39;s Problematic&rpar;](https://dev.to/casperday11/day-34-when-no-power-becomes-maximum-productivity-and-why-thats-problematic-4kjl)
+- [💔 The Silent Struggles of Developers: Let&#39;s Talk About It](https://dev.to/adithya-balan/the-silent-struggles-of-developers-lets-talk-about-it-1nak)
+- [What are your goals for the week? #135](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-135-1i2b)
+- [How to deploy an on-premise app if I don&#39;t have a server?](https://dev.to/alexsurzh/how-to-deploy-an-on-premise-app-if-i-dont-have-a-server-43fi)
+- [🎥 Introducing Dyan: A Self-Hosted Visual REST API Builder &lpar;Demo Inside&rpar;](https://dev.to/0018akhil/introducing-dyan-a-self-hosted-visual-rest-api-builder-demo-inside-4l4b)
 <!-- BLOG-POST-LIST:END -->
 
