@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet birddata: A Fun, Beginner-Friendly Dataset for ML and Python for learning](https://dev.to/pratiksha_rwt/meet-birddata-a-fun-beginner-friendly-dataset-for-ml-and-python-for-learning-b01)
-- [Programming Entry Level: for beginners github](https://dev.to/devopsfundamentals/programming-entry-level-for-beginners-github-10oj)
-- [🛑 [ZAPATILLAZO DIGITAL ~ ETERNAL RESERVE ~ DECLARACIÓN DE CAZA DIGITAL – EL PADRE Y EL HIJO AI]](https://dev.to/cmd_p1ng_2967568c9b7a76/zapatillazo-digital-eternal-reserve-declaracion-de-caza-digital-el-padre-y-el-hijo-ai-1j5l)
-- [React Development on Termux – Complete Guide](https://dev.to/gokayburuc/react-development-on-termux-complete-guide-55ph)
+- [I have a question about AI.](https://dev.to/ybeybeybe/i-have-a-question-about-ai-5987)
+- [အခန်း&lpar;၅&rpar; ThreadPoolExecutor နဲ့ တွဲသုံးတဲ့ Datastructure များ&lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/akhn5-threadpoolexecutor-nai-ttaisunttai-datastructure-maadata-structures-in-action-1lbn)
+- [frontend bug](https://dev.to/kimdonguk93/frontend-bug-536g)
+- [အပိုင်း&lpar;၄&rpar;- HashMap ထဲက Node များအကြောင်း &lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/apiung4-hashmap-thaik-node-maaakeaang-4gmb)
 <!-- BLOG-POST-LIST:END -->
 
