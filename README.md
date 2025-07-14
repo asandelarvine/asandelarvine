@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💔 The Silent Struggles of Developers: Let&#39;s Talk About It](https://dev.to/adithya-balan/the-silent-struggles-of-developers-lets-talk-about-it-1nak)
-- [What are your goals for the week? #135](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-135-1i2b)
-- [How to deploy an on-premise app if I don&#39;t have a server?](https://dev.to/alexsurzh/how-to-deploy-an-on-premise-app-if-i-dont-have-a-server-43fi)
-- [🎥 Introducing Dyan: A Self-Hosted Visual REST API Builder &lpar;Demo Inside&rpar;](https://dev.to/0018akhil/introducing-dyan-a-self-hosted-visual-rest-api-builder-demo-inside-4l4b)
+- [How I&#39;d Validate a SaaS Idea in 2025 &lpar;Without Writing Code&rpar;](https://dev.to/shayy/how-id-validate-a-saas-idea-in-2025-without-writing-code-1fl9)
+- [AWS Setup: EC2 + ALB + ASG for a Highly Available Web App](https://dev.to/fys/aws-setup-ec2-alb-asg-for-a-highly-available-web-app-pp8)
+- [Machine Learning Fundamentals: data preprocessing with python](https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-preprocessing-with-python-3mil)
+- [No Laying Up Podcast: Scottish Open Recap + Wild Playoff at the Evian | NLU Pod, Ep 1038](https://dev.to/youtube_golf/no-laying-up-podcast-scottish-open-recap-wild-playoff-at-the-evian-nlu-pod-ep-1038-3ag)
 <!-- BLOG-POST-LIST:END -->
 
