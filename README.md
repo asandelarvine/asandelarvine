@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [help wanted](https://dev.to/jerrykoroth/help-wanted-35cj)
-- [FormatX: AI-Powered Content Formatting Tool for Developers and Writers](https://dev.to/formatx/formatx-ai-powered-content-formatting-tool-for-developers-and-writers-1bnj)
-- [Still copy-pasting from Notepad every time?](https://dev.to/slashitapp/still-copy-pasting-from-notepad-every-time-55c2)
-- [When I Thought Writing Everything in One File Was Smart &lpar;And Then It Hit Me...&rpar;](https://dev.to/achlacodes/when-i-thought-writing-everything-in-one-file-was-smart-and-then-it-hit-me-50ke)
+- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
+- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
+- [[Boost]](https://dev.to/srushti/-1aem)
+- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
 <!-- BLOG-POST-LIST:END -->
 
