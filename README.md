@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I&#39;d Validate a SaaS Idea in 2025 &lpar;Without Writing Code&rpar;](https://dev.to/shayy/how-id-validate-a-saas-idea-in-2025-without-writing-code-1fl9)
-- [AWS Setup: EC2 + ALB + ASG for a Highly Available Web App](https://dev.to/fys/aws-setup-ec2-alb-asg-for-a-highly-available-web-app-pp8)
-- [Machine Learning Fundamentals: data preprocessing with python](https://dev.to/devopsfundamentals/machine-learning-fundamentals-data-preprocessing-with-python-3mil)
-- [No Laying Up Podcast: Scottish Open Recap + Wild Playoff at the Evian | NLU Pod, Ep 1038](https://dev.to/youtube_golf/no-laying-up-podcast-scottish-open-recap-wild-playoff-at-the-evian-nlu-pod-ep-1038-3ag)
+- [Data Science vs Business Analytics](https://dev.to/engroso/data-science-vs-business-analytics-1p45)
+- [# 🚀 Why Spring Boot Is the Best Friend for Building Microservices](https://dev.to/sovannaro/-why-spring-boot-is-the-best-friend-for-building-microservices-2ib1)
+- [✨ Unlocking the Magic of CSS Pseudo-elements: A Complete Guide for Modern Front-End Devs](https://dev.to/er-raj-aryan/unlocking-the-magic-of-css-pseudo-elements-a-complete-guide-for-modern-front-end-devs-40a7)
+- [Java Data Types](https://dev.to/sundar_joseph_94059a3e7a6/java-data-types-2iab)
 <!-- BLOG-POST-LIST:END -->
 
