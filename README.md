@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do Diffusion Models Work? An Introduction to Generative Image Processing](https://dev.to/umeshtharukaofficial/how-do-diffusion-models-work-an-introduction-to-generative-image-processing-1mkh)
-- [🦉Building a Bitcoin CLI Wallet in Rust](https://dev.to/_56d7718cea8fe00ec1610/building-a-bitcoin-cli-wallet-in-rust-3c48)
-- [The Practical Tradeoffs of Extreme Vector Compression: Testing RaBitQ at Scale](https://dev.to/schiffer_kate_18420bf9766/the-practical-tradeoffs-of-extreme-vector-compression-testing-rabitq-at-scale-1n6p)
-- [The Practical Tradeoffs of Extreme Vector Compression: Testing RaBitQ at Scale](https://dev.to/schiffer_kate_18420bf9766/the-practical-tradeoffs-of-extreme-vector-compression-testing-rabitq-at-scale-10h8)
+- [How Kubernetes Calculates Access Permissions Using RBAC Rules](https://dev.to/pareekplatform/how-kubernetes-calculates-access-permissions-using-rbac-rules-14dj)
+- [Secure by design !!!](https://dev.to/balagmadhu/secure-by-design--2an8)
+- [Cara pembayaran di ADAKAMI](https://dev.to/alo_alo_b5542eda750fd7968/cara-pembayaran-di-adakami-1937)
+- [Audience Engagement in Webinars: Why Real-Time Interaction Matters](https://dev.to/jack_davis_72eff1ff3e4afd/audience-engagement-in-webinars-why-real-time-interaction-matters-1g7f)
 <!-- BLOG-POST-LIST:END -->
 
