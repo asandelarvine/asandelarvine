@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yaya](https://dev.to/gabriel_furtado_07c82ac7f/yaya-4bd2)
-- [Imagine this as part of a ctf](https://dev.to/ieccles/imagine-this-as-part-of-a-ctf-30op)
-- [Turn Any File Into a Art Masterpiece!](https://dev.to/notreeceharris/turn-any-file-into-a-pixel-art-masterpiece-nl0)
-- [How I Built Fitgen: From React UI to Paying Users](https://dev.to/trip_one_81903e4e867ce984/how-i-built-fitgen-from-react-ui-to-paying-users-49e4)
+- [🐍 Using Python Web Server to Share Files Across VMs and OSes](https://dev.to/babsarena/using-python-web-server-to-share-files-across-vms-and-oses-288m)
+- [How to Set Up a VPC with Public and Private Subnets, Multi-AZ, IGW, and NAT Gateway on AWS in Seconds](https://dev.to/rebase-ai/how-to-set-up-a-vpc-with-public-and-private-subnets-multi-az-igw-and-nat-gateway-on-aws-in-3h1g)
+- [🚀 Call for Collaborators: Help Bring a 2 and 3-Column Note-Taking App to Market &lpar;Flutter, Equity/Portfolio&rpar;](https://dev.to/phillip_young_467f5aa2cf7/call-for-collaborators-help-bring-a-2-and-3-column-note-taking-app-to-market-flutter-57f3)
+- [Unlocking the Future of AI: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/hardiksankhla/unlocking-the-future-of-ai-a-deep-dive-into-the-model-context-protocol-mcp-1b1o)
 <!-- BLOG-POST-LIST:END -->
 
