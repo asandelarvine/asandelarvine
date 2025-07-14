@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento de Software Assistido por IA: Princípios, Práticas e o Futuro da Engenharia de Software](https://dev.to/vinicius3w/desenvolvimento-de-software-assistido-por-ia-principios-praticas-e-o-futuro-da-engenharia-de-hg7)
-- [New in Vue - July 2025](https://dev.to/aloisseckar/new-in-vue-july-2025-24id)
-- [n8n vs Make vs Zapier: Which One Will Scale With You?](https://dev.to/alifar/n8n-vs-make-vs-zapier-which-one-will-scale-with-you-10dp)
-- [Exploring .NET 9: What&#39;s New and What to Expect in .NET Core 9](https://dev.to/abdelaliem_hosny_0e4c3662/exploring-net-9-whats-new-and-what-to-expect-in-net-core-9-4p0g)
+- [Attributes in C23 and C++](https://dev.to/pauljlucas/attributes-in-c23-and-c-5eg)
+- [Deploy and Manage Policies for Multiple Clusters with RHACM](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-for-multiple-clusters-with-rhacm-5apn)
+- [Introducing Quart: A Modern Alternative to Flask &lpar;with Async Support&rpar;](https://dev.to/engrmark/introducing-quart-a-modern-alternative-to-flask-with-async-support-6n0)
+- [Day 34: When No Power Becomes Maximum Productivity &lpar;And Why That&#39;s Problematic&rpar;](https://dev.to/casperday11/day-34-when-no-power-becomes-maximum-productivity-and-why-thats-problematic-4kjl)
 <!-- BLOG-POST-LIST:END -->
 
