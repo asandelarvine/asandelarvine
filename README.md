@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Shell, Real Power: A Developer’s Guide to SSH](https://dev.to/saumyaaggarwal/secure-shell-real-power-a-developers-guide-to-ssh-4dai)
-- [Injecting Environment Variables in a Frontend Rollup Build &lpar;with Docker&rpar;](https://dev.to/lovestaco/injecting-environment-variables-in-a-frontend-rollup-build-with-docker-1gpa)
-- [Introducing JWT Signing Keys](https://dev.to/supabase/introducing-jwt-signing-keys-4h3g)
-- [How I Got Started — Why We Shouldn&#39;t Give Up❗](https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3)
+- [Automating Receipt Processing with added convenience](https://dev.to/krtk_blsbrmnian/automating-receipt-processing-with-added-convenience-2bpi)
+- [Big Data Fundamentals: data pipeline](https://dev.to/devopsfundamentals/big-data-fundamentals-data-pipeline-1pdf)
+- [GEO and Content Marketing: What It Means for Your Business](https://dev.to/sotir_kostadinov_d78ea470/geo-and-content-marketing-what-it-means-for-your-business-49jc)
+- [Stress-Free Relocation to Tempe, AZ: Your Complete Guide](https://dev.to/mentorsmovingstorage/stress-free-relocation-to-tempe-az-your-complete-guide-4989)
 <!-- BLOG-POST-LIST:END -->
 
