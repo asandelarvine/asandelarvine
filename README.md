@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Receipt Processing with added convenience](https://dev.to/krtk_blsbrmnian/automating-receipt-processing-with-added-convenience-2bpi)
-- [Big Data Fundamentals: data pipeline](https://dev.to/devopsfundamentals/big-data-fundamentals-data-pipeline-1pdf)
-- [GEO and Content Marketing: What It Means for Your Business](https://dev.to/sotir_kostadinov_d78ea470/geo-and-content-marketing-what-it-means-for-your-business-49jc)
-- [Stress-Free Relocation to Tempe, AZ: Your Complete Guide](https://dev.to/mentorsmovingstorage/stress-free-relocation-to-tempe-az-your-complete-guide-4989)
+- [Big Data Fundamentals: data pipeline example](https://dev.to/devopsfundamentals/big-data-fundamentals-data-pipeline-example-1ji9)
+- [📦 Component-Driven Development: Why Front-End Is Moving This Way](https://dev.to/tahamjp/component-driven-development-why-front-end-is-moving-this-way-2lkk)
+- [CVE-2025-47812: Wing FTP Server Improper Neutralization of Null Byte or NUL Character Vulnerability](https://dev.to/freedom_coder/cve-2025-47812-wing-ftp-server-improper-neutralization-of-null-byte-or-nul-character-vulnerability-2opi)
+- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
 <!-- BLOG-POST-LIST:END -->
 
