@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Calculates Access Permissions Using RBAC Rules](https://dev.to/pareekplatform/how-kubernetes-calculates-access-permissions-using-rbac-rules-14dj)
-- [Secure by design !!!](https://dev.to/balagmadhu/secure-by-design--2an8)
-- [Cara pembayaran di ADAKAMI](https://dev.to/alo_alo_b5542eda750fd7968/cara-pembayaran-di-adakami-1937)
-- [Audience Engagement in Webinars: Why Real-Time Interaction Matters](https://dev.to/jack_davis_72eff1ff3e4afd/audience-engagement-in-webinars-why-real-time-interaction-matters-1g7f)
+- [Set up a raspberry pi http tunnel instantly with Tunnelmole](https://dev.to/robbiecahill/set-up-a-raspberry-pi-http-tunnel-instantly-with-tunnelmole-9i3)
+- [Browser Tab Leader Pattern: Stop Wasting API Calls Across Browser Tabs](https://dev.to/smy/browser-tab-leader-pattern-stop-wasting-api-calls-across-browser-tabs-173k)
+- [JavaScript-Loops](https://dev.to/asran_2025/javascript-loops-55gg)
+- [Mastering JavaScript Functions &amp; DOM Manipulation: A Beginner-Friendly Deep Dive](https://dev.to/dumebii/mastering-javascript-functions-dom-manipulation-a-beginner-friendly-deep-dive-2935)
 <!-- BLOG-POST-LIST:END -->
 
