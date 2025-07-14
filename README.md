@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes Operator in Go with Kube-Shift](https://dev.to/mohit_nagaraj/building-a-kubernetes-operator-in-go-with-kube-shift-446h)
-- [My new project: OrcaUI, A UI framework built with native Web Components](https://dev.to/mikeey/my-new-project-orcaui-a-ui-framework-built-with-native-web-components-43oa)
-- [Roofing Virginia Beach Contractors for Reliable Installations](https://dev.to/metalroofingvirginia/roofing-virginia-beach-contractors-for-reliable-installations-58j)
-- [Quick Context Switching: CLI Tools for Parents Who Code in 15-Minute Windows](https://dev.to/raisingpixels/quick-context-switching-cli-tools-for-parents-who-code-in-15-minute-windows-34ce)
+- [help wanted](https://dev.to/jerrykoroth/help-wanted-35cj)
+- [FormatX: AI-Powered Content Formatting Tool for Developers and Writers](https://dev.to/formatx/formatx-ai-powered-content-formatting-tool-for-developers-and-writers-1bnj)
+- [Still copy-pasting from Notepad every time?](https://dev.to/slashitapp/still-copy-pasting-from-notepad-every-time-55c2)
+- [When I Thought Writing Everything in One File Was Smart &lpar;And Then It Hit Me...&rpar;](https://dev.to/achlacodes/when-i-thought-writing-everything-in-one-file-was-smart-and-then-it-hit-me-50ke)
 <!-- BLOG-POST-LIST:END -->
 
