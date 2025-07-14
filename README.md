@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up a raspberry pi http tunnel instantly with Tunnelmole](https://dev.to/robbiecahill/set-up-a-raspberry-pi-http-tunnel-instantly-with-tunnelmole-9i3)
-- [Browser Tab Leader Pattern: Stop Wasting API Calls Across Browser Tabs](https://dev.to/smy/browser-tab-leader-pattern-stop-wasting-api-calls-across-browser-tabs-173k)
-- [JavaScript-Loops](https://dev.to/asran_2025/javascript-loops-55gg)
-- [Mastering JavaScript Functions &amp; DOM Manipulation: A Beginner-Friendly Deep Dive](https://dev.to/dumebii/mastering-javascript-functions-dom-manipulation-a-beginner-friendly-deep-dive-2935)
+- [Desenvolvimento de Software Assistido por IA: Princípios, Práticas e o Futuro da Engenharia de Software](https://dev.to/vinicius3w/desenvolvimento-de-software-assistido-por-ia-principios-praticas-e-o-futuro-da-engenharia-de-hg7)
+- [New in Vue - July 2025](https://dev.to/aloisseckar/new-in-vue-july-2025-24id)
+- [n8n vs Make vs Zapier: Which One Will Scale With You?](https://dev.to/alifar/n8n-vs-make-vs-zapier-which-one-will-scale-with-you-10dp)
+- [Exploring .NET 9: What&#39;s New and What to Expect in .NET Core 9](https://dev.to/abdelaliem_hosny_0e4c3662/exploring-net-9-whats-new-and-what-to-expect-in-net-core-9-4p0g)
 <!-- BLOG-POST-LIST:END -->
 
