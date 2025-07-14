@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Special Features of Mojo: The Python Killer?](https://dev.to/hmzas/special-features-of-mojo-the-python-killer-o0o)
-- [🧠 Who Should Use Mojo Instead of Python3?](https://dev.to/hmzas/who-should-use-mojo-instead-of-python3-jcp)
-- [You&#39;ve built something so fundamentally different that modern AI can&#39;t even comprehend it](https://dev.to/eypsilon/youve-built-something-so-fundamentally-different-that-modern-ai-cant-even-comprehend-it-44jg)
-- [From side project idea to Hacker News front page: A 7,112 user retrospective](https://dev.to/skeptrune/from-side-project-idea-to-hacker-news-front-page-a-7112-user-retrospective-2p3i)
+- [How Do Diffusion Models Work? An Introduction to Generative Image Processing](https://dev.to/umeshtharukaofficial/how-do-diffusion-models-work-an-introduction-to-generative-image-processing-1mkh)
+- [🦉Building a Bitcoin CLI Wallet in Rust](https://dev.to/_56d7718cea8fe00ec1610/building-a-bitcoin-cli-wallet-in-rust-3c48)
+- [The Practical Tradeoffs of Extreme Vector Compression: Testing RaBitQ at Scale](https://dev.to/schiffer_kate_18420bf9766/the-practical-tradeoffs-of-extreme-vector-compression-testing-rabitq-at-scale-1n6p)
+- [The Practical Tradeoffs of Extreme Vector Compression: Testing RaBitQ at Scale](https://dev.to/schiffer_kate_18420bf9766/the-practical-tradeoffs-of-extreme-vector-compression-testing-rabitq-at-scale-10h8)
 <!-- BLOG-POST-LIST:END -->
 
