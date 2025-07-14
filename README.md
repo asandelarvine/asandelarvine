@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Fundamentals: data pipeline example](https://dev.to/devopsfundamentals/big-data-fundamentals-data-pipeline-example-1ji9)
-- [📦 Component-Driven Development: Why Front-End Is Moving This Way](https://dev.to/tahamjp/component-driven-development-why-front-end-is-moving-this-way-2lkk)
-- [CVE-2025-47812: Wing FTP Server Improper Neutralization of Null Byte or NUL Character Vulnerability](https://dev.to/freedom_coder/cve-2025-47812-wing-ftp-server-improper-neutralization-of-null-byte-or-nul-character-vulnerability-2opi)
-- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
+- [Axero Frontend Challenge: Workplace Moodboard – CSS Art Edition](https://dev.to/axrisi/axero-frontend-challenge-workplace-moodboard-css-art-edition-4800)
+- [Data Culture in the Tech Era](https://dev.to/julsr_mx/data-culture-in-the-tech-era-54l5)
+- [Filtering Out Rows Using LEFT JOIN: A Clean Alternative to NOT IN](https://dev.to/drorata/filtering-out-rows-using-left-join-a-clean-alternative-to-not-in-2lk8)
+- [Kicking off another week featuring Excalidraw!](https://dev.to/riyanapatel/kicking-off-another-week-featuring-excalidraw-45fh)
 <!-- BLOG-POST-LIST:END -->
 
