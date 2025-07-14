@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I have a question about AI.](https://dev.to/ybeybeybe/i-have-a-question-about-ai-5987)
-- [အခန်း&lpar;၅&rpar; ThreadPoolExecutor နဲ့ တွဲသုံးတဲ့ Datastructure များ&lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/akhn5-threadpoolexecutor-nai-ttaisunttai-datastructure-maadata-structures-in-action-1lbn)
-- [frontend bug](https://dev.to/kimdonguk93/frontend-bug-536g)
-- [အပိုင်း&lpar;၄&rpar;- HashMap ထဲက Node များအကြောင်း &lpar;Data Structures in Action&rpar;](https://dev.to/zawhtutwin/apiung4-hashmap-thaik-node-maaakeaang-4gmb)
+- [Building a Kubernetes Operator in Go with Kube-Shift](https://dev.to/mohit_nagaraj/building-a-kubernetes-operator-in-go-with-kube-shift-446h)
+- [My new project: OrcaUI, A UI framework built with native Web Components](https://dev.to/mikeey/my-new-project-orcaui-a-ui-framework-built-with-native-web-components-43oa)
+- [Roofing Virginia Beach Contractors for Reliable Installations](https://dev.to/metalroofingvirginia/roofing-virginia-beach-contractors-for-reliable-installations-58j)
+- [Quick Context Switching: CLI Tools for Parents Who Code in 15-Minute Windows](https://dev.to/raisingpixels/quick-context-switching-cli-tools-for-parents-who-code-in-15-minute-windows-34ce)
 <!-- BLOG-POST-LIST:END -->
 
