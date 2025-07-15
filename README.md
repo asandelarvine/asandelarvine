@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Google APIs in Your Next.js Project](https://dev.to/julimancan/how-to-integrate-google-apis-in-your-nextjs-project-gi4)
-- [What did I Learn from AWS Community Day Colombia 2025?](https://dev.to/sebastian_cerqueracarvaj/what-did-i-learn-from-aws-community-day-colombia-2025-435d)
-- [Supercharge Your CLI Workflow: Never Lose a Genius AI-Powered Idea Again with ai-cli-log](https://dev.to/alingse/supercharge-your-cli-workflow-never-lose-a-genius-ai-powered-idea-again-with-ai-cli-log-38pj)
-- [Advanced Use of Predicate, Function, Consumer, and Comparator in Java](https://dev.to/wkreuch/advanced-use-of-predicate-function-consumer-and-comparator-in-java-3dim)
+- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
+- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
+- [最强Cloudflare过验证](https://dev.to/dragon72463399/zui-qiang-cloudflareguo-yan-zheng-17jd)
+- [Rebuilding Balance: How Simple Games Help Us Use the Internet Differently](https://dev.to/code_hive/rebuilding-balance-how-simple-games-help-us-use-the-internet-differently-4efd)
 <!-- BLOG-POST-LIST:END -->
 
