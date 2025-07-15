@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Veo 3 vs Kling Pro vs Pixverse 4.5: Which AI Video Model is Best for You?🔥](https://dev.to/astrodevil/veo-3-vs-kling-pro-vs-pixverse-45-which-ai-video-model-is-best-for-you-2n2g)
-- [How React Hooks Work Under the Hood: The Mental Model Explained Simply](https://dev.to/spyvarade/how-react-hooks-work-under-the-hood-the-mental-model-explained-simply-3ej5)
-- [This is a well-written, technical post. It also features some excellent external links, making it highly recommended reading for everyone developing!](https://dev.to/kieran/this-is-a-well-written-technical-post-it-also-features-some-excellent-external-links-making-it-1edm)
-- [Context Management and Request Lifecycle Optimization&lpar;8693&rpar;](https://dev.to/member_466da0bd/context-management-and-request-lifecycle-optimization8693-53ah)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `44`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-44-3ak4)
+- [Introduction to ASP.NET for JavaScript Devs](https://dev.to/nando81k/introduction-to-aspnet-for-javascript-devs-117a)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;2170&rpar;](https://dev.to/member_02ee4941/resource-management-and-memory-efficiency-in-web-servers2170-4i0d)
+- [How a 10x Engineer Becomes a SCAMMER](https://dev.to/thetechpreneur/how-a-10x-engineer-becomes-a-scammer-25k6)
 <!-- BLOG-POST-LIST:END -->
 
