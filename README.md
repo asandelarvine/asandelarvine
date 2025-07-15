@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24/100: Sets and Set Operations in Python](https://dev.to/therahul_gupta/day-24100-sets-and-set-operations-in-python-oml)
-- [free and vmstat command](https://dev.to/yulrizka/free-and-vmstat-command-1cde)
-- [Learning MCP the Hard Way: Building a Python Client for Algolia&#39;s MCP Server](https://dev.to/prema_ananda/learning-mcp-the-hard-way-building-a-python-client-for-algolias-mcp-server-14dn)
-- [Building Reactive REST APIs with Spring WebFlux Functional Endpoints](https://dev.to/devcorner/building-reactive-rest-apis-with-spring-webflux-functional-endpoints-1991)
+- [Setting Up Android Studio on Linux for React Native &lpar;Expo&rpar; Development](https://dev.to/tigawanna/setting-up-android-studio-on-linux-for-react-native-expo-development-57ee)
+- [Generative AI in 2025: My Honest Take on the Future of Content Creation 🚀](https://dev.to/azhan_j_71b0e414743b0dc0e/generative-ai-in-2025-my-honest-take-on-the-future-of-content-creation-14nk)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;1966&rpar;](https://dev.to/member_02ee4941/design-philosophy-of-zero-dependency-web-framework1966-4e87)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;0951&rpar;](https://dev.to/member_466da0bd/concurrency-mastery-through-advanced-async-programming0951-1fdb)
 <!-- BLOG-POST-LIST:END -->
 
