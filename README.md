@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
-- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
-- [最强Cloudflare过验证](https://dev.to/dragon72463399/zui-qiang-cloudflareguo-yan-zheng-17jd)
-- [Rebuilding Balance: How Simple Games Help Us Use the Internet Differently](https://dev.to/code_hive/rebuilding-balance-how-simple-games-help-us-use-the-internet-differently-4efd)
+- [How To Use ~ChatGPT Without Degrading](https://dev.to/framemuse/how-to-use-chatgpt-without-degrading-2do3)
+- [Day 2: Tailwind CSS Color System — Semantic, Scalable &amp; Simple](https://dev.to/ruqaiya_beguwala/day-2-tailwind-css-color-system-semantic-scalable-simple-19gk)
+- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
+- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
 <!-- BLOG-POST-LIST:END -->
 
