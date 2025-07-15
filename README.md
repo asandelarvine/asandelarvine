@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [CORS in Parse Server: Making Cross-Origin Work Without the Headache](https://dev.to/lovestaco/cors-in-parse-server-making-cross-origin-work-without-the-headache-518g)
+- [Stripe-To-Postgres Sync Engine as standalone Library](https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd)
+- [Installing Tailwind CSS v4.0 with Vite 🚀](https://dev.to/tenelabs/installing-tailwind-css-v40-with-vite-24ih)
 - [SwiftUI’s property wrappers](https://dev.to/harshpdev/swiftuis-property-wrappers-2b4c)
-- [S3-Driven DevOps: Event-Driven Deployments Triggered Entirely by Object Storage](https://dev.to/jatin_goel_dac08bb6728f1e/s3-driven-devops-event-driven-deployments-triggered-entirely-by-object-storage-4bb0)
-- [Interview Experience with Salesfoce for MTS role](https://dev.to/ram_k_baf95b757f3d5359a7e/interview-experience-with-salesfoce-for-mts-role-17ld)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;5547&rpar;](https://dev.to/member_02ee4941/dynamic-routing-systems-for-scalable-web-applications5547-55mn)
 <!-- BLOG-POST-LIST:END -->
 
