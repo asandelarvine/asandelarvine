@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you start your own open source project or should you contribute to an existing one?](https://dev.to/szabgab/should-you-start-your-own-open-source-project-or-should-you-contribute-to-an-existing-one-4c7b)
-- [🐪 Perl: The Timeless Scripting Camel Still Marches On](https://dev.to/hmzas/perl-the-timeless-scripting-camel-still-marches-on-7pn)
-- [🧠 Part 10 — Why You Should Learn Ruby on Rails in 2025](https://dev.to/hmzas/part-10-why-you-should-learn-ruby-on-rails-in-2025-53l8)
-- [🚀 Part 9 — Deployment: Taking Your Rails App Live](https://dev.to/hmzas/part-9-deployment-taking-your-rails-app-live-1b2c)
+- [[Boost]](https://dev.to/rullumgrafis/-20a7)
+- [How to Manage Remote Teams: Proven Strategies for Leading Virtual Workers](https://dev.to/kruti12/how-to-manage-remote-teams-proven-strategies-for-leading-virtual-workers-4n03)
+- [Entering the Chinese Market in 2025: Understanding the Threats You Face](https://dev.to/ksea0309/entering-the-chinese-market-in-2025-understanding-the-threats-you-face-4414)
+- [Ecommerce Job Market in Saudi Arabia: Opportunities in a Digital Revolution](https://dev.to/saudibytes/ecommerce-job-market-in-saudi-arabia-opportunities-in-a-digital-revolution-1284)
 <!-- BLOG-POST-LIST:END -->
 
