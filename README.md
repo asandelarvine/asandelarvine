@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrolling toooo much on instagram reels? Read this article to save yourself.](https://dev.to/extinctsion/scrolling-toooo-much-on-instagram-reels-read-this-article-to-save-yourself-1419)
+- [Count the occurrence rate of words](https://dev.to/esproc_spl/count-the-occurrence-rate-of-words-4l9)
+- [Why Enterprise Risk Management Must Include Secure Translation](https://dev.to/liamcorwin/why-enterprise-risk-management-must-include-secure-translation-17p5)
 - [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
-- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
-- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
-- [Kiro vs Copilot: This Could Change the Way You Code Forever](https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa)
 <!-- BLOG-POST-LIST:END -->
 
