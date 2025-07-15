@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Kiro: Another AI-Powered IDE Challenger or a Game Changer?](https://dev.to/onepoint/aws-kiro-another-ai-powered-ide-challenger-or-a-game-changer-1bj8)
-- [Guia rápido e fácil para novos usuários de XMPP](https://dev.to/isafashiondev/guia-rapido-e-facil-para-novos-usuarios-de-xmpp-2b7o)
-- [📦 Tired of Backups That Don’t… Restore?](https://dev.to/raymonepping/tired-of-backups-that-dont-restore-3f1o)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;6962&rpar;](https://dev.to/member_466da0bd/resource-management-and-memory-efficiency-in-web-servers6962-4kh5)
+- [Veo 3 vs Kling Pro vs Pixverse 4.5: Which AI Video Model is Best for You?🔥](https://dev.to/astrodevil/veo-3-vs-kling-pro-vs-pixverse-45-which-ai-video-model-is-best-for-you-2n2g)
+- [How React Hooks Work Under the Hood: The Mental Model Explained Simply](https://dev.to/spyvarade/how-react-hooks-work-under-the-hood-the-mental-model-explained-simply-3ej5)
+- [This is a well-written, technical post. It also features some excellent external links, making it highly recommended reading for everyone developing!](https://dev.to/kieran/this-is-a-well-written-technical-post-it-also-features-some-excellent-external-links-making-it-1edm)
+- [Context Management and Request Lifecycle Optimization&lpar;8693&rpar;](https://dev.to/member_466da0bd/context-management-and-request-lifecycle-optimization8693-53ah)
 <!-- BLOG-POST-LIST:END -->
 
