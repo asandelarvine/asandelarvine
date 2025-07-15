@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `44`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-44-3ak4)
-- [Introduction to ASP.NET for JavaScript Devs](https://dev.to/nando81k/introduction-to-aspnet-for-javascript-devs-117a)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;2170&rpar;](https://dev.to/member_02ee4941/resource-management-and-memory-efficiency-in-web-servers2170-4i0d)
-- [How a 10x Engineer Becomes a SCAMMER](https://dev.to/thetechpreneur/how-a-10x-engineer-becomes-a-scammer-25k6)
+- [AI in The Context of Learning](https://dev.to/muhammadazis/ai-in-the-context-of-learning-2jfa)
+- [Newsway.ai News Summary](https://dev.to/corywboris/newswayai-news-summary-11gm)
+- [📧 How to Validate Email Addresses in PHP: A Practical Guide](https://dev.to/lion_reach_01821425fd0125/how-to-validate-email-addresses-in-php-a-practical-guide-1i2f)
+- [Keyword,Return type,Method,Objects,Void&amp;Variables...](https://dev.to/paviarunachalam/keywordreturn-typemethodobjectsvoidvariables-31jn)
 <!-- BLOG-POST-LIST:END -->
 
