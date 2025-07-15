@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rullumgrafis/-20a7)
-- [How to Manage Remote Teams: Proven Strategies for Leading Virtual Workers](https://dev.to/kruti12/how-to-manage-remote-teams-proven-strategies-for-leading-virtual-workers-4n03)
-- [Entering the Chinese Market in 2025: Understanding the Threats You Face](https://dev.to/ksea0309/entering-the-chinese-market-in-2025-understanding-the-threats-you-face-4414)
-- [Ecommerce Job Market in Saudi Arabia: Opportunities in a Digital Revolution](https://dev.to/saudibytes/ecommerce-job-market-in-saudi-arabia-opportunities-in-a-digital-revolution-1284)
+- [Beyond Coding: How to Survive and Thrive in the AI Revolution](https://dev.to/blackscripts/beyond-coding-how-to-survive-and-thrive-in-the-ai-revolution-1lkk)
+- [9 Useful Coding Tools Every Web Developer Should Use In Their Projects 📚](https://dev.to/tejodeepmitraroy/9-useful-coding-tools-every-web-developer-should-use-in-their-projects-3g8d)
+- [Database Concurrency Phenomena &amp; ISOLATION Label: Read Phenomena and Serialization Anomaly](https://dev.to/jad_core/database-concurrency-phenomena-isolation-label-read-phenomena-and-serialization-anomaly-3485)
+- [How I built a toilet rating map as a high school student](https://dev.to/czett/how-i-built-a-toilet-rating-map-as-a-high-school-student-3i7l)
 <!-- BLOG-POST-LIST:END -->
 
