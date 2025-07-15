@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrolling toooo much on instagram reels? Read this article to save yourself.](https://dev.to/extinctsion/scrolling-toooo-much-on-instagram-reels-read-this-article-to-save-yourself-1419)
-- [Count the occurrence rate of words](https://dev.to/esproc_spl/count-the-occurrence-rate-of-words-4l9)
-- [Why Enterprise Risk Management Must Include Secure Translation](https://dev.to/liamcorwin/why-enterprise-risk-management-must-include-secure-translation-17p5)
-- [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
+- [Should you start your own open source project or should you contribute to an existing one?](https://dev.to/szabgab/should-you-start-your-own-open-source-project-or-should-you-contribute-to-an-existing-one-4c7b)
+- [🐪 Perl: The Timeless Scripting Camel Still Marches On](https://dev.to/hmzas/perl-the-timeless-scripting-camel-still-marches-on-7pn)
+- [🧠 Part 10 — Why You Should Learn Ruby on Rails in 2025](https://dev.to/hmzas/part-10-why-you-should-learn-ruby-on-rails-in-2025-53l8)
+- [🚀 Part 9 — Deployment: Taking Your Rails App Live](https://dev.to/hmzas/part-9-deployment-taking-your-rails-app-live-1b2c)
 <!-- BLOG-POST-LIST:END -->
 
