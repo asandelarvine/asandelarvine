@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in The Context of Learning](https://dev.to/muhammadazis/ai-in-the-context-of-learning-2jfa)
-- [Newsway.ai News Summary](https://dev.to/corywboris/newswayai-news-summary-11gm)
-- [📧 How to Validate Email Addresses in PHP: A Practical Guide](https://dev.to/lion_reach_01821425fd0125/how-to-validate-email-addresses-in-php-a-practical-guide-1i2f)
-- [Keyword,Return type,Method,Objects,Void&amp;Variables...](https://dev.to/paviarunachalam/keywordreturn-typemethodobjectsvoidvariables-31jn)
+- [SwiftUI’s property wrappers](https://dev.to/harshpdev/swiftuis-property-wrappers-2b4c)
+- [S3-Driven DevOps: Event-Driven Deployments Triggered Entirely by Object Storage](https://dev.to/jatin_goel_dac08bb6728f1e/s3-driven-devops-event-driven-deployments-triggered-entirely-by-object-storage-4bb0)
+- [Interview Experience with Salesfoce for MTS role](https://dev.to/ram_k_baf95b757f3d5359a7e/interview-experience-with-salesfoce-for-mts-role-17ld)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;5547&rpar;](https://dev.to/member_02ee4941/dynamic-routing-systems-for-scalable-web-applications5547-55mn)
 <!-- BLOG-POST-LIST:END -->
 
