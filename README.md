@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Coding: How to Survive and Thrive in the AI Revolution](https://dev.to/blackscripts/beyond-coding-how-to-survive-and-thrive-in-the-ai-revolution-1lkk)
-- [9 Useful Coding Tools Every Web Developer Should Use In Their Projects 📚](https://dev.to/tejodeepmitraroy/9-useful-coding-tools-every-web-developer-should-use-in-their-projects-3g8d)
-- [Database Concurrency Phenomena &amp; ISOLATION Label: Read Phenomena and Serialization Anomaly](https://dev.to/jad_core/database-concurrency-phenomena-isolation-label-read-phenomena-and-serialization-anomaly-3485)
-- [How I built a toilet rating map as a high school student](https://dev.to/czett/how-i-built-a-toilet-rating-map-as-a-high-school-student-3i7l)
+- [Day 24/100: Sets and Set Operations in Python](https://dev.to/therahul_gupta/day-24100-sets-and-set-operations-in-python-oml)
+- [free and vmstat command](https://dev.to/yulrizka/free-and-vmstat-command-1cde)
+- [Learning MCP the Hard Way: Building a Python Client for Algolia&#39;s MCP Server](https://dev.to/prema_ananda/learning-mcp-the-hard-way-building-a-python-client-for-algolias-mcp-server-14dn)
+- [Building Reactive REST APIs with Spring WebFlux Functional Endpoints](https://dev.to/devcorner/building-reactive-rest-apis-with-spring-webflux-functional-endpoints-1991)
 <!-- BLOG-POST-LIST:END -->
 
