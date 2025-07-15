@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use ~ChatGPT Without Degrading](https://dev.to/framemuse/how-to-use-chatgpt-without-degrading-2do3)
-- [Day 2: Tailwind CSS Color System — Semantic, Scalable &amp; Simple](https://dev.to/ruqaiya_beguwala/day-2-tailwind-css-color-system-semantic-scalable-simple-19gk)
-- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
-- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
+- [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
+- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
+- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
+- [Kiro vs Copilot: This Could Change the Way You Code Forever](https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa)
 <!-- BLOG-POST-LIST:END -->
 
