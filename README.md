@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Programming Fundamentals: A Complete Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/fonyuygita/python-programming-fundamentals-a-complete-beginners-guide-part-2-1k1j)
-- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
-- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
-- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
+- [Async Logic in React: Fetching, Caching, and Cleaning Up with Hooks](https://dev.to/spyvarade/async-logic-in-react-fetching-caching-and-cleaning-up-with-hooks-9kc)
+- [The Mad Science of Image Optimization: My Journey into the Research Frontier](https://dev.to/urbandropzone_75222161405/the-mad-science-of-image-optimization-my-journey-into-the-research-frontier-22gk)
+- [Building a Smart Session Tracker for Your Mac&#39;s Menu Bar](https://dev.to/ravgeetdhillon/building-a-smart-session-tracker-for-your-macs-menu-bar-41km)
+- [Muito Além do Bug: Como a Análise de Causa Raiz Salvou a Folha de Pagamento](https://dev.to/julianomoreno/muito-alem-do-bug-como-a-analise-de-causa-raiz-salvou-a-folha-de-pagamento-1gm4)
 <!-- BLOG-POST-LIST:END -->
 
