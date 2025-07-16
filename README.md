@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
-- [Treasure Hunt in the Classroom: How Aptitude Became an Adventure](https://dev.to/megha_m/treasure-hunt-in-the-classroom-how-aptitude-became-an-adventure-53e0)
-- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
-- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
+- [IGN: Ready or Not - PlayStation 5 Gameplay](https://dev.to/gg_news/ign-ready-or-not-playstation-5-gameplay-2jk1)
+- [IGN: The Knife - Exclusive Trailer &lpar;2025&rpar; Nnamdi Asomugha, Manny Jacinto](https://dev.to/gg_news/ign-the-knife-exclusive-trailer-2025-nnamdi-asomugha-manny-jacinto-48fd)
+- [IGN: Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 - Official Launch Trailer](https://dev.to/gg_news/ign-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1-official-launch-36ab)
+- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2c7a)
 <!-- BLOG-POST-LIST:END -->
 
