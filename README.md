@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Testing Made Simple with CoTester](https://dev.to/ronika_kashyap/end-to-end-testing-made-simple-with-cotester-4178)
-- [Car Driving Game](https://dev.to/preetha_vaishnavi_2b82358/car-driving-game-4o2b)
-- [How to Save a Python List to a File](https://dev.to/kiani0x01/how-to-save-a-python-list-to-a-file-54a1)
-- [Python Last Element in List](https://dev.to/kiani0x01/python-last-element-in-list-203c)
+- [Indie Game Dev Looking for Team Members](https://dev.to/tolongames/indie-game-dev-looking-for-team-members-20ko)
+- [Applicazione semplice ed immediata Project List](https://dev.to/montanasoftware2025/applicazione-semplice-ed-immediataproject-list-42e3)
+- [El Examen Final de la Humanidad &lpar;HLE&rpar;](https://dev.to/michelnovellino/el-examen-final-de-la-humanidad-hle-55ki)
+- [Frontend Challenge Solution: Office Edition – CoreSync Intranet Dashboard &lpar;HTML, CSS &amp; JS&rpar;](https://dev.to/graceo7/frontend-challenge-solution-office-edition-coresync-intranet-dashboard-html-css-js-4cjd)
 <!-- BLOG-POST-LIST:END -->
 
