@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Ready or Not - PlayStation 5 Gameplay](https://dev.to/gg_news/ign-ready-or-not-playstation-5-gameplay-2jk1)
-- [IGN: The Knife - Exclusive Trailer &lpar;2025&rpar; Nnamdi Asomugha, Manny Jacinto](https://dev.to/gg_news/ign-the-knife-exclusive-trailer-2025-nnamdi-asomugha-manny-jacinto-48fd)
-- [IGN: Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 - Official Launch Trailer](https://dev.to/gg_news/ign-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1-official-launch-36ab)
-- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2c7a)
+- [Python Programming Fundamentals: A Complete Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/fonyuygita/python-programming-fundamentals-a-complete-beginners-guide-part-2-1k1j)
+- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
+- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
+- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
 <!-- BLOG-POST-LIST:END -->
 
