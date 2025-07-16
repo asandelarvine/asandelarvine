@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7884&rpar;](https://dev.to/member_02ee4941/error-handling-strategies-in-high-performance-web-servers7884-4f93)
-- [SearchMaster Pro - Natural Language Search Infrastructure Management](https://dev.to/onirestart/searchmaster-pro-natural-language-search-infrastructure-management-2md9)
-- [[Boost]](https://dev.to/pranesh_patel/-4l6g)
-- [🚀 Laravel Controllers Explained with Examples &lpar;Beginner-Friendly&rpar;](https://dev.to/rohitdhiman/laravel-controllers-explained-with-examples-beginner-friendly-2dki)
+- [Why Most AI Tools Waste Your Time &lpar;and How We Made Ours Work&rpar;](https://dev.to/wehadit/why-most-ai-tools-waste-your-time-and-how-we-made-ours-work-3bc8)
+- [TCP Optimization Techniques for Web Server Performance&lpar;5573&rpar;](https://dev.to/member_02ee4941/tcp-optimization-techniques-for-web-server-performance5573-23j2)
+- [Life After WLH - How a Hackathon Transformed My Career Trajectory](https://dev.to/onirestart/life-after-wlh-how-a-hackathon-transformed-my-career-trajectory-3fnn)
+- [From Solo Developer to Community Builder - My WLH Journey Beyond Code](https://dev.to/onirestart/from-solo-developer-to-community-builder-my-wlh-journey-beyond-code-1g1i)
 <!-- BLOG-POST-LIST:END -->
 
