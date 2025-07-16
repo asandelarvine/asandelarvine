@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Management and Memory Efficiency in Web Servers&lpar;1183&rpar;](https://dev.to/member_02ee4941/resource-management-and-memory-efficiency-in-web-servers1183-5bl2)
-- [Day-59 Today I Learned Method Overloading and Default Values in Java](https://dev.to/tamilselvan1812/day-59-today-i-learned-method-overloading-and-default-values-in-java-22np)
-- [Scayle: The Enterprise eCommerce Engine You Didn&#39;t Know You Needed](https://dev.to/wagento/scayle-the-enterprise-ecommerce-engine-you-didnt-know-you-needed-4okd)
-- [How to install stream to IoT platform — Total.js](https://dev.to/palo/how-to-install-stream-to-iot-platform-totaljs-2jg6)
+- [My First Hands-On with Blockchain, Ethereum &amp; Lisk &lpar;And Yes, MetaMask Was Involved&rpar; 🧠🔗](https://dev.to/lilocreator/my-first-hands-on-with-blockchain-ethereum-lisk-and-yes-metamask-was-involved-odg)
+- [What Are React Hooks? A Beginner-Friendly Guide with Examples](https://dev.to/harsh_p30/what-are-react-hooks-a-beginner-friendly-guide-with-examples-1c3g)
+- [Why Your Elasticsearch Is Slow &lpar;and Fixes&rpar;](https://dev.to/anasanjaria/why-your-elasticsearch-is-slow-and-fixes-5gca)
+- [The Psychology of Loading: How Image Optimization Affects User Behavior More Than You Think](https://dev.to/hardik_b2d8f0bca/the-psychology-of-loading-how-image-optimization-affects-user-behavior-more-than-you-think-33ig)
 <!-- BLOG-POST-LIST:END -->
 
