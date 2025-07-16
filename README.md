@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Hands-On with Blockchain, Ethereum &amp; Lisk &lpar;And Yes, MetaMask Was Involved&rpar; 🧠🔗](https://dev.to/lilocreator/my-first-hands-on-with-blockchain-ethereum-lisk-and-yes-metamask-was-involved-odg)
-- [What Are React Hooks? A Beginner-Friendly Guide with Examples](https://dev.to/harsh_p30/what-are-react-hooks-a-beginner-friendly-guide-with-examples-1c3g)
-- [Why Your Elasticsearch Is Slow &lpar;and Fixes&rpar;](https://dev.to/anasanjaria/why-your-elasticsearch-is-slow-and-fixes-5gca)
-- [The Psychology of Loading: How Image Optimization Affects User Behavior More Than You Think](https://dev.to/hardik_b2d8f0bca/the-psychology-of-loading-how-image-optimization-affects-user-behavior-more-than-you-think-33ig)
+- [MERN Stack Developer Roadmap 2025 ✨](https://dev.to/knareshkumar1910/mern-stack-developer-roadmap-2025-1mp5)
+- [🔍 GitHub Profile Finder – Built with Bolt](https://dev.to/smriti_webdev/github-profile-finder-built-with-bolt-2la0)
+- [Cross-Platform Web Development Without Compromise&lpar;4406&rpar;](https://dev.to/member_02ee4941/cross-platform-web-development-without-compromise4406-1b6j)
+- [Is Traditional Backend Development Still a Viable Career Path in 2025?](https://dev.to/shreebhandare/is-traditional-backend-development-still-a-viable-career-path-in-2025-70j)
 <!-- BLOG-POST-LIST:END -->
 
