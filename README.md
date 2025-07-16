@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Larger Runners in GitHub Actions for Faster Workflows](https://dev.to/shayy/how-to-use-larger-runners-in-github-actions-for-faster-workflows-1df0)
-- [📁 Mastering File Operations in Uniface: A Complete Guide to fileload](https://dev.to/petercode/mastering-file-operations-in-uniface-a-complete-guide-to-fileload-1078)
-- [When You&#39;re The Entire Development Team 🤝](https://dev.to/shiva_shanker_k/when-youre-the-entire-development-team-4p70)
-- [📁 Mastering File Operations in Uniface: The filecopy Statement Deep Dive 🚀](https://dev.to/petercode/mastering-file-operations-in-uniface-the-filecopy-statement-deep-dive-25ed)
+- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
+- [🛒 Real-Life Data Lakehouse Use Case: Revolutionizing Retail Analytics](https://dev.to/qvfagundes/real-life-data-lakehouse-use-case-revolutionizing-retail-analytics-28bl)
+- [Dein größter Blocker ist nicht der Bug, sondern der Perfektionismus](https://dev.to/ivo_sa/dein-grosster-blocker-ist-nicht-der-bug-sondern-der-perfektionismus-3b2e)
+- [DevOps Roadmap](https://dev.to/harshintech/devops-roadmap-5139)
 <!-- BLOG-POST-LIST:END -->
 
