@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Developer Roadmap 2025 ✨](https://dev.to/knareshkumar1910/mern-stack-developer-roadmap-2025-1mp5)
-- [🔍 GitHub Profile Finder – Built with Bolt](https://dev.to/smriti_webdev/github-profile-finder-built-with-bolt-2la0)
-- [Cross-Platform Web Development Without Compromise&lpar;4406&rpar;](https://dev.to/member_02ee4941/cross-platform-web-development-without-compromise4406-1b6j)
-- [Is Traditional Backend Development Still a Viable Career Path in 2025?](https://dev.to/shreebhandare/is-traditional-backend-development-still-a-viable-career-path-in-2025-70j)
+- [It works on my machine](https://dev.to/josephndungi/it-works-on-my-machine-1p6a)
+- [SwiftUI Navigation Demystified: NavigationStack, Deep Linking &amp; TabView Explained](https://dev.to/swift_pal/swiftui-navigation-demystified-navigationstack-deep-linking-tabview-explained-3nn2)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;9616&rpar;](https://dev.to/member_02ee4941/concurrency-mastery-through-advanced-async-programming9616-125h)
+- [Mastering Type Assertion in TypeScript: Unleashing the Power of Type Safety](https://dev.to/vjnvisakh/mastering-type-assertion-in-typescript-unleashing-the-power-of-type-safety-364h)
 <!-- BLOG-POST-LIST:END -->
 
