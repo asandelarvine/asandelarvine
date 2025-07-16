@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connectivity Without Exposure](https://dev.to/franciscoxdias/connectivity-without-exposure-1713)
-- [Context Management and Request Lifecycle Optimization&lpar;4633&rpar;](https://dev.to/member_02ee4941/context-management-and-request-lifecycle-optimization4633-35ko)
-- [I Built a Node.js App That Tracks UK Supermarket Prices and Saved Me £300 This Month &lpar;Also My Neighbors Love It&rpar;](https://dev.to/shiva_shanker_k/i-built-a-nodejs-app-that-tracks-uk-supermarket-prices-and-saved-me-ps300-this-month-also-my-39i5)
-- [Easy Steps to Convert Postman Collections to OpenAPI 3.0](https://dev.to/fallon_jimmy/easy-steps-to-convert-postman-collections-to-openapi-30-1nj9)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7884&rpar;](https://dev.to/member_02ee4941/error-handling-strategies-in-high-performance-web-servers7884-4f93)
+- [SearchMaster Pro - Natural Language Search Infrastructure Management](https://dev.to/onirestart/searchmaster-pro-natural-language-search-infrastructure-management-2md9)
+- [[Boost]](https://dev.to/pranesh_patel/-4l6g)
+- [🚀 Laravel Controllers Explained with Examples &lpar;Beginner-Friendly&rpar;](https://dev.to/rohitdhiman/laravel-controllers-explained-with-examples-beginner-friendly-2dki)
 <!-- BLOG-POST-LIST:END -->
 
