@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Logic in React: Fetching, Caching, and Cleaning Up with Hooks](https://dev.to/spyvarade/async-logic-in-react-fetching-caching-and-cleaning-up-with-hooks-9kc)
-- [The Mad Science of Image Optimization: My Journey into the Research Frontier](https://dev.to/urbandropzone_75222161405/the-mad-science-of-image-optimization-my-journey-into-the-research-frontier-22gk)
-- [Building a Smart Session Tracker for Your Mac&#39;s Menu Bar](https://dev.to/ravgeetdhillon/building-a-smart-session-tracker-for-your-macs-menu-bar-41km)
-- [Muito Além do Bug: Como a Análise de Causa Raiz Salvou a Folha de Pagamento](https://dev.to/julianomoreno/muito-alem-do-bug-como-a-analise-de-causa-raiz-salvou-a-folha-de-pagamento-1gm4)
+- [End-to-End Testing Made Simple with CoTester](https://dev.to/ronika_kashyap/end-to-end-testing-made-simple-with-cotester-4178)
+- [Car Driving Game](https://dev.to/preetha_vaishnavi_2b82358/car-driving-game-4o2b)
+- [How to Save a Python List to a File](https://dev.to/kiani0x01/how-to-save-a-python-list-to-a-file-54a1)
+- [Python Last Element in List](https://dev.to/kiani0x01/python-last-element-in-list-203c)
 <!-- BLOG-POST-LIST:END -->
 
