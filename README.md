@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun + Ruby: The New Full-Stack Duo](https://dev.to/alex_aslam/bun-ruby-the-new-full-stack-duo-2b2k)
+- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
+- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
 - [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
-- [🛒 Real-Life Data Lakehouse Use Case: Revolutionizing Retail Analytics](https://dev.to/qvfagundes/real-life-data-lakehouse-use-case-revolutionizing-retail-analytics-28bl)
-- [Dein größter Blocker ist nicht der Bug, sondern der Perfektionismus](https://dev.to/ivo_sa/dein-grosster-blocker-ist-nicht-der-bug-sondern-der-perfektionismus-3b2e)
-- [DevOps Roadmap](https://dev.to/harshintech/devops-roadmap-5139)
 <!-- BLOG-POST-LIST:END -->
 
