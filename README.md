@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 CSS Styling Images: From Thumbnails to Polaroids – A Complete Guide](https://dev.to/er-raj-aryan/css-styling-images-from-thumbnails-to-polaroids-a-complete-guide-ljj)
-- [Rust Implementation for High Concurrency Processing&lpar;2803&rpar;](https://dev.to/member_02ee4941/rust-implementation-for-high-concurrency-processing2803-28ln)
-- [Efficient WebSocket Server-Side Processing&lpar;0454&rpar;](https://dev.to/member_466da0bd/efficient-websocket-server-side-processing0454-1pn7)
-- [Excel to JSON MCP by WTSolutions Documentation](https://dev.to/wtsolutions/excel-to-json-mcp-by-wtsolutions-documentation-4mdj)
+- [Connectivity Without Exposure](https://dev.to/franciscoxdias/connectivity-without-exposure-1713)
+- [Context Management and Request Lifecycle Optimization&lpar;4633&rpar;](https://dev.to/member_02ee4941/context-management-and-request-lifecycle-optimization4633-35ko)
+- [I Built a Node.js App That Tracks UK Supermarket Prices and Saved Me £300 This Month &lpar;Also My Neighbors Love It&rpar;](https://dev.to/shiva_shanker_k/i-built-a-nodejs-app-that-tracks-uk-supermarket-prices-and-saved-me-ps300-this-month-also-my-39i5)
+- [Easy Steps to Convert Postman Collections to OpenAPI 3.0](https://dev.to/fallon_jimmy/easy-steps-to-convert-postman-collections-to-openapi-30-1nj9)
 <!-- BLOG-POST-LIST:END -->
 
