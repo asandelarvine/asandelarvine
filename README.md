@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Image Formats: A Developer&#39;s Guide to Streamlined Image Processing](https://dev.to/hardik_b2d8f0bca/stop-fighting-image-formats-a-developers-guide-to-streamlined-image-processing-53c6)
-- [Zero-Trust Architecture in Laravel Applications](https://dev.to/addwebsolutionpvtltd/zero-trust-architecture-in-laravel-applications-174p)
-- [GoLang 101: Getting Started with Go](https://dev.to/kazemmdev/golang-101-getting-started-with-go-383l)
-- [Efficient WebSocket Server-Side Processing&lpar;4084&rpar;](https://dev.to/member_02ee4941/efficient-websocket-server-side-processing4084-1hg3)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;1183&rpar;](https://dev.to/member_02ee4941/resource-management-and-memory-efficiency-in-web-servers1183-5bl2)
+- [Day-59 Today I Learned Method Overloading and Default Values in Java](https://dev.to/tamilselvan1812/day-59-today-i-learned-method-overloading-and-default-values-in-java-22np)
+- [Scayle: The Enterprise eCommerce Engine You Didn&#39;t Know You Needed](https://dev.to/wagento/scayle-the-enterprise-ecommerce-engine-you-didnt-know-you-needed-4okd)
+- [How to install stream to IoT platform — Total.js](https://dev.to/palo/how-to-install-stream-to-iot-platform-totaljs-2jg6)
 <!-- BLOG-POST-LIST:END -->
 
