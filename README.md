@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9415&rpar;](https://dev.to/member_466da0bd/bidirectional-communication-patterns-in-modern-web-apps9415-41fe)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;9190&rpar;](https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i)
-- [🦊 Lynx Keymap: Boost Your Productivity in VSCode... with Custom Shortcuts — &lpar; AI &rpar;](https://dev.to/bastndev/lynx-keymap-boost-your-productivity-in-vscode-with-custom-shortcuts-ai--3dj)
-- [Application of Async Programming in Web Development&lpar;7115&rpar;](https://dev.to/member_02ee4941/application-of-async-programming-in-web-development7115-ekm)
+- [🎨 CSS Styling Images: From Thumbnails to Polaroids – A Complete Guide](https://dev.to/er-raj-aryan/css-styling-images-from-thumbnails-to-polaroids-a-complete-guide-ljj)
+- [Rust Implementation for High Concurrency Processing&lpar;2803&rpar;](https://dev.to/member_02ee4941/rust-implementation-for-high-concurrency-processing2803-28ln)
+- [Efficient WebSocket Server-Side Processing&lpar;0454&rpar;](https://dev.to/member_466da0bd/efficient-websocket-server-side-processing0454-1pn7)
+- [Excel to JSON MCP by WTSolutions Documentation](https://dev.to/wtsolutions/excel-to-json-mcp-by-wtsolutions-documentation-4mdj)
 <!-- BLOG-POST-LIST:END -->
 
