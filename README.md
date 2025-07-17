@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Blue Screen of Death &lpar;BSOD&rpar;: Causes, Prevention, and Recovery](https://dev.to/hmzas/understanding-the-blue-screen-of-death-bsod-causes-prevention-and-recovery-5ek8)
-- [🏴‍☠️ The Pirate Bay: Internet’s Most Wanted File Ship ⚓💾](https://dev.to/hmzas/the-pirate-bay-internets-most-wanted-file-ship-1lpg)
-- [🛡️ Ethical Hacking on HackerOne: The Legal Path to Bug Bounties 💰🕵️](https://dev.to/hmzas/ethical-hacking-on-hackerone-the-legal-path-to-bug-bounties-afe)
-- [🧠 Metasploit Framework: The Hacker’s Swiss Army Knife 🔐💻](https://dev.to/hmzas/metasploit-framework-the-hackers-swiss-army-knife-303m)
+- [2025 Data Warehouse Benchmark: What BigQuery, Snowflake, and Others Don’t Tell You](https://dev.to/estuaryflow/2025-data-warehouse-benchmark-what-bigquery-snowflake-and-others-dont-tell-you-392a)
+- [Top 05 Software Companies Near Me in Lausanne – 2025 Edition](https://dev.to/theo_blogs/top-05-software-companies-near-me-in-lausanne-2025-edition-1bc8)
+- [Building a Stock Trading System: High-Frequency Trading Architecture](https://dev.to/sgchris/building-a-stock-trading-system-high-frequency-trading-architecture-e2f)
+- [Microservices Architecture with Lightweight Framework Design&lpar;0731&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design0731-30hc)
 <!-- BLOG-POST-LIST:END -->
 
