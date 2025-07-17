@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thesys React SDK: Turn LLM Responses into real time User Interfaces](https://dev.to/anmolbaranwal/thesys-react-sdk-turn-llm-responses-into-real-time-user-interfaces-30d5)
-- [Digital Blueprinting with Kiro&#39;s Spec-Driven Development](https://dev.to/kirodotdev/digital-blueprinting-with-kiros-spec-driven-development-2fde)
-- [Best QR Code Generators 2025: Comparison List](https://dev.to/natka93/best-qr-code-generators-2025-comparison-list-2o64)
-- [Odyssey Business Tourism 🚀 — Redefining Travel Discovery for the Modern Explorer](https://dev.to/mohitsuthar/-odyssey-business-tourism-redefining-travel-discovery-for-the-modern-explorer-edn)
+- [mpv vs VLC: Making mpv Comfortable to Use](https://dev.to/hopsayer/mpv-vs-vlc-making-mpv-comfortable-to-use-26e4)
+- [From Scripts to Strategy — Let Devs Lead the Way](https://dev.to/linkbenjamin/from-scripts-to-strategy-let-devs-lead-the-way-1074)
+- [How to enable in-app Notifications using TinyMCE APIs](https://dev.to/ravgeetdhillon/how-to-enable-in-app-notifications-using-tinymce-apis-39dh)
+- [🚀 My Tech Interview Journey at Q2Pay Technology – React Native Developer Role](https://dev.to/surajb/my-tech-interview-journey-at-q2pay-technology-react-native-developer-role-mc0)
 <!-- BLOG-POST-LIST:END -->
 
