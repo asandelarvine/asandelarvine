@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock ₹36,500 Worth of AI Tools FREE – Gemini Pro + Perplexity Pro!](https://dev.to/yoga0022/unlock-36500-worth-of-ai-tools-free-gemini-pro-perplexity-pro-32dn)
-- [How can I gamify programming?Any ideas?](https://dev.to/zero-dan/how-can-i-gamify-programmingany-ideas-36il)
-- [Inside the QA Process of Sahara AI: Development Insights from the Trenches](https://dev.to/philip_crypto92/inside-the-qa-process-of-sahara-ai-development-insights-from-the-trenches-5gh2)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;4448&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services4448-2mam)
+- [Refatorando React: boas práticas que a IA parece desconhecer](https://dev.to/anabiscalchin/refatorando-react-boas-praticas-que-a-ia-parece-desconhecer-2ehh)
+- [Understanding Hash and Digital Signature in Blockchain: Building Trust Without Trusting Anyone](https://dev.to/nainasachdev10/understanding-hash-and-digital-signature-in-blockchain-building-trust-without-trusting-anyone-5a8)
+- [A hands-on introduction with code examples using LangGraph, AutoGen, CrewAI and Google ADK](https://dev.to/oussama_fikri/a-hands-on-introduction-with-code-examples-using-langgraph-autogen-crewai-and-google-adk-3ai8)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;3706&rpar;](https://dev.to/member_214bcde5/bidirectional-communication-patterns-in-modern-web-apps3706-3e4p)
 <!-- BLOG-POST-LIST:END -->
 
