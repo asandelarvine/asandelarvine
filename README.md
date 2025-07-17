@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Web Framework Performance Breakthrough&lpar;4081&rpar;](https://dev.to/member_aa44a2ae/rust-async-web-framework-performance-breakthrough4081-31ka)
-- [GORM Magic: Go Database Made Easy ⚡](https://dev.to/tavernetech/gorm-magic-go-database-made-easy-1n98)
-- [Cross-Platform Web Development Without Compromise&lpar;8830&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise8830-2aik)
-- [From MVP to Product: How I Built a SaaS App Without Writing a Line of Code](https://dev.to/kunytskyi/from-mvp-to-product-how-i-built-a-saas-app-without-writing-a-line-of-code-9d3)
+- [Apache Iceberg Table Optimization #7: Using Iceberg Metadata Tables to Determine When Compaction Is Needed](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-7-using-iceberg-metadata-tables-to-determine-when-compaction-is-378b)
+- [Apache Iceberg Table Optimization #6: Designing the Ideal Cadence for Compaction and Snapshot Expiration](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-6-designing-the-ideal-cadence-for-compaction-and-snapshot-4p03)
+- [Apache Iceberg Table Optimization #5: Avoiding Metadata Bloat with Snapshot Expiration and Rewriting Manifests](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-5-avoiding-metadata-bloat-with-snapshot-expiration-and-moi)
+- [Apache Iceberg Table Optimization #4: Smarter Data Layout — Sorting and Clustering Iceberg Tables](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-4-smarter-data-layout-sorting-and-clustering-iceberg-tables-2fml)
 <!-- BLOG-POST-LIST:END -->
 
