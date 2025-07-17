@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [👽 Extract Thousands of Rows of Data Without Writing Code &lpar;Open Source&rpar;](https://dev.to/karishmashukla/extract-thousands-of-rows-of-data-without-writing-code-open-source-1fi1)
-- [Asynchronous Programming Patterns for Web Development&lpar;9181&rpar;](https://dev.to/member_aa44a2ae/asynchronous-programming-patterns-for-web-development9181-289i)
-- [Starting new Journey as A Backend Learner from &quot;July 18 &quot;](https://dev.to/bigyanlogs/starting-new-journey-as-a-backend-learner-from-july-18--5hm1)
-- [How AI Is Transforming Mental Wellbeing at Work](https://dev.to/coach-nova/how-ai-is-transforming-mental-wellbeing-at-work-3mei)
+- [🚀 Unlock ₹36,500 Worth of AI Tools FREE – Gemini Pro + Perplexity Pro!](https://dev.to/yoga0022/unlock-36500-worth-of-ai-tools-free-gemini-pro-perplexity-pro-32dn)
+- [How can I gamify programming?Any ideas?](https://dev.to/zero-dan/how-can-i-gamify-programmingany-ideas-36il)
+- [Inside the QA Process of Sahara AI: Development Insights from the Trenches](https://dev.to/philip_crypto92/inside-the-qa-process-of-sahara-ai-development-insights-from-the-trenches-5gh2)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;4448&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services4448-2mam)
 <!-- BLOG-POST-LIST:END -->
 
