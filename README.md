@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manual Testing with AI: Using Playwright MCP for No-Code Testing](https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h)
-- [What is an AMBU Bag? A Life-Saving Emergency Resuscitation Tool](https://dev.to/physio_shop_54dbe3d2995c9/what-is-an-ambu-bag-a-life-saving-emergency-resuscitation-tool-51pl)
-- [Inject Meme Into Your VsCode WorkSpace 🤪](https://dev.to/jayantur13/inject-meme-into-your-vscode-workspace-2g62)
-- [WebSocket Revolution in Real-Time Communication&lpar;2045&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication2045-2a48)
+- [Figma Just Shipped Liquid Glass Effects &lpar;And They&#39;re Actually Good&rpar;](https://dev.to/shayy/figma-just-shipped-liquid-glass-effects-and-theyre-actually-good-1o04)
+- [How Hackers Are Using AI in 2025 &lpar;Urgent Attention&rpar;](https://dev.to/scofieldidehen/how-hackers-are-using-ai-in-2025-urgent-attention-27am)
+- [ResearchFlow AI: Helping Students Navigate the Research Maze](https://dev.to/franpcode/researchflow-ai-helping-students-navigate-the-research-maze-2a41)
+- [&lpar;G&rpar;UI is Dead](https://dev.to/paulmojicatech/gui-is-dead-4g3b)
 <!-- BLOG-POST-LIST:END -->
 
