@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Slice, not Substring](https://dev.to/oculus42/use-slice-not-substring-javascript-quick-bits-2ci)
-- [Efficient WebSocket Server-Side Processing&lpar;2259&rpar;](https://dev.to/member_214bcde5/efficient-websocket-server-side-processing2259-348c)
-- [New Choice for Cross-Platform Web Service Development&lpar;2677&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development2677-58g5)
-- [SafeLine WAF Installation &amp; Upgrade Troubleshooting Guide](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-installation-upgrade-troubleshooting-guide-39go)
+- [[Boost]](https://dev.to/extinctsion/-3i90)
+- [I Spent 12 Months Using 1,000+ AI Tools — These Are the Ones I Use the Most](https://dev.to/nitinfab/i-spent-12-months-using-1000-ai-tools-these-are-the-ones-i-use-the-most-ekl)
+- [Rust Implementation for High Concurrency Processing&lpar;4404&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4404-3ljd)
+- [Just Launched My Portfolio &amp; I&#39;d Love Your Feedback! 🙌](https://dev.to/preeti_yadav/just-launched-my-portfolio-id-love-your-feedback-4kcm)
 <!-- BLOG-POST-LIST:END -->
 
