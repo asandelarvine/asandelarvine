@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Tests with Playwright and Components Page Object Model: A Practical Approach](https://dev.to/rodrigoobc/automating-tests-with-playwright-and-components-page-object-model-a-practical-approach-4hmi)
-- [TCP Optimization Techniques for Web Server Performance&lpar;5873&rpar;](https://dev.to/member_aa44a2ae/tcp-optimization-techniques-for-web-server-performance5873-13ma)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;4869&rpar;](https://dev.to/member_a26aac70/design-philosophy-of-zero-dependency-web-framework4869-1poa)
-- [Getting Started with Kubernetes on Minikube: Deploy, Explore, Expose, Scale, and Update Your App](https://dev.to/kosisochukwu_ugochukwu_a2/getting-started-with-kubernetes-on-minikube-deploy-explore-expose-scale-and-update-your-app-4oga)
+- [Rust Async Web Framework Performance Breakthrough&lpar;4081&rpar;](https://dev.to/member_aa44a2ae/rust-async-web-framework-performance-breakthrough4081-31ka)
+- [GORM Magic: Go Database Made Easy ⚡](https://dev.to/tavernetech/gorm-magic-go-database-made-easy-1n98)
+- [Cross-Platform Web Development Without Compromise&lpar;8830&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise8830-2aik)
+- [From MVP to Product: How I Built a SaaS App Without Writing a Line of Code](https://dev.to/kunytskyi/from-mvp-to-product-how-i-built-a-saas-app-without-writing-a-line-of-code-9d3)
 <!-- BLOG-POST-LIST:END -->
 
