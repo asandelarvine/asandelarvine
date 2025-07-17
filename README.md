@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/extinctsion/-3i90)
-- [I Spent 12 Months Using 1,000+ AI Tools — These Are the Ones I Use the Most](https://dev.to/nitinfab/i-spent-12-months-using-1000-ai-tools-these-are-the-ones-i-use-the-most-ekl)
-- [Rust Implementation for High Concurrency Processing&lpar;4404&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4404-3ljd)
-- [Just Launched My Portfolio &amp; I&#39;d Love Your Feedback! 🙌](https://dev.to/preeti_yadav/just-launched-my-portfolio-id-love-your-feedback-4kcm)
+- [🚀 How I Passed the CKAD Exam](https://dev.to/kapilbhalodiya/how-i-passed-the-ckad-exam-5215)
+- [Microservices Architecture with Lightweight Framework Design&lpar;8040&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design8040-3fb1)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;9339&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications9339-3ll4)
+- [🚀 Deploy Applications from External Registries on ROSA](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-from-external-registries-on-rosa-1mdl)
 <!-- BLOG-POST-LIST:END -->
 
