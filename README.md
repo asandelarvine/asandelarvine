@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mpv vs VLC: Making mpv Comfortable to Use](https://dev.to/hopsayer/mpv-vs-vlc-making-mpv-comfortable-to-use-26e4)
-- [From Scripts to Strategy — Let Devs Lead the Way](https://dev.to/linkbenjamin/from-scripts-to-strategy-let-devs-lead-the-way-1074)
-- [How to enable in-app Notifications using TinyMCE APIs](https://dev.to/ravgeetdhillon/how-to-enable-in-app-notifications-using-tinymce-apis-39dh)
-- [🚀 My Tech Interview Journey at Q2Pay Technology – React Native Developer Role](https://dev.to/surajb/my-tech-interview-journey-at-q2pay-technology-react-native-developer-role-mc0)
+- [👽 Extract Thousands of Rows of Data Without Writing Code &lpar;Open Source&rpar;](https://dev.to/karishmashukla/extract-thousands-of-rows-of-data-without-writing-code-open-source-1fi1)
+- [Asynchronous Programming Patterns for Web Development&lpar;9181&rpar;](https://dev.to/member_aa44a2ae/asynchronous-programming-patterns-for-web-development9181-289i)
+- [Starting new Journey as A Backend Learner from &quot;July 18 &quot;](https://dev.to/bigyanlogs/starting-new-journey-as-a-backend-learner-from-july-18--5hm1)
+- [How AI Is Transforming Mental Wellbeing at Work](https://dev.to/coach-nova/how-ai-is-transforming-mental-wellbeing-at-work-3mei)
 <!-- BLOG-POST-LIST:END -->
 
