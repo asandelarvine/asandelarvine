@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I always wished there was a place to vent without being judged, so I built one](https://dev.to/harshvdev/i-always-wished-there-was-a-place-to-vent-without-being-judged-so-i-built-one-39ae)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;8695&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers8695-11h1)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;2889&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers2889-1bhl)
-- [How I Ranked a Venice–Rovinj Page With Clean Internal Linking and FAQ Schema](https://dev.to/voodooser/how-i-ranked-a-venice-rovinj-page-with-clean-internal-linking-and-faq-schema-41ak)
+- [Understanding the Blue Screen of Death &lpar;BSOD&rpar;: Causes, Prevention, and Recovery](https://dev.to/hmzas/understanding-the-blue-screen-of-death-bsod-causes-prevention-and-recovery-5ek8)
+- [🏴‍☠️ The Pirate Bay: Internet’s Most Wanted File Ship ⚓💾](https://dev.to/hmzas/the-pirate-bay-internets-most-wanted-file-ship-1lpg)
+- [🛡️ Ethical Hacking on HackerOne: The Legal Path to Bug Bounties 💰🕵️](https://dev.to/hmzas/ethical-hacking-on-hackerone-the-legal-path-to-bug-bounties-afe)
+- [🧠 Metasploit Framework: The Hacker’s Swiss Army Knife 🔐💻](https://dev.to/hmzas/metasploit-framework-the-hackers-swiss-army-knife-303m)
 <!-- BLOG-POST-LIST:END -->
 
