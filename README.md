@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Tools I&#39;ve Been Loving Recently](https://dev.to/ellie_078c191f5678f5e7bef/developer-tools-ive-been-loving-recently-5a1h)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;9196&rpar;](https://dev.to/member_214bcde5/zero-dependency-architecture-for-maximum-performance9196-1dn4)
-- [Context Management and Request Lifecycle Optimization&lpar;5902&rpar;](https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization5902-27f6)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;9713&rpar;](https://dev.to/member_a26aac70/production-deployment-strategies-for-high-performance-web-services9713-150l)
+- [Use Slice, not Substring](https://dev.to/oculus42/use-slice-not-substring-javascript-quick-bits-2ci)
+- [Efficient WebSocket Server-Side Processing&lpar;2259&rpar;](https://dev.to/member_214bcde5/efficient-websocket-server-side-processing2259-348c)
+- [New Choice for Cross-Platform Web Service Development&lpar;2677&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development2677-58g5)
+- [SafeLine WAF Installation &amp; Upgrade Troubleshooting Guide](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-installation-upgrade-troubleshooting-guide-39go)
 <!-- BLOG-POST-LIST:END -->
 
