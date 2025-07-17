@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Axero Workspace: The Modern Intranet Dashboard](https://dev.to/_boweii/axero-workspace-the-modern-intranet-dashboard-m0b)
-- [Spring gRPC 0.9.0 Released — What’s New and Why It Matters](https://dev.to/ayush_o4/spring-grpc-090-released-whats-new-and-why-it-matters-2c8g)
-- [Set key-value on JS Object!](https://dev.to/hpouyanmehr/set-key-value-on-js-object-l00)
-- [🦀 Day 9 of #100DaysOfRust — Managing Growing Projects in Rust 🧱](https://dev.to/subesh_yadav/day-9-of-100daysofrust-managing-growing-projects-in-rust-39ng)
+- [Alocações em .NET](https://dev.to/jesus/alocacoes-em-net-582f)
+- [Digital Trust Starts with GRC: Securing the Future of Compliance](https://dev.to/ibrahimsi/digital-trust-starts-with-grc-securing-the-future-of-compliance-56jh)
+- [Rewriting the same reply again and again?](https://dev.to/slashitapp/rewriting-the-same-reply-again-and-again-2b5o)
+- [Unpacking Go Slices: 3 Common Gotchas You Need to Know](https://dev.to/mahdifardi/unpacking-go-slices-3-common-gotchas-you-need-to-know-mpa)
 <!-- BLOG-POST-LIST:END -->
 
