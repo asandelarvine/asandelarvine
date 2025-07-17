@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refatorando React: boas práticas que a IA parece desconhecer](https://dev.to/anabiscalchin/refatorando-react-boas-praticas-que-a-ia-parece-desconhecer-2ehh)
-- [Understanding Hash and Digital Signature in Blockchain: Building Trust Without Trusting Anyone](https://dev.to/nainasachdev10/understanding-hash-and-digital-signature-in-blockchain-building-trust-without-trusting-anyone-5a8)
-- [A hands-on introduction with code examples using LangGraph, AutoGen, CrewAI and Google ADK](https://dev.to/oussama_fikri/a-hands-on-introduction-with-code-examples-using-langgraph-autogen-crewai-and-google-adk-3ai8)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;3706&rpar;](https://dev.to/member_214bcde5/bidirectional-communication-patterns-in-modern-web-apps3706-3e4p)
+- [🤖 Which AI IDE Is Revolutionizing Your Development Workflow in 2025?](https://dev.to/respect17/-which-ai-ide-is-revolutionizing-your-development-workflow-in-2025-1c20)
+- [What It’s Like to Co-Build With AI](https://dev.to/mr_hicksman_3747669cea09a/what-its-like-to-co-build-with-ai-2in3)
+- [Understanding Async Context Managers in Python](https://dev.to/hevalhazalkurt/understanding-async-context-managers-in-python-1928)
+- [Raspberry Pi Cooling: Does Fan Direction Matter? I Put It to the Test](https://dev.to/wlepczynski/raspberry-pi-cooling-does-fan-direction-matter-i-put-it-to-the-test-4ihl)
 <!-- BLOG-POST-LIST:END -->
 
