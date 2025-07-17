@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Customizable ERP Is the Future of Enterprise Software](https://dev.to/sigzentechnologies/why-customizable-erp-is-the-future-of-enterprise-software-4l2k)
-- [Building a Movie Recommendation System: My Full-Stack Journey](https://dev.to/itmesaad/building-a-movie-recommendation-system-my-full-stack-journey-76a)
-- [What to Look for in the Best AI Translation Software](https://dev.to/colinreed/what-to-look-for-in-the-best-ai-translation-software-41mm)
-- [Beyond the Code - The Intense Human Story of StudentSphere&#39;s Genesis](https://dev.to/abdulahad_ishaq/beyond-the-code-the-intense-human-story-of-studentspheres-genesis-3de4)
+- [Thesys React SDK: Turn LLM Responses into real time User Interfaces](https://dev.to/anmolbaranwal/thesys-react-sdk-turn-llm-responses-into-real-time-user-interfaces-30d5)
+- [Digital Blueprinting with Kiro&#39;s Spec-Driven Development](https://dev.to/kirodotdev/digital-blueprinting-with-kiros-spec-driven-development-2fde)
+- [Best QR Code Generators 2025: Comparison List](https://dev.to/natka93/best-qr-code-generators-2025-comparison-list-2o64)
+- [Odyssey Business Tourism 🚀 — Redefining Travel Discovery for the Modern Explorer](https://dev.to/mohitsuthar/-odyssey-business-tourism-redefining-travel-discovery-for-the-modern-explorer-edn)
 <!-- BLOG-POST-LIST:END -->
 
