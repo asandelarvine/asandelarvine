@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun + Ruby: The New Full-Stack Duo](https://dev.to/alex_aslam/bun-ruby-the-new-full-stack-duo-2b2k)
-- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
-- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
-- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
+- [Developer Tools I&#39;ve Been Loving Recently](https://dev.to/ellie_078c191f5678f5e7bef/developer-tools-ive-been-loving-recently-5a1h)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;9196&rpar;](https://dev.to/member_214bcde5/zero-dependency-architecture-for-maximum-performance9196-1dn4)
+- [Context Management and Request Lifecycle Optimization&lpar;5902&rpar;](https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization5902-27f6)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;9713&rpar;](https://dev.to/member_a26aac70/production-deployment-strategies-for-high-performance-web-services9713-150l)
 <!-- BLOG-POST-LIST:END -->
 
