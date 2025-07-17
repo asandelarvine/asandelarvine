@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma Just Shipped Liquid Glass Effects &lpar;And They&#39;re Actually Good&rpar;](https://dev.to/shayy/figma-just-shipped-liquid-glass-effects-and-theyre-actually-good-1o04)
-- [How Hackers Are Using AI in 2025 &lpar;Urgent Attention&rpar;](https://dev.to/scofieldidehen/how-hackers-are-using-ai-in-2025-urgent-attention-27am)
-- [ResearchFlow AI: Helping Students Navigate the Research Maze](https://dev.to/franpcode/researchflow-ai-helping-students-navigate-the-research-maze-2a41)
-- [&lpar;G&rpar;UI is Dead](https://dev.to/paulmojicatech/gui-is-dead-4g3b)
+- [Automating Tests with Playwright and Components Page Object Model: A Practical Approach](https://dev.to/rodrigoobc/automating-tests-with-playwright-and-components-page-object-model-a-practical-approach-4hmi)
+- [TCP Optimization Techniques for Web Server Performance&lpar;5873&rpar;](https://dev.to/member_aa44a2ae/tcp-optimization-techniques-for-web-server-performance5873-13ma)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;4869&rpar;](https://dev.to/member_a26aac70/design-philosophy-of-zero-dependency-web-framework4869-1poa)
+- [Getting Started with Kubernetes on Minikube: Deploy, Explore, Expose, Scale, and Update Your App](https://dev.to/kosisochukwu_ugochukwu_a2/getting-started-with-kubernetes-on-minikube-deploy-explore-expose-scale-and-update-your-app-4oga)
 <!-- BLOG-POST-LIST:END -->
 
