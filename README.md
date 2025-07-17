@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alocações em .NET](https://dev.to/jesus/alocacoes-em-net-582f)
-- [Digital Trust Starts with GRC: Securing the Future of Compliance](https://dev.to/ibrahimsi/digital-trust-starts-with-grc-securing-the-future-of-compliance-56jh)
-- [Rewriting the same reply again and again?](https://dev.to/slashitapp/rewriting-the-same-reply-again-and-again-2b5o)
-- [Unpacking Go Slices: 3 Common Gotchas You Need to Know](https://dev.to/mahdifardi/unpacking-go-slices-3-common-gotchas-you-need-to-know-mpa)
+- [Manual Testing with AI: Using Playwright MCP for No-Code Testing](https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h)
+- [What is an AMBU Bag? A Life-Saving Emergency Resuscitation Tool](https://dev.to/physio_shop_54dbe3d2995c9/what-is-an-ambu-bag-a-life-saving-emergency-resuscitation-tool-51pl)
+- [Inject Meme Into Your VsCode WorkSpace 🤪](https://dev.to/jayantur13/inject-meme-into-your-vscode-workspace-2g62)
+- [WebSocket Revolution in Real-Time Communication&lpar;2045&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication2045-2a48)
 <!-- BLOG-POST-LIST:END -->
 
