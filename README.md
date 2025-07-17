@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Which AI IDE Is Revolutionizing Your Development Workflow in 2025?](https://dev.to/respect17/-which-ai-ide-is-revolutionizing-your-development-workflow-in-2025-1c20)
-- [What It’s Like to Co-Build With AI](https://dev.to/mr_hicksman_3747669cea09a/what-its-like-to-co-build-with-ai-2in3)
-- [Understanding Async Context Managers in Python](https://dev.to/hevalhazalkurt/understanding-async-context-managers-in-python-1928)
-- [Raspberry Pi Cooling: Does Fan Direction Matter? I Put It to the Test](https://dev.to/wlepczynski/raspberry-pi-cooling-does-fan-direction-matter-i-put-it-to-the-test-4ihl)
+- [Axero Workspace: The Modern Intranet Dashboard](https://dev.to/_boweii/axero-workspace-the-modern-intranet-dashboard-m0b)
+- [Spring gRPC 0.9.0 Released — What’s New and Why It Matters](https://dev.to/ayush_o4/spring-grpc-090-released-whats-new-and-why-it-matters-2c8g)
+- [Set key-value on JS Object!](https://dev.to/hpouyanmehr/set-key-value-on-js-object-l00)
+- [🦀 Day 9 of #100DaysOfRust — Managing Growing Projects in Rust 🧱](https://dev.to/subesh_yadav/day-9-of-100daysofrust-managing-growing-projects-in-rust-39ng)
 <!-- BLOG-POST-LIST:END -->
 
