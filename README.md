@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Chatbot Interface Next.js Example for Scalable Web Projects](https://dev.to/devyani_patel_9061332e4da/open-source-chatbot-interface-nextjs-example-for-scalable-web-projects-p6f)
-- [Loosely coupled configuration for Home Assistant](https://dev.to/nfrankel/loosely-coupled-configuration-for-home-assistant-1noh)
-- [9 Powerful Time Management Techniques for 2025](https://dev.to/fluidwave/9-powerful-time-management-techniques-for-2025-5512)
-- [Elegant Middleware Architecture Implementation&lpar;4113&rpar;](https://dev.to/member_aa44a2ae/elegant-middleware-architecture-implementation4113-22o3)
+- [Why Customizable ERP Is the Future of Enterprise Software](https://dev.to/sigzentechnologies/why-customizable-erp-is-the-future-of-enterprise-software-4l2k)
+- [Building a Movie Recommendation System: My Full-Stack Journey](https://dev.to/itmesaad/building-a-movie-recommendation-system-my-full-stack-journey-76a)
+- [What to Look for in the Best AI Translation Software](https://dev.to/colinreed/what-to-look-for-in-the-best-ai-translation-software-41mm)
+- [Beyond the Code - The Intense Human Story of StudentSphere&#39;s Genesis](https://dev.to/abdulahad_ishaq/beyond-the-code-the-intense-human-story-of-studentspheres-genesis-3de4)
 <!-- BLOG-POST-LIST:END -->
 
