@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS RDS Blue/Green Upgrade while Managing Infrastructure in Terraform](https://dev.to/muhammad_salmanzahid_975/aws-rds-bluegreen-upgrade-while-managing-infrastructure-in-terraform-oaf)
-- [Webpage Print Problem](https://dev.to/yami_no_kanata/webpage-print-problem-1bd8)
-- [The Road to Zero Downtime: CI/CD for HMS Software in Healthcare](https://dev.to/nzcares/the-road-to-zero-downtime-cicd-for-hms-software-in-healthcare-2127)
-- [🔑 Who Can Do What? Unlocking Kubernetes RBAC &lpar;The Security Guard Guide for Newbies 💂‍♀️&rpar;](https://dev.to/hritikraj8804/who-can-do-what-unlocking-kubernetes-rbac-the-security-guard-guide-for-newbies--4fif)
+- [Multilingual Content Production: Process Improvement Tips](https://dev.to/jennamitchell/multilingual-content-production-process-improvement-tips-g81)
+- [When AI Gets Stuck in a Loop: A CSS Nightmare and Lessons Learned](https://dev.to/info_vertex/when-ai-gets-stuck-in-a-loop-a-css-nightmare-and-lessons-learned-3mn6)
+- [SafeLine WAF vs. Cloudflare &amp; ModSecurity: Who Wins in Real-World Tests?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-vs-cloudflare-modsecurity-who-wins-in-real-world-tests-13ck)
+- [CSR vs SSR in Next.js](https://dev.to/khaledsaeed18/csr-vs-ssr-in-nextjs-34o8)
 <!-- BLOG-POST-LIST:END -->
 
