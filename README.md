@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Leading Web Development](https://dev.to/sunilfgh/javascript-leading-web-development-16b7)
-- [Context Management and Request Lifecycle Optimization&lpar;1094&rpar;](https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization1094-3h28)
-- [Hiring Remote Employees That Fit Your Culture: A Practical Playbook](https://dev.to/kruti12/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-4gml)
-- [How to Get Status Updates from Engineering Teams Without Losing Your Mind](https://dev.to/taskford/how-to-get-status-updates-from-engineering-teams-without-losing-your-mind-e9e)
+- [Filter UX Design: Best Practices for SaaS Product Success](https://dev.to/lollypopdesign/filter-ux-design-best-practices-for-saas-product-success-5185)
+- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-1f40)
+- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-3o36)
+- [TCP Optimization Techniques for Web Server Performance&lpar;6225&rpar;](https://dev.to/member_214bcde5/tcp-optimization-techniques-for-web-server-performance6225-37mo)
 <!-- BLOG-POST-LIST:END -->
 
