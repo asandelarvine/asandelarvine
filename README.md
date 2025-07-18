@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ship of Theseus in Your CDN: Philosophical Questions That Image Optimization Forces Us to Ask](https://dev.to/hardik_b2d8f0bca/the-ship-of-theseus-in-your-cdn-philosophical-questions-that-image-optimization-forces-us-to-ask-23k6)
-- [Free Places to Post Your Early Product — And It Actually Worked](https://dev.to/suzuki_yuto_786e3bc445acb/free-places-to-post-your-early-product-and-it-actually-worked-35c3)
-- [🔐 Configure Developer Self-Service Access on Azure Red Hat OpenShift &lpar;ARO&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/configure-developer-self-service-access-on-azure-red-hat-openshift-aro-3ccm)
-- [The Importance of Choosing the Right Data Types for Database Optimization](https://dev.to/raxraj/the-importance-of-choosing-the-right-data-types-for-database-optimization-ch6)
+- [JavaScript Leading Web Development](https://dev.to/sunilfgh/javascript-leading-web-development-16b7)
+- [Context Management and Request Lifecycle Optimization&lpar;1094&rpar;](https://dev.to/member_aa44a2ae/context-management-and-request-lifecycle-optimization1094-3h28)
+- [Hiring Remote Employees That Fit Your Culture: A Practical Playbook](https://dev.to/kruti12/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-4gml)
+- [How to Get Status Updates from Engineering Teams Without Losing Your Mind](https://dev.to/taskford/how-to-get-status-updates-from-engineering-teams-without-losing-your-mind-e9e)
 <!-- BLOG-POST-LIST:END -->
 
