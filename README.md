@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg Table Optimization #7: Using Iceberg Metadata Tables to Determine When Compaction Is Needed](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-7-using-iceberg-metadata-tables-to-determine-when-compaction-is-378b)
-- [Apache Iceberg Table Optimization #6: Designing the Ideal Cadence for Compaction and Snapshot Expiration](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-6-designing-the-ideal-cadence-for-compaction-and-snapshot-4p03)
-- [Apache Iceberg Table Optimization #5: Avoiding Metadata Bloat with Snapshot Expiration and Rewriting Manifests](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-5-avoiding-metadata-bloat-with-snapshot-expiration-and-moi)
-- [Apache Iceberg Table Optimization #4: Smarter Data Layout — Sorting and Clustering Iceberg Tables](https://dev.to/alexmercedcoder/apache-iceberg-table-optimization-4-smarter-data-layout-sorting-and-clustering-iceberg-tables-2fml)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;0437&rpar;](https://dev.to/member_214bcde5/ultimate-optimization-of-lightweight-server-architecture0437-opm)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;9823&rpar;](https://dev.to/member_a26aac70/design-philosophy-of-zero-dependency-web-framework9823-47d5)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;6296&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services6296-pb3)
+- [Java Constructors](https://dev.to/sundar_joseph_94059a3e7a6/java-constructors-19g3)
 <!-- BLOG-POST-LIST:END -->
 
