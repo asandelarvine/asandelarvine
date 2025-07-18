@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Launch Week 15 Hackathon](https://dev.to/supabase/supabase-launch-week-15-hackathon-2ajk)
-- [How to Fixup a Commit](https://dev.to/aerabi/how-to-fixup-a-commit-4ngk)
-- [🚨 Stop Using ChatGPT Agents Until You Read This First!](https://dev.to/alifar/stop-using-chatgpt-agents-until-you-read-this-first-5gab)
-- [“Fake It Till You Make It” vs. Building Real Tech](https://dev.to/js402/fake-it-till-you-make-it-vs-building-real-tech-50p8)
+- [🚀 Embedding JavaScript in Uniface: A Deep Dive into Client-Side Magic ✨](https://dev.to/petercode/embedding-javascript-in-uniface-a-deep-dive-into-client-side-magic-4e07)
+- [🔀 Mastering Conditional Logic in Uniface: The if/endif Block Guide](https://dev.to/petercode/mastering-conditional-logic-in-uniface-the-ifendif-block-guide-3j25)
+- [Static vs Non-Static Closures in PHP – A Surprising Benchmark](https://dev.to/jszutkowski/static-vs-non-static-closures-in-php-a-surprising-benchmark-4ief)
+- [Mastering Uniface Help System: A Developer&#39;s Guide to the help Statement 📚](https://dev.to/petercode/mastering-uniface-help-system-a-developers-guide-to-the-help-statement-1bda)
 <!-- BLOG-POST-LIST:END -->
 
