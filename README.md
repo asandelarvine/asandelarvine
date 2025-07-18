@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Embedding JavaScript in Uniface: A Deep Dive into Client-Side Magic ✨](https://dev.to/petercode/embedding-javascript-in-uniface-a-deep-dive-into-client-side-magic-4e07)
-- [🔀 Mastering Conditional Logic in Uniface: The if/endif Block Guide](https://dev.to/petercode/mastering-conditional-logic-in-uniface-the-ifendif-block-guide-3j25)
-- [Static vs Non-Static Closures in PHP – A Surprising Benchmark](https://dev.to/jszutkowski/static-vs-non-static-closures-in-php-a-surprising-benchmark-4ief)
-- [Mastering Uniface Help System: A Developer&#39;s Guide to the help Statement 📚](https://dev.to/petercode/mastering-uniface-help-system-a-developers-guide-to-the-help-statement-1bda)
+- [Security news weekly round-up - 18th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-18th-july-2025-5d8a)
+- [First post and first learning tract](https://dev.to/rockshandy/first-post-and-first-learning-tract-4bg5)
+- [Building an Accessible School Management Portal: Lessons from My Web Dev Journey](https://dev.to/tayo4christ/building-an-accessible-school-management-portal-lessons-from-my-web-dev-journey-1023)
+- [Exploring Parameter Reduction in ResNeXt Architectures](https://dev.to/ramazanturan/exploring-parameter-reduction-in-resnext-architectures-3704)
 <!-- BLOG-POST-LIST:END -->
 
