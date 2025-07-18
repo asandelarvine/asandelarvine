@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Filter UX Design: Best Practices for SaaS Product Success](https://dev.to/lollypopdesign/filter-ux-design-best-practices-for-saas-product-success-5185)
-- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-1f40)
-- [Understanding Durability in PostgreSQL The &quot;D&quot; in ACID](https://dev.to/hadeedtariq/understanding-durability-in-postgresql-the-d-in-acid-3o36)
-- [TCP Optimization Techniques for Web Server Performance&lpar;6225&rpar;](https://dev.to/member_214bcde5/tcp-optimization-techniques-for-web-server-performance6225-37mo)
+- [How to Set Up LiteSpeed Cache Plugin for WordPress](https://dev.to/serveravatar/how-to-set-up-litespeed-cache-plugin-for-wordpress-4l4c)
+- [[Boost]](https://dev.to/hadil/-1e0)
+- [Cross-Platform Web Development Without Compromise&lpar;7079&rpar;](https://dev.to/member_aa44a2ae/cross-platform-web-development-without-compromise7079-420m)
+- [SQL Server 2025 - What’s New and How to Visualize the Schema](https://dev.to/roxana_haidiner/sql-server-2025-whats-new-and-how-to-visualize-the-schema-5951)
 <!-- BLOG-POST-LIST:END -->
 
