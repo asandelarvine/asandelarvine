@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/enkhbayar_wiki_bfd546cd15/-p8d)
-- [How to use Outlook MCP with Claude for email management](https://dev.to/composiodev/how-to-use-outlook-mcp-with-claude-for-email-management-3d56)
-- [Microservices Architecture with Lightweight Framework Design&lpar;7829&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design7829-2l2l)
-- [TCP Optimization Techniques for Web Server Performance&lpar;1621&rpar;](https://dev.to/member_a26aac70/tcp-optimization-techniques-for-web-server-performance1621-50i)
+- [Elon Musk&#39;s AI bot adds a ridiculous anime companion with ‘NSFW&#39; mode](https://dev.to/future_ai/elon-musks-ai-bot-adds-a-ridiculous-anime-companion-with-nsfw-mode-2a4l)
+- [An AI-generated band got 1m plays on Spotify. Now music insiders say listeners should be warned](https://dev.to/future_ai/an-ai-generated-band-got-1m-plays-on-spotify-now-music-insiders-say-listeners-should-be-warned-fj8)
+- [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly&#39;](https://dev.to/future_ai/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly-hmn)
+- [Grok will no longer call itself Hitler or base its opinions on Elon Musk&#39;s, promises xAI](https://dev.to/future_ai/grok-will-no-longer-call-itself-hitler-or-base-its-opinions-on-elon-musks-promises-xai-1khf)
 <!-- BLOG-POST-LIST:END -->
 
