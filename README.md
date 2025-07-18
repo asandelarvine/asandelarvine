@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase Launch Week 15 Hackathon](https://dev.to/supabase/supabase-launch-week-15-hackathon-2ajk)
+- [How to Fixup a Commit](https://dev.to/aerabi/how-to-fixup-a-commit-4ngk)
 - [🚨 Stop Using ChatGPT Agents Until You Read This First!](https://dev.to/alifar/stop-using-chatgpt-agents-until-you-read-this-first-5gab)
 - [“Fake It Till You Make It” vs. Building Real Tech](https://dev.to/js402/fake-it-till-you-make-it-vs-building-real-tech-50p8)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;5521&rpar;](https://dev.to/member_a26aac70/zero-dependency-architecture-for-maximum-performance5521-10gb)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;5918&rpar;](https://dev.to/member_aa44a2ae/dynamic-routing-systems-for-scalable-web-applications5918-1ipo)
 <!-- BLOG-POST-LIST:END -->
 
