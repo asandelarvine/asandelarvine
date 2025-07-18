@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Web Framework Performance Breakthrough&lpar;6701&rpar;](https://dev.to/member_aa44a2ae/rust-async-web-framework-performance-breakthrough6701-3nd3)
-- [How to Fix Touch Delay on iPhone](https://dev.to/techy_commerce_city/how-to-fix-touch-delay-on-iphone-ag3)
-- [Generate share-worthy social media posts in seconds!](https://dev.to/mraces868/generate-share-worthy-social-media-posts-in-seconds-2j5j)
-- [The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise](https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj)
+- [Microservices Architecture with Lightweight Framework Design&lpar;2003&rpar;](https://dev.to/member_aa44a2ae/microservices-architecture-with-lightweight-framework-design2003-1g4j)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3661&rpar;](https://dev.to/member_aa44a2ae/resource-management-and-memory-efficiency-in-web-servers3661-4f78)
+- [What&#39;s Your Go-To Stack for Personal Projects in 2025?](https://dev.to/devopsdaily/whats-your-go-to-stack-for-personal-projects-in-2025-3pg2)
+- [Build a Pixel Art Animator &amp; Notes App: Hands-On React Projects for Beginners](https://dev.to/labex/build-a-pixel-art-animator-notes-app-hands-on-react-projects-for-beginners-2fa2)
 <!-- BLOG-POST-LIST:END -->
 
