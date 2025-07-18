@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;0437&rpar;](https://dev.to/member_214bcde5/ultimate-optimization-of-lightweight-server-architecture0437-opm)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;9823&rpar;](https://dev.to/member_a26aac70/design-philosophy-of-zero-dependency-web-framework9823-47d5)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;6296&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services6296-pb3)
-- [Java Constructors](https://dev.to/sundar_joseph_94059a3e7a6/java-constructors-19g3)
+- [I Tested 20+ AI Headshot Generators — Here&#39;s the Only One That Looks 100% Real](https://dev.to/nitinfab/i-tested-20-ai-headshot-generators-heres-the-only-one-that-looks-100-real-32fe)
+- [High-Performance Routing System Design and Implementation&lpar;0828&rpar;](https://dev.to/member_aa44a2ae/high-performance-routing-system-design-and-implementation0828-1mfm)
+- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
+- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
 <!-- BLOG-POST-LIST:END -->
 
