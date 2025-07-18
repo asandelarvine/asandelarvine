@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Subnautica 2 Devs Sue Publisher Krafton Which Has Accused Them Of Abandoning The Project](https://dev.to/gg_news/subnautica-2-devs-sue-publisher-krafton-which-has-accused-them-of-abandoning-the-project-429k)
-- [Destiny 2 lead admits the MMO is terrible at onboarding new players after deleting the first third of the game](https://dev.to/gg_news/destiny-2-lead-admits-the-mmo-is-terrible-at-onboarding-new-players-after-deleting-the-first-third-34nn)
-- [This AI Warps Live Video in Real Time](https://dev.to/future_ai/this-ai-warps-live-video-in-real-time-235o)
-- [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly&#39;](https://dev.to/future_ai/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly-2glf)
+- [[Boost]](https://dev.to/enkhbayar_wiki_bfd546cd15/-p8d)
+- [How to use Outlook MCP with Claude for email management](https://dev.to/composiodev/how-to-use-outlook-mcp-with-claude-for-email-management-3d56)
+- [Microservices Architecture with Lightweight Framework Design&lpar;7829&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design7829-2l2l)
+- [TCP Optimization Techniques for Web Server Performance&lpar;1621&rpar;](https://dev.to/member_a26aac70/tcp-optimization-techniques-for-web-server-performance1621-50i)
 <!-- BLOG-POST-LIST:END -->
 
