@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 18th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-18th-july-2025-5d8a)
-- [First post and first learning tract](https://dev.to/rockshandy/first-post-and-first-learning-tract-4bg5)
-- [Building an Accessible School Management Portal: Lessons from My Web Dev Journey](https://dev.to/tayo4christ/building-an-accessible-school-management-portal-lessons-from-my-web-dev-journey-1023)
-- [Exploring Parameter Reduction in ResNeXt Architectures](https://dev.to/ramazanturan/exploring-parameter-reduction-in-resnext-architectures-3704)
+- [A Practical Zenhub Guide for Scrum Masters &lpar;Based on 100+ Sprints&rpar;](https://dev.to/gsauzande/a-practical-zenhub-guide-for-scrum-masters-based-on-100-sprints-41f9)
+- [Ruby: A New Journey](https://dev.to/kooltone/ruby-a-new-journey-3kc8)
+- [Security isn&#39;t a feature. It&#39;s a mindset.](https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5)
+- [Set custom configuration in AWS EKS CoreDNS Addon](https://dev.to/aws-builders/set-custom-configuration-in-aws-eks-coredns-addon-fh2)
 <!-- BLOG-POST-LIST:END -->
 
