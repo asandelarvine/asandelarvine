@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [UTCP: The DNS of the Agentic World](https://dev.to/vishal_agrawal_680a3e5c14/utcp-the-dns-of-the-agentic-world-92m)
+- [What is LDAP Port [A Complete Guide for Beginners]](https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp)
 - [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
 - [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
-- [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
-- [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
 <!-- BLOG-POST-LIST:END -->
 
