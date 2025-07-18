@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 20+ AI Headshot Generators — Here&#39;s the Only One That Looks 100% Real](https://dev.to/nitinfab/i-tested-20-ai-headshot-generators-heres-the-only-one-that-looks-100-real-32fe)
-- [High-Performance Routing System Design and Implementation&lpar;0828&rpar;](https://dev.to/member_aa44a2ae/high-performance-routing-system-design-and-implementation0828-1mfm)
-- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
-- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
+- [The Ship of Theseus in Your CDN: Philosophical Questions That Image Optimization Forces Us to Ask](https://dev.to/hardik_b2d8f0bca/the-ship-of-theseus-in-your-cdn-philosophical-questions-that-image-optimization-forces-us-to-ask-23k6)
+- [Free Places to Post Your Early Product — And It Actually Worked](https://dev.to/suzuki_yuto_786e3bc445acb/free-places-to-post-your-early-product-and-it-actually-worked-35c3)
+- [🔐 Configure Developer Self-Service Access on Azure Red Hat OpenShift &lpar;ARO&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/configure-developer-self-service-access-on-azure-red-hat-openshift-aro-3ccm)
+- [The Importance of Choosing the Right Data Types for Database Optimization](https://dev.to/raxraj/the-importance-of-choosing-the-right-data-types-for-database-optimization-ch6)
 <!-- BLOG-POST-LIST:END -->
 
