@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UTCP: The DNS of the Agentic World](https://dev.to/vishal_agrawal_680a3e5c14/utcp-the-dns-of-the-agentic-world-92m)
-- [What is LDAP Port [A Complete Guide for Beginners]](https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp)
-- [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
-- [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
+- [Subnautica 2 Devs Sue Publisher Krafton Which Has Accused Them Of Abandoning The Project](https://dev.to/gg_news/subnautica-2-devs-sue-publisher-krafton-which-has-accused-them-of-abandoning-the-project-429k)
+- [Destiny 2 lead admits the MMO is terrible at onboarding new players after deleting the first third of the game](https://dev.to/gg_news/destiny-2-lead-admits-the-mmo-is-terrible-at-onboarding-new-players-after-deleting-the-first-third-34nn)
+- [This AI Warps Live Video in Real Time](https://dev.to/future_ai/this-ai-warps-live-video-in-real-time-235o)
+- [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly&#39;](https://dev.to/future_ai/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly-2glf)
 <!-- BLOG-POST-LIST:END -->
 
