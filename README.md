@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up LiteSpeed Cache Plugin for WordPress](https://dev.to/serveravatar/how-to-set-up-litespeed-cache-plugin-for-wordpress-4l4c)
-- [[Boost]](https://dev.to/hadil/-1e0)
-- [Cross-Platform Web Development Without Compromise&lpar;7079&rpar;](https://dev.to/member_aa44a2ae/cross-platform-web-development-without-compromise7079-420m)
-- [SQL Server 2025 - What’s New and How to Visualize the Schema](https://dev.to/roxana_haidiner/sql-server-2025-whats-new-and-how-to-visualize-the-schema-5951)
+- [AWS RDS Blue/Green Upgrade while Managing Infrastructure in Terraform](https://dev.to/muhammad_salmanzahid_975/aws-rds-bluegreen-upgrade-while-managing-infrastructure-in-terraform-oaf)
+- [Webpage Print Problem](https://dev.to/yami_no_kanata/webpage-print-problem-1bd8)
+- [The Road to Zero Downtime: CI/CD for HMS Software in Healthcare](https://dev.to/nzcares/the-road-to-zero-downtime-cicd-for-hms-software-in-healthcare-2127)
+- [🔑 Who Can Do What? Unlocking Kubernetes RBAC &lpar;The Security Guard Guide for Newbies 💂‍♀️&rpar;](https://dev.to/hritikraj8804/who-can-do-what-unlocking-kubernetes-rbac-the-security-guard-guide-for-newbies--4fif)
 <!-- BLOG-POST-LIST:END -->
 
