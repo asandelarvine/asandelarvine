@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multilingual Content Production: Process Improvement Tips](https://dev.to/jennamitchell/multilingual-content-production-process-improvement-tips-g81)
-- [When AI Gets Stuck in a Loop: A CSS Nightmare and Lessons Learned](https://dev.to/info_vertex/when-ai-gets-stuck-in-a-loop-a-css-nightmare-and-lessons-learned-3mn6)
-- [SafeLine WAF vs. Cloudflare &amp; ModSecurity: Who Wins in Real-World Tests?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-vs-cloudflare-modsecurity-who-wins-in-real-world-tests-13ck)
-- [CSR vs SSR in Next.js](https://dev.to/khaledsaeed18/csr-vs-ssr-in-nextjs-34o8)
+- [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
+- [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
+- [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
+- [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
 <!-- BLOG-POST-LIST:END -->
 
