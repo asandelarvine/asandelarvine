@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReflectoBot, Beyond the Hackathon: Building What Matters](https://dev.to/brian_castleforte_929b2d8/reflectobot-beyond-the-hackathon-building-what-matters-5f82)
-- [Provide private storage for internal company documents](https://dev.to/isaiah_izibili_7a39b7d627/provide-private-storage-for-internal-company-documents-3f1c)
-- [Top 10 Launches of Launch Week 15](https://dev.to/supabase/top-10-launches-of-launch-week-15-225n)
-- [How Aptos&#39; Quorum Store Unlocks True Scalability](https://dev.to/danielkestrel/how-aptos-quorum-store-unlocks-true-scalability-28l9)
+- [How i make the first AI fake product DETECTOR :&rpar;](https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7)
+- [I Got My First Dev Job. I Was Not Ready.](https://dev.to/rich_park/i-got-my-first-dev-job-i-was-not-ready-4171)
+- [Building an Open Floor Parrot Agent](https://dev.to/azettl/building-an-open-floor-parrot-agent-3e79)
+- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
 <!-- BLOG-POST-LIST:END -->
 
