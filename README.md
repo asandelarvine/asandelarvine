@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, ActivityPub and NOSTR](https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5)
-- [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
-- [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
-- [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
+- [Deep Dive into ES2020+ features](https://dev.to/godofgeeks/deep-dive-into-es2020-features-2njf)
+- [I Built a Visual Novel Engine in TypeScript — Here’s Why &lpar;and How You Can Join Me&rpar;](https://dev.to/eshan276/i-built-a-visual-novel-engine-in-typescript-heres-why-and-how-you-can-join-me-35jl)
+- [A Quick Primer on Buffers in Node.js](https://dev.to/codeguage/a-quick-primer-on-buffers-in-nodejs-i30)
+- [Git Full Speed Ahead Part 1: Installing Git on Windows and Getting Started in No Time](https://dev.to/pawic/git-full-speed-ahead-part-1-installing-git-on-windows-and-getting-started-in-no-time-22ge)
 <!-- BLOG-POST-LIST:END -->
 
