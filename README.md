@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
-- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
-- [🏷️ commit_gh: Because Git Tags Shouldn&#39;t Be That Hard&quot;](https://dev.to/raymonepping/commitgh-because-git-tags-shouldnt-be-that-hard-17ff)
-- [Fridge Recipe Wizard](https://dev.to/andrechen1985/fridge-recipe-wizard-hln)
+- [Service Mesh](https://dev.to/surendra_kumar_2f98741fd4/service-mesh-34ka)
+- [Day 33/100: Counter, defaultdict, and OrderedDict in Python](https://dev.to/therahul_gupta/day-33100-counter-defaultdict-and-ordereddict-in-python-2kdh)
+- [What Staff Engineers Actually Do &lpar;and Why It’s Not Just About Code&rpar;](https://dev.to/manoj_ramakrishnan_bb6b41/what-staff-engineers-actually-do-and-why-its-not-just-about-code-ap0)
+- [Building a Dynamic Food Menu Website with WordPress and SEO in Mind. A Real-World Use Case](https://dev.to/alex_517/building-a-dynamic-food-menu-website-with-wordpress-and-seo-in-mind-a-real-world-use-case-47gi)
 <!-- BLOG-POST-LIST:END -->
 
