@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[gsap/physics2D] 8-Bit Snake Game - Challenge #4](https://dev.to/david_meitei_4bf407875c91/gsapphysics2d-8-bit-snake-game-challenge-4-32kk)
-- [[Boost] Minimal Framework](https://dev.to/yanivsuzana/-50mg)
-- [The Technology Behind Elevator Safety: Inspection Tags, Embedded Systems &amp; Fail-Safe Protocols](https://dev.to/muzammil_mughal_18d97e834/the-technology-behind-elevator-safety-inspection-tags-embedded-systems-fail-safe-protocols-61f)
-- [A Philosophy of Software Design Summary](https://dev.to/markadel/a-philosophy-of-software-design-summary-pk9)
+- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
+- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
+- [🏷️ commit_gh: Because Git Tags Shouldn&#39;t Be That Hard&quot;](https://dev.to/raymonepping/commitgh-because-git-tags-shouldnt-be-that-hard-17ff)
+- [Fridge Recipe Wizard](https://dev.to/andrechen1985/fridge-recipe-wizard-hln)
 <!-- BLOG-POST-LIST:END -->
 
