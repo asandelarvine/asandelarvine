@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/abasiakanmbat/-1mif)
-- [Slack Supercharges Collaboration with New AI-Powered Features](https://dev.to/ytosko/slack-supercharges-collaboration-with-new-ai-powered-features-4a7j)
-- [What Are Some Common Web Scraping Libraries in Python, and How Do I Use Them?](https://dev.to/puratabla/what-are-some-common-web-scraping-libraries-in-python-and-how-do-i-use-them-5fao)
-- [Why Learning to Say, “I Don’t Know” Can Make You a Better Lawyer](https://dev.to/dalton_abreshears/why-learning-to-say-i-dont-know-can-make-you-a-better-lawyer-1fnh)
+- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
+- [[Boost]](https://dev.to/little_coding_things/-2jn0)
+- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
+- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
 <!-- BLOG-POST-LIST:END -->
 
