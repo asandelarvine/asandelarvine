@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
-- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
-- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
-- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
+- [Understanding the Path of a Web Request: Browser to Website Explained](https://dev.to/codewithmishu/understanding-the-path-of-a-web-request-browser-to-website-explained-2jo0)
+- [Stop Writing Slow Rust: 20 Rust Tricks That Changed Everything](https://dev.to/leapcell/stop-writing-slow-rust-20-rust-tricks-that-changed-everything-4eon)
+- [Alogolia Challenge](https://dev.to/mehtahrishi/alogolia-challenge-30eg)
+- [AWS Skill Builder: Is It Enough to Learn AWS for Free?](https://dev.to/komaldedaniya/aws-skill-builder-is-it-enough-to-learn-aws-for-free-gjd)
 <!-- BLOG-POST-LIST:END -->
 
