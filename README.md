@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A nice troll &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/a-nice-troll-my-ai-song-1dme)
-- [DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules](https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95)
-- [Laravel Events and Listeners: Building Decoupled Applications](https://dev.to/arasosman/laravel-events-and-listeners-building-decoupled-applications-e91)
-- [30 Days Of Code- Day 3](https://dev.to/akshitaexe/30-days-of-code-day-3-4c9d)
+- [[Boost]](https://dev.to/abasiakanmbat/-1mif)
+- [Slack Supercharges Collaboration with New AI-Powered Features](https://dev.to/ytosko/slack-supercharges-collaboration-with-new-ai-powered-features-4a7j)
+- [What Are Some Common Web Scraping Libraries in Python, and How Do I Use Them?](https://dev.to/puratabla/what-are-some-common-web-scraping-libraries-in-python-and-how-do-i-use-them-5fao)
+- [Why Learning to Say, “I Don’t Know” Can Make You a Better Lawyer](https://dev.to/dalton_abreshears/why-learning-to-say-i-dont-know-can-make-you-a-better-lawyer-1fnh)
 <!-- BLOG-POST-LIST:END -->
 
