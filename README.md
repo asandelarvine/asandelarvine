@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing OpenDAL with Filesystem &lpar;FS&rpar; In Rust](https://dev.to/mukhtar_onif/implementing-opendal-with-filesystem-fs-in-rust-2ha8)
-- [SwiftUI Performance and Stability: Avoiding the Most Costly Mistakes](https://dev.to/arshtechpro/swiftui-performance-and-stability-avoiding-the-most-costly-mistakes-234c)
-- [Youtube video summarizer with linkedin post creation](https://dev.to/prasenjit_debnath/youtube-video-summarizer-with-linkedin-post-creation-4icm)
-- [AI Agents Are Getting Smarter Than You Think — And That’s Changing Everything](https://dev.to/arkhan/ai-agents-are-getting-smarter-than-you-think-and-thats-changing-everything-dao)
+- [A nice troll &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/a-nice-troll-my-ai-song-1dme)
+- [DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules](https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95)
+- [Laravel Events and Listeners: Building Decoupled Applications](https://dev.to/arasosman/laravel-events-and-listeners-building-decoupled-applications-e91)
+- [30 Days Of Code- Day 3](https://dev.to/akshitaexe/30-days-of-code-day-3-4c9d)
 <!-- BLOG-POST-LIST:END -->
 
