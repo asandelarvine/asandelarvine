@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Duplicating Rows in MySQL](https://dev.to/ibrahimalanshor/duplicating-rows-in-mysql-l28)
-- [Work Smart, Earn Right: Hourly Projects on Workcroft](https://dev.to/smruti_shree_4ce490c19ddf/work-smart-earn-right-hourly-projects-on-workcroft-279p)
-- [Unlocking Creativity and Innovation: The Transformative Power of Online Education](https://dev.to/ghummantech/unlocking-creativity-and-innovation-the-transformative-power-of-online-education-2a2c)
-- [How I Built and Delivered an AI Training Program in Central Asia &lpar;And Tools I Used Along the Way&rpar;](https://dev.to/aseke_ai/how-i-built-and-delivered-an-ai-training-program-in-central-asia-and-tools-i-used-along-the-way-np0)
+- [🌍 Driving Sustainable Innovation at AWS: Hilary Tam’s Journey](https://dev.to/cloud_man/driving-sustainable-innovation-at-aws-hilary-tams-journey-1k68)
+- [Context is the New Frontier: Why Smarter Systems Are Built on Understanding](https://dev.to/contextspace_/context-is-the-new-frontier-why-smarter-systems-are-built-on-understanding-46p)
+- [Why Your AI Agent Still Feels Like a Toy &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/contextspace_/why-your-ai-agent-still-feels-like-a-toy-and-how-were-fixing-it-506j)
+- [After a Week of Work, My Programming Language Hulo Adds Bash Transpiler and Package Management Tool](https://dev.to/ansurfen/after-a-week-of-work-my-programming-language-hulo-adds-bash-transpiler-and-package-management-tool-47g9)
 <!-- BLOG-POST-LIST:END -->
 
