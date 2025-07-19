@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Enterprise GenAI with MCP](https://dev.to/om_shree_0709/scaling-enterprise-genai-with-mcp-mb9)
-- [Scaling Enterprise GenAI with MCP &lpar;Bloomberg Case Study&rpar;](https://dev.to/om_shree_0709/scaling-enterprise-genai-with-mcp-bloomberg-case-study-4nbo)
-- [WhisperVoice: Hide Secret Messages Inside Natural Voice Notes](https://dev.to/sarwadnya_mahajan/whispervoice-hide-secret-messages-inside-natural-voice-notes-3pmh)
-- [ChatGPT Agent is FINALLY here, Kimi K2 just killed Claude, Perplexity&#39;s AI web browser, and more](https://dev.to/thisweekinaiengineering/chatgpt-agent-is-finally-here-kimi-k2-just-killed-claude-perplexitys-ai-web-browser-and-more-ffn)
+- [🔧 How to Auto-Mount Partitions Without Password in Fedora and Access Them in File Manager](https://dev.to/kamran1819g/how-to-auto-mount-partitions-without-password-in-fedora-and-access-them-in-file-manager-31p0)
+- [Building a Diffusion Model from Scratch: CIFAR-10 in 15 Minutes](https://dev.to/gruhesh_kurra_6eb933146da/building-a-diffusion-model-from-scratch-cifar-10-in-15-minutes-2aad)
+- [Reconnekt: After the Hack - WLH Challenge](https://dev.to/ariondev/reconnekt-after-the-hack-wlh-challenge-35l2)
+- [At Toonova, storytelling drives every frame we animate.](https://dev.to/innocent/at-toonova-storytelling-drives-every-frame-we-animate-1h0b)
 <!-- BLOG-POST-LIST:END -->
 
