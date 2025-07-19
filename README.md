@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Driving Sustainable Innovation at AWS: Hilary Tam’s Journey](https://dev.to/cloud_man/driving-sustainable-innovation-at-aws-hilary-tams-journey-1k68)
-- [Context is the New Frontier: Why Smarter Systems Are Built on Understanding](https://dev.to/contextspace_/context-is-the-new-frontier-why-smarter-systems-are-built-on-understanding-46p)
-- [Why Your AI Agent Still Feels Like a Toy &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/contextspace_/why-your-ai-agent-still-feels-like-a-toy-and-how-were-fixing-it-506j)
-- [After a Week of Work, My Programming Language Hulo Adds Bash Transpiler and Package Management Tool](https://dev.to/ansurfen/after-a-week-of-work-my-programming-language-hulo-adds-bash-transpiler-and-package-management-tool-47g9)
+- [# 🔁 Transform Like a Pro: Mastering `.map&lpar;&rpar;` and Method Chaining in JavaScript](https://dev.to/alwaysaman/-transform-like-a-pro-mastering-map-and-method-chaining-in-javascript-28an)
+- [Navbar scroll event](https://dev.to/ifeanyichima/navbar-scroll-event-11do)
+- [AltSchool Of Engineering Tinyuka’24 Month 5 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-5-week-3-2mfo)
+- [My Experience with Defang: Exploring the Future of Safer Code](https://dev.to/piyushsahujtp/my-experience-with-defang-exploring-the-future-of-safer-code-4b0n)
 <!-- BLOG-POST-LIST:END -->
 
