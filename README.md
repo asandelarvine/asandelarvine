@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How i make the first AI fake product DETECTOR :&rpar;](https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7)
-- [I Got My First Dev Job. I Was Not Ready.](https://dev.to/rich_park/i-got-my-first-dev-job-i-was-not-ready-4171)
-- [Building an Open Floor Parrot Agent](https://dev.to/azettl/building-an-open-floor-parrot-agent-3e79)
-- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
+- [Understanding Derivatives: The Slope of Change](https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f)
+- [Advanced PDF Optimization Techniques - 1752893](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752893-5h97)
+- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
+- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
 <!-- BLOG-POST-LIST:END -->
 
