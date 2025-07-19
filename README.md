@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🔁 Transform Like a Pro: Mastering `.map&lpar;&rpar;` and Method Chaining in JavaScript](https://dev.to/alwaysaman/-transform-like-a-pro-mastering-map-and-method-chaining-in-javascript-28an)
-- [Navbar scroll event](https://dev.to/ifeanyichima/navbar-scroll-event-11do)
-- [AltSchool Of Engineering Tinyuka’24 Month 5 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-5-week-3-2mfo)
-- [My Experience with Defang: Exploring the Future of Safer Code](https://dev.to/piyushsahujtp/my-experience-with-defang-exploring-the-future-of-safer-code-4b0n)
+- [AlgorithmO #8 — Генериране на пермутации &lpar;намиране на следваща пермутация в лексикографски ред&rpar;](https://dev.to/dvt32/algorithmo-8-gienieriranie-na-piermutatsii-namiranie-na-sliedvashcha-piermutatsiia-v-lieksikoghrafski-ried-35dh)
+- [The Developer&#39;s Guide to Never Messing Up Time Zones Again: A TypeScript, Drizzle, and PostgreSQL Journey](https://dev.to/jacksonkasi/the-developers-guide-to-never-messing-up-time-zones-again-a-typescript-drizzle-and-postgresql-4970)
+- [Race to Certification 2025 – Get Oracle Certified for Free](https://dev.to/chittrmahto/race-to-certification-2025-get-oracle-certified-for-free-59nj)
+- [Fixing Performance of My React App — Step 1: Measuring What’s Slow](https://dev.to/himanshu_fb2e29b6b2f52338/fixing-performance-of-my-react-app-step-1-measuring-whats-slow-46kk)
 <!-- BLOG-POST-LIST:END -->
 
