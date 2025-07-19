@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AlgorithmO #8 — Генериране на пермутации &lpar;намиране на следваща пермутация в лексикографски ред&rpar;](https://dev.to/dvt32/algorithmo-8-gienieriranie-na-piermutatsii-namiranie-na-sliedvashcha-piermutatsiia-v-lieksikoghrafski-ried-35dh)
-- [The Developer&#39;s Guide to Never Messing Up Time Zones Again: A TypeScript, Drizzle, and PostgreSQL Journey](https://dev.to/jacksonkasi/the-developers-guide-to-never-messing-up-time-zones-again-a-typescript-drizzle-and-postgresql-4970)
-- [Race to Certification 2025 – Get Oracle Certified for Free](https://dev.to/chittrmahto/race-to-certification-2025-get-oracle-certified-for-free-59nj)
-- [Fixing Performance of My React App — Step 1: Measuring What’s Slow](https://dev.to/himanshu_fb2e29b6b2f52338/fixing-performance-of-my-react-app-step-1-measuring-whats-slow-46kk)
+- [[gsap/physics2D] 8-Bit Snake Game - Challenge #4](https://dev.to/david_meitei_4bf407875c91/gsapphysics2d-8-bit-snake-game-challenge-4-32kk)
+- [[Boost] Minimal Framework](https://dev.to/yanivsuzana/-50mg)
+- [The Technology Behind Elevator Safety: Inspection Tags, Embedded Systems &amp; Fail-Safe Protocols](https://dev.to/muzammil_mughal_18d97e834/the-technology-behind-elevator-safety-inspection-tags-embedded-systems-fail-safe-protocols-61f)
+- [A Philosophy of Software Design Summary](https://dev.to/markadel/a-philosophy-of-software-design-summary-pk9)
 <!-- BLOG-POST-LIST:END -->
 
