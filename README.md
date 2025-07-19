@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Mesh](https://dev.to/surendra_kumar_2f98741fd4/service-mesh-34ka)
-- [Day 33/100: Counter, defaultdict, and OrderedDict in Python](https://dev.to/therahul_gupta/day-33100-counter-defaultdict-and-ordereddict-in-python-2kdh)
-- [What Staff Engineers Actually Do &lpar;and Why It’s Not Just About Code&rpar;](https://dev.to/manoj_ramakrishnan_bb6b41/what-staff-engineers-actually-do-and-why-its-not-just-about-code-ap0)
-- [Building a Dynamic Food Menu Website with WordPress and SEO in Mind. A Real-World Use Case](https://dev.to/alex_517/building-a-dynamic-food-menu-website-with-wordpress-and-seo-in-mind-a-real-world-use-case-47gi)
+- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
+- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
+- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
+- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
 <!-- BLOG-POST-LIST:END -->
 
