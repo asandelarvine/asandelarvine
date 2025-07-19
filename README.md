@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into ES2020+ features](https://dev.to/godofgeeks/deep-dive-into-es2020-features-2njf)
-- [I Built a Visual Novel Engine in TypeScript — Here’s Why &lpar;and How You Can Join Me&rpar;](https://dev.to/eshan276/i-built-a-visual-novel-engine-in-typescript-heres-why-and-how-you-can-join-me-35jl)
-- [A Quick Primer on Buffers in Node.js](https://dev.to/codeguage/a-quick-primer-on-buffers-in-nodejs-i30)
-- [Git Full Speed Ahead Part 1: Installing Git on Windows and Getting Started in No Time](https://dev.to/pawic/git-full-speed-ahead-part-1-installing-git-on-windows-and-getting-started-in-no-time-22ge)
+- [Duplicating Rows in MySQL](https://dev.to/ibrahimalanshor/duplicating-rows-in-mysql-l28)
+- [Work Smart, Earn Right: Hourly Projects on Workcroft](https://dev.to/smruti_shree_4ce490c19ddf/work-smart-earn-right-hourly-projects-on-workcroft-279p)
+- [Unlocking Creativity and Innovation: The Transformative Power of Online Education](https://dev.to/ghummantech/unlocking-creativity-and-innovation-the-transformative-power-of-online-education-2a2c)
+- [How I Built and Delivered an AI Training Program in Central Asia &lpar;And Tools I Used Along the Way&rpar;](https://dev.to/aseke_ai/how-i-built-and-delivered-an-ai-training-program-in-central-asia-and-tools-i-used-along-the-way-np0)
 <!-- BLOG-POST-LIST:END -->
 
