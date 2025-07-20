@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔎 Step-by-Step Guide to Building a Deep Search AI with DuckDuckGo &amp; OpenRouter 🤖](https://dev.to/rajguru_yadav_56d13a7b8fc/step-by-step-guide-to-building-a-deep-search-ai-with-duckduckgo-openrouter-12fd)
-- [After the Hack: The Future of TaskWise and My Developer Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/after-the-hack-the-future-of-taskwise-and-my-developer-journey-13k3)
-- [Week 4 of Hustle2Grand: Burnout, Freelancing, and a Mental Reset](https://dev.to/vulcanwm/week-4-of-hustle2grand-burnout-freelancing-and-a-mental-reset-a3o)
-- [Beyond the Code: The Heart of Our Hackathon Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/beyond-the-code-the-heart-of-our-hackathon-journey-do3)
+- [Recheck the differences between AWS Amplify Hosting and Amazon S3 + Amazon CloudFront](https://dev.to/aws-builders/recheck-the-differences-between-aws-amplify-hosting-and-amazon-s3-amazon-cloudfront-2d2c)
+- [🧮 Recreating a Vintage Casio Calculator with Java &amp; JavaFX](https://dev.to/asorepos/recreating-a-vintage-casio-calculator-with-java-javafx-5bed)
+- [Segurança da Informação: Fundamentos, Atores, Ameaças e Modelos de Avaliação](https://dev.to/ikauedev/seguranca-da-informacao-fundamentos-atores-ameacas-e-modelos-de-avaliacao-1mio)
+- [Veo 3 is now available for developers in the Gemini API](https://dev.to/logankilpatrick/veo-3-is-now-available-for-developers-in-the-gemini-api-35gp)
 <!-- BLOG-POST-LIST:END -->
 
