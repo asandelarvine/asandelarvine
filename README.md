@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recheck the differences between AWS Amplify Hosting and Amazon S3 + Amazon CloudFront](https://dev.to/aws-builders/recheck-the-differences-between-aws-amplify-hosting-and-amazon-s3-amazon-cloudfront-2d2c)
-- [🧮 Recreating a Vintage Casio Calculator with Java &amp; JavaFX](https://dev.to/asorepos/recreating-a-vintage-casio-calculator-with-java-javafx-5bed)
-- [Segurança da Informação: Fundamentos, Atores, Ameaças e Modelos de Avaliação](https://dev.to/ikauedev/seguranca-da-informacao-fundamentos-atores-ameacas-e-modelos-de-avaliacao-1mio)
-- [Veo 3 is now available for developers in the Gemini API](https://dev.to/logankilpatrick/veo-3-is-now-available-for-developers-in-the-gemini-api-35gp)
+- [Complete Beginner&#39;s Guide to GenAI Development: From Python to Production-Ready AI Agents](https://dev.to/ajmal_hasan/complete-beginners-guide-to-genai-development-from-python-to-production-ready-ai-agents-37p)
+- [What is an IPS Monitor?](https://dev.to/mamija_90/what-is-an-ips-monitor-2l5e)
+- [Title: It&#39;s Time to Free Developers from Command-Line Drudgery](https://dev.to/n_eo_c28f3c4c25a7bde4f86/title-its-time-to-free-developers-from-command-line-drudgery-2gbk)
+- [How to install a minimal Debian system on Qemu](https://dev.to/behdanisohrab/how-to-install-a-minimal-debian-system-on-qemu-f4k)
 <!-- BLOG-POST-LIST:END -->
 
