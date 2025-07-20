@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Orchestration with AWS ECS – Full Guide &lpar;with Node.js Production Testing &amp; Tips](https://dev.to/dpvasani56/docker-orchestration-with-aws-ecs-full-guide-with-nodejs-production-testing-tips-4i9f)
-- [🧩 Docker Compose – Full DevOps Power](https://dev.to/dpvasani56/docker-compose-full-devops-power-4ckl)
-- [📦 Docker Volumes – A2Z Storage Guide 🐳](https://dev.to/dpvasani56/docker-volumes-a2z-storage-guide-367a)
-- [🌐 Docker Networking A2Z – Masterclass for Developers &amp; DevOps](https://dev.to/dpvasani56/docker-networking-a2z-masterclass-for-developers-devops-a8)
+- [Rethinking AI Training: Why Confidential Smart Contracts Might Be the Missing Piece](https://dev.to/rollingindo/rethinking-ai-training-why-confidential-smart-contracts-might-be-the-missing-piece-5995)
+- [Product Authenticity Checker.](https://dev.to/nephastophilles/product-authenticity-checker-35o4)
+- [# 03- Lets understand Kprobes &amp; Kretprobes](https://dev.to/maheshrayas/-03-lets-understand-kprobes-kretprobes-4ke)
+- [Deploy microservice with Docker from scratch - P2](https://dev.to/locnguyenpv/deploy-microservice-with-docker-from-scratch-p2-4hal)
 <!-- BLOG-POST-LIST:END -->
 
