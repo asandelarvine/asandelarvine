@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Fully-Featured ChatBot with Observability Tools to Monitor and Optimize your AI Models](https://dev.to/ajeetraina/how-to-create-ai-chatbot-from-scratch-using-docker-3kcf)
-- [PayGenius HR : Payslip Generator](https://dev.to/capjud95/paygenius-hr-payslip-generator-3l3g)
-- [The On-Premise Kubernetes Challenge: A Tale of Two Traffics](https://dev.to/dearcomrade/the-on-premise-kubernetes-challenge-a-tale-of-two-traffics-2m6e)
-- [An Extensible React Native App Automation Framework](https://dev.to/feliciawalker/an-extensible-react-native-app-automation-framework-1ig2)
+- [Intro to The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/intro-to-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-1dd3)
+- [Hi welcome to The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/hi-welcome-to-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-4adm)
+- [🔐 Building JWT Authentication in ASP.NET Core &lpar;Step-by-Step&rpar;](https://dev.to/sabir_sheikh_cd49d4c419e3/building-jwt-authentication-in-aspnet-core-step-by-step-4ihe)
+- [Hi The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/hi-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-579o)
 <!-- BLOG-POST-LIST:END -->
 
