@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test-Driven Development &lpar;TDD&rpar; and Its Relevance to AI-Generated Code](https://dev.to/hazrat-ali9/test-driven-development-tdd-and-its-relevance-to-ai-generated-code-1l4f)
-- [Building an Interactive Story Generator with Google AI Studio](https://dev.to/onirestart/building-an-interactive-story-generator-with-google-ai-studio-4mk5)
-- [Hit 100 GitHub Followers — Thank You!](https://dev.to/vihanga_anuththara_0a402f/hit-100-github-followers-thank-you-5751)
-- [ChatGPT o3-mini vs DeepSeek R1 Which Performs Better? - Proje Defteri](https://dev.to/yunusemre/chatgpt-o3-mini-vs-deepseek-r1-which-performs-better-proje-defteri-4epj)
+- [Data Classes in Python](https://dev.to/godofgeeks/data-classes-in-python-8ce)
+- [3 Smart Ways to Show Toast in Jetpack Compose – Plus a Bonus Hack!](https://dev.to/vrushali_dev_15/3-smart-ways-to-show-toast-in-jetpack-compose-plus-a-bonus-hack-1l3o)
+- [🚀 Mastering Dynamic ProcScript Compilation in Uniface with proccompile](https://dev.to/petercode/mastering-dynamic-procscript-compilation-in-uniface-with-proccompile-3mln)
+- [Weekly #29-2025: Smarter Testing, Simple Solutions, Playful Coding, Age in Tech, &amp; SaaS Choices](https://dev.to/weekly/weekly-29-2025-smarter-testing-simple-solutions-playful-coding-age-in-tech-saas-choices-2iih)
 <!-- BLOG-POST-LIST:END -->
 
