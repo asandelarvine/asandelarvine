@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Classes in Python](https://dev.to/godofgeeks/data-classes-in-python-8ce)
-- [3 Smart Ways to Show Toast in Jetpack Compose – Plus a Bonus Hack!](https://dev.to/vrushali_dev_15/3-smart-ways-to-show-toast-in-jetpack-compose-plus-a-bonus-hack-1l3o)
-- [🚀 Mastering Dynamic ProcScript Compilation in Uniface with proccompile](https://dev.to/petercode/mastering-dynamic-procscript-compilation-in-uniface-with-proccompile-3mln)
-- [Weekly #29-2025: Smarter Testing, Simple Solutions, Playful Coding, Age in Tech, &amp; SaaS Choices](https://dev.to/weekly/weekly-29-2025-smarter-testing-simple-solutions-playful-coding-age-in-tech-saas-choices-2iih)
+- [Docker Orchestration with AWS ECS – Full Guide &lpar;with Node.js Production Testing &amp; Tips](https://dev.to/dpvasani56/docker-orchestration-with-aws-ecs-full-guide-with-nodejs-production-testing-tips-4i9f)
+- [🧩 Docker Compose – Full DevOps Power](https://dev.to/dpvasani56/docker-compose-full-devops-power-4ckl)
+- [📦 Docker Volumes – A2Z Storage Guide 🐳](https://dev.to/dpvasani56/docker-volumes-a2z-storage-guide-367a)
+- [🌐 Docker Networking A2Z – Masterclass for Developers &amp; DevOps](https://dev.to/dpvasani56/docker-networking-a2z-masterclass-for-developers-devops-a8)
 <!-- BLOG-POST-LIST:END -->
 
