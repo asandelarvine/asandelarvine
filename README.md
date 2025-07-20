@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AlgorithmO #10 — Двоичен алгоритъм за НОД &lpar;+ намиране на НОК&rpar;](https://dev.to/dvt32/algorithmo-10-dvoichien-alghoritm-za-nod-namiranie-na-nok-ee8)
-- [Eletricidade básica: O que é voltagem, corrente, resistência e potência](https://dev.to/alex_sousa_e41e0c49fa5ae6/eletricidade-basica-o-que-e-voltagem-corrente-resistencia-e-potencia-2eec)
-- [How to Post on VSCO: A Simple Guide for New Users](https://dev.to/emma_6bbad44d16efeee454f4/how-to-post-on-vsco-a-simple-guide-for-new-users-1g46)
-- [Implementing a Basic Strands Agent with MCP Servers](https://dev.to/om_shree_0709/implementing-a-basic-strands-agent-with-mcp-servers-1269)
+- [🔎 Step-by-Step Guide to Building a Deep Search AI with DuckDuckGo &amp; OpenRouter 🤖](https://dev.to/rajguru_yadav_56d13a7b8fc/step-by-step-guide-to-building-a-deep-search-ai-with-duckduckgo-openrouter-12fd)
+- [After the Hack: The Future of TaskWise and My Developer Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/after-the-hack-the-future-of-taskwise-and-my-developer-journey-13k3)
+- [Week 4 of Hustle2Grand: Burnout, Freelancing, and a Mental Reset](https://dev.to/vulcanwm/week-4-of-hustle2grand-burnout-freelancing-and-a-mental-reset-a3o)
+- [Beyond the Code: The Heart of Our Hackathon Journey](https://dev.to/pratik_12b3f8bf3b50e48bae/beyond-the-code-the-heart-of-our-hackathon-journey-do3)
 <!-- BLOG-POST-LIST:END -->
 
