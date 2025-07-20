@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From $50K to $150/Month: How I Stopped Getting Robbed by CDNs and Built My Own Damn Streaming Infra](https://dev.to/harsh_suthar_5a9a14772609/from-50k-to-150month-how-i-stopped-getting-robbed-by-cdns-and-built-my-own-damn-streaming-infra-hi6)
-- [Implementing Light/Dark Theme - My Struggles and Tips](https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon)
-- [How to Build a Real-time AI Multiplayer Quiz App with Flutter &amp; Firebase](https://dev.to/awsmasim/how-to-build-a-real-time-ai-multiplayer-quiz-app-with-flutter-firebase-2m39)
-- [Setting up a React Typescript Solution with Vite: A Practical Guide](https://dev.to/anuj_u/setting-up-react-typescript-solution-with-vite-1ndd)
+- [AlgorithmO #10 — Двоичен алгоритъм за НОД &lpar;+ намиране на НОК&rpar;](https://dev.to/dvt32/algorithmo-10-dvoichien-alghoritm-za-nod-namiranie-na-nok-ee8)
+- [Eletricidade básica: O que é voltagem, corrente, resistência e potência](https://dev.to/alex_sousa_e41e0c49fa5ae6/eletricidade-basica-o-que-e-voltagem-corrente-resistencia-e-potencia-2eec)
+- [How to Post on VSCO: A Simple Guide for New Users](https://dev.to/emma_6bbad44d16efeee454f4/how-to-post-on-vsco-a-simple-guide-for-new-users-1g46)
+- [Implementing a Basic Strands Agent with MCP Servers](https://dev.to/om_shree_0709/implementing-a-basic-strands-agent-with-mcp-servers-1269)
 <!-- BLOG-POST-LIST:END -->
 
