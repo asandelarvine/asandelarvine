@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Beginner&#39;s Guide to GenAI Development: From Python to Production-Ready AI Agents](https://dev.to/ajmal_hasan/complete-beginners-guide-to-genai-development-from-python-to-production-ready-ai-agents-37p)
-- [What is an IPS Monitor?](https://dev.to/mamija_90/what-is-an-ips-monitor-2l5e)
-- [Title: It&#39;s Time to Free Developers from Command-Line Drudgery](https://dev.to/n_eo_c28f3c4c25a7bde4f86/title-its-time-to-free-developers-from-command-line-drudgery-2gbk)
-- [How to install a minimal Debian system on Qemu](https://dev.to/behdanisohrab/how-to-install-a-minimal-debian-system-on-qemu-f4k)
+- [🌐📶AWS VPC: A Beginner&#39;s Guide - Part 2](https://dev.to/akashabish/aws-vpc-a-beginners-guide-part-2-3gbo)
+- [Arc and Mutex for SQL Expression parameters](https://dev.to/romaninsh/arc-and-mutex-for-sql-expression-parameters-cjj)
+- [AWS SAA-C03 Exam Traps That Almost Failed Me &lpar;And How to Dodge Them&rpar;](https://dev.to/nageshrajcodes/aws-saa-c03-exam-traps-that-almost-failed-me-and-how-to-dodge-them-45if)
+- [Understanding Chaos RAT: The Go-Based Malware Hitting Linux and Windows](https://dev.to/fus0g/understanding-chaos-rat-the-go-based-malware-hitting-linux-and-windows-b86)
 <!-- BLOG-POST-LIST:END -->
 
