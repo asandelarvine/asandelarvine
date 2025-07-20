@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: 503 errors with AWS ALB possible causes and solutions](https://dev.to/aws-builders/kubernetes-503-errors-with-aws-alb-possible-causes-and-solutions-1ddh)
+- [Terraform: data types, loops, indexes, and the &quot;resource must be replaced&quot; issue](https://dev.to/setevoy/terraform-data-types-loops-indexes-and-the-resource-must-be-replaced-issue-5ccl)
+- [AI: Introduction to Ollama for local LLM launch](https://dev.to/setevoy/ai-introduction-to-ollama-for-local-llm-launch-41io)
 - [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
-- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
-- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
-- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
 <!-- BLOG-POST-LIST:END -->
 
