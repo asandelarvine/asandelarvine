@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PCI DSS Compliance for SSDs: SSL/TLS Requirements &amp; Best Practices](https://dev.to/freedom_coder/pci-dss-compliance-for-ssds-ssltls-requirements-best-practices-3o5n)
-- [The Era Of Ai - Introduction to vibe coding - Chapter 3](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-3-4af)
-- [Express v5 Error: “Missing parameter name at position 1” — Caused by * in Routes](https://dev.to/aryanneupane/express-v5-error-missing-parameter-name-at-position-1-caused-by-in-routes-50d4)
-- [The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions](https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi)
+- [From $50K to $150/Month: How I Stopped Getting Robbed by CDNs and Built My Own Damn Streaming Infra](https://dev.to/harsh_suthar_5a9a14772609/from-50k-to-150month-how-i-stopped-getting-robbed-by-cdns-and-built-my-own-damn-streaming-infra-hi6)
+- [Implementing Light/Dark Theme - My Struggles and Tips](https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon)
+- [How to Build a Real-time AI Multiplayer Quiz App with Flutter &amp; Firebase](https://dev.to/awsmasim/how-to-build-a-real-time-ai-multiplayer-quiz-app-with-flutter-firebase-2m39)
+- [Setting up a React Typescript Solution with Vite: A Practical Guide](https://dev.to/anuj_u/setting-up-react-typescript-solution-with-vite-1ndd)
 <!-- BLOG-POST-LIST:END -->
 
