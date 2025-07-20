@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
-- [[Boost]](https://dev.to/little_coding_things/-2jn0)
-- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
-- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
+- [How I Built a Secure Terraform Module to Deploy EKS on AWS &lpar;and Launched It as a Product&rpar;](https://dev.to/michael_karengera/how-i-built-a-secure-terraform-module-to-deploy-eks-on-aws-and-launched-it-as-a-product-1kbc)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
+- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
+- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
 <!-- BLOG-POST-LIST:END -->
 
