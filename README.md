@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes: 503 errors with AWS ALB possible causes and solutions](https://dev.to/aws-builders/kubernetes-503-errors-with-aws-alb-possible-causes-and-solutions-1ddh)
-- [Terraform: data types, loops, indexes, and the &quot;resource must be replaced&quot; issue](https://dev.to/setevoy/terraform-data-types-loops-indexes-and-the-resource-must-be-replaced-issue-5ccl)
-- [AI: Introduction to Ollama for local LLM launch](https://dev.to/setevoy/ai-introduction-to-ollama-for-local-llm-launch-41io)
-- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
+- [PCI DSS Compliance for SSDs: SSL/TLS Requirements &amp; Best Practices](https://dev.to/freedom_coder/pci-dss-compliance-for-ssds-ssltls-requirements-best-practices-3o5n)
+- [The Era Of Ai - Introduction to vibe coding - Chapter 3](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-3-4af)
+- [Express v5 Error: “Missing parameter name at position 1” — Caused by * in Routes](https://dev.to/aryanneupane/express-v5-error-missing-parameter-name-at-position-1-caused-by-in-routes-50d4)
+- [The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions](https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi)
 <!-- BLOG-POST-LIST:END -->
 
