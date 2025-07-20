@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking AI Training: Why Confidential Smart Contracts Might Be the Missing Piece](https://dev.to/rollingindo/rethinking-ai-training-why-confidential-smart-contracts-might-be-the-missing-piece-5995)
-- [Product Authenticity Checker.](https://dev.to/nephastophilles/product-authenticity-checker-35o4)
-- [# 03- Lets understand Kprobes &amp; Kretprobes](https://dev.to/maheshrayas/-03-lets-understand-kprobes-kretprobes-4ke)
-- [Deploy microservice with Docker from scratch - P2](https://dev.to/locnguyenpv/deploy-microservice-with-docker-from-scratch-p2-4hal)
+- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
+- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
+- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
+- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
 <!-- BLOG-POST-LIST:END -->
 
