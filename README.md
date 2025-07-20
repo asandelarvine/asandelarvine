@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Secure Terraform Module to Deploy EKS on AWS &lpar;and Launched It as a Product&rpar;](https://dev.to/michael_karengera/how-i-built-a-secure-terraform-module-to-deploy-eks-on-aws-and-launched-it-as-a-product-1kbc)
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
-- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
-- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
+- [How to Create a Fully-Featured ChatBot with Observability Tools to Monitor and Optimize your AI Models](https://dev.to/ajeetraina/how-to-create-ai-chatbot-from-scratch-using-docker-3kcf)
+- [PayGenius HR : Payslip Generator](https://dev.to/capjud95/paygenius-hr-payslip-generator-3l3g)
+- [The On-Premise Kubernetes Challenge: A Tale of Two Traffics](https://dev.to/dearcomrade/the-on-premise-kubernetes-challenge-a-tale-of-two-traffics-2m6e)
+- [An Extensible React Native App Automation Framework](https://dev.to/feliciawalker/an-extensible-react-native-app-automation-framework-1ig2)
 <!-- BLOG-POST-LIST:END -->
 
