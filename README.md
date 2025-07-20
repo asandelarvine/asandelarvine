@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/intro-to-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-1dd3)
-- [Hi welcome to The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/hi-welcome-to-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-4adm)
-- [🔐 Building JWT Authentication in ASP.NET Core &lpar;Step-by-Step&rpar;](https://dev.to/sabir_sheikh_cd49d4c419e3/building-jwt-authentication-in-aspnet-core-step-by-step-4ihe)
-- [Hi The Dark Side of AI: How ChatGPT Can Lead to Psychosis and Mental Health Concerns](https://dev.to/abhi_jith_f00c2ff58ac2a7e/hi-the-dark-side-of-ai-how-chatgpt-can-lead-to-psychosis-and-mental-health-concerns-579o)
+- [Test-Driven Development &lpar;TDD&rpar; and Its Relevance to AI-Generated Code](https://dev.to/hazrat-ali9/test-driven-development-tdd-and-its-relevance-to-ai-generated-code-1l4f)
+- [Building an Interactive Story Generator with Google AI Studio](https://dev.to/onirestart/building-an-interactive-story-generator-with-google-ai-studio-4mk5)
+- [Hit 100 GitHub Followers — Thank You!](https://dev.to/vihanga_anuththara_0a402f/hit-100-github-followers-thank-you-5751)
+- [ChatGPT o3-mini vs DeepSeek R1 Which Performs Better? - Proje Defteri](https://dev.to/yunusemre/chatgpt-o3-mini-vs-deepseek-r1-which-performs-better-proje-defteri-4epj)
 <!-- BLOG-POST-LIST:END -->
 
