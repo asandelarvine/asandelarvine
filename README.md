@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐📶AWS VPC: A Beginner&#39;s Guide - Part 2](https://dev.to/akashabish/aws-vpc-a-beginners-guide-part-2-3gbo)
-- [Arc and Mutex for SQL Expression parameters](https://dev.to/romaninsh/arc-and-mutex-for-sql-expression-parameters-cjj)
-- [AWS SAA-C03 Exam Traps That Almost Failed Me &lpar;And How to Dodge Them&rpar;](https://dev.to/nageshrajcodes/aws-saa-c03-exam-traps-that-almost-failed-me-and-how-to-dodge-them-45if)
-- [Understanding Chaos RAT: The Go-Based Malware Hitting Linux and Windows](https://dev.to/fus0g/understanding-chaos-rat-the-go-based-malware-hitting-linux-and-windows-b86)
+- [Understanding Serverless Architecture: AWS Lambda, Edge Functions &amp; When to Use What](https://dev.to/keith_mark_441c6f16e803a6/understanding-serverless-architecture-aws-lambda-edge-functions-when-to-use-what-4eph)
+- [The SEO Game Changer No One Is Talking About: Ranking in ChatGPT and Gemini Instead of Google](https://dev.to/renai/the-seo-game-changer-no-one-is-talking-about-ranking-in-chatgpt-and-gemini-instead-of-google-ccc)
+- [I&#39;ve Shipped for Millions, But Can&#39;t Ship Myself Past ATS](https://dev.to/philipjohnbasile/ive-shipped-for-millions-but-cant-ship-myself-past-ats-lhl)
+- [How to Make Your First Chrome Extension with Manifest V3](https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do)
 <!-- BLOG-POST-LIST:END -->
 
