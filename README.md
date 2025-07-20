@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Serverless Architecture: AWS Lambda, Edge Functions &amp; When to Use What](https://dev.to/keith_mark_441c6f16e803a6/understanding-serverless-architecture-aws-lambda-edge-functions-when-to-use-what-4eph)
-- [The SEO Game Changer No One Is Talking About: Ranking in ChatGPT and Gemini Instead of Google](https://dev.to/renai/the-seo-game-changer-no-one-is-talking-about-ranking-in-chatgpt-and-gemini-instead-of-google-ccc)
-- [I&#39;ve Shipped for Millions, But Can&#39;t Ship Myself Past ATS](https://dev.to/philipjohnbasile/ive-shipped-for-millions-but-cant-ship-myself-past-ats-lhl)
-- [How to Make Your First Chrome Extension with Manifest V3](https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do)
+- [The SQL Renaissance: More Than Just Tables](https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd)
+- [How Browsers Parse a URL](https://dev.to/kanta1207/how-browsers-parse-a-url-5764)
+- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-47e)
+- [Decoding No-Code: When to Let Go of the Code](https://dev.to/calderbughunter/decoding-no-code-when-to-let-go-of-the-code-5ap1)
 <!-- BLOG-POST-LIST:END -->
 
