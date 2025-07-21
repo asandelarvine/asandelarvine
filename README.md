@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kinde Billing Actually Works](https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc)
-- [Something I made to keep my extensions organized](https://dev.to/modcoretech/something-i-made-to-keep-my-extensions-organized-5fh9)
-- [Add Billing to Your SaaS in Under 10 Minutes &lpar;With Kinde&rpar;](https://dev.to/sholajegede/add-billing-to-your-saas-in-under-10-minutes-with-kinde-20md)
-- [Entering Web3: Build Your First dApp on Ethereum in 30 Minutes](https://dev.to/darkiepinkman/entering-web3-build-your-first-dapp-on-ethereum-in-30-minutes-1c2b)
+- [A beginner&#39;s guide to the Background-Remover model by 851-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-background-remover-model-by-851-labs-on-replicate-3mm0)
+- [v0.dev là một công cụ phát triển giao diện người dùng &lpar;UI&rpar; dựa trên trí tuệ nhân tạo &lpar;AI&rpar;](https://dev.to/thinnguyenqb/v0dev-la-mot-cong-cu-phat-trien-giao-dien-nguoi-dung-ui-dua-tren-tri-tue-nhan-tao-ai-2o0g)
+- [Fundamentos dos Bancos de Dados: conceitos essenciais para iniciantes](https://dev.to/ryanmarinho/fundamentos-dos-bancos-de-dados-conceitos-essenciais-para-iniciantes-1p11)
+- [Terraform Opened My Eyes](https://dev.to/obeej/terraform-opened-my-eyes-13c7)
 <!-- BLOG-POST-LIST:END -->
 
