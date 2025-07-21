@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Background-Remover model by 851-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-background-remover-model-by-851-labs-on-replicate-3mm0)
-- [v0.dev là một công cụ phát triển giao diện người dùng &lpar;UI&rpar; dựa trên trí tuệ nhân tạo &lpar;AI&rpar;](https://dev.to/thinnguyenqb/v0dev-la-mot-cong-cu-phat-trien-giao-dien-nguoi-dung-ui-dua-tren-tri-tue-nhan-tao-ai-2o0g)
-- [Fundamentos dos Bancos de Dados: conceitos essenciais para iniciantes](https://dev.to/ryanmarinho/fundamentos-dos-bancos-de-dados-conceitos-essenciais-para-iniciantes-1p11)
-- [Terraform Opened My Eyes](https://dev.to/obeej/terraform-opened-my-eyes-13c7)
+- [Crashes in Rive](https://dev.to/magipunk/crashes-in-rive-1knk)
+- [built TailorMyResume.online Magic with Bolt.new](https://dev.to/yu_gumin_ba5c4596509524ba/built-tailormyresumeonline-magic-with-boltnew-3g26)
+- [Common Accessibility Pitfalls and How to Fix Them Before Release](https://dev.to/misterankit/common-accessibility-pitfalls-and-how-to-fix-them-before-release-42d8)
+- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-485o)
 <!-- BLOG-POST-LIST:END -->
 
