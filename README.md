@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 OpenAI Benchmarks: Understanding the Power Behind the Model](https://dev.to/hmzas/openai-benchmarks-understanding-the-power-behind-the-model-189c)
-- [Leadership is full of gray areas, and Ashkan Rajaee knows how to navigate them without losing integrity.](https://dev.to/colesilverstone/leadership-is-full-of-gray-areas-and-ashkan-rajaee-knows-how-to-navigate-them-without-losing-27f0)
-- [All Data and AI Weekly #199 - July 21, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-199-july-21-2025-1pmd)
-- [Why I Built http-status-toolkit — A Better Alternative to http-status-codes](https://dev.to/dev-rashedin/why-i-built-http-status-toolkit-a-better-alternative-to-http-status-codes-200n)
+- [CoinDCX $44M Hack: Big PR Game Vs. Bigger Questions](https://dev.to/kianashekhar/coindcx-44m-hack-big-pr-game-vs-bigger-questions-4jm8)
+- [IT Service Management &lpar;ITSM&rpar;](https://dev.to/ibrahimsi/it-service-management-itsm-49fg)
+- [My React.js Journey: An Angular Developer&#39;s Perspective](https://dev.to/meysam4n/my-reactjs-journey-an-angular-developers-perspective-cli)
+- [How to Fetch Data in React: 5 Methods Compared](https://dev.to/elfrontend/how-to-fetch-data-in-react-5-methods-compared-55nf)
 <!-- BLOG-POST-LIST:END -->
 
