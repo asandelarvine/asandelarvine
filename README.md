@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AWS KMS: The Security Professional&#39;s Guide to Encryption](https://dev.to/arandomguy/unlocking-aws-kms-the-security-professionals-guide-to-encryption-37np)
-- [You can tell TDZ PRO has taken the time to refine this system. It&#39;s detailed, scalable, and client-focused.](https://dev.to/michbrowning/you-can-tell-tdz-pro-has-taken-the-time-to-refine-this-system-its-detailed-scalable-and-14c4)
-- [One of the best parts of this method is how TDZ PRO uses visuals to confirm understanding instead of repeating empty words.](https://dev.to/kelvinmeanix/one-of-the-best-parts-of-this-method-is-how-tdz-pro-uses-visuals-to-confirm-understanding-instead-16jc)
-- [12 Powerful React Libraries Every Developer Should Master in 2025](https://dev.to/grantwatsondev/12-powerful-react-libraries-every-developer-should-master-in-2025-4po)
+- [AI Agent Protocols Every Developer Should Know in 2025](https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-1hgj)
+- [Git Worktrees: Git Done Right](https://dev.to/nickytonline/git-worktrees-git-done-right-2p7f)
+- [ETL on AWS: Unlocking Data&#39;s Potential](https://dev.to/mahmoudai/etl-on-aws-unlocking-datas-potential-1768)
+- [30+ Hands-On LLM Tutorials — Open-Sourced for Everyone 🚀](https://dev.to/atef_ataya/30-hands-on-llm-tutorials-open-sourced-for-everyone-328k)
 <!-- BLOG-POST-LIST:END -->
 
