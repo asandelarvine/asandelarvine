@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CBS Claims ‘The Late Show with Stephen Colbert&#39; Is Losing $40 Million a Year](https://dev.to/popcorn_tv/cbs-claims-the-late-show-with-stephen-colbert-is-losing-40-million-a-year-1ki0)
-- [‘Grok For Government&#39;: Elon Musk&#39;s XAI Says It&#39;s Secured A Pentagon Contract](https://dev.to/future_ai/grok-for-government-elon-musks-xai-says-its-secured-a-pentagon-contract-3mmm)
-- [Elon Musk&#39;s AI bot adds a ridiculous anime companion with ‘NSFW&#39; mode](https://dev.to/future_ai/elon-musks-ai-bot-adds-a-ridiculous-anime-companion-with-nsfw-mode-4pbi)
-- [Netflix uses generative AI in one of its shows for first time | Netflix](https://dev.to/future_ai/netflix-uses-generative-ai-in-one-of-its-shows-for-first-time-netflix-4jal)
+- [Deploying Jozu On-Premise: Architecture &amp; Workflow Overview](https://dev.to/jozu/deploying-jozu-on-premise-architecture-workflow-overview-50p7)
+- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
+- [Kiro vs Cursor: How Amazon’s AI IDE Is Redefining Developer Productivity](https://dev.to/aws-builders/kiro-vs-cursor-how-amazons-ai-ide-is-redefining-developer-productivity-3eg8)
+- [Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#39;s Triumph at The Open](https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7)
 <!-- BLOG-POST-LIST:END -->
 
