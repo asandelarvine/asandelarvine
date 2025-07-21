@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
-- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
-- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
-- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
+- [4 Powerful Open Source Alternatives to Salesforce &lpar;With Cost Comparison You’ll Love&rpar;](https://dev.to/nocobase/4-powerful-open-source-alternatives-to-salesforce-with-cost-comparison-youll-love-3hin)
+- [12 Delegation software You Should Know](https://dev.to/fluidwave/12-delegation-software-you-should-know-56h2)
+- [API Gateway | A Beginners Guide : Mastering](https://dev.to/thedsdev/api-gateway-a-beginners-guide-mastering-52l3)
+- [⚡ Kilo Code: The Curver Killer Taking Over AI Coding in VS Code!](https://dev.to/hmzas/kilo-code-the-curver-killer-taking-over-ai-coding-in-vs-code-3pic)
 <!-- BLOG-POST-LIST:END -->
 
