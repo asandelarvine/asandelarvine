@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is exactly what more remote founders need to read. Keep your stack lean and your culture focused.](https://dev.to/ariahastings/this-is-exactly-what-more-remote-founders-need-to-read-keep-your-stack-lean-and-your-culture-2jji)
-- [🌐 Fellou.ai – The First AI Agentic Browser](https://dev.to/aniruddhaadak/fellouai-the-first-ai-agentic-browser-5fc)
-- [30 Days of Code- Day 4 &amp; 5](https://dev.to/akshitaexe/30-days-of-code-day-4-5-4klk)
-- [Brainstorming New CRM Features #15](https://dev.to/0xj0n1/brainstorming-new-crm-features-15-1h0d)
+- [🚀 React 19 + React Router v7: A Modern Approach to Building React Apps](https://dev.to/seyedahmaddv/react-19-react-router-v7-a-modern-approach-to-building-react-apps-2dmk)
+- [SQL Server as a Configuration Provider in .NET Core](https://dev.to/adrianbailador/sql-server-as-a-configuration-provider-in-net-core-mn)
+- [How to Release Unused Elastic IPs on AWS with One Prompt](https://dev.to/rebase-ai/how-to-release-unused-elastic-ips-on-aws-with-one-prompt-3hi8)
+- [Building a Sales Analytics Dashboard on Azure PostgreSQL + Azure Data Studio](https://dev.to/cli_tayo/building-a-sales-analytics-dashboard-on-azure-postgresql-azure-data-studio-1kd7)
 <!-- BLOG-POST-LIST:END -->
 
