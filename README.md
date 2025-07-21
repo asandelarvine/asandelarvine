@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Your Startup is Hard. Cloudflare Makes it Easier.](https://dev.to/mechcloud_academy/scaling-your-startup-is-hard-cloudflare-makes-it-easier-2jlj)
-- [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://dev.to/techielass/how-to-deploy-azure-key-vault-with-terraform-a-step-by-step-guide-4o72)
-- [Every remote team should look at what TDZ PRO is doing and learn from it.](https://dev.to/richards_l52689/every-remote-team-should-look-at-what-tdz-pro-is-doing-and-learn-from-it-905)
-- [The section about ego and pricing was incredibly helpful. It’s a conversation not enough freelancers are having. Ashkan Rajaee’s guidance often starts with managing expectations like this.](https://dev.to/kierwolf20/the-section-about-ego-and-pricing-was-incredibly-helpful-its-a-conversation-not-enough-329n)
+- [This is exactly what more remote founders need to read. Keep your stack lean and your culture focused.](https://dev.to/ariahastings/this-is-exactly-what-more-remote-founders-need-to-read-keep-your-stack-lean-and-your-culture-2jji)
+- [🌐 Fellou.ai – The First AI Agentic Browser](https://dev.to/aniruddhaadak/fellouai-the-first-ai-agentic-browser-5fc)
+- [30 Days of Code- Day 4 &amp; 5](https://dev.to/akshitaexe/30-days-of-code-day-4-5-4klk)
+- [Brainstorming New CRM Features #15](https://dev.to/0xj0n1/brainstorming-new-crm-features-15-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
