@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crashes in Rive](https://dev.to/magipunk/crashes-in-rive-1knk)
-- [built TailorMyResume.online Magic with Bolt.new](https://dev.to/yu_gumin_ba5c4596509524ba/built-tailormyresumeonline-magic-with-boltnew-3g26)
-- [Common Accessibility Pitfalls and How to Fix Them Before Release](https://dev.to/misterankit/common-accessibility-pitfalls-and-how-to-fix-them-before-release-42d8)
-- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-485o)
+- [Building My First Mobile App Using React Native](https://dev.to/wasihf/building-my-first-mobile-app-using-react-native-1e6)
+- [Perl 🐪 Weekly #730 - RIP MST](https://dev.to/szabgab/perl-weekly-730-rip-mst-1d3c)
+- [StyleHub – Building a Fashion Storefront with Bolt-Powered Speed](https://dev.to/pooja_bhavani/stylehub-building-a-fashion-storefront-with-bolt-powered-speed-53ge)
+- [Built My Own Coding Website From Scratch &lpar;Just 29 Days In!&rpar;](https://dev.to/kiddo_learn_879be1daec9ba/built-my-own-coding-website-from-scratch-just-29-days-in-hl2)
 <!-- BLOG-POST-LIST:END -->
 
