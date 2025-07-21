@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React 19 + React Router v7: A Modern Approach to Building React Apps](https://dev.to/seyedahmaddv/react-19-react-router-v7-a-modern-approach-to-building-react-apps-2dmk)
-- [SQL Server as a Configuration Provider in .NET Core](https://dev.to/adrianbailador/sql-server-as-a-configuration-provider-in-net-core-mn)
-- [How to Release Unused Elastic IPs on AWS with One Prompt](https://dev.to/rebase-ai/how-to-release-unused-elastic-ips-on-aws-with-one-prompt-3hi8)
-- [Building a Sales Analytics Dashboard on Azure PostgreSQL + Azure Data Studio](https://dev.to/cli_tayo/building-a-sales-analytics-dashboard-on-azure-postgresql-azure-data-studio-1kd7)
+- [Install GE-Proton on Linux](https://dev.to/harry_tanama_51571ebf90b6/install-ge-proton-on-linux-1ejl)
+- [🔥 Top 5 Emerging Trends in Smart Home AI for 2025](https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30)
+- [It is all about politics](https://dev.to/grzegorzgrzegorz/it-is-all-about-politics-2fgm)
+- [Demystifying DevOps](https://dev.to/paulanaekwe/demystifying-devops-mfh)
 <!-- BLOG-POST-LIST:END -->
 
