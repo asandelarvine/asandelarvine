@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FC2](https://dev.to/hediyeh_kianmehr_45f78137/fc2-1fmi)
-- [Never Get Stuck: A Practical Guide to Using Claude Code Without Blowing Your Budget](https://dev.to/onlineeric/never-get-stuck-a-practical-guide-to-using-claude-code-without-blowing-your-budget-e08)
-- [How Low-Cost PCB Manufacturing Transforms Hardware Development](https://dev.to/frank_1871bc3c55f35370df3/how-low-cost-pcb-manufacturing-transforms-hardware-development-1n7l)
-- [Why You Should Design for Feature Rollbacks &lpar;Not Just Rollouts&rpar;](https://dev.to/dct_technology/why-you-should-design-for-feature-rollbacks-not-just-rollouts-52dm)
+- [Makeup as a Biometric Threat? How the “Living Vampire” Johnny Depp Fooled Liveness Detection](https://dev.to/3divi_inc/makeup-as-a-biometric-threat-how-the-living-vampire-johnny-depp-fooled-liveness-detection-fci)
+- [Integrating SafeLine WAF Syslog with Prometheus and Grafana](https://dev.to/carrie_luo1/integrating-safeline-waf-syslog-with-prometheus-and-grafana-316l)
+- [3 Months Into Learning Programming - My Beginner Journey So Far](https://dev.to/rowanvictor01/3-months-into-learning-programming-my-beginner-journey-so-far-10hf)
+- [Python and AI Are Growing Together](https://dev.to/riyazonweb/python-and-ai-are-growing-together-j00)
 <!-- BLOG-POST-LIST:END -->
 
