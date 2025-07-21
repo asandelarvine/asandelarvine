@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackerrank - SQL - Select All](https://dev.to/mrpunkdasilva/hackerrank-sql-select-all-2j8g)
+- [Ruby Data Class: Syntax](https://dev.to/kelpopko/ruby-data-class-syntax-dio)
+- [Socrates Deutschland 2025](https://dev.to/mbjelac/socrates-deutschland-2025-2h11)
 - [Install GE-Proton on Linux](https://dev.to/harry_tanama_51571ebf90b6/install-ge-proton-on-linux-1ejl)
-- [🔥 Top 5 Emerging Trends in Smart Home AI for 2025](https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30)
-- [It is all about politics](https://dev.to/grzegorzgrzegorz/it-is-all-about-politics-2fgm)
-- [Demystifying DevOps](https://dev.to/paulanaekwe/demystifying-devops-mfh)
 <!-- BLOG-POST-LIST:END -->
 
