@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My First Mobile App Using React Native](https://dev.to/wasihf/building-my-first-mobile-app-using-react-native-1e6)
-- [Perl 🐪 Weekly #730 - RIP MST](https://dev.to/szabgab/perl-weekly-730-rip-mst-1d3c)
-- [StyleHub – Building a Fashion Storefront with Bolt-Powered Speed](https://dev.to/pooja_bhavani/stylehub-building-a-fashion-storefront-with-bolt-powered-speed-53ge)
-- [Built My Own Coding Website From Scratch &lpar;Just 29 Days In!&rpar;](https://dev.to/kiddo_learn_879be1daec9ba/built-my-own-coding-website-from-scratch-just-29-days-in-hl2)
+- [How I Made GitHub Open Source PRs Without Login in My VSCode Theme](https://dev.to/mindfullearner/how-i-made-github-open-source-prs-without-login-in-my-vscode-theme-2l2g)
+- [JavaScript &amp; TypeScript: A Developer&#39;s Deep Dive](https://dev.to/gautammanak1/javascript-typescript-a-developers-deep-dive-mjo)
+- [Como cheguei até o padrão CQRS naturalmente?](https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c)
+- [Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation Practices #2](https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a)
 <!-- BLOG-POST-LIST:END -->
 
