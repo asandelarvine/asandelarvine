@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #136](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-136-3mj6)
-- [Fixing 421 Misdirected Request Errors on Multilingual WordPress Sites Using Apache &amp; NGINX](https://dev.to/mainulspace/fixing-421-misdirected-request-errors-on-multilingual-wordpress-sites-using-apache-nginx-3601)
-- [Ashkan Rajaee handles uncomfortable truths with precision and care. This piece is a great example of that.](https://dev.to/pierr3smith/ashkan-rajaee-handles-uncomfortable-truths-with-precision-and-care-this-piece-is-a-great-example-1ifa)
-- [How do I cancel a subscription from Dev++?](https://dev.to/hnq90/how-do-i-cancel-a-subscription-from-dev-mbe)
+- [🧠 OpenAI Benchmarks: Understanding the Power Behind the Model](https://dev.to/hmzas/openai-benchmarks-understanding-the-power-behind-the-model-189c)
+- [Leadership is full of gray areas, and Ashkan Rajaee knows how to navigate them without losing integrity.](https://dev.to/colesilverstone/leadership-is-full-of-gray-areas-and-ashkan-rajaee-knows-how-to-navigate-them-without-losing-27f0)
+- [All Data and AI Weekly #199 - July 21, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-199-july-21-2025-1pmd)
+- [Why I Built http-status-toolkit — A Better Alternative to http-status-codes](https://dev.to/dev-rashedin/why-i-built-http-status-toolkit-a-better-alternative-to-http-status-codes-200n)
 <!-- BLOG-POST-LIST:END -->
 
