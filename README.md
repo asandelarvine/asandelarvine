@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Protocols Every Developer Should Know in 2025](https://dev.to/copilotkit/ai-agent-protocols-every-developer-should-know-in-2025-1hgj)
-- [Git Worktrees: Git Done Right](https://dev.to/nickytonline/git-worktrees-git-done-right-2p7f)
-- [ETL on AWS: Unlocking Data&#39;s Potential](https://dev.to/mahmoudai/etl-on-aws-unlocking-datas-potential-1768)
-- [30+ Hands-On LLM Tutorials — Open-Sourced for Everyone 🚀](https://dev.to/atef_ataya/30-hands-on-llm-tutorials-open-sourced-for-everyone-328k)
+- [Scaling Your Startup is Hard. Cloudflare Makes it Easier.](https://dev.to/mechcloud_academy/scaling-your-startup-is-hard-cloudflare-makes-it-easier-2jlj)
+- [How to deploy Azure Key Vault with Terraform: A Step-by-Step Guide](https://dev.to/techielass/how-to-deploy-azure-key-vault-with-terraform-a-step-by-step-guide-4o72)
+- [Every remote team should look at what TDZ PRO is doing and learn from it.](https://dev.to/richards_l52689/every-remote-team-should-look-at-what-tdz-pro-is-doing-and-learn-from-it-905)
+- [The section about ego and pricing was incredibly helpful. It’s a conversation not enough freelancers are having. Ashkan Rajaee’s guidance often starts with managing expectations like this.](https://dev.to/kierwolf20/the-section-about-ego-and-pricing-was-incredibly-helpful-its-a-conversation-not-enough-329n)
 <!-- BLOG-POST-LIST:END -->
 
