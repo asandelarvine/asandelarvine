@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Makeup as a Biometric Threat? How the “Living Vampire” Johnny Depp Fooled Liveness Detection](https://dev.to/3divi_inc/makeup-as-a-biometric-threat-how-the-living-vampire-johnny-depp-fooled-liveness-detection-fci)
-- [Integrating SafeLine WAF Syslog with Prometheus and Grafana](https://dev.to/carrie_luo1/integrating-safeline-waf-syslog-with-prometheus-and-grafana-316l)
-- [3 Months Into Learning Programming - My Beginner Journey So Far](https://dev.to/rowanvictor01/3-months-into-learning-programming-my-beginner-journey-so-far-10hf)
-- [Python and AI Are Growing Together](https://dev.to/riyazonweb/python-and-ai-are-growing-together-j00)
+- [CBS Claims ‘The Late Show with Stephen Colbert&#39; Is Losing $40 Million a Year](https://dev.to/popcorn_tv/cbs-claims-the-late-show-with-stephen-colbert-is-losing-40-million-a-year-1ki0)
+- [‘Grok For Government&#39;: Elon Musk&#39;s XAI Says It&#39;s Secured A Pentagon Contract](https://dev.to/future_ai/grok-for-government-elon-musks-xai-says-its-secured-a-pentagon-contract-3mmm)
+- [Elon Musk&#39;s AI bot adds a ridiculous anime companion with ‘NSFW&#39; mode](https://dev.to/future_ai/elon-musks-ai-bot-adds-a-ridiculous-anime-companion-with-nsfw-mode-4pbi)
+- [Netflix uses generative AI in one of its shows for first time | Netflix](https://dev.to/future_ai/netflix-uses-generative-ai-in-one-of-its-shows-for-first-time-netflix-4jal)
 <!-- BLOG-POST-LIST:END -->
 
