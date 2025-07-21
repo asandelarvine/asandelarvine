@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made GitHub Open Source PRs Without Login in My VSCode Theme](https://dev.to/mindfullearner/how-i-made-github-open-source-prs-without-login-in-my-vscode-theme-2l2g)
-- [JavaScript &amp; TypeScript: A Developer&#39;s Deep Dive](https://dev.to/gautammanak1/javascript-typescript-a-developers-deep-dive-mjo)
-- [Como cheguei até o padrão CQRS naturalmente?](https://dev.to/ortizdavid/como-cheguei-ate-o-padrao-cqrs-naturalmente-3c9c)
-- [Querying CSV/XLS and other files：SPL Lightweight Multisource Mixed Computation Practices #2](https://dev.to/esproc_spl/querying-csvxls-and-other-filesspl-lightweight-multisource-mixed-computation-practices-2-4g2a)
+- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
+- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
+- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
+- [Design Style Slider](https://dev.to/alansdead/design-style-slider-3o56)
 <!-- BLOG-POST-LIST:END -->
 
