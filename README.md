@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Powerful Open Source Alternatives to Salesforce &lpar;With Cost Comparison You’ll Love&rpar;](https://dev.to/nocobase/4-powerful-open-source-alternatives-to-salesforce-with-cost-comparison-youll-love-3hin)
-- [12 Delegation software You Should Know](https://dev.to/fluidwave/12-delegation-software-you-should-know-56h2)
-- [API Gateway | A Beginners Guide : Mastering](https://dev.to/thedsdev/api-gateway-a-beginners-guide-mastering-52l3)
-- [⚡ Kilo Code: The Curver Killer Taking Over AI Coding in VS Code!](https://dev.to/hmzas/kilo-code-the-curver-killer-taking-over-ai-coding-in-vs-code-3pic)
+- [The Role of HTML CSS and JavaScript in Web Development](https://dev.to/hazrat-ali9/the-role-of-html-css-and-javascript-in-web-development-1j9a)
+- [Will Generative AI Play a Role in Future AML Investigations?](https://dev.to/lokeshjoshi/will-generative-ai-play-a-role-in-future-aml-investigations-52pk)
+- [How I Automated My Blog with AI and n8n](https://dev.to/arjun_rajput_194aca6c2a16/how-i-automated-my-blog-with-ai-and-n8n-167j)
+- [Why Do We Need an API Gateway?](https://dev.to/anmol_chopra_9192c6a7387c/why-do-we-need-an-api-gateway-1dgk)
 <!-- BLOG-POST-LIST:END -->
 
