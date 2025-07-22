@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a WhatsApp Chatbot with OpenAI, Twilio and Airtable](https://dev.to/alifar/build-a-whatsapp-chatbot-with-openai-twilio-and-airtable-4350)
-- [Angular 20.1.0 – What’s new? Binary Assignment Operators with Angular v20.1.0](https://dev.to/iamvibhakar/angular-2010-whats-new-binary-assignment-operators-with-angular-v2010-2j4o)
-- [MySQL Can Handle Most Things — Do You Really Need PostgreSQL or Oracle? 🤔💾](https://dev.to/xinjie_zou_d67d2805538130/mysql-can-handle-most-things-do-you-really-need-postgresql-or-oracle-2kd3)
-- [🧠 Brain-Computer Interface &lpar;BCI&rpar;: How It Works, Where It&#39;s Going, and Why It Matters](https://dev.to/hasan_jafri_aa7f9b6a2fa37/brain-computer-interface-bci-how-it-works-where-its-going-and-why-it-matters-58e7)
+- [How to Deploy a Tetris Game on AWS ECS with Terraform](https://dev.to/aws-builders/how-to-deploy-a-tetris-game-on-aws-ecs-with-terraform-59hf)
+- [Best Practices for Ensuring AI Agent Performance and Reliability](https://dev.to/kuldeep_paul/best-practices-for-ensuring-ai-agent-performance-and-reliability-4ok0)
+- [3 TypeScript Playgrounds You Should Definitely Try](https://dev.to/md_motiurrahman/3-typescript-playgrounds-you-should-definitely-try-mfh)
+- [The Problem with Perfect Engineers](https://dev.to/remejuan/the-problem-with-perfect-engineers-3jbm)
 <!-- BLOG-POST-LIST:END -->
 
