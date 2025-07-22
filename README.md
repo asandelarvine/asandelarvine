@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗑️ Ditch the Docs: Architect Smarter in One Page](https://dev.to/tmorin/ditch-the-docs-architect-smarter-in-one-page-4b1g)
-- [Speed Runs and Pixel Perfect: Welcome to the Underground World of Competitive Image Optimization](https://dev.to/hardik_b2d8f0bca/speed-runs-and-pixel-perfect-welcome-to-the-underground-world-of-competitive-image-optimization-3n3)
-- [The Esports of Web Performance: How I Became a Competitive Image Optimizer](https://dev.to/hardik_b2d8f0bca/the-esports-of-web-performance-how-i-became-a-competitive-image-optimizer-14eo)
-- [Stop Rewriting. Start Shortcuts.](https://dev.to/slashitapp/stop-rewriting-start-shortcuts-28lg)
+- [Var vs Dynamic vs Object in c#](https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30)
+- [Intro to OpenTelemetry Weaver](https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1)
+- [Running Your First Docker Container from GitHub in VS Code](https://dev.to/habeeb_hameed_0753445424a/running-your-first-docker-container-from-github-in-vs-code-31j)
+- [How I’m Building Custom Generative AI – Step-by-Step Guide &lpar;2025&rpar;](https://dev.to/techverdi/how-im-building-custom-generative-ai-step-by-step-guide-2025-3j78)
 <!-- BLOG-POST-LIST:END -->
 
