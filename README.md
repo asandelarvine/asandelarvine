@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Screenshots to Objective-C: A New Era in iOS Development](https://dev.to/atforeveryoung/from-screenshots-to-objective-c-a-new-era-in-ios-development-474d)
-- [Mastering PHP&#39;s implode&lpar;&rpar;: Effortlessly Join Arrays into Strings](https://dev.to/sanurag/mastering-phps-implode-effortlessly-join-arrays-into-strings-1mej)
-- [The Attacking Phase: Where Hackers Thrive and Defenders Sleep](https://dev.to/nullc0d3/the-attacking-phase-where-hackers-thrive-and-defenders-sleep-30a5)
-- [🧾 Built a LESCO Bill Checker for Lahore – Tech Behind It Hey devs! 👋 I recently built a simple tool to help people in Lahore check their LESCO electricity bills online using just their 14-digit reference number: 👉 https://lescoebil.pk](https://dev.to/tania_irfan_dfbe8739fdef1/built-a-lesco-bill-checker-for-lahore-tech-behind-it-hey-devs-i-recently-built-a-simple-42o6)
+- [RAG Systems Model &lpar;MongoDB&rpar;](https://dev.to/charlie_barajas_353e28103/rag-systems-model-mongodb-3hl0)
+- [The Future of AI in Software Engineering: Transforming Development from Code Creation to Intelligent Orchestration](https://dev.to/dthiwanka/the-future-of-ai-in-software-engineering-transforming-development-from-code-creation-to-2kc1)
+- [The Virtual Office – CSS Art Inspired by Workplace Culture](https://dev.to/apoorvtomar/the-virtual-office-css-art-inspired-by-workplace-culture-2dg9)
+- [Behind the Upload: Building a Zero-Trust File Inspection API with FastAPI](https://dev.to/rahul_kumarthakur_58c6a8/behind-the-upload-building-a-zero-trust-file-inspection-api-with-fastapi-1g3k)
 <!-- BLOG-POST-LIST:END -->
 
