@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and GitHub](https://dev.to/methebilalashiq/git-and-github-4ecn)
-- [Understanding Measures of Central Tendency and Their Importance in Data Science](https://dev.to/wanjirunjoroge/understanding-measures-of-central-tendency-and-their-importance-in-data-science-1e98)
-- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
-- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
+- [Building RideLink with Bolt.new: From Frustration to Functional App in One Month](https://dev.to/tiagohgl/building-ridelink-with-boltnew-from-frustration-to-functional-app-in-one-month-58me)
+- [How I Use AI to Run My Digital Nomad Business &lpar;While Traveling the World&rpar;](https://dev.to/jcberg/how-i-use-ai-to-run-my-digital-nomad-business-while-traveling-the-world-3gjo)
+- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
+- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
 <!-- BLOG-POST-LIST:END -->
 
