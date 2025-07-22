@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Var vs Dynamic vs Object in c#](https://dev.to/shreyans_padmani/var-vs-dynamic-vs-object-in-c-1g30)
-- [Intro to OpenTelemetry Weaver](https://dev.to/sirivarma/intro-to-opentelemetry-weaver-4om1)
-- [Running Your First Docker Container from GitHub in VS Code](https://dev.to/habeeb_hameed_0753445424a/running-your-first-docker-container-from-github-in-vs-code-31j)
-- [How I’m Building Custom Generative AI – Step-by-Step Guide &lpar;2025&rpar;](https://dev.to/techverdi/how-im-building-custom-generative-ai-step-by-step-guide-2025-3j78)
+- [Build a WhatsApp Chatbot with OpenAI, Twilio and Airtable](https://dev.to/alifar/build-a-whatsapp-chatbot-with-openai-twilio-and-airtable-4350)
+- [Angular 20.1.0 – What’s new? Binary Assignment Operators with Angular v20.1.0](https://dev.to/iamvibhakar/angular-2010-whats-new-binary-assignment-operators-with-angular-v2010-2j4o)
+- [MySQL Can Handle Most Things — Do You Really Need PostgreSQL or Oracle? 🤔💾](https://dev.to/xinjie_zou_d67d2805538130/mysql-can-handle-most-things-do-you-really-need-postgresql-or-oracle-2kd3)
+- [🧠 Brain-Computer Interface &lpar;BCI&rpar;: How It Works, Where It&#39;s Going, and Why It Matters](https://dev.to/hasan_jafri_aa7f9b6a2fa37/brain-computer-interface-bci-how-it-works-where-its-going-and-why-it-matters-58e7)
 <!-- BLOG-POST-LIST:END -->
 
