@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Desktop Apps with Dioxus on Linux](https://dev.to/zebthewizard/building-desktop-apps-with-dioxus-on-linux-1k7d)
-- [N8N. O que é? Como instalar?](https://dev.to/carloseduardolemos/n8n-o-que-e-como-instalar-2o1p)
-- [Thinking About AI and The Last Question](https://dev.to/wynteres/thinking-about-ai-and-the-last-question-202k)
-- [We raised $29M to make your agents stronger, smarter, and better](https://dev.to/composiodev/we-raised-29m-to-make-your-agents-stronger-smarter-and-better-3fa2)
+- [Day 2: Introduction to Linux and Basic Commands](https://dev.to/udoh_deborah_b1e484c474bf/day-2-introduction-to-linux-and-basic-commands-18m5)
+- [Modern Bazel with Python - Module 1](https://dev.to/sushilbaligar/modern-bazel-with-python-module-1-5c93)
+- [Claude Can Simulate Entire Development Teams](https://dev.to/igorganapolsky/claude-can-simulate-entire-development-teams-3276)
+- [Inteligência Artificial em Foco: Principais Modelos, Plataformas e Integrações](https://dev.to/carloseduardolemos/inteligencia-artificial-em-foco-principais-modelos-plataformas-e-integracoes-2onf)
 <!-- BLOG-POST-LIST:END -->
 
