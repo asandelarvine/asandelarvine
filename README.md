@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Destiny 2 lead admits the MMO is terrible at onboarding new players after deleting the first third of the game](https://dev.to/gg_news/destiny-2-lead-admits-the-mmo-is-terrible-at-onboarding-new-players-after-deleting-the-first-third-2mjb)
-- [The era of human programmers is coming to its end&quot;, says Softbank founder Masayoshi Son.](https://dev.to/future_ai/the-era-of-human-programmers-is-coming-to-its-end-says-softbank-founder-masayoshi-son-2ke2)
-- [A.I. Is About to Solve Loneliness. That&#39;s a Problem](https://dev.to/future_ai/ai-is-about-to-solve-loneliness-thats-a-problem-24g0)
-- [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly&#39;](https://dev.to/future_ai/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly-b98)
+- [Building Desktop Apps with Dioxus on Linux](https://dev.to/zebthewizard/building-desktop-apps-with-dioxus-on-linux-1k7d)
+- [N8N. O que é? Como instalar?](https://dev.to/carloseduardolemos/n8n-o-que-e-como-instalar-2o1p)
+- [Thinking About AI and The Last Question](https://dev.to/wynteres/thinking-about-ai-and-the-last-question-202k)
+- [We raised $29M to make your agents stronger, smarter, and better](https://dev.to/composiodev/we-raised-29m-to-make-your-agents-stronger-smarter-and-better-3fa2)
 <!-- BLOG-POST-LIST:END -->
 
