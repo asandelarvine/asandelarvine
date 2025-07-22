@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
-- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
-- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
-- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
+- [Automating Solidity Smart Contract Security on Windows and Linux](https://dev.to/buildwithweb3/automating-solidity-smart-contract-security-on-windows-and-linux-4j1m)
+- [OS Concepts and terms](https://dev.to/algon31/os-concepts-and-terms-3d6g)
+- [5-Minute Fixs🧑🏻‍🔧: Common Flutter Layout Mistakes](https://dev.to/hiteshm_devapp/5-minute-fixs-common-flutter-layout-mistakes-15g6)
+- [How Silktest Helped Expose Social Media Algorithms &lpar;And Why Devs Should Care&rpar;](https://dev.to/muzammil_mughal_18d97e834/how-silktest-helped-expose-social-media-algorithms-and-why-devs-should-care-275m)
 <!-- BLOG-POST-LIST:END -->
 
