@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool That Converts React + Vite to Next.js — Here’s Why &lpar;and How You Can Use It&rpar;](https://dev.to/digitaldev/i-built-a-tool-that-converts-react-vite-to-nextjs-heres-why-and-how-you-can-use-it-542o)
-- [From Sierra Leone to the World: My Dev Journey + Productivity App in Progress](https://dev.to/mattialavai/from-sierra-leone-to-the-world-my-dev-journey-productivity-app-in-progress-5bhj)
-- [Dependency Injection in Go: The Simple Way to More Testable Code](https://dev.to/ashukr22/dependency-injection-in-go-the-simple-way-to-more-testable-code-1ied)
-- [Context Free Gramma &lpar;CFG&rpar;](https://dev.to/taey/context-free-gramma-cfg-39mc)
+- [Git and GitHub](https://dev.to/methebilalashiq/git-and-github-4ecn)
+- [Understanding Measures of Central Tendency and Their Importance in Data Science](https://dev.to/wanjirunjoroge/understanding-measures-of-central-tendency-and-their-importance-in-data-science-1e98)
+- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
+- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
 <!-- BLOG-POST-LIST:END -->
 
