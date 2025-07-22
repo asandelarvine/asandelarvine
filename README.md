@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide shared file storage for the company offices](https://dev.to/isaiah_izibili_7a39b7d627/provide-shared-file-storage-for-the-company-offices-4alg)
-- [DAY 00 - Introduction - I am creating my own SDK from scratch in C++](https://dev.to/estrolabz/day-00-introduction-i-am-creating-my-own-sdk-from-scratch-in-c-1m1e)
-- [Como e quando usar Django Signals](https://dev.to/mts-lucas/como-e-quando-usar-django-signals-5cec)
-- [Mounting Amazon EFS Across 3 Regions &lpar;Kubernetes + EC2&rpar;: Work-arounds, Tweaks &amp; Startup Automation](https://dev.to/oyiz/mounting-amazon-efs-across-3-regions-kubernetes-ec2-work-arounds-tweaks-startup-automation-35j8)
+- [🔥 DevOps with Nginx – Phase 1: Getting Started with Nginx as a Web Server](https://dev.to/krisha_arya_55/devops-with-nginx-phase-1-getting-started-with-nginx-as-a-web-server-1njn)
+- [The Hidden Cost of LangChain: Why My Simple RAG System Cost 2.7x More Than Expected](https://dev.to/himanjan/the-hidden-cost-of-langchain-why-my-simple-rag-system-cost-27x-more-than-expected-4hk9)
+- [Why Just Scroll When You Can Build Your Dream Project—and Get Paid?](https://dev.to/vivaan_chauhan_f47fdf4740/why-just-scroll-when-you-can-build-your-dream-project-and-get-paid-50ng)
+- [Claude Code Tip: Claude Code pattern: &quot;Should I...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-pattern-should-i-1j6j)
 <!-- BLOG-POST-LIST:END -->
 
