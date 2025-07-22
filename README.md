@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open source alternative to Perplexity Comet](https://dev.to/harshthedev/i-built-an-open-source-alternative-to-perplexity-comet-2oj)
-- [NovaFleet - A Futuristic Dashboard for Space Agencies](https://dev.to/abel-boop/novafleet-a-futuristic-dashboard-for-space-agencies-3p5f)
-- [[Boost]](https://dev.to/audrey_lopez/-2m9m)
-- [[Boost]](https://dev.to/anakin_developer/-3jg5)
+- [Outstaffing in Software Development: Maximizing Benefits and Minimizing Risks](https://dev.to/developex/outstaffing-in-software-development-maximizing-benefits-and-minimizing-risks-2oag)
+- [Migrating from Spring Cloud Gateway MVC to Server Web MVC &lpar;2025.0.0+&rpar;](https://dev.to/robertobatts/migrating-from-spring-cloud-gateway-mvc-to-server-web-mvc-202500-1bk2)
+- [Step-by-Step Guide to Navigating the DefiLlama in 2025](https://dev.to/stablecoinstrategist/step-by-step-guide-to-navigating-the-defillama-in-2025-4lna)
+- [Understanding JPG Image Conversion: A Developer&#39;s Guide to Formats, Optimization, and Tools](https://dev.to/hardik_b2d8f0bca/understanding-jpg-image-conversion-a-developers-guide-to-formats-optimization-and-tools-3gbg)
 <!-- BLOG-POST-LIST:END -->
 
