@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Architectural Style Should You Use? — a Guide to Tactical DDD Decision Tree](https://dev.to/karvozavr/what-architectural-style-should-you-use-a-guide-to-tactical-ddd-decision-tree-1gf7)
-- [A Funny Chat About Bundlers](https://dev.to/harsh_p30/a-funny-chat-about-bundlers-8ki)
-- [Why I Built Imagen4 After 200 Failed AI Image Generations](https://dev.to/denardis_asquith_bd891d95/why-i-built-imagen4-after-200-failed-ai-image-generations-5cdk)
-- [SphereConnect: Creating Team Vibes for Axero&#39;s Intranet Challenge](https://dev.to/highflyer910/sphereconnect-creating-team-vibes-for-axeros-intranet-challenge-41jb)
+- [🚀 The Future of SEO: Strategy, Structure &amp; Search in 2025 and Beyond](https://dev.to/trixsec/the-future-of-seo-strategy-structure-search-in-2025-and-beyond-993)
+- [🚀 15+ Free &amp; Powerful Tools Every Developer, Hacker, and Tech Enthusiast Should Bookmark in 2025 💻✨](https://dev.to/trixsec/15-free-powerful-tools-every-developer-hacker-and-tech-enthusiast-should-bookmark-in-2025-bbb)
+- [مراحل کنترل پروژه و نقش آن در موفقیت پروژه‌های چابک](https://dev.to/parizad/mrhl-khntrl-prwjh-w-nqsh-an-dr-mwfqyt-prwjhhy-chbkh-5g08)
+- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
 <!-- BLOG-POST-LIST:END -->
 
