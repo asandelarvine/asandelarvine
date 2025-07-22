@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Tetris Game on AWS ECS with Terraform](https://dev.to/aws-builders/how-to-deploy-a-tetris-game-on-aws-ecs-with-terraform-59hf)
-- [Best Practices for Ensuring AI Agent Performance and Reliability](https://dev.to/kuldeep_paul/best-practices-for-ensuring-ai-agent-performance-and-reliability-4ok0)
-- [3 TypeScript Playgrounds You Should Definitely Try](https://dev.to/md_motiurrahman/3-typescript-playgrounds-you-should-definitely-try-mfh)
-- [The Problem with Perfect Engineers](https://dev.to/remejuan/the-problem-with-perfect-engineers-3jbm)
+- [I built an open source alternative to Perplexity Comet](https://dev.to/harshthedev/i-built-an-open-source-alternative-to-perplexity-comet-2oj)
+- [NovaFleet - A Futuristic Dashboard for Space Agencies](https://dev.to/abel-boop/novafleet-a-futuristic-dashboard-for-space-agencies-3p5f)
+- [[Boost]](https://dev.to/audrey_lopez/-2m9m)
+- [[Boost]](https://dev.to/anakin_developer/-3jg5)
 <!-- BLOG-POST-LIST:END -->
 
