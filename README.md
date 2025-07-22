@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Systems Model &lpar;MongoDB&rpar;](https://dev.to/charlie_barajas_353e28103/rag-systems-model-mongodb-3hl0)
-- [The Future of AI in Software Engineering: Transforming Development from Code Creation to Intelligent Orchestration](https://dev.to/dthiwanka/the-future-of-ai-in-software-engineering-transforming-development-from-code-creation-to-2kc1)
-- [The Virtual Office – CSS Art Inspired by Workplace Culture](https://dev.to/apoorvtomar/the-virtual-office-css-art-inspired-by-workplace-culture-2dg9)
-- [Behind the Upload: Building a Zero-Trust File Inspection API with FastAPI](https://dev.to/rahul_kumarthakur_58c6a8/behind-the-upload-building-a-zero-trust-file-inspection-api-with-fastapi-1g3k)
+- [🗑️ Ditch the Docs: Architect Smarter in One Page](https://dev.to/tmorin/ditch-the-docs-architect-smarter-in-one-page-4b1g)
+- [Speed Runs and Pixel Perfect: Welcome to the Underground World of Competitive Image Optimization](https://dev.to/hardik_b2d8f0bca/speed-runs-and-pixel-perfect-welcome-to-the-underground-world-of-competitive-image-optimization-3n3)
+- [The Esports of Web Performance: How I Became a Competitive Image Optimizer](https://dev.to/hardik_b2d8f0bca/the-esports-of-web-performance-how-i-became-a-competitive-image-optimizer-14eo)
+- [Stop Rewriting. Start Shortcuts.](https://dev.to/slashitapp/stop-rewriting-start-shortcuts-28lg)
 <!-- BLOG-POST-LIST:END -->
 
