@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Introduction to Linux and Basic Commands](https://dev.to/udoh_deborah_b1e484c474bf/day-2-introduction-to-linux-and-basic-commands-18m5)
-- [Modern Bazel with Python - Module 1](https://dev.to/sushilbaligar/modern-bazel-with-python-module-1-5c93)
-- [Claude Can Simulate Entire Development Teams](https://dev.to/igorganapolsky/claude-can-simulate-entire-development-teams-3276)
-- [Inteligência Artificial em Foco: Principais Modelos, Plataformas e Integrações](https://dev.to/carloseduardolemos/inteligencia-artificial-em-foco-principais-modelos-plataformas-e-integracoes-2onf)
+- [I Built a Tool That Converts React + Vite to Next.js — Here’s Why &lpar;and How You Can Use It&rpar;](https://dev.to/digitaldev/i-built-a-tool-that-converts-react-vite-to-nextjs-heres-why-and-how-you-can-use-it-542o)
+- [From Sierra Leone to the World: My Dev Journey + Productivity App in Progress](https://dev.to/mattialavai/from-sierra-leone-to-the-world-my-dev-journey-productivity-app-in-progress-5bhj)
+- [Dependency Injection in Go: The Simple Way to More Testable Code](https://dev.to/ashukr22/dependency-injection-in-go-the-simple-way-to-more-testable-code-1ied)
+- [Context Free Gramma &lpar;CFG&rpar;](https://dev.to/taey/context-free-gramma-cfg-39mc)
 <!-- BLOG-POST-LIST:END -->
 
