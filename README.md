@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building RideLink with Bolt.new: From Frustration to Functional App in One Month](https://dev.to/tiagohgl/building-ridelink-with-boltnew-from-frustration-to-functional-app-in-one-month-58me)
-- [How I Use AI to Run My Digital Nomad Business &lpar;While Traveling the World&rpar;](https://dev.to/jcberg/how-i-use-ai-to-run-my-digital-nomad-business-while-traveling-the-world-3gjo)
-- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
-- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
+- [Provide shared file storage for the company offices](https://dev.to/isaiah_izibili_7a39b7d627/provide-shared-file-storage-for-the-company-offices-4alg)
+- [DAY 00 - Introduction - I am creating my own SDK from scratch in C++](https://dev.to/estrolabz/day-00-introduction-i-am-creating-my-own-sdk-from-scratch-in-c-1m1e)
+- [Como e quando usar Django Signals](https://dev.to/mts-lucas/como-e-quando-usar-django-signals-5cec)
+- [Mounting Amazon EFS Across 3 Regions &lpar;Kubernetes + EC2&rpar;: Work-arounds, Tweaks &amp; Startup Automation](https://dev.to/oyiz/mounting-amazon-efs-across-3-regions-kubernetes-ec2-work-arounds-tweaks-startup-automation-35j8)
 <!-- BLOG-POST-LIST:END -->
 
