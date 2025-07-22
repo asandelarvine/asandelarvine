@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackerrank - SQL - Select All](https://dev.to/mrpunkdasilva/hackerrank-sql-select-all-2j8g)
-- [Ruby Data Class: Syntax](https://dev.to/kelpopko/ruby-data-class-syntax-dio)
-- [Socrates Deutschland 2025](https://dev.to/mbjelac/socrates-deutschland-2025-2h11)
-- [Install GE-Proton on Linux](https://dev.to/harry_tanama_51571ebf90b6/install-ge-proton-on-linux-1ejl)
+- [From Screenshots to Objective-C: A New Era in iOS Development](https://dev.to/atforeveryoung/from-screenshots-to-objective-c-a-new-era-in-ios-development-474d)
+- [Mastering PHP&#39;s implode&lpar;&rpar;: Effortlessly Join Arrays into Strings](https://dev.to/sanurag/mastering-phps-implode-effortlessly-join-arrays-into-strings-1mej)
+- [The Attacking Phase: Where Hackers Thrive and Defenders Sleep](https://dev.to/nullc0d3/the-attacking-phase-where-hackers-thrive-and-defenders-sleep-30a5)
+- [🧾 Built a LESCO Bill Checker for Lahore – Tech Behind It Hey devs! 👋 I recently built a simple tool to help people in Lahore check their LESCO electricity bills online using just their 14-digit reference number: 👉 https://lescoebil.pk](https://dev.to/tania_irfan_dfbe8739fdef1/built-a-lesco-bill-checker-for-lahore-tech-behind-it-hey-devs-i-recently-built-a-simple-42o6)
 <!-- BLOG-POST-LIST:END -->
 
