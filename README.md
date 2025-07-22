@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Listing Strategy: How Exchanges Support Crypto Projects Beyond the Launch](https://dev.to/alexnav/post-listing-strategy-how-exchanges-support-crypto-projects-beyond-the-launch-15fi)
-- [7 Things You Must Do After Installing SafeLine](https://dev.to/carrie_luo1/8-things-you-must-do-after-installing-safeline-1f3m)
-- [[Boost]](https://dev.to/riocb/-4i2g)
-- [My 2-Year-Old Built His First Video Game in 8 Minutes Using AI &lpar;Complete Setup Guide&rpar;](https://dev.to/raisingpixels/my-2-year-old-built-his-first-video-game-in-8-minutes-using-ai-complete-setup-guide-3amo)
+- [What Architectural Style Should You Use? — a Guide to Tactical DDD Decision Tree](https://dev.to/karvozavr/what-architectural-style-should-you-use-a-guide-to-tactical-ddd-decision-tree-1gf7)
+- [A Funny Chat About Bundlers](https://dev.to/harsh_p30/a-funny-chat-about-bundlers-8ki)
+- [Why I Built Imagen4 After 200 Failed AI Image Generations](https://dev.to/denardis_asquith_bd891d95/why-i-built-imagen4-after-200-failed-ai-image-generations-5cdk)
+- [SphereConnect: Creating Team Vibes for Axero&#39;s Intranet Challenge](https://dev.to/highflyer910/sphereconnect-creating-team-vibes-for-axeros-intranet-challenge-41jb)
 <!-- BLOG-POST-LIST:END -->
 
