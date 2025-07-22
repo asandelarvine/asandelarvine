@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Future of SEO: Strategy, Structure &amp; Search in 2025 and Beyond](https://dev.to/trixsec/the-future-of-seo-strategy-structure-search-in-2025-and-beyond-993)
-- [🚀 15+ Free &amp; Powerful Tools Every Developer, Hacker, and Tech Enthusiast Should Bookmark in 2025 💻✨](https://dev.to/trixsec/15-free-powerful-tools-every-developer-hacker-and-tech-enthusiast-should-bookmark-in-2025-bbb)
-- [مراحل کنترل پروژه و نقش آن در موفقیت پروژه‌های چابک](https://dev.to/parizad/mrhl-khntrl-prwjh-w-nqsh-an-dr-mwfqyt-prwjhhy-chbkh-5g08)
-- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
+- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
+- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
+- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
+- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
 <!-- BLOG-POST-LIST:END -->
 
