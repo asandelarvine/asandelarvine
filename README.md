@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Carly&#39;s Cuts: Simplicity and Struggle](https://dev.to/daoistrose/carlys-cuts-simplicity-and-struggle-5bc8)
-- [Claude Code Tip: Claude Code tip: Use &quot;explain ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-tip-use-explain--2ln0)
-- [How I Built Ariva Streetwear Using Design Thinking, Dev Workflows &amp; No-Code Tools](https://dev.to/corazul_shop_2a6ba4f069ac/how-i-built-ariva-streetwear-using-design-thinking-dev-workflows-no-code-tools-4emi)
-- [[Boost]](https://dev.to/lorebrada00/-4ame)
+- [Office Circuit Board](https://dev.to/ilsa_shaikh_089e2bfab0bf4/office-circuit-board-443j)
+- [How to Set Up and Manage APIs Using Kalp Studio’s API Gateway](https://dev.to/kalpstudio/how-to-set-up-and-manage-apis-using-kalp-studios-api-gateway-1me0)
+- [Middleware Architecture Patterns for Request Processing&lpar;1460&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing1460-46m4)
+- [Using Data Engineering to Track Food Prices and Inflation in Kenya from 2006 to 2025](https://dev.to/dkkinyua/using-data-engineering-to-track-food-prices-and-inflation-in-kenya-from-2006-to-2025-47ja)
 <!-- BLOG-POST-LIST:END -->
 
