@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes Explained with docker-compose](https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f)
-- [Redux From the Ground Up &lpar;Elementary to Advanced&rpar;&quot;](https://dev.to/shrsv/redux-from-the-ground-up-elementary-to-advanced-2aec)
-- [Tracing the Internet — Part 1: ICMP, TTL, Ping &amp; Tracert](https://dev.to/kishi_/tracing-the-internet-part-1-icmp-ttl-ping-tracert-2dlj)
-- [How to Write Effective Comments in JavaScript Code](https://dev.to/wisdomudo/how-to-write-effective-comments-in-javascript-code-5emb)
+- [The Descent Is Harder Than the Climb: Lessons in Leadership from Mt. Fuji](https://dev.to/victoria/the-descent-is-harder-than-the-climb-lessons-in-leadership-from-mt-fuji-3fbo)
+- [VibeBridge: Building with Bolt - WLH Challenge](https://dev.to/ariondev/vibebridge-building-with-bolt-wlh-challenge-27h5)
+- [How We Built Cresca: AI-Native Email Marketing That Actually Works](https://dev.to/crescadotxyz/how-we-built-cresca-ai-native-email-marketing-that-actually-works-343)
+- [Not Sure What Therapy’s Right for You? There’s a Quiz for That | MindFLTR](https://dev.to/solajanetbrowne/not-sure-what-therapys-right-for-you-theres-a-quiz-for-that-mindfltr-40mi)
 <!-- BLOG-POST-LIST:END -->
 
