@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [@myArduino What baud rate is optimal for serial communication. The correct answer is 9600 or 115200](https://dev.to/snorri1986/myarduino-what-baud-rate-is-optimal-for-serial-communication-the-correct-answer-is-9600-or-ga1)
-- [How to Update an Azure virtual network](https://dev.to/zube/how-to-update-an-azure-virtual-network-2gif)
-- [AI Code Editors Are Having Their Main Character Moment in 2025](https://dev.to/humbleakh/ai-code-editors-are-having-their-main-character-moment-in-2025-13k9)
-- [Puppet Core 8.14 Released with Critical Security Patches and AI-powered Doc Search](https://dev.to/puppet/puppet-core-814-released-with-critical-security-patches-and-ai-powered-doc-search-2jn)
+- [From Industrial Automation to AI-Powered Gift Magic: My Journey with Mago.Chat](https://dev.to/victor_manuel_3408c3ca9d2/from-industrial-automation-to-ai-powered-gift-magic-my-journey-with-magochat-30fl)
+- [Writing an OS in Rust](https://dev.to/feel_thefiya_b90e3648ad03/writing-an-os-in-rust-5bc)
+- [Building a Serverless CRUD API with AWS SAM, Lambda, API Gateway, and DynamoDB](https://dev.to/kevin_k/building-a-serverless-crud-api-with-aws-sam-lambda-api-gateway-and-dynamodb-45ji)
+- [Signal safety and why should you care](https://dev.to/serpent7776/signal-safety-and-why-should-you-care-4pe7)
 <!-- BLOG-POST-LIST:END -->
 
