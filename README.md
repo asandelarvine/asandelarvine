@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tame Your Flaky RSpec Tests by Fixing the Seed](https://dev.to/hamajyotan/tame-your-flaky-rspec-tests-by-fixing-the-seed-ffl)
-- [How ERP Integrations Are Reshaping the Future of Scalable Business Software](https://dev.to/writer_marco_b4633409df37/how-erp-integrations-are-reshaping-the-future-of-scalable-business-software-58i5)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;6741&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers6741-583b)
-- [🏛️ Digital Heritage Ecosystem: Menjaga Warisan Budaya di Era Digital](https://dev.to/ahmadasroni38/digital-heritage-ecosystem-menjaga-warisan-budaya-di-era-digital-4i5d)
+- [Zup: The Self-Healing CLI That Automates Your Dev Environment](https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb)
+- [Wired for Innovation: Lessons from Bolt.New hackathon](https://dev.to/ecogetaway_b3a2518c89c057/wired-for-innovation-lessons-from-boltnew-hackathon-2nlo)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;3530&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3530-4j5l)
+- [Claude Code Tip: Claude Code architecture tip: ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-architecture-tip--4ocb)
 <!-- BLOG-POST-LIST:END -->
 
