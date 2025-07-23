@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Descent Is Harder Than the Climb: Lessons in Leadership from Mt. Fuji](https://dev.to/victoria/the-descent-is-harder-than-the-climb-lessons-in-leadership-from-mt-fuji-3fbo)
-- [VibeBridge: Building with Bolt - WLH Challenge](https://dev.to/ariondev/vibebridge-building-with-bolt-wlh-challenge-27h5)
-- [How We Built Cresca: AI-Native Email Marketing That Actually Works](https://dev.to/crescadotxyz/how-we-built-cresca-ai-native-email-marketing-that-actually-works-343)
-- [Not Sure What Therapy’s Right for You? There’s a Quiz for That | MindFLTR](https://dev.to/solajanetbrowne/not-sure-what-therapys-right-for-you-theres-a-quiz-for-that-mindfltr-40mi)
+- [@myArduino What baud rate is optimal for serial communication. The correct answer is 9600 or 115200](https://dev.to/snorri1986/myarduino-what-baud-rate-is-optimal-for-serial-communication-the-correct-answer-is-9600-or-ga1)
+- [How to Update an Azure virtual network](https://dev.to/zube/how-to-update-an-azure-virtual-network-2gif)
+- [AI Code Editors Are Having Their Main Character Moment in 2025](https://dev.to/humbleakh/ai-code-editors-are-having-their-main-character-moment-in-2025-13k9)
+- [Puppet Core 8.14 Released with Critical Security Patches and AI-powered Doc Search](https://dev.to/puppet/puppet-core-814-released-with-critical-security-patches-and-ai-powered-doc-search-2jn)
 <!-- BLOG-POST-LIST:END -->
 
