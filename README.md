@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintainers of ESLint Prettier Plugin Attacked via npm Supply Chain Malware](https://dev.to/snyk/maintainers-of-eslint-prettier-plugin-attacked-via-npm-supply-chain-malware-a20)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;1681&rpar;](https://dev.to/member_8c78b76f/dynamic-routing-systems-for-scalable-web-applications1681-499j)
-- [Cloud 101 &lpar;Start with Linux Before Anything Else&rpar;](https://dev.to/efia_birago/cloud-101-start-with-linux-before-anything-else-5cp4)
-- [Office Table - CSS ART Edition](https://dev.to/abhinav-writes/office-table-css-art-edition-1gmp)
+- [Welcome Thread - v336](https://dev.to/devteam/welcome-thread-v336-1jd8)
+- [Top 10 Context Engineering Tools Powering Next-Gen AI](https://dev.to/contextspace_/top-10-context-engineering-tools-powering-next-gen-ai-22da)
+- [Rheomesh now supports Recordings](https://dev.to/h3poteto/rheomesh-now-supports-recordings-1ndl)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;4229&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers4229-1g33)
 <!-- BLOG-POST-LIST:END -->
 
