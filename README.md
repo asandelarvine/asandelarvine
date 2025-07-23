@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Distributed Systems in .NET with an Event Bus](https://dev.to/iamcymentho/architecting-distributed-systems-in-net-with-an-event-bus-1hgj)
-- [The AI-Powered Revolution in Wind Energy](https://dev.to/michael_nielsen_70ab83d55/the-ai-powered-revolution-in-wind-energy-4j39)
-- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
-- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
+- [Carly&#39;s Cuts: Simplicity and Struggle](https://dev.to/daoistrose/carlys-cuts-simplicity-and-struggle-5bc8)
+- [Claude Code Tip: Claude Code tip: Use &quot;explain ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-tip-use-explain--2ln0)
+- [How I Built Ariva Streetwear Using Design Thinking, Dev Workflows &amp; No-Code Tools](https://dev.to/corazul_shop_2a6ba4f069ac/how-i-built-ariva-streetwear-using-design-thinking-dev-workflows-no-code-tools-4emi)
+- [[Boost]](https://dev.to/lorebrada00/-4ame)
 <!-- BLOG-POST-LIST:END -->
 
