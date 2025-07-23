@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zup: The Self-Healing CLI That Automates Your Dev Environment](https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb)
-- [Wired for Innovation: Lessons from Bolt.New hackathon](https://dev.to/ecogetaway_b3a2518c89c057/wired-for-innovation-lessons-from-boltnew-hackathon-2nlo)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;3530&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3530-4j5l)
-- [Claude Code Tip: Claude Code architecture tip: ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-architecture-tip--4ocb)
+- [Year 3 crept up on me😲: My third year DEV anniversary post 🎊](https://dev.to/sarahokolo/year-3-crept-up-on-me-my-third-year-dev-anniversary-post-54h6)
+- [Comparing ETL vs ELT: Designing for Accuracy or Agility?](https://dev.to/rajeev_gupta_388f9db57d79/comparing-etl-vs-elt-designing-for-accuracy-or-agility-1oeo)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;5708&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers5708-5ggk)
+- [Complete Guide to the Software Development Life Cycle: Phases, Models &amp; More](https://dev.to/morrismoses149/complete-guide-to-the-software-development-life-cycle-phases-models-more-1d0k)
 <!-- BLOG-POST-LIST:END -->
 
