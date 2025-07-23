@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Year 3 crept up on me😲: My third year DEV anniversary post 🎊](https://dev.to/sarahokolo/year-3-crept-up-on-me-my-third-year-dev-anniversary-post-54h6)
-- [Comparing ETL vs ELT: Designing for Accuracy or Agility?](https://dev.to/rajeev_gupta_388f9db57d79/comparing-etl-vs-elt-designing-for-accuracy-or-agility-1oeo)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;5708&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers5708-5ggk)
-- [Complete Guide to the Software Development Life Cycle: Phases, Models &amp; More](https://dev.to/morrismoses149/complete-guide-to-the-software-development-life-cycle-phases-models-more-1d0k)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6292&rpar;](https://dev.to/member_8c78b76f/memory-safety-meets-extreme-performance-in-web-servers6292-1dlj)
+- [The Human-AI Interface: Designing Developer Workflows for Collaborative Intelligence &lpar;Post-Migration&rpar;](https://dev.to/writerelliswilson_36c7590/the-human-ai-interface-designing-developer-workflows-for-collaborative-intelligence-8bj)
+- [Using FireCrawl MCP Server with Claude for Web Scraping](https://dev.to/composiodev/using-firecrawl-mcp-server-with-claude-for-web-scraping-18ig)
+- [JavaScript Private Elements Trump Compile-Time Illusion](https://dev.to/itzsaga/javascript-private-elements-trump-compile-time-illusion-3k7a)
 <!-- BLOG-POST-LIST:END -->
 
