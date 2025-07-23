@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Token Unlock Alert Bot Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-token-unlock-alert-bot-using-dropstab-api-50fb)
-- [What is webhook ?](https://dev.to/abhishek_nayak_d40395ab36/what-is-webhook--4oc7)
-- [🚀 Seamless Agent Switching in Robots-AI – No More Restarting the Chat!](https://dev.to/wissam_metawee_c320c2e1d8/seamless-agent-switching-in-robots-ai-no-more-restarting-the-chat-2lfe)
-- [Reset Windows 10/11 Password Without USB or Reinstall](https://dev.to/jackscott7/reset-windows-1011-password-without-usb-or-reinstall-43m6)
+- [why I moved from Supabase to Gadget for my Replit builds](https://dev.to/tyler_omalley__/why-i-moved-from-supabase-to-gadget-for-my-replit-builds-171o)
+- [Weekly Job Roundup ✨ July 24th Edition](https://dev.to/resume-matcher/weekly-job-roundup-july-24th-edition-2abd)
+- [AI Data Collection: Foundations and Strategies for Modern AI Systems](https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2)
+- [WWDC - AdAttributionKit Explained: Building on SKAdNetwork&#39;s Foundation](https://dev.to/arshtechpro/wwdc-adattributionkit-explained-building-on-skadnetworks-foundation-fl3)
 <!-- BLOG-POST-LIST:END -->
 
