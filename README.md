@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v336](https://dev.to/devteam/welcome-thread-v336-1jd8)
-- [Top 10 Context Engineering Tools Powering Next-Gen AI](https://dev.to/contextspace_/top-10-context-engineering-tools-powering-next-gen-ai-22da)
-- [Rheomesh now supports Recordings](https://dev.to/h3poteto/rheomesh-now-supports-recordings-1ndl)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;4229&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers4229-1g33)
+- [How the insert Method Works in This Java Linked List Functionality of insert](https://dev.to/neelakandan_ravi/how-the-insert-method-works-in-this-java-linked-list-functionality-of-insert-4kaf)
+- [Best Angular Icon Libraries](https://dev.to/masumparvej/best-angular-icon-libraries-1a84)
+- [WebSocket Revolution in Real-Time Communication&lpar;7201&rpar;](https://dev.to/member_8c78b76f/websocket-revolution-in-real-time-communication7201-504b)
+- [Rebuilding a Broken System — and Finding Our People Along the Way](https://dev.to/jgponce/rebuilding-a-broken-system-and-finding-our-people-along-the-way-589a)
 <!-- BLOG-POST-LIST:END -->
 
