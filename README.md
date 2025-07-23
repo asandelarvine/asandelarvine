@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Grok Alternatives for Data Analysis in July 2025](https://dev.to/powerdrill_ai/best-grok-alternatives-for-data-analysis-in-july-2025-582i)
-- [Is This the End of Google Analytics?](https://dev.to/alifar/is-this-the-end-of-google-analytics-40a4)
-- [Top 10 Context Engineering Tools Powering Next-Gen AI](https://dev.to/contextspace_/top-10-context-engineering-tools-powering-next-gen-ai-cjb)
-- [Microservices vs. SOA](https://dev.to/godofgeeks/microservices-vs-soa-4n55)
+- [Architecting Distributed Systems in .NET with an Event Bus](https://dev.to/iamcymentho/architecting-distributed-systems-in-net-with-an-event-bus-1hgj)
+- [The AI-Powered Revolution in Wind Energy](https://dev.to/michael_nielsen_70ab83d55/the-ai-powered-revolution-in-wind-energy-4j39)
+- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
+- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
 <!-- BLOG-POST-LIST:END -->
 
