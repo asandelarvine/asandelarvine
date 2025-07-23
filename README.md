@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 DevOps with Nginx – Phase 1: Getting Started with Nginx as a Web Server](https://dev.to/krisha_arya_55/devops-with-nginx-phase-1-getting-started-with-nginx-as-a-web-server-1njn)
-- [The Hidden Cost of LangChain: Why My Simple RAG System Cost 2.7x More Than Expected](https://dev.to/himanjan/the-hidden-cost-of-langchain-why-my-simple-rag-system-cost-27x-more-than-expected-4hk9)
-- [Why Just Scroll When You Can Build Your Dream Project—and Get Paid?](https://dev.to/vivaan_chauhan_f47fdf4740/why-just-scroll-when-you-can-build-your-dream-project-and-get-paid-50ng)
-- [Claude Code Tip: Claude Code pattern: &quot;Should I...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-pattern-should-i-1j6j)
+- [Maintainers of ESLint Prettier Plugin Attacked via npm Supply Chain Malware](https://dev.to/snyk/maintainers-of-eslint-prettier-plugin-attacked-via-npm-supply-chain-malware-a20)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;1681&rpar;](https://dev.to/member_8c78b76f/dynamic-routing-systems-for-scalable-web-applications1681-499j)
+- [Cloud 101 &lpar;Start with Linux Before Anything Else&rpar;](https://dev.to/efia_birago/cloud-101-start-with-linux-before-anything-else-5cp4)
+- [Office Table - CSS ART Edition](https://dev.to/abhinav-writes/office-table-css-art-edition-1gmp)
 <!-- BLOG-POST-LIST:END -->
 
