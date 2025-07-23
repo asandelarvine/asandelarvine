@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;6292&rpar;](https://dev.to/member_8c78b76f/memory-safety-meets-extreme-performance-in-web-servers6292-1dlj)
-- [The Human-AI Interface: Designing Developer Workflows for Collaborative Intelligence &lpar;Post-Migration&rpar;](https://dev.to/writerelliswilson_36c7590/the-human-ai-interface-designing-developer-workflows-for-collaborative-intelligence-8bj)
-- [Using FireCrawl MCP Server with Claude for Web Scraping](https://dev.to/composiodev/using-firecrawl-mcp-server-with-claude-for-web-scraping-18ig)
-- [JavaScript Private Elements Trump Compile-Time Illusion](https://dev.to/itzsaga/javascript-private-elements-trump-compile-time-illusion-3k7a)
+- [5 Signs Your Development Team Needs Better Staging Coordination](https://dev.to/stagingapp/5-signs-your-development-team-needs-better-staging-coordination-43l8)
+- [🚀 Modern Auth System with Next.js, MongoDB, TypeScript &amp; Mailtrap – Open Source &amp; Deployed!](https://dev.to/aayush130405/modern-auth-system-with-nextjs-mongodb-typescript-mailtrap-open-source-deployed-2db9)
+- [🗓️ If Your Architecture Doesn’t Shape Execution, It’s Just Diagrams](https://dev.to/tmorin/if-your-architecture-doesnt-shape-execution-its-just-diagrams-4dno)
+- [Smart Contract Gotchas: What I Wish I Knew Before Auditing Solidity Code](https://dev.to/vadym_info_polus/smart-contract-gotchas-what-i-wish-i-knew-before-auditing-solidity-code-hph)
 <!-- BLOG-POST-LIST:END -->
 
