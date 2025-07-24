@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between Blockchain Design Systems and Solidity Design Patterns](https://dev.to/adaobilynda/differences-between-blockchain-design-systems-and-solidity-design-patterns-75h)
-- [Algolia MCP enriches your Data through Claude Natural Language!🚀🍀🥇](https://dev.to/julsr_mx/algolia-mcp-enriches-your-data-through-claude-natural-language-i9h)
-- [Exploring Design Patterns in Solidity](https://dev.to/adaobilynda/exploring-design-patterns-in-solidity-2782)
-- [Meta prompt; Why your prompt alone may be limiting your LLM](https://dev.to/joshtom/meta-prompt-why-your-prompt-alone-may-be-limiting-your-llm-4co5)
+- [TCP Optimization Techniques for Web Server Performance&lpar;6330&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance6330-3l2j)
+- [Launching a SaaS? Here&#39;s a Clean Analytics Stack You’ll Actually Use](https://dev.to/malithmcr/launching-a-saas-heres-a-clean-analytics-stack-youll-actually-use-mf8)
+- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/what-vibe-coding-actually-looks-like-for-a-senior-engineer-1jgl)
+- [AWS Innovation Sandbox](https://dev.to/nghidanh2005/aws-innovation-sandbox-3fj3)
 <!-- BLOG-POST-LIST:END -->
 
