@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Root](https://dev.to/saintst/quantum-root-2nkc)
-- [Icon Font vs SVG : Which One Should You Use?](https://dev.to/masumparvej/icon-font-vs-svg-which-one-should-you-use-34d2)
-- [The Little Prince’s Ballast Resistor: Taming the Wild Electrons of the Stars](https://dev.to/ersajay/the-little-princes-ballast-resistor-taming-the-wild-electrons-of-the-stars-5ada)
-- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/imranparthib/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
+- [Best Practices for Data Visualization in SaaS Products](https://dev.to/lollypopdesign/best-practices-for-data-visualization-in-saas-products-14dk)
+- [6 Timeless SQL Books for Software Engineers and Developers](https://dev.to/somadevtoo/6-timeless-sql-books-for-software-engineers-and-developers-4p78)
+- [Modern Server-Side Event Implementation&lpar;4424&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation4424-18dk)
+- [Write a Programming Language in a Weekend &lpar;Seriously&rpar; With Python](https://dev.to/devasservice/write-a-programming-language-in-a-weekend-seriously-with-python-3k70)
 <!-- BLOG-POST-LIST:END -->
 
