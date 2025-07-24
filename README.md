@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s new in Surrealist 3.5](https://dev.to/surrealdb/whats-new-in-surrealist-35-3af1)
-- [🛠️ Setting Up Fusio as an API Gateway for CRM &amp; LLM Microservices](https://dev.to/hilqia_kenda/setting-up-fusio-as-an-api-gateway-for-crm-llm-microservices-51l3)
-- [The Right to Be Human: Beyond AI and Optimization](https://dev.to/sammane1253/the-right-to-be-human-beyond-ai-and-optimization-kd9)
-- [Learning Express.js Basics](https://dev.to/imrancodes/learning-expressjs-basics-1oo0)
+- [Introducing Textrix – An Open-Source Medium.com-Style Editor for Publishing Platforms](https://dev.to/abdo-mh/introducing-textrix-an-open-source-mediumcom-style-editor-for-publishing-platforms-43md)
+- [Async in JavaScript, Served Hot: The Chef’s guide to the Event Loop](https://dev.to/atheodosiou/async-in-javascript-served-hot-the-chefs-guide-to-the-event-loop-536a)
+- [Modern Server-Side Event Implementation&lpar;5591&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation5591-4lha)
+- [🛡️ Elimina secretos, escanea dependencias y duerme tranquilo: Así funciona un pipeline moderno DevSecOps](https://dev.to/francotel/elimina-secretos-escanea-dependencias-y-duerme-tranquilo-asi-funciona-un-pipeline-moderno-27d3)
 <!-- BLOG-POST-LIST:END -->
 
