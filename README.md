@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anima Playground vs. Figma Make - Choosing the Right Vibe-Coding Tool](https://dev.to/andrewbaisden/anima-playground-vs-figma-make-choosing-the-right-vibe-coding-tool-3dhb)
-- [Understanding CI/CD Pipelines: The Modern Way to Build and Deploy Software](https://dev.to/dehemi_fabio/understanding-cicd-pipelines-the-modern-way-to-build-and-deploy-software-30l1)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;4286&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4286-3nko)
-- [The same supplier catalog issues, over and over again...](https://dev.to/irene_tsz/fixing-supplier-catalog-chaos-csvxlsxjson-with-yaml-cli-330)
+- [New Choice for Cross-Platform Web Service Development&lpar;4933&rpar;](https://dev.to/member_8c78b76f/new-choice-for-cross-platform-web-service-development4933-1g62)
+- [Google AI Studio Challenge - Linux Services Monitor](https://dev.to/truelinuxx/google-ai-studio-first-attempt-2319)
+- [Lumo by Proton: The Privacy-First AI Assistant That Respects Your Data](https://dev.to/alifar/lumo-by-proton-the-privacy-first-ai-assistant-that-respects-your-data-4gfa)
+- [Lessons learned building a production system with trigger.dev](https://dev.to/isaacmayolas/lessons-learned-building-a-production-system-with-triggerdev-21c5)
 <!-- BLOG-POST-LIST:END -->
 
