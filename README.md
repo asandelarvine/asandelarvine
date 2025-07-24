@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Integrations: How to Build the Future of AI with Context Engineering](https://dev.to/contextspace_/beyond-integrations-how-to-build-the-future-of-ai-with-context-engineering-9fn)
-- [Completed Linux for DevOps Beginners 🚀 #devops #linux #learninginpublic #resources](https://dev.to/upshivam786/completed-linux-for-devops-beginners-devops-linux-learninginpublic-resources-57j9)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;3621&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization3621-je2)
-- [🚀 How I Automated Laravel Deployments to Shared Hosting Using GitHub Actions + FTP](https://dev.to/jonathan_lamseck/how-i-automated-laravel-deployments-to-shared-hosting-using-github-actions-ftp-2go6)
+- [How I Built a Self-Updating AI Sales Agent for Using Perplexity Public Rooms](https://dev.to/alifar/how-i-built-a-self-updating-ai-sales-agent-for-using-perplexity-public-rooms-547h)
+- [Understanding Docker Buildx &amp; Builder: Modern Docker Builds with BuildKit](https://dev.to/lovestaco/understanding-docker-buildx-builder-modern-docker-builds-with-buildkit-1hd)
+- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
+- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
 <!-- BLOG-POST-LIST:END -->
 
