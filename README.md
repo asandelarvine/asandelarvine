@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP Optimization Techniques for Web Server Performance&lpar;6330&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance6330-3l2j)
-- [Launching a SaaS? Here&#39;s a Clean Analytics Stack You’ll Actually Use](https://dev.to/malithmcr/launching-a-saas-heres-a-clean-analytics-stack-youll-actually-use-mf8)
-- [What Vibe Coding Actually Looks Like for a Senior Engineer](https://dev.to/pmbanugo/what-vibe-coding-actually-looks-like-for-a-senior-engineer-1jgl)
-- [AWS Innovation Sandbox](https://dev.to/nghidanh2005/aws-innovation-sandbox-3fj3)
+- [Uncovering Family History with Cloudinary’s Image Transformations and MCP Servers](https://dev.to/cloudinary/uncovering-family-history-with-cloudinarys-image-transformations-and-mcp-servers-1484)
+- [Love Your Machine](https://dev.to/truelinuxx/love-your-machine-3c8p)
+- [Stop Chasing Signatures: How Waivify Handles It For You](https://dev.to/dustin_heaps_eb67241531ef/stop-chasing-signatures-how-waivify-handles-it-for-you-2kgm)
+- [Is MCP the Secret to Smarter AI Coding in 2025?](https://dev.to/eleftheriabatsou/is-mcp-the-secret-to-smarter-ai-coding-in-2025-4nkg)
 <!-- BLOG-POST-LIST:END -->
 
