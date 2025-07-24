@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Tailwind CSS Tricks for Clean &amp; Responsive UI](https://dev.to/dct_technology/advanced-tailwind-css-tricks-for-clean-responsive-ui-2k5g)
-- [🔐 Setting Up Headscale and Tailscale for Secure Private Networking: A Step-by-Step Guide](https://dev.to/shubhamkcloud/setting-up-headscale-and-tailscale-for-secure-private-networking-a-step-by-step-guide-2mo6)
-- [What is a paper capacitor?](https://dev.to/jingyun_cai_38872bff5f4ed/what-is-a-paper-capacitor-5ci6)
-- [Day 11: How to Create Animated Spinners Using Tailwind CSS](https://dev.to/ruqaiya_beguwala/day-11-how-to-create-animated-spinners-using-tailwind-css-4d69)
+- [Quantum Root](https://dev.to/saintst/quantum-root-2nkc)
+- [Icon Font vs SVG : Which One Should You Use?](https://dev.to/masumparvej/icon-font-vs-svg-which-one-should-you-use-34d2)
+- [The Little Prince’s Ballast Resistor: Taming the Wild Electrons of the Stars](https://dev.to/ersajay/the-little-princes-ballast-resistor-taming-the-wild-electrons-of-the-stars-5ada)
+- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/imranparthib/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
 <!-- BLOG-POST-LIST:END -->
 
