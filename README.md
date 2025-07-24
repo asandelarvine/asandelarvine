@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do Signatures and Malleability Impact Web3 Security?](https://dev.to/metana/how-do-signatures-and-malleability-impact-web3-security-4fgd)
-- [Function to creaes better charts](https://dev.to/armaankhan8270/function-to-creaes-better-charts-no9)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;0566&rpar;](https://dev.to/member_8c78b76f/dynamic-routing-systems-for-scalable-web-applications0566-3i0g)
-- [𝗟𝗼𝗼𝗽𝘆 👾](https://dev.to/shinnthant_jr/-j28)
+- [How to Create ER Diagrams for SQLite with a Free Tool](https://dev.to/roxana_haidiner/how-to-create-er-diagrams-for-sqlite-with-a-free-tool-51e)
+- [Agentic AI: The Future of Autonomous Digital Intelligence in 2025](https://dev.to/agami_tech_414cabb7522ea1/agentic-ai-the-future-of-autonomous-digital-intelligence-in-2025-76)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;4884&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers4884-1dc7)
+- [How Web Browsers Work: A Developer&#39;s Deep Dive](https://dev.to/mohammad1105/how-web-browsers-work-a-developers-deep-dive-545d)
 <!-- BLOG-POST-LIST:END -->
 
