@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Concept to Community: The Story of Nestt](https://dev.to/cryptilly1/from-concept-to-community-the-story-of-nestt-k0c)
-- [Building a Complete Social Media Backend with Django - Part 2: Development Environment Setup](https://dev.to/samwitadhikary/building-a-complete-social-media-backend-with-django-part-2-development-environment-setup-50o1)
-- [How to create a virtual machine in Azure.](https://dev.to/cliffndee/how-to-create-a-virtual-machine-in-azure-h3j)
-- [Building Devu a platform to help devs contribute to open source without the overwhelm](https://dev.to/the_me/building-devu-a-platform-to-help-devs-contribute-to-open-source-without-the-overwhelm-3an6)
+- [Best AI Tools That Apply to Jobs for You in 2025](https://dev.to/claradev32/best-ai-tools-that-apply-to-jobs-for-you-in-2025-akg)
+- [[Boost]](https://dev.to/binyam/-3ge4)
+- [Why Was My Localhost SSH Taking 3 Seconds? A Deep Dive.](https://dev.to/sysdiver/how-a-simple-ssh-to-localhost-taught-me-real-network-debugging-4p50)
+- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
 <!-- BLOG-POST-LIST:END -->
 
