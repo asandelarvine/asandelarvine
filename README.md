@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncovering Family History with Cloudinary’s Image Transformations and MCP Servers](https://dev.to/cloudinary/uncovering-family-history-with-cloudinarys-image-transformations-and-mcp-servers-1484)
-- [Love Your Machine](https://dev.to/truelinuxx/love-your-machine-3c8p)
-- [Stop Chasing Signatures: How Waivify Handles It For You](https://dev.to/dustin_heaps_eb67241531ef/stop-chasing-signatures-how-waivify-handles-it-for-you-2kgm)
-- [Is MCP the Secret to Smarter AI Coding in 2025?](https://dev.to/eleftheriabatsou/is-mcp-the-secret-to-smarter-ai-coding-in-2025-4nkg)
+- [Beyond Integrations: How to Build the Future of AI with Context Engineering](https://dev.to/contextspace_/beyond-integrations-how-to-build-the-future-of-ai-with-context-engineering-9fn)
+- [Completed Linux for DevOps Beginners 🚀 #devops #linux #learninginpublic #resources](https://dev.to/upshivam786/completed-linux-for-devops-beginners-devops-linux-learninginpublic-resources-57j9)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;3621&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization3621-je2)
+- [🚀 How I Automated Laravel Deployments to Shared Hosting Using GitHub Actions + FTP](https://dev.to/jonathan_lamseck/how-i-automated-laravel-deployments-to-shared-hosting-using-github-actions-ftp-2go6)
 <!-- BLOG-POST-LIST:END -->
 
