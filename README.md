@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Choice for Cross-Platform Web Service Development&lpar;4933&rpar;](https://dev.to/member_8c78b76f/new-choice-for-cross-platform-web-service-development4933-1g62)
-- [Google AI Studio Challenge - Linux Services Monitor](https://dev.to/truelinuxx/google-ai-studio-first-attempt-2319)
-- [Lumo by Proton: The Privacy-First AI Assistant That Respects Your Data](https://dev.to/alifar/lumo-by-proton-the-privacy-first-ai-assistant-that-respects-your-data-4gfa)
-- [Lessons learned building a production system with trigger.dev](https://dev.to/isaacmayolas/lessons-learned-building-a-production-system-with-triggerdev-21c5)
+- [Differences Between Blockchain Design Systems and Solidity Design Patterns](https://dev.to/adaobilynda/differences-between-blockchain-design-systems-and-solidity-design-patterns-75h)
+- [Algolia MCP enriches your Data through Claude Natural Language!🚀🍀🥇](https://dev.to/julsr_mx/algolia-mcp-enriches-your-data-through-claude-natural-language-i9h)
+- [Exploring Design Patterns in Solidity](https://dev.to/adaobilynda/exploring-design-patterns-in-solidity-2782)
+- [Meta prompt; Why your prompt alone may be limiting your LLM](https://dev.to/joshtom/meta-prompt-why-your-prompt-alone-may-be-limiting-your-llm-4co5)
 <!-- BLOG-POST-LIST:END -->
 
