@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FSCSS @fun Guide](https://dev.to/fscss/fscss-fun-guide-5de2)
-- [HTTP Response Optimization and Streaming Techniques&lpar;0639&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques0639-p3f)
-- [I spent 6 months creating something that already exists - but in better](https://dev.to/canyslypys/i-spent-6-months-creating-something-that-already-exists-but-in-better-1jjf)
-- [Asynchronous Programming Patterns for Web Development&lpar;8905&rpar;](https://dev.to/member_8c78b76f/asynchronous-programming-patterns-for-web-development8905-3556)
+- [Anima Playground vs. Figma Make - Choosing the Right Vibe-Coding Tool](https://dev.to/andrewbaisden/anima-playground-vs-figma-make-choosing-the-right-vibe-coding-tool-3dhb)
+- [Understanding CI/CD Pipelines: The Modern Way to Build and Deploy Software](https://dev.to/dehemi_fabio/understanding-cicd-pipelines-the-modern-way-to-build-and-deploy-software-30l1)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;4286&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4286-3nko)
+- [The same supplier catalog issues, over and over again...](https://dev.to/irene_tsz/fixing-supplier-catalog-chaos-csvxlsxjson-with-yaml-cli-330)
 <!-- BLOG-POST-LIST:END -->
 
