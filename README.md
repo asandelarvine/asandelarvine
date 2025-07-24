@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Self-Updating AI Sales Agent for Using Perplexity Public Rooms](https://dev.to/alifar/how-i-built-a-self-updating-ai-sales-agent-for-using-perplexity-public-rooms-547h)
-- [Understanding Docker Buildx &amp; Builder: Modern Docker Builds with BuildKit](https://dev.to/lovestaco/understanding-docker-buildx-builder-modern-docker-builds-with-buildkit-1hd)
-- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
-- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
+- [From Concept to Community: The Story of Nestt](https://dev.to/cryptilly1/from-concept-to-community-the-story-of-nestt-k0c)
+- [Building a Complete Social Media Backend with Django - Part 2: Development Environment Setup](https://dev.to/samwitadhikary/building-a-complete-social-media-backend-with-django-part-2-development-environment-setup-50o1)
+- [How to create a virtual machine in Azure.](https://dev.to/cliffndee/how-to-create-a-virtual-machine-in-azure-h3j)
+- [Building Devu a platform to help devs contribute to open source without the overwhelm](https://dev.to/the_me/building-devu-a-platform-to-help-devs-contribute-to-open-source-without-the-overwhelm-3an6)
 <!-- BLOG-POST-LIST:END -->
 
