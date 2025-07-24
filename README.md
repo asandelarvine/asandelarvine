@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building APIs That Fail Silently: A Node.js Developer&#39;s Community Challenge](https://dev.to/arbythecoder/stop-building-apis-that-fail-silently-a-nodejs-developers-community-challenge-1moo)
-- [Creating a Credit Analysis API with Azure Functions in Java](https://dev.to/leandrofmarcos/creating-a-credit-analysis-api-with-azure-functions-in-java-28gm)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;4300&rpar;](https://dev.to/member_8c78b76f/resource-management-and-memory-efficiency-in-web-servers4300-fp7)
-- [Always Version-Control Your Lock Files](https://dev.to/fstrube/always-version-control-your-lock-files-k88)
+- [What&#39;s new in Surrealist 3.5](https://dev.to/surrealdb/whats-new-in-surrealist-35-3af1)
+- [🛠️ Setting Up Fusio as an API Gateway for CRM &amp; LLM Microservices](https://dev.to/hilqia_kenda/setting-up-fusio-as-an-api-gateway-for-crm-llm-microservices-51l3)
+- [The Right to Be Human: Beyond AI and Optimization](https://dev.to/sammane1253/the-right-to-be-human-beyond-ai-and-optimization-kd9)
+- [Learning Express.js Basics](https://dev.to/imrancodes/learning-expressjs-basics-1oo0)
 <!-- BLOG-POST-LIST:END -->
 
