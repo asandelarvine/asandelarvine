@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create ER Diagrams for SQLite with a Free Tool](https://dev.to/roxana_haidiner/how-to-create-er-diagrams-for-sqlite-with-a-free-tool-51e)
-- [Agentic AI: The Future of Autonomous Digital Intelligence in 2025](https://dev.to/agami_tech_414cabb7522ea1/agentic-ai-the-future-of-autonomous-digital-intelligence-in-2025-76)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;4884&rpar;](https://dev.to/member_8c78b76f/error-handling-strategies-in-high-performance-web-servers4884-1dc7)
-- [How Web Browsers Work: A Developer&#39;s Deep Dive](https://dev.to/mohammad1105/how-web-browsers-work-a-developers-deep-dive-545d)
+- [Advanced Tailwind CSS Tricks for Clean &amp; Responsive UI](https://dev.to/dct_technology/advanced-tailwind-css-tricks-for-clean-responsive-ui-2k5g)
+- [🔐 Setting Up Headscale and Tailscale for Secure Private Networking: A Step-by-Step Guide](https://dev.to/shubhamkcloud/setting-up-headscale-and-tailscale-for-secure-private-networking-a-step-by-step-guide-2mo6)
+- [What is a paper capacitor?](https://dev.to/jingyun_cai_38872bff5f4ed/what-is-a-paper-capacitor-5ci6)
+- [Day 11: How to Create Animated Spinners Using Tailwind CSS](https://dev.to/ruqaiya_beguwala/day-11-how-to-create-animated-spinners-using-tailwind-css-4d69)
 <!-- BLOG-POST-LIST:END -->
 
