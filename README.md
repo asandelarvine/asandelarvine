@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Data Visualization in SaaS Products](https://dev.to/lollypopdesign/best-practices-for-data-visualization-in-saas-products-14dk)
-- [6 Timeless SQL Books for Software Engineers and Developers](https://dev.to/somadevtoo/6-timeless-sql-books-for-software-engineers-and-developers-4p78)
-- [Modern Server-Side Event Implementation&lpar;4424&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation4424-18dk)
-- [Write a Programming Language in a Weekend &lpar;Seriously&rpar; With Python](https://dev.to/devasservice/write-a-programming-language-in-a-weekend-seriously-with-python-3k70)
+- [Progressive Web Apps for eCommerce: A Game-Changer](https://dev.to/mitchelljhonson/progressive-web-apps-for-ecommerce-a-game-changer-4h9b)
+- [Web3 promised freedom. But why does it still feel broken?&quot;](https://dev.to/omniradhanexus/web3-promised-freedom-but-why-does-it-still-feel-broken-2f1i)
+- [Emotional Design: The Secret to Impactful Storytelling](https://dev.to/lollypopdesign/emotional-design-the-secret-to-impactful-storytelling-5gj2)
+- [Steps to Migrate to Google Play App Signing](https://dev.to/ayon_ssp/steps-to-migrate-to-google-play-app-signing-770)
 <!-- BLOG-POST-LIST:END -->
 
