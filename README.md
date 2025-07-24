@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Descompilando softwares que você usa todos os dias](https://dev.to/leoferreiralima/descompilando-softwares-que-voce-usa-todos-os-dias-2366)
-- [I made a QR code website, but no one visits it. Can anyone give me some suggestions? What went wrong?](https://dev.to/mkstudio/i-made-a-qr-code-website-but-no-one-visits-it-can-anyone-give-me-some-suggestions-what-went-1eip)
-- [RK3588 for Programming: A Powerful SBC for Developers](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-for-programming-a-powerful-sbc-for-developers-2dp9)
-- [Production-Ready? Really?? Or Just Copious Amounts of Glue &amp; Duct-Tape? | The Lovable Reality Check](https://dev.to/d2d_weizhi/production-ready-really-or-just-copious-amounts-of-glue-duct-tape-the-lovable-reality-check-2d99)
+- [How Do Signatures and Malleability Impact Web3 Security?](https://dev.to/metana/how-do-signatures-and-malleability-impact-web3-security-4fgd)
+- [Function to creaes better charts](https://dev.to/armaankhan8270/function-to-creaes-better-charts-no9)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;0566&rpar;](https://dev.to/member_8c78b76f/dynamic-routing-systems-for-scalable-web-applications0566-3i0g)
+- [𝗟𝗼𝗼𝗽𝘆 👾](https://dev.to/shinnthant_jr/-j28)
 <!-- BLOG-POST-LIST:END -->
 
