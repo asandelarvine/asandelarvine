@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Instant APIs with Azure Data API Builder](https://dev.to/saboor_ahmedawan_8268070/unlocking-instant-apis-with-azure-data-api-builder-5e25)
-- [5 Steps to Catch Up After the European Accessibility Act &lpar;EAA&rpar; Deadline](https://dev.to/getwcag/5-steps-to-catch-up-after-the-european-accessibility-act-eaa-deadline-29gf)
-- [2025 Complete Guide: Qwen3-235B-A22B-Thinking-2507 - The New Benchmark for Open-Source Thinking Models](https://dev.to/czmilo/2025-complete-guide-qwen3-235b-a22b-thinking-2507-the-new-benchmark-for-open-source-thinking-419d)
-- [AI Coding Tools Showdown: GitHub Copilot vs The New Challengers](https://dev.to/zblack/ai-coding-tools-showdown-github-copilot-vs-the-new-challengers-4pjn)
+- [Building a Modern Image Pipeline: From Upload to Optimization in 2025](https://dev.to/hardik_b2d8f0bca/building-a-modern-image-pipeline-from-upload-to-optimization-in-2025-219j)
+- [Filtering Lines with `grep` in Helix Editor](https://dev.to/gokayburuc/filtering-lines-with-grep-in-helix-editor-pnb)
+- [Why Go’s Simplicity Is Its Greatest Engineering Strength](https://dev.to/xinjie_zou_d67d2805538130/why-gos-simplicity-is-its-greatest-engineering-strength-33k)
+- [Your Money, Their Syntax: How LLMs Write Trust into Empty Crypto Promises](https://dev.to/agustin_v_startari/your-money-their-syntax-how-llms-write-trust-into-empty-crypto-promises-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
