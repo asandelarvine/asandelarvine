@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Google Anti-Trust Case Kill Mozilla ?](https://dev.to/avervaet/will-google-anti-trust-case-kill-mozilla--20m0)
-- [Inside the Money Flow in Centralized Exchanges: MPC + TEE at Work](https://dev.to/anhp9669/inside-the-money-flow-in-centralized-exchanges-mpc-tee-at-work-2bfi)
-- [The Complete Company Landing Page - Holistic Webdev Challenge](https://dev.to/shinjithdev/the-complete-company-landing-page-holistic-webdev-challenge-2jaa)
-- [IC to EM Roadmap Series: Part 3: The Way of the Investigation – Agile &amp; Operations 💡🗓️](https://dev.to/mk_blogs/ic-to-em-roadmap-series-part-3-the-way-of-the-investigation-agile-operations-4l20)
+- [🚀 Building with Bolt: From Idea to Reality in 48 Hours](https://dev.to/anuj123upadhyay/building-with-bolt-from-idea-to-reality-in-48-hours-1eio)
+- [🚀 Building a Fully Automated Cloud Monitoring &amp; Logging Infrastructure on AWS](https://dev.to/david_oyewole/building-a-fully-automated-cloud-monitoring-logging-infrastructure-on-aws-ani)
+- [It&#39;s really helpful. and the package is very lightweight. the detailed status message is a great addition.](https://dev.to/russell_ahmed/its-really-helpful-and-the-package-is-very-lightweight-the-detailed-status-message-is-a-great-2o02)
+- [How I Built LaunchChecklist.pro — A Simple SaaS for Planning Product Launches](https://dev.to/magno_x0/how-i-built-launchchecklistpro-a-simple-saas-for-planning-product-launches-81m)
 <!-- BLOG-POST-LIST:END -->
 
