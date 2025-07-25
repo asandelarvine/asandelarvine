@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Office Has Left Orbit – Only CSS Challenge.](https://dev.to/aurelien404/the-office-has-left-orbit-only-css-challenge-3hhf)
-- [🚀 We’re on Discord now! The dropzone for builders, learners &amp; doers. General-chat: https://discord.gg/d7MASj3Wfv hyderabad_events: https://discord.gg/gVRyp2Kq WA Channel: https://whatsapp.com/channel/0029Vb7dohRLI8YdaiqwVa3A](https://dev.to/draftr_hyd/were-on-discord-now-the-dropzone-for-builders-learners-doers-general-chat-2kio)
-- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
-- [Why I’m Starting to Prefer AI-Native IDEs Over Traditional Ones](https://dev.to/arkhan/why-im-starting-to-prefer-ai-native-ides-over-traditional-ones-101e)
+- [Day 17 of my JAVA FULL STACK Development Learning Journey:HTML&amp;CSS](https://dev.to/dinesh_g_909f4a82c67f5bbd/day-17-of-my-java-full-stack-development-learning-journeyhtmlcss-23oj)
+- [Modern Data Warehousing: Principles, Design, and Best Practices](https://dev.to/kemboijebby/modern-data-warehousing-principles-design-and-best-practices-4a6k)
+- [Transforme seus testes de .NET em um painel visual com Coverlet + GitHub Actions](https://dev.to/guilhermeloyola/gerando-relatorio-de-cobertura-de-testes-de-um-projeto-em-net-com-coverlet-github-actions-4b70)
+- [Gerando Relatório de Cobertura de Testes de um projeto em .NET com Coverlet + GitHub Actions](https://dev.to/guilhermeloyola/gerando-relatorio-de-cobertura-de-testes-de-um-projeto-em-net-com-coverlet-github-actions-20hh)
 <!-- BLOG-POST-LIST:END -->
 
