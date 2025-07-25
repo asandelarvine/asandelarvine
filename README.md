@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17 of my JAVA FULL STACK Development Learning Journey:HTML&amp;CSS](https://dev.to/dinesh_g_909f4a82c67f5bbd/day-17-of-my-java-full-stack-development-learning-journeyhtmlcss-23oj)
-- [Modern Data Warehousing: Principles, Design, and Best Practices](https://dev.to/kemboijebby/modern-data-warehousing-principles-design-and-best-practices-4a6k)
-- [Transforme seus testes de .NET em um painel visual com Coverlet + GitHub Actions](https://dev.to/guilhermeloyola/gerando-relatorio-de-cobertura-de-testes-de-um-projeto-em-net-com-coverlet-github-actions-4b70)
-- [Gerando Relatório de Cobertura de Testes de um projeto em .NET com Coverlet + GitHub Actions](https://dev.to/guilhermeloyola/gerando-relatorio-de-cobertura-de-testes-de-um-projeto-em-net-com-coverlet-github-actions-20hh)
+- [Here comes the troll &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656)
+- [Behind the Scenes of Microservices: Load Balancers &amp; API Gateways Explained](https://dev.to/omkarsharma2821/behind-the-scenes-of-microservices-load-balancers-api-gateways-explained-2cce)
+- [Build a Microservice to Monitor SSL](https://dev.to/ivanrochacardoso/build-a-microservice-to-monitor-ssl-1af)
+- [Merge 2 Sorted LinkedLists!](https://dev.to/spiderbird/merge-2-sorted-linkedlists-2414)
 <!-- BLOG-POST-LIST:END -->
 
