@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From &#39;Coming Soon... Maybe&#39; to Actually Shipping: A 2-Year Dev Journey](https://dev.to/ujjwalvivek/from-coming-soon-maybe-to-actually-shipping-a-2-year-dev-journey-2ige)
-- [[Boost]](https://dev.to/massoudstar/-16f7)
-- [Running PostgreSQL in Docker with Persistent Volume](https://dev.to/lovestaco/running-postgresql-in-docker-with-persistent-volume-4joe)
-- [Day 12 striver sheet](https://dev.to/kushal_jangra_1530f71f25c/day-11-striver-sheet-55gd)
+- [The Office Has Left Orbit – Only CSS Challenge.](https://dev.to/aurelien404/the-office-has-left-orbit-only-css-challenge-3hhf)
+- [🚀 We’re on Discord now! The dropzone for builders, learners &amp; doers. General-chat: https://discord.gg/d7MASj3Wfv hyderabad_events: https://discord.gg/gVRyp2Kq WA Channel: https://whatsapp.com/channel/0029Vb7dohRLI8YdaiqwVa3A](https://dev.to/draftr_hyd/were-on-discord-now-the-dropzone-for-builders-learners-doers-general-chat-2kio)
+- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
+- [Why I’m Starting to Prefer AI-Native IDEs Over Traditional Ones](https://dev.to/arkhan/why-im-starting-to-prefer-ai-native-ides-over-traditional-ones-101e)
 <!-- BLOG-POST-LIST:END -->
 
