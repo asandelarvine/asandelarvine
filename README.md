@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
-- [We submitted the same app in the bolt Hackathon!](https://dev.to/davidos366/we-submitted-the-same-app-in-the-bolt-hackathon-2cgl)
-- [Ansible Path Experiment: Hands-On Labs for Groups Inventory &amp; Apt Module on Ubuntu](https://dev.to/labex/ansible-path-experiment-hands-on-labs-for-groups-inventory-apt-module-on-ubuntu-3k0j)
-- [Our First Product! - ZUBO](https://dev.to/davidos366/our-first-product-zubo-1nfh)
+- [From &#39;Coming Soon... Maybe&#39; to Actually Shipping: A 2-Year Dev Journey](https://dev.to/ujjwalvivek/from-coming-soon-maybe-to-actually-shipping-a-2-year-dev-journey-2ige)
+- [[Boost]](https://dev.to/massoudstar/-16f7)
+- [Running PostgreSQL in Docker with Persistent Volume](https://dev.to/lovestaco/running-postgresql-in-docker-with-persistent-volume-4joe)
+- [Day 12 striver sheet](https://dev.to/kushal_jangra_1530f71f25c/day-11-striver-sheet-55gd)
 <!-- BLOG-POST-LIST:END -->
 
