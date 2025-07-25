@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Old-School Office, Modern CSS: My Axero Challenge Submission](https://dev.to/navin_kumar_r/old-school-office-modern-css-my-axero-challenge-submission-b28)
-- [Phase-2 Experience of Building my Freelance Platform](https://dev.to/rmohitjoe/phase-2-experience-of-building-my-freelance-platform-1c29)
-- [Interactive Retro Office Desk](https://dev.to/navin_kumar_r/interactive-retro-office-desk-2egm)
-- [🚀 Modern Intranet Dashboard UI Built for the Axero Frontend Challenge](https://dev.to/hadil/modern-intranet-dashboard-ui-built-for-the-axero-frontend-challenge-2am8)
+- [Building a useWindowSize Hook from Scratch](https://dev.to/childrentime/building-a-usewindowsize-hook-from-scratch-a0f)
+- [From Chaos to Control: How We Built Classent to Transform Car Wash Operations with Bolt](https://dev.to/jefftheuri/from-car-chaos-to-control-building-classent-on-bolt-for-the-future-of-auto-wash-operations-4m2k)
+- [Best AI Code Generators You Should Know If You Want To Stay Ahead🚀](https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k)
+- [Python Izoh](https://dev.to/muhamadayubuzbdev/python-izoh-181l)
 <!-- BLOG-POST-LIST:END -->
 
