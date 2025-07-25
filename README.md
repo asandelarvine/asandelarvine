@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building with Bolt: From Idea to Reality in 48 Hours](https://dev.to/anuj123upadhyay/building-with-bolt-from-idea-to-reality-in-48-hours-1eio)
-- [🚀 Building a Fully Automated Cloud Monitoring &amp; Logging Infrastructure on AWS](https://dev.to/david_oyewole/building-a-fully-automated-cloud-monitoring-logging-infrastructure-on-aws-ani)
-- [It&#39;s really helpful. and the package is very lightweight. the detailed status message is a great addition.](https://dev.to/russell_ahmed/its-really-helpful-and-the-package-is-very-lightweight-the-detailed-status-message-is-a-great-2o02)
-- [How I Built LaunchChecklist.pro — A Simple SaaS for Planning Product Launches](https://dev.to/magno_x0/how-i-built-launchchecklistpro-a-simple-saas-for-planning-product-launches-81m)
+- [Copilot for .NET: Ask Mode vs Agent Mode and How to Use Them](https://dev.to/morteza-jangjoo/copilot-for-net-ask-mode-vs-agent-mode-and-how-to-use-them-1j7a)
+- [How to Change Hostname on Linux](https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l)
+- [How Web3 Projects Plan to Challenge Big Tech in the AI Arms Race](https://dev.to/philip_crypto92/how-web3-projects-plan-to-challenge-big-tech-in-the-ai-arms-race-3d80)
+- [Managed Cloud Services: Your Secret Weapon or a Costly Mistake?](https://dev.to/ryan_foster/managed-cloud-services-your-secret-weapon-or-a-costly-mistake-293b)
 <!-- BLOG-POST-LIST:END -->
 
