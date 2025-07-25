@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Textrix – An Open-Source Medium.com-Style Editor for Publishing Platforms](https://dev.to/abdo-mh/introducing-textrix-an-open-source-mediumcom-style-editor-for-publishing-platforms-43md)
-- [Async in JavaScript, Served Hot: The Chef’s guide to the Event Loop](https://dev.to/atheodosiou/async-in-javascript-served-hot-the-chefs-guide-to-the-event-loop-536a)
-- [Modern Server-Side Event Implementation&lpar;5591&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation5591-4lha)
-- [🛡️ Elimina secretos, escanea dependencias y duerme tranquilo: Así funciona un pipeline moderno DevSecOps](https://dev.to/francotel/elimina-secretos-escanea-dependencias-y-duerme-tranquilo-asi-funciona-un-pipeline-moderno-27d3)
+- [MicroVMs Over Containers: A Safer Execution Path for AI Agents](https://dev.to/om_shree_0709/microvms-over-containers-a-safer-execution-path-for-ai-agents-3clj)
+- [Unveiling the Secrets of Your Data: A Deep Dive into Descriptive Statistics](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-secrets-of-your-data-a-deep-dive-into-descriptive-statistics-4hh4)
+- [Nuxt 4: EASY Starting Fresh with a New Project &lpar;Not Upgrading from Nuxt 3&rpar;](https://dev.to/mikixit/nuxt-4-easy-starting-fresh-with-a-new-project-not-upgrading-from-nuxt-3-3fnc)
+- [AI Ticket Summarizer: How to Add AI Features to Your Web or SaaS App &lpar;Without Training a Model&rpar;](https://dev.to/rishisingh007/ai-ticket-summarizer-how-to-add-ai-features-to-your-web-or-saas-app-without-training-a-model-242l)
 <!-- BLOG-POST-LIST:END -->
 
