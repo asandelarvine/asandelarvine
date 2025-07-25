@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here comes the troll &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656)
-- [Behind the Scenes of Microservices: Load Balancers &amp; API Gateways Explained](https://dev.to/omkarsharma2821/behind-the-scenes-of-microservices-load-balancers-api-gateways-explained-2cce)
-- [Build a Microservice to Monitor SSL](https://dev.to/ivanrochacardoso/build-a-microservice-to-monitor-ssl-1af)
-- [Merge 2 Sorted LinkedLists!](https://dev.to/spiderbird/merge-2-sorted-linkedlists-2414)
+- [Docker for QAs: Playwright Tests On Docker](https://dev.to/rodrigoobc/docker-for-qas-playwright-tests-on-docker-46cj)
+- [Just connected my Twitter to dev.to! Follow along @sanstack as I share and engage in backend engineering insights, Adobe Ecommerce &lpar;magento2&rpar; explorations, and the occasional tech rants that spark real solutions. Let’s build better, smarter. #DevCommunity](https://dev.to/devsa/just-connected-my-twitter-to-devto-follow-along-sanstack-as-i-share-and-engage-in-backend-32l9)
+- [Day 5. Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/udoh_deborah_b1e484c474bf/day-5-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2pbc)
+- [Guidelines on Providing Storage for a New Company App Part 2](https://dev.to/aneneemmanuel_1/guidelines-on-providing-storage-for-a-new-company-app-part-2-1j37)
 <!-- BLOG-POST-LIST:END -->
 
