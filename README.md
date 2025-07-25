@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MicroVMs Over Containers: A Safer Execution Path for AI Agents](https://dev.to/om_shree_0709/microvms-over-containers-a-safer-execution-path-for-ai-agents-3clj)
-- [Unveiling the Secrets of Your Data: A Deep Dive into Descriptive Statistics](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-secrets-of-your-data-a-deep-dive-into-descriptive-statistics-4hh4)
-- [Nuxt 4: EASY Starting Fresh with a New Project &lpar;Not Upgrading from Nuxt 3&rpar;](https://dev.to/mikixit/nuxt-4-easy-starting-fresh-with-a-new-project-not-upgrading-from-nuxt-3-3fnc)
-- [AI Ticket Summarizer: How to Add AI Features to Your Web or SaaS App &lpar;Without Training a Model&rpar;](https://dev.to/rishisingh007/ai-ticket-summarizer-how-to-add-ai-features-to-your-web-or-saas-app-without-training-a-model-242l)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
+- [Backtesting lib Hi devs and traders I recently built a lightweight, backtesting library in Python, aimed at helping devs quickly test trading strategies using historical data – whether you&#39;re building a trading dashboard or running simulations. 🔗 GitHub](https://dev.to/ung_nguyen_20a9419b702370/backtesting-lib-hi-devs-and-traders-i-recently-built-a-lightweight-backtesting-library-in-e55)
+- [VIBE = Vulnerability In Beta Environment](https://dev.to/sadiga80/vibe-vulnerability-in-beta-environment-4aa8)
+- [Running Serverless Wasm Functions on the Edge with k3s and SpinKube](https://dev.to/fermyon/running-serverless-wasm-functions-on-the-edge-with-k3s-and-spinkube-chi)
 <!-- BLOG-POST-LIST:END -->
 
