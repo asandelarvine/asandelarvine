@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP: toward Generics](https://dev.to/spo0q/php-toward-generics-3cl1)
-- [Best Insurance Core Platforms in 2025](https://dev.to/openkoda/best-insurance-core-platforms-in-2025-1kfe)
-- [Stop Skimming Documentation](https://dev.to/kurealnum/stop-skimming-documentation-mbk)
-- [Massgrave Activation Scripts Deep Dive Origin Technology and Usage Guide](https://dev.to/windows11key/massgrave-activation-scripts-deep-dive-origin-technology-and-usage-guide-2oeb)
+- [Understanding JavaScript naming best practices](https://dev.to/aryan_shourie/understanding-javascript-naming-best-practices-29i3)
+- [Learning Web3 from the Ground Up: Understanding Ethereum](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-understanding-ethereum-2hlb)
+- [Construindo Doodle Jump in C++](https://dev.to/mrpunkdasilva/construindo-doodle-jump-in-c-5pi)
+- [How One Line of Code Almost Cost My Client Their OpenAI Credits](https://dev.to/kagemanjoroge/how-one-line-of-code-almost-cost-my-client-their-openai-credits-385c)
 <!-- BLOG-POST-LIST:END -->
 
