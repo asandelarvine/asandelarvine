@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a useWindowSize Hook from Scratch](https://dev.to/childrentime/building-a-usewindowsize-hook-from-scratch-a0f)
-- [From Chaos to Control: How We Built Classent to Transform Car Wash Operations with Bolt](https://dev.to/jefftheuri/from-car-chaos-to-control-building-classent-on-bolt-for-the-future-of-auto-wash-operations-4m2k)
-- [Best AI Code Generators You Should Know If You Want To Stay Ahead🚀](https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k)
-- [Python Izoh](https://dev.to/muhamadayubuzbdev/python-izoh-181l)
+- [Will Google Anti-Trust Case Kill Mozilla ?](https://dev.to/avervaet/will-google-anti-trust-case-kill-mozilla--20m0)
+- [Inside the Money Flow in Centralized Exchanges: MPC + TEE at Work](https://dev.to/anhp9669/inside-the-money-flow-in-centralized-exchanges-mpc-tee-at-work-2bfi)
+- [The Complete Company Landing Page - Holistic Webdev Challenge](https://dev.to/shinjithdev/the-complete-company-landing-page-holistic-webdev-challenge-2jaa)
+- [IC to EM Roadmap Series: Part 3: The Way of the Investigation – Agile &amp; Operations 💡🗓️](https://dev.to/mk_blogs/ic-to-em-roadmap-series-part-3-the-way-of-the-investigation-agile-operations-4l20)
 <!-- BLOG-POST-LIST:END -->
 
