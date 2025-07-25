@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript naming best practices](https://dev.to/aryan_shourie/understanding-javascript-naming-best-practices-29i3)
-- [Learning Web3 from the Ground Up: Understanding Ethereum](https://dev.to/devsofmidnight/learning-web3-from-the-ground-up-understanding-ethereum-2hlb)
-- [Construindo Doodle Jump in C++](https://dev.to/mrpunkdasilva/construindo-doodle-jump-in-c-5pi)
-- [How One Line of Code Almost Cost My Client Their OpenAI Credits](https://dev.to/kagemanjoroge/how-one-line-of-code-almost-cost-my-client-their-openai-credits-385c)
+- [AI and Data Privacy: What Developers Need to Know About Governance](https://dev.to/alifar/ai-and-data-privacy-what-developers-need-to-know-about-governance-5ejn)
+- [Can It Change? Understanding Mutable and Immutable in JS](https://dev.to/sevaki_rajasekar_700822f9/can-it-change-understanding-mutable-and-immutable-in-js-270o)
+- [How TF i made An AI for motion graphics](https://dev.to/therealgabry/how-tf-i-made-an-ai-for-motion-graphics-p28)
+- [How to Make Your AI Agent Remember Things &lpar;Without a Database&rpar;](https://dev.to/vadym_info_polus/how-to-make-your-ai-agent-remember-things-without-a-database-lbb)
 <!-- BLOG-POST-LIST:END -->
 
