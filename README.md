@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for QAs: Playwright Tests On Docker](https://dev.to/rodrigoobc/docker-for-qas-playwright-tests-on-docker-46cj)
-- [Just connected my Twitter to dev.to! Follow along @sanstack as I share and engage in backend engineering insights, Adobe Ecommerce &lpar;magento2&rpar; explorations, and the occasional tech rants that spark real solutions. Let’s build better, smarter. #DevCommunity](https://dev.to/devsa/just-connected-my-twitter-to-devto-follow-along-sanstack-as-i-share-and-engage-in-backend-32l9)
-- [Day 5. Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/udoh_deborah_b1e484c474bf/day-5-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2pbc)
-- [Guidelines on Providing Storage for a New Company App Part 2](https://dev.to/aneneemmanuel_1/guidelines-on-providing-storage-for-a-new-company-app-part-2-1j37)
+- [How to update an Azure virtual network.](https://dev.to/cliffndee/how-to-update-an-azure-virtual-network-5hf6)
+- [CPUs, GPUs, NPUs, and TPUs: Choosing the Right Processing Unit for AI Workloads](https://dev.to/deepakgupta/cpus-gpus-npus-and-tpus-choosing-the-right-processing-unit-for-ai-workloads-29df)
+- [The Rise of Predictive Dispatching: How AI Is Reshaping Fleet Efficiency](https://dev.to/pelumi_ayomide_048561a48e/the-rise-of-predictive-dispatching-how-ai-is-reshaping-fleet-efficiency-30a6)
+- [Exploring Python 3.14&#39;s Zstandard Compression](https://dev.to/zeze1020/exploring-python-314s-zstandard-compression-59a)
 <!-- BLOG-POST-LIST:END -->
 
