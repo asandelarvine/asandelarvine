@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
-- [Backtesting lib Hi devs and traders I recently built a lightweight, backtesting library in Python, aimed at helping devs quickly test trading strategies using historical data – whether you&#39;re building a trading dashboard or running simulations. 🔗 GitHub](https://dev.to/ung_nguyen_20a9419b702370/backtesting-lib-hi-devs-and-traders-i-recently-built-a-lightweight-backtesting-library-in-e55)
-- [VIBE = Vulnerability In Beta Environment](https://dev.to/sadiga80/vibe-vulnerability-in-beta-environment-4aa8)
-- [Running Serverless Wasm Functions on the Edge with k3s and SpinKube](https://dev.to/fermyon/running-serverless-wasm-functions-on-the-edge-with-k3s-and-spinkube-chi)
+- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
+- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
+- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
+- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
 <!-- BLOG-POST-LIST:END -->
 
