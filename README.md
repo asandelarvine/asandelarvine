@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Data Privacy: What Developers Need to Know About Governance](https://dev.to/alifar/ai-and-data-privacy-what-developers-need-to-know-about-governance-5ejn)
-- [Can It Change? Understanding Mutable and Immutable in JS](https://dev.to/sevaki_rajasekar_700822f9/can-it-change-understanding-mutable-and-immutable-in-js-270o)
-- [How TF i made An AI for motion graphics](https://dev.to/therealgabry/how-tf-i-made-an-ai-for-motion-graphics-p28)
-- [How to Make Your AI Agent Remember Things &lpar;Without a Database&rpar;](https://dev.to/vadym_info_polus/how-to-make-your-ai-agent-remember-things-without-a-database-lbb)
+- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
+- [We submitted the same app in the bolt Hackathon!](https://dev.to/davidos366/we-submitted-the-same-app-in-the-bolt-hackathon-2cgl)
+- [Ansible Path Experiment: Hands-On Labs for Groups Inventory &amp; Apt Module on Ubuntu](https://dev.to/labex/ansible-path-experiment-hands-on-labs-for-groups-inventory-apt-module-on-ubuntu-3k0j)
+- [Our First Product! - ZUBO](https://dev.to/davidos366/our-first-product-zubo-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
