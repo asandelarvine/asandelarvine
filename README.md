@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Partner with Flotiq: a strategy for long-term success](https://dev.to/flotiq/partner-with-flotiq-a-strategy-for-long-term-success-bej)
-- [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
-- [🧠 The Ultimate AI Showdown: Which Tools Actually Deliver in 2025?](https://dev.to/tahamjp/the-ultimate-ai-showdown-which-tools-actually-deliver-in-2025-45p3)
-- [✨ Automate Your ML Pipelines with MLFCrafter &lpar;Open Source&rpar;](https://dev.to/burakcvlk/automate-your-ml-pipelines-with-mlfcrafter-open-source-13p9)
+- [Unlocking Instant APIs with Azure Data API Builder](https://dev.to/saboor_ahmedawan_8268070/unlocking-instant-apis-with-azure-data-api-builder-5e25)
+- [5 Steps to Catch Up After the European Accessibility Act &lpar;EAA&rpar; Deadline](https://dev.to/getwcag/5-steps-to-catch-up-after-the-european-accessibility-act-eaa-deadline-29gf)
+- [2025 Complete Guide: Qwen3-235B-A22B-Thinking-2507 - The New Benchmark for Open-Source Thinking Models](https://dev.to/czmilo/2025-complete-guide-qwen3-235b-a22b-thinking-2507-the-new-benchmark-for-open-source-thinking-419d)
+- [AI Coding Tools Showdown: GitHub Copilot vs The New Challengers](https://dev.to/zblack/ai-coding-tools-showdown-github-copilot-vs-the-new-challengers-4pjn)
 <!-- BLOG-POST-LIST:END -->
 
