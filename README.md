@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
-- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
-- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
-- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
+- [Old-School Office, Modern CSS: My Axero Challenge Submission](https://dev.to/navin_kumar_r/old-school-office-modern-css-my-axero-challenge-submission-b28)
+- [Phase-2 Experience of Building my Freelance Platform](https://dev.to/rmohitjoe/phase-2-experience-of-building-my-freelance-platform-1c29)
+- [Interactive Retro Office Desk](https://dev.to/navin_kumar_r/interactive-retro-office-desk-2egm)
+- [🚀 Modern Intranet Dashboard UI Built for the Axero Frontend Challenge](https://dev.to/hadil/modern-intranet-dashboard-ui-built-for-the-axero-frontend-challenge-2am8)
 <!-- BLOG-POST-LIST:END -->
 
