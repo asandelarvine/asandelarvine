@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Image Pipeline: From Upload to Optimization in 2025](https://dev.to/hardik_b2d8f0bca/building-a-modern-image-pipeline-from-upload-to-optimization-in-2025-219j)
-- [Filtering Lines with `grep` in Helix Editor](https://dev.to/gokayburuc/filtering-lines-with-grep-in-helix-editor-pnb)
-- [Why Go’s Simplicity Is Its Greatest Engineering Strength](https://dev.to/xinjie_zou_d67d2805538130/why-gos-simplicity-is-its-greatest-engineering-strength-33k)
-- [Your Money, Their Syntax: How LLMs Write Trust into Empty Crypto Promises](https://dev.to/agustin_v_startari/your-money-their-syntax-how-llms-write-trust-into-empty-crypto-promises-4bdg)
+- [PHP: toward Generics](https://dev.to/spo0q/php-toward-generics-3cl1)
+- [Best Insurance Core Platforms in 2025](https://dev.to/openkoda/best-insurance-core-platforms-in-2025-1kfe)
+- [Stop Skimming Documentation](https://dev.to/kurealnum/stop-skimming-documentation-mbk)
+- [Massgrave Activation Scripts Deep Dive Origin Technology and Usage Guide](https://dev.to/windows11key/massgrave-activation-scripts-deep-dive-origin-technology-and-usage-guide-2oeb)
 <!-- BLOG-POST-LIST:END -->
 
