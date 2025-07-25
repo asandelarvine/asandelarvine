@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot for .NET: Ask Mode vs Agent Mode and How to Use Them](https://dev.to/morteza-jangjoo/copilot-for-net-ask-mode-vs-agent-mode-and-how-to-use-them-1j7a)
-- [How to Change Hostname on Linux](https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l)
-- [How Web3 Projects Plan to Challenge Big Tech in the AI Arms Race](https://dev.to/philip_crypto92/how-web3-projects-plan-to-challenge-big-tech-in-the-ai-arms-race-3d80)
-- [Managed Cloud Services: Your Secret Weapon or a Costly Mistake?](https://dev.to/ryan_foster/managed-cloud-services-your-secret-weapon-or-a-costly-mistake-293b)
+- [Partner with Flotiq: a strategy for long-term success](https://dev.to/flotiq/partner-with-flotiq-a-strategy-for-long-term-success-bej)
+- [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
+- [🧠 The Ultimate AI Showdown: Which Tools Actually Deliver in 2025?](https://dev.to/tahamjp/the-ultimate-ai-showdown-which-tools-actually-deliver-in-2025-45p3)
+- [✨ Automate Your ML Pipelines with MLFCrafter &lpar;Open Source&rpar;](https://dev.to/burakcvlk/automate-your-ml-pipelines-with-mlfcrafter-open-source-13p9)
 <!-- BLOG-POST-LIST:END -->
 
