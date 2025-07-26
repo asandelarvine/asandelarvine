@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get started with ricing on Linux?](https://dev.to/_frozen_infinity_/how-to-get-started-with-ricing-on-linux-1l9d)
-- [Ramparts: Your AI&#39;s New Security Guard for MCP Servers!](https://dev.to/githubopensource/ramparts-your-ais-new-security-guard-for-mcp-servers-1hfb)
-- [TaskFlow Engine - Distributed Workflow Management with Redis Streams &amp; Search](https://dev.to/ariondev/taskflow-engine-distributed-workflow-management-with-redis-streams-search-3h)
-- [SocialSync - Multi-Platform Social Media Aggregator with Redis Search &amp; Streams](https://dev.to/ariondev/socialsync-multi-platform-social-media-aggregator-with-redis-search-streams-1m5j)
+- [Structured logging using .NET Aspire orchestration for graphql APIs](https://dev.to/extinctsion/structured-logging-using-net-aspire-orchestration-for-graphql-apis-44c)
+- [How to Set Up a Next.js Project with TypeScript and Tailwind CSS](https://dev.to/rhythmsaha/how-to-set-up-a-nextjs-project-with-typescript-and-tailwind-css-2hk7)
+- [RealtimeAI Assistant - Voice-Powered Semantic Search with Redis Vector Engine](https://dev.to/ariondev/realtimeai-assistant-voice-powered-semantic-search-with-redis-vector-engine-2k7d)
+- [🧠 AI-Powered Quote Finder – Discover the Wisdom of Your Favorite Characters](https://dev.to/imkarthikeyan/ai-powered-quote-finder-discover-the-wisdom-of-your-favorite-characters-k68)
 <!-- BLOG-POST-LIST:END -->
 
