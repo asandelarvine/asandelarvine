@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Secure Subnet for FTP Traffic in Azure — My First Network Task](https://dev.to/peter_samuel_052b9056e236/creating-a-secure-subnet-for-ftp-traffic-in-azure-my-first-network-task-2o6f)
-- [The Hidden Challenge of Contradictory Requirements in Development Projects](https://dev.to/accioprocurement/the-hidden-challenge-of-contradictory-requirements-in-development-projects-109f)
-- [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
-- [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
+- [CSS Multiple Columns: Build Layouts Like a Magazine](https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04)
+- [Skeleton loading with dynamic search results from API response](https://dev.to/alejandrobovino/skeleton-loading-with-dynamic-search-results-from-api-response-2cmm)
+- [From Cajon Jams to Code: Learning m3u8 and Subtitles with My Kids](https://dev.to/shinya_yoshida_640f423ef2/from-cajon-jams-to-code-learning-m3u8-and-subtitles-with-my-kids-1k78)
+- [Building Developer Tools for Context Engineering: What Manus Taught Us and What We&#39;re Building](https://dev.to/contextspace_/building-developer-tools-for-context-engineering-what-manus-taught-us-and-what-were-building-23pn)
 <!-- BLOG-POST-LIST:END -->
 
