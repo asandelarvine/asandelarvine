@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Assign Users to Teams and Queues in Power Automate Using Perform a Bound Action](https://dev.to/nikhildynamicsce/assign-users-to-teams-and-queues-in-power-automate-using-perform-a-bound-action-3k8d)
-- [Is Everything in JavaScript an Object?](https://dev.to/codebyturkan/is-everything-in-javascript-an-object-32k)
-- [Visualize Like a Pro: Unlocking the Power of Matplotlib in Python](https://dev.to/rishabhtpt/visualize-like-a-pro-unlocking-the-power-of-matplotlib-in-python-5d23)
-- [Beyond the Click: The Rise of Autonomous Software Testing in 2025](https://dev.to/vaibhavkuls/beyond-the-click-the-rise-of-autonomous-software-testing-in-2025-3l17)
+- [What Clients Really Look For in a Technical Consultant](https://dev.to/yaqoob3322/what-clients-really-look-for-in-a-technical-consultant-27ek)
+- [Hi Devs, I&#39;m Rohit – Writing Git &amp; SQL for Beginners”](https://dev.to/rohit_kumar_0193e4393f4bb/hi-devs-im-rohit-writing-git-sql-for-beginners-2ac8)
+- [U](https://dev.to/zakibasalamah/u-45j5)
+- [How to Use Power Apps Plan Designer to Document and Improve Your Solution](https://dev.to/nikhildynamicsce/how-to-use-power-apps-plan-designer-to-document-and-improve-your-solution-59co)
 <!-- BLOG-POST-LIST:END -->
 
