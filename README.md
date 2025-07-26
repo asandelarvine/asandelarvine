@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Blockspace in Blockchains](https://dev.to/danielkestrel/understanding-blockspace-in-blockchains-3c85)
-- [Exploring Css units beyond px](https://dev.to/electrondome/exploring-css-units-beyond-px-46g6)
-- [AssemblyAI Voice Agents: High-Accuracy Batch STT Assistant](https://dev.to/bahadir_ciloglu_3627b3625/assemblyai-voice-agents-high-accuracy-batch-stt-assistant-5d21)
-- [Smart Document Hub - Algolia MCP Server Challenge](https://dev.to/sakshi_srivastava/smart-document-hub-algolia-mcp-server-challenge-57d7)
+- [From Frustration to Innovation: How Building a Dyslexia-Friendly Worksheet Creator Changed Everything](https://dev.to/gabbardumps/from-frustration-to-innovation-how-building-a-dyslexia-friendly-worksheet-creator-changed-mh8)
+- [You Thought Backend Development Was Rocket Science? 🤣](https://dev.to/fonyuygita/you-thought-backend-development-was-rocket-science-3cm7)
+- [Redis-Powered AI Grievance Resolver](https://dev.to/aws_1_27d6cbc9e944aa228ef/redis-powered-ai-grievance-resolver-4i0)
+- [Working with HTML Elements in TypeScript: A Complete Guide&lpar;13&rpar;](https://dev.to/wisdombits/working-with-html-elements-in-typescript-a-complete-guide13-1b3k)
 <!-- BLOG-POST-LIST:END -->
 
