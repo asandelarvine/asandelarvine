@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps with Github Actions and ArgoCD](https://dev.to/subham_behera/devsecops-with-github-actions-and-argocd-48c6)
-- [Query Smarter, Not Harder](https://dev.to/yogi_rahul/query-smarter-not-harder-ci5)
-- [My Best Web Development and Design Resources for 2025](https://dev.to/shatlyk/my-best-web-development-and-design-resources-for-2025-n3c)
-- [Deploy Node.js app anywhere with TurboCloud](https://dev.to/turbocloud_dev/deploy-nodejs-app-anywhere-with-turbocloud-2pji)
+- [Gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-13o4)
+- [🐳 Using docker for DL MLOps for the first time](https://dev.to/utk7arsh/using-docker-for-dl-mlops-for-the-first-time-1ihm)
+- [Mastering Consistency: Best Practices for Follow Consistent Naming Conventions](https://dev.to/vjnvisakh/mastering-consistency-best-practices-for-follow-consistent-naming-conventions-i9h)
+- [A mighty web application that devours English descriptions and spits out perfect regular expressions using AI!](https://dev.to/raj_nick_f876e59afa93931b/a-mighty-web-application-that-devours-english-descriptions-and-spits-out-perfect-regular-382g)
 <!-- BLOG-POST-LIST:END -->
 
