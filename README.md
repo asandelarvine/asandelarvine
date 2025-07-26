@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Structured logging using .NET Aspire orchestration for graphql APIs](https://dev.to/extinctsion/structured-logging-using-net-aspire-orchestration-for-graphql-apis-44c)
-- [How to Set Up a Next.js Project with TypeScript and Tailwind CSS](https://dev.to/rhythmsaha/how-to-set-up-a-nextjs-project-with-typescript-and-tailwind-css-2hk7)
-- [RealtimeAI Assistant - Voice-Powered Semantic Search with Redis Vector Engine](https://dev.to/ariondev/realtimeai-assistant-voice-powered-semantic-search-with-redis-vector-engine-2k7d)
-- [🧠 AI-Powered Quote Finder – Discover the Wisdom of Your Favorite Characters](https://dev.to/imkarthikeyan/ai-powered-quote-finder-discover-the-wisdom-of-your-favorite-characters-k68)
+- [Set Up ESLint with Vite &lpar;React, React Hooks, and React Refresh&rpar;](https://dev.to/best_codes/set-up-eslint-with-vite-react-react-hooks-and-react-refresh-24pm)
+- [The Importance of Styling React Components](https://dev.to/hazrat-ali9/the-importance-of-styling-react-components-1ngm)
+- [🧑‍💻 HackerEarth for Developers — Let Your Code Do the Talking](https://dev.to/ml318097/hackerearth-for-developers-let-your-code-do-the-talking-43im)
+- [Beyond the Code - Community and Connections at WLH](https://dev.to/ariondev/beyond-the-code-community-and-connections-at-wlh-n88)
 <!-- BLOG-POST-LIST:END -->
 
