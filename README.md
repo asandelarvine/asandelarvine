@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clock In, Clock Out: Office Life through CSS Art](https://dev.to/pranamyark/clock-in-clock-out-office-life-through-css-art-3mmg)
-- [Design LinkedList](https://dev.to/prashantrmishra/design-linkedlist-4ih7)
-- [VibeCraft AI – Turn Your Mood Into a Moodboard](https://dev.to/trojanmocx/vibecraft-ai-turn-your-mood-into-a-moodboard-13m0)
-- [Beyond the Code: How the World&#39;s Largest Hackathon Transformed My Developer Community Experience](https://dev.to/ariondev/beyond-the-code-how-the-worlds-largest-hackathon-transformed-my-developer-community-experience-5c5o)
+- [How I Landed My Internship as an Undergraduate Student](https://dev.to/bdhamithkumara/how-i-landed-my-internship-as-an-undergraduate-student-53ij)
+- [Async_Dime Office Personalities](https://dev.to/async_dime/asyncdime-office-personalities-k8i)
+- [Why Bluebox Is the Cloud Storage You’ve Been Waiting For &lpar;15GB Free — Forever&rpar;](https://dev.to/alagba/why-bluebox-is-the-cloud-storage-youve-been-waiting-for-15gb-free-forever-2e6j)
+- [✨🎨 Pure CSS Magic: How to Build a Realistic 3D Office Experience 🏢💻🪑](https://dev.to/mohamednizzad/pure-css-magic-how-to-build-a-realistic-3d-office-experience-h76)
 <!-- BLOG-POST-LIST:END -->
 
