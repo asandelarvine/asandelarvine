@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up ESLint with Vite &lpar;React, React Hooks, and React Refresh&rpar;](https://dev.to/best_codes/set-up-eslint-with-vite-react-react-hooks-and-react-refresh-24pm)
-- [The Importance of Styling React Components](https://dev.to/hazrat-ali9/the-importance-of-styling-react-components-1ngm)
-- [🧑‍💻 HackerEarth for Developers — Let Your Code Do the Talking](https://dev.to/ml318097/hackerearth-for-developers-let-your-code-do-the-talking-43im)
-- [Beyond the Code - Community and Connections at WLH](https://dev.to/ariondev/beyond-the-code-community-and-connections-at-wlh-n88)
+- [DEV Frontend Challenge](https://dev.to/aws_1_27d6cbc9e944aa228ef/dev-frontend-challenge-2321)
+- [Revenue Sharing Model: A Powerful Marketing Strategy for Token Presales](https://dev.to/marksantiago02/revenue-sharing-model-a-powerful-marketing-strategy-for-token-presales-3k48)
+- [MCP Servers That I Use as a Technical Founder](https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6)
+- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-be0)
 <!-- BLOG-POST-LIST:END -->
 
