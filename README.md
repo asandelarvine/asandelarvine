@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Frontend Challenge](https://dev.to/aws_1_27d6cbc9e944aa228ef/dev-frontend-challenge-2321)
-- [Revenue Sharing Model: A Powerful Marketing Strategy for Token Presales](https://dev.to/marksantiago02/revenue-sharing-model-a-powerful-marketing-strategy-for-token-presales-3k48)
-- [MCP Servers That I Use as a Technical Founder](https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6)
-- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-be0)
+- [Clock In, Clock Out: Office Life through CSS Art](https://dev.to/pranamyark/clock-in-clock-out-office-life-through-css-art-3mmg)
+- [Design LinkedList](https://dev.to/prashantrmishra/design-linkedlist-4ih7)
+- [VibeCraft AI – Turn Your Mood Into a Moodboard](https://dev.to/trojanmocx/vibecraft-ai-turn-your-mood-into-a-moodboard-13m0)
+- [Beyond the Code: How the World&#39;s Largest Hackathon Transformed My Developer Community Experience](https://dev.to/ariondev/beyond-the-code-how-the-worlds-largest-hackathon-transformed-my-developer-community-experience-5c5o)
 <!-- BLOG-POST-LIST:END -->
 
