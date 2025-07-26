@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Claude Code pattern that saves 5-minute daily:](https://dev.to/igorganapolsky/claude-code-pattern-that-saves-5-minute-daily-156c)
-- [PWC 331, 332 Odd last date letters, binary word list buddy](https://dev.to/boblied/pwc-331-332-odd-last-date-letters-binary-word-list-buddy-ib6)
-- [MLOps daily.](https://dev.to/riettah/mlops-daily-3a78)
-- [Understanding JavaScript Closures — The Secret Behind the Magic](https://dev.to/santan47/understanding-javascript-closures-the-secret-behind-the-magic-4m08)
+- [💎 Hidden Claude Code feature 90% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-90-of-devs-miss-2ph8)
+- [UI Improvements Pt. 1](https://dev.to/macglencoe/ui-improvements-pt-1-114n)
+- [💎 Hidden Claude Code feature 95% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-95-of-devs-miss-p39)
+- [🧑‍⚕️CareSetu AI: Instant Appointments, Intelligent Health Advice, and 24/7 Support Through Voice](https://dev.to/saket_jha_a89aca5daba5e8c/caresetu-ai-instant-appointments-intelligent-health-advice-and-247-support-through-voice-4o8a)
 <!-- BLOG-POST-LIST:END -->
 
