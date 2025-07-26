@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 VSCode extensions I can&#39;t work without](https://dev.to/mandarin-dev/10-vscode-extensions-i-cant-work-without-4kj0)
-- [How We Built Zero-Knowledge Encryption in the Browser &lpar;So We Can&#39;t Read Your Notes&rpar;](https://dev.to/typelets/how-we-built-zero-knowledge-encryption-in-the-browser-so-we-cant-read-your-notes-3c7a)
-- [Late Night Work #20](https://dev.to/0xj0n1/late-night-work-20-39pe)
-- [Git Guide to Delete Old Commits and Clear Sensitive Info from Git History](https://dev.to/chefgs/git-guide-to-delete-old-commits-and-clear-sensitive-files-from-git-history-4l71)
+- [🔥 Claude Code pattern that saves 5-minute daily:](https://dev.to/igorganapolsky/claude-code-pattern-that-saves-5-minute-daily-156c)
+- [PWC 331, 332 Odd last date letters, binary word list buddy](https://dev.to/boblied/pwc-331-332-odd-last-date-letters-binary-word-list-buddy-ib6)
+- [MLOps daily.](https://dev.to/riettah/mlops-daily-3a78)
+- [Understanding JavaScript Closures — The Secret Behind the Magic](https://dev.to/santan47/understanding-javascript-closures-the-secret-behind-the-magic-4m08)
 <!-- BLOG-POST-LIST:END -->
 
