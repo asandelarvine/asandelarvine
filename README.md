@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
-- [AI Recommendation Engine with Redis](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
-- [E-Commerce System Powered by Redis: Beyond the Cache](https://dev.to/cliffordisaboke/e-commerce-system-powered-by-redis-beyond-the-cache-mc1)
-- [Untitled](https://dev.to/nilda866/untitled-1f39)
+- [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
+- [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
+- [Automating YouTube Shorts with Python and AI](https://dev.to/gu1lh3rm3_x/automating-youtube-shorts-with-python-and-ai-4i3)
+- [Complete DevOps Roadmap: From Beginner to Advanced](https://dev.to/anshul_kichara/complete-devops-roadmap-from-beginner-to-advanced-2knb)
 <!-- BLOG-POST-LIST:END -->
 
