@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to update an Azure virtual network.](https://dev.to/cliffndee/how-to-update-an-azure-virtual-network-5hf6)
-- [CPUs, GPUs, NPUs, and TPUs: Choosing the Right Processing Unit for AI Workloads](https://dev.to/deepakgupta/cpus-gpus-npus-and-tpus-choosing-the-right-processing-unit-for-ai-workloads-29df)
-- [The Rise of Predictive Dispatching: How AI Is Reshaping Fleet Efficiency](https://dev.to/pelumi_ayomide_048561a48e/the-rise-of-predictive-dispatching-how-ai-is-reshaping-fleet-efficiency-30a6)
-- [Exploring Python 3.14&#39;s Zstandard Compression](https://dev.to/zeze1020/exploring-python-314s-zstandard-compression-59a)
+- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
+- [AI Recommendation Engine with Redis](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
+- [E-Commerce System Powered by Redis: Beyond the Cache](https://dev.to/cliffordisaboke/e-commerce-system-powered-by-redis-beyond-the-cache-mc1)
+- [Untitled](https://dev.to/nilda866/untitled-1f39)
 <!-- BLOG-POST-LIST:END -->
 
