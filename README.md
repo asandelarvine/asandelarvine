@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Frustration to Innovation: How Building a Dyslexia-Friendly Worksheet Creator Changed Everything](https://dev.to/gabbardumps/from-frustration-to-innovation-how-building-a-dyslexia-friendly-worksheet-creator-changed-mh8)
-- [You Thought Backend Development Was Rocket Science? 🤣](https://dev.to/fonyuygita/you-thought-backend-development-was-rocket-science-3cm7)
-- [Redis-Powered AI Grievance Resolver](https://dev.to/aws_1_27d6cbc9e944aa228ef/redis-powered-ai-grievance-resolver-4i0)
-- [Working with HTML Elements in TypeScript: A Complete Guide&lpar;13&rpar;](https://dev.to/wisdombits/working-with-html-elements-in-typescript-a-complete-guide13-1b3k)
+- [How to get started with ricing on Linux?](https://dev.to/_frozen_infinity_/how-to-get-started-with-ricing-on-linux-1l9d)
+- [Ramparts: Your AI&#39;s New Security Guard for MCP Servers!](https://dev.to/githubopensource/ramparts-your-ais-new-security-guard-for-mcp-servers-1hfb)
+- [TaskFlow Engine - Distributed Workflow Management with Redis Streams &amp; Search](https://dev.to/ariondev/taskflow-engine-distributed-workflow-management-with-redis-streams-search-3h)
+- [SocialSync - Multi-Platform Social Media Aggregator with Redis Search &amp; Streams](https://dev.to/ariondev/socialsync-multi-platform-social-media-aggregator-with-redis-search-streams-1m5j)
 <!-- BLOG-POST-LIST:END -->
 
