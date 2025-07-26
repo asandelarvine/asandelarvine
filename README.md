@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Landed My Internship as an Undergraduate Student](https://dev.to/bdhamithkumara/how-i-landed-my-internship-as-an-undergraduate-student-53ij)
-- [Async_Dime Office Personalities](https://dev.to/async_dime/asyncdime-office-personalities-k8i)
-- [Why Bluebox Is the Cloud Storage You’ve Been Waiting For &lpar;15GB Free — Forever&rpar;](https://dev.to/alagba/why-bluebox-is-the-cloud-storage-youve-been-waiting-for-15gb-free-forever-2e6j)
-- [✨🎨 Pure CSS Magic: How to Build a Realistic 3D Office Experience 🏢💻🪑](https://dev.to/mohamednizzad/pure-css-magic-how-to-build-a-realistic-3d-office-experience-h76)
+- [Novalink System](https://dev.to/melody_kelly_n/novalink-system-jc2)
+- [Remote Team Collaboration Made Easy](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
+- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
+- [What I Wish I Knew Earlier About Clean Architecture &lpar;from a PHP/Laravel Dev&rpar;](https://dev.to/emimaldo/what-i-wish-i-knew-earlier-about-clean-architecture-from-a-phplaravel-dev-5hn6)
 <!-- BLOG-POST-LIST:END -->
 
