@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Intrane -Modern PWA Dashboard](https://dev.to/paulo_abbcba03b4df70572fc/hybrid-intrane-modern-pwa-dashboard-4e08)
+- [Between Doing and Doing Well: A Quest for Effectiveness and Excellence](https://dev.to/gstxxx/between-doing-and-doing-well-a-quest-for-effectiveness-and-excellence-j78)
 - [Novalink System](https://dev.to/melody_kelly_n/novalink-system-jc2)
 - [Remote Team Collaboration Made Easy](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
-- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
-- [What I Wish I Knew Earlier About Clean Architecture &lpar;from a PHP/Laravel Dev&rpar;](https://dev.to/emimaldo/what-i-wish-i-knew-earlier-about-clean-architecture-from-a-phplaravel-dev-5hn6)
 <!-- BLOG-POST-LIST:END -->
 
