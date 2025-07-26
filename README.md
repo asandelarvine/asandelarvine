@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Clients Really Look For in a Technical Consultant](https://dev.to/yaqoob3322/what-clients-really-look-for-in-a-technical-consultant-27ek)
-- [Hi Devs, I&#39;m Rohit – Writing Git &amp; SQL for Beginners”](https://dev.to/rohit_kumar_0193e4393f4bb/hi-devs-im-rohit-writing-git-sql-for-beginners-2ac8)
-- [U](https://dev.to/zakibasalamah/u-45j5)
-- [How to Use Power Apps Plan Designer to Document and Improve Your Solution](https://dev.to/nikhildynamicsce/how-to-use-power-apps-plan-designer-to-document-and-improve-your-solution-59co)
+- [The Polymath Tool for All Your Audio and Document Needs](https://dev.to/watninja68/the-polymath-tool-for-all-your-audio-and-document-needs-1ej)
+- [🐳 Docker Multi-Stage Build - Complete Documentation](https://dev.to/dpvasani56/docker-multi-stage-build-complete-documentation-4990)
+- [Notes &amp; Cheatsheet: “Dockerizing an App – CKA Series #2”](https://dev.to/dpvasani56/notes-cheatsheet-dockerizing-an-app-cka-series-2-mo6)
+- [Beyond Git: Tools That Make Senior Developers Insanely Productive](https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m)
 <!-- BLOG-POST-LIST:END -->
 
