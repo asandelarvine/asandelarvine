@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update on How To Control storage access](https://dev.to/ajayid10/update-on-how-to-control-storage-access-45b6)
-- [What is Machine Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-machine-learning-4fpe)
-- [Understanding `kube-system` in Kubernetes: A City Analogy You’ll Never Forget](https://dev.to/deekay99/understanding-kube-system-in-kubernetes-a-city-analogy-youll-never-forget-2ek7)
-- [Hack Smarter, Not Harder: Engineering a Self Documenting Shell Framework](https://dev.to/gnomeman4201/hack-smarter-not-harder-engineering-a-self-documenting-shell-framework-642)
+- [My 5 Essential VS Code Extensions for Full-Stack Development](https://dev.to/rhythmsaha/my-5-essential-vs-code-extensions-for-full-stack-development-144n)
+- [Use LLamaIndex Workflow to Create an Ink Painting Style Image Generation Workflow](https://dev.to/qtalen/use-llamaindex-workflow-to-create-an-ink-painting-style-image-generation-workflow-2ln1)
+- [A few weeks ago, I built a Docker image for my personal portfolio project &lpar;a React app&rpar;. Everything worked fine — until I checked the size... 💣 1.5 GB! For a static frontend app?! I realized this could slow down deployment, consume more storage, and mak](https://dev.to/mrzaizai2k/a-few-weeks-ago-i-built-a-docker-image-for-my-personal-portfolio-project-a-react-app-everything-481d)
+- [Cache or Crash: Avoiding the Four Most Common Caching Pitfalls](https://dev.to/vinhha96/cache-or-crash-avoiding-the-four-most-common-caching-pitfalls-37ob)
 <!-- BLOG-POST-LIST:END -->
 
