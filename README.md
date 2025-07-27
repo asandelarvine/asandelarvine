@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💾 Mastering Mount Points: Your Guide to Linux Filesystem Management! ✨](https://dev.to/sahillearninglinux/mastering-mount-points-your-guide-to-linux-filesystem-management-m13)
-- [Database Locking Explained: Ensuring Integrity While Impacting Performance in Concurrent Systems](https://dev.to/adityabhuyan/database-locking-explained-ensuring-integrity-while-impacting-performance-in-concurrent-systems-275i)
-- [Why Every Engineer Needs Professional-Grade Electrical Tapes &lpar;and Where to Get Them&rpar;](https://dev.to/khaled_salman_ed43b93a1ae/why-every-engineer-needs-professional-grade-electrical-tapes-and-where-to-get-them-3fp6)
-- [How to Protect Yourself From Malicious Links: A Complete Guide](https://dev.to/freedom_coder/how-to-protect-yourself-from-malicious-links-a-complete-guide-2ma2)
+- [Pivoting in Internal Networks](https://dev.to/godofgeeks/pivoting-in-internal-networks-26cg)
+- [State Management Showdown: Signals, NgRx, RxJS - What to Choose and Why](https://dev.to/karol_modelski/state-management-showdown-signals-ngrx-rxjs-what-to-choose-and-why-9g4)
+- [🤖Understanding systemctl: The Heartbeat of Modern Linux](https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5)
+- [🎓 7 Smart ChatGPT Prompts Every Student Should Be Using in 2025!](https://dev.to/manasi_patil_/7-smart-chatgpt-prompts-every-student-should-be-using-in-2025-25od)
 <!-- BLOG-POST-LIST:END -->
 
