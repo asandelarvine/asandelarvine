@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💎 Hidden Claude Code feature 90% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-90-of-devs-miss-2ph8)
-- [UI Improvements Pt. 1](https://dev.to/macglencoe/ui-improvements-pt-1-114n)
-- [💎 Hidden Claude Code feature 95% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-95-of-devs-miss-p39)
-- [🧑‍⚕️CareSetu AI: Instant Appointments, Intelligent Health Advice, and 24/7 Support Through Voice](https://dev.to/saket_jha_a89aca5daba5e8c/caresetu-ai-instant-appointments-intelligent-health-advice-and-247-support-through-voice-4o8a)
+- [Update on How To Control storage access](https://dev.to/ajayid10/update-on-how-to-control-storage-access-45b6)
+- [What is Machine Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-machine-learning-4fpe)
+- [Understanding `kube-system` in Kubernetes: A City Analogy You’ll Never Forget](https://dev.to/deekay99/understanding-kube-system-in-kubernetes-a-city-analogy-youll-never-forget-2ek7)
+- [Hack Smarter, Not Harder: Engineering a Self Documenting Shell Framework](https://dev.to/gnomeman4201/hack-smarter-not-harder-engineering-a-self-documenting-shell-framework-642)
 <!-- BLOG-POST-LIST:END -->
 
