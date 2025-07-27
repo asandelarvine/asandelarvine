@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator predictor](https://dev.to/red_star_0412c2cbf4aca263/aviator-predictor-paa)
-- [Revolutionizing Retail: A Blockchain-Powered Loyalty and Transaction System with FastAPI + Ethereum](https://dev.to/shushantrishav/revolutionizing-retail-a-blockchain-powered-loyalty-and-transaction-system-with-fastapi-ethereum-2i72)
-- [CodeSage - MCP-First Code Discovery](https://dev.to/ntanwir10/codesage-mcp-first-code-discovery-322a)
-- [Enhance your Code Security with Amazon Inspector](https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no)
+- [Implementing Graphs in Golang Without Starting from Scratch](https://dev.to/ganesh-kumar/implementing-graphs-in-golang-without-starting-from-scratch-86h)
+- [Dynamic SSL Configuration for Spring Boot Applications in AWS](https://dev.to/zem_dev/dynamic-ssl-configuration-for-spring-boot-applications-in-aws-31eg)
+- [🚀 I Built a Resume + Portfolio Builder for Job Seekers – Meet EnteProfile](https://dev.to/roshan_mown/i-built-a-resume-portfolio-builder-for-job-seekers-meet-enteprofile-2fgn)
+- [Why the Best .NET Developers Avoid Excess Libraries—And You Should Too!](https://dev.to/shiv_darshanrathore_402a/why-the-best-net-developers-avoid-excess-libraries-and-you-should-too-4bia)
 <!-- BLOG-POST-LIST:END -->
 
