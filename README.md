@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 5 Essential VS Code Extensions for Full-Stack Development](https://dev.to/rhythmsaha/my-5-essential-vs-code-extensions-for-full-stack-development-144n)
-- [Use LLamaIndex Workflow to Create an Ink Painting Style Image Generation Workflow](https://dev.to/qtalen/use-llamaindex-workflow-to-create-an-ink-painting-style-image-generation-workflow-2ln1)
-- [A few weeks ago, I built a Docker image for my personal portfolio project &lpar;a React app&rpar;. Everything worked fine — until I checked the size... 💣 1.5 GB! For a static frontend app?! I realized this could slow down deployment, consume more storage, and mak](https://dev.to/mrzaizai2k/a-few-weeks-ago-i-built-a-docker-image-for-my-personal-portfolio-project-a-react-app-everything-481d)
-- [Cache or Crash: Avoiding the Four Most Common Caching Pitfalls](https://dev.to/vinhha96/cache-or-crash-avoiding-the-four-most-common-caching-pitfalls-37ob)
+- [simple ATM Project in Java-covering full CRUD &lpar;without DB, using console + Java basics&rpar;.](https://dev.to/neelakandan_ravi/simple-atm-project-in-java-covering-full-crud-without-db-using-console-java-basics-1mol)
+- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
+- [Retail Router: Prototype and Beyond](https://dev.to/sherry_brown/retail-router-vibe-coding-to-prototype-and-beyond-1dc4)
+- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
 <!-- BLOG-POST-LIST:END -->
 
