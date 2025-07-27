@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Processing Markdown in Python with mq](https://dev.to/harehare/processing-markdown-in-python-with-mq-2al5)
-- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-25f1)
-- [🧠💬 MindMeld – Your AI-Powered Mental Wellness Companion](https://dev.to/garg_garg_d33ddeb17c5d424/mindmeld-your-ai-powered-mental-wellness-companion-2d43)
-- [Public Suffix List](https://dev.to/daud99/public-suffix-list-2bo)
+- [Common Lisp: a command-line interactive terminal application in 2 lines](https://dev.to/vindarel/common-lisp-a-command-line-interactive-terminal-application-in-2-lines-2gnb)
+- [Vite for React SPA](https://dev.to/tak089/vite-for-react-spa-3do9)
+- [Embarrassing old projects.](https://dev.to/castawaymakesthings/embarrassing-old-projects-4aia)
+- [Why TypeScript Won &lpar;and You Should Just Give In Already&rpar;](https://dev.to/pranta/why-typescript-won-and-you-should-just-give-in-already-49k4)
 <!-- BLOG-POST-LIST:END -->
 
