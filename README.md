@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Nothing: Exploring Go&#39;s Empty Struct](https://dev.to/leapcell/the-power-of-nothing-exploring-gos-empty-struct-mj3)
-- [Beginner&#39;s Guide to SQL for Data Analysis](https://dev.to/nginacloud/beginners-guide-to-sql-for-data-analysis-27lg)
-- [great use of AI!](https://dev.to/techgirl1908/great-use-of-ai-6be)
-- [AI Hiring Bias: When Technology Perpetuates Inequality](https://dev.to/nour_elabed_998c5cf6add1/ai-hiring-bias-when-technology-perpetuates-inequality-3e9n)
+- [Dev containers not working? Check if you’re using Flatpak VS Code](https://dev.to/antek5421/dev-containers-not-working-check-if-youre-using-flatpak-vs-code-21c5)
+- [🚀 Criei uma biblioteca que gera tipos TypeScript automaticamente dos seus Models Laravel](https://dev.to/arnaldo/criei-uma-biblioteca-que-gera-tipos-typescript-automaticamente-dos-seus-models-laravel-3c08)
+- [Reducing Deadhead Miles with AI: A Hidden Win for Emissions in Freight](https://dev.to/tyler_allen_aa0af477fae91/reducing-deadhead-miles-with-ai-a-hidden-win-for-emissions-in-freight-1n8a)
+- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
 <!-- BLOG-POST-LIST:END -->
 
