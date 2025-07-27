@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Lisp: a command-line interactive terminal application in 2 lines](https://dev.to/vindarel/common-lisp-a-command-line-interactive-terminal-application-in-2-lines-2gnb)
-- [Vite for React SPA](https://dev.to/tak089/vite-for-react-spa-3do9)
-- [Embarrassing old projects.](https://dev.to/castawaymakesthings/embarrassing-old-projects-4aia)
-- [Why TypeScript Won &lpar;and You Should Just Give In Already&rpar;](https://dev.to/pranta/why-typescript-won-and-you-should-just-give-in-already-49k4)
+- [Python](https://dev.to/yasir_landur_7300786d7c8c/python-46nc)
+- [Website Monitoring &lpar;Golang&rpar;](https://dev.to/pardnchiu/website-monitoring-system-golang-1lfo)
+- [Understanding Promise Chaining](https://dev.to/pushkar8723/understanding-promise-chaining-4mhe)
+- [🎯 Pygame + Pymunk Collision Lab — tweak mass &amp; speed, watch the physics happen](https://dev.to/joseph_sen_794cde6a4dbccf/pygame-pymunk-collision-lab-tweak-mass-speed-watch-the-physics-happen-1fff)
 <!-- BLOG-POST-LIST:END -->
 
