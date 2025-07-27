@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Day, Slow Progress – But Still Moving #21](https://dev.to/0xj0n1/long-day-slow-progress-but-still-moving-21-co0)
-- [Mission 8: Interview Prep Part Two](https://dev.to/theoriginalbpc/mission-8-interview-prep-part-two-2i0k)
-- [Building OfficeTeamBoard: A Modern Kanban Solution for Remote Teams](https://dev.to/ai_agi/building-officeteamboard-a-modern-kanban-solution-for-remote-teams-11ae)
-- [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
+- [Protobuf vs JSON Explained: Speed, Size &amp; When to Use Each](https://dev.to/arnavsharma2711/protobuf-vs-json-explained-speed-size-when-to-use-each-5gg6)
+- [Vox A2: From Brazilian Concrete Poetry to Digital Communication Platform](https://dev.to/guilhermemachadoceo/vox-a2-from-brazilian-concrete-poetry-to-digital-communication-platform-43n6)
+- [How do your teams manage AI-generated code without losing control?](https://dev.to/jarzebowsky_dev/how-do-your-teams-manage-ai-generated-code-without-losing-control-4fdm)
+- [List of printable ASCII Characters](https://dev.to/wakeup_flower_8591a6cb6a9/list-of-printable-ascii-characters-2khm)
 <!-- BLOG-POST-LIST:END -->
 
