@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://dev.to/yasir_landur_7300786d7c8c/python-46nc)
-- [Website Monitoring &lpar;Golang&rpar;](https://dev.to/pardnchiu/website-monitoring-system-golang-1lfo)
-- [Understanding Promise Chaining](https://dev.to/pushkar8723/understanding-promise-chaining-4mhe)
-- [🎯 Pygame + Pymunk Collision Lab — tweak mass &amp; speed, watch the physics happen](https://dev.to/joseph_sen_794cde6a4dbccf/pygame-pymunk-collision-lab-tweak-mass-speed-watch-the-physics-happen-1fff)
+- [Aviator predictor](https://dev.to/red_star_0412c2cbf4aca263/aviator-predictor-paa)
+- [Revolutionizing Retail: A Blockchain-Powered Loyalty and Transaction System with FastAPI + Ethereum](https://dev.to/shushantrishav/revolutionizing-retail-a-blockchain-powered-loyalty-and-transaction-system-with-fastapi-ethereum-2i72)
+- [CodeSage - MCP-First Code Discovery](https://dev.to/ntanwir10/codesage-mcp-first-code-discovery-322a)
+- [Enhance your Code Security with Amazon Inspector](https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no)
 <!-- BLOG-POST-LIST:END -->
 
