@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev containers not working? Check if you’re using Flatpak VS Code](https://dev.to/antek5421/dev-containers-not-working-check-if-youre-using-flatpak-vs-code-21c5)
-- [🚀 Criei uma biblioteca que gera tipos TypeScript automaticamente dos seus Models Laravel](https://dev.to/arnaldo/criei-uma-biblioteca-que-gera-tipos-typescript-automaticamente-dos-seus-models-laravel-3c08)
-- [Reducing Deadhead Miles with AI: A Hidden Win for Emissions in Freight](https://dev.to/tyler_allen_aa0af477fae91/reducing-deadhead-miles-with-ai-a-hidden-win-for-emissions-in-freight-1n8a)
-- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
+- [I Built Games &amp; Apps with Qwen3-Coder Without Writing Any Code &lpar;Full Tutorial&rpar; 🤯](https://dev.to/aitechtutorials/i-built-games-apps-with-qwen3-coder-without-writing-any-code-full-tutorial-4lhl)
+- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
+- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
+- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
 <!-- BLOG-POST-LIST:END -->
 
