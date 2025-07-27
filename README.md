@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Only: Infinite Office](https://dev.to/alvaromontoro/css-only-infinite-office-28oe)
-- [🔥I Built Custom MCP Client For Algolia🌀](https://dev.to/dev_kiran/i-built-custom-mcp-client-for-algolia-42k0)
-- [Gatekeepers in APIs and Services: How are they used](https://dev.to/rijultp/gatekeepers-in-apis-and-services-how-are-they-used-2dab)
-- [DevSpace - A Focus-Driven Intranet for Introverted Developers](https://dev.to/pulkitgovrani/devspace-a-focus-driven-intranet-for-introverted-developers-2bjp)
+- [Long Day, Slow Progress – But Still Moving #21](https://dev.to/0xj0n1/long-day-slow-progress-but-still-moving-21-co0)
+- [Mission 8: Interview Prep Part Two](https://dev.to/theoriginalbpc/mission-8-interview-prep-part-two-2i0k)
+- [Building OfficeTeamBoard: A Modern Kanban Solution for Remote Teams](https://dev.to/ai_agi/building-officeteamboard-a-modern-kanban-solution-for-remote-teams-11ae)
+- [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
 <!-- BLOG-POST-LIST:END -->
 
