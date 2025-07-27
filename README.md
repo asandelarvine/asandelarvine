@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with AI: My &lpar;Still Evolving&rpar; Workflow with Claude Code](https://dev.to/yooi/building-with-ai-my-still-evolving-workflow-with-claude-code-365b)
-- [🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge](https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk)
-- [WTF is Serverless Architecture?](https://dev.to/dailybugle33/wtf-is-serverless-architecture-2h82)
-- [Detecting Android Malware Using Only App Permissions: A Lightweight ML Approach](https://dev.to/naresh_82de734ade4c1c66d9/detecting-android-malware-using-only-app-permissions-a-lightweight-ml-approach-1cb9)
+- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
+- [DevStash: AI-Powered Developer Knowledge Management with Algolia MCP](https://dev.to/cached_engineer/devstash-ai-powered-developer-knowledge-management-with-algolia-mcp-4n76)
+- [🚀 Real-time data isn’t just for big tech — learn how to harness it with plain, powerful SQL! ⚡ #SQL #DataEngineering #RealTime](https://dev.to/meenakshi052003/real-time-data-isnt-just-for-big-tech-learn-how-to-harness-it-with-plain-powerful-sql-sql-i3d)
+- [TypeScript &amp; Express Headaches: Lessons from A Day of Nightmare](https://dev.to/uzzy412_73/typescript-express-headaches-lessons-from-a-day-of-nightmare-2me1)
 <!-- BLOG-POST-LIST:END -->
 
