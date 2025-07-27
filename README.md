@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pivoting in Internal Networks](https://dev.to/godofgeeks/pivoting-in-internal-networks-26cg)
-- [State Management Showdown: Signals, NgRx, RxJS - What to Choose and Why](https://dev.to/karol_modelski/state-management-showdown-signals-ngrx-rxjs-what-to-choose-and-why-9g4)
-- [🤖Understanding systemctl: The Heartbeat of Modern Linux](https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5)
-- [🎓 7 Smart ChatGPT Prompts Every Student Should Be Using in 2025!](https://dev.to/manasi_patil_/7-smart-chatgpt-prompts-every-student-should-be-using-in-2025-25od)
+- [LazyCats Intranet Portal](https://dev.to/ivan_manernyi/lazycats-intranet-portal-5d72)
+- [Converting tkinter Python to Swift](https://dev.to/cliff_214/converting-tkinter-python-to-swift-3cpp)
+- [“Build Features, Not Folders”: Scalable React Architecture](https://dev.to/siddhesh_shirdhankar_902f/build-features-not-folders-scalable-react-architecture-6ng)
+- [Programing in fast day](https://dev.to/soikot026/programing-in-fast-day-3i9n)
 <!-- BLOG-POST-LIST:END -->
 
