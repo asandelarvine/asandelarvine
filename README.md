@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Graphs in Golang Without Starting from Scratch](https://dev.to/ganesh-kumar/implementing-graphs-in-golang-without-starting-from-scratch-86h)
-- [Dynamic SSL Configuration for Spring Boot Applications in AWS](https://dev.to/zem_dev/dynamic-ssl-configuration-for-spring-boot-applications-in-aws-31eg)
-- [🚀 I Built a Resume + Portfolio Builder for Job Seekers – Meet EnteProfile](https://dev.to/roshan_mown/i-built-a-resume-portfolio-builder-for-job-seekers-meet-enteprofile-2fgn)
-- [Why the Best .NET Developers Avoid Excess Libraries—And You Should Too!](https://dev.to/shiv_darshanrathore_402a/why-the-best-net-developers-avoid-excess-libraries-and-you-should-too-4bia)
+- [CSS Only: Infinite Office](https://dev.to/alvaromontoro/css-only-infinite-office-28oe)
+- [🔥I Built Custom MCP Client For Algolia🌀](https://dev.to/dev_kiran/i-built-custom-mcp-client-for-algolia-42k0)
+- [Gatekeepers in APIs and Services: How are they used](https://dev.to/rijultp/gatekeepers-in-apis-and-services-how-are-they-used-2dab)
+- [DevSpace - A Focus-Driven Intranet for Introverted Developers](https://dev.to/pulkitgovrani/devspace-a-focus-driven-intranet-for-introverted-developers-2bjp)
 <!-- BLOG-POST-LIST:END -->
 
