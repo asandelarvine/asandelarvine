@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
-- [DevStash: AI-Powered Developer Knowledge Management with Algolia MCP](https://dev.to/cached_engineer/devstash-ai-powered-developer-knowledge-management-with-algolia-mcp-4n76)
-- [🚀 Real-time data isn’t just for big tech — learn how to harness it with plain, powerful SQL! ⚡ #SQL #DataEngineering #RealTime](https://dev.to/meenakshi052003/real-time-data-isnt-just-for-big-tech-learn-how-to-harness-it-with-plain-powerful-sql-sql-i3d)
-- [TypeScript &amp; Express Headaches: Lessons from A Day of Nightmare](https://dev.to/uzzy412_73/typescript-express-headaches-lessons-from-a-day-of-nightmare-2me1)
+- [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
+- [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
+- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
+- [How I Went from Government Job to Global AI Voice &lpar;My Story&rpar;](https://dev.to/jaideepparashar/how-i-went-from-government-job-to-global-ai-voice-my-story-2mhj)
 <!-- BLOG-POST-LIST:END -->
 
