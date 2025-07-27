@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [simple ATM Project in Java-covering full CRUD &lpar;without DB, using console + Java basics&rpar;.](https://dev.to/neelakandan_ravi/simple-atm-project-in-java-covering-full-crud-without-db-using-console-java-basics-1mol)
-- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
-- [Retail Router: Prototype and Beyond](https://dev.to/sherry_brown/retail-router-vibe-coding-to-prototype-and-beyond-1dc4)
-- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
+- [💾 Mastering Mount Points: Your Guide to Linux Filesystem Management! ✨](https://dev.to/sahillearninglinux/mastering-mount-points-your-guide-to-linux-filesystem-management-m13)
+- [Database Locking Explained: Ensuring Integrity While Impacting Performance in Concurrent Systems](https://dev.to/adityabhuyan/database-locking-explained-ensuring-integrity-while-impacting-performance-in-concurrent-systems-275i)
+- [Why Every Engineer Needs Professional-Grade Electrical Tapes &lpar;and Where to Get Them&rpar;](https://dev.to/khaled_salman_ed43b93a1ae/why-every-engineer-needs-professional-grade-electrical-tapes-and-where-to-get-them-3fp6)
+- [How to Protect Yourself From Malicious Links: A Complete Guide](https://dev.to/freedom_coder/how-to-protect-yourself-from-malicious-links-a-complete-guide-2ma2)
 <!-- BLOG-POST-LIST:END -->
 
