@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
-- [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
-- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
-- [How I Went from Government Job to Global AI Voice &lpar;My Story&rpar;](https://dev.to/jaideepparashar/how-i-went-from-government-job-to-global-ai-voice-my-story-2mhj)
+- [Processing Markdown in Python with mq](https://dev.to/harehare/processing-markdown-in-python-with-mq-2al5)
+- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-25f1)
+- [🧠💬 MindMeld – Your AI-Powered Mental Wellness Companion](https://dev.to/garg_garg_d33ddeb17c5d424/mindmeld-your-ai-powered-mental-wellness-companion-2d43)
+- [Public Suffix List](https://dev.to/daud99/public-suffix-list-2bo)
 <!-- BLOG-POST-LIST:END -->
 
