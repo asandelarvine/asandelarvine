@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompt to Pixel: My First Hands-On with Stable Diffusion XL](https://dev.to/dadak5/from-prompt-to-pixel-my-first-hands-on-with-stable-diffusion-xl-2gjj)
-- [Axero Frontend Challenge: Building a Dynamic Office Intranet Interface](https://dev.to/jayesh_koli_lord/axero-frontend-challenge-building-a-dynamic-office-intranet-interface-i8j)
-- [Why Is the New Paper by OpenAI, DeepMind, and Anthropic Calling for AI Reasoning Monitoring?](https://dev.to/jovin_george_733dcfc16291/why-is-the-new-paper-by-openai-deepmind-and-anthropic-calling-for-ai-reasoning-monitoring-283m)
-- [How to Use MCP Inspector with Remote or Cloud‑hosted MCP Servers](https://dev.to/om_shree_0709/how-to-use-mcp-inspector-with-remote-or-cloud-hosted-mcp-servers-5a2b)
+- [Building with AI: My &lpar;Still Evolving&rpar; Workflow with Claude Code](https://dev.to/yooi/building-with-ai-my-still-evolving-workflow-with-claude-code-365b)
+- [🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge](https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk)
+- [WTF is Serverless Architecture?](https://dev.to/dailybugle33/wtf-is-serverless-architecture-2h82)
+- [Detecting Android Malware Using Only App Permissions: A Lightweight ML Approach](https://dev.to/naresh_82de734ade4c1c66d9/detecting-android-malware-using-only-app-permissions-a-lightweight-ml-approach-1cb9)
 <!-- BLOG-POST-LIST:END -->
 
