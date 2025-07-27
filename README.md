@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LazyCats Intranet Portal](https://dev.to/ivan_manernyi/lazycats-intranet-portal-5d72)
-- [Converting tkinter Python to Swift](https://dev.to/cliff_214/converting-tkinter-python-to-swift-3cpp)
-- [“Build Features, Not Folders”: Scalable React Architecture](https://dev.to/siddhesh_shirdhankar_902f/build-features-not-folders-scalable-react-architecture-6ng)
-- [Programing in fast day](https://dev.to/soikot026/programing-in-fast-day-3i9n)
+- [From Prompt to Pixel: My First Hands-On with Stable Diffusion XL](https://dev.to/dadak5/from-prompt-to-pixel-my-first-hands-on-with-stable-diffusion-xl-2gjj)
+- [Axero Frontend Challenge: Building a Dynamic Office Intranet Interface](https://dev.to/jayesh_koli_lord/axero-frontend-challenge-building-a-dynamic-office-intranet-interface-i8j)
+- [Why Is the New Paper by OpenAI, DeepMind, and Anthropic Calling for AI Reasoning Monitoring?](https://dev.to/jovin_george_733dcfc16291/why-is-the-new-paper-by-openai-deepmind-and-anthropic-calling-for-ai-reasoning-monitoring-283m)
+- [How to Use MCP Inspector with Remote or Cloud‑hosted MCP Servers](https://dev.to/om_shree_0709/how-to-use-mcp-inspector-with-remote-or-cloud-hosted-mcp-servers-5a2b)
 <!-- BLOG-POST-LIST:END -->
 
