@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of LLM-Driven ETL: Transform Variable CSV to Clean JSON with C#, Semantic Kernel &amp; Llama 3.2-3B](https://dev.to/auyeungdavid_2847435260/unlock-the-power-of-llm-driven-etl-transform-variable-csv-to-clean-json-with-c-semantic-kernel--noj)
-- [Learn polyfill in Javascript](https://dev.to/keshav___dev/learn-polyfill-in-javascript-ccp)
-- [How to Host a Local Website on Android Using Termux](https://dev.to/terminaltools/how-to-host-a-local-website-on-android-using-termux-57ag)
-- [How Google Search Pagination Works: A Developer&#39;s Deep Dive](https://dev.to/harmanpreetsingh/how-google-search-pagination-works-a-developers-deep-dive-4lmo)
+- [Finding the Needle in the JSON Haystack: Why Your &#39;Ctrl+F&#39; is Failing You](https://dev.to/member_afa0fb52/finding-the-needle-in-the-json-haystack-why-your-ctrlf-is-failing-you-495b)
+- [Lightning Voice Commander - Ultra-Fast Real-Time Gaming Interface](https://dev.to/ariondev/lightning-voice-commander-ultra-fast-real-time-gaming-interface-1eaj)
+- [SearchFlow Intelligence - AI-Powered Enterprise Search with Algolia MCP](https://dev.to/ariondev/searchflow-intelligence-ai-powered-enterprise-search-with-algolia-mcp-2i2b)
+- [Crack the Code, Compete, Collaborate: AWS Jam Session with AWS User Group Toronto – July 25, 2025](https://dev.to/bansi2000/crack-the-code-compete-collaborate-aws-jam-session-with-aws-user-group-toronto-july-25-2025-30ae)
 <!-- BLOG-POST-LIST:END -->
 
