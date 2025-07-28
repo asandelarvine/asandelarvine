@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Monday](https://dev.to/louis7/hello-monday-88l)
-- [Controlling API Access to Specific Fields in Dataverse](https://dev.to/nikhildynamicsce/controlling-api-access-to-specific-fields-in-dataverse-2jh3)
-- [SayFight - A Real-Time Voice-Controlled Party Game](https://dev.to/rezelco/sayfight-a-real-time-voice-controlled-party-game-1hgh)
-- [The &quot;SET NOT NULL&quot; Downtime Trap in PostgreSQL](https://dev.to/andrewpsy/the-set-not-null-downtime-trap-in-postgresql-1o71)
+- [Ultimate developer](https://dev.to/demilade_6becd69bce17d399/ultimate-developer-50p6)
+- [Desvendando o async e await no Python: Guia para Programação Assíncrona Prof. João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/desvendando-o-async-e-await-no-python-guia-para-programacao-assincrona-prof-joao-claudio-nunes-2en0)
+- [AI sdk](https://dev.to/_f600c7dbce3bf93372367/ai-sdk-1a5m)
+- [C++ vs Java: The Ultimate Speed vs Ease Trade-off Guide for Developers](https://dev.to/adityabhuyan/c-vs-java-the-ultimate-speed-vs-ease-trade-off-guide-for-developers-3j77)
 <!-- BLOG-POST-LIST:END -->
 
