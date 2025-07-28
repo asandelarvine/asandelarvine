@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Avoided DSA for So Long, Now It Avoids Me](https://dev.to/siima/day-3-avoided-dsa-for-so-long-now-it-avoids-me-3b3b)
-- [Beyond the Code: The Human Story Behind Ouch! - Feel Every Dollar](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-ouch-feel-every-dollar-43bn)
-- [After the Hack: What&#39;s Next for Ouch! - Feel Every Dollar and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-ouch-feel-every-dollar-and-my-journey-3jhb)
-- [Building with Bolt: How I Created YoRival in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-yorival-in-record-time-5cg6)
+- [Building with Bolt: How I Created A.D.A.M. - Applied Decision Architecture Matrix in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-adam-applied-decision-architecture-matrix-in-record-time-55mn)
+- [Beyond the Code: The Human Story Behind A.D.A.M. - Applied Decision Architecture Matrix](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-adam-applied-decision-architecture-matrix-35gc)
+- [Building with Bolt: How I Created MadMonkey in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-madmonkey-in-record-time-3np0)
+- [The Identity Paradox: Why Decentralized IDs Need Privacy to Actually Work](https://dev.to/savvysid/the-identity-paradox-why-decentralized-ids-need-privacy-to-actually-work-53nm)
 <!-- BLOG-POST-LIST:END -->
 
