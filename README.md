@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Women in Digital Marketing: Bangalore’s Growing Community of Female Marketers](https://dev.to/jaya_k_4cae5ac236cdf6bf5a/women-in-digital-marketing-bangalores-growing-community-of-female-marketers-4ekn)
-- [Sensitive Teeth: Causes, Treatments and Effective Pain Relief Tips](https://dev.to/smilesatlds/sensitive-teeth-causes-treatments-and-effective-pain-relief-tips-1hb5)
-- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
-- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
+- [China&#39;s SpinQ Targets 500-Qubit Milestone as Quantum Computing Nears Real-World Utility](https://dev.to/future_quantum/chinas-spinq-targets-500-qubit-milestone-as-quantum-computing-nears-real-world-utility-205b)
+- [Australian Scientists Achieve Breakthrough in Scalable Quantum Control with CMOS-Spin Qubit Chip](https://dev.to/future_quantum/australian-scientists-achieve-breakthrough-in-scalable-quantum-control-with-cmos-spin-qubit-chip-6b3)
+- [Meet the Mongorai — new MongoDB Web-UI](https://dev.to/psychosynthesis/meet-the-mongorai-new-mongodb-web-ui-2454)
+- [Splitgate 2 ‘unlaunches,&#39; studio to cut staff ahead of 2026 rerelease](https://dev.to/gg_news/splitgate-2-unlaunches-studio-to-cut-staff-ahead-of-2026-rerelease-40ej)
 <!-- BLOG-POST-LIST:END -->
 
