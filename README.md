@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Querying MongoDB：SPL Lightweight Multisource Mixed Computation Practices #4](https://dev.to/esproc_spl/querying-mongodbspl-lightweight-multisource-mixed-computation-practices-4-1403)
-- [XXE &lpar;XML External Entity&rpar; Attacks](https://dev.to/godofgeeks/xxe-xml-external-entity-attacks-3742)
-- [🔧 10 Date-and-Time Bugs I Still See in Production &lpar;and How to Avoid Them&rpar;](https://dev.to/luke_bowers/10-date-and-time-bugs-i-still-see-in-production-and-how-to-avoid-them-31ke)
-- [CVE-2023-50164: New Struts2 Upload Vulnerability Explained](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-50164-new-struts2-upload-vulnerability-explained-41e8)
+- [Why Cybersecurity Is Vital for Critical National Infrastructure in 2025?](https://dev.to/micromindercybersecurity/why-cybersecurity-is-vital-for-critical-national-infrastructure-in-2025-96b)
+- [Mastering AI-Assisted Software Development: From Prompts to Production-Ready Code](https://dev.to/dimeloper/mastering-ai-assisted-software-development-from-prompts-to-production-ready-code-54n8)
+- [🚀 Built a GPT-4 chatbot with MERN! Full guide: backend, API key, React UI — all step-by-step. 📖 https://medium.com/@sarmadmoin108/integrating-openai-apis-into-mern-stack-projects-a-step-by-step-guide-b9b1f06538e3 #MERN #OpenAI #GPT4 #JavaScript #React](https://dev.to/sarmad_syed20/built-a-gpt-4-chatbot-with-mern-full-guide-backend-api-key-react-ui-all-step-by-step-4g9h)
+- [Shifting Vector Database Workloads to Arm Neoverse: Performance and Cost Observations](https://dev.to/e_b680bbca20c348/shifting-vector-database-workloads-to-arm-neoverse-performance-and-cost-observations-470p)
 <!-- BLOG-POST-LIST:END -->
 
