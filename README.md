@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ai agents making outbound sales calls: what works &amp; what doesn&#39;t after building VocallQ](https://dev.to/takitajwar17/ai-agents-making-outbound-sales-calls-what-works-what-doesnt-after-building-vocallq-33go)
-- [What I&#39;ve Gained After 6 Years Blogging on dev.to](https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife)
-- [How I Built EduConnect Hub – My First Full Stack Project Using React and Node.js](https://dev.to/manisshh/how-i-built-educonnect-hub-my-first-full-stack-project-using-react-and-nodejs-3id7)
-- [Gotta Search &#39;Em All, MCP!!](https://dev.to/justin_mc/gotta-search-em-all-mcp-4662)
+- [🧠🎤 FluentMate - Your Smart Fluency Friend &amp; 24 7 Mentor 💬🤖](https://dev.to/divyasinghdev/fluentmate-your-smart-fluency-friend-24x7-mentor-40f5)
+- [Clarity -- blending analog productivity methods with nature-inspired design](https://dev.to/niko/clarity-analog-productivity-and-nature-inspired-holistic-dashboard-for-webdevs-3f0)
+- [BeautyMatch – Smart Skin Compatibility for Beauty Products](https://dev.to/soumyodeep_dey_c6cb5e8c97/beautymatch-smart-skin-compatibility-for-beauty-products-2fbg)
+- [HealthMate – A Voice Agent That Thinks and Reasons Before Answering for Medical Awareness and Decision Support](https://dev.to/manojkumar18/healthmate-a-voice-agent-that-thinks-and-reasons-before-answering-for-medical-awareness-and-dhi)
 <!-- BLOG-POST-LIST:END -->
 
