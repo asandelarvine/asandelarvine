@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with Bolt: How I Created A.D.A.M. - Applied Decision Architecture Matrix in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-adam-applied-decision-architecture-matrix-in-record-time-55mn)
-- [Beyond the Code: The Human Story Behind A.D.A.M. - Applied Decision Architecture Matrix](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-adam-applied-decision-architecture-matrix-35gc)
-- [Building with Bolt: How I Created MadMonkey in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-madmonkey-in-record-time-3np0)
-- [The Identity Paradox: Why Decentralized IDs Need Privacy to Actually Work](https://dev.to/savvysid/the-identity-paradox-why-decentralized-ids-need-privacy-to-actually-work-53nm)
+- [@classmethod and @staticmethod](https://dev.to/ganesan_krishnan_dc888df2/classmethod-and-staticmethod-2a35)
+- [Why I’m building SimGate: An SMS API without per-message fees](https://dev.to/nikola_mitrovic_922e2665f/why-im-building-simgate-an-sms-api-without-per-message-fees-16mm)
+- [Understanding Components and Props in React.](https://dev.to/shadow_14d29c92635eef8efd/understanding-components-and-props-in-react-4jg)
+- [Creating a Facial Recognition Fence Opening System with Python](https://dev.to/gissel_claus_f37fa582135d/creating-a-facial-recognition-fence-opening-system-with-python-5clm)
 <!-- BLOG-POST-LIST:END -->
 
