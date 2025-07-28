@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Discovery to Design: A technical blueprint checklist](https://dev.to/leapfrogtechnology/bridging-discovery-to-design-a-technical-blueprint-checklist-2bck)
-- [Java basic knowledge](https://dev.to/shelner/java-basic-knowledge-1hf3)
-- [.NET AI &amp; Machine Learning Made Easy: Libraries, Use Cases &amp; Launch-ready Examples](https://dev.to/dmitrybaraishuk/net-ai-machine-learning-made-easy-libraries-use-cases-launch-ready-examples-c53)
-- [No Docs? No Figma? No Worries – QA Can Still Test](https://dev.to/tester_learn_testing/no-docs-no-figma-no-worries-qa-can-still-test-1inj)
+- [Best AI Video Subtitle Translator Tools: Top Picks for Accurate Localization](https://dev.to/liamcorwin/best-ai-video-subtitle-translator-tools-top-picks-for-accurate-localization-25bl)
+- [[Personal Project #19] UEFA Women’s EURO 2025 Final: England Trusted Their Goalkeeper](https://dev.to/ezeeyeyo/personal-project-19-uefa-womens-euro-2025-final-england-trusted-their-goalkeeper-2ig9)
+- [WTF is WebAssembly?](https://dev.to/dailybugle33/wtf-is-webassembly-1jmk)
+- [How SVG Became the Standard Icon Format](https://dev.to/masumparvej/how-svg-became-the-standard-icon-format-5ec2)
 <!-- BLOG-POST-LIST:END -->
 
