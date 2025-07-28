@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Code a Wi-Fi Enabled Fence Alert System](https://dev.to/alejandromestizo27/how-to-code-a-wi-fi-enabled-fence-alert-system-17a2)
-- [5 Legal Landmines For Creators to Dodge in 2025](https://dev.to/viralnoise/5-legal-landmines-for-creators-to-dodge-in-2025-k1c)
-- [🚀 WP-XPub v1.0.0 – A Clean Architecture Approach to Multi-Channel Publishing in WordPress](https://dev.to/n3xt0r/wp-xpub-v100-a-clean-architecture-approach-to-multi-channel-publishing-in-wordpress-8fc)
-- [React and typescript components lib, part 7: conclusion](https://dev.to/griseduardo/react-and-typescript-components-lib-part-7-conclusion-5881)
+- [TrapDaemon Multi protocol Honeypot](https://dev.to/anis_anas_d866db777348da4/hi-guys-5al8)
+- [# 🚀 Building Pagonic: A Modern WinRAR Alternative with AI-Powered Compression](https://dev.to/setrathexx/-building-pagonic-a-modern-winrar-alternative-with-ai-powered-compression-3k1b)
+- [How I built a simple burn rate calculator with shadcn components](https://dev.to/solidifydev/how-i-built-a-simple-burn-rate-calculator-with-shadcn-components-1j50)
+- [I Built a Command-Line Spy++ to Log Windows Messages. Here&#39;s How.](https://dev.to/bored123/i-built-a-command-line-spy-to-log-windows-messages-heres-how-4332)
 <!-- BLOG-POST-LIST:END -->
 
