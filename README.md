@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/vosidiy/-1759)
-- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
-- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
-- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
+- [User Timezones in Django](https://dev.to/djangotricks/user-timezones-in-django-57cg)
+- [Infoscava Plugin Creator: Expanding Analysis Capabilities](https://dev.to/hejhdiss/infoscava-plugin-creator-expanding-analysis-capabilities-1bd9)
+- [2025 and NestJS: A Match Made for Modern Backend Needs](https://dev.to/leapcell/2025-and-nestjs-a-match-made-for-modern-backend-needs-51jm)
+- [Announcing NgRx v20: The Power of Events, Enhanced DX, and a Mature SignalStore!](https://dev.to/ngrx/announcing-ngrx-v20-the-power-of-events-enhanced-dx-and-a-mature-signalstore-2fdm)
 <!-- BLOG-POST-LIST:END -->
 
