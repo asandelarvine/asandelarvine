@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Games &amp; Apps with Qwen3-Coder Without Writing Any Code &lpar;Full Tutorial&rpar; 🤯](https://dev.to/aitechtutorials/i-built-games-apps-with-qwen3-coder-without-writing-any-code-full-tutorial-4lhl)
-- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
-- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
-- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
+- [Hello Monday](https://dev.to/louis7/hello-monday-88l)
+- [Controlling API Access to Specific Fields in Dataverse](https://dev.to/nikhildynamicsce/controlling-api-access-to-specific-fields-in-dataverse-2jh3)
+- [SayFight - A Real-Time Voice-Controlled Party Game](https://dev.to/rezelco/sayfight-a-real-time-voice-controlled-party-game-1hgh)
+- [The &quot;SET NOT NULL&quot; Downtime Trap in PostgreSQL](https://dev.to/andrewpsy/the-set-not-null-downtime-trap-in-postgresql-1o71)
 <!-- BLOG-POST-LIST:END -->
 
