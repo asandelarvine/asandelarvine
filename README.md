@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [User Timezones in Django](https://dev.to/djangotricks/user-timezones-in-django-57cg)
-- [Infoscava Plugin Creator: Expanding Analysis Capabilities](https://dev.to/hejhdiss/infoscava-plugin-creator-expanding-analysis-capabilities-1bd9)
-- [2025 and NestJS: A Match Made for Modern Backend Needs](https://dev.to/leapcell/2025-and-nestjs-a-match-made-for-modern-backend-needs-51jm)
-- [Announcing NgRx v20: The Power of Events, Enhanced DX, and a Mature SignalStore!](https://dev.to/ngrx/announcing-ngrx-v20-the-power-of-events-enhanced-dx-and-a-mature-signalstore-2fdm)
+- [C++ မှတ်စု &lpar;၁&rpar; – Output နဲ့ Memory Address](https://dev.to/zawhtutwin/c-mttcu-1-output-nai-memory-address-1h9c)
+- [ENISA recognizes passkeys as the strongest phishing-resistant MFA](https://dev.to/corbado/enisa-recognizes-passkeys-as-the-strongest-phishing-resistant-mfa-3lh2)
+- [Forget JWTs — Meet SwiftToken: Fast, Secure Tokens in Go](https://dev.to/aditya_sharma_3ebb5440b0b/forget-jwts-meet-swifttoken-fast-secure-tokens-in-go-52g0)
+- [When Infostealer Frontiers Meet Identity-Centric Defense: Lessons from BSides SATX 2025](https://dev.to/gitguardian/when-infostealer-frontiers-meet-identity-centric-defense-lessons-from-bsides-satx-2025-2jhk)
 <!-- BLOG-POST-LIST:END -->
 
