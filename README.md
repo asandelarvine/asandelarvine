@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s SpinQ Targets 500-Qubit Milestone as Quantum Computing Nears Real-World Utility](https://dev.to/future_quantum/chinas-spinq-targets-500-qubit-milestone-as-quantum-computing-nears-real-world-utility-205b)
-- [Australian Scientists Achieve Breakthrough in Scalable Quantum Control with CMOS-Spin Qubit Chip](https://dev.to/future_quantum/australian-scientists-achieve-breakthrough-in-scalable-quantum-control-with-cmos-spin-qubit-chip-6b3)
-- [Meet the Mongorai — new MongoDB Web-UI](https://dev.to/psychosynthesis/meet-the-mongorai-new-mongodb-web-ui-2454)
-- [Splitgate 2 ‘unlaunches,&#39; studio to cut staff ahead of 2026 rerelease](https://dev.to/gg_news/splitgate-2-unlaunches-studio-to-cut-staff-ahead-of-2026-rerelease-40ej)
+- [[Boost]](https://dev.to/vosidiy/-1759)
+- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
+- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
+- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
 <!-- BLOG-POST-LIST:END -->
 
