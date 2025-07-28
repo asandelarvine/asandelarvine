@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠🎤 FluentMate - Your Smart Fluency Friend &amp; 24 7 Mentor 💬🤖](https://dev.to/divyasinghdev/fluentmate-your-smart-fluency-friend-24x7-mentor-40f5)
-- [Clarity -- blending analog productivity methods with nature-inspired design](https://dev.to/niko/clarity-analog-productivity-and-nature-inspired-holistic-dashboard-for-webdevs-3f0)
-- [BeautyMatch – Smart Skin Compatibility for Beauty Products](https://dev.to/soumyodeep_dey_c6cb5e8c97/beautymatch-smart-skin-compatibility-for-beauty-products-2fbg)
-- [HealthMate – A Voice Agent That Thinks and Reasons Before Answering for Medical Awareness and Decision Support](https://dev.to/manojkumar18/healthmate-a-voice-agent-that-thinks-and-reasons-before-answering-for-medical-awareness-and-dhi)
+- [Querying MongoDB：SPL Lightweight Multisource Mixed Computation Practices #4](https://dev.to/esproc_spl/querying-mongodbspl-lightweight-multisource-mixed-computation-practices-4-1403)
+- [XXE &lpar;XML External Entity&rpar; Attacks](https://dev.to/godofgeeks/xxe-xml-external-entity-attacks-3742)
+- [🔧 10 Date-and-Time Bugs I Still See in Production &lpar;and How to Avoid Them&rpar;](https://dev.to/luke_bowers/10-date-and-time-bugs-i-still-see-in-production-and-how-to-avoid-them-31ke)
+- [CVE-2023-50164: New Struts2 Upload Vulnerability Explained](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-50164-new-struts2-upload-vulnerability-explained-41e8)
 <!-- BLOG-POST-LIST:END -->
 
