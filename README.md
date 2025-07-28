@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ မှတ်စု &lpar;၁&rpar; – Output နဲ့ Memory Address](https://dev.to/zawhtutwin/c-mttcu-1-output-nai-memory-address-1h9c)
-- [ENISA recognizes passkeys as the strongest phishing-resistant MFA](https://dev.to/corbado/enisa-recognizes-passkeys-as-the-strongest-phishing-resistant-mfa-3lh2)
-- [Forget JWTs — Meet SwiftToken: Fast, Secure Tokens in Go](https://dev.to/aditya_sharma_3ebb5440b0b/forget-jwts-meet-swifttoken-fast-secure-tokens-in-go-52g0)
-- [When Infostealer Frontiers Meet Identity-Centric Defense: Lessons from BSides SATX 2025](https://dev.to/gitguardian/when-infostealer-frontiers-meet-identity-centric-defense-lessons-from-bsides-satx-2025-2jhk)
+- [Unlock the Power of LLM-Driven ETL: Transform Variable CSV to Clean JSON with C#, Semantic Kernel &amp; Llama 3.2-3B](https://dev.to/auyeungdavid_2847435260/unlock-the-power-of-llm-driven-etl-transform-variable-csv-to-clean-json-with-c-semantic-kernel--noj)
+- [Learn polyfill in Javascript](https://dev.to/keshav___dev/learn-polyfill-in-javascript-ccp)
+- [How to Host a Local Website on Android Using Termux](https://dev.to/terminaltools/how-to-host-a-local-website-on-android-using-termux-57ag)
+- [How Google Search Pagination Works: A Developer&#39;s Deep Dive](https://dev.to/harmanpreetsingh/how-google-search-pagination-works-a-developers-deep-dive-4lmo)
 <!-- BLOG-POST-LIST:END -->
 
