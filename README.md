@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate developer](https://dev.to/demilade_6becd69bce17d399/ultimate-developer-50p6)
-- [Desvendando o async e await no Python: Guia para Programação Assíncrona Prof. João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/desvendando-o-async-e-await-no-python-guia-para-programacao-assincrona-prof-joao-claudio-nunes-2en0)
-- [AI sdk](https://dev.to/_f600c7dbce3bf93372367/ai-sdk-1a5m)
-- [C++ vs Java: The Ultimate Speed vs Ease Trade-off Guide for Developers](https://dev.to/adityabhuyan/c-vs-java-the-ultimate-speed-vs-ease-trade-off-guide-for-developers-3j77)
+- [ai agents making outbound sales calls: what works &amp; what doesn&#39;t after building VocallQ](https://dev.to/takitajwar17/ai-agents-making-outbound-sales-calls-what-works-what-doesnt-after-building-vocallq-33go)
+- [What I&#39;ve Gained After 6 Years Blogging on dev.to](https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife)
+- [How I Built EduConnect Hub – My First Full Stack Project Using React and Node.js](https://dev.to/manisshh/how-i-built-educonnect-hub-my-first-full-stack-project-using-react-and-nodejs-3id7)
+- [Gotta Search &#39;Em All, MCP!!](https://dev.to/justin_mc/gotta-search-em-all-mcp-4662)
 <!-- BLOG-POST-LIST:END -->
 
