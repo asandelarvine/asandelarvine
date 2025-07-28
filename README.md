@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Cybersecurity Is Vital for Critical National Infrastructure in 2025?](https://dev.to/micromindercybersecurity/why-cybersecurity-is-vital-for-critical-national-infrastructure-in-2025-96b)
-- [Mastering AI-Assisted Software Development: From Prompts to Production-Ready Code](https://dev.to/dimeloper/mastering-ai-assisted-software-development-from-prompts-to-production-ready-code-54n8)
-- [🚀 Built a GPT-4 chatbot with MERN! Full guide: backend, API key, React UI — all step-by-step. 📖 https://medium.com/@sarmadmoin108/integrating-openai-apis-into-mern-stack-projects-a-step-by-step-guide-b9b1f06538e3 #MERN #OpenAI #GPT4 #JavaScript #React](https://dev.to/sarmad_syed20/built-a-gpt-4-chatbot-with-mern-full-guide-backend-api-key-react-ui-all-step-by-step-4g9h)
-- [Shifting Vector Database Workloads to Arm Neoverse: Performance and Cost Observations](https://dev.to/e_b680bbca20c348/shifting-vector-database-workloads-to-arm-neoverse-performance-and-cost-observations-470p)
+- [Bridging Discovery to Design: A technical blueprint checklist](https://dev.to/leapfrogtechnology/bridging-discovery-to-design-a-technical-blueprint-checklist-2bck)
+- [Java basic knowledge](https://dev.to/shelner/java-basic-knowledge-1hf3)
+- [.NET AI &amp; Machine Learning Made Easy: Libraries, Use Cases &amp; Launch-ready Examples](https://dev.to/dmitrybaraishuk/net-ai-machine-learning-made-easy-libraries-use-cases-launch-ready-examples-c53)
+- [No Docs? No Figma? No Worries – QA Can Still Test](https://dev.to/tester_learn_testing/no-docs-no-figma-no-worries-qa-can-still-test-1inj)
 <!-- BLOG-POST-LIST:END -->
 
