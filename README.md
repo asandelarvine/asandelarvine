@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [@classmethod and @staticmethod](https://dev.to/ganesan_krishnan_dc888df2/classmethod-and-staticmethod-2a35)
-- [Why I’m building SimGate: An SMS API without per-message fees](https://dev.to/nikola_mitrovic_922e2665f/why-im-building-simgate-an-sms-api-without-per-message-fees-16mm)
-- [Understanding Components and Props in React.](https://dev.to/shadow_14d29c92635eef8efd/understanding-components-and-props-in-react-4jg)
-- [Creating a Facial Recognition Fence Opening System with Python](https://dev.to/gissel_claus_f37fa582135d/creating-a-facial-recognition-fence-opening-system-with-python-5clm)
+- [How to Code a Wi-Fi Enabled Fence Alert System](https://dev.to/alejandromestizo27/how-to-code-a-wi-fi-enabled-fence-alert-system-17a2)
+- [5 Legal Landmines For Creators to Dodge in 2025](https://dev.to/viralnoise/5-legal-landmines-for-creators-to-dodge-in-2025-k1c)
+- [🚀 WP-XPub v1.0.0 – A Clean Architecture Approach to Multi-Channel Publishing in WordPress](https://dev.to/n3xt0r/wp-xpub-v100-a-clean-architecture-approach-to-multi-channel-publishing-in-wordpress-8fc)
+- [React and typescript components lib, part 7: conclusion](https://dev.to/griseduardo/react-and-typescript-components-lib-part-7-conclusion-5881)
 <!-- BLOG-POST-LIST:END -->
 
