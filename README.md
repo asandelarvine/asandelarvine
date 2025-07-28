@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Needle in the JSON Haystack: Why Your &#39;Ctrl+F&#39; is Failing You](https://dev.to/member_afa0fb52/finding-the-needle-in-the-json-haystack-why-your-ctrlf-is-failing-you-495b)
-- [Lightning Voice Commander - Ultra-Fast Real-Time Gaming Interface](https://dev.to/ariondev/lightning-voice-commander-ultra-fast-real-time-gaming-interface-1eaj)
-- [SearchFlow Intelligence - AI-Powered Enterprise Search with Algolia MCP](https://dev.to/ariondev/searchflow-intelligence-ai-powered-enterprise-search-with-algolia-mcp-2i2b)
-- [Crack the Code, Compete, Collaborate: AWS Jam Session with AWS User Group Toronto – July 25, 2025](https://dev.to/bansi2000/crack-the-code-compete-collaborate-aws-jam-session-with-aws-user-group-toronto-july-25-2025-30ae)
+- [Turning VS Code into a Product Framework](https://dev.to/progrium/turning-vs-code-into-a-product-framework-28hg)
+- [After the Hack: What&#39;s Next for LLM Lab and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-llm-lab-and-my-journey-52pp)
+- [Building with Bolt: How I Created Needle &amp; Hay in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-needle-hay-in-record-time-19hf)
+- [Brainfuck in a nutshell. &lpar;and Why Would You Want to Learn It&rpar;](https://dev.to/dumboprogrammer/brainfuck-in-a-nutshell-and-why-would-you-want-to-learn-it-18in)
 <!-- BLOG-POST-LIST:END -->
 
