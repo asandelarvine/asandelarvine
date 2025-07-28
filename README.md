@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Video Subtitle Translator Tools: Top Picks for Accurate Localization](https://dev.to/liamcorwin/best-ai-video-subtitle-translator-tools-top-picks-for-accurate-localization-25bl)
-- [[Personal Project #19] UEFA Women’s EURO 2025 Final: England Trusted Their Goalkeeper](https://dev.to/ezeeyeyo/personal-project-19-uefa-womens-euro-2025-final-england-trusted-their-goalkeeper-2ig9)
-- [WTF is WebAssembly?](https://dev.to/dailybugle33/wtf-is-webassembly-1jmk)
-- [How SVG Became the Standard Icon Format](https://dev.to/masumparvej/how-svg-became-the-standard-icon-format-5ec2)
+- [Women in Digital Marketing: Bangalore’s Growing Community of Female Marketers](https://dev.to/jaya_k_4cae5ac236cdf6bf5a/women-in-digital-marketing-bangalores-growing-community-of-female-marketers-4ekn)
+- [Sensitive Teeth: Causes, Treatments and Effective Pain Relief Tips](https://dev.to/smilesatlds/sensitive-teeth-causes-treatments-and-effective-pain-relief-tips-1hb5)
+- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
+- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
 <!-- BLOG-POST-LIST:END -->
 
