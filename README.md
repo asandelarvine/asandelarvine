@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programação Orientada à Pobreza - Crie Apps FullStack de GRAÇA](https://dev.to/hoyasumii/programacao-orientada-a-pobreza-crie-apps-fullstack-de-graca-1ei6)
-- [How to build a cloud-based contact centre &amp; analytics solution running mostly on AWS](https://dev.to/aws-builders/how-to-build-a-cloud-based-contact-centre-analytics-solution-running-mostly-on-aws-1dc6)
-- [5 Reasons Every Developer Should Learn Basic SEO in 2025](https://dev.to/primereview4u_b93531c96c2/5-reasons-every-developer-should-learn-basic-seo-in-2025-3goh)
-- [[Boost]](https://dev.to/mehdi1/-37b1)
+- [Top 5 Opsgenie Alternatives for Efficient Incident Management](https://dev.to/pauclaver_zsh/top-5-opsgenie-alternatives-for-efficient-incident-management-4d31)
+- [How to Get a Website&#39;s Favicon](https://dev.to/sheep_/how-to-get-a-websites-favicon-1klb)
+- [Types of Employee Training Methods for Corporate Teams](https://dev.to/emilybrown1/types-of-employee-training-methods-for-corporate-teams-43ja)
+- [Google Student Ambassador Program 2025: Apply Now for Free Google Swags, Stipend &amp; Certificate](https://dev.to/avinash201199/google-student-ambassador-program-2025-apply-now-for-free-google-swags-stipend-certificate-4p39)
 <!-- BLOG-POST-LIST:END -->
 
