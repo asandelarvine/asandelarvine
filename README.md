@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastercard, Visa Under Fire As Petition To &#39;Not Police&#39; Legal Content Blows Up](https://dev.to/gg_news/mastercard-visa-under-fire-as-petition-to-not-police-legal-content-blows-up-217k)
-- [counteredAI - Negotiate Home Sale without an agent!: After the Hack - WLH Challenge](https://dev.to/ariondev/counteredai-negotiate-home-sale-without-an-agent-after-the-hack-wlh-challenge-5867)
-- [Verified OnlyFans Accounts: What They Are and How to Get One](https://dev.to/catrin_zanker_71399035fd3/verified-onlyfans-accounts-what-they-are-and-how-to-get-one-1036)
-- [Sidekick OS: Building with Bolt - WLH Challenge](https://dev.to/ariondev/sidekick-os-building-with-bolt-wlh-challenge-7o4)
+- [How to Use Claims for Fine-Grained Access Control in APIs](https://dev.to/curity/how-to-use-claims-for-fine-grained-access-control-in-apis-24be)
+- [No Laying Up Podcast: Lydia Ko | NLU Pod, Ep 1045](https://dev.to/youtube_golf/no-laying-up-podcast-lydia-ko-nlu-pod-ep-1045-38ak)
+- [No Laying Up Podcast: The 2025 Major Season Quiz Show | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-the-2025-major-season-quiz-show-nlu-pod-ep-1046-4ka4)
+- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1046-4po8)
 <!-- BLOG-POST-LIST:END -->
 
