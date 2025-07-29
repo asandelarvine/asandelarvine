@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Hoisting: How JavaScript Handles Declarations](https://dev.to/2021_cse_gayathrir_e733/understanding-hoisting-how-javascript-handles-declarations-3lkk)
-- [Modern Systems Are More Fragile: The more intricate a system is, the more potential points of failure it can present](https://dev.to/jeandevbr/modern-systems-are-more-fragile-the-more-intricate-a-system-is-the-more-potential-points-of-2fkg)
-- [ANN: rspec-stubbed_env v1.0.3](https://dev.to/galtzo/ann-rspec-stubbedenv-v103-7df)
-- [How AI is Transforming B2B Sourcing in 2025](https://dev.to/accioprocurement/how-ai-is-transforming-b2b-sourcing-in-2025-ok5)
+- [Building MicroSaaS in 2025: The Complete Guide for Solopreneurs](https://dev.to/axrisi/building-microsaas-in-2025-the-complete-guide-for-solopreneurs-7do)
+- [Introducing the dev.to MCP server](https://dev.to/nickytonline/introducing-the-devto-mcp-server-42jg)
+- [Why Your Favorite Content Tools Keep Getting Banned](https://dev.to/maybe_ai/why-your-favorite-content-tools-keep-getting-banned-2dbd)
+- [Create Basic Reverse Proxy with Nginx](https://dev.to/mustafasamedyeyin/create-basic-reverse-proxy-with-nginx-3131)
 <!-- BLOG-POST-LIST:END -->
 
