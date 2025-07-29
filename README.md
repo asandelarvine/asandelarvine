@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 49: When Bureaucracy Finally Releases Its Death Grip](https://dev.to/casperday11/day-49-when-bureaucracy-finally-releases-its-death-grip-1li6)
-- [Why Senior Engineers Don’t Need All the Answers](https://dev.to/remejuan/why-senior-engineers-dont-need-all-the-answers-598d)
-- [I have something akin to writer&#39;s block. But it&#39;s not writer&#39;s block; it&#39;s a lack of inspiration. I want to write, but I have a huge lack of zeal or motivation to even try!! HELP!! 🥹](https://dev.to/dumebii/i-have-something-akin-to-writers-block-but-its-not-writers-block-its-a-lack-of-inspiration-i-1ogn)
-- [Best Machine Translation Software for Enterprises](https://dev.to/elenahartmann/best-machine-translation-software-for-enterprises-5bmk)
+- [Programação Orientada à Pobreza - Crie Apps FullStack de GRAÇA](https://dev.to/hoyasumii/programacao-orientada-a-pobreza-crie-apps-fullstack-de-graca-1ei6)
+- [How to build a cloud-based contact centre &amp; analytics solution running mostly on AWS](https://dev.to/aws-builders/how-to-build-a-cloud-based-contact-centre-analytics-solution-running-mostly-on-aws-1dc6)
+- [5 Reasons Every Developer Should Learn Basic SEO in 2025](https://dev.to/primereview4u_b93531c96c2/5-reasons-every-developer-should-learn-basic-seo-in-2025-3goh)
+- [[Boost]](https://dev.to/mehdi1/-37b1)
 <!-- BLOG-POST-LIST:END -->
 
