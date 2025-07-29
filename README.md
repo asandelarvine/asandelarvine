@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly update #2](https://dev.to/abytebybyte/weekly-update-2-p4h)
-- [Domine os livros de programação usando o NotebookLM do Google](https://dev.to/anabiscalchin/domine-os-livros-de-programacao-usando-o-notebooklm-do-google-413e)
-- [I made a tool which turns static SVG&#39;s into animations!](https://dev.to/nikhil_parmar_424124a9369/i-made-a-tool-which-turns-static-svgs-into-animations-3db0)
-- [🧠 Understanding the Difference Between IEnumerable and IQueryable in C#](https://dev.to/iamcymentho/understanding-the-difference-between-ienumerable-and-iqueryable-in-c-g4e)
+- [Claude Code Pricing: Is the $200/mo Plan Worth It? &lpar;New Rate Limits Explained&rpar;](https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1)
+- [Developer Daily: AI-Powered Coding, Blockchain Clarity, and Quantum Progress 🚀](https://dev.to/jasgigli/developer-daily-ai-powered-coding-blockchain-clarity-and-quantum-progress-2gde)
+- [Event Bubbling &amp; Capturing nedir ?](https://dev.to/alimetin/event-bubbling-capturing-nedir--1f84)
+- [𝐖𝐡𝐞𝐧 𝐏𝐚𝐬𝐬𝐢𝐨𝐧 𝐓𝐮𝐫𝐧𝐬 𝐈𝐧𝐭𝐨 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞...](https://dev.to/worksofsayman/-51i)
 <!-- BLOG-POST-LIST:END -->
 
