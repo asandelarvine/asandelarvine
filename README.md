@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claims for Fine-Grained Access Control in APIs](https://dev.to/curity/how-to-use-claims-for-fine-grained-access-control-in-apis-24be)
-- [No Laying Up Podcast: Lydia Ko | NLU Pod, Ep 1045](https://dev.to/youtube_golf/no-laying-up-podcast-lydia-ko-nlu-pod-ep-1045-38ak)
-- [No Laying Up Podcast: The 2025 Major Season Quiz Show | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-the-2025-major-season-quiz-show-nlu-pod-ep-1046-4ka4)
-- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1046](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1046-4po8)
+- [The case for static blogs: faster, safer, and easier to maintain](https://dev.to/akshayarundev/the-case-for-static-blogs-faster-safer-and-easier-to-maintain-3a4l)
+- [Automate Research &amp; Analysis Workflows Across Any Domain with `mcp-agent`](https://dev.to/hani__8725b7a/automate-research-analysis-workflows-across-any-domain-with-mcp-agent-35in)
+- [Microsoft Fabric RTI MCP Server](https://dev.to/om_shree_0709/microsoft-fabric-rti-mcp-server-fc8)
+- [🔥 1BRC in Node.js: From 12 Minutes to 35 Seconds](https://dev.to/yuvraj2112/1brc-in-nodejs-from-12-minutes-to-35-seconds-15mp)
 <!-- BLOG-POST-LIST:END -->
 
