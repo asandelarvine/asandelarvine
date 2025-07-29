@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [I built Tanbol: a clean way to share code snippets with preview and copy support](https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3)
+- [The Hidden Cost of Free AI: Don’t Let ChatGPT Replace Your Thinking](https://dev.to/jenueldev/the-hidden-cost-of-free-ai-dont-let-chatgpt-replace-your-thinking-3mfi)
+- [Multimodal Face Recognition Pipeline with CocoIndex: Real-Time Image and Vector Search](https://dev.to/cocoindex/multimodal-face-recognition-pipeline-with-cocoindex-real-time-image-and-vector-search-19hi)
 - [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
-- [Modernizing Legacy Systems with AWS: Scalable, Secure &amp; AI-Ready](https://dev.to/emmao/modernizing-legacy-systems-with-aws-scalable-secure-ai-ready-403a)
-- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
-- [Take Out优化](https://dev.to/woodyxin/take-outyou-hua-19o9)
 <!-- BLOG-POST-LIST:END -->
 
