@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline Messaging Reinvented with Bitchat](https://dev.to/grenishrai/offline-messaging-reinvented-with-bitchat-5011)
-- [How to sell open source technology to the government](https://dev.to/cosine/how-to-sell-open-source-technology-to-the-government-4be1)
-- [How to Manage Tags and Locks in Azure](https://dev.to/arctaiwo/how-to-manage-tags-and-locks-in-azure-3dgm)
-- [How Can You Meet New People Online for Free? Here’s a 5-Step Guide That Actually Works](https://dev.to/tyler_barera_88e171d1b8b4/how-can-you-meet-new-people-online-for-free-heres-a-5-step-guide-that-actually-works-4mh2)
+- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
+- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
+- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
+- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
 <!-- BLOG-POST-LIST:END -->
 
