@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [my very first challenge](https://dev.to/depapp/my-very-first-challenge-3olk)
-- [🚀 Hello Developers &amp; Learners!](https://dev.to/kavindu_shashith_d289366d/hello-developers-learners-2dm7)
-- [📚 Serie: Diseño de Software en el Frontend — Índice](https://dev.to/azunico/serie-diseno-de-software-en-el-frontend-indice-1oj1)
-- [What is &#39;graphBuild&#39; in .NET CLI &amp; MsBuild](https://dev.to/enisn/what-is-graphbuild-in-net-cli-msbuild-1h2e)
+- [Why LLM Memory Still Fails - A Field Guide for Builders](https://dev.to/isaachagoel/why-llm-memory-still-fails-a-field-guide-for-builders-3d78)
+- [Supabase vs AWS: Feature 🔖 and Pricing 💰 Comparison &lpar;2025&rpar;](https://dev.to/bytebase/supabase-vs-aws-feature-and-pricing-comparison-2025-16id)
+- [Understanding DBMS: A Beginner&#39;s Guide to Databases and Their Management](https://dev.to/rishabhtpt/understanding-dbms-a-beginners-guide-to-databases-and-their-management-8o9)
+- [What’s the Most Underrated Use of AI You’ve Seen &lpar;or Built&rpar; That Actually Solves a Real Problem?](https://dev.to/iamsachin/whats-the-most-underrated-use-of-ai-youve-seen-or-built-that-actually-solves-a-real-problem-43c8)
 <!-- BLOG-POST-LIST:END -->
 
