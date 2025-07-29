@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Telegram Automation Workflows with n8n and Pinggy Webhooks](https://dev.to/lightningdev123/building-telegram-automation-workflows-with-n8n-and-pinggy-webhooks-12co)
-- [Protecting Against Open Source Malicious Packages: What Does &lpar;Not&rpar; Work](https://dev.to/xygenisecurity/protecting-against-open-source-malicious-packages-what-does-not-work-iaj)
-- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
-- [How I Built a Website for Daily TV Serial Updates Using WordPress](https://dev.to/mohit_yadav108/how-i-built-a-website-for-daily-tv-serial-updates-using-wordpress-a12)
+- [Cloudflare Pages + Deno Deploy Full-Stack Boilerplate](https://dev.to/kirodotdev/cloudflare-pages-deno-deploy-full-stack-boilerplate-kj9)
+- [From DevOps to DevSecOps: How Secure Software Development Evolved](https://dev.to/mitchelljhonson/from-devops-to-devsecops-how-secure-software-development-evolved-17e0)
+- [What Scares Companies in 2025?](https://dev.to/martedva/what-scares-companies-in-2025-9ff)
+- [Supercharge Your Git Workflow with Laravel Commit‑Lint](https://dev.to/mubbi/supercharge-your-git-workflow-with-laravel-commit-lint-482n)
 <!-- BLOG-POST-LIST:END -->
 
