@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Folding expressions in C++](https://dev.to/pikotutorial/folding-expressions-in-c-3h63)
-- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
-- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
-- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
+- [Day 49: When Bureaucracy Finally Releases Its Death Grip](https://dev.to/casperday11/day-49-when-bureaucracy-finally-releases-its-death-grip-1li6)
+- [Why Senior Engineers Don’t Need All the Answers](https://dev.to/remejuan/why-senior-engineers-dont-need-all-the-answers-598d)
+- [I have something akin to writer&#39;s block. But it&#39;s not writer&#39;s block; it&#39;s a lack of inspiration. I want to write, but I have a huge lack of zeal or motivation to even try!! HELP!! 🥹](https://dev.to/dumebii/i-have-something-akin-to-writers-block-but-its-not-writers-block-its-a-lack-of-inspiration-i-1ogn)
+- [Best Machine Translation Software for Enterprises](https://dev.to/elenahartmann/best-machine-translation-software-for-enterprises-5bmk)
 <!-- BLOG-POST-LIST:END -->
 
