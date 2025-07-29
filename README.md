@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening the &quot;Black Box&quot;: A Journey into Vector Search and Spam Protection](https://dev.to/prema_ananda/opening-the-black-box-a-journey-into-vector-search-and-spam-protection-1kmd)
-- [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
-- [Top 20 Rising GitHub Projects with the Most Stars in 2025](https://dev.to/therealmrmumba/top-20-rising-github-projects-with-the-most-stars-in-2025-3idf)
-- [🧠 I Burned Out Trying to Balance Leetcode, OOP, and System Design — Here’s What Finally Worked](https://dev.to/huynhnguyen/i-burned-out-trying-to-balance-leetcode-oop-and-system-design-heres-what-finally-worked-c2j)
+- [Building Telegram Automation Workflows with n8n and Pinggy Webhooks](https://dev.to/lightningdev123/building-telegram-automation-workflows-with-n8n-and-pinggy-webhooks-12co)
+- [Protecting Against Open Source Malicious Packages: What Does &lpar;Not&rpar; Work](https://dev.to/xygenisecurity/protecting-against-open-source-malicious-packages-what-does-not-work-iaj)
+- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
+- [How I Built a Website for Daily TV Serial Updates Using WordPress](https://dev.to/mohit_yadav108/how-i-built-a-website-for-daily-tv-serial-updates-using-wordpress-a12)
 <!-- BLOG-POST-LIST:END -->
 
