@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The case for static blogs: faster, safer, and easier to maintain](https://dev.to/akshayarundev/the-case-for-static-blogs-faster-safer-and-easier-to-maintain-3a4l)
-- [Automate Research &amp; Analysis Workflows Across Any Domain with `mcp-agent`](https://dev.to/hani__8725b7a/automate-research-analysis-workflows-across-any-domain-with-mcp-agent-35in)
-- [Microsoft Fabric RTI MCP Server](https://dev.to/om_shree_0709/microsoft-fabric-rti-mcp-server-fc8)
-- [🔥 1BRC in Node.js: From 12 Minutes to 35 Seconds](https://dev.to/yuvraj2112/1brc-in-nodejs-from-12-minutes-to-35-seconds-15mp)
+- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
+- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
+- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
+- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
 <!-- BLOG-POST-LIST:END -->
 
