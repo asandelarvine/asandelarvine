@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Pages + Deno Deploy Full-Stack Boilerplate](https://dev.to/kirodotdev/cloudflare-pages-deno-deploy-full-stack-boilerplate-kj9)
-- [From DevOps to DevSecOps: How Secure Software Development Evolved](https://dev.to/mitchelljhonson/from-devops-to-devsecops-how-secure-software-development-evolved-17e0)
-- [What Scares Companies in 2025?](https://dev.to/martedva/what-scares-companies-in-2025-9ff)
-- [Supercharge Your Git Workflow with Laravel Commit‑Lint](https://dev.to/mubbi/supercharge-your-git-workflow-with-laravel-commit-lint-482n)
+- [Mastercard, Visa Under Fire As Petition To &#39;Not Police&#39; Legal Content Blows Up](https://dev.to/gg_news/mastercard-visa-under-fire-as-petition-to-not-police-legal-content-blows-up-217k)
+- [counteredAI - Negotiate Home Sale without an agent!: After the Hack - WLH Challenge](https://dev.to/ariondev/counteredai-negotiate-home-sale-without-an-agent-after-the-hack-wlh-challenge-5867)
+- [Verified OnlyFans Accounts: What They Are and How to Get One](https://dev.to/catrin_zanker_71399035fd3/verified-onlyfans-accounts-what-they-are-and-how-to-get-one-1036)
+- [Sidekick OS: Building with Bolt - WLH Challenge](https://dev.to/ariondev/sidekick-os-building-with-bolt-wlh-challenge-7o4)
 <!-- BLOG-POST-LIST:END -->
 
