@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
-- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
-- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
-- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
+- [Weekly update #2](https://dev.to/abytebybyte/weekly-update-2-p4h)
+- [Domine os livros de programação usando o NotebookLM do Google](https://dev.to/anabiscalchin/domine-os-livros-de-programacao-usando-o-notebooklm-do-google-413e)
+- [I made a tool which turns static SVG&#39;s into animations!](https://dev.to/nikhil_parmar_424124a9369/i-made-a-tool-which-turns-static-svgs-into-animations-3db0)
+- [🧠 Understanding the Difference Between IEnumerable and IQueryable in C#](https://dev.to/iamcymentho/understanding-the-difference-between-ienumerable-and-iqueryable-in-c-g4e)
 <!-- BLOG-POST-LIST:END -->
 
