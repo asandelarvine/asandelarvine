@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
-- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
-- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
-- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
+- [Offline Messaging Reinvented with Bitchat](https://dev.to/grenishrai/offline-messaging-reinvented-with-bitchat-5011)
+- [How to sell open source technology to the government](https://dev.to/cosine/how-to-sell-open-source-technology-to-the-government-4be1)
+- [How to Manage Tags and Locks in Azure](https://dev.to/arctaiwo/how-to-manage-tags-and-locks-in-azure-3dgm)
+- [How Can You Meet New People Online for Free? Here’s a 5-Step Guide That Actually Works](https://dev.to/tyler_barera_88e171d1b8b4/how-can-you-meet-new-people-online-for-free-heres-a-5-step-guide-that-actually-works-4mh2)
 <!-- BLOG-POST-LIST:END -->
 
