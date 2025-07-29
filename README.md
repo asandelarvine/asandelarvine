@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MicroSaaS in 2025: The Complete Guide for Solopreneurs](https://dev.to/axrisi/building-microsaas-in-2025-the-complete-guide-for-solopreneurs-7do)
-- [Introducing the dev.to MCP server](https://dev.to/nickytonline/introducing-the-devto-mcp-server-42jg)
-- [Why Your Favorite Content Tools Keep Getting Banned](https://dev.to/maybe_ai/why-your-favorite-content-tools-keep-getting-banned-2dbd)
-- [Create Basic Reverse Proxy with Nginx](https://dev.to/mustafasamedyeyin/create-basic-reverse-proxy-with-nginx-3131)
+- [my very first challenge](https://dev.to/depapp/my-very-first-challenge-3olk)
+- [🚀 Hello Developers &amp; Learners!](https://dev.to/kavindu_shashith_d289366d/hello-developers-learners-2dm7)
+- [📚 Serie: Diseño de Software en el Frontend — Índice](https://dev.to/azunico/serie-diseno-de-software-en-el-frontend-indice-1oj1)
+- [What is &#39;graphBuild&#39; in .NET CLI &amp; MsBuild](https://dev.to/enisn/what-is-graphbuild-in-net-cli-msbuild-1h2e)
 <!-- BLOG-POST-LIST:END -->
 
