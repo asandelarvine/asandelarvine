@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TrapDaemon Multi protocol Honeypot](https://dev.to/anis_anas_d866db777348da4/hi-guys-5al8)
-- [# 🚀 Building Pagonic: A Modern WinRAR Alternative with AI-Powered Compression](https://dev.to/setrathexx/-building-pagonic-a-modern-winrar-alternative-with-ai-powered-compression-3k1b)
-- [How I built a simple burn rate calculator with shadcn components](https://dev.to/solidifydev/how-i-built-a-simple-burn-rate-calculator-with-shadcn-components-1j50)
-- [I Built a Command-Line Spy++ to Log Windows Messages. Here&#39;s How.](https://dev.to/bored123/i-built-a-command-line-spy-to-log-windows-messages-heres-how-4332)
+- [Understanding Hoisting: How JavaScript Handles Declarations](https://dev.to/2021_cse_gayathrir_e733/understanding-hoisting-how-javascript-handles-declarations-3lkk)
+- [Modern Systems Are More Fragile: The more intricate a system is, the more potential points of failure it can present](https://dev.to/jeandevbr/modern-systems-are-more-fragile-the-more-intricate-a-system-is-the-more-potential-points-of-2fkg)
+- [ANN: rspec-stubbed_env v1.0.3](https://dev.to/galtzo/ann-rspec-stubbedenv-v103-7df)
+- [How AI is Transforming B2B Sourcing in 2025](https://dev.to/accioprocurement/how-ai-is-transforming-b2b-sourcing-in-2025-ok5)
 <!-- BLOG-POST-LIST:END -->
 
