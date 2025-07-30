@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing VB6 Back to Life: Run the Classic IDE on Windows 10/11 — No VM Needed](https://dev.to/milos74/bringing-vb6-back-to-life-run-the-classic-ide-on-windows-1011-no-vm-needed-3mm8)
-- [🔄 Implicit vs Explicit Dependencies in Terraform &lpar;And Why It’s Like Cooking With a Recipe&rpar;](https://dev.to/1suleyman/implicit-vs-explicit-dependencies-in-terraform-and-why-its-like-cooking-with-a-recipe-568b)
-- [Building Safer Swift Code with Noncopyable Types](https://dev.to/arshtechpro/building-safer-swift-code-with-noncopyable-types-930)
-- [Understanding the relationshipi power Bi and its importance](https://dev.to/maggyq/understanging-the-relationshipi-power-bi-and-its-importance-4bag)
+- [Desenvolvimento Assistido por IA: Explorando o Firebase Studio](https://dev.to/colatto/desenvolvimento-assistido-por-ia-explorando-o-firebase-studio-43kj)
+- [Measures of Central Tendency in Data Science](https://dev.to/maggyq/measures-of-central-tendency-in-data-science-2j6i)
+- [Cleaning Up the Feature Set #24](https://dev.to/0xj0n1/cleaning-up-the-feature-set-24-pa4)
+- [Sushihost.org: por qué el autoalojamiento sigue siendo relevante en 2025](https://dev.to/toufiq_b4073908fdc8953fd2/sushihostorg-por-que-el-autoalojamiento-sigue-siendo-relevante-en-2025-3o30)
 <!-- BLOG-POST-LIST:END -->
 
