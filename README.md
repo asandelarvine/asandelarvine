@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fast, Lightweight Web Server in Pure Ruby: A Complete Guide](https://dev.to/daviducolo/building-a-fast-lightweight-web-server-in-pure-ruby-a-complete-guide-2l57)
-- [[Boost]](https://dev.to/uliyahoo/-3d8m)
-- [Why Amazon S3 Is Ideal for Cloud Data Storage](https://dev.to/techcompass/why-amazon-s3-is-ideal-for-cloud-data-storage-2d1c)
-- [Introducing BLEEP: The Quantum-Secure, AI-Native, Self-Healing Blockchain](https://dev.to/mattahir/introducing-bleep-the-quantum-secure-ai-native-self-healing-blockchain-14ij)
+- [Ringer Movies: ‘Brokeback Mountain&#39; With Bill Simmons and Wesley Morris | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-brokeback-mountain-with-bill-simmons-and-wesley-morris-the-rewatchables-39kl)
+- [Ringer Movies: The 1990s Horror Movie Canon and The ‘KPop Demon Hunters&#39; Revolution | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-1990s-horror-movie-canon-and-the-kpop-demon-hunters-revolution-the-big-3j8k)
+- [CinemaSins: Everything Wrong With The Naked Gun: From the Files of Police Squad!](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-naked-gun-from-the-files-of-police-squad-30lk)
+- [What&#39;s the One DevOps &quot;Best Practice&quot; You Secretly Ignore &lpar;and Why&rpar;?](https://dev.to/devopsdaily/whats-the-one-devops-best-practice-you-secretly-ignore-and-why-2460)
 <!-- BLOG-POST-LIST:END -->
 
