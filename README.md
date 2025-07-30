@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing with AI](https://dev.to/phil-whittaker/playing-with-ai-43o1)
-- [Devlog: Why My API Was Called Twice &lpar;And It Was Totally My Fault&rpar;](https://dev.to/namit2111/devlog-why-my-api-was-called-twice-and-it-was-totally-my-fault-1knj)
-- [Hey Dev I`m new here let`s connect](https://dev.to/faithgoodness51/hey-dev-im-new-here-lets-connect-13o3)
-- [Building a Secure Go Backend with Binary Obfuscation: A Complete Guide](https://dev.to/lovestaco/building-a-secure-go-backend-with-binary-obfuscation-a-complete-guide-4fl4)
+- [☁️ EC2: AWS-Elastic Compute Cloud &lpar;Real-World Friendly &rpar;](https://dev.to/0xas1fsec404/ec2-aws-elastic-compute-cloud-real-world-friendly--1mk1)
+- [Cómo Instalar Deathmatch Classic de Steam en Manjaro, Arch y Otras Distribuciones](https://dev.to/juniormendoza3044/como-instalar-deathmatch-classic-de-steam-en-manjaro-arch-y-otras-distribuciones-50om)
+- [Características Técnicas del Sistema Operativo Linux CentOS](https://dev.to/juniormendoza3044/caracteristicas-tecnicas-del-sistema-operativo-linux-centos-3bn4)
+- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-1fd4)
 <!-- BLOG-POST-LIST:END -->
 
