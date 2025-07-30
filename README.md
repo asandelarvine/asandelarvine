@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the sidebar live soon for intra-forem navigation](https://dev.to/ben/getting-the-sidebar-live-soon-for-intra-forem-navigation-39i8)
-- [simple python IP pinger](https://dev.to/notdonk/simple-python-ip-pinger-ffm)
-- [“Not everyone takes the traditional path into tech — and that’s okay &quot;.](https://dev.to/mezcode/not-everyone-takes-the-traditional-path-into-tech-and-thats-okay--2gjn)
-- [C++](https://dev.to/parshuram_singh/c-1hp1)
+- [Noclip: How Games Are Made: TREES](https://dev.to/gg_news/noclip-how-games-are-made-trees-54h8)
+- [GameSpot: The MIX BitSummit 2025 Showcase](https://dev.to/gg_news/gamespot-the-mix-bitsummit-2025-showcase-hb)
+- [GameSpot: Grounded 2 Early Access is GREAT... But Also More of the Same So Far](https://dev.to/gg_news/gamespot-grounded-2-early-access-is-great-but-also-more-of-the-same-so-far-4odh)
+- [IGN: The State of Every PlayStation Studio - Summer 2025 Update](https://dev.to/gg_news/ign-the-state-of-every-playstation-studio-summer-2025-update-2c7f)
 <!-- BLOG-POST-LIST:END -->
 
