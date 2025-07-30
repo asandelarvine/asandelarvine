@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Noclip: How Games Are Made: TREES](https://dev.to/gg_news/noclip-how-games-are-made-trees-54h8)
-- [GameSpot: The MIX BitSummit 2025 Showcase](https://dev.to/gg_news/gamespot-the-mix-bitsummit-2025-showcase-hb)
-- [GameSpot: Grounded 2 Early Access is GREAT... But Also More of the Same So Far](https://dev.to/gg_news/gamespot-grounded-2-early-access-is-great-but-also-more-of-the-same-so-far-4odh)
-- [IGN: The State of Every PlayStation Studio - Summer 2025 Update](https://dev.to/gg_news/ign-the-state-of-every-playstation-studio-summer-2025-update-2c7f)
+- [Playing with AI](https://dev.to/phil-whittaker/playing-with-ai-43o1)
+- [Devlog: Why My API Was Called Twice &lpar;And It Was Totally My Fault&rpar;](https://dev.to/namit2111/devlog-why-my-api-was-called-twice-and-it-was-totally-my-fault-1knj)
+- [Hey Dev I`m new here let`s connect](https://dev.to/faithgoodness51/hey-dev-im-new-here-lets-connect-13o3)
+- [Building a Secure Go Backend with Binary Obfuscation: A Complete Guide](https://dev.to/lovestaco/building-a-secure-go-backend-with-binary-obfuscation-a-complete-guide-4fl4)
 <!-- BLOG-POST-LIST:END -->
 
