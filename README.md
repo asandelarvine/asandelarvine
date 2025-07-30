@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Small idea for maintaining complicated RxDart Applications - Part 1](https://dev.to/bookofcooks/small-ideas-for-maintaining-complicated-rxdart-applications-part-1-1ek5)
-- [Building Custom Tools with Termux and GitHub Repos](https://dev.to/terminaltools/building-custom-tools-with-termux-and-github-repos-5g73)
-- [Building a Real-Time Forex Rate Conversion App with Finage API](https://dev.to/reynaldi/building-a-real-time-forex-rate-conversion-app-with-finage-api-505n)
-- [Deploying Next.js on AWS: Why We Migrated from Amplify to ECS](https://dev.to/u11d/deploying-nextjs-on-aws-why-we-migrated-from-amplify-to-ecs-18ic)
+- [Building a Fast, Lightweight Web Server in Pure Ruby: A Complete Guide](https://dev.to/daviducolo/building-a-fast-lightweight-web-server-in-pure-ruby-a-complete-guide-2l57)
+- [[Boost]](https://dev.to/uliyahoo/-3d8m)
+- [Why Amazon S3 Is Ideal for Cloud Data Storage](https://dev.to/techcompass/why-amazon-s3-is-ideal-for-cloud-data-storage-2d1c)
+- [Introducing BLEEP: The Quantum-Secure, AI-Native, Self-Healing Blockchain](https://dev.to/mattahir/introducing-bleep-the-quantum-secure-ai-native-self-healing-blockchain-14ij)
 <!-- BLOG-POST-LIST:END -->
 
