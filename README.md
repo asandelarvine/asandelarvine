@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Tags and Locks](https://dev.to/lotanna_obianefo/managing-tags-and-locks-2baf)
-- [Control Storage Access](https://dev.to/lotanna_obianefo/control-storage-access-g0n)
-- [Building GalaxyViewer - Part 1](https://dev.to/galaxylittlepaws/building-galaxyviewer-part-1-1403)
-- [🚀Top 25 Chrome Extensions for DEVs🧑‍💻](https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a)
+- [Understanding JAVA Interfaces](https://dev.to/sudamsiths/understanding-java-interfaces-49ek)
+- [Overengineering OpenGraph image generation on Vercel](https://dev.to/topcat/overengineering-opengraph-image-generation-on-vercel-5fh)
+- [《Hotspot Event Analysis tool》--developed based on the LLM-enhanced approach](https://dev.to/zhangzib123/-developed-based-on-the-llm-enhanced-approach-1coc)
+- [🔧 Bitcoin Mining in 2025: Industrial Scale, Shrinking Margins, and a New Class of Players](https://dev.to/andylarkin677/bitcoin-mining-in-2025-industrial-scale-shrinking-margins-and-a-new-class-of-players-2m6j)
 <!-- BLOG-POST-LIST:END -->
 
