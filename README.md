@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Brokeback Mountain&#39; With Bill Simmons and Wesley Morris | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-brokeback-mountain-with-bill-simmons-and-wesley-morris-the-rewatchables-39kl)
-- [Ringer Movies: The 1990s Horror Movie Canon and The ‘KPop Demon Hunters&#39; Revolution | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-1990s-horror-movie-canon-and-the-kpop-demon-hunters-revolution-the-big-3j8k)
-- [CinemaSins: Everything Wrong With The Naked Gun: From the Files of Police Squad!](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-naked-gun-from-the-files-of-police-squad-30lk)
-- [What&#39;s the One DevOps &quot;Best Practice&quot; You Secretly Ignore &lpar;and Why&rpar;?](https://dev.to/devopsdaily/whats-the-one-devops-best-practice-you-secretly-ignore-and-why-2460)
+- [Getting the sidebar live soon for intra-forem navigation](https://dev.to/ben/getting-the-sidebar-live-soon-for-intra-forem-navigation-39i8)
+- [simple python IP pinger](https://dev.to/notdonk/simple-python-ip-pinger-ffm)
+- [“Not everyone takes the traditional path into tech — and that’s okay &quot;.](https://dev.to/mezcode/not-everyone-takes-the-traditional-path-into-tech-and-thats-okay--2gjn)
+- [C++](https://dev.to/parshuram_singh/c-1hp1)
 <!-- BLOG-POST-LIST:END -->
 
