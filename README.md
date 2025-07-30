@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From DynamoDB Limitations to PostgreSQL Innovation: How I Built AuroraWire](https://dev.to/bhoobalan-bhoo/from-dynamodb-limitations-to-postgresql-innovation-how-i-built-aurorawire-428o)
-- [Welcome Thread - v337](https://dev.to/devteam/welcome-thread-v337-4efm)
-- [A usePrevious Hook Disaster Story](https://dev.to/childrentime/a-useprevious-hook-disaster-story-3ngn)
-- [Mastering Pointers in Doubly Linked Lists: Challenges and Solutions](https://dev.to/adityabhuyan/mastering-pointers-in-doubly-linked-lists-challenges-and-solutions-bo7)
+- [Claude Code’s Custom Agent Framework Changes Everything](https://dev.to/therealmrmumba/claude-codes-custom-agent-framework-changes-everything-4o4m)
+- [[Boost]](https://dev.to/alvaromontoro/-489a)
+- [WT Yandex map items v.2.0.5 Joomla module has been released](https://dev.to/sergeytolkachyov/wt-yandex-map-items-v205-joomla-module-has-been-released-1350)
+- [399. Evaluate Division](https://dev.to/rakeshreddy512/399-evaluate-division-20bg)
 <!-- BLOG-POST-LIST:END -->
 
