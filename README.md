@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Tanbol: a clean way to share code snippets with preview and copy support](https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3)
-- [The Hidden Cost of Free AI: Don’t Let ChatGPT Replace Your Thinking](https://dev.to/jenueldev/the-hidden-cost-of-free-ai-dont-let-chatgpt-replace-your-thinking-3mfi)
-- [Multimodal Face Recognition Pipeline with CocoIndex: Real-Time Image and Vector Search](https://dev.to/cocoindex/multimodal-face-recognition-pipeline-with-cocoindex-real-time-image-and-vector-search-19hi)
-- [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
+- [A beginner&#39;s guide to the Minicpm-V-26 model by Pipi32167 on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-minicpm-v-26-model-by-pipi32167-on-replicate-1c7i)
+- [2025 Complete Guide: Agent2Agent &lpar;A2A&rpar; Protocol Advanced Features Deep Dive &lpar;Part 2&rpar;](https://dev.to/czmilo/2025-complete-guide-agent2agent-a2a-protocol-advanced-features-deep-dive-part-2-13il)
+- [How I built JavaScript&#39;s fastest “deep clone” function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-clone-function-5fe0)
+- [Threads no Spring Batch para Processamento de Dados](https://dev.to/ikauedev/threads-no-spring-batch-para-processamento-de-dados-51a9)
 <!-- BLOG-POST-LIST:END -->
 
