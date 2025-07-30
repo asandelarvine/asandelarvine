@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Minicpm-V-26 model by Pipi32167 on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-minicpm-v-26-model-by-pipi32167-on-replicate-1c7i)
-- [2025 Complete Guide: Agent2Agent &lpar;A2A&rpar; Protocol Advanced Features Deep Dive &lpar;Part 2&rpar;](https://dev.to/czmilo/2025-complete-guide-agent2agent-a2a-protocol-advanced-features-deep-dive-part-2-13il)
-- [How I built JavaScript&#39;s fastest “deep clone” function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-clone-function-5fe0)
-- [Threads no Spring Batch para Processamento de Dados](https://dev.to/ikauedev/threads-no-spring-batch-para-processamento-de-dados-51a9)
+- [From DynamoDB Limitations to PostgreSQL Innovation: How I Built AuroraWire](https://dev.to/bhoobalan-bhoo/from-dynamodb-limitations-to-postgresql-innovation-how-i-built-aurorawire-428o)
+- [Welcome Thread - v337](https://dev.to/devteam/welcome-thread-v337-4efm)
+- [A usePrevious Hook Disaster Story](https://dev.to/childrentime/a-useprevious-hook-disaster-story-3ngn)
+- [Mastering Pointers in Doubly Linked Lists: Challenges and Solutions](https://dev.to/adityabhuyan/mastering-pointers-in-doubly-linked-lists-challenges-and-solutions-bo7)
 <!-- BLOG-POST-LIST:END -->
 
