@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: Peter Finch vs Viktor Hovland &lpar;14 Club Challenge!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-viktor-hovland-14-club-challenge-e2i)
-- [GameSpot: Grounded 2 has a GREAT START But I want MORE | Early Access Impressions](https://dev.to/gg_news/gamespot-grounded-2-has-a-great-start-but-i-want-more-early-access-impressions-bha)
-- [IGN: Weapons Review](https://dev.to/gg_news/ign-weapons-review-46j6)
-- [IGN: Marvel Animation&#39;s Eyes of Wakanda - Official Teaser Trailer 2 &lpar;2025&rpar; Winnie Harlow, Danai Gurira](https://dev.to/gg_news/ign-marvel-animations-eyes-of-wakanda-official-teaser-trailer-2-2025-winnie-harlow-danai-5240)
+- [Bringing VB6 Back to Life: Run the Classic IDE on Windows 10/11 — No VM Needed](https://dev.to/milos74/bringing-vb6-back-to-life-run-the-classic-ide-on-windows-1011-no-vm-needed-3mm8)
+- [🔄 Implicit vs Explicit Dependencies in Terraform &lpar;And Why It’s Like Cooking With a Recipe&rpar;](https://dev.to/1suleyman/implicit-vs-explicit-dependencies-in-terraform-and-why-its-like-cooking-with-a-recipe-568b)
+- [Building Safer Swift Code with Noncopyable Types](https://dev.to/arshtechpro/building-safer-swift-code-with-noncopyable-types-930)
+- [Understanding the relationshipi power Bi and its importance](https://dev.to/maggyq/understanging-the-relationshipi-power-bi-and-its-importance-4bag)
 <!-- BLOG-POST-LIST:END -->
 
