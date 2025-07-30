@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure SSH for accessing remote repositories](https://dev.to/capscode/how-to-configure-ssh-for-accessing-remote-repositories-l2c)
-- [I Built Selqio.com - Free Web Tools for Developers &lpar;No Signup Required!&rpar;](https://dev.to/joran/i-built-selqiocom-free-web-tools-for-developers-no-signup-required-561i)
-- [ArkTS Best Practices: How to Build a Modular Theme Management System in 2025](https://dev.to/harmonyos/arkts-best-practices-how-to-build-a-modular-theme-management-system-in-2025-4e4p)
-- [The Two Generals’ Problem: A Fundamental Communication Paradox](https://dev.to/grenishrai/the-two-generals-problem-a-fundamental-communication-paradox-2oh8)
+- [Managing Tags and Locks](https://dev.to/lotanna_obianefo/managing-tags-and-locks-2baf)
+- [Control Storage Access](https://dev.to/lotanna_obianefo/control-storage-access-g0n)
+- [Building GalaxyViewer - Part 1](https://dev.to/galaxylittlepaws/building-galaxyviewer-part-1-1403)
+- [🚀Top 25 Chrome Extensions for DEVs🧑‍💻](https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a)
 <!-- BLOG-POST-LIST:END -->
 
