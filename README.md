@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future](https://dev.to/firstfruits41/the-future-hdc)
-- [Accomplishments and Lessons](https://dev.to/firstfruits41/accomplishments-and-lessons-1dlb)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-214b)
-- [Creating with Bolt](https://dev.to/firstfruits41/creating-with-bolt-41od)
+- [Peter Finch Golf: Peter Finch vs Viktor Hovland &lpar;14 Club Challenge!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-viktor-hovland-14-club-challenge-e2i)
+- [GameSpot: Grounded 2 has a GREAT START But I want MORE | Early Access Impressions](https://dev.to/gg_news/gamespot-grounded-2-has-a-great-start-but-i-want-more-early-access-impressions-bha)
+- [IGN: Weapons Review](https://dev.to/gg_news/ign-weapons-review-46j6)
+- [IGN: Marvel Animation&#39;s Eyes of Wakanda - Official Teaser Trailer 2 &lpar;2025&rpar; Winnie Harlow, Danai Gurira](https://dev.to/gg_news/ign-marvel-animations-eyes-of-wakanda-official-teaser-trailer-2-2025-winnie-harlow-danai-5240)
 <!-- BLOG-POST-LIST:END -->
 
