@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔮 Top 5 Future-Proof Tech Skills Every Developer Should Learn](https://dev.to/pjdeveloper896/top-5-future-proof-tech-skills-every-developer-should-learn-3a5m)
-- [Take Control: Manage Hybrid Cloud Environment Using Azure Arc](https://dev.to/testree/take-control-manage-hybrid-cloud-environment-using-azure-arc-1m5l)
-- [Best Translation Software for PC](https://dev.to/colinreed/best-translation-software-for-pc-35ci)
-- [bbb](https://dev.to/armaankhan8270/bbb-14h)
+- [Insomnia vs. Postman: Which Tool Excels in API Documentation and Workflow?](https://dev.to/fallon_jimmy/insomnia-vs-postman-which-tool-excels-in-api-documentation-and-workflow-29jd)
+- [Day-69 Understanding Java Interfaces and the final Keyword](https://dev.to/tamilselvan1812/day-69-understanding-java-interfaces-and-the-final-keyword-50l7)
+- [Custom Resource Definitions &lpar;CRDs&rpar;](https://dev.to/godofgeeks/custom-resource-definitions-crds-1l2f)
+- [How To Stop Malware Files/Zip to Been Uploaded in your Website](https://dev.to/sonotommy/how-to-stop-malware-fileszip-to-been-uploaded-in-your-website-7gd)
 <!-- BLOG-POST-LIST:END -->
 
