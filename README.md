@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code’s Custom Agent Framework Changes Everything](https://dev.to/therealmrmumba/claude-codes-custom-agent-framework-changes-everything-4o4m)
-- [[Boost]](https://dev.to/alvaromontoro/-489a)
-- [WT Yandex map items v.2.0.5 Joomla module has been released](https://dev.to/sergeytolkachyov/wt-yandex-map-items-v205-joomla-module-has-been-released-1350)
-- [399. Evaluate Division](https://dev.to/rakeshreddy512/399-evaluate-division-20bg)
+- [🔮 Top 5 Future-Proof Tech Skills Every Developer Should Learn](https://dev.to/pjdeveloper896/top-5-future-proof-tech-skills-every-developer-should-learn-3a5m)
+- [Take Control: Manage Hybrid Cloud Environment Using Azure Arc](https://dev.to/testree/take-control-manage-hybrid-cloud-environment-using-azure-arc-1m5l)
+- [Best Translation Software for PC](https://dev.to/colinreed/best-translation-software-for-pc-35ci)
+- [bbb](https://dev.to/armaankhan8270/bbb-14h)
 <!-- BLOG-POST-LIST:END -->
 
