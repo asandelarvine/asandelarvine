@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insomnia vs. Postman: Which Tool Excels in API Documentation and Workflow?](https://dev.to/fallon_jimmy/insomnia-vs-postman-which-tool-excels-in-api-documentation-and-workflow-29jd)
-- [Day-69 Understanding Java Interfaces and the final Keyword](https://dev.to/tamilselvan1812/day-69-understanding-java-interfaces-and-the-final-keyword-50l7)
-- [Custom Resource Definitions &lpar;CRDs&rpar;](https://dev.to/godofgeeks/custom-resource-definitions-crds-1l2f)
-- [How To Stop Malware Files/Zip to Been Uploaded in your Website](https://dev.to/sonotommy/how-to-stop-malware-fileszip-to-been-uploaded-in-your-website-7gd)
+- [How to Switch SafeLine WAF to a Valid SSL Certificate](https://dev.to/sharon_42e16b8da44dabde6d/how-to-switch-safeline-waf-to-a-valid-ssl-certificate-38gi)
+- [Bad Nesting in Kotlin Coroutines: The Bug That&#39;s not a Bug &lpar;Until it is&rpar;](https://dev.to/abizer_r/bad-nesting-in-kotlin-coroutines-the-bug-thats-not-a-bug-until-it-is-2jm3)
+- [OSE: A Programming Language of &quot;What,&quot; Not &quot;How&quot;](https://dev.to/codigger/ose-a-programming-language-of-what-not-how-5bil)
+- [Untitled](https://dev.to/mirhuseyn_slimov_77938a4/untitled-4ea)
 <!-- BLOG-POST-LIST:END -->
 
