@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Switch SafeLine WAF to a Valid SSL Certificate](https://dev.to/sharon_42e16b8da44dabde6d/how-to-switch-safeline-waf-to-a-valid-ssl-certificate-38gi)
-- [Bad Nesting in Kotlin Coroutines: The Bug That&#39;s not a Bug &lpar;Until it is&rpar;](https://dev.to/abizer_r/bad-nesting-in-kotlin-coroutines-the-bug-thats-not-a-bug-until-it-is-2jm3)
-- [OSE: A Programming Language of &quot;What,&quot; Not &quot;How&quot;](https://dev.to/codigger/ose-a-programming-language-of-what-not-how-5bil)
-- [Untitled](https://dev.to/mirhuseyn_slimov_77938a4/untitled-4ea)
+- [How to configure SSH for accessing remote repositories](https://dev.to/capscode/how-to-configure-ssh-for-accessing-remote-repositories-l2c)
+- [I Built Selqio.com - Free Web Tools for Developers &lpar;No Signup Required!&rpar;](https://dev.to/joran/i-built-selqiocom-free-web-tools-for-developers-no-signup-required-561i)
+- [ArkTS Best Practices: How to Build a Modular Theme Management System in 2025](https://dev.to/harmonyos/arkts-best-practices-how-to-build-a-modular-theme-management-system-in-2025-4e4p)
+- [The Two Generals’ Problem: A Fundamental Communication Paradox](https://dev.to/grenishrai/the-two-generals-problem-a-fundamental-communication-paradox-2oh8)
 <!-- BLOG-POST-LIST:END -->
 
