@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Was the Previous Situation in R2 Zones?](https://dev.to/john_caesar_3e38fbfe2855e/what-was-the-previous-situation-in-r2-zones-4b4k)
-- [From Brute Force to Kadane’s: Solving the Maximum Subarray Problem Efficiently](https://dev.to/umair01/from-brute-force-to-kadanes-solving-the-maximum-subarray-problem-efficiently-37eo)
-- [The Bug That Drove Me So Crazy, I Got Hired Just to Fix It](https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2)
-- [How TaskForce is Reimagining Freelancing with Web3 and Real Token Utility](https://dev.to/taskforceweb3/how-taskforce-is-reimagining-freelancing-with-web3-and-real-token-utility-177p)
+- [Calculating the Win Probabilities of Premier League Teams&lpar;2024&rpar;](https://dev.to/faith_cheptoo_799c7f28353/calculating-the-win-probabilities-of-premier-league-teams2024-ega)
+- [How We Automated Project Administration with Jira, Make and Airtable](https://dev.to/alifar/how-we-automated-project-administration-with-jira-make-and-airtable-4i3g)
+- [The Best Free WAF You’re Not Using: SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/the-best-free-waf-youre-not-using-safeline-4ad9)
+- [VRAM for 3D Rendering in 2025: How Much Do You Really Need?](https://dev.to/irender_gpu_cloud/vram-for-3d-rendering-in-2025-how-much-do-you-really-need-73p)
 <!-- BLOG-POST-LIST:END -->
 
