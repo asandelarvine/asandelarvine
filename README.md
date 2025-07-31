@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Datatypes](https://dev.to/jeeva_aj_abb983eb6ebb0f43/java-datatypes-beh)
-- [4 Must-Know ML Projects on GitHub](https://dev.to/scrapestorm/4-must-know-ml-projects-on-github-122m)
-- [Features of Java Program](https://dev.to/jeeva_aj_abb983eb6ebb0f43/features-of-java-program-1nkm)
-- [Front up with front matter](https://dev.to/kinde/front-up-with-front-matter-3d95)
+- [Tracking, Security, and Control: What the Referer Header Tells You](https://dev.to/ellapark/tracking-security-and-control-what-the-referer-header-tells-you-3ghj)
+- [The Evolution of React Exposure Tracking Components: A Frontend Engineer&#39;s Journey from Chaos to Elegance](https://dev.to/childrentime/the-evolution-of-react-exposure-tracking-components-a-frontend-engineers-journey-from-chaos-to-24b)
+- [. isn&#39;t needed at the end of ALT attributes](https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf)
+- [Charlex WebOS](https://dev.to/pyshwaa/charlex-webos-13hd)
 <!-- BLOG-POST-LIST:END -->
 
