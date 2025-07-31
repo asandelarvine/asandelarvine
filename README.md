@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculating the Win Probabilities of Premier League Teams&lpar;2024&rpar;](https://dev.to/faith_cheptoo_799c7f28353/calculating-the-win-probabilities-of-premier-league-teams2024-ega)
-- [How We Automated Project Administration with Jira, Make and Airtable](https://dev.to/alifar/how-we-automated-project-administration-with-jira-make-and-airtable-4i3g)
-- [The Best Free WAF You’re Not Using: SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/the-best-free-waf-youre-not-using-safeline-4ad9)
-- [VRAM for 3D Rendering in 2025: How Much Do You Really Need?](https://dev.to/irender_gpu_cloud/vram-for-3d-rendering-in-2025-how-much-do-you-really-need-73p)
+- [My Journey into Data Science with Python: A Personal Story of Curiosity, Challenges, and Career Growth](https://dev.to/gowtham_pps_c485763158a84/my-journey-into-data-science-with-python-a-personal-story-of-curiosity-challenges-and-career-1bcm)
+- [Load Balancing AI/ML API with Apache APISIX](https://dev.to/apisix/load-balancing-aiml-api-with-apache-apisix-4d7e)
+- [The Complete React Native Styling Guide Every Developer Needs](https://dev.to/arsdev/the-complete-react-native-styling-guide-every-developer-needs-252a)
+- [Incorrect PFS Free Space Information Error in SQL Server: A DBA’s Guide](https://dev.to/arun555/incorrect-pfs-free-space-information-error-in-sql-server-a-dbas-guide-3kgk)
 <!-- BLOG-POST-LIST:END -->
 
