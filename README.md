@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Voice‑First AI App in One Weekend — Here’s Everything I Got Right &lpar;and Wrong&rpar;](https://dev.to/sholajegede/i-built-a-voice-first-ai-app-in-one-weekend-heres-everything-i-got-right-and-wrong-27fa)
-- [Canary deployments are the unsung heroes of high-confidence releases.](https://dev.to/shlok-talepa/canary-deployments-are-the-unsung-heroes-of-high-confidence-releases-3e14)
-- [Discover the Best AI-Powered SaaS Tools with Launch Scroll](https://dev.to/jesus_camacho_ec7cc1de8d7/discover-the-best-ai-powered-saas-tools-with-launch-scroll-5509)
-- [Qwen3-Coder-30B-A3B released!](https://dev.to/ndmckay/qwen3-coder-30b-a3b-released-inh)
+- [Using GitHub Copilot to Manage Issues &lpar;and Save Time&rpar;](https://dev.to/sarahcssiqueira/using-github-copilot-to-manage-issues-and-save-time-3549)
+- [GameSpot: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/gamespot-thq-nordic-digital-showcase-2025-2la0)
+- [IGN: The Fantastic Four: First Steps - Official &#39;Hold On&#39; Trailer &lpar;2025&rpar; Pedro Pascal, Vanessa Kirby](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-hold-on-trailer-2025-pedro-pascal-vanessa-kirby-56fe)
+- [IGN: No, Hideo Kojima Won&#39;t Be Playing Metal Gear Solid Delta Snake Eater - IGN Daily Fix](https://dev.to/gg_news/ign-no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater-ign-daily-fix-41mk)
 <!-- BLOG-POST-LIST:END -->
 
