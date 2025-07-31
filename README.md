@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 YOGA AI ASSISTANT-BOT✨](https://dev.to/yoga0022/yoga-ai-assistant-bot-5feg)
-- [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
-- [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
-- [S3 vs EBS vs EFS – AWS Storage Simplified with Real-Life Use Cases 📦](https://dev.to/yash_sonawane25/s3-vs-ebs-vs-efs-aws-storage-simplified-with-real-life-use-cases-2o09)
+- [Java Datatypes](https://dev.to/jeeva_aj_abb983eb6ebb0f43/java-datatypes-beh)
+- [4 Must-Know ML Projects on GitHub](https://dev.to/scrapestorm/4-must-know-ml-projects-on-github-122m)
+- [Features of Java Program](https://dev.to/jeeva_aj_abb983eb6ebb0f43/features-of-java-program-1nkm)
+- [Front up with front matter](https://dev.to/kinde/front-up-with-front-matter-3d95)
 <!-- BLOG-POST-LIST:END -->
 
