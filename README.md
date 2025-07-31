@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to Code on Your Own - Common Challenges and How to Beat Them](https://dev.to/zerozulu/learning-to-code-on-your-own-common-challenges-and-how-to-beat-them-2i2i)
-- [👨‍💻 Teach Yourself CS — A Self-Taught Developer’s Roadmap to Computer Science](https://dev.to/ml318097/teach-yourself-cs-a-self-taught-developers-roadmap-to-computer-science-1p19)
-- [🚀 Hey Developers &amp; Tech Enthusiasts!](https://dev.to/alanhasn/hey-developers-tech-enthusiasts-2o4j)
-- [Strengthening Web Security with HTTP Headers in Express.js](https://dev.to/mariohhd/strengthening-web-security-with-http-headers-in-expressjs-50jn)
+- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
+- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
+- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
+- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
 <!-- BLOG-POST-LIST:END -->
 
