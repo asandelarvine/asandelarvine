@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building the Freight Tracker Frontend &lpar;Phase 1&rpar;](https://dev.to/jayantineu/building-the-freight-tracker-frontend-phase-1-4clk)
-- [From Red Errors to Real Confidence](https://dev.to/daoistrose/from-red-errors-to-real-confidence-5jm)
-- [Notes and Takes from Computer Systems, A Programmer&#39;s Perspective - Chapter 1, from a Non-CS Grad](https://dev.to/lawson_ngole/notes-and-takes-from-computer-systems-a-programmers-perspective-chapter-1-from-a-non-cs-grad-8h2)
-- [Advanced Git Mastery – Second edition 2025](https://dev.to/laravel_dailytips/advanced-git-mastery-second-edition-2025-elp)
+- [Learning to Code on Your Own - Common Challenges and How to Beat Them](https://dev.to/zerozulu/learning-to-code-on-your-own-common-challenges-and-how-to-beat-them-2i2i)
+- [👨‍💻 Teach Yourself CS — A Self-Taught Developer’s Roadmap to Computer Science](https://dev.to/ml318097/teach-yourself-cs-a-self-taught-developers-roadmap-to-computer-science-1p19)
+- [🚀 Hey Developers &amp; Tech Enthusiasts!](https://dev.to/alanhasn/hey-developers-tech-enthusiasts-2o4j)
+- [Strengthening Web Security with HTTP Headers in Express.js](https://dev.to/mariohhd/strengthening-web-security-with-http-headers-in-expressjs-50jn)
 <!-- BLOG-POST-LIST:END -->
 
