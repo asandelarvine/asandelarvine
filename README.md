@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Repetitive Manual Testing Is a Risk to Product Quality](https://dev.to/qalogy/why-repetitive-manual-testing-is-a-risk-to-product-quality-47g4)
-- [Building a Serverless PDF Processing Pipeline with Next.js and iLovePDF](https://dev.to/acetoolz/building-a-serverless-pdf-processing-pipeline-with-nextjs-and-ilovepdf-2lc0)
-- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
-- [Manage Your Large Laravel Application with Simplicity](https://dev.to/haseebmirza/manage-your-large-laravel-application-with-simplicity-3gfk)
+- [🧱 Why I Stopped Building Side Projects and Started Shipping $99 Micro-SaaS Tools](https://dev.to/0x7b-shop/why-i-stopped-building-side-projects-and-started-shipping-99-micro-saas-tools-593c)
+- [Building Privacy-Preserving Federated AI on ROFL with Flashback Labs](https://dev.to/caerlower/building-privacy-preserving-federated-ai-on-rofl-with-flashback-labs-2nae)
+- [Building Confidential Identity and Reputation Systems with ROFL and Plurality](https://dev.to/caerlower/building-confidential-identity-and-reputation-systems-with-rofl-and-plurality-2d7m)
+- [🧪 How I Use “MVP Stacking” to Build Multiple Startups Without Burning Out](https://dev.to/abubakersiddique771/how-i-use-mvp-stacking-to-build-multiple-startups-without-burning-out-1o7c)
 <!-- BLOG-POST-LIST:END -->
 
