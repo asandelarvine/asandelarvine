@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
-- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
-- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
-- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
+- [From Side Project to Paid SaaS — Adding Subscriptions &amp; Usage Tiers to an AI App](https://dev.to/sholajegede/from-side-project-to-paid-saas-adding-subscriptions-usage-tiers-to-an-ai-app-1ml4)
+- [🧨Three Weeks of Code Gone! One Git Tool Saved It](https://dev.to/zujaj/three-weeks-of-code-gone-one-git-tool-saved-it-4h8o)
+- [How I Automated My YouTube Intros with Just One Python Script!](https://dev.to/saint_vandora/how-i-automated-my-youtube-intros-with-just-one-python-script-2182)
+- [Stop Lying in Daily Standups](https://dev.to/supejuice/stop-lying-in-daily-standups-95k)
 <!-- BLOG-POST-LIST:END -->
 
