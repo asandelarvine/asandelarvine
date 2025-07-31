@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context engineering for production-grade web agents](https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a)
-- [🧠 My Personal Bash Scripts Repository on GitHub](https://dev.to/seifeldienahmad/-my-personal-bash-scripts-repository-on-github-101o)
-- [🎬 CineFlow: A Self-Hosted Workflow to Automate Jellyfin + Jackett + Transmission](https://dev.to/sandor_szilagyi/cineflow-a-self-hosted-workflow-to-automate-jellyfin-jackett-transmission-2pmi)
-- [Common Challenges in Migration Projects and How to Overcome Them](https://dev.to/fred_rodrigues_996451110b/common-challenges-in-migration-projects-and-how-to-overcome-them-4k1n)
+- [No Laying Up Podcast: Ben Griffin | NLU Pod, Ep 1049](https://dev.to/youtube_golf/no-laying-up-podcast-ben-griffin-nlu-pod-ep-1049-298k)
+- [IGN: Borderlands 4 - Official Rafa &#39;YOLT&#39; Character Story Trailer](https://dev.to/gg_news/ign-borderlands-4-official-rafa-yolt-character-story-trailer-5a68)
+- [IGN: The Lost Bus - Official Trailer &lpar;2025&rpar; Matthew McConaughey, America Ferrera](https://dev.to/gg_news/ign-the-lost-bus-official-trailer-2025-matthew-mcconaughey-america-ferrera-37hh)
+- [IGN: EA Says No $80 Games for Now: &#39;We&#39;re Not Looking to Make Any Changes at This Stage&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-ea-says-no-80-games-for-now-were-not-looking-to-make-any-changes-at-this-stage-ign-6fc)
 <!-- BLOG-POST-LIST:END -->
 
