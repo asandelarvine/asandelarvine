@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Why I Stopped Building Side Projects and Started Shipping $99 Micro-SaaS Tools](https://dev.to/0x7b-shop/why-i-stopped-building-side-projects-and-started-shipping-99-micro-saas-tools-593c)
-- [Building Privacy-Preserving Federated AI on ROFL with Flashback Labs](https://dev.to/caerlower/building-privacy-preserving-federated-ai-on-rofl-with-flashback-labs-2nae)
-- [Building Confidential Identity and Reputation Systems with ROFL and Plurality](https://dev.to/caerlower/building-confidential-identity-and-reputation-systems-with-rofl-and-plurality-2d7m)
-- [🧪 How I Use “MVP Stacking” to Build Multiple Startups Without Burning Out](https://dev.to/abubakersiddique771/how-i-use-mvp-stacking-to-build-multiple-startups-without-burning-out-1o7c)
+- [I Built a Voice‑First AI App in One Weekend — Here’s Everything I Got Right &lpar;and Wrong&rpar;](https://dev.to/sholajegede/i-built-a-voice-first-ai-app-in-one-weekend-heres-everything-i-got-right-and-wrong-27fa)
+- [Canary deployments are the unsung heroes of high-confidence releases.](https://dev.to/shlok-talepa/canary-deployments-are-the-unsung-heroes-of-high-confidence-releases-3e14)
+- [Discover the Best AI-Powered SaaS Tools with Launch Scroll](https://dev.to/jesus_camacho_ec7cc1de8d7/discover-the-best-ai-powered-saas-tools-with-launch-scroll-5509)
+- [Qwen3-Coder-30B-A3B released!](https://dev.to/ndmckay/qwen3-coder-30b-a3b-released-inh)
 <!-- BLOG-POST-LIST:END -->
 
