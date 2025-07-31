@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Ben Griffin | NLU Pod, Ep 1049](https://dev.to/youtube_golf/no-laying-up-podcast-ben-griffin-nlu-pod-ep-1049-298k)
-- [IGN: Borderlands 4 - Official Rafa &#39;YOLT&#39; Character Story Trailer](https://dev.to/gg_news/ign-borderlands-4-official-rafa-yolt-character-story-trailer-5a68)
-- [IGN: The Lost Bus - Official Trailer &lpar;2025&rpar; Matthew McConaughey, America Ferrera](https://dev.to/gg_news/ign-the-lost-bus-official-trailer-2025-matthew-mcconaughey-america-ferrera-37hh)
-- [IGN: EA Says No $80 Games for Now: &#39;We&#39;re Not Looking to Make Any Changes at This Stage&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-ea-says-no-80-games-for-now-were-not-looking-to-make-any-changes-at-this-stage-ign-6fc)
+- [🤖 YOGA AI ASSISTANT-BOT✨](https://dev.to/yoga0022/yoga-ai-assistant-bot-5feg)
+- [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
+- [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
+- [S3 vs EBS vs EFS – AWS Storage Simplified with Real-Life Use Cases 📦](https://dev.to/yash_sonawane25/s3-vs-ebs-vs-efs-aws-storage-simplified-with-real-life-use-cases-2o09)
 <!-- BLOG-POST-LIST:END -->
 
