@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Side Project to Paid SaaS — Adding Subscriptions &amp; Usage Tiers to an AI App](https://dev.to/sholajegede/from-side-project-to-paid-saas-adding-subscriptions-usage-tiers-to-an-ai-app-1ml4)
-- [🧨Three Weeks of Code Gone! One Git Tool Saved It](https://dev.to/zujaj/three-weeks-of-code-gone-one-git-tool-saved-it-4h8o)
-- [How I Automated My YouTube Intros with Just One Python Script!](https://dev.to/saint_vandora/how-i-automated-my-youtube-intros-with-just-one-python-script-2182)
-- [Stop Lying in Daily Standups](https://dev.to/supejuice/stop-lying-in-daily-standups-95k)
+- [Why Repetitive Manual Testing Is a Risk to Product Quality](https://dev.to/qalogy/why-repetitive-manual-testing-is-a-risk-to-product-quality-47g4)
+- [Building a Serverless PDF Processing Pipeline with Next.js and iLovePDF](https://dev.to/acetoolz/building-a-serverless-pdf-processing-pipeline-with-nextjs-and-ilovepdf-2lc0)
+- [TrixaHub.com – Free Tools for Devs, Designers, Creators, and Curious Minds](https://dev.to/trixahub/trixahubcom-free-tools-for-devs-designers-creators-and-curious-minds-4hkj)
+- [Manage Your Large Laravel Application with Simplicity](https://dev.to/haseebmirza/manage-your-large-laravel-application-with-simplicity-3gfk)
 <!-- BLOG-POST-LIST:END -->
 
