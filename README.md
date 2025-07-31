@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌸 My First Open Source Contribution – and It Wasn&#39;t Scary!](https://dev.to/riyap03/my-first-open-source-contribution-and-it-wasnt-scary-2dmf)
-- [Everclear x NEAR&#39;s Cross‑Chain Clearing, Sub‑Cent Global Payments, Circle Gateway for Unified USDC, and AA Afterhours S2](https://dev.to/etherspot/everclear-x-nears-cross-chain-clearing-sub-cent-global-payments-circle-gateway-for-unified-usdc-1pde)
-- [Day 51: The Productivity Hangover](https://dev.to/casperday11/day-51-the-productivity-hangover-57em)
-- [🎯 From College to Career: My Journey with Postman and APIs](https://dev.to/subhaharini_/from-college-to-career-my-journey-with-postman-and-apis-2d6p)
+- [Detox: What It Really Means &amp; How to Start Without Starving Yourself](https://dev.to/jhanvi_shukla/detox-what-it-really-means-how-to-start-without-starving-yourself-5h01)
+- [Top 10 Benefits of Regular Physiotherapy Sessions](https://dev.to/john_connor_956c3b3934316/top-10-benefits-of-regular-physiotherapy-sessions-3dm1)
+- [Understanding CSS Positioning: Fixed, Relative, Absolute &amp; Static Explained with Examples](https://dev.to/nganggurdev/understanding-css-positioning-fixed-relative-absolute-static-explained-with-examples-5dg5)
+- [The Resilience Playbook: 23 Strategies for Bulletproof Applications 🚀](https://dev.to/emimaldo/the-resilience-playbook-23-strategies-for-bulletproof-applications-6n6)
 <!-- BLOG-POST-LIST:END -->
 
