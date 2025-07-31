@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking, Security, and Control: What the Referer Header Tells You](https://dev.to/ellapark/tracking-security-and-control-what-the-referer-header-tells-you-3ghj)
-- [The Evolution of React Exposure Tracking Components: A Frontend Engineer&#39;s Journey from Chaos to Elegance](https://dev.to/childrentime/the-evolution-of-react-exposure-tracking-components-a-frontend-engineers-journey-from-chaos-to-24b)
-- [. isn&#39;t needed at the end of ALT attributes](https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf)
-- [Charlex WebOS](https://dev.to/pyshwaa/charlex-webos-13hd)
+- [What Was the Previous Situation in R2 Zones?](https://dev.to/john_caesar_3e38fbfe2855e/what-was-the-previous-situation-in-r2-zones-4b4k)
+- [From Brute Force to Kadane’s: Solving the Maximum Subarray Problem Efficiently](https://dev.to/umair01/from-brute-force-to-kadanes-solving-the-maximum-subarray-problem-efficiently-37eo)
+- [The Bug That Drove Me So Crazy, I Got Hired Just to Fix It](https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2)
+- [How TaskForce is Reimagining Freelancing with Web3 and Real Token Utility](https://dev.to/taskforceweb3/how-taskforce-is-reimagining-freelancing-with-web3-and-real-token-utility-177p)
 <!-- BLOG-POST-LIST:END -->
 
