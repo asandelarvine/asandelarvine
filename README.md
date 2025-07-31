@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Copilot to Manage Issues &lpar;and Save Time&rpar;](https://dev.to/sarahcssiqueira/using-github-copilot-to-manage-issues-and-save-time-3549)
-- [GameSpot: THQ Nordic Digital Showcase 2025](https://dev.to/gg_news/gamespot-thq-nordic-digital-showcase-2025-2la0)
-- [IGN: The Fantastic Four: First Steps - Official &#39;Hold On&#39; Trailer &lpar;2025&rpar; Pedro Pascal, Vanessa Kirby](https://dev.to/gg_news/ign-the-fantastic-four-first-steps-official-hold-on-trailer-2025-pedro-pascal-vanessa-kirby-56fe)
-- [IGN: No, Hideo Kojima Won&#39;t Be Playing Metal Gear Solid Delta Snake Eater - IGN Daily Fix](https://dev.to/gg_news/ign-no-hideo-kojima-wont-be-playing-metal-gear-solid-delta-snake-eater-ign-daily-fix-41mk)
+- [Navigating the Identity Management Ecosystem: A Developer’s Deep Dive](https://dev.to/deepakgupta/navigating-the-identity-management-ecosystem-a-developers-deep-dive-460i)
+- [Laravel Scheduler Beyond Basics: Complex Patterns 2025](https://dev.to/arasosman/laravel-scheduler-beyond-basics-complex-patterns-2025-4dh4)
+- [Laravel Health Checks: Monitor App State in 2025](https://dev.to/arasosman/laravel-health-checks-monitor-app-state-in-2025-heb)
+- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
 <!-- BLOG-POST-LIST:END -->
 
