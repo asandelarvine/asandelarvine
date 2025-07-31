@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Data Science with Python: A Personal Story of Curiosity, Challenges, and Career Growth](https://dev.to/gowtham_pps_c485763158a84/my-journey-into-data-science-with-python-a-personal-story-of-curiosity-challenges-and-career-1bcm)
-- [Load Balancing AI/ML API with Apache APISIX](https://dev.to/apisix/load-balancing-aiml-api-with-apache-apisix-4d7e)
-- [The Complete React Native Styling Guide Every Developer Needs](https://dev.to/arsdev/the-complete-react-native-styling-guide-every-developer-needs-252a)
-- [Incorrect PFS Free Space Information Error in SQL Server: A DBA’s Guide](https://dev.to/arun555/incorrect-pfs-free-space-information-error-in-sql-server-a-dbas-guide-3kgk)
+- [LeetCode #136. Single Number](https://dev.to/desiato/leetcode-single-number-c22)
+- [💻 What Are Terraform Provisioners? &lpar;And Why They’re Like the Crew That Moves In After You Deploy&rpar;](https://dev.to/1suleyman/what-are-terraform-provisioners-and-why-theyre-like-the-crew-that-moves-in-after-you-deploy-36dm)
+- [Introduction to Generative Artificial Intelligence - Storyteller](https://dev.to/diosamuel/introduction-to-generative-artificial-intelligence-storyteller-1p36)
+- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
 <!-- BLOG-POST-LIST:END -->
 
