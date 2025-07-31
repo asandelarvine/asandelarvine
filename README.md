@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #136. Single Number](https://dev.to/desiato/leetcode-single-number-c22)
-- [💻 What Are Terraform Provisioners? &lpar;And Why They’re Like the Crew That Moves In After You Deploy&rpar;](https://dev.to/1suleyman/what-are-terraform-provisioners-and-why-theyre-like-the-crew-that-moves-in-after-you-deploy-36dm)
-- [Introduction to Generative Artificial Intelligence - Storyteller](https://dev.to/diosamuel/introduction-to-generative-artificial-intelligence-storyteller-1p36)
-- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
+- [🌸 My First Open Source Contribution – and It Wasn&#39;t Scary!](https://dev.to/riyap03/my-first-open-source-contribution-and-it-wasnt-scary-2dmf)
+- [Everclear x NEAR&#39;s Cross‑Chain Clearing, Sub‑Cent Global Payments, Circle Gateway for Unified USDC, and AA Afterhours S2](https://dev.to/etherspot/everclear-x-nears-cross-chain-clearing-sub-cent-global-payments-circle-gateway-for-unified-usdc-1pde)
+- [Day 51: The Productivity Hangover](https://dev.to/casperday11/day-51-the-productivity-hangover-57em)
+- [🎯 From College to Career: My Journey with Postman and APIs](https://dev.to/subhaharini_/from-college-to-career-my-journey-with-postman-and-apis-2d6p)
 <!-- BLOG-POST-LIST:END -->
 
