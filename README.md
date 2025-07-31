@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detox: What It Really Means &amp; How to Start Without Starving Yourself](https://dev.to/jhanvi_shukla/detox-what-it-really-means-how-to-start-without-starving-yourself-5h01)
-- [Top 10 Benefits of Regular Physiotherapy Sessions](https://dev.to/john_connor_956c3b3934316/top-10-benefits-of-regular-physiotherapy-sessions-3dm1)
-- [Understanding CSS Positioning: Fixed, Relative, Absolute &amp; Static Explained with Examples](https://dev.to/nganggurdev/understanding-css-positioning-fixed-relative-absolute-static-explained-with-examples-5dg5)
-- [The Resilience Playbook: 23 Strategies for Bulletproof Applications 🚀](https://dev.to/emimaldo/the-resilience-playbook-23-strategies-for-bulletproof-applications-6n6)
+- [Mastering AWS Networking: My Journey Begins!](https://dev.to/_eve_/mastering-aws-networking-my-journey-begins-1l3j)
+- [Ekubo: A Simple Guide to Decentralized Liquidity on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-simple-guide-to-decentralized-liquidity-on-starknet-3fmk)
+- [i want create a small website using html and css](https://dev.to/saloni_yangundi_d8fb1e759/i-want-create-a-small-website-using-html-and-css-1041)
+- [Embracing the Chaos of a Multi-Passionate Career](https://dev.to/lois_codes_diary/embracing-the-chaos-of-a-multi-passionate-career-42n0)
 <!-- BLOG-POST-LIST:END -->
 
