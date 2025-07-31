@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gareth David Studio: The BEST Way to Organise Your Fonts! - Featuring FontBase](https://dev.to/design_youtube/gareth-david-studio-the-best-way-to-organise-your-fonts-featuring-fontbase-2df)
-- [No Laying Up Podcast: 3M, Lottie Woad, Happy Gilmore 2 Review | NLU Pod, Ep 1047](https://dev.to/youtube_golf/no-laying-up-podcast-3m-lottie-woad-happy-gilmore-2-review-nlu-pod-ep-1047-38c6)
-- [My Local/Remote LLM Studio — watsonx.ai and Ollama &lpar;part 1&rpar;](https://dev.to/aairom/my-localremote-llm-studio-watsonxai-and-ollama-part-1-26hb)
-- [IGN: Gold Gold Adventure Gold - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-gold-gold-adventure-gold-official-early-access-launch-trailer-2o9d)
+- [🚀 Building the Freight Tracker Frontend &lpar;Phase 1&rpar;](https://dev.to/jayantineu/building-the-freight-tracker-frontend-phase-1-4clk)
+- [From Red Errors to Real Confidence](https://dev.to/daoistrose/from-red-errors-to-real-confidence-5jm)
+- [Notes and Takes from Computer Systems, A Programmer&#39;s Perspective - Chapter 1, from a Non-CS Grad](https://dev.to/lawson_ngole/notes-and-takes-from-computer-systems-a-programmers-perspective-chapter-1-from-a-non-cs-grad-8h2)
+- [Advanced Git Mastery – Second edition 2025](https://dev.to/laravel_dailytips/advanced-git-mastery-second-edition-2025-elp)
 <!-- BLOG-POST-LIST:END -->
 
