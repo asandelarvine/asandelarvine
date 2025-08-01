@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling undo functions in rich text editors](https://dev.to/ravgeetdhillon/handling-undo-functions-in-rich-text-editors-2lgg)
-- [Some thoughts on keyboard shortcuts on Android](https://dev.to/tkuenneth/some-thoughts-on-keyboard-shortcuts-on-android-2pec)
-- [Ekubo: A Clear Introduction to Decentralized Trading on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-clear-introduction-to-decentralized-trading-on-starknet-fkf)
-- [5 Killer FREE Markdown Editors You Need in 2025](https://dev.to/markallen_123/5-killer-free-markdown-editors-you-need-in-2025-1k8a)
+- [How Legal Language Loses Responsibility When It Becomes Executable](https://dev.to/agustin_v_startari/how-legal-language-loses-responsibility-when-it-becomes-executable-41i4)
+- [ZeRO by hand with a 4-parameter model](https://dev.to/lewis_won/data-parallelism-4g3m)
+- [Masa Depan Manusia &amp; AI: Bukan Sci-Fi, tapi Realita Keren! ✨](https://dev.to/grayscale636/masa-depan-manusia-ai-bukan-sci-fi-tapi-realita-keren-3ga8)
+- [What I learned from the AI Showdown❤️](https://dev.to/nadinev/what-i-learned-from-the-ai-showdown-5963)
 <!-- BLOG-POST-LIST:END -->
 
