@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF + Load Balancing: A Multi-WAF Setup With Failover](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-load-balancing-a-multi-waf-setup-with-failover-3bpp)
-- [Why Does Launching a Crypto Exchange Seem So Expensive—And Is There a Smarter Way?](https://dev.to/michal_steve_44c00fa042ac/why-does-launching-a-crypto-exchange-seem-so-expensive-and-is-there-a-smarter-way-4f76)
-- [iTaskOrg Web App](https://dev.to/piyushbhatti32/itaskorg-web-app-eho)
-- [Why I Built Neant: A React State Management Library with Zero Mental Overhead](https://dev.to/childrentime/why-i-built-neant-a-react-state-management-library-with-zero-mental-overhead-3o2f)
+- [Navigating the chaos: How to tame Kubernetes Monitoring challenges](https://dev.to/manageengineapm/navigating-the-chaos-how-to-tame-kubernetes-monitoring-challenges-33ai)
+- [30 Days of Code- Day 15](https://dev.to/akshitaexe/30-days-of-code-day-15-457j)
+- [30 Days of Code- Day 15](https://dev.to/akshitaexe/30-days-of-code-day-15-bph)
+- [AI Consultant &amp; Collaborator &lpar;Part-Time, Remote US&rpar;](https://dev.to/james_hayashi_3760ec30f86/ai-consultant-collaborator-part-time-remote-us-385g)
 <!-- BLOG-POST-LIST:END -->
 
