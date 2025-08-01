@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Testing: Introducing Cypress’ cy.prompt Feature](https://dev.to/qalogy/ai-powered-testing-introducing-cypress-cyprompt-feature-1gaf)
-- [Real-life project: web platform for scheduling and recording microinjections in mesotherapy sessions](https://dev.to/andres_ortiz_c410e5f78515/real-life-project-web-platform-for-scheduling-and-recording-microinjections-in-mesotherapy-sessions-4fna)
-- [QA Spotlight: Richard Seidl - Software engineering in the year 2034](https://dev.to/qalogy/qa-spotlight-richard-seidl-software-engineering-in-the-year-2034-5hgg)
-- [Flutter ile Beşiktaş Uygulaması Yapmak: Medya Siyah Beyaz Uygulama Süreci](https://dev.to/medyasiyahbeyaz/flutter-ile-besiktas-uygulamasi-yapmak-medya-siyah-beyaz-uygulama-sureci-5egd)
+- [Detailed Explanation of Hashing](https://dev.to/dmitrevnik/detailed-explanation-of-hashing-310d)
+- [Need help with Carousel](https://dev.to/rafay_asif_b1a499b88403b5/need-help-with-carousel-1mle)
+- [How Do You Structure Complex Queries Using Laravel’s Query Builder?](https://dev.to/thecodeliner/how-do-you-structure-complex-queries-using-laravels-query-builder-ni2)
+- [Life’s Answers Are Only Visible in Hindsight &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/lifes-answers-are-only-visible-in-hindsight-bite-size-article-1po2)
 <!-- BLOG-POST-LIST:END -->
 
