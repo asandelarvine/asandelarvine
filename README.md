@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Hack: From Suspicion to Submission](https://dev.to/technikole/the-art-of-the-hack-from-suspicion-to-submission-4h6h)
-- [Code Reviews Shouldn’t Take Days](https://dev.to/tlorent/code-reviews-shouldnt-take-days-1cnl)
-- [How Gamers Like You Are Making Money in 2025](https://dev.to/layer_spire/how-gamers-like-you-are-making-money-in-2025-4n0l)
-- [Cross-datasource JOIN：SPL Lightweight Multisource Mixed Computation Practice #6](https://dev.to/esproc_spl/cross-datasource-joinspl-lightweight-multisource-mixed-computation-practice-6-4fm8)
+- [Azure Logic Apps for Orchestration](https://dev.to/godofgeeks/azure-logic-apps-for-orchestration-258l)
+- [Docker Engine Architecture](https://dev.to/nisal_sashmitha/docker-engine-architecture-ebp)
+- [How Much Does a Static and Dynamic Website Cost?](https://dev.to/alenajames/how-much-does-a-static-and-dynamic-website-cost-3lk4)
+- [Case Study: LiquidOS&#39;s AutoAgents --Building Smarter AI Agents in Rust](https://dev.to/harshal_rembhotkar/case-study-liquidoss-autoagents-building-smarter-ai-agents-in-rust-20nl)
 <!-- BLOG-POST-LIST:END -->
 
