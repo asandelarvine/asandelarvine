@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 MB Homework Limit That Turned Me Into an App-Builder](https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a)
-- [Toward Understanding &amp; Rethinking ITSM in the Age of AI](https://dev.to/kevinasutton/toward-understanding-rethinking-itsm-in-the-age-of-ai-939)
-- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
-- [IGN: Borderlands 4 - Official &#39;Designing Rafa&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-designing-rafa-trailer-9c5)
+- [Microservice-to-Microservice Authentication in .NET Using IdentityServer and JWT](https://dev.to/dinesh_dunukedeniya_539a3/microservice-to-microservice-authentication-in-net-using-identityserver-and-jwt-2n0a)
+- [Prepare](https://dev.to/isaiah_izibili_7a39b7d627/prepare-2hec)
+- [A beginner-friendly guide to the top programming languages_](https://dev.to/mezcode/a-beginner-friendly-guide-to-the-top-programming-languages-36k4)
+- [Surface Watchdog: Building a Self-Running OSINT Daemon in Termux](https://dev.to/gnomeman4201/surface-watchdog-building-a-self-running-osint-daemon-in-termux-36cn)
 <!-- BLOG-POST-LIST:END -->
 
