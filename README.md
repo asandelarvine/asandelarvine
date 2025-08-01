@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Identity Management Ecosystem: A Developer’s Deep Dive](https://dev.to/deepakgupta/navigating-the-identity-management-ecosystem-a-developers-deep-dive-460i)
-- [Laravel Scheduler Beyond Basics: Complex Patterns 2025](https://dev.to/arasosman/laravel-scheduler-beyond-basics-complex-patterns-2025-4dh4)
-- [Laravel Health Checks: Monitor App State in 2025](https://dev.to/arasosman/laravel-health-checks-monitor-app-state-in-2025-heb)
-- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
+- [What is difference between JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar; Methods in JavaScript ?](https://dev.to/2021_cse_gayathrir_e733/what-is-difference-between-jsonparse-and-jsonstringify-methods-in-javascript--5fo6)
+- [How DevOps Engineers Troubleshoot Applications in Production: Tools, Tips &amp; Examples](https://dev.to/srinivasamcjf/how-devops-engineers-troubleshoot-applications-in-production-tools-tips-examples-2l5o)
+- [The 5th Div Mystery Solved! CSS Selectors Explained](https://dev.to/megha_m/the-5th-div-mystery-solved-css-selectors-explained-4a23)
+- [Jeff Su: How to Join Google &lpar;honest advice from ex-Googler&rpar;](https://dev.to/future_ai/jeff-su-how-to-join-google-honest-advice-from-ex-googler-eoa)
 <!-- BLOG-POST-LIST:END -->
 
