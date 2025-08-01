@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to use Try-Catch and why too many will hurt me.](https://dev.to/harishankarr7/when-to-use-try-catch-and-why-too-many-will-hurt-me-48f0)
-- [I Got Fed Up With Ugly, Restrictive Chatbot Libraries, So I Built My Own.](https://dev.to/gauravrathod674/i-got-fed-up-with-ugly-restrictive-chatbot-libraries-so-i-built-my-own-c89)
-- [10 Productivity Tools Every Web Developer Must Use in 2025](https://dev.to/muhammadrameez/10-productivity-tools-every-web-developer-must-use-in-2025-dhj)
-- [Cloudflare OWASP Core Ruleset is suddenly blocking everything](https://dev.to/214_7b11_08bec426c52ddc42/cloudflare-owasp-core-ruleset-is-suddenly-blocking-everything-551l)
+- [The Art of the Hack: From Suspicion to Submission](https://dev.to/technikole/the-art-of-the-hack-from-suspicion-to-submission-4h6h)
+- [Code Reviews Shouldn’t Take Days](https://dev.to/tlorent/code-reviews-shouldnt-take-days-1cnl)
+- [How Gamers Like You Are Making Money in 2025](https://dev.to/layer_spire/how-gamers-like-you-are-making-money-in-2025-4n0l)
+- [Cross-datasource JOIN：SPL Lightweight Multisource Mixed Computation Practice #6](https://dev.to/esproc_spl/cross-datasource-joinspl-lightweight-multisource-mixed-computation-practice-6-4fm8)
 <!-- BLOG-POST-LIST:END -->
 
