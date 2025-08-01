@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API docs are getting slightly out-of-date, need to make sure all new attributes &lpar;videos etc&rpar; are added](https://dev.to/ben/api-docs-are-getting-slightly-out-of-date-need-to-make-sure-all-new-attributes-videos-etc-are-4cgn)
-- [BeEF Explained: Ethical Hacking with the Browser Exploitation Framework](https://dev.to/rijultp/beef-explained-ethical-hacking-with-the-browser-exploitation-framework-210d)
-- [API Security Best Practices with Go](https://dev.to/lovestaco/api-security-best-practices-with-go-393)
-- [Oreyka Bewertung &amp; Erfahrung: Was Kunden wirklich über die Marke sagen](https://dev.to/orekya/oreyka-bewertung-erfahrung-was-kunden-wirklich-uber-die-marke-sagen-1pg0)
+- [What Kinda Cleaning Services Can You Offer Using IoT Sensors?](https://dev.to/sofia_young_554e1e51fd6d0/what-kinda-cleaning-services-can-you-offer-using-iot-sensors-52nj)
+- [🔐 Understanding JWT &lpar;JSON Web Tokens&rpar;](https://dev.to/ankitchaurasiya84/understanding-jwt-json-web-tokens-33b2)
+- [My 6 month Amazon SDE internship interview experience!](https://dev.to/mehvish_fatima_7116146055/my-6-month-amazon-sde-internship-interview-experience-1ik3)
+- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
 <!-- BLOG-POST-LIST:END -->
 
