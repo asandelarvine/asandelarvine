@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INSTALLATION OF POSTGRESQL AND INTIAL SET UP ON A LINUX SERVER.](https://dev.to/shinyanzwa_5fb2a5691434db/installation-of-postgresql-and-intial-set-up-on-a-linux-server-14k9)
-- [Day 1 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-1-learning-devops-in-public-4dfg)
-- [The Midnight Community Board: Building *With* the Community, Not Just For It](https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)
-- [How I Built an AI Agent That Turns Daily AI News Into a Commute-Sized Podcast](https://dev.to/portia-ai/how-i-built-an-ai-agent-that-turns-daily-ai-news-into-a-commute-sized-podcast-44pg)
+- [3D Printing Nerd: YOU can make this!!!](https://dev.to/maker_youtube/3d-printing-nerd-you-can-make-this-36g)
+- [Adam Savage&#39;s Tested: This Retro Spaceship Model Has Insane Interior Detail!](https://dev.to/maker_youtube/adam-savages-tested-this-retro-spaceship-model-has-insane-interior-detail-4i6)
+- [KEXP: Deep Sea Diver - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-full-performance-live-on-kexp-50n)
+- [Rick Shiels Golf: TEAM UK vs TEAM USA for $250,000 | The Duels: UK Edition](https://dev.to/youtube_golf/rick-shiels-golf-team-uk-vs-team-usa-for-250000-the-duels-uk-edition-4215)
 <!-- BLOG-POST-LIST:END -->
 
