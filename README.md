@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Witchboard - Official Red Band Trailer &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-official-red-band-trailer-2025-directed-by-chuck-russell-d1g)
-- [IGN: Bus Flipper: Renovator Simulator - Official Launch Trailer](https://dev.to/gg_news/ign-bus-flipper-renovator-simulator-official-launch-trailer-4k3)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-n0)
-- [What&#39;s next after the Bolt hackathon](https://dev.to/goldenekpendu/whats-next-after-the-bolt-hackathon-167o)
+- [When to use Try-Catch and why too many will hurt me.](https://dev.to/harishankarr7/when-to-use-try-catch-and-why-too-many-will-hurt-me-48f0)
+- [I Got Fed Up With Ugly, Restrictive Chatbot Libraries, So I Built My Own.](https://dev.to/gauravrathod674/i-got-fed-up-with-ugly-restrictive-chatbot-libraries-so-i-built-my-own-c89)
+- [10 Productivity Tools Every Web Developer Must Use in 2025](https://dev.to/muhammadrameez/10-productivity-tools-every-web-developer-must-use-in-2025-dhj)
+- [Cloudflare OWASP Core Ruleset is suddenly blocking everything](https://dev.to/214_7b11_08bec426c52ddc42/cloudflare-owasp-core-ruleset-is-suddenly-blocking-everything-551l)
 <!-- BLOG-POST-LIST:END -->
 
