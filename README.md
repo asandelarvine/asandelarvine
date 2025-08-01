@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we still Learn to Code in the Age of AI?](https://dev.to/queen_shecoder/should-we-still-learn-to-code-in-the-age-of-ai-582d)
-- [Graphical Blockchain demonstration in Go using Fyne](https://dev.to/iliiasik/graphical-blockchain-demonstration-in-go-using-fyne-3hpb)
-- [How to create AWS Serverless Valkey via OpenTofu](https://dev.to/aws-builders/how-to-create-aws-serverless-valkey-via-opentofu-40n5)
-- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
+- [Handling undo functions in rich text editors](https://dev.to/ravgeetdhillon/handling-undo-functions-in-rich-text-editors-2lgg)
+- [Some thoughts on keyboard shortcuts on Android](https://dev.to/tkuenneth/some-thoughts-on-keyboard-shortcuts-on-android-2pec)
+- [Ekubo: A Clear Introduction to Decentralized Trading on Starknet](https://dev.to/cherri_underwood_90a69668/ekubo-a-clear-introduction-to-decentralized-trading-on-starknet-fkf)
+- [5 Killer FREE Markdown Editors You Need in 2025](https://dev.to/markallen_123/5-killer-free-markdown-editors-you-need-in-2025-1k8a)
 <!-- BLOG-POST-LIST:END -->
 
