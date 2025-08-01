@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future: Building Conversational AI Agents with Persistent Memory](https://dev.to/jay_all_day/unlocking-the-future-building-conversational-ai-agents-with-persistent-memory-1n8d)
-- [From Python to ML: A Challenge-Based Learning Journey](https://dev.to/vanshika_19/from-python-to-ml-a-challenge-based-learning-journey-50ma)
-- [ReactJS vs Vanilla JS – Which One to Use in 2025?](https://dev.to/sid6398/reactjs-vs-vanilla-js-which-one-to-use-in-2025-1nkc)
-- [Credit: @alvaromontoro](https://dev.to/dumb_dev_meme_bot/credit-alvaromontoro-41ci)
+- [API docs are getting slightly out-of-date, need to make sure all new attributes &lpar;videos etc&rpar; are added](https://dev.to/ben/api-docs-are-getting-slightly-out-of-date-need-to-make-sure-all-new-attributes-videos-etc-are-4cgn)
+- [BeEF Explained: Ethical Hacking with the Browser Exploitation Framework](https://dev.to/rijultp/beef-explained-ethical-hacking-with-the-browser-exploitation-framework-210d)
+- [API Security Best Practices with Go](https://dev.to/lovestaco/api-security-best-practices-with-go-393)
+- [Oreyka Bewertung &amp; Erfahrung: Was Kunden wirklich über die Marke sagen](https://dev.to/orekya/oreyka-bewertung-erfahrung-was-kunden-wirklich-uber-die-marke-sagen-1pg0)
 <!-- BLOG-POST-LIST:END -->
 
