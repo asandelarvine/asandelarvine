@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the chaos: How to tame Kubernetes Monitoring challenges](https://dev.to/manageengineapm/navigating-the-chaos-how-to-tame-kubernetes-monitoring-challenges-33ai)
-- [30 Days of Code- Day 15](https://dev.to/akshitaexe/30-days-of-code-day-15-457j)
-- [30 Days of Code- Day 15](https://dev.to/akshitaexe/30-days-of-code-day-15-bph)
-- [AI Consultant &amp; Collaborator &lpar;Part-Time, Remote US&rpar;](https://dev.to/james_hayashi_3760ec30f86/ai-consultant-collaborator-part-time-remote-us-385g)
+- [🎓 Learn Data Science with Python in Hindi – Complete YouTube Series [FREE]](https://dev.to/kody_c2fc16bba41e453db5da/learn-data-science-with-python-in-hindi-complete-youtube-series-free-14dl)
+- [Your Friday Retro Just Got a GIF Upgrade 🚀](https://dev.to/mattlewandowski93/your-friday-retro-just-got-a-gif-upgrade-4o6e)
+- [🩸ChatGPT Privacy Leak: Thousands of Conversations Now Publicly Indexed by Google](https://dev.to/alifar/exposed-google-is-indexing-private-ai-conversations-heres-what-you-should-know-37m5)
+- [How to Evaluate Voice Agents: Frameworks, Metrics, and Modern Tools](https://dev.to/kuldeep_paul/how-to-evaluate-voice-agents-frameworks-metrics-and-modern-tools-51n0)
 <!-- BLOG-POST-LIST:END -->
 
