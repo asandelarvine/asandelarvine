@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wonderful Experience at the Flex Interview](https://dev.to/seenuvasan_p/my-wonderful-experience-at-the-flex-interview-59je)
-- [I Built My Own Shell for Fun. You Can Too](https://dev.to/mir_mursalin_ankur/i-built-my-own-shell-for-fun-you-can-too-56j3)
-- [Day 42/100: Writing Files and Using Context Managers in Python](https://dev.to/therahul_gupta/day-42100-writing-files-and-using-context-managers-in-python-12jo)
-- [🎉 I Just Earned My Oracle Cloud Infrastructure Foundations Associate Certification!](https://dev.to/alanhasn/i-just-earned-my-oracle-cloud-infrastructure-foundations-associate-certification-1bm5)
+- [INSTALLATION OF POSTGRESQL AND INTIAL SET UP ON A LINUX SERVER.](https://dev.to/shinyanzwa_5fb2a5691434db/installation-of-postgresql-and-intial-set-up-on-a-linux-server-14k9)
+- [Day 1 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-1-learning-devops-in-public-4dfg)
+- [The Midnight Community Board: Building *With* the Community, Not Just For It](https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)
+- [How I Built an AI Agent That Turns Daily AI News Into a Commute-Sized Podcast](https://dev.to/portia-ai/how-i-built-an-ai-agent-that-turns-daily-ai-news-into-a-commute-sized-podcast-44pg)
 <!-- BLOG-POST-LIST:END -->
 
