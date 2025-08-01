@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is difference between JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar; Methods in JavaScript ?](https://dev.to/2021_cse_gayathrir_e733/what-is-difference-between-jsonparse-and-jsonstringify-methods-in-javascript--5fo6)
-- [How DevOps Engineers Troubleshoot Applications in Production: Tools, Tips &amp; Examples](https://dev.to/srinivasamcjf/how-devops-engineers-troubleshoot-applications-in-production-tools-tips-examples-2l5o)
-- [The 5th Div Mystery Solved! CSS Selectors Explained](https://dev.to/megha_m/the-5th-div-mystery-solved-css-selectors-explained-4a23)
-- [Jeff Su: How to Join Google &lpar;honest advice from ex-Googler&rpar;](https://dev.to/future_ai/jeff-su-how-to-join-google-honest-advice-from-ex-googler-eoa)
+- [IGN: Witchboard - Official Red Band Trailer &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-official-red-band-trailer-2025-directed-by-chuck-russell-d1g)
+- [IGN: Bus Flipper: Renovator Simulator - Official Launch Trailer](https://dev.to/gg_news/ign-bus-flipper-renovator-simulator-official-launch-trailer-4k3)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-n0)
+- [What&#39;s next after the Bolt hackathon](https://dev.to/goldenekpendu/whats-next-after-the-bolt-hackathon-167o)
 <!-- BLOG-POST-LIST:END -->
 
