@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Legal Language Loses Responsibility When It Becomes Executable](https://dev.to/agustin_v_startari/how-legal-language-loses-responsibility-when-it-becomes-executable-41i4)
-- [ZeRO by hand with a 4-parameter model](https://dev.to/lewis_won/data-parallelism-4g3m)
-- [Masa Depan Manusia &amp; AI: Bukan Sci-Fi, tapi Realita Keren! ✨](https://dev.to/grayscale636/masa-depan-manusia-ai-bukan-sci-fi-tapi-realita-keren-3ga8)
-- [What I learned from the AI Showdown❤️](https://dev.to/nadinev/what-i-learned-from-the-ai-showdown-5963)
+- [My Wonderful Experience at the Flex Interview](https://dev.to/seenuvasan_p/my-wonderful-experience-at-the-flex-interview-59je)
+- [I Built My Own Shell for Fun. You Can Too](https://dev.to/mir_mursalin_ankur/i-built-my-own-shell-for-fun-you-can-too-56j3)
+- [Day 42/100: Writing Files and Using Context Managers in Python](https://dev.to/therahul_gupta/day-42100-writing-files-and-using-context-managers-in-python-12jo)
+- [🎉 I Just Earned My Oracle Cloud Infrastructure Foundations Associate Certification!](https://dev.to/alanhasn/i-just-earned-my-oracle-cloud-infrastructure-foundations-associate-certification-1bm5)
 <!-- BLOG-POST-LIST:END -->
 
