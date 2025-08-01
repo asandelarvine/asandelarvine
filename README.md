@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Explanation of Hashing](https://dev.to/dmitrevnik/detailed-explanation-of-hashing-310d)
-- [Need help with Carousel](https://dev.to/rafay_asif_b1a499b88403b5/need-help-with-carousel-1mle)
-- [How Do You Structure Complex Queries Using Laravel’s Query Builder?](https://dev.to/thecodeliner/how-do-you-structure-complex-queries-using-laravels-query-builder-ni2)
-- [Life’s Answers Are Only Visible in Hindsight &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/lifes-answers-are-only-visible-in-hindsight-bite-size-article-1po2)
+- [The 5 MB Homework Limit That Turned Me Into an App-Builder](https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a)
+- [Toward Understanding &amp; Rethinking ITSM in the Age of AI](https://dev.to/kevinasutton/toward-understanding-rethinking-itsm-in-the-age-of-ai-939)
+- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
+- [IGN: Borderlands 4 - Official &#39;Designing Rafa&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-designing-rafa-trailer-9c5)
 <!-- BLOG-POST-LIST:END -->
 
