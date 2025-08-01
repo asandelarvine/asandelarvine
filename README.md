@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎓 Learn Data Science with Python in Hindi – Complete YouTube Series [FREE]](https://dev.to/kody_c2fc16bba41e453db5da/learn-data-science-with-python-in-hindi-complete-youtube-series-free-14dl)
-- [Your Friday Retro Just Got a GIF Upgrade 🚀](https://dev.to/mattlewandowski93/your-friday-retro-just-got-a-gif-upgrade-4o6e)
-- [🩸ChatGPT Privacy Leak: Thousands of Conversations Now Publicly Indexed by Google](https://dev.to/alifar/exposed-google-is-indexing-private-ai-conversations-heres-what-you-should-know-37m5)
-- [How to Evaluate Voice Agents: Frameworks, Metrics, and Modern Tools](https://dev.to/kuldeep_paul/how-to-evaluate-voice-agents-frameworks-metrics-and-modern-tools-51n0)
+- [Should we still Learn to Code in the Age of AI?](https://dev.to/queen_shecoder/should-we-still-learn-to-code-in-the-age-of-ai-582d)
+- [Graphical Blockchain demonstration in Go using Fyne](https://dev.to/iliiasik/graphical-blockchain-demonstration-in-go-using-fyne-3hpb)
+- [How to create AWS Serverless Valkey via OpenTofu](https://dev.to/aws-builders/how-to-create-aws-serverless-valkey-via-opentofu-40n5)
+- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
 <!-- BLOG-POST-LIST:END -->
 
