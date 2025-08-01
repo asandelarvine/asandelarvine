@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Logic Apps for Orchestration](https://dev.to/godofgeeks/azure-logic-apps-for-orchestration-258l)
-- [Docker Engine Architecture](https://dev.to/nisal_sashmitha/docker-engine-architecture-ebp)
-- [How Much Does a Static and Dynamic Website Cost?](https://dev.to/alenajames/how-much-does-a-static-and-dynamic-website-cost-3lk4)
-- [Case Study: LiquidOS&#39;s AutoAgents --Building Smarter AI Agents in Rust](https://dev.to/harshal_rembhotkar/case-study-liquidoss-autoagents-building-smarter-ai-agents-in-rust-20nl)
+- [SafeLine WAF + Load Balancing: A Multi-WAF Setup With Failover](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-load-balancing-a-multi-waf-setup-with-failover-3bpp)
+- [Why Does Launching a Crypto Exchange Seem So Expensive—And Is There a Smarter Way?](https://dev.to/michal_steve_44c00fa042ac/why-does-launching-a-crypto-exchange-seem-so-expensive-and-is-there-a-smarter-way-4f76)
+- [iTaskOrg Web App](https://dev.to/piyushbhatti32/itaskorg-web-app-eho)
+- [Why I Built Neant: A React State Management Library with Zero Mental Overhead](https://dev.to/childrentime/why-i-built-neant-a-react-state-management-library-with-zero-mental-overhead-3o2f)
 <!-- BLOG-POST-LIST:END -->
 
