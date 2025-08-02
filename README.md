@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Applications Across Multiple Clusters with RHACM + GitOps](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff)
-- [From Zero to SEO: My Journey with Building a Live Satta King Result Site](https://dev.to/aara222/from-zero-to-seo-my-journey-with-building-a-live-satta-king-result-site-2ejk)
-- [One Bug, Many Faces: Understanding Every Type of Race Condition Vulnerability](https://dev.to/deoxys/one-bug-many-faces-understanding-every-type-of-race-condition-vulnerability-4po3)
-- [dual-personality AI chatbot](https://dev.to/gagan_gagan_2a1795fac0efc/dual-personality-ai-chatbot-2jnl)
+- [Danny Maude: Before You Hit a Bunker Shot, Do This &lpar;Takes 5 Seconds&rpar;](https://dev.to/youtube_golf/danny-maude-before-you-hit-a-bunker-shot-do-this-takes-5-seconds-2iom)
+- [Manual Testing Guide for Product Testing](https://dev.to/srinidhi_gowda_fa6e884617/manual-testing-guide-for-product-testing-522p)
+- [A Guide for Creating a Linux Server VM on Azure &amp; Installing PostgreSQL](https://dev.to/loi2008/a-guide-for-creating-a-linux-server-vm-on-azure-installing-postgresql-1dnh)
+- [How I Built a Real Estate Website That Earns Income While Solving a Local Problem](https://dev.to/abdulrahman_ottman_2dc012/how-i-built-a-real-estate-website-that-earns-income-while-solving-a-local-problem-b20)
 <!-- BLOG-POST-LIST:END -->
 
