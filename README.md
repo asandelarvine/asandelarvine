@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering AI Conversations Using Redis 8 as a Real-Time Brain](https://dev.to/pooja_bhavani/empowering-ai-conversations-using-redis-8-as-a-real-time-brain-4bmi)
-- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
-- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
-- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
+- [Get Hands-On with Amazon RDS Using AWS’s Getting Started Resource Center](https://dev.to/ismailg/get-hands-on-with-amazon-rds-using-awss-getting-started-resource-center-4gpa)
+- [Mastering DOM Performance &amp; Security](https://dev.to/saifulire/mastering-dom-performance-security-2c5f)
+- [I Built a Fully Automated Newsletter with OpenAI + n8n](https://dev.to/ujjwal_kumar_406b65d7d498/i-built-a-fully-automated-newsletter-with-openai-n8n-5egh)
+- [Developers Life](https://dev.to/techboss/developers-life-26ph)
 <!-- BLOG-POST-LIST:END -->
 
