@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-48l3)
-- [JS-CALLBACK FUNCTIONS](https://dev.to/asran_2025/js-callback-functions-23d5)
-- [Why Headless Architecture Is the Smartest Move for Scalable eCommerce in 2025](https://dev.to/poorvisingh056/why-headless-architecture-is-the-smartest-move-for-scalable-ecommerce-in-2025-4fc4)
-- [🌐 React Context API — Say Goodbye to Prop Drilling](https://dev.to/aman_kureshi_/react-context-api-say-goodbye-to-prop-drilling-3m05)
+- [Simple Java Project: Rock, Paper, Scissors Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-rock-paper-scissors-game-with-detailed-explanation-5ccm)
+- [CodeBoarding: Interactive Diagrams of Code](https://dev.to/brovatten/codeboarding-interactive-diagrams-of-code-2bbe)
+- [The Rise of Real-Time Data: Why Batch Might Be Fading](https://dev.to/milcah03/the-rise-of-real-time-data-why-batch-might-be-fading-23j5)
+- [Build a Professional Harvard-Style Academic CV with This Open Source Jekyll Theme](https://dev.to/smirnoffmg/build-a-professional-harvard-style-academic-cv-with-this-open-source-jekyll-theme-1fg8)
 <!-- BLOG-POST-LIST:END -->
 
