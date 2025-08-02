@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Hands-On with Amazon RDS Using AWS’s Getting Started Resource Center](https://dev.to/ismailg/get-hands-on-with-amazon-rds-using-awss-getting-started-resource-center-4gpa)
-- [Mastering DOM Performance &amp; Security](https://dev.to/saifulire/mastering-dom-performance-security-2c5f)
-- [I Built a Fully Automated Newsletter with OpenAI + n8n](https://dev.to/ujjwal_kumar_406b65d7d498/i-built-a-fully-automated-newsletter-with-openai-n8n-5egh)
-- [Developers Life](https://dev.to/techboss/developers-life-26ph)
+- [Simple Java Project: Guess the Number Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-guess-the-number-game-with-detailed-explanation-3if9)
+- [The Future of Cybersecurity: AI-Powered Threat Detection in 2025](https://dev.to/wininlife_academy_f1f49be/the-future-of-cybersecurity-ai-powered-threat-detection-in-2025-59ha)
+- [How AI-Powered Project Management Tools with Client Portals Made Me Actually Enjoy Client Work](https://dev.to/azhan_j_37b6bb3896622605/how-ai-powered-project-management-tools-with-client-portals-made-me-actually-enjoy-client-work-c91)
+- [Building NeuroNote — An AI-Powered Collaborative Note-Taking Tool](https://dev.to/abhijay_yadav_712e10ab036/building-neuronote-an-ai-powered-collaborative-note-taking-tool-e54)
 <!-- BLOG-POST-LIST:END -->
 
