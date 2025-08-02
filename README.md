@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
-- [Repocks: Enable RAG from In-Repo Documentation](https://dev.to/boke0/repocks-enable-rag-from-in-repo-documentation-4h6h)
-- [Top 5 Self-Help Classics Every Tech Professional Should Read](https://dev.to/mainulspace/top-5-self-help-classics-every-tech-professional-should-read-5bl9)
-- [Distributed Spring Batch Coordination, Part 1: The Problem with Traditional Spring Batch Scaling](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-1-the-problem-with-traditional-spring-batch-scaling-3he4)
+- [Why I Chose Django + HTMX + React for cThink](https://dev.to/hroman_codes/why-i-chose-django-htmx-react-for-cthink-3p08)
+- [Converting Python Objects to Dict](https://dev.to/kiani0x01/converting-python-objects-to-dict-1jg)
+- [How to Uppercase the First Letter in Python](https://dev.to/kiani0x01/how-to-uppercase-the-first-letter-in-python-374e)
+- [Scoring 100 on Lighthouse &lpar;Performance + SEO focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-seo-focused-177)
 <!-- BLOG-POST-LIST:END -->
 
