@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Django + HTMX + React for cThink](https://dev.to/hroman_codes/why-i-chose-django-htmx-react-for-cthink-3p08)
-- [Converting Python Objects to Dict](https://dev.to/kiani0x01/converting-python-objects-to-dict-1jg)
-- [How to Uppercase the First Letter in Python](https://dev.to/kiani0x01/how-to-uppercase-the-first-letter-in-python-374e)
-- [Scoring 100 on Lighthouse &lpar;Performance + SEO focused&rpar;](https://dev.to/manujdixit/scoring-100-on-lighthouse-performance-seo-focused-177)
+- [Indicação de leitura: Microsserviços Prontos Para a Produção](https://dev.to/paolabasso/indicacao-de-leitura-microsservicos-prontos-para-a-producao-3n80)
+- [Introducing kuzur.xyz — My Developer Portfolio &amp; Projects Hub](https://dev.to/rahulkuzur/introducing-kuzurxyz-my-developer-portfolio-projects-hub-17dn)
+- [Echte Oreyka Erfahrungen: Tradition trifft Innovation in der Hautpflege](https://dev.to/orekya/echte-oreyka-erfahrungen-tradition-trifft-innovation-in-der-hautpflege-5efp)
+- [AI vs Traditional Reporting: What’s Gained and What’s Lost?](https://dev.to/hemashree_samant_ddc8ad30/ai-vs-traditional-reporting-whats-gained-and-whats-lost-4kk7)
 <!-- BLOG-POST-LIST:END -->
 
