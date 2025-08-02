@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: Before You Hit a Bunker Shot, Do This &lpar;Takes 5 Seconds&rpar;](https://dev.to/youtube_golf/danny-maude-before-you-hit-a-bunker-shot-do-this-takes-5-seconds-2iom)
-- [Manual Testing Guide for Product Testing](https://dev.to/srinidhi_gowda_fa6e884617/manual-testing-guide-for-product-testing-522p)
-- [A Guide for Creating a Linux Server VM on Azure &amp; Installing PostgreSQL](https://dev.to/loi2008/a-guide-for-creating-a-linux-server-vm-on-azure-installing-postgresql-1dnh)
-- [How I Built a Real Estate Website That Earns Income While Solving a Local Problem](https://dev.to/abdulrahman_ottman_2dc012/how-i-built-a-real-estate-website-that-earns-income-while-solving-a-local-problem-b20)
+- [Empowering AI Conversations Using Redis 8 as a Real-Time Brain](https://dev.to/pooja_bhavani/empowering-ai-conversations-using-redis-8-as-a-real-time-brain-4bmi)
+- [I&#39;m a dev who got tired of losing code snippets and AI prompts, so I built a tool for it. What features would you actually use?](https://dev.to/i_am_yaseen/im-a-dev-who-got-tired-of-losing-code-snippets-and-ai-prompts-so-i-built-a-tool-for-it-what-5eg4)
+- [My Journey to becoming a Professional Web developer](https://dev.to/manasseh_todd_53967522c44/my-journey-to-becoming-a-professional-web-developer-39nm)
+- [Agent Mode: The Smarter Way to Handle Procurement &lpar;Free Access Until Aug 31&rpar;](https://dev.to/accioprocurement/agent-mode-the-smarter-way-to-handle-procurement-free-access-until-aug-31-4k3a)
 <!-- BLOG-POST-LIST:END -->
 
