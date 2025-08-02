@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
-- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
-- [Interesting.](https://dev.to/mgks/interesting-2jmd)
-- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
+- [Revolutionary BCI Advances: Lab-Grown Neurons Restore Motor Control in Paralysis](https://dev.to/ndmckay/revolutionary-bci-advances-lab-grown-neurons-restore-motor-control-in-paralysis-h7d)
+- [AWS Cloud Path Week 10: Important Things to Know about Networking in AWS](https://dev.to/elizabethadegbaju/aws-cloud-path-week-10-important-things-to-know-about-networking-in-aws-3o9j)
+- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1he8)
+- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
 <!-- BLOG-POST-LIST:END -->
 
