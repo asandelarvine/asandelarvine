@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Java Project: Rock, Paper, Scissors Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-rock-paper-scissors-game-with-detailed-explanation-5ccm)
-- [CodeBoarding: Interactive Diagrams of Code](https://dev.to/brovatten/codeboarding-interactive-diagrams-of-code-2bbe)
-- [The Rise of Real-Time Data: Why Batch Might Be Fading](https://dev.to/milcah03/the-rise-of-real-time-data-why-batch-might-be-fading-23j5)
-- [Build a Professional Harvard-Style Academic CV with This Open Source Jekyll Theme](https://dev.to/smirnoffmg/build-a-professional-harvard-style-academic-cv-with-this-open-source-jekyll-theme-1fg8)
+- [A First-Timer’s PridesDate Review: What to Expect and How to Start](https://dev.to/pridesdate/a-first-timers-pridesdate-review-what-to-expect-and-how-to-start-5dcb)
+- [How Does GLM-4.5 Surpass o3, Gemini 2.5 Pro, and Grok 4 with 90% Success in Agentic Benchmarks?](https://dev.to/jovin_george_733dcfc16291/how-does-glm-45-surpass-o3-gemini-25-pro-and-grok-4-with-90-success-in-agentic-benchmarks-40mj)
+- [Rethinking Embedded Web Frameworks: The Smart, Selective Engine Developers Actually Need](https://dev.to/hejhdiss/rethinking-embedded-web-frameworks-the-smart-selective-engine-developers-actually-need-583p)
+- [People in here with pensions, lets talk...](https://dev.to/ndmckay/people-in-here-with-pensions-lets-talk-5a77)
 <!-- BLOG-POST-LIST:END -->
 
