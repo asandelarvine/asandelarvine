@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [YAML: A Beginner’s Introduction](https://dev.to/nisal_sashmitha/yaml-a-beginners-introduction-42k0)
-- [Core Concepts in Web3](https://dev.to/loading_blocks/core-concepts-in-web3-46na)
-- [Arch Linux - How To Get Volume On Screen Display with XFCE Desktop Environment](https://dev.to/harry_tanama_51571ebf90b6/arch-linux-how-to-get-volume-on-screen-display-with-xfce-desktop-environment-4468)
-- [Prototype Design Pattern in Java: Clone Like a Pro!](https://dev.to/priyankbhardwaj1199/prototype-design-pattern-in-java-clone-like-a-pro-36o7)
+- [Deploy Applications Across Multiple Clusters with RHACM + GitOps](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff)
+- [From Zero to SEO: My Journey with Building a Live Satta King Result Site](https://dev.to/aara222/from-zero-to-seo-my-journey-with-building-a-live-satta-king-result-site-2ejk)
+- [One Bug, Many Faces: Understanding Every Type of Race Condition Vulnerability](https://dev.to/deoxys/one-bug-many-faces-understanding-every-type-of-race-condition-vulnerability-4po3)
+- [dual-personality AI chatbot](https://dev.to/gagan_gagan_2a1795fac0efc/dual-personality-ai-chatbot-2jnl)
 <!-- BLOG-POST-LIST:END -->
 
