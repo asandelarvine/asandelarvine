@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Found Partly Liable in 2019 Autopilot Death](https://dev.to/ndmckay/tesla-found-partly-liable-in-2019-autopilot-death-1jae)
-- [Master Flutter Responsive Design: 😎The Ultimate Screen Utility Class Guide](https://dev.to/hiteshm_devapp/master-flutter-responsive-design-the-ultimate-screen-utility-class-guide-1dmc)
-- [I built a clean, responsive HTML portfolio template for developers – free live demo + source!](https://dev.to/captainfu/i-built-a-clean-responsive-html-portfolio-template-for-developers-free-live-demo-source-1ojp)
-- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 3](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-3-p0m)
+- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-5c7k)
+- [Akira Ransomware Hits SonicWall VPNs in Zero-Day Attack](https://dev.to/neerajlovecyber/akira-ransomware-hits-sonicwall-vpns-in-zero-day-attack-5f15)
+- [Testing File System Code: Mocking, Stubbing, and Test Patterns 9/9](https://dev.to/rezmoss/testing-file-system-code-mocking-stubbing-and-test-patterns-99-1fkh)
+- [ChatGPT users shocked to learn their chats were in Google search results](https://dev.to/ndmckay/chatgpt-users-shocked-to-learn-their-chats-were-in-google-search-results-12ci)
 <!-- BLOG-POST-LIST:END -->
 
