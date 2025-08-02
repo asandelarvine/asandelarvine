@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📬 Stay Ahead with Developer-Focused Newsletters — Powered by Cooperpress](https://dev.to/ml318097/stay-ahead-with-developer-focused-newsletters-powered-by-cooperpress-d59)
-- [Day 2 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-2-learning-devops-in-public-4nco)
-- [The Decorator Pattern in Java](https://dev.to/wkreuch/the-decorator-pattern-in-java-3n4)
-- [Nmap Practical Labs: Network Scanning, Firewall Evasion &amp; Output Analysis](https://dev.to/labex/nmap-practical-labs-network-scanning-firewall-evasion-output-analysis-1di5)
+- [Document Your JavaScript Code Like a Pro with JSDoc](https://dev.to/tenelabs/document-your-javascript-code-like-a-pro-with-jsdoc-3oon)
+- [Repocks: Enable RAG from In-Repo Documentation](https://dev.to/boke0/repocks-enable-rag-from-in-repo-documentation-4h6h)
+- [Top 5 Self-Help Classics Every Tech Professional Should Read](https://dev.to/mainulspace/top-5-self-help-classics-every-tech-professional-should-read-5bl9)
+- [Distributed Spring Batch Coordination, Part 1: The Problem with Traditional Spring Batch Scaling](https://dev.to/jchejarla/distributed-spring-batch-coordination-part-1-the-problem-with-traditional-spring-batch-scaling-3he4)
 <!-- BLOG-POST-LIST:END -->
 
