@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Indicação de leitura: Microsserviços Prontos Para a Produção](https://dev.to/paolabasso/indicacao-de-leitura-microsservicos-prontos-para-a-producao-3n80)
-- [Introducing kuzur.xyz — My Developer Portfolio &amp; Projects Hub](https://dev.to/rahulkuzur/introducing-kuzurxyz-my-developer-portfolio-projects-hub-17dn)
-- [Echte Oreyka Erfahrungen: Tradition trifft Innovation in der Hautpflege](https://dev.to/orekya/echte-oreyka-erfahrungen-tradition-trifft-innovation-in-der-hautpflege-5efp)
-- [AI vs Traditional Reporting: What’s Gained and What’s Lost?](https://dev.to/hemashree_samant_ddc8ad30/ai-vs-traditional-reporting-whats-gained-and-whats-lost-4kk7)
+- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
+- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
+- [Interesting.](https://dev.to/mgks/interesting-2jmd)
+- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
 <!-- BLOG-POST-LIST:END -->
 
