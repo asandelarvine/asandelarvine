@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Java Project: Guess the Number Game &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-guess-the-number-game-with-detailed-explanation-3if9)
-- [The Future of Cybersecurity: AI-Powered Threat Detection in 2025](https://dev.to/wininlife_academy_f1f49be/the-future-of-cybersecurity-ai-powered-threat-detection-in-2025-59ha)
-- [How AI-Powered Project Management Tools with Client Portals Made Me Actually Enjoy Client Work](https://dev.to/azhan_j_37b6bb3896622605/how-ai-powered-project-management-tools-with-client-portals-made-me-actually-enjoy-client-work-c91)
-- [Building NeuroNote — An AI-Powered Collaborative Note-Taking Tool](https://dev.to/abhijay_yadav_712e10ab036/building-neuronote-an-ai-powered-collaborative-note-taking-tool-e54)
+- [[Boost]](https://dev.to/ben/-48l3)
+- [JS-CALLBACK FUNCTIONS](https://dev.to/asran_2025/js-callback-functions-23d5)
+- [Why Headless Architecture Is the Smartest Move for Scalable eCommerce in 2025](https://dev.to/poorvisingh056/why-headless-architecture-is-the-smartest-move-for-scalable-ecommerce-in-2025-4fc4)
+- [🌐 React Context API — Say Goodbye to Prop Drilling](https://dev.to/aman_kureshi_/react-context-api-say-goodbye-to-prop-drilling-3m05)
 <!-- BLOG-POST-LIST:END -->
 
