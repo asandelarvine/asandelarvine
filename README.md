@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Implemented GitHub OAuth2 into My Spring Boot + Angular App N1netails](https://dev.to/shahidfoy/how-i-implemented-github-oauth2-into-my-spring-boot-angular-app-n1netails-5bo)
-- [How I Automated My Excel Workflow Using ChatGPT &lpar;And Wrote a Bestselling Book About It&rpar;](https://dev.to/jaideepparashar/how-i-automated-my-excel-workflow-using-chatgpt-and-wrote-a-bestselling-book-about-it-cmm)
-- [IGN: Ninja Gaiden: Ragebound | The First 20 Minutes of Gameplay | 4k 60FPS](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-the-first-20-minutes-of-gameplay-4k-60fps-451c)
-- [IGN: Killing Floor 3 - Official Gameplay Trailer](https://dev.to/gg_news/ign-killing-floor-3-official-gameplay-trailer-582p)
+- [What tech stacks do you guys use ?](https://dev.to/dumboprogrammer/what-tech-stacks-do-you-guys-use--5g85)
+- [InvoiceMint — A Blockchain-Backed Invoicing App Built with Python and Bulma](https://dev.to/pjdeveloper896/introducing-invoicemint-a-simple-powerful-invoicing-tool-for-solo-founders-84b)
+- [Kai&#39;on prime](https://dev.to/gee_stilo_03a5e2aeebb2636/untitled-29hd)
+- [What Is an ARM SBC and Why Is It Ideal for Embedded Design?](https://dev.to/tonyhe8688/what-is-an-arm-sbc-and-why-is-it-ideal-for-embedded-design-2me3)
 <!-- BLOG-POST-LIST:END -->
 
