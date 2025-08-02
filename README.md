@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionary BCI Advances: Lab-Grown Neurons Restore Motor Control in Paralysis](https://dev.to/ndmckay/revolutionary-bci-advances-lab-grown-neurons-restore-motor-control-in-paralysis-h7d)
-- [AWS Cloud Path Week 10: Important Things to Know about Networking in AWS](https://dev.to/elizabethadegbaju/aws-cloud-path-week-10-important-things-to-know-about-networking-in-aws-3o9j)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-1he8)
-- [Access and Refresh Tokens in Token-Based Authentication](https://dev.to/khaledsaeed18/access-and-refresh-tokens-in-token-based-authentication-2a9o)
+- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
+- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
+- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
+- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
 <!-- BLOG-POST-LIST:END -->
 
