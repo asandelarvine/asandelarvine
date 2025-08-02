@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-5c7k)
-- [Akira Ransomware Hits SonicWall VPNs in Zero-Day Attack](https://dev.to/neerajlovecyber/akira-ransomware-hits-sonicwall-vpns-in-zero-day-attack-5f15)
-- [Testing File System Code: Mocking, Stubbing, and Test Patterns 9/9](https://dev.to/rezmoss/testing-file-system-code-mocking-stubbing-and-test-patterns-99-1fkh)
-- [ChatGPT users shocked to learn their chats were in Google search results](https://dev.to/ndmckay/chatgpt-users-shocked-to-learn-their-chats-were-in-google-search-results-12ci)
+- [📬 Stay Ahead with Developer-Focused Newsletters — Powered by Cooperpress](https://dev.to/ml318097/stay-ahead-with-developer-focused-newsletters-powered-by-cooperpress-d59)
+- [Day 2 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-2-learning-devops-in-public-4nco)
+- [The Decorator Pattern in Java](https://dev.to/wkreuch/the-decorator-pattern-in-java-3n4)
+- [Nmap Practical Labs: Network Scanning, Firewall Evasion &amp; Output Analysis](https://dev.to/labex/nmap-practical-labs-network-scanning-firewall-evasion-output-analysis-1di5)
 <!-- BLOG-POST-LIST:END -->
 
