@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservice-to-Microservice Authentication in .NET Using IdentityServer and JWT](https://dev.to/dinesh_dunukedeniya_539a3/microservice-to-microservice-authentication-in-net-using-identityserver-and-jwt-2n0a)
-- [Prepare](https://dev.to/isaiah_izibili_7a39b7d627/prepare-2hec)
-- [A beginner-friendly guide to the top programming languages_](https://dev.to/mezcode/a-beginner-friendly-guide-to-the-top-programming-languages-36k4)
-- [Surface Watchdog: Building a Self-Running OSINT Daemon in Termux](https://dev.to/gnomeman4201/surface-watchdog-building-a-self-running-osint-daemon-in-termux-36cn)
+- [Demi &amp; Virtcomp](https://dev.to/bobrossrtx/demi-virtcomp-2cb)
+- [AI Helped Me Build a Redis-Powered IoT Anomaly Detector. In 1 Day.](https://dev.to/dirsebastian/ai-helped-me-build-a-redis-powered-iot-anomaly-detector-in-1-day-3e2m)
+- [Por que criei o MindInTheLoop: aprendendo com IA, ensinando com propósito](https://dev.to/mindintheloop/por-que-criei-o-mindintheloop-aprendendo-com-ia-ensinando-com-proposito-3n4g)
+- [Untitled](https://dev.to/barsik_ingush_34702a56847/untitled-5b41)
 <!-- BLOG-POST-LIST:END -->
 
