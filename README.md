@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A First-Timer’s PridesDate Review: What to Expect and How to Start](https://dev.to/pridesdate/a-first-timers-pridesdate-review-what-to-expect-and-how-to-start-5dcb)
-- [How Does GLM-4.5 Surpass o3, Gemini 2.5 Pro, and Grok 4 with 90% Success in Agentic Benchmarks?](https://dev.to/jovin_george_733dcfc16291/how-does-glm-45-surpass-o3-gemini-25-pro-and-grok-4-with-90-success-in-agentic-benchmarks-40mj)
-- [Rethinking Embedded Web Frameworks: The Smart, Selective Engine Developers Actually Need](https://dev.to/hejhdiss/rethinking-embedded-web-frameworks-the-smart-selective-engine-developers-actually-need-583p)
-- [People in here with pensions, lets talk...](https://dev.to/ndmckay/people-in-here-with-pensions-lets-talk-5a77)
+- [Tesla Found Partly Liable in 2019 Autopilot Death](https://dev.to/ndmckay/tesla-found-partly-liable-in-2019-autopilot-death-1jae)
+- [Master Flutter Responsive Design: 😎The Ultimate Screen Utility Class Guide](https://dev.to/hiteshm_devapp/master-flutter-responsive-design-the-ultimate-screen-utility-class-guide-1dmc)
+- [I built a clean, responsive HTML portfolio template for developers – free live demo + source!](https://dev.to/captainfu/i-built-a-clean-responsive-html-portfolio-template-for-developers-free-live-demo-source-1ojp)
+- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 3](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-3-p0m)
 <!-- BLOG-POST-LIST:END -->
 
