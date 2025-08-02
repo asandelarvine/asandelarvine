@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demi &amp; Virtcomp](https://dev.to/bobrossrtx/demi-virtcomp-2cb)
-- [AI Helped Me Build a Redis-Powered IoT Anomaly Detector. In 1 Day.](https://dev.to/dirsebastian/ai-helped-me-build-a-redis-powered-iot-anomaly-detector-in-1-day-3e2m)
-- [Por que criei o MindInTheLoop: aprendendo com IA, ensinando com propósito](https://dev.to/mindintheloop/por-que-criei-o-mindintheloop-aprendendo-com-ia-ensinando-com-proposito-3n4g)
-- [Untitled](https://dev.to/barsik_ingush_34702a56847/untitled-5b41)
+- [Maybe the world first full level Vibe Coding agent for Backend Applications](https://dev.to/samchon/autobe-we-made-ai-friendly-compilers-for-vibe-coding-achieving-100-build-success-open-source-1ji1)
+- [Progressive Web App &lpar;PWA&rpar; vs Native: Which Wins for ROI in 2025?](https://dev.to/softosync/progressive-web-app-pwa-vs-native-which-wins-for-roi-in-2025-892)
+- [I Launched My First Startup at 16 — and Nobody Came](https://dev.to/pjdeveloper896/i-launched-my-first-startup-at-16-and-nobody-came-3em1)
+- [FLUX.1 Krea: Local AI Image Generator Installation Guide](https://dev.to/localfaceswap/flux1-krea-local-ai-image-generator-installation-guide-4b64)
 <!-- BLOG-POST-LIST:END -->
 
