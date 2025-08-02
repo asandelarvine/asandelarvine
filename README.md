@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What tech stacks do you guys use ?](https://dev.to/dumboprogrammer/what-tech-stacks-do-you-guys-use--5g85)
-- [InvoiceMint — A Blockchain-Backed Invoicing App Built with Python and Bulma](https://dev.to/pjdeveloper896/introducing-invoicemint-a-simple-powerful-invoicing-tool-for-solo-founders-84b)
-- [Kai&#39;on prime](https://dev.to/gee_stilo_03a5e2aeebb2636/untitled-29hd)
-- [What Is an ARM SBC and Why Is It Ideal for Embedded Design?](https://dev.to/tonyhe8688/what-is-an-arm-sbc-and-why-is-it-ideal-for-embedded-design-2me3)
+- [YAML: A Beginner’s Introduction](https://dev.to/nisal_sashmitha/yaml-a-beginners-introduction-42k0)
+- [Core Concepts in Web3](https://dev.to/loading_blocks/core-concepts-in-web3-46na)
+- [Arch Linux - How To Get Volume On Screen Display with XFCE Desktop Environment](https://dev.to/harry_tanama_51571ebf90b6/arch-linux-how-to-get-volume-on-screen-display-with-xfce-desktop-environment-4468)
+- [Prototype Design Pattern in Java: Clone Like a Pro!](https://dev.to/priyankbhardwaj1199/prototype-design-pattern-in-java-clone-like-a-pro-36o7)
 <!-- BLOG-POST-LIST:END -->
 
