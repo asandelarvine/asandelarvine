@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Mastering Repeat/Until Loops in Uniface: A Developer&#39;s Guide](https://dev.to/petercode/mastering-repeatuntil-loops-in-uniface-a-developers-guide-28on)
-- [Mastering Uniface remocc: A Complete Guide to Entity Occurrence Deletion 🗑️](https://dev.to/petercode/mastering-uniface-remocc-a-complete-guide-to-entity-occurrence-deletion-1bm0)
-- [Getting Started with JavaScript](https://dev.to/vidya_varshini/getting-started-with-javascript-4h5h)
-- [Beginning My LeetCode Journey with the NeetCode 150: Progress, Thoughts, and How You Can Too!](https://dev.to/punitsharma/beginning-my-leetcode-journey-with-the-neetcode-150-progress-thoughts-and-how-you-can-too-59bp)
+- [25 Security Rules That Truly Matter &lpar;Beyond Theory&rpar;](https://dev.to/dvjosefr/25-security-rules-that-truly-matter-beyond-theory-44ba)
+- [What is Alibaba Cloud Data V](https://dev.to/subhamray/what-is-alibaba-cloud-data-v-3coc)
+- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
+- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
 <!-- BLOG-POST-LIST:END -->
 
