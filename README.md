@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
-- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
-- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
-- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
+- [🔄 Mastering Repeat/Until Loops in Uniface: A Developer&#39;s Guide](https://dev.to/petercode/mastering-repeatuntil-loops-in-uniface-a-developers-guide-28on)
+- [Mastering Uniface remocc: A Complete Guide to Entity Occurrence Deletion 🗑️](https://dev.to/petercode/mastering-uniface-remocc-a-complete-guide-to-entity-occurrence-deletion-1bm0)
+- [Getting Started with JavaScript](https://dev.to/vidya_varshini/getting-started-with-javascript-4h5h)
+- [Beginning My LeetCode Journey with the NeetCode 150: Progress, Thoughts, and How You Can Too!](https://dev.to/punitsharma/beginning-my-leetcode-journey-with-the-neetcode-150-progress-thoughts-and-how-you-can-too-59bp)
 <!-- BLOG-POST-LIST:END -->
 
