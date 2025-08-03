@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Security Rules That Truly Matter &lpar;Beyond Theory&rpar;](https://dev.to/dvjosefr/25-security-rules-that-truly-matter-beyond-theory-44ba)
-- [What is Alibaba Cloud Data V](https://dev.to/subhamray/what-is-alibaba-cloud-data-v-3coc)
-- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
-- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
+- [Tradie Materials Live NZ: After the Hack - WLH Challenge](https://dev.to/ariondev/tradie-materials-live-nz-after-the-hack-wlh-challenge-2p5g)
+- [The Debate Between Tailwind CSS and Styled Components for React Developers](https://dev.to/hazrat-ali9/the-debate-between-tailwind-css-and-styled-components-for-react-developers-3fl4)
+- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
+- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
 <!-- BLOG-POST-LIST:END -->
 
