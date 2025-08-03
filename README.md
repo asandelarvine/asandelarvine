@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Codon sentience](https://dev.to/shuvohoq0/codon-sentience-59p0)
-- [Fixing “Uncontrolled   Controlled” Input Warnings in React 19](https://dev.to/cristiansifuentes/fixing-uncontrolled-controlled-input-warnings-in-react-19-2127)
-- [AI-Powered Code Generation from Ideas for Swift](https://dev.to/atforeveryoung/ai-powered-code-generation-from-ideas-for-swift-1k48)
-- [[Boost]](https://dev.to/thin_ho_e1271bf8f8199a3/-3hi2)
+- [How to Create a Custom LinkedIn Frame to Stand Out in 2025](https://dev.to/yardenporat/how-to-create-a-custom-linkedin-frame-to-stand-out-in-2025-2l2m)
+- [The Untold Story of My Home Server - A Journey Through Self-Hosted Services](https://dev.to/ashraful/the-untold-story-of-my-home-server-a-journey-through-self-hosted-services-2hj2)
+- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
+- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
 <!-- BLOG-POST-LIST:END -->
 
