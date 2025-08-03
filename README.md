@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Building a Simple AI Prompt Keeper &lpar;with Bootstrap 5 + Alpine.js&rpar;](https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj)
-- [Building a Modern Blog with Claude Code: From Concept to Deployment](https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl)
-- [Dart Lesson 7: Object-oriented &lpar;Part 1&rpar; - Basic concepts of classes and objects](https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7)
-- [Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut](https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34)
+- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
+- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
+- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
+- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
 <!-- BLOG-POST-LIST:END -->
 
