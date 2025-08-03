@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
-- [A Promising Automation Idea? #28](https://dev.to/0xj0n1/a-promising-automation-idea-28-415d)
-- [Why RuneScape Private Servers Are Still Growing in 2025](https://dev.to/stefan_apostol_d6fecb38de/why-runescape-private-servers-are-still-growing-in-2025-1lkd)
-- [A step-by-step guide on how to install PostgreSQL on a Linux server](https://dev.to/arnold_mutugi_cca4d931ecc/a-step-by-step-guide-on-how-to-install-postgresql-on-a-linux-server-46hl)
+- [rindex in Python](https://dev.to/hyperkai/rindex-in-python-2275)
+- [POSTGRESQL INSTALLATION MADE EASY ON LINUX SERVERS](https://dev.to/njeri_kimaru_07fe792621ff/postgresql-installation-made-easy-on-linux-servers-3lj8)
+- [index in Python](https://dev.to/hyperkai/index-in-python-e4i)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf)
 <!-- BLOG-POST-LIST:END -->
 
