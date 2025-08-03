@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mission 9: Navigating Outcomes Part One](https://dev.to/theoriginalbpc/mission-9-navigating-outcomes-part-one-1ocb)
-- [Solana Hold Your Funds, Redeem Them Now?](https://dev.to/blockexperts/solana-hold-your-funds-redeem-them-now-5bm6)
-- [AWS Cloud Path Week 18: Building a Serverless Coffee Shop Backend](https://dev.to/aws-builders/aws-cloud-path-week-18-building-a-serverless-coffee-shop-backend-4mkp)
-- [C# Excel sortable headers](https://dev.to/karenpayneoregon/c-excel-sortable-headers-pe1)
+- [Recreating Apple’s AirTag Landing Page in React + Tailwind &lpar;8‑min speed‑run&rpar;](https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5)
+- [A Promising Automation Idea? #28](https://dev.to/0xj0n1/a-promising-automation-idea-28-415d)
+- [Why RuneScape Private Servers Are Still Growing in 2025](https://dev.to/stefan_apostol_d6fecb38de/why-runescape-private-servers-are-still-growing-in-2025-1lkd)
+- [A step-by-step guide on how to install PostgreSQL on a Linux server](https://dev.to/arnold_mutugi_cca4d931ecc/a-step-by-step-guide-on-how-to-install-postgresql-on-a-linux-server-46hl)
 <!-- BLOG-POST-LIST:END -->
 
