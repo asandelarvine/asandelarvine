@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
-- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
-- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
-- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
+- [Mission 9: Navigating Outcomes Part One](https://dev.to/theoriginalbpc/mission-9-navigating-outcomes-part-one-1ocb)
+- [Solana Hold Your Funds, Redeem Them Now?](https://dev.to/blockexperts/solana-hold-your-funds-redeem-them-now-5bm6)
+- [AWS Cloud Path Week 18: Building a Serverless Coffee Shop Backend](https://dev.to/aws-builders/aws-cloud-path-week-18-building-a-serverless-coffee-shop-backend-4mkp)
+- [C# Excel sortable headers](https://dev.to/karenpayneoregon/c-excel-sortable-headers-pe1)
 <!-- BLOG-POST-LIST:END -->
 
