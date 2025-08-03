@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Solid Linux Resource I Keep Coming Back To](https://dev.to/ernesto_malave_285068a60e/a-solid-linux-resource-i-keep-coming-back-to-mc5)
-- [Cyclic Dependency in a Microservice Architecture](https://dev.to/dumbestprogrammer/cyclic-dependency-in-a-microservice-architecture-1e6c)
-- [&quot;Why I Start My Tuesdays with These 3-Minute Prayers &lpar;Even as a Developer&rpar;&quot;](https://dev.to/sarmad_asif_49da49ea0dae7/why-i-start-my-tuesdays-with-these-3-minute-prayers-even-as-a-developer-b61)
-- [The Truth About Vibe Coding: AI Won’t Save You From Debugging](https://dev.to/mikaelsantilio/the-truth-about-vibe-coding-ai-wont-save-you-from-debugging-2i14)
+- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
+- [The Beauty of Git: Writing Code Stories](https://dev.to/rafaeljohn9/the-beauty-of-git-writing-code-stories-3i99)
+- [Gateway-Oriented Architecture &lpar;GOA&rpar;](https://dev.to/cesarpaulomp/gateway-oriented-architecture-goa-1bpc)
+- [Mastering Linear Search: Learn the Essentials of This Core Algorithm](https://dev.to/saptarshisarkar/mastering-linear-search-learn-the-essentials-of-this-core-algorithm-4daj)
 <!-- BLOG-POST-LIST:END -->
 
