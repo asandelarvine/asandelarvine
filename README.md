@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Hallucinations: When AI Goes Off the Rails](https://dev.to/rijultp/llm-hallucinations-when-ai-goes-off-the-rails-4ifh)
-- [The Beauty of Git: Writing Code Stories](https://dev.to/rafaeljohn9/the-beauty-of-git-writing-code-stories-3i99)
-- [Gateway-Oriented Architecture &lpar;GOA&rpar;](https://dev.to/cesarpaulomp/gateway-oriented-architecture-goa-1bpc)
-- [Mastering Linear Search: Learn the Essentials of This Core Algorithm](https://dev.to/saptarshisarkar/mastering-linear-search-learn-the-essentials-of-this-core-algorithm-4daj)
+- [Basic Exception Handling in Java Spring](https://dev.to/pablo_mora_9e40570a97f54e/basic-exception-handling-in-java-spring-56h4)
+- [Veo 3 now available in Gemini Pro](https://dev.to/amrs-tech/veo-3-now-available-in-gemini-pro-1c9m)
+- [AWS Cloud Path Week 16: AWS Networking Workshop Part 6 &lpar;Final&rpar; -Understanding AWS Gateway Load Balancer](https://dev.to/aws-builders/aws-cloud-path-week-16-aws-networking-workshop-part-6-final-understanding-aws-gateway-load-3df8)
+- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
 <!-- BLOG-POST-LIST:END -->
 
