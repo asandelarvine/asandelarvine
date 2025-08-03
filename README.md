@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Angular DevTools](https://dev.to/soumayaerradi/mastering-angular-devtools-92d)
-- [5 Ways AI Is Changing the Way We Watch TV — And Why It’s Only the Beginning](https://dev.to/svenpeter87690/5-ways-ai-is-changing-the-way-we-watch-tv-and-why-its-only-the-beginning-7m2)
-- [Day 54: When React Decides to Be Extra](https://dev.to/casperday11/day-54-when-react-decides-to-be-extra-mi2)
-- [The Most Powerful, Easy To Use And Best State Management Library in React](https://dev.to/myogeshchavan97/the-most-powerful-easy-to-use-and-best-state-management-library-in-react-3o3i)
+- [Kruskal Algorithm C++: Story](https://dev.to/harshm03/kruskal-algorithm-c-story-3g1o)
+- [A basic checklist for smoother WordPress setups](https://dev.to/elliemiguel/a-basic-checklist-for-smoother-wordpress-setups-2acj)
+- [Getting Started with FastAPI + Docker: A Beginner-Friendly Cloud Setup](https://dev.to/stellaacharoiro/getting-started-with-fastapi-docker-a-beginner-friendly-cloud-setup-1437)
+- [Building a SaaS for Freelancers: Proposals, Client Onboarding, Task Management &amp; Time Tracking](https://dev.to/sandeepbhattarai100/building-a-saas-for-freelancers-proposals-client-onboarding-task-management-time-tracking-5cd5)
 <!-- BLOG-POST-LIST:END -->
 
