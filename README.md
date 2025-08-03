@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Custom LinkedIn Frame to Stand Out in 2025](https://dev.to/yardenporat/how-to-create-a-custom-linkedin-frame-to-stand-out-in-2025-2l2m)
-- [The Untold Story of My Home Server - A Journey Through Self-Hosted Services](https://dev.to/ashraful/the-untold-story-of-my-home-server-a-journey-through-self-hosted-services-2hj2)
-- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
-- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
+- [✨ Building a Simple AI Prompt Keeper &lpar;with Bootstrap 5 + Alpine.js&rpar;](https://dev.to/adit/building-a-simple-ai-prompt-keeper-with-bootstrap-5-alpinejs-4dbj)
+- [Building a Modern Blog with Claude Code: From Concept to Deployment](https://dev.to/aziar/building-a-modern-blog-with-claude-code-from-concept-to-deployment-11jl)
+- [Dart Lesson 7: Object-oriented &lpar;Part 1&rpar; - Basic concepts of classes and objects](https://dev.to/jige2025/dart-lesson-7-object-oriented-part-1-basic-concepts-of-classes-and-objects-14k7)
+- [Earl Bagaikan Bahasa yang Nabi Sulaiman Berkomunikasi dengan Semut](https://dev.to/dev_nazwashabrina/earl-bagaikan-bahasa-yang-nabi-sulaiman-berkomunikasi-dengan-semut-4a34)
 <!-- BLOG-POST-LIST:END -->
 
