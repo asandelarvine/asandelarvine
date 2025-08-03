@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in DevOps](https://dev.to/maahir19/the-role-of-ai-in-devops-3mi2)
-- [Kanban vs Scrum: qual escolher?](https://dev.to/lucaspereiradesouzat/kanban-vs-scrum-qual-escolher-3iag)
-- [POSTGRESQL INSTALLATION ON LINUX SERVER](https://dev.to/jeffa_jeffa_67f700f712ab7/postgresql-installation-on-linux-server-4mjf)
-- [How I Stopped Fake “OpenAI” &amp; “Googlebot” Crawlers from Flooding My Site](https://dev.to/yeb/how-i-stopped-fake-openai-googlebot-crawlers-from-flooding-my-site-2j1b)
+- [A Solid Linux Resource I Keep Coming Back To](https://dev.to/ernesto_malave_285068a60e/a-solid-linux-resource-i-keep-coming-back-to-mc5)
+- [Cyclic Dependency in a Microservice Architecture](https://dev.to/dumbestprogrammer/cyclic-dependency-in-a-microservice-architecture-1e6c)
+- [&quot;Why I Start My Tuesdays with These 3-Minute Prayers &lpar;Even as a Developer&rpar;&quot;](https://dev.to/sarmad_asif_49da49ea0dae7/why-i-start-my-tuesdays-with-these-3-minute-prayers-even-as-a-developer-b61)
+- [The Truth About Vibe Coding: AI Won’t Save You From Debugging](https://dev.to/mikaelsantilio/the-truth-about-vibe-coding-ai-wont-save-you-from-debugging-2i14)
 <!-- BLOG-POST-LIST:END -->
 
