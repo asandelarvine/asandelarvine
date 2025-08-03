@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kruskal Algorithm C++: Story](https://dev.to/harshm03/kruskal-algorithm-c-story-3g1o)
-- [A basic checklist for smoother WordPress setups](https://dev.to/elliemiguel/a-basic-checklist-for-smoother-wordpress-setups-2acj)
-- [Getting Started with FastAPI + Docker: A Beginner-Friendly Cloud Setup](https://dev.to/stellaacharoiro/getting-started-with-fastapi-docker-a-beginner-friendly-cloud-setup-1437)
-- [Building a SaaS for Freelancers: Proposals, Client Onboarding, Task Management &amp; Time Tracking](https://dev.to/sandeepbhattarai100/building-a-saas-for-freelancers-proposals-client-onboarding-task-management-time-tracking-5cd5)
+- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
+- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
+- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
+- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
 <!-- BLOG-POST-LIST:END -->
 
