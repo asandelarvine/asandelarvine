@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
-- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
-- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
-- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
+- [Run Wan 2.2 in ComfyUI with Just 8GB VRAM — Full Image-to-Video AI Workflow](https://dev.to/aitechtutorials/run-wan-22-in-comfyui-with-just-8gb-vram-full-image-to-video-ai-workflow-2gb6)
+- [Oracle APEX: Transcrevendo audio em texto sem uso de REST direto no navegador em 5 minutos](https://dev.to/valter_filho_24448308265f/oracle-apex-transcrevendo-audio-em-texto-sem-uso-de-rest-direto-no-navegador-em-5-minutos-3eip)
+- [Dart Lesson 4: Collection Types &lpar;Part 2&rpar; — Maps and Enumerations](https://dev.to/ge_ji_d617c198a4ec85231b1/dart-lesson-4-collection-types-part-2-maps-and-enumerations-28j6)
+- [Hash Map Deep Dive](https://dev.to/gkoos/hash-map-deep-dive-2b7p)
 <!-- BLOG-POST-LIST:END -->
 
