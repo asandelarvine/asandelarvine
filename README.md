@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building GraphQL APIs with Apollo Server](https://dev.to/godofgeeks/building-graphql-apis-with-apollo-server-26b6)
-- [JavaScript isn’t the problem. Replacing the browser was.](https://dev.to/peterp/javascript-isnt-the-problem-replacing-the-browser-was-1ma7)
-- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
-- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
+- [C malloc size calculate](https://dev.to/wakeup_flower_8591a6cb6a9/c-malloc-size-calculate-37k7)
+- [Network Security Tips For Small Business](https://dev.to/terminaltools/network-security-tips-for-small-business-3331)
+- [Remote Work Comparison 2025: Freelance, Full-Time, Hybrid &amp; More](https://dev.to/kapil_ruhela_9273aa701e03/remote-work-comparison-2025-freelance-full-time-hybrid-more-4pcl)
+- [The Andy Byron Coldplay incident](https://dev.to/nandinishinduja/the-andy-byron-coldplay-incident-4kph)
 <!-- BLOG-POST-LIST:END -->
 
