@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tradie Materials Live NZ: After the Hack - WLH Challenge](https://dev.to/ariondev/tradie-materials-live-nz-after-the-hack-wlh-challenge-2p5g)
-- [The Debate Between Tailwind CSS and Styled Components for React Developers](https://dev.to/hazrat-ali9/the-debate-between-tailwind-css-and-styled-components-for-react-developers-3fl4)
-- [[Boost]](https://dev.to/pankaj_jainani_e2ef8fc5d9/-1cab)
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-31d)
+- [AI browser is the next killer app: how browsing is being rewritten by AI](https://dev.to/codetestfactory/ai-browser-is-the-next-killer-app-how-browsing-is-being-rewritten-by-ai-43jd)
+- [Hello World: I’m Learning HTML, CSS, and JavaScript](https://dev.to/vaishali_kadam/hello-world-im-learning-html-css-and-javascript-hg9)
+- [🧪 Playwright Test Annotations &amp; Grouping with describe&lpar;&rpar; — Full Tutorial](https://dev.to/wishinfinite/playwright-test-annotations-grouping-with-describe-full-tutorial-2gn3)
+- [🚀 Introducing: Quote Tab – A Chrome Extension for Daily Motivation](https://dev.to/arifuddincoder/introducing-quote-tab-a-chrome-extension-for-daily-motivation-51a0)
 <!-- BLOG-POST-LIST:END -->
 
