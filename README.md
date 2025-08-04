@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
-- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
-- [Cloud SaaS in 2025: Build Apps, Bank $99 Fast](https://dev.to/resource_bunk_1077cab07da/cloud-saas-in-2025-build-apps-bank-99-fast-dpb)
-- [3D Printing Nerd: Birthday Stream!](https://dev.to/maker_youtube/3d-printing-nerd-birthday-stream-54c3)
+- [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
+- [A Cyberpunk 2077 Themed Terminal Game](https://dev.to/allecta/a-cyberpunk-2077-themed-terminal-game-4mdf)
+- [class-validator Cheatsheet: Useful Decorators and NestJS Validation Patterns &lpar;2025&rpar;](https://dev.to/seenu-subhash/class-validator-cheatsheet-useful-decorators-and-nestjs-validation-patterns-2025-1c43)
+- [Angular Deep Signal: Modeling State in Depth](https://dev.to/davidepassafaro/angular-deep-signal-modeling-state-in-depth-bb9)
 <!-- BLOG-POST-LIST:END -->
 
