@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unboxing the Black Box: Understanding AI with Reverse Mechanistic Localization](https://dev.to/rijultp/unboxing-the-black-box-understanding-ai-with-reverse-mechanistic-localization-ac9)
-- [20 Questions to Ask an LLM About Your Codebase &lpar;That You Probably Won&#39;t Like the Answers To&rpar;](https://dev.to/sebs/20-questions-to-ask-an-llm-about-your-codebase-that-you-probably-wont-like-the-answers-to-2h9k)
-- [🎨 A Arte e Ciência da Arquitetura Front-end](https://dev.to/wanderleycabral-dev/a-arte-e-ciencia-da-arquitetura-front-end-419p)
-- [🍯 Riverpod Sugar: From Verbose to Revolutionary - How I Cut Flutter State Management Code by 80%](https://dev.to/mukhbit/riverpod-sugar-from-verbose-to-revolutionary-how-i-cut-flutter-state-management-code-by-80-41f2)
+- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
+- [I&#39;m working on shallowing my swing — it&#39;s always been steep and I accepted and worked with this for a while, but I have too many inconsistencies. So sort of re-working a proper swing.](https://dev.to/ben/im-working-on-shallowing-my-swing-its-always-been-steep-and-i-accepted-and-worked-with-this-for-5bcc)
+- [Cloud SaaS in 2025: Build Apps, Bank $99 Fast](https://dev.to/resource_bunk_1077cab07da/cloud-saas-in-2025-build-apps-bank-99-fast-dpb)
+- [3D Printing Nerd: Birthday Stream!](https://dev.to/maker_youtube/3d-printing-nerd-birthday-stream-54c3)
 <!-- BLOG-POST-LIST:END -->
 
