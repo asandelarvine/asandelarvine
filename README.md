@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Turning a Picure into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picure-into-a-damascus-pattern-4922)
-- [Maker&#39;s Muse: 8 Things that RUIN 3D print accuracy &lpar;and how to fix it&rpar;](https://dev.to/maker_youtube/makers-muse-8-things-that-ruin-3d-print-accuracy-and-how-to-fix-it-5546)
-- [Adam Savage&#39;s Tested: How Adam Savage Organizes His Thoughts](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-organizes-his-thoughts-ndi)
-- [Built My First AI Agent Without Code Using SmythOS &lpar;Weaver is wild&rpar;](https://dev.to/moh_bright_e478f690f4a59f/built-my-first-ai-agent-without-code-using-smythos-weaver-is-wild-3kma)
+- [Introducing wizinsight - Lightweight API monitoring with Discord alerts](https://dev.to/parth_tyagi_23a56c937be3c/introducing-wizinsight-lightweight-api-monitoring-with-discord-alerts-5ael)
+- [A Clean &amp; Powerful Calculator with Pure JavaScript 🧮_give it a⭐](https://dev.to/yaldakhoshpey/a-clean-powerful-calculator-with-pure-javascript-3d7p)
+- [Building an AI Health Platform That Could Save the NHS £8.5M+ Annually](https://dev.to/shiva_shanker_k/building-an-ai-health-platform-that-could-save-the-nhs-ps85m-annually-218k)
+- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
 <!-- BLOG-POST-LIST:END -->
 
