@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [如何在 web 应用中使用 GDAL （一）](https://dev.to/yangholmes/ru-he-zai-web-ying-yong-zhong-shi-yong-gdal--mad)
-- [OBS Studio in 2025 + My Favorite Free Screen Recording Tools](https://dev.to/bugs_bunny_e1d31fe61d0d32/obs-studio-in-2025-my-favorite-free-screen-recording-tools-5c0)
-- [For Angualr developper that use NgRx SignalStore, you will love it !](https://dev.to/romain_geffrault_10d88369/for-angualr-developper-that-use-ngrx-signalstore-you-will-love-it--le9)
-- [🔥 Firebase Storage: Easy Setup &amp; File Listing.](https://dev.to/ayushtiic/firebase-storage-easy-setup-file-listing-1l3i)
+- [The reality of Open Source](https://dev.to/jacobandrewsky/the-reality-of-open-source-45dg)
+- [Building CoastFireCalc.org: A Simple Tool for Financial Independence Planning](https://dev.to/killer_scofield_d2f41df11/building-coastfirecalcorg-a-simple-tool-for-financial-independence-planning-4e0j)
+- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
+- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
 <!-- BLOG-POST-LIST:END -->
 
