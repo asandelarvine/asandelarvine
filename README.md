@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Programming in Java](https://dev.to/iammadhankumar/reactive-programming-in-java-4adn)
-- [how to get fetch/axios error details?](https://dev.to/andrey111555/how-to-get-fetchaxios-error-details-5d39)
-- [Promise JS](https://dev.to/m_ramavel_8d478add09a105c/promise-js-4hjm)
-- [💡 Looking to master core algorithms? Check out my deep-dive on 𝗟𝗶𝗻𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵—step-by-step logic explained visually, edge-case handling &lpar;1D, ranges &amp; 2D&rpar;, and ready-to-run code snippets. Thoughts?](https://dev.to/saptarshisarkar/looking-to-master-core-algorithms-check-out-my-deep-dive-on-step-by-step-logic-2jgd)
+- [Day 55: When NPX Errors and Team Drama Collide](https://dev.to/casperday11/day-55-when-npx-errors-and-team-drama-collide-5d75)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd)
+- [Strategy design pattern](https://dev.to/abhishek_ahlawat_2b5d6d6d/strategy-design-pattern-3g1k)
+- [🐍 How I Built a Terminal Knowledge Crawler in Pure Python &lpar;No Frameworks&rpar;](https://dev.to/1fahadshah/how-i-built-a-terminal-knowledge-crawler-in-pure-python-no-frameworks-53hf)
 <!-- BLOG-POST-LIST:END -->
 
