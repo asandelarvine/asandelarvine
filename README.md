@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
-- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
-- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
-- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
+- [Reactive Programming in Java](https://dev.to/iammadhankumar/reactive-programming-in-java-4adn)
+- [how to get fetch/axios error details?](https://dev.to/andrey111555/how-to-get-fetchaxios-error-details-5d39)
+- [Promise JS](https://dev.to/m_ramavel_8d478add09a105c/promise-js-4hjm)
+- [💡 Looking to master core algorithms? Check out my deep-dive on 𝗟𝗶𝗻𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵—step-by-step logic explained visually, edge-case handling &lpar;1D, ranges &amp; 2D&rpar;, and ready-to-run code snippets. Thoughts?](https://dev.to/saptarshisarkar/looking-to-master-core-algorithms-check-out-my-deep-dive-on-step-by-step-logic-2jgd)
 <!-- BLOG-POST-LIST:END -->
 
