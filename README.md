@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
-- [A Cyberpunk 2077 Themed Terminal Game](https://dev.to/allecta/a-cyberpunk-2077-themed-terminal-game-4mdf)
-- [class-validator Cheatsheet: Useful Decorators and NestJS Validation Patterns &lpar;2025&rpar;](https://dev.to/seenu-subhash/class-validator-cheatsheet-useful-decorators-and-nestjs-validation-patterns-2025-1c43)
-- [Angular Deep Signal: Modeling State in Depth](https://dev.to/davidepassafaro/angular-deep-signal-modeling-state-in-depth-bb9)
+- [Duties and Taxes on Pet Accessories When Entering Canada](https://dev.to/muhammad_azam_b8dde188d50/duties-and-taxes-on-pet-accessories-when-entering-canada-1849)
+- [JSON Serialize vs. WebForms Class Performance Comparison](https://dev.to/elanatframework/json-serialize-vs-webforms-class-performance-comparison-15de)
+- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
+- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
 <!-- BLOG-POST-LIST:END -->
 
