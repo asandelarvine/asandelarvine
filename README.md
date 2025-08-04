@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Duties and Taxes on Pet Accessories When Entering Canada](https://dev.to/muhammad_azam_b8dde188d50/duties-and-taxes-on-pet-accessories-when-entering-canada-1849)
-- [JSON Serialize vs. WebForms Class Performance Comparison](https://dev.to/elanatframework/json-serialize-vs-webforms-class-performance-comparison-15de)
-- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
-- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
+- [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
+- [Flutter vs React Native vs Kivy: Best Framework for Lightweight App Development](https://dev.to/mr_nova/flutter-vs-react-native-vs-kivy-best-framework-for-lightweight-app-development-5dbc)
+- [C# LeetCode 100: Same Tree - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-100-same-tree-easy-3j18)
+- [Basic Server Hardening for Ubuntu/Debian: SSH Access and Firewall](https://dev.to/joaoprd/basic-server-hardening-for-ubuntudebian-ssh-access-and-firewall-g2e)
 <!-- BLOG-POST-LIST:END -->
 
