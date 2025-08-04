@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Not Your Savior - It&#39;s a Wild Pantheon, and You&#39;re the High Priest. Here&#39;s How to Win by Mixing Gods and Tools.](https://dev.to/developia/ais-not-your-savior-its-a-wild-pantheon-and-youre-the-high-priest-heres-how-to-win-by-255k)
-- [How I learned to stop worrying and love edge computing](https://dev.to/nabilpatel4012/how-i-learned-to-stop-worrying-and-love-edge-computing-4965)
-- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
-- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
+- [如何在 web 应用中使用 GDAL （一）](https://dev.to/yangholmes/ru-he-zai-web-ying-yong-zhong-shi-yong-gdal--mad)
+- [OBS Studio in 2025 + My Favorite Free Screen Recording Tools](https://dev.to/bugs_bunny_e1d31fe61d0d32/obs-studio-in-2025-my-favorite-free-screen-recording-tools-5c0)
+- [For Angualr developper that use NgRx SignalStore, you will love it !](https://dev.to/romain_geffrault_10d88369/for-angualr-developper-that-use-ngrx-signalstore-you-will-love-it--le9)
+- [🔥 Firebase Storage: Easy Setup &amp; File Listing.](https://dev.to/ayushtiic/firebase-storage-easy-setup-file-listing-1l3i)
 <!-- BLOG-POST-LIST:END -->
 
