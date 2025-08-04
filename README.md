@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BookLore: Your Personal Library, Reimagined](https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh)
-- [Building an Interactive S3 Bucket Manager with Bash](https://dev.to/dm8ry/building-an-interactive-s3-bucket-manager-with-bash-1f4i)
-- [Funding Rate Arbitrage: A Technical Deep Dive](https://dev.to/27sphere/funding-rate-arbitrage-a-technical-deep-dive-3eed)
-- [Prompt Engineering for AI-Driven Web Apps: A Spring Boot + React Storefront Example](https://dev.to/thelogicwarlock/prompt-engineering-for-ai-driven-web-apps-a-spring-boot-react-storefront-example-29b6)
+- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
+- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
+- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
+- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
 <!-- BLOG-POST-LIST:END -->
 
