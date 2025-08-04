@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Diseño y Modelado: ¿son lo mismo?](https://dev.to/azunico/diseno-y-modelado-son-lo-mismo-50n5)
-- [¿Por qué debes aprender diseño de software en el frontend?](https://dev.to/azunico/por-que-debes-aprender-diseno-de-software-en-el-frontend-2nod)
-- [Crafting Cross-platform Memory Allocator in C](https://dev.to/unknownrori/crafting-cross-platform-memory-allocator-in-c-4b6c)
-- [Building a Linear-Inspired Issue Tracker with Electron: Local-First, Keyboard-Driven, and Lightweight](https://dev.to/rareniches/building-a-linear-inspired-issue-tracker-with-electron-local-first-keyboard-driven-and-41hh)
+- [BookLore: Your Personal Library, Reimagined](https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh)
+- [Building an Interactive S3 Bucket Manager with Bash](https://dev.to/dm8ry/building-an-interactive-s3-bucket-manager-with-bash-1f4i)
+- [Funding Rate Arbitrage: A Technical Deep Dive](https://dev.to/27sphere/funding-rate-arbitrage-a-technical-deep-dive-3eed)
+- [Prompt Engineering for AI-Driven Web Apps: A Spring Boot + React Storefront Example](https://dev.to/thelogicwarlock/prompt-engineering-for-ai-driven-web-apps-a-spring-boot-react-storefront-example-29b6)
 <!-- BLOG-POST-LIST:END -->
 
