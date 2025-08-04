@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Static Website on S3 &lpar;With Custom Domain &amp; SSL&rpar; 🌐🔒](https://dev.to/yash_sonawane25/how-to-host-a-static-website-on-s3-with-custom-domain-ssl-f96)
-- [The Feeling of Posting Article as a beginner](https://dev.to/vilo-time/the-feeling-of-posting-article-as-a-beginner-4po0)
-- [CPU Core Deception: The Genius of Virtual Cores and Performance](https://dev.to/adityabhuyan/cpu-core-deception-the-genius-of-virtual-cores-and-performance-22fg)
-- [join in Python](https://dev.to/hyperkai/join-in-python-4ej5)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-4lck)
+- [&quot;DevOps Journey: Week 8 - Automating Configuration with Ansible&quot;](https://dev.to/azmatahmed/devops-journey-week-8-automating-configuration-with-ansible-4j73)
+- [Streaming Blazor &lpar;ASP.Net Core&rpar; Logs to the Browser with a custom NLog Target and SignalR](https://dev.to/stewartcelani/streaming-blazor-aspnet-core-logs-to-the-browser-with-a-custom-nlog-target-and-signalr-4e2d)
+- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
 <!-- BLOG-POST-LIST:END -->
 
