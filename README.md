@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #732 - MetaCPAN Success Story](https://dev.to/szabgab/perl-weekly-732-metacpan-success-story-2p1h)
-- [If a Veteran Coder Is Skeptical About AI, We Shouldn&#39;t Worry About Our Coding Jobs](https://dev.to/canro91/if-a-veteran-coder-is-skeptical-about-ai-we-shouldnt-worry-about-our-coding-jobs-2hmg)
-- [lstrip in Python](https://dev.to/hyperkai/lstrip-in-python-49i5)
-- [🚀 Spring Boot Microservice Orchestration with Temporal](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-microservice-orchestration-with-temporal-hnp)
+- [New Discovery on Ubuntu 24.04: A Faster, Lighter Package Manager – Linyaps](https://dev.to/jone_doe_9d4974e96747ba80/new-discovery-on-ubuntu-2404-a-faster-lighter-package-manager-linyaps-36mo)
+- [Setup PocketBase For Your Integration Tests with TestContainers and xUnit](https://dev.to/this-is-learning/setup-pocketbase-for-your-integration-tests-with-testcontainers-and-xunit-3nf9)
+- [The Hidden Power of Next.js 15 in Your Hands](https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje)
+- [Understanding Asset Models: Why They Matter in ITAM](https://dev.to/teresa_tran/understanding-asset-models-why-they-matter-in-itam-154c)
 <!-- BLOG-POST-LIST:END -->
 
