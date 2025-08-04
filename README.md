@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-4lck)
-- [&quot;DevOps Journey: Week 8 - Automating Configuration with Ansible&quot;](https://dev.to/azmatahmed/devops-journey-week-8-automating-configuration-with-ansible-4j73)
-- [Streaming Blazor &lpar;ASP.Net Core&rpar; Logs to the Browser with a custom NLog Target and SignalR](https://dev.to/stewartcelani/streaming-blazor-aspnet-core-logs-to-the-browser-with-a-custom-nlog-target-and-signalr-4e2d)
-- [Stepping into JavaScript](https://dev.to/kavya_s/stepping-into-javascript-3j6p)
+- [Perl 🐪 Weekly #732 - MetaCPAN Success Story](https://dev.to/szabgab/perl-weekly-732-metacpan-success-story-2p1h)
+- [If a Veteran Coder Is Skeptical About AI, We Shouldn&#39;t Worry About Our Coding Jobs](https://dev.to/canro91/if-a-veteran-coder-is-skeptical-about-ai-we-shouldnt-worry-about-our-coding-jobs-2hmg)
+- [lstrip in Python](https://dev.to/hyperkai/lstrip-in-python-49i5)
+- [🚀 Spring Boot Microservice Orchestration with Temporal](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-microservice-orchestration-with-temporal-hnp)
 <!-- BLOG-POST-LIST:END -->
 
