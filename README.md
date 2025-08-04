@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing wizinsight - Lightweight API monitoring with Discord alerts](https://dev.to/parth_tyagi_23a56c937be3c/introducing-wizinsight-lightweight-api-monitoring-with-discord-alerts-5ael)
-- [A Clean &amp; Powerful Calculator with Pure JavaScript 🧮_give it a⭐](https://dev.to/yaldakhoshpey/a-clean-powerful-calculator-with-pure-javascript-3d7p)
-- [Building an AI Health Platform That Could Save the NHS £8.5M+ Annually](https://dev.to/shiva_shanker_k/building-an-ai-health-platform-that-could-save-the-nhs-ps85m-annually-218k)
-- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
+- [🧩 Diseño y Modelado: ¿son lo mismo?](https://dev.to/azunico/diseno-y-modelado-son-lo-mismo-50n5)
+- [¿Por qué debes aprender diseño de software en el frontend?](https://dev.to/azunico/por-que-debes-aprender-diseno-de-software-en-el-frontend-2nod)
+- [Crafting Cross-platform Memory Allocator in C](https://dev.to/unknownrori/crafting-cross-platform-memory-allocator-in-c-4b6c)
+- [Building a Linear-Inspired Issue Tracker with Electron: Local-First, Keyboard-Driven, and Lightweight](https://dev.to/rareniches/building-a-linear-inspired-issue-tracker-with-electron-local-first-keyboard-driven-and-41hh)
 <!-- BLOG-POST-LIST:END -->
 
