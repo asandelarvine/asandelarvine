@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The reality of Open Source](https://dev.to/jacobandrewsky/the-reality-of-open-source-45dg)
-- [Building CoastFireCalc.org: A Simple Tool for Financial Independence Planning](https://dev.to/killer_scofield_d2f41df11/building-coastfirecalcorg-a-simple-tool-for-financial-independence-planning-4e0j)
-- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
-- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
+- [Alec Steele: Turning a Picure into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picure-into-a-damascus-pattern-4922)
+- [Maker&#39;s Muse: 8 Things that RUIN 3D print accuracy &lpar;and how to fix it&rpar;](https://dev.to/maker_youtube/makers-muse-8-things-that-ruin-3d-print-accuracy-and-how-to-fix-it-5546)
+- [Adam Savage&#39;s Tested: How Adam Savage Organizes His Thoughts](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-organizes-his-thoughts-ndi)
+- [Built My First AI Agent Without Code Using SmythOS &lpar;Weaver is wild&rpar;](https://dev.to/moh_bright_e478f690f4a59f/built-my-first-ai-agent-without-code-using-smythos-weaver-is-wild-3kma)
 <!-- BLOG-POST-LIST:END -->
 
