@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://dev.to/gg_news/ign-hit-by-layoffs-as-parent-company-ziff-davis-cuts-costs-2l47)
-- [Xbox Is Still Figuring Out How To Market Its PC Games, And Has Come Up With Another Pointless Name Change](https://dev.to/gg_news/xbox-is-still-figuring-out-how-to-market-its-pc-games-and-has-come-up-with-another-pointless-name-4f5e)
-- [Electronic Arts Sales Boom to $1.3 Billion, Earnings Expectations Smashed as ‘EA Sports,&#39; ‘Apex Legends&#39; Outperform](https://dev.to/gg_news/electronic-arts-sales-boom-to-13-billion-earnings-expectations-smashed-as-ea-sports-apex-4p47)
-- [Microsoft games made up most of PlayStation&#39;s top sellers in the US last quarter](https://dev.to/gg_news/microsoft-games-made-up-most-of-playstations-top-sellers-in-the-us-last-quarter-3c6o)
+- [C# LeetCode 94: Binary Tree Inorder Traversal - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-94-binary-tree-inorder-traversal-easy-23cm)
+- [[AWS] Super easy! How to use the MCP tool with AmazonQDeveloper [AmazonQDeveloper]](https://dev.to/aws-builders/aws-super-easy-how-to-use-the-mcp-tool-with-amazonqdeveloper-amazonqdeveloper-441j)
+- [I&#39;m using Claude Code to manage my Neon projects locally now, and... it&#39;s working?](https://dev.to/composiodev/im-using-claude-code-to-manage-my-neon-projects-locally-now-and-its-working-228h)
+- [Hands-On Transformer Deep Dive: Part 2 — Multi-head Attention Variants with Code](https://dev.to/alabebop/hands-on-transformer-deep-dive-part-2-multi-head-attention-variants-with-code-4405)
 <!-- BLOG-POST-LIST:END -->
 
