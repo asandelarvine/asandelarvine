@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Communication Skills: The Rising Impact of Online Learning Platforms on Student Growth](https://dev.to/ghummantech/boosting-communication-skills-the-rising-impact-of-online-learning-platforms-on-student-growth-548a)
-- [A Developer’s Guide to Azure Data Protection Services](https://dev.to/oodles-platform/a-developers-guide-to-azure-data-protection-services-7of)
-- [7 Must-Have WordPress Plugins to Grow Your Site in 2025](https://dev.to/anonymous_c13b051b4dded8a/7-must-have-wordpress-plugins-to-grow-your-site-in-2025-1ong)
-- [DocumentFragment Upgaded: A Live, Reparentable DOM Primitive 🌱](https://dev.to/framemuse/documentfragment-upgaded-a-live-reparentable-dom-primitive-3bkh)
+- [How I Built a Millisecond-Fast Squaredle Solver with Astro and React Islands](https://dev.to/dearest/how-i-built-a-millisecond-fast-squaredle-solver-with-astro-and-react-islands-26d3)
+- [Introducing qcontroller: Declarative VM Management with QEMU and Go](https://dev.to/krjakbrjak/introducing-qcontroller-declarative-vm-management-with-qemu-and-go-1d8m)
+- [How to retry block in Ansible](https://dev.to/amarao/how-to-retry-block-in-ansible-2end)
+- [The Doubtful Architect](https://dev.to/hatem_zidi/the-doubtful-architect-1b51)
 <!-- BLOG-POST-LIST:END -->
 
