@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
-- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
-- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
-- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
+- [Your Flutter Logging Strategy is Embarrassing &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/marcomit/your-flutter-logging-strategy-is-embarrassing-heres-how-to-fix-it-1f0j)
+- [How to Send Emails in Cursor with Mailtrap MCP Server](https://dev.to/sofiatarhonska/how-to-send-emails-in-cursor-with-mailtrap-mcp-server-2hjj)
+- [Update about my Next.JS Markdown Note Taking Application](https://dev.to/syntaxtiwari11/update-about-my-nextjs-markdown-note-taking-application-g0o)
+- [Top ETL Tools for MongoDB in 2025: Which One Fits Your Use Case?](https://dev.to/mongodb/top-etl-tools-for-mongodb-in-2025-which-one-fits-your-use-case-4bg3)
 <!-- BLOG-POST-LIST:END -->
 
