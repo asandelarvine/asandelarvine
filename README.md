@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Millisecond-Fast Squaredle Solver with Astro and React Islands](https://dev.to/dearest/how-i-built-a-millisecond-fast-squaredle-solver-with-astro-and-react-islands-26d3)
-- [Introducing qcontroller: Declarative VM Management with QEMU and Go](https://dev.to/krjakbrjak/introducing-qcontroller-declarative-vm-management-with-qemu-and-go-1d8m)
-- [How to retry block in Ansible](https://dev.to/amarao/how-to-retry-block-in-ansible-2end)
-- [The Doubtful Architect](https://dev.to/hatem_zidi/the-doubtful-architect-1b51)
+- [Teachers Who Changed the Way I Think](https://dev.to/azhan_j_37b6bb3896622605/teachers-who-changed-the-way-i-think-330i)
+- [5 Excel Hidden Features](https://dev.to/innozant/5-excel-hidden-features-4jc4)
+- [Choosing Between Intel and AMD: A Clear CPU Buying Guide](https://dev.to/alex_10840eaff791b9811000/choosing-between-intel-and-amd-a-clear-cpu-buying-guide-2634)
+- [Crypto-as-a-Service: A Strategic Lever for Enterprise Blockchain Integration](https://dev.to/alexnav/crypto-as-a-service-a-strategic-lever-for-enterprise-blockchain-integration-2bih)
 <!-- BLOG-POST-LIST:END -->
 
