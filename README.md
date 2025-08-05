@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Flutter Logging Strategy is Embarrassing &lpar;Here&#39;s How to Fix It&rpar;](https://dev.to/marcomit/your-flutter-logging-strategy-is-embarrassing-heres-how-to-fix-it-1f0j)
-- [How to Send Emails in Cursor with Mailtrap MCP Server](https://dev.to/sofiatarhonska/how-to-send-emails-in-cursor-with-mailtrap-mcp-server-2hjj)
-- [Update about my Next.JS Markdown Note Taking Application](https://dev.to/syntaxtiwari11/update-about-my-nextjs-markdown-note-taking-application-g0o)
-- [Top ETL Tools for MongoDB in 2025: Which One Fits Your Use Case?](https://dev.to/mongodb/top-etl-tools-for-mongodb-in-2025-which-one-fits-your-use-case-4bg3)
+- [One-Second Deploys? We Didn’t Believe It Either](https://dev.to/sarah-railway/one-second-deploys-we-didnt-believe-it-either-4h57)
+- [Intencionalidade e Objetivos na Era da IA Agentiva: da Filosofia Clássica ao Desenvolvimento de Software](https://dev.to/targanski/intencionalidade-e-objetivos-na-era-da-ia-agentiva-da-filosofia-classica-ao-desenvolvimento-de-4h57)
+- [Turbocharge Your Web App UI with Tailwind CSS: A Beginner&#39;s Guide](https://dev.to/ekwoster/turbocharge-your-web-app-ui-with-tailwind-css-a-beginners-guide-2f49)
+- [Crafting a High-Performance Dashboard with PostgreSQL Caching and Golang Scheduled Routines](https://dev.to/shrsv/crafting-a-high-performance-dashboard-with-postgresql-caching-and-golang-scheduled-routines-1bh6)
 <!-- BLOG-POST-LIST:END -->
 
