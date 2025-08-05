@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teachers Who Changed the Way I Think](https://dev.to/azhan_j_37b6bb3896622605/teachers-who-changed-the-way-i-think-330i)
-- [5 Excel Hidden Features](https://dev.to/innozant/5-excel-hidden-features-4jc4)
-- [Choosing Between Intel and AMD: A Clear CPU Buying Guide](https://dev.to/alex_10840eaff791b9811000/choosing-between-intel-and-amd-a-clear-cpu-buying-guide-2634)
-- [Crypto-as-a-Service: A Strategic Lever for Enterprise Blockchain Integration](https://dev.to/alexnav/crypto-as-a-service-a-strategic-lever-for-enterprise-blockchain-integration-2bih)
+- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
+- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
+- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
+- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
 <!-- BLOG-POST-LIST:END -->
 
