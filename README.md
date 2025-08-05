@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4-3-2 Sprint Planning Method: How Top IT Managers Cut Meeting Time by 60%](https://dev.to/teamcamp/the-4-3-2-sprint-planning-method-how-top-it-managers-cut-meeting-time-by-60-nl5)
-- [Types of Operators in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/types-of-operators-in-javascript-19bp)
-- [Getting Started with Quarkus and GraalVM Native Image](https://dev.to/jungledev/getting-started-with-quarkus-and-graalvm-native-image-575i)
-- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
+- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
+- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
+- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
+- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
 <!-- BLOG-POST-LIST:END -->
 
