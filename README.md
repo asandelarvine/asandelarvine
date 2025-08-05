@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
-- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
-- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
-- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
+- [Kubernetes in Depth - Storage, Security, and Advanced Features](https://dev.to/andrey_s/kubernetes-in-depth-storage-security-and-advanced-features-241i)
+- [Build C Projects Like a Pro: A Guide to Idiomatic Makefiles](https://dev.to/medunes/build-c-projects-like-a-pro-a-guide-to-idiomatic-makefiles-53b6)
+- [BitCoin Chain Integration](https://dev.to/swatantra_goswami_8d33bee/bitcoin-chain-integration-lk9)
+- [How to search the internet from Linux terminal?](https://dev.to/pikotutorial/how-to-search-the-internet-from-linux-terminal-15lm)
 <!-- BLOG-POST-LIST:END -->
 
