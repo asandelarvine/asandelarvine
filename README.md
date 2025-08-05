@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: The 40-Year-Old Virgin - Official 20th Anniversary Trailer](https://dev.to/gg_news/ign-the-40-year-old-virgin-official-20th-anniversary-trailer-5h6k)
-- [IGN: Call of Duty: Black Ops 6 - Official Season 5 Story Cinematic Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-official-season-5-story-cinematic-trailer-3l9m)
-- [IGN: BioShock 4 Undergoes &#39;Narrative Overhaul&#39; After Failing Internal Review - IGN Daily Fix](https://dev.to/gg_news/ign-bioshock-4-undergoes-narrative-overhaul-after-failing-internal-review-ign-daily-fix-j51)
-- [IGN: DAN DA DAN Season 2 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dan-da-dan-season-2-official-trailer-english-subtitles-522j)
+- [Building a Production-Grade Cloud Resume: From Manual Deployment to Full CI/CD with Azure and DevOps](https://dev.to/tracywhodoesnot/building-a-production-grade-cloud-resume-from-manual-deployment-to-full-cicd-with-azure-and-devops-321e)
+- [George Pólya’s - How to Solve It.](https://dev.to/shlokaguptaa/george-polyas-how-to-solve-it-hh7)
+- [Speed up your local dev workflow with IP-Kit &lpar;macOS&rpar;](https://dev.to/rigter/speed-up-your-local-dev-workflow-with-ip-kit-macos-hoi)
+- [My Java Full Stack learning journey : JavaScript](https://dev.to/dharshinieswaran/my-java-full-stack-learning-journey-javascript-4jfl)
 <!-- BLOG-POST-LIST:END -->
 
