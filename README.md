@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# LeetCode 94: Binary Tree Inorder Traversal - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-94-binary-tree-inorder-traversal-easy-23cm)
-- [[AWS] Super easy! How to use the MCP tool with AmazonQDeveloper [AmazonQDeveloper]](https://dev.to/aws-builders/aws-super-easy-how-to-use-the-mcp-tool-with-amazonqdeveloper-amazonqdeveloper-441j)
-- [I&#39;m using Claude Code to manage my Neon projects locally now, and... it&#39;s working?](https://dev.to/composiodev/im-using-claude-code-to-manage-my-neon-projects-locally-now-and-its-working-228h)
-- [Hands-On Transformer Deep Dive: Part 2 — Multi-head Attention Variants with Code](https://dev.to/alabebop/hands-on-transformer-deep-dive-part-2-multi-head-attention-variants-with-code-4405)
+- [🤯 WTFJS — JavaScript&#39;s Quirks, Features, and Headaches](https://dev.to/ml318097/wtfjs-javascripts-quirks-features-and-headaches-5965)
+- [Writing Reactive and Declarative Code in Angular Using Signals](https://dev.to/andersseen/writing-reactive-and-declarative-code-in-angular-using-signals-1gpn)
+- [7 Essential Machine Learning Algorithms for Data Science, Data Analysis, and Predictive Modeling [2025 Guide]](https://dev.to/zerozulu/7-essential-machine-learning-algorithms-for-data-science-data-analysis-and-predictive-modeling-2j5m)
+- [new queries](https://dev.to/armaankhan8270/new-queries-24bc)
 <!-- BLOG-POST-LIST:END -->
 
