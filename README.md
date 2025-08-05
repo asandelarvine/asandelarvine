@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Star Wars: A New Hope&#39; Will Get 50th Anniversary Theatrical Re-Release on April 30, 2027](https://dev.to/popcorn_movies/star-wars-a-new-hope-will-get-50th-anniversary-theatrical-re-release-on-april-30-2027-1k0)
-- [Ari Aster&#39;s Dad Told Him Not to Write His Own Movies Again After ‘Beau Is Afraid&#39;](https://dev.to/popcorn_movies/ari-asters-dad-told-him-not-to-write-his-own-movies-again-after-beau-is-afraid-3g5e)
-- [The Disney+ Curse: How the Streaming Service Hurt Marvel, Star Wars and Pixar Brands](https://dev.to/popcorn_movies/the-disney-curse-how-the-streaming-service-hurt-marvel-star-wars-and-pixar-brands-4n3b)
-- [Mark Ruffalo Returning as the Hulk for ‘Spider-Man: Brand New Day&#39;](https://dev.to/popcorn_movies/mark-ruffalo-returning-as-the-hulk-for-spider-man-brand-new-day-144i)
+- [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://dev.to/gg_news/ign-hit-by-layoffs-as-parent-company-ziff-davis-cuts-costs-2l47)
+- [Xbox Is Still Figuring Out How To Market Its PC Games, And Has Come Up With Another Pointless Name Change](https://dev.to/gg_news/xbox-is-still-figuring-out-how-to-market-its-pc-games-and-has-come-up-with-another-pointless-name-4f5e)
+- [Electronic Arts Sales Boom to $1.3 Billion, Earnings Expectations Smashed as ‘EA Sports,&#39; ‘Apex Legends&#39; Outperform](https://dev.to/gg_news/electronic-arts-sales-boom-to-13-billion-earnings-expectations-smashed-as-ea-sports-apex-4p47)
+- [Microsoft games made up most of PlayStation&#39;s top sellers in the US last quarter](https://dev.to/gg_news/microsoft-games-made-up-most-of-playstations-top-sellers-in-the-us-last-quarter-3c6o)
 <!-- BLOG-POST-LIST:END -->
 
