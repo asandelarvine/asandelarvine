@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
-- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
-- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
-- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
+- [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
+- [OpenAI Releases GPT-OSS: What It Means for AI Developers and Agent Builders](https://dev.to/ialijr/openai-releases-gpt-oss-what-it-means-for-ai-developers-and-agent-builders-pgm)
+- [Building a Browser-Based Legal Case Management Platform for Small Law Firms &lpar;Asia ↔ US&rpar;](https://dev.to/rimuru__/building-a-browser-based-legal-case-management-platform-for-small-law-firms-asia-us-3h25)
+- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
 <!-- BLOG-POST-LIST:END -->
 
