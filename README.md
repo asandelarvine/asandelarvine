@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
-- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
-- [Tutorial: Alpine Linux en Raspberry Pi 3 con Syncthing, OpenVPN y Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-en-raspberry-pi-3-con-syncthing-openvpn-y-docker-3h61)
-- [Website Done. Time to Move Forward #30](https://dev.to/0xj0n1/website-done-time-to-move-forward-30-4en8)
+- [No Fancy Setup, No Bootcamp – Just Grit, Code &amp; Faith](https://dev.to/saifiimuhammad/no-fancy-setup-no-bootcamp-just-grit-code-faith-5663)
+- [10 problemas Linux comunes para un DevOps](https://dev.to/haroldo89/10-problemas-linux-comunes-para-un-devops-1a0)
+- [Bio-Integrated Oscillatory Neural Networks for Associative Memory in Brain Organoids](https://dev.to/freederia-research/bio-integrated-oscillatory-neural-networks-for-associative-memory-in-brain-organoids-2lgb)
+- [IGN: World of Warcraft: The War Within - Official Ghosts of K’aresh Launch Trailer](https://dev.to/gg_news/ign-world-of-warcraft-the-war-within-official-ghosts-of-karesh-launch-trailer-2dia)
 <!-- BLOG-POST-LIST:END -->
 
