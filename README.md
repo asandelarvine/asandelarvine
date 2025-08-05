@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Phase 2] Personal Portfolio - Analysis](https://dev.to/harushochiho/phase-2-personal-portfolio-analysis-1b91)
-- [Flutter vs React Native vs Kivy: Best Framework for Lightweight App Development](https://dev.to/mr_nova/flutter-vs-react-native-vs-kivy-best-framework-for-lightweight-app-development-5dbc)
-- [C# LeetCode 100: Same Tree - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-100-same-tree-easy-3j18)
-- [Basic Server Hardening for Ubuntu/Debian: SSH Access and Firewall](https://dev.to/joaoprd/basic-server-hardening-for-ubuntudebian-ssh-access-and-firewall-g2e)
+- [IGN: The 40-Year-Old Virgin - Official 20th Anniversary Trailer](https://dev.to/gg_news/ign-the-40-year-old-virgin-official-20th-anniversary-trailer-5h6k)
+- [IGN: Call of Duty: Black Ops 6 - Official Season 5 Story Cinematic Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-official-season-5-story-cinematic-trailer-3l9m)
+- [IGN: BioShock 4 Undergoes &#39;Narrative Overhaul&#39; After Failing Internal Review - IGN Daily Fix](https://dev.to/gg_news/ign-bioshock-4-undergoes-narrative-overhaul-after-failing-internal-review-ign-daily-fix-j51)
+- [IGN: DAN DA DAN Season 2 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dan-da-dan-season-2-official-trailer-english-subtitles-522j)
 <!-- BLOG-POST-LIST:END -->
 
