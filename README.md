@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework novo todo mês: evolução ou roda com adesivo novo?](https://dev.to/filipi_firmino_dev/framework-novo-todo-mes-evolucao-ou-roda-com-adesivo-novo-1k6l)
-- [OpenAI Releases GPT-OSS: What It Means for AI Developers and Agent Builders](https://dev.to/ialijr/openai-releases-gpt-oss-what-it-means-for-ai-developers-and-agent-builders-pgm)
-- [Building a Browser-Based Legal Case Management Platform for Small Law Firms &lpar;Asia ↔ US&rpar;](https://dev.to/rimuru__/building-a-browser-based-legal-case-management-platform-for-small-law-firms-asia-us-3h25)
-- [Comparing BFS, DFS, Dijkstra, and A* algorithms on a practical maze solver example](https://dev.to/nemanjam/comparing-bfs-dfs-dijkstra-and-a-algorithms-on-a-practical-maze-solver-example-5ekl)
+- [Tutorial: Alpine Linux on Raspberry Pi 3 with Syncthing, OpenVPN and Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-on-raspberry-pi-3-with-syncthing-openvpn-and-docker-2932)
+- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
+- [Tutorial: Alpine Linux en Raspberry Pi 3 con Syncthing, OpenVPN y Docker](https://dev.to/ivajofranc/tutorial-alpine-linux-en-raspberry-pi-3-con-syncthing-openvpn-y-docker-3h61)
+- [Website Done. Time to Move Forward #30](https://dev.to/0xj0n1/website-done-time-to-move-forward-30-4en8)
 <!-- BLOG-POST-LIST:END -->
 
