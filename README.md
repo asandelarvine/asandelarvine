@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One-Second Deploys? We Didn’t Believe It Either](https://dev.to/sarah-railway/one-second-deploys-we-didnt-believe-it-either-4h57)
-- [Intencionalidade e Objetivos na Era da IA Agentiva: da Filosofia Clássica ao Desenvolvimento de Software](https://dev.to/targanski/intencionalidade-e-objetivos-na-era-da-ia-agentiva-da-filosofia-classica-ao-desenvolvimento-de-4h57)
-- [Turbocharge Your Web App UI with Tailwind CSS: A Beginner&#39;s Guide](https://dev.to/ekwoster/turbocharge-your-web-app-ui-with-tailwind-css-a-beginners-guide-2f49)
-- [Crafting a High-Performance Dashboard with PostgreSQL Caching and Golang Scheduled Routines](https://dev.to/shrsv/crafting-a-high-performance-dashboard-with-postgresql-caching-and-golang-scheduled-routines-1bh6)
+- [CVE-2022-40799: D-Link DNR-322L Download of Code Without Integrity Check Vulnerability](https://dev.to/freedom_coder/cve-2022-40799-d-link-dnr-322l-download-of-code-without-integrity-check-vulnerability-5bkf)
+- [How AI Models Like Claude Are Changing the Way We Code](https://dev.to/deepakgupta/how-ai-models-like-claude-are-changing-the-way-we-code-3189)
+- [CVE-2020-25079: D-Link DCS-2530L and DCS-2670L Command Injection Vulnerability](https://dev.to/freedom_coder/cve-2020-25079-d-link-dcs-2530l-and-dcs-2670l-command-injection-vulnerability-19pc)
+- [CVE-2020-25078: D-Link DCS-2530L and DCS-2670L Devices Unspecified Vulnerability](https://dev.to/freedom_coder/cve-2020-25078-d-link-dcs-2530l-and-dcs-2670l-devices-unspecified-vulnerability-563g)
 <!-- BLOG-POST-LIST:END -->
 
