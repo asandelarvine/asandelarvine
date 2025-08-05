@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤯 WTFJS — JavaScript&#39;s Quirks, Features, and Headaches](https://dev.to/ml318097/wtfjs-javascripts-quirks-features-and-headaches-5965)
-- [Writing Reactive and Declarative Code in Angular Using Signals](https://dev.to/andersseen/writing-reactive-and-declarative-code-in-angular-using-signals-1gpn)
-- [7 Essential Machine Learning Algorithms for Data Science, Data Analysis, and Predictive Modeling [2025 Guide]](https://dev.to/zerozulu/7-essential-machine-learning-algorithms-for-data-science-data-analysis-and-predictive-modeling-2j5m)
-- [new queries](https://dev.to/armaankhan8270/new-queries-24bc)
+- [How to program an IoT system to monitor the lifespan of fences](https://dev.to/eliana_coleman_332/how-to-program-an-iot-system-to-monitor-the-lifespan-of-fences-h7b)
+- [Fun C++ project using linked list – Music Player](https://dev.to/wafaakhprog/fun-c-project-using-linked-list-music-player-219h)
+- [Adam Savage&#39;s Tested: Adam Savage Inspects a Mini Fractal Vise!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inspects-a-mini-fractal-vise-4do5)
+- [How Does Conversational AI Work?](https://dev.to/elinaozo/how-does-conversational-ai-work-3mg3)
 <!-- BLOG-POST-LIST:END -->
 
