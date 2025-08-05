@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
-- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
-- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
-- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
+- [‘Star Wars: A New Hope&#39; Will Get 50th Anniversary Theatrical Re-Release on April 30, 2027](https://dev.to/popcorn_movies/star-wars-a-new-hope-will-get-50th-anniversary-theatrical-re-release-on-april-30-2027-1k0)
+- [Ari Aster&#39;s Dad Told Him Not to Write His Own Movies Again After ‘Beau Is Afraid&#39;](https://dev.to/popcorn_movies/ari-asters-dad-told-him-not-to-write-his-own-movies-again-after-beau-is-afraid-3g5e)
+- [The Disney+ Curse: How the Streaming Service Hurt Marvel, Star Wars and Pixar Brands](https://dev.to/popcorn_movies/the-disney-curse-how-the-streaming-service-hurt-marvel-star-wars-and-pixar-brands-4n3b)
+- [Mark Ruffalo Returning as the Hulk for ‘Spider-Man: Brand New Day&#39;](https://dev.to/popcorn_movies/mark-ruffalo-returning-as-the-hulk-for-spider-man-brand-new-day-144i)
 <!-- BLOG-POST-LIST:END -->
 
