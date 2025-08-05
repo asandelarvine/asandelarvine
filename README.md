@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade Cloud Resume: From Manual Deployment to Full CI/CD with Azure and DevOps](https://dev.to/tracywhodoesnot/building-a-production-grade-cloud-resume-from-manual-deployment-to-full-cicd-with-azure-and-devops-321e)
-- [George Pólya’s - How to Solve It.](https://dev.to/shlokaguptaa/george-polyas-how-to-solve-it-hh7)
-- [Speed up your local dev workflow with IP-Kit &lpar;macOS&rpar;](https://dev.to/rigter/speed-up-your-local-dev-workflow-with-ip-kit-macos-hoi)
-- [My Java Full Stack learning journey : JavaScript](https://dev.to/dharshinieswaran/my-java-full-stack-learning-journey-javascript-4jfl)
+- [The 4-3-2 Sprint Planning Method: How Top IT Managers Cut Meeting Time by 60%](https://dev.to/teamcamp/the-4-3-2-sprint-planning-method-how-top-it-managers-cut-meeting-time-by-60-nl5)
+- [Types of Operators in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/types-of-operators-in-javascript-19bp)
+- [Getting Started with Quarkus and GraalVM Native Image](https://dev.to/jungledev/getting-started-with-quarkus-and-graalvm-native-image-575i)
+- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
 <!-- BLOG-POST-LIST:END -->
 
