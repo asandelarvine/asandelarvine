@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
-- [Amazon Bedrock with JavaScript: Text, Chat, Streaming &amp; Structured Output via SDK and REST](https://dev.to/dushmanta/amazon-bedrock-with-javascript-text-chat-streaming-structured-output-via-sdk-and-rest-38cm)
-- [AI-Generated Code in 2025: The Silent Security Crisis Developers Can’t Ignore](https://dev.to/arkhan/ai-generated-code-in-2025-the-silent-security-crisis-developers-cant-ignore-4de0)
-- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
+- [Networking Crash Course: My Learning Journey](https://dev.to/faithgoodness51/networking-crash-course-my-learning-journey-24pe)
+- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
+- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
+- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
 <!-- BLOG-POST-LIST:END -->
 
