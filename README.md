@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FROM MILITARY TYPIST TO FULL-TIME SOFTWARE ENGINEER: HOW I BECAME A DEVELOPER](https://dev.to/xenxei46/from-military-typist-to-full-time-software-engineer-how-i-became-a-developer-3o12)
-- [A Deep Dive into the John Carmack&#39;s Interview w/ Lex Fridman](https://dev.to/yigit-konur/a-deep-dive-into-the-john-carmacks-interview-w-lex-fridman-4mkn)
-- [Mastering LLM Temperature: A Step-by-Step Guide](https://dev.to/uhasker/mastering-llm-temperature-a-step-by-step-guide-5166)
-- [🧠 React.memo — Boost Performance by Preventing Unnecessary Renders](https://dev.to/aman_kureshi_/reactmemo-boost-performance-by-preventing-unnecessary-renders-2po4)
+- [How I Almost Went Bananas with Recursion—And Finally Got It](https://dev.to/pranta/how-i-almost-went-bananas-with-recursion-and-finally-got-it-4aa9)
+- [Creating a REST API in Go with Gin: A Pragmatic, Spec-First Guide](https://dev.to/medunes/creating-a-rest-api-in-go-with-gin-a-pragmatic-spec-first-guide-13de)
+- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
+- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
 <!-- BLOG-POST-LIST:END -->
 
