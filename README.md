@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking Crash Course: My Learning Journey](https://dev.to/faithgoodness51/networking-crash-course-my-learning-journey-24pe)
-- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
-- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
-- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
+- [Adam Neely: The Ludacris song that BROKE my brain](https://dev.to/music_youtube/adam-neely-the-ludacris-song-that-broke-my-brain-ogm)
+- [IGN: Wicked: For Good - Official Behind The Scenes Clip &lpar;2025&rpar; Cynthia Erivo, Ariana Grande](https://dev.to/gg_news/ign-wicked-for-good-official-behind-the-scenes-clip-2025-cynthia-erivo-ariana-grande-2ane)
+- [IGN: Hamilton - Official Theatrical Release Trailer &lpar;2025&rpar; Lin-Manuel Miranda](https://dev.to/gg_news/ign-hamilton-official-theatrical-release-trailer-2025-lin-manuel-miranda-5foo)
+- [IGN: Battlefield 6 Open Beta Queue is Tens of Thousands of Players Deep - IGN Daily Fix](https://dev.to/gg_news/ign-battlefield-6-open-beta-queue-is-tens-of-thousands-of-players-deep-ign-daily-fix-5196)
 <!-- BLOG-POST-LIST:END -->
 
