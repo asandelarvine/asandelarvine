@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Remote Development Team Playbook: How Top Startups Maintain 90%+ Productivity](https://dev.to/teamcamp/the-remote-development-team-playbook-how-top-startups-maintain-90-productivity-2bij)
-- [&quot;SOAP 1.1 endpoint already registered&quot; - Spring 6 and CXF 4 Integration Issue](https://dev.to/binbingoloo/soap-11-endpoint-already-registered-spring-6-and-cxf-4-integration-issue-bci)
-- [Zephyr RTOS: The Modern Embedded Engineer’s Guide](https://dev.to/darshan_rathod_dev/zephyr-rtos-the-modern-embedded-engineers-guide-2ih6)
-- [Building AI-Powered Data Pipelines: Where Data Engineering Meets Machine Learning](https://dev.to/santosh_ronanki_9438d5944/building-ai-powered-data-pipelines-where-data-engineering-meets-machine-learning-30mc)
+- [5 Ways Your Translation Processes Pose a Security Risk](https://dev.to/colinreed/5-ways-your-translation-processes-pose-a-security-risk-3ej2)
+- [Nexus Framework: Coordinating Multiple Scrum Teams](https://dev.to/dct_technology/nexus-framework-coordinating-multiple-scrum-teams-1m0a)
+- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
+- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
 <!-- BLOG-POST-LIST:END -->
 
