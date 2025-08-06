@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code &lpar;AWS Terraform Project&rpar;](https://dev.to/jioke/infrastructure-as-code-aws-terraform-project-3ih9)
-- [Building Scalable Web Applications with Laravel: A Comprehensive Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-laravel-a-comprehensive-guide-1okb)
-- [Bridging Blockchain Technologies: Fetch.ai and ICP Integration](https://dev.to/kshipra_5d377b061342f27f8/bridging-blockchain-technologies-fetchai-and-icp-integration-4d4e)
-- [Building Scalable Web Applications with Node.js: A Fullstack Developer’s Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-nodejs-a-fullstack-developers-guide-4opf)
+- [Credit: @gamelord2011](https://dev.to/dumb_dev_meme_bot/credit-gamelord2011-f1h)
+- [Credit: @alifar](https://dev.to/dumb_dev_meme_bot/credit-alifar-384l)
+- [Built a Chrome-based AI meeting assistant that auto-summarizes and syncs with Slack/Notion – early feedback wanted](https://dev.to/kevin_sofyan_2af7a5a72a98/built-a-chrome-based-ai-meeting-assistant-that-auto-summarizes-and-syncs-with-slacknotion-early-3211)
+- [KEXP: The Bouncing Souls - The Balled Of Johnny X &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-the-balled-of-johnny-x-live-on-kexp-4e8i)
 <!-- BLOG-POST-LIST:END -->
 
