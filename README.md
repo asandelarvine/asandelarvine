@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 AI Debugging: Fix Bugs Faster with GPT &amp; Friends](https://dev.to/manukumar07/ai-debugging-fix-bugs-faster-with-gpt-friends-13ik)
-- [HTML Traits](https://dev.to/jon49/html-traits-ea2)
-- [Unpacking Containers: CloudWatch’s Role in Docker Monitoring](https://dev.to/aarush07/unpacking-containers-cloudwatchs-role-in-docker-monitoring-12mi)
-- [Concrete Cracks: What Causes Them and How to Fix Them](https://dev.to/concretecontractors/concrete-cracks-what-causes-them-and-how-to-fix-them-140l)
+- [The Remote Development Team Playbook: How Top Startups Maintain 90%+ Productivity](https://dev.to/teamcamp/the-remote-development-team-playbook-how-top-startups-maintain-90-productivity-2bij)
+- [&quot;SOAP 1.1 endpoint already registered&quot; - Spring 6 and CXF 4 Integration Issue](https://dev.to/binbingoloo/soap-11-endpoint-already-registered-spring-6-and-cxf-4-integration-issue-bci)
+- [Zephyr RTOS: The Modern Embedded Engineer’s Guide](https://dev.to/darshan_rathod_dev/zephyr-rtos-the-modern-embedded-engineers-guide-2ih6)
+- [Building AI-Powered Data Pipelines: Where Data Engineering Meets Machine Learning](https://dev.to/santosh_ronanki_9438d5944/building-ai-powered-data-pipelines-where-data-engineering-meets-machine-learning-30mc)
 <!-- BLOG-POST-LIST:END -->
 
