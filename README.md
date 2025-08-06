@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New in Vue - August 2025](https://dev.to/aloisseckar/new-in-vue-august-2025-lip)
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/devmakasana/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-5c75)
-- [Best GCP Cloud Architecture Visualization Tools](https://dev.to/mirkovirtanen/best-gcp-cloud-architecture-visualization-tools-3hhh)
-- [When Audit Knowledge Meets AI Large Models: Forging an &quot;Audit Brain&quot; with 200,000 Professional Training Sessions](https://dev.to/zhangzib123/when-audit-knowledge-meets-ai-large-models-forging-an-audit-brain-with-200000-professional-423p)
+- [Complete Guide to Use Midjourney API for Text-to-Image Generation](https://dev.to/imaginepro/complete-guide-to-use-midjourney-api-for-text-to-image-generation-3hmc)
+- [Supporting SQL ops - Please Don&#39;t Be a Bottleneck](https://dev.to/alexantartico/supporting-sql-ops-please-dont-be-a-bottleneck-akb)
+- [10 Best WordPress Ecommerce Themes for 2025 &lpar;Free and Paid&rpar;](https://dev.to/serveravatar/10-best-wordpress-ecommerce-themes-for-2025-free-and-paid-4a9o)
+- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
 <!-- BLOG-POST-LIST:END -->
 
