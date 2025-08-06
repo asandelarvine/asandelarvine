@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Almost Went Bananas with Recursion—And Finally Got It](https://dev.to/pranta/how-i-almost-went-bananas-with-recursion-and-finally-got-it-4aa9)
-- [Creating a REST API in Go with Gin: A Pragmatic, Spec-First Guide](https://dev.to/medunes/creating-a-rest-api-in-go-with-gin-a-pragmatic-spec-first-guide-13de)
-- [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
-- [Need Help Integrating Bootstrap Frontend with CodeIgniter Backend](https://dev.to/najma_malik_edab94ba7b4a8/need-help-integrating-bootstrap-frontend-with-codeigniter-backend-1na7)
+- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
+- [SuperOptiX Now Supports OpenAI&#39;s GPT-OSS Models!](https://dev.to/shashikant86/superoptix-now-supports-openais-gpt-oss-models-55i0)
+- [Introducing Fotoria.com – Professional Headshots Without the Studio](https://dev.to/mihai_be8b9db037a344368f6/introducing-fotoriacom-professional-headshots-without-the-studio-52g)
+- [Flask Web + DB on Kubernetes](https://dev.to/jioke/flask-web-db-on-kubernetes-23k2)
 <!-- BLOG-POST-LIST:END -->
 
