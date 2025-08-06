@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v338](https://dev.to/devteam/welcome-thread-v338-3d69)
-- [Understanding Read Phenomena in Databases](https://dev.to/abhivyaktii/understanding-read-phenomena-in-databases-50mk)
-- [3 AI Tools I’m Loving Right Now &lpar;August Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-im-loving-right-now-august-edition-4ee5)
-- [From Zero to Web Page: A Deep Dive into HTML for Our New Interns](https://dev.to/abdul_fadiga_1f402d165920/from-zero-to-web-page-a-deep-dive-into-html-for-our-new-interns-1nf0)
+- [🔍 AI Debugging: Fix Bugs Faster with GPT &amp; Friends](https://dev.to/manukumar07/ai-debugging-fix-bugs-faster-with-gpt-friends-13ik)
+- [HTML Traits](https://dev.to/jon49/html-traits-ea2)
+- [Unpacking Containers: CloudWatch’s Role in Docker Monitoring](https://dev.to/aarush07/unpacking-containers-cloudwatchs-role-in-docker-monitoring-12mi)
+- [Concrete Cracks: What Causes Them and How to Fix Them](https://dev.to/concretecontractors/concrete-cracks-what-causes-them-and-how-to-fix-them-140l)
 <!-- BLOG-POST-LIST:END -->
 
