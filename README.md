@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
-- [SuperOptiX Now Supports OpenAI&#39;s GPT-OSS Models!](https://dev.to/shashikant86/superoptix-now-supports-openais-gpt-oss-models-55i0)
-- [Introducing Fotoria.com – Professional Headshots Without the Studio](https://dev.to/mihai_be8b9db037a344368f6/introducing-fotoriacom-professional-headshots-without-the-studio-52g)
-- [Flask Web + DB on Kubernetes](https://dev.to/jioke/flask-web-db-on-kubernetes-23k2)
+- [Understanding Goroutines, Concurrency, and Scheduling in Go](https://dev.to/ibtekar/understanding-goroutines-concurrency-and-scheduling-in-go-2ooe)
+- [How to Escape from a Container](https://dev.to/gustavosbarreto/how-to-escape-from-a-container-4p3i)
+- [OpenAI&#39;s GPT-OSS 120B &amp; 20B: A Dev &amp; Founder’s Guide to the Open-Weight Revolution](https://dev.to/kar_s/openais-gpt-oss-120b-20b-a-dev-founders-guide-to-the-open-weight-revolution-2h3b)
+- [100 Days of DevOps: Day 3](https://dev.to/wycliffealphus/100-days-of-devops-day-3-1j81)
 <!-- BLOG-POST-LIST:END -->
 
