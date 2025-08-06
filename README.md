@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Collaboration need](https://dev.to/vidakhoshpey22/collaboration-need-3b1n)
-- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
-- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
-- [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
+- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
+- [IGN: Marvel Rivals: Blade Gameplay - Full Move Set Breakdown](https://dev.to/gg_news/ign-marvel-rivals-blade-gameplay-full-move-set-breakdown-2bp8)
+- [IGN: Virtua Fighter Interview - Pushing Reality and Innovation | EVO 2025](https://dev.to/gg_news/ign-virtua-fighter-interview-pushing-reality-and-innovation-evo-2025-3858)
+- [Step-by-Step: Set Up Your First RDS MySQL/PostgreSQL Database 🛠️📦](https://dev.to/yash_sonawane25/step-by-step-set-up-your-first-rds-mysqlpostgresql-database-41pb)
 <!-- BLOG-POST-LIST:END -->
 
