@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
-- [IGN: Marvel Rivals: Blade Gameplay - Full Move Set Breakdown](https://dev.to/gg_news/ign-marvel-rivals-blade-gameplay-full-move-set-breakdown-2bp8)
-- [IGN: Virtua Fighter Interview - Pushing Reality and Innovation | EVO 2025](https://dev.to/gg_news/ign-virtua-fighter-interview-pushing-reality-and-innovation-evo-2025-3858)
-- [Step-by-Step: Set Up Your First RDS MySQL/PostgreSQL Database 🛠️📦](https://dev.to/yash_sonawane25/step-by-step-set-up-your-first-rds-mysqlpostgresql-database-41pb)
+- [Welcome Thread - v338](https://dev.to/devteam/welcome-thread-v338-3d69)
+- [Understanding Read Phenomena in Databases](https://dev.to/abhivyaktii/understanding-read-phenomena-in-databases-50mk)
+- [3 AI Tools I’m Loving Right Now &lpar;August Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-im-loving-right-now-august-edition-4ee5)
+- [From Zero to Web Page: A Deep Dive into HTML for Our New Interns](https://dev.to/abdul_fadiga_1f402d165920/from-zero-to-web-page-a-deep-dive-into-html-for-our-new-interns-1nf0)
 <!-- BLOG-POST-LIST:END -->
 
