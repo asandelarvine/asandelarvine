@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a To-Do App with Vanilla JavaScript](https://dev.to/tpointtech/build-a-to-do-app-with-vanilla-javascript-3b4i)
-- [Why Digital Twin Technology Is the Cornerstone of New Innovation](https://dev.to/anonymous_c13b051b4dded8a/why-digital-twin-technology-is-the-cornerstone-of-new-innovation-1p6j)
-- [How to build ai agents](https://dev.to/yash_raj_3dced39a239ca4c0/how-to-build-ai-agents-5e84)
-- [Cybersecurity Trends 2025–2026: Navigating the Next Wave of Digital Resilience](https://dev.to/sm0k3/cybersecurity-trends-2025-2026-navigating-the-next-wave-of-digital-resilience-lmm)
+- [UK NutriHealth AI: NHS-Style Health Assessment Platform Built with Google AI Studio](https://dev.to/shiva_shanker_k/uk-nutrihealth-ai-nhs-style-health-assessment-platform-built-with-google-ai-studio-410k)
+- [Fixing Docker &quot;Permission Denied&quot; Error After Adding User to Docker Group](https://dev.to/vincenttommi/fixing-docker-permission-denied-error-after-adding-user-to-docker-group-4g82)
+- [Building SignSpeak: Real-time ASL Recognition with React and AI 🤟](https://dev.to/shiva_shanker_k/building-signspeak-real-time-asl-recognition-with-react-and-ai-4a4d)
+- [Automated CE&lpar;Customer Edge&rpar; Router and Switch Provisioning Using Ansible](https://dev.to/blackmanta/automated-cecustomer-edge-router-and-switch-provisioning-using-ansible-2aia)
 <!-- BLOG-POST-LIST:END -->
 
