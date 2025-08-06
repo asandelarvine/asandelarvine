@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UK NutriHealth AI: NHS-Style Health Assessment Platform Built with Google AI Studio](https://dev.to/shiva_shanker_k/uk-nutrihealth-ai-nhs-style-health-assessment-platform-built-with-google-ai-studio-410k)
-- [Fixing Docker &quot;Permission Denied&quot; Error After Adding User to Docker Group](https://dev.to/vincenttommi/fixing-docker-permission-denied-error-after-adding-user-to-docker-group-4g82)
-- [Building SignSpeak: Real-time ASL Recognition with React and AI 🤟](https://dev.to/shiva_shanker_k/building-signspeak-real-time-asl-recognition-with-react-and-ai-4a4d)
-- [Automated CE&lpar;Customer Edge&rpar; Router and Switch Provisioning Using Ansible](https://dev.to/blackmanta/automated-cecustomer-edge-router-and-switch-provisioning-using-ansible-2aia)
+- [New in Vue - August 2025](https://dev.to/aloisseckar/new-in-vue-august-2025-lip)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/devmakasana/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-5c75)
+- [Best GCP Cloud Architecture Visualization Tools](https://dev.to/mirkovirtanen/best-gcp-cloud-architecture-visualization-tools-3hhh)
+- [When Audit Knowledge Meets AI Large Models: Forging an &quot;Audit Brain&quot; with 200,000 Professional Training Sessions](https://dev.to/zhangzib123/when-audit-knowledge-meets-ai-large-models-forging-an-audit-brain-with-200000-professional-423p)
 <!-- BLOG-POST-LIST:END -->
 
