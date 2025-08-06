@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing](https://dev.to/soubmukh/software-testing-15e6)
-- [Simple Google Maps Scraper Using Playwright](https://dev.to/hasdata_com/simple-google-maps-scraper-using-playwright-e72)
-- [Why Web3 product analytics is better than therapy](https://dev.to/martin_call/why-web3-product-analytics-is-better-than-therapy-15c5)
-- [anipulating the UI Like a Living Structure - No Hooks, No Diffing, Just the DOM](https://dev.to/afrocodeur/anipulating-the-ui-like-a-living-structure-no-hooks-no-diffing-just-the-dom-1m6k)
+- [Infrastructure as Code &lpar;AWS Terraform Project&rpar;](https://dev.to/jioke/infrastructure-as-code-aws-terraform-project-3ih9)
+- [Building Scalable Web Applications with Laravel: A Comprehensive Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-laravel-a-comprehensive-guide-1okb)
+- [Bridging Blockchain Technologies: Fetch.ai and ICP Integration](https://dev.to/kshipra_5d377b061342f27f8/bridging-blockchain-technologies-fetchai-and-icp-integration-4d4e)
+- [Building Scalable Web Applications with Node.js: A Fullstack Developer’s Guide](https://dev.to/ekwoster/building-scalable-web-applications-with-nodejs-a-fullstack-developers-guide-4opf)
 <!-- BLOG-POST-LIST:END -->
 
