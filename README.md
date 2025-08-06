@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Genius Pinterest Marketing Hacks to Skyrocket Your Traffic](https://dev.to/misseliza/7-genius-pinterest-marketing-hacks-to-skyrocket-your-traffic-2062)
-- [Test Survey](https://dev.to/ben/test-survey-1nfg)
-- [Top 7 Free MCP Servers in 2025 to Supercharge Your AI Apps — Open Source &amp; Ready to Use](https://dev.to/itshayder/top-7-free-mcp-servers-in-2025-to-supercharge-your-ai-apps-open-source-ready-to-use-5die)
-- [How JSX Turns Into JavaScript? Behind the Scenes!](https://dev.to/subashini_mathig_8c02f35/how-jsx-turns-into-javascript-behind-the-scenes-1pe9)
+- [FROM MILITARY TYPIST TO FULL-TIME SOFTWARE ENGINEER: HOW I BECAME A DEVELOPER](https://dev.to/xenxei46/from-military-typist-to-full-time-software-engineer-how-i-became-a-developer-3o12)
+- [A Deep Dive into the John Carmack&#39;s Interview w/ Lex Fridman](https://dev.to/yigit-konur/a-deep-dive-into-the-john-carmacks-interview-w-lex-fridman-4mkn)
+- [Mastering LLM Temperature: A Step-by-Step Guide](https://dev.to/uhasker/mastering-llm-temperature-a-step-by-step-guide-5166)
+- [🧠 React.memo — Boost Performance by Preventing Unnecessary Renders](https://dev.to/aman_kureshi_/reactmemo-boost-performance-by-preventing-unnecessary-renders-2po4)
 <!-- BLOG-POST-LIST:END -->
 
