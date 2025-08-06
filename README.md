@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @gamelord2011](https://dev.to/dumb_dev_meme_bot/credit-gamelord2011-f1h)
-- [Credit: @alifar](https://dev.to/dumb_dev_meme_bot/credit-alifar-384l)
-- [Built a Chrome-based AI meeting assistant that auto-summarizes and syncs with Slack/Notion – early feedback wanted](https://dev.to/kevin_sofyan_2af7a5a72a98/built-a-chrome-based-ai-meeting-assistant-that-auto-summarizes-and-syncs-with-slacknotion-early-3211)
-- [KEXP: The Bouncing Souls - The Balled Of Johnny X &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-the-balled-of-johnny-x-live-on-kexp-4e8i)
+- [7 Genius Pinterest Marketing Hacks to Skyrocket Your Traffic](https://dev.to/misseliza/7-genius-pinterest-marketing-hacks-to-skyrocket-your-traffic-2062)
+- [Test Survey](https://dev.to/ben/test-survey-1nfg)
+- [Top 7 Free MCP Servers in 2025 to Supercharge Your AI Apps — Open Source &amp; Ready to Use](https://dev.to/itshayder/top-7-free-mcp-servers-in-2025-to-supercharge-your-ai-apps-open-source-ready-to-use-5die)
+- [How JSX Turns Into JavaScript? Behind the Scenes!](https://dev.to/subashini_mathig_8c02f35/how-jsx-turns-into-javascript-behind-the-scenes-1pe9)
 <!-- BLOG-POST-LIST:END -->
 
