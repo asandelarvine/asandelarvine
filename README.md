@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Your Translation Processes Pose a Security Risk](https://dev.to/colinreed/5-ways-your-translation-processes-pose-a-security-risk-3ej2)
-- [Nexus Framework: Coordinating Multiple Scrum Teams](https://dev.to/dct_technology/nexus-framework-coordinating-multiple-scrum-teams-1m0a)
-- [It&#39;s Alive! Project KARL is Now Open Source.](https://dev.to/theaniketraj/its-alive-project-karl-is-now-open-source-4mpb)
-- [Self-Awareness Unlocked: Build a Better, Stronger You from Within](https://dev.to/jhanvi_shukla/self-awareness-unlocked-build-a-better-stronger-you-from-within-pfm)
+- [Build a To-Do App with Vanilla JavaScript](https://dev.to/tpointtech/build-a-to-do-app-with-vanilla-javascript-3b4i)
+- [Why Digital Twin Technology Is the Cornerstone of New Innovation](https://dev.to/anonymous_c13b051b4dded8a/why-digital-twin-technology-is-the-cornerstone-of-new-innovation-1p6j)
+- [How to build ai agents](https://dev.to/yash_raj_3dced39a239ca4c0/how-to-build-ai-agents-5e84)
+- [Cybersecurity Trends 2025–2026: Navigating the Next Wave of Digital Resilience](https://dev.to/sm0k3/cybersecurity-trends-2025-2026-navigating-the-next-wave-of-digital-resilience-lmm)
 <!-- BLOG-POST-LIST:END -->
 
