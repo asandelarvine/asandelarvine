@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Use Midjourney API for Text-to-Image Generation](https://dev.to/imaginepro/complete-guide-to-use-midjourney-api-for-text-to-image-generation-3hmc)
-- [Supporting SQL ops - Please Don&#39;t Be a Bottleneck](https://dev.to/alexantartico/supporting-sql-ops-please-dont-be-a-bottleneck-akb)
-- [10 Best WordPress Ecommerce Themes for 2025 &lpar;Free and Paid&rpar;](https://dev.to/serveravatar/10-best-wordpress-ecommerce-themes-for-2025-free-and-paid-4a9o)
-- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
+- [Software Testing](https://dev.to/soubmukh/software-testing-15e6)
+- [Simple Google Maps Scraper Using Playwright](https://dev.to/hasdata_com/simple-google-maps-scraper-using-playwright-e72)
+- [Why Web3 product analytics is better than therapy](https://dev.to/martin_call/why-web3-product-analytics-is-better-than-therapy-15c5)
+- [anipulating the UI Like a Living Structure - No Hooks, No Diffing, Just the DOM](https://dev.to/afrocodeur/anipulating-the-ui-like-a-living-structure-no-hooks-no-diffing-just-the-dom-1m6k)
 <!-- BLOG-POST-LIST:END -->
 
