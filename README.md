@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Neely: The Ludacris song that BROKE my brain](https://dev.to/music_youtube/adam-neely-the-ludacris-song-that-broke-my-brain-ogm)
-- [IGN: Wicked: For Good - Official Behind The Scenes Clip &lpar;2025&rpar; Cynthia Erivo, Ariana Grande](https://dev.to/gg_news/ign-wicked-for-good-official-behind-the-scenes-clip-2025-cynthia-erivo-ariana-grande-2ane)
-- [IGN: Hamilton - Official Theatrical Release Trailer &lpar;2025&rpar; Lin-Manuel Miranda](https://dev.to/gg_news/ign-hamilton-official-theatrical-release-trailer-2025-lin-manuel-miranda-5foo)
-- [IGN: Battlefield 6 Open Beta Queue is Tens of Thousands of Players Deep - IGN Daily Fix](https://dev.to/gg_news/ign-battlefield-6-open-beta-queue-is-tens-of-thousands-of-players-deep-ign-daily-fix-5196)
+- [Hooks Under the Hood: How React Hooks Actually Work](https://dev.to/talissoncosta/hooks-under-the-hood-how-react-hooks-actually-work-3002)
+- [Maximize Your Efficiency with The Core Tools – Your Hub for Essential Productivity Software](https://dev.to/jesus_camacho_6c85db6f357/explore-the-future-of-productivity-with-saas-hub-directory-48p0)
+- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
+- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
 <!-- BLOG-POST-LIST:END -->
 
