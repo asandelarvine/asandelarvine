@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Turn Your GitHub Into a Game &lpar;Pacman, Snake &amp; Trophies!](https://dev.to/vidakhoshpey22/turn-your-github-into-a-game-pacman-snake-trophies-1hmf)
-- [🥖 Bun e Node – Será que o pãozinho tem chance?](https://dev.to/xandecodes/bun-e-node-sera-que-o-paozinho-tem-chance-123g)
-- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
-- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
+- [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
+- [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
+- [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
+- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
 <!-- BLOG-POST-LIST:END -->
 
