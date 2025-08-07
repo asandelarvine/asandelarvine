@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI vs Django DRF vs Flask - Which Is the Fastest for Building APIs](https://dev.to/devasservice/fastapi-vs-django-drf-vs-flask-which-is-the-fastest-for-building-apis-38g0)
-- [CondationCMS manager application](https://dev.to/thmarx/condationcms-manager-application-1n8c)
-- [Content Security in the Digital Age: How to Protect Your Work from Theft and Misuse](https://dev.to/okoye_ndidiamaka_5e3b7d30/content-security-in-the-digital-age-how-to-protect-your-work-from-theft-and-misuse-2h4o)
-- [Deciphering Conformational Dynamics: A Predictive Model for Cyclohexane Ring](https://dev.to/freederia-research/deciphering-conformational-dynamics-a-predictive-model-for-cyclohexane-ring-2jlh)
+- [I’m all about Kebarung Printed this year—they’re fun, colorful, and comfy! I’ll wear one for day two of Baju Raya 2025, and keep a Baju Kurung Pahang from https://carlanisa.com/](https://dev.to/milo_aiden_44e52f4a7dc8c4/im-all-about-kebarung-printed-this-year-theyre-fun-colorful-and-comfy-ill-wear-one-for-day-3864)
+- [Automated Root Cause Analysis via Dynamic Bayesian Network Calibration &amp; Predictive Maintenance Scoring](https://dev.to/freederia-research/automated-root-cause-analysis-via-dynamic-bayesian-network-calibration-predictive-maintenance-2do5)
+- [Leetcode - 127. Word Ladder](https://dev.to/rakeshreddy512/leetcode-127-word-ladder-10l1)
+- [Dynamic Material Property Prediction via Multi-Modal Graph Neural Networks and HyperScore Evaluation](https://dev.to/freederia-research/dynamic-material-property-prediction-via-multi-modal-graph-neural-networks-and-hyperscore-evaluation-a6g)
 <!-- BLOG-POST-LIST:END -->
 
