@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Swift 6 and SwiftUI in 2025: A Hands-On Tutorial](https://dev.to/nandamochammad/mastering-swift-6-and-swiftui-in-2025-a-hands-on-tutorial-4ceh)
-- [Enhanced Time-Series Analysis via Adaptive Resonance Graph Networks in Peripheral Clock Systems](https://dev.to/freederia-research/enhanced-time-series-analysis-via-adaptive-resonance-graph-networks-in-peripheral-clock-systems-34m3)
-- [Top Reasons to Choose Selenium for Your Test Automation Journey](https://dev.to/misterankit/top-reasons-to-choose-selenium-for-your-test-automation-journey-43p3)
-- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg)
+- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am)
+- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
 <!-- BLOG-POST-LIST:END -->
 
