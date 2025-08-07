@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
-- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
-- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
-- [The top_k and top_p Parameters Explained](https://dev.to/uhasker/the-topk-and-topp-parameters-explained-42ao)
+- [.NET Developer Skillset Matrix: Architecture to CI/CD for 2025](https://dev.to/dmitrybaraishuk/net-developer-skillset-matrix-architecture-to-cicd-for-2025-5646)
+- [How Local Storage Wallets on Ethereum Work](https://dev.to/filosofiacodigoen/how-local-storage-wallets-on-ethereum-work-4c0p)
+- [🚨 The Black Box Era: When Developers No Longer Understand the Code They Deploy](https://dev.to/devtechinsights/the-black-box-era-when-developers-no-longer-understand-the-code-they-deploy-jl5)
+- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
 <!-- BLOG-POST-LIST:END -->
 
