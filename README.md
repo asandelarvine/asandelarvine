@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Embed File Uploads with the Google Drive API](https://dev.to/ideradevtools/how-to-embed-file-uploads-with-the-google-drive-api-5b9i)
-- [Links to SBES 2025 Journal-First papers](https://dev.to/fronteirases/links-to-sbes-2025-39th-brazilian-symposium-on-software-engineering-journal-first-papers-9o5)
-- [Coding in the Age of Constant Deprecation?](https://dev.to/ingosteinke/coding-in-the-age-of-constant-deprecation-4mad)
-- [How I Hacked My Hacker Back — A Nigerian Tale](https://dev.to/dhis_is_jj/how-i-hacked-my-hacker-back-a-nigerian-tale-363o)
+- [Don&#39;t Use &quot;any&quot; for Type-Safe TypeScript](https://dev.to/grenishrai/dont-use-any-for-type-safe-typescript-3cnd)
+- [Why Most Devs Waste APIs &lpar;Do This Instead&rpar;](https://dev.to/0x7b-shop/why-most-devs-waste-apis-do-this-instead-24ae)
+- [🧱 Build a Paywall System in 30 Minutes](https://dev.to/snappy_tuts/build-a-paywall-system-in-30-minutes-51a7)
+- [JavaScript Array Methods: Mutating vs Non-Mutating](https://dev.to/mohinsheikh/javascript-array-methods-mutating-vs-non-mutating-51d9)
 <!-- BLOG-POST-LIST:END -->
 
