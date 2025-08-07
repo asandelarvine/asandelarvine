@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Developer Skillset Matrix: Architecture to CI/CD for 2025](https://dev.to/dmitrybaraishuk/net-developer-skillset-matrix-architecture-to-cicd-for-2025-5646)
-- [How Local Storage Wallets on Ethereum Work](https://dev.to/filosofiacodigoen/how-local-storage-wallets-on-ethereum-work-4c0p)
-- [🚨 The Black Box Era: When Developers No Longer Understand the Code They Deploy](https://dev.to/devtechinsights/the-black-box-era-when-developers-no-longer-understand-the-code-they-deploy-jl5)
-- [Adobe Creative Cloud: Editing the Same Scenario 3 Different Ways Using Adobe Stock](https://dev.to/design_youtube/adobe-creative-cloud-editing-the-same-scenario-3-different-ways-using-adobe-stock-3gg0)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
+- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
+- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
 <!-- BLOG-POST-LIST:END -->
 
