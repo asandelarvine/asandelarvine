@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Highcharts Full Circle SolidGauge Donut Chart with Multiple Segments](https://dev.to/dropways/highcharts-full-circle-solidgauge-donut-chart-with-multiple-segments-2df0)
-- [Fylgja 2.1 is Live: New Utilities, Performance Boosts, and More](https://dev.to/fylgja/fylgja-21-is-live-new-utilities-performance-boosts-and-more-477k)
-- [CRM Software: My Simple Guide to Customer Relationship Management](https://dev.to/mirkovirtanen/crm-software-my-simple-guide-to-customer-relationship-management-1op)
-- [Neutron-Induced Semiconductor Microstructure Assessment via Deep Learning](https://dev.to/freederia-research/neutron-induced-semiconductor-microstructure-assessment-via-deep-learning-429k)
+- [I Launched DjangoFixer — Here’s Why](https://dev.to/stokry/i-launched-djangofixer-heres-why-39p0)
+- [Few things to know](https://dev.to/shreyvijayvargiya/few-things-to-know-3dl8)
+- [DummyDatabase.com: DATA GENERATION MADE SIMPLE](https://dev.to/__db2165b93/dummydatabasecom-data-generation-made-simple-32i7)
+- [AWS IP Range Lookup Tool for Quick Security Checks](https://dev.to/aws-builders/aws-ip-range-lookup-tool-for-quick-security-checks-2cih)
 <!-- BLOG-POST-LIST:END -->
 
