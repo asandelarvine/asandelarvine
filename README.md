@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-bpe)
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/kruti12/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-4clg)
-- [Developer-First Documentation: Why 73% of Teams Fail and How to Build Docs That Get Used](https://dev.to/teamcamp/developer-first-documentation-why-73-of-teams-fail-and-how-to-build-docs-that-get-used-47am)
-- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
+- [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
+- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
+- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
+- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
 <!-- BLOG-POST-LIST:END -->
 
