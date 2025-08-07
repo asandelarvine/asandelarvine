@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Rendering Deep Dive — Part 2: Inside the Virtual DOM Lifecycle](https://dev.to/mridudixit15/react-rendering-deep-dive-part-2-inside-the-virtual-dom-lifecycle-3dg2)
-- [¿Cómo detectar cuando un proyecto se ha construido bien?](https://dev.to/oskar_calvo_1615a9b3b293f/como-detectar-cuando-un-proyecto-se-ha-construido-bien-8ik)
-- [I Researched about the “Research Tool” that&#39;s rewriting the Rules: Perplexity AI](https://dev.to/teja_pola/i-researched-about-the-research-tool-thats-rewriting-the-rules-perplexity-ai-4ok0)
-- [Real-Time Collaborative Document Editor](https://dev.to/souvik_misra_b527ec5acdd3/real-time-collaborative-document-editor-539c)
+- [Implementing Secure Authentication: Practical Tactics for Digital Identity Defense](https://dev.to/deepakgupta/implementing-secure-authentication-practical-tactics-for-digital-identity-defense-27ii)
+- [Pick and Place Machines](https://dev.to/frank_1871bc3c55f35370df3/pick-and-place-machines-3pkh)
+- [🚀 My Developer Portfolio is Live!](https://dev.to/adufe775/my-developer-portfolio-is-live-2ain)
+- [The top_k and top_p Parameters Explained](https://dev.to/uhasker/the-topk-and-topp-parameters-explained-42ao)
 <!-- BLOG-POST-LIST:END -->
 
