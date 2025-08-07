@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Launched DjangoFixer — Here’s Why](https://dev.to/stokry/i-launched-djangofixer-heres-why-39p0)
-- [Few things to know](https://dev.to/shreyvijayvargiya/few-things-to-know-3dl8)
-- [DummyDatabase.com: DATA GENERATION MADE SIMPLE](https://dev.to/__db2165b93/dummydatabasecom-data-generation-made-simple-32i7)
-- [AWS IP Range Lookup Tool for Quick Security Checks](https://dev.to/aws-builders/aws-ip-range-lookup-tool-for-quick-security-checks-2cih)
+- [How to Embed File Uploads with the Google Drive API](https://dev.to/ideradevtools/how-to-embed-file-uploads-with-the-google-drive-api-5b9i)
+- [Links to SBES 2025 Journal-First papers](https://dev.to/fronteirases/links-to-sbes-2025-39th-brazilian-symposium-on-software-engineering-journal-first-papers-9o5)
+- [Coding in the Age of Constant Deprecation?](https://dev.to/ingosteinke/coding-in-the-age-of-constant-deprecation-4mad)
+- [How I Hacked My Hacker Back — A Nigerian Tale](https://dev.to/dhis_is_jj/how-i-hacked-my-hacker-back-a-nigerian-tale-363o)
 <!-- BLOG-POST-LIST:END -->
 
