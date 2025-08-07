@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yuk, Ngoding AI: Gampang Kok, Nggak Pake Pusing!](https://dev.to/mahardika_rizki_357e36c67/yuk-ngoding-ai-gampang-kok-nggak-pake-pusing-3hmc)
-- [Mastering LINQ in C#: A Comprehensive Guide to Methods and When to Use Them](https://dev.to/iamcymentho/mastering-linq-in-c-a-comprehensive-guide-to-methods-and-when-to-use-them-267o)
-- [Nge-Code Santai: Menemukan &#39;Vibe&#39;-mu dalam Dunia Pemrograman](https://dev.to/mahardika_rizki_357e36c67/nge-code-santai-menemukan-vibe-mu-dalam-dunia-pemrograman-2a35)
-- [Linked Lists: The Hidden Power Behind React Hooks](https://dev.to/talissoncosta/linked-lists-the-hidden-power-behind-react-hooks-4kfg)
+- [From Python Hesitation to Real DevOps Projects &lpar;Part 1&rpar;](https://dev.to/techwithhari/from-python-hesitation-to-real-devops-projects-part-1-4g72)
+- [GoLang Generics: Practical Examples to Level Up Your Code](https://dev.to/shrsv/golang-generics-practical-examples-to-level-up-your-code-4ell)
+- [Tutorial: How to Remediate Vulnerabilities with Puppet Enterprise Advanced Patching](https://dev.to/puppet/tutorial-how-to-remediate-vulnerabilities-with-puppet-enterprise-advanced-patching-2kdi)
+- [[Boost]](https://dev.to/ravikantshukla/-2ech)
 <!-- BLOG-POST-LIST:END -->
 
