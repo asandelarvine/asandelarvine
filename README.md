@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m all about Kebarung Printed this year—they’re fun, colorful, and comfy! I’ll wear one for day two of Baju Raya 2025, and keep a Baju Kurung Pahang from https://carlanisa.com/](https://dev.to/milo_aiden_44e52f4a7dc8c4/im-all-about-kebarung-printed-this-year-theyre-fun-colorful-and-comfy-ill-wear-one-for-day-3864)
-- [Automated Root Cause Analysis via Dynamic Bayesian Network Calibration &amp; Predictive Maintenance Scoring](https://dev.to/freederia-research/automated-root-cause-analysis-via-dynamic-bayesian-network-calibration-predictive-maintenance-2do5)
-- [Leetcode - 127. Word Ladder](https://dev.to/rakeshreddy512/leetcode-127-word-ladder-10l1)
-- [Dynamic Material Property Prediction via Multi-Modal Graph Neural Networks and HyperScore Evaluation](https://dev.to/freederia-research/dynamic-material-property-prediction-via-multi-modal-graph-neural-networks-and-hyperscore-evaluation-a6g)
+- [Highcharts Full Circle SolidGauge Donut Chart with Multiple Segments](https://dev.to/dropways/highcharts-full-circle-solidgauge-donut-chart-with-multiple-segments-2df0)
+- [Fylgja 2.1 is Live: New Utilities, Performance Boosts, and More](https://dev.to/fylgja/fylgja-21-is-live-new-utilities-performance-boosts-and-more-477k)
+- [CRM Software: My Simple Guide to Customer Relationship Management](https://dev.to/mirkovirtanen/crm-software-my-simple-guide-to-customer-relationship-management-1op)
+- [Neutron-Induced Semiconductor Microstructure Assessment via Deep Learning](https://dev.to/freederia-research/neutron-induced-semiconductor-microstructure-assessment-via-deep-learning-429k)
 <!-- BLOG-POST-LIST:END -->
 
