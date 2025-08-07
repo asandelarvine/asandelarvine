@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# 👥 How I Built a Secure and Clean User Impersonation Feature &lpar;ReactJS + NodeJS&rpar;](https://dev.to/akash_shukla/-how-i-built-a-secure-and-clean-user-impersonation-feature-reactjs-nodejs-40kn)
-- [Semantic HTML is how machines understand meaning](https://dev.to/adewebdeveloper/semantic-html-is-how-machines-understand-meaning-52a3)
-- [Monolith vs. Microservices: Choosing a Software Architecture](https://dev.to/alifa_ara_heya/monolith-vs-microservices-choosing-a-software-architecture-401n)
-- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
+- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-n1m)
+- [GTA Online will add age verification to comply with UK laws claims insider](https://dev.to/gg_news/gta-online-will-add-age-verification-to-comply-with-uk-laws-claims-insider-k99)
+- [Peak developers would rather you pirate its game than play Roblox &quot;microtransaction-riddled ripoff slop&quot;](https://dev.to/gg_news/peak-developers-would-rather-you-pirate-its-game-than-play-roblox-microtransaction-riddled-ripoff-1oog)
+- [Mathematicians credited with rescuing quantum computing](https://dev.to/future_quantum/mathematicians-credited-with-rescuing-quantum-computing-5ba4)
 <!-- BLOG-POST-LIST:END -->
 
