@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hooks Under the Hood: How React Hooks Actually Work](https://dev.to/talissoncosta/hooks-under-the-hood-how-react-hooks-actually-work-3002)
-- [Maximize Your Efficiency with The Core Tools – Your Hub for Essential Productivity Software](https://dev.to/jesus_camacho_6c85db6f357/explore-the-future-of-productivity-with-saas-hub-directory-48p0)
-- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
-- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
+- [IGN: Code 3 - Official Green Band Trailer &lpar;2025&rpar; Rainn Wilson, Lil Rel Howery](https://dev.to/gg_news/ign-code-3-official-green-band-trailer-2025-rainn-wilson-lil-rel-howery-424o)
+- [IGN: Wheel World: The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-wheel-world-the-first-20-minutes-of-gameplay-2238)
+- [3363. Find the Maximum Number of Fruits Collected](https://dev.to/mdarifulhaque/3363-find-the-maximum-number-of-fruits-collected-aij)
+- [Trustiner: Your Go-To Platform for Verified AI Tools and Trusted Resources](https://dev.to/jesus_camacho_bf36cced4b3/trustiner-your-go-to-platform-for-verified-ai-tools-and-trusted-resources-n26)
 <!-- BLOG-POST-LIST:END -->
 
