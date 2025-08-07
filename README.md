@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
-- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
-- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
-- [SQL vs Power BI: Which Skill Should You Master First in 2025?](https://dev.to/prasanna_veni_855b380cec1/sql-vs-power-bi-which-skill-should-you-master-first-in-2025-54fm)
+- [Mastering Swift 6 and SwiftUI in 2025: A Hands-On Tutorial](https://dev.to/nandamochammad/mastering-swift-6-and-swiftui-in-2025-a-hands-on-tutorial-4ceh)
+- [Enhanced Time-Series Analysis via Adaptive Resonance Graph Networks in Peripheral Clock Systems](https://dev.to/freederia-research/enhanced-time-series-analysis-via-adaptive-resonance-graph-networks-in-peripheral-clock-systems-34m3)
+- [Top Reasons to Choose Selenium for Your Test Automation Journey](https://dev.to/misterankit/top-reasons-to-choose-selenium-for-your-test-automation-journey-43p3)
+- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
 <!-- BLOG-POST-LIST:END -->
 
