@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
-- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
-- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
-- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
+- [FastAPI vs Django DRF vs Flask - Which Is the Fastest for Building APIs](https://dev.to/devasservice/fastapi-vs-django-drf-vs-flask-which-is-the-fastest-for-building-apis-38g0)
+- [CondationCMS manager application](https://dev.to/thmarx/condationcms-manager-application-1n8c)
+- [Content Security in the Digital Age: How to Protect Your Work from Theft and Misuse](https://dev.to/okoye_ndidiamaka_5e3b7d30/content-security-in-the-digital-age-how-to-protect-your-work-from-theft-and-misuse-2h4o)
+- [Deciphering Conformational Dynamics: A Predictive Model for Cyclohexane Ring](https://dev.to/freederia-research/deciphering-conformational-dynamics-a-predictive-model-for-cyclohexane-ring-2jlh)
 <!-- BLOG-POST-LIST:END -->
 
