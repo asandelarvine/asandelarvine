@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Python Hesitation to Real DevOps Projects &lpar;Part 1&rpar;](https://dev.to/techwithhari/from-python-hesitation-to-real-devops-projects-part-1-4g72)
-- [GoLang Generics: Practical Examples to Level Up Your Code](https://dev.to/shrsv/golang-generics-practical-examples-to-level-up-your-code-4ell)
-- [Tutorial: How to Remediate Vulnerabilities with Puppet Enterprise Advanced Patching](https://dev.to/puppet/tutorial-how-to-remediate-vulnerabilities-with-puppet-enterprise-advanced-patching-2kdi)
-- [[Boost]](https://dev.to/ravikantshukla/-2ech)
+- [React Rendering Deep Dive — Part 2: Inside the Virtual DOM Lifecycle](https://dev.to/mridudixit15/react-rendering-deep-dive-part-2-inside-the-virtual-dom-lifecycle-3dg2)
+- [¿Cómo detectar cuando un proyecto se ha construido bien?](https://dev.to/oskar_calvo_1615a9b3b293f/como-detectar-cuando-un-proyecto-se-ha-construido-bien-8ik)
+- [I Researched about the “Research Tool” that&#39;s rewriting the Rules: Perplexity AI](https://dev.to/teja_pola/i-researched-about-the-research-tool-thats-rewriting-the-rules-perplexity-ai-4ok0)
+- [Real-Time Collaborative Document Editor](https://dev.to/souvik_misra_b527ec5acdd3/real-time-collaborative-document-editor-539c)
 <!-- BLOG-POST-LIST:END -->
 
