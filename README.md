@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
-- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
-- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
+- [🎮 Turn Your GitHub Into a Game &lpar;Pacman, Snake &amp; Trophies!](https://dev.to/vidakhoshpey22/turn-your-github-into-a-game-pacman-snake-trophies-1hmf)
+- [🥖 Bun e Node – Será que o pãozinho tem chance?](https://dev.to/xandecodes/bun-e-node-sera-que-o-paozinho-tem-chance-123g)
+- [Simone Giertz: What I’ve learned from 10 years on YouTube](https://dev.to/maker_youtube/simone-giertz-what-ive-learned-from-10-years-on-youtube-3i9o)
+- [GameSpot: Ninja Gaiden 4 Is Exactly The Ninja Gaiden Game You&#39;re Hoping It Will Be | Hands-On Impressions](https://dev.to/gg_news/gamespot-ninja-gaiden-4-is-exactly-the-ninja-gaiden-game-youre-hoping-it-will-be-hands-on-37h3)
 <!-- BLOG-POST-LIST:END -->
 
