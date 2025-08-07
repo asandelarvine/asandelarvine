@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Code 3 - Official Green Band Trailer &lpar;2025&rpar; Rainn Wilson, Lil Rel Howery](https://dev.to/gg_news/ign-code-3-official-green-band-trailer-2025-rainn-wilson-lil-rel-howery-424o)
-- [IGN: Wheel World: The First 20 Minutes of Gameplay](https://dev.to/gg_news/ign-wheel-world-the-first-20-minutes-of-gameplay-2238)
-- [3363. Find the Maximum Number of Fruits Collected](https://dev.to/mdarifulhaque/3363-find-the-maximum-number-of-fruits-collected-aij)
-- [Trustiner: Your Go-To Platform for Verified AI Tools and Trusted Resources](https://dev.to/jesus_camacho_bf36cced4b3/trustiner-your-go-to-platform-for-verified-ai-tools-and-trusted-resources-n26)
+- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
+- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
+- [SwaggerUI setup ASP.NET Core Web API](https://dev.to/sharadaade/swaggerui-setup-aspnet-core-web-api-2dja)
+- [SQL vs Power BI: Which Skill Should You Master First in 2025?](https://dev.to/prasanna_veni_855b380cec1/sql-vs-power-bi-which-skill-should-you-master-first-in-2025-54fm)
 <!-- BLOG-POST-LIST:END -->
 
