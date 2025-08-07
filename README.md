@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Baldur&#39;s Gate 3 Actor Thinks Video Game Performers Are Being &quot;Slept On&quot; In Film And TV Adaptations](https://dev.to/gg_news/baldurs-gate-3-actor-thinks-video-game-performers-are-being-slept-on-in-film-and-tv-adaptations-n1m)
-- [GTA Online will add age verification to comply with UK laws claims insider](https://dev.to/gg_news/gta-online-will-add-age-verification-to-comply-with-uk-laws-claims-insider-k99)
-- [Peak developers would rather you pirate its game than play Roblox &quot;microtransaction-riddled ripoff slop&quot;](https://dev.to/gg_news/peak-developers-would-rather-you-pirate-its-game-than-play-roblox-microtransaction-riddled-ripoff-1oog)
-- [Mathematicians credited with rescuing quantum computing](https://dev.to/future_quantum/mathematicians-credited-with-rescuing-quantum-computing-5ba4)
+- [Yuk, Ngoding AI: Gampang Kok, Nggak Pake Pusing!](https://dev.to/mahardika_rizki_357e36c67/yuk-ngoding-ai-gampang-kok-nggak-pake-pusing-3hmc)
+- [Mastering LINQ in C#: A Comprehensive Guide to Methods and When to Use Them](https://dev.to/iamcymentho/mastering-linq-in-c-a-comprehensive-guide-to-methods-and-when-to-use-them-267o)
+- [Nge-Code Santai: Menemukan &#39;Vibe&#39;-mu dalam Dunia Pemrograman](https://dev.to/mahardika_rizki_357e36c67/nge-code-santai-menemukan-vibe-mu-dalam-dunia-pemrograman-2a35)
+- [Linked Lists: The Hidden Power Behind React Hooks](https://dev.to/talissoncosta/linked-lists-the-hidden-power-behind-react-hooks-4kfg)
 <!-- BLOG-POST-LIST:END -->
 
