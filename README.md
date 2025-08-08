@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Future of Content Creation with AIGC 160: A Hub for Cutting-Edge AI Tools](https://dev.to/aigc160com/discover-the-future-of-content-creation-with-aigc-160-a-hub-for-cutting-edge-ai-tools-2pp0)
-- [Recovering Firestore Data Fast with PITR and Fuego](https://dev.to/sanbiv/recovering-firestore-data-fast-with-pitr-and-fuego-4kea)
-- [Python Essentials 1 – Completed! 🐍✨](https://dev.to/seifeldienahmad/python-essentials-1-completed-1n25)
-- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
+- [IGN: The House of The Dead 2: Remake - Official Launch Trailer](https://dev.to/gg_news/ign-the-house-of-the-dead-2-remake-official-launch-trailer-4jcb)
+- [IGN: Battlefield 6 | 4K RTX 5090 Conquest Gameplay](https://dev.to/gg_news/ign-battlefield-6-4k-rtx-5090-conquest-gameplay-3lo8)
+- [IGN: 2XKO Lead Champion Designer Talks Vi and Changes From Alpha Lab 2 | Evo 2025 Video Interview](https://dev.to/gg_news/ign-2xko-lead-champion-designer-talks-vi-and-changes-from-alpha-lab-2-evo-2025-video-interview-2nf3)
+- [IGN: Mafia: The Old Country Review](https://dev.to/gg_news/ign-mafia-the-old-country-review-4gk6)
 <!-- BLOG-POST-LIST:END -->
 
