@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Packet Sniffing 101: How to Focus on a Specific Wi-Fi Network](https://dev.to/rijultp/packet-sniffing-101-how-to-focus-on-a-specific-wi-fi-network-2154)
-- [2025 macOS Development Environment Setup Guide](https://dev.to/binbingoloo/2025-macos-development-environment-setup-guide-4jj0)
-- [Day 9 of #30DaysOfCode](https://dev.to/justacoder_0x/day-9-of-30daysofcode-fb0)
-- [CSS: the language with no syntax](https://dev.to/matthewdean/css-the-language-with-no-syntax-oom)
+- [Accelerating AI Development Workflows: The Kiro Best Practices Boilerplate](https://dev.to/kirodotdev/accelerating-ai-development-workflows-the-kiro-best-practices-boilerplate-4h6o)
+- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
+- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
+- [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
 <!-- BLOG-POST-LIST:END -->
 
