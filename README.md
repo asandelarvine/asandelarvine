@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2. Celery](https://dev.to/gimntut/2-celery-3d6g)
-- [1. Тесты](https://dev.to/gimntut/1-tiesty-1679)
-- [Designing Search Systems &lpar;Elasticsearch, Solr&rpar;](https://dev.to/godofgeeks/designing-search-systems-elasticsearch-solr-5h7j)
-- [How to use Obsidian to write your Astro content &lpar;zero scripts&rpar;](https://dev.to/mike_andreuzza/how-to-use-obsidian-to-write-your-astro-content-zero-scripts-23gp)
+- [Port Forwarding Behind CGNAT](https://dev.to/lightningdev123/port-forwarding-behind-cgnat-gb8)
+- [Building AI Low-Code Platform in Angular — Part 4: Styling and Handling Connections](https://dev.to/shuzarevich/building-ai-low-code-platform-in-angular-part-4-styling-and-handling-connections-keo)
+- [Monitor your Kubernetes clusters effectively with Prometheus and Grafana. Gain real-time visibility into system metrics, resource usage, and application performance. visit-link: https://puffersoft.com/kubernetes-service/](https://dev.to/puffer_soft_270eededb1416/monitor-your-kubernetes-clusters-effectively-with-prometheus-and-grafana-gain-real-time-visibility-1b7c)
+- [Enhancing Analytical Skills: The Powerful Impact of Online Learning Platforms on Students](https://dev.to/ghummantech/enhancing-analytical-skills-the-powerful-impact-of-online-learning-platforms-on-students-646)
 <!-- BLOG-POST-LIST:END -->
 
