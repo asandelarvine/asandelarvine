@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PIDM v1.2.0 – A Powerful Open-Source Download Manager Just Got Better!](https://dev.to/ericluckson1999/pidm-v120-a-powerful-open-source-download-manager-just-got-better-20ci)
-- [GPT-5: The Dawn of a New Era in Artificial Intelligence](https://dev.to/srijan-xi/gpt-5-the-dawn-of-a-new-era-in-artificial-intelligence-m44)
-- [Originality, Creativity, Visibility: The Three Multipliers of Modern Success](https://dev.to/blackscripts/originality-creativity-visibility-the-three-multipliers-of-modern-success-1j8c)
-- [Best Practices for Creating Error Code Patterns](https://dev.to/siswoyo/best-practices-for-creating-error-code-patterns-25nk)
+- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
+- [How I Built Local-First Apps with React Native + RxDB &lpar;and Why Your App Probably Needs This Too&rpar;](https://dev.to/devfamdk/how-i-built-local-first-apps-with-react-native-rxdb-and-why-your-app-probably-needs-this-too-37gh)
+- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-23ci)
+- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-bhn)
 <!-- BLOG-POST-LIST:END -->
 
