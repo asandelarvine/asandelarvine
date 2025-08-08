@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Money Fast with gpt-oss AI](https://dev.to/abubakersiddique761/make-money-fast-with-gpt-oss-ai-p71)
-- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
-- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
-- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
+- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
+- [Qyra AI - AI Customer Support Chatbot](https://dev.to/codertacina/ai-customer-support-chatbot-1pda)
+- [Day 41/180 of Frontend Dev: Styling Forms and Tables](https://dev.to/code_2/day-41180-of-frontend-dev-styling-forms-and-tables-56he)
+- [Data Science Resume Feedback and Semantic Job Recommendation System](https://dev.to/eric_mariasis_39a2ea00e17/data-science-resume-feedback-and-semantic-job-recommendation-system-3fma)
 <!-- BLOG-POST-LIST:END -->
 
