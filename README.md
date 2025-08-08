@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 How to Build a Website with Webflow &lpar;2025 Guide&rpar;](https://dev.to/arhamshah55/how-to-build-a-website-with-webflow-2025-guide-85i)
-- [Code. SQLite. Time tables with recursive CTE](https://dev.to/axkira/code-sqlite-time-tables-with-recursive-cte-11md)
-- [From Failed Football Dreams to Tech: My Journey](https://dev.to/vincenttommi/from-failed-football-dreams-to-tech-my-journey-39j3)
-- [1 RN Thing a Day – Day 4: Usage of omitBy](https://dev.to/ola_1313/1-rn-thing-a-day-day-4-usage-of-omitby-4lif)
+- [Getting Started with React.js: What, Why, and How](https://dev.to/megha_m/getting-started-with-reactjs-what-why-and-how-39if)
+- [How Smartwatches and Smartphones Count Your Steps: The Technology Behind Pedometers](https://dev.to/grenishrai/how-smartwatches-and-smartphones-count-your-steps-the-technology-behind-pedometers-514p)
+- [Adam Savage&#39;s Tested: Why There&#39;s a Saree at Smithsonian&#39;s @airandspace Museum](https://dev.to/maker_youtube/adam-savages-tested-why-theres-a-saree-at-smithsonians-airandspace-museum-1l6j)
+- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
 <!-- BLOG-POST-LIST:END -->
 
