@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [setup arch + hyprland yesterday. gonna rice it up &amp; setup docker &amp; stuff on it~](https://dev.to/999satya/setup-arch-hyprland-yesterday-gonna-rice-it-up-setup-docker-stuff-on-it-52pe)
-- [Generating Dynamic Avatars in Angular Using DiceBear.](https://dev.to/davidongora/generating-dynamic-avatars-in-angular-using-dicebear-3npp)
-- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
-- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
+- [2. Celery](https://dev.to/gimntut/2-celery-3d6g)
+- [1. Тесты](https://dev.to/gimntut/1-tiesty-1679)
+- [Designing Search Systems &lpar;Elasticsearch, Solr&rpar;](https://dev.to/godofgeeks/designing-search-systems-elasticsearch-solr-5h7j)
+- [How to use Obsidian to write your Astro content &lpar;zero scripts&rpar;](https://dev.to/mike_andreuzza/how-to-use-obsidian-to-write-your-astro-content-zero-scripts-23gp)
 <!-- BLOG-POST-LIST:END -->
 
