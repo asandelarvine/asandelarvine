@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Following Concord&#39;s historic failure, Sony admits its live-service push is &quot;not entirely going smoothly”](https://dev.to/gg_news/following-concords-historic-failure-sony-admits-its-live-service-push-is-not-entirely-going-1ede)
-- [How I Built Local-First Apps with React Native + RxDB &lpar;and Why Your App Probably Needs This Too&rpar;](https://dev.to/devfamdk/how-i-built-local-first-apps-with-react-native-rxdb-and-why-your-app-probably-needs-this-too-37gh)
-- [EA Shutting Down Four Games Forever in October](https://dev.to/gg_news/ea-shutting-down-four-games-forever-in-october-23ci)
-- [Deus Ex Lead Does Not Want You To Steal His Voice For A Cyberpunk 2077 Mod](https://dev.to/gg_news/deus-ex-lead-does-not-want-you-to-steal-his-voice-for-a-cyberpunk-2077-mod-bhn)
+- [🔥 How to Build a Website with Webflow &lpar;2025 Guide&rpar;](https://dev.to/arhamshah55/how-to-build-a-website-with-webflow-2025-guide-85i)
+- [Code. SQLite. Time tables with recursive CTE](https://dev.to/axkira/code-sqlite-time-tables-with-recursive-cte-11md)
+- [From Failed Football Dreams to Tech: My Journey](https://dev.to/vincenttommi/from-failed-football-dreams-to-tech-my-journey-39j3)
+- [1 RN Thing a Day – Day 4: Usage of omitBy](https://dev.to/ola_1313/1-rn-thing-a-day-day-4-usage-of-omitby-4lif)
 <!-- BLOG-POST-LIST:END -->
 
