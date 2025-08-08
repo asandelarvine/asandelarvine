@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: The House of The Dead 2: Remake - Official Launch Trailer](https://dev.to/gg_news/ign-the-house-of-the-dead-2-remake-official-launch-trailer-4jcb)
-- [IGN: Battlefield 6 | 4K RTX 5090 Conquest Gameplay](https://dev.to/gg_news/ign-battlefield-6-4k-rtx-5090-conquest-gameplay-3lo8)
-- [IGN: 2XKO Lead Champion Designer Talks Vi and Changes From Alpha Lab 2 | Evo 2025 Video Interview](https://dev.to/gg_news/ign-2xko-lead-champion-designer-talks-vi-and-changes-from-alpha-lab-2-evo-2025-video-interview-2nf3)
-- [IGN: Mafia: The Old Country Review](https://dev.to/gg_news/ign-mafia-the-old-country-review-4gk6)
+- [IGN: Mina The Hollower Gameplay on Nintendo Switch 2](https://dev.to/gg_news/ign-mina-the-hollower-gameplay-on-nintendo-switch-2-352h)
+- [Ringer Movies: ‘Weapons’ Is Why We Go to the Movies, With Zach Cregger! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-weapons-is-why-we-go-to-the-movies-with-zach-cregger-the-big-picture-2718)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
+- [The Physical Internet Is Coming](https://dev.to/mikhailliublin/the-physical-internet-is-coming-4adb)
 <!-- BLOG-POST-LIST:END -->
 
