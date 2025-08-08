@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Port Forwarding Behind CGNAT](https://dev.to/lightningdev123/port-forwarding-behind-cgnat-gb8)
-- [Building AI Low-Code Platform in Angular — Part 4: Styling and Handling Connections](https://dev.to/shuzarevich/building-ai-low-code-platform-in-angular-part-4-styling-and-handling-connections-keo)
-- [Monitor your Kubernetes clusters effectively with Prometheus and Grafana. Gain real-time visibility into system metrics, resource usage, and application performance. visit-link: https://puffersoft.com/kubernetes-service/](https://dev.to/puffer_soft_270eededb1416/monitor-your-kubernetes-clusters-effectively-with-prometheus-and-grafana-gain-real-time-visibility-1b7c)
-- [Enhancing Analytical Skills: The Powerful Impact of Online Learning Platforms on Students](https://dev.to/ghummantech/enhancing-analytical-skills-the-powerful-impact-of-online-learning-platforms-on-students-646)
+- [9 Best Practices for Remote Work Success in 2025](https://dev.to/fluidwave/9-best-practices-for-remote-work-success-in-2025-2fml)
+- [I Built a Fast, Privacy-Friendly Base64 Tool for Developers — No Ads, Just Pure Utility](https://dev.to/nattee_kotsomnuan_cf7db0a/i-built-a-fast-privacy-friendly-base64-tool-for-developers-no-ads-just-pure-utility-3fbe)
+- [Build a Fast NLP Pipeline with Modern Text Tokenizer in C++](https://dev.to/mecanik/build-a-fast-nlp-pipeline-with-modern-text-tokenizer-in-c-17b6)
+- [Tired of Being Blocked? How to Get on the Digital &quot;ISP Whitelist&quot;](https://dev.to/ipshiftdaily_e7d728ba133d/tired-of-being-blocked-how-to-get-on-the-digital-isp-whitelist-2d89)
 <!-- BLOG-POST-LIST:END -->
 
