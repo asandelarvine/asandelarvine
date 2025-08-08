@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with React.js: What, Why, and How](https://dev.to/megha_m/getting-started-with-reactjs-what-why-and-how-39if)
-- [How Smartwatches and Smartphones Count Your Steps: The Technology Behind Pedometers](https://dev.to/grenishrai/how-smartwatches-and-smartphones-count-your-steps-the-technology-behind-pedometers-514p)
-- [Adam Savage&#39;s Tested: Why There&#39;s a Saree at Smithsonian&#39;s @airandspace Museum](https://dev.to/maker_youtube/adam-savages-tested-why-theres-a-saree-at-smithsonians-airandspace-museum-1l6j)
-- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
+- [What tool do you use to automate code review?](https://dev.to/kielson_zinndasilva_488/what-tool-do-you-use-to-automate-code-review-14cg)
+- [[Boost]](https://dev.to/ben/-55h)
+- [&quot;Just Starting Out – My Machine Learning Journey 🚀&quot;](https://dev.to/muskanverma024/just-starting-out-my-machine-learning-journey--2c7h)
+- [Create the React App](https://dev.to/m_ramavel_8d478add09a105c/create-the-react-app-543)
 <!-- BLOG-POST-LIST:END -->
 
