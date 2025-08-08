@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mina The Hollower Gameplay on Nintendo Switch 2](https://dev.to/gg_news/ign-mina-the-hollower-gameplay-on-nintendo-switch-2-352h)
-- [Ringer Movies: ‘Weapons’ Is Why We Go to the Movies, With Zach Cregger! | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-weapons-is-why-we-go-to-the-movies-with-zach-cregger-the-big-picture-2718)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3856)
-- [The Physical Internet Is Coming](https://dev.to/mikhailliublin/the-physical-internet-is-coming-4adb)
+- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
+- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
+- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
+- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
 <!-- BLOG-POST-LIST:END -->
 
