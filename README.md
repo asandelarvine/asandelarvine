@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
-- [Qyra AI - AI Customer Support Chatbot](https://dev.to/codertacina/ai-customer-support-chatbot-1pda)
-- [Day 41/180 of Frontend Dev: Styling Forms and Tables](https://dev.to/code_2/day-41180-of-frontend-dev-styling-forms-and-tables-56he)
-- [Data Science Resume Feedback and Semantic Job Recommendation System](https://dev.to/eric_mariasis_39a2ea00e17/data-science-resume-feedback-and-semantic-job-recommendation-system-3fma)
+- [Case Study – Automating an ETL Pipeline with MCP](https://dev.to/om_shree_0709/case-study-automating-an-etl-pipeline-with-mcp-55cp)
+- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
+- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
+- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
 <!-- BLOG-POST-LIST:END -->
 
