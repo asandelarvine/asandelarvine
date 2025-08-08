@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
-- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
-- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
+- [The Backbone of IT: Understanding the Role of a System Administrator](https://dev.to/christiana_orji/the-backbone-of-it-understanding-the-role-of-a-system-administrator-4mg7)
+- [The Complete Guide to ElevenLabs Plans Overages and Usage Based Pricing](https://dev.to/flexprice_8116ed925/the-complete-guide-to-elevenlabs-plans-overages-and-usage-based-pricing-3jam)
+- [VibeTDD Experiment 4.1: Project Setup and the Automation Reality Check](https://dev.to/maksim_matlakhov/vibetdd-experiment-41-project-setup-and-the-automation-reality-check-5f)
+- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-2jab)
 <!-- BLOG-POST-LIST:END -->
 
