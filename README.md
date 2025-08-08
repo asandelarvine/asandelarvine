@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What tool do you use to automate code review?](https://dev.to/kielson_zinndasilva_488/what-tool-do-you-use-to-automate-code-review-14cg)
-- [[Boost]](https://dev.to/ben/-55h)
-- [&quot;Just Starting Out – My Machine Learning Journey 🚀&quot;](https://dev.to/muskanverma024/just-starting-out-my-machine-learning-journey--2c7h)
-- [Create the React App](https://dev.to/m_ramavel_8d478add09a105c/create-the-react-app-543)
+- [Packet Sniffing 101: How to Focus on a Specific Wi-Fi Network](https://dev.to/rijultp/packet-sniffing-101-how-to-focus-on-a-specific-wi-fi-network-2154)
+- [2025 macOS Development Environment Setup Guide](https://dev.to/binbingoloo/2025-macos-development-environment-setup-guide-4jj0)
+- [Day 9 of #30DaysOfCode](https://dev.to/justacoder_0x/day-9-of-30daysofcode-fb0)
+- [CSS: the language with no syntax](https://dev.to/matthewdean/css-the-language-with-no-syntax-oom)
 <!-- BLOG-POST-LIST:END -->
 
