@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Best Practices for Remote Work Success in 2025](https://dev.to/fluidwave/9-best-practices-for-remote-work-success-in-2025-2fml)
-- [I Built a Fast, Privacy-Friendly Base64 Tool for Developers — No Ads, Just Pure Utility](https://dev.to/nattee_kotsomnuan_cf7db0a/i-built-a-fast-privacy-friendly-base64-tool-for-developers-no-ads-just-pure-utility-3fbe)
-- [Build a Fast NLP Pipeline with Modern Text Tokenizer in C++](https://dev.to/mecanik/build-a-fast-nlp-pipeline-with-modern-text-tokenizer-in-c-17b6)
-- [Tired of Being Blocked? How to Get on the Digital &quot;ISP Whitelist&quot;](https://dev.to/ipshiftdaily_e7d728ba133d/tired-of-being-blocked-how-to-get-on-the-digital-isp-whitelist-2d89)
+- [Fine-Tuning: Unlocking Precision and Performance in AI Models](https://dev.to/cyfutureai/fine-tuning-unlocking-precision-and-performance-in-ai-models-1l6d)
+- [Optimizing JVM Memory Footprint for High-Throughput Stream Processing Pipelines](https://dev.to/xuan_56087d315ff4f52254e6/optimizing-jvm-memory-footprint-for-high-throughput-stream-processing-pipelines-43f4)
+- [🕵️‍♂️ The Silent Bug That Wastes Hours — and How to Kill It](https://dev.to/rajguru_yadav_56d13a7b8fc/the-silent-bug-that-wastes-hours-and-how-to-kill-it-23kf)
+- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
 <!-- BLOG-POST-LIST:END -->
 
