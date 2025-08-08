@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strategy Behind Vennar Builds capes&#39; Bold New Identity by Creador Designs From a Name to a Brand: The Challenge](https://dev.to/creadoedesign_dc8b68907e86/the-strategy-behind-vennar-builds-capes-bold-new-identity-by-creador-designs-from-a-name-to-a-3mh5)
-- [String, StringBuilder and StringBuffer: An Analogy](https://dev.to/sharique_siddiqui_8242dad/string-stringbuilder-and-stringbuffer-an-analogy-ogh)
-- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
-- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
+- [setup arch + hyprland yesterday. gonna rice it up &amp; setup docker &amp; stuff on it~](https://dev.to/999satya/setup-arch-hyprland-yesterday-gonna-rice-it-up-setup-docker-stuff-on-it-52pe)
+- [Generating Dynamic Avatars in Angular Using DiceBear.](https://dev.to/davidongora/generating-dynamic-avatars-in-angular-using-dicebear-3npp)
+- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
+- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
 <!-- BLOG-POST-LIST:END -->
 
