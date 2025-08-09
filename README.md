@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot para ajudar a melhorar a conversão em inglês&lpar;gratuito&rpar;](https://dev.to/tiago123456789/chatbot-para-ajudar-a-melhorar-a-conversao-em-inglesgratuito-55dm)
-- [Day 10 0f #30DaysOfCode](https://dev.to/justacoder_0x/day-10-0f-30daysofcode-go9)
-- [Docker Persistence: When and How to Keep Your Container Data](https://dev.to/farben95/docker-persistence-when-and-how-to-keep-your-container-data-1b2l)
-- [AWS Lambda Deployment Made Easy with GitHub Actions](https://dev.to/hoangquochung1110/aws-lambda-deployment-made-easy-with-github-actions-57e)
+- [CLIP-Powered Multi-Modal Search with Redis Vector Index and Graph](https://dev.to/leoantony72/clip-powered-multi-modal-search-with-redis-vector-index-and-graph-4ple)
+- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
+- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
+- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
 <!-- BLOG-POST-LIST:END -->
 
