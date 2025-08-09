@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
-- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
-- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
-- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
+- [Redis-Powered Multi-Agent AI Workflow: Orchestrating Claude Code Instances for Concurrent Software Development](https://dev.to/fooooorrest/redis-powered-multi-agent-ai-workflow-orchestrating-claude-code-instances-for-concurrent-software-dbh)
+- [NOTGPT.NET - Premium AI for Everyone](https://dev.to/jaron_79b2943d7acc9e3c74e/notgptnet-premium-ai-for-everyone-1ge1)
+- [SuperClaude 核心命令快捷键指南](https://dev.to/dragon72463399/superclaude-he-xin-ming-ling-kuai-jie-jian-zhi-nan-4ckj)
+- [Flutter Lesson 8: Routing and Navigation](https://dev.to/jige2025/flutter-lesson-8-routing-and-navigation-4hgl)
 <!-- BLOG-POST-LIST:END -->
 
