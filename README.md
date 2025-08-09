@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLIP-Powered Multi-Modal Search with Redis Vector Index and Graph](https://dev.to/leoantony72/clip-powered-multi-modal-search-with-redis-vector-index-and-graph-4ple)
-- [Part 3: Why You Should Care About Data!!](https://dev.to/sanaipei001/part-3-why-you-should-care-about-data-5c6j)
-- [Part 2:The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
-- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
+- [AidBridge: Real-Time Disaster Assistance System &lpar;Redis Challenge Submission&rpar;](https://dev.to/tenzin_lama_da57fe1fc4ad7/aidbridge-real-time-disaster-assistance-system-redis-challenge-submission-52lo)
+- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
+- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
+- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
 <!-- BLOG-POST-LIST:END -->
 
