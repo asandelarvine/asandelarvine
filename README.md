@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Overcome Limiting Beliefs and Change Your Life](https://dev.to/lifepurposeapp/how-to-overcome-limiting-beliefs-and-change-your-life-2jl8)
-- [Complete Guide to Error Handling in Next.js: From Basics to Best Practices](https://dev.to/sudiip__17/complete-guide-to-error-handling-in-nextjs-from-basics-to-best-practices-4ahm)
-- [AWS VPC to ECS – Day 1: Apna VPC Banaate Hain! 😎](https://dev.to/aws-builders/aws-vpc-to-ecs-day-1-apna-vpc-banaate-hain-319g)
-- [Redis 8 + AI: Vector Search, Semantic Caching &amp; Streaming in Action](https://dev.to/chockalingam_rajendran_e0/redis-8-ai-vector-search-semantic-caching-streaming-in-action-13on)
+- [Will GPT-5 Replace Junior Developers? Or Just Redefine Them?](https://dev.to/talaamm/will-gpt-5-replace-junior-developers-or-just-redefine-them-588e)
+- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
+- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
+- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
 <!-- BLOG-POST-LIST:END -->
 
