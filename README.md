@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built with Redis, AI, and lots of coffee ☕ — check out my collaborative IDE challenge submission!](https://dev.to/mouhamed_mbengue_16e44c2f/built-with-redis-ai-and-lots-of-coffee-check-out-my-collaborative-ide-challenge-submission-1ffp)
-- [🛠️ Building a Collaborative IDE with Redis as the Primary Database *A Redis AI Challenge Submission*](https://dev.to/mouhamed_mbengue_16e44c2f/building-a-collaborative-ide-with-redis-as-the-primary-database-a-redis-ai-challenge-submission-5ecm)
-- [Refining Ideas &amp; Structuring the Plan #34](https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n)
-- [Linear Regression with Gradient Descent](https://dev.to/alvbarros/linear-regression-with-gradient-descent-39p1)
+- [TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack](https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2)
+- [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
+- [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
+- [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
 <!-- BLOG-POST-LIST:END -->
 
