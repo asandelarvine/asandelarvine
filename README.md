@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack](https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2)
-- [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
-- [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
-- [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
+- [Soon on AppStore :&rpar;](https://dev.to/getappsai/soon-on-appstore--16dl)
+- [Implementing Resource Versioning in Conveyor CI](https://dev.to/jimjunior/implementing-resource-versioning-in-conveyor-ci-1pn2)
+- [How LLMs Transform Language into Vectors: The Power of Embeddings](https://dev.to/cristiansifuentes/how-llms-transform-language-into-vectors-the-power-of-embeddings-programming-ai-llms-1p5d)
+- [Unlocking the Future: How AI-Powered Multi-Agent Research Pipelines Are Revolutionizing Insights](https://dev.to/jay_all_day/unlocking-the-future-how-ai-powered-multi-agent-research-pipelines-are-revolutionizing-insights-5cn2)
 <!-- BLOG-POST-LIST:END -->
 
