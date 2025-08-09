@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will GPT-5 Replace Junior Developers? Or Just Redefine Them?](https://dev.to/talaamm/will-gpt-5-replace-junior-developers-or-just-redefine-them-588e)
-- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
-- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
-- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
+- [C# Language Trick – Pattern Matching](https://dev.to/hamza_zeryouh/c-language-trick-pattern-matching-54jb)
+- [💎SUID SGID AND STICKYBIT: BASICS](https://dev.to/sahillearninglinux/suid-sgid-and-stickybit-basics-4a98)
+- [The JHipster alternative for modern Spring Boot apps](https://dev.to/tleipzig/the-jhipster-alternative-for-modern-spring-boot-apps-1blg)
+- [🧠Stack vs Heap in C# &lpar;.NET Core&rpar; – Complete Guide with Examples](https://dev.to/hamza_zeryouh/stack-vs-heap-in-c-net-core-complete-guide-with-examples-1gn5)
 <!-- BLOG-POST-LIST:END -->
 
