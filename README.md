@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AidBridge: Real-Time Disaster Assistance System &lpar;Redis Challenge Submission&rpar;](https://dev.to/tenzin_lama_da57fe1fc4ad7/aidbridge-real-time-disaster-assistance-system-redis-challenge-submission-52lo)
-- [Mastering LINQ Performance: Advanced Techniques for Senior Engineers](https://dev.to/shiv_darshanrathore_402a/mastering-linq-performance-advanced-techniques-for-senior-engineers-i98)
-- [Why Service Account Impersonation is Essential for Secure and Efficient Cloud Development](https://dev.to/hikikomorineko/why-service-account-impersonation-is-essential-for-secure-and-efficient-cloud-development-jea)
-- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
+- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
+- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
+- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
+- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
 <!-- BLOG-POST-LIST:END -->
 
