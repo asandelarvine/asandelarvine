@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Monopolies to Innovation: The Promising Future of AI-Driven Startups](https://dev.to/jay_all_day/from-monopolies-to-innovation-the-promising-future-of-ai-driven-startups-daj)
-- [Ruby Data Class vs Struct](https://dev.to/kelpopko/ruby-data-class-vs-struct-44o8)
-- [Kiro – Comparison with Other Competitors for Better Understanding &lpar;Part 3&rpar;](https://dev.to/aws-builders/kiro-comparisson-with-other-similar-competitor-for-better-understaing-3dg5)
-- [I tested OpenAI GPT-5. The results were not what I expected!](https://dev.to/quintonwall/i-tested-openai-gpt-5-the-results-were-not-what-i-expected-426p)
+- [Built with Redis, AI, and lots of coffee ☕ — check out my collaborative IDE challenge submission!](https://dev.to/mouhamed_mbengue_16e44c2f/built-with-redis-ai-and-lots-of-coffee-check-out-my-collaborative-ide-challenge-submission-1ffp)
+- [🛠️ Building a Collaborative IDE with Redis as the Primary Database *A Redis AI Challenge Submission*](https://dev.to/mouhamed_mbengue_16e44c2f/building-a-collaborative-ide-with-redis-as-the-primary-database-a-redis-ai-challenge-submission-5ecm)
+- [Refining Ideas &amp; Structuring the Plan #34](https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n)
+- [Linear Regression with Gradient Descent](https://dev.to/alvbarros/linear-regression-with-gradient-descent-39p1)
 <!-- BLOG-POST-LIST:END -->
 
