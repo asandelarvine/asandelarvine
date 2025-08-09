@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Take me with you &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/take-me-with-you-my-ai-song-55ep)
-- [راهنمای جامع و کامل تنظیم پروژه در جیرا &lpar;Jira&rpar; از صفر تا صد](https://dev.to/parizad/rhnmy-jm-w-khml-tnzym-prwjh-dr-jyr-jira-z-sfr-t-sd-1hp8)
-- [Why Vibe Coding Isn&#39;t the AI Utopia You Think It Is](https://dev.to/hiruthicsha/why-vibe-coding-isnt-the-ai-utopia-you-think-it-is-1kf9)
-- [Optimize Next.js Performance with Smart Code Splitting: What to Load, When, and Why](https://dev.to/boopykiki/optimize-nextjs-performance-with-smart-code-splitting-what-to-load-when-and-why-9l1)
+- [Mastering State Management with Zustand in Modern React Applications](https://dev.to/ekwoster/mastering-state-management-with-zustand-in-modern-react-applications-1n56)
+- [How I Built an AI Tool to Fix Low-Res Images &lpar;And You Can Try It Too&rpar;](https://dev.to/na_diao_60cac081dda769dab/how-i-built-an-ai-tool-to-fix-low-res-images-and-you-can-try-it-too-32gi)
+- [VibeTDD Experiment 4.2: From Specs to Stories to Tasks - AI as Business Analyst](https://dev.to/maksim_matlakhov/vibetdd-experiment-42-from-specs-to-stories-to-tasks-ai-as-business-analyst-5fk8)
+- [💡 Pro-Level Next.js + Strapi Tips &lpar;Beginner-Friendly but Boss-Level&rpar;](https://dev.to/arunacha_dinesh/pro-level-nextjs-strapi-tips-beginner-friendly-but-boss-level-3p54)
 <!-- BLOG-POST-LIST:END -->
 
