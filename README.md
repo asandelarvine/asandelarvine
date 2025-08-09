@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
-- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
-- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
-- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
+- [From Monopolies to Innovation: The Promising Future of AI-Driven Startups](https://dev.to/jay_all_day/from-monopolies-to-innovation-the-promising-future-of-ai-driven-startups-daj)
+- [Ruby Data Class vs Struct](https://dev.to/kelpopko/ruby-data-class-vs-struct-44o8)
+- [Kiro – Comparison with Other Competitors for Better Understanding &lpar;Part 3&rpar;](https://dev.to/aws-builders/kiro-comparisson-with-other-similar-competitor-for-better-understaing-3dg5)
+- [I tested OpenAI GPT-5. The results were not what I expected!](https://dev.to/quintonwall/i-tested-openai-gpt-5-the-results-were-not-what-i-expected-426p)
 <!-- BLOG-POST-LIST:END -->
 
