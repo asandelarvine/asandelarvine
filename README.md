@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable .NET 8 Web API: Clean Architecture + CQRS + JWT + PostgreSQL + Redis - A Complete Guide](https://dev.to/iamcymentho/building-a-scalable-net-8-web-api-clean-architecture-cqrs-jwt-postgresql-redis-a-5bpj)
-- [How to Write Location Pages That Dominate Local SEO in 2025](https://dev.to/sadiqsaleem/how-to-write-location-pages-that-dominate-local-seo-in-2025-3m2p)
-- [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
-- [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
+- [How to Overcome Limiting Beliefs and Change Your Life](https://dev.to/lifepurposeapp/how-to-overcome-limiting-beliefs-and-change-your-life-2jl8)
+- [Complete Guide to Error Handling in Next.js: From Basics to Best Practices](https://dev.to/sudiip__17/complete-guide-to-error-handling-in-nextjs-from-basics-to-best-practices-4ahm)
+- [AWS VPC to ECS – Day 1: Apna VPC Banaate Hain! 😎](https://dev.to/aws-builders/aws-vpc-to-ecs-day-1-apna-vpc-banaate-hain-319g)
+- [Redis 8 + AI: Vector Search, Semantic Caching &amp; Streaming in Action](https://dev.to/chockalingam_rajendran_e0/redis-8-ai-vector-search-semantic-caching-streaming-in-action-13on)
 <!-- BLOG-POST-LIST:END -->
 
