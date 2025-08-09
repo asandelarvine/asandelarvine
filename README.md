@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study – Automating an ETL Pipeline with MCP](https://dev.to/om_shree_0709/case-study-automating-an-etl-pipeline-with-mcp-55cp)
-- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
-- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
-- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
+- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
+- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
+- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
+- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
 <!-- BLOG-POST-LIST:END -->
 
