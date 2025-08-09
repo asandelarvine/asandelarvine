@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering State Management with Zustand in Modern React Applications](https://dev.to/ekwoster/mastering-state-management-with-zustand-in-modern-react-applications-1n56)
-- [How I Built an AI Tool to Fix Low-Res Images &lpar;And You Can Try It Too&rpar;](https://dev.to/na_diao_60cac081dda769dab/how-i-built-an-ai-tool-to-fix-low-res-images-and-you-can-try-it-too-32gi)
-- [VibeTDD Experiment 4.2: From Specs to Stories to Tasks - AI as Business Analyst](https://dev.to/maksim_matlakhov/vibetdd-experiment-42-from-specs-to-stories-to-tasks-ai-as-business-analyst-5fk8)
-- [💡 Pro-Level Next.js + Strapi Tips &lpar;Beginner-Friendly but Boss-Level&rpar;](https://dev.to/arunacha_dinesh/pro-level-nextjs-strapi-tips-beginner-friendly-but-boss-level-3p54)
+- [Building a Scalable .NET 8 Web API: Clean Architecture + CQRS + JWT + PostgreSQL + Redis - A Complete Guide](https://dev.to/iamcymentho/building-a-scalable-net-8-web-api-clean-architecture-cqrs-jwt-postgresql-redis-a-5bpj)
+- [How to Write Location Pages That Dominate Local SEO in 2025](https://dev.to/sadiqsaleem/how-to-write-location-pages-that-dominate-local-seo-in-2025-3m2p)
+- [I&#39;m building a new approach to frontend web development. It&#39;s meant to be a React killer, as well as a killer of other frameworks.](https://dev.to/isumix/im-building-a-new-approach-to-frontend-web-development-its-meant-to-be-a-react-killer-as-well-152k)
+- [Oracle: The Bridge Between the Real World and the Blockchain](https://dev.to/loading_blocks/oracle-the-bridge-between-the-real-world-and-the-blockchain-4kea)
 <!-- BLOG-POST-LIST:END -->
 
