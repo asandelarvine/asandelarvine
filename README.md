@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched from Windows to macOS: A Technical and Practical Evaluation](https://dev.to/tracywhodoesnot/why-i-switched-from-windows-to-macos-a-technical-and-practical-evaluation-10dg)
-- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
-- [Day 15 – Data Analytics Journey !](https://dev.to/ramyacse/day-15-data-analytics-journey--4bij)
-- [Get from Zero To Hero in Foundry - Part 1: Getting Started](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-1-getting-started-57h8)
+- [Chatbot para ajudar a melhorar a conversão em inglês&lpar;gratuito&rpar;](https://dev.to/tiago123456789/chatbot-para-ajudar-a-melhorar-a-conversao-em-inglesgratuito-55dm)
+- [Day 10 0f #30DaysOfCode](https://dev.to/justacoder_0x/day-10-0f-30daysofcode-go9)
+- [Docker Persistence: When and How to Keep Your Container Data](https://dev.to/farben95/docker-persistence-when-and-how-to-keep-your-container-data-1b2l)
+- [AWS Lambda Deployment Made Easy with GitHub Actions](https://dev.to/hoangquochung1110/aws-lambda-deployment-made-easy-with-github-actions-57e)
 <!-- BLOG-POST-LIST:END -->
 
