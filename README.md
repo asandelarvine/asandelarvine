@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Millennial&#39;s Bug: Healing through html](https://dev.to/davesommerville/the-millennials-bug-healing-through-html-2bod)
-- [Are we overcomplicating web development?](https://dev.to/gods_wyll/are-we-overcomplicating-web-development-1bi7)
-- [🗼Beginners guide to &quot;Leetcode 231: Power of Two&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-231-power-of-twoc-javascript-python-1c3g)
-- [Unitree unveils A2 quadruped robot with front and rear lidar for enhanced terrain navigation](https://dev.to/ytosko/unitree-unveils-a2-quadruped-robot-with-front-and-rear-lidar-for-enhanced-terrain-navigation-1iko)
+- [Why I Switched from Windows to macOS: A Technical and Practical Evaluation](https://dev.to/tracywhodoesnot/why-i-switched-from-windows-to-macos-a-technical-and-practical-evaluation-10dg)
+- [I Built a Leadership Simulator for Aspiring Tech Leads &lpar;And Why The Soft Skills Matter Most&rpar;](https://dev.to/dalenguyen/i-built-a-leadership-simulator-for-aspiring-tech-leads-and-why-the-soft-skills-matter-most-4ngo)
+- [Day 15 – Data Analytics Journey !](https://dev.to/ramyacse/day-15-data-analytics-journey--4bij)
+- [Get from Zero To Hero in Foundry - Part 1: Getting Started](https://dev.to/abhiramelf/get-from-zero-to-hero-in-foundry-part-1-getting-started-57h8)
 <!-- BLOG-POST-LIST:END -->
 
