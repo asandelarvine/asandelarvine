@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Language Trick – Pattern Matching](https://dev.to/hamza_zeryouh/c-language-trick-pattern-matching-54jb)
-- [💎SUID SGID AND STICKYBIT: BASICS](https://dev.to/sahillearninglinux/suid-sgid-and-stickybit-basics-4a98)
-- [The JHipster alternative for modern Spring Boot apps](https://dev.to/tleipzig/the-jhipster-alternative-for-modern-spring-boot-apps-1blg)
-- [🧠Stack vs Heap in C# &lpar;.NET Core&rpar; – Complete Guide with Examples](https://dev.to/hamza_zeryouh/stack-vs-heap-in-c-net-core-complete-guide-with-examples-1gn5)
+- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
+- [Part 2: Web Server Mastery - Serving Static Content Like a Pro](https://dev.to/unkletayo/part-2-web-server-mastery-serving-static-content-like-a-pro-1m0i)
+- [The Latest in AI: What&#39;s New in 2025?](https://dev.to/akash_b_c199ad2152bbac3f0/the-latest-in-ai-whats-new-in-2025-3dca)
+- [How to Copy a View Only Google Doc?](https://dev.to/theoriginalcopywriter/how-to-copy-a-view-only-google-doc-2593)
 <!-- BLOG-POST-LIST:END -->
 
