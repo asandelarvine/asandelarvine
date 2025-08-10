@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor](https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg)
-- [productivity app](https://dev.to/akshay_mohan_3be14a36564c/productivity-app-48p8)
-- [Everyone is planning to build an AI based business, but rarely do people tell us what we need to build an AI business. Here are my top 5 learnings when I was building the ReThynk AI company from scratch.](https://dev.to/jaideepparashar/everyone-is-planning-to-build-an-ai-based-business-but-rarely-do-people-tell-us-what-we-need-to-4pid)
-- [Part 9:Visualizing Data That Speaks](https://dev.to/sanaipei001/part-9visualizing-data-that-speaks-436d)
+- [7 Git Commands You Probably Don’t Know &lpar;But Should&rpar;](https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl)
+- [MY FAST PROGRAMMING , html,css,nextjs . and before python](https://dev.to/vivek_kumar_7590376/my-fast-programming-htmlcssnextjs-and-before-python-3lpk)
+- [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
 <!-- BLOG-POST-LIST:END -->
 
