@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
-- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
-- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
-- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
+- [Deeply Integrating Google Tag Manager: A Complete Guide to Smarter Website Analytics 🚀](https://dev.to/buildandcodewithraman/deeply-integrating-google-tag-manager-a-complete-guide-to-smarter-website-analytics-52b4)
+- [Rust Async Web Framework Performance Breakthrough&lpar;3858&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough3858-3m9f)
+- [GSoC Week 10 – The Week of… Well, Distractions](https://dev.to/jatsuakayashvant/gsoc-week-10-the-week-of-well-distractions-1pg7)
+- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 <!-- BLOG-POST-LIST:END -->
 
