@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MPLS Fundamentals](https://dev.to/godofgeeks/mpls-fundamentals-d72)
-- [Building a Layered Security System to Prevent Cyber Attacks in Corporate Environments](https://dev.to/hejhdiss/building-a-layered-security-system-to-prevent-cyber-attacks-in-corporate-environments-2l3c)
-- [INSTEAD OF Triggers in Oracle](https://dev.to/mrcaption49/instead-of-triggers-in-oracle-1p96)
-- [Global Temporary Table &lpar;GTT&rpar; named session_transactions using the ON COMMIT PRESERVE ROWS](https://dev.to/mrcaption49/global-temporary-table-gtt-named-sessiontransactions-using-the-on-commit-preserve-rows-102e)
+- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
+- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
+- [HTML Structure: Elements, Tags, and Attributes](https://dev.to/sharique_siddiqui_8242dad/html-structure-elements-tags-and-attributes-a13)
+- [As a New Hire, I&#39;m Leading the Company Platform&#39;s Facial Authentication System Development](https://dev.to/wintrover/as-a-new-hire-im-leading-the-company-platforms-facial-authentication-system-development-1nfo)
 <!-- BLOG-POST-LIST:END -->
 
