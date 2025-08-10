@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
-- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
-- [HTML Structure: Elements, Tags, and Attributes](https://dev.to/sharique_siddiqui_8242dad/html-structure-elements-tags-and-attributes-a13)
-- [As a New Hire, I&#39;m Leading the Company Platform&#39;s Facial Authentication System Development](https://dev.to/wintrover/as-a-new-hire-im-leading-the-company-platforms-facial-authentication-system-development-1nfo)
+- [Kubernetes Architecture Tour Clusters Purposes](https://dev.to/giridharan_devops/kubernetes-architecture-tour-clusters-purposes-51d)
+- [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
+- [RefPerSys inference engine project](https://dev.to/bstarynk/refpersys-inference-engine-project-4gan)
+- [🚀 My Enterprise React Boilerplate – Built from Lessons Learned in Real Projects](https://dev.to/hoang21099/my-enterprise-react-boilerplate-built-from-lessons-learned-in-real-projects-34p)
 <!-- BLOG-POST-LIST:END -->
 
