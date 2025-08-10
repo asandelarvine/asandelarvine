@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 1](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-1-n5f)
-- [Construindo DApps com Web3.js](https://dev.to/lucaspereiradesouzat/construindo-dapps-com-web3js-5e35)
-- [Node.js](https://dev.to/lourdessuello/nodejs-5cc0)
-- [🌍 De Moçambique para toda a Lusofonia Tech — Minha experiência no GDG Maputo 2025](https://dev.to/arnaldo/de-mocambique-para-toda-a-lusofonia-tech-minha-experiencia-no-gdg-maputo-2025-3938)
+- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
+- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
+- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
+- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
 <!-- BLOG-POST-LIST:END -->
 
