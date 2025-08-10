@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [o4-mini vs. o4-mini-high: when to choose each &lpar;and why it matters&rpar;](https://dev.to/hernandezmario2314/o4-mini-vs-o4-mini-high-when-to-choose-each-and-why-it-matters-32hh)
-- [Mastering Data Engineering: 15 Essential Concepts for Building Reliable and Scalable Data Systems](https://dev.to/fredmunjogu/mastering-data-engineering-15-essential-concepts-for-building-reliable-and-scalable-data-systems-24bd)
-- [15 Data Engineering Core Concepts Simplified](https://dev.to/walnold/15-data-engineering-core-concepts-simplified-5fo3)
-- [Cross-Platform Web Development Without Compromise&lpar;1462&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise1462-3oi0)
+- [SAS Token - Secure way](https://dev.to/uttamchaturvedi9/sas-token-secure-way-1kic)
+- [How I Built a Web Photo Booth with JavaScript, Canvas, and Filters](https://dev.to/bhavya_shukla_6e5b3b7741f/how-i-built-a-web-photo-booth-with-javascript-canvas-and-filters-387a)
+- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
+- [What concepts should I master to be a Data Engineer?](https://dev.to/kihoro_codes_c959f8c68a9c/what-concepts-should-i-master-to-be-a-data-engineer-1chp)
 <!-- BLOG-POST-LIST:END -->
 
