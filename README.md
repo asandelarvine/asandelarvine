@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soon on AppStore :&rpar;](https://dev.to/getappsai/soon-on-appstore--16dl)
-- [Implementing Resource Versioning in Conveyor CI](https://dev.to/jimjunior/implementing-resource-versioning-in-conveyor-ci-1pn2)
-- [How LLMs Transform Language into Vectors: The Power of Embeddings](https://dev.to/cristiansifuentes/how-llms-transform-language-into-vectors-the-power-of-embeddings-programming-ai-llms-1p5d)
-- [Unlocking the Future: How AI-Powered Multi-Agent Research Pipelines Are Revolutionizing Insights](https://dev.to/jay_all_day/unlocking-the-future-how-ai-powered-multi-agent-research-pipelines-are-revolutionizing-insights-5cn2)
+- [I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp)
+- [The Hidden Risks of AI in Gaming Age Checks: What Parents Must Know](https://dev.to/jay_all_day/the-hidden-risks-of-ai-in-gaming-age-checks-what-parents-must-know-4d2f)
+- [Go Interfaces - Composition Over Inheritance &lpar;And Common Sense&rpar;](https://dev.to/gkoos/go-interfaces-composition-over-inheritance-and-common-sense-12i4)
+- [Cara Mempelajari Earl Bahasa Pemrograman](https://dev.to/dev_nazwashabrina/cara-mempelajari-earl-bahasa-pemrograman-15mj)
 <!-- BLOG-POST-LIST:END -->
 
