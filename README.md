@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Reverse Routing: Playing The Old Course Backwards](https://dev.to/youtube_golf/golfcom-reverse-routing-playing-the-old-course-backwards-25pc)
-- [IGN: Captain Wayne: Vacation Desperation - Official Endless Demo Trailer](https://dev.to/gg_news/ign-captain-wayne-vacation-desperation-official-endless-demo-trailer-26ko)
-- [IGN: Fellowship - Official &#39;Meet Mara&#39; Trailer](https://dev.to/gg_news/ign-fellowship-official-meet-mara-trailer-3poi)
-- [🎯 LiveCaption AI: Real-Time Accessibility Platform with Redis-Powered Intelligence](https://dev.to/arya_koste_5845807df94776/livecaption-ai-real-time-accessibility-platform-with-redis-powered-intelligence-lbp)
+- [🔧 Part 2: Advanced - OpenAI Function Calling &amp; Iterative Search](https://dev.to/abdelrahman_adnan/part-2-advanced-openai-function-calling-iterative-search-dm6)
+- [🏗️ Part 1: Foundation - Basic RAG and Agentic Concepts](https://dev.to/abdelrahman_adnan/part-1-foundation-basic-rag-and-agentic-concepts-1gik)
+- [Reinforcement Learning: Multi-Armed Bandits](https://dev.to/zachary62/reinforcement-learning-multi-armed-bandits-4c5l)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
 <!-- BLOG-POST-LIST:END -->
 
