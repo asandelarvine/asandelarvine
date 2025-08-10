@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Building a Cyber Security Plan for Small Businesses](https://dev.to/terminaltools/a-beginners-guide-to-building-a-cyber-security-plan-for-small-businesses-312i)
-- [Asynchronous Programming Patterns for Web Development&lpar;5515&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development5515-ook)
-- [What Are the Biggest Challenges in Unit Testing and How to Solve Them?](https://dev.to/alok_e75d0463248211c2ca56/what-are-the-biggest-challenges-in-unit-testing-and-how-to-solve-them-2i0k)
-- [Offline File Sharing for Developers — Why It Still Matters in 2025](https://dev.to/sheila_wkeith_822b28732/offline-file-sharing-for-developers-why-it-still-matters-in-2025-2n0k)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
+- [🧠OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
+- [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
+- [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
 <!-- BLOG-POST-LIST:END -->
 
