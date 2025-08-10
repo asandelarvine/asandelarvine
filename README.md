@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel&#39;s strengths and weaknesses in predictive analysis and the role 0fin making data-driven business decisions:](https://dev.to/anaya_manwa_cdff7d1921385/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-0fin-making-data-driven-1630)
-- [Elegant Middleware Architecture Implementation&lpar;0619&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation0619-35oi)
-- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
-- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
+- [A Beginner’s Guide to Building a Cyber Security Plan for Small Businesses](https://dev.to/terminaltools/a-beginners-guide-to-building-a-cyber-security-plan-for-small-businesses-312i)
+- [Asynchronous Programming Patterns for Web Development&lpar;5515&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development5515-ook)
+- [What Are the Biggest Challenges in Unit Testing and How to Solve Them?](https://dev.to/alok_e75d0463248211c2ca56/what-are-the-biggest-challenges-in-unit-testing-and-how-to-solve-them-2i0k)
+- [Offline File Sharing for Developers — Why It Still Matters in 2025](https://dev.to/sheila_wkeith_822b28732/offline-file-sharing-for-developers-why-it-still-matters-in-2025-2n0k)
 <!-- BLOG-POST-LIST:END -->
 
