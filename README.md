@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Architecture Tour Clusters Purposes](https://dev.to/giridharan_devops/kubernetes-architecture-tour-clusters-purposes-51d)
-- [The Future of Personal Branding in an AI-Dominated Industry: How to Stay Irreplaceable](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-personal-branding-in-an-ai-dominated-industry-how-to-stay-irreplaceable-2fgj)
-- [RefPerSys inference engine project](https://dev.to/bstarynk/refpersys-inference-engine-project-4gan)
-- [🚀 My Enterprise React Boilerplate – Built from Lessons Learned in Real Projects](https://dev.to/hoang21099/my-enterprise-react-boilerplate-built-from-lessons-learned-in-real-projects-34p)
+- [Revolutionizing DevOps with Ansible: The Future of Automated Infrastructure](https://dev.to/vjnvisakh/revolutionizing-devops-with-ansible-the-future-of-automated-infrastructure-de2)
+- [The Certificate Trap That&#39;s Killing Developer Careers in India 💀](https://dev.to/shiva_shanker_k/the-certificate-trap-thats-killing-developer-careers-in-india-ghd)
+- [High-Performance Routing System Design and Implementation&lpar;9173&rpar;](https://dev.to/socket-use/high-performance-routing-system-design-and-implementation9173-3h7j)
+- [Blockchain and Cryptocurrency Security: DeFi Protocol Analysis](https://dev.to/rafalw3bcraft/blockchain-and-cryptocurrency-security-defi-protocol-analysis-50f9)
 <!-- BLOG-POST-LIST:END -->
 
