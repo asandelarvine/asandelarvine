@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
-- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
-- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
-- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;7559&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times7559-3ccn)
+- [Laravel Security Guide: How to Fix These 6 Common Mistakes](https://dev.to/burtds/laravel-security-guide-how-to-fix-these-6-common-mistakes-bpp)
+- [Anonymous Structures in C](https://dev.to/pauljlucas/anonymous-structures-in-c-2ebk)
+- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
 <!-- BLOG-POST-LIST:END -->
 
