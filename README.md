@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Kubestronaut Cloud Native Golden Way 😎](https://dev.to/giridharan_devops/kubestronaut-cloud-native-golden-way-2ae9)
-- [📢 Calling All Developers — We Need Your Insights](https://dev.to/adithya-balan/calling-all-developers-we-need-your-insights-1dje)
-- [Challenge the world](https://dev.to/yunusrabiu411/challenge-the-world-k7k)
-- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
+- [MPLS Fundamentals](https://dev.to/godofgeeks/mpls-fundamentals-d72)
+- [Building a Layered Security System to Prevent Cyber Attacks in Corporate Environments](https://dev.to/hejhdiss/building-a-layered-security-system-to-prevent-cyber-attacks-in-corporate-environments-2l3c)
+- [INSTEAD OF Triggers in Oracle](https://dev.to/mrcaption49/instead-of-triggers-in-oracle-1p96)
+- [Global Temporary Table &lpar;GTT&rpar; named session_transactions using the ON COMMIT PRESERVE ROWS](https://dev.to/mrcaption49/global-temporary-table-gtt-named-sessiontransactions-using-the-on-commit-preserve-rows-102e)
 <!-- BLOG-POST-LIST:END -->
 
