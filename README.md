@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;7559&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times7559-3ccn)
-- [Laravel Security Guide: How to Fix These 6 Common Mistakes](https://dev.to/burtds/laravel-security-guide-how-to-fix-these-6-common-mistakes-bpp)
-- [Anonymous Structures in C](https://dev.to/pauljlucas/anonymous-structures-in-c-2ebk)
-- [Typing Challenge - realtime typing leaderboard, analytics, and active typers powered by Redis](https://dev.to/masud_ali_cc66779de0c2b2/typing-challenge-realtime-typing-leaderboard-analytics-and-active-typers-powered-by-redis-4ieb)
+- [The Proxy Playbook: Building Fast, Secure Middle Layers in Go](https://dev.to/lovestaco/the-proxy-playbook-building-fast-secure-middle-layers-in-go-1jc5)
+- [Is GPT-5 Better than Claude 4.1, Grok 4, and Gemini 2.5 Pro in 2025?](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-better-than-claude-41-grok-4-and-gemini-25-pro-in-2025-2gd1)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;0117&rpar;](https://dev.to/socket-use/production-deployment-strategies-for-high-performance-web-services0117-hf7)
+- [Confessions of a DevOps Noob Who Tried to pick a K8S Service CIDR from an Azure Subnet 🤦‍♂️](https://dev.to/victorthegreat7/confessions-of-a-devops-noob-who-tried-to-pick-a-k8s-service-cidr-from-an-azure-subnet-43i0)
 <!-- BLOG-POST-LIST:END -->
 
