@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Time](https://dev.to/adamghill/making-time-4ij0)
-- [Daily Coding Challenge: Height of a Binary Tree](https://dev.to/firecodeio/daily-coding-challenge-height-of-a-binary-tree-pf4)
-- [Stop spending hours tweaking Shadcn UI themes — meet ShadeCraft](https://dev.to/raihan_binislam_238ce67f/stop-spending-hours-tweaking-shadcn-ui-themes-meet-shadecraft-fb3)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;2842&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework2842-49f4)
+- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-1-4ah4)
+- [Building DiskiPred: A Fullstack Football Match Prediction Platform](https://dev.to/master_ngunezi_c689b59032/building-diskipred-a-fullstack-football-match-prediction-platform-i7p)
+- [ChatGPT 5: Revolution or Threat for Web Developers ?](https://dev.to/capjud95/chatgpt-5-revolution-or-threat-for-web-developers--p3)
+- [Portfolio website using Tanstack start](https://dev.to/sref/-4dnf)
 <!-- BLOG-POST-LIST:END -->
 
