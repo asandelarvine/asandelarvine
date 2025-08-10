@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deeply Integrating Google Tag Manager: A Complete Guide to Smarter Website Analytics 🚀](https://dev.to/buildandcodewithraman/deeply-integrating-google-tag-manager-a-complete-guide-to-smarter-website-analytics-52b4)
-- [Rust Async Web Framework Performance Breakthrough&lpar;3858&rpar;](https://dev.to/socket-use/rust-async-web-framework-performance-breakthrough3858-3m9f)
-- [GSoC Week 10 – The Week of… Well, Distractions](https://dev.to/jatsuakayashvant/gsoc-week-10-the-week-of-well-distractions-1pg7)
-- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
+- [Making Time](https://dev.to/adamghill/making-time-4ij0)
+- [Daily Coding Challenge: Height of a Binary Tree](https://dev.to/firecodeio/daily-coding-challenge-height-of-a-binary-tree-pf4)
+- [Stop spending hours tweaking Shadcn UI themes — meet ShadeCraft](https://dev.to/raihan_binislam_238ce67f/stop-spending-hours-tweaking-shadcn-ui-themes-meet-shadecraft-fb3)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;2842&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework2842-49f4)
 <!-- BLOG-POST-LIST:END -->
 
