@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs, MCPs, or Both? Choosing the Right AI Integration Stack](https://dev.to/apideck/apis-mcps-or-both-choosing-the-right-ai-integration-stack-b7d)
-- [[Boost]](https://dev.to/hadil/-26c3)
-- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
-- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
+- [EduForge: Turning Cultural Trends into Knowledge](https://dev.to/spandanm110/eduforge-turning-cultural-trends-into-knowledge-5ajm)
+- [How to setup nginx proxy?](https://dev.to/arbab529/how-to-setup-nginx-proxy-1keg)
+- [From Demos to Business Value: Taking Agents to Production with Amazon Bedrock AgentCore](https://dev.to/aws-builders/from-demos-to-business-value-taking-agents-to-production-with-amazon-bedrock-agentcore-2pdj)
+- [33ResearchLabs — Engineering the Future of Crypto, AI, and Web3](https://dev.to/33researchlabs/33researchlabs-engineering-the-future-of-crypto-ai-and-web3-3e7)
 <!-- BLOG-POST-LIST:END -->
 
