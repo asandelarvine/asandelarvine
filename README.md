@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI](https://dev.to/1075213/generative-ai-11i)
-- [Checkout my latest blog! I explained how to design better hero sections and transform your boring hero section into a HeroMaxxed one.](https://dev.to/developeratul/checkout-my-latest-blog-i-explained-how-to-design-better-hero-sections-and-transform-your-boring-4e8)
-- [HTB - Bastion &lpar;Windows&rpar;](https://dev.to/sonyahack1/htb-bastion-windows-34ie)
-- [How to Handle Different Measurement Systems in Your Applications](https://dev.to/srawlins/how-to-handle-different-measurement-systems-in-your-applications-2bgm)
+- [DNN CMS: Client Website Restoration Script](https://dev.to/hismightiness/dnn-cms-client-website-restoration-script-g76)
+- [Onionpipe — &quot;Onion Addresses for Anything&quot;](https://dev.to/byteknight/onionpipe-onion-addresses-for-anything-p3d)
+- [Why Learn React in 2025?](https://dev.to/a1guy/why-learn-react-in-2025-35e9)
+- [Modern React Deep Dives: The Patterns and Performance Tricks Every Developer Needs](https://dev.to/a1guy/modern-react-deep-dives-the-patterns-and-performance-tricks-every-developer-needs-4c3h)
 <!-- BLOG-POST-LIST:END -->
 
