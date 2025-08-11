@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing Data in R? Complete 2025 Guide to Imputation Techniques](https://dev.to/dipti_m_2e7ba36c478d1a48a/missing-data-in-r-complete-2025-guide-to-imputation-techniques-53g8)
-- [WebGPU Engine from Scratch Part 4: Updating the Pipeline](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-4-updating-the-pipeline-374m)
-- [Test](https://dev.to/ben/test-322n)
-- [Adding Elements to Python Sets](https://dev.to/kiani0x01/adding-elements-to-python-sets-51ej)
+- [Everyone&#39;s Sleeping on GPT-5 Mini &lpar;And It&#39;s the Only Model That Actually Matters&rpar;](https://dev.to/shayy/everyones-sleeping-on-gpt-5-mini-and-its-the-only-model-that-actually-matters-535d)
+- [10 Modern Commands for Your Terminal](https://dev.to/marcosplusplus/10-modern-commands-for-your-terminal-1dg6)
+- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
+- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
 <!-- BLOG-POST-LIST:END -->
 
