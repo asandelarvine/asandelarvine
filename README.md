@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: How Much Does @Nerdforge&#39;s Spend Per Build?](https://dev.to/maker_youtube/adam-savages-tested-how-much-does-nerdforges-spend-per-build-4i2j)
-- [Building a Lightweight Financial Reporting Tool with Python and Tkinter](https://dev.to/ghostface1582/lightweight-financial-reporting-tool-with-python-and-tkinter-4lbo)
-- [Asynchronous Programming Patterns for Web Development&lpar;5823&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development5823-1h0h)
-- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;5757&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps5757-c5e)
+- [Why We Aren&#39;t Building Another Workflow Tool: Our First-Principles Approach](https://dev.to/maybe_ai/why-we-arent-building-another-workflow-tool-our-first-principles-approach-2dil)
+- [What is AWS Aurora Serverless v2 and why we didn&#39;t use it](https://dev.to/kinde/what-is-aws-aurora-serverless-v2-and-why-we-didnt-use-it-102b)
+- [Redis AI Challenge Submission: Neural Network Performance Optimizer](https://dev.to/eng_luna/redis-ai-challenge-submission-neural-network-performance-optimizer-55ml)
 <!-- BLOG-POST-LIST:END -->
 
