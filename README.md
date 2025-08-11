@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
-- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
-- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
-- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
+- [Redis RPG - An AI Generated Game](https://dev.to/jacobhenning/redis-rpg-43fp)
+- [Redis RPG - An AI Generated Game](https://dev.to/jacobhenning/redis-rpg-4p8h)
+- [From Cache to Complete Platform: Redis 8 as My Primary Database for AI Wellness App](https://dev.to/sanket80/from-cache-to-complete-platform-redis-8-as-my-primary-database-for-ai-wellness-app-4gg2)
+- [How to Use php substr Function Easily](https://dev.to/serveravatar/how-to-use-php-substr-function-easily-5h83)
 <!-- BLOG-POST-LIST:END -->
 
