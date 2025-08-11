@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis RPG - An AI Generated Game](https://dev.to/jacobhenning/redis-rpg-43fp)
-- [Redis RPG - An AI Generated Game](https://dev.to/jacobhenning/redis-rpg-4p8h)
-- [From Cache to Complete Platform: Redis 8 as My Primary Database for AI Wellness App](https://dev.to/sanket80/from-cache-to-complete-platform-redis-8-as-my-primary-database-for-ai-wellness-app-4gg2)
-- [How to Use php substr Function Easily](https://dev.to/serveravatar/how-to-use-php-substr-function-easily-5h83)
+- [100 Days of DevOps: Day 8](https://dev.to/wycliffealphus/100-days-of-devops-day-8-3ph3)
+- [Supply Chain Attacks](https://dev.to/godofgeeks/supply-chain-attacks-d8i)
+- [Foundational Concepts of Data Engineering](https://dev.to/brian_ouchoh_f28dd3377816/foundational-concepts-of-data-engineering-5793)
+- [GPT-5 Backlash: When an Upgrade Feels Like a Downgrade](https://dev.to/hassan_d8e59ae5f5376df141/gpt-5-backlash-when-an-upgrade-feels-like-a-downgrade-2113)
 <!-- BLOG-POST-LIST:END -->
 
