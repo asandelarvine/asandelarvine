@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EduForge: Turning Cultural Trends into Knowledge](https://dev.to/spandanm110/eduforge-turning-cultural-trends-into-knowledge-5ajm)
-- [How to setup nginx proxy?](https://dev.to/arbab529/how-to-setup-nginx-proxy-1keg)
-- [From Demos to Business Value: Taking Agents to Production with Amazon Bedrock AgentCore](https://dev.to/aws-builders/from-demos-to-business-value-taking-agents-to-production-with-amazon-bedrock-agentcore-2pdj)
-- [33ResearchLabs — Engineering the Future of Crypto, AI, and Web3](https://dev.to/33researchlabs/33researchlabs-engineering-the-future-of-crypto-ai-and-web3-3e7)
+- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
+- [Docker Deployment: Dockerized Website Deployment](https://dev.to/christiana_orji/docker-deployment-dockerized-website-deployment-4ib8)
+- [Deploying a Full-Stack Monorepo &lpar;Go + React&rpar; to Sevalla: What I Learned](https://dev.to/hellskater/deploying-a-full-stack-monorepo-go-react-to-sevalla-what-i-learned-3c7o)
+- [What is Bandwidth in Cloud Hosting](https://dev.to/serveravatar/what-is-bandwidth-in-cloud-hosting-18ab)
 <!-- BLOG-POST-LIST:END -->
 
