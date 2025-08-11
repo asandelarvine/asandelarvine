@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;5757&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps5757-c5e)
-- [Why We Aren&#39;t Building Another Workflow Tool: Our First-Principles Approach](https://dev.to/maybe_ai/why-we-arent-building-another-workflow-tool-our-first-principles-approach-2dil)
-- [What is AWS Aurora Serverless v2 and why we didn&#39;t use it](https://dev.to/kinde/what-is-aws-aurora-serverless-v2-and-why-we-didnt-use-it-102b)
-- [Redis AI Challenge Submission: Neural Network Performance Optimizer](https://dev.to/eng_luna/redis-ai-challenge-submission-neural-network-performance-optimizer-55ml)
+- [Cloud Native Application and MSA](https://dev.to/juun_roh_3e5f7b7215c59f8b/cloud-native-application-and-msa-31kc)
+- [VitalSense: Real-Time Patient Triage on Redis &lpar;Streams • Search • JSON • TimeSeries&rpar;](https://dev.to/devinnicholson/vitalsense-real-time-patient-triage-on-redis-streams-search-json-timeseries-3eem)
+- [Stay ahead in web development: latest news, tools, and insights #97](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2)
+- [&quot;Build AI Agents FAST!&quot; Zero-Shot + OpenAI](https://dev.to/moni121189/build-ai-agents-fastzero-shot-openai-102i)
 <!-- BLOG-POST-LIST:END -->
 
