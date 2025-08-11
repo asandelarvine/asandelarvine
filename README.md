@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone&#39;s Sleeping on GPT-5 Mini &lpar;And It&#39;s the Only Model That Actually Matters&rpar;](https://dev.to/shayy/everyones-sleeping-on-gpt-5-mini-and-its-the-only-model-that-actually-matters-535d)
-- [10 Modern Commands for Your Terminal](https://dev.to/marcosplusplus/10-modern-commands-for-your-terminal-1dg6)
-- [10 Comandos Modernos para seu Terminal](https://dev.to/marcosplusplus/10-comandos-modernos-para-seu-terminal-5bgp)
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-divers-in-the-world-peter-finch-vs-martin-borgmeier--4lgp)
+- [INTRODUCTION TO HTML, CSS AND JAVASCRIPT](https://dev.to/gustavo_assis_a7afc177e90/introduction-to-html-css-and-javascript-51gi)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-3cbd)
+- [⚖️ Choosing Between Type I and Type II Errors](https://dev.to/datawithnaomi/choosing-between-type-i-and-type-ii-errors-58nk)
+- [Flutter Roadmap 2025: What You Should Learn to Stay Ahead](https://dev.to/bestaoui_aymen/flutter-roadmap-2025-what-you-should-learn-to-stay-ahead-3b18)
 <!-- BLOG-POST-LIST:END -->
 
