@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Action Items from Feedback Without Wasting Time](https://dev.to/usamakashif/how-to-create-action-items-from-feedback-without-wasting-time-1k9m)
-- [MariaDB Vs MySQL: Key Differences You Should Know](https://dev.to/serveravatar/mariadb-vs-mysql-key-differences-you-should-know-51ib)
-- [Learning Java Programming Language](https://dev.to/ajay_sundar_c3eb3bcf9f98d/learning-java-programming-language-33fd)
-- [# AG-UI + CopilotKit: A Quick Start for Developers](https://dev.to/zediot/-ag-ui-copilotkit-a-quick-start-for-developers-4mj)
+- [APIs, MCPs, or Both? Choosing the Right AI Integration Stack](https://dev.to/apideck/apis-mcps-or-both-choosing-the-right-ai-integration-stack-b7d)
+- [[Boost]](https://dev.to/hadil/-26c3)
+- [Mastering the Digital Frontier: Best Practices for Harnessing Version Control Effectively](https://dev.to/vjnvisakh/mastering-the-digital-frontier-best-practices-for-harnessing-version-control-effectively-5an8)
+- [Injecting Toukon &lpar;Self-Mastery Spirit&rpar; into Amazon Q CLI!?](https://dev.to/torifukukaiou/injecting-toukon-self-mastery-spirit-into-amazon-q-cli-3ddb)
 <!-- BLOG-POST-LIST:END -->
 
