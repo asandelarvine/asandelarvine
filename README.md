@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
-- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
-- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
-- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
+- [How Internal Developer Platforms &lpar;IDPs&rpar; Help Reduce DevOps Bottlenecks](https://dev.to/obeej/how-internal-developer-platforms-idps-help-reduce-devops-bottlenecks-4ml5)
+- [What are your goals for the week? #139](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-139-10gg)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;7515&rpar;](https://dev.to/socket-use/ultimate-optimization-of-lightweight-server-architecture7515-376h)
+- [Reverse Engineering Tutorial](https://dev.to/mytechnotalent/hi-everyone-if-you-are-looking-for-a-free-reverse-engineering-tutorial-to-get-started-here-is-a-49f3)
 <!-- BLOG-POST-LIST:END -->
 
