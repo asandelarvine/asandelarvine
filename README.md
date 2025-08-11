@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Part 2: Advanced - OpenAI Function Calling &amp; Iterative Search](https://dev.to/abdelrahman_adnan/part-2-advanced-openai-function-calling-iterative-search-dm6)
-- [🏗️ Part 1: Foundation - Basic RAG and Agentic Concepts](https://dev.to/abdelrahman_adnan/part-1-foundation-basic-rag-and-agentic-concepts-1gik)
-- [Reinforcement Learning: Multi-Armed Bandits](https://dev.to/zachary62/reinforcement-learning-multi-armed-bandits-4c5l)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;0048&rpar;](https://dev.to/socket-use/design-philosophy-of-zero-dependency-web-framework0048-ge6)
+- [Adam Savage&#39;s Tested: How Much Does @Nerdforge&#39;s Spend Per Build?](https://dev.to/maker_youtube/adam-savages-tested-how-much-does-nerdforges-spend-per-build-4i2j)
+- [Building a Lightweight Financial Reporting Tool with Python and Tkinter](https://dev.to/ghostface1582/lightweight-financial-reporting-tool-with-python-and-tkinter-4lbo)
+- [Asynchronous Programming Patterns for Web Development&lpar;5823&rpar;](https://dev.to/socket-use/asynchronous-programming-patterns-for-web-development5823-1h0h)
+- [React Component Design Patterns for Real-World Projects](https://dev.to/maurya-sachin/react-component-design-patterns-for-real-world-projects-5b04)
 <!-- BLOG-POST-LIST:END -->
 
