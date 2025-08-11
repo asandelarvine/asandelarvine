@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Side Projects: React Digital Display - The End](https://dev.to/kamil7x/side-projects-react-digital-display-the-end-50o0)
-- [Docker Deployment: Dockerized Website Deployment](https://dev.to/christiana_orji/docker-deployment-dockerized-website-deployment-4ib8)
-- [Deploying a Full-Stack Monorepo &lpar;Go + React&rpar; to Sevalla: What I Learned](https://dev.to/hellskater/deploying-a-full-stack-monorepo-go-react-to-sevalla-what-i-learned-3c7o)
-- [What is Bandwidth in Cloud Hosting](https://dev.to/serveravatar/what-is-bandwidth-in-cloud-hosting-18ab)
+- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
+- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
+- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
 <!-- BLOG-POST-LIST:END -->
 
