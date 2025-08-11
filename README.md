@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DNN CMS: Client Website Restoration Script](https://dev.to/hismightiness/dnn-cms-client-website-restoration-script-g76)
-- [Onionpipe — &quot;Onion Addresses for Anything&quot;](https://dev.to/byteknight/onionpipe-onion-addresses-for-anything-p3d)
-- [Why Learn React in 2025?](https://dev.to/a1guy/why-learn-react-in-2025-35e9)
-- [Modern React Deep Dives: The Patterns and Performance Tricks Every Developer Needs](https://dev.to/a1guy/modern-react-deep-dives-the-patterns-and-performance-tricks-every-developer-needs-4c3h)
+- [Computer Science was never about programming.](https://dev.to/fm/computer-science-was-never-about-programming-17pk)
+- [Where MCP falls short: data integration in the AI world](https://dev.to/tc87/where-mcp-falls-short-data-integration-in-the-ai-world-9aa)
+- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
+- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
 <!-- BLOG-POST-LIST:END -->
 
