@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Internal Developer Platforms &lpar;IDPs&rpar; Help Reduce DevOps Bottlenecks](https://dev.to/obeej/how-internal-developer-platforms-idps-help-reduce-devops-bottlenecks-4ml5)
-- [What are your goals for the week? #139](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-139-10gg)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;7515&rpar;](https://dev.to/socket-use/ultimate-optimization-of-lightweight-server-architecture7515-376h)
-- [Reverse Engineering Tutorial](https://dev.to/mytechnotalent/hi-everyone-if-you-are-looking-for-a-free-reverse-engineering-tutorial-to-get-started-here-is-a-49f3)
+- [Portia AI: Initial Thoughts on GPT-5](https://dev.to/portia-ai/portia-ai-initial-thoughts-on-gpt-5-4ik)
+- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
+- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
+- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
 <!-- BLOG-POST-LIST:END -->
 
