@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 8](https://dev.to/wycliffealphus/100-days-of-devops-day-8-3ph3)
-- [Supply Chain Attacks](https://dev.to/godofgeeks/supply-chain-attacks-d8i)
-- [Foundational Concepts of Data Engineering](https://dev.to/brian_ouchoh_f28dd3377816/foundational-concepts-of-data-engineering-5793)
-- [GPT-5 Backlash: When an Upgrade Feels Like a Downgrade](https://dev.to/hassan_d8e59ae5f5376df141/gpt-5-backlash-when-an-upgrade-feels-like-a-downgrade-2113)
+- [How I Built an AI App Without Writing a Single Line of Code](https://dev.to/moh_bright_e478f690f4a59f/how-i-built-an-ai-app-without-writing-a-single-line-of-code-cnd)
+- [🚦Enhance Release Control with AWS CodePipeline Stage-Level Conditions](https://dev.to/latchudevops/enhance-release-control-with-aws-codepipeline-stage-level-conditions-fmj)
+- [How to use Systick to achieve microsecond &lpar;us&rpar; level delay in STM32？](https://dev.to/carolineee/how-to-use-systick-to-achieve-microsecond-us-level-delay-in-stm32-3kaj)
+- [Flutter Lesson 10: Forms and Inputs](https://dev.to/jige2025/flutter-lesson-10-forms-and-inputs-2l8a)
 <!-- BLOG-POST-LIST:END -->
 
