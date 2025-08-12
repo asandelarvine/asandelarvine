@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amanat Man – Simplifying Small Payments](https://dev.to/amanatmann/amanat-man-simplifying-small-payments-5ek0)
-- [Best 5 DeepAI Alternatives: New Options for AI Image Generation](https://dev.to/amber_030/best-5-deepai-alternatives-new-options-for-ai-image-generation-4h0m)
-- [Svelte + Flexmonster Pivot Pivot: Building an Interactive Dashboard of World Happiness](https://dev.to/daria_filozop_bfe6aa68940/svelte-flexmonster-pivot-pivot-building-an-interactive-dashboard-of-world-happiness-5344)
-- [mimic 👓 &lpar;Api gateway + Lambda + Dynamo&rpar; en golang](https://dev.to/aws-espanol/mimic-api-gateway-lambda-dynamo-en-golang-3m9g)
+- [A behind-the-scenes look at intent data collection and validation in B2B marketing](https://dev.to/leo_johnson_e34af4a6d9bd9/a-behind-the-scenes-look-at-intent-data-collection-and-validation-in-b2b-marketing-45e2)
+- [Core Concepts of Data Engineering: A Practical Guide for Modern Data Teams](https://dev.to/dgaro/core-concepts-of-data-engineering-a-practical-guide-for-modern-data-teams-1ilb)
+- [Which is Best for Real Time Dashboards: Airbyte, Fivetran, or Estuary Flow](https://dev.to/techsourabh/which-is-best-for-real-time-dashboards-airbyte-fivetran-or-estuary-flow-he9)
+- [Catch Security Bugs Before They Catch You: A Developer&#39;s Guide](https://dev.to/dvjosefr/catch-security-bugs-before-they-catch-you-a-developers-guide-507d)
 <!-- BLOG-POST-LIST:END -->
 
