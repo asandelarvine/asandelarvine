@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [v0.dev is now v0.app](https://dev.to/fmerian/v0dev-is-now-v0app-4b8m)
-- [Hiring &gt;&gt; Data Scientist](https://dev.to/sashaklimova/hiring-data-scientist-57i1)
-- [Ollama Docker Deployment Guide,Seamless Remote Management with OllaMan](https://dev.to/baboon/ollama-docker-deployment-guideseamless-remote-management-with-ollaman-5b0n)
-- [Understanding Spring Framework: Core Philosophy, IoC/DI, and AOP](https://dev.to/kouta222/understanding-spring-framework-core-philosophy-iocdi-and-aop-56fp)
+- [Building an AI Health Data Marketplace: Revolutionizing Healthcare with Data-Driven Insights](https://dev.to/mitchell_idusher/building-an-ai-health-data-marketplace-revolutionizing-healthcare-with-data-driven-insights-49nd)
+- [How to Deploy a Frontend App to Vercel Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-frontend-app-to-vercel-using-jenkins-40aa)
+- [🚀 Why Slow Websites Are Silent Business Killers &lpar;and How to Fix Yours&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/why-slow-websites-are-silent-business-killers-and-how-to-fix-yours-4dm)
+- [How to Deploy a Python Backend to Fly.io Using Jenkins](https://dev.to/ephraimx/how-to-deploy-a-python-backend-to-flyio-using-jenkins-1lh7)
 <!-- BLOG-POST-LIST:END -->
 
