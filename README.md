@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: I Can FINALLY WELD ALUMINUM!!](https://dev.to/maker_youtube/i-like-to-make-stuff-i-can-finally-weld-aluminum-1d1j)
-- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
-- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
+- [Why I Built an HTTP Client That Doesn&#39;t Try to Be Smart](https://dev.to/marcomit/why-i-built-an-http-client-that-doesnt-try-to-be-smart-14a7)
+- [Procedural Map Generation: From ASCII to Prefabs](https://dev.to/darfang/procedural-map-generation-from-ascii-to-prefabs-5fnn)
+- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
+- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
 <!-- BLOG-POST-LIST:END -->
 
