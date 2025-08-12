@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Secure eSignatures into Your App with Foxit API](https://dev.to/foxitdevelopers/embed-secure-esignatures-into-your-app-with-foxit-api-ch5)
-- [Give this read, it is inspiring, raw and honest!](https://dev.to/batunpc/give-this-read-it-is-inspiring-raw-and-honest-1ac9)
-- [Create training job for YOLO model on Amazon SageMaker with AWS Lambda](https://dev.to/aws-builders/create-training-job-for-yolo-model-on-amazon-sagemaker-with-aws-lambda-1n51)
-- [Why Developers Should Care About Context Switching](https://dev.to/ethan_chase_83bddbb637304/why-developers-should-care-about-context-switching-2lg5)
+- [Machine learning](https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6)
+- [From Doubts to Done - How I hosted my first fullstack webapp](https://dev.to/bolaji-writes/from-doubts-to-done-how-i-hosted-my-first-fullstack-webapp-44b4)
+- [How Junior and Senior Developers Use Git: A Story of Two Mindsets](https://dev.to/er-raj-aryan/how-junior-and-senior-developers-use-git-a-story-of-two-mindsets-2g4j)
+- [This &quot;Clean&quot; Java Code Hides a Bug! 🐛](https://dev.to/code_crafter_14/this-clean-java-code-hides-a-bug-24if)
 <!-- BLOG-POST-LIST:END -->
 
