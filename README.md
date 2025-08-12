@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudTrail vs CloudWatch: When to Use What? 🕵️‍♂️🔍](https://dev.to/yash_sonawane25/cloudtrail-vs-cloudwatch-when-to-use-what-52f6)
-- [Day 62: When Everything Goes Wrong But You Keep Going Anyway](https://dev.to/casperday11/day-62-when-everything-goes-wrong-but-you-keep-going-anyway-4fe1)
-- [Earl Lokal Namun Semangat Global](https://dev.to/dev_nazwashabrina/earl-lokal-namun-semangat-global-296c)
-- [Understanding the Core Concepts: From Data Mountains to Informative Peaks](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-core-concepts-from-data-mountains-to-informative-peaks-172c)
+- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
+- [The Rise of E-commerce in Dubai](https://dev.to/willoff_7e960ef913c40b873/the-rise-of-e-commerce-in-dubai-1mpd)
+- [Building Fault-Tolerant Systems: Lessons and Strategies](https://dev.to/vulfh/building-fault-tolerant-systems-lessons-and-strategies-1p7k)
+- [He vuelto, mi comienzo como desarrollador](https://dev.to/darito/he-vuelto-mi-comienzo-como-desarrollador-16fp)
 <!-- BLOG-POST-LIST:END -->
 
