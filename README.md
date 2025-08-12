@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing a Medication Reminder App in 2025: Key Features and Guide](https://dev.to/nencywilliams/developing-a-medication-reminder-app-in-2025-key-features-and-guide-5cjc)
-- [Automated Infrastructure Provisioning with Pulumi](https://dev.to/itsmekalyani/automated-infrastructure-provisioning-with-pulumi-16jf)
-- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
-- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
+- [v0.dev is now v0.app](https://dev.to/fmerian/v0dev-is-now-v0app-4b8m)
+- [Hiring &gt;&gt; Data Scientist](https://dev.to/sashaklimova/hiring-data-scientist-57i1)
+- [Ollama Docker Deployment Guide,Seamless Remote Management with OllaMan](https://dev.to/baboon/ollama-docker-deployment-guideseamless-remote-management-with-ollaman-5b0n)
+- [Understanding Spring Framework: Core Philosophy, IoC/DI, and AOP](https://dev.to/kouta222/understanding-spring-framework-core-philosophy-iocdi-and-aop-56fp)
 <!-- BLOG-POST-LIST:END -->
 
