@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A behind-the-scenes look at intent data collection and validation in B2B marketing](https://dev.to/leo_johnson_e34af4a6d9bd9/a-behind-the-scenes-look-at-intent-data-collection-and-validation-in-b2b-marketing-45e2)
-- [Core Concepts of Data Engineering: A Practical Guide for Modern Data Teams](https://dev.to/dgaro/core-concepts-of-data-engineering-a-practical-guide-for-modern-data-teams-1ilb)
-- [Which is Best for Real Time Dashboards: Airbyte, Fivetran, or Estuary Flow](https://dev.to/techsourabh/which-is-best-for-real-time-dashboards-airbyte-fivetran-or-estuary-flow-he9)
-- [Catch Security Bugs Before They Catch You: A Developer&#39;s Guide](https://dev.to/dvjosefr/catch-security-bugs-before-they-catch-you-a-developers-guide-507d)
+- [Why MVP Mindset Saves Projects &lpar;And How I Apply It&rpar;](https://dev.to/divyanshulohani/why-mvp-mindset-saves-projects-and-how-i-apply-it-5ei4)
+- [7 AI Skills That Can Make You Rich in 2025](https://dev.to/chiragx309/7-ai-skills-that-can-make-you-rich-in-2025-3d8a)
+- [Circuit Breaker: Your Essential Guide to Electrical Safety](https://dev.to/frank_1871bc3c55f35370df3/circuit-breaker-your-essential-guide-to-electrical-safety-c80)
+- [Generative AI Skills Every Data Scientist Needs in 2025](https://dev.to/browsejobs/generative-ai-skills-every-data-scientist-needs-in-2025-2n41)
 <!-- BLOG-POST-LIST:END -->
 
