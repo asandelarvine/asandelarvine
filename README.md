@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
-- [The Rise of E-commerce in Dubai](https://dev.to/willoff_7e960ef913c40b873/the-rise-of-e-commerce-in-dubai-1mpd)
-- [Building Fault-Tolerant Systems: Lessons and Strategies](https://dev.to/vulfh/building-fault-tolerant-systems-lessons-and-strategies-1p7k)
-- [He vuelto, mi comienzo como desarrollador](https://dev.to/darito/he-vuelto-mi-comienzo-como-desarrollador-16fp)
+- [Why I Stopped Teaching Leadership and Started Teaching People How to Actually Lead](https://dev.to/williamsbayer/why-i-stopped-teaching-leadership-and-started-teaching-people-how-to-actually-lead-mmf)
+- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
+- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
+- [[0day] Critical RCE Vulnerability in Atlassian Confluence &lpar;CVE-2023-22518&rpar; — What You Need to Know](https://dev.to/sharon_42e16b8da44dabde6d/0day-critical-rce-vulnerability-in-atlassian-confluence-cve-2023-22518-what-you-need-to-know-3c6a)
 <!-- BLOG-POST-LIST:END -->
 
