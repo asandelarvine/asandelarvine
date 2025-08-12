@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LEAKED: Senior Developer&#39;s $200K Code Review Template - Used by FAANG Companies](https://dev.to/itshayder/leaked-senior-developers-200k-code-review-template-used-by-faang-companies-2nlf)
-- [AMD vs Nvidia in AI Chips: The Open Ecosystem That&#39;s Reshaping Cloud AI](https://dev.to/jay_all_day/amd-vs-nvidia-in-ai-chips-the-open-ecosystem-thats-reshaping-cloud-ai-1fa7)
-- [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
-- [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
+- [Embed Secure eSignatures into Your App with Foxit API](https://dev.to/foxitdevelopers/embed-secure-esignatures-into-your-app-with-foxit-api-ch5)
+- [Give this read, it is inspiring, raw and honest!](https://dev.to/batunpc/give-this-read-it-is-inspiring-raw-and-honest-1ac9)
+- [Create training job for YOLO model on Amazon SageMaker with AWS Lambda](https://dev.to/aws-builders/create-training-job-for-yolo-model-on-amazon-sagemaker-with-aws-lambda-1n51)
+- [Why Developers Should Care About Context Switching](https://dev.to/ethan_chase_83bddbb637304/why-developers-should-care-about-context-switching-2lg5)
 <!-- BLOG-POST-LIST:END -->
 
