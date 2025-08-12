@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2013-3893: Microsoft Internet Explorer Resource Management Errors Vulnerability](https://dev.to/freedom_coder/cve-2013-3893-microsoft-internet-explorer-resource-management-errors-vulnerability-3jag)
-- [CVE-2007-0671: Microsoft Office Excel Remote Code Execution Vulnerability](https://dev.to/freedom_coder/cve-2007-0671-microsoft-office-excel-remote-code-execution-vulnerability-20eh)
-- [Building Enterprise-Grade Angular Apps: Performance Techniques and Patterns Shaping the Future](https://dev.to/jdavissoftware/building-enterprise-grade-angular-apps-performance-techniques-and-patterns-shaping-the-future-4hhi)
-- [CVE-2025-8088: RARLAB WinRAR Path Traversal Vulnerability](https://dev.to/freedom_coder/cve-2025-8088-rarlab-winrar-path-traversal-vulnerability-fkl)
+- [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
+- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
+- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
+- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
 <!-- BLOG-POST-LIST:END -->
 
