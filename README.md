@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5 vs. Claude Opus 4.1: A coding comparison](https://dev.to/composiodev/openai-gpt-5-vs-claude-opus-41-a-coding-comparison-2mll)
-- [How AI is Changing the Future of Web Development: Practical Tips and Tools for Developers in 2025](https://dev.to/harbor_sourcing_feb429754/how-ai-is-changing-the-future-of-web-development-practical-tips-and-tools-for-developers-in-2025-3f6m)
-- [Adding Links in HTML: Internal and External Anchors](https://dev.to/sharique_siddiqui_8242dad/adding-links-in-html-internal-and-external-anchors-588h)
-- [🤖 GPT‑5 in 2025 — Not Just an Upgrade, a Game‑Changer ⚡](https://dev.to/aleksei_aleinikov/gpt-5-in-2025-not-just-an-upgrade-a-game-changer-4pi2)
+- [Developing a Medication Reminder App in 2025: Key Features and Guide](https://dev.to/nencywilliams/developing-a-medication-reminder-app-in-2025-key-features-and-guide-5cjc)
+- [Automated Infrastructure Provisioning with Pulumi](https://dev.to/itsmekalyani/automated-infrastructure-provisioning-with-pulumi-16jf)
+- [From Prototype to Production: Estimating the Cost of AI Scaling](https://dev.to/sanjay_serviots_08ee56986/from-prototype-to-production-estimating-the-cost-of-ai-scaling-7fo)
+- [Nested if and syntax , Debug Point and Constructor](https://dev.to/preethi_nandhagopal_6d075/nested-if-and-syntax-debug-point-and-constructor-3e1e)
 <!-- BLOG-POST-LIST:END -->
 
