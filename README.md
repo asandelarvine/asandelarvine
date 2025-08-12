@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Dev Hero: A Beginner’s Guide to Modern Programming Languages](https://dev.to/mariecolvinn/from-zero-to-dev-hero-a-beginners-guide-to-modern-programming-languages-24j6)
-- [Advanced Contract Patterns and Testing Strategies for AI-Safe Development](https://dev.to/metaclosure/advanced-contract-patterns-and-testing-strategies-for-ai-safe-development-14p7)
-- [The World of Auto Scaling: What Really Happens Behind the Scenes](https://dev.to/stefanie-a/the-world-of-auto-scaling-what-really-happens-behind-the-scenes-4k78)
-- [Building a Bulletproof Next.js User Management System with Contract Programming](https://dev.to/metaclosure/building-a-bulletproof-nextjs-user-management-system-with-contract-programming-36cd)
+- [Bright children from low-income homes lose cognitive edge in early secondary school](https://dev.to/future_science/bright-children-from-low-income-homes-lose-cognitive-edge-in-early-secondary-school-3i03)
+- [Forza Studio Turn 10 Breaks Month-Long Silence On Its Future Following Recent Layoffs](https://dev.to/gg_news/forza-studio-turn-10-breaks-month-long-silence-on-its-future-following-recent-layoffs-4elh)
+- [Deploy an App with Docker](https://dev.to/maven_h/deploy-an-app-with-docker-4hi4)
+- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-4dic)
 <!-- BLOG-POST-LIST:END -->
 
