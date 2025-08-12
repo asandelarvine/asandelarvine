@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bright children from low-income homes lose cognitive edge in early secondary school](https://dev.to/future_science/bright-children-from-low-income-homes-lose-cognitive-edge-in-early-secondary-school-3i03)
-- [Forza Studio Turn 10 Breaks Month-Long Silence On Its Future Following Recent Layoffs](https://dev.to/gg_news/forza-studio-turn-10-breaks-month-long-silence-on-its-future-following-recent-layoffs-4elh)
-- [Deploy an App with Docker](https://dev.to/maven_h/deploy-an-app-with-docker-4hi4)
-- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-4dic)
+- [Understanding State in React: Managing State Between Components](https://dev.to/ayako_yk/understanding-state-in-react-managing-state-between-components-4iae)
+- [Etherspot Receives Ethereum Foundation Grant to Build EIP-7702 Censorship-resistant Infrastructure](https://dev.to/etherspot/etherspot-receives-ethereum-foundation-grant-to-build-eip-7702-censorship-resistant-infrastructure-1ao5)
+- [JavaScript’s handleEvent: The Memory-Efficient Alternative to .bind&lpar;this&rpar;](https://dev.to/eypsilon/javascripts-handleevent-the-memory-efficient-alternative-to-bindthis-34fm)
+- [What Happens When AI Gets Really Good at Programming?](https://dev.to/pullflow/what-happens-when-ai-gets-really-good-at-programming-2dbm)
 <!-- BLOG-POST-LIST:END -->
 
