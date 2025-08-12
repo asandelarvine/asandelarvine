@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Teaching Leadership and Started Teaching People How to Actually Lead](https://dev.to/williamsbayer/why-i-stopped-teaching-leadership-and-started-teaching-people-how-to-actually-lead-mmf)
-- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
-- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
-- [[0day] Critical RCE Vulnerability in Atlassian Confluence &lpar;CVE-2023-22518&rpar; — What You Need to Know](https://dev.to/sharon_42e16b8da44dabde6d/0day-critical-rce-vulnerability-in-atlassian-confluence-cve-2023-22518-what-you-need-to-know-3c6a)
+- [OpenAI GPT-5 vs. Claude Opus 4.1: A coding comparison](https://dev.to/composiodev/openai-gpt-5-vs-claude-opus-41-a-coding-comparison-2mll)
+- [How AI is Changing the Future of Web Development: Practical Tips and Tools for Developers in 2025](https://dev.to/harbor_sourcing_feb429754/how-ai-is-changing-the-future-of-web-development-practical-tips-and-tools-for-developers-in-2025-3f6m)
+- [Adding Links in HTML: Internal and External Anchors](https://dev.to/sharique_siddiqui_8242dad/adding-links-in-html-internal-and-external-anchors-588h)
+- [🤖 GPT‑5 in 2025 — Not Just an Upgrade, a Game‑Changer ⚡](https://dev.to/aleksei_aleinikov/gpt-5-in-2025-not-just-an-upgrade-a-game-changer-4pi2)
 <!-- BLOG-POST-LIST:END -->
 
