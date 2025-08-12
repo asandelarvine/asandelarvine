@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding State in React: Managing State Between Components](https://dev.to/ayako_yk/understanding-state-in-react-managing-state-between-components-4iae)
-- [Etherspot Receives Ethereum Foundation Grant to Build EIP-7702 Censorship-resistant Infrastructure](https://dev.to/etherspot/etherspot-receives-ethereum-foundation-grant-to-build-eip-7702-censorship-resistant-infrastructure-1ao5)
-- [JavaScript’s handleEvent: The Memory-Efficient Alternative to .bind&lpar;this&rpar;](https://dev.to/eypsilon/javascripts-handleevent-the-memory-efficient-alternative-to-bindthis-34fm)
-- [What Happens When AI Gets Really Good at Programming?](https://dev.to/pullflow/what-happens-when-ai-gets-really-good-at-programming-2dbm)
+- [Adam Savage&#39;s Tested: How to Prepare a Space Shuttle Engine for Display at Smithsonian! &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-to-prepare-a-space-shuttle-engine-for-display-at-smithsonian-at-2aap)
+- [KEXP: Cumulus - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-full-performance-live-on-kexp-12ni)
+- [No Laying Up Podcast: Ryder Cup Roundtable | NLU Pod, Ep 1055](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-roundtable-nlu-pod-ep-1055-bln)
+- [Rick Shiels Golf: This works 74.3% of the time!](https://dev.to/youtube_golf/rick-shiels-golf-this-works-743-of-the-time-1ckg)
 <!-- BLOG-POST-LIST:END -->
 
