@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MVP Mindset Saves Projects &lpar;And How I Apply It&rpar;](https://dev.to/divyanshulohani/why-mvp-mindset-saves-projects-and-how-i-apply-it-5ei4)
-- [7 AI Skills That Can Make You Rich in 2025](https://dev.to/chiragx309/7-ai-skills-that-can-make-you-rich-in-2025-3d8a)
-- [Circuit Breaker: Your Essential Guide to Electrical Safety](https://dev.to/frank_1871bc3c55f35370df3/circuit-breaker-your-essential-guide-to-electrical-safety-c80)
-- [Generative AI Skills Every Data Scientist Needs in 2025](https://dev.to/browsejobs/generative-ai-skills-every-data-scientist-needs-in-2025-2n41)
+- [Deploying an HTML‑to‑PDF API on Vercel with Puppeteer](https://dev.to/ivanalemunioz/deploying-an-html-to-pdf-api-on-vercel-with-puppeteer-2jp9)
+- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
+- [The Dark Side of Vibe-Coding: Debugging, Technical Debt &amp; Security Risks](https://dev.to/arbisoftcompany/the-dark-side-of-vibe-coding-debugging-technical-debt-security-risks-9ef)
+- [AI Business Landing Page | GSAP &amp; Tailwind](https://dev.to/devmastermind/ai-business-landing-page-gsap-tailwind-44og)
 <!-- BLOG-POST-LIST:END -->
 
