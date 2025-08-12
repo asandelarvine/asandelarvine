@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From CSS Modules to a Tiny Design System: Themeable Buttons in React](https://dev.to/elram_gavrieli_887f3d6046/from-css-modules-to-a-tiny-design-system-themeable-buttons-in-react-1324)
-- [Background Fixed Slider with Pure JavaScript IE9+](https://dev.to/istockmarket/background-fixed-slider-with-pure-javascript-ie9-29o)
-- [Reverse-Engineering a Solar Power Station During War: Our Survival Tech Story](https://dev.to/dmytro_novoselskiy_f6de67/reverse-engineering-a-solar-power-station-during-war-our-survival-tech-story-151i)
-- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
+- [CloudTrail vs CloudWatch: When to Use What? 🕵️‍♂️🔍](https://dev.to/yash_sonawane25/cloudtrail-vs-cloudwatch-when-to-use-what-52f6)
+- [Day 62: When Everything Goes Wrong But You Keep Going Anyway](https://dev.to/casperday11/day-62-when-everything-goes-wrong-but-you-keep-going-anyway-4fe1)
+- [Earl Lokal Namun Semangat Global](https://dev.to/dev_nazwashabrina/earl-lokal-namun-semangat-global-296c)
+- [Understanding the Core Concepts: From Data Mountains to Informative Peaks](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-core-concepts-from-data-mountains-to-informative-peaks-172c)
 <!-- BLOG-POST-LIST:END -->
 
