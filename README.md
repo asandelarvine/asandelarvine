@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an HTTP Client That Doesn&#39;t Try to Be Smart](https://dev.to/marcomit/why-i-built-an-http-client-that-doesnt-try-to-be-smart-14a7)
-- [Procedural Map Generation: From ASCII to Prefabs](https://dev.to/darfang/procedural-map-generation-from-ascii-to-prefabs-5fnn)
-- [Why Brands Join &lpar;and Leave&rpar; Shopify?](https://dev.to/rafaelcg/why-brands-join-and-leave-shopify-31gn)
-- [The Sneaky JavaScript Bug That Hides in Plain Sight — A 0 That Broke My Code](https://dev.to/hijazi313/the-sneaky-javascript-bug-that-hides-in-plain-sight-a-0-that-broke-my-code-461c)
+- [CVE-2013-3893: Microsoft Internet Explorer Resource Management Errors Vulnerability](https://dev.to/freedom_coder/cve-2013-3893-microsoft-internet-explorer-resource-management-errors-vulnerability-3jag)
+- [CVE-2007-0671: Microsoft Office Excel Remote Code Execution Vulnerability](https://dev.to/freedom_coder/cve-2007-0671-microsoft-office-excel-remote-code-execution-vulnerability-20eh)
+- [Building Enterprise-Grade Angular Apps: Performance Techniques and Patterns Shaping the Future](https://dev.to/jdavissoftware/building-enterprise-grade-angular-apps-performance-techniques-and-patterns-shaping-the-future-4hhi)
+- [CVE-2025-8088: RARLAB WinRAR Path Traversal Vulnerability](https://dev.to/freedom_coder/cve-2025-8088-rarlab-winrar-path-traversal-vulnerability-fkl)
 <!-- BLOG-POST-LIST:END -->
 
