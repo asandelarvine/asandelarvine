@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
-- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
-- [IGN: Car Park Capital - Official Announcement Trailer](https://dev.to/gg_news/ign-car-park-capital-official-announcement-trailer-3hem)
+- [How did the world reach microservices?](https://dev.to/atharva_sharma_8b4cb9669d/how-did-the-world-reach-microservices-57pm)
+- [How to build an AI That Turns Scripts Into Short Films:](https://dev.to/rareniches/how-to-build-an-ai-that-turns-scripts-into-short-films-38fp)
+- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
+- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
 <!-- BLOG-POST-LIST:END -->
 
