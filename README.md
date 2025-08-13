@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More Than Code: The Friendships You’ll Build at FriendlyRB](https://dev.to/lucianghinda/more-than-code-the-friendships-youll-build-at-friendlyrb-589k)
-- [My Internship Experience at Oasis Infobyte – A Milestone in My Second Year of B.Tech](https://dev.to/suryvardhan_mishra_272997/my-internship-experience-at-oasis-infobyte-a-milestone-in-my-second-year-of-btech-43df)
-- [HTTP Response Optimization and Streaming Techniques&lpar;1071&rpar;](https://dev.to/member_fa85c472/http-response-optimization-and-streaming-techniques1071-19fj)
-- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
+- [Vibe Coding: How To Code With Flow, Focus, And Fun](https://dev.to/keploy/vibe-coding-how-to-code-with-flow-focus-and-fun-3hpo)
+- [Things I have to remind myself as a developer](https://dev.to/mike_andreuzza/things-i-have-to-remind-myself-as-a-developer-2ajn)
+- [Preventing Costly Water Damage: The Business Value of Professional Plumbing Services](https://dev.to/amelia44/preventing-costly-water-damage-the-business-value-of-professional-plumbing-services-57eh)
+- [Generative AI in Healthcare: Transforming Diagnostics and Patient Experience](https://dev.to/pooja_jhaveri_c45a639c74a/generative-ai-in-healthcare-transforming-diagnostics-and-patient-experience-50k7)
 <!-- BLOG-POST-LIST:END -->
 
