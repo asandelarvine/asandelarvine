@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: How To Code With Flow, Focus, And Fun](https://dev.to/keploy/vibe-coding-how-to-code-with-flow-focus-and-fun-3hpo)
-- [Things I have to remind myself as a developer](https://dev.to/mike_andreuzza/things-i-have-to-remind-myself-as-a-developer-2ajn)
-- [Preventing Costly Water Damage: The Business Value of Professional Plumbing Services](https://dev.to/amelia44/preventing-costly-water-damage-the-business-value-of-professional-plumbing-services-57eh)
-- [Generative AI in Healthcare: Transforming Diagnostics and Patient Experience](https://dev.to/pooja_jhaveri_c45a639c74a/generative-ai-in-healthcare-transforming-diagnostics-and-patient-experience-50k7)
+- [Implementing Task Cancellation in Spring Boot: A Practical Guide](https://dev.to/devaaai/implementing-task-cancellation-in-spring-boot-a-practical-guide-a6l)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8805&rpar;](https://dev.to/member_fa85c472/memory-safety-meets-extreme-performance-in-web-servers8805-1ann)
+- [Mastering the UI/Logic &lpar;Container/Presentation&rpar; Pattern in React With Hooks, Headless Components, and My Beloved Zustand](https://dev.to/allename_dev/mastering-the-uilogic-containerpresentation-pattern-in-react-with-hooks-headless-components-3ic6)
+- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
 <!-- BLOG-POST-LIST:END -->
 
