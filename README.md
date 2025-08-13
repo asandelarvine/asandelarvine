@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming Patterns for Web Development&lpar;1841&rpar;](https://dev.to/member_fa85c472/asynchronous-programming-patterns-for-web-development1841-1fgb)
-- [Why Some Packages Like Google Sign-In or Razorpay Don’t Work in Expo — And How to Fix It](https://dev.to/sathya7032/why-some-packages-like-google-sign-in-or-razorpay-dont-work-in-expo-and-how-to-fix-it-45bm)
-- [Fire and Safety Courses in kerala: Building Skills for a Safer Tomorrow](https://dev.to/techshore_seo_/fire-and-safety-courses-in-kerala-building-skills-for-a-safer-tomorrow-2eb3)
-- [Memory Matters: Boost Performance with Cache-Friendly Access 🏎️](https://dev.to/andresjcorrea/memory-mysteries-where-your-variables-actually-live-fim)
+- [Engineering with SOLID, DRY, KISS, YAGNI and GRASP](https://dev.to/andrey_s/engineering-with-solid-dry-kiss-yagni-and-grasp-136a)
+- [Why Microsoft Graph Permissions Keep Tripping You Up &lpar;And How to Outsmart the Consent Maze&rpar;](https://dev.to/howdataworks/why-microsoft-graph-permissions-keep-tripping-you-up-and-how-to-outsmart-the-consent-maze-44ae)
+- [AI Recruiting Software 2025: AI-Powered Automation for Smarter Hiring](https://dev.to/lyndsay_donhoff_f9c93589a/ai-recruiting-software-2025-ai-powered-automation-for-smarter-hiring-457o)
+- [FlyClock：Automatic PowerPoint &amp; PDF Countdown Timer](https://dev.to/x_eastsun_998de460ccaca7a/flyclockautomatic-powerpoint-pdf-countdown-timer-4037)
 <!-- BLOG-POST-LIST:END -->
 
