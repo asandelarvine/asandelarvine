@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Workplace Safety Tracking in Business Central](https://dev.to/marc_c_670e79ccffca807a2c_57/simplifying-workplace-safety-tracking-in-business-central-23od)
-- [How We&#39;re Building a Decentralized App Store for AI Agents on Web3](https://dev.to/jneums/how-were-building-a-decentralized-app-store-for-ai-agents-on-web3-2dh2)
-- [Automatic Lights ON/OFF in Spas with IoT: Creating the Perfect Wellness Atmosphere](https://dev.to/elite_chicagospad_1c5b47/automatic-lights-onoff-in-spas-with-iot-creating-the-perfect-wellness-atmosphere-3e0c)
-- [🔐 What if the key to a secret was held by many, not one?](https://dev.to/amorino/what-if-the-key-to-a-secret-was-held-by-many-not-one-27en)
+- [Flutter - Conceitos que parecem iguais mas são diferentes](https://dev.to/adryannekelly/flutter-conceitos-que-parecem-iguais-mas-sao-diferentes-1ip3)
+- [Showfolio - portfolio gen. w/ free custom domain &amp; linktree included](https://dev.to/yashsrivasta7a/showfolio-portfolio-gen-w-free-custom-domain-linktree-included-3l8d)
+- [Better commit messages: Structure](https://dev.to/luismirabal/better-commit-messages-structure-5o0)
+- [GitHub on Windows: The Complete Guide to SSH, GitHub Desktop, and No Keygen Commits](https://dev.to/mohosin2126/github-on-windows-the-complete-guide-to-ssh-github-desktop-and-no-keygen-commits-4i9g)
 <!-- BLOG-POST-LIST:END -->
 
