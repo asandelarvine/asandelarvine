@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT &amp; Cloud - Intro](https://dev.to/ebenezer_tosan/iot-cloud-intro-3n2o)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;7842&rpar;](https://dev.to/member_fa85c472/production-deployment-strategies-for-high-performance-web-services7842-nof)
-- [First Game to Gain Traction After several published games in itch.io](https://dev.to/digi_talino/first-game-to-gain-traction-after-several-published-games-in-itchio-57dm)
-- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
+- [Simplifying Workplace Safety Tracking in Business Central](https://dev.to/marc_c_670e79ccffca807a2c_57/simplifying-workplace-safety-tracking-in-business-central-23od)
+- [How We&#39;re Building a Decentralized App Store for AI Agents on Web3](https://dev.to/jneums/how-were-building-a-decentralized-app-store-for-ai-agents-on-web3-2dh2)
+- [Automatic Lights ON/OFF in Spas with IoT: Creating the Perfect Wellness Atmosphere](https://dev.to/elite_chicagospad_1c5b47/automatic-lights-onoff-in-spas-with-iot-creating-the-perfect-wellness-atmosphere-3e0c)
+- [🔐 What if the key to a secret was held by many, not one?](https://dev.to/amorino/what-if-the-key-to-a-secret-was-held-by-many-not-one-27en)
 <!-- BLOG-POST-LIST:END -->
 
