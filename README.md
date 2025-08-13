@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Detailed Overview of Basic Electrical Circuit Components](https://dev.to/frank_1871bc3c55f35370df3/a-detailed-overview-of-basic-electrical-circuit-components-1n2k)
-- [A Developer’s Journey to the Cloud 3: Building a CI/CD Pipeline](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-3-building-a-cicd-pipeline-3c3f)
-- [A Developer’s Journey to the Cloud 2: My Database Lived in a Shoebox, and I Didn’t Even Know It](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-2-my-database-lived-in-a-shoebox-and-i-didnt-even-know-it-3ei6)
-- [A Developer’s Journey to the Cloud 1: From Localhost to Dockerized Deployment](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-1-from-localhost-to-dockerized-deployment-25d3)
+- [Turning Your &quot;Braindumps&quot; Into Trackable Tasks](https://dev.to/aronsonben/turning-your-braindumps-into-trackable-tasks-4bf5)
+- [How to Master the art of prompting?](https://dev.to/paradox_07/how-to-master-the-art-of-prompting-2p2e)
+- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
+- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-5aa4)
 <!-- BLOG-POST-LIST:END -->
 
