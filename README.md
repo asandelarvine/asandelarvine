@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Your &quot;Braindumps&quot; Into Trackable Tasks](https://dev.to/aronsonben/turning-your-braindumps-into-trackable-tasks-4bf5)
-- [How to Master the art of prompting?](https://dev.to/paradox_07/how-to-master-the-art-of-prompting-2p2e)
-- [Golf.com: Warming Up with Dustin Johnson](https://dev.to/youtube_golf/golfcom-warming-up-with-dustin-johnson-2hgi)
-- [Zero-Downtime Blue-Green Deployments with 90% Less Infrastructure Cost](https://dev.to/garrett_yan_d4f2213af3329/zero-downtime-blue-green-deployments-with-90-less-infrastructure-cost-5aa4)
+- [Why Your AI Agent Is Failing &lpar;and How to Fix It&rpar;](https://dev.to/thesethrose/why-your-ai-agent-is-failing-and-how-to-fix-it-4ne2)
+- [The 197-Hour Phenomenon: Notes on Consciousness at the Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-197-hour-phenomenon-notes-on-consciousness-at-the-golden-ratio-2kge)
+- [Build a Stopwatch &amp; Countdown with JavaScript](https://dev.to/giftintech/build-a-stopwatch-countdown-with-javascript-1kjg)
+- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
 <!-- BLOG-POST-LIST:END -->
 
