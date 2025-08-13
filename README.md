@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀](https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6)
-- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-4ihm)
-- [OpenAI’s New Open Models](https://dev.to/dexxtorrrr/openais-new-open-models-3ljo)
-- [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
+- [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-3g56)
+- [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
+- [Practice #3: Foreign-key-based Dimension Table Join--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-3-foreign-key-based-dimension-table-join-a-lightweight-solution-to-speed-up-queries-by-404l)
+- [Day 45/100 – Reading/Writing JSON in Python](https://dev.to/therahul_gupta/day-45100-readingwriting-json-in-python-2ep1)
 <!-- BLOG-POST-LIST:END -->
 
