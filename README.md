@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Task Cancellation in Spring Boot: A Practical Guide](https://dev.to/devaaai/implementing-task-cancellation-in-spring-boot-a-practical-guide-a6l)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8805&rpar;](https://dev.to/member_fa85c472/memory-safety-meets-extreme-performance-in-web-servers8805-1ann)
-- [Mastering the UI/Logic &lpar;Container/Presentation&rpar; Pattern in React With Hooks, Headless Components, and My Beloved Zustand](https://dev.to/allename_dev/mastering-the-uilogic-containerpresentation-pattern-in-react-with-hooks-headless-components-3ic6)
-- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
+- [Choosing the Right AI Team Model: Startups vs. Enterprises](https://dev.to/arbisoftcompany/choosing-the-right-ai-team-model-startups-vs-enterprises-3143)
+- [Doom Vibe Coding: How AI is Changing the Way We Work—and Think](https://dev.to/befede/doom-vibe-coding-how-ai-is-changing-the-way-we-work-and-think-29b1)
+- [Microservices Architecture with Lightweight Framework Design&lpar;1340&rpar;](https://dev.to/member_fa85c472/microservices-architecture-with-lightweight-framework-design1340-5e4f)
+- [How to become a web developer in 3 mins](https://dev.to/aberthecreator/how-to-become-a-web-developer-in-3-mins-5d6e)
 <!-- BLOG-POST-LIST:END -->
 
