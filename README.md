@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flask: testing hello world](https://dev.to/szabgab/flask-testing-hello-world-ej)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
-- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
-- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
+- [Modern Server-Side Event Implementation&lpar;6178&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation6178-3nnk)
+- [How I Built a Python CLI for Blazing-Fast Crypto Exchange Price Notifications](https://dev.to/imlucky883/how-i-built-a-python-cli-for-blazing-fast-crypto-exchange-price-notifications-20dp)
+- [Thunder Client’s Collections paywall? Move Your Projects to EchoAPI Effortlessly!](https://dev.to/lazyasscoder/thunder-clients-collections-paywall-move-your-projects-to-echoapi-effortlessly-lkf)
+- [Krish Naik: Everyday AI: Automate Your Social Media with AI &lpar;Live Demo + Setup Guide&rpar;](https://dev.to/vibe_youtube/krish-naik-everyday-ai-automate-your-social-media-with-ai-live-demo-setup-guide-4djh)
 <!-- BLOG-POST-LIST:END -->
 
