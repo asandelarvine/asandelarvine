@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering with SOLID, DRY, KISS, YAGNI and GRASP](https://dev.to/andrey_s/engineering-with-solid-dry-kiss-yagni-and-grasp-136a)
-- [Why Microsoft Graph Permissions Keep Tripping You Up &lpar;And How to Outsmart the Consent Maze&rpar;](https://dev.to/howdataworks/why-microsoft-graph-permissions-keep-tripping-you-up-and-how-to-outsmart-the-consent-maze-44ae)
-- [AI Recruiting Software 2025: AI-Powered Automation for Smarter Hiring](https://dev.to/lyndsay_donhoff_f9c93589a/ai-recruiting-software-2025-ai-powered-automation-for-smarter-hiring-457o)
-- [FlyClock：Automatic PowerPoint &amp; PDF Countdown Timer](https://dev.to/x_eastsun_998de460ccaca7a/flyclockautomatic-powerpoint-pdf-countdown-timer-4037)
+- [Title: How I Cracked My Coding Interviews with a Simple Pattern-Based DSA Approach](https://dev.to/arpitmalik832/title-how-i-cracked-my-coding-interviews-with-a-simple-pattern-based-dsa-approach-mn1)
+- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
+- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;8323&rpar;](https://dev.to/member_fa85c472/resource-management-and-memory-efficiency-in-web-servers8323-2mkf)
 <!-- BLOG-POST-LIST:END -->
 
