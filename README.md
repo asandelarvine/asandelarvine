@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: How I Cracked My Coding Interviews with a Simple Pattern-Based DSA Approach](https://dev.to/arpitmalik832/title-how-i-cracked-my-coding-interviews-with-a-simple-pattern-based-dsa-approach-mn1)
-- [IoT platform — Total.js](https://dev.to/palo/iot-platform-totaljs-41p4)
-- [Angular Addicts #40: Angular 20.1, NgRx 20, Zoneless testing, Native Federation &amp; more](https://dev.to/this-is-angular/angular-addicts-40-angular-201-ngrx-20-zoneless-testing-native-federation-more-3cob)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;8323&rpar;](https://dev.to/member_fa85c472/resource-management-and-memory-efficiency-in-web-servers8323-2mkf)
+- [More Than Code: The Friendships You’ll Build at FriendlyRB](https://dev.to/lucianghinda/more-than-code-the-friendships-youll-build-at-friendlyrb-589k)
+- [My Internship Experience at Oasis Infobyte – A Milestone in My Second Year of B.Tech](https://dev.to/suryvardhan_mishra_272997/my-internship-experience-at-oasis-infobyte-a-milestone-in-my-second-year-of-btech-43df)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1071&rpar;](https://dev.to/member_fa85c472/http-response-optimization-and-streaming-techniques1071-19fj)
+- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
 <!-- BLOG-POST-LIST:END -->
 
