@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter - Conceitos que parecem iguais mas são diferentes](https://dev.to/adryannekelly/flutter-conceitos-que-parecem-iguais-mas-sao-diferentes-1ip3)
-- [Showfolio - portfolio gen. w/ free custom domain &amp; linktree included](https://dev.to/yashsrivasta7a/showfolio-portfolio-gen-w-free-custom-domain-linktree-included-3l8d)
-- [Better commit messages: Structure](https://dev.to/luismirabal/better-commit-messages-structure-5o0)
-- [GitHub on Windows: The Complete Guide to SSH, GitHub Desktop, and No Keygen Commits](https://dev.to/mohosin2126/github-on-windows-the-complete-guide-to-ssh-github-desktop-and-no-keygen-commits-4i9g)
+- [A Detailed Overview of Basic Electrical Circuit Components](https://dev.to/frank_1871bc3c55f35370df3/a-detailed-overview-of-basic-electrical-circuit-components-1n2k)
+- [A Developer’s Journey to the Cloud 3: Building a CI/CD Pipeline](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-3-building-a-cicd-pipeline-3c3f)
+- [A Developer’s Journey to the Cloud 2: My Database Lived in a Shoebox, and I Didn’t Even Know It](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-2-my-database-lived-in-a-shoebox-and-i-didnt-even-know-it-3ei6)
+- [A Developer’s Journey to the Cloud 1: From Localhost to Dockerized Deployment](https://dev.to/arunjagadishsd/a-developers-journey-to-the-cloud-1-from-localhost-to-dockerized-deployment-25d3)
 <!-- BLOG-POST-LIST:END -->
 
