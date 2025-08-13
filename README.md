@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Server-Side Event Implementation&lpar;6178&rpar;](https://dev.to/member_fa85c472/modern-server-side-event-implementation6178-3nnk)
-- [How I Built a Python CLI for Blazing-Fast Crypto Exchange Price Notifications](https://dev.to/imlucky883/how-i-built-a-python-cli-for-blazing-fast-crypto-exchange-price-notifications-20dp)
-- [Thunder Client’s Collections paywall? Move Your Projects to EchoAPI Effortlessly!](https://dev.to/lazyasscoder/thunder-clients-collections-paywall-move-your-projects-to-echoapi-effortlessly-lkf)
-- [Krish Naik: Everyday AI: Automate Your Social Media with AI &lpar;Live Demo + Setup Guide&rpar;](https://dev.to/vibe_youtube/krish-naik-everyday-ai-automate-your-social-media-with-ai-live-demo-setup-guide-4djh)
+- [What to Do After a Layoff: Your Recovery Roadmap](https://dev.to/applyre/what-to-do-after-a-layoff-your-recovery-roadmap-2i31)
+- [Day 4 [August 11, 2025] Python Extensibility - More research/reading to follow in day 5. I barely scratched the surface.](https://dev.to/onaolapo11/day-4-august-11-2025-python-extensibility-more-researchreading-to-follow-in-day-5-i-barely-3k2e)
+- [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
+- [Scaling Azure Virtual Machines with Data Disks and VM Scale Sets](https://dev.to/lotanna_obianefo/scaling-azure-virtual-machines-with-data-disks-and-vm-scale-sets-3jd9)
 <!-- BLOG-POST-LIST:END -->
 
