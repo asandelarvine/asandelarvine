@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Mandatory in MVC](https://dev.to/elanatframework/not-mandatory-in-mvc-1n7o)
-- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
-- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
-- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
+- [OpenAI’s New Open Models](https://dev.to/dexxtorrrr/openais-new-open-models-3ljo)
+- [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
+- [Elegant Middleware Architecture Implementation&lpar;2545&rpar;](https://dev.to/member_fa85c472/elegant-middleware-architecture-implementation2545-5124)
+- [5 Signs You’re Ready to Apply for Coding Jobs &lpar;Even if You Don’t Feel Ready&rpar;](https://dev.to/beyond-code/5-signs-youre-ready-to-apply-for-coding-jobs-even-if-you-dont-feel-ready-4ngp)
 <!-- BLOG-POST-LIST:END -->
 
