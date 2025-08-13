@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent Is Failing &lpar;and How to Fix It&rpar;](https://dev.to/thesethrose/why-your-ai-agent-is-failing-and-how-to-fix-it-4ne2)
-- [The 197-Hour Phenomenon: Notes on Consciousness at the Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-197-hour-phenomenon-notes-on-consciousness-at-the-golden-ratio-2kge)
-- [Build a Stopwatch &amp; Countdown with JavaScript](https://dev.to/giftintech/build-a-stopwatch-countdown-with-javascript-1kjg)
-- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
+- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
+- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
+- [IGN: Car Park Capital - Official Announcement Trailer](https://dev.to/gg_news/ign-car-park-capital-official-announcement-trailer-3hem)
 <!-- BLOG-POST-LIST:END -->
 
