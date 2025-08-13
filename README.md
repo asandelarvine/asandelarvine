@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Do After a Layoff: Your Recovery Roadmap](https://dev.to/applyre/what-to-do-after-a-layoff-your-recovery-roadmap-2i31)
-- [Day 4 [August 11, 2025] Python Extensibility - More research/reading to follow in day 5. I barely scratched the surface.](https://dev.to/onaolapo11/day-4-august-11-2025-python-extensibility-more-researchreading-to-follow-in-day-5-i-barely-3k2e)
-- [Join the Real-Time AI Agents Challenge powered by n8n and Bright Data: $5,000 in prizes across FIVE winners!](https://dev.to/devteam/join-the-real-time-ai-agents-challenge-powered-by-n8n-and-bright-data-5000-in-prizes-across-five-3nmb)
-- [Scaling Azure Virtual Machines with Data Disks and VM Scale Sets](https://dev.to/lotanna_obianefo/scaling-azure-virtual-machines-with-data-disks-and-vm-scale-sets-3jd9)
+- [IoT &amp; Cloud - Intro](https://dev.to/ebenezer_tosan/iot-cloud-intro-3n2o)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;7842&rpar;](https://dev.to/member_fa85c472/production-deployment-strategies-for-high-performance-web-services7842-nof)
+- [First Game to Gain Traction After several published games in itch.io](https://dev.to/digi_talino/first-game-to-gain-traction-after-several-published-games-in-itchio-57dm)
+- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
 <!-- BLOG-POST-LIST:END -->
 
