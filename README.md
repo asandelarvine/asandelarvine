@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right AI Team Model: Startups vs. Enterprises](https://dev.to/arbisoftcompany/choosing-the-right-ai-team-model-startups-vs-enterprises-3143)
-- [Doom Vibe Coding: How AI is Changing the Way We Work—and Think](https://dev.to/befede/doom-vibe-coding-how-ai-is-changing-the-way-we-work-and-think-29b1)
-- [Microservices Architecture with Lightweight Framework Design&lpar;1340&rpar;](https://dev.to/member_fa85c472/microservices-architecture-with-lightweight-framework-design1340-5e4f)
-- [How to become a web developer in 3 mins](https://dev.to/aberthecreator/how-to-become-a-web-developer-in-3-mins-5d6e)
+- [Flask: testing hello world](https://dev.to/szabgab/flask-testing-hello-world-ej)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
+- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
+- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
 <!-- BLOG-POST-LIST:END -->
 
