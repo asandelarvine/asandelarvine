@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
-- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
-- [CLASSIFIED: INTELLIGENCE BRIEFING](https://dev.to/kfc/classified-intelligence-briefing-2pc7)
-- [View design with Razor syntax](https://dev.to/elanatframework/view-design-with-razor-syntax-3pp8)
+- [🚀 My Journey as a Software Developer &lpar;2025&rpar;](https://dev.to/thangaprakash_r_a5bf6793a/my-journey-as-a-software-developer-2025-nak)
+- [Super Productivity with the GTD Method](https://dev.to/johannesjo/super-productivity-with-the-gtd-method-44go)
+- [What is JWKS? JSON Web Key Set — Short Guide](https://dev.to/fung-authgear/what-is-jwks-json-web-key-set-short-guide-3j9m)
+- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
 <!-- BLOG-POST-LIST:END -->
 
