@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
-- [How to Expose Localhost to the Internet: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-expose-localhost-to-the-internet-a-developers-guide-48mm)
-- [Why Pavement Management Needs ERP Power for Better Planning and Performance](https://dev.to/commander_erp_cf7c5a13333/why-pavement-management-needs-erp-power-for-better-planning-and-performance-1ibe)
-- [Clickjitsu: The Art of Delegating Browser Tasks to AI Minions 🤖](https://dev.to/pmdroid/clickjitsu-the-art-of-delegating-browser-tasks-to-ai-minions-4fa7)
+- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
+- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
+- [CLASSIFIED: INTELLIGENCE BRIEFING](https://dev.to/kfc/classified-intelligence-briefing-2pc7)
+- [View design with Razor syntax](https://dev.to/elanatframework/view-design-with-razor-syntax-3pp8)
 <!-- BLOG-POST-LIST:END -->
 
