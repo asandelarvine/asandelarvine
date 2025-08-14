@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Domain State Sharing: From Hacks to Real-Time Sync](https://dev.to/adrai/cross-domain-state-sharing-from-hacks-to-real-time-sync-1k5g)
-- [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
-- [ADA Title II Adopting The WCAG 2.1 AA Standard](https://dev.to/thetanweerali/ada-title-ii-adopting-the-wcag-21-aa-standard-pjj)
-- [Unlocking SEO Success: 5 Essential Tools for Better Rankings](https://dev.to/mdkawsharul_islamroyal_/unlocking-seo-success-5-essential-tools-for-better-rankings-11bn)
+- [Render.com Latency Fix](https://dev.to/shubham_bhilare_3611/rendercom-latency-fix-ipd)
+- [Dev, Test, Stage, Prod: How Applications Are Deployed in the Real World](https://dev.to/ephraimx/dev-test-stage-prod-how-applications-are-deployed-in-the-real-world-5c28)
+- [Let&#39;s Make Noise: Obfuscate Your Browsing Traffic Data and Protect Against Sniffing Attacks For Journalists](https://dev.to/muhammad_riley_a1cbfe6c89/lets-make-noise-obfuscate-your-browsing-traffic-data-and-protect-against-sniffing-attacks-for-5a)
+- [What is the Perplexity vs Cloudflare Dispute Over AI Web Scraping Rights?](https://dev.to/jovin_george_733dcfc16291/what-is-the-perplexity-vs-cloudflare-dispute-over-ai-web-scraping-rights-13mh)
 <!-- BLOG-POST-LIST:END -->
 
