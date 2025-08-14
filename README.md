@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Cloudflare Workers Inside Spin Apps](https://dev.to/fermyon/running-cloudflare-workers-inside-spin-apps-2bjb)
-- [Earl Diciptakan dengan Jelas](https://dev.to/dev_nazwashabrina/earl-diciptakan-dengan-jelas-4iki)
-- [Object-oriented programming structures software design &lpar;making data or objects the basis&rpar; [Day 6]](https://dev.to/onaolapo11/object-oriented-programming-structures-software-design-making-data-or-objects-the-basis-day-6-3k43)
-- [Supercharging Spin Applications with Wizer](https://dev.to/fermyon/supercharging-spin-applications-with-wizer-1hig)
+- [Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome](https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d)
+- [JavaScript Interview Question: Compute the Sum of a List of Numbers, Recursively](https://dev.to/codeguage/javascript-interview-question-compute-the-sum-of-a-list-of-numbers-recursively-1fml)
+- [Snowflake RBAC 101 – Episode 2: Role Hierarchies &amp; Least Privilege](https://dev.to/qvfagundes/snowflake-rbac-101-episode-2-role-hierarchies-least-privilege-4fge)
+- [Bridging the Gap Between LLMs and Enterprise APIs using FastMCP: How to Auto-Generate AI Tools from OpenAPI Specs](https://dev.to/sreeni5018/bridging-the-gap-between-llms-and-enterprise-apis-using-fastmcp-how-to-auto-generate-ai-tools-from-4cf9)
 <!-- BLOG-POST-LIST:END -->
 
