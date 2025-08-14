@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ACC Cards Generator with Google AI Studio](https://dev.to/alegonzales/acc-cards-generator-with-google-ai-studio-2ig8)
+- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
+- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
 - [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
-- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
-- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
-- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
