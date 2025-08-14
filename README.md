@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scam Listing Checker](https://dev.to/wondiland/scam-listing-checker-g9o)
-- [I am in no way a technical person..im actually an older guy in my 60&#39;s that has realised that AI can give people a very powerful voice and I wish to keep the bastards honest. I have shared a AI created tool to check for scam listings.. improve &amp; share](https://dev.to/wondiland/i-am-in-no-way-a-technical-personim-actually-an-older-guy-in-my-60s-that-has-realised-that-ai-4b7e)
-- [Pure CSS Shine Animation &amp; Corner Cut-Out: Shimmering Cards Without JS](https://dev.to/emrahg/pure-css-shine-animation-corner-cut-out-shimmering-cards-without-js-hki)
-- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
+- [If You Could Call Your Childhood Self… 🎙️](https://dev.to/ethan_parkx_09fc0c31cddf/if-you-could-call-your-childhood-self-42pp)
+- [A hearing aid is a small electronic device designed to help people with hearing loss by amplifying sounds. It consists of a microphone, amplifier, and speaker that work together to make sounds louder and clearer.](https://dev.to/vinay_kumar_a8b33d69593f4/a-hearing-aid-is-a-small-electronic-device-designed-to-help-people-with-hearing-loss-by-amplifying-30ai)
+- [🚀 Docker &amp; AI: A Live Panel with Docker Captains](https://dev.to/kristiyanvelkov/docker-ai-a-live-panel-with-docker-captains-4omg)
+- [Building a Data Career: The Skills That Truly Matter](https://dev.to/dashflow/building-a-data-career-the-skills-that-truly-matter-3bcm)
 <!-- BLOG-POST-LIST:END -->
 
