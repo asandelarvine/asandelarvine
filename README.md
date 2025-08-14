@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My Journey as a Software Developer &lpar;2025&rpar;](https://dev.to/thangaprakash_r_a5bf6793a/my-journey-as-a-software-developer-2025-nak)
-- [Super Productivity with the GTD Method](https://dev.to/johannesjo/super-productivity-with-the-gtd-method-44go)
-- [What is JWKS? JSON Web Key Set — Short Guide](https://dev.to/fung-authgear/what-is-jwks-json-web-key-set-short-guide-3j9m)
-- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
+- [Day 5: AWS ECR: Creating and Managing Container Registries](https://dev.to/pragnesh_patel/day-5-aws-ecr-creating-and-managing-container-registries-1a9g)
+- [Ambient Intelligence from a Bird? You Won’t Believe What This Code Does](https://dev.to/owly/ambient-intelligence-from-a-bird-you-wont-believe-what-this-code-does-1n8a)
+- [Jules 2.0: Google&#39;s Asynchronous AI Coding Agent That Works While You Code](https://dev.to/daleymottley/jules-20-googles-asynchronous-ai-coding-agent-that-works-while-you-code-2ogj)
+- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
 <!-- BLOG-POST-LIST:END -->
 
