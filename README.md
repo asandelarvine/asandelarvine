@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How did the world reach microservices?](https://dev.to/atharva_sharma_8b4cb9669d/how-did-the-world-reach-microservices-57pm)
-- [How to build an AI That Turns Scripts Into Short Films:](https://dev.to/rareniches/how-to-build-an-ai-that-turns-scripts-into-short-films-38fp)
-- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
-- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
+- [Running Cloudflare Workers Inside Spin Apps](https://dev.to/fermyon/running-cloudflare-workers-inside-spin-apps-2bjb)
+- [Earl Diciptakan dengan Jelas](https://dev.to/dev_nazwashabrina/earl-diciptakan-dengan-jelas-4iki)
+- [Object-oriented programming structures software design &lpar;making data or objects the basis&rpar; [Day 6]](https://dev.to/onaolapo11/object-oriented-programming-structures-software-design-making-data-or-objects-the-basis-day-6-3k43)
+- [Supercharging Spin Applications with Wizer](https://dev.to/fermyon/supercharging-spin-applications-with-wizer-1hig)
 <!-- BLOG-POST-LIST:END -->
 
