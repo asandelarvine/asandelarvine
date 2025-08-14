@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Template Literals: Why Indentation Matters &lpar;Especially for AI Prompts&rpar;](https://dev.to/darkmavis1980/template-literals-why-indentation-matters-especially-for-ai-prompts-3jl4)
-- [🧠 From Specs to Sentience: How Kiro IDE Helped Me Build a Reactive AI Dungeon in Days](https://dev.to/michaelinzo/from-specs-to-sentience-how-kiro-ide-helped-me-build-a-reactive-ai-dungeon-in-days-1pd0)
-- [Optimas + SuperOptiX: Global‑Reward Optimization for DSPy, CrewAI, AutoGen, and OpenAI Agents SDK](https://dev.to/shashikant86/optimas-superoptix-global-reward-optimization-for-dspy-crewai-autogen-and-openai-agents-sdk-ehb)
-- [Open/Closed Principle &lpar;OCP&rpar; in php](https://dev.to/ahmedraza_fyntune/openclosed-principle-ocp-in-php-l)
+- [MCP Vulnerabilities Every Developer Should Know](https://dev.to/composiodev/mcp-vulnerabilities-every-developer-should-know-6f9)
+- [How to Expose Localhost to the Internet: A Developer&#39;s Guide](https://dev.to/robbiecahill/how-to-expose-localhost-to-the-internet-a-developers-guide-48mm)
+- [Why Pavement Management Needs ERP Power for Better Planning and Performance](https://dev.to/commander_erp_cf7c5a13333/why-pavement-management-needs-erp-power-for-better-planning-and-performance-1ibe)
+- [Clickjitsu: The Art of Delegating Browser Tasks to AI Minions 🤖](https://dev.to/pmdroid/clickjitsu-the-art-of-delegating-browser-tasks-to-ai-minions-4fa7)
 <!-- BLOG-POST-LIST:END -->
 
