@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Tests with Playwright and PageObject: A Practical Approach](https://dev.to/rodrigoobc/automating-tests-with-playwright-and-pageobject-a-practical-approach-5c12)
-- [Advanced SQL Part 1: Window Functions Explained with Precision](https://dev.to/gervaisamoah/advanced-sql-part-1-window-functions-explained-with-precision-146o)
-- [Introduction to Data-Driven Testing with Java and MongoDB](https://dev.to/mongodb_guests/introduction-to-data-driven-testing-with-java-and-mongodb-h9a)
-- [How to use the Aspire Dashboard with a legacy WinForms application](https://dev.to/volkmarr/how-to-use-the-aspire-dashboard-with-a-legacy-winforms-application-igf)
+- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
+- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
+- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
+- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
 <!-- BLOG-POST-LIST:END -->
 
