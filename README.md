@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Office Docs to PDFs Automatically with Foxit PDF Services API](https://dev.to/foxitdevelopers/convert-office-docs-to-pdfs-automatically-with-foxit-pdf-services-api-3876)
-- [Secure Login with Google Auth: A Developer&#39;s Introduction](https://dev.to/marioacrespo/secure-login-with-google-auth-a-developers-introduction-5g7a)
-- [Define a Self-Referential Many-to-Many Model in GORM](https://dev.to/adityaokke/create-self-referential-many2many-on-gorm-1g72)
-- [Monitoring Java APIs on EC2 with Amazon CloudWatch and AWS X-Ray](https://dev.to/aws-builders/monitoring-java-apis-on-ec2-with-amazon-cloudwatch-and-aws-x-ray-110a)
+- [Automating Tests with Playwright and PageObject: A Practical Approach](https://dev.to/rodrigoobc/automating-tests-with-playwright-and-pageobject-a-practical-approach-5c12)
+- [Advanced SQL Part 1: Window Functions Explained with Precision](https://dev.to/gervaisamoah/advanced-sql-part-1-window-functions-explained-with-precision-146o)
+- [Introduction to Data-Driven Testing with Java and MongoDB](https://dev.to/mongodb_guests/introduction-to-data-driven-testing-with-java-and-mongodb-h9a)
+- [How to use the Aspire Dashboard with a legacy WinForms application](https://dev.to/volkmarr/how-to-use-the-aspire-dashboard-with-a-legacy-winforms-application-igf)
 <!-- BLOG-POST-LIST:END -->
 
