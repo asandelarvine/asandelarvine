@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KavinAI Technologies — Shaping the AI Future of India](https://dev.to/imintointernet_org/kavinai-technologies-shaping-the-ai-future-of-india-2bci)
-- [How to establish a personal brand on LinkedIn](https://dev.to/jha_preeti_2e3cee0f05d5fa/how-to-establish-a-personal-brand-on-linkedin-ioe)
-- [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)
-- [Verified Ordered Set in Dafny](https://dev.to/hath995/verified-ordered-set-in-dafny-2aak)
+- [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
+- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
+- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
+- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
 <!-- BLOG-POST-LIST:END -->
 
