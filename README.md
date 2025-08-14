@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: AWS ECR: Creating and Managing Container Registries](https://dev.to/pragnesh_patel/day-5-aws-ecr-creating-and-managing-container-registries-1a9g)
-- [Ambient Intelligence from a Bird? You Won’t Believe What This Code Does](https://dev.to/owly/ambient-intelligence-from-a-bird-you-wont-believe-what-this-code-does-1n8a)
-- [Jules 2.0: Google&#39;s Asynchronous AI Coding Agent That Works While You Code](https://dev.to/daleymottley/jules-20-googles-asynchronous-ai-coding-agent-that-works-while-you-code-2ogj)
-- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
+- [A Practical Guide to Effective Claude Code: Less Impressed, More Involved](https://dev.to/robertmoore/a-practical-guide-to-effective-claude-code-less-impressed-more-involved-56ao)
+- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
+- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
+- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
 <!-- BLOG-POST-LIST:END -->
 
