@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vectors in AI: A Bridge Between Code and Business](https://dev.to/instancian/vectors-in-ai-a-bridge-between-code-and-business-11h2)
-- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
-- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
-- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
+- [Convert Office Docs to PDFs Automatically with Foxit PDF Services API](https://dev.to/foxitdevelopers/convert-office-docs-to-pdfs-automatically-with-foxit-pdf-services-api-3876)
+- [Secure Login with Google Auth: A Developer&#39;s Introduction](https://dev.to/marioacrespo/secure-login-with-google-auth-a-developers-introduction-5g7a)
+- [Define a Self-Referential Many-to-Many Model in GORM](https://dev.to/adityaokke/create-self-referential-many2many-on-gorm-1g72)
+- [Monitoring Java APIs on EC2 with Amazon CloudWatch and AWS X-Ray](https://dev.to/aws-builders/monitoring-java-apis-on-ec2-with-amazon-cloudwatch-and-aws-x-ray-110a)
 <!-- BLOG-POST-LIST:END -->
 
