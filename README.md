@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
-- [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
-- [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
-- [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
+- [KavinAI Technologies — Shaping the AI Future of India](https://dev.to/imintointernet_org/kavinai-technologies-shaping-the-ai-future-of-india-2bci)
+- [How to establish a personal brand on LinkedIn](https://dev.to/jha_preeti_2e3cee0f05d5fa/how-to-establish-a-personal-brand-on-linkedin-ioe)
+- [Mastering DevOps: Build a Bulletproof CI/CD Pipeline for Java Web App from Scratch using AWS Native Solutions! 🚀](https://dev.to/suvrajeet/mastering-devops-build-a-bulletproof-cicd-pipeline-for-java-web-app-from-scratch-using-aws-1ke2)
+- [Verified Ordered Set in Dafny](https://dev.to/hath995/verified-ordered-set-in-dafny-2aak)
 <!-- BLOG-POST-LIST:END -->
 
