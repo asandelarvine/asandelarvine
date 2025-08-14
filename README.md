@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2e4g)
-- [Free SafeLine WAF — Initial Review](https://dev.to/carrie_luo1/free-safeline-waf-initial-review-o5e)
-- [Build Better Date Pickers with ShadCN/UI Components](https://dev.to/jqueryscript/build-better-date-pickers-with-shadcnui-components-91p)
-- [Embedded SBC vs Industrial PC: A Developer’s Practical Guide](https://dev.to/lauraaa/embedded-sbc-vs-industrial-pc-a-developers-practical-guide-3g42)
+- [Scam Listing Checker](https://dev.to/wondiland/scam-listing-checker-g9o)
+- [I am in no way a technical person..im actually an older guy in my 60&#39;s that has realised that AI can give people a very powerful voice and I wish to keep the bastards honest. I have shared a AI created tool to check for scam listings.. improve &amp; share](https://dev.to/wondiland/i-am-in-no-way-a-technical-personim-actually-an-older-guy-in-my-60s-that-has-realised-that-ai-4b7e)
+- [Pure CSS Shine Animation &amp; Corner Cut-Out: Shimmering Cards Without JS](https://dev.to/emrahg/pure-css-shine-animation-corner-cut-out-shimmering-cards-without-js-hki)
+- [I Built a Simple Math Game for My Kid, Thought I&#39;d Share!](https://dev.to/thom_57bce87de8181cf6b0ce/i-built-a-simple-math-game-for-my-kid-thought-id-share-5bpc)
 <!-- BLOG-POST-LIST:END -->
 
