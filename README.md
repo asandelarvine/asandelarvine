@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Render.com Latency Fix](https://dev.to/shubham_bhilare_3611/rendercom-latency-fix-ipd)
-- [Dev, Test, Stage, Prod: How Applications Are Deployed in the Real World](https://dev.to/ephraimx/dev-test-stage-prod-how-applications-are-deployed-in-the-real-world-5c28)
-- [Let&#39;s Make Noise: Obfuscate Your Browsing Traffic Data and Protect Against Sniffing Attacks For Journalists](https://dev.to/muhammad_riley_a1cbfe6c89/lets-make-noise-obfuscate-your-browsing-traffic-data-and-protect-against-sniffing-attacks-for-5a)
-- [What is the Perplexity vs Cloudflare Dispute Over AI Web Scraping Rights?](https://dev.to/jovin_george_733dcfc16291/what-is-the-perplexity-vs-cloudflare-dispute-over-ai-web-scraping-rights-13mh)
+- [Template Literals: Why Indentation Matters &lpar;Especially for AI Prompts&rpar;](https://dev.to/darkmavis1980/template-literals-why-indentation-matters-especially-for-ai-prompts-3jl4)
+- [🧠 From Specs to Sentience: How Kiro IDE Helped Me Build a Reactive AI Dungeon in Days](https://dev.to/michaelinzo/from-specs-to-sentience-how-kiro-ide-helped-me-build-a-reactive-ai-dungeon-in-days-1pd0)
+- [Optimas + SuperOptiX: Global‑Reward Optimization for DSPy, CrewAI, AutoGen, and OpenAI Agents SDK](https://dev.to/shashikant86/optimas-superoptix-global-reward-optimization-for-dspy-crewai-autogen-and-openai-agents-sdk-ehb)
+- [Open/Closed Principle &lpar;OCP&rpar; in php](https://dev.to/ahmedraza_fyntune/openclosed-principle-ocp-in-php-l)
 <!-- BLOG-POST-LIST:END -->
 
