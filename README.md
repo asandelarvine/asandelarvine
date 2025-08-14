@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Inside a Gaming Laptop Design Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inside-a-gaming-laptop-design-lab-5g9h)
-- [KEXP: The Tubs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-full-performance-live-on-kexp-33pk)
-- [How to Create a Mobile Media Server on Termux &lpar;No Root Required&rpar;](https://dev.to/terminaltools/how-to-create-a-mobile-media-server-on-termux-no-root-required-525a)
-- [IGN: We Played Ninja Gaiden 4. You Had Questions. We Have Answers.](https://dev.to/gg_news/ign-we-played-ninja-gaiden-4-you-had-questions-we-have-answers-4mlo)
+- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
+- [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
+- [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
+- [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
 <!-- BLOG-POST-LIST:END -->
 
