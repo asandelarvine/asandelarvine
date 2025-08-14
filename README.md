@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Effective Claude Code: Less Impressed, More Involved](https://dev.to/robertmoore/a-practical-guide-to-effective-claude-code-less-impressed-more-involved-56ao)
-- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
-- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
-- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
+- [Adam Savage&#39;s Tested: Adam Savage Inside a Gaming Laptop Design Lab!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-inside-a-gaming-laptop-design-lab-5g9h)
+- [KEXP: The Tubs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-full-performance-live-on-kexp-33pk)
+- [How to Create a Mobile Media Server on Termux &lpar;No Root Required&rpar;](https://dev.to/terminaltools/how-to-create-a-mobile-media-server-on-termux-no-root-required-525a)
+- [IGN: We Played Ninja Gaiden 4. You Had Questions. We Have Answers.](https://dev.to/gg_news/ign-we-played-ninja-gaiden-4-you-had-questions-we-have-answers-4mlo)
 <!-- BLOG-POST-LIST:END -->
 
