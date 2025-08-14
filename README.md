@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome](https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d)
-- [JavaScript Interview Question: Compute the Sum of a List of Numbers, Recursively](https://dev.to/codeguage/javascript-interview-question-compute-the-sum-of-a-list-of-numbers-recursively-1fml)
-- [Snowflake RBAC 101 – Episode 2: Role Hierarchies &amp; Least Privilege](https://dev.to/qvfagundes/snowflake-rbac-101-episode-2-role-hierarchies-least-privilege-4fge)
-- [Bridging the Gap Between LLMs and Enterprise APIs using FastMCP: How to Auto-Generate AI Tools from OpenAPI Specs](https://dev.to/sreeni5018/bridging-the-gap-between-llms-and-enterprise-apis-using-fastmcp-how-to-auto-generate-ai-tools-from-4cf9)
+- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2e4g)
+- [Free SafeLine WAF — Initial Review](https://dev.to/carrie_luo1/free-safeline-waf-initial-review-o5e)
+- [Build Better Date Pickers with ShadCN/UI Components](https://dev.to/jqueryscript/build-better-date-pickers-with-shadcnui-components-91p)
+- [Embedded SBC vs Industrial PC: A Developer’s Practical Guide](https://dev.to/lauraaa/embedded-sbc-vs-industrial-pc-a-developers-practical-guide-3g42)
 <!-- BLOG-POST-LIST:END -->
 
