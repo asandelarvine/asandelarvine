@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Could Call Your Childhood Self… 🎙️](https://dev.to/ethan_parkx_09fc0c31cddf/if-you-could-call-your-childhood-self-42pp)
-- [A hearing aid is a small electronic device designed to help people with hearing loss by amplifying sounds. It consists of a microphone, amplifier, and speaker that work together to make sounds louder and clearer.](https://dev.to/vinay_kumar_a8b33d69593f4/a-hearing-aid-is-a-small-electronic-device-designed-to-help-people-with-hearing-loss-by-amplifying-30ai)
-- [🚀 Docker &amp; AI: A Live Panel with Docker Captains](https://dev.to/kristiyanvelkov/docker-ai-a-live-panel-with-docker-captains-4omg)
-- [Building a Data Career: The Skills That Truly Matter](https://dev.to/dashflow/building-a-data-career-the-skills-that-truly-matter-3bcm)
+- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
+- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
+- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
+- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
 <!-- BLOG-POST-LIST:END -->
 
