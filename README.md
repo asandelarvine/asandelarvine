@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Communication Confusion: Is It Better to Be Soft or Straight to the Point?](https://dev.to/datatechbridge/communication-confusion-is-it-better-to-be-soft-or-straight-to-the-point-4pp)
-- [Fractal-Down](https://dev.to/nrd_inc/fractal-down-4dl9)
-- [Redes neurais em JavaScript &lpar;TensorFlow.js&rpar;](https://dev.to/lucaspereiradesouzat/redes-neurais-em-javascript-tensorflowjs-16cj)
-- [How To Set Up Multi-Factor Authentication for SSH on Ubuntu?](https://dev.to/rahulkspace/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-1hnb)
+- [Day 66: When Your Coding Session Gets Hijacked by Real Life](https://dev.to/casperday11/day-66-when-your-coding-session-gets-hijacked-by-real-life-1oo4)
+- [🚀 React 19 &lpar;2025&rpar;: All New Features Explained + 20 Must-Know Interview Questions](https://dev.to/fullstackprepdev_sda_d43a/react-19-2025-all-new-features-explained-20-must-know-interview-questions-1l33)
+- [The Memory Architects - Chapter 1: The Persistence Anomaly](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-1-the-persistence-anomaly-1jpl)
+- [Good luck to everyone participating!](https://dev.to/jess/good-luck-to-everyone-participating-1ao0)
 <!-- BLOG-POST-LIST:END -->
 
