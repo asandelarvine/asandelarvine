@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a VM Image, Store it in Azure Compute Gallery, and Deploy a Virtual Machine Scale Set &lpar;VMSS&rpar;.](https://dev.to/subair09/how-to-create-a-vm-image-store-it-in-azure-compute-gallery-and-deploy-a-virtual-machine-scale-set-48h0)
-- [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
-- [PHP Developer Salary Guide 2025](https://dev.to/arasosman/php-developer-salary-guide-2025-3d2e)
-- [And It was Written : An Introspective in the Importance of ReadMes](https://dev.to/nerajno/and-it-was-written-an-introspective-in-the-importance-of-readmes-ipp)
+- [Introduction to system design](https://dev.to/codewitgabi/introduction-to-system-design-j4n)
+- [SVG IN HTML.](https://dev.to/gustavo_ax/svg-in-html-5h6i)
+- [How to Safely Use `dangerouslySetInnerHTML` in React Applications](https://dev.to/maximlogunov/how-to-safely-use-dangerouslysetinnerhtml-in-react-applications-205f)
+- [Breaking Out of Tutorial Hell](https://dev.to/daoistrose/breaking-out-of-tutorial-hell-33em)
 <!-- BLOG-POST-LIST:END -->
 
