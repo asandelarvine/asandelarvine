@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate SMS Notifications via Termux-API &amp; Telegram](https://dev.to/terminaltools/how-to-automate-sms-notifications-via-termux-api-telegram-1l45)
-- [Adapting to the Future: How Online Learning Platforms are Catering to Gen Z&#39;s Needs](https://dev.to/ghummantech/adapting-to-the-future-how-online-learning-platforms-are-catering-to-gen-zs-needs-cpb)
-- [VPS For Frontend Engineer - Part 1](https://dev.to/joseph42a/vps-for-frontend-engineer-part-1-2lja)
-- [Accessibility in React and Angular: How to Build Apps That Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/accessibility-in-react-and-angular-how-to-build-apps-that-everyone-can-use-mia)
+- [CycloneDX Support](https://dev.to/lizmat/cyclonedx-support-3adh)
+- [How to Sync Files Wirelessly Between Android and PC via Termux](https://dev.to/terminaltools/how-to-sync-files-wirelessly-between-android-and-pc-via-termux-4h7i)
+- [APIs for Translation: What to Know Before You Integrate](https://dev.to/colinreed/apis-for-translation-what-to-know-before-you-integrate-56bf)
+- [Stop Killing Your Database with Multiple Calls](https://dev.to/stevsharp/stop-killing-your-database-with-multiple-calls-23am)
 <!-- BLOG-POST-LIST:END -->
 
