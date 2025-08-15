@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 66: When Your Coding Session Gets Hijacked by Real Life](https://dev.to/casperday11/day-66-when-your-coding-session-gets-hijacked-by-real-life-1oo4)
-- [🚀 React 19 &lpar;2025&rpar;: All New Features Explained + 20 Must-Know Interview Questions](https://dev.to/fullstackprepdev_sda_d43a/react-19-2025-all-new-features-explained-20-must-know-interview-questions-1l33)
-- [The Memory Architects - Chapter 1: The Persistence Anomaly](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-memory-architects-chapter-1-the-persistence-anomaly-1jpl)
-- [Good luck to everyone participating!](https://dev.to/jess/good-luck-to-everyone-participating-1ao0)
+- [How to Create a VM Image, Store it in Azure Compute Gallery, and Deploy a Virtual Machine Scale Set &lpar;VMSS&rpar;.](https://dev.to/subair09/how-to-create-a-vm-image-store-it-in-azure-compute-gallery-and-deploy-a-virtual-machine-scale-set-48h0)
+- [Always Up-to-Date API Docs Are Real &lpar;And No, It’s Not AI&rpar;](https://dev.to/tsv1/always-up-to-date-api-docs-are-real-and-no-its-not-ai-256g)
+- [PHP Developer Salary Guide 2025](https://dev.to/arasosman/php-developer-salary-guide-2025-3d2e)
+- [And It was Written : An Introspective in the Importance of ReadMes](https://dev.to/nerajno/and-it-was-written-an-introspective-in-the-importance-of-readmes-ipp)
 <!-- BLOG-POST-LIST:END -->
 
