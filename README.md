@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying to finish my AI-powered cubing app—just need one dev to help me change cubing, forever!](https://dev.to/sevindu_damsara_fb3958cbc/trying-to-finish-my-ai-powered-cubing-app-just-need-one-dev-to-help-me-change-cubing-forever-46eb)
-- [Building SVGenius: From Side Project to Community Library](https://dev.to/yevhen_pm/building-svgenius-from-side-project-to-community-library-41ko)
-- [New challenge](https://dev.to/ejaz_4802e79b1529ea727bed/new-challenge-3386)
-- [Agentic AI and the Next Era of Intelligent Automation](https://dev.to/gauripandey/agentic-ai-and-the-next-era-of-intelligent-automation-400o)
+- [Laravel CRUD Like a Pro: Clean, Reusable, and Ultra-Minimal Code](https://dev.to/raheelshan/laravel-crud-like-a-pro-clean-reusable-and-ultra-minimal-code-57a8)
+- [🚀 From Bytecode to Machine Code: The Magic Behind V8 Performance](https://dev.to/muhayminbinmehmood/from-bytecode-to-machine-code-the-magic-behind-v8-performance-1pe2)
+- [What Does a Software Architect Actually Do?](https://dev.to/igorfragadev/what-does-a-software-architect-actually-do-4dnf)
+- [Why I Built DevBuddy: 20+ Free Developer Tools That Actually Don&#39;t Suck](https://dev.to/mekki_amine_c686853d03998/why-i-built-devbuddy-20-free-developer-tools-that-actually-dont-suck-5i3)
 <!-- BLOG-POST-LIST:END -->
 
