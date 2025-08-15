@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practice #4: Large Primary-Subtable Join：A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-4-large-primary-subtable-joina-lightweight-solution-to-speed-up-queries-by-dumping-data-4g0i)
-- [A Simple Guide to Creating, Pushing &amp; Pulling Your First Repository&quot;](https://dev.to/manikandan_a8f99e0153ef77/a-simple-guide-to-creating-pushing-pulling-your-first-repository-pbh)
-- [STM8S105S6T6C – High-Performance 8-bit Microcontroller for Embedded Applications](https://dev.to/xecor_company/stm8s105s6t6c-high-performance-8-bit-microcontroller-for-embedded-applications-40c)
-- [🔭 OpenTelemetry in Action on Kubernetes: Part 9 - Cluster-Level Observability with OpenTelemetry Agent + Gateway](https://dev.to/kartikdudeja21/opentelemetry-in-action-on-kubernetes-part-9-cluster-level-observability-with-opentelemetry-3d5p)
+- [【August Meetup】 Qihoo 360 Data Expert Shares: Production-Grade Deployment Guide for DolphinScheduler on K8s!](https://dev.to/chen_debra_3060b21d12b1b0/august-meetup-qihoo-360-data-expert-shares-production-grade-deployment-guide-for-36l2)
+- [[Boost]](https://dev.to/marabesi/-5dg2)
+- [Business Rules Conversion Prompt](https://dev.to/lucpattyn/business-rules-conversion-prompt-2pp5)
+- [Enable +C / +V in XFCE Terminal on Debian 11 &lpar;UTM&rpar;](https://dev.to/tamilvanan/enable-c-v-in-xfce-terminal-on-debian-11-utm-43a3)
 <!-- BLOG-POST-LIST:END -->
 
