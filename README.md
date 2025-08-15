@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals vs. BehaviorSubject: Which Should You Use?](https://dev.to/mridudixit15/angular-signals-vs-behaviorsubject-which-should-you-use-3pfb)
-- [[iOS] Built an offline vault app - need honest UI/UX feedback](https://dev.to/njoylab/ios-built-an-offline-vault-app-need-honest-uiux-feedback-1cph)
-- [Question](https://dev.to/gaurav_gangwar_dev/question-1lj8)
-- [ARM vs x86: Choosing the Right Architecture for Embedded AI](https://dev.to/jasonliu112/arm-vs-x86-choosing-the-right-architecture-for-embedded-ai-1f6c)
+- [Trying to finish my AI-powered cubing app—just need one dev to help me change cubing, forever!](https://dev.to/sevindu_damsara_fb3958cbc/trying-to-finish-my-ai-powered-cubing-app-just-need-one-dev-to-help-me-change-cubing-forever-46eb)
+- [Building SVGenius: From Side Project to Community Library](https://dev.to/yevhen_pm/building-svgenius-from-side-project-to-community-library-41ko)
+- [New challenge](https://dev.to/ejaz_4802e79b1529ea727bed/new-challenge-3386)
+- [Agentic AI and the Next Era of Intelligent Automation](https://dev.to/gauripandey/agentic-ai-and-the-next-era-of-intelligent-automation-400o)
 <!-- BLOG-POST-LIST:END -->
 
