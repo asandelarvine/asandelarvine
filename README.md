@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
-- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
-- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
+- [Create Golang private package](https://dev.to/adityaokke/create-golang-private-package-15bn)
+- [Iframes: Embedding Other Webpages](https://dev.to/sharique_siddiqui_8242dad/iframes-embedding-other-webpages-5eai)
+- [Canvas and SVG: Graphics and Animation](https://dev.to/sharique_siddiqui_8242dad/canvas-and-svg-graphics-and-animation-1p16)
+- [Advanced Forms: Validation, Input Types, and Attributes](https://dev.to/sharique_siddiqui_8242dad/advanced-forms-validation-input-types-and-attributes-2cbp)
 <!-- BLOG-POST-LIST:END -->
 
