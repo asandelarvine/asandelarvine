@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Fuels the Internet &amp; Prerequisites [Week-0]](https://dev.to/suvrajeet/what-fuels-the-internet-prerequisites-week-0-49lj)
-- [[Boost]](https://dev.to/arlan85/-1n7c)
-- [Write a Python Function to Check if an Object is a List](https://dev.to/rustcodeweb/write-a-python-function-to-check-if-an-object-is-a-list-2jmp)
-- [Unlock Hidden SEO Power: Integrate Schema Markup Directly into Your CMS Template](https://dev.to/hollowcore/unlock-hidden-seo-power-integrate-schema-markup-directly-into-your-cms-template-2m36)
+- [Communication Confusion: Is It Better to Be Soft or Straight to the Point?](https://dev.to/datatechbridge/communication-confusion-is-it-better-to-be-soft-or-straight-to-the-point-4pp)
+- [Fractal-Down](https://dev.to/nrd_inc/fractal-down-4dl9)
+- [Redes neurais em JavaScript &lpar;TensorFlow.js&rpar;](https://dev.to/lucaspereiradesouzat/redes-neurais-em-javascript-tensorflowjs-16cj)
+- [How To Set Up Multi-Factor Authentication for SSH on Ubuntu?](https://dev.to/rahulkspace/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-1hnb)
 <!-- BLOG-POST-LIST:END -->
 
