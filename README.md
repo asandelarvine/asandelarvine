@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinePlex - ReactJS + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
-- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
-- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
-- [Windsurf Wave 12 update adds Devin, DeepWiki, Dev Containers, Vibe, and more new features](https://dev.to/ytosko/windsurf-wave-12-update-adds-devin-deepwiki-dev-containers-vibe-and-more-new-features-3jm0)
+- [What Fuels the Internet &amp; Prerequisites [Week-0]](https://dev.to/suvrajeet/what-fuels-the-internet-prerequisites-week-0-49lj)
+- [[Boost]](https://dev.to/arlan85/-1n7c)
+- [Write a Python Function to Check if an Object is a List](https://dev.to/rustcodeweb/write-a-python-function-to-check-if-an-object-is-a-list-2jmp)
+- [Unlock Hidden SEO Power: Integrate Schema Markup Directly into Your CMS Template](https://dev.to/hollowcore/unlock-hidden-seo-power-integrate-schema-markup-directly-into-your-cms-template-2m36)
 <!-- BLOG-POST-LIST:END -->
 
