@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CycloneDX Support](https://dev.to/lizmat/cyclonedx-support-3adh)
-- [How to Sync Files Wirelessly Between Android and PC via Termux](https://dev.to/terminaltools/how-to-sync-files-wirelessly-between-android-and-pc-via-termux-4h7i)
-- [APIs for Translation: What to Know Before You Integrate](https://dev.to/colinreed/apis-for-translation-what-to-know-before-you-integrate-56bf)
-- [Stop Killing Your Database with Multiple Calls](https://dev.to/stevsharp/stop-killing-your-database-with-multiple-calls-23am)
+- [Angular Signals vs. BehaviorSubject: Which Should You Use?](https://dev.to/mridudixit15/angular-signals-vs-behaviorsubject-which-should-you-use-3pfb)
+- [[iOS] Built an offline vault app - need honest UI/UX feedback](https://dev.to/njoylab/ios-built-an-offline-vault-app-need-honest-uiux-feedback-1cph)
+- [Question](https://dev.to/gaurav_gangwar_dev/question-1lj8)
+- [ARM vs x86: Choosing the Right Architecture for Embedded AI](https://dev.to/jasonliu112/arm-vs-x86-choosing-the-right-architecture-for-embedded-ai-1f6c)
 <!-- BLOG-POST-LIST:END -->
 
