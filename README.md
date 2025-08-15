@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SBOMs to detect possible Dependency Confusion](https://dev.to/protsenko/using-sboms-to-detect-possible-dependency-confusion-5846)
-- [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
-- [LiteSpeed ওয়েব সার্ভার কী এবং কিভাবে এটি ওয়েবসাইটকে ফাস্ট করে?](https://dev.to/bytes_vibe/litespeed-oyeb-saarbhaar-kii-ebn-kibhaabe-etti-oyebsaaittke-phaastt-kre-37mf)
-- [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
+- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
+- [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
+- [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
+- [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
 <!-- BLOG-POST-LIST:END -->
 
