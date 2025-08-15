@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
-- [Langkah Baru Belajar Koding: Membuat Skrip Pertama dengan Earl](https://dev.to/dev_nazwashabrina/langkah-baru-belajar-koding-membuat-skrip-pertama-dengan-earl-4ol7)
-- [WahResume: AI-Powered Resume Builder for Job Seekers](https://dev.to/johnu_marattil_cd4336d0f4/wahresume-ai-powered-resume-builder-for-job-seekers-40ho)
-- [Wisp – A Modern, Secure One-Time Secret Sharing App Built with Laravel 12, Vue 3 and Inertia.js](https://dev.to/thavarshan/wisp-a-modern-secure-one-time-secret-sharing-app-built-with-laravel-12-vue-3-and-inertiajs-39e4)
+- [From Data Lineage to AI Agent: A New Chapter of Cloud Scheduling by Tianyi Cloud DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/from-data-lineage-to-ai-agent-a-new-chapter-of-cloud-scheduling-by-tianyi-cloud-x-dolphinscheduler-41no)
+- [For startup founders, this partnership means more AI choice, better integration options, and a smoother path from idea to impact—whether you’re streamlining operations or creating entirely new products.](https://dev.to/dexxtorrrr/for-startup-founders-this-partnership-means-more-ai-choice-better-integration-options-and-a-2605)
+- [What Startups Can Gain from the Oracle–Google Gemini AI Partnership](https://dev.to/dexxtorrrr/what-startups-can-gain-from-the-oracle-google-gemini-ai-partnership-2a6e)
+- [SmarTube: A Feature-Rich YouTube Clone Built with ReactJS](https://dev.to/hemang_b_ba8d35ae4a66339/smartube-a-feature-rich-youtube-clone-built-with-reactjs-3jc5)
 <!-- BLOG-POST-LIST:END -->
 
