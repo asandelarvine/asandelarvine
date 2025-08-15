@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
-- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
-- [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
-- [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
+- [CinePlex - ReactJS + Django Rest Framework project](https://dev.to/madhubankhatri/cineplex-reactjs-django-rest-framework-project-bgi)
+- [Maker&#39;s Muse: Best seam settings - hide them completely! 3DP101](https://dev.to/maker_youtube/makers-muse-best-seam-settings-hide-them-completely-3dp101-2hgg)
+- [3D Printing Nerd: From Broken to Better Than New – 3D Printing a Tent Part!](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-3d-printing-a-tent-part-a3o)
+- [Windsurf Wave 12 update adds Devin, DeepWiki, Dev Containers, Vibe, and more new features](https://dev.to/ytosko/windsurf-wave-12-update-adds-devin-deepwiki-dev-containers-vibe-and-more-new-features-3jm0)
 <!-- BLOG-POST-LIST:END -->
 
