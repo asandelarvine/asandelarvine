@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACC Cards Generator with Google AI Studio](https://dev.to/alegonzales/acc-cards-generator-with-google-ai-studio-2ig8)
-- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
-- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
-- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
+- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
+- [Langkah Baru Belajar Koding: Membuat Skrip Pertama dengan Earl](https://dev.to/dev_nazwashabrina/langkah-baru-belajar-koding-membuat-skrip-pertama-dengan-earl-4ol7)
+- [WahResume: AI-Powered Resume Builder for Job Seekers](https://dev.to/johnu_marattil_cd4336d0f4/wahresume-ai-powered-resume-builder-for-job-seekers-40ho)
+- [Wisp – A Modern, Secure One-Time Secret Sharing App Built with Laravel 12, Vue 3 and Inertia.js](https://dev.to/thavarshan/wisp-a-modern-secure-one-time-secret-sharing-app-built-with-laravel-12-vue-3-and-inertiajs-39e4)
 <!-- BLOG-POST-LIST:END -->
 
