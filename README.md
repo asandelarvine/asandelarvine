@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
-- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
-- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
+- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
+- [The Testing Paradox: Why 90% of IT Projects Are Late and How to Break the Cycle](https://dev.to/esha_suchana_3514f571649c/the-testing-paradox-why-90-of-it-projects-are-late-and-how-to-break-the-cycle-4ah4)
+- [The BEST Code Editor for Everything — Honest Comparison for 2025](https://dev.to/tahamjp/the-best-code-editor-for-everything-honest-comparison-for-2025-3co7)
+- [🎯 Event Delegation in JavaScript: A Complete Beginner-to-Advanced Guide](https://dev.to/rohit_singh_ee84e64941db7/event-delegation-in-javascript-a-complete-beginner-to-advanced-guide-2aj1)
 <!-- BLOG-POST-LIST:END -->
 
