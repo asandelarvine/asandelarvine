@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Blog Stats Generator: Auto-Updating Blog Cards for Dev.to](https://dev.to/imkarthikeyan/introducing-blog-stats-generator-auto-updating-blog-cards-for-devto-iom)
-- [Implement the useDebounce custom hook in React](https://dev.to/debajit13/implement-the-usedebounce-custom-hook-in-react-2og4)
-- [Benchmark: How to use C# Parallel.ForEachAsync for 3x faster bulk file downloading time](https://dev.to/stewartcelani/benchmark-how-to-use-c-parallelforeachasync-for-3x-faster-bulk-file-downloading-time-2iie)
-- [Chai, Code and Chaos: The Indian IT Bug Comedy That Nobody Saw Coming](https://dev.to/codetestfactory/chai-code-and-chaos-the-indian-it-bug-comedy-that-nobody-saw-coming-28bm)
+- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
+- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
+- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
+- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
 <!-- BLOG-POST-LIST:END -->
 
