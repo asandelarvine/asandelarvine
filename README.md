@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure Testing &lpar;Test Kitchen, etc.&rpar;](https://dev.to/godofgeeks/infrastructure-testing-test-kitchen-etc-3m04)
-- [Proposal web✨💝💖💞 , by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/untitled-19oe)
-- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
-- [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
+- [How to Properly Clean Up Docker &lpar;and Save Your Sanity&rpar;](https://dev.to/agasta/how-to-properly-clean-up-docker-and-save-your-sanity-4662)
+- [Rive vs Lottie: Which Animation Tool Should You Use in 2025?](https://dev.to/uianimation/rive-vs-lottie-which-animation-tool-should-you-use-in-2025-p4m)
+- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
+- [ARC AGI 3 Preview Competition — My Journey](https://dev.to/dhana_abhiraj_a1374a071a5/arc-agi-3-preview-competition-my-journey-3nmb)
 <!-- BLOG-POST-LIST:END -->
 
