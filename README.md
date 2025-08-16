@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
-- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
-- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
-- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
+- [A LeetCode Discussion: Coin Change Problems](https://dev.to/fatihimani/a-leetcode-discussion-coin-change-problems-2i16)
+- [🚀 Smart Stays – A Modern Hotel Booking System!](https://dev.to/hemang_b_ba8d35ae4a66339/smart-stays-a-modern-hotel-booking-system-2a5m)
+- [Agentes de IA e automação](https://dev.to/lucaspereiradesouzat/agentes-de-ia-e-automacao-12mn)
+- [How IoT-Based Solutions Will Revolutionize the Plastic Manufacturing Sector](https://dev.to/tim_ferriss_ce5fc283850e6/how-iot-based-solutions-will-revolutionize-the-plastic-manufacturing-sector-2m02)
 <!-- BLOG-POST-LIST:END -->
 
