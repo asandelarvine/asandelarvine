@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux ka startup Year: 2015 Creators: Dan Abramov &amp; Andrew Clark Inspiration: Facebook ka Flux architecture + Functional Programming ka concept called Elm architecture &lpar;Elm ek functional language hai&rpar;.](https://dev.to/nimra_kosar_9885e391ac9a2/redux-ka-startup-year-2015-creators-dan-abramov-andrew-clark-inspiration-facebook-ka-flux-5g4j)
-- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
-- [[Boost]](https://dev.to/alfredosalzillo/-19a8)
-- [🚀 Supercharge Your GitHub Pull Requests with AI &lpar;GPT + Gemini Powered Extension&rpar;](https://dev.to/aiyush_kumar_1b202037c371/supercharge-your-github-pull-requests-with-ai-gpt-gemini-powered-extension-2i24)
+- [Introducing Blog Stats Generator: Auto-Updating Blog Cards for Dev.to](https://dev.to/imkarthikeyan/introducing-blog-stats-generator-auto-updating-blog-cards-for-devto-iom)
+- [Implement the useDebounce custom hook in React](https://dev.to/debajit13/implement-the-usedebounce-custom-hook-in-react-2og4)
+- [Benchmark: How to use C# Parallel.ForEachAsync for 3x faster bulk file downloading time](https://dev.to/stewartcelani/benchmark-how-to-use-c-parallelforeachasync-for-3x-faster-bulk-file-downloading-time-2iie)
+- [Chai, Code and Chaos: The Indian IT Bug Comedy That Nobody Saw Coming](https://dev.to/codetestfactory/chai-code-and-chaos-the-indian-it-bug-comedy-that-nobody-saw-coming-28bm)
 <!-- BLOG-POST-LIST:END -->
 
