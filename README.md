@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Web Apps to AI Wonders: Your JavaScript Guide to Large Language Models!](https://dev.to/asimkhan0/from-web-apps-to-ai-wonders-your-javascript-guide-to-large-language-models-28lf)
-- [Deploy Pixtral at Scale: vLLM + Docker Made Simple](https://dev.to/moni121189/deploy-pixtral-at-scale-vllm-docker-made-simple-3mi6)
-- [Getting started with Computer Science - A beginner&#39;s journey.](https://dev.to/ayaz_parvez_a32e154349c83/getting-started-with-computer-science-a-beginners-journey-2fl4)
-- [Part-4: 🚀 Google Cloud Platform VM Startup Scripts Explained](https://dev.to/latchudevops/part-4-google-cloud-platform-vm-startup-scripts-explained-17g9)
+- [Secure, Self-Hosted AI Code Review Powered by Ollama](https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55)
+- [Discovering yle.fi: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh)
+- [Vanilla JavaScript and JavaScript Frameworks](https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa)
+- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
 <!-- BLOG-POST-LIST:END -->
 
