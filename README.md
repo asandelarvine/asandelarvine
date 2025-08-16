@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure, Self-Hosted AI Code Review Powered by Ollama](https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55)
-- [Discovering yle.fi: What I Found](https://dev.to/peruspuurtaja_46b7053dff1/discovering-ylefi-what-i-found-4ndh)
-- [Vanilla JavaScript and JavaScript Frameworks](https://dev.to/hazrat-ali9/vanilla-javascript-and-javascript-frameworks-33pa)
-- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
+- [Infrastructure Testing &lpar;Test Kitchen, etc.&rpar;](https://dev.to/godofgeeks/infrastructure-testing-test-kitchen-etc-3m04)
+- [Proposal web✨💝💖💞 , by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/untitled-19oe)
+- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
+- [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
 <!-- BLOG-POST-LIST:END -->
 
