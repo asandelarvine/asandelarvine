@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
-- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
-- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
-- [StatPecker](https://dev.to/gopal_ojha_f3ad36ddbf6de8/statpecker-3mfg)
+- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
+- [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
+- [&quot;Why I Built an AI Terminal with Mermaid Themes &lpar;And Why Developer Tools Should Spark Joy&rpar; 🧜‍♀️&quot;](https://dev.to/karina_gilley_cf93a8b93bc/why-i-built-an-ai-terminal-with-mermaid-themes-and-why-developer-tools-should-spark-joy--245k)
+- [100 Days of DevOps — KodeKloud Challenges &lpar;Solutions&rpar;](https://dev.to/melki_mariem_d199fbadd06f/100-days-of-devops-kodekloud-challenges-solutions-26f2)
 <!-- BLOG-POST-LIST:END -->
 
