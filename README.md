@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [POST API for pushing content on Devto](https://dev.to/shreyvijayvargiya/post-api-for-pushing-content-on-devto-23d5)
-- [Only for you bestu ❣️✨, by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/only-for-you-bestu-by-tushar-1io7)
-- [100 Days of DevOps: Day 13](https://dev.to/wycliffealphus/100-days-of-devops-day-13-55n2)
-- [Fixing C++ Compilation and Run Button Issues in VS Code on Windows](https://dev.to/devjubr/fixing-c-compilation-and-run-button-issues-in-vs-code-on-windows-1koc)
+- [Redux ka startup Year: 2015 Creators: Dan Abramov &amp; Andrew Clark Inspiration: Facebook ka Flux architecture + Functional Programming ka concept called Elm architecture &lpar;Elm ek functional language hai&rpar;.](https://dev.to/nimra_kosar_9885e391ac9a2/redux-ka-startup-year-2015-creators-dan-abramov-andrew-clark-inspiration-facebook-ka-flux-5g4j)
+- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
+- [[Boost]](https://dev.to/alfredosalzillo/-19a8)
+- [🚀 Supercharge Your GitHub Pull Requests with AI &lpar;GPT + Gemini Powered Extension&rpar;](https://dev.to/aiyush_kumar_1b202037c371/supercharge-your-github-pull-requests-with-ai-gpt-gemini-powered-extension-2i24)
 <!-- BLOG-POST-LIST:END -->
 
