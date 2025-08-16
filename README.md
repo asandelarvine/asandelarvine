@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
-- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
-- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
-- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
+- [How I Built Budget Brain🧠💰 in 12 Hours with Kiro as My AI Project Manager](https://dev.to/nitesh_more_e363f24a1270e/how-i-built-budget-brain-in-12-hours-with-kiro-as-my-ai-project-manager-1nl0)
+- [NekoCode: PR Review Feature Added - Please Help Test](https://dev.to/charmpic/nekocode-pr-review-feature-added-please-help-test-109h)
+- [fsMate package module provide advance file system control to make easily your code journy](https://dev.to/s_s_310adacfa/fsmate-package-module-provide-advance-file-system-control-to-make-easily-your-code-journy-3jod)
+- [5 analytical skills that evry Data Analyst should have](https://dev.to/mercykiria/5-analytical-skills-that-evry-data-analyst-should-have-2e19)
 <!-- BLOG-POST-LIST:END -->
 
