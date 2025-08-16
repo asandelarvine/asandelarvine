@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing `atomFamily` and `selectorFamily` in Recoil for Dynamic Async State](https://dev.to/safal_bhandari/harnessing-atomfamily-and-selectorfamily-in-recoil-for-dynamic-async-state-2cob)
-- [Next.js HTTPS on Localhost: The Easy Way for Secure Development](https://dev.to/robbiecahill/nextjs-https-on-localhost-the-easy-way-for-secure-development-2id5)
-- [What is Executive Function? Improve Focus &amp; Planning Today](https://dev.to/fluidwave/what-is-executive-function-improve-focus-planning-today-2n93)
-- [Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server](https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7)
+- [POST API for pushing content on Devto](https://dev.to/shreyvijayvargiya/post-api-for-pushing-content-on-devto-23d5)
+- [Only for you bestu ❣️✨, by TUSHAR 💗🤌🏻](https://dev.to/tushar_gurav_0217407c2390/only-for-you-bestu-by-tushar-1io7)
+- [100 Days of DevOps: Day 13](https://dev.to/wycliffealphus/100-days-of-devops-day-13-55n2)
+- [Fixing C++ Compilation and Run Button Issues in VS Code on Windows](https://dev.to/devjubr/fixing-c-compilation-and-run-button-issues-in-vs-code-on-windows-1koc)
 <!-- BLOG-POST-LIST:END -->
 
