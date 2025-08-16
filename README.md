@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
-- [Strategy Design Pattern in Laravel: Complete Guide 2025](https://dev.to/arasosman/strategy-design-pattern-in-laravel-complete-guide-2025-3ccg)
-- [&quot;Why I Built an AI Terminal with Mermaid Themes &lpar;And Why Developer Tools Should Spark Joy&rpar; 🧜‍♀️&quot;](https://dev.to/karina_gilley_cf93a8b93bc/why-i-built-an-ai-terminal-with-mermaid-themes-and-why-developer-tools-should-spark-joy--245k)
-- [100 Days of DevOps — KodeKloud Challenges &lpar;Solutions&rpar;](https://dev.to/melki_mariem_d199fbadd06f/100-days-of-devops-kodekloud-challenges-solutions-26f2)
+- [Understanding APIs: The Beginner’s Complete Guide](https://dev.to/maurice_ombewa_21d073ef7a/understanding-apis-the-beginners-complete-guide-54gl)
+- [Dijkstra&#39;s Algorithm C++: Story](https://dev.to/harshm03/dijkstras-algorithm-c-story-1h40)
+- [Bellman-Ford Algorithm C++: Story](https://dev.to/harshm03/bellman-ford-algorithm-c-story-53hj)
+- [Floyd-Warshall&#39;s Algorithm C++: Story](https://dev.to/harshm03/floyd-warshalls-algorithm-c-story-28ho)
 <!-- BLOG-POST-LIST:END -->
 
