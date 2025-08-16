@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Testing 101: How to Use Postman Like a Pro](https://dev.to/manukumar07/api-testing-101-how-to-use-postman-like-a-pro-4aej)
-- [First Smart Contract](https://dev.to/loading_blocks/first-smart-contract-3bbb)
-- [Routing and balancing losses with Mixture of Experts](https://dev.to/lewis_won/routing-and-balancing-losses-with-mixture-of-experts-19be)
-- [Building an MCP Server in Javascript](https://dev.to/anandrmedia/building-an-mcp-server-in-javascript-5133)
+- [When to Use Generic vs Non-Generic Collections in C#](https://dev.to/mariemoalla/when-to-use-generic-vs-non-generic-collections-in-c-ocb)
+- [Implementing Offline-First Architecture in Flutter: Part 2 - Building Sync Mechanisms and Handling Connectivity Changes](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-2-building-sync-mechanisms-and-handling-4mb1)
+- [JavaScript Variables &amp; Memory: The Secret Life Behind the Scenes](https://dev.to/anik_sikder_313/javascript-variables-memory-the-secret-life-behind-the-scenes-4j21)
+- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
 <!-- BLOG-POST-LIST:END -->
 
