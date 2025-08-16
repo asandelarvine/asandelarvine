@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE FIRST STEP](https://dev.to/maitreyee_aggarwal_ed16f7/the-first-step-5ek1)
-- [Curiosity and Craft: What Drives Me to Build](https://dev.to/mark_holton/curiosity-and-craft-what-drives-me-to-build-3814)
-- [Senior C#/.NET Developer Learning Plan. Day - 01.](https://dev.to/ramkumar_radhakrishnan/senior-cnet-developer-learning-planday-01-4408)
-- [The Three Generations of AI Coding Tools: A Look Into 2025’s Developer Future](https://dev.to/arkhan/the-three-generations-of-ai-coding-tools-a-look-into-2025s-developer-future-ke6)
+- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
+- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
+- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
+- [StatPecker](https://dev.to/gopal_ojha_f3ad36ddbf6de8/statpecker-3mfg)
 <!-- BLOG-POST-LIST:END -->
 
