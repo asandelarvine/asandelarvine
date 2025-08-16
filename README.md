@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Gold Image from existing installed software&lpar;GI HOME and Oracle HOME&rpar;](https://dev.to/vahidusefzadeh/creating-gold-image-from-existing-installed-softwaregi-home-and-oracle-home-p72)
-- [5 Brutal Lessons from Building a Multi-Agent AI System &lpar;And How to Avoid My Epic Fails&rpar;](https://dev.to/dpelleri/5-brutal-lessons-from-building-a-multi-agent-ai-system-and-how-to-avoid-my-epic-fails-35aa)
-- [JavaScript vs Python: which is better?](https://dev.to/rujoybarai/javascript-vs-python-which-is-better-i8o)
-- [The Secret Language of the Internet: Common Protocols Explained](https://dev.to/kishor_sutradhar_d2503ac4/the-secret-language-of-the-internet-common-protocols-explained-lgo)
+- [THE FIRST STEP](https://dev.to/maitreyee_aggarwal_ed16f7/the-first-step-5ek1)
+- [Curiosity and Craft: What Drives Me to Build](https://dev.to/mark_holton/curiosity-and-craft-what-drives-me-to-build-3814)
+- [Senior C#/.NET Developer Learning Plan. Day - 01.](https://dev.to/ramkumar_radhakrishnan/senior-cnet-developer-learning-planday-01-4408)
+- [The Three Generations of AI Coding Tools: A Look Into 2025’s Developer Future](https://dev.to/arkhan/the-three-generations-of-ai-coding-tools-a-look-into-2025s-developer-future-ke6)
 <!-- BLOG-POST-LIST:END -->
 
