@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Budget Brain🧠💰 in 12 Hours with Kiro as My AI Project Manager](https://dev.to/nitesh_more_e363f24a1270e/how-i-built-budget-brain-in-12-hours-with-kiro-as-my-ai-project-manager-1nl0)
-- [NekoCode: PR Review Feature Added - Please Help Test](https://dev.to/charmpic/nekocode-pr-review-feature-added-please-help-test-109h)
-- [fsMate package module provide advance file system control to make easily your code journy](https://dev.to/s_s_310adacfa/fsmate-package-module-provide-advance-file-system-control-to-make-easily-your-code-journy-3jod)
-- [5 analytical skills that evry Data Analyst should have](https://dev.to/mercykiria/5-analytical-skills-that-evry-data-analyst-should-have-2e19)
+- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
+- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
+- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
 <!-- BLOG-POST-LIST:END -->
 
