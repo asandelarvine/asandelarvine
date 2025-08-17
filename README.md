@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cimple: An extension that your browser deserves.](https://dev.to/nikhilshukla/building-cimple-an-extension-that-your-browser-deserves-46hg)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;2561&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture2561-30e5)
-- [Unlocking the Power of APIs with Postman: A Developer&#39;s Guide](https://dev.to/vjnvisakh/unlocking-the-power-of-apis-with-postman-a-developers-guide-2jg6)
-- [InfraGuard – Cloud Security Auditor for AWS](https://dev.to/devops_rite_2e01a60e482e0/infraguard-cloud-security-auditor-for-aws-3e3h)
+- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
+- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
+- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
+- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
 <!-- BLOG-POST-LIST:END -->
 
