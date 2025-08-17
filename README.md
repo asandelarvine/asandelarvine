@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices &amp; HTML Style Guide: Writing Clean, Maintainable, and Effective HTML](https://dev.to/sharique_siddiqui_8242dad/best-practices-html-style-guide-writing-clean-maintainable-and-effective-html-3c8e)
-- [Creating Blog Layouts: Cards, Sections, Navigation, and Responsive Design](https://dev.to/sharique_siddiqui_8242dad/creating-blog-layouts-cards-sections-navigation-and-responsive-design-2gh9)
-- [HTML Templates &amp; Shadow DOM: Reusable and Dynamic Content for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/html-templates-shadow-dom-reusable-and-dynamic-content-for-modern-web-development-3ldb)
-- [Structured Data and Microdata: Enhancing Web Content for Better Search Visibility](https://dev.to/sharique_siddiqui_8242dad/structured-data-and-microdata-enhancing-web-content-for-better-search-visibility-2718)
+- [Why Join Exponent for Coding Interview Prep?](https://dev.to/somadevtoo/why-join-exponent-for-coding-interview-prep-31li)
+- [Elegant Middleware Architecture Implementation&lpar;5785&rpar;](https://dev.to/ltpp_universe/elegant-middleware-architecture-implementation5785-h7k)
+- [Vibe Coding and the New Era of Software: From “How” to “What”](https://dev.to/yadellopez/vibe-coding-and-the-new-era-of-software-from-how-to-what-2fa5)
+- [Asynchronous Programming Patterns for Web Development&lpar;2721&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development2721-390n)
 <!-- BLOG-POST-LIST:END -->
 
