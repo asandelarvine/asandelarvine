@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Non-Tech Founders: Start Here](https://dev.to/jaideepparashar/ai-for-non-tech-founders-start-here-j6c)
-- [100 Days of DevOps: Day 14](https://dev.to/wycliffealphus/100-days-of-devops-day-14-47bg)
-- [Yeah I&#39;m Vibe Coding](https://dev.to/frankfont/yeah-im-vibe-coding-i8l)
-- [Built P2P file transfer tool for browsers](https://dev.to/andrew_dyster_c88ccbb5180/built-p2p-file-transfer-tool-for-browsers-34g5)
+- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
+- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
+- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
+- [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
 <!-- BLOG-POST-LIST:END -->
 
