@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Join Exponent for Coding Interview Prep?](https://dev.to/somadevtoo/why-join-exponent-for-coding-interview-prep-31li)
-- [Elegant Middleware Architecture Implementation&lpar;5785&rpar;](https://dev.to/ltpp_universe/elegant-middleware-architecture-implementation5785-h7k)
-- [Vibe Coding and the New Era of Software: From “How” to “What”](https://dev.to/yadellopez/vibe-coding-and-the-new-era-of-software-from-how-to-what-2fa5)
-- [Asynchronous Programming Patterns for Web Development&lpar;2721&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development2721-390n)
+- [New Choice for Cross-Platform Web Service Development&lpar;8839&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development8839-4c7j)
+- [From Pain Points to Productivity: Overcoming Angular Team Challenges](https://dev.to/karol_modelski/from-pain-points-to-productivity-overcoming-angular-team-challenges-3gk0)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4151&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers4151-54mj)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
 <!-- BLOG-POST-LIST:END -->
 
