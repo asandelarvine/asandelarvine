@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between .NET Core and .NET Framework?](https://dev.to/fullstackprepdev_sda_d43a/what-is-the-difference-between-net-core-and-net-framework-49g)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;9891&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework9891-3ig7)
-- [Programming is becoming prompting](https://dev.to/wfdin/-4hoc)
-- [`Object` Methods](https://dev.to/anthonybanion/object-methods-5b4b)
+- [Collateral-Free Growth: How Credit Guarantee Schemes Empower Women Entrepreneurs](https://dev.to/gov01/collateral-free-growth-how-credit-guarantee-schemes-empower-women-entrepreneurs-p7g)
+- [How Intlayer helps to speed up i18n](https://dev.to/pratap360/how-intlayer-helps-to-speed-up-i18n-4mh2)
+- [Criando chatbots avançados](https://dev.to/lucaspereiradesouzat/criando-chatbots-avancados-53ak)
+- [Reasons to use Common Lisp in 2025](https://dev.to/veer66/reasons-to-use-common-lisp-in-2025-523h)
 <!-- BLOG-POST-LIST:END -->
 
