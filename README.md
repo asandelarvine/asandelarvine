@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
-- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
-- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
-- [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
+- [Best Practices &amp; HTML Style Guide: Writing Clean, Maintainable, and Effective HTML](https://dev.to/sharique_siddiqui_8242dad/best-practices-html-style-guide-writing-clean-maintainable-and-effective-html-3c8e)
+- [Creating Blog Layouts: Cards, Sections, Navigation, and Responsive Design](https://dev.to/sharique_siddiqui_8242dad/creating-blog-layouts-cards-sections-navigation-and-responsive-design-2gh9)
+- [HTML Templates &amp; Shadow DOM: Reusable and Dynamic Content for Modern Web Development](https://dev.to/sharique_siddiqui_8242dad/html-templates-shadow-dom-reusable-and-dynamic-content-for-modern-web-development-3ldb)
+- [Structured Data and Microdata: Enhancing Web Content for Better Search Visibility](https://dev.to/sharique_siddiqui_8242dad/structured-data-and-microdata-enhancing-web-content-for-better-search-visibility-2718)
 <!-- BLOG-POST-LIST:END -->
 
