@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;8182&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture8182-149p)
-- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-1mic)
-- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-50k3)
-- [BST - the end in sight?](https://dev.to/codecara/bst-the-end-in-sight-4ebm)
+- [How to Set Up Laravel with PostgreSQL &lpar;Step-by-Step Guide&rpar;](https://dev.to/emmanuel_sofs/how-to-set-up-laravel-with-postgresql-step-by-step-guide-2gn0)
+- [WebSocket Revolution in Real-Time Communication&lpar;8269&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication8269-55of)
+- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
+- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
 <!-- BLOG-POST-LIST:END -->
 
