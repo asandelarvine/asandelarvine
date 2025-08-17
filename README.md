@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Perl has classes now 👍](https://dev.to/simongreennet/weekly-challenge-perl-has-classes-now-4n8e)
-- [Day 68: When One Conversation Changes Everything](https://dev.to/casperday11/day-68-when-one-conversation-changes-everything-2j37)
-- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
-- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
+- [Asynchronous Programming Patterns for Web Development&lpar;9735&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development9735-ogf)
+- [Vnoder – Instantly Visualize Your Codebase &lpar;Graph, Unused, Cyclic, Empty&rpar;](https://dev.to/ryszardo303/vnoder-instantly-visualize-your-codebase-graph-unused-cyclic-empty-2gjm)
+- [Stop Shipping Boring AI-Generated UIs](https://dev.to/junlow/stop-shipping-boring-ai-generated-uis-4ck3)
+- [Revolutionizing Code Testing: Uber&#39;s Toolbox of AI Innovations](https://dev.to/aliabdeai/revolutionizing-code-testing-ubers-toolbox-of-ai-innovations-5hnk)
 <!-- BLOG-POST-LIST:END -->
 
