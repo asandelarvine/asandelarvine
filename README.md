@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LEANN: The World&#39;s Most Lightweight Semantic Search Backend for RAG Everything 🎉](https://dev.to/yichuan_wang_fcf06c22a529/leann-the-worlds-most-lightweight-semantic-search-backend-for-rag-everything-57l9)
-- [Title: Meta&#39;s Approach to Superintelligence: Keeping Control with AI Models](https://dev.to/yagyaraj_sharma_6cd410179/title-metas-approach-to-superintelligence-keeping-control-with-ai-models-a6e)
-- [Title: The Fusion of Human and Machine: US Nuclear Weapons and Materials Research](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fusion-of-human-and-machine-us-nuclear-weapons-and-materials-research-2g01)
-- [Title: Unleashing the Power of Open-Weight Language Models: A Look at OpenAI&#39;s Latest Release and the Future of Internet Search](https://dev.to/yagyaraj_sharma_6cd410179/title-unleashing-the-power-of-open-weight-language-models-a-look-at-openais-latest-release-and-4n81)
+- [AI for Non-Tech Founders: Start Here](https://dev.to/jaideepparashar/ai-for-non-tech-founders-start-here-j6c)
+- [100 Days of DevOps: Day 14](https://dev.to/wycliffealphus/100-days-of-devops-day-14-47bg)
+- [Yeah I&#39;m Vibe Coding](https://dev.to/frankfont/yeah-im-vibe-coding-i8l)
+- [Built P2P file transfer tool for browsers](https://dev.to/andrew_dyster_c88ccbb5180/built-p2p-file-transfer-tool-for-browsers-34g5)
 <!-- BLOG-POST-LIST:END -->
 
