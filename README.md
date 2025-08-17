@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Most Effective AI Tool for App Development Today?](https://dev.to/devto-articles/what-is-the-most-effective-ai-tool-for-app-development-today-1bcn)
-- [Monitoring and Security for MCP based AI Systems](https://dev.to/om_shree_0709/monitoring-and-security-for-mcp-based-ai-systems-m0b)
-- [Building India&#39;s First Real-Time Multilingual AI Companion: A Developer&#39;s Journey](https://dev.to/aadya_madankar_6dc52aeee1/building-indias-first-real-time-multilingual-ai-companion-a-developers-journey-bjd)
-- [Developers and Communication: Why Code Alone Is No Longer Enough](https://dev.to/sonia_bobrik_1939cdddd79d/developers-and-communication-why-code-alone-is-no-longer-enough-3g58)
+- [What is the difference between .NET Core and .NET Framework?](https://dev.to/fullstackprepdev_sda_d43a/what-is-the-difference-between-net-core-and-net-framework-49g)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;9891&rpar;](https://dev.to/ltpp_universe/design-philosophy-of-zero-dependency-web-framework9891-3ig7)
+- [Programming is becoming prompting](https://dev.to/wfdin/-4hoc)
+- [`Object` Methods](https://dev.to/anthonybanion/object-methods-5b4b)
 <!-- BLOG-POST-LIST:END -->
 
