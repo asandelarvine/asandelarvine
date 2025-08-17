@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Why Most Refactors Fail — And How to Fix Them](https://dev.to/amirsaeed_skomjani/why-most-refactors-fail-and-how-to-fix-them-3adj)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
-- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
-- [React 19 useMemo Explained How to Make React Remember Stuff &lpar;and When Not To&rpar;](https://dev.to/a1guy/react-19-usememo-explained-how-to-make-react-remember-stuff-and-when-not-to-335k)
+- [Recovering Locked S3 Buckets in AWS Organizations using AssumeRoot](https://dev.to/aws-builders/recovering-locked-s3-buckets-in-aws-organizations-using-assumeroot-50o)
+- [From Side Projects to Sustainable Products: My Next Step 🚀](https://dev.to/ghostface-cyber-security/from-side-projects-to-sustainable-products-my-next-step-3en1)
+- [I Tried 5 Different OSes on My Chromebook — Here’s What Surprised Me](https://dev.to/maxreed_918/i-tried-5-different-oses-on-my-chromebook-heres-what-surprised-me-3875)
+- [Just launched 🚀 Free OCR API for developers – FreeXtract](https://dev.to/docubits_5b2297d6e752cfad/just-launched-free-ocr-api-for-developers-freextract-303g)
 <!-- BLOG-POST-LIST:END -->
 
