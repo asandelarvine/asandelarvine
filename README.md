@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Collateral-Free Growth: How Credit Guarantee Schemes Empower Women Entrepreneurs](https://dev.to/gov01/collateral-free-growth-how-credit-guarantee-schemes-empower-women-entrepreneurs-p7g)
-- [How Intlayer helps to speed up i18n](https://dev.to/pratap360/how-intlayer-helps-to-speed-up-i18n-4mh2)
-- [Criando chatbots avançados](https://dev.to/lucaspereiradesouzat/criando-chatbots-avancados-53ak)
-- [Reasons to use Common Lisp in 2025](https://dev.to/veer66/reasons-to-use-common-lisp-in-2025-523h)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 2](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-2-4cpg)
+- [Making Python Act Like Bash](https://dev.to/aayambhatt/making-python-act-like-bash-4m6n)
+- [SQL with Real Life Example Explained - 2025](https://dev.to/fullstackprepdev_sda_d43a/sql-with-real-life-example-explained-2025-4b25)
+- [🔒 SIP GAMES: VoIP Security 101](https://dev.to/sip_games/sip-games-voip-security-101-138b)
 <!-- BLOG-POST-LIST:END -->
 
