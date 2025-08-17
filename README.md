@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 2](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-2-4cpg)
-- [Making Python Act Like Bash](https://dev.to/aayambhatt/making-python-act-like-bash-4m6n)
-- [SQL with Real Life Example Explained - 2025](https://dev.to/fullstackprepdev_sda_d43a/sql-with-real-life-example-explained-2025-4b25)
-- [🔒 SIP GAMES: VoIP Security 101](https://dev.to/sip_games/sip-games-voip-security-101-138b)
+- [Beyond Chatbots: How Multi-Agent AI Systems Are Revolutionizing Software Engineering](https://dev.to/atharva_ralegankar_810842/beyond-chatbots-how-multi-agent-ai-systems-are-revolutionizing-software-engineering-26ka)
+- [𝗪𝗵𝘆 𝗺𝗮𝗻𝘆 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗿𝘂𝗻 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁-𝗗𝗿𝗶𝘃𝗲𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 &lpar;𝗘𝗗𝗔&rpar; 🚀](https://dev.to/isreal_urephu/--2gi2)
+- [Unlocking the Magic: My First ML Project – Handwritten Digit Recognition with MNIST ✨](https://dev.to/itsaryanchauhan/unlocking-the-magic-my-first-ml-project-handwritten-digit-recognition-with-mnist-349g)
+- [Interviewing in tech changed drastically after 2022 — here’s what I learned trying to navigate it](https://dev.to/london804/interviewing-in-tech-changed-drastically-after-2022-heres-what-i-learned-trying-to-navigate-it-3l05)
 <!-- BLOG-POST-LIST:END -->
 
