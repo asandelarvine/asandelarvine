@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: How Multi-Agent AI Systems Are Revolutionizing Software Engineering](https://dev.to/atharva_ralegankar_810842/beyond-chatbots-how-multi-agent-ai-systems-are-revolutionizing-software-engineering-26ka)
-- [𝗪𝗵𝘆 𝗺𝗮𝗻𝘆 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝘀 𝗿𝘂𝗻 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁-𝗗𝗿𝗶𝘃𝗲𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 &lpar;𝗘𝗗𝗔&rpar; 🚀](https://dev.to/isreal_urephu/--2gi2)
-- [Unlocking the Magic: My First ML Project – Handwritten Digit Recognition with MNIST ✨](https://dev.to/itsaryanchauhan/unlocking-the-magic-my-first-ml-project-handwritten-digit-recognition-with-mnist-349g)
-- [Interviewing in tech changed drastically after 2022 — here’s what I learned trying to navigate it](https://dev.to/london804/interviewing-in-tech-changed-drastically-after-2022-heres-what-i-learned-trying-to-navigate-it-3l05)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;8182&rpar;](https://dev.to/ltpp_universe/ultimate-optimization-of-lightweight-server-architecture8182-149p)
+- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-1mic)
+- [GetContent - Enviando resumo de notícias por e-mail](https://dev.to/cassunde/getcontent-enviando-resumo-de-noticias-por-e-mail-50k3)
+- [BST - the end in sight?](https://dev.to/codecara/bst-the-end-in-sight-4ebm)
 <!-- BLOG-POST-LIST:END -->
 
