@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Choice for Cross-Platform Web Service Development&lpar;8839&rpar;](https://dev.to/ltpp_universe/new-choice-for-cross-platform-web-service-development8839-4c7j)
-- [From Pain Points to Productivity: Overcoming Angular Team Challenges](https://dev.to/karol_modelski/from-pain-points-to-productivity-overcoming-angular-team-challenges-3gk0)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;4151&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers4151-54mj)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
+- [🔧 Why Most Refactors Fail — And How to Fix Them](https://dev.to/amirsaeed_skomjani/why-most-refactors-fail-and-how-to-fix-them-3adj)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
+- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
+- [React 19 useMemo Explained How to Make React Remember Stuff &lpar;and When Not To&rpar;](https://dev.to/a1guy/react-19-usememo-explained-how-to-make-react-remember-stuff-and-when-not-to-335k)
 <!-- BLOG-POST-LIST:END -->
 
