@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;2089&rpar;](https://dev.to/ltpp_universe/dynamic-routing-systems-for-scalable-web-applications2089-3b7j)
-- [Efficiently Migrating Data Between PostgreSQL Databases: A Practical Guide](https://dev.to/osalumense/efficiently-migrating-data-between-postgresql-databases-a-practical-guide-1np5)
-- [Your ThreadLocal Is SECRETLY Leaking Memory! FIX IT Before It Crashes!](https://dev.to/xuan_56087d315ff4f52254e6/your-threadlocal-is-secretly-leaking-memory-fix-it-before-it-crashes-4acb)
-- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
+- [1 RN Thing a Day – Day 8: Trivyignore](https://dev.to/ola_1313/1-rn-thing-a-day-day-8-trivyignore-343d)
+- [[Boost]](https://dev.to/mehulimukherjee/-5hel)
+- [Question-based web performance analysis using rsdoctor/mcp-server.](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
+- [Why You Should Choose Next.js Over React.js for Your Next Project](https://dev.to/ofodile/why-you-should-choose-nextjs-over-reactjs-for-your-next-project-2a6m)
 <!-- BLOG-POST-LIST:END -->
 
