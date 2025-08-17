@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming Patterns for Web Development&lpar;9735&rpar;](https://dev.to/ltpp_universe/asynchronous-programming-patterns-for-web-development9735-ogf)
-- [Vnoder – Instantly Visualize Your Codebase &lpar;Graph, Unused, Cyclic, Empty&rpar;](https://dev.to/ryszardo303/vnoder-instantly-visualize-your-codebase-graph-unused-cyclic-empty-2gjm)
-- [Stop Shipping Boring AI-Generated UIs](https://dev.to/junlow/stop-shipping-boring-ai-generated-uis-4ck3)
-- [Revolutionizing Code Testing: Uber&#39;s Toolbox of AI Innovations](https://dev.to/aliabdeai/revolutionizing-code-testing-ubers-toolbox-of-ai-innovations-5hnk)
+- [Amphibian SEO – A Next.js App Router-first SEO Toolkit](https://dev.to/horroramphibian/amphibian-seo-a-nextjs-app-router-first-seo-toolkit-4jbo)
+- [Why I Built YooAI — An AI Platform Without Subscriptions](https://dev.to/_af1eb8cb8faab148e10b3c/why-i-built-yooai-an-ai-platform-without-subscriptions-3dk6)
+- [I made a language where the only command is “i use arch btw” 🤯](https://dev.to/tikrack_0b5ca7f793d07d3db/i-made-a-language-where-the-only-command-is-i-use-arch-btw-1ho4)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;0035&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development0035-kfc)
 <!-- BLOG-POST-LIST:END -->
 
