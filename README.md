@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Laravel with PostgreSQL &lpar;Step-by-Step Guide&rpar;](https://dev.to/emmanuel_sofs/how-to-set-up-laravel-with-postgresql-step-by-step-guide-2gn0)
-- [WebSocket Revolution in Real-Time Communication&lpar;8269&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication8269-55of)
-- [IGN: Guilty Gear Strive - Official Lucy Starter Guide Overview Trailer](https://dev.to/gg_news/ign-guilty-gear-strive-official-lucy-starter-guide-overview-trailer-50o)
-- [IGN: Delta Force - Official Console Launch Overview Trailer](https://dev.to/gg_news/ign-delta-force-official-console-launch-overview-trailer-447d)
+- [Day 27: Jenkins Declarative Pipeline with Docker](https://dev.to/udoh_deborah_b1e484c474bf/day-27-jenkins-declarative-pipeline-with-docker-1e77)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;8554&rpar;](https://dev.to/ltpp_universe/resource-management-and-memory-efficiency-in-web-servers8554-27a)
+- [UCP: AI Reasoning Enhancement Through Bias Elimination - Open Source Release](https://dev.to/oscarlawrence/ucp-ai-reasoning-enhancement-through-bias-elimination-open-source-release-4719)
+- [Day 8-9 of My React Journey — React Router Basics](https://dev.to/usman_butt_dev/day-8-9-of-my-react-journey-react-router-basics-3cbe)
 <!-- BLOG-POST-LIST:END -->
 
