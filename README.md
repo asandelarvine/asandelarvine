@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding Business Logic: Meet Rule Engine JS](https://dev.to/crafts69guy/stop-hardcoding-business-logic-meet-rule-engine-js-52kh)
-- [ChatGPT is not just a productivity tool; it&#39;s a powerful business model with the possibility to assist all your business ideas. I’ve seen founders, solopreneurs, and even students build profitable businesses around it, often with very little upfront cost.](https://dev.to/jaideepparashar/chatgpt-is-not-just-a-productivity-tool-its-a-powerful-business-model-with-the-possibility-to-4pha)
-- [3 Powerful Business Models Using ChatGPT](https://dev.to/jaideepparashar/3-powerful-business-models-using-chatgpt-2g03)
-- [How to Save Google Drive &quot;View Only&quot; PDFs &lpar;After Trying Every Tool and Failing&rpar;](https://dev.to/arezdev/how-to-save-google-drive-view-only-pdfs-after-trying-every-tool-and-failing-1477)
+- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
+- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
+- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
+- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
 <!-- BLOG-POST-LIST:END -->
 
