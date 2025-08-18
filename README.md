@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg Dev Mailing List – Weekly Digest &lpar;Aug 9 – 15, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-9-15-2025-44o2)
-- [Smarter Project Management for Developers and Teams](https://dev.to/junaid16_75/smarter-project-management-for-developers-and-teams-3c4)
-- [Understanding leftPad Function in DataWeave](https://dev.to/kapusto/understanding-leftpad-function-in-dataweave-3e3n)
-- [Nullable Types &lpar;int?&rpar; C# da](https://dev.to/elshoddev/nullable-types-int-c-da-4c61)
+- [Construindo um App com uma API do Github, uma Collection View e um sonho](https://dev.to/lys/construindo-um-app-com-uma-api-do-github-uma-collection-view-e-um-sonho-972)
+- [How I Supercharged My React Apps Using WebAssembly &lpar;And You Can Too&rpar;](https://dev.to/7xmohamed/how-i-supercharged-my-react-apps-using-webassembly-and-you-can-too-4g05)
+- [Inline CSS vs External CSS in React Components 🎨](https://dev.to/aman_kureshi_/inline-css-vs-external-css-in-react-components-55hb)
+- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
 <!-- BLOG-POST-LIST:END -->
 
