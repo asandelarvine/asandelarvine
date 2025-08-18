@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 `useDeferredValue` Deep Dive — How to Keep Your UI Smooth When Things Get Heavy](https://dev.to/a1guy/react-19-usedeferredvalue-deep-dive-how-to-keep-your-ui-smooth-when-things-get-heavy-1gdl)
-- [E-commerce Feeds Caching Strategy: Temu vs PDD&#39;s Technical Choices](https://dev.to/childrentime/e-commerce-feeds-caching-strategy-temu-vs-pdds-technical-choices-1j4g)
-- [See the Full Picture. Deliver Better Care.](https://dev.to/dipti_moryani_08e62702314/see-the-full-picture-deliver-better-care-1faf)
-- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
+- [Coding in the Age of AI](https://dev.to/puritanic/coding-in-the-age-of-ai-355m)
+- [What Two Years of Bootstrapping an AI Startup in India Taught Us](https://dev.to/1geek/what-two-years-of-bootstrapping-an-ai-startup-in-india-taught-us-3h2j)
+- [How AI is Changing Milestone Tracking in Project Management](https://dev.to/dct_technology/how-ai-is-changing-milestone-tracking-in-project-management-5g7d)
+- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
 <!-- BLOG-POST-LIST:END -->
 
