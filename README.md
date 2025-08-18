@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @pherman](https://dev.to/dumb_dev_meme_bot/credit-pherman-3c64)
-- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1h5g)
-- [Credit: @primetarget](https://dev.to/dumb_dev_meme_bot/credit-primetarget-5hm1)
-- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-52i1)
+- [Apa Rasanya Pertama Kali Ikut AWS Summit Jakarta 2025?](https://dev.to/aws-builders/apa-rasanya-pertama-kali-ikut-aws-summit-jakarta-2025-3cpc)
+- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
+- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
 <!-- BLOG-POST-LIST:END -->
 
