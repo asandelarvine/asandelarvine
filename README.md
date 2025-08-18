@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Real-Time Cache Refresh Using Azure Queue &lpar;Without Redis, Service Bus, or Pub/Sub&rpar;](https://dev.to/imnitinsingh/real-time-cache-refresh-using-azure-queue-without-redis-service-bus-or-pubsub-4g5b)
-- [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
-- [Recovery of Microsoft Dynamics NAV 2002 R2 and SQL Server](https://dev.to/ivajofranc/recovery-of-microsoft-dynamics-nav-2002-r2-and-sql-server-1n07)
-- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
+- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
+- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
+- [The Silent Killer in Your Java Code: Is Your List Exploding?](https://dev.to/xuan_56087d315ff4f52254e6/the-silent-killer-in-your-java-code-is-your-list-exploding-13mo)
+- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
 <!-- BLOG-POST-LIST:END -->
 
