@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lynxjs Extension Pack](https://dev.to/bastndev/lynxjs-extension-pack-19hi)
-- [A Blog Has Been Better for My Career Than a Portfolio](https://dev.to/canro91/a-blog-has-been-better-for-my-career-than-a-portfolio-41gd)
-- [Perl 🐪 Weekly #734 - CPAN Day](https://dev.to/szabgab/perl-weekly-734-cpan-day-op6)
-- [GPU Costs Melting Your Budget](https://dev.to/sathish/gpu-costs-melting-your-budget-3n03)
+- [Why We as Programmers Shouldn’t Use AI Art](https://dev.to/dumboprogrammer/why-we-as-programmers-shouldnt-use-ai-art-3fnj)
+- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
+- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
+- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
 <!-- BLOG-POST-LIST:END -->
 
