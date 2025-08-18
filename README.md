@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding in the Age of AI](https://dev.to/puritanic/coding-in-the-age-of-ai-355m)
-- [What Two Years of Bootstrapping an AI Startup in India Taught Us](https://dev.to/1geek/what-two-years-of-bootstrapping-an-ai-startup-in-india-taught-us-3h2j)
-- [How AI is Changing Milestone Tracking in Project Management](https://dev.to/dct_technology/how-ai-is-changing-milestone-tracking-in-project-management-5g7d)
-- [Data Privacy and Vibe Coding](https://dev.to/az19eth/data-privacy-and-vibe-coding-150c)
+- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
+- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
+- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
+- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
 <!-- BLOG-POST-LIST:END -->
 
