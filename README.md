@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
-- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
-- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
-- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
+- [Smarter Security: How AI is Transforming Gates, Barriers, and Garage Automation](https://dev.to/automaticgatesabudhabibit/smarter-security-how-ai-is-transforming-gates-barriers-and-garage-automation-13pa)
+- [The 5 Whys Technique for Remote Work Problems](https://dev.to/thecrankypm/the-5-whys-technique-for-remote-work-problems-of4)
+- [Tableau Filtering Actions Made Easy](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-filtering-actions-made-easy-112d)
+- [Accessibility failures -FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-2f31)
 <!-- BLOG-POST-LIST:END -->
 
