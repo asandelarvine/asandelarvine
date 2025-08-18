@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XPath &amp; CSS Selectors](https://dev.to/walltech/xpath-css-selectors-p2n)
-- [Why You Need to Learn JavaScript](https://dev.to/ofodile/why-you-need-to-learn-javascript-5dm3)
-- [Learning Data Types and Operators in Java](https://dev.to/kirubagaran_k_438a86c991/learning-data-types-and-operators-in-java-5ahf)
-- [Open-source project management app](https://dev.to/maxim-fin/open-source-project-management-app-ieg)
+- [1 RN Thing a Day – Day 9: Animated API](https://dev.to/ola_1313/1-rn-thing-a-day-day-9-animated-api-2i72)
+- [How to Automate Installing Windows Apps](https://dev.to/ahmedaidev/how-to-automate-installing-windows-apps-4kp8)
+- [GeometryReader in SwiftUI: From UIKit Frames to Declarative Layouts](https://dev.to/arshtechpro/geometryreader-in-swiftui-from-uikit-frames-to-declarative-layouts-2kip)
+- [The Python Learning Journey: From Beginner Confusion to Advanced Mastery](https://dev.to/jason_dev/the-python-learning-journey-from-beginner-confusion-to-advanced-mastery-1hj3)
 <!-- BLOG-POST-LIST:END -->
 
