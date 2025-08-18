@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Security: How AI is Transforming Gates, Barriers, and Garage Automation](https://dev.to/automaticgatesabudhabibit/smarter-security-how-ai-is-transforming-gates-barriers-and-garage-automation-13pa)
-- [The 5 Whys Technique for Remote Work Problems](https://dev.to/thecrankypm/the-5-whys-technique-for-remote-work-problems-of4)
-- [Tableau Filtering Actions Made Easy](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-filtering-actions-made-easy-112d)
-- [Accessibility failures -FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-2f31)
+- [🚀 10 AI-Powered VSCode Extensions That Changed My Workflow](https://dev.to/ilsa_shaikh_089e2bfab0bf4/10-ai-powered-vscode-extensions-that-changed-my-workflow-4959)
+- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
+- [Using Custom Metadata in Apex to Replace Hardcoded Configuration Values](https://dev.to/this8/using-custom-metadata-in-apex-to-replace-hardcoded-configuration-values-506f)
+- [🌗 Dark Mode is Dead? The Shift to Adaptive Theme Design](https://dev.to/ilsa_shaikh_089e2bfab0bf4/dark-mode-is-dead-the-shift-to-adaptive-theme-design-56la)
 <!-- BLOG-POST-LIST:END -->
 
