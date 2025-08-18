@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo um App com uma API do Github, uma Collection View e um sonho](https://dev.to/lys/construindo-um-app-com-uma-api-do-github-uma-collection-view-e-um-sonho-972)
-- [How I Supercharged My React Apps Using WebAssembly &lpar;And You Can Too&rpar;](https://dev.to/7xmohamed/how-i-supercharged-my-react-apps-using-webassembly-and-you-can-too-4g05)
-- [Inline CSS vs External CSS in React Components 🎨](https://dev.to/aman_kureshi_/inline-css-vs-external-css-in-react-components-55hb)
-- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
+- [The Silent Doubt: Why I Built My First VS Code Extension 🤔](https://dev.to/vijay431/the-silent-doubt-why-i-built-my-first-vs-code-extension-143i)
+- [C# Constructor va Overloading — Oddiy va Tushunarli](https://dev.to/elshoddev/c-constructor-va-overloading-oddiy-va-tushunarli-c6o)
+- [Story: How I installed the &quot;IntelliJ&quot; in Linux mint](https://dev.to/abishek_44a09d1e1af19b4ca/story-how-i-installed-the-intellij-in-linux-mint-5155)
+- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
 <!-- BLOG-POST-LIST:END -->
 
