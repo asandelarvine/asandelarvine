@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Doubt: Why I Built My First VS Code Extension 🤔](https://dev.to/vijay431/the-silent-doubt-why-i-built-my-first-vs-code-extension-143i)
-- [C# Constructor va Overloading — Oddiy va Tushunarli](https://dev.to/elshoddev/c-constructor-va-overloading-oddiy-va-tushunarli-c6o)
-- [Story: How I installed the &quot;IntelliJ&quot; in Linux mint](https://dev.to/abishek_44a09d1e1af19b4ca/story-how-i-installed-the-intellij-in-linux-mint-5155)
-- [⚡ Building a Real‑Time Collaborative Form Editing System with Django Channels, WebSockets &amp; Redis](https://dev.to/bharat_solanke_8e45411fa6/building-a-real-time-collaborative-form-editing-system-with-django-channels-websockets-redis-2egl)
+- [🚀 Epic Adventure: Deploy Your App Across AWS Accounts with Docker &amp; ECR! ✌️](https://dev.to/suvrajeet/epic-adventure-deploy-your-app-across-aws-accounts-with-docker-ecr-m4j)
+- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
+- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
+- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
 <!-- BLOG-POST-LIST:END -->
 
