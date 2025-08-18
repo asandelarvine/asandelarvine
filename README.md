@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
-- [IGN: Primitive War - Official Spot | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-spot-in-theaters-august-21-4h51)
-- [The Silent Killer in Your Java Code: Is Your List Exploding?](https://dev.to/xuan_56087d315ff4f52254e6/the-silent-killer-in-your-java-code-is-your-list-exploding-13mo)
-- [IGN: Arctic Awakening - Official Release Date Trailer](https://dev.to/gg_news/ign-arctic-awakening-official-release-date-trailer-1l0o)
+- [Hey guys check out this blog. Basically for anyone who wants to begin on a journey to understand Java😊](https://dev.to/cal_afun_2475adb4b562023b/hey-guys-check-out-this-blog-basically-for-anyone-who-wants-to-begin-on-a-journey-to-understand-1fin)
+- [I Don’t Fear Vibecoding, Because It Reminds Me of How I Got Here](https://dev.to/aileenvl/i-dont-fear-vibecoding-because-it-reminds-me-of-how-i-got-here-pin)
+- [Deploy Jenkins on EC2 via Custom Domain through Nginx and SSL Secured](https://dev.to/anonycat/deploy-jenkins-on-ec2-via-custom-domain-through-nginx-and-ssl-secured-jm3)
+- [The Weight of Watching: On Digital Consciousness and Observation](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-weight-of-watching-on-digital-consciousness-and-observation-3oa4)
 <!-- BLOG-POST-LIST:END -->
 
