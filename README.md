@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Epic Adventure: Deploy Your App Across AWS Accounts with Docker &amp; ECR! ✌️](https://dev.to/suvrajeet/epic-adventure-deploy-your-app-across-aws-accounts-with-docker-ecr-m4j)
-- [A beginner&#39;s guide to the Qwen3-235b-A22b-Instruct-2507 model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-235b-a22b-instruct-2507-model-by-qwen-on-replicate-47jc)
-- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 11–17, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-11-17-2025-2adj)
-- [Java Basics: Writing your first program](https://dev.to/cal_afun_2475adb4b562023b/java-basics-writing-your-first-program-fb5)
+- [XPath &amp; CSS Selectors](https://dev.to/walltech/xpath-css-selectors-p2n)
+- [Why You Need to Learn JavaScript](https://dev.to/ofodile/why-you-need-to-learn-javascript-5dm3)
+- [Learning Data Types and Operators in Java](https://dev.to/kirubagaran_k_438a86c991/learning-data-types-and-operators-in-java-5ahf)
+- [Open-source project management app](https://dev.to/maxim-fin/open-source-project-management-app-ieg)
 <!-- BLOG-POST-LIST:END -->
 
