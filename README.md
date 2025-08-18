@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1 RN Thing a Day – Day 8: Trivyignore](https://dev.to/ola_1313/1-rn-thing-a-day-day-8-trivyignore-343d)
-- [[Boost]](https://dev.to/mehulimukherjee/-5hel)
-- [Question-based web performance analysis using rsdoctor/mcp-server.](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
-- [Why You Should Choose Next.js Over React.js for Your Next Project](https://dev.to/ofodile/why-you-should-choose-nextjs-over-reactjs-for-your-next-project-2a6m)
+- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
+- [Simplifying Git: A Practical Guide for Everyday Use.](https://dev.to/zxcodes/simplifying-git-a-practical-guide-for-everyday-use-26np)
+- [Improving Performance of Async Operations in JavaScript.](https://dev.to/zxcodes/improving-performance-of-async-operations-in-javascript-1201)
+- [A React Admin Dashboard Template Built with Vite and Shadcn](https://dev.to/jqueryscript/a-react-admin-dashboard-template-built-with-vite-and-shadcn-4o6a)
 <!-- BLOG-POST-LIST:END -->
 
