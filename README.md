@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
-- [Simplifying Git: A Practical Guide for Everyday Use.](https://dev.to/zxcodes/simplifying-git-a-practical-guide-for-everyday-use-26np)
-- [Improving Performance of Async Operations in JavaScript.](https://dev.to/zxcodes/improving-performance-of-async-operations-in-javascript-1201)
-- [A React Admin Dashboard Template Built with Vite and Shadcn](https://dev.to/jqueryscript/a-react-admin-dashboard-template-built-with-vite-and-shadcn-4o6a)
+- [Stop Hardcoding Business Logic: Meet Rule Engine JS](https://dev.to/crafts69guy/stop-hardcoding-business-logic-meet-rule-engine-js-52kh)
+- [ChatGPT is not just a productivity tool; it&#39;s a powerful business model with the possibility to assist all your business ideas. I’ve seen founders, solopreneurs, and even students build profitable businesses around it, often with very little upfront cost.](https://dev.to/jaideepparashar/chatgpt-is-not-just-a-productivity-tool-its-a-powerful-business-model-with-the-possibility-to-4pha)
+- [3 Powerful Business Models Using ChatGPT](https://dev.to/jaideepparashar/3-powerful-business-models-using-chatgpt-2g03)
+- [How to Save Google Drive &quot;View Only&quot; PDFs &lpar;After Trying Every Tool and Failing&rpar;](https://dev.to/arezdev/how-to-save-google-drive-view-only-pdfs-after-trying-every-tool-and-failing-1477)
 <!-- BLOG-POST-LIST:END -->
 
