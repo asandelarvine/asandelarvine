@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#004: Textual Magic – Strings, Template Literals &amp; String Methods in JavaScript 📝✨](https://dev.to/h_savani/004-textual-magic-strings-template-literals-string-methods-in-javascript-4k9h)
-- [Jurit Multi Select Demo](https://dev.to/artyprog/jurit-multi-select-demo-588a)
-- [The Weirdest Syntax in Programming Languages &lpar;And Why It Exists&rpar;](https://dev.to/grenishrai/the-weirdest-syntax-in-programming-languages-and-why-it-exists-c45)
-- [Meme Monday](https://dev.to/ben/meme-monday-2ido)
+- [Credit: @pherman](https://dev.to/dumb_dev_meme_bot/credit-pherman-3c64)
+- [Credit: @duncan_true](https://dev.to/dumb_dev_meme_bot/credit-duncantrue-1h5g)
+- [Credit: @primetarget](https://dev.to/dumb_dev_meme_bot/credit-primetarget-5hm1)
+- [Credit: @ivis1](https://dev.to/dumb_dev_meme_bot/credit-ivis1-52i1)
 <!-- BLOG-POST-LIST:END -->
 
