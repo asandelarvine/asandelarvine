@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apa Rasanya Pertama Kali Ikut AWS Summit Jakarta 2025?](https://dev.to/aws-builders/apa-rasanya-pertama-kali-ikut-aws-summit-jakarta-2025-3cpc)
-- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
-- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
+- [Apache Iceberg Dev Mailing List – Weekly Digest &lpar;Aug 9 – 15, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-mailing-list-weekly-digest-aug-9-15-2025-44o2)
+- [Smarter Project Management for Developers and Teams](https://dev.to/junaid16_75/smarter-project-management-for-developers-and-teams-3c4)
+- [Understanding leftPad Function in DataWeave](https://dev.to/kapusto/understanding-leftpad-function-in-dataweave-3e3n)
+- [Nullable Types &lpar;int?&rpar; C# da](https://dev.to/elshoddev/nullable-types-int-c-da-4c61)
 <!-- BLOG-POST-LIST:END -->
 
