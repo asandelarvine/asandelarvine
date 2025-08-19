@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a WordPress Blog on AWS with RDS &amp; EC2 📰☁️](https://dev.to/yash_sonawane25/deploy-a-wordpress-blog-on-aws-with-rds-ec2-292b)
-- [Secure Google API access with OAuth authorization and token storage](https://dev.to/logto/secure-google-api-access-with-oauth-authorization-and-token-storage-3k8g)
-- [Earl Sebagai Bahasa Menyusahkan Orang](https://dev.to/dev_nazwashabrina/earl-sebagai-bahasa-menyusahkan-orang-5gek)
-- [Pi-hole in Docker on macOS for newbies](https://dev.to/ylub/pi-hole-in-docker-on-macos-for-newbies-55ig)
+- [Building a PDF Chatbot with LangChain, Ollama, and Chroma: A Step-by-Step Tutorial](https://dev.to/jamesbmour/building-a-pdf-chatbot-with-langchain-ollama-and-chroma-a-step-by-step-tutorial-30hd)
+- [命令行神器 The Fuck，敲错命令的后悔药](https://dev.to/immerse/ming-ling-xing-shen-qi-the-fuckqiao-cuo-ming-ling-de-hou-hui-yao-45og)
+- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
+- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
 <!-- BLOG-POST-LIST:END -->
 
