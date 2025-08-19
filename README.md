@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with API Automation: Simple Integration with Code](https://dev.to/otieno_keith/getting-started-with-api-automation-simple-integration-with-code-48i7)
-- [Using Webhooks for Instant Automation Workflows &lpar;with Code Example&rpar;](https://dev.to/otieno_keith/using-webhooks-for-instant-automation-workflows-with-code-example-38pj)
-- [Automated Testing for Web Apps with Cypress](https://dev.to/otieno_keith/automated-testing-for-web-apps-with-cypress-2omb)
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
+- [We&#39;re the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.](https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4)
+- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
+- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
+- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
 <!-- BLOG-POST-LIST:END -->
 
