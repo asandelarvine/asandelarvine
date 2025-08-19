@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Video Ad Creator with AWS Nova and Strands Agents](https://dev.to/debadattap/building-an-ai-powered-video-ad-creator-with-aws-nova-and-strands-agents-2ogn)
-- [College vs Skills — Student POV](https://dev.to/waqar_akhtar_f4a1df2340f1/college-vs-skills-student-pov-13pi)
-- [How to Read a Circuit Diagram: Insights from a Senior Engineer](https://dev.to/frank_1871bc3c55f35370df3/how-to-read-a-circuit-diagram-insights-from-a-senior-engineer-5756)
-- [Online ticket booking web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/online-ticket-booking-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-2icp)
+- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
+- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
+- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
+- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
 <!-- BLOG-POST-LIST:END -->
 
