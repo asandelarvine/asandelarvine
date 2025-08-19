@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
-- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
-- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
+- [Getting Started with API Automation: Simple Integration with Code](https://dev.to/otieno_keith/getting-started-with-api-automation-simple-integration-with-code-48i7)
+- [Using Webhooks for Instant Automation Workflows &lpar;with Code Example&rpar;](https://dev.to/otieno_keith/using-webhooks-for-instant-automation-workflows-with-code-example-38pj)
+- [Automated Testing for Web Apps with Cypress](https://dev.to/otieno_keith/automated-testing-for-web-apps-with-cypress-2omb)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
 <!-- BLOG-POST-LIST:END -->
 
