@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
-- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
-- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
-- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
+- [# Drunk Transformer: five regulators that keep your model sober enough to hit the target](https://dev.to/onestardao/-drunk-transformer-five-regulators-that-keep-your-model-sober-enough-to-hit-the-target-1en0)
+- [Next JS + Express + Mongo + AI stack](https://dev.to/shubhamtiwari909/next-js-express-mongo-ai-stack-4epj)
+- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
+- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
 <!-- BLOG-POST-LIST:END -->
 
