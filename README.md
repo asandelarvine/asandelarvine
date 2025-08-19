@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
-- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
-- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
-- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
+- [🚀 Throttle vs Debounce in JavaScript – The Ultimate Guide with Examples](https://dev.to/rohit_singh_ee84e64941db7/throttle-vs-debounce-in-javascript-the-ultimate-guide-with-examples-l1b)
+- [Can You Build AI Agents in Rust? Yep, and Here’s How I Did it](https://dev.to/composiodev/can-you-build-ai-agents-in-rust-yep-and-heres-how-i-did-it-2b5i)
+- [[Boost]](https://dev.to/bdussault/-3l16)
+- [The Life of a React Native Developer: From Code to App Store 🚀](https://dev.to/dainy_jose/the-life-of-a-react-native-developer-from-code-to-app-store-nnb)
 <!-- BLOG-POST-LIST:END -->
 
