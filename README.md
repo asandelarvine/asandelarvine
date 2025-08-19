@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.](https://dev.to/adewebdeveloper/if-you-understand-how-languages-and-compilers-actually-work-youll-write-better-code-and-learn-new-4bmh)
-- [The 48 Hours That Changed Tech Forever: AI&#39;s Biggest Breakthroughs Yet](https://dev.to/shiva_shanker_k/the-48-hours-that-changed-tech-forever-ais-biggest-breakthroughs-yet-47o7)
-- [I would never recommend going straight into freelancing.](https://dev.to/adewebdeveloper/i-would-never-recommend-going-straight-into-freelancing-4apk)
-- [How to Choose the Right Tech Stack for Fintech App Development](https://dev.to/simran_k/how-to-choose-the-right-tech-stack-for-fintech-app-development-4fco)
+- [Introducing SCAN - A Must Have Plugin](https://dev.to/theaniketraj/introducing-scan-a-must-have-plugin-47jh)
+- [Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
+- [The Smart Way Pandas Handles Overlapping Column Names](https://dev.to/drorata/the-smart-way-pandas-handles-overlapping-column-names-4jko)
+- [Cloudflare WAF Best Practices: Features, Challenges, and Alternatives](https://dev.to/carrie_luo1/cloudflare-waf-best-practices-features-challenges-and-alternatives-g17)
 <!-- BLOG-POST-LIST:END -->
 
