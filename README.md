@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your Discord Server Active and Engaged](https://dev.to/apis/how-to-make-your-discord-server-active-and-engaged-1d34)
-- [MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview](https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck)
-- [Live Examples - Modern Angular Patterns &lpar;2025&rpar;: Signals, NgRx, RxJS, Web Components, A11y &amp; Performance Testing](https://dev.to/jdavissoftware/live-examples-modern-angular-patterns-2025-signals-ngrx-rxjs-web-components-a11y--53em)
-- [Running AI Models with Docker Compose](https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng)
+- [🚀 Announcing StackBlink India’s First Developer-Focused Hosting Platform &lpar;Now with 22+ Tech Stacks&rpar;](https://dev.to/stackblink/announcing-stackblink-indias-first-developer-focused-hosting-platform-now-with-22-tech-stacks-5ccc)
+- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `62`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-62-4pp1)
+- [Understanding React Native for Web and Why It Matters to Developers](https://dev.to/nencywilliams/understanding-react-native-for-web-and-why-it-matters-to-developers-4a9e)
+- [Generative AI in Software Development: Opportunities, Risks, and Best Practices](https://dev.to/sanjay_serviots_08ee56986/generative-ai-in-software-development-opportunities-risks-and-best-practices-2hep)
 <!-- BLOG-POST-LIST:END -->
 
