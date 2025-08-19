@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SCAN - A Must Have Plugin](https://dev.to/theaniketraj/introducing-scan-a-must-have-plugin-47jh)
-- [Terraform Module Example – Resource Group Creation on Azure](https://dev.to/techmademi/terraform-module-example-resource-group-creation-on-azure-281)
-- [The Smart Way Pandas Handles Overlapping Column Names](https://dev.to/drorata/the-smart-way-pandas-handles-overlapping-column-names-4jko)
-- [Cloudflare WAF Best Practices: Features, Challenges, and Alternatives](https://dev.to/carrie_luo1/cloudflare-waf-best-practices-features-challenges-and-alternatives-g17)
+- [Best AI Code Review Tools That Will Save You Hours🕛](https://dev.to/dev_kiran/best-ai-code-review-tools-that-will-save-you-hours-25l3)
+- [Microsoft Launches POML: Making Prompt Engineering Structured &amp; Developer-Friendly](https://dev.to/bhuvaneshm_dev/microsoft-launches-poml-making-prompt-engineering-structured-developer-friendly-4a6h)
+- [how should start learning backend ?](https://dev.to/mohannad-ayman/how-should-start-learning-backend--521a)
+- [From Idea to Laravel App in Minutes &lpar;No Coding Required&rpar;](https://dev.to/avinashvagh/from-idea-to-laravel-app-in-minutes-no-coding-required-5b0h)
 <!-- BLOG-POST-LIST:END -->
 
