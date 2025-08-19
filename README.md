@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Throttle vs Debounce in JavaScript – The Ultimate Guide with Examples](https://dev.to/rohit_singh_ee84e64941db7/throttle-vs-debounce-in-javascript-the-ultimate-guide-with-examples-l1b)
-- [Can You Build AI Agents in Rust? Yep, and Here’s How I Did it](https://dev.to/composiodev/can-you-build-ai-agents-in-rust-yep-and-heres-how-i-did-it-2b5i)
-- [[Boost]](https://dev.to/bdussault/-3l16)
-- [The Life of a React Native Developer: From Code to App Store 🚀](https://dev.to/dainy_jose/the-life-of-a-react-native-developer-from-code-to-app-store-nnb)
+- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
+- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
+- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
 <!-- BLOG-POST-LIST:END -->
 
