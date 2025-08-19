@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a PDF Chatbot with LangChain, Ollama, and Chroma: A Step-by-Step Tutorial](https://dev.to/jamesbmour/building-a-pdf-chatbot-with-langchain-ollama-and-chroma-a-step-by-step-tutorial-30hd)
-- [命令行神器 The Fuck，敲错命令的后悔药](https://dev.to/immerse/ming-ling-xing-shen-qi-the-fuckqiao-cuo-ming-ling-de-hou-hui-yao-45og)
-- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
-- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
+- [🏁Lollypop Designathon 2025 – Where Design Bridges Technology to Users](https://dev.to/lollypopdesign/lollypop-designathon-2025-where-design-bridges-technology-to-users-4gb7)
+- [Prompt engineering is a mindset, a way of thinking that allows you to translate human needs into clear instructions AI can understand. Even if you don’t code, you can think like a prompt engineer and unlock 10x better results with AI. Here’s how.](https://dev.to/jaideepparashar/prompt-engineering-is-a-mindset-a-way-of-thinking-that-allows-you-to-translate-human-needs-into-476i)
+- [How to Think Like a Prompt Engineer &lpar;Even Without Coding&rpar;](https://dev.to/jaideepparashar/how-to-think-like-a-prompt-engineer-even-without-coding-769)
+- [SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-the-self-hosted-firewall-every-homelab-needs-3peo)
 <!-- BLOG-POST-LIST:END -->
 
