@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re the Google DeepMind Team building Gemini, Google AI Studio, and more! Ask Us Anything.](https://dev.to/googleai/were-the-google-deepmind-team-building-gemini-google-ai-studio-and-more-ask-us-anything-4k4)
-- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
-- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
-- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
+- [Family First #44](https://dev.to/0xj0n1/family-first-44-50ka)
+- [Excellent contribution, especially useful for those looking to dive deeper into the topic](https://dev.to/juanperez/excellent-contribution-especially-useful-for-those-looking-to-dive-deeper-into-the-topic-2n35)
+- [From Rejection to Retrospective: Building a 2D Game CV &lpar;Part 1&rpar;](https://dev.to/alextor/from-rejection-to-retrospective-building-a-2d-game-cv-part-1-291l)
+- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
 <!-- BLOG-POST-LIST:END -->
 
