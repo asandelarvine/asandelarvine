@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Family First #44](https://dev.to/0xj0n1/family-first-44-50ka)
-- [Excellent contribution, especially useful for those looking to dive deeper into the topic](https://dev.to/juanperez/excellent-contribution-especially-useful-for-those-looking-to-dive-deeper-into-the-topic-2n35)
-- [From Rejection to Retrospective: Building a 2D Game CV &lpar;Part 1&rpar;](https://dev.to/alextor/from-rejection-to-retrospective-building-a-2d-game-cv-part-1-291l)
-- [Grant Horvat: Can We Break a Public Course Record? &lpar;Frustrating&rpar;](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-public-course-record-frustrating-nl6)
+- [Kotlin:&#39;Generics&#39; Questions](https://dev.to/raji_ac_547dee39c0395e6bf/kotlingenerics-questions-228c)
+- [Stop wasting hours on i18n – I built a CLI that does it in seconds](https://dev.to/asad_rafi1221/stop-wasting-hours-on-i18n-i-built-a-cli-that-does-it-in-seconds-1ffk)
+- [How MNC React Developer](https://dev.to/tahir_rafique/how-mnc-react-developer-127l)
+- [HuntingPad: The Chrome Extension for Ambitious Job Seekers](https://dev.to/galih_huntingpad_267414f1/huntingpad-the-chrome-extension-for-ambitious-job-seekers-5d4j)
 <!-- BLOG-POST-LIST:END -->
 
