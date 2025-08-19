@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coursera vs Udemy: Which Platform Should You Actually Learn From?](https://dev.to/stack_overflowed/coursera-vs-udemy-which-platform-should-you-actually-learn-from-4jld)
-- [Why I Write My README Before I Touch the Keyboard](https://dev.to/leena_malhotra_355340d89c/why-i-write-my-readme-before-i-touch-the-keyboard-1c11)
-- [🗓 Daily LeetCode Progress – Day 4](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-4-2ba2)
-- [Habitica&lpar;gamified todo app&rpar; aligns disturbingly well with the UK’s Online Safety Act](https://dev.to/owly/habiticagamified-todo-app-aligns-disturbingly-well-with-the-uks-online-safety-act-g3a)
+- [If you understand how languages and compilers actually work, you’ll write better code and learn new languages more easily.](https://dev.to/adewebdeveloper/if-you-understand-how-languages-and-compilers-actually-work-youll-write-better-code-and-learn-new-4bmh)
+- [The 48 Hours That Changed Tech Forever: AI&#39;s Biggest Breakthroughs Yet](https://dev.to/shiva_shanker_k/the-48-hours-that-changed-tech-forever-ais-biggest-breakthroughs-yet-47o7)
+- [I would never recommend going straight into freelancing.](https://dev.to/adewebdeveloper/i-would-never-recommend-going-straight-into-freelancing-4apk)
+- [How to Choose the Right Tech Stack for Fintech App Development](https://dev.to/simran_k/how-to-choose-the-right-tech-stack-for-fintech-app-development-4fco)
 <!-- BLOG-POST-LIST:END -->
 
