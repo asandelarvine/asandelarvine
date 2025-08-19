@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Announcing StackBlink India’s First Developer-Focused Hosting Platform &lpar;Now with 22+ Tech Stacks&rpar;](https://dev.to/stackblink/announcing-stackblink-indias-first-developer-focused-hosting-platform-now-with-22-tech-stacks-5ccc)
-- [## 🧠 Solving LeetCode Until I Become Top 1% — Day `62`](https://dev.to/therealrishat/-solving-leetcode-until-i-become-top-1-day-62-4pp1)
-- [Understanding React Native for Web and Why It Matters to Developers](https://dev.to/nencywilliams/understanding-react-native-for-web-and-why-it-matters-to-developers-4a9e)
-- [Generative AI in Software Development: Opportunities, Risks, and Best Practices](https://dev.to/sanjay_serviots_08ee56986/generative-ai-in-software-development-opportunities-risks-and-best-practices-2hep)
+- [Understanding Azure Hybrid Benefit](https://dev.to/techielass/understanding-azure-hybrid-benefit-31ji)
+- [How to Register a Service Worker With Vite and Rollup Without Plugins](https://dev.to/fedtti/how-to-register-a-service-worker-with-vite-and-rollup-without-plugins-3i71)
+- [Master Dynamic Theming in Angular: Build Scalable Theme Architecture with SCSS](https://dev.to/codewithrajat/master-dynamic-theming-in-angular-build-scalable-theme-architecture-with-scss-3k6m)
+- [Why Slack Messages Are Killing Your Staging Environment Workflow](https://dev.to/stagingapp/why-slack-messages-are-killing-your-staging-environment-workflow-3kej)
 <!-- BLOG-POST-LIST:END -->
 
