@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Drunk Transformer: five regulators that keep your model sober enough to hit the target](https://dev.to/onestardao/-drunk-transformer-five-regulators-that-keep-your-model-sober-enough-to-hit-the-target-1en0)
-- [Next JS + Express + Mongo + AI stack](https://dev.to/shubhamtiwari909/next-js-express-mongo-ai-stack-4epj)
-- [Go Coding with Asparagos: Sunflowers and the Speaking Challenge](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
-- [Remember to set the frequency for replication to Litestream!](https://dev.to/lucianghinda/remember-to-set-the-frequency-for-replication-to-litestream-3foj)
+- [Coursera vs Udemy: Which Platform Should You Actually Learn From?](https://dev.to/stack_overflowed/coursera-vs-udemy-which-platform-should-you-actually-learn-from-4jld)
+- [Why I Write My README Before I Touch the Keyboard](https://dev.to/leena_malhotra_355340d89c/why-i-write-my-readme-before-i-touch-the-keyboard-1c11)
+- [🗓 Daily LeetCode Progress – Day 4](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-4-2ba2)
+- [Habitica&lpar;gamified todo app&rpar; aligns disturbingly well with the UK’s Online Safety Act](https://dev.to/owly/habiticagamified-todo-app-aligns-disturbingly-well-with-the-uks-online-safety-act-g3a)
 <!-- BLOG-POST-LIST:END -->
 
