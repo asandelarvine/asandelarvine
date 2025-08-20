@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working Shifts? Tips to Overcome Shift Work Sleep Disorder](https://dev.to/maya_elison_1edb8e9a29181/working-shifts-tips-to-overcome-shift-work-sleep-disorder-4o9h)
-- [Agile Terminology in 2025 and 2026: New Words Teams Are Using](https://dev.to/taskford/agile-terminology-in-2025-and-2026-new-words-teams-are-using-491)
-- [How I Use AI to Refactor Without Losing Control](https://dev.to/leena_malhotra_355340d89c/how-i-use-ai-to-refactor-without-losing-control-437c)
-- [IT Project Life Cycle Phases: Detailed Breakdown &lpar;With Examples&rpar;](https://dev.to/taskford/it-project-life-cycle-phases-detailed-breakdown-with-examples-2no9)
+- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
+- [Paradigm Shifters – The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4g57)
+- [Discover the Exciting Stories of the IT Industry - 1990s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-in-the-1990s-3fbg)
+- [Discover the Exciting Stories of the IT Industry - 1980s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1980s-50g4)
 <!-- BLOG-POST-LIST:END -->
 
