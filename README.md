@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing on Oracle Autonomous Database - Using Spatial](https://dev.to/derrickryangiggs/developing-on-oracle-autonomous-database-using-spatial-2dd5)
-- [Step-Back Prompting: Get LLMs to Reason — Not Just Predict](https://dev.to/abhishek_gautam-01/step-back-prompting-get-llms-to-reason-not-just-predict-5865)
-- [WeDidIT: Cultivating Compassion and Leadership Through Volunteering](https://dev.to/suangana_roy_abe0c1d34c49/wedidit-cultivating-compassion-and-leadership-through-volunteering-4833)
-- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
+- [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
+- [Context is King: How Contextual Prompting Transforms AI Outputs](https://dev.to/abhishek_gautam-01/context-is-king-how-contextual-prompting-transforms-ai-outputs-19ma)
+- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
+- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
 <!-- BLOG-POST-LIST:END -->
 
