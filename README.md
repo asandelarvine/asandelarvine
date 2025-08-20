@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Offboarding Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/offboarding-technical-guide-iae)
-- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
-- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
-- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
+- [Working Shifts? Tips to Overcome Shift Work Sleep Disorder](https://dev.to/maya_elison_1edb8e9a29181/working-shifts-tips-to-overcome-shift-work-sleep-disorder-4o9h)
+- [Agile Terminology in 2025 and 2026: New Words Teams Are Using](https://dev.to/taskford/agile-terminology-in-2025-and-2026-new-words-teams-are-using-491)
+- [How I Use AI to Refactor Without Losing Control](https://dev.to/leena_malhotra_355340d89c/how-i-use-ai-to-refactor-without-losing-control-437c)
+- [IT Project Life Cycle Phases: Detailed Breakdown &lpar;With Examples&rpar;](https://dev.to/taskford/it-project-life-cycle-phases-detailed-breakdown-with-examples-2no9)
 <!-- BLOG-POST-LIST:END -->
 
