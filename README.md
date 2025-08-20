@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-2hcm)
-- [Bug fix release 2.06 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-206-for-the-perl-distribution-workflow-53l6)
-- [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
-- [Why Most Sprint Plannings Run Over Time &lpar;and How I Fixed It in 100+ Sprints&rpar;](https://dev.to/gsauzande/why-most-sprint-plannings-run-over-time-and-how-i-fixed-it-in-100-sprints-nal)
+- [Developing on Oracle Autonomous Database - Using Spatial](https://dev.to/derrickryangiggs/developing-on-oracle-autonomous-database-using-spatial-2dd5)
+- [Step-Back Prompting: Get LLMs to Reason — Not Just Predict](https://dev.to/abhishek_gautam-01/step-back-prompting-get-llms-to-reason-not-just-predict-5865)
+- [WeDidIT: Cultivating Compassion and Leadership Through Volunteering](https://dev.to/suangana_roy_abe0c1d34c49/wedidit-cultivating-compassion-and-leadership-through-volunteering-4833)
+- [Exploring the Advantages and Applications of Flexible PCBs in Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/exploring-the-advantages-and-applications-of-flexible-pcbs-in-modern-electronics-14k1)
 <!-- BLOG-POST-LIST:END -->
 
