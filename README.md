@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍⭐ What is API Versioning? Why is it Important?](https://dev.to/rencberakman/what-is-api-versioning-why-is-it-important-16c7)
-- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-3389)
-- [Boost Your EF Core Productivity in PostgreSQL With Entity Developer](https://dev.to/antonmartyniuk/boost-your-ef-core-productivity-in-postgresql-with-entity-developer-5e1p)
-- [役員変更登記](https://dev.to/suzulabo/yi-yuan-bian-geng-deng-ji-237g)
+- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
+- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
+- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
+- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
 <!-- BLOG-POST-LIST:END -->
 
