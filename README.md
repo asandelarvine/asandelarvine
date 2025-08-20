@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
-- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
-- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
-- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
+- [🤯 Tricky Java Interview Questions Explained with Analogies](https://dev.to/fullstackprepdevwebd_f353/tricky-java-interview-questions-explained-with-analogies-50dk)
+- [Why Mobile Apps Deserve Their Own CMS](https://dev.to/running_squirrel/why-mobile-apps-deserve-their-own-cms-311f)
+- [📘 Top 50 Java Interview Questions Every Developer Must Master](https://dev.to/fullstackprepdevwebd_f353/top-50-java-interview-questions-every-developer-must-master-24j7)
+- [Why Every Developer Should Build a Mini SaaS &lpar;Even if You Don’t Plan to Sell It&rpar;](https://dev.to/saifiimuhammad/why-every-developer-should-build-a-mini-saas-even-if-you-dont-plan-to-sell-it-3053)
 <!-- BLOG-POST-LIST:END -->
 
