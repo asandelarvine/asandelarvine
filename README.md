@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React The Right Way For Blazing Fast Apps](https://dev.to/fenigma/optimizing-react-the-right-way-for-blazing-fast-apps-22np)
-- [Context is King: How Contextual Prompting Transforms AI Outputs](https://dev.to/abhishek_gautam-01/context-is-king-how-contextual-prompting-transforms-ai-outputs-19ma)
-- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
-- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
+- [Deploy Angular App to Cloudflare Pages](https://dev.to/gridou/deploy-angular-app-to-cloudflare-pages-37k9)
+- [Why don&#39;t police have a universal key to all the locks?](https://dev.to/alembiq/why-dont-police-have-a-universal-key-to-all-the-locks-3aef)
+- [From Virtual Assistant to Frontend Developer:](https://dev.to/thecodepath/from-virtual-assistant-to-frontend-developer-20ea)
+- [Road to self-driving development](https://dev.to/tracygjg/road-to-self-driving-development-5hl3)
 <!-- BLOG-POST-LIST:END -->
 
