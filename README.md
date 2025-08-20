@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
-- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
-- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
-- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
+- [Build a Rocket with LEGOs](https://dev.to/cadienvan/build-a-rocket-with-legos-5ck1)
+- [MCP vs. APIs: Which Is Better for Advanced AI Development?](https://dev.to/fallon_jimmy/mcp-vs-apis-which-is-better-for-advanced-ai-development-i18)
+- [Web Components &amp; Custom Elements](https://dev.to/godofgeeks/web-components-custom-elements-3jg0)
+- [How to Use GDAL in Web Applications &lpar;Part 3&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-3-1bc)
 <!-- BLOG-POST-LIST:END -->
 
