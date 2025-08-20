@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
-- [The Divide Between AI-Fluent and AI-Resistant Developers](https://dev.to/cdownard/the-divide-between-ai-fluent-and-ai-resistant-developers-58l5)
-- [Solving the N+1 Query Bottleneck: A Practical Guide with Go &amp; SQL](https://dev.to/isthisrishi/solving-the-n1-query-bottleneck-a-practical-guide-with-go-sql-4kfg)
-- [Why I Love Coding &amp; Storytelling Together](https://dev.to/brute/why-i-love-coding-storytelling-together-340j)
+- [GameSpot: Call of Duty Black Ops 7: First Impressions](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-first-impressions-d80)
+- [IGN: Dune: Awakening - Official Chapter 2 Update Overview Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-dune-awakening-official-chapter-2-update-overview-trailer-into-the-infinite-2025-2c7l)
+- [IGN: Den of Wolves - Official Pre-Alpha Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-den-of-wolves-official-pre-alpha-trailer-into-the-infinite-2025-206o)
+- [IGN: The Expanse: Osiris Reborn - Official Environment Showcase Trailer](https://dev.to/gg_news/ign-the-expanse-osiris-reborn-official-environment-showcase-trailer-4h6c)
 <!-- BLOG-POST-LIST:END -->
 
