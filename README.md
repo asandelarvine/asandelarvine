@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Callback 📞 vs Promise 🤞 based functions](https://dev.to/randhavevaibhav/callback-vs-promise-based-functions-4l9m)
-- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
-- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
-- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
+- [[Boost]](https://dev.to/ben/-2hcm)
+- [Bug fix release 2.06 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-206-for-the-perl-distribution-workflow-53l6)
+- [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
+- [Why Most Sprint Plannings Run Over Time &lpar;and How I Fixed It in 100+ Sprints&rpar;](https://dev.to/gsauzande/why-most-sprint-plannings-run-over-time-and-how-i-fixed-it-in-100-sprints-nal)
 <!-- BLOG-POST-LIST:END -->
 
