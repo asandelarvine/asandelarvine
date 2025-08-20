@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Angular App to Cloudflare Pages](https://dev.to/gridou/deploy-angular-app-to-cloudflare-pages-37k9)
-- [Why don&#39;t police have a universal key to all the locks?](https://dev.to/alembiq/why-dont-police-have-a-universal-key-to-all-the-locks-3aef)
-- [From Virtual Assistant to Frontend Developer:](https://dev.to/thecodepath/from-virtual-assistant-to-frontend-developer-20ea)
-- [Road to self-driving development](https://dev.to/tracygjg/road-to-self-driving-development-5hl3)
+- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
+- [The Divide Between AI-Fluent and AI-Resistant Developers](https://dev.to/cdownard/the-divide-between-ai-fluent-and-ai-resistant-developers-58l5)
+- [Solving the N+1 Query Bottleneck: A Practical Guide with Go &amp; SQL](https://dev.to/isthisrishi/solving-the-n1-query-bottleneck-a-practical-guide-with-go-sql-4kfg)
+- [Why I Love Coding &amp; Storytelling Together](https://dev.to/brute/why-i-love-coding-storytelling-together-340j)
 <!-- BLOG-POST-LIST:END -->
 
