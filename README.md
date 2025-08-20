@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Rocket with LEGOs](https://dev.to/cadienvan/build-a-rocket-with-legos-5ck1)
-- [MCP vs. APIs: Which Is Better for Advanced AI Development?](https://dev.to/fallon_jimmy/mcp-vs-apis-which-is-better-for-advanced-ai-development-i18)
-- [Web Components &amp; Custom Elements](https://dev.to/godofgeeks/web-components-custom-elements-3jg0)
-- [How to Use GDAL in Web Applications &lpar;Part 3&rpar;](https://dev.to/yangholmes/how-to-use-gdal-in-web-applications-part-3-1bc)
+- [Offboarding Technical Guide](https://dev.to/hediyeh_kianmehr_45f78137/offboarding-technical-guide-iae)
+- [Building Microservices: Designing Scalable and Maintainable Back-End Architectures](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-microservices-designing-scalable-and-maintainable-back-end-architectures-43o9)
+- [10 Clean Code Principles Every Developer Should Follow ✨](https://dev.to/fludapp/10-clean-code-principles-every-developer-should-follow-51k3)
+- [Why Testing?](https://dev.to/szabgab/why-testing-578n)
 <!-- BLOG-POST-LIST:END -->
 
