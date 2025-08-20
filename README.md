@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Black Ops 7: First Impressions](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-first-impressions-d80)
-- [IGN: Dune: Awakening - Official Chapter 2 Update Overview Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-dune-awakening-official-chapter-2-update-overview-trailer-into-the-infinite-2025-2c7l)
-- [IGN: Den of Wolves - Official Pre-Alpha Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-den-of-wolves-official-pre-alpha-trailer-into-the-infinite-2025-206o)
-- [IGN: The Expanse: Osiris Reborn - Official Environment Showcase Trailer](https://dev.to/gg_news/ign-the-expanse-osiris-reborn-official-environment-showcase-trailer-4h6c)
+- [Epoxy Flooring Austin](https://dev.to/epoxyinaustin/epoxy-flooring-austin-8f3)
+- [Dev Log 08](https://dev.to/asx/dev-log-08-321f)
+- [Will AI Replace Data Analysts?](https://dev.to/kapusto/will-ai-replace-data-analysts-48ic)
+- [Anypoint MQ: Enabling Robust Messaging for Modern Integration](https://dev.to/kapusto/anypoint-mq-enabling-robust-messaging-for-modern-integration-360)
 <!-- BLOG-POST-LIST:END -->
 
