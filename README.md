@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
-- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
-- [ん, and?](https://dev.to/yowise/n-and-3mn1)
-- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
+- [Sejarah Earl Bahasa Pemrograman](https://dev.to/dev_nazwashabrina/sejarah-earl-bahasa-pemrograman-121c)
+- [Scaling a virtual machine through your gallery in Azure](https://dev.to/clinton_mbilitem_17fbf80c/scaling-a-virtual-machine-through-your-gallery-in-azure-3ef0)
+- [第2章：Qlib数据层深度解析](https://dev.to/henry_lin_3ac6363747f45b4/di-2zhang-qlibshu-ju-ceng-shen-du-jie-xi-2ph0)
+- [第1章：量化投资与Qlib平台介绍](https://dev.to/henry_lin_3ac6363747f45b4/di-1zhang-liang-hua-tou-zi-yu-qlibping-tai-jie-shao-2c37)
 <!-- BLOG-POST-LIST:END -->
 
