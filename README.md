@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
-- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
-- [Why Most AI Startups Will Fail in 2025 — And What the Survivors Will Have in Common](https://dev.to/koolkamalkishor/why-most-ai-startups-will-fail-in-2025-and-what-the-survivors-will-have-in-common-242c)
-- [Two new Ruby podcasts from Rails Foundation and Ruby Central](https://dev.to/lucianghinda/two-new-ruby-podcasts-from-rails-foundation-and-ruby-central-207m)
+- [Callback 📞 vs Promise 🤞 based functions](https://dev.to/randhavevaibhav/callback-vs-promise-based-functions-4l9m)
+- [Mastering Self-Consistency Prompting](https://dev.to/abhishek_gautam-01/mastering-self-consistency-prompting-h7c)
+- [What Most Consultants Miss About AI &lpar;And What Still Actually Works&rpar;](https://dev.to/remotebranch/what-most-consultants-miss-about-ai-and-what-still-actually-works-1be7)
+- [DocWire SDK 2025.08.xx Released – GPT-5 Now Fully Integrated, New Default Model](https://dev.to/novitzmann/docwire-sdk-202508xx-released-gpt-5-now-fully-integrated-new-default-model-3l3b)
 <!-- BLOG-POST-LIST:END -->
 
