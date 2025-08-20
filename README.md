@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Port Does Ping Use?](https://dev.to/lightningdev123/what-port-does-ping-use-2n78)
-- [Paradigm Shifters – The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4g57)
-- [Discover the Exciting Stories of the IT Industry - 1990s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-in-the-1990s-3fbg)
-- [Discover the Exciting Stories of the IT Industry - 1980s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1980s-50g4)
+- [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
+- [Design and Implement Role-Based Access with AWS IAM](https://dev.to/immah/design-and-implement-role-based-access-with-aws-iam-3bbf)
+- [My Journey Learning SQL with PostgreSQL: Leveling Up My Backend Skills](https://dev.to/vincent_f48e4268cf6b259fc/my-journey-learning-sql-with-postgresql-leveling-up-my-backend-skills-407l)
+- [How AI and Machine Learning Are Transforming Android App Features](https://dev.to/william16077582/how-ai-and-machine-learning-are-transforming-android-app-features-3cg4)
 <!-- BLOG-POST-LIST:END -->
 
