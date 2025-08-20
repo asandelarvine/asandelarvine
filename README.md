@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-3g1m)
-- [n8n vs AI Agent Platforms: Which One Wins?](https://dev.to/ciphernutz/n8n-vs-ai-agent-platforms-which-one-wins-ng8)
-- [How to Remove a Directory in Linux: A Simple Guide](https://dev.to/rash_samy_79f0b386b9d7d2c/how-to-remove-a-directory-in-linux-1ngo)
-- [How I Built a Chrome Extension That Parses Any Job Site Without Scraping](https://dev.to/galihm/how-i-built-a-chrome-extension-that-parses-any-job-site-without-scraping-3ng)
+- [VPS Performance Reality Check 2025: Who’s Actually Fast &lpar;and Worth the Money&rpar;?](https://dev.to/sst21/vps-performance-reality-check-2025-whos-actually-fast-and-worth-the-money-1g6g)
+- [Python tips and tricks](https://dev.to/mcheremnov/python-tips-and-tricks-13bj)
+- [Why Most AI Startups Will Fail in 2025 — And What the Survivors Will Have in Common](https://dev.to/koolkamalkishor/why-most-ai-startups-will-fail-in-2025-and-what-the-survivors-will-have-in-common-242c)
+- [Two new Ruby podcasts from Rails Foundation and Ruby Central](https://dev.to/lucianghinda/two-new-ruby-podcasts-from-rails-foundation-and-ruby-central-207m)
 <!-- BLOG-POST-LIST:END -->
 
