@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sejarah Earl Bahasa Pemrograman](https://dev.to/dev_nazwashabrina/sejarah-earl-bahasa-pemrograman-121c)
-- [Scaling a virtual machine through your gallery in Azure](https://dev.to/clinton_mbilitem_17fbf80c/scaling-a-virtual-machine-through-your-gallery-in-azure-3ef0)
-- [第2章：Qlib数据层深度解析](https://dev.to/henry_lin_3ac6363747f45b4/di-2zhang-qlibshu-ju-ceng-shen-du-jie-xi-2ph0)
-- [第1章：量化投资与Qlib平台介绍](https://dev.to/henry_lin_3ac6363747f45b4/di-1zhang-liang-hua-tou-zi-yu-qlibping-tai-jie-shao-2c37)
+- [n8n](https://dev.to/lexycodestudio/n8n-5aoc)
+- [第3章：Qlib监督学习模型](https://dev.to/henry_lin_3ac6363747f45b4/di-3zhang-qlibjian-du-xue-xi-mo-xing-38cg)
+- [Don’t Panic Yet: Breaking Down the Latest Apache Solr RCE Vulnerability](https://dev.to/sharon_42e16b8da44dabde6d/dont-panic-yet-breaking-down-the-latest-apache-solr-rce-vulnerability-51k4)
+- [Why does IoT Pose Challenges for User Data Privacy?](https://dev.to/shriyansh_iot_98734929139/why-does-iot-pose-challenges-for-user-data-privacy-3cj3)
 <!-- BLOG-POST-LIST:END -->
 
