@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a PostgreSQL Schema Visually &lpar;Step-by-Step&rpar;](https://dev.to/roxana_haidiner/how-to-design-a-postgresql-schema-visually-step-by-step-2d6a)
-- [Design and Implement Role-Based Access with AWS IAM](https://dev.to/immah/design-and-implement-role-based-access-with-aws-iam-3bbf)
-- [My Journey Learning SQL with PostgreSQL: Leveling Up My Backend Skills](https://dev.to/vincent_f48e4268cf6b259fc/my-journey-learning-sql-with-postgresql-leveling-up-my-backend-skills-407l)
-- [How AI and Machine Learning Are Transforming Android App Features](https://dev.to/william16077582/how-ai-and-machine-learning-are-transforming-android-app-features-3cg4)
+- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-3g1m)
+- [n8n vs AI Agent Platforms: Which One Wins?](https://dev.to/ciphernutz/n8n-vs-ai-agent-platforms-which-one-wins-ng8)
+- [How to Remove a Directory in Linux: A Simple Guide](https://dev.to/rash_samy_79f0b386b9d7d2c/how-to-remove-a-directory-in-linux-1ngo)
+- [How I Built a Chrome Extension That Parses Any Job Site Without Scraping](https://dev.to/galihm/how-i-built-a-chrome-extension-that-parses-any-job-site-without-scraping-3ng)
 <!-- BLOG-POST-LIST:END -->
 
