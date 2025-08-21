@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Defensive Programming: The Hidden Dangers of Spread Operators in Request Payloads](https://dev.to/marco_cheung_/defensive-programming-the-hidden-dangers-of-spread-operators-in-request-payloads-2mda)
-- [Linutil: Your New Best Friend for Effortless Linux System Management](https://dev.to/githubopensource/linutil-your-new-best-friend-for-effortless-linux-system-management-b6o)
-- [Composable Architecture in Mobile Apps: A Complete Guide for iOS and Android Teams](https://dev.to/iprogrammer_solutionspvt/composable-architecture-in-mobile-apps-a-complete-guide-for-ios-and-android-teams-2g8j)
-- [4 Easiest Ways to Set Up Email for Your App &lpar;With Real Examples&rpar;](https://dev.to/kedster/4-easiest-ways-to-set-up-email-for-your-app-with-real-examples-3fne)
+- [Day 72: The Daily Struggle: Consistency, Class, and Code](https://dev.to/casperday11/day-72-the-daily-struggle-consistency-class-and-code-1b8)
+- [Solidity Constructor](https://dev.to/loading_blocks/solidity-constructor-1kk5)
+- [Remote Desktop Monitoring: Securing Remote Access in the Digital Workplace](https://dev.to/kapusto/remote-desktop-monitoring-securing-remote-access-in-the-digital-workplace-1d5n)
+- [How I Deployed My First Web Page on the Cloud with EC2 and Apache](https://dev.to/oyewole_afuwape_f195efb15/how-i-deployed-my-first-web-page-on-the-cloud-with-ec2-and-apache-k4j)
 <!-- BLOG-POST-LIST:END -->
 
