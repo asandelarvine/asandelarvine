@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 72: The Daily Struggle: Consistency, Class, and Code](https://dev.to/casperday11/day-72-the-daily-struggle-consistency-class-and-code-1b8)
-- [Solidity Constructor](https://dev.to/loading_blocks/solidity-constructor-1kk5)
-- [Remote Desktop Monitoring: Securing Remote Access in the Digital Workplace](https://dev.to/kapusto/remote-desktop-monitoring-securing-remote-access-in-the-digital-workplace-1d5n)
-- [How I Deployed My First Web Page on the Cloud with EC2 and Apache](https://dev.to/oyewole_afuwape_f195efb15/how-i-deployed-my-first-web-page-on-the-cloud-with-ec2-and-apache-k4j)
+- [SQL Q. series 1 - Last Person to Fit in the Bus 🚌🚌](https://dev.to/randhavevaibhav/sql-q-series-1-last-person-to-fit-in-the-bus-1bcp)
+- [&#39;Doglabbing&#39; ngrok: Eyes-only photo sharing with immich and OIDC](https://dev.to/ngrok/doglabbing-ngrok-eyes-only-photo-sharing-with-immich-and-oidc-4oal)
+- [4 Layer PCB Stackup](https://dev.to/frank_1871bc3c55f35370df3/4-layer-pcb-stackup-3o7n)
+- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
 <!-- BLOG-POST-LIST:END -->
 
