@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best React Library for Data-driven Applications - Your fave might not be on that list](https://dev.to/pmbanugo/the-best-react-library-for-data-driven-applications-your-fave-might-not-be-on-that-list-2g19)
-- [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
-- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
-- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
+- [My ALX Vision Board: Visualizing the Next 4 Months](https://dev.to/thecodepath/my-alx-vision-board-visualizing-the-next-4-months-1ga0)
+- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3fhc)
+- [How I manage my Google Chrome tabs and you should too](https://dev.to/zdunecki/how-i-manage-my-google-chrome-tabs-and-you-should-too-1cg0)
+- [AI for everyone: Who’s Leading the AI race — ChatGPT, Gemini, Claude, Copilot and More?](https://dev.to/josepico/ai-for-everyone-whos-leading-the-ai-race-chatgpt-gemini-claude-copilot-and-more-3lif)
 <!-- BLOG-POST-LIST:END -->
 
