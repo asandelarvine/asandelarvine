@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial Fungsi, Percabangan, dan Pengelolaan Data dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/tutorial-fungsi-percabangan-dan-pengelolaan-data-dalam-bahasa-earl-31db)
-- [Unlock the Full Potential of ChatGPT &lpar;or any LLM&rpar; in Just Two Simple Steps](https://dev.to/anjana_j/unlock-the-full-potential-of-chatgpt-or-any-llm-in-just-two-simple-steps-1plb)
-- [Surfing with FP Java - Mastering Predicate](https://dev.to/borba/surfing-with-fp-java-mastering-predicate-1nb2)
-- [#Hacker News &lpar;Show HN: 70k Photon Tawaf Simulation – HTML Canvas&rpar;, Lobsters &lpar;Show&rpar;, Hashnode/DEV.to](https://dev.to/hakimi_zin_1e1bdeb90439bd/simulation-al-bayt-al-mamur-14i3)
+- [If Statements](https://dev.to/kyusunpark/if-statements-417c)
+- [[Boost]](https://dev.to/nishikantaray/-876)
+- [4 Best Open Source No-Code/Low-Code Platforms to Build Ticketing System](https://dev.to/nocobase/4-best-open-source-no-codelow-code-platforms-to-build-ticketing-system-g3o)
+- [I&#39;ve been dancing around this idea for a long time now. Regardless of my title, how the industry is shaping, how tech evolves, the core of why I love this industry is because it&#39;s really all about learning...and I&#39;m a learning nerd 🤓](https://dev.to/drguthals/ive-been-dancing-around-this-idea-for-a-long-time-now-regardless-of-my-title-how-the-industry-is-36h6)
 <!-- BLOG-POST-LIST:END -->
 
