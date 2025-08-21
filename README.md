@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-1c77)
-- [GameSpot: Zero Parades: First Impressions &lpar;The Disco Elysium Sequel&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-the-disco-elysium-sequel-4p32)
-- [Part-17: 🚀Google Cloud Compute Engine - Graphic Process Unit and Machine Families](https://dev.to/latchudevops/part-17-google-cloud-compute-engine-graphic-process-unit-and-machine-families-2k27)
-- [Career growth depends on the result you create and not the time you spend learning. Learn fast, take action fast. This is my go to step up to learn anything fast, and implement.](https://dev.to/jaideepparashar/career-growth-depends-on-the-result-you-create-and-not-the-time-you-spend-learning-learn-fast-2e1d)
+- [The Evolution of B2B Data Exchange: Why APIs Are Redefining Supply Chain Connectivity](https://dev.to/rosieschuck/the-evolution-of-b2b-data-exchange-why-apis-are-redefining-supply-chain-connectivity-19e1)
+- [🎓 College Student &amp; Course Management System with SQL &lpar;Step by Step&rpar;](https://dev.to/rohith_95/college-student-course-management-system-with-sql-step-by-step-1adj)
+- [🚀 I Built My Own Website](https://dev.to/ahmad_5d864107b7ca4b35599/i-built-my-own-website-4i7)
+- [Monitoring Infrastructure with Prometheus and Grafana: A Practical Guide](https://dev.to/caffinecoder54/monitoring-infrastructure-with-prometheus-and-grafana-a-practical-guide-ch9)
 <!-- BLOG-POST-LIST:END -->
 
