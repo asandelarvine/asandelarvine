@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of B2B Data Exchange: Why APIs Are Redefining Supply Chain Connectivity](https://dev.to/rosieschuck/the-evolution-of-b2b-data-exchange-why-apis-are-redefining-supply-chain-connectivity-19e1)
-- [🎓 College Student &amp; Course Management System with SQL &lpar;Step by Step&rpar;](https://dev.to/rohith_95/college-student-course-management-system-with-sql-step-by-step-1adj)
-- [🚀 I Built My Own Website](https://dev.to/ahmad_5d864107b7ca4b35599/i-built-my-own-website-4i7)
-- [Monitoring Infrastructure with Prometheus and Grafana: A Practical Guide](https://dev.to/caffinecoder54/monitoring-infrastructure-with-prometheus-and-grafana-a-practical-guide-ch9)
+- [Example Code for CH9143](https://dev.to/danielmx/example-code-for-ch9143-13e5)
+- [Hybrid vector + text Search in the terminal with SurrealDB and Ratatui](https://dev.to/surrealdb/hybrid-vector-text-search-in-the-terminal-with-surrealdb-and-ratatui-3go3)
+- [Great read!](https://dev.to/linkin/great-read-551d)
+- [COLLEGE STUDENT &amp; COURSE MANAGEMENT SYSTEM WITH ORACLE LIVE SQL](https://dev.to/nidheesh_/college-student-course-management-system-with-oracle-live-sql-237a)
 <!-- BLOG-POST-LIST:END -->
 
