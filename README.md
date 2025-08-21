@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If Statements](https://dev.to/kyusunpark/if-statements-417c)
-- [[Boost]](https://dev.to/nishikantaray/-876)
-- [4 Best Open Source No-Code/Low-Code Platforms to Build Ticketing System](https://dev.to/nocobase/4-best-open-source-no-codelow-code-platforms-to-build-ticketing-system-g3o)
-- [I&#39;ve been dancing around this idea for a long time now. Regardless of my title, how the industry is shaping, how tech evolves, the core of why I love this industry is because it&#39;s really all about learning...and I&#39;m a learning nerd 🤓](https://dev.to/drguthals/ive-been-dancing-around-this-idea-for-a-long-time-now-regardless-of-my-title-how-the-industry-is-36h6)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-1c77)
+- [GameSpot: Zero Parades: First Impressions &lpar;The Disco Elysium Sequel&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-the-disco-elysium-sequel-4p32)
+- [Part-17: 🚀Google Cloud Compute Engine - Graphic Process Unit and Machine Families](https://dev.to/latchudevops/part-17-google-cloud-compute-engine-graphic-process-unit-and-machine-families-2k27)
+- [Career growth depends on the result you create and not the time you spend learning. Learn fast, take action fast. This is my go to step up to learn anything fast, and implement.](https://dev.to/jaideepparashar/career-growth-depends-on-the-result-you-create-and-not-the-time-you-spend-learning-learn-fast-2e1d)
 <!-- BLOG-POST-LIST:END -->
 
