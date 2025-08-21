@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My ALX Vision Board: Visualizing the Next 4 Months](https://dev.to/thecodepath/my-alx-vision-board-visualizing-the-next-4-months-1ga0)
-- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3fhc)
-- [How I manage my Google Chrome tabs and you should too](https://dev.to/zdunecki/how-i-manage-my-google-chrome-tabs-and-you-should-too-1cg0)
-- [AI for everyone: Who’s Leading the AI race — ChatGPT, Gemini, Claude, Copilot and More?](https://dev.to/josepico/ai-for-everyone-whos-leading-the-ai-race-chatgpt-gemini-claude-copilot-and-more-3lif)
+- [Defensive Programming: The Hidden Dangers of Spread Operators in Request Payloads](https://dev.to/marco_cheung_/defensive-programming-the-hidden-dangers-of-spread-operators-in-request-payloads-2mda)
+- [Linutil: Your New Best Friend for Effortless Linux System Management](https://dev.to/githubopensource/linutil-your-new-best-friend-for-effortless-linux-system-management-b6o)
+- [Composable Architecture in Mobile Apps: A Complete Guide for iOS and Android Teams](https://dev.to/iprogrammer_solutionspvt/composable-architecture-in-mobile-apps-a-complete-guide-for-ios-and-android-teams-2g8j)
+- [4 Easiest Ways to Set Up Email for Your App &lpar;With Real Examples&rpar;](https://dev.to/kedster/4-easiest-ways-to-set-up-email-for-your-app-with-real-examples-3fne)
 <!-- BLOG-POST-LIST:END -->
 
