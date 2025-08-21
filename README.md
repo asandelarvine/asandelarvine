@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨️ DAY 3 OF 100 ✨️](https://dev.to/lyop_achayi/day-3-of-100-2pe6)
-- [Meta E4 Software Engineer Interview Experience: I was rejected!](https://dev.to/_1c38abf3f8630eeac6180/meta-e4-software-engineer-interview-experience-i-was-rejected-45bm)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3p92)
-- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
+- [The Best React Library for Data-driven Applications - Your fave might not be on that list](https://dev.to/pmbanugo/the-best-react-library-for-data-driven-applications-your-fave-might-not-be-on-that-list-2g19)
+- [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
+- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
+- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
 <!-- BLOG-POST-LIST:END -->
 
