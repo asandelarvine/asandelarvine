@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
-- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
-- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
-- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
+- [SQL Queries : College Student &amp; Course Management System](https://dev.to/rohivarshini_saravanan_29/sql-queries-college-student-course-management-system-9f)
+- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
+- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
+- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
 <!-- BLOG-POST-LIST:END -->
 
