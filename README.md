@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement AES-256 Encryption and Decryption in C#: A Beginner-Friendly Guide](https://dev.to/auyeungdavid_2847435260/implement-aes-256-encryption-and-decryption-in-c-a-beginner-friendly-guide-4a6h)
-- [Technical Sales &amp; Presales 101: The very basics](https://dev.to/lukasniessen/technical-sales-presales-101-the-very-basics-49nh)
-- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
-- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
+- [Linus Tech Tips &lpar;LTT&rpar;: It&#39;s Finally Complete! And it only took 45 days...](https://dev.to/future_youtube/linus-tech-tips-ltt-its-finally-complete-and-it-only-took-45-days-h5n)
+- [IGN: Battlestar Galactica: Scattered Hopes Aims to Deliver an FTL-Like Roguelike](https://dev.to/gg_news/ign-battlestar-galactica-scattered-hopes-aims-to-deliver-an-ftl-like-roguelike-3dm1)
+- [IGN: World of Warcraft is Finally Getting Player Housing, Here&#39;s How it Works | gamescom 2025](https://dev.to/gg_news/ign-world-of-warcraft-is-finally-getting-player-housing-heres-how-it-works-gamescom-2025-26g3)
+- [IGN: Warhammer 40,000 Mechanicus 2 - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-warhammer-40000-mechanicus-2-official-gameplay-overview-trailer-2e0l)
 <!-- BLOG-POST-LIST:END -->
 
