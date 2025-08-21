@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Q. series 1 - Last Person to Fit in the Bus 🚌🚌](https://dev.to/randhavevaibhav/sql-q-series-1-last-person-to-fit-in-the-bus-1bcp)
-- [&#39;Doglabbing&#39; ngrok: Eyes-only photo sharing with immich and OIDC](https://dev.to/ngrok/doglabbing-ngrok-eyes-only-photo-sharing-with-immich-and-oidc-4oal)
-- [4 Layer PCB Stackup](https://dev.to/frank_1871bc3c55f35370df3/4-layer-pcb-stackup-3o7n)
-- [🎨 Code Meets Design — The Portfolio of Amelia Wattenberger](https://dev.to/ml318097/code-meets-design-the-portfolio-of-amelia-wattenberger-5843)
+- [Real-World Use Cases: Smart Home &amp; Industrial IoT with MCP](https://dev.to/om_shree_0709/real-world-use-cases-smart-home-industrial-iot-with-mcp-2ahm)
+- [Adam Savage&#39;s Tested: Adam Savage Finds a Hidden Leak With a Sound Beacon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-finds-a-hidden-leak-with-a-sound-beacon-17bk)
+- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
+- [Noisey: Where British Music Begins: Inside the Community That Shaped Ezra Collective’s Femi Koleoso](https://dev.to/music_youtube/noisey-where-british-music-begins-inside-the-community-that-shaped-ezra-collectives-femi-koleoso-1i4h)
 <!-- BLOG-POST-LIST:END -->
 
