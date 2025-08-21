@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Queries : College Student &amp; Course Management System](https://dev.to/rohivarshini_saravanan_29/sql-queries-college-student-course-management-system-9f)
-- [Why Shipping Vibe-Coded Prototypes to Production Breaks Products](https://dev.to/arbisoftcompany/why-shipping-vibe-coded-prototypes-to-production-breaks-products-6hk)
-- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
-- [Building Fun with Data: A Technical Look at RicePurityTest.life](https://dev.to/rickalbertnohan/building-fun-with-data-a-technical-look-at-ricepuritytestlife-4ihf)
+- [A Practical Caching Playbook](https://dev.to/puritanic/a-practical-caching-playbook-56jd)
+- [Fixing Spatie&#39;s Laravel ResponseCache to Respect Accept-Language](https://dev.to/makowskid/fixing-spaties-laravel-responsecache-to-respect-accept-language-17i6)
+- [How to use Lottie JSON Animations in HarmonyOS with ArkTS?](https://dev.to/harmonyos/how-to-use-lottie-json-animations-in-harmonyos-with-arkts-8c4)
+- [Don’t Just Build AI. Own It. 🚀](https://dev.to/umang_suthar_9bad6f345a8a/dont-just-build-ai-own-it-15nc)
 <!-- BLOG-POST-LIST:END -->
 
