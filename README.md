@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inspect and edit any website 3x faster and export changes effortlessly](https://dev.to/mdanassaif/inspect-and-edit-any-website-3x-faster-and-export-changes-effortlessly-4cal)
-- [My 2025 Roundup of Must-Know MCP Servers](https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146)
-- [Essential Adjacent References](https://dev.to/esproc_spl/essential-adjacent-references-53e7)
-- [AI Fiesta Exposed: Scam or Smart Budget Alternative to Abacus.AI?](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-fiesta-exposed-scam-or-smart-budget-alternative-to-abacusai-2214)
+- [Major Algorithm Types Cheat Sheet](https://dev.to/davinceleecode/major-algorithm-types-cheat-sheet-1meo)
+- [[Boost]](https://dev.to/fabiothiroki/-52il)
+- [How to Deploy SafeLine WAF on a Hestia Control Panel VPS](https://dev.to/maxim_cravtov/how-to-deploy-safeline-waf-on-a-hestia-control-panel-vps-5f5o)
+- [Open Source Software Foundations](https://dev.to/szabgab/open-source-software-foundations-4ka9)
 <!-- BLOG-POST-LIST:END -->
 
