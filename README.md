@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s Your Flex Level? 🐸💪](https://dev.to/lovestaco/whats-your-flex-level-5459)
+- [&#39;Doglabbing&#39; ngrok: A serverless URL shortener](https://dev.to/ngrok/doglabbing-ngrok-a-serverless-url-shortener-lgc)
 - [🚀 Linux for DevOps [Week 1]: Mastering the Essentials](https://dev.to/suvrajeet/linux-for-devops-week-1-mastering-the-essentials-198m)
 - [COLORS: Alice Duport-Percier x Lorien Testard - Alicia | A COLORS SHOW](https://dev.to/music_youtube/colors-alice-duport-percier-x-lorien-testard-alicia-a-colors-show-576n)
-- [Trash Theory: Phil Collins, In The Air Tonight &amp; That Drum Fill | New British Canon](https://dev.to/music_youtube/trash-theory-phil-collins-in-the-air-tonight-that-drum-fill-new-british-canon-18jj)
-- [Rick Beato: Glyn Johns: Recording The Beatles, The Stones, Led Zeppelin, The Who, Eagles...](https://dev.to/music_youtube/rick-beato-glyn-johns-recording-the-beatles-the-stones-led-zeppelin-the-who-eagles-1bkh)
 <!-- BLOG-POST-LIST:END -->
 
