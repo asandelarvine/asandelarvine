@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Right-Sizing Kubernetes Resources with VPA and Karpenter](https://dev.to/devopsdaily/right-sizing-kubernetes-resources-with-vpa-and-karpenter-22ah)
-- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
-- [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
-- [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
+- [🚀 Linux for DevOps [Week 1]: Mastering the Essentials](https://dev.to/suvrajeet/linux-for-devops-week-1-mastering-the-essentials-198m)
+- [COLORS: Alice Duport-Percier x Lorien Testard - Alicia | A COLORS SHOW](https://dev.to/music_youtube/colors-alice-duport-percier-x-lorien-testard-alicia-a-colors-show-576n)
+- [Trash Theory: Phil Collins, In The Air Tonight &amp; That Drum Fill | New British Canon](https://dev.to/music_youtube/trash-theory-phil-collins-in-the-air-tonight-that-drum-fill-new-british-canon-18jj)
+- [Rick Beato: Glyn Johns: Recording The Beatles, The Stones, Led Zeppelin, The Who, Eagles...](https://dev.to/music_youtube/rick-beato-glyn-johns-recording-the-beatles-the-stones-led-zeppelin-the-who-eagles-1bkh)
 <!-- BLOG-POST-LIST:END -->
 
