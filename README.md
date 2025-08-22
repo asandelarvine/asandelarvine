@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-mhh)
-- [Bryan Bros Golf: The Greatest Youtube Golf ALT Shot!](https://dev.to/youtube_golf/bryan-bros-golf-the-greatest-youtube-golf-alt-shot-1kc)
-- [IGN: Metal Eden - New Gameplay Trailer](https://dev.to/gg_news/ign-metal-eden-new-gameplay-trailer-1dea)
-- [IGN: Anno 117: Pax Romana - Albion Preview](https://dev.to/gg_news/ign-anno-117-pax-romana-albion-preview-1587)
+- [Building Strands Agents with a few lines of code: Evaluating Performance with RAGAs](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-evaluating-performance-with-ragas-gme)
+- [How to display different images for GitHub light mode and dark mode](https://dev.to/srbhr/how-to-display-different-images-for-github-light-mode-and-dark-mode-edg)
+- [Meet MIC: The Digital Security Guard in Your Wi-Fi](https://dev.to/rijultp/meet-mic-the-digital-security-guard-in-your-wi-fi-541a)
+- [No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697)
 <!-- BLOG-POST-LIST:END -->
 
