@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BEIDI DINA SAMUEL : Le spécialiste qui Bâtit la Cybersécurité depuis Maroua](https://dev.to/samglish/beidi-dina-samuel-le-specialiste-qui-batit-la-cybersecurite-depuis-maroua-4dfm)
-- [Polyphonic: Why Does Jazz Use Those Instruments?](https://dev.to/music_youtube/polyphonic-why-does-jazz-use-those-instruments-468c)
-- [IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo)
-- [We now allow links in quickies. Any link included will show up in the post. This is the merged PR: https://github.com/forem/forem/pull/22229](https://dev.to/ben/we-now-allow-links-in-quickies-any-link-included-will-show-up-in-the-post-this-is-the-merged-pr-50kk)
+- [[Boost]](https://dev.to/elizabethfuentes12/-mhh)
+- [Bryan Bros Golf: The Greatest Youtube Golf ALT Shot!](https://dev.to/youtube_golf/bryan-bros-golf-the-greatest-youtube-golf-alt-shot-1kc)
+- [IGN: Metal Eden - New Gameplay Trailer](https://dev.to/gg_news/ign-metal-eden-new-gameplay-trailer-1dea)
+- [IGN: Anno 117: Pax Romana - Albion Preview](https://dev.to/gg_news/ign-anno-117-pax-romana-albion-preview-1587)
 <!-- BLOG-POST-LIST:END -->
 
