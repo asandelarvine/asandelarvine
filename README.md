@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution](https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4)
-- [🛳️ Docker Series: Episode 1 — Why Docker? &lpar;And Why It’s About to Be Your Best Friend&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-1-why-docker-and-why-its-about-to-be-your-best-friend-389f)
-- [Joining doubt](https://dev.to/syed_syed_93aef8f4e501cba/joining-doubt-1f7n)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i9p)
+- [According to a recent MIT report, 95% Gen AI businesses are failing now. If you really want to create wealth with AI, then lead with vision and execute with passion. The world doesn&#39;t need more AI apps, it needs sustainable solutions for real problems.](https://dev.to/jaideepparashar/according-to-a-recent-mit-report-95-gen-ai-businesses-are-failing-now-if-you-really-want-to-1lc8)
+- [Introduction to Mutual Funds](https://dev.to/madgan95/introduction-to-mutual-funds-1n4c)
+- [Creating Wealth with AI: Vision vs. Execution](https://dev.to/jaideepparashar/creating-wealth-with-ai-vision-vs-execution-2adb)
+- [AI Can Do More Than You Think — The Most Practical Ways to Use AI Every Day](https://dev.to/nitinfab/ai-can-do-more-than-you-think-the-most-practical-ways-to-use-ai-every-day-4g62)
 <!-- BLOG-POST-LIST:END -->
 
