@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 74: When Rest Days Become Learning Days](https://dev.to/casperday11/day-74-when-rest-days-become-learning-days-3cnp)
 - [Linus Tech Tips &lpar;LTT&rpar;: Who can Build the Best $1000 Gaming PC?](https://dev.to/future_youtube/linus-tech-tips-ltt-who-can-build-the-best-1000-gaming-pc-2n5h)
 - [The Game Theorists: Game Theory: Mario Kart World Should NOT Exist…](https://dev.to/gg_news/the-game-theorists-game-theory-mario-kart-world-should-not-exist-4pgg)
 - [GameSpot: 25 Minutes of Valor Mortis Gameplay with Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-25-minutes-of-valor-mortis-gameplay-with-boss-fight-gamescom-2025-1me7)
-- [IGN: Just How BIG is gamescom? Let&#39;s Find Out | gamescom 2025](https://dev.to/gg_news/ign-just-how-big-is-gamescom-lets-find-out-gamescom-2025-5hl2)
 <!-- BLOG-POST-LIST:END -->
 
