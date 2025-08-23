@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Blocks Alert: A Huge Collection of Tables!](https://dev.to/ngmaterialdev/new-blocks-alert-a-huge-collection-of-tables-1n34)
-- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-24a7)
-- [IGN: Metroid Prime 4: Beyond Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-metroid-prime-4-beyond-gameplay-off-screen-gamescom-2025-3fc9)
-- [IGN: An Inside look at gamescom 2025 with gamescom Director, Stefan Heikhaus](https://dev.to/gg_news/ign-an-inside-look-at-gamescom-2025-with-gamescom-director-stefan-heikhaus-39o5)
+- [5 Best GitHub AI Repos to Master AI Like a Pro](https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82)
+- [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
+- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-1g3e)
+- [IGN: Crimson Desert - 30 minutes of 4K Gameplay | gamescom 2025](https://dev.to/gg_news/ign-crimson-desert-30-minutes-of-4k-gameplay-gamescom-2025-591h)
 <!-- BLOG-POST-LIST:END -->
 
