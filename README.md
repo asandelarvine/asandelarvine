@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CNCF [Cloud Native Computing Foundation]: ChatLoopBackOff: Episode 68 &lpar;KANISTER&rpar;](https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-chatloopbackoff-episode-68-kanister-3p3h)
-- [GameSpot: Borderlands 4: I Haven&#39;t Been This Excited Since Borderlands 2](https://dev.to/gg_news/gamespot-borderlands-4-i-havent-been-this-excited-since-borderlands-2-3ed)
-- [Criando um compilador em csharp: Parte 7](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-7-4nc4)
-- [Lightweight ETL with AWS Lambda, DuckDB, and delta-rs](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-duckdb-and-delta-rs-1cmm)
+- [🌟💻 Welcome to DEV Community – WhatsApp Channel Revolution](https://dev.to/hanzla-baig/welcome-to-dev-community-whatsapp-channel-revolution-14h4)
+- [🛳️ Docker Series: Episode 1 — Why Docker? &lpar;And Why It’s About to Be Your Best Friend&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-1-why-docker-and-why-its-about-to-be-your-best-friend-389f)
+- [Joining doubt](https://dev.to/syed_syed_93aef8f4e501cba/joining-doubt-1f7n)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i9p)
 <!-- BLOG-POST-LIST:END -->
 
