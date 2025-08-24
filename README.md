@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:START -->
 - [How to Hide API Endpoints in Next.js](https://dev.to/bdhamithkumara/how-to-hide-api-endpoints-in-nextjs-4iij)
 - [Day 1: LangChain Basics - My First Chat with Claude and Titan](https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f)
+- [developer lazy life](https://dev.to/nimo_ali_32c59d919d206c35/developer-lazy-life-12ee)
 - [Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.](https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm)
-- [Running n8n Locally Without Regrets.](https://dev.to/elliot_brenya/running-n8n-locally-without-regrets-3l55)
 <!-- BLOG-POST-LIST:END -->
 
