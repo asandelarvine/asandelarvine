@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
-- [The 98% AI Deepfake Detector That&#39;s Dividing the Dev Community](https://dev.to/shiva_shanker_k/the-98-ai-deepfake-detector-thats-dividing-the-dev-community-2doa)
-- [SkiperJS: The Ultimate Guide for Modern Web Developers](https://dev.to/bhavy_patel_f971b2124da89/skiperjs-the-ultimate-guide-for-modern-web-developers-52bl)
-- [10 Tips for Efficient Test Case Management in Agile Projects](https://dev.to/ronika_kashyap/10-tips-for-efficient-test-case-management-in-agile-projects-427j)
+- [I Tried 20+ Python Courses on Udemy: Here are 5 Courses I recommend](https://dev.to/somadevtoo/i-tried-20-python-courses-on-udemy-here-are-5-courses-i-recommend-1pba)
+- [Neural Network in R](https://dev.to/thedatageek/neural-network-in-r-4lki)
+- [The Pain of Building My Own Fully-Featured Locally Hosted ChatGPT Out of Open Source Tools And a Franken Laptop](https://dev.to/ghotet/the-pain-of-building-my-own-fully-featured-locally-hosted-chatgpt-out-of-open-source-tools-and-a-4dca)
+- [How Hackers Trick AI: The Hidden World of Prompt Injections and Jailbreaks](https://dev.to/praneet_gogoi_beastsoul/how-hackers-trick-ai-the-hidden-world-of-prompt-injections-and-jailbreaks-4nge)
 <!-- BLOG-POST-LIST:END -->
 
