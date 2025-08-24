@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-1bp4)
-- [Frontend Performance Optimization: Best Practices for Faster Websites](https://dev.to/lovestaco/frontend-performance-optimization-best-practices-for-faster-websites-3aji)
-- [When Code Starts Talking Back: A Love-Hate Story](https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml)
-- [I’m 16 and starting a 2-year challenge to make £100k before uni](https://dev.to/vulcanwm/im-16-and-starting-a-2-year-challenge-to-make-ps100k-before-uni-2i6h)
+- [A Beginner’s Guide to Channels in WiFi Scanning](https://dev.to/rijultp/a-beginners-guide-to-channels-in-wifi-scanning-1648)
+- [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
+- [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-4dcf)
+- [IGN: Metal Gear Solid 3: The Complicated History of All 5 Versions Explained](https://dev.to/gg_news/ign-metal-gear-solid-3-the-complicated-history-of-all-5-versions-explained-lc)
 <!-- BLOG-POST-LIST:END -->
 
