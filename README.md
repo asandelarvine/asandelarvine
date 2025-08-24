@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for Efficient Test Case Management in Agile Projects](https://dev.to/ronika_kashyap/10-tips-for-efficient-test-case-management-in-agile-projects-427j)
+- [IGN: gamescom studio Tag 5 Livestream 2025: Indie-Special mit Cralon, Hela, Star Birds und mehr!](https://dev.to/gg_news/ign-gamescom-studio-tag-5-livestream-2025-indie-special-mit-cralon-hela-star-birds-und-mehr-36kn)
+- [Medium and the Blanket AI Ban 😶](https://dev.to/anchildress1/medium-and-the-blanket-ai-ban-2cni)
 - [Linux From Zero Part - 1🐧 What is Linux? A Simple Guide for Beginners](https://dev.to/trixsec/linux-from-zero-part-1-what-is-linux-a-simple-guide-for-beginners-3afd)
-- [How to Hide API Endpoints in Next.js](https://dev.to/bdhamithkumara/how-to-hide-api-endpoints-in-nextjs-4iij)
-- [Day 1: LangChain Basics - My First Chat with Claude and Titan](https://dev.to/aws-builders/day-1-langchain-basics-my-first-chat-with-claude-and-titan-3h1f)
-- [developer lazy life](https://dev.to/nimo_ali_32c59d919d206c35/developer-lazy-life-12ee)
 <!-- BLOG-POST-LIST:END -->
 
