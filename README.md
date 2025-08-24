@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Submission deadline](https://dev.to/julsr_mx/submission-deadline-j1h)
+- [AWS IAM Roles Anywhere Demo](https://dev.to/johnmccuk/aws-iam-roles-anywhere-demo-3gl4)
+- [🧑‍🏫 Tutorial: How to Build a Searchable Dropdown Component in React](https://dev.to/shahjalalbu/tutorial-how-to-build-a-searchable-dropdown-component-in-react-3fi4)
 - [A Beginner’s Guide to Channels in WiFi Scanning](https://dev.to/rijultp/a-beginners-guide-to-channels-in-wifi-scanning-1648)
-- [GitNarrative Update: Added GitLab, Azure DevOps, and Bitbucket OAuth Integration](https://dev.to/grudged/gitnarrative-update-added-gitlab-azure-devops-and-bitbucket-oauth-integration-282l)
-- [GameSpot: Romeo Is A Dead Man Is Grasshopper Manufacture Firing On All Cylinders](https://dev.to/gg_news/gamespot-romeo-is-a-dead-man-is-grasshopper-manufacture-firing-on-all-cylinders-4dcf)
-- [IGN: Metal Gear Solid 3: The Complicated History of All 5 Versions Explained](https://dev.to/gg_news/ign-metal-gear-solid-3-the-complicated-history-of-all-5-versions-explained-lc)
 <!-- BLOG-POST-LIST:END -->
 
