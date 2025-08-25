@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix mobile keyboard overlap with VisualViewport](https://dev.to/franciscomoretti/fix-mobile-keyboard-overlap-with-visualviewport-3a4a)
-- [NPR Music: John Oates: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-john-oates-field-recordings-x-aspen-ideas-festival-17fn)
-- [Firebase Storage: Your File Upload Superhero 📁](https://dev.to/this-is-learning/firebase-storage-your-file-upload-superhero-81o)
-- [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
+- [Programming communities?](https://dev.to/szabgab/programming-communities-110n)
+- [Strands Agents SDK を使用してライブストリームからソーシャルメディア用のクリップを自動生成する](https://dev.to/aws/strands-agents-sdk-woshi-yong-siteraibusutorimukarasosiyarumedeiayong-nokuritupuwozi-dong-sheng-cheng-suru-219n)
+- [TanStack Start: light, dark, and system theme without flickers](https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d)
+- [SEO: Tips for Crawlers and LLM Discovery](https://dev.to/lovestaco/seo-starter-guide-tips-for-crawlers-and-llm-discovery-377b)
 <!-- BLOG-POST-LIST:END -->
 
