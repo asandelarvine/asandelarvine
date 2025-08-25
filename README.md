@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Automating Cover Letters with Portia AI: My AgentHack 2025 Journey](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automating-cover-letters-with-portia-ai-my-agenthack-2025-journey-mnf)
-- [Behind the Magic: How AI Actually Thinks When You Ask It Something](https://dev.to/shiva_shanker_k/behind-the-magic-how-ai-actually-thinks-when-you-ask-it-something-4f46)
-- [19 JavaScript One-Liners That’ll Blow Your Mind](https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn)
-- [Free Burndown chart Generator tool with agile developer guide](https://dev.to/pratham_naik_project_manager/free-burndown-chart-generator-tool-with-agile-developer-guide-2j93)
+- [Mastering TypeScript from Scratch – Part 2: Intermediate Concepts](https://dev.to/usman_awan/mastering-typescript-from-scratch-part-2-intermediate-concepts-pi5)
+- [Thoughts on using AI for software development](https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b)
+- [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j)
+- [Why Developers Should Care About Access Control](https://dev.to/alex_deg/why-developers-should-care-about-access-control-31b2)
 <!-- BLOG-POST-LIST:END -->
 
