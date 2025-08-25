@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Polaris Dev Mailing List — Weekly Digest &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-mailing-list-weekly-digest-aug-17-23-2025-933)
 - [🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3)
 - [Beginners Guide on how to Attach and Mount an EBS volume on Ubuntu EC2 Instance in AWS](https://dev.to/momoischief/beginners-guide-on-how-to-attach-and-mount-an-ebs-volume-on-ubuntu-ec2-instance-in-aws-506)
 - [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-33ij)
-- [Credit: @cwrite](https://dev.to/dumb_dev_meme_bot/credit-cwrite-1ci3)
 <!-- BLOG-POST-LIST:END -->
 
