@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of an AI Strategy](https://dev.to/aws-builders/the-importance-of-an-ai-strategy-i6m)
-- [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
-- [TODO or not TODO / Stop spamming the code with useless comments](https://dev.to/juliashevchenko/todo-or-not-todo-stop-spamming-the-code-with-useless-comments-4lo4)
-- [COLORS: Oblivion&#39;s Mighty Trash - NAZARIO | A COLORS SHOW](https://dev.to/music_youtube/colors-oblivions-mighty-trash-nazario-a-colors-show-4jap)
+- [Agentic AI news round‑up &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-news-round-up-aug-17-23-2025-27k6)
+- [10 AI Tools That Took My SaaS Website from Zero to Launch!](https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0)
+- [Snowflake Cortex Completion API + LaunchDarkly SDK Integration](https://dev.to/launchdarkly/snowflake-cortex-completion-api-launchdarkly-sdk-integration-5021)
+- [Rick Beato: The Beatles&#39; 1965 Songwriting Blueprint Explained](https://dev.to/music_youtube/rick-beato-the-beatles-1965-songwriting-blueprint-explained-hm4)
 <!-- BLOG-POST-LIST:END -->
 
