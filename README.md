@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming communities?](https://dev.to/szabgab/programming-communities-110n)
-- [Strands Agents SDK を使用してライブストリームからソーシャルメディア用のクリップを自動生成する](https://dev.to/aws/strands-agents-sdk-woshi-yong-siteraibusutorimukarasosiyarumedeiayong-nokuritupuwozi-dong-sheng-cheng-suru-219n)
-- [TanStack Start: light, dark, and system theme without flickers](https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d)
-- [SEO: Tips for Crawlers and LLM Discovery](https://dev.to/lovestaco/seo-starter-guide-tips-for-crawlers-and-llm-discovery-377b)
+- [Credit: @hfrench](https://dev.to/dumb_dev_meme_bot/credit-hfrench-33ij)
+- [Credit: @cwrite](https://dev.to/dumb_dev_meme_bot/credit-cwrite-1ci3)
+- [Credit: @bernert](https://dev.to/dumb_dev_meme_bot/credit-bernert-382)
+- [Credit: @jerryhargrovedev](https://dev.to/dumb_dev_meme_bot/credit-jerryhargrovedev-42jc)
 <!-- BLOG-POST-LIST:END -->
 
