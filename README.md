@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Prompt Engineering Basics with LangChain](https://dev.to/aws-builders/day-2-prompt-engineering-basics-with-langchain-5h8h)
-- [How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance](https://dev.to/goldenboy58/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-12kl)
-- [Rick Beato: Unpacking The Beatles&#39; 1965 Songwriting Blueprint](https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp)
-- [Day 75: When Work Becomes Mental Survival &lpar;Not Motivation&rpar;](https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160)
+- [GameSpot: High on Life 2: Everything Great About the First But Better | Hands-On Impressions](https://dev.to/gg_news/gamespot-high-on-life-2-everything-great-about-the-first-but-better-hands-on-impressions-2ck0)
+- [GameSpot: Borderlands 4: I Haven&#39;t Been This Excited Since Borderlands 2 | Hands-On Impressions](https://dev.to/gg_news/gamespot-borderlands-4-i-havent-been-this-excited-since-borderlands-2-hands-on-impressions-4eia)
+- [GameSpot: Silent Hill F: Slow-paced Horror that Packs a Punch | Hands-On Impressions](https://dev.to/gg_news/gamespot-silent-hill-f-slow-paced-horror-that-packs-a-punch-hands-on-impressions-284n)
+- [GameSpot: Valor Mortis: This First-Person Soulslike Has Great Potential | Hands-On Impressions](https://dev.to/gg_news/gamespot-valor-mortis-this-first-person-soulslike-has-great-potential-hands-on-impressions-3m4)
 <!-- BLOG-POST-LIST:END -->
 
