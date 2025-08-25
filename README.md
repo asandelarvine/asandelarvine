@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenMQTT Gateway for Radio Frequency Signals](https://dev.to/admantium/openmqtt-gateway-for-radio-frequency-signals-5gdm)
-- [What Meta can teach us about designing storage systems that scale to billions of users](https://dev.to/fahimulhaq/what-meta-can-teach-us-about-designing-storage-systems-that-scale-to-billions-of-users-3g8m)
-- [Time Tracking for Agency Owners Who Hate Time Tracking: The Stripe Approach](https://dev.to/teamcamp/time-tracking-for-agency-owners-who-hate-time-tracking-the-stripe-approach-4a3i)
-- [Is Burnout Inevitable in the World of Tech? Let&#39;s Talk About It](https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5)
+- [Free Burndown chart Generator tool with agile developer guide](https://dev.to/pratham_naik_project_manager/free-burndown-chart-generator-tool-with-agile-developer-guide-2j93)
+- [Free Burndown Chart Generator: The Developer’s Guide to Agile Sprint Tracking in 2025](https://dev.to/naik_sejal/free-burndown-chart-generator-the-developers-guide-to-agile-sprint-tracking-in-2025-2hbm)
+- [Azure immutable backups: Protecting your data from ransomware and insider threats](https://dev.to/techielass/azure-immutable-backups-protecting-your-data-from-ransomware-and-insider-threats-3i8)
+- [🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025](https://dev.to/finalroundai/from-dsa-to-deployment-what-a-real-full-stack-job-interview-looks-like-in-2025-3ibo)
 <!-- BLOG-POST-LIST:END -->
 
