@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Prefix &amp; Suffix Problems in DSA &lpar;with Java Code&rpar;](https://dev.to/rock_win_c053fa5fb2399067/mastering-prefix-suffix-problems-in-dsa-with-java-code-jj5)
-- [Why Kubernetes is the Safety Net for Your AI Circus ?](https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12)
-- [Blocking Suspected DDoS IPs with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38)
+- [Network Security Protocols &lpar;IPSec, SSL/TLS&rpar;](https://dev.to/godofgeeks/network-security-protocols-ipsec-ssltls-2bg2)
+- [OverType - 82KB Markdown Editor with Native Mobile Support](https://dev.to/jqueryscript/overtype-82kb-markdown-editor-with-native-mobile-support-56em)
+- [Axum vs. Actix: Choosing the Best Rust Framework for Web Development](https://dev.to/sanjay_serviots_08ee56986/axum-vs-actix-choosing-the-best-rust-framework-for-web-development-49ch)
+- [How to Develop AI Medical Transcription Software That Doctors Actually Love](https://dev.to/ciphernutz/how-to-develop-ai-medical-transcription-software-that-doctors-actually-love-46id)
 <!-- BLOG-POST-LIST:END -->
 
