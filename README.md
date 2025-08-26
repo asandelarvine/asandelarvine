@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lazy Genius Inside Your Chatbot: Meet MoD, the Art of Thinking Less but Smarter](https://dev.to/naresh_82de734ade4c1c66d9/the-lazy-genius-inside-your-chatbot-meet-mod-the-art-of-thinking-less-but-smarter-4g70)
-- [From X &lpar;Twitter&rpar; Free API to Basic/Pro: How Postly Retired BYO Keys and Shipped a Managed “X-Pro” Integration &lpar;No Fallback&rpar;](https://dev.to/paul_onu_a2fb9ffcca2d9ede/from-x-twitter-free-api-to-basicpro-how-postly-retired-byo-keys-and-shipped-a-managed-x-pro-1k7)
-- [🕵️‍♂️ Show HN: Explore the history of any GitHub repository like a code archaeologist](https://dev.to/mrpunkdasilva/show-hn-diggitdev-explore-the-history-of-any-github-repository-like-a-code-archaeologist-4681)
-- [🤖 Bobby – The Desktop Pet](https://dev.to/dhafer99/bobby-the-desktop-pet-26de)
+- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-i8)
+- [Using Redis in .NET Core &lpar;Step-by-Step Guide&rpar;](https://dev.to/morteza-jangjoo/using-redis-in-net-core-step-by-step-guide-3he2)
+- [N+1 Hydra: A Senior Engineer&#39;s Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
+- [A Beginner’s Guide to Satellite Data and Vegetation Indices &lpar;NDVI, EVI &amp; Beyond&rpar;](https://dev.to/yousufbasir/a-beginners-guide-to-satellite-data-and-vegetation-indices-ndvi-evi-beyond-14nn)
 <!-- BLOG-POST-LIST:END -->
 
