@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Seed to Blossom — A Journey Through Email Campaigns](https://dev.to/mdkawsharul_islamroyal_/from-seed-to-blossom-a-journey-through-email-campaigns-4meh)
-- [AI as the Ultimate Teacher- Learn Any Subject from A Master](https://dev.to/gamepill/ai-as-the-ultimate-teacher-learn-any-subject-from-a-master-1jed)
-- [Type casting](https://dev.to/rajan_s_494d2a0d7bb0860ef/type-casting-2nli)
-- [Maker&#39;s Muse: What 3D printed gear is best? I built a machine to find out! EP1](https://dev.to/maker_youtube/makers-muse-what-3d-printed-gear-is-best-i-built-a-machine-to-find-out-ep1-3jc3)
+- [Software maintenance automation](https://dev.to/paulo_pereira_1b5c5b129fa/software-maintenance-automation-4dl5)
+- [Part-26: Create a Regional Persistent Disk and associate to multiple VM in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-26-create-a-regional-persistent-disk-and-associate-to-multiple-vm-in-google-cloud-platform-5f9j)
+- [Build self-hosted local AI workflows with Docker, n8n, Ollama, and ngrok](https://dev.to/ngrok/build-self-hosted-local-ai-workflows-with-docker-n8n-ollama-and-ngrok-40jh)
+- [Why Building AI Agents with UiPath is More Robust Than Using Low-Code Tools by David Malick Dieng](https://dev.to/davidmalickdieng/why-building-ai-agents-with-uipath-is-more-robust-than-using-low-code-toolsby-david-malick-dieng-4pk3)
 <!-- BLOG-POST-LIST:END -->
 
