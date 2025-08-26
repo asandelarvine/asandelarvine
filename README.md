@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pyramid Generator With Javascript! 100%!](https://dev.to/shurwood_840b883d3a1ae4a2/pyramid-generator-with-javascript-100-50em)
-- [How to Use PydanticAI for Multimodal LLMs](https://dev.to/stephenc222/how-to-use-pydanticai-for-multimodal-llms-2l9p)
-- [Introduction to Docker and Docker Compose: Beginners Guide](https://dev.to/walnold/introduction-to-docker-and-docker-compose-beginners-guide-3k2h)
-- [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
+- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
+- [Setting Up Minecraft Server in AWS](https://dev.to/carmoruda/setting-up-minecraft-server-in-aws-4kci)
+- [IGN: Captured - Official Console Release Date Trailer](https://dev.to/gg_news/ign-captured-official-console-release-date-trailer-56mb)
+- [IGN: Onimusha: Way of the Sword - Official Event Demo Gameplay](https://dev.to/gg_news/ign-onimusha-way-of-the-sword-official-event-demo-gameplay-3c3m)
 <!-- BLOG-POST-LIST:END -->
 
