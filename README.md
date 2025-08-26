@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plug-and-Play Attribution Dashboard You Can Build in a Day](https://dev.to/juggernautmain/plug-and-play-attribution-dashboard-you-can-build-in-a-day-47kb)
-- [YAGNI: Why You Shouldn’t Build What You Don’t Need](https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j)
-- [Say the Thing: Clarity Over Politeness in UX](https://dev.to/alisa-kak-vsegda/say-the-thing-clarity-over-politeness-in-ux-1g8)
-- [Continuous AI: A Simple Introduction](https://dev.to/babblebey/continuous-ai-a-simple-introduction-3k10)
+- [The Ghost in the machine.](https://dev.to/bionicdreams/the-ghost-in-the-machine-1n6o)
+- [Understanding Arrow Functions in JavaScript](https://dev.to/janetmutua/understanding-arrow-functions-in-javascript-1ih0)
+- [Learn the Different Options to Deploy Microsoft Azure Red Hat OpenShift Clusters and Prepare Your Environment](https://dev.to/sindhuja_ns_1e491ce1088d/learn-the-different-options-to-deploy-microsoft-azure-red-hat-openshift-clusters-and-prepare-your-16ip)
+- [From Old-School to AI-Driven: Creating Professional React Code from Figma](https://dev.to/bitloops/from-old-school-to-ai-driven-creating-professional-react-code-from-figma-2139)
 <!-- BLOG-POST-LIST:END -->
 
