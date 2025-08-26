@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
-- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
-- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
-- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
+- [Plug-and-Play Attribution Dashboard You Can Build in a Day](https://dev.to/juggernautmain/plug-and-play-attribution-dashboard-you-can-build-in-a-day-47kb)
+- [YAGNI: Why You Shouldn’t Build What You Don’t Need](https://dev.to/lovestaco/yagni-why-you-shouldnt-build-what-you-dont-need-3p9j)
+- [Say the Thing: Clarity Over Politeness in UX](https://dev.to/alisa-kak-vsegda/say-the-thing-clarity-over-politeness-in-ux-1g8)
+- [Continuous AI: A Simple Introduction](https://dev.to/babblebey/continuous-ai-a-simple-introduction-3k10)
 <!-- BLOG-POST-LIST:END -->
 
