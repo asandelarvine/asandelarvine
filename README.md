@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Waterschade aan uw MacBook? Laat het snel controleren om erger te voorkomen](https://dev.to/blueapple1/waterschade-aan-uw-macbook-laat-het-snel-controleren-om-erger-te-voorkomen-5ch7)
-- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
-- [Parlant - Renovation AI Open-Source framework](https://dev.to/nghidanh2005/parlant-renovation-ai-open-source-framework-34ah)
-- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 2](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-2-2haf)
+- [[Boost]](https://dev.to/hadil/-4a8e)
+- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
+- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
+- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
 <!-- BLOG-POST-LIST:END -->
 
