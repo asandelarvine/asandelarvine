@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5fjd)
-- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250?!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-46f1)
-- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
-- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
+- [Needcode Turns your LeetCode Grinding into MAANG Success](https://dev.to/extinctsion/needcode-turns-your-leetcode-grinding-into-maang-success-5h1a)
+- [Efficient Architecture 101: Is Your Upload Strategy Actually Efficient?](https://dev.to/adityawaslost/efficient-architecture-101-is-your-upload-strategy-actually-efficient-j17)
+- [Gemini 2.5 Flash Images launched https://deepmind.google/models/gemini/image/](https://dev.to/avanichols_dev/gemini-25-flash-images-launched-httpsdeepmindgooglemodelsgeminiimage-1bh9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-8d)
 <!-- BLOG-POST-LIST:END -->
 
