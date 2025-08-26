@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hadil/-4a8e)
-- [I Supercharged My Browser GPT with Rust and WebAssembly: The Journey to a Dual-Engine AI](https://dev.to/xzdes/i-supercharged-my-browser-gpt-with-rust-and-webassembly-the-journey-to-a-dual-engine-ai-3ili)
-- [Angular 20 Is Here: Signals, Zoneless, and the Future of Web Development ⚡](https://dev.to/koolkamalkishor/angular-20-is-here-signals-zoneless-and-the-future-of-web-development-1eoe)
-- [What Can You Create with Particle Animation in HarmonyOS?](https://dev.to/harmonyos/what-can-you-create-with-particle-animation-in-harmonyos-4j82)
+- [Creating Wikipedia Search Embeddings with a Gaia Node](https://dev.to/gaiaai/creating-wikipedia-search-embeddings-with-a-gaia-node-ceh)
+- [How AWS Makes Life Easier for Students &lpar;and Powers Netflix &amp; Instagram!&rpar;](https://dev.to/khadija_sajid_e6b71719ff7/how-aws-makes-life-easier-for-students-and-powers-netflix-instagram-4ib2)
+- [The Small Business Buyer’s Guide to QR Code Generators &lpar;2025&rpar;](https://dev.to/joywinter90/the-small-business-buyers-guide-to-qr-code-generators-2025-4d7f)
+- [Rolling Forward: The Future of Seamless Deployments with DevOps and Rolling Updates](https://dev.to/vjnvisakh/rolling-forward-the-future-of-seamless-deployments-with-devops-and-rolling-updates-1bej)
 <!-- BLOG-POST-LIST:END -->
 
