@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom Server-Side DataTable in Laravel Without Packages](https://dev.to/cammanhhoang/building-a-custom-server-side-datatable-in-laravel-without-packages-e3)
-- [The support and engagement from this community have been incredible — so today, I want to turn the spotlight on you. I’m opening this thread as an Ask Me Anything &lpar;AMA&rpar;. You can drop any question: AI, Business, Career, etc.](https://dev.to/jaideepparashar/the-support-and-engagement-from-this-community-have-been-incredible-so-today-i-want-to-turn-the-4i00)
-- [Ask Me Anything: AI, Prompting &amp; Writing](https://dev.to/jaideepparashar/ask-me-anything-ai-prompting-writing-3ab7)
-- [On my elm-knobs Elm package](https://dev.to/agj/on-my-elm-knobs-elm-package-162g)
+- [I Audited 100 Agency Workflows: The 3 Collaboration Mistakes Costing $50k+ Annually](https://dev.to/teamcamp/i-audited-100-agency-workflows-the-3-collaboration-mistakes-costing-50k-annually-2c9c)
+- [Why Endpoint Management is Essential for ITAM Success?](https://dev.to/teresa_tran/why-endpoint-management-is-essential-for-itam-success-jbn)
+- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
+- [What Is Medication Software? A Complete Guide for 2025](https://dev.to/nencywilliams/what-is-medication-software-a-complete-guide-for-2025-59gc)
 <!-- BLOG-POST-LIST:END -->
 
