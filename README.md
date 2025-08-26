@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Wikipedia Search Embeddings with a Gaia Node](https://dev.to/gaiaai/creating-wikipedia-search-embeddings-with-a-gaia-node-ceh)
-- [How AWS Makes Life Easier for Students &lpar;and Powers Netflix &amp; Instagram!&rpar;](https://dev.to/khadija_sajid_e6b71719ff7/how-aws-makes-life-easier-for-students-and-powers-netflix-instagram-4ib2)
-- [The Small Business Buyer’s Guide to QR Code Generators &lpar;2025&rpar;](https://dev.to/joywinter90/the-small-business-buyers-guide-to-qr-code-generators-2025-4d7f)
-- [Rolling Forward: The Future of Seamless Deployments with DevOps and Rolling Updates](https://dev.to/vjnvisakh/rolling-forward-the-future-of-seamless-deployments-with-devops-and-rolling-updates-1bej)
+- [Build a Random Background Color Changer with JavaScript](https://dev.to/megha_m/build-a-random-background-color-changer-with-javascript-380k)
+- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
+- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
+- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
 <!-- BLOG-POST-LIST:END -->
 
