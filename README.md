@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 My Experience at ETH New York 2025](https://dev.to/julsr_mx/my-experience-at-eth-new-york-2025-3j83)
-- [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
-- [Laravel Project Backup to Azure Blob with Bash Script](https://dev.to/edgaras/laravel-project-backup-to-azure-blob-with-bash-script-3ke)
-- [How to Use Weak Pointers in Go 1.24](https://dev.to/leapcell/how-to-use-weak-pointers-in-go-124-2i6j)
+- [Configurando ESLint + Prettier + Husky no Angular&lpar;20&rpar;](https://dev.to/devgustavus/configurando-eslint-prettier-husky-no-angular20-2j35)
+- [🛳️ Docker Series: Episode 4 — Dockerfile for Beginners: Build Your Own Container Image](https://dev.to/yash_sonawane25/docker-series-episode-4-dockerfile-for-beginners-build-your-own-container-image-4kik)
+- [Running PostgreSQL in Docker and Accessing It from Your OS](https://dev.to/coder7475/running-postgresql-in-docker-and-accessing-it-from-your-os-2ck2)
+- [String Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/string-dalam-bahasa-earl-5go2)
 <!-- BLOG-POST-LIST:END -->
 
