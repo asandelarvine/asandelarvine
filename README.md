@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Audited 100 Agency Workflows: The 3 Collaboration Mistakes Costing $50k+ Annually](https://dev.to/teamcamp/i-audited-100-agency-workflows-the-3-collaboration-mistakes-costing-50k-annually-2c9c)
-- [Why Endpoint Management is Essential for ITAM Success?](https://dev.to/teresa_tran/why-endpoint-management-is-essential-for-itam-success-jbn)
-- [AI-Powered Code Review Action – Automated PR Reviews Using AI &lpar;OpenAI, Gemini, ...&rpar;](https://dev.to/quanlegia/ai-powered-code-review-action-automated-pr-reviews-using-ai-openai-gemini--3a35)
-- [What Is Medication Software? A Complete Guide for 2025](https://dev.to/nencywilliams/what-is-medication-software-a-complete-guide-for-2025-59gc)
+- [Mastering Prefix &amp; Suffix Problems in DSA &lpar;with Java Code&rpar;](https://dev.to/rock_win_c053fa5fb2399067/mastering-prefix-suffix-problems-in-dsa-with-java-code-jj5)
+- [Why Kubernetes is the Safety Net for Your AI Circus ?](https://dev.to/ranga-devops/why-kubernetes-is-the-safety-net-for-your-ai-circus--2l12)
+- [Blocking Suspected DDoS IPs with SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/blocking-suspected-ddos-ips-with-safeline-waf-3jae)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-5a38)
 <!-- BLOG-POST-LIST:END -->
 
