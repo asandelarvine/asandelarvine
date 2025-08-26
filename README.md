@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Tool Tech Stack to Build an Enterprise-Grade RAG System &lpar;Without the Headaches&rpar;](https://dev.to/forgecode/8-tool-tech-stack-to-build-an-enterprise-grade-rag-system-without-the-headaches-i8)
-- [Using Redis in .NET Core &lpar;Step-by-Step Guide&rpar;](https://dev.to/morteza-jangjoo/using-redis-in-net-core-step-by-step-guide-3he2)
-- [N+1 Hydra: A Senior Engineer&#39;s Guide to strict_loading](https://dev.to/alex_aslam/n1-hydra-a-senior-engineers-guide-to-strictloading-1j0i)
-- [A Beginner’s Guide to Satellite Data and Vegetation Indices &lpar;NDVI, EVI &amp; Beyond&rpar;](https://dev.to/yousufbasir/a-beginners-guide-to-satellite-data-and-vegetation-indices-ndvi-evi-beyond-14nn)
+- [Exploring Heap Memory and Garbage Collector Algorithm in Go Language](https://dev.to/seyedahmaddv/exploring-heap-memory-and-garbage-collector-algorithm-in-go-language-145f)
+- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
+- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
+- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
 <!-- BLOG-POST-LIST:END -->
 
