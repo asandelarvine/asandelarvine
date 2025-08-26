@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Security Protocols &lpar;IPSec, SSL/TLS&rpar;](https://dev.to/godofgeeks/network-security-protocols-ipsec-ssltls-2bg2)
-- [OverType - 82KB Markdown Editor with Native Mobile Support](https://dev.to/jqueryscript/overtype-82kb-markdown-editor-with-native-mobile-support-56em)
-- [Axum vs. Actix: Choosing the Best Rust Framework for Web Development](https://dev.to/sanjay_serviots_08ee56986/axum-vs-actix-choosing-the-best-rust-framework-for-web-development-49ch)
-- [How to Develop AI Medical Transcription Software That Doctors Actually Love](https://dev.to/ciphernutz/how-to-develop-ai-medical-transcription-software-that-doctors-actually-love-46id)
+- [Waterschade aan uw MacBook? Laat het snel controleren om erger te voorkomen](https://dev.to/blueapple1/waterschade-aan-uw-macbook-laat-het-snel-controleren-om-erger-te-voorkomen-5ch7)
+- [Headless CMS Guide 2025, Part 1: What it is and why it matters](https://dev.to/flotiq/headless-cms-guide-2025-part-1-what-it-is-and-why-it-matters-210h)
+- [Parlant - Renovation AI Open-Source framework](https://dev.to/nghidanh2005/parlant-renovation-ai-open-source-framework-34ah)
+- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 2](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-2-2haf)
 <!-- BLOG-POST-LIST:END -->
 
