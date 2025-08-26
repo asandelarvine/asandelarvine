@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
-- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
-- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
-- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
+- [Building a Custom Server-Side DataTable in Laravel Without Packages](https://dev.to/cammanhhoang/building-a-custom-server-side-datatable-in-laravel-without-packages-e3)
+- [The support and engagement from this community have been incredible — so today, I want to turn the spotlight on you. I’m opening this thread as an Ask Me Anything &lpar;AMA&rpar;. You can drop any question: AI, Business, Career, etc.](https://dev.to/jaideepparashar/the-support-and-engagement-from-this-community-have-been-incredible-so-today-i-want-to-turn-the-4i00)
+- [Ask Me Anything: AI, Prompting &amp; Writing](https://dev.to/jaideepparashar/ask-me-anything-ai-prompting-writing-3ab7)
+- [On my elm-knobs Elm package](https://dev.to/agj/on-my-elm-knobs-elm-package-162g)
 <!-- BLOG-POST-LIST:END -->
 
