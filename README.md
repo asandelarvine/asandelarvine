@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Good work Joy](https://dev.to/grayhat/good-work-joy-70h)
-- [Sometimes the best thing to do is an explicit nothing](https://dev.to/naugtur/sometimes-the-best-thing-to-do-is-an-explicit-nothing-2i71)
-- [MLflow The Series: รู้จัก MLflow ทำไม Data Scientist ต้องรู้จัก](https://dev.to/watchara-sukka/mlflow-the-seriesmlflow-khuueaair-thamaim-data-scientist-tngruucchak-69n)
-- [Step 2: Essential Theme Files – Core WordPress Theme Structure](https://dev.to/adovgun/step-2-essential-theme-files-core-wordpress-theme-structure-36ig)
+- [Top 8 mistakes in startup product development &amp; How to avoid them | PowerGate Software&#39;s Business Insights](https://dev.to/powergatesoftwareglobal/top-8-mistakes-in-startup-product-development-how-to-avoid-them-3j0m)
+- [How to build an OpenAI Agent with persistent memory](https://dev.to/bobur/how-to-build-an-openai-agent-with-persistent-memory-51kj)
+- [LLMs fail at debugging forms. Here’s how capturing runtime DOM as JSON helps.](https://dev.to/alexey_sokolov_10deecd763/llms-fail-at-debugging-forms-heres-how-capturing-runtime-dom-as-json-helps-1neh)
+- [BRIEF INTRODUCTION TO DOCKER AND DOCKER COMPOSE](https://dev.to/hilary_wambwa_dd49d0404fa/brief-introduction-to-docker-and-docker-compose-2hc2)
 <!-- BLOG-POST-LIST:END -->
 
