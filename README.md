@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
-- [Adam Savage&#39;s Tested: Adam Savage Builds an Evil Dead Necronomicon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-an-evil-dead-necronomicon-4io8)
-- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
-- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
+- [Why Soft Skills Matter More Than You Think for Developers](https://dev.to/umairarshad-dev/why-soft-skills-matter-more-than-you-think-for-developers-198c)
+- [Do you think AI coding assistants &lpar;like Copilot or ChatGPT&rpar; will eventually set new coding standards, or just become personal helpers for each developer?](https://dev.to/kevinasutton/do-you-think-ai-coding-assistants-like-copilot-or-chatgpt-will-eventually-set-new-coding-3j3e)
+- [🚀 Secure Your Flutter Apps Like a Pro! 🔐](https://dev.to/coderaray5/secure-your-flutter-apps-like-a-pro-4jo2)
+- [Two Days Away from Launch: A Fellow Crafter&#39;s Journey to Solving Our Biggest Challenge](https://dev.to/hiromis_rosamartinezmar/two-days-away-from-launch-a-fellow-crafters-journey-to-solving-our-biggest-challenge-3gh9)
 <!-- BLOG-POST-LIST:END -->
 
