@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Soft Skills Matter More Than You Think for Developers](https://dev.to/umairarshad-dev/why-soft-skills-matter-more-than-you-think-for-developers-198c)
-- [Do you think AI coding assistants &lpar;like Copilot or ChatGPT&rpar; will eventually set new coding standards, or just become personal helpers for each developer?](https://dev.to/kevinasutton/do-you-think-ai-coding-assistants-like-copilot-or-chatgpt-will-eventually-set-new-coding-3j3e)
-- [🚀 Secure Your Flutter Apps Like a Pro! 🔐](https://dev.to/coderaray5/secure-your-flutter-apps-like-a-pro-4jo2)
-- [Two Days Away from Launch: A Fellow Crafter&#39;s Journey to Solving Our Biggest Challenge](https://dev.to/hiromis_rosamartinezmar/two-days-away-from-launch-a-fellow-crafters-journey-to-solving-our-biggest-challenge-3gh9)
+- [What can make AI companies pay for data instead of scraping?](https://dev.to/imajus/what-can-make-ai-companies-pay-for-data-instead-of-scraping-g9p)
+- [Puertas bajo control: cómo reducir excursiones térmicas y consumo eléctrico](https://dev.to/central_detelemetra_027/puertas-bajo-control-como-reducir-excursiones-termicas-y-consumo-electrico-oe2)
+- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
+- [How much money is your business losing on Black Friday and Cyber Monday](https://dev.to/davedavies/how-much-money-is-your-business-losing-on-black-friday-and-cyber-monday-137f)
 <!-- BLOG-POST-LIST:END -->
 
