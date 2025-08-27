@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/farukh/theres-something-off-in-the-dev-with-ai-or-die-narrative-4j77)
-- [[Boost]](https://dev.to/bdougieyo/-3eda)
-- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
-- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
+- [The Vanishing Gradient Problem: A Memory Lapse in RNNs](https://dev.to/dev_patel_35864ca1db6093c/the-vanishing-gradient-problem-a-memory-lapse-in-rnns-1892)
+- [mpv-build: Customize your own mpv player from your browser](https://dev.to/ahaoboy/mpv-build-customize-your-own-mpv-right-from-your-browser-1g13)
+- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
+- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
 <!-- BLOG-POST-LIST:END -->
 
