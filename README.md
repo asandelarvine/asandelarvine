@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docket cheatsheet](https://dev.to/santosh_yadav_b0f71077df8/docket-cheatsheet-104e)
-- [Bulk Email Marketing Services Unlock the power of targeted communication with SMTPmart.com’s Bulk Email Marketing Services – perfect for businesses seeking cost-effective, scalable, and secure solutions to connect with millions effortlessly and grow brand](https://dev.to/charis_mark_7b485c537ccdc/bulk-email-marketing-services-unlock-the-power-of-targeted-communication-with-smtpmartcoms-bulk-c7k)
-- [The Developer&#39;s Complete Guide to CIAM Providers in 2025: 30+ Platforms Analyzed](https://dev.to/deepakgupta/the-developers-complete-guide-to-ciam-providers-in-2025-30-platforms-analyzed-4l2l)
-- [Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle](https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa)
+- [Centralized MTurk HIT Catcher with PHP &amp; Userscripts](https://dev.to/da_faq/centralized-mturk-hit-catcher-with-php-userscripts-1a0a)
+- [Evolution of Honda Acty HA8 &amp; HA9 &lpar;2009–2022&rpar;: What’s Changed Under the Hood](https://dev.to/evan_cheng_8287682f4d5df9/evolution-of-honda-acty-ha8-ha9-2009-2022-whats-changed-under-the-hood-1plf)
+- [Part-28: Google Compute Engine Disk Images](https://dev.to/latchudevops/part-28-google-compute-engine-disk-images-4271)
+- [Visualise your Certifications with the Exam Timeline Project](https://dev.to/techielass/visualise-your-certifications-with-the-exam-timeline-project-2o3e)
 <!-- BLOG-POST-LIST:END -->
 
