@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Postman? 7 Lightweight API Testing Tools Developers Actually Use in 2025 🚀](https://dev.to/ilsa_shaikh_089e2bfab0bf4/tired-of-postman-7-lightweight-api-testing-tools-developers-actually-use-in-2025-33fe)
-- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
-- [How i made Qt + VTK based 3d-dicom-viewer - open-source instrument for creating 3d models from raw DICOM series](https://dev.to/ft290008buchok/how-i-made-qt-vtk-based-3d-dicom-viewer-open-source-instrument-for-creating-3d-models-from-raw-2kj7)
-- [The C# Feature That Saves You Thousands… But No One Talks About](https://dev.to/mohammad_shoeb_8cf8645287/the-c-feature-that-saves-you-thousands-but-no-one-talks-about-10d4)
+- [Wednesday Links - Edition 2025-08-27](https://dev.to/0xkkocel/wednesday-links-edition-2025-08-27-2130)
+- [[Boost]](https://dev.to/cybersage5/-3kah)
+- [🤖 ChatGPT, Copilot y compañía: ¿aliados o jefes ocultos?](https://dev.to/yosmarhinestroza/chatgpt-copilot-y-compania-aliados-o-jefes-ocultos-16jh)
+- [From Mistakes to Success: My First JavaScript Login Page Validation!](https://dev.to/sevaki_rajasekar_700822f9/from-mistakes-to-success-my-first-javascript-login-page-validation-26fj)
 <!-- BLOG-POST-LIST:END -->
 
