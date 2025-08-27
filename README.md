@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vanishing Gradient Problem: A Memory Lapse in RNNs](https://dev.to/dev_patel_35864ca1db6093c/the-vanishing-gradient-problem-a-memory-lapse-in-rnns-1892)
-- [mpv-build: Customize your own mpv player from your browser](https://dev.to/ahaoboy/mpv-build-customize-your-own-mpv-right-from-your-browser-1g13)
-- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
-- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
+- [Critical Vulnerability Alert: Weaver e-Office Remote Code Execution &lpar;RCE&rpar; – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-vulnerability-alert-weaver-e-office-remote-code-execution-rce-patch-now-10d8)
+- [FOSSAI: An Open-Source Manifesto Against Digital Inequality — v0.1](https://dev.to/paladini/fossai-an-open-source-manifesto-against-digital-inequality-v01-4jlk)
+- [🛳️ Docker Series: Episode 5 — Docker CLI Cheat Sheet: 15 Commands You’ll Actually Use](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-lke)
+- [async - await](https://dev.to/tkouleris/async-await-1e2)
 <!-- BLOG-POST-LIST:END -->
 
