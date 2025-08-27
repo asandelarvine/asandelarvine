@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple SQL Parser in Python: From Basics to Hands-On](https://dev.to/leapcell/building-a-simple-sql-parser-in-python-from-basics-to-hands-on-2a0o)
-- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 3](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-3-mci)
-- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-gag)
-- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
+- [Have you ever built one ?](https://dev.to/masterdevsabith/have-you-ever-built-one--4bon)
+- [Refactor Smart Today, Move Faster Tomorrow - Part 1: Before You Touch a Line of Code](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-1-before-you-touch-a-line-of-code-3557)
+- [Agente de IA para Resumir Textos Acadêmicos: Inovação na Compreensão Científica](https://dev.to/no_codestartup/agente-de-ia-para-resumir-textos-academicos-inovacao-na-compreensao-cientifica-3ikg)
+- [Why NGINX Still Powers the Modern Web in 2025: Part 1](https://dev.to/surajkumar00/why-nginx-still-powers-the-modern-web-in-2025-part-1-8g8)
 <!-- BLOG-POST-LIST:END -->
 
