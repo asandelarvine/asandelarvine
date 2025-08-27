@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Centralized MTurk HIT Catcher with PHP &amp; Userscripts](https://dev.to/da_faq/centralized-mturk-hit-catcher-with-php-userscripts-1a0a)
-- [Evolution of Honda Acty HA8 &amp; HA9 &lpar;2009–2022&rpar;: What’s Changed Under the Hood](https://dev.to/evan_cheng_8287682f4d5df9/evolution-of-honda-acty-ha8-ha9-2009-2022-whats-changed-under-the-hood-1plf)
-- [Part-28: Google Compute Engine Disk Images](https://dev.to/latchudevops/part-28-google-compute-engine-disk-images-4271)
-- [Visualise your Certifications with the Exam Timeline Project](https://dev.to/techielass/visualise-your-certifications-with-the-exam-timeline-project-2o3e)
+- [How Grad-CAM Helped Me Explain Alzheimer’s Predictions](https://dev.to/dlzcods/how-grad-cam-helped-me-explain-alzheimers-predictions-14n3)
+- [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-1l7g)
+- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
 <!-- BLOG-POST-LIST:END -->
 
