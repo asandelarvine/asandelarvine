@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Have you ever built one ?](https://dev.to/masterdevsabith/have-you-ever-built-one--4bon)
-- [Refactor Smart Today, Move Faster Tomorrow - Part 1: Before You Touch a Line of Code](https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-part-1-before-you-touch-a-line-of-code-3557)
-- [Agente de IA para Resumir Textos Acadêmicos: Inovação na Compreensão Científica](https://dev.to/no_codestartup/agente-de-ia-para-resumir-textos-academicos-inovacao-na-compreensao-cientifica-3ikg)
-- [Why NGINX Still Powers the Modern Web in 2025: Part 1](https://dev.to/surajkumar00/why-nginx-still-powers-the-modern-web-in-2025-part-1-8g8)
+- [Genesis DB 1.0.0: Production-Ready and Battle-Tested](https://dev.to/patriceckhart/genesis-db-100-production-ready-and-battle-tested-295)
+- [Ownership and Borrowing: My Journey Into Rust’s Unique Memory System](https://dev.to/agecoder/ownership-and-borrowing-my-journey-into-rusts-unique-memory-system-3nbm)
+- [Solving cold start in AWS Lambda with intelligent distributed Cache](https://dev.to/aws-builders/solving-cold-start-in-aws-lambda-with-intelligent-distributed-cache-3g6n)
+- [Day 78: When Your Brain Refuses to Rest](https://dev.to/casperday11/day-78-when-your-brain-refuses-to-rest-2lf0)
 <!-- BLOG-POST-LIST:END -->
 
