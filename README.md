@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS Fargate can cut infra costs by 30% vs EC2 for workloads with spike!](https://dev.to/giasuddin90/aws-ecs-fargate-can-cut-infra-costs-by-30-vs-ec2-for-workloads-with-spike-4ef8)
-- [What is cryptography in blockchain — in simple terms for developers](https://dev.to/dan_keller/what-is-cryptography-in-blockchain-in-simple-terms-for-developers-4bf8)
-- [Demystifying Go Mutex: How Synchronization Works Under the Hood](https://dev.to/medunes/demystifying-go-mutex-how-synchronization-works-under-the-hood-1ken)
-- [Dictionary Encoding and its cousins: storage optimization patterns in data systems](https://dev.to/mcadariu/dictionary-encoding-and-its-cousins-storage-optimization-patterns-in-data-systems-11k5)
+- [My portfolio](https://dev.to/4mkbs/my-portfolio-4pj0)
+- [How to learn physics easily: discover PhysicsHub.](https://dev.to/mattqdev/how-to-learn-physics-easily-discover-physicshub-1aj)
+- [Show Dev: TestDino – Stop Wasting Hours Debugging Flaky Playwright Tests](https://dev.to/pratik-patel/show-dev-testdino-stop-wasting-hours-debugging-flaky-playwright-tests-gok)
+- [[Boost]](https://dev.to/ben/-2ob7)
 <!-- BLOG-POST-LIST:END -->
 
