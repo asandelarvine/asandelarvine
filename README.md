@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 mistakes in startup product development &amp; How to avoid them | PowerGate Software&#39;s Business Insights](https://dev.to/powergatesoftwareglobal/top-8-mistakes-in-startup-product-development-how-to-avoid-them-3j0m)
-- [How to build an OpenAI Agent with persistent memory](https://dev.to/bobur/how-to-build-an-openai-agent-with-persistent-memory-51kj)
-- [LLMs fail at debugging forms. Here’s how capturing runtime DOM as JSON helps.](https://dev.to/alexey_sokolov_10deecd763/llms-fail-at-debugging-forms-heres-how-capturing-runtime-dom-as-json-helps-1neh)
-- [BRIEF INTRODUCTION TO DOCKER AND DOCKER COMPOSE](https://dev.to/hilary_wambwa_dd49d0404fa/brief-introduction-to-docker-and-docker-compose-2hc2)
+- [Tired of Postman? 7 Lightweight API Testing Tools Developers Actually Use in 2025 🚀](https://dev.to/ilsa_shaikh_089e2bfab0bf4/tired-of-postman-7-lightweight-api-testing-tools-developers-actually-use-in-2025-33fe)
+- [Natural Language Processing in Artificial Intelligence Explained – Applify](https://dev.to/manpreet27/natural-language-processing-in-artificial-intelligence-explained-applify-7n3)
+- [How i made Qt + VTK based 3d-dicom-viewer - open-source instrument for creating 3d models from raw DICOM series](https://dev.to/ft290008buchok/how-i-made-qt-vtk-based-3d-dicom-viewer-open-source-instrument-for-creating-3d-models-from-raw-2kj7)
+- [The C# Feature That Saves You Thousands… But No One Talks About](https://dev.to/mohammad_shoeb_8cf8645287/the-c-feature-that-saves-you-thousands-but-no-one-talks-about-10d4)
 <!-- BLOG-POST-LIST:END -->
 
