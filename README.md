@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Vulnerability Alert: Weaver e-Office Remote Code Execution &lpar;RCE&rpar; – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-vulnerability-alert-weaver-e-office-remote-code-execution-rce-patch-now-10d8)
-- [FOSSAI: An Open-Source Manifesto Against Digital Inequality — v0.1](https://dev.to/paladini/fossai-an-open-source-manifesto-against-digital-inequality-v01-4jlk)
-- [🛳️ Docker Series: Episode 5 — Docker CLI Cheat Sheet: 15 Commands You’ll Actually Use](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-lke)
-- [async - await](https://dev.to/tkouleris/async-await-1e2)
+- [Utilizando o módulo Motor Fan L9110 com Arduino](https://dev.to/yuricosta/utilizando-o-modulo-motor-fan-l9110-com-arduino-498p)
+- [When I talk to small business owners, I often hear the same thing: “AI sounds great, but isn’t it only for big companies with tech teams?” Here are 7 Ways Small Businesses Can Use AI Today, and a giveaway for DEV Community!](https://dev.to/jaideepparashar/when-i-talk-to-small-business-owners-i-often-hear-the-same-thing-ai-sounds-great-but-isnt-453d)
+- [Optique: Type-Safe CLI Parser Combinators](https://dev.to/hongminhee/optique-type-safe-cli-parser-combinators-39md)
+- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
 <!-- BLOG-POST-LIST:END -->
 
