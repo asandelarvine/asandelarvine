@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Grad-CAM Helped Me Explain Alzheimer’s Predictions](https://dev.to/dlzcods/how-grad-cam-helped-me-explain-alzheimers-predictions-14n3)
-- [Building PoC Agents in Minutes](https://dev.to/nghidanh2005/building-poc-agents-in-minutes-23cl)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_74898956/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-1l7g)
-- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
+- [Good work Joy](https://dev.to/grayhat/good-work-joy-70h)
+- [Sometimes the best thing to do is an explicit nothing](https://dev.to/naugtur/sometimes-the-best-thing-to-do-is-an-explicit-nothing-2i71)
+- [MLflow The Series: รู้จัก MLflow ทำไม Data Scientist ต้องรู้จัก](https://dev.to/watchara-sukka/mlflow-the-seriesmlflow-khuueaair-thamaim-data-scientist-tngruucchak-69n)
+- [Step 2: Essential Theme Files – Core WordPress Theme Structure](https://dev.to/adovgun/step-2-essential-theme-files-core-wordpress-theme-structure-36ig)
 <!-- BLOG-POST-LIST:END -->
 
