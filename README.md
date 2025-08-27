@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
-- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/singhrahulbly123/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-27gc)
-- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
-- [How to Add Real-Time Comments to Your Tiptap Editor with Velt and v0🔥](https://dev.to/astrodevil/how-to-add-real-time-comments-to-your-tiptap-editor-with-velt-and-v0-329e)
+- [PostgreSQL JSONB Size Limits to Prevent TOAST Slicing](https://dev.to/franckpachot/postgresql-jsonb-size-limits-to-prevent-toast-slicing-9e8)
+- [Bryan Bros Golf: Golf Match @ #1 Public Course In The World!](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-1-public-course-in-the-world-b7f)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-2041)
+- [IGN: Alien: Earth - After Ep. 4&#39;s Big Revelation, Is It Time to Bail?](https://dev.to/gg_news/ign-alien-earth-after-ep-4s-big-revelation-is-it-time-to-bail-2hfi)
 <!-- BLOG-POST-LIST:END -->
 
