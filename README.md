@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Bots Killed My WooCommerce Site Until I Automated WP Rocket Filter Caching](https://dev.to/trueqap/how-bots-killed-my-woocommerce-site-until-i-automated-wp-rocket-filter-caching-1ba0)
-- [DOCKER](https://dev.to/datawithsarah/docker-3pk0)
-- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
-- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
+- [Docket cheatsheet](https://dev.to/santosh_yadav_b0f71077df8/docket-cheatsheet-104e)
+- [Bulk Email Marketing Services Unlock the power of targeted communication with SMTPmart.com’s Bulk Email Marketing Services – perfect for businesses seeking cost-effective, scalable, and secure solutions to connect with millions effortlessly and grow brand](https://dev.to/charis_mark_7b485c537ccdc/bulk-email-marketing-services-unlock-the-power-of-targeted-communication-with-smtpmartcoms-bulk-c7k)
+- [The Developer&#39;s Complete Guide to CIAM Providers in 2025: 30+ Platforms Analyzed](https://dev.to/deepakgupta/the-developers-complete-guide-to-ciam-providers-in-2025-30-platforms-analyzed-4l2l)
+- [Universal database MCP server for MySQL, PostgreSQL, SQL Server, MariaDB,Oracle](https://dev.to/wenb1ndev/universal-database-mcp-server-for-mysql-postgresql-sql-server-mariadboracle-2cpa)
 <!-- BLOG-POST-LIST:END -->
 
