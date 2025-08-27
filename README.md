@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Genesis DB 1.0.0: Production-Ready and Battle-Tested](https://dev.to/patriceckhart/genesis-db-100-production-ready-and-battle-tested-295)
-- [Ownership and Borrowing: My Journey Into Rust’s Unique Memory System](https://dev.to/agecoder/ownership-and-borrowing-my-journey-into-rusts-unique-memory-system-3nbm)
-- [Solving cold start in AWS Lambda with intelligent distributed Cache](https://dev.to/aws-builders/solving-cold-start-in-aws-lambda-with-intelligent-distributed-cache-3g6n)
-- [Day 78: When Your Brain Refuses to Rest](https://dev.to/casperday11/day-78-when-your-brain-refuses-to-rest-2lf0)
+- [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
+- [Adam Savage&#39;s Tested: Adam Savage Builds an Evil Dead Necronomicon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-an-evil-dead-necronomicon-4io8)
+- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
+- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
 <!-- BLOG-POST-LIST:END -->
 
