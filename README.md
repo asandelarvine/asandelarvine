@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My portfolio](https://dev.to/4mkbs/my-portfolio-4pj0)
-- [How to learn physics easily: discover PhysicsHub.](https://dev.to/mattqdev/how-to-learn-physics-easily-discover-physicshub-1aj)
-- [Show Dev: TestDino – Stop Wasting Hours Debugging Flaky Playwright Tests](https://dev.to/pratik-patel/show-dev-testdino-stop-wasting-hours-debugging-flaky-playwright-tests-gok)
-- [[Boost]](https://dev.to/ben/-2ob7)
+- [Building a Simple SQL Parser in Python: From Basics to Hands-On](https://dev.to/leapcell/building-a-simple-sql-parser-in-python-from-basics-to-hands-on-2a0o)
+- [How do you make FullStack Demo App for Interviews using Laravel + React with Dockerize Part 3](https://dev.to/pirvanm/how-do-you-make-fullstack-demo-app-for-interviews-using-laravel-react-with-dockerize-part-3-mci)
+- [Tutorial: Dual Boot Arch Linux + Windows 11 on UEFI Systems](https://dev.to/ivajofranc/tutorial-dual-boot-arch-linux-windows-11-on-uefi-systems-gag)
+- [Full-Stack Interview Prep #1: SQL Injection Explained Simply &lpar;with Go &amp; Node.js Examples&rpar;](https://dev.to/davjesse/full-stack-interview-prep-1-sql-injection-explained-simply-with-go-nodejs-examples-lg6)
 <!-- BLOG-POST-LIST:END -->
 
