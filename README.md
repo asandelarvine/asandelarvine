@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Link Pull Requests to JIRA Issues with Ease](https://dev.to/codenamegrant/link-pull-requests-to-jira-issues-with-ease-22ae)
-- [♟️ Building a Chess App with React, Node.js, Kafka, and AWS &lpar;Part 1&rpar;](https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph)
-- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
-- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
+- [Why the Kupa Nail Drill Sale Is a Must-Shop for Every Nail Artist](https://dev.to/premiernail/why-the-kupa-nail-drill-sale-is-a-must-shop-for-every-nail-artist-23jd)
+- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
+- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
+- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
 <!-- BLOG-POST-LIST:END -->
 
