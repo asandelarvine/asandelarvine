@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Micro SaaS? Your Guide to Niche Software Success](https://dev.to/lollypopdesign/what-is-micro-saas-your-guide-to-niche-software-success-6b9)
-- [How Tariffs and Digital Services Taxes Are Reshaping the Global Fintech Industry](https://dev.to/krunalbhimani/how-tariffs-and-digital-services-taxes-are-reshaping-the-global-fintech-industry-1k11)
-- [100 Days of DevOps: Day 25](https://dev.to/wycliffealphus/100-days-of-devops-day-25-55d3)
-- [AI Models Demystified: What Really Happens Inside an AI Model?](https://dev.to/ksr007/ai-models-demystified-what-really-happens-inside-an-ai-model-2nf6)
+- [📌 FAANG Coding Patterns Series – Day 2](https://dev.to/devcorner/faang-coding-patterns-series-day-2-47f1)
+- [📌 FAANG Coding Patterns Series – Day 1](https://dev.to/devcorner/faang-coding-patterns-series-day-1-c0)
+- [Integrating MCP Tools into Express with Minimal Changes](https://dev.to/udarabibile/integrating-mcp-tools-into-express-with-minimal-changes-28e6)
+- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
 <!-- BLOG-POST-LIST:END -->
 
