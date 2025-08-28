@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log 12](https://dev.to/asx/dev-log-12-4c0f)
-- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
-- [Multi-Environment GCP Web Application Infrastructure with Auto-Scaling](https://dev.to/benn1440/multi-environment-gcp-web-application-infrastructure-with-auto-scaling-2gf9)
-- [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
+- [Task:Implement SEMI SECS/GEM protocol adapters](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-semi-secsgem-protocol-adapters-gi2)
+- [Random topics in HTML.](https://dev.to/gustavo_ax/random-topics-in-html-3c5l)
+- [Forms and Tables](https://dev.to/gustavo_ax/forms-and-tables-359p)
+- [LINKS IN HTML.](https://dev.to/gustavo_ax/links-in-html-mb6)
 <!-- BLOG-POST-LIST:END -->
 
