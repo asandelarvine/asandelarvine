@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the Google Workspace Developer Summit 2025](https://dev.to/googleworkspace/join-the-google-workspace-developer-summit-2025-2620)
-- [Less Dogma, More Rigor](https://dev.to/linkbenjamin/less-dogma-more-rigor-1cll)
-- [Don’t Build Your MVP Yet -Read This First](https://dev.to/devtrios/dont-build-your-mvp-yet-read-this-first-23da)
-- [10+ Best Free Vibe Coding Tools For Productivity 👨🏻‍💻](https://dev.to/ajaypatel9016/10-best-free-vibe-coding-tools-for-productivity-47le)
+- [Debugging Next.js App Router Navigation Lag: Dynamic Routes and Prefetching](https://dev.to/kcsujeet/debugging-nextjs-app-router-navigation-lag-dynamic-routes-and-prefetching-akk)
+- [🚀 Building Scalable Background Jobs in Node.js with BullMQ: A Complete Guide](https://dev.to/asad_ahmed_5592ac0a7d0258/building-scalable-background-jobs-in-nodejs-with-bullmq-a-complete-guide-509p)
+- [When your settings page becomes the product](https://dev.to/alisa-kak-vsegda/when-your-settings-page-becomes-the-product-1824)
+- [The Importance of UX/UI Design for Developers](https://dev.to/shaurya_sahani_b294b8e3b6/the-importance-of-uxui-design-for-developers-4157)
 <!-- BLOG-POST-LIST:END -->
 
