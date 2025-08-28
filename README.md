@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exception Handling in java](https://dev.to/chhavi_joshi_ede276cfcc06/exception-handling-in-java-2hf)
-- [Colin Furze: Secret Garage Part 7 The Most Amazing Door!](https://dev.to/maker_youtube/colin-furze-secret-garage-part-7-the-most-amazing-door-59i6)
-- [File Integrity Monitoring with Wazuh SIEM Tool](https://dev.to/samueladeduntan/file-integrity-monitoring-with-wazuh-siem-tool-5c98)
-- [Adam Savage&#39;s Tested: How Adam Savage&#39;s R2D2 Was Prepared for Display at Smithsonian](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savages-r2d2-was-prepared-for-display-at-smithsonian-3a1b)
+- [X](https://dev.to/benny_neugebauer_4aebabb4/why-i-dont-like-path-aliases-in-typescript-3p50)
+- [Making Cross-Chain Simple: Biconomy’s Supertransaction API](https://dev.to/buhilo_2801/making-cross-chain-simple-biconomys-supertransaction-api-k61)
+- [🌍 How to Contribute to Open Source &lpar;Even If You&#39;re Just Starting Out&rpar;](https://dev.to/keshav___dev/how-to-contribute-to-open-source-even-if-youre-just-starting-out-1n1d)
+- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
 <!-- BLOG-POST-LIST:END -->
 
