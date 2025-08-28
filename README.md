@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [X](https://dev.to/benny_neugebauer_4aebabb4/why-i-dont-like-path-aliases-in-typescript-3p50)
-- [Making Cross-Chain Simple: Biconomy’s Supertransaction API](https://dev.to/buhilo_2801/making-cross-chain-simple-biconomys-supertransaction-api-k61)
-- [🌍 How to Contribute to Open Source &lpar;Even If You&#39;re Just Starting Out&rpar;](https://dev.to/keshav___dev/how-to-contribute-to-open-source-even-if-youre-just-starting-out-1n1d)
-- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
+- [Link Pull Requests to JIRA Issues with Ease](https://dev.to/codenamegrant/link-pull-requests-to-jira-issues-with-ease-22ae)
+- [♟️ Building a Chess App with React, Node.js, Kafka, and AWS &lpar;Part 1&rpar;](https://dev.to/raviv_gilady/building-a-chess-app-with-react-nodejs-kafka-and-aws-part-1-4bph)
+- [Colin Furze: Have I built the most amazing door Ever?](https://dev.to/maker_youtube/colin-furze-have-i-built-the-most-amazing-door-ever-1jlm)
+- [KEXP: Annahstasia - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-full-performance-live-on-kexp-13gn)
 <!-- BLOG-POST-LIST:END -->
 
