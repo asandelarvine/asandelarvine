@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP Server That Solves Every Developer&#39;s Rules Management Problem](https://dev.to/4regab/building-an-mcp-server-that-solves-every-developers-rules-management-problem-o86)
-- [Day 11 — Vibe the hard thing while you’re excited](https://dev.to/nando_rama_67753ecb8e0e6d/day-11-vibe-the-hard-thing-while-youre-excited-1plg)
-- [Scaling Bedrock&#39;s Nova Pro Model for High-Traffic Workloads](https://dev.to/aaron_rose_0787cc8b4775a0/scaling-bedrocks-nova-pro-model-for-high-traffic-workloads-2l6k)
-- [Strengthening Libre: Security and Optimization Updates](https://dev.to/libre_anti_social/strengthening-libre-security-and-optimization-updates-5hb2)
+- [Better Sidekiq Classes](https://dev.to/brazenbraden/better-sidekiq-classes-430b)
+- [Semantic HTML for SEO and accessibility.](https://dev.to/jeff_kaberagithara_0e17f/semantic-html-for-seo-and-accessibility-3237)
+- [This Async Microservice Design Flaw IS Destroying Your Data Integrity!](https://dev.to/xuan_56087d315ff4f52254e6/this-async-microservice-design-flaw-is-destroying-your-data-integrity-jf9)
+- [What is google&#39;s nano banana and how it solved the biggest problem in ai image editing](https://dev.to/syedharis/what-is-googles-nano-banana-and-how-it-solved-the-biggest-problem-in-ai-image-editing-28ih)
 <!-- BLOG-POST-LIST:END -->
 
