@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement SEMI SECS/GEM protocol adapters](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-semi-secsgem-protocol-adapters-gi2)
-- [Random topics in HTML.](https://dev.to/gustavo_ax/random-topics-in-html-3c5l)
-- [Forms and Tables](https://dev.to/gustavo_ax/forms-and-tables-359p)
-- [LINKS IN HTML.](https://dev.to/gustavo_ax/links-in-html-mb6)
+- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
+- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
+- [Building a Multi-Agent Airline Seat Reassignment System with KaibanJS](https://dev.to/kaibanjs/building-a-multi-agent-airline-seat-reassignment-system-with-kaibanjs-4kd8)
+- [Simple Calculator in Python](https://dev.to/zhao_xinhao_a6de9f3d23a77/simple-calculator-in-python-2i1k)
 <!-- BLOG-POST-LIST:END -->
 
