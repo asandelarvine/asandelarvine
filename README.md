@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Next.js App Router Navigation Lag: Dynamic Routes and Prefetching](https://dev.to/kcsujeet/debugging-nextjs-app-router-navigation-lag-dynamic-routes-and-prefetching-akk)
-- [🚀 Building Scalable Background Jobs in Node.js with BullMQ: A Complete Guide](https://dev.to/asad_ahmed_5592ac0a7d0258/building-scalable-background-jobs-in-nodejs-with-bullmq-a-complete-guide-509p)
-- [When your settings page becomes the product](https://dev.to/alisa-kak-vsegda/when-your-settings-page-becomes-the-product-1824)
-- [The Importance of UX/UI Design for Developers](https://dev.to/shaurya_sahani_b294b8e3b6/the-importance-of-uxui-design-for-developers-4157)
+- [Uncovering the Weak Spots: A Guide to AI Security Vulnerabilities](https://dev.to/johnantony92/uncovering-the-weak-spots-a-guide-to-ai-security-vulnerabilities-1mo6)
+- [Data Science Training Institute in Pune: A Step Towards a Future-Ready Career](https://dev.to/jasonschool/data-science-training-institute-in-pune-a-step-towards-a-future-ready-career-2e00)
+- [I built my complete side-project in a day using Claude Code and MCP, now you know why they don&#39;t hire jr devs anymore](https://dev.to/composiodev/i-built-my-complete-side-project-in-a-day-using-claude-code-and-mcp-now-you-know-why-they-dont-22gk)
+- [Is Flutter Still Worth Learning in 2025? &lpar;A Deep Dive&rpar;](https://dev.to/pranta/is-flutter-still-worth-learning-in-2025-a-deep-dive-1ppl)
 <!-- BLOG-POST-LIST:END -->
 
