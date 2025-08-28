@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
-- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
-- [Building a Multi-Agent Airline Seat Reassignment System with KaibanJS](https://dev.to/kaibanjs/building-a-multi-agent-airline-seat-reassignment-system-with-kaibanjs-4kd8)
-- [Simple Calculator in Python](https://dev.to/zhao_xinhao_a6de9f3d23a77/simple-calculator-in-python-2i1k)
+- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
+- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
+- [[Boost]](https://dev.to/tcodecyber/-2oke)
+- [Accidentally Built an AI Agent That Turned Cold Outreach Into a Cheat Code](https://dev.to/onlineproxy-io/accidentally-built-an-ai-agent-that-turned-cold-outreach-into-a-cheat-code-1k2d)
 <!-- BLOG-POST-LIST:END -->
 
