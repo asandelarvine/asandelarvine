@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Obsidian, Notion, Logseq?! The note-taking stack that doesn’t suck for devs](https://dev.to/dev_tips/obsidian-notion-logseq-the-note-taking-stack-that-doesnt-suck-for-devs-2cf7)
-- [Send Emails with Windsurf and Mailtrap](https://dev.to/denyskontorskyy/send-emails-with-windsurf-and-mailtrap-3h4n)
-- [The Dev’s AI Vault, Part 1: How developers are actually using ChatGPT &lpar;9 proven patterns&rpar;](https://dev.to/dev_tips/the-devs-ai-vault-part-1-how-developers-are-actually-using-chatgpt-9-proven-patterns-27on)
-- [From Markdown to Meaning: Turn Your Obsidian Notes into a Conversational Database Using LangChain, Python, and ChromaDB](https://dev.to/bohowhizz/from-markdown-to-meaning-turn-your-obsidian-notes-into-a-conversational-database-using-langchain-4pi7)
+- [Join the Google Workspace Developer Summit 2025](https://dev.to/googleworkspace/join-the-google-workspace-developer-summit-2025-2620)
+- [Less Dogma, More Rigor](https://dev.to/linkbenjamin/less-dogma-more-rigor-1cll)
+- [Don’t Build Your MVP Yet -Read This First](https://dev.to/devtrios/dont-build-your-mvp-yet-read-this-first-23da)
+- [10+ Best Free Vibe Coding Tools For Productivity 👨🏻‍💻](https://dev.to/ajaypatel9016/10-best-free-vibe-coding-tools-for-productivity-47le)
 <!-- BLOG-POST-LIST:END -->
 
