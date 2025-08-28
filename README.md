@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncovering the Weak Spots: A Guide to AI Security Vulnerabilities](https://dev.to/johnantony92/uncovering-the-weak-spots-a-guide-to-ai-security-vulnerabilities-1mo6)
-- [Data Science Training Institute in Pune: A Step Towards a Future-Ready Career](https://dev.to/jasonschool/data-science-training-institute-in-pune-a-step-towards-a-future-ready-career-2e00)
-- [I built my complete side-project in a day using Claude Code and MCP, now you know why they don&#39;t hire jr devs anymore](https://dev.to/composiodev/i-built-my-complete-side-project-in-a-day-using-claude-code-and-mcp-now-you-know-why-they-dont-22gk)
-- [Is Flutter Still Worth Learning in 2025? &lpar;A Deep Dive&rpar;](https://dev.to/pranta/is-flutter-still-worth-learning-in-2025-a-deep-dive-1ppl)
+- [How to Set Up TLS on Cloudflare: A Step-by-Step Guide](https://dev.to/freedom-coder/how-to-set-up-tls-on-cloudflare-a-step-by-step-guide-2p1g)
+- [How To Connect AWS AppRunner Service To RDS And EC2](https://dev.to/aws-builders/how-to-connect-aws-apprunner-service-to-rds-and-ec2-5fkk)
+- [NumPy Basics for Data Handling in Python](https://dev.to/abhishek422/numpy-basics-for-data-handling-in-python-2cj0)
+- [Glyph.Flow Devlog #3 – Splitting Logs &amp; UI Glow](https://dev.to/daemonic01/glyphflow-devlog-3-splitting-logs-ui-glow-3lk7)
 <!-- BLOG-POST-LIST:END -->
 
