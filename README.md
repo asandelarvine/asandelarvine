@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Kupa Nail Drill Sale Is a Must-Shop for Every Nail Artist](https://dev.to/premiernail/why-the-kupa-nail-drill-sale-is-a-must-shop-for-every-nail-artist-23jd)
-- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
-- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
-- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
+- [7 open-source MCP servers that make AI agents actually learn stuff](https://dev.to/dev_tips/7-open-source-mcp-servers-that-make-ai-agents-actually-learn-stuff-4bch)
+- [Complete Walkthrough Guide: File Integrity Monitoring &lpar;FIM&rpar; on Windows](https://dev.to/samueladeduntan/complete-walkthrough-guide-file-integrity-monitoring-fim-on-windows-1mnl)
+- [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
+- [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
 <!-- BLOG-POST-LIST:END -->
 
