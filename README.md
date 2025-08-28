@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up TLS on Cloudflare: A Step-by-Step Guide](https://dev.to/freedom-coder/how-to-set-up-tls-on-cloudflare-a-step-by-step-guide-2p1g)
-- [How To Connect AWS AppRunner Service To RDS And EC2](https://dev.to/aws-builders/how-to-connect-aws-apprunner-service-to-rds-and-ec2-5fkk)
-- [NumPy Basics for Data Handling in Python](https://dev.to/abhishek422/numpy-basics-for-data-handling-in-python-2cj0)
-- [Glyph.Flow Devlog #3 – Splitting Logs &amp; UI Glow](https://dev.to/daemonic01/glyphflow-devlog-3-splitting-logs-ui-glow-3lk7)
+- [Exception Handling in java](https://dev.to/chhavi_joshi_ede276cfcc06/exception-handling-in-java-2hf)
+- [Colin Furze: Secret Garage Part 7 The Most Amazing Door!](https://dev.to/maker_youtube/colin-furze-secret-garage-part-7-the-most-amazing-door-59i6)
+- [File Integrity Monitoring with Wazuh SIEM Tool](https://dev.to/samueladeduntan/file-integrity-monitoring-with-wazuh-siem-tool-5c98)
+- [Adam Savage&#39;s Tested: How Adam Savage&#39;s R2D2 Was Prepared for Display at Smithsonian](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savages-r2d2-was-prepared-for-display-at-smithsonian-3a1b)
 <!-- BLOG-POST-LIST:END -->
 
