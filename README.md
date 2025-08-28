@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Data Governance Gap: Securing Your ServiceNow Ecosystem in a Hybrid World 🔒](https://dev.to/sip_mjb/the-data-governance-gap-securing-your-servicenow-ecosystem-in-a-hybrid-world-3i9f)
-- [I Built GitNarrative: Turn Your Git Commits Into Stories](https://dev.to/grudged/i-built-gitnarrative-turn-your-git-commits-into-stories-ka0)
-- [[Boost]](https://dev.to/tcodecyber/-2oke)
-- [Accidentally Built an AI Agent That Turned Cold Outreach Into a Cheat Code](https://dev.to/onlineproxy-io/accidentally-built-an-ai-agent-that-turned-cold-outreach-into-a-cheat-code-1k2d)
+- [The Client Portal Revolution: How We Eliminated 67% of &quot;Quick Question&quot; Emails](https://dev.to/teamcamp/the-client-portal-revolution-how-we-eliminated-67-of-quick-question-emails-5cl9)
+- [What is n8n? A Complete Beginner’s Guide to Workflow Automation](https://dev.to/snehalkadwe/what-is-n8n-a-complete-beginners-guide-to-workflow-automation-1jg8)
+- [Kenya Crops Data: A Dashboard-Driven Analysis of Agricultural Performance](https://dev.to/g_well/kenya-crops-data-a-dashboard-driven-analysis-of-agricultural-performance-1bfk)
+- [🧠 Born to Learn: A Neural Network&#39;s Guide to Growing Up Human](https://dev.to/sreeni5018/born-to-learn-a-neural-networks-guide-to-growing-up-human-46m3)
 <!-- BLOG-POST-LIST:END -->
 
