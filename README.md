@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📌 FAANG Coding Patterns Series – Day 2](https://dev.to/devcorner/faang-coding-patterns-series-day-2-47f1)
-- [📌 FAANG Coding Patterns Series – Day 1](https://dev.to/devcorner/faang-coding-patterns-series-day-1-c0)
-- [Integrating MCP Tools into Express with Minimal Changes](https://dev.to/udarabibile/integrating-mcp-tools-into-express-with-minimal-changes-28e6)
-- [SQL Diagnostic Report&lpar;23ai, 19.28&rpar;](https://dev.to/vahidusefzadeh/sql-diagnostic-report23ai-1928-2h27)
+- [🛡 CrowdSec: Open‑Source, Crowd‑Powered Defense](https://dev.to/byteknight/crowdsec-open-source-crowd-powered-defense-14c3)
+- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
+- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
+- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
 <!-- BLOG-POST-LIST:END -->
 
