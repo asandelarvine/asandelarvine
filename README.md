@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to mHealth Applications Development](https://dev.to/jeni860/the-ultimate-guide-to-mhealth-applications-development-5741)
-- [Why “All-in-One” Productivity Tools Fail &lpar;and What Actually Works&rpar;](https://dev.to/bibhash_dutta_099/why-all-in-one-productivity-tools-fail-and-what-actually-works-3gf7)
-- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
-- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
+- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
+- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
+- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
+- [Python Learning : Serialization and De-serialization](https://dev.to/vivekyadav200988/python-learning-serialization-and-de-serialization-78n)
 <!-- BLOG-POST-LIST:END -->
 
