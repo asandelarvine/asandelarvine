@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Malware for Pen Testers](https://dev.to/godofgeeks/reverse-engineering-malware-for-pen-testers-1npo)
-- [Use alasql to use sql feature in web](https://dev.to/huaian/use-alasql-to-use-sql-feature-in-web-3plj)
-- [LK21: The Colloportus of Factory Doors 🛡️](https://dev.to/ersajay/lk21-the-colloportus-of-factory-doors-29l8)
-- [Python Learning : Serialization and De-serialization](https://dev.to/vivekyadav200988/python-learning-serialization-and-de-serialization-78n)
+- [What is Micro SaaS? Your Guide to Niche Software Success](https://dev.to/lollypopdesign/what-is-micro-saas-your-guide-to-niche-software-success-6b9)
+- [How Tariffs and Digital Services Taxes Are Reshaping the Global Fintech Industry](https://dev.to/krunalbhimani/how-tariffs-and-digital-services-taxes-are-reshaping-the-global-fintech-industry-1k11)
+- [100 Days of DevOps: Day 25](https://dev.to/wycliffealphus/100-days-of-devops-day-25-55d3)
+- [AI Models Demystified: What Really Happens Inside an AI Model?](https://dev.to/ksr007/ai-models-demystified-what-really-happens-inside-an-ai-model-2nf6)
 <!-- BLOG-POST-LIST:END -->
 
