@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡 CrowdSec: Open‑Source, Crowd‑Powered Defense](https://dev.to/byteknight/crowdsec-open-source-crowd-powered-defense-14c3)
-- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
-- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
-- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
+- [Obsidian, Notion, Logseq?! The note-taking stack that doesn’t suck for devs](https://dev.to/dev_tips/obsidian-notion-logseq-the-note-taking-stack-that-doesnt-suck-for-devs-2cf7)
+- [Send Emails with Windsurf and Mailtrap](https://dev.to/denyskontorskyy/send-emails-with-windsurf-and-mailtrap-3h4n)
+- [The Dev’s AI Vault, Part 1: How developers are actually using ChatGPT &lpar;9 proven patterns&rpar;](https://dev.to/dev_tips/the-devs-ai-vault-part-1-how-developers-are-actually-using-chatgpt-9-proven-patterns-27on)
+- [From Markdown to Meaning: Turn Your Obsidian Notes into a Conversational Database Using LangChain, Python, and ChromaDB](https://dev.to/bohowhizz/from-markdown-to-meaning-turn-your-obsidian-notes-into-a-conversational-database-using-langchain-4pi7)
 <!-- BLOG-POST-LIST:END -->
 
