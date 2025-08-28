@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Sidekiq Classes](https://dev.to/brazenbraden/better-sidekiq-classes-430b)
-- [Semantic HTML for SEO and accessibility.](https://dev.to/jeff_kaberagithara_0e17f/semantic-html-for-seo-and-accessibility-3237)
-- [This Async Microservice Design Flaw IS Destroying Your Data Integrity!](https://dev.to/xuan_56087d315ff4f52254e6/this-async-microservice-design-flaw-is-destroying-your-data-integrity-jf9)
-- [What is google&#39;s nano banana and how it solved the biggest problem in ai image editing](https://dev.to/syedharis/what-is-googles-nano-banana-and-how-it-solved-the-biggest-problem-in-ai-image-editing-28ih)
+- [OpenAI GPT-realtime Complete Guide: Revolutionary Breakthrough in Voice AI 2025](https://dev.to/czmilo/openai-gpt-realtime-complete-guide-revolutionary-breakthrough-in-voice-ai-2025-20m4)
+- [Web Wide Worlds: An Open Technology Stack for Digital Worlds](https://dev.to/dyfi/web-wide-worlds-an-open-technology-stack-for-digital-worlds-e3p)
+- [A Technical Deep Dive: Exploiting SQL Injection Vulnerabilities](https://dev.to/samueladeduntan/a-technical-deep-dive-exploiting-sql-injection-vulnerabilities-3da8)
+- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
 <!-- BLOG-POST-LIST:END -->
 
