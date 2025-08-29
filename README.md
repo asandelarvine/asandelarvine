@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement end-to-end system integration](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-end-to-end-system-integration-1559)
-- [Snipper – A Lightweight Snipping Tool Alternative for Windows](https://dev.to/hackernewbie/snipper-a-lightweight-snipping-tool-alternative-for-windows-2hcb)
-- [Subnet Masks Made Simple: How Networks Identify Who’s “Local”](https://dev.to/naval_kishorupadhyay_3e9/subnet-masks-made-simple-how-networks-identify-whos-local-41e8)
-- [Why is DDR4 RAM Increasing in Price?](https://dev.to/blogger_shree_844e6eb4b36/why-is-ddr4-ram-increasing-in-price-41id)
+- [S.O.L.I.D. is Dead? No. It’s Now Provable with AOK.](https://dev.to/evpolov/solid-is-dead-no-its-now-provable-with-aok-d36)
+- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
+- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
+- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
 <!-- BLOG-POST-LIST:END -->
 
