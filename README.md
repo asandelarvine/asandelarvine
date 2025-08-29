@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;A Beginner’s Guide to Python Functions with Real Examples&quot;](https://dev.to/menocode/a-beginners-guide-to-python-functions-with-real-examples-45ef)
-- [GameSpot: 28 Minutes of Phantom Blade 0 Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-28-minutes-of-phantom-blade-0-gameplay-gamescom-2025-demo-1jfd)
-- [GameSpot: Honkai: Nexus Anima - Nexus Bond Teaser Trailer | Side by Side](https://dev.to/gg_news/gamespot-honkai-nexus-anima-nexus-bond-teaser-trailer-side-by-side-3di4)
-- [IGN: Lost Soul Aside: First 26 Minutes of PS5 Pro Gameplay | 4K 60fps](https://dev.to/gg_news/ign-lost-soul-aside-first-26-minutes-of-ps5-pro-gameplay-4k-60fps-3e71)
+- [Como me certifique como Vue.js Senior Developer, recomendaciones y consejos](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
+- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-45d7)
+- [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
+- [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
 <!-- BLOG-POST-LIST:END -->
 
