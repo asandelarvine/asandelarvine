@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
-- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
-- [CVE-2023-42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-42442-jumpserver-session-replay-leak-could-expose-sensitive-ops-data-2f64)
-- [Breaking Down Tokenization in LLMs: How AI read your words](https://dev.to/aivantuquero/breaking-down-tokenization-in-llms-how-ai-read-your-words-38a2)
+- [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
+- [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
+- [How I Write 2,000+ Words a Day with AI](https://dev.to/jaideepparashar/how-i-write-2000-words-a-day-with-ai-2l30)
+- [A2A &lpar;Agent to Agent&rpar;: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/a2a-agent-to-agent-core-concepts-2gp2)
 <!-- BLOG-POST-LIST:END -->
 
