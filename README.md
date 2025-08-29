@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [S.O.L.I.D. is Dead? No. It’s Now Provable with AOK.](https://dev.to/evpolov/solid-is-dead-no-its-now-provable-with-aok-d36)
-- [MY SUMMER INTERNSHIP](https://dev.to/aditya_patel_b7274d71f7c6/my-summer-internship-12h2)
-- [My First Webapp - AI written](https://dev.to/pravin_niceguy/my-first-webapp-ai-written-5ln)
-- [Beyond the Chatbot: How We Scaled an AI Agent to Handle 5X Traffic on AWS](https://dev.to/binyam/beyond-the-chatbot-how-we-scaled-an-ai-agent-to-handle-5x-traffic-on-aws-1eme)
+- [⚡ 30 Seconds of Code — Learn Faster, Code Smarter](https://dev.to/ml318097/30-seconds-of-code-learn-faster-code-smarter-2ab7)
+- [`inspect.stack&lpar;&rpar;` in Python with Examples](https://dev.to/atifwattoo/inspectstack-in-python-with-examples-l4m)
+- [Docker Basics: A Beginner’s Guide to Containers 🐳](https://dev.to/fludapp/docker-basics-a-beginners-guide-to-containers-56nc)
+- [🧠 Why Every Developer Should Build a &quot;Second Brain&quot;](https://dev.to/rajguru_yadav_56d13a7b8fc/why-every-developer-should-build-a-second-brain-1jaf)
 <!-- BLOG-POST-LIST:END -->
 
