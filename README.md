@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I created sttrace in 1 week](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-created-sttrace-in-1-week-821)
-- [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-b5e)
-- [Just launched a free tennis video analysis tool – would love feedback!](https://dev.to/arun_mariappan_4d7dbc6792/just-launched-a-free-tennis-video-analysis-tool-would-love-feedback-4oga)
-- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
+- [Mastering Prompt Design for Smarter AI Assistants in 2025](https://dev.to/arkhan/mastering-prompt-design-for-smarter-ai-assistants-in-2025-4ho9)
+- [Building Verifiable &amp; Confidential AI Agents with Oasis ROFL](https://dev.to/caerlower/building-verifiable-confidential-ai-agents-with-oasis-rofl-5246)
+- [Before You Migrate: Basic Steps to Take Before Moving a Server](https://dev.to/lovestaco/before-you-migrate-basic-steps-to-take-before-moving-a-server-4m8o)
+- [Git &amp; GitHub [Week - 2]](https://dev.to/suvrajeet/git-github-week-2-32da)
 <!-- BLOG-POST-LIST:END -->
 
