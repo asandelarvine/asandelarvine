@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Knowledge Proofs for AI Governance: Enabling Transparent but Private Decision-Making](https://dev.to/ian_nick_ad82e18f4864ddd4/zero-knowledge-proofs-for-ai-governance-enabling-transparent-but-private-decision-making-41cd)
-- [Day 79: When Your Laptop Dies and Forces Character Development](https://dev.to/casperday11/day-79-when-your-laptop-dies-and-forces-character-development-40fm)
-- [PyTorch vs TensorFlow 2025: Which one wins after 72 hours?](https://dev.to/dev_tips/pytorch-vs-tensorflow-2025-which-one-wins-after-72-hours-a2b)
-- [Turbocharging AI Agents with Symfony’s Async Approach: A Deep Dive](https://dev.to/mattleads/turbocharging-ai-agents-with-symfonys-async-approach-a-deep-dive-33d7)
+- [any plans for #hacktoberfest?](https://dev.to/fmerian/any-plans-for-hacktoberfest-gia)
+- [The 24/7 AI Teammate – How an Agent Can Continuously Improve Your Codebase Overnight](https://dev.to/vadym_info_polus/the-247-ai-teammate-how-an-agent-can-continuously-improve-your-codebase-overnight-2ikg)
+- [A live catalog of Logseq plugins, by @rudifa](https://dev.to/rudifa/a-live-catalog-of-logseq-plugins-by-rudifa-iaj)
+- [Balancing Type I and Type II Errors in Medical Decisions: A Kenyan Perspective](https://dev.to/loryne_joy/balancing-type-i-and-type-ii-errors-in-medical-decisions-a-kenyan-perspective-2adn)
 <!-- BLOG-POST-LIST:END -->
 
