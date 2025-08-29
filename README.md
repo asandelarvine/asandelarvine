@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic mistakes to avoid when setting up WordPress](https://dev.to/elliemiguel/basic-mistakes-to-avoid-when-setting-up-wordpress-4oca)
-- [🚀 How to Build, Tag, and Push Docker Images to a Private Repository](https://dev.to/rock_win_c053fa5fb2399067/how-to-build-tag-and-push-docker-images-to-a-private-repository-5a22)
-- [JWT Best Practices &amp; Pitfalls](https://dev.to/godofgeeks/jwt-best-practices-pitfalls-15a3)
-- [🚀 Containerizing Java Applications with Google Jib &lpar;No Dockerfile Needed&rpar;](https://dev.to/rock_win_c053fa5fb2399067/containerizing-java-applications-with-google-jib-no-dockerfile-needed-211j)
+- [Task:Implement end-to-end system integration](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-end-to-end-system-integration-1559)
+- [Snipper – A Lightweight Snipping Tool Alternative for Windows](https://dev.to/hackernewbie/snipper-a-lightweight-snipping-tool-alternative-for-windows-2hcb)
+- [Subnet Masks Made Simple: How Networks Identify Who’s “Local”](https://dev.to/naval_kishorupadhyay_3e9/subnet-masks-made-simple-how-networks-identify-whos-local-41e8)
+- [Why is DDR4 RAM Increasing in Price?](https://dev.to/blogger_shree_844e6eb4b36/why-is-ddr4-ram-increasing-in-price-41id)
 <!-- BLOG-POST-LIST:END -->
 
