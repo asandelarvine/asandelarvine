@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coolify is the best thing for Homelabs since Fiber](https://dev.to/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
-- [Linkedin Growth Radar AI Agents](https://dev.to/mathieu_vie_3a2e72c4ab276/linkedin-growth-radar-ai-agents-3hfk)
-- [Internet of Bodies &lpar;IoB&rpar;](https://dev.to/lucaspereiradesouzat/internet-of-bodies-iob-399c)
-- [Unlocking Intelligent Data Access with Microsoft Fabric Data Agent](https://dev.to/milan_parikh_f9c399697690/unlocking-intelligent-data-access-with-microsoft-fabric-data-agent-3ke3)
+- [How I created sttrace in 1 week](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-created-sttrace-in-1-week-821)
+- [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-b5e)
+- [Just launched a free tennis video analysis tool – would love feedback!](https://dev.to/arun_mariappan_4d7dbc6792/just-launched-a-free-tennis-video-analysis-tool-would-love-feedback-4oga)
+- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
 <!-- BLOG-POST-LIST:END -->
 
