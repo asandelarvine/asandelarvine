@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ 30 Seconds of Code — Learn Faster, Code Smarter](https://dev.to/ml318097/30-seconds-of-code-learn-faster-code-smarter-2ab7)
-- [`inspect.stack&lpar;&rpar;` in Python with Examples](https://dev.to/atifwattoo/inspectstack-in-python-with-examples-l4m)
-- [Docker Basics: A Beginner’s Guide to Containers 🐳](https://dev.to/fludapp/docker-basics-a-beginners-guide-to-containers-56nc)
-- [🧠 Why Every Developer Should Build a &quot;Second Brain&quot;](https://dev.to/rajguru_yadav_56d13a7b8fc/why-every-developer-should-build-a-second-brain-1jaf)
+- [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
+- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
+- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
+- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
 <!-- BLOG-POST-LIST:END -->
 
