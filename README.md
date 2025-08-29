@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Developer Split: How Juniors, Mid-Levels, and Seniors All Got Screwed.](https://dev.to/dev_tips/the-great-developer-split-how-juniors-mid-levels-and-seniors-all-got-screwed-5fpl)
-- [Zero-touch Firebase SDKs with one command and CI magic](https://dev.to/dev_tips/zero-touch-firebase-sdks-with-one-command-and-ci-magic-3hd8)
-- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
-- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
+- [DeepSeek V3.1 vs GPT-5: 685B Parameters, 128K Context, 68 Cheaper](https://dev.to/dev_tips/deepseek-v31-vs-gpt-5-685b-parameters-128k-context-68x-cheaper-13di)
+- [Frontend Performance Metrics FP, FMP, LCP, and CLS Explained](https://dev.to/tianyaschool/frontend-performance-metrics-fp-fmp-lcp-and-cls-explained-414b)
+- [Configuring CSP: A Test For Django 6.0](https://dev.to/chiemezuo/configuring-csp-a-test-for-django-60-3a67)
+- [🚀Vonage Developer Newsletter, August 2025: RCS, Vibe Coding, Golang tutorials + events](https://dev.to/vonagedev/vonage-developer-newsletter-aug-2025-rcs-vibe-coding-golang-tutorials-events-4n5a)
 <!-- BLOG-POST-LIST:END -->
 
