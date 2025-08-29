@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Prompt Design for Smarter AI Assistants in 2025](https://dev.to/arkhan/mastering-prompt-design-for-smarter-ai-assistants-in-2025-4ho9)
-- [Building Verifiable &amp; Confidential AI Agents with Oasis ROFL](https://dev.to/caerlower/building-verifiable-confidential-ai-agents-with-oasis-rofl-5246)
-- [Before You Migrate: Basic Steps to Take Before Moving a Server](https://dev.to/lovestaco/before-you-migrate-basic-steps-to-take-before-moving-a-server-4m8o)
-- [Git &amp; GitHub [Week - 2]](https://dev.to/suvrajeet/git-github-week-2-32da)
+- [Image Description Generator](https://dev.to/florin_muresan_932fed5eaf/image-description-generator-32de)
+- [Improve LLM Debugging](https://dev.to/byme8/improve-llm-debugging-4p91)
+- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
+- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
 <!-- BLOG-POST-LIST:END -->
 
