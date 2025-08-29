@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-realtime Complete Guide: Revolutionary Breakthrough in Voice AI 2025](https://dev.to/czmilo/openai-gpt-realtime-complete-guide-revolutionary-breakthrough-in-voice-ai-2025-20m4)
-- [Web Wide Worlds: An Open Technology Stack for Digital Worlds](https://dev.to/dyfi/web-wide-worlds-an-open-technology-stack-for-digital-worlds-e3p)
-- [A Technical Deep Dive: Exploiting SQL Injection Vulnerabilities](https://dev.to/samueladeduntan/a-technical-deep-dive-exploiting-sql-injection-vulnerabilities-3da8)
-- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
+- [Day 15: From &#39;Works on My Machine&#39; to Bulletproof CI/CD - The GitHub Actions Revolution](https://dev.to/clayroach/day-15-from-works-on-my-machine-to-bulletproof-cicd-the-github-actions-revolution-2el3)
+- [Fundamentos de Kotlin - Parte 1: Introdução e Variáveis](https://dev.to/owerbt/fundamentos-de-kotlin-parte-1-introducao-e-variaveis-154g)
+- [Main Service on Ceph Proxmox](https://dev.to/seno21/main-service-ceph-pk9)
+- [Bahasa Pemrograman yang Mudah Dipahami Adalah Earl](https://dev.to/dev_nazwashabrina/bahasa-pemrograman-yang-mudah-dipahami-adalah-earl-1d4p)
 <!-- BLOG-POST-LIST:END -->
 
