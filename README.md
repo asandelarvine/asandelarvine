@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15: From &#39;Works on My Machine&#39; to Bulletproof CI/CD - The GitHub Actions Revolution](https://dev.to/clayroach/day-15-from-works-on-my-machine-to-bulletproof-cicd-the-github-actions-revolution-2el3)
-- [Fundamentos de Kotlin - Parte 1: Introdução e Variáveis](https://dev.to/owerbt/fundamentos-de-kotlin-parte-1-introducao-e-variaveis-154g)
-- [Main Service on Ceph Proxmox](https://dev.to/seno21/main-service-ceph-pk9)
-- [Bahasa Pemrograman yang Mudah Dipahami Adalah Earl](https://dev.to/dev_nazwashabrina/bahasa-pemrograman-yang-mudah-dipahami-adalah-earl-1d4p)
+- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
+- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
+- [CVE-2023-42442: JumpServer Session Replay Leak Could Expose Sensitive Ops Data](https://dev.to/sharon_42e16b8da44dabde6d/cve-2023-42442-jumpserver-session-replay-leak-could-expose-sensitive-ops-data-2f64)
+- [Breaking Down Tokenization in LLMs: How AI read your words](https://dev.to/aivantuquero/breaking-down-tokenization-in-llms-how-ai-read-your-words-38a2)
 <!-- BLOG-POST-LIST:END -->
 
