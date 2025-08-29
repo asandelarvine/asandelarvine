@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V3.1 vs GPT-5: 685B Parameters, 128K Context, 68 Cheaper](https://dev.to/dev_tips/deepseek-v31-vs-gpt-5-685b-parameters-128k-context-68x-cheaper-13di)
-- [Frontend Performance Metrics FP, FMP, LCP, and CLS Explained](https://dev.to/tianyaschool/frontend-performance-metrics-fp-fmp-lcp-and-cls-explained-414b)
-- [Configuring CSP: A Test For Django 6.0](https://dev.to/chiemezuo/configuring-csp-a-test-for-django-60-3a67)
-- [🚀Vonage Developer Newsletter, August 2025: RCS, Vibe Coding, Golang tutorials + events](https://dev.to/vonagedev/vonage-developer-newsletter-aug-2025-rcs-vibe-coding-golang-tutorials-events-4n5a)
+- [Coolify is the best thing for Homelabs since Fiber](https://dev.to/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
+- [Linkedin Growth Radar AI Agents](https://dev.to/mathieu_vie_3a2e72c4ab276/linkedin-growth-radar-ai-agents-3hfk)
+- [Internet of Bodies &lpar;IoB&rpar;](https://dev.to/lucaspereiradesouzat/internet-of-bodies-iob-399c)
+- [Unlocking Intelligent Data Access with Microsoft Fabric Data Agent](https://dev.to/milan_parikh_f9c399697690/unlocking-intelligent-data-access-with-microsoft-fabric-data-agent-3ke3)
 <!-- BLOG-POST-LIST:END -->
 
