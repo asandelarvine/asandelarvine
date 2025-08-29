@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Mei Semones - Tora Moyo | A COLORS SHOW](https://dev.to/music_youtube/colors-mei-semones-tora-moyo-a-colors-show-pmf)
-- [IGN: Metal Gear Solid Delta - Where to Find the Thermal Goggles &lpar;All Locations&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-where-to-find-the-thermal-goggles-all-locations-1l1f)
-- [Shared States in React Have Never Been Easier ;&rpar;](https://dev.to/hichemtab-tech/shared-states-in-react-have-never-been-easier--2m6p)
-- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
+- [Securing AI Agents: Why Traditional Identity Systems Fail and How to Build for AI](https://dev.to/deepakgupta/securing-ai-agents-why-traditional-identity-systems-fail-and-how-to-build-for-ai-44e7)
+- [🚀 Building a GitOps Infrastructure Pipeline with Crossplane and Argo CD](https://dev.to/justasflash/building-a-gitops-infrastructure-pipeline-with-crossplane-and-argo-cd-431)
+- [The Art of Resonance: Mastering Memoization in React as a Symphony, Not a Chore](https://dev.to/alex_aslam/the-art-of-resonance-mastering-memoization-in-react-as-a-symphony-not-a-chore-48b3)
+- [overflow-x: clip &gt; overflow-x: hidden](https://dev.to/avcat/overflow-x-clip-overflow-x-hidden-1eml)
 <!-- BLOG-POST-LIST:END -->
 
