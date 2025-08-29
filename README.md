@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Description Generator](https://dev.to/florin_muresan_932fed5eaf/image-description-generator-32de)
-- [Improve LLM Debugging](https://dev.to/byme8/improve-llm-debugging-4p91)
-- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
-- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
+- [COLORS: Mei Semones - Tora Moyo | A COLORS SHOW](https://dev.to/music_youtube/colors-mei-semones-tora-moyo-a-colors-show-pmf)
+- [IGN: Metal Gear Solid Delta - Where to Find the Thermal Goggles &lpar;All Locations&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-where-to-find-the-thermal-goggles-all-locations-1l1f)
+- [Shared States in React Have Never Been Easier ;&rpar;](https://dev.to/hichemtab-tech/shared-states-in-react-have-never-been-easier--2m6p)
+- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
 <!-- BLOG-POST-LIST:END -->
 
