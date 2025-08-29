@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Telco CDR Processing Pipeline with Databricks Delta Live Tables - Part 1 [Databricks Free Edition]](https://dev.to/sienkiewicz_pat/building-a-scalable-telco-cdr-processing-pipeline-with-databricks-delta-live-tables-part-1-1gmf)
-- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
-- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
-- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
+- [Zero-Knowledge Proofs for AI Governance: Enabling Transparent but Private Decision-Making](https://dev.to/ian_nick_ad82e18f4864ddd4/zero-knowledge-proofs-for-ai-governance-enabling-transparent-but-private-decision-making-41cd)
+- [Day 79: When Your Laptop Dies and Forces Character Development](https://dev.to/casperday11/day-79-when-your-laptop-dies-and-forces-character-development-40fm)
+- [PyTorch vs TensorFlow 2025: Which one wins after 72 hours?](https://dev.to/dev_tips/pytorch-vs-tensorflow-2025-which-one-wins-after-72-hours-a2b)
+- [Turbocharging AI Agents with Symfony’s Async Approach: A Deep Dive](https://dev.to/mattleads/turbocharging-ai-agents-with-symfonys-async-approach-a-deep-dive-33d7)
 <!-- BLOG-POST-LIST:END -->
 
