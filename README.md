@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cold Starts in Serverless: The Silent Performance Killer](https://dev.to/dct_technology/cold-starts-in-serverless-the-silent-performance-killer-56fk)
-- [🔥History Made: The First Blockchain by Someone Under 18](https://dev.to/arya_empire_2555fe746ce2a/history-made-the-first-blockchain-by-someone-under-18-gnc)
-- [Tackling the API Integration Maze](https://dev.to/noor_shahbaj/tackling-the-api-integration-maze-jfg)
-- [CAP Theorem 101: Balancing Consistency, Availability &amp; Partition Tolerance](https://dev.to/manas_tole_039/cap-theorem-101-balancing-consistency-availability-partition-tolerance-2c7f)
+- [A simplified definition of an ORM](https://dev.to/codefilarete/a-simplified-definition-of-an-orm-4pl)
+- [Starting over again...](https://dev.to/pratim994/starting-over-again-42kg)
+- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
+- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
 <!-- BLOG-POST-LIST:END -->
 
