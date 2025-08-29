@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A simplified definition of an ORM](https://dev.to/codefilarete/a-simplified-definition-of-an-orm-4pl)
-- [Starting over again...](https://dev.to/pratim994/starting-over-again-42kg)
-- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
-- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
+- [Basic mistakes to avoid when setting up WordPress](https://dev.to/elliemiguel/basic-mistakes-to-avoid-when-setting-up-wordpress-4oca)
+- [🚀 How to Build, Tag, and Push Docker Images to a Private Repository](https://dev.to/rock_win_c053fa5fb2399067/how-to-build-tag-and-push-docker-images-to-a-private-repository-5a22)
+- [JWT Best Practices &amp; Pitfalls](https://dev.to/godofgeeks/jwt-best-practices-pitfalls-15a3)
+- [🚀 Containerizing Java Applications with Google Jib &lpar;No Dockerfile Needed&rpar;](https://dev.to/rock_win_c053fa5fb2399067/containerizing-java-applications-with-google-jib-no-dockerfile-needed-211j)
 <!-- BLOG-POST-LIST:END -->
 
