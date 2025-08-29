@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
-- [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
-- [How I Write 2,000+ Words a Day with AI](https://dev.to/jaideepparashar/how-i-write-2000-words-a-day-with-ai-2l30)
-- [A2A &lpar;Agent to Agent&rpar;: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/a2a-agent-to-agent-core-concepts-2gp2)
+- [Cold Starts in Serverless: The Silent Performance Killer](https://dev.to/dct_technology/cold-starts-in-serverless-the-silent-performance-killer-56fk)
+- [🔥History Made: The First Blockchain by Someone Under 18](https://dev.to/arya_empire_2555fe746ce2a/history-made-the-first-blockchain-by-someone-under-18-gnc)
+- [Tackling the API Integration Maze](https://dev.to/noor_shahbaj/tackling-the-api-integration-maze-jfg)
+- [CAP Theorem 101: Balancing Consistency, Availability &amp; Partition Tolerance](https://dev.to/manas_tole_039/cap-theorem-101-balancing-consistency-availability-partition-tolerance-2c7f)
 <!-- BLOG-POST-LIST:END -->
 
