@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [any plans for #hacktoberfest?](https://dev.to/fmerian/any-plans-for-hacktoberfest-gia)
-- [The 24/7 AI Teammate – How an Agent Can Continuously Improve Your Codebase Overnight](https://dev.to/vadym_info_polus/the-247-ai-teammate-how-an-agent-can-continuously-improve-your-codebase-overnight-2ikg)
-- [A live catalog of Logseq plugins, by @rudifa](https://dev.to/rudifa/a-live-catalog-of-logseq-plugins-by-rudifa-iaj)
-- [Balancing Type I and Type II Errors in Medical Decisions: A Kenyan Perspective](https://dev.to/loryne_joy/balancing-type-i-and-type-ii-errors-in-medical-decisions-a-kenyan-perspective-2adn)
+- [The Great Developer Split: How Juniors, Mid-Levels, and Seniors All Got Screwed.](https://dev.to/dev_tips/the-great-developer-split-how-juniors-mid-levels-and-seniors-all-got-screwed-5fpl)
+- [Zero-touch Firebase SDKs with one command and CI magic](https://dev.to/dev_tips/zero-touch-firebase-sdks-with-one-command-and-ci-magic-3hd8)
+- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
+- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
 <!-- BLOG-POST-LIST:END -->
 
