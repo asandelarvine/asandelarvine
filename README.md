@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌲 Blog 3: Level Order Traversal &lpar;BFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-3-level-order-traversal-bfs-pattern-in-binary-trees-10i7)
-- [🌲 Blog 2: Traversal Based &lpar;DFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-2-traversal-based-dfs-pattern-in-binary-trees-2j07)
-- [🌳 Blog 1 — Height &amp; Depth Pattern &lpar;Deep dive + Java code for classic problems&rpar;](https://dev.to/devcorner/blog-1-height-depth-pattern-deep-dive-java-code-for-classic-problems-3ng0)
-- [🔥 One Loop Traversal &lpar;Preorder, Inorder, Postorder Together&rpar;](https://dev.to/devcorner/one-loop-traversal-preorder-inorder-postorder-together-169h)
+- [Trait-Driven Rust Architecture](https://dev.to/raminfp/trait-driven-rust-architecture-1ife)
+- [Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock](https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock)
+- [Critical Vulneribilty on Docker Desktop](https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9)
+- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
 <!-- BLOG-POST-LIST:END -->
 
