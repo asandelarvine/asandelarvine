@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EEPROM 28C64 API Performance with Arduino](https://dev.to/inngoose/eeprom-28c64-api-performance-with-arduino-2g20)
-- [The Critical Gap in Next.js SEO: Implementing Sitemap Index for Enterprise Applications](https://dev.to/ziaulhoque24/the-critical-gap-in-nextjs-seo-implementing-sitemap-index-for-enterprise-applications-2k87)
-- [How I put my homelab to use](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-put-my-homelab-to-use-3loo)
-- [I Like To Make Stuff: Solving a Storage Problem with Junk!](https://dev.to/maker_youtube/i-like-to-make-stuff-solving-a-storage-problem-with-junk-8ok)
+- [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
+- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
+- [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
+- [How to Protect/secure Your Callback &amp; Webhook Endpoints](https://dev.to/msnmongare/how-to-protectsecure-your-callback-webhook-endpoints-oi2)
 <!-- BLOG-POST-LIST:END -->
 
