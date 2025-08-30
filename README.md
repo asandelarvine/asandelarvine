@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent AI Brand Monitoring System with n8n and BrightData](https://dev.to/prema_ananda/building-a-multi-agent-ai-brand-monitoring-system-with-n8n-and-brightdata-oe0)
-- [Why Docker is Actually a Game-Changer &lpar;And Why You Should Care&rpar; 🐳?](https://dev.to/aditya_srivastava_01/why-docker-is-actually-a-game-changer-and-why-you-should-care--io2)
-- [Docker Logging &amp; Log Drivers](https://dev.to/godofgeeks/docker-logging-log-drivers-41i4)
-- [Lessons I Learned Jumping Between JS, C#, GDScript, and Flutter](https://dev.to/wasi_ahbab/lessons-i-learned-jumping-between-js-c-gdscript-and-flutter-59dg)
+- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
+- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
+- [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
+- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
 <!-- BLOG-POST-LIST:END -->
 
