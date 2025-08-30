@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fishing World - Devlog #0](https://dev.to/doormatt_/fishing-world-devlog-0-daj)
-- [My Tactics With Research Projects](https://dev.to/jimw/my-tactics-with-research-projects-2nf3)
-- [Here&#39;s where e-waste recycling is now—and how Canada &lpar;and Québec&rpar; is doing.](https://dev.to/expertise_enviropass_0155/heres-where-e-waste-recycling-is-now-and-how-canada-and-quebec-is-doing-221a)
-- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
+- [EEPROM 28C64 API Performance with Arduino](https://dev.to/inngoose/eeprom-28c64-api-performance-with-arduino-2g20)
+- [The Critical Gap in Next.js SEO: Implementing Sitemap Index for Enterprise Applications](https://dev.to/ziaulhoque24/the-critical-gap-in-nextjs-seo-implementing-sitemap-index-for-enterprise-applications-2k87)
+- [How I put my homelab to use](https://dev.to/gaurang_pawar_e9c0710cbe5/how-i-put-my-homelab-to-use-3loo)
+- [I Like To Make Stuff: Solving a Storage Problem with Junk!](https://dev.to/maker_youtube/i-like-to-make-stuff-solving-a-storage-problem-with-junk-8ok)
 <!-- BLOG-POST-LIST:END -->
 
