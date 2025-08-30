@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte &amp; SvelteKit Deep Dive: From Beginner to Pro](https://dev.to/a1guy/svelte-sveltekit-deep-dive-from-beginner-to-pro-1bjp)
-- [Explainable AI &lpar;XAI&rpar;: Building Transparency and Trust in Bioinformatics](https://dev.to/mubashir1837/explainable-ai-xai-building-transparency-and-trust-in-bioinformatics-925)
-- [Building with Generative AI: Lessons from 5 Projects Part 3: Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-practical-projects-part-3-agents-2h31)
-- [Unstoppable Reddit Research Agent! – Real-Time Insights with n8n + Bright Data](https://dev.to/kichuman28/unstoppable-reddit-research-agent-real-time-insights-with-n8n-bright-data-34g0)
+- [My frist post on dev.to, I want to share my journey so far and also describe what I want to present to my readers in my blog](https://dev.to/asmittt_11/my-frist-post-on-devto-i-want-to-share-my-journey-so-far-and-also-describe-what-i-want-to-present-2mj7)
+- [The Subtle Art of State Management Without Redux or Zustand](https://dev.to/mrrookie/the-subtle-art-of-state-management-without-redux-or-zustand-1fjo)
+- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
+- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 <!-- BLOG-POST-LIST:END -->
 
