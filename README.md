@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
-- [Understanding the why is very important.](https://dev.to/vjessiez/-47e1)
-- [I Built an AI That Questions Its Own Existence](https://dev.to/hewida_alisabry_0b88cbdc/i-built-an-ai-that-questions-its-own-existence-fhb)
-- [Outil de Cybersécurité du Jour - Aug 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-30-2025-gb0)
+- [Svelte &amp; SvelteKit Deep Dive: From Beginner to Pro](https://dev.to/a1guy/svelte-sveltekit-deep-dive-from-beginner-to-pro-1bjp)
+- [Explainable AI &lpar;XAI&rpar;: Building Transparency and Trust in Bioinformatics](https://dev.to/mubashir1837/explainable-ai-xai-building-transparency-and-trust-in-bioinformatics-925)
+- [Building with Generative AI: Lessons from 5 Projects Part 3: Agents](https://dev.to/index_of_zack/building-with-generative-ai-lessons-from-5-practical-projects-part-3-agents-2h31)
+- [Unstoppable Reddit Research Agent! – Real-Time Insights with n8n + Bright Data](https://dev.to/kichuman28/unstoppable-reddit-research-agent-real-time-insights-with-n8n-bright-data-34g0)
 <!-- BLOG-POST-LIST:END -->
 
