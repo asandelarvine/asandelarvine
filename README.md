@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
-- [More is Better: An LLM &amp; Multi-Agent System Perspective](https://dev.to/jauhar/more-is-better-an-llm-multi-agent-system-perspective-500h)
-- [Building My Own DIY AI Stack](https://dev.to/keya_khatun_b0884129bc101/building-my-own-diy-ai-stack-57d8)
-- [Four Multipliers for Using AI Well: My Working Model](https://dev.to/comnori/four-multipliers-for-using-ai-well-my-working-model-2mjn)
+- [ZK Identity Attestation Zero-Knowledge Proofs &lpar;ZKPs&rpar;](https://dev.to/craftygreenguru/zk-identity-attestation-zero-knowledge-proofs-zkps-j0n)
+- [From implementation to closing: communication skills that independent developers must learn](https://dev.to/junyu_fang_a216509a97501d/from-implementation-to-closing-communication-skills-that-independent-developers-must-learn-27fc)
+- [AI Silhouette Generator](https://dev.to/peng_li_61507f5f744c1b66e/ai-silhouette-generator-105j)
+- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
 <!-- BLOG-POST-LIST:END -->
 
