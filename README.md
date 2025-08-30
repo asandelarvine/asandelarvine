@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻 𝗻𝟴𝗻 𝗖𝗹𝗼𝗻𝗲 𝗶𝗻 𝗩𝘂𝗲](https://dev.to/sem1colons/-45nm)
-- [1 RN Thing a Day – Day 10: Memoization in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-10-memoization-in-react-native-45lp)
-- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
-- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
+- [useMemo, useCallback, React.memo — What Optimizations Actually Work](https://dev.to/crit3cal/usememo-usecallback-reactmemo-what-optimizations-actually-work-gkp)
+- [More is Better: An LLM &amp; Multi-Agent System Perspective](https://dev.to/jauhar/more-is-better-an-llm-multi-agent-system-perspective-500h)
+- [Building My Own DIY AI Stack](https://dev.to/keya_khatun_b0884129bc101/building-my-own-diy-ai-stack-57d8)
+- [Four Multipliers for Using AI Well: My Working Model](https://dev.to/comnori/four-multipliers-for-using-ai-well-my-working-model-2mjn)
 <!-- BLOG-POST-LIST:END -->
 
