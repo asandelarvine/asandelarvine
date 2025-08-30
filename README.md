@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My frist post on dev.to, I want to share my journey so far and also describe what I want to present to my readers in my blog](https://dev.to/asmittt_11/my-frist-post-on-devto-i-want-to-share-my-journey-so-far-and-also-describe-what-i-want-to-present-2mj7)
-- [The Subtle Art of State Management Without Redux or Zustand](https://dev.to/mrrookie/the-subtle-art-of-state-management-without-redux-or-zustand-1fjo)
-- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
-- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
+- [Houses for Rent Auckland – A Guide for Tenants and Landlords](https://dev.to/hamza_ali_e5a3ccc85652d24/houses-for-rent-auckland-a-guide-for-tenants-and-landlords-25n8)
+- [🤖 Build Your First Fully Autonomous AI Agent - Free Workshop! 🚀](https://dev.to/lukehinds/build-any-agent-you-like-at-the-free-agentup-workshop-come-try-out-the-hottest-open-source-agent-3alg)
+- [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme)
+- [Prisma Backup](https://dev.to/daxsoft/prisma-backup-24e3)
 <!-- BLOG-POST-LIST:END -->
 
