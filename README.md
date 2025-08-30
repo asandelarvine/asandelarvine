@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ZK Identity Attestation Zero-Knowledge Proofs &lpar;ZKPs&rpar;](https://dev.to/craftygreenguru/zk-identity-attestation-zero-knowledge-proofs-zkps-j0n)
-- [From implementation to closing: communication skills that independent developers must learn](https://dev.to/junyu_fang_a216509a97501d/from-implementation-to-closing-communication-skills-that-independent-developers-must-learn-27fc)
-- [AI Silhouette Generator](https://dev.to/peng_li_61507f5f744c1b66e/ai-silhouette-generator-105j)
-- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
+- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
+- [🔥 Why Most React Apps are DOOMED To Lag — And How To Fix It With useDeferredValue](https://dev.to/ekwoster/why-most-react-apps-are-doomed-to-lag-and-how-to-fix-it-with-usedeferredvalue-43ko)
+- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
+- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
 <!-- BLOG-POST-LIST:END -->
 
