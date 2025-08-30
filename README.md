@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The MythBusters Episode Adam Savage Regrets Making](https://dev.to/maker_youtube/adam-savages-tested-the-mythbusters-episode-adam-savage-regrets-making-adn)
-- [🔥 Why Most React Apps are DOOMED To Lag — And How To Fix It With useDeferredValue](https://dev.to/ekwoster/why-most-react-apps-are-doomed-to-lag-and-how-to-fix-it-with-usedeferredvalue-43ko)
-- [IGN: eFootball x Yu-Gi-Oh! - Official Series Collaboration Teaser Trailer](https://dev.to/gg_news/ign-efootball-x-yu-gi-oh-official-series-collaboration-teaser-trailer-4k99)
-- [A Complete Guide to RxJS: From Beginner to Advanced](https://dev.to/serifcolakel/a-complete-guide-to-rxjs-from-beginner-to-advanced-448m)
+- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
+- [Clicks to Efficiency: Automate Your Daily Browser Tasks](https://dev.to/thedevankit/clicks-to-efficiency-automate-your-daily-browser-tasks-5g55)
+- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
+- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
 <!-- BLOG-POST-LIST:END -->
 
