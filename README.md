@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como me certifique como Vue.js Senior Developer, recomendaciones y consejos](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-4ijj)
-- [Como me certifique como Vue.js Senior Developer y recomendaciones](https://dev.to/aletorres1102/como-me-certifique-como-vuejs-senior-developer-y-recomendaciones-45d7)
-- [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
-- [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
+- [Day 9 · Overreliance on reranker &lpar;No.5, No.6&rpar;](https://dev.to/onestardao/day-9-overreliance-on-reranker-no5-no6-gn2)
+- [Memahami Logo Earl](https://dev.to/dev_nazwashabrina/memahami-logo-earl-mfo)
+- [Meet Bugsy, Your AI Web Bug Hunter](https://dev.to/isah_alamin_93d4e4d2ab01f/meet-bugsy-your-ai-web-bug-hunter-4dm3)
+- [Day 12 — Do well by doing good](https://dev.to/nando_rama_67753ecb8e0e6d/day-12-do-well-by-doing-good-16ei)
 <!-- BLOG-POST-LIST:END -->
 
