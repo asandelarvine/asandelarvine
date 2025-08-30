@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trait-Driven Rust Architecture](https://dev.to/raminfp/trait-driven-rust-architecture-1ife)
-- [Deploying an n8n AI Chatbot Agent on AWS ECS with Amazon Bedrock](https://dev.to/aws-builders/deploying-an-n8n-ai-chatbot-agent-on-aws-ecs-with-amazon-bedrock-ock)
-- [Critical Vulneribilty on Docker Desktop](https://dev.to/ardhrubo/critical-vulneribilty-on-docker-desktop-4ki9)
-- [The Day Transformers Stared Back at Me😂](https://dev.to/fonyuygita/the-day-transformers-stared-back-at-me-2c1p)
+- [Building a Multi-Agent AI Brand Monitoring System with n8n and BrightData](https://dev.to/prema_ananda/building-a-multi-agent-ai-brand-monitoring-system-with-n8n-and-brightdata-oe0)
+- [Why Docker is Actually a Game-Changer &lpar;And Why You Should Care&rpar; 🐳?](https://dev.to/aditya_srivastava_01/why-docker-is-actually-a-game-changer-and-why-you-should-care--io2)
+- [Docker Logging &amp; Log Drivers](https://dev.to/godofgeeks/docker-logging-log-drivers-41i4)
+- [Lessons I Learned Jumping Between JS, C#, GDScript, and Flutter](https://dev.to/wasi_ahbab/lessons-i-learned-jumping-between-js-c-gdscript-and-flutter-59dg)
 <!-- BLOG-POST-LIST:END -->
 
