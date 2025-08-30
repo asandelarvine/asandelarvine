@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 · Overreliance on reranker &lpar;No.5, No.6&rpar;](https://dev.to/onestardao/day-9-overreliance-on-reranker-no5-no6-gn2)
-- [Memahami Logo Earl](https://dev.to/dev_nazwashabrina/memahami-logo-earl-mfo)
-- [Meet Bugsy, Your AI Web Bug Hunter](https://dev.to/isah_alamin_93d4e4d2ab01f/meet-bugsy-your-ai-web-bug-hunter-4dm3)
-- [Day 12 — Do well by doing good](https://dev.to/nando_rama_67753ecb8e0e6d/day-12-do-well-by-doing-good-16ei)
+- [Day 17: Building Topology Visualization with AI-Assisted Health Monitoring](https://dev.to/clayroach/day-17-building-topology-visualization-with-ai-assisted-health-monitoring-55id)
+- [🧭 Master Roadmap to Problem Identification](https://dev.to/devcorner/master-roadmap-to-problem-identification-5c1)
+- [How to Identify Recursion Problems in Coding Interviews](https://dev.to/devcorner/how-to-identify-recursion-problems-in-coding-interviews-5d03)
+- [Recursion vs Dynamic Programming: How to Identify the Right Approach](https://dev.to/devcorner/recursion-vs-dynamic-programming-how-to-identify-the-right-approach-3f60)
 <!-- BLOG-POST-LIST:END -->
 
