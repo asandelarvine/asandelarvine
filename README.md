@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
-- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
-- [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
-- [How to Protect/secure Your Callback &amp; Webhook Endpoints](https://dev.to/msnmongare/how-to-protectsecure-your-callback-webhook-endpoints-oi2)
+- [The Art of the Meta: Weaving JavaScript&#39;s Runtime Tapestry with Proxies, Reflect, and Decorators](https://dev.to/alex_aslam/the-art-of-the-meta-weaving-javascripts-runtime-tapestry-with-proxies-reflect-and-decorators-5km)
+- [Speed-run a SvelteKit app with the MOTA starter](https://dev.to/rastislavcore/speed-run-a-sveltekit-app-with-the-mota-starter-2ggc)
+- [Clean MVC Architecture in Node.js Without Express - A Laravel Inspired Approach](https://dev.to/alamin_php/clean-mvc-architecture-in-nodejs-without-express-a-laravel-inspired-approach-2oig)
+- [🛠️ 7 Mistakes I Made Writing My First Spring Boot APIs &lpar;And What I Do Differently Now&rpar;](https://dev.to/ashishsaranshakya/7-mistakes-i-made-writing-my-first-spring-boot-apis-and-what-i-do-differently-now-287)
 <!-- BLOG-POST-LIST:END -->
 
