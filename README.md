@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to publish odoo apps on app store[updated]](https://dev.to/itgiggs/how-to-publish-odoo-apps-on-app-storeupdated-3b3f)
-- [My First Experience with Nexthink Tool &amp; Key Learnings](https://dev.to/karthikkorrayi/my-first-experience-with-nexthink-tool-key-learnings-59g6)
-- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
-- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
+- [Fishing World - Devlog #0](https://dev.to/doormatt_/fishing-world-devlog-0-daj)
+- [My Tactics With Research Projects](https://dev.to/jimw/my-tactics-with-research-projects-2nf3)
+- [Here&#39;s where e-waste recycling is now—and how Canada &lpar;and Québec&rpar; is doing.](https://dev.to/expertise_enviropass_0155/heres-where-e-waste-recycling-is-now-and-how-canada-and-quebec-is-doing-221a)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
 <!-- BLOG-POST-LIST:END -->
 
