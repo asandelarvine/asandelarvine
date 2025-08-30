@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System Data Driven: como coletar métricas e transformar código em decisões](https://dev.to/victor-assis/design-system-data-driven-como-coletar-metricas-e-transformar-codigo-em-decisoes-22n5)
-- [Clicks to Efficiency: Automate Your Daily Browser Tasks](https://dev.to/thedevankit/clicks-to-efficiency-automate-your-daily-browser-tasks-5g55)
-- [Introducing Flexi-Cache : The Redis-Like In-Memory Cache for Node.js](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-the-redis-lite-in-memory-cache-for-nodejs-3do3)
-- [Easily Create an XLSX Output by Using Only HTML Table Component](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
+- [How to publish odoo apps on app store[updated]](https://dev.to/itgiggs/how-to-publish-odoo-apps-on-app-storeupdated-3b3f)
+- [My First Experience with Nexthink Tool &amp; Key Learnings](https://dev.to/karthikkorrayi/my-first-experience-with-nexthink-tool-key-learnings-59g6)
+- [Advanced Git Commands: Tools for Smarter Version Control](https://dev.to/shrsv/advanced-git-commands-tools-for-smarter-version-control-1c07)
+- [Your First React Component: JSX, Components, and the &quot;Hello, World&quot; Program&lpar;5/Sept&rpar;](https://dev.to/mendoncamaria/your-first-react-component-jsx-components-and-the-hello-world-program5sept-3oj1)
 <!-- BLOG-POST-LIST:END -->
 
