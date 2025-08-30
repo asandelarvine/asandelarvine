@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
-- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
-- [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
-- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
+- [why do they quit coding ?](https://dev.to/bekbrace/why-do-they-quit-coding--56eo)
+- [Understanding the why is very important.](https://dev.to/vjessiez/-47e1)
+- [I Built an AI That Questions Its Own Existence](https://dev.to/hewida_alisabry_0b88cbdc/i-built-an-ai-that-questions-its-own-existence-fhb)
+- [Outil de Cybersécurité du Jour - Aug 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-30-2025-gb0)
 <!-- BLOG-POST-LIST:END -->
 
