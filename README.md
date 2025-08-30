@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1% Rule of AI Mastery](https://dev.to/jaideepparashar/the-1-rule-of-ai-mastery-k59)
-- [evi-run Quick Start on Ubuntu: installation, character setup, and adding a custom agent](https://dev.to/cody_maza/evi-run-quick-start-on-ubuntu-installation-character-setup-and-adding-a-custom-agent-155l)
-- [Pengalaman Pertama menghadiri AWS Summit Jakarta 2025 sebagai Speaker](https://dev.to/aws-builders/pengalaman-pertama-menghadiri-aws-summit-jakarta-2025-sebagai-speaker-4i8a)
-- [🛳️ Docker Series: Episode 8 — Docker Compose: Build Multi-Container Apps Like a Boss](https://dev.to/yash_sonawane25/docker-series-episode-8-docker-compose-build-multi-container-apps-like-a-boss-3f3h)
+- [🌲 Blog 3: Level Order Traversal &lpar;BFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-3-level-order-traversal-bfs-pattern-in-binary-trees-10i7)
+- [🌲 Blog 2: Traversal Based &lpar;DFS&rpar; Pattern in Binary Trees](https://dev.to/devcorner/blog-2-traversal-based-dfs-pattern-in-binary-trees-2j07)
+- [🌳 Blog 1 — Height &amp; Depth Pattern &lpar;Deep dive + Java code for classic problems&rpar;](https://dev.to/devcorner/blog-1-height-depth-pattern-deep-dive-java-code-for-classic-problems-3ng0)
+- [🔥 One Loop Traversal &lpar;Preorder, Inorder, Postorder Together&rpar;](https://dev.to/devcorner/one-loop-traversal-preorder-inorder-postorder-together-169h)
 <!-- BLOG-POST-LIST:END -->
 
