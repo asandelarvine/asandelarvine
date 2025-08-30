@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Houses for Rent Auckland – A Guide for Tenants and Landlords](https://dev.to/hamza_ali_e5a3ccc85652d24/houses-for-rent-auckland-a-guide-for-tenants-and-landlords-25n8)
-- [🤖 Build Your First Fully Autonomous AI Agent - Free Workshop! 🚀](https://dev.to/lukehinds/build-any-agent-you-like-at-the-free-agentup-workshop-come-try-out-the-hottest-open-source-agent-3alg)
-- [Setting Up the ELK Stack on AWS EC2 for Log Monitoring](https://dev.to/vatul16/setting-up-the-elk-stack-on-aws-ec2-for-log-monitoring-1eme)
-- [Prisma Backup](https://dev.to/daxsoft/prisma-backup-24e3)
+- [🔥𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮𝗻 𝗻𝟴𝗻 𝗖𝗹𝗼𝗻𝗲 𝗶𝗻 𝗩𝘂𝗲](https://dev.to/sem1colons/-45nm)
+- [1 RN Thing a Day – Day 10: Memoization in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-10-memoization-in-react-native-45lp)
+- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
+- [Leetcode - 52. N-Queens II](https://dev.to/rakeshreddy512/leetcode-52-n-queens-ii-2m7k)
 <!-- BLOG-POST-LIST:END -->
 
