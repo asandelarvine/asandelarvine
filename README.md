@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Super WhatsApp Agent 🤖📱](https://dev.to/amira_adel_e032821d5c75c5/super-whatsapp-agent-4mo4)
-- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
-- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
-- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
+- [AI Agents are Doomsday for SaaS](https://dev.to/kuldeep_paul/ai-agents-are-doomsday-for-saas-2478)
+- [🗓 Daily LeetCode Progress – Day 15](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
+- [First Post on Dev.to!](https://dev.to/taiseidev26/first-post-on-devto-3j36)
+- [Top 5 Tools to Simulate and Observe AI Agents at Scale](https://dev.to/kuldeep_paul/top-5-tools-to-simulate-and-observe-ai-agents-at-scale-5b0m)
 <!-- BLOG-POST-LIST:END -->
 
