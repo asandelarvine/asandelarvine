@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 3 – Rendering Lists with Angular @for and React .map&lpar;&rpar;](https://dev.to/michelemalagnini/my-react-journey-day-3-rendering-lists-with-angular-for-and-react-map-p1n)
-- [The SEO Alchemist: How I Built an AI Agent to Turn Raw Web Data into Content Gold](https://dev.to/inforeole/the-seo-alchemist-how-i-built-an-ai-agent-to-turn-raw-web-data-into-content-gold-5ej6)
-- [The Unstoppable Lead Generation Engine: A Multi-Agent AI Workflow with n8n &amp; Bright Data](https://dev.to/inforeole/the-unstoppable-lead-generation-engine-a-multi-agent-ai-workflow-with-n8n-bright-data-4k3j)
-- [🚀 Internship Job Finder Companion n8n &amp; Bright Data Challenge – AI-Powered Internship Discovery](https://dev.to/gihan_chinthaka_b55a3536d/internship-job-finder-companionn8n-bright-data-challenge-ai-powered-internship-discovery-26op)
+- [Изучавай теорията и тънкостите, за да измисляш по-добри решения в практиката!](https://dev.to/dvt32/izuchavai-tieoriiata-i-tnkostitie-za-da-izmisliash-po-dobri-rieshieniia-v-praktikata-61)
+- [Data Structures and Algorithms in C and Assembly Language: KatoKode](https://dev.to/katokode/data-structures-and-algorithms-in-c-and-assembly-language-katokode-2d1j)
+- [Тълкувай кандидатстването за работа като трупане на опит!](https://dev.to/dvt32/tlkuvai-kandidatstvanieto-za-rabota-kato-trupanie-na-opit-1eph)
+- [Go 1.25 Greentea GC vs Classic: HydrAIDE 1M Swamp Test Shows +22% CPU Efficiency, -8% Memory](https://dev.to/hydraide/go-125-greentea-gc-vs-classic-hydraide-1m-swamp-test-shows-22-cpu-efficiency-8-memory-294h)
 <!-- BLOG-POST-LIST:END -->
 
