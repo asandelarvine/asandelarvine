@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
-- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
-- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
-- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
+- [Supercharge Your React Apps with Signals: The Future of Reactive State Management in 2025🚀🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/supercharge-your-react-apps-with-signals-the-future-of-reactive-state-management-in-2025-47a3)
+- [Ética e IA: diretrizes e regulamentações](https://dev.to/lucaspereiradesouzat/etica-e-ia-diretrizes-e-regulamentacoes-54oe)
+- [Mono in Spring Boot Explained with Simple Examples](https://dev.to/realnamehidden1_61/mono-in-spring-boot-explained-with-simple-examples-45o5)
+- [Building My First React Portfolio: Challenges, Learning, and Growth](https://dev.to/minoosh/building-my-first-react-portfolio-challenges-learning-and-growth-59l)
 <!-- BLOG-POST-LIST:END -->
 
