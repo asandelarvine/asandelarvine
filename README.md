@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise Breakthrough](https://dev.to/ramoyald/surprise-breakthrough-47g7)
-- [Robust Context in Go Microservices](https://dev.to/leapcell/robust-context-in-go-microservices-ihp)
-- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
-- [Mengenal Perintah jika dan tanya di Earl](https://dev.to/dev_nazwashabrina/mengenal-perintah-jika-dan-tanya-di-earl-4c74)
+- [Connect to Multiple Linux Servers via SSH Without Entering Password: Step-by-Step Guide](https://dev.to/elliot_brenya/connect-to-multiple-linux-servers-via-ssh-without-entering-password-step-by-step-guide-232d)
+- [The Complete Beginner&#39;s Guide to LangChain: Why Every Developer Needs This Framework in 2025&lpar;PART 1&rpar;](https://dev.to/fonyuygita/the-complete-beginners-guide-to-langchain-why-every-developer-needs-this-framework-in-2025part-1-2d55)
+- [Experimentando con Elm en mi trabajo](https://dev.to/agj/experimentando-con-elm-en-mi-trabajo-2c78)
+- [Simplify OTP Generation with one-time-pass 🔑](https://dev.to/haikelfazzani/simplify-otp-generation-with-one-time-pass-1dbj)
 <!-- BLOG-POST-LIST:END -->
 
