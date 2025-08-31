@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Quiz — Closures &amp; Loop Variables](https://dev.to/mahmoudessam/python-quiz-closures-loop-variables-n9d)
-- [AWS Solutions Architect Associate Cheat Sheet](https://dev.to/venkatesh111/aws-solutions-architect-associate-cheat-sheet-4pfj)
-- [Building a Competitive &#39;Deal Hunter&#39; Agent Using n8n + BrightData Real-Time Web Data](https://dev.to/bennykillua/building-a-competitive-deal-hunter-agent-using-n8n-brightdata-real-time-web-data-42b6)
-- [How to Build an Autocomplete Component from scratch in Vanilla JS](https://dev.to/alexpechkarev/how-to-build-an-autocomplete-component-from-scratch-in-vanilla-js-45g0)
+- [One Copy to Rule Them All: Sharing Third-Party Libraries in Nx Micro Frontends](https://dev.to/impranavkale/one-copy-to-rule-them-all-sharing-third-party-libraries-in-nx-micro-frontends-26a4)
+- [Laura Kampf: Can One Clever Hack Save A $1000 Coffee Machine?](https://dev.to/maker_youtube/laura-kampf-can-one-clever-hack-save-a-1000-coffee-machine-38h0)
+- [Raspberry Pi USB Boot: Complete Step-by-Step Guide for Developers](https://dev.to/messin_tom/raspberry-pi-usb-boot-complete-step-by-step-guide-for-developers-5hl9)
+- [marchat v0.5.0-beta.2 Release Announcement](https://dev.to/cod-e-codes/marchat-v050-beta2-release-announcement-27dg)
 <!-- BLOG-POST-LIST:END -->
 
