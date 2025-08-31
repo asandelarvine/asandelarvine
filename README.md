@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Изучавай теорията и тънкостите, за да измисляш по-добри решения в практиката!](https://dev.to/dvt32/izuchavai-tieoriiata-i-tnkostitie-za-da-izmisliash-po-dobri-rieshieniia-v-praktikata-61)
-- [Data Structures and Algorithms in C and Assembly Language: KatoKode](https://dev.to/katokode/data-structures-and-algorithms-in-c-and-assembly-language-katokode-2d1j)
-- [Тълкувай кандидатстването за работа като трупане на опит!](https://dev.to/dvt32/tlkuvai-kandidatstvanieto-za-rabota-kato-trupanie-na-opit-1eph)
-- [Go 1.25 Greentea GC vs Classic: HydrAIDE 1M Swamp Test Shows +22% CPU Efficiency, -8% Memory](https://dev.to/hydraide/go-125-greentea-gc-vs-classic-hydraide-1m-swamp-test-shows-22-cpu-efficiency-8-memory-294h)
+- [React: How to Test useState &lpar;with Examples&rpar;](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
+- [I built an AI Agent That reveals Wall Street Sentiment in seconds](https://dev.to/indika_wimalasuriya/i-built-an-ai-agent-that-reveals-wall-street-sentiment-in-seconds-4ma2)
+- [Can LLMs Power Randomizers?](https://dev.to/butter/can-llms-power-randomizers-3omp)
+- [TechPulse AI - Automated LinkedIn Tech News Agent - Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/techpulse-ai-automated-linkedin-tech-news-agent-powered-by-n8n-bright-data-37p0)
 <!-- BLOG-POST-LIST:END -->
 
