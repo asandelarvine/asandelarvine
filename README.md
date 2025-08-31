@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Copy to Rule Them All: Sharing Third-Party Libraries in Nx Micro Frontends](https://dev.to/impranavkale/one-copy-to-rule-them-all-sharing-third-party-libraries-in-nx-micro-frontends-26a4)
-- [Laura Kampf: Can One Clever Hack Save A $1000 Coffee Machine?](https://dev.to/maker_youtube/laura-kampf-can-one-clever-hack-save-a-1000-coffee-machine-38h0)
-- [Raspberry Pi USB Boot: Complete Step-by-Step Guide for Developers](https://dev.to/messin_tom/raspberry-pi-usb-boot-complete-step-by-step-guide-for-developers-5hl9)
-- [marchat v0.5.0-beta.2 Release Announcement](https://dev.to/cod-e-codes/marchat-v050-beta2-release-announcement-27dg)
+- [Mastering Hangfire in .NET 9: A Complete Guide to Background Jobs](https://dev.to/madusanka_bandara/mastering-hangfire-in-net-9-a-complete-guide-to-background-jobs-2bje)
+- [Intranet-Only Projects Pitfall &lpar;Maven and SVN&rpar;](https://dev.to/thellu/my-first-encounter-with-intranet-only-projects-and-the-pitfalls-i-hit-5998)
+- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
+- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
 <!-- BLOG-POST-LIST:END -->
 
