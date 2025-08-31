@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BrightData Company Deep Research Report with AI Agent, Google Search, Glassdoor and CrunchBase + Google Gemini](https://dev.to/ranjancse/brightdata-company-deep-research-report-with-ai-agent-google-search-glassdoor-and-crunchbase--1cjb)
-- [Untitled](https://dev.to/10sy_defdif_eb3a66b52ab8/untitled-59j2)
-- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
-- [How Dev Tools Benefit From a “Learn by Breaking” Approach](https://dev.to/buildvr/how-dev-tools-benefit-from-a-learn-by-breaking-approach-2i15)
+- [Cycle Detection in the Directed Graph using the DFS](https://dev.to/khushi2488/cycle-detection-in-the-directed-graph-using-the-dfs-3lkm)
+- [How GPUs Organize Work: Or What are GPU Warps](https://dev.to/shrsv/how-gpus-organize-work-or-what-are-gpu-warps-2k4p)
+- [Topological Sort](https://dev.to/khushi2488/topological-sort-1hm3)
+- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
 <!-- BLOG-POST-LIST:END -->
 
