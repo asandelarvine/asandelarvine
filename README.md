@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React: How to Test useState &lpar;with Examples&rpar;](https://dev.to/lico/react-testing-usestate-with-examples-34mm)
-- [I built an AI Agent That reveals Wall Street Sentiment in seconds](https://dev.to/indika_wimalasuriya/i-built-an-ai-agent-that-reveals-wall-street-sentiment-in-seconds-4ma2)
-- [Can LLMs Power Randomizers?](https://dev.to/butter/can-llms-power-randomizers-3omp)
-- [TechPulse AI - Automated LinkedIn Tech News Agent - Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/techpulse-ai-automated-linkedin-tech-news-agent-powered-by-n8n-bright-data-37p0)
+- [Social media drama analizer / monitor](https://dev.to/simonhryszko/social-media-drama-analizer-monitor-5cfg)
+- [Add TailwindCSS IntelliSense and Prettier Plugin Support for TS/JS Files](https://dev.to/zougari47/add-tailwindcss-intellisense-and-prettier-plugin-support-for-tsjs-files-32jg)
+- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-19le)
+- [How we designed versioned, validator-friendly JSON-LD profiles that LLMs actually latch onto &lpar;with SHACL/ SKOS&rpar;.](https://dev.to/hamid_ayub/how-we-designed-versioned-validator-friendly-json-ld-profiles-that-llms-actually-latch-onto-with-1f1n)
 <!-- BLOG-POST-LIST:END -->
 
