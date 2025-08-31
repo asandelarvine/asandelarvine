@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Hangfire in .NET 9: A Complete Guide to Background Jobs](https://dev.to/madusanka_bandara/mastering-hangfire-in-net-9-a-complete-guide-to-background-jobs-2bje)
-- [Intranet-Only Projects Pitfall &lpar;Maven and SVN&rpar;](https://dev.to/thellu/my-first-encounter-with-intranet-only-projects-and-the-pitfalls-i-hit-5998)
-- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
-- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
+- [BrightData Company Deep Research Report with AI Agent, Google Search, Glassdoor and CrunchBase + Google Gemini](https://dev.to/ranjancse/brightdata-company-deep-research-report-with-ai-agent-google-search-glassdoor-and-crunchbase--1cjb)
+- [Untitled](https://dev.to/10sy_defdif_eb3a66b52ab8/untitled-59j2)
+- [Day 81: The Productivity Paradox and Backend Dreams](https://dev.to/casperday11/day-81-the-productivity-paradox-and-backend-dreams-5dl7)
+- [How Dev Tools Benefit From a “Learn by Breaking” Approach](https://dev.to/buildvr/how-dev-tools-benefit-from-a-learn-by-breaking-approach-2i15)
 <!-- BLOG-POST-LIST:END -->
 
