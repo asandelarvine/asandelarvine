@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/johann_ml_a2922ec00c4be46/untitled-2gl1)
-- [Traditional AI vs. Generative AI and Types of AI](https://dev.to/ashwani_kumar_a70ee558a2c/traditional-ai-vs-generative-ai-and-types-of-ai-5h0i)
-- [Mastering Child Processes in Node.js: Unleashing Parallel Power](https://dev.to/vjnvisakh/mastering-child-processes-in-nodejs-unleashing-parallel-power-5089)
-- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
+- [Super WhatsApp Agent 🤖📱](https://dev.to/amira_adel_e032821d5c75c5/super-whatsapp-agent-4mo4)
+- [IA e Cultura de Engenharia: Cooperação Humano–Máquina na Prática de Desenvolvimento](https://dev.to/targanski/ia-e-cultura-de-engenharia-cooperacao-humano-maquina-na-pratica-de-desenvolvimento-2lk2)
+- [My Summer 2025 Dev Journey: AI Challenges, Robot Adventures, and Community Growth 🌞](https://dev.to/prema_ananda/my-summer-2025-dev-journey-ai-challenges-robot-adventures-and-community-growth-2jka)
+- [🔄 ETL vs ELT: What’s the Difference and Why It Matters?](https://dev.to/shagun_khandelwal/etl-vs-elt-whats-the-difference-and-why-it-matters-ced)
 <!-- BLOG-POST-LIST:END -->
 
