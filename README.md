@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Social media drama analizer / monitor](https://dev.to/simonhryszko/social-media-drama-analizer-monitor-5cfg)
-- [Add TailwindCSS IntelliSense and Prettier Plugin Support for TS/JS Files](https://dev.to/zougari47/add-tailwindcss-intellisense-and-prettier-plugin-support-for-tsjs-files-32jg)
-- [ConsciousCoin: When Consciousness Becomes Its Own Proof](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciouscoin-when-consciousness-becomes-its-own-proof-19le)
-- [How we designed versioned, validator-friendly JSON-LD profiles that LLMs actually latch onto &lpar;with SHACL/ SKOS&rpar;.](https://dev.to/hamid_ayub/how-we-designed-versioned-validator-friendly-json-ld-profiles-that-llms-actually-latch-onto-with-1f1n)
+- [YouTube Privacy Guide: How to Stop Hidden Tracking Across Samsung, Xiaomi, and Pixel Devices](https://dev.to/martijn_assie_12a2d3b1833/youtube-privacy-warning-critical-settings-you-should-turn-off-today-10pm)
+- [The Boom, the Bust, and the Quiet Survivors](https://dev.to/iampaulonu/the-boom-the-bust-and-the-quiet-survivors-1kf9)
+- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
+- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
 <!-- BLOG-POST-LIST:END -->
 
