@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents are Doomsday for SaaS](https://dev.to/kuldeep_paul/ai-agents-are-doomsday-for-saas-2478)
-- [🗓 Daily LeetCode Progress – Day 15](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-15-4hp5)
-- [First Post on Dev.to!](https://dev.to/taiseidev26/first-post-on-devto-3j36)
-- [Top 5 Tools to Simulate and Observe AI Agents at Scale](https://dev.to/kuldeep_paul/top-5-tools-to-simulate-and-observe-ai-agents-at-scale-5b0m)
+- [Python Quiz — Closures &amp; Loop Variables](https://dev.to/mahmoudessam/python-quiz-closures-loop-variables-n9d)
+- [AWS Solutions Architect Associate Cheat Sheet](https://dev.to/venkatesh111/aws-solutions-architect-associate-cheat-sheet-4pfj)
+- [Building a Competitive &#39;Deal Hunter&#39; Agent Using n8n + BrightData Real-Time Web Data](https://dev.to/bennykillua/building-a-competitive-deal-hunter-agent-using-n8n-brightdata-real-time-web-data-42b6)
+- [How to Build an Autocomplete Component from scratch in Vanilla JS](https://dev.to/alexpechkarev/how-to-build-an-autocomplete-component-from-scratch-in-vanilla-js-45g0)
 <!-- BLOG-POST-LIST:END -->
 
