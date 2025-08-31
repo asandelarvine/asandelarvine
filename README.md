@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Horizontal and Vertical Pod Autoscaling](https://dev.to/godofgeeks/horizontal-and-vertical-pod-autoscaling-3jeh)
-- [[Boost]](https://dev.to/ravinthiran_partheepan_4e/-3lim)
-- [Embracing Signal-Based Forms in Angular: The Future of Reactive Form Management](https://dev.to/karol_modelski/embracing-signal-based-forms-in-angular-the-future-of-reactive-form-management-1lh0)
-- [MonoGuard: Making Monorepo Management Less Painful](https://dev.to/yu_chihwei_0481c8e2b679d/monoguard-making-monorepo-management-less-painful-2739)
+- [Google&#39;s &quot;Nano Banana&quot; Just Broke the Internet - And It&#39;s Actually Real 🍌](https://dev.to/shiva_shanker_k/googles-nano-banana-just-broke-the-internet-and-its-actually-real-26d1)
+- [**Processing Mode**](https://dev.to/sabarinextgen_81595a6c7c4/processing-mode-4n8p)
+- [The Great AI Battle of 2025: OpenAI vs DeepSeek vs Qwen - Who&#39;s Actually Winning?](https://dev.to/shiva_shanker_k/the-great-ai-battle-of-2025-openai-vs-deepseek-vs-qwen-whos-actually-winning-55j3)
+- [SEMENTIC HTML](https://dev.to/alex001crypto/sementic-html-beb)
 <!-- BLOG-POST-LIST:END -->
 
