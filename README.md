@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s &quot;Nano Banana&quot; Just Broke the Internet - And It&#39;s Actually Real 🍌](https://dev.to/shiva_shanker_k/googles-nano-banana-just-broke-the-internet-and-its-actually-real-26d1)
-- [**Processing Mode**](https://dev.to/sabarinextgen_81595a6c7c4/processing-mode-4n8p)
-- [The Great AI Battle of 2025: OpenAI vs DeepSeek vs Qwen - Who&#39;s Actually Winning?](https://dev.to/shiva_shanker_k/the-great-ai-battle-of-2025-openai-vs-deepseek-vs-qwen-whos-actually-winning-55j3)
-- [SEMENTIC HTML](https://dev.to/alex001crypto/sementic-html-beb)
+- [BrightData Recruit Intelligence &lpar;Company Data Analysis + Candidate Search&rpar;](https://dev.to/ranjancse/brightdata-recruit-intelligence-company-data-analysis-candidate-search-2k04)
+- [15 Proven Guidelines for Scalable React Component Architecture](https://dev.to/ananysagar/15-proven-guidelines-for-scalable-react-component-architecture-3l6g)
+- [Android&#39;s Secret File System: A Developer&#39;s Guide to What&#39;s Really Stored on Your Device](https://dev.to/martijn_assie_12a2d3b1833/androids-secret-file-system-a-developers-guide-to-whats-really-stored-on-your-device-585e)
+- [My 2-Year Journey to Becoming a DevOps Engineer - The Roadmap](https://dev.to/chikarainohara/my-2-year-journey-to-becoming-a-devops-engineer-the-roadmap-5k0)
 <!-- BLOG-POST-LIST:END -->
 
