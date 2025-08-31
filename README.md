@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BrightData Recruit Intelligence &lpar;Company Data Analysis + Candidate Search&rpar;](https://dev.to/ranjancse/brightdata-recruit-intelligence-company-data-analysis-candidate-search-2k04)
-- [15 Proven Guidelines for Scalable React Component Architecture](https://dev.to/ananysagar/15-proven-guidelines-for-scalable-react-component-architecture-3l6g)
-- [Android&#39;s Secret File System: A Developer&#39;s Guide to What&#39;s Really Stored on Your Device](https://dev.to/martijn_assie_12a2d3b1833/androids-secret-file-system-a-developers-guide-to-whats-really-stored-on-your-device-585e)
-- [My 2-Year Journey to Becoming a DevOps Engineer - The Roadmap](https://dev.to/chikarainohara/my-2-year-journey-to-becoming-a-devops-engineer-the-roadmap-5k0)
+- [Untitled](https://dev.to/johann_ml_a2922ec00c4be46/untitled-2gl1)
+- [Traditional AI vs. Generative AI and Types of AI](https://dev.to/ashwani_kumar_a70ee558a2c/traditional-ai-vs-generative-ai-and-types-of-ai-5h0i)
+- [Mastering Child Processes in Node.js: Unleashing Parallel Power](https://dev.to/vjnvisakh/mastering-child-processes-in-nodejs-unleashing-parallel-power-5089)
+- [How to Test Github Actions Locally Without Third-Party Tools](https://dev.to/fedtti/how-to-test-github-actions-locally-without-third-party-tools-4mka)
 <!-- BLOG-POST-LIST:END -->
 
