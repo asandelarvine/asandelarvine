@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why IPv4 Ran Out of Addresses and How NAT Saved the Internet](https://dev.to/naval_kishorupadhyay_3e9/why-ipv4-ran-out-of-addresses-and-how-nat-saved-the-internet-n30)
-- [No Cloud, No Limits: Top Free AI Image Generators for Self-Hosting](https://dev.to/lightningdev123/no-cloud-no-limits-top-free-ai-image-generators-for-self-hosting-3je0)
-- [Hack The Box - Explosion &lpar;RDP&rpar;](https://dev.to/er/hack-the-box-explosion-rdp-512a)
-- [How to Deploy a Django App to Production in 2025](https://dev.to/piko/how-to-deploy-a-django-app-to-production-in-2025-5df6)
+- [Testing!](https://dev.to/ben/testing-eai)
+- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-3idg)
+- [SEMANTIC HTML PRESANTATION](https://dev.to/shally_ochieng_41c6407d33/semantic-html-presantation-4n9b)
+- [🚀 I Just Launched My New Developer Portfolio](https://dev.to/member_5687c261/i-just-launched-my-new-developer-portfolio-453f)
 <!-- BLOG-POST-LIST:END -->
 
