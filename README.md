@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
-- [The $3 That Broke Crypto UX &lpar;And How Kora Fixed It&rpar;](https://dev.to/stelmitchay/the-3-that-broke-crypto-ux-and-how-kora-fixed-it-1422)
-- [7 Breakthrough Blockchain Technologies Reshaping Our Digital Future](https://dev.to/testlolrandomsilson/7-breakthrough-blockchain-technologies-reshaping-our-digital-future-431m)
-- [How to Install &amp; Run Qwen Image](https://dev.to/nodeshiftcloud/how-to-install-run-qwen-image-1pjd)
+- [Beginner’s Guide to Building a Portfolio Website with Next.js](https://dev.to/dubai_propertyteam_6cc4a/beginners-guide-to-building-a-portfolio-website-with-nextjs-24j0)
+- [React Query - why does it matter?](https://dev.to/ocodista/react-query-why-does-it-matter-43j4)
+- [Building a Proactive AI Travel Agent on AWS: My Journey with Bedrock AgentCore &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-my-journey-with-bedrock-agentcore-part-1-36c7)
+- [Vue.js + Convex Backend with Clerk Authentication 🔑 Full-Stack Tutorial](https://dev.to/aaronksaunders/vuejs-convex-backend-with-clerk-authentication-full-stack-tutorial-2f66)
 <!-- BLOG-POST-LIST:END -->
 
