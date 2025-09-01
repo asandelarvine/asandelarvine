@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Começando com React: Desafios e Conquistas](https://dev.to/flavianna_saldanha/comecando-com-react-desafios-e-conquistas-240i)
-- [Customizing Claude Code: What I Learned from Losing Everything](https://dev.to/paulduvall/customizing-claude-code-what-i-learned-from-losing-everything-1d95)
-- [The One-Hour Rule for Developers - How Short, Focused Sprints Can Unblock Stalled Projects](https://dev.to/vadym_info_polus/the-one-hour-rule-for-developers-how-short-focused-sprints-can-unblock-stalled-projects-517o)
-- [These spaces reduce the burden of long-term office rentals.](https://dev.to/elevator_spaces_8f53879c8/these-spaces-reduce-the-burden-of-long-term-office-rentals-1iig)
+- [Days 18-19: Weekend Reflection - Our Responsibility to Recent CS Graduates](https://dev.to/clayroach/days-18-19-weekend-reflection-our-responsibility-to-recent-cs-graduates-13hf)
+- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka)
+- [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
+- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-5hda)
 <!-- BLOG-POST-LIST:END -->
 
