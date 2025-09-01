@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing!](https://dev.to/ben/testing-eai)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-3idg)
-- [SEMANTIC HTML PRESANTATION](https://dev.to/shally_ochieng_41c6407d33/semantic-html-presantation-4n9b)
-- [🚀 I Just Launched My New Developer Portfolio](https://dev.to/member_5687c261/i-just-launched-my-new-developer-portfolio-453f)
+- [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
+- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
+- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
+- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
 <!-- BLOG-POST-LIST:END -->
 
