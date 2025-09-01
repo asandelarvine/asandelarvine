@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervised Learning, Explained Through Classification](https://dev.to/mwangide/supervised-learning-explained-through-classification-5201)
-- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
-- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
-- [&quot;Why Data Analytics is Essential for Modern Business Success&quot;](https://dev.to/ashwin_pps_365864ef843ec2/why-data-analytics-is-essential-for-modern-business-success-g9k)
+- [Supercharge Your Terminal: ShellGPT + ChromaDB + LangChain for Context-Aware Automation](https://dev.to/bohowhizz/supercharge-your-terminal-shellgpt-chromadb-langchain-for-context-aware-automation-49o7)
+- [How to Survive AI as a Programmer](https://dev.to/chrismbah/how-to-survive-ai-as-a-programmer-5hp)
+- [SQL for Data Professionals: From Basics to Advanced Analytics](https://dev.to/datalens/sql-for-data-professionals-from-basics-to-advanced-analytics-2nd1)
+- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
 <!-- BLOG-POST-LIST:END -->
 
