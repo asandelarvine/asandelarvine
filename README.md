@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exam Guide : GitHub Foundation Part 2](https://dev.to/luffy7258/exam-guide-github-foundation-part-2-33ch)
-- [RetryLab - what is it?](https://dev.to/sulimanbenhalim/retrylab-what-is-it-3il5)
-- [Automating Your Log Retention Strategy on AWS](https://dev.to/muhammad_zeeshan_6499a22a/automating-your-log-retention-strategy-on-aws-29o7)
-- [Blog 9: Optimization with Pruning in Backtracking ✂️](https://dev.to/devcorner/blog-9-optimization-with-pruning-in-backtracking-1ab1)
+- [DDD in Symfony 7: Clean Architecture and Deptrac-enforced boundaries](https://dev.to/mykola_vantukh/ddd-in-symfony-7-clean-architecture-and-deptrac-enforced-boundaries-120a)
+- [filesql: SQL Driver for CSV, TSV, LTSV, Parquet, and Excel Files in Go](https://dev.to/nchika/filesql-sql-driver-for-csv-tsv-ltsv-parquet-and-excel-files-in-go-l5j)
+- [Cara Mudah Mengetahui Chat ID Telegram dari Bot](https://dev.to/naandan/cara-mudah-mengetahui-chat-id-telegram-dari-bot-3ob)
+- [📝 Blog 4: Knapsack Pattern &lpar;Subset/Partition DP&rpar;](https://dev.to/devcorner/blog-4-knapsack-pattern-subsetpartition-dp-128e)
 <!-- BLOG-POST-LIST:END -->
 
