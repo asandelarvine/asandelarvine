@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
-- [implementation and benefits of semantic HTML in web development](https://dev.to/clintlee93/implementation-and-benefits-of-semantic-html-in-web-development-2c7l)
-- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
-- [Building Components: From Boring Buttons to Receipt-Chomping Cards](https://dev.to/klasniyparen/building-components-from-boring-buttons-to-receipt-chomping-cards-36n1)
+- [Supervised Learning, Explained Through Classification](https://dev.to/mwangide/supervised-learning-explained-through-classification-5201)
+- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
+- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
+- [&quot;Why Data Analytics is Essential for Modern Business Success&quot;](https://dev.to/ashwin_pps_365864ef843ec2/why-data-analytics-is-essential-for-modern-business-success-g9k)
 <!-- BLOG-POST-LIST:END -->
 
