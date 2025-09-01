@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CGSS vs Startup India vs MUDRA: A Framework for Startup Funding in India](https://dev.to/gov01/cgss-vs-startup-india-vs-mudra-a-framework-for-startup-funding-in-india-3fh1)
-- [n8n: The noob is on the loose](https://dev.to/annavi11arrea1/n8n-the-noob-is-on-the-loose-2d43)
-- [Improve customer service data with this case study](https://dev.to/dipti_moryani_08e62702314/improve-customer-service-data-with-this-case-study-3gl1)
-- [ainda vale a pena ser DEV em 2025?](https://dev.to/lukasdesouza/ainda-vale-a-pena-ser-dev-em-2025-1bjd)
+- [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
+- [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
+- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
+- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
 <!-- BLOG-POST-LIST:END -->
 
