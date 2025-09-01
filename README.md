@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated AI Agent for Real-Time Gold Price Monitoring &amp; Trading Signals Using n8n and Bright Data](https://dev.to/abhinandan-r/automated-ai-agent-for-real-time-gold-price-monitoring-trading-signals-using-n8n-and-bright-data-8pj)
-- [Why I Ditched Agile and Now My Team&#39;s Productivity Jumped 40% and how i impliment this explore here](https://dev.to/pratham_naik_project_manager/why-i-ditched-agile-and-now-my-teams-productivity-jumped-40-and-how-i-impliment-this-explore-here-2dhk)
-- [Why I Ditched Agile and My Dev Team&#39;s Productivity Jumped 40%](https://dev.to/teamcamp/why-i-ditched-agile-and-my-dev-teams-productivity-jumped-40-37np)
-- [The Only Design Pattern Cheat Sheet You&#39;ll Need Before Interviews](https://dev.to/prateekprabhakar/the-only-design-pattern-cheat-sheet-youll-need-before-interviews-4npp)
+- [I build an AI Career Navigator: Real-Time Internships/job , Hackathons &amp; Research data Powered by n8n + Bright Data](https://dev.to/harish_05/i-build-an-ai-career-navigator-real-time-internshipsjob-hackathons-research-data-powered-by-1mp2)
+- [FlutterFlow: Handling App Lifecycle to Run Actions on Foreground Transition](https://dev.to/friendship_e3d5e249468fc3/flutterflow-handling-app-lifecycle-to-run-actions-on-foreground-transition-23e3)
+- [Building an Unstoppable AI Interview Coach: How Real-Time Job Data + n8n Workflows Changed Everything](https://dev.to/arjunhg/building-an-unstoppable-ai-interview-coach-how-real-time-job-data-n8n-workflows-changed-2ikf)
+- [LLM-Sentinel: Shield your AI calls from leaking secrets](https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4)
 <!-- BLOG-POST-LIST:END -->
 
