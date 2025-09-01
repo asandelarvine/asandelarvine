@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner’s Guide to Building a Portfolio Website with Next.js](https://dev.to/dubai_propertyteam_6cc4a/beginners-guide-to-building-a-portfolio-website-with-nextjs-24j0)
-- [React Query - why does it matter?](https://dev.to/ocodista/react-query-why-does-it-matter-43j4)
-- [Building a Proactive AI Travel Agent on AWS: My Journey with Bedrock AgentCore &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-my-journey-with-bedrock-agentcore-part-1-36c7)
-- [Vue.js + Convex Backend with Clerk Authentication 🔑 Full-Stack Tutorial](https://dev.to/aaronksaunders/vuejs-convex-backend-with-clerk-authentication-full-stack-tutorial-2f66)
+- [Why IPv4 Ran Out of Addresses and How NAT Saved the Internet](https://dev.to/naval_kishorupadhyay_3e9/why-ipv4-ran-out-of-addresses-and-how-nat-saved-the-internet-n30)
+- [No Cloud, No Limits: Top Free AI Image Generators for Self-Hosting](https://dev.to/lightningdev123/no-cloud-no-limits-top-free-ai-image-generators-for-self-hosting-3je0)
+- [Hack The Box - Explosion &lpar;RDP&rpar;](https://dev.to/er/hack-the-box-explosion-rdp-512a)
+- [How to Deploy a Django App to Production in 2025](https://dev.to/piko/how-to-deploy-a-django-app-to-production-in-2025-5df6)
 <!-- BLOG-POST-LIST:END -->
 
