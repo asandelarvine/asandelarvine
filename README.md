@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One month after my game release, Android Edition](https://dev.to/erickzanardo/one-month-after-my-game-release-android-edition-3ncn)
-- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
-- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
-- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
+- [What It Really Feels Like to Work as a Software Engineer](https://dev.to/rich_park/what-it-really-feels-like-to-work-as-a-software-engineer-2je4)
+- [Hi there, ever wanted to learn how to make a game in Python. Here&#39;s the 5th post in my series that teaches you how to do exactly that.](https://dev.to/pc_ngumoha/hi-there-ever-wanted-to-learn-how-to-make-a-game-in-python-heres-the-5th-post-in-my-series-that-262d)
+- [Building Chrome Dinosaur Game in Pygame &lpar;Part 4: Jumping Dino&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-4-jumping-dino-3hed)
+- [Digital Fatigue Is Real: Why Developers Need to Reboot Their Own Systems](https://dev.to/ethan_chase_83bddbb637304/digital-fatigue-is-real-why-developers-need-to-reboot-their-own-systems-d8j)
 <!-- BLOG-POST-LIST:END -->
 
