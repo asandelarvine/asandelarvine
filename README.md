@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Terminal: ShellGPT + ChromaDB + LangChain for Context-Aware Automation](https://dev.to/bohowhizz/supercharge-your-terminal-shellgpt-chromadb-langchain-for-context-aware-automation-49o7)
-- [How to Survive AI as a Programmer](https://dev.to/chrismbah/how-to-survive-ai-as-a-programmer-5hp)
-- [SQL for Data Professionals: From Basics to Advanced Analytics](https://dev.to/datalens/sql-for-data-professionals-from-basics-to-advanced-analytics-2nd1)
-- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
+- [Introducing ClassAssists&lpar;formerly PrepIQ&rpar;](https://dev.to/opeyemidjavu/introducing-classassistsformerly-prepiq-2c0)
+- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
+- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
+- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
 <!-- BLOG-POST-LIST:END -->
 
