@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Baby Steps to Midnight Brochures](https://dev.to/ospehlivano/from-baby-steps-to-midnight-brochures-2pn2)
-- [OracleBootCamp : 1-March-2025 &lpar; Oracle Linux 9 , ADW &amp; APEX &rpar;](https://dev.to/nabhaas/oraclebootcamp-1-march-2025-oracle-linux-9-adw-apex--4i5h)
-- [Server Sent Event](https://dev.to/sadiul_hakim/server-sent-event-133o)
-- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
+- [🚀 Azure Pipeline for Terraform Deployment &lpar;Dev &amp; Prod Environments&rpar;](https://dev.to/techmademi/azure-pipeline-4mhi)
+- [implementation and benefits of semantic HTML in web development](https://dev.to/clintlee93/implementation-and-benefits-of-semantic-html-in-web-development-2c7l)
+- [How to calculate the best days for planetary observation](https://dev.to/rhannequin/how-to-calculate-the-best-days-for-planetary-observation-28k)
+- [Building Components: From Boring Buttons to Receipt-Chomping Cards](https://dev.to/klasniyparen/building-components-from-boring-buttons-to-receipt-chomping-cards-36n1)
 <!-- BLOG-POST-LIST:END -->
 
