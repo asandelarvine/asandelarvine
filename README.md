@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DDD in Symfony 7: Clean Architecture and Deptrac-enforced boundaries](https://dev.to/mykola_vantukh/ddd-in-symfony-7-clean-architecture-and-deptrac-enforced-boundaries-120a)
-- [filesql: SQL Driver for CSV, TSV, LTSV, Parquet, and Excel Files in Go](https://dev.to/nchika/filesql-sql-driver-for-csv-tsv-ltsv-parquet-and-excel-files-in-go-l5j)
-- [Cara Mudah Mengetahui Chat ID Telegram dari Bot](https://dev.to/naandan/cara-mudah-mengetahui-chat-id-telegram-dari-bot-3ob)
-- [📝 Blog 4: Knapsack Pattern &lpar;Subset/Partition DP&rpar;](https://dev.to/devcorner/blog-4-knapsack-pattern-subsetpartition-dp-128e)
+- [One month after my game release, Android Edition](https://dev.to/erickzanardo/one-month-after-my-game-release-android-edition-3ncn)
+- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
+- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
+- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
 <!-- BLOG-POST-LIST:END -->
 
