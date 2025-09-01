@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What It Really Feels Like to Work as a Software Engineer](https://dev.to/rich_park/what-it-really-feels-like-to-work-as-a-software-engineer-2je4)
-- [Hi there, ever wanted to learn how to make a game in Python. Here&#39;s the 5th post in my series that teaches you how to do exactly that.](https://dev.to/pc_ngumoha/hi-there-ever-wanted-to-learn-how-to-make-a-game-in-python-heres-the-5th-post-in-my-series-that-262d)
-- [Building Chrome Dinosaur Game in Pygame &lpar;Part 4: Jumping Dino&rpar;](https://dev.to/pc_ngumoha/building-chrome-dinosaur-game-in-pygame-part-4-jumping-dino-3hed)
-- [Digital Fatigue Is Real: Why Developers Need to Reboot Their Own Systems](https://dev.to/ethan_chase_83bddbb637304/digital-fatigue-is-real-why-developers-need-to-reboot-their-own-systems-d8j)
+- [Multidimensional Embedding Comparison with “diemsim”](https://dev.to/boddu_sripavan_5b6c8d66d4/multidimensional-embedding-comparison-with-diemsim-3ohc)
+- [The $3 That Broke Crypto UX &lpar;And How Kora Fixed It&rpar;](https://dev.to/stelmitchay/the-3-that-broke-crypto-ux-and-how-kora-fixed-it-1422)
+- [7 Breakthrough Blockchain Technologies Reshaping Our Digital Future](https://dev.to/testlolrandomsilson/7-breakthrough-blockchain-technologies-reshaping-our-digital-future-431m)
+- [How to Install &amp; Run Qwen Image](https://dev.to/nodeshiftcloud/how-to-install-run-qwen-image-1pjd)
 <!-- BLOG-POST-LIST:END -->
 
