@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox&#39;s On-Device AI Just Got 10x Faster - Here&#39;s How Mozilla Did It](https://dev.to/shiva_shanker_k/firefoxs-on-device-ai-just-got-10x-faster-heres-how-mozilla-did-it-29om)
-- [Blockchain e o Futuro do Sistema Financeiro Brasileiro: entre o Drex, Smart Contracts e a Nuvem da AWS](https://dev.to/thiagosagara/blockchain-e-o-futuro-do-sistema-financeiro-brasileiro-entre-o-drex-smart-contracts-e-a-nuvem-da-1eng)
-- [Semantic HTML](https://dev.to/estherngaire/semantic-html-4108)
-- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
+- [Começando com React: Desafios e Conquistas](https://dev.to/flavianna_saldanha/comecando-com-react-desafios-e-conquistas-240i)
+- [Customizing Claude Code: What I Learned from Losing Everything](https://dev.to/paulduvall/customizing-claude-code-what-i-learned-from-losing-everything-1d95)
+- [The One-Hour Rule for Developers - How Short, Focused Sprints Can Unblock Stalled Projects](https://dev.to/vadym_info_polus/the-one-hour-rule-for-developers-how-short-focused-sprints-can-unblock-stalled-projects-517o)
+- [These spaces reduce the burden of long-term office rentals.](https://dev.to/elevator_spaces_8f53879c8/these-spaces-reduce-the-burden-of-long-term-office-rentals-1iig)
 <!-- BLOG-POST-LIST:END -->
 
