@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ClassAssists&lpar;formerly PrepIQ&rpar;](https://dev.to/opeyemidjavu/introducing-classassistsformerly-prepiq-2c0)
-- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
-- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
-- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
+- [Exam Guide : GitHub Foundation Part 2](https://dev.to/luffy7258/exam-guide-github-foundation-part-2-33ch)
+- [RetryLab - what is it?](https://dev.to/sulimanbenhalim/retrylab-what-is-it-3il5)
+- [Automating Your Log Retention Strategy on AWS](https://dev.to/muhammad_zeeshan_6499a22a/automating-your-log-retention-strategy-on-aws-29o7)
+- [Blog 9: Optimization with Pruning in Backtracking ✂️](https://dev.to/devcorner/blog-9-optimization-with-pruning-in-backtracking-1ab1)
 <!-- BLOG-POST-LIST:END -->
 
