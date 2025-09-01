@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Test Automation: Strategies, Tools, and Best Practices](https://dev.to/sophielane/what-is-test-automation-strategies-tools-and-best-practices-3cmh)
-- [💥 Day 2 of My Pygame Journey](https://dev.to/cutieyunnytech/day-2-of-my-pygame-journey-1hg)
-- [Stop Repeating CSS! Learn CSS Nesting](https://dev.to/devshefali/stop-repeating-css-learn-css-nesting-2cb2)
-- [Array In JavaScript](https://dev.to/bhuvanasri/array-in-javascript-387c)
+- [Automated AI Agent for Real-Time Gold Price Monitoring &amp; Trading Signals Using n8n and Bright Data](https://dev.to/abhinandan-r/automated-ai-agent-for-real-time-gold-price-monitoring-trading-signals-using-n8n-and-bright-data-8pj)
+- [Why I Ditched Agile and Now My Team&#39;s Productivity Jumped 40% and how i impliment this explore here](https://dev.to/pratham_naik_project_manager/why-i-ditched-agile-and-now-my-teams-productivity-jumped-40-and-how-i-impliment-this-explore-here-2dhk)
+- [Why I Ditched Agile and My Dev Team&#39;s Productivity Jumped 40%](https://dev.to/teamcamp/why-i-ditched-agile-and-my-dev-teams-productivity-jumped-40-37np)
+- [The Only Design Pattern Cheat Sheet You&#39;ll Need Before Interviews](https://dev.to/prateekprabhakar/the-only-design-pattern-cheat-sheet-youll-need-before-interviews-4npp)
 <!-- BLOG-POST-LIST:END -->
 
