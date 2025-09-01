@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I build an AI Career Navigator: Real-Time Internships/job , Hackathons &amp; Research data Powered by n8n + Bright Data](https://dev.to/harish_05/i-build-an-ai-career-navigator-real-time-internshipsjob-hackathons-research-data-powered-by-1mp2)
-- [FlutterFlow: Handling App Lifecycle to Run Actions on Foreground Transition](https://dev.to/friendship_e3d5e249468fc3/flutterflow-handling-app-lifecycle-to-run-actions-on-foreground-transition-23e3)
-- [Building an Unstoppable AI Interview Coach: How Real-Time Job Data + n8n Workflows Changed Everything](https://dev.to/arjunhg/building-an-unstoppable-ai-interview-coach-how-real-time-job-data-n8n-workflows-changed-2ikf)
-- [LLM-Sentinel: Shield your AI calls from leaking secrets](https://dev.to/raaihank/llm-sentinel-shield-your-ai-calls-from-leaking-secrets-39k4)
+- [From Baby Steps to Midnight Brochures](https://dev.to/ospehlivano/from-baby-steps-to-midnight-brochures-2pn2)
+- [OracleBootCamp : 1-March-2025 &lpar; Oracle Linux 9 , ADW &amp; APEX &rpar;](https://dev.to/nabhaas/oraclebootcamp-1-march-2025-oracle-linux-9-adw-apex--4i5h)
+- [Server Sent Event](https://dev.to/sadiul_hakim/server-sent-event-133o)
+- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
 <!-- BLOG-POST-LIST:END -->
 
