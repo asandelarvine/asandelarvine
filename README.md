@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-1lm9)
-- [Ceylon Journey Partner - Real-Time AI Travel Partner for Sri Lanka](https://dev.to/anfathhifans/ceylon-journey-partner-real-time-ai-travel-partner-for-sri-lanka-4083)
-- [Resume of the day: the skills that employers in tech are looking for rn](https://dev.to/stemonitis/resume-of-the-day-the-skills-that-employers-in-tech-are-looking-for-rn-3a62)
-- [Authentication and authorization : difference](https://dev.to/bibihub99/authentication-and-authorization-difference-hai)
+- [CGSS vs Startup India vs MUDRA: A Framework for Startup Funding in India](https://dev.to/gov01/cgss-vs-startup-india-vs-mudra-a-framework-for-startup-funding-in-india-3fh1)
+- [n8n: The noob is on the loose](https://dev.to/annavi11arrea1/n8n-the-noob-is-on-the-loose-2d43)
+- [Improve customer service data with this case study](https://dev.to/dipti_moryani_08e62702314/improve-customer-service-data-with-this-case-study-3gl1)
+- [ainda vale a pena ser DEV em 2025?](https://dev.to/lukasdesouza/ainda-vale-a-pena-ser-dev-em-2025-1bjd)
 <!-- BLOG-POST-LIST:END -->
 
