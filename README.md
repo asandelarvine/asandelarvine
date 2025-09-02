@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kinde new features in August](https://dev.to/kinde/kinde-new-features-in-august-45l1)
-- [Introducing Custom Elements Runtime](https://dev.to/jshimkoski/introducing-custom-elements-runtime-4gc3)
-- [SSGOI: Build native app-like page transitions for the web](https://dev.to/jqueryscript/ssgoi-build-native-app-like-page-transitions-for-the-web-1e2g)
-- [Getting Started with AtomVM: Setup with Prebuilt Firmware &lpar;ESP32-S3, September 2025&rpar;](https://dev.to/mnishiguchi/getting-started-with-atomvm-setup-with-prebuilt-firmware-esp32-s3-september-2025-4lkj)
+- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
+- [Node-API Part-10: Loading ArkTS Modules Dynamically in HarmonyOS Using Node-API](https://dev.to/harmonyos/node-api-part-10-loading-arkts-modules-dynamically-in-harmonyos-using-node-api-58h6)
+- [Set Up Free Custom Domain Email Using CloudFlare](https://dev.to/moefqy/set-up-free-custom-domain-email-using-cloudflare-38ea)
+- [Stop Hoarding Junk Code! Your Algorithm Learning Bible Awaits](https://dev.to/mysterious_xuanwu_5a00815/stop-hoarding-junk-code-your-algorithm-learning-bible-awaits-26hj)
 <!-- BLOG-POST-LIST:END -->
 
