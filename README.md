@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
-- [Node-API Part-10: Loading ArkTS Modules Dynamically in HarmonyOS Using Node-API](https://dev.to/harmonyos/node-api-part-10-loading-arkts-modules-dynamically-in-harmonyos-using-node-api-58h6)
-- [Set Up Free Custom Domain Email Using CloudFlare](https://dev.to/moefqy/set-up-free-custom-domain-email-using-cloudflare-38ea)
-- [Stop Hoarding Junk Code! Your Algorithm Learning Bible Awaits](https://dev.to/mysterious_xuanwu_5a00815/stop-hoarding-junk-code-your-algorithm-learning-bible-awaits-26hj)
+- [How to use gopls MCP with VS Code](https://dev.to/calvinmclean/how-to-use-gopls-mcp-with-vs-code-11ha)
+- [The future doesn’t belong to the developer who writes the most lines of code. It belongs to the developer who can code with AI as a partner, build systems, and communicate value beyond syntax.](https://dev.to/jaideepparashar/the-future-doesnt-belong-to-the-developer-who-writes-the-most-lines-of-code-it-belongs-to-the-1np6)
+- [AI for Developers Career Growth: How Developers Would Upskill in 2025](https://dev.to/jaideepparashar/ai-for-developers-career-growth-how-developers-would-upskill-in-2025-5ac1)
+- [Why I&#39;m Starting this Unity Development Blog &lpar;and What We&#39;ll Learn Here&rpar;](https://dev.to/chris_majcher_de2b3fa94ff/why-im-starting-this-unity-development-blog-and-what-well-learn-here-51fa)
 <!-- BLOG-POST-LIST:END -->
 
