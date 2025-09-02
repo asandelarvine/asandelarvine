@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
-- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
-- [Test Init Debug](https://dev.to/ahmed_richdale_33038aaed4/test-init-debug-21hi)
-- [Build a Responsive NavBar in React with Chakra UI v3](https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb)
+- [🚨 The #1 Reason Most AI Projects Fail &lpar;and How to Fix It&rpar;](https://dev.to/utsavs26/the-1-reason-most-ai-projects-fail-and-how-to-fix-it-52c8)
+- [Building React Apps with Bun: A Modern Development Experience](https://dev.to/pmbanugo/building-react-apps-with-bun-a-modern-development-experience-3gn2)
+- [Data Extraction in Automated Workflows: The Competitive Edge](https://dev.to/alifar/data-extraction-in-automated-workflows-the-competitive-edge-5c5i)
+- [GPT-5 vs GPT-4: Why Awareness Beats Accuracy](https://dev.to/dev-rashedin/gpt-5-vs-gpt-4-why-awareness-beats-accuracy-348m)
 <!-- BLOG-POST-LIST:END -->
 
