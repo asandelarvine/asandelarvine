@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing a book. Any tips? &lpar;Biology for Software Engineers&rpar; 🧬✍️](https://dev.to/bio-ai-software-engineer/writing-a-book-any-tips-biology-for-software-engineers-2m2d)
-- [How to Optimize SQL Queries in High-Traffic Applications](https://dev.to/dixitgurv/how-to-optimize-sql-queries-in-high-traffic-applications-52d9)
-- [🔒 Configuring Secure Access to Workloads with Azure Firewall](https://dev.to/peter_samuel_052b9056e236/configuring-secure-access-to-workloads-with-azure-firewall-4elg)
-- [The Intersection of Poetry and Technology: A New Frontier for Writers By Odeta Rose, A Distinguished Poet and Writer](https://dev.to/odetaroseny/the-intersection-of-poetry-and-technology-a-new-frontier-for-writers-by-odeta-rose-a-26ae)
+- [The Future of GRC: AI, Automation, and the Engineering Mindset](https://dev.to/doneal-grc/the-future-of-grc-ai-automation-and-the-engineering-mindset-22fn)
+- [GitHub Stars program](https://dev.to/sunny7899/github-stars-program-2bg2)
+- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
+- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
 <!-- BLOG-POST-LIST:END -->
 
