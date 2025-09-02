@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
-- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
-- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
-- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
+- [A Concise Guide to Asynchronous Data Flow with C# Channels](https://dev.to/petersaktor/a-concise-guide-to-asynchronous-data-flow-with-c-channels-45af)
+- [Google Auth](https://dev.to/dhirajarya01/google-auth-40ik)
+- [How to Bring Your Boyfriend&#39;s Friend Into Your Social Circle Smoothly](https://dev.to/risingguru/how-to-bring-your-boyfriends-friend-into-your-social-circle-smoothly-2ai8)
+- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
 <!-- BLOG-POST-LIST:END -->
 
