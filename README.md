@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[agents.md] product/sprint-prioritizer](https://dev.to/joo0/agentsmd-productsprint-prioritizer-58m8)
-- [Check out this insane new photo editing model by Google. Just like its name, people are going bananas 🍌 https://youtube.com/shorts/K9f8VlzYIQw?si=6o4mR8oDd_mczs_Z](https://dev.to/codewithsimon/check-out-this-insane-new-photo-editing-model-by-google-just-like-its-name-people-are-going-51c4)
-- [Adding Dynamics 365 Users through Security Roles as Members](https://dev.to/nikhildynamicsce/adding-dynamics-365-users-through-security-roles-as-members-5hgi)
-- [Understanding select_related vs prefetch_related in Django](https://dev.to/highcenburg/understanding-selectrelated-vs-prefetchrelated-in-django-1d8e)
+- [A Love Letter to Vercel!](https://dev.to/mahdijazini/a-love-letter-to-vercel-33l6)
+- [A Basic Form Order in Juris](https://dev.to/artyprog/a-basic-form-order-in-juris-47he)
+- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
+- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
 <!-- BLOG-POST-LIST:END -->
 
