@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time AI at the Edge: Dynamically Updating Neural Networks on FPGAs by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-at-the-edge-dynamically-updating-neural-networks-on-fpgas-by-arvind-sundararajan-16ng)
-- [Real-Time AI: Dynamic Neural Nets on Edge Devices by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-dynamic-neural-nets-on-edge-devices-by-arvind-sundararajan-1fc1)
-- [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
-- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
+- [Python ile basit bir MCP Sunucu-İstemci örneği](https://dev.to/aciklab/python-ile-basit-bir-mcp-sunucu-istemci-ornegi-7a8)
+- [Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race](https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5)
+- [The Art of Hacky Code: From Clean to Compressed Through AI Prompting](https://dev.to/mdabir1203/the-art-of-hacky-code-from-clean-to-compressed-through-ai-prompting-48i5)
+- [Hello world!](https://dev.to/jimmybillz/hello-world-5gcn)
 <!-- BLOG-POST-LIST:END -->
 
