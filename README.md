@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Love Letter to Vercel!](https://dev.to/mahdijazini/a-love-letter-to-vercel-33l6)
-- [A Basic Form Order in Juris](https://dev.to/artyprog/a-basic-form-order-in-juris-47he)
-- [Concurrent Programming in Android - Part II](https://dev.to/sommukhopadhyay/concurrent-programming-in-android-part-ii-7io)
-- [Why You Shouldn’t Ignore Early-Stage Projects](https://dev.to/mkzaman58/why-you-shouldnt-ignore-early-stage-projects-5bgp)
+- [Building My First Vertical Slice](https://dev.to/cutieyunnytech/building-my-first-vertical-slice-1di7)
+- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
+- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
+- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
 <!-- BLOG-POST-LIST:END -->
 
