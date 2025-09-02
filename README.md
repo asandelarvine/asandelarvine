@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First Website: Part 1 – WordPress Setup with LocalWP](https://dev.to/pawic/build-your-first-website-part-1-wordpress-setup-with-localwp-2noa)
-- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
-- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
-- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
+- [Beancount is Personal Finance for Developers](https://dev.to/paulsc/beancount-is-personal-finance-for-developers-5fad)
+- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
+- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
+- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
 <!-- BLOG-POST-LIST:END -->
 
