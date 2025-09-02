@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python ile basit bir MCP Sunucu-İstemci örneği](https://dev.to/aciklab/python-ile-basit-bir-mcp-sunucu-istemci-ornegi-7a8)
-- [Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race](https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5)
-- [The Art of Hacky Code: From Clean to Compressed Through AI Prompting](https://dev.to/mdabir1203/the-art-of-hacky-code-from-clean-to-compressed-through-ai-prompting-48i5)
-- [Hello world!](https://dev.to/jimmybillz/hello-world-5gcn)
+- [Python vs PHP vs Go vs Node.js: Which Backend Should You Pick in 2025?](https://dev.to/samfrmd/python-vs-php-vs-go-vs-nodejs-which-backend-should-you-pick-in-2025-j2f)
+- [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
+- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
+- [Warum 90% aller lokalen Dienstleister-Websites ihre Besucher verlieren &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-90-aller-lokalen-dienstleister-websites-ihre-besucher-verlieren-und-wie-du-es-besser-machst-34nh)
 <!-- BLOG-POST-LIST:END -->
 
