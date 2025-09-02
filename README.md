@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Forge and the Flame: Why AI Won&#39;t Replace Us, But Will Force Us to Become Artisans Again](https://dev.to/alex_aslam/the-forge-and-the-flame-why-ai-wont-replace-us-but-will-force-us-to-become-artisans-again-oem)
-- [Dica Java: Variáveis de Ambiente #010](https://dev.to/oigorrudel/dica-java-variaveis-de-ambiente-010-5ckk)
-- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
-- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
+- [Kinde new features in August](https://dev.to/kinde/kinde-new-features-in-august-45l1)
+- [Introducing Custom Elements Runtime](https://dev.to/jshimkoski/introducing-custom-elements-runtime-4gc3)
+- [SSGOI: Build native app-like page transitions for the web](https://dev.to/jqueryscript/ssgoi-build-native-app-like-page-transitions-for-the-web-1e2g)
+- [Getting Started with AtomVM: Setup with Prebuilt Firmware &lpar;ESP32-S3, September 2025&rpar;](https://dev.to/mnishiguchi/getting-started-with-atomvm-setup-with-prebuilt-firmware-esp32-s3-september-2025-4lkj)
 <!-- BLOG-POST-LIST:END -->
 
