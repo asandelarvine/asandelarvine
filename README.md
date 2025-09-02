@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beancount is Personal Finance for Developers](https://dev.to/paulsc/beancount-is-personal-finance-for-developers-5fad)
-- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
-- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
-- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
+- [How to Recover SQL Server Database After Backup Corruption](https://dev.to/nisargupadhyay87/how-to-recover-sql-server-database-after-backup-corruption-46i6)
+- [My Android AsyncTask implementation vis-a-vis Command Pattern...](https://dev.to/sommukhopadhyay/my-android-asynctask-implementation-vis-a-vis-command-pattern-3g0a)
+- [Test Init Debug](https://dev.to/ahmed_richdale_33038aaed4/test-init-debug-21hi)
+- [Build a Responsive NavBar in React with Chakra UI v3](https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb)
 <!-- BLOG-POST-LIST:END -->
 
