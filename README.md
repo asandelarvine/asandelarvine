@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 The #1 Reason Most AI Projects Fail &lpar;and How to Fix It&rpar;](https://dev.to/utsavs26/the-1-reason-most-ai-projects-fail-and-how-to-fix-it-52c8)
-- [Building React Apps with Bun: A Modern Development Experience](https://dev.to/pmbanugo/building-react-apps-with-bun-a-modern-development-experience-3gn2)
-- [Data Extraction in Automated Workflows: The Competitive Edge](https://dev.to/alifar/data-extraction-in-automated-workflows-the-competitive-edge-5c5i)
-- [GPT-5 vs GPT-4: Why Awareness Beats Accuracy](https://dev.to/dev-rashedin/gpt-5-vs-gpt-4-why-awareness-beats-accuracy-348m)
+- [🤖 RAG on AWS: Building an AI-powered Knowledge Base, with Amazon Bedrock and S3 Vectors](https://dev.to/aws-builders/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc)
+- [My VSCode-Inspired Portfolio, Feedback &amp; Inspiration Welcome!](https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd)
+- [Web Developer Travis McCracken on Benchmarking Go vs Rust API Latency](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-benchmarking-go-vs-rust-api-latency-c9n)
+- [Stop Wrapping Every fetch&lpar;&rpar; in try/catch — A Safer Error Handling for TypeScript](https://dev.to/asouei/stop-wrapping-every-fetch-in-trycatch-a-safer-error-handling-for-typescript-1jj7)
 <!-- BLOG-POST-LIST:END -->
 
