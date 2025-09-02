@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Embeddings: The Hidden Power Behind AI &amp; Search](https://dev.to/dev_kiran/embeddings-the-hidden-power-behind-ai-search-21eb)
-- [🚀 From Console.log Chaos to Production-Ready Logging: A Frontend Developer&#39;s Journey](https://dev.to/rio14/from-consolelog-chaos-to-production-ready-logging-a-frontend-developers-journey-1c0k)
-- [Portfolio Relaunch — React, Vite, and MDX](https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog)
-- [COLORS: rusowsky - &lpar;ecco&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-rusowsky-ecco-a-colors-show-2jde)
+- [Building an Command line Game in Python](https://dev.to/ivansing/building-an-command-line-game-in-python-1h37)
+- [Integração do ArgoCD com clusters Kubernetes da Magalu Cloud](https://dev.to/magalucloud/integracao-do-argocd-com-clusters-kubernetes-da-magalu-cloud-l54)
+- [AI Just Cracked GUI Automation: A Developer&#39;s Deep Dive](https://dev.to/arvind_rajan/ai-just-cracked-gui-automation-a-developers-deep-dive-14k1)
+- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
 <!-- BLOG-POST-LIST:END -->
 
