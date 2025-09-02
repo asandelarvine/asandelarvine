@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma vs. Sketch: The Complete 2025 Guide for Web Developers](https://dev.to/daisy_jones_21bdcc6b40f9d/figma-vs-sketch-the-complete-2025-guide-for-web-developers-2267)
-- [From Pipelines to Product: My Journey from Data Engineer to Data Product Owner](https://dev.to/ntarzanos/from-pipelines-to-product-my-journey-from-data-engineer-to-data-product-owner-49fe)
-- [I built a simple todo app that actually gets out of your way](https://dev.to/saksham_solanki_d48fd8e39/i-built-a-simple-todo-app-that-actually-gets-out-of-your-way-665)
-- [We Audited 157 Dev Agencies: The 3 Traps That Wreck 89% of Them](https://dev.to/moeed_ul_hassan/we-audited-157-dev-agencies-the-3-traps-that-wreck-89-of-them-573)
+- [GameSpot: Final Fantasy Tactics - The Ivalice Chronicles Hands on Impressions](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-hands-on-impressions-2p72)
+- [IGN: Helldivers 2 - Official &#39;Into the Unjust&#39; Update Launch Trailer](https://dev.to/gg_news/ign-helldivers-2-official-into-the-unjust-update-launch-trailer-5dd0)
+- [Reliable Puppeteer Container Setup for PDF Generation](https://dev.to/cordlesswool/reliable-puppeteer-container-setup-for-pdf-generation-198h)
+- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
 <!-- BLOG-POST-LIST:END -->
 
