@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My First Vertical Slice](https://dev.to/cutieyunnytech/building-my-first-vertical-slice-1di7)
-- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
-- [Excited to Join the dev.to Community!](https://dev.to/saikatmondal/excited-to-join-the-devto-community-1c1e)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
+- [Build Your First Website: Part 1 – WordPress Setup with LocalWP](https://dev.to/pawic/build-your-first-website-part-1-wordpress-setup-with-localwp-2noa)
+- [The Hidden Backbone of the Internet: How DNS Actually Works](https://dev.to/naval_kishorupadhyay_3e9/the-hidden-backbone-of-the-internet-how-dns-actually-works-27k9)
+- [WebAssembly 基础（二）](https://dev.to/yangholmes/webassembly-ji-chu-er--5chd)
+- [TAssist](https://dev.to/sohail2721/tassist-3ec4)
 <!-- BLOG-POST-LIST:END -->
 
