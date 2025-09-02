@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs PHP vs Go vs Node.js: Which Backend Should You Pick in 2025?](https://dev.to/samfrmd/python-vs-php-vs-go-vs-nodejs-which-backend-should-you-pick-in-2025-j2f)
-- [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
-- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
-- [Warum 90% aller lokalen Dienstleister-Websites ihre Besucher verlieren &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-90-aller-lokalen-dienstleister-websites-ihre-besucher-verlieren-und-wie-du-es-besser-machst-34nh)
+- [Introducing THOAD, High Order Derivatives for PyTorch Graphs](https://dev.to/mntsx/introducing-thoad-high-order-derivatives-for-pytorch-graphs-5a1j)
+- [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
+- [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
+- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
 <!-- BLOG-POST-LIST:END -->
 
