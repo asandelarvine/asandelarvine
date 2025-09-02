@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use gopls MCP with VS Code](https://dev.to/calvinmclean/how-to-use-gopls-mcp-with-vs-code-11ha)
-- [The future doesn’t belong to the developer who writes the most lines of code. It belongs to the developer who can code with AI as a partner, build systems, and communicate value beyond syntax.](https://dev.to/jaideepparashar/the-future-doesnt-belong-to-the-developer-who-writes-the-most-lines-of-code-it-belongs-to-the-1np6)
-- [AI for Developers Career Growth: How Developers Would Upskill in 2025](https://dev.to/jaideepparashar/ai-for-developers-career-growth-how-developers-would-upskill-in-2025-5ac1)
-- [Why I&#39;m Starting this Unity Development Blog &lpar;and What We&#39;ll Learn Here&rpar;](https://dev.to/chris_majcher_de2b3fa94ff/why-im-starting-this-unity-development-blog-and-what-well-learn-here-51fa)
+- [[agents.md] product/sprint-prioritizer](https://dev.to/joo0/agentsmd-productsprint-prioritizer-58m8)
+- [Check out this insane new photo editing model by Google. Just like its name, people are going bananas 🍌 https://youtube.com/shorts/K9f8VlzYIQw?si=6o4mR8oDd_mczs_Z](https://dev.to/codewithsimon/check-out-this-insane-new-photo-editing-model-by-google-just-like-its-name-people-are-going-51c4)
+- [Adding Dynamics 365 Users through Security Roles as Members](https://dev.to/nikhildynamicsce/adding-dynamics-365-users-through-security-roles-as-members-5hgi)
+- [Understanding select_related vs prefetch_related in Django](https://dev.to/highcenburg/understanding-selectrelated-vs-prefetchrelated-in-django-1d8e)
 <!-- BLOG-POST-LIST:END -->
 
