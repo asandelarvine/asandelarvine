@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Command line Game in Python](https://dev.to/ivansing/building-an-command-line-game-in-python-1h37)
-- [Integração do ArgoCD com clusters Kubernetes da Magalu Cloud](https://dev.to/magalucloud/integracao-do-argocd-com-clusters-kubernetes-da-magalu-cloud-l54)
-- [AI Just Cracked GUI Automation: A Developer&#39;s Deep Dive](https://dev.to/arvind_rajan/ai-just-cracked-gui-automation-a-developers-deep-dive-14k1)
-- [ArtistAssistApp Improvements – August 2025](https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb)
+- [Real-Time AI at the Edge: Dynamically Updating Neural Networks on FPGAs by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-at-the-edge-dynamically-updating-neural-networks-on-fpgas-by-arvind-sundararajan-16ng)
+- [Real-Time AI: Dynamic Neural Nets on Edge Devices by Arvind Sundararajan](https://dev.to/arvindsundararajan/real-time-ai-dynamic-neural-nets-on-edge-devices-by-arvind-sundararajan-1fc1)
+- [Adam Savage&#39;s Tested: Adam Savage Washes a 157-Year-Old Newspaper at ⁨@NationalParkService⁩ Museum Conservation Lab](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-washes-a-157-year-old-newspaper-at-nationalparkservice-museum-2a36)
+- [Golf.com: GOLF Made in Florida: 48 Hours at Cabot Citrus Farms](https://dev.to/youtube_golf/golfcom-golf-made-in-florida-48-hours-at-cabot-citrus-farms-1075)
 <!-- BLOG-POST-LIST:END -->
 
