@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Database Normalization &amp; Denormalization &lpar;With Visual Examples and Practical Use Cases&rpar;](https://dev.to/augo_amos/a-guide-to-database-normalization-denormalization-with-visual-examples-and-practical-use-cases-npd)
-- [Early-stage open-source project: OpsiMate](https://dev.to/idanlodzki/early-stage-open-source-project-opsimate-llc)
-- [A Modern Pipeline for Video Game UI Using Rive Animation](https://dev.to/uianimation/a-modern-pipeline-for-video-game-ui-using-rive-animation-472b)
-- [Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com](https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50)
+- [The Vanilla JavaScript Renaissance: Rediscovering the Artisan&#39;s Tools](https://dev.to/alex_aslam/the-vanilla-javascript-renaissance-rediscovering-the-artisans-tools-5aka)
+- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
+- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
+- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
 <!-- BLOG-POST-LIST:END -->
 
