@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slash Your Firebase Costs: A Real-World Guide to Caching in Next.js](https://dev.to/n9ka/slash-your-firebase-costs-a-real-world-guide-to-caching-in-nextjs-ee4)
-- [Unlock Network Insights: AI-Powered Observability on a Shoestring by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-network-insights-ai-powered-observability-on-a-shoestring-by-arvind-sundararajan-5a3i)
-- [Servidor de Factorio 100% declarativo com NixOS e Terraform no Magalu Cloud](https://dev.to/magalucloud/servidor-de-factorio-100-declarativo-com-nixos-e-terraform-no-magalu-cloud-3f37)
-- [Learning Javascript](https://dev.to/chirag_sharma2005/learning-javascript-47m1)
+- [A Guide to Database Normalization &amp; Denormalization &lpar;With Visual Examples and Practical Use Cases&rpar;](https://dev.to/augo_amos/a-guide-to-database-normalization-denormalization-with-visual-examples-and-practical-use-cases-npd)
+- [Early-stage open-source project: OpsiMate](https://dev.to/idanlodzki/early-stage-open-source-project-opsimate-llc)
+- [A Modern Pipeline for Video Game UI Using Rive Animation](https://dev.to/uianimation/a-modern-pipeline-for-video-game-ui-using-rive-animation-472b)
+- [Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com](https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50)
 <!-- BLOG-POST-LIST:END -->
 
