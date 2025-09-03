@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
-- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
-- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
-- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
+- [Slash Your Firebase Costs: A Real-World Guide to Caching in Next.js](https://dev.to/n9ka/slash-your-firebase-costs-a-real-world-guide-to-caching-in-nextjs-ee4)
+- [Unlock Network Insights: AI-Powered Observability on a Shoestring by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-network-insights-ai-powered-observability-on-a-shoestring-by-arvind-sundararajan-5a3i)
+- [Servidor de Factorio 100% declarativo com NixOS e Terraform no Magalu Cloud](https://dev.to/magalucloud/servidor-de-factorio-100-declarativo-com-nixos-e-terraform-no-magalu-cloud-3f37)
+- [Learning Javascript](https://dev.to/chirag_sharma2005/learning-javascript-47m1)
 <!-- BLOG-POST-LIST:END -->
 
