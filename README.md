@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe 4.21.0: Effortless Image Uploads and Strategic Platform Enhancements](https://dev.to/apostrophetechnologies/apostrophe-4210-effortless-image-uploads-and-strategic-platform-enhancements-33m5)
-- [React Recap, years later, thanks to Astro](https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a)
-- [A small checklist for Elementor users](https://dev.to/elliemiguel/a-small-checklist-for-elementor-users-28c8)
-- [Deploy Your Own AI Video Ad Generator on AWS &lpar;Using Nova / Poly / ECS / Streamlit&rpar;](https://dev.to/debadattap/deploy-your-own-ai-video-ad-generator-on-aws-using-nova-poly-ecs-streamlit-1833)
+- [GitHub Education Student Pack: A Complete Guide for Students](https://dev.to/avinash201199/github-education-student-pack-a-complete-guide-for-students-5h7g)
+- [Convert PDFs to JPEGs in C#: A Simple Helper for LLM Integration](https://dev.to/auyeungdavid_2847435260/convert-pdfs-to-jpegs-in-c-a-simple-helper-for-llm-integration-2o9m)
+- [How a Hackathon Rejection Became 6,000+ PyPI Downloads](https://dev.to/sreenathmenon/how-a-hackathon-rejection-became-6000-pypi-downloads-445p)
+- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
 <!-- BLOG-POST-LIST:END -->
 
