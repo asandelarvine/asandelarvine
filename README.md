@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Stunning AI Animations in 2025 with Textideo](https://dev.to/ethan_parkx_09fc0c31cddf/create-stunning-ai-animations-in-2025-with-textideo-pca)
-- [The Complete Quality Engineering Roadmap](https://dev.to/idavidov13/the-complete-quality-engineering-roadmap-5ec5)
-- [[Boost]](https://dev.to/hadil/-577n)
-- [Setting up husky and lint-staged for Next.js](https://dev.to/ali-raza-fa22/setting-up-husky-and-lint-staged-for-nextjs-38ji)
+- [A Guide to Building a Fully Local AI Workforce for FREE](https://dev.to/thenomadevel/a-guide-to-building-a-fully-local-ai-workforce-for-free-50g8)
+- [AI workflow automation is getting a UX upgrade](https://dev.to/erikfiala/ai-workflow-automation-is-getting-a-ux-upgrade-2617)
+- [Vibe coding is getting a UX upgrade 🚀](https://dev.to/erikfiala/vibe-coding-is-getting-a-ux-upgrade-1o4b)
+- [Automate any workflow with a single prompt](https://dev.to/erikfiala/automate-any-workflow-with-a-single-prompt-mli)
 <!-- BLOG-POST-LIST:END -->
 
