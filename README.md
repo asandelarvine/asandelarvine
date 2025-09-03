@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
-- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
-- [Building an Enterprise-Grade Tags Input Component with ShadCN UI + React](https://dev.to/muhammadaqib86/building-an-enterprise-grade-tags-input-component-with-shadcn-ui-react-39la)
-- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
+- [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
+- [Rethinking LLM-Powered Apps: Ditching Tool Overload for Smarter Query Abstraction](https://dev.to/saravanan_ramupillai/rethinking-llm-powered-apps-ditching-tool-overload-for-smarter-query-abstraction-1aan)
+- [From Code-First to Visual Excellence: My Cyberpunk RPG&#39;s Complete UI Transformation](https://dev.to/creator_x/from-code-first-to-visual-excellence-my-cyberpunk-rpgs-complete-ui-transformation-2k25)
+- [Bun vs Node.js – Why Developers Are Switching](https://dev.to/rigalpatel001/bun-vs-nodejs-why-developers-are-switching-1125)
 <!-- BLOG-POST-LIST:END -->
 
