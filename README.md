@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Building a Fully Local AI Workforce for FREE](https://dev.to/thenomadevel/a-guide-to-building-a-fully-local-ai-workforce-for-free-50g8)
-- [AI workflow automation is getting a UX upgrade](https://dev.to/erikfiala/ai-workflow-automation-is-getting-a-ux-upgrade-2617)
-- [Vibe coding is getting a UX upgrade 🚀](https://dev.to/erikfiala/vibe-coding-is-getting-a-ux-upgrade-1o4b)
-- [Automate any workflow with a single prompt](https://dev.to/erikfiala/automate-any-workflow-with-a-single-prompt-mli)
+- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
+- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
+- [Building an Enterprise-Grade Tags Input Component with ShadCN UI + React](https://dev.to/muhammadaqib86/building-an-enterprise-grade-tags-input-component-with-shadcn-ui-react-39la)
+- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
 <!-- BLOG-POST-LIST:END -->
 
