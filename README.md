@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Interactive CLI Applications with Node.js: A Beginner&#39;s Guide](https://dev.to/blamsa0mine/building-interactive-cli-applications-with-nodejs-a-beginners-guide-22kb)
-- [Rethinking LLM-Powered Apps: Ditching Tool Overload for Smarter Query Abstraction](https://dev.to/saravanan_ramupillai/rethinking-llm-powered-apps-ditching-tool-overload-for-smarter-query-abstraction-1aan)
-- [From Code-First to Visual Excellence: My Cyberpunk RPG&#39;s Complete UI Transformation](https://dev.to/creator_x/from-code-first-to-visual-excellence-my-cyberpunk-rpgs-complete-ui-transformation-2k25)
-- [Bun vs Node.js – Why Developers Are Switching](https://dev.to/rigalpatel001/bun-vs-nodejs-why-developers-are-switching-1125)
+- [From Quiet Code to Loud Trust: A Practical PR Playbook for Builders](https://dev.to/sonia_bobrik_1939cdddd79d/from-quiet-code-to-loud-trust-a-practical-pr-playbook-for-builders-aj9)
+- [AI in Frontend: How Developers Can Use AI to Build Faster](https://dev.to/mridudixit15/ai-in-frontend-how-developers-can-use-ai-to-build-faster-2od5)
+- [LiteLLM Proxy Setup Guide for macOS with UV &lpar;Beginner-Friendly&rpar;](https://dev.to/silverfoxai/litellm-proxy-setup-guide-for-macos-with-uv-beginner-friendly-pac)
+- [Investors Just Wasted $13B on Anthropic Because They Don’t Get AI Is Regional](https://dev.to/neil_okikiolu/investors-just-wasted-13b-on-anthropic-because-they-dont-get-ai-is-regional-e2l)
 <!-- BLOG-POST-LIST:END -->
 
