@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Terminal to Code: Automatically Convert Shell Commands to Node.js Scripts with shell2node 🍃](https://dev.to/silentwatcher_95/from-terminal-to-code-automatically-convert-shell-commands-to-nodejs-scripts-with-shell2node-4853)
-- [New Here...](https://dev.to/7chats/new-here-4abg)
-- [Day 27 of My Data Analytics Journey !](https://dev.to/ramyacse/day-27-of-my-data-analytics-journey--5aog)
-- [🚫 When Should You Use finalize&lpar;&rpar; in Java?](https://dev.to/rahulkhattri0/when-should-you-use-finalize-in-java-369p)
+- [Small Resource Server &amp; Symfony Client Bundle](https://dev.to/sebk69/small-resource-server-symfony-client-bundle-1481)
+- [Amazon Bedrock AgentCore Runtime - Part 3 AgentCore Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-3-agentcore-observability-f08)
+- [How I Built a Free Google News Sitemap Generator Plugin for WordPress &lpar;with Full Code&rpar;](https://dev.to/harshitkumar/how-i-built-a-free-google-news-sitemap-generator-plugin-for-wordpress-with-full-code-41ip)
+- [Enriching Learning Session ✨](https://dev.to/aruna_arun_0cda4eb425bb0f/enriching-learning-session-16od)
 <!-- BLOG-POST-LIST:END -->
 
