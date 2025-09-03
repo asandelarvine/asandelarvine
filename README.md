@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Erdus](https://dev.to/tobiager/erdus-jia)
-- [Install NVM for Windows Without Administrator](https://dev.to/chuongmep/install-nvm-for-windows-without-administrator-3c1e)
-- [Virtual Knobs: Making human-machine interaction more intuitive and efficient](https://dev.to/ben_wu_3ff99644999594b3e8/virtual-knobs-making-human-machine-interaction-more-intuitive-and-efficient-247j)
-- [I Built an AI That Judges Your Drawings](https://dev.to/adzhydra/i-built-an-ai-that-judges-your-drawings-44o4)
+- [S3 Buckets: The Invisible Backbone of Modern Data](https://dev.to/aishwarygathe/s3-buckets-the-invisible-backbone-of-modern-data-4c5d)
+- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
+- [Why Writing Efficient Code Still Matters &lpar;Even in the Age of AI&rpar; ?](https://dev.to/yogi_rahul/why-writing-efficient-code-still-matters-even-in-the-age-of-ai--3528)
+- [Secure Data Sharing: AWS Lambda Writing to S3 Across Accounts](https://dev.to/rajesh_gundeti/secure-data-sharing-aws-lambda-writing-to-s3-across-accounts-5h1)
 <!-- BLOG-POST-LIST:END -->
 
