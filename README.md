@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte Reactivity Explained: How Your UI Updates Automatically](https://dev.to/a1guy/svelte-reactivity-explained-how-your-ui-updates-automatically-4l2m)
-- [react-bootstrap Modal never displays](https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h)
-- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
-- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
+- [How I Learned to Stop Worrying and Love Raw Events, Event Sourcing &amp; CQRS with FastAPI and Celery](https://dev.to/markoulis/how-i-learned-to-stop-worrying-and-love-raw-events-event-sourcing-cqrs-with-fastapi-and-celery-477e)
+- [OCI-MCP Integration: Connecting Oracle Cloud with AI](https://dev.to/dinesh_marimuthu_659d25d6/oci-mcp-integration-connecting-oracle-cloud-with-ai-35jl)
+- [Arduino Project 05](https://dev.to/cecilionavarro/arduino-project-05-5ebg)
+- [Clean &amp; Minimal User Registration](https://dev.to/s1tara/clean-minimal-user-registration-342i)
 <!-- BLOG-POST-LIST:END -->
 
