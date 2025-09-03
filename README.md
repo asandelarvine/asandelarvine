@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
-- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
-- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
-- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
+- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
+- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
+- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
+- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
 <!-- BLOG-POST-LIST:END -->
 
