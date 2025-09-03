@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Barcode Inspection and Verification &lpar;# 60&rpar;--SPL Programming Practice](https://dev.to/esproc_spl/barcode-inspection-and-verification-60-spl-programming-practice-5o4)
-- [Fortify Schema](https://dev.to/idevo/fortify-schema-13le)
-- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
-- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
+- [Create Stunning AI Animations in 2025 with Textideo](https://dev.to/ethan_parkx_09fc0c31cddf/create-stunning-ai-animations-in-2025-with-textideo-pca)
+- [The Complete Quality Engineering Roadmap](https://dev.to/idavidov13/the-complete-quality-engineering-roadmap-5ec5)
+- [[Boost]](https://dev.to/hadil/-577n)
+- [Setting up husky and lint-staged for Next.js](https://dev.to/ali-raza-fa22/setting-up-husky-and-lint-staged-for-nextjs-38ji)
 <!-- BLOG-POST-LIST:END -->
 
