@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Education Student Pack: A Complete Guide for Students](https://dev.to/avinash201199/github-education-student-pack-a-complete-guide-for-students-5h7g)
-- [Convert PDFs to JPEGs in C#: A Simple Helper for LLM Integration](https://dev.to/auyeungdavid_2847435260/convert-pdfs-to-jpegs-in-c-a-simple-helper-for-llm-integration-2o9m)
-- [How a Hackathon Rejection Became 6,000+ PyPI Downloads](https://dev.to/sreenathmenon/how-a-hackathon-rejection-became-6000-pypi-downloads-445p)
-- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
+- [Open-Source &quot;Deep Researcher&quot; Web App](https://dev.to/maxim-fin/open-source-deep-researcher-web-app-569e)
+- [Why You Should Introduce Theming at the Start of Your Project](https://dev.to/vincesanity/why-you-should-introduce-theming-at-the-start-of-your-project-2fmc)
+- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
+- [Controlling and Securing Azure Storage Access: A Step-by-Step Guide](https://dev.to/sudaisib/controlling-and-securing-azure-storage-access-a-step-by-step-guide-2l3f)
 <!-- BLOG-POST-LIST:END -->
 
