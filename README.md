@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Pointer coding pattern](https://dev.to/nozibul_islam_113b1d5334f/two-pointer-coding-pattern-12a)
-- [The Art of Binary Search: The Ultimate Choice Between `left &lt;= right` and `left &lt; right`](https://dev.to/childrentime/the-art-of-binary-search-the-ultimate-choice-between-left-right-and-left-right-2f02)
-- [Building Your First RAG System with Amazon Bedrock Agents and FAISS: A Developer&#39;s Journey](https://dev.to/aws-heroes/building-your-first-rag-system-with-amazon-bedrock-agents-and-faiss-a-developers-journey-11ad)
-- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
+- [Svelte Reactivity Explained: How Your UI Updates Automatically](https://dev.to/a1guy/svelte-reactivity-explained-how-your-ui-updates-automatically-4l2m)
+- [react-bootstrap Modal never displays](https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h)
+- [Cache Me If You Can: Design Patterns for Performance](https://dev.to/sibasishm/cache-me-if-you-can-design-patterns-for-performance-4ag0)
+- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
 <!-- BLOG-POST-LIST:END -->
 
