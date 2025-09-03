@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Quiet Code to Loud Trust: A Practical PR Playbook for Builders](https://dev.to/sonia_bobrik_1939cdddd79d/from-quiet-code-to-loud-trust-a-practical-pr-playbook-for-builders-aj9)
-- [AI in Frontend: How Developers Can Use AI to Build Faster](https://dev.to/mridudixit15/ai-in-frontend-how-developers-can-use-ai-to-build-faster-2od5)
-- [LiteLLM Proxy Setup Guide for macOS with UV &lpar;Beginner-Friendly&rpar;](https://dev.to/silverfoxai/litellm-proxy-setup-guide-for-macos-with-uv-beginner-friendly-pac)
-- [Investors Just Wasted $13B on Anthropic Because They Don’t Get AI Is Regional](https://dev.to/neil_okikiolu/investors-just-wasted-13b-on-anthropic-because-they-dont-get-ai-is-regional-e2l)
+- [Exploring Cursor, Windsurf and Copilot with GPT-5](https://dev.to/fernandezbaptiste/exploring-cursor-windsurf-and-copilot-with-gpt-5-22bl)
+- [Mastering Modern Frontend Architecture: Why Component-Driven Design and SSR Are Your Superpowers in 2025](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-modern-frontend-architecture-why-component-driven-design-and-ssr-are-your-superpowers-in-1oei)
+- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
+- [The Illusion of Simplicity: Why &quot;Easy&quot; Never Stays Easy in Backend Development](https://dev.to/usmanzahidcode/the-illusion-of-simplicity-why-easy-never-stays-easy-in-backend-development-3p7j)
 <!-- BLOG-POST-LIST:END -->
 
