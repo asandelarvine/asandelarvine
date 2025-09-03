@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vanilla JavaScript Renaissance: Rediscovering the Artisan&#39;s Tools](https://dev.to/alex_aslam/the-vanilla-javascript-renaissance-rediscovering-the-artisans-tools-5aka)
-- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
-- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
-- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
+- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
+- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
+- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
+- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
 <!-- BLOG-POST-LIST:END -->
 
