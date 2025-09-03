@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source &quot;Deep Researcher&quot; Web App](https://dev.to/maxim-fin/open-source-deep-researcher-web-app-569e)
-- [Why You Should Introduce Theming at the Start of Your Project](https://dev.to/vincesanity/why-you-should-introduce-theming-at-the-start-of-your-project-2fmc)
-- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
-- [Controlling and Securing Azure Storage Access: A Step-by-Step Guide](https://dev.to/sudaisib/controlling-and-securing-azure-storage-access-a-step-by-step-guide-2l3f)
+- [From Terminal to Code: Automatically Convert Shell Commands to Node.js Scripts with shell2node 🍃](https://dev.to/silentwatcher_95/from-terminal-to-code-automatically-convert-shell-commands-to-nodejs-scripts-with-shell2node-4853)
+- [New Here...](https://dev.to/7chats/new-here-4abg)
+- [Day 27 of My Data Analytics Journey !](https://dev.to/ramyacse/day-27-of-my-data-analytics-journey--5aog)
+- [🚫 When Should You Use finalize&lpar;&rpar; in Java?](https://dev.to/rahulkhattri0/when-should-you-use-finalize-in-java-369p)
 <!-- BLOG-POST-LIST:END -->
 
