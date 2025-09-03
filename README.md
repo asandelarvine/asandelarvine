@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Buckets: The Invisible Backbone of Modern Data](https://dev.to/aishwarygathe/s3-buckets-the-invisible-backbone-of-modern-data-4c5d)
-- [Deploy a React SPA using AWS S3 and CloudFront](https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp)
-- [Why Writing Efficient Code Still Matters &lpar;Even in the Age of AI&rpar; ?](https://dev.to/yogi_rahul/why-writing-efficient-code-still-matters-even-in-the-age-of-ai--3528)
-- [Secure Data Sharing: AWS Lambda Writing to S3 Across Accounts](https://dev.to/rajesh_gundeti/secure-data-sharing-aws-lambda-writing-to-s3-across-accounts-5h1)
+- [Two Pointer coding pattern](https://dev.to/nozibul_islam_113b1d5334f/two-pointer-coding-pattern-12a)
+- [The Art of Binary Search: The Ultimate Choice Between `left &lt;= right` and `left &lt; right`](https://dev.to/childrentime/the-art-of-binary-search-the-ultimate-choice-between-left-right-and-left-right-2f02)
+- [Building Your First RAG System with Amazon Bedrock Agents and FAISS: A Developer&#39;s Journey](https://dev.to/aws-heroes/building-your-first-rag-system-with-amazon-bedrock-agents-and-faiss-a-developers-journey-11ad)
+- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
 <!-- BLOG-POST-LIST:END -->
 
