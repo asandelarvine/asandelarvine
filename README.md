@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
-- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
-- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
-- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
+- [When Asked How to Learn Programming, This Is My Answer](https://dev.to/ma2mori/when-asked-how-to-learn-programming-this-is-my-answer-49bh)
+- [How to Design Quality APIs](https://dev.to/elliot_brenya/how-to-design-quality-apis-3lli)
+- [My Journey with Firebase Authentication](https://dev.to/grace_kuti_e6a0d8b96b7a0f/my-journey-with-firebase-authentication-dbp)
+- [Set Up Your Own Personal AI Frankenstack: Summarized Version](https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l)
 <!-- BLOG-POST-LIST:END -->
 
