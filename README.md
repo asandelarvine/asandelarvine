@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-38: GCE Instance Group - Quick Reference in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-38-gce-instance-group-quick-reference-in-google-cloud-platform-gcp-3k4j)
-- [Bringing Claude Code’s Sub-agents to Any MCP-Compatible Tool](https://dev.to/shinpr/bringing-claude-codes-sub-agents-to-any-mcp-compatible-tool-1hb9)
-- [Cloud-Native vs Cloud-Ready: What’s the Right Fit for Your Startup?](https://dev.to/t2c/cloud-native-vs-cloud-ready-whats-the-right-fit-for-your-startup-23fb)
-- [How to Prevent Memory Leaks in Angular](https://dev.to/sulimanmunawarkhan/how-to-prevent-memory-leaks-in-angular-530)
+- [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
+- [GNU openVBS - VBScript,Reborn](https://dev.to/robert19066/gnu-openvbs-vbscriptreborn-222m)
+- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
+- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
 <!-- BLOG-POST-LIST:END -->
 
