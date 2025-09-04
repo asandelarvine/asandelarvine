@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
-- [Offering Free Development Help 🚀](https://dev.to/tsheten33/offering-free-development-help-3pj)
-- [From 47-Minute Builds to 3 Minutes: The Docker Layer Caching Strategy That Saved Our Sprint](https://dev.to/teamcamp/from-47-minute-builds-to-3-minutes-the-docker-layer-caching-strategy-that-saved-our-sprint-5f5a)
-- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
+- [poEditor:- Workflow Automation](https://dev.to/herat_dhruv/poeditor-workflow-automation-1goj)
+- [How a SNAPSHOT Caused a 2-Hour Outage &lpar;And How We Fixed It&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/how-a-snapshot-caused-a-2-hour-outage-and-how-we-fixed-it-2che)
+- [🔥 “Stack Explained: The Secret Weapon Behind LeetCode Monotonic Problems”](https://dev.to/umair01/stack-explained-the-secret-weapon-behind-leetcode-monotonic-problems-2d24)
+- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
 <!-- BLOG-POST-LIST:END -->
 
