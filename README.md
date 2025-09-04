@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Storyteller: A Multimodal Applet](https://dev.to/enniob/digital-storyteller-a-multimodal-applet-2930)
-- [X-Raying the Earth: AI Illuminates Hidden Depths by Arvind Sundararajan](https://dev.to/arvindsundararajan/x-raying-the-earth-ai-illuminates-hidden-depths-by-arvind-sundararajan-31om)
-- [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
-- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
+- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
+- [Llama-Server is All You Need &lpar;Plus a Management Layer&rpar;](https://dev.to/lordmathis/llama-server-is-all-you-need-plus-a-management-layer-27eb)
+- [Totally expected - Fishing World - Devlog #2](https://dev.to/doormatt_/totally-expected-fishing-world-devlog-2-399m)
+- [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
 <!-- BLOG-POST-LIST:END -->
 
