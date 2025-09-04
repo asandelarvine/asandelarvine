@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
-- [Debugging My Sanity: One Console Log at a Time](https://dev.to/usmanzahidcode/debugging-my-sanity-one-console-log-at-a-time-1b3p)
-- [In a stupid defence of human-crafted content](https://dev.to/alesanchez/in-a-stupid-defence-of-human-crafted-content-3foa)
-- [Memory Management in PHP](https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10)
+- [Digital Storyteller: A Multimodal Applet](https://dev.to/enniob/digital-storyteller-a-multimodal-applet-2930)
+- [X-Raying the Earth: AI Illuminates Hidden Depths by Arvind Sundararajan](https://dev.to/arvindsundararajan/x-raying-the-earth-ai-illuminates-hidden-depths-by-arvind-sundararajan-31om)
+- [DNS Spoofing Explained: How Hackers Trick the Internet’s Phonebook](https://dev.to/rijultp/dns-spoofing-explained-how-hackers-trick-the-internets-phonebook-38nd)
+- [Dear ChatGPT-5: We Need to Talk](https://dev.to/ospehlivano/dear-chatgpt-5-we-need-to-talk-4g6j)
 <!-- BLOG-POST-LIST:END -->
 
