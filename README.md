@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗓 Daily LeetCode Progress – Day 17](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-17-1984)
-- [GNU openVBS - VBScript,Reborn](https://dev.to/robert19066/gnu-openvbs-vbscriptreborn-222m)
-- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
-- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
+- [How to send Filament database notifications to a specific queue](https://dev.to/filamentmastery/how-to-send-filament-database-notifications-to-a-specific-queue-1e91)
+- [Your UI is Not Part of Security: The Reality of BOLA](https://dev.to/alvacoder/your-ui-is-not-part-of-security-the-reality-of-bola-52jn)
+- [Get Your Go Package on pkg.go.dev: A Simple Guide](https://dev.to/anuchito/get-your-go-package-on-pkggodev-a-simple-guide-3k5d)
+- [How Code Becomes Software: Execution Models Explained](https://dev.to/naval_upadhyay/how-code-becomes-software-execution-models-explained-2dfe)
 <!-- BLOG-POST-LIST:END -->
 
