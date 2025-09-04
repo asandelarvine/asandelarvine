@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server Side React.js with node.js](https://dev.to/johanpiquet/server-side-reactjs-with-nodejs-3464)
-- [Llama-Server is All You Need &lpar;Plus a Management Layer&rpar;](https://dev.to/lordmathis/llama-server-is-all-you-need-plus-a-management-layer-27eb)
-- [Totally expected - Fishing World - Devlog #2](https://dev.to/doormatt_/totally-expected-fishing-world-devlog-2-399m)
-- [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
+- [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
+- [IGN: RoadCraft - Official Rebuild Expansion Trailer](https://dev.to/gg_news/ign-roadcraft-official-rebuild-expansion-trailer-44ae)
+- [IGN: For Honor - Official Year 9 Season 3 Downfall Gameplay Trailer](https://dev.to/gg_news/ign-for-honor-official-year-9-season-3-downfall-gameplay-trailer-3jf1)
+- [IGN: The Dino Run 2 - Official Early Access Kickstarter Trailer](https://dev.to/gg_news/ign-the-dino-run-2-official-early-access-kickstarter-trailer-483p)
 <!-- BLOG-POST-LIST:END -->
 
