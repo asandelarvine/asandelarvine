@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Symphony: Orchestrating an Event-Driven Workflow with AWS Step Functions and Lambda for Real-time Data Processing](https://dev.to/muhammad_zeeshan_6499a22a/serverless-symphony-orchestrating-an-event-driven-workflow-with-aws-step-functions-and-lambda-for-28g)
-- [How to Test AI Applications and ML Software: Best Practices Guide](https://dev.to/testfort_inc/how-to-test-ai-applications-and-ml-software-best-practices-guide-5g37)
-- [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
-- [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
+- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
+- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
+- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
+- [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
 <!-- BLOG-POST-LIST:END -->
 
