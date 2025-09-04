@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Asked How to Learn Programming, This Is My Answer](https://dev.to/ma2mori/when-asked-how-to-learn-programming-this-is-my-answer-49bh)
-- [How to Design Quality APIs](https://dev.to/elliot_brenya/how-to-design-quality-apis-3lli)
-- [My Journey with Firebase Authentication](https://dev.to/grace_kuti_e6a0d8b96b7a0f/my-journey-with-firebase-authentication-dbp)
-- [Set Up Your Own Personal AI Frankenstack: Summarized Version](https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l)
+- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
+- [A Modern Browser Printing Open Source Library](https://dev.to/siaikin/a-modern-browser-printing-open-source-library-2d0j)
+- [How to Convert 3ds Max Files to Cinema 4D?](https://dev.to/irender_gpu_cloud/how-to-convert-3ds-max-files-to-cinema-4d-4oli)
+- [Understanding Encapsulation in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-encapsulation-in-javascript-29d3)
 <!-- BLOG-POST-LIST:END -->
 
