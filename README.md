@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 2.5 Flash vs. Gemini 2.0 Flash: A New Era for AI Image Generation](https://dev.to/sampathm/gemini-25-flash-vs-gemini-20-flash-a-new-era-for-ai-image-generation-2n02)
-- [Finnegans Slack](https://dev.to/pashadia/finnegans-slack-7n5)
-- [C# LeetCode 1792: Maximum Average Pass Ratio - &lpar;Medium&rpar;](https://dev.to/grantdotdev/c-leetcode-1792-maximum-average-pass-ratio-medium-199d)
-- [Simply Order &lpar;Part 2&rpar; — Designing and Implementing the Saga Workflow with Temporal](https://dev.to/hassan314159/simply-order-part-2-designing-and-implementing-the-saga-workflow-with-temporal-3o23)
+- [Putting Your Site Behind G Cloud CDN, an unapologetically detailed, how-to](https://dev.to/lovestaco/putting-your-site-behind-g-cloud-cdn-an-unapologetically-detailed-how-to-xd-44cn)
+- [Debugging My Sanity: One Console Log at a Time](https://dev.to/usmanzahidcode/debugging-my-sanity-one-console-log-at-a-time-1b3p)
+- [In a stupid defence of human-crafted content](https://dev.to/alesanchez/in-a-stupid-defence-of-human-crafted-content-3foa)
+- [Memory Management in PHP](https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10)
 <!-- BLOG-POST-LIST:END -->
 
