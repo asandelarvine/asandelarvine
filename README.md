@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Road Less Bumpy: React Native&#39;s New Era of Stability and Predictability](https://dev.to/joaopaulocmarra/the-road-less-bumpy-react-natives-new-era-of-stability-and-predictability-3gdn)
-- [📌 Share Data Between Components in Angular: Best Practices &amp; Different Approaches](https://dev.to/rohit_singh_ee84e64941db7/share-data-between-components-in-angular-best-practices-different-approaches-427b)
-- [Enhance the Ecosystem with Wallet Connector Plugin: Simplifying Secure Wallet Integration](https://dev.to/harish_05/wallet-connector-plugin-simplifying-secure-wallet-integration-abf)
-- [Why Turbopack in Next.js 15 Feels Like Cheating &lpar;in a Good Way&rpar;](https://dev.to/shubhradev/why-turbopack-in-nextjs-15-feels-like-cheating-in-a-good-way-ob1)
+- [Serverless Symphony: Orchestrating an Event-Driven Workflow with AWS Step Functions and Lambda for Real-time Data Processing](https://dev.to/muhammad_zeeshan_6499a22a/serverless-symphony-orchestrating-an-event-driven-workflow-with-aws-step-functions-and-lambda-for-28g)
+- [How to Test AI Applications and ML Software: Best Practices Guide](https://dev.to/testfort_inc/how-to-test-ai-applications-and-ml-software-best-practices-guide-5g37)
+- [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
+- [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
 <!-- BLOG-POST-LIST:END -->
 
