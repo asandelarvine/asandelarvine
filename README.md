@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Automated Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-automated-testing-24h6)
-- [Build your own Posthog - PART 2](https://dev.to/infms/build-your-own-posthog-part-2-4a3c)
-- [How QR Codes Work &lpar;and How to Make Your Own in Python&rpar;](https://dev.to/devasservice/how-qr-codes-work-and-how-to-make-your-own-in-python-39f7)
-- [Deploying Agents on Windows &amp; Linux Without SSH Using AWS SSM and Parameter Store](https://dev.to/durrello/deploying-agents-on-windows-linux-without-ssh-using-aws-ssm-and-parameter-store-472g)
+- [The Road Less Bumpy: React Native&#39;s New Era of Stability and Predictability](https://dev.to/joaopaulocmarra/the-road-less-bumpy-react-natives-new-era-of-stability-and-predictability-3gdn)
+- [📌 Share Data Between Components in Angular: Best Practices &amp; Different Approaches](https://dev.to/rohit_singh_ee84e64941db7/share-data-between-components-in-angular-best-practices-different-approaches-427b)
+- [Enhance the Ecosystem with Wallet Connector Plugin: Simplifying Secure Wallet Integration](https://dev.to/harish_05/wallet-connector-plugin-simplifying-secure-wallet-integration-abf)
+- [Why Turbopack in Next.js 15 Feels Like Cheating &lpar;in a Good Way&rpar;](https://dev.to/shubhradev/why-turbopack-in-nextjs-15-feels-like-cheating-in-a-good-way-ob1)
 <!-- BLOG-POST-LIST:END -->
 
