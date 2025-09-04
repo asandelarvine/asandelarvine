@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Flexible MCP Tools with GraphQL and Rust](https://dev.to/om_shree_0709/building-flexible-mcp-tools-with-graphql-and-rust-386d)
-- [VoIP NAT Traversal – Getting Through the Maze](https://dev.to/sip_games/voip-nat-traversal-getting-through-the-maze-2d0m)
-- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
-- [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
+- [Gemini 2.5 Flash vs. Gemini 2.0 Flash: A New Era for AI Image Generation](https://dev.to/sampathm/gemini-25-flash-vs-gemini-20-flash-a-new-era-for-ai-image-generation-2n02)
+- [Finnegans Slack](https://dev.to/pashadia/finnegans-slack-7n5)
+- [C# LeetCode 1792: Maximum Average Pass Ratio - &lpar;Medium&rpar;](https://dev.to/grantdotdev/c-leetcode-1792-maximum-average-pass-ratio-medium-199d)
+- [Simply Order &lpar;Part 2&rpar; — Designing and Implementing the Saga Workflow with Temporal](https://dev.to/hassan314159/simply-order-part-2-designing-and-implementing-the-saga-workflow-with-temporal-3o23)
 <!-- BLOG-POST-LIST:END -->
 
