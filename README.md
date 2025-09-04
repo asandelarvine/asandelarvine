@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Insurance](https://dev.to/madgan95/introduction-to-insurance-4n34)
-- [3-Minute Guide: Make GitHub Copilot Generate High-Quality Code](https://dev.to/louis7/3-minute-guide-make-github-copilot-generate-high-quality-code-2cph)
-- [10 Cool CodePen Demos &lpar;July 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
-- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
+- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/capestart/revamping-real-time-data-ingestion-for-scalable-media-intelligence-29p5)
+- [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
+- [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
+- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
 <!-- BLOG-POST-LIST:END -->
 
