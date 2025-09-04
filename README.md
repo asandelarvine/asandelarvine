@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/capestart/revamping-real-time-data-ingestion-for-scalable-media-intelligence-29p5)
-- [3 AI Tools That Actually Save Me Hours &lpar;Sept Edition&rpar;](https://dev.to/jaideepparashar/3-ai-tools-that-actually-save-me-hours-sept-edition-1c95)
-- [Bridging the Digital Divide—What I Learned from Teaching Tech to Seniors](https://dev.to/ernesto_guzman_2ae6c20c7c/bridging-the-digital-divide-what-i-learned-from-teaching-tech-to-seniors-5a2i)
-- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
+- [Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection](https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9)
+- [Offering Free Development Help 🚀](https://dev.to/tsheten33/offering-free-development-help-3pj)
+- [From 47-Minute Builds to 3 Minutes: The Docker Layer Caching Strategy That Saved Our Sprint](https://dev.to/teamcamp/from-47-minute-builds-to-3-minutes-the-docker-layer-caching-strategy-that-saved-our-sprint-5f5a)
+- [wabt 使用小记](https://dev.to/yangholmes/wabt-shi-yong-xiao-ji-1bk4)
 <!-- BLOG-POST-LIST:END -->
 
