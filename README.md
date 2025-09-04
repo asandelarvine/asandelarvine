@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use LLMs: Advanced Prompting Techniques + Framework for Reliable LLM Outputs](https://dev.to/dinakajoy/how-to-use-llms-advanced-prompting-techniques-framework-for-reliable-llm-outputs-57ed)
-- [Amazon Q developer cheatsheet learnt](https://dev.to/santattech/amazon-q-developer-cheatsheet-learnt-16l)
-- [25 Virtual Team Building Activities for Remote Teams](https://dev.to/devmakasana/25-virtual-team-building-activities-for-remote-teams-57n4)
-- [Fix for the Android Black Screen Bug on Camera Re-entry](https://dev.to/andrewchaa/fix-for-the-android-black-screen-bug-on-camera-re-entry-2opc)
+- [Alan Turing and the Story of Breaking the Enigma](https://dev.to/toviszsolt/alan-turing-and-the-story-of-breaking-the-enigma-2h41)
+- [Top 5 Alternatives to Terraform: A Guide to Help You Choose the Right DevOps Tool](https://dev.to/mehul_budasana/top-5-alternatives-to-terraform-a-guide-to-help-you-choose-the-right-devops-tool-2e7l)
+- [Detecting Online and Offline Status in React](https://dev.to/safal_bhandari/detecting-online-and-offline-status-in-react-1i6o)
+- [Configuring Application Workloads to Use OpenShift Data Foundation Object Storage](https://dev.to/sindhuja_ns_1e491ce1088d/configuring-application-workloads-to-use-openshift-data-foundation-object-storage-2fe7)
 <!-- BLOG-POST-LIST:END -->
 
