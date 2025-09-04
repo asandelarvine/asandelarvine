@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alan Turing and the Story of Breaking the Enigma](https://dev.to/toviszsolt/alan-turing-and-the-story-of-breaking-the-enigma-2h41)
-- [Top 5 Alternatives to Terraform: A Guide to Help You Choose the Right DevOps Tool](https://dev.to/mehul_budasana/top-5-alternatives-to-terraform-a-guide-to-help-you-choose-the-right-devops-tool-2e7l)
-- [Detecting Online and Offline Status in React](https://dev.to/safal_bhandari/detecting-online-and-offline-status-in-react-1i6o)
-- [Configuring Application Workloads to Use OpenShift Data Foundation Object Storage](https://dev.to/sindhuja_ns_1e491ce1088d/configuring-application-workloads-to-use-openshift-data-foundation-object-storage-2fe7)
+- [Catch ‘Em All: Hunting Accessibility Bugs Like a Champion with Automated Testing](https://dev.to/laura-wissiak/catch-em-all-hunting-accessibility-bugs-like-a-champion-with-automated-testing-24h6)
+- [Build your own Posthog - PART 2](https://dev.to/infms/build-your-own-posthog-part-2-4a3c)
+- [How QR Codes Work &lpar;and How to Make Your Own in Python&rpar;](https://dev.to/devasservice/how-qr-codes-work-and-how-to-make-your-own-in-python-39f7)
+- [Deploying Agents on Windows &amp; Linux Without SSH Using AWS SSM and Parameter Store](https://dev.to/durrello/deploying-agents-on-windows-linux-without-ssh-using-aws-ssm-and-parameter-store-472g)
 <!-- BLOG-POST-LIST:END -->
 
