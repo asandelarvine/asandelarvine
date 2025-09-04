@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [poEditor:- Workflow Automation](https://dev.to/herat_dhruv/poeditor-workflow-automation-1goj)
-- [How a SNAPSHOT Caused a 2-Hour Outage &lpar;And How We Fixed It&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/how-a-snapshot-caused-a-2-hour-outage-and-how-we-fixed-it-2che)
-- [🔥 “Stack Explained: The Secret Weapon Behind LeetCode Monotonic Problems”](https://dev.to/umair01/stack-explained-the-secret-weapon-behind-leetcode-monotonic-problems-2d24)
-- [How Are Tokenized Stocks Changing the Game for Young Digital Investors?](https://dev.to/belly_william_ec336cacf4e/how-are-tokenized-stocks-changing-the-game-for-young-digital-investors-42k)
+- [System Design Served Hot: How Ordering Pizza 🍕Taught Me Everything](https://dev.to/konark_13/system-design-served-hot-how-ordering-pizza-taught-me-everything-1bcb)
+- [Anomaly Detection in Financial Transactions: Algorithms and Applications](https://dev.to/andrey_s/anomaly-detection-in-financial-transactions-algorithms-and-applications-2bnf)
+- [What&#39;s the deal with GraphQL?](https://dev.to/mcheremnov/whats-the-deal-with-graphql-475j)
+- [The DOM Explained: Where Markup Meets JavaScript](https://dev.to/jocke_sjlin_4ca0d80beae0/the-dom-explained-where-markup-meets-javascript-3ohc)
 <!-- BLOG-POST-LIST:END -->
 
