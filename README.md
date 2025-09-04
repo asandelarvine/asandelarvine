@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expo: The Swiss Army Knife of React Native &lpar;And How to Test Your App Everywhere&rpar;](https://dev.to/klasniyparen/expo-the-swiss-army-knife-of-react-native-and-how-to-test-your-app-everywhere-b3p)
-- [Wrote a new blog!](https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c)
-- [New Features We Find Exciting in the Kubernetes 1.34 Release](https://dev.to/metalbear/new-features-we-find-exciting-in-the-kubernetes-134-release-2mhl)
-- [My Path in the Frontend](https://dev.to/aleksandr_ryzhikov/my-path-in-the-frontend-39fn)
+- [How To Use LLMs: Advanced Prompting Techniques + Framework for Reliable LLM Outputs](https://dev.to/dinakajoy/how-to-use-llms-advanced-prompting-techniques-framework-for-reliable-llm-outputs-57ed)
+- [Amazon Q developer cheatsheet learnt](https://dev.to/santattech/amazon-q-developer-cheatsheet-learnt-16l)
+- [25 Virtual Team Building Activities for Remote Teams](https://dev.to/devmakasana/25-virtual-team-building-activities-for-remote-teams-57n4)
+- [Fix for the Android Black Screen Bug on Camera Re-entry](https://dev.to/andrewchaa/fix-for-the-android-black-screen-bug-on-camera-re-entry-2opc)
 <!-- BLOG-POST-LIST:END -->
 
