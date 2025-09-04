@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch: How to Develop a File Search Tool Rivaling &quot;Everything&quot; Using Pure C#](https://dev.to/ldotjdot/from-scratch-how-to-develop-a-file-search-tool-rivaling-everything-using-pure-c-3egj)
-- [A Modern Browser Printing Open Source Library](https://dev.to/siaikin/a-modern-browser-printing-open-source-library-2d0j)
-- [How to Convert 3ds Max Files to Cinema 4D?](https://dev.to/irender_gpu_cloud/how-to-convert-3ds-max-files-to-cinema-4d-4oli)
-- [Understanding Encapsulation in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-encapsulation-in-javascript-29d3)
+- [Introduction to Insurance](https://dev.to/madgan95/introduction-to-insurance-4n34)
+- [3-Minute Guide: Make GitHub Copilot Generate High-Quality Code](https://dev.to/louis7/3-minute-guide-make-github-copilot-generate-high-quality-code-2cph)
+- [10 Cool CodePen Demos &lpar;July 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2025-2265)
+- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
 <!-- BLOG-POST-LIST:END -->
 
