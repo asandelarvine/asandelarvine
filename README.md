@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hard part about job finding](https://dev.to/masterdevsabith/hard-part-about-job-finding-50m8)
-- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
-- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
-- [MCP for Observability 2.0 - Six Practices for Making Good Use of MCP](https://dev.to/observabilityguy/mcp-for-observability-20-six-practices-for-making-good-use-of-mcp-2if9)
+- [🚀 Day 8 of My Python Learning Journey – Sets &amp; Data Structures in Python](https://dev.to/_adii3107/day-8-of-my-python-learning-journey-sets-data-structures-in-python-5c4c)
+- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
+- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
+- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
 <!-- BLOG-POST-LIST:END -->
 
