@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching and CDN Performance Optimization: A Complete Guide](https://dev.to/favohost/caching-and-cdn-performance-optimization-a-complete-guide-2f6g)
-- [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
-- [Building a High-Performance Concurrent Live Leaderboard in Go](https://dev.to/gkoos/building-a-high-performance-concurrent-live-leaderboard-in-go-3i6d)
-- [Building RenderForgeArt AI: A Multimodal Creative Suite Powered by Google AI Studio](https://dev.to/ranjancse/building-renderforgeart-ai-a-multimodal-creative-suite-powered-by-google-ai-studio-4oc4)
+- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
+- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
+- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
+- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
 <!-- BLOG-POST-LIST:END -->
 
