@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a virtual network in Azure.](https://dev.to/onyemuche/how-to-create-a-virtual-network-in-azure-55fh)
-- [Paradigm Shifters — The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4bo4)
-- [Deploy the Generative AI Application Builder on AWS](https://dev.to/aws-builders/deploy-the-generative-ai-application-builder-on-aws-3gid)
-- [Your Wildcard SSL Setup is a Security Nightmare &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/certkit/your-wildcard-ssl-setup-is-a-security-nightmare-and-you-dont-even-know-it-317c)
+- [AI, Computer Vision, and Deep Learning: Seeing the World Through Algorithms](https://dev.to/barak_codes/ai-computer-vision-and-deep-learning-seeing-the-world-through-algorithms-3om6)
+- [AI 时代的技术能力大洗牌：当架构师门槛被大幅降低](https://dev.to/tuo_cheng_68980dbefbe1e75/aishi-dai-de-ji-zhu-neng-li-da-xi-pai-dang-jia-gou-shi-men-jian-bei-da-fu-jiang-di-53jb)
+- [AI Music Generators: Transforming Creativity &amp; Dev Workflows in 2025](https://dev.to/thedeepseeker/ai-music-generators-transforming-creativity-dev-workflows-in-2025-1o5l)
+- [Bulletproof Email Buttons for Outlook: VML + Accessible HTML](https://dev.to/aulate/bulletproof-email-buttons-for-outlook-vml-accessible-html-4424)
 <!-- BLOG-POST-LIST:END -->
 
