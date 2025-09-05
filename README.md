@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, Computer Vision, and Deep Learning: Seeing the World Through Algorithms](https://dev.to/barak_codes/ai-computer-vision-and-deep-learning-seeing-the-world-through-algorithms-3om6)
-- [AI 时代的技术能力大洗牌：当架构师门槛被大幅降低](https://dev.to/tuo_cheng_68980dbefbe1e75/aishi-dai-de-ji-zhu-neng-li-da-xi-pai-dang-jia-gou-shi-men-jian-bei-da-fu-jiang-di-53jb)
-- [AI Music Generators: Transforming Creativity &amp; Dev Workflows in 2025](https://dev.to/thedeepseeker/ai-music-generators-transforming-creativity-dev-workflows-in-2025-1o5l)
-- [Bulletproof Email Buttons for Outlook: VML + Accessible HTML](https://dev.to/aulate/bulletproof-email-buttons-for-outlook-vml-accessible-html-4424)
+- [Build Web Apps with Pure Go &lpar;No JavaScript Required!&rpar;](https://dev.to/hasan_gursoy_7b08ccc8f799/build-web-apps-with-pure-go-no-javascript-required-4icj)
+- [A Factory Reset on Factory Functions](https://dev.to/senken18/a-factory-reset-on-factory-functions-22nl)
+- [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
+- [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
 <!-- BLOG-POST-LIST:END -->
 
