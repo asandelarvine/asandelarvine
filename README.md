@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Distributed Transaction Locks and Session-Specific Data in Oracle](https://dev.to/mrcaption49/understanding-distributed-transaction-locks-and-session-specific-data-in-oracle-2n6e)
-- [WebSockets &amp; ComfyUI: Building Interactive AI Applications](https://dev.to/worldlinetech/websockets-comfyui-building-interactive-ai-applications-1j1g)
-- [Create 3D Explosion Animations with HT for Web](https://dev.to/hightopo/create-3d-explosion-animations-with-ht-for-web-2c0h)
-- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
+- [MCP-Powered Agents: Wiring Gaia to ACI Tools](https://dev.to/gaiaai/mcp-powered-agents-wiring-gaia-to-aci-tools-314p)
+- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
+- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
+- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
 <!-- BLOG-POST-LIST:END -->
 
