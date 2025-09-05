@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
-- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
-- [Daily DSA and System Design Journal - 7](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-7-1pie)
-- [Tipos Primitivos X Classes Wrappers em Java](https://dev.to/cassius_rocha/tipos-primitivos-x-classes-wrappers-em-java-224c)
+- [Caching and CDN Performance Optimization: A Complete Guide](https://dev.to/favohost/caching-and-cdn-performance-optimization-a-complete-guide-2f6g)
+- [Softr + Airtable + Make: A Scalable No-Code Architecture](https://dev.to/alifar/softr-airtable-make-a-scalable-no-code-architecture-for-developers-c0b)
+- [Building a High-Performance Concurrent Live Leaderboard in Go](https://dev.to/gkoos/building-a-high-performance-concurrent-live-leaderboard-in-go-3i6d)
+- [Building RenderForgeArt AI: A Multimodal Creative Suite Powered by Google AI Studio](https://dev.to/ranjancse/building-renderforgeart-ai-a-multimodal-creative-suite-powered-by-google-ai-studio-4oc4)
 <!-- BLOG-POST-LIST:END -->
 
