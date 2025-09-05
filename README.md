@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency package...](https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9)
-- [VIM Editor Tutorial for Beginners – Learn VIM the Easy Way](https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3)
-- [Top 10 Free Frontend UI Libraries &amp; Frameworks for Developers in 2025](https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20)
-- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
+- [Hard part about job finding](https://dev.to/masterdevsabith/hard-part-about-job-finding-50m8)
+- [The Template Method Design Pattern...](https://dev.to/sommukhopadhyay/the-template-method-design-pattern-1c82)
+- [Building a Secure SFTP Server on a Linode Public Subnet](https://dev.to/joojodontoh/building-a-secure-sftp-server-on-a-linode-public-subnet-3b0j)
+- [MCP for Observability 2.0 - Six Practices for Making Good Use of MCP](https://dev.to/observabilityguy/mcp-for-observability-20-six-practices-for-making-good-use-of-mcp-2if9)
 <!-- BLOG-POST-LIST:END -->
 
