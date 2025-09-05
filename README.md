@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the ultimate Pokédex and would love you to try it!](https://dev.to/juandadev/i-built-the-ultimate-pokedex-and-would-love-you-to-try-it-472l)
-- [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
-- [Automation in Practice: Partner Onboarding Case Study](https://dev.to/kumar111222rohit/automation-in-practice-partner-onboarding-case-study-obb)
-- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
+- [RAG Evaluation in Java: A Comprehensive Guide](https://dev.to/vishalmysore/rag-evaluation-in-java-a-comprehensive-guide-1jb6)
+- [Your Java `clone&lpar;&rpar;` Is a Lie! Fix Object Corruption Before It&#39;s Too Late!](https://dev.to/xuan_56087d315ff4f52254e6/your-java-clone-is-a-lie-fix-object-corruption-before-its-too-late-53nc)
+- [Why Can’t AI Say “I Don’t Know”? &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-cant-ai-say-i-dont-know-bite-size-article-2bo9)
+- [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
 <!-- BLOG-POST-LIST:END -->
 
