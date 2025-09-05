@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
-- [Configuring domain networking for scalable container services.](https://dev.to/usmanzahidcode/configuring-domain-networking-for-scalable-container-services-23gj)
-- [Automated security testing prevents common vulnerabilities in cloud applications.](https://dev.to/usmanzahidcode/automated-security-testing-prevents-common-vulnerabilities-in-cloud-applications-4826)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-3m16)
+- [Understanding General Security Concepts: A Guide to Security Controls](https://dev.to/pelk/understanding-general-security-concepts-a-guide-to-security-controls-1ho7)
+- [Deploy your own production-grade file server on a VPS for free in just a few steps](https://dev.to/boiler_agents/deploy-your-own-production-grade-file-server-on-a-vps-for-free-in-just-a-few-steps-4f7a)
+- [🚀 Automating API Load Testing with JMeter, Azure DevOps &amp; SLA Validation](https://dev.to/spencer_radcliff_eae6cf90/automating-api-load-testing-with-jmeter-azure-devops-sla-validation-1lmc)
+- [AlphaZero&#39;s Blind Spot: Adapting to the Unpredictable Real World](https://dev.to/arvindsundararajan/alphazeros-blind-spot-adapting-to-the-unpredictable-real-world-5g95)
 <!-- BLOG-POST-LIST:END -->
 
