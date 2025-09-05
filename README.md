@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #248: Compiler, Next.js, Activity, Forket | RN 1.0?, Nightly testing, Autolinking | WebMCP, Node](https://dev.to/sebastienlorber/this-week-in-react-248-compiler-nextjs-activity-forket-rn-10-nightly-testing-db8)
-- [Using FakeLoggerProvider &lpar;and ILoggerFactory&rpar; in FastEndpoints](https://dev.to/eelcolos/using-fakeloggerprovider-and-iloggerfactory-in-fastendpoints-4oj6)
-- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-17i3)
-- [How to Build a Live Poll in React in Under 5 Minutes &lpar;Without a Backend&rpar;](https://dev.to/adrai/how-to-build-a-live-poll-in-react-in-under-5-minutes-without-a-backend-41mc)
+- [MarkFlowy: Your New AI-Powered Markdown Editor](https://dev.to/githubopensource/markflowy-your-new-ai-powered-markdown-editor-3o6l)
+- [Day 4 - 🔐 Securing API with Keycloak](https://dev.to/siddharth_bhamare_8585/day-4-securing-api-with-keycloak-53gd)
+- [From Broken to Bulletproof: Fixing a Django Docker Deployment with ECR, SSH, and Missing Migrations](https://dev.to/c_6b7a8e65d067ddc62/from-broken-to-bulletproof-fixing-a-django-docker-deployment-with-ecr-ssh-and-missing-migrations-124i)
+- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
 <!-- BLOG-POST-LIST:END -->
 
