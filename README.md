@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP-Powered Agents: Wiring Gaia to ACI Tools](https://dev.to/gaiaai/mcp-powered-agents-wiring-gaia-to-aci-tools-314p)
-- [Elasticsearch: 15 years of indexing it all, finding what matters](https://dev.to/xeraa/elasticsearch-15-years-of-indexing-it-all-finding-what-matters-2epk)
-- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers &lpar;$6,400 Prize Pool&rpar;](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
-- [NPR Music: PinkPantheress: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pinkpantheress-tiny-desk-concert-4iof)
+- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
+- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
+- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
+- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
 <!-- BLOG-POST-LIST:END -->
 
