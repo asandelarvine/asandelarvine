@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TOTP Authenticator: A Lightweight PHP Library for Secure Two-Factor Authentication](https://dev.to/hosseinhezami/totp-authenticator-a-lightweight-php-library-for-secure-two-factor-authentication-428p)
-- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
-- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
+- [This Week In React #248: Compiler, Next.js, Activity, Forket | RN 1.0?, Nightly testing, Autolinking | WebMCP, Node](https://dev.to/sebastienlorber/this-week-in-react-248-compiler-nextjs-activity-forket-rn-10-nightly-testing-db8)
+- [Using FakeLoggerProvider &lpar;and ILoggerFactory&rpar; in FastEndpoints](https://dev.to/eelcolos/using-fakeloggerprovider-and-iloggerfactory-in-fastendpoints-4oj6)
+- [ZenFlow — Fully Vibe-Coded by Someone Who Knows Nothing About Web Dev](https://dev.to/wydoinn/zenflow-fully-vibe-coded-by-someone-who-knows-nothing-about-web-dev-17i3)
+- [How to Build a Live Poll in React in Under 5 Minutes &lpar;Without a Backend&rpar;](https://dev.to/adrai/how-to-build-a-live-poll-in-react-in-under-5-minutes-without-a-backend-41mc)
 <!-- BLOG-POST-LIST:END -->
 
