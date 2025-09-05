@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding General Security Concepts: A Guide to Security Controls](https://dev.to/pelk/understanding-general-security-concepts-a-guide-to-security-controls-1ho7)
-- [Deploy your own production-grade file server on a VPS for free in just a few steps](https://dev.to/boiler_agents/deploy-your-own-production-grade-file-server-on-a-vps-for-free-in-just-a-few-steps-4f7a)
-- [🚀 Automating API Load Testing with JMeter, Azure DevOps &amp; SLA Validation](https://dev.to/spencer_radcliff_eae6cf90/automating-api-load-testing-with-jmeter-azure-devops-sla-validation-1lmc)
-- [AlphaZero&#39;s Blind Spot: Adapting to the Unpredictable Real World](https://dev.to/arvindsundararajan/alphazeros-blind-spot-adapting-to-the-unpredictable-real-world-5g95)
+- [I built the ultimate Pokédex and would love you to try it!](https://dev.to/juandadev/i-built-the-ultimate-pokedex-and-would-love-you-to-try-it-472l)
+- [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
+- [Automation in Practice: Partner Onboarding Case Study](https://dev.to/kumar111222rohit/automation-in-practice-partner-onboarding-case-study-obb)
+- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
 <!-- BLOG-POST-LIST:END -->
 
