@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Honest Side of My Job Hunt &lpar;Not the LinkedIn Version&rpar;](https://dev.to/mettasurendhar/the-honest-side-of-my-job-hunt-not-the-linkedin-version-l14)
-- [Understanding Git Push and Pull: How SSH Makes It Secure](https://dev.to/shrsv/understanding-git-push-and-pull-how-ssh-makes-it-secure-3i5b)
-- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
-- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [Multimodal AI: Beyond Single-Mode Intelligence](https://dev.to/srijan-xi/multimodal-ai-beyond-single-mode-intelligence-27ob)
+- [Configuring domain networking for scalable container services.](https://dev.to/usmanzahidcode/configuring-domain-networking-for-scalable-container-services-23gj)
+- [Automated security testing prevents common vulnerabilities in cloud applications.](https://dev.to/usmanzahidcode/automated-security-testing-prevents-common-vulnerabilities-in-cloud-applications-4826)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-3m16)
 <!-- BLOG-POST-LIST:END -->
 
