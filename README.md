@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Feature Factory to Problem Solver: How I Actually Learned to Think Like a Senior Developer](https://dev.to/nirmitkotadiya/from-feature-factory-to-problem-solver-how-i-actually-learned-to-think-like-a-senior-developer-453c)
-- [Day 84: When Your Alarm Clock Becomes Your Enemy](https://dev.to/casperday11/day-84-when-your-alarm-clock-becomes-your-enemy-1973)
-- [Day 1 - Setting up the Scanner](https://dev.to/lahari_tenneti_4a8a082e9c/day-1-setting-up-the-scanner-45l2)
-- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
+- [Latches in C++ 20 concurrency - just like the CountdownLatch of Java concurrency package...](https://dev.to/sommukhopadhyay/latches-in-c-20-concurrency-just-like-the-countdownlatch-of-java-concurrency-package-26g9)
+- [VIM Editor Tutorial for Beginners – Learn VIM the Easy Way](https://dev.to/kmsaifullah/vim-editor-tutorial-for-beginners-learn-vim-the-easy-way-5bj3)
+- [Top 10 Free Frontend UI Libraries &amp; Frameworks for Developers in 2025](https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20)
+- [Prototype Design Pattern in Python...](https://dev.to/sommukhopadhyay/prototype-design-pattern-in-python-33ei)
 <!-- BLOG-POST-LIST:END -->
 
