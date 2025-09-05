@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MarkFlowy: Your New AI-Powered Markdown Editor](https://dev.to/githubopensource/markflowy-your-new-ai-powered-markdown-editor-3o6l)
-- [Day 4 - 🔐 Securing API with Keycloak](https://dev.to/siddharth_bhamare_8585/day-4-securing-api-with-keycloak-53gd)
-- [From Broken to Bulletproof: Fixing a Django Docker Deployment with ECR, SSH, and Missing Migrations](https://dev.to/c_6b7a8e65d067ddc62/from-broken-to-bulletproof-fixing-a-django-docker-deployment-with-ecr-ssh-and-missing-migrations-124i)
-- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
+- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
+- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
+- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
+- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
 <!-- BLOG-POST-LIST:END -->
 
