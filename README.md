@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️VerifiedVoices: Truth Without Fear, Trust Without Compromise -Powered by Midnight🌑🔥](https://dev.to/ria29108/verifiedvoices-truth-without-fear-trust-without-compromise-powered-by-midnight-12oe)
-- [UNSUPERVISED ML](https://dev.to/raymond_79cf41a94e682b4a3/unsupervised-ml-e0a)
-- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
-- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
+- [The Honest Side of My Job Hunt &lpar;Not the LinkedIn Version&rpar;](https://dev.to/mettasurendhar/the-honest-side-of-my-job-hunt-not-the-linkedin-version-l14)
+- [Understanding Git Push and Pull: How SSH Makes It Secure](https://dev.to/shrsv/understanding-git-push-and-pull-how-ssh-makes-it-secure-3i5b)
+- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
+- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
 <!-- BLOG-POST-LIST:END -->
 
