@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 8 of My Python Learning Journey – Sets &amp; Data Structures in Python](https://dev.to/_adii3107/day-8-of-my-python-learning-journey-sets-data-structures-in-python-5c4c)
-- [PrivateVault: Zero-Knowledge File Sharing DApp - Midnight Network Challenge Submission](https://dev.to/onirestart/privatevault-zero-knowledge-file-sharing-dapp-midnight-network-challenge-submission-4739)
-- [Fluent Brighter: Como configurar o Postgres](https://dev.to/actor-dev/fluent-brighter-como-configurar-o-postgres-3537)
-- [Fluent Brighter: How to setup a postgres](https://dev.to/actor-dev/fluent-brighter-how-to-setup-a-postgres-499d)
+- [Understanding Distributed Transaction Locks and Session-Specific Data in Oracle](https://dev.to/mrcaption49/understanding-distributed-transaction-locks-and-session-specific-data-in-oracle-2n6e)
+- [WebSockets &amp; ComfyUI: Building Interactive AI Applications](https://dev.to/worldlinetech/websockets-comfyui-building-interactive-ai-applications-1j1g)
+- [Create 3D Explosion Animations with HT for Web](https://dev.to/hightopo/create-3d-explosion-animations-with-ht-for-web-2c0h)
+- [Trust &amp; Transparency: Why we updated our review system at mobile.de](https://dev.to/berlin-tech-blog/trust-transparency-why-we-updated-our-review-system-at-mobilede-70m)
 <!-- BLOG-POST-LIST:END -->
 
