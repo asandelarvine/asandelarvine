@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
-- [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
-- [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
-- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
+- [How to Create a virtual network in Azure.](https://dev.to/onyemuche/how-to-create-a-virtual-network-in-azure-55fh)
+- [Paradigm Shifters — The Geniuses of the Information Revolution Who Rewrote the World](https://dev.to/toviszsolt/paradigm-shifters-the-geniuses-of-the-information-revolution-who-rewrote-the-world-4bo4)
+- [Deploy the Generative AI Application Builder on AWS](https://dev.to/aws-builders/deploy-the-generative-ai-application-builder-on-aws-3gid)
+- [Your Wildcard SSL Setup is a Security Nightmare &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/certkit/your-wildcard-ssl-setup-is-a-security-nightmare-and-you-dont-even-know-it-317c)
 <!-- BLOG-POST-LIST:END -->
 
