@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
-- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
-- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
-- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
+- [Introducing Codepit: A Minimal Platform to Share Code Snippets](https://dev.to/jiordiviera/introducing-codepit-a-minimal-platform-to-share-code-snippets-10bc)
+- [MCP-UI + TanStack: The React Stack That&#39;s Changing Everything](https://dev.to/shiva_shanker_k/mcp-ui-tanstack-the-react-stack-thats-changing-everything-8ah)
+- [Daily DSA and System Design Journal - 7](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-7-1pie)
+- [Tipos Primitivos X Classes Wrappers em Java](https://dev.to/cassius_rocha/tipos-primitivos-x-classes-wrappers-em-java-224c)
 <!-- BLOG-POST-LIST:END -->
 
