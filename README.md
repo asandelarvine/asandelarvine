@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When My Parents Learned to Order Takeout: A Tech Worker’s Mission to Bridge the Digital Divide](https://dev.to/yuzhuo_belinda_wu_5809ec4/when-my-parents-learned-to-order-takeout-a-tech-workers-mission-to-bridge-the-digital-divide-1kp5)
-- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
-- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
-- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
+- [Goal - To build the best brand generator.](https://dev.to/chromaticautomatic/goal-to-build-the-best-brand-generator-3phi)
+- [Inside the $1 Trillion Tech Summit: What Trump&#39;s White House Dinner Means for Developers](https://dev.to/shiva_shanker_k/inside-the-1-trillion-tech-summit-what-trumps-white-house-dinner-means-for-developers-1ef3)
+- [Password Cracking Project #1 – From Privilege Escalation to Hashcat](https://dev.to/seifeldienahmad/password-cracking-project-1-from-privilege-escalation-to-hashcat-1k90)
+- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8)
 <!-- BLOG-POST-LIST:END -->
 
