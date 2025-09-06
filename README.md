@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Excited to share that HotDog Training was selected as one of the top Bolt hackathon winners for the RevenuCat challenge! Ana and I are just getting started 🐶](https://dev.to/chrislally/excited-to-share-that-hotdog-training-was-selected-as-one-of-the-top-bolt-hackathon-winners-for-the-59o5)
+- [Meta Horizon Worlds Hackathon](https://dev.to/chrislally/meta-horizon-worlds-hackathon-1952)
 - [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
 - [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
-- [Before Kamal: How to Set Up a VM, Domain, and Dockerfile the Easy Way](https://dev.to/kevinluo201/before-kamal-how-to-set-up-a-vm-domain-and-dockerfile-the-easy-way-3ih7)
-- [🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification](https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1)
 <!-- BLOG-POST-LIST:END -->
 
