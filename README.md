@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-41: 🚀Google Cloud Run Services - Create Service, Traffic Management, Autoscaling, Revisions and Versions](https://dev.to/latchudevops/part-41-google-cloud-run-services-create-service-traffic-management-autoscaling-revisions-3c0i)
-- [🚀 Hey, I’m Faisal – And My First Blog is Live!](https://dev.to/blaze_faisal/hey-im-faisal-and-my-first-blog-is-live-19cb)
-- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)
-- [Cyber Shield: Unlocking the Future of Web Security with Best Practices](https://dev.to/vjnvisakh/cyber-shield-unlocking-the-future-of-web-security-with-best-practices-25f9)
+- [When My Parents Learned to Order Takeout: A Tech Worker’s Mission to Bridge the Digital Divide](https://dev.to/yuzhuo_belinda_wu_5809ec4/when-my-parents-learned-to-order-takeout-a-tech-workers-mission-to-bridge-the-digital-divide-1kp5)
+- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
+- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
+- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
 <!-- BLOG-POST-LIST:END -->
 
