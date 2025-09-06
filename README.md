@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Actually Hit $10K MRR in 2025 &lpar;No BS, Just What Works&rpar;](https://dev.to/shayy/how-to-actually-hit-10k-mrr-in-2025-no-bs-just-what-works-204k)
-- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
-- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
-- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
+- [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
+- [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
+- [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
+- [Managing Multiple Xcode Versions with Xcodes.app](https://dev.to/markkazakov/managing-multiple-xcode-versions-with-xcodesapp-3ini)
 <!-- BLOG-POST-LIST:END -->
 
