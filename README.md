@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
-- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
-- [🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India &amp; Prime Day Scale](https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4)
-- [🚀 Mini Monitoring App in Go with Prometheus, Grafana &amp; CI/CD](https://dev.to/negin/mini-monitoring-app-in-go-with-prometheus-grafana-cicd-f50)
+- [The Friendly Guide: &quot;Why WSL is Eating My C: Drive &lpar;and How to Get it Back&rpar;&quot;](https://dev.to/rasulmmdv/the-friendly-guide-why-wsl-is-eating-my-c-drive-and-how-to-get-it-back-15p8)
+- [🕵️‍♀️ Shift-Left Testing: Myths, Misconceptions &amp; the Real Story](https://dev.to/abdulosman/shift-left-testing-myths-misconceptions-the-real-story-44mh)
+- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
+- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
 <!-- BLOG-POST-LIST:END -->
 
