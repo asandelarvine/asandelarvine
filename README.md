@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Excited to share that HotDog Training was selected as one of the top Bolt hackathon winners for the RevenuCat challenge! Ana and I are just getting started 🐶](https://dev.to/chrislally/excited-to-share-that-hotdog-training-was-selected-as-one-of-the-top-bolt-hackathon-winners-for-the-59o5)
-- [Meta Horizon Worlds Hackathon](https://dev.to/chrislally/meta-horizon-worlds-hackathon-1952)
-- [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
-- [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
+- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
+- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
+- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
+- [NPR Music: AMERICANAFEST Day Stage 2025: Thursday, Sept. 11](https://dev.to/music_youtube/npr-music-americanafest-day-stage-2025-thursday-sept-11-1ep4)
 <!-- BLOG-POST-LIST:END -->
 
