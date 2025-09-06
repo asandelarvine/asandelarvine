@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Warehouses to Libraries: Understanding Data on AWS the Easy Way](https://dev.to/jatin_goel_dac08bb6728f1e/from-warehouses-to-libraries-understanding-data-on-aws-the-easy-way-4kmi)
-- [Benchmarking PostgreSQL Drivers in Node.js: node-postgres vs postgres.js](https://dev.to/nigrosimone/benchmarking-postgresql-drivers-in-nodejs-node-postgres-vs-postgresjs-17kl)
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
-- [Difference Between JDK, JRE, and JVM in Java for Developers](https://dev.to/codepractice/difference-between-jdk-jre-and-jvm-in-java-for-developers-4nke)
+- [Spring Boot Events Tutorial](https://dev.to/sadiul_hakim/spring-boot-events-tutorial-2obh)
+- [OpenAI partners with Broadcom to develop custom AI chip, aiming for in-house launch next year](https://dev.to/ytosko/openai-partners-with-broadcom-to-develop-custom-ai-chip-aiming-for-in-house-launch-next-year-4o3k)
+- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
+- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
 <!-- BLOG-POST-LIST:END -->
 
