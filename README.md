@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que estudar programação só na faculdade não te transforma em programador](https://dev.to/davittiw/por-que-estudar-programacao-so-na-faculdade-nao-te-transforma-em-programador-21mc)
-- [SkyQuest: A story-coded python app for scheduling astrophotography sessions](https://dev.to/ant_smith_e85a60e94fded6b/skyquest-a-story-coded-python-app-for-scheduling-astrophotography-sessions-kfk)
-- [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
-- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
+- [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
+- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
+- [🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India &amp; Prime Day Scale](https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4)
+- [🚀 Mini Monitoring App in Go with Prometheus, Grafana &amp; CI/CD](https://dev.to/negin/mini-monitoring-app-in-go-with-prometheus-grafana-cicd-f50)
 <!-- BLOG-POST-LIST:END -->
 
