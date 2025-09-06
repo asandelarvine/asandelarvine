@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-39: 🔐 GCE VM Authentication in Google Cloud Platform](https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk)
-- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
-- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
-- [Mastering Null and Undefined in JavaScript](https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb)
+- [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
+- [100 Days of DevOps, Day 1: Understanding Linux User Management and Shells](https://dev.to/olymahmud/100-days-of-devops-day-1-understanding-linux-user-management-and-shells-4f8n)
+- [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
+- [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
 <!-- BLOG-POST-LIST:END -->
 
