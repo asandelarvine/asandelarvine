@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Friendly Guide: &quot;Why WSL is Eating My C: Drive &lpar;and How to Get it Back&rpar;&quot;](https://dev.to/rasulmmdv/the-friendly-guide-why-wsl-is-eating-my-c-drive-and-how-to-get-it-back-15p8)
-- [🕵️‍♀️ Shift-Left Testing: Myths, Misconceptions &amp; the Real Story](https://dev.to/abdulosman/shift-left-testing-myths-misconceptions-the-real-story-44mh)
-- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo)
-- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
+- [How to Actually Hit $10K MRR in 2025 &lpar;No BS, Just What Works&rpar;](https://dev.to/shayy/how-to-actually-hit-10k-mrr-in-2025-no-bs-just-what-works-204k)
+- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
+- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
+- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
 <!-- BLOG-POST-LIST:END -->
 
