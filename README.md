@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Index Problem: When You Need to Know Where You Are in Your Stream](https://dev.to/arashariani/the-index-problem-when-you-need-to-know-where-you-are-in-your-stream-4a3a)
-- [IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer](https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3)
-- [Paralelismo em Python para Engenharia de Dados: O Segredo das Tarefas I/O-Bound](https://dev.to/_richardson_/paralelismo-em-python-para-engenharia-de-dados-o-segredo-das-tarefas-io-bound-4edi)
-- [Managing Multiple Xcode Versions with Xcodes.app](https://dev.to/markkazakov/managing-multiple-xcode-versions-with-xcodesapp-3ini)
+- [Real DevOps Learning: Beyond Tools – Full Project, Architecture, and Workflow Insights](https://dev.to/srinivasamcjf/real-devops-learning-beyond-tools-full-project-architecture-and-workflow-insights-11ic)
+- [Oracle 19c — Audit Only Top-Level SQL Statements](https://dev.to/vahidusefzadeh/oracle-19c-audit-only-top-level-sql-statements-hlo)
+- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
+- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
 <!-- BLOG-POST-LIST:END -->
 
