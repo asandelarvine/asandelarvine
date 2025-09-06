@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Wait for an Accident. This AI Tool Spots Hazards Before Your Baby Does.](https://dev.to/dirsebastian/dont-wait-for-an-accident-this-ai-tool-spots-hazards-before-your-baby-does-2le0)
+- [Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio](https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1)
 - [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
 - [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
-- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
-- [NPR Music: AMERICANAFEST Day Stage 2025: Thursday, Sept. 11](https://dev.to/music_youtube/npr-music-americanafest-day-stage-2025-thursday-sept-11-1ep4)
 <!-- BLOG-POST-LIST:END -->
 
