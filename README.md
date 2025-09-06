@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup a LAMP Server at Home Using AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/alanvarghese-dev/how-to-setup-a-lamp-server-at-home-using-aws-step-by-step-guide-5904)
-- [Day 20 - Github Card project Part 3 - Styling](https://dev.to/railsstudent/day-20-github-card-project-part-3-styling-371d)
-- [The Fake That Makes Us Real: How GANs Are Rewiring Imagination](https://dev.to/naresh_82de734ade4c1c66d9/the-fake-that-makes-us-real-how-gans-are-rewiring-imagination-3kam)
-- [TRAVEL360 : Explore, Selfie, Share — Boosted by Gemini Nano Banana](https://dev.to/amine_zamani_c29c02303ef9/travel360-by-amine-zamani-4m6p)
+- [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
+- [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
+- [Before Kamal: How to Set Up a VM, Domain, and Dockerfile the Easy Way](https://dev.to/kevinluo201/before-kamal-how-to-set-up-a-vm-domain-and-dockerfile-the-easy-way-3ih7)
+- [🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification](https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1)
 <!-- BLOG-POST-LIST:END -->
 
