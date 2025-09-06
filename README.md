@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Paid $1.5B for Using Pirated Books to Train Claude - Here&#39;s What This Means for Developers](https://dev.to/shiva_shanker_k/anthropic-just-paid-15b-for-using-pirated-books-to-train-claude-heres-what-this-means-for-2g8e)
-- [How to Setup n8n on locally](https://dev.to/waseem_sabbah/how-to-setup-n8n-on-locally-3m82)
-- [Bash Aliases in examples for Ubuntu: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-aliases-in-ubuntu-a-complete-guide-198p)
-- [The Death of Passwords is Overhyped: Why Enterprises Will Always Need Multi-Layered Identity](https://dev.to/leonardkachi/the-death-of-passwords-is-overhyped-why-enterprises-will-always-need-multi-layered-identity-3nkn)
+- [Part-41: 🚀Google Cloud Run Services - Create Service, Traffic Management, Autoscaling, Revisions and Versions](https://dev.to/latchudevops/part-41-google-cloud-run-services-create-service-traffic-management-autoscaling-revisions-3c0i)
+- [🚀 Hey, I’m Faisal – And My First Blog is Live!](https://dev.to/blaze_faisal/hey-im-faisal-and-my-first-blog-is-live-19cb)
+- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/kirodotdev/building-personaprep-an-ai-personality-coach-with-kiro-8mn)
+- [Cyber Shield: Unlocking the Future of Web Security with Best Practices](https://dev.to/vjnvisakh/cyber-shield-unlocking-the-future-of-web-security-with-best-practices-25f9)
 <!-- BLOG-POST-LIST:END -->
 
