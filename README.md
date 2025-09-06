@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Wait for an Accident. This AI Tool Spots Hazards Before Your Baby Does.](https://dev.to/dirsebastian/dont-wait-for-an-accident-this-ai-tool-spots-hazards-before-your-baby-does-2le0)
-- [Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio](https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1)
-- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
-- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
+- [Part-39: 🔐 GCE VM Authentication in Google Cloud Platform](https://dev.to/latchudevops/part-39-gce-vm-authentication-in-google-cloud-platform-3nhk)
+- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
+- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
+- [Mastering Null and Undefined in JavaScript](https://dev.to/adrahi/mastering-null-and-undefined-in-javascript-10bb)
 <!-- BLOG-POST-LIST:END -->
 
