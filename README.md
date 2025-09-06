@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHY I STARTED LEETCODE!!](https://dev.to/yashir934/why-i-started-leetcode-gkm)
-- [Mastering the CAP Theorem: A Simple Guide for System Design Interviews](https://dev.to/er_arpit_garg/mastering-the-cap-theorem-a-simple-guide-for-system-design-interviews-1ebd)
-- [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
-- [When Not to Use useEffect in React](https://dev.to/ayako_yk/when-not-to-use-useeffect-in-react-210o)
+- [Anthropic Just Paid $1.5B for Using Pirated Books to Train Claude - Here&#39;s What This Means for Developers](https://dev.to/shiva_shanker_k/anthropic-just-paid-15b-for-using-pirated-books-to-train-claude-heres-what-this-means-for-2g8e)
+- [How to Setup n8n on locally](https://dev.to/waseem_sabbah/how-to-setup-n8n-on-locally-3m82)
+- [Bash Aliases in examples for Ubuntu: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-aliases-in-ubuntu-a-complete-guide-198p)
+- [The Death of Passwords is Overhyped: Why Enterprises Will Always Need Multi-Layered Identity](https://dev.to/leonardkachi/the-death-of-passwords-is-overhyped-why-enterprises-will-always-need-multi-layered-identity-3nkn)
 <!-- BLOG-POST-LIST:END -->
 
