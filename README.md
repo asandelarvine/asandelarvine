@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real DevOps Learning: Beyond Tools – Full Project, Architecture, and Workflow Insights](https://dev.to/srinivasamcjf/real-devops-learning-beyond-tools-full-project-architecture-and-workflow-insights-11ic)
-- [Oracle 19c — Audit Only Top-Level SQL Statements](https://dev.to/vahidusefzadeh/oracle-19c-audit-only-top-level-sql-statements-hlo)
-- [Any tips for making Google AI studio keep existing functionality?](https://dev.to/_bigblind/any-tips-for-making-google-ai-studio-keep-existing-functionality-4emk)
-- [Almost 2 Months of Gentoo, The Journey So Far!](https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46)
+- [From Analog to Digital: Signal Simulation](https://dev.to/sajibpra/from-analog-to-digital-signal-simulation-31h1)
+- [Running Your Expo App on a Real Device for Testing](https://dev.to/andrewchaa/running-your-expo-app-on-a-real-device-for-testing-3ci)
+- [Must read](https://dev.to/drmikecrowe/must-read-1m1o)
+- [👋 Hello, new community member here](https://dev.to/alexey0511/hello-new-community-member-here-nl0)
 <!-- BLOG-POST-LIST:END -->
 
