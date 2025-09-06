@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
-- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
-- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
-- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
+- [Por que estudar programação só na faculdade não te transforma em programador](https://dev.to/davittiw/por-que-estudar-programacao-so-na-faculdade-nao-te-transforma-em-programador-21mc)
+- [SkyQuest: A story-coded python app for scheduling astrophotography sessions](https://dev.to/ant_smith_e85a60e94fded6b/skyquest-a-story-coded-python-app-for-scheduling-astrophotography-sessions-kfk)
+- [Cross-Compiling Linux Kernel Module: A Hands-On Guide](https://dev.to/samar_lass_27db28cecec23c/cross-compiling-linux-kernel-module-a-hands-on-guide-b7d)
+- [Coding vs Programming: Key Differences for Beginners](https://dev.to/roghaye_mohammadi_84/coding-vs-programming-key-differences-for-beginners-22gf)
 <!-- BLOG-POST-LIST:END -->
 
