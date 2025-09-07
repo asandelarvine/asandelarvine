@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From AI User to AI Builder: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
-- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
-- [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
-- [Smart Logging in .NET with Serilog](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
+- [Framepack AI](https://dev.to/leo_king_25a8aa998a261145/framepack-ai-28h1)
+- [Building a MAC Address Changer in Python: My System-Level Networking Journey](https://dev.to/trifalic/building-a-mac-address-changer-in-python-my-system-level-networking-journey-27p3)
+- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj)
+- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368)
 <!-- BLOG-POST-LIST:END -->
 
