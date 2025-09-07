@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
-- [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
-- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
-- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
+- [WhatsApp Knowledge Miner: Transforming Group Chats into a Searchable Knowledge Base](https://dev.to/danish_ali_6d212f8037d082/whatsapp-knowledge-miner-transforming-group-chats-into-a-searchable-knowledge-base-4e4d)
+- [How to generate PDF that supports modern CSS such as Tailwind](https://dev.to/shamsadanam/how-to-generate-pdf-that-supports-modern-css-such-as-tailwind-3h53)
+- [Unveiling the Web&#39;s Shadow: Clickjacking Threats and Defenses](https://dev.to/vjnvisakh/unveiling-the-webs-shadow-clickjacking-threats-and-defenses-3260)
+- [Modern Micro Frontend Template and Demo](https://dev.to/paulsebastianmanole/modern-micro-frontend-template-and-demo-4ia4)
 <!-- BLOG-POST-LIST:END -->
 
