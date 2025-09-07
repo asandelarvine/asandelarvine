@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
-- [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
-- [🩺 NephroPredict: Machine Learning for Chronic Kidney Disease Detection](https://dev.to/abubakar_shabbir/nephropredict-machine-learning-for-chronic-kidney-disease-detection-2nc8)
-- [Day 44: Relational Database Service in AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-44-relational-database-service-in-aws-9j5)
+- [Building Effective MCP Servers: Patterns for AI Collaboration](https://dev.to/jjn1056/building-effective-mcp-servers-patterns-for-ai-collaboration-55gg)
+- [Rick Beato: Building a Genesis Masterpiece: A Layer-by-Layer Track Analysis](https://dev.to/music_youtube/rick-beato-building-a-genesis-masterpiece-a-layer-by-layer-track-analysis-3h38)
+- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-1kn)
+- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
 <!-- BLOG-POST-LIST:END -->
 
