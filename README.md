@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Svelte Motion &amp; Theming Guide: Transitions, Animations, and Dark Mode Explained](https://dev.to/a1guy/svelte-motion-theming-guide-transitions-animations-and-dark-mode-explained-4e3h)
-- [Closure, Fetch and Axios in Javascript](https://dev.to/vidya_varshini/closure-fetch-and-axios-in-javascript-3iii)
-- [Java Stream Gatherer Tutorial](https://dev.to/sadiul_hakim/java-stream-gatherer-tutorial-391l)
-- [Video Calls Are Harder Than They Look &lpar;Thanks, NAT!&rpar;](https://dev.to/imabhinavdev/video-calls-are-harder-than-they-look-thanks-nat-3g2f)
+- [Security as Physics: Thinking About Networks Like Energy Systems](https://dev.to/leonardkachi/security-as-physics-thinking-about-networks-like-energy-systems-5110)
+- [Promise, Callback Hell, Synchronous and Asynchronous in Javascript](https://dev.to/vidya_varshini/promise-callback-hell-synchronous-and-asynchronous-in-javascript-21lm)
+- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
+- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
 <!-- BLOG-POST-LIST:END -->
 
