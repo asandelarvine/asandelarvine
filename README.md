@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 88: When Criticism Backfires Spectacularly](https://dev.to/casperday11/day-88-when-criticism-backfires-spectacularly-hjo)
-- [Certificates and Digital Trust: Why the Web Believes a Website](https://dev.to/naval_upadhyay/certificates-and-digital-trust-why-the-web-believes-a-website-4771)
-- [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
-- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
+- [Foundation – Networking &amp; IAM](https://dev.to/bikash119/foundation-networking-iam-1pc9)
+- [IAM Roles &amp; Instance Profiles](https://dev.to/bikash119/iam-roles-instance-profiles-4fkd)
+- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
+- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a)
 <!-- BLOG-POST-LIST:END -->
 
