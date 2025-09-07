@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
-- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
-- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
-- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
+- [Mastering Email Rate Limits — A Deep Dive into Resend API and Cloud Run Debugging](https://dev.to/dalenguyen/mastering-email-rate-limits-a-deep-dive-into-resend-api-and-cloud-run-debugging-3973)
+- [Участвай в състезания за програмиране &lpar;олимпиади, hackathons и други&rpar;!](https://dev.to/dvt32/uchastvai-v-sstiezaniia-za-proghramiranie-olimpiadi-hackathons-i-drughi-4jnp)
+- [🚀 I built SecureGen – a lightweight password generator in JavaScript](https://dev.to/adools/i-built-securegen-a-lightweight-password-generator-in-javascript-2145)
+- [[Boost]](https://dev.to/devpromptly/-25oo)
 <!-- BLOG-POST-LIST:END -->
 
