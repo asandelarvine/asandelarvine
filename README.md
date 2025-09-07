@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Email Rate Limits — A Deep Dive into Resend API and Cloud Run Debugging](https://dev.to/dalenguyen/mastering-email-rate-limits-a-deep-dive-into-resend-api-and-cloud-run-debugging-3973)
-- [Участвай в състезания за програмиране &lpar;олимпиади, hackathons и други&rpar;!](https://dev.to/dvt32/uchastvai-v-sstiezaniia-za-proghramiranie-olimpiadi-hackathons-i-drughi-4jnp)
-- [🚀 I built SecureGen – a lightweight password generator in JavaScript](https://dev.to/adools/i-built-securegen-a-lightweight-password-generator-in-javascript-2145)
-- [[Boost]](https://dev.to/devpromptly/-25oo)
+- [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
+- [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
+- [Apigee API Product Design](https://dev.to/mahmoudsayed96/apigee-api-product-design-4pnd)
+- [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
 <!-- BLOG-POST-LIST:END -->
 
