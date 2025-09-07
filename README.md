@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Dapper vs. EF Core: Performance Showdown in 2025](https://dev.to/dev_saeid_ghaderi/dapper-vs-ef-core-performance-showdown-in-2025-4j32)
-- [What is Programming ?](https://dev.to/xetri/what-is-programming--218o)
-- [Top 5 Web Tools for URL Decode](https://dev.to/devtoolreview/top-5-web-tools-for-url-decode-2c62)
-- [Exporting Google docs to Markdown and HTML](https://dev.to/faisal_software/exporting-google-docs-to-markdown-and-html-4eno)
+- [Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS &lpar;for Beginners&rpar;](https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde)
+- [Built gh-pm: A GitHub CLI Extension to Manage GitHub Projects with LLMs](https://dev.to/yahsan2/i-built-gh-pm-a-github-cli-extension-to-manage-github-projects-with-llms-4pi4)
+- [5 Best Free Planning Poker Tools for Agile Teams in 2025](https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02)
+- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3)
 <!-- BLOG-POST-LIST:END -->
 
