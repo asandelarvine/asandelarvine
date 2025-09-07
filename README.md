@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
-- [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
-- [My 3-Step Workflow for Turning Ideas into Articles with AI](https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5)
-- [Weekly Reflection: Small Wins, Big Growth](https://dev.to/akshathashivakumar/weekly-reflection-small-wins-big-growth-5a61)
+- [Migrating from Kubernetes Ingress to Gateway API: A Step-by-Step Guide](https://dev.to/kelvinmanavar/migrating-from-kubernetes-ingress-to-gateway-api-a-step-by-step-guide-5bhi)
+- [LifeLens – My Multimodal Health &amp; Wellness Companion](https://dev.to/rohit_mane_0c56c05bfdcc75/lifelens-my-multimodal-health-wellness-companion-42g4)
+- [Episode 16: Docker Compose — Multi-Container Applications](https://dev.to/yash_sonawane25/episode-16-docker-compose-multi-container-applications-354i)
+- [Controller, useControlller&lpar;&rpar;, and register&lpar;&rpar; in react-hook-form](https://dev.to/algoorgoal/controller-usecontrolller-and-register-in-react-hook-form-ajh)
 <!-- BLOG-POST-LIST:END -->
 
