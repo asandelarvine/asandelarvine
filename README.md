@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS &lpar;for Beginners&rpar;](https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde)
-- [Built gh-pm: A GitHub CLI Extension to Manage GitHub Projects with LLMs](https://dev.to/yahsan2/i-built-gh-pm-a-github-cli-extension-to-manage-github-projects-with-llms-4pi4)
-- [5 Best Free Planning Poker Tools for Agile Teams in 2025](https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02)
-- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3)
+- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
+- [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
+- [My 3-Step Workflow for Turning Ideas into Articles with AI](https://dev.to/jaideepparashar/my-3-step-workflow-for-turning-ideas-into-articles-with-ai-2ja5)
+- [Weekly Reflection: Small Wins, Big Growth](https://dev.to/akshathashivakumar/weekly-reflection-small-wins-big-growth-5a61)
 <!-- BLOG-POST-LIST:END -->
 
