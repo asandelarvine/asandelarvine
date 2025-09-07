@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Facade Design Pattern in Python...](https://dev.to/sommukhopadhyay/facade-design-pattern-in-python-29bi)
-- [Use of Gaussian Filter to remove noise from Image](https://dev.to/sommukhopadhyay/use-of-gaussian-filter-to-remove-noise-from-image-4g6d)
-- [FFT based simple Spectrum Analyzer with Source Code](https://dev.to/sommukhopadhyay/fft-based-simple-spectrum-analyzer-with-source-code-98p)
-- [The State Design pattern in C++ using timer and notification](https://dev.to/sommukhopadhyay/the-state-design-pattern-in-c-using-timer-and-notification-bod)
+- [Svelte Motion &amp; Theming Guide: Transitions, Animations, and Dark Mode Explained](https://dev.to/a1guy/svelte-motion-theming-guide-transitions-animations-and-dark-mode-explained-4e3h)
+- [Closure, Fetch and Axios in Javascript](https://dev.to/vidya_varshini/closure-fetch-and-axios-in-javascript-3iii)
+- [Java Stream Gatherer Tutorial](https://dev.to/sadiul_hakim/java-stream-gatherer-tutorial-391l)
+- [Video Calls Are Harder Than They Look &lpar;Thanks, NAT!&rpar;](https://dev.to/imabhinavdev/video-calls-are-harder-than-they-look-thanks-nat-3g2f)
 <!-- BLOG-POST-LIST:END -->
 
