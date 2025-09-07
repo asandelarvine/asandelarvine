@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
-- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
-- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
-- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
+- [My Experience Fixing clasp Login Errors on Google Workspace](https://dev.to/yo-shi/my-experience-fixing-clasp-login-errors-on-google-workspace-3nh)
+- [Linux Repository Mirroring Made Simple](https://dev.to/thebluedrara/linux-repository-mirroring-made-simple-4gm2)
+- [Task.WhenEach in .NET: Process Tasks as They Complete](https://dev.to/morteza-jangjoo/taskwheneach-in-net-process-tasks-as-they-complete-4bja)
+- [Hack The Box - Synced &lpar;rsync&rpar;](https://dev.to/er/hack-the-box-synced-rsync-302h)
 <!-- BLOG-POST-LIST:END -->
 
