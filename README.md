@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python Modules, Packages &amp; Namespaces From Basics to Behind the Scenes](https://dev.to/anik_sikder_313/mastering-python-modules-packages-namespaces-from-basics-to-behind-the-scenes-4hno)
-- [Aard 2](https://dev.to/1prasanth0/aard-2-26ff)
-- [Apigee API Product Design](https://dev.to/mahmoudsayed96/apigee-api-product-design-4pnd)
-- [Anti-Influence Suit — Armor for the Feed](https://dev.to/viablemedia/anti-influence-suit-armor-for-the-feed-4d44)
+- [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
+- [IGN: Dreadcore: Locked Unit – Official Gameplay Trailer](https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8)
+- [The Staging Strikes Back: Safer Emails in Laravel with Mailpit](https://dev.to/killallskywalker/the-staging-strikes-back-safer-emails-in-laravel-with-mailpit-2bp5)
+- [How to Use Semantic Versioning and Conventional Commits With Husky](https://dev.to/fedtti/how-to-use-semantic-versioning-and-conventional-commits-with-husky-1g6i)
 <!-- BLOG-POST-LIST:END -->
 
