@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding DNS: From Root Servers to resolv.conf](https://dev.to/thenanjay/understanding-dns-from-root-servers-to-resolvconf-4e6a)
-- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g)
-- [✅ *Essential Data Structures You Should Know* 🔍💻](https://dev.to/ssekabirarobertsims/essential-data-structures-you-should-know-2c1a)
-- [A Disciplined Approach to AI-Assisted Software Development](https://dev.to/varietyz/a-disciplined-approach-to-ai-assisted-software-development-3e6i)
+- [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
+- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
+- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
+- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
 <!-- BLOG-POST-LIST:END -->
 
