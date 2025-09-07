@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
-- [IGN: Dreadcore: Locked Unit – Official Gameplay Trailer](https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8)
-- [The Staging Strikes Back: Safer Emails in Laravel with Mailpit](https://dev.to/killallskywalker/the-staging-strikes-back-safer-emails-in-laravel-with-mailpit-2bp5)
-- [How to Use Semantic Versioning and Conventional Commits With Husky](https://dev.to/fedtti/how-to-use-semantic-versioning-and-conventional-commits-with-husky-1g6i)
+- [Migrating a Local Multi-Agent Travel System to AWS Bedrock AgentCore&lpar;Part 3&rpar;](https://dev.to/hvmathan/migrating-a-local-multi-agent-travel-system-to-aws-bedrock-agentcorepart-3-45eh)
+- [Manage your n8n workflows and API directly from PHP](https://dev.to/usmanzahidcode/manage-your-n8n-workflows-and-api-directly-from-php-no3)
+- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
+- [All about Big O Notation](https://dev.to/extinctsion/all-about-big-o-notation-20j8)
 <!-- BLOG-POST-LIST:END -->
 
