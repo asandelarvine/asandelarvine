@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Kubernetes Ingress to Gateway API: A Step-by-Step Guide](https://dev.to/kelvinmanavar/migrating-from-kubernetes-ingress-to-gateway-api-a-step-by-step-guide-5bhi)
-- [LifeLens – My Multimodal Health &amp; Wellness Companion](https://dev.to/rohit_mane_0c56c05bfdcc75/lifelens-my-multimodal-health-wellness-companion-42g4)
-- [Episode 16: Docker Compose — Multi-Container Applications](https://dev.to/yash_sonawane25/episode-16-docker-compose-multi-container-applications-354i)
-- [Controller, useControlller&lpar;&rpar;, and register&lpar;&rpar; in react-hook-form](https://dev.to/algoorgoal/controller-usecontrolller-and-register-in-react-hook-form-ajh)
+- [From AI User to AI Builder: The Four Skills That Change Everything](https://dev.to/jimmyshoe85/from-ai-user-to-ai-builder-the-four-skills-that-change-everything-3hei)
+- [Conditionals in Svelte — {#if}, {:else}, and Nesting Explained](https://dev.to/a1guy/conditionals-in-svelte-if-else-and-nesting-explained-4ie3)
+- [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
+- [Smart Logging in .NET with Serilog](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
 <!-- BLOG-POST-LIST:END -->
 
