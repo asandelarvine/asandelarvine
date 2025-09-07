@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Effective MCP Servers: Patterns for AI Collaboration](https://dev.to/jjn1056/building-effective-mcp-servers-patterns-for-ai-collaboration-55gg)
-- [Rick Beato: Building a Genesis Masterpiece: A Layer-by-Layer Track Analysis](https://dev.to/music_youtube/rick-beato-building-a-genesis-masterpiece-a-layer-by-layer-track-analysis-3h38)
-- [Irish-Name-Repo 2 - picoCTF &#39;19 &lpar;web&rpar;](https://dev.to/davidonlinearchive/irish-name-repo-2-picoctf-19-web-1kn)
-- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
+- [The Definitive Guide to OpenGL VBOs, VAOs, and EBOs](https://dev.to/deyan2306/the-definitive-guide-to-opengl-vbos-vaos-and-ebos-1j0)
+- [Auto-Translate WordPress Posts with GPT + WPML &lpar;Build Your Own Plugin&rpar;](https://dev.to/adil-hl/auto-translate-wordpress-posts-with-gpt-wpml-build-your-own-plugin-138b)
+- [Especificações: Escreva uma vez, rode em qualquer lugar](https://dev.to/asouza/especificacoes-escreva-uma-vez-rode-em-qualquer-lugar-2ih6)
+- [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
 <!-- BLOG-POST-LIST:END -->
 
