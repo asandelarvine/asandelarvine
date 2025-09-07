@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Foundation – Networking &amp; IAM](https://dev.to/bikash119/foundation-networking-iam-1pc9)
-- [IAM Roles &amp; Instance Profiles](https://dev.to/bikash119/iam-roles-instance-profiles-4fkd)
-- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607)
-- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a)
+- [My FIRST EVER PORTFOLIO website](https://dev.to/wleahk98/my-first-ever-portfolio-website-2na2)
+- [WordPress admin menu editor - Control Dashboard - No Plugin](https://dev.to/jemeeroy/wordpress-admin-menu-editor-2peb)
+- [What I Learned Building Taco Empleos](https://dev.to/sebastian_arielbonetti_8/what-i-learned-building-taco-empleos-p7d)
+- [Three &lpar;3&rpar; Tips for efficient SQL Queries](https://dev.to/tkouleris/three-3-tips-for-efficient-sql-queries-17e3)
 <!-- BLOG-POST-LIST:END -->
 
