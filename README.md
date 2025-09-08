@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiency additions in ES6](https://dev.to/lealonwolfe/efficiency-additions-in-es6-59j0)
-- [Building a Real-Time Chat App with MERN &amp; Socket.IO: A Beginner&#39;s Journey](https://dev.to/web_afsanakeya_532c5740b/building-a-real-time-chat-app-with-mern-socketio-a-beginners-journey-1kpa)
-- [Vibe Coding for Enterprises: Can It Truly Scale in 2025?](https://dev.to/mahadi_uptech/vibe-coding-for-enterprises-can-it-truly-scale-in-2025-2lc9)
-- [SEO Técnico para Portfolios: Estrategias que Mejoraron mi Visibilidad en Google](https://dev.to/raidrdev/seo-tecnico-para-portfolios-estrategias-que-mejoraron-mi-visibilidad-en-google-okk)
+- [Are We Too Dependent on Frameworks? The Risks Developers Rarely Discuss](https://dev.to/devtechinsights/are-we-too-dependent-on-frameworks-the-risks-developers-rarely-discuss-l6d)
+- [I built a free UML tool for devs — feedback welcome!](https://dev.to/jotapy79/i-built-a-free-uml-tool-for-devs-feedback-welcome-401b)
+- [Kubernetes Storage Playlist - Part 4: Implementing Amazon S3 Storage with EKS using Terraform and and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-4-implementing-amazon-s3-storage-with-eks-using-terraform-and-3n59)
+- [Design your Laravel database schema for optimal query performance.](https://dev.to/usmanzahidcode/design-your-laravel-database-schema-for-optimal-query-performance-23hm)
 <!-- BLOG-POST-LIST:END -->
 
