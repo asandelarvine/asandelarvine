@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying LangChain: Building Your First LLM-Powered Application](https://dev.to/anshc022/demystifying-langchain-building-your-first-llm-powered-application-5e7a)
-- [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
-- [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
-- [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
+- [Stop Using Git Like a Junior](https://dev.to/proflead/stop-using-git-like-a-junior-2kje)
+- [Open Source Template for AI Support Chatbot](https://dev.to/rryyqn/open-source-template-for-ai-support-chatbot-1g89)
+- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
+- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
 <!-- BLOG-POST-LIST:END -->
 
