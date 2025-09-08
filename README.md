@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
-- [KubeEdge](https://dev.to/minwook/kubeedge-4j9j)
-- [Fume Extractors: Taming Air for Tiny Stars 🌬️](https://dev.to/ersajay/fume-extractors-taming-air-for-tiny-stars-3900)
-- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
+- [Build Better Dashboards, Faster: Introducing Spike, the Next.js Admin Template](https://dev.to/isanjayjoshi/build-better-dashboards-faster-introducing-spike-the-nextjs-admin-template-4c0j)
+- [在 WebAssembly 中使用 SIMD（一）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simd--1aj2)
+- [Keeping Your AI Agents Under Control: Tool Max Tries in Neuron V2](https://dev.to/inspector/keeping-your-ai-agents-under-control-tool-max-tries-in-neuron-v2-5m7)
+- [ChatGPT Called Me &#39;Unconventional.&#39; It Unlocked a Lesson From Vietnam&#39;s Greatest General.](https://dev.to/skill-wanderer/chatgpt-called-me-unconventional-it-unlocked-a-lesson-from-vietnams-greatest-general-13nb)
 <!-- BLOG-POST-LIST:END -->
 
