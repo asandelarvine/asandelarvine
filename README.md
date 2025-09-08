@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
-- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
-- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
-- [A few days ago, I was scrolling through YouTube playlists, thinking..](https://dev.to/muhammad_rabbi_dev/a-few-days-ago-i-was-scrolling-through-youtube-playlists-thinking-6kh)
+- [Serving Private Files from Backblaze B2 in FastAPI](https://dev.to/mumbere_darius_ed30fc85dc/serving-private-files-from-backblaze-b2-in-fastapi-3lpo)
+- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
+- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37)
+- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j)
 <!-- BLOG-POST-LIST:END -->
 
