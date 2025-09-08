@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Redis: Installation Guide](https://dev.to/bravian1/getting-started-with-redis-installation-guide-545b)
-- [“What I Learned From Going a Week Without My Laptop”](https://dev.to/swastika_bhattacharjee_aa/what-i-learned-from-going-a-week-without-my-laptop-23jk)
-- [How to Boot Your Raspberry Pi from USB &lpar;and Ditch Unreliable SD Cards&rpar;](https://dev.to/david_thomas/how-to-boot-your-raspberry-pi-from-usb-and-ditch-unreliable-sd-cards-f8m)
-- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
+- [Understanding the Differences Between Subqueries, CTEs, and Stored Procedures](https://dev.to/patrickkinoti/understanding-the-differences-between-subqueries-ctes-and-stored-procedures-3b75)
+- [🛠️ Was tired of duct-taping APIs and breaking ETL pipelines… RavenDB just dropped an AI Agent Creator inside the database. Finally feels like AI that won’t collapse on me.](https://dev.to/thedeepseeker/was-tired-of-duct-taping-apis-and-breaking-etl-pipelines-ravendb-just-dropped-an-ai-agent-5c06)
+- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
+- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
 <!-- BLOG-POST-LIST:END -->
 
