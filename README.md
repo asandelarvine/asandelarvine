@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Definitive Guide to OpenGL VBOs, VAOs, and EBOs](https://dev.to/deyan2306/the-definitive-guide-to-opengl-vbos-vaos-and-ebos-1j0)
-- [Auto-Translate WordPress Posts with GPT + WPML &lpar;Build Your Own Plugin&rpar;](https://dev.to/adil-hl/auto-translate-wordpress-posts-with-gpt-wpml-build-your-own-plugin-138b)
-- [Especificações: Escreva uma vez, rode em qualquer lugar](https://dev.to/asouza/especificacoes-escreva-uma-vez-rode-em-qualquer-lugar-2ih6)
-- [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
+- [Automating Unit Test Generation in Java: Why I Built My Own Tool](https://dev.to/rajeev_ranjan_e54cfa19cd8/automating-unit-test-generation-in-java-why-i-built-my-own-tool-3m9k)
+- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
+- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
+- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
 <!-- BLOG-POST-LIST:END -->
 
