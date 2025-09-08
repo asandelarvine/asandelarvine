@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Bloom Filters: The Fast &amp; Memory-Efficient Way to Check Membership](https://dev.to/vipra_tech_solutions/bloom-filters-the-fast-memory-efficient-way-to-check-membership-5hee)
-- [Dapp-enhance-system-privacy](https://dev.to/rushikesh_pundkar_913318c/dapp-enhance-system-privacy-373a)
-- [🛡️ Data quality, SQL, duckdb and http_client on CI🦆](https://dev.to/adriens/data-quality-sql-duckdb-and-httpclient-on-ci-22)
-- [Monitoring in the Age of Complexity: 5 Assumptions CIOs Need to Rethink](https://dev.to/catchpoint/monitoring-in-the-age-of-complexity-5-assumptions-cios-need-to-rethink-1gh4)
+- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
+- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
+- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
+- [A few days ago, I was scrolling through YouTube playlists, thinking..](https://dev.to/muhammad_rabbi_dev/a-few-days-ago-i-was-scrolling-through-youtube-playlists-thinking-6kh)
 <!-- BLOG-POST-LIST:END -->
 
