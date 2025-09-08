@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serving Private Files from Backblaze B2 in FastAPI](https://dev.to/mumbere_darius_ed30fc85dc/serving-private-files-from-backblaze-b2-in-fastapi-3lpo)
-- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
-- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37)
-- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j)
+- [Team-Based Authorization in faynoSync — An Overview for Developers](https://dev.to/faynosync/team-based-authorization-in-faynosync-an-overview-for-developers-48bk)
+- [KubeEdge](https://dev.to/minwook/kubeedge-4j9j)
+- [Fume Extractors: Taming Air for Tiny Stars 🌬️](https://dev.to/ersajay/fume-extractors-taming-air-for-tiny-stars-3900)
+- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
 <!-- BLOG-POST-LIST:END -->
 
