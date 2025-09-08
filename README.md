@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Git Like a Junior](https://dev.to/proflead/stop-using-git-like-a-junior-2kje)
-- [Open Source Template for AI Support Chatbot](https://dev.to/rryyqn/open-source-template-for-ai-support-chatbot-1g89)
-- [JupyterHub on Kubernetes: Secure Notebook Secrets with Vault](https://dev.to/buun-ch/jupyterhub-on-kubernetes-secure-notebook-secrets-with-vault-kk5)
-- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
+- [Getting Started with Redis: Installation Guide](https://dev.to/bravian1/getting-started-with-redis-installation-guide-545b)
+- [“What I Learned From Going a Week Without My Laptop”](https://dev.to/swastika_bhattacharjee_aa/what-i-learned-from-going-a-week-without-my-laptop-23jk)
+- [How to Boot Your Raspberry Pi from USB &lpar;and Ditch Unreliable SD Cards&rpar;](https://dev.to/david_thomas/how-to-boot-your-raspberry-pi-from-usb-and-ditch-unreliable-sd-cards-f8m)
+- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6)
 <!-- BLOG-POST-LIST:END -->
 
