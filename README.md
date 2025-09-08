@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extend Block Volume on OCI Instance](https://dev.to/nhisyamj/extend-block-volume-on-oci-instance-ngb)
-- [&quot;Preview: The GPT-5.0 Impact Report Series — A Quiet Creator Speaks&quot;](https://dev.to/hanamaruki_ai/preview-the-gpt-50-impact-report-series-a-quiet-creator-speaks-3i3f)
-- [[Boost]](https://dev.to/ferryops/-3c09)
-- [Modelling weapons, spells and enchantments](https://dev.to/magipunk/still-modelling-out-the-backend-137i)
+- [🚀 Bloom Filters: The Fast &amp; Memory-Efficient Way to Check Membership](https://dev.to/vipra_tech_solutions/bloom-filters-the-fast-memory-efficient-way-to-check-membership-5hee)
+- [Dapp-enhance-system-privacy](https://dev.to/rushikesh_pundkar_913318c/dapp-enhance-system-privacy-373a)
+- [🛡️ Data quality, SQL, duckdb and http_client on CI🦆](https://dev.to/adriens/data-quality-sql-duckdb-and-httpclient-on-ci-22)
+- [Monitoring in the Age of Complexity: 5 Assumptions CIOs Need to Rethink](https://dev.to/catchpoint/monitoring-in-the-age-of-complexity-5-assumptions-cios-need-to-rethink-1gh4)
 <!-- BLOG-POST-LIST:END -->
 
