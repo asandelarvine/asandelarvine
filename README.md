@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Makefile Over GitHub Actions Total Control](https://dev.to/yemreak/makefile-over-github-actions-total-control-57mb)
-- [Signals &amp; JS Event Loop: Rethinking Angular Reactive Sync](https://dev.to/leolanese/signals-js-event-loop-rethinking-angular-reactive-sync-48bn)
-- [How I Built My First Telegram Bot &lpar;and Why Small Steps Matter&rpar;](https://dev.to/marikinyo/how-i-built-my-first-telegram-bot-and-why-small-steps-matter-2n0c)
-- [🚨 Building an IOC Triage Pipeline with Suricata + ML + Docker](https://dev.to/maxhagl/building-an-ioc-triage-pipeline-with-suricata-ml-docker-2lcf)
+- [Auto-Generate API Gateway Terraform from OpenAPI Specs](https://dev.to/ikponmwosa_omorisiagbon_f/auto-generate-api-gateway-terraform-from-openapi-specs-2gg8)
+- [#DAY 2: From Installation to Operational Verification](https://dev.to/samueladeduntan/day-2-from-installation-to-operational-verification-390g)
+- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
+- [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
 <!-- BLOG-POST-LIST:END -->
 
