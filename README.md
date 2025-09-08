@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Too Dependent on Frameworks? The Risks Developers Rarely Discuss](https://dev.to/devtechinsights/are-we-too-dependent-on-frameworks-the-risks-developers-rarely-discuss-l6d)
-- [I built a free UML tool for devs — feedback welcome!](https://dev.to/jotapy79/i-built-a-free-uml-tool-for-devs-feedback-welcome-401b)
-- [Kubernetes Storage Playlist - Part 4: Implementing Amazon S3 Storage with EKS using Terraform and and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-4-implementing-amazon-s3-storage-with-eks-using-terraform-and-3n59)
-- [Design your Laravel database schema for optimal query performance.](https://dev.to/usmanzahidcode/design-your-laravel-database-schema-for-optimal-query-performance-23hm)
+- [Your First Complete Login System in React Native with Expo and Clerk](https://dev.to/aaronksaunders/your-first-complete-login-system-in-react-native-with-expo-and-clerk-3696)
+- [Bryan Bros Golf: Can George &amp; Linkin Park Beat Wesley? &lpar;3v1&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-george-linkin-park-beat-wesley-3v1-5f1b)
+- [IGN: Destiny 2: Renegades and Ash &amp; Iron Reveal Livestream](https://dev.to/gg_news/ign-destiny-2-renegades-and-ash-iron-reveal-livestream-2c3)
+- [IGN: Recur - Official Gameplay Overview Trailer](https://dev.to/gg_news/ign-recur-official-gameplay-overview-trailer-42he)
 <!-- BLOG-POST-LIST:END -->
 
