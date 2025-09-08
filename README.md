@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Unit Test Generation in Java: Why I Built My Own Tool](https://dev.to/rajeev_ranjan_e54cfa19cd8/automating-unit-test-generation-in-java-why-i-built-my-own-tool-3m9k)
-- [How to Secure Different User Types in Linux: A Guide for IT Teams](https://dev.to/sebos/how-to-secure-different-user-types-in-linux-a-guide-for-it-teams-22a8)
-- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
-- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
+- [Extend Block Volume on OCI Instance](https://dev.to/nhisyamj/extend-block-volume-on-oci-instance-ngb)
+- [&quot;Preview: The GPT-5.0 Impact Report Series — A Quiet Creator Speaks&quot;](https://dev.to/hanamaruki_ai/preview-the-gpt-50-impact-report-series-a-quiet-creator-speaks-3i3f)
+- [[Boost]](https://dev.to/ferryops/-3c09)
+- [Modelling weapons, spells and enchantments](https://dev.to/magipunk/still-modelling-out-the-backend-137i)
 <!-- BLOG-POST-LIST:END -->
 
