@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are AI Hallucinations and Why Do They Happen?](https://dev.to/shieldstring/what-are-ai-hallucinations-and-why-do-they-happen-1l3m)
-- [My Tech Stack for IG Exporter Chrome Extension](https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1e25)
-- [Dark Patterns in Modern Web UX: The Subtle Manipulations We Fall For Every Day](https://dev.to/ishanbagchi/dark-patterns-in-modern-web-ux-the-subtle-manipulations-we-fall-for-every-day-54pi)
+- [Building Scalable Multi-Modal AI Agents with Strands Agents and Amazon S3 Vectors](https://dev.to/aws/building-scalable-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-575b)
+- [Reactive Programming and Observables with RxJS](https://dev.to/rebekahvanwyk/reactive-programming-and-observables-with-rxjs-3efi)
+- [Nardwuar the Human Serviette: Nardwuar vs. Sabrina Carpenter](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-sabrina-carpenter-55dj)
+- [IGN: Xbox Game Pass Creates &quot;Weird Inner Tensions,&quot; Says Former Bethesda Exec - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-game-pass-creates-weird-inner-tensions-says-former-bethesda-exec-ign-daily-fix-3pj0)
 <!-- BLOG-POST-LIST:END -->
 
