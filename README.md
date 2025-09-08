@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your Goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3a98)
-- [13 CSS Best Practices and Accessibility Tips for Developers](https://dev.to/devshefali/13-css-best-practices-and-accessibility-tips-for-developers-540p)
-- [Amazon Bedrock AgentCore Runtime - Part 4 Using Custom Agent with Strands Agents SDK](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-4-using-custom-agent-with-strands-agents-sdk-201o)
-- [Usando múltiplas chaves SSH para diferentes contas Git &lpar;pessoal e trabalho&rpar; sem dor de cabeça](https://dev.to/tuliocalil/usando-multiplas-chaves-ssh-para-diferentes-contas-git-pessoal-e-trabalho-sem-dor-de-cabeca-56fp)
+- [Makefile Over GitHub Actions Total Control](https://dev.to/yemreak/makefile-over-github-actions-total-control-57mb)
+- [Signals &amp; JS Event Loop: Rethinking Angular Reactive Sync](https://dev.to/leolanese/signals-js-event-loop-rethinking-angular-reactive-sync-48bn)
+- [How I Built My First Telegram Bot &lpar;and Why Small Steps Matter&rpar;](https://dev.to/marikinyo/how-i-built-my-first-telegram-bot-and-why-small-steps-matter-2n0c)
+- [🚨 Building an IOC Triage Pipeline with Suricata + ML + Docker](https://dev.to/maxhagl/building-an-ioc-triage-pipeline-with-suricata-ml-docker-2lcf)
 <!-- BLOG-POST-LIST:END -->
 
