@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 TailwindCSS Features You’re Probably Sleeping On 😴 &lpar;With Playground Demo&rpar;](https://dev.to/devlinaung/4-tailwindcss-features-youre-probably-sleeping-on-with-playground-demo-3ag8)
-- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
-- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
-- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
+- [Demystifying LangChain: Building Your First LLM-Powered Application](https://dev.to/anshc022/demystifying-langchain-building-your-first-llm-powered-application-5e7a)
+- [Unlocking JavaScript&#39;s Built-in Object Power](https://dev.to/adrahi/unlocking-javascripts-built-in-object-power-65c)
+- [From Dev to PM to Multimodal Explorer: My Gemini Challenge Entries](https://dev.to/svet_62385e9/from-dev-to-pm-to-multimodal-explorer-my-gemini-challenge-entries-19fd)
+- [The Looming Quantum Computing Threat: Why Everyone Should Be Paying Attention to Post-Quantum Security](https://dev.to/benjamin_martins_6db63dfd/the-looming-quantum-computing-threat-why-everyone-should-be-paying-attention-to-post-quantum-55d7)
 <!-- BLOG-POST-LIST:END -->
 
