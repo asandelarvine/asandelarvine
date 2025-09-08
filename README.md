@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Generate API Gateway Terraform from OpenAPI Specs](https://dev.to/ikponmwosa_omorisiagbon_f/auto-generate-api-gateway-terraform-from-openapi-specs-2gg8)
-- [#DAY 2: From Installation to Operational Verification](https://dev.to/samueladeduntan/day-2-from-installation-to-operational-verification-390g)
-- [How to Stop Fighting with Time Zones as a Developer](https://dev.to/lovestaco/how-to-stop-fighting-with-time-zones-as-a-developer-10ih)
-- [Why Self-Hosting made me a better engineer](https://dev.to/mvaldes/why-self-hosting-made-me-a-better-engineer-4d3b)
+- [Efficiency additions in ES6](https://dev.to/lealonwolfe/efficiency-additions-in-es6-59j0)
+- [Building a Real-Time Chat App with MERN &amp; Socket.IO: A Beginner&#39;s Journey](https://dev.to/web_afsanakeya_532c5740b/building-a-real-time-chat-app-with-mern-socketio-a-beginners-journey-1kpa)
+- [Vibe Coding for Enterprises: Can It Truly Scale in 2025?](https://dev.to/mahadi_uptech/vibe-coding-for-enterprises-can-it-truly-scale-in-2025-2lc9)
+- [SEO Técnico para Portfolios: Estrategias que Mejoraron mi Visibilidad en Google](https://dev.to/raidrdev/seo-tecnico-para-portfolios-estrategias-que-mejoraron-mi-visibilidad-en-google-okk)
 <!-- BLOG-POST-LIST:END -->
 
