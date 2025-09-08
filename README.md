@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Better Dashboards, Faster: Introducing Spike, the Next.js Admin Template](https://dev.to/isanjayjoshi/build-better-dashboards-faster-introducing-spike-the-nextjs-admin-template-4c0j)
-- [在 WebAssembly 中使用 SIMD（一）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simd--1aj2)
-- [Keeping Your AI Agents Under Control: Tool Max Tries in Neuron V2](https://dev.to/inspector/keeping-your-ai-agents-under-control-tool-max-tries-in-neuron-v2-5m7)
-- [ChatGPT Called Me &#39;Unconventional.&#39; It Unlocked a Lesson From Vietnam&#39;s Greatest General.](https://dev.to/skill-wanderer/chatgpt-called-me-unconventional-it-unlocked-a-lesson-from-vietnams-greatest-general-13nb)
+- [4 TailwindCSS Features You’re Probably Sleeping On 😴 &lpar;With Playground Demo&rpar;](https://dev.to/devlinaung/4-tailwindcss-features-youre-probably-sleeping-on-with-playground-demo-3ag8)
+- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
+- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
+- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
 <!-- BLOG-POST-LIST:END -->
 
