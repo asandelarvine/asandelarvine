@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Self-Destructing Inbox — Discover the Magic of TempMail3.com](https://dev.to/walker876/a-self-destructing-inbox-discover-the-magic-of-tempmail3com-10bo)
-- [From Analog to Digital: Signal Simulation](https://dev.to/simon_chauveau_27459e6bb5/from-analog-to-digital-signal-simulation-1hm0)
-- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
-- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
+- [4 Free Methods to use LLM APIs in Development](https://dev.to/this-is-learning/4-free-methods-to-use-llm-apis-in-development-45f6)
+- [StoreKit External Purchase – Regional Restriction Not Working + canPresent&lpar;&rpar; Always Returns False](https://dev.to/dev_78/storekit-external-purchase-regional-restriction-not-working-canpresent-always-returns-false-28pm)
+- [Deploying a Laravel Portfolio to AWS EC2: Complete Production Setup](https://dev.to/ravi_sengarrajasthan_c6f/deploying-a-laravel-portfolio-to-aws-ec2-complete-production-setup-329h)
+- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
 <!-- BLOG-POST-LIST:END -->
 
