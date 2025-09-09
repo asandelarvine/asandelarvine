@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
-- [Chapter 2: Architecting Cloak UI —Monorepos, Turborepo, and Frontend Patterns](https://dev.to/shagunsharma6677/chapter-2-architecting-cloak-ui-monorepos-turborepo-and-frontend-patterns-5bj7)
-- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
-- [Prompt Engineering for Software Engineers](https://dev.to/araldhafeeri/prompt-engineering-for-software-engineers-59e6)
+- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
+- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1)
+- [Mastering Context and Async Data in Svelte &lpar;with Examples&rpar;](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
+- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f)
 <!-- BLOG-POST-LIST:END -->
 
