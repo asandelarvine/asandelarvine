@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How-to Safely Expose your MCP Servers Externally Using ngrok and ToolHive](https://dev.to/stacklok/how-to-safely-expose-your-mcp-servers-externally-using-ngrok-and-toolhive-53b7)
-- [The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe](https://dev.to/scofieldidehen/the-npm-supply-chain-attack-what-happened-why-it-matters-and-how-to-stay-safe-39fc)
-- [Golf.com: How to Master the 50 Yard Pitch Shot](https://dev.to/youtube_golf/golfcom-how-to-master-the-50-yard-pitch-shot-1n2j)
-- [Jeff Su: 5 iPhone AI Habits The Top 1% Use](https://dev.to/future_ai/jeff-su-5-iphone-ai-habits-the-top-1-use-44an)
+- [Bootstrapping vs Funding: Which Path Fits 2025?](https://dev.to/gov01/bootstrapping-vs-funding-which-path-fits-2025-3adm)
+- [One Chart That Explains the Power of AI-Driven Development](https://dev.to/pppp606/one-chart-that-explains-the-power-of-ai-driven-development-5gbo)
+- [Incidents Often Come in Pairs](https://dev.to/jonasbn/incidents-often-come-in-pairs-3gok)
+- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
 <!-- BLOG-POST-LIST:END -->
 
