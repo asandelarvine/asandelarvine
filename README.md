@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
-- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
-- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
-- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
+- [3 CompTIA Network+ Concepts That Aren&#39;t Just About Memorization](https://dev.to/andrew_despres/3-comptia-network-concepts-that-arent-just-about-memorization-3fcb)
+- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
+- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
+- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
 <!-- BLOG-POST-LIST:END -->
 
