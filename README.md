@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt engineering isn’t optional. It’s the new literacy that will define who thrives and who struggles.](https://dev.to/jaideepparashar/prompt-engineering-isnt-optional-its-the-new-literacy-that-will-define-who-thrives-and-who-4jbe)
-- [Why Prompt Engineering is the New Literacy](https://dev.to/jaideepparashar/why-prompt-engineering-is-the-new-literacy-2lco)
-- [Structured Concurrency](https://dev.to/sadiul_hakim/what-is-structured-concurrency-21al)
-- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
+- [Hyouji &lpar;表示&rpar;: Streamline Your GitHub Label Management with This Powerful CLI Tool](https://dev.to/0xkoji/hyouji-biao-shi-streamline-your-github-label-management-with-this-powerful-cli-tool-1cl)
+- [Chapter 2: Architecting Cloak UI —Monorepos, Turborepo, and Frontend Patterns](https://dev.to/shagunsharma6677/chapter-2-architecting-cloak-ui-monorepos-turborepo-and-frontend-patterns-5bj7)
+- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
+- [Prompt Engineering for Software Engineers](https://dev.to/araldhafeeri/prompt-engineering-for-software-engineers-59e6)
 <!-- BLOG-POST-LIST:END -->
 
