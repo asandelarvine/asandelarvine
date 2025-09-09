@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t delegate too much to Claude Code.](https://dev.to/crimson206/dont-delegate-too-much-to-claude-code-1dpo)
-- [Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update](https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332)
-- [I Built a Micro-SaaS Directory with a &quot;Boring&quot; Stack, and It&#39;s Awesome.](https://dev.to/pedromodular/i-built-a-micro-saas-directory-with-a-boring-stack-and-its-awesome-fo3)
-- [While Everyone’s Chasing AI Jobs, I Found 89 Supply Chain Security Roles That Can’t Get Filled](https://dev.to/arbythecoder/while-everyones-chasing-ai-jobs-i-found-89-supply-chain-security-roles-that-cant-get-filled-1de8)
+- [Beyond Code: How to Use AI to Modernize Software Architecture](https://dev.to/johnjvester/beyond-code-how-to-use-ai-to-modernize-software-architecture-1clb)
+- [Pasteclean revamped ui.](https://dev.to/iblockedthem/pasteclean-revamped-ui-4kgi)
+- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
+- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
 <!-- BLOG-POST-LIST:END -->
 
