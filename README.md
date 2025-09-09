@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [rcp &amp; rmv: copying &amp; moving using rsync with the simplicity of cp &amp; mv](https://dev.to/yoshimo2o/rcp-rmv-shortcuts-for-copying-moving-using-rsync-478i)
-- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
-- [5 Laravel Tips That Will Save You Hours of Debugging &lpar;From a Village Developer&rpar;](https://dev.to/hardik_kanajariya/5-laravel-tips-that-will-save-you-hours-of-debugging-from-a-village-developer-4h28)
-- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
+- [🏁ASPICE Literacy: Episode 3 — Capability vs. Risk-Based Assessments: Choosing Your Lens 🔍](https://dev.to/abdulosman/aspice-literacy-episode-3-capability-vs-risk-based-assessments-choosing-your-lens-76n)
+- [Edge Computing with AWS: From CloudFront to Lambda@Edge Wizardry](https://dev.to/muhammad_zeeshan_6499a22a/edge-computing-with-aws-from-cloudfront-to-lambdaedge-wizardry-i8)
+- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
+- [Stop Wasting Time on Backend Boilerplate: Meet create-node-spark](https://dev.to/talhabilaldev/stop-wasting-time-on-backend-boilerplate-meet-create-node-spark-kng)
 <!-- BLOG-POST-LIST:END -->
 
