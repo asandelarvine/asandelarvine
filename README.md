@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
-- [The Developer’s Roadmap to Building and Deploying AI Models](https://dev.to/kamruljpi/the-developers-roadmap-to-building-and-deploying-ai-models-4oin)
-- [Angular&#39;s Game-Changer: Why output&lpar;&rpar; is Replacing EventEmitter in 2025](https://dev.to/codewithrajat/angulars-game-changer-why-output-is-replacing-eventemitter-in-2025-5002)
-- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
+- [7 Best Authentication Frameworks for 2025 &lpar;Free &amp; Paid Compared&rpar;](https://dev.to/syedsakhiakram66/7-best-authentication-frameworks-for-2025-free-paid-compared-159g)
+- [MCP &amp; API: Are they Two Sides of the Same Coin, or Worlds Apart?](https://dev.to/composiodev/mcp-api-are-they-two-sides-of-the-same-coin-or-worlds-apart-1ce6)
+- [Ringer Movies: ‘The Legend of Billie Jean’ With Bill Simmons and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-legend-of-billie-jean-with-bill-simmons-and-chris-ryan-the-rewatchables-32pl)
+- [First Steps: Securing Your New Company&#39;s Laptop.](https://dev.to/mdcyberluv/first-steps-securing-your-new-companys-laptop-1did)
 <!-- BLOG-POST-LIST:END -->
 
