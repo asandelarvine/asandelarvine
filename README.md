@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a Supply Chain Heist: The Day &#39;chalk&#39; and &#39;debug&#39; Became Crypto-Thieves](https://dev.to/figsify/anatomy-of-a-supply-chain-heist-the-day-chalk-and-debug-became-crypto-thieves-4fb)
-- [Mapping a Full Stack Application](https://dev.to/kadenwildauer/mapping-a-full-stack-application-25ff)
-- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
-- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
+- [Three reasons why computer science is no longer sexy - for now](https://dev.to/deividas_strole/three-reasons-why-computer-science-is-no-longer-sexy-for-now-1dal)
+- [Deep Dive into EF Core Data Retrieval from SQL Server: Understanding the Internal Process](https://dev.to/dev_saeid_ghaderi/deep-dive-into-ef-core-data-retrieval-from-sql-server-understanding-the-internal-process-1c3c)
+- [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
+- [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
 <!-- BLOG-POST-LIST:END -->
 
