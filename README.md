@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping vs Funding: Which Path Fits 2025?](https://dev.to/gov01/bootstrapping-vs-funding-which-path-fits-2025-3adm)
-- [One Chart That Explains the Power of AI-Driven Development](https://dev.to/pppp606/one-chart-that-explains-the-power-of-ai-driven-development-5gbo)
-- [Incidents Often Come in Pairs](https://dev.to/jonasbn/incidents-often-come-in-pairs-3gok)
-- [📊 Building a simple Wireframe Chart with FSCSS](https://dev.to/fscss-ttr/building-a-simple-wireframe-chart-with-fscss-4me)
+- [rcp &amp; rmv: copying &amp; moving using rsync with the simplicity of cp &amp; mv](https://dev.to/yoshimo2o/rcp-rmv-shortcuts-for-copying-moving-using-rsync-478i)
+- [Bulldog Behavior Interpreter](https://dev.to/rob_marcarelli_29748f27f0/bulldog-behavior-interpreter-4k7)
+- [5 Laravel Tips That Will Save You Hours of Debugging &lpar;From a Village Developer&rpar;](https://dev.to/hardik_kanajariya/5-laravel-tips-that-will-save-you-hours-of-debugging-from-a-village-developer-4h28)
+- [Meet Iconshelf.com: Your New Go-To Hub for Free Open Source SVG Icons](https://dev.to/goonlinetools/meet-iconshelfcom-your-new-go-to-hub-for-free-open-source-svg-icons-29fc)
 <!-- BLOG-POST-LIST:END -->
 
