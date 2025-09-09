@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma Deep‑Dive Handbook &lpar;2025&rpar; — From Zero to Expert](https://dev.to/mihir_bhadak/prisma-deep-dive-handbook-2025-from-zero-to-expert-1761)
-- [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
-- [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
-- [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
+- [Your Sales Battlecards Suck. Here&#39;s How to Fix Them](https://dev.to/paultowers/your-sales-battlecards-suck-heres-how-to-fix-them-35o1)
+- [Borrowed Brains: Are Pre-Trained Models a Developer&#39;s Best Friend... or Worst Nightmare? by Arvind Sundararajan](https://dev.to/arvindsundararajan/borrowed-brains-are-pre-trained-models-a-developers-best-friend-or-worst-nightmare-by-arvind-5dg7)
+- [React Component to npm Package: Minimal Setup with Rollup, Vite, and GitHub Pages](https://dev.to/apayrus/react-component-to-npm-package-minimal-setup-with-rollup-vite-and-github-pages-20aa)
+- [Tracking AI system performance using AI Evaluation Reports](https://dev.to/leading-edje/tracking-ai-system-performance-using-ai-evaluation-reports-376n)
 <!-- BLOG-POST-LIST:END -->
 
