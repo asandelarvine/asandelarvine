@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain modeling, Units-of-Measure, and Property-based testing, oh my](https://dev.to/omanfk/domain-modeling-units-of-measure-and-property-based-testing-oh-my-502o)
-- [How to Avoid Single Points of Failure &lpar;SPOF&rpar; day 48 of system design](https://dev.to/vincenttommi/how-to-avoid-single-points-of-failure-spof-day-48-of-system-design-2913)
-- [Measuring Platform Engineering with MONK metrics](https://dev.to/_steve_fenton_/measuring-platform-engineering-with-monk-metrics-18ob)
-- [🗓 Daily LeetCode Progress – Day 22](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
+- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
+- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
+- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
+- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
 <!-- BLOG-POST-LIST:END -->
 
