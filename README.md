@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 CompTIA Network+ Concepts That Aren&#39;t Just About Memorization](https://dev.to/andrew_despres/3-comptia-network-concepts-that-arent-just-about-memorization-3fcb)
-- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm)
-- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
-- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
+- [Prisma Deep‑Dive Handbook &lpar;2025&rpar; — From Zero to Expert](https://dev.to/mihir_bhadak/prisma-deep-dive-handbook-2025-from-zero-to-expert-1761)
+- [The Truth About Overemployment What Your Boss Doesn&#39;t Want You to Know](https://dev.to/thetechpreneur/the-truth-about-overemployment-what-your-boss-doesnt-want-you-to-know-3fjl)
+- [Congested Mind vs. Fresh Mind: The Hidden Factor in Problem Solving](https://dev.to/muhammedshafeeque/congested-mind-vs-fresh-mind-the-hidden-factor-in-problem-solving-4lcm)
+- [Beyond the Hype: Building Production-Ready AI for Helplines with DistilBERT Fine-Tuning](https://dev.to/rogendo/beyond-the-hype-building-production-ready-ai-for-helplines-with-distilbert-fine-tuning-2onb)
 <!-- BLOG-POST-LIST:END -->
 
