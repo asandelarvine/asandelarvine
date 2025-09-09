@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three reasons why computer science is no longer sexy - for now](https://dev.to/deividas_strole/three-reasons-why-computer-science-is-no-longer-sexy-for-now-1dal)
-- [Deep Dive into EF Core Data Retrieval from SQL Server: Understanding the Internal Process](https://dev.to/dev_saeid_ghaderi/deep-dive-into-ef-core-data-retrieval-from-sql-server-understanding-the-internal-process-1c3c)
-- [Balancing personal projects with learning and growth](https://dev.to/blesinhub/balancing-personal-projects-with-learning-and-growth-4eel)
-- [Simple steps to Multi-Tenant Architecture Design](https://dev.to/naimulkarim/simple-steps-to-multi-tenant-architecture-design-3l95)
+- [Apple Intelligence vs Google Gemini: A Technical Comparison](https://dev.to/alifar/apple-intelligence-vs-google-gemini-a-technical-comparison-4a8a)
+- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
+- [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
 <!-- BLOG-POST-LIST:END -->
 
