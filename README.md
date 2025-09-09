@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exposing Agents as MCP Servers with mcp-agent](https://dev.to/om_shree_0709/exposing-agents-as-mcp-servers-with-mcp-agent-2on8)
-- [Spring AI: How to use Generative AI and applied RAG?](https://dev.to/bereczki/spring-ai-how-to-use-generative-ai-and-applied-rag-2hje)
-- [Create Custom Post Captions with Glama AI Automation feature: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/create-custom-post-captions-with-glama-ai-automation-feature-a-step-by-step-tutorial-cep)
-- [Undemanding pending state handling in React](https://dev.to/axtk/undemanding-pending-state-handling-in-react-6d0)
+- [How-to Safely Expose your MCP Servers Externally Using ngrok and ToolHive](https://dev.to/stacklok/how-to-safely-expose-your-mcp-servers-externally-using-ngrok-and-toolhive-53b7)
+- [The NPM Supply Chain Attack: What Happened, Why It Matters, and How to Stay Safe](https://dev.to/scofieldidehen/the-npm-supply-chain-attack-what-happened-why-it-matters-and-how-to-stay-safe-39fc)
+- [Golf.com: How to Master the 50 Yard Pitch Shot](https://dev.to/youtube_golf/golfcom-how-to-master-the-50-yard-pitch-shot-1n2j)
+- [Jeff Su: 5 iPhone AI Habits The Top 1% Use](https://dev.to/future_ai/jeff-su-5-iphone-ai-habits-the-top-1-use-44an)
 <!-- BLOG-POST-LIST:END -->
 
