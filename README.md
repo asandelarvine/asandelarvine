@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing Data with Props: Building Parent-Child Components](https://dev.to/mendoncamaria/passing-data-with-props-building-parent-child-components-23fp)
-- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1)
-- [Mastering Context and Async Data in Svelte &lpar;with Examples&rpar;](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8)
-- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f)
+- [Mobile development best practices](https://dev.to/claranet/mobile-development-best-practices-24on)
+- [The Developer’s Roadmap to Building and Deploying AI Models](https://dev.to/kamruljpi/the-developers-roadmap-to-building-and-deploying-ai-models-4oin)
+- [Angular&#39;s Game-Changer: Why output&lpar;&rpar; is Replacing EventEmitter in 2025](https://dev.to/codewithrajat/angulars-game-changer-why-output-is-replacing-eventemitter-in-2025-5002)
+- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
 <!-- BLOG-POST-LIST:END -->
 
