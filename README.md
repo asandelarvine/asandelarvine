@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e)
-- [How to Build Scalable Headless WordPress Sites With React &amp; GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1)
-- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17)
-- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7)
+- [Exposing Agents as MCP Servers with mcp-agent](https://dev.to/om_shree_0709/exposing-agents-as-mcp-servers-with-mcp-agent-2on8)
+- [Spring AI: How to use Generative AI and applied RAG?](https://dev.to/bereczki/spring-ai-how-to-use-generative-ai-and-applied-rag-2hje)
+- [Create Custom Post Captions with Glama AI Automation feature: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/create-custom-post-captions-with-glama-ai-automation-feature-a-step-by-step-tutorial-cep)
+- [Undemanding pending state handling in React](https://dev.to/axtk/undemanding-pending-state-handling-in-react-6d0)
 <!-- BLOG-POST-LIST:END -->
 
