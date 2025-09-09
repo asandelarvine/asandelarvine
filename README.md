@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Free Methods to use LLM APIs in Development](https://dev.to/this-is-learning/4-free-methods-to-use-llm-apis-in-development-45f6)
-- [StoreKit External Purchase – Regional Restriction Not Working + canPresent&lpar;&rpar; Always Returns False](https://dev.to/dev_78/storekit-external-purchase-regional-restriction-not-working-canpresent-always-returns-false-28pm)
-- [Deploying a Laravel Portfolio to AWS EC2: Complete Production Setup](https://dev.to/ravi_sengarrajasthan_c6f/deploying-a-laravel-portfolio-to-aws-ec2-complete-production-setup-329h)
-- [Testando Componentes com React Hook Form + Zod](https://dev.to/vitorrios1001/testando-componentes-com-react-hook-form-zod-13nk)
+- [Domain modeling, Units-of-Measure, and Property-based testing, oh my](https://dev.to/omanfk/domain-modeling-units-of-measure-and-property-based-testing-oh-my-502o)
+- [How to Avoid Single Points of Failure &lpar;SPOF&rpar; day 48 of system design](https://dev.to/vincenttommi/how-to-avoid-single-points-of-failure-spof-day-48-of-system-design-2913)
+- [Measuring Platform Engineering with MONK metrics](https://dev.to/_steve_fenton_/measuring-platform-engineering-with-monk-metrics-18ob)
+- [🗓 Daily LeetCode Progress – Day 22](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-22-4ec0)
 <!-- BLOG-POST-LIST:END -->
 
