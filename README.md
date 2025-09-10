@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Link in Cloud Learning: Experience](https://dev.to/yoga0022/the-missing-link-in-cloud-learning-experience-1ibk)
-- [Queues, Buses, and Streams](https://dev.to/aws-builders/queues-buses-and-streams-49g2)
-- [AI-Powered SEO Research Agent with OpenAI &amp; SerpApi](https://dev.to/james_collins/ai-powered-seo-research-agent-with-openai-serpapi-390g)
-- [AI is amazing — but let&#39;s keep our critical thinking on](https://dev.to/shaman-apprentice/ai-is-amazing-but-lets-keep-our-critical-thinking-on-10b1)
+- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
+- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
+- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
+- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
 <!-- BLOG-POST-LIST:END -->
 
