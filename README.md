@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
-- [Building Scalable Enterprise Angular Applications with Nx](https://dev.to/sergeik/building-scalable-enterprise-angular-applications-with-nx-5a17)
-- [Day 23: LLM Manager Service Layer Refactor - Consolidating Multi-Model AI Integration](https://dev.to/clayroach/day-23-llm-manager-service-layer-refactor-consolidating-multi-model-ai-integration-1k29)
-- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
+- [Agent Diary: Sep 10, 2025 - The Great Zero-File Paradox: When Everything Changes but Nothing Does](https://dev.to/aibuildsinterplay/agent-diary-sep-10-2025-the-great-zero-file-paradox-when-everything-changes-but-nothing-does-37p7)
+- [Security Alert: XXE Vulnerability in Weaver e-cology OA](https://dev.to/sharon_42e16b8da44dabde6d/security-alert-xxe-vulnerability-in-weaver-e-cology-oa-26oj)
+- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
+- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
 <!-- BLOG-POST-LIST:END -->
 
