@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexible Feature Access in Rails SaaS Apps](https://dev.to/railsdesigner/flexible-feature-access-in-rails-saas-apps-49g6)
-- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
-- [This post alone made me want to make an account. Extremely well written and something I absolutely needed to read. Thanks, Carlos!](https://dev.to/jordanadair/this-post-alone-made-me-want-to-make-an-account-extremely-well-written-and-something-i-absolutely-23e2)
-- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
+- [7 Windows Development Tools You Might Not Have Heard Of](https://dev.to/lamri_abdellahramdane_15/7-windows-development-tools-you-might-not-have-heard-of-93i)
+- [AI Search Analytics: Tracking Brand Visibility in AI Search](https://dev.to/alifar/ai-search-analytics-tracking-brand-visibility-in-ai-search-23ig)
+- [COLORS: Anik Khan - Infinite NETIC &lpar;ft. Netic&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-anik-khan-infinite-netic-ft-netic-a-colors-show-l7l)
+- [Peter Finch Golf: Even the pros CAN&#39;T break par at this course!](https://dev.to/youtube_golf/peter-finch-golf-even-the-pros-cant-break-par-at-this-course-468a)
 <!-- BLOG-POST-LIST:END -->
 
