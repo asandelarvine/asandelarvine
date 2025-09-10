@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence vs Google Gemini: A Technical Comparison](https://dev.to/alifar/apple-intelligence-vs-google-gemini-a-technical-comparison-4a8a)
-- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
-- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
-- [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
+- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
+- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
+- [git clone Like a Pro: From -b develop to Partial &amp; Sparse Clones &lpar;Basic Expert&rpar;](https://dev.to/cristiansifuentes/git-clone-like-a-pro-from-b-develop-to-partial-sparse-clones-basic-expert-dnc)
+- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
 <!-- BLOG-POST-LIST:END -->
 
