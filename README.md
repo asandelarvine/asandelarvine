@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping an Entire Blog? Let the AI Handle Pagination &lpar;Full Code&rpar;](https://dev.to/zyte/scraping-an-entire-blog-let-the-ai-handle-pagination-full-code-13de)
-- [In C#, how do I remove switch expressions?](https://dev.to/rahul1994jh/in-c-how-do-i-remove-switch-expressions-1k78)
-- [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/dilan_bosire_c52bea0549cb/understanding-the-difference-between-subquery-cte-and-stored-procedure-3mg5)
-- [100 Days of DevOps: Day 38](https://dev.to/wycliffealphus/100-days-of-devops-day-38-498g)
+- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
+- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
+- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
+- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
 <!-- BLOG-POST-LIST:END -->
 
