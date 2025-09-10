@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior vs Senior Developer: The Mindset Shift Nobody Talks About](https://dev.to/vidyarathna/junior-vs-senior-developer-the-mindset-shift-nobody-talks-about-4lfj)
-- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
-- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
-- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
+- [DevOps Automation with Python: Intelligent System Monitoring with Auto Recovery](https://dev.to/devopsbg/devops-automation-with-python-intelligent-system-monitoring-with-auto-recovery-277p)
+- [The Merge Queue Scaling Problem Every Growing Team Hits](https://dev.to/samgutentag/the-merge-queue-scaling-problem-every-growing-team-hits-48cf)
+- [Building an Event Resources Website with AWS CDK and Amazon Q Developer CLI](https://dev.to/aws/building-an-event-resources-website-with-aws-cdk-and-amazon-q-developer-cli-5do2)
+- [Yes, Python is Slow, but it doesn’t matter for AI SaaS](https://dev.to/igorbenav/yes-python-is-slow-but-it-doesnt-matter-for-ai-saas-2183)
 <!-- BLOG-POST-LIST:END -->
 
