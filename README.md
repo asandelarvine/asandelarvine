@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
-- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
-- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
-- [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
+- [Scraping an Entire Blog? Let the AI Handle Pagination &lpar;Full Code&rpar;](https://dev.to/zyte/scraping-an-entire-blog-let-the-ai-handle-pagination-full-code-13de)
+- [In C#, how do I remove switch expressions?](https://dev.to/rahul1994jh/in-c-how-do-i-remove-switch-expressions-1k78)
+- [Understanding the Difference Between Subquery, CTE, and Stored Procedure](https://dev.to/dilan_bosire_c52bea0549cb/understanding-the-difference-between-subquery-cte-and-stored-procedure-3mg5)
+- [100 Days of DevOps: Day 38](https://dev.to/wycliffealphus/100-days-of-devops-day-38-498g)
 <!-- BLOG-POST-LIST:END -->
 
