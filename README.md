@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Starting My First Solo Game Dev Journey—And I&#39;m Beginning with Data, Not Code.](https://dev.to/minealex/im-starting-my-first-solo-game-dev-journey-and-im-beginning-with-data-not-code-4och)
-- [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
-- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
-- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
+- [AI Forensics: Reverse-Engineering Your Models for Hidden Data Leaks](https://dev.to/arvindsundararajan/ai-forensics-reverse-engineering-your-models-for-hidden-data-leaks-mce)
+- [Create a Modal without any framework.](https://dev.to/artyprog/create-a-modal-without-any-framework-3n9e)
+- [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
+- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
 <!-- BLOG-POST-LIST:END -->
 
