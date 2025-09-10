@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Forensics: Reverse-Engineering Your Models for Hidden Data Leaks](https://dev.to/arvindsundararajan/ai-forensics-reverse-engineering-your-models-for-hidden-data-leaks-mce)
-- [Create a Modal without any framework.](https://dev.to/artyprog/create-a-modal-without-any-framework-3n9e)
-- [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
-- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
+- [Flexible Feature Access in Rails SaaS Apps](https://dev.to/railsdesigner/flexible-feature-access-in-rails-saas-apps-49g6)
+- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
+- [This post alone made me want to make an account. Extremely well written and something I absolutely needed to read. Thanks, Carlos!](https://dev.to/jordanadair/this-post-alone-made-me-want-to-make-an-account-extremely-well-written-and-something-i-absolutely-23e2)
+- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
 <!-- BLOG-POST-LIST:END -->
 
