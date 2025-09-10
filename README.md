@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Automation with Python: Intelligent System Monitoring with Auto Recovery](https://dev.to/devopsbg/devops-automation-with-python-intelligent-system-monitoring-with-auto-recovery-277p)
-- [The Merge Queue Scaling Problem Every Growing Team Hits](https://dev.to/samgutentag/the-merge-queue-scaling-problem-every-growing-team-hits-48cf)
-- [Building an Event Resources Website with AWS CDK and Amazon Q Developer CLI](https://dev.to/aws/building-an-event-resources-website-with-aws-cdk-and-amazon-q-developer-cli-5do2)
-- [Yes, Python is Slow, but it doesn’t matter for AI SaaS](https://dev.to/igorbenav/yes-python-is-slow-but-it-doesnt-matter-for-ai-saas-2183)
+- [I&#39;m Starting My First Solo Game Dev Journey—And I&#39;m Beginning with Data, Not Code.](https://dev.to/minealex/im-starting-my-first-solo-game-dev-journey-and-im-beginning-with-data-not-code-4och)
+- [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
+- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
+- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
 <!-- BLOG-POST-LIST:END -->
 
