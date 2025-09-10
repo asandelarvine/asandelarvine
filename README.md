@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Validate Your SaaS Idea in Minutes &lpar;Free Tool for Solo Founders&rpar;](https://dev.to/soasme/validate-your-saas-idea-in-minutes-free-tool-for-solo-founders-22j3)
-- [How Responsive Design Impacts User Experience across Devices](https://dev.to/designstudiouiux/how-responsive-design-impacts-user-experience-across-devices-1fo5)
-- [Aggregation Strategies for Scalable Data Insights: A Technical Perspective](https://dev.to/capestart/aggregation-strategies-for-scalable-data-insights-a-technical-perspective-5dk8)
-- [Unlocking Hidden Content: An Introduction to hidden=&#39;until-found&#39;](https://dev.to/patrick_clancey/unlocking-hidden-content-an-introduction-to-hiddenuntil-found-1mpa)
+- [Micro Frontend Architecture with Angular 20: A Complete Guide](https://dev.to/parthraval9/micro-frontend-architecture-with-angular-20-a-complete-guide-3421)
+- [Desacoplando lógicas com PublishEvent + EventHandler no Spring Boot](https://dev.to/ledsonsilva/desacoplando-logicas-com-publishevent-eventhandler-no-spring-boot-57h5)
+- [🚀 Day 12 of My Python Learning Journey](https://dev.to/_adii3107/day-12-of-my-python-learning-journey-36a5)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-4450)
 <!-- BLOG-POST-LIST:END -->
 
