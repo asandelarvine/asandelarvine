@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Every Mainline Borderlands Review... So Far](https://dev.to/gg_news/ign-every-mainline-borderlands-review-so-far-2p91)
-- [IGN: SunderBound - Official Reveal Trailer](https://dev.to/gg_news/ign-sunderbound-official-reveal-trailer-4mnh)
-- [IGN: LEGO Voyagers - Official Developer Diary](https://dev.to/gg_news/ign-lego-voyagers-official-developer-diary-3g1d)
-- [IGN: Pokemon Legends: Z-A - Official Mega Malamar Reveal Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-mega-malamar-reveal-trailer-1h10)
+- [AI Undressing Underage Girls - A Billion Dollar Industry](https://dev.to/scofieldidehen/ai-undressing-underage-girls-a-billion-dollar-industry-3384)
+- [smithery.yaml in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/smitheryyaml-in-mcp-mermaid-codebase-1hpg)
+- [Surfing with FP Java - Mastering Supplier&lt;T&gt;](https://dev.to/borba/surfing-with-fp-java-mastering-supplier-5fjg)
+- [Join the latest KendoReact Free Components Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-latest-kendoreact-free-components-challenge-3000-in-prizes-4fch)
 <!-- BLOG-POST-LIST:END -->
 
