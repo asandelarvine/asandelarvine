@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security at Scale: Our npm Incident Response Story](https://dev.to/epilot/security-at-scale-our-npm-incident-response-story-439p)
-- [Figma Variables vs Tokens Studio: Why Both Matter](https://dev.to/quintonjason/figma-variables-vs-tokens-studio-why-both-matter-2md7)
-- [CloudFront ECDSA Signed URLs: 91% Faster Generation, 55% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
-- [Networking - What it is and Why You Need to Know It?](https://dev.to/kojo_ben1/networking-what-it-is-and-why-you-need-to-know-it-3k04)
+- [Junior vs Senior Developer: The Mindset Shift Nobody Talks About](https://dev.to/vidyarathna/junior-vs-senior-developer-the-mindset-shift-nobody-talks-about-4lfj)
+- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
+- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
+- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
 <!-- BLOG-POST-LIST:END -->
 
