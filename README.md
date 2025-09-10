@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
-- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
-- [git clone Like a Pro: From -b develop to Partial &amp; Sparse Clones &lpar;Basic Expert&rpar;](https://dev.to/cristiansifuentes/git-clone-like-a-pro-from-b-develop-to-partial-sparse-clones-basic-expert-dnc)
-- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
+- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
+- [Building Scalable Enterprise Angular Applications with Nx](https://dev.to/sergeik/building-scalable-enterprise-angular-applications-with-nx-5a17)
+- [Day 23: LLM Manager Service Layer Refactor - Consolidating Multi-Model AI Integration](https://dev.to/clayroach/day-23-llm-manager-service-layer-refactor-consolidating-multi-model-ai-integration-1k29)
+- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
 <!-- BLOG-POST-LIST:END -->
 
