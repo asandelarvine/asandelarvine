@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Baseline into Product Development — and Keeping It Safe in Practice](https://dev.to/ryuya/bringing-baseline-into-product-development-and-keeping-it-safe-in-practice-3pb8)
-- [Visual Studio 2026 Insiders is Here! &lpar;And It&#39;s Actually Good This Time&rpar;](https://dev.to/shiva_shanker_k/visual-studio-2026-insiders-is-here-and-its-actually-good-this-time-1fao)
-- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
-- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
+- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
+- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
+- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
+- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
 <!-- BLOG-POST-LIST:END -->
 
