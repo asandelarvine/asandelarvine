@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neon Button Effects with FSCSS ⚡](https://dev.to/fscss/neon-button-effects-with-fscss-me0)
-- [How Kiponos.io Ends Config Chaos in CI/CD](https://dev.to/kiponos/how-kiponosio-ends-config-chaos-in-cicd-48l4)
-- [Introducing the Frontend Mentor 30-Day Hackathon!](https://dev.to/frontendmentor/introducing-the-frontend-mentor-30-day-hackathon-4fk3)
-- [Getting Started with HTTP/3 in Python](https://dev.to/abibeh/getting-started-with-http3-in-python-6ag)
+- [Validate Your SaaS Idea in Minutes &lpar;Free Tool for Solo Founders&rpar;](https://dev.to/soasme/validate-your-saas-idea-in-minutes-free-tool-for-solo-founders-22j3)
+- [How Responsive Design Impacts User Experience across Devices](https://dev.to/designstudiouiux/how-responsive-design-impacts-user-experience-across-devices-1fo5)
+- [Aggregation Strategies for Scalable Data Insights: A Technical Perspective](https://dev.to/capestart/aggregation-strategies-for-scalable-data-insights-a-technical-perspective-5dk8)
+- [Unlocking Hidden Content: An Introduction to hidden=&#39;until-found&#39;](https://dev.to/patrick_clancey/unlocking-hidden-content-an-introduction-to-hiddenuntil-found-1mpa)
 <!-- BLOG-POST-LIST:END -->
 
