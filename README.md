@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Twins 2.0: AI-Powered Real-Time Models for Developers](https://dev.to/jyothsna_devi_a41eee1ca3f/digital-twins-20-ai-powered-real-time-models-for-developers-3937)
-- [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
-- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
-- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
+- [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
+- [Why I built Wuchale: Protobuf-like i18n from plain code](https://dev.to/k1dv5/why-i-built-wuchale-protobuf-like-i18n-from-plain-code-441o)
+- [How to Create a Windows Server on AWS EC2 &lpar;Beginner’s Guide&rpar;](https://dev.to/jimmybillz/how-to-create-a-windows-server-on-aws-ec2-beginners-guide-3mbc)
+- [Touchscreen Surface Treatments: Why They Matter for Industrial and Outdoor Applications](https://dev.to/tonyhe8688/touchscreen-surface-treatments-why-they-matter-for-industrial-and-outdoor-applications-1o1m)
 <!-- BLOG-POST-LIST:END -->
 
