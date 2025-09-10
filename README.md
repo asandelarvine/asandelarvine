@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Control Your Android on PC with Vysor](https://dev.to/siswoyo/control-your-android-on-pc-with-vysor-h07)
-- [Building Basic Location-Aware Agents with Gaia Nodes](https://dev.to/harishkotra/building-basic-location-aware-agents-with-gaia-nodes-29cc)
-- [Opening Modals with Hash Listeners: A Simple JavaScript Pattern](https://dev.to/emrahg/opening-modals-with-hash-listeners-a-simple-javascript-pattern-2b77)
-- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
+- [Digital Twins 2.0: AI-Powered Real-Time Models for Developers](https://dev.to/jyothsna_devi_a41eee1ca3f/digital-twins-20-ai-powered-real-time-models-for-developers-3937)
+- [Promise in JavaScript](https://dev.to/bhuvanasri/promise-in-javascript-1gee)
+- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
+- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
 <!-- BLOG-POST-LIST:END -->
 
