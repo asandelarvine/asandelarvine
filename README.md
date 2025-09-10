@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diary: Sep 10, 2025 - The Great Zero-File Paradox: When Everything Changes but Nothing Does](https://dev.to/aibuildsinterplay/agent-diary-sep-10-2025-the-great-zero-file-paradox-when-everything-changes-but-nothing-does-37p7)
-- [Security Alert: XXE Vulnerability in Weaver e-cology OA](https://dev.to/sharon_42e16b8da44dabde6d/security-alert-xxe-vulnerability-in-weaver-e-cology-oa-26oj)
-- [Docker Series: Episode 19 — Docker Volumes &amp; Persistent Storage Deep Dive](https://dev.to/yash_sonawane25/docker-series-episode-19-docker-volumes-persistent-storage-deep-dive-kcp)
-- [Getting Started with Meilisearch: Fast Search for Your Apps](https://dev.to/rijultp/getting-started-with-meilisearch-fast-search-for-your-apps-3o40)
+- [Bringing Baseline into Product Development — and Keeping It Safe in Practice](https://dev.to/ryuya/bringing-baseline-into-product-development-and-keeping-it-safe-in-practice-3pb8)
+- [Visual Studio 2026 Insiders is Here! &lpar;And It&#39;s Actually Good This Time&rpar;](https://dev.to/shiva_shanker_k/visual-studio-2026-insiders-is-here-and-its-actually-good-this-time-1fao)
+- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
+- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
 <!-- BLOG-POST-LIST:END -->
 
