@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [These Days, Coding Feels Heavy](https://dev.to/zaid_ali_63962f037ad813c3/these-days-coding-feels-heavy-212l)
-- [Day 4 of “90 Days of Free Python Scripts”](https://dev.to/momina_raheelmoona_c59/day-4-of-90-days-of-free-python-scripts-6ak)
-- [Hiring Your First Employee on AWS — Create an IAM User, Policies &amp; Roles](https://dev.to/peter_samuel_052b9056e236/hiring-your-first-employee-on-aws-create-an-iam-user-policies-roles-1jfb)
-- [TL;DR — We’re Using AI to Write Code Because We’re Lazy, and Not Putting AI in Software Because That’s Hard](https://dev.to/hotfixhero/tldr-were-using-ai-to-write-code-because-were-lazy-and-not-putting-ai-in-software-because-4a9)
+- [Odetta Rose: A Visionary Voice in Art, Culture, and Style](https://dev.to/odetarose/odetta-rose-a-visionary-voice-in-art-culture-and-style-34p1)
+- [C++ Can Be Easy: Service-Oriented programming with Areg SDK](https://dev.to/aregtech/c-can-be-easy-service-oriented-programming-with-areg-sdk-3o5p)
+- [VisionVoice: Making Signs Speak for the Visually Impaired with Google AI Studio](https://dev.to/vikasmukhiya1999/visionvoice-making-signs-speak-for-the-visually-impaired-with-google-ai-studio-14kp)
+- [🚀 Day 33 of My Data Analytics Journey !](https://dev.to/ramyacse/day-33-of-my-data-analytics-journey--369d)
 <!-- BLOG-POST-LIST:END -->
 
