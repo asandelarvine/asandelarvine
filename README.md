@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Endo.AI - Multimodal Endocrinology Assistant with Google Gemini](https://dev.to/mixalis_xrysos_c6d7a0daa1/endoai-multimodal-endocrinology-assistant-with-google-gemini-3h5m)
-- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
-- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
-- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Day 92: Authentication, Insomnia, and Life Decisions](https://dev.to/casperday11/day-92-authentication-insomnia-and-life-decisions-32go)
+- [Best AI Coding Tools for Rust Projects: IDEs vs Terminals](https://dev.to/shuttle/best-ai-coding-tools-for-rust-projects-ides-vs-terminals-3md2)
+- [Design Patterns by Purpose: The Command Pattern in Frontend Life &lpar;Part 4&rpar;](https://dev.to/sagi0312/design-patterns-by-purpose-the-command-pattern-in-frontend-life-part-4-2f35)
+- [GameSpot: Borderlands 4 Opening Cinematic](https://dev.to/gg_news/gamespot-borderlands-4-opening-cinematic-10gb)
 <!-- BLOG-POST-LIST:END -->
 
