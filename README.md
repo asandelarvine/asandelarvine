@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Fitness Coach: Real-time Exercise Form Analysis using Google AI Studio](https://dev.to/shaikhhas/ai-fitness-coach-real-time-exercise-form-analysis-using-google-ai-studio-14i9)
-- [Key Metrics in Performance Testing: How to Measure Success](https://dev.to/kristinekristn89/key-metrics-in-performance-testing-how-to-measure-success-243d)
-- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
-- [The smartest devs i know obsess over a skill most engineers ignore](https://dev.to/dev_tips/the-smartest-devs-i-know-obsess-over-a-skill-most-engineers-ignore-2oo5)
+- [Modern SEO for AI Search Engines - How to Show Up in ChatGPT, Perplexity, and Gemini Search Results?](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-show-up-in-chatgpt-perplexity-and-gemini-search-2ii9)
+- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
+- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
+- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
 <!-- BLOG-POST-LIST:END -->
 
