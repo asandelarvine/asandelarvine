@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ospehlivano/-4p2f)
-- [Causal LLM or splitting LLM](https://dev.to/anonch/causal-llm-or-splitting-llm-3n2n)
-- [React Hook Form Summary: How to Easily Manage Forms Even for Beginners](https://dev.to/kazutora_hattori_66972c88/react-hook-form-summary-how-to-easily-manage-forms-even-for-beginners-m1)
-- [Get More Done with Better Contact Center Software](https://dev.to/deepijatelecom1/get-more-done-with-better-contact-center-software-985)
+- [AI Fitness Coach: Real-time Exercise Form Analysis using Google AI Studio](https://dev.to/shaikhhas/ai-fitness-coach-real-time-exercise-form-analysis-using-google-ai-studio-14i9)
+- [Key Metrics in Performance Testing: How to Measure Success](https://dev.to/kristinekristn89/key-metrics-in-performance-testing-how-to-measure-success-243d)
+- [Exploring Angular Signal Forms &lpar;v.21&rpar;](https://dev.to/fabiobiondi/exploring-angular-signal-forms-v21-ka5)
+- [The smartest devs i know obsess over a skill most engineers ignore](https://dev.to/dev_tips/the-smartest-devs-i-know-obsess-over-a-skill-most-engineers-ignore-2oo5)
 <!-- BLOG-POST-LIST:END -->
 
