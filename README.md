@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
-- [LaunchFast QA Service](https://dev.to/ajayverma24/launchfast-qa-service-51f9)
-- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
-- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
+- [React Server Components: They&#39;re Not What You Think &lpar;And They Change Everything&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
+- [How to Setup Robotics and Coding Lab for Schools: Complete 2025 Guide](https://dev.to/makers_muse/how-to-setup-robotics-and-coding-lab-for-schools-complete-2025-guide-461b)
+- [Auto-Magic: Generating Function Stubs with Evolutionary Algorithms](https://dev.to/arvindsundararajan/auto-magic-generating-function-stubs-with-evolutionary-algorithms-1355)
+- [Timeboxing: The Secret Weapon of True Agility](https://dev.to/dct_technology/timeboxing-the-secret-weapon-of-true-agility-33mb)
 <!-- BLOG-POST-LIST:END -->
 
