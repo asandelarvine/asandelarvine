@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Radar Charts: Seeing Priorities in Every Dimension](https://dev.to/datastudies/radar-charts-seeing-priorities-in-every-dimension-1onj)
-- [🌊 Be the Rising Tide: The Multiplying Effect of Lifting &lpar;and Pushing&rpar; Others](https://dev.to/dvddpl/be-the-rising-tide-the-multiplying-effect-of-lifting-and-pushing-others-n1h)
-- [10 Handy Online Utilities Every Developer &lpar;and Writer&rpar; Should Bookmark](https://dev.to/designpro_8c25215be381e3c/10-handy-online-utilities-every-developer-and-writer-should-bookmark-p0f)
-- [The Ultimate Ranking of Fruit-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-fruit-inspired-com-brand-names-2p7o)
+- [Poisoned Prompts: How Malicious Documentation Can Hijack Your AI Code](https://dev.to/arvindsundararajan/poisoned-prompts-how-malicious-documentation-can-hijack-your-ai-code-4bho)
+- [Used to forget daily GitHub pushes — automated them with Kiro.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/used-to-forget-daily-github-pushes-automated-them-with-kiro-4a9g)
+- [No Laying Up Podcast: Tommy Fleetwood | NLU Pod, Ep 1068](https://dev.to/youtube_golf/no-laying-up-podcast-tommy-fleetwood-nlu-pod-ep-1068-no9)
+- [GameSpot: Borderlands 4 Review](https://dev.to/gg_news/gamespot-borderlands-4-review-4paa)
 <!-- BLOG-POST-LIST:END -->
 
