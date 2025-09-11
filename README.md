@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Poisoned Prompts: How Malicious Documentation Can Hijack Your AI Code](https://dev.to/arvindsundararajan/poisoned-prompts-how-malicious-documentation-can-hijack-your-ai-code-4bho)
-- [Used to forget daily GitHub pushes — automated them with Kiro.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/used-to-forget-daily-github-pushes-automated-them-with-kiro-4a9g)
-- [No Laying Up Podcast: Tommy Fleetwood | NLU Pod, Ep 1068](https://dev.to/youtube_golf/no-laying-up-podcast-tommy-fleetwood-nlu-pod-ep-1068-no9)
-- [GameSpot: Borderlands 4 Review](https://dev.to/gg_news/gamespot-borderlands-4-review-4paa)
+- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
+- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
+- [Day 3 of My Golang Journey](https://dev.to/kshitij_jain_bbc56d59a866/day-3-of-my-golang-journey-5a0c)
+- [I Built a Modern Serverless JS Full-Stack Framework in One Day](https://dev.to/araldhafeeri/i-built-a-modern-serverless-js-full-stack-framework-in-one-day-312k)
 <!-- BLOG-POST-LIST:END -->
 
