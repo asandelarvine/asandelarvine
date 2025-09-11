@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AEC Compliance Image Fixer](https://dev.to/beardedbe4n/aec-compliance-image-fixer-41c3)
-- [Semantic Search UI with Tambo](https://dev.to/lahfir_ac22d8714d76cfd31e/semantic-search-ui-with-tambo-3dd1)
-- [Why Continuous AI Matters for Developers and Teams](https://dev.to/babblebey/why-continuous-ai-matters-for-developers-and-teams-1h6b)
-- [Fuzz and Invariant Testing: A Security Researcher&#39;s Guide to Uncovering Hidden Vulnerabilities](https://dev.to/ajtech0001/fuzz-and-invariant-testing-a-security-researchers-guide-to-uncovering-hidden-vulnerabilities-5d69)
+- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l)
+- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
+- [KEXP: Sea Lemon - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g)
+- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f)
 <!-- BLOG-POST-LIST:END -->
 
