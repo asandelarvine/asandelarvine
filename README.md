@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
-- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
-- [Day 3 of My Golang Journey](https://dev.to/kshitij_jain_bbc56d59a866/day-3-of-my-golang-journey-5a0c)
-- [I Built a Modern Serverless JS Full-Stack Framework in One Day](https://dev.to/araldhafeeri/i-built-a-modern-serverless-js-full-stack-framework-in-one-day-312k)
+- [🥊 MMA Coach Assistant - AI-Powered Fight Analysis](https://dev.to/paulo_abbcba03b4df70572fc/mma-coach-assistant-ai-powered-fight-analysis-124j)
+- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
+- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
+- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
 <!-- BLOG-POST-LIST:END -->
 
