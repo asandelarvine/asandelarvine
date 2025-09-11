@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Server Components: They&#39;re Not What You Think &lpar;And They Change Everything&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/react-server-components-theyre-not-what-you-think-and-they-change-everything-55fk)
-- [How to Setup Robotics and Coding Lab for Schools: Complete 2025 Guide](https://dev.to/makers_muse/how-to-setup-robotics-and-coding-lab-for-schools-complete-2025-guide-461b)
-- [Auto-Magic: Generating Function Stubs with Evolutionary Algorithms](https://dev.to/arvindsundararajan/auto-magic-generating-function-stubs-with-evolutionary-algorithms-1355)
-- [Timeboxing: The Secret Weapon of True Agility](https://dev.to/dct_technology/timeboxing-the-secret-weapon-of-true-agility-33mb)
+- [Technique Avancée d&#39;OpenRewrite : Utiliser les messages pour implémenter des logiques complexes](https://dev.to/onepoint/technique-avancee-dopenrewrite-utiliser-les-messages-pour-implementer-des-logiques-complexes-55ed)
+- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
+- [One line of code caused the SeaTunnel Kafka connector to eat 12GB of memory in 5 mins!](https://dev.to/seatunnel/one-line-of-code-caused-the-seatunnel-kafka-connector-to-eat-12gb-of-memory-in-5-mins-j5f)
+- [SQL LIKE Operator: What It Is, How It Works, and Best Practices](https://dev.to/dbvismarketing/sql-like-operator-what-it-is-how-it-works-and-best-practices-261p)
 <!-- BLOG-POST-LIST:END -->
 
