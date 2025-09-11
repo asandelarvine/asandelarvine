@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Join this virtual open source hackathon... Open to participants worldwide 🌍](https://dev.to/giantconfidence/join-this-virtual-open-source-hackathon-open-to-participants-worldwide-4hl1)
-- [📸 Coverage Metrics: The Selfie of Software Quality](https://dev.to/abdulosman/coverage-metrics-the-selfie-of-software-quality-3h1i)
-- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
-- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
+- [AEC Compliance Image Fixer](https://dev.to/beardedbe4n/aec-compliance-image-fixer-41c3)
+- [Semantic Search UI with Tambo](https://dev.to/lahfir_ac22d8714d76cfd31e/semantic-search-ui-with-tambo-3dd1)
+- [Why Continuous AI Matters for Developers and Teams](https://dev.to/babblebey/why-continuous-ai-matters-for-developers-and-teams-1h6b)
+- [Fuzz and Invariant Testing: A Security Researcher&#39;s Guide to Uncovering Hidden Vulnerabilities](https://dev.to/ajtech0001/fuzz-and-invariant-testing-a-security-researchers-guide-to-uncovering-hidden-vulnerabilities-5d69)
 <!-- BLOG-POST-LIST:END -->
 
