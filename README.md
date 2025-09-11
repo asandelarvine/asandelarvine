@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
-- [The biggest opportunities in 2025 won’t go to those who can write the most prompts. They’ll go to those who can turn prompts into products, systems, and sustainable business models.](https://dev.to/jaideepparashar/the-biggest-opportunities-in-2025-wont-go-to-those-who-can-write-the-most-prompts-theyll-go-to-4obe)
-- [How I Use AI to Build Real Business Models &lpar;Not Just Content&rpar;](https://dev.to/jaideepparashar/how-i-use-ai-to-build-real-business-models-not-just-content-1n66)
-- [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://dev.to/nickytonline/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9)
+- [Hands-On with MongoDB: Storing, Querying &amp; Analyzing Data](https://dev.to/sri_vardhan_a896a0c1b7d72/hands-on-with-mongodb-storing-querying-analyzing-data-1foc)
+- [[Boost]](https://dev.to/pranesh_patel/-544p)
+- [🚀 Day 11 of My DevOps Journey: Terraform — Infrastructure as Code &lpar;IaC&rpar; ☁️](https://dev.to/dankbhardwaj/day-11-of-my-devops-journey-terraform-infrastructure-as-code-iac-c86)
+- [Chatgpt code review](https://dev.to/bhavy_k_5a3b6c88887b58c92/chatgpt-code-review-on4)
 <!-- BLOG-POST-LIST:END -->
 
