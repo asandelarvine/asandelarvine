@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Banking System That Talks COBOL… and My Boss Didn&#39;t Notice](https://dev.to/obinexus/i-built-a-banking-system-that-talks-cobol-and-my-boss-didnt-notice-4gm3)
-- [Angular Signals Don&#39;t Replace Observables: Pull vs. Push](https://dev.to/lcsga/angular-signals-dont-replace-observables-pull-vs-push-49l7)
-- [Blind coding](https://dev.to/dyfet/blind-coding-70b)
-- [How to Delete and Recover a Virtual Machine Using OS Disk](https://dev.to/jic/how-to-delete-and-recover-a-virtual-machine-using-os-disk-3p2e)
+- [SVG Spritesheet builder using document fragments](https://dev.to/mardeg/svg-spritesheet-builder-using-document-fragments-5h5p)
+- [CallBack,CallBack Hell](https://dev.to/kavya_s/callbackcallback-hell-10cd)
+- [Spaces in FinderBee: Organized, Secure AI Service Management](https://dev.to/babluritheesh/spaces-in-finderbee-organized-secure-ai-service-management-21jf)
+- [How to Properly Configure robots.txt and Why It Matters for SEO](https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb)
 <!-- BLOG-POST-LIST:END -->
 
