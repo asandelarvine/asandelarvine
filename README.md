@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Odetta Rose: A Visionary Voice in Art, Culture, and Style](https://dev.to/odetarose/odetta-rose-a-visionary-voice-in-art-culture-and-style-34p1)
-- [C++ Can Be Easy: Service-Oriented programming with Areg SDK](https://dev.to/aregtech/c-can-be-easy-service-oriented-programming-with-areg-sdk-3o5p)
-- [VisionVoice: Making Signs Speak for the Visually Impaired with Google AI Studio](https://dev.to/vikasmukhiya1999/visionvoice-making-signs-speak-for-the-visually-impaired-with-google-ai-studio-14kp)
-- [🚀 Day 33 of My Data Analytics Journey !](https://dev.to/ramyacse/day-33-of-my-data-analytics-journey--369d)
+- [Endo.AI - Multimodal Endocrinology Assistant with Google Gemini](https://dev.to/mixalis_xrysos_c6d7a0daa1/endoai-multimodal-endocrinology-assistant-with-google-gemini-3h5m)
+- [How Flash Loans Enabled Scammers Steal $13.3M From BetterBank &amp; Bunni v2](https://dev.to/scofieldidehen/how-flash-loans-enabled-scammers-steal-133m-from-betterbank-bunni-v2-ad2)
+- [The new PostHog.com is pretty amazing ... most distinctive landing page I&#39;ve seen in a long time.](https://dev.to/peter/the-new-posthogcom-is-pretty-amazing-most-distinctive-landing-page-ive-seen-in-a-long-1kna)
+- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
 <!-- BLOG-POST-LIST:END -->
 
