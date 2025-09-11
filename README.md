@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with MongoDB: Storing, Querying &amp; Analyzing Data](https://dev.to/sri_vardhan_a896a0c1b7d72/hands-on-with-mongodb-storing-querying-analyzing-data-1foc)
-- [[Boost]](https://dev.to/pranesh_patel/-544p)
-- [🚀 Day 11 of My DevOps Journey: Terraform — Infrastructure as Code &lpar;IaC&rpar; ☁️](https://dev.to/dankbhardwaj/day-11-of-my-devops-journey-terraform-infrastructure-as-code-iac-c86)
-- [Chatgpt code review](https://dev.to/bhavy_k_5a3b6c88887b58c92/chatgpt-code-review-on4)
+- [Building an AI Store Generator with Tambo](https://dev.to/kylegm/building-an-ai-store-generator-with-tambo-544l)
+- [LaunchFast QA Service](https://dev.to/ajayverma24/launchfast-qa-service-51f9)
+- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
+- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
 <!-- BLOG-POST-LIST:END -->
 
