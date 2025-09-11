@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
-- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
-- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
-- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
+- [Join this virtual open source hackathon... Open to participants worldwide 🌍](https://dev.to/giantconfidence/join-this-virtual-open-source-hackathon-open-to-participants-worldwide-4hl1)
+- [📸 Coverage Metrics: The Selfie of Software Quality](https://dev.to/abdulosman/coverage-metrics-the-selfie-of-software-quality-3h1i)
+- [Disposable Doesn&#39;t Have to Mean Disastrous: Smarter Design for &#39;Smart&#39; Packaging](https://dev.to/arvindsundararajan/disposable-doesnt-have-to-mean-disastrous-smarter-design-for-smart-packaging-2e8h)
+- [Opencode + Grok Code Fast 1: A Powerful Free Combo for Terminal-Based AI Coding](https://dev.to/einarcesar/opencode-grok-code-fast-1-a-powerful-free-combo-for-terminal-based-ai-coding-4hfa)
 <!-- BLOG-POST-LIST:END -->
 
