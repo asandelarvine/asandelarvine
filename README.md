@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern SEO for AI Search Engines - How to Show Up in ChatGPT, Perplexity, and Gemini Search Results?](https://dev.to/bio-ai-software-engineer/modern-seo-for-ai-search-engines-how-to-show-up-in-chatgpt-perplexity-and-gemini-search-2ii9)
-- [Start with Vercel, Scale to VPS: The Smart Developer&#39;s Path](https://dev.to/sst21/start-with-vercel-scale-to-vps-the-smart-developers-path-245l)
-- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
-- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
+- [These Days, Coding Feels Heavy](https://dev.to/zaid_ali_63962f037ad813c3/these-days-coding-feels-heavy-212l)
+- [Day 4 of “90 Days of Free Python Scripts”](https://dev.to/momina_raheelmoona_c59/day-4-of-90-days-of-free-python-scripts-6ak)
+- [Hiring Your First Employee on AWS — Create an IAM User, Policies &amp; Roles](https://dev.to/peter_samuel_052b9056e236/hiring-your-first-employee-on-aws-create-an-iam-user-policies-roles-1jfb)
+- [TL;DR — We’re Using AI to Write Code Because We’re Lazy, and Not Putting AI in Software Because That’s Hard](https://dev.to/hotfixhero/tldr-were-using-ai-to-write-code-because-were-lazy-and-not-putting-ai-in-software-because-4a9)
 <!-- BLOG-POST-LIST:END -->
 
