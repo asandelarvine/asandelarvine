@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Device Sensors in ArkTS for HarmonyOS — a Step-by-Step Guide](https://dev.to/harmonyos/using-device-sensors-in-arkts-for-harmonyos-a-step-by-step-guide-5i4)
-- [Best Practices for Multi-Cloud Log Integration with Alibaba Cloud SLS: Optimization of Link, Cost, and High Availability](https://dev.to/observabilityguy/best-practices-for-multi-cloud-log-integration-with-alibaba-cloud-sls-optimization-of-link-cost-2ofm)
-- [Should problems be easy to understand and difficult to solve?](https://dev.to/ffff0000h/should-problems-be-easy-to-understand-and-difficult-to-solve-256p)
-- [💲ANN: awesome-sponsorships](https://dev.to/galtzo/ann-awesome-sponsorships-535m)
+- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-1j92)
+- [VeoVerse Studio](https://dev.to/onirestart/veoverse-studio-ad5)
+- [[Boost]](https://dev.to/0e59dced4eac71e/-2mji)
+- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
 <!-- BLOG-POST-LIST:END -->
 
