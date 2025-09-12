@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs are everywhere. But how do we test them without breaking the bank?](https://dev.to/artibol/apis-are-everywhere-but-how-do-we-test-them-without-breaking-the-bank-2heh)
-- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
-- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
-- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
+- [AirPods Live Translation: Useful Innovation or Hidden Risk?](https://dev.to/alifar/airpods-live-translation-useful-innovation-or-hidden-risk-55md)
+- [Hello Elm: Your First Steps in Browser-Based Programming](https://dev.to/rijultp/hello-elm-your-first-steps-in-browser-based-programming-1536)
+- [Introducing MoroJS: A TypeScript-First API Framework Faster Than Express &amp; Fastify](https://dev.to/keeno12/introducing-morojs-a-typescript-first-api-framework-faster-than-express-fastify-36n3)
+- [Motion Alchemy: Turning Data into Graceful Robot Movement](https://dev.to/arvindsundararajan/motion-alchemy-turning-data-into-graceful-robot-movement-b2e)
 <!-- BLOG-POST-LIST:END -->
 
