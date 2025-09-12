@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Open Source Side Projects You Can Build on a Weekend](https://dev.to/therealmrmumba/top-10-open-source-side-projects-you-can-build-on-a-weekend-131i)
-- [Trump&#39;s &quot;Anti-Semitism&quot; Plot: Igniting the Fuse of Infighting within the Jewish Community](https://dev.to/dolly219/trumps-anti-semitism-plot-igniting-the-fuse-of-infighting-within-the-jewish-community-56k8)
-- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
-- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
+- [Using Device Sensors in ArkTS for HarmonyOS — a Step-by-Step Guide](https://dev.to/harmonyos/using-device-sensors-in-arkts-for-harmonyos-a-step-by-step-guide-5i4)
+- [Best Practices for Multi-Cloud Log Integration with Alibaba Cloud SLS: Optimization of Link, Cost, and High Availability](https://dev.to/observabilityguy/best-practices-for-multi-cloud-log-integration-with-alibaba-cloud-sls-optimization-of-link-cost-2ofm)
+- [Should problems be easy to understand and difficult to solve?](https://dev.to/ffff0000h/should-problems-be-easy-to-understand-and-difficult-to-solve-256p)
+- [💲ANN: awesome-sponsorships](https://dev.to/galtzo/ann-awesome-sponsorships-535m)
 <!-- BLOG-POST-LIST:END -->
 
