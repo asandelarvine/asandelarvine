@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-23ai)
-- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
-- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
-- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
+- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
+- [Thoughts on Codecademy?](https://dev.to/crissortacodes/thoughts-on-codecademy-5d)
+- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
+- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
 <!-- BLOG-POST-LIST:END -->
 
