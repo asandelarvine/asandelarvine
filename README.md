@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250912: Issues with Azure DevOp](https://dev.to/nfc-charles/devlog-20250912-issues-with-azure-devop-1eam)
-- [Web Design and Development Chicago – Experts Web Designs](https://dev.to/experts_webdesigns_06080/web-design-and-development-chicago-experts-web-designs-4l1m)
-- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
-- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
+- [OSD600 - Lab1](https://dev.to/oleksandrakordonets/osd600-lab1-33mp)
+- [Column-Oriented Databases: A Technical Overview](https://dev.to/gervaisamoah/column-oriented-databases-a-technical-overview-11mj)
+- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
+- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
 <!-- BLOG-POST-LIST:END -->
 
