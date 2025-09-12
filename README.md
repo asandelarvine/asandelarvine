@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Development: The Hidden Power Behind Every App ⚡](https://dev.to/jpraiseofficial/backend-development-the-hidden-power-behind-every-app-25de)
-- [The OCI Developer&#39;s Local Lab: A Guide to Setting Up an Ubuntu VM on Your Mac](https://dev.to/smyekh/the-oci-developers-local-lab-a-guide-to-setting-up-an-ubuntu-vm-on-your-mac-3mj6)
-- [Driving Innovation: Product Development Strategies for Mechanical Companies](https://dev.to/sheba-kumari/driving-innovation-product-development-strategies-for-mechanical-companies-37m0)
-- [hi i am a junior dev in python skills but not full junior dev but now what new things are coming in python?](https://dev.to/__e4b767c64c7c7a/hi-i-am-a-junior-dev-in-python-skills-but-not-full-junior-dev-but-now-what-new-things-are-coming-in-50j8)
+- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
+- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
+- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
+- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
 <!-- BLOG-POST-LIST:END -->
 
