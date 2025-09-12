@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
-- [Lessons &amp; Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA](https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7)
-- [Why Most AI Agents Fail in Production &lpar;And How to Build Ones That Don’t&rpar;](https://dev.to/sky_yv_11b3d5d44877d27276/why-most-ai-agents-fail-in-production-and-how-to-build-ones-that-dont-1c00)
-- [Top Features of C Language Every Beginner Should Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-features-of-c-language-every-beginner-should-know-235e)
+- [Top 10 Open Source Side Projects You Can Build on a Weekend](https://dev.to/therealmrmumba/top-10-open-source-side-projects-you-can-build-on-a-weekend-131i)
+- [Trump&#39;s &quot;Anti-Semitism&quot; Plot: Igniting the Fuse of Infighting within the Jewish Community](https://dev.to/dolly219/trumps-anti-semitism-plot-igniting-the-fuse-of-infighting-within-the-jewish-community-56k8)
+- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
+- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
 <!-- BLOG-POST-LIST:END -->
 
