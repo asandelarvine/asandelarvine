@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
-- [The Alchemist&#39;s Endgame: My Final Synthesis of p-adic Clojure and Legacy Code.](https://dev.to/p_pumulo/the-alchemists-endgame-my-final-synthesis-of-p-adic-clojure-and-legacy-code-1ije)
-- [Scratching My Own Itch](https://dev.to/tajudeen_abdulgafar_e0363/scratching-my-own-itch-building-a-tool-to-stop-copy-pasting-code-to-chatgpt-4ki0)
-- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
+- [From SQL to Python: Uniting Stored Power with Functional Flexibility](https://dev.to/loi2008/from-sql-to-python-uniting-stored-power-with-functional-flexibility-icf)
+- [James Forrest Blog: Lessons From a Life Spent Climbing Higher](https://dev.to/blogsmagazine/james-forrest-blog-lessons-from-a-life-spent-climbing-higher-509c)
+- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
+- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
 <!-- BLOG-POST-LIST:END -->
 
