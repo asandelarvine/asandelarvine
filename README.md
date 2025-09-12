@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix for Crow C++ websocket which could not receive beyond 128 chars](https://dev.to/lucpattyn/fix-for-crow-c-websocket-which-could-not-receive-beyond-128-chars-3ee6)
-- [CSPM, CIEM, CNAPP: What These Cloud Security Tools Really Do and Why They Matter for You](https://dev.to/heyjoshlee/cspm-ciem-cnapp-what-these-cloud-security-tools-really-do-and-why-they-matter-for-you-300o)
-- [First Post! Documenting my Technical Learnings](https://dev.to/shri-dharshini/first-post-documenting-my-technical-learnings-3kl9)
-- [Cybersecurity Shell Scripting: Build Weather &amp; Calculator Tools with Bash Loops &amp; File Ops](https://dev.to/labex/cybersecurity-shell-scripting-build-weather-calculator-tools-with-bash-loops-file-ops-2mic)
+- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
+- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
+- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
+- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
 <!-- BLOG-POST-LIST:END -->
 
