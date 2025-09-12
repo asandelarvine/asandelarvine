@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From SQL to Python: Uniting Stored Power with Functional Flexibility](https://dev.to/loi2008/from-sql-to-python-uniting-stored-power-with-functional-flexibility-icf)
-- [James Forrest Blog: Lessons From a Life Spent Climbing Higher](https://dev.to/blogsmagazine/james-forrest-blog-lessons-from-a-life-spent-climbing-higher-509c)
-- [Toggle This: Feature Flags in Angular](https://dev.to/mthobis41586080/toggle-this-feature-flags-in-angular-34jj)
-- [No Laying Up Podcast: Seamsters Union - Heading for Home | Trap Draw, Ep 358](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-heading-for-home-trap-draw-ep-358-508c)
+- [The TON Scam Surge: Telegram’s Crypto Revolution Gone Wrong](https://dev.to/dhis_is_jj/the-ton-scam-surge-telegrams-crypto-revolution-gone-wrong-1h66)
+- [🚀 Gestión de estado en React](https://dev.to/pwalvarado/gestion-de-estado-en-react-2d34)
+- [getState](https://dev.to/pwalvarado/getstate-3256)
+- [This Is How I Deploy My SSH App](https://dev.to/hiro_111/this-is-how-i-deploy-my-ssh-app-k6i)
 <!-- BLOG-POST-LIST:END -->
 
