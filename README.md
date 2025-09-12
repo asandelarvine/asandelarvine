@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
-- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
-- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
-- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
+- [This Week In React #249 : TanStack, Fast-Refresh, MDX | Expo, Legend List, Uniwind, New Arch, Rock, Screens | Interop](https://dev.to/sebastienlorber/this-week-in-react-249-tanstack-fast-refresh-mdx-expo-legend-list-uniwind-new-arch-rock-4o9p)
+- [Silent Syntax &amp; Vyoma: A 16-Year-Old’s Vision for Developers, Students, and Businesses](https://dev.to/pjdeveloper896/silent-syntax-vyoma-a-16-year-olds-vision-for-developers-students-and-businesses-1dcn)
+- [ApexEloquent v1.0 – An Apex ORM Framework with True DB-Free Unit Testing](https://dev.to/krile_136cm_dee71f4d3fe7d/apexeloquent-v10-an-apex-orm-framework-with-true-db-free-unit-testing-20kj)
+- [Why Self-Hosted Crypto Gateways is Gen Alpha.](https://dev.to/tradaxd/why-self-hosted-crypto-gateways-is-gen-alpha-29ll)
 <!-- BLOG-POST-LIST:END -->
 
