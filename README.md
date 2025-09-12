@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-1j92)
-- [VeoVerse Studio](https://dev.to/onirestart/veoverse-studio-ad5)
-- [[Boost]](https://dev.to/0e59dced4eac71e/-2mji)
-- [Choosing the Best Screenshot API in 2025: A Developer’s Guide](https://dev.to/mukul_sharma/choosing-the-best-screenshot-api-in-2025-a-developers-guide-79)
+- [Backend Development: The Hidden Power Behind Every App ⚡](https://dev.to/jpraiseofficial/backend-development-the-hidden-power-behind-every-app-25de)
+- [The OCI Developer&#39;s Local Lab: A Guide to Setting Up an Ubuntu VM on Your Mac](https://dev.to/smyekh/the-oci-developers-local-lab-a-guide-to-setting-up-an-ubuntu-vm-on-your-mac-3mj6)
+- [Driving Innovation: Product Development Strategies for Mechanical Companies](https://dev.to/sheba-kumari/driving-innovation-product-development-strategies-for-mechanical-companies-37m0)
+- [hi i am a junior dev in python skills but not full junior dev but now what new things are coming in python?](https://dev.to/__e4b767c64c7c7a/hi-i-am-a-junior-dev-in-python-skills-but-not-full-junior-dev-but-now-what-new-things-are-coming-in-50j8)
 <!-- BLOG-POST-LIST:END -->
 
