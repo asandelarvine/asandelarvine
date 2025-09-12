@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/varshithvhegde/-48pg)
-- [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
-- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
-- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
+- [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
+- [#DAY 6: Closing the On-Prem Loop](https://dev.to/samueladeduntan/day-6-closing-the-on-prem-loop-5923)
+- [The Great Unification: Why QA and Data Science are Becoming Inseparable](https://dev.to/vaibhavkuls/the-great-unification-why-qa-and-data-science-are-becoming-inseparable-1iaa)
+- [New Here](https://dev.to/oxygen002/new-here-4n6l)
 <!-- BLOG-POST-LIST:END -->
 
