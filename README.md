@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Got frustrated with the docs, so I made a Playwright Cheatsheet](https://dev.to/shiling/got-frustrated-with-the-docs-so-i-made-a-playwright-cheatsheet-1aaf)
-- [Creating a market-viable app in less than Week](https://dev.to/brian_mk/creating-a-market-viable-app-in-less-than-week-gc7)
-- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
-- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
+- [Building a Recipe Scraping Tool in Python: What I learned](https://dev.to/eduardoreyes007351208/building-a-recipe-scraping-tool-in-python-what-i-learned-4na3)
+- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
+- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
+- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
 <!-- BLOG-POST-LIST:END -->
 
