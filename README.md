@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #249 : TanStack, Fast-Refresh, MDX | Expo, Legend List, Uniwind, New Arch, Rock, Screens | Interop](https://dev.to/sebastienlorber/this-week-in-react-249-tanstack-fast-refresh-mdx-expo-legend-list-uniwind-new-arch-rock-4o9p)
-- [Silent Syntax &amp; Vyoma: A 16-Year-Old’s Vision for Developers, Students, and Businesses](https://dev.to/pjdeveloper896/silent-syntax-vyoma-a-16-year-olds-vision-for-developers-students-and-businesses-1dcn)
-- [ApexEloquent v1.0 – An Apex ORM Framework with True DB-Free Unit Testing](https://dev.to/krile_136cm_dee71f4d3fe7d/apexeloquent-v10-an-apex-orm-framework-with-true-db-free-unit-testing-20kj)
-- [Why Self-Hosted Crypto Gateways is Gen Alpha.](https://dev.to/tradaxd/why-self-hosted-crypto-gateways-is-gen-alpha-29ll)
+- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
+- [The Alchemist&#39;s Endgame: My Final Synthesis of p-adic Clojure and Legacy Code.](https://dev.to/p_pumulo/the-alchemists-endgame-my-final-synthesis-of-p-adic-clojure-and-legacy-code-1ije)
+- [Scratching My Own Itch](https://dev.to/tajudeen_abdulgafar_e0363/scratching-my-own-itch-building-a-tool-to-stop-copy-pasting-code-to-chatgpt-4ki0)
+- [Exploring Azure Functions for Synthetic Monitoring with Playwright: A Complete Guide - Part 4](https://dev.to/araujosnathan/exploring-azure-functions-for-synthetic-monitoring-with-playwright-a-complete-guide-part-4-481f)
 <!-- BLOG-POST-LIST:END -->
 
