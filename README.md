@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
-- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
-- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
-- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
+- [APIs are everywhere. But how do we test them without breaking the bank?](https://dev.to/artibol/apis-are-everywhere-but-how-do-we-test-them-without-breaking-the-bank-2heh)
+- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
+- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
+- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
 <!-- BLOG-POST-LIST:END -->
 
