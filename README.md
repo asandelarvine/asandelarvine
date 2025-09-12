@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The TON Scam Surge: Telegram’s Crypto Revolution Gone Wrong](https://dev.to/dhis_is_jj/the-ton-scam-surge-telegrams-crypto-revolution-gone-wrong-1h66)
-- [🚀 Gestión de estado en React](https://dev.to/pwalvarado/gestion-de-estado-en-react-2d34)
-- [getState](https://dev.to/pwalvarado/getstate-3256)
-- [This Is How I Deploy My SSH App](https://dev.to/hiro_111/this-is-how-i-deploy-my-ssh-app-k6i)
+- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
+- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
+- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
+- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
 <!-- BLOG-POST-LIST:END -->
 
