@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Series: Episode 21 — Docker Logging &amp; Monitoring Essentials 📊](https://dev.to/yash_sonawane25/docker-series-episode-21-docker-logging-monitoring-essentials-4f4k)
-- [Thoughts on Codecademy?](https://dev.to/crissortacodes/thoughts-on-codecademy-5d)
-- [Introducing db.nvim: Your Database Companion in Neovim](https://dev.to/praem90/introducing-dbnvim-your-database-companion-in-neovim-12lh)
-- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
+- [[Boost]](https://dev.to/varshithvhegde/-48pg)
+- [How to deploy Spring Boot Application on Google Cloud Run using Cloud Build - ANIL LALAM](https://dev.to/anil_lalam_2cee9c52a20a39/how-to-deploy-spring-boot-application-on-google-cloud-run-using-cloud-build-anil-lalam-8lc)
+- [Is it fair to fear AI?](https://dev.to/wdp/is-it-fair-to-fear-ai-22pn)
+- [IGN: Hollow Knight: Silksong Battle Arena/Locked Room - Birds Fight &lpar;Greymoor&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-battle-arenalocked-room-birds-fight-greymoor-188o)
 <!-- BLOG-POST-LIST:END -->
 
