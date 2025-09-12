@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Recipe Scraping Tool in Python: What I learned](https://dev.to/eduardoreyes007351208/building-a-recipe-scraping-tool-in-python-what-i-learned-4na3)
-- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
-- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
-- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-23ai)
+- [How I Almost Got Pwned - A Tale of Supply Chain Attacks and GitHub Actions Gone Wrong](https://dev.to/dalenguyen/how-i-almost-got-pwned-a-tale-of-supply-chain-attacks-and-github-actions-gone-wrong-56oh)
+- [Gaussian Blur](https://dev.to/ikhwanal/gaussian-blur-4nnd)
+- [🚀 Day 12 of My DevOps Journey: Ansible — Configuration Management Made Simple ⚙️](https://dev.to/dankbhardwaj/day-12-of-my-devops-journey-ansible-configuration-management-made-simple-23pe)
 <!-- BLOG-POST-LIST:END -->
 
