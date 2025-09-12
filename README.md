@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏠 RoomAI: Your Personal Interior Designer Powered by Multimodal AI](https://dev.to/bowen007/roomai-your-personal-interior-designer-powered-by-multimodal-ai-1oi7)
-- [#DAY 6: Closing the On-Prem Loop](https://dev.to/samueladeduntan/day-6-closing-the-on-prem-loop-5923)
-- [The Great Unification: Why QA and Data Science are Becoming Inseparable](https://dev.to/vaibhavkuls/the-great-unification-why-qa-and-data-science-are-becoming-inseparable-1iaa)
-- [New Here](https://dev.to/oxygen002/new-here-4n6l)
+- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
+- [Lessons &amp; Practices for Building and Optimizing Multi-Agent RAG Systems with DSPy and GEPA](https://dev.to/sky_yv_11b3d5d44877d27276/lessons-practices-for-building-and-optimizing-multi-agent-rag-systems-with-dspy-and-gepa-2lh7)
+- [Why Most AI Agents Fail in Production &lpar;And How to Build Ones That Don’t&rpar;](https://dev.to/sky_yv_11b3d5d44877d27276/why-most-ai-agents-fail-in-production-and-how-to-build-ones-that-dont-1c00)
+- [Top Features of C Language Every Beginner Should Know](https://dev.to/suraj_kumar_fb57ae0928df2/top-features-of-c-language-every-beginner-should-know-235e)
 <!-- BLOG-POST-LIST:END -->
 
