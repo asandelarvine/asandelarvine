@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Farsi Image generator](https://dev.to/babak271/farsi-image-generator-3jac)
-- [Unlocking Crypto Market Insights: A Practical Guide to Building Real-time Trading Signals with the LunarCrush API SDK](https://dev.to/dbatson/unlocking-crypto-market-insights-a-practical-guide-to-building-real-time-trading-signals-with-the-1bm1)
-- [Portfolio + Booking: The Freelancer’s Secret to Steady Income](https://dev.to/kamruljpi/portfolio-booking-the-freelancers-secret-to-steady-income-3e4l)
-- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
+- [Fix for Crow C++ websocket which could not receive beyond 128 chars](https://dev.to/lucpattyn/fix-for-crow-c-websocket-which-could-not-receive-beyond-128-chars-3ee6)
+- [CSPM, CIEM, CNAPP: What These Cloud Security Tools Really Do and Why They Matter for You](https://dev.to/heyjoshlee/cspm-ciem-cnapp-what-these-cloud-security-tools-really-do-and-why-they-matter-for-you-300o)
+- [First Post! Documenting my Technical Learnings](https://dev.to/shri-dharshini/first-post-documenting-my-technical-learnings-3kl9)
+- [Cybersecurity Shell Scripting: Build Weather &amp; Calculator Tools with Bash Loops &amp; File Ops](https://dev.to/labex/cybersecurity-shell-scripting-build-weather-calculator-tools-with-bash-loops-file-ops-2mic)
 <!-- BLOG-POST-LIST:END -->
 
