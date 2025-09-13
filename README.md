@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pgdbtemplate – fast PostgreSQL test databases in Go using templates](https://dev.to/andrei-polukhin/pgdbtemplate-fast-postgresql-test-databases-in-go-using-templates-138n)
-- [Day 35 of My Data Analytics Journey !](https://dev.to/ramyacse/day-35-of-my-data-analytics-journey--32mm)
-- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501)
-- [Harmonious Motion: Sculpting Flows for Impeccable Trajectory Planning by Arvind Sundararajan](https://dev.to/arvindsundararajan/harmonious-motion-sculpting-flows-for-impeccable-trajectory-planning-by-arvind-sundararajan-a5b)
+- [Your Green Hand Helper: Your AI partner in plant parenthood.](https://dev.to/paolo_pao_30b161d1d5f07e5/your-green-hand-helper-your-ai-partner-in-plant-parenthood-3c6i)
+- [Symfony Station Communiqué - Stardate: ✦ 05 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-05-september-2025-the-latest-symfony-drupal-typo3-3ipl)
+- [Part-50: 🔥Google Cloud Networking – VPC Firewall Rules Components Explained](https://dev.to/latchudevops/part-50-google-cloud-networking-vpc-firewall-rules-components-explained-361h)
+- [Obot MCP Gateway: An Enterprise Control Plane for the Model Context Protocol](https://dev.to/om_shree_0709/obot-mcp-gateway-an-enterprise-control-plane-for-the-model-context-protocol-2abk)
 <!-- BLOG-POST-LIST:END -->
 
