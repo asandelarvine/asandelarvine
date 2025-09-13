@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: Is &quot;Sinners&quot; a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-5a5a)
-- [IGN: Hollow Knight: Silksong Boss Fight - Last Judge &lpar;Blasted Steps&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-last-judge-blasted-steps-4p6i)
-- [IGN: Malevilent - Official Cinematic Reveal Trailer](https://dev.to/gg_news/ign-malevilent-official-cinematic-reveal-trailer-1kl9)
-- [IGN: NLH 26 Review](https://dev.to/gg_news/ign-nlh-26-review-3aob)
+- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
+- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
+- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
+- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
 <!-- BLOG-POST-LIST:END -->
 
