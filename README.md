@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: To Hit Driver Straight Always Do This Before Every Swing](https://dev.to/youtube_golf/danny-maude-to-hit-driver-straight-always-do-this-before-every-swing-265i)
-- [IGN: Is Xbox Game Pass Hurting Developers? - Unlocked Clips](https://dev.to/gg_news/ign-is-xbox-game-pass-hurting-developers-unlocked-clips-17cm)
-- [IGN: The Biggest Games Still to Come in 2025 - Fall Update Edition](https://dev.to/gg_news/ign-the-biggest-games-still-to-come-in-2025-fall-update-edition-28d5)
-- [CI/CD Setup for Node.js on Shared Hosting &lpar;cPanel&rpar;](https://dev.to/msnmongare/cicd-setup-for-nodejs-on-shared-hosting-cpanel-551j)
+- [This AI Tells the Story Behind Any Historical Photo or Video](https://dev.to/axrisi/this-ai-tells-the-story-behind-any-historical-photo-or-video-451)
+- [Facial Time Machine](https://dev.to/sakshi_ghuge_41a632debeec/facial-time-machine-4hic)
+- [CalmaBeats](https://dev.to/kimdidit/calmabeats-2edh)
+- [Building a Production-Ready Todo List with Kotlin &amp; Jetpack Compose: Modern Android Architecture &amp; Testing](https://dev.to/blamsa0mine/building-a-production-ready-todo-list-with-kotlin-jetpack-compose-modern-android-architecture--4koc)
 <!-- BLOG-POST-LIST:END -->
 
