@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview Prep Sites Are Creating a Generation of Incompetent Engineers &lpar;but then so is AI&rpar;](https://dev.to/peter_hodgson/interview-prep-sites-are-creating-a-generation-of-incompetent-engineers-but-then-so-is-ai-1cpl)
-- [Smart Elderly Care Assistant](https://dev.to/ruturaj_khandale_33c94e66/smart-elderly-care-assistant-37c5)
-- [Les Avantages de la Mise à Disposition de Personnel en Mauritanie pour les Projets de Construction](https://dev.to/jameslee1/les-avantages-de-la-mise-a-disposition-de-personnel-en-mauritanie-pour-les-projets-de-construction-l0d)
-- [Unveiling the Top 50 Python Interview Questions: A Deep Dive into Python Proficiency](https://dev.to/vjnvisakh/unveiling-the-top-50-python-interview-questions-a-deep-dive-into-python-proficiency-27nd)
+- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
+- [The Future of Applied AI Engineers](https://dev.to/jackm_345442a09fb53b/the-future-of-applied-ai-engineers-5gl5)
+- [From Brittle to Brilliant: A Developer&#39;s Guide to Building Trustworthy Graph RAG with Local LLMs](https://dev.to/bibinprathap/from-brittle-to-brilliant-a-developers-guide-to-building-trustworthy-graph-rag-with-local-llms-1217)
+- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
 <!-- BLOG-POST-LIST:END -->
 
