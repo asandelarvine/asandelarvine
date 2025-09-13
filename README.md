@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
-- [Оптимизация конверсии SMB: как AI и автоматизация меняют правила игры для малого бизнеса](https://dev.to/cambocom/optimizatsiia-konviersii-smb-kak-ai-i-avtomatizatsiia-mieniaiut-pravila-ighry-dlia-malogho-bizniesa-1e25)
-- [Harmonious Motion: Guiding Robots with Learned Flow Fields](https://dev.to/arvindsundararajan/harmonious-motion-guiding-robots-with-learned-flow-fields-538g)
-- [Did you know your database schema might be leaking through error messages and stack traces?](https://dev.to/amirsaeed_skomjani/did-you-know-your-database-schema-might-be-leaking-through-error-messages-and-stack-traces-2pe0)
+- [🧱 Laravel 12 Middleware: From Zero to Production-Ready](https://dev.to/devtalk94/laravel-12-middleware-from-zero-to-production-ready-k2o)
+- [YouTube Storybook Converter](https://dev.to/aniruddhaadak/youtube-storybook-converter-4l3p)
+- [Outil de Cybersécurité du Jour - Sep 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-13-2025-3mpf)
+- [CloudHSM: The Fort Knox of Your Cloud Data](https://dev.to/leonardkachi/cloudhsm-the-fort-knox-of-your-cloud-data-4526)
 <!-- BLOG-POST-LIST:END -->
 
