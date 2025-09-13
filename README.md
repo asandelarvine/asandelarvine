@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
-- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
-- [Proving God with JavaScript? A React &amp; TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m)
-- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd)
+- [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1fhe)
+- [JavaScript Comments: Why Writing Them is a Superpower for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-comments-why-writing-them-is-a-superpower-for-developers-1k0e)
+- [Physical Pen Testing &amp; Social Engineering](https://dev.to/godofgeeks/physical-pen-testing-social-engineering-298b)
+- [visual programming](https://dev.to/datse40/visual-programming-ml9)
 <!-- BLOG-POST-LIST:END -->
 
