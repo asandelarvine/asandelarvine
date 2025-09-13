@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 Mastering Dockerfile: A Complete Beginner’s Guide to Building Containers](https://dev.to/lalith_charan/mastering-dockerfile-a-complete-beginners-guide-to-building-containers-2368)
-- [3 Java Mini Programs to Try Today!](https://dev.to/mohamad_mhana/3-java-mini-programs-to-try-today-3i98)
-- [Quantum Leap for AI: Teaching Machines to Think Compositionally](https://dev.to/arvindsundararajan/quantum-leap-for-ai-teaching-machines-to-think-compositionally-n79)
-- [Building Dark Mode &amp; Dynamic Theming with Kotlin &amp; Jetpack Compose: Advanced Settings, DataStore &amp; Color Management](https://dev.to/blamsa0mine/building-dark-mode-dynamic-theming-with-kotlin-jetpack-compose-advanced-settings-datastore--39d7)
+- [The Shadow Empire: How Haowang Guarantee Became Telegram&#39;s $27 Billion Scam Superhub](https://dev.to/dhis_is_jj/the-shadow-empire-how-haowang-guarantee-became-telegrams-27-billion-scam-superhub-3a86)
+- [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
+- [How to Add GitHub Secrets Easily &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-add-github-secrets-easily-step-by-step-guide-3cmh)
+- [NutriLens AI: Personalized Nutrition Analyzer Using Gemini&#39;s Multimodal Magic 🍎✨](https://dev.to/anish_deokate_c6d085d7da3/nutrilens-ai-personalized-nutrition-analyzer-using-geminis-multimodal-magic-published-true-43i)
 <!-- BLOG-POST-LIST:END -->
 
