@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering DOM Manipulation with Svelte Actions and Children](https://dev.to/a1guy/mastering-dom-manipulation-with-svelte-actions-and-children-238m)
-- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
-- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
-- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
+- [HTMX Dependent Dropdowns: 5 Strategies I Learned the Hard Way](https://dev.to/sisproid/htmx-dependent-dropdowns-5-strategies-i-learned-the-hard-way-2lj5)
+- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf)
+- [Proving God with JavaScript? A React &amp; TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m)
+- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd)
 <!-- BLOG-POST-LIST:END -->
 
