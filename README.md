@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sei &quot;Withdrawal address is invalid&quot; on Kraken](https://dev.to/djweb3/sei-withdrawal-address-is-invalid-on-kraken-d68)
-- [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
-- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
-- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
+- [Polyphonic: Is &quot;Sinners&quot; a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-5a5a)
+- [IGN: Hollow Knight: Silksong Boss Fight - Last Judge &lpar;Blasted Steps&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-last-judge-blasted-steps-4p6i)
+- [IGN: Malevilent - Official Cinematic Reveal Trailer](https://dev.to/gg_news/ign-malevilent-official-cinematic-reveal-trailer-1kl9)
+- [IGN: NLH 26 Review](https://dev.to/gg_news/ign-nlh-26-review-3aob)
 <!-- BLOG-POST-LIST:END -->
 
