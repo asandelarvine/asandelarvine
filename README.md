@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
-- [The Future of Applied AI Engineers](https://dev.to/jackm_345442a09fb53b/the-future-of-applied-ai-engineers-5gl5)
-- [From Brittle to Brilliant: A Developer&#39;s Guide to Building Trustworthy Graph RAG with Local LLMs](https://dev.to/bibinprathap/from-brittle-to-brilliant-a-developers-guide-to-building-trustworthy-graph-rag-with-local-llms-1217)
-- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
+- [pgdbtemplate – fast PostgreSQL test databases in Go using templates](https://dev.to/andrei-polukhin/pgdbtemplate-fast-postgresql-test-databases-in-go-using-templates-138n)
+- [Day 35 of My Data Analytics Journey !](https://dev.to/ramyacse/day-35-of-my-data-analytics-journey--32mm)
+- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501)
+- [Harmonious Motion: Sculpting Flows for Impeccable Trajectory Planning by Arvind Sundararajan](https://dev.to/arvindsundararajan/harmonious-motion-sculpting-flows-for-impeccable-trajectory-planning-by-arvind-sundararajan-a5b)
 <!-- BLOG-POST-LIST:END -->
 
