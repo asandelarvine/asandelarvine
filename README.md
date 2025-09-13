@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review and Testing – Lessons Learned &lpar;OSD600LAB_1&rpar;](https://dev.to/hsachdeva9/code-review-and-testing-lessons-learned-osd600lab1-11p8)
-- [Beyond the Label: How Python Variables Really Work with Memory](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-the-label-how-python-variables-really-work-with-memory-41d1)
-- [🏆001. Wins of my week🏆](https://dev.to/0xvalacor/001-wins-of-my-week-227o)
-- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
+- [Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no tex](https://dev.to/om_prakashprajapat_0d92f/using-the-nano-banana-model-create-a-17-scale-commercialized-figurine-of-the-characters-in-the-2agp)
+- [Peer Review](https://dev.to/tajudeen_abdulgafar_e0363/peer-review-651)
+- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
+- [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
 <!-- BLOG-POST-LIST:END -->
 
