@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prototype to Production: How Promptfoo and Vitest Made podcast-it Reliable](https://dev.to/logarithmicspirals/from-prototype-to-production-how-promptfoo-and-vitest-made-podcast-it-reliable-5md)
-- [From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps](https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h)
-- [🚀 Upgrading &amp; Utilising My Model &lpar;ML/AI Integration Series&rpar;](https://dev.to/hassamdev/upgrading-utilising-my-model-mlai-integration-series-3hj9)
-- [🚀 How to Upload Environment Variables to GitLab CI/CD](https://dev.to/ralvaracode/how-to-upload-environment-variables-to-gitlab-cicd-mo3)
+- [Day 49 - AWS Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-49-aws-interview-questions-44mk)
+- [AI-Powered Virtual Biopsy: Visualizing the Invisible in Bone Implants](https://dev.to/arvindsundararajan/ai-powered-virtual-biopsy-visualizing-the-invisible-in-bone-implants-5a24)
+- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
+- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
 <!-- BLOG-POST-LIST:END -->
 
