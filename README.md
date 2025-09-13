@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Gemini 2.5 Flash Lite: A Fast and Affordable AI Model for Developers](https://dev.to/rijultp/exploring-gemini-25-flash-lite-a-fast-and-affordable-ai-model-for-developers-282h)
-- [The Game Theorists: Game Theory: The Internet is DEAD…](https://dev.to/gg_news/the-game-theorists-game-theory-the-internet-is-dead-196c)
-- [GameSpot: Borderlands 4 and the Art of Playing It Safe](https://dev.to/gg_news/gamespot-borderlands-4-and-the-art-of-playing-it-safe-49pe)
-- [GameSpot: Dying Light: The Beast Everything To Know](https://dev.to/gg_news/gamespot-dying-light-the-beast-everything-to-know-35n0)
+- [Why I Write... The answer is simple, yet deeply personal](https://dev.to/karel_merwe_1094b4c29dcf5/why-i-write-48ke)
+- [Coding Challenge: Can You Spot the Bug? 🔎🐛](https://dev.to/beyond-code/coding-challenge-can-you-spot-the-bug-3ffi)
+- [Flow Fields: The Secret to Naturally Intelligent Motion](https://dev.to/arvindsundararajan/flow-fields-the-secret-to-naturally-intelligent-motion-54em)
+- [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
 <!-- BLOG-POST-LIST:END -->
 
