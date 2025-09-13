@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Personas Matter: A Friendly Approach to UI/UX Design](https://dev.to/lovestaco/why-personas-matter-a-friendly-approach-to-uiux-design-4l0f)
-- [Oracle Performance Views](https://dev.to/mrcaption49/oracle-performance-views-45ed)
-- [Building an Interactive Counter with Kotlin &amp; Jetpack Compose: Animations, State Management &amp; UX Excellence](https://dev.to/blamsa0mine/building-an-interactive-counter-with-kotlin-jetpack-compose-animations-state-management-ux-1kjb)
-- [AI First Aid Assistant](https://dev.to/rogerio_lima_72d949a1fe47/ai-first-aid-assistant-18gd)
+- [🐳 Mastering Dockerfile: A Complete Beginner’s Guide to Building Containers](https://dev.to/lalith_charan/mastering-dockerfile-a-complete-beginners-guide-to-building-containers-2368)
+- [3 Java Mini Programs to Try Today!](https://dev.to/mohamad_mhana/3-java-mini-programs-to-try-today-3i98)
+- [Quantum Leap for AI: Teaching Machines to Think Compositionally](https://dev.to/arvindsundararajan/quantum-leap-for-ai-teaching-machines-to-think-compositionally-n79)
+- [Building Dark Mode &amp; Dynamic Theming with Kotlin &amp; Jetpack Compose: Advanced Settings, DataStore &amp; Color Management](https://dev.to/blamsa0mine/building-dark-mode-dynamic-theming-with-kotlin-jetpack-compose-advanced-settings-datastore--39d7)
 <!-- BLOG-POST-LIST:END -->
 
