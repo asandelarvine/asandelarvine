@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Green Hand Helper: Your AI partner in plant parenthood.](https://dev.to/paolo_pao_30b161d1d5f07e5/your-green-hand-helper-your-ai-partner-in-plant-parenthood-3c6i)
-- [Symfony Station Communiqué - Stardate: ✦ 05 September 2025 ✦: The Latest Symfony, Drupal, TYPO3, and PHP News!](https://dev.to/reubenwalker64/symfony-station-communique-stardate-05-september-2025-the-latest-symfony-drupal-typo3-3ipl)
-- [Part-50: 🔥Google Cloud Networking – VPC Firewall Rules Components Explained](https://dev.to/latchudevops/part-50-google-cloud-networking-vpc-firewall-rules-components-explained-361h)
-- [Obot MCP Gateway: An Enterprise Control Plane for the Model Context Protocol](https://dev.to/om_shree_0709/obot-mcp-gateway-an-enterprise-control-plane-for-the-model-context-protocol-2abk)
+- [Danny Maude: To Hit Driver Straight Always Do This Before Every Swing](https://dev.to/youtube_golf/danny-maude-to-hit-driver-straight-always-do-this-before-every-swing-265i)
+- [IGN: Is Xbox Game Pass Hurting Developers? - Unlocked Clips](https://dev.to/gg_news/ign-is-xbox-game-pass-hurting-developers-unlocked-clips-17cm)
+- [IGN: The Biggest Games Still to Come in 2025 - Fall Update Edition](https://dev.to/gg_news/ign-the-biggest-games-still-to-come-in-2025-fall-update-edition-28d5)
+- [CI/CD Setup for Node.js on Shared Hosting &lpar;cPanel&rpar;](https://dev.to/msnmongare/cicd-setup-for-nodejs-on-shared-hosting-cpanel-551j)
 <!-- BLOG-POST-LIST:END -->
 
