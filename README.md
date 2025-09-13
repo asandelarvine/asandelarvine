@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Laravel 12 Middleware: From Zero to Production-Ready](https://dev.to/devtalk94/laravel-12-middleware-from-zero-to-production-ready-k2o)
-- [YouTube Storybook Converter](https://dev.to/aniruddhaadak/youtube-storybook-converter-4l3p)
-- [Outil de Cybersécurité du Jour - Sep 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-13-2025-3mpf)
-- [CloudHSM: The Fort Knox of Your Cloud Data](https://dev.to/leonardkachi/cloudhsm-the-fort-knox-of-your-cloud-data-4526)
+- [Interview Prep Sites Are Creating a Generation of Incompetent Engineers &lpar;but then so is AI&rpar;](https://dev.to/peter_hodgson/interview-prep-sites-are-creating-a-generation-of-incompetent-engineers-but-then-so-is-ai-1cpl)
+- [Smart Elderly Care Assistant](https://dev.to/ruturaj_khandale_33c94e66/smart-elderly-care-assistant-37c5)
+- [Les Avantages de la Mise à Disposition de Personnel en Mauritanie pour les Projets de Construction](https://dev.to/jameslee1/les-avantages-de-la-mise-a-disposition-de-personnel-en-mauritanie-pour-les-projets-de-construction-l0d)
+- [Unveiling the Top 50 Python Interview Questions: A Deep Dive into Python Proficiency](https://dev.to/vjnvisakh/unveiling-the-top-50-python-interview-questions-a-deep-dive-into-python-proficiency-27nd)
 <!-- BLOG-POST-LIST:END -->
 
