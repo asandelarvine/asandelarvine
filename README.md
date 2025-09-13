@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This AI Tells the Story Behind Any Historical Photo or Video](https://dev.to/axrisi/this-ai-tells-the-story-behind-any-historical-photo-or-video-451)
-- [Facial Time Machine](https://dev.to/sakshi_ghuge_41a632debeec/facial-time-machine-4hic)
-- [CalmaBeats](https://dev.to/kimdidit/calmabeats-2edh)
-- [Building a Production-Ready Todo List with Kotlin &amp; Jetpack Compose: Modern Android Architecture &amp; Testing](https://dev.to/blamsa0mine/building-a-production-ready-todo-list-with-kotlin-jetpack-compose-modern-android-architecture--4koc)
+- [AWS [Week-4]](https://dev.to/suvrajeet/aws-week-4-15h0)
+- [FastAPI, Furious Tests: The Need for Speed](https://dev.to/polakshahar/fastapi-furious-tests-the-need-for-speed-11oi)
+- [🚀 Building &amp; Running Multiple Services with Docker Compose](https://dev.to/devcorner/building-running-multiple-services-with-docker-compose-59ba)
+- [Unlock Lightning-Fast Voice AI: Rethinking Neural Network Hardware](https://dev.to/pannalabs/unlock-lightning-fast-voice-ai-rethinking-neural-network-hardware-1e77)
 <!-- BLOG-POST-LIST:END -->
 
