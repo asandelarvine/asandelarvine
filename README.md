@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
-- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
-- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
-- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
+- [Code Review and Testing – Lessons Learned &lpar;OSD600LAB_1&rpar;](https://dev.to/hsachdeva9/code-review-and-testing-lessons-learned-osd600lab1-11p8)
+- [Beyond the Label: How Python Variables Really Work with Memory](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-the-label-how-python-variables-really-work-with-memory-41d1)
+- [🏆001. Wins of my week🏆](https://dev.to/0xvalacor/001-wins-of-my-week-227o)
+- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
 <!-- BLOG-POST-LIST:END -->
 
