@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 2](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-2-1lgd)
-- [Day 1](https://dev.to/code_hntr/day-1-2lao)
-- [How I Built an AI-Powered Transcript Summarizer Using n8n](https://dev.to/arafatruetbd/how-i-built-an-ai-powered-transcript-summarizer-using-n8n-40d4)
-- [i found running c code with gcc in terminal easier then the run button on vscode and dev c++](https://dev.to/bankai2054/i-found-running-c-code-with-gcc-in-terminal-easier-then-the-run-button-on-vscode-and-dev-c-3g79)
+- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
+- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
+- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
 <!-- BLOG-POST-LIST:END -->
 
