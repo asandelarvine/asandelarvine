@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design TinyURL](https://dev.to/piyush_deshmukh/design-tinyurl-3fm1)
-- [Reverse Engineering Reality with Google AI](https://dev.to/simimwanza/reverse-engineering-reality-with-google-ai-36nm)
-- [Albania Just Deployed the World&#39;s First AI Government Minister — Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/albania-just-deployed-the-worlds-first-ai-government-minister-heres-what-developers-need-to-know-1f13)
-- [Article 1 : Chapter E: Introduction to LangChain &amp; LangGraph](https://dev.to/raunaklallala/article-1-chapter-e-introduction-to-langchain-langgraph-agn)
+- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
+- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
+- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
+- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
 <!-- BLOG-POST-LIST:END -->
 
