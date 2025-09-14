@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: A Go package to reduce err boilerplate](https://dev.to/winstonpuckett/introducing-a-go-package-to-reduce-err-boilerplate-3o6a)
-- [From Word Predictor to Thinking Partner: The Rise of Thinking Models](https://dev.to/jiminlee/from-word-predictor-to-thinking-partner-the-rise-of-thinking-models-34e9)
-- [AI Dev Tools I Use Everyday](https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd)
-- [Quantum Imagination: Teaching AI to Think Like an Artist](https://dev.to/arvindsundararajan/quantum-imagination-teaching-ai-to-think-like-an-artist-540g)
+- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
+- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
+- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
+- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
 <!-- BLOG-POST-LIST:END -->
 
