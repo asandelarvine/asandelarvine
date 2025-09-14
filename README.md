@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best UI Animation Libraries &amp; Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f)
-- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n)
-- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg)
-- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55)
+- [Firstruits Haze Calculator](https://dev.to/firstfruits41/firstruits-haze-calculator-36pp)
+- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
+- [Sample EU AI Act checkist](https://dev.to/vishalendu/sample-eu-ai-act-checkist-pgg)
+- [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
 <!-- BLOG-POST-LIST:END -->
 
