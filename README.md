@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Vector Digitizing vs. Raster Graphics: Why Quality Matters in Embroidery](https://dev.to/solution_punch_7577c3f491/-vector-digitizing-vs-raster-graphics-why-quality-matters-in-embroidery-22m0)
-- [AI Test Case Generator](https://dev.to/tructran1911/ai-test-case-generator-1ddp)
-- [AI Itasha Studio](https://dev.to/aniruddhaadak/ai-itasha-studio-p7i)
-- [Effective Community Management for Your Own Social Network in the Web4 Era](https://dev.to/web4/effective-community-management-for-your-own-social-network-in-the-web4-era-1fpb)
+- [Beyond the Black Box: Building AI Agents that Truly Understand Their World by Arvind Sundararajan](https://dev.to/arvindsundararajan/beyond-the-black-box-building-ai-agents-that-truly-understand-their-world-by-arvind-sundararajan-o4g)
+- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
+- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
+- [Linux - File Permissions](https://dev.to/ayush_gupta_70e4746734c34/linux-file-permissions-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
