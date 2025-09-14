@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Symphony of Success: Decoding Spatial Intelligence in Teams](https://dev.to/arvindsundararajan/the-silent-symphony-of-success-decoding-spatial-intelligence-in-teams-30m6)
-- [My Experience Participating in the AWS KIRO Hackathon](https://dev.to/lulu3202/my-experience-participating-in-the-aws-kiro-hackathon-578f)
-- [比官方便宜一半以上！OpenAI Responses API 教程](https://dev.to/qingcai_cui_9bdd9dbd584b8/bi-guan-fang-bian-yi-ban-yi-shang-openai-responses-api-jiao-cheng-418j)
-- [Part-56: Google Cloud VPC Firewall Policy – Apply Rules Across Multiple VPC Networks in GCP Cloud](https://dev.to/latchudevops/part-56-google-cloud-vpc-firewall-policy-apply-rules-across-multiple-vpc-networks-in-gcp-cloud-h13)
+- [# Vector Digitizing vs. Raster Graphics: Why Quality Matters in Embroidery](https://dev.to/solution_punch_7577c3f491/-vector-digitizing-vs-raster-graphics-why-quality-matters-in-embroidery-22m0)
+- [AI Test Case Generator](https://dev.to/tructran1911/ai-test-case-generator-1ddp)
+- [AI Itasha Studio](https://dev.to/aniruddhaadak/ai-itasha-studio-p7i)
+- [Effective Community Management for Your Own Social Network in the Web4 Era](https://dev.to/web4/effective-community-management-for-your-own-social-network-in-the-web4-era-1fpb)
 <!-- BLOG-POST-LIST:END -->
 
