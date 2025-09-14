@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond ChatGPT: 7 Practical Ways AI is Quietly Reshaping Everyday Business &lpar;That No One Talks About&rpar;](https://dev.to/kammatech/beyond-chatgpt-7-practical-ways-ai-is-quietly-reshaping-everyday-business-that-no-one-talks-about-jd4)
-- [Securing Azure Workloads with Azure Firewall: A Step-by-Step Implementation Guide](https://dev.to/isaiah_izibili_7a39b7d627/securing-azure-workloads-with-azure-firewall-a-step-by-step-implementation-guide-4cd4)
-- [Following my passion #1: Raylib, Zig and the Square on screen](https://dev.to/brharrelldev/following-my-passion-1-raylib-zig-and-the-square-on-screen-5eii)
-- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
+- [Amazon Q Developer &amp; Q CLI Essentials Coverage](https://dev.to/vijayanirmalag2/amazon-q-developer-q-cli-essentials-coverage-1c1i)
+- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
+- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
+- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
 <!-- BLOG-POST-LIST:END -->
 
