@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
-- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
-- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
-- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
+- [Part-52: 🚀Google Cloud VPC Firewall Rules – Target as Specified Target Tags](https://dev.to/latchudevops/part-52-google-cloud-vpc-firewall-rules-target-as-specified-target-tags-286h)
+- [Turning Nepal’s Wasted Hydropower into Digital Gold](https://dev.to/sudan_pudasaini_fbf2a274c/turning-nepals-wasted-hydropower-into-digital-gold-4pl2)
+- [In 2025, I have 65k followers on LinkedIn and 30,000 subscribers to my newsletter, and I drive my maximum business from LinkedIn. So, if you’re not building your brand on LinkedIn in 2025, you’re leaving opportunities on the table.](https://dev.to/jaideepparashar/in-2025-i-have-65k-followers-on-linkedin-and-30000-subscribers-to-my-newsletter-and-i-drive-my-4fp8)
+- [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
 <!-- BLOG-POST-LIST:END -->
 
