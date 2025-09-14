@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Illuminating the Unseen: AI-Powered Clarity in Low-Light Imaging](https://dev.to/arvindsundararajan/illuminating-the-unseen-ai-powered-clarity-in-low-light-imaging-2ghh)
-- [I Asked Kiro to Understand My Verilog Codebase — It Built Me an AI-Powered EDA Assistant](https://dev.to/pawan_fe14d4bbd65e54b9a86/i-asked-kiro-to-understand-my-verilog-codebase-it-built-me-an-ai-powered-eda-assistant-41j4)
-- [Consciousness as Actor: Formalizing Human Trust in Quantum Git-RAF Systems](https://dev.to/obinexus/consciousness-as-actor-formalizing-human-trust-in-quantum-git-raf-systems-51pn)
-- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
+- [Beyond ChatGPT: 7 Practical Ways AI is Quietly Reshaping Everyday Business &lpar;That No One Talks About&rpar;](https://dev.to/kammatech/beyond-chatgpt-7-practical-ways-ai-is-quietly-reshaping-everyday-business-that-no-one-talks-about-jd4)
+- [Securing Azure Workloads with Azure Firewall: A Step-by-Step Implementation Guide](https://dev.to/isaiah_izibili_7a39b7d627/securing-azure-workloads-with-azure-firewall-a-step-by-step-implementation-guide-4cd4)
+- [Following my passion #1: Raylib, Zig and the Square on screen](https://dev.to/brharrelldev/following-my-passion-1-raylib-zig-and-the-square-on-screen-5eii)
+- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
 <!-- BLOG-POST-LIST:END -->
 
