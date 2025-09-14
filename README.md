@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In a Method calling what happens in a compile time and Run Time.](https://dev.to/vigneshwaralingam/in-a-method-calling-what-happens-in-a-compile-time-and-run-time-4m5i)
-- [SentinelMFT: AI-Powered Secure File Transfer &amp; Network Firewall for Google Cloud](https://dev.to/raghavachellu/sentinelmft-ai-powered-secure-file-transfer-network-firewall-for-google-cloud-2ne3)
-- [How to Generate PDF Files from Web Pages Using Selenium and Python](https://dev.to/guzmanojero/how-to-generate-pdf-files-from-web-pages-using-selenium-and-python-lb4)
-- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
+- [Day 3 - Grammar for the Parser](https://dev.to/lahari_tenneti_4a8a082e9c/day-3-grammar-for-the-parser-2o88)
+- [UiPath vs Power Platform: Same Goals, Different Soap Opera](https://dev.to/consolatacleah/uipath-vs-power-platform-same-goals-different-soap-opera-3207)
+- [SelfSprite Maze Game---------Take a selfie, and become an animated playable character in the game](https://dev.to/firevibe/selfsprite-maze-game-take-a-selfie-and-become-an-animated-playable-character-in-the-game-3h2h)
+- [Predictive Motion: Guiding Robots with Learned Flow Fields by Arvind Sundararajan](https://dev.to/arvindsundararajan/predictive-motion-guiding-robots-with-learned-flow-fields-by-arvind-sundararajan-44ak)
 <!-- BLOG-POST-LIST:END -->
 
