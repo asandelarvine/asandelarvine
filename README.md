@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Black Box: Building AI Agents that Truly Understand Their World by Arvind Sundararajan](https://dev.to/arvindsundararajan/beyond-the-black-box-building-ai-agents-that-truly-understand-their-world-by-arvind-sundararajan-o4g)
-- [Data Engineering Core Concepts](https://dev.to/prudiec/data-engineering-core-concepts-5c47)
-- [New Relic Template for Strands](https://dev.to/aws-builders/new-relic-template-for-strands-33p)
-- [Linux - File Permissions](https://dev.to/ayush_gupta_70e4746734c34/linux-file-permissions-2d2h)
+- [Steganography App &lpar;Artful whisper&rpar;](https://dev.to/aman_choudhary_ca1bdbc12a/steganography-app-artful-whisper-53hd)
+- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/atmosai/model-context-protocol-mcp-3l9a)
+- [📱 The Ultimate Guide to Building Mobile-Friendly Websites: Best Practices, Advanced Techniques and Google AMP](https://dev.to/anisubhra_sarkar/the-ultimate-guide-to-building-mobile-friendly-websites-best-practices-advanced-techniques-and-aki)
+- [React Functions, Methods &amp;Hooks](https://dev.to/nouribram/react-functions-methods-hooks-1i1d)
 <!-- BLOG-POST-LIST:END -->
 
