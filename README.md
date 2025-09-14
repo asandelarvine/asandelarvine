@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: AMORE | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-a-colors-show-2424)
-- [An Interview is a Conversation You Can Lead. Here&#39;s How.](https://dev.to/wsoltani/an-interview-is-a-conversation-you-can-lead-heres-how-1i1h)
-- [Transforming Daily Life with LazAI Inference APIs: Real-World Use Cases for a Decentralized Future](https://dev.to/ungest/transforming-daily-life-with-lazai-inference-apis-real-world-use-cases-for-a-decentralized-future-3dm7)
-- [Unlock Spatial AI: Build Navigational Intelligence Inspired by the Brain by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlock-spatial-ai-build-navigational-intelligence-inspired-by-the-brain-by-arvind-sundararajan-2ilj)
+- [Illuminating the Unseen: AI-Powered Clarity in Low-Light Imaging](https://dev.to/arvindsundararajan/illuminating-the-unseen-ai-powered-clarity-in-low-light-imaging-2ghh)
+- [I Asked Kiro to Understand My Verilog Codebase — It Built Me an AI-Powered EDA Assistant](https://dev.to/pawan_fe14d4bbd65e54b9a86/i-asked-kiro-to-understand-my-verilog-codebase-it-built-me-an-ai-powered-eda-assistant-41j4)
+- [Consciousness as Actor: Formalizing Human Trust in Quantum Git-RAF Systems](https://dev.to/obinexus/consciousness-as-actor-formalizing-human-trust-in-quantum-git-raf-systems-51pn)
+- [[1] Algorithm Showdown: Python vs. JavaScript - Group Anagrams](https://dev.to/sculptacode/1-algorithm-showdown-python-vs-javascript-group-anagrams-45mo)
 <!-- BLOG-POST-LIST:END -->
 
