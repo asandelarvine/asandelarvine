@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover The SSL/TLS Security Analyzer API](https://dev.to/dakidarts/discover-the-ssltls-security-analyzer-api-58jc)
-- [🔓 Unlocking Efficient Data Management: A Deep Dive into Data Partitioning Strategies](https://dev.to/sabaristacksurge/unlocking-efficient-data-management-a-deep-dive-into-data-partitioning-strategies-2d21)
-- [Solving LeetCode&#39;s &quot;Add Two Numbers&quot; Iteratively and Recursively - Part 1](https://dev.to/h_mjabedomurrifat_2b/solving-leetcodes-add-two-numbers-iteratively-and-recursively-part-1-41j5)
-- [New developer seeking feedback - am I on the right track?](https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7)
+- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 2](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-2-1lgd)
+- [Day 1](https://dev.to/code_hntr/day-1-2lao)
+- [How I Built an AI-Powered Transcript Summarizer Using n8n](https://dev.to/arafatruetbd/how-i-built-an-ai-powered-transcript-summarizer-using-n8n-40d4)
+- [i found running c code with gcc in terminal easier then the run button on vscode and dev c++](https://dev.to/bankai2054/i-found-running-c-code-with-gcc-in-terminal-easier-then-the-run-button-on-vscode-and-dev-c-3g79)
 <!-- BLOG-POST-LIST:END -->
 
