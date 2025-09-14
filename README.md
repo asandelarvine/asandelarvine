@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who be AI?!](https://dev.to/kizito007/who-be-ai-5180)
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;3/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-35-1dfc)
-- [SONICS.ai 🧠🎬📚🎞️ create Comics that *speak* - your Style!](https://dev.to/ssithub/sonicsai-create-comics-that-speak-your-style-32p8)
-- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
+- [Design TinyURL](https://dev.to/piyush_deshmukh/design-tinyurl-3fm1)
+- [Reverse Engineering Reality with Google AI](https://dev.to/simimwanza/reverse-engineering-reality-with-google-ai-36nm)
+- [Albania Just Deployed the World&#39;s First AI Government Minister — Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/albania-just-deployed-the-worlds-first-ai-government-minister-heres-what-developers-need-to-know-1f13)
+- [Article 1 : Chapter E: Introduction to LangChain &amp; LangGraph](https://dev.to/raunaklallala/article-1-chapter-e-introduction-to-langchain-langgraph-agn)
 <!-- BLOG-POST-LIST:END -->
 
