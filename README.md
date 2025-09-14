@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Steganography App &lpar;Artful whisper&rpar;](https://dev.to/aman_choudhary_ca1bdbc12a/steganography-app-artful-whisper-53hd)
-- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/atmosai/model-context-protocol-mcp-3l9a)
-- [📱 The Ultimate Guide to Building Mobile-Friendly Websites: Best Practices, Advanced Techniques and Google AMP](https://dev.to/anisubhra_sarkar/the-ultimate-guide-to-building-mobile-friendly-websites-best-practices-advanced-techniques-and-aki)
-- [React Functions, Methods &amp;Hooks](https://dev.to/nouribram/react-functions-methods-hooks-1i1d)
+- [The Art of Automation: Custom Coding vs. n8n – A Comprehensive Comparative Analysis](https://dev.to/amirrk2025/the-art-of-automation-custom-coding-vs-n8n-a-comprehensive-comparative-analysis-39mg)
+- [If you learn the concept of one low-level language, have you learn techniques of m andanother low-level language?](https://dev.to/somadinag/if-you-learn-the-concept-of-one-low-level-language-have-you-learn-techniques-of-m-andanother-48el)
+- [Unlocking the Power of RAG: A Beginner&#39;s Guide to Retrieval-Augmented Generation](https://dev.to/sabaristacksurge/unlocking-the-power-of-rag-a-beginners-guide-to-retrieval-augmented-generation-m0)
+- [I Built an AI Manga Creator with Next.js and Gemini&#39;s &quot;Visual Memory&quot;](https://dev.to/abubakr_alsheikh/i-built-an-ai-manga-creator-with-nextjs-and-geminis-visual-memory-14md)
 <!-- BLOG-POST-LIST:END -->
 
