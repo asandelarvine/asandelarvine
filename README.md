@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 49 - AWS Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-49-aws-interview-questions-44mk)
-- [AI-Powered Virtual Biopsy: Visualizing the Invisible in Bone Implants](https://dev.to/arvindsundararajan/ai-powered-virtual-biopsy-visualizing-the-invisible-in-bone-implants-5a24)
-- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
-- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
+- [Introducing: A Go package to reduce err boilerplate](https://dev.to/winstonpuckett/introducing-a-go-package-to-reduce-err-boilerplate-3o6a)
+- [From Word Predictor to Thinking Partner: The Rise of Thinking Models](https://dev.to/jiminlee/from-word-predictor-to-thinking-partner-the-rise-of-thinking-models-34e9)
+- [AI Dev Tools I Use Everyday](https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd)
+- [Quantum Imagination: Teaching AI to Think Like an Artist](https://dev.to/arvindsundararajan/quantum-imagination-teaching-ai-to-think-like-an-artist-540g)
 <!-- BLOG-POST-LIST:END -->
 
