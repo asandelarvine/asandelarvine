@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
-- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
-- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
-- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
+- [In a Method calling what happens in a compile time and Run Time.](https://dev.to/vigneshwaralingam/in-a-method-calling-what-happens-in-a-compile-time-and-run-time-4m5i)
+- [SentinelMFT: AI-Powered Secure File Transfer &amp; Network Firewall for Google Cloud](https://dev.to/raghavachellu/sentinelmft-ai-powered-secure-file-transfer-network-firewall-for-google-cloud-2ne3)
+- [How to Generate PDF Files from Web Pages Using Selenium and Python](https://dev.to/guzmanojero/how-to-generate-pdf-files-from-web-pages-using-selenium-and-python-lb4)
+- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7)
 <!-- BLOG-POST-LIST:END -->
 
