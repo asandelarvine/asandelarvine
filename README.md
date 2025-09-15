@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: AMORE - Peléame!!! | A COLORS SHOW](https://dev.to/music_youtube/colors-amore-peleame-a-colors-show-28hd)
-- [IGN: LEGO Voyagers Review](https://dev.to/gg_news/ign-lego-voyagers-review-1m9k)
-- [IGN: Fortnite - Official ‘The Power of Megazord’ Gameplay Trailer](https://dev.to/gg_news/ign-fortnite-official-the-power-of-megazord-gameplay-trailer-35m6)
-- [IGN: Halo: Reach - Official &#39;A Monument to Legends&#39; 15th Anniversary Trailer](https://dev.to/gg_news/ign-halo-reach-official-a-monument-to-legends-15th-anniversary-trailer-42i2)
+- [The Complete Guide to Modern Java Map Operations: From Beginner to Advanced](https://dev.to/devcorner/the-complete-guide-to-modern-java-map-operations-from-beginner-to-advanced-5ek)
+- [Advanced Filtering with Nestjs: The Easy Way](https://dev.to/rubenoalvarado/advanced-filtering-with-nestjs-the-easy-way-c6m)
+- [Matplotlib Timeline &amp; Hillshading: Advanced Plotting Techniques for Data Storytelling](https://dev.to/labex/matplotlib-timeline-hillshading-advanced-plotting-techniques-for-data-storytelling-475j)
+- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
 <!-- BLOG-POST-LIST:END -->
 
