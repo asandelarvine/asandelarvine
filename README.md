@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals Form: Validation and Logic](https://dev.to/this-is-angular/angular-signals-form-validation-and-logic-2n07)
-- [All Data and AI Weekly #207: 15 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-207-15-sept-2025-2gai)
-- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
-- [What I Learned from Studying SEO: Notes, Checklist, and Developer Takeaways](https://dev.to/_945813d63f317d087894d/what-i-learned-from-studying-seo-notes-checklist-and-developer-takeaways-3ej6)
+- [ASML’s $1.5B Bet on Mistral AI: Europe’s OpenAI Challenger Emerges](https://dev.to/axrisi/asmls-15b-bet-on-mistral-ai-europes-openai-challenger-emerges-4pb6)
+- [GameSpot: Game Devs of Color Expo Direct 2025 Livestream &lpar;Indie Games Showcase&rpar;](https://dev.to/gg_news/gamespot-game-devs-of-color-expo-direct-2025-livestream-indie-games-showcase-530f)
+- [GameSpot: Six One Indie Showcase Livestream &lpar;September 18th, 2025&rpar;](https://dev.to/gg_news/gamespot-six-one-indie-showcase-livestream-september-18th-2025-4b11)
+- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
 <!-- BLOG-POST-LIST:END -->
 
