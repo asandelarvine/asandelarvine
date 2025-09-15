@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pre-Validate User Permissions in CI/CD Pipelines: Secure and Efficient DevOps Automation](https://dev.to/srinivasamcjf/pre-validate-user-permissions-in-cicd-pipelines-secure-and-efficient-devops-automation-42l7)
-- [php bottlenecks and performance](https://dev.to/ahmedraza_fyntune/php-bottlenecks-and-performance-3aoj)
-- [Day 10 of My Quantum Computing Journey: Where Quantum Magic Really Happens](https://dev.to/keshabkjha/day-10-of-my-quantum-computing-journey-where-quantum-magic-really-happens-3en1)
-- [Lately, I’ve noticed many job seekers talking about Using AI For Job Interviews—whether it’s mock interview tools, AI question generators, or communication analyzers. Supposedly, these platforms give you practice questions tailored to your resume](https://dev.to/jeenifer_beezer/lately-ive-noticed-many-job-seekers-talking-about-using-ai-for-job-interviews-whether-its-mock-24cm)
+- [The Difference Between Google My Business and Google Maps](https://dev.to/aprizal_ali_28336d8fc6739/the-difference-between-google-my-business-and-google-maps-4fhn)
+- [From Messy Code to Clean Architecture: How I Finally Organized My Backend Projects](https://dev.to/farzad_fm/from-messy-code-to-clean-architecture-how-i-finally-organized-my-backend-projects-381g)
+- [Give Juniors a Chance](https://dev.to/ozkeisar/give-juniors-a-chance-31pa)
+- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
 <!-- BLOG-POST-LIST:END -->
 
