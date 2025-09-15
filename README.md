@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Reimagined SQL Query Building to Be Smarter, Safer, and Simpler &lpar;Introducing `mysql2-dx` v1.1.0&rpar;](https://dev.to/waelhabbal/how-we-reimagined-sql-query-building-to-be-smarter-safer-and-simpler-introducing-mysql2-dx-4ogl)
-- [Seeing the Unseen: AI Predicts Brain Tumor Trajectories](https://dev.to/arvindsundararajan/seeing-the-unseen-ai-predicts-brain-tumor-trajectories-1p4a)
-- [TCJSGame v3: A New Era of JavaScript Game Development and How It Stacks Against the Competition](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-a-new-era-of-javascript-game-development-and-how-it-stacks-against-the-competition-2hdc)
-- [Building Production-Ready AI Agents with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-strands-agents-and-amazon-bedrock-agentcore-3dg0)
+- [Building Production-Ready AI Agents with CrewAI and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-crewai-and-amazon-bedrock-agentcore-2g36)
+- [Building FanQuest with Kiro: Turning Fandom into a Gamified Marketplace](https://dev.to/liviu_marica_9c1111d43b25/building-fanquest-with-kiro-turning-fandom-into-a-gamified-marketplace-26hi)
+- [Rehosting Bitnami Secure Images with Specific Tags](https://dev.to/vaggeliskls/rehosting-bitnami-secure-images-with-specific-tags-2bfi)
+- [Building a Browser-Based Compute Contributor Network with Neurolov and WebGPU](https://dev.to/neurolov__ai/building-a-browser-based-compute-contributor-network-with-neurolov-and-webgpu-4poo)
 <!-- BLOG-POST-LIST:END -->
 
