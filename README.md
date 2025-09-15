@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Developer &amp; Q CLI Essentials Coverage](https://dev.to/vijayanirmalag2/amazon-q-developer-q-cli-essentials-coverage-1c1i)
-- [Building a Modular Search Engine: The Struggles I’m Still Facing](https://dev.to/devdami/building-a-modular-search-engine-the-struggles-im-still-facing-pf8)
-- [💎 ANN: oauth2 v2.0.15 &amp; v2.0.16 w/ full E2E example](https://dev.to/galtzo/ann-oauth2-v2015-v2016-w-full-e2e-example-4f74)
-- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
+- [Portfolio Website Optimization: SEO &amp; Performance Tips That Actually Work](https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70)
+- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
+- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
+- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
 <!-- BLOG-POST-LIST:END -->
 
