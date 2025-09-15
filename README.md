@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Website Optimization: SEO &amp; Performance Tips That Actually Work](https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70)
-- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
-- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
-- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
+- [Do WiFi Range Extenders Really Work? A Complete Guide](https://dev.to/theknowledgenest/do-wifi-range-extenders-really-work-a-complete-guide-ckj)
+- [Veo3 im: A Deep Dive into AI-Powered Video Generation for Developers](https://dev.to/juddiy/veo3-im-a-deep-dive-into-ai-powered-video-generation-for-developers-516e)
+- [OSD600: First step](https://dev.to/jongwan93/osd600-first-step-p02)
+- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
 <!-- BLOG-POST-LIST:END -->
 
