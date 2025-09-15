@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🥬 Freshness Checker AI: The AI-Powered Food Safety Assistant](https://dev.to/amozeak/freshness-checker-ai-the-ai-powered-food-safety-assistant-898)
-- [Implementing Real-Time Chat with SSE vs WebSockets &lpar;and Why I Chose One&rpar;](https://dev.to/divyanshulohani/implementing-real-time-chat-with-sse-vs-websockets-and-why-i-chose-one-2mn2)
-- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
-- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
+- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
+- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
+- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
+- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
 <!-- BLOG-POST-LIST:END -->
 
