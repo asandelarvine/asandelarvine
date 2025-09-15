@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 008 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-008-on-my-journey-to-becoming-a-css-pro-with-keith-grant-38c9)
-- [Building Gitcom: How Kiro&#39;s AI Pair-Programmer Helped Me Ship My First Kiro/VS Code Extension](https://dev.to/blessingtutka/building-gitcom-how-kiros-ai-pair-programmer-helped-me-ship-my-first-kirovs-code-extension-4l9d)
-- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
-- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
+- [How We Reimagined SQL Query Building to Be Smarter, Safer, and Simpler &lpar;Introducing `mysql2-dx` v1.1.0&rpar;](https://dev.to/waelhabbal/how-we-reimagined-sql-query-building-to-be-smarter-safer-and-simpler-introducing-mysql2-dx-4ogl)
+- [Seeing the Unseen: AI Predicts Brain Tumor Trajectories](https://dev.to/arvindsundararajan/seeing-the-unseen-ai-predicts-brain-tumor-trajectories-1p4a)
+- [TCJSGame v3: A New Era of JavaScript Game Development and How It Stacks Against the Competition](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-v3-a-new-era-of-javascript-game-development-and-how-it-stacks-against-the-competition-2hdc)
+- [Building Production-Ready AI Agents with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-strands-agents-and-amazon-bedrock-agentcore-3dg0)
 <!-- BLOG-POST-LIST:END -->
 
