@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
-- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
-- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
-- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
+- [Day 008 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-008-on-my-journey-to-becoming-a-css-pro-with-keith-grant-38c9)
+- [Building Gitcom: How Kiro&#39;s AI Pair-Programmer Helped Me Ship My First Kiro/VS Code Extension](https://dev.to/blessingtutka/building-gitcom-how-kiros-ai-pair-programmer-helped-me-ship-my-first-kirovs-code-extension-4l9d)
+- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
+- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
 <!-- BLOG-POST-LIST:END -->
 
