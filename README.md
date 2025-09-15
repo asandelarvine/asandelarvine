@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec)
-- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf)
-- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca)
-- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3)
+- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
+- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
+- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
+- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
 <!-- BLOG-POST-LIST:END -->
 
