@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do WiFi Range Extenders Really Work? A Complete Guide](https://dev.to/theknowledgenest/do-wifi-range-extenders-really-work-a-complete-guide-ckj)
-- [Veo3 im: A Deep Dive into AI-Powered Video Generation for Developers](https://dev.to/juddiy/veo3-im-a-deep-dive-into-ai-powered-video-generation-for-developers-516e)
-- [OSD600: First step](https://dev.to/jongwan93/osd600-first-step-p02)
-- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
+- [🥬 Freshness Checker AI: The AI-Powered Food Safety Assistant](https://dev.to/amozeak/freshness-checker-ai-the-ai-powered-food-safety-assistant-898)
+- [Implementing Real-Time Chat with SSE vs WebSockets &lpar;and Why I Chose One&rpar;](https://dev.to/divyanshulohani/implementing-real-time-chat-with-sse-vs-websockets-and-why-i-chose-one-2mn2)
+- [Bonus Kavod Management System](https://dev.to/firstfruits41/bonus-kavod-management-system-1d9k)
+- [Interactive Data Visualization: Streamlit, Dash, and Bokeh](https://dev.to/diegocastillo12/interactive-data-visualization-streamlit-dash-and-bokeh-13ba)
 <!-- BLOG-POST-LIST:END -->
 
