@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌀 Radius Agent – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/radius-agent-round-2-javascript-4m1n)
-- [Building Impromptu - Kiro Hackathon](https://dev.to/siddharthasen99/building-impromptu-kiro-hackathon-lgb)
-- [Agentic AI digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-digest-sept-8-12-2025-3d5m)
-- [AWS EBS types SSD &amp; HDD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-ebs-types-ssd-hdd-21hk)
+- [What are your goals for the week? #144 - gross](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-144-gross-22ho)
+- [Troubleshooting Claude’s Remote Connection to MCP Servers](https://dev.to/kyleski/troubleshooting-claudes-remote-connection-to-mcp-servers-13d7)
+- [Introduction to Python Module Two Part One: Debugging](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-one-debugging-1i7l)
+- [It&#39;s not cheating if everyone does it 😘](https://dev.to/dexter_nash/its-not-cheating-if-everyone-does-it-5772)
 <!-- BLOG-POST-LIST:END -->
 
