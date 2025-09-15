@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASML’s $1.5B Bet on Mistral AI: Europe’s OpenAI Challenger Emerges](https://dev.to/axrisi/asmls-15b-bet-on-mistral-ai-europes-openai-challenger-emerges-4pb6)
-- [GameSpot: Game Devs of Color Expo Direct 2025 Livestream &lpar;Indie Games Showcase&rpar;](https://dev.to/gg_news/gamespot-game-devs-of-color-expo-direct-2025-livestream-indie-games-showcase-530f)
-- [GameSpot: Six One Indie Showcase Livestream &lpar;September 18th, 2025&rpar;](https://dev.to/gg_news/gamespot-six-one-indie-showcase-livestream-september-18th-2025-4b11)
-- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
+- [Shipping a Team Plan: Pricing, Growth, Pain Relief, and How-To](https://dev.to/soasme/shipping-a-team-plan-pricing-growth-pain-relief-and-how-to-8k1)
+- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
+- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
+- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
 <!-- BLOG-POST-LIST:END -->
 
