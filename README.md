@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG-based Presentation Generator built with Kiro](https://dev.to/kirodotdev/rag-based-presentation-generator-built-with-kiro-j9o)
-- [How to debug any website access through your Mobile device &lpar;using Chrome&rpar;](https://dev.to/henriqueholtz/how-to-debug-any-website-access-through-your-mobile-device-using-chrome-15il)
-- [Why Apple’s “Liquid Glass” and Google’s “Expressive” UIs Might Be Missteps](https://dev.to/pranta/why-apples-liquid-glass-and-googles-expressive-uis-might-be-missteps-42fa)
-- [Why Do Some Packages Require `import * as …` Instead of `import …`?](https://dev.to/shahjalalbu/why-do-some-packages-require-import-as-instead-of-import--4po1)
+- [Pre-Validate User Permissions in CI/CD Pipelines: Secure and Efficient DevOps Automation](https://dev.to/srinivasamcjf/pre-validate-user-permissions-in-cicd-pipelines-secure-and-efficient-devops-automation-42l7)
+- [php bottlenecks and performance](https://dev.to/ahmedraza_fyntune/php-bottlenecks-and-performance-3aoj)
+- [Day 10 of My Quantum Computing Journey: Where Quantum Magic Really Happens](https://dev.to/keshabkjha/day-10-of-my-quantum-computing-journey-where-quantum-magic-really-happens-3en1)
+- [Lately, I’ve noticed many job seekers talking about Using AI For Job Interviews—whether it’s mock interview tools, AI question generators, or communication analyzers. Supposedly, these platforms give you practice questions tailored to your resume](https://dev.to/jeenifer_beezer/lately-ive-noticed-many-job-seekers-talking-about-using-ai-for-job-interviews-whether-its-mock-24cm)
 <!-- BLOG-POST-LIST:END -->
 
