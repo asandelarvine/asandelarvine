@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who’s That Pokémon? – The Twist!](https://dev.to/splmdny/whos-that-pokemon-the-twist-26nf)
-- [TasteSmith From craving to custom recipe in seconds.](https://dev.to/mohammad_usmani_d3a9bdba5/tastesmithfrom-craving-to-custom-recipe-in-seconds-2f88)
-- [The Triple-Peak Trap: Using M365 Copilot to Visualize and Optimize My Workday](https://dev.to/balagmadhu/the-triple-peak-trap-using-m365-copilot-to-visualize-and-optimize-my-workday-3dn3)
-- [Primary Key vs. Foreign Key in SQL: Explained with Examples](https://dev.to/dbvismarketing/primary-key-vs-foreign-key-in-sql-explained-with-examples-4078)
+- [Linux Filesystem Explained — From `/` to `/home` &lpar;and Everything Between&rpar;](https://dev.to/naval_upadhyay/linux-filesystem-explained-from-to-home-and-everything-between-23d8)
+- [Answer: How to open a web page automatically in full screen mode](https://dev.to/rajkuma51641747/answer-how-to-open-a-web-page-automatically-in-full-screen-mode-4c7g)
+- [Salesforce CTI in 2025: Trends, Tools, and Tactical Tips](https://dev.to/prince_6a5fbc059971cef8c8/salesforce-cti-in-2025-trends-tools-and-tactical-tips-14f)
+- [From Spectacular Failure to Production Success: How I Built Secondary Mind with a Custom Kiro Methodology](https://dev.to/devon_1f0a0a16130644218ee/from-spectacular-failure-to-production-success-how-i-built-secondary-mind-with-a-custom-kiro-3b0o)
 <!-- BLOG-POST-LIST:END -->
 
