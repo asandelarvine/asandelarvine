@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
-- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
-- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
-- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
+- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/lunarecho/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec)
+- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf)
+- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca)
+- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3)
 <!-- BLOG-POST-LIST:END -->
 
