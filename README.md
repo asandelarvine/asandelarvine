@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Filesystem Explained — From `/` to `/home` &lpar;and Everything Between&rpar;](https://dev.to/naval_upadhyay/linux-filesystem-explained-from-to-home-and-everything-between-23d8)
-- [Answer: How to open a web page automatically in full screen mode](https://dev.to/rajkuma51641747/answer-how-to-open-a-web-page-automatically-in-full-screen-mode-4c7g)
-- [Salesforce CTI in 2025: Trends, Tools, and Tactical Tips](https://dev.to/prince_6a5fbc059971cef8c8/salesforce-cti-in-2025-trends-tools-and-tactical-tips-14f)
-- [From Spectacular Failure to Production Success: How I Built Secondary Mind with a Custom Kiro Methodology](https://dev.to/devon_1f0a0a16130644218ee/from-spectacular-failure-to-production-success-how-i-built-secondary-mind-with-a-custom-kiro-3b0o)
+- [The magic of messages that have always been with us](https://dev.to/smartlegionlab/the-magic-of-messages-that-have-always-been-with-us-48gp)
+- [How to Receive Inbound Emails with Amazon SES and Store Them in Amazon S3](https://dev.to/rahul_gupta_01438cd605043/how-to-receive-inbound-emails-with-amazon-ses-and-store-them-in-amazon-s3-3m73)
+- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
+- [The Ultimate Guide to API Integration: Benefits, Types, and Best Practices](https://dev.to/jennysmith7/the-ultimate-guide-to-api-integration-benefits-types-and-best-practices-55ce)
 <!-- BLOG-POST-LIST:END -->
 
