@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready AI Agents with CrewAI and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-crewai-and-amazon-bedrock-agentcore-2g36)
-- [Building FanQuest with Kiro: Turning Fandom into a Gamified Marketplace](https://dev.to/liviu_marica_9c1111d43b25/building-fanquest-with-kiro-turning-fandom-into-a-gamified-marketplace-26hi)
-- [Rehosting Bitnami Secure Images with Specific Tags](https://dev.to/vaggeliskls/rehosting-bitnami-secure-images-with-specific-tags-2bfi)
-- [Building a Browser-Based Compute Contributor Network with Neurolov and WebGPU](https://dev.to/neurolov__ai/building-a-browser-based-compute-contributor-network-with-neurolov-and-webgpu-4poo)
+- [Building Fotify: Real-Time Photo Sharing for Events](https://dev.to/agust1n/building-fotify-real-time-photo-sharing-for-events-53dj)
+- [How to Build a Full-Featured React Chat App in Minutes &lpar;Open-Source Starter&rpar;](https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h)
+- [Emoji php - emoticons in your project](https://dev.to/deniskorbakov/emoji-php-emoticons-in-your-project-346a)
+- [Procedures for Deploying .NET 9 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/nelson_akpa01/procedures-for-deploying-net-9-app-to-azure-kubernetes-service-aks-ge5)
 <!-- BLOG-POST-LIST:END -->
 
