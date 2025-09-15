@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Modern Java Map Operations: From Beginner to Advanced](https://dev.to/devcorner/the-complete-guide-to-modern-java-map-operations-from-beginner-to-advanced-5ek)
-- [Advanced Filtering with Nestjs: The Easy Way](https://dev.to/rubenoalvarado/advanced-filtering-with-nestjs-the-easy-way-c6m)
-- [Matplotlib Timeline &amp; Hillshading: Advanced Plotting Techniques for Data Storytelling](https://dev.to/labex/matplotlib-timeline-hillshading-advanced-plotting-techniques-for-data-storytelling-475j)
-- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
+- [RAG-based Presentation Generator built with Kiro](https://dev.to/kirodotdev/rag-based-presentation-generator-built-with-kiro-j9o)
+- [How to debug any website access through your Mobile device &lpar;using Chrome&rpar;](https://dev.to/henriqueholtz/how-to-debug-any-website-access-through-your-mobile-device-using-chrome-15il)
+- [Why Apple’s “Liquid Glass” and Google’s “Expressive” UIs Might Be Missteps](https://dev.to/pranta/why-apples-liquid-glass-and-googles-expressive-uis-might-be-missteps-42fa)
+- [Why Do Some Packages Require `import * as …` Instead of `import …`?](https://dev.to/shahjalalbu/why-do-some-packages-require-import-as-instead-of-import--4po1)
 <!-- BLOG-POST-LIST:END -->
 
