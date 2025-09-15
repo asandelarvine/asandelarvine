@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between Google My Business and Google Maps](https://dev.to/aprizal_ali_28336d8fc6739/the-difference-between-google-my-business-and-google-maps-4fhn)
-- [From Messy Code to Clean Architecture: How I Finally Organized My Backend Projects](https://dev.to/farzad_fm/from-messy-code-to-clean-architecture-how-i-finally-organized-my-backend-projects-381g)
-- [Give Juniors a Chance](https://dev.to/ozkeisar/give-juniors-a-chance-31pa)
-- [How Exploring Multiple Programming Languages Elevates Your Coding Skills](https://dev.to/devtechinsights/how-exploring-multiple-programming-languages-elevates-your-coding-skills-2hfh)
+- [Angular Signals Form: Validation and Logic](https://dev.to/this-is-angular/angular-signals-form-validation-and-logic-2n07)
+- [All Data and AI Weekly #207: 15 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-207-15-sept-2025-2gai)
+- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
+- [What I Learned from Studying SEO: Notes, Checklist, and Developer Takeaways](https://dev.to/_945813d63f317d087894d/what-i-learned-from-studying-seo-notes-checklist-and-developer-takeaways-3ej6)
 <!-- BLOG-POST-LIST:END -->
 
