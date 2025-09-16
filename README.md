@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
-- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
-- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
-- [[Boost]](https://dev.to/uliyahoo/-ng7)
+- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
+- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
+- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
+- [How I made Dental APIs less painful than the dentist](https://dev.to/lake22traillady/how-i-made-dental-apis-less-painful-than-the-dentist-14ki)
 <!-- BLOG-POST-LIST:END -->
 
