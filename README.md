@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris](https://dev.to/micah_lee_53896c7cc68ceb9/tetris-3ife)
-- [MCP Fundamentals: Your First Java Client in 30 Lines of Code](https://dev.to/gazolla/mcp-fundamentals-your-first-java-client-in-30-lines-of-code-e0c)
-- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
-- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
+- [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
+- [Will AI Agents Kill Coding—or Make Us 10x Developers?](https://dev.to/nikhilwagh/will-ai-agents-kill-coding-or-make-us-10x-developers-526o)
+- [Svelte’s Growing Pains: Runes, Stores, and the Quest for Standards](https://dev.to/daniacu/sveltes-growing-pains-runes-stores-and-the-quest-for-standards-3j98)
+- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
 <!-- BLOG-POST-LIST:END -->
 
