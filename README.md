@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Stop Wasting Time With REST – Build Real-Time Apps with SQL Over WebSockets!](https://dev.to/ekwoster/stop-wasting-time-with-rest-build-real-time-apps-with-sql-over-websockets-54p7)
-- [Top 10 Linux Commands](https://dev.to/roshan_sharma_617a6e70ff5/top-10-linux-commands-56m7)
-- [KEXP: Gouge Away - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-full-performance-live-on-kexp-5d41)
-- [Securing Agentic AI Systems](https://dev.to/aws-builders/securing-agentic-ai-systems-2i93)
+- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
+- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
+- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
+- [[Boost]](https://dev.to/uliyahoo/-ng7)
 <!-- BLOG-POST-LIST:END -->
 
