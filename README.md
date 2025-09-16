@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to the Unreal Engine Neovim Plugin Suite](https://dev.to/taku25/a-practical-guide-to-the-unreal-engine-neovim-plugin-suite-36f4)
-- [Spring Boot Basic](https://dev.to/sadiul_hakim/spring-boot-basic-4m2)
-- [How a Robust Video Management System Improves Workflow &amp; Engagement](https://dev.to/cloudtentosoft/how-a-robust-video-management-system-improves-workflow-engagement-34h6)
-- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
+- [Introducing Gamified Debt Crusher by Vyoma 🎮💰](https://dev.to/pjdeveloper896/introducing-gamified-debt-crusher-by-vyoma-10fj)
+- [Emphor DLAS: Your Trusted Partner in Life, Analytical Sciences &amp; Material Testing](https://dev.to/hakkim_sha_b0a206927ca7d1/emphor-dlas-your-trusted-partner-in-life-analytical-sciences-material-testing-1i3d)
+- [Membangun Aplikasi yang Baik dan Aman](https://dev.to/naandan/membangun-aplikasi-yang-baik-dan-aman-402l)
+- [[Boost]](https://dev.to/sunilnetin/-15hh)
 <!-- BLOG-POST-LIST:END -->
 
