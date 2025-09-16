@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sagas vs ACID Transactions: Ensuring Reliability in Distributed Architectures](https://dev.to/andrey_s/sagas-vs-acid-transactions-ensuring-reliability-in-distributed-architectures-cpj)
-- [The Process of a Rational Mind](https://dev.to/bid_solution/the-process-of-a-rational-mind-2po2)
-- [Managing Multi-Cluster Environments](https://dev.to/godofgeeks/managing-multi-cluster-environments-2ihj)
-- [Running commands with timeout on Linux](https://dev.to/pikotutorial/running-commands-with-timeout-on-linux-2ebe)
+- [🚀 Partial Pre-Rendering &lpar;PPR&rpar; in Next.js](https://dev.to/shaahzaibrehman/partial-pre-rendering-ppr-in-nextjs-5e8p)
+- [The Courage to Let Silence Do the Work](https://dev.to/remejuan/the-courage-to-let-silence-do-the-work-17aa)
+- [Automating ENI Failover with AWS Lambda + EventBridge](https://dev.to/poudeldipak/automating-eni-failover-with-aws-lambda-eventbridge-a24)
+- [JavaScript == vs ===: The Ultimate Guide to Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-vs-the-ultimate-guide-to-comparison-174j)
 <!-- BLOG-POST-LIST:END -->
 
