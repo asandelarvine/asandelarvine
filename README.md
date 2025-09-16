@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deal with MCP “Tool Poisoning”](https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6)
-- [A Beginner’s Guide to Channel Attribution Modeling in Marketing &lpar;with Markov Chains and an R Case Study&rpar;](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03)
-- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
-- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
+- [Sagas vs ACID Transactions: Ensuring Reliability in Distributed Architectures](https://dev.to/andrey_s/sagas-vs-acid-transactions-ensuring-reliability-in-distributed-architectures-cpj)
+- [The Process of a Rational Mind](https://dev.to/bid_solution/the-process-of-a-rational-mind-2po2)
+- [Managing Multi-Cluster Environments](https://dev.to/godofgeeks/managing-multi-cluster-environments-2ihj)
+- [Running commands with timeout on Linux](https://dev.to/pikotutorial/running-commands-with-timeout-on-linux-2ebe)
 <!-- BLOG-POST-LIST:END -->
 
