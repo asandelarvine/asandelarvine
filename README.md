@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing a newsletter consistently is one of the best ways to build authority. I’ve been running the ReThynk AI Newsletter with 30,000+ global readers. The secret isn’t writing more. It’s building a repeatable system where AI handles everything.](https://dev.to/jaideepparashar/publishing-a-newsletter-consistently-is-one-of-the-best-ways-to-build-authority-ive-been-3hd)
-- [🚀 Montessori-Inspired AR Mini-Game Prototype: Learning by Doing + LEGO 3D + Shape Stitching](https://dev.to/cutieyunnytech/montessori-inspired-ar-mini-game-prototype-learning-by-doing-lego-3d-shape-stitching-nll)
-- [The AI Workflow That Runs My Newsletter &lpar;Step-by-Step&rpar;](https://dev.to/jaideepparashar/the-ai-workflow-that-runs-my-newsletter-step-by-step-48do)
-- [Simplified API for vector based spatial analysis.](https://dev.to/timhirrel/simplified-api-for-vector-based-spatial-analysis-4dai)
+- [Software Dependencies Made Simple: A Beginner’s Guide](https://dev.to/jennifer_devsamurai/software-dependencies-made-simple-a-beginners-guide-1he0)
+- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
+- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
+- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
 <!-- BLOG-POST-LIST:END -->
 
