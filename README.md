@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Analytics Dashboard That Processes 10M Events Per Hour](https://dev.to/mikekelvin/building-a-real-time-analytics-dashboard-that-processes-10m-events-per-hour-1f2)
-- [Best Sanity Blog Templates to Kickstart Your Blogging Platforms](https://dev.to/isanjayjoshi/best-sanity-blog-templates-to-kickstart-your-blogging-platforms-4m1n)
-- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
-- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
+- [A Practical Guide to the Unreal Engine Neovim Plugin Suite](https://dev.to/taku25/a-practical-guide-to-the-unreal-engine-neovim-plugin-suite-36f4)
+- [Spring Boot Basic](https://dev.to/sadiul_hakim/spring-boot-basic-4m2)
+- [How a Robust Video Management System Improves Workflow &amp; Engagement](https://dev.to/cloudtentosoft/how-a-robust-video-management-system-improves-workflow-engagement-34h6)
+- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 <!-- BLOG-POST-LIST:END -->
 
