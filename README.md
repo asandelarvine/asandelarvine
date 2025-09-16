@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Basics and How They Work](https://dev.to/leowood/api-basics-and-how-they-work-5aof)
-- [The Lifecycle of useEffect: Synchronization in React](https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6)
-- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2)
-- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h)
+- [Publishing a newsletter consistently is one of the best ways to build authority. I’ve been running the ReThynk AI Newsletter with 30,000+ global readers. The secret isn’t writing more. It’s building a repeatable system where AI handles everything.](https://dev.to/jaideepparashar/publishing-a-newsletter-consistently-is-one-of-the-best-ways-to-build-authority-ive-been-3hd)
+- [🚀 Montessori-Inspired AR Mini-Game Prototype: Learning by Doing + LEGO 3D + Shape Stitching](https://dev.to/cutieyunnytech/montessori-inspired-ar-mini-game-prototype-learning-by-doing-lego-3d-shape-stitching-nll)
+- [The AI Workflow That Runs My Newsletter &lpar;Step-by-Step&rpar;](https://dev.to/jaideepparashar/the-ai-workflow-that-runs-my-newsletter-step-by-step-48do)
+- [Simplified API for vector based spatial analysis.](https://dev.to/timhirrel/simplified-api-for-vector-based-spatial-analysis-4dai)
 <!-- BLOG-POST-LIST:END -->
 
