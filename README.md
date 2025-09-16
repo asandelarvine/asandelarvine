@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Partial Pre-Rendering &lpar;PPR&rpar; in Next.js](https://dev.to/shaahzaibrehman/partial-pre-rendering-ppr-in-nextjs-5e8p)
-- [The Courage to Let Silence Do the Work](https://dev.to/remejuan/the-courage-to-let-silence-do-the-work-17aa)
-- [Automating ENI Failover with AWS Lambda + EventBridge](https://dev.to/poudeldipak/automating-eni-failover-with-aws-lambda-eventbridge-a24)
-- [JavaScript == vs ===: The Ultimate Guide to Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-vs-the-ultimate-guide-to-comparison-174j)
+- [Missed Period but Negative UPT? What It Could Mean](https://dev.to/ashika_chandran_857549718/missed-period-but-negative-upt-what-it-could-mean-9bp)
+- [Thought of the Day: Most companies are not willing to pay developers to maintain OSS-Software. OSS-Developers may introduce breaking changes as they see fit. Companies have to pay the price, when they have to upgrade their dependencies regularly.](https://dev.to/htho/thought-of-the-day-most-companies-are-not-willing-to-pay-developers-to-maintain-oss-software-kgk)
+- [The Growing Popularity of Mobile Streaming Apps](https://dev.to/charlie_oliver_083f1c2ab7/the-growing-popularity-of-mobile-streaming-apps-4i11)
+- [Free Python Challenges &lpar;with a Cybersec Twist&rpar;](https://dev.to/frank_1777acd8fc434337888/free-python-challenges-with-a-cybersec-twist-3ha6)
 <!-- BLOG-POST-LIST:END -->
 
