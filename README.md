@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro SD Card Module with Arduino](https://dev.to/akshay_jain/micro-sd-card-module-with-arduino-51kc)
-- [Laravel Policies: Do You Really Use Them in Real Projects?](https://dev.to/thecodeliner/laravel-policies-do-you-really-use-them-in-real-projects-2pa1)
-- [What is ML runtime?](https://dev.to/jimw/what-is-ml-runtime-19be)
-- [I stopped writing scripts to merge JUnit XMLs in Pytest &lpar;pytest-html-plus&rpar;](https://dev.to/kevi019/i-stopped-writing-scripts-to-merge-junit-xmls-in-pytest-19j1)
+- [How to Deal with MCP “Tool Poisoning”](https://dev.to/observabilityguy/how-to-deal-with-mcp-tool-poisoning-31d6)
+- [A Beginner’s Guide to Channel Attribution Modeling in Marketing &lpar;with Markov Chains and an R Case Study&rpar;](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03)
+- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i)
+- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
 <!-- BLOG-POST-LIST:END -->
 
