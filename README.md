@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginning my SE journey](https://dev.to/jonathan_kweku_250/beginning-my-se-journey-1m12)
-- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌ](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
-- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
-- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
+- [My Rage, My Remedy](https://dev.to/magazine_peony_dddd3732da/my-rage-my-remedy-22ld)
+- [Top Dependency Scanners: A Comprehensive Guide](https://dev.to/samlan/top-dependency-scanners-a-comprehensive-guide-2kf)
+- [Here&#39;s How To Build Fullstack Agent Apps &lpar;Gemini, CopilotKit &amp; LangGraph&rpar;](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
 <!-- BLOG-POST-LIST:END -->
 
