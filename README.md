@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Missed Period but Negative UPT? What It Could Mean](https://dev.to/ashika_chandran_857549718/missed-period-but-negative-upt-what-it-could-mean-9bp)
-- [Thought of the Day: Most companies are not willing to pay developers to maintain OSS-Software. OSS-Developers may introduce breaking changes as they see fit. Companies have to pay the price, when they have to upgrade their dependencies regularly.](https://dev.to/htho/thought-of-the-day-most-companies-are-not-willing-to-pay-developers-to-maintain-oss-software-kgk)
-- [The Growing Popularity of Mobile Streaming Apps](https://dev.to/charlie_oliver_083f1c2ab7/the-growing-popularity-of-mobile-streaming-apps-4i11)
-- [Free Python Challenges &lpar;with a Cybersec Twist&rpar;](https://dev.to/frank_1777acd8fc434337888/free-python-challenges-with-a-cybersec-twist-3ha6)
+- [Building a Real-Time Analytics Dashboard That Processes 10M Events Per Hour](https://dev.to/mikekelvin/building-a-real-time-analytics-dashboard-that-processes-10m-events-per-hour-1f2)
+- [Best Sanity Blog Templates to Kickstart Your Blogging Platforms](https://dev.to/isanjayjoshi/best-sanity-blog-templates-to-kickstart-your-blogging-platforms-4m1n)
+- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
+- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
 <!-- BLOG-POST-LIST:END -->
 
