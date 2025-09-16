@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Gamified Debt Crusher by Vyoma 🎮💰](https://dev.to/pjdeveloper896/introducing-gamified-debt-crusher-by-vyoma-10fj)
-- [Emphor DLAS: Your Trusted Partner in Life, Analytical Sciences &amp; Material Testing](https://dev.to/hakkim_sha_b0a206927ca7d1/emphor-dlas-your-trusted-partner-in-life-analytical-sciences-material-testing-1i3d)
-- [Membangun Aplikasi yang Baik dan Aman](https://dev.to/naandan/membangun-aplikasi-yang-baik-dan-aman-402l)
-- [[Boost]](https://dev.to/sunilnetin/-15hh)
+- [Solving Elm Router &quot;Double Update&quot; Problem](https://dev.to/rinn7e/solving-elm-router-double-update-problem-dde)
+- [Masking Sensitive Data in CloudWatch Logs for APIs &lpar;and keeping your secrets safe!&rpar;](https://dev.to/bijay_singhdeo_5c434a04a/masking-sensitive-data-in-cloudwatch-logs-for-apis-and-keeping-your-secrets-safe-49dk)
+- [Building a CLI for the Ecosyste.ms API](https://dev.to/sebs/building-a-cli-for-the-ecosystems-api-1d4a)
+- [Lightroom Mod APK: Exploring Features, Risks, and Safer Choices for Developers and Creators](https://dev.to/jackson_alban_515fef53c1c/lightroom-mod-apk-exploring-features-risks-and-safer-choices-for-developers-and-creators-9p)
 <!-- BLOG-POST-LIST:END -->
 
