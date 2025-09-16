@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Biometric fingerprint authentication on SmartCard Chips](https://dev.to/juliofcv/biometric-fingerprint-authentication-on-smartcard-chips-5hcm)
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #379646](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-379646-2ml7)
-- [The Ultimate Cross-Framework Storage Solution](https://dev.to/eveningwater/the-ultimate-cross-framework-storage-solution-513m)
-- [Typescript : Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
+- [Micro SD Card Module with Arduino](https://dev.to/akshay_jain/micro-sd-card-module-with-arduino-51kc)
+- [Laravel Policies: Do You Really Use Them in Real Projects?](https://dev.to/thecodeliner/laravel-policies-do-you-really-use-them-in-real-projects-2pa1)
+- [What is ML runtime?](https://dev.to/jimw/what-is-ml-runtime-19be)
+- [I stopped writing scripts to merge JUnit XMLs in Pytest &lpar;pytest-html-plus&rpar;](https://dev.to/kevi019/i-stopped-writing-scripts-to-merge-junit-xmls-in-pytest-19j1)
 <!-- BLOG-POST-LIST:END -->
 
