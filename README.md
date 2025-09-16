@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
-- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
-- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
-- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
+- [The Art of the Bounce: Crafting a Self-Healing Job Processing System](https://dev.to/alex_aslam/the-art-of-the-bounce-crafting-a-self-healing-job-processing-system-dag)
+- [The Art of the Graceful Evolution: API Versioning as a Craft](https://dev.to/alex_aslam/the-art-of-the-graceful-evolution-api-versioning-as-a-craft-1api)
+- [How We Saved 600 Hours of Support Work with AI in a Ticketing System](https://dev.to/devfamdk/how-we-saved-600-hours-of-support-work-with-ai-in-a-ticketing-system-5c2b)
+- [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
 <!-- BLOG-POST-LIST:END -->
 
