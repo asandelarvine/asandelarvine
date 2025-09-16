@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Team Plan: Pricing, Growth, Pain Relief, and How-To](https://dev.to/soasme/shipping-a-team-plan-pricing-growth-pain-relief-and-how-to-8k1)
-- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
-- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
-- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
+- [API Basics and How They Work](https://dev.to/leowood/api-basics-and-how-they-work-5aof)
+- [The Lifecycle of useEffect: Synchronization in React](https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6)
+- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2)
+- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h)
 <!-- BLOG-POST-LIST:END -->
 
