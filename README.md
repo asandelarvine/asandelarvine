@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [About me🤝🏻](https://dev.to/amirmajd86/about-me-1he1)
-- [HackSpire’25: Where Innovation Meets Community](https://dev.to/ethereal_eyes_bcbfa69748a/hackspire25-where-innovation-meets-community-59b)
-- [50 coisas que você pode fazer com um Software Defined Radio &lpar;SDR&rpar;](https://dev.to/mrpunkdasilva/50-coisas-que-voce-pode-fazer-com-um-software-defined-radio-sdr-32ad)
-- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
+- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-2hp)
+- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
+- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
+- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
 <!-- BLOG-POST-LIST:END -->
 
