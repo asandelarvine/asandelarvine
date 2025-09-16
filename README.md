@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Checking Out of Winter - irisCTF](https://dev.to/davidonlinearchive/checking-out-of-winter-irisctf-2ngj)
-- [Will AI Agents Kill Coding—or Make Us 10x Developers?](https://dev.to/nikhilwagh/will-ai-agents-kill-coding-or-make-us-10x-developers-526o)
-- [Svelte’s Growing Pains: Runes, Stores, and the Quest for Standards](https://dev.to/daniacu/sveltes-growing-pains-runes-stores-and-the-quest-for-standards-3j98)
-- [Using Apollo in Svelte 5](https://dev.to/daniacu/using-apollo-in-svelte-5-7ke)
+- [About me🤝🏻](https://dev.to/amirmajd86/about-me-1he1)
+- [HackSpire’25: Where Innovation Meets Community](https://dev.to/ethereal_eyes_bcbfa69748a/hackspire25-where-innovation-meets-community-59b)
+- [50 coisas que você pode fazer com um Software Defined Radio &lpar;SDR&rpar;](https://dev.to/mrpunkdasilva/50-coisas-que-voce-pode-fazer-com-um-software-defined-radio-sdr-32ad)
+- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
 <!-- BLOG-POST-LIST:END -->
 
