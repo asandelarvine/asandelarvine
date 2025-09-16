@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
-- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
-- [afterRenderEffect, afterNextRender, afterEveryRender &amp; Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o)
-- [How I made Dental APIs less painful than the dentist](https://dev.to/lake22traillady/how-i-made-dental-apis-less-painful-than-the-dentist-14ki)
+- [Tetris](https://dev.to/micah_lee_53896c7cc68ceb9/tetris-3ife)
+- [MCP Fundamentals: Your First Java Client in 30 Lines of Code](https://dev.to/gazolla/mcp-fundamentals-your-first-java-client-in-30-lines-of-code-e0c)
+- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
+- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
 <!-- BLOG-POST-LIST:END -->
 
