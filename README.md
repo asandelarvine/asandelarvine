@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Elm Router &quot;Double Update&quot; Problem](https://dev.to/rinn7e/solving-elm-router-double-update-problem-dde)
-- [Masking Sensitive Data in CloudWatch Logs for APIs &lpar;and keeping your secrets safe!&rpar;](https://dev.to/bijay_singhdeo_5c434a04a/masking-sensitive-data-in-cloudwatch-logs-for-apis-and-keeping-your-secrets-safe-49dk)
-- [Building a CLI for the Ecosyste.ms API](https://dev.to/sebs/building-a-cli-for-the-ecosystems-api-1d4a)
-- [Lightroom Mod APK: Exploring Features, Risks, and Safer Choices for Developers and Creators](https://dev.to/jackson_alban_515fef53c1c/lightroom-mod-apk-exploring-features-risks-and-safer-choices-for-developers-and-creators-9p)
+- [Beginning my SE journey](https://dev.to/jonathan_kweku_250/beginning-my-se-journey-1m12)
+- [TᑌᑎEᗪ ᗪᗩEᗰOᑎ Iᑎ ᒪIᑎᑌ](https://dev.to/sahillearninglinux/ttetiepe-pepoegooti-iti-maititex-16m1)
+- [IGN: Assassin&#39;s Creed Shadows: Claws of Awaji DLC Video Review](https://dev.to/gg_news/ign-assassins-creed-shadows-claws-of-awaji-dlc-video-review-2k74)
+- [🚀 Day 17 of My Python Learning Journey](https://dev.to/_adii3107/day-17-of-my-python-learning-journey-4ckn)
 <!-- BLOG-POST-LIST:END -->
 
