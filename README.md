@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exposing a Kubernetes-Hosted MCP Server with ToolHive + ngrok &lpar;with Basic Auth&rpar;](https://dev.to/stacklok/exposing-a-kubernetes-hosted-mcp-server-with-toolhive-ngrok-with-basic-auth-23kn)
-- [Nim Credit Loan App CUSTOMER Care Helpline Number ♻️ 91&rpar;&rpar;8167795701/+8167795701/+Call kb](https://dev.to/ram_kumar_a6321e6c46bf7a6/nim-credit-loan-app-customer-care-helpline-number-9181677957018167795701call-kb-2fc3)
-- [Integrating an Angular Client with a .NET Web API – A Freelancer Marketplace Application](https://dev.to/josemariairiarte/integrating-an-angular-client-with-a-net-web-api-a-freelancer-marketplace-application-1akj)
-- [🧩 Sharpen Your Logic with These 10 Java Mini Challenges](https://dev.to/mohamad_mhana/sharpen-your-logic-with-these-10-java-mini-challenges-47kk)
+- [Day 30 of #100DaysOfRust: Reference Counting with Rc&lt;T&gt;](https://dev.to/subesh_yadav/day-30-of-100daysofrust-reference-counting-with-rc-2113)
+- [Phantom in Data Visualisation](https://dev.to/gzamann/phantom-in-data-visualisation-1iai)
+- [Prompt Chainmail: Security middleware for AI applications](https://dev.to/alexandrughinea/prompt-chainmail-security-middleware-for-ai-applications-2oai)
+- [My VPC Journey: Hosting a Website in a Multi-AZ Production Environment](https://dev.to/aditya_bhatt_0d5d74efea37/my-vpc-journey-hosting-a-website-in-a-multi-az-production-environment-4830)
 <!-- BLOG-POST-LIST:END -->
 
