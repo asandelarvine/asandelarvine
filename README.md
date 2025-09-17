@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
-- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
-- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
-- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
+- [When &lpar;Not If&rpar; Containers Misbehave](https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao)
+- [Build a Full-Stack QR Code Generator in MERN with GraphQL &amp; MongoDB &lpar;No External API Needed!&rpar;](https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg)
+- [When JS blocks parsing your HTML](https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm)
+- [Mastering Microservices: Lessons from Netflix’s Journey on AWS](https://dev.to/vincenttommi/mastering-microservices-lessons-from-netflixs-journey-on-aws-3b7n)
 <!-- BLOG-POST-LIST:END -->
 
