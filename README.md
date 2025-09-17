@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Data is Stored in Kafka: JSON vs Avro Explained](https://dev.to/imlucky883/how-data-is-stored-in-kafka-json-vs-avro-explained-4gi3)
-- [Container-Driven Deployments](https://dev.to/godofgeeks/container-driven-deployments-1f3d)
-- [My Book Journey Series](https://dev.to/qivaijar/my-book-journey-series-3g48)
-- [A brief introduction to ZoomEye and similar search engines, and how to perform subdomain collection.](https://dev.to/rrrowan/a-brief-introduction-to-zoomeye-and-similar-search-engines-and-how-to-perform-subdomain-4ci4)
+- [#3 Finished CNN Training – Next Step: EfficientNet-B2](https://dev.to/esdk/3-finished-cnn-training-next-step-efficientnet-b2-41n5)
+- [🌟 Modern Global Exception Handling in Spring Boot](https://dev.to/ayon_ssp/modern-global-exception-handling-in-spring-boot-43aj)
+- [Weekly Update #9](https://dev.to/abytebybyte/weekly-update-9-3nmh)
+- [29-InstanceOf and Type Predicates](https://dev.to/cgithub123/29-instanceof-and-type-predicates-j7o)
 <!-- BLOG-POST-LIST:END -->
 
