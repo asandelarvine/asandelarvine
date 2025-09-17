@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Nick Raskulinecz Interview: Crafting The Sounds Of Deftones, Foo Fighters, AIC and Rush](https://dev.to/music_youtube/rick-beato-the-nick-raskulinecz-interview-crafting-the-sounds-of-deftones-foo-fighters-aic-and-477m)
-- [IGN: Warborne Above Ashes - Official Trailer](https://dev.to/gg_news/ign-warborne-above-ashes-official-trailer-2ok2)
-- [IGN: WWE 2K25 - Official Attitude Era Superstars DLC 4 Trailer](https://dev.to/gg_news/ign-wwe-2k25-official-attitude-era-superstars-dlc-4-trailer-8f3)
-- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
+- [Building Web Servers from First Principles &lpar;Part 2&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-2-53hb)
+- [Building Web Servers from First Principles &lpar;Part 1&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-1-5gpa)
+- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
+- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
 <!-- BLOG-POST-LIST:END -->
 
