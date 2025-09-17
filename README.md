@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
-- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
-- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
-- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
+- [Kubernetes: PVC in a StatefulSet, and the “Forbidden updates to statefulset spec” error](https://dev.to/setevoy/kubernetes-pvc-in-a-statefulset-and-the-forbidden-updates-to-statefulset-spec-error-5007)
+- [The Rise of AI Code Generators: How Artificial Intelligence is Transforming Software Development](https://dev.to/alok_e75d0463248211c2ca56/the-rise-of-ai-code-generators-how-artificial-intelligence-is-transforming-software-development-4c9j)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-53ko)
+- [🚀 Day 18 of My Python Learning Journey](https://dev.to/_adii3107/day-18-of-my-python-learning-journey-2agb)
 <!-- BLOG-POST-LIST:END -->
 
