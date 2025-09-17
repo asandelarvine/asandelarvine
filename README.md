@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 9.](https://dev.to/tomivan/coding-challenge-practice-question-9-1la9)
-- [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
-- [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
-- [PWC 339 Max Diff: Sorting for the win](https://dev.to/boblied/pwc-339-max-diff-sorting-for-the-win-43c8)
+- [🔐 Breaking Down Identity, Authentication, Authorization &amp; SSO](https://dev.to/sohillalakiya/breaking-down-identity-authentication-authorization-sso-hf0)
+- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
+- [COLORS: Bashy - Lost In Dreams | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-lost-in-dreams-a-colors-encore-252)
+- [10 Must-Join Medical Coding Communities That Will Skyrocket Your Career](https://dev.to/khushi_dixit_bf540d2e1fc9/10-must-join-medical-coding-communities-that-will-skyrocket-your-career-4nol)
 <!-- BLOG-POST-LIST:END -->
 
