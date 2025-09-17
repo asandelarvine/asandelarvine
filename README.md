@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Pallet Tracker Achieves 10-Year Battery Life: Deep Dive into IoT Power Optimization](https://dev.to/applekoiot/how-a-pallet-tracker-achieves-10-year-battery-life-deep-dive-into-iot-power-optimization-4bbo)
-- [Fast Navigation Guide : ArcAlphabetIndexer in HarmonyOS Next Using ArkTS and ArkUI](https://dev.to/harmonyos/fast-navigation-guide-arcalphabetindexer-in-harmonyos-next-using-arkts-and-arkui-52d8)
-- [⚙️ Day 17 of My DevOps Journey: Ansible — Automating Configuration Management 🚀](https://dev.to/dankbhardwaj/day-17-of-my-devops-journey-ansible-automating-configuration-management-57np)
-- [Engineering &quot;The&quot; Loop](https://dev.to/trent_best_ca8617e4911baf/engineering-the-loop-2cof)
+- [🚀 Mastering Monorepos with Lerna + Yarn Workspaces](https://dev.to/gimhantharuke4565/mastering-monorepos-with-lerna-yarn-workspaces-597p)
+- [What Programming Language Is Used for Raspberry Pi? &lpar;A Practical, No-Nonsense Guide&rpar;](https://dev.to/alexmo/what-programming-language-is-used-for-raspberry-pi-a-practical-no-nonsense-guide-4f3n)
+- [Usar IA al programar no significa dejar de pensar — en Flik](https://dev.to/barrerasaezgonzalo/usar-ia-al-programar-no-significa-dejar-de-pensar-en-flik-3j73)
+- [Equipment Maintenance Log: Definition &amp; Business Benefits](https://dev.to/jennifer_devsamurai/equipment-maintenance-log-definition-business-benefits-4k0h)
 <!-- BLOG-POST-LIST:END -->
 
