@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Mastering Monorepos with Lerna + Yarn Workspaces](https://dev.to/gimhantharuke4565/mastering-monorepos-with-lerna-yarn-workspaces-597p)
-- [What Programming Language Is Used for Raspberry Pi? &lpar;A Practical, No-Nonsense Guide&rpar;](https://dev.to/alexmo/what-programming-language-is-used-for-raspberry-pi-a-practical-no-nonsense-guide-4f3n)
-- [Usar IA al programar no significa dejar de pensar — en Flik](https://dev.to/barrerasaezgonzalo/usar-ia-al-programar-no-significa-dejar-de-pensar-en-flik-3j73)
-- [Equipment Maintenance Log: Definition &amp; Business Benefits](https://dev.to/jennifer_devsamurai/equipment-maintenance-log-definition-business-benefits-4k0h)
+- [Enhancing Infrastructure as Code Development and Operations with Amazon Q, MCP, and the Thoth Framework](https://dev.to/aws-builders/enhancing-infrastructure-as-code-development-and-operations-with-amazon-q-mcp-and-the-thoth-4gh1)
+- [Más allá de ChatGPT: entendiendo lo básico de la IA — en Flik](https://dev.to/barrerasaezgonzalo/mas-alla-de-chatgpt-entendiendo-lo-basico-de-la-ia-en-flik-1jk7)
+- [Git and Practical Tips for Security: Actionable Practices, Workflows, and Platform-Specific Guidance](https://dev.to/ihonchar/git-and-practical-tips-for-security-actionable-practices-workflows-and-platform-specific-guidance-13hk)
+- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
 <!-- BLOG-POST-LIST:END -->
 
