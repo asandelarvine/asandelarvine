@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, you need to think about SOC 2 compliance even if you&#39;re a startup – Here’s why it matters early on](https://dev.to/heyjoshlee/yes-you-need-to-think-about-soc-2-compliance-even-if-youre-a-startup-heres-why-it-matters-1i1b)
-- [Day 4:Type Casting in Python](https://dev.to/sanaipei001/day-4type-casting-in-python-585j)
-- [Exploring how a headless CMS &lpar;Sanity&rpar; integrates with Next.js for building a portfolio website](https://dev.to/irwingb/im-exploring-how-a-headless-cms-sanity-integrates-with-nextjs-for-building-a-portfolio-website-2728)
-- [One Attribute to Prevent Data Loss: How EF Core&#39;s `[Timestamp]` Saves Your Data](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
+- [OpenAI outlines new initiatives to enhance teen safety, freedom, and privacy on its platform](https://dev.to/ytosko/openai-outlines-new-initiatives-to-enhance-teen-safety-freedom-and-privacy-on-its-platform-2dmb)
+- [IGN: Dying Light: The Beast – 8 Things It Doesn’t Tell You](https://dev.to/gg_news/ign-dying-light-the-beast-8-things-it-doesnt-tell-you-34n4)
+- [IGN: Anaconda - Official Trailer &lpar;2025&rpar; Jack Black, Paul Rudd, Steve Zahn](https://dev.to/gg_news/ign-anaconda-official-trailer-2025-jack-black-paul-rudd-steve-zahn-3ich)
+- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
 <!-- BLOG-POST-LIST:END -->
 
