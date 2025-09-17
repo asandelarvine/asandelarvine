@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 102: Setting Up Your First Cluster and Core Concepts 🚀](https://dev.to/alikhere/kubernetes-102-setting-up-your-first-cluster-and-core-concepts-52j5)
-- [Building a Multi-Agent Competitive Intelligence Platform with Bright Data and Strands](https://dev.to/meirk-codes/building-a-multi-agent-competitive-intelligence-platform-with-bright-data-and-strands-5alc)
-- [Building an SVG Editor with Konva.js](https://dev.to/lovestaco/building-an-svg-editor-with-konvajs-56fo)
-- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
+- [Introducing ts-base: A Modern TypeScript Library Template](https://dev.to/bgub/introducing-ts-base-a-modern-typescript-library-template-5g9n)
+- [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
+- [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
+- [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
 <!-- BLOG-POST-LIST:END -->
 
