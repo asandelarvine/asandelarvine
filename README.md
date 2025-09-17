@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Breaking Down Identity, Authentication, Authorization &amp; SSO](https://dev.to/sohillalakiya/breaking-down-identity-authentication-authorization-sso-hf0)
-- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k)
-- [COLORS: Bashy - Lost In Dreams | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-lost-in-dreams-a-colors-encore-252)
-- [10 Must-Join Medical Coding Communities That Will Skyrocket Your Career](https://dev.to/khushi_dixit_bf540d2e1fc9/10-must-join-medical-coding-communities-that-will-skyrocket-your-career-4nol)
+- [Kubernetes 102: Setting Up Your First Cluster and Core Concepts 🚀](https://dev.to/alikhere/kubernetes-102-setting-up-your-first-cluster-and-core-concepts-52j5)
+- [Building a Multi-Agent Competitive Intelligence Platform with Bright Data and Strands](https://dev.to/meirk-codes/building-a-multi-agent-competitive-intelligence-platform-with-bright-data-and-strands-5alc)
+- [Building an SVG Editor with Konva.js](https://dev.to/lovestaco/building-an-svg-editor-with-konvajs-56fo)
+- [Web Transition: Part 4 of 4 — The Return to Simplicity](https://dev.to/raheelshan/web-transition-part-4-of-4-the-return-to-simplicity-h)
 <!-- BLOG-POST-LIST:END -->
 
