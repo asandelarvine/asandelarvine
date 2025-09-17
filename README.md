@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes: PVC in a StatefulSet, and the “Forbidden updates to statefulset spec” error](https://dev.to/setevoy/kubernetes-pvc-in-a-statefulset-and-the-forbidden-updates-to-statefulset-spec-error-5007)
-- [The Rise of AI Code Generators: How Artificial Intelligence is Transforming Software Development](https://dev.to/alok_e75d0463248211c2ca56/the-rise-of-ai-code-generators-how-artificial-intelligence-is-transforming-software-development-4c9j)
-- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-53ko)
-- [🚀 Day 18 of My Python Learning Journey](https://dev.to/_adii3107/day-18-of-my-python-learning-journey-2agb)
+- [Yes, you need to think about SOC 2 compliance even if you&#39;re a startup – Here’s why it matters early on](https://dev.to/heyjoshlee/yes-you-need-to-think-about-soc-2-compliance-even-if-youre-a-startup-heres-why-it-matters-1i1b)
+- [Day 4:Type Casting in Python](https://dev.to/sanaipei001/day-4type-casting-in-python-585j)
+- [Exploring how a headless CMS &lpar;Sanity&rpar; integrates with Next.js for building a portfolio website](https://dev.to/irwingb/im-exploring-how-a-headless-cms-sanity-integrates-with-nextjs-for-building-a-portfolio-website-2728)
+- [One Attribute to Prevent Data Loss: How EF Core&#39;s `[Timestamp]` Saves Your Data](https://dev.to/abdecoder/one-attribute-to-prevent-data-loss-how-ef-cores-timestamp-saves-your-data-34cp)
 <!-- BLOG-POST-LIST:END -->
 
