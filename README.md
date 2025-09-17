@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Infrastructure as Code Development and Operations with Amazon Q, MCP, and the Thoth Framework](https://dev.to/aws-builders/enhancing-infrastructure-as-code-development-and-operations-with-amazon-q-mcp-and-the-thoth-4gh1)
-- [Más allá de ChatGPT: entendiendo lo básico de la IA — en Flik](https://dev.to/barrerasaezgonzalo/mas-alla-de-chatgpt-entendiendo-lo-basico-de-la-ia-en-flik-1jk7)
-- [Git and Practical Tips for Security: Actionable Practices, Workflows, and Platform-Specific Guidance](https://dev.to/ihonchar/git-and-practical-tips-for-security-actionable-practices-workflows-and-platform-specific-guidance-13hk)
-- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
+- [Managing Tech Debt: Engineering Practices for Sustainable Systems](https://dev.to/deepakgupta/managing-tech-debt-engineering-practices-for-sustainable-systems-4k7c)
+- [The Philosophy of Coding in AI &amp; ML](https://dev.to/pjdeveloper896/the-philosophy-of-coding-in-ai-ml-1fj6)
+- [[Boost]](https://dev.to/wayne_gakuo/-3h7l)
+- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #749359](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-749359-5g9m)
 <!-- BLOG-POST-LIST:END -->
 
