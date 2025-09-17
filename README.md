@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When &lpar;Not If&rpar; Containers Misbehave](https://dev.to/aws-builders/when-not-if-containers-misbehave-1kao)
-- [Build a Full-Stack QR Code Generator in MERN with GraphQL &amp; MongoDB &lpar;No External API Needed!&rpar;](https://dev.to/lfariaus/build-a-full-stack-qr-code-generator-in-mern-with-graphql-mongodb-no-external-api-needed-1fbg)
-- [When JS blocks parsing your HTML](https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm)
-- [Mastering Microservices: Lessons from Netflix’s Journey on AWS](https://dev.to/vincenttommi/mastering-microservices-lessons-from-netflixs-journey-on-aws-3b7n)
+- [How Data is Stored in Kafka: JSON vs Avro Explained](https://dev.to/imlucky883/how-data-is-stored-in-kafka-json-vs-avro-explained-4gi3)
+- [Container-Driven Deployments](https://dev.to/godofgeeks/container-driven-deployments-1f3d)
+- [My Book Journey Series](https://dev.to/qivaijar/my-book-journey-series-3g48)
+- [A brief introduction to ZoomEye and similar search engines, and how to perform subdomain collection.](https://dev.to/rrrowan/a-brief-introduction-to-zoomeye-and-similar-search-engines-and-how-to-perform-subdomain-4ci4)
 <!-- BLOG-POST-LIST:END -->
 
