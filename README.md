@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We hired AI to do Growth Engineering and here’s what happened](https://dev.to/camelai/we-hired-ai-to-do-growth-engineering-and-heres-what-happened-4ad0)
-- [Budget Controls for AWS: Automatically Manage Your Cloud Costs](https://dev.to/namlahai9/budget-controls-for-aws-automatically-manage-your-cloud-costs-4m1d)
-- [NPR Music: Luiza Brina: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-luiza-brina-tiny-desk-concert-38j6)
-- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
+- [Three React MUI commandments](https://dev.to/techwood/three-react-mui-commandments-1lk)
+- [Why I’m Back to Web Components and Why You Should Be Too](https://dev.to/fedtti/why-im-back-to-web-components-and-why-you-should-be-too-n5h)
+- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
+- [How AI Can Predict the Success of Your Business Using Data from Google Maps](https://dev.to/noraina_nordin/how-ai-can-predict-the-success-of-your-business-using-data-from-google-maps-3821)
 <!-- BLOG-POST-LIST:END -->
 
