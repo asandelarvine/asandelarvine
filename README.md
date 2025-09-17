@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#3 Finished CNN Training – Next Step: EfficientNet-B2](https://dev.to/esdk/3-finished-cnn-training-next-step-efficientnet-b2-41n5)
-- [🌟 Modern Global Exception Handling in Spring Boot](https://dev.to/ayon_ssp/modern-global-exception-handling-in-spring-boot-43aj)
-- [Weekly Update #9](https://dev.to/abytebybyte/weekly-update-9-3nmh)
-- [29-InstanceOf and Type Predicates](https://dev.to/cgithub123/29-instanceof-and-type-predicates-j7o)
+- [Key concepts to know of a schema in data base](https://dev.to/asha_6ff9a1ab56509e32ab45/key-concepts-to-know-of-a-schema-in-data-base-4l3m)
+- [⚡ Scaling User Search with Bloom Filters in Node.js](https://dev.to/abhivyaktii/scaling-user-search-with-bloom-filters-in-nodejs-1nab)
+- [Want to run Docker on your Webdock VPS without fighting dependencies or broken installs?](https://dev.to/web_learning_4de0b1e0557/want-to-run-docker-on-your-webdock-vps-without-fighting-dependencies-or-broken-installs-2oag)
+- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
 <!-- BLOG-POST-LIST:END -->
 
