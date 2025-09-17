@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Tech Debt: Engineering Practices for Sustainable Systems](https://dev.to/deepakgupta/managing-tech-debt-engineering-practices-for-sustainable-systems-4k7c)
-- [The Philosophy of Coding in AI &amp; ML](https://dev.to/pjdeveloper896/the-philosophy-of-coding-in-ai-ml-1fj6)
-- [[Boost]](https://dev.to/wayne_gakuo/-3h7l)
-- [Green Blockchain: Can Sustainable Tech Solve Energy Concerns? - 101 Blockchains #749359](https://dev.to/calgo_62400343865ec0ae72a/green-blockchain-can-sustainable-tech-solve-energy-concerns-101-blockchains-749359-5g9m)
+- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
+- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
+- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
+- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
 <!-- BLOG-POST-LIST:END -->
 
