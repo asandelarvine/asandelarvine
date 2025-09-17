@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 30 of #100DaysOfRust: Reference Counting with Rc&lt;T&gt;](https://dev.to/subesh_yadav/day-30-of-100daysofrust-reference-counting-with-rc-2113)
-- [Phantom in Data Visualisation](https://dev.to/gzamann/phantom-in-data-visualisation-1iai)
-- [Prompt Chainmail: Security middleware for AI applications](https://dev.to/alexandrughinea/prompt-chainmail-security-middleware-for-ai-applications-2oai)
-- [My VPC Journey: Hosting a Website in a Multi-AZ Production Environment](https://dev.to/aditya_bhatt_0d5d74efea37/my-vpc-journey-hosting-a-website-in-a-multi-az-production-environment-4830)
+- [Coding Challenge Practice - Question 9.](https://dev.to/tomivan/coding-challenge-practice-question-9-1la9)
+- [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
+- [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
+- [PWC 339 Max Diff: Sorting for the win](https://dev.to/boblied/pwc-339-max-diff-sorting-for-the-win-43c8)
 <!-- BLOG-POST-LIST:END -->
 
