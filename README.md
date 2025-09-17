@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Bounce: Crafting a Self-Healing Job Processing System](https://dev.to/alex_aslam/the-art-of-the-bounce-crafting-a-self-healing-job-processing-system-dag)
-- [The Art of the Graceful Evolution: API Versioning as a Craft](https://dev.to/alex_aslam/the-art-of-the-graceful-evolution-api-versioning-as-a-craft-1api)
-- [How We Saved 600 Hours of Support Work with AI in a Ticketing System](https://dev.to/devfamdk/how-we-saved-600-hours-of-support-work-with-ai-in-a-ticketing-system-5c2b)
-- [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
+- [How a Pallet Tracker Achieves 10-Year Battery Life: Deep Dive into IoT Power Optimization](https://dev.to/applekoiot/how-a-pallet-tracker-achieves-10-year-battery-life-deep-dive-into-iot-power-optimization-4bbo)
+- [Fast Navigation Guide : ArcAlphabetIndexer in HarmonyOS Next Using ArkTS and ArkUI](https://dev.to/harmonyos/fast-navigation-guide-arcalphabetindexer-in-harmonyos-next-using-arkts-and-arkui-52d8)
+- [⚙️ Day 17 of My DevOps Journey: Ansible — Automating Configuration Management 🚀](https://dev.to/dankbhardwaj/day-17-of-my-devops-journey-ansible-automating-configuration-management-57np)
+- [Engineering &quot;The&quot; Loop](https://dev.to/trent_best_ca8617e4911baf/engineering-the-loop-2cof)
 <!-- BLOG-POST-LIST:END -->
 
