@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐦 Build Flappy Bird with TCJSgame v3 — Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/build-flappy-bird-with-tcjsgame-v3-step-by-step-tutorial-4aeh)
-- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
-- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
-- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
+- [Top 5 N8N Alternatives for Developers](https://dev.to/composiodev/top-5-n8n-alternatives-for-developers-pi)
+- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
+- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
+- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
 <!-- BLOG-POST-LIST:END -->
 
