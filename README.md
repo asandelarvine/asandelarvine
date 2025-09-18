@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Solutions Without Coding](https://dev.to/jaideepparashar/building-ai-solutions-without-coding-3ioj)
-- [Docker for Data People: Simplifying Development with Containers](https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g)
-- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
-- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
+- [Why Developers Are Building AI-Powered Real Estate Tools &lpar;The Virtual Staging Revolution&rpar;](https://dev.to/learnwithmohit/why-developers-are-building-ai-powered-real-estate-tools-the-virtual-staging-revolution-55m0)
+- [Stop Learning Code the Slow Way. Here&#39;s My AI Playbook to Learn 5x Faster](https://dev.to/nhi_ng/stop-learning-code-the-slow-way-heres-my-ai-playbook-to-learn-5x-faster-4ide)
+- [Step 6: Design a Rate Limiter - Using Sorted Set in Redis](https://dev.to/zeeshanali0704/step-6-design-a-rate-limiter-using-sorted-set-in-redis-52pf)
+- [The TenK 6 Handbook — A Free Pocket Guide for Indie Devs](https://dev.to/soasme/the-tenk-6-handbook-a-free-pocket-guide-for-indie-devs-1oon)
 <!-- BLOG-POST-LIST:END -->
 
