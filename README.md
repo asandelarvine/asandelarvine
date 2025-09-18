@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handle Large PostgreSQL Schemas with a GUI Tool](https://dev.to/roxana_haidiner/handle-large-postgresql-schemas-with-a-gui-tool-16e0)
-- [Deploying a CNN-BiLSTM Model on AWS Lambda](https://dev.to/vivekvohra/deploying-a-cnn-bilstm-model-on-aws-lambda-4kcj)
-- [Why I Switched from Create React App to Vite](https://dev.to/zulfikarazmi/why-i-switched-from-create-react-app-to-vite-5d82)
-- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
+- [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
+- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
+- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
+- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
 <!-- BLOG-POST-LIST:END -->
 
