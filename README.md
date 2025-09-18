@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Froala WYSIWYG Editor PDF Export](https://dev.to/ideradevtools/a-step-by-step-guide-to-froala-wysiwyg-editor-pdf-export-5f6p)
-- [Service Asset and Configuration Management Explained Simply](https://dev.to/teresa_tran/service-asset-and-configuration-management-explained-simply-nce)
-- [MySQL Shutdown Unexpectedly: Causes and Fixes for Developers](https://dev.to/dbvismarketing/mysql-shutdown-unexpectedly-causes-and-fixes-for-developers-2775)
-- [How to Program STM32 with STM32CubeIDE - The Complete Guide](https://dev.to/alexmo/how-to-program-stm32-with-stm32cubeide-the-complete-guide-ihc)
+- [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
+- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
+- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
+- [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
 <!-- BLOG-POST-LIST:END -->
 
