@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Registry Is Here - But Is It Already Too Late?](https://dev.to/leomarsh/the-mcp-registry-is-here-but-is-it-already-too-late-mfi)
-- [Running our test environment fully on Nanos](https://dev.to/mads_quist/running-our-test-environment-fully-on-nanos-12f9)
-- [It&#39;s my birthday](https://dev.to/ben/its-my-birthday-3ppl)
-- [Why manually registering component when Auto-Discovery exist?](https://dev.to/majdizlitni/why-manually-registering-component-when-auto-discovery-exist-519d)
+- [Git Bits: Working Without a Server](https://dev.to/oculus42/git-bits-working-without-a-server-2ncp)
+- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
+- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
+- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
 <!-- BLOG-POST-LIST:END -->
 
