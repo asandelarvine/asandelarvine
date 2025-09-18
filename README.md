@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 OSINT Tools Every &lpar;Ethical&rpar; Hacker Should Know](https://dev.to/sqlmap/top-10-osint-tools-every-ethical-hacker-should-know-88g)
-- [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
-- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
-- [JavaScript DOM Manipulation: How to Change Website Content Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-change-website-content-dynamically-1d5d)
+- [Cyberspace Visibility and Privacy: Why Your Router Might Appear in ZoomEye](https://dev.to/sqlmap/cyberspace-visibility-and-privacy-why-your-router-might-appear-in-zoomeye-43h5)
+- [Multitasking Is a Myth – How Focused Work Measurably Boosts Productivity](https://dev.to/thomasdelfing_de/multitasking-is-a-myth-how-focused-work-measurably-boosts-productivity-3045)
+- [Fundamentals of Machine Learning](https://dev.to/mujahida_joynab_64c7407d8/fundamentals-of-machine-learning-22o3)
+- [Working Through the Paradox: Serving the Greater Good in Hard Times](https://dev.to/bid_solution/working-through-the-paradox-serving-the-greater-good-in-hard-times-3858)
 <!-- BLOG-POST-LIST:END -->
 
