@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Competitive Programming](https://dev.to/skr0411/my-first-steps-in-competitive-programming-34jl)
-- [The DevOps Engineer&#39;s Guide to AWS Cost Explorer](https://dev.to/sreekanth_kuruba_91721e5d/the-devops-engineers-guide-to-aws-cost-explorer-4npa)
-- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
-- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
+- [Low Code No Code Platforms](https://dev.to/codemintah/low-code-no-code-platforms-2ad4)
+- [Async vs Sync APIs: A Developer&#39;s Complete Guide](https://dev.to/manonaga2188/async-vs-sync-apis-a-developers-complete-guide-11io)
+- [Top Next.js Shadcn UI Templates for Websites and Admin Dashboards](https://dev.to/isanjayjoshi/top-nextjs-shadcn-ui-templates-for-websites-and-admin-dashboards-6m6)
+- [How to use an background or reference image in Blender](https://dev.to/irender_gpu_cloud/how-to-use-an-background-or-reference-image-in-blender-p65)
 <!-- BLOG-POST-LIST:END -->
 
