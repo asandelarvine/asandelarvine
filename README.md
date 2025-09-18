@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Web Servers from First Principles &lpar;Part 2&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-2-53hb)
-- [Building Web Servers from First Principles &lpar;Part 1&rpar;](https://dev.to/mrfrontenddev/building-web-servers-from-first-principles-part-1-5gpa)
-- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
-- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
+- [Building AI Solutions Without Coding](https://dev.to/jaideepparashar/building-ai-solutions-without-coding-3ioj)
+- [Docker for Data People: Simplifying Development with Containers](https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g)
+- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
+- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
 <!-- BLOG-POST-LIST:END -->
 
