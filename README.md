@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Low Code No Code Platforms](https://dev.to/codemintah/low-code-no-code-platforms-2ad4)
-- [Async vs Sync APIs: A Developer&#39;s Complete Guide](https://dev.to/manonaga2188/async-vs-sync-apis-a-developers-complete-guide-11io)
-- [Top Next.js Shadcn UI Templates for Websites and Admin Dashboards](https://dev.to/isanjayjoshi/top-nextjs-shadcn-ui-templates-for-websites-and-admin-dashboards-6m6)
-- [How to use an background or reference image in Blender](https://dev.to/irender_gpu_cloud/how-to-use-an-background-or-reference-image-in-blender-p65)
+- [Top 10 OSINT Tools Every &lpar;Ethical&rpar; Hacker Should Know](https://dev.to/sqlmap/top-10-osint-tools-every-ethical-hacker-should-know-88g)
+- [7 React Tips That Will Make You a Better Developer](https://dev.to/jay_sarvaiya_f85e7148bb57/7-react-tips-that-will-make-you-a-better-developer-1a64)
+- [Can Simple Calculator Projects Be Turned Into Real-World Tools?](https://dev.to/yasir_umayyah_shamon/can-simple-calculator-projects-be-turned-into-real-world-tools-49l8)
+- [JavaScript DOM Manipulation: How to Change Website Content Dynamically](https://dev.to/wisdomudo/javascript-dom-manipulation-how-to-change-website-content-dynamically-1d5d)
 <!-- BLOG-POST-LIST:END -->
 
