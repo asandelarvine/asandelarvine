@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Two Lanes - Signs of Change &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-two-lanes-signs-of-change-live-version-cercle-odyssey-4ng0)
-- [Introducing: Clips Open-Source AI Clipping Tool for Every Creator](https://dev.to/samyaksgupta/introducing-clips-open-source-ai-clipping-tool-for-every-creator-3jhk)
-- [Golf.com: The Ultimate Golf Pilgrimage: 3 Legendary English Courses in A Day](https://dev.to/youtube_golf/golfcom-the-ultimate-golf-pilgrimage-3-legendary-english-courses-in-a-day-3poh)
-- [GameSpot: Dying Light The Beast Review](https://dev.to/gg_news/gamespot-dying-light-the-beast-review-3pdp)
+- [The Smarter Way to Code: Stop Copy-Pasting and Start Reusing](https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1)
+- [DevLog 20250917: Godot Limitations and Rendering Challenges](https://dev.to/nfc-charles/devlog-20250917-godot-limitations-and-rendering-challenges-4j3o)
+- [Taming the Hydra: Why Your Kubernetes Secrets Management is Broken &lpar;And How CyberArk Conjur Fixes It&rpar;](https://dev.to/binyam/taming-the-hydra-why-your-kubernetes-secrets-management-is-broken-and-how-cyberark-conjur-fixes-f1j)
+- [How I Solved the Flooded Icons Crisis in Our React Codebase](https://dev.to/rajeshrenato/how-i-solved-the-flooded-icons-crisis-in-our-react-codebase-1oh7)
 <!-- BLOG-POST-LIST:END -->
 
