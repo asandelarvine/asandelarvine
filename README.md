@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
-- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
-- [Python&#39;s Most Famous Gotcha: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/pythons-most-famous-gotcha-the-mutable-default-argument-jfo)
-- [⚛️ Getting Started with React + TypeScript: A Beginner’s Guide](https://dev.to/kaif_zaki_c96b5d3db7a801f/getting-started-with-react-typescript-a-beginners-guide-3n3b)
+- [Unlocking AI’s Potential: Advanced Prompt Engineering Techniques for Smarter Interaction](https://dev.to/kapusto/unlocking-ais-potential-advanced-prompt-engineering-techniques-for-smarter-interaction-30om)
+- [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
+- [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
+- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
 <!-- BLOG-POST-LIST:END -->
 
