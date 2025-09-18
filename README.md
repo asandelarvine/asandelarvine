@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI’s Potential: Advanced Prompt Engineering Techniques for Smarter Interaction](https://dev.to/kapusto/unlocking-ais-potential-advanced-prompt-engineering-techniques-for-smarter-interaction-30om)
-- [The Game Theorists: Game Theory: Which CANON Marvel Rivals Team Is The Strongest?](https://dev.to/gg_news/the-game-theorists-game-theory-which-canon-marvel-rivals-team-is-the-strongest-10hd)
-- [GameSpot: Silent Hill f - Everything To Know](https://dev.to/gg_news/gamespot-silent-hill-f-everything-to-know-lhe)
-- [IGN: Ratatan - Official Early Access Cinematic Launch Trailer](https://dev.to/gg_news/ign-ratatan-official-early-access-cinematic-launch-trailer-mfo)
+- [Flores amarillas](https://dev.to/brian_ramirez_189536455f1/flores-amarillas-54e9)
+- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
+- [Mechanised Learning — When the Plough Gives Way to Precision Gears, What Harvest Will the Mind Yield?](https://dev.to/black-ib/mechanised-learning-when-the-plough-gives-way-to-precision-gears-what-harvest-will-the-mind-dfa)
+- [6 .NET ORM Frameworks Worth Bookmarking](https://dev.to/lamri_abdellahramdane_15/6-net-orm-frameworks-worth-bookmarking-d3e)
 <!-- BLOG-POST-LIST:END -->
 
