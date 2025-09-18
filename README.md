@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 N8N Alternatives for Developers](https://dev.to/composiodev/top-5-n8n-alternatives-for-developers-pi)
-- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
-- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
-- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
+- [If You Have a Single Mum - Read This](https://dev.to/scofieldidehen/if-you-have-a-single-mum-read-this-5bm8)
+- [Rendering Strategies in Next.js: CSR, SSR, SSG, ISR Explained](https://dev.to/maurya-sachin/rendering-strategies-in-nextjs-csr-ssr-ssg-isr-explained-417n)
+- [A 15-Minute Stand-Up That Actually Ends in 15](https://dev.to/nikita_kutafiev_c087adc8d/a-15-minute-stand-up-that-actually-ends-in-15-2p9o)
+- [Code Reviews: Rubber Stamps 🕹️ or Real Quality Gates 🚧?](https://dev.to/abdulosman/code-reviews-rubber-stamps-or-real-quality-gates--15c0)
 <!-- BLOG-POST-LIST:END -->
 
