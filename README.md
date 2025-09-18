@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Post](https://dev.to/jfandre00/first-post-2pff)
-- [DataStore in Android: The Future of Local Key-Value Storage](https://dev.to/vrushali_dev_15/datastore-in-android-the-future-of-local-key-value-storage-4g3a)
-- [My 50 Projects in 50 Days Challenge](https://dev.to/augusta08/my-50-projects-in-50-days-challenge-2l2c)
-- [PlotSenseAI Hackathon 2025 commences tomorrow! 🚀](https://dev.to/havilahacademy/plotsenseai-hackathon-2025-commences-tomorrow-9lj)
+- [The MCP Registry Is Here - But Is It Already Too Late?](https://dev.to/leomarsh/the-mcp-registry-is-here-but-is-it-already-too-late-mfi)
+- [Running our test environment fully on Nanos](https://dev.to/mads_quist/running-our-test-environment-fully-on-nanos-12f9)
+- [It&#39;s my birthday](https://dev.to/ben/its-my-birthday-3ppl)
+- [Why manually registering component when Auto-Discovery exist?](https://dev.to/majdizlitni/why-manually-registering-component-when-auto-discovery-exist-519d)
 <!-- BLOG-POST-LIST:END -->
 
