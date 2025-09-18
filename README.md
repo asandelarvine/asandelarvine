@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clprolf Docs #4 — Interfaces in Clprolf: A Complete Overview](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-4-interfaces-in-clprolf-a-complete-overview-3d2e)
-- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
-- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
-- [Prompt Engineering vs Prompt Tuning : where does the real power lie?](https://dev.to/snehaup1997/prompt-engineering-vs-prompt-tuning-where-does-the-real-power-lie-2d97)
+- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
+- [Advances in Radio Engineering: Insights from Dr. Alexey Bashkirov, PhD](https://dev.to/alexeybashkirov/advances-in-radio-engineering-insights-from-dr-alexey-bashkirov-phd-1bgj)
+- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
+- [How to install Samba on Raspberry Pi?](https://dev.to/carolineee/how-to-install-samba-on-raspberry-pi-22ok)
 <!-- BLOG-POST-LIST:END -->
 
