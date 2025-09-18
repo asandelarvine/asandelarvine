@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Have a Single Mum - Read This](https://dev.to/scofieldidehen/if-you-have-a-single-mum-read-this-5bm8)
-- [Rendering Strategies in Next.js: CSR, SSR, SSG, ISR Explained](https://dev.to/maurya-sachin/rendering-strategies-in-nextjs-csr-ssr-ssg-isr-explained-417n)
-- [A 15-Minute Stand-Up That Actually Ends in 15](https://dev.to/nikita_kutafiev_c087adc8d/a-15-minute-stand-up-that-actually-ends-in-15-2p9o)
-- [Code Reviews: Rubber Stamps 🕹️ or Real Quality Gates 🚧?](https://dev.to/abdulosman/code-reviews-rubber-stamps-or-real-quality-gates--15c0)
+- [Handle Large PostgreSQL Schemas with a GUI Tool](https://dev.to/roxana_haidiner/handle-large-postgresql-schemas-with-a-gui-tool-16e0)
+- [Deploying a CNN-BiLSTM Model on AWS Lambda](https://dev.to/vivekvohra/deploying-a-cnn-bilstm-model-on-aws-lambda-4kcj)
+- [Why I Switched from Create React App to Vite](https://dev.to/zulfikarazmi/why-i-switched-from-create-react-app-to-vite-5d82)
+- [AI Coding Is Boring — And What To Do About It](https://dev.to/datadog-frontend-dev/ai-coding-is-boring-and-what-to-do-about-it-5bji)
 <!-- BLOG-POST-LIST:END -->
 
