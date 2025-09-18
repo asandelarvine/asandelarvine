@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Software Vendors: Drive Compliance &amp; Customer Insights with MindsDB Knowledge Bases + Hybrid Search](https://dev.to/mindsdb/enterprise-software-vendors-drive-compliance-customer-insights-with-mindsdb-knowledge-bases--3afo)
-- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
-- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
-- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
+- [First Post](https://dev.to/jfandre00/first-post-2pff)
+- [DataStore in Android: The Future of Local Key-Value Storage](https://dev.to/vrushali_dev_15/datastore-in-android-the-future-of-local-key-value-storage-4g3a)
+- [My 50 Projects in 50 Days Challenge](https://dev.to/augusta08/my-50-projects-in-50-days-challenge-2l2c)
+- [PlotSenseAI Hackathon 2025 commences tomorrow! 🚀](https://dev.to/havilahacademy/plotsenseai-hackathon-2025-commences-tomorrow-9lj)
 <!-- BLOG-POST-LIST:END -->
 
