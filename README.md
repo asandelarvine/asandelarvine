@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy-Paste Coding: The Shortcut That Turns Into Technical Debt](https://dev.to/devtechinsights/copy-paste-coding-the-shortcut-that-turns-into-technical-debt-17p)
-- [# 🛠️ Built Français Pro: A Technical Deep Dive into Modern French Learning](https://dev.to/kasimkazmi/-built-francais-pro-a-technical-deep-dive-into-modern-french-learning-4586)
-- [GameSpot: ShatterRush - Pre-Alpha Gameplay Trailer](https://dev.to/gg_news/gamespot-shatterrush-pre-alpha-gameplay-trailer-271i)
-- [IGN: EA Sports FC 26 - Official &#39;The Club is Yours&#39; Launch Trailer](https://dev.to/gg_news/ign-ea-sports-fc-26-official-the-club-is-yours-launch-trailer-pgp)
+- [🎨 Tailwind CSS: The Utility-First Approach Explained](https://dev.to/kaif_zaki_c96b5d3db7a801f/tailwind-css-the-utility-first-approach-explained-4gdf)
+- [🚀 CI/CD real en AWS con Terraform y despliegue Blue/Green](https://dev.to/karlos_eduardocetina_715/cicd-real-en-aws-con-terraform-y-despliegue-bluegreen-o34)
+- [Python&#39;s Most Famous Gotcha: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/pythons-most-famous-gotcha-the-mutable-default-argument-jfo)
+- [⚛️ Getting Started with React + TypeScript: A Beginner’s Guide](https://dev.to/kaif_zaki_c96b5d3db7a801f/getting-started-with-react-typescript-a-beginners-guide-3n3b)
 <!-- BLOG-POST-LIST:END -->
 
