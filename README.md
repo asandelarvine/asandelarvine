@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon ElastiCache Redis as a Vector Embeddings Storage for Semantic Search in AWS Community Blog posts](https://dev.to/aws-builders/amazon-elasticache-redis-as-a-vector-embeddings-storage-for-semantic-search-in-aws-community-blog-4igj)
-- [Advances in Radio Engineering: Insights from Dr. Alexey Bashkirov, PhD](https://dev.to/alexeybashkirov/advances-in-radio-engineering-insights-from-dr-alexey-bashkirov-phd-1bgj)
-- [Break Through Data Silos: Practices of Multi-cloud Observability Integration Based on Object Storage Service &lpar;OSS&rpar;](https://dev.to/observabilityguy/break-through-data-silos-practices-of-multi-cloud-observability-integration-based-on-object-5abo)
-- [How to install Samba on Raspberry Pi?](https://dev.to/carolineee/how-to-install-samba-on-raspberry-pi-22ok)
+- [🐦 Build Flappy Bird with TCJSgame v3 — Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/build-flappy-bird-with-tcjsgame-v3-step-by-step-tutorial-4aeh)
+- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
+- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
+- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
 <!-- BLOG-POST-LIST:END -->
 
