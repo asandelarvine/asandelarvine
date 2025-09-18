@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberspace Visibility and Privacy: Why Your Router Might Appear in ZoomEye](https://dev.to/sqlmap/cyberspace-visibility-and-privacy-why-your-router-might-appear-in-zoomeye-43h5)
-- [Multitasking Is a Myth – How Focused Work Measurably Boosts Productivity](https://dev.to/thomasdelfing_de/multitasking-is-a-myth-how-focused-work-measurably-boosts-productivity-3045)
-- [Fundamentals of Machine Learning](https://dev.to/mujahida_joynab_64c7407d8/fundamentals-of-machine-learning-22o3)
-- [Working Through the Paradox: Serving the Greater Good in Hard Times](https://dev.to/bid_solution/working-through-the-paradox-serving-the-greater-good-in-hard-times-3858)
+- [A Step-by-Step Guide to Froala WYSIWYG Editor PDF Export](https://dev.to/ideradevtools/a-step-by-step-guide-to-froala-wysiwyg-editor-pdf-export-5f6p)
+- [Service Asset and Configuration Management Explained Simply](https://dev.to/teresa_tran/service-asset-and-configuration-management-explained-simply-nce)
+- [MySQL Shutdown Unexpectedly: Causes and Fixes for Developers](https://dev.to/dbvismarketing/mysql-shutdown-unexpectedly-causes-and-fixes-for-developers-2775)
+- [How to Program STM32 with STM32CubeIDE - The Complete Guide](https://dev.to/alexmo/how-to-program-stm32-with-stm32cubeide-the-complete-guide-ihc)
 <!-- BLOG-POST-LIST:END -->
 
