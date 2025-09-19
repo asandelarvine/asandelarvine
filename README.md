@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/brian_ramirez_189536455f1/flores-amarillas-54e9)
-- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
-- [Mechanised Learning — When the Plough Gives Way to Precision Gears, What Harvest Will the Mind Yield?](https://dev.to/black-ib/mechanised-learning-when-the-plough-gives-way-to-precision-gears-what-harvest-will-the-mind-dfa)
-- [6 .NET ORM Frameworks Worth Bookmarking](https://dev.to/lamri_abdellahramdane_15/6-net-orm-frameworks-worth-bookmarking-d3e)
+- [The 7-Layer Dip of State](https://dev.to/duplessisvanaswegen/the-7-layer-dip-of-state-24d2)
+- [The Dangerous Comfort of the Checkbox: Why Compliance is Not Security](https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4)
+- [Next.js App Router Deep Dive: Evolution from Pages Router and Its Latest Features](https://dev.to/learcise_health/nextjs-app-router-deep-dive-evolution-from-pages-router-and-its-latest-features-55pk)
+- [PWA in iPadOS 26 is a joke](https://dev.to/reinhart1010/pwa-in-ipados-26-is-a-joke-38g1)
 <!-- BLOG-POST-LIST:END -->
 
