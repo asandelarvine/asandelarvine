@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
-- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
-- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
-- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
+- [AOT: .NET vs Java](https://dev.to/mehrandvd/aot-net-vs-java-3e4m)
+- [O código perfeito NÃO existe - e está na hora de aceitar isso](https://dev.to/gustavo_darosaoliveira_/o-codigo-perfeito-nao-existe-e-esta-na-hora-de-aceitar-isso-3pee)
+- [The AI Code Security Crisis: Why 45% of AI-Generated Code is Vulnerable](https://dev.to/alex_chen_ai/the-ai-code-security-crisis-why-45-of-ai-generated-code-is-vulnerable-3lof)
+- [Future-Proofing Your Business: Key Market Trends Shaping the Dairy Industry](https://dev.to/jay-modi/future-proofing-your-business-key-market-trends-shaping-the-dairy-industry-3f6c)
 <!-- BLOG-POST-LIST:END -->
 
