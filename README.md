@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔬 PF–AI Simulation Lab: How I Built a Full-Stack AI Research Platform to Accelerate Pulmonary Fibrosis Discovery](https://dev.to/ghostking314/pf-ai-simulation-lab-how-i-built-a-full-stack-ai-research-platform-to-accelerate-pulmonary-1hk6)
-- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a)
-- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0)
-- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2)
+- [3 Gotchas When Calling an IAP‑Protected Cloud Run API from a Chrome Extension &lpar;MV3&rpar;](https://dev.to/saloni28/3-gotchas-when-calling-an-iap-protected-cloud-run-api-from-a-chrome-extension-mv3-mfa)
+- [What’s the Hardest Part About Building Full-Stack Apps Solo?](https://dev.to/kingbyno/whats-the-hardest-part-about-building-full-stack-apps-solo-1hbg)
+- [Vibe Coding: Because Who Reads Code Anyway?](https://dev.to/trojanmocx/vibe-coding-because-who-reads-code-anyway-319l)
+- [WIP is waste](https://dev.to/jonasbn/wip-is-waste-208n)
 <!-- BLOG-POST-LIST:END -->
 
