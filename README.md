@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance more features. It’s guardrails.](https://dev.to/codebrainr/enhance-more-features-its-guardrails-34nm)
-- [What is AI as a Service &lpar;AIaaS&rpar;?](https://dev.to/aria_quinn_5ef92b2811fdf8/what-is-ai-as-a-service-aiaas-30lp)
-- [How to Improve Forecasting Accuracy: Top Strategies to Succeed](https://dev.to/microestimates/how-to-improve-forecasting-accuracy-top-strategies-to-succeed-16o7)
-- [Learning JS in 30 Days - Day 1](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-1-2ac3)
+- [Digital Vernier Caliper: Key Benefits and Applications](https://dev.to/rani_jaibros_5c1fd9c992ef/digital-vernier-caliper-key-benefits-and-applications-5b4l)
+- [The Amazing World of Trees: Nature&#39;s Giants That Sustain Life](https://dev.to/ruban_6c3dae44f6a35e83c59/the-amazing-world-of-trees-natures-giants-that-sustain-life-1k84)
+- [Linux - File Commands](https://dev.to/aravinlinux/linux-file-commands-4n66)
+- [Introduction to Gonyx](https://dev.to/abibeh/introduction-to-gonyx-4jd7)
 <!-- BLOG-POST-LIST:END -->
 
