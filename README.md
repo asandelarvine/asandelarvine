@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Go Logging with slog-context: Contextual Logging Made Easy](https://dev.to/githubopensource/supercharge-your-go-logging-with-slog-context-contextual-logging-made-easy-2kgd)
-- [ইংরেজিতে দক্ষতা বাড়ানোর পরিপূর্ণ গাইডলাইন](https://dev.to/faisalahammad/inrejite-dksstaa-baaddaanor-pripuurnn-gaaiddlaain-2e3p)
-- [How to Build Courtroom-Ready CIPA &amp; GDPR Evidence Reports for Website Tracking Violations &lpar;2025 Guide&rpar;](https://dev.to/auditzo/how-to-build-courtroom-ready-cipa-gdpr-evidence-reports-for-website-tracking-violations-2025-4g17)
-- [Mocking APIs Made Simple: Pain Points, Solutions &amp; Best Practices with EchoAPI](https://dev.to/eleanor_fairfax_5ce95399d/mocking-apis-made-simple-pain-points-solutions-best-practices-with-echoapi-i2d)
+- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
+- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
+- [Why Vendor Lock-In Is Costing You More Than You Think](https://dev.to/talweezy/why-vendor-lock-in-is-costing-you-more-than-you-think-2hfp)
+- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
 <!-- BLOG-POST-LIST:END -->
 
