@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EMSCRIPTEN 多线程编程笔记](https://dev.to/yangholmes/emscripten-duo-xian-cheng-bian-cheng-bi-ji-5cdb)
-- [Clprolf Docs #5 — Concurrency and Parallelism Made Clear](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-5-concurrency-and-parallelism-made-clear-10)
-- [Next.js 14 App Router: Building Modern Full-Stack Applications](https://dev.to/muhammad_usman_35b52e4f04/nextjs-14-app-router-building-modern-full-stack-applications-52ej)
-- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
+- [Enhance more features. It’s guardrails.](https://dev.to/codebrainr/enhance-more-features-its-guardrails-34nm)
+- [What is AI as a Service &lpar;AIaaS&rpar;?](https://dev.to/aria_quinn_5ef92b2811fdf8/what-is-ai-as-a-service-aiaas-30lp)
+- [How to Improve Forecasting Accuracy: Top Strategies to Succeed](https://dev.to/microestimates/how-to-improve-forecasting-accuracy-top-strategies-to-succeed-16o7)
+- [Learning JS in 30 Days - Day 1](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-1-2ac3)
 <!-- BLOG-POST-LIST:END -->
 
