@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrency Model - Part II - CountDownLatch](https://dev.to/sommukhopadhyay/java-concurrency-model-part-ii-countdownlatch-4cke)
-- [The Command Pattern in Python...](https://dev.to/sommukhopadhyay/the-command-pattern-in-python-3hco)
-- [Why Vendor Lock-In Is Costing You More Than You Think](https://dev.to/talweezy/why-vendor-lock-in-is-costing-you-more-than-you-think-2hfp)
-- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
+- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
+- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
+- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
+- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
 <!-- BLOG-POST-LIST:END -->
 
