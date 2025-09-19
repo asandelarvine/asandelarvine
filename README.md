@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3. International HTML](https://dev.to/avery_/3-international-html-49ok)
-- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
-- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
-- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
+- [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
+- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
+- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
+- [I created a small 2D game about an ant :&rpar;](https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc)
 <!-- BLOG-POST-LIST:END -->
 
