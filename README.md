@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta in Talks with News Publishers Over AI Licensing Deals](https://dev.to/sky_yv_11b3d5d44877d27276/meta-in-talks-with-news-publishers-over-ai-licensing-deals-2jpi)
-- [From Copilot to Autonomous Coding: The AI Tools Changing How We Write Software](https://dev.to/sanjaynaker/from-copilot-to-autonomous-coding-the-ai-tools-changing-how-we-write-software-kah)
-- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9)
-- [Which Cloud Security Framework Does Your Store Follow?](https://dev.to/snehal_rbm/which-cloud-security-framework-does-your-store-follow-30nd)
+- [The Rise of Passwordless Authentication: Are Password Managers Becoming Obsolete?](https://dev.to/rahul_sharma_15bd129bc69e/the-rise-of-passwordless-authentication-are-password-managers-becoming-obsolete-1b93)
+- [Amazon ElastiCache &lpar;Redis, Memcached&rpar;](https://dev.to/godofgeeks/amazon-elasticache-redis-memcached-5f13)
+- [Embedded SBCs in Industrial Automation: Roles and Challenges](https://dev.to/lauraaa/embedded-sbcs-in-industrial-automation-roles-and-challenges-2fc2)
+- [Supermaker ai: The AI Tool for Streamlining Creative Work](https://dev.to/juddiy/supermaker-ai-the-ai-tool-for-streamlining-creative-work-fbc)
 <!-- BLOG-POST-LIST:END -->
 
