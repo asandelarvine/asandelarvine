@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA Network+ N10-009 3.4 Study Guide: DNS, DHCP, IPv6, and Time Protocols](https://dev.to/andrew_despres/comptia-network-n10-009-34-study-guide-dns-dhcp-ipv6-and-time-protocols-30e3)
-- [How to Build AI-Powered Customer Support with Laravel MCP &amp; Database Q\&amp;A](https://dev.to/akashdas/how-to-build-ai-powered-customer-support-with-laravel-mcp-database-qa-4ii9)
-- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
-- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
+- [3. International HTML](https://dev.to/avery_/3-international-html-49ok)
+- [Python Pro Tip: Mastering *args and **kwargs &lpar;Argument Packing Explained&rpar; 🎁](https://dev.to/aaron_rose_0787cc8b4775a0/python-pro-tip-mastering-args-and-kwargs-argument-packing-explained-3iii)
+- [TCJSGame: A Complete JavaScript Game Engine Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-a-complete-javascript-game-engine-reference-guide-2f70)
+- [API Rate Limiting Explained: How to Use Free APIs Without Getting Blocked &lpar;2025&rpar;](https://dev.to/kraizy_amy_a80dacf26d203d/api-rate-limiting-explained-how-to-use-free-apis-without-getting-blocked-2025-4iap)
 <!-- BLOG-POST-LIST:END -->
 
