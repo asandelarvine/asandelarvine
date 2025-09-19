@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
-- [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
-- [Introducción a las GANs](https://dev.to/victorojedaok/introduccion-a-las-gans-22ff)
-- [How to scrape Tripadvisor &lpar;2025 Tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-tripadvisor-2025-tutorial-57o0)
+- [No Laying Up Podcast: NLU Personal Golf Spotlight: Big Randy | NLU Pod, Ep 1071](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-personal-golf-spotlight-big-randy-nlu-pod-ep-1071-4ah2)
+- [IGN: Hollow Knight Silksong - How to Get the Double Jump &lpar;Faydown Cloak&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-double-jump-faydown-cloak-2oo7)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pc5)
+- [From Fat Models to Clean Code: 5 Practical Design Patterns in Ruby on Rails](https://dev.to/pratiksha_palkar_1626564e/from-fat-models-to-clean-code-5-practical-design-patterns-in-ruby-on-rails-1n98)
 <!-- BLOG-POST-LIST:END -->
 
