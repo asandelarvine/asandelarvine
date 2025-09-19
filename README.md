@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Vernier Caliper: Key Benefits and Applications](https://dev.to/rani_jaibros_5c1fd9c992ef/digital-vernier-caliper-key-benefits-and-applications-5b4l)
-- [The Amazing World of Trees: Nature&#39;s Giants That Sustain Life](https://dev.to/ruban_6c3dae44f6a35e83c59/the-amazing-world-of-trees-natures-giants-that-sustain-life-1k84)
-- [Linux - File Commands](https://dev.to/aravinlinux/linux-file-commands-4n66)
-- [Introduction to Gonyx](https://dev.to/abibeh/introduction-to-gonyx-4jd7)
+- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
+- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
+- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
+- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
 <!-- BLOG-POST-LIST:END -->
 
