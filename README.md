@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AOT: .NET vs Java](https://dev.to/mehrandvd/aot-net-vs-java-3e4m)
-- [O código perfeito NÃO existe - e está na hora de aceitar isso](https://dev.to/gustavo_darosaoliveira_/o-codigo-perfeito-nao-existe-e-esta-na-hora-de-aceitar-isso-3pee)
-- [The AI Code Security Crisis: Why 45% of AI-Generated Code is Vulnerable](https://dev.to/alex_chen_ai/the-ai-code-security-crisis-why-45-of-ai-generated-code-is-vulnerable-3lof)
-- [Future-Proofing Your Business: Key Market Trends Shaping the Dairy Industry](https://dev.to/jay-modi/future-proofing-your-business-key-market-trends-shaping-the-dairy-industry-3f6c)
+- [Supercharge Your Go Logging with slog-context: Contextual Logging Made Easy](https://dev.to/githubopensource/supercharge-your-go-logging-with-slog-context-contextual-logging-made-easy-2kgd)
+- [ইংরেজিতে দক্ষতা বাড়ানোর পরিপূর্ণ গাইডলাইন](https://dev.to/faisalahammad/inrejite-dksstaa-baaddaanor-pripuurnn-gaaiddlaain-2e3p)
+- [How to Build Courtroom-Ready CIPA &amp; GDPR Evidence Reports for Website Tracking Violations &lpar;2025 Guide&rpar;](https://dev.to/auditzo/how-to-build-courtroom-ready-cipa-gdpr-evidence-reports-for-website-tracking-violations-2025-4g17)
+- [Mocking APIs Made Simple: Pain Points, Solutions &amp; Best Practices with EchoAPI](https://dev.to/eleanor_fairfax_5ce95399d/mocking-apis-made-simple-pain-points-solutions-best-practices-with-echoapi-i2d)
 <!-- BLOG-POST-LIST:END -->
 
