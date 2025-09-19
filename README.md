@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
-- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
-- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
-- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
+- [The Minimal React App Setup You Need](https://dev.to/murtuzaalisurti/the-minimal-react-app-setup-you-need-4p8e)
+- [Recommended Folder Structure for Node&lpar;TS&rpar; 2025](https://dev.to/pramod_boda/recommended-folder-structure-for-nodets-2025-39jl)
+- [Bridging AI and Blockchain: MCP’s Role](https://dev.to/om_shree_0709/bridging-ai-and-blockchain-mcps-role-2l1n)
+- [Ditch Redux Already?! Building Scalable State with Recoil &amp; React that Doesn’t Drive You Insane](https://dev.to/ekwoster/ditch-redux-already-building-scalable-state-with-recoil-react-that-doesnt-drive-you-insane-2mh0)
 <!-- BLOG-POST-LIST:END -->
 
