@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
-- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
-- [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
-- [IGN: Mushoku Tensei: Jobless Reincarnation Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-mushoku-tensei-jobless-reincarnation-season-3-official-trailer-english-subtitles-3fng)
+- [CompTIA Network+ N10-009 3.4 Study Guide: DNS, DHCP, IPv6, and Time Protocols](https://dev.to/andrew_despres/comptia-network-n10-009-34-study-guide-dns-dhcp-ipv6-and-time-protocols-30e3)
+- [How to Build AI-Powered Customer Support with Laravel MCP &amp; Database Q\&amp;A](https://dev.to/akashdas/how-to-build-ai-powered-customer-support-with-laravel-mcp-database-qa-4ii9)
+- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
+- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
 <!-- BLOG-POST-LIST:END -->
 
