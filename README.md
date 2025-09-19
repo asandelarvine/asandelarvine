@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Passwordless Authentication: Are Password Managers Becoming Obsolete?](https://dev.to/rahul_sharma_15bd129bc69e/the-rise-of-passwordless-authentication-are-password-managers-becoming-obsolete-1b93)
-- [Amazon ElastiCache &lpar;Redis, Memcached&rpar;](https://dev.to/godofgeeks/amazon-elasticache-redis-memcached-5f13)
-- [Embedded SBCs in Industrial Automation: Roles and Challenges](https://dev.to/lauraaa/embedded-sbcs-in-industrial-automation-roles-and-challenges-2fc2)
-- [Supermaker ai: The AI Tool for Streamlining Creative Work](https://dev.to/juddiy/supermaker-ai-the-ai-tool-for-streamlining-creative-work-fbc)
+- [EMSCRIPTEN 多线程编程笔记](https://dev.to/yangholmes/emscripten-duo-xian-cheng-bian-cheng-bi-ji-5cdb)
+- [Clprolf Docs #5 — Concurrency and Parallelism Made Clear](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-5-concurrency-and-parallelism-made-clear-10)
+- [Next.js 14 App Router: Building Modern Full-Stack Applications](https://dev.to/muhammad_usman_35b52e4f04/nextjs-14-app-router-building-modern-full-stack-applications-52ej)
+- [Blueprints and X-Rays: A Guide to OOP and Reflection in OSE](https://dev.to/codigger/blueprints-and-x-rays-a-guide-to-oop-and-reflection-in-ose-2n0a)
 <!-- BLOG-POST-LIST:END -->
 
