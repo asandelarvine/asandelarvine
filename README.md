@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Minimal React App Setup You Need](https://dev.to/murtuzaalisurti/the-minimal-react-app-setup-you-need-4p8e)
-- [Recommended Folder Structure for Node&lpar;TS&rpar; 2025](https://dev.to/pramod_boda/recommended-folder-structure-for-nodets-2025-39jl)
-- [Bridging AI and Blockchain: MCP’s Role](https://dev.to/om_shree_0709/bridging-ai-and-blockchain-mcps-role-2l1n)
-- [Ditch Redux Already?! Building Scalable State with Recoil &amp; React that Doesn’t Drive You Insane](https://dev.to/ekwoster/ditch-redux-already-building-scalable-state-with-recoil-react-that-doesnt-drive-you-insane-2mh0)
+- [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
+- [Manual Testing in the AI Era](https://dev.to/pooja_shyam_643fff420b3a8/manual-testing-in-the-ai-era-2273)
+- [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
+- [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
 <!-- BLOG-POST-LIST:END -->
 
