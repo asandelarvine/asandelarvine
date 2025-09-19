@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino IDE Configuration for ESP32-C3 DevKitM-1 / Rust-1](https://dev.to/jajera/arduino-ide-configuration-for-esp32-c3-devkitm-1-rust-1-5d99)
-- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
-- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
-- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
+- [Meta in Talks with News Publishers Over AI Licensing Deals](https://dev.to/sky_yv_11b3d5d44877d27276/meta-in-talks-with-news-publishers-over-ai-licensing-deals-2jpi)
+- [From Copilot to Autonomous Coding: The AI Tools Changing How We Write Software](https://dev.to/sanjaynaker/from-copilot-to-autonomous-coding-the-ai-tools-changing-how-we-write-software-kah)
+- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9)
+- [Which Cloud Security Framework Does Your Store Follow?](https://dev.to/snehal_rbm/which-cloud-security-framework-does-your-store-follow-30nd)
 <!-- BLOG-POST-LIST:END -->
 
