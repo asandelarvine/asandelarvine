@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Gotchas When Calling an IAP‑Protected Cloud Run API from a Chrome Extension &lpar;MV3&rpar;](https://dev.to/saloni28/3-gotchas-when-calling-an-iap-protected-cloud-run-api-from-a-chrome-extension-mv3-mfa)
-- [What’s the Hardest Part About Building Full-Stack Apps Solo?](https://dev.to/kingbyno/whats-the-hardest-part-about-building-full-stack-apps-solo-1hbg)
-- [Vibe Coding: Because Who Reads Code Anyway?](https://dev.to/trojanmocx/vibe-coding-because-who-reads-code-anyway-319l)
-- [WIP is waste](https://dev.to/jonasbn/wip-is-waste-208n)
+- [Real-time Search with Laravel &amp; Alpine.js: The Simple Approach](https://dev.to/manukminasyan/real-time-search-with-laravel-alpinejs-the-simple-approach-42e2)
+- [IGN: Marvel Animation&#39;s Marvel Zombies - Official Teaser Trailer #2 &lpar;2025&rpar; Elizabeth Olsen, Paul Rudd](https://dev.to/gg_news/ign-marvel-animations-marvel-zombies-official-teaser-trailer-2-2025-elizabeth-olsen-paul-5db1)
+- [IGN: Hyperfunk - Official Teaser Trailer](https://dev.to/gg_news/ign-hyperfunk-official-teaser-trailer-298a)
+- [IGN: Mushoku Tensei: Jobless Reincarnation Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-mushoku-tensei-jobless-reincarnation-season-3-official-trailer-english-subtitles-3fng)
 <!-- BLOG-POST-LIST:END -->
 
