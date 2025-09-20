@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-68: Global External Load balancer with HTTPS Self-signed certificate in GCP Cloud](https://dev.to/latchudevops/part-68-global-external-load-balancer-with-https-self-signed-certificate-in-gcp-cloud-2pc)
-- [What are Glue Records?](https://dev.to/firatkiral/what-are-glue-records-9jf)
-- [Oplossen van ImagePullBackOff en ErrImagePull: Image gerelateerde problemen](https://dev.to/shubhcloud/oplossen-van-imagepullbackoff-en-errimagepull-image-gerelateerde-problemen-j82)
-- [Why I Still Stick With IDM 6.42 Build 45 — Plus The Free Managers I Recommend in 2025](https://dev.to/xamacih439/why-i-still-stick-with-idm-642-build-45-plus-the-free-managers-i-recommend-in-2025-2n9b)
+- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
+- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
+- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
+- [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
 <!-- BLOG-POST-LIST:END -->
 
