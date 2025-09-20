@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #38-2025: Nepal’s Digital Revolution on Discord, Apple’s OS Leap, Cloudflare’s Lessons, and TikTok’s Future](https://dev.to/weekly/weekly-38-2025-nepals-digital-revolution-on-discord-apples-os-leap-cloudflares-lessons-and-35bn)
-- [Training a Nematode with Quantum Reinforcement Learning](https://dev.to/chrisjz/training-a-nematode-with-quantum-reinforcement-learning-1cp9)
-- [Check out this article on PCA in R](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-pca-in-r-c51)
-- [PostgreSQL Advanced Queries &amp; Data Types: A Practical Guide to Robust Data Management](https://dev.to/labex/postgresql-advanced-queries-data-types-a-practical-guide-to-robust-data-management-4cmd)
+- [1 Modal to Rule them All: Rails x Turbo x Stimulus](https://dev.to/hersoftsyntax/1-modal-to-rule-them-all-rails-x-turbo-x-stimulus-ln8)
+- [Ng-News 25/37: Angular 20.3, SignalForms AMA, RFC: Angular &amp; AI](https://dev.to/this-is-angular/ng-news-2537-angular-203-signalforms-ama-rfc-angular-ai-4d2l)
+- [What Is Sustainable Technology? A Beginner’s Guide in 2025](https://dev.to/tsbreview/what-is-sustainable-technology-a-beginners-guide-in-2025-1a36)
+- [&quot;Your Profile Doesn&#39;t Match the Role&quot; and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh)
 <!-- BLOG-POST-LIST:END -->
 
