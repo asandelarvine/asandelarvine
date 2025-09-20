@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
-- [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
-- [First Pull Request](https://dev.to/elsad_humbetli_0971c995ce/first-pull-request-4l1)
-- [Success Story: Charles Tyler&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #961877](https://dev.to/calgo_62400343865ec0ae72a/success-story-charles-tylers-learning-journey-with-101-blockchains-101-blockchains-961877-2ckl)
+- [Async Work Patten which 10 X your output](https://dev.to/pratham_naik_project_manager/async-work-patten-which-10-x-your-output-2830)
+- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
+- [Custom Parser Highlighting Not Working in nvim-treesitter? The Cause and a Solution Using the `after/` Directory](https://dev.to/taku25/custom-parser-highlighting-not-working-in-nvim-treesitter-the-cause-and-a-solution-using-the-15ej)
+- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
 <!-- BLOG-POST-LIST:END -->
 
