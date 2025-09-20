@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Retail App Architecture](https://dev.to/zoolatech/how-to-build-a-scalable-retail-app-architecture-1ld8)
-- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
-- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
-- [Protect Your API with Token Bucket Rate Limiting](https://dev.to/fahimahammed/protect-your-api-with-token-bucket-rate-limiting-1g9a)
+- [Microsoft: An Open-Source Comedy](https://dev.to/aliaryani-security/microsoft-an-open-source-comedy-26m4)
+- [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
+- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
+- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
 <!-- BLOG-POST-LIST:END -->
 
