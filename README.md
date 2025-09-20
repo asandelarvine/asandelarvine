@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Your Machine Name &lpar;Not Just localhost&rpar; with HTTPS on ASP.NET Core — and Make Node.js Trust It](https://dev.to/ruxozheng/use-your-machine-name-not-just-localhost-with-https-on-aspnet-core-and-make-nodejs-trust-it-2fpe)
-- [Lost Recovery Keys with Auto Unseal – Vault](https://dev.to/terngr/lost-recovery-keys-with-auto-unseal-vault-58ih)
-- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
-- [I created a small 2D game about an ant :&rpar;](https://dev.to/anthonymax/i-created-a-small-2d-game-about-an-ant--9nc)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 3: Forms, Validation &amp; Routing](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-3-forms-validation-routing-3dop)
+- [How I created my own image file format using only Python](https://dev.to/anuroopvj/how-i-created-my-own-image-file-format-using-only-python-2o6a)
+- [OpenTelemetry Sampling: Everything you need to know about Head and Tail Sampling](https://dev.to/agardnerit/opentelemetry-sampling-everything-you-need-to-know-about-head-and-tail-sampling-3cjo)
+- [Why I Chose Rust for My OSD600 Project &lpar;And What I Learned&rpar;](https://dev.to/david_rivera_8d845b35931e/why-i-chose-rust-for-my-osd600-project-and-what-i-learned-5gh1)
 <!-- BLOG-POST-LIST:END -->
 
