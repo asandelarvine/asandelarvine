@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Work Patten which 10 X your output](https://dev.to/pratham_naik_project_manager/async-work-patten-which-10-x-your-output-2830)
-- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
-- [Custom Parser Highlighting Not Working in nvim-treesitter? The Cause and a Solution Using the `after/` Directory](https://dev.to/taku25/custom-parser-highlighting-not-working-in-nvim-treesitter-the-cause-and-a-solution-using-the-15ej)
-- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
+- [turbo lightweight markup language &lpar;tlml&rpar;](https://dev.to/atifa/turbo-lightweight-markup-language-tlml-2nie)
+- [Concurrent Programming Model in Android...](https://dev.to/sommukhopadhyay/concurrent-programming-model-in-android-1a78)
+- [Replication &amp; High Availability](https://dev.to/ahmedraza_fyntune/replication-high-availability-46fk)
+- [Things to do when bored for travelers during a commute](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-travelers-during-a-commute-5che)
 <!-- BLOG-POST-LIST:END -->
 
