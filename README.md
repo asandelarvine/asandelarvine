@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [什么是Online Softmax and Flash Attention？](https://dev.to/jimw/shi-yao-shi-online-softmax-and-flash-attention-51n4)
-- [Building an AI Conversation Practice App: Part 1 - Browser Audio Recording with MediaRecorder API](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-1-browser-audio-recording-with-mediarecorder-api-3cf5)
-- [How to make loops in Common Business-Oriented Language &lpar;COBOL&rpar;](https://dev.to/raziq_din_bd0274cc2ac748b/how-to-make-loops-in-common-business-oriented-language-cobol-13hl)
-- [Aprende lógica de programación: la base para convertirte en programador](https://dev.to/johnserranodev/aprende-logica-de-programacion-la-base-para-convertirte-en-programador-1674)
+- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
+- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
+- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
+- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
 <!-- BLOG-POST-LIST:END -->
 
