@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft: An Open-Source Comedy](https://dev.to/aliaryani-security/microsoft-an-open-source-comedy-26m4)
-- [🍳 From Convex&#39;s Kitchen to OpenRouter&#39;s Gateway: My Journey Integrating 200+ AI Models into Chef](https://dev.to/axrisi/from-convexs-kitchen-to-openrouters-gateway-my-journey-integrating-200-ai-models-into-chef-1ihl)
-- [The Future is Private: 5 Revelations About Owning Your Own Social Network](https://dev.to/web4/the-future-is-private-5-revelations-about-owning-your-own-social-network-509p)
-- [Should You Work at a Startup?](https://dev.to/ponikar/should-you-work-at-a-startup-5f33)
+- [Part-68: Global External Load balancer with HTTPS Self-signed certificate in GCP Cloud](https://dev.to/latchudevops/part-68-global-external-load-balancer-with-https-self-signed-certificate-in-gcp-cloud-2pc)
+- [What are Glue Records?](https://dev.to/firatkiral/what-are-glue-records-9jf)
+- [Oplossen van ImagePullBackOff en ErrImagePull: Image gerelateerde problemen](https://dev.to/shubhcloud/oplossen-van-imagepullbackoff-en-errimagepull-image-gerelateerde-problemen-j82)
+- [Why I Still Stick With IDM 6.42 Build 45 — Plus The Free Managers I Recommend in 2025](https://dev.to/xamacih439/why-i-still-stick-with-idm-642-build-45-plus-the-free-managers-i-recommend-in-2025-2n9b)
 <!-- BLOG-POST-LIST:END -->
 
