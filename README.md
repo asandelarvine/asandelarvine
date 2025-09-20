@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out this article on connecting tableua with r](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-connecting-tableua-with-r-55ji)
-- [Untitled](https://dev.to/hira_khan_cc3a4dc47142f62/untitled-3hoc)
-- [How Netflix&#39;s 2008 Crisis Revolutionised Enterprise Software Development: A 7-Year Cloud Migration That Changed Everything](https://dev.to/blackflow/how-netflixs-2008-crisis-revolutionised-enterprise-software-development-a-7-year-cloud-migration-3ha1)
-- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
+- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
+- [Cracking System Design Interviews: A Tactical Deep-Dive for Developers](https://dev.to/satyam_chourasiya_99ea2e4/cracking-system-design-interviews-a-tactical-deep-dive-for-developers-1ffm)
+- [🚀 Building Zeno – My Lightweight, Plugin-First Markdown Blog Framework](https://dev.to/mine3krish/building-zeno-my-lightweight-plugin-first-markdown-blog-framework-102h)
+- [Nardwuar the Human Serviette: Nardwuar vs. Shai Gilgeous-Alexander](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-shai-gilgeous-alexander-25op)
 <!-- BLOG-POST-LIST:END -->
 
