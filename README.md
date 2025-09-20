@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
-- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
-- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
-- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
+- [⚡ Two Pointer Technique](https://dev.to/mohamad_mhana/two-pointer-technique-4eg3)
+- [[Boost]](https://dev.to/ssukhpinder/-1jm8)
+- [How a Web-Framework Really Should be Today](https://dev.to/sarfraznawaz2005/how-a-web-framework-really-should-be-today-2o05)
+- [🚀 Simplifying imports by TypeScript Path Aliases with `ts-path-alias-fixer`](https://dev.to/svedhashree/simplifying-imports-by-typescript-path-aliases-with-ts-path-alias-fixer-cm)
 <!-- BLOG-POST-LIST:END -->
 
