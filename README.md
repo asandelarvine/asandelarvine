@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1 Modal to Rule them All: Rails x Turbo x Stimulus](https://dev.to/hersoftsyntax/1-modal-to-rule-them-all-rails-x-turbo-x-stimulus-ln8)
-- [Ng-News 25/37: Angular 20.3, SignalForms AMA, RFC: Angular &amp; AI](https://dev.to/this-is-angular/ng-news-2537-angular-203-signalforms-ama-rfc-angular-ai-4d2l)
-- [What Is Sustainable Technology? A Beginner’s Guide in 2025](https://dev.to/tsbreview/what-is-sustainable-technology-a-beginners-guide-in-2025-1a36)
-- [&quot;Your Profile Doesn&#39;t Match the Role&quot; and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh)
+- [Check out this article on connecting tableua with r](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-article-on-connecting-tableua-with-r-55ji)
+- [Untitled](https://dev.to/hira_khan_cc3a4dc47142f62/untitled-3hoc)
+- [How Netflix&#39;s 2008 Crisis Revolutionised Enterprise Software Development: A 7-Year Cloud Migration That Changed Everything](https://dev.to/blackflow/how-netflixs-2008-crisis-revolutionised-enterprise-software-development-a-7-year-cloud-migration-3ha1)
+- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
 <!-- BLOG-POST-LIST:END -->
 
