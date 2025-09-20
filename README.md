@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Hubs as Code: Architecting a B2B SEO &amp; Lead Generation System](https://dev.to/michaelaiglobal/content-hubs-as-code-architecting-a-b2b-seo-lead-generation-system-h2j)
-- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
-- [Django REST Framework Authentication: JWT, OAuth2, and Session](https://dev.to/djamware_tutorial_eba1a61/django-rest-framework-authentication-jwt-oauth2-and-session-npk)
-- [Event-Driven Architecture with Blockchain: Use Kafka/MSK and Blockchain Logs](https://dev.to/smritisatyan/event-driven-architecture-with-blockchain-use-kafkamsk-and-blockchain-logs-f5n)
+- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k)
+- [The NKTm Unit in the NKTg Law &lpar;Varying Inertia&rpar;](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6)
+- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk)
+- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b)
 <!-- BLOG-POST-LIST:END -->
 
