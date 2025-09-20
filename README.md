@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠How to use AI more efficiently for free &lpar;Serena MCP&rpar;🧐](https://dev.to/webdeveloperhyper/how-to-use-ai-more-efficiently-for-free-serena-mcp-5gj6)
-- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
-- [Beyond the Firewall: Why Every Developer Needs an Adversarial Mindset](https://dev.to/gnomeman4201/beyond-the-firewall-why-every-developer-needs-an-adversarial-mindset-3hk)
-- [Serial Spotter – Because I’m Tired of Hunting COM Ports 😅](https://dev.to/0xlama/serial-spotter-because-im-tired-of-hunting-com-ports-4acl)
+- [Understand React Hooks the Right Way: From Basics to Bug Prevention &amp; Design Decisions](https://dev.to/learcise_health/understand-react-hooks-the-right-way-from-basics-to-bug-prevention-design-decisions-3g4e)
+- [Experience with contributing to open source project](https://dev.to/aubreyddd/experience-with-contributing-to-open-source-project-212f)
+- [Completion of Release 0.1 of My First Open Source Project](https://dev.to/denisc96/completion-of-release-01-of-my-first-open-source-project-36c1)
+- [AI represents nothing new](https://dev.to/winstonpuckett/ai-represents-nothing-new-2lb0)
 <!-- BLOG-POST-LIST:END -->
 
