@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Two Pointer Technique](https://dev.to/mohamad_mhana/two-pointer-technique-4eg3)
-- [[Boost]](https://dev.to/ssukhpinder/-1jm8)
-- [How a Web-Framework Really Should be Today](https://dev.to/sarfraznawaz2005/how-a-web-framework-really-should-be-today-2o05)
-- [🚀 Simplifying imports by TypeScript Path Aliases with `ts-path-alias-fixer`](https://dev.to/svedhashree/simplifying-imports-by-typescript-path-aliases-with-ts-path-alias-fixer-cm)
+- [👻 Ghostty&#39;s Option+Backspace Not Working? Fixed!](https://dev.to/tdkn/ghosttys-optionbackspace-not-working-fixed-kgm)
+- [Edge Computing: The Complete Technical Guide to Distributed Intelligence](https://dev.to/mohitdecodes/edge-computing-the-complete-technical-guide-to-distributed-intelligence-3nm)
+- [Para T ✨](https://dev.to/20tempest23/para-t-42o9)
+- [IA dans le BIM : La Révolution de la Construction Intelligente](https://dev.to/vendkura/ia-dans-le-bim-la-revolution-de-la-construction-intelligente-ojh)
 <!-- BLOG-POST-LIST:END -->
 
