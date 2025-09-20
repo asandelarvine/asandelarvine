@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
-- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
-- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
-- [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
+- [Content Hubs as Code: Architecting a B2B SEO &amp; Lead Generation System](https://dev.to/michaelaiglobal/content-hubs-as-code-architecting-a-b2b-seo-lead-generation-system-h2j)
+- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
+- [Django REST Framework Authentication: JWT, OAuth2, and Session](https://dev.to/djamware_tutorial_eba1a61/django-rest-framework-authentication-jwt-oauth2-and-session-npk)
+- [Event-Driven Architecture with Blockchain: Use Kafka/MSK and Blockchain Logs](https://dev.to/smritisatyan/event-driven-architecture-with-blockchain-use-kafkamsk-and-blockchain-logs-f5n)
 <!-- BLOG-POST-LIST:END -->
 
