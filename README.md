@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 3: Forms, Validation &amp; Routing](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-3-forms-validation-routing-3dop)
-- [How I created my own image file format using only Python](https://dev.to/anuroopvj/how-i-created-my-own-image-file-format-using-only-python-2o6a)
-- [OpenTelemetry Sampling: Everything you need to know about Head and Tail Sampling](https://dev.to/agardnerit/opentelemetry-sampling-everything-you-need-to-know-about-head-and-tail-sampling-3cjo)
-- [Why I Chose Rust for My OSD600 Project &lpar;And What I Learned&rpar;](https://dev.to/david_rivera_8d845b35931e/why-i-chose-rust-for-my-osd600-project-and-what-i-learned-5gh1)
+- [🧠How to use AI more efficiently for free &lpar;Serena MCP&rpar;🧐](https://dev.to/webdeveloperhyper/how-to-use-ai-more-efficiently-for-free-serena-mcp-5gj6)
+- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
+- [Beyond the Firewall: Why Every Developer Needs an Adversarial Mindset](https://dev.to/gnomeman4201/beyond-the-firewall-why-every-developer-needs-an-adversarial-mindset-3hk)
+- [Serial Spotter – Because I’m Tired of Hunting COM Ports 😅](https://dev.to/0xlama/serial-spotter-because-im-tired-of-hunting-com-ports-4acl)
 <!-- BLOG-POST-LIST:END -->
 
