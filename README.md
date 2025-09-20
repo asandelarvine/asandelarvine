@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k)
-- [The NKTm Unit in the NKTg Law &lpar;Varying Inertia&rpar;](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6)
-- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk)
-- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b)
+- [Understanding how Python&#39;s list comprehensions work under the hood](https://dev.to/vivis_dev/understanding-how-pythons-list-comprehensions-work-under-the-hood-1okc)
+- [Exploring chained operations and order of evaluation in python expressions](https://dev.to/vivis_dev/exploring-chained-operations-and-order-of-evaluation-in-python-expressions-534k)
+- [Managing Personal Finances with Spentsor: A Developer’s Perspective](https://dev.to/lovneo/managing-personal-finances-with-spentsor-a-developers-perspective-1n61)
+- [Notely Voice: Revolutionizing Note-Taking with AI-Powered Transcription](https://dev.to/githubopensource/notely-voice-revolutionizing-note-taking-with-ai-powered-transcription-473i)
 <!-- BLOG-POST-LIST:END -->
 
