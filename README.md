@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [turbo lightweight markup language &lpar;tlml&rpar;](https://dev.to/atifa/turbo-lightweight-markup-language-tlml-2nie)
-- [Concurrent Programming Model in Android...](https://dev.to/sommukhopadhyay/concurrent-programming-model-in-android-1a78)
-- [Replication &amp; High Availability](https://dev.to/ahmedraza_fyntune/replication-high-availability-46fk)
-- [Things to do when bored for travelers during a commute](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-travelers-during-a-commute-5che)
+- [How to Build a Scalable Retail App Architecture](https://dev.to/zoolatech/how-to-build-a-scalable-retail-app-architecture-1ld8)
+- [Node.js Memory Profiling](https://dev.to/godofgeeks/nodejs-memory-profiling-1m25)
+- [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
+- [Protect Your API with Token Bucket Rate Limiting](https://dev.to/fahimahammed/protect-your-api-with-token-bucket-rate-limiting-1g9a)
 <!-- BLOG-POST-LIST:END -->
 
