@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding how Python&#39;s list comprehensions work under the hood](https://dev.to/vivis_dev/understanding-how-pythons-list-comprehensions-work-under-the-hood-1okc)
-- [Exploring chained operations and order of evaluation in python expressions](https://dev.to/vivis_dev/exploring-chained-operations-and-order-of-evaluation-in-python-expressions-534k)
-- [Managing Personal Finances with Spentsor: A Developer’s Perspective](https://dev.to/lovneo/managing-personal-finances-with-spentsor-a-developers-perspective-1n61)
-- [Notely Voice: Revolutionizing Note-Taking with AI-Powered Transcription](https://dev.to/githubopensource/notely-voice-revolutionizing-note-taking-with-ai-powered-transcription-473i)
+- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
+- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
+- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
+- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
 <!-- BLOG-POST-LIST:END -->
 
