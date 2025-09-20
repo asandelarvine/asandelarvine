@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand React Hooks the Right Way: From Basics to Bug Prevention &amp; Design Decisions](https://dev.to/learcise_health/understand-react-hooks-the-right-way-from-basics-to-bug-prevention-design-decisions-3g4e)
-- [Experience with contributing to open source project](https://dev.to/aubreyddd/experience-with-contributing-to-open-source-project-212f)
-- [Completion of Release 0.1 of My First Open Source Project](https://dev.to/denisc96/completion-of-release-01-of-my-first-open-source-project-36c1)
-- [AI represents nothing new](https://dev.to/winstonpuckett/ai-represents-nothing-new-2lb0)
+- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
+- [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
+- [First Pull Request](https://dev.to/elsad_humbetli_0971c995ce/first-pull-request-4l1)
+- [Success Story: Charles Tyler&#39;s Learning Journey with 101 Blockchains - 101 Blockchains #961877](https://dev.to/calgo_62400343865ec0ae72a/success-story-charles-tylers-learning-journey-with-101-blockchains-101-blockchains-961877-2ckl)
 <!-- BLOG-POST-LIST:END -->
 
