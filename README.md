@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
-- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
-- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
-- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
+- [Docker Command Sheet - My Go-To Dev Environment](https://dev.to/roydevashish/docker-command-sheet-my-go-to-dev-environment-2kpg)
+- [WebOS Day 3 at CodeHubbers](https://dev.to/dailker/webos-day-3-at-codehubbers-3fe)
+- [Mi reina](https://dev.to/fidelernesto_laracruz_6/mi-reina-pca)
+- [Flores amarillas](https://dev.to/leonardo_pereiraquispe_a/flores-amarillas-oaj)
 <!-- BLOG-POST-LIST:END -->
 
