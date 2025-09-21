@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Serverless Todo App on AWS with Terraform and GitHub Actions](https://dev.to/hasan_ashab/a-serverless-todo-app-on-aws-with-terraform-and-github-actions-mo9)
-- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
-- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
-- [A Practical React Project Structure You Can Reuse](https://dev.to/fanebytes/a-practical-react-project-structure-you-can-reuse-332e)
+- [Part-75: To Implement a Regional External Network Load balancer with TCP Pass through in GCP Cloud](https://dev.to/latchudevops/part-75-to-implement-a-regional-external-network-load-balancer-with-tcp-pass-through-in-gcp-cloud-2kk1)
+- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6)
+- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil)
+- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
 <!-- BLOG-POST-LIST:END -->
 
