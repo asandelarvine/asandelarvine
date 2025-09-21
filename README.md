@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
-- [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
-- [The Cost of Innocence: When AI Detectors Wrongly Accuse Students](https://dev.to/benebomo/the-cost-of-innocence-when-ai-detectors-wrongly-accuse-students-3bhk)
-- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
+- [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
+- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
+- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
+- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
 <!-- BLOG-POST-LIST:END -->
 
