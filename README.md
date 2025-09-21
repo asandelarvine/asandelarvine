@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI comic strip](https://dev.to/naijhen_chen_a2f41654e89/ai-comic-strip-11ho)
-- [Laravel’s Str::mask: Elegant String Masking Made Simple](https://dev.to/apnahive/laravels-strmask-elegant-string-masking-made-simple-4jig)
-- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
-- [Backend](https://dev.to/asp0766/backend-p23)
+- [A Serverless Todo App on AWS with Terraform and GitHub Actions](https://dev.to/hasan_ashab/a-serverless-todo-app-on-aws-with-terraform-and-github-actions-mo9)
+- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
+- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
+- [A Practical React Project Structure You Can Reuse](https://dev.to/fanebytes/a-practical-react-project-structure-you-can-reuse-332e)
 <!-- BLOG-POST-LIST:END -->
 
