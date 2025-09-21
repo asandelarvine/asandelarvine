@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Command Sheet - My Go-To Dev Environment](https://dev.to/roydevashish/docker-command-sheet-my-go-to-dev-environment-2kpg)
-- [WebOS Day 3 at CodeHubbers](https://dev.to/dailker/webos-day-3-at-codehubbers-3fe)
-- [Mi reina](https://dev.to/fidelernesto_laracruz_6/mi-reina-pca)
-- [Flores amarillas](https://dev.to/leonardo_pereiraquispe_a/flores-amarillas-oaj)
+- [The Reasons I Format Dates on the API Server](https://dev.to/kradasa4/the-reasons-i-format-dates-on-the-api-server-1eab)
+- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
+- [Comparing RDS PostgreSQL, Athena on S3 JSON, and QuickSight for Scalable Dashboards](https://dev.to/antek8/comparing-rds-postgresql-athena-on-s3-json-and-quicksight-for-scalable-dashboards-2ceb)
+- [The Case of the Murdered Memories, or Why Your Game Design Became a Crime Scene](https://dev.to/nickkeepkind/the-case-of-the-murdered-memories-or-why-your-game-design-became-a-crime-scene-570f)
 <!-- BLOG-POST-LIST:END -->
 
