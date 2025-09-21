@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Zero-Trust Architecture in Node.js Applications](https://dev.to/vanessamadison/implementing-zero-trust-architecture-in-nodejs-applications-5be9)
-- [React Security Patterns Every Developer Should Know](https://dev.to/vanessamadison/react-security-patterns-every-developer-should-know-8ep)
-- [State Management in Vanilla JS](https://dev.to/godofgeeks/state-management-in-vanilla-js-51dg)
-- [HomeBrew command Note](https://dev.to/chenchih/homebrew-command-note-g3p)
+- [Day 2 of C++ Programming: Bitwise Operators &lpar;AND, Shift, NOT&rpar;](https://dev.to/asp0766/day-2-of-c-programming-bitwise-operators-and-shift-not-1m2)
+- [I Built a Modern Personal Finance Dashboard with KendoReact &amp; AI Assistant](https://dev.to/vineprkl/i-built-a-modern-personal-finance-dashboard-with-kendoreact-ai-assistant-3233)
+- [Exploring Programming Language Paradigms](https://dev.to/adrahi/exploring-programming-language-paradigms-403a)
+- [Building Aliō: How I Shipped an App with AI Tools](https://dev.to/molozhenko/building-alio-how-i-shipped-an-app-with-ai-tools-1659)
 <!-- BLOG-POST-LIST:END -->
 
