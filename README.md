@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
-- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
-- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
-- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
+- [cozyCLI – practice linux commands in the browser](https://dev.to/codephilip_/cozycli-practice-linux-commands-in-the-browser-c54)
+- [Laravel Middleware](https://dev.to/muhammmad_nawaz_d8ba895e1/laravel-middleware-4b7m)
+- [DevOps - Basics - 01](https://dev.to/ayush_gupta_70e4746734c34/devops-basics-01-30fa)
+- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
 <!-- BLOG-POST-LIST:END -->
 
