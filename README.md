@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Design, Strong Client: The way of the Elasticsearch&#39;s Java SDK](https://dev.to/stefanofago73/clean-design-strong-client-the-way-of-the-elasticsearchs-java-sdk-14nn)
-- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
-- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
-- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
+- [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
+- [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
+- [The Cost of Innocence: When AI Detectors Wrongly Accuse Students](https://dev.to/benebomo/the-cost-of-innocence-when-ai-detectors-wrongly-accuse-students-3bhk)
+- [What is NLP? How Does it Work?](https://dev.to/priyanshukumarsinha/what-is-nlp-how-does-it-work-4gmh)
 <!-- BLOG-POST-LIST:END -->
 
