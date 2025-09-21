@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [cozyCLI – practice linux commands in the browser](https://dev.to/codephilip_/cozycli-practice-linux-commands-in-the-browser-c54)
-- [Laravel Middleware](https://dev.to/muhammmad_nawaz_d8ba895e1/laravel-middleware-4b7m)
-- [DevOps - Basics - 01](https://dev.to/ayush_gupta_70e4746734c34/devops-basics-01-30fa)
-- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1)
+- [Clean Design, Strong Client: The way of the Elasticsearch&#39;s Java SDK](https://dev.to/stefanofago73/clean-design-strong-client-the-way-of-the-elasticsearchs-java-sdk-14nn)
+- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
+- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
+- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
 <!-- BLOG-POST-LIST:END -->
 
