@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.](https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba)
-- [AI for Developers: 5 Workflows That Cut Coding Time in Half](https://dev.to/jaideepparashar/ai-for-developers-5-workflows-that-cut-coding-time-in-half-1enc)
-- [Top VR, AR, and XR News Sites to Follow &lpar;2025 Edition&rpar;](https://dev.to/zheng_huasheng/top-vr-ar-and-xr-news-sites-to-follow-2025-edition-3bop)
-- [How does a browser work under the hood?](https://dev.to/mstsurnalyakter/how-does-a-browser-work-under-the-hood-jkb)
+- [AI comic strip](https://dev.to/naijhen_chen_a2f41654e89/ai-comic-strip-11ho)
+- [Laravel’s Str::mask: Elegant String Masking Made Simple](https://dev.to/apnahive/laravels-strmask-elegant-string-masking-made-simple-4jig)
+- [If We Break an Image Into Waves, Can We Truly Put It Back Together?](https://dev.to/angyokosaka/if-we-break-an-image-into-waves-can-we-truly-put-it-back-together-204c)
+- [Backend](https://dev.to/asp0766/backend-p23)
 <!-- BLOG-POST-LIST:END -->
 
