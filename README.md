@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
-- [Naming convention in Python](https://dev.to/hyperkai/naming-convention-in-python-3nnd)
-- [La fin des reves &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-my-ai-song-2lnh)
-- [La fin des reves &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5)
+- [Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.](https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba)
+- [AI for Developers: 5 Workflows That Cut Coding Time in Half](https://dev.to/jaideepparashar/ai-for-developers-5-workflows-that-cut-coding-time-in-half-1enc)
+- [Top VR, AR, and XR News Sites to Follow &lpar;2025 Edition&rpar;](https://dev.to/zheng_huasheng/top-vr-ar-and-xr-news-sites-to-follow-2025-edition-3bop)
+- [How does a browser work under the hood?](https://dev.to/mstsurnalyakter/how-does-a-browser-work-under-the-hood-jkb)
 <!-- BLOG-POST-LIST:END -->
 
