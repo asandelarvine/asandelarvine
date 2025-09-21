@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LogicApp Autonomous Agents for Dynamic Tool Creation in LogicApp MCP Server](https://dev.to/imdj/logicapp-autonomous-agents-for-dynamic-tool-creation-in-mcp-servers-with-logic-apps-2kn)
-- [Generics and Variance with Java](https://dev.to/nestedsoftware/generics-and-variance-with-java-27a2)
-- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
-- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
+- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
+- [Naming convention in Python](https://dev.to/hyperkai/naming-convention-in-python-3nnd)
+- [La fin des reves &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-my-ai-song-2lnh)
+- [La fin des reves &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5)
 <!-- BLOG-POST-LIST:END -->
 
