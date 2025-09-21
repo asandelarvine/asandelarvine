@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Supercharging Docusaurus with MSW: Mock APIs for Live, Interactive Docs](https://dev.to/chinmaytrpth2/supercharging-docusaurus-with-msw-mock-apis-for-live-interactive-docs-54ie)
-- [Typed, Named Endpoints for Cro &lpar;with HTMX Helpers&rpar;](https://dev.to/fco/typed-named-endpoints-for-cro-with-htmx-helpers-g9j)
-- [🔐 Fine-Grained Role Control for Logic App Standard Workflows with APIM + Easy Auth](https://dev.to/imdj/fine-grained-role-control-for-logic-app-standard-workflows-with-apim-easy-auth-32ni)
-- [Rick Beato: Major Announcement!](https://dev.to/music_youtube/rick-beato-major-announcement-4d9c)
+- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
+- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
+- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
+- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
 <!-- BLOG-POST-LIST:END -->
 
