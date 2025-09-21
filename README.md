@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your response to the Shai-Hulud supply chain attack](https://dev.to/ms_74/your-response-to-the-shai-hulud-supply-chain-attack-4n5j)
-- [Building Responsive Web Applications: A Modern Developer&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/building-responsive-web-applications-a-modern-developers-guide-38lk)
-- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-518b)
-- [# ☁️ Cloud Engineer vs 🔄 DevOps Engineer: Which Path Should You Take?](https://dev.to/jimmybillz/-cloud-engineer-vs-devops-engineer-which-path-should-you-take-211o)
+- [Beyond Functional: Writing Professional and Performant SQL Queries](https://dev.to/gregory42266270/beyond-functional-writing-professional-and-performant-sql-queries-11ac)
+- [How to Get The GIMP Working With macOS Tahoe &lpar;and What Happened&rpar;](https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k)
+- [Day 53: CI/CD pipeline on AWS pt 4](https://dev.to/udoh_deborah_b1e484c474bf/day-53-cicd-pipeline-on-aws-pt-4-ejc)
+- [Single Element Loaders: Going 3D with CSS](https://dev.to/er-raj-aryan/single-element-loaders-going-3d-with-css-ikd)
 <!-- BLOG-POST-LIST:END -->
 
