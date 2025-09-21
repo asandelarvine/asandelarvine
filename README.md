@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Circuits and Code](https://dev.to/wale1202/debugging-circuits-and-code-1ac2)
-- [🏃‍♂️State management with Zustand!](https://dev.to/gustavoisensee/state-management-with-zustand-14h3)
-- [Beyond Borders: Navigating Data Sovereignty and the Illusion of “Local” Cloud Providers](https://dev.to/engrkhan001/beyond-borders-navigating-data-sovereignty-and-the-illusion-of-local-cloud-providers-oid)
-- [Show HN: AI-Powered Email Verification API with ML Risk Scoring + 50% Off for RapidAPI Users](https://dev.to/rehaanhassan/show-hn-ai-powered-email-verification-api-with-ml-risk-scoring-50-off-for-rapidapi-users-4p6f)
+- [🚀Supercharging Docusaurus with MSW: Mock APIs for Live, Interactive Docs](https://dev.to/chinmaytrpth2/supercharging-docusaurus-with-msw-mock-apis-for-live-interactive-docs-54ie)
+- [Typed, Named Endpoints for Cro &lpar;with HTMX Helpers&rpar;](https://dev.to/fco/typed-named-endpoints-for-cro-with-htmx-helpers-g9j)
+- [🔐 Fine-Grained Role Control for Logic App Standard Workflows with APIM + Easy Auth](https://dev.to/imdj/fine-grained-role-control-for-logic-app-standard-workflows-with-apim-easy-auth-32ni)
+- [Rick Beato: Major Announcement!](https://dev.to/music_youtube/rick-beato-major-announcement-4d9c)
 <!-- BLOG-POST-LIST:END -->
 
