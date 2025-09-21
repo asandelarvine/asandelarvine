@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Interview Playbook — Clear Steps to Shine](https://dev.to/robort-gabriel/system-design-interview-playbook-clear-steps-to-shine-a2o)
-- [Outil de Cybersécurité du Jour - Sep 21, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-21-2025-3a32)
-- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
+- [Learn python website](https://dev.to/thib_magic/learn-python-website-3pf9)
+- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
+- [Things to do when bored for students when you are watching tv](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-students-when-you-are-watching-tv-330f)
+- [[Boost]](https://dev.to/amrosama57/-59di)
 <!-- BLOG-POST-LIST:END -->
 
