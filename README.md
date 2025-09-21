@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reasons I Format Dates on the API Server](https://dev.to/kradasa4/the-reasons-i-format-dates-on-the-api-server-1eab)
-- [Como implementar um Ledger em sístemas distribuídos](https://dev.to/dvorlandi/como-implementar-um-ledger-em-sistemas-distribuidos-1kbo)
-- [Comparing RDS PostgreSQL, Athena on S3 JSON, and QuickSight for Scalable Dashboards](https://dev.to/antek8/comparing-rds-postgresql-athena-on-s3-json-and-quicksight-for-scalable-dashboards-2ceb)
-- [The Case of the Murdered Memories, or Why Your Game Design Became a Crime Scene](https://dev.to/nickkeepkind/the-case-of-the-murdered-memories-or-why-your-game-design-became-a-crime-scene-570f)
+- [Bat-KV: Lightweight Key-Value Store for Windows Batch](https://dev.to/water_run_305f6dfd401fdaf/bat-kv-lightweight-key-value-store-for-windows-batch-5f2f)
+- [Building Next-Gen MVNO Platforms: From Legacy BSS to API-Driven Telecom](https://dev.to/abdul_shamim/building-next-gen-mvno-platforms-from-legacy-bss-to-api-driven-telecom-4bfb)
+- [🚢 Titanic App Streamlit &quot;Machine Learning Scikit Learn-Random Forest&quot;](https://dev.to/sofiane_chehboune_ed94b4c/titanic-app-streamlit-machine-learning-scikit-learn-random-forest-4l3m)
+- [What is an internal Developer Platforms?](https://dev.to/e77/what-is-an-internal-developer-platforms-17o9)
 <!-- BLOG-POST-LIST:END -->
 
