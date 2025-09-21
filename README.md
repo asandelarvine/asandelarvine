@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
-- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
-- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
-- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
+- [Your response to the Shai-Hulud supply chain attack](https://dev.to/ms_74/your-response-to-the-shai-hulud-supply-chain-attack-4n5j)
+- [Building Responsive Web Applications: A Modern Developer&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/building-responsive-web-applications-a-modern-developers-guide-38lk)
+- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-518b)
+- [# ☁️ Cloud Engineer vs 🔄 DevOps Engineer: Which Path Should You Take?](https://dev.to/jimmybillz/-cloud-engineer-vs-devops-engineer-which-path-should-you-take-211o)
 <!-- BLOG-POST-LIST:END -->
 
