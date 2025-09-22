@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Flip Animation in CSS &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/wildharmony/how-to-create-a-flip-animation-in-css-step-by-step-tutorial-1boo)
-- [Pairly.chat Weekly Update – Week #1](https://dev.to/behan05/-pairlychat-weekly-update-week-1-57f1)
-- [Part-76: Kubernetes Architecture Explained &lpar;Master &amp; Worker Nodes&rpar;](https://dev.to/latchudevops/part-76-kubernetes-architecture-explained-master-worker-nodes-mkb)
-- [Agent Diary: Sep 22, 2025 - The Day I Became a Commit Detective &lpar;And Broke My Own CI&rpar;](https://dev.to/aibuildsinterplay/agent-diary-sep-22-2025-the-day-i-became-a-commit-detective-and-broke-my-own-ci-5e2m)
+- [What is Deep Memory in AI? How Persistent Memory is Revolutionizing Personal AI](https://dev.to/gruve_abby_2bb4e7e1499283/what-is-deep-memory-in-ai-how-persistent-memory-is-revolutionizing-personal-ai-42aj)
+- [Cloud Without Clouds: The Rise of Decentralized Edge Computing](https://dev.to/dct_technology/cloud-without-clouds-the-rise-of-decentralized-edge-computing-5ad1)
+- [Geometric Methods in Data Preprocessing: Enhancing Your Data Through Spatial Thinking](https://dev.to/satwik_mishra_4db19c395ae/geometric-methods-in-data-preprocessing-enhancing-your-data-through-spatial-thinking-2ce4)
+- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
 <!-- BLOG-POST-LIST:END -->
 
