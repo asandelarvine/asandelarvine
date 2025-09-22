@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
-- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
-- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
-- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
+- [How to Get More Done with AI in My Local Dev Workflow: ChatGPT vs. Continue](https://dev.to/anita_ihuman/how-to-get-more-done-with-ai-in-my-local-dev-workflow-chatgpt-vs-continue-149f)
+- [Meme Monday](https://dev.to/ben/meme-monday-291d)
+- [Clean Architecture for .NET API + Blazor Server: A Practical, Testable Template](https://dev.to/raj_preetamsingh_0464a7f/clean-architecture-for-net-api-blazor-server-a-practical-testable-template-51lg)
+- [API Gateway and ALB Architecture on AWS for MVP SaaS](https://dev.to/antek8/api-gateway-and-alb-architecture-on-aws-for-mvp-saas-f5i)
 <!-- BLOG-POST-LIST:END -->
 
