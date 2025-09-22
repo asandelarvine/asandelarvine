@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get More Done with AI in My Local Dev Workflow: ChatGPT vs. Continue](https://dev.to/anita_ihuman/how-to-get-more-done-with-ai-in-my-local-dev-workflow-chatgpt-vs-continue-149f)
-- [Meme Monday](https://dev.to/ben/meme-monday-291d)
-- [Clean Architecture for .NET API + Blazor Server: A Practical, Testable Template](https://dev.to/raj_preetamsingh_0464a7f/clean-architecture-for-net-api-blazor-server-a-practical-testable-template-51lg)
-- [API Gateway and ALB Architecture on AWS for MVP SaaS](https://dev.to/antek8/api-gateway-and-alb-architecture-on-aws-for-mvp-saas-f5i)
+- [OOMKill in Kubernetes and Linux &lpar;Exit Code 137&rpar;](https://dev.to/alimehr75/oomkill-in-kubernetes-and-linux-exit-code-137-20ba)
+- [Actionpackd AI SDK: 2 Lines to Typed, Streaming AI Magic](https://dev.to/ramasundaram_s/actionpackd-ai-sdk-2-lines-to-typed-streaming-ai-magic-40fp)
+- [How to Retrieve Bitcoin Prices from Public Crypto APIs: A Complete Developer Guide](https://dev.to/saira_zeeshan_35fc05971fd/how-to-retrieve-bitcoin-prices-from-public-crypto-apis-a-complete-developer-guide-hoj)
+- [How to Set Up a CI/CD Pipeline on Azure Cloud](https://dev.to/therealmrmumba/how-to-set-up-a-cicd-pipeline-on-azure-cloud-kph)
 <!-- BLOG-POST-LIST:END -->
 
