@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Simple Python Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-functions-2bg5)
-- [Wörtilizer](https://dev.to/idosius/wortilizer-10l2)
-- [Why SPAs Still Struggle with SEO &lpar;And What Developers Can Actually Do in 2025&rpar;](https://dev.to/arkhan/why-spas-still-struggle-with-seo-and-what-developers-can-actually-do-in-2025-237b)
-- [IGN: Capcom Online Program - Tokyo Game Show Livestream](https://dev.to/gg_news/ign-capcom-online-program-tokyo-game-show-livestream-4jkl)
+- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
+- [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
+- [Untitled](https://dev.to/jorge_daluz_95988de19625/untitled-43df)
+- [[Boost]](https://dev.to/batunpc/-21j4)
 <!-- BLOG-POST-LIST:END -->
 
