@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OOMKill in Kubernetes and Linux &lpar;Exit Code 137&rpar;](https://dev.to/alimehr75/oomkill-in-kubernetes-and-linux-exit-code-137-20ba)
-- [Actionpackd AI SDK: 2 Lines to Typed, Streaming AI Magic](https://dev.to/ramasundaram_s/actionpackd-ai-sdk-2-lines-to-typed-streaming-ai-magic-40fp)
-- [How to Retrieve Bitcoin Prices from Public Crypto APIs: A Complete Developer Guide](https://dev.to/saira_zeeshan_35fc05971fd/how-to-retrieve-bitcoin-prices-from-public-crypto-apis-a-complete-developer-guide-hoj)
-- [How to Set Up a CI/CD Pipeline on Azure Cloud](https://dev.to/therealmrmumba/how-to-set-up-a-cicd-pipeline-on-azure-cloud-kph)
+- [Amazon Bedrock AgentCore Gateway - Part 4 AgentCore Gateway Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-4-agentcore-gateway-observability-2775)
+- [hurl](https://dev.to/piersroberts/hurl-3bj3)
+- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
+- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
 <!-- BLOG-POST-LIST:END -->
 
