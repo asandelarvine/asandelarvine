@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc)
-- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91)
-- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0)
-- [GameSpot: Top Hat Studios&#39; TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc)
+- [AI in Education: Threat or Learning Tool?](https://dev.to/isaac29/ai-in-education-threat-or-learning-tool-48ji)
+- [Why Bootstrap and Tailwind CSS Don’t Work With Web Components](https://dev.to/fedtti/why-bootstrap-and-tailwind-css-dont-work-with-web-components-4b6c)
+- [Connecting AI Agents to Factory Data with MCP, Node.js &amp; TypeScript](https://dev.to/gins_cyriac/connecting-ai-agents-to-factory-data-with-mcp-nodejs-typescript-44e)
+- [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
 <!-- BLOG-POST-LIST:END -->
 
