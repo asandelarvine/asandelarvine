@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
-- [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
-- [Burnout, PIP and Self-Doubt | Looking for Career Advice After a Hard Fall](https://dev.to/simpledeveloper/burnout-pip-and-self-doubt-looking-for-career-advice-after-a-hard-fall-3o69)
-- [The Hunter Behind the Hacker](https://dev.to/stark_zhuang_df5076f35c68/the-hunter-behind-the-hacker-4gb4)
+- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
+- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
+- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
+- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
 <!-- BLOG-POST-LIST:END -->
 
