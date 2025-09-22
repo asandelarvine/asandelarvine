@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore Gateway - Part 4 AgentCore Gateway Observability](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-4-agentcore-gateway-observability-2775)
-- [hurl](https://dev.to/piersroberts/hurl-3bj3)
-- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
-- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
+- [Everyone will be replaced...](https://dev.to/zenoshubh/everyone-will-be-replaced-4855)
+- [When ECharts Refused to Scroll: My Hacky but Beautiful Fix](https://dev.to/shubhamsapkal/when-echarts-refused-to-scroll-my-hacky-but-beautiful-fix-3nfo)
+- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
+- [[Boost]](https://dev.to/jatniel/-5dp9)
 <!-- BLOG-POST-LIST:END -->
 
