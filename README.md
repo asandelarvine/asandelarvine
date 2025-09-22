@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
-- [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
-- [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
-- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
+- [Building CardOS: An AI-Powered Credit Pre-Approval System on Google Kubernetes Engine](https://dev.to/amelia751/building-cardos-an-ai-powered-credit-pre-approval-system-on-google-kubernetes-engine-hn8)
+- [Why I Avoided Kubernetes for 2 Years &lpar;Spoiler: Bad Idea&rpar;](https://dev.to/arbythecoder/why-i-avoided-kubernetes-for-2-years-spoiler-bad-idea-179k)
+- [[Boost]](https://dev.to/alazsel/-a8a)
+- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
 <!-- BLOG-POST-LIST:END -->
 
