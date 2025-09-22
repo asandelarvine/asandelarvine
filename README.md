@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
-- [Coding Challenge Practice - Question 12](https://dev.to/tomivan/coding-challenge-practice-question-12-4i35)
-- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
+- [Why GraphQL is Gaining Adoption](https://dev.to/baraq/why-graphql-is-gaining-adoption-5g25)
+- [From Vision to Execution: A System-of-Systems Approach for Smart Cards and RFID](https://dev.to/antonio_socorro_95e3ff086/from-vision-to-execution-a-system-of-systems-approach-for-smart-cards-and-rfid-56cf)
+- [The Art of the Dad Gift: A Daughter&#39;s Guide to Custom Cool](https://dev.to/sloansstore/the-art-of-the-dad-gift-a-daughters-guide-to-custom-cool-30g4)
 <!-- BLOG-POST-LIST:END -->
 
