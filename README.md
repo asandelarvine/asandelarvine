@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep learning about DNS records!](https://dev.to/asad10/deep-learning-about-dns-records-2mkh)
-- [SOLID Principles in .NET Core API: A Complete Guide with Practical Examples](https://dev.to/manonaga2188/solid-principles-in-net-core-api-a-complete-guide-with-practical-examples-53ka)
-- [Zorin OS 18 Beta Just Dropped and It&#39;s Actually Pretty Sweet](https://dev.to/shiva_shanker_k/zorin-os-18-beta-just-dropped-and-its-actually-pretty-sweet-2egm)
-- [Building a SaaS app with Laravel, FilamentPHP, and Multi-DB Tenancy](https://dev.to/pro_code_5aa69286b31f6533/building-a-saas-app-with-laravel-filamentphp-and-multi-db-tenancy-2ba9)
+- [Simplifying API Communication with the BFF Pattern in NextJS](https://dev.to/oliverke/simplifying-api-communication-with-the-bff-pattern-in-nextjs-1flb)
+- [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
+- [Burnout, PIP and Self-Doubt | Looking for Career Advice After a Hard Fall](https://dev.to/simpledeveloper/burnout-pip-and-self-doubt-looking-for-career-advice-after-a-hard-fall-3o69)
+- [The Hunter Behind the Hacker](https://dev.to/stark_zhuang_df5076f35c68/the-hunter-behind-the-hacker-4gb4)
 <!-- BLOG-POST-LIST:END -->
 
