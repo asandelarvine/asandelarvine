@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform Top 10 Missing Features](https://dev.to/wyattdave/power-platform-top-10-missing-features-9ab)
-- [Unleashing JavaScript for WebSocket load testing](https://dev.to/gatling/unleashing-javascript-for-websocket-load-testing-3d9f)
-- [Choropleth Maps in R: A Powerful Tool for Geographic Data Visualization](https://dev.to/thedatageek/choropleth-maps-in-r-a-powerful-tool-for-geographic-data-visualization-32bn)
-- [What I Learned from Netflix’s Data-Driven Product Strategy? and How You Can Apply It](https://dev.to/uladshauchenka/what-i-learned-from-netflixs-data-driven-product-strategy-and-how-you-can-apply-it-3ii5)
+- [Deep learning about DNS records!](https://dev.to/asad10/deep-learning-about-dns-records-2mkh)
+- [SOLID Principles in .NET Core API: A Complete Guide with Practical Examples](https://dev.to/manonaga2188/solid-principles-in-net-core-api-a-complete-guide-with-practical-examples-53ka)
+- [Zorin OS 18 Beta Just Dropped and It&#39;s Actually Pretty Sweet](https://dev.to/shiva_shanker_k/zorin-os-18-beta-just-dropped-and-its-actually-pretty-sweet-2egm)
+- [Building a SaaS app with Laravel, FilamentPHP, and Multi-DB Tenancy](https://dev.to/pro_code_5aa69286b31f6533/building-a-saas-app-with-laravel-filamentphp-and-multi-db-tenancy-2ba9)
 <!-- BLOG-POST-LIST:END -->
 
