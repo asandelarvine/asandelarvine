@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl)
-- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4)
-- [01. Pengenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d)
-- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
+- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
+- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
+- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
 <!-- BLOG-POST-LIST:END -->
 
