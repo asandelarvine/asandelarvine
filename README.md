@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS.](https://dev.to/faybeth_robina/jumia-product-performance-dashboard-analysis-51m)
-- [The Ugly Truth About Postgres &amp; pgvector](https://dev.to/realchrissean/the-ugly-truth-about-postgres-pgvector-568c)
-- [Untitled](https://dev.to/jorge_daluz_95988de19625/untitled-43df)
-- [[Boost]](https://dev.to/batunpc/-21j4)
+- [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
+- [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
+- [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
+- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
 <!-- BLOG-POST-LIST:END -->
 
