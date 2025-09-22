@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Future of Banking with AI Agents: A GKE Hackathon Journey](https://dev.to/cajpany/building-the-future-of-banking-with-ai-agents-a-gke-hackathon-journey-2l8n)
-- [The Real Reason Your &quot;Computer and Mobile&quot; Strategy is Failing &lpar;And It’s Not What You Think&rpar;](https://dev.to/jyoti_eb2834cf419b8c283b3/the-real-reason-your-computer-and-mobile-strategy-is-failing-and-its-not-what-you-think-4fgm)
-- [New React Components Library from SVAR](https://dev.to/olga_tash/new-react-components-library-from-svar-40mm)
-- [🔥 Stop Wasting Time with APIs — Build a Full Backend in Minutes using Supabase &amp; React!](https://dev.to/ekwoster/stop-wasting-time-with-apis-build-a-full-backend-in-minutes-using-supabase-react-2b28)
+- [Medium Zoom Next - JS library for image zooming](https://dev.to/thanksboss/medium-zoom-next-js-library-for-image-zooming-5eg3)
+- [Database Optimizations: Indexing](https://dev.to/zeeshanali0704/database-optimizations-indexing-4ddn)
+- [Agent Identity for MCP: Prefactor&#39;s Approach to Secure, Auditable AI Agents](https://dev.to/om_shree_0709/agent-identity-for-mcp-prefactors-approach-to-secure-auditable-ai-agents-1o15)
+- [How Go &lpar;Golang&rpar; is Shaping the Future of Cloud Computing](https://dev.to/srijan-xi/how-go-golang-is-shaping-the-future-of-cloud-computing-3no3)
 <!-- BLOG-POST-LIST:END -->
 
