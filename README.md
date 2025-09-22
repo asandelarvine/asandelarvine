@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Medium Zoom Next - JS library for image zooming](https://dev.to/thanksboss/medium-zoom-next-js-library-for-image-zooming-5eg3)
-- [Database Optimizations: Indexing](https://dev.to/zeeshanali0704/database-optimizations-indexing-4ddn)
-- [Agent Identity for MCP: Prefactor&#39;s Approach to Secure, Auditable AI Agents](https://dev.to/om_shree_0709/agent-identity-for-mcp-prefactors-approach-to-secure-auditable-ai-agents-1o15)
-- [How Go &lpar;Golang&rpar; is Shaping the Future of Cloud Computing](https://dev.to/srijan-xi/how-go-golang-is-shaping-the-future-of-cloud-computing-3no3)
+- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc)
+- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91)
+- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0)
+- [GameSpot: Top Hat Studios&#39; TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc)
 <!-- BLOG-POST-LIST:END -->
 
