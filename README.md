@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
-- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
+- [Power Platform Top 10 Missing Features](https://dev.to/wyattdave/power-platform-top-10-missing-features-9ab)
+- [Unleashing JavaScript for WebSocket load testing](https://dev.to/gatling/unleashing-javascript-for-websocket-load-testing-3d9f)
+- [Choropleth Maps in R: A Powerful Tool for Geographic Data Visualization](https://dev.to/thedatageek/choropleth-maps-in-r-a-powerful-tool-for-geographic-data-visualization-32bn)
+- [What I Learned from Netflix’s Data-Driven Product Strategy? and How You Can Apply It](https://dev.to/uladshauchenka/what-i-learned-from-netflixs-data-driven-product-strategy-and-how-you-can-apply-it-3ii5)
 <!-- BLOG-POST-LIST:END -->
 
