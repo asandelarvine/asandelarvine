@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Deep Memory in AI? How Persistent Memory is Revolutionizing Personal AI](https://dev.to/gruve_abby_2bb4e7e1499283/what-is-deep-memory-in-ai-how-persistent-memory-is-revolutionizing-personal-ai-42aj)
-- [Cloud Without Clouds: The Rise of Decentralized Edge Computing](https://dev.to/dct_technology/cloud-without-clouds-the-rise-of-decentralized-edge-computing-5ad1)
-- [Geometric Methods in Data Preprocessing: Enhancing Your Data Through Spatial Thinking](https://dev.to/satwik_mishra_4db19c395ae/geometric-methods-in-data-preprocessing-enhancing-your-data-through-spatial-thinking-2ce4)
-- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
+- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl)
+- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4)
+- [01. Pengenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d)
+- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
 <!-- BLOG-POST-LIST:END -->
 
