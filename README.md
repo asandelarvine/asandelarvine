@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CardOS: An AI-Powered Credit Pre-Approval System on Google Kubernetes Engine](https://dev.to/amelia751/building-cardos-an-ai-powered-credit-pre-approval-system-on-google-kubernetes-engine-hn8)
-- [Why I Avoided Kubernetes for 2 Years &lpar;Spoiler: Bad Idea&rpar;](https://dev.to/arbythecoder/why-i-avoided-kubernetes-for-2-years-spoiler-bad-idea-179k)
-- [[Boost]](https://dev.to/alazsel/-a8a)
-- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
+- [Decentralized Social Media&#39;s Fatal Flaw: Why Web3 Platforms Need Privacy by Design](https://dev.to/savvysid/decentralized-social-medias-fatal-flaw-why-web3-platforms-need-privacy-by-design-hcp)
+- [🚀 ArkTS Navigation: How to Build Modern Page Transitions in HarmonyOS](https://dev.to/harmonyos/arkts-navigation-how-to-build-modern-page-transitions-in-harmonyos-4moh)
+- [Supply Chain Privacy: The Blockchain Transparency Trap That&#39;s Killing Enterprise Adoption](https://dev.to/savvysid/supply-chain-privacy-the-blockchain-transparency-trap-thats-killing-enterprise-adoption-4f07)
+- [How can developers build a dynamic, state-driven and fully customized UI using Canvas?](https://dev.to/harmonyos/how-can-developers-build-a-dynamic-state-driven-and-fully-customized-ui-using-canvas-5500)
 <!-- BLOG-POST-LIST:END -->
 
