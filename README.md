@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-4: Linux File Permissions | 100 Days of DevOps](https://dev.to/olymahmud/day-4-linux-file-permissions-100-days-of-devops-209j)
-- [The missing link](https://dev.to/naugtur/the-missing-link-3ejk)
-- [Ready to Code for Change? Introducing Our Vision🎯💻](https://dev.to/debaditya_saha_5b45172210/ready-to-code-for-change-introducing-our-vision-jfh)
-- [Testing!!](https://dev.to/ben/testing-2l7e)
+- [How do I setup templating in Golang Project](https://dev.to/bosnaufal/how-do-i-setup-templating-in-golang-project-4p04)
+- [# How I Built a Free Online Tool to Convert Images to PDF &lpar;PHP + mPDF&rpar;](https://dev.to/onlin3/-how-i-built-a-free-online-tool-to-convert-images-to-pdf-php-mpdf-861)
+- [7 habits of Highly Effective Java Coding](https://dev.to/jonathanvila/7-habits-of-highly-effective-java-coding-4jdg)
+- [📰 Major Tech News: September 23, 2025](https://dev.to/om_shree_0709/major-tech-news-september-23-2025-4gbl)
 <!-- BLOG-POST-LIST:END -->
 
