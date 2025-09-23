@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 YINI Parser v1.3.0-beta – Smarter Options, Safer Metadata, and New Controls](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v130-beta-smarter-options-safer-metadata-and-new-controls-2gn0)
-- [Persian OCR with YOLO + CRNN: Building a Custom Text Recognition Pipeline](https://dev.to/mahmoudabbasi/persian-ocr-with-yolo-crnn-building-a-custom-text-recognition-pipeline-4hid)
-- [Database Optimizations: Sharding](https://dev.to/zeeshanali0704/database-optimizations-sharding-2l6l)
-- [Database Optimizations: Partitioning](https://dev.to/zeeshanali0704/database-optimizations-partitioning-480n)
+- [**Unlocking Hidden Gems: T5 and the Uniter** ⚡ In the world](https://dev.to/drcarlosruizviquez/unlocking-hidden-gems-t5-and-the-uniter-in-the-world-599l)
+- [How to Keep Using Cursor for FREE on MacOS/Linux 🖥️](https://dev.to/aadarsh-nagrath/how-to-keep-using-cursor-for-free-on-macoslinux-31pj)
+- [Introduction of React useTransition Hook](https://dev.to/rameem2003/introduction-of-react-usetransition-hook-1n13)
+- [[Boost]](https://dev.to/miska_kovakova_7b0e462520/-2cj8)
 <!-- BLOG-POST-LIST:END -->
 
