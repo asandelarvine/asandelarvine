@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining MCP Management: Bundle Multiple Servers with FastMCP Proxies](https://dev.to/alexretana/streamlining-mcp-management-bundle-multiple-servers-with-fastmcp-proxies-n3i)
-- [Como Integrar Chainlink Data Feeds em Go para Múltiplos Tokens](https://dev.to/dev-araujo/como-integrar-chainlink-data-feeds-em-go-para-multiplos-tokens-ekb)
-- [Node.js Multi-Threading with Worker Threads](https://dev.to/dushmanta/nodejs-multi-threading-with-worker-threads-1nmj)
-- [Complete Ansible Guide](https://dev.to/mcheremnov/complete-ansible-guide-omf)
+- [How Kubernetes-Inspired API Design Helps LLMs](https://dev.to/felixhuttmann/how-kubernetes-inspired-api-design-helps-llms-1pgl)
+- [NGINX - Native support ACME Protocol](https://dev.to/terngr/nginx-native-support-acme-protocol-2d1p)
+- [The Art of Simple Python Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-art-of-simple-python-lists-2e6m)
+- [Dynamic Theming in React Using Context API: Multi-Brand 🎨](https://dev.to/yorgie7/dynamic-theming-in-react-using-context-api-multi-brand-56l1)
 <!-- BLOG-POST-LIST:END -->
 
