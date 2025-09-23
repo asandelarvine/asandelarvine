@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Key: A Definitive Guide to i18n Key Naming for Longevity and Sanity](https://dev.to/adrai/the-art-of-the-key-a-definitive-guide-to-i18n-key-naming-for-longevity-and-sanity-1355)
-- [Online Translation Services: Top 10 Security Risks](https://dev.to/testifytech/online-translation-services-top-10-security-risks-17c9)
-- [Real-Time Fraud Detection Using Apache Flink](https://dev.to/mahmoudabbasi/real-time-fraud-detection-using-apache-flink-4l2a)
-- [Perplexity Email Assistant: Smarter Inbox Automation That Works](https://dev.to/alifar/perplexity-email-assistant-smarter-inbox-automation-that-works-ocl)
+- [AbortController &amp; AbortSignal](https://dev.to/mohsenfallahnjd/abortcontroller-abortsignal-5ea4)
+- [⚡ Advanced `CompletableFuture` Use Cases in Java](https://dev.to/nk_sk_6f24fdd730188b284bf/advanced-completablefuture-use-cases-in-java-37l2)
+- [Los diez principales fabricantes chinos de máquinas de hielo tubular para ambientes de alta temperatura](https://dev.to/tubosdehielo_premium/los-diez-principales-fabricantes-chinos-de-maquinas-de-hielo-tubular-para-ambientes-de-alta-db1)
+- [[Boost]](https://dev.to/sagar_katoch/-1ea7)
 <!-- BLOG-POST-LIST:END -->
 
