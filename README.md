@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I setup templating in Golang Project](https://dev.to/bosnaufal/how-do-i-setup-templating-in-golang-project-4p04)
-- [# How I Built a Free Online Tool to Convert Images to PDF &lpar;PHP + mPDF&rpar;](https://dev.to/onlin3/-how-i-built-a-free-online-tool-to-convert-images-to-pdf-php-mpdf-861)
-- [7 habits of Highly Effective Java Coding](https://dev.to/jonathanvila/7-habits-of-highly-effective-java-coding-4jdg)
-- [📰 Major Tech News: September 23, 2025](https://dev.to/om_shree_0709/major-tech-news-september-23-2025-4gbl)
+- [Streamlining MCP Management: Bundle Multiple Servers with FastMCP Proxies](https://dev.to/alexretana/streamlining-mcp-management-bundle-multiple-servers-with-fastmcp-proxies-n3i)
+- [Como Integrar Chainlink Data Feeds em Go para Múltiplos Tokens](https://dev.to/dev-araujo/como-integrar-chainlink-data-feeds-em-go-para-multiplos-tokens-ekb)
+- [Node.js Multi-Threading with Worker Threads](https://dev.to/dushmanta/nodejs-multi-threading-with-worker-threads-1nmj)
+- [Complete Ansible Guide](https://dev.to/mcheremnov/complete-ansible-guide-omf)
 <!-- BLOG-POST-LIST:END -->
 
