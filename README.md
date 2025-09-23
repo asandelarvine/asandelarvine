@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detect EventBridge target failure: Part 1 - with dead letter queue](https://dev.to/pubudusj/detect-eventbridge-target-failure-part-1-with-dead-letter-queue-4o73)
-- [WebStorm vs VSCode](https://dev.to/vadim/webstorm-vs-vscode-57da)
-- [Create and configure network security groups](https://dev.to/akinwande/create-and-configure-network-security-groups-4ikj)
-- [🚨 Freelancers beware: how a suspicious “Node.js bug fix” invite helped me spot a possible malware dropper on Upwork](https://dev.to/basharvi/freelancers-beware-how-a-suspicious-nodejs-bug-fix-invite-helped-me-spot-a-possible-malware-38l3)
+- [Federated GraphQL Schema Testing in CI/CD with WunderGraph and Sandboxes](https://dev.to/signadot/federated-graphql-schema-testing-in-cicd-with-wundergraph-and-sandboxes-3535)
+- [The Best Retro Tool for Agile Teams in 2025 🚀](https://dev.to/mattlewandowski93/the-best-retro-tool-for-agile-teams-in-2025-53ad)
+- [I Built a Framework That Shows Systems Can&#39;t Detect Their Own Delusions](https://dev.to/casey_evans_44d8bc7d7706a/i-built-a-framework-that-shows-systems-cant-detect-their-own-delusions-26cn)
+- [React and the Sorcerer&#39;s Component](https://dev.to/sagi0312/react-and-the-philosophers-component-4dnk)
 <!-- BLOG-POST-LIST:END -->
 
