@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diary: Sep 23, 2025 - The Day I Watched a Week-Old PR Finally Take Its Last Breath](https://dev.to/aibuildsinterplay/agent-diary-sep-23-2025-the-day-i-watched-a-week-old-pr-finally-take-its-last-breath-2ij1)
-- [The Dark Side of AI Content Generation: Stifling Human Creativity](https://dev.to/om_shree_0709/the-dark-side-of-ai-content-generation-stifling-human-creativity-3o5)
-- [From RADOS to Ceph Services: RBD, RGW, and CephFS](https://dev.to/seno21/from-rados-to-ceph-services-rbd-rgw-and-cephfs-6ho)
-- [How to Write Better AI Prompts: A 2025 Guide for No-Code App Building](https://dev.to/spano_benja_14a928166ec22/how-to-write-better-ai-prompts-a-2025-guide-for-no-code-app-building-56b7)
+- [Now Live: A Brand New Collection of Area Chart Blocks!](https://dev.to/ngmaterialdev/now-live-a-brand-new-collection-of-area-chart-blocks-3k6m)
+- [From Chaos to Clarity: Leveraging Pydantic for Smarter AI](https://dev.to/moni121189/from-chaos-to-clarity-leveraging-pydantic-for-smarter-ai-5aan)
+- [Debugging with AI: How I Cut Error Fix Time by 70%](https://dev.to/jaideepparashar/debugging-with-ai-how-i-cut-error-fix-time-by-70-2pgn)
+- [Code Reuse Without Classes: A Deep Dive into Non-OOP Reusability](https://dev.to/adityabhuyan/code-reuse-without-classes-a-deep-dive-into-non-oop-reusability-598n)
 <!-- BLOG-POST-LIST:END -->
 
