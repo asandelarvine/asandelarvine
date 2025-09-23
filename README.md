@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
-- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
-- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
-- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
+- [Java Cheat Sheet](https://dev.to/elmyrockers/java-cheat-sheet-1a58)
+- [PHP JIT Compiler](https://dev.to/vishal_rajput_310e810159e/php-jit-compiler-4kk1)
+- [From a Medium Post to B2B SaaS: How One DM Changed Everything](https://dev.to/toolstube/from-a-medium-post-to-b2b-saas-how-one-dm-changed-everything-2jc5)
+- [Shodan vs ZoomEye Query Syntax Comparison](https://dev.to/stark_zhuang_df5076f35c68/shodan-vs-zoomeye-query-syntax-comparison-17hh)
 <!-- BLOG-POST-LIST:END -->
 
