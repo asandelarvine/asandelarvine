@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Now Live: A Brand New Collection of Area Chart Blocks!](https://dev.to/ngmaterialdev/now-live-a-brand-new-collection-of-area-chart-blocks-3k6m)
-- [From Chaos to Clarity: Leveraging Pydantic for Smarter AI](https://dev.to/moni121189/from-chaos-to-clarity-leveraging-pydantic-for-smarter-ai-5aan)
-- [Debugging with AI: How I Cut Error Fix Time by 70%](https://dev.to/jaideepparashar/debugging-with-ai-how-i-cut-error-fix-time-by-70-2pgn)
-- [Code Reuse Without Classes: A Deep Dive into Non-OOP Reusability](https://dev.to/adityabhuyan/code-reuse-without-classes-a-deep-dive-into-non-oop-reusability-598n)
+- [The Architecture of AI Workflows: Designing Beyond the Model Layer](https://dev.to/leena_malhotra/the-architecture-of-ai-workflows-designing-beyond-the-model-layer-45ld)
+- [Comparing Vue&#39;s Composition API and Options API](https://dev.to/akshayashet/comparing-vues-composition-api-and-options-api-4m44)
+- [Amazon QuickSight: la bolita mágica que revela las tendencias de los platillos mexicanos 🔮🍴](https://dev.to/bgalicia/amazon-quicksight-la-bolita-magica-que-revela-las-tendencias-de-los-platillos-mexicanos-117m)
+- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
 <!-- BLOG-POST-LIST:END -->
 
