@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AbortController &amp; AbortSignal](https://dev.to/mohsenfallahnjd/abortcontroller-abortsignal-5ea4)
-- [⚡ Advanced `CompletableFuture` Use Cases in Java](https://dev.to/nk_sk_6f24fdd730188b284bf/advanced-completablefuture-use-cases-in-java-37l2)
-- [Los diez principales fabricantes chinos de máquinas de hielo tubular para ambientes de alta temperatura](https://dev.to/tubosdehielo_premium/los-diez-principales-fabricantes-chinos-de-maquinas-de-hielo-tubular-para-ambientes-de-alta-db1)
-- [[Boost]](https://dev.to/sagar_katoch/-1ea7)
+- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
+- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
+- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
+- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
 <!-- BLOG-POST-LIST:END -->
 
