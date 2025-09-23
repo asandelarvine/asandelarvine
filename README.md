@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Unlocking Hidden Gems: T5 and the Uniter** ⚡ In the world](https://dev.to/drcarlosruizviquez/unlocking-hidden-gems-t5-and-the-uniter-in-the-world-599l)
-- [How to Keep Using Cursor for FREE on MacOS/Linux 🖥️](https://dev.to/aadarsh-nagrath/how-to-keep-using-cursor-for-free-on-macoslinux-31pj)
-- [Introduction of React useTransition Hook](https://dev.to/rameem2003/introduction-of-react-usetransition-hook-1n13)
-- [[Boost]](https://dev.to/miska_kovakova_7b0e462520/-2cj8)
+- [Day-4: Linux File Permissions | 100 Days of DevOps](https://dev.to/olymahmud/day-4-linux-file-permissions-100-days-of-devops-209j)
+- [The missing link](https://dev.to/naugtur/the-missing-link-3ejk)
+- [Ready to Code for Change? Introducing Our Vision🎯💻](https://dev.to/debaditya_saha_5b45172210/ready-to-code-for-change-introducing-our-vision-jfh)
+- [Testing!!](https://dev.to/ben/testing-2l7e)
 <!-- BLOG-POST-LIST:END -->
 
