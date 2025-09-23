@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Cheat Sheet](https://dev.to/elmyrockers/java-cheat-sheet-1a58)
-- [PHP JIT Compiler](https://dev.to/vishal_rajput_310e810159e/php-jit-compiler-4kk1)
-- [From a Medium Post to B2B SaaS: How One DM Changed Everything](https://dev.to/toolstube/from-a-medium-post-to-b2b-saas-how-one-dm-changed-everything-2jc5)
-- [Shodan vs ZoomEye Query Syntax Comparison](https://dev.to/stark_zhuang_df5076f35c68/shodan-vs-zoomeye-query-syntax-comparison-17hh)
+- [Learning Principles to Help You Learn Faster and Smarter if You Want to Become a Dev in the AI Age](https://dev.to/the_mj_super/learning-principles-to-help-you-learn-faster-and-smarter-if-you-want-to-become-a-dev-in-the-ai-age-4lam)
+- [AI Testing Tools for Enterprises: Most Recommended](https://dev.to/ronika_kashyap/ai-testing-tools-for-enterprises-most-recommended-nka)
+- [¿Cuáles son los mejores proveedores de máquinas de hielo tubular con buen diseño?](https://dev.to/maqhielotubo_digital/cuales-son-los-mejores-proveedores-de-maquinas-de-hielo-tubular-con-buen-diseno-20h3)
+- [Top Content and Automation Tools to Boost Crypto Marketing](https://dev.to/martin_deniyal_07aa225fc5/top-content-and-automation-tools-to-boost-crypto-marketing-2h0p)
 <!-- BLOG-POST-LIST:END -->
 
