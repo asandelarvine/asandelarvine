@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/lagat_josiah_f024a2c855bc/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1j1p)
-- [How Product Development Software Drives Innovation and Business Growth](https://dev.to/cloudestersoftware/how-product-development-software-drives-innovation-and-business-growth-2b51)
-- [¿Cuáles proveedores de máquinas de hielo tubular con evaporadores fáciles de limpiar son mejores?](https://dev.to/maqhielotubo_medico/cuales-proveedores-de-maquinas-de-hielo-tubular-con-evaporadores-faciles-de-limpiar-son-mejores-4cbb)
-- [DevLog: Building GritPath OS - Day 1 Using Convex](https://dev.to/creator_x/devlog-building-gritpath-os-day-1-using-convex-2nop)
+- [AI-Era Philanthropic Practice: From Inspiration to the Exploration of PawHaven](https://dev.to/aoda-zhang/ai-era-philanthropic-practice-from-inspiration-to-the-exploration-of-pawhaven-3npg)
+- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
+- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
 <!-- BLOG-POST-LIST:END -->
 
