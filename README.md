@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Era Philanthropic Practice: From Inspiration to the Exploration of PawHaven](https://dev.to/aoda-zhang/ai-era-philanthropic-practice-from-inspiration-to-the-exploration-of-pawhaven-3npg)
-- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
-- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
+- [🚀 YINI Parser v1.3.0-beta – Smarter Options, Safer Metadata, and New Controls](https://dev.to/marko_kseppnen_6250a7f/yini-parser-v130-beta-smarter-options-safer-metadata-and-new-controls-2gn0)
+- [Persian OCR with YOLO + CRNN: Building a Custom Text Recognition Pipeline](https://dev.to/mahmoudabbasi/persian-ocr-with-yolo-crnn-building-a-custom-text-recognition-pipeline-4hid)
+- [Database Optimizations: Sharding](https://dev.to/zeeshanali0704/database-optimizations-sharding-2l6l)
+- [Database Optimizations: Partitioning](https://dev.to/zeeshanali0704/database-optimizations-partitioning-480n)
 <!-- BLOG-POST-LIST:END -->
 
