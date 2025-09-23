@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
-- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
-- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
-- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
+- [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
+- [🧠 Basic Algorithm Structures](https://dev.to/mzunairtariq/basic-algorithm-structures-42ib)
+- [👋 Hello Dev Community — First Post!](https://dev.to/meganpropps/hello-dev-community-first-post-40hg)
+- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
 <!-- BLOG-POST-LIST:END -->
 
