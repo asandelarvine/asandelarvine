@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuáles son las fábricas de máquinas de hielo tubular con una producción diaria de 5 toneladas?](https://dev.to/maqhielotubo_digital/cuales-son-las-fabricas-de-maquinas-de-hielo-tubular-con-una-produccion-diaria-de-5-toneladas-56pb)
-- [Building AI-Powered Flutter Apps with Claude](https://dev.to/teephilz/building-ai-powered-flutter-apps-with-claude-55d6)
-- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
-- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
+- [Integrating AI in Data Analytics: Transforming Insights into Action](https://dev.to/missmati/integrating-ai-in-data-analytics-transforming-insights-into-action-30a6)
+- [From Prototype to Production: A Modern Blueprint for AI Agents with Strands and AWS Bedrock Agentcore](https://dev.to/aws-builders/from-prototype-to-production-a-modern-blueprint-for-ai-agents-with-strands-and-aws-bedrock-d3c)
+- [I built a voice AI agent to clean my emails, meetings, and Slack DMs &lpar;Composio, Vapi, OpenAI TTS&rpar; 🪄](https://dev.to/composiodev/i-built-a-voice-ai-agent-to-clean-my-emails-meetings-and-slack-dms-composio-vapi-openai-tts-472b)
+- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
 <!-- BLOG-POST-LIST:END -->
 
