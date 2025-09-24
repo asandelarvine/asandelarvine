@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Did We Get Here? Tracing AI&#39;s Journey](https://dev.to/mjubair/how-did-we-get-here-tracing-ais-journey-4jf1)
-- [Polyglot Dockerization: Java + Python + Vue in Local and Production](https://dev.to/mrmajed7/polyglot-dockerization-java-python-vue-in-local-and-production-5c22)
-- [The Night I Discovered I&#39;d Built Something Revolutionary &lpar;And Didn&#39;t Know It&rpar;](https://dev.to/homeless-coder/the-night-i-discovered-id-built-something-revolutionary-and-didnt-know-it-2oik)
-- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
+- [My First Database – LPF &lpar;Liga Panameña de Fútbol&rpar;⚽](https://dev.to/thecoder507/my-first-database-lpf-liga-panamena-de-futbol-113b)
+- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
+- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
 <!-- BLOG-POST-LIST:END -->
 
