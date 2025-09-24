@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping branches in sync in a Monorepo: The Pre-Push hook solution](https://dev.to/pratiktalreja/keeping-branches-in-sync-in-a-monorepo-the-pre-push-hook-solution-3c0f)
-- [Build High Quality Reasoning Datasets in Minutes Using Natural Prompts](https://dev.to/lukehinds/build-chain-of-thought-datasets-in-minutes-using-natural-prompts-4jae)
-- [About Web 3.0](https://dev.to/humbertoromanojr/about-web-30-pk5)
-- [Beyond for loops: Mastering Python&#39;s Iterators and Generators](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-for-loops-mastering-pythons-iterators-and-generators-2a2e)
+- [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
+- [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
+- [K-Means Clustering Exposed: What the Textbooks won&#39;t tell you](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
+- [When I Realized My App Needed Content Moderation &lpar;and What I Learned&rpar;](https://dev.to/arslankark234/when-i-realized-my-app-needed-content-moderation-and-what-i-learned-198d)
 <!-- BLOG-POST-LIST:END -->
 
