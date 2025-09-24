@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SVAR Svelte Components Now with TypeScript Support](https://dev.to/olga_tash/svar-svelte-components-now-with-typescript-support-33c2)
-- [Terraform as a One-Shot Init Container in Docker Compose and CI: Ending &quot;It Worked On My Machine&quot;](https://dev.to/u11d/terraform-as-a-one-shot-init-container-in-docker-compose-and-ci-ending-it-worked-on-my-machine-2c49)
-- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
-- [What Is Scenario Planning and How Does It Work?](https://dev.to/microestimates/what-is-scenario-planning-and-how-does-it-work-2nng)
+- [How to Pass the AWS Certified Data Engineer – Associate Exam](https://dev.to/camille_chang/how-to-pass-the-aws-certified-data-engineer-associate-exam-e01)
+- [D-FlipFlip circuit model with signals and Dart](https://dev.to/daniel_vh/d-flipflip-circuit-model-with-signals-and-dart-53eo)
+- [Mastering Python Arrays: A Comprehensive Guide for Beginners &amp; Beyond](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-python-arrays-a-comprehensive-guide-for-beginners-beyond-3kd7)
+- [No Laying Up Podcast: BallKnowers with Bob Sturm | Trap Draw, Ep 360](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-with-bob-sturm-trap-draw-ep-360-5ef8)
 <!-- BLOG-POST-LIST:END -->
 
