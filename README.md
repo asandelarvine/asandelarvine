@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Networking: Understanding CIDR Notation](https://dev.to/aws-builders/aws-networking-understanding-cidr-notation-383f)
-- [Daily Tech Byte: 2025-09-24](https://dev.to/frosty_fucker_7d06058f3d8/daily-tech-byte-2025-09-24-4ood)
-- [Want to simplify how you manage your env files and secrets?](https://dev.to/rabbilyasar/want-to-simplify-how-you-manage-your-env-files-and-secrets-3gi4)
-- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
+- [Start at the End: Logic Programming for the Imperatively Damaged](https://dev.to/davidcanhelp/start-at-the-end-logic-programming-for-the-imperatively-damaged-2fp2)
+- [I built an initial data syncing system for Django projects](https://dev.to/ridcorix/i-built-an-initial-data-syncing-system-for-django-projects-l36)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
+- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
 <!-- BLOG-POST-LIST:END -->
 
