@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Countdown Gotcha: Why Date.now&lpar;&rpar; Depends on the User’s Clock](https://dev.to/brinobruno/javascript-countdown-gotcha-why-datenow-depends-on-the-users-clock-2gl9)
-- [Debugging Device Issues in the Field: Lessons from Zebra Deployments](https://dev.to/gauri_bhosale_f7398ef7373/debugging-device-issues-in-the-field-lessons-from-zebra-deployments-201i)
-- [How to use crypto library in Nodejs](https://dev.to/devangular/how-to-use-crypto-library-in-nodejs-327p)
-- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
+- [PROCEDIMIENTOS DE TRABAJO SEGURO](https://dev.to/giancarlo_edumayhuirezu/procedimientos-de-trabajo-seguro-661)
+- [AI vs AGI: Understanding the Future of Intelligence in Simple Words](https://dev.to/amttawsik/ai-vs-agi-understanding-the-future-of-intelligence-in-simple-words-cj7)
+- [NgRx Signal Store Event API: A Modern Take on Event-Driven Architecture](https://dev.to/duskoperic/ngrx-signal-store-event-api-a-modern-take-on-event-driven-architecture-189m)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Direne Direne &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-direne-direne-live-on-kexp-5db7)
 <!-- BLOG-POST-LIST:END -->
 
