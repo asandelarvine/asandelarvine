@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the mojar differences between Arduino Uno and ESP32 boards?](https://dev.to/carolineee/what-is-the-mojar-differences-between-arduino-uno-and-esp32-boards-3a4h)
-- [Go Coding with Asparagos: Saving Apples from Pies](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
-- [JavaScript Hoisting Explained: A Beginner’s Guide with Examples](https://dev.to/wisdomudo/javascript-hoisting-explained-a-beginners-guide-with-examples-j5f)
-- [Nginx mi Apache mi? Hangi Web Sunucusunu Seçmeli?](https://dev.to/latestsoftware/nginx-mi-apache-mi-hangi-web-sunucusunu-secmeli-540a)
+- [SVAR Svelte Components Now with TypeScript Support](https://dev.to/olga_tash/svar-svelte-components-now-with-typescript-support-33c2)
+- [Terraform as a One-Shot Init Container in Docker Compose and CI: Ending &quot;It Worked On My Machine&quot;](https://dev.to/u11d/terraform-as-a-one-shot-init-container-in-docker-compose-and-ci-ending-it-worked-on-my-machine-2c49)
+- [🚀 Turn Any Photo Into a Cartoon with ToonlyAI](https://dev.to/web5lab_938e9096be8dc3e78/turn-any-photo-into-a-cartoon-with-toonlyai-3ned)
+- [What Is Scenario Planning and How Does It Work?](https://dev.to/microestimates/what-is-scenario-planning-and-how-does-it-work-2nng)
 <!-- BLOG-POST-LIST:END -->
 
