@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Versioning in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/api-versioning-in-net-web-api-39ma)
-- [🧠 Basic Algorithm Structures](https://dev.to/mzunairtariq/basic-algorithm-structures-42ib)
-- [👋 Hello Dev Community — First Post!](https://dev.to/meganpropps/hello-dev-community-first-post-40hg)
-- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
+- [🚀 Bytedocs: A Modern Alternative to Swagger](https://dev.to/aibnuhibban/bytedocs-a-modern-alternative-to-swagger-312d)
+- [El escándalo Milei y el “mercado total”: cuando el Estado pierde terreno](https://dev.to/applesophie98/el-escandalo-milei-y-el-mercado-total-cuando-el-estado-pierde-terreno-fn0)
+- [Building a Real-Time Compass App on HarmonyOS NEXT Wearables with ArkTS](https://dev.to/harmonyos/building-a-real-time-compass-app-on-harmonyos-next-wearables-with-arkts-11je)
+- [Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.](https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6)
 <!-- BLOG-POST-LIST:END -->
 
