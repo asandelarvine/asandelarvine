@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong Boss Fight - Savage Beastfly &lpar;Grand Hunt, Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-savage-beastfly-grand-hunt-far-fields-5138)
-- [IGN: Star Trek: Voyager - Across the Unknown - Official Gameplay Trailer | Indie Fan Fest Fall 2025](https://dev.to/gg_news/ign-star-trek-voyager-across-the-unknown-official-gameplay-trailer-indie-fan-fest-fall-2025-49bi)
-- [IGN: Silly Polly Beast - Official Release Window Trailer | Top Hat Showcase 2025](https://dev.to/gg_news/ign-silly-polly-beast-official-release-window-trailer-top-hat-showcase-2025-348g)
-- [IGN: Cyberpunk 2077: Ultimate Edition - Official ‘New Ways to Play’ Nintendo Switch 2 Trailer](https://dev.to/gg_news/ign-cyberpunk-2077-ultimate-edition-official-new-ways-to-play-nintendo-switch-2-trailer-1319)
+- [Keeping branches in sync in a Monorepo: The Pre-Push hook solution](https://dev.to/pratiktalreja/keeping-branches-in-sync-in-a-monorepo-the-pre-push-hook-solution-3c0f)
+- [Build High Quality Reasoning Datasets in Minutes Using Natural Prompts](https://dev.to/lukehinds/build-chain-of-thought-datasets-in-minutes-using-natural-prompts-4jae)
+- [About Web 3.0](https://dev.to/humbertoromanojr/about-web-30-pk5)
+- [Beyond for loops: Mastering Python&#39;s Iterators and Generators](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-for-loops-mastering-pythons-iterators-and-generators-2a2e)
 <!-- BLOG-POST-LIST:END -->
 
