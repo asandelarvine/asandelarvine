@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Data Standards for Seamless Collaboration and Integrity](https://dev.to/agustinusnathaniel/a-practical-guide-to-data-standards-for-seamless-collaboration-and-integrity-138k)
-- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
-- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
-- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
+- [How useSyncExternalStore Transformed My React State Management](https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31)
+- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8)
+- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f)
+- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
 <!-- BLOG-POST-LIST:END -->
 
