@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Just Happened to RubyGems?](https://dev.to/cseeman/what-just-happened-to-rubygems-31n9)
-- [Just finished Head First Python, super beginner-friendly and hands-on. Loved the visual style and projects. Moves fast sometimes, but perfect if you’re starting!](https://dev.to/roshan_sharma_7deae5e0742/just-finished-head-first-python-super-beginner-friendly-and-hands-on-loved-the-visual-style-and-5d7o)
-- [Vision AI and Human-in-the-Loop Distillation: Building Trustworthy and Scalable Systems](https://dev.to/rithindattag/vision-ai-and-human-in-the-loop-distillation-building-trustworthy-and-scalable-systems-4m30)
-- [GameSpot: Yakuza Kiwami 3 Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-trailer-rgg-summit-2025-c76)
+- [A Practical Guide to Data Standards for Seamless Collaboration and Integrity](https://dev.to/agustinusnathaniel/a-practical-guide-to-data-standards-for-seamless-collaboration-and-integrity-138k)
+- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
+- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
+- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
 <!-- BLOG-POST-LIST:END -->
 
