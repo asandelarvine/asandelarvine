@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How useSyncExternalStore Transformed My React State Management](https://dev.to/ashishxcode/how-usesyncexternalstore-transformed-my-react-state-management-i31)
-- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8)
-- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f)
-- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
+- [No questions? The cost of a missing &#39;?&#39; in your project](https://dev.to/pvsdev/no-questions-the-cost-of-a-missing-in-your-project-2b2m)
+- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
+- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
+- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
 <!-- BLOG-POST-LIST:END -->
 
