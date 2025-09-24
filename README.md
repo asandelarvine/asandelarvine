@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-native multi-model UI with SurrealDB](https://dev.to/surrealdb/building-an-ai-native-multi-model-ui-with-surrealdb-2eeh)
-- [Features your SaaS MVP Don&#39;t Need](https://dev.to/railsdesigner/features-your-saas-mvp-dont-need-4ggh)
-- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
-- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
+- [How Did We Get Here? Tracing AI&#39;s Journey](https://dev.to/mjubair/how-did-we-get-here-tracing-ais-journey-4jf1)
+- [Polyglot Dockerization: Java + Python + Vue in Local and Production](https://dev.to/mrmajed7/polyglot-dockerization-java-python-vue-in-local-and-production-5c22)
+- [The Night I Discovered I&#39;d Built Something Revolutionary &lpar;And Didn&#39;t Know It&rpar;](https://dev.to/homeless-coder/the-night-i-discovered-id-built-something-revolutionary-and-didnt-know-it-2oik)
+- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
 <!-- BLOG-POST-LIST:END -->
 
