@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can hysteroscopy improve IVF success rates?](https://dev.to/ashhh_ka_6c2de521a9b1fa29/can-hysteroscopy-improve-ivf-success-rates-5cc6)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2j1d)
-- [Learning JS in 30 Days - Day 4](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-4-3kcn)
-- [python mail format parser](https://dev.to/vb_nair/python-mail-format-parser-44g3)
+- [JavaScript Countdown Gotcha: Why Date.now&lpar;&rpar; Depends on the User’s Clock](https://dev.to/brinobruno/javascript-countdown-gotcha-why-datenow-depends-on-the-users-clock-2gl9)
+- [Debugging Device Issues in the Field: Lessons from Zebra Deployments](https://dev.to/gauri_bhosale_f7398ef7373/debugging-device-issues-in-the-field-lessons-from-zebra-deployments-201i)
+- [How to use crypto library in Nodejs](https://dev.to/devangular/how-to-use-crypto-library-in-nodejs-327p)
+- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
 <!-- BLOG-POST-LIST:END -->
 
