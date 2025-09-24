@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Bytedocs: A Modern Alternative to Swagger](https://dev.to/aibnuhibban/bytedocs-a-modern-alternative-to-swagger-312d)
-- [El escándalo Milei y el “mercado total”: cuando el Estado pierde terreno](https://dev.to/applesophie98/el-escandalo-milei-y-el-mercado-total-cuando-el-estado-pierde-terreno-fn0)
-- [Building a Real-Time Compass App on HarmonyOS NEXT Wearables with ArkTS](https://dev.to/harmonyos/building-a-real-time-compass-app-on-harmonyos-next-wearables-with-arkts-11je)
-- [Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.](https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6)
+- [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
+- [Rails Admin panel with Avo: a booking application](https://dev.to/erozas/rails-admin-panel-with-avo-a-booking-application-4h0h)
+- [Bruno vs Postman: Which API Client Should You Choose?](https://dev.to/abhijith_p_subash/bruno-vs-postman-which-api-client-should-you-choose-6kf)
+- [Serverless Dashboard Architecture Using AWS Lambda, API Gateway, and GitHub Actions](https://dev.to/asimmakes/serverless-dashboard-architecture-using-aws-lambda-api-gateway-and-github-actions-3enn)
 <!-- BLOG-POST-LIST:END -->
 
