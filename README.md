@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Start at the End: Logic Programming for the Imperatively Damaged](https://dev.to/davidcanhelp/start-at-the-end-logic-programming-for-the-imperatively-damaged-2fp2)
-- [I built an initial data syncing system for Django projects](https://dev.to/ridcorix/i-built-an-initial-data-syncing-system-for-django-projects-l36)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-full-performance-live-on-kexp-5anp)
-- [Golf.com: The Mystery Of Bethpage Black’s Unique Warning Sign](https://dev.to/youtube_golf/golfcom-the-mystery-of-bethpage-blacks-unique-warning-sign-p4f)
+- [Building an AI-native multi-model UI with SurrealDB](https://dev.to/surrealdb/building-an-ai-native-multi-model-ui-with-surrealdb-2eeh)
+- [Features your SaaS MVP Don&#39;t Need](https://dev.to/railsdesigner/features-your-saas-mvp-dont-need-4ggh)
+- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
+- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
 <!-- BLOG-POST-LIST:END -->
 
