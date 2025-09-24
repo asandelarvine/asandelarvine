@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling and logging policy helper for neverthrow](https://dev.to/caverar/error-handling-and-logging-policy-helper-for-neverthrow-5d2j)
-- [Simple Habit Tracker – From Idea to Scale-Ready &lpar;Frontend + Backend&rpar;](https://dev.to/ariansj/simple-habit-tracker-from-idea-to-scale-ready-frontend-backend-280j)
-- [K-Means Clustering Exposed: What the Textbooks won&#39;t tell you](https://dev.to/sheep_dev/k-means-clustering-exposed-what-the-textbooks-leave-out-4k66)
-- [When I Realized My App Needed Content Moderation &lpar;and What I Learned&rpar;](https://dev.to/arslankark234/when-i-realized-my-app-needed-content-moderation-and-what-i-learned-198d)
+- [Nest.js Blog Step by Step: Add User System](https://dev.to/leapcell/nestjs-blog-step-by-step-add-user-system-5a16)
+- [Shared Hosting vs VPS Hosting: A Beginner-Friendly Breakdown](https://dev.to/justin-green/shared-hosting-vs-vps-hosting-a-beginner-friendly-breakdown-4m69)
+- [Business Central Demand Forecasting: Smarter Planning Without the Guesswork](https://dev.to/insight_works/business-central-demand-forecasting-smarter-planning-without-the-guesswork-48bm)
+- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
 <!-- BLOG-POST-LIST:END -->
 
