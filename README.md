@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PROCEDIMIENTOS DE TRABAJO SEGURO](https://dev.to/giancarlo_edumayhuirezu/procedimientos-de-trabajo-seguro-661)
-- [AI vs AGI: Understanding the Future of Intelligence in Simple Words](https://dev.to/amttawsik/ai-vs-agi-understanding-the-future-of-intelligence-in-simple-words-cj7)
-- [NgRx Signal Store Event API: A Modern Take on Event-Driven Architecture](https://dev.to/duskoperic/ngrx-signal-store-event-api-a-modern-take-on-event-driven-architecture-189m)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Direne Direne &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-direne-direne-live-on-kexp-5db7)
+- [AWS Networking: Understanding CIDR Notation](https://dev.to/aws-builders/aws-networking-understanding-cidr-notation-383f)
+- [Daily Tech Byte: 2025-09-24](https://dev.to/frosty_fucker_7d06058f3d8/daily-tech-byte-2025-09-24-4ood)
+- [Want to simplify how you manage your env files and secrets?](https://dev.to/rabbilyasar/want-to-simplify-how-you-manage-your-env-files-and-secrets-3gi4)
+- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
 <!-- BLOG-POST-LIST:END -->
 
