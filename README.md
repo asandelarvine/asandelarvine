@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No questions? The cost of a missing &#39;?&#39; in your project](https://dev.to/pvsdev/no-questions-the-cost-of-a-missing-in-your-project-2b2m)
-- [API Gateways &lpar;Kong, Tyk, etc.&rpar;](https://dev.to/godofgeeks/api-gateways-kong-tyk-etc-2473)
-- [React redux](https://dev.to/mitchel_gitau_47346390a98/react-redux-5bjo)
-- [What’s Your Go-To Framework for Web Development?](https://dev.to/daniel_76f4e96b2e971bda84/whats-your-go-to-framework-for-web-development-1l4f)
+- [What is the mojar differences between Arduino Uno and ESP32 boards?](https://dev.to/carolineee/what-is-the-mojar-differences-between-arduino-uno-and-esp32-boards-3a4h)
+- [Go Coding with Asparagos: Saving Apples from Pies](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
+- [JavaScript Hoisting Explained: A Beginner’s Guide with Examples](https://dev.to/wisdomudo/javascript-hoisting-explained-a-beginners-guide-with-examples-j5f)
+- [Nginx mi Apache mi? Hangi Web Sunucusunu Seçmeli?](https://dev.to/latestsoftware/nginx-mi-apache-mi-hangi-web-sunucusunu-secmeli-540a)
 <!-- BLOG-POST-LIST:END -->
 
