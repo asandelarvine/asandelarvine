@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
-- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
+- [Can hysteroscopy improve IVF success rates?](https://dev.to/ashhh_ka_6c2de521a9b1fa29/can-hysteroscopy-improve-ivf-success-rates-5cc6)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2j1d)
+- [Learning JS in 30 Days - Day 4](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-4-3kcn)
+- [python mail format parser](https://dev.to/vb_nair/python-mail-format-parser-44g3)
 <!-- BLOG-POST-LIST:END -->
 
