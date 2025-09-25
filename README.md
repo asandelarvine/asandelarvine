@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the SOLID Principles: A Practical Guide for Better Code](https://dev.to/aranka_maxilo_55bab8ad3c3/understanding-the-solid-principles-a-practical-guide-for-better-code-c7)
-- [The Cloud Resume Challenge: My GCP Implementation](https://dev.to/temitayo_apata_2f90bc51d3/the-cloud-resume-challenge-my-gcp-implementation-4ke0)
-- [Turbo in Rails: A Simple Guide to Drive, Frames, and Streams](https://dev.to/railsfactory_sedin/turbo-in-rails-a-simple-guide-to-drive-frames-and-streams-39o)
-- [Odoo Manufacturing Module Explained: Features, Benefits, and Use Cases](https://dev.to/iprogrammer_solutionspvt/odoo-manufacturing-module-explained-features-benefits-and-use-cases-506j)
+- [10 best MCP servers to take your Chatgpt experience to next level](https://dev.to/composiodev/10-best-mcp-servers-to-take-your-chatgpt-experience-to-next-level-19k6)
+- [Jopi Rewrite + Docker = so easy!](https://dev.to/johanpiquet/jopi-rewrite-docker-so-easy-7o9)
+- [Building an AI MVP: Why It’s Exciting, Risky &lpar;and Worth Trying Anyway&rpar;](https://dev.to/synergy_shock/building-an-ai-mvp-why-its-exciting-risky-and-worth-trying-anyway-56a0)
+- [**Breaking the &#39;Greedy&#39; Trap: Why a &#39;Burn-in&#39; Phase Matters](https://dev.to/drcarlosruizviquez/breaking-the-greedy-trap-why-a-burn-in-phase-matters-37n8)
 <!-- BLOG-POST-LIST:END -->
 
