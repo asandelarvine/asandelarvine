@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The link between customer journeys and setting up dashboards for marketing attribution and ROI](https://dev.to/leo_johnson_e34af4a6d9bd9/the-link-between-customer-journeys-and-setting-up-dashboards-for-marketing-attribution-and-roi-38fe)
-- [Passkeys Without the Pain: A Frontend Dev’s Guide](https://dev.to/highflyer910/passkeys-without-the-pain-a-frontend-devs-guide-276k)
-- [Best 10 Web Development Companies in India 2025](https://dev.to/santosh_avarolli_211d700e/best-10-web-development-companies-in-india-2025-27ac)
-- [Security, Privacy, and Trust in Web3 Systems](https://dev.to/cubewire_9e012791e51c042b/security-privacy-and-trust-in-web3-systems-10nn)
+- [Top 8 LLM Observability Tools for Production-Ready Applications](https://dev.to/kuldeep_paul/top-8-llm-observability-tools-for-production-ready-applications-6ah)
+- [🚀 Modernizing Verlet.js with TypeScript and React Wrapper](https://dev.to/franklinhyriol/modernizing-verletjs-with-typescript-and-react-wrapper-2f25)
+- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196)
+- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7)
 <!-- BLOG-POST-LIST:END -->
 
