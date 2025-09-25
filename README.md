@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Components in Rails without gems](https://dev.to/railsdesigner/components-in-rails-without-gems-41n0)
-- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/wakeup_flower_8591a6cb6a9/aws-storage-gateway-cached-volumes-or-stored-volumes--2a81)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-3f96)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-52nc)
+- [[Boost]](https://dev.to/praneetaprakash/-2nfe)
+- [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
+- [Using Claude Code for *non-coding* tasks](https://dev.to/andremoreira73/using-claude-code-for-non-coding-tasks-3d12)
+- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
 <!-- BLOG-POST-LIST:END -->
 
