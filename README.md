@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/praneetaprakash/-2nfe)
-- [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
-- [Using Claude Code for *non-coding* tasks](https://dev.to/andremoreira73/using-claude-code-for-non-coding-tasks-3d12)
-- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2464)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3a11)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-om6)
+- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-12nl)
 <!-- BLOG-POST-LIST:END -->
 
