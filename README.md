@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Frontend for your ADK Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-adk-agents-with-ag-ui-2alo)
-- [Can you extract Wix code when migrating websites?](https://dev.to/paul_viatkin/can-you-extract-wix-code-when-migrating-websites-137i)
-- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
-- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
+- [Understanding the SOLID Principles: A Practical Guide for Better Code](https://dev.to/aranka_maxilo_55bab8ad3c3/understanding-the-solid-principles-a-practical-guide-for-better-code-c7)
+- [The Cloud Resume Challenge: My GCP Implementation](https://dev.to/temitayo_apata_2f90bc51d3/the-cloud-resume-challenge-my-gcp-implementation-4ke0)
+- [Turbo in Rails: A Simple Guide to Drive, Frames, and Streams](https://dev.to/railsfactory_sedin/turbo-in-rails-a-simple-guide-to-drive-frames-and-streams-39o)
+- [Odoo Manufacturing Module Explained: Features, Benefits, and Use Cases](https://dev.to/iprogrammer_solutionspvt/odoo-manufacturing-module-explained-features-benefits-and-use-cases-506j)
 <!-- BLOG-POST-LIST:END -->
 
