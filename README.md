@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2464)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3a11)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-om6)
-- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-12nl)
+- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
+- [Lists as Function Interfaces: *args, Mutable Defaults, and the One-Liner Power](https://dev.to/aaron_rose_0787cc8b4775a0/lists-as-function-interfaces-args-mutable-defaults-and-the-one-liner-power-3d9h)
+- [Why I Use Cold Backups Instead of Relying Only on Snapshots | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-use-cold-backups-instead-of-relying-only-on-snapshots-by-faruk-ahmed-sep-2025-3fb)
+- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
 <!-- BLOG-POST-LIST:END -->
 
