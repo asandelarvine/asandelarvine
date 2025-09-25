@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 best MCP servers to take your Chatgpt experience to next level](https://dev.to/composiodev/10-best-mcp-servers-to-take-your-chatgpt-experience-to-next-level-19k6)
-- [Jopi Rewrite + Docker = so easy!](https://dev.to/johanpiquet/jopi-rewrite-docker-so-easy-7o9)
-- [Building an AI MVP: Why It’s Exciting, Risky &lpar;and Worth Trying Anyway&rpar;](https://dev.to/synergy_shock/building-an-ai-mvp-why-its-exciting-risky-and-worth-trying-anyway-56a0)
-- [**Breaking the &#39;Greedy&#39; Trap: Why a &#39;Burn-in&#39; Phase Matters](https://dev.to/drcarlosruizviquez/breaking-the-greedy-trap-why-a-burn-in-phase-matters-37n8)
+- [**The &#39;Model-in-the-Loop&#39; Pitfall: A Common yet Devastating](https://dev.to/drcarlosruizviquez/the-model-in-the-loop-pitfall-a-common-yet-devastating-1c7i)
+- [Complete SEO Meta Tags Implementation with Nuxt 3: From Basic Meta to Dynamic OG Images](https://dev.to/blamsa0mine/complete-seo-meta-tags-implementation-with-nuxt-3-from-basic-meta-to-dynamic-og-images-hih)
+- [Bridging the Observability Gap in MCP Servers with ToolHive](https://dev.to/stacklok/bridging-the-observability-gap-in-mcp-servers-with-toolhive-3827)
+- [🚀 The Weird Story Behind “n8n”: Why It’s Spelled That Way &lpar;And What It Really Means&rpar;](https://dev.to/mohsinalipro/the-weird-story-behind-n8n-why-its-spelled-that-way-and-what-it-really-means-3c3c)
 <!-- BLOG-POST-LIST:END -->
 
