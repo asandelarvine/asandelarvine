@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Metaverse 3D Space Development from Scratch](https://dev.to/lbm_solution/how-to-start-metaverse-3d-space-development-from-scratch-2353)
-- [Tableau for Marketing: Mastering Segmentation Like a Pro](https://dev.to/dipti_moryani_9137d0a2e44/tableau-for-marketing-mastering-segmentation-like-a-pro-57jf)
-- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e)
-- [Learning JS in 30 Days - Day 5](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-5-1bck)
+- [Crontab Logs: Location and How to Read Them [2025]](https://dev.to/signoz/crontab-logs-location-and-how-to-read-them-2025-3j9n)
+- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 2/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-23-2klf)
+- [Global Expansion with Local Presence: How VoIP Numbers Drive International Business](https://dev.to/vignesh_n_07f83364ceba2e2/global-expansion-with-local-presence-how-voip-numbers-drive-international-business-eg3)
+- [Data Warehousing vs. Data Lakes](https://dev.to/godofgeeks/data-warehousing-vs-data-lakes-54ki)
 <!-- BLOG-POST-LIST:END -->
 
