@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Building AI Beyond the Hype](https://dev.to/marcosomma/building-ai-beyond-the-hype-3b77)
-- [Open source project ESP32 Bus Pirate - A Hardware Hacking Tool That Speaks Every Protocol](https://dev.to/geo_tp/open-source-project-esp32-bus-pirate-a-hardware-hacking-tool-that-speaks-every-protocol-24gl)
-- [Building a PDF Parser for HDFC Bank Statements: From 165 Pages to CSV in Minutes](https://dev.to/vishwaraja_pathivishwa/building-a-pdf-parser-for-hdfc-bank-statements-from-165-pages-to-csv-in-minutes-34c6)
-- [Why Every Developer Should Learn Systems Thinking](https://dev.to/dct_technology/why-every-developer-should-learn-systems-thinking-m0j)
+- [How to Start Metaverse 3D Space Development from Scratch](https://dev.to/lbm_solution/how-to-start-metaverse-3d-space-development-from-scratch-2353)
+- [Tableau for Marketing: Mastering Segmentation Like a Pro](https://dev.to/dipti_moryani_9137d0a2e44/tableau-for-marketing-mastering-segmentation-like-a-pro-57jf)
+- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e)
+- [Learning JS in 30 Days - Day 5](https://dev.to/tony_chase_83955825282edc/learning-js-in-30-days-day-5-1bck)
 <!-- BLOG-POST-LIST:END -->
 
