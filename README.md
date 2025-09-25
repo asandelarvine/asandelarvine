@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-2f99)
-- [7 Tips for Hardening TLS on Nginx for Secure Web Traffic and Performance](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-tls-on-nginx-for-secure-web-traffic-and-performance-12o8)
-- [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
-- [How to Save Money with Amazon S3: Storage Classes, Use Cases, and Optimization Tips](https://dev.to/brayanarrieta/how-to-save-money-with-amazon-s3-storage-classes-use-cases-and-optimization-tips-c88)
+- [Components in Rails without gems](https://dev.to/railsdesigner/components-in-rails-without-gems-41n0)
+- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/wakeup_flower_8591a6cb6a9/aws-storage-gateway-cached-volumes-or-stored-volumes--2a81)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-3f96)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-52nc)
 <!-- BLOG-POST-LIST:END -->
 
