@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
-- [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
-- [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
-- [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
+- [🧠Building AI Beyond the Hype](https://dev.to/marcosomma/building-ai-beyond-the-hype-3b77)
+- [Open source project ESP32 Bus Pirate - A Hardware Hacking Tool That Speaks Every Protocol](https://dev.to/geo_tp/open-source-project-esp32-bus-pirate-a-hardware-hacking-tool-that-speaks-every-protocol-24gl)
+- [Building a PDF Parser for HDFC Bank Statements: From 165 Pages to CSV in Minutes](https://dev.to/vishwaraja_pathivishwa/building-a-pdf-parser-for-hdfc-bank-statements-from-165-pages-to-csv-in-minutes-34c6)
+- [Why Every Developer Should Learn Systems Thinking](https://dev.to/dct_technology/why-every-developer-should-learn-systems-thinking-m0j)
 <!-- BLOG-POST-LIST:END -->
 
