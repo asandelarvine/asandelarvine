@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Insert Video in HTML](https://dev.to/udanielnogueira/how-to-insert-videos-in-html-3de3)
-- [The Future of API Validation: A Deep Dive into AI-Powered Contract Testing](https://dev.to/signadot/the-future-of-api-validation-a-deep-dive-into-ai-powered-contract-testing-4da7)
-- [#Pre-DAY 1: Laying the Foundation: Docker &amp; Concepts](https://dev.to/samueladeduntan/pre-day-1-laying-the-foundation-docker-concepts-50k4)
-- [🚀 Getting Started with Django – A Beginner-Friendly Guide](https://dev.to/gopal_ghate_5bda01b730e45/getting-started-with-django-a-beginner-friendly-guide-4j4a)
+- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8)
+- [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl)
+- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-37mg)
 <!-- BLOG-POST-LIST:END -->
 
