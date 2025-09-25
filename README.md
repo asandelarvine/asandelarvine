@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**The &#39;Model-in-the-Loop&#39; Pitfall: A Common yet Devastating](https://dev.to/drcarlosruizviquez/the-model-in-the-loop-pitfall-a-common-yet-devastating-1c7i)
-- [Complete SEO Meta Tags Implementation with Nuxt 3: From Basic Meta to Dynamic OG Images](https://dev.to/blamsa0mine/complete-seo-meta-tags-implementation-with-nuxt-3-from-basic-meta-to-dynamic-og-images-hih)
-- [Bridging the Observability Gap in MCP Servers with ToolHive](https://dev.to/stacklok/bridging-the-observability-gap-in-mcp-servers-with-toolhive-3827)
-- [🚀 The Weird Story Behind “n8n”: Why It’s Spelled That Way &lpar;And What It Really Means&rpar;](https://dev.to/mohsinalipro/the-weird-story-behind-n8n-why-its-spelled-that-way-and-what-it-really-means-3c3c)
+- [How to Insert Video in HTML](https://dev.to/udanielnogueira/how-to-insert-videos-in-html-3de3)
+- [The Future of API Validation: A Deep Dive into AI-Powered Contract Testing](https://dev.to/signadot/the-future-of-api-validation-a-deep-dive-into-ai-powered-contract-testing-4da7)
+- [#Pre-DAY 1: Laying the Foundation: Docker &amp; Concepts](https://dev.to/samueladeduntan/pre-day-1-laying-the-foundation-docker-concepts-50k4)
+- [🚀 Getting Started with Django – A Beginner-Friendly Guide](https://dev.to/gopal_ghate_5bda01b730e45/getting-started-with-django-a-beginner-friendly-guide-4j4a)
 <!-- BLOG-POST-LIST:END -->
 
