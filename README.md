@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Data Sanitization is a Must-Have for Ethical AI](https://dev.to/naveen_kolli_a8501e4633c5/why-data-sanitization-is-a-must-have-for-ethical-ai-32ko)
-- [A Process killer CLI project using Java Process API](https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi)
-- [Coding Agent Template: A Template for Building AI Coding Agents](https://dev.to/jqueryscript/coding-agent-template-a-template-for-building-ai-coding-agents-56m2)
-- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
+- [Stop Using `localStorage` for Everything – Here&#39;s What to Use Instead](https://dev.to/dmsmenula/stop-using-localstorage-for-everything-heres-what-to-use-instead-5f59)
+- [What is promise in Javascript](https://dev.to/2021_cse_gayathrir_e733/what-is-promise-in-javascript-48n7)
+- [Managing Climbing Partnerships: Communication Tips by Avid Mountaineers including Cesar Alcantara Chula Vista](https://dev.to/cesar12/managing-climbing-partnerships-communication-tips-by-avid-mountaineers-including-cesar-alcantara-571k)
+- [What is react](https://dev.to/2021_cse_gayathrir_e733/what-is-react-44ji)
 <!-- BLOG-POST-LIST:END -->
 
