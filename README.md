@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Security Best Practices](https://dev.to/ishikha_rao/nodejs-security-best-practices-2f70)
-- [My Post Title](https://dev.to/atharva_shinde_008/my-post-title-eh7)
-- [Agentic AI: The Next Evolution in Automation](https://dev.to/tech_girllll/agentic-ai-the-next-evolution-in-automation-1ck5)
-- [itertools - Efficient Iterators in Python](https://dev.to/imrrobot/itertools-efficient-iterators-in-python-35a1)
+- [Best WordPress Image Optimization Plugins for 2025](https://dev.to/andreialba/best-wordpress-image-optimization-plugins-for-2025-46ci)
+- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
+- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
+- [Rust Send and Sync in Simple terms](https://dev.to/masteringbackend/rust-send-and-sync-in-simple-terms-2njp)
 <!-- BLOG-POST-LIST:END -->
 
