@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crontab Logs: Location and How to Read Them [2025]](https://dev.to/signoz/crontab-logs-location-and-how-to-read-them-2025-3j9n)
-- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 2/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-23-2klf)
-- [Global Expansion with Local Presence: How VoIP Numbers Drive International Business](https://dev.to/vignesh_n_07f83364ceba2e2/global-expansion-with-local-presence-how-voip-numbers-drive-international-business-eg3)
-- [Data Warehousing vs. Data Lakes](https://dev.to/godofgeeks/data-warehousing-vs-data-lakes-54ki)
+- [NodeJS Security Best Practices](https://dev.to/ishikha_rao/nodejs-security-best-practices-2f70)
+- [My Post Title](https://dev.to/atharva_shinde_008/my-post-title-eh7)
+- [Agentic AI: The Next Evolution in Automation](https://dev.to/tech_girllll/agentic-ai-the-next-evolution-in-automation-1ck5)
+- [itertools - Efficient Iterators in Python](https://dev.to/imrrobot/itertools-efficient-iterators-in-python-35a1)
 <!-- BLOG-POST-LIST:END -->
 
