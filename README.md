@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Connected 3 MCP Servers to Claude &amp; Built a No-Code Research Agent That Actually Cites Sources](https://dev.to/prithwish_nath/i-connected-3-mcp-servers-to-claude-built-a-no-code-research-agent-that-actually-cites-sources-4lfn)
-- [I Built a System to Generate Professional Travel Guides Using AI—Here&#39;s the Blueprint](https://dev.to/huizhudev/i-built-a-system-to-generate-professional-travel-guides-using-ai-heres-the-blueprint-51b)
-- [How to Set Up a Self-Hosted Obsidian Sync Server](https://dev.to/lightningdev123/how-to-set-up-a-self-hosted-obsidian-sync-server-hcn)
-- [gitlab+jenkins CI/CD](https://dev.to/tanjinsarker/gitlabjenkins-cicd-4hf0)
+- [The link between customer journeys and setting up dashboards for marketing attribution and ROI](https://dev.to/leo_johnson_e34af4a6d9bd9/the-link-between-customer-journeys-and-setting-up-dashboards-for-marketing-attribution-and-roi-38fe)
+- [Passkeys Without the Pain: A Frontend Dev’s Guide](https://dev.to/highflyer910/passkeys-without-the-pain-a-frontend-devs-guide-276k)
+- [Best 10 Web Development Companies in India 2025](https://dev.to/santosh_avarolli_211d700e/best-10-web-development-companies-in-india-2025-27ac)
+- [Security, Privacy, and Trust in Web3 Systems](https://dev.to/cubewire_9e012791e51c042b/security-privacy-and-trust-in-web3-systems-10nn)
 <!-- BLOG-POST-LIST:END -->
 
