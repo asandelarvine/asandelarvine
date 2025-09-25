@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best WordPress Image Optimization Plugins for 2025](https://dev.to/andreialba/best-wordpress-image-optimization-plugins-for-2025-46ci)
-- [Privacy for subdomains: the problem](https://dev.to/nfrankel/privacy-for-subdomains-the-problem-18ek)
-- [Master React :](https://dev.to/dev_abdulhaseeb/master-react--23lk)
-- [Rust Send and Sync in Simple terms](https://dev.to/masteringbackend/rust-send-and-sync-in-simple-terms-2njp)
+- [I Connected 3 MCP Servers to Claude &amp; Built a No-Code Research Agent That Actually Cites Sources](https://dev.to/prithwish_nath/i-connected-3-mcp-servers-to-claude-built-a-no-code-research-agent-that-actually-cites-sources-4lfn)
+- [I Built a System to Generate Professional Travel Guides Using AI—Here&#39;s the Blueprint](https://dev.to/huizhudev/i-built-a-system-to-generate-professional-travel-guides-using-ai-heres-the-blueprint-51b)
+- [How to Set Up a Self-Hosted Obsidian Sync Server](https://dev.to/lightningdev123/how-to-set-up-a-self-hosted-obsidian-sync-server-hcn)
+- [gitlab+jenkins CI/CD](https://dev.to/tanjinsarker/gitlabjenkins-cicd-4hf0)
 <!-- BLOG-POST-LIST:END -->
 
