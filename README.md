@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nest.js Blog Step by Step: Add User System](https://dev.to/leapcell/nestjs-blog-step-by-step-add-user-system-5a16)
-- [Shared Hosting vs VPS Hosting: A Beginner-Friendly Breakdown](https://dev.to/justin-green/shared-hosting-vs-vps-hosting-a-beginner-friendly-breakdown-4m69)
-- [Business Central Demand Forecasting: Smarter Planning Without the Guesswork](https://dev.to/insight_works/business-central-demand-forecasting-smarter-planning-without-the-guesswork-48bm)
-- [Error Boundaries in React with TypeScript: Going Beyond the Basics](https://dev.to/harpreet_singh_c4ea4af253/error-boundaries-in-react-with-typescript-going-beyond-the-basics-4ffn)
+- [Programação funcional - primeiras impressões com Clojure](https://dev.to/fumagallilaura/programacao-funcional-primeiras-impressoes-com-clojure-10dc)
+- [Entendendo o Problema N+1: Um Guia Prático para Desenvolvedores](https://dev.to/danielcamucatto/entendendo-o-problema-n1-um-guia-pratico-para-desenvolvedores-4ocb)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl)
+- [How to Harden Nginx with TLS, Fail2Ban, and Security Headers](https://dev.to/ramer2b58cbe46bc8/how-to-harden-nginx-with-tls-fail2ban-and-security-headers-2m26)
 <!-- BLOG-POST-LIST:END -->
 
