@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 LLM Observability Tools for Production-Ready Applications](https://dev.to/kuldeep_paul/top-8-llm-observability-tools-for-production-ready-applications-6ah)
-- [🚀 Modernizing Verlet.js with TypeScript and React Wrapper](https://dev.to/franklinhyriol/modernizing-verletjs-with-typescript-and-react-wrapper-2f25)
-- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196)
-- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7)
+- [Build a Frontend for your ADK Agents with AG-UI](https://dev.to/copilotkit/build-a-frontend-for-your-adk-agents-with-ag-ui-2alo)
+- [Can you extract Wix code when migrating websites?](https://dev.to/paul_viatkin/can-you-extract-wix-code-when-migrating-websites-137i)
+- [Tokenization and Blockchain Building the Architecture of Future Trade Finance Infrastructure](https://dev.to/albert_beckles_a6207bb8e1/tokenization-and-blockchain-building-the-architecture-of-future-trade-finance-infrastructure-6i)
+- [Understanding Callback Functions in JavaScript](https://dev.to/rowleks/understanding-callback-functions-in-javascript-1fk0)
 <!-- BLOG-POST-LIST:END -->
 
