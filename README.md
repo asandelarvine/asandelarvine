@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8)
-- [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl)
-- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-37mg)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-2f99)
+- [7 Tips for Hardening TLS on Nginx for Secure Web Traffic and Performance](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-tls-on-nginx-for-secure-web-traffic-and-performance-12o8)
+- [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
+- [How to Save Money with Amazon S3: Storage Classes, Use Cases, and Optimization Tips](https://dev.to/brayanarrieta/how-to-save-money-with-amazon-s3-storage-classes-use-cases-and-optimization-tips-c88)
 <!-- BLOG-POST-LIST:END -->
 
