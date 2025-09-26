@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Безкоштовне менторство з Frontend розробки](https://dev.to/serhii_muzalov_58eb4988af/biezkoshtovnie-mientorstvo-z-frontend-rozrobki-lj0)
-- [The Microflow Mirage: When Pretty Boxes Become a Developer’s Prison](https://dev.to/hotfixhero/the-microflow-mirage-when-pretty-boxes-become-a-developers-prison-2f3e)
-- [Introducing Smart Icons Kit](https://dev.to/mak3/introducing-smart-icons-kit-1g8)
-- [[Boost]](https://dev.to/ralphsebastian/-4783)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
 <!-- BLOG-POST-LIST:END -->
 
