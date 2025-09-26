@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Talk About the New New Power Automate UI](https://dev.to/wyattdave/lets-talk-about-the-new-new-power-automate-ui-1hnn)
-- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
-- [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
-- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
+- [How to Write AI Prompts That Actually Work &lpar;And Make Your Images Look Amazing&rpar;](https://dev.to/jennifer_z_1a474facd8e031/how-to-write-ai-prompts-that-actually-work-and-make-your-images-look-amazing-4og3)
+- [Integrating Books, Clocks and Code ⏰](https://dev.to/cloutboi/integrating-books-clocks-and-code-699)
+- [15 Tips for Enhancing Signup/Login UX](https://dev.to/hashbyt/15-tips-for-enhancing-signuplogin-ux-5di7)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1edb)
 <!-- BLOG-POST-LIST:END -->
 
