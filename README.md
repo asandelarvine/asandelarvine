@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Azure ExpressRoute Gateway: A Step-by-Step Guide with Real-World Benefits](https://dev.to/peter_samuel_052b9056e236/configuring-azure-expressroute-gateway-a-step-by-step-guide-with-real-world-benefits-fhd)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
+- [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
+- [Part-85: 🔹Kubernetes GKE ReplicaSet: Reliability, Load Balancing &amp; Scaling in GCP Cloud](https://dev.to/latchudevops/part-85-kubernetes-gke-replicaset-reliability-load-balancing-scaling-in-gcp-cloud-aea)
+- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
+- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
 <!-- BLOG-POST-LIST:END -->
 
