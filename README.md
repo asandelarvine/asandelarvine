@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-31d5)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1ehp)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-553g)
-- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-1jo1)
+- [Building a Complete User Authentication System with GitHub Copilot Chat: A Step-by-Step Guide](https://dev.to/fatoki_olaitan_3ee4c539e0/building-a-complete-user-authentication-system-with-github-copilot-chat-a-step-by-step-guide-339a)
+- [The Moving Day Disaster: Understanding List Mutations](https://dev.to/aaron_rose_0787cc8b4775a0/the-moving-day-disaster-understanding-list-mutations-d3p)
+- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
+- [GameSpot: Hollow Knight: Silksong Review](https://dev.to/gg_news/gamespot-hollow-knight-silksong-review-56pg)
 <!-- BLOG-POST-LIST:END -->
 
