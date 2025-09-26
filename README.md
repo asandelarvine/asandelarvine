@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
-- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
-- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
-- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
+- [🌐 Understanding Uniface websetocc: Managing Entity Occurrences in Web Applications](https://dev.to/petercode/understanding-uniface-websetocc-managing-entity-occurrences-in-web-applications-1n2e)
+- [📚 Understanding Uniface 10.4&#39;s websave Statement: Converting Component Data to JSON](https://dev.to/petercode/understanding-uniface-104s-websave-statement-converting-component-data-to-json-2iea)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1bbm)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1313)
 <!-- BLOG-POST-LIST:END -->
 
