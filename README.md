@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Your Angular App to Azure](https://dev.to/this-is-angular/deploying-your-angular-app-to-azure-53nc)
-- [Delete Local Branch Git: The Complete Guide to Cleaning Up Your Repositories](https://dev.to/keploy/delete-local-branch-git-the-complete-guide-to-cleaning-up-your-repositories-oo8)
-- [Automating Data Pipelines with Bright Data, n8n, and Airtable](https://dev.to/alifar/automating-data-pipelines-with-bright-data-n8n-and-airtable-126h)
-- [Top 10 JavaScript Frameworks That Will Rule 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/top-10-javascript-frameworks-that-will-rule-2026-5k5)
+- [Configuring Azure ExpressRoute Gateway: A Step-by-Step Guide with Real-World Benefits](https://dev.to/peter_samuel_052b9056e236/configuring-azure-expressroute-gateway-a-step-by-step-guide-with-real-world-benefits-fhd)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
 <!-- BLOG-POST-LIST:END -->
 
