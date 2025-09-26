@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-6bd)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-22n)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1oce)
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3gk4)
+- [☕ Cache Eviction — Lessons from a Small Café](https://dev.to/sumana10/cache-eviction-lessons-from-a-small-cafe-2jog)
+- [USA.... oof](https://dev.to/member_3d2e8190/usa-oof-31pf)
+- [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
 <!-- BLOG-POST-LIST:END -->
 
