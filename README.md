@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Branch para deploy de validação](https://dev.to/eduardoklosowski/branch-para-deploy-de-validacao-441p)
-- [It’s one thing to represent a client. It’s another to join the conspiracy and profit from it.](https://dev.to/michbrowning/its-one-thing-to-represent-a-client-its-another-to-join-the-conspiracy-and-profit-from-it-fpf)
-- [The public deserves to know that Talentcrowd is a company born from stolen property, fraudulent orders, and bankruptcy abuse.](https://dev.to/michbrowning/the-public-deserves-to-know-that-talentcrowd-is-a-company-born-from-stolen-property-fraudulent-4b30)
-- [Why eFuses Matter in Firmware Security: Permanent Storage, Anti-Rollback, and Device Identity](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
+- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
+- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
+- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
+- [Pipetype: TypeScript Unions Bitwise Operators, and My Favorite Failed Experiment](https://dev.to/overthemike/pipetype-typescript-unions-bitwise-operators-and-my-favorite-failed-experiment-1cbk)
 <!-- BLOG-POST-LIST:END -->
 
