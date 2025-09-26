@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☕ Cache Eviction — Lessons from a Small Café](https://dev.to/sumana10/cache-eviction-lessons-from-a-small-cafe-2jog)
-- [USA.... oof](https://dev.to/member_3d2e8190/usa-oof-31pf)
-- [From JSONB to Bitmasks: Faster Flags &amp; Cleaner RLS in Postgres with Go/TS](https://dev.to/ryansgi/from-jsonb-to-bitmasks-faster-flags-cleaner-rls-in-postgres-with-gots-29o2)
-- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
+- [Body tag - HTML](https://dev.to/melina_bernard_7fce15e253/body-tag-html-1kp3)
+- [🧠 Tiny Yet Mighty: How TinyGo is Revolutionizing IoT and Embedded Development in 2024](https://dev.to/ekwoster/tiny-yet-mighty-how-tinygo-is-revolutionizing-iot-and-embedded-development-in-2024-40o9)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-12if)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-16om)
 <!-- BLOG-POST-LIST:END -->
 
