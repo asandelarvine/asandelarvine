@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk](https://dev.to/gagreatprogrammer/memory-forensics-uncovering-attacker-secrets-that-never-touch-the-disk-6i0)
-- [Context and Context Windows: What You Need to Know](https://dev.to/knitli/context-and-context-windows-what-you-need-to-know-h4k)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh)
+- [Steering AI Agents in Monorepos with AGENTS.md](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
+- [Ever wondered what&#39;s the tech behind blockchains?](https://dev.to/5uig3n3ris/ever-wondered-whats-the-tech-behind-blockchains-4mgc)
+- [🚀 Using enum with key-value objects in the Front-end: a more scalable approach](https://dev.to/wallace-leo/using-enum-with-key-value-objects-in-the-front-end-a-more-scalable-approach-3ij2)
+- [If You’re New to Web3, Start Here](https://dev.to/thekarlesi/if-youre-new-to-web3-start-here-1jni)
 <!-- BLOG-POST-LIST:END -->
 
