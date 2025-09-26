@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
-- [Part-85: 🔹Kubernetes GKE ReplicaSet: Reliability, Load Balancing &amp; Scaling in GCP Cloud](https://dev.to/latchudevops/part-85-kubernetes-gke-replicaset-reliability-load-balancing-scaling-in-gcp-cloud-aea)
-- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
-- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
+- [Model Context Protocol &lpar;MCP&rpar;: What Developers Need to Know](https://dev.to/t2c/model-context-protocol-mcp-what-developers-need-to-know-gnp)
+- [The Largest NPM Supply Chain Attack Ever and How to Defend Against It](https://dev.to/aerabi/the-largest-npm-supply-chain-attack-ever-and-how-to-defend-against-it-9a6)
+- [NLOV on Solana: Utility Token Design for a Decentralized AI Compute Marketplace](https://dev.to/neurolov__ai/nlov-on-solana-utility-token-design-for-a-decentralized-ai-compute-marketplace-cp5)
+- [How AI Helped a Developer Master SQL Server Performance Optimization Without DBA Training](https://dev.to/dbai/how-ai-helped-a-developer-master-sql-server-performance-optimization-without-dba-training-32a4)
 <!-- BLOG-POST-LIST:END -->
 
