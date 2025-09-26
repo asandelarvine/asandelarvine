@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will the Web Survive Without Browsers?](https://dev.to/dct_technology/will-the-web-survive-without-browsers-54o8)
-- [Customizing the Stubborn Int&#39;l Phone &lt;input&gt;](https://dev.to/gaatif/customizing-the-stubborn-intl-phone-2fa0)
-- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
-- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
+- [Customer Segmentation in E-Commerce: Driving Growth Through Personalization](https://dev.to/anshuman_816f8012be0c9b6c/customer-segmentation-in-e-commerce-driving-growth-through-personalization-1ibo)
+- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
+- [Anix: A Streamlined Platform for Anime Enthusiasts](https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m)
+- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
 <!-- BLOG-POST-LIST:END -->
 
