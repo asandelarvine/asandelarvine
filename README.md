@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCJSGame TileMap Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-tilemap-class-complete-reference-guide-3f8)
-- [Coding Challenge Practice - Question 17](https://dev.to/tomivan/coding-challenge-practice-question-17-1m6e)
-- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
-- [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-31d5)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1ehp)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-553g)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-1jo1)
 <!-- BLOG-POST-LIST:END -->
 
