@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect Figma MCP to KIRO IDE](https://dev.to/preshnwoko/how-to-connect-figma-mcp-to-kiro-ide-2fhl)
-- [Automate Your Complex Workflows with Sub-Recipes in goose](https://dev.to/blockopensource/automate-your-complex-workflows-with-sub-recipes-in-goose-23bd)
-- [The best &lpar;free - cheap&rpar; AI friendly Cli and Coding environments](https://dev.to/soulentheo/the-best-free-cheap-ai-friendly-cli-and-coding-environments-16m6)
-- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
+- [Memory Forensics: Uncovering Attacker Secrets That Never Touch the Disk](https://dev.to/gagreatprogrammer/memory-forensics-uncovering-attacker-secrets-that-never-touch-the-disk-6i0)
+- [Context and Context Windows: What You Need to Know](https://dev.to/knitli/context-and-context-windows-what-you-need-to-know-h4k)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh)
 <!-- BLOG-POST-LIST:END -->
 
