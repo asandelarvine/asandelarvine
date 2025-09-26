@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Status Page Lied to Us: 7 Steps to Building a Communication Platform Customers Actually Trust](https://dev.to/mthrn/our-status-page-lied-to-us-7-steps-to-building-a-communication-platform-customers-actually-trust-53lg)
-- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
-- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
+- [TCJSGame TileMap Class: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-tilemap-class-complete-reference-guide-3f8)
+- [Coding Challenge Practice - Question 17](https://dev.to/tomivan/coding-challenge-practice-question-17-1m6e)
+- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
+- [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
 <!-- BLOG-POST-LIST:END -->
 
