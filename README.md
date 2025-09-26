@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar;: What Developers Need to Know](https://dev.to/t2c/model-context-protocol-mcp-what-developers-need-to-know-gnp)
-- [The Largest NPM Supply Chain Attack Ever and How to Defend Against It](https://dev.to/aerabi/the-largest-npm-supply-chain-attack-ever-and-how-to-defend-against-it-9a6)
-- [NLOV on Solana: Utility Token Design for a Decentralized AI Compute Marketplace](https://dev.to/neurolov__ai/nlov-on-solana-utility-token-design-for-a-decentralized-ai-compute-marketplace-cp5)
-- [How AI Helped a Developer Master SQL Server Performance Optimization Without DBA Training](https://dev.to/dbai/how-ai-helped-a-developer-master-sql-server-performance-optimization-without-dba-training-32a4)
+- [🚀 Безкоштовне менторство з Frontend розробки](https://dev.to/serhii_muzalov_58eb4988af/biezkoshtovnie-mientorstvo-z-frontend-rozrobki-lj0)
+- [The Microflow Mirage: When Pretty Boxes Become a Developer’s Prison](https://dev.to/hotfixhero/the-microflow-mirage-when-pretty-boxes-become-a-developers-prison-2f3e)
+- [Introducing Smart Icons Kit](https://dev.to/mak3/introducing-smart-icons-kit-1g8)
+- [[Boost]](https://dev.to/ralphsebastian/-4783)
 <!-- BLOG-POST-LIST:END -->
 
