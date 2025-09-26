@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customer Segmentation in E-Commerce: Driving Growth Through Personalization](https://dev.to/anshuman_816f8012be0c9b6c/customer-segmentation-in-e-commerce-driving-growth-through-personalization-1ibo)
-- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0)
-- [Anix: A Streamlined Platform for Anime Enthusiasts](https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m)
-- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9)
+- [Let&#39;s Talk About the New New Power Automate UI](https://dev.to/wyattdave/lets-talk-about-the-new-new-power-automate-ui-1hnn)
+- [Make Any List Keyboard-Friendly in Minutes](https://dev.to/brianmtreese/make-any-list-keyboard-friendly-in-minutes-3pbj)
+- [Python Access Modifiers Explained for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/python-access-modifiers-explained-for-beginners-i3o)
+- [Day-5: SELinux | 100 Days of DevOps](https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p)
 <!-- BLOG-POST-LIST:END -->
 
