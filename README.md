@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Steering AI Agents in Monorepos with AGENTS.md](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
-- [Ever wondered what&#39;s the tech behind blockchains?](https://dev.to/5uig3n3ris/ever-wondered-whats-the-tech-behind-blockchains-4mgc)
-- [🚀 Using enum with key-value objects in the Front-end: a more scalable approach](https://dev.to/wallace-leo/using-enum-with-key-value-objects-in-the-front-end-a-more-scalable-approach-3ij2)
-- [If You’re New to Web3, Start Here](https://dev.to/thekarlesi/if-youre-new-to-web3-start-here-1jni)
+- [Our Status Page Lied to Us: 7 Steps to Building a Communication Platform Customers Actually Trust](https://dev.to/mthrn/our-status-page-lied-to-us-7-steps-to-building-a-communication-platform-customers-actually-trust-53lg)
+- [Getting Started with MCP: Connecting Clients &amp; 10 Essential MCPs you should try](https://dev.to/jefreesujit/getting-started-with-mcp-connecting-clients-10-essential-mcps-you-should-try-3a5)
+- [Tracking Power Outages with Raspberry Pi + ESP32 + Telegram](https://dev.to/cray2015/tracking-power-outages-with-raspberry-pi-esp32-telegram-5hdo)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-32p8)
 <!-- BLOG-POST-LIST:END -->
 
