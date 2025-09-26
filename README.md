@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
-- [Lists as Function Interfaces: *args, Mutable Defaults, and the One-Liner Power](https://dev.to/aaron_rose_0787cc8b4775a0/lists-as-function-interfaces-args-mutable-defaults-and-the-one-liner-power-3d9h)
-- [Why I Use Cold Backups Instead of Relying Only on Snapshots | by Faruk Ahmed | Sep, 2025](https://dev.to/cyberwebpen/why-i-use-cold-backups-instead-of-relying-only-on-snapshots-by-faruk-ahmed-sep-2025-3fb)
-- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
+- [Branch para deploy de validação](https://dev.to/eduardoklosowski/branch-para-deploy-de-validacao-441p)
+- [It’s one thing to represent a client. It’s another to join the conspiracy and profit from it.](https://dev.to/michbrowning/its-one-thing-to-represent-a-client-its-another-to-join-the-conspiracy-and-profit-from-it-fpf)
+- [The public deserves to know that Talentcrowd is a company born from stolen property, fraudulent orders, and bankruptcy abuse.](https://dev.to/michbrowning/the-public-deserves-to-know-that-talentcrowd-is-a-company-born-from-stolen-property-fraudulent-4b30)
+- [Why eFuses Matter in Firmware Security: Permanent Storage, Anti-Rollback, and Device Identity](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
 <!-- BLOG-POST-LIST:END -->
 
