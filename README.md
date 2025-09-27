@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-20jn)
-- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-1be6)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5fo4)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-26d3)
+- [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
+- [S — Slice to Essentials &lpar;build the thin slice&rpar;](https://dev.to/codebrainr/s-slice-to-essentials-build-the-thin-slice-4b18)
+- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
+- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
 <!-- BLOG-POST-LIST:END -->
 
