@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All about Gradient Descent](https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo)
-- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm)
+- [100 Days of DevOps: Day 53](https://dev.to/wycliffealphus/100-days-of-devops-day-53-3ida)
+- [Uncovering Patterns in Your Data with Clustering in Tableau](https://dev.to/dipti_moryani_9137d0a2e44/uncovering-patterns-in-your-data-with-clustering-in-tableau-415i)
+- [Part-89: 🔄 Kubernetes Deployments: Rollbacks &amp; Rolling Restarts in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-89-kubernetes-deployments-rollbacks-rolling-restarts-in-gcp-google-kubernetes-engine-j5e)
+- [Understanding `readonly` in TypeScript](https://dev.to/safal_bhandari/understanding-readonly-in-typescript-mm4)
 <!-- BLOG-POST-LIST:END -->
 
