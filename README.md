@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: Understanding the Intelligence Revolution Shaping Our Future](https://dev.to/sia_negi21/ai-understanding-the-intelligence-revolution-shaping-our-future-jgn)
-- [Per-Object Permissions for Elasticsearch Lists in Django Websites](https://dev.to/djangotricks/per-object-permissions-for-elasticsearch-lists-in-django-websites-2427)
-- [How Can College Students Make Money Online or Find Internships? 💸🎓](https://dev.to/nish2005karsh/how-can-college-students-make-money-online-or-find-internships-1jh2)
-- [Connecting to the Ethereum Blockchain](https://dev.to/loading_blocks/connecting-to-the-ethereum-blockchain-3cl0)
+- [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
+- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
+- [I Like To Make Stuff: Yes, I Made a Giant Noodle Grabber...](https://dev.to/maker_youtube/i-like-to-make-stuff-yes-i-made-a-giant-noodle-grabber-21ae)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ddm)
 <!-- BLOG-POST-LIST:END -->
 
