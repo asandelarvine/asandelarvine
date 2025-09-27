@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3k83)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1pe)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-icm)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-np5)
+- [Introdução ao Apache Kafka](https://dev.to/programadriano/introducao-ao-apache-kafka-2haj)
+- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
+- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
+- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
 <!-- BLOG-POST-LIST:END -->
 
