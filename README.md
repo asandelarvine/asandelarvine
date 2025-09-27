@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech News: September 27, 2025](https://dev.to/om_shree_0709/major-tech-news-september-27-2025-1477)
-- [AWS Storage Gateway: Cached Volumes or Stored Volumes ?](https://dev.to/narednra_reddyyadama_d64/aws-storage-gateway-cached-volumes-or-stored-volumes--3mab)
-- [I Like To Make Stuff: Yes, I Made a Giant Noodle Grabber...](https://dev.to/maker_youtube/i-like-to-make-stuff-yes-i-made-a-giant-noodle-grabber-21ae)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ddm)
+- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
+- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
+- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
+- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
 <!-- BLOG-POST-LIST:END -->
 
