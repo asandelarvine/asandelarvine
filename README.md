@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
-- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
-- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
-- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5hkd)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3gmc)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-n51)
 <!-- BLOG-POST-LIST:END -->
 
