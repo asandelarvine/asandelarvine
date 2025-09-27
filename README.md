@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are LLMs So Slow? And How We&#39;re Making Them Faster](https://dev.to/jiminlee/why-are-llms-so-slow-and-how-were-making-them-faster-5ai5)
-- [Automating My Budget Tracker in Notion with AI + BankSync](https://dev.to/cjoy/automating-my-budget-tracker-in-notion-with-ai-banksync-47ok)
-- [Getting Started with AI Agent Development with LangChain &amp; LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2)
-- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
+- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
+- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
+- [Tech News 26th Sept](https://dev.to/thedeepseeker/tech-news-26th-sept-271j)
+- [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
 <!-- BLOG-POST-LIST:END -->
 
