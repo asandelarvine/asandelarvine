@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Complete User Authentication System with GitHub Copilot Chat: A Step-by-Step Guide](https://dev.to/fatoki_olaitan_3ee4c539e0/building-a-complete-user-authentication-system-with-github-copilot-chat-a-step-by-step-guide-339a)
-- [The Moving Day Disaster: Understanding List Mutations](https://dev.to/aaron_rose_0787cc8b4775a0/the-moving-day-disaster-understanding-list-mutations-d3p)
-- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
-- [GameSpot: Hollow Knight: Silksong Review](https://dev.to/gg_news/gamespot-hollow-knight-silksong-review-56pg)
+- [Why Are LLMs So Slow? And How We&#39;re Making Them Faster](https://dev.to/jiminlee/why-are-llms-so-slow-and-how-were-making-them-faster-5ai5)
+- [Automating My Budget Tracker in Notion with AI + BankSync](https://dev.to/cjoy/automating-my-budget-tracker-in-notion-with-ai-banksync-47ok)
+- [Getting Started with AI Agent Development with LangChain &amp; LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2)
+- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
 <!-- BLOG-POST-LIST:END -->
 
