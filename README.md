@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-4-f4j)
-- [How to Add a Spotify Recently Played Widget to Your Astro Portfolio](https://dev.to/ymmtyy_/how-to-add-a-spotify-recently-played-widget-to-your-astro-portfolio-3f54)
-- [How to Store Persistent Data Across Workflows Executions in n8n](https://dev.to/fedtti/how-to-store-persistent-data-across-workflows-executions-in-n8n-1fan)
-- [The Beauty of Programming &lpar;2001&rpar;](https://dev.to/technoblogger14o3/the-beauty-of-programming-2001-4c6p)
+- [Breaking down the text barrier of LLM chatbots with KendoReact and MCP-UI](https://dev.to/hichamelbsi/breaking-down-the-text-barrier-of-llm-chatbots-with-kendoreact-and-mcp-ui-1ico)
+- [How to Build a Simple &#39;Indian Festival API&#39; with Python and a JSON Dataset](https://dev.to/yash_ingawale_aac9b21247a/how-to-build-a-simple-indian-festival-api-with-python-and-a-json-dataset-11de)
+- [[Boost]](https://dev.to/chris3857/-56e0)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-91n)
 <!-- BLOG-POST-LIST:END -->
 
