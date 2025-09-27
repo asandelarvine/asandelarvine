@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
-- [Why Stable E2E and Integration Tests Matter — and How to Achieve It with Docker and a Slim Database Copy](https://dev.to/artur_benagraph_fb74d5fd9/why-stable-e2e-and-integration-tests-matter-and-how-to-achieve-it-with-docker-and-a-slim-database-88h)
-- [Why the US-100 Sensor Belongs in Your Next Arduino or ESP32 Project](https://dev.to/julia12/introducing-the-us-100-ultrasonic-ranging-module-2-cm-45-m-440)
-- [💪🧠How to Boost your Brain for Free &lpar;Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
+- [Testing Ollama Web Search 🔍 and a Thinking Model 💭](https://dev.to/aairom/testing-ollama-web-search-and-a-thinking-model-1dh7)
+- [How Do Software Deployments Work?](https://dev.to/karthikkorrayi/how-do-software-deployments-work-15i2)
+- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1)
+- [Syncing Multiple Tabs in a Browser Application](https://dev.to/mayank_gupta/syncing-multiple-tabs-in-a-browser-application-9dp)
 <!-- BLOG-POST-LIST:END -->
 
