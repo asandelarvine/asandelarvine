@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking down the text barrier of LLM chatbots with KendoReact and MCP-UI](https://dev.to/hichamelbsi/breaking-down-the-text-barrier-of-llm-chatbots-with-kendoreact-and-mcp-ui-1ico)
-- [How to Build a Simple &#39;Indian Festival API&#39; with Python and a JSON Dataset](https://dev.to/yash_ingawale_aac9b21247a/how-to-build-a-simple-indian-festival-api-with-python-and-a-json-dataset-11de)
-- [[Boost]](https://dev.to/chris3857/-56e0)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-91n)
+- [AI: Understanding the Intelligence Revolution Shaping Our Future](https://dev.to/sia_negi21/ai-understanding-the-intelligence-revolution-shaping-our-future-jgn)
+- [Per-Object Permissions for Elasticsearch Lists in Django Websites](https://dev.to/djangotricks/per-object-permissions-for-elasticsearch-lists-in-django-websites-2427)
+- [How Can College Students Make Money Online or Find Internships? 💸🎓](https://dev.to/nish2005karsh/how-can-college-students-make-money-online-or-find-internships-1jh2)
+- [Connecting to the Ethereum Blockchain](https://dev.to/loading_blocks/connecting-to-the-ethereum-blockchain-3cl0)
 <!-- BLOG-POST-LIST:END -->
 
