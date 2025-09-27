@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps Into Web Scraping](https://dev.to/nelson_orina_a538ba52e9ed/first-steps-into-web-scraping-gde)
-- [From Googling Errors to Solving Them Like a Pro](https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh)
-- [List , ArrayList and Methods](https://dev.to/preethi_nandhagopal_6d075/list-arraylist-and-methods-3moe)
-- [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
+- [All about Gradient Descent](https://dev.to/_a_m_a_n_pandey/all-about-gradient-descent-15bo)
+- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm)
 <!-- BLOG-POST-LIST:END -->
 
