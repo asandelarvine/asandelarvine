@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 53](https://dev.to/wycliffealphus/100-days-of-devops-day-53-3ida)
-- [Uncovering Patterns in Your Data with Clustering in Tableau](https://dev.to/dipti_moryani_9137d0a2e44/uncovering-patterns-in-your-data-with-clustering-in-tableau-415i)
-- [Part-89: 🔄 Kubernetes Deployments: Rollbacks &amp; Rolling Restarts in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-89-kubernetes-deployments-rollbacks-rolling-restarts-in-gcp-google-kubernetes-engine-j5e)
-- [Understanding `readonly` in TypeScript](https://dev.to/safal_bhandari/understanding-readonly-in-typescript-mm4)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-20jn)
+- [CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-1be6)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5fo4)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-26d3)
 <!-- BLOG-POST-LIST:END -->
 
