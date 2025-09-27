@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-1i3c)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5bli)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-o31)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-243c)
+- [Develop a native Android app : PDF Voice Reader](https://dev.to/sravnay/develop-a-native-android-app-pdf-voice-reader-3ng3)
+- [Let’s talk about vibe coding](https://dev.to/alexcloudstar/lets-talk-about-vibe-coding-5cc0)
+- [2026: When AI Weapons, Crypto Cash, and Geopolitics Rewrote the Rules of Power](https://dev.to/glorioustechs/2026-when-ai-weapons-crypto-cash-and-geopolitics-rewrote-the-rules-of-power-3lac)
+- [EC2 Instance Store &amp; EBS explained](https://dev.to/wakeup_flower_8591a6cb6a9/ec2-instance-store-ebs-explained-1d08)
 <!-- BLOG-POST-LIST:END -->
 
