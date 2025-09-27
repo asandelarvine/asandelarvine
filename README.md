@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-91: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; - Node Pools &amp; Node Selectors](https://dev.to/latchudevops/part-91-google-kubernetes-engine-gke-node-pools-node-selectors-50k3)
-- [S — Slice to Essentials &lpar;build the thin slice&rpar;](https://dev.to/codebrainr/s-slice-to-essentials-build-the-thin-slice-4b18)
-- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
-- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
+- [The Art of Troubleshooting as a Product Manager 11 steps to fix what’s broken &lpar;without losing your mind&rpar;](https://dev.to/uladshauchenka/the-art-of-troubleshooting-as-a-product-manager-11-steps-to-fix-whats-broken-without-losing-your-2j0e)
+- [Part-93: 🚀 To Implement the K8s DaemonSets in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-93-to-implement-the-k8s-daemonsets-in-google-kubernetes-engine-gcp-432i)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3ko6)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1df1)
 <!-- BLOG-POST-LIST:END -->
 
