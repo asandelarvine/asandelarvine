@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5f02)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-j8e)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11a6)
+- [First Steps Into Web Scraping](https://dev.to/nelson_orina_a538ba52e9ed/first-steps-into-web-scraping-gde)
+- [From Googling Errors to Solving Them Like a Pro](https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh)
+- [List , ArrayList and Methods](https://dev.to/preethi_nandhagopal_6d075/list-arraylist-and-methods-3moe)
+- [UX for AI Agents: Designing Interfaces That Machines, Not Humans, Use](https://dev.to/dct_technology/ux-for-ai-agents-designing-interfaces-that-machines-not-humans-use-1epa)
 <!-- BLOG-POST-LIST:END -->
 
