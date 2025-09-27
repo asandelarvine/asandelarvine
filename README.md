@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Troubleshooting as a Product Manager 11 steps to fix what’s broken &lpar;without losing your mind&rpar;](https://dev.to/uladshauchenka/the-art-of-troubleshooting-as-a-product-manager-11-steps-to-fix-whats-broken-without-losing-your-2j0e)
-- [Part-93: 🚀 To Implement the K8s DaemonSets in Google Kubernetes Engine &lpar;GCP&rpar;](https://dev.to/latchudevops/part-93-to-implement-the-k8s-daemonsets-in-google-kubernetes-engine-gcp-432i)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3ko6)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1df1)
+- [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
+- [Why Stable E2E and Integration Tests Matter — and How to Achieve It with Docker and a Slim Database Copy](https://dev.to/artur_benagraph_fb74d5fd9/why-stable-e2e-and-integration-tests-matter-and-how-to-achieve-it-with-docker-and-a-slim-database-88h)
+- [Why the US-100 Sensor Belongs in Your Next Arduino or ESP32 Project](https://dev.to/julia12/introducing-the-us-100-ultrasonic-ranging-module-2-cm-45-m-440)
+- [💪🧠How to Boost your Brain for Free &lpar;Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
 <!-- BLOG-POST-LIST:END -->
 
