@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
-- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
-- [Tech News 26th Sept](https://dev.to/thedeepseeker/tech-news-26th-sept-271j)
-- [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
+- [My Adventures with Client-Side AI Models: Lessons from Trying Transformer.js](https://dev.to/ujjavala/my-adventures-with-client-side-ai-models-lessons-from-trying-transformerjs-163n)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5f02)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-j8e)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-11a6)
 <!-- BLOG-POST-LIST:END -->
 
