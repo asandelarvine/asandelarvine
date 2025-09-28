@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Out-of-the-Box Email-to-Case Isn’t Enough in Dynamics 365 CE](https://dev.to/nikhildynamicsce/when-out-of-the-box-email-to-case-isnt-enough-in-dynamics-365-ce-5d26)
-- [📊 Understanding the Uniface $abs Function: Getting Absolute Values Made Simple](https://dev.to/petercode/understanding-the-uniface-abs-function-getting-absolute-values-made-simple-2jo1)
-- [Automating Scalable Web Infrastructure with AWD Cloudformation](https://dev.to/hajixhayjhay/automating-scalable-web-infrastructure-with-awd-cloudformation-3c78)
-- [🔢 Understanding the $acos Function in Uniface 10.4: A Developer&#39;s Guide](https://dev.to/petercode/understanding-the-acos-function-in-uniface-104-a-developers-guide-31hf)
+- [Playing Quantum Tic-Tac-Toe with Python and Qiskit](https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289)
+- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi)
 <!-- BLOG-POST-LIST:END -->
 
