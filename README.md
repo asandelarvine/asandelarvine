@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Ending &lpar;Last AI song&rpar;](https://dev.to/jacklehamster/happy-ending-last-ai-song-3n0m)
-- [PHP 8.5: The Pipe Operator](https://dev.to/spo0q/php-85-the-pipe-operator-3f5o)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-428n)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5hp)
+- [Common Agentic AI Architecture patterns](https://dev.to/knitesh/common-agentic-ai-architecture-patterns-522d)
+- [Canvas to Code: Dashboard Layouts with KendoReact](https://dev.to/_boweii/canvas-to-code-dashboard-layouts-with-kendoreact-3kl4)
+- [Custom Photo Frames &amp; Wall Art: Memories That Last Forever](https://dev.to/smithwilliam/custom-photo-frames-wall-art-memories-that-last-forever-3g7l)
+- [Engraved Jewellery Gifts That Tell a Story](https://dev.to/smithwilliam/engraved-jewellery-gifts-that-tell-a-story-1lhc)
 <!-- BLOG-POST-LIST:END -->
 
