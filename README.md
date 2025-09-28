@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Unleashing AI Agents with Node.js: Build an Autonomous GPT-Powered Web Scraper in 50 Lines!](https://dev.to/ekwoster/unleashing-ai-agents-with-nodejs-build-an-autonomous-gpt-powered-web-scraper-in-50-lines-1bj9)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2hdo)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-hfd)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3lee)
+- [Deno vs Node.js: Is 2026 Finally the Year Deno Breaks Through?](https://dev.to/lamri_abdellahramdane_15/deno-vs-nodejs-is-2026-finally-the-year-deno-breaks-through-1fe8)
+- [Compare NLB &amp; ALB with metaphor](https://dev.to/wakeup_flower_8591a6cb6a9/compare-nlb-alb-with-metaphor-582p)
+- [5 Best LLM Gateways for Scaling AI Applications in 2025](https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh)
+- [Phoenix Panels and the Swarm: Building a Living NPC Simulator](https://dev.to/matrixswarm/phoenix-panels-and-the-swarm-building-a-living-npc-simulator-32j2)
 <!-- BLOG-POST-LIST:END -->
 
