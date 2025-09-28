@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
-- [Mastering Ubuntu: The Essential Commands You Need to Know](https://dev.to/isaiah_izibili_7a39b7d627/mastering-ubuntu-the-essential-commands-you-need-to-know-5097)
-- [What’s the one online utility you use most often? I&#39;m curious to know what other small tools people would love to see added.](https://dev.to/asifnawaz1220/whats-the-one-online-utility-you-use-most-often-im-curious-to-know-what-other-small-tools-259c)
-- [Your New Pair Programmer: The AI Assistant](https://dev.to/rgbos/your-new-pair-programmer-the-ai-assistant-4e98)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-5e47)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-44d5)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3o5i)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1aa6)
 <!-- BLOG-POST-LIST:END -->
 
