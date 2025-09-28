@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Agentic AI Architecture patterns](https://dev.to/knitesh/common-agentic-ai-architecture-patterns-522d)
-- [Canvas to Code: Dashboard Layouts with KendoReact](https://dev.to/_boweii/canvas-to-code-dashboard-layouts-with-kendoreact-3kl4)
-- [Custom Photo Frames &amp; Wall Art: Memories That Last Forever](https://dev.to/smithwilliam/custom-photo-frames-wall-art-memories-that-last-forever-3g7l)
-- [Engraved Jewellery Gifts That Tell a Story](https://dev.to/smithwilliam/engraved-jewellery-gifts-that-tell-a-story-1lhc)
+- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc)
+- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj)
+- [Understanding Polyfills: Bridging the Gap in Modern and Old Web Browsers](https://dev.to/splintersword/understanding-polyfills-bridging-the-gap-in-modern-and-old-web-browsers-k04)
+- [Unlocking AI&#39;s Imagination: Neuron-Tracing for Next-Gen 3D Models](https://dev.to/arvind_sundararajan/unlocking-ais-imagination-neuron-tracing-for-next-gen-3d-models-4pae)
 <!-- BLOG-POST-LIST:END -->
 
