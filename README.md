@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno vs Node.js: Is 2026 Finally the Year Deno Breaks Through?](https://dev.to/lamri_abdellahramdane_15/deno-vs-nodejs-is-2026-finally-the-year-deno-breaks-through-1fe8)
-- [Compare NLB &amp; ALB with metaphor](https://dev.to/wakeup_flower_8591a6cb6a9/compare-nlb-alb-with-metaphor-582p)
-- [5 Best LLM Gateways for Scaling AI Applications in 2025](https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh)
-- [Phoenix Panels and the Swarm: Building a Living NPC Simulator](https://dev.to/matrixswarm/phoenix-panels-and-the-swarm-building-a-living-npc-simulator-32j2)
+- [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
+- [InvalidSignature in Node with AWS SDK](https://dev.to/aws-builders/invalidsignature-in-node-with-aws-sdk-2nao)
+- [Generative AI &amp; LLMs Revolutionize E2E Test Automation](https://dev.to/saswata_mukherjee_24a98f5/generative-ai-llms-revolutionize-e2e-test-automation-33d)
+- [Step-by-Step Guide to Styling Froala Editor with Custom Skins and Icons](https://dev.to/ideradevtools/step-by-step-guide-to-styling-froala-editor-with-custom-skins-and-icons-57nj)
 <!-- BLOG-POST-LIST:END -->
 
