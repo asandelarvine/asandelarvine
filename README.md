@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
-- [InvalidSignature in Node with AWS SDK](https://dev.to/aws-builders/invalidsignature-in-node-with-aws-sdk-2nao)
-- [Generative AI &amp; LLMs Revolutionize E2E Test Automation](https://dev.to/saswata_mukherjee_24a98f5/generative-ai-llms-revolutionize-e2e-test-automation-33d)
-- [Step-by-Step Guide to Styling Froala Editor with Custom Skins and Icons](https://dev.to/ideradevtools/step-by-step-guide-to-styling-froala-editor-with-custom-skins-and-icons-57nj)
+- [Begin your journey with Amazon Q Developer](https://dev.to/dmitriy_trunov_9a09a497b1/begin-your-journey-with-amazon-q-developer-4dp)
+- [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
+- [📅 Building a Safe Date Input System in Java ☕](https://dev.to/mohamad_mhana/building-a-safe-date-input-system-in-java-2l6l)
+- [SingleFlight: Smart Request Deduplication](https://dev.to/serifcolakel/singleflight-smart-request-deduplication-33og)
 <!-- BLOG-POST-LIST:END -->
 
