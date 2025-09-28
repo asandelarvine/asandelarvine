@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
-- [Migration Guru v1.2 – Edit Migrations Online with PHP Validation!](https://dev.to/nikelioum/migration-guru-v12-edit-migrations-online-with-php-validation-20if)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-a9c)
-- [My First Real Project - Progressio Fullstack Ecommerce Website](https://dev.to/uzzy412_73/my-first-real-project-progressio-fullstack-ecommerce-website-1n3e)
+- [What does Frontend even mean anymore?](https://dev.to/mdohr07/what-does-frontend-even-mean-anymore-4344)
+- [Tu remesa.com](https://dev.to/pedro_eliasuzcategui_db2/tu-remesacom-3ao6)
+- [I Tried Coding Without AI Code Editors… and Instantly Remembered Why I Pay for Them](https://dev.to/manish_vishwakarma_1a5348/i-tried-coding-without-ai-code-editors-and-instantly-remembered-why-i-pay-for-them-4324)
+- [The SaaS Metrics Cheat Sheet You Actually Need 🧩](https://dev.to/sonu_goswami/the-saas-metrics-cheat-sheet-you-actually-need-246p)
 <!-- BLOG-POST-LIST:END -->
 
