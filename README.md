@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Begin your journey with Amazon Q Developer](https://dev.to/dmitriy_trunov_9a09a497b1/begin-your-journey-with-amazon-q-developer-4dp)
-- [How to Use Gmail +Aliases to Create Extra Email Addresses](https://dev.to/jajera/how-to-use-gmail-aliases-to-create-extra-email-addresses-1g14)
-- [📅 Building a Safe Date Input System in Java ☕](https://dev.to/mohamad_mhana/building-a-safe-date-input-system-in-java-2l6l)
-- [SingleFlight: Smart Request Deduplication](https://dev.to/serifcolakel/singleflight-smart-request-deduplication-33og)
+- [Arquitetura Cliente-Servidor com Go: Aplicações Escaláveis para a Web](https://dev.to/joo_miguelfortunatorit/arquitetura-cliente-servidor-com-go-aplicacoes-escalaveis-para-a-web-1379)
+- [Team Dashboard - Manage Your Team Efficiently with KendoReact](https://dev.to/sumeetweb/team-dashboard-manage-your-team-efficiently-with-kendoreact-5bdc)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1m4o)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-276j)
 <!-- BLOG-POST-LIST:END -->
 
