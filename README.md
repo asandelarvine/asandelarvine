@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA Network+ N10-009 5.3 Study Guide: Routing, Switching, and IP Issues](https://dev.to/andrew_despres/comptia-network-n10-009-53-study-guide-routing-switching-and-ip-issues-28i6)
-- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
-- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
-- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
+- [Consultify: Your Doctor Speaks Every Language](https://dev.to/iamceejay/consultify-your-doctor-speaks-every-language-png)
+- [Dotenv files annoyed me into writing Polyenv](https://dev.to/withholm/dotenv-files-annoyed-me-into-writing-polyenv-2fe)
+- [I Failed My First Software Engineering Interview — And Here’s What I Learned](https://dev.to/nulfacedesigner/i-failed-my-first-software-engineering-interview-and-heres-what-i-learned-10h4)
+- [Efficient script loading strategy](https://dev.to/yoriiis/efficient-script-loading-strategy-12ik)
 <!-- BLOG-POST-LIST:END -->
 
