@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura Cliente-Servidor com Go: Aplicações Escaláveis para a Web](https://dev.to/joo_miguelfortunatorit/arquitetura-cliente-servidor-com-go-aplicacoes-escalaveis-para-a-web-1379)
-- [Team Dashboard - Manage Your Team Efficiently with KendoReact](https://dev.to/sumeetweb/team-dashboard-manage-your-team-efficiently-with-kendoreact-5bdc)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1m4o)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-276j)
+- [CompTIA Network+ N10-009 5.3 Study Guide: Routing, Switching, and IP Issues](https://dev.to/andrew_despres/comptia-network-n10-009-53-study-guide-routing-switching-and-ip-issues-28i6)
+- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
+- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
+- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
 <!-- BLOG-POST-LIST:END -->
 
