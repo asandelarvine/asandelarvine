@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Awesome LLM Resources – Curated Repo + Website](https://dev.to/vineeth98/awesome-llm-resources-curated-repo-website-3jf3)
-- [Setting Up a WireGuard VPN Client on Linux](https://dev.to/joshrothe/setting-up-a-wireguard-vpn-client-on-linux-3aan)
-- [Free Logo Design Support for Web Dev Projects Here](https://dev.to/tom_guo_7c124cceed3827683/free-logo-design-support-for-web-dev-projects-here-49gd)
-- [JavaScript Strict Mode Explained: A Beginner’s Guide to ‘use strict’](https://dev.to/wisdomudo/javascript-strict-mode-explained-a-beginners-guide-to-use-strict-c1)
+- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
+- [Mastering Ubuntu: The Essential Commands You Need to Know](https://dev.to/isaiah_izibili_7a39b7d627/mastering-ubuntu-the-essential-commands-you-need-to-know-5097)
+- [What’s the one online utility you use most often? I&#39;m curious to know what other small tools people would love to see added.](https://dev.to/asifnawaz1220/whats-the-one-online-utility-you-use-most-often-im-curious-to-know-what-other-small-tools-259c)
+- [Your New Pair Programmer: The AI Assistant](https://dev.to/rgbos/your-new-pair-programmer-the-ai-assistant-4e98)
 <!-- BLOG-POST-LIST:END -->
 
