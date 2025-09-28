@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playing Quantum Tic-Tac-Toe with Python and Qiskit](https://dev.to/graveybeard/playing-quantum-tic-tac-toe-with-python-and-qiskit-2289)
-- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi)
+- [Go &lpar;Golang&rpar; Basic - Data Collections: Array, Slice, and Map](https://dev.to/andidev30/go-golang-data-collections-array-slice-and-map-15ei)
+- [SIEM vs. SOAR](https://dev.to/godofgeeks/siem-vs-soar-44h)
+- [What is React Framer Motion?](https://dev.to/ubbaobada/what-is-react-framer-motion-e4l)
+- [C# Arrays](https://dev.to/nouribram/c-arrays-150m)
 <!-- BLOG-POST-LIST:END -->
 
