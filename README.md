@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What does Frontend even mean anymore?](https://dev.to/mdohr07/what-does-frontend-even-mean-anymore-4344)
-- [Tu remesa.com](https://dev.to/pedro_eliasuzcategui_db2/tu-remesacom-3ao6)
-- [I Tried Coding Without AI Code Editors… and Instantly Remembered Why I Pay for Them](https://dev.to/manish_vishwakarma_1a5348/i-tried-coding-without-ai-code-editors-and-instantly-remembered-why-i-pay-for-them-4324)
-- [The SaaS Metrics Cheat Sheet You Actually Need 🧩](https://dev.to/sonu_goswami/the-saas-metrics-cheat-sheet-you-actually-need-246p)
+- [Happy Ending &lpar;Last AI song&rpar;](https://dev.to/jacklehamster/happy-ending-last-ai-song-3n0m)
+- [PHP 8.5: The Pipe Operator](https://dev.to/spo0q/php-85-the-pipe-operator-3f5o)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-428n)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5hp)
 <!-- BLOG-POST-LIST:END -->
 
