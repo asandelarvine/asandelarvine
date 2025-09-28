@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc)
-- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj)
-- [Understanding Polyfills: Bridging the Gap in Modern and Old Web Browsers](https://dev.to/splintersword/understanding-polyfills-bridging-the-gap-in-modern-and-old-web-browsers-k04)
-- [Unlocking AI&#39;s Imagination: Neuron-Tracing for Next-Gen 3D Models](https://dev.to/arvind_sundararajan/unlocking-ais-imagination-neuron-tracing-for-next-gen-3d-models-4pae)
+- [🚀 Launching on Product Hunt — October 3rd!](https://dev.to/alexey_sokolov_10deecd763/launching-on-product-hunt-october-3rd-9h1)
+- [Ultimate Guide to Laravel Scopes: Local, Global, Dynamic &amp; Best Practices](https://dev.to/devtalk94/ultimate-guide-to-laravel-scopes-local-global-dynamic-best-practices-127g)
+- [Decoy-Hunter: Technical Enhancement for Verifiable Evidence and Stateful Protocol Probes.](https://dev.to/antonio_socorro_95e3ff086/decoy-hunter-technical-enhancement-for-verifiable-evidence-and-stateful-protocol-probes-2pi4)
+- [Cloud HPC: How Google Scales High-Performance Computing](https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922)
 <!-- BLOG-POST-LIST:END -->
 
