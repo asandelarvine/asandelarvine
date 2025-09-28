@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introdução ao Apache Kafka](https://dev.to/programadriano/introducao-ao-apache-kafka-2haj)
-- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
-- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
-- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
+- [🚀 Awesome LLM Resources – Curated Repo + Website](https://dev.to/vineeth98/awesome-llm-resources-curated-repo-website-3jf3)
+- [Setting Up a WireGuard VPN Client on Linux](https://dev.to/joshrothe/setting-up-a-wireguard-vpn-client-on-linux-3aan)
+- [Free Logo Design Support for Web Dev Projects Here](https://dev.to/tom_guo_7c124cceed3827683/free-logo-design-support-for-web-dev-projects-here-49gd)
+- [JavaScript Strict Mode Explained: A Beginner’s Guide to ‘use strict’](https://dev.to/wisdomudo/javascript-strict-mode-explained-a-beginners-guide-to-use-strict-c1)
 <!-- BLOG-POST-LIST:END -->
 
