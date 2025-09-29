@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I am so not looking forward to the discourse leading up to next Ryder Cup. The tournament itself is great, but the discussion is grating.](https://dev.to/ben/i-am-so-not-looking-forward-to-the-discourse-leading-up-to-next-ryder-cup-the-tournament-itself-is-47i4)
-- [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
-- [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
-- [Eternal September: Learning for the Life of it](https://dev.to/davesommerville/eternal-september-learning-for-the-life-of-it-i6i)
+- [Why PHP frameworks often &lpar;still&rpar; perform slower than Python / Go / Rust / Java frameworks](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
+- [Two Easy Ways to Cut Costs in AppSync Merged APIs](https://dev.to/aws-builders/two-easy-ways-to-cut-costs-in-appsync-merged-apis-3k94)
+- [SQL Query optimization techniques](https://dev.to/rgbos/query-optimization-techniques-c2d)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-339a)
 <!-- BLOG-POST-LIST:END -->
 
