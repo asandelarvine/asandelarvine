@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Scheduled Jobs in Python Using the schedule Library: A Cron Alternative](https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811)
-- [What Legal Firms Need to Know About the Cloud: Friendly Tips for Using Cloud Technology in Your Legal Practice](https://dev.to/heyjoshlee/what-legal-firms-need-to-know-about-the-cloud-friendly-tips-for-using-cloud-technology-in-your-53p9)
-- [PyWhatKit - Automate WhatsApp and Everyday Tasks with Python](https://dev.to/imrrobot/pywhatkit-automate-whatsapp-and-everyday-tasks-with-python-4m2n)
-- [Introduction to Python Module Two Part Three: Inputs and Outputs](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-three-inputs-and-outputs-43g3)
+- [I Tested GPU Time-Slicing With Real LLMs So You Don&#39;t Have To 🚀](https://dev.to/abraham_arellanotavara_7/i-tested-gpu-time-slicing-with-real-llms-so-you-dont-have-to-2n9d)
+- [Document Workflow Transformation: How Modern AI Models Transform CRM Systems](https://dev.to/igornosatov_15/document-workflow-transformation-how-modern-ai-models-transform-crm-systems-123d)
+- [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
+- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
 <!-- BLOG-POST-LIST:END -->
 
