@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sample RAG app with Strands, Reflex and S3](https://dev.to/aws-builders/sample-rag-app-with-strands-reflex-and-s3-4n6m)
-- [OpenGL: Catching up: Week 1](https://dev.to/noticeablesmeh/opengl-catching-up-week-1-1k8o)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
+- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
+- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
+- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
+- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
 <!-- BLOG-POST-LIST:END -->
 
