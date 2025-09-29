@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
-- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
-- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
-- [Por qué los Desarrolladores Deberían Prestar Atención a las Inversiones en Cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/por-que-los-desarrolladores-deberian-prestar-atencion-a-las-inversiones-en-cripto-en-2025-m0i)
+- [Most developers often focus on building features fast. But sometimes a single security flaw can undo months of hard work. That&#39;s the hardest part of coding!](https://dev.to/jaideepparashar/most-developers-often-focus-on-building-features-fast-but-sometimes-a-single-security-flaw-can-1cln)
+- [Fandom Meets the Future: How Coca-Cola and Star Wars Are Using AR and AI to Redefine Fan Engagement](https://dev.to/balagmadhu/fandom-meets-the-future-how-coca-cola-and-star-wars-are-using-ar-and-ai-to-redefine-fan-engagement-4bk6)
+- [Large Language Models Demystified!](https://dev.to/aiwaaligirl/large-language-models-demystified-20i7)
+- [A Complete Guide to Apple Subscription Groups for Smarter In-App Purchases](https://dev.to/paywallpro/a-complete-guide-to-apple-subscription-groups-for-smarter-in-app-purchases-2ih7)
 <!-- BLOG-POST-LIST:END -->
 
