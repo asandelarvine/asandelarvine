@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a RAG Personal Finance Application with Nuclia, KendoReact and Next.js](https://dev.to/dovanminhan/build-a-rag-personal-finance-application-with-nuclia-kendoreact-and-nextjs-23p7)
-- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae)
-- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9)
-- [How to future-proof your web app&#39;s password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3)
+- [Your .join&lpar;&quot;, &quot;&rpar; Is Lying to You: Meet Intl.ListFormat](https://dev.to/josephciullo/your-join-is-lying-to-you-meet-intllistformat-53fb)
+- [Apple&#39;s &quot;Veritas&quot; Chatbot: Redefining Siri for 2026](https://dev.to/alexkk/apples-veritas-chatbot-redefining-siri-for-2026-4044)
+- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
+- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
 <!-- BLOG-POST-LIST:END -->
 
