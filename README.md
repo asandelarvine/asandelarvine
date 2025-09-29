@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
-- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
-- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
-- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
+- [Automate Scheduled Jobs in Python Using the schedule Library: A Cron Alternative](https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811)
+- [What Legal Firms Need to Know About the Cloud: Friendly Tips for Using Cloud Technology in Your Legal Practice](https://dev.to/heyjoshlee/what-legal-firms-need-to-know-about-the-cloud-friendly-tips-for-using-cloud-technology-in-your-53p9)
+- [PyWhatKit - Automate WhatsApp and Everyday Tasks with Python](https://dev.to/imrrobot/pywhatkit-automate-whatsapp-and-everyday-tasks-with-python-4m2n)
+- [Introduction to Python Module Two Part Three: Inputs and Outputs](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-three-inputs-and-outputs-43g3)
 <!-- BLOG-POST-LIST:END -->
 
