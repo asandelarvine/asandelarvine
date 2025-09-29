@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested GPU Time-Slicing With Real LLMs So You Don&#39;t Have To 🚀](https://dev.to/abraham_arellanotavara_7/i-tested-gpu-time-slicing-with-real-llms-so-you-dont-have-to-2n9d)
-- [Document Workflow Transformation: How Modern AI Models Transform CRM Systems](https://dev.to/igornosatov_15/document-workflow-transformation-how-modern-ai-models-transform-crm-systems-123d)
-- [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
-- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4png)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1lna)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-bl)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-14n1)
 <!-- BLOG-POST-LIST:END -->
 
