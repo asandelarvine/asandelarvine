@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Portfolio Site with FSD LangChain Remix AI](https://dev.to/nyaomaru/building-a-portfolio-site-with-fsd-langchain-remix-ai-c9h)
-- [How Kilo Code launched on Product Hunt](https://dev.to/fmerian/how-kilo-code-launched-on-product-hunt-24a2)
-- [Less Dependencies, Less Problems: How to keep node.js Package Footprint Minimal](https://dev.to/sebs/less-dependencies-less-problems-how-to-keep-nodejs-package-footprint-minimal-50o)
-- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
+- [Git Branches: How Teams Build Features Without Breaking Each Other’s Code](https://dev.to/swathi_macha/git-branches-how-teams-build-features-without-breaking-each-others-code-3364)
+- [Metal Core PCB Manufacturer — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/metal-core-pcb-manufacturer-an-engineers-practical-guide-og4)
+- [The Hidden Dangers in Our Software Supply Chain: Why It&#39;s Bigger Than You Think](https://dev.to/jverhoeks/the-hidden-dangers-in-our-software-supply-chain-why-its-bigger-than-you-think-4n8d)
+- [Why Your App Needs To Collect Wallet Payments](https://dev.to/flutterwaveeng/why-your-app-needs-to-collect-wallet-payments-16op)
 <!-- BLOG-POST-LIST:END -->
 
