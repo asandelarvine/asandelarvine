@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Instant Checkout](https://dev.to/alifar/chatgpt-instant-checkout-10fh)
-- [🚀 Introducing Sain Bux: Full Stack Developer &amp; Research Enthusiast](https://dev.to/sain_bux_c936572cfe44d81a/introducing-sain-bux-full-stack-developer-research-enthusiast-1c21)
-- [Mastering Date and Time in C#](https://dev.to/ssukhpinder/mastering-date-and-time-in-c-dcp)
-- [PART 2 Starry: An Internal Developer Platform &lpar;IDP&rpar; for Ephemeral Environments](https://dev.to/flopi/part-2-starry-an-internal-developer-platform-idp-for-ephemeral-environments-192b)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4moc)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-96e)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48gp)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-17lf)
 <!-- BLOG-POST-LIST:END -->
 
