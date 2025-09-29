@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Branches: How Teams Build Features Without Breaking Each Other’s Code](https://dev.to/swathi_macha/git-branches-how-teams-build-features-without-breaking-each-others-code-3364)
-- [Metal Core PCB Manufacturer — an engineer’s practical guide](https://dev.to/frank_1871bc3c55f35370df3/metal-core-pcb-manufacturer-an-engineers-practical-guide-og4)
-- [The Hidden Dangers in Our Software Supply Chain: Why It&#39;s Bigger Than You Think](https://dev.to/jverhoeks/the-hidden-dangers-in-our-software-supply-chain-why-its-bigger-than-you-think-4n8d)
-- [Why Your App Needs To Collect Wallet Payments](https://dev.to/flutterwaveeng/why-your-app-needs-to-collect-wallet-payments-16op)
+- [I am so not looking forward to the discourse leading up to next Ryder Cup. The tournament itself is great, but the discussion is grating.](https://dev.to/ben/i-am-so-not-looking-forward-to-the-discourse-leading-up-to-next-ryder-cup-the-tournament-itself-is-47i4)
+- [Top 10 VS Code Extensions for Laravel Developers in 2025](https://dev.to/arafatweb/top-10-vs-code-extensions-for-laravel-developers-in-2025-1np5)
+- [How to Build a Web Monitoring Workflow with Python, n8n &amp; Docker using Telegram Alerts](https://dev.to/jesulayomi/how-to-build-a-web-monitoring-workflow-with-python-n8n-docker-using-telegram-alerts-22la)
+- [Eternal September: Learning for the Life of it](https://dev.to/davesommerville/eternal-september-learning-for-the-life-of-it-i6i)
 <!-- BLOG-POST-LIST:END -->
 
