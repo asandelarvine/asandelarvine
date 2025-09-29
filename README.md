@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your .join&lpar;&quot;, &quot;&rpar; Is Lying to You: Meet Intl.ListFormat](https://dev.to/josephciullo/your-join-is-lying-to-you-meet-intllistformat-53fb)
-- [Apple&#39;s &quot;Veritas&quot; Chatbot: Redefining Siri for 2026](https://dev.to/alexkk/apples-veritas-chatbot-redefining-siri-for-2026-4044)
-- [AWS open source newsletter, #214](https://dev.to/aws/aws-open-source-newsletter-214-ekm)
-- [How I Stopped Worrying About RAM and Learned to Love Vim](https://dev.to/joybtw/how-i-stopped-worrying-about-ram-and-learned-to-love-vim-2c07)
+- [Demystifying the Node.js Event Loop: A Beginner&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/demystifying-the-nodejs-event-loop-a-beginners-guide-3dj)
+- [Leetcode : Two Sum](https://dev.to/mayur_salokhe_365ab7a21c6/leetcode-two-sum-3bhg)
+- [Supercharge Your QA Workflow with Playwright and Data-Driven Testing](https://dev.to/testrig/supercharge-your-qa-workflow-with-playwright-and-data-driven-testing-fgd)
+- [Dynamically Generating Videos in Node.js with Cloudinary](https://dev.to/jacobandrewsky/dynamically-generating-videos-in-nodejs-with-cloudinary-522n)
 <!-- BLOG-POST-LIST:END -->
 
