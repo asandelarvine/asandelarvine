@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Binance Data Pipeline with Kafka and PostgreSQL](https://dev.to/augo_amos/building-a-real-time-binance-data-pipeline-with-kafka-and-postgresql-5bj8)
-- [Privacy Risks of Autonomous AI Agents](https://dev.to/shieldstring/privacy-risks-of-autonomous-ai-agents-3jki)
-- [OSD600 Lab 3: Git merges and parallel branches + Some 0.2 updates](https://dev.to/david_rivera_8d845b35931e/osd600-lab-3-git-merges-and-parallel-branches-3e5b)
-- [AI-Powered Teacher Assistant: Revolutionizing Lesson Planning for Educators](https://dev.to/victor_lakra_e1910abe17fc/ai-powered-teacher-assistant-revolutionizing-lesson-planning-for-educators-56dj)
+- [Built LatencyKit in Swift — measure RTT &amp; throughput to see if your network is actually usable](https://dev.to/tkgka/built-latencykit-in-swift-measure-rtt-throughput-to-see-if-your-network-is-actually-usable-31cm)
+- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
+- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
+- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
 <!-- BLOG-POST-LIST:END -->
 
