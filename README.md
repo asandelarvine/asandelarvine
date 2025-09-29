@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4moc)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-96e)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-48gp)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-17lf)
+- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
+- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
+- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
+- [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
 <!-- BLOG-POST-LIST:END -->
 
