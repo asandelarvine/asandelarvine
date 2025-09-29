@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why PHP frameworks often &lpar;still&rpar; perform slower than Python / Go / Rust / Java frameworks](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
-- [Two Easy Ways to Cut Costs in AppSync Merged APIs](https://dev.to/aws-builders/two-easy-ways-to-cut-costs-in-appsync-merged-apis-3k94)
-- [SQL Query optimization techniques](https://dev.to/rgbos/query-optimization-techniques-c2d)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-339a)
+- [Hacktoberfest Repositories To Contribute To In 2025](https://dev.to/bobbyiliev/hacktoberfest-repositories-to-contribute-to-in-2025-440l)
+- [Moderation Analysis in Regression: Concepts, Applications, and Case Studies](https://dev.to/thedatageek/moderation-analysis-in-regression-concepts-applications-and-case-studies-3690)
+- [[Boost]](https://dev.to/samyak112/-paf)
+- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
 <!-- BLOG-POST-LIST:END -->
 
