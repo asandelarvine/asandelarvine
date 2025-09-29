@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
-- [[Boost]](https://dev.to/naik_sejal/-1pnl)
-- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
-- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
+- [Build a RAG Personal Finance Application with Nuclia, KendoReact and Next.js](https://dev.to/dovanminhan/build-a-rag-personal-finance-application-with-nuclia-kendoreact-and-nextjs-23p7)
+- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae)
+- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9)
+- [How to future-proof your web app&#39;s password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3)
 <!-- BLOG-POST-LIST:END -->
 
