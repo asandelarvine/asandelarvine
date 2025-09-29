@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built LatencyKit in Swift — measure RTT &amp; throughput to see if your network is actually usable](https://dev.to/tkgka/built-latencykit-in-swift-measure-rtt-throughput-to-see-if-your-network-is-actually-usable-31cm)
-- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
-- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
-- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
+- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
+- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
+- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
+- [Por qué los Desarrolladores Deberían Prestar Atención a las Inversiones en Cripto en 2025](https://dev.to/paddy_e4d3d274ebc7/por-que-los-desarrolladores-deberian-prestar-atencion-a-las-inversiones-en-cripto-en-2025-m0i)
 <!-- BLOG-POST-LIST:END -->
 
