@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest Repositories To Contribute To In 2025](https://dev.to/bobbyiliev/hacktoberfest-repositories-to-contribute-to-in-2025-440l)
-- [Moderation Analysis in Regression: Concepts, Applications, and Case Studies](https://dev.to/thedatageek/moderation-analysis-in-regression-concepts-applications-and-case-studies-3690)
-- [[Boost]](https://dev.to/samyak112/-paf)
-- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
+- [Sample RAG app with Strands, Reflex and S3](https://dev.to/aws-builders/sample-rag-app-with-strands-reflex-and-s3-4n6m)
+- [OpenGL: Catching up: Week 1](https://dev.to/noticeablesmeh/opengl-catching-up-week-1-1k8o)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-a6a)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-496j)
 <!-- BLOG-POST-LIST:END -->
 
