@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying the Node.js Event Loop: A Beginner&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/demystifying-the-nodejs-event-loop-a-beginners-guide-3dj)
-- [Leetcode : Two Sum](https://dev.to/mayur_salokhe_365ab7a21c6/leetcode-two-sum-3bhg)
-- [Supercharge Your QA Workflow with Playwright and Data-Driven Testing](https://dev.to/testrig/supercharge-your-qa-workflow-with-playwright-and-data-driven-testing-fgd)
-- [Dynamically Generating Videos in Node.js with Cloudinary](https://dev.to/jacobandrewsky/dynamically-generating-videos-in-nodejs-with-cloudinary-522n)
+- [Quick To Spot API/System Slow](https://dev.to/ikhwanal/quick-to-spot-apisystem-slow-eo7)
+- [Build Portfolio Website in Seconds](https://dev.to/shubham_bhilare_3611/build-portfolio-website-in-seconds-4agg)
+- [🚀 Evaluasi dan Analisis Sistem: Kunci Menguasai Sistem IT Modern](https://dev.to/ahmadasroni38/evaluasi-dan-analisis-sistem-kunci-menguasai-sistem-it-modern-2a6i)
+- [How to meaure resistance on a microcontroller?](https://dev.to/carolineee/how-to-meaure-resistance-on-a-microcontroller-4cjk)
 <!-- BLOG-POST-LIST:END -->
 
