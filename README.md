@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Azure&#39;s Private Cloud Highway: My ExpressRoute Implementation](https://dev.to/peter_samuel_052b9056e236/building-azures-private-cloud-highway-my-expressroute-implementation-bhd)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-544l)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8nm)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-12nl)
+- [Building a Portfolio Site with FSD LangChain Remix AI](https://dev.to/nyaomaru/building-a-portfolio-site-with-fsd-langchain-remix-ai-c9h)
+- [How Kilo Code launched on Product Hunt](https://dev.to/fmerian/how-kilo-code-launched-on-product-hunt-24a2)
+- [Less Dependencies, Less Problems: How to keep node.js Package Footprint Minimal](https://dev.to/sebs/less-dependencies-less-problems-how-to-keep-nodejs-package-footprint-minimal-50o)
+- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
 <!-- BLOG-POST-LIST:END -->
 
