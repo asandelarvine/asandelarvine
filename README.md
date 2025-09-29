@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most developers often focus on building features fast. But sometimes a single security flaw can undo months of hard work. That&#39;s the hardest part of coding!](https://dev.to/jaideepparashar/most-developers-often-focus-on-building-features-fast-but-sometimes-a-single-security-flaw-can-1cln)
-- [Fandom Meets the Future: How Coca-Cola and Star Wars Are Using AR and AI to Redefine Fan Engagement](https://dev.to/balagmadhu/fandom-meets-the-future-how-coca-cola-and-star-wars-are-using-ar-and-ai-to-redefine-fan-engagement-4bk6)
-- [Large Language Models Demystified!](https://dev.to/aiwaaligirl/large-language-models-demystified-20i7)
-- [A Complete Guide to Apple Subscription Groups for Smarter In-App Purchases](https://dev.to/paywallpro/a-complete-guide-to-apple-subscription-groups-for-smarter-in-app-purchases-2ih7)
+- [5 Things I Wish I Knew When I Started Freelancing as a Web Developer](https://dev.to/billahdotdev/5-things-i-wish-i-knew-when-i-started-freelancing-as-a-web-developer-147n)
+- [[Boost]](https://dev.to/naik_sejal/-1pnl)
+- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
+- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
 <!-- BLOG-POST-LIST:END -->
 
