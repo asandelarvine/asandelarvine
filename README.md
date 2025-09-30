@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
-- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
-- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
-- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
+- [Analyzing Performance Improvements of AI Models Using Wasm at the Edge](https://dev.to/arjun_rk_dc400053b26f500/analyzing-performance-improvements-of-ai-models-using-wasm-at-the-edge-3lho)
+- [Zustand: the benefit of a state management library](https://dev.to/_75471dfd9e2ab1d33dc5d8/zustand-the-benefit-of-a-state-management-library-4h9p)
+- [Convert Excel to Text with Java](https://dev.to/jelizaveta/convert-excel-to-text-with-java-d53)
+- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
 <!-- BLOG-POST-LIST:END -->
 
