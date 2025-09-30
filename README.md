@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
-- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
-- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
-- [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
+- [📰 Major Tech News: September 29, 2025](https://dev.to/om_shree_0709/major-tech-news-september-29-2025-51od)
+- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
+- [Debugging Production Issues in Distributed Systems: A Practical Guide](https://dev.to/nishant_ghan_b7d9174ee346/debugging-production-issues-in-distributed-systems-a-practical-guide-1jjn)
+- [Velozes, Furiosos e... Estatísticos? Explicando Teste de Hipótese com Drift.](https://dev.to/sthemonica/velozes-furiosos-e-estatisticos-explicando-teste-de-hipotese-com-drift-30li)
 <!-- BLOG-POST-LIST:END -->
 
