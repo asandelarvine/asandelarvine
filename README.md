@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Smarter Rich-Text Editor with Live JS Blocks and Self-Converting Inputs](https://dev.to/nextblockcms/i-built-a-smarter-rich-text-editor-with-live-js-blocks-and-self-converting-inputs-i3d)
-- [Migrating Django from MySQL to Oracle: Handling Existing Tables and Many-to-Many Relationships](https://dev.to/jayson_gellido_0e72103fd0/migrating-django-from-mysql-to-oracle-handling-existing-tables-and-many-to-many-relationships-5anh)
-- [Bot de Monitoramento para SushiSwap V3 em Go — Parte 1](https://dev.to/sertaoseracloud/bot-de-monitoramento-para-sushiswap-v3-em-go-parte-1-4ge2)
-- [Solving response Token 25k limit Wall: Introducing mcp-cache](https://dev.to/swapnilsurdi/solving-ais-25000-token-wall-introducing-mcp-cache-1fie)
+- [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
+- [Introducing MetaPrompt: Write, Test, and Use Context in Cursor](https://dev.to/mnemonicaai/introducing-metaprompt-write-test-and-use-context-in-cursor-4232)
+- [The Right Way to Send Your Resume via Email &lpar;With Free Template&rpar;](https://dev.to/mehedihasan1102/how-to-send-your-cvresume-the-right-way-with-template-pro-tips-4n55)
+- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
 <!-- BLOG-POST-LIST:END -->
 
