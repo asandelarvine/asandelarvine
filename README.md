@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud economic mismatches](https://dev.to/aws-builders/cloud-economic-mismatches-5op)
-- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
-- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
-- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
+- [🚀 How the Browser Pre-Resource Loader Works: A Deep Dive 🖥️](https://dev.to/yorgie7/how-the-browser-pre-resource-loader-works-a-deep-dive-3nkm)
+- [🐘 Building a To-do API in .NET with PostgreSQL &lpar;Beginner Friendly&rpar;](https://dev.to/asutosh2001/building-a-to-do-api-in-net-with-postgresql-beginner-friendly-4k1d)
+- [How to create an OCI bucket using Terraform](https://dev.to/farisdurrani/how-to-create-an-oci-bucket-using-terraform-4mil)
+- [Designing a self-healing distributed Service on Kubernetes](https://dev.to/lizabethwordp/designing-a-self-healing-distributed-service-on-kubernetes-2eoh)
 <!-- BLOG-POST-LIST:END -->
 
