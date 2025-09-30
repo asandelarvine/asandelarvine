@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
-- [Dating App Development: A Complete Guide to Building the Next Big Social Platform](https://dev.to/daxitarajm/dating-app-development-a-complete-guide-to-building-the-next-big-social-platform-2df3)
-- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
-- [Outil de Cybersécurité du Jour - Sep 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-30-2025-14f2)
+- [When Abstraction Hurts: How I Inherited a System That Collapsed Under Its Own Weight](https://dev.to/iimeri/when-abstraction-hurts-how-i-inherited-a-system-that-collapsed-under-its-own-weight-d04)
+- [Mastering Node.js Modules: A Complete Guide to Require, Exports, and ES6 Imports](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-nodejs-modules-a-complete-guide-to-require-exports-and-es6-imports-2ljk)
+- [[Boost]](https://dev.to/matheusgondra/-4c55)
+- [Building the Brains: Crafting a Customer Support Agent with Strands](https://dev.to/aws-builders/building-the-brains-crafting-a-customer-support-agent-with-strands-1hb4)
 <!-- BLOG-POST-LIST:END -->
 
