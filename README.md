@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Micro Frontends – The Complete &lpar;But Brief&rpar; Guide](https://dev.to/hrithik_pasumarthi/micro-frontends-the-complete-but-brief-guide-398g)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-555e)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-14ag)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-44cp)
+- [Java 25: Latest Features, Examples, and Real-World Use Cases](https://dev.to/haraf/java-25-latest-features-examples-and-real-world-use-cases-43bd)
+- [Building Accessible Web Applications with Next.js](https://dev.to/aialvi/building-accessible-web-applications-with-nextjs-57kc)
+- [It took me a month to solve — Why chatgpt doesn&#39;t have a search, and i open sourced it!](https://dev.to/siv_io_/it-took-me-a-month-to-solve-why-chatgpt-doesnt-have-a-search-and-i-open-sourced-it-2kie)
+- [Exploring Fresh &lpar;Deno Framework&rpar; for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
 <!-- BLOG-POST-LIST:END -->
 
