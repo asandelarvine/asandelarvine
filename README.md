@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Command-Line Video Converter with .NET 8 and FFmpeg](https://dev.to/willem_janssen_ca51a0bfba/how-to-build-a-command-line-video-converter-with-net-8-and-ffmpeg-3fkd)
-- [How Academic Research Shapes Real-World Software Development: Lessons from a Full Stack Developer](https://dev.to/sain_bux_dev/how-academic-research-shapes-real-world-software-development-lessons-from-a-full-stack-developer-1k1g)
-- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
-- [This is what happens when fraud meets public corruption. Tyler Davis and Kerri Williams-Horn are tied to one of the ugliest schemes against the U.S. Treasury.](https://dev.to/raffalmaster/this-is-what-happens-when-fraud-meets-public-corruption-tyler-davis-and-kerri-williams-horn-are-1o4k)
+- [Leaving Breadcrumbs for Your AI: The Hansel and Gretel Approach](https://dev.to/trivedivatsal/leaving-breadcrumbs-for-your-ai-the-hansel-and-gretel-approach-132f)
+- [Dating App Development: A Complete Guide to Building the Next Big Social Platform](https://dev.to/daxitarajm/dating-app-development-a-complete-guide-to-building-the-next-big-social-platform-2df3)
+- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
+- [Outil de Cybersécurité du Jour - Sep 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-sep-30-2025-14f2)
 <!-- BLOG-POST-LIST:END -->
 
