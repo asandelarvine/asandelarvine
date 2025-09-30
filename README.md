@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Cookie Web: Building Privacy-First Analytics That Actually Work](https://dev.to/pullflow/post-cookie-web-building-privacy-first-analytics-that-actually-work-3ee)
-- [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3mn0)
-- [🌱 Environment Variables: The Secret Sauce of Modern Apps](https://dev.to/charan_gutti_cf60c6185074/environment-variables-the-secret-sauce-of-modern-apps-59i8)
+- [I Built a Full-Stack Proxy with a Dashboard to Scale the Gemini API. Stop Juggling Keys](https://dev.to/lehuygiang28/i-built-a-full-stack-proxy-with-a-dashboard-to-scale-the-gemini-api-stop-juggling-keys-3a3l)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-38eb)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3ch8)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-239)
 <!-- BLOG-POST-LIST:END -->
 
