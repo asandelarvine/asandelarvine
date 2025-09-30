@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simultaneous Downloads with aria2 for Maximum Speed | Advanced Tutorial](https://dev.to/ernemivg/simultaneous-downloads-with-aria2-for-maximum-speed-advanced-tutorial-2l14)
-- [A Developer’s Deep Dive into EVM Transactions with Python](https://dev.to/onlineproxy/a-developers-deep-dive-into-evm-transactions-with-python-1l3a)
-- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
-- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
+- [I Built a Smarter Rich-Text Editor with Live JS Blocks and Self-Converting Inputs](https://dev.to/nextblockcms/i-built-a-smarter-rich-text-editor-with-live-js-blocks-and-self-converting-inputs-i3d)
+- [Migrating Django from MySQL to Oracle: Handling Existing Tables and Many-to-Many Relationships](https://dev.to/jayson_gellido_0e72103fd0/migrating-django-from-mysql-to-oracle-handling-existing-tables-and-many-to-many-relationships-5anh)
+- [Bot de Monitoramento para SushiSwap V3 em Go — Parte 1](https://dev.to/sertaoseracloud/bot-de-monitoramento-para-sushiswap-v3-em-go-parte-1-4ge2)
+- [Solving response Token 25k limit Wall: Introducing mcp-cache](https://dev.to/swapnilsurdi/solving-ais-25000-token-wall-introducing-mcp-cache-1fie)
 <!-- BLOG-POST-LIST:END -->
 
