@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Abstraction Hurts: How I Inherited a System That Collapsed Under Its Own Weight](https://dev.to/iimeri/when-abstraction-hurts-how-i-inherited-a-system-that-collapsed-under-its-own-weight-d04)
-- [Mastering Node.js Modules: A Complete Guide to Require, Exports, and ES6 Imports](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-nodejs-modules-a-complete-guide-to-require-exports-and-es6-imports-2ljk)
-- [[Boost]](https://dev.to/matheusgondra/-4c55)
-- [Building the Brains: Crafting a Customer Support Agent with Strands](https://dev.to/aws-builders/building-the-brains-crafting-a-customer-support-agent-with-strands-1hb4)
+- [Why We Used a Data Gateway to Connect On-Prem SQL with Microsoft Fabric](https://dev.to/prachibhende/why-we-used-a-data-gateway-to-connect-on-prem-sql-with-microsoft-fabric-4i08)
+- [The Rise of Open-Source Data Catalogs: New Opportunities For Implementing Data Mesh](https://dev.to/jurgitamotus/the-rise-of-open-source-data-catalogs-new-opportunities-for-implementing-data-mesh-107n)
+- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
+- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
 <!-- BLOG-POST-LIST:END -->
 
