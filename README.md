@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Account Security in Microsoft Entra ID: Password Protection and Self-Service Reset](https://dev.to/sudaisib/enhancing-account-security-in-microsoft-entra-id-password-protection-and-self-service-reset-2j4a)
-- [Trusted Publishers: Making Package Publishing Safer – What You Need to Know](https://dev.to/freakynit/trusted-publishers-making-package-publishing-safer-what-you-need-to-know-5dg8)
-- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
-- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
+- [Using Permission Boundaries for IAM Role Creation in AWS Organizations Management Account](https://dev.to/shu85t/using-permission-boundaries-for-iam-role-creation-in-aws-organizations-management-account-2j0d)
+- [Looki Launches $199 Kitten-Shaped AI Wearable Camera, Expanding AI Wearables Market](https://dev.to/ytosko/looki-launches-199-kitten-shaped-ai-wearable-camera-expanding-ai-wearables-market-2c57)
+- [Full Stack Open Course: My Experience with Parts 0-7](https://dev.to/saribeg/full-stack-open-course-my-experience-with-parts-0-7-2f5k)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-58bb)
 <!-- BLOG-POST-LIST:END -->
 
