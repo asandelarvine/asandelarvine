@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Major Tech News: September 29, 2025](https://dev.to/om_shree_0709/major-tech-news-september-29-2025-51od)
-- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
-- [Debugging Production Issues in Distributed Systems: A Practical Guide](https://dev.to/nishant_ghan_b7d9174ee346/debugging-production-issues-in-distributed-systems-a-practical-guide-1jjn)
-- [Velozes, Furiosos e... Estatísticos? Explicando Teste de Hipótese com Drift.](https://dev.to/sthemonica/velozes-furiosos-e-estatisticos-explicando-teste-de-hipotese-com-drift-30li)
+- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
+- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
+- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
+- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
 <!-- BLOG-POST-LIST:END -->
 
