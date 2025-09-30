@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spinning Up a Minimal To-do List API in .NET](https://dev.to/asutosh2001/spinning-up-a-minimal-to-do-list-api-in-net-3e43)
-- [Day 1 of tracking Cryptic&#39;s development](https://dev.to/leviatcryptic/day-1-of-tracking-cryptics-development-1708)
-- [Ulaa: India’s Next Browser for Developers and Privacy Enthusiasts 🚀](https://dev.to/devto_with_yog/ulaa-indias-next-browser-for-developers-and-privacy-enthusiasts-516o)
-- [Fixing Outlook Sync Issues in Dynamics 365 CE - Track and Set Regarding are currently disabled](https://dev.to/nikhildynamicsce/fixing-outlook-sync-issues-in-dynamics-365-ce-track-and-set-regarding-are-currently-disabled-4kfd)
+- [Enhancing Account Security in Microsoft Entra ID: Password Protection and Self-Service Reset](https://dev.to/sudaisib/enhancing-account-security-in-microsoft-entra-id-password-protection-and-self-service-reset-2j4a)
+- [Trusted Publishers: Making Package Publishing Safer – What You Need to Know](https://dev.to/freakynit/trusted-publishers-making-package-publishing-safer-what-you-need-to-know-5dg8)
+- [Infrastructure testing in practice](https://dev.to/rgeraskin/infrastructure-testing-in-practice-1jpb)
+- [Day 1 - Intergrating AWS services into a parking project](https://dev.to/nyairopetronilla/day-1-intergrating-aws-services-into-a-parking-project-2n9i)
 <!-- BLOG-POST-LIST:END -->
 
