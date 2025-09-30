@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How the Browser Pre-Resource Loader Works: A Deep Dive 🖥️](https://dev.to/yorgie7/how-the-browser-pre-resource-loader-works-a-deep-dive-3nkm)
-- [🐘 Building a To-do API in .NET with PostgreSQL &lpar;Beginner Friendly&rpar;](https://dev.to/asutosh2001/building-a-to-do-api-in-net-with-postgresql-beginner-friendly-4k1d)
-- [How to create an OCI bucket using Terraform](https://dev.to/farisdurrani/how-to-create-an-oci-bucket-using-terraform-4mil)
-- [Designing a self-healing distributed Service on Kubernetes](https://dev.to/lizabethwordp/designing-a-self-healing-distributed-service-on-kubernetes-2eoh)
+- [Simultaneous Downloads with aria2 for Maximum Speed | Advanced Tutorial](https://dev.to/ernemivg/simultaneous-downloads-with-aria2-for-maximum-speed-advanced-tutorial-2l14)
+- [A Developer’s Deep Dive into EVM Transactions with Python](https://dev.to/onlineproxy/a-developers-deep-dive-into-evm-transactions-with-python-1l3a)
+- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
+- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
 <!-- BLOG-POST-LIST:END -->
 
