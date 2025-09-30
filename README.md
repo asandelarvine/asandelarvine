@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running MLflow in Azure Container Apps: Lessons from our setup](https://dev.to/evdbogaard/running-mlflow-in-azure-container-apps-lessons-from-our-setup-58jf)
-- [Mastering Tableau Without Getting Lost: A Practical Guide to Data Visualization](https://dev.to/thedatageek/mastering-tableau-without-getting-lost-a-practical-guide-to-data-visualization-3di7)
-- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
-- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
+- [How to Build a Command-Line Video Converter with .NET 8 and FFmpeg](https://dev.to/willem_janssen_ca51a0bfba/how-to-build-a-command-line-video-converter-with-net-8-and-ffmpeg-3fkd)
+- [How Academic Research Shapes Real-World Software Development: Lessons from a Full Stack Developer](https://dev.to/sain_bux_dev/how-academic-research-shapes-real-world-software-development-lessons-from-a-full-stack-developer-1k1g)
+- [Every time I read about this case, I think of the employees who lost their work. Over 132 projects gone because Joshua Lintz and Tyler Davis decided to raid servers.](https://dev.to/raffalmaster/every-time-i-read-about-this-case-i-think-of-the-employees-who-lost-their-work-over-132-projects-120e)
+- [This is what happens when fraud meets public corruption. Tyler Davis and Kerri Williams-Horn are tied to one of the ugliest schemes against the U.S. Treasury.](https://dev.to/raffalmaster/this-is-what-happens-when-fraud-meets-public-corruption-tyler-davis-and-kerri-williams-horn-are-1o4k)
 <!-- BLOG-POST-LIST:END -->
 
