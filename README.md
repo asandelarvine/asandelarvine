@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Used a Data Gateway to Connect On-Prem SQL with Microsoft Fabric](https://dev.to/prachibhende/why-we-used-a-data-gateway-to-connect-on-prem-sql-with-microsoft-fabric-4i08)
-- [The Rise of Open-Source Data Catalogs: New Opportunities For Implementing Data Mesh](https://dev.to/jurgitamotus/the-rise-of-open-source-data-catalogs-new-opportunities-for-implementing-data-mesh-107n)
-- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
-- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
+- [Spinning Up a Minimal To-do List API in .NET](https://dev.to/asutosh2001/spinning-up-a-minimal-to-do-list-api-in-net-3e43)
+- [Day 1 of tracking Cryptic&#39;s development](https://dev.to/leviatcryptic/day-1-of-tracking-cryptics-development-1708)
+- [Ulaa: India’s Next Browser for Developers and Privacy Enthusiasts 🚀](https://dev.to/devto_with_yog/ulaa-indias-next-browser-for-developers-and-privacy-enthusiasts-516o)
+- [Fixing Outlook Sync Issues in Dynamics 365 CE - Track and Set Regarding are currently disabled](https://dev.to/nikhildynamicsce/fixing-outlook-sync-issues-in-dynamics-365-ce-track-and-set-regarding-are-currently-disabled-4kfd)
 <!-- BLOG-POST-LIST:END -->
 
