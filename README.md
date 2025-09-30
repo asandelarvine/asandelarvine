@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing Performance Improvements of AI Models Using Wasm at the Edge](https://dev.to/arjun_rk_dc400053b26f500/analyzing-performance-improvements-of-ai-models-using-wasm-at-the-edge-3lho)
-- [Zustand: the benefit of a state management library](https://dev.to/_75471dfd9e2ab1d33dc5d8/zustand-the-benefit-of-a-state-management-library-4h9p)
-- [Convert Excel to Text with Java](https://dev.to/jelizaveta/convert-excel-to-text-with-java-d53)
-- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
+- [🧩 Micro Frontends – The Complete &lpar;But Brief&rpar; Guide](https://dev.to/hrithik_pasumarthi/micro-frontends-the-complete-but-brief-guide-398g)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-555e)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-14ag)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-44cp)
 <!-- BLOG-POST-LIST:END -->
 
