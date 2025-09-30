@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLAUTH: An open-source CLI to simplify AWS Bedrock setup for Claude Code users](https://dev.to/mahmood_khordoo_20b3f5980/clauth-an-open-source-cli-to-simplify-aws-bedrock-setup-for-claude-code-users-k8k)
-- [Introducing MetaPrompt: Write, Test, and Use Context in Cursor](https://dev.to/mnemonicaai/introducing-metaprompt-write-test-and-use-context-in-cursor-4232)
-- [The Right Way to Send Your Resume via Email &lpar;With Free Template&rpar;](https://dev.to/mehedihasan1102/how-to-send-your-cvresume-the-right-way-with-template-pro-tips-4n55)
-- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
+- [8-Bit Music Theory: The Music Theory of Silksong&#39;s Bone Bottom Theme](https://dev.to/music_youtube/8-bit-music-theory-the-music-theory-of-silksongs-bone-bottom-theme-34be)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-la1)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3679)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-e5g)
 <!-- BLOG-POST-LIST:END -->
 
