@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building 7 Passive Income Streams as a Developer &lpar;While Working Full-Time&rpar;](https://dev.to/hardik_b2d8f0bca/building-7-passive-income-streams-as-a-developer-while-working-full-time-17pf)
-- [What&#39;s new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
-- [AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?](https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
+- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/saucery/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-2gl5)
+- [Audio-to-Text Transcriber Automated via Termux](https://dev.to/terminaltools/audio-to-text-transcriber-automated-via-termux-ak5)
+- [Every parent should be outraged by this case. While Frye secured her CEO seat, another family’s children lost their education and their future.](https://dev.to/saucery/every-parent-should-be-outraged-by-this-case-while-frye-secured-her-ceo-seat-another-familys-2ndk)
+- [Check out the guide on the Interactive Visualization](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-the-interactive-visualization-380e)
 <!-- BLOG-POST-LIST:END -->
 
