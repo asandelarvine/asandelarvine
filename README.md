@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG: experiments with prompting using 3 LLM&#39;s](https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i)
-- [Weekly Update #11](https://dev.to/abytebybyte/weekly-update-11-cjn)
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/pranav_aadithya_36edf63cb/indexing-hashing-query-optimization-in-sql-3onp)
-- [The Agentforce Trust Layer &amp; Data Grounding in Enterprise](https://dev.to/xccelerance_technologies_/the-agentforce-trust-layer-data-grounding-in-enterprise-3ljn)
+- [Why LLMs Fail Without Human-Crafted Context](https://dev.to/leena_malhotra/why-llms-fail-without-human-crafted-context-1hk1)
+- [My Java Full Stack Journey Learning &lpar;Props Drilling&rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-props-drilling-in-react-js-1024)
+- [Sites vitrines vs boutiques en ligne : lequel choisir pour votre business ?](https://dev.to/service_maxsell_64ece3f66/sites-vitrines-vs-boutiques-en-ligne-lequel-choisir-pour-votre-business--4693)
+- [React-json](https://dev.to/dharshinieswaran/react-json-1h97)
 <!-- BLOG-POST-LIST:END -->
 
