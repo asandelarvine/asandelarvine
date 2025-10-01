@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
-- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
-- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
-- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
+- [Learn Bash Scripting With Me 🚀 - Day 8](https://dev.to/babsarena/learn-bash-scripting-with-me-day-8-k6b)
+- [The Cost of Concurrency Interop: Trading Clean Modularity for Shared JVM Efficiency](https://dev.to/rob_d_2c0d55e14e7037f2/the-cost-of-concurrency-interop-trading-clean-modularity-for-shared-jvm-efficiency-478f)
+- [ToolHive: Remote MCP Server Support](https://dev.to/amirejaz/toolhive-remote-mcp-server-support-3h93)
+- [Angular&#39;s Game-Changing CSP Security Headers: Why Your Inline CSS and JS Just Got Safer](https://dev.to/codewithrajat/angulars-game-changing-csp-security-headers-why-your-inline-css-and-js-just-got-safer-23c4)
 <!-- BLOG-POST-LIST:END -->
 
