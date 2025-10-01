@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are some good websites on which programmers can write articles?](https://dev.to/toluxx/what-are-some-good-websites-on-which-programmers-can-write-articles-gfm)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-391p)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-4pcn)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-5762)
+- [Managing Jira Issues in Markdown: Why I Keep My Backlog in the Repo](https://dev.to/saxmanjes/managing-jira-issues-in-markdown-why-i-keep-my-backlog-in-the-repo-4gdk)
+- [Building a Rust API with Claude Sonnet 4.5](https://dev.to/shuttle/building-a-rust-api-with-claude-sonnet-45-1mfm)
+- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
+- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
 <!-- BLOG-POST-LIST:END -->
 
