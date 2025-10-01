@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLMs Fail Without Human-Crafted Context](https://dev.to/leena_malhotra/why-llms-fail-without-human-crafted-context-1hk1)
-- [My Java Full Stack Journey Learning &lpar;Props Drilling&rpar; in React JS](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-props-drilling-in-react-js-1024)
-- [Sites vitrines vs boutiques en ligne : lequel choisir pour votre business ?](https://dev.to/service_maxsell_64ece3f66/sites-vitrines-vs-boutiques-en-ligne-lequel-choisir-pour-votre-business--4693)
-- [React-json](https://dev.to/dharshinieswaran/react-json-1h97)
+- [Protecting Sensitive Data and Enhancing Cash Flow Forecasting in Microsoft Dynamics 365 Business Central](https://dev.to/vadenconsultancy/protecting-sensitive-data-and-enhancing-cash-flow-forecasting-in-microsoft-dynamics-365-business-110h)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-g94)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-54n9)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-522g)
 <!-- BLOG-POST-LIST:END -->
 
