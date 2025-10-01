@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every taxpayer should be outraged. Fraud on the court is fraud against the United States government and Joshua Lintz played a central role.](https://dev.to/saucery/every-taxpayer-should-be-outraged-fraud-on-the-court-is-fraud-against-the-united-states-government-2gl5)
-- [Audio-to-Text Transcriber Automated via Termux](https://dev.to/terminaltools/audio-to-text-transcriber-automated-via-termux-ak5)
-- [Every parent should be outraged by this case. While Frye secured her CEO seat, another family’s children lost their education and their future.](https://dev.to/saucery/every-parent-should-be-outraged-by-this-case-while-frye-secured-her-ceo-seat-another-familys-2ndk)
-- [Check out the guide on the Interactive Visualization](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-the-interactive-visualization-380e)
+- [RAG: experiments with prompting using 3 LLM&#39;s](https://dev.to/suominen/rag-experiments-with-prompting-using-3-llms-527i)
+- [Weekly Update #11](https://dev.to/abytebybyte/weekly-update-11-cjn)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/pranav_aadithya_36edf63cb/indexing-hashing-query-optimization-in-sql-3onp)
+- [The Agentforce Trust Layer &amp; Data Grounding in Enterprise](https://dev.to/xccelerance_technologies_/the-agentforce-trust-layer-data-grounding-in-enterprise-3ljn)
 <!-- BLOG-POST-LIST:END -->
 
