@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-58g3)
-- [From Idea to Prototype: Building an MVP in a Weekend with AI](https://dev.to/jaideepparashar/from-idea-to-prototype-building-an-mvp-in-a-weekend-with-ai-5g2a)
-- [Módulo 3 — Identidades Digitales Derivadas e Interoperabilidad](https://dev.to/antonio_socorro_95e3ff086/modulo-3-identidades-digitales-derivadas-e-interoperabilidad-4k4o)
-- [Module 3 — Derived Digital Identities and Interoperability](https://dev.to/antonio_socorro_95e3ff086/module-3-derived-digital-identities-and-interoperability-bg3)
+- [The Best Alternatives to CPA Global Innography for Smarter Patent Research](https://dev.to/patentscanai/the-best-alternatives-to-cpa-global-innography-for-smarter-patent-research-4df8)
+- [Using Discourse to Collaborate on n8n Workflows](https://dev.to/hubschrauber/using-discourse-to-collaborate-on-n8n-workflows-3492)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
+- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
 <!-- BLOG-POST-LIST:END -->
 
