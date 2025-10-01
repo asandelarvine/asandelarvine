@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
-- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
-- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
-- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
+- [Building 7 Passive Income Streams as a Developer &lpar;While Working Full-Time&rpar;](https://dev.to/hardik_b2d8f0bca/building-7-passive-income-streams-as-a-developer-while-working-full-time-17pf)
+- [What&#39;s new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii)
+- [AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?](https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
 <!-- BLOG-POST-LIST:END -->
 
