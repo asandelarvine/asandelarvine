@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Fundamentals: Master Multidimensional Arrays, Strings, and Constants with 4 Hands-On Labs](https://dev.to/labex/golang-fundamentals-master-multidimensional-arrays-strings-and-constants-with-4-hands-on-labs-b6g)
-- [DevKit.website: A Clean Regex Tester &amp; Developer Toolkit](https://dev.to/mikael_obeta/devkitwebsite-a-clean-regex-tester-developer-toolkit-4a7g)
-- [🚀 Azure Functions Deployment Simplified: Mastering Publish Profiles &amp; The Isolated Model](https://dev.to/pavan296/azure-functions-deployment-simplified-mastering-publish-profiles-the-isolated-model-464f)
-- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
+- [GitLab-CI](https://dev.to/omar_ahmed/gitlab-ci-p9g)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2a9b)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5gc8)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-38f1)
 <!-- BLOG-POST-LIST:END -->
 
