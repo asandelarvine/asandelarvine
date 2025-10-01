@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Sensitive Data and Enhancing Cash Flow Forecasting in Microsoft Dynamics 365 Business Central](https://dev.to/vadenconsultancy/protecting-sensitive-data-and-enhancing-cash-flow-forecasting-in-microsoft-dynamics-365-business-110h)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-g94)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-54n9)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-522g)
+- [China&#39;s K Visa: A New Option for Software Developers in 2025](https://dev.to/cannan_david_974c14021725/chinas-k-visa-a-new-option-for-software-developers-in-2025-7ml)
+- [Windows-Like RDP on a Linux Core? Yes, Please! 🤯](https://dev.to/voxihost_nexus/windows-like-rdp-on-a-linux-core-yes-please-15ih)
+- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
+- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
 <!-- BLOG-POST-LIST:END -->
 
