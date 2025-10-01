@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Jira Issues in Markdown: Why I Keep My Backlog in the Repo](https://dev.to/saxmanjes/managing-jira-issues-in-markdown-why-i-keep-my-backlog-in-the-repo-4gdk)
-- [Building a Rust API with Claude Sonnet 4.5](https://dev.to/shuttle/building-a-rust-api-with-claude-sonnet-45-1mfm)
-- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
-- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
+- [Stop Copy-Pasting Code Into ChatGPT: Build Your Own AI Assistant Instead](https://dev.to/bekahhw/stop-copy-pasting-code-into-chatgpt-build-your-own-ai-assistant-instead-2k6p)
+- [The Ultimate Guide to Reducing Ethereum Gas Fees in 2025](https://dev.to/techlasi/the-ultimate-guide-to-reducing-ethereum-gas-fees-in-2025-3nkg)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-49dc)
+- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-29p3)
 <!-- BLOG-POST-LIST:END -->
 
