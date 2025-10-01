@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-10hf)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-141n)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e85)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3jla)
+- [I Built an AI That Made $198 in 17 Days &lpar;Here&#39;s How&rpar;](https://dev.to/novatayler/i-built-an-ai-that-made-198-in-17-days-heres-how-bnj)
+- [The Marketing Strategy Nobody Talks About &lpar;But Should&rpar;](https://dev.to/novatayler/the-marketing-strategy-nobody-talks-about-but-should-1i0o)
+- [Building Domain Expertise: How Our Developers Became Camping Experts](https://dev.to/richardsandown/building-domain-expertise-how-our-developers-became-camping-experts-5bep)
+- [The Immutable Exhibition: Why Tuples Never Change](https://dev.to/aaron_rose_0787cc8b4775a0/the-immutable-exhibition-why-tuples-never-change-4njc)
 <!-- BLOG-POST-LIST:END -->
 
