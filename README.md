@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Show My Work: TinyBones - Minimal Blogging Template](https://dev.to/itzcozi/show-my-work-tinybones-minimal-blogging-template-1on3)
-- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
-- [Day 28/60 of game dev on Android challenge](https://dev.to/calchiwo/day-2860-of-game-dev-on-android-challenge-4bk7)
-- [Has anyone here tried Job Interview AI tools? I tested one recently and it gave me mock questions, real-time feedback, and even tips on body language. It felt like having a 24/7 interview coach. Curious—did it help you or feel too robotic?](https://dev.to/jeenifer_beezer/has-anyone-here-tried-job-interview-ai-tools-i-tested-one-recently-and-it-gave-me-mock-questions-1lop)
+- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-58g3)
+- [From Idea to Prototype: Building an MVP in a Weekend with AI](https://dev.to/jaideepparashar/from-idea-to-prototype-building-an-mvp-in-a-weekend-with-ai-5g2a)
+- [Módulo 3 — Identidades Digitales Derivadas e Interoperabilidad](https://dev.to/antonio_socorro_95e3ff086/modulo-3-identidades-digitales-derivadas-e-interoperabilidad-4k4o)
+- [Module 3 — Derived Digital Identities and Interoperability](https://dev.to/antonio_socorro_95e3ff086/module-3-derived-digital-identities-and-interoperability-bg3)
 <!-- BLOG-POST-LIST:END -->
 
