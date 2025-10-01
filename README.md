@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab-CI](https://dev.to/omar_ahmed/gitlab-ci-p9g)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2a9b)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5gc8)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-38f1)
+- [Downgrading on Mac](https://dev.to/abhijit105/downgrading-on-mac-3k11)
+- [Trigger a child component method from parent &lpar;Vue&rpar;](https://dev.to/thejaredwilcurt/trigger-a-child-component-method-from-parent-vue-1amn)
+- [Mastering Linux Commands: Essential Tools for Efficient System Management](https://dev.to/lotanna_obianefo/mastering-linux-commands-essential-tools-for-efficient-system-management-3013)
+- [How Development Coaches Help Unlock Hidden Potential in Professionals](https://dev.to/toby-patrick/how-development-coaches-help-unlock-hidden-potential-in-professionals-1l2c)
 <!-- BLOG-POST-LIST:END -->
 
