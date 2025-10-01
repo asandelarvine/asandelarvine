@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting Code Into ChatGPT: Build Your Own AI Assistant Instead](https://dev.to/bekahhw/stop-copy-pasting-code-into-chatgpt-build-your-own-ai-assistant-instead-2k6p)
-- [The Ultimate Guide to Reducing Ethereum Gas Fees in 2025](https://dev.to/techlasi/the-ultimate-guide-to-reducing-ethereum-gas-fees-in-2025-3nkg)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-49dc)
-- [KEXP: Fishbone - Last Call In America &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-last-call-in-america-live-on-kexp-29p3)
+- [Golang Fundamentals: Master Multidimensional Arrays, Strings, and Constants with 4 Hands-On Labs](https://dev.to/labex/golang-fundamentals-master-multidimensional-arrays-strings-and-constants-with-4-hands-on-labs-b6g)
+- [DevKit.website: A Clean Regex Tester &amp; Developer Toolkit](https://dev.to/mikael_obeta/devkitwebsite-a-clean-regex-tester-developer-toolkit-4a7g)
+- [🚀 Azure Functions Deployment Simplified: Mastering Publish Profiles &amp; The Isolated Model](https://dev.to/pavan296/azure-functions-deployment-simplified-mastering-publish-profiles-the-isolated-model-464f)
+- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
 <!-- BLOG-POST-LIST:END -->
 
