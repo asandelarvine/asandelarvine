@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master the Art of Consistent Characters in VEO 3 for Long-Form Videos](https://dev.to/nahianbinrahman/master-the-art-of-consistent-characters-in-veo-3-for-long-form-videos-2d9p)
-- [Addition is Not Communicative](https://dev.to/saenai/addition-is-not-communicative-328g)
-- [TypeScript Core Concepts Every Developer Should Know &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/typescript-core-concepts-every-developer-should-know-bengali-3ji8)
-- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
+- [Show My Work: TinyBones - Minimal Blogging Template](https://dev.to/itzcozi/show-my-work-tinybones-minimal-blogging-template-1on3)
+- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
+- [Day 28/60 of game dev on Android challenge](https://dev.to/calchiwo/day-2860-of-game-dev-on-android-challenge-4bk7)
+- [Has anyone here tried Job Interview AI tools? I tested one recently and it gave me mock questions, real-time feedback, and even tips on body language. It felt like having a 24/7 interview coach. Curious—did it help you or feel too robotic?](https://dev.to/jeenifer_beezer/has-anyone-here-tried-job-interview-ai-tools-i-tested-one-recently-and-it-gave-me-mock-questions-1lop)
 <!-- BLOG-POST-LIST:END -->
 
