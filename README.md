@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy‑Focused Web‑Surfing &amp; App Traffic: Setting Up a Fast, Low‑Latency Android Stack](https://dev.to/dev-blogg/privacy-focused-web-surfing-app-traffic-setting-up-a-fast-low-latency-android-stack-4gi7)
-- [Level Up Your Skills: Why This hack&#39;spire25 Hackathon Isn&#39;t Just Another Coding Event](https://dev.to/debaditya_saha_5b45172210/level-up-your-skills-why-this-hackspire25-hackathon-isnt-just-another-coding-event-h4n)
-- [The Feedback Loop That Actually Works: From Silence to Signal](https://dev.to/razoorka/the-feedback-loop-that-actually-works-from-silence-to-signal-2efa)
-- [Stop Waiting for Permission: Create Your Own Way in Software](https://dev.to/mjlynch123/stop-waiting-for-permission-create-your-own-way-in-software-1b3o)
+- [What are some good websites on which programmers can write articles?](https://dev.to/toluxx/what-are-some-good-websites-on-which-programmers-can-write-articles-gfm)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-391p)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-4pcn)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-5762)
 <!-- BLOG-POST-LIST:END -->
 
