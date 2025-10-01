@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Bash Scripting With Me 🚀 - Day 8](https://dev.to/babsarena/learn-bash-scripting-with-me-day-8-k6b)
-- [The Cost of Concurrency Interop: Trading Clean Modularity for Shared JVM Efficiency](https://dev.to/rob_d_2c0d55e14e7037f2/the-cost-of-concurrency-interop-trading-clean-modularity-for-shared-jvm-efficiency-478f)
-- [ToolHive: Remote MCP Server Support](https://dev.to/amirejaz/toolhive-remote-mcp-server-support-3h93)
-- [Angular&#39;s Game-Changing CSP Security Headers: Why Your Inline CSS and JS Just Got Safer](https://dev.to/codewithrajat/angulars-game-changing-csp-security-headers-why-your-inline-css-and-js-just-got-safer-23c4)
+- [Privacy‑Focused Web‑Surfing &amp; App Traffic: Setting Up a Fast, Low‑Latency Android Stack](https://dev.to/dev-blogg/privacy-focused-web-surfing-app-traffic-setting-up-a-fast-low-latency-android-stack-4gi7)
+- [Level Up Your Skills: Why This hack&#39;spire25 Hackathon Isn&#39;t Just Another Coding Event](https://dev.to/debaditya_saha_5b45172210/level-up-your-skills-why-this-hackspire25-hackathon-isnt-just-another-coding-event-h4n)
+- [The Feedback Loop That Actually Works: From Silence to Signal](https://dev.to/razoorka/the-feedback-loop-that-actually-works-from-silence-to-signal-2efa)
+- [Stop Waiting for Permission: Create Your Own Way in Software](https://dev.to/mjlynch123/stop-waiting-for-permission-create-your-own-way-in-software-1b3o)
 <!-- BLOG-POST-LIST:END -->
 
