@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual loading states for Turbo Frames with CSS only](https://dev.to/railsdesigner/visual-loading-states-for-turbo-frameswith-css-only-4o08)
-- [Congrats to the Google AI Multimodal Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-ai-multimodal-challenge-winners-385f)
-- [Cómo logré adjuntar videos comprimidos de Cypress en Allure Report](https://dev.to/jmr85/como-logre-adjuntar-videos-comprimidos-de-cypress-en-allure-report-394h)
-- [Tigs: Never Lose That AI Context Again – Store Your LLM Chats in Git](https://dev.to/merico/tigs-never-lose-that-ai-context-again-store-your-llm-chats-in-git-394i)
+- [Robot Overlord Approved Resumes in 2025!](https://dev.to/jasonetorres/robot-overlord-approved-resumes-in-2025-5fkl)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-29m)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-5c1e)
+- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-a8m)
 <!-- BLOG-POST-LIST:END -->
 
