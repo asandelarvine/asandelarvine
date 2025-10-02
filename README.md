@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This modern stack makes building side projects fun again](https://dev.to/egledigital/this-modern-stack-makes-building-side-projects-fun-again-5gk)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-26ah)
-- [Calorianerihashvich](https://dev.to/ashot_nalbandyan_0a8b2885/calorianerihashvich-27ne)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-3o39)
+- [🚀 Launching My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/launching-my-ai-data-mastery-journey-from-python-to-generative-ai-4gc4)
+- [The 7 Most Essential Frontend Development Tools in 2025](https://dev.to/hashbyt/the-7-most-essential-frontend-development-tools-in-2025-2bi2)
+- [Stop Spaghetti SQL: Simplify Complex Queries with Postgres CTEs in Supabase](https://dev.to/ivankahl/stop-spaghetti-sql-simplify-complex-queries-with-postgres-ctes-in-supabase-1f8h)
+- [🚀 Day 32 of My Data Journey](https://dev.to/_adii3107/day-32-of-my-data-journey-5bl1)
 <!-- BLOG-POST-LIST:END -->
 
