@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build and Deploy a Machine Learning API with FastAPI &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/spiff/how-to-build-and-deploy-a-machine-learning-api-with-fastapi-beginner-friendly-guide-4bc7)
-- [Everyone Tests Now But Are We Testing the Right Things?](https://dev.to/lucianghinda/everyone-tests-now-but-are-we-testing-the-right-things-10op)
-- [Mastering Terraform Stacks: Post-GA Command References Part 1](https://dev.to/quixoticmonk/mastering-terraform-stacks-post-ga-command-references-part-1-1b1h)
-- [Virtual Mines: Optimizing Operations with Digital Twin Technology](https://dev.to/shawn-fisher/virtual-mines-optimizing-operations-with-digital-twin-technology-2mf2)
+- [Visual loading states for Turbo Frames with CSS only](https://dev.to/railsdesigner/visual-loading-states-for-turbo-frameswith-css-only-4o08)
+- [Congrats to the Google AI Multimodal Challenge Winners!](https://dev.to/devteam/congrats-to-the-google-ai-multimodal-challenge-winners-385f)
+- [Cómo logré adjuntar videos comprimidos de Cypress en Allure Report](https://dev.to/jmr85/como-logre-adjuntar-videos-comprimidos-de-cypress-en-allure-report-394h)
+- [Tigs: Never Lose That AI Context Again – Store Your LLM Chats in Git](https://dev.to/merico/tigs-never-lose-that-ai-context-again-store-your-llm-chats-in-git-394i)
 <!-- BLOG-POST-LIST:END -->
 
