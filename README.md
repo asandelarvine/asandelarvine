@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1d2l)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-529j)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-3l9c)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-2mio)
+- [Why I Built ts-typed-errors: A TypeScript Error Handling Revolution](https://dev.to/ackermannq/why-i-built-ts-typed-errors-a-typescript-error-handling-revolution-2bph)
+- [Put images or large files in DynamoDB ?](https://dev.to/wakeup_flower_8591a6cb6a9/put-images-or-large-files-in-dynamodb--240h)
+- [JavaScript Array Methods Cheat Sheet &lpar;2025 Update&rpar;](https://dev.to/wahee/javascript-array-methods-cheat-sheet-2025-update-200o)
+- [Tools for Online Video Translation and Dubbing - 2025 Guide](https://dev.to/shruti_saraswat_c258d5934/tools-for-online-video-translation-and-dubbing-2025-guide-2jj1)
 <!-- BLOG-POST-LIST:END -->
 
