@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-51pm)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-4ck2)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8cp)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
+- [Part-94: 🚀Kubernetes Jobs in GKE – Run Tasks Until They Finish](https://dev.to/latchudevops/part-94-kubernetes-jobs-in-gke-run-tasks-until-they-finish-2ija)
+- [Chaos Engineering on AWS: Using Fault Injection Simulator &lpar;FIS&rpar; for Resilience](https://dev.to/robert_r_7c237256b7614328/chaos-engineering-on-aws-using-fault-injection-simulator-fis-for-resilience-hap)
+- [Normalization](https://dev.to/divya__sundarasekaran_459/normalization-505f)
+- [Wan Animate | AI Character Animation Tool](https://dev.to/allhacm/wan-animate-ai-character-animation-tool-4ibb)
 <!-- BLOG-POST-LIST:END -->
 
