@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UTC vs GMT: What&#39;s the Difference and Which Should You Use?](https://dev.to/luke_bowers/utc-vs-gmt-whats-the-difference-and-which-should-you-use-5g4f)
-- [[Boost]](https://dev.to/naamiahmed/-251d)
-- [Why I Still Use Emacs in 2025](https://dev.to/breno/why-i-still-use-emacs-in-2025-3oj9)
-- [Deploying My First NGINX Web Server on AWS EC2: A Beginner-Friendly Walkthrough](https://dev.to/odinkemelu_innocent_3b2f5/deploying-my-first-nginx-web-server-on-aws-ec2-a-beginner-friendly-walkthrough-3h03)
+- [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
+- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
+- [Hosting WordPress España: Máximo Rendimiento Garantizado](https://dev.to/ideidevhosting/hosting-wordpress-espana-maximo-rendimiento-garantizado-kie)
+- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
 <!-- BLOG-POST-LIST:END -->
 
