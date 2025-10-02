@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
-- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
-- [Claude Code: Unix Philosophy Makes AI Coding Better](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-ai-coding-better-5323)
-- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
+- [Videos GraphQL API with AppSync, Lambda, DynamoDB - FakeTube #6](https://dev.to/jacekkosciesza/videos-graphql-api-with-appsync-lambda-dynamodb-faketube-6-2jcb)
+- [When you can&#39;t delete due to foreign key constraints, delete in the order &quot;child parent&quot;!](https://dev.to/kazutora_hattori_66972c88/when-you-cant-delete-due-to-foreign-key-constraints-delete-in-the-order-child-parent-1d2o)
+- [Cultivating a Growth Mindset: The Surprising Benefits of Online Learning](https://dev.to/ghummantech/cultivating-a-growth-mindset-the-surprising-benefits-of-online-learning-5gm4)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gmm)
 <!-- BLOG-POST-LIST:END -->
 
