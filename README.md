@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built ts-typed-errors: A TypeScript Error Handling Revolution](https://dev.to/ackermannq/why-i-built-ts-typed-errors-a-typescript-error-handling-revolution-2bph)
-- [Put images or large files in DynamoDB ?](https://dev.to/wakeup_flower_8591a6cb6a9/put-images-or-large-files-in-dynamodb--240h)
-- [JavaScript Array Methods Cheat Sheet &lpar;2025 Update&rpar;](https://dev.to/wahee/javascript-array-methods-cheat-sheet-2025-update-200o)
-- [Tools for Online Video Translation and Dubbing - 2025 Guide](https://dev.to/shruti_saraswat_c258d5934/tools-for-online-video-translation-and-dubbing-2025-guide-2jj1)
+- [How to Build and Deploy a Machine Learning API with FastAPI &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/spiff/how-to-build-and-deploy-a-machine-learning-api-with-fastapi-beginner-friendly-guide-4bc7)
+- [Everyone Tests Now But Are We Testing the Right Things?](https://dev.to/lucianghinda/everyone-tests-now-but-are-we-testing-the-right-things-10op)
+- [Mastering Terraform Stacks: Post-GA Command References Part 1](https://dev.to/quixoticmonk/mastering-terraform-stacks-post-ga-command-references-part-1-1b1h)
+- [Virtual Mines: Optimizing Operations with Digital Twin Technology](https://dev.to/shawn-fisher/virtual-mines-optimizing-operations-with-digital-twin-technology-2mf2)
 <!-- BLOG-POST-LIST:END -->
 
