@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ki0)
-- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-4dh9)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-47l9)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-1p8n)
+- [Resumindo Projetando Sistemas Distribuídos: Conceitos Importantes](https://dev.to/bremda/resumindo-projetando-sistemas-distribuidos-conceitos-importantes-7n4)
+- [Why You&#39;re Spending Too Much Money on Datadog Metrics](https://dev.to/jack0lantern/why-youre-spending-too-much-money-on-datadog-metrics-1m4e)
+- [Generating Unified Test Reports with Cypress-Mochawesome-CSV-United-Report NPM Package](https://dev.to/mohamedsaidibrahim/generating-unified-test-reports-with-cypress-mochawesome-csv-united-report-npm-package-1ah7)
+- [Automating Page Error Detection and Improvements with Cypress and TypeScript](https://dev.to/mohamedsaidibrahim/automating-page-error-detection-and-improvements-with-cypress-and-typescript-154d)
 <!-- BLOG-POST-LIST:END -->
 
