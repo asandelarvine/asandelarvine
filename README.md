@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2fla)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-31i6)
-- [COLORS: Jon Batiste - LEAN ON MY LOVE | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-lean-on-my-love-a-colors-show-1pkj)
-- [🎯 Mastering the QA Tech Stack: How Senior Test Engineers Integrate Cypress, Playwright, Postman…](https://dev.to/mohamedsaidibrahim/mastering-the-qa-tech-stack-how-senior-test-engineers-integrate-cypress-playwright-postman-29n5)
+- [Top 5 Benefits of Using Nexi Mail for Professional Communication in 2025](https://dev.to/justin-green/top-5-benefits-of-using-nexi-mail-for-professional-communication-in-2025-1l97)
+- [🥊 What if mutual combat law was legal again? Would trolls still talk tough if they could be subpoenaed to fight in the gym? 👀 Check out the latest Straight From Da Chair Podcast reel 👉 https://youtube.com/shorts/PLrMsO4WxhY](https://dev.to/bricedavis/what-if-mutual-combat-law-was-legal-again-would-trolls-still-talk-tough-if-they-could-be-2934)
+- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
+- [How to Pick the Right Web Frameworks for Your Next Project](https://dev.to/devsmonkey/how-to-pick-the-right-web-frameworks-for-your-next-project-4hki)
 <!-- BLOG-POST-LIST:END -->
 
