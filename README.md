@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-94: 🚀Kubernetes Jobs in GKE – Run Tasks Until They Finish](https://dev.to/latchudevops/part-94-kubernetes-jobs-in-gke-run-tasks-until-they-finish-2ija)
-- [Chaos Engineering on AWS: Using Fault Injection Simulator &lpar;FIS&rpar; for Resilience](https://dev.to/robert_r_7c237256b7614328/chaos-engineering-on-aws-using-fault-injection-simulator-fis-for-resilience-hap)
-- [Normalization](https://dev.to/divya__sundarasekaran_459/normalization-505f)
-- [Wan Animate | AI Character Animation Tool](https://dev.to/allhacm/wan-animate-ai-character-animation-tool-4ibb)
+- [#DAY 7: The First Fire Drill: Incident Simulation](https://dev.to/samueladeduntan/day-7-the-first-fire-drill-incident-simulation-c34)
+- [allpub to dev community](https://dev.to/pravin_niceguy/allpub-to-dev-community-ac)
+- [Enhancing MiroFlow: Tracking Data Sources for AskPaul App](https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k)
 <!-- BLOG-POST-LIST:END -->
 
