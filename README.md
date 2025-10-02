@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering TCJSGame Camera System: Creating Dynamic, Cinematic Experiences](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-camera-system-creating-dynamic-cinematic-experiences-1h0h)
-- [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
-- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
+- [How to Become an AWS Cloud Club Captain 🚀](https://dev.to/cabrellesage/how-to-become-an-aws-cloud-club-captain-2j0k)
+- [📰 Major Tech News: Oct 1st, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6)
+- [Core Concepts of Kafka](https://dev.to/farhan_khan_41ec7ff11ac1d/core-concepts-of-kafka-760)
+- [Introducing Gofsen: A Clean &amp; Minimalist Web API Framework for Go](https://dev.to/bakemonosan/introducing-gofsen-a-clean-minimalist-web-api-framework-for-go-4p3k)
 <!-- BLOG-POST-LIST:END -->
 
