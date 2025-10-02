@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot Overlord Approved Resumes in 2025!](https://dev.to/jasonetorres/robot-overlord-approved-resumes-in-2025-5fkl)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-29m)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-5c1e)
-- [KEXP: Tunde Adebimpe - Drop &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-drop-live-on-kexp-a8m)
+- [Very cute game!](https://dev.to/ben/very-cute-game-298a)
+- [A Senior Engineer&#39;s Guide to Sending EVM Transactions in Python](https://dev.to/onlineproxy/a-senior-engineers-guide-to-sending-evm-transactions-in-python-2p0f)
+- [Adding TOML Config Support to a CLI Tool](https://dev.to/oleksandrakordonets/adding-toml-config-support-to-a-cli-tool-556)
+- [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
 <!-- BLOG-POST-LIST:END -->
 
