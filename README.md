@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android: End Data Tracking Now](https://dev.to/dev-blogg/android-end-data-tracking-now-2dh9)
-- [Regex in CSS](https://dev.to/sejutaimpian/regex-in-css-4428)
-- [Hosting WordPress España: Máximo Rendimiento Garantizado](https://dev.to/ideidevhosting/hosting-wordpress-espana-maximo-rendimiento-garantizado-kie)
-- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-51pm)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-4ck2)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-8cp)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-2d0f)
 <!-- BLOG-POST-LIST:END -->
 
