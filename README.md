@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
-- [The Great AI Productivity Paradox: Are We Actually Coding Faster](https://dev.to/pullflow/the-great-ai-productivity-paradox-are-we-actually-coding-faster-ede)
-- [Yacht Owner Representation and Why It Matters for Owners, Projects, and Day to Day Life](https://dev.to/yacht_crewtraining_cba1e/yacht-owner-representation-and-why-it-matters-for-owners-projects-and-day-to-day-life-2lho)
-- [Converting TensorFlow Models to TensorFlow Lite: A Step-by-Step Guide](https://dev.to/jayita_gulati_654f0451382/converting-tensorflow-models-to-tensorflow-lite-a-step-by-step-guide-3ikm)
+- [This modern stack makes building side projects fun again](https://dev.to/egledigital/this-modern-stack-makes-building-side-projects-fun-again-5gk)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-26ah)
+- [Calorianerihashvich](https://dev.to/ashot_nalbandyan_0a8b2885/calorianerihashvich-27ne)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-3o39)
 <!-- BLOG-POST-LIST:END -->
 
