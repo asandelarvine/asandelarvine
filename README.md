@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 7: The First Fire Drill: Incident Simulation](https://dev.to/samueladeduntan/day-7-the-first-fire-drill-incident-simulation-c34)
-- [allpub to dev community](https://dev.to/pravin_niceguy/allpub-to-dev-community-ac)
-- [Enhancing MiroFlow: Tracking Data Sources for AskPaul App](https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k)
+- [This was not a business mistake. This was a carefully planned conspiracy involving multiple people, attorneys, and stolen funds. Amanda Frye was right in the middle of it.](https://dev.to/francisco_pana_8a21c947b7/this-was-not-a-business-mistake-this-was-a-carefully-planned-conspiracy-involving-multiple-people-3mg6)
+- [Python &lpar;I&rpar;](https://dev.to/elferrer/python-i-4cp6)
+- [Claude Code: Unix Philosophy Makes AI Coding Better](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-ai-coding-better-5323)
+- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
 <!-- BLOG-POST-LIST:END -->
 
