@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem](https://dev.to/igor_grieder/cap-theorem-5bi)
-- [🪨 ‘Granite 4’ Meets ‘Kubectl-AI’: Building Your Own Local, Executable Kubernetes Assistant](https://dev.to/aairom/granite-4-meets-kubectl-ai-building-your-own-local-executable-kubernetes-assistant-16hj)
-- [This Week In React #252: React 19.2, Activity, useEffectEvent | Vega OS, Voltra, NativeScript | TC39, Temporal, Baseline](https://dev.to/sebastienlorber/this-week-in-react-252-react-192-activity-useeffectevent-vega-os-voltra-nativescript--n9i)
-- [Why RH199 Red Hat System Administration II is Required](https://dev.to/sindhuja_ns_1e491ce1088d/why-rh199-red-hat-system-administration-ii-is-required-2368)
+- [Persisting data in Rust with Heave](https://dev.to/kate_korsaro/persisting-data-in-rust-with-heave-3h3d)
+- [Chrome Web Store Rejection Codes](https://dev.to/bdilip48/chrome-web-store-rejection-codes-4hfj)
+- [Is Your Job Safe from AI? Careers That Will Thrive in an AI World](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/is-your-job-safe-from-ai-careers-that-will-thrive-in-an-ai-world-aod)
+- [When Things Start Working — The First Signs of Real Progress](https://dev.to/isme_kastrati_76f4b128b63/when-things-start-working-when-things-start-working-the-first-signs-of-real-progress-386)
 <!-- BLOG-POST-LIST:END -->
 
