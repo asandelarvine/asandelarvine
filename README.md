@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-4cp2)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4n5k)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-1om6)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-273i)
+- [How to Stay Productive as a Digital Nomad: Real Tips for Working Anywhere](https://dev.to/nomadas/how-to-stay-productive-as-a-digital-nomad-real-tips-for-working-anywhere-4flo)
+- [Database Normalization in Livesql](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-in-livesql-42lf)
+- [Database Normalization](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-2d7o)
+- [NestJS Expert Series &lpar;Part 2&rpar;: Database Integration with Prisma &amp; TypeORM](https://dev.to/devto_with_yog/nestjs-expert-series-part-2-database-integration-with-prisma-typeorm-ica)
 <!-- BLOG-POST-LIST:END -->
 
