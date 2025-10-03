@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unitly.info vs. The Competition: Why Developers Choose Simplicity &amp; Speed](https://dev.to/unitly/unitlyinfo-vs-the-competition-why-developers-choose-simplicity-speed-12lc)
-- [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
-- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
-- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
+- [Difference Between Template Kits and Themes in WordPress](https://dev.to/faizancheema893/difference-between-template-kits-and-themes-in-wordpress-4cm6)
+- [BLoC &lpar;Business Logic Component&rpar; in Rust](https://dev.to/mykhailokrainik/bloc-business-logic-component-in-rust-12ba)
+- [Adapter Design Pattern in Rust](https://dev.to/mykhailokrainik/adapter-design-pattern-in-rust-1i4k)
+- [How to Deploy a PostgreSQL Database on AWS RDS &lpar;Step-by-Step&rpar;](https://dev.to/jimmybillz/how-to-deploy-a-postgresql-database-on-aws-rds-step-by-step-1dj6)
 <!-- BLOG-POST-LIST:END -->
 
