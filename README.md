@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-6n8)
-- [Stop Writing Messy Spiders. The Professional Way with Scrapy-Poet](https://dev.to/zyte/stop-writing-messy-spiders-the-professional-way-with-scrapy-poet-6og)
-- [GameSpot: Ghost of Yotei - Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-stylish-armor-combinations-22d)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21i6)
+- [Unreal or Unity?](https://dev.to/rusandu_dewm_galhena/unreal-or-unity-1bag)
+- [10 Frontend Principles That Work in Any Framework](https://dev.to/jsdev01/10-frontend-principles-that-work-in-any-framework-1kon)
+- [🏈⚽🏀 From Side Project to Pro Sports: Contribute to a Library Used by NBA, NFL &amp; Premier League Coaches](https://dev.to/hichamelbsi/from-side-project-to-pro-sports-contribute-to-a-library-used-by-nba-nfl-premier-league-1hna)
+- [How Artists Are Selling More Work Through Personal Websites &lpar;Not Marketplaces&rpar;](https://dev.to/kamruljpi/how-artists-are-selling-more-work-through-personal-websites-not-marketplaces-ah3)
 <!-- BLOG-POST-LIST:END -->
 
