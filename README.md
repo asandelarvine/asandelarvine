@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
+- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
+- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
+- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
+- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
 <!-- BLOG-POST-LIST:END -->
 
