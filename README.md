@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-456k)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-401)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4m6i)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-42p3)
+- [How I Built a MongoDB Archiving System for Crawled Data](https://dev.to/pradippanjiyar/how-i-built-a-mongodb-archiving-system-for-crawled-data-30o7)
+- [Mounting an EBS Volume on EC2](https://dev.to/ritesh355/mounting-an-ebs-volume-on-ec2-45n5)
+- [Why Integrating Crypto Today Could Be Your Company’s Competitive Edge](https://dev.to/alexnav/why-integrating-crypto-today-could-be-your-companys-competitive-edge-1n3l)
+- [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 <!-- BLOG-POST-LIST:END -->
 
