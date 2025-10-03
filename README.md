@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
-- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
-- [[Boost]](https://dev.to/oludamilola/-28lo)
-- [I Built a Tool to Parse SEC Dividend Data &lpar;And Actually Shipped It&rpar;](https://dev.to/chonito7919/i-built-a-tool-to-parse-sec-dividend-data-and-actually-shipped-it-327g)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2703)
+- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-24pn)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-157h)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3ocb)
 <!-- BLOG-POST-LIST:END -->
 
