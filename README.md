@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a MongoDB Archiving System for Crawled Data](https://dev.to/pradippanjiyar/how-i-built-a-mongodb-archiving-system-for-crawled-data-30o7)
-- [Mounting an EBS Volume on EC2](https://dev.to/ritesh355/mounting-an-ebs-volume-on-ec2-45n5)
-- [Why Integrating Crypto Today Could Be Your Company’s Competitive Edge](https://dev.to/alexnav/why-integrating-crypto-today-could-be-your-companys-competitive-edge-1n3l)
-- [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
+- [CAP Theorem](https://dev.to/igor_grieder/cap-theorem-5bi)
+- [🪨 ‘Granite 4’ Meets ‘Kubectl-AI’: Building Your Own Local, Executable Kubernetes Assistant](https://dev.to/aairom/granite-4-meets-kubectl-ai-building-your-own-local-executable-kubernetes-assistant-16hj)
+- [This Week In React #252: React 19.2, Activity, useEffectEvent | Vega OS, Voltra, NativeScript | TC39, Temporal, Baseline](https://dev.to/sebastienlorber/this-week-in-react-252-react-192-activity-useeffectevent-vega-os-voltra-nativescript--n9i)
+- [Why RH199 Red Hat System Administration II is Required](https://dev.to/sindhuja_ns_1e491ce1088d/why-rh199-red-hat-system-administration-ii-is-required-2368)
 <!-- BLOG-POST-LIST:END -->
 
