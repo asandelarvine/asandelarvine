@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
-- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
-- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
-- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
+- [Oracle Autonomous Database Dedicated: Fleet Administration, Provisioning, and Role-Based Management](https://dev.to/derrickryangiggs/oracle-autonomous-database-dedicated-fleet-administration-provisioning-and-role-based-management-4h35)
+- [How to Make a Solidity Contract 100x Cheaper and Faster](https://dev.to/bengreenberg/how-to-make-a-solidity-contract-100x-cheaper-and-faster-4he3)
+- [Make Professional Videos People Want to Watch](https://dev.to/narrative/make-professional-videos-people-want-to-watch-4nia)
+- [How AI is Changing the Future of Photo Editing](https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-53ji)
 <!-- BLOG-POST-LIST:END -->
 
