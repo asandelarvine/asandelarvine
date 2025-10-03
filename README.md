@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Benefits of Using Nexi Mail for Professional Communication in 2025](https://dev.to/justin-green/top-5-benefits-of-using-nexi-mail-for-professional-communication-in-2025-1l97)
-- [🥊 What if mutual combat law was legal again? Would trolls still talk tough if they could be subpoenaed to fight in the gym? 👀 Check out the latest Straight From Da Chair Podcast reel 👉 https://youtube.com/shorts/PLrMsO4WxhY](https://dev.to/bricedavis/what-if-mutual-combat-law-was-legal-again-would-trolls-still-talk-tough-if-they-could-be-2934)
-- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
-- [How to Pick the Right Web Frameworks for Your Next Project](https://dev.to/devsmonkey/how-to-pick-the-right-web-frameworks-for-your-next-project-4hki)
+- [C# Developer làm gì khi làm việc với PLC đã lập trình sẵn?](https://dev.to/kimhieuwork/c-developer-lam-gi-khi-lam-viec-voi-plc-da-lap-trinh-san-42m8)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-49mo)
+- [My Experience Adding TOML Config and Using Git Remotes](https://dev.to/hsachdeva9/my-experience-adding-toml-config-and-using-git-remotes-1gj8)
+- [Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!](https://dev.to/aws-builders/chat-with-my-digital-twin-how-i-built-a-personal-website-with-a-local-ai-chatbot-55m2)
 <!-- BLOG-POST-LIST:END -->
 
