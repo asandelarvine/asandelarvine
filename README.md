@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Template Kits and Themes in WordPress](https://dev.to/faizancheema893/difference-between-template-kits-and-themes-in-wordpress-4cm6)
-- [BLoC &lpar;Business Logic Component&rpar; in Rust](https://dev.to/mykhailokrainik/bloc-business-logic-component-in-rust-12ba)
-- [Adapter Design Pattern in Rust](https://dev.to/mykhailokrainik/adapter-design-pattern-in-rust-1i4k)
-- [How to Deploy a PostgreSQL Database on AWS RDS &lpar;Step-by-Step&rpar;](https://dev.to/jimmybillz/how-to-deploy-a-postgresql-database-on-aws-rds-step-by-step-1dj6)
+- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
+- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
+- [[Boost]](https://dev.to/oludamilola/-28lo)
+- [I Built a Tool to Parse SEC Dividend Data &lpar;And Actually Shipped It&rpar;](https://dev.to/chonito7919/i-built-a-tool-to-parse-sec-dividend-data-and-actually-shipped-it-327g)
 <!-- BLOG-POST-LIST:END -->
 
