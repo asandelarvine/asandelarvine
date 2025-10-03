@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stay Productive as a Digital Nomad: Real Tips for Working Anywhere](https://dev.to/nomadas/how-to-stay-productive-as-a-digital-nomad-real-tips-for-working-anywhere-4flo)
-- [Database Normalization in Livesql](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-in-livesql-42lf)
-- [Database Normalization](https://dev.to/harshitha_s_c436fb6552a2a/database-normalization-2d7o)
-- [NestJS Expert Series &lpar;Part 2&rpar;: Database Integration with Prisma &amp; TypeORM](https://dev.to/devto_with_yog/nestjs-expert-series-part-2-database-integration-with-prisma-typeorm-ica)
+- [Home Lab: Chapter 7 — Kubernetes DNS and SSL](https://dev.to/aanogueira/home-lab-chapter-7-kubernetes-dns-and-ssl-19ac)
+- [How Traditional Financial Institutions Are Embracing Crypto Lending](https://dev.to/solvap/how-traditional-financial-institutions-are-embracing-crypto-lending-2gg2)
+- [Why SPM Needs a CHANGELOG &lpar;And How to Write One&rpar;](https://dev.to/arshtechpro/why-spm-needs-a-changelog-and-how-to-write-one-1eln)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-3a0f)
 <!-- BLOG-POST-LIST:END -->
 
