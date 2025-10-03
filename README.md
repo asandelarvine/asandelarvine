@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
+- [What is React? A Beginner&#39;s Guide to the Most Popular UI Library](https://dev.to/dehemi_fabio/what-is-react-a-beginners-guide-to-the-most-popular-ui-library-3bgl)
+- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
 - [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
-- [# Tamper-Evident Ledger Systems for National Budget Transparency](https://dev.to/trinly01/-tamper-evident-ledger-systems-for-national-budget-transparency-nl1)
-- [How GitHub Copilot Made My Life Easier](https://dev.to/shiney_stanislaus_c7016b5/how-github-copilot-made-my-life-easier-14km)
-- [Check a list of IP addresses for proxies using IP2Proxy Dart](https://dev.to/ip2location/check-a-list-of-ip-addresses-for-proxies-using-ip2proxy-dart-1jck)
 <!-- BLOG-POST-LIST:END -->
 
