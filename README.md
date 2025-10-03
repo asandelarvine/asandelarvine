@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Insights from Extract Austin](https://dev.to/extractdata/my-insights-from-extract-austin-2ml1)
-- [🧮 Mastering the Math Class in Java](https://dev.to/mohamad_mhana/mastering-the-math-class-in-java-5ad4)
-- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
-- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-456k)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-401)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4m6i)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-42p3)
 <!-- BLOG-POST-LIST:END -->
 
