@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenStack for DevOps Beginners: Hands-On with MicroStack](https://dev.to/abdulrahmanalpha/openstack-for-devops-beginners-hands-on-with-microstack-5flp)
-- [Part-105: Kubernetes Headless Service Explained &lpar;with Simple Diagram&rpar;](https://dev.to/latchudevops/part-105-kubernetes-headless-service-explained-with-simple-diagram-d5p)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2e99)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1453)
+- [My Insights from Extract Austin](https://dev.to/extractdata/my-insights-from-extract-austin-2ml1)
+- [🧮 Mastering the Math Class in Java](https://dev.to/mohamad_mhana/mastering-the-math-class-in-java-5ad4)
+- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
+- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
 <!-- BLOG-POST-LIST:END -->
 
