@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Persisting data in Rust with Heave](https://dev.to/kate_korsaro/persisting-data-in-rust-with-heave-3h3d)
-- [Chrome Web Store Rejection Codes](https://dev.to/bdilip48/chrome-web-store-rejection-codes-4hfj)
-- [Is Your Job Safe from AI? Careers That Will Thrive in an AI World](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/is-your-job-safe-from-ai-careers-that-will-thrive-in-an-ai-world-aod)
-- [When Things Start Working — The First Signs of Real Progress](https://dev.to/isme_kastrati_76f4b128b63/when-things-start-working-when-things-start-working-the-first-signs-of-real-progress-386)
+- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-6n8)
+- [Stop Writing Messy Spiders. The Professional Way with Scrapy-Poet](https://dev.to/zyte/stop-writing-messy-spiders-the-professional-way-with-scrapy-poet-6og)
+- [GameSpot: Ghost of Yotei - Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-stylish-armor-combinations-22d)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-21i6)
 <!-- BLOG-POST-LIST:END -->
 
