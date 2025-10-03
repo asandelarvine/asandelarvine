@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you get your dev team to shift left by themselves for real?](https://dev.to/owasp/how-do-you-get-your-dev-team-to-shift-left-by-themselves-for-real-3eap)
-- [Building and Growing PS Handyman Singapore: Challenges, Insights, and Future Goals](https://dev.to/trustedhandymanx/building-and-growing-ps-handyman-singapore-challenges-insights-and-future-goals-23ib)
-- [DevOps Tools Landscape &lpar;GitLab, CircleCI, etc.&rpar;](https://dev.to/godofgeeks/devops-tools-landscape-gitlab-circleci-etc-398c)
-- [The Technical Genius Behind PBJ The Musical Apple Award Win](https://dev.to/lobyloyloy/the-technical-genius-behind-pbj-the-musical-apple-award-win-40lc)
+- [OpenStack for DevOps Beginners: Hands-On with MicroStack](https://dev.to/abdulrahmanalpha/openstack-for-devops-beginners-hands-on-with-microstack-5flp)
+- [Part-105: Kubernetes Headless Service Explained &lpar;with Simple Diagram&rpar;](https://dev.to/latchudevops/part-105-kubernetes-headless-service-explained-with-simple-diagram-d5p)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2e99)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-1453)
 <!-- BLOG-POST-LIST:END -->
 
