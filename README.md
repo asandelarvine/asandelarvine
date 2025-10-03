@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Autonomous Database Dedicated: Fleet Administration, Provisioning, and Role-Based Management](https://dev.to/derrickryangiggs/oracle-autonomous-database-dedicated-fleet-administration-provisioning-and-role-based-management-4h35)
-- [How to Make a Solidity Contract 100x Cheaper and Faster](https://dev.to/bengreenberg/how-to-make-a-solidity-contract-100x-cheaper-and-faster-4he3)
-- [Make Professional Videos People Want to Watch](https://dev.to/narrative/make-professional-videos-people-want-to-watch-4nia)
-- [How AI is Changing the Future of Photo Editing](https://dev.to/hassan_3bbb2ffd268a7bcf0b/how-ai-is-changing-the-future-of-photo-editing-53ji)
+- [How do you get your dev team to shift left by themselves for real?](https://dev.to/owasp/how-do-you-get-your-dev-team-to-shift-left-by-themselves-for-real-3eap)
+- [Building and Growing PS Handyman Singapore: Challenges, Insights, and Future Goals](https://dev.to/trustedhandymanx/building-and-growing-ps-handyman-singapore-challenges-insights-and-future-goals-23ib)
+- [DevOps Tools Landscape &lpar;GitLab, CircleCI, etc.&rpar;](https://dev.to/godofgeeks/devops-tools-landscape-gitlab-circleci-etc-398c)
+- [The Technical Genius Behind PBJ The Musical Apple Award Win](https://dev.to/lobyloyloy/the-technical-genius-behind-pbj-the-musical-apple-award-win-40lc)
 <!-- BLOG-POST-LIST:END -->
 
