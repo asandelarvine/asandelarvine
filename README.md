@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unreal or Unity?](https://dev.to/rusandu_dewm_galhena/unreal-or-unity-1bag)
-- [10 Frontend Principles That Work in Any Framework](https://dev.to/jsdev01/10-frontend-principles-that-work-in-any-framework-1kon)
-- [🏈⚽🏀 From Side Project to Pro Sports: Contribute to a Library Used by NBA, NFL &amp; Premier League Coaches](https://dev.to/hichamelbsi/from-side-project-to-pro-sports-contribute-to-a-library-used-by-nba-nfl-premier-league-1hna)
-- [How Artists Are Selling More Work Through Personal Websites &lpar;Not Marketplaces&rpar;](https://dev.to/kamruljpi/how-artists-are-selling-more-work-through-personal-websites-not-marketplaces-ah3)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-4cp2)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4n5k)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-1om6)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-273i)
 <!-- BLOG-POST-LIST:END -->
 
