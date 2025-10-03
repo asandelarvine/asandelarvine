@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 2025 Full Course – Build a Netflix Clone with Tailwind, TanStack Router, TanStack Query &amp; Zustand](https://dev.to/shrutikapoor08/react-2025-full-course-build-a-netflix-clone-with-tailwind-tanstack-router-tanstack-query--4ehc)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-mg9)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-300e)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-3g87)
+- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
+- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
+- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
+- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
 <!-- BLOG-POST-LIST:END -->
 
