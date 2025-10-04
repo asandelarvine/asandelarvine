@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Adventures &amp;&amp; TOML Config](https://dev.to/elsad_humbetli_0971c995ce/git-adventures-toml-config-24il)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_06022d8b/your-error-handling-is-a-mess-and-its-costing-you--18m2)
-- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-17en)
-- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4bo5)
+- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
+- [How I Use AI to Manage Version Control &amp; Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
+- [Using Predictive Maintenance to Improve Efficiency in Smart Factories](https://dev.to/mdtoukiryeasirtaimun/using-predictive-maintenance-to-improve-efficiency-in-smart-factories-3a7d)
+- [Understanding ACID Properties with SQL Transactions](https://dev.to/boopathys_8ff57c77ea5a5e/understanding-acid-properties-with-sql-transactions-43k5)
 <!-- BLOG-POST-LIST:END -->
 
