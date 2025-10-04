@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Component-Driven Workflows: Tips for 2025 ⚡](https://dev.to/tahamjp/mastering-component-driven-workflows-tips-for-2025-4ckp)
-- [Building a Real-Time Matchmaking System with NestJS and MongoDB 🎮](https://dev.to/jeremiah_ankucoblah_e1d5/-building-a-real-time-matchmaking-system-with-nestjs-and-mongodb-5fh0)
-- [Trying Out Arm&#39;s Scalable Matrix Extension with Apple M4 or QEMU](https://dev.to/aratamizuki/trying-out-arms-scalable-matrix-extension-with-apple-m4-or-qemu-1cgh)
-- [The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
+- [💡 Curious about Power Apps, Power Automate, Power BI, and Power Pages? I just published a beginner-friendly guide on why Microsoft Power Platform is reshaping the future of work. Check it out 👉](https://dev.to/phylis/-45pd)
+- [Why Everyone Is Talking About Microsoft Power Platform](https://dev.to/phylis/why-everyone-is-talking-about-microsoft-power-platform-4fjj)
+- [Node.js &amp; Type Script: A Match Made for Modern Web Development](https://dev.to/satyam_gupta_0d1ff2152dcc/nodejs-type-script-a-match-made-for-modern-web-development-hnk)
+- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
 <!-- BLOG-POST-LIST:END -->
 
