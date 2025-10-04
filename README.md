@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
-- [Understanding and Verifying JWT Authentication in Spring Boot](https://dev.to/varunpatil1709/understanding-and-verifying-jwt-authentication-in-spring-boot-4i2h)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-32fa)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4j6b)
+- [Nvidia&#39;s AI Kill Chain](https://dev.to/toxsec/nvidias-ai-kill-chain-4flo)
+- [My DevOps Journey: Part 7 - Mastering Networking for DevOps Engineers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-7-mastering-networking-for-devops-engineers-3eo8)
+- [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
+- [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
 <!-- BLOG-POST-LIST:END -->
 
