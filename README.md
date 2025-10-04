@@ -79,14 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python. Project Structure &lpar;VI&rpar;](https://dev.to/elferrer/python-project-structure-vi-5a00)
-- [Example Online Postgre – Rune + RedBean CLI Application](https://dev.to/anwarachilles/example-online-postgre-rune-redbean-cli-application-5b0p)
-- [Find the Maximum Area possible given different vertical lines on X-Axis &lpar;Leetcode Problem Analysis&rpar;](https://dev.to/bjorndonald_bassey_c126c/find-the-maximum-area-possible-given-different-vertical-lines-on-x-axis-leetcode-problem-analysis-2h9o)
-- [Never asked JavaScript interview question 🤪
-How will you create an object of class from other object 
-Normal way - 
-const jack = new Person&lpar;&rpar;; //using class name
-
-find a way to create tom object without using class name Person](https://dev.to/randhavevaibhav/never-asked-javascript-interview-question-how-will-you-create-an-object-of-class-from-other-37pb)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3f5n)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-4f64)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-239i)
+- [Danny Maude: If You Move Your Right Arm Like This It Can Ruin Your Golf Swing](https://dev.to/youtube_golf/danny-maude-if-you-move-your-right-arm-like-this-it-can-ruin-your-golf-swing-2d08)
 <!-- BLOG-POST-LIST:END -->
 
