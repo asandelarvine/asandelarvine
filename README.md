@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Client Proposal Generation with Google Forms, Sheets, and Apps Script &lpar;Step-by-Step Guide&rpar;](https://dev.to/kangjessy/automating-client-proposal-generation-with-google-forms-sheets-and-apps-script-step-by-step-59aj)
-- [Introduction to Cloud Computing and AWS](https://dev.to/olymahmud/introduction-to-cloud-computing-and-aws-29li)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf)
+- [7 BlazeMeter Alternatives for Advanced Load and Performance Testing](https://dev.to/liam_smith_4be389080a2577/7-blazemeter-alternatives-for-advanced-load-and-performance-testing-30ma)
+- [Keep Julia Awake: NoSleep.jl](https://dev.to/metelkin/keep-julia-awake-nosleepjl-4pko)
+- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
+- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
 <!-- BLOG-POST-LIST:END -->
 
