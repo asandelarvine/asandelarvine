@@ -79,9 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3cn1)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3c32)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2f2k)
-- [No Laying Up Podcast: Chop Session with Cody | Trap Draw, Ep 361](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-cody-trap-draw-ep-361-mhn)
+- [Python. Project Structure &lpar;VI&rpar;](https://dev.to/elferrer/python-project-structure-vi-5a00)
+- [Example Online Postgre – Rune + RedBean CLI Application](https://dev.to/anwarachilles/example-online-postgre-rune-redbean-cli-application-5b0p)
+- [Find the Maximum Area possible given different vertical lines on X-Axis &lpar;Leetcode Problem Analysis&rpar;](https://dev.to/bjorndonald_bassey_c126c/find-the-maximum-area-possible-given-different-vertical-lines-on-x-axis-leetcode-problem-analysis-2h9o)
+- [Never asked JavaScript interview question 🤪
+How will you create an object of class from other object 
+Normal way - 
+const jack = new Person&lpar;&rpar;; //using class name
+
+find a way to create tom object without using class name Person](https://dev.to/randhavevaibhav/never-asked-javascript-interview-question-how-will-you-create-an-object-of-class-from-other-37pb)
 <!-- BLOG-POST-LIST:END -->
 
