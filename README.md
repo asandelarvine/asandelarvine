@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📚Library Management System](https://dev.to/sak_up_37a199dee68e412c0c/library-management-system-4081)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-254)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
+- [Manual Indexing Explained: Getting Your Page into Google Faster](https://dev.to/rijultp/manual-indexing-explained-getting-your-page-into-google-faster-g4g)
+- [**Measuring Success in Reinforcement Learning: Unpacking the](https://dev.to/drcarlosruizviquez/measuring-success-in-reinforcement-learning-unpacking-the-1ce8)
+- [**Unlock the Power of Emotional Anchoring in AI Models** In](https://dev.to/drcarlosruizviquez/unlock-the-power-of-emotional-anchoring-in-ai-modelsin-9fe)
+- [How I Use Google NotebookLM to Create Flashcards, Quizzes, Mind Maps, and AI Podcasts](https://dev.to/paras_builds/how-i-use-google-notebooklm-to-create-flashcards-quizzes-mind-maps-and-ai-podcasts-bff)
 <!-- BLOG-POST-LIST:END -->
 
