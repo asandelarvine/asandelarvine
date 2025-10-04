@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
-- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
-- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
-- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
+- [Git Adventures &amp;&amp; TOML Config](https://dev.to/elsad_humbetli_0971c995ce/git-adventures-toml-config-24il)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_06022d8b/your-error-handling-is-a-mess-and-its-costing-you--18m2)
+- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-17en)
+- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4bo5)
 <!-- BLOG-POST-LIST:END -->
 
