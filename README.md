@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-f44)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-47nk)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-4ck6)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-hb9)
+- [Understanding Authentication That Actually Makes Sense](https://dev.to/sakshamverma_08_cc20bb7de/understanding-authentication-that-actually-makes-sense-2be1)
+- [Building Real-Time Data Pipelines from PostgreSQL Using Flink CDC](https://dev.to/lakshminarayan_r_6f07f9c0/building-real-time-data-pipelines-from-postgresql-using-flink-cdc-1m56)
+- [Transforma tu flujo de trabajo de YouTube con subidas impulsadas por IA](https://dev.to/ahmed_hisham_8f0ea5e51cd8/transforma-tu-flujo-de-trabajo-de-youtube-con-subidas-impulsadas-por-ia-1ihi)
+- [YouTube Smart AI Uploader: Automating Content Publishing with AI](https://dev.to/ahmed_hisham_8f0ea5e51cd8/youtube-smart-ai-uploader-automating-content-publishing-with-ai-54l7)
 <!-- BLOG-POST-LIST:END -->
 
