@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manual Indexing Explained: Getting Your Page into Google Faster](https://dev.to/rijultp/manual-indexing-explained-getting-your-page-into-google-faster-g4g)
-- [**Measuring Success in Reinforcement Learning: Unpacking the](https://dev.to/drcarlosruizviquez/measuring-success-in-reinforcement-learning-unpacking-the-1ce8)
-- [**Unlock the Power of Emotional Anchoring in AI Models** In](https://dev.to/drcarlosruizviquez/unlock-the-power-of-emotional-anchoring-in-ai-modelsin-9fe)
-- [How I Use Google NotebookLM to Create Flashcards, Quizzes, Mind Maps, and AI Podcasts](https://dev.to/paras_builds/how-i-use-google-notebooklm-to-create-flashcards-quizzes-mind-maps-and-ai-podcasts-bff)
+- [Stop Using useEffect for Data Fetching](https://dev.to/deveshsangwan/stop-using-useeffect-for-data-fetching-5hcl)
+- [Understanding and Verifying JWT Authentication in Spring Boot](https://dev.to/varunpatil1709/understanding-and-verifying-jwt-authentication-in-spring-boot-4i2h)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-32fa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4j6b)
 <!-- BLOG-POST-LIST:END -->
 
