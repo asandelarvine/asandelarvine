@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to sync iOS build numbers &lpar;Expo + EAS + App Store Connect&rpar;](https://dev.to/cathylai/how-to-sync-ios-build-numbers-expo-eas-app-store-connect-2ldg)
-- [What is a Cronjob and understanding syntax](https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p)
-- [How Nexy Makes Sure Nothing Slips Through the Cracks](https://dev.to/nexy/how-nexy-makes-sure-nothing-slips-through-the-cracks-lpk)
-- [Day 3 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-3-of-100-days-dsa-coding-challenge-3280)
+- [Automating Client Proposal Generation with Google Forms, Sheets, and Apps Script &lpar;Step-by-Step Guide&rpar;](https://dev.to/kangjessy/automating-client-proposal-generation-with-google-forms-sheets-and-apps-script-step-by-step-59aj)
+- [Introduction to Cloud Computing and AWS](https://dev.to/olymahmud/introduction-to-cloud-computing-and-aws-29li)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf)
 <!-- BLOG-POST-LIST:END -->
 
