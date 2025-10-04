@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4o9a)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-12o6)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-5934)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3113)
+- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
+- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
+- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
+- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
 <!-- BLOG-POST-LIST:END -->
 
