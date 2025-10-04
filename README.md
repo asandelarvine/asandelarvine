@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
-- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
-- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
-- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
+- [Mastering Component-Driven Workflows: Tips for 2025 ⚡](https://dev.to/tahamjp/mastering-component-driven-workflows-tips-for-2025-4ckp)
+- [Building a Real-Time Matchmaking System with NestJS and MongoDB 🎮](https://dev.to/jeremiah_ankucoblah_e1d5/-building-a-real-time-matchmaking-system-with-nestjs-and-mongodb-5fh0)
+- [Trying Out Arm&#39;s Scalable Matrix Extension with Apple M4 or QEMU](https://dev.to/aratamizuki/trying-out-arms-scalable-matrix-extension-with-apple-m4-or-qemu-1cgh)
+- [The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
 <!-- BLOG-POST-LIST:END -->
 
