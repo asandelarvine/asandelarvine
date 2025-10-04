@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quantum Future: How AI is Redefining Possibility](https://dev.to/quantumshell/the-quantum-future-how-ai-is-redefining-possibility-4p08)
-- [🚀 Vyoma is Launching on Product Hunt this October 10th!](https://dev.to/pjdeveloper896/vyoma-is-launching-on-product-hunt-this-october-10th-3nh)
-- [Never Miss a Downtime: AWS Website Uptime Monitor with Terraform](https://dev.to/hasan_ashab/never-miss-a-downtime-aws-website-uptime-monitor-with-terraform-5f2o)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-398p)
+- [How to sync iOS build numbers &lpar;Expo + EAS + App Store Connect&rpar;](https://dev.to/cathylai/how-to-sync-ios-build-numbers-expo-eas-app-store-connect-2ldg)
+- [What is a Cronjob and understanding syntax](https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p)
+- [How Nexy Makes Sure Nothing Slips Through the Cracks](https://dev.to/nexy/how-nexy-makes-sure-nothing-slips-through-the-cracks-lpk)
+- [Day 3 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-3-of-100-days-dsa-coding-challenge-3280)
 <!-- BLOG-POST-LIST:END -->
 
