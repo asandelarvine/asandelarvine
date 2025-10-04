@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3f5n)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-4f64)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-239i)
-- [Danny Maude: If You Move Your Right Arm Like This It Can Ruin Your Golf Swing](https://dev.to/youtube_golf/danny-maude-if-you-move-your-right-arm-like-this-it-can-ruin-your-golf-swing-2d08)
+- [Quick Framework e algumas Melhorias de Performance](https://dev.to/jeffotoni/quick-framework-algumas-melhorias-de-performance-42af)
+- [Clickbait Detection with Machine Learning: A Complete Python Tutorial](https://dev.to/deviprasadshetty/clickbait-detection-with-machine-learning-a-complete-python-tutorial-hf8)
+- [Everyday Answers: React, JavaScript &amp; Frontend Explained Like Real Life &lpar;With Friendly Code &amp; Comments!&rpar;](https://dev.to/mourya_modugula/everyday-answers-react-javascript-frontend-explained-like-real-life-with-friendly-code--5co1)
+- [5 MongoDB Labs: Filter, Sort, Export, and Delete Data Collections &lpar;Your First MongoDB Tutorial&rpar;](https://dev.to/labex/5-mongodb-labs-filter-sort-export-and-delete-data-collections-your-first-mongodb-tutorial-32mh)
 <!-- BLOG-POST-LIST:END -->
 
