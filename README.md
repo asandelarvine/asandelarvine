@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Metro: The KMP DI Framework You Never Knew You Needed](https://dev.to/mastrgamr/metro-the-kmp-di-framework-you-never-knew-you-needed-64f)
-- [CRUD Operations in MongoDB](https://dev.to/nethra_loganathan_98e5233/crud-operations-in-mongodb-3810)
-- [Unleash AI Agents with Real Time MCP Data: The Ultimate Guide to Real-Time Crypto Insights](https://dev.to/dbatson/unleash-ai-agents-with-real-time-mcp-data-the-ultimate-guide-to-real-time-crypto-insights-31kn)
-- [Understanding Linear Guides in Modern Engineering](https://dev.to/danie_brooks_dc7a891322b3/understanding-linear-guides-in-modern-engineering-nk5)
+- [The Quantum Future: How AI is Redefining Possibility](https://dev.to/quantumshell/the-quantum-future-how-ai-is-redefining-possibility-4p08)
+- [🚀 Vyoma is Launching on Product Hunt this October 10th!](https://dev.to/pjdeveloper896/vyoma-is-launching-on-product-hunt-this-october-10th-3nh)
+- [Never Miss a Downtime: AWS Website Uptime Monitor with Terraform](https://dev.to/hasan_ashab/never-miss-a-downtime-aws-website-uptime-monitor-with-terraform-5f2o)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-398p)
 <!-- BLOG-POST-LIST:END -->
 
