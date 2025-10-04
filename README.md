@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Framework e algumas Melhorias de Performance](https://dev.to/jeffotoni/quick-framework-algumas-melhorias-de-performance-42af)
-- [Clickbait Detection with Machine Learning: A Complete Python Tutorial](https://dev.to/deviprasadshetty/clickbait-detection-with-machine-learning-a-complete-python-tutorial-hf8)
-- [Everyday Answers: React, JavaScript &amp; Frontend Explained Like Real Life &lpar;With Friendly Code &amp; Comments!&rpar;](https://dev.to/mourya_modugula/everyday-answers-react-javascript-frontend-explained-like-real-life-with-friendly-code--5co1)
-- [5 MongoDB Labs: Filter, Sort, Export, and Delete Data Collections &lpar;Your First MongoDB Tutorial&rpar;](https://dev.to/labex/5-mongodb-labs-filter-sort-export-and-delete-data-collections-your-first-mongodb-tutorial-32mh)
+- [📚Library Management System](https://dev.to/sak_up_37a199dee68e412c0c/library-management-system-4081)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-254)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj)
 <!-- BLOG-POST-LIST:END -->
 
