@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma MCP to Code with cursor](https://dev.to/konfydev/figma-mcp-to-code-5aeh)
-- [The Secure Network Automation Playbook: Using Ansible, Python, and GitOps for Security](https://dev.to/gagreatprogrammer/the-secure-network-automation-playbook-using-ansible-python-and-gitops-for-security-457j)
-- [How to Sell Services Directly from Your Portfolio Without Third-Party Platforms](https://dev.to/imtaslim/how-to-sell-services-directly-from-your-portfolio-without-third-party-platforms-4mnf)
-- [Understanding Google Maps Grounding with ADK &lpar;Part 2/5&rpar;](https://dev.to/greyisheepai/understanding-google-maps-grounding-with-adk-part-25-476)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4o9a)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-12o6)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-5934)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3113)
 <!-- BLOG-POST-LIST:END -->
 
