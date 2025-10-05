@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
-- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
-- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
-- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1o7)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-466a)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3eod)
 <!-- BLOG-POST-LIST:END -->
 
