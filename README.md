@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Authentication That Actually Makes Sense](https://dev.to/sakshamverma_08_cc20bb7de/understanding-authentication-that-actually-makes-sense-2be1)
-- [Building Real-Time Data Pipelines from PostgreSQL Using Flink CDC](https://dev.to/lakshminarayan_r_6f07f9c0/building-real-time-data-pipelines-from-postgresql-using-flink-cdc-1m56)
-- [Transforma tu flujo de trabajo de YouTube con subidas impulsadas por IA](https://dev.to/ahmed_hisham_8f0ea5e51cd8/transforma-tu-flujo-de-trabajo-de-youtube-con-subidas-impulsadas-por-ia-1ihi)
-- [YouTube Smart AI Uploader: Automating Content Publishing with AI](https://dev.to/ahmed_hisham_8f0ea5e51cd8/youtube-smart-ai-uploader-automating-content-publishing-with-ai-54l7)
+- [How I implemented Picture-in-Picture in React &lpar;with full code + tips&rpar;](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
+- [The Next Frontier of Decentralized Intelligence](https://dev.to/fangguoming/the-next-frontier-of-decentralized-intelligence-dk6)
+- [Weekly Challenge: Reversing my broken keys](https://dev.to/simongreennet/weekly-challenge-reversing-my-broken-keys-313l)
+- [100 Days of DevOps: Day 63](https://dev.to/wycliffealphus/100-days-of-devops-day-63-1d33)
 <!-- BLOG-POST-LIST:END -->
 
