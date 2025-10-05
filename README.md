@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
-- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
+- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
+- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
+- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
+- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
 <!-- BLOG-POST-LIST:END -->
 
