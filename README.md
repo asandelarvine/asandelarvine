@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
-- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
-- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
-- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
+- [DevOps by Doing: Deploying NGINX on Azure Kubernetes Service &lpar;AKS&rpar; with Terraform](https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0)
+- [Fundamentals metrics for Software Engineering derived from Math Statistics](https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-1la0)
 <!-- BLOG-POST-LIST:END -->
 
