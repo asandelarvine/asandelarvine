@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Sanity&#39;s Portable Text - Here&#39;s How to Use Markdown Instead](https://dev.to/setasena_randata_1cfa30f4/stop-fighting-sanitys-portable-text-heres-how-to-use-markdown-instead-47cb)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/reshma_devi_ba32b2f54397d/indexing-hashing-query-optimization-in-dbms-965)
-- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
-- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
+- [happy birthday 🩷](https://dev.to/sanvi_0424fec9c7a19/happy-birthday-210n)
+- [Web Developer Travis McCracken on Load Testing Rust APIs with K6](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-load-testing-rust-apis-with-k6-5084)
+- [Introduce myself](https://dev.to/gitenghar/introduce-myself-4mka)
+- [UI/UX Design Best Practices That Actually Boost User Engagement](https://dev.to/bismasaeed/uiux-design-best-practices-that-actually-boost-user-engagement-1kia)
 <!-- BLOG-POST-LIST:END -->
 
