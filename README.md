@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [happy birthday 🩷](https://dev.to/sanvi_0424fec9c7a19/happy-birthday-210n)
-- [Web Developer Travis McCracken on Load Testing Rust APIs with K6](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-load-testing-rust-apis-with-k6-5084)
-- [Introduce myself](https://dev.to/gitenghar/introduce-myself-4mka)
-- [UI/UX Design Best Practices That Actually Boost User Engagement](https://dev.to/bismasaeed/uiux-design-best-practices-that-actually-boost-user-engagement-1kia)
+- [🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers &amp; Tools That Make You Unstoppable](https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e)
+- [Angular Create App Loader Directive](https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2)
+- [React 19.2&#39;s useEffectEvent vs our Custom useEventCallback](https://dev.to/hashcode01/react-192s-useeffectevent-vs-our-custom-useeventcallback-i45)
+- [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
 <!-- BLOG-POST-LIST:END -->
 
