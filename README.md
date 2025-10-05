@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
-- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
-- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
-- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
+- [MongoDB CRUD Operations](https://dev.to/ilakkiya_99033c7a7246d48b/mongodb-crud-operations-a-hands-on-guide-with-student-data-3hkd)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-ghm)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a55)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-3g2a)
 <!-- BLOG-POST-LIST:END -->
 
