@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Made Simple: How Your Browser Talks to Servers](https://dev.to/parthi_rp/http-made-simple-how-your-browser-talks-to-servers-2f60)
-- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
-- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
-- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
+- [Orchestro: Trello for Claude Code — with a built-in Scrum Master](https://dev.to/dpelleri/orchestro-trello-for-claude-code-with-a-built-in-scrum-master-1e3e)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
 <!-- BLOG-POST-LIST:END -->
 
