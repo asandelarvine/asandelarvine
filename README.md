@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps](https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d)
-- [Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores](https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp)
-- [Deciphering the Code What Phone Numbers](https://dev.to/rakibhasan32/deciphering-the-code-what-phone-numbers-53lk)
-- [Building a Robust Plumbing Service Platform: Challenges, Innovations, and Future Goals](https://dev.to/ella_rose/building-a-robust-plumbing-service-platform-challenges-innovations-and-future-goals-1749)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-311p)
+- [Build Your First MCP Server Using Spring Boot](https://dev.to/porass/create-your-first-mcp-server-in-spring-boot-1lpp)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-32l8)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4jib)
 <!-- BLOG-POST-LIST:END -->
 
