@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I implemented Picture-in-Picture in React &lpar;with full code + tips&rpar;](https://dev.to/keni_97e44d198c12a5/how-i-implemented-picture-in-picture-in-react-with-full-code-tips-2aj3)
-- [The Next Frontier of Decentralized Intelligence](https://dev.to/fangguoming/the-next-frontier-of-decentralized-intelligence-dk6)
-- [Weekly Challenge: Reversing my broken keys](https://dev.to/simongreennet/weekly-challenge-reversing-my-broken-keys-313l)
-- [100 Days of DevOps: Day 63](https://dev.to/wycliffealphus/100-days-of-devops-day-63-1d33)
+- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
+- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
+- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
+- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
 <!-- BLOG-POST-LIST:END -->
 
