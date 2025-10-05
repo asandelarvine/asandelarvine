@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [selenium](https://dev.to/gokila_selvaraj_8a3278587/selenium-5271)
-- [🎪 The Great DevOps Circus: How I Deployed a Full-Stack App Without Losing My Mind &lpar;A Beginner&#39;s Survival Guide&rpar;.](https://dev.to/c_6b7a8e65d067ddc62/the-great-devops-circus-how-i-deployed-a-full-stack-app-without-losing-my-mind-a-beginners-4jfc)
-- [Artificial Intelligence in Music Composition: Unlocking Human Creativity](https://dev.to/pushkar_gautamaryan_ca/artificial-intelligence-in-music-composition-unlocking-human-creativity-2i5)
-- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
+- [🚀 Uploading Your Code with Arduino IDE](https://dev.to/mohamed_ahmed_dev/uploading-your-code-with-arduino-ide-3k29)
+- [Stop Fighting Circular Imports](https://dev.to/nicocrm/stop-fighting-circular-imports-5312)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-43ok)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3mal)
 <!-- BLOG-POST-LIST:END -->
 
