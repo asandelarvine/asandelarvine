@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB CRUD Operations](https://dev.to/ilakkiya_99033c7a7246d48b/mongodb-crud-operations-a-hands-on-guide-with-student-data-3hkd)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-ghm)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a55)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-3g2a)
+- [Check it out](https://dev.to/masterdevsabith/check-it-out-18kg)
+- [🔁 Idempotency in System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/idempotency-in-system-design-2jcj)
+- [Custom AI Solutions vs Off-the-Shelf AI: Which Is Right for You?](https://dev.to/nayeem79/custom-ai-solutions-vs-off-the-shelf-ai-which-is-right-for-you-5ffj)
+- [#DAY 11: High Availability – Deploying a Reverse Proxy &lpar;Nginx&rpar;](https://dev.to/samueladeduntan/day-11-high-availability-deploying-a-reverse-proxy-nginx-mn4)
 <!-- BLOG-POST-LIST:END -->
 
