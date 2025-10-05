@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-ld)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1o7)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-466a)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3eod)
+- [🎧 Cómo hice un recortador de audio MP3 online con FastAPI + FFmpeg](https://dev.to/whario/como-hice-un-recortador-de-audio-mp3-online-con-fastapi-ffmpeg-4m3o)
+- [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
+- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
+- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
 <!-- BLOG-POST-LIST:END -->
 
