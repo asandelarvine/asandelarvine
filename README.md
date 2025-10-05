@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Core Fundamentals: var, let, const, Scope, and Closures](https://dev.to/tsedid/javascript-core-fundamentals-var-let-const-scope-and-closures-1pe9)
-- [Empowering Minds: How Online Learning Platforms Enhance Students&#39; Critical Thinking Skills](https://dev.to/ghummantech/empowering-minds-how-online-learning-platforms-enhance-students-critical-thinking-skills-3o8p)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2fgb)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2058)
+- [The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps](https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d)
+- [Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores](https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp)
+- [Deciphering the Code What Phone Numbers](https://dev.to/rakibhasan32/deciphering-the-code-what-phone-numbers-53lk)
+- [Building a Robust Plumbing Service Platform: Challenges, Innovations, and Future Goals](https://dev.to/ella_rose/building-a-robust-plumbing-service-platform-challenges-innovations-and-future-goals-1749)
 <!-- BLOG-POST-LIST:END -->
 
