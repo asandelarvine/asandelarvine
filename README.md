@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps by Doing: Deploying NGINX on Azure Kubernetes Service &lpar;AKS&rpar; with Terraform](https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0)
-- [Fundamentals metrics for Software Engineering derived from Math Statistics](https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-1la0)
+- [HTTP Made Simple: How Your Browser Talks to Servers](https://dev.to/parthi_rp/http-made-simple-how-your-browser-talks-to-servers-2f60)
+- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
+- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
+- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
 <!-- BLOG-POST-LIST:END -->
 
