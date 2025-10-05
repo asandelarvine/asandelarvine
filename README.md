@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestro: Trello for Claude Code — with a built-in Scrum Master](https://dev.to/dpelleri/orchestro-trello-for-claude-code-with-a-built-in-scrum-master-1e3e)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-11i7)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1i62)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2kbk)
+- [Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/indexing-hashing-query-optimization-in-sql-2cnn)
+- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
+- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
+- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
 <!-- BLOG-POST-LIST:END -->
 
