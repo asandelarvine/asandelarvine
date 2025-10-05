@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST Pagination techniques](https://dev.to/kanakos01/rest-pagination-techniques-p9b)
-- [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
-- [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
-- [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
+- [JavaScript Core Fundamentals: var, let, const, Scope, and Closures](https://dev.to/tsedid/javascript-core-fundamentals-var-let-const-scope-and-closures-1pe9)
+- [Empowering Minds: How Online Learning Platforms Enhance Students&#39; Critical Thinking Skills](https://dev.to/ghummantech/empowering-minds-how-online-learning-platforms-enhance-students-critical-thinking-skills-3o8p)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2fgb)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2058)
 <!-- BLOG-POST-LIST:END -->
 
