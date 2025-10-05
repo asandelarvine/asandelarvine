@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Normalization](https://dev.to/arun_prasath_fa013c5e6085/database-normalization-1l1m)
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-2e81)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1bpi)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3n58)
+- [REST Pagination techniques](https://dev.to/kanakos01/rest-pagination-techniques-p9b)
+- [I Built a Subscription Tracker in 14 Days Using Angular 20 &lpar;And Made $0… Yet&rpar;](https://dev.to/karol_modelski/i-built-a-subscription-tracker-in-14-days-using-angular-20-and-made-0-yet-2hid)
+- [📖 Understanding Uniface 10.4 Help Texts: A Simple Guide](https://dev.to/petercode/understanding-uniface-104-help-texts-a-simple-guide-1g62)
+- [Reflections on Designing a Search Autocomplete System](https://dev.to/andersontsai/reflections-on-designing-a-search-autocomplete-system-2j87)
 <!-- BLOG-POST-LIST:END -->
 
