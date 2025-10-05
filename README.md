@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2276)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4b4f)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4koe)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1jpf)
+- [selenium](https://dev.to/gokila_selvaraj_8a3278587/selenium-5271)
+- [🎪 The Great DevOps Circus: How I Deployed a Full-Stack App Without Losing My Mind &lpar;A Beginner&#39;s Survival Guide&rpar;.](https://dev.to/c_6b7a8e65d067ddc62/the-great-devops-circus-how-i-deployed-a-full-stack-app-without-losing-my-mind-a-beginners-4jfc)
+- [Artificial Intelligence in Music Composition: Unlocking Human Creativity](https://dev.to/pushkar_gautamaryan_ca/artificial-intelligence-in-music-composition-unlocking-human-creativity-2i5)
+- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
 <!-- BLOG-POST-LIST:END -->
 
