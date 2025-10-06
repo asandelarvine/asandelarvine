@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React](https://dev.to/dharshinieswaran/react-21ec)
-- [50 Most Useful Angular JS Version 1 code Snippets](https://dev.to/softwaredeveloper01/50-most-useful-angular-js-version-1-code-snippets-4i74)
-- [smart suspension- raj patil](https://dev.to/sidatgithubcode/smart-suspension-raj-patil-3cm4)
-- [Memory management system in C/C++](https://dev.to/linuslover/memory-management-system-in-cc-5dl9)
+- [🚀 I built Beat The Boss, an HTML game, with Vibe Coding — give it a spin!](https://dev.to/arun1989ninja/i-built-beat-the-boss-an-html-game-with-vibe-coding-give-it-a-spin-4i0m)
+- [O Segredo do Sucesso: Gerando Leads Qualificados e Éticos para o Telemarketing](https://dev.to/fantodata/o-segredo-do-sucesso-gerando-leads-qualificados-e-eticos-para-o-telemarketing-46am)
+- [Normalization In DBMS](https://dev.to/harish_t_aa27d59c9c2493a5/normalization-in-dbms-4l9j)
+- [Batch Processing with Spring Batch and Multiple Data Sources](https://dev.to/ibrahimgunduz34/batch-processing-with-spring-batch-and-multiple-data-sources-265m)
 <!-- BLOG-POST-LIST:END -->
 
