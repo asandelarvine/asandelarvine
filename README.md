@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought My Backups Were Safe - Until I Tried Restoring One](https://dev.to/highflyer910/i-thought-my-backups-were-safe-until-i-tried-restoring-one-387i)
-- [Automating Text-to-Video Pipelines with Sora 2 and n8n](https://dev.to/alifar/automating-text-to-video-pipelines-with-sora-2-and-n8n-lh0)
-- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
-- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-19l8)
+- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1dha)
+- [AI in Cloud Cost Optimization: The Ultimate Guide to Smarter Spending](https://dev.to/satyam_gupta_0d1ff2152dcc/ai-in-cloud-cost-optimization-the-ultimate-guide-to-smarter-spending-4lf9)
+- [Comunidade é a nova infraestrutura](https://dev.to/angelo_matias/comunidade-e-a-nova-infraestrutura-1p0i)
 <!-- BLOG-POST-LIST:END -->
 
