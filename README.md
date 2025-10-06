@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What can go wrong when using database transactions?](https://dev.to/alejandro_du/what-can-go-wrong-when-using-database-transactions-40p6)
-- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
-
-No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
-- [Fixing CSS not updating in production &lpar;Laravel + Blade&rpar;](https://dev.to/tahsin000/fixing-css-not-updating-in-production-laravel-blade-2ncp)
-- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-46jb)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2bob)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-2ama)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-500e)
 <!-- BLOG-POST-LIST:END -->
 
