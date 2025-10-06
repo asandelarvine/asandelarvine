@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 12: My Project Summary &amp; Learning Journey.](https://dev.to/samueladeduntan/day-12-my-project-summary-learning-journey-4585)
-- [Understanding the Passive High Pass Filter: Functionality and Applications](https://dev.to/mahi_sharma_9276bacff998d/understanding-the-passive-high-pass-filter-functionality-and-applications-3kf0)
-- [Build a Perfect Blog with FastAPI: Upload Image](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-upload-image-oe8)
-- [Shadcn Vue – Elegant, Customizable UI Components for Modern Vue Apps](https://dev.to/jacobandrewsky/shadcn-vue-elegant-customizable-ui-components-for-modern-vue-apps-cd)
+- [AAID: Augmented AI Development](https://dev.to/dawiddahl/aaid-augmented-ai-development-50c9)
+- [Share ComfyUI Anywhere Using Colab and Pinggy](https://dev.to/lightningdev123/share-comfyui-anywhere-using-colab-and-pinggy-2ooa)
+- [Oracle Autonomous Database Management: The Evolving DBA Role and Operations](https://dev.to/derrickryangiggs/oracle-autonomous-database-management-the-evolving-dba-role-and-operations-3405)
+- [Introduction to Apache Airflow](https://dev.to/mutindakioko/introduction-to-apache-airflow-1735)
 <!-- BLOG-POST-LIST:END -->
 
