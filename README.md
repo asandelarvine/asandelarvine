@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: 31 Minutos: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-31-minutos-tiny-desk-concert-4i4e)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-552c)
-- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-13ao)
-- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
+- [The 90-Day Trial That Predicts Who Thrives &lpar;And Who Fails&rpar;](https://dev.to/razoorka/the-90-day-trial-that-predicts-who-thrives-and-who-fails-1n9g)
+- [Interface Usage Golang vs Java](https://dev.to/vibhordubey333/interface-usage-golang-vs-java-36gd)
+- [From 15 Minutes to 30 Seconds: Cutting Build Time in a Large .NET Project](https://dev.to/bargan/from-15-minutes-to-30-seconds-cutting-build-time-in-a-large-net-project-4m83)
+- [Africa Needs Human-Led AI Research](https://dev.to/alexander_gichangimaina_/africa-needs-human-led-ai-research-4j55)
 <!-- BLOG-POST-LIST:END -->
 
