@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-19l8)
-- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1dha)
-- [AI in Cloud Cost Optimization: The Ultimate Guide to Smarter Spending](https://dev.to/satyam_gupta_0d1ff2152dcc/ai-in-cloud-cost-optimization-the-ultimate-guide-to-smarter-spending-4lf9)
-- [Comunidade é a nova infraestrutura](https://dev.to/angelo_matias/comunidade-e-a-nova-infraestrutura-1p0i)
+- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
+- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
+- [React: Effective UI Practices - State Management](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
+- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
 <!-- BLOG-POST-LIST:END -->
 
