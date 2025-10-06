@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AAID: Augmented AI Development](https://dev.to/dawiddahl/aaid-augmented-ai-development-50c9)
-- [Share ComfyUI Anywhere Using Colab and Pinggy](https://dev.to/lightningdev123/share-comfyui-anywhere-using-colab-and-pinggy-2ooa)
-- [Oracle Autonomous Database Management: The Evolving DBA Role and Operations](https://dev.to/derrickryangiggs/oracle-autonomous-database-management-the-evolving-dba-role-and-operations-3405)
-- [Introduction to Apache Airflow](https://dev.to/mutindakioko/introduction-to-apache-airflow-1735)
+- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
+- [Understanding the Agentic Commerce Protocol: Your Guide to Selling on ChatGPT](https://dev.to/snikidev/understanding-the-agentic-commerce-protocol-your-guide-to-selling-on-chatgpt-2jeh)
+- [Agentic AI: Redefining Automation for Developers](https://dev.to/techcompass/agentic-ai-redefining-automation-for-developers-4b01)
+- [What Happens Behind the Scenes When You Run Python Code](https://dev.to/vishal_more_02990955c9358/what-happens-behind-the-scenes-when-you-run-python-code-3gfd)
 <!-- BLOG-POST-LIST:END -->
 
