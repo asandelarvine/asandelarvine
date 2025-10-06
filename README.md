@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MonkeysMail: A Developer-First Email Platform](https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l)
-- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k)
-- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4)
-- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44)
+- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
+- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
+- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
+- [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
 <!-- BLOG-POST-LIST:END -->
 
