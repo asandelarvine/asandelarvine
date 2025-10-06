@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Delete a Code Wiki in Azure DevOps](https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2)
-- [Include product body field in Shopify drawer search results](https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j)
-- [Using @mixin for referencing in traits in PHP &lpar;Laravel example&rpar;](https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9)
-- [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
+- [#DAY 12: My Project Summary &amp; Learning Journey.](https://dev.to/samueladeduntan/day-12-my-project-summary-learning-journey-4585)
+- [Understanding the Passive High Pass Filter: Functionality and Applications](https://dev.to/mahi_sharma_9276bacff998d/understanding-the-passive-high-pass-filter-functionality-and-applications-3kf0)
+- [Build a Perfect Blog with FastAPI: Upload Image](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-upload-image-oe8)
+- [Shadcn Vue – Elegant, Customizable UI Components for Modern Vue Apps](https://dev.to/jacobandrewsky/shadcn-vue-elegant-customizable-ui-components-for-modern-vue-apps-cd)
 <!-- BLOG-POST-LIST:END -->
 
