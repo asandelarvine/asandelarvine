@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic: Brilliant Models, Bullshit Pricing](https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h)
-- [Mastering React Suspense: Loading States Done Right](https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083)
-- [50 Most Useful React Snippets](https://dev.to/softwaredeveloper01/50-most-useful-react-snippets-3plh)
-- [Memahami Jenis-Jenis Metode Autentikasi dan Alur &lpar;Flow&rpar;-nya](https://dev.to/naandan/memahami-jenis-jenis-metode-autentikasi-dan-alur-flow-nya-5ahk)
+- [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
+- [How Everything Makes File Search on Windows Blazingly Fast &lpar;5 Tips + Setup Guide&rpar;](https://dev.to/saadmaqsood/how-everything-makes-file-search-on-windows-blazingly-fast-5-tips-setup-guide-5147)
+- [How to Build Semantic Search in ASP.NET Core using PostgreSQL](https://dev.to/ohalay/how-to-build-semantic-search-in-aspnet-core-using-postgresql-28m8)
+- [My Motivation for Being Part of AWS Communities](https://dev.to/afu_tsechainiz_b865026/my-motivation-for-being-part-of-aws-communities-4d04)
 <!-- BLOG-POST-LIST:END -->
 
