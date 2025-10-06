@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 3: Mongoose and the Basics of JWT Authentication](https://dev.to/nikhilsharma6/week-3-mongoose-and-the-basics-of-jwt-authentication-4bnl)
-- [NestJS Expert Series – Part 5: API Gateway and Service Communication](https://dev.to/devto_with_yog/nestjs-expert-series-part-5-api-gateway-and-service-communication-o10)
-- [**Unlocking the Power of Personalization: How Netflix&#39;s AI D](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-personalization-how-netflixs-ai-d-403j)
-- [🔹 CRUD Operations in MongoDB – A Hands-on College Student Example](https://dev.to/deepana_ee9087276132ad19f/crud-operations-in-mongodb-a-hands-on-college-student-example-3gjg)
+- [Anthropic: Brilliant Models, Bullshit Pricing](https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h)
+- [Mastering React Suspense: Loading States Done Right](https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083)
+- [50 Most Useful React Snippets](https://dev.to/softwaredeveloper01/50-most-useful-react-snippets-3plh)
+- [Memahami Jenis-Jenis Metode Autentikasi dan Alur &lpar;Flow&rpar;-nya](https://dev.to/naandan/memahami-jenis-jenis-metode-autentikasi-dan-alur-flow-nya-5ahk)
 <!-- BLOG-POST-LIST:END -->
 
