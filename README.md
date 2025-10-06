@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 90-Day Trial That Predicts Who Thrives &lpar;And Who Fails&rpar;](https://dev.to/razoorka/the-90-day-trial-that-predicts-who-thrives-and-who-fails-1n9g)
-- [Interface Usage Golang vs Java](https://dev.to/vibhordubey333/interface-usage-golang-vs-java-36gd)
-- [From 15 Minutes to 30 Seconds: Cutting Build Time in a Large .NET Project](https://dev.to/bargan/from-15-minutes-to-30-seconds-cutting-build-time-in-a-large-net-project-4m83)
-- [Africa Needs Human-Led AI Research](https://dev.to/alexander_gichangimaina_/africa-needs-human-led-ai-research-4j55)
+- [Meme Monday](https://dev.to/ben/meme-monday-4pcg)
+- [The CSS Casing Wars: A Survivor&#39;s Tale.](https://dev.to/sunil12738/the-css-casing-wars-a-survivors-tale-1kb0)
+- [Advanced Vulkan Rendering: Building a Modern Frame Graph and Memory Management System](https://dev.to/p3ngu1nzz/advanced-vulkan-rendering-building-a-modern-frame-graph-and-memory-management-system-15kn)
+- [Spring Security for Beginners — The Easiest Guide You’ll Ever Read](https://dev.to/jps27cse/spring-security-for-beginners-the-easiest-guide-youll-ever-read-2cib)
 <!-- BLOG-POST-LIST:END -->
 
