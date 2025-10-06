@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async systems don’t stop during silence they compound.](https://dev.to/koni_jang/async-systems-dont-stop-during-silence-they-compound-547p)
-- [Understanding the Agentic Commerce Protocol: Your Guide to Selling on ChatGPT](https://dev.to/snikidev/understanding-the-agentic-commerce-protocol-your-guide-to-selling-on-chatgpt-2jeh)
-- [Agentic AI: Redefining Automation for Developers](https://dev.to/techcompass/agentic-ai-redefining-automation-for-developers-4b01)
-- [What Happens Behind the Scenes When You Run Python Code](https://dev.to/vishal_more_02990955c9358/what-happens-behind-the-scenes-when-you-run-python-code-3gfd)
+- [NPR Music: 31 Minutos: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-31-minutos-tiny-desk-concert-4i4e)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-552c)
+- [Danny Maude: I Wish a Golf Coach Had Told Me This Sooner](https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-13ao)
+- [Family Adventure on the Manaslu Circuit: A Himalayan Trek for All Ages](https://dev.to/joywinter90/family-adventure-on-the-manaslu-circuit-a-himalayan-trek-for-all-ages-3gi9)
 <!-- BLOG-POST-LIST:END -->
 
