@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I built Beat The Boss, an HTML game, with Vibe Coding — give it a spin!](https://dev.to/arun1989ninja/i-built-beat-the-boss-an-html-game-with-vibe-coding-give-it-a-spin-4i0m)
-- [O Segredo do Sucesso: Gerando Leads Qualificados e Éticos para o Telemarketing](https://dev.to/fantodata/o-segredo-do-sucesso-gerando-leads-qualificados-e-eticos-para-o-telemarketing-46am)
-- [Normalization In DBMS](https://dev.to/harish_t_aa27d59c9c2493a5/normalization-in-dbms-4l9j)
-- [Batch Processing with Spring Batch and Multiple Data Sources](https://dev.to/ibrahimgunduz34/batch-processing-with-spring-batch-and-multiple-data-sources-265m)
+- [How to Delete a Code Wiki in Azure DevOps](https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2)
+- [Include product body field in Shopify drawer search results](https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j)
+- [Using @mixin for referencing in traits in PHP &lpar;Laravel example&rpar;](https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9)
+- [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
 <!-- BLOG-POST-LIST:END -->
 
