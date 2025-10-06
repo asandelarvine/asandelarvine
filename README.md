@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
-- [[Boost]](https://dev.to/dariohg/-4lii)
-- [Install NUT on RaspberryPi with AlmaLinux](https://dev.to/kubenetic/install-nut-on-raspberrypi-with-almalinux-1dk8)
-- [Browse your AWS Data Lake tables in your JetBrains IDE, with IAM Identity Center authentication](https://dev.to/aws-builders/browse-your-aws-data-lake-tables-in-your-jetbrains-ide-with-iam-identity-center-authentication-1182)
+- [What can go wrong when using database transactions?](https://dev.to/alejandro_du/what-can-go-wrong-when-using-database-transactions-40p6)
+- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
+
+No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
+- [Fixing CSS not updating in production &lpar;Laravel + Blade&rpar;](https://dev.to/tahsin000/fixing-css-not-updating-in-production-laravel-blade-2ncp)
+- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
 <!-- BLOG-POST-LIST:END -->
 
