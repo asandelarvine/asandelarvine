@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 How to Set Up SSH Access for a Private GitLab Repository](https://dev.to/augustin_ven/how-to-set-up-ssh-access-for-a-private-gitlab-repository-4n4l)
-- [How Everything Makes File Search on Windows Blazingly Fast &lpar;5 Tips + Setup Guide&rpar;](https://dev.to/saadmaqsood/how-everything-makes-file-search-on-windows-blazingly-fast-5-tips-setup-guide-5147)
-- [How to Build Semantic Search in ASP.NET Core using PostgreSQL](https://dev.to/ohalay/how-to-build-semantic-search-in-aspnet-core-using-postgresql-28m8)
-- [My Motivation for Being Part of AWS Communities](https://dev.to/afu_tsechainiz_b865026/my-motivation-for-being-part-of-aws-communities-4d04)
+- [The Function Modification Station: Basic Decorator Mechanics](https://dev.to/aaron_rose_0787cc8b4775a0/the-function-modification-station-basic-decorator-mechanics-39i)
+- [[Boost]](https://dev.to/dariohg/-4lii)
+- [Install NUT on RaspberryPi with AlmaLinux](https://dev.to/kubenetic/install-nut-on-raspberrypi-with-almalinux-1dk8)
+- [Browse your AWS Data Lake tables in your JetBrains IDE, with IAM Identity Center authentication](https://dev.to/aws-builders/browse-your-aws-data-lake-tables-in-your-jetbrains-ide-with-iam-identity-center-authentication-1182)
 <!-- BLOG-POST-LIST:END -->
 
