@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
-- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
-- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
-- [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
+- [React](https://dev.to/dharshinieswaran/react-21ec)
+- [50 Most Useful Angular JS Version 1 code Snippets](https://dev.to/softwaredeveloper01/50-most-useful-angular-js-version-1-code-snippets-4i74)
+- [smart suspension- raj patil](https://dev.to/sidatgithubcode/smart-suspension-raj-patil-3cm4)
+- [Memory management system in C/C++](https://dev.to/linuslover/memory-management-system-in-cc-5dl9)
 <!-- BLOG-POST-LIST:END -->
 
