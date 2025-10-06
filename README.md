@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4pcg)
-- [The CSS Casing Wars: A Survivor&#39;s Tale.](https://dev.to/sunil12738/the-css-casing-wars-a-survivors-tale-1kb0)
-- [Advanced Vulkan Rendering: Building a Modern Frame Graph and Memory Management System](https://dev.to/p3ngu1nzz/advanced-vulkan-rendering-building-a-modern-frame-graph-and-memory-management-system-15kn)
-- [Spring Security for Beginners — The Easiest Guide You’ll Ever Read](https://dev.to/jps27cse/spring-security-for-beginners-the-easiest-guide-youll-ever-read-2cib)
+- [I Thought My Backups Were Safe - Until I Tried Restoring One](https://dev.to/highflyer910/i-thought-my-backups-were-safe-until-i-tried-restoring-one-387i)
+- [Automating Text-to-Video Pipelines with Sora 2 and n8n](https://dev.to/alifar/automating-text-to-video-pipelines-with-sora-2-and-n8n-lh0)
+- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
+- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
 <!-- BLOG-POST-LIST:END -->
 
