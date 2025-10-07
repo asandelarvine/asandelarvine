@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Containerizing a Modern JavaScript SPA &lpar;Vue/Vite/React&rpar; with a Multi-Stage Nginx Build 🚀](https://dev.to/it-wibrc/guide-to-containerizing-a-modern-javascript-spa-vuevitereact-with-a-multi-stage-nginx-build-1lma)
-- [☕ coffee.tmux: A Modern tmux Plugin Manager](https://dev.to/praaneshselvaraj/coffeetmux-a-modern-tmux-plugin-manager-3jo8)
-- [Mastering Kubernetes Services: ClusterIP, NodePort, and LoadBalancer Explained.](https://dev.to/abhishek_korde_31/mastering-kubernetes-services-clusterip-nodeport-and-loadbalancer-explained-1iep)
-- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
+- [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
+- [JSON Schema in the Wild: Real World Applications &amp; HAL 🌍](https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l)
+- [The Ultimate Guide to PDF SDKs for Powerful Document Processing](https://dev.to/xeshan6981/the-ultimate-guide-to-pdf-sdks-for-powerful-document-processing-3mi1)
+- [Build a Perfect Blog with FastAPI: Full-Text Search for Posts](https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-full-text-search-for-posts-3955)
 <!-- BLOG-POST-LIST:END -->
 
