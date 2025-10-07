@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Space Between Intention and Impact](https://dev.to/remejuan/the-space-between-intention-and-impact-19g2)
-- [AWS Cloud Tutorial | Build and Deploy Your First Application](https://dev.to/tpointtechblog/aws-cloud-tutorial-build-and-deploy-your-first-application-3a0e)
-- [How to: Use a Bitmask-Based Rights System for Cookie Consent](https://dev.to/iamrule/how-to-use-a-bitmask-based-rights-system-for-cookie-consent-38pb)
-- [Building a Reliable NAS and Integrating UPS Monitoring with TrueNAS and Home Assistant](https://dev.to/kubenetic/building-a-reliable-nas-and-integrating-ups-monitoring-with-truenas-and-home-assistant-1j7j)
+- [Automatic resource cleanup in Jetpack ViewModels using AutoCloseable](https://dev.to/rockandnull/automatic-resource-cleanup-in-jetpack-viewmodels-using-autocloseable-kbb)
+- [Checkout this Article on Understanding and Dealing with Multicollinearity in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-and-dealing-with-multicollinearity-in-r-origins-real-life-30aa)
+- [A Developer&#39;s Guide to FCC, CE, PTCRB, and GCF Certifications for IoT Devices](https://dev.to/applekoiot/a-developers-guide-to-fcc-ce-ptcrb-and-gcf-certifications-for-iot-devices-4999)
+- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
 <!-- BLOG-POST-LIST:END -->
 
