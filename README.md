@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Cloud Development Workflow with Amazon Q CLI and MCP Servers](https://dev.to/aws-builders/enhance-your-cloud-development-workflow-with-amazon-q-cli-and-mcp-servers-1bbh)
-- [Automate Your AWS MSK Kafka Cluster with Terraform: A Complete Guide](https://dev.to/aws-builders/automate-your-aws-msk-kafka-cluster-with-terraform-a-complete-guide-18li)
-- [Angular Addicts #42: Signal Forms API, AI powered apps with Angular &amp; more](https://dev.to/this-is-angular/angular-addicts-42-signal-forms-api-ai-powered-apps-with-angular-more-477n)
-- [Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/kani-l/transactions-deadlocks-log-based-recovery-1j4d)
+- [The Space Between Intention and Impact](https://dev.to/remejuan/the-space-between-intention-and-impact-19g2)
+- [AWS Cloud Tutorial | Build and Deploy Your First Application](https://dev.to/tpointtechblog/aws-cloud-tutorial-build-and-deploy-your-first-application-3a0e)
+- [How to: Use a Bitmask-Based Rights System for Cookie Consent](https://dev.to/iamrule/how-to-use-a-bitmask-based-rights-system-for-cookie-consent-38pb)
+- [Building a Reliable NAS and Integrating UPS Monitoring with TrueNAS and Home Assistant](https://dev.to/kubenetic/building-a-reliable-nas-and-integrating-ups-monitoring-with-truenas-and-home-assistant-1j7j)
 <!-- BLOG-POST-LIST:END -->
 
