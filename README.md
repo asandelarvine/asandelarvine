@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
-- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
-- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
-- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4i6h)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-26n)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3f7p)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1dhi)
 <!-- BLOG-POST-LIST:END -->
 
