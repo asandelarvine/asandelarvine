@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-72)
-- [HWID Spoofer: A Developer&#39;s Guide](https://dev.to/mina_tremblay_9ae0fef8e42/hwid-spoofer-a-developers-guide-1k0n)
-- [Hyper-Accurate Time Series: Bridging the Prediction Gap with Glocal Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/hyper-accurate-time-series-bridging-the-prediction-gap-with-glocal-learning-by-arvind-sundararajan-5d0i)
-- [IGN: Glowing Lamps - Official Reveal Trailer](https://dev.to/gg_news/ign-glowing-lamps-official-reveal-trailer-55od)
+- [I looked at the subplot&lpar;&rpar; function in Matplotlib](https://dev.to/onaolapo11/i-looked-at-the-subplot-function-in-matplotlib-1398)
+- [🧩 Advanced Prompting for QA Engineers: How I Turned AI Into My Testing Partner](https://dev.to/dasha_tsion_31379cfb51dd7/advanced-prompting-for-qa-engineers-how-i-turned-ai-into-my-testing-partner-34h)
+- [Atomic Primitives in Rust: You don’t need a mutex](https://dev.to/masteringbackend/atomic-primitives-in-rust-you-dont-need-a-mutex-1937)
+- [TCJSGame Performance Optimization: Making Your Games Run Buttery Smooth](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-performance-optimization-making-your-games-run-buttery-smooth-3cfg)
 <!-- BLOG-POST-LIST:END -->
 
