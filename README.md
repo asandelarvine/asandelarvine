@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-2n2a)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-dd4)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2lg2)
-- [Top Social Media Trends in 2025: What Every Brand Needs to Know](https://dev.to/orvian-tech/top-social-media-trends-in-2025-what-every-brand-needs-to-know-2gc9)
+- [Guide to Containerizing a Modern JavaScript SPA &lpar;Vue/Vite/React&rpar; with a Multi-Stage Nginx Build 🚀](https://dev.to/it-wibrc/guide-to-containerizing-a-modern-javascript-spa-vuevitereact-with-a-multi-stage-nginx-build-1lma)
+- [☕ coffee.tmux: A Modern tmux Plugin Manager](https://dev.to/praaneshselvaraj/coffeetmux-a-modern-tmux-plugin-manager-3jo8)
+- [Mastering Kubernetes Services: ClusterIP, NodePort, and LoadBalancer Explained.](https://dev.to/abhishek_korde_31/mastering-kubernetes-services-clusterip-nodeport-and-loadbalancer-explained-1iep)
+- [A Medium-Rare Brain Understanding the Essential Tools of Modern Cryptography Part 1](https://dev.to/ayda_ma04a645d96526b/a-medium-rare-brain-understanding-the-essential-tools-of-modern-cryptography-part-1-2nc8)
 <!-- BLOG-POST-LIST:END -->
 
