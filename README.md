@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Top 7 Mistakes Beginner Web Developers Make with JavaScript &amp; How to Avoid Them](https://dev.to/pjdeveloper896/top-7-mistakes-beginner-web-developers-make-with-javascript-how-to-avoid-them-1k0i)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-43h5)
-- [The Anti-Corruption Layer: Your Application&#39;s Bouncer Against Legacy Chaos](https://dev.to/igornosatov_15/the-anti-corruption-layer-your-applications-bouncer-against-legacy-chaos-14l3)
-- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-moj)
+- [🧑‍💻 How I Fell in Love with the MERN Stack &lpar;and What I Learned So Far&rpar;](https://dev.to/anandhu_asokans_5b7e1432/how-i-fell-in-love-with-the-mern-stack-and-what-i-learned-so-far-536o)
+- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
+- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
+- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
 <!-- BLOG-POST-LIST:END -->
 
