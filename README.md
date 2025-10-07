@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
-- [Top Reporting Tools for Selenium Automation](https://dev.to/jignect-technologies/top-reporting-tools-for-selenium-automation-366)
-- [The 3 C# PDF Libraries Every Developer Must Know](https://dev.to/antonmartyniuk/the-3-c-pdf-libraries-every-developer-must-know-30de)
-- [Bible Verses for Athletes: How to Build Mental Strength and Faith with Speed Memory Training](https://dev.to/brain_athlete/bible-verses-for-athletes-how-to-build-mental-strength-and-faith-with-speed-memory-training-123)
+- [Why Game Preservation Is the Next Big Tech Responsibility](https://dev.to/ankit_m/why-game-preservation-is-the-next-big-tech-responsibility-2bh8)
+- [Building My New Website with Astro, GitHub Copilot, and AWS Amplify](https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc)
+- [Day 23 of 100.](https://dev.to/lyop_achayi/day-23-of-100-874)
+- [𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻 .𝗡𝗘𝗧](https://dev.to/supraja_tangella_b7f0738e/-5dp3)
 <!-- BLOG-POST-LIST:END -->
 
