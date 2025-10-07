@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Enterprise AI Needs Agentic Messaging Platforms](https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd)
-- [Mastering the Art of Code Reviews: Best Practices and Tools Every Developer Should Know](https://dev.to/mikeover/mastering-the-art-of-code-reviews-best-practices-and-tools-every-developer-should-know-1oh7)
-- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
-- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
+- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
+- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
+- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
 <!-- BLOG-POST-LIST:END -->
 
