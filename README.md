@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Game Preservation Is the Next Big Tech Responsibility](https://dev.to/ankit_m/why-game-preservation-is-the-next-big-tech-responsibility-2bh8)
-- [Building My New Website with Astro, GitHub Copilot, and AWS Amplify](https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc)
-- [Day 23 of 100.](https://dev.to/lyop_achayi/day-23-of-100-874)
-- [𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻 .𝗡𝗘𝗧](https://dev.to/supraja_tangella_b7f0738e/-5dp3)
+- [Bun-ffi - Getting started with C++ and Bun](https://dev.to/calumk/bun-ffi-getting-started-with-c-and-bun-47ea)
+- [Stop Wasting Hours: Docker Skills Every Front-End Engineer Needs](https://dev.to/devflex-pro/stop-wasting-hours-docker-skills-every-front-end-engineer-needs-2779)
+- [The unreasonable effectiveness of Postgres range types](https://dev.to/mcadariu/the-unreasonable-effectiveness-of-postgres-range-types-1ine)
+- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
 <!-- BLOG-POST-LIST:END -->
 
