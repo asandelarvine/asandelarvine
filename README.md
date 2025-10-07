@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [We have released #MermaidXP , you can contribute in our repo https://github.com/ccvass/mermaidxp and try here https://mxp.apulab.com](https://dev.to/alfonsodg/we-have-released-mermaidxp-you-can-contribute-in-our-repo-httpsgithubcomccvassmermaidxp-4l0h)
+- [Tired of Juggling Multiple Projects? I Built a Framework to Automate It All.](https://dev.to/chahuadev/tired-of-juggling-multiple-projects-i-built-a-framework-to-automate-it-all-20h3)
+- [[따배쿠] 1. 쿠버네티스](https://dev.to/youjung-hong/ddabaeku-1-kubeonetiseu-3h11)
 - [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
-- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
-- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
 <!-- BLOG-POST-LIST:END -->
 
