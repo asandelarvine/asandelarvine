@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimising Node.js for High-Performance Processing](https://dev.to/pmbanugo/-4fbf)
-- [Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization](https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i)
-- [How Game Simulations are Reshaping Military Strategy](https://dev.to/gamepill/how-game-simulations-are-reshaping-military-strategy-5h7i)
-- [How MySQL Actually Works: A Deep Dive into Database Internals](https://dev.to/mush1e/how-mysql-actually-works-a-deep-dive-into-database-internals-4o16)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-2n2a)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-dd4)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2lg2)
+- [Top Social Media Trends in 2025: What Every Brand Needs to Know](https://dev.to/orvian-tech/top-social-media-trends-in-2025-what-every-brand-needs-to-know-2gc9)
 <!-- BLOG-POST-LIST:END -->
 
