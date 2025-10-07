@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic resource cleanup in Jetpack ViewModels using AutoCloseable](https://dev.to/rockandnull/automatic-resource-cleanup-in-jetpack-viewmodels-using-autocloseable-kbb)
-- [Checkout this Article on Understanding and Dealing with Multicollinearity in R: Origins, Real-Life Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-understanding-and-dealing-with-multicollinearity-in-r-origins-real-life-30aa)
-- [A Developer&#39;s Guide to FCC, CE, PTCRB, and GCF Certifications for IoT Devices](https://dev.to/applekoiot/a-developers-guide-to-fcc-ce-ptcrb-and-gcf-certifications-for-iot-devices-4999)
-- [RAG Chunking Strategies That Actually Work &lpar;and Why Most Don’t&rpar;](https://dev.to/rajinh24/rag-chunking-strategies-that-actually-work-and-why-most-dont-49n2)
+- [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-47if)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
 <!-- BLOG-POST-LIST:END -->
 
