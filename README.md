@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What happened after I posted Daffodil&#39;s Show HN Post](https://dev.to/damienwebdev/what-happened-after-i-posted-daffodils-show-hn-post-4d5o)
-- [A Beginner&#39;s GAN Adventure with Digits](https://dev.to/anikchand461/a-beginners-gan-adventure-with-digits-54g4)
-- [How Do You Actually Send an EVM Write Transaction? Building a Robust Client for ABI Encoding, Gas &lpar;EIP‑1559&rpar;, and Verification](https://dev.to/onlineproxy/how-do-you-actually-send-an-evm-write-transaction-building-a-robust-client-for-abi-encoding-gas-1pp8)
-- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-72)
+- [HWID Spoofer: A Developer&#39;s Guide](https://dev.to/mina_tremblay_9ae0fef8e42/hwid-spoofer-a-developers-guide-1k0n)
+- [Hyper-Accurate Time Series: Bridging the Prediction Gap with Glocal Learning by Arvind Sundararajan](https://dev.to/arvind_sundararajan/hyper-accurate-time-series-bridging-the-prediction-gap-with-glocal-learning-by-arvind-sundararajan-5d0i)
+- [IGN: Glowing Lamps - Official Reveal Trailer](https://dev.to/gg_news/ign-glowing-lamps-official-reveal-trailer-55od)
 <!-- BLOG-POST-LIST:END -->
 
