@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACLs vs Security Groups in AWS](https://dev.to/wakeup_flower_8591a6cb6a9/acls-vs-security-groups-in-aws-536c)
-- [Every Developer Is Essentially Always On-Call](https://dev.to/thatsoftwaredude/every-developer-is-essentially-always-on-call-4lnl)
-- [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
-- [React Reconciliation, Fiber, and Virtual DOM Explained &lpar;Without the Jargon&rpar;](https://dev.to/ad99526/react-reconciliation-fiber-and-virtual-dom-explained-without-the-jargon-51ng)
+- [What happened after I posted Daffodil&#39;s Show HN Post](https://dev.to/damienwebdev/what-happened-after-i-posted-daffodils-show-hn-post-4d5o)
+- [A Beginner&#39;s GAN Adventure with Digits](https://dev.to/anikchand461/a-beginners-gan-adventure-with-digits-54g4)
+- [How Do You Actually Send an EVM Write Transaction? Building a Robust Client for ABI Encoding, Gas &lpar;EIP‑1559&rpar;, and Verification](https://dev.to/onlineproxy/how-do-you-actually-send-an-evm-write-transaction-building-a-robust-client-for-abi-encoding-gas-1pp8)
+- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-4aj9)
 <!-- BLOG-POST-LIST:END -->
 
