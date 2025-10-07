@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 How I Fell in Love with the MERN Stack &lpar;and What I Learned So Far&rpar;](https://dev.to/anandhu_asokans_5b7e1432/how-i-fell-in-love-with-the-mern-stack-and-what-i-learned-so-far-536o)
-- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
-- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
-- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
+- [UX Engineering: From the Eyes of a Field Pioneer &lpar;2026 Edition&rpar;](https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe)
+- [horcrux: Split files into encrypted fragments for Node &amp; React Native &lpar;TypeScript library&rpar;](https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6)
+- [Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control](https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406)
+- [React Questions](https://dev.to/vidya_varshini/react-questions-1ppk)
 <!-- BLOG-POST-LIST:END -->
 
