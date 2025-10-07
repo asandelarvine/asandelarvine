@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MLZC25-10. Análisis Exploratorio de Datos y Marco de Validación: El Detective de Datos](https://dev.to/jesus_oviedoriquelme_084/mlzc25-10-analisis-exploratorio-de-datos-y-marco-de-validacion-el-detective-de-datos-482o)
-- [How to Log S3 Event Notifications to CloudWatch Logs with EventBridge using the CLI and PowerShell](https://dev.to/ken_langley_854029413ad01/how-to-log-s3-event-notifications-to-cloudwatch-logs-with-eventbridge-using-the-cli-and-powershell-337g)
-- [Perplexity Comet: Advanced Agentic Automation Playbook](https://dev.to/with_attitude/perplexity-comet-advanced-agentic-automation-playbook-142h)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_06022d8b/your-projects-a-mess-its-not-you-its-your-frameworks-fault-2p07)
+- [ACLs vs Security Groups in AWS](https://dev.to/wakeup_flower_8591a6cb6a9/acls-vs-security-groups-in-aws-536c)
+- [Every Developer Is Essentially Always On-Call](https://dev.to/thatsoftwaredude/every-developer-is-essentially-always-on-call-4lnl)
+- [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
+- [React Reconciliation, Fiber, and Virtual DOM Explained &lpar;Without the Jargon&rpar;](https://dev.to/ad99526/react-reconciliation-fiber-and-virtual-dom-explained-without-the-jargon-51ng)
 <!-- BLOG-POST-LIST:END -->
 
