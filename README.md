@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [write once publish anywhere](https://dev.to/pravin_niceguy/write-once-publish-anywhere-47if)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-26ej)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2eij)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-7on)
+- [Latency vs. Accuracy for LLM Apps — How to Choose and How a Memory Layer Lets You Win Both](https://dev.to/gervaisamoah/latency-vs-accuracy-for-llm-apps-how-to-choose-and-how-a-memory-layer-lets-you-win-both-d6g)
+- [Top Reporting Tools for Selenium Automation](https://dev.to/jignect-technologies/top-reporting-tools-for-selenium-automation-366)
+- [The 3 C# PDF Libraries Every Developer Must Know](https://dev.to/antonmartyniuk/the-3-c-pdf-libraries-every-developer-must-know-30de)
+- [Bible Verses for Athletes: How to Build Mental Strength and Faith with Speed Memory Training](https://dev.to/brain_athlete/bible-verses-for-athletes-how-to-build-mental-strength-and-faith-with-speed-memory-training-123)
 <!-- BLOG-POST-LIST:END -->
 
