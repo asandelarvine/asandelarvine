@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UX Engineering: From the Eyes of a Field Pioneer &lpar;2026 Edition&rpar;](https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe)
-- [horcrux: Split files into encrypted fragments for Node &amp; React Native &lpar;TypeScript library&rpar;](https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6)
-- [Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control](https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406)
-- [React Questions](https://dev.to/vidya_varshini/react-questions-1ppk)
+- [Enhance Your Cloud Development Workflow with Amazon Q CLI and MCP Servers](https://dev.to/aws-builders/enhance-your-cloud-development-workflow-with-amazon-q-cli-and-mcp-servers-1bbh)
+- [Automate Your AWS MSK Kafka Cluster with Terraform: A Complete Guide](https://dev.to/aws-builders/automate-your-aws-msk-kafka-cluster-with-terraform-a-complete-guide-18li)
+- [Angular Addicts #42: Signal Forms API, AI powered apps with Angular &amp; more](https://dev.to/this-is-angular/angular-addicts-42-signal-forms-api-ai-powered-apps-with-angular-more-477n)
+- [Transactions, Deadlocks &amp; Log-Based Recovery](https://dev.to/kani-l/transactions-deadlocks-log-based-recovery-1j4d)
 <!-- BLOG-POST-LIST:END -->
 
