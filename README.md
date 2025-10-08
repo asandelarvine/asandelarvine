@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [1NF , 2NF, 3NF in DBMS...](https://dev.to/raksh__e858eea76f8f29ed/1nf-2nf-3nf-in-dbms-5789)
-- [Secure Your AWS Account: Automate IAM Expiry Notifications with Lambda + SNS](https://dev.to/kalyani_uppara/secure-your-aws-account-automate-iam-expiry-notifications-with-lambda-sns-45j0)
-- [Privacy-Friendly Web3 Analytics: A Guide to User Privacy for Onchain Apps and Protocols](https://dev.to/yos/privacy-friendly-web3-analytics-a-guide-to-user-privacy-for-onchain-apps-and-protocols-1a3e)
-- [Security Vulnerabilities in Early-Stage Products: Why SaaS Startups Need SaaS Security Best Practices](https://dev.to/aadilyusuf/security-vulnerabilities-in-early-stage-products-why-saas-startups-need-saas-security-best-mj9)
+- [Understanding SpankBang: A Look at the Platform](https://dev.to/maigretbusiness/understanding-spankbang-a-look-at-the-platform-4cbl)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-418p)
 <!-- BLOG-POST-LIST:END -->
 
