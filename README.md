@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Mastering MongoDB CRUD Operations — A Hands-on Student Database Example 🎓](https://dev.to/prian_ss24cb042_1006e0f/mastering-mongodb-crud-operations-a-hands-on-student-database-example-1m9k)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-8ag)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-39n1)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-1gc7)
+- [🔎 Seraphix: The Secret Scanner Toolkit Built for Speed, Scale, and Bug Bounties](https://dev.to/amedeov/seraphix-the-secret-scanner-toolkit-built-for-speed-scale-and-bug-bounties-5f0l)
+- [Best TinyPNG Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-tinypng-alternatives-for-wordpress-image-optimization-272d)
+- [Dealing with Vim errors during Git operations](https://dev.to/nvahalik/dealing-with-vim-errors-during-git-operations-4k31)
+- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
 <!-- BLOG-POST-LIST:END -->
 
