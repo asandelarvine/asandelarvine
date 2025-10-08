@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens if We Get Hacked? A Transparent Look at the Musical Chairs Security Model](https://dev.to/crow004/what-happens-if-we-get-hacked-a-transparent-look-at-the-musical-chairs-security-model-4mip)
-- [Zustand — no need to manually write the store interface anymore!](https://dev.to/suhaotian/zustand-no-need-to-manually-write-the-store-interface-anymore-4m6)
-- [What Devs Are Actually Learning in 2025 &lpar;Stack Overflow + DORA Insights&rpar;](https://dev.to/dhruvjoshi9/what-devs-are-actually-learning-in-2025-stack-overflow-dora-insights-17j3)
-- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
+- [No More Forgetful Robots: My Test Drive with Cognee AI&#39;s &quot;AI Memory&quot;](https://dev.to/pravesh_sudha_3c2b0c2b5e0/no-more-forgetful-robots-my-test-drive-with-cognee-ais-ai-memory-39pd)
+- [One of the best lists I’ve found](https://dev.to/publicspace/one-of-the-best-lists-ive-found-3goj)
+- [Fastest Cloud Providers for AI Inference Latency in U.S.](https://dev.to/julia_smith/fastest-cloud-providers-for-ai-inference-latency-in-us-2j4a)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_40446303/files-are-not-just-data-a-guide-to-robust-file-handling-49gb)
 <!-- BLOG-POST-LIST:END -->
 
