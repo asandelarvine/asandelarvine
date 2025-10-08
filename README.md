@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HackSpire&#39;25: Igniting Innovation, Forging Futures 🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-igniting-innovation-forging-futures-1ann)
-- [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
-- [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_06022d8b/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-kab)
+- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-5d94)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-57e9)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4g1i)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-5gag)
 <!-- BLOG-POST-LIST:END -->
 
