@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 caching strategies](https://dev.to/wakeup_flower_8591a6cb6a9/5-caching-strategies-4pn)
-- [Database Normalisation](https://dev.to/kausi_tarun_77e6874368465/database-normalisation-2lbp)
-- [BigAnimal Access Model](https://dev.to/aravinlinux/biganimal-access-model-hn8)
-- [[Boost]](https://dev.to/amarantess/-2j5c)
+- [What Happens if We Get Hacked? A Transparent Look at the Musical Chairs Security Model](https://dev.to/crow004/what-happens-if-we-get-hacked-a-transparent-look-at-the-musical-chairs-security-model-4mip)
+- [Zustand — no need to manually write the store interface anymore!](https://dev.to/suhaotian/zustand-no-need-to-manually-write-the-store-interface-anymore-4m6)
+- [What Devs Are Actually Learning in 2025 &lpar;Stack Overflow + DORA Insights&rpar;](https://dev.to/dhruvjoshi9/what-devs-are-actually-learning-in-2025-stack-overflow-dora-insights-17j3)
+- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j)
 <!-- BLOG-POST-LIST:END -->
 
