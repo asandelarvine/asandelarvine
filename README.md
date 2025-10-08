@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SpankBang: A Look at the Platform](https://dev.to/maigretbusiness/understanding-spankbang-a-look-at-the-platform-4cbl)
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-418p)
+- [Ace Your First Impression: 11 Ways to Introduce Yourself in Interviews](https://dev.to/chakshu_gupta_07/ace-your-first-impression-11-ways-to-introduce-yourself-in-interviews-183a)
+- [The Hidden Power of jQuery.on&lpar;&rpar; — Handling Future Elements Like a Time Traveler](https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i)
+- [Terraform Modules: The Secret Sauce to Scalable Infrastructure](https://dev.to/aws-builders/terraform-modules-the-secret-sauce-to-scalable-infrastructure-10hi)
+- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
 <!-- BLOG-POST-LIST:END -->
 
