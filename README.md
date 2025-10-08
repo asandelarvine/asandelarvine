@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is 0.1 + 0.2 != 0.3 in Java?](https://dev.to/vipulkumarsviit/why-is-01-02-03-in-java-16jk)
-- [How Office Complexes Benefit from Architectural Laser Scanning Documentation?](https://dev.to/reetielubana/how-office-complexes-benefit-from-architectural-laser-scanning-documentation-5cm1)
-- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
-- [Data in the Cloud: 6 Common Data Formats](https://dev.to/sahana_s_723583d985050944/data-in-the-cloud-6-common-data-formats-10pd)
+- [5 caching strategies](https://dev.to/wakeup_flower_8591a6cb6a9/5-caching-strategies-4pn)
+- [Database Normalisation](https://dev.to/kausi_tarun_77e6874368465/database-normalisation-2lbp)
+- [BigAnimal Access Model](https://dev.to/aravinlinux/biganimal-access-model-hn8)
+- [[Boost]](https://dev.to/amarantess/-2j5c)
 <!-- BLOG-POST-LIST:END -->
 
