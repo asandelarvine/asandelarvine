@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace Your First Impression: 11 Ways to Introduce Yourself in Interviews](https://dev.to/chakshu_gupta_07/ace-your-first-impression-11-ways-to-introduce-yourself-in-interviews-183a)
-- [The Hidden Power of jQuery.on&lpar;&rpar; — Handling Future Elements Like a Time Traveler](https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i)
-- [Terraform Modules: The Secret Sauce to Scalable Infrastructure](https://dev.to/aws-builders/terraform-modules-the-secret-sauce-to-scalable-infrastructure-10hi)
-- [Creating Python Libraries &amp; Reusable Modules](https://dev.to/godofgeeks/creating-python-libraries-reusable-modules-1mbi)
+- [Understanding Cyber Risks with Seqrite’s 2025 threat report India](https://dev.to/seqrite/understanding-cyber-risks-with-seqrites-2025-threat-report-india-5aji)
+- [Medusa Tax Automation: Complete Guide to Integrating Avalara AvaTax for E-Commerce Compliance](https://dev.to/u11d/medusa-tax-automation-complete-guide-to-integrating-avalara-avatax-for-e-commerce-compliance-21h2)
+- [CSS Simplified: Build Beautiful Websites](https://dev.to/suraj_kumar_fb57ae0928df2/css-simplified-build-beautiful-websites-44d6)
+- [Boosting Teamwork Skills: The Surprising Role of Online Learning Platforms](https://dev.to/ghummantech/boosting-teamwork-skills-the-surprising-role-of-online-learning-platforms-n0p)
 <!-- BLOG-POST-LIST:END -->
 
