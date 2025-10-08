@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-19a6)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-51ka)
-- [KEXP: Babe Rainbow - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-full-performance-live-on-kexp-l49)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2bfm)
+- [Beyond the Dogma: A Pragmatic Hybrid MVVM Architecture in WPF**](https://dev.to/neopotato/beyond-the-dogma-a-pragmatic-hybrid-mvvm-architecture-in-wpf-3ncm)
+- [An Introduction to Remote Procedural Call &lpar;RPC&rpar; Nodes in Blockchains](https://dev.to/davidekete/an-introduction-to-remote-procedural-call-rpc-nodes-in-blockchain-p88)
+- [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
+- [Cloud Resume Challenge &lpar;Azure&rpar; — Part 3: Setting Up HTTPS and Understanding Azure CDN](https://dev.to/jic/cloud-resume-challenge-azure-part-3-setting-up-https-and-understanding-azure-cdn-2mbk)
 <!-- BLOG-POST-LIST:END -->
 
