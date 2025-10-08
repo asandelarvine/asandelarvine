@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing HMAC Signatures Online — A Free Developer Tool](https://dev.to/authgear/testing-hmac-signatures-online-a-free-developer-tool-51mk)
-- [Claude API: Complete Guide to Anthropic&#39;s AI Platform in 2025](https://dev.to/hamd_writer_8c77d9c88c188/claude-api-complete-guide-to-anthropics-ai-platform-in-2025-2pmj)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j6l)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-2eg8)
+- [Understanding Unicode: How Computers Handle Text from A to 🙂](https://dev.to/rijultp/understanding-unicode-how-computers-handle-text-from-a-to-56p7)
+- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-3h5k)
+- [A Detailed Workflow for Creating an MCP Server that Returns MySQL Schema Information Using Vibe Coding](https://dev.to/shibayu36/a-detailed-workflow-for-creating-an-mcp-server-that-returns-mysql-schema-information-using-vibe-4kfp)
+- [⚡️ Database Speed Secrets: B-Trees, Hashing, and Query Optimization](https://dev.to/yazhini_m24cb063_c76b657/database-speed-secrets-b-trees-hashing-and-query-optimization-jmp)
 <!-- BLOG-POST-LIST:END -->
 
