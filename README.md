@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cyber Risks with Seqrite’s 2025 threat report India](https://dev.to/seqrite/understanding-cyber-risks-with-seqrites-2025-threat-report-india-5aji)
-- [Medusa Tax Automation: Complete Guide to Integrating Avalara AvaTax for E-Commerce Compliance](https://dev.to/u11d/medusa-tax-automation-complete-guide-to-integrating-avalara-avatax-for-e-commerce-compliance-21h2)
-- [CSS Simplified: Build Beautiful Websites](https://dev.to/suraj_kumar_fb57ae0928df2/css-simplified-build-beautiful-websites-44d6)
-- [Boosting Teamwork Skills: The Surprising Role of Online Learning Platforms](https://dev.to/ghummantech/boosting-teamwork-skills-the-surprising-role-of-online-learning-platforms-n0p)
+- [Ethereum Foundation on Interop, Cardano x NEAR Intents, Bitget Wallet’s Gassless UX, SWIFT Confirms Linea for On-chain Payments](https://dev.to/etherspot/ethereum-foundation-on-interop-cardano-x-near-intents-bitget-wallets-gassless-ux-swift-confirms-gp9)
+- [Is SOC 2 Compliance Worth It? Here’s How It Transforms Your Company’s Future](https://dev.to/kibe_christine_bc01e93c1a/is-soc-2-compliance-worth-it-heres-how-it-transforms-your-companys-future-oh6)
+- [100 Days of DevOps: Day 66](https://dev.to/wycliffealphus/100-days-of-devops-day-66-3d35)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_40446303/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4he7)
 <!-- BLOG-POST-LIST:END -->
 
