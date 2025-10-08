@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum Foundation on Interop, Cardano x NEAR Intents, Bitget Wallet’s Gassless UX, SWIFT Confirms Linea for On-chain Payments](https://dev.to/etherspot/ethereum-foundation-on-interop-cardano-x-near-intents-bitget-wallets-gassless-ux-swift-confirms-gp9)
-- [Is SOC 2 Compliance Worth It? Here’s How It Transforms Your Company’s Future](https://dev.to/kibe_christine_bc01e93c1a/is-soc-2-compliance-worth-it-heres-how-it-transforms-your-companys-future-oh6)
-- [100 Days of DevOps: Day 66](https://dev.to/wycliffealphus/100-days-of-devops-day-66-3d35)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_40446303/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4he7)
+- [Why is 0.1 + 0.2 != 0.3 in Java?](https://dev.to/vipulkumarsviit/why-is-01-02-03-in-java-16jk)
+- [How Office Complexes Benefit from Architectural Laser Scanning Documentation?](https://dev.to/reetielubana/how-office-complexes-benefit-from-architectural-laser-scanning-documentation-5cm1)
+- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
+- [Data in the Cloud: 6 Common Data Formats](https://dev.to/sahana_s_723583d985050944/data-in-the-cloud-6-common-data-formats-10pd)
 <!-- BLOG-POST-LIST:END -->
 
