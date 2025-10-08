@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-364h)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-435h)
-- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-56aa)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-32ng)
+- [Fully Configurable Open Source Audio Spectrum Analyzer](https://dev.to/sylwekkominek/fully-configurable-open-source-audio-spectrum-analyzer-25h5)
+- [Cloud Run Full Screen Test](https://dev.to/ben/cloud-run-full-screen-test-2ee0)
+- [Guía rápida SDKMAN!](https://dev.to/gekyzo/sdkman-ioe)
+- [Stacking PRs &amp; Squashing Merges](https://dev.to/sleepingpotato/stacking-prs-squashing-merges-4ogg)
 <!-- BLOG-POST-LIST:END -->
 
