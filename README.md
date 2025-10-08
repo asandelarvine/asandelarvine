@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Project Commercial Benchmarking: Technical Solution Comparison Between Litho and DeepWiki](https://dev.to/sopaco/open-source-project-commercial-benchmarking-technical-solution-comparison-between-litho-and-40b1)
-- [From Rust to Multi-Language: Litho&#39;s Plugin-Based Extensible Architecture Design](https://dev.to/sopaco/from-rust-to-multi-language-lithos-plugin-based-extensible-architecture-design-b8b)
-- [Cost-Controllable AI Applications: Litho&#39;s Cache Optimization and Cost Control Strategies](https://dev.to/sopaco/cost-controllable-ai-applications-lithos-cache-optimization-and-cost-control-strategies-2291)
-- [[Book Review] Build a Large Language Model &lpar;From Scratch&rpar; by Sebastian Raschka](https://dev.to/uponthesky/book-review-build-a-large-language-model-from-scratch-by-sebastian-raschka-1286)
+- [Arquitetura Monolítica](https://dev.to/yuripeixinho/arquitetura-monolitica-3d1o)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_40446303/beyond-env-a-grown-ups-guide-to-application-configuration-2aai)
+- [Beyond Speed: Why Quality Code is as Critical as Efficiency in Software Development](https://dev.to/rgbos/beyond-speed-why-quality-code-is-as-critical-as-efficiency-in-software-development-4ajj)
+- [🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬](https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn)
 <!-- BLOG-POST-LIST:END -->
 
