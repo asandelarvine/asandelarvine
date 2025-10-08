@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your first painless EVM reads in Python: an async-first blueprint with traps, fixes, and a mental model that sticks](https://dev.to/onlineproxy/your-first-painless-evm-reads-in-python-an-async-first-blueprint-with-traps-fixes-and-a-mental-2794)
-- [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
-- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-364h)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-435h)
+- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-56aa)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-32ng)
 <!-- BLOG-POST-LIST:END -->
 
