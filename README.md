@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--5hen)
-- [🔍 Understanding 6 Common Data Formats in Data Analytics &lpar;With Examples&rpar;](https://dev.to/shrutti_kannan_4d6b7159e2/understanding-6-common-data-formats-in-data-analytics-with-examples-4mh7)
-- [Hands-On with MongoDB: Performing CRUD Operations on a Student Collection 🎓](https://dev.to/vishnupriya_k_678c3b9ea11/hands-on-with-mongodb-performing-crud-operations-on-a-student-collection-3855)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730)
+- [Your first painless EVM reads in Python: an async-first blueprint with traps, fixes, and a mental model that sticks](https://dev.to/onlineproxy/your-first-painless-evm-reads-in-python-an-async-first-blueprint-with-traps-fixes-and-a-mental-2794)
+- [Human Creativity vs Generative AI: Why Developers Still Have the Edge](https://dev.to/devtechinsights/human-creativity-vs-generative-ai-why-developers-still-have-the-edge-1p4i)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_06022d8b/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fjn)
+- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
 <!-- BLOG-POST-LIST:END -->
 
