@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Unicode: How Computers Handle Text from A to 🙂](https://dev.to/rijultp/understanding-unicode-how-computers-handle-text-from-a-to-56p7)
-- [Building a Poetry Auction Smart Contract on Polkadot with ink!](https://dev.to/chri5_kalul3/building-a-poetry-auction-smart-contract-on-polkadot-with-ink-3h5k)
-- [A Detailed Workflow for Creating an MCP Server that Returns MySQL Schema Information Using Vibe Coding](https://dev.to/shibayu36/a-detailed-workflow-for-creating-an-mcp-server-that-returns-mysql-schema-information-using-vibe-4kfp)
-- [⚡️ Database Speed Secrets: B-Trees, Hashing, and Query Optimization](https://dev.to/yazhini_m24cb063_c76b657/database-speed-secrets-b-trees-hashing-and-query-optimization-jmp)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--5hen)
+- [🔍 Understanding 6 Common Data Formats in Data Analytics &lpar;With Examples&rpar;](https://dev.to/shrutti_kannan_4d6b7159e2/understanding-6-common-data-formats-in-data-analytics-with-examples-4mh7)
+- [Hands-On with MongoDB: Performing CRUD Operations on a Student Collection 🎓](https://dev.to/vishnupriya_k_678c3b9ea11/hands-on-with-mongodb-performing-crud-operations-on-a-student-collection-3855)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730)
 <!-- BLOG-POST-LIST:END -->
 
