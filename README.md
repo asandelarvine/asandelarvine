@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔎 Seraphix: The Secret Scanner Toolkit Built for Speed, Scale, and Bug Bounties](https://dev.to/amedeov/seraphix-the-secret-scanner-toolkit-built-for-speed-scale-and-bug-bounties-5f0l)
-- [Best TinyPNG Alternatives for WordPress Image Optimization](https://dev.to/andreialba/best-tinypng-alternatives-for-wordpress-image-optimization-272d)
-- [Dealing with Vim errors during Git operations](https://dev.to/nvahalik/dealing-with-vim-errors-during-git-operations-4k31)
-- [Reinventing Code Review: How Vault.fm Eliminated Major Outages with PullFlow](https://dev.to/pullflow/reinventing-code-review-how-vaultfm-eliminated-major-outages-with-pullflow-24mf)
+- [Testing HMAC Signatures Online — A Free Developer Tool](https://dev.to/authgear/testing-hmac-signatures-online-a-free-developer-tool-51mk)
+- [Claude API: Complete Guide to Anthropic&#39;s AI Platform in 2025](https://dev.to/hamd_writer_8c77d9c88c188/claude-api-complete-guide-to-anthropics-ai-platform-in-2025-2pmj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j6l)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-2eg8)
 <!-- BLOG-POST-LIST:END -->
 
