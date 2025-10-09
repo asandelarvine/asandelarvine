@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Most Common Terminal Commands Explained To A Beginner 😎](https://dev.to/kevmongare/10-most-common-terminal-commands-explained-to-a-beginner-2i78)
-- [Anonio — Anonymous E2E Chat with Voice &amp; Video](https://dev.to/m6jo9/anonio-anonymous-e2e-chat-with-voice-video-56ki)
-- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
-- [🚀 Rive Presentation Mode — The Smart Fix for Embed Hosting 🎥](https://dev.to/uianimation/rive-presentation-mode-the-smart-fix-for-embed-hosting-2jje)
+- [How to Generate Professional LinkedIn Headshots Using Nano Banana](https://dev.to/gbti-network/how-to-generate-professional-linkedin-headshots-using-nano-banana-16n4)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
 <!-- BLOG-POST-LIST:END -->
 
