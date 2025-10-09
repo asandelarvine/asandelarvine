@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-4b43)
-- [Organizando testes com clareza: a técnica do Unfolding Tests](https://dev.to/augustohub-br/pt-br-organizando-testes-com-clareza-a-tecnica-do-unfolding-tests-26d3)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jhp)
+- [Building Faster with V0 and Claude Code: Lessons Learned from Vibe Coding](https://dev.to/strapi/building-faster-with-v0-and-claude-code-lessons-learned-from-vibe-coding-ca1)
+- [How I Built a Nationwide Bowling Directory with Replit, Next.js, and AI](https://dev.to/gbae420/how-i-built-a-nationwide-bowling-directory-with-replit-nextjs-and-ai-3968)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-5h6)
+- [The Python Web Stack You&#39;ve Never Heard Of: Building Apps Without Frontend Code](https://dev.to/daisyauma/the-python-web-stack-youve-never-heard-of-building-apps-without-frontend-code-4oj5)
 <!-- BLOG-POST-LIST:END -->
 
