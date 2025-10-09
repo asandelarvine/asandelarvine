@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor + Trigger](https://dev.to/nava_nava_9da1144487604/cursor-trigger-432n)
-- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
-- [AI Marketing That Actually Works: A Senior Playbook for Automating, Accelerating, and Amplifying Results](https://dev.to/dakrsize/ai-marketing-that-actually-works-a-senior-playbook-for-automating-accelerating-and-amplifying-4kjd)
-- [How AI Chatbots Are Transforming Customer Support in 2025](https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i)
+- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
+- [Free JSON to Dart Model Generator for Flutter Developers Save Hours of Coding](https://dev.to/maulikthakrar/free-json-to-dart-model-generator-for-flutter-developers-save-hours-of-coding-24a7)
+- [Indexing, Hashing](https://dev.to/mugiil_b_dc9b71601cba396/indexing-hashing-4j0i)
+- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
 <!-- BLOG-POST-LIST:END -->
 
