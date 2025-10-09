@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NetAssist App – A Free TCP/IP Network Debugging Tool for IoT Developers](https://dev.to/zediot/netassist-app-a-free-tcpip-network-debugging-tool-for-iot-developers-24mp)
-- [Apps SDK Tutorial](https://dev.to/akamite/apps-sdk-tutorial-4081)
-- [A Node.js Audit via Github Action to augment PR&#39;s](https://dev.to/boly38/a-nodejs-audit-via-github-action-to-augment-prs-3l2g)
-- [How to activate simple electronics with a Raspberry Pi?](https://dev.to/carolineee/how-to-activate-simple-electronics-with-a-raspberry-pi-3gip)
+- [There&#39;s a Whole Suite of Free, Open-Source Android Apps You Probably Didn&#39;t Know About](https://dev.to/shiva_shanker_k/theres-a-whole-suite-of-free-open-source-android-apps-you-probably-didnt-know-about-onc)
+- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1i80)
+- [CRUD Operations in MongoDB — Student Management System](https://dev.to/prabavathy_balagurusamy_2/crud-operations-in-mongodb-student-management-system-3m85)
+- [HELLO](https://dev.to/hellomaryamolaitan/hello-1j4g)
 <!-- BLOG-POST-LIST:END -->
 
