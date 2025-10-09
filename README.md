@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3b59)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-313h)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-5foh)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-daa)
+- [Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.
+
+It gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.](https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg)
+- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
+- [Envisioning SagaV: a Tarot-Themed Mocktail Brand](https://dev.to/paaaarv/envisioning-sagav-a-tarot-themed-mocktail-brand-1dkp)
+- [Cursor +Trigger](https://dev.to/mugiil_b_dc9b71601cba396/cursor-trigger-2b55)
 <!-- BLOG-POST-LIST:END -->
 
