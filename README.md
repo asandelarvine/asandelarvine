@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
-- [Free JSON to Dart Model Generator for Flutter Developers Save Hours of Coding](https://dev.to/maulikthakrar/free-json-to-dart-model-generator-for-flutter-developers-save-hours-of-coding-24a7)
-- [Indexing, Hashing](https://dev.to/mugiil_b_dc9b71601cba396/indexing-hashing-4j0i)
-- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-481j)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-16jg)
+- [Golf.com: Tiger Encounters, Solheim Bets and Hot Golf Takes | Megan Khang on THE SCOOP](https://dev.to/youtube_golf/golfcom-tiger-encounters-solheim-bets-and-hot-golf-takes-megan-khang-on-the-scoop-1dja)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
 <!-- BLOG-POST-LIST:END -->
 
