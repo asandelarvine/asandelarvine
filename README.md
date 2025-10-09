@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Faster with V0 and Claude Code: Lessons Learned from Vibe Coding](https://dev.to/strapi/building-faster-with-v0-and-claude-code-lessons-learned-from-vibe-coding-ca1)
-- [How I Built a Nationwide Bowling Directory with Replit, Next.js, and AI](https://dev.to/gbae420/how-i-built-a-nationwide-bowling-directory-with-replit-nextjs-and-ai-3968)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_40446303/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-5h6)
-- [The Python Web Stack You&#39;ve Never Heard Of: Building Apps Without Frontend Code](https://dev.to/daisyauma/the-python-web-stack-youve-never-heard-of-building-apps-without-frontend-code-4oj5)
+- [AWS IAM ACCESS ANALYSIS &amp; REPORTS](https://dev.to/ntsezenelvis/aws-iam-access-analysis-reports-31pc)
+- [Vector&#39;s VRL introduction &lpar;chapter 1&rpar;](https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1)
+- [LinkedIn SDE Virtual Onsite Experience: Acing Medium-Level Questions + Efficient Prep Tips](https://dev.to/net_programhelp_e160eef28/linkedin-sde-virtual-onsite-experience-acing-medium-level-questions-efficient-prep-tips-1250)
+- [How to Safely Set Up &amp; Optimize Adobe Photoshop CC &lpar;Official Tips&rpar;](https://dev.to/softguide321/how-to-safely-set-up-optimize-adobe-photoshop-cc-official-tips-1fb6)
 <!-- BLOG-POST-LIST:END -->
 
