@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-481j)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-16jg)
-- [Golf.com: Tiger Encounters, Solheim Bets and Hot Golf Takes | Megan Khang on THE SCOOP](https://dev.to/youtube_golf/golfcom-tiger-encounters-solheim-bets-and-hot-golf-takes-megan-khang-on-the-scoop-1dja)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
+- [NetAssist App – A Free TCP/IP Network Debugging Tool for IoT Developers](https://dev.to/zediot/netassist-app-a-free-tcpip-network-debugging-tool-for-iot-developers-24mp)
+- [Apps SDK Tutorial](https://dev.to/akamite/apps-sdk-tutorial-4081)
+- [A Node.js Audit via Github Action to augment PR&#39;s](https://dev.to/boly38/a-nodejs-audit-via-github-action-to-augment-prs-3l2g)
+- [How to activate simple electronics with a Raspberry Pi?](https://dev.to/carolineee/how-to-activate-simple-electronics-with-a-raspberry-pi-3gip)
 <!-- BLOG-POST-LIST:END -->
 
