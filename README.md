@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l)
-- [Building Vajra: My Journey Creating an AI Coding Assistant](https://dev.to/ashish_sharda_a540db2e50e/building-vajra-my-journey-creating-an-ai-coding-assistant-4i08)
-- [I Create Classic CSS Framework 🎉 🎉](https://dev.to/we-the-developers/i-create-classic-css-framework-l00)
-- [From Intelligence Expert to AI Business Leader: A Surprising Path](https://dev.to/adam-knitli/from-intelligence-expert-to-ai-business-leader-a-surprising-path-4gj7)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3b59)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-313h)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-5foh)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-daa)
 <!-- BLOG-POST-LIST:END -->
 
