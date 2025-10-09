@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLPY-04: Vectorización y Embeddings - Preparando Datos para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-04-vectorizacion-y-embeddings-preparando-datos-para-rag-3o40)
-- [HTTP status VS response body](https://dev.to/epigene/http-status-vs-response-body-1f8c)
-- [Day 2: Understanding Client-Server Architecture &amp; How Websites Work](https://dev.to/bblackwind/day-2-understanding-client-server-architecture-how-websites-work-5dgc)
-- [AWS just launched Skills Profile on AWS Skill Builder.](https://dev.to/kraisorn_prasoetsang/aws-just-launched-skills-profile-on-aws-skill-builder-5460)
+- [Grafana component in Meshery codebase.](https://dev.to/ramunarasinga-11/grafana-component-in-meshery-codebase-fk9)
+- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/angularfirebase/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
+- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
+- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
 <!-- BLOG-POST-LIST:END -->
 
