@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Normalization](https://dev.to/lokhitha_s_4/normalization-1i0m)
-- [🚀 Complete Guide: Hiring Challenge Paradigm](https://dev.to/soorya54/complete-guide-hiring-challenge-paradigm-4o17)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_40446303/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4goi)
-- [Cursor + Trigger](https://dev.to/lokhitha_s_4/cursor-trigger-2fho)
+- [React Question &amp; Answer](https://dev.to/lakshmi_g_74c225d5ca0b272/react-question-answer-234l)
+- [Building Vajra: My Journey Creating an AI Coding Assistant](https://dev.to/ashish_sharda_a540db2e50e/building-vajra-my-journey-creating-an-ai-coding-assistant-4i08)
+- [I Create Classic CSS Framework 🎉 🎉](https://dev.to/we-the-developers/i-create-classic-css-framework-l00)
+- [From Intelligence Expert to AI Business Leader: A Surprising Path](https://dev.to/adam-knitli/from-intelligence-expert-to-ai-business-leader-a-surprising-path-4gj7)
 <!-- BLOG-POST-LIST:END -->
 
