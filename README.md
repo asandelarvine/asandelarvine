@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IAM ACCESS ANALYSIS &amp; REPORTS](https://dev.to/ntsezenelvis/aws-iam-access-analysis-reports-31pc)
-- [Vector&#39;s VRL introduction &lpar;chapter 1&rpar;](https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1)
-- [LinkedIn SDE Virtual Onsite Experience: Acing Medium-Level Questions + Efficient Prep Tips](https://dev.to/net_programhelp_e160eef28/linkedin-sde-virtual-onsite-experience-acing-medium-level-questions-efficient-prep-tips-1250)
-- [How to Safely Set Up &amp; Optimize Adobe Photoshop CC &lpar;Official Tips&rpar;](https://dev.to/softguide321/how-to-safely-set-up-optimize-adobe-photoshop-cc-official-tips-1fb6)
+- [10 Most Common Terminal Commands Explained To A Beginner 😎](https://dev.to/kevmongare/10-most-common-terminal-commands-explained-to-a-beginner-2i78)
+- [Anonio — Anonymous E2E Chat with Voice &amp; Video](https://dev.to/m6jo9/anonio-anonymous-e2e-chat-with-voice-video-56ki)
+- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
+- [🚀 Rive Presentation Mode — The Smart Fix for Embed Hosting 🎥](https://dev.to/uianimation/rive-presentation-mode-the-smart-fix-for-embed-hosting-2jje)
 <!-- BLOG-POST-LIST:END -->
 
