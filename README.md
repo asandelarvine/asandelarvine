@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s a Whole Suite of Free, Open-Source Android Apps You Probably Didn&#39;t Know About](https://dev.to/shiva_shanker_k/theres-a-whole-suite-of-free-open-source-android-apps-you-probably-didnt-know-about-onc)
-- [Why People Say “F*** LeetCode”: Difficulty, Fairness, Real-World Value — and a Better Way](https://dev.to/alex_hunter_44f4c9ed6671e/why-people-say-f-leetcode-difficulty-fairness-real-world-value-and-a-better-way-1i80)
-- [CRUD Operations in MongoDB — Student Management System](https://dev.to/prabavathy_balagurusamy_2/crud-operations-in-mongodb-student-management-system-3m85)
-- [HELLO](https://dev.to/hellomaryamolaitan/hello-1j4g)
+- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://dev.to/yos/what-is-web3-attribution-how-to-build-an-onchain-attribution-system-3j3e)
+- [The Latest in Railroad Industry News: Updates and Analysis](https://dev.to/ayesha-diaz/the-latest-in-railroad-industry-news-updates-and-analysis-37k2)
+- [Why Most African Websites Fail — And How to Succeed in 2025](https://dev.to/service_maxsell_64ece3f66/why-most-african-websites-fail-and-how-to-succeed-in-2025-e53)
+- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 <!-- BLOG-POST-LIST:END -->
 
