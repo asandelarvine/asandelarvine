@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Balancing the Score](https://dev.to/simongreennet/weekly-challenge-balancing-the-score-38kd)
-- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
-- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
-- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
+- [LLPY-04: Vectorización y Embeddings - Preparando Datos para RAG](https://dev.to/jesus_oviedoriquelme_084/llpy-04-vectorizacion-y-embeddings-preparando-datos-para-rag-3o40)
+- [HTTP status VS response body](https://dev.to/epigene/http-status-vs-response-body-1f8c)
+- [Day 2: Understanding Client-Server Architecture &amp; How Websites Work](https://dev.to/bblackwind/day-2-understanding-client-server-architecture-how-websites-work-5dgc)
+- [AWS just launched Skills Profile on AWS Skill Builder.](https://dev.to/kraisorn_prasoetsang/aws-just-launched-skills-profile-on-aws-skill-builder-5460)
 <!-- BLOG-POST-LIST:END -->
 
