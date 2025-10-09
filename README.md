@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pair programming with AI isn’t about outsourcing your thinking; it’s about enhancing your creativity.
-
-It gives you more mental bandwidth to focus on architecture, design, and problem-solving while automating the boring parts.](https://dev.to/jaideepparashar/pair-programming-with-ai-isnt-about-outsourcing-your-thinking-its-about-enhancing-your-3llg)
-- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
-- [Envisioning SagaV: a Tarot-Themed Mocktail Brand](https://dev.to/paaaarv/envisioning-sagav-a-tarot-themed-mocktail-brand-1dkp)
-- [Cursor +Trigger](https://dev.to/mugiil_b_dc9b71601cba396/cursor-trigger-2b55)
+- [Cursor + Trigger](https://dev.to/nava_nava_9da1144487604/cursor-trigger-432n)
+- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
+- [AI Marketing That Actually Works: A Senior Playbook for Automating, Accelerating, and Amplifying Results](https://dev.to/dakrsize/ai-marketing-that-actually-works-a-senior-playbook-for-automating-accelerating-and-amplifying-4kjd)
+- [How AI Chatbots Are Transforming Customer Support in 2025](https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i)
 <!-- BLOG-POST-LIST:END -->
 
