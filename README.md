@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://dev.to/yos/what-is-web3-attribution-how-to-build-an-onchain-attribution-system-3j3e)
-- [The Latest in Railroad Industry News: Updates and Analysis](https://dev.to/ayesha-diaz/the-latest-in-railroad-industry-news-updates-and-analysis-37k2)
-- [Why Most African Websites Fail — And How to Succeed in 2025](https://dev.to/service_maxsell_64ece3f66/why-most-african-websites-fail-and-how-to-succeed-in-2025-e53)
-- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
+- [How to Configure Alert in Azure](https://dev.to/adeyemo/how-to-configure-alert-in-azure-30bp)
+- [PARAMETRIC AND NON-PARAMETRIC TESTS](https://dev.to/njeri_kimaru/parametric-and-non-parametric-tests-4k1a)
+- [Automate Shopify Product Imports with Admin API Using Python or Node.js](https://dev.to/lucy1/automate-shopify-product-imports-with-admin-api-using-python-or-nodejs-300j)
+- [Welcome to the Golf Forem!](https://dev.to/ben/welcome-to-the-golf-forem-1ac4)
 <!-- BLOG-POST-LIST:END -->
 
