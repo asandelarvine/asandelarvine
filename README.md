@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bring your own knowledge base: Agent Studio meets SurrealDB](https://dev.to/surrealdb/bring-your-own-knowledge-base-agent-studio-meets-surrealdb-32cm)
-- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
-- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
-- [Building MediBot: Integrating Django and Foundational NLP for Real-Time Medical Support Prototypes](https://dev.to/thiyagu26v/building-medibot-integrating-django-and-foundational-nlp-for-real-time-medical-support-prototypes-4ahe)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-3pgo)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-4ela)
+- [The Data Science Tech Stack you must master in 2025](https://dev.to/hew/the-data-science-tech-stack-you-must-master-in-2025-1fkd)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1iep)
 <!-- BLOG-POST-LIST:END -->
 
