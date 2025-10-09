@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure Alert in Azure](https://dev.to/adeyemo/how-to-configure-alert-in-azure-30bp)
-- [PARAMETRIC AND NON-PARAMETRIC TESTS](https://dev.to/njeri_kimaru/parametric-and-non-parametric-tests-4k1a)
-- [Automate Shopify Product Imports with Admin API Using Python or Node.js](https://dev.to/lucy1/automate-shopify-product-imports-with-admin-api-using-python-or-nodejs-300j)
-- [Welcome to the Golf Forem!](https://dev.to/ben/welcome-to-the-golf-forem-1ac4)
+- [Weekly Challenge: Balancing the Score](https://dev.to/simongreennet/weekly-challenge-balancing-the-score-38kd)
+- [How Does MODPA&#39;s Approach to Sensitive Data Differ from Other State Laws?](https://dev.to/mehwish_malik_4f29ff7fb04/how-does-modpas-approach-to-sensitive-data-differ-from-other-state-laws-35ej)
+- [Typing the untypable: generating Python .pyi stubs](https://dev.to/art_vasilyev/typing-the-untypable-generating-python-pyi-stubs-23ci)
+- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
 <!-- BLOG-POST-LIST:END -->
 
