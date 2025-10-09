@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Professional LinkedIn Headshots Using Nano Banana](https://dev.to/gbti-network/how-to-generate-professional-linkedin-headshots-using-nano-banana-16n4)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4ip9)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-31h)
-- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-4fm4)
+- [Bring your own knowledge base: Agent Studio meets SurrealDB](https://dev.to/surrealdb/bring-your-own-knowledge-base-agent-studio-meets-surrealdb-32cm)
+- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
+- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
+- [Building MediBot: Integrating Django and Foundational NLP for Real-Time Medical Support Prototypes](https://dev.to/thiyagu26v/building-medibot-integrating-django-and-foundational-nlp-for-real-time-medical-support-prototypes-4ahe)
 <!-- BLOG-POST-LIST:END -->
 
