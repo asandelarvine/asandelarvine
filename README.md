@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Dogma: A Pragmatic Hybrid MVVM Architecture in WPF**](https://dev.to/neopotato/beyond-the-dogma-a-pragmatic-hybrid-mvvm-architecture-in-wpf-3ncm)
-- [An Introduction to Remote Procedural Call &lpar;RPC&rpar; Nodes in Blockchains](https://dev.to/davidekete/an-introduction-to-remote-procedural-call-rpc-nodes-in-blockchain-p88)
-- [Building a Modern Image Cropper in React with CropperJS 2.x](https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1)
-- [Cloud Resume Challenge &lpar;Azure&rpar; — Part 3: Setting Up HTTPS and Understanding Azure CDN](https://dev.to/jic/cloud-resume-challenge-azure-part-3-setting-up-https-and-understanding-azure-cdn-2mbk)
+- [Normalization](https://dev.to/lokhitha_s_4/normalization-1i0m)
+- [🚀 Complete Guide: Hiring Challenge Paradigm](https://dev.to/soorya54/complete-guide-hiring-challenge-paradigm-4o17)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_40446303/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4goi)
+- [Cursor + Trigger](https://dev.to/lokhitha_s_4/cursor-trigger-2fho)
 <!-- BLOG-POST-LIST:END -->
 
