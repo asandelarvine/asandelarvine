@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize AI Model &amp; Bot Training Services](https://dev.to/emilyg/how-to-optimize-ai-model-bot-training-services-47ba)
-- [Implementing Efficient Data Synchronization for Offline-First Mobile Applications](https://dev.to/elratto21/implementing-efficient-data-synchronization-for-offline-first-mobile-applications-525c)
-- [How to Use Terraform Tolist Function](https://dev.to/spacelift/how-to-use-terraform-tolist-function-28j1)
-- [Best AI meeting assistants for small teams](https://dev.to/isabellerad/best-ai-meeting-assistants-for-small-teams-5285)
+- [Unlocking Momentum: My Vibe Coding Journey with AI Tools](https://dev.to/pravin_niceguy/unlocking-momentum-my-vibe-coding-journey-with-ai-tools-408o)
+- [7 Best Zapier Alternatives: No-Code Workflow Automation in 2025](https://dev.to/riwa/7-best-zapier-alternatives-no-code-workflow-automation-in-2025-1o3p)
+- [PikaPods: Quick Hosting for Open-Source Apps Developers Actually Use](https://dev.to/pikapods/pikapods-quick-hosting-for-open-source-apps-developers-actually-use-lj2)
+- [Git GUI Tools - Simplifying Version Control for Test Engineers](https://dev.to/jignect-technologies/git-gui-tools-simplifying-version-control-for-test-engineers-4h3a)
 <!-- BLOG-POST-LIST:END -->
 
