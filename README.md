@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Don’t Think About It&quot;: Why the Brain Thinks the Opposite &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/dont-think-about-it-why-the-brain-thinks-the-opposite-bite-size-article-1ah6)
-- [The Solo Developer&#39;s Product Stack: 4 Things I Wish I&#39;d Set Up From Day One](https://dev.to/shayy/the-solo-developers-product-stack-4-things-i-wish-id-set-up-from-day-one-158j)
-- [Book Review — The Creative Act: A Way of Being by Rick Rubin](https://dev.to/aileenvl/book-review-the-creative-act-a-way-of-being-by-rick-rubin-5eeb)
-- [Data in Everyday Life](https://dev.to/mubby042/data-in-everyday-life-15j1)
+- [Day 4 of documentating my learning journey](https://dev.to/james_kabuga/day-4-of-documentating-my-learning-journey-3ohe)
+- [URL Image Uploader for Filament — Upload from Anywhere in Seconds](https://dev.to/amjadiqbal/url-image-uploader-for-filament-upload-from-anywhere-in-seconds-hfk)
+- [A Beginner’s Roadmap to the AI Development Lifecycle in 2025](https://dev.to/nayeem79/a-beginners-roadmap-to-the-ai-development-lifecycle-in-2025-5f79)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-52no)
 <!-- BLOG-POST-LIST:END -->
 
