@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is DevRel Just About Events, or Something Deeper?](https://dev.to/pratikmahalle/is-devrel-just-about-events-or-something-deeper-40fc)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-5hfl)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-569p)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
+- [Why Your GitHub Profile Isn&#39;t Enough: Building a Developer Brand That Actually Opens Doors](https://dev.to/sonia_bobrik_1939cdddd79d/why-your-github-profile-isnt-enough-building-a-developer-brand-that-actually-opens-doors-al3)
+- [10,000 Failed Scripts Later: 5 Python Antipatterns to Avoid](https://dev.to/franklinmayoyo/10000-failed-scripts-later-5-python-antipatterns-to-avoid-3ii2)
+- [How I Used AI to Escape My 9–5 and Earn $197,076/Year — My Full Automation Blueprint](https://dev.to/glorioustechs/how-i-used-ai-to-escape-my-9-5-and-earn-197076year-my-full-automation-blueprint-56hn)
+- [In-Depth Sealsq Stock Analysis Report 2025: Expert Forecast, Future Trends, and Market Evaluation](https://dev.to/safdar_meyka_012ecf3f1605/in-depth-sealsq-stock-analysis-report-2025-expert-forecast-future-trends-and-market-evaluation-4ddk)
 <!-- BLOG-POST-LIST:END -->
 
