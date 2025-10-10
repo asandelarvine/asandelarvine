@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/analysis-attention-is-all-you-need-i9i)
-- [In-Depth Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/in-depth-analysis-attention-is-all-you-need-267n)
-- [🧠 Como criar uma Fluent API no TypeORM &lpar;igual ao Entity Framework&rpar;](https://dev.to/jhonesgoncalves/como-criar-uma-fluent-api-no-typeorm-igual-ao-entity-framework-5ed)
-- [8 Mistakes New Freelance Engineers Make and How to Fix Them](https://dev.to/remotebranch/8-mistakes-new-freelance-engineers-make-and-how-to-fix-them-1ng2)
+- [Manifest and Service Workers in PWAs](https://dev.to/lucaspereiradesouzat/manifest-and-service-workers-in-pwas-5dmc)
+- [Your First Rhino Contribution: Making MVP Development Even Faster](https://dev.to/codalio/your-first-rhino-contribution-making-mvp-development-even-faster-17dc)
+- [Manifest e service workers em PWA](https://dev.to/lucaspereiradesouzat/manifest-e-service-workers-em-pwa-1m7f)
+- [Can You Really Trust Code-Generation Tools?](https://dev.to/talweezy/can-you-really-trust-code-generation-tools-4jo8)
 <!-- BLOG-POST-LIST:END -->
 
