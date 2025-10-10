@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manifest and Service Workers in PWAs](https://dev.to/lucaspereiradesouzat/manifest-and-service-workers-in-pwas-5dmc)
-- [Your First Rhino Contribution: Making MVP Development Even Faster](https://dev.to/codalio/your-first-rhino-contribution-making-mvp-development-even-faster-17dc)
-- [Manifest e service workers em PWA](https://dev.to/lucaspereiradesouzat/manifest-e-service-workers-em-pwa-1m7f)
-- [Can You Really Trust Code-Generation Tools?](https://dev.to/talweezy/can-you-really-trust-code-generation-tools-4jo8)
+- [How PROMPT FIX Brings NanoBanana , Seedream, ComfyUI and Qwen Image Edit 2509 Directly Into Photoshop](https://dev.to/shaaraa/how-prompt-fix-brings-nanobanana-seedream-comfyui-and-qwen-image-edit-2509-directly-into-50jk)
+- [First time on!](https://dev.to/keani_maruy_be35cce06ee95/first-time-on-3ipo)
+- [Trust Math, Not Humans: Building the World&#39;s First Mathematically Provable Security Vault](https://dev.to/chronosvault/trust-math-not-humans-building-the-worlds-first-mathematically-provable-security-vault-3bk1)
+- [How I Built My Own Next.js Template Store &lpar;And What I Learned&rpar;](https://dev.to/mohamed_djoudir/how-i-built-my-own-nextjs-template-store-and-what-i-learned-53la)
 <!-- BLOG-POST-LIST:END -->
 
