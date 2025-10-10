@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned to Embrace my Chaotic Brain](https://dev.to/bmejias/how-i-learned-to-embrace-my-chaotic-brain-4m3e)
-- [🏌️‍♂️ How I Built a Golf Swing Analyzer in Python Using AI Pose Detection &lpar;That Actually Works&rpar;](https://dev.to/ryanboscobanze/how-i-built-a-golf-swing-analyzer-in-python-using-ai-pose-detection-that-actually-works-3jc5)
-- [Building a Production Server from Scratch: The Ultimate Guide](https://dev.to/arhamrumi/building-a-production-server-from-scratch-the-ultimate-guide-5ep6)
-- [From Prototype to Production: Lessons Scaling an AI Interview Platform](https://dev.to/ambalogun/from-prototype-to-production-lessons-scaling-an-ai-interview-platform-na7)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-33f2)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2f4o)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-410l)
+- [KEXP: Wet Leg - CPR &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-cpr-live-on-kexp-2d82)
 <!-- BLOG-POST-LIST:END -->
 
