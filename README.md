@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Library Method: Understanding @cache](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1)
-- [Hacktoberfest Week 1](https://dev.to/kphero/hacktoberfest-week-1-53mh)
-- [Understanding `&#39;PropsWithChildren&#39;` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie)
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
+- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
+- [AI for Refactoring: Making Legacy Code Clean and Future-Ready](https://dev.to/jaideepparashar/ai-for-refactoring-making-legacy-code-clean-and-future-ready-19i4)
+- [Post 3/10 — Safe Cadence: Kubernetes Upgrades, Version Skew, and Feature Gates](https://dev.to/cloud-sky-ops/post-310-safe-cadence-kubernetes-upgrades-version-skew-and-feature-gates-34mf)
+- [smartsence - siddhi](https://dev.to/sidatgithubcode/smartsence-siddhi-4cgo)
 <!-- BLOG-POST-LIST:END -->
 
