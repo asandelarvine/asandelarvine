@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From CAP to GAP?](https://dev.to/omanfk/from-cap-to-gap-269h)
-- [Make Any Angular List Draggable in Minutes](https://dev.to/brianmtreese/make-any-angular-list-draggable-in-minutes-3fmb)
-- [Building Production-Ready AI Agents with Amazon Bedrock AgentCore.](https://dev.to/kraisorn_prasoetsang/building-production-ready-ai-agents-with-amazon-bedrock-agentcore-hdn)
-- [Every Line of Code Is a Philosophy in Disguise](https://dev.to/rohit_gavali_0c2ad84fe4e0/every-line-of-code-is-a-philosophy-in-disguise-51lf)
+- [How to Optimize AI Model &amp; Bot Training Services](https://dev.to/emilyg/how-to-optimize-ai-model-bot-training-services-47ba)
+- [Implementing Efficient Data Synchronization for Offline-First Mobile Applications](https://dev.to/elratto21/implementing-efficient-data-synchronization-for-offline-first-mobile-applications-525c)
+- [How to Use Terraform Tolist Function](https://dev.to/spacelift/how-to-use-terraform-tolist-function-28j1)
+- [Best AI meeting assistants for small teams](https://dev.to/isabellerad/best-ai-meeting-assistants-for-small-teams-5285)
 <!-- BLOG-POST-LIST:END -->
 
