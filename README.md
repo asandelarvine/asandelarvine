@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your GitHub Profile Isn&#39;t Enough: Building a Developer Brand That Actually Opens Doors](https://dev.to/sonia_bobrik_1939cdddd79d/why-your-github-profile-isnt-enough-building-a-developer-brand-that-actually-opens-doors-al3)
-- [10,000 Failed Scripts Later: 5 Python Antipatterns to Avoid](https://dev.to/franklinmayoyo/10000-failed-scripts-later-5-python-antipatterns-to-avoid-3ii2)
-- [How I Used AI to Escape My 9–5 and Earn $197,076/Year — My Full Automation Blueprint](https://dev.to/glorioustechs/how-i-used-ai-to-escape-my-9-5-and-earn-197076year-my-full-automation-blueprint-56hn)
-- [In-Depth Sealsq Stock Analysis Report 2025: Expert Forecast, Future Trends, and Market Evaluation](https://dev.to/safdar_meyka_012ecf3f1605/in-depth-sealsq-stock-analysis-report-2025-expert-forecast-future-trends-and-market-evaluation-4ddk)
+- [This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier](https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope)
+- [Ping Pong 🏓](https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i)
+- [Sudoku](https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3)
+- [AWS Cost Optimization Tips Nobody Tells You](https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58)
 <!-- BLOG-POST-LIST:END -->
 
