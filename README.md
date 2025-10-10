@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Path Analysis Using R](https://dev.to/anshuman_816f8012be0c9b6c/understanding-path-analysis-using-r-2e2l)
-- [Building a Browser FPS from Scratch: Sicar.io and the Lumina.pw Engine](https://dev.to/hoodgail/building-a-browser-fps-from-scratch-sicario-and-the-luminapw-engine-gh7)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj)
+- [From CAP to GAP?](https://dev.to/omanfk/from-cap-to-gap-269h)
+- [Make Any Angular List Draggable in Minutes](https://dev.to/brianmtreese/make-any-angular-list-draggable-in-minutes-3fmb)
+- [Building Production-Ready AI Agents with Amazon Bedrock AgentCore.](https://dev.to/kraisorn_prasoetsang/building-production-ready-ai-agents-with-amazon-bedrock-agentcore-hdn)
+- [Every Line of Code Is a Philosophy in Disguise](https://dev.to/rohit_gavali_0c2ad84fe4e0/every-line-of-code-is-a-philosophy-in-disguise-51lf)
 <!-- BLOG-POST-LIST:END -->
 
