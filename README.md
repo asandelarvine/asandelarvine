@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier](https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope)
-- [Ping Pong 🏓](https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i)
-- [Sudoku](https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3)
-- [AWS Cost Optimization Tips Nobody Tells You](https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58)
+- [Shopify + Triochat](https://dev.to/triochat_io/shopify-triochat-4en7)
+- [Billing and Subscription](https://dev.to/triochat_io/billing-and-subscription-5f97)
+- [🧩 Day 9 of #30DaysOfSolidity — Contract-to-Contract Interaction](https://dev.to/sauravkumar8178/day-9-of-30daysofsolidity-contract-to-contract-interaction-5hnh)
+- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
 <!-- BLOG-POST-LIST:END -->
 
