@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Online Video Compressor in 2 Weeks](https://dev.to/chris_howe/i-built-a-free-online-video-compressor-in-2-weeks-49id)
-- [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
+- [My experience with Hardware: HWID Spoofers and BANS!](https://dev.to/mina_tremblay_9ae0fef8e42/my-experience-with-hardware-hwid-spoofers-and-bans-59g4)
+- [Database Normalization: From 1NF to 3NF](https://dev.to/nahuleswaran_s24cb031_b4/database-normalization-from-1nf-to-3nf-1mog)
+- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
+- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
 <!-- BLOG-POST-LIST:END -->
 
