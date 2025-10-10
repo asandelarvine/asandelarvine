@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify + Triochat](https://dev.to/triochat_io/shopify-triochat-4en7)
-- [Billing and Subscription](https://dev.to/triochat_io/billing-and-subscription-5f97)
-- [🧩 Day 9 of #30DaysOfSolidity — Contract-to-Contract Interaction](https://dev.to/sauravkumar8178/day-9-of-30daysofsolidity-contract-to-contract-interaction-5hnh)
-- [Fast Map Development: Using Context7 + Claude CLI with MapMetrics-GL](https://dev.to/mapmetrics/fast-map-development-using-context7-claude-cli-with-mapmetrics-gl-47eo)
+- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-34id)
+- [IGN: Little Nightmares 3 - Official &#39;Hold My Hand&#39; Launch Trailer](https://dev.to/gg_news/ign-little-nightmares-3-official-hold-my-hand-launch-trailer-4625)
+- [mx: Turn Your Documentation into Executable Tasks](https://dev.to/harehare/mx-turn-your-documentation-into-executable-tasks-58g7)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1fka)
 <!-- BLOG-POST-LIST:END -->
 
