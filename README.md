@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-34id)
-- [IGN: Little Nightmares 3 - Official &#39;Hold My Hand&#39; Launch Trailer](https://dev.to/gg_news/ign-little-nightmares-3-official-hold-my-hand-launch-trailer-4625)
-- [mx: Turn Your Documentation into Executable Tasks](https://dev.to/harehare/mx-turn-your-documentation-into-executable-tasks-58g7)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1fka)
+- [Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/analysis-attention-is-all-you-need-i9i)
+- [In-Depth Analysis: &quot;Attention Is All You Need&quot;](https://dev.to/sandeep_salwan/in-depth-analysis-attention-is-all-you-need-267n)
+- [🧠 Como criar uma Fluent API no TypeORM &lpar;igual ao Entity Framework&rpar;](https://dev.to/jhonesgoncalves/como-criar-uma-fluent-api-no-typeorm-igual-ao-entity-framework-5ed)
+- [8 Mistakes New Freelance Engineers Make and How to Fix Them](https://dev.to/remotebranch/8-mistakes-new-freelance-engineers-make-and-how-to-fix-them-1ng2)
 <!-- BLOG-POST-LIST:END -->
 
