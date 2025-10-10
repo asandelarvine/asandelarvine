@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How PROMPT FIX Brings NanoBanana , Seedream, ComfyUI and Qwen Image Edit 2509 Directly Into Photoshop](https://dev.to/shaaraa/how-prompt-fix-brings-nanobanana-seedream-comfyui-and-qwen-image-edit-2509-directly-into-50jk)
-- [First time on!](https://dev.to/keani_maruy_be35cce06ee95/first-time-on-3ipo)
-- [Trust Math, Not Humans: Building the World&#39;s First Mathematically Provable Security Vault](https://dev.to/chronosvault/trust-math-not-humans-building-the-worlds-first-mathematically-provable-security-vault-3bk1)
-- [How I Built My Own Next.js Template Store &lpar;And What I Learned&rpar;](https://dev.to/mohamed_djoudir/how-i-built-my-own-nextjs-template-store-and-what-i-learned-53la)
+- [Understanding DAX Functions in Power BI](https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm)
+- [Recommended Approaches for Loading Many Large Images on the Web](https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-co9)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-11he)
 <!-- BLOG-POST-LIST:END -->
 
