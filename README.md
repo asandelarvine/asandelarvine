@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with Hardware: HWID Spoofers and BANS!](https://dev.to/mina_tremblay_9ae0fef8e42/my-experience-with-hardware-hwid-spoofers-and-bans-59g4)
-- [Database Normalization: From 1NF to 3NF](https://dev.to/nahuleswaran_s24cb031_b4/database-normalization-from-1nf-to-3nf-1mog)
-- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
-- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
+- [Understanding Path Analysis Using R](https://dev.to/anshuman_816f8012be0c9b6c/understanding-path-analysis-using-r-2e2l)
+- [Building a Browser FPS from Scratch: Sicar.io and the Lumina.pw Engine](https://dev.to/hoodgail/building-a-browser-fps-from-scratch-sicario-and-the-luminapw-engine-gh7)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj)
 <!-- BLOG-POST-LIST:END -->
 
