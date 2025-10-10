@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Momentum: My Vibe Coding Journey with AI Tools](https://dev.to/pravin_niceguy/unlocking-momentum-my-vibe-coding-journey-with-ai-tools-408o)
-- [7 Best Zapier Alternatives: No-Code Workflow Automation in 2025](https://dev.to/riwa/7-best-zapier-alternatives-no-code-workflow-automation-in-2025-1o3p)
-- [PikaPods: Quick Hosting for Open-Source Apps Developers Actually Use](https://dev.to/pikapods/pikapods-quick-hosting-for-open-source-apps-developers-actually-use-lj2)
-- [Git GUI Tools - Simplifying Version Control for Test Engineers](https://dev.to/jignect-technologies/git-gui-tools-simplifying-version-control-for-test-engineers-4h3a)
+- [Is DevRel Just About Events, or Something Deeper?](https://dev.to/pratikmahalle/is-devrel-just-about-events-or-something-deeper-40fc)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-5hfl)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-569p)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
 <!-- BLOG-POST-LIST:END -->
 
