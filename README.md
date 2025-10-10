@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
-- [AI for Refactoring: Making Legacy Code Clean and Future-Ready](https://dev.to/jaideepparashar/ai-for-refactoring-making-legacy-code-clean-and-future-ready-19i4)
-- [Post 3/10 — Safe Cadence: Kubernetes Upgrades, Version Skew, and Feature Gates](https://dev.to/cloud-sky-ops/post-310-safe-cadence-kubernetes-upgrades-version-skew-and-feature-gates-34mf)
-- [smartsence - siddhi](https://dev.to/sidatgithubcode/smartsence-siddhi-4cgo)
+- [I Built a Free Online Video Compressor in 2 Weeks](https://dev.to/chris_howe/i-built-a-free-online-video-compressor-in-2-weeks-49id)
+- [Blackbird: The AI-Powered OSINT Account Enumeration Tool](https://dev.to/adityapidurkar/blackbird-the-ai-powered-osint-account-enumeration-tool-4382)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-hdm)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-a2m)
 <!-- BLOG-POST-LIST:END -->
 
