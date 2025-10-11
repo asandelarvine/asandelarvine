@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [npm-ai-hooks: Inject LLM behavior into any TS function with one line](https://dev.to/ateebnoone/npm-ai-hooks-inject-llm-behavior-into-any-ts-function-with-one-line-4e2o)
-- [An Introduction to Commonly Used PL/SQL Data Types](https://dev.to/ayako_yk/an-introduction-to-commonly-used-plsql-data-types-598c)
-- [Check out the guide on - Why Learning Tableau Can Transform Your Career](https://dev.to/thedatageek/check-out-the-guide-on-why-learning-tableau-can-transform-your-career-ba)
-- [Outil de Cybersécurité du Jour - Oct 11, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-11-2025-8li)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4bgj)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-20a1)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-5147)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-32o4)
 <!-- BLOG-POST-LIST:END -->
 
