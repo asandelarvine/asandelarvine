@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5)
-- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
+- [Big Data Processing &lpar;Hadoop, Spark&rpar;](https://dev.to/godofgeeks/big-data-processing-hadoop-spark-47ic)
+- [Demystifying Base64 Images: A Developer&#39;s Guide to Principles, Pros &amp; Cons, and Best Practices](https://dev.to/cheng_qian_8382fdc61158ce/demystifying-base64-images-a-developers-guide-to-principles-pros-cons-and-best-practices-4lgp)
+- [My Hacktoberfest 2025 Journey: Empowering Open Source Through Documentation](https://dev.to/saptarshisen1/my-hacktoberfest-2025-journey-empowering-open-source-through-documentation-4cj3)
+- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
 <!-- BLOG-POST-LIST:END -->
 
