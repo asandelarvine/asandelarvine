@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Handwritten Notes &amp; Interview Questions](https://dev.to/avinash201199/mern-stack-handwritten-notes-interview-questions-25pn)
-- [50 Most Useful LESS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-less-snippets-3blo)
-- [🧭Beginner’s &lpar;and Not-So-Beginner’s&rpar; Guide #3 — const vs let &lpar;and a bit about var&rpar;: What Developers Keep Getting Wrong](https://dev.to/sylwia-lask/beginners-and-not-so-beginners-guide-3-const-vs-let-and-a-bit-about-var-what-developers-40h)
-- [Desplegando Backend + Frontend con Nginx](https://dev.to/erickvasm/desplegando-backend-frontend-con-nginx-1l7j)
+- [Why 99% of Web Developers Are Using NoSQL All Wrong — And How to Fix It](https://dev.to/ekwoster/why-99-of-web-developers-are-using-nosql-all-wrong-and-how-to-fix-it-3eeh)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4bi0)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1bdg)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1hb1)
 <!-- BLOG-POST-LIST:END -->
 
