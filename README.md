@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s 16 KB Rule Explained: Step-by-Step Fixes for Legacy React Native Projects](https://dev.to/josephnwanna/googles-16-kb-rule-explained-step-by-step-fixes-for-legacy-react-native-projects-3ae9)
-- [Modernize Open Source Nuxt.js Admin Dashboard: A Comprehensive Overview](https://dev.to/vaibhavg/modernize-open-source-nuxtjs-admin-dashboard-a-comprehensive-overview-2j19)
-- [String in Python &lpar;2&rpar;](https://dev.to/hyperkai/string-in-python-2-2382)
-- [Introducing Bite Genie: Turn Restaurant Photos Into Recipes You Can Actually Cook](https://dev.to/shelby_zinter_f6028766b44/introducing-bite-genie-turn-restaurant-photos-into-recipes-you-can-actually-cook-2pcg)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
 <!-- BLOG-POST-LIST:END -->
 
