@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An oldie, but a goodie!](https://dev.to/canro91/an-oldie-but-a-goodie-3750)
-- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
-- [What makes this hackathon unique &lpar;HackSpire’25&rpar; 🚀](https://dev.to/debkanta_dey_09b98f7eebb9/what-makes-this-hackathon-unique-hackspire25-4nhf)
-- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
+- [TLDR; Deploy ReactJS project to Cloudflare Pages](https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1)
+- [🔒 Vulnerability Remediation &lpar;Cybersecurity Patch&rpar; 🛠️ by Avoiding Broken Access Control 🚫](https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-avoiding-broken-access-control-3lc8)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5437)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-m4c)
 <!-- BLOG-POST-LIST:END -->
 
