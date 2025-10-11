@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AWS Identity Center &lpar;SSO&rpar; tokens to script across multiple accounts](https://dev.to/aws-builders/using-aws-identity-center-sso-tokens-to-script-across-multiple-accounts-352l)
-- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4)
-- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f)
+- [Unify Your AI Stack: Meet the Universal Gateway That Tames REST, MCP, and More](https://dev.to/githubopensource/unify-your-ai-stack-meet-the-universal-gateway-that-tames-rest-mcp-and-more-1je6)
+- [Blog-Only CMS vs Full CMS: What Developers Actually Need in 2025](https://dev.to/nagendra402/blog-only-cms-vs-full-cms-what-developers-actually-need-in-2025-5159)
+- [3186. Maximum Total Damage With Spell Casting](https://dev.to/mdarifulhaque/3186-maximum-total-damage-with-spell-casting-3l3k)
+- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
 <!-- BLOG-POST-LIST:END -->
 
