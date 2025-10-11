@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing this for the product design and strategy folks here. While the article is about AI strategy, it&#39;s really a story about product vision.](https://dev.to/shiv-centcapital/sharing-this-for-the-product-design-and-strategy-folks-here-while-the-article-is-about-ai-4ngf)
-- [Reposting this for all the makers and builders. This is a founder&#39;s story and a playbook sharing the lessons from my AWS journey that led me to build my own fintech startup, Cent Capital.](https://dev.to/shiv-centcapital/reposting-this-for-all-the-makers-and-builders-this-is-a-founders-story-and-a-playbook-sharing-4a0l)
-- [Thought the &#39;Future&#39; community would find this interesting. I&#39;m sharing a playbook based on my experience as Head of Gen AI Marketing at AWS, exploring what I believe is the &#39;next act&#39; of the AI revolution.](https://dev.to/shiv-centcapital/thought-the-future-community-would-find-this-interesting-im-sharing-a-playbook-based-on-my-2l80)
-- [Sharing this here from the main DEV feed as the discussion is all about scale. My post digs into the challenges of moving AI from a cool PoC to a cost-effective, enterprise-scale solution, using lessons from my time at AWS.](https://dev.to/shiv-centcapital/sharing-this-here-from-the-main-dev-feed-as-the-discussion-is-all-about-scale-my-post-digs-into-eci)
+- [St Clements Education and Prof. Dr. Bilal Semih Bozdemir](https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi)
+- [🐳 Enterprise-Grade Containerization for Node.js Backends](https://dev.to/it-wibrc/enterprise-grade-containerization-for-nodejs-backends-38bg)
+- [Hacktoberfest 2025 t-shirt](https://dev.to/holiq/hacktoberfest-2025-t-shirt-1g0i)
+- [itertools in Python &lpar;11&rpar;](https://dev.to/hyperkai/itertools-in-python-11-29f0)
 <!-- BLOG-POST-LIST:END -->
 
