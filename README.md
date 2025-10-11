@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10+ E-Commerce Dashboard Templates](https://dev.to/wrap-pixel/top-10-e-commerce-dashboard-templates-4a83)
-- [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
-- [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
+- [Using AWS Identity Center &lpar;SSO&rpar; tokens to script across multiple accounts](https://dev.to/aws-builders/using-aws-identity-center-sso-tokens-to-script-across-multiple-accounts-352l)
+- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4)
+- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f)
 <!-- BLOG-POST-LIST:END -->
 
