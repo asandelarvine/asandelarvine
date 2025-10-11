@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TLDR; Deploy ReactJS project to Cloudflare Pages](https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1)
-- [🔒 Vulnerability Remediation &lpar;Cybersecurity Patch&rpar; 🛠️ by Avoiding Broken Access Control 🚫](https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-avoiding-broken-access-control-3lc8)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5437)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-m4c)
+- [MadicalScrabs](https://dev.to/madical_scrabs_71dbcec16d/madicalscrabs-c89)
+- [Blockchain Technology: Revolutionizing the Way We Share and Secure Data](https://dev.to/rapidcellphone/blockchain-technology-revolutionizing-the-way-we-share-and-secure-data-197o)
+- [Basic Mail Automation in Python](https://dev.to/nazanin_ashrafi/basic-mail-automation-in-python-22ll)
+- [The Tech Stack That&#39;s Dying in 2025 &lpar;Stop Wasting Time on It&rpar;](https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57)
 <!-- BLOG-POST-LIST:END -->
 
