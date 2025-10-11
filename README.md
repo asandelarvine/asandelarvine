@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
-- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
-- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
-- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
+- [Sharing this for the product design and strategy folks here. While the article is about AI strategy, it&#39;s really a story about product vision.](https://dev.to/shiv-centcapital/sharing-this-for-the-product-design-and-strategy-folks-here-while-the-article-is-about-ai-4ngf)
+- [Reposting this for all the makers and builders. This is a founder&#39;s story and a playbook sharing the lessons from my AWS journey that led me to build my own fintech startup, Cent Capital.](https://dev.to/shiv-centcapital/reposting-this-for-all-the-makers-and-builders-this-is-a-founders-story-and-a-playbook-sharing-4a0l)
+- [Thought the &#39;Future&#39; community would find this interesting. I&#39;m sharing a playbook based on my experience as Head of Gen AI Marketing at AWS, exploring what I believe is the &#39;next act&#39; of the AI revolution.](https://dev.to/shiv-centcapital/thought-the-future-community-would-find-this-interesting-im-sharing-a-playbook-based-on-my-2l80)
+- [Sharing this here from the main DEV feed as the discussion is all about scale. My post digs into the challenges of moving AI from a cool PoC to a cost-effective, enterprise-scale solution, using lessons from my time at AWS.](https://dev.to/shiv-centcapital/sharing-this-here-from-the-main-dev-feed-as-the-discussion-is-all-about-scale-my-post-digs-into-eci)
 <!-- BLOG-POST-LIST:END -->
 
