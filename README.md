@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-55g5)
+- [MERN Stack Handwritten Notes &amp; Interview Questions](https://dev.to/avinash201199/mern-stack-handwritten-notes-interview-questions-25pn)
+- [50 Most Useful LESS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-less-snippets-3blo)
+- [🧭Beginner’s &lpar;and Not-So-Beginner’s&rpar; Guide #3 — const vs let &lpar;and a bit about var&rpar;: What Developers Keep Getting Wrong](https://dev.to/sylwia-lask/beginners-and-not-so-beginners-guide-3-const-vs-let-and-a-bit-about-var-what-developers-40h)
+- [Desplegando Backend + Frontend con Nginx](https://dev.to/erickvasm/desplegando-backend-frontend-con-nginx-1l7j)
 <!-- BLOG-POST-LIST:END -->
 
