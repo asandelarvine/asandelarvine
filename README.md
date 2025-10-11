@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unify Your AI Stack: Meet the Universal Gateway That Tames REST, MCP, and More](https://dev.to/githubopensource/unify-your-ai-stack-meet-the-universal-gateway-that-tames-rest-mcp-and-more-1je6)
-- [Blog-Only CMS vs Full CMS: What Developers Actually Need in 2025](https://dev.to/nagendra402/blog-only-cms-vs-full-cms-what-developers-actually-need-in-2025-5159)
-- [3186. Maximum Total Damage With Spell Casting](https://dev.to/mdarifulhaque/3186-maximum-total-damage-with-spell-casting-3l3k)
-- [Stopping Bad Actors: Inside 1Password’s Security Model](https://dev.to/edeckers/stopping-bad-actors-inside-1passwords-security-model-14c)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3jn1)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4c1)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aie)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-55g5)
 <!-- BLOG-POST-LIST:END -->
 
