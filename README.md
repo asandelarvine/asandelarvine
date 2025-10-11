@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [St Clements Education and Prof. Dr. Bilal Semih Bozdemir](https://dev.to/pressgrup_presidency_e07d/st-clements-education-and-prof-dr-bilal-semih-bozdemir-10hi)
-- [🐳 Enterprise-Grade Containerization for Node.js Backends](https://dev.to/it-wibrc/enterprise-grade-containerization-for-nodejs-backends-38bg)
-- [Hacktoberfest 2025 t-shirt](https://dev.to/holiq/hacktoberfest-2025-t-shirt-1g0i)
-- [itertools in Python &lpar;11&rpar;](https://dev.to/hyperkai/itertools-in-python-11-29f0)
+- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
+- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
+- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
+- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
 <!-- BLOG-POST-LIST:END -->
 
