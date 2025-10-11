@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Data Processing &lpar;Hadoop, Spark&rpar;](https://dev.to/godofgeeks/big-data-processing-hadoop-spark-47ic)
-- [Demystifying Base64 Images: A Developer&#39;s Guide to Principles, Pros &amp; Cons, and Best Practices](https://dev.to/cheng_qian_8382fdc61158ce/demystifying-base64-images-a-developers-guide-to-principles-pros-cons-and-best-practices-4lgp)
-- [My Hacktoberfest 2025 Journey: Empowering Open Source Through Documentation](https://dev.to/saptarshisen1/my-hacktoberfest-2025-journey-empowering-open-source-through-documentation-4cj3)
-- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
+- [AI Infrastructure Agent: A Smarter Way to Manage AWS](https://dev.to/prithiviraj_rengarajan/ai-infrastructure-agent-a-smarter-way-to-manage-aws-2ejp)
+- [Angular Development &amp; AI](https://dev.to/sunny7899/angular-development-ai-4011)
+- [SaaS](https://dev.to/pravin_niceguy/saas-427j)
+- [The State Management Revolution: How Signals Transformed My E-commerce Cart Performance](https://dev.to/_783c87889170d6d699/the-state-management-revolution-how-signals-transformed-my-e-commerce-cart-performance-26e4)
 <!-- BLOG-POST-LIST:END -->
 
