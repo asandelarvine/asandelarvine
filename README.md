@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Infrastructure Agent: A Smarter Way to Manage AWS](https://dev.to/prithiviraj_rengarajan/ai-infrastructure-agent-a-smarter-way-to-manage-aws-2ejp)
-- [Angular Development &amp; AI](https://dev.to/sunny7899/angular-development-ai-4011)
-- [SaaS](https://dev.to/pravin_niceguy/saas-427j)
-- [The State Management Revolution: How Signals Transformed My E-commerce Cart Performance](https://dev.to/_783c87889170d6d699/the-state-management-revolution-how-signals-transformed-my-e-commerce-cart-performance-26e4)
+- [npm-ai-hooks: Inject LLM behavior into any TS function with one line](https://dev.to/ateebnoone/npm-ai-hooks-inject-llm-behavior-into-any-ts-function-with-one-line-4e2o)
+- [An Introduction to Commonly Used PL/SQL Data Types](https://dev.to/ayako_yk/an-introduction-to-commonly-used-plsql-data-types-598c)
+- [Check out the guide on - Why Learning Tableau Can Transform Your Career](https://dev.to/thedatageek/check-out-the-guide-on-why-learning-tableau-can-transform-your-career-ba)
+- [Outil de Cybersécurité du Jour - Oct 11, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-11-2025-8li)
 <!-- BLOG-POST-LIST:END -->
 
