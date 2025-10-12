@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python basics - Day 03](https://dev.to/ian_b838138a27a917398d181/python-basics-day-03-3j3o)
-- [Why Cogoma: Go Implementation of Codama IDL Ecosystem](https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j)
-- [Understanding React Hooks: Simplifying State and Logic &lpar;Without Losing Your Mind&rpar;](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20)
+- [🧩 Windows 11 in Law Firms Despite “Incompatible” Hardware](https://dev.to/thomasdelfing_de/windows-11-in-law-firms-despite-incompatible-hardware-8a3)
+- [&quot;Why Learn C&quot; Book Released](https://dev.to/pauljlucas/why-learn-c-book-released-41c1)
+- [Making JSON Compression Searchable — SEE &lpar;Schema-Aware Encoding&rpar;](https://dev.to/kodomonocch1/making-json-compression-searchable-see-schema-aware-encoding-4ojk)
+- [Why Wikipedia cannot claim the Earth is not flat](https://dev.to/technoblogger14o3/why-wikipedia-cannot-claim-the-earth-is-not-flat-27ij)
 <!-- BLOG-POST-LIST:END -->
 
