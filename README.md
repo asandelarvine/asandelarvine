@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4dg5)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-7lp)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-54il)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-323b)
+- [Optimizing C++ Fibonacci Performance, Fixing C++14 Bugs, and Singleton Design: 5 Hands-On Labs](https://dev.to/labex/optimizing-c-fibonacci-performance-fixing-c14-bugs-and-singleton-design-5-hands-on-labs-1f6e)
+- [Day 51 of My Data Analytics Journey !](https://dev.to/ramyacse/day-51-of-my-data-analytics-journey--2og3)
+- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
+- [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
 <!-- BLOG-POST-LIST:END -->
 
