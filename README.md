@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.14 Has Arrived: A Deep Dive into the New Features](https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn)
-- [Backwards Clock Fever Dream](https://dev.to/orvillechomer/backwards-clock-fever-dream-4g7m)
-- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://dev.to/technoblogger14o3/microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year-92l)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
+- [Mid-October 2025 Dumb Dev Roundup: Memes, Shitposts, and Dev Life Laughs](https://dev.to/om_shree_0709/mid-october-2025-dumb-dev-roundup-memes-shitposts-and-dev-life-laughs-4o7f)
+- [Lessons Learned from Building Product Dashboards That Drive Real Decisions](https://dev.to/yashraj_2001/lessons-learned-from-building-product-dashboards-that-drive-real-decisions-3a3l)
+- [Mid-October 2025 Forem Community Roundup: Discussions, Contributions, and What&#39;s Buzzing](https://dev.to/om_shree_0709/mid-october-2025-forem-community-roundup-discussions-contributions-and-whats-buzzing-a06)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
 <!-- BLOG-POST-LIST:END -->
 
