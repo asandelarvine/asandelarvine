@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mid-October 2025 Dumb Dev Roundup: Memes, Shitposts, and Dev Life Laughs](https://dev.to/om_shree_0709/mid-october-2025-dumb-dev-roundup-memes-shitposts-and-dev-life-laughs-4o7f)
-- [Lessons Learned from Building Product Dashboards That Drive Real Decisions](https://dev.to/yashraj_2001/lessons-learned-from-building-product-dashboards-that-drive-real-decisions-3a3l)
-- [Mid-October 2025 Forem Community Roundup: Discussions, Contributions, and What&#39;s Buzzing](https://dev.to/om_shree_0709/mid-october-2025-forem-community-roundup-discussions-contributions-and-whats-buzzing-a06)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-27p9)
+- [Range functions in Python](https://dev.to/hyperkai/range-functions-in-python-83f)
+- [From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming](https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg)
+- [range in Python &lpar;2&rpar;](https://dev.to/hyperkai/range-in-python-2-12g6)
+- [Fully-Typed HTTP Router for AWS Lambda with Middy and Zod](https://dev.to/silviuglv/fully-typed-http-router-for-aws-lambda-with-middy-and-zod-3ch6)
 <!-- BLOG-POST-LIST:END -->
 
