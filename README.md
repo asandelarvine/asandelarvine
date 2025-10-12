@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simply Order &lpar;Part 4&rpar; — Reliable Events with the Outbox Pattern &lpar;Concepts&rpar;](https://dev.to/hassan314159/simply-order-part-4-reliable-events-with-the-outbox-pattern-concepts-55ko)
-- [How AI Resume Builders Are Changing the Hiring Game in 2025](https://dev.to/aicvgenius/how-ai-resume-builders-are-changing-the-hiring-game-in-2025-8j2)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-45km)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-3gki)
+- [How End-to-End Encryption Really Works: Understanding the Diffie–Hellman Key Exchange](https://dev.to/arnavsharma2711/how-end-to-end-encryption-really-works-understanding-the-diffie-hellman-key-exchange-1b3f)
+- [Outil de Cybersécurité du Jour - Oct 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-oct-12-2025-5dpm)
+- [When rhythm builds reach faster than speed](https://dev.to/koni_jang/when-rhythm-builds-reach-faster-than-speed-1ph5)
+- [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
 <!-- BLOG-POST-LIST:END -->
 
