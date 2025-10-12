@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-21ep)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3ifk)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-25m7)
+- [Running the Cloud on Your Desktop with LocalStack](https://dev.to/codingcatdev/running-the-cloud-on-your-desktop-with-localstack-3f76)
+- [Why use LogLayer as the logger for your SDK](https://dev.to/theogravity/why-use-loglayer-as-the-logger-for-your-sdk-56mn)
+- [How to Set Up Reactotron to Debug AsyncStorage in React Native](https://dev.to/cathylai/how-to-set-up-reactotron-to-debug-asyncstorage-in-react-native-1idp)
+- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
 <!-- BLOG-POST-LIST:END -->
 
