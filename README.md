@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Bank: Labels In HTML](https://dev.to/pureooze/memory-bank-labels-in-html-4kbf)
-- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb)
-- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
-
-That’s the difference between regular ChatGPT users &amp; Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla)
-- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
+- [Python 3.14 Has Arrived: A Deep Dive into the New Features](https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn)
+- [Backwards Clock Fever Dream](https://dev.to/orvillechomer/backwards-clock-fever-dream-4g7m)
+- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://dev.to/technoblogger14o3/microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year-92l)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
 <!-- BLOG-POST-LIST:END -->
 
