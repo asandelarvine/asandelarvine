@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Windows 11 in Law Firms Despite “Incompatible” Hardware](https://dev.to/thomasdelfing_de/windows-11-in-law-firms-despite-incompatible-hardware-8a3)
-- [&quot;Why Learn C&quot; Book Released](https://dev.to/pauljlucas/why-learn-c-book-released-41c1)
-- [Making JSON Compression Searchable — SEE &lpar;Schema-Aware Encoding&rpar;](https://dev.to/kodomonocch1/making-json-compression-searchable-see-schema-aware-encoding-4ojk)
-- [Why Wikipedia cannot claim the Earth is not flat](https://dev.to/technoblogger14o3/why-wikipedia-cannot-claim-the-earth-is-not-flat-27ij)
+- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-13n8)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aak)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3m1h)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2ji8)
 <!-- BLOG-POST-LIST:END -->
 
