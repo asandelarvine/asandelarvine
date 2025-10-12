@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4ifh)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2en8)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
+- [Leitura de arquivos CSV com k6](https://dev.to/marlo2222/leitura-de-arquivos-csv-com-k6-36lo)
+- [Keep Your Server Clean Using Python’s Context Managers](https://dev.to/nafees_madni_7feef5b049ab/keep-your-server-clean-using-pythons-context-managers-np9)
+- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
+- [Understanding Garbage Collection in JavaScript](https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a)
 <!-- BLOG-POST-LIST:END -->
 
