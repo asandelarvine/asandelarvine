@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 4: 🧩 Principio de Sustitución de Liskov &lpar;LSP&rpar; en C#](https://dev.to/sadel_fortunato_00791b587/dia-4-principio-de-sustitucion-de-liskov-lsp-en-c-16n4)
-- [Golang For PHP Developer : Testing &amp; Deployment](https://dev.to/dosenngoding/golang-for-php-developer-testing-deployment-1f20)
-- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
-- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
+- [Memory Bank: Labels In HTML](https://dev.to/pureooze/memory-bank-labels-in-html-4kbf)
+- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb)
+- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
+
+That’s the difference between regular ChatGPT users &amp; Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla)
+- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f)
 <!-- BLOG-POST-LIST:END -->
 
