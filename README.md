@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-13n8)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-5aak)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3m1h)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2ji8)
+- [High-Performance Golang WebSocket Server: Complete Production-Ready Implementation Guide](https://dev.to/aaravjoshi/high-performance-golang-websocket-server-complete-production-ready-implementation-guide-14od)
+- [🚀Meet Dataverse DevTools MCP Server — Dataverse in Your Copilot 🧠⚡](https://dev.to/vignaesh_ram/meet-dataverse-devtools-mcp-server-dataverse-in-your-copilot-i58)
+- [Best VPNs for Turkey: Secure Access and Unblocking in 2025](https://dev.to/disiplin_forml_e60c4755/best-vpns-for-turkey-secure-access-and-unblocking-in-2025-3d5g)
+- [Integration: Vaadin OAuth2 Authentication with Keycloak](https://dev.to/aissam_assouik/integration-vaadin-oauth2-authentication-with-keycloak-194f)
 <!-- BLOG-POST-LIST:END -->
 
