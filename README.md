@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Era: From Artificial Intelligence to Cognitive Infrastructure](https://dev.to/pillin/the-agentic-era-from-artificial-intelligence-to-cognitive-infrastructure-3k7l)
-- [The Basics of Data Sockets on Local Machines and System Resource Management](https://dev.to/rijultp/the-basics-of-data-sockets-on-local-machines-and-system-resource-management-52ce)
-- [How AI Helped Me Find the Joy in Product Management Again](https://dev.to/bcornils/how-ai-helped-me-find-the-joy-in-product-management-again-20cj)
-- [Backend REST API Versioning: A Deep Dive Into Strategies, Nightmares, and Best Practices](https://dev.to/mrgio7/backend-rest-api-versioning-a-deep-dive-into-strategies-nightmares-and-best-practices-22f0)
+- [Security Roadmap: Building a Strategic Path to Cyber Resilience](https://dev.to/writegenic/security-roadmap-building-a-strategic-path-to-cyber-resilience-51ng)
+- [🪙 Day 12 of #30DaysOfSolidity — Build Your Own ERC-20 Token using Foundry](https://dev.to/sauravkumar8178/day-12-of-30daysofsolidity-build-your-own-erc-20-token-using-foundry-51l9)
+- [Mastering Go Project Structure: Build Scalable &amp; Maintainable Go Apps](https://dev.to/ctrix/mastering-go-project-structure-build-scalable-maintainable-go-apps-30i5)
+- [I Spent $127K on AWS Before Realizing We Could Run on $8/Month](https://dev.to/vision2030/i-spent-127k-on-aws-before-realizing-we-could-run-on-8month-1313)
 <!-- BLOG-POST-LIST:END -->
 
