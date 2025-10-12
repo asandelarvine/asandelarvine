@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leitura de arquivos CSV com k6](https://dev.to/marlo2222/leitura-de-arquivos-csv-com-k6-36lo)
-- [Keep Your Server Clean Using Python’s Context Managers](https://dev.to/nafees_madni_7feef5b049ab/keep-your-server-clean-using-pythons-context-managers-np9)
-- [🚦 What is Throttling in JavaScript?](https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e)
-- [Understanding Garbage Collection in JavaScript](https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-1cbi)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-21ep)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3ifk)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-25m7)
 <!-- BLOG-POST-LIST:END -->
 
