@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Floating-Point Failed Catastrophically](https://dev.to/cfir_aguston_f751a11907c2/when-floating-point-failed-catastrophically-pid)
-- [The Car That Would Not Stop](https://dev.to/cfir_aguston_f751a11907c2/the-car-that-would-not-stop-1hem)
-- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
-- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
+- [Python basics - Day 03](https://dev.to/ian_b838138a27a917398d181/python-basics-day-03-3j3o)
+- [Why Cogoma: Go Implementation of Codama IDL Ecosystem](https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j)
+- [Understanding React Hooks: Simplifying State and Logic &lpar;Without Losing Your Mind&rpar;](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20)
 <!-- BLOG-POST-LIST:END -->
 
