@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-47ff)
-- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-118a)
-- [Side project: T2Client – Trying to make MongoDB access easier, would love your thoughts](https://dev.to/tech2cool/side-project-t2client-trying-to-make-mongodb-access-easier-would-love-your-thoughts-358b)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4544)
+- [When Floating-Point Failed Catastrophically](https://dev.to/cfir_aguston_f751a11907c2/when-floating-point-failed-catastrophically-pid)
+- [The Car That Would Not Stop](https://dev.to/cfir_aguston_f751a11907c2/the-car-that-would-not-stop-1hem)
+- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
 <!-- BLOG-POST-LIST:END -->
 
