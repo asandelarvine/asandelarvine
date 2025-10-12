@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Roadmap: Building a Strategic Path to Cyber Resilience](https://dev.to/writegenic/security-roadmap-building-a-strategic-path-to-cyber-resilience-51ng)
-- [🪙 Day 12 of #30DaysOfSolidity — Build Your Own ERC-20 Token using Foundry](https://dev.to/sauravkumar8178/day-12-of-30daysofsolidity-build-your-own-erc-20-token-using-foundry-51l9)
-- [Mastering Go Project Structure: Build Scalable &amp; Maintainable Go Apps](https://dev.to/ctrix/mastering-go-project-structure-build-scalable-maintainable-go-apps-30i5)
-- [I Spent $127K on AWS Before Realizing We Could Run on $8/Month](https://dev.to/vision2030/i-spent-127k-on-aws-before-realizing-we-could-run-on-8month-1313)
+- [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4ifh)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2en8)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-pm9)
 <!-- BLOG-POST-LIST:END -->
 
