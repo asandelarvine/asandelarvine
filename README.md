@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing C++ Fibonacci Performance, Fixing C++14 Bugs, and Singleton Design: 5 Hands-On Labs](https://dev.to/labex/optimizing-c-fibonacci-performance-fixing-c14-bugs-and-singleton-design-5-hands-on-labs-1f6e)
-- [Day 51 of My Data Analytics Journey !](https://dev.to/ramyacse/day-51-of-my-data-analytics-journey--2og3)
-- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
-- [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
+- [The Agentic Era: From Artificial Intelligence to Cognitive Infrastructure](https://dev.to/pillin/the-agentic-era-from-artificial-intelligence-to-cognitive-infrastructure-3k7l)
+- [The Basics of Data Sockets on Local Machines and System Resource Management](https://dev.to/rijultp/the-basics-of-data-sockets-on-local-machines-and-system-resource-management-52ce)
+- [How AI Helped Me Find the Joy in Product Management Again](https://dev.to/bcornils/how-ai-helped-me-find-the-joy-in-product-management-again-20cj)
+- [Backend REST API Versioning: A Deep Dive Into Strategies, Nightmares, and Best Practices](https://dev.to/mrgio7/backend-rest-api-versioning-a-deep-dive-into-strategies-nightmares-and-best-practices-22f0)
 <!-- BLOG-POST-LIST:END -->
 
