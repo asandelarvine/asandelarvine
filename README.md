@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Market Stabilizes as Altcoins Lead the Rebound on October 13, 2025](https://dev.to/om_shree_0709/market-stabilizes-as-altcoins-lead-the-rebound-on-october-13-2025-2gje)
-- [Trying to understand Constructors in c++](https://dev.to/prasadg/trying-to-understand-constructors-in-c-188)
-- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
-- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
+- [From Simple to Complex: How ZWJs Build the Emojis We Use Every Day](https://dev.to/rijultp/from-simple-to-complex-how-zwjs-build-the-emojis-we-use-every-day-2eo6)
+- [Authentication &amp; Authorization in Backend Development](https://dev.to/riteshkokam/authentication-authorization-in-backend-development-4go)
+- [FFStudio - a node-based FFmpeg frontend](https://dev.to/azfino/ffstudio-a-node-based-ffmpeg-frontend-3899)
+- [Building a Smart Hardware Inventory System That Actually Works](https://dev.to/ravgeetdhillon/building-a-smart-hardware-inventory-system-that-actually-works-ngg)
 <!-- BLOG-POST-LIST:END -->
 
