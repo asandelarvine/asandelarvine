@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Next.js App Router Architecture: A Complete Playbook](https://dev.to/yukionishi1129/building-a-production-ready-nextjs-app-router-architecture-a-complete-playbook-3f3h)
-- [Clean Architecture in a Laravel project](https://dev.to/giacomomasseron/clean-architecture-in-a-laravel-project-3oh3)
-- [How Yii MVC Architecture Streamlines Web Application Development](https://dev.to/alberthiltonn/how-yii-mvc-architecture-streamlines-web-application-development-31pd)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-38fo)
+- [All Data and AI Weekly #211: 13 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-211-13-oct-2025-19g8)
+- [Understanding Subqueries in SQL and Building JSON Directly in PostgreSQL](https://dev.to/og_wunderkind/understanding-subqueries-in-sql-and-building-json-directly-in-postgresql-56d3)
+- [# Coginesux : Faire péter les neurones et les algorithmes 😎](https://dev.to/khadidja_bounadja_21df7d2/-coginesux-faire-peter-les-neurones-et-les-algorithmes-3dpj)
+- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
 <!-- BLOG-POST-LIST:END -->
 
