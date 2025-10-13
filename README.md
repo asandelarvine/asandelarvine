@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Analytics: Key Challenges, Use Cases &amp; How to Unlock Onchain Growth](https://dev.to/yos/web3-analytics-key-challenges-use-cases-how-to-unlock-onchain-growth-25hh)
-- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
-- [AI and the UK Workforce: Navigating the &quot;Job-pocalypse&quot; with Purpose](https://dev.to/sanjaynaker/ai-and-the-uk-workforce-navigating-the-job-pocalypse-with-purpose-5gka)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-3g3k)
+- [Modern Teaching, Kind Teachers, Happy Students](https://dev.to/ipssschool/modern-teaching-kind-teachers-happy-students-36i2)
+- [BRICS News Alert: XRP to Facilitate Oil Payments — A Shift from the Dollar](https://dev.to/safdar_meyka_012ecf3f1605/brics-news-alert-xrp-to-facilitate-oil-payments-a-shift-from-the-dollar-4fh6)
+- [Oracle Autonomous Database: Automatic Indexing and Data Safe Security](https://dev.to/derrickryangiggs/oracle-autonomous-database-automatic-indexing-and-data-safe-security-4npn)
+- [Building a Scalable Laravel Application with DDD and CQRS Architecture](https://dev.to/blamsa0mine/building-a-scalable-laravel-application-with-ddd-and-cqrs-architecture-28b1)
 <!-- BLOG-POST-LIST:END -->
 
