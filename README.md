@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #211: 13 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-211-13-oct-2025-19g8)
-- [Understanding Subqueries in SQL and Building JSON Directly in PostgreSQL](https://dev.to/og_wunderkind/understanding-subqueries-in-sql-and-building-json-directly-in-postgresql-56d3)
-- [# Coginesux : Faire péter les neurones et les algorithmes 😎](https://dev.to/khadidja_bounadja_21df7d2/-coginesux-faire-peter-les-neurones-et-les-algorithmes-3dpj)
-- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
+- [Will Developers Survive AI Takeover? Part 2: Don&#39;t Be Ashamed to Use AI, Even Iron Man Did](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-2-dont-be-ashamed-to-use-ai-even-iron-man-did-3l7a)
+- [[Boost]](https://dev.to/fmerian/-53fj)
+- [The JavaScript Runtime Showdown: Node.js vs Deno vs Bun](https://dev.to/iyadhgallah/the-javascript-runtime-showdown-nodejs-vs-deno-vs-bun-4mdj)
+- [The PHP Project That Inspired React](https://dev.to/mirnatul/the-php-project-that-inspired-react-5bb9)
 <!-- BLOG-POST-LIST:END -->
 
