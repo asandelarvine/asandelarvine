@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Simple to Complex: How ZWJs Build the Emojis We Use Every Day](https://dev.to/rijultp/from-simple-to-complex-how-zwjs-build-the-emojis-we-use-every-day-2eo6)
-- [Authentication &amp; Authorization in Backend Development](https://dev.to/riteshkokam/authentication-authorization-in-backend-development-4go)
-- [FFStudio - a node-based FFmpeg frontend](https://dev.to/azfino/ffstudio-a-node-based-ffmpeg-frontend-3899)
-- [Building a Smart Hardware Inventory System That Actually Works](https://dev.to/ravgeetdhillon/building-a-smart-hardware-inventory-system-that-actually-works-ngg)
+- [I Built a Free n8n Template Library with 2,641+ Automation Workflows 🚀](https://dev.to/allanninal/i-built-a-free-n8n-template-library-with-2641-automation-workflows-3a50)
+- [Cybersecurity Best Practices 2025: Essential Guide for Developers and Businesses](https://dev.to/codehustlet_tech/cybersecurity-best-practices-2025-essential-guide-for-developers-and-businesses-3ocl)
+- [From building a voice AI widget to mapping the entire Voice AI ecosystem &lpar;Introducing echostack&rpar;](https://dev.to/ayoolasolomon/from-building-a-voice-ai-widget-to-mapping-the-entire-voice-ai-ecosystem-introducing-echostack-ceo)
+- [Dark Mode Meets Light Mode—Live with Chroma Chameleon](https://dev.to/marcrossmann/dark-mode-meets-light-mode-live-with-chroma-chameleon-302p)
 <!-- BLOG-POST-LIST:END -->
 
