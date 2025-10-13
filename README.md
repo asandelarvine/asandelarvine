@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HACKTOBERFEST - A journey for Open-Source](https://dev.to/anshumanjadiya1102/hacktoberfest-a-journey-for-open-source-4p43)
-- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
-- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
+- [Building a Production-Ready Next.js App Router Architecture: A Complete Playbook](https://dev.to/yukionishi1129/building-a-production-ready-nextjs-app-router-architecture-a-complete-playbook-3f3h)
+- [Clean Architecture in a Laravel project](https://dev.to/giacomomasseron/clean-architecture-in-a-laravel-project-3oh3)
+- [How Yii MVC Architecture Streamlines Web Application Development](https://dev.to/alberthiltonn/how-yii-mvc-architecture-streamlines-web-application-development-31pd)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-38fo)
 <!-- BLOG-POST-LIST:END -->
 
