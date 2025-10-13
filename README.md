@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Midgen AI&#39;s &#39;Show, Don&#39;t Tell&#39; Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4)
-- [Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility](https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl)
+- [Web3 Analytics: Key Challenges, Use Cases &amp; How to Unlock Onchain Growth](https://dev.to/yos/web3-analytics-key-challenges-use-cases-how-to-unlock-onchain-growth-25hh)
+- [The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`](https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23)
+- [AI and the UK Workforce: Navigating the &quot;Job-pocalypse&quot; with Purpose](https://dev.to/sanjaynaker/ai-and-the-uk-workforce-navigating-the-job-pocalypse-with-purpose-5gka)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-3g3k)
 <!-- BLOG-POST-LIST:END -->
 
