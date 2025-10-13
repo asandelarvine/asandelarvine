@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Printers with CUPS Why It Matters](https://dev.to/sebos/securing-printers-with-cups-why-it-matters-1345)
-- [Week 1 — My First Contribution to Hacktoberfest 2025](https://dev.to/kkrishnan10/week-1-my-first-open-source-contribution-hacktoberfest-2025-28pk)
-- [Python basics - Day 05](https://dev.to/ian_b838138a27a917398d181/python-basics-day-05-37i7)
-- [The Anonymous Workers: Lambda Functions Explained](https://dev.to/aaron_rose_0787cc8b4775a0/the-anonymous-workers-lambda-functions-explained-3m9f)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-39d3)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2bak)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-e6b)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-cdl)
 <!-- BLOG-POST-LIST:END -->
 
