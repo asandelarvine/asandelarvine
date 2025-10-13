@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
-- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
-- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
-- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
+- [CISO 101: What the Terms Mean—and How to Use Them With the Business](https://dev.to/d3one/ciso-101-what-the-terms-mean-and-how-to-use-them-with-the-business-3ikn)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4lme)
+- [What’s the Difference Between NVLink and SLI in NVIDIA Multi-GPU Configurations?](https://dev.to/irender_gpu_cloud/whats-the-difference-between-nvlink-and-sli-in-nvidia-multi-gpu-configurations-3e6j)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-590b)
 <!-- BLOG-POST-LIST:END -->
 
