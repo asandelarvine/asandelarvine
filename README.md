@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Teaching, Kind Teachers, Happy Students](https://dev.to/ipssschool/modern-teaching-kind-teachers-happy-students-36i2)
-- [BRICS News Alert: XRP to Facilitate Oil Payments — A Shift from the Dollar](https://dev.to/safdar_meyka_012ecf3f1605/brics-news-alert-xrp-to-facilitate-oil-payments-a-shift-from-the-dollar-4fh6)
-- [Oracle Autonomous Database: Automatic Indexing and Data Safe Security](https://dev.to/derrickryangiggs/oracle-autonomous-database-automatic-indexing-and-data-safe-security-4npn)
-- [Building a Scalable Laravel Application with DDD and CQRS Architecture](https://dev.to/blamsa0mine/building-a-scalable-laravel-application-with-ddd-and-cqrs-architecture-28b1)
+- [Building Production-Grade Multi-Tier Web Infrastructure on AWS with CDK &amp; CLI Only](https://dev.to/asimmakes/building-production-grade-multi-tier-web-infrastructure-on-aws-with-cdk-cli-only-4ej8)
+- [What are Terraform Stacks? Setup &amp; Use Cases](https://dev.to/spacelift/what-are-terraform-stacks-setup-use-cases-232m)
+- [How small can an FPGA get?](https://dev.to/carolineee/how-small-can-an-fpga-get-2kpb)
+- [Cybersecurity: The Foundation of a Secure Digital Future in 2025](https://dev.to/bitetehcsol/cybersecurity-the-foundation-of-a-secure-digital-future-in-2025-31he)
 <!-- BLOG-POST-LIST:END -->
 
