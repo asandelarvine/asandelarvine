@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running the Cloud on Your Desktop with LocalStack](https://dev.to/codingcatdev/running-the-cloud-on-your-desktop-with-localstack-3f76)
-- [Why use LogLayer as the logger for your SDK](https://dev.to/theogravity/why-use-loglayer-as-the-logger-for-your-sdk-56mn)
-- [How to Set Up Reactotron to Debug AsyncStorage in React Native](https://dev.to/cathylai/how-to-set-up-reactotron-to-debug-asyncstorage-in-react-native-1idp)
-- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
+- [Looking a Coding Collaborator in North America](https://dev.to/paul_yeager_9fa8cb4c85112/looking-a-coding-collaborator-in-north-america-3l4)
+- [A beginner&#39;s guide to the Yolo11n model by Ultralytics on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-yolo11n-model-by-ultralytics-on-replicate-kee)
+- [Understanding Async/Await in JavaScript: A Complete Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-asyncawait-in-javascript-a-complete-guide-to-asynchronous-programming-44e9)
+- [Playing with htmlq](https://dev.to/krowemoh/playing-with-htmlq-3em4)
 <!-- BLOG-POST-LIST:END -->
 
