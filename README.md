@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-39d3)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2bak)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-e6b)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-cdl)
+- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
+- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
+- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
+- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
 <!-- BLOG-POST-LIST:END -->
 
