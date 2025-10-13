@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Grade Multi-Tier Web Infrastructure on AWS with CDK &amp; CLI Only](https://dev.to/asimmakes/building-production-grade-multi-tier-web-infrastructure-on-aws-with-cdk-cli-only-4ej8)
-- [What are Terraform Stacks? Setup &amp; Use Cases](https://dev.to/spacelift/what-are-terraform-stacks-setup-use-cases-232m)
-- [How small can an FPGA get?](https://dev.to/carolineee/how-small-can-an-fpga-get-2kpb)
-- [Cybersecurity: The Foundation of a Secure Digital Future in 2025](https://dev.to/bitetehcsol/cybersecurity-the-foundation-of-a-secure-digital-future-in-2025-31he)
+- [Java Records: A Modern Way to Write Immutable Data Classes](https://dev.to/munaf_badarpura_3811f0ab1/java-records-a-modern-way-to-write-immutable-data-classes-5bpb)
+- [Stop Using resize! You Might Be Missing Out on ResizeObserver](https://dev.to/jamie_wang_5a76e661ad80fa/stop-using-resize-you-might-be-missing-out-on-resizeobserver-4b0g)
+- [Mastering Optional in Java: Avoid NullPointerExceptions with Best Practices](https://dev.to/munaf_badarpura_3811f0ab1/mastering-optional-in-java-avoid-nullpointerexceptions-with-best-practices-3bnf)
+- [Why Engineers Try HTTP for Streaming — And Where It Breaks](https://dev.to/__354f265b41dafa0d901b/why-engineers-try-http-for-streaming-and-where-it-breaks-1blg)
 <!-- BLOG-POST-LIST:END -->
 
