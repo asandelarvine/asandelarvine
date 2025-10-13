@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Developers Survive AI Takeover? Part 2: Don&#39;t Be Ashamed to Use AI, Even Iron Man Did](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-2-dont-be-ashamed-to-use-ai-even-iron-man-did-3l7a)
-- [[Boost]](https://dev.to/fmerian/-53fj)
-- [The JavaScript Runtime Showdown: Node.js vs Deno vs Bun](https://dev.to/iyadhgallah/the-javascript-runtime-showdown-nodejs-vs-deno-vs-bun-4mdj)
-- [The PHP Project That Inspired React](https://dev.to/mirnatul/the-php-project-that-inspired-react-5bb9)
+- [Market Stabilizes as Altcoins Lead the Rebound on October 13, 2025](https://dev.to/om_shree_0709/market-stabilizes-as-altcoins-lead-the-rebound-on-october-13-2025-2gje)
+- [Trying to understand Constructors in c++](https://dev.to/prasadg/trying-to-understand-constructors-in-c-188)
+- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
+- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
 <!-- BLOG-POST-LIST:END -->
 
