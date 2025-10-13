@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 The Super Contributor Ascent: Code, Commitment, and the Chronicle of 13 Days](https://dev.to/ngtduc693/the-super-contributor-ascent-code-commitment-and-the-chronicle-of-13-days-8gn)
-- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
-- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
-- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
+- [Meme Monday](https://dev.to/ben/meme-monday-3n52)
+- [What is Agile?](https://dev.to/burakboduroglu/what-is-agile-2b2k)
+- [Why Learning Artificial Intelligence is the Smartest Career Move Today](https://dev.to/cs_vishnukumar_c7ab67ff18/why-learning-artificial-intelligence-is-the-smartest-career-move-today-1gkb)
+- [🚫Never Use finalize&lpar;&rpar; in Java](https://dev.to/mohamad_mhana/never-use-finalize-in-java-3hpo)
 <!-- BLOG-POST-LIST:END -->
 
