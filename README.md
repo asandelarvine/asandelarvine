@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking a Coding Collaborator in North America](https://dev.to/paul_yeager_9fa8cb4c85112/looking-a-coding-collaborator-in-north-america-3l4)
-- [A beginner&#39;s guide to the Yolo11n model by Ultralytics on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-yolo11n-model-by-ultralytics-on-replicate-kee)
-- [Understanding Async/Await in JavaScript: A Complete Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-asyncawait-in-javascript-a-complete-guide-to-asynchronous-programming-44e9)
-- [Playing with htmlq](https://dev.to/krowemoh/playing-with-htmlq-3em4)
+- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
+- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
+- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
+- [TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh)
 <!-- BLOG-POST-LIST:END -->
 
