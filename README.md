@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free n8n Template Library with 2,641+ Automation Workflows 🚀](https://dev.to/allanninal/i-built-a-free-n8n-template-library-with-2641-automation-workflows-3a50)
-- [Cybersecurity Best Practices 2025: Essential Guide for Developers and Businesses](https://dev.to/codehustlet_tech/cybersecurity-best-practices-2025-essential-guide-for-developers-and-businesses-3ocl)
-- [From building a voice AI widget to mapping the entire Voice AI ecosystem &lpar;Introducing echostack&rpar;](https://dev.to/ayoolasolomon/from-building-a-voice-ai-widget-to-mapping-the-entire-voice-ai-ecosystem-introducing-echostack-ceo)
-- [Dark Mode Meets Light Mode—Live with Chroma Chameleon](https://dev.to/marcrossmann/dark-mode-meets-light-mode-live-with-chroma-chameleon-302p)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3h0b)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-42bb)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-2i46)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-2f1d)
 <!-- BLOG-POST-LIST:END -->
 
