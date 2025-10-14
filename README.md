@@ -79,9 +79,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
-- [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
-- [International Travel with Toddlers: Car Seat &lpar;or vest!&rpar; Considerations](https://dev.to/jess/international-travel-with-toddlers-car-seat-or-vest-considerations-p51)
-- [I built a React admin template in the age of AI slop!](https://dev.to/ariflogs/i-built-a-react-admin-template-in-the-age-of-ai-slop-2bp4)
+- [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
+- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-1i2)
+- [I built this to simplify date range selection in Angular 17+.
+If you’re an Angular dev, try it out and let me know what features you’d love next!
+Star it on GitHub if you’d like to support the project ❤️
+🔗 https://github.com/toozuuu/ngxsmk-datepicker](https://dev.to/toozuuu/i-built-this-to-simplify-date-range-selection-in-angular-17-if-youre-an-angular-dev-try-it-out-4c26)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3470)
 <!-- BLOG-POST-LIST:END -->
 
