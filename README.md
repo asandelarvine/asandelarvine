@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok Data Engineer Full 3-Round Interview](https://dev.to/net_programhelp_e160eef28/tiktok-data-engineer-full-3-round-interview-breakdown-real-questions-explained-47hm)
-- [Project Online Is Retiring: What Developers and IT Teams Should Know Before 2026](https://dev.to/alexrodovit/project-online-is-retiring-what-developers-and-it-teams-should-know-before-2026-4eb7)
-- [Implementing Secure Shopify Webhooks with HMAC Verification and Queue Processing &lpar;Node.js &amp; Python Guide&rpar;](https://dev.to/lucy1/implementing-secure-shopify-webhooks-with-hmac-verification-and-queue-processing-nodejs-python-59p1)
-- [Supercharge Your Java Projects: Display HTML as PDF Easily](https://dev.to/shahzad_ashraf_5ea18e2b2d/supercharge-your-java-projects-display-html-as-pdf-easily-4h9o)
+- [Deploying a Flask Email API on Render](https://dev.to/joshuakaranja/deploying-a-flask-email-api-on-render-1olj)
+- [Improving your coding workflow with Claude Code Plugins](https://dev.to/composiodev/improving-your-coding-workflow-with-claude-code-plugins-7i8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-787)
 <!-- BLOG-POST-LIST:END -->
 
