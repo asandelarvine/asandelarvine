@@ -79,12 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-1i2)
-- [I built this to simplify date range selection in Angular 17+.
-If you’re an Angular dev, try it out and let me know what features you’d love next!
-Star it on GitHub if you’d like to support the project ❤️
-🔗 https://github.com/toozuuu/ngxsmk-datepicker](https://dev.to/toozuuu/i-built-this-to-simplify-date-range-selection-in-angular-17-if-youre-an-angular-dev-try-it-out-4c26)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3470)
+- [Game Engine 3 — A Shell for Visual Game Programming in Python](https://dev.to/artyom7777/game-engine-3-a-shell-for-visual-game-programming-in-python-3497)
+- [Understanding APIs: A Beginner&#39;s Guide to Making Your First API Call](https://dev.to/bellagirlmaker/understanding-apis-a-beginners-guide-to-making-your-first-api-call-4ab5)
+- [💥 Polars vs. Pandas: Why Your Next ETL Pipeline Should Run on Rust &lpar;Part 1/5&rpar;](https://dev.to/narayan_f8f2c91c99dfd33e6/polars-vs-pandas-why-your-next-etl-pipeline-should-run-on-rust-part-15-536o)
+- [How YouTube Tracks Your Location Even with GPS and History Turned Off](https://dev.to/aman_kumar_bdd40f1b711c15/how-youtube-tracks-your-location-even-with-gps-and-history-turned-off-1gk)
 <!-- BLOG-POST-LIST:END -->
 
