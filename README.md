@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Flask Email API on Render](https://dev.to/joshuakaranja/deploying-a-flask-email-api-on-render-1olj)
-- [Improving your coding workflow with Claude Code Plugins](https://dev.to/composiodev/improving-your-coding-workflow-with-claude-code-plugins-7i8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-787)
+- [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
+- [Selecting the appropriate Docker base image](https://dev.to/u11d/selecting-the-appropriate-docker-base-image-2126)
+- [Recuperando dados no Oracle com FlashBack Query](https://dev.to/valter_filho_24448308265f/recuperando-dados-no-oracle-com-flashback-query-o44)
+- [From 1.57GB to 189MB: How I Slashed My Docker Image Size by 88%](https://dev.to/saheed_ea3f3e90be19db2eac/from-157gb-to-189mb-how-i-slashed-my-docker-image-size-by-88-2b5l)
 <!-- BLOG-POST-LIST:END -->
 
