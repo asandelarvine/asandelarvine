@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
-- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
+- [A Programmer&#39;s Guide to Logging Best Practices](https://dev.to/dash0/a-programmers-guide-to-logging-best-practices-25m8)
+- [10 Fixes to Boost Your Ranking &amp; Performance of Static Site 🚀](https://dev.to/lovestaco/10-fixes-to-boost-your-ranking-performance-of-static-site-216g)
+- [Building and Using Crypto Portfolio Tracking Apps: A Developer’s Perspective](https://dev.to/tradelinkpro/building-and-using-crypto-portfolio-tracking-apps-a-developers-perspective-16k3)
+- [Google Cloud Platform &lpar;GCP&rpar; quick Introduction to unlock the cloud](https://dev.to/teleglobalintermational/google-cloud-platform-gcp-quick-introduction-to-unlock-the-cloud-20d1)
 <!-- BLOG-POST-LIST:END -->
 
