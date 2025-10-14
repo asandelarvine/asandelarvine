@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️LangChain vs. LangGraph: A Comparative Analysis](https://dev.to/utopiality/langchain-vs-langgraph-a-comparative-analysis-49ab)
-- [Day 9 of My 100 Days of Web Dev — CSS Gradients, Backgrounds &amp; Parent-Child Magic!](https://dev.to/bblackwind/day-9-of-my-100-days-of-web-dev-css-gradients-backgrounds-parent-child-magic-4a48)
-- [FlashFuzz ⚡Quick URL Fuzzing &amp; Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2fn)
+- [Practical Bitwise Operations and Bitmasks in Unity](https://dev.to/sky_noc__16618949385255bd/practical-bitwise-operations-and-bitmasks-in-unity-5h6d)
+- [Modals and accessibility](https://dev.to/miasalazar/modals-and-accessibility-111e)
+- [How to write Arduino Uno code with Python?](https://dev.to/pikotutorial/how-to-write-arduino-code-with-python-540c)
 <!-- BLOG-POST-LIST:END -->
 
