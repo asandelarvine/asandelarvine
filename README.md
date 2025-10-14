@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s early days for Agents](https://dev.to/jldec/its-early-days-for-agents-3bl2)
-- [Why is Finding Bottleneck Important?](https://dev.to/tool_works_d3c5d34009b4b6/why-is-finding-bottleneck-important-4mhg)
-- [The Functional Toolkit: Map, Filter, and Reduce](https://dev.to/aaron_rose_0787cc8b4775a0/the-functional-toolkit-map-filter-and-reduce-2c4f)
-- [10 Essential JavaScript Performance Optimization Techniques That Every Developer Should Know](https://dev.to/boris_churzin_8418a23918c/10-essential-javascript-performance-optimization-techniques-that-every-developer-should-know-53ak)
+- [Mock REST APIs in 2 minutes](https://dev.to/mockapihub/mock-rest-apis-in-2-minutes-ep9)
+- [12 Free Developer Tools I Built For Developers &lpar;No Sign-Up Required&rpar;](https://dev.to/glockx/12-free-developer-tools-i-built-for-developers-no-sign-up-required-1hjc)
+- [The frequency of feeling — why sound hits deeper than words?](https://dev.to/gift_song_9c89f7551b1c29f/the-frequency-of-feeling-why-sound-hits-deeper-than-words-2j9f)
+- [Auto-Blog: AI Blog Generator with Next.js and Local AI](https://dev.to/jqueryscript/auto-blog-ai-blog-generator-with-nextjs-and-local-ai-5d3a)
 <!-- BLOG-POST-LIST:END -->
 
