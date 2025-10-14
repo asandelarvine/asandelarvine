@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Introducing OrKa Cloud API](https://dev.to/marcosomma/introducing-orka-cloud-api-5pl)
-- [Making AWS Event-bridge Cron Expressions Configurable with Azure DevOps and CDKTF](https://dev.to/lokesh_vangari_a671430724/making-aws-event-bridge-cron-expressions-configurable-with-azure-devops-and-cdktf-3hh4)
-- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
-- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
+- [⚙️LangChain vs. LangGraph: A Comparative Analysis](https://dev.to/utopiality/langchain-vs-langgraph-a-comparative-analysis-49ab)
+- [Day 9 of My 100 Days of Web Dev — CSS Gradients, Backgrounds &amp; Parent-Child Magic!](https://dev.to/bblackwind/day-9-of-my-100-days-of-web-dev-css-gradients-backgrounds-parent-child-magic-4a48)
+- [FlashFuzz ⚡Quick URL Fuzzing &amp; Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld)
 <!-- BLOG-POST-LIST:END -->
 
