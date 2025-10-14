@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Translation Industry Trends](https://dev.to/qa_expert/top-10-translation-industry-trends-286g)
-- [One Platform. Total Context. The Secret Behind Clariti’s Seamless Team Collaboration](https://dev.to/clariti_22_6e89b280ccd102/one-platform-total-context-the-secret-behind-claritis-seamless-team-collaboration-43mp)
-- [ShockWave Therapy — full guide to the technology, how it works, uses, risks and practical details](https://dev.to/dot_clinics/shockwave-therapy-full-guide-to-the-technology-how-it-works-uses-risks-and-practical-details-53nh)
-- [How Oracle SQL and PL/SQL Power Real-World Enterprise Solutions](https://dev.to/vishal_more_02990955c9358/how-oracle-sql-and-plsql-power-real-world-enterprise-solutions-3ife)
+- [OpenAI Agent Builder: The No-Code Way to Put AI on Your Website](https://dev.to/fourixai/openai-agent-builder-the-no-code-way-to-put-ai-on-your-website-4ack)
+- [Figma vs Adobe XD: Which One Should You Learn in 2025?](https://dev.to/pixel_mosaic/figma-vs-adobe-xd-which-one-should-you-learn-in-2025-13i)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_7be3cb2a/you-might-not-need-websockets-the-simple-power-of-server-sent-events-2gcb)
+- [The Invention and Evolution of Money.](https://dev.to/karan51ngh/the-invention-and-evolution-of-money-3md1)
 <!-- BLOG-POST-LIST:END -->
 
