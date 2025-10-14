@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of IoT Monitoring: Key Features Every Dashboard Should Have](https://dev.to/william_smith/the-future-of-iot-monitoring-key-features-every-dashboard-should-have-49dh)
-- [🚀How I released my App for Free &lpar;💪🧠Muscle Brain&rpar;](https://dev.to/webdeveloperhyper/how-i-released-my-app-for-free-muscle-brain-44p8)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2p40)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-m2k)
+- [🧠Introducing OrKa Cloud API](https://dev.to/marcosomma/introducing-orka-cloud-api-5pl)
+- [Making AWS Event-bridge Cron Expressions Configurable with Azure DevOps and CDKTF](https://dev.to/lokesh_vangari_a671430724/making-aws-event-bridge-cron-expressions-configurable-with-azure-devops-and-cdktf-3hh4)
+- [Understanding ORDS Pre-Hook Functions](https://dev.to/rajesh_vohra_e75f579b7888/understanding-ords-pre-hook-functions-1oof)
+- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
 <!-- BLOG-POST-LIST:END -->
 
