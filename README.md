@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Systems That Survive: Four Years of War and the Math of Crisis Leadership](https://dev.to/razoorka/the-systems-that-survive-four-years-of-war-and-the-math-of-crisis-leadership-469l)
-- [Selecting the appropriate Docker base image](https://dev.to/u11d/selecting-the-appropriate-docker-base-image-2126)
-- [Recuperando dados no Oracle com FlashBack Query](https://dev.to/valter_filho_24448308265f/recuperando-dados-no-oracle-com-flashback-query-o44)
-- [From 1.57GB to 189MB: How I Slashed My Docker Image Size by 88%](https://dev.to/saheed_ea3f3e90be19db2eac/from-157gb-to-189mb-how-i-slashed-my-docker-image-size-by-88-2b5l)
+- [Hidden Gems in Azure SQL: Useful Commands, Functions &amp; Keywords You Should Know](https://dev.to/sanjay_bhujbal_533cfed9b6/hidden-gems-in-azure-sql-useful-commands-functions-keywords-you-should-know-33fo)
+- [Bug fixes for neural web](https://dev.to/okerew/bug-fixes-for-neural-web-1inm)
+- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
+- [3 Pitfalls Most Developers Fall Into When Using AI for Code, and How I Fix Them with Crevo](https://dev.to/crevo_team/3-pitfalls-most-developers-fall-into-when-using-ai-for-code-and-how-i-fix-them-with-crevo-4e6c)
 <!-- BLOG-POST-LIST:END -->
 
