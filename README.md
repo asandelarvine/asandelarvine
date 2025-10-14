@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Agent Builder: The No-Code Way to Put AI on Your Website](https://dev.to/fourixai/openai-agent-builder-the-no-code-way-to-put-ai-on-your-website-4ack)
-- [Figma vs Adobe XD: Which One Should You Learn in 2025?](https://dev.to/pixel_mosaic/figma-vs-adobe-xd-which-one-should-you-learn-in-2025-13i)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_7be3cb2a/you-might-not-need-websockets-the-simple-power-of-server-sent-events-2gcb)
-- [The Invention and Evolution of Money.](https://dev.to/karan51ngh/the-invention-and-evolution-of-money-3md1)
+- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 2: Troubleshooting Real-World Issues](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-2-troubleshooting-real-world-429d)
+- [Building Secure Jenkins-Slack Integration with AWS Lambda - Part 1: Complete Setup Guide](https://dev.to/aws-builders/building-secure-jenkins-slack-integration-with-aws-lambda-part-1-complete-setup-guide-lgd)
+- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
+- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
 <!-- BLOG-POST-LIST:END -->
 
