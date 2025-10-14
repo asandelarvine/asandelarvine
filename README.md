@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Gems in Azure SQL: Useful Commands, Functions &amp; Keywords You Should Know](https://dev.to/sanjay_bhujbal_533cfed9b6/hidden-gems-in-azure-sql-useful-commands-functions-keywords-you-should-know-33fo)
-- [Bug fixes for neural web](https://dev.to/okerew/bug-fixes-for-neural-web-1inm)
-- [TinyGo Magic: Build Lightning-Fast IoT Apps with Only 512KB RAM!](https://dev.to/ekwoster/tinygo-magic-build-lightning-fast-iot-apps-with-only-512kb-ram-29im)
-- [3 Pitfalls Most Developers Fall Into When Using AI for Code, and How I Fix Them with Crevo](https://dev.to/crevo_team/3-pitfalls-most-developers-fall-into-when-using-ai-for-code-and-how-i-fix-them-with-crevo-4e6c)
+- [Using Cilium to reduce cross-AZ costs on AWS](https://dev.to/hstiwana/using-cilium-to-reduce-cross-az-costs-on-aws-5138)
+- [Building an API Layer That Works for You - More Axios vs Fetch](https://dev.to/limacodes/beyond-fetch-vs-axios-building-an-api-layer-that-works-for-you-pce)
+- [Installing Oracle AI Database 26ai Free on Oracle Linux 9](https://dev.to/vahidusefzadeh/installing-oracle-ai-database-26ai-free-on-oracle-linux-9-33dk)
+- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
 <!-- BLOG-POST-LIST:END -->
 
