@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you think about screen time and technology?](https://dev.to/jess/how-do-you-think-about-screen-time-and-technology-595p)
-- [From Hash Functions to Vector Databases: The Data Structures Powering AI](https://dev.to/ocansey11/from-hash-functions-to-vector-databases-the-data-structures-powering-ai-551o)
-- [Building Arenadata’s Engineering Team: Growth Story from the Inside](https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia)
-- [AutoAgents – a Rust-Based Multi-Agent Framework for LLM-Powered Intelligence](https://dev.to/saivishwak/autoagents-a-rust-based-multi-agent-framework-for-llm-powered-intelligence-27h2)
+- [Synthetic Data for RAG: Safe Generation, Deduplication, and Drift-Aware Curation in 2025](https://dev.to/kuldeep_paul/synthetic-data-for-rag-safe-generation-deduplication-and-drift-aware-curation-in-2025-3298)
+- [💡Idea: Using VPN-Type Virtual Links for Secure IoT Data Flow](https://dev.to/hassamdev/idea-using-vpn-type-virtual-links-for-secure-iot-data-flow-4f29)
+- [International Travel with Toddlers: Car Seat &lpar;or vest!&rpar; Considerations](https://dev.to/jess/international-travel-with-toddlers-car-seat-or-vest-considerations-p51)
+- [I built a React admin template in the age of AI slop!](https://dev.to/ariflogs/i-built-a-react-admin-template-in-the-age-of-ai-slop-2bp4)
 <!-- BLOG-POST-LIST:END -->
 
