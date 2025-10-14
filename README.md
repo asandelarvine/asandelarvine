@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Cilium to reduce cross-AZ costs on AWS](https://dev.to/hstiwana/using-cilium-to-reduce-cross-az-costs-on-aws-5138)
-- [Building an API Layer That Works for You - More Axios vs Fetch](https://dev.to/limacodes/beyond-fetch-vs-axios-building-an-api-layer-that-works-for-you-pce)
-- [Installing Oracle AI Database 26ai Free on Oracle Linux 9](https://dev.to/vahidusefzadeh/installing-oracle-ai-database-26ai-free-on-oracle-linux-9-33dk)
-- [Pawn Appétit: Professional Chess Analysis, Zero Cost](https://dev.to/gaspar_limarc_f1e8bca9ee/pawn-appetit-professional-chess-analysis-zero-cost-1c6d)
+- [How do you think about screen time and technology?](https://dev.to/jess/how-do-you-think-about-screen-time-and-technology-595p)
+- [From Hash Functions to Vector Databases: The Data Structures Powering AI](https://dev.to/ocansey11/from-hash-functions-to-vector-databases-the-data-structures-powering-ai-551o)
+- [Building Arenadata’s Engineering Team: Growth Story from the Inside](https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia)
+- [AutoAgents – a Rust-Based Multi-Agent Framework for LLM-Powered Intelligence](https://dev.to/saivishwak/autoagents-a-rust-based-multi-agent-framework-for-llm-powered-intelligence-27h2)
 <!-- BLOG-POST-LIST:END -->
 
