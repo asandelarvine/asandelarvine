@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2fn)
-- [Practical Bitwise Operations and Bitmasks in Unity](https://dev.to/sky_noc__16618949385255bd/practical-bitwise-operations-and-bitmasks-in-unity-5h6d)
-- [Modals and accessibility](https://dev.to/miasalazar/modals-and-accessibility-111e)
-- [How to write Arduino Uno code with Python?](https://dev.to/pikotutorial/how-to-write-arduino-code-with-python-540c)
+- [⚡️ Surviving Azure’s Cloud Maze: DevOps Disaster Recovery, Network Wizardry &amp; Bare-Metal Deployments [Week-6] 🌩️](https://dev.to/suvrajeet/surviving-azures-cloud-maze-devops-disaster-recovery-network-wizardry-bare-metal-41d5)
+- [Happy to share in the current era of AI and Zero Carbonization](https://dev.to/jottyjohn/happy-to-share-in-the-current-era-of-ai-and-zero-carbonization-218c)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-hdl)
+- [The Complete Guide to React.js Internal Workings: From Code to Browser](https://dev.to/rohith_nag/the-complete-guide-to-reactjs-internal-workings-from-code-to-browser-3o1b)
 <!-- BLOG-POST-LIST:END -->
 
