@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mock REST APIs in 2 minutes](https://dev.to/mockapihub/mock-rest-apis-in-2-minutes-ep9)
-- [12 Free Developer Tools I Built For Developers &lpar;No Sign-Up Required&rpar;](https://dev.to/glockx/12-free-developer-tools-i-built-for-developers-no-sign-up-required-1hjc)
-- [The frequency of feeling — why sound hits deeper than words?](https://dev.to/gift_song_9c89f7551b1c29f/the-frequency-of-feeling-why-sound-hits-deeper-than-words-2j9f)
-- [Auto-Blog: AI Blog Generator with Next.js and Local AI](https://dev.to/jqueryscript/auto-blog-ai-blog-generator-with-nextjs-and-local-ai-5d3a)
+- [How Nalem Study Circle is Transforming Learning for Students Worldwide](https://dev.to/rishi_nalem/how-nalem-study-circle-is-transforming-learning-for-students-worldwide-55f1)
+- [Making Sense of Azure API Center: Discoverability with Guardrails](https://dev.to/adaptivanz/making-sense-of-azure-api-center-discoverability-with-guardrails-4o7)
+- [How I Escaped the 8-Hour Editing Grind and Found My Creative Joy Again](https://dev.to/15minutes/how-i-escaped-the-8-hour-editing-grind-and-found-my-creative-joy-again-674)
+- [The Agent Mesh &amp; the Integration Renaissance](https://dev.to/webmethodman/the-agent-mesh-the-integration-renaissance-593p)
 <!-- BLOG-POST-LIST:END -->
 
