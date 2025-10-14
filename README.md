@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Programmer&#39;s Guide to Logging Best Practices](https://dev.to/dash0/a-programmers-guide-to-logging-best-practices-25m8)
-- [10 Fixes to Boost Your Ranking &amp; Performance of Static Site 🚀](https://dev.to/lovestaco/10-fixes-to-boost-your-ranking-performance-of-static-site-216g)
-- [Building and Using Crypto Portfolio Tracking Apps: A Developer’s Perspective](https://dev.to/tradelinkpro/building-and-using-crypto-portfolio-tracking-apps-a-developers-perspective-16k3)
-- [Google Cloud Platform &lpar;GCP&rpar; quick Introduction to unlock the cloud](https://dev.to/teleglobalintermational/google-cloud-platform-gcp-quick-introduction-to-unlock-the-cloud-20d1)
+- [TikTok Data Engineer Full 3-Round Interview](https://dev.to/net_programhelp_e160eef28/tiktok-data-engineer-full-3-round-interview-breakdown-real-questions-explained-47hm)
+- [Project Online Is Retiring: What Developers and IT Teams Should Know Before 2026](https://dev.to/alexrodovit/project-online-is-retiring-what-developers-and-it-teams-should-know-before-2026-4eb7)
+- [Implementing Secure Shopify Webhooks with HMAC Verification and Queue Processing &lpar;Node.js &amp; Python Guide&rpar;](https://dev.to/lucy1/implementing-secure-shopify-webhooks-with-hmac-verification-and-queue-processing-nodejs-python-59p1)
+- [Supercharge Your Java Projects: Display HTML as PDF Easily](https://dev.to/shahzad_ashraf_5ea18e2b2d/supercharge-your-java-projects-display-html-as-pdf-easily-4h9o)
 <!-- BLOG-POST-LIST:END -->
 
