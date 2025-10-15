@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Echo: Designing for Digital Resilience Across Decades](https://dev.to/queelius/long-echo-designing-for-digital-resilience-across-decades-5hbe)
-- [Cleaning up large frontend codebase](https://dev.to/saleor/cleaning-up-large-frontend-codebase-1ani)
-- [How to Use Computer Lifecycle Management to Predict IT Refresh Needs](https://dev.to/jennifer_devsamurai/how-to-use-computer-lifecycle-management-to-predict-it-refresh-needs-1kpm)
-- [Intoduction-My First Post on Dev.to ✨](https://dev.to/vishaka_nr_0716c189b9946c/intoduction-my-first-post-on-devto-3lpc)
+- [Software Becomes Disposable?How AI Is Changing the Way We Architect Code](https://dev.to/weimeilin/software-becomes-disposablehow-ai-is-changing-the-way-we-architect-code-4870)
+- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
+- [No More Clock-Turning – Why Europe Still Clings to Daylight Saving Time While Others Move On](https://dev.to/thomasdelfing_de/no-more-clock-turning-why-europe-still-clings-to-daylight-saving-time-while-others-move-on-4dlb)
+- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
 <!-- BLOG-POST-LIST:END -->
 
