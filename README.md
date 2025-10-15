@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
-- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
-- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
-- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [Pacote de dados](https://dev.to/doccaio/pacote-de-dados-52de)
+- [Ai Divergence quiz](https://dev.to/rodger_cuddington_4047f7c/ai-divergence-quiz-3d63)
+- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
+- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
 <!-- BLOG-POST-LIST:END -->
 
