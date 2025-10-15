@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of the Chisel: Crafting Pluggable Business Rules with the Strategy Pattern](https://dev.to/alex_aslam/the-art-of-the-chisel-crafting-pluggable-business-rules-with-the-strategy-pattern-22k6)
-- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
-- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
-- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
+- [Encrypting my HTTP server with OpenSSL in C 🔒](https://dev.to/ethan_ac5ca38abc559d950c9/encrypting-my-http-server-with-openssl-in-c-34bj)
+- [Diving Down the Developer Rabbit Hole 🐇💻](https://dev.to/crypticcube/diving-down-the-developer-rabbit-hole-3hik)
+- [Der nächste große Schritt in Krypto wird nicht vom Preis abhängen — sondern von der Nutzererfahrung &lpar;UX&rpar;](https://dev.to/piwa_lin_8b3155c3dd85f0f9/cryptos-next-leap-wont-be-about-price-itll-be-about-ux-2kk7)
+- [I Scanned 50 Web Agency Websites &amp; Most Failed Basic Security](https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb)
 <!-- BLOG-POST-LIST:END -->
 
