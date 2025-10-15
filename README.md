@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Secure FinTech App Using React Native](https://dev.to/aartijangid23/how-to-build-a-secure-fintech-app-using-react-native-30n4)
-- [🧠 The Hidden Layer: How Databases Power the Backend World](https://dev.to/sandeep_03j/the-hidden-layer-how-databases-power-the-backend-world-1fjn)
-- [🐶Spring Boot, but Every Exception Is a Dog Breed](https://dev.to/madhukashyap/spring-boot-but-every-exception-is-a-dog-breed-4lja)
-- [Buying apps and installing them: The fast track and risk zone for mobile marketing on Google Play and Apple Store](https://dev.to/youou/buying-apps-and-installing-them-the-fast-track-and-risk-zone-for-mobile-marketing-on-google-play-4e8n)
+- [Playwright Agents: Or Once Again About AI Taking Away Our Job](https://dev.to/iryna_k_d5aabe217736fefe7/playwright-agents-or-once-again-about-ai-taking-away-our-job-ch6)
+- [7 Productivity Hacks That Changed My Life &lpar;And Will Change Yours Too&rpar;](https://dev.to/adhikareeprayush/7-productivity-hacks-that-changed-my-life-and-will-change-yours-too-19ne)
+- [I’m still shocked after reading how the entire workforce of Topdevs &lpar;a thriving tech company&rpar; was transferred into Talentcrowd overnight. This is organized corporate theft disguised as a merger.](https://dev.to/techtalk/im-still-shocked-after-reading-how-the-entire-workforce-of-topdevs-a-thriving-tech-company-was-4n40)
+- [Understanding Authentication: Methods and Best Practices](https://dev.to/ciberconscientes/understanding-authentication-methods-and-best-practices-ncj)
 <!-- BLOG-POST-LIST:END -->
 
