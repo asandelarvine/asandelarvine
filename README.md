@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Agents: Or Once Again About AI Taking Away Our Job](https://dev.to/iryna_k_d5aabe217736fefe7/playwright-agents-or-once-again-about-ai-taking-away-our-job-ch6)
-- [7 Productivity Hacks That Changed My Life &lpar;And Will Change Yours Too&rpar;](https://dev.to/adhikareeprayush/7-productivity-hacks-that-changed-my-life-and-will-change-yours-too-19ne)
-- [I’m still shocked after reading how the entire workforce of Topdevs &lpar;a thriving tech company&rpar; was transferred into Talentcrowd overnight. This is organized corporate theft disguised as a merger.](https://dev.to/techtalk/im-still-shocked-after-reading-how-the-entire-workforce-of-topdevs-a-thriving-tech-company-was-4n40)
-- [Understanding Authentication: Methods and Best Practices](https://dev.to/ciberconscientes/understanding-authentication-methods-and-best-practices-ncj)
+- [Cara Debouncing di React untuk Pemula](https://dev.to/dhena_azara_746f46d52a511/cara-debouncing-di-react-untuk-pemula-fd8)
+- [Magento 2.4.8: Features and Enhancements of the Latest Magento Update](https://dev.to/ziffity_solutionsllc_353/magento-248-features-and-enhancements-of-the-latest-magento-update-5ej3)
+- [How to control DC motor with Arduino?](https://dev.to/carolineee/how-to-control-dc-motor-with-arduino-pki)
+- [Ship Without Drama: The Minimum Reliable Product for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/ship-without-drama-the-minimum-reliable-product-for-small-teams-52e8)
 <!-- BLOG-POST-LIST:END -->
 
