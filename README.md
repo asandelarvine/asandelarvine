@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pacote de dados](https://dev.to/doccaio/pacote-de-dados-52de)
-- [Ai Divergence quiz](https://dev.to/rodger_cuddington_4047f7c/ai-divergence-quiz-3d63)
-- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb)
-- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g)
+- [Master Angular Performance: 10 Essential Lazy Loading, Route Guards &amp; Resolvers Techniques Every Developer Must Know](https://dev.to/codewithrajat/master-angular-performance-10-essential-lazy-loading-route-guards-resolvers-techniques-every-4hl1)
+- [Did AI Erase Attribution? Your Git History Is Missing a Co-Author](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l)
+- [Unleash the Power of In-Browser Media Processing with Mediabunny](https://dev.to/githubopensource/unleash-the-power-of-in-browser-media-processing-with-mediabunny-43c2)
+- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
 <!-- BLOG-POST-LIST:END -->
 
