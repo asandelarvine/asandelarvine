@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Debouncing di React untuk Pemula](https://dev.to/dhena_azara_746f46d52a511/cara-debouncing-di-react-untuk-pemula-fd8)
-- [Magento 2.4.8: Features and Enhancements of the Latest Magento Update](https://dev.to/ziffity_solutionsllc_353/magento-248-features-and-enhancements-of-the-latest-magento-update-5ej3)
-- [How to control DC motor with Arduino?](https://dev.to/carolineee/how-to-control-dc-motor-with-arduino-pki)
-- [Ship Without Drama: The Minimum Reliable Product for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/ship-without-drama-the-minimum-reliable-product-for-small-teams-52e8)
+- [Stoplight Alternatives Developers Actually Work with](https://dev.to/apilover/stoplight-alternatives-developers-actually-work-with-24c5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4h3i)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2n3l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-130h)
 <!-- BLOG-POST-LIST:END -->
 
