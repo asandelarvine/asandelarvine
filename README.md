@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHARMACEUTICAL SALES PERFORMANCE ANALYSIS.](https://dev.to/faybeth_robina/pharmaceutical-sales-performance-analysis-2k31)
-- [Simplify Your Laravel Code with Route Model Binding!](https://dev.to/yone3/simplify-your-laravel-code-with-route-model-binding-347o)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4pij)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c)
+- [Speed up Docker image builds with cache management](https://dev.to/u11d/speed-up-docker-image-builds-with-cache-management-1di)
+- [How to build a social media automation bot using Python and APIs?](https://dev.to/fateme_hosseini_c98cf8b3b/how-to-build-a-social-media-automation-bot-using-python-and-apis-3fed)
+- [Cybersecurity Weekly #5 : Keeping Freelancers Safe on Public Wi-Fi in 2025](https://dev.to/cyber8080/cybersecurity-weekly-5-keeping-freelancers-safe-on-public-wi-fi-in-2025-hpc)
+- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
 <!-- BLOG-POST-LIST:END -->
 
