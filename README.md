@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Linux server sandbox with a full IDE in-browser using WebAssembly](https://dev.to/stacknow_io/a-linux-server-sandbox-with-a-full-ide-in-browser-using-webassembly-1nk1)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-1i8j)
-- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-4ek2)
-- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2e63)
+- [Evalúa y Mejora Tus Agentes: Evaluación Automatizada con RAGAS para Agentes de Producción](https://dev.to/aws-espanol/evalua-y-mejora-tus-agentes-evaluacion-automatizada-con-ragas-para-agentes-de-produccion-el8)
+- [Despliega Agentes de IA a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-a-produccion-en-15-minutos-sin-docker-sin-kubernetes-sin-dolor-de-cabeza-fmf)
+- [🧠 Deep Understanding of JSX in React](https://dev.to/usama_dev/deep-understanding-of-jsx-in-react-2n9p)
+- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
 <!-- BLOG-POST-LIST:END -->
 
