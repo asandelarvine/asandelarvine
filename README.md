@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
-- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
-- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
-- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
+- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d)
+- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej)
+- [Ensemble Learning in Machine Learning: Why Multiple Models Outperform One](https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp)
 <!-- BLOG-POST-LIST:END -->
 
