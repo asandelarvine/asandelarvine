@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encrypting my HTTP server with OpenSSL in C 🔒](https://dev.to/ethan_ac5ca38abc559d950c9/encrypting-my-http-server-with-openssl-in-c-34bj)
-- [Diving Down the Developer Rabbit Hole 🐇💻](https://dev.to/crypticcube/diving-down-the-developer-rabbit-hole-3hik)
-- [Der nächste große Schritt in Krypto wird nicht vom Preis abhängen — sondern von der Nutzererfahrung &lpar;UX&rpar;](https://dev.to/piwa_lin_8b3155c3dd85f0f9/cryptos-next-leap-wont-be-about-price-itll-be-about-ux-2kk7)
-- [I Scanned 50 Web Agency Websites &amp; Most Failed Basic Security](https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb)
+- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
+- [How Stripe ToS Violations Can Quietly Kill Your SaaS &lpar;and How to Avoid It&rpar;](https://dev.to/stefant/how-stripe-tos-violations-can-quietly-kill-your-saas-and-how-to-avoid-it-4744)
+- [AI pump energy-saving control](https://dev.to/allen_liu_e88acb5147122d1/ai-pump-energy-saving-control-2ggl)
+- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
 <!-- BLOG-POST-LIST:END -->
 
