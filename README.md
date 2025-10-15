@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Becomes Disposable?How AI Is Changing the Way We Architect Code](https://dev.to/weimeilin/software-becomes-disposablehow-ai-is-changing-the-way-we-architect-code-4870)
-- [How the hash was won](https://dev.to/luc4587/how-the-hash-was-won-3elb)
-- [No More Clock-Turning – Why Europe Still Clings to Daylight Saving Time While Others Move On](https://dev.to/thomasdelfing_de/no-more-clock-turning-why-europe-still-clings-to-daylight-saving-time-while-others-move-on-4dlb)
-- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
+- [A Linux server sandbox with a full IDE in-browser using WebAssembly](https://dev.to/stacknow_io/a-linux-server-sandbox-with-a-full-ide-in-browser-using-webassembly-1nk1)
+- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-1i8j)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-4ek2)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2e63)
 <!-- BLOG-POST-LIST:END -->
 
