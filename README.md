@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brotli vs. Gzip for Web Performance In Static Sites](https://dev.to/lovestaco/brotli-vs-gzip-for-web-performance-in-static-sites-2nhk)
-- [WEBSOCKETS](https://dev.to/renam_singla_fb52a400f07e/websockets-2ehb)
-- [The enigma of Python Enums](https://dev.to/kristofbcoding/the-enigma-of-python-enums-19k0)
-- [Ng-News 25/41: Future Testing Framework: Vitest or Jest?](https://dev.to/this-is-angular/ng-news-2541-future-testing-framework-vitest-or-jest-3cpc)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54mi)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-3h7e)
+- [KEXP: Indigo De Souza - Be Like The Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-a7)
+- [KEXP: Indigo De Souza - Not My Body &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-2i58)
 <!-- BLOG-POST-LIST:END -->
 
