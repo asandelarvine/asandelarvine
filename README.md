@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Angular Performance: 10 Essential Lazy Loading, Route Guards &amp; Resolvers Techniques Every Developer Must Know](https://dev.to/codewithrajat/master-angular-performance-10-essential-lazy-loading-route-guards-resolvers-techniques-every-4hl1)
-- [Did AI Erase Attribution? Your Git History Is Missing a Co-Author](https://dev.to/anchildress1/did-ai-erase-attribution-your-git-history-is-missing-a-co-author-1m2l)
-- [Unleash the Power of In-Browser Media Processing with Mediabunny](https://dev.to/githubopensource/unleash-the-power-of-in-browser-media-processing-with-mediabunny-43c2)
-- [Will DevOps Survive the AI Era? A Look at the Next 5 Years](https://dev.to/addwebsolutionpvtltd/will-devops-survive-the-ai-era-a-look-at-the-next-5-years-1mg5)
+- [Long Echo: Designing for Digital Resilience Across Decades](https://dev.to/queelius/long-echo-designing-for-digital-resilience-across-decades-5hbe)
+- [Cleaning up large frontend codebase](https://dev.to/saleor/cleaning-up-large-frontend-codebase-1ani)
+- [How to Use Computer Lifecycle Management to Predict IT Refresh Needs](https://dev.to/jennifer_devsamurai/how-to-use-computer-lifecycle-management-to-predict-it-refresh-needs-1kpm)
+- [Intoduction-My First Post on Dev.to ✨](https://dev.to/vishaka_nr_0716c189b9946c/intoduction-my-first-post-on-devto-3lpc)
 <!-- BLOG-POST-LIST:END -->
 
