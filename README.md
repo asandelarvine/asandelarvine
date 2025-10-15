@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
-- [How Stripe ToS Violations Can Quietly Kill Your SaaS &lpar;and How to Avoid It&rpar;](https://dev.to/stefant/how-stripe-tos-violations-can-quietly-kill-your-saas-and-how-to-avoid-it-4744)
-- [AI pump energy-saving control](https://dev.to/allen_liu_e88acb5147122d1/ai-pump-energy-saving-control-2ggl)
-- [Unpacking the Math: Building a Custom Miniature-Style DoF in UE with HLSL](https://dev.to/taku25/unpacking-the-math-building-a-custom-miniature-style-dof-in-ue-with-hlsl-2118)
+- [I Finally Built a Second Brain That I Actually Use &lpar;6th Attempt&rpar;](https://dev.to/huy_tieu/i-finally-built-a-second-brain-that-i-actually-use-6th-attempt-4075)
+- [Part-127: Hands-on with Google Cloud IAM: Manage Access Using Basic, Predefined, and Custom Roles](https://dev.to/latchudevops/part-127-hands-on-with-google-cloud-iam-manage-access-using-basic-predefined-and-custom-roles-2a5)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-168i)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-421m)
 <!-- BLOG-POST-LIST:END -->
 
