@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Data-Driven System for Turning Clicks into Profit](https://dev.to/onlineproxy/the-data-driven-system-for-turning-clicks-into-profit-2agh)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-1oco)
-- [What is Backlink Monitoring Software and How Does it Help Maintain SEO Performance?](https://dev.to/anadil_khalil_977fa4834cf/what-is-backlink-monitoring-software-and-how-does-it-help-maintain-seo-performance-2f0g)
-- [What is a Backlink Management Tool and Why is it Essential for SEO?](https://dev.to/anadil_khalil_977fa4834cf/what-is-a-backlink-management-tool-and-why-is-it-essential-for-seo-8np)
+- [Brotli vs. Gzip for Web Performance In Static Sites](https://dev.to/lovestaco/brotli-vs-gzip-for-web-performance-in-static-sites-2nhk)
+- [WEBSOCKETS](https://dev.to/renam_singla_fb52a400f07e/websockets-2ehb)
+- [The enigma of Python Enums](https://dev.to/kristofbcoding/the-enigma-of-python-enums-19k0)
+- [Ng-News 25/41: Future Testing Framework: Vitest or Jest?](https://dev.to/this-is-angular/ng-news-2541-future-testing-framework-vitest-or-jest-3cpc)
 <!-- BLOG-POST-LIST:END -->
 
