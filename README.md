@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d)
-- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej)
-- [Ensemble Learning in Machine Learning: Why Multiple Models Outperform One](https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp)
+- [How to Build a Secure FinTech App Using React Native](https://dev.to/aartijangid23/how-to-build-a-secure-fintech-app-using-react-native-30n4)
+- [🧠 The Hidden Layer: How Databases Power the Backend World](https://dev.to/sandeep_03j/the-hidden-layer-how-databases-power-the-backend-world-1fjn)
+- [🐶Spring Boot, but Every Exception Is a Dog Breed](https://dev.to/madhukashyap/spring-boot-but-every-exception-is-a-dog-breed-4lja)
+- [Buying apps and installing them: The fast track and risk zone for mobile marketing on Google Play and Apple Store](https://dev.to/youou/buying-apps-and-installing-them-the-fast-track-and-risk-zone-for-mobile-marketing-on-google-play-4e8n)
 <!-- BLOG-POST-LIST:END -->
 
