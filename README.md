@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como ter um modelo de IA utilizando GPU na Magalu Cloud](https://dev.to/magalucloud/como-ter-um-modelo-de-ia-utilizando-gpu-na-magalu-cloud-75b)
-- [My Honest Experience Using CodeRabbit for Code Reviews](https://dev.to/0314__nguyntinchnh_e/my-honest-experience-using-coderabbit-for-code-reviews-2i20)
-- [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
-- [Building a Secure WebRTC P2P Network with Advanced ECDH, DTLS, and SAS Verification](https://dev.to/securebitchat/building-a-secure-webrtc-p2p-network-with-advanced-ecdh-dtls-and-sas-verification-27p7)
+- [JavaFX In Action #21 with Vlad Protsenko, Combining Clojure with JavaFX for Game Development with Defold](https://dev.to/fdelporte/javafx-in-action-21-with-vlad-protsenko-combining-clojure-with-javafx-for-game-development-with-341e)
+- [Factory Reset Laptop: A Complete Guide to Starting Fresh](https://dev.to/rapidcellphone/factory-reset-laptop-a-complete-guide-to-starting-fresh-43af)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2i6p)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok)
 <!-- BLOG-POST-LIST:END -->
 
