@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Morse Code Translator with Next.js 15 and Web Audio API](https://dev.to/xjtumj/building-a-morse-code-translator-with-nextjs-15-and-web-audio-api-4j7l)
-- [Stumbling block for AI: UTF\-8](https://dev.to/pvsdev/stumbling-block-for-ai-utf-8-5eik)
-- [Podman on GitLab CI: Fast, Efficient Container Builds — No DinD Required](https://dev.to/justlig/podman-on-gitlab-ci-fast-efficient-container-builds-no-dind-required-e2e)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4221)
+- [☁️ AWS GameDay: From Breach to Fix](https://dev.to/lokesh_vangari_a671430724/aws-gameday-from-breach-to-fix-3o9c)
+- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
+- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
+- [Java Data Types](https://dev.to/lakshmi_g_74c225d5ca0b272/java-data-types-21km)
 <!-- BLOG-POST-LIST:END -->
 
