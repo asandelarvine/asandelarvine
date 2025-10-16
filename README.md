@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
-- [How to Import Excel Files to Matlab in 2025?](https://dev.to/nigelsilonero/how-to-import-excel-files-to-matlab-in-2025-5477)
-- [Coding Challenge Practice - Question 28](https://dev.to/tomivan/coding-challenge-practice-question-28-584j)
-- [Roast My Code: IA que revisa tu código con humor y brutalidad](https://dev.to/barrerasaezgonzalo/roast-my-code-ia-que-revisa-tu-codigo-con-humor-y-brutalidad-27fn)
+- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/hasan_ashab/dont-learn-devops-before-understanding-web-development-g67)
+- [What’s New in Nuxt 4: A Deep Dive into the Next Evolution of Nuxt.js](https://dev.to/gervaisamoah/whats-new-in-nuxt-4-a-deep-dive-into-the-next-evolution-of-nuxtjs-abb)
+- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
+- [You’re Not Alone — You Have an Army](https://dev.to/adegiamb/youre-not-alone-you-have-an-army-328e)
 <!-- BLOG-POST-LIST:END -->
 
