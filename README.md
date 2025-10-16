@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Green AI: How Sustainable Artificial Intelligence Is Shaping the Future](https://dev.to/zoe_lane_4e892a3b68b5ef61/the-rise-of-green-ai-how-sustainable-artificial-intelligence-is-shaping-the-future-ha)
-- [How to Automate HubSpot CRM Using OpenAI Agent Builder](https://dev.to/composiodev/how-to-automate-hubspot-crm-using-openai-agent-builder-5666)
-- [From Brilliant Interns to Reliable Experts: Why Enterprises Are Betting Big on RAG Systems](https://dev.to/riya_sangwan_810e6c213082/from-brilliant-interns-to-reliable-experts-why-enterprises-are-betting-big-on-rag-systems-56mk)
-- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
+- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
+- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
+- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
+- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
 <!-- BLOG-POST-LIST:END -->
 
