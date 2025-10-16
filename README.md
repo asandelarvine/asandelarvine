@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HNG13: My First Steps](https://dev.to/jesseekoh/hng13-my-first-steps-34b9)
-- [BAYESIAN AND FREQUENTISTS](https://dev.to/njeri_kimaru/bayesian-and-frequentists-o98)
-- [OpenAI Codex Launch: The Era of Workflow-Native Coding Agents](https://dev.to/kielp_riche_79dd07697340c/openai-codex-launch-the-era-of-workflow-native-coding-agents-2hhk)
-- [🧠 SnapMind — Bringing AI to One Keystroke](https://dev.to/louis7/snapmind-bringing-ai-to-one-keystroke-fmg)
+- [The Rise of Green AI: How Sustainable Artificial Intelligence Is Shaping the Future](https://dev.to/zoe_lane_4e892a3b68b5ef61/the-rise-of-green-ai-how-sustainable-artificial-intelligence-is-shaping-the-future-ha)
+- [How to Automate HubSpot CRM Using OpenAI Agent Builder](https://dev.to/composiodev/how-to-automate-hubspot-crm-using-openai-agent-builder-5666)
+- [From Brilliant Interns to Reliable Experts: Why Enterprises Are Betting Big on RAG Systems](https://dev.to/riya_sangwan_810e6c213082/from-brilliant-interns-to-reliable-experts-why-enterprises-are-betting-big-on-rag-systems-56mk)
+- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-guia-completa-de-implementacion-para-proyectos-multicliente-en-android-e-ios-1409)
 <!-- BLOG-POST-LIST:END -->
 
