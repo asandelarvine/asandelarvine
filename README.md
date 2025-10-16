@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ AWS GameDay: From Breach to Fix](https://dev.to/lokesh_vangari_a671430724/aws-gameday-from-breach-to-fix-3o9c)
-- [Top 10 Key Takeaways in Software Testing from 2025](https://dev.to/vishal_more_02990955c9358/top-10-key-takeaways-in-software-testing-from-2025-1dnc)
-- [How to remote connect to Raspberry Pi?](https://dev.to/carolineee/how-to-remote-connect-to-raspberry-pi-3nf2)
-- [Java Data Types](https://dev.to/lakshmi_g_74c225d5ca0b272/java-data-types-21km)
+- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-3634)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-f2e)
+- [How UVM Verification Enhances Functional Coverage in Chip Design](https://dev.to/fidus_systems/how-uvm-verification-enhances-functional-coverage-in-chip-design-4jc2)
+- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-20fa)
 <!-- BLOG-POST-LIST:END -->
 
