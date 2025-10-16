@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/hasan_ashab/dont-learn-devops-before-understanding-web-development-g67)
-- [What’s New in Nuxt 4: A Deep Dive into the Next Evolution of Nuxt.js](https://dev.to/gervaisamoah/whats-new-in-nuxt-4-a-deep-dive-into-the-next-evolution-of-nuxtjs-abb)
-- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
-- [You’re Not Alone — You Have an Army](https://dev.to/adegiamb/youre-not-alone-you-have-an-army-328e)
+- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 2](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-2-3521)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-232j)
+- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
+- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
 <!-- BLOG-POST-LIST:END -->
 
