@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-pnb)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-19ha)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-2a1b)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-4ekd)
+- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
+- [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
+- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
+- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
 <!-- BLOG-POST-LIST:END -->
 
