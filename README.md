@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control](https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0)
-- [The Different ways to Style Your React App](https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn)
-- [What’s the Best Foot Traffic Data Source for Investors?](https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i)
-- [ANOVA](https://dev.to/njeri_kimaru/anova-4jlj)
+- [HNG13: My First Steps](https://dev.to/jesseekoh/hng13-my-first-steps-34b9)
+- [BAYESIAN AND FREQUENTISTS](https://dev.to/njeri_kimaru/bayesian-and-frequentists-o98)
+- [OpenAI Codex Launch: The Era of Workflow-Native Coding Agents](https://dev.to/kielp_riche_79dd07697340c/openai-codex-launch-the-era-of-workflow-native-coding-agents-2hhk)
+- [🧠 SnapMind — Bringing AI to One Keystroke](https://dev.to/louis7/snapmind-bringing-ai-to-one-keystroke-fmg)
 <!-- BLOG-POST-LIST:END -->
 
