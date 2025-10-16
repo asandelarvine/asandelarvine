@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Best Free Backlink Tool for Checking Backlinks in 2025?](https://dev.to/anadil_khalil_b75a8464d97/what-is-the-best-free-backlink-tool-for-checking-backlinks-in-2025-40bh)
-- [Freelancer Meaning: What It Is, Types, and How to Become One in 2025](https://dev.to/whoozit_in_82812c2fd22a09/freelancer-meaning-what-it-is-types-and-how-to-become-one-in-2025-5405)
-- [Build smarter with Account Abstraction on Arbitrum](https://dev.to/bengreenberg/build-smarter-with-account-abstraction-on-arbitrum-ni3)
-- [&lpar;1&rpar; Emerging Data Lakehouse Handbook &lpar;2025&rpar;: Concepts and Design of Data Warehouse Layering](https://dev.to/seatunnel/1-emerging-data-lakehouse-handbook-2025-concepts-and-design-of-data-warehouse-layering-269d)
+- [Building a Morse Code Translator with Next.js 15 and Web Audio API](https://dev.to/xjtumj/building-a-morse-code-translator-with-nextjs-15-and-web-audio-api-4j7l)
+- [Stumbling block for AI: UTF\-8](https://dev.to/pvsdev/stumbling-block-for-ai-utf-8-5eik)
+- [Podman on GitLab CI: Fast, Efficient Container Builds — No DinD Required](https://dev.to/justlig/podman-on-gitlab-ci-fast-efficient-container-builds-no-dind-required-e2e)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4221)
 <!-- BLOG-POST-LIST:END -->
 
