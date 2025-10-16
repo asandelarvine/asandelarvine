@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically change the theme in Ubuntu based on the time of day](https://dev.to/irvirty/automatically-change-the-theme-in-ubuntu-based-on-the-time-of-day-3023)
-- [A Docker Trick I Wish I Knew Sooner](https://dev.to/joybtw/a-docker-trick-i-wish-i-knew-sooner-23of)
-- [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
-- [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
+- [Hashicorp Vault: High-Level Architecture, Components, and Key Concepts](https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j)
+- [I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code &lpar;Python, Java, Go, JS, PHP, etc.&rpar;](https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji)
+- [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920)
 <!-- BLOG-POST-LIST:END -->
 
