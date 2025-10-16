@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗄️DB Performance 101: A Practical Deep Dive into Backend Database Optimization⚡](https://dev.to/ari-ghosh/db-performance-101-a-practical-deep-dive-into-backend-database-optimization-4cag)
-- [Building a ChatGPT movie app with the OpenAI Apps SDK](https://dev.to/gadgetdev/building-a-chatgpt-movie-app-with-the-openai-apps-sdk-eab)
-- [Building in Public with GitHub Actions &lpar;No More Manual Posting&rpar;](https://dev.to/brilliantmakanju/building-in-public-with-github-actions-no-more-manual-posting-4ja9)
-- [Prerequisites for Using the Instagram API with Python](https://dev.to/mirfa_zainab_8b97d351bc0f/prerequisites-for-using-the-instagram-api-with-python-3h66)
+- [I posted this over a year ago, and unfortunately, it&#39;s still relevant. Please take time to consider your mental health and take a minute to appreciate the things you have accomplished.](https://dev.to/jgdevelops/i-posted-this-over-a-year-ago-and-unfortunately-its-still-relevant-please-take-time-to-consider-3d7h)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
+- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-2pf0)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-g45)
 <!-- BLOG-POST-LIST:END -->
 
