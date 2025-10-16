@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State management in Vue: Composition API vs. Pinia](https://dev.to/jhoermann/state-management-in-vue-composition-api-vs-pinia-697)
-- [Integrating Playwright with Next.js — The Complete Guide](https://dev.to/mehakb7/integrating-playwright-with-nextjs-the-complete-guide-34io)
-- [Scheduling tasks with crontab](https://dev.to/lucaspereiradesouzat/scheduling-tasks-with-crontab-3c1g)
-- [Agendando tarefas com crontab](https://dev.to/lucaspereiradesouzat/agendando-tarefas-com-crontab-fl4)
+- [Como ter um modelo de IA utilizando GPU na Magalu Cloud](https://dev.to/magalucloud/como-ter-um-modelo-de-ia-utilizando-gpu-na-magalu-cloud-75b)
+- [My Honest Experience Using CodeRabbit for Code Reviews](https://dev.to/0314__nguyntinchnh_e/my-honest-experience-using-coderabbit-for-code-reviews-2i20)
+- [Just launched AroraBuild &lpar;https://arorabuild.site/&rpar; — a platform helping devs get real help for their tech doubts.](https://dev.to/venkatesh_eedupuganti_6b9/just-launched-arorabuild-httpsarorabuildsite-a-platform-helping-devs-get-real-help-for-5895)
+- [Building a Secure WebRTC P2P Network with Advanced ECDH, DTLS, and SAS Verification](https://dev.to/securebitchat/building-a-secure-webrtc-p2p-network-with-advanced-ecdh-dtls-and-sas-verification-27p7)
 <!-- BLOG-POST-LIST:END -->
 
