@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I posted this over a year ago, and unfortunately, it&#39;s still relevant. Please take time to consider your mental health and take a minute to appreciate the things you have accomplished.](https://dev.to/jgdevelops/i-posted-this-over-a-year-ago-and-unfortunately-its-still-relevant-please-take-time-to-consider-3d7h)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ma8)
-- [COLORS: Dear Silas | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-a-colors-show-2pf0)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-g45)
+- [The Caching Pyramid: A Sculptor&#39;s Guide to Performance](https://dev.to/alex_aslam/the-caching-pyramid-a-sculptors-guide-to-performance-3m6p)
+- [Coding Challenge Practice - Question 29](https://dev.to/tomivan/coding-challenge-practice-question-29-45pn)
+- [&quot;Learning by Doing: The auto_uploader Experience&quot;](https://dev.to/mohammadreza_mahdian_3841/learning-by-doing-the-autouploader-experience-a98)
+- [Requirements for M-Pesa Online Payment Setup in Kenya &lpar;2025 Guide&rpar;](https://dev.to/eric_muturi/requirements-for-m-pesa-online-payment-setup-in-kenya-2025-guide-2bjl)
 <!-- BLOG-POST-LIST:END -->
 
