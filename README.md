@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker NGINX + WordPress + MariaDB Tutorial - Inception42](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
-- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
-- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
-- [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
+- [Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control](https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0)
+- [The Different ways to Style Your React App](https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn)
+- [What’s the Best Foot Traffic Data Source for Investors?](https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i)
+- [ANOVA](https://dev.to/njeri_kimaru/anova-4jlj)
 <!-- BLOG-POST-LIST:END -->
 
