@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 2](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-2-3521)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-232j)
-- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
-- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
+- [My new portfoliii. Check it,](https://dev.to/devd-medi-19/my-new-portfoliii-check-it-5abk)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-9gi)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4he7)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3473)
 <!-- BLOG-POST-LIST:END -->
 
