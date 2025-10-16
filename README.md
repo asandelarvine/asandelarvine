@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Next.js for Maximum Performance](https://dev.to/devops-make-it-run/optimizing-nextjs-for-maximum-performance-3634)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-f2e)
-- [How UVM Verification Enhances Functional Coverage in Chip Design](https://dev.to/fidus_systems/how-uvm-verification-enhances-functional-coverage-in-chip-design-4jc2)
-- [KEXP: Ezra Furman - Veil Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-20fa)
+- [Docker NGINX + WordPress + MariaDB Tutorial - Inception42](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
+- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
+- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
+- [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
 <!-- BLOG-POST-LIST:END -->
 
