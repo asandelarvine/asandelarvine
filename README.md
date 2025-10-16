@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaFX In Action #21 with Vlad Protsenko, Combining Clojure with JavaFX for Game Development with Defold](https://dev.to/fdelporte/javafx-in-action-21-with-vlad-protsenko-combining-clojure-with-javafx-for-game-development-with-341e)
-- [Factory Reset Laptop: A Complete Guide to Starting Fresh](https://dev.to/rapidcellphone/factory-reset-laptop-a-complete-guide-to-starting-fresh-43af)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2i6p)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok)
+- [🗄️DB Performance 101: A Practical Deep Dive into Backend Database Optimization⚡](https://dev.to/ari-ghosh/db-performance-101-a-practical-deep-dive-into-backend-database-optimization-4cag)
+- [Building a ChatGPT movie app with the OpenAI Apps SDK](https://dev.to/gadgetdev/building-a-chatgpt-movie-app-with-the-openai-apps-sdk-eab)
+- [Building in Public with GitHub Actions &lpar;No More Manual Posting&rpar;](https://dev.to/brilliantmakanju/building-in-public-with-github-actions-no-more-manual-posting-4ja9)
+- [Prerequisites for Using the Instagram API with Python](https://dev.to/mirfa_zainab_8b97d351bc0f/prerequisites-for-using-the-instagram-api-with-python-3h66)
 <!-- BLOG-POST-LIST:END -->
 
