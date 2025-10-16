@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Silent API Failures in Production](https://dev.to/trackjs/the-hidden-cost-of-silent-api-failures-in-production-1gg5)
-- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
-- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
-- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
+- [State management in Vue: Composition API vs. Pinia](https://dev.to/jhoermann/state-management-in-vue-composition-api-vs-pinia-697)
+- [Integrating Playwright with Next.js — The Complete Guide](https://dev.to/mehakb7/integrating-playwright-with-nextjs-the-complete-guide-34io)
+- [Scheduling tasks with crontab](https://dev.to/lucaspereiradesouzat/scheduling-tasks-with-crontab-3c1g)
+- [Agendando tarefas com crontab](https://dev.to/lucaspereiradesouzat/agendando-tarefas-com-crontab-fl4)
 <!-- BLOG-POST-LIST:END -->
 
