@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-1kn3)
-- [Building a Universal Lakehouse Catalog: Beyond Iceberg Tables](https://dev.to/alexmercedcoder/building-a-universal-lakehouse-catalog-beyond-iceberg-tables-1aoe)
-- [Appreciation on a second look: Lessons from Revisiting Bootstrap](https://dev.to/angel_afube/appreciation-on-a-second-look-lessons-from-revisiting-bootstrap-3ao)
-- [Encoding an Excel File in a Power BI Report](https://dev.to/drorata/encoding-an-excel-file-in-a-power-bi-report-444c)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4pl7)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mnh)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-4m5f)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-3ni2)
 <!-- BLOG-POST-LIST:END -->
 
