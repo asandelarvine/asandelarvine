@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering 101: Understanding Databases, Storage, and Security](https://dev.to/sajjadrahman56/data-engineering-101-understanding-databases-storage-and-security-46ih)
-- [Data is fuel, nowadays](https://dev.to/abir17/data-is-fuel-nowadays-46ml)
-- [In-Browser IDEs, Dependency Purges, and React&#39;s New Home](https://dev.to/urbanisierung/in-browser-ides-dependency-purges-and-reacts-new-home-55o8)
-- [Modern Tools to Keep Your Rails Upgrade Ahead of the Curve in 2025](https://dev.to/raisa_kanagaraj/modern-tools-to-keep-your-rails-upgrade-ahead-of-the-curve-in-2025-1fgf)
+- [Angular Datepicker v1.3.6: Popovers, Smooth Transitions, and a Pluggable Holiday System! 🎁](https://dev.to/toozuuu/angular-datepicker-v110-popovers-smooth-transitions-and-a-pluggable-holiday-system-4dj9)
+- [Hierarchical Clustering in R: Concepts, Methods, and Real-World Insights](https://dev.to/thedatageek/hierarchical-clustering-in-r-concepts-methods-and-real-world-insights-2kcc)
+- [Python for Everyone: Learn, Code, and Create](https://dev.to/suraj_kumar_fb57ae0928df2/python-for-everyone-learn-code-and-create-j0i)
+- [Affordable and Developer-Friendly PDF API Solutions](https://dev.to/rameshchauhan/affordable-and-developer-friendly-pdf-api-solutions-3ihn)
 <!-- BLOG-POST-LIST:END -->
 
