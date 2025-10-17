@@ -79,14 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers often ask:
-
-“Will coding still matter when AI can generate code instantly?”
-“Will prompt engineering replace traditional development?”
-
-Let me address this honestly today!](https://dev.to/jaideepparashar/developers-often-ask-will-coding-still-matter-when-ai-can-generate-code-instantly-will-56kf)
-- [Prompt Engineering vs Coding: Which One Wins in 2030?](https://dev.to/jaideepparashar/prompt-engineering-vs-coding-which-one-wins-in-2030-4p4l)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-521n)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-183d)
+- [Data Engineering 101: Understanding Databases, Storage, and Security](https://dev.to/sajjadrahman56/data-engineering-101-understanding-databases-storage-and-security-46ih)
+- [Data is fuel, nowadays](https://dev.to/abir17/data-is-fuel-nowadays-46ml)
+- [In-Browser IDEs, Dependency Purges, and React&#39;s New Home](https://dev.to/urbanisierung/in-browser-ides-dependency-purges-and-reacts-new-home-55o8)
+- [Modern Tools to Keep Your Rails Upgrade Ahead of the Curve in 2025](https://dev.to/raisa_kanagaraj/modern-tools-to-keep-your-rails-upgrade-ahead-of-the-curve-in-2025-1fgf)
 <!-- BLOG-POST-LIST:END -->
 
