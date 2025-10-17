@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Export for Instagram: Simplifying Data Management with the Instagram Export Tool](https://dev.to/mirfa_zainab_8b97d351bc0f/the-best-export-for-instagram-simplifying-data-management-with-the-instagram-export-tool-73h)
-- [🧠🤖 LangGraph4j Deep Agents &lpar;Agent 2.0&rpar;](https://dev.to/bsorrentino/langgraph4j-deep-agents-agent-20-1d74)
-- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
-- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
+- [Building Secure AI Agents with Auth0: A Developer&#39;s Guide](https://dev.to/aniruddhaadak/building-secure-ai-agents-with-auth0-a-developers-guide-309n)
+- [Confident Refactoring When Money Is on the Line](https://dev.to/_2c78f2211e58fb9c5f4cf/confident-refactoring-when-money-is-on-the-line-1862)
+- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-2l0l)
+- [node-cron para jobs agendados](https://dev.to/lucaspereiradesouzat/node-cron-para-jobs-agendados-4m6b)
 <!-- BLOG-POST-LIST:END -->
 
