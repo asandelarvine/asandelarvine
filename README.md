@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decorators in Python](https://dev.to/srinivasuluparanduru/decorators-in-python-1bd3)
-- [Understanding ADHD Coaching: A Path to Clarity, Confidence, and Control](https://dev.to/alif_tgm_f8980739e4e9dfda/understanding-adhd-coaching-a-path-to-clarity-confidence-and-control-360c)
-- [Best Platform to Learn Vue.js If You’re Done Copy-Pasting From Stack Overflow](https://dev.to/dev_loops/best-platform-to-learn-vuejs-if-youre-done-copy-pasting-from-stack-overflow-13nb)
-- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-3aa7)
+- [Top Claude MCP server integrations you can set up right now](https://dev.to/dronahq/top-claude-mcp-server-integrations-you-can-set-up-right-now-4hhc)
+- [Add Binary Leet Code JavaScript Solution](https://dev.to/abhishek-nexgen-dev/add-binary-leet-code-javascript-solution-2p2c)
+- [How async rhythm replaces the need for constant speed](https://dev.to/koni_jang/how-async-rhythm-replaces-the-need-for-constant-speed-2dc9)
+- [AI forward deployed engineers: The force powering real-world AI adoption](https://dev.to/dronahq/ai-forward-deployed-engineers-the-force-powering-real-world-ai-adoption-3oeo)
 <!-- BLOG-POST-LIST:END -->
 
