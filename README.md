@@ -79,9 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with LLMs at Scale: Part 1 - The Pain Points](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-1-the-pain-points-3c0o)
-- [Building a Smart Home with AppDaemon: From Baby Monitors to Language Learning](https://dev.to/laurent_charignon/building-a-smart-home-with-appdaemon-from-baby-monitors-to-language-learning-4jg6)
-- [Extract Text from Word in C# &lpar;No Office&rpar; | Free Tool Guide](https://dev.to/codingco/extract-text-from-word-in-c-no-office-free-tool-guide-53da)
-- [Revolutionize Manufacturing: Conquering Inventory Management Challenges](https://dev.to/jennifer_devsamurai/revolutionize-manufacturing-conquering-inventory-management-challenges-4dhk)
+- [Developers often ask:
+
+“Will coding still matter when AI can generate code instantly?”
+“Will prompt engineering replace traditional development?”
+
+Let me address this honestly today!](https://dev.to/jaideepparashar/developers-often-ask-will-coding-still-matter-when-ai-can-generate-code-instantly-will-56kf)
+- [Prompt Engineering vs Coding: Which One Wins in 2030?](https://dev.to/jaideepparashar/prompt-engineering-vs-coding-which-one-wins-in-2030-4p4l)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-521n)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-183d)
 <!-- BLOG-POST-LIST:END -->
 
