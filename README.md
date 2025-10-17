@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [conform.nvim: store formatters settings in a project config](https://dev.to/art_vasilyev/conformnvim-store-formatters-settings-in-a-project-config-135p)
-- [Cloud Computing Apps: Redefining the Digital Experience](https://dev.to/phoneexits/cloud-computing-apps-redefining-the-digital-experience-2cia)
-- [Getting Started with GQLoom - Building GraphQL Server Applications with Zod + Drizzle](https://dev.to/xcfox/getting-started-with-gqloom-building-graphql-server-applications-with-zod-drizzle-423o)
-- [When “Just Routing” Wasted 2 Days My Multi-Region Lesson](https://dev.to/techwithhari/when-just-routing-wasted-2-days-my-multi-region-lesson-5gl1)
+- [LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-1kn3)
+- [Building a Universal Lakehouse Catalog: Beyond Iceberg Tables](https://dev.to/alexmercedcoder/building-a-universal-lakehouse-catalog-beyond-iceberg-tables-1aoe)
+- [Appreciation on a second look: Lessons from Revisiting Bootstrap](https://dev.to/angel_afube/appreciation-on-a-second-look-lessons-from-revisiting-bootstrap-3ao)
+- [Encoding an Excel File in a Power BI Report](https://dev.to/drorata/encoding-an-excel-file-in-a-power-bi-report-444c)
 <!-- BLOG-POST-LIST:END -->
 
