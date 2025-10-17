@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker on ARM architectures](https://dev.to/godofgeeks/docker-on-arm-architectures-232a)
-- [Automated Compliance: Meeting ISO, GDPR, and SOC 2 With Ease](https://dev.to/tech_def_d90aa81ffca4197e/automated-compliance-meeting-iso-gdpr-and-soc-2-with-ease-4aob)
-- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
-- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
+- [What Developers Can Learn from GameApps.cc: A Technical Teardown](https://dev.to/mufeng/what-developers-can-learn-from-gameappscc-a-technical-teardown-14g6)
+- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
 <!-- BLOG-POST-LIST:END -->
 
