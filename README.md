@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Car Seat Headrest - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-full-performance-live-on-kexp-4c1h)
-- [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
-- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4hn1)
-- [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
+- [O Que É NGINX e Como Ele Funciona?](https://dev.to/ikauedev/o-que-e-nginx-e-como-ele-funciona-1727)
+- [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
+- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
+- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
 <!-- BLOG-POST-LIST:END -->
 
