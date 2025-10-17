@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Can’t I Download Some Instagram Images?](https://dev.to/mirfa_zainab_8b97d351bc0f/why-cant-i-download-some-instagram-images-17i0)
-- [Supercharge Your Laravel App: Caching, Queues &amp; Performance](https://dev.to/devtalk94/supercharge-your-laravel-app-caching-queues-performance-4435)
-- [Rank your design options, get A/B feedback, and collect real testimonials](https://dev.to/pablo_santana/rank-your-design-options-get-ab-feedback-and-collect-real-testimonials-4e35)
-- [Getting Started with Tamagui: A Complete Guide to Modern React Native Styling](https://dev.to/cathylai/getting-started-with-tamagui-a-complete-guide-to-modern-react-native-styling-3fff)
+- [LLPY-13: CI/CD con GitHub Actions - Automatización Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-13-cicd-con-github-actions-automatizacion-completa-ij6)
+- [LLPY-12: Docker y Containerización - De Desarrollo a Producción](https://dev.to/jesus_oviedoriquelme_084/llpy-12-docker-y-containerizacion-de-desarrollo-a-produccion-1fpm)
+- [LLPY-11: Terraform - Infraestructura como Código](https://dev.to/jesus_oviedoriquelme_084/llpy-11-terraform-infraestructura-como-codigo-57dp)
+- [Running Evals on LangChain Applications: A Practical, End-to-End Guide with Maxim AI](https://dev.to/kuldeep_paul/running-evals-on-langchain-applications-a-practical-end-to-end-guide-with-maxim-ai-3e67)
 <!-- BLOG-POST-LIST:END -->
 
