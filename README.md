@@ -79,9 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Awesome Resources For Learning About System Design ⚡](https://dev.to/truongpx396/awesome-resources-for-learning-about-system-design-4m2n)
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-51o4)
-- [Understanding Large Language Models &lpar;LLMs&rpar; and Their Business Applications](https://dev.to/pruthviraj_mahalunge_8090/understanding-large-language-models-llms-and-their-business-applications-4d0h)
-- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
+- [Designing a Centralized Rate Limiter for Java Microservices — The Why, The How, and The Lessons](https://dev.to/krithika_subramaniyan_5b6/designing-a-centralized-rate-limiter-for-java-microservices-the-why-the-how-and-the-lessons-25nl)
+- [Scaling Your Playwright Tests: A Fixture for Multi-User, Multi-Context Worlds](https://dev.to/gustavomeilus/scaling-your-playwright-tests-a-fixture-for-multi-user-multi-context-worlds-53i4)
+- [Proyecto base para construir una aplicación con NestJS + Astro + Prisma + PG
+
+Por si a alguien le sirve, utilicé este repo para un taller de programación que di 
+hace algunas semanas
+
+https://github.com/Audelabs/nodejs-workshop](https://dev.to/alex_escalante/proyecto-base-para-construir-una-aplicacion-con-nestjs-astro-prisma-pg-por-si-a-alguien-le-354e)
+- [January 1, 1970 is a very special date in programming. Not because anything groundbreaking happened that day &lpar;no revolutionary app launched, no tech billionaire was born&rpar;, but what really happened is a mind-blowing fact.](https://dev.to/abrahambishopcodes/january-1-1970-is-a-very-special-date-in-programming-not-because-anything-groundbreaking-happened-12nm)
 <!-- BLOG-POST-LIST:END -->
 
