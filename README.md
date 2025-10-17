@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure AI Agents with Auth0: A Developer&#39;s Guide](https://dev.to/aniruddhaadak/building-secure-ai-agents-with-auth0-a-developers-guide-309n)
-- [Confident Refactoring When Money Is on the Line](https://dev.to/_2c78f2211e58fb9c5f4cf/confident-refactoring-when-money-is-on-the-line-1862)
-- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-2l0l)
-- [node-cron para jobs agendados](https://dev.to/lucaspereiradesouzat/node-cron-para-jobs-agendados-4m6b)
+- [Why Can’t I Download Some Instagram Images?](https://dev.to/mirfa_zainab_8b97d351bc0f/why-cant-i-download-some-instagram-images-17i0)
+- [Supercharge Your Laravel App: Caching, Queues &amp; Performance](https://dev.to/devtalk94/supercharge-your-laravel-app-caching-queues-performance-4435)
+- [Rank your design options, get A/B feedback, and collect real testimonials](https://dev.to/pablo_santana/rank-your-design-options-get-ab-feedback-and-collect-real-testimonials-4e35)
+- [Getting Started with Tamagui: A Complete Guide to Modern React Native Styling](https://dev.to/cathylai/getting-started-with-tamagui-a-complete-guide-to-modern-react-native-styling-3fff)
 <!-- BLOG-POST-LIST:END -->
 
