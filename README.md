@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation &amp; Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e)
-- [My Workflow Hacks for Music Creation: Tools That Have Streamlined My Process](https://dev.to/nano_a01924c85131687207c2/my-workflow-hacks-for-music-creation-tools-that-have-streamlined-my-process-4o14)
-- [2025 Complete Guide: PaddleOCR-VL-0.9B — Baidu&#39;s Ultra-Lightweight Document Parsing Powerhouse](https://dev.to/czmilo/2025-complete-guide-paddleocr-vl-09b-baidus-ultra-lightweight-document-parsing-powerhouse-1e8l)
-- [Sign your AWS Lambda Code](https://dev.to/shajam/sign-your-aws-lambda-code-5cdh)
+- [Building with LLMs at Scale: Part 1 - The Pain Points](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-1-the-pain-points-3c0o)
+- [Building a Smart Home with AppDaemon: From Baby Monitors to Language Learning](https://dev.to/laurent_charignon/building-a-smart-home-with-appdaemon-from-baby-monitors-to-language-learning-4jg6)
+- [Extract Text from Word in C# &lpar;No Office&rpar; | Free Tool Guide](https://dev.to/codingco/extract-text-from-word-in-c-no-office-free-tool-guide-53da)
+- [Revolutionize Manufacturing: Conquering Inventory Management Challenges](https://dev.to/jennifer_devsamurai/revolutionize-manufacturing-conquering-inventory-management-challenges-4dhk)
 <!-- BLOG-POST-LIST:END -->
 
