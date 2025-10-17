@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Binary Security in Mobile Application: A Deep Dive into Obfuscation](https://dev.to/jocanola/improving-binary-security-in-mobile-application-a-deep-dive-into-obfuscation-58n2)
-- [🔥🚨 Global Crypto Regulations Are Heating Up!💥](https://dev.to/endeo/global-crypto-regulations-are-heating-up-33c5)
-- [Adding a new feature to vscode-pets project](https://dev.to/oleksandrakordonets/adding-a-new-feature-to-vscode-pets-project-221f)
-- [I Built My Own Service Using Neural Networks Without Knowing Code](https://dev.to/paul_molyanov/i-built-my-own-service-using-neural-networks-without-knowing-code-52ja)
+- [KEXP: Car Seat Headrest - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-full-performance-live-on-kexp-4c1h)
+- [IGN: Vampire: The Masquerade - Bloodlines 2: First 12 Minutes of Gameplay](https://dev.to/gg_news/ign-vampire-the-masquerade-bloodlines-2-first-12-minutes-of-gameplay-4nh4)
+- [IGN: Call of Duty: Black Ops 6 and Warzone - Official The Haunting: Predator Badlands Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-6-and-warzone-official-the-haunting-predator-badlands-trailer-4hn1)
+- [Unlocking Model Fusion: Sharper Merges Through Subspace Purification](https://dev.to/arvind_sundararajan/unlocking-model-fusion-sharper-merges-through-subspace-purification-29o9)
 <!-- BLOG-POST-LIST:END -->
 
