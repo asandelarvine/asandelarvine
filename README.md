@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLPY-13: CI/CD con GitHub Actions - Automatización Completa](https://dev.to/jesus_oviedoriquelme_084/llpy-13-cicd-con-github-actions-automatizacion-completa-ij6)
-- [LLPY-12: Docker y Containerización - De Desarrollo a Producción](https://dev.to/jesus_oviedoriquelme_084/llpy-12-docker-y-containerizacion-de-desarrollo-a-produccion-1fpm)
-- [LLPY-11: Terraform - Infraestructura como Código](https://dev.to/jesus_oviedoriquelme_084/llpy-11-terraform-infraestructura-como-codigo-57dp)
-- [Running Evals on LangChain Applications: A Practical, End-to-End Guide with Maxim AI](https://dev.to/kuldeep_paul/running-evals-on-langchain-applications-a-practical-end-to-end-guide-with-maxim-ai-3e67)
+- [🚀 Awesome Resources For Learning About System Design ⚡](https://dev.to/truongpx396/awesome-resources-for-learning-about-system-design-4m2n)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-51o4)
+- [Understanding Large Language Models &lpar;LLMs&rpar; and Their Business Applications](https://dev.to/pruthviraj_mahalunge_8090/understanding-large-language-models-llms-and-their-business-applications-4d0h)
+- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
 <!-- BLOG-POST-LIST:END -->
 
