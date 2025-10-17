@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Developers Can Learn from GameApps.cc: A Technical Teardown](https://dev.to/mufeng/what-developers-can-learn-from-gameappscc-a-technical-teardown-14g6)
-- [Built a CLI app to automate complex daily GIT workflows](https://dev.to/rafmardev/built-a-cli-app-to-automate-complex-daily-git-workflows-2437)
-- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
+- [Decorators in Python](https://dev.to/srinivasuluparanduru/decorators-in-python-1bd3)
+- [Understanding ADHD Coaching: A Path to Clarity, Confidence, and Control](https://dev.to/alif_tgm_f8980739e4e9dfda/understanding-adhd-coaching-a-path-to-clarity-confidence-and-control-360c)
+- [Best Platform to Learn Vue.js If You’re Done Copy-Pasting From Stack Overflow](https://dev.to/dev_loops/best-platform-to-learn-vuejs-if-youre-done-copy-pasting-from-stack-overflow-13nb)
+- [Balancing Confidence and Imposter Syndrome](https://dev.to/_2c78f2211e58fb9c5f4cf/balancing-confidence-and-imposter-syndrome-3aa7)
 <!-- BLOG-POST-LIST:END -->
 
