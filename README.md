@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why every student needs a good friend](https://dev.to/shree_garimavidyamandir/why-every-student-needs-a-good-friend-hi)
-- [Integrating Stripe Payments in Spring Boot: Step-by-Step Beginner’s Guide &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/integrating-stripe-payments-in-spring-boot-step-by-step-beginners-guide-2025-40oe)
-- [Spring Boot File Upload with Multipart Support: Complete Guide](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-file-upload-with-multipart-support-complete-guide-o68)
-- [Spring Boot Caching with Redis: Boost Performance with Fast Operations &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-caching-with-redis-boost-performance-with-fast-operations-2025-1844)
+- [conform.nvim: store formatters settings in a project config](https://dev.to/art_vasilyev/conformnvim-store-formatters-settings-in-a-project-config-135p)
+- [Cloud Computing Apps: Redefining the Digital Experience](https://dev.to/phoneexits/cloud-computing-apps-redefining-the-digital-experience-2cia)
+- [Getting Started with GQLoom - Building GraphQL Server Applications with Zod + Drizzle](https://dev.to/xcfox/getting-started-with-gqloom-building-graphql-server-applications-with-zod-drizzle-423o)
+- [When “Just Routing” Wasted 2 Days My Multi-Region Lesson](https://dev.to/techwithhari/when-just-routing-wasted-2-days-my-multi-region-lesson-5gl1)
 <!-- BLOG-POST-LIST:END -->
 
