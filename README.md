@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Safe: Terragrunt Import for Multi-Account AWS](https://dev.to/terraformmonkey/start-safe-terragrunt-import-for-multi-account-aws-197p)
-- [Day 1252 : Flush](https://dev.to/dwane/day-1252-flush-hao)
-- [🎮 Introducing Pixalo — A Lightweight, Developer-Friendly 2D Game Engine for JavaScript](https://dev.to/salarizadi/introducing-pixalo-a-lightweight-developer-friendly-2d-game-engine-for-javascript-3e73)
-- [Tools Make the Dev: 9 Python Productivity Tools You Shouldn’t Miss](https://dev.to/lamri_abdellahramdane_15/tools-make-the-dev-9-python-productivity-tools-you-shouldnt-miss-1d4p)
+- [Creating a Text Extension for TCJSGame: Tctxt - Complete Documentation &amp; Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-text-extension-for-tcjsgame-tctxt-complete-documentation-tutorial-5c9e)
+- [My Workflow Hacks for Music Creation: Tools That Have Streamlined My Process](https://dev.to/nano_a01924c85131687207c2/my-workflow-hacks-for-music-creation-tools-that-have-streamlined-my-process-4o14)
+- [2025 Complete Guide: PaddleOCR-VL-0.9B — Baidu&#39;s Ultra-Lightweight Document Parsing Powerhouse](https://dev.to/czmilo/2025-complete-guide-paddleocr-vl-09b-baidus-ultra-lightweight-document-parsing-powerhouse-1e8l)
+- [Sign your AWS Lambda Code](https://dev.to/shajam/sign-your-aws-lambda-code-5cdh)
 <!-- BLOG-POST-LIST:END -->
 
