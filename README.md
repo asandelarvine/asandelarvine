@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Claude MCP server integrations you can set up right now](https://dev.to/dronahq/top-claude-mcp-server-integrations-you-can-set-up-right-now-4hhc)
-- [Add Binary Leet Code JavaScript Solution](https://dev.to/abhishek-nexgen-dev/add-binary-leet-code-javascript-solution-2p2c)
-- [How async rhythm replaces the need for constant speed](https://dev.to/koni_jang/how-async-rhythm-replaces-the-need-for-constant-speed-2dc9)
-- [AI forward deployed engineers: The force powering real-world AI adoption](https://dev.to/dronahq/ai-forward-deployed-engineers-the-force-powering-real-world-ai-adoption-3oeo)
+- [Why every student needs a good friend](https://dev.to/shree_garimavidyamandir/why-every-student-needs-a-good-friend-hi)
+- [Integrating Stripe Payments in Spring Boot: Step-by-Step Beginner’s Guide &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/integrating-stripe-payments-in-spring-boot-step-by-step-beginners-guide-2025-40oe)
+- [Spring Boot File Upload with Multipart Support: Complete Guide](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-file-upload-with-multipart-support-complete-guide-o68)
+- [Spring Boot Caching with Redis: Boost Performance with Fast Operations &lpar;2025&rpar;](https://dev.to/munaf_badarpura_3811f0ab1/spring-boot-caching-with-redis-boost-performance-with-fast-operations-2025-1844)
 <!-- BLOG-POST-LIST:END -->
 
