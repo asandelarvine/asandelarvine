@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Datepicker v1.3.6: Popovers, Smooth Transitions, and a Pluggable Holiday System! 🎁](https://dev.to/toozuuu/angular-datepicker-v110-popovers-smooth-transitions-and-a-pluggable-holiday-system-4dj9)
-- [Hierarchical Clustering in R: Concepts, Methods, and Real-World Insights](https://dev.to/thedatageek/hierarchical-clustering-in-r-concepts-methods-and-real-world-insights-2kcc)
-- [Python for Everyone: Learn, Code, and Create](https://dev.to/suraj_kumar_fb57ae0928df2/python-for-everyone-learn-code-and-create-j0i)
-- [Affordable and Developer-Friendly PDF API Solutions](https://dev.to/rameshchauhan/affordable-and-developer-friendly-pdf-api-solutions-3ihn)
+- [Docker on ARM architectures](https://dev.to/godofgeeks/docker-on-arm-architectures-232a)
+- [Automated Compliance: Meeting ISO, GDPR, and SOC 2 With Ease](https://dev.to/tech_def_d90aa81ffca4197e/automated-compliance-meeting-iso-gdpr-and-soc-2-with-ease-4aob)
+- [The Reading Speed Secret That Helps You Remember Jiu Jitsu Moves](https://dev.to/brain_athlete/the-reading-speed-secret-that-helps-you-remember-jiu-jitsu-moves-1d1p)
+- [The 10 Best Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
 <!-- BLOG-POST-LIST:END -->
 
