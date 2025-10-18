@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b9o)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-10ok)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-45l1)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5dbc)
+- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
+- [Full-Stack mobile developer](https://dev.to/techwithsam/full-stack-mobile-developer-3f9b)
+- [Ontstopping Utrecht: waarom regelmatig onderhoud essentieel is](https://dev.to/wwloodgietersbedrijf/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-4ig3)
+- [**Master Rust Testing: Build Bulletproof Code with Unit, Integration, and Property-Based Testing**](https://dev.to/aaravjoshi/master-rust-testing-build-bulletproof-code-with-unit-integration-and-property-based-testing-2g33)
 <!-- BLOG-POST-LIST:END -->
 
