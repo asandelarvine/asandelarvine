@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Jasmine Tests with GitHub Actions for Continuous Integration](https://dev.to/henry_messiahtmt_099ca84/automating-jasmine-tests-with-github-actions-for-continuous-integration-53gn)
-- [From Portfolio to Working Room: shipping client work in one place](https://dev.to/harris_do_a856314aea4024d/from-portfolio-to-working-room-shipping-client-work-in-one-place-4pim)
-- [Why React Native Will Outrun Native Development in 2024 &lpar;and How to Ride the Wave&rpar;](https://dev.to/ekwoster/why-react-native-will-outrun-native-development-in-2024-and-how-to-ride-the-wave-1o1e)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-156g)
+- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
+- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
+- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
+- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
 <!-- BLOG-POST-LIST:END -->
 
