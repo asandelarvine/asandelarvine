@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
-- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
-- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
-- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2iol)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3k9c)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1m9m)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3c4l)
 <!-- BLOG-POST-LIST:END -->
 
