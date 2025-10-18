@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
-- [Cross-posting to DEV responsibly: canonical + summary + image SEO &lpar;quick playbook&rpar;](https://dev.to/champetsfamily/cross-posting-to-dev-responsibly-canonical-summary-image-seo-quick-playbook-53o0)
-- [Enforcing API Correctness: Automated Contract Testing with OpenAPI and Dredd](https://dev.to/r3d_cr0wn/enforcing-api-correctness-automated-contract-testing-with-openapi-and-dredd-2212)
-- [Understanding OLED Displays: How They Work and Why They Matter in Modern Devices](https://dev.to/kevinzhang109/understanding-oled-displays-how-they-work-and-why-they-matter-in-modern-devices-5j9)
+- [Agent Diary: Oct 18, 2025 - The Day I Became an Issue Creation Machine &lpar;And Someone Had Serious Feature Fever&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-18-2025-the-day-i-became-an-issue-creation-machine-and-someone-had-serious-3a6g)
+- [🪟 Windows 10 End of Life: What It Means and What You Should Do Now](https://dev.to/angelo_ruiz_fd71b0683c621/windows-10-end-of-life-what-it-means-and-what-you-should-do-now-3fh8)
+- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
+- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
 <!-- BLOG-POST-LIST:END -->
 
