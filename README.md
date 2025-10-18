@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built &quot;recipeshare&quot; using nextjs - would love feedback](https://dev.to/vivekvemula21/i-built-recipeshare-using-nextjs-would-love-feedback-go0)
-- [LimeDB: Streamlined Deployment with New Docker Configurations for Dev &amp; Prod](https://dev.to/namanvashistha/limedb-streamlined-deployment-with-new-docker-configurations-for-dev-prod-7gh)
-- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
-- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
+- [Introducing AWS Bedrock AgentCore: A Modular Platform for Deploying AI Agents at Enterprise Scale -Part I](https://dev.to/sreeni5018/introducing-aws-bedrock-agentcore-a-modular-platform-for-deploying-ai-agents-at-enterprise-scale-369p)
+- [🧩 Diseñar un Design System &lpar;y no morir en el intento... o si&rpar;](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ein)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2emf)
 <!-- BLOG-POST-LIST:END -->
 
