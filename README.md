@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
-- [Full-Stack mobile developer](https://dev.to/techwithsam/full-stack-mobile-developer-3f9b)
-- [Ontstopping Utrecht: waarom regelmatig onderhoud essentieel is](https://dev.to/wwloodgietersbedrijf/ontstopping-utrecht-waarom-regelmatig-onderhoud-essentieel-is-4ig3)
-- [**Master Rust Testing: Build Bulletproof Code with Unit, Integration, and Property-Based Testing**](https://dev.to/aaravjoshi/master-rust-testing-build-bulletproof-code-with-unit-integration-and-property-based-testing-2g33)
+- [Building BowlingAlleys.io — How I’m Outranking Big Brands &lpar;One Alley at a Time&rpar;](https://dev.to/gbae420/building-bowlingalleysio-how-im-outranking-big-brands-one-alley-at-a-time-jf9)
+- [[Boost]](https://dev.to/hadil/-3c9a)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded)
 <!-- BLOG-POST-LIST:END -->
 
