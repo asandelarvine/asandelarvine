@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 2&rpar; - Step-by-Step Implementation](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-2-step-by-step-implementation-49k6)
-- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM &amp; Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
-- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
-- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
+- [Automating Jasmine Tests with GitHub Actions for Continuous Integration](https://dev.to/henry_messiahtmt_099ca84/automating-jasmine-tests-with-github-actions-for-continuous-integration-53gn)
+- [From Portfolio to Working Room: shipping client work in one place](https://dev.to/harris_do_a856314aea4024d/from-portfolio-to-working-room-shipping-client-work-in-one-place-4pim)
+- [Why React Native Will Outrun Native Development in 2024 &lpar;and How to Ride the Wave&rpar;](https://dev.to/ekwoster/why-react-native-will-outrun-native-development-in-2024-and-how-to-ride-the-wave-1o1e)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-156g)
 <!-- BLOG-POST-LIST:END -->
 
