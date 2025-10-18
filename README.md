@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m SO Looking Forward to Not Needing a Build System Again](https://dev.to/raheelshan/im-so-looking-forward-to-not-needing-a-build-system-again-a57)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b8b)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-30cc)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-42oo)
+- [Has anyone tried Scaleway cloud serverless offerings &lpar;db/functions&rpar;? What are your thoughts if so?](https://dev.to/valeriavg/has-anyone-tried-scaleway-cloud-serverless-offerings-dbfunctions-what-are-your-thoughts-if-so-m2)
+- [Self-Hosting Excalidraw with Custom Fonts — No Extensions, No Cloud](https://dev.to/mirzadeh/self-hosting-excalidraw-with-custom-fonts-no-extensions-no-cloud-2ell)
+- [🐱 I Built a Profile API That Returns Random Cat Facts](https://dev.to/rishi_00000000000000/i-built-a-profile-api-that-returns-random-cat-facts-359h)
+- [Why Do Content Creators Choose Sora 2 or Veo 3.1 for Social Clips?](https://dev.to/jovin_george_733dcfc16291/why-do-content-creators-choose-sora-2-or-veo-31-for-social-clips-3p1b)
 <!-- BLOG-POST-LIST:END -->
 
