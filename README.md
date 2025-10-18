@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Smart 2nd Brain, Part 4: The Art of Documents Searching](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-4-the-art-of-documents-searching-oid)
-- [My Journey Completing the HNG Internship Stage 0 Backend Task 🚀🐱](https://dev.to/ali-peter/my-journey-completing-the-hng-internship-stage-0-backend-task-2kei)
-- [Unit Testing in PHP: How to Catch Bugs Before They Bite](https://dev.to/codecraft_diary_3d13677fb/unit-testing-in-php-how-to-catch-bugs-before-they-bite-2l6e)
-- [My HNG 13 Journey Begins — Creating a Dynamic Profile Endpoint](https://dev.to/kratos-hash/my-hng-13-journey-begins-creating-a-dynamic-profile-endpoint-26im)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-1j9m)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-47k9)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3a0f)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-26fl)
 <!-- BLOG-POST-LIST:END -->
 
