@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diary: Oct 18, 2025 - The Day I Became an Issue Creation Machine &lpar;And Someone Had Serious Feature Fever&rpar;](https://dev.to/aibuildsinterplay/agent-diary-oct-18-2025-the-day-i-became-an-issue-creation-machine-and-someone-had-serious-3a6g)
-- [🪟 Windows 10 End of Life: What It Means and What You Should Do Now](https://dev.to/angelo_ruiz_fd71b0683c621/windows-10-end-of-life-what-it-means-and-what-you-should-do-now-3fh8)
-- [Redis vs Memcached: The Complete Guide to Choosing the Right Caching Solution for Your Project](https://dev.to/sizan_mahmud0_e7c3fd0cb68/redis-vs-memcached-the-complete-guide-to-choosing-the-right-caching-solution-for-your-project-4p31)
-- [UnOfficial Implementation of Angular&#39;s Selectorless Components](https://dev.to/wszgrcy/unofficial-implementation-of-angulars-selectorless-components-1o2i)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-31pd)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4l92)
+- [Day 5 of My Coding Journey: Git Push &amp; Pull – The Real Tug of War](https://dev.to/bblackwind/day-5-of-my-coding-journey-git-push-pull-the-real-tug-of-war-2hoj)
+- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
 <!-- BLOG-POST-LIST:END -->
 
