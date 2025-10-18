@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building BowlingAlleys.io — How I’m Outranking Big Brands &lpar;One Alley at a Time&rpar;](https://dev.to/gbae420/building-bowlingalleysio-how-im-outranking-big-brands-one-alley-at-a-time-jf9)
-- [[Boost]](https://dev.to/hadil/-3c9a)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded)
+- [Building My Smart 2nd Brain, Part 4: The Art of Documents Searching](https://dev.to/jimmyhott/building-my-smart-2nd-brain-part-4-the-art-of-documents-searching-oid)
+- [My Journey Completing the HNG Internship Stage 0 Backend Task 🚀🐱](https://dev.to/ali-peter/my-journey-completing-the-hng-internship-stage-0-backend-task-2kei)
+- [Unit Testing in PHP: How to Catch Bugs Before They Bite](https://dev.to/codecraft_diary_3d13677fb/unit-testing-in-php-how-to-catch-bugs-before-they-bite-2l6e)
+- [My HNG 13 Journey Begins — Creating a Dynamic Profile Endpoint](https://dev.to/kratos-hash/my-hng-13-journey-begins-creating-a-dynamic-profile-endpoint-26im)
 <!-- BLOG-POST-LIST:END -->
 
