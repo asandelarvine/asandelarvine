@@ -79,9 +79,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O Que É NGINX e Como Ele Funciona?](https://dev.to/ikauedev/o-que-e-nginx-e-como-ele-funciona-1727)
-- [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
-- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
-- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
+- [QubesOS A Hypervisor as a Desktop](https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972)
+- [The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
+- [CodeHUB](https://dev.to/alexandre_braatzjunior_9/codehub-2el8)
+- [From Developer to AI Operator](https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5)
 <!-- BLOG-POST-LIST:END -->
 
