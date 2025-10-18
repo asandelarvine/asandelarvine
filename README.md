@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing AWS Bedrock AgentCore: A Modular Platform for Deploying AI Agents at Enterprise Scale -Part I](https://dev.to/sreeni5018/introducing-aws-bedrock-agentcore-a-modular-platform-for-deploying-ai-agents-at-enterprise-scale-369p)
-- [🧩 Diseñar un Design System &lpar;y no morir en el intento... o si&rpar;](https://dev.to/juankicr/disenar-un-design-system-y-no-morir-en-el-intento-o-si-5dd2)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ein)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2emf)
+- [Mistakes Were Made](https://dev.to/johannesmogashoa/mistakes-were-made-2p8n)
+- [What is Front-End Development and Why It’s the Core of Modern Web Design | Z5 CODE](https://dev.to/z5code/what-is-front-end-development-and-why-its-the-core-of-modern-web-design-z5-code-j38)
+- [JWT Authentication Explained: Access vs Refresh Tokens](https://dev.to/shehzaib_a6fe18283b24772c/jwt-authentication-explained-access-vs-refresh-tokens-4bic)
+- [Day 9 of Documenting my Learning Journey](https://dev.to/james_kabuga/day-9-of-documenting-my-learning-journey-59la)
 <!-- BLOG-POST-LIST:END -->
 
