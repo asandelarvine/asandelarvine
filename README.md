@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes Were Made](https://dev.to/johannesmogashoa/mistakes-were-made-2p8n)
-- [What is Front-End Development and Why It’s the Core of Modern Web Design | Z5 CODE](https://dev.to/z5code/what-is-front-end-development-and-why-its-the-core-of-modern-web-design-z5-code-j38)
-- [JWT Authentication Explained: Access vs Refresh Tokens](https://dev.to/shehzaib_a6fe18283b24772c/jwt-authentication-explained-access-vs-refresh-tokens-4bic)
-- [Day 9 of Documenting my Learning Journey](https://dev.to/james_kabuga/day-9-of-documenting-my-learning-journey-59la)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-200m)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3io9)
+- [Creare una PWA con Laravel e Bootstrap | Building a PWA with Laravel and Bootstrap](https://dev.to/roberto_celano/creare-una-pwa-con-laravel-e-bootstrap-building-a-pwa-with-laravel-and-bootstrap-5epe)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-540l)
 <!-- BLOG-POST-LIST:END -->
 
