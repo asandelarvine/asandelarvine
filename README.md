@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-1j9m)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-47k9)
-- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-3a0f)
-- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-26fl)
+- [FastAPI &amp; PostgreSQL Sharding: A Step-by-Step Guide &lpar;Part 2&rpar; - Step-by-Step Implementation](https://dev.to/artemooon/fastapi-postgresql-sharding-a-step-by-step-guide-part-2-step-by-step-implementation-49k6)
+- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM &amp; Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
+- [Level Up Your DTOs: Pro Techniques for the Symfony ObjectMapper](https://dev.to/mattleads/level-up-your-dtos-pro-techniques-for-the-symfony-objectmapper-5c1a)
+- [I Tried Dozens of Udemy Python Courses — These 5 Instructors Are the Best](https://dev.to/somadevtoo/i-tried-dozens-of-udemy-python-courses-these-5-instructors-are-the-best-22bd)
 <!-- BLOG-POST-LIST:END -->
 
