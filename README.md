@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps Pipeline | Jenkins, Terraform, Docker, Trivy, AWS](https://dev.to/ritesh355/devsecops-pipeline-jenkins-terraform-docker-trivy-aws-3ien)
-- [Observability vs. Monitoring](https://dev.to/godofgeeks/observability-vs-monitoring-18ol)
-- [AngularJS to Angular: A Guide for Hassle-free Migration](https://dev.to/hashbyt/angularjs-to-angular-a-guide-for-hassle-free-migration-57mg)
-- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-4-extract-logic-and-component-from-alert-bar-1in5)
+- [7 Essential Wins: DORA Compliance Cybersecurity 2025](https://dev.to/pentest_testing_corp/7-essential-wins-dora-compliance-cybersecurity-2025-3hhk)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-341p)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3e8c)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-hej)
 <!-- BLOG-POST-LIST:END -->
 
