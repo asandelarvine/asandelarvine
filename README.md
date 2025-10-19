@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Essential Wins: DORA Compliance Cybersecurity 2025](https://dev.to/pentest_testing_corp/7-essential-wins-dora-compliance-cybersecurity-2025-3hhk)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-341p)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3e8c)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-hej)
+- [💻Building and Deploying My First Express API - HNG Stage 0 Task](https://dev.to/fiona_nyadero_0b288495ccc/building-and-deploying-my-first-express-api-hng-stage-0-task-1h6e)
+- [From Web Developer to AI + IoT Research Engineer: My Transition Journey Begins](https://dev.to/rhjoyofficial/from-web-developer-to-ai-iot-research-engineer-my-transition-journey-begins-2nb5)
+- [Building Smart TV Apps Just Got Easier](https://dev.to/foridpathan/building-smart-tv-apps-just-got-easier-2lae)
+- [Why migrate from SAP Hybris to Adobe Commerce?](https://dev.to/ziffity_solutionsllc_353/why-migrate-from-sap-hybris-to-adobe-commerce-1ah7)
 <!-- BLOG-POST-LIST:END -->
 
