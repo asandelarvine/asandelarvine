@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%](https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4)
-- [How to optimize tube ice machine industrial standardization for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13)
-- [Story of Vox](https://dev.to/jamie_davenport/story-of-vox-4dae)
-- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
+- [SEO untuk Developer: Panduan Lengkap dari Nol](https://dev.to/jeremy_defoe_7ad3a5492490/seo-untuk-developer-panduan-lengkap-dari-nol-595e)
+- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
+- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
+- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
 <!-- BLOG-POST-LIST:END -->
 
