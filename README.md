@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-14ok)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1og8)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5ap5)
-- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-21jc)
+- [Reputation-Driven Launches: A Practical PR Playbook for Tech Startups](https://dev.to/sonia_bobrik_1939cdddd79d/reputation-driven-launches-a-practical-pr-playbook-for-tech-startups-4b56)
+- [Trust-First Launch: A Practical PR Playbook for Tech Products &lpar;No Hype, Just Outcomes&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-launch-a-practical-pr-playbook-for-tech-products-no-hype-just-outcomes-1ho6)
+- [Building a Self-Hosted Netlify/Vercel Alternative in Rust: An Architectural Crossroad](https://dev.to/architthegreat/building-a-self-hosted-netlifyvercel-alternative-in-rust-an-architectural-crossroad-2ge5)
+- [Make Your Brand Newsworthy in 2025: A Straight-Talking Playbook for PR That Actually Moves the Needle](https://dev.to/sonia_bobrik_1939cdddd79d/make-your-brand-newsworthy-in-2025-a-straight-talking-playbook-for-pr-that-actually-moves-the-dhj)
 <!-- BLOG-POST-LIST:END -->
 
