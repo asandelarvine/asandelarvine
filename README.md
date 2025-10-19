@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Bicep: Extension and local deploy](https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1)
-- [Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance](https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2)
-- [“Debugging 101: How to Read and Understand Python Error Messages”](https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e)
+- [DevSecOps Pipeline | Jenkins, Terraform, Docker, Trivy, AWS](https://dev.to/ritesh355/devsecops-pipeline-jenkins-terraform-docker-trivy-aws-3ien)
+- [Observability vs. Monitoring](https://dev.to/godofgeeks/observability-vs-monitoring-18ol)
+- [AngularJS to Angular: A Guide for Hassle-free Migration](https://dev.to/hashbyt/angularjs-to-angular-a-guide-for-hassle-free-migration-57mg)
+- [Day 26 - Alert Component Part 5 - Extract logic and component from Alert Bar](https://dev.to/railsstudent/day-26-alert-component-part-4-extract-logic-and-component-from-alert-bar-1in5)
 <!-- BLOG-POST-LIST:END -->
 
