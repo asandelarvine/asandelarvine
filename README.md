@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From HTTP1.1 to HTTP3: The Evolution of Web Communication](https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm)
-- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
+- [My Hacktoberfest 2025 Journey: Contribution Chronicles](https://dev.to/neha_kurian_cfe0bd6a45c17/my-hacktoberfest-2025-journey-contribution-chronicles-5dhi)
+- [Understanding Astro Components - The Heart of Static Site Generation](https://dev.to/lovestaco/understanding-astro-components-the-heart-of-static-site-generation-7ea)
+- [How to Run a React Native App on iPhone](https://dev.to/salatielsql/how-to-run-a-react-native-app-on-iphone-46jp)
+- [WhenCommitsBecomeContent](https://dev.to/brilliantmakanju/whencommitsbecomecontent-379a)
 <!-- BLOG-POST-LIST:END -->
 
