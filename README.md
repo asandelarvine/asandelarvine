@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Next.js Form Validation with @teonord/validator](https://dev.to/jeanduppont/practical-nextjs-form-validation-with-teonordvalidator-30hl)
-- [Supercharge Your Power Query Transformations: A Flexible Function for Changing Column Types](https://dev.to/essam404/supercharge-your-power-query-transformations-a-flexible-function-for-changing-column-types-4e4e)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4aoh)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1eln)
+- [Weekly #42-2025: Code That Proves, Agents That Think, Systems That Last](https://dev.to/weekly/weekly-42-2025-code-that-proves-agents-that-think-systems-that-last-2kin)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
+- [Daily Artificial Intelligence Digest - Oct 19, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-19-2025-3kb8)
+- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
 <!-- BLOG-POST-LIST:END -->
 
