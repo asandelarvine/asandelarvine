@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [** &quot;Ian Khan - Top Keynote Speaker in Montreal, Canada](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-montreal-canada-4amk)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-dj9)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-neb)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a70)
+- [** &quot;Ian Khan - Top Keynote Speaker in Jeddah, Saudi Arabia](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-jeddah-saudi-arabia-m84)
+- [The Fuck Up Ratio: A Measure of Unexpected Risk in Financial Assets and Its Application to Portfolio Allocation](https://dev.to/ryo_suwito/the-fuck-up-ratio-a-measure-of-unexpected-risk-in-financial-assets-and-its-application-to-5ho3)
+- [🚫 Dopamine Detox - How I Rewired My Brain for Focus 💻](https://dev.to/nurthedev/dopamine-detox-how-i-rewired-my-brain-for-focus-553j)
+- [Trump&#39;s Surreal AI Video Sparks Debate on Deepfake Limitations](https://dev.to/mabualzait/trumps-surreal-ai-video-sparks-debate-on-deepfake-limitations-54jh)
 <!-- BLOG-POST-LIST:END -->
 
