@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO untuk Developer: Panduan Lengkap dari Nol](https://dev.to/jeremy_defoe_7ad3a5492490/seo-untuk-developer-panduan-lengkap-dari-nol-595e)
-- [The Naive Bayes Classifier](https://dev.to/carlosrambles/the-naive-bayes-classifier-30kl)
-- [Αρχές Ομαδικής Συνεργασίας και Προϋποθέσεις Προσωπικής Συμμετοχής: Ενίσχυση της Ομαδικότητας και της Αυτοβελτίωσης](https://dev.to/__b63657/arkhes-omadikes-sunergasias-kai-proupotheseis-prosopikes-summetokhes-eniskhuse-tes-omadikotetas-kai-ege)
-- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4e33)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1jdj)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1o95)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2kii)
 <!-- BLOG-POST-LIST:END -->
 
