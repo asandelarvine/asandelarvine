@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If AI scares you, learn software architecture](https://dev.to/koladev/if-ai-scares-you-learn-software-architecture-1nie)
-- [How to Calculate Age Difference Easily Using an Online Age Difference Calculator](https://dev.to/_0dc80c46bb09da5ed27/how-to-calculate-age-difference-easily-using-an-online-age-difference-calculator-ecj)
-- [From Zero to Hello World: My Python Beginner Journey](https://dev.to/sareena_rahim/from-zero-to-hello-world-my-python-beginner-journey-11hc)
-- [AI Deleting Trust](https://dev.to/khalifahks/ai-deleting-trust-391p)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4n58)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1ebe)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5ml)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5419)
 <!-- BLOG-POST-LIST:END -->
 
