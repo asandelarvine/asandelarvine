@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5cnh)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-57e2)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1pji)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5dli)
+- [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
+- [Web Development Discord Server](https://dev.to/faraba2000_8c9cacc0f8d3ae/web-development-discord-server-4m0j)
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
+- [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
 <!-- BLOG-POST-LIST:END -->
 
