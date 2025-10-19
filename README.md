@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Fundamentals: Understanding Containers and the Docker Ecosystem 🐳](https://dev.to/techwithhari/docker-fundamentals-understanding-containers-and-the-docker-ecosystem-3oe6)
-- [# Clara 4.0 – Community Edition: Framework open source para asistentes de IA 🚀](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
-- [Who’s Who in Cybersecurity: Understanding the Different Types of Threat Actors](https://dev.to/ciberconscientes/whos-who-in-cybersecurity-understanding-the-different-types-of-threat-actors-26o5)
-- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
+- [From HTTP1.1 to HTTP3: The Evolution of Web Communication](https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm)
+- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798)
 <!-- BLOG-POST-LIST:END -->
 
