@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reputation-Driven Launches: A Practical PR Playbook for Tech Startups](https://dev.to/sonia_bobrik_1939cdddd79d/reputation-driven-launches-a-practical-pr-playbook-for-tech-startups-4b56)
-- [Trust-First Launch: A Practical PR Playbook for Tech Products &lpar;No Hype, Just Outcomes&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/trust-first-launch-a-practical-pr-playbook-for-tech-products-no-hype-just-outcomes-1ho6)
-- [Building a Self-Hosted Netlify/Vercel Alternative in Rust: An Architectural Crossroad](https://dev.to/architthegreat/building-a-self-hosted-netlifyvercel-alternative-in-rust-an-architectural-crossroad-2ge5)
-- [Make Your Brand Newsworthy in 2025: A Straight-Talking Playbook for PR That Actually Moves the Needle](https://dev.to/sonia_bobrik_1939cdddd79d/make-your-brand-newsworthy-in-2025-a-straight-talking-playbook-for-pr-that-actually-moves-the-dhj)
+- [Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%](https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4)
+- [How to optimize tube ice machine industrial standardization for better productivity?](https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13)
+- [Story of Vox](https://dev.to/jamie_davenport/story-of-vox-4dae)
+- [I&#39;m building an open-source AI ATC for flight sims &lpar;and looking for like-minded devs&rpar;](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5)
 <!-- BLOG-POST-LIST:END -->
 
