@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #42-2025: Code That Proves, Agents That Think, Systems That Last](https://dev.to/weekly/weekly-42-2025-code-that-proves-agents-that-think-systems-that-last-2kin)
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
-- [Daily Artificial Intelligence Digest - Oct 19, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-19-2025-3kb8)
-- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
+- [Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰](https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2)
+- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
+- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
+- [When you opened a screen shot of a video in Paint, the video was playing in it](https://dev.to/technoblogger14o3/when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it-2g2j)
 <!-- BLOG-POST-LIST:END -->
 
