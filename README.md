@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest 2025 Journey: Contribution Chronicles](https://dev.to/neha_kurian_cfe0bd6a45c17/my-hacktoberfest-2025-journey-contribution-chronicles-5dhi)
-- [Understanding Astro Components - The Heart of Static Site Generation](https://dev.to/lovestaco/understanding-astro-components-the-heart-of-static-site-generation-7ea)
-- [How to Run a React Native App on iPhone](https://dev.to/salatielsql/how-to-run-a-react-native-app-on-iphone-46jp)
-- [WhenCommitsBecomeContent](https://dev.to/brilliantmakanju/whencommitsbecomecontent-379a)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5cnh)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-57e2)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1pji)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5dli)
 <!-- BLOG-POST-LIST:END -->
 
