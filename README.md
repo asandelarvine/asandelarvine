@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Being Agile in AI-Native Software Development](https://dev.to/ankudear/being-agile-in-ai-native-software-development-1mhj)
-- [Chat With Any Document Instantly — Meet Pidoca 🚀](https://dev.to/devabusayed/chat-with-any-document-instantly-meet-pidoca-450k)
-- [Die Zukunft von Krypto entscheidet sich über UX — nicht über den nächsten Bullrun](https://dev.to/piwa_lin_8b3155c3dd85f0f9/die-zukunft-von-krypto-entscheidet-sich-uber-ux-nicht-uber-den-nachsten-bullrun-4abl)
-- [ASP .NET Core modals](https://dev.to/karenpayneoregon/asp-net-core-modals-3dlj)
+- [A beginner&#39;s guide to the Kokoro-82m model by Alphanumericuser on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-kokoro-82m-model-by-alphanumericuser-on-replicate-512j)
+- [Probing the Compiler in Autotools](https://dev.to/pauljlucas/probing-the-compiler-in-autotools-576o)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-51d8)
+- [Understanding Strings in Go: Bytes, Runes, and the Truth Behind len](https://dev.to/hugohenrick/understanding-strings-in-go-bytes-runes-and-the-truth-behind-len-3818)
 <!-- BLOG-POST-LIST:END -->
 
