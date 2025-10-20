@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Availability Schema Changes: Rolling Updates with Flyway and Spring Boot](https://dev.to/ijuren/high-availability-schema-changes-rolling-updates-with-flyway-and-spring-boot-4gpa)
-- [Week 5: Dipping into React🎨](https://dev.to/nikhilsharma6/week-5-dipping-into-react-209a)
-- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
-- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
+- [ReactJS Day 2025: TanStack Start &amp; Real World Experiences](https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9)
+- [What I’ve Learned About Enterprise Development in 15 Years](https://dev.to/nigel_t/what-ive-learned-about-enterprise-development-in-15-years-2bap)
+- [🧭 From QA Engineer to Mentor: What I’ve Learned Through ADPList](https://dev.to/dasha_tsion_31379cfb51dd7/from-qa-engineer-to-mentor-what-ive-learned-through-adplist-5fpf)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5)
 <!-- BLOG-POST-LIST:END -->
 
