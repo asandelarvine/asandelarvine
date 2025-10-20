@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zentropy for Laravel: The High-Performance Redis Alternative for Scalable Apps](https://dev.to/arshidkv12/zentropy-for-laravel-the-high-performance-redis-alternative-for-scalable-apps-57n7)
-- [Building a High-Availability Vault Cluster with Docker and Raft Storage](https://dev.to/k5y/building-a-high-availability-vault-cluster-with-docker-and-raft-storage-1931)
-- [The Indispensable Practice of Abstraction: Decoupling Your Frontend Logic from External Libraries](https://dev.to/it-wibrc/the-indispensable-practice-of-abstraction-decoupling-your-frontend-logic-from-external-libraries-40b7)
-- [LATIHAN ANTARMUKA](https://dev.to/sandatya_widhi_ce7cb1c809/latihan-antarmuka-4gdm)
+- [DevCaliber: Redefining Technical Hiring with Auth0 Authenticated AI Agents and Verified GitHub Talent](https://dev.to/divyasinghdev/devcaliber-redefining-technical-hiring-with-auth0-authenticated-ai-agents-and-verified-github-39p7)
+- [Turn Google Docs Into an AI Agent Hub: Integrate ADK Agents in Google Workspace](https://dev.to/aryanirani123/turn-google-docs-into-an-ai-agent-hub-integrate-adk-agents-in-google-workspace-4l6e)
+- [Agentic Workflows inside Google Workspace: Build a Google Docs Agent with ADK](https://dev.to/aryanirani123/agentic-workflows-inside-google-workspace-build-a-google-docs-agent-with-adk-56dc)
+- [How to Deploy ADK Agents to Vertex AI Agent Engine](https://dev.to/aryanirani123/how-to-deploy-adk-agents-to-vertex-ai-agent-engine-447g)
 <!-- BLOG-POST-LIST:END -->
 
