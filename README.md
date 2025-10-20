@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Day 2025: TanStack Start &amp; Real World Experiences](https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9)
-- [What I’ve Learned About Enterprise Development in 15 Years](https://dev.to/nigel_t/what-ive-learned-about-enterprise-development-in-15-years-2bap)
-- [🧭 From QA Engineer to Mentor: What I’ve Learned Through ADPList](https://dev.to/dasha_tsion_31379cfb51dd7/from-qa-engineer-to-mentor-what-ive-learned-through-adplist-5fpf)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5)
+- [How Compression Works on the Web with Gzip and Brotli](https://dev.to/rijultp/how-compression-works-on-the-web-with-gzip-and-brotli-4nn0)
+- [🚀 New AWS Certification Incoming: AWS Certified Generative AI Developer – Professional &lpar;BETA launches November 18th&rpar;](https://dev.to/matisantoro/new-aws-certification-incoming-aws-certified-generative-ai-developer-professional-beta-4h)
+- [From Data to Physics: Building the GNSS Measurement Engine](https://dev.to/pederzoli/from-data-to-physics-building-the-gnss-measurement-engine-2en4)
+- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
 <!-- BLOG-POST-LIST:END -->
 
