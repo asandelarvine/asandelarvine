@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusions of Quality — Episode 9: 🔨 The Toolsmith, Not the Tool: A Tester&#39;s Role in Modern DevOps](https://dev.to/abdulosman/the-illusions-of-quality-episode-9-the-toolsmith-not-the-tool-a-testers-role-in-3fc8)
-- [React Query, Part 1 — The Mental Model &lpar;with running JS examples&rpar;](https://dev.to/picciniuscodes/react-query-part-1-the-mental-model-with-running-js-examples-32e2)
-- [Learning Azure Networking Through Code: My Spring Boot + Terraform Journey](https://dev.to/humza_inam/learning-azure-networking-through-code-my-spring-boot-terraform-journey-4kij)
-- [Smart AI Agent Targeting with MCP Tools](https://dev.to/launchdarkly/smart-ai-agent-targeting-with-mcp-tools-hdn)
+- [🚀 AI-Powered Development &amp; Automation: How AI Is Transforming the Dev Workflow](https://dev.to/softwaredeveloper01/ai-powered-development-automation-how-ai-is-transforming-the-dev-workflow-49hn)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-15f9)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ifh)
+- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-28l0)
 <!-- BLOG-POST-LIST:END -->
 
