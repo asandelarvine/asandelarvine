@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Debounce and Throttle in JavaScript &lpar;Beginner’s Guide to Performance Optimization&rpar;](https://dev.to/wisdomudo/understanding-debounce-and-throttle-in-javascript-beginners-guide-to-performance-optimization-4cjf)
-- [[Boost]](https://dev.to/hadil/-37fi)
-- [connect-two-laptop](https://dev.to/irshad_alam_4416767d67e74/connect-two-laptop-1fng)
-- [Tuya SDK App Migration Guide 2025: How to Move from Tuya OEM App to a Custom SDK App](https://dev.to/zediot/tuya-sdk-app-migration-guide-2025-how-to-move-from-tuya-oem-app-to-a-custom-sdk-app-16jp)
+- [Data Products: Build vs Buy](https://dev.to/audaciatechnology/data-products-build-vs-buy-1c39)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-49il)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-4f8l)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3k3d)
 <!-- BLOG-POST-LIST:END -->
 
