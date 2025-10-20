@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AI-Powered Development &amp; Automation: How AI Is Transforming the Dev Workflow](https://dev.to/softwaredeveloper01/ai-powered-development-automation-how-ai-is-transforming-the-dev-workflow-49hn)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-15f9)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ifh)
-- [COLORS: UMI - 10AM | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-10am-a-colors-show-28l0)
+- [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
+- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
+- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
+- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
 <!-- BLOG-POST-LIST:END -->
 
