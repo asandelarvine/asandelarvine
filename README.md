@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-jib)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-3cf3)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-2f08)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4hkp)
+- [Zentropy for Laravel: The High-Performance Redis Alternative for Scalable Apps](https://dev.to/arshidkv12/zentropy-for-laravel-the-high-performance-redis-alternative-for-scalable-apps-57n7)
+- [Building a High-Availability Vault Cluster with Docker and Raft Storage](https://dev.to/k5y/building-a-high-availability-vault-cluster-with-docker-and-raft-storage-1931)
+- [The Indispensable Practice of Abstraction: Decoupling Your Frontend Logic from External Libraries](https://dev.to/it-wibrc/the-indispensable-practice-of-abstraction-decoupling-your-frontend-logic-from-external-libraries-40b7)
+- [LATIHAN ANTARMUKA](https://dev.to/sandatya_widhi_ce7cb1c809/latihan-antarmuka-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
