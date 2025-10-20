@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Search: Is Google’s AI Revolution Just Beginning? Introduction](https://dev.to/6haz_games_f5157b46c5254f/the-future-of-search-is-googles-ai-revolution-just-beginning-introduction-4ef6)
-- [DeepSeek Does It Again: From MoE to DSA, The New Era of LLM Efficiency](https://dev.to/thedavestack/deepseek-does-it-again-from-moe-to-dsa-the-new-era-of-llm-efficiency-o9h)
-- [Neovim and Unreal Engine Workflow](https://dev.to/thgnommy/neovim-and-unreal-engine-workflow-22p6)
-- [If you are preparing for SAA-C03 exam this is for you a complete IAM guide](https://dev.to/nishath_jp/if-you-are-preparing-for-saa-c03-exam-this-is-for-you-a-complete-iam-guide-2kf5)
+- [Building an AI-Powered Recommendation System with .NET Core and ML.NET](https://dev.to/hamza_zeryouh/building-an-ai-powered-recommendation-system-with-net-core-and-mlnet-ok1)
+- [Processing 10 Million Records with AI on a $1,500 Budget](https://dev.to/itsmstfbysl/processing-10-million-records-with-ai-on-a-1500-budget-222a)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-15m5)
+- [💾 Why I Chose SQLite for My Startup — The Most Underrated Database You&#39;re Probably Ignoring](https://dev.to/kinsly/why-i-chose-sqlite-for-my-startup-the-most-underrated-database-youre-probably-ignoring-21eo)
 <!-- BLOG-POST-LIST:END -->
 
