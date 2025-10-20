@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HashCodex — Building a Distributed, Secure Code Execution Platform Like LeetCode](https://dev.to/shahrohit/hashcodex-building-a-distributed-secure-code-execution-platform-like-leetcode-2gpp)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3582)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-58o3)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-m45)
+- [Why Doesn’t My API Call Wait? — Understanding Promises &amp; Async/Await in JavaScript](https://dev.to/saurav_dev_2022/why-doesnt-my-api-call-wait-understanding-promises-asyncawait-in-javascript-24kf)
+- [Learning CSS feels like learning magic ✨](https://dev.to/surya_13/learning-css-feels-like-learning-magic-4ji2)
+- [ServeSense — Windows SFTP/FTPS/FTP Server with Least-Privilege Setup &lpar;No Admin Needed&rpar;](https://dev.to/ngtduc693/servesense-windows-sftpftpsftp-server-with-least-privilege-setup-no-admin-needed-6k)
+- [AI Absolution: Are Companies Using Automation as a Cop-Out?](https://dev.to/mabualzait/ai-absolution-are-companies-using-automation-as-a-cop-out-fil)
 <!-- BLOG-POST-LIST:END -->
 
