@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Recommendation System with .NET Core and ML.NET](https://dev.to/hamza_zeryouh/building-an-ai-powered-recommendation-system-with-net-core-and-mlnet-ok1)
-- [Processing 10 Million Records with AI on a $1,500 Budget](https://dev.to/itsmstfbysl/processing-10-million-records-with-ai-on-a-1500-budget-222a)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-15m5)
-- [💾 Why I Chose SQLite for My Startup — The Most Underrated Database You&#39;re Probably Ignoring](https://dev.to/kinsly/why-i-chose-sqlite-for-my-startup-the-most-underrated-database-youre-probably-ignoring-21eo)
+- [High-Availability Schema Changes: Rolling Updates with Flyway and Spring Boot](https://dev.to/ijuren/high-availability-schema-changes-rolling-updates-with-flyway-and-spring-boot-4gpa)
+- [Week 5: Dipping into React🎨](https://dev.to/nikhilsharma6/week-5-dipping-into-react-209a)
+- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
+- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
 <!-- BLOG-POST-LIST:END -->
 
