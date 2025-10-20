@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-2fgh)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4741)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-knp)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-fho)
+- [The Future of Search: Is Google’s AI Revolution Just Beginning? Introduction](https://dev.to/6haz_games_f5157b46c5254f/the-future-of-search-is-googles-ai-revolution-just-beginning-introduction-4ef6)
+- [DeepSeek Does It Again: From MoE to DSA, The New Era of LLM Efficiency](https://dev.to/thedavestack/deepseek-does-it-again-from-moe-to-dsa-the-new-era-of-llm-efficiency-o9h)
+- [Neovim and Unreal Engine Workflow](https://dev.to/thgnommy/neovim-and-unreal-engine-workflow-22p6)
+- [If you are preparing for SAA-C03 exam this is for you a complete IAM guide](https://dev.to/nishath_jp/if-you-are-preparing-for-saa-c03-exam-this-is-for-you-a-complete-iam-guide-2kf5)
 <!-- BLOG-POST-LIST:END -->
 
