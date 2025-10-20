@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevCaliber: Redefining Technical Hiring with Auth0 Authenticated AI Agents and Verified GitHub Talent](https://dev.to/divyasinghdev/devcaliber-redefining-technical-hiring-with-auth0-authenticated-ai-agents-and-verified-github-39p7)
-- [Turn Google Docs Into an AI Agent Hub: Integrate ADK Agents in Google Workspace](https://dev.to/aryanirani123/turn-google-docs-into-an-ai-agent-hub-integrate-adk-agents-in-google-workspace-4l6e)
-- [Agentic Workflows inside Google Workspace: Build a Google Docs Agent with ADK](https://dev.to/aryanirani123/agentic-workflows-inside-google-workspace-build-a-google-docs-agent-with-adk-56dc)
-- [How to Deploy ADK Agents to Vertex AI Agent Engine](https://dev.to/aryanirani123/how-to-deploy-adk-agents-to-vertex-ai-agent-engine-447g)
+- [Ditch the Clutter: Instantly Copy Any Webpage as Clean Markdown with cpdown](https://dev.to/githubopensource/ditch-the-clutter-instantly-copy-any-webpage-as-clean-markdown-with-cpdown-3oaf)
+- [从Hyperliquid获取交易数据，计算Sharpe 和 Profit Factor](https://dev.to/dragon72463399/cong-hyperliquidhuo-qu-jiao-yi-shu-ju-ji-suan-sharpe-he-profit-factor-3f3m)
+- [Building a Dynamic Profile API with FastAPI: My HNG Stage 0 Experience](https://dev.to/afeh/building-a-dynamic-profile-api-with-fastapi-my-hng-stage-0-experience-4an4)
+- [🐝 Why Hive Exists - And Why Its Complexity Is Actually Necessary](https://dev.to/mohhddhassan/why-hive-exists-and-why-its-complexity-is-actually-necessary-n92)
 <!-- BLOG-POST-LIST:END -->
 
