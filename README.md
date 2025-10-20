@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Compression Works on the Web with Gzip and Brotli](https://dev.to/rijultp/how-compression-works-on-the-web-with-gzip-and-brotli-4nn0)
-- [🚀 New AWS Certification Incoming: AWS Certified Generative AI Developer – Professional &lpar;BETA launches November 18th&rpar;](https://dev.to/matisantoro/new-aws-certification-incoming-aws-certified-generative-ai-developer-professional-beta-4h)
-- [From Data to Physics: Building the GNSS Measurement Engine](https://dev.to/pederzoli/from-data-to-physics-building-the-gnss-measurement-engine-2en4)
-- [The Great AWS Outage of October 2025: When the Internet&#39;s Backbone Buckled](https://dev.to/1geek/the-great-aws-outage-of-october-2025-when-the-internets-backbone-buckled-207n)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ckl)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-mgp)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-42ep)
+- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-49pm)
 <!-- BLOG-POST-LIST:END -->
 
