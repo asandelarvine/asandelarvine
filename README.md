@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Kokoro-82m model by Alphanumericuser on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-kokoro-82m-model-by-alphanumericuser-on-replicate-512j)
-- [Probing the Compiler in Autotools](https://dev.to/pauljlucas/probing-the-compiler-in-autotools-576o)
-- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-51d8)
-- [Understanding Strings in Go: Bytes, Runes, and the Truth Behind len](https://dev.to/hugohenrick/understanding-strings-in-go-bytes-runes-and-the-truth-behind-len-3818)
+- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
+- [A simple web simulator about chance, mortality, and waiting](https://dev.to/c58_akf_b7c9df8ae6d4c5bc9/a-simple-web-simulator-about-chance-mortality-and-waiting-1dk)
+- [** &quot;Keynote Speaker: The Complete Guide for 2025](https://dev.to/iankhanfuturist/-keynote-speaker-the-complete-guide-for-2025-23il)
+- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
 <!-- BLOG-POST-LIST:END -->
 
