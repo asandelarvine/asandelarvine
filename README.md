@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Pod: Why wasmCloud and WebAssembly Might Be the Next Evolution of the Platform](https://dev.to/ipt/beyond-the-pod-why-wasmcloud-and-webassembly-might-be-the-next-evolution-of-the-platform-1i3e)
-- [React Server Components Are Breaking Production Apps &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/elvissautet/react-server-components-are-breaking-production-apps-and-nobodys-talking-about-it-1dme)
-- [The Philosophy of Vim](https://dev.to/ash_ketchum_ab8cd8dbbf2fe/the-philosophy-of-vim-5i0)
-- [Hacktoberfest 2025: My Open Source Story as an AI Developer](https://dev.to/aniruddhaadak/hacktoberfest-2025-my-open-source-story-as-an-ai-developer-54aa)
+- [💥 Supercharge your Laravel API calls with Http::pool&lpar;&rpar;](https://dev.to/bhaidar/supercharge-your-laravel-api-calls-with-httppool-2cdp)
+- [&quot;#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code&quot;](https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2)
+- [South Africa’s Emerging Tech Renaissance: How Digital Innovation Is Empowering a New African Future](https://dev.to/clicknmedia/south-africas-emerging-tech-renaissance-how-digital-innovation-is-empowering-a-new-african-future-9d5)
+- [Evidence-Based Engineering: How Research Shapes My Full Stack Development Process](https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl)
 <!-- BLOG-POST-LIST:END -->
 
