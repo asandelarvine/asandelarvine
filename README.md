@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop the Command-Line Grind: Boost Your Productivity with IntelliShell](https://dev.to/lasantosr/stop-the-command-line-grind-boost-your-productivity-with-intellishell-2h2o)
-- [🚀 Introducing Agentic Postgres: The First &amp; Free Database Built for Agents](https://dev.to/tigerdata/introducing-agentic-postgres-the-first-free-database-built-for-agents-50i7)
-- [@spexop/react v0.3.1: Building with Primitives-First Philosophy](https://dev.to/olmstedian/spexopreact-v031-building-with-primitives-first-philosophy-1ok3)
-- [JVM, JDK &amp; JRE](https://dev.to/dinesh_g_909f4a82c67f5bbd/jvm-jdk-jre-4mmm)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-3do)
+- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-2pa8)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-34ba)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1c6i)
 <!-- BLOG-POST-LIST:END -->
 
