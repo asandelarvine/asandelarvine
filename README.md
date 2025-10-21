@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-16dp)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gkl)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-h72)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1p6o)
+- [My Phone Does My Work Now — Ai Termux Automation Story 😏](https://dev.to/saadmaqsood/my-phone-does-my-work-now-ai-termux-automation-story-ca9)
+- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
+- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
+- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
 <!-- BLOG-POST-LIST:END -->
 
