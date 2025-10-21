@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [what are intersection type?](https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc)
-- [Things I learned picking up a new language as an adult](https://dev.to/365talents/things-i-learned-picking-up-a-new-language-as-an-adult-52f6)
-- [Why do we need async/await in JavaScript?](https://dev.to/365talents/why-do-we-need-asyncawait-in-javascript-37fe)
-- [🧺 Built-in Data Structures in Java](https://dev.to/mohamad_mhana/built-in-data-structures-in-java-1fl0)
+- [Angular Signals: 5+ Critical Mistakes That Could Break Your App &lpar;And How to Fix Them&rpar;](https://dev.to/codewithrajat/angular-signals-5-critical-mistakes-that-could-break-your-app-and-how-to-fix-them-389g)
+- [MCP server: A step-by-step guide to building from scratch](https://dev.to/chaitrali_kakde/mcp-server-a-step-by-step-guide-to-building-from-scratch-349h)
+- [人为何不能躺平](https://dev.to/woodyxin/ren-wei-he-bu-neng-tang-ping-1ohp)
+- [🎨 My React.js Portfolio Journey: From Learning to Doing](https://dev.to/thiyagu26v/my-reactjs-portfolio-journey-from-learning-to-doing-922)
 <!-- BLOG-POST-LIST:END -->
 
