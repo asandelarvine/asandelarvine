@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Genesis DB Community Edition: Open Access to a Modern Event-Sourcing Database](https://dev.to/patriceckhart/genesis-db-community-edition-open-access-to-a-modern-event-sourcing-database-8p8)
-- [Python basics - Day 11](https://dev.to/ian_b838138a27a917398d181/python-basics-day-11-2e1d)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ppk)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1icb)
+- [Hanno tagliato il pezzo più scomodo.](https://dev.to/beatrice_neri_/hanno-tagliato-il-pezzo-piu-scomodo-3aok)
+- [Why Postmortems Fail and How to Make Them Drive Real Change](https://dev.to/phoenix-incidents/why-postmortems-fail-and-how-to-make-them-drive-real-change-4pkn)
+- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
+- [Analyzing the Best Diagramming Tools for the LLM Age Based on Token Efficiency](https://dev.to/_768dd7ab130016ab8b0a/analyzing-the-best-diagramming-tools-for-the-llm-age-based-on-token-efficiency-5891)
 <!-- BLOG-POST-LIST:END -->
 
