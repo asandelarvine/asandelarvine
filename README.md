@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Achieved 40% Gas Savings with Formal Verification and Merkle Proofs](https://dev.to/chronosvault/how-we-achieved-40-gas-savings-with-formal-verification-and-merkle-proofs-127c)
-- [Untitled](https://dev.to/jair_figueroa_bfbc2fb355e/untitled-1n0l)
-- [Génération de Leads pour Startups Africaines : Pourquoi notre pipeline n&#39;a pas besoin de Salesforce et repose sur WhatsApp](https://dev.to/maxime_dossou_77bbeb5bcc4/generation-de-leads-pour-startups-africaines-pourquoi-notre-pipeline-na-pas-besoin-de-salesforce-1mmf)
-- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
+- [Implementing Dark Mode in a React App](https://dev.to/samanthalaine/implementing-dark-mode-in-a-react-app-3k1a)
+- [An Exploration of the Commercial Iceberg Catalog Ecosystem](https://dev.to/alexmercedcoder/an-exploration-of-the-commercial-iceberg-catalog-ecosystem-4a1i)
+- [Simply Order &lpar;Part 5&rpar; — Hands-On: Building the Outbox Pattern for Reliable Event](https://dev.to/hassan314159/simply-order-part-5-hands-on-building-the-outbox-pattern-for-reliable-event-60n)
+- [Automata Alchemists: Transmuting Reinforcement Learning into State Machines by Arvind Sundararajan](https://dev.to/arvind_sundararajan/automata-alchemists-transmuting-reinforcement-learning-into-state-machines-by-arvind-sundararajan-4pjd)
 <!-- BLOG-POST-LIST:END -->
 
