@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-51gk)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-423p)
-- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-4n7b)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1oc4)
+- [Stop the Command-Line Grind: Boost Your Productivity with IntelliShell](https://dev.to/lasantosr/stop-the-command-line-grind-boost-your-productivity-with-intellishell-2h2o)
+- [🚀 Introducing Agentic Postgres: The First &amp; Free Database Built for Agents](https://dev.to/tigerdata/introducing-agentic-postgres-the-first-free-database-built-for-agents-50i7)
+- [@spexop/react v0.3.1: Building with Primitives-First Philosophy](https://dev.to/olmstedian/spexopreact-v031-building-with-primitives-first-philosophy-1ok3)
+- [JVM, JDK &amp; JRE](https://dev.to/dinesh_g_909f4a82c67f5bbd/jvm-jdk-jre-4mmm)
 <!-- BLOG-POST-LIST:END -->
 
