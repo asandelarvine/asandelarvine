@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Amazon EKS Auto Mode: Let Your Cluster Drive Itself &lpar;So You Can Work on the Fun Stuff&rpar;](https://dev.to/aws-builders/mastering-amazon-eks-auto-mode-let-your-cluster-drive-itself-so-you-can-work-on-the-fun-stuff-279k)
-- [[Boost]](https://dev.to/sivakumar_e/-6pn)
-- [From Words to Intelligence: Understanding NLP and BERT — The Model That Changed Language AI](https://dev.to/sanjida_rezarafa_680f56a/from-words-to-intelligence-understanding-nlp-and-bert-the-model-that-changed-language-ai-373f)
-- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
+- [what are intersection type?](https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc)
+- [Things I learned picking up a new language as an adult](https://dev.to/365talents/things-i-learned-picking-up-a-new-language-as-an-adult-52f6)
+- [Why do we need async/await in JavaScript?](https://dev.to/365talents/why-do-we-need-asyncawait-in-javascript-37fe)
+- [🧺 Built-in Data Structures in Java](https://dev.to/mohamad_mhana/built-in-data-structures-in-java-1fl0)
 <!-- BLOG-POST-LIST:END -->
 
