@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-3bp6)
-- [The Architectural Shift of the Model Context Protocol](https://dev.to/onlineproxy/the-architectural-shift-of-the-model-context-protocol-1ao2)
-- [Untitled](https://dev.to/eren_ymrk_07a82a9fca5164c/untitled-4ah8)
-- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
+- [How We Achieved 40% Gas Savings with Formal Verification and Merkle Proofs](https://dev.to/chronosvault/how-we-achieved-40-gas-savings-with-formal-verification-and-merkle-proofs-127c)
+- [Untitled](https://dev.to/jair_figueroa_bfbc2fb355e/untitled-1n0l)
+- [Génération de Leads pour Startups Africaines : Pourquoi notre pipeline n&#39;a pas besoin de Salesforce et repose sur WhatsApp](https://dev.to/maxime_dossou_77bbeb5bcc4/generation-de-leads-pour-startups-africaines-pourquoi-notre-pipeline-na-pas-besoin-de-salesforce-1mmf)
+- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
 <!-- BLOG-POST-LIST:END -->
 
