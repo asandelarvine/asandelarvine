@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Ways to Tame GitHub Action Workflows](https://dev.to/jlarky/modern-ways-to-tame-github-action-workflows-4006)
-- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
-- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
-- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
+- [Slaydover: Responsive Overlay &amp; Drawer Component for Vue and Nuxt](https://dev.to/jqueryscript/slaydover-responsive-overlay-drawer-component-for-vue-and-nuxt-1i63)
+- [How to Structure Your Spring Boot Project for Clean, Scalable Code](https://dev.to/hbetabessi/how-to-structure-your-spring-boot-project-for-clean-scalable-code-2oha)
+- [Code Reading Analysis: Understanding the Repomix Compress Feature](https://dev.to/oleksandrakordonets/code-reading-analysis-understanding-the-repomix-compress-feature-264p)
+- [Integración PayPal-NEQUI: Análisis Técnico y Arquitectura de Pagos](https://dev.to/huyen_hanhpham_11b4f63234/integracion-paypal-nequi-analisis-tecnico-y-arquitectura-de-pagos-6hh)
 <!-- BLOG-POST-LIST:END -->
 
