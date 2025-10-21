@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💀 “When the pumpkin bursts, the night begins...” 🌌](https://dev.to/arun_shree_f1f5aaeb31d362/when-the-pumpkin-bursts-the-night-begins-b7f)
-- [Scikit-Learn 4-Step Path: Mastering Classification with Naive Bayes, SVM, and Essential Metrics](https://dev.to/labex/scikit-learn-4-step-path-mastering-classification-with-naive-bayes-svm-and-essential-metrics-p8i)
-- [The Programmer’s Nightmare: How to Deal with Legacy Code?](https://dev.to/lamri_abdellahramdane_15/the-programmers-nightmare-how-to-deal-with-legacy-code-5ek0)
-- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
+- [Genesis DB Community Edition: Open Access to a Modern Event-Sourcing Database](https://dev.to/patriceckhart/genesis-db-community-edition-open-access-to-a-modern-event-sourcing-database-8p8)
+- [Python basics - Day 11](https://dev.to/ian_b838138a27a917398d181/python-basics-day-11-2e1d)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ppk)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1icb)
 <!-- BLOG-POST-LIST:END -->
 
