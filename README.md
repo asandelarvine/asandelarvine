@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hanno tagliato il pezzo più scomodo.](https://dev.to/beatrice_neri_/hanno-tagliato-il-pezzo-piu-scomodo-3aok)
-- [Why Postmortems Fail and How to Make Them Drive Real Change](https://dev.to/phoenix-incidents/why-postmortems-fail-and-how-to-make-them-drive-real-change-4pkn)
-- [Building an AI Scoring Agent: Step-By-Step](https://dev.to/jessesbyers/building-an-ai-scoring-agent-step-by-step-3cbn)
-- [Analyzing the Best Diagramming Tools for the LLM Age Based on Token Efficiency](https://dev.to/_768dd7ab130016ab8b0a/analyzing-the-best-diagramming-tools-for-the-llm-age-based-on-token-efficiency-5891)
+- [KEXP: Adrian Quesada - No Juego/ Ídolo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-adrian-quesada-no-juego-idolo-live-on-kexp-3bp6)
+- [The Architectural Shift of the Model Context Protocol](https://dev.to/onlineproxy/the-architectural-shift-of-the-model-context-protocol-1ao2)
+- [Untitled](https://dev.to/eren_ymrk_07a82a9fca5164c/untitled-4ah8)
+- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
 <!-- BLOG-POST-LIST:END -->
 
