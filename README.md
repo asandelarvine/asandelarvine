@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Phone Does My Work Now — Ai Termux Automation Story 😏](https://dev.to/saadmaqsood/my-phone-does-my-work-now-ai-termux-automation-story-ca9)
-- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
-- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
-- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
+- [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
+- [Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/understanding-path-analysis-in-r-origins-applications-and-real-world-case-studies-3g2e)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-35p8)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-4pi3)
 <!-- BLOG-POST-LIST:END -->
 
