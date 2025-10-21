@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Angular State Management with Signals and Dependency Injection](https://dev.to/nhannguyenuri/modern-angular-state-management-with-signals-and-dependency-injection-391p)
-- [Is DeepSeek-OCR&#39;s 10x Token Breakthrough Making RAG Obsolete for AI Agents?](https://dev.to/jovin_george_733dcfc16291/is-deepseek-ocrs-10x-token-breakthrough-making-rag-obsolete-for-ai-agents-17l5)
-- [Cryptography: The Hidden Engine Powering Web3](https://dev.to/muhsindev/cryptography-the-hidden-engine-powering-web3-7m5)
-- [Deploy a Full-Stack AI Assistant on Vercel With One Click](https://dev.to/ashford_ai/deploy-a-full-stack-ai-assistant-on-vercel-with-one-click-319d)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-16dp)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gkl)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-h72)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1p6o)
 <!-- BLOG-POST-LIST:END -->
 
