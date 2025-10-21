@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals: 5+ Critical Mistakes That Could Break Your App &lpar;And How to Fix Them&rpar;](https://dev.to/codewithrajat/angular-signals-5-critical-mistakes-that-could-break-your-app-and-how-to-fix-them-389g)
-- [MCP server: A step-by-step guide to building from scratch](https://dev.to/chaitrali_kakde/mcp-server-a-step-by-step-guide-to-building-from-scratch-349h)
-- [人为何不能躺平](https://dev.to/woodyxin/ren-wei-he-bu-neng-tang-ping-1ohp)
-- [🎨 My React.js Portfolio Journey: From Learning to Doing](https://dev.to/thiyagu26v/my-reactjs-portfolio-journey-from-learning-to-doing-922)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-51gk)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-423p)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-4n7b)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1oc4)
 <!-- BLOG-POST-LIST:END -->
 
