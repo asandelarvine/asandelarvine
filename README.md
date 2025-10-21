@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-3do)
-- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-2pa8)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-34ba)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1c6i)
+- [💀 “When the pumpkin bursts, the night begins...” 🌌](https://dev.to/arun_shree_f1f5aaeb31d362/when-the-pumpkin-bursts-the-night-begins-b7f)
+- [Scikit-Learn 4-Step Path: Mastering Classification with Naive Bayes, SVM, and Essential Metrics](https://dev.to/labex/scikit-learn-4-step-path-mastering-classification-with-naive-bayes-svm-and-essential-metrics-p8i)
+- [The Programmer’s Nightmare: How to Deal with Legacy Code?](https://dev.to/lamri_abdellahramdane_15/the-programmers-nightmare-how-to-deal-with-legacy-code-5ek0)
+- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
 <!-- BLOG-POST-LIST:END -->
 
