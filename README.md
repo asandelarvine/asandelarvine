@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future Is Walkable: How to Design Streets, Apps, and Policies That Put People First](https://dev.to/sonia_bobrik_1939cdddd79d/the-future-is-walkable-how-to-design-streets-apps-and-policies-that-put-people-first-1oh1)
-- [Understanding Path Analysis in R: Origins, Applications, and Real-World Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/understanding-path-analysis-in-r-origins-applications-and-real-world-case-studies-3g2e)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-35p8)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-4pi3)
+- [Mastering Amazon EKS Auto Mode: Let Your Cluster Drive Itself &lpar;So You Can Work on the Fun Stuff&rpar;](https://dev.to/aws-builders/mastering-amazon-eks-auto-mode-let-your-cluster-drive-itself-so-you-can-work-on-the-fun-stuff-279k)
+- [[Boost]](https://dev.to/sivakumar_e/-6pn)
+- [From Words to Intelligence: Understanding NLP and BERT — The Model That Changed Language AI](https://dev.to/sanjida_rezarafa_680f56a/from-words-to-intelligence-understanding-nlp-and-bert-the-model-that-changed-language-ai-373f)
+- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
 <!-- BLOG-POST-LIST:END -->
 
