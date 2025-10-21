@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
-- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
-- [10 XAML Binding Pitfalls That Trip Up Even Experienced .NET Developers](https://dev.to/uno-platform/10-xaml-binding-pitfalls-that-trip-up-even-experienced-net-developers-3d3p)
-- [🚀 From DevOps Executors to Platform Enablers](https://dev.to/danielschmidtdo/from-devops-executors-to-platform-enablers-2l0l)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1pop)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-3gko)
+- [Cercle: OFF STAGE WITH WhoMadeWho &amp; Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-24h)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-cec)
 <!-- BLOG-POST-LIST:END -->
 
