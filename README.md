@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Supercharge your Laravel API calls with Http::pool&lpar;&rpar;](https://dev.to/bhaidar/supercharge-your-laravel-api-calls-with-httppool-2cdp)
-- [&quot;#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code&quot;](https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2)
-- [South Africa’s Emerging Tech Renaissance: How Digital Innovation Is Empowering a New African Future](https://dev.to/clicknmedia/south-africas-emerging-tech-renaissance-how-digital-innovation-is-empowering-a-new-african-future-9d5)
-- [Evidence-Based Engineering: How Research Shapes My Full Stack Development Process](https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl)
+- [Modern Angular State Management with Signals and Dependency Injection](https://dev.to/nhannguyenuri/modern-angular-state-management-with-signals-and-dependency-injection-391p)
+- [Is DeepSeek-OCR&#39;s 10x Token Breakthrough Making RAG Obsolete for AI Agents?](https://dev.to/jovin_george_733dcfc16291/is-deepseek-ocrs-10x-token-breakthrough-making-rag-obsolete-for-ai-agents-17l5)
+- [Cryptography: The Hidden Engine Powering Web3](https://dev.to/muhsindev/cryptography-the-hidden-engine-powering-web3-7m5)
+- [Deploy a Full-Stack AI Assistant on Vercel With One Click](https://dev.to/ashford_ai/deploy-a-full-stack-ai-assistant-on-vercel-with-one-click-319d)
 <!-- BLOG-POST-LIST:END -->
 
