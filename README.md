@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Claude Code with GitHub Copilot Subscription](https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj)
-- [Open-Source Cypress Testing Project – 40+ UI Test Cases!](https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76)
-- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
-- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
+- [Fumadocs is launching on Product Hunt today. OSS ftw!](https://dev.to/fmerian/fumadocs-is-launching-on-product-hunt-today-oss-ftw-3mnj)
+- [Microservices with Node.js](https://dev.to/godofgeeks/microservices-with-nodejs-56ce)
+- [Mind Backlog: a sprint for your brain](https://dev.to/cloutboi/mind-backlog-a-sprint-for-your-brain-1ofg)
+- [The Rise of the Solo Tech Team: Building Startups Without a Team](https://dev.to/dct_technology/the-rise-of-the-solo-tech-team-building-startups-without-a-team-2p7k)
 <!-- BLOG-POST-LIST:END -->
 
