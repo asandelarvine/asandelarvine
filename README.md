@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
-- [3347. Maximum Frequency of an Element After Performing Operations II](https://dev.to/mdarifulhaque/3347-maximum-frequency-of-an-element-after-performing-operations-ii-2nd9)
-- [🏗️ Vector Database Architecture: How to Structure Your Data for Production RAG Systems](https://dev.to/qvfagundes/vector-database-architecture-how-to-structure-your-data-for-production-rag-systems-2f4a)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
+- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
+- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
+- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
+- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
 <!-- BLOG-POST-LIST:END -->
 
