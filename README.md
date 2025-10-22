@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The `concerns/` Folder: A Loom of Architecture or a Digital Junk Drawer?](https://dev.to/alex_aslam/the-concerns-folder-a-loom-of-architecture-or-a-digital-junk-drawer-293p)
-- [🚀 Leveling Up with Supabase RPC — My “Sell Honey” Transaction Journey](https://dev.to/workfromhome130/leveling-up-with-supabase-rpc-my-sell-honey-transaction-journey-24l0)
-- [Methods and Functions in Java](https://dev.to/masteringbackend/methods-and-functions-in-java-5fo9)
-- [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
+- [Beyond the basics: 21 TypeScript features you might not know about](https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn)
+- [**Beyond Binary RAG: Enhancing Decision-Making with Nuanced](https://dev.to/drcarlosruizviquez/beyond-binary-rag-enhancing-decision-making-with-nuanced-4501)
+- [Enhance Your SMS Communication with Automatic OPT-OUT Handling](https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-4idl)
+- [The debate surrounding AI-powered ad personalization has spa](https://dev.to/drcarlosruizviquez/the-debate-surrounding-ai-powered-ad-personalization-has-spa-73m)
 <!-- BLOG-POST-LIST:END -->
 
