@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fumadocs is launching on Product Hunt today. OSS ftw!](https://dev.to/fmerian/fumadocs-is-launching-on-product-hunt-today-oss-ftw-3mnj)
-- [Microservices with Node.js](https://dev.to/godofgeeks/microservices-with-nodejs-56ce)
-- [Mind Backlog: a sprint for your brain](https://dev.to/cloutboi/mind-backlog-a-sprint-for-your-brain-1ofg)
-- [The Rise of the Solo Tech Team: Building Startups Without a Team](https://dev.to/dct_technology/the-rise-of-the-solo-tech-team-building-startups-without-a-team-2p7k)
+- [Webinar: Embed eSignature Workflows in Your .NET App](https://dev.to/boldsign/webinar-embed-esignature-workflows-in-your-net-app-56cd)
+- [Missing important lecture content? I spent 100+ hours testing transcription tools so you don&#39;t have to. Here&#39;s your complete guide to recording lectures legally, choosing the right AI tools, and turning audio into study gold—whether you&#39;re pre-med, interna](https://dev.to/nevercap/missing-important-lecture-content-i-spent-100-hours-testing-transcription-tools-so-you-dont-have-2o8)
+- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
+- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
 <!-- BLOG-POST-LIST:END -->
 
