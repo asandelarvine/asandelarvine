@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Symfony CORS OPTIONS Errors: A Pro-Tip on Event Listeners &lpar;No Bundle Needed!&rpar;](https://dev.to/andreagelmini/fixing-symfony-cors-options-errors-a-pro-tip-on-event-listeners-no-bundle-needed-1klj)
-- [Auth Explained &lpar;Part 1&rpar;: ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do &lpar;and why localStorage is a trap&rpar;](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
-- [How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?](https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c)
-- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak)
+- [RAG vs Memory for AI Agents: What’s the Difference](https://dev.to/bobur/rag-vs-memory-for-ai-agents-whats-the-difference-2ad0)
+- [From Fast Code to Reliable Software: A Framework for AI-Assisted Development](https://dev.to/stanislav_komarovsky_b478/from-fast-code-to-reliable-software-a-framework-for-ai-assisted-development-2dle)
+- [Integrating SAPs](https://dev.to/ornella_fabbri/integrating-sap-51k4)
+- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
 <!-- BLOG-POST-LIST:END -->
 
