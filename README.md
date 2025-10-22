@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the basics: 21 TypeScript features you might not know about](https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn)
-- [**Beyond Binary RAG: Enhancing Decision-Making with Nuanced](https://dev.to/drcarlosruizviquez/beyond-binary-rag-enhancing-decision-making-with-nuanced-4501)
-- [Enhance Your SMS Communication with Automatic OPT-OUT Handling](https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-4idl)
-- [The debate surrounding AI-powered ad personalization has spa](https://dev.to/drcarlosruizviquez/the-debate-surrounding-ai-powered-ad-personalization-has-spa-73m)
+- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
+- [3347. Maximum Frequency of an Element After Performing Operations II](https://dev.to/mdarifulhaque/3347-maximum-frequency-of-an-element-after-performing-operations-ii-2nd9)
+- [🏗️ Vector Database Architecture: How to Structure Your Data for Production RAG Systems](https://dev.to/qvfagundes/vector-database-architecture-how-to-structure-your-data-for-production-rag-systems-2f4a)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
 <!-- BLOG-POST-LIST:END -->
 
