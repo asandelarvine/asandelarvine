@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mystic Writer : An Experiment on Agentic Development 🤖⚡](https://dev.to/abiji-2020/mystic-writer-an-experiment-on-agentic-development-194)
-- [Is Your OpenAI Bill Giving You Nightmares? I Built a Tool to Help](https://dev.to/jrmromao/is-your-openai-bill-giving-you-nightmares-i-built-a-tool-to-help-4pnn)
-- [Why Choosing the Fastest WordPress Hosting Is Crucial for Performance and Security](https://dev.to/roconpaas/why-choosing-the-fastest-wordpress-hosting-is-crucial-for-performance-and-security-haa)
-- [Understanding the Core Principles of Effective SaaS UI/UX Design](https://dev.to/lollypopdesign/understanding-the-core-principles-of-effective-saas-uiux-design-1o92)
+- [Data Analysis &amp; Visualization with Python: Bank Marketing Dataset Tutorial &lpar;Part 1&rpar;](https://dev.to/franklinmayoyo/data-analysis-visualization-with-python-bank-marketing-dataset-tutorial-part-1-4jj)
+- [Java Try-With-Resources: Stop Messy Code &amp; Master Clean Resource Management](https://dev.to/satyam_gupta_0d1ff2152dcc/java-try-with-resources-stop-messy-code-master-clean-resource-management-b85)
+- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
 <!-- BLOG-POST-LIST:END -->
 
