@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analysis &amp; Visualization with Python: Bank Marketing Dataset Tutorial &lpar;Part 1&rpar;](https://dev.to/franklinmayoyo/data-analysis-visualization-with-python-bank-marketing-dataset-tutorial-part-1-4jj)
-- [Java Try-With-Resources: Stop Messy Code &amp; Master Clean Resource Management](https://dev.to/satyam_gupta_0d1ff2152dcc/java-try-with-resources-stop-messy-code-master-clean-resource-management-b85)
-- [Automating MySQL Backups and Imports in Laravel with Artisan Commands](https://dev.to/edgaras/automating-mysql-backups-and-imports-in-laravel-with-artisan-commands-1fcn)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
+- [Fixing Symfony CORS OPTIONS Errors: A Pro-Tip on Event Listeners &lpar;No Bundle Needed!&rpar;](https://dev.to/andreagelmini/fixing-symfony-cors-options-errors-a-pro-tip-on-event-listeners-no-bundle-needed-1klj)
+- [Auth Explained &lpar;Part 1&rpar;: ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do &lpar;and why localStorage is a trap&rpar;](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
+- [How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?](https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c)
+- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak)
 <!-- BLOG-POST-LIST:END -->
 
