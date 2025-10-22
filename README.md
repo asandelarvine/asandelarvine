@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor AI meets design-aware context](https://dev.to/knowis/cursor-ai-meets-design-aware-context-29ij)
-- [“Don’t Chain Yourself Down — Graph It Out! 🔗 &lpar;LangGraph, Memory, and the Future of AI Workflows&rpar;”](https://dev.to/bhankee/dont-chain-yourself-down-graph-it-out-langgraph-memory-and-the-future-of-ai-workflows-1i4f)
-- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
-- [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
+- [How to Change a Logged-In User’s Password and Log Out All Active Sessions in Supabase](https://dev.to/shams_farabii/how-to-change-a-logged-in-users-password-and-log-out-all-active-sessions-in-supabase-429d)
+- [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-49o5)
+- [From Dev to DevOps](https://dev.to/leading-edje/from-dev-to-devops-ib2)
 <!-- BLOG-POST-LIST:END -->
 
