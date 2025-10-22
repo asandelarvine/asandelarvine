@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
-- [Optimistic Superposition: A Quantum Leap for AI?](https://dev.to/arvind_sundararajan/optimistic-superposition-a-quantum-leap-for-ai-4me3)
-- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
-- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
+- [Building Wallet Peep: A Real-Time Blockchain Wallet Tracker on Telegram Using Polkadot API &lpar;PAPI&rpar;](https://dev.to/0xtemi/building-wallet-peep-a-real-time-blockchain-wallet-tracker-on-telegram-using-polkadot-api-papi-33b7)
+- [The Beta-Rho Orthogonality &lpar;BRO&rpar; Score: A Framework for Detecting Regime Stationarity and Structural Relationships](https://dev.to/ryo_suwito/the-beta-rho-orthogonality-bro-score-a-framework-for-detecting-regime-stationarity-and-4aam)
+- [How to actually Create a Portfolio That Gets You Hired &lpar;Even Without Experience&rpar;](https://dev.to/golden_builds/how-to-actually-create-a-portfolio-that-gets-you-hired-even-without-experience-1pf1)
+- [11 Best Kotlin Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-kotlin-courses-to-learn-in-2026-5a80)
 <!-- BLOG-POST-LIST:END -->
 
