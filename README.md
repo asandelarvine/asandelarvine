@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-gck)
-- [Como construí um Sistema de Controle Financeiro usando APENAS S3 &lpar;sem PostgreSQL!&rpar;](https://dev.to/mcruvinel/como-construi-um-sistema-de-controle-financeiro-usando-apenas-s3-sem-postgresql-2iec)
-- [Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search](https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-4g2o)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-311m)
+- [Are Large Language Models the Steam Engine of My Time? And, if so, am I the John Henry of this tale?](https://dev.to/skullzarmy/are-large-language-models-the-steam-engine-of-my-time-and-if-so-am-i-the-john-henry-of-this-tale-45gi)
+- [The Stained-Glass Artisan: Composing UIs with Turbo Frames](https://dev.to/alex_aslam/the-stained-glass-artisan-composing-uis-with-turbo-frames-171f)
+- [Day 1256 : Place To Be](https://dev.to/dwane/day-1256-place-to-be-1mj9)
+- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
 <!-- BLOG-POST-LIST:END -->
 
