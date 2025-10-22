@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG vs Memory for AI Agents: What’s the Difference](https://dev.to/bobur/rag-vs-memory-for-ai-agents-whats-the-difference-2ad0)
-- [From Fast Code to Reliable Software: A Framework for AI-Assisted Development](https://dev.to/stanislav_komarovsky_b478/from-fast-code-to-reliable-software-a-framework-for-ai-assisted-development-2dle)
-- [Integrating SAPs](https://dev.to/ornella_fabbri/integrating-sap-51k4)
-- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
+- [Khủng hoảng nghề nghiệp tuổi 30](https://dev.to/kelvynthai/khung-hoang-nghe-nghiep-tuoi-30-1e8g)
+- [El lenguaje de programación perfecto](https://dev.to/baltasarq/el-lenguaje-de-programacion-perfecto-2e1l)
+- [Machine Learning Zoomcamp Week 4](https://dev.to/ladys/machine-learning-zoomcamp-week-4-5cil)
+- [Realtime Event-Driven Applications with AppSync Events and EventBridge Pipes](https://dev.to/ianbrumby/-49io)
 <!-- BLOG-POST-LIST:END -->
 
