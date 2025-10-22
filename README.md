@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Wallet Peep: A Real-Time Blockchain Wallet Tracker on Telegram Using Polkadot API &lpar;PAPI&rpar;](https://dev.to/0xtemi/building-wallet-peep-a-real-time-blockchain-wallet-tracker-on-telegram-using-polkadot-api-papi-33b7)
-- [The Beta-Rho Orthogonality &lpar;BRO&rpar; Score: A Framework for Detecting Regime Stationarity and Structural Relationships](https://dev.to/ryo_suwito/the-beta-rho-orthogonality-bro-score-a-framework-for-detecting-regime-stationarity-and-4aam)
-- [How to actually Create a Portfolio That Gets You Hired &lpar;Even Without Experience&rpar;](https://dev.to/golden_builds/how-to-actually-create-a-portfolio-that-gets-you-hired-even-without-experience-1pf1)
-- [11 Best Kotlin Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-kotlin-courses-to-learn-in-2026-5a80)
+- [Using Claude Code with GitHub Copilot Subscription](https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj)
+- [Open-Source Cypress Testing Project – 40+ UI Test Cases!](https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76)
+- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe)
+- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67)
 <!-- BLOG-POST-LIST:END -->
 
