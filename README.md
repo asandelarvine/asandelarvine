@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-3ba9)
-- [When Murphy Meets Terraform: The Tale of a Simple Guard That Saved My Friday](https://dev.to/mobilitydata/when-murphy-meets-terraform-the-tale-of-a-simple-guard-that-saved-my-friday-23gg)
-- [Decoupling at Scale: My Deep Dive into AWS Event-Driven Architecture &lpar;API Gateway, EventBridge, SQS&rpar;](https://dev.to/asimmakes/decoupling-at-scale-my-deep-dive-into-aws-event-driven-architecture-api-gateway-eventbridge-sqs-4a90)
-- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
+- [Despliega Agentes de IA con memoria a largo plazo a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-con-memoria-a-largo-plazo-a-produccion-en-15-minutos-sin-docker-sin-1l5c)
+- [Fight the Future: The Anti-AI Reflex](https://dev.to/p3ngu1nzz/fight-the-future-the-anti-ai-reflex-6db)
+- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n)
+- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-1h1b)
 <!-- BLOG-POST-LIST:END -->
 
