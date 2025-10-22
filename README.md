@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Webinar: Embed eSignature Workflows in Your .NET App](https://dev.to/boldsign/webinar-embed-esignature-workflows-in-your-net-app-56cd)
-- [Missing important lecture content? I spent 100+ hours testing transcription tools so you don&#39;t have to. Here&#39;s your complete guide to recording lectures legally, choosing the right AI tools, and turning audio into study gold—whether you&#39;re pre-med, interna](https://dev.to/nevercap/missing-important-lecture-content-i-spent-100-hours-testing-transcription-tools-so-you-dont-have-2o8)
-- [@Value Annotation in Spring boot](https://dev.to/gaurbprajapati/value-annotation-in-spring-boot-1clf)
-- [Angular Library Linking Made Easy: Paths, Workspaces, and Symlinks](https://dev.to/sumthedeveloperwastaken/angular-library-linking-made-easy-paths-workspaces-and-symlinks-284d)
+- [🚨 Why Production-Grade Logging Isn’t Optional: A Technical Deep Dive 🔍](https://dev.to/ajayagrawal/why-production-grade-logging-isnt-optional-a-technical-deep-dive-1m93)
+- [The 24-Hour SaaS Breach Playbook, Powered by AI &lpar;But Rooted in Operational Discipline&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-24-hour-saas-breach-playbook-powered-by-ai-but-rooted-in-operational-discipline-5c2m)
+- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
+- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
 <!-- BLOG-POST-LIST:END -->
 
