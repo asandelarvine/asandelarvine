@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
-- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
+- [Kubernetes Storage: Trading a Ferrari for a Reliable Minivan.](https://dev.to/adebayoomolumo/kubernetes-storage-trading-a-ferrari-for-a-reliable-minivan-4hfg)
+- [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
+- [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
+- [Learning](https://dev.to/maccus440/learning-2i14)
 <!-- BLOG-POST-LIST:END -->
 
