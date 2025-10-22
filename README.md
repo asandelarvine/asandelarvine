@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Change a Logged-In User’s Password and Log Out All Active Sessions in Supabase](https://dev.to/shams_farabii/how-to-change-a-logged-in-users-password-and-log-out-all-active-sessions-in-supabase-429d)
-- [How I added Parallel Routing to React Router v6 — Introducing parallel-router 🚀](https://dev.to/imsalekin/how-i-added-parallel-routing-to-react-router-v6-introducing-parallel-router-30aj)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-49o5)
-- [From Dev to DevOps](https://dev.to/leading-edje/from-dev-to-devops-ib2)
+- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-3ba9)
+- [When Murphy Meets Terraform: The Tale of a Simple Guard That Saved My Friday](https://dev.to/mobilitydata/when-murphy-meets-terraform-the-tale-of-a-simple-guard-that-saved-my-friday-23gg)
+- [Decoupling at Scale: My Deep Dive into AWS Event-Driven Architecture &lpar;API Gateway, EventBridge, SQS&rpar;](https://dev.to/asimmakes/decoupling-at-scale-my-deep-dive-into-aws-event-driven-architecture-api-gateway-eventbridge-sqs-4a90)
+- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
 <!-- BLOG-POST-LIST:END -->
 
