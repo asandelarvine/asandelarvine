@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Despliega Agentes de IA con memoria a largo plazo a Producción en 15 Minutos &lpar;Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza&rpar;](https://dev.to/aws-espanol/despliega-agentes-de-ia-con-memoria-a-largo-plazo-a-produccion-en-15-minutos-sin-docker-sin-1l5c)
-- [Fight the Future: The Anti-AI Reflex](https://dev.to/p3ngu1nzz/fight-the-future-the-anti-ai-reflex-6db)
-- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n)
-- [Testing Oxide CMS to Dev.to Integration](https://dev.to/richet/testing-oxide-cms-to-devto-integration-1h1b)
+- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
+- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
+- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
 <!-- BLOG-POST-LIST:END -->
 
