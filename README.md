@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Why Production-Grade Logging Isn’t Optional: A Technical Deep Dive 🔍](https://dev.to/ajayagrawal/why-production-grade-logging-isnt-optional-a-technical-deep-dive-1m93)
-- [The 24-Hour SaaS Breach Playbook, Powered by AI &lpar;But Rooted in Operational Discipline&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-24-hour-saas-breach-playbook-powered-by-ai-but-rooted-in-operational-discipline-5c2m)
-- [Understanding Chrome Extensions: A Developer&#39;s Guide to Manifest V3](https://dev.to/javediqbal8381/understanding-chrome-extensions-a-developers-guide-to-manifest-v3-233l)
-- [C#: Split Excel Worksheet into Multiple Files](https://dev.to/yahey/c-split-excel-worksheet-into-multiple-files-4gk4)
+- [Mystic Writer : An Experiment on Agentic Development 🤖⚡](https://dev.to/abiji-2020/mystic-writer-an-experiment-on-agentic-development-194)
+- [Is Your OpenAI Bill Giving You Nightmares? I Built a Tool to Help](https://dev.to/jrmromao/is-your-openai-bill-giving-you-nightmares-i-built-a-tool-to-help-4pnn)
+- [Why Choosing the Fastest WordPress Hosting Is Crucial for Performance and Security](https://dev.to/roconpaas/why-choosing-the-fastest-wordpress-hosting-is-crucial-for-performance-and-security-haa)
+- [Understanding the Core Principles of Effective SaaS UI/UX Design](https://dev.to/lollypopdesign/understanding-the-core-principles-of-effective-saas-uiux-design-1o92)
 <!-- BLOG-POST-LIST:END -->
 
