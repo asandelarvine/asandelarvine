@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Storage: Trading a Ferrari for a Reliable Minivan.](https://dev.to/adebayoomolumo/kubernetes-storage-trading-a-ferrari-for-a-reliable-minivan-4hfg)
-- [React &lt;Activity /&gt; component](https://dev.to/sensorario/react-component-26h3)
-- [8 Things You Should Know About Responsive Web Design](https://dev.to/rafsan-jany-ratul/8-things-you-should-know-about-responsive-web-design-34g2)
-- [Learning](https://dev.to/maccus440/learning-2i14)
+- [Why Rust&#39;s Binary Protection Actually Matters &lpar;Yes, Even For You&rpar;](https://dev.to/dev-tngsh/why-rusts-binary-protection-actually-matters-yes-even-for-you-4f8g)
+- [Frontend architecture. Introduction.](https://dev.to/nefedov-dm/frontend-architecture-introduction-408f)
+- [Building Reproducible n8n Environments with CLI-Based Configuration Management](https://dev.to/alexretana/building-reproducible-n8n-environments-with-cli-based-configuration-management-2hi)
+- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
 <!-- BLOG-POST-LIST:END -->
 
