@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating API Testing with Open Source Testing Tools: Best Practices and Tips](https://dev.to/sophielane/automating-api-testing-with-open-source-testing-tools-best-practices-and-tips-2b2o)
-- [Transparent Fee Structure at One of the Best Schools in Ludhiana](https://dev.to/ipssschool/transparent-fee-structure-at-one-of-the-best-schools-in-ludhiana-5182)
-- [What Is A DMARC? How It Protects Your Domain From Phishing And Spoofing](https://dev.to/inspireme_labs_e6af6b7b69/what-is-a-dmarc-how-it-protects-your-domain-from-phishing-and-spoofing-2o9g)
-- [Building Reliable Pricing for AI Chatbots](https://dev.to/dbolotov/building-reliable-pricing-for-ai-chatbots-48d9)
+- [How I developed my very own Portfolio Website using HTML, CSS, and JavaScript](https://dev.to/syedishtiyaqahmed/how-i-developed-my-very-own-portfolio-website-using-html-css-and-javascript-35e7)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1dnh)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5hdf)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-533l)
 <!-- BLOG-POST-LIST:END -->
 
