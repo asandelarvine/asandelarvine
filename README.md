@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Go CLI to Find AWS Cloud Waste &amp; Security Risks in 60 Seconds](https://dev.to/abdul_herbli_4e2bece5e77a/i-built-a-go-cli-to-find-aws-security-holes-in-60-seconds-116j)
-- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
-- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
-- [JDBC Connectivity in Java &lpar;Java Database Connectivity&rpar;](https://dev.to/manikandan_a8f99e0153ef77/jdbc-connectivity-in-java-java-database-connectivity-312o)
+- [Announcing Attractive.js, a new JavaScript-free JavaScript library](https://dev.to/railsdesigner/announcing-attractivejs-a-new-javascript-free-javascript-library-1lno)
+- [Why experiments belong inside feature flags, not beside them](https://dev.to/miraan/why-experiments-belong-inside-feature-flags-not-beside-them-3i1i)
+- [I built MathHacks - a weekend mathathon, now live!](https://dev.to/vulcanwm/i-built-mathhacks-a-weekend-mathathon-now-live-3lo1)
+- [Solving “Browser Back Resets Infinite Scroll” with a Next.js URL-Addressable Modal](https://dev.to/derarion/solving-browser-back-resets-infinite-scroll-with-a-nextjs-url-addressable-modal-1doa)
 <!-- BLOG-POST-LIST:END -->
 
