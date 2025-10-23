@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S4e8: Blink vs. The Gilded Rose: The Refactor Gambit](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e8-blink-vs-the-gilded-rose-the-refactor-gambit-4lj1)
-- [Coding is 10% Writing Code and 90% Error Handling What You Just Forgot.](https://dev.to/melchizedek_amos_90899930/coding-is-10-writing-code-and-90-error-handling-what-you-just-forgot-469m)
-- [SearcherO - Find Your Dream Job](https://dev.to/codewizard123/searchero-find-your-dream-job-269h)
-- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
+- [Being professional goes beyond just technical skills; demonstrating professionalism in behavior is equally, if not more, important. Be kind.](https://dev.to/westernal/being-professional-goes-beyond-just-technical-skills-demonstrating-professionalism-in-behavior-is-4g74)
+- [The `match` Expression in PHP](https://dev.to/ashallendesign/the-match-expression-in-php-1c99)
+- [Secure API Routes in Next.js with Middleware and JWT](https://dev.to/djamware_tutorial_eba1a61/secure-api-routes-in-nextjs-with-middleware-and-jwt-5anb)
+- [The out Parameter in Turbine: A Markdown-like Scripting Language](https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab)
 <!-- BLOG-POST-LIST:END -->
 
