@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling and Logging: The Things That Save Your Backend](https://dev.to/sandeep_03j/error-handling-and-logging-the-things-that-save-your-backend-3ggo)
-- [FREE EBOOK: Master Linux File Permissions 🐧](https://dev.to/nedtechie/free-ebook-master-linux-file-permissions-4n50)
-- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
-- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
+- [ASP.NET Core Dependency Injection From Scopes &amp; Lifetimes to .NET 9 Source Generators](https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06)
+- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-ece)
+- [Google SWE Intern Interview Experience — The Key to Nailing Both Rounds](https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465)
+- [My Meme App — Make, Share &amp; Laugh Anytime!](https://dev.to/elin_olsson_deac9f61751dc/my-meme-app-make-share-laugh-anytime-4k0d)
 <!-- BLOG-POST-LIST:END -->
 
