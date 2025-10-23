@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes: Building a Secure Trading Platform](https://dev.to/globridge-tech/behind-the-scenes-building-a-secure-trading-platform-5c9e)
-- [Power Your Vision with LiPower Your Vision with Linux VPS Servernux VPS Server](https://dev.to/kartik_work_02e8841c5fbeb/power-your-vision-with-lipower-your-vision-with-linux-vps-servernux-vps-server-4h3b)
-- [September 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/september-2025-review-of-learning-records-25cg)
-- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
+- [Does Your Site Need a /ai Page?](https://dev.to/rpalo/does-your-site-need-a-ai-page-2hkp)
+- [Firebase Auth Duplicate Email Error: How to Fix It Step-by-Step](https://dev.to/naymur/firebase-auth-duplicate-email-error-how-to-fix-it-step-by-step-ebf)
+- [How Antidetect Browsers Help Affiliate Marketers Scale Their Campaigns](https://dev.to/digitalgrowthpro/how-antidetect-browsers-help-affiliate-marketers-scale-their-campaigns-2gec)
+- [10 mistakes I made as a first-time solo founder](https://dev.to/techwood/10-mistakes-i-made-as-a-first-time-solo-founder-4i58)
 <!-- BLOG-POST-LIST:END -->
 
