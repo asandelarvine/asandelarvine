@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core Dependency Injection From Scopes &amp; Lifetimes to .NET 9 Source Generators](https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06)
-- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-ece)
-- [Google SWE Intern Interview Experience — The Key to Nailing Both Rounds](https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465)
-- [My Meme App — Make, Share &amp; Laugh Anytime!](https://dev.to/elin_olsson_deac9f61751dc/my-meme-app-make-share-laugh-anytime-4k0d)
+- [Behind the Scenes: Building a Secure Trading Platform](https://dev.to/globridge-tech/behind-the-scenes-building-a-secure-trading-platform-5c9e)
+- [Power Your Vision with LiPower Your Vision with Linux VPS Servernux VPS Server](https://dev.to/kartik_work_02e8841c5fbeb/power-your-vision-with-lipower-your-vision-with-linux-vps-servernux-vps-server-4h3b)
+- [September 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/september-2025-review-of-learning-records-25cg)
+- [From Idea to Action: Building Practical AI Agents on AWS-Chapter-1](https://dev.to/saitejab/from-idea-to-action-building-practical-ai-agents-on-aws-chapter-1-37n)
 <!-- BLOG-POST-LIST:END -->
 
