@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Communication &amp; Collaboration in Hybrid Work Environments](https://dev.to/stormdjent/mastering-communication-collaboration-in-hybrid-work-environments-1l7n)
-- [Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/natalya_sokolova/interoperability-how-cloud-platforms-improve-healthcare-collaboration-10b1)
-- [Supercharging Your Product Growth: A Practical Guide for Developers](https://dev.to/stormdjent/supercharging-your-product-growth-a-practical-guide-for-developers-i3)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
+- [I deployed 108 MVPs in 2025. Here&#39;s the deployment platform data you actually need](https://dev.to/alex_chen_3a43ce352a43d3d/i-deployed-108-mvps-in-2025-heres-the-deployment-platform-data-you-actually-need-dfo)
+- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
+- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
+- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
 <!-- BLOG-POST-LIST:END -->
 
