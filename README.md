@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I developed my very own Portfolio Website using HTML, CSS, and JavaScript](https://dev.to/syedishtiyaqahmed/how-i-developed-my-very-own-portfolio-website-using-html-css-and-javascript-35e7)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1dnh)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5hdf)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-533l)
+- [The Adventures of Blink S4e8: Blink vs. The Gilded Rose: The Refactor Gambit](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e8-blink-vs-the-gilded-rose-the-refactor-gambit-4lj1)
+- [Coding is 10% Writing Code and 90% Error Handling What You Just Forgot.](https://dev.to/melchizedek_amos_90899930/coding-is-10-writing-code-and-90-error-handling-what-you-just-forgot-469m)
+- [SearcherO - Find Your Dream Job](https://dev.to/codewizard123/searchero-find-your-dream-job-269h)
+- [Building Enterprise-Level Monitoring: From Prometheus to Grafana Dashboards](https://dev.to/cyberscoper/building-enterprise-level-monitoring-from-prometheus-to-grafana-dashboards-3pge)
 <!-- BLOG-POST-LIST:END -->
 
