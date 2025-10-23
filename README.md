@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
-- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
-- [Taming the Wild West of Dental PMS APIs](https://dev.to/lake22traillady/taming-the-wild-west-of-dental-pms-apis-hgc)
-- [Navigasi Lanskap Framework 2025: Dari Tren Terkini, Tantangan, hingga Strategi Memilih Tumpukan &lpar;Stack&rpar; yang Tepat](https://dev.to/dilsdev/navigasi-lanskap-framework-2025-dari-tren-terkini-tantangan-hingga-strategi-memilih-tumpukan-49mg)
+- [Docker Compose for Multi-Container Applications: A Practical Guide](https://dev.to/ctrix/docker-compose-for-multi-container-applications-a-practical-guide-1aa7)
+- [⚙️ How Cloud Computing Powers Modern Apps](https://dev.to/alexpeteray/how-cloud-computing-powers-modern-apps-3b7k)
+- [🚀 Open Source Project: Introducing QueryCraftAI](https://dev.to/abhi9720/open-source-project-introducing-querycraftai-4ol1)
+- [Structure Angular app with Nx workspace](https://dev.to/beo_dan_4b44e99852f48ddb3/structure-angular-app-with-nx-workspace-5b9h)
 <!-- BLOG-POST-LIST:END -->
 
