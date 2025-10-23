@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from building a full-stack web application](https://dev.to/excelsior2021/lessons-from-building-a-full-stack-web-application-9eh)
-- [Strengthening the Grid: Building Effective NERC CIP Compliance Programs for Cybersecurity Resilience](https://dev.to/kapusto/strengthening-the-grid-building-effective-nerc-cip-compliance-programs-for-cybersecurity-resilience-l0k)
-- [From Frustration to Automation: Building a Squash Court Availability App](https://dev.to/aws-builders/from-frustration-to-automation-building-a-squash-court-availability-app-54f6)
-- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
+- [print tree4](https://dev.to/query_filter_591122b53770/print-tree4-45ma)
+- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
+- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
+- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
 <!-- BLOG-POST-LIST:END -->
 
