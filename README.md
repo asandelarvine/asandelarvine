@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose for Multi-Container Applications: A Practical Guide](https://dev.to/ctrix/docker-compose-for-multi-container-applications-a-practical-guide-1aa7)
-- [⚙️ How Cloud Computing Powers Modern Apps](https://dev.to/alexpeteray/how-cloud-computing-powers-modern-apps-3b7k)
-- [🚀 Open Source Project: Introducing QueryCraftAI](https://dev.to/abhi9720/open-source-project-introducing-querycraftai-4ol1)
-- [Structure Angular app with Nx workspace](https://dev.to/beo_dan_4b44e99852f48ddb3/structure-angular-app-with-nx-workspace-5b9h)
+- [Error Handling and Logging: The Things That Save Your Backend](https://dev.to/sandeep_03j/error-handling-and-logging-the-things-that-save-your-backend-3ggo)
+- [FREE EBOOK: Master Linux File Permissions 🐧](https://dev.to/nedtechie/free-ebook-master-linux-file-permissions-4n50)
+- [Python bytearray](https://dev.to/sengseng/python-bytearray-51cc)
+- [The key to picking your first language &lpar;without the stress&rpar;](https://dev.to/fahimulhaq/the-key-to-picking-your-first-language-without-the-stress-38jc)
 <!-- BLOG-POST-LIST:END -->
 
