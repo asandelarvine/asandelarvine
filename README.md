@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭](https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605)
-- [Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!](https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794)
-- [olá mundo](https://dev.to/ben/ola-mundo-3b3g)
-- [Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching](https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46)
+- [Deploy Your Shopify App to Heroku in Seconds](https://dev.to/imohamadnashaat/deploy-your-shopify-app-to-heroku-in-seconds-ln)
+- [API-Led Connectivity - Practical Questions Answered - Part II](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-ii-5f81)
+- [What is a Full Stack Digital Marketer?](https://dev.to/hidsmnndmarch/what-is-a-full-stack-digital-marketer-7m)
+- [Cybersecurity Weekly #6: AI Tools That Protect &lpar;and Endanger&rpar; Your Business in 2025](https://dev.to/cyber8080/cybersecurity-weekly-6-ai-tools-that-protect-and-endanger-your-business-in-2025-2ppb)
 <!-- BLOG-POST-LIST:END -->
 
