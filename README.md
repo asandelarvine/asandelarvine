@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Large Language Models the Steam Engine of My Time? And, if so, am I the John Henry of this tale?](https://dev.to/skullzarmy/are-large-language-models-the-steam-engine-of-my-time-and-if-so-am-i-the-john-henry-of-this-tale-45gi)
-- [The Stained-Glass Artisan: Composing UIs with Turbo Frames](https://dev.to/alex_aslam/the-stained-glass-artisan-composing-uis-with-turbo-frames-171f)
-- [Day 1256 : Place To Be](https://dev.to/dwane/day-1256-place-to-be-1mj9)
-- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
+- [TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript](https://dev.to/om_shree_0709/tmcp-reimagining-model-context-protocol-server-architecture-with-modern-typescript-2mi)
+- [Optical Clear Adhesive &lpar;OCA&rpar;: Why It Matters in Modern Display Assembly](https://dev.to/jasonliu112/optical-clear-adhesive-oca-why-it-matters-in-modern-display-assembly-1agl)
+- [How to Merge Word Documents with Spire.Doc for Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-merge-word-documents-with-spiredoc-for-java-a-comprehensive-guide-4bic)
+- [Understanding the Agent Loop in AWS Strands Agent Framework](https://dev.to/sreeni5018/understanding-the-agent-loop-in-aws-strands-agent-framework-4hhn)
 <!-- BLOG-POST-LIST:END -->
 
