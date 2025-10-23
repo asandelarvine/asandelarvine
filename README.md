@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Your Site Need a /ai Page?](https://dev.to/rpalo/does-your-site-need-a-ai-page-2hkp)
-- [Firebase Auth Duplicate Email Error: How to Fix It Step-by-Step](https://dev.to/naymur/firebase-auth-duplicate-email-error-how-to-fix-it-step-by-step-ebf)
-- [How Antidetect Browsers Help Affiliate Marketers Scale Their Campaigns](https://dev.to/digitalgrowthpro/how-antidetect-browsers-help-affiliate-marketers-scale-their-campaigns-2gec)
-- [10 mistakes I made as a first-time solo founder](https://dev.to/techwood/10-mistakes-i-made-as-a-first-time-solo-founder-4i58)
+- [Automating API Testing with Open Source Testing Tools: Best Practices and Tips](https://dev.to/sophielane/automating-api-testing-with-open-source-testing-tools-best-practices-and-tips-2b2o)
+- [Transparent Fee Structure at One of the Best Schools in Ludhiana](https://dev.to/ipssschool/transparent-fee-structure-at-one-of-the-best-schools-in-ludhiana-5182)
+- [What Is A DMARC? How It Protects Your Domain From Phishing And Spoofing](https://dev.to/inspireme_labs_e6af6b7b69/what-is-a-dmarc-how-it-protects-your-domain-from-phishing-and-spoofing-2o9g)
+- [Building Reliable Pricing for AI Chatbots](https://dev.to/dbolotov/building-reliable-pricing-for-ai-chatbots-48d9)
 <!-- BLOG-POST-LIST:END -->
 
