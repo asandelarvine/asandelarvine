@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript](https://dev.to/om_shree_0709/tmcp-reimagining-model-context-protocol-server-architecture-with-modern-typescript-2mi)
-- [Optical Clear Adhesive &lpar;OCA&rpar;: Why It Matters in Modern Display Assembly](https://dev.to/jasonliu112/optical-clear-adhesive-oca-why-it-matters-in-modern-display-assembly-1agl)
-- [How to Merge Word Documents with Spire.Doc for Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-merge-word-documents-with-spiredoc-for-java-a-comprehensive-guide-4bic)
-- [Understanding the Agent Loop in AWS Strands Agent Framework](https://dev.to/sreeni5018/understanding-the-agent-loop-in-aws-strands-agent-framework-4hhn)
+- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
+- [Taming the Wild West of Dental PMS APIs](https://dev.to/lake22traillady/taming-the-wild-west-of-dental-pms-apis-hgc)
+- [Navigasi Lanskap Framework 2025: Dari Tren Terkini, Tantangan, hingga Strategi Memilih Tumpukan &lpar;Stack&rpar; yang Tepat](https://dev.to/dilsdev/navigasi-lanskap-framework-2025-dari-tren-terkini-tantangan-hingga-strategi-memilih-tumpukan-49mg)
 <!-- BLOG-POST-LIST:END -->
 
