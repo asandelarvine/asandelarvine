@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Attractive.js, a new JavaScript-free JavaScript library](https://dev.to/railsdesigner/announcing-attractivejs-a-new-javascript-free-javascript-library-1lno)
-- [Why experiments belong inside feature flags, not beside them](https://dev.to/miraan/why-experiments-belong-inside-feature-flags-not-beside-them-3i1i)
-- [I built MathHacks - a weekend mathathon, now live!](https://dev.to/vulcanwm/i-built-mathhacks-a-weekend-mathathon-now-live-3lo1)
-- [Solving “Browser Back Resets Infinite Scroll” with a Next.js URL-Addressable Modal](https://dev.to/derarion/solving-browser-back-resets-infinite-scroll-with-a-nextjs-url-addressable-modal-1doa)
+- [Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭](https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605)
+- [Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!](https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794)
+- [olá mundo](https://dev.to/ben/ola-mundo-3b3g)
+- [Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching](https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46)
 <!-- BLOG-POST-LIST:END -->
 
