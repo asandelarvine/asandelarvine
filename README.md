@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Your Shopify App to Heroku in Seconds](https://dev.to/imohamadnashaat/deploy-your-shopify-app-to-heroku-in-seconds-ln)
-- [API-Led Connectivity - Practical Questions Answered - Part II](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-ii-5f81)
-- [What is a Full Stack Digital Marketer?](https://dev.to/hidsmnndmarch/what-is-a-full-stack-digital-marketer-7m)
-- [Cybersecurity Weekly #6: AI Tools That Protect &lpar;and Endanger&rpar; Your Business in 2025](https://dev.to/cyber8080/cybersecurity-weekly-6-ai-tools-that-protect-and-endanger-your-business-in-2025-2ppb)
+- [Lessons from building a full-stack web application](https://dev.to/excelsior2021/lessons-from-building-a-full-stack-web-application-9eh)
+- [Strengthening the Grid: Building Effective NERC CIP Compliance Programs for Cybersecurity Resilience](https://dev.to/kapusto/strengthening-the-grid-building-effective-nerc-cip-compliance-programs-for-cybersecurity-resilience-l0k)
+- [From Frustration to Automation: Building a Squash Court Availability App](https://dev.to/aws-builders/from-frustration-to-automation-building-a-squash-court-availability-app-54f6)
+- [The Hidden Dangers of Smart Devices: Understanding IoT Vulnerabilities and Security Risks](https://dev.to/kapusto/the-hidden-dangers-of-smart-devices-understanding-iot-vulnerabilities-and-security-risks-220l)
 <!-- BLOG-POST-LIST:END -->
 
