@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [print tree4](https://dev.to/query_filter_591122b53770/print-tree4-45ma)
-- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
-- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
-- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-2bpc)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-8ba)
+- [Angular 20: Querying Data with `rxResource` — from `request/loader` to `params/stream`](https://dev.to/cristiansifuentes/angular-20-querying-data-with-rxresource-from-requestloader-to-paramsstream-ond)
+- [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
 <!-- BLOG-POST-LIST:END -->
 
