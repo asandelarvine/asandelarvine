@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8004: Building Trustless Autonomous Agents with TEEs](https://dev.to/caerlower/erc-8004-building-trustless-autonomous-agents-with-tees-3iea)
-- [How Fingerprints Identify You: The Algorithm Beneath the Biometric](https://dev.to/iste-vit/how-fingerprints-identify-you-the-algorithm-beneath-the-biometric-3gg1)
-- [A Usabilidade no Back-End](https://dev.to/dev-araujo/a-usabilidade-no-back-end-12ll)
-- [The Best FREE AI App Builder? FREE Lovable AI Alternative](https://dev.to/proflead/the-best-free-ai-app-builder-free-lovable-ai-alternative-21nm)
+- [Mastering Communication &amp; Collaboration in Hybrid Work Environments](https://dev.to/stormdjent/mastering-communication-collaboration-in-hybrid-work-environments-1l7n)
+- [Interoperability: How Cloud Platforms Improve Healthcare Collaboration](https://dev.to/natalya_sokolova/interoperability-how-cloud-platforms-improve-healthcare-collaboration-10b1)
+- [Supercharging Your Product Growth: A Practical Guide for Developers](https://dev.to/stormdjent/supercharging-your-product-growth-a-practical-guide-for-developers-i3)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-39oe)
 <!-- BLOG-POST-LIST:END -->
 
