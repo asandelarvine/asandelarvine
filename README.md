@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I deployed 108 MVPs in 2025. Here&#39;s the deployment platform data you actually need](https://dev.to/alex_chen_3a43ce352a43d3d/i-deployed-108-mvps-in-2025-heres-the-deployment-platform-data-you-actually-need-dfo)
-- [Announcing Enthusiast 1.4: AI Agents Meet E-commerce Workflows](https://dev.to/chrisywz/announcing-enthusiast-14-ai-agents-meet-e-commerce-workflows-3gkk)
-- [Web Scrapping Project](https://dev.to/makenakinyua/web-scrapping-project-3bnb)
-- [Graceful Shutdown with Kubernetes](https://dev.to/jinghong/graceful-shutdown-with-kubernetes-4bi5)
+- [I Built a Go CLI to Find AWS Cloud Waste &amp; Security Risks in 60 Seconds](https://dev.to/abdul_herbli_4e2bece5e77a/i-built-a-go-cli-to-find-aws-security-holes-in-60-seconds-116j)
+- [The Retail Revolution: How AI Is Quietly Rebuilding the Shopping Experience](https://dev.to/yallogroup/the-retail-revolution-how-ai-is-quietly-rebuilding-the-shopping-experience-5453)
+- [Why agent orchestration is harder than kubernetes - Lessons while building Agentflow](https://dev.to/siddhantkcode/why-agent-orchestration-is-harder-than-kubernetes-lessons-while-building-agentflow-4jm3)
+- [JDBC Connectivity in Java &lpar;Java Database Connectivity&rpar;](https://dev.to/manikandan_a8f99e0153ef77/jdbc-connectivity-in-java-java-database-connectivity-312o)
 <!-- BLOG-POST-LIST:END -->
 
