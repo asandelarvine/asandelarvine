@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Games for the Halloween Season 🎃](https://dev.to/gem_hell/five-games-for-the-halloween-season-47mh)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3of1)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
-- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
+- [Getting Started with LambdaTest: A Comprehensive Beginner’s Guide](https://dev.to/henry_messiahtmt_099ca84/getting-started-with-lambdatest-a-comprehensive-beginners-guide-4l2m)
+- [A High-Level overview of Address Spaces: Their Place in ClangIR](https://dev.to/david_rivera_8d845b35931e/a-high-level-overview-of-address-spaces-their-place-in-clangir-5e0k)
+- [How I Built a Complete QA Test Strategy for an AI-Powered Language Learning Game](https://dev.to/samandcode/how-i-built-a-complete-qa-test-strategy-for-an-ai-powered-language-learning-game-1pf4)
+- [95% of BC devs set up OAuth2 the hard way. Here&#39;s the 5% method that actually works.](https://dev.to/jeffreybulanadi/95-of-bc-devs-set-up-oauth2-the-hard-way-heres-the-5-method-that-actually-works-3o0m)
 <!-- BLOG-POST-LIST:END -->
 
