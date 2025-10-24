@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Highly Available Architecture on AWS](https://dev.to/prince_dumuhere_1f9367af5/building-a-highly-available-architecture-on-aws-4k24)
-- [Python with Microservices &lpar;FastAPI&rpar;](https://dev.to/godofgeeks/python-with-microservices-fastapi-2gl3)
-- [The Art of Knowing When to Upgrade](https://dev.to/ijuren/the-art-of-knowing-when-to-upgrade-59jg)
-- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-4lp1)
+- [Image Annotation: The Easy Guide for Everyone](https://dev.to/sohan_lal_241c2d80b2705e7/image-annotation-the-easy-guide-for-everyone-29b7)
+- [Unlocking Success: Mastering Shopify Ecommerce for Your Business](https://dev.to/api_troll/unlocking-success-mastering-shopify-ecommerce-for-your-business-2i82)
+- [Programando en Cobol para DOS](https://dev.to/baltasarq/programando-en-cobol-para-dos-2lbe)
+- [ai_collab_platform-English — Policy-Bound Personas via YAML + Markdown Context &lpar;Feedback welcome&rpar; 🚀](https://dev.to/kato_masato_c5593c81af5c6/aicollabplatform-english-policy-bound-personas-via-yaml-markdown-context-feedback-welcome-3l5e)
 <!-- BLOG-POST-LIST:END -->
 
