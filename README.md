@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
-- [How Hackers Target Small Businesses — And How to Fight Back](https://dev.to/shivakshi_rawat_e69cf6990/how-hackers-target-small-businesses-and-how-to-fight-back-2il6)
-- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
-- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
+- [Email Validation and SMTP Handshake With Go](https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp)
+- [Writing and Running Unit Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2)
+- [Master Java Read Files: Your No-Fluff Guide to File Handling in Java](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37)
+- [DNS Block‑Rate Report](https://dev.to/jundata/dns-block-rate-report-594g)
 <!-- BLOG-POST-LIST:END -->
 
