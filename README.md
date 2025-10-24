@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Meta Tags on Websites: Why Developers Should Care](https://dev.to/victoriaonu23/the-importance-of-meta-tags-on-websites-why-developers-should-care-2j6a)
-- [Things to do when bored for kids at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-at-a-party-2ceh)
-- [Things to do when bored for students when it is sunny](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-students-when-it-is-sunny-568c)
-- [Things to do when bored for students when it is cold](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-students-when-it-is-cold-1a9e)
+- [Are We Relying Too Much on AI for Creativity?](https://dev.to/n3on/are-we-relying-too-much-on-ai-for-creativity-4254)
+- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
+- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
+- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
 <!-- BLOG-POST-LIST:END -->
 
