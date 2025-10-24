@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Css](https://dev.to/s_sarumathi_a1de306480d33/what-is-css-353n)
-- [Adaptive Branding: How Logos and Colors Will Evolve with AI](https://dev.to/dct_technology/adaptive-branding-how-logos-and-colors-will-evolve-with-ai-4pcd)
-- [What Are CNC Tools and How Do They Work?](https://dev.to/sumitjaibros/what-are-cnc-tools-and-how-do-they-work-3p02)
-- [Designing and Building X2SeaTunnel through AI Coding](https://dev.to/seatunnel/designing-and-building-x2seatunnel-through-ai-coding-5b4a)
+- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
+- [How Hackers Target Small Businesses — And How to Fight Back](https://dev.to/shivakshi_rawat_e69cf6990/how-hackers-target-small-businesses-and-how-to-fight-back-2il6)
+- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
+- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 <!-- BLOG-POST-LIST:END -->
 
