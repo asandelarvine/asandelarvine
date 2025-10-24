@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Blazing-Fast TCP Server in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d)
-- [𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻](https://dev.to/supraja_tangella_b7f0738e/-3k7n)
-- [The Link Layer Explained: How Your Data Hops Across Local Networks &lpar;CSMA/CD to CRC&rpar;](https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6)
-- [Why your business needs a Bespoke Application](https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna)
+- [Building a Highly Available Architecture on AWS](https://dev.to/prince_dumuhere_1f9367af5/building-a-highly-available-architecture-on-aws-4k24)
+- [Python with Microservices &lpar;FastAPI&rpar;](https://dev.to/godofgeeks/python-with-microservices-fastapi-2gl3)
+- [The Art of Knowing When to Upgrade](https://dev.to/ijuren/the-art-of-knowing-when-to-upgrade-59jg)
+- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-4lp1)
 <!-- BLOG-POST-LIST:END -->
 
