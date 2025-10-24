@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Chaos: A Python Guide to Beating Race Conditions in Multithreading](https://dev.to/aris_georgatos/taming-the-chaos-a-python-guide-to-beating-race-conditions-in-multithreading-3gd3)
-- [Web3 Gaming&#39;s Dirty Secret: Why On-Chain Games Leak Everything &lpar;And How to Fix It&rpar;](https://dev.to/savvysid/web3-gamings-dirty-secret-why-on-chain-games-leak-everything-and-how-to-fix-it-239l)
-- [Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI](https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c)
-- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-30b0)
+- [EFS Data Across Multiple EKS Applications Using Terraform](https://dev.to/santanu_das/efs-data-across-multiple-eks-applications-using-terraform-3mpj)
+- [Como inicializar o mariadb no archlinux](https://dev.to/makimo/como-inicializar-o-mariadb-no-archlinux-1efn)
+- [Introducing... JS FUNdamentals! 🥳](https://dev.to/isiomatalabi/introducing-js-fundamentals-3fne)
+- [Testing Agentic SEO: How AI Search Engines Discover Content](https://dev.to/md_saadgodikat_139abc8e4/testing-agentic-seo-how-ai-search-engines-discover-content-2g7o)
 <!-- BLOG-POST-LIST:END -->
 
