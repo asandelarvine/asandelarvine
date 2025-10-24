@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Software Career So Far: An Unapologetic Recap](https://dev.to/anonymousdev/my-software-career-so-far-an-unapologetic-recap-40k4)
-- [MySQL commands](https://dev.to/jumptotech/mysql-commands-g53)
-- [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
-- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
+- [Five Games for the Halloween Season 🎃](https://dev.to/gem_hell/five-games-for-the-halloween-season-47mh)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3of1)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
+- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
 <!-- BLOG-POST-LIST:END -->
 
