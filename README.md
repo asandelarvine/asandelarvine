@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Effective Collaboration Between Technical Writers and Developers](https://dev.to/sunsmile_alice/how-to-build-effective-collaboration-between-technical-writers-and-developers-34d2)
-- [Data Breaches from Messaging Apps: 2020–2024 — Lessons for a Safer Digital Future](https://dev.to/mansi_arora_0beb39f3cb108/data-breaches-from-messaging-apps-2020-2024-lessons-for-a-safer-digital-future-32o1)
-- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
-- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
+- [Free vs Paid Football APIs: Choosing the right option for your project](https://dev.to/sportmonks/free-vs-paid-football-apis-choosing-the-right-option-for-your-project-c1a)
+- [Building an AI-Powered Expense Dashboard with Gemini and Google Sheets](https://dev.to/ahmettkartal/building-an-ai-powered-expense-dashboard-with-gemini-and-google-sheets-hp3)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2gcl)
+- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
 <!-- BLOG-POST-LIST:END -->
 
