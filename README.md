@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TPUs Hit Peak Performance: A Decade of Fine-Tuning AI&#39;s Secret Sauce](https://dev.to/mabualzait/tpus-hit-peak-performance-a-decade-of-fine-tuning-ais-secret-sauce-163f)
-- [Document Chat: Open Source AI-Powered Document Management](https://dev.to/nzouat/document-chat-open-source-ai-powered-document-management-5ba7)
-- [My First Time Vibe Coding: A Skeptic&#39;s Journey](https://dev.to/herber/my-first-time-vibe-coding-a-skeptics-journey-30gd)
-- [11 Best Android Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-android-development-courses-to-learn-in-2026-c6h)
+- [Build a Blazing-Fast TCP Server in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d)
+- [𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻](https://dev.to/supraja_tangella_b7f0738e/-3k7n)
+- [The Link Layer Explained: How Your Data Hops Across Local Networks &lpar;CSMA/CD to CRC&rpar;](https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6)
+- [Why your business needs a Bespoke Application](https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna)
 <!-- BLOG-POST-LIST:END -->
 
