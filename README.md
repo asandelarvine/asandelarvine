@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por Que Adotei Expo &lpar;React Native&rpar; e Express.js para a Escalabilidade do Nutrilow](https://dev.to/bendevoficial/por-que-adotei-expo-react-native-e-expressjs-para-a-escalabilidade-do-nutrilow-5hja)
-- [🚀 Coding 3 Faster with PM Knowledge: Why True Speed Comes from Team Alignment, Not Typing Faster](https://dev.to/joedev090/coding-3x-faster-with-pm-knowledge-why-true-speed-comes-from-team-alignment-not-typing-faster-56n4)
-- [AI can help us in managing high output while keeping energy, focus, and peace intact.](https://dev.to/jaideepparashar/ai-can-help-us-in-managing-high-output-while-keeping-energy-focus-and-peace-intact-2cn8)
-- [How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out](https://dev.to/jaideepparashar/how-i-manage-my-brand-podcast-music-and-ai-company-without-burning-out-2mpe)
+- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](https://dev.to/om_shree_0709/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3)
+- [One API, Multiple Engines: Simplifying RAG Data Preprocessing](https://dev.to/magicyuan876/one-api-multiple-engines-simplifying-rag-data-preprocessing-55am)
+- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-59cg)
+- [Day 6: Aggregation Functions and GROUP BY](https://dev.to/hardik_kanajariya/day-6-aggregation-functions-and-group-by-20ni)
 <!-- BLOG-POST-LIST:END -->
 
