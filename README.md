@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Annotation: The Easy Guide for Everyone](https://dev.to/sohan_lal_241c2d80b2705e7/image-annotation-the-easy-guide-for-everyone-29b7)
-- [Unlocking Success: Mastering Shopify Ecommerce for Your Business](https://dev.to/api_troll/unlocking-success-mastering-shopify-ecommerce-for-your-business-2i82)
-- [Programando en Cobol para DOS](https://dev.to/baltasarq/programando-en-cobol-para-dos-2lbe)
-- [ai_collab_platform-English — Policy-Bound Personas via YAML + Markdown Context &lpar;Feedback welcome&rpar; 🚀](https://dev.to/kato_masato_c5593c81af5c6/aicollabplatform-english-policy-bound-personas-via-yaml-markdown-context-feedback-welcome-3l5e)
+- [You Don’t Hate Coding — You Just Hate When It Doesn’t Obey You.](https://dev.to/melchizedek_amos_90899930/you-dont-hate-coding-you-just-hate-when-it-doesnt-obey-you-33en)
+- [🧠 Mastering the Functional Resume: A Comprehensive Guide](https://dev.to/hey_rishabh/mastering-the-functional-resume-a-comprehensive-guide-4930)
+- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
+- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
 <!-- BLOG-POST-LIST:END -->
 
