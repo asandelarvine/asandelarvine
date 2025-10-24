@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](https://dev.to/om_shree_0709/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3)
-- [One API, Multiple Engines: Simplifying RAG Data Preprocessing](https://dev.to/magicyuan876/one-api-multiple-engines-simplifying-rag-data-preprocessing-55am)
-- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-59cg)
-- [Day 6: Aggregation Functions and GROUP BY](https://dev.to/hardik_kanajariya/day-6-aggregation-functions-and-group-by-20ni)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-48jd)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-2o09)
+- [Entendendo Interfaces em Java: O Modelo Que Garante Ordem no Seu Código](https://dev.to/a_audrey/entendendo-interfaces-em-java-o-modelo-que-garante-ordem-no-seu-codigo-4jdp)
+- [📌 What you&#39;ll learn: 
+- ⚙️ Why micro-frontends created scaling chaos 
+- 🧩 The tradeoffs teams didn’t expect 
+- 🚀 What’s replacing them in 2025 
+- 💡 Real-world lessons from production apps](https://dev.to/tahamjp/what-youll-learn-why-micro-frontends-created-scaling-chaos-the-tradeoffs-teams-41o)
 <!-- BLOG-POST-LIST:END -->
 
