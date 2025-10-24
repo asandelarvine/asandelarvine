@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don’t Hate Coding — You Just Hate When It Doesn’t Obey You.](https://dev.to/melchizedek_amos_90899930/you-dont-hate-coding-you-just-hate-when-it-doesnt-obey-you-33en)
-- [🧠 Mastering the Functional Resume: A Comprehensive Guide](https://dev.to/hey_rishabh/mastering-the-functional-resume-a-comprehensive-guide-4930)
-- [Navigating the AI Shift in Software Development: Rearchitecting for Trust](https://dev.to/justinsaran/navigating-the-ai-shift-in-software-development-rearchitecting-for-trust-1o7)
-- [How End-to-End Payment Tracking Helps Institutions Tackle Fraud and Regulatory Risks](https://dev.to/nikunjgundaniya/how-end-to-end-payment-tracking-helps-institutions-tackle-fraud-and-regulatory-risks-3dbo)
+- [What is Css](https://dev.to/s_sarumathi_a1de306480d33/what-is-css-353n)
+- [Adaptive Branding: How Logos and Colors Will Evolve with AI](https://dev.to/dct_technology/adaptive-branding-how-logos-and-colors-will-evolve-with-ai-4pcd)
+- [What Are CNC Tools and How Do They Work?](https://dev.to/sumitjaibros/what-are-cnc-tools-and-how-do-they-work-3p02)
+- [Designing and Building X2SeaTunnel through AI Coding](https://dev.to/seatunnel/designing-and-building-x2seatunnel-through-ai-coding-5b4a)
 <!-- BLOG-POST-LIST:END -->
 
