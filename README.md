@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EFS Data Across Multiple EKS Applications Using Terraform](https://dev.to/santanu_das/efs-data-across-multiple-eks-applications-using-terraform-3mpj)
-- [Como inicializar o mariadb no archlinux](https://dev.to/makimo/como-inicializar-o-mariadb-no-archlinux-1efn)
-- [Introducing... JS FUNdamentals! 🥳](https://dev.to/isiomatalabi/introducing-js-fundamentals-3fne)
-- [Testing Agentic SEO: How AI Search Engines Discover Content](https://dev.to/md_saadgodikat_139abc8e4/testing-agentic-seo-how-ai-search-engines-discover-content-2g7o)
+- [My Software Career So Far: An Unapologetic Recap](https://dev.to/anonymousdev/my-software-career-so-far-an-unapologetic-recap-40k4)
+- [MySQL commands](https://dev.to/jumptotech/mysql-commands-g53)
+- [How to Create a One-Time Payment Link and Secure Webhook Integration with Stripe](https://dev.to/canhamzacode/how-to-create-a-one-time-payment-link-and-secure-webhook-integration-with-stripe-2l4d)
+- [Inside AWS&#39;s outage - and What it teaches Developers.](https://dev.to/shimork/inside-awss-outage-and-what-it-teaches-developers-3h8a)
 <!-- BLOG-POST-LIST:END -->
 
