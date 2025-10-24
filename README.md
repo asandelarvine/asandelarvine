@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Relying Too Much on AI for Creativity?](https://dev.to/n3on/are-we-relying-too-much-on-ai-for-creativity-4254)
-- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
-- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
-- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
+- [Wie ein Chatbot Event-Anfragen revolutionieren kann – von der Idee zur automatisierten DJ-Buchung](https://dev.to/25heartbeats_djservice_1/wie-ein-chatbot-event-anfragen-revolutionieren-kann-von-der-idee-zur-automatisierten-dj-buchung-54e0)
+- [The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse](https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob)
+- [How I Simplified My Laravel Filters Using the Pipeline Pattern &lpar;With Real Examples&rpar;](https://dev.to/jahid02/how-to-use-laravel-pipeline-4jek)
 <!-- BLOG-POST-LIST:END -->
 
