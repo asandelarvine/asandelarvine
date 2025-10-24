@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free vs Paid Football APIs: Choosing the right option for your project](https://dev.to/sportmonks/free-vs-paid-football-apis-choosing-the-right-option-for-your-project-c1a)
-- [Building an AI-Powered Expense Dashboard with Gemini and Google Sheets](https://dev.to/ahmettkartal/building-an-ai-powered-expense-dashboard-with-gemini-and-google-sheets-hp3)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2gcl)
-- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
+- [Autonomous Application Security Testing: What It Is &amp; How It Works](https://dev.to/clouddefenseai/autonomous-application-security-testing-what-it-is-how-it-works-2lj3)
+- [Implementación segura de CORS y validación de peticiones en arquitecturas de microservicios](https://dev.to/eduuu_dev/implementacion-segura-de-cors-y-validacion-de-peticiones-en-arquitecturas-de-microservicios-2f5e)
+- [Microsoft Recall vs Rewind AI: Which Tool Should You Use?](https://dev.to/nodminger/microsoft-recall-vs-rewind-ai-which-tool-should-you-use-4hd1)
+- [🧙‍♂️ When I Tried to Make a PNG + EXE Polyglot &lpar;And Accidentally Summoned Chaos&rpar;](https://dev.to/rolan_r_n_r/when-i-tried-to-make-a-png-exe-polyglot-and-accidentally-summoned-chaos-51cg)
 <!-- BLOG-POST-LIST:END -->
 
