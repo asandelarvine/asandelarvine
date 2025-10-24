@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wie ein Chatbot Event-Anfragen revolutionieren kann – von der Idee zur automatisierten DJ-Buchung](https://dev.to/25heartbeats_djservice_1/wie-ein-chatbot-event-anfragen-revolutionieren-kann-von-der-idee-zur-automatisierten-dj-buchung-54e0)
-- [The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse](https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob)
-- [How I Simplified My Laravel Filters Using the Pipeline Pattern &lpar;With Real Examples&rpar;](https://dev.to/jahid02/how-to-use-laravel-pipeline-4jek)
+- [Taming the Chaos: A Python Guide to Beating Race Conditions in Multithreading](https://dev.to/aris_georgatos/taming-the-chaos-a-python-guide-to-beating-race-conditions-in-multithreading-3gd3)
+- [Web3 Gaming&#39;s Dirty Secret: Why On-Chain Games Leak Everything &lpar;And How to Fix It&rpar;](https://dev.to/savvysid/web3-gamings-dirty-secret-why-on-chain-games-leak-everything-and-how-to-fix-it-239l)
+- [Meet Claude Desktop - A Lightweight, Distraction-Free Way to Use Claude AI](https://dev.to/prevailexcellent/meet-claude-desktop-a-lightweight-distraction-free-way-to-use-claude-ai-295c)
+- [🎃 Contribute to a Go REST API Boilerplate — Perfect for Hacktoberfest Beginners!](https://dev.to/vahiiiid/contribute-to-a-go-rest-api-boilerplate-perfect-for-hacktoberfest-beginners-30b0)
 <!-- BLOG-POST-LIST:END -->
 
