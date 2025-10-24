@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Validation and SMTP Handshake With Go](https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp)
-- [Writing and Running Unit Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2)
-- [Master Java Read Files: Your No-Fluff Guide to File Handling in Java](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37)
-- [DNS Block‑Rate Report](https://dev.to/jundata/dns-block-rate-report-594g)
+- [How to Build Effective Collaboration Between Technical Writers and Developers](https://dev.to/sunsmile_alice/how-to-build-effective-collaboration-between-technical-writers-and-developers-34d2)
+- [Data Breaches from Messaging Apps: 2020–2024 — Lessons for a Safer Digital Future](https://dev.to/mansi_arora_0beb39f3cb108/data-breaches-from-messaging-apps-2020-2024-lessons-for-a-safer-digital-future-32o1)
+- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
+- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
 <!-- BLOG-POST-LIST:END -->
 
