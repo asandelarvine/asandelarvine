@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Application Security Testing: What It Is &amp; How It Works](https://dev.to/clouddefenseai/autonomous-application-security-testing-what-it-is-how-it-works-2lj3)
-- [Implementación segura de CORS y validación de peticiones en arquitecturas de microservicios](https://dev.to/eduuu_dev/implementacion-segura-de-cors-y-validacion-de-peticiones-en-arquitecturas-de-microservicios-2f5e)
-- [Microsoft Recall vs Rewind AI: Which Tool Should You Use?](https://dev.to/nodminger/microsoft-recall-vs-rewind-ai-which-tool-should-you-use-4hd1)
-- [🧙‍♂️ When I Tried to Make a PNG + EXE Polyglot &lpar;And Accidentally Summoned Chaos&rpar;](https://dev.to/rolan_r_n_r/when-i-tried-to-make-a-png-exe-polyglot-and-accidentally-summoned-chaos-51cg)
+- [The Importance of Meta Tags on Websites: Why Developers Should Care](https://dev.to/victoriaonu23/the-importance-of-meta-tags-on-websites-why-developers-should-care-2j6a)
+- [Things to do when bored for kids at a party](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-kids-at-a-party-2ceh)
+- [Things to do when bored for students when it is sunny](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-students-when-it-is-sunny-568c)
+- [Things to do when bored for students when it is cold](https://dev.to/trang_khanh_1a4456cf74e34/things-to-do-when-bored-for-students-when-it-is-cold-1a9e)
 <!-- BLOG-POST-LIST:END -->
 
