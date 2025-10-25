@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
-- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
-- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
-- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
+- [A refactoração é uma tarefa complexa](https://dev.to/ortizdavid/a-refactoracao-e-uma-tarefa-complexa-2igi)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-5c2f)
+- [Echo Intelligence: Mapping Sound with Acoustic Reciprocity](https://dev.to/arvind_sundararajan/echo-intelligence-mapping-sound-with-acoustic-reciprocity-1ecp)
 <!-- BLOG-POST-LIST:END -->
 
