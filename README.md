@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python &amp; Django Full Course – Master Web Development &lpar;Hindi&rpar; | Mohit Decodes](https://dev.to/mohitdecodes/python-django-full-course-master-web-development-hindi-mohit-decodes-1i9e)
-- [Beyond the Like Button: 5 Surprising Truths About Building Your Own Digital Community](https://dev.to/web4/beyond-the-like-button-5-surprising-truths-about-building-your-own-digital-community-4o27)
-- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
-- [Create Inline Charts with Sparklines.js](https://dev.to/jqueryscript/create-inline-charts-with-sparklinesjs-3af7)
+- [🧩 Debugging XSLT Made Easy in VS Code](https://dev.to/imdj/debugging-xslt-made-easy-in-vs-code-56fi)
+- [Pure CSS Focus Follower](https://dev.to/prahalad/pure-css-focus-follower-639)
+- [Complete Guide to AWS X-Ray Tracing](https://dev.to/devin-rosario/complete-guide-to-aws-x-ray-tracing-16ic)
+- [Detailed Guide: Virtualenv vs Conda](https://dev.to/devin-rosario/detailed-guide-virtualenv-vs-conda-5gln)
 <!-- BLOG-POST-LIST:END -->
 
