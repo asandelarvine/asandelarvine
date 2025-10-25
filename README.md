@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with LambdaTest: A Comprehensive Beginner’s Guide](https://dev.to/henry_messiahtmt_099ca84/getting-started-with-lambdatest-a-comprehensive-beginners-guide-4l2m)
-- [A High-Level overview of Address Spaces: Their Place in ClangIR](https://dev.to/david_rivera_8d845b35931e/a-high-level-overview-of-address-spaces-their-place-in-clangir-5e0k)
-- [How I Built a Complete QA Test Strategy for an AI-Powered Language Learning Game](https://dev.to/samandcode/how-i-built-a-complete-qa-test-strategy-for-an-ai-powered-language-learning-game-1pf4)
-- [95% of BC devs set up OAuth2 the hard way. Here&#39;s the 5% method that actually works.](https://dev.to/jeffreybulanadi/95-of-bc-devs-set-up-oauth2-the-hard-way-heres-the-5-method-that-actually-works-3o0m)
+- [SafeMigrations: A Rails Gem for Easy Migrations](https://dev.to/nikom/safemigrations-a-rails-gem-for-easy-migrations-34h4)
+- [#2 Small Apps Update&lpar;CSS&rpar;](https://dev.to/koichi_yoshikawa_dbd33319/2-small-apps-updatecss-411j)
+- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
+- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
 <!-- BLOG-POST-LIST:END -->
 
