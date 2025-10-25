@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
-- [A refactoração é uma tarefa complexa](https://dev.to/ortizdavid/a-refactoracao-e-uma-tarefa-complexa-2igi)
-- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-5c2f)
-- [Echo Intelligence: Mapping Sound with Acoustic Reciprocity](https://dev.to/arvind_sundararajan/echo-intelligence-mapping-sound-with-acoustic-reciprocity-1ecp)
+- [The AI Command Line War: Claude Code vs Gemini CLI vs Codex CLI](https://dev.to/sivasai_nadella_941a8d122/the-ai-command-line-war-claude-code-vs-gemini-cli-vs-codex-cli-4fk5)
+- [Build Your Own Forum with FastAPI: Step 6 - Comments and Replies](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-6-comments-and-replies-5ag0)
+- [BotticelliBundle: Simplified Deployment of Chatbots using Docker](https://dev.to/botticellibots/botticellibundle-simplified-deployment-of-chatbots-using-docker-4i4o)
+- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
 <!-- BLOG-POST-LIST:END -->
 
