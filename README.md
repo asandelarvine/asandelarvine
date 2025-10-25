@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Social Media&lpar;Facebook, Instagram, Linkedin&rpar; Auto-Posting with n8n based on niche!](https://dev.to/sabbschow/social-mediafacebook-instagram-linkedin-auto-posting-with-n8n-based-on-niche-4k71)
-- [🧩 Diseño Modular en QA: el camino hacia equipos escalables, mantenibles y sostenibles](https://dev.to/stevenayal/diseno-modular-en-qa-el-camino-hacia-equipos-escalables-mantenibles-y-sostenibles-3apl)
-- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
-- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
+- [How to Achieve Deep Work: A Science-Based Guide to Peak Focus and Meaningful Output](https://dev.to/johannesjo/how-to-achieve-deep-work-a-science-based-guide-to-peak-focus-and-meaningful-output-127p)
+- [SEO Shopify Product Image AI Optimizer](https://dev.to/franco_petitfour_fb71d626/seo-shopify-product-image-ai-optimizer-10jn)
+- [Server Ops Report](https://dev.to/jundata/mastodon-ops-report-3egf)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4p9d)
 <!-- BLOG-POST-LIST:END -->
 
