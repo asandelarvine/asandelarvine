@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decommissioning the Dinosaur: A 4-Phase Playbook for Migrating Your Legacy Data Warehouse to Databricks](https://dev.to/shubhojeet2001/decommissioning-the-dinosaur-a-4-phase-playbook-for-migrating-your-legacy-data-warehouse-to-4j4g)
-- [GHOSTFIELD: Pure HTML5 Canvas Game &lpar;8-Day Build Log&rpar;](https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8)
-- [SHA-256 File Hasher &amp; Duplicate Finder in Python](https://dev.to/dillionhuston/sha-256-file-hasher-duplicate-finder-in-python-217h)
-- [How to Spot Code Smells &lpar;and What to Do About Them&rpar;](https://dev.to/codecraft_diary_3d13677fb/how-to-spot-code-smells-and-what-to-do-about-them-1bc7)
+- [🧑🏻‍🚀My Hacktoberfest 2025 Journey: From Bug Fixes to Full-Stack Features](https://dev.to/rishabhrawat05/my-hacktoberfest-2025-journey-from-bug-fixes-to-full-stack-features-2261)
+- [Why Your Authentication Architecture Is Your Biggest Security Blind Spot](https://dev.to/abraham_arellanotavara_7/why-your-authentication-architecture-is-your-biggest-security-blind-spot-2b3)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
 <!-- BLOG-POST-LIST:END -->
 
