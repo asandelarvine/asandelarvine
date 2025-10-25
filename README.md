@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Objects with PHP 🐘 Step-By-Step Guide](https://dev.to/pierre/compare-objects-in-php-6pa)
-- [Crafting Effective Prompts for AI Language Models](https://dev.to/john_turek_72fcb983f41420/crafting-effective-prompts-for-ai-language-models-1pph)
-- [I founded ReThynk AI to make Artificial Intelligence simple, ethical, and accessible.
-What began as an idea in a small room became a company with a global audience through books, lectures, podcasts, and the ReThynk AI Magazine.](https://dev.to/jaideepparashar/i-founded-rethynk-ai-to-make-artificial-intelligence-simple-ethical-and-accessible-what-began-43o6)
-- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
+- [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
+- [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3aho)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-473h)
 <!-- BLOG-POST-LIST:END -->
 
