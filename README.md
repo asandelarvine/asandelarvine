@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cut Out the Middleman: Accepting Direct On-Chain Crypto Payments in WooCommerce with Payra Cash](https://dev.to/payracash/cut-out-the-middleman-accepting-direct-on-chain-crypto-payments-in-woocommerce-with-payra-cash-1ebn)
-- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-207b)
-- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-61f)
-- [Document, Design, Code &amp; Test APIs in One Workspace](https://dev.to/devscribe_5b03854fe463a53/all-in-one-workspace-for-developers-designers-architects-46p3)
+- [Why Using Emojis in Logs and Status Messages Is a Good Idea](https://dev.to/fedtti/why-using-emojis-in-logs-and-status-messages-is-a-good-idea-1bac)
+- [Let&#39;s rethink Work: Building an Application That Replaces Salaries With Stock Market Intelligence.](https://dev.to/rethabilebridgetvelelo/lets-rethink-work-building-an-application-that-replaces-salaries-with-stock-market-intelligence-49kc)
+- [Will AI Agents Rule 2026? 8 Must-Know Trends, Use Cases &amp; SEO Strategies](https://dev.to/giyeon_kim_f31b30e77be04d/will-ai-agents-rule-2026-8-must-know-trends-use-cases-seo-strategies-poe)
+- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
 <!-- BLOG-POST-LIST:END -->
 
