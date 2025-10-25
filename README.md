@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 JavaScript Interview Series&lpar;10&rpar;: Functional Programming — map, reduce, filter Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-functional-programming-map-reduce-filter-explained-258)
-- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
+- [Building a Cybersecurity Lab: Project Overview 🗺️](https://dev.to/ethan_ac5ca38abc559d950c9/building-a-cybersecurity-lab-project-overview-58gp)
+- [BINLFOW is a time-labeled binary framework for AI, EVs, and neurotech, projecting $215B impact.](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-is-a-time-labeled-binary-framework-for-ai-evs-and-neurotech-projecting-215b-impact-1982)
+- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
 <!-- BLOG-POST-LIST:END -->
 
