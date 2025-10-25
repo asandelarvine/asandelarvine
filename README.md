@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Data Structures Decoded: A No-BS Guide for Modern Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-structures-decoded-a-no-bs-guide-for-modern-developers-1b9b)
-- [Master Java BufferedWriter: A No-Fluff Guide to Efficient File Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedwriter-a-no-fluff-guide-to-efficient-file-handling-2m76)
-- [Templating with Go&#39;s html/template and text/template](https://dev.to/godofgeeks/templating-with-gos-htmltemplate-and-texttemplate-1bm5)
-- [Lesson 3  - Integrating MySQL &lpar;First Database&rpar;](https://dev.to/farrukh_rehman/lesson-3-integrating-mysql-first-database-b9m)
+- [Python &amp; Django Full Course – Master Web Development &lpar;Hindi&rpar; | Mohit Decodes](https://dev.to/mohitdecodes/python-django-full-course-master-web-development-hindi-mohit-decodes-1i9e)
+- [Beyond the Like Button: 5 Surprising Truths About Building Your Own Digital Community](https://dev.to/web4/beyond-the-like-button-5-surprising-truths-about-building-your-own-digital-community-4o27)
+- [Building Gulf Heritage AI Studio: A Serverless GenAI Experience](https://dev.to/aws-builders/building-gulf-heritage-ai-studio-a-serverless-genai-experience-o48)
+- [Create Inline Charts with Sparklines.js](https://dev.to/jqueryscript/create-inline-charts-with-sparklinesjs-3af7)
 <!-- BLOG-POST-LIST:END -->
 
