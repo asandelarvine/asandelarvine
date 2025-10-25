@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Addressing Pull Request Comments with AI](https://dev.to/bwca/automating-addressing-pull-request-comments-with-ai-35mg)
-- [Unlocking SaaS Growth: Hidden Revenue Streams, Cold Outreach &amp; Real Retention &lpar;Part 2&rpar;](https://dev.to/mukul_sharma/unlocking-saas-growth-hidden-revenue-streams-cold-outreach-real-retention-part-2-1l09)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3aho)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-473h)
+- [Auth Series #5: Authorization implementation with Passport.js](https://dev.to/shreelaxmihegde/auth-series-5-authorization-implementation-with-passportjs-362)
+- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
+- [Auth Series #3: Authentication implementation using Passport.js](https://dev.to/shreelaxmihegde/auth-series-3-authentication-implementation-using-passportjs-416j)
+- [NumPy in Python](https://dev.to/codeneuron/numpy-in-python-4a3e)
 <!-- BLOG-POST-LIST:END -->
 
