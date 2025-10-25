@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on)
-- [Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly](https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4m7e)
+- [Java Data Structures Decoded: A No-BS Guide for Modern Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/java-data-structures-decoded-a-no-bs-guide-for-modern-developers-1b9b)
+- [Master Java BufferedWriter: A No-Fluff Guide to Efficient File Handling](https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-bufferedwriter-a-no-fluff-guide-to-efficient-file-handling-2m76)
+- [Templating with Go&#39;s html/template and text/template](https://dev.to/godofgeeks/templating-with-gos-htmltemplate-and-texttemplate-1bm5)
+- [Lesson 3  - Integrating MySQL &lpar;First Database&rpar;](https://dev.to/farrukh_rehman/lesson-3-integrating-mysql-first-database-b9m)
 <!-- BLOG-POST-LIST:END -->
 
