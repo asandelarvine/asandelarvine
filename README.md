@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Achieve Deep Work: A Science-Based Guide to Peak Focus and Meaningful Output](https://dev.to/johannesjo/how-to-achieve-deep-work-a-science-based-guide-to-peak-focus-and-meaningful-output-127p)
-- [SEO Shopify Product Image AI Optimizer](https://dev.to/franco_petitfour_fb71d626/seo-shopify-product-image-ai-optimizer-10jn)
-- [Server Ops Report](https://dev.to/jundata/mastodon-ops-report-3egf)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4p9d)
+- [Cut Out the Middleman: Accepting Direct On-Chain Crypto Payments in WooCommerce with Payra Cash](https://dev.to/payracash/cut-out-the-middleman-accepting-direct-on-chain-crypto-payments-in-woocommerce-with-payra-cash-1ebn)
+- [Protect Amazon CloudFront Origins with Built-in Security Features: AWS Best Practices](https://dev.to/cbecerra/protect-amazon-cloudfront-origins-with-built-in-security-features-aws-best-practices-207b)
+- [Protege los orígenes de Amazon CloudFront con funcionalidades de seguridad integradas: Mejores prácticas de AWS](https://dev.to/cbecerra/protege-los-origenes-de-amazon-cloudfront-con-funcionalidades-de-seguridad-integradas-mejores-61f)
+- [Document, Design, Code &amp; Test APIs in One Workspace](https://dev.to/devscribe_5b03854fe463a53/all-in-one-workspace-for-developers-designers-architects-46p3)
 <!-- BLOG-POST-LIST:END -->
 
