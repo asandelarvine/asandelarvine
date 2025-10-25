@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeMigrations: A Rails Gem for Easy Migrations](https://dev.to/nikom/safemigrations-a-rails-gem-for-easy-migrations-34h4)
-- [#2 Small Apps Update&lpar;CSS&rpar;](https://dev.to/koichi_yoshikawa_dbd33319/2-small-apps-updatecss-411j)
-- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
-- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
+- [Comparing Objects with PHP 🐘 Step-By-Step Guide](https://dev.to/pierre/compare-objects-in-php-6pa)
+- [Crafting Effective Prompts for AI Language Models](https://dev.to/john_turek_72fcb983f41420/crafting-effective-prompts-for-ai-language-models-1pph)
+- [I founded ReThynk AI to make Artificial Intelligence simple, ethical, and accessible.
+What began as an idea in a small room became a company with a global audience through books, lectures, podcasts, and the ReThynk AI Magazine.](https://dev.to/jaideepparashar/i-founded-rethynk-ai-to-make-artificial-intelligence-simple-ethical-and-accessible-what-began-43o6)
+- [TIL - How to Fix Flaky macOS Screen Capture on OBS](https://dev.to/bwfiq/til-how-to-fix-flaky-macos-screen-capture-on-obs-46dg)
 <!-- BLOG-POST-LIST:END -->
 
