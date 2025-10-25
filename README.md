@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth Series #5: Authorization implementation with Passport.js](https://dev.to/shreelaxmihegde/auth-series-5-authorization-implementation-with-passportjs-362)
-- [Auth Series #4: Understanding Cookies and Sessions.](https://dev.to/shreelaxmihegde/auth-series-4-understanding-cookies-and-sessions-1ajg)
-- [Auth Series #3: Authentication implementation using Passport.js](https://dev.to/shreelaxmihegde/auth-series-3-authentication-implementation-using-passportjs-416j)
-- [NumPy in Python](https://dev.to/codeneuron/numpy-in-python-4a3e)
+- [Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on)
+- [Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly](https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4m7e)
 <!-- BLOG-POST-LIST:END -->
 
