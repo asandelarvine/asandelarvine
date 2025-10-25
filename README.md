@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Using Emojis in Logs and Status Messages Is a Good Idea](https://dev.to/fedtti/why-using-emojis-in-logs-and-status-messages-is-a-good-idea-1bac)
-- [Let&#39;s rethink Work: Building an Application That Replaces Salaries With Stock Market Intelligence.](https://dev.to/rethabilebridgetvelelo/lets-rethink-work-building-an-application-that-replaces-salaries-with-stock-market-intelligence-49kc)
-- [Will AI Agents Rule 2026? 8 Must-Know Trends, Use Cases &amp; SEO Strategies](https://dev.to/giyeon_kim_f31b30e77be04d/will-ai-agents-rule-2026-8-must-know-trends-use-cases-seo-strategies-poe)
-- [I’ve Just Launched a DNS Server in 🦀 Rust!](https://dev.to/eduardobaginskicosta/ive-just-launched-a-dns-server-in-rust-1989)
+- [Decommissioning the Dinosaur: A 4-Phase Playbook for Migrating Your Legacy Data Warehouse to Databricks](https://dev.to/shubhojeet2001/decommissioning-the-dinosaur-a-4-phase-playbook-for-migrating-your-legacy-data-warehouse-to-4j4g)
+- [GHOSTFIELD: Pure HTML5 Canvas Game &lpar;8-Day Build Log&rpar;](https://dev.to/web_dev-usman/ghostfield-pure-html5-canvas-game-8-day-build-log-44f8)
+- [SHA-256 File Hasher &amp; Duplicate Finder in Python](https://dev.to/dillionhuston/sha-256-file-hasher-duplicate-finder-in-python-217h)
+- [How to Spot Code Smells &lpar;and What to Do About Them&rpar;](https://dev.to/codecraft_diary_3d13677fb/how-to-spot-code-smells-and-what-to-do-about-them-1bc7)
 <!-- BLOG-POST-LIST:END -->
 
