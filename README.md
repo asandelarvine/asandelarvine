@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 OTP CLI Utils — A Simple and Powerful CLI tool for TOTP Codes](https://dev.to/dilanka-rathnasiri/otp-cli-utils-a-simple-and-powerful-cli-tool-for-totp-codes-197p)
-- [Task, Thread και async/await στο .NET](https://dev.to/__b63657/task-thread-kai-asyncawait-sto-net-m07)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-e69)
-- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
+- [Social Media&lpar;Facebook, Instagram, Linkedin&rpar; Auto-Posting with n8n based on niche!](https://dev.to/sabbschow/social-mediafacebook-instagram-linkedin-auto-posting-with-n8n-based-on-niche-4k71)
+- [🧩 Diseño Modular en QA: el camino hacia equipos escalables, mantenibles y sostenibles](https://dev.to/stevenayal/diseno-modular-en-qa-el-camino-hacia-equipos-escalables-mantenibles-y-sostenibles-3apl)
+- [De &quot;Faça uma Casa&quot; a um Blueprint Perfeito: 5 Maneiras de Extrair Requisitos Claros de Stakeholders Indecisos](https://dev.to/dev-sigo/de-faca-uma-casa-a-um-blueprint-perfeito-5-maneiras-de-extrair-requisitos-claros-de-stakeholders-1c2b)
+- [Perl Weekly Challenge: 344](https://dev.to/vinodk89/perl-weekly-challenge-344-1god)
 <!-- BLOG-POST-LIST:END -->
 
