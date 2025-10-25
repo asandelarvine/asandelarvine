@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑🏻‍🚀My Hacktoberfest 2025 Journey: From Bug Fixes to Full-Stack Features](https://dev.to/rishabhrawat05/my-hacktoberfest-2025-journey-from-bug-fixes-to-full-stack-features-2261)
-- [Why Your Authentication Architecture Is Your Biggest Security Blind Spot](https://dev.to/abraham_arellanotavara_7/why-your-authentication-architecture-is-your-biggest-security-blind-spot-2b3)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
+- [Wait, Why Are Devs Still Invisible Online?](https://dev.to/brilliantmakanju/wait-why-are-devs-still-invisible-online-37p9)
+- [IELTS 7.5 until step-by-step](https://dev.to/elshoddev/ielts-75-until-step-by-step-1ld)
+- [AWS Strands Multi-Agent Patterns for the Enterprise Part-I](https://dev.to/sreeni5018/aws-strands-multi-agent-patterns-for-the-enterprise-part-i-3jna)
+- [Why I Built an Audit Tool for Developers Who Care](https://dev.to/buildwithnumen/why-i-built-an-audit-tool-for-developers-who-care-2ik9)
 <!-- BLOG-POST-LIST:END -->
 
