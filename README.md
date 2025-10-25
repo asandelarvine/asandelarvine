@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Command Line War: Claude Code vs Gemini CLI vs Codex CLI](https://dev.to/sivasai_nadella_941a8d122/the-ai-command-line-war-claude-code-vs-gemini-cli-vs-codex-cli-4fk5)
-- [Build Your Own Forum with FastAPI: Step 6 - Comments and Replies](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-6-comments-and-replies-5ag0)
-- [BotticelliBundle: Simplified Deployment of Chatbots using Docker](https://dev.to/botticellibots/botticellibundle-simplified-deployment-of-chatbots-using-docker-4i4o)
-- [ASP .NET Core Bootstrap Toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-1k5j)
+- [🔥 JavaScript Interview Series&lpar;10&rpar;: Functional Programming — map, reduce, filter Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series10-functional-programming-map-reduce-filter-explained-258)
+- [Nahre Sol: How to Write Beautifully Nostalgic Music](https://dev.to/music_youtube/nahre-sol-how-to-write-beautifully-nostalgic-music-4bda)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-9d7)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3hdl)
 <!-- BLOG-POST-LIST:END -->
 
