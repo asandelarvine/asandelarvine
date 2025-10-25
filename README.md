@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Game Designer and a Programmer сan build what can’t be done alone?](https://dev.to/nickkeepkind/how-a-game-designer-and-a-programmer-san-build-what-cant-be-done-alone-34jd)
-- [Master TypeScript: A Complete Tutorial for Developers | Tpoint Tech](https://dev.to/tpointtechblog/master-typescript-a-complete-tutorial-for-developers-tpoint-tech-4j90)
-- [Making Claude 4.5&#39;s Reflection Magic Your Side Business Goldmine](https://dev.to/raushan_singh_4ef90ca681a/making-claude-45s-reflection-magic-your-side-business-goldmine-547k)
-- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
+- [🔐 OTP CLI Utils — A Simple and Powerful CLI tool for TOTP Codes](https://dev.to/dilanka-rathnasiri/otp-cli-utils-a-simple-and-powerful-cli-tool-for-totp-codes-197p)
+- [Task, Thread και async/await στο .NET](https://dev.to/__b63657/task-thread-kai-asyncawait-sto-net-m07)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-e69)
+- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp)
 <!-- BLOG-POST-LIST:END -->
 
