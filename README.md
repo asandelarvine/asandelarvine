@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-88c)
-- [A Python library that lets you switch email providers without changing your code](https://dev.to/radomir_brkovic_954abae53/a-python-library-that-lets-you-switch-email-providers-without-changing-your-code-c41)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_875c0744/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-2b2b)
-- [Integrating AI into Web Applications: How to Make Your Websites Smarter, Faster, and More Human](https://dev.to/okoye_ndidiamaka_5e3b7d30/integrating-ai-into-web-applications-how-to-make-your-websites-smarter-faster-and-more-human-5a4o)
+- [How a Game Designer and a Programmer сan build what can’t be done alone?](https://dev.to/nickkeepkind/how-a-game-designer-and-a-programmer-san-build-what-cant-be-done-alone-34jd)
+- [Master TypeScript: A Complete Tutorial for Developers | Tpoint Tech](https://dev.to/tpointtechblog/master-typescript-a-complete-tutorial-for-developers-tpoint-tech-4j90)
+- [Making Claude 4.5&#39;s Reflection Magic Your Side Business Goldmine](https://dev.to/raushan_singh_4ef90ca681a/making-claude-45s-reflection-magic-your-side-business-goldmine-547k)
+- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
 <!-- BLOG-POST-LIST:END -->
 
