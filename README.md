@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Server vs Virtual Machine: Understanding the Difference](https://dev.to/prathamesh_gawade_16/server-vs-virtual-machine-understanding-the-difference-40dp)
-- [I Built Quality Control Into an AI Tool&#39;s Architecture—Here&#39;s What It Generated](https://dev.to/narnaiezzsshaa_truong/i-built-quality-control-into-an-ai-tools-architecture-heres-what-it-generated-14c)
-- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion”](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-ckb)
-- [Test Automation Architecture: Data Management, Execution &amp; Orchestration in Hybrid Environments - Part 4 of 4](https://dev.to/hariomlabs/test-automation-architecture-data-management-execution-orchestration-in-hybrid-environments--217h)
+- [How to Draw a Spiral with JavaScript](https://dev.to/codingdudecom/how-to-draw-a-spiral-with-javascript-4n9a)
+- [How a Freelance Graphic Designer Streamlined Her Business Operations with Free Digital Tools](https://dev.to/royalaccount_24fe3bccf48d/how-a-freelance-graphic-designer-streamlined-her-business-operations-with-free-digital-tools-cec)
+- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
+- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
 <!-- BLOG-POST-LIST:END -->
 
