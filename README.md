@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Testing a Real App Taught Me About Building One](https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm)
-- [6 months CSE - The System Suite](https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23)
-- [🚀 Just Launched — My Personal Cloud &amp; DevOps Portfolio! 🌩️](https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni)
-- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
+- [10 Lombok Annotations Every Java Developer Should Know](https://dev.to/gianfcop98/10-lombok-annotations-every-java-developer-should-know-pcd)
+- [throw error vs throw new error? Error handling the right way](https://dev.to/emann/throw-error-vs-throw-new-error-error-handling-the-right-way-48k6)
+- [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
+- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
 <!-- BLOG-POST-LIST:END -->
 
