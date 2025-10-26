@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building cargo-sane: A Better Way to Manage Rust Dependencies](https://dev.to/chronocoders/building-cargo-sane-a-better-way-to-manage-rust-dependencies-50j6)
-- [DreamStage: AI Theatre for Virtual Worlds](https://dev.to/p_thabiwa_0ca34c2f83/dreamstage-ai-theatre-for-virtual-worlds-557a)
-- [Adeus, oh-my-zsh 😭](https://dev.to/soupaulosilva/adeus-oh-my-zsh-dpg)
-- [VisioCore: The Art Engine of Time](https://dev.to/p_thabiwa_0ca34c2f83/visiocore-the-art-engine-of-time-3323)
+- [How a Misconfigured CloudFront Cache Can Lead to Personal Data Leaks - Understanding and Securing API Caching](https://dev.to/kazuya_york/how-a-misconfigured-cloudfront-cache-can-lead-to-personal-data-leaks-understanding-and-securing-m8m)
+- [Remote Sensing for Urban Green Cover: My Research Journey with Melbourne](https://dev.to/ramkumar_yaragarla_f76592/remote-sensing-for-urban-green-cover-my-research-journey-with-melbourne-if5)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-43ph)
+- [Sessions and cookies in Node.js](https://dev.to/lucaspereiradesouzat/sessions-and-cookies-in-nodejs-5cic)
 <!-- BLOG-POST-LIST:END -->
 
