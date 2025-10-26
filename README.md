@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
-- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
-- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
+- [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
+- [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
+- [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
+- [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
 <!-- BLOG-POST-LIST:END -->
 
