@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cybersecurity Lab: Project Overview 🗺️](https://dev.to/ethan_ac5ca38abc559d950c9/building-a-cybersecurity-lab-project-overview-58gp)
-- [BINLFOW is a time-labeled binary framework for AI, EVs, and neurotech, projecting $215B impact.](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-is-a-time-labeled-binary-framework-for-ai-evs-and-neurotech-projecting-215b-impact-1982)
-- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4abo)
+- [The Model Context Protocol Registry: Standardizing Server Discovery in a Decentralized Ecosystem](https://dev.to/om_shree_0709/the-model-context-protocol-registry-standardizing-server-discovery-in-a-decentralized-ecosystem-436l)
+- [A beginner&#39;s guide to the Imagen-4 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-imagen-4-model-by-google-on-replicate-54h1)
+- [Latest Tech News 26th Oct 2025](https://dev.to/barak_codes/latest-tech-news-26th-oct-2025-31mb)
+- [📰 Major Tech News: Oct 26th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-26th-2025-jn6)
 <!-- BLOG-POST-LIST:END -->
 
