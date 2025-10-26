@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Draw a Spiral with JavaScript](https://dev.to/codingdudecom/how-to-draw-a-spiral-with-javascript-4n9a)
-- [How a Freelance Graphic Designer Streamlined Her Business Operations with Free Digital Tools](https://dev.to/royalaccount_24fe3bccf48d/how-a-freelance-graphic-designer-streamlined-her-business-operations-with-free-digital-tools-cec)
-- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
+- [What Testing a Real App Taught Me About Building One](https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm)
+- [6 months CSE - The System Suite](https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23)
+- [🚀 Just Launched — My Personal Cloud &amp; DevOps Portfolio! 🌩️](https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni)
+- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej)
 <!-- BLOG-POST-LIST:END -->
 
