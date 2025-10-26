@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0)
-- [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7)
-- [Helloween AI chat agent](https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j)
-- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2h46)
+- [Weekly #43-2025: WS Outage Breakdown, Digital Immortality, Junior Devs, Werner Vogels &amp; Spotify System Design](https://dev.to/weekly/weekly-43-2025-ws-outage-breakdown-digital-immortality-junior-devs-werner-vogels-spotify-58b2)
+- [Maintenance Releases 0.53.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-releases-0530-of-the-github-action-for-checking-spelling-23fk)
+- [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
 <!-- BLOG-POST-LIST:END -->
 
