@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lfo)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3647)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-533j)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-551b)
+- [The Playbook for Crypto-Tech Startups: How to Earn Trust, Cut Noise, and Ship Real Value in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/the-playbook-for-crypto-tech-startups-how-to-earn-trust-cut-noise-and-ship-real-value-in-2025-74d)
+- [Why Builders Still Fly to Conferences: A Field Guide to Turning Hallway Chats into Product Velocity](https://dev.to/sonia_bobrik_1939cdddd79d/why-builders-still-fly-to-conferences-a-field-guide-to-turning-hallway-chats-into-product-velocity-498l)
+- [The Uncomfortable Truth About PR for Web3 Builders &lpar;and How to Make It Actually Work&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-uncomfortable-truth-about-pr-for-web3-builders-and-how-to-make-it-actually-work-2bjm)
+- [Trust Engineering for Developers: A Pragmatic Playbook for Building Software People Actually Rely On](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-developers-a-pragmatic-playbook-for-building-software-people-actually-rely-2ijn)
 <!-- BLOG-POST-LIST:END -->
 
