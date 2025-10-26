@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Lombok Annotations Every Java Developer Should Know](https://dev.to/gianfcop98/10-lombok-annotations-every-java-developer-should-know-pcd)
-- [throw error vs throw new error? Error handling the right way](https://dev.to/emann/throw-error-vs-throw-new-error-error-handling-the-right-way-48k6)
-- [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
-- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
+- [🏡 Why I Built My Own Homelab to Run Kubernetes](https://dev.to/hkhelil/why-i-built-my-own-homelab-to-run-kubernetes-ke9)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-16ha)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3baa)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mba)
 <!-- BLOG-POST-LIST:END -->
 
