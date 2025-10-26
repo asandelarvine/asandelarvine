@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Model Context Protocol Registry: Standardizing Server Discovery in a Decentralized Ecosystem](https://dev.to/om_shree_0709/the-model-context-protocol-registry-standardizing-server-discovery-in-a-decentralized-ecosystem-436l)
-- [A beginner&#39;s guide to the Imagen-4 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-imagen-4-model-by-google-on-replicate-54h1)
-- [Latest Tech News 26th Oct 2025](https://dev.to/barak_codes/latest-tech-news-26th-oct-2025-31mb)
-- [📰 Major Tech News: Oct 26th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-26th-2025-jn6)
+- [Building cargo-sane: A Better Way to Manage Rust Dependencies](https://dev.to/chronocoders/building-cargo-sane-a-better-way-to-manage-rust-dependencies-50j6)
+- [DreamStage: AI Theatre for Virtual Worlds](https://dev.to/p_thabiwa_0ca34c2f83/dreamstage-ai-theatre-for-virtual-worlds-557a)
+- [Adeus, oh-my-zsh 😭](https://dev.to/soupaulosilva/adeus-oh-my-zsh-dpg)
+- [VisioCore: The Art Engine of Time](https://dev.to/p_thabiwa_0ca34c2f83/visiocore-the-art-engine-of-time-3323)
 <!-- BLOG-POST-LIST:END -->
 
