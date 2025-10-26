@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual Execution to Cloud Automation — How BatchSubmit Simplified Data Analysis](https://dev.to/omni_tiger_75ee04e39e40df/from-manual-execution-to-cloud-automation-how-batchsubmit-simplified-data-analysis-50al)
-- [Can We Really Trust AI? Lies, Poison, and the Need for Responsible AI](https://dev.to/learn_with_santosh/can-we-really-trust-ai-lies-poison-and-the-need-for-responsible-ai-2m4m)
-- [Building Liberty Drives: A Road Trip Planner Born from Curiosity &lpar;and a Bit of Chaos&rpar;](https://dev.to/xraytangooscar/building-liberty-drives-a-road-trip-planner-born-from-curiosity-and-a-bit-of-chaos-27c)
-- [🧠 Advanced Error Handling &amp; Monitoring in Laravel APIs: Patterns, Pitfalls, and the Under-Documented Truths](https://dev.to/jeishanul/advanced-error-handling-monitoring-in-laravel-apis-patterns-pitfalls-and-the-2oi2)
+- [Server vs Virtual Machine: Understanding the Difference](https://dev.to/prathamesh_gawade_16/server-vs-virtual-machine-understanding-the-difference-40dp)
+- [I Built Quality Control Into an AI Tool&#39;s Architecture—Here&#39;s What It Generated](https://dev.to/narnaiezzsshaa_truong/i-built-quality-control-into-an-ai-tools-architecture-heres-what-it-generated-14c)
+- [SERIES: “The Polyglot Library — When Data Starts to Think in Motion”](https://dev.to/p_thabiwa_0ca34c2f83/series-the-polyglot-library-when-data-starts-to-think-in-motion-ckb)
+- [Test Automation Architecture: Data Management, Execution &amp; Orchestration in Hybrid Environments - Part 4 of 4](https://dev.to/hariomlabs/test-automation-architecture-data-management-execution-orchestration-in-hybrid-environments--217h)
 <!-- BLOG-POST-LIST:END -->
 
