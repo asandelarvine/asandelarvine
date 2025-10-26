@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Misconfigured CloudFront Cache Can Lead to Personal Data Leaks - Understanding and Securing API Caching](https://dev.to/kazuya_york/how-a-misconfigured-cloudfront-cache-can-lead-to-personal-data-leaks-understanding-and-securing-m8m)
-- [Remote Sensing for Urban Green Cover: My Research Journey with Melbourne](https://dev.to/ramkumar_yaragarla_f76592/remote-sensing-for-urban-green-cover-my-research-journey-with-melbourne-if5)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-43ph)
-- [Sessions and cookies in Node.js](https://dev.to/lucaspereiradesouzat/sessions-and-cookies-in-nodejs-5cic)
+- [Kuku FM se 499 cut jaaye to kya Karen](https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp)
+- [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
+- [Master Your Social Media Marketing Strategy in 2025: The Ultimate Guide](https://dev.to/gooday_marlon_5cf7e1f4841/master-your-social-media-marketing-strategy-in-2025-the-ultimate-guide-44m8)
+- [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
 <!-- BLOG-POST-LIST:END -->
 
