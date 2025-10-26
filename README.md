@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and Customizing AWS ParallelCluster Service &lpar;PCS&rpar; for HPC Workloads](https://dev.to/gokcedemirdurkut/deploying-and-customizing-aws-parallelcluster-service-pcs-for-hpc-workloads-km1)
-- [Tethering the Exponential: My strategy for keeping up w/AI](https://dev.to/samson_tech/tethering-the-exponential-my-strategy-for-keeping-up-wai-ee6)
-- [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
-- [Best AI Tools for Building a Website on a Tight Budget](https://dev.to/bezal_benny_68a567103f98c/best-ai-tools-for-building-a-website-on-a-tight-budget-1bah)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lfo)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3647)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-533j)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-551b)
 <!-- BLOG-POST-LIST:END -->
 
