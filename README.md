@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 24 Hours Hardening My Stack &lpar;and Somehow Made It Friendlier Too&rpar;](https://dev.to/formantaudio/i-spent-24-hours-hardening-my-stack-and-somehow-made-it-friendlier-too-3aj5)
-- [Telegram Mini App Template How To: Build and Launch Faster in 2025](https://dev.to/victorgold/telegram-mini-app-template-how-to-build-and-launch-faster-in-2025-gbc)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3lgg)
-- [Build Your Own Forum with FastAPI: Step 7 - Permissions](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-7-permissions-155k)
+- [From Manual Execution to Cloud Automation — How BatchSubmit Simplified Data Analysis](https://dev.to/omni_tiger_75ee04e39e40df/from-manual-execution-to-cloud-automation-how-batchsubmit-simplified-data-analysis-50al)
+- [Can We Really Trust AI? Lies, Poison, and the Need for Responsible AI](https://dev.to/learn_with_santosh/can-we-really-trust-ai-lies-poison-and-the-need-for-responsible-ai-2m4m)
+- [Building Liberty Drives: A Road Trip Planner Born from Curiosity &lpar;and a Bit of Chaos&rpar;](https://dev.to/xraytangooscar/building-liberty-drives-a-road-trip-planner-born-from-curiosity-and-a-bit-of-chaos-27c)
+- [🧠 Advanced Error Handling &amp; Monitoring in Laravel APIs: Patterns, Pitfalls, and the Under-Documented Truths](https://dev.to/jeishanul/advanced-error-handling-monitoring-in-laravel-apis-patterns-pitfalls-and-the-2oi2)
 <!-- BLOG-POST-LIST:END -->
 
