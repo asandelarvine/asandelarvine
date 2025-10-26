@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-537p)
-- [Goravel v1.17 Preview: Add Process facade, simpler to call system commands](https://dev.to/goravel/goravel-v117-preview-add-process-facade-simpler-to-call-system-commands-882)
-- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
-- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-jpp)
+- [Deploying and Customizing AWS ParallelCluster Service &lpar;PCS&rpar; for HPC Workloads](https://dev.to/gokcedemirdurkut/deploying-and-customizing-aws-parallelcluster-service-pcs-for-hpc-workloads-km1)
+- [Tethering the Exponential: My strategy for keeping up w/AI](https://dev.to/samson_tech/tethering-the-exponential-my-strategy-for-keeping-up-wai-ee6)
+- [Building a Responsible GenAI Agent with AWS Bedrock](https://dev.to/shubhamkcloud/building-a-responsible-genai-agent-with-aws-bedrock-io4)
+- [Best AI Tools for Building a Website on a Tight Budget](https://dev.to/bezal_benny_68a567103f98c/best-ai-tools-for-building-a-website-on-a-tight-budget-1bah)
 <!-- BLOG-POST-LIST:END -->
 
