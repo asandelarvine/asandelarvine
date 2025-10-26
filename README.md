@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏡 Why I Built My Own Homelab to Run Kubernetes](https://dev.to/hkhelil/why-i-built-my-own-homelab-to-run-kubernetes-ke9)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-16ha)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-3baa)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mba)
+- [AI-assisted Test Driven Development Experiment Quick Takes](https://dev.to/shaman-apprentice/ai-assisted-test-driven-development-experiment-quick-takes-17fe)
+- [Building Smarter Tree UIs: A Deep Dive into Legoblock&#39;s Headless Renderer](https://dev.to/pappijx/building-smarter-tree-uis-a-deep-dive-into-legoblocks-headless-renderer-22gp)
+- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
+- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
 <!-- BLOG-POST-LIST:END -->
 
