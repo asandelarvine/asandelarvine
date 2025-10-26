@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Playbook for Crypto-Tech Startups: How to Earn Trust, Cut Noise, and Ship Real Value in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/the-playbook-for-crypto-tech-startups-how-to-earn-trust-cut-noise-and-ship-real-value-in-2025-74d)
-- [Why Builders Still Fly to Conferences: A Field Guide to Turning Hallway Chats into Product Velocity](https://dev.to/sonia_bobrik_1939cdddd79d/why-builders-still-fly-to-conferences-a-field-guide-to-turning-hallway-chats-into-product-velocity-498l)
-- [The Uncomfortable Truth About PR for Web3 Builders &lpar;and How to Make It Actually Work&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-uncomfortable-truth-about-pr-for-web3-builders-and-how-to-make-it-actually-work-2bjm)
-- [Trust Engineering for Developers: A Pragmatic Playbook for Building Software People Actually Rely On](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-developers-a-pragmatic-playbook-for-building-software-people-actually-rely-2ijn)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0)
+- [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7)
+- [Helloween AI chat agent](https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j)
+- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82)
 <!-- BLOG-POST-LIST:END -->
 
