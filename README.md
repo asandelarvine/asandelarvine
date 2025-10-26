@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-2h46)
-- [Weekly #43-2025: WS Outage Breakdown, Digital Immortality, Junior Devs, Werner Vogels &amp; Spotify System Design](https://dev.to/weekly/weekly-43-2025-ws-outage-breakdown-digital-immortality-junior-devs-werner-vogels-spotify-58b2)
-- [Maintenance Releases 0.53.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-releases-0530-of-the-github-action-for-checking-spelling-23fk)
-- [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
+- [I Spent 24 Hours Hardening My Stack &lpar;and Somehow Made It Friendlier Too&rpar;](https://dev.to/formantaudio/i-spent-24-hours-hardening-my-stack-and-somehow-made-it-friendlier-too-3aj5)
+- [Telegram Mini App Template How To: Build and Launch Faster in 2025](https://dev.to/victorgold/telegram-mini-app-template-how-to-build-and-launch-faster-in-2025-gbc)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3lgg)
+- [Build Your Own Forum with FastAPI: Step 7 - Permissions](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-7-permissions-155k)
 <!-- BLOG-POST-LIST:END -->
 
