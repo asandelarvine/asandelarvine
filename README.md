@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolving Battlefield: AI vs. AI in Network Security by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-evolving-battlefield-ai-vs-ai-in-network-security-by-arvind-sundararajan-3pmd)
-- [Policy-Bound Personas in SaijinOS — How AI Grows Through Boundaries](https://dev.to/kato_masato_c5593c81af5c6/policy-bound-personas-in-saijinos-how-ai-grows-through-boundaries-432l)
-- [java ArrayList Guide: Your Ultimate Handbook for Dynamic Data](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraylist-guide-your-ultimate-handbook-for-dynamic-data-1np8)
-- [I Built A Free Developer Toolkit with 20+ Developer Tools](https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a)
+- [The Gilded Rose Kata: Composition Over Inheritance](https://dev.to/the-software-s-journey/the-gilded-rose-kata-composition-over-inheritance-537p)
+- [Goravel v1.17 Preview: Add Process facade, simpler to call system commands](https://dev.to/goravel/goravel-v117-preview-add-process-facade-simpler-to-call-system-commands-882)
+- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
+- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-jpp)
 <!-- BLOG-POST-LIST:END -->
 
