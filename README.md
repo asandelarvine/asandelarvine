@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-assisted Test Driven Development Experiment Quick Takes](https://dev.to/shaman-apprentice/ai-assisted-test-driven-development-experiment-quick-takes-17fe)
-- [Building Smarter Tree UIs: A Deep Dive into Legoblock&#39;s Headless Renderer](https://dev.to/pappijx/building-smarter-tree-uis-a-deep-dive-into-legoblocks-headless-renderer-22gp)
-- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
-- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
+- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
+- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
+- [Free Developer Growth Masterclass &lpar;Yes, Really!&rpar;](https://dev.to/tlorent/free-developer-growth-masterclass-yes-really-1a65)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-44a4)
 <!-- BLOG-POST-LIST:END -->
 
