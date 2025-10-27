@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Very insightful!](https://dev.to/willchrisjr/very-insightful-1dc1)
-- [Aliasing and Cloning can be carried out with list](https://dev.to/onaolapo11/aliasing-and-cloning-can-be-carried-out-with-list-43ad)
-- [Top 5 Privacy-Focused Alternatives to Facebook](https://dev.to/destinytch001/top-5-privacy-focused-alternatives-to-facebook-mpl)
-- [Mastering Lock-Free Data Structures in Go: Ring Buffers, Queues, and Performance Optimization](https://dev.to/aaravjoshi/mastering-lock-free-data-structures-in-go-ring-buffers-queues-and-performance-optimization-2f2d)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-2imc)
+- [📰Major Tech News: October 26th, 2025: The Infrastructure of Intelligence](https://dev.to/om_shree_0709/major-tech-news-october-26th-2025-the-infrastructure-of-intelligence-3lbp)
+- [VaultMind: Your AI Calendar Assistant with Auth0-Powered Security](https://dev.to/cuongnp/vaultmind-your-ai-calendar-assistant-with-auth0-powered-security-11m9)
+- [Beyond The Spreadsheet: Building Real-time Data Pipelines for Dynamic Sports Analytics](https://dev.to/wwx516/beyond-the-spreadsheet-building-real-time-data-pipelines-for-dynamic-sports-analytics-244l)
 <!-- BLOG-POST-LIST:END -->
 
