@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Content-visibility: Boost Amazon product grid &lpar;or any long grid&rpar; performance with one CSS property](https://dev.to/nefedov-dm/content-visibility-boost-amazon-product-grid-or-any-long-grid-performance-with-one-css-property-1mfg)
-- [Stress testing: How to push software beyond its limits and build unbreakable systems](https://dev.to/gatling/stress-testing-how-to-push-software-beyond-its-limits-and-build-unbreakable-systems-2f5b)
-- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
-- [Minimal Handmade Rings You’ll Love](https://dev.to/jennifer_thomas/minimal-handmade-rings-youll-love-3bf2)
+- [How to Use Code Coverage to Identify Untested Code Paths?](https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305)
+- [Kubernetes GitOps: How to Manage &amp; Automate Deployments](https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl)
+- [How to Integrate Google Sheets API with Shopify Using OAuth 2.0](https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn)
+- [Day 1 what is unity UI and usefull things](https://dev.to/solvindra/day-1-what-is-unity-ui-and-usefull-things-37i6)
 <!-- BLOG-POST-LIST:END -->
 
