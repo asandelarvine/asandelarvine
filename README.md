@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task0 - AI task manager](https://dev.to/itsmefminsaf/task0-ai-task-manager-181a)
-- [Check out the guide on - The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74)
-- [The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp)
-- [Hashicorp Vault CLI Part 1: Initialization, Authentication &amp; Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl)
+- [I’ve tried dozens of planners, routines, and habits, but nothing worked long-term until I created my own 90-Day Self-Improvement Plan, powered by reflection, structure, and AI.](https://dev.to/jaideepparashar/ive-tried-dozens-of-planners-routines-and-habits-but-nothing-worked-long-term-until-i-created-3f5d)
+- [Check out the guide on - Mastering Support Vector Regression for Real-World Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-mastering-support-vector-regression-for-real-world-analytics-4f20)
+- [Web Scraping for Consumer Research: A Python &amp; BeautifulSoup Tutorial](https://dev.to/alexv_data/web-scraping-for-consumer-research-a-python-beautifulsoup-tutorial-44ge)
+- [Boost your business agility with Cloud Computing](https://dev.to/imobisoft_03b7912a7d93210/boost-your-business-agility-with-cloud-computing-35h3)
 <!-- BLOG-POST-LIST:END -->
 
