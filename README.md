@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #744 - London Perl Workshop 2025](https://dev.to/szabgab/perl-weekly-744-london-perl-workshop-2025-245j)
-- [Taint analysis in PVS-Studio C and C++ analyzer](https://dev.to/pvsdev/taint-analysis-in-pvs-studio-c-and-c-analyzer-48be)
-- [Candy Overdose — Trick or Treating on the Internet 👻🍬](https://dev.to/janis_kauss_9764ddef831ce/candy-overdose-trick-or-treating-on-the-internet-2bga)
-- [About virtual private networks definition of VPN its advantages and disadvantages](https://dev.to/abdaat/about-virtual-private-networks-definition-of-vpn-its-advantages-and-disadvantages-5b05)
+- [eb3/Web4 Manga Stack — with MindsEye, BlueFlow, Binflow &amp; PoF](https://dev.to/p_thabiwa_0ca34c2f83/eb3web4-manga-stack-with-mindseye-blueflow-binflow-pof-53me)
+- [Introducing react-state-custom: A Hook-First State Management Library](https://dev.to/vothanhdat/introducing-react-state-custom-a-hook-first-state-management-library-13g8)
+- [Seamless Data Transformation: Converting CSV to Excel and Excel to CSV in Java](https://dev.to/lu_liu_e3fc806354d9a952b7/seamless-data-transformation-converting-csv-to-excel-and-excel-to-csv-in-java-2e85)
+- [#java](https://dev.to/saraswathi_p_d12f8b88b244/java-3pop)
 <!-- BLOG-POST-LIST:END -->
 
