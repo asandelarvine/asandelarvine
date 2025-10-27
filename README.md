@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eb3/Web4 Manga Stack — with MindsEye, BlueFlow, Binflow &amp; PoF](https://dev.to/p_thabiwa_0ca34c2f83/eb3web4-manga-stack-with-mindseye-blueflow-binflow-pof-53me)
-- [Introducing react-state-custom: A Hook-First State Management Library](https://dev.to/vothanhdat/introducing-react-state-custom-a-hook-first-state-management-library-13g8)
-- [Seamless Data Transformation: Converting CSV to Excel and Excel to CSV in Java](https://dev.to/lu_liu_e3fc806354d9a952b7/seamless-data-transformation-converting-csv-to-excel-and-excel-to-csv-in-java-2e85)
-- [#java](https://dev.to/saraswathi_p_d12f8b88b244/java-3pop)
+- [Boost Your Visibility: Why You Need a Specialized Adult SEO Company](https://dev.to/rachelbrown/boost-your-visibility-why-you-need-a-specialized-adult-seo-company-3cmb)
+- [Essential Mobile Testing Tools: A Developer&#39;s Complete Guide](https://dev.to/apilover/essential-mobile-testing-tools-a-developers-complete-guide-5752)
+- [SFTP vs FTP: Why You Should Always Choose Secure SFTP](https://dev.to/serveravatar/sftp-vs-ftp-why-you-should-always-choose-secure-sftp-3i1k)
+- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_ece4a271/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-7n1)
 <!-- BLOG-POST-LIST:END -->
 
