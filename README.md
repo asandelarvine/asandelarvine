@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
-- [Why LogLayer is the Logging Framework for Deno](https://dev.to/theogravity/why-loglayer-is-the-logging-framework-for-deno-4012)
-- [Code Like a Master Builder: AI-Powered Program Composition](https://dev.to/arvind_sundararajan/code-like-a-master-builder-ai-powered-program-composition-1jda)
-- [AI Hallucinations in 2025: Causes, Impact, and Solutions for Trustworthy AI](https://dev.to/navyashipsit/ai-hallucinations-in-2025-causes-impact-and-solutions-for-trustworthy-ai-4mga)
+- [Slot](https://dev.to/rk_hacker_7bcabab8c4349c4/slot-29m1)
+- [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
+- [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
+- [Listing methods for HarmonyOS Apps](https://dev.to/harmonyos/listing-methods-for-harmonyos-apps-1hk)
 <!-- BLOG-POST-LIST:END -->
 
