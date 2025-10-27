@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slot](https://dev.to/rk_hacker_7bcabab8c4349c4/slot-29m1)
-- [When Cron Jobs Fail in Cloud: How I Solved It in Azure App Service](https://dev.to/techwithhari/when-cron-jobs-fail-in-cloud-how-i-solved-it-in-azure-app-service-5873)
-- [🧾 Building “Listo” — My Grocery List App &lpar;Work in Progress&rpar;](https://dev.to/usama_dev/building-listo-my-grocery-list-app-work-in-progress-1c1c)
-- [Listing methods for HarmonyOS Apps](https://dev.to/harmonyos/listing-methods-for-harmonyos-apps-1hk)
+- [5 Things I Learned in My First Week of TypeScript](https://dev.to/mashayeakh_islam_2666f2c3/5-things-i-learned-in-my-first-week-of-typescript-51md)
+- [Teaching OWASP Top 10 Through Frankenstein: When Creation Without Control Becomes Security Failure](https://dev.to/narnaiezzsshaa_truong/teaching-owasp-top-10-through-frankenstein-when-creation-without-control-becomes-security-failure-15no)
+- [🧠 AI Breakthroughs Reshaping 2025: What’s New This Week in Artificial Intelligence](https://dev.to/pratik_12b3f8bf3b50e48bae/ai-breakthroughs-reshaping-2025-whats-new-this-week-in-artificial-intelligence-3mpn)
+- [Effortless Vue.js Deployment with Firebase Hosting and GitHub Actions &lpar;No firebase-tools&rpar;](https://dev.to/udara_dananjaya/effortless-vuejs-deployment-with-firebase-hosting-and-github-actions-no-firebase-tools-4b7a)
 <!-- BLOG-POST-LIST:END -->
 
