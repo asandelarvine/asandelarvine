@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Visibility: Why You Need a Specialized Adult SEO Company](https://dev.to/rachelbrown/boost-your-visibility-why-you-need-a-specialized-adult-seo-company-3cmb)
-- [Essential Mobile Testing Tools: A Developer&#39;s Complete Guide](https://dev.to/apilover/essential-mobile-testing-tools-a-developers-complete-guide-5752)
-- [SFTP vs FTP: Why You Should Always Choose Secure SFTP](https://dev.to/serveravatar/sftp-vs-ftp-why-you-should-always-choose-secure-sftp-3i1k)
-- [Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance](https://dev.to/member_ece4a271/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-7n1)
+- [Content-visibility: Boost Amazon product grid &lpar;or any long grid&rpar; performance with one CSS property](https://dev.to/nefedov-dm/content-visibility-boost-amazon-product-grid-or-any-long-grid-performance-with-one-css-property-1mfg)
+- [Stress testing: How to push software beyond its limits and build unbreakable systems](https://dev.to/gatling/stress-testing-how-to-push-software-beyond-its-limits-and-build-unbreakable-systems-2f5b)
+- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
+- [Minimal Handmade Rings You’ll Love](https://dev.to/jennifer_thomas/minimal-handmade-rings-youll-love-3bf2)
 <!-- BLOG-POST-LIST:END -->
 
