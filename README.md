@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve tried dozens of planners, routines, and habits, but nothing worked long-term until I created my own 90-Day Self-Improvement Plan, powered by reflection, structure, and AI.](https://dev.to/jaideepparashar/ive-tried-dozens-of-planners-routines-and-habits-but-nothing-worked-long-term-until-i-created-3f5d)
-- [Check out the guide on - Mastering Support Vector Regression for Real-World Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-mastering-support-vector-regression-for-real-world-analytics-4f20)
-- [Web Scraping for Consumer Research: A Python &amp; BeautifulSoup Tutorial](https://dev.to/alexv_data/web-scraping-for-consumer-research-a-python-beautifulsoup-tutorial-44ge)
-- [Boost your business agility with Cloud Computing](https://dev.to/imobisoft_03b7912a7d93210/boost-your-business-agility-with-cloud-computing-35h3)
+- [Perl 🐪 Weekly #744 - London Perl Workshop 2025](https://dev.to/szabgab/perl-weekly-744-london-perl-workshop-2025-245j)
+- [Taint analysis in PVS-Studio C and C++ analyzer](https://dev.to/pvsdev/taint-analysis-in-pvs-studio-c-and-c-analyzer-48be)
+- [Candy Overdose — Trick or Treating on the Internet 👻🍬](https://dev.to/janis_kauss_9764ddef831ce/candy-overdose-trick-or-treating-on-the-internet-2bga)
+- [About virtual private networks definition of VPN its advantages and disadvantages](https://dev.to/abdaat/about-virtual-private-networks-definition-of-vpn-its-advantages-and-disadvantages-5b05)
 <!-- BLOG-POST-LIST:END -->
 
