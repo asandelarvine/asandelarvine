@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🍥 Hands-on Experience with LightRAG](https://dev.to/aairom/hands-on-experience-with-lightrag-3hje)
-- [Daft vs Ray Data: A Comprehensive Comparison for Multimodal Data Processing](https://dev.to/yks/daft-vs-ray-data-a-comprehensive-comparison-for-multimodal-data-processing-3686)
-- [Understanding App Registration vs Enterprise Application in Microsoft Entra ID](https://dev.to/ibbus/understanding-app-registration-vs-enterprise-application-in-microsoft-entra-id-377)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3c72)
+- [What I Learned After 8 Days of Living Inside a Digital Twin](https://dev.to/vishwa_anuj_ec6acd59f8670/what-i-learned-after-8-days-of-living-inside-a-digital-twin-16b8)
+- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
+- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
+- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
 <!-- BLOG-POST-LIST:END -->
 
