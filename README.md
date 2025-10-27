@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Code Coverage to Identify Untested Code Paths?](https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305)
-- [Kubernetes GitOps: How to Manage &amp; Automate Deployments](https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl)
-- [How to Integrate Google Sheets API with Shopify Using OAuth 2.0](https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn)
-- [Day 1 what is unity UI and usefull things](https://dev.to/solvindra/day-1-what-is-unity-ui-and-usefull-things-37i6)
+- [Pi-hole setup&lpar;docker&rpar; for ad blocking](https://dev.to/kutt27/pi-hole-setupdocker-for-ad-blocking-38ch)
+- [My Fedora Beta Disaster: Lessons from Two Years of Linux Journey](https://dev.to/lakhindarpal/my-fedora-beta-disaster-lessons-from-two-years-of-linux-journey-bdp)
+- [JoyCaption: The Open, Uncensored VLM That Will Supercharge Your Diffusion Models](https://dev.to/githubopensource/joycaption-the-open-uncensored-vlm-that-will-supercharge-your-diffusion-models-oeo)
+- [Connecting ChatGPT to Enterprise Data: The End of Knowledge Silos?](https://dev.to/michael_keller_9d83ef0ce5/connecting-chatgpt-to-enterprise-data-the-end-of-knowledge-silos-f60)
 <!-- BLOG-POST-LIST:END -->
 
