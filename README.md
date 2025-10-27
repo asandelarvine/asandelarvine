@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
-- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
-- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
-- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
+- [What if the Internet had been built differently?](https://dev.to/tech_girllll/what-if-the-internet-had-been-built-differently-5chk)
+- [JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/javascript-1j09)
+- [🚀 30 Days of Red Team — A Hands-On Ethical Hacking Journey](https://dev.to/maxwellcross/30-days-of-red-team-a-hands-on-ethical-hacking-journey-2e1h)
+- [I Used to Work 12-Hour Days. Then I Let AI Do Half My Job.](https://dev.to/argonauta/i-used-to-work-12-hour-days-then-i-let-ai-do-half-my-job-1mig)
 <!-- BLOG-POST-LIST:END -->
 
