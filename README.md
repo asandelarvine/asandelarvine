@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What if the Internet had been built differently?](https://dev.to/tech_girllll/what-if-the-internet-had-been-built-differently-5chk)
-- [JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/javascript-1j09)
-- [🚀 30 Days of Red Team — A Hands-On Ethical Hacking Journey](https://dev.to/maxwellcross/30-days-of-red-team-a-hands-on-ethical-hacking-journey-2e1h)
-- [I Used to Work 12-Hour Days. Then I Let AI Do Half My Job.](https://dev.to/argonauta/i-used-to-work-12-hour-days-then-i-let-ai-do-half-my-job-1mig)
+- [🍥 Hands-on Experience with LightRAG](https://dev.to/aairom/hands-on-experience-with-lightrag-3hje)
+- [Daft vs Ray Data: A Comprehensive Comparison for Multimodal Data Processing](https://dev.to/yks/daft-vs-ray-data-a-comprehensive-comparison-for-multimodal-data-processing-3686)
+- [Understanding App Registration vs Enterprise Application in Microsoft Entra ID](https://dev.to/ibbus/understanding-app-registration-vs-enterprise-application-in-microsoft-entra-id-377)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-3c72)
 <!-- BLOG-POST-LIST:END -->
 
