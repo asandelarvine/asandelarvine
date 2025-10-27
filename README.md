@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pi-hole setup&lpar;docker&rpar; for ad blocking](https://dev.to/kutt27/pi-hole-setupdocker-for-ad-blocking-38ch)
-- [My Fedora Beta Disaster: Lessons from Two Years of Linux Journey](https://dev.to/lakhindarpal/my-fedora-beta-disaster-lessons-from-two-years-of-linux-journey-bdp)
-- [JoyCaption: The Open, Uncensored VLM That Will Supercharge Your Diffusion Models](https://dev.to/githubopensource/joycaption-the-open-uncensored-vlm-that-will-supercharge-your-diffusion-models-oeo)
-- [Connecting ChatGPT to Enterprise Data: The End of Knowledge Silos?](https://dev.to/michael_keller_9d83ef0ce5/connecting-chatgpt-to-enterprise-data-the-end-of-knowledge-silos-f60)
+- [Unlocking Developer Revenue: The Dual-Earning Path for AI and LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-the-dual-earning-path-for-ai-and-llm-apps-1nnf)
+- [Learning to Route LLMs from Bandit Feedback: One Policy, Many Trade-offs](https://dev.to/paperium/learning-to-route-llms-from-bandit-feedback-one-policy-many-trade-offs-266d)
+- [From Binary to Brilliance: How Compilers Learned to Write Compilers a.k.a Bootstrapping](https://dev.to/biswasprasana001/from-binary-to-brilliance-how-compilers-learned-to-write-compilers-aka-bootstrapping-3ef3)
+- [Day 26 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-26-of-100-days-dsa-coding-challenge-3lp4)
 <!-- BLOG-POST-LIST:END -->
 
