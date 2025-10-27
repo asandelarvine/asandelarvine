@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned After 8 Days of Living Inside a Digital Twin](https://dev.to/vishwa_anuj_ec6acd59f8670/what-i-learned-after-8-days-of-living-inside-a-digital-twin-16b8)
-- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
-- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
-- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
+- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #2 — Serverpod Installation and Setup](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-2-serverpod-installation-and-setup-5a64)
+- [Bevy Discord 0.17 Migration Guide](https://dev.to/as1100k/bevy-discord-017-migration-guide-3f8c)
+- [Engineering is dead, long live engineering.](https://dev.to/kaanrkaraman/engineering-is-dead-long-live-engineering-19o0)
+- [Building for the Real World: Why ERP Integration Matters More Than Fancy Dashboards](https://dev.to/hasshamalam/building-for-the-real-world-why-erp-integration-matters-more-than-fancy-dashboards-2mc0)
 <!-- BLOG-POST-LIST:END -->
 
