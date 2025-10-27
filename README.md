@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Learned in My First Week of TypeScript](https://dev.to/mashayeakh_islam_2666f2c3/5-things-i-learned-in-my-first-week-of-typescript-51md)
-- [Teaching OWASP Top 10 Through Frankenstein: When Creation Without Control Becomes Security Failure](https://dev.to/narnaiezzsshaa_truong/teaching-owasp-top-10-through-frankenstein-when-creation-without-control-becomes-security-failure-15no)
-- [🧠 AI Breakthroughs Reshaping 2025: What’s New This Week in Artificial Intelligence](https://dev.to/pratik_12b3f8bf3b50e48bae/ai-breakthroughs-reshaping-2025-whats-new-this-week-in-artificial-intelligence-3mpn)
-- [Effortless Vue.js Deployment with Firebase Hosting and GitHub Actions &lpar;No firebase-tools&rpar;](https://dev.to/udara_dananjaya/effortless-vuejs-deployment-with-firebase-hosting-and-github-actions-no-firebase-tools-4b7a)
+- [Task0 - AI task manager](https://dev.to/itsmefminsaf/task0-ai-task-manager-181a)
+- [Check out the guide on - The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74)
+- [The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp)
+- [Hashicorp Vault CLI Part 1: Initialization, Authentication &amp; Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl)
 <!-- BLOG-POST-LIST:END -->
 
