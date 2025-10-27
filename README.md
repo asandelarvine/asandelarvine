@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #2 — Serverpod Installation and Setup](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-2-serverpod-installation-and-setup-5a64)
-- [Bevy Discord 0.17 Migration Guide](https://dev.to/as1100k/bevy-discord-017-migration-guide-3f8c)
-- [Engineering is dead, long live engineering.](https://dev.to/kaanrkaraman/engineering-is-dead-long-live-engineering-19o0)
-- [Building for the Real World: Why ERP Integration Matters More Than Fancy Dashboards](https://dev.to/hasshamalam/building-for-the-real-world-why-erp-integration-matters-more-than-fancy-dashboards-2mc0)
+- [Introducing ReelTrust: What if data engineering could solve our AI deepfakes problem?](https://dev.to/aaronsteers/introducing-reeltrust-what-if-data-engineering-could-solve-our-ai-deepfake-problem-5ba3)
+- [C# Loop vs Linq. Does it really help](https://dev.to/pusparagsubudhi/c-loop-vs-linq-does-it-really-help-3ac3)
+- [Fundamental Concepts Of Cloud Computing](https://dev.to/cmwokocha/fundamental-concepts-of-cloud-computing-cai)
+- [Claude.ai Has Built-In Superpowers &lpar;And You Probably Didn&#39;t Know&rpar;](https://dev.to/nunc/claudeai-has-built-in-superpowers-and-you-probably-didnt-know-1haa)
 <!-- BLOG-POST-LIST:END -->
 
