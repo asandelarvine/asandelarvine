@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-2imc)
-- [📰Major Tech News: October 26th, 2025: The Infrastructure of Intelligence](https://dev.to/om_shree_0709/major-tech-news-october-26th-2025-the-infrastructure-of-intelligence-3lbp)
-- [VaultMind: Your AI Calendar Assistant with Auth0-Powered Security](https://dev.to/cuongnp/vaultmind-your-ai-calendar-assistant-with-auth0-powered-security-11m9)
-- [Beyond The Spreadsheet: Building Real-time Data Pipelines for Dynamic Sports Analytics](https://dev.to/wwx516/beyond-the-spreadsheet-building-real-time-data-pipelines-for-dynamic-sports-analytics-244l)
+- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
+- [Why LogLayer is the Logging Framework for Deno](https://dev.to/theogravity/why-loglayer-is-the-logging-framework-for-deno-4012)
+- [Code Like a Master Builder: AI-Powered Program Composition](https://dev.to/arvind_sundararajan/code-like-a-master-builder-ai-powered-program-composition-1jda)
+- [AI Hallucinations in 2025: Causes, Impact, and Solutions for Trustworthy AI](https://dev.to/navyashipsit/ai-hallucinations-in-2025-causes-impact-and-solutions-for-trustworthy-ai-4mga)
 <!-- BLOG-POST-LIST:END -->
 
