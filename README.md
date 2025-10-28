@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
-- [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
-- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
-- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
+- [Secure Remote Password &lpar;SRP&rpar; protocol](https://dev.to/tiago_sousa_4baece16501be/secure-remote-password-srp-protocol-18oj)
+- [MCUboot: Secure Boot in Zephyr](https://dev.to/ripan030/mcuboot-secure-boot-in-zephyr-4aoi)
+- [From Tool to Partner: The Rise of Large Model Agents](https://dev.to/superorange0707/from-tool-to-partner-the-rise-of-large-model-agents-444h)
+- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
 <!-- BLOG-POST-LIST:END -->
 
