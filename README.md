@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making non-atomic actions atomic using intents](https://dev.to/shalvah/making-non-atomic-actions-atomic-using-intents-25lg)
-- [S3](https://dev.to/jumptotech/s3-1mp7)
-- [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
-- [2WHAV: The Executable Prompting Framework Built on LLM-First Principles](https://dev.to/francesco_marconi_282058b/2whav-the-executable-prompting-framework-built-on-llm-first-principles-3760)
+- [3354. Make Array Elements Equal to Zero](https://dev.to/mdarifulhaque/3354-make-array-elements-equal-to-zero-3f6c)
+- [Construir Mi servidor casero. ¿El problema? …Venezuela](https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-venezuela-10d3)
+- [#5 The basic syntax of Python](https://dev.to/koichi_yoshikawa_dbd33319/5-the-basic-syntax-of-python-21b5)
+- [Políticas IAM: Entendendo como o acesso funciona na AWS](https://dev.to/sinngjpeg/politicas-iam-entendendo-como-o-acesso-funciona-na-aws-cl5)
 <!-- BLOG-POST-LIST:END -->
 
