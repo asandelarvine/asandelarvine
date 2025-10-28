@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Methods and Functions in C#](https://dev.to/neeraj_sharma_1135657c7f6/methods-and-functions-in-c-3f37)
-- [Contribution Chronicles: From Issue to Impact &lpar;Hacktoberfest&rpar;](https://dev.to/meshv_patel_7126d62eb60de/contribution-chronicles-from-issue-to-impact-hacktoberfest-4el5)
-- [Filament: Hide Submit and Cancel Buttons in wizard](https://dev.to/johndivam/filament-hide-submit-and-cancel-buttons-in-wizard-2bi7)
-- [How to Read Stock Charts: A Visual Guide](https://dev.to/globridge-tech/how-to-read-stock-charts-a-visual-guide-252i)
+- [Magic behind DDEV &amp; Lando Routing](https://dev.to/mitrakumar/magic-behind-ddev-lando-routing-37m)
+- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-4kn1)
+- [Hacktoberfest 2025: Building Open Source Tools That Matter - A Maintainer&#39;s Journey](https://dev.to/extinctsion/hacktoberfest-2025-building-open-source-tools-that-matter-a-maintainers-journey-14pn)
+- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
 <!-- BLOG-POST-LIST:END -->
 
