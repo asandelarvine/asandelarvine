@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
-- [Can a Sentence Give Orders Without a Speaker?](https://dev.to/agustin_v_startari/can-a-sentence-give-orders-without-a-speaker-5cf7)
-- [Artbitrator Launches!](https://dev.to/adzhydra/artbitrator-launches-2lk7)
-- [Why Your Product Team ‘Knows What to Do’ But Still Fails to Deliver &lpar;The ChatGPT Outage Lesson&rpar;](https://dev.to/yaseen_tech/why-your-product-team-knows-what-to-do-but-still-fails-to-deliver-the-chatgpt-outage-lesson-1eha)
+- [[Boost]](https://dev.to/pouyanjazini/-4i5c)
+- [Unlocking Developer Revenue: AI Monetization Through Dual-Earning with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-through-dual-earning-with-monetzly-2d8c)
+- [AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability](https://dev.to/capestart/ai-ethics-in-action-how-we-ensure-fairness-bias-mitigation-and-explainability-2pjm)
+- [How to Search Beyond the Docs When Your Code Won&#39;t Work](https://dev.to/cucoleadan/how-to-search-beyond-the-docs-when-your-code-wont-work-54e6)
 <!-- BLOG-POST-LIST:END -->
 
