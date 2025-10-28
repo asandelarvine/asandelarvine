@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Magic behind DDEV &amp; Lando Routing](https://dev.to/mitrakumar/magic-behind-ddev-lando-routing-37m)
-- [Which AI Interview Copilot Boosts Your Job Offers the Most? 🔥](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-4kn1)
-- [Hacktoberfest 2025: Building Open Source Tools That Matter - A Maintainer&#39;s Journey](https://dev.to/extinctsion/hacktoberfest-2025-building-open-source-tools-that-matter-a-maintainers-journey-14pn)
-- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
+- [test_devto](https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi)
+- [merge jsonschema](https://dev.to/devangular/merge-jsonschema-3667)
+- [Why Manual Testing Isn’t “Old School” - It’s the Secret Sauce for Smart Automation](https://dev.to/uziman-qa/why-manual-testing-isnt-old-school-its-the-secret-sauce-for-smart-automation-4f60)
+- [🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path](https://dev.to/tahamjp/refactoring-legacy-react-apps-the-micro-frontend-path-3icf)
 <!-- BLOG-POST-LIST:END -->
 
