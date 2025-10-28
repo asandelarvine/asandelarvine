@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3354. Make Array Elements Equal to Zero](https://dev.to/mdarifulhaque/3354-make-array-elements-equal-to-zero-3f6c)
-- [Construir Mi servidor casero. ¿El problema? …Venezuela](https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-venezuela-10d3)
-- [#5 The basic syntax of Python](https://dev.to/koichi_yoshikawa_dbd33319/5-the-basic-syntax-of-python-21b5)
-- [Políticas IAM: Entendendo como o acesso funciona na AWS](https://dev.to/sinngjpeg/politicas-iam-entendendo-como-o-acesso-funciona-na-aws-cl5)
+- [AI in Software Testing: Revolutionizing Quality Assurance and Debugging](https://dev.to/softwaredeveloper01/ai-in-software-testing-revolutionizing-quality-assurance-and-debugging-35in)
+- [Everyone&#39;s welcome on the journey 🔥
+This product will be unique, bouncing between high performance, high quality, and output!](https://dev.to/yorchperaza/everyones-welcome-on-the-journey-this-product-will-be-unique-bouncing-between-high-3o65)
+- [# 🌌 Núcleo da Imaginação: Quando o Código Vira Poesia](https://dev.to/juan_carlos_5865da63bdd8a/-nucleo-da-imaginacao-quando-o-codigo-vira-poesia-1n70)
+- [Large Scale Diffusion Distillation via Score-Regularized Continuous-TimeConsistency](https://dev.to/paperium/large-scale-diffusion-distillation-via-score-regularized-continuous-timeconsistency-375i)
 <!-- BLOG-POST-LIST:END -->
 
