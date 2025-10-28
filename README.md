@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tags And Elements](https://dev.to/suma_suma/tags-and-elements-1c8)
-- [Fashion Analysis: Understanding Customer Churn in Fashion Industry](https://dev.to/gateru/fashion-analysis-understanding-customer-churn-in-fashion-industry-3jge)
-- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
-- [🚀 Why Rails 8’s New Deployment Model Is a Game-Changer](https://dev.to/bibimbop123/why-rails-8s-new-deployment-model-is-a-game-changer-2p1e)
+- [Beyond the Hype: A Human-Centric Approach to AI in Marketing](https://dev.to/mcleanforresterllc/beyond-the-hype-a-human-centric-approach-to-ai-in-marketing-58bc)
+- [🧩 Building a Complete Learning Path for Generative AI Engineers — From Python to AI Agents](https://dev.to/jaime_lucenaprez_3f7722/building-a-complete-learning-path-for-generative-ai-engineers-from-python-to-ai-agents-4i79)
+- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
+- [Leanding page](https://dev.to/ari_wardanilubis_09c6801/leanding-page-fpo)
 <!-- BLOG-POST-LIST:END -->
 
