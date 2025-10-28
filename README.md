@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO and Next.js: How to Implement and Optimize for Better Results](https://dev.to/adetolaesther/seo-and-nextjs-how-to-implement-and-optimize-for-better-results-54pj)
-- [Building Smarter AI: Types of Memory and How to Make Your Agent Remember](https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek)
-- [The Hidden Cost of Manual Competitor Tracking](https://dev.to/tracksimple/the-hidden-cost-of-manual-competitor-tracking-2hni)
-- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-3fgm)
+- [Build a Profitable Membership Site in WordPress](https://dev.to/serveravatar/build-a-profitable-membership-site-in-wordpress-4o51)
+- [SystemTap and ftrace for debugging](https://dev.to/godofgeeks/systemtap-and-ftrace-for-debugging-1jka)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ie4)
+- [WebP Converter: The Essential Guide to Modern Image Optimization](https://dev.to/hardik_b2d8f0bca/webp-converter-the-essential-guide-to-modern-image-optimization-51ke)
 <!-- BLOG-POST-LIST:END -->
 
