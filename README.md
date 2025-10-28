@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Profitable Membership Site in WordPress](https://dev.to/serveravatar/build-a-profitable-membership-site-in-wordpress-4o51)
-- [SystemTap and ftrace for debugging](https://dev.to/godofgeeks/systemtap-and-ftrace-for-debugging-1jka)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ie4)
-- [WebP Converter: The Essential Guide to Modern Image Optimization](https://dev.to/hardik_b2d8f0bca/webp-converter-the-essential-guide-to-modern-image-optimization-51ke)
+- [🚀 4 TypeScript Concepts That Made Me Write Cleaner Code](https://dev.to/mashayeakh_islam_2666f2c3/4-typescript-concepts-that-made-me-write-cleaner-code-42m9)
+- [Estimate cloud costs with Terraform and Infracost](https://dev.to/techielass/estimate-cloud-costs-with-terraform-and-infracost-16kd)
+- [Old Databases, New SaaS Lessons](https://dev.to/sonu_goswami/old-databases-new-saas-lessons-4pcc)
+- [How to Begin a Speech Confidently: Expert Techniques for 2025](https://dev.to/chakshu_gupta_07/how-to-begin-a-speech-confidently-expert-techniques-for-2025-239a)
 <!-- BLOG-POST-LIST:END -->
 
