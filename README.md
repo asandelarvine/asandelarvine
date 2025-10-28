@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learnt about arrays and pointers in C &lpar;As a refresher&rpar;](https://dev.to/ian_kamande/what-i-learnt-about-arrays-and-pointers-in-c-as-a-refresher-2419)
-- [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
+- [How to Use Apidog for AI Test Case Generation](https://dev.to/therealmrmumba/how-to-use-apidog-for-ai-test-case-generation-1e4h)
+- [🚀 My Journey Learning App Development with Jetpack Compose at 16](https://dev.to/pjdeveloper896/my-journey-learning-app-development-with-jetpack-compose-at-16-3eij)
+- [Introducing the Flora Devnet.](https://dev.to/quionie/introducing-the-flora-devnet-1047)
+- [Why 57% of Agency Clients Leave &lpar;And How to Stop It&rpar;](https://dev.to/teamcamp/why-57-of-agency-clients-leave-and-how-to-stop-it-5amj)
 <!-- BLOG-POST-LIST:END -->
 
