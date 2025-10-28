@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Human-Centric Approach to AI in Marketing](https://dev.to/mcleanforresterllc/beyond-the-hype-a-human-centric-approach-to-ai-in-marketing-58bc)
-- [🧩 Building a Complete Learning Path for Generative AI Engineers — From Python to AI Agents](https://dev.to/jaime_lucenaprez_3f7722/building-a-complete-learning-path-for-generative-ai-engineers-from-python-to-ai-agents-4i79)
-- [Marketing 101: Funnels, Campaigns, and What Marketing Actually Means](https://dev.to/mattstratton/marketing-101-funnels-campaigns-and-what-marketing-actually-means-4j81)
-- [Leanding page](https://dev.to/ari_wardanilubis_09c6801/leanding-page-fpo)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
+- [Cut token waste from your AI workflow with the ToolHive MCP Optimizer](https://dev.to/stacklok/cut-token-waste-from-your-ai-workflow-with-the-toolhive-mcp-optimizer-3oo6)
+- [How to Upgrade EKS 1.32: Making the Switch from bootstrap.sh to nodeadm](https://dev.to/hugolesta/how-to-upgrade-eks-132-making-the-switch-from-bootstrapsh-to-nodeadm-9lf)
+- [How Coding Games Improve Problem-Solving Skills in Kids](https://dev.to/alexandra_taylor_fd7a7dc5/how-coding-games-improve-problem-solving-skills-in-kids-401g)
 <!-- BLOG-POST-LIST:END -->
 
