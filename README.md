@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Apidog for AI Test Case Generation](https://dev.to/therealmrmumba/how-to-use-apidog-for-ai-test-case-generation-1e4h)
-- [🚀 My Journey Learning App Development with Jetpack Compose at 16](https://dev.to/pjdeveloper896/my-journey-learning-app-development-with-jetpack-compose-at-16-3eij)
-- [Introducing the Flora Devnet.](https://dev.to/quionie/introducing-the-flora-devnet-1047)
-- [Why 57% of Agency Clients Leave &lpar;And How to Stop It&rpar;](https://dev.to/teamcamp/why-57-of-agency-clients-leave-and-how-to-stop-it-5amj)
+- [SEO and Next.js: How to Implement and Optimize for Better Results](https://dev.to/adetolaesther/seo-and-nextjs-how-to-implement-and-optimize-for-better-results-54pj)
+- [Building Smarter AI: Types of Memory and How to Make Your Agent Remember](https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek)
+- [The Hidden Cost of Manual Competitor Tracking](https://dev.to/tracksimple/the-hidden-cost-of-manual-competitor-tracking-2hni)
+- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-3fgm)
 <!-- BLOG-POST-LIST:END -->
 
