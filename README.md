@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hn5)
-- [Cut token waste from your AI workflow with the ToolHive MCP Optimizer](https://dev.to/stacklok/cut-token-waste-from-your-ai-workflow-with-the-toolhive-mcp-optimizer-3oo6)
-- [How to Upgrade EKS 1.32: Making the Switch from bootstrap.sh to nodeadm](https://dev.to/hugolesta/how-to-upgrade-eks-132-making-the-switch-from-bootstrapsh-to-nodeadm-9lf)
-- [How Coding Games Improve Problem-Solving Skills in Kids](https://dev.to/alexandra_taylor_fd7a7dc5/how-coding-games-improve-problem-solving-skills-in-kids-401g)
+- [Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs](https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5)
+- [How do I delegate when I can do it faster myself?](https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh)
+- [Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely](https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66)
+- [The Model Context Protocol &lpar;MCP&rpar;: A Foundational Standard for Agentic AI Systems](https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg)
 <!-- BLOG-POST-LIST:END -->
 
