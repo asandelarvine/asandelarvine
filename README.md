@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/pouyanjazini/-4i5c)
-- [Unlocking Developer Revenue: AI Monetization Through Dual-Earning with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-through-dual-earning-with-monetzly-2d8c)
-- [AI Ethics in Action: How We Ensure Fairness, Bias Mitigation, and Explainability](https://dev.to/capestart/ai-ethics-in-action-how-we-ensure-fairness-bias-mitigation-and-explainability-2pjm)
-- [How to Search Beyond the Docs When Your Code Won&#39;t Work](https://dev.to/cucoleadan/how-to-search-beyond-the-docs-when-your-code-wont-work-54e6)
+- [Tags And Elements](https://dev.to/suma_suma/tags-and-elements-1c8)
+- [Fashion Analysis: Understanding Customer Churn in Fashion Industry](https://dev.to/gateru/fashion-analysis-understanding-customer-churn-in-fashion-industry-3jge)
+- [Automating Bluesky for AI Agents — AT Protocol Bot](https://dev.to/p3ngu1nzz/automating-bluesky-for-ai-agents-at-protocol-bot-44k1)
+- [🚀 Why Rails 8’s New Deployment Model Is a Game-Changer](https://dev.to/bibimbop123/why-rails-8s-new-deployment-model-is-a-game-changer-2p1e)
 <!-- BLOG-POST-LIST:END -->
 
