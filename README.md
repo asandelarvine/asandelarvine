@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 4 TypeScript Concepts That Made Me Write Cleaner Code](https://dev.to/mashayeakh_islam_2666f2c3/4-typescript-concepts-that-made-me-write-cleaner-code-42m9)
-- [Estimate cloud costs with Terraform and Infracost](https://dev.to/techielass/estimate-cloud-costs-with-terraform-and-infracost-16kd)
-- [Old Databases, New SaaS Lessons](https://dev.to/sonu_goswami/old-databases-new-saas-lessons-4pcc)
-- [How to Begin a Speech Confidently: Expert Techniques for 2025](https://dev.to/chakshu_gupta_07/how-to-begin-a-speech-confidently-expert-techniques-for-2025-239a)
+- [𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐂𝐨𝐥𝐝 𝐒𝐭𝐚𝐫𝐭𝐬 𝐢𝐧 𝐀𝐖𝐒 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 &lpar;𝐋𝐚𝐦𝐛𝐝𝐚&rpar;](https://dev.to/shubhamb/-20bc)
+- [artifital intellengence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellengence-17ok)
+- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-4mk8)
+- [How to build a Python email-checker using the Mail7 API &lpar;and spot disposable addresses like TempMailbox&rpar;](https://dev.to/densi/how-to-build-a-python-email-checker-using-the-mail7-api-and-spot-disposable-addresses-like-3bh2)
 <!-- BLOG-POST-LIST:END -->
 
