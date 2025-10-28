@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [test_devto](https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi)
-- [merge jsonschema](https://dev.to/devangular/merge-jsonschema-3667)
-- [Why Manual Testing Isn’t “Old School” - It’s the Secret Sauce for Smart Automation](https://dev.to/uziman-qa/why-manual-testing-isnt-old-school-its-the-secret-sauce-for-smart-automation-4f60)
-- [🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path](https://dev.to/tahamjp/refactoring-legacy-react-apps-the-micro-frontend-path-3icf)
+- [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
+- [Can a Sentence Give Orders Without a Speaker?](https://dev.to/agustin_v_startari/can-a-sentence-give-orders-without-a-speaker-5cf7)
+- [Artbitrator Launches!](https://dev.to/adzhydra/artbitrator-launches-2lk7)
+- [Why Your Product Team ‘Knows What to Do’ But Still Fails to Deliver &lpar;The ChatGPT Outage Lesson&rpar;](https://dev.to/yaseen_tech/why-your-product-team-knows-what-to-do-but-still-fails-to-deliver-the-chatgpt-outage-lesson-1eha)
 <!-- BLOG-POST-LIST:END -->
 
