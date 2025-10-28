@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Remote Password &lpar;SRP&rpar; protocol](https://dev.to/tiago_sousa_4baece16501be/secure-remote-password-srp-protocol-18oj)
-- [MCUboot: Secure Boot in Zephyr](https://dev.to/ripan030/mcuboot-secure-boot-in-zephyr-4aoi)
-- [From Tool to Partner: The Rise of Large Model Agents](https://dev.to/superorange0707/from-tool-to-partner-the-rise-of-large-model-agents-444h)
-- [Performance Testing Restaurant Software: Simulating Rush Hour Traffic](https://dev.to/andrewhuntingdon/performance-testing-restaurant-software-simulating-rush-hour-traffic-57oj)
+- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
+- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
+- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
+- [Beyond the Hype: Are AI Agents Just Fancy State Machines?](https://dev.to/arvind_sundararajan/beyond-the-hype-are-ai-agents-just-fancy-state-machines-4gma)
 <!-- BLOG-POST-LIST:END -->
 
