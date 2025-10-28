@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Software Testing: Revolutionizing Quality Assurance and Debugging](https://dev.to/softwaredeveloper01/ai-in-software-testing-revolutionizing-quality-assurance-and-debugging-35in)
-- [Everyone&#39;s welcome on the journey 🔥
-This product will be unique, bouncing between high performance, high quality, and output!](https://dev.to/yorchperaza/everyones-welcome-on-the-journey-this-product-will-be-unique-bouncing-between-high-3o65)
-- [# 🌌 Núcleo da Imaginação: Quando o Código Vira Poesia](https://dev.to/juan_carlos_5865da63bdd8a/-nucleo-da-imaginacao-quando-o-codigo-vira-poesia-1n70)
-- [Large Scale Diffusion Distillation via Score-Regularized Continuous-TimeConsistency](https://dev.to/paperium/large-scale-diffusion-distillation-via-score-regularized-continuous-timeconsistency-375i)
+- [What I learnt about arrays and pointers in C &lpar;As a refresher&rpar;](https://dev.to/ian_kamande/what-i-learnt-about-arrays-and-pointers-in-c-as-a-refresher-2419)
+- [The Sun Wukong Framework: Encoding Escalation, Evasion, and Strategic Containment in Cybersecurity](https://dev.to/narnaiezzsshaa_truong/the-sun-wukong-framework-encoding-escalation-evasion-and-strategic-containment-in-cybersecurity-9do)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-m7l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
 <!-- BLOG-POST-LIST:END -->
 
