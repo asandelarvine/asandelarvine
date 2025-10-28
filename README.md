@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
-- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
-- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
-- [Beyond the Hype: Are AI Agents Just Fancy State Machines?](https://dev.to/arvind_sundararajan/beyond-the-hype-are-ai-agents-just-fancy-state-machines-4gma)
+- [MongoDB-Style Filtering in TypeScript with @mcabreradev/filter](https://dev.to/mcabreradev/mongodb-style-filtering-in-typescript-with-mcabreradevfilter-4gp8)
+- [Building a Scalable AWS Multi-Account Environment with Control Tower, Terraform AFT, and SCP Guardrails](https://dev.to/santanu_das/building-a-scalable-aws-multi-account-environment-with-control-tower-terraform-aft-and-scp-2kf8)
+- [MCUboot: Firmware Application Image Format](https://dev.to/ripan030/mcuboot-firmware-application-image-format-3084)
+- [CloudFront and AWS global accelerator](https://dev.to/jumptotech/cloudfront-and-aws-global-accelerator-48fl)
 <!-- BLOG-POST-LIST:END -->
 
