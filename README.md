@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs](https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5)
-- [How do I delegate when I can do it faster myself?](https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh)
-- [Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely](https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66)
-- [The Model Context Protocol &lpar;MCP&rpar;: A Foundational Standard for Agentic AI Systems](https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg)
+- [I Added a Chat Interface to My LLM Training Tool &lpar;And You Can Try It Now&rpar;](https://dev.to/theaniketgiri/i-added-a-chat-interface-to-my-llm-training-tool-and-you-can-try-it-now-1kck)
+- [💡 Productivity and Security Tips for Developers](https://dev.to/beeinbox/productivity-and-security-tips-for-developers-2hjb)
+- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
+- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
 <!-- BLOG-POST-LIST:END -->
 
