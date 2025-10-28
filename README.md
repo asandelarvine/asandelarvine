@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐂𝐨𝐥𝐝 𝐒𝐭𝐚𝐫𝐭𝐬 𝐢𝐧 𝐀𝐖𝐒 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 &lpar;𝐋𝐚𝐦𝐛𝐝𝐚&rpar;](https://dev.to/shubhamb/-20bc)
-- [artifital intellengence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellengence-17ok)
-- [Artifital Intellegence](https://dev.to/ubaid_ullah_fa7600cc6735d/artifital-intellegence-4mk8)
-- [How to build a Python email-checker using the Mail7 API &lpar;and spot disposable addresses like TempMailbox&rpar;](https://dev.to/densi/how-to-build-a-python-email-checker-using-the-mail7-api-and-spot-disposable-addresses-like-3bh2)
+- [Methods and Functions in C#](https://dev.to/neeraj_sharma_1135657c7f6/methods-and-functions-in-c-3f37)
+- [Contribution Chronicles: From Issue to Impact &lpar;Hacktoberfest&rpar;](https://dev.to/meshv_patel_7126d62eb60de/contribution-chronicles-from-issue-to-impact-hacktoberfest-4el5)
+- [Filament: Hide Submit and Cancel Buttons in wizard](https://dev.to/johndivam/filament-hide-submit-and-cancel-buttons-in-wizard-2bi7)
+- [How to Read Stock Charts: A Visual Guide](https://dev.to/globridge-tech/how-to-read-stock-charts-a-visual-guide-252i)
 <!-- BLOG-POST-LIST:END -->
 
