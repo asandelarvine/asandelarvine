@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2025-10-29](https://dev.to/0xkkocel/wednesday-links-edition-2025-10-29-27i8)
-- [Unlocking Developer Revenue: Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-monetization-strategies-for-llm-apps-with-monetzly-577a)
-- [Guide to Setting Up AMD Ryzen AI NPU Drivers on Fedora 43](https://dev.to/ankk98/guide-to-setting-up-amd-ryzen-ai-npu-drivers-on-fedora-43-477i)
-- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
+- [Keyword vs. semantic search with AI](https://dev.to/alejandro_du/keyword-vs-semantic-search-with-ai-c03)
+- [4 Best Power BI &amp; Data Analytics Projects That You Must See!](https://dev.to/niveshbansal07/4-best-power-bi-data-analytics-projects-that-you-must-see-1m1g)
+- [.NET 10: O GC que reduz a memória, mas exige uma escolha dura – Você aceita diminuir o Throughput?](https://dev.to/unhacked/net-10-o-gc-que-reduz-a-memoria-mas-exige-uma-escolha-dura-voce-aceita-diminuir-o-throughput-7fi)
+- [Top 6 Smart Workplace Technologies Powering the Hybrid Office Revolution](https://dev.to/mattricci/top-6-smart-workplace-technologies-powering-the-hybrid-office-revolution-2dk9)
 <!-- BLOG-POST-LIST:END -->
 
