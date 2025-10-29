@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Native Consumer Linux: A Vision for the Future](https://dev.to/ankk98/ai-native-consumer-linux-a-vision-for-the-future-1jd3)
-- [Lost my old DEV.to account after 3 amazing years and 2K+ followers.](https://dev.to/simcdevv/lost-my-old-devto-account-after-3-amazing-years-and-2k-followers-5f5m)
-- [50+ Developer Documentation Tools That Will Transform Your Workflow in 2025](https://dev.to/apilover/50-developer-documentation-tools-that-will-transform-your-workflow-in-2025-b1j)
-- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
+- [RAG Evaluation Metrics: A Practical Guide for Measuring Retrieval-Augmented Generation with Maxim AI](https://dev.to/debmckinney/rag-evaluation-metrics-a-practical-guide-for-measuring-retrieval-augmented-generation-with-maxim-ai-2dkj)
+- [Healing with Heart: The Inspiring Journey of Dr. Rachna Buxani](https://dev.to/rachna_buxani_141bd2c6f1b/healing-with-heart-the-inspiring-journey-of-dr-rachna-buxani-167l)
+- [Automate React App Deployment with AWS CodePipeline &amp; S3 🚀](https://dev.to/julien_muke_af812ff28d550/automate-react-app-deployment-with-aws-codepipeline-s3-4o17)
+- [Building a Gzip Compression Library in Zig 0.15: A Deep Dive into Comprezz](https://dev.to/bkataru/building-a-gzip-compression-library-in-zig-015-a-deep-dive-into-comprezz-2nag)
 <!-- BLOG-POST-LIST:END -->
 
