@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
-- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
+- [🛡️ What Makes Linux Secure &lpar;and Where It&#39;s Weak - Plus How to Fix It&rpar;](https://dev.to/secbyshresth/what-makes-linux-secure-and-where-its-weak-plus-how-to-fix-it-2kpi)
+- [🪙 Day 29 of #30DaysOfSolidity — Building a Collateral-Backed Stablecoin in Solidity — Step-by-Step Guide](https://dev.to/sauravkumar8178/day-29-of-30daysofsolidity-building-a-collateral-backed-stablecoin-in-solidity-step-by-step-6dd)
+- [From Confusion to Creation: My Ongoing Journey in Tech](https://dev.to/bishopkbb/from-confusion-to-creation-my-ongoing-journey-in-tech-36h0)
+- [Debugging AI in Production: Root Cause Analysis with Observability](https://dev.to/kuldeep_paul/debugging-ai-in-production-root-cause-analysis-with-observability-2h83)
 <!-- BLOG-POST-LIST:END -->
 
