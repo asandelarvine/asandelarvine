@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get in Line: Customizing Column Order in MudBlazor](https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail)
-- [Bra just zil...](https://dev.to/bibimbop123/bra-just-zil-419j)
-- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
-- [Docker Containers Unable to Access Internet? Check Your VPS Private Network](https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1)
+- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-186j)
+- [AI Prompt Organizer &lpar;Free and No Sign-up Needed&rpar;](https://dev.to/foxinfotech/ai-prompt-organizer-free-and-no-sign-up-needed-3llg)
+- [How I Vibe Code after researching everything](https://dev.to/v462/how-i-vibe-code-after-researching-everything-2mib)
 <!-- BLOG-POST-LIST:END -->
 
