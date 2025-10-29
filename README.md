@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My API Testing &amp; Postman Automation Journey with Gradific API](https://dev.to/loveline/my-api-testing-postman-automation-journey-with-gradific-api-2a6)
-- [🚀 WebForms Core: The First Time You Realize the Web Can Be Simpler, Faster, and Smarter](https://dev.to/elanatframework/webforms-core-the-first-time-you-realize-the-web-can-be-simpler-faster-and-smarter-29ec)
-- [prmt: instant-feeling shell prompts &lpar;sub-millisecond, even over SSH&rpar;](https://dev.to/zenpie/prmt-instant-feeling-shell-prompts-sub-millisecond-even-over-ssh-2dd3)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-1l7f)
+- [Save YouTube Videos Without Losing Quality](https://dev.to/gerrit_cole/save-youtube-videos-without-losing-quality-535j)
+- [Update: 485 downloads in 48 hrs - wild! Drop a comment if you&#39;re using it.](https://dev.to/bright_agyemang_d609f542f/update-485-downloads-in-48-hrs-wild-drop-a-comment-if-youre-using-it-4eah)
+- [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
+- [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
 <!-- BLOG-POST-LIST:END -->
 
