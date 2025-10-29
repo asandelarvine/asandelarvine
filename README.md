@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Resonant Mapping — Part 4 of the SaijinOS Series](https://dev.to/kato_masato_c5593c81af5c6/resonant-mapping-part-4-of-the-saijinos-series-gce)
-- [Best Practices for Using CodeIgniter as Frontend with an Expandable Multi‑Platform Backend](https://dev.to/yusdirman/best-practices-for-using-codeigniter-as-frontend-with-an-expandable-multi-platform-backend-4dbh)
-- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
-- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
+- [CSS Smart Selectors &amp; Pseudo Elements](https://dev.to/ebenezer_merdekiyos_72a05/css-smart-selectors-pseudo-elements-4mcc)
+- [Top 10 Things You Should Know About AI Avatar Creation in 2025](https://dev.to/andrey_arshavin_c8387df7f/top-10-things-you-should-know-about-ai-avatar-creation-in-2025-g7g)
+- [Windows 10 End of Support: Turn IT Costs into Sales ROI &lpar;2025&rpar;](https://dev.to/revenue_velocity_lab/windows-10-end-of-support-turn-it-costs-into-sales-roi-2025-2pi0)
+- [Decoupled Perception: A New Dawn for Robust AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoupled-perception-a-new-dawn-for-robust-ai-by-arvind-sundararajan-3p7f)
 <!-- BLOG-POST-LIST:END -->
 
