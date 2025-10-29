@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 ngxsmk-datatable v1.7.0 — Enterprise Edition is here!](https://dev.to/toozuuu/ngxsmk-datatable-v170-enterprise-edition-is-here-2hf1)
-- [Beyond YAML: Building Kubernetes Operators with CRDs and the Reconciliation Loop](https://dev.to/naveens16/beyond-yaml-building-kubernetes-operators-with-crds-and-the-reconciliation-loop-524d)
-- [The Illusions of Quality — Episode 10: 🎨 The Art of the Quality Argument: How to Persuade Managers to Invest in Quality](https://dev.to/abdulosman/the-illusions-of-quality-episode-10-the-art-of-the-quality-argument-how-to-persuade-managers-24k6)
-- [🚀 How I Built a Multi-Agent AI Workflow System with n8n and Python](https://dev.to/roman_60d27e756c682fc5272/how-i-built-a-multi-agent-ai-workflow-system-with-n8n-and-python-41m1)
+- [AI-Native Consumer Linux: A Vision for the Future](https://dev.to/ankk98/ai-native-consumer-linux-a-vision-for-the-future-1jd3)
+- [Lost my old DEV.to account after 3 amazing years and 2K+ followers.](https://dev.to/simcdevv/lost-my-old-devto-account-after-3-amazing-years-and-2k-followers-5f5m)
+- [50+ Developer Documentation Tools That Will Transform Your Workflow in 2025](https://dev.to/apilover/50-developer-documentation-tools-that-will-transform-your-workflow-in-2025-b1j)
+- [How to Debug Applications Running in Docker Containers](https://dev.to/addwebsolutionpvtltd/how-to-debug-applications-running-in-docker-containers-4ego)
 <!-- BLOG-POST-LIST:END -->
 
