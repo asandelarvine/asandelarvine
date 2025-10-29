@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Autonomous AI Agents in C#: Tips from Real-World Applications](https://dev.to/lofcz/building-autonomous-ai-agents-in-c-tips-from-real-world-applications-4f74)
-- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
-- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
-- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
+- [Get in Line: Customizing Column Order in MudBlazor](https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail)
+- [Bra just zil...](https://dev.to/bibimbop123/bra-just-zil-419j)
+- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
+- [Docker Containers Unable to Access Internet? Check Your VPS Private Network](https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1)
 <!-- BLOG-POST-LIST:END -->
 
