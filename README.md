@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3](https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh)
-- [Unlock Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlock-developer-revenue-the-future-of-ai-monetization-with-monetzly-2c22)
-- [From Freelancers to Brands: How Everyone Can Benefit from Batch Background Removal](https://dev.to/freepixel11/from-freelancers-to-brands-how-everyone-can-benefit-from-batch-background-removal-5dl0)
-- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco)
+- [Java Annotations Demystified](https://dev.to/satyam_gupta_0d1ff2152dcc/java-annotations-demystified-40dh)
+- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
+- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
+- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
 <!-- BLOG-POST-LIST:END -->
 
