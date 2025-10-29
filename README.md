@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Smart Selectors &amp; Pseudo Elements](https://dev.to/ebenezer_merdekiyos_72a05/css-smart-selectors-pseudo-elements-4mcc)
-- [Top 10 Things You Should Know About AI Avatar Creation in 2025](https://dev.to/andrey_arshavin_c8387df7f/top-10-things-you-should-know-about-ai-avatar-creation-in-2025-g7g)
-- [Windows 10 End of Support: Turn IT Costs into Sales ROI &lpar;2025&rpar;](https://dev.to/revenue_velocity_lab/windows-10-end-of-support-turn-it-costs-into-sales-roi-2025-2pi0)
-- [Decoupled Perception: A New Dawn for Robust AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoupled-perception-a-new-dawn-for-robust-ai-by-arvind-sundararajan-3p7f)
+- [Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3](https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh)
+- [Unlock Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlock-developer-revenue-the-future-of-ai-monetization-with-monetzly-2c22)
+- [From Freelancers to Brands: How Everyone Can Benefit from Batch Background Removal](https://dev.to/freepixel11/from-freelancers-to-brands-how-everyone-can-benefit-from-batch-background-removal-5dl0)
+- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco)
 <!-- BLOG-POST-LIST:END -->
 
