@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can we find calm in a world of chaos?](https://dev.to/ben/can-we-find-calm-in-a-world-of-chaos-34o0)
-- [Hugo: remove accents from anchors](https://dev.to/spo0q/hugo-remove-accents-from-anchors-3786)
-- [JavaScript - Things](https://dev.to/facubotta/javascript-things-2obf)
-- [Boosting Goose Performance on Windows — Real Benchmarks, Power Tweaks, and Results](https://dev.to/mohammed_thaha/boosting-goose-performance-on-windows-real-benchmarks-power-tweaks-and-results-54gf)
+- [🚀 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐓𝐢𝐭𝐥𝐞𝐬 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭: 𝐐𝐮𝐢𝐜𝐤 𝐓𝐢𝐩](https://dev.to/mirnatul/-18pc)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-15e8)
+- [Como ajudar as pessoas a contribuirem com seu projeto Open Source](https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm)
+- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)
 <!-- BLOG-POST-LIST:END -->
 
