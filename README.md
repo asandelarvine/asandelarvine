@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Remote Work Guide for 2025: What Actually Works Now](https://dev.to/teamcamp/the-complete-remote-work-guide-for-2025-what-actually-works-now-mg3)
-- [Building MindSpark AI: The Future of Smart Learning with Flashcards and Quizzes](https://dev.to/debasis_panda_31e768f5e44/building-mindspark-ai-the-future-of-smart-learning-with-flashcards-and-quizzes-4gp1)
-- [Designing an Efficient, Secure, and Scalable Cloud System: AWS SAP-C02 Exam Study Guide](https://dev.to/jerry_1fd8dc58194335413ae/designing-an-efficient-secure-and-scalable-cloud-system-aws-sap-c02-exam-study-guide-5bh9)
-- [AI in Marketing Automation 2025: The Rise of Intelligent, Intent-Driven Marketing](https://dev.to/shubh_e01f22da2137f1d7b2b/ai-in-marketing-automation-2025-the-rise-of-intelligent-intent-driven-marketing-51d6)
+- [Testing Your AI Agents with Rogue using MCP](https://dev.to/yuvalqf/testing-your-ai-agents-with-rogue-using-mcp-1eb2)
+- [LinkedSignal vs Computed: The Angular Signals Showdown You&#39;ve Been Waiting For](https://dev.to/codewithrajat/linkedsignal-vs-computed-the-angular-signals-showdown-youve-been-waiting-for-438)
+- [I Built a New Tool for Claude Code That’ll Save You Time —Here’s Why You Should Try It](https://dev.to/tomeraitz/i-built-a-new-tool-for-claude-code-thatll-save-you-time-heres-why-you-should-try-it-p9a)
+- [How to Stop Your AI from Making Things Up: A Guide to Grounding LLM Responses in Data](https://dev.to/duplys/how-to-stop-your-ai-from-making-things-up-a-guide-to-grounding-llm-responses-in-data-2joc)
 <!-- BLOG-POST-LIST:END -->
 
