@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Go Faster: Cutting the Slack in GC with Smart Memory Allocation](https://dev.to/aris_georgatos/go-faster-cutting-the-slack-in-gc-with-smart-memory-allocation-304h)
-- [Understanding Passkeys in SwiftUI: Part 1](https://dev.to/arshtechpro/understanding-passkeys-in-swiftui-part-1-cgc)
-- [How to use JWTokens properly](https://dev.to/0netheball/how-to-use-jwtokens-properly-21cg)
-- [Understanding the `as` and `is` Keywords in C#](https://dev.to/mrunal77/understanding-the-as-and-is-keywords-in-c-kf1)
+- [🚀 ngxsmk-datatable v1.7.0 — Enterprise Edition is here!](https://dev.to/toozuuu/ngxsmk-datatable-v170-enterprise-edition-is-here-2hf1)
+- [Beyond YAML: Building Kubernetes Operators with CRDs and the Reconciliation Loop](https://dev.to/naveens16/beyond-yaml-building-kubernetes-operators-with-crds-and-the-reconciliation-loop-524d)
+- [The Illusions of Quality — Episode 10: 🎨 The Art of the Quality Argument: How to Persuade Managers to Invest in Quality](https://dev.to/abdulosman/the-illusions-of-quality-episode-10-the-art-of-the-quality-argument-how-to-persuade-managers-24k6)
+- [🚀 How I Built a Multi-Agent AI Workflow System with n8n and Python](https://dev.to/roman_60d27e756c682fc5272/how-i-built-a-multi-agent-ai-workflow-system-with-n8n-and-python-41m1)
 <!-- BLOG-POST-LIST:END -->
 
