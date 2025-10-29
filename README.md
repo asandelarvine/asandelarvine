@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create the &quot;Apple Liquid Glass&quot; Effect with CSS and SVG](https://dev.to/fabiosleal/how-to-create-the-apple-liquid-glass-effect-with-css-and-svg-2o06)
-- [Unlocking Success: Your Ultimate Guide to Shopify Ecommerce](https://dev.to/api_troll/unlocking-success-your-ultimate-guide-to-shopify-ecommerce-1e04)
-- [Master YAML in 2024: Complete Learning Guide for DevOps Engineers](https://dev.to/yuvrajkarna/master-yaml-in-2024-complete-learning-guide-for-devops-engineers-4f4e)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-c61)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-p7d)
+- [**Unlocking Efficient Media Processing with Domain Knowledge](https://dev.to/drcarlosruizviquez/unlocking-efficient-media-processing-with-domain-knowledge-3jj7)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
 <!-- BLOG-POST-LIST:END -->
 
