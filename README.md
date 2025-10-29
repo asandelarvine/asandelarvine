@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep GitHub Copilot from going off the rails with instructions files](https://dev.to/anyveldt/keep-github-copilot-from-going-off-the-rails-with-instructions-files-2097)
-- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
-- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
+- [Can we find calm in a world of chaos?](https://dev.to/ben/can-we-find-calm-in-a-world-of-chaos-34o0)
+- [Hugo: remove accents from anchors](https://dev.to/spo0q/hugo-remove-accents-from-anchors-3786)
+- [JavaScript - Things](https://dev.to/facubotta/javascript-things-2obf)
+- [Boosting Goose Performance on Windows — Real Benchmarks, Power Tweaks, and Results](https://dev.to/mohammed_thaha/boosting-goose-performance-on-windows-real-benchmarks-power-tweaks-and-results-54gf)
 <!-- BLOG-POST-LIST:END -->
 
