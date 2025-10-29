@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Your AI Agents with Rogue using MCP](https://dev.to/yuvalqf/testing-your-ai-agents-with-rogue-using-mcp-1eb2)
-- [LinkedSignal vs Computed: The Angular Signals Showdown You&#39;ve Been Waiting For](https://dev.to/codewithrajat/linkedsignal-vs-computed-the-angular-signals-showdown-youve-been-waiting-for-438)
-- [I Built a New Tool for Claude Code That’ll Save You Time —Here’s Why You Should Try It](https://dev.to/tomeraitz/i-built-a-new-tool-for-claude-code-thatll-save-you-time-heres-why-you-should-try-it-p9a)
-- [How to Stop Your AI from Making Things Up: A Guide to Grounding LLM Responses in Data](https://dev.to/duplys/how-to-stop-your-ai-from-making-things-up-a-guide-to-grounding-llm-responses-in-data-2joc)
+- [Wednesday Links - Edition 2025-10-29](https://dev.to/0xkkocel/wednesday-links-edition-2025-10-29-27i8)
+- [Unlocking Developer Revenue: Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-monetization-strategies-for-llm-apps-with-monetzly-577a)
+- [Guide to Setting Up AMD Ryzen AI NPU Drivers on Fedora 43](https://dev.to/ankk98/guide-to-setting-up-amd-ryzen-ai-npu-drivers-on-fedora-43-477i)
+- [My Frontend Portfolio - 5 Projects Journey](https://dev.to/quiklydev/my-frontend-portfolio-5-projects-journey-b5b)
 <!-- BLOG-POST-LIST:END -->
 
