@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Annotations Demystified](https://dev.to/satyam_gupta_0d1ff2152dcc/java-annotations-demystified-40dh)
-- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
-- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
-- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
+- [🚀 Go Faster: Cutting the Slack in GC with Smart Memory Allocation](https://dev.to/aris_georgatos/go-faster-cutting-the-slack-in-gc-with-smart-memory-allocation-304h)
+- [Understanding Passkeys in SwiftUI: Part 1](https://dev.to/arshtechpro/understanding-passkeys-in-swiftui-part-1-cgc)
+- [How to use JWTokens properly](https://dev.to/0netheball/how-to-use-jwtokens-properly-21cg)
+- [Understanding the `as` and `is` Keywords in C#](https://dev.to/mrunal77/understanding-the-as-and-is-keywords-in-c-kf1)
 <!-- BLOG-POST-LIST:END -->
 
