@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Evaluation Metrics: A Practical Guide for Measuring Retrieval-Augmented Generation with Maxim AI](https://dev.to/debmckinney/rag-evaluation-metrics-a-practical-guide-for-measuring-retrieval-augmented-generation-with-maxim-ai-2dkj)
-- [Healing with Heart: The Inspiring Journey of Dr. Rachna Buxani](https://dev.to/rachna_buxani_141bd2c6f1b/healing-with-heart-the-inspiring-journey-of-dr-rachna-buxani-167l)
-- [Automate React App Deployment with AWS CodePipeline &amp; S3 🚀](https://dev.to/julien_muke_af812ff28d550/automate-react-app-deployment-with-aws-codepipeline-s3-4o17)
-- [Building a Gzip Compression Library in Zig 0.15: A Deep Dive into Comprezz](https://dev.to/bkataru/building-a-gzip-compression-library-in-zig-015-a-deep-dive-into-comprezz-2nag)
+- [The Complete Remote Work Guide for 2025: What Actually Works Now](https://dev.to/teamcamp/the-complete-remote-work-guide-for-2025-what-actually-works-now-mg3)
+- [Building MindSpark AI: The Future of Smart Learning with Flashcards and Quizzes](https://dev.to/debasis_panda_31e768f5e44/building-mindspark-ai-the-future-of-smart-learning-with-flashcards-and-quizzes-4gp1)
+- [Designing an Efficient, Secure, and Scalable Cloud System: AWS SAP-C02 Exam Study Guide](https://dev.to/jerry_1fd8dc58194335413ae/designing-an-efficient-secure-and-scalable-cloud-system-aws-sap-c02-exam-study-guide-5bh9)
+- [AI in Marketing Automation 2025: The Rise of Intelligent, Intent-Driven Marketing](https://dev.to/shubh_e01f22da2137f1d7b2b/ai-in-marketing-automation-2025-the-rise-of-intelligent-intent-driven-marketing-51d6)
 <!-- BLOG-POST-LIST:END -->
 
