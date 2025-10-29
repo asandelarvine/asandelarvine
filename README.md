@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyword vs. semantic search with AI](https://dev.to/alejandro_du/keyword-vs-semantic-search-with-ai-c03)
-- [4 Best Power BI &amp; Data Analytics Projects That You Must See!](https://dev.to/niveshbansal07/4-best-power-bi-data-analytics-projects-that-you-must-see-1m1g)
-- [.NET 10: O GC que reduz a memória, mas exige uma escolha dura – Você aceita diminuir o Throughput?](https://dev.to/unhacked/net-10-o-gc-que-reduz-a-memoria-mas-exige-uma-escolha-dura-voce-aceita-diminuir-o-throughput-7fi)
-- [Top 6 Smart Workplace Technologies Powering the Hybrid Office Revolution](https://dev.to/mattricci/top-6-smart-workplace-technologies-powering-the-hybrid-office-revolution-2dk9)
+- [Keep GitHub Copilot from going off the rails with instructions files](https://dev.to/anyveldt/keep-github-copilot-from-going-off-the-rails-with-instructions-files-2097)
+- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-50ga)
+- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
 <!-- BLOG-POST-LIST:END -->
 
