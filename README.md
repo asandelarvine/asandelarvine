@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This is a test 😀](https://dev.to/ben/this-is-a-test-4mp)
-- [The Era of CPU, GPU, TPU and LPU](https://dev.to/siddhartha_mani_03/the-era-of-cpu-gpu-tpu-and-lpu-1d4j)
-- [✅ Day 56 of My Data Analytics Journey — Deep Dive into Pandas 🐼✨](https://dev.to/ramyacse/day-56-of-my-data-analytics-journey-deep-dive-into-pandas-51b)
-- [What is JavaScript?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-javascript-1m21)
+- [Let&#39;s Poison Your LLM Application: A Security Wake-Up Call](https://dev.to/auyeungdavid_2847435260/lets-poison-your-llm-application-a-security-wake-up-call-3gle)
+- [There is no one-size-fits-all solution to API testing tools](https://dev.to/tomjohnson3/there-is-no-one-size-fits-all-solution-to-api-testing-tools-3238)
+- [**Measuring AI-driven Ad Success: Unlocking the Power of Inc](https://dev.to/drcarlosruizviquez/measuring-ai-driven-ad-success-unlocking-the-power-of-inc-3e6o)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19h8)
 <!-- BLOG-POST-LIST:END -->
 
