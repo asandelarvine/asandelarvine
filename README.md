@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is This the Future of E2E Testing? How AI Automates Browser Tests from Plain English Requirements](https://dev.to/this-is-angular/is-this-the-future-of-e2e-testing-how-ai-automates-browser-tests-from-plain-english-requirements-1d0)
-- [A Halloween Retrospective 🎃](https://dev.to/mattlewandowski93/a-halloween-retrospective-17m9)
-- [How to Convert Word Docx to HTML with C#](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-word-docx-to-html-with-c-3p5a)
-- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-25pd)
+- [More readable failure messages for RSpec #change](https://dev.to/epigene/more-readable-failure-messages-for-rspec-change-24da)
+- [From Zero to GitOps: Building a k3s Homelab on a Raspberry Pi with Flux &amp; SOPS](https://dev.to/shankar_t/from-zero-to-gitops-building-a-k3s-homelab-on-a-raspberry-pi-with-flux-sops-55b7)
+- [Squared2D Game Engine Update](https://dev.to/heldernogueiradev/squared2d-game-engine-update-2nd8)
+- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
 <!-- BLOG-POST-LIST:END -->
 
