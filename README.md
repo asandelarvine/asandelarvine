@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Meal Planner](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-1pl)
-- [AI Meal Planner App](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-app-4196)
-- [Day 19: Python Vowel Counter – Build a Simple Function to Count Vowels in Any Text](https://dev.to/shahrouzlogs/day-19-python-vowel-counter-build-a-simple-function-to-count-vowels-in-any-text-5a5k)
-- [Python Frontier: What Every Dev Needs to Learn Now](https://dev.to/sanjaynaker/python-frontier-what-every-dev-needs-to-learn-now-1ppd)
+- [LeetCode #2. Add Two Numbers](https://dev.to/desiato/leetcode-2-add-two-numbers-54f8)
+- [Discovering JavaScript&#39;s Hidden Secrets: Understanding String Matching Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-string-matching-algorithms-3d6e)
+- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Numerical Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-numerical-algorithms-40a9)
+- [Advanced Prompt Engineering for goose: A Comprehensive Guide](https://dev.to/better-boy/advanced-prompt-engineering-for-goose-a-comprehensive-guide-3j6n)
 <!-- BLOG-POST-LIST:END -->
 
