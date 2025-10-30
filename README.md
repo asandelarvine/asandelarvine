@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
-- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
-- [Using a WebWorker in the browser to create a plug-in architecture](https://dev.to/tracygjg/using-a-webworker-in-the-browser-to-create-a-plug-in-architecture-2i41)
-- [Codex JS: Where Express gets discipline, and Nest loses its chains.](https://dev.to/c1ancy/codex-js-where-express-gets-discipline-and-nest-loses-its-chains-2dec)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
+- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
+- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
 <!-- BLOG-POST-LIST:END -->
 
