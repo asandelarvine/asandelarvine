@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1209)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1132)
-- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
-- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
+- [Silent Sabotage: When Hardware Flaws Poison Medical AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/silent-sabotage-when-hardware-flaws-poison-medical-ai-by-arvind-sundararajan-2aib)
+- [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs](https://dev.to/paperium/omnivideobench-towards-audio-visual-understanding-evaluation-for-omni-mllms-5f5h)
+- [Top 10 YouTube Short Editors for Creators](https://dev.to/gerrit_cole/top-10-youtube-short-editors-for-creators-4kg4)
+- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
 <!-- BLOG-POST-LIST:END -->
 
