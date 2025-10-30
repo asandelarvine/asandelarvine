@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution](https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba)
-- [AIと無料APIで&quot;マルチ投稿ブログ&quot;を自動化してみた（第2回）— 記事内容に合うカバー画像を自動生成](https://dev.to/beachone1155/aitowu-liao-apidemarutitou-gao-buroguwozi-dong-hua-sitemitadi-2hui-ji-shi-nei-rong-nihe-ukabahua-xiang-wozi-dong-sheng-cheng-4n87)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4ad8)
-- [How Large Language Models &lpar;LLMs&rpar; actually work](https://dev.to/wdp/how-large-language-models-llms-actually-work-37d5)
+- [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
+- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
+- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
+- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
 <!-- BLOG-POST-LIST:END -->
 
