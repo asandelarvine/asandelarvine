@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
-- [GitHub Co‑Creator: Tetrix for Codebase Mastery](https://dev.to/akkii2022/github-co-creator-tetrix-for-codebase-mastery-4bnp)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4hbb)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)
+- [AI Meal Planner](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-1pl)
+- [AI Meal Planner App](https://dev.to/shyam_kumarvn_10f595c2e/ai-meal-planner-app-4196)
+- [Day 19: Python Vowel Counter – Build a Simple Function to Count Vowels in Any Text](https://dev.to/shahrouzlogs/day-19-python-vowel-counter-build-a-simple-function-to-count-vowels-in-any-text-5a5k)
+- [Python Frontier: What Every Dev Needs to Learn Now](https://dev.to/sanjaynaker/python-frontier-what-every-dev-needs-to-learn-now-1ppd)
 <!-- BLOG-POST-LIST:END -->
 
