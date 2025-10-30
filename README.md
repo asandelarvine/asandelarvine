@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Personas Are the Missing Link in Your Requirements Docs &lpar;and Test Strategy&rpar;](https://dev.to/copyleftdev/personas-are-the-missing-link-in-your-requirements-docs-and-test-strategy-m1g)
-- [Actually Agile: Against Performance Theater in Software Development](https://dev.to/pascal_cescato_692b7a8a20/actually-agile-against-performance-theater-in-software-development-1ohi)
-- [🚀 One-Liner Laravel + Vue.js Setup: Skip the Boilerplate, Start Coding!](https://dev.to/theweelab/one-liner-laravel-vuejs-setup-skip-the-boilerplate-start-coding-938)
-- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
+- [Is This the Future of E2E Testing? How AI Automates Browser Tests from Plain English Requirements](https://dev.to/this-is-angular/is-this-the-future-of-e2e-testing-how-ai-automates-browser-tests-from-plain-english-requirements-1d0)
+- [A Halloween Retrospective 🎃](https://dev.to/mattlewandowski93/a-halloween-retrospective-17m9)
+- [How to Convert Word Docx to HTML with C#](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-word-docx-to-html-with-c-3p5a)
+- [How Prompt Engineering Improves Your AI Model&#39;s Performance](https://dev.to/hitechdigital/how-prompt-engineering-improves-your-ai-models-performance-25pd)
 <!-- BLOG-POST-LIST:END -->
 
