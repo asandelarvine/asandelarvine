@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rebasing Everything: Your Git History Isn’t That Special](https://dev.to/dolig/stop-rebasing-everything-your-git-history-isnt-that-special-ln3)
-- [How Does a Zapier Solution Help Small Teams Grow?](https://dev.to/asharmalik/how-does-a-zapier-solution-help-small-teams-grow-23i)
-- [Intresting platform for Edge AI development. Has anyone tried it out?](https://dev.to/texashall_dev/intresting-platform-for-edge-ai-development-has-anyone-tried-it-out-3bkg)
-- [Nutrition in the First Trimester: Foods to Eat and Avoid](https://dev.to/ashika_chandran_857549718/nutrition-in-the-first-trimester-foods-to-eat-and-avoid-2mgd)
+- [I Built a Podcast Script Prompt That Actually Works—Here&#39;s the Complete Template](https://dev.to/huizhudev/i-built-a-podcast-script-prompt-that-actually-works-heres-the-complete-template-23h1)
+- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
+- [HTTP, REST Principles, and API Design Fundamentals](https://dev.to/kennedy01crypto/http-rest-principles-and-api-design-fundamentals-2coe)
+- [Tutorial Lengkap: Membuat Aplikasi Laravel 10 dengan CRUD dan Basic Authentication](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-aplikasi-laravel-10-dengan-crud-dan-basic-authentication-3p66)
 <!-- BLOG-POST-LIST:END -->
 
