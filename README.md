@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #2. Add Two Numbers](https://dev.to/desiato/leetcode-2-add-two-numbers-54f8)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding String Matching Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-string-matching-algorithms-3d6e)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Numerical Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-numerical-algorithms-40a9)
-- [Advanced Prompt Engineering for goose: A Comprehensive Guide](https://dev.to/better-boy/advanced-prompt-engineering-for-goose-a-comprehensive-guide-3j6n)
+- [Personas Are the Missing Link in Your Requirements Docs &lpar;and Test Strategy&rpar;](https://dev.to/copyleftdev/personas-are-the-missing-link-in-your-requirements-docs-and-test-strategy-m1g)
+- [Actually Agile: Against Performance Theater in Software Development](https://dev.to/pascal_cescato_692b7a8a20/actually-agile-against-performance-theater-in-software-development-1ohi)
+- [🚀 One-Liner Laravel + Vue.js Setup: Skip the Boilerplate, Start Coding!](https://dev.to/theweelab/one-liner-laravel-vuejs-setup-skip-the-boilerplate-start-coding-938)
+- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
 <!-- BLOG-POST-LIST:END -->
 
