@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Podcast Script Prompt That Actually Works—Here&#39;s the Complete Template](https://dev.to/huizhudev/i-built-a-podcast-script-prompt-that-actually-works-heres-the-complete-template-23h1)
-- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
-- [HTTP, REST Principles, and API Design Fundamentals](https://dev.to/kennedy01crypto/http-rest-principles-and-api-design-fundamentals-2coe)
-- [Tutorial Lengkap: Membuat Aplikasi Laravel 10 dengan CRUD dan Basic Authentication](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-aplikasi-laravel-10-dengan-crud-dan-basic-authentication-3p66)
+- [5,000+ Stars on GitHub: Our Journey Building Droidun in Public](https://dev.to/priya_negi_9ffd29931ea408/5000-stars-on-github-our-journey-building-droidun-in-public-2j8o)
+- [Why human design still matters in a world obsessed with code.](https://dev.to/luisyanguas/why-human-design-still-matters-in-a-world-obsessed-with-code-19k0)
+- [Hosting a Minecraft Server on Cloudflare Containers](https://dev.to/suminda/hosting-a-minecraft-server-on-cloudflare-containers-1cob)
+- [Understanding JavaScript Closures](https://dev.to/giftintech/understanding-javascript-closures-50ji)
 <!-- BLOG-POST-LIST:END -->
 
