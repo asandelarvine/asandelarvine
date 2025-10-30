@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Poison Your LLM Application: A Security Wake-Up Call](https://dev.to/auyeungdavid_2847435260/lets-poison-your-llm-application-a-security-wake-up-call-3gle)
-- [There is no one-size-fits-all solution to API testing tools](https://dev.to/tomjohnson3/there-is-no-one-size-fits-all-solution-to-api-testing-tools-3238)
-- [**Measuring AI-driven Ad Success: Unlocking the Power of Inc](https://dev.to/drcarlosruizviquez/measuring-ai-driven-ad-success-unlocking-the-power-of-inc-3e6o)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19h8)
+- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
+- [Entra ID: The Beating Heart of Azure](https://dev.to/cristiansifuentes/entra-id-the-beating-heart-of-azure-5eh9)
+- [Securing and Authenticating MCP Connections: A Developer&#39;s Guide &lpar;That Won&#39;t Put You to Sleep&rpar;](https://dev.to/manonaga2188/securing-and-authenticating-mcp-connections-a-developers-guide-that-wont-put-you-to-sleep-p3d)
+- [Carrera de Desarrollo de Software: lo que debes saber antes de elegir](https://dev.to/el_prepreuniversitario_1/carrera-de-desarrollo-de-software-lo-que-debes-saber-antes-de-elegir-1f8m)
 <!-- BLOG-POST-LIST:END -->
 
