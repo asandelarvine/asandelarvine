@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More readable failure messages for RSpec #change](https://dev.to/epigene/more-readable-failure-messages-for-rspec-change-24da)
-- [From Zero to GitOps: Building a k3s Homelab on a Raspberry Pi with Flux &amp; SOPS](https://dev.to/shankar_t/from-zero-to-gitops-building-a-k3s-homelab-on-a-raspberry-pi-with-flux-sops-55b7)
-- [Squared2D Game Engine Update](https://dev.to/heldernogueiradev/squared2d-game-engine-update-2nd8)
-- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
+- [Stop Rebasing Everything: Your Git History Isn’t That Special](https://dev.to/dolig/stop-rebasing-everything-your-git-history-isnt-that-special-ln3)
+- [How Does a Zapier Solution Help Small Teams Grow?](https://dev.to/asharmalik/how-does-a-zapier-solution-help-small-teams-grow-23i)
+- [Intresting platform for Edge AI development. Has anyone tried it out?](https://dev.to/texashall_dev/intresting-platform-for-edge-ai-development-has-anyone-tried-it-out-3bkg)
+- [Nutrition in the First Trimester: Foods to Eat and Avoid](https://dev.to/ashika_chandran_857549718/nutrition-in-the-first-trimester-foods-to-eat-and-avoid-2mgd)
 <!-- BLOG-POST-LIST:END -->
 
