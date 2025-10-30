@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
-- [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
-- [I Thought Becoming a Front-End Developer Was My Dream — Until I Realized I No Longer Enjoyed Coding](https://dev.to/mrezanahi_f133292cb4695d/i-thought-becoming-a-front-end-developer-was-my-dream-until-i-realized-i-no-longer-enjoyed-coding-54al)
-- [CVE-2025-24893: XWiki Platform Eval Injection Vulnerability](https://dev.to/freedom-coder/cve-2025-24893-xwiki-platform-eval-injection-vulnerability-4kd8)
+- [Myth-Tech Master Architecture: Cross-Cultural Mapping of Folktales to AI/ML Systems](https://dev.to/narnaiezzsshaa_truong/myth-tech-master-architecture-cross-cultural-mapping-of-folktales-to-aiml-systems-o20)
+- [Deja de usar pip install... al menos no directamente. Asegura tu cadena de suministro de Python con pipq.](https://dev.to/livrasand/deja-de-usar-pip-install-al-menos-no-directamente-asegura-tu-cadena-de-suministro-de-python-con-4nho)
+- [Stop using pip install... at least not directly. Secure your Python supply chain with pipq.](https://dev.to/livrasand/stop-using-pip-install-at-least-not-directly-secure-your-python-supply-chain-with-pipq-263p)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3d4p)
 <!-- BLOG-POST-LIST:END -->
 
