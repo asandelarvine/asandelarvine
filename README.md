@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet Another AWS AI Certification - AI Professional](https://dev.to/shajam/yet-another-aws-ai-certification-professional-4ogp)
-- [Supercontributor badge from Hacktoberfest](https://dev.to/simplysandeepp/supercontributor-badge-from-hacktoberfest-2fon)
-- [Automating the Gridiron Gaze: Building Tools for Dynamic Depth Chart Analysis](https://dev.to/ffteamnames/automating-the-gridiron-gaze-building-tools-for-dynamic-depth-chart-analysis-313e)
-- [Dynamically Allocating 2D Arrays Efficiently &lpar;and Correctly!&rpar; in C 2.0](https://dev.to/pauljlucas/dynamically-allocating-2d-arrays-efficiently-and-correctly-in-c-20-32pp)
+- [I Tested 7 Productivity Methods. Only 1 Actually Worked](https://dev.to/teamcamp/i-tested-7-productivity-methods-only-1-actually-worked-1mdg)
+- [How Quantum Computing Will Redefine Programming](https://dev.to/softwaredeveloper01/how-quantum-computing-will-redefine-programming-2aei)
+- [Kubernetes-Style Scan Scheduling Comes to Security Tools &lpar;JMo Security v0.8.0&rpar;](https://dev.to/jmogaming/kubernetes-style-scan-scheduling-comes-to-security-tools-jmo-security-v080-1je1)
+- [Single Points of Failure - Example Case Study](https://dev.to/zeeshanali0704/single-points-of-failure-example-case-study-2ia6)
 <!-- BLOG-POST-LIST:END -->
 
