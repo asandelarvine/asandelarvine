@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Myth-Tech Master Architecture: Cross-Cultural Mapping of Folktales to AI/ML Systems](https://dev.to/narnaiezzsshaa_truong/myth-tech-master-architecture-cross-cultural-mapping-of-folktales-to-aiml-systems-o20)
-- [Deja de usar pip install... al menos no directamente. Asegura tu cadena de suministro de Python con pipq.](https://dev.to/livrasand/deja-de-usar-pip-install-al-menos-no-directamente-asegura-tu-cadena-de-suministro-de-python-con-4nho)
-- [Stop using pip install... at least not directly. Secure your Python supply chain with pipq.](https://dev.to/livrasand/stop-using-pip-install-at-least-not-directly-secure-your-python-supply-chain-with-pipq-263p)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3d4p)
+- [The Future of Home Automation Just Arrived: 1X Technologies NEO Humanoid Robot](https://dev.to/shiva_shanker_k/the-future-of-home-automation-just-arrived-1x-technologies-neo-humanoid-robot-266k)
+- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
+- [Using a WebWorker in the browser to create a plug-in architecture](https://dev.to/tracygjg/using-a-webworker-in-the-browser-to-create-a-plug-in-architecture-2i41)
+- [Codex JS: Where Express gets discipline, and Nest loses its chains.](https://dev.to/c1ancy/codex-js-where-express-gets-discipline-and-nest-loses-its-chains-2dec)
 <!-- BLOG-POST-LIST:END -->
 
