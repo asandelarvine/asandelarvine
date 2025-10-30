@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
-- [Entra ID: The Beating Heart of Azure](https://dev.to/cristiansifuentes/entra-id-the-beating-heart-of-azure-5eh9)
-- [Securing and Authenticating MCP Connections: A Developer&#39;s Guide &lpar;That Won&#39;t Put You to Sleep&rpar;](https://dev.to/manonaga2188/securing-and-authenticating-mcp-connections-a-developers-guide-that-wont-put-you-to-sleep-p3d)
-- [Carrera de Desarrollo de Software: lo que debes saber antes de elegir](https://dev.to/el_prepreuniversitario_1/carrera-de-desarrollo-de-software-lo-que-debes-saber-antes-de-elegir-1f8m)
+- [From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey](https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94)
+- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
+- [Protect Your Software IP with Smart, Automated Licensing Solutions](https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb)
 <!-- BLOG-POST-LIST:END -->
 
