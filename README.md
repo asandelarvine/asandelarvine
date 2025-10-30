@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5,000+ Stars on GitHub: Our Journey Building Droidun in Public](https://dev.to/priya_negi_9ffd29931ea408/5000-stars-on-github-our-journey-building-droidun-in-public-2j8o)
-- [Why human design still matters in a world obsessed with code.](https://dev.to/luisyanguas/why-human-design-still-matters-in-a-world-obsessed-with-code-19k0)
-- [Hosting a Minecraft Server on Cloudflare Containers](https://dev.to/suminda/hosting-a-minecraft-server-on-cloudflare-containers-1cob)
-- [Understanding JavaScript Closures](https://dev.to/giftintech/understanding-javascript-closures-50ji)
+- [This is a test 😀](https://dev.to/ben/this-is-a-test-4mp)
+- [The Era of CPU, GPU, TPU and LPU](https://dev.to/siddhartha_mani_03/the-era-of-cpu-gpu-tpu-and-lpu-1d4j)
+- [✅ Day 56 of My Data Analytics Journey — Deep Dive into Pandas 🐼✨](https://dev.to/ramyacse/day-56-of-my-data-analytics-journey-deep-dive-into-pandas-51b)
+- [What is JavaScript?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-javascript-1m21)
 <!-- BLOG-POST-LIST:END -->
 
