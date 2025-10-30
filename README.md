@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey](https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94)
-- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4)
-- [Protect Your Software IP with Smart, Automated Licensing Solutions](https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb)
+- [The CPU Cost of Signing NXDOMAINs](https://dev.to/thevilledev/the-cpu-cost-of-signing-nxdomains-bnm)
+- [🛠️ O que chegou de novo no Visual Studio 2026 Insiders](https://dev.to/daniloopinheiro/o-que-chegou-de-novo-no-visual-studio-2026-insiders-15dp)
+- [I Thought Becoming a Front-End Developer Was My Dream — Until I Realized I No Longer Enjoyed Coding](https://dev.to/mrezanahi_f133292cb4695d/i-thought-becoming-a-front-end-developer-was-my-dream-until-i-realized-i-no-longer-enjoyed-coding-54al)
+- [CVE-2025-24893: XWiki Platform Eval Injection Vulnerability](https://dev.to/freedom-coder/cve-2025-24893-xwiki-platform-eval-injection-vulnerability-4kd8)
 <!-- BLOG-POST-LIST:END -->
 
