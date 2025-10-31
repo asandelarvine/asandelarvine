@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ROS2 Publisher Node.](https://dev.to/naguballa77/ros2-publisher-node-4758)
-- [How to Stop Time from Expanding: The Real Lesson Behind Parkinson’s Law &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-stop-time-from-expanding-the-real-lesson-behind-parkinsons-law-bite-size-article-51l4)
-- [Battle Scars from the Cloud Front](https://dev.to/cheetah100/battle-scars-from-the-cloud-front-34g8)
-- [Luxury Birthday Presents for Boyfriend UK: Elevate His Day with Style &amp; Sentiment](https://dev.to/smithwilliam/luxury-birthday-presents-for-boyfriend-uk-elevate-his-day-with-style-sentiment-179i)
+- [I Got Tired of Writing Seed Scripts for Every Project, So I Built quick-seed &lpar;an ORM-Agnostic Seeding Tool&rpar;](https://dev.to/miit_daga_ba63282a40737da/i-got-tired-of-writing-seed-scripts-for-every-project-so-i-built-quick-seed-an-orm-agnostic-3hh)
+- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-47ke)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-522c)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-44jl)
 <!-- BLOG-POST-LIST:END -->
 
