@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [As we continue to push the boundaries of generative AI, a pr](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-generative-ai-a-pr-305b)
-- [🧠 React useState Hook — The Core of Interactivity](https://dev.to/aman_kureshi_/react-usestate-hook-the-core-of-interactivity-2h0b)
-- [📚 Unsupervised Learning Meets Medical Imaging: A Revolutiona](https://dev.to/drcarlosruizviquez/unsupervised-learning-meets-medical-imaging-a-revolutiona-51mb)
-- [GIR-Bench: Versatile Benchmark for Generating Images with Reasoning](https://dev.to/paperium/gir-bench-versatile-benchmark-for-generating-images-with-reasoning-4kn0)
+- [AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4DScenes](https://dev.to/paperium/adaviewplanner-adapting-video-diffusion-models-for-viewpoint-planning-in-4dscenes-44lh)
+- [I Spent Months Trying to &quot;Revive&quot; Our E2E Tests. Now I&#39;m Building My Own AI Tool.](https://dev.to/aragossa/i-spent-months-trying-to-revive-our-e2e-tests-now-im-building-my-own-ai-tool-57b7)
+- [The End of Creative Blocks: How AI Ad Tools Empower Modern Marketers](https://dev.to/alex_swift1234/the-end-of-creative-blocks-how-ai-ad-tools-empower-modern-marketers-23k1)
+- [Couchbase &quot;Spooktacular Scale&quot; Weekly Updates - October 31, 2025](https://dev.to/couchbase/couchbase-spooktacular-scale-weekly-updates-october-31-2025-g8h)
 <!-- BLOG-POST-LIST:END -->
 
