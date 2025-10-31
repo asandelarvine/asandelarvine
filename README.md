@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Website Architecture Impacts SEO Performance](https://dev.to/tehreem_seorankhive_6c6ea/how-website-architecture-impacts-seo-performance-4ca0)
-- [Caching Systems: A Complete Guide](https://dev.to/ashwani_arya_291e758bf74d/caching-systems-a-complete-guide-4k88)
-- [Quantum-Leaping Collateral: AI-Powered Optimization for the Future of Finance](https://dev.to/arvind_sundararajan/quantum-leaping-collateral-ai-powered-optimization-for-the-future-of-finance-39j5)
-- [⚔️ React vs Angular vs Vue: A Senior Developer’s Honest Take in 2025](https://dev.to/anisubhra_sarkar/react-vs-angular-vs-vue-a-senior-developers-honest-take-in-2025-1chn)
+- [Kvart Timer: From Idea to App Store in 2 days](https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09)
+- [🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel](https://dev.to/igornosatov_15/queue-warriors-mastering-the-competing-consumers-pattern-in-laravel-1bhn)
+- [How to convert OpenAPI spec to Requestly API collection](https://dev.to/requestly/how-to-convert-openapi-spec-to-requestly-api-collection-1354)
+- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313)
 <!-- BLOG-POST-LIST:END -->
 
