@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4DScenes](https://dev.to/paperium/adaviewplanner-adapting-video-diffusion-models-for-viewpoint-planning-in-4dscenes-44lh)
-- [I Spent Months Trying to &quot;Revive&quot; Our E2E Tests. Now I&#39;m Building My Own AI Tool.](https://dev.to/aragossa/i-spent-months-trying-to-revive-our-e2e-tests-now-im-building-my-own-ai-tool-57b7)
-- [The End of Creative Blocks: How AI Ad Tools Empower Modern Marketers](https://dev.to/alex_swift1234/the-end-of-creative-blocks-how-ai-ad-tools-empower-modern-marketers-23k1)
-- [Couchbase &quot;Spooktacular Scale&quot; Weekly Updates - October 31, 2025](https://dev.to/couchbase/couchbase-spooktacular-scale-weekly-updates-october-31-2025-g8h)
+- [🚀 I’m Open to Building What’s Next — My Journey So Far](https://dev.to/pavan_kumarmukkera_527ab/im-open-to-building-whats-next-my-journey-so-far-2l0p)
+- [Why I Built Another Feedback Tool](https://dev.to/notedisapp/why-i-built-another-feedback-tool-28e2)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e)
 <!-- BLOG-POST-LIST:END -->
 
