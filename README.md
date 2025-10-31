@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 31st October 2025](https://dev.to/ziizium/security-news-weekly-round-up-31st-october-2025-1j9j)
-- [Registrars, Name Servers, and DNS Records: How They All Work Together to Serve Your Page](https://dev.to/rijultp/registrars-name-servers-and-dns-records-how-they-all-work-together-to-serve-your-page-5hdo)
-- [From YAML to Glory: Mastering Infrastructure as Code 🎯](https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob)
-- [**Caution: Synthetic Data Oversight - Overfitting to Noise**](https://dev.to/drcarlosruizviquez/caution-synthetic-data-oversight-overfitting-to-noise-2m0b)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-314f)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1n67)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-33pg)
 <!-- BLOG-POST-LIST:END -->
 
