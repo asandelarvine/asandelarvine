@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Feature Alert: Cost Tracker](https://dev.to/cloudwiseteam/new-feature-alert-cost-tracker-1370)
-- [Returning HTTP 404 Responses Instead of 403 for Unauthorised Access](https://dev.to/ashallendesign/returning-http-404-responses-instead-of-403-for-unauthorised-access-22ba)
-- [PET Scan Price in Delhi – Affordable and Transparent](https://dev.to/molecularit_13f33107d8ad1/pet-scan-price-in-delhi-affordable-and-transparent-2f86)
-- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
+- [Stop Typing the Same Thing Over and Over – Let AI Do It for You](https://dev.to/mahmud-r-farhan/stop-typing-the-same-thing-over-and-over-let-ai-do-it-for-you-48ki)
+- [Game Dev Digest — Issue #304 - Optimization, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-304-optimization-and-more-1j0p)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-30cc)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ogk)
 <!-- BLOG-POST-LIST:END -->
 
