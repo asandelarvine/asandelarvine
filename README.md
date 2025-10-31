@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?](https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07)
-- [Four GIS software programs are adapted to different needs and scenarios](https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g)
-- [Create A Resource Group And A Storage Account In Azure](https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65)
-- [Building Intelligent AI Agents with Modular Reinforcement Learning](https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c)
+- [Less is More: 4 design patterns for building better MCP servers](https://dev.to/klavisai/less-is-more-4-design-patterns-for-building-better-mcp-servers-3gpf)
+- [Vibe Coding Tools - Vibespecs CLI](https://dev.to/hrefel/vibe-coding-tools-vibespecs-cli-4oia)
+- [RK3568: New Look](https://dev.to/dongpei_liao_8092a14d7c50/rk3568-new-look-2m4h)
+- [How Data Science Shapes Political Campaigns: Inside Modern Party Strategy](https://dev.to/nomidlseo/how-data-science-shapes-political-campaigns-inside-modern-party-strategy-1l39)
 <!-- BLOG-POST-LIST:END -->
 
