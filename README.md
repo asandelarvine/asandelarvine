@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kvart Timer: From Idea to App Store in 2 days](https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09)
-- [🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel](https://dev.to/igornosatov_15/queue-warriors-mastering-the-competing-consumers-pattern-in-laravel-1bhn)
-- [How to convert OpenAPI spec to Requestly API collection](https://dev.to/requestly/how-to-convert-openapi-spec-to-requestly-api-collection-1354)
-- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313)
+- [Bringing 3d-blockstack to Life](https://dev.to/maitrivv/bringing-3d-blockstack-to-life-4ba4)
+- [Check out the guide on - The Key to Faster, Smarter, and Scalable Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-the-key-to-faster-smarter-and-scalable-analytics-1n25)
+- [React 19.2: Setting A New Benchmark for Enterprise Web Applications](https://dev.to/paloma_kingsley_8f28c45cb/react-192-setting-a-new-benchmark-for-enterprise-web-applications-2m8k)
+- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
 <!-- BLOG-POST-LIST:END -->
 
