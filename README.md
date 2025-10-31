@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
-- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
-- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
+- [🧊 Coolping — Because Ping Should Be Cool 😎](https://dev.to/edris__ranjbar/coolping-because-ping-should-be-cool-2g49)
+- [The Day Your Vendor Invoices Broke the Bank](https://dev.to/tracksimple/the-day-your-vendor-invoices-broke-the-bank-38nb)
+- [Teen Patti 2.0: 5 Disruptive Tech Trends &lpar;AI, Blockchain, AR/VR&rpar; Changing Card Game Development](https://dev.to/alyssa_healy_cf1d9eb7cdf3/teen-patti-20-5-disruptive-tech-trends-ai-blockchain-arvr-changing-card-game-development-2772)
+- [How to Implement Infinite Scroll and Quick View in Shopify Using AJAX API](https://dev.to/lucy1/how-to-implement-infinite-scroll-and-quick-view-in-shopify-using-ajax-api-4ja5)
 <!-- BLOG-POST-LIST:END -->
 
