@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent Sabotage: When Hardware Flaws Poison Medical AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/silent-sabotage-when-hardware-flaws-poison-medical-ai-by-arvind-sundararajan-2aib)
-- [OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs](https://dev.to/paperium/omnivideobench-towards-audio-visual-understanding-evaluation-for-omni-mllms-5f5h)
-- [Top 10 YouTube Short Editors for Creators](https://dev.to/gerrit_cole/top-10-youtube-short-editors-for-creators-4kg4)
-- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
+- [If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?](https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07)
+- [Four GIS software programs are adapted to different needs and scenarios](https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g)
+- [Create A Resource Group And A Storage Account In Azure](https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65)
+- [Building Intelligent AI Agents with Modular Reinforcement Learning](https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c)
 <!-- BLOG-POST-LIST:END -->
 
