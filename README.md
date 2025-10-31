@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧊 Coolping — Because Ping Should Be Cool 😎](https://dev.to/edris__ranjbar/coolping-because-ping-should-be-cool-2g49)
-- [The Day Your Vendor Invoices Broke the Bank](https://dev.to/tracksimple/the-day-your-vendor-invoices-broke-the-bank-38nb)
-- [Teen Patti 2.0: 5 Disruptive Tech Trends &lpar;AI, Blockchain, AR/VR&rpar; Changing Card Game Development](https://dev.to/alyssa_healy_cf1d9eb7cdf3/teen-patti-20-5-disruptive-tech-trends-ai-blockchain-arvr-changing-card-game-development-2772)
-- [How to Implement Infinite Scroll and Quick View in Shopify Using AJAX API](https://dev.to/lucy1/how-to-implement-infinite-scroll-and-quick-view-in-shopify-using-ajax-api-4ja5)
+- [EIP-7702 Infra Goes Live, Bitget’s Gasless Fees, Base’s Global Finance Vision, Thirdweb’s 4337 Wallets on Hyperliquid](https://dev.to/etherspot/eip-7702-infra-goes-live-bitgets-gasless-fees-bases-global-finance-vision-thirdwebs-4337-ef0)
+- [# 🚀 Introducing `vite-plugin-optimize-videos` — Optimize Your Videos at Build Time](https://dev.to/jaymes/-introducing-vite-plugin-optimize-videos-optimize-your-videos-at-build-time-4jil)
+- [💡Open Source, Open Mind: My Hacktoberfest 2025 Reflection as a First-Time Contributor](https://dev.to/tanvirmulla11/open-source-open-mind-my-hacktoberfest-2025-reflection-as-a-first-time-contributor-5446)
+- [OpenAI&#39;s Browser is here… and 7 more things that shipped this week](https://dev.to/fabianfrankwerner/openais-browser-is-here-and-7-more-things-that-shipped-this-week-p2c)
 <!-- BLOG-POST-LIST:END -->
 
