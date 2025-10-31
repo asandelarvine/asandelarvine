@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing 3d-blockstack to Life](https://dev.to/maitrivv/bringing-3d-blockstack-to-life-4ba4)
-- [Check out the guide on - The Key to Faster, Smarter, and Scalable Analytics](https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-the-key-to-faster-smarter-and-scalable-analytics-1n25)
-- [React 19.2: Setting A New Benchmark for Enterprise Web Applications](https://dev.to/paloma_kingsley_8f28c45cb/react-192-setting-a-new-benchmark-for-enterprise-web-applications-2m8k)
-- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
+- [Hacktoberfest Contribution: Feature implement in make-it-oss](https://dev.to/aubreyddd/hacktoberfest-contribution-feature-implement-in-make-it-oss-3dco)
+- [Rethinking Observability Costs: How Structured Logging Can Save You Thousands](https://dev.to/anderson_leite/rethinking-observability-costs-how-structured-logging-can-save-you-thousands-54bh)
+- [Writing Tests for Larger Font Sizes with Compose: Scrolling and Text Truncation](https://dev.to/eevajonnapanula/writing-tests-for-larger-font-sizes-with-compose-scrolling-and-text-truncation-1l0)
+- [InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models](https://dev.to/paperium/internsvg-towards-unified-svg-tasks-with-multimodal-large-language-models-19ol)
 <!-- BLOG-POST-LIST:END -->
 
