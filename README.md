@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Enabled Strict Mode In Laravel 12 and My Tests Started Failing Everywhere](https://dev.to/chisonm/i-enabled-strict-mode-in-laravel-12-and-my-tests-started-failing-everywhere-2ekh)
-- [A Second Life for CORBA in MCP 2.0 - An example of AI and humans leveraging their combined potential to create new knowledge](https://dev.to/grimch/a-second-life-for-corba-in-mcp-20-an-example-of-ai-and-humans-leveraging-their-combined-3c64)
-- [Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-with-axum-22o1)
-- [How to use pot to set delay function of Arduino?](https://dev.to/carolineee/how-to-use-pot-to-set-delay-function-of-arduino-ol0)
+- [Rick Beato: Live Tour Update from Norway](https://dev.to/music_youtube/rick-beato-live-tour-update-from-norway-2oho)
+- [Introducing Caelus](https://dev.to/rhannequin/introducing-caelus-569h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1f4o)
+- [How Does React&#39;s useEffect Really Work?](https://dev.to/ctrix/how-does-reacts-useeffect-really-work-4dph)
 <!-- BLOG-POST-LIST:END -->
 
