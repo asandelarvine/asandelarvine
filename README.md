@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent&#39;s Hands on AWS: Securing the New Frontier of AI Safety Before It Secures You](https://dev.to/anitha_senthilnathan/the-agents-hands-on-aws-securing-the-new-frontier-of-ai-safety-before-it-secures-you-egb)
-- [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
-- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
-- [Old course getting some changes
-
-https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
+- [The Shocking Truth Behind America&#39;s Air Traffic Control Meltdown &lpar;And Why Your Business Could Be Next&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-shocking-truth-behind-americas-air-traffic-control-meltdown-and-why-your-business-could-be-3ik2)
+- [Recomendo este Artigo](https://dev.to/anamaria/-352l)
+- [ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding](https://dev.to/paperium/relook-vision-grounded-rl-with-a-multimodal-llm-critic-for-agentic-web-coding-4d0o)
+- [The Billion-User Tech Power Play Hiding Behind AOL: Why Bending Spoons&#39; Silent Leverage Is Rewriting the Rules](https://dev.to/paul_allen_ccfde9d33a48d5/the-billion-user-tech-power-play-hiding-behind-aol-why-bending-spoons-silent-leverage-is-3pco)
 <!-- BLOG-POST-LIST:END -->
 
