@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your first MCP server](https://dev.to/petrashka/create-your-first-mcp-server-38d3)
-- [Why I Chose Go as My Main Backend Language — and Why You Might Too](https://dev.to/ahmed112/why-i-chose-go-as-my-main-backend-language-and-why-you-might-too-3h8b)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-2c6l)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-35dc)
+- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
+- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
+- [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
+- [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
 <!-- BLOG-POST-LIST:END -->
 
