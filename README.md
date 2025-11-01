@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41)
-- [Daily Dev Challenges - Day 01 🚀](https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6)
-- [Check out the guide on - Mastering Principal Component Analysis &lpar;PCA&rpar; in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg)
-- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
+- [React Forms with Validation Using Formik and Yup](https://dev.to/djamware_tutorial_eba1a61/react-forms-with-validation-using-formik-and-yup-14dj)
+- [Java Design Patterns Explained with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/java-design-patterns-explained-with-real-world-examples-pki)
+- [Java&#39;s codePointBefore&lpar;&rpar; Explained: Master Unicode &amp; Text Processing](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-codepointbefore-explained-master-unicode-text-processing-51b8)
+- [Stop Paying Forever: How Armano HR’s Pay-Once Model Destroys SaaS Subscription Headaches](https://dev.to/paul_allen_ccfde9d33a48d5/stop-paying-forever-how-armano-hrs-pay-once-model-destroys-saas-subscription-headaches-91h)
 <!-- BLOG-POST-LIST:END -->
 
