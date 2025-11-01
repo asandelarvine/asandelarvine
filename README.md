@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining](https://dev.to/paperium/a-tale-of-llms-and-induced-small-proxies-scalable-agents-for-knowledge-mining-4d8g)
-- [Day 1 of #LearnInPublic Java Patterns](https://dev.to/aviral_pathak_cbda60e8370/day-1-of-learninpublic-java-patterns-hpi)
-- [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
-- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
+- [How to Create AI Agents Using Mastra and TypeScript](https://dev.to/ideategudy/how-to-create-ai-agents-using-mastra-and-typescript-1pai)
+- [Whatsapp Chatbot Multitenant - Whatsapp Cloud API](https://dev.to/juanjefry23/whatsapp-chatbot-multitenant-whatsapp-cloud-api-nfp)
+- [**Mito/Realidad:** Mito: Con la IA/ML, las empresas pueden](https://dev.to/drcarlosruizviquez/mitorealidadmito-con-la-iaml-las-empresas-pueden-3phg)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
 <!-- BLOG-POST-LIST:END -->
 
