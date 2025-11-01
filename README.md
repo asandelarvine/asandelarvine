@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shocking Truth Behind America&#39;s Air Traffic Control Meltdown &lpar;And Why Your Business Could Be Next&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-shocking-truth-behind-americas-air-traffic-control-meltdown-and-why-your-business-could-be-3ik2)
-- [Recomendo este Artigo](https://dev.to/anamaria/-352l)
-- [ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding](https://dev.to/paperium/relook-vision-grounded-rl-with-a-multimodal-llm-critic-for-agentic-web-coding-4d0o)
-- [The Billion-User Tech Power Play Hiding Behind AOL: Why Bending Spoons&#39; Silent Leverage Is Rewriting the Rules](https://dev.to/paul_allen_ccfde9d33a48d5/the-billion-user-tech-power-play-hiding-behind-aol-why-bending-spoons-silent-leverage-is-3pco)
+- [I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#39;s UI.](https://dev.to/pump_web_c125a746e2ec6f19/i-skipped-the-frontend-team-heres-the-3800-character-prompt-that-built-my-startups-ui-4107)
+- [The Rise of Agentic AI: Transforming Workflows in C# Development](https://dev.to/lofcz/the-rise-of-agentic-ai-transforming-workflows-in-c-development-2ki0)
+- [Hacktoberfest Recap](https://dev.to/kphero/hacktoberfest-recap-218n)
+- [Experiences in Hacktoberfest 2025](https://dev.to/slyang08/experiences-in-hacktoberfest-2025-pal)
 <!-- BLOG-POST-LIST:END -->
 
