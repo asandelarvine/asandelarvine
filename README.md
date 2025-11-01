@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
-- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
-- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
-- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
+- [Tipos Primitivos em Python](https://dev.to/ryanmarinho/tipos-primitivos-em-python-3h5f)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-33b4)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5e92)
+- [AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management](https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13)
 <!-- BLOG-POST-LIST:END -->
 
