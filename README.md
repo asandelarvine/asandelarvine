@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Forms with Validation Using Formik and Yup](https://dev.to/djamware_tutorial_eba1a61/react-forms-with-validation-using-formik-and-yup-14dj)
-- [Java Design Patterns Explained with Real-World Examples](https://dev.to/djamware_tutorial_eba1a61/java-design-patterns-explained-with-real-world-examples-pki)
-- [Java&#39;s codePointBefore&lpar;&rpar; Explained: Master Unicode &amp; Text Processing](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-codepointbefore-explained-master-unicode-text-processing-51b8)
-- [Stop Paying Forever: How Armano HR’s Pay-Once Model Destroys SaaS Subscription Headaches](https://dev.to/paul_allen_ccfde9d33a48d5/stop-paying-forever-how-armano-hrs-pay-once-model-destroys-saas-subscription-headaches-91h)
+- [🚀 Smart Reply | Now Available on the Web 🌐](https://dev.to/mahmud-r-farhan/smart-reply-now-available-on-the-web-20jk)
+- [Understanding Layer 1 &amp; Layer 2 in Web3 — For Builders](https://dev.to/omniradhanexus/understanding-layer-1-layer-2-in-web3-for-builders-4330)
+- [[Boost]](https://dev.to/ben/-4gae)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-581d)
 <!-- BLOG-POST-LIST:END -->
 
