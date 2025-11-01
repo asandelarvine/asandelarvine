@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Smart Reply | Now Available on the Web 🌐](https://dev.to/mahmud-r-farhan/smart-reply-now-available-on-the-web-20jk)
-- [Understanding Layer 1 &amp; Layer 2 in Web3 — For Builders](https://dev.to/omniradhanexus/understanding-layer-1-layer-2-in-web3-for-builders-4330)
-- [[Boost]](https://dev.to/ben/-4gae)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-581d)
+- [A comprehensive guide to Map in Java](https://dev.to/ehrbhein/a-comprehensive-guide-to-usage-of-map-in-java-10ja)
+- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
+- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
+- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
 <!-- BLOG-POST-LIST:END -->
 
