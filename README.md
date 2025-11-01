@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/tanvir_ahamed/javascript-nullish-coalescing-operator--7ko)
-- [Next.js vs Remix 2025 — Which One Wins?](https://dev.to/ganesh_tidake/nextjs-vs-remix-2025-which-one-wins-4np5)
-- [Add Image Uploads to Your App in 15 Minutes Using ImageUpload.app API](https://dev.to/cond/add-image-uploads-to-your-app-in-15-minutes-using-imageuploadapp-api-f2f)
-- [Revealing the Unseen: AI-Powered Super-Resolution from Extreme Noise by Arvind Sundararajan](https://dev.to/arvind_sundararajan/revealing-the-unseen-ai-powered-super-resolution-from-extreme-noise-by-arvind-sundararajan-5b4g)
+- [How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading](https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5)
+- [AI Agents in 2025: A Practical Guide for Developers](https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep)
+- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99)
 <!-- BLOG-POST-LIST:END -->
 
