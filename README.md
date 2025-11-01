@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using MockK library in Jetpack Compose Preview](https://dev.to/mardsoul/using-mockk-library-in-jetpack-compose-preview-nkc)
-- [Developers vs AI: How Smart Tools Make Us Dumber Coders](https://dev.to/marxon/developers-vs-ai-how-smart-tools-make-us-dumber-coders-k51)
-- [Building Archaic - Nostalic memory sharing platform](https://dev.to/designzbyoj/building-archaic-nostalic-memory-sharing-platform-2479)
-- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-4ci7)
+- [A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining](https://dev.to/paperium/a-tale-of-llms-and-induced-small-proxies-scalable-agents-for-knowledge-mining-4d8g)
+- [Day 1 of #LearnInPublic Java Patterns](https://dev.to/aviral_pathak_cbda60e8370/day-1-of-learninpublic-java-patterns-hpi)
+- [AI as Mathematical Muse: Unlocking the Universe&#39;s Secrets Together](https://dev.to/arvind_sundararajan/ai-as-mathematical-muse-unlocking-the-universes-secrets-together-4ccc)
+- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
 <!-- BLOG-POST-LIST:END -->
 
