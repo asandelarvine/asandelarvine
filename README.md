@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Code Feels Personal](https://dev.to/natashaasnani/when-code-feels-personal-38o9)
-- [Clarity from Chaos: Super-Resolution Imaging That Bends the Rules](https://dev.to/arvind_sundararajan/clarity-from-chaos-super-resolution-imaging-that-bends-the-rules-282b)
-- [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
-- [Why You Should Care About Pre-Commit Hooks &lpar;and How Husky Makes It Easier&rpar;](https://dev.to/osalumense/why-you-should-care-about-pre-commit-hooks-and-how-husky-makes-it-easier-4im4)
+- [Create your first MCP server](https://dev.to/petrashka/create-your-first-mcp-server-38d3)
+- [Why I Chose Go as My Main Backend Language — and Why You Might Too](https://dev.to/ahmed112/why-i-chose-go-as-my-main-backend-language-and-why-you-might-too-3h8b)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-2c6l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-35dc)
 <!-- BLOG-POST-LIST:END -->
 
