@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
-- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud &lpar;Step-by-Step with Screenshots&rpar;](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi)
-- [⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually](https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b)
+- [How can I bind OLSRT to Node.js?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-nodejs-352m)
+- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
+- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
+- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
 <!-- BLOG-POST-LIST:END -->
 
