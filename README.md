@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
-- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
-- [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
-- [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
+- [Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41)
+- [Daily Dev Challenges - Day 01 🚀](https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6)
+- [Check out the guide on - Mastering Principal Component Analysis &lpar;PCA&rpar; in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg)
+- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f)
 <!-- BLOG-POST-LIST:END -->
 
