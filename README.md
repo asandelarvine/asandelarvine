@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Skipped the Frontend Team. Here’s the 3,800-Character Prompt That Built My Startup&#39;s UI.](https://dev.to/pump_web_c125a746e2ec6f19/i-skipped-the-frontend-team-heres-the-3800-character-prompt-that-built-my-startups-ui-4107)
-- [The Rise of Agentic AI: Transforming Workflows in C# Development](https://dev.to/lofcz/the-rise-of-agentic-ai-transforming-workflows-in-c-development-2ki0)
-- [Hacktoberfest Recap](https://dev.to/kphero/hacktoberfest-recap-218n)
-- [Experiences in Hacktoberfest 2025](https://dev.to/slyang08/experiences-in-hacktoberfest-2025-pal)
+- [Soporte multilenguaje en WinUI 3](https://dev.to/williamprogramer/soporte-multilenguaje-en-winui-3-jmm)
+- [🧱 I built a customizable Ratings &amp; Reviews dashboard for React](https://dev.to/arvymo/i-built-a-customizable-ratings-reviews-dashboard-for-react-3l5j)
+- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4f2l)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
 <!-- BLOG-POST-LIST:END -->
 
