@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily DSA and System Design Journal - 16](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-16-286n)
-- [Reflections on Open Source — Hacktoberfest 2025](https://dev.to/paulofreitas_py/2025-hacktoberfest-writing-challeng-146o)
-- [Open Source Is Our Operating System](https://dev.to/my_god_4ca6d407c2a1fb6cca/open-source-is-our-operating-system-djn)
-- [Myths and Facts about Thread Pool in Node.js](https://dev.to/boika_boy/myths-and-facts-about-thread-pool-in-nodejs-3dl5)
+- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9)
+- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud &lpar;Step-by-Step with Screenshots&rpar;](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi)
+- [⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually](https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b)
 <!-- BLOG-POST-LIST:END -->
 
