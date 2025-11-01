@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I bind OLSRT to Node.js?](https://dev.to/javadinteger/how-can-i-bind-olsrt-to-nodejs-352m)
-- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
-- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
-- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
+- [Using MockK library in Jetpack Compose Preview](https://dev.to/mardsoul/using-mockk-library-in-jetpack-compose-preview-nkc)
+- [Developers vs AI: How Smart Tools Make Us Dumber Coders](https://dev.to/marxon/developers-vs-ai-how-smart-tools-make-us-dumber-coders-k51)
+- [Building Archaic - Nostalic memory sharing platform](https://dev.to/designzbyoj/building-archaic-nostalic-memory-sharing-platform-2479)
+- [Can AI systems that optimize for human emotional intelligenc](https://dev.to/drcarlosruizviquez/can-ai-systems-that-optimize-for-human-emotional-intelligenc-4ci7)
 <!-- BLOG-POST-LIST:END -->
 
