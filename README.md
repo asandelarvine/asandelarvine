@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading](https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5)
-- [AI Agents in 2025: A Practical Guide for Developers](https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep)
-- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99)
+- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-5be0)
+- [Mastering `Copy` and `Clone` traits in Rust](https://dev.to/amritsingh183/mastering-copy-and-clone-traits-in-rust-455e)
+- [A Complete Guide to Rust Variables, Ownership, Lifetimes, and Memory Management](https://dev.to/amritsingh183/a-complete-guide-to-rust-ownership-lifetimes-and-memory-management-4j2a)
+- [Rust vs. Go: Type-Safe State Machines Explained Through Star Wars](https://dev.to/amritsingh183/rust-vs-go-type-safe-state-machines-explained-through-star-wars-4eib)
 <!-- BLOG-POST-LIST:END -->
 
