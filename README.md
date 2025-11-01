@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create AI Agents Using Mastra and TypeScript](https://dev.to/ideategudy/how-to-create-ai-agents-using-mastra-and-typescript-1pai)
-- [Whatsapp Chatbot Multitenant - Whatsapp Cloud API](https://dev.to/juanjefry23/whatsapp-chatbot-multitenant-whatsapp-cloud-api-nfp)
-- [**Mito/Realidad:** Mito: Con la IA/ML, las empresas pueden](https://dev.to/drcarlosruizviquez/mitorealidadmito-con-la-iaml-las-empresas-pueden-3phg)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? &lpar;International Series&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-4937)
+- [Django Ninja Aio Crud - REST framework](https://dev.to/caspel26/django-ninja-aio-crud-rest-framework-5hej)
+- [Our Lunar Landing Site API goes Live Today!](https://dev.to/irisdatalabs/our-lunar-landing-site-api-goes-live-today-1hig)
+- [AI&#39;s Blind Spot: A Simple Filter for Unlearning Bias](https://dev.to/arvind_sundararajan/ais-blind-spot-a-simple-filter-for-unlearning-bias-22p2)
+- [Beyond the LLM: The 8 Essential Components for Building Reliable AI Agents and Where Coding Tools Fit In](https://dev.to/boting_wang_9571e70af30b/beyond-the-llm-the-8-essential-components-for-building-reliable-ai-agents-and-where-coding-tools-4a61)
 <!-- BLOG-POST-LIST:END -->
 
