@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Show Report](https://dev.to/dennis_yeh_39c256f37cd897/playwright-show-report-3k8n)
-- [Decoding Autonomy: When AI Learns to Speak for Itself by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-autonomy-when-ai-learns-to-speak-for-itself-by-arvind-sundararajan-1p10)
-- [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
-- [AWS Cost Optimization: 10 Strategies to Reduce Your Cloud Bill by 30-60%](https://dev.to/instadevops/aws-cost-optimization-10-strategies-to-reduce-your-cloud-bill-by-30-60-ed)
+- [Can We Trust AI Browsers?](https://dev.to/abdelghani_alhijawi_499197ca/can-we-trust-ai-browsers-36hk)
+- [🚀 Understanding $sys\_charset in Uniface 10.4](https://dev.to/petercode/understanding-syscharset-in-uniface-104-f13)
+- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-4bm4)
+- [🔍 Understanding the $syntax Function in Uniface 10.4](https://dev.to/petercode/understanding-the-syntax-function-in-uniface-104-4kjg)
 <!-- BLOG-POST-LIST:END -->
 
