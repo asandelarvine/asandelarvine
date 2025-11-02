@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Ninja Aio Crud - REST framework](https://dev.to/caspel26/django-ninja-aio-crud-rest-framework-5hej)
-- [Our Lunar Landing Site API goes Live Today!](https://dev.to/irisdatalabs/our-lunar-landing-site-api-goes-live-today-1hig)
-- [AI&#39;s Blind Spot: A Simple Filter for Unlearning Bias](https://dev.to/arvind_sundararajan/ais-blind-spot-a-simple-filter-for-unlearning-bias-22p2)
-- [Beyond the LLM: The 8 Essential Components for Building Reliable AI Agents and Where Coding Tools Fit In](https://dev.to/boting_wang_9571e70af30b/beyond-the-llm-the-8-essential-components-for-building-reliable-ai-agents-and-where-coding-tools-4a61)
+- [⚡ Brisk — Text-to-Speech Web App 🗣️ Convert text into natural-sounding speech in seconds.](https://dev.to/sripadh_sujith_1487e8db18/brisk-text-to-speech-web-app-convert-text-into-natural-sounding-speech-in-seconds-d2c)
+- [Terraform Basics – Week 1: Deploying Your First Azure VM](https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86)
+- [R2E APIのデモUIを作りました！Next.js + Render でバックエンド連携する実装記](https://dev.to/beachone1155/r2e-apinodemouiwozuo-rimasitanextjs-render-debatukuendolian-xi-surushi-zhuang-ji-2j24)
+- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k)
 <!-- BLOG-POST-LIST:END -->
 
