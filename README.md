@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java String codePointCount&lpar;&rpar; Explained: Taming Emojis &amp; Complex Text](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f)
-- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a)
-- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [Playwright Show Report](https://dev.to/dennis_yeh_39c256f37cd897/playwright-show-report-3k8n)
+- [Decoding Autonomy: When AI Learns to Speak for Itself by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-autonomy-when-ai-learns-to-speak-for-itself-by-arvind-sundararajan-1p10)
+- [I Finally Understood This Magic CSS Snippet](https://dev.to/alok38/i-finally-understood-this-magic-css-snippet-5237)
+- [AWS Cost Optimization: 10 Strategies to Reduce Your Cloud Bill by 30-60%](https://dev.to/instadevops/aws-cost-optimization-10-strategies-to-reduce-your-cloud-bill-by-30-60-ed)
 <!-- BLOG-POST-LIST:END -->
 
