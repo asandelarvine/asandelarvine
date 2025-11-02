@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: From $68/month to $5/month - The &quot;Lite&quot; Deployment Strategy](https://dev.to/wheeleruniverse/part-2-from-68month-to-5month-the-lite-deployment-strategy-1lah)
-- [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
-- [Resilient APIs: How to Build Failure-Tolerant Backends in .NET and AWS](https://dev.to/gabrielle_eduarda_776996b/resilient-apis-how-to-build-failure-tolerant-backends-in-net-and-aws-5he2)
-- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
+- [Chain of Pattern: Rethink](https://dev.to/paul_savchuck_6344ed92501/great-post-title-3coi)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-4c8j)
+- [Managing Terraform Modules with Nx Monorepo](https://dev.to/slashgear_/managing-terraform-modules-with-nx-monorepo-4jfa)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
 <!-- BLOG-POST-LIST:END -->
 
