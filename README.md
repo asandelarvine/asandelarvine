@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chain of Pattern: Rethink](https://dev.to/paul_savchuck_6344ed92501/great-post-title-3coi)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-4c8j)
-- [Managing Terraform Modules with Nx Monorepo](https://dev.to/slashgear_/managing-terraform-modules-with-nx-monorepo-4jfa)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-43j)
+- [THE LEAN MEAN MEME MACHINE](https://dev.to/bibimbop123/lean-mean-meme-machine-1pae)
+- [Calgo Featured in Official Binance Interview - The Mobile Mining Future Chosen by 100,000 Users](https://dev.to/calgo_62400343865ec0ae72a/calgo-featured-in-official-binance-interview-the-mobile-mining-future-chosen-by-100000-users-502g)
+- [Math&#39;s New Muse: AI as a Reasoning Partner](https://dev.to/arvind_sundararajan/maths-new-muse-ai-as-a-reasoning-partner-gc2)
+- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
 <!-- BLOG-POST-LIST:END -->
 
