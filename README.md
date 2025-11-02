@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-31fa)
-- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1okm)
+- [Birthday Sahya Noa♥](https://dev.to/setiyowen/birthday-15mp)
+- [AI&#39;s $1B Problem: Can Human Labor Be Replaced for Profit?](https://dev.to/mabualzait/ais-1b-problem-can-human-labor-be-replaced-for-profit-4p8a)
+- [Genesis Code: Seed-Based 3D World Cloning](https://dev.to/arvind_sundararajan/genesis-code-seed-based-3d-world-cloning-1pf6)
+- [🚀 Understanding DevOps: The Bridge Between Development and Operations](https://dev.to/pjdeveloper896/understanding-devops-the-bridge-between-development-and-operations-3ffn)
 <!-- BLOG-POST-LIST:END -->
 
