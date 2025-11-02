@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Myth: Fine-tuning LLMs always requires a huge dataset for si](https://dev.to/drcarlosruizviquez/myth-fine-tuning-llms-always-requires-a-huge-dataset-for-si-2k4m)
-- [Creating a High-Availability Storage Account for a Public Website](https://dev.to/ottah_chukwuebuka/creating-a-high-availability-storage-account-for-a-public-website-4l5k)
-- [Comparing images with AVX](https://dev.to/serpent7776/comparing-images-with-avx-3fo2)
-- [Very insightful!!](https://dev.to/pracode_2503/very-insightful-1l4n)
+- [I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer](https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd)
+- [MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress](https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-2hlc)
+- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e)
 <!-- BLOG-POST-LIST:END -->
 
