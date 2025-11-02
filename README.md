@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Confidence Through Open Source](https://dev.to/elsad_humbetli_0971c995ce/contributing-while-fixing-api-key-validation-3lm3)
-- [AI as Muse: Unlocking Mathematical Secrets Through Collaborative Discovery](https://dev.to/arvind_sundararajan/ai-as-muse-unlocking-mathematical-secrets-through-collaborative-discovery-1ig9)
-- [The Hidden DNA of LLM-Generated JavaScript: Structural Patterns EnableHigh-Accuracy Authorship Attribution](https://dev.to/paperium/the-hidden-dna-of-llm-generated-javascript-structural-patterns-enablehigh-accuracy-authorship-493j)
-- [What Is SCADA? – Block Diagram, and Its Benefits | Poly Notes Hub](https://dev.to/poly_noteshub_bfde70023a/what-is-scada-block-diagram-and-its-benefits-poly-notes-hub-2ige)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-31fa)
+- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1okm)
 <!-- BLOG-POST-LIST:END -->
 
