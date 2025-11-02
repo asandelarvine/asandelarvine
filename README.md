@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer](https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd)
-- [MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress](https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-2hlc)
-- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e)
+- [Part 2: From $68/month to $5/month - The &quot;Lite&quot; Deployment Strategy](https://dev.to/wheeleruniverse/part-2-from-68month-to-5month-the-lite-deployment-strategy-1lah)
+- [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
+- [Resilient APIs: How to Build Failure-Tolerant Backends in .NET and AWS](https://dev.to/gabrielle_eduarda_776996b/resilient-apis-how-to-build-failure-tolerant-backends-in-net-and-aws-5he2)
+- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
 <!-- BLOG-POST-LIST:END -->
 
