@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
-- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
-- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
-- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
+- [Looking forward to this when it comes out on streaming. Saw the original when I was a kid. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/YShVEXb7-ic?si=-fxXEV_TERLZRexN](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-saw-the-original-when-i-was-a-kid-loved-2pl9)
+- [[Boost]](https://dev.to/sarthakwd_20/-1a9h)
+- [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-33g3)
 <!-- BLOG-POST-LIST:END -->
 
