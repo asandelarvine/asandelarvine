@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OnePlus Launches OxygenOS 16: A Big Leap in AI, Design &amp; Ecosystem Integration](https://dev.to/logicverse_2025/oneplus-launches-oxygenos-16-a-big-leap-in-ai-design-ecosystem-integration-4hjj)
-- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
-- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
-- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
+- [Migrating from New Relic Drop Rules to Pipeline Cloud Rules: A Terraform Guide](https://dev.to/anderson_leite/migrating-from-new-relic-drop-rules-to-pipeline-cloud-rules-a-terraform-guide-1poe)
+- [6 New React 19 Features Everyone Must Use](https://dev.to/boika_boy/6-new-react-19-features-everyone-must-use-42fn)
+- [Learn how to take full control of select styling using CSS.](https://dev.to/salehmubashar/learn-how-to-take-full-control-of-styling-using-css-53mc)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
 <!-- BLOG-POST-LIST:END -->
 
