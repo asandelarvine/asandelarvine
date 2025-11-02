@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
-- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
-- [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
-- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
+- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk)
+- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5)
+- [Flutter Development Setup for WSL2 + Windows Android Studio &lpar;Complete Guide&rpar;](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493)
+- [Is Microsoft Recall Worth Using in 2025?](https://dev.to/nodminger/is-microsoft-recall-worth-using-in-2025-2m4l)
 <!-- BLOG-POST-LIST:END -->
 
