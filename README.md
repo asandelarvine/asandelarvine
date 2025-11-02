@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Trust AI Browsers?](https://dev.to/abdelghani_alhijawi_499197ca/can-we-trust-ai-browsers-36hk)
-- [🚀 Understanding $sys\_charset in Uniface 10.4](https://dev.to/petercode/understanding-syscharset-in-uniface-104-f13)
-- [Implementing JWT Authentication in Rust using Axum](https://dev.to/bittokks/implementing-jwt-authentication-in-rust-using-axum-4bm4)
-- [🔍 Understanding the $syntax Function in Uniface 10.4](https://dev.to/petercode/understanding-the-syntax-function-in-uniface-104-4kjg)
+- [OnePlus Launches OxygenOS 16: A Big Leap in AI, Design &amp; Ecosystem Integration](https://dev.to/logicverse_2025/oneplus-launches-oxygenos-16-a-big-leap-in-ai-design-ecosystem-integration-4hjj)
+- [Building a Full-Stack Stats Utility App with Node, React, Rust, and Python](https://dev.to/stevenwallace/building-a-full-stack-stats-utility-app-with-node-react-rust-and-python-2ii2)
+- [MultiCOIN: Multi-Modal COntrollable Video INbetweening](https://dev.to/paperium/multicoin-multi-modal-controllable-video-inbetweening-k16)
+- [How to Read a &quot;Free Painting Quote in Rotorua&quot; And Find the Hidden Costs](https://dev.to/rotoruapainter/how-to-read-a-free-painting-quote-in-rotorua-and-find-the-hidden-costs-1fjm)
 <!-- BLOG-POST-LIST:END -->
 
