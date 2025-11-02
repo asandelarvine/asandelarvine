@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI writes pretty good code these days and it doesn&#39;t really matter](https://dev.to/morganllewellynjones/ai-writes-pretty-good-code-these-days-and-it-doesnt-really-matter-1o0d)
-- [From QA to Indie Dev: My Two Years in Hacktoberfest](https://dev.to/ivan_oranciuc_06d81e3a2ac/from-qa-to-indie-dev-my-two-years-in-hacktoberfest-4e6d)
-- [The Great Unification: A Journey from CommonJS to ES Modules in Node.js](https://dev.to/alex_aslam/the-great-unification-a-journey-from-commonjs-to-es-modules-in-nodejs-5bng)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-46d5)
+- [Hacktoberfest 2025](https://dev.to/rollczi/hacktoberfest-2025-2ba6)
+- [Unlocking AI Potential: Squeezing Giant Models into Tiny Spaces](https://dev.to/arvind_sundararajan/unlocking-ai-potential-squeezing-giant-models-into-tiny-spaces-2ae3)
+- [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
+- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
 <!-- BLOG-POST-LIST:END -->
 
