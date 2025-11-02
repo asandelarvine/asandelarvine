@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from New Relic Drop Rules to Pipeline Cloud Rules: A Terraform Guide](https://dev.to/anderson_leite/migrating-from-new-relic-drop-rules-to-pipeline-cloud-rules-a-terraform-guide-1poe)
-- [6 New React 19 Features Everyone Must Use](https://dev.to/boika_boy/6-new-react-19-features-everyone-must-use-42fn)
-- [Learn how to take full control of select styling using CSS.](https://dev.to/salehmubashar/learn-how-to-take-full-control-of-styling-using-css-53mc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-j93)
+- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
+- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
+- [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
+- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
 <!-- BLOG-POST-LIST:END -->
 
