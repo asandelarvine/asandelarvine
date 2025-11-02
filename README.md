@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE LEAN MEAN MEME MACHINE](https://dev.to/bibimbop123/lean-mean-meme-machine-1pae)
-- [Calgo Featured in Official Binance Interview - The Mobile Mining Future Chosen by 100,000 Users](https://dev.to/calgo_62400343865ec0ae72a/calgo-featured-in-official-binance-interview-the-mobile-mining-future-chosen-by-100000-users-502g)
-- [Math&#39;s New Muse: AI as a Reasoning Partner](https://dev.to/arvind_sundararajan/maths-new-muse-ai-as-a-reasoning-partner-gc2)
-- [Ensuring Data Resilience in Modern Application Environments](https://dev.to/kapusto/ensuring-data-resilience-in-modern-application-environments-5hfe)
+- [AI writes pretty good code these days and it doesn&#39;t really matter](https://dev.to/morganllewellynjones/ai-writes-pretty-good-code-these-days-and-it-doesnt-really-matter-1o0d)
+- [From QA to Indie Dev: My Two Years in Hacktoberfest](https://dev.to/ivan_oranciuc_06d81e3a2ac/from-qa-to-indie-dev-my-two-years-in-hacktoberfest-4e6d)
+- [The Great Unification: A Journey from CommonJS to ES Modules in Node.js](https://dev.to/alex_aslam/the-great-unification-a-journey-from-commonjs-to-es-modules-in-nodejs-5bng)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-46d5)
 <!-- BLOG-POST-LIST:END -->
 
