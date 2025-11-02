@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking forward to this when it comes out on streaming. Saw the original when I was a kid. Loved the second one mostly because of Daft Punk’s score &lpar;and cameo&rpar;—so fitting. And this one is scored by NIN! https://youtu.be/YShVEXb7-ic?si=-fxXEV_TERLZRexN](https://dev.to/mikeydorje/looking-forward-to-this-when-it-comes-out-on-streaming-saw-the-original-when-i-was-a-kid-loved-2pl9)
-- [[Boost]](https://dev.to/sarthakwd_20/-1a9h)
-- [Java&#39;s Agentic Framework Boom is a Code Smell](https://dev.to/avoguru/javas-agentic-framework-boom-is-a-code-smell-5eni)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I&#39;d Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-33g3)
+- [Myth: Fine-tuning LLMs always requires a huge dataset for si](https://dev.to/drcarlosruizviquez/myth-fine-tuning-llms-always-requires-a-huge-dataset-for-si-2k4m)
+- [Creating a High-Availability Storage Account for a Public Website](https://dev.to/ottah_chukwuebuka/creating-a-high-availability-storage-account-for-a-public-website-4l5k)
+- [Comparing images with AVX](https://dev.to/serpent7776/comparing-images-with-avx-3fo2)
+- [Very insightful!!](https://dev.to/pracode_2503/very-insightful-1l4n)
 <!-- BLOG-POST-LIST:END -->
 
