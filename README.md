@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Dynamic Dropdown Integration Between SQL Server and Oracle ERP in Joget Using BeanShell](https://dev.to/new_email_f42eef804c083b3/dynamic-dropdown-integration-between-sql-server-and-oracle-erp-in-joget-using-beanshell-46kg)
-- [Building an AI Code Helper Agent with Mastra Framework and Telex.im Integration](https://dev.to/habeeb_olakunle_73b576823/building-an-ai-code-helper-agent-with-mastra-framework-and-telexim-integration-36op)
-- [🧩 Automate Random Password Generation in Joget Using BeanShell Script](https://dev.to/new_email_f42eef804c083b3/automate-random-password-generation-in-joget-using-beanshell-script-8pn)
-- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
+- [The Rule of 40: A Must-Know Metric for SaaS Business](https://dev.to/lollypopdesign/the-rule-of-40-a-must-know-metric-for-saas-business-255p)
+- [From searching to solving: how Vector Databases transform product discovery](https://dev.to/robertobutti/from-searching-to-solving-how-vector-databases-transform-product-discovery-276n)
+- [Steal This Trick to Stop Burning Out on Short-Form Video Content](https://dev.to/henry_hoover_62cda4f8d3b2/steal-this-trick-to-stop-burning-out-on-short-form-video-content-377i)
+- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
 <!-- BLOG-POST-LIST:END -->
 
