@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [https://farhakousar16.medium.com/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-dd1cf663f3f5](https://dev.to/farhakousar16/-51nc)
-- [🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery](https://dev.to/farhakousar16/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-38fg)
-- [🚀 Built a Customizable Gantt Chart Component for Vue 3 — Introducing Jordium GanttChart v1.4.2](https://dev.to/nelson_li_c5265341756c7ab/built-a-customizable-gantt-chart-component-for-vue-3-introducing-jordium-ganttchart-v142-5e19)
-- [Functional Ruby Programming with Trailblazer](https://dev.to/kinvoki/functional-ruby-programming-with-trailblazer-3h29)
+- [⚙️ Dynamic Dropdown Integration Between SQL Server and Oracle ERP in Joget Using BeanShell](https://dev.to/new_email_f42eef804c083b3/dynamic-dropdown-integration-between-sql-server-and-oracle-erp-in-joget-using-beanshell-46kg)
+- [Building an AI Code Helper Agent with Mastra Framework and Telex.im Integration](https://dev.to/habeeb_olakunle_73b576823/building-an-ai-code-helper-agent-with-mastra-framework-and-telexim-integration-36op)
+- [🧩 Automate Random Password Generation in Joget Using BeanShell Script](https://dev.to/new_email_f42eef804c083b3/automate-random-password-generation-in-joget-using-beanshell-script-8pn)
+- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
 <!-- BLOG-POST-LIST:END -->
 
