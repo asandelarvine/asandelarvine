@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Security Threat #Blackmailing](https://dev.to/mingzhao/ai-security-threat-blackmailing-58f8)
-- [Optimizing HTML5 Puzzle Games for Speed and Responsiveness](https://dev.to/gamh5games/optimizing-html5-puzzle-games-for-speed-and-responsiveness-390h)
-- [Beyond the Browser: Crafting a Robust Web Scraping Pipeline for Dynamic Sports Data](https://dev.to/ffteamnames/beyond-the-browser-crafting-a-robust-web-scraping-pipeline-for-dynamic-sports-data-3c29)
-- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
+- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
+- [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
+- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
+- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
 <!-- BLOG-POST-LIST:END -->
 
