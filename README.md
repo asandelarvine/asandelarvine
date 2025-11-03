@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creative Tim UI - shadcn/ui blocks ready for v0, Lovable, Replit, Claude, and more.](https://dev.to/creativetim_official/creative-tim-ui-shadcnui-blocks-ready-for-v0-lovable-replit-claude-and-more-n2d)
-- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
-- [JaCoCo for Java Developers: Measuring and Improving Code Coverage](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
-- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
+- [What Are Kubernetes Containers?](https://dev.to/naveen_jayachandran/what-are-kubernetes-containers-2ab2)
+- [Introduction to Kubernetes &lpar;K8s&rpar;](https://dev.to/naveen_jayachandran/introduction-to-kubernetes-k8s-nil)
+- [🔥 Top 5 Trending AI &amp; AGI Articles: September-November 2025](https://dev.to/aniruddhaadak/top-5-trending-ai-agi-articles-september-november-2025-3lo1)
+- [Boosting Wan2.2 I2V Inference on 8 H100s — 2.5 Faster with Sequence Parallelism &amp; Magcache](https://dev.to/muhammad_aliafridi_35ece/boosting-wan22-i2v-inference-on-8-h100s-25-faster-with-sequence-parallelism-magcache-4pfn)
 <!-- BLOG-POST-LIST:END -->
 
