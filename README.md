@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn&#39;t keep track of project knowledge, so I automated it](https://dev.to/samitries/i-couldnt-keep-track-of-project-knowledge-so-i-automated-it-10p7)
-- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://dev.to/0xkoji/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist-4ji)
-- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
-- [How to use NavPathStack to implement page routing?](https://dev.to/harmonyos/how-to-use-navpathstack-to-implement-page-routing-146)
+- [Real-Time Crypto Data Pipeline with Change Data Capture &lpar;CDC&rpar; Using PostgreSQL, Kafka, Cassandra, and Grafana](https://dev.to/augo_amos/real-time-crypto-data-pipeline-with-change-data-capture-cdc-using-postgresql-kafka-cassandra-3ip7)
+- [Laravel Validation after&lpar;&rpar; - After What, Exactly?](https://dev.to/tegos/laravel-validation-after-after-what-exactly-28fa)
+- [Beyond Brute Force: AI That Thinks Like an Engineer by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-brute-force-ai-that-thinks-like-an-engineer-by-arvind-sundararajan-2dcl)
+- [Agent conversation context with AWS Bedrock AgentCore Memory](https://dev.to/szymonszym/agent-conversation-context-with-aws-bedrock-agentcore-memory-252c)
 <!-- BLOG-POST-LIST:END -->
 
