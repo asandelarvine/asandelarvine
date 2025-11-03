@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Your First Compiler - Part 4: Abstract Syntax Trees &amp; Recursive Descent](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-4-abstract-syntax-trees-recursive-descent-3j41)
-- [Building A Storage Account With High Availability For A Company..](https://dev.to/cmwokocha/building-a-storage-account-with-high-availability-for-a-company-1eod)
-- [Building Eunoia: A Mental Wellbeing Companion](https://dev.to/oluwadahunsi_ifeoluwa_79e/building-eunoia-a-mental-wellbeing-companion-gei)
-- [Apache Ignite 3.1.0 is now available](https://dev.to/maglietti/apache-ignite-310-is-now-available-36dn)
+- [How I Built an AI Coworker for Telex.im](https://dev.to/i_ce_u/how-i-built-an-ai-coworker-for-telexim-3i24)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-97a)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3gin)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2p6)
 <!-- BLOG-POST-LIST:END -->
 
