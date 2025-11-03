@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Telegram-style Spoiler Text Effects with spoilerjs](https://dev.to/jqueryscript/create-telegram-style-spoiler-text-effects-with-spoilerjs-5bd5)
-- [Orchestrating Chaos: Unleashing the Power of Bio-Inspired AI for Autonomous System Design by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-chaos-unleashing-the-power-of-bio-inspired-ai-for-autonomous-system-design-by-arvind-5a1f)
-- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
-- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
+- [https://farhakousar16.medium.com/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-dd1cf663f3f5](https://dev.to/farhakousar16/-51nc)
+- [🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery](https://dev.to/farhakousar16/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-38fg)
+- [🚀 Built a Customizable Gantt Chart Component for Vue 3 — Introducing Jordium GanttChart v1.4.2](https://dev.to/nelson_li_c5265341756c7ab/built-a-customizable-gantt-chart-component-for-vue-3-introducing-jordium-ganttchart-v142-5e19)
+- [Functional Ruby Programming with Trailblazer](https://dev.to/kinvoki/functional-ruby-programming-with-trailblazer-3h29)
 <!-- BLOG-POST-LIST:END -->
 
