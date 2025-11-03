@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒 ProofEasy Now Runs on Haveto Blockchain](https://dev.to/umang_suthar_9bad6f345a8a/proofeasy-now-runs-on-haveto-blockchain-4bp3)
-- [Building BowlingAlleys.io — $500/mo, 6 signed, 2 on deck](https://dev.to/gbae420/building-bowlingalleysio-500mo-6-signed-2-on-deck-2879)
-- [Monthly Amazon Location Service Updates - 2025.10](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202510-1mop)
-- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl)
+- [Meme Monday](https://dev.to/ben/meme-monday-4dha)
+- [How I Built My First React Native App &lpar;Step-by-Step With Modern Tools&rpar;](https://dev.to/umaarahmed/how-i-built-my-first-react-native-app-step-by-step-with-modern-tools-1k94)
+- [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/zenika/gemini-dans-votre-terminal-avec-gemini-cli-1b6i)
+- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Cloud &amp; Υποδομή.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-cloud--2dfm)
 <!-- BLOG-POST-LIST:END -->
 
