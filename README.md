@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forecast Genius](https://dev.to/nwazota_chibuike_49464271/forecast-genius-329j)
-- [I Built an Offline Git Secrets Scanner. No Cloud, No Telemetry, Just Speed](https://dev.to/amosfinds/i-built-an-offline-git-secrets-scanner-no-cloud-no-telemetry-just-speed-2aeb)
-- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
-- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
+- [Writing Your First Compiler - Part 4: Abstract Syntax Trees &amp; Recursive Descent](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-4-abstract-syntax-trees-recursive-descent-3j41)
+- [Building A Storage Account With High Availability For A Company..](https://dev.to/cmwokocha/building-a-storage-account-with-high-availability-for-a-company-1eod)
+- [Building Eunoia: A Mental Wellbeing Companion](https://dev.to/oluwadahunsi_ifeoluwa_79e/building-eunoia-a-mental-wellbeing-companion-gei)
+- [Apache Ignite 3.1.0 is now available](https://dev.to/maglietti/apache-ignite-310-is-now-available-36dn)
 <!-- BLOG-POST-LIST:END -->
 
