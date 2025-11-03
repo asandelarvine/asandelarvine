@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rule of 40: A Must-Know Metric for SaaS Business](https://dev.to/lollypopdesign/the-rule-of-40-a-must-know-metric-for-saas-business-255p)
-- [From searching to solving: how Vector Databases transform product discovery](https://dev.to/robertobutti/from-searching-to-solving-how-vector-databases-transform-product-discovery-276n)
-- [Steal This Trick to Stop Burning Out on Short-Form Video Content](https://dev.to/henry_hoover_62cda4f8d3b2/steal-this-trick-to-stop-burning-out-on-short-form-video-content-377i)
-- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
+- [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
+- [Building a Simple and Fair Bill Splitting Web App &lpar;Without Logins, Databases, or Framework Overkill&rpar;](https://dev.to/hashir_sebt/building-a-simple-and-fair-bill-splitting-web-app-without-logins-databases-or-framework-overkill-1n27)
+- [Your ORM is Lying to You About SQL &lpar;CTEs Explained&rpar;](https://dev.to/pascal_cescato_692b7a8a20/your-orm-is-lying-to-you-about-sql-ctes-explained-55bo)
+- [TypeScript: Our Beloved, Overbearing Safety Net](https://dev.to/bluebird2000/typescript-our-beloved-overbearing-safety-net-3mnh)
 <!-- BLOG-POST-LIST:END -->
 
