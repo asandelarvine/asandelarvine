@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
-- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
-- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
+- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
+- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
+- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
+- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
 <!-- BLOG-POST-LIST:END -->
 
