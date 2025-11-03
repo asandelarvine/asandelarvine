@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
-- [Building a Simple and Fair Bill Splitting Web App &lpar;Without Logins, Databases, or Framework Overkill&rpar;](https://dev.to/hashir_sebt/building-a-simple-and-fair-bill-splitting-web-app-without-logins-databases-or-framework-overkill-1n27)
-- [Your ORM is Lying to You About SQL &lpar;CTEs Explained&rpar;](https://dev.to/pascal_cescato_692b7a8a20/your-orm-is-lying-to-you-about-sql-ctes-explained-55bo)
-- [TypeScript: Our Beloved, Overbearing Safety Net](https://dev.to/bluebird2000/typescript-our-beloved-overbearing-safety-net-3mnh)
+- [I couldn&#39;t keep track of project knowledge, so I automated it](https://dev.to/samitries/i-couldnt-keep-track-of-project-knowledge-so-i-automated-it-10p7)
+- [Vulnerability Scan with Snyk MCP Server and Google Code Assist](https://dev.to/0xkoji/vulnerability-scan-with-snyk-mcp-server-and-google-code-assist-4ji)
+- [MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training](https://dev.to/paperium/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training-4c)
+- [How to use NavPathStack to implement page routing?](https://dev.to/harmonyos/how-to-use-navpathstack-to-implement-page-routing-146)
 <!-- BLOG-POST-LIST:END -->
 
