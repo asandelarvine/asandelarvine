@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
-- [Pushing Python to 20,000 Requests Sent/Second](https://dev.to/lafftar/pushing-python-to-20000-requests-sentsecond-36d2)
-- [Vercel統合Neonでブランチ制限に達した話と対処方法](https://dev.to/beachone1155/verceltong-he-neondeburantizhi-xian-nida-sitahua-todui-chu-fang-fa-lec)
-- [Building Syllabi – Agentic AI with Vercel AI SDK, Dynamic Tool Loading, and RAG](https://dev.to/achu_shankar_f3dfbb87441f/building-syllabi-agentic-ai-with-vercel-ai-sdk-dynamic-tool-loading-and-rag-2dbc)
+- [AI Security Threat #Blackmailing](https://dev.to/mingzhao/ai-security-threat-blackmailing-58f8)
+- [Optimizing HTML5 Puzzle Games for Speed and Responsiveness](https://dev.to/gamh5games/optimizing-html5-puzzle-games-for-speed-and-responsiveness-390h)
+- [Beyond the Browser: Crafting a Robust Web Scraping Pipeline for Dynamic Sports Data](https://dev.to/ffteamnames/beyond-the-browser-crafting-a-robust-web-scraping-pipeline-for-dynamic-sports-data-3c29)
+- [🧱 Lesson 5  - Working with PostgreSQL &lpar;Multi-Database Setup&rpar;](https://dev.to/farrukh_rehman/lesson-5-working-with-postgresql-multi-database-setup-3ngg)
 <!-- BLOG-POST-LIST:END -->
 
