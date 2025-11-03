@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Crypto Data Pipeline with Change Data Capture &lpar;CDC&rpar; Using PostgreSQL, Kafka, Cassandra, and Grafana](https://dev.to/augo_amos/real-time-crypto-data-pipeline-with-change-data-capture-cdc-using-postgresql-kafka-cassandra-3ip7)
-- [Laravel Validation after&lpar;&rpar; - After What, Exactly?](https://dev.to/tegos/laravel-validation-after-after-what-exactly-28fa)
-- [Beyond Brute Force: AI That Thinks Like an Engineer by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-brute-force-ai-that-thinks-like-an-engineer-by-arvind-sundararajan-2dcl)
-- [Agent conversation context with AWS Bedrock AgentCore Memory](https://dev.to/szymonszym/agent-conversation-context-with-aws-bedrock-agentcore-memory-252c)
+- [🔒 ProofEasy Now Runs on Haveto Blockchain](https://dev.to/umang_suthar_9bad6f345a8a/proofeasy-now-runs-on-haveto-blockchain-4bp3)
+- [Building BowlingAlleys.io — $500/mo, 6 signed, 2 on deck](https://dev.to/gbae420/building-bowlingalleysio-500mo-6-signed-2-on-deck-2879)
+- [Monthly Amazon Location Service Updates - 2025.10](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202510-1mop)
+- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl)
 <!-- BLOG-POST-LIST:END -->
 
