@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4dha)
-- [How I Built My First React Native App &lpar;Step-by-Step With Modern Tools&rpar;](https://dev.to/umaarahmed/how-i-built-my-first-react-native-app-step-by-step-with-modern-tools-1k94)
-- [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/zenika/gemini-dans-votre-terminal-avec-gemini-cli-1b6i)
-- [5 ερωτήσεις για IT Systems Architect &lpar;Αρχιτέκτονας Συστημάτων Πληροφορικής&rpar;. Τομέας: Cloud &amp; Υποδομή.](https://dev.to/__b63657/5-eroteseis-gia-it-systems-architect-arkhitektonas-sustematon-plerophorikes-tomeas-cloud--2dfm)
+- [Building an AI Companion for Older Adults Using Mastra and Telex A2A Protocol](https://dev.to/emzyjayyy/building-an-ai-companion-for-older-adults-using-mastra-and-telex-a2a-protocol-276n)
+- [Re-Engineering Education for the Age of AI](https://dev.to/woodyhayday/re-engineering-education-for-the-age-of-ai-5h95)
+- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
 <!-- BLOG-POST-LIST:END -->
 
