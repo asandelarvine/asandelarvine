@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust](https://dev.to/heyjoshlee/soc-2-vs-iso-27001-which-matters-more-for-legal-practices-and-building-client-trust-426a)
-- [Announcing AnalogJS 2.0 ⚡️](https://dev.to/analogjs/announcing-analogjs-20-348d)
-- [Simplest Guide to use Figma MCP Server](https://dev.to/deny_herianto_74302737014/figma-mcp-server-3o8p)
-- [Why Every Engineer Should Learn to Read Research Papers &lpar;And How to Start&rpar;](https://dev.to/usamaa/why-every-engineer-should-learn-to-read-research-papers-and-how-to-start-11n)
+- [Creative Tim UI - shadcn/ui blocks ready for v0, Lovable, Replit, Claude, and more.](https://dev.to/creativetim_official/creative-tim-ui-shadcnui-blocks-ready-for-v0-lovable-replit-claude-and-more-n2d)
+- [Music Monday! &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-1ip3)
+- [JaCoCo for Java Developers: Measuring and Improving Code Coverage](https://dev.to/taras_antoniuk_ea6a2fe7ee/java-testing-guide-how-to-measure-and-improve-code-coverage-with-jacoco-3p75)
+- [Another ChatGPT bluff? Would you give GPT access to all your apps, that&#39;s insane](https://dev.to/matiswhattheycall/another-chatgpt-bluff-would-you-give-gpt-access-to-all-your-apps-thats-insane-503e)
 <!-- BLOG-POST-LIST:END -->
 
