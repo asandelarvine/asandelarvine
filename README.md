@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Companion for Older Adults Using Mastra and Telex A2A Protocol](https://dev.to/emzyjayyy/building-an-ai-companion-for-older-adults-using-mastra-and-telex-a2a-protocol-276n)
-- [Re-Engineering Education for the Age of AI](https://dev.to/woodyhayday/re-engineering-education-for-the-age-of-ai-5h95)
-- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-4lkg)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5fj2)
+- [SOC 2 vs. ISO 27001: Which Matters More for Legal Practices and Building Client Trust](https://dev.to/heyjoshlee/soc-2-vs-iso-27001-which-matters-more-for-legal-practices-and-building-client-trust-426a)
+- [Announcing AnalogJS 2.0 ⚡️](https://dev.to/analogjs/announcing-analogjs-20-348d)
+- [Simplest Guide to use Figma MCP Server](https://dev.to/deny_herianto_74302737014/figma-mcp-server-3o8p)
+- [Why Every Engineer Should Learn to Read Research Papers &lpar;And How to Start&rpar;](https://dev.to/usamaa/why-every-engineer-should-learn-to-read-research-papers-and-how-to-start-11n)
 <!-- BLOG-POST-LIST:END -->
 
