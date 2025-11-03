@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Turned an Old Phone into a Linux Server](https://dev.to/wlepczynski/how-i-turned-an-old-phone-into-a-linux-server-5f3g)
-- [🛡️ Fortify - AI-Powered Security Analysis Platform](https://dev.to/abhinandan-r/fortify-ai-powered-security-analysis-platform-54i8)
-- [5 AI Fullstack Projects You Need to Make in 2026](https://dev.to/holasoymalva/5-ai-fullstack-projects-you-need-to-make-in-2026-2gm6)
-- [Week 7: React hooks and more!](https://dev.to/nikhilsharma6/week-7-react-hooks-and-more-36g4)
+- [A Standardised Approach to HTML Attribute Ordering](https://dev.to/bawa_geek/a-standardised-approach-to-html-attribute-ordering-44ce)
+- [Creating a very basic gRPC server](https://dev.to/arunabh_gupta_b918151abaa/creating-a-very-basic-grpc-server-29ca)
+- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
+- [GitHub Automation Secrets Devs Won&#39;t Tell You](https://dev.to/brilliantmakanju/github-automation-secrets-devs-wont-tell-you-3ik3)
 <!-- BLOG-POST-LIST:END -->
 
