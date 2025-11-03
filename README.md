@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Standardised Approach to HTML Attribute Ordering](https://dev.to/bawa_geek/a-standardised-approach-to-html-attribute-ordering-44ce)
-- [Creating a very basic gRPC server](https://dev.to/arunabh_gupta_b918151abaa/creating-a-very-basic-grpc-server-29ca)
-- [The Silent Threat: Visually Triggered AI Hijacking](https://dev.to/arvind_sundararajan/the-silent-threat-visually-triggered-ai-hijacking-1gna)
-- [GitHub Automation Secrets Devs Won&#39;t Tell You](https://dev.to/brilliantmakanju/github-automation-secrets-devs-wont-tell-you-3ik3)
+- [Forecast Genius](https://dev.to/nwazota_chibuike_49464271/forecast-genius-329j)
+- [I Built an Offline Git Secrets Scanner. No Cloud, No Telemetry, Just Speed](https://dev.to/amosfinds/i-built-an-offline-git-secrets-scanner-no-cloud-no-telemetry-just-speed-2aeb)
+- [Let&#39;s build a test runner in Elixir.](https://dev.to/w3ndo/lets-build-a-test-runner-in-elixir-4cl0)
+- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
 <!-- BLOG-POST-LIST:END -->
 
