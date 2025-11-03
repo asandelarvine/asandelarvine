@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025](https://dev.to/rollczi/hacktoberfest-2025-2ba6)
-- [Unlocking AI Potential: Squeezing Giant Models into Tiny Spaces](https://dev.to/arvind_sundararajan/unlocking-ai-potential-squeezing-giant-models-into-tiny-spaces-2ae3)
-- [Introducing Realm9: Solving Enterprise Environment Chaos with AI](https://dev.to/prasadp/introducing-realm9-solving-enterprise-environment-chaos-with-ai-2ke1)
-- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
+- [Introducing U-HOP — Universal Hardware Optimization Protocol](https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i)
+- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
+- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
+- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n)
 <!-- BLOG-POST-LIST:END -->
 
