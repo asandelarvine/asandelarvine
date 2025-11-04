@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Claude, Perplexity, v0, ChatGPT, etc to Make Tech Apps and Write Content](https://dev.to/vtempest/using-claude-perplexity-v0-chatgpt-etc-to-make-tech-apps-and-write-content-4odo)
-- [Linear Search but recursive](https://dev.to/dshaw0004/linear-search-but-recursive-3756)
-- [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://dev.to/rosgluk/architectural-patterns-for-securing-data-at-rest-in-transit-and-at-runtime-8fi)
-- [Spatial Secrets: Unleashing Language Models with Unexpected Masking by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-secrets-unleashing-language-models-with-unexpected-masking-by-arvind-sundararajan-1cpl)
+- [Mocking HTTP Services in C# with MockH](https://dev.to/kaliumhexacyanoferrat/mocking-http-services-in-c-with-mockh-2jkj)
+- [How Low-Code/No-Code Platforms Are Powering Hyperautomation Across Enterprises](https://dev.to/logicverse_2025/how-low-codeno-code-platforms-are-powering-hyperautomation-across-enterprises-5hjj)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80)
+- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3)
 <!-- BLOG-POST-LIST:END -->
 
