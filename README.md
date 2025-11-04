@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Inner Mad Scientist: A Glimpse into the Kiroween Hackathon](https://dev.to/brian_mk/unleash-your-inner-mad-scientist-a-glimpse-into-the-kiroween-hackathon-11co)
-- [A Practical Guide to Building AI Agents With Java and Spring AI - Part 1 - Create an AI Agent](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-1-create-an-ai-agent-4f4a)
-- [Using Prisma for Schema and Kysely for Queries in a Next.js App](https://dev.to/golamrabbani/using-prisma-for-schema-and-kysely-for-queries-in-a-nextjs-app-39ol)
-- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
+- [Micro Frontends em Angular: Guia Prático com Module Federation](https://dev.to/ghabryel/micro-frontends-em-angular-guia-pratico-com-module-federation-3jbm)
+- [8-Bit Music Theory: Analyzing why people like funk || Marvel vs Capcom 2](https://dev.to/music_youtube/8-bit-music-theory-analyzing-why-people-like-funk-marvel-vs-capcom-2-46n)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-2372)
+- [Cisco Interview Experience Complete Process from OA to Final Round](https://dev.to/net_programhelp_e160eef28/cisco-interview-experiencecomplete-process-from-oa-to-final-round-52mb)
 <!-- BLOG-POST-LIST:END -->
 
