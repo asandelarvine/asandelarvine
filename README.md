@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 ChatGPT Changed Everything — But What’s Coming Next in AI?](https://dev.to/umaarahmed/chatgpt-changed-everything-but-whats-coming-next-in-ai-n79)
-- [随时随地使用 9Proxy 观看 Sling TV，无限制流媒体体验](https://dev.to/lopezjessicancmxe_e881660/sui-shi-sui-di-shi-yong-9proxy-guan-kan-sling-tvwu-xian-zhi-liu-mei-ti-ti-yan-230p)
-- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
-- [畅享 FuboTV 直播体育赛事和节目，无地域限制](https://dev.to/lopezjessicancmxe_e881660/chang-xiang-fubotv-zhi-bo-ti-yu-sai-shi-he-jie-mu-wu-di-yu-xian-zhi-3073)
+- [Using Claude, Perplexity, v0, ChatGPT, etc to Make Tech Apps and Write Content](https://dev.to/vtempest/using-claude-perplexity-v0-chatgpt-etc-to-make-tech-apps-and-write-content-4odo)
+- [Linear Search but recursive](https://dev.to/dshaw0004/linear-search-but-recursive-3756)
+- [Architectural Patterns for Securing Data: At Rest, In Transit, and At Runtime](https://dev.to/rosgluk/architectural-patterns-for-securing-data-at-rest-in-transit-and-at-runtime-8fi)
+- [Spatial Secrets: Unleashing Language Models with Unexpected Masking by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spatial-secrets-unleashing-language-models-with-unexpected-masking-by-arvind-sundararajan-1cpl)
 <!-- BLOG-POST-LIST:END -->
 
