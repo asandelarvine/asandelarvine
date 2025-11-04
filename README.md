@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Heapless Vector using `MaybeUninit&lt;T&gt;` for Better Performance.](https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo)
-- [Unifying 3 LLM APIs in Python: OpenAI, Anthropic &amp; Google with one SDK](https://dev.to/inozem/unifying-3-llm-apis-in-python-openai-anthropic-google-with-one-sdk-4l2)
-- [Fixing VSCode pip not recognized Error in 5 Minutes](https://dev.to/devin-rosario/fixing-vscode-pip-not-recognized-error-in-5-minutes-2ndn)
-- [Why Some Web3 Founders Are Accumulating the NLOV Token — A Practical, Cautious Look](https://dev.to/neurolov__ai/why-some-web3-founders-are-accumulating-the-nlov-token-a-practical-cautious-look-47b9)
+- [Unleash Your Inner Mad Scientist: A Glimpse into the Kiroween Hackathon](https://dev.to/brian_mk/unleash-your-inner-mad-scientist-a-glimpse-into-the-kiroween-hackathon-11co)
+- [A Practical Guide to Building AI Agents With Java and Spring AI - Part 1 - Create an AI Agent](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-1-create-an-ai-agent-4f4a)
+- [Using Prisma for Schema and Kysely for Queries in a Next.js App](https://dev.to/golamrabbani/using-prisma-for-schema-and-kysely-for-queries-in-a-nextjs-app-39ol)
+- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
 <!-- BLOG-POST-LIST:END -->
 
