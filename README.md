@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mocking HTTP Services in C# with MockH](https://dev.to/kaliumhexacyanoferrat/mocking-http-services-in-c-with-mockh-2jkj)
-- [How Low-Code/No-Code Platforms Are Powering Hyperautomation Across Enterprises](https://dev.to/logicverse_2025/how-low-codeno-code-platforms-are-powering-hyperautomation-across-enterprises-5hjj)
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80)
-- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3)
+- [Debugging Memory Leaks in Node.js and PHP 🧠](https://dev.to/chaitanyarai3/debugging-memory-leaks-in-nodejs-and-php-4ofp)
+- [Building an AI Code Helper Agent with Mastra and Telex](https://dev.to/abanicaisse/building-an-ai-code-helper-agent-with-mastra-and-telex-1lii)
+- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
+- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
 <!-- BLOG-POST-LIST:END -->
 
