@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most DevOps Engineers Only Scratch the Surface of Docker and Kubernetes &lpar;and How to Go Deeper&rpar;](https://dev.to/srinivasamcjf/why-most-devops-engineers-only-scratch-the-surface-of-docker-and-kubernetes-and-how-to-go-deeper-2ach)
-- [Machine Learning Zoomcamp Week 5](https://dev.to/ladys/machine-learning-zoomcamp-week-5-25a3)
-- [👨‍💻We&#39;re remaking &quot;Aspxone Builder&quot;](https://dev.to/aspxone-official/were-remaking-aspxone-builder-la7)
-- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
+- [How to build a Heapless Vector using `MaybeUninit&lt;T&gt;` for Better Performance.](https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo)
+- [Unifying 3 LLM APIs in Python: OpenAI, Anthropic &amp; Google with one SDK](https://dev.to/inozem/unifying-3-llm-apis-in-python-openai-anthropic-google-with-one-sdk-4l2)
+- [Fixing VSCode pip not recognized Error in 5 Minutes](https://dev.to/devin-rosario/fixing-vscode-pip-not-recognized-error-in-5-minutes-2ndn)
+- [Why Some Web3 Founders Are Accumulating the NLOV Token — A Practical, Cautious Look](https://dev.to/neurolov__ai/why-some-web3-founders-are-accumulating-the-nlov-token-a-practical-cautious-look-47b9)
 <!-- BLOG-POST-LIST:END -->
 
