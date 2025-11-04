@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Forum with FastAPI: Step 10 - Categories](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-10-categories-2ecl)
-- [I Open-Sourced My Production Git Config &lpar;And You Should Steal It&rpar;](https://dev.to/orue/i-open-sourced-my-production-git-config-and-you-should-steal-it-46ja)
-- [Understanding EDI Payments in the Age of API-Driven Integration](https://dev.to/gabrielle_edbdb71a1f65402/understanding-edi-payments-in-the-age-of-api-driven-integration-m8i)
-- [Self-Healing File-Based Databroker Without The Postgres Headaches](https://dev.to/pomerium/self-healing-file-based-databroker-without-the-postgres-headaches-117k)
+- [Top Open Source Tools for Kubernetes ML: From Development to Production](https://dev.to/jozu/top-open-source-tools-for-kubernetes-ml-from-development-to-production-78b)
+- [Get Telegram Notifications from Your Next.js App in Minutes](https://dev.to/danielle_hayes_ad529ec488/get-telegram-notifications-from-your-nextjs-app-in-minutes-28ec)
+- [GitHub API with Node.js](https://dev.to/lucaspereiradesouzat/github-api-with-nodejs-5c)
+- [GitHub API com Node.js](https://dev.to/lucaspereiradesouzat/github-api-com-nodejs-1k57)
 <!-- BLOG-POST-LIST:END -->
 
