@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Open Source Tools for Kubernetes ML: From Development to Production](https://dev.to/jozu/top-open-source-tools-for-kubernetes-ml-from-development-to-production-78b)
-- [Get Telegram Notifications from Your Next.js App in Minutes](https://dev.to/danielle_hayes_ad529ec488/get-telegram-notifications-from-your-nextjs-app-in-minutes-28ec)
-- [GitHub API with Node.js](https://dev.to/lucaspereiradesouzat/github-api-with-nodejs-5c)
-- [GitHub API com Node.js](https://dev.to/lucaspereiradesouzat/github-api-com-nodejs-1k57)
+- [I Fixed AI Coding Assistants with Real-Time npm &amp; CVE Data &lpar;DevTrends MCP&rpar;](https://dev.to/alejandro_peghin_872eac53/i-fixed-ai-coding-assistants-with-real-time-npm-cve-data-devtrends-mcp-22m8)
+- [💸 MY BANK ACCOUNT LOOKS ILLEGAL... &lpar;The &quot;Sleeping Salesman&quot; That Deposits $382/Day While I Do NOTHING&rpar; 💸](https://dev.to/we-the-developers/my-bank-account-looks-illegal-the-sleeping-salesman-that-deposits-382day-while-i-do-4egf)
+- [API-Led Connectivity - Practical Questions Answered - Part III](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-iii-6dl)
+- [🤑 THIS IS ILLEGAL... &lpar;How My &quot;Silent Partner&quot; Generates $7,463/Month While I Sleep&rpar; 🤑](https://dev.to/we-the-developers/this-is-illegal-how-my-silent-partner-generates-7463month-while-i-sleep-1b2f)
 <!-- BLOG-POST-LIST:END -->
 
