@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-148o)
-- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-38b0)
-- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
-- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
+- [Docker networking: How to connect containers in a full-stack project](https://dev.to/deborahemeni1/docker-networking-how-to-connect-containers-in-a-full-stack-project-3l98)
+- [The Dark Side of Automation: When &quot;Auto&quot; Breaks Your Security Model](https://dev.to/anderson_leite/the-dark-side-of-automation-when-auto-breaks-your-security-model-part-1-1c88)
+- [Spatial Reasoning Unleashed: Causal Language Models for Smarter Spatial Data](https://dev.to/arvind_sundararajan/spatial-reasoning-unleashed-causal-language-models-for-smarter-spatial-data-1mii)
+- [Detailed Technical Documentation on AI Implementation Logic &lpar;Taking Large Language Models as an Example &rpar;](https://dev.to/mirren_helen_57cb161dba6a/detailed-technical-documentation-on-ai-implementation-logic-taking-large-language-models-as-an-22b0)
 <!-- BLOG-POST-LIST:END -->
 
