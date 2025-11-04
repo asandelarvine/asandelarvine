@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro Frontends em Angular: Guia Prático com Module Federation](https://dev.to/ghabryel/micro-frontends-em-angular-guia-pratico-com-module-federation-3jbm)
-- [8-Bit Music Theory: Analyzing why people like funk || Marvel vs Capcom 2](https://dev.to/music_youtube/8-bit-music-theory-analyzing-why-people-like-funk-marvel-vs-capcom-2-46n)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-2372)
-- [Cisco Interview Experience Complete Process from OA to Final Round](https://dev.to/net_programhelp_e160eef28/cisco-interview-experiencecomplete-process-from-oa-to-final-round-52mb)
+- [Build Your Own Forum with FastAPI: Step 10 - Categories](https://dev.to/leapcell/build-your-own-forum-with-fastapi-step-10-categories-2ecl)
+- [I Open-Sourced My Production Git Config &lpar;And You Should Steal It&rpar;](https://dev.to/orue/i-open-sourced-my-production-git-config-and-you-should-steal-it-46ja)
+- [Understanding EDI Payments in the Age of API-Driven Integration](https://dev.to/gabrielle_edbdb71a1f65402/understanding-edi-payments-in-the-age-of-api-driven-integration-m8i)
+- [Self-Healing File-Based Databroker Without The Postgres Headaches](https://dev.to/pomerium/self-healing-file-based-databroker-without-the-postgres-headaches-117k)
 <!-- BLOG-POST-LIST:END -->
 
