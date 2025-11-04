@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Memory Leaks in Node.js and PHP 🧠](https://dev.to/chaitanyarai3/debugging-memory-leaks-in-nodejs-and-php-4ofp)
-- [Building an AI Code Helper Agent with Mastra and Telex](https://dev.to/abanicaisse/building-an-ai-code-helper-agent-with-mastra-and-telex-1lii)
-- [Java String getBytes&lpar;&rpar; Explained: Your Ultimate Guide to Character Encoding](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-getbytes-explained-your-ultimate-guide-to-character-encoding-4emn)
-- [Wool Curtains: Which Side Faces Your Winter Window?](https://dev.to/zerogpt_plus/wool-curtains-which-side-faces-your-winter-window-58gj)
+- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-148o)
+- [Math.random, friend or foe?](https://dev.to/opbright/mathrandom-friend-or-foe-38b0)
+- [Vibe Coding Advantages and Drawbacks for Different Types of Users](https://dev.to/momen_hq/vibe-coding-advantages-and-drawbacks-for-different-types-of-users-1fjk)
+- [How We Built the Ultimate AI Content Generator Plugin for PayloadCMS](https://dev.to/mygom/how-we-built-the-ultimate-ai-content-generator-plugin-for-payloadcms-2jb1)
 <!-- BLOG-POST-LIST:END -->
 
