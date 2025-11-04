@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How OAuth, MCP, and the OpenAI Apps SDK, Power the Next Generation of Interactive AI Experiences &lpar;with Stytch &amp; OpenAI&rpar;](https://dev.to/codingcatdev/how-oauth-mcp-and-the-openai-apps-sdk-power-the-next-generation-of-interactive-ai-experiences-1agm)
-- [How Reasoning LLMs Are Challenging Orchestration](https://dev.to/onepoint/how-reasoning-llms-are-challenging-orchestration-42pm)
-- [🚀 A Fun Tour of Go’s Official Website!](https://dev.to/ahmed112/a-fun-tour-of-gos-official-website-47pn)
-- [Modern Card Hover Animations, CSS and JavaScript](https://dev.to/kadenwildauer/modern-card-hover-animations-css-and-javascript-3cg3)
+- [🧠 I built a full system monitor in Bash — and fought awk along the way 💀](https://dev.to/danlinx2004x/i-built-a-full-system-monitor-in-bash-and-fought-awk-along-the-way-53ge)
+- [Molecular Alchemy: AI-Powered Design of Novel Compounds by Arvind Sundararajan](https://dev.to/arvind_sundararajan/molecular-alchemy-ai-powered-design-of-novel-compounds-by-arvind-sundararajan-23mc)
+- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
+- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
 <!-- BLOG-POST-LIST:END -->
 
