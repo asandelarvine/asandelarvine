@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
-- [通过 9Proxy 测试本地化网站，体验前所未有的高精度](https://dev.to/lopezjessicancmxe_e881660/tong-guo-9proxy-ce-shi-ben-di-hua-wang-zhan-ti-yan-qian-suo-wei-you-de-gao-jing-du-27m3)
-- [Daily Artificial Intelligence Digest - Nov 04, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-04-2025-402e)
-- [3318. Find X-Sum of All K-Long Subarrays I](https://dev.to/mdarifulhaque/3318-find-x-sum-of-all-k-long-subarrays-i-2jgg)
+- [Install MinGW-w64 on Windows 11 &lpar;2025 November&rpar;](https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg)
+- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
+- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
+
+After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
+- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
 <!-- BLOG-POST-LIST:END -->
 
