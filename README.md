@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Whisper Board: Building a Private, Decentralized Messaging Experience with Waku](https://dev.to/bydotun/whisper-board-building-a-private-decentralized-messaging-experience-with-waku-2o79)
-- [The DSA Toolkit: #1 Sliding Window](https://dev.to/vmanav/the-dsa-toolkit-sliding-window-3j1n)
-- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
-- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
+- [You Don&#39;t Always Need useCallback and useMemo](https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op)
+- [通过 9Proxy 测试本地化网站，体验前所未有的高精度](https://dev.to/lopezjessicancmxe_e881660/tong-guo-9proxy-ce-shi-ben-di-hua-wang-zhan-ti-yan-qian-suo-wei-you-de-gao-jing-du-27m3)
+- [Daily Artificial Intelligence Digest - Nov 04, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-04-2025-402e)
+- [3318. Find X-Sum of All K-Long Subarrays I](https://dev.to/mdarifulhaque/3318-find-x-sum-of-all-k-long-subarrays-i-2jgg)
 <!-- BLOG-POST-LIST:END -->
 
