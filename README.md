@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker networking: How to connect containers in a full-stack project](https://dev.to/deborahemeni1/docker-networking-how-to-connect-containers-in-a-full-stack-project-3l98)
-- [The Dark Side of Automation: When &quot;Auto&quot; Breaks Your Security Model](https://dev.to/anderson_leite/the-dark-side-of-automation-when-auto-breaks-your-security-model-part-1-1c88)
-- [Spatial Reasoning Unleashed: Causal Language Models for Smarter Spatial Data](https://dev.to/arvind_sundararajan/spatial-reasoning-unleashed-causal-language-models-for-smarter-spatial-data-1mii)
-- [Detailed Technical Documentation on AI Implementation Logic &lpar;Taking Large Language Models as an Example &rpar;](https://dev.to/mirren_helen_57cb161dba6a/detailed-technical-documentation-on-ai-implementation-logic-taking-large-language-models-as-an-22b0)
+- [OCR IA 99.8% précis pour extraction factures](https://dev.to/philippe_5e14cfe574186958/ocr-ia-998-precis-pour-extraction-factures-2ck8)
+- [How to Create ‘Bingeable’ Email Campaigns That Keep Subscribers Hooked](https://dev.to/aditya-saasy/how-to-create-bingeable-email-campaigns-that-keep-subscribers-hooked-3m9a)
+- [🔄 Polymorphism in Java](https://dev.to/murali_rajendran_8c84570f/polymorphism-in-java-5f4f)
+- [What Is Serverless? A Beginner’s Guide to AWS Lambda &amp; Event-Driven Architectures](https://dev.to/subhashbohra/what-is-serverless-a-beginners-guide-to-aws-lambda-event-driven-architectures-3620)
 <!-- BLOG-POST-LIST:END -->
 
