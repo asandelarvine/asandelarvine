@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install MinGW-w64 on Windows 11 &lpar;2025 November&rpar;](https://dev.to/prastha/install-mingw-w64-on-windows-11-2025-november-acg)
-- [Building Resilient Defenses: A Practical Guide to Modern DDoS Attack Mitigation](https://dev.to/jeremygao/building-resilient-defenses-a-practical-guide-to-modern-ddos-attack-mitigation-43a7)
-- [Most AI startups fail within 12–24 months, not because of weak technology, but because of weak foundations.
-
-After building ReThynk AI and observing hundreds of AI founders, here’s what I’ve learned about why they fail!!](https://dev.to/jaideepparashar/most-ai-startups-fail-within-12-24-months-not-because-of-weak-technology-but-because-of-weak-4pi2)
-- [Mastra agent and Telex equals super integration](https://dev.to/frankdev20/mastra-agent-and-telex-equals-super-integration-3149)
+- [🤖 ChatGPT Changed Everything — But What’s Coming Next in AI?](https://dev.to/umaarahmed/chatgpt-changed-everything-but-whats-coming-next-in-ai-n79)
+- [随时随地使用 9Proxy 观看 Sling TV，无限制流媒体体验](https://dev.to/lopezjessicancmxe_e881660/sui-shi-sui-di-shi-yong-9proxy-guan-kan-sling-tvwu-xian-zhi-liu-mei-ti-ti-yan-230p)
+- [Install ISPConfig with Nginx Webserver on Ubuntu 22.04](https://dev.to/siswoyo/install-ispconfig-with-nginx-webserver-on-ubuntu-2204-492f)
+- [畅享 FuboTV 直播体育赛事和节目，无地域限制](https://dev.to/lopezjessicancmxe_e881660/chang-xiang-fubotv-zhi-bo-ti-yu-sai-shi-he-jie-mu-wu-di-yu-xian-zhi-3073)
 <!-- BLOG-POST-LIST:END -->
 
