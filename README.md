@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native, pnpm, and Monorepos: A Dependency Hoisting Journey](https://dev.to/heyradcode/react-native-pnpm-and-monorepos-a-dependency-hoisting-journey-5809)
-- [Building a Production-Ready AI-Powered Robo-Advisor: From Concept to Cloud Deployment](https://dev.to/shubham_thakur_f239e5ee85/building-a-production-ready-ai-powered-robo-advisor-from-concept-to-cloud-deployment-41c2)
-- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
-- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
+- [Firebase Push Tokens Are Device-Specific, Not User-Specific: A Critical Refactoring](https://dev.to/sangwoo_rhie/firebase-push-tokens-are-device-specific-not-user-specific-a-critical-refactoring-ppi)
+- [Check out the guide on - Ways to Create Groups Efficiently in Tableau](https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-ways-to-create-groups-efficiently-in-tableau-4ib0)
+- [The Moat Illusion: Why Modern Defensibility Isn’t in Your Codebase Anymore](https://dev.to/yaseen_tech/the-moat-illusion-why-modern-defensibility-isnt-in-your-codebase-anymore-4lo4)
+- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o)
 <!-- BLOG-POST-LIST:END -->
 
