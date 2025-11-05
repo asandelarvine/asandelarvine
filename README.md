@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What actually are .tt files in Ruby?](https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1)
-- [ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸](https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j)
-- [How I Built a Plugin-Based Architecture in Angular 19+ 💉](https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o)
-- [Automate Slack workflows with LangGraph](https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62)
+- [Loool
+
+https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/](https://dev.to/ben/loool-1200)
+- [Scaling Smart: Lean Manufacturing Principles for Emerging Rail Manufacturing Businesses](https://dev.to/david-pitman/scaling-smart-lean-manufacturing-principles-for-emerging-rail-manufacturing-businesses-53ae)
+- [Top 6 Developer Trends Powering the Future of Web3 Innovation](https://dev.to/chikieabby/top-6-developer-trends-powering-the-future-of-web3-innovation-255m)
+- [Takeaways from Tuesday’s Elections: Democrats Win Across the Spectrum as Voters Reject Trump](https://dev.to/michael_bteagua_216f87ed/takeaways-from-tuesdays-elections-democrats-win-across-the-spectrum-as-voters-reject-trump-3829)
 <!-- BLOG-POST-LIST:END -->
 
