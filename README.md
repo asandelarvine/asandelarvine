@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating MCP Tools with AWS Bedrock in an ASP.NET Core Minimal API](https://dev.to/ohalay/integrating-mcp-tools-with-aws-bedrock-in-an-aspnet-core-minimal-api-1p88)
-- [Introduction to SQL using SQLite: Create Table](https://dev.to/otumianempire/introduction-to-sql-using-sqlite-create-table-3cj1)
-- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
+- [I built a WhatsApp bot that automatically tracks your expenses into Google Sheets — my first public project 🚀](https://dev.to/chrollolw/i-built-a-whatsapp-bot-that-automatically-tracks-your-expenses-into-google-sheets-my-first-public-33ii)
+- [Decentralized Communication System During Disasters – Using LoRa](https://dev.to/afrith_ahamedaj_bd70301/decentralized-communication-system-during-disasters-using-lora-p1b)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
 <!-- BLOG-POST-LIST:END -->
 
