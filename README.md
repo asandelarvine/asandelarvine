@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loool
-
-https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/](https://dev.to/ben/loool-1200)
-- [Scaling Smart: Lean Manufacturing Principles for Emerging Rail Manufacturing Businesses](https://dev.to/david-pitman/scaling-smart-lean-manufacturing-principles-for-emerging-rail-manufacturing-businesses-53ae)
-- [Top 6 Developer Trends Powering the Future of Web3 Innovation](https://dev.to/chikieabby/top-6-developer-trends-powering-the-future-of-web3-innovation-255m)
-- [Takeaways from Tuesday’s Elections: Democrats Win Across the Spectrum as Voters Reject Trump](https://dev.to/michael_bteagua_216f87ed/takeaways-from-tuesdays-elections-democrats-win-across-the-spectrum-as-voters-reject-trump-3829)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
+- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
+- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
+- [I built an app using flutter that lets you save any bookmark on any app](https://dev.to/nullvoidkage/i-built-an-app-using-flutter-that-lets-you-save-any-bookmark-on-any-app-4nab)
 <!-- BLOG-POST-LIST:END -->
 
