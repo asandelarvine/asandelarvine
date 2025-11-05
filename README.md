@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a WhatsApp bot that automatically tracks your expenses into Google Sheets — my first public project 🚀](https://dev.to/chrollolw/i-built-a-whatsapp-bot-that-automatically-tracks-your-expenses-into-google-sheets-my-first-public-33ii)
-- [Decentralized Communication System During Disasters – Using LoRa](https://dev.to/afrith_ahamedaj_bd70301/decentralized-communication-system-during-disasters-using-lora-p1b)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4f3o)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-236l)
+- [Tune GitHub Copilot Settings in VS Code](https://dev.to/pwd9000/tune-github-copilot-settings-in-vs-code-32kp)
+- [Build 3 Real-World Azure Projects - Problem Statements, Step-by-Step Solutions, and Code &lpar;Developer Focused&rpar;](https://dev.to/careerbytecode/build-3-real-world-azure-projects-problem-statements-step-by-step-solutions-and-code-developer-576c)
+- [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
+- [Quantum-Powered Privacy: Securing the IoT with Decentralized Anomaly Detection](https://dev.to/arvind_sundararajan/quantum-powered-privacy-securing-the-iot-with-decentralized-anomaly-detection-3b76)
 <!-- BLOG-POST-LIST:END -->
 
