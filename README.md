@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Vibe Deployment: The Next Big DevOps Shift](https://dev.to/dev_tips/vibe-coding-vibe-deployment-the-next-big-devops-shift-3fkh)
-- [LitmusChaos October Highlights - Hacktoberfest, Meetups &amp; More!](https://dev.to/litmus-chaos/litmuschaos-october-highlights-hacktoberfest-meetups-more-51h6)
-- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
-- [DevSecOps Is Broken &lpar;and We All Kinda Know It&rpar;](https://dev.to/dev_tips/devsecops-is-broken-and-we-all-kinda-know-it-2ib7)
+- [React Native, pnpm, and Monorepos: A Dependency Hoisting Journey](https://dev.to/heyradcode/react-native-pnpm-and-monorepos-a-dependency-hoisting-journey-5809)
+- [Building a Production-Ready AI-Powered Robo-Advisor: From Concept to Cloud Deployment](https://dev.to/shubham_thakur_f239e5ee85/building-a-production-ready-ai-powered-robo-advisor-from-concept-to-cloud-deployment-41c2)
+- [The Mind Was Never Meant to Be Debugged](https://dev.to/leena_malhotra/the-mind-was-never-meant-to-be-debugged-1p9f)
+- [Why Gradle Flavors Might Be the Smartest Thing I’ve Read About Android Builds](https://dev.to/olivia-john/why-gradle-flavors-might-be-the-smartest-thing-ive-read-about-android-builds-cih)
 <!-- BLOG-POST-LIST:END -->
 
