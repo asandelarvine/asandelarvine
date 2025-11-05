@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Attendance Management Tools for Dev Teams in 2026](https://dev.to/tmetric_timer_2b3a575fc8b/top-5-attendance-management-tools-for-dev-teams-in-2026-45kj)
-- [Chrome’s new “Split Tabs” -Finally, True multitasking in your browser 💻](https://dev.to/pooja_garva/chromes-new-split-tabs-finally-true-multitasking-in-your-browser-1lbo)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
-- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
+- [Mastering Angular Signals: A Complete Guide Beyond RxJS](https://dev.to/romain_geffrault_10d88369/mastering-angular-signals-a-complete-guide-beyond-rxjs-30mo)
+- [Building Spexop: A Journey in Design System Development](https://dev.to/olmstedian/building-spexop-a-journey-in-design-system-development-jkm)
+- [Build unsigned iOS ipa to install via Sideloadly!](https://dev.to/oivoodoo/build-unsigned-ios-ipa-to-install-via-sideloadly-236f)
+- [Free Website Uptime API — JSON for Developers and AI Integrations](https://dev.to/saganmarketing/free-website-uptime-api-json-for-developers-and-ai-integrations-519m)
 <!-- BLOG-POST-LIST:END -->
 
