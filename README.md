@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🖼️ Responsive Images: Serving the Right Image for Every Screen](https://dev.to/okoye_ndidiamaka_5e3b7d30/responsive-images-serving-the-right-image-for-every-screen-3c90)
-- [Production-Grade Python Logging Made Easier with Loguru](https://dev.to/dash0/production-grade-python-logging-made-easier-with-loguru-3bbj)
-- [Series-1 How do you deal with class imbalance in a dataset when training a model?](https://dev.to/shruti_nakum/series-1-how-do-you-deal-with-class-imbalance-in-a-dataset-when-training-a-model-5hl9)
-- [Unlocking jQuery Mastery: Secrets No One Tells You &lpar;Until Now!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/unlocking-jquery-mastery-secrets-no-one-tells-you-until-now-5fgk)
+- [Top 5 Attendance Management Tools for Dev Teams in 2026](https://dev.to/tmetric_timer_2b3a575fc8b/top-5-attendance-management-tools-for-dev-teams-in-2026-45kj)
+- [Chrome’s new “Split Tabs” -Finally, True multitasking in your browser 💻](https://dev.to/pooja_garva/chromes-new-split-tabs-finally-true-multitasking-in-your-browser-1lbo)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques &lpar;Save 15+ Hours Weekly&rpar;](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-4fnb)
+- [5 Frontend Frameworks That Will Dominate 2026 &lpar;And Fix Your SaaS UI Problems&rpar;](https://dev.to/hashbyt/5-frontend-frameworks-that-will-dominate-2026-and-fix-your-saas-ui-problems-48hj)
 <!-- BLOG-POST-LIST:END -->
 
