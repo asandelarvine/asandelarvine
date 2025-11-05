@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-3n9d)
-- [Wednesday Links - Edition 2025-11-05](https://dev.to/0xkkocel/wednesday-links-edition-2025-11-05-9d3)
-- [Try it out, and give it a star ⭐ if you liked it.](https://dev.to/masterdevsabith/try-it-out-and-give-it-a-star-if-you-liked-it-2po0)
-- [I built an app using flutter that lets you save any bookmark on any app](https://dev.to/nullvoidkage/i-built-an-app-using-flutter-that-lets-you-save-any-bookmark-on-any-app-4nab)
+- [Writing Java Code Safely and Smartly with Null-Safety Using JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/writing-java-code-safely-and-smartly-with-null-safety-using-jplus-2pcg)
+- [Guide to Seamless Data Security in Rails With Mongoid’s Automatic Encryption](https://dev.to/mongodb/guide-to-seamless-data-security-in-rails-with-mongoids-automatic-encryption-33d2)
+- [🤖 Déployer son agent sur Google Vertex AI Agent Engine](https://dev.to/zenika/deployer-son-agent-sur-google-vertex-ai-agent-engine-342l)
+- [Understanding Kafka Lag](https://dev.to/lagat_josiah_f024a2c855bc/understanding-kafka-lag-395b)
 <!-- BLOG-POST-LIST:END -->
 
