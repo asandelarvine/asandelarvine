@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Java Code Safely and Smartly with Null-Safety Using JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/writing-java-code-safely-and-smartly-with-null-safety-using-jplus-2pcg)
-- [Guide to Seamless Data Security in Rails With Mongoid’s Automatic Encryption](https://dev.to/mongodb/guide-to-seamless-data-security-in-rails-with-mongoids-automatic-encryption-33d2)
-- [🤖 Déployer son agent sur Google Vertex AI Agent Engine](https://dev.to/zenika/deployer-son-agent-sur-google-vertex-ai-agent-engine-342l)
-- [Understanding Kafka Lag](https://dev.to/lagat_josiah_f024a2c855bc/understanding-kafka-lag-395b)
+- [Understanding Backpressure in web socket](https://dev.to/safal_bhandari/understanding-backpressure-in-web-socket-471m)
+- [How AGI Will Reshape Human Work, Purpose, and Power](https://dev.to/akshatraj00/how-agi-will-reshape-human-work-purpose-and-power-3038)
+- [Beyond the Flame Chart: Chrome DevTools&#39; New AI Instantly Pinpoints Your Site&#39;s Performance Issues](https://dev.to/shidhincr/beyond-the-flame-chart-chrome-devtools-new-ai-instantly-pinpoints-your-sites-performance-issues-m3)
+- [Dockerize &amp; Deploy Spring Boot + Angular + MySQL | Full Guide](https://dev.to/smoothcode/dockerize-deploy-spring-boot-angular-mysql-full-guide-24fg)
 <!-- BLOG-POST-LIST:END -->
 
