@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tune GitHub Copilot Settings in VS Code](https://dev.to/pwd9000/tune-github-copilot-settings-in-vs-code-32kp)
-- [Build 3 Real-World Azure Projects - Problem Statements, Step-by-Step Solutions, and Code &lpar;Developer Focused&rpar;](https://dev.to/careerbytecode/build-3-real-world-azure-projects-problem-statements-step-by-step-solutions-and-code-developer-576c)
-- [Production-Grade AI Agents: Architecture Patterns That Actually Work](https://dev.to/akshaygupta1996/production-grade-ai-agents-architecture-patterns-that-actually-work-19h)
-- [Quantum-Powered Privacy: Securing the IoT with Decentralized Anomaly Detection](https://dev.to/arvind_sundararajan/quantum-powered-privacy-securing-the-iot-with-decentralized-anomaly-detection-3b76)
+- [Leetcode - Day 1](https://dev.to/shivi_e441534c4/leetcode-day-1-41k5)
+- [Building Scalable API Test Automation with Postman + Newman — My Gradific API Testing Project](https://dev.to/loveline/building-scalable-api-test-automation-with-postman-newman-my-gradific-api-testing-project-31fp)
+- [Awesome FFmpeg Tricks for Video and Audio Manipulation](https://dev.to/picoable/awesome-ffmpeg-tricks-for-video-and-audio-manipulation-3p08)
+- [FPGA_Part_03](https://dev.to/cevval/fpgapart03-5c1p)
 <!-- BLOG-POST-LIST:END -->
 
