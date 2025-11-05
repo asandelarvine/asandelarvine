@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Launched on Product Hunt With No Network... Here’s What Happened](https://dev.to/isakbuilds/i-launched-on-product-hunt-with-no-network-heres-what-happened-3mcm)
-- [How to send OTP codes with SMS in Node.js](https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg)
-- [**The Paradox of Empathy in AI Development: A Call for More](https://dev.to/drcarlosruizviquez/the-paradox-of-empathy-in-ai-development-a-call-for-more-88m)
+- [Integrating MCP Tools with AWS Bedrock in an ASP.NET Core Minimal API](https://dev.to/ohalay/integrating-mcp-tools-with-aws-bedrock-in-an-aspnet-core-minimal-api-1p88)
+- [Introduction to SQL using SQLite: Create Table](https://dev.to/otumianempire/introduction-to-sql-using-sqlite-create-table-3cj1)
+- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
+- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
 <!-- BLOG-POST-LIST:END -->
 
