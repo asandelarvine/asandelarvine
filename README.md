@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 New Series: Neuro-Symbolic Wednesday](https://dev.to/centaurai/new-series-neuro-symbolic-wednesday-14hb)
-- [🧠 Managed vs Unmanaged Code — Explained for Beginners](https://dev.to/aryaglekshmi/managed-vs-unmanaged-code-explained-for-beginners-16b5)
-- [🏚️ CSS Art: Haunted House with Parallax Layers](https://dev.to/manukumar07/css-art-haunted-house-with-parallax-layers-4d8)
-- [Building Custom Components in Langflow 🛠️](https://dev.to/aairom/building-custom-components-in-langflow-3ncm)
+- [🖼️ Responsive Images: Serving the Right Image for Every Screen](https://dev.to/okoye_ndidiamaka_5e3b7d30/responsive-images-serving-the-right-image-for-every-screen-3c90)
+- [Production-Grade Python Logging Made Easier with Loguru](https://dev.to/dash0/production-grade-python-logging-made-easier-with-loguru-3bbj)
+- [Series-1 How do you deal with class imbalance in a dataset when training a model?](https://dev.to/shruti_nakum/series-1-how-do-you-deal-with-class-imbalance-in-a-dataset-when-training-a-model-5hl9)
+- [Unlocking jQuery Mastery: Secrets No One Tells You &lpar;Until Now!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/unlocking-jquery-mastery-secrets-no-one-tells-you-until-now-5fgk)
 <!-- BLOG-POST-LIST:END -->
 
