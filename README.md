@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Angular Signals: A Complete Guide Beyond RxJS](https://dev.to/romain_geffrault_10d88369/mastering-angular-signals-a-complete-guide-beyond-rxjs-30mo)
-- [Building Spexop: A Journey in Design System Development](https://dev.to/olmstedian/building-spexop-a-journey-in-design-system-development-jkm)
-- [Build unsigned iOS ipa to install via Sideloadly!](https://dev.to/oivoodoo/build-unsigned-ios-ipa-to-install-via-sideloadly-236f)
-- [Free Website Uptime API — JSON for Developers and AI Integrations](https://dev.to/saganmarketing/free-website-uptime-api-json-for-developers-and-ai-integrations-519m)
+- [What actually are .tt files in Ruby?](https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1)
+- [ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸](https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j)
+- [How I Built a Plugin-Based Architecture in Angular 19+ 💉](https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o)
+- [Automate Slack workflows with LangGraph](https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62)
 <!-- BLOG-POST-LIST:END -->
 
