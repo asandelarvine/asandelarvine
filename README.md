@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
-- [Turning Photos Into 3D Gold: The Power of Differentiable Rendering](https://dev.to/arvind_sundararajan/turning-photos-into-3d-gold-the-power-of-differentiable-rendering-36jm)
-- [Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra](https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8)
-- [Hetzner Servers Benchmarks](https://dev.to/xcs/hetzner-servers-benchmarks-28f8)
+- [Creación de agentes AI con PydanticAI – Introducción](https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8)
+- [WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente](https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f)
+- [Daily Artificial Intelligence Digest - Nov 05, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le)
+- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
 <!-- BLOG-POST-LIST:END -->
 
