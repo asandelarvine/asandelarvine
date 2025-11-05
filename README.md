@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Backpressure in web socket](https://dev.to/safal_bhandari/understanding-backpressure-in-web-socket-471m)
-- [How AGI Will Reshape Human Work, Purpose, and Power](https://dev.to/akshatraj00/how-agi-will-reshape-human-work-purpose-and-power-3038)
-- [Beyond the Flame Chart: Chrome DevTools&#39; New AI Instantly Pinpoints Your Site&#39;s Performance Issues](https://dev.to/shidhincr/beyond-the-flame-chart-chrome-devtools-new-ai-instantly-pinpoints-your-sites-performance-issues-m3)
-- [Dockerize &amp; Deploy Spring Boot + Angular + MySQL | Full Guide](https://dev.to/smoothcode/dockerize-deploy-spring-boot-angular-mysql-full-guide-24fg)
+- [Getting to Know Gemini CLI: Your Terminal’s New AI Ally](https://dev.to/muskanfatim/getting-to-know-gemini-cli-your-terminals-new-ai-ally-1moa)
+- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
+- [🦄 When ML Models Go Wild: Unintentional Art Created by Neural Networks](https://dev.to/pracode_2503/when-ml-models-go-wild-unintentional-art-created-by-neural-networks-5ga6)
+- [From Postgres to Iceberg](https://dev.to/misachi/from-postgres-to-iceberg-g4)
 <!-- BLOG-POST-LIST:END -->
 
