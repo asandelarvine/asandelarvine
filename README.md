@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Melodic Airways Transforming Flight Routes Into Music&quot;](https://dev.to/aviral_srivastava_2c4e212/melodic-airways-transforming-flight-routes-into-music-4l72)
-- [Agentic DevOps: I Let GitHub Copilot Run My Entire CI/CD Pipeline &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/gaikwadshri29/agentic-devops-i-let-github-copilot-run-my-entire-cicd-pipeline-and-lived-to-tell-the-tale-50oh)
-- [How effective is the Sabak Harbor Cybersecurity course for career growth?](https://dev.to/aman_singh_77de21b7c6110c/how-effective-is-the-sabak-harbor-cybersecurity-course-for-career-growth-fbh)
-- [CLI Agent Orchestrator: When One AI Agent Isn&#39;t Enough](https://dev.to/pinishv/cli-agent-orchestrator-when-one-ai-agent-isnt-enough-dc9)
+- [📢 New Series: Neuro-Symbolic Wednesday](https://dev.to/centaurai/new-series-neuro-symbolic-wednesday-14hb)
+- [🧠 Managed vs Unmanaged Code — Explained for Beginners](https://dev.to/aryaglekshmi/managed-vs-unmanaged-code-explained-for-beginners-16b5)
+- [🏚️ CSS Art: Haunted House with Parallax Layers](https://dev.to/manukumar07/css-art-haunted-house-with-parallax-layers-4d8)
+- [Building Custom Components in Langflow 🛠️](https://dev.to/aairom/building-custom-components-in-langflow-3ncm)
 <!-- BLOG-POST-LIST:END -->
 
