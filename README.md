@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - Day 1](https://dev.to/shivi_e441534c4/leetcode-day-1-41k5)
-- [Building Scalable API Test Automation with Postman + Newman — My Gradific API Testing Project](https://dev.to/loveline/building-scalable-api-test-automation-with-postman-newman-my-gradific-api-testing-project-31fp)
-- [Awesome FFmpeg Tricks for Video and Audio Manipulation](https://dev.to/picoable/awesome-ffmpeg-tricks-for-video-and-audio-manipulation-3p08)
-- [FPGA_Part_03](https://dev.to/cevval/fpgapart03-5c1p)
+- [StatusGator Alternative in 2025: Why IT Managers Pick IsDown](https://dev.to/isdown/statusgator-alternative-in-2025-why-it-managers-pick-isdown-6h0)
+- [Comment j&#39;ai arrêté de redessiner l&#39;univers : une histoire d&#39;abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
+- [Software Engineering vs AI Engineering](https://dev.to/sentineleye/software-engineering-vs-ai-engineering-4mif)
+- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
 <!-- BLOG-POST-LIST:END -->
 
