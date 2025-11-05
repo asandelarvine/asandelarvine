@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable BBR, a Better Network Congestion Control Algorithm From Google on Linux](https://dev.to/archerallstars/enable-bbr-a-better-network-congestion-control-algorithm-from-google-on-linux-2pgl)
-- [Process Bottleneck Breakthrough: AI-Powered Outcome Prediction](https://dev.to/arvind_sundararajan/process-bottleneck-breakthrough-ai-powered-outcome-prediction-55ng)
-- [My DevOps Journey: Part 13 - AWS S3 Essentials: The Backbone of Cloud Storage](https://dev.to/sheershsinha/my-devops-journey-part-13-aws-s3-essentials-the-backbone-of-cloud-storage-10ln)
-- [Don&#39;t nuke your test ENVs](https://dev.to/noelworden/dont-nuke-your-test-envs-4j6j)
+- [Vibe Coding Vibe Deployment: The Next Big DevOps Shift](https://dev.to/dev_tips/vibe-coding-vibe-deployment-the-next-big-devops-shift-3fkh)
+- [LitmusChaos October Highlights - Hacktoberfest, Meetups &amp; More!](https://dev.to/litmus-chaos/litmuschaos-october-highlights-hacktoberfest-meetups-more-51h6)
+- [Building an AI-Powered E-Commerce Platform with Rich UI Rendering](https://dev.to/exploredataaiml/building-an-ai-powered-e-commerce-platform-with-rich-ui-rendering-11gi)
+- [DevSecOps Is Broken &lpar;and We All Kinda Know It&rpar;](https://dev.to/dev_tips/devsecops-is-broken-and-we-all-kinda-know-it-2ib7)
 <!-- BLOG-POST-LIST:END -->
 
