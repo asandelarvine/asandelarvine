@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creación de agentes AI con PydanticAI – Introducción](https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8)
-- [WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente](https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f)
-- [Daily Artificial Intelligence Digest - Nov 05, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le)
-- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
+- [Enable BBR, a Better Network Congestion Control Algorithm From Google on Linux](https://dev.to/archerallstars/enable-bbr-a-better-network-congestion-control-algorithm-from-google-on-linux-2pgl)
+- [Process Bottleneck Breakthrough: AI-Powered Outcome Prediction](https://dev.to/arvind_sundararajan/process-bottleneck-breakthrough-ai-powered-outcome-prediction-55ng)
+- [My DevOps Journey: Part 13 - AWS S3 Essentials: The Backbone of Cloud Storage](https://dev.to/sheershsinha/my-devops-journey-part-13-aws-s3-essentials-the-backbone-of-cloud-storage-10ln)
+- [Don&#39;t nuke your test ENVs](https://dev.to/noelworden/dont-nuke-your-test-envs-4j6j)
 <!-- BLOG-POST-LIST:END -->
 
