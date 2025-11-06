@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 6B — SaijinOS: Care-Based AI Architecture &lpar;Why an OS Must Learn to Breathe&rpar;](https://dev.to/kato_masato_c5593c81af5c6/part-6b-saijinos-care-based-ai-architecture-why-an-os-must-learn-to-breathe-25af)
-- [The Adventures of Blink S4e10: Blink vs the Gilded Rose: The Rose in Review](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e10-blink-vs-the-gilded-rose-the-rose-in-review-3fe4)
-- [Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim](https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp)
-- [Parallel AI Development: Can 5 Claude Code Agents Work Independently?](https://dev.to/aviad_rozenhek_cba37e0660/parallel-ai-development-can-5-claude-code-agents-work-independently-4a5)
+- [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
+- [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
+- [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
+- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
 <!-- BLOG-POST-LIST:END -->
 
