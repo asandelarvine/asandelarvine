@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Flux-Fast model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-fast-model-by-prunaai-on-replicate-4o34)
-- [A beginner&#39;s guide to the Flux-Kontext-Fast model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-kontext-fast-model-by-prunaai-on-replicate-1kfm)
-- [Building a Fashion App Using Cloudinary’s GenAI in React and Node.js](https://dev.to/cloudinary/building-a-fashion-app-using-cloudinarys-genai-in-react-and-nodejs-25k2)
-- [Vim and I](https://dev.to/taku25/vim-and-i-254g)
+- [Practical Guide: Mastering Custom Gaussian Blur Pop-ups in HarmonyOS](https://dev.to/harmonyos/practical-guide-mastering-custom-gaussian-blur-pop-ups-in-harmonyos-33m2)
+- [SafeLine: A Next-Generation Self-Hosted Web Application Firewall](https://dev.to/arina_cholee/safeline-a-next-generation-self-hosted-web-application-firewall-4b6j)
+- [Laravel Log Cleaner v2.01 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordiviera/laravel-log-cleaner-v201-memory-efficient-log-management-with-compression-backup-loc)
+- [Crafting High-Performance Full-Stack Applications: Quarkus Native and Angular](https://dev.to/issam1991/crafting-high-performance-full-stack-applications-quarkus-native-and-angular-2eif)
 <!-- BLOG-POST-LIST:END -->
 
