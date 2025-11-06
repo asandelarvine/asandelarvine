@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Enterprise-Grade Context: Making the Model Context Protocol &lpar;MCP&rpar; Viable for Financial Services](https://dev.to/om_shree_0709/engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-2pmm)
-- [Kubernetes Overkill: When Your Architecture Is More Complex Than Your Business](https://dev.to/anderson_leite/kubernetes-overkill-when-your-architecture-is-more-complex-than-your-business-17gn)
-- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
-- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
+- [We’re Now in the AI vs AI Resume War](https://dev.to/madsendev/were-now-in-the-ai-vs-ai-resume-war-ik1)
+- [Docker Labs: From Beginner to Advanced on Azure](https://dev.to/sudlo2014/docker-labs-from-beginner-to-advanced-on-azure-54om)
+- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
+- [Vibecoding and the future of code security](https://dev.to/epilogueteam/vibecoding-and-the-future-of-code-security-nbp)
 <!-- BLOG-POST-LIST:END -->
 
