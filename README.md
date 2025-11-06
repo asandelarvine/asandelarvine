@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2fm2)
-- [VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a VideoGenerator](https://dev.to/paperium/vist3a-text-to-3d-by-stitching-a-multi-view-reconstruction-network-to-a-videogenerator-362b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
+- [Congrats to the Winners of the Auth0 for AI Agents Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8)
+- [My Software Journey So Far And Where I&#39;m Going Next](https://dev.to/stennis1/my-software-journey-so-far-and-where-im-going-next-4i4n)
+- [Leveling the Playing Field: Fairer AI with Kernelized Null-Space Projections](https://dev.to/arvind_sundararajan/leveling-the-playing-field-fairer-ai-with-kernelized-null-space-projections-1e88)
+- [SSIS vs Azure Data Factory: A Quick Comparison](https://dev.to/zappysys/ssis-vs-azure-data-factory-a-quick-comparison-5di)
 <!-- BLOG-POST-LIST:END -->
 
