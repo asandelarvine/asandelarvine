@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Future of Healthcare Policy in America](https://dev.to/americasbestinmedicine/understanding-the-future-of-healthcare-policy-in-america-3912)
-- [The Value-Centric Philosophy of Rust](https://dev.to/quadswell/the-value-centric-philosophy-of-rust-4eo7)
-- [How to Justify AI-Driven IT to Your Leadership Turning Automation into a Strategic Advantage](https://dev.to/sip_mjb/how-to-justify-ai-driven-it-to-your-leadershipturning-automation-into-a-strategic-advantage-4opd)
-- [Building Trust and Reliability in Banking Apps with Modern Testing](https://dev.to/misterankit/building-trust-and-reliability-in-banking-apps-with-modern-testing-deb)
+- [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m)
+- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
+- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
+- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
 <!-- BLOG-POST-LIST:END -->
 
