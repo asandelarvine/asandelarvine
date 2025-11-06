@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable AI Agents with MCP: What We Learned Moving Codegen to the Planning Phase](https://dev.to/maybe_ai/building-reliable-ai-agents-with-mcp-what-we-learned-moving-codegen-to-the-planning-phase-mpl)
-- [Inter-Process Communication &lpar;IPC&rpar; in C++: Complete Guide](https://dev.to/cear/inter-process-communication-ipc-in-c-complete-guide-56mg)
-- [AI&#39;s Role in Revolutionizing Team Dynamics](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-role-in-revolutionizing-team-dynamics-bgn)
-- [How I Automated My Client Onboarding — And Saved 10+ Hours Every Week](https://dev.to/gonzo_digitalmarketinga/how-i-automated-my-client-onboarding-and-saved-10-hours-every-week-9do)
+- [Introducing TokiForge: A Framework-Agnostic Design Token Engine with Runtime Theme Switching](https://dev.to/toozuuu/introducing-tokiforge-a-framework-agnostic-design-token-engine-with-runtime-theme-switching-2e72)
+- [Efficient Laziness at Scale: The Agile Team I Never Needed](https://dev.to/pascal_cescato_692b7a8a20/efficient-laziness-at-scale-the-agile-team-i-never-needed-5052)
+- [Simplifier la gestion des erreurs de validation dans Angular avec `ng-input-validation`](https://dev.to/bibangjoseph/simplifier-la-gestion-des-erreurs-de-validation-dans-angular-avec-ng-input-validation-366g)
+- [You’re not the real product owner if you can’t say, “F*ck it, let’s kill the product.” Until you have that power, you’re just managing, not owning.](https://dev.to/rndthts/youre-not-the-real-product-owner-if-you-cant-say-fck-it-lets-kill-the-product-until-you-4oh9)
 <!-- BLOG-POST-LIST:END -->
 
