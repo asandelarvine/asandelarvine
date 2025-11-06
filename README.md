@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TokiForge: A Framework-Agnostic Design Token Engine with Runtime Theme Switching](https://dev.to/toozuuu/introducing-tokiforge-a-framework-agnostic-design-token-engine-with-runtime-theme-switching-2e72)
-- [Efficient Laziness at Scale: The Agile Team I Never Needed](https://dev.to/pascal_cescato_692b7a8a20/efficient-laziness-at-scale-the-agile-team-i-never-needed-5052)
-- [Simplifier la gestion des erreurs de validation dans Angular avec `ng-input-validation`](https://dev.to/bibangjoseph/simplifier-la-gestion-des-erreurs-de-validation-dans-angular-avec-ng-input-validation-366g)
-- [You’re not the real product owner if you can’t say, “F*ck it, let’s kill the product.” Until you have that power, you’re just managing, not owning.](https://dev.to/rndthts/youre-not-the-real-product-owner-if-you-cant-say-fck-it-lets-kill-the-product-until-you-4oh9)
+- [Symmetric Reference Counting: How to Eliminate Cycles Without a Garbage Collector](https://dev.to/zerohat/symmetric-reference-counting-how-to-eliminate-cycles-without-a-garbage-collector-151f)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
 <!-- BLOG-POST-LIST:END -->
 
