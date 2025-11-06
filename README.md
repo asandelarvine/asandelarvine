@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m)
-- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg)
-- [Building a Password Checker with Vanilla JS &lpar;No Frameworks!&rpar;](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo)
-- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg)
+- [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
+- [5 Ways to Scale FreeSWITCH for High-Performance VoIP Systems](https://dev.to/jackmorris10/5-ways-to-scale-freeswitch-for-high-performance-voip-systems-274i)
+- [Where coding agents excel &lpar;and where they don&#39;t&rpar;](https://dev.to/eelcolos/where-coding-agents-excel-and-where-they-dont-kba)
+- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
 <!-- BLOG-POST-LIST:END -->
 
