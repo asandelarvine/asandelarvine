@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding: What we learned from flip-flopping 8 times on a simple formula](https://dev.to/aviad_rozenhek_cba37e0660/vibe-coding-what-we-learned-from-flip-flopping-8-times-on-a-simple-formula-316)
-- [Wix Users Targeted by Sophisticated Email Scam Pretending to Be Official Support — Statement by Asaaju Peter](https://dev.to/phemight_technologies_281/wix-users-targeted-by-sophisticated-email-scam-pretending-to-be-official-support-statement-by-bke)
-- [Physics-Aware Neural Networks: Banishing Simulation Ghosts by Arvind Sundararajan](https://dev.to/arvind_sundararajan/physics-aware-neural-networks-banishing-simulation-ghosts-by-arvind-sundararajan-190n)
-- [Learning an Image Editing Model without Image Editing Pairs](https://dev.to/paperium/learning-an-image-editing-model-without-image-editing-pairs-non)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2fm2)
+- [VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a VideoGenerator](https://dev.to/paperium/vist3a-text-to-3d-by-stitching-a-multi-view-reconstruction-network-to-a-videogenerator-362b)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2874)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4e0c)
 <!-- BLOG-POST-LIST:END -->
 
