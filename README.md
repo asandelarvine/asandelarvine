@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside a Tech War Room: What Real Leadership Looks Like During System Outages](https://dev.to/yaseen_tech/inside-a-tech-war-room-what-real-leadership-looks-like-during-system-outages-g39)
-- [5 Ways to Scale FreeSWITCH for High-Performance VoIP Systems](https://dev.to/jackmorris10/5-ways-to-scale-freeswitch-for-high-performance-voip-systems-274i)
-- [Where coding agents excel &lpar;and where they don&#39;t&rpar;](https://dev.to/eelcolos/where-coding-agents-excel-and-where-they-dont-kba)
-- [The Untapped Risk of Water Management in Sustainability](https://dev.to/esg_rating_/the-untapped-risk-of-water-management-in-sustainability-5f8n)
+- [Building Reliable AI Agents with MCP: What We Learned Moving Codegen to the Planning Phase](https://dev.to/maybe_ai/building-reliable-ai-agents-with-mcp-what-we-learned-moving-codegen-to-the-planning-phase-mpl)
+- [Inter-Process Communication &lpar;IPC&rpar; in C++: Complete Guide](https://dev.to/cear/inter-process-communication-ipc-in-c-complete-guide-56mg)
+- [AI&#39;s Role in Revolutionizing Team Dynamics](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-role-in-revolutionizing-team-dynamics-bgn)
+- [How I Automated My Client Onboarding — And Saved 10+ Hours Every Week](https://dev.to/gonzo_digitalmarketinga/how-i-automated-my-client-onboarding-and-saved-10-hours-every-week-9do)
 <!-- BLOG-POST-LIST:END -->
 
