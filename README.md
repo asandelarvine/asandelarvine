@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Post: Best Free AI Tools for Web Developers in 2025](https://dev.to/djamware_tutorial_eba1a61/new-post-best-free-ai-tools-for-web-developers-in-2025-3m02)
-- [THE BACKBONE OF DATABASE REALIABILITY: EXPLORING ACID IN ACTION WITH SQL TRANSACTION A STEP-STEP-STEP GUIDE](https://dev.to/hari_saravanan_7ddd3f0bbf/the-backbone-of-database-realiability-exploring-acid-in-action-with-sql-transaction-a-1nc1)
-- [The Future of SEO: What’s Working Right Now &lpar;2025 Edition&rpar;](https://dev.to/codux_digital_0aa4efa49f3/the-future-of-seo-whats-working-right-now-2025-edition-1539)
-- [Top formatos de conteúdo que ganham citação em LLM: dados, guias e estudos](https://dev.to/katarina/top-formatos-de-conteudo-que-ganham-citacao-em-llm-dados-guias-e-estudos-2fg6)
+- [Part 6B — SaijinOS: Care-Based AI Architecture &lpar;Why an OS Must Learn to Breathe&rpar;](https://dev.to/kato_masato_c5593c81af5c6/part-6b-saijinos-care-based-ai-architecture-why-an-os-must-learn-to-breathe-25af)
+- [The Adventures of Blink S4e10: Blink vs the Gilded Rose: The Rose in Review](https://dev.to/linkbenjamin/the-adventures-of-blink-s4e10-blink-vs-the-gilded-rose-the-rose-in-review-3fe4)
+- [Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim](https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp)
+- [Parallel AI Development: Can 5 Claude Code Agents Work Independently?](https://dev.to/aviad_rozenhek_cba37e0660/parallel-ai-development-can-5-claude-code-agents-work-independently-4a5)
 <!-- BLOG-POST-LIST:END -->
 
