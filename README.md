@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is DevOps? A Beginner’s Guide to How Development and Operation Teams Work Together](https://dev.to/pearlicia/what-is-devops-a-beginners-guide-to-how-development-and-operation-teams-work-together-5b3b)
-- [Working Towards Improved PAM: Widening The Scope And Taking Control](https://dev.to/gitguardian/working-towards-improved-pam-widening-the-scope-and-taking-control-fbd)
-- [80 Days of Python Challenges: How I Turned Consistency into Progress](https://dev.to/shahrouzlogs/80-days-of-python-challenges-how-i-turned-consistency-into-progress-1ib2)
-- [ERC-20, ERC-721,ERC-1155](https://dev.to/leyutsega_abebaw_b520050a/erc-20-erc-721erc-1155-5gel)
+- [Como integrar Faceted Search com Interactive Grid no Oracle APEX](https://dev.to/murasb/como-integrar-faceted-search-com-interactive-grid-no-oracle-apex-2jcc)
+- [WTF I Got a Job ?!?!](https://dev.to/andrewhasoneshot/wtf-i-got-a-job--2lgm)
+- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
+- [Why 1:1s Are Your Secret Weapon &lpar;Even as an IC&rpar;](https://dev.to/willysvarela/why-11s-are-your-secret-weapon-even-as-an-ic-40fn)
 <!-- BLOG-POST-LIST:END -->
 
