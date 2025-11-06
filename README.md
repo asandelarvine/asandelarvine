@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding monitoring vs observability: core differences](https://dev.to/tomjohnson3/understanding-monitoring-vs-observability-core-differences-8ig)
-- [Smart City Technology: The Future of Urban Innovation](https://dev.to/rapidcellphone/smart-city-technology-the-future-of-urban-innovation-33hk)
-- [Working with dates in JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/working-with-dates-in-js-momentjs-vs-date-fns-2662)
-- [Trabalhando com datas em JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/trabalhando-com-datas-em-js-momentjs-vs-date-fns-2eh0)
+- [The Virtues of Vanilla JavaScript](https://dev.to/davidcanhelp/the-virtues-of-vanilla-javascript-5fb5)
+- [How We Reduced AI Agent Development Time by 70% with Type-Safe Prompt Engineering](https://dev.to/galfrevn/how-we-reduced-ai-agent-development-time-by-70-with-type-safe-prompt-engineering-1i9j)
+- [How to protect Express routes in Node.js](https://dev.to/jahongir2007/how-to-protect-express-routes-in-nodejs-327o)
+- [⚡️ Dive Into the AstralGuard CTF Writeups Archive](https://dev.to/elit3cod3r/dive-into-the-astralguard-ctf-writeups-archive-3c0o)
 <!-- BLOG-POST-LIST:END -->
 
