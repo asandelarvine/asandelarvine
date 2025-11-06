@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs: What&#39;s Wasting Your Time on YouTube? Help Me Build a Better Platform &lpar;2-min survey&rpar;](https://dev.to/rishabyd/devs-whats-wasting-your-time-on-youtube-help-me-build-a-better-platform-2-min-survey-100l)
-- [⚛ Quantum Computing: The Next Revolution in Technology](https://dev.to/mohansh_technologies_a5e1/quantum-computing-the-next-revolution-in-technology-5dlo)
-- [Not sure whether to use VMs or containers for your next setup?](https://dev.to/web_learning_4de0b1e0557/not-sure-whether-to-use-vms-or-containers-for-your-next-setup-j5o)
-- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
+- [Understanding monitoring vs observability: core differences](https://dev.to/tomjohnson3/understanding-monitoring-vs-observability-core-differences-8ig)
+- [Smart City Technology: The Future of Urban Innovation](https://dev.to/rapidcellphone/smart-city-technology-the-future-of-urban-innovation-33hk)
+- [Working with dates in JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/working-with-dates-in-js-momentjs-vs-date-fns-2662)
+- [Trabalhando com datas em JS &lpar;moment.js vs date-fns&rpar;](https://dev.to/lucaspereiradesouzat/trabalhando-com-datas-em-js-momentjs-vs-date-fns-2eh0)
 <!-- BLOG-POST-LIST:END -->
 
