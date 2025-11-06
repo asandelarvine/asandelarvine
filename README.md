@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symmetric Reference Counting: How to Eliminate Cycles Without a Garbage Collector](https://dev.to/zerohat/symmetric-reference-counting-how-to-eliminate-cycles-without-a-garbage-collector-151f)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
+- [New Post: Best Free AI Tools for Web Developers in 2025](https://dev.to/djamware_tutorial_eba1a61/new-post-best-free-ai-tools-for-web-developers-in-2025-3m02)
+- [THE BACKBONE OF DATABASE REALIABILITY: EXPLORING ACID IN ACTION WITH SQL TRANSACTION A STEP-STEP-STEP GUIDE](https://dev.to/hari_saravanan_7ddd3f0bbf/the-backbone-of-database-realiability-exploring-acid-in-action-with-sql-transaction-a-1nc1)
+- [The Future of SEO: What’s Working Right Now &lpar;2025 Edition&rpar;](https://dev.to/codux_digital_0aa4efa49f3/the-future-of-seo-whats-working-right-now-2025-edition-1539)
+- [Top formatos de conteúdo que ganham citação em LLM: dados, guias e estudos](https://dev.to/katarina/top-formatos-de-conteudo-que-ganham-citacao-em-llm-dados-guias-e-estudos-2fg6)
 <!-- BLOG-POST-LIST:END -->
 
