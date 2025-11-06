@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StatusGator Alternative in 2025: Why IT Managers Pick IsDown](https://dev.to/isdown/statusgator-alternative-in-2025-why-it-managers-pick-isdown-6h0)
-- [Comment j&#39;ai arrêté de redessiner l&#39;univers : une histoire d&#39;abonnements atomiques dans React](https://dev.to/quojs_dev/comment-jai-arrete-de-redessiner-lunivers-une-histoire-dabonnements-atomiques-dans-react-1kji)
-- [Software Engineering vs AI Engineering](https://dev.to/sentineleye/software-engineering-vs-ai-engineering-4mif)
-- [A Skeptic&#39;s Guide to Vibe Coding](https://dev.to/mollie_pettit_2fa2a4d10f7/a-skeptics-guide-to-vibe-coding-213p)
+- [A beginner&#39;s guide to the Flux-Fast model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-fast-model-by-prunaai-on-replicate-4o34)
+- [A beginner&#39;s guide to the Flux-Kontext-Fast model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-kontext-fast-model-by-prunaai-on-replicate-1kfm)
+- [Building a Fashion App Using Cloudinary’s GenAI in React and Node.js](https://dev.to/cloudinary/building-a-fashion-app-using-cloudinarys-genai-in-react-and-nodejs-25k2)
+- [Vim and I](https://dev.to/taku25/vim-and-i-254g)
 <!-- BLOG-POST-LIST:END -->
 
