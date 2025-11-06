@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Now in the AI vs AI Resume War](https://dev.to/madsendev/were-now-in-the-ai-vs-ai-resume-war-ik1)
-- [Docker Labs: From Beginner to Advanced on Azure](https://dev.to/sudlo2014/docker-labs-from-beginner-to-advanced-on-azure-54om)
-- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
-- [Vibecoding and the future of code security](https://dev.to/epilogueteam/vibecoding-and-the-future-of-code-security-nbp)
+- [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
+- [How Construction Payroll Automation Drives Compliance and Profitability](https://dev.to/kapusto/how-construction-payroll-automation-drives-compliance-and-profitability-489d)
+- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
+- [Building Herctually: An AI Research Agent written in GO](https://dev.to/oreoluwabs/building-herctually-an-ai-research-agent-written-in-go-3a18)
 <!-- BLOG-POST-LIST:END -->
 
