@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como integrar Faceted Search com Interactive Grid no Oracle APEX](https://dev.to/murasb/como-integrar-faceted-search-com-interactive-grid-no-oracle-apex-2jcc)
-- [WTF I Got a Job ?!?!](https://dev.to/andrewhasoneshot/wtf-i-got-a-job--2lgm)
-- [Why We Ditched Next.js for TanStack Start](https://dev.to/lindesvard/why-we-ditched-nextjs-for-tanstack-start-4bp7)
-- [Why 1:1s Are Your Secret Weapon &lpar;Even as an IC&rpar;](https://dev.to/willysvarela/why-11s-are-your-secret-weapon-even-as-an-ic-40fn)
+- [Devs: What&#39;s Wasting Your Time on YouTube? Help Me Build a Better Platform &lpar;2-min survey&rpar;](https://dev.to/rishabyd/devs-whats-wasting-your-time-on-youtube-help-me-build-a-better-platform-2-min-survey-100l)
+- [⚛ Quantum Computing: The Next Revolution in Technology](https://dev.to/mohansh_technologies_a5e1/quantum-computing-the-next-revolution-in-technology-5dlo)
+- [Not sure whether to use VMs or containers for your next setup?](https://dev.to/web_learning_4de0b1e0557/not-sure-whether-to-use-vms-or-containers-for-your-next-setup-j5o)
+- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
 <!-- BLOG-POST-LIST:END -->
 
