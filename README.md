@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide: Mastering Custom Gaussian Blur Pop-ups in HarmonyOS](https://dev.to/harmonyos/practical-guide-mastering-custom-gaussian-blur-pop-ups-in-harmonyos-33m2)
-- [SafeLine: A Next-Generation Self-Hosted Web Application Firewall](https://dev.to/arina_cholee/safeline-a-next-generation-self-hosted-web-application-firewall-4b6j)
-- [Laravel Log Cleaner v2.01 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordiviera/laravel-log-cleaner-v201-memory-efficient-log-management-with-compression-backup-loc)
-- [Crafting High-Performance Full-Stack Applications: Quarkus Native and Angular](https://dev.to/issam1991/crafting-high-performance-full-stack-applications-quarkus-native-and-angular-2eif)
+- [AI for Predictive Monitoring in DevOps Environments](https://dev.to/baskaran_jeyarajan_dc5943/ai-for-predictive-monitoring-in-devops-environments-4pob)
+- [Stream of small fixes — this week&#39;s repo recap is going to be full!](https://dev.to/ben/stream-of-small-fixes-this-weeks-repo-recap-is-going-to-be-full-h30)
+- [Apple Health MCP Server: Use Cases for Developers](https://dev.to/momentumai/apple-health-mcp-server-use-cases-for-developers-kaa)
+- [Review IG Follower Export Tools for 2025/26: Complete Comparison](https://dev.to/max-dev/best-ig-follower-export-tools-for-2026-complete-comparison-169n)
 <!-- BLOG-POST-LIST:END -->
 
