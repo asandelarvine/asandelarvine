@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Django Honeypot to Catch Attackers &lpar;and What I Learned&rpar;](https://dev.to/ali_hatami_dfa6ced769235c/how-i-built-a-django-honeypot-to-catch-attackers-and-what-i-learned-22mg)
-- [How Construction Payroll Automation Drives Compliance and Profitability](https://dev.to/kapusto/how-construction-payroll-automation-drives-compliance-and-profitability-489d)
-- [Distributed Media Inferencing with Kafka](https://dev.to/jayash_tripathy_921c22d37/distributed-media-inferencing-with-kafka-48jg)
-- [Building Herctually: An AI Research Agent written in GO](https://dev.to/oreoluwabs/building-herctually-an-ai-research-agent-written-in-go-3a18)
+- [Vibe coding: What we learned from flip-flopping 8 times on a simple formula](https://dev.to/aviad_rozenhek_cba37e0660/vibe-coding-what-we-learned-from-flip-flopping-8-times-on-a-simple-formula-316)
+- [Wix Users Targeted by Sophisticated Email Scam Pretending to Be Official Support — Statement by Asaaju Peter](https://dev.to/phemight_technologies_281/wix-users-targeted-by-sophisticated-email-scam-pretending-to-be-official-support-statement-by-bke)
+- [Physics-Aware Neural Networks: Banishing Simulation Ghosts by Arvind Sundararajan](https://dev.to/arvind_sundararajan/physics-aware-neural-networks-banishing-simulation-ghosts-by-arvind-sundararajan-190n)
+- [Learning an Image Editing Model without Image Editing Pairs](https://dev.to/paperium/learning-an-image-editing-model-without-image-editing-pairs-non)
 <!-- BLOG-POST-LIST:END -->
 
