@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Virtues of Vanilla JavaScript](https://dev.to/davidcanhelp/the-virtues-of-vanilla-javascript-5fb5)
-- [How We Reduced AI Agent Development Time by 70% with Type-Safe Prompt Engineering](https://dev.to/galfrevn/how-we-reduced-ai-agent-development-time-by-70-with-type-safe-prompt-engineering-1i9j)
-- [How to protect Express routes in Node.js](https://dev.to/jahongir2007/how-to-protect-express-routes-in-nodejs-327o)
-- [⚡️ Dive Into the AstralGuard CTF Writeups Archive](https://dev.to/elit3cod3r/dive-into-the-astralguard-ctf-writeups-archive-3c0o)
+- [Engineering Enterprise-Grade Context: Making the Model Context Protocol &lpar;MCP&rpar; Viable for Financial Services](https://dev.to/om_shree_0709/engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-2pmm)
+- [Kubernetes Overkill: When Your Architecture Is More Complex Than Your Business](https://dev.to/anderson_leite/kubernetes-overkill-when-your-architecture-is-more-complex-than-your-business-17gn)
+- [The Next Era of Databases: When Queries Write Themselves](https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578)
+- [Untitled](https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe)
 <!-- BLOG-POST-LIST:END -->
 
