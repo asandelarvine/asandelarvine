@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Kerminal: A Free, Open-Source Terminal &amp; SSH Manager with Multi-Device Sync](https://dev.to/klpod221/how-i-built-kerminal-a-free-open-source-terminal-ssh-manager-with-multi-device-sync-1f3i)
-- [This is Part 2 of my 4-part series on Networking Fundamentals for Cloud Engineers.](https://dev.to/stellaacharoiro/this-is-part-2-of-my-4-part-series-on-networking-fundamentals-for-cloud-engineers-4740)
-- [Expert Tips to Pass CCNP Security on the First Attempt](https://dev.to/preethi_lahari_48b969cb3c/expert-tips-to-pass-ccnp-security-on-the-first-attempt-9dn)
-- [How Switches and Routers Actually Work: The Three Tables That Run the Internet](https://dev.to/aws-builders/how-switches-and-routers-actually-work-the-three-tables-that-run-the-internet-nmg)
+- [Why Every Tailor Shop Needs a Tailoring Management System](https://dev.to/ankita_67b0f155bd5cd86af4/why-every-tailor-shop-needs-a-tailoring-management-system-2mfm)
+- [RefusalBench: Generative Evaluation of Selective Refusal in Grounded LanguageModels](https://dev.to/paperium/refusalbench-generative-evaluation-of-selective-refusal-in-grounded-languagemodels-jac)
+- [Cursor + Trigger](https://dev.to/krithik/cursor-trigger-32g)
+- [How we build website templates](https://dev.to/shreyvijayvargiya/how-we-build-website-templates-29gi)
 <!-- BLOG-POST-LIST:END -->
 
