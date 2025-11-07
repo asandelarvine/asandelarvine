@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unconventional AI in Advertising: LLaMA for Creative Ad Gene](https://dev.to/drcarlosruizviquez/unconventional-ai-in-advertising-llama-for-creative-ad-gene-3o28)
-- [Smart Contracts on XRPL&#39;s AlphaNet](https://dev.to/dangell7/smart-contracts-on-xrpls-alphanet-1loo)
-- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
-- [**Revolutionizing AI: Recent Breakthrough in RAG Systems**](https://dev.to/drcarlosruizviquez/revolutionizing-ai-recent-breakthrough-in-rag-systems-5ekg)
+- [Unlock Dual Revenue: AI Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlock-dual-revenue-ai-monetization-strategies-for-llm-apps-with-monetzly-43kd)
+- [Best Alternatives to Microsoft Recall in 2025](https://dev.to/nodminger/best-alternatives-to-microsoft-recall-in-2025-1jh8)
+- [LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy &amp; Easier Setup 🚀](https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)
 <!-- BLOG-POST-LIST:END -->
 
