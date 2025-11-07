@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned From Vibe Coding an Entire App](https://dev.to/jordan_green_84b6cec081a5/beyond-the-illusion-of-understanding-coding-in-the-ai-era-4oji)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-9af)
-- [🏗️ Mastering Infrastructure as Code: From Manual Chaos to Multi-Cloud Orchestration [Week-7—P1] ⚡](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-5e86)
+- [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training](https://dev.to/paperium/llms-as-scalable-general-purpose-simulators-for-evolving-digital-agent-training-jg0)
+- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
+- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
+- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
 <!-- BLOG-POST-LIST:END -->
 
