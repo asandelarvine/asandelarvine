@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cirque Du Soleil Drummer Hears The Smashing Pumpkins For The First Time](https://dev.to/mikeydorje/cirque-du-soleil-drummer-hears-the-smashing-pumpkins-for-the-first-time-2h98)
-- [[Boost]](https://dev.to/mikeydorje/-1bk7)
-- [Indie Artists File Class-Action Lawsuit Against Generative AI Music Companies](https://dev.to/mikeydorje/indie-artists-file-class-action-lawsuit-against-generative-ai-music-companies-2k5b)
-- [The Extraordinary Mundane: Your Life, Levelled Up!](https://dev.to/homeweaver/the-extraordinary-mundane-your-life-levelled-up-3gd6)
+- [Gemini CLI Custom Slash Commands](https://dev.to/ranand12/gemini-cli-custom-slash-commands-42ja)
+- [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
+- [Syncing Obsidian Notes to Notion by Python Script &lpar;Part 3&rpar; - Auto-Linking Related Databases](https://dev.to/koshirok096/syncing-obsidian-notes-to-notion-by-python-script-part-3-auto-linking-related-databases-35k2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1m71)
 <!-- BLOG-POST-LIST:END -->
 
