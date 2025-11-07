@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI Custom Slash Commands](https://dev.to/ranand12/gemini-cli-custom-slash-commands-42ja)
-- [🧩 Micro-Frontends 2025: How to Keep Them from Becoming Micro-Frankensteins](https://dev.to/tahamjp/micro-frontends-2025-how-to-keep-them-from-becoming-micro-frankensteins-2ebd)
-- [Syncing Obsidian Notes to Notion by Python Script &lpar;Part 3&rpar; - Auto-Linking Related Databases](https://dev.to/koshirok096/syncing-obsidian-notes-to-notion-by-python-script-part-3-auto-linking-related-databases-35k2)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1m71)
+- [Gemini CLI: The Future of Programming and Reflections on the Impacts of AI](https://dev.to/windmateus/gemini-cli-the-future-of-programming-and-reflections-on-the-impacts-of-ai-jg2)
+- [بهترین اپلیکیشن‌ها برای ادیت ویدیو و ساخت ریلز اینستاگرام](https://dev.to/dorify/bhtryn-plykhyshnh-bry-dyt-wydyw-w-skht-rylz-ynstgrm-5f9l)
+- [Are Your Python Fundamentals as Solid as You Think?](https://dev.to/onlineproxy/are-your-python-fundamentals-as-solid-as-you-think-3499)
+- [[Boost]](https://dev.to/wparad/-5ach)
 <!-- BLOG-POST-LIST:END -->
 
