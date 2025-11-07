@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handle Large Place Searches: Chunked and Rate-Limited Search in Leaflet](https://dev.to/geoapify-maps-api/handle-large-place-searches-chunked-and-rate-limited-search-in-leaflet-g73)
-- [How I Actually Use AI to Run My Business &lpar;and Keep My Sanity&rpar;](https://dev.to/kenyata_bird_046052817c08/how-i-actually-use-ai-to-run-my-business-and-keep-my-sanity-c08)
-- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
-- [Java String replaceFirst&lpar;&rpar; Guide: Master Pattern-Based String Replacement](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-replacefirst-guide-master-pattern-based-string-replacement-2eo9)
+- [Automating Executive-Ready AWS Cost Optimization FinOps Reports](https://dev.to/santanu_das/automating-executive-ready-aws-cost-optimization-finops-reports-11oo)
+- [✨ UI.Glass — Free Glassmorphism CSS Generator](https://dev.to/ml318097/uiglass-free-glassmorphism-css-generator-500j)
+- [Comparing NestJS, Laravel, Symfony, and Zend Framework: Performance, Scalability, and Use Cases in Modern Web Development](https://dev.to/devops-make-it-run/comparing-nestjs-laravel-symfony-and-zend-framework-performance-scalability-and-use-cases-in-4f8a)
+- [How To Run an Open-Source LLM on Your Personal Computer](https://dev.to/manishmshiva/how-to-run-an-open-source-llm-on-your-personal-computer-15mk)
 <!-- BLOG-POST-LIST:END -->
 
