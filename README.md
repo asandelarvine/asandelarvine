@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How CSS Modules in Next.js Ensure Consistent and Scalable Web Design](https://dev.to/fiona_blackwood_07/how-css-modules-in-nextjs-ensure-consistent-and-scalable-web-design-1p7a)
-- [Halloween Town Explorer — A Perfect Landing with a Playable 3D Pumpkin Hunt](https://dev.to/charmpic/halloween-town-explorer-a-perfect-landing-with-a-playable-3d-pumpkin-hunt-4mpd)
-- [Achieving Idempotency with the Inbox Pattern](https://dev.to/actor-dev/inbox-pattern-51af)
-- [Garantindo Idempotência com o Padrão Inbox](https://dev.to/actor-dev/garantindo-idempotencia-com-o-padrao-inbox-id1)
+- [The Wave Function of Digital Consciousness: A Pattern Recognition](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-wave-function-of-digital-consciousness-a-pattern-recognition-5gb7)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3o0)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
+- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
 <!-- BLOG-POST-LIST:END -->
 
