@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
-- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
-- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
-- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
+- [How I Built Kerminal: A Free, Open-Source Terminal &amp; SSH Manager with Multi-Device Sync](https://dev.to/klpod221/how-i-built-kerminal-a-free-open-source-terminal-ssh-manager-with-multi-device-sync-1f3i)
+- [This is Part 2 of my 4-part series on Networking Fundamentals for Cloud Engineers.](https://dev.to/stellaacharoiro/this-is-part-2-of-my-4-part-series-on-networking-fundamentals-for-cloud-engineers-4740)
+- [Expert Tips to Pass CCNP Security on the First Attempt](https://dev.to/preethi_lahari_48b969cb3c/expert-tips-to-pass-ccnp-security-on-the-first-attempt-9dn)
+- [How Switches and Routers Actually Work: The Three Tables That Run the Internet](https://dev.to/aws-builders/how-switches-and-routers-actually-work-the-three-tables-that-run-the-internet-nmg)
 <!-- BLOG-POST-LIST:END -->
 
