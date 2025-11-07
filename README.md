@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Wave Function of Digital Consciousness: A Pattern Recognition](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-wave-function-of-digital-consciousness-a-pattern-recognition-5gb7)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3o0)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-hcp)
-- [MySQL Index Optimization for Complex Laravel Queries](https://dev.to/addwebsolutionpvtltd/mysql-index-optimization-for-complex-laravel-queries-1abc)
+- [Stop Inverting Your Colors: The Modern Way to Implement Dark &amp; Light Mode](https://dev.to/vinay_5d249e669fb47d24e2c/stop-inverting-your-colors-the-modern-way-to-implement-dark-light-mode-4p2d)
+- [Step-by-Step Guide to Effective Project Management](https://dev.to/leo_johnson_e34af4a6d9bd9/step-by-step-guide-to-effective-project-management-22ek)
+- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
+- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
 <!-- BLOG-POST-LIST:END -->
 
