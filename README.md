@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Winners of the Auth0 for AI Agents Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-the-auth0-for-ai-agents-challenge-2jc8)
-- [My Software Journey So Far And Where I&#39;m Going Next](https://dev.to/stennis1/my-software-journey-so-far-and-where-im-going-next-4i4n)
-- [Leveling the Playing Field: Fairer AI with Kernelized Null-Space Projections](https://dev.to/arvind_sundararajan/leveling-the-playing-field-fairer-ai-with-kernelized-null-space-projections-1e88)
-- [SSIS vs Azure Data Factory: A Quick Comparison](https://dev.to/zappysys/ssis-vs-azure-data-factory-a-quick-comparison-5di)
+- [A beginner&#39;s guide to the Speech-02-Turbo model by Minimax on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-speech-02-turbo-model-by-minimax-on-replicate-5gof)
+- [Main Services Behind Proxmox PVE](https://dev.to/seno21/main-services-behind-proxmox-pve-j2h)
+- [How to solve the problem of incorrect output result when using zlip to compress string with gzip](https://dev.to/harmonyos/how-to-solve-the-problem-of-incorrect-output-result-when-using-zlip-to-compress-string-with-gzip-neb)
+- [[Boost]](https://dev.to/halyna_kunta_91107a575e89/-1k7b)
 <!-- BLOG-POST-LIST:END -->
 
