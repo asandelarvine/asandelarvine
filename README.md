@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving the BRAT Generator – Ideas &amp; Feedback](https://dev.to/mrmhikel2/improving-the-brat-generator-ideas-feedback-oc9)
-- [Beyond Correctness: Evaluating Subjective Writing Preferences Across Cultures](https://dev.to/paperium/beyond-correctness-evaluating-subjective-writing-preferences-across-cultures-dkg)
-- [Building a Browser-Based RAG System with WebGPU](https://dev.to/emanuelestrazzullo/building-a-browser-based-rag-system-with-webgpu-h2n)
-- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
+- [Handle Large Place Searches: Chunked and Rate-Limited Search in Leaflet](https://dev.to/geoapify-maps-api/handle-large-place-searches-chunked-and-rate-limited-search-in-leaflet-g73)
+- [How I Actually Use AI to Run My Business &lpar;and Keep My Sanity&rpar;](https://dev.to/kenyata_bird_046052817c08/how-i-actually-use-ai-to-run-my-business-and-keep-my-sanity-c08)
+- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
+- [Java String replaceFirst&lpar;&rpar; Guide: Master Pattern-Based String Replacement](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-replacefirst-guide-master-pattern-based-string-replacement-2eo9)
 <!-- BLOG-POST-LIST:END -->
 
