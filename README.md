@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Setup MonoGame for F#](https://dev.to/sabedoesthings/how-to-setup-monogame-for-f-14fg)
-- [💡 Next-Level Deployments in AWS ECS: Step-by-Step Guide to Linear &amp; Canary Releases 🚀](https://dev.to/ahmedadel/next-level-deployments-in-aws-ecs-step-by-step-guide-to-linear-canary-releases-2025-edition-3bbb)
-- [Hudson River Trading VO Interview Experience](https://dev.to/net_programhelp_e160eef28/hudson-river-trading-vo-interview-experience-gch)
-- [Build HTTP APIs with Dependency Injection in TypeScript — Meet the Inversify Framework](https://dev.to/notaphplover/build-http-apis-with-dependency-injection-in-typescript-meet-the-inversify-framework-ngg)
+- [Improving the BRAT Generator – Ideas &amp; Feedback](https://dev.to/mrmhikel2/improving-the-brat-generator-ideas-feedback-oc9)
+- [Beyond Correctness: Evaluating Subjective Writing Preferences Across Cultures](https://dev.to/paperium/beyond-correctness-evaluating-subjective-writing-preferences-across-cultures-dkg)
+- [Building a Browser-Based RAG System with WebGPU](https://dev.to/emanuelestrazzullo/building-a-browser-based-rag-system-with-webgpu-h2n)
+- [Git Worktrees: The Power Behind Cursor’s Parallel Agents](https://dev.to/arifszn/git-worktrees-the-power-behind-cursors-parallel-agents-19j1)
 <!-- BLOG-POST-LIST:END -->
 
