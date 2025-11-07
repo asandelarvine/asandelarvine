@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Dual Revenue: AI Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlock-dual-revenue-ai-monetization-strategies-for-llm-apps-with-monetzly-43kd)
-- [Best Alternatives to Microsoft Recall in 2025](https://dev.to/nodminger/best-alternatives-to-microsoft-recall-in-2025-1jh8)
-- [LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy &amp; Easier Setup 🚀](https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c)
+- [Cirque Du Soleil Drummer Hears The Smashing Pumpkins For The First Time](https://dev.to/mikeydorje/cirque-du-soleil-drummer-hears-the-smashing-pumpkins-for-the-first-time-2h98)
+- [[Boost]](https://dev.to/mikeydorje/-1bk7)
+- [Indie Artists File Class-Action Lawsuit Against Generative AI Music Companies](https://dev.to/mikeydorje/indie-artists-file-class-action-lawsuit-against-generative-ai-music-companies-2k5b)
+- [The Extraordinary Mundane: Your Life, Levelled Up!](https://dev.to/homeweaver/the-extraordinary-mundane-your-life-levelled-up-3gd6)
 <!-- BLOG-POST-LIST:END -->
 
