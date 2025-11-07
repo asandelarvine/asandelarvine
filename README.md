@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Inverting Your Colors: The Modern Way to Implement Dark &amp; Light Mode](https://dev.to/vinay_5d249e669fb47d24e2c/stop-inverting-your-colors-the-modern-way-to-implement-dark-light-mode-4p2d)
-- [Step-by-Step Guide to Effective Project Management](https://dev.to/leo_johnson_e34af4a6d9bd9/step-by-step-guide-to-effective-project-management-22ek)
-- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
-- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
+- [How To Setup MonoGame for F#](https://dev.to/sabedoesthings/how-to-setup-monogame-for-f-14fg)
+- [💡 Next-Level Deployments in AWS ECS: Step-by-Step Guide to Linear &amp; Canary Releases 🚀](https://dev.to/ahmedadel/next-level-deployments-in-aws-ecs-step-by-step-guide-to-linear-canary-releases-2025-edition-3bbb)
+- [Hudson River Trading VO Interview Experience](https://dev.to/net_programhelp_e160eef28/hudson-river-trading-vo-interview-experience-gch)
+- [Build HTTP APIs with Dependency Injection in TypeScript — Meet the Inversify Framework](https://dev.to/notaphplover/build-http-apis-with-dependency-injection-in-typescript-meet-the-inversify-framework-ngg)
 <!-- BLOG-POST-LIST:END -->
 
