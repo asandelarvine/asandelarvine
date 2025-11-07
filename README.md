@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Revenue Retention Defines the Future of Subscription Apps](https://dev.to/paywallpro/why-revenue-retention-defines-the-future-of-subscription-apps-4ej6)
-- [Makita Cordless Trimmer Router – Power and Precision Combined](https://dev.to/hardwarecity_singapore_1a/makita-cordless-trimmer-router-power-and-precision-combined-13no)
-- [I Built a Visual Dashboard for Claude Code &lpar;Because I Was Tired of Managing Text Files&rpar;](https://dev.to/thuongx/i-built-a-visual-dashboard-for-claude-code-because-i-was-tired-of-managing-text-files-4j38)
-- [Why Most Sports Coaching Websites Don’t Work – And How to Fix Yours](https://dev.to/per-starke-642/why-most-sports-coaching-websites-dont-work-and-how-to-fix-yours-424m)
+- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
+- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
 <!-- BLOG-POST-LIST:END -->
 
