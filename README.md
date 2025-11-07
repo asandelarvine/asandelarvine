@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Speech-02-Turbo model by Minimax on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-speech-02-turbo-model-by-minimax-on-replicate-5gof)
-- [Main Services Behind Proxmox PVE](https://dev.to/seno21/main-services-behind-proxmox-pve-j2h)
-- [How to solve the problem of incorrect output result when using zlip to compress string with gzip](https://dev.to/harmonyos/how-to-solve-the-problem-of-incorrect-output-result-when-using-zlip-to-compress-string-with-gzip-neb)
-- [[Boost]](https://dev.to/halyna_kunta_91107a575e89/-1k7b)
+- [How to Integrate SafeLine WAF with Ingress-Nginx in Kubernetes](https://dev.to/arina_cholee/how-to-integrate-safeline-waf-with-ingress-nginx-in-kubernetes-4661)
+- [Using the Fetch API](https://dev.to/fakestandard/using-the-fetch-api-146l)
+- [Wireframe-UI: UI Components for Rapid Prototyping in Code](https://dev.to/jqueryscript/wireframe-ui-ui-components-for-rapid-prototyping-in-code-1i88)
+- [Why I&#39;m Still Using jQuery in 2025 &lpar;Never gonna give you up&rpar;](https://dev.to/brazenbraden/why-im-still-using-jquery-in-2025-never-gonna-give-you-up-3j91)
 <!-- BLOG-POST-LIST:END -->
 
