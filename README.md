@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Executive-Ready AWS Cost Optimization FinOps Reports](https://dev.to/santanu_das/automating-executive-ready-aws-cost-optimization-finops-reports-11oo)
-- [✨ UI.Glass — Free Glassmorphism CSS Generator](https://dev.to/ml318097/uiglass-free-glassmorphism-css-generator-500j)
-- [Comparing NestJS, Laravel, Symfony, and Zend Framework: Performance, Scalability, and Use Cases in Modern Web Development](https://dev.to/devops-make-it-run/comparing-nestjs-laravel-symfony-and-zend-framework-performance-scalability-and-use-cases-in-4f8a)
-- [How To Run an Open-Source LLM on Your Personal Computer](https://dev.to/manishmshiva/how-to-run-an-open-source-llm-on-your-personal-computer-15mk)
+- [Zoldiac club](https://dev.to/ashfin-ahmed-kp/zoldiac-club-37oc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c6n)
+- [Top AI Coding Assistants Compared: ChatGPT, GitHub Copilot, and Amazon CodeWhisperer](https://dev.to/devops-make-it-run/top-ai-coding-assistants-compared-chatgpt-github-copilot-and-amazon-codewhisperer-4mh9)
+- [How to Handle NULLs in Snowflake: A Complete Guide!](https://dev.to/peggie_7191/how-to-handle-nulls-in-snowflake-a-complete-guide-1p6h)
 <!-- BLOG-POST-LIST:END -->
 
