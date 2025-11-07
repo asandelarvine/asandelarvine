@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoldiac club](https://dev.to/ashfin-ahmed-kp/zoldiac-club-37oc)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1c6n)
-- [Top AI Coding Assistants Compared: ChatGPT, GitHub Copilot, and Amazon CodeWhisperer](https://dev.to/devops-make-it-run/top-ai-coding-assistants-compared-chatgpt-github-copilot-and-amazon-codewhisperer-4mh9)
-- [How to Handle NULLs in Snowflake: A Complete Guide!](https://dev.to/peggie_7191/how-to-handle-nulls-in-snowflake-a-complete-guide-1p6h)
+- [Unconventional AI in Advertising: LLaMA for Creative Ad Gene](https://dev.to/drcarlosruizviquez/unconventional-ai-in-advertising-llama-for-creative-ad-gene-3o28)
+- [Smart Contracts on XRPL&#39;s AlphaNet](https://dev.to/dangell7/smart-contracts-on-xrpls-alphanet-1loo)
+- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
+- [**Revolutionizing AI: Recent Breakthrough in RAG Systems**](https://dev.to/drcarlosruizviquez/revolutionizing-ai-recent-breakthrough-in-rag-systems-5ekg)
 <!-- BLOG-POST-LIST:END -->
 
