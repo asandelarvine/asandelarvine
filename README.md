@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/sharon_ndubai_a6603703f2f/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-3ijh)
-- [Performance Optimization for JS](https://dev.to/godofgeeks/performance-optimization-for-js-1fc7)
-- [BigCommerce Shines with 24 Awards in the 2025 Paradigm B2B Combine for Mid-Market and Enterprise](https://dev.to/danyelle09/bigcommerce-shines-with-24-awards-in-the-2025-paradigm-b2b-combine-for-mid-market-and-enterprise-1olh)
-- [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
+- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-42c6)
+- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-45c2)
+- [How To Create a CloudWatch Alarm for CPU Utilization](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-alarm-for-cpu-utilization-mmn)
+- [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
 <!-- BLOG-POST-LIST:END -->
 
