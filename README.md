@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A pattern matching DSL for modern C++](https://dev.to/byebyyanogawa/a-pattern-matching-dsl-for-modern-c-2fo1)
-- [Lab: Exploiting LLM APIs with excessive agency](https://dev.to/travondatrack/lab-exploiting-llm-apis-with-excessive-agency-2nmp)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-52a7)
-- [Secure File Sharing Apps: Keeping Your Information Safe Online](https://dev.to/rapidcellphone/secure-file-sharing-apps-keeping-your-information-safe-online-dfd)
+- [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
+- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
+- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
+- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
 <!-- BLOG-POST-LIST:END -->
 
