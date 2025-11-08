@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Developer Revenue: Dual-Earning Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-earning-strategies-for-llm-apps-with-monetzly-1029)
-- [Unlocking Out-of-Distribution Generalization in Transformers via RecursiveLatent Space Reasoning](https://dev.to/paperium/unlocking-out-of-distribution-generalization-in-transformers-via-recursivelatent-space-reasoning-3cc5)
-- [Why Your AI Workflow Design Might Be Overcomplicated](https://dev.to/lofcz/why-your-ai-workflow-design-might-be-overcomplicated-1hfb)
-- [Azure DevOps Nedir ?](https://dev.to/suleymanakturk/azure-devops-nedir--2jjg)
+- [I wrote the guide I wish I had on my journey from junior/mid-level to senior coder. 30 proven lessons to level up your coding skills: Googling, debugging, clear communication, and 27 more... &lpar;Just for this launch week, pay what you want&rpar;](https://dev.to/canro91/i-wrote-the-guide-i-wish-i-had-on-my-journey-from-juniormid-level-to-senior-coder-30-proven-2l6)
+- [CS College Students Tries Real OS &lpar;Omarchy btw&rpar;](https://dev.to/pxtrik/cs-college-students-tries-real-os-omarchy-btw-5816)
+- [Setting Up SonarQube Locally for React Native &amp; MERN Projects](https://dev.to/ajmal_hasan/setting-up-sonarqube-locally-for-react-native-mern-projects-3hgn)
+- [Deploying Local AI Agents In Kubernetes](https://dev.to/thenjdevopsguy/deploying-local-ai-agents-in-kubernetes-3087)
 <!-- BLOG-POST-LIST:END -->
 
