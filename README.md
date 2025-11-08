@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wails as Electron Alternative](https://dev.to/kartik_patel/wails-as-electron-alternative-4dmn)
-- [Building a URL Shortener with Go and Redis](https://dev.to/kryko7/building-a-production-ready-url-shortener-with-go-and-redis-51a1)
-- [MongoDB Performance Tuning: Indexing and Optimization Best Practices](https://dev.to/djamware_tutorial_eba1a61/mongodb-performance-tuning-indexing-and-optimization-best-practices-3fph)
-- [⚖️ Breaking Legal News in the U.S. 🇺🇸](https://dev.to/servicemda/breaking-legal-news-in-the-us-oj3)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-pcl)
+- [Generating Millions of Unique IDs in TypeScript — Fast, Scalable &amp; Collision-Free](https://dev.to/srashtigupta/generating-millions-of-unique-ids-in-typescript-fast-scalable-collision-free-3ik3)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-pc5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-15fk)
 <!-- BLOG-POST-LIST:END -->
 
