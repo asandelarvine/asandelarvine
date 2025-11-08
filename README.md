@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyshade Debugging: Mastering Workspace Role Tests and API Repair](https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6)
-- [LLMs Whispering Secrets: Vector Translation for AI Communication](https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9)
-- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
-- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp)
+- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
+- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
+- [Adding Automated Testing to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/adding-automated-testing-to-my-cli-tool-24oi)
+- [[Boost]](https://dev.to/meer/-1chi)
 <!-- BLOG-POST-LIST:END -->
 
