@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MLOps | Complete End-to-End Guide](https://dev.to/anusha_kuppili/introduction-to-mlops-complete-end-to-end-guide-17e0)
-- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
-- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
-- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
+- [Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/abhishek_nm_d45c9eb975fe/data-cleaning-challenge-with-pandas-google-colab-4pfa)
+- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_19599ff03c75151c80/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
+- [I hacked time in Chrome for a demo video](https://dev.to/xraytangooscar/i-hacked-time-in-chrome-for-a-demo-video-lg7)
+- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
 <!-- BLOG-POST-LIST:END -->
 
