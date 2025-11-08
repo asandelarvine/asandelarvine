@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
-- [Setting Up Testing for My CLI Tool](https://dev.to/aubreyddd/setting-up-testing-for-my-cli-tool-33j1)
-- [Adding Automated Testing to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/adding-automated-testing-to-my-cli-tool-24oi)
-- [[Boost]](https://dev.to/meer/-1chi)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2hip)
+- [I Just Spent 7 Days Stalking Everyone on X Who’s Bold Enough to Say “I’m Building AGI” – These 25 Posts Broke My Brain](https://dev.to/aniruddhaadak/i-just-spent-7-days-stalking-everyone-on-x-whos-bold-enough-to-say-im-building-agi-these-25-9ei)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4a1n)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-oo3)
 <!-- BLOG-POST-LIST:END -->
 
