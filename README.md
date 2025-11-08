@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training](https://dev.to/paperium/llms-as-scalable-general-purpose-simulators-for-evolving-digital-agent-training-jg0)
-- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
-- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
-- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
+- [Keyshade Debugging: Mastering Workspace Role Tests and API Repair](https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6)
+- [LLMs Whispering Secrets: Vector Translation for AI Communication](https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9)
+- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
+- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp)
 <!-- BLOG-POST-LIST:END -->
 
