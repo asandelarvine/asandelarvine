@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2hip)
-- [I Just Spent 7 Days Stalking Everyone on X Who’s Bold Enough to Say “I’m Building AGI” – These 25 Posts Broke My Brain](https://dev.to/aniruddhaadak/i-just-spent-7-days-stalking-everyone-on-x-whos-bold-enough-to-say-im-building-agi-these-25-9ei)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-4a1n)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-oo3)
+- [Are Time Tracking Apps the Key to Better Work-Life Balance?](https://dev.to/shaik_sajida_8f474e448d50/are-time-tracking-apps-the-key-to-better-work-life-balance-5ef2)
+- [Building a New York Times Connections Solver with Python](https://dev.to/leonardokaprio/building-a-new-york-times-connections-solver-with-python-5b8j)
+- [How to Set Up an S3 Trigger for Lambda — and Kick Off a Step Functions Workflow](https://dev.to/dhavalmojidra/how-to-set-up-an-s3-trigger-for-lambda-and-kick-off-a-step-functions-workflow-6cj)
+- [Fresh graduate 🎓 Need advice on starting my career. Where do I begin? What should I learn first?](https://dev.to/saam_ahmed_5d4623fb5a4063/fresh-graduate-need-advice-on-starting-my-career-where-do-i-begin-what-should-i-learn-first-hg6)
 <!-- BLOG-POST-LIST:END -->
 
