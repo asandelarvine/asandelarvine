@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Batch Processing on AWS: From Scheduled Tasks to Auto-Scaling Workloads](https://dev.to/aws-builders/event-driven-batch-processing-on-aws-from-scheduled-tasks-to-auto-scaling-workloads-20a6)
-- [🧩 React Redux Toolkit — A Beginner’s Guide &lpar;Modern Redux Explained Clearly&rpar;](https://dev.to/vishwark/react-redux-toolkit-a-beginners-guide-modern-redux-explained-clearly-4768)
-- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
-- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
+- [Who wants to build an admin UI? Part 2 &lpar;Custom Field Editors&rpar;](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-part-2-custom-field-editors-4eob)
+- [Laravel Models, Migrations, &amp; Relationships: Setting Up The &#39;Post&#39; Feature](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-migrations-relationships-setting-up-the-post-feature-4i7)
+- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65)
+- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng)
 <!-- BLOG-POST-LIST:END -->
 
