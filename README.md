@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-pcl)
-- [Generating Millions of Unique IDs in TypeScript — Fast, Scalable &amp; Collision-Free](https://dev.to/srashtigupta/generating-millions-of-unique-ids-in-typescript-fast-scalable-collision-free-3ik3)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-pc5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-15fk)
+- [Unlocking Developer Revenue: Dual-Earning Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-earning-strategies-for-llm-apps-with-monetzly-1029)
+- [Unlocking Out-of-Distribution Generalization in Transformers via RecursiveLatent Space Reasoning](https://dev.to/paperium/unlocking-out-of-distribution-generalization-in-transformers-via-recursivelatent-space-reasoning-3cc5)
+- [Why Your AI Workflow Design Might Be Overcomplicated](https://dev.to/lofcz/why-your-ai-workflow-design-might-be-overcomplicated-1hfb)
+- [Azure DevOps Nedir ?](https://dev.to/suleymanakturk/azure-devops-nedir--2jjg)
 <!-- BLOG-POST-LIST:END -->
 
