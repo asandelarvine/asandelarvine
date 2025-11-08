@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who wants to build an admin UI? Part 2 &lpar;Custom Field Editors&rpar;](https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-part-2-custom-field-editors-4eob)
-- [Laravel Models, Migrations, &amp; Relationships: Setting Up The &#39;Post&#39; Feature](https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-migrations-relationships-setting-up-the-post-feature-4i7)
-- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65)
-- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng)
+- [**Taming the Exploration-Exploitation Tradeoff in Multi-Agen](https://dev.to/drcarlosruizviquez/taming-the-exploration-exploitation-tradeoff-in-multi-agen-5h0h)
+- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
+- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
+- [Feature Flag Overrides: The Feature Nobody Builds Until They Need It](https://dev.to/arunlakshman/feature-flag-overrides-the-feature-nobody-builds-until-they-need-it-4c9h)
 <!-- BLOG-POST-LIST:END -->
 
