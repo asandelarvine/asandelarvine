@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Taming the Exploration-Exploitation Tradeoff in Multi-Agen](https://dev.to/drcarlosruizviquez/taming-the-exploration-exploitation-tradeoff-in-multi-agen-5h0h)
-- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
-- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
-- [Feature Flag Overrides: The Feature Nobody Builds Until They Need It](https://dev.to/arunlakshman/feature-flag-overrides-the-feature-nobody-builds-until-they-need-it-4c9h)
+- [TOON vs JSON: A Modern Data Format Showdown](https://dev.to/sreeni5018/toon-vs-json-a-modern-data-format-showdown-2ooc)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2ij3)
+- [im making a Fortnite/roblox game](https://dev.to/sonic_studios_83686951da/im-making-a-fortniteroblox-game-30no)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
 <!-- BLOG-POST-LIST:END -->
 
