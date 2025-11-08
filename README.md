@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Your First Compiler - Part 6: Extending the Language](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25)
-- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43)
-- [🚀 Google &amp; SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf)
+- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/sharon_ndubai_a6603703f2f/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-3ijh)
+- [Performance Optimization for JS](https://dev.to/godofgeeks/performance-optimization-for-js-1fc7)
+- [BigCommerce Shines with 24 Awards in the 2025 Paradigm B2B Combine for Mid-Market and Enterprise](https://dev.to/danyelle09/bigcommerce-shines-with-24-awards-in-the-2025-paradigm-b2b-combine-for-mid-market-and-enterprise-1olh)
+- [Figma to IDE MCP integration in 2 minutes](https://dev.to/yardenporat/figma-to-ide-integration-in-2-minutes-533i)
 <!-- BLOG-POST-LIST:END -->
 
