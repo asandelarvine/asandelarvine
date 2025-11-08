@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Cleaning Challenge with Pandas &lpar;Google Colab&rpar;](https://dev.to/abhishek_nm_d45c9eb975fe/data-cleaning-challenge-with-pandas-google-colab-4pfa)
-- [Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead](https://dev.to/amrita_19599ff03c75151c80/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8)
-- [I hacked time in Chrome for a demo video](https://dev.to/xraytangooscar/i-hacked-time-in-chrome-for-a-demo-video-lg7)
-- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e)
+- [Wails as Electron Alternative](https://dev.to/kartik_patel/wails-as-electron-alternative-4dmn)
+- [Building a URL Shortener with Go and Redis](https://dev.to/kryko7/building-a-production-ready-url-shortener-with-go-and-redis-51a1)
+- [MongoDB Performance Tuning: Indexing and Optimization Best Practices](https://dev.to/djamware_tutorial_eba1a61/mongodb-performance-tuning-indexing-and-optimization-best-practices-3fph)
+- [⚖️ Breaking Legal News in the U.S. 🇺🇸](https://dev.to/servicemda/breaking-legal-news-in-the-us-oj3)
 <!-- BLOG-POST-LIST:END -->
 
