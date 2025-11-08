@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-42c6)
-- [Invisible Gatekeepers: How America Really Decides Who Gets Ahead](https://dev.to/bibimbop123/invisible-gatekeepers-how-america-really-decides-who-gets-ahead-45c2)
-- [How To Create a CloudWatch Alarm for CPU Utilization](https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-alarm-for-cpu-utilization-mmn)
-- [Ethics in AI Programming: Ensuring Fair and Transparent Algorithms](https://dev.to/softwaredeveloperhub01/ethics-in-ai-programming-ensuring-fair-and-transparent-algorithms-4f7l)
+- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-obi)
+- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-m8l)
+- [Why Complementary Skills Matter in Co-Founding](https://dev.to/jean_chou_b0a8ad9c32addbd/why-complementary-skills-matter-in-co-founding-3kjl)
+- [Book review: “Build a DeepSeek Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5)
 <!-- BLOG-POST-LIST:END -->
 
