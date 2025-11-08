@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-obi)
-- [I wrestled AppSync WebSockets for 4 hours so you don’t have to &lpar;React + GraphQL Subscriptions&rpar;](https://dev.to/manikandan_v_549bdba6219b/i-wrestled-appsync-websockets-for-4-hours-so-you-dont-have-to-react-graphql-subscriptions-m8l)
-- [Why Complementary Skills Matter in Co-Founding](https://dev.to/jean_chou_b0a8ad9c32addbd/why-complementary-skills-matter-in-co-founding-3kjl)
-- [Book review: “Build a DeepSeek Model &lpar;From Scratch&rpar;”](https://dev.to/aairom/book-review-build-a-deepseek-model-from-scratch-5gk5)
+- [A pattern matching DSL for modern C++](https://dev.to/byebyyanogawa/a-pattern-matching-dsl-for-modern-c-2fo1)
+- [Lab: Exploiting LLM APIs with excessive agency](https://dev.to/travondatrack/lab-exploiting-llm-apis-with-excessive-agency-2nmp)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-52a7)
+- [Secure File Sharing Apps: Keeping Your Information Safe Online](https://dev.to/rapidcellphone/secure-file-sharing-apps-keeping-your-information-safe-online-dfd)
 <!-- BLOG-POST-LIST:END -->
 
