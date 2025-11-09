@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emergent Misalignment via In-Context Learning: Narrow in-context examples canproduce broadly misaligned LLMs](https://dev.to/paperium/emergent-misalignment-via-in-context-learning-narrow-in-context-examples-canproduce-broadly-4p20)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-28po)
-- [From Student Projects to Real-World Development](https://dev.to/dhinakaranst/from-student-projects-to-real-world-development-22fg)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-441k)
+- [Unlocking PIM Potential: A Software-First Approach to Power Integrity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-pim-potential-a-software-first-approach-to-power-integrity-by-arvind-sundararajan-2pjo)
+- [Cointelegraph reports rise in AI trading bots as experts caution they are notfoolproof for investors](https://dev.to/ytosko/cointelegraph-reports-rise-in-ai-trading-bots-as-experts-caution-they-are-notfoolproof-for-investors-2aii)
+- [🌟](https://dev.to/thebitforge/-43jn)
+- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
 <!-- BLOG-POST-LIST:END -->
 
