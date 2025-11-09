@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking PIM Potential: A Software-First Approach to Power Integrity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-pim-potential-a-software-first-approach-to-power-integrity-by-arvind-sundararajan-2pjo)
-- [Cointelegraph reports rise in AI trading bots as experts caution they are notfoolproof for investors](https://dev.to/ytosko/cointelegraph-reports-rise-in-ai-trading-bots-as-experts-caution-they-are-notfoolproof-for-investors-2aii)
-- [🌟](https://dev.to/thebitforge/-43jn)
-- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
+- [[Boost]](https://dev.to/__00d77320f95/-o73)
+- [[Boost]](https://dev.to/cubent/-4f63)
+- [Virtual Threads - Comparative Analysis](https://dev.to/manojshr/virtual-threads-comparitive-analysis-46)
+- [AWS Route 53 Resolver DNS Firewall — The First Line of Egress Defense](https://dev.to/aws-builders/aws-route-53-resolver-dns-firewall-the-first-line-of-egress-defense-4gba)
 <!-- BLOG-POST-LIST:END -->
 
