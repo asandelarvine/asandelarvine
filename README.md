@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on the margins](https://dev.to/rosgluk/notes-on-the-margins-3b2d)
-- [LLMs Talking in Tongues: A New Era of Semantic AI Collaboration?](https://dev.to/arvind_sundararajan/llms-talking-in-tongues-a-new-era-of-semantic-ai-collaboration-8ij)
-- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
-- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
+- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76)
+- [The Silent Killer of Your SaaS Growth](https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8)
+- [My new project: Coz.jp](https://dev.to/danielpetrica/my-new-project-cozjp-45o)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2)
 <!-- BLOG-POST-LIST:END -->
 
