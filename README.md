@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Jupyter Notebook to Production: Complete Guide to ML Model Deployment](https://dev.to/aaravjoshi/from-jupyter-notebook-to-production-complete-guide-to-ml-model-deployment-ffd)
-- [Becoming a Full Stack Developer Day 2](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-2-cdf)
-- [ArtistAssistApp New Features and Improvements – November 2025](https://dev.to/eugene-khyst/artistassistapp-new-features-and-improvements-november-2025-19bj)
-- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-11p2)
+- [BatchSubmit turn command line legacy programs into web applications](https://dev.to/omni_tiger_75ee04e39e40df/batchsubmit-turn-command-line-legacy-programs-into-web-applications-4pen)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-58hd)
+- [The Art of Absence: A Journey Through `null` and `undefined` in Default Parameters](https://dev.to/alex_aslam/the-art-of-absence-a-journey-through-null-and-undefined-in-default-parameters-h8l)
 <!-- BLOG-POST-LIST:END -->
 
