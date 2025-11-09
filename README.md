@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing LLM Prompts With Snowflake Model Registry](https://dev.to/jhagerer/managing-llm-prompts-with-snowflake-model-registry-1f9d)
-- [Building Your Own Virtual Private Cloud on Linux: A Deep Dive into Network Namespaces](https://dev.to/cypher682/building-your-own-virtual-private-cloud-on-linux-a-deep-dive-into-network-namespaces-1l3e)
-- [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
-- [REMI AuthBridge: A Patrimonial Demonstration of Agentic Connection](https://dev.to/jramone3/remi-authbridge-a-patrimonial-demonstration-of-agentic-connection-30ee)
+- [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-158e)
+- [Understanding AI: From LLMs to MCP](https://dev.to/anurag112/understanding-ai-from-llms-to-mcp-3268)
+- [Symfony Station Communiqué - ✦ Stardate: 07 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-07-november-2025-1ege)
 <!-- BLOG-POST-LIST:END -->
 
