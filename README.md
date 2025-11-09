@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-BasedIncremental Training](https://dev.to/paperium/infimed-orbit-aligning-llms-on-open-ended-complex-tasks-via-rubric-basedincremental-training-1bbl)
-- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
-- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
-- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
+- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
+- [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
+- [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
+- [Collaborative App Design Principles: Building Better Products Together](https://dev.to/mattwagner/collaborative-app-design-principles-building-better-products-together-2551)
 <!-- BLOG-POST-LIST:END -->
 
