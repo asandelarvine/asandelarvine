@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
-- [Weekly #45-2025: PHP Tricks, LLM Collaboration, SQL Speedups, and the Future of Web Payments](https://dev.to/weekly/weekly-45-2025-php-tricks-llm-collaboration-sql-speedups-and-the-future-of-web-payments-1pd2)
-- [From TCP Sockets to Thread Pools - Building a Production Grade C++ Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-c-web-framework-24db)
-- [Collaborative App Design Principles: Building Better Products Together](https://dev.to/mattwagner/collaborative-app-design-principles-building-better-products-together-2551)
+- [Right Team, Right Funding: The Unseen Connection](https://dev.to/jean_chou_b0a8ad9c32addbd/right-team-right-funding-the-unseen-connection-18ae)
+- [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-1fmn)
+- [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
+- [Dynamic Theming: A Developer’s Guide to Adaptive Color in UI](https://dev.to/mike-at-redspace/dynamic-theming-a-developers-guide-to-adaptive-color-in-ui-53ml)
 <!-- BLOG-POST-LIST:END -->
 
