@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-36pb)
-- [Computed and Watchers in Vue](https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd)
-- [🎯 Scenario #11 — Set Resource Requests and Limits for CPU/Memory in Kubernetes Pods](https://dev.to/latchudevops/scenario-11-set-resource-requests-and-limits-for-cpumemory-in-kubernetes-pods-55cn)
-- [Escaping the Forest of if Statements🌲: Building Logical Type Guards with `is-kit`](https://dev.to/nyaomaru/escaping-the-forest-of-if-statements-building-logical-type-guards-with-is-kit-2db3)
+- [Preventing AI Project Failures Through Effective Prompt Engineering](https://dev.to/kapusto/preventing-ai-project-failures-through-effective-prompt-engineering-13lj)
+- [Tokens: The Invisible Building Blocks of Large Language Models](https://dev.to/jiminlee/what-are-tokens-the-hidden-building-blocks-behind-every-large-language-model-45fc)
+- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
+- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
 <!-- BLOG-POST-LIST:END -->
 
