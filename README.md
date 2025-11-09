@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/__00d77320f95/-o73)
-- [[Boost]](https://dev.to/cubent/-4f63)
-- [Virtual Threads - Comparative Analysis](https://dev.to/manojshr/virtual-threads-comparitive-analysis-46)
-- [AWS Route 53 Resolver DNS Firewall — The First Line of Egress Defense](https://dev.to/aws-builders/aws-route-53-resolver-dns-firewall-the-first-line-of-egress-defense-4gba)
+- [Managing LLM Prompts With Snowflake Model Registry](https://dev.to/jhagerer/managing-llm-prompts-with-snowflake-model-registry-1f9d)
+- [Building Your Own Virtual Private Cloud on Linux: A Deep Dive into Network Namespaces](https://dev.to/cypher682/building-your-own-virtual-private-cloud-on-linux-a-deep-dive-into-network-namespaces-1l3e)
+- [Cohere in .NET in 10 Minutes: Microsoft.Extensions.AI + the Cohere.Extensions.AI NuGet Package](https://dev.to/makushevskii/cohere-in-net-in-10-minutes-microsoftextensionsai-the-cohereextensionsai-nuget-package-3c7f)
+- [REMI AuthBridge: A Patrimonial Demonstration of Agentic Connection](https://dev.to/jramone3/remi-authbridge-a-patrimonial-demonstration-of-agentic-connection-30ee)
 <!-- BLOG-POST-LIST:END -->
 
