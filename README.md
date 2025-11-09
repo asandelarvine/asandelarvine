@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76)
-- [The Silent Killer of Your SaaS Growth](https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8)
-- [My new project: Coz.jp](https://dev.to/danielpetrica/my-new-project-cozjp-45o)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2)
+- [InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-BasedIncremental Training](https://dev.to/paperium/infimed-orbit-aligning-llms-on-open-ended-complex-tasks-via-rubric-basedincremental-training-1bbl)
+- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
+- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
+- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
 <!-- BLOG-POST-LIST:END -->
 
