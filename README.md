@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PICABench: How Far Are We from Physically Realistic Image Editing?](https://dev.to/paperium/picabench-how-far-are-we-from-physically-realistic-image-editing-4joj)
-- [RAG vs Fine‑Tuning: A Simple, Practical Guide for Beginners](https://dev.to/beginner_007/rag-vs-fine-tuning-a-simple-practical-guide-for-beginners-1peb)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2d81)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-44dk)
+- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
+- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
+- [Build a Docusaurus-like Site with FastAPI: Step 4 - Parsing Frontmatter](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-4-parsing-frontmatter-2pn8)
+- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
 <!-- BLOG-POST-LIST:END -->
 
