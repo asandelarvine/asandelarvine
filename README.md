@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing AI Project Failures Through Effective Prompt Engineering](https://dev.to/kapusto/preventing-ai-project-failures-through-effective-prompt-engineering-13lj)
-- [Tokens: The Invisible Building Blocks of Large Language Models](https://dev.to/jiminlee/what-are-tokens-the-hidden-building-blocks-behind-every-large-language-model-45fc)
-- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
-- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
+- [From TCP Sockets to Thread Pools - Building a Production Grade Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1)
+- [LangGraph: Orchestrating Complex LLM Workflows with State Machines](https://dev.to/aun_aideveloper/langgraph-orchestrating-complex-llm-workflows-with-state-machines-3fo9)
+- [Extract Any Data from PDFs Using AI — Invoices, Tables &amp; More with AIxtract API](https://dev.to/karma_sen_fdfdbe6a5cda221/extract-any-data-from-pdfs-using-ai-invoices-tables-more-with-aixtract-api-7f2)
+- [Agentic Fork Squad: Multi-Agent Database Query Optimizer with Tiger Cloud Zero-Copy Forks](https://dev.to/hco_innova/agentic-fork-squad-multi-agent-database-query-optimizer-with-tiger-cloud-zero-copy-forks-1o3i)
 <!-- BLOG-POST-LIST:END -->
 
