@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent HQ: Integrating AI Agents Natively into the GitHub Workflow](https://dev.to/stelixx-insider/agent-hq-integrating-ai-agents-natively-into-the-github-workflow-257o)
-- [From Esolang to Numeric Script: Building Formin in Fortran](https://dev.to/capinoldev/from-esolang-to-numeric-script-building-formin-in-fortran-pc9)
-- [Create a Text Editor With Go - Welcome Screen](https://dev.to/alcb1310/create-a-text-editor-with-go-welcome-screen-4hkm)
-- [Alternate reality without open source linux](https://dev.to/shoyeb45/alternate-reality-without-open-source-linux-1fge)
+- [Emergent Misalignment via In-Context Learning: Narrow in-context examples canproduce broadly misaligned LLMs](https://dev.to/paperium/emergent-misalignment-via-in-context-learning-narrow-in-context-examples-canproduce-broadly-4p20)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-28po)
+- [From Student Projects to Real-World Development](https://dev.to/dhinakaranst/from-student-projects-to-real-world-development-22fg)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-441k)
 <!-- BLOG-POST-LIST:END -->
 
