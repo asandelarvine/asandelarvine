@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-5hnc)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-327b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2nlo)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-57h4)
+- [Notes on the margins](https://dev.to/rosgluk/notes-on-the-margins-3b2d)
+- [LLMs Talking in Tongues: A New Era of Semantic AI Collaboration?](https://dev.to/arvind_sundararajan/llms-talking-in-tongues-a-new-era-of-semantic-ai-collaboration-8ij)
+- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
+- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
 <!-- BLOG-POST-LIST:END -->
 
