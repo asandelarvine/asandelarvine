@@ -79,9 +79,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HyperMarkets: Fast, Fair, and Fun Prediction Markets on Hyperliquid Perps](https://dev.to/chrisk824/hypermarkets-fast-fair-and-fun-prediction-markets-on-hyperliquid-perps-2no2)
-- [About Taxum, or why I wrote my own NodeJS Framework](https://dev.to/dasprid/about-taxum-or-why-i-wrote-my-own-nodejs-framework-4bom)
-- [I Built a VS Code Extension to Stop the Copy-Paste Madness](https://dev.to/couimet/i-built-a-vs-code-extension-to-stop-the-copy-paste-madness-3d7l)
-- [Coding Challenge Practice - Question 49](https://dev.to/tomivan/coding-challenge-practice-question-49-4k46)
+- [Everyone is obsessed with “prompt tricks.”
+
+They collect templates, copy prompts from Twitter threads.
+
+But after all that, their results still feel… average. Why?
+
+It has everything to do with you and not with your prompts.](https://dev.to/jaideepparashar/everyone-is-obsessed-with-prompt-tricks-they-collect-templates-copy-prompts-from-twitter-5639)
+- [The Prompt Layer Most Beginners Miss](https://dev.to/jaideepparashar/the-prompt-layer-most-beginners-miss-2op1)
+- [How the 2WHAV-Iterative Cycle Turns Uncertainty into Production-Ready Code](https://dev.to/francesco_marconi_282058b/how-the-2whav-iterative-cycle-turns-uncertainty-into-production-ready-code-1dk4)
+- [Lesson 21: Freqtrade-Exchange API Configuration](https://dev.to/henry_lin_3ac6363747f45b4/lesson-21-freqtrade-exchange-api-configuration-246i)
 <!-- BLOG-POST-LIST:END -->
 
