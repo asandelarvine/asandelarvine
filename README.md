@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CSS Is So Hard for Generative AIs to Understand?](https://dev.to/asafaeirad/why-css-is-so-hard-for-generative-ais-to-understand-17fo)
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-1g3b)
-- [Building Flipr: a URL shortener, one commit at a time](https://dev.to/edeckers/building-flipr-a-url-shortener-one-commit-at-a-time-gnb)
-- [REMI AuthBridge: Patrimonial Identity Demo with Auth0 Integration](https://dev.to/jramone3/remi-authbridge-patrimonial-identity-demo-with-auth0-integration-1j1i)
+- [PICABench: How Far Are We from Physically Realistic Image Editing?](https://dev.to/paperium/picabench-how-far-are-we-from-physically-realistic-image-editing-4joj)
+- [RAG vs Fine‑Tuning: A Simple, Practical Guide for Beginners](https://dev.to/beginner_007/rag-vs-fine-tuning-a-simple-practical-guide-for-beginners-1peb)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2d81)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-44dk)
 <!-- BLOG-POST-LIST:END -->
 
