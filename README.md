@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Right Team, Right Funding: The Unseen Connection](https://dev.to/jean_chou_b0a8ad9c32addbd/right-team-right-funding-the-unseen-connection-18ae)
-- [Building a Decision-Making CLI Tool in Rust: &quot;should-i&quot;](https://dev.to/justhiro/building-a-decision-making-cli-tool-in-rust-should-i-1fmn)
-- [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
-- [Dynamic Theming: A Developer’s Guide to Adaptive Color in UI](https://dev.to/mike-at-redspace/dynamic-theming-a-developers-guide-to-adaptive-color-in-ui-53ml)
+- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-36pb)
+- [Computed and Watchers in Vue](https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd)
+- [🎯 Scenario #11 — Set Resource Requests and Limits for CPU/Memory in Kubernetes Pods](https://dev.to/latchudevops/scenario-11-set-resource-requests-and-limits-for-cpumemory-in-kubernetes-pods-55cn)
+- [Escaping the Forest of if Statements🌲: Building Logical Type Guards with `is-kit`](https://dev.to/nyaomaru/escaping-the-forest-of-if-statements-building-logical-type-guards-with-is-kit-2db3)
 <!-- BLOG-POST-LIST:END -->
 
