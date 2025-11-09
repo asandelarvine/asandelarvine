@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scanner vs BufferedReader](https://dev.to/erickvasm/scanner-vs-bufferedreader-2m25)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-158e)
-- [Understanding AI: From LLMs to MCP](https://dev.to/anurag112/understanding-ai-from-llms-to-mcp-3268)
-- [Symfony Station Communiqué - ✦ Stardate: 07 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-07-november-2025-1ege)
+- [From Jupyter Notebook to Production: Complete Guide to ML Model Deployment](https://dev.to/aaravjoshi/from-jupyter-notebook-to-production-complete-guide-to-ml-model-deployment-ffd)
+- [Becoming a Full Stack Developer Day 2](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-2-cdf)
+- [ArtistAssistApp New Features and Improvements – November 2025](https://dev.to/eugene-khyst/artistassistapp-new-features-and-improvements-november-2025-19bj)
+- [Caching Strategy for RESTFUL API](https://dev.to/masteringbackend/caching-strategy-for-restful-api-2gkj)
 <!-- BLOG-POST-LIST:END -->
 
