@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-581b)
-- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
-- [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
-- [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
+- [Building the &#39;Dream Team Assembler&#39; with Serverless Power: Cloud Run and Gemini](https://dev.to/eyitayo_ayodeji_a26691b42/building-the-dream-team-assembler-with-serverless-power-cloud-run-and-gemini-3p6p)
+- [How to Install and Configure Home Assistant: A Quick Start](https://dev.to/picoable/how-to-install-and-configure-home-assistant-a-quick-start-1fk8)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-59gp)
+- [Project Name: Create a Resource Group](https://dev.to/baris86/project-name-create-a-resource-group-419p)
 <!-- BLOG-POST-LIST:END -->
 
