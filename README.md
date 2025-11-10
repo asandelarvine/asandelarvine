@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-embodied-81o)
-- [The Quiet Collapse of $ALTD AltitudeDeFi: A Cautionary Tale of Hype, Silence, and Vanished Hopes](https://dev.to/bitnet4ever/the-quiet-collapse-of-altd-altitudedefi-a-cautionary-tale-of-hype-silence-and-vanished-hopes-1e2b)
-- [Build a Docusaurus-like Site with FastAPI: Step 4 - Parsing Frontmatter](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-4-parsing-frontmatter-2pn8)
-- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
+- [🛠 Fixing “runsv not running” Error in GitLab CE](https://dev.to/nhisyamj/fixing-runsv-not-running-error-in-gitlab-ce-1cn)
+- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
+- [Stop Guessing! AI That Explains Its Algorithm Choices is Finally Here](https://dev.to/arvind_sundararajan/stop-guessing-ai-that-explains-its-algorithm-choices-is-finally-here-16k6)
+- [PyKryptor - open source AxCrypt alternative](https://dev.to/commonwealthrocks/pykryptor-open-source-axcrypt-alternative-4l91)
 <!-- BLOG-POST-LIST:END -->
 
