@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
-- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
-- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
+- [From Localhost to Live: Sharing Django Projects Seamlessly](https://dev.to/lightningdev123/from-localhost-to-live-sharing-django-projects-seamlessly-164g)
+- [What Is Natural Environment Teaching &lpar;NET&rpar;? A Parent’s Guide to ABA &quot;Play Therapy&quot;](https://dev.to/mekaywillow/what-is-natural-environment-teaching-net-a-parents-guide-to-aba-play-therapy-4kkn)
+- [Why Baidu&#39;s AMIS Framework Is an Excellent Design](https://dev.to/canonical/why-baidus-amis-framework-is-an-excellent-design-5cch)
+- [Recursive CTEs: Because Writing Nested Loops for Trees is Psychopathic &lpar;and a Little Masochistic Too&rpar;](https://dev.to/pascal_cescato_692b7a8a20/recursive-ctes-because-writing-nested-loops-for-trees-is-psychopathic-and-a-little-masochistic-4ljb)
 <!-- BLOG-POST-LIST:END -->
 
