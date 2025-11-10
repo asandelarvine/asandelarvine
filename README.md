@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create QR based 2fa system in Node.js &lpar;step-by-step&rpar;](https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6)
-- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j)
-- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
-- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
+- [FastAPI Template](https://dev.to/eslam5464/fastapi-template-p9m)
+- [Forem Project Weekly: Scheduled Automations, Image Generation &amp; UX Upgrades](https://dev.to/forem_project_bot/forem-project-weekly-scheduled-automations-image-generation-ux-upgrades-49g3)
+- [CVE-2025-21042: Samsung Mobile Devices Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2025-21042-samsung-mobile-devices-out-of-bounds-write-vulnerability-3pel)
+- [&quot;The Fourth Day: 10 Inspiring Quotes to Reignite Your Faith and Finish the Week Strong&quot;](https://dev.to/godblessingyou/the-fourth-day-10-inspiring-quotes-to-reignite-your-faith-and-finish-the-week-strong-36km)
 <!-- BLOG-POST-LIST:END -->
 
