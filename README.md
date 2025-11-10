@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
-- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
-- [Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
-- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
+- [The Secret Life of Python: The Iterator Protocol - Why For Loops Are Magic](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-iterator-protocol-why-for-loops-are-magic-44oo)
+- [AWS Certified AI Practitioner &lpar;AIF C01&rpar; Study Guide with Free Questions and Hands-On Tips](https://dev.to/eliza_elynn_f4d2eb744a9b8/aws-certified-ai-practitioner-aif-c01-study-guide-with-free-questions-and-hands-on-tips-45io)
+- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
+- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
 <!-- BLOG-POST-LIST:END -->
 
