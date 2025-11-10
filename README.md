@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Hetzner Cloud resources with AWS CloudWatch using Terraform](https://dev.to/kamran_biglari_756d509684/monitoring-hetzner-cloud-resources-with-aws-cloudwatch-using-terraform-2m1n)
-- [What Are the Key Types of Compliance Reporting and How Can You Master Them?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-key-types-of-compliance-reporting-and-how-can-you-master-them-4mfb)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5a0p)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
+- [Updating to Jest 30 is Frustrating &lpar;it&#39;s JSDOM&rpar;](https://dev.to/htho/updating-to-jest-30-is-frustrating-its-jsdom-2jn3)
+- [🦓 The Tale of the Humbled Process Engineer —  Episode I: The Pattern of the Chameleons 🦎](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-i-the-pattern-of-the-chameleons-24p4)
+- [Synthetic Data Generator](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
+- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
 <!-- BLOG-POST-LIST:END -->
 
