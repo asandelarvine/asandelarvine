@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building VerveAI.co — How Kiro Made AI Productivity Simpler](https://dev.to/rds087/building-verveaico-how-kiro-made-ai-productivity-simpler-10hk)
-- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
-- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
-- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
+- [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
+- [Go DI Libraries Comparison: go-infrastructure vs. Fx](https://dev.to/jack_apolo_beb30743942cf8/go-di-libraries-comparison-go-infrastructure-vs-fx-4jni)
+- [From Frustration to Protection: The Logic of Secure Coding](https://dev.to/quantum_techzone_2a101732/from-frustration-to-protection-the-logic-of-secure-coding-47ni)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-17c4)
 <!-- BLOG-POST-LIST:END -->
 
