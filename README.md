@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RK3588 SBC: Kiwi Pi 5 Pro](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-sbc-kiwi-pi-5-pro-4ofe)
-- [Right Approach to JSON Log Analysis: A Hands-on Guide to Efficient Practices with Alibaba Cloud SLS](https://dev.to/observabilityguy/right-approach-to-json-log-analysis-a-hands-on-guide-to-efficient-practices-with-alibaba-cloud-sls-58mf)
-- [💥 Get to the Chopper! A Beginner&#39;s Guide to ArnoldC](https://dev.to/ekasnh/get-to-the-chopper-a-beginners-guide-to-arnoldc-5570)
-- [Physics as Code: Train AI with Differentiable Simulations](https://dev.to/arvind_sundararajan/physics-as-code-train-ai-with-differentiable-simulations-4imp)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
+- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
+- [Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
+- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
 <!-- BLOG-POST-LIST:END -->
 
