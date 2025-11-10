@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠 Fixing “runsv not running” Error in GitLab CE](https://dev.to/nhisyamj/fixing-runsv-not-running-error-in-gitlab-ce-1cn)
-- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
-- [Stop Guessing! AI That Explains Its Algorithm Choices is Finally Here](https://dev.to/arvind_sundararajan/stop-guessing-ai-that-explains-its-algorithm-choices-is-finally-here-16k6)
-- [PyKryptor - open source AxCrypt alternative](https://dev.to/commonwealthrocks/pykryptor-open-source-axcrypt-alternative-4l91)
+- [RK3588 SBC: Kiwi Pi 5 Pro](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-sbc-kiwi-pi-5-pro-4ofe)
+- [Right Approach to JSON Log Analysis: A Hands-on Guide to Efficient Practices with Alibaba Cloud SLS](https://dev.to/observabilityguy/right-approach-to-json-log-analysis-a-hands-on-guide-to-efficient-practices-with-alibaba-cloud-sls-58mf)
+- [💥 Get to the Chopper! A Beginner&#39;s Guide to ArnoldC](https://dev.to/ekasnh/get-to-the-chopper-a-beginners-guide-to-arnoldc-5570)
+- [Physics as Code: Train AI with Differentiable Simulations](https://dev.to/arvind_sundararajan/physics-as-code-train-ai-with-differentiable-simulations-4imp)
 <!-- BLOG-POST-LIST:END -->
 
