@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Influence Without Authority: The True Skill of Senior Engineers](https://dev.to/cdownard/influence-without-authority-the-true-skill-of-senior-engineers-3ga4)
-- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
-- [🚀 My Neovim Configuration](https://dev.to/mannu/my-neovim-configuration-360g)
-- [Becoming a Full stack developer Day 3](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-3-4jcb)
+- [How to create QR based 2fa system in Node.js &lpar;step-by-step&rpar;](https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6)
+- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j)
+- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc)
+- [You Can&#39;t Unbake a Cake &lpar;or Why Data Isolation in the Age of AI is BASICALLY Impossible&rpar;](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg)
 <!-- BLOG-POST-LIST:END -->
 
