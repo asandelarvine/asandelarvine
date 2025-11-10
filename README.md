@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Ongoing Cloud Migration Journey 🚀](https://dev.to/jamiu_cloud/my-ongoing-cloud-migration-journey-3i1a)
-- [Build in Public &lpar;Data Engineering&rpar;: Day Zero](https://dev.to/terieyenike/build-in-public-data-engineering-day-zero-2c65)
-- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
-- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
+- [Influence Without Authority: The True Skill of Senior Engineers](https://dev.to/cdownard/influence-without-authority-the-true-skill-of-senior-engineers-3ga4)
+- [Fix Common Smart Fridge Issues: A Step-by-Step DIY Tutorial](https://dev.to/picoable/fix-common-smart-fridge-issues-a-step-by-step-diy-tutorial-80l)
+- [🚀 My Neovim Configuration](https://dev.to/mannu/my-neovim-configuration-360g)
+- [Becoming a Full stack developer Day 3](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-day-3-4jcb)
 <!-- BLOG-POST-LIST:END -->
 
