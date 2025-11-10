@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
-- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
-- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
-- [[Boost]](https://dev.to/debuggingwithsim/-1120)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-501i)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-46hh)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41cd)
+- [Building Node.js CLI Tool.](https://dev.to/mehakb7/building-nodejs-cli-tool-l4k)
 <!-- BLOG-POST-LIST:END -->
 
