@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I think your post is a great article for helping developers develop faster.
-I look forward to your next post.](https://dev.to/radu985/i-think-your-post-is-a-great-article-for-helping-developers-develop-faster-i-look-forward-to-your-ngn)
-- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
-- [Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview](https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l)
-- [AI Coding Assistants for Beginners: How to Use ChatGPT &amp; Copilot Without ‘Cheating’](https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544)
+- [🐍 Using Python to Extend Go High Level’s Capabilities via API](https://dev.to/ambrosekol/using-python-to-extend-go-high-levels-capabilities-via-api-30k4)
+- [Understanding the FTSE AIM 100 Index: A Comprehensive Overview](https://dev.to/bella_stewart_1e038c004d3/understanding-the-ftse-aim-100-index-a-comprehensive-overview-1k30)
+- [The Best LLM and AI Orchestration Toolkits for Your Stack](https://dev.to/pathak_prakarsh/the-best-llm-and-ai-orchestration-toolkits-for-your-stack-5hlk)
+- [[Boost]](https://dev.to/debuggingwithsim/-1120)
 <!-- BLOG-POST-LIST:END -->
 
