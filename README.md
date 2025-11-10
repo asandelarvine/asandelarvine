@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Updating to Jest 30 is Frustrating &lpar;it&#39;s JSDOM&rpar;](https://dev.to/htho/updating-to-jest-30-is-frustrating-its-jsdom-2jn3)
-- [🦓 The Tale of the Humbled Process Engineer —  Episode I: The Pattern of the Chameleons 🦎](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-i-the-pattern-of-the-chameleons-24p4)
-- [Synthetic Data Generator](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
-- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
+- [I think your post is a great article for helping developers develop faster.
+I look forward to your next post.](https://dev.to/radu985/i-think-your-post-is-a-great-article-for-helping-developers-develop-faster-i-look-forward-to-your-ngn)
+- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
+- [Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview](https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l)
+- [AI Coding Assistants for Beginners: How to Use ChatGPT &amp; Copilot Without ‘Cheating’](https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544)
 <!-- BLOG-POST-LIST:END -->
 
