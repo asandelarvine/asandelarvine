@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Security Logic Behind LLM Jailbreaking](https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5)
-- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
-- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3)
-- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
+- [🚀 Building VerveAI.co — How Kiro Made AI Productivity Simpler](https://dev.to/rds087/building-verveaico-how-kiro-made-ai-productivity-simpler-10hk)
+- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
+- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
+- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
 <!-- BLOG-POST-LIST:END -->
 
