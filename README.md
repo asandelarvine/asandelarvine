@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Iterator Protocol - Why For Loops Are Magic](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-iterator-protocol-why-for-loops-are-magic-44oo)
-- [AWS Certified AI Practitioner &lpar;AIF C01&rpar; Study Guide with Free Questions and Hands-On Tips](https://dev.to/eliza_elynn_f4d2eb744a9b8/aws-certified-ai-practitioner-aif-c01-study-guide-with-free-questions-and-hands-on-tips-45io)
-- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
-- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
+- [The Security Logic Behind LLM Jailbreaking](https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5)
+- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m)
+- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3)
+- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
 <!-- BLOG-POST-LIST:END -->
 
