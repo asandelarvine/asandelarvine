@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Localhost to Live: Sharing Django Projects Seamlessly](https://dev.to/lightningdev123/from-localhost-to-live-sharing-django-projects-seamlessly-164g)
-- [What Is Natural Environment Teaching &lpar;NET&rpar;? A Parent’s Guide to ABA &quot;Play Therapy&quot;](https://dev.to/mekaywillow/what-is-natural-environment-teaching-net-a-parents-guide-to-aba-play-therapy-4kkn)
-- [Why Baidu&#39;s AMIS Framework Is an Excellent Design](https://dev.to/canonical/why-baidus-amis-framework-is-an-excellent-design-5cch)
-- [Recursive CTEs: Because Writing Nested Loops for Trees is Psychopathic &lpar;and a Little Masochistic Too&rpar;](https://dev.to/pascal_cescato_692b7a8a20/recursive-ctes-because-writing-nested-loops-for-trees-is-psychopathic-and-a-little-masochistic-4ljb)
+- [Monitoring Hetzner Cloud resources with AWS CloudWatch using Terraform](https://dev.to/kamran_biglari_756d509684/monitoring-hetzner-cloud-resources-with-aws-cloudwatch-using-terraform-2m1n)
+- [What Are the Key Types of Compliance Reporting and How Can You Master Them?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-key-types-of-compliance-reporting-and-how-can-you-master-them-4mfb)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5a0p)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3j22)
 <!-- BLOG-POST-LIST:END -->
 
