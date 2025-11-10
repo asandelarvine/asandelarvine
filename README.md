@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the Model Right](https://dev.to/restlessmike/getting-the-model-right-35dd)
-- [Different Ways to Count](https://dev.to/davidcanhelp/different-ways-to-count-12mk)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2128)
-- [Debug a NestJS application in WebStorm](https://dev.to/pantpapasavvas/debug-a-nestjs-application-in-webstorm-5990)
+- [From Localhost to Global Scale: Deploying a Multi-Agent AI Interior Designer with Google Cloud Run](https://dev.to/hesham_ash/from-localhost-to-global-scale-deploying-a-multi-agent-ai-interior-designer-with-google-cloud-run-2mp4)
+- [How We Cut LLM Batch Inference Time in Half with Dynamic Prefix Bucketing](https://dev.to/yks/how-we-cut-llm-batch-inference-time-in-half-with-dynamic-prefix-bucketing-183e)
+- [Searching Algorithms Part 3: Exploring Trees and Graphs with BFS and DFS](https://dev.to/picciniuscodes/searching-algorithms-part-3-exploring-trees-and-graphs-with-bfs-and-dfs-1jc0)
+- [The Secret Life of Python: Generator Secrets - Functions That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-generator-secrets-functions-that-remember-3oc)
 <!-- BLOG-POST-LIST:END -->
 
