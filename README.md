@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #152](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-152-134f)
-- [Your &quot;Best Practice&quot; is Someone Else&#39;s Tradeoff](https://dev.to/dchueri/your-best-practice-is-someone-elses-tradeoff-1k87)
-- [How to Add Custom Command Shortcuts in Cursor](https://dev.to/dev-tngsh/how-to-add-custom-command-shortcuts-in-cursor-1an)
-- [🧱 Lesson 7  - Message Queues with RabbitMQ](https://dev.to/farrukh_rehman/lesson-7-message-queues-with-rabbitmq-1lno)
+- [My Ongoing Cloud Migration Journey 🚀](https://dev.to/jamiu_cloud/my-ongoing-cloud-migration-journey-3i1a)
+- [Build in Public &lpar;Data Engineering&rpar;: Day Zero](https://dev.to/terieyenike/build-in-public-data-engineering-day-zero-2c65)
+- [Music Monday](https://dev.to/musicforem/music-monday-36j1)
+- [Choosing Your First Smart Devices for Home Assistant](https://dev.to/picoable/choosing-your-first-smart-devices-for-home-assistant-3474)
 <!-- BLOG-POST-LIST:END -->
 
