@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Template](https://dev.to/eslam5464/fastapi-template-p9m)
-- [Forem Project Weekly: Scheduled Automations, Image Generation &amp; UX Upgrades](https://dev.to/forem_project_bot/forem-project-weekly-scheduled-automations-image-generation-ux-upgrades-49g3)
-- [CVE-2025-21042: Samsung Mobile Devices Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2025-21042-samsung-mobile-devices-out-of-bounds-write-vulnerability-3pel)
-- [&quot;The Fourth Day: 10 Inspiring Quotes to Reignite Your Faith and Finish the Week Strong&quot;](https://dev.to/godblessingyou/the-fourth-day-10-inspiring-quotes-to-reignite-your-faith-and-finish-the-week-strong-36km)
+- [[Boost]](https://dev.to/ben/-581b)
+- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
+- [Deno Vs Bun In 2025: Two Modern Approaches To JavaScript Runtime Development](https://dev.to/pullflow/deno-vs-bun-in-2025-two-modern-approaches-to-javascript-runtime-development-4dgo)
+- [Containerizing Mobile ML Models: Running On-Device Inference with Docker and TensorFlow Lite](https://dev.to/swap11/containerizing-mobile-ml-models-running-on-device-inference-with-docker-and-tensorflow-lite-28a4)
 <!-- BLOG-POST-LIST:END -->
 
