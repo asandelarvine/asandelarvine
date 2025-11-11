@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
-- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
-- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
+- [Calendar API update for secondary calendars, create Workspace Flows custom steps, and more!](https://dev.to/googleworkspace/calendar-api-update-for-secondary-calendars-create-workspace-flows-custom-steps-and-more-915)
+- [Setup Dozzle with Auth on Coolify](https://dev.to/adamghill/setup-dozzle-with-auth-on-coolify-cof)
+- [Next.js 16: What&#39;s New? Turbopack, React Compiler &amp; Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)
 <!-- BLOG-POST-LIST:END -->
 
