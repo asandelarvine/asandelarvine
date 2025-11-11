@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
-- [Chef who discovers recipes that don’t just feed the body, but awaken hidden talents in anyone who tastes them.](https://dev.to/ruqaiya/chef-who-discovers-recipes-that-dont-just-feed-the-body-but-awaken-hidden-talents-in-anyone-who-4fmk)
-- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
-- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
+- [Monitor Falcon with OpenTelemetry](https://dev.to/uptrace/monitor-falcon-with-opentelemetry-36c0)
+- [How to Create a Responsive Portfolio Website with HTML and CSS Source Code](https://dev.to/uijunkie/responsive-portfolio-website-with-html-and-css-source-code-17li)
+- [DevOps team structures](https://dev.to/_steve_fenton_/devops-team-structures-510j)
+- [Creating and Styling Tables in PDF Documents with C#](https://dev.to/allen_yang_f905170c5a197b/creating-and-styling-tables-in-pdf-documents-with-c-4mn8)
 <!-- BLOG-POST-LIST:END -->
 
