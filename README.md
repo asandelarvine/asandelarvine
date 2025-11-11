@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine changing your app&#39;s behaviour... without changing the code. &lpar;Part 2&rpar;](https://dev.to/gpietro/imagine-changing-your-apps-behaviour-without-changing-the-code-part-2-6fo)
-- [RESTful - Pílula 2 – Estrutura e hierarquia de URLs](https://dev.to/andersoncontreira/restful-pilula-2-estrutura-e-hierarquia-de-urls-1112)
-- [Hands-On with Azure Files: Storage, Snapshots &amp; Network Security](https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5)
-- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
+- [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
+- [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
+- [Docker](https://dev.to/jumptotech/docker-225l)
+- [Kubernetes](https://dev.to/jumptotech/kubernetes-g9p)
 <!-- BLOG-POST-LIST:END -->
 
