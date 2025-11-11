@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Resume Challenge - Chunk 5 - The Final Write-Up](https://dev.to/tlklein/cloud-resume-challenge-chunk-5-the-final-write-up-4n06)
-- [How signals really work in JavaScript? Basic concept.](https://dev.to/thatsembarrassing/how-signals-really-work-in-javascript-basic-concept-2m4l)
-- [Why Not All AI Works the Same: A Quick Breakdown for Builders](https://dev.to/clickit_devops/why-not-all-ai-works-the-same-a-quick-breakdown-for-builders-106n)
-- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
+- [Search on steroids: Using regex in VS Code](https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698)
+- [Static Website Deployment on AWS Amplify via GitHub &lpar;Entry-Level Guide&rpar;](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj)
+- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
+- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
 <!-- BLOG-POST-LIST:END -->
 
