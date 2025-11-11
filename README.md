@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
-- [10 Real Problems I Solved With ChatGPT This Month](https://dev.to/jaideepparashar/10-real-problems-i-solved-with-chatgpt-this-month-3lbf)
-- [Building a Vector Database from Scratch - CapybaraDB](https://dev.to/piyush_choudhari_a5b29f7f/building-a-vector-database-from-scratch-capybaradb-ek8)
-- [The 20 Most Essential Tools for Full-Stack Development: Build Anything, Anytime, Anywhere](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-full-stack-development-build-anything-anytime-anywhere-32mg)
+- [Sea of Stars: Pixelated Compassion in an Age of Exhaustion](https://dev.to/junothreadborne/sea-of-stars-pixelated-compassion-in-an-age-of-exhaustion-4e4o)
+- [How To Install Cloudwatch Agent On Amazon Linux By Using CLI](https://dev.to/thukhakyawe_cloud/how-to-install-cloudwatch-agent-on-amazon-linux-by-using-cli-3i4f)
+- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
+- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
 <!-- BLOG-POST-LIST:END -->
 
