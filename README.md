@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calendar API update for secondary calendars, create Workspace Flows custom steps, and more!](https://dev.to/googleworkspace/calendar-api-update-for-secondary-calendars-create-workspace-flows-custom-steps-and-more-915)
-- [Setup Dozzle with Auth on Coolify](https://dev.to/adamghill/setup-dozzle-with-auth-on-coolify-cof)
-- [Next.js 16: What&#39;s New? Turbopack, React Compiler &amp; Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)
+- [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
+- [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
+- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
+- [Non-Patent Literature Search for Invalidation: Expert Guide for IP Professionals](https://dev.to/patentscanai/non-patent-literature-search-for-invalidation-expert-guide-for-ip-professionals-28aj)
 <!-- BLOG-POST-LIST:END -->
 
