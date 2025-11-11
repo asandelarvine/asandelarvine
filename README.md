@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Controllers in Express.js](https://dev.to/msnmongare/understanding-controllers-in-expressjs-9h9)
-- [The Rise of Shoppable Content: Turning Blogs, Reels, and Posts Into Sales](https://dev.to/molly_scott_0605/the-rise-of-shoppable-content-turning-blogs-reels-and-posts-into-sales-2j18)
-- [Memory in AI Companions: Implementing Vector-Based Long-Term User State](https://dev.to/nsfwcoders/memory-in-ai-companions-implementing-vector-based-long-term-user-state-3d5f)
-- [Meta Returns to Open Source AI with Omnilingual ASR Models](https://dev.to/logicverse_2025/meta-returns-to-open-source-ai-with-omnilingual-asr-models-33cg)
+- [Security for Bootstrapped Startups: The $0 Budget Checklist &lpar;2025&rpar;](https://dev.to/narnaiezzsshaa/security-for-bootstrapped-startups-the-0-budget-checklist-2025-2aib)
+- [The Complete Beginner&#39;s Guide to vpcctl: Building Virtual Networks on Linux](https://dev.to/destinyobs/the-complete-beginners-guide-to-vpcctl-building-virtual-networks-on-linux-36le)
+- [Managing User on Linux &lpar;Cheat Sheet&rpar;](https://dev.to/seno21/managing-user-on-linux-cheat-sheet-50d)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
 <!-- BLOG-POST-LIST:END -->
 
