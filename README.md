@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security for Bootstrapped Startups: The $0 Budget Checklist &lpar;2025&rpar;](https://dev.to/narnaiezzsshaa/security-for-bootstrapped-startups-the-0-budget-checklist-2025-2aib)
-- [The Complete Beginner&#39;s Guide to vpcctl: Building Virtual Networks on Linux](https://dev.to/destinyobs/the-complete-beginners-guide-to-vpcctl-building-virtual-networks-on-linux-36le)
-- [Managing User on Linux &lpar;Cheat Sheet&rpar;](https://dev.to/seno21/managing-user-on-linux-cheat-sheet-50d)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-56en)
+- [Scaling Is All You Need: Understanding sqrt&lpar;dₖ&rpar; in Self-Attention](https://dev.to/samyak112/scaling-is-all-you-need-understanding-sqrtd-in-self-attention-29pk)
+- [Chef who discovers recipes that don’t just feed the body, but awaken hidden talents in anyone who tastes them.](https://dev.to/ruqaiya/chef-who-discovers-recipes-that-dont-just-feed-the-body-but-awaken-hidden-talents-in-anyone-who-4fmk)
+- [Using Jest and LLM assistance to test your real-time chat](https://dev.to/zenika/using-jest-and-llm-assistance-to-test-your-real-time-chat-4mnm)
+- [Getting Started with Database Entity Relationship](https://dev.to/masteringbackend/getting-started-with-database-entity-relationship-1aik)
 <!-- BLOG-POST-LIST:END -->
 
