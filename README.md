@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AgriCredit Africa: Building Trust and Financial Access for African Farmers](https://dev.to/n3on/agricredit-africa-building-trust-and-financial-access-for-african-farmers-4175)
-- [Handling custom web security rules, how do you do it?](https://dev.to/thinkvalue/handling-custom-web-security-rules-how-do-you-do-it-lcl)
-- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
-- [Non-Patent Literature Search for Invalidation: Expert Guide for IP Professionals](https://dev.to/patentscanai/non-patent-literature-search-for-invalidation-expert-guide-for-ip-professionals-28aj)
+- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
+- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
+- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
 <!-- BLOG-POST-LIST:END -->
 
