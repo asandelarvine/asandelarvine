@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sea of Stars: Pixelated Compassion in an Age of Exhaustion](https://dev.to/junothreadborne/sea-of-stars-pixelated-compassion-in-an-age-of-exhaustion-4e4o)
-- [How To Install Cloudwatch Agent On Amazon Linux By Using CLI](https://dev.to/thukhakyawe_cloud/how-to-install-cloudwatch-agent-on-amazon-linux-by-using-cli-3i4f)
-- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
-- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
+- [The Skill Gap Nobody Talks About: Communication in Tech Teams](https://dev.to/careerbytecode/the-skill-gap-nobody-talks-about-communication-in-tech-teams-53ae)
+- [The Future of Cloud Computing: Trends to Watch in 2025](https://dev.to/itcs11/the-future-of-cloud-computing-trends-to-watch-in-2025-17b9)
+- [Getting Started with Requestly Local Workspace for Local Development](https://dev.to/dharmendrasolanki/getting-started-with-requestly-local-workspace-for-local-development-5h0h)
+- [AI Wearables 2025: Smart Health Gadgets That Know You Better Than Ever](https://dev.to/creative_soul_1f7d988fcf9/ai-wearables-2025-smart-health-gadgets-that-know-you-better-than-ever-3kna)
 <!-- BLOG-POST-LIST:END -->
 
