@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
-- [JS中的对象、var let const 在JS里的区别、JS中的作用域](https://dev.to/nikimunger/jszhong-de-dui-xiang-var-let-const-zai-jsli-de-qu-bie-jszhong-de-zuo-yong-yu-3ip0)
-- [# Understanding Network Layers: What Every Node.js Developer Should Know About OSI/TCP-IP](https://dev.to/sudiip__17/-understanding-network-layers-what-every-nodejs-developer-should-know-about-ositcp-ip-135f)
-- [I Let Attackers Train My AI-powered Security Proxy &lpar;Here’s What Happened&rpar;](https://dev.to/mehdi0001/i-let-attackers-train-my-ai-powered-security-proxy-heres-what-happened-181b)
+- [Cloud Resume Challenge - Chunk 5 - The Final Write-Up](https://dev.to/tlklein/cloud-resume-challenge-chunk-5-the-final-write-up-4n06)
+- [How signals really work in JavaScript? Basic concept.](https://dev.to/thatsembarrassing/how-signals-really-work-in-javascript-basic-concept-2m4l)
+- [Why Not All AI Works the Same: A Quick Breakdown for Builders](https://dev.to/clickit_devops/why-not-all-ai-works-the-same-a-quick-breakdown-for-builders-106n)
+- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
 <!-- BLOG-POST-LIST:END -->
 
