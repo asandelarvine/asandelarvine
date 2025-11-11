@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Robotics](https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g)
-- [Risk Management in the Age of AI Trading Tools](https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo)
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1)
-- [Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost](https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8)
+- [Understanding Controllers in Express.js](https://dev.to/msnmongare/understanding-controllers-in-expressjs-9h9)
+- [The Rise of Shoppable Content: Turning Blogs, Reels, and Posts Into Sales](https://dev.to/molly_scott_0605/the-rise-of-shoppable-content-turning-blogs-reels-and-posts-into-sales-2j18)
+- [Memory in AI Companions: Implementing Vector-Based Long-Term User State](https://dev.to/nsfwcoders/memory-in-ai-companions-implementing-vector-based-long-term-user-state-3d5f)
+- [Meta Returns to Open Source AI with Omnilingual ASR Models](https://dev.to/logicverse_2025/meta-returns-to-open-source-ai-with-omnilingual-asr-models-33cg)
 <!-- BLOG-POST-LIST:END -->
 
