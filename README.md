@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps Routes API: Passing the 25 Waypoint Limit](https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0)
-- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
-- [Ability to Create Async Commands in WebForms Core 2](https://dev.to/elanatframework/ability-to-create-async-commands-in-webforms-core-2-2ghk)
-- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
+- [Imagine changing your app&#39;s behaviour... without changing the code. &lpar;Part 2&rpar;](https://dev.to/gpietro/imagine-changing-your-apps-behaviour-without-changing-the-code-part-2-6fo)
+- [RESTful - Pílula 2 – Estrutura e hierarquia de URLs](https://dev.to/andersoncontreira/restful-pilula-2-estrutura-e-hierarquia-de-urls-1112)
+- [Hands-On with Azure Files: Storage, Snapshots &amp; Network Security](https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5)
+- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
 <!-- BLOG-POST-LIST:END -->
 
