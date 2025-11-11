@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Analysing European Soccer Data with Deepnote in Windsurf IDE](https://dev.to/envitab/analysing-european-soccer-data-with-deepnote-in-windsurf-ide-3275)
-- [Cloud App Journey: Ep. 5 — Cloud Security: Protecting APIs, Credentials, and Data on Azure](https://dev.to/osvaldofa/cloud-app-journey-ep-8-cloud-security-protecting-apis-credentials-and-data-on-azure-4oe8)
-- [Painless Vibe-Coding: A Complete Practical Guide from Real-Life Experience](https://dev.to/petrashka/painless-vibe-coding-a-complete-practical-guide-from-real-life-experience-16nc)
-- [Unlock Your Simulations: Automated Parameter Tuning for Complex Models by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-your-simulations-automated-parameter-tuning-for-complex-models-by-arvind-sundararajan-3372)
+- [How Writing Prompts Taught Me to Think Like a Programmer](https://dev.to/hannahpiercewriter/how-writing-prompts-taught-me-to-think-like-a-programmer-376b)
+- [So… what is GitHub Copilot’s &quot;Raptor mini&quot;and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-raptor-miniand-why-should-devs-care-3n30)
+- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 2](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-part-2-p24)
+- [Integrating OpenAI API with WordPress: Generate Content Automatically](https://dev.to/naimurrahmannahid/integrating-openai-api-with-wordpress-generate-content-automatically-2o95)
 <!-- BLOG-POST-LIST:END -->
 
