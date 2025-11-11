@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Writing Prompts Taught Me to Think Like a Programmer](https://dev.to/hannahpiercewriter/how-writing-prompts-taught-me-to-think-like-a-programmer-376b)
-- [So… what is GitHub Copilot’s &quot;Raptor mini&quot;and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-raptor-miniand-why-should-devs-care-3n30)
-- [Offline Souls, Online Noise &lpar;Dead Internet&rpar; PART 2](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-part-2-p24)
-- [Integrating OpenAI API with WordPress: Generate Content Automatically](https://dev.to/naimurrahmannahid/integrating-openai-api-with-wordpress-generate-content-automatically-2o95)
+- [Google Maps Routes API: Passing the 25 Waypoint Limit](https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0)
+- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
+- [Ability to Create Async Commands in WebForms Core 2](https://dev.to/elanatframework/ability-to-create-async-commands-in-webforms-core-2-2ghk)
+- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
 <!-- BLOG-POST-LIST:END -->
 
