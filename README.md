@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Você criou uma API, mas não tem documentação? Eita... 😅](https://dev.to/andersoncontreira/voce-criou-uma-api-mas-nao-tem-documentacao-eita-53a3)
-- [Reinventar a roda: um erro que muitas empresas ainda cometem](https://dev.to/andersoncontreira/reinventar-a-roda-um-erro-que-muitas-empresas-ainda-cometem-2ojo)
-- [Common WordPress Errors &lpar;And How to Fix Them Like a Pro&rpar; ⚠️](https://dev.to/anemnavinrao/common-wordpress-errors-and-how-to-fix-them-like-a-pro-318l)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
+- [Running LangChain ReactAgent in browser](https://dev.to/ocleo1/running-langchain-reactagent-in-browser-24ik)
+- [Create and run Windows on Arm virtual machines on AWS Graviton processors using QEMU and KVM](https://dev.to/aws-builders/create-and-run-windows-on-arm-virtual-machines-on-aws-graviton-processors-using-qemu-and-kvm-310j)
+- [The Hidden Cost of Event-Driven Architecture: Why Decoupling Can Triple Your Debugging Time](https://dev.to/carlosinfantes/the-hidden-cost-of-event-driven-architecture-why-decoupling-can-triple-your-debugging-time-58m)
+- [How We Integrated Licensed Fleets into a Global Ride-Hailing Platform](https://dev.to/nualimov/how-we-integrated-licensed-fleets-into-a-global-ride-hailing-platform-30en)
 <!-- BLOG-POST-LIST:END -->
 
