@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running LangChain ReactAgent in browser](https://dev.to/ocleo1/running-langchain-reactagent-in-browser-24ik)
-- [Create and run Windows on Arm virtual machines on AWS Graviton processors using QEMU and KVM](https://dev.to/aws-builders/create-and-run-windows-on-arm-virtual-machines-on-aws-graviton-processors-using-qemu-and-kvm-310j)
-- [The Hidden Cost of Event-Driven Architecture: Why Decoupling Can Triple Your Debugging Time](https://dev.to/carlosinfantes/the-hidden-cost-of-event-driven-architecture-why-decoupling-can-triple-your-debugging-time-58m)
-- [How We Integrated Licensed Fleets into a Global Ride-Hailing Platform](https://dev.to/nualimov/how-we-integrated-licensed-fleets-into-a-global-ride-hailing-platform-30en)
+- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
+- [JS中的对象、var let const 在JS里的区别、JS中的作用域](https://dev.to/nikimunger/jszhong-de-dui-xiang-var-let-const-zai-jsli-de-qu-bie-jszhong-de-zuo-yong-yu-3ip0)
+- [# Understanding Network Layers: What Every Node.js Developer Should Know About OSI/TCP-IP](https://dev.to/sudiip__17/-understanding-network-layers-what-every-nodejs-developer-should-know-about-ositcp-ip-135f)
+- [I Let Attackers Train My AI-powered Security Proxy &lpar;Here’s What Happened&rpar;](https://dev.to/mehdi0001/i-let-attackers-train-my-ai-powered-security-proxy-heres-what-happened-181b)
 <!-- BLOG-POST-LIST:END -->
 
