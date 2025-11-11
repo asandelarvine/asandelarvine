@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Skill Gap Nobody Talks About: Communication in Tech Teams](https://dev.to/careerbytecode/the-skill-gap-nobody-talks-about-communication-in-tech-teams-53ae)
-- [The Future of Cloud Computing: Trends to Watch in 2025](https://dev.to/itcs11/the-future-of-cloud-computing-trends-to-watch-in-2025-17b9)
-- [Getting Started with Requestly Local Workspace for Local Development](https://dev.to/dharmendrasolanki/getting-started-with-requestly-local-workspace-for-local-development-5h0h)
-- [AI Wearables 2025: Smart Health Gadgets That Know You Better Than Ever](https://dev.to/creative_soul_1f7d988fcf9/ai-wearables-2025-smart-health-gadgets-that-know-you-better-than-ever-3kna)
+- [Getting started with Robotics](https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g)
+- [Risk Management in the Age of AI Trading Tools](https://dev.to/globridge-tech/risk-management-in-the-age-of-ai-trading-tools-3lgo)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-47g1)
+- [Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost](https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8)
 <!-- BLOG-POST-LIST:END -->
 
