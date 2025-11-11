@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor Falcon with OpenTelemetry](https://dev.to/uptrace/monitor-falcon-with-opentelemetry-36c0)
-- [How to Create a Responsive Portfolio Website with HTML and CSS Source Code](https://dev.to/uijunkie/responsive-portfolio-website-with-html-and-css-source-code-17li)
-- [DevOps team structures](https://dev.to/_steve_fenton_/devops-team-structures-510j)
-- [Creating and Styling Tables in PDF Documents with C#](https://dev.to/allen_yang_f905170c5a197b/creating-and-styling-tables-in-pdf-documents-with-c-4mn8)
+- [Methods in Java](https://dev.to/vidya_varshini/methods-in-java-5ejp)
+- [Unlocking Business Insights with AWS QuickSight](https://dev.to/smit-vaghasiya/unlocking-business-insights-with-aws-quicksight-2b9f)
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-18nl)
+- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
 <!-- BLOG-POST-LIST:END -->
 
