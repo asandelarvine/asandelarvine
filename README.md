@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting Algorithms Part 3: Linear-Time Sorting, Counting, Radix, and Bucket](https://dev.to/picciniuscodes/sorting-algorithms-part-3-linear-time-sorting-counting-radix-and-bucket-co)
-- [LoRaWAN Temperature and Humidity Monitoring Sensors for GSP Compliance in Pharmaceutical Storage and Transportation](https://dev.to/manthink/lorawan-temperature-and-humidity-monitoring-sensors-for-gsp-compliance-in-pharmaceutical-storage-2c35)
-- [All About the SFP-10G-ZR: Understanding the 1550nm 80km Optical Transceiver Module](https://dev.to/lsolink/all-about-the-sfp-10g-zr-understanding-the-1550nm-80km-optical-transceiver-module-1nie)
-- [Precisamos falar sobre o Hugging Face: o GitHub da Inteligência Artificial](https://dev.to/carineneris/precisamos-falar-sobre-o-hugging-face-o-github-da-inteligencia-artificial-7cn)
+- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
+- [10 Real Problems I Solved With ChatGPT This Month](https://dev.to/jaideepparashar/10-real-problems-i-solved-with-chatgpt-this-month-3lbf)
+- [Building a Vector Database from Scratch - CapybaraDB](https://dev.to/piyush_choudhari_a5b29f7f/building-a-vector-database-from-scratch-capybaradb-ek8)
+- [The 20 Most Essential Tools for Full-Stack Development: Build Anything, Anytime, Anywhere](https://dev.to/softwaredeveloperhub01/the-20-most-essential-tools-for-full-stack-development-build-anything-anytime-anywhere-32mg)
 <!-- BLOG-POST-LIST:END -->
 
