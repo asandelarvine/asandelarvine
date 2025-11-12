@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Any-Depth Alignment: Unlocking Innate Safety Alignment of LLMs to Any-Depth](https://dev.to/paperium/any-depth-alignment-unlocking-innate-safety-alignment-of-llms-to-any-depth-1ii0)
-- [Veri-Helix: making bioinformatics reproducible, one figure at a time](https://dev.to/omniscoder/veri-helix-making-bioinformatics-reproducible-one-figure-at-a-time-1i91)
-- [Bug fix release 2.08 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-208-for-the-perl-distribution-workflow-172e)
-- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
+- [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
+- [blob10](https://dev.to/query_filter_591122b53770/blob10-31bn)
+- [Linux Security Auditing: 5 Hands-On Labs for Rsync Anonymous Sync, SMB Guest Access, and SSH Key Enumeration](https://dev.to/labex/linux-security-auditing-5-hands-on-labs-for-rsync-anonymous-sync-smb-guest-access-and-ssh-key-1p5)
+- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
 <!-- BLOG-POST-LIST:END -->
 
