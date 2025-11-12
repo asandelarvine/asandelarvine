@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Today I Solved: Find the Largest/Smallest Subarray with Sum = K](https://dev.to/prashant_pan_/today-i-solved-find-the-largestsmallest-subarray-with-sum-k-2kc1)
-- [React Hooks for Library Authors](https://dev.to/ctrix/react-hooks-for-library-authors-7ko)
-- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
-- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
+- [This article is for those devs who don&#39;t value QA testing while developing mobile apps.](https://dev.to/devang18/this-article-is-for-those-devs-who-dont-value-qa-testing-while-developing-mobile-apps-44mk)
+- [☁️ My First Wish for Myself](https://dev.to/huynhnhanquoc/my-first-wish-for-myself-ffk)
+- [Day 41 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-41-of-100-days-dsa-coding-challenge-5amd)
+- [Two Years for a Journey](https://dev.to/huynhnhanquoc/two-years-for-a-journey-130f)
 <!-- BLOG-POST-LIST:END -->
 
