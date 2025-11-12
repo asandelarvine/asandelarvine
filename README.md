@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Confidence Meets Production: Lessons from a Missing Slash](https://dev.to/akhilkishore/when-confidence-meets-production-lessons-from-a-missing-slash-3lnf)
-- [Information is not knowledge And Knowledge Is Not Wisdom](https://dev.to/thinking_healer/information-is-not-knowledge-and-knowledge-is-not-wisdom-4p8g)
-- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
-- [When You Should “Wet” Your Code: Why Blindly Following DRY Can Hurt Your Project](https://dev.to/petrtcoi/when-you-should-wet-your-code-why-blindly-following-dry-can-hurt-your-project-5hl2)
+- [Using aria-labelledby for accessible names](https://dev.to/ibn_abubakre/using-aria-labelledby-for-accessible-names-22p4)
+- [How macOS, Linux, and Windows detect file changes &lpar;and why it&#39;s hard to catch them&rpar;](https://dev.to/asoseil/how-macos-linux-and-windows-detect-file-changes-and-why-it-isnt-easy-194m)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4bmo)
+- [AI Detector Review: A Practical Look at Design, Features, and User Value](https://dev.to/lemarie_eaglen_919f8c5982/ai-detector-review-a-practical-look-at-design-features-and-user-value-4p4)
 <!-- BLOG-POST-LIST:END -->
 
