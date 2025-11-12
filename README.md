@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [O time ideal: equilíbrio entre experiência, potencial e colaboração](https://dev.to/andersoncontreira/o-time-ideal-equilibrio-entre-experiencia-potencial-e-colaboracao-1a7)
-- [Compartilhar conhecimento não te faz perder espaço, te faz crescer](https://dev.to/andersoncontreira/compartilhar-conhecimento-nao-te-faz-perder-espaco-te-faz-crescer-7h3)
-- [The Truth About Open Source: It&#39;s Intimidating &lpar;Until You Start&rpar;](https://dev.to/shalinibhavi525sudo/the-truth-about-open-source-its-intimidating-until-you-start-4c6a)
-- [The Rise of Neurolov: A Browser-Based Compute Network Enabling Real Utility for Decentralized AI and Content Workloads](https://dev.to/neurolov__ai/the-rise-of-neurolov-a-browser-based-compute-network-enabling-real-utility-for-decentralized-ai-47ef)
+- [9 Developer Productivity Tools You Wish You Knew Sooner 🔥🧑‍💻](https://dev.to/madza/9-developer-productivity-tools-you-wish-you-knew-sooner-4iee)
+- [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
+- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
+- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
 <!-- BLOG-POST-LIST:END -->
 
