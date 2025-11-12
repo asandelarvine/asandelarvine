@@ -79,9 +79,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Servicios de AWS que un Cloud Security Engineer debe dominar, aunque NO sean &quot;servicios de seguridad&quot; per se](https://dev.to/pangoro24/servicios-de-aws-que-un-cloud-security-engineer-debe-dominar-aunque-no-sean-servicios-de-4bji)
-- [Como Baixar, Quantizar e Rodar um Modelo LLM Localmente no Ollama](https://dev.to/carineneris/como-baixar-quantizar-e-rodar-um-modelo-llm-localmente-no-ollama-1kpi)
-- [Docker](https://dev.to/jumptotech/docker-225l)
-- [Kubernetes](https://dev.to/jumptotech/kubernetes-g9p)
+- [A Self-Hosted Alternative to Cloudflare](https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd)
+- [Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC](https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa)
+- [The Future of AI: Context Engineering in 2025 and Beyond](https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9)
+- [Hey folks, I&#39;ve written a new blog on &quot;Intro to Terraform&quot;
+
+I would love to hear your feedback about it.
+
+Here it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h
+
+Feel free to roast :&rpar;](https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f)
 <!-- BLOG-POST-LIST:END -->
 
