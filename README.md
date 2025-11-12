@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Microservices: 7 Observability Checks Before Launch Published](https://dev.to/budventure_technologies_5/nodejs-microservices-7-observability-checks-before-launch-published-4f9l)
-- [The Critical Role of Phase Estimation in Speech Enhancement under Low SNR Conditions](https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25)
-- [Boost Developer Revenue with Monetzly’s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc)
-- [Fire‑, Heat‑ and Stain‑Resistance of KKR Solid Surface: Performance Review](https://dev.to/guest-post/fire-heat-and-stain-resistance-of-kkr-solid-surface-performance-review-4nlh)
+- [✨ Two New Tools Are Live on QuickZap](https://dev.to/curry_lau_9674447236abfc0/two-new-tools-are-live-on-quickzap-5bdl)
+- [Battery-Powered LoRaWAN Temperature and Humidity Sensor: Balancing Power Efficiency and Real-Time Data](https://dev.to/manthink/battery-powered-lorawan-temperature-and-humidity-sensor-balancing-power-efficiency-and-real-time-59gh)
+- [Navigating the Future of IT: Trends, Challenges, and Opportunities](https://dev.to/itcs11/navigating-the-future-of-it-trends-challenges-and-opportunities-3g4a)
+- [What Is Elasticsearch and How to Set It Up in WordPress](https://dev.to/serveravatar/what-is-elasticsearch-and-how-to-set-it-up-in-wordpress-836)
 <!-- BLOG-POST-LIST:END -->
 
