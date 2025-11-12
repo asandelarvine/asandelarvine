@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Developer Productivity Tools You Wish You Knew Sooner 🔥🧑‍💻](https://dev.to/madza/9-developer-productivity-tools-you-wish-you-knew-sooner-4iee)
-- [Omarchy: A New Linux Distro for Pragmatic Users](https://dev.to/stelixx-insider/omarchy-a-new-linux-distro-for-pragmatic-users-55dp)
-- [&quot;Your Plans Aren&#39;t Realistic&quot;: The Brutal Honesty That Prevents Burnout](https://dev.to/tlorent/your-plans-arent-realistic-the-brutal-honesty-that-prevents-burnout-53lp)
-- [Transforming Manufacturing Intelligence with Snowflake Intelligence: A Complete Solution](https://dev.to/bharaths86/transforming-manufacturing-intelligence-with-snowflake-intelligence-a-complete-solution-3489)
+- [Rick Beato: My European Tour Recap!](https://dev.to/music_youtube/rick-beato-my-european-tour-recap-25ec)
+- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
+- [Pin It or Bin It &lpar;for the brewsters&rpar;](https://dev.to/jl03/pin-it-or-bin-it-for-the-brewsters-4aoe)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c9l)
 <!-- BLOG-POST-LIST:END -->
 
