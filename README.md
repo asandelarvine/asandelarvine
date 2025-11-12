@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Features for Better State Control in WebForms Core 2](https://dev.to/elanatframework/new-features-for-better-state-control-in-webforms-core-2-40g1)
-- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-1cgg)
-- [Tutorial: Building a Podcast Knowledge Base with the Gemini File Search Tool](https://dev.to/googleai/building-a-podcast-ai-with-the-gemini-file-search-tool-1d4l)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
+- [PokeeResearch: Effective Deep Research via Reinforcement Learning from AIFeedback and Robust Reasoning Scaffold](https://dev.to/paperium/pokeeresearch-effective-deep-research-via-reinforcement-learning-from-aifeedback-and-robust-5a0)
+- [AI Content Marketing: 2025&#39;s Game-Changing Strategies](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025s-game-changing-strategies-4mm)
+- [Decoding the Daily Grind: AI That Understands Your Unspoken Routines](https://dev.to/arvind_sundararajan/decoding-the-daily-grind-ai-that-understands-your-unspoken-routines-1m4a)
+- [[Boost]](https://dev.to/gadget/-3fjb)
 <!-- BLOG-POST-LIST:END -->
 
