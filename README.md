@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [full text](https://dev.to/query_filter_591122b53770/full-text-3emj)
-- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
-- [AI&#39;s Achilles Heel: Can We *Prove* Plans Before They Execute?](https://dev.to/arvind_sundararajan/ais-achilles-heel-can-we-prove-plans-before-they-execute-2ba6)
-- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
+- [New Features for Better State Control in WebForms Core 2](https://dev.to/elanatframework/new-features-for-better-state-control-in-webforms-core-2-40g1)
+- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-1cgg)
+- [Tutorial: Building a Podcast Knowledge Base with the Gemini File Search Tool](https://dev.to/googleai/building-a-podcast-ai-with-the-gemini-file-search-tool-1d4l)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
 <!-- BLOG-POST-LIST:END -->
 
