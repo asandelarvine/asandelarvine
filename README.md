@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CNNs: from a beginner&#39;s point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek)
-- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
+- [How I Built a &quot;Community Prayer Quilt&quot; in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
+- [Starting my MBA](https://dev.to/obiako/starting-my-mba-12bl)
+- [Scale Frontend Application: Journey from Zero to Millions of users.](https://dev.to/akashpal/scale-frontend-application-journey-from-zero-to-millions-of-users-1697)
+- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
 <!-- BLOG-POST-LIST:END -->
 
