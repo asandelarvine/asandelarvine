@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Two New Tools Are Live on QuickZap](https://dev.to/curry_lau_9674447236abfc0/two-new-tools-are-live-on-quickzap-5bdl)
-- [Battery-Powered LoRaWAN Temperature and Humidity Sensor: Balancing Power Efficiency and Real-Time Data](https://dev.to/manthink/battery-powered-lorawan-temperature-and-humidity-sensor-balancing-power-efficiency-and-real-time-59gh)
-- [Navigating the Future of IT: Trends, Challenges, and Opportunities](https://dev.to/itcs11/navigating-the-future-of-it-trends-challenges-and-opportunities-3g4a)
-- [What Is Elasticsearch and How to Set It Up in WordPress](https://dev.to/serveravatar/what-is-elasticsearch-and-how-to-set-it-up-in-wordpress-836)
+- [🚀 Introducing ArkenoPlay: Let’s Build Together!](https://dev.to/arkeno-org/introducing-arkenoplay-lets-build-together-3d7a)
+- [Building Software in the Age of AI: The Mindset Shift and the Playbook That Actually Works](https://dev.to/cleberdelima/building-software-in-the-age-of-ai-the-mindset-shift-and-the-playbook-that-actually-works-42jc)
+- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
+- [Chronosphere vs Datadog: Which Observability Platform is Right for You in 2025?](https://dev.to/signoz/chronosphere-vs-datadog-which-observability-platform-is-right-for-you-in-2025-546n)
 <!-- BLOG-POST-LIST:END -->
 
