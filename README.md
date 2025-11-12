@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using aria-labelledby for accessible names](https://dev.to/ibn_abubakre/using-aria-labelledby-for-accessible-names-22p4)
-- [How macOS, Linux, and Windows detect file changes &lpar;and why it&#39;s hard to catch them&rpar;](https://dev.to/asoseil/how-macos-linux-and-windows-detect-file-changes-and-why-it-isnt-easy-194m)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4bmo)
-- [AI Detector Review: A Practical Look at Design, Features, and User Value](https://dev.to/lemarie_eaglen_919f8c5982/ai-detector-review-a-practical-look-at-design-features-and-user-value-4p4)
+- [7 Projects to Master Frontend Development](https://dev.to/hashbyt/7-projects-to-master-frontend-development-ag0)
+- [The Rise of AI in Everyday Applications](https://dev.to/itcs11/the-rise-of-ai-in-everyday-applications-4i3b)
+- [How to Use Batch Background Color Editing to Match Brand Palettes Easily](https://dev.to/arzoo/how-to-use-batch-background-color-editing-to-match-brand-palettes-easily-25ld)
+- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
 <!-- BLOG-POST-LIST:END -->
 
