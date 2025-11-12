@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How OLSRT breaks languages barriers?](https://dev.to/javadinteger/how-olsrt-breaks-languages-barriers-40o3)
-- [blob19](https://dev.to/query_filter_591122b53770/blob19-gb3)
-- [Masonry Grid Goes CSS-Only: An Experimental Approach](https://dev.to/dangreen/masonry-grid-goes-css-only-an-experimental-approach-527c)
-- [Can I using OLSRT in my project?](https://dev.to/javadinteger/can-i-using-olsrt-to-my-project-129p)
+- [full text](https://dev.to/query_filter_591122b53770/full-text-3emj)
+- [Building an ICO on Canton Network](https://dev.to/dennisonbertram/building-an-ico-on-canton-network-2a31)
+- [AI&#39;s Achilles Heel: Can We *Prove* Plans Before They Execute?](https://dev.to/arvind_sundararajan/ais-achilles-heel-can-we-prove-plans-before-they-execute-2ba6)
+- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
 <!-- BLOG-POST-LIST:END -->
 
