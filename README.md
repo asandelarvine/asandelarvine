@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperClaude: Tu Agente de IA ya no es Junior, Ahora es Arquitecto y se Sube al Stack.](https://dev.to/barrilitodev/superclaude-tu-agente-de-ia-ya-no-es-junior-ahora-es-arquitecto-y-se-sube-al-stack-7ee)
-- [blob10](https://dev.to/query_filter_591122b53770/blob10-31bn)
-- [Linux Security Auditing: 5 Hands-On Labs for Rsync Anonymous Sync, SMB Guest Access, and SSH Key Enumeration](https://dev.to/labex/linux-security-auditing-5-hands-on-labs-for-rsync-anonymous-sync-smb-guest-access-and-ssh-key-1p5)
-- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
+- [CNNs: from a beginner&#39;s point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek)
+- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
 <!-- BLOG-POST-LIST:END -->
 
