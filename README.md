@@ -79,15 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Self-Hosted Alternative to Cloudflare](https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd)
-- [Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC](https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa)
-- [The Future of AI: Context Engineering in 2025 and Beyond](https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9)
-- [Hey folks, I&#39;ve written a new blog on &quot;Intro to Terraform&quot;
-
-I would love to hear your feedback about it.
-
-Here it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h
-
-Feel free to roast :&rpar;](https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f)
+- [Sridhar Vembu: Redefining Leadership in the Age of Noise](https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6)
+- [The Psychology Behind Powerful Prompts](https://dev.to/jaideepparashar/the-psychology-behind-powerful-prompts-gof)
+- [📐 Material 3 Adaptive: Implementing Window Size Classes in Kotlin Compose](https://dev.to/marlonlom/material-3-adaptive-implementing-window-size-classes-in-kotlin-compose-40po)
+- [Gerenciamento seguro e eficiente de tokens com Go e Redis](https://dev.to/cvilanova76/gerenciamento-seguro-e-eficiente-de-tokens-com-go-e-redis-432d)
 <!-- BLOG-POST-LIST:END -->
 
