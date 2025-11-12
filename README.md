@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Projects to Master Frontend Development](https://dev.to/hashbyt/7-projects-to-master-frontend-development-ag0)
-- [The Rise of AI in Everyday Applications](https://dev.to/itcs11/the-rise-of-ai-in-everyday-applications-4i3b)
-- [How to Use Batch Background Color Editing to Match Brand Palettes Easily](https://dev.to/arzoo/how-to-use-batch-background-color-editing-to-match-brand-palettes-easily-25ld)
-- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
+- [O time ideal: equilíbrio entre experiência, potencial e colaboração](https://dev.to/andersoncontreira/o-time-ideal-equilibrio-entre-experiencia-potencial-e-colaboracao-1a7)
+- [Compartilhar conhecimento não te faz perder espaço, te faz crescer](https://dev.to/andersoncontreira/compartilhar-conhecimento-nao-te-faz-perder-espaco-te-faz-crescer-7h3)
+- [The Truth About Open Source: It&#39;s Intimidating &lpar;Until You Start&rpar;](https://dev.to/shalinibhavi525sudo/the-truth-about-open-source-its-intimidating-until-you-start-4c6a)
+- [The Rise of Neurolov: A Browser-Based Compute Network Enabling Real Utility for Decentralized AI and Content Workloads](https://dev.to/neurolov__ai/the-rise-of-neurolov-a-browser-based-compute-network-enabling-real-utility-for-decentralized-ai-47ef)
 <!-- BLOG-POST-LIST:END -->
 
