@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This article is for those devs who don&#39;t value QA testing while developing mobile apps.](https://dev.to/devang18/this-article-is-for-those-devs-who-dont-value-qa-testing-while-developing-mobile-apps-44mk)
-- [☁️ My First Wish for Myself](https://dev.to/huynhnhanquoc/my-first-wish-for-myself-ffk)
-- [Day 41 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-41-of-100-days-dsa-coding-challenge-5amd)
-- [Two Years for a Journey](https://dev.to/huynhnhanquoc/two-years-for-a-journey-130f)
+- [NodeJS Microservices: 7 Observability Checks Before Launch Published](https://dev.to/budventure_technologies_5/nodejs-microservices-7-observability-checks-before-launch-published-4f9l)
+- [The Critical Role of Phase Estimation in Speech Enhancement under Low SNR Conditions](https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25)
+- [Boost Developer Revenue with Monetzly’s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc)
+- [Fire‑, Heat‑ and Stain‑Resistance of KKR Solid Surface: Performance Review](https://dev.to/guest-post/fire-heat-and-stain-resistance-of-kkr-solid-surface-performance-review-4nlh)
 <!-- BLOG-POST-LIST:END -->
 
