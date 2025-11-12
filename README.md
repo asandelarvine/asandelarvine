@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Legacy Windows to AI Agent: The Journey of MintBridge to REMI &lpar;Final PoC&rpar;](https://dev.to/jramone3/from-legacy-windows-to-ai-agent-the-journey-of-mintbridge-to-remi-final-poc-4mm1)
-- [The next machine learning startup is in your front yard](https://dev.to/leon_lin_s/the-next-machine-learning-startup-is-in-your-front-yard-hg9)
-- [Efficient Android Screen Recording Using MediaRecorder + MediaProjection](https://dev.to/cat_dogrunning_in_the_s/efficient-android-screen-recording-using-mediarecorder-mediaprojection-27ib)
-- [Enclave Games Monthly Report: October 2025](https://dev.to/end3r/enclave-games-monthly-report-october-2025-12k3)
+- [Any-Depth Alignment: Unlocking Innate Safety Alignment of LLMs to Any-Depth](https://dev.to/paperium/any-depth-alignment-unlocking-innate-safety-alignment-of-llms-to-any-depth-1ii0)
+- [Veri-Helix: making bioinformatics reproducible, one figure at a time](https://dev.to/omniscoder/veri-helix-making-bioinformatics-reproducible-one-figure-at-a-time-1i91)
+- [Bug fix release 2.08 for the Perl Distribution Workflow](https://dev.to/jonasbn/bug-fix-release-208-for-the-perl-distribution-workflow-172e)
+- [OOP Under the Hood: Prototypes, new, and More](https://dev.to/karensantana/oop-under-the-hood-prototypes-new-and-more-4mh)
 <!-- BLOG-POST-LIST:END -->
 
