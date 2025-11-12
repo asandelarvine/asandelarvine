@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing ArkenoPlay: Let’s Build Together!](https://dev.to/arkeno-org/introducing-arkenoplay-lets-build-together-3d7a)
-- [Building Software in the Age of AI: The Mindset Shift and the Playbook That Actually Works](https://dev.to/cleberdelima/building-software-in-the-age-of-ai-the-mindset-shift-and-the-playbook-that-actually-works-42jc)
-- [Top 9 Lightstep &lpar;ServiceNow&rpar; Alternatives in 2025 &lpar;And How to Migrate&rpar;](https://dev.to/signoz/top-9-lightstep-servicenow-alternatives-in-2025-and-how-to-migrate-5135)
-- [Chronosphere vs Datadog: Which Observability Platform is Right for You in 2025?](https://dev.to/signoz/chronosphere-vs-datadog-which-observability-platform-is-right-for-you-in-2025-546n)
+- [When Confidence Meets Production: Lessons from a Missing Slash](https://dev.to/akhilkishore/when-confidence-meets-production-lessons-from-a-missing-slash-3lnf)
+- [Information is not knowledge And Knowledge Is Not Wisdom](https://dev.to/thinking_healer/information-is-not-knowledge-and-knowledge-is-not-wisdom-4p8g)
+- [Build an AI Summarizer Agent in TypeScript Using Mastra &lpar;Part 2&rpar;: Connect to Frontend](https://dev.to/timmydee/build-an-ai-summarizer-agent-in-typescript-using-mastra-part-2-connect-to-frontend-9om)
+- [When You Should “Wet” Your Code: Why Blindly Following DRY Can Hurt Your Project](https://dev.to/petrtcoi/when-you-should-wet-your-code-why-blindly-following-dry-can-hurt-your-project-5hl2)
 <!-- BLOG-POST-LIST:END -->
 
