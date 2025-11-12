@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sridhar Vembu: Redefining Leadership in the Age of Noise](https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6)
-- [The Psychology Behind Powerful Prompts](https://dev.to/jaideepparashar/the-psychology-behind-powerful-prompts-gof)
-- [📐 Material 3 Adaptive: Implementing Window Size Classes in Kotlin Compose](https://dev.to/marlonlom/material-3-adaptive-implementing-window-size-classes-in-kotlin-compose-40po)
-- [Gerenciamento seguro e eficiente de tokens com Go e Redis](https://dev.to/cvilanova76/gerenciamento-seguro-e-eficiente-de-tokens-com-go-e-redis-432d)
+- [🚀 Today I Solved: Find the Largest/Smallest Subarray with Sum = K](https://dev.to/prashant_pan_/today-i-solved-find-the-largestsmallest-subarray-with-sum-k-2kc1)
+- [React Hooks for Library Authors](https://dev.to/ctrix/react-hooks-for-library-authors-7ko)
+- [It&#39;s 2025. You Should Probably Be Using Expo for React Native.](https://dev.to/devi_green_00f82b6d705/its-2025-you-should-probably-be-using-expo-for-react-native-407a)
+- [Understanding L1 DevOps: The First Line of Support in Modern Operations](https://dev.to/srinivasamcjf/understanding-l1-devops-the-first-line-of-support-in-modern-operations-5fff)
 <!-- BLOG-POST-LIST:END -->
 
