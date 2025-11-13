@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
-- [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
-- [boing de mango](https://dev.to/hary_valentinobeltranhe/gh-3kho)
-- [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
+- [Weaning Woes](https://dev.to/jennyli/weaning-woes-5f86)
+- [Flutter Stateful Widget on the Backend](https://dev.to/horda/flutter-stateful-widget-on-the-backend-3dho)
+- [Build a Smart Object Detection Alarm with Arduino &amp; HC-SR04 Sensor – Full Tutorial](https://dev.to/elmerurbina/build-a-smart-object-detection-alarm-with-arduino-hc-sr04-sensor-full-tutorial-39da)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2kbg)
 <!-- BLOG-POST-LIST:END -->
 
