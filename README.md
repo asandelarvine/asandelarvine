@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
-- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
-- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
-- [How to Monetize Your Coding Skills by Building Niche Web Apps](https://dev.to/softwaredeveloperhub01/how-to-monetize-your-coding-skills-by-building-niche-web-apps-25pb)
+- [🚀 Scaling Up: Why I Chose FastAPI Over Flask and Django for a Data API](https://dev.to/roberttidball/scaling-up-why-i-chose-fastapi-over-flask-and-django-for-a-data-api-1phi)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-2l00)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-24n0)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2b44)
 <!-- BLOG-POST-LIST:END -->
 
