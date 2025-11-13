@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Available across the whole Forem network and self-hosted instances if configured](https://dev.to/ben/available-across-the-whole-forem-network-and-self-hosted-instances-if-configured-1m0b)
-- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
-- [The &quot;Vibe-Coding&quot; Epidemic](https://dev.to/codalio/the-vibe-coding-epidemic-c86)
-- [🚨 Lighthouse: A Minimal PHP Framework That Actually Gets Out of Your Way](https://dev.to/maxyterb/lighthouse-a-minimal-php-framework-that-actually-gets-out-of-your-way-3f37)
+- [Model Driven App: disable &quot;Open in Excel Online&quot; button](https://dev.to/_neronotte/model-driven-app-disable-open-in-excel-online-button-15j9)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
+- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
+- [Why Coursiv Believes the Developer of the Future Is Also a Teacher](https://dev.to/allenbailey25/why-coursiv-believes-the-developer-of-the-future-is-also-a-teacher-2n97)
 <!-- BLOG-POST-LIST:END -->
 
