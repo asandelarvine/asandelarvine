@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Async &amp; Concurrency: The React 18+ &amp; Next.js Paradigm Shift](https://dev.to/mahdardavari/mastering-async-concurrency-the-react-18-nextjs-paradigm-shift-30j9)
-- [How to obtain the public key and signature fingerprint for APP platform filling?](https://dev.to/harmonyos/how-to-obtain-the-public-key-and-signature-fingerprint-for-app-platform-filling-26mi)
-- [Why Continuous Learning Is the Secret to Long-Term Career Growth](https://dev.to/iteyonikservices/why-continuous-learning-is-the-secret-to-long-term-career-growth-2bjk)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-d6j)
+- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
+- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
+- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
+- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
 <!-- BLOG-POST-LIST:END -->
 
