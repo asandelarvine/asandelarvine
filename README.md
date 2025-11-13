@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weaning Woes](https://dev.to/jennyli/weaning-woes-5f86)
-- [Flutter Stateful Widget on the Backend](https://dev.to/horda/flutter-stateful-widget-on-the-backend-3dho)
-- [Build a Smart Object Detection Alarm with Arduino &amp; HC-SR04 Sensor – Full Tutorial](https://dev.to/elmerurbina/build-a-smart-object-detection-alarm-with-arduino-hc-sr04-sensor-full-tutorial-39da)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2kbg)
+- [A Clean, Driver-Aware ORM Architecture in PHP](https://dev.to/dev_iadicola/a-clean-driver-aware-orm-architecture-in-php-20h2)
+- [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
+- [form10](https://dev.to/query_filter_591122b53770/form10-568j)
+- [Stop Writing Snippets: The Real Power of LLMs Is Fixing Your Code &lpar;Refactoring &amp; Patching&rpar;](https://dev.to/finetuned_news/stop-writing-snippets-the-real-power-of-llms-is-fixing-your-code-refactoring-patching-1ga)
 <!-- BLOG-POST-LIST:END -->
 
