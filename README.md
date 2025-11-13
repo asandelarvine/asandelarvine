@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-197i)
-- [I Built a Voice-Controlled Plant Sitter in Python with Goose &amp; Gemini CLI](https://dev.to/smyekh/i-built-a-voice-controlled-plant-sitter-in-python-with-goose-gemini-cli-5g29)
-- [Thread Pool](https://dev.to/min38/thread-pool-3ema)
-- [Steps on how to create Virtual Machine](https://dev.to/baris86/steps-on-how-to-create-virtual-machine-571b)
+- [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
+- [Building a Duolingo-Style Interactive Mascot in Rive: Step-by-Step Guide](https://dev.to/uianimation/building-a-duolingo-style-interactive-mascot-in-rive-step-by-step-guide-2d5c)
+- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
+- [A Practical Guide to Kubernetes Stateful Backup and Recovery](https://dev.to/aws-builders/a-practical-guide-to-kubernetes-stateful-backup-and-recovery-5e9e)
 <!-- BLOG-POST-LIST:END -->
 
