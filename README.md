@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building My First Full-Stack Todo App with React + Supabase ⚛️](https://dev.to/sripadh_sujith_1487e8db18/building-my-first-full-stack-todo-app-with-react-supabase-1pg8)
-- [Think. Update. Automate — PostgreSQL with Rust &lpar;Part 2&rpar;](https://dev.to/manjushaps/think-update-automate-postgresql-with-rust-part-2-4ml8)
-- [How To Build a Frontend with Lovable.dev for Your Strapi Backend](https://dev.to/strapi/how-to-build-a-frontend-with-lovabledev-for-your-strapi-backend-3f22)
-- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
+- [Building a Simple Personal Library with Python: My Experience from Zero to Execution](https://dev.to/shahrouzlogs/building-a-simple-personal-library-with-python-my-experience-from-zero-to-execution-fge)
+- [BetterAuth Integration with Encore.ts](https://dev.to/encore/betterauth-integration-with-encorets-103c)
+- [From raw bytes to 3D worlds: visualizing LiDAR data with Python](https://dev.to/stefan_donosa/from-raw-bytes-to-3d-worlds-visualizing-lidar-data-with-python-24bo)
+- [Reverse Engineering the M1C1 LiDAR: cracking the protocol without documentation](https://dev.to/stefan_donosa/reverse-engineering-the-m1c1-lidar-cracking-the-protocol-without-documentation-3ji0)
 <!-- BLOG-POST-LIST:END -->
 
