@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PokeeResearch: Effective Deep Research via Reinforcement Learning from AIFeedback and Robust Reasoning Scaffold](https://dev.to/paperium/pokeeresearch-effective-deep-research-via-reinforcement-learning-from-aifeedback-and-robust-5a0)
-- [AI Content Marketing: 2025&#39;s Game-Changing Strategies](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025s-game-changing-strategies-4mm)
-- [Decoding the Daily Grind: AI That Understands Your Unspoken Routines](https://dev.to/arvind_sundararajan/decoding-the-daily-grind-ai-that-understands-your-unspoken-routines-1m4a)
-- [[Boost]](https://dev.to/gadget/-3fjb)
+- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
+- [Day 1265 : Myself](https://dev.to/dwane/day-1265-myself-4e9g)
+- [When Correct Is Not Safe: Can We Trust Functionally Correct Patches Generatedby Code Agents?](https://dev.to/paperium/when-correct-is-not-safe-can-we-trust-functionally-correct-patches-generatedby-code-agents-jih)
+- [Manage GitHub Secrets Across Repositories for Free](https://dev.to/picoable/manage-github-secrets-across-repositories-for-free-57dm)
 <!-- BLOG-POST-LIST:END -->
 
