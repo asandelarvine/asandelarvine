@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Driven App: disable &quot;Open in Excel Online&quot; button](https://dev.to/_neronotte/model-driven-app-disable-open-in-excel-online-button-15j9)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
-- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
-- [Why Coursiv Believes the Developer of the Future Is Also a Teacher](https://dev.to/allenbailey25/why-coursiv-believes-the-developer-of-the-future-is-also-a-teacher-2n97)
+- [Variable and Objects in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/variable-and-objects-in-java-48io)
+- [AI in Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025-strategy-guide-3j30)
+- [5 Money Metrics Every Digital Professional Should Track](https://dev.to/luketaylor25/5-money-metrics-every-digital-professional-should-track-44km)
+- [# 🛠️ Fixing “No Valid Android SDK Root Found” Error in WSL &lpar;Ubuntu&rpar;](https://dev.to/kabahima/-fixing-no-valid-android-sdk-root-found-error-in-wsl-ubuntu-361o)
 <!-- BLOG-POST-LIST:END -->
 
