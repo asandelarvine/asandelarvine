@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Variable and Objects in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/variable-and-objects-in-java-48io)
-- [AI in Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-in-content-marketing-2025-strategy-guide-3j30)
-- [5 Money Metrics Every Digital Professional Should Track](https://dev.to/luketaylor25/5-money-metrics-every-digital-professional-should-track-44km)
-- [# 🛠️ Fixing “No Valid Android SDK Root Found” Error in WSL &lpar;Ubuntu&rpar;](https://dev.to/kabahima/-fixing-no-valid-android-sdk-root-found-error-in-wsl-ubuntu-361o)
+- [MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses](https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda)
+- [UI &amp; UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura](https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif)
+- [Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs](https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0)
 <!-- BLOG-POST-LIST:END -->
 
