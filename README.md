@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch a Profitable Online Clothing Brand in 2025](https://dev.to/creative_soul_1f7d988fcf9/how-to-launch-a-profitable-online-clothing-brand-in-2025-4edk)
-- [The future of Mobile Apps in the era of Agentic AI](https://dev.to/priya_negi_9ffd29931ea408/the-future-of-mobile-apps-in-the-era-of-agentic-ai-2fjd)
-- [The Journey of Wowzers: Creativity, Challenges, and Our Future](https://dev.to/carter_flynn_7e3f50b8c386/the-journey-of-wowzers-creativity-challenges-and-our-future-3cfj)
-- [🧠 How User-Space and Kernel-Space Affect Security in Linux](https://dev.to/secbyshresth/how-user-space-and-kernel-space-affect-security-in-linux-18an)
+- [Understanding AI Agents: Compilers of Human Intent](https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834)
+- [Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear](https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e)
+- [Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?](https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k)
+- [Efficient S3 File Uploads: Speed &amp; Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4)
 <!-- BLOG-POST-LIST:END -->
 
