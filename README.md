@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
-- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
-- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
-- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
+- [Bicycles Are All Your AI Agents Need](https://dev.to/cloudx/bicycles-are-all-your-ai-agents-need-33cc)
+- [What’s a project you’re genuinely proud of?](https://dev.to/madsendev/whats-a-project-youre-genuinely-proud-of-1k4f)
+- [Top 10 Portfolio Project Ideas for Beginner Developers &lpar;Each With Real-World Use Cases&rpar;](https://dev.to/dhruvjoshi9/top-10-portfolio-project-ideas-for-beginner-developers-each-with-real-world-use-cases-1emb)
+- [Fixing Failing Tests Automatically with Playwright’s New Healer Agent](https://dev.to/debs_obrien/fixing-failing-tests-automatically-with-playwrights-new-healer-agent-13ck)
 <!-- BLOG-POST-LIST:END -->
 
