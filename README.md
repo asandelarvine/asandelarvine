@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Personal Library with Python: My Experience from Zero to Execution](https://dev.to/shahrouzlogs/building-a-simple-personal-library-with-python-my-experience-from-zero-to-execution-fge)
-- [BetterAuth Integration with Encore.ts](https://dev.to/encore/betterauth-integration-with-encorets-103c)
-- [From raw bytes to 3D worlds: visualizing LiDAR data with Python](https://dev.to/stefan_donosa/from-raw-bytes-to-3d-worlds-visualizing-lidar-data-with-python-24bo)
-- [Reverse Engineering the M1C1 LiDAR: cracking the protocol without documentation](https://dev.to/stefan_donosa/reverse-engineering-the-m1c1-lidar-cracking-the-protocol-without-documentation-3ji0)
+- [Available across the whole Forem network and self-hosted instances if configured](https://dev.to/ben/available-across-the-whole-forem-network-and-self-hosted-instances-if-configured-1m0b)
+- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
+- [The &quot;Vibe-Coding&quot; Epidemic](https://dev.to/codalio/the-vibe-coding-epidemic-c86)
+- [🚨 Lighthouse: A Minimal PHP Framework That Actually Gets Out of Your Way](https://dev.to/maxyterb/lighthouse-a-minimal-php-framework-that-actually-gets-out-of-your-way-3f37)
 <!-- BLOG-POST-LIST:END -->
 
