@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-ba)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1o9b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-57mi)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-1g50)
+- [Self-Hosted Web Application Firewall for My Homelab](https://dev.to/arina_cholee/self-hosted-web-application-firewall-for-my-homelab-58oa)
+- [Spring Boot LogX — Free Request Tracing &amp; Smart Logging Boilerplate for Clean, Debuggable APIs](https://dev.to/boiler_agents/spring-boot-logx-free-request-tracing-smart-logging-boilerplate-for-clean-debuggable-apis-22f7)
+- [Everything about Next.js 16](https://dev.to/alex-beygi/everything-about-nextjs-16-2fg3)
+- [Building Reliable Legal AI: Never Missing a Supreme Court Case](https://dev.to/pascal_cescato_692b7a8a20/building-legal-ai-that-doesnt-miss-supreme-court-cases-5aec)
 <!-- BLOG-POST-LIST:END -->
 
