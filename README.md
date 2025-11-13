@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work](https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0)
-- [Day 1265 : Myself](https://dev.to/dwane/day-1265-myself-4e9g)
-- [When Correct Is Not Safe: Can We Trust Functionally Correct Patches Generatedby Code Agents?](https://dev.to/paperium/when-correct-is-not-safe-can-we-trust-functionally-correct-patches-generatedby-code-agents-jih)
-- [Manage GitHub Secrets Across Repositories for Free](https://dev.to/picoable/manage-github-secrets-across-repositories-for-free-57dm)
+- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
+- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
+- [Taming Complexity: Unleashing Evolutionary Algorithms for System Modeling](https://dev.to/arvind_sundararajan/taming-complexity-unleashing-evolutionary-algorithms-for-system-modeling-52lb)
+- [How to Monetize Your Coding Skills by Building Niche Web Apps](https://dev.to/softwaredeveloperhub01/how-to-monetize-your-coding-skills-by-building-niche-web-apps-25pb)
 <!-- BLOG-POST-LIST:END -->
 
