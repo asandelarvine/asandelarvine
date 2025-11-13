@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Go&#39;s context Package: A Guide to Proper Usage](https://dev.to/idrisakintobi/understanding-gos-context-package-a-guide-to-proper-usage-341h)
-- [Building a Duolingo-Style Interactive Mascot in Rive: Step-by-Step Guide](https://dev.to/uianimation/building-a-duolingo-style-interactive-mascot-in-rive-step-by-step-guide-2d5c)
-- [Optimizing In-Browser PDF Rendering/Viewing](https://dev.to/joyfill/optimizing-in-browser-pdf-renderingviewing-22g3)
-- [A Practical Guide to Kubernetes Stateful Backup and Recovery](https://dev.to/aws-builders/a-practical-guide-to-kubernetes-stateful-backup-and-recovery-5e9e)
+- [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
+- [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
+- [boing de mango](https://dev.to/hary_valentinobeltranhe/gh-3kho)
+- [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
 <!-- BLOG-POST-LIST:END -->
 
