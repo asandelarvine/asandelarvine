@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Web Application Firewall for My Homelab](https://dev.to/arina_cholee/self-hosted-web-application-firewall-for-my-homelab-58oa)
-- [Spring Boot LogX — Free Request Tracing &amp; Smart Logging Boilerplate for Clean, Debuggable APIs](https://dev.to/boiler_agents/spring-boot-logx-free-request-tracing-smart-logging-boilerplate-for-clean-debuggable-apis-22f7)
-- [Everything about Next.js 16](https://dev.to/alex-beygi/everything-about-nextjs-16-2fg3)
-- [Building Reliable Legal AI: Never Missing a Supreme Court Case](https://dev.to/pascal_cescato_692b7a8a20/building-legal-ai-that-doesnt-miss-supreme-court-cases-5aec)
+- [Mastering Async &amp; Concurrency: The React 18+ &amp; Next.js Paradigm Shift](https://dev.to/mahdardavari/mastering-async-concurrency-the-react-18-nextjs-paradigm-shift-30j9)
+- [How to obtain the public key and signature fingerprint for APP platform filling?](https://dev.to/harmonyos/how-to-obtain-the-public-key-and-signature-fingerprint-for-app-platform-filling-26mi)
+- [Why Continuous Learning Is the Secret to Long-Term Career Growth](https://dev.to/iteyonikservices/why-continuous-learning-is-the-secret-to-long-term-career-growth-2bjk)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-d6j)
 <!-- BLOG-POST-LIST:END -->
 
