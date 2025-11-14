@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
-- [The Core of Reactivity: 4 Native JavaScript State Management Patterns](https://dev.to/tjcoding/the-core-of-reactivity-4-native-javascript-state-management-patterns-5ejm)
-- [Ruby PORO Explained: How Plain Old Ruby Objects Make Your Code Better](https://dev.to/zilton7/ruby-poro-explained-how-plain-old-ruby-objects-make-your-code-better-40n3)
-- [Setting Up CI, Automated Testing, and Linting for My share-my-repo Project](https://dev.to/hsachdeva9/setting-up-ci-automated-testing-and-linting-for-my-share-my-repo-project-2caj)
+- [Learning React.....](https://dev.to/sourav_mahato_3900/learning-react-i8c)
+- [Stop npm i-ing Blind: How I Catch Malicious Packages Before They Hit Production](https://dev.to/block_hacks/stop-npm-i-ing-blind-how-i-catch-malicious-packages-before-they-hit-production-1c29)
+- [What is JavaScript?](https://dev.to/s_sarumathi_a1de306480d33/what-is-javascript-2cjc)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2cc2)
 <!-- BLOG-POST-LIST:END -->
 
