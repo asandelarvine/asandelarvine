@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.](https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd)
-- [🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers](https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o)
-- [Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations](https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib)
-- [Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨](https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn)
+- [Dumb*** business ideas](https://dev.to/elysionmind/dumb-business-ideas-4mck)
+- [Accelerating Vision Transformers with Adaptive Patch Sizes](https://dev.to/paperium/accelerating-vision-transformers-with-adaptive-patch-sizes-9e7)
+- [The Complete Google Cloud Learning Roadmap for 2026: Certifications, Courses &amp; Skills You Need](https://dev.to/rohan_jee_085655230/the-complete-google-cloud-learning-roadmap-for-2026-certifications-courses-skills-you-need-2095)
+- [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
 <!-- BLOG-POST-LIST:END -->
 
