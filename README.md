@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
-- [React 19: A Comprehensive Technical Guide with Code Examples](https://dev.to/collins_oromoni_c3bdc3b02/react-19-a-comprehensive-technical-guide-with-code-examples-22d3)
-- [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
-- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
+- [Amazon DocumentDB New Query Planner](https://dev.to/aws-heroes/amazon-documentdb-new-query-planner-2dh0)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1epd)
+- [Bridging the Abstraction Gap: Formalizing Complex Systems with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/bridging-the-abstraction-gap-formalizing-complex-systems-with-ai-by-arvind-sundararajan-12n2)
+- [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
 <!-- BLOG-POST-LIST:END -->
 
