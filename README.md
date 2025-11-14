@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Log Analyser with RAG](https://dev.to/austincunningham/building-an-ai-powered-log-analyser-with-rag-1hn3)
-- [AI Will Widen the Gap Between Good and Great Developers](https://dev.to/kedar_dangal/ai-will-widen-the-gap-between-good-and-great-developers-3gck)
-- [Bot Defense Case Study: Real-World Traffic Comparison with SafeLine WAF](https://dev.to/carrie_luo1/bot-defense-case-study-real-world-traffic-comparison-with-safeline-waf-72c)
-- [Edge Computing for Real-Time Data Processing](https://dev.to/techieflynn/edge-computing-for-real-time-data-processing-42md)
+- [Retro vibes with LLMs](https://dev.to/allramest83/retro-vibes-with-llms-3eek)
+- [From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure](https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e)
+- [🚀 Managing Media Files with MinIO and Podman](https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701)
+- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
 <!-- BLOG-POST-LIST:END -->
 
