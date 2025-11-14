@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 14th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-november-2025-2ngm)
-- [The Complete Guide to NLP Text Preprocessing: Tokenization, Normalization, Stemming, Lemmatization, and More](https://dev.to/themustaphatijani/the-complete-guide-to-nlp-text-preprocessing-tokenization-normalization-stemming-lemmatization-50ap)
-- [Transform Your SDK Integration with Monetzly&#39;s Ad Solutions](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ad-solutions-2c5m)
-- [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://dev.to/paperium/deepwidesearch-benchmarking-depth-and-width-in-agentic-information-seeking-bc9)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
+- [React 19: A Comprehensive Technical Guide with Code Examples](https://dev.to/collins_oromoni_c3bdc3b02/react-19-a-comprehensive-technical-guide-with-code-examples-22d3)
+- [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
+- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
 <!-- BLOG-POST-LIST:END -->
 
