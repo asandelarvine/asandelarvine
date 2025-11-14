@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android::Bluetooth](https://dev.to/minwook/androidbluetooth-1b8m)
-- [Rekichizu: A Modern Take on Japan&#39;s Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)
-- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide &lpar;2025 Edition&rpar;](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)
-- [How to Choose Right Test Management Platform](https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb)
+- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
+- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
+- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
+- [How to Implement Swiper in HarmonyOS](https://dev.to/harmonyos/how-to-implement-swiper-in-harmonyos-1kd5)
 <!-- BLOG-POST-LIST:END -->
 
