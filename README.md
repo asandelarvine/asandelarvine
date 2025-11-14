@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Guide to Earning Passive Income Through SaaS](https://dev.to/softwaredeveloperhub01/the-developers-guide-to-earning-passive-income-through-saas-5ap)
-- [Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs inMultimodal LLMs](https://dev.to/paperium/text-or-pixels-it-takes-half-on-the-token-efficiency-of-visual-text-inputs-inmultimodal-llms-j0d)
-- [Untitled](https://dev.to/aee_24_9016552015fca58303/untitled-57nj)
-- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
+- [Security news weekly round-up - 14th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-14th-november-2025-2ngm)
+- [The Complete Guide to NLP Text Preprocessing: Tokenization, Normalization, Stemming, Lemmatization, and More](https://dev.to/themustaphatijani/the-complete-guide-to-nlp-text-preprocessing-tokenization-normalization-stemming-lemmatization-50ap)
+- [Transform Your SDK Integration with Monetzly&#39;s Ad Solutions](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ad-solutions-2c5m)
+- [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://dev.to/paperium/deepwidesearch-benchmarking-depth-and-width-in-agentic-information-seeking-bc9)
 <!-- BLOG-POST-LIST:END -->
 
