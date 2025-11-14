@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freelance Devs: How to Land Your First High-Paying Client Without Stress](https://dev.to/softwaredeveloperhub01/freelance-devs-how-to-land-your-first-high-paying-client-without-stress-25mp)
-- [How to Scale Automated Testing with Open Source Testing Tools?](https://dev.to/sophielane/how-to-scale-automated-testing-with-open-source-testing-tools-39a7)
-- [Cursor vs Replit: Which Platform Offers Better AI-Assisted Development?](https://dev.to/nayeem79/cursor-vs-replit-which-platform-offers-better-ai-assisted-development-3fdd)
-- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
+- [Android::Bluetooth](https://dev.to/minwook/androidbluetooth-1b8m)
+- [Rekichizu: A Modern Take on Japan&#39;s Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp)
+- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide &lpar;2025 Edition&rpar;](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn)
+- [How to Choose Right Test Management Platform](https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb)
 <!-- BLOG-POST-LIST:END -->
 
