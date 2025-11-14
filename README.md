@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
-- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
-- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
-- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
+- [How to Install OpenAPI &lpar;Swagger&rpar; Editor Plugin in Eclipse Offline](https://dev.to/rinaxsumomo/how-to-install-openapi-swagger-editor-in-eclipse-offline-2d79)
+- [How Skapi Helped Me Finally Get a Raise with Just 15 Minutes of Code](https://dev.to/skapi_api/how-skapi-helped-me-finally-get-a-raise-with-just-15-minutes-of-code-58ab)
+- [Πώς το Azure Front Door Μοιράζει Έξυπνα την Παγκόσμια Κίνηση και Διατηρεί τις Εφαρμογές Πάντα Διαθέσιμες](https://dev.to/__b63657/pos-to-azure-front-door-moirazei-exupna-ten-pagkosmia-kinese-kai-diaterei-tis-epharmoges-panta-33h5)
+- [Rick Beato: This AI Song Just Went Number 1...FOR REAL](https://dev.to/music_youtube/rick-beato-this-ai-song-just-went-number-1for-real-dgm)
 <!-- BLOG-POST-LIST:END -->
 
