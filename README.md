@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Clean, Driver-Aware ORM Architecture in PHP](https://dev.to/dev_iadicola/a-clean-driver-aware-orm-architecture-in-php-20h2)
-- [How to make Angular Material inputs look like simple fields](https://dev.to/dhutaryan/how-to-make-angular-material-inputs-look-like-simple-fields-3oe5)
-- [form10](https://dev.to/query_filter_591122b53770/form10-568j)
-- [Stop Writing Snippets: The Real Power of LLMs Is Fixing Your Code &lpar;Refactoring &amp; Patching&rpar;](https://dev.to/finetuned_news/stop-writing-snippets-the-real-power-of-llms-is-fixing-your-code-refactoring-patching-1ga)
+- [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://dev.to/paperium/coloragent-building-a-robust-personalized-and-interactive-os-agent-4f5f)
+- [Finally a Normal Scheduling API for Dental. I’m Alarmingly Into It.](https://dev.to/lake22traillady/finally-a-normal-scheduling-api-for-dental-im-alarmingly-into-it-1m52)
+- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 3](https://dev.to/michelestieven/recreating-linkedins-crossclimb-game-with-angular-part-3-4n33)
+- [A real-world example of CsvPath schemas](https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p)
 <!-- BLOG-POST-LIST:END -->
 
