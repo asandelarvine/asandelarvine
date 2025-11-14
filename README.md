@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [De modelos a microservicios: cómo desplegar ML en Java y .NET &lpar;ES&rpar;](https://dev.to/vicodev/de-modelos-a-microservicios-como-desplegar-ml-en-java-y-net-es-2h5n)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
+- [Freelance Devs: How to Land Your First High-Paying Client Without Stress](https://dev.to/softwaredeveloperhub01/freelance-devs-how-to-land-your-first-high-paying-client-without-stress-25mp)
+- [How to Scale Automated Testing with Open Source Testing Tools?](https://dev.to/sophielane/how-to-scale-automated-testing-with-open-source-testing-tools-39a7)
+- [Cursor vs Replit: Which Platform Offers Better AI-Assisted Development?](https://dev.to/nayeem79/cursor-vs-replit-which-platform-offers-better-ai-assisted-development-3fdd)
+- [Gemini Canvas vs GPT-5: Which Creates the Best Presentation?](https://dev.to/ndabene/gemini-canvas-vs-gpt-5-which-creates-the-best-presentation-53cd)
 <!-- BLOG-POST-LIST:END -->
 
