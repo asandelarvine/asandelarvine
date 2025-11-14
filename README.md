@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [`requirements.txt` in python](https://dev.to/nazanin_ashrafi/requirementstxt-in-python-1jjl)
-- [SMTP for Transactional Emails: How It Works &amp;amp; How to Set It Up Correctly](https://dev.to/tusharsmtpmaster/smtp-for-transactional-emails-how-it-works-amp-how-to-set-it-up-correctly-c16)
-- [Intel’s AI Chief Departs for OpenAI in a Move That Shakes Up the Chip Wars](https://dev.to/logicverse_2025/intels-ai-chief-departs-for-openai-in-a-move-that-shakes-up-the-chip-wars-a1f)
-- [From Late-Night Tutorials to Coding Mastery: The Journey of Stewart Joseph](https://dev.to/stewartjoseph17/from-late-night-tutorials-to-coding-mastery-the-journey-of-stewart-joseph-1da0)
+- [Django Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/django-tutorial-the-ultimate-guide-2023-3ijd)
+- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
+- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
+- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
 <!-- BLOG-POST-LIST:END -->
 
