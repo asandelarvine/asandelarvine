@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://dev.to/paperium/coloragent-building-a-robust-personalized-and-interactive-os-agent-4f5f)
-- [Finally a Normal Scheduling API for Dental. I’m Alarmingly Into It.](https://dev.to/lake22traillady/finally-a-normal-scheduling-api-for-dental-im-alarmingly-into-it-1m52)
-- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 3](https://dev.to/michelestieven/recreating-linkedins-crossclimb-game-with-angular-part-3-4n33)
-- [A real-world example of CsvPath schemas](https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p)
+- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
+- [From Boring Outputs to Brilliant Answers: My Prompt Debug Process](https://dev.to/jaideepparashar/from-boring-outputs-to-brilliant-answers-my-prompt-debug-process-1h18)
+- [Moving UVR5 to the Cloud: How I Built a Free Online Vocal Remover &lpar;Architecture from 0 to 1&rpar;](https://dev.to/uvronline/moving-uvr5-to-the-cloud-how-i-built-a-free-online-vocal-remover-architecture-from-0-to-1-1pjp)
+- [What I Learned Building Three Simple Projects: AnimalSounds, CheeseMath, and a Node.js Secrets Tutorial](https://dev.to/bradleymatera/what-i-learned-building-three-simple-projects-animalsounds-cheesemath-and-a-nodejs-secrets-2om6)
 <!-- BLOG-POST-LIST:END -->
 
