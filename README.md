@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning React.....](https://dev.to/sourav_mahato_3900/learning-react-i8c)
-- [Stop npm i-ing Blind: How I Catch Malicious Packages Before They Hit Production](https://dev.to/block_hacks/stop-npm-i-ing-blind-how-i-catch-malicious-packages-before-they-hit-production-1c29)
-- [What is JavaScript?](https://dev.to/s_sarumathi_a1de306480d33/what-is-javascript-2cjc)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2cc2)
+- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
+- [What is datatype in js?](https://dev.to/divya_divya_b18f82b19353a/what-is-datatype-in-js-273m)
+- [Data Engineer — Người Kiến Tạo “Dòng Chảy Dữ Liệu” Trong Kỷ Nguyên Số](https://dev.to/peter_nguyen_d4a2eb51814e/data-engineer-nguoi-kien-tao-dong-chay-du-lieu-trong-ky-nguyen-so-51lm)
+- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
 <!-- BLOG-POST-LIST:END -->
 
