@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
-- [From Boring Outputs to Brilliant Answers: My Prompt Debug Process](https://dev.to/jaideepparashar/from-boring-outputs-to-brilliant-answers-my-prompt-debug-process-1h18)
-- [Moving UVR5 to the Cloud: How I Built a Free Online Vocal Remover &lpar;Architecture from 0 to 1&rpar;](https://dev.to/uvronline/moving-uvr5-to-the-cloud-how-i-built-a-free-online-vocal-remover-architecture-from-0-to-1-1pjp)
-- [What I Learned Building Three Simple Projects: AnimalSounds, CheeseMath, and a Node.js Secrets Tutorial](https://dev.to/bradleymatera/what-i-learned-building-three-simple-projects-animalsounds-cheesemath-and-a-nodejs-secrets-2om6)
+- [De modelos a microservicios: cómo desplegar ML en Java y .NET &lpar;ES&rpar;](https://dev.to/vicodev/de-modelos-a-microservicios-como-desplegar-ml-en-java-y-net-es-2h5n)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-10d5)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-elg)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44d5)
 <!-- BLOG-POST-LIST:END -->
 
