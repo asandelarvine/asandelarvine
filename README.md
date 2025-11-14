@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Audio Transcription Tool: A Deep Dive into WER Metrics](https://dev.to/amara2025/building-an-audio-transcription-tool-a-deep-dive-into-wer-metrics-3j9o)
-- [Novel Drama Perfection: How The Betrayed Series&#39; Maddy &amp; Tobias Became the Ultimate Heartbreak Prescription](https://dev.to/em_trn_7e18ddad7a894433b/novel-drama-perfection-how-the-betrayed-series-maddy-tobias-became-the-ultimate-heartbreak-5d98)
-- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
-- [How to Implement Swiper in HarmonyOS](https://dev.to/harmonyos/how-to-implement-swiper-in-harmonyos-1kd5)
+- [`requirements.txt` in python](https://dev.to/nazanin_ashrafi/requirementstxt-in-python-1jjl)
+- [SMTP for Transactional Emails: How It Works &amp;amp; How to Set It Up Correctly](https://dev.to/tusharsmtpmaster/smtp-for-transactional-emails-how-it-works-amp-how-to-set-it-up-correctly-c16)
+- [Intel’s AI Chief Departs for OpenAI in a Move That Shakes Up the Chip Wars](https://dev.to/logicverse_2025/intels-ai-chief-departs-for-openai-in-a-move-that-shakes-up-the-chip-wars-a1f)
+- [From Late-Night Tutorials to Coding Mastery: The Journey of Stewart Joseph](https://dev.to/stewartjoseph17/from-late-night-tutorials-to-coding-mastery-the-journey-of-stewart-joseph-1da0)
 <!-- BLOG-POST-LIST:END -->
 
