@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro vibes with LLMs](https://dev.to/allramest83/retro-vibes-with-llms-3eek)
-- [From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure](https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e)
-- [🚀 Managing Media Files with MinIO and Podman](https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701)
-- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p)
+- [This Week In React #258: TanStack, Next.js | Valdi, IntersectionObserver, Nitro | TC39, Node](https://dev.to/sebastienlorber/this-week-in-react-258-tanstack-nextjs-valdi-intersectionobserver-nitro-tc39-node-21fg)
+- [Application Modernization &amp; Cloud Architecture: A Strategic Approach](https://dev.to/muhammed_muddassirfarooq/application-modernization-cloud-architecture-a-strategic-approach-4mm8)
+- [Kimi K2 Thinking vs. Claude 4.5 Sonnet vs. GPT-5 Codex: Tested the best models for agentic coding](https://dev.to/composiodev/kimi-k2-thinking-vs-claude-45-sonnet-vs-gpt-5-codex-tested-the-best-models-for-agentic-coding-21e5)
+- [I just launched ReactChallenges.com](https://dev.to/duffmancc/i-just-launched-reactchallengescom-e27)
 <!-- BLOG-POST-LIST:END -->
 
