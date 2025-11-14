@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sonic-PI](https://dev.to/grzegorzgrzegorz/sonic-pi-2e0n)
-- [What is datatype in js?](https://dev.to/divya_divya_b18f82b19353a/what-is-datatype-in-js-273m)
-- [Data Engineer — Người Kiến Tạo “Dòng Chảy Dữ Liệu” Trong Kỷ Nguyên Số](https://dev.to/peter_nguyen_d4a2eb51814e/data-engineer-nguoi-kien-tao-dong-chay-du-lieu-trong-ky-nguyen-so-51lm)
-- [Integrando IA en aplicaciones .NET: del modelo al despliegue](https://dev.to/vicodev/integrando-ia-en-aplicaciones-net-del-modelo-al-despliegue-4ki9)
+- [Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.](https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd)
+- [🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers](https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o)
+- [Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations](https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib)
+- [Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨](https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn)
 <!-- BLOG-POST-LIST:END -->
 
