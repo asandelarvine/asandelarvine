@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dumb*** business ideas](https://dev.to/elysionmind/dumb-business-ideas-4mck)
-- [Accelerating Vision Transformers with Adaptive Patch Sizes](https://dev.to/paperium/accelerating-vision-transformers-with-adaptive-patch-sizes-9e7)
-- [The Complete Google Cloud Learning Roadmap for 2026: Certifications, Courses &amp; Skills You Need](https://dev.to/rohan_jee_085655230/the-complete-google-cloud-learning-roadmap-for-2026-certifications-courses-skills-you-need-2095)
-- [GPT 5.1 API Deep Dive](https://dev.to/alifar/gpt-51-api-deep-dive-151b)
+- [The Developer’s Guide to Earning Passive Income Through SaaS](https://dev.to/softwaredeveloperhub01/the-developers-guide-to-earning-passive-income-through-saas-5ap)
+- [Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text Inputs inMultimodal LLMs](https://dev.to/paperium/text-or-pixels-it-takes-half-on-the-token-efficiency-of-visual-text-inputs-inmultimodal-llms-j0d)
+- [Untitled](https://dev.to/aee_24_9016552015fca58303/untitled-57nj)
+- [Learning Xahau: Automating Hook Execution with Cron Transactions](https://dev.to/ekiserrepe/learning-xahau-automating-hook-execution-with-cron-transactions-14n1)
 <!-- BLOG-POST-LIST:END -->
 
