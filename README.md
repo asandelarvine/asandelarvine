@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get your head spinning about Recursive Functions](https://dev.to/hopeyclarkey/get-your-head-spinning-about-recursive-functions-30mh)
-- [Revisiting Baidu AMIS and Declarative Programming](https://dev.to/canonical/revisiting-baidu-amis-and-declarative-programming-468a)
-- [BIGRAM LANGUAGE MODELS USING A NEURAL NET](https://dev.to/blackbidz/bigram-language-models-using-a-neural-net-452f)
-- [How to Standardize Code Quality Across Different Developers and Teams](https://dev.to/othlah001/how-to-standardize-code-quality-across-different-developers-and-teams-1o0a)
+- [Building a Rubik&#39;s Cube Solver: A Primer on Claude Skills](https://dev.to/jason_peterson_607e54abf5/building-a-rubiks-cube-solver-a-primer-on-claude-skills-4m7k)
+- [The Core of Reactivity: 4 Native JavaScript State Management Patterns](https://dev.to/tjcoding/the-core-of-reactivity-4-native-javascript-state-management-patterns-5ejm)
+- [Ruby PORO Explained: How Plain Old Ruby Objects Make Your Code Better](https://dev.to/zilton7/ruby-poro-explained-how-plain-old-ruby-objects-make-your-code-better-40n3)
+- [Setting Up CI, Automated Testing, and Linting for My share-my-repo Project](https://dev.to/hsachdeva9/setting-up-ci-automated-testing-and-linting-for-my-share-my-repo-project-2caj)
 <!-- BLOG-POST-LIST:END -->
 
