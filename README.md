@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
-- [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
-- [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
-- [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
+- [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
+- [This Python Workflow Automation Tool Finally Solved Dependency Hell.](https://dev.to/ari_anggoro_9628f03902953/this-python-workflow-automation-tool-finally-solved-dependency-hell-2o2a)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
+- [How Hackers Are Using AI to Craft Unstoppable Phishing Campaigns](https://dev.to/sagar_sajwan_a91beb41c861/how-hackers-are-using-ai-to-craft-unstoppable-phishing-campaigns-al4)
 <!-- BLOG-POST-LIST:END -->
 
