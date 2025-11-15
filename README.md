@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform API Monetization: A Deep Dive into Monetzly](https://dev.to/monetzly/transform-api-monetization-a-deep-dive-into-monetzly-4i62)
-- [Can AI Trustworthy? Uncovering the Limits of LLM-Powered Code Security](https://dev.to/mabualzait/can-ai-trustworthy-uncovering-the-limits-of-llm-powered-code-security-2999)
-- [LLMs Are Dying - The New AI Is Killing Them](https://dev.to/jose_crespo_phd/llms-are-dying-the-new-ai-is-killing-them-1aa4)
-- [Avoid These Team-Building Pitfalls as a New Entrepreneur](https://dev.to/jean_chou_b0a8ad9c32addbd/avoid-these-team-building-pitfalls-as-a-new-entrepreneur-14m5)
+- [Latest Emerging Tech News Transforming the Digital Landscape](https://dev.to/rapidcellphone/latest-emerging-tech-news-transforming-the-digital-landscape-35bj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
+- [Understanding var vs const in Go — A Beginner-Friendly Guide](https://dev.to/ahmed112/understanding-var-vs-const-in-go-a-beginner-friendly-guide-10ai)
 <!-- BLOG-POST-LIST:END -->
 
