@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Parquet Is Everywhere - And What Makes It Actually Fast?](https://dev.to/mohhddhassan/why-parquet-is-everywhere-and-what-makes-it-actually-fast-4p66)
-- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-3ljm)
-- [The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap](https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-1ni4)
-- [How to build an AI Voice Agent with PaplaAI Text to speech Model](https://dev.to/chaitrali_kakde/how-to-build-an-ai-voice-agent-with-paplaai-text-to-speech-model-2lb)
+- [How to create a REST API in seconds](https://dev.to/nicolasbonnici/how-to-create-a-rest-api-in-seconds-59a4)
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-3-2khn)
+- [AI in Hospitality and Tourism: Creating Personalized Guest Experiences at Scale](https://dev.to/arc_support_458635af462f4/ai-in-hospitality-and-tourism-creating-personalized-guest-experiences-at-scale-1i00)
+- [3 Must-Have GNOME Extensions to Instantly Boost Your Desktop](https://dev.to/alldaylinux/3-must-have-gnome-extensions-to-instantly-boost-your-desktop-384)
 <!-- BLOG-POST-LIST:END -->
 
