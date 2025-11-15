@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
-- [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
-- [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
-- [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
+- [Async JS Explained Using Swiggy, Zomato &amp; Food Orders 😋🍴](https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p)
+- [Kiro with MCP for GitHub Integration, Docs, Diagrams and AWS Recommendations](https://dev.to/aws-builders/mcp-on-kiro-for-github-integration-docs-diagrams-and-aws-recommendations-3g5m)
+- [It was acceptable in the 80s](https://dev.to/diso/it-was-acceptable-in-the-80s-4go3)
+- [How to Create an Internal Documentation Library](https://dev.to/jessica_karpinski_e1415d5/how-to-create-an-internal-documentation-library-5gf1)
 <!-- BLOG-POST-LIST:END -->
 
