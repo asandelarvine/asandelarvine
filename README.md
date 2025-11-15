@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
-- [Your Understanding of Abstraction is Incomplete &lpar;And It&#39;s Holding You Back&rpar;](https://dev.to/araldhafeeri/your-understanding-of-abstraction-is-incomplete-and-its-holding-you-back-4k5l)
-- [Unlocking the Unsolvable: Parallel Search Algorithms Conquer Complexity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-the-unsolvable-parallel-search-algorithms-conquer-complexity-by-arvind-sundararajan-f15)
-- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5gcc)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
+- [Games: Atomix](https://dev.to/orsenthil/games-atomix-2ofj)
+- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
 <!-- BLOG-POST-LIST:END -->
 
