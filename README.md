@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Monetzly Enables Profitable SDK Integration for AI Developers](https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg)
-- [**Technical AI Governance Challenge:**](https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm)
-- [5 Essential Array Methods Every JavaScript Developer Must Know](https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p)
-- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog)
+- [ROBLOX made me think I sucked at making games.](https://dev.to/blankets-awful-posts/roblox-made-me-think-i-sucked-at-making-games-o0c)
+- [Meaning of passwordless authentication for beginners &lpar;and let&#39;s make it&rpar;](https://dev.to/jahongir2007/meaning-of-passwordless-authentication-for-beginners-and-lets-make-it-9l2)
+- [💼 Real-Time Collaboration: The Secret Weapon of Modern Project Management](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-collaboration-the-secret-weapon-of-modern-project-management-3ep2)
+- [✅ Task 1 — Initialize a Terraform project with backend and provider blocks](https://dev.to/latchudevops/task-1-initialize-a-terraform-project-with-backend-and-provider-blocks-1ia9)
 <!-- BLOG-POST-LIST:END -->
 
