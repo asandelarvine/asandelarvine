@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Federated avatars in authentik](https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2)
-- [OSD600: Lab 8](https://dev.to/kphero/osd600-lab-8-3315)
-- [Azure Application Gateway και Azure Front Door](https://dev.to/__b63657/azure-application-gateway-kai-azure-front-door-263g)
-- [[Boost]](https://dev.to/b5119/-55ml)
+- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
+- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
+- [https://medium.com/@farhan.nasir01/top-7-mistakes-that-slow-down-wordpress-websites-and-how-i-fix-them-5b82a1434476](https://dev.to/farhannasirdev/-i5p)
+- [第 24 课：Freqtrade交易监控与调整](https://dev.to/henry_lin_3ac6363747f45b4/di-24-ke-freqtradejiao-yi-jian-kong-yu-diao-zheng-23c6)
 <!-- BLOG-POST-LIST:END -->
 
