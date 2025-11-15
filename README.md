@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
-- [Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable](https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf)
-- [5 Key Performance Benchmarks for AI Development in 2025](https://dev.to/lofcz/5-key-performance-benchmarks-for-ai-development-in-2025-2mco)
-- [[Boost]](https://dev.to/nicolasbonnici/-5b8h)
+- [[Boost]](https://dev.to/md_ataullah_205566605d138/-3efj)
+- [Part 1: Mastering Dynamic Programming — 5 Steps to Solve It &lpar;Longest Increasing Subsequence Using Tabulation / Bottom-Up&rpar;](https://dev.to/saishanmukkha/part-1-mastering-dynamic-programming-5-steps-to-solve-it-longest-increasing-sequence-using-5hm4)
+- [Nuxt Tutorial 3 - Utils &amp; Composables](https://dev.to/aloisseckar/nuxt-tutorial-3-utils-composables-3o51)
+- [Open-Sourcing arkA — A Universal Video Protocol Inspired by RSS](https://dev.to/arka_project_4a91672d6a48/open-sourcing-arka-a-universal-video-protocol-inspired-by-rss-4hip)
 <!-- BLOG-POST-LIST:END -->
 
