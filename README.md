@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-5gcc)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
-- [Games: Atomix](https://dev.to/orsenthil/games-atomix-2ofj)
-- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-2i5k)
+- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
+- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
+- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
 <!-- BLOG-POST-LIST:END -->
 
