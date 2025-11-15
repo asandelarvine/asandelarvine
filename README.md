@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latest Emerging Tech News Transforming the Digital Landscape](https://dev.to/rapidcellphone/latest-emerging-tech-news-transforming-the-digital-landscape-35bj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
-- [Understanding var vs const in Go — A Beginner-Friendly Guide](https://dev.to/ahmed112/understanding-var-vs-const-in-go-a-beginner-friendly-guide-10ai)
+- [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
+- [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
+- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
+- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
 <!-- BLOG-POST-LIST:END -->
 
