@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revamp SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/revamp-sdk-integration-monetize-your-ai-conversations-effectively-2097)
-- [[Boost]](https://dev.to/pietro_contadini_f13a29b6/-3m85)
-- [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
-- [Temporal State Coordination: A Timeline of a Timeline](https://dev.to/tiadrop/temporal-state-coordination-a-timeline-of-a-timeline-52fi)
+- [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
+- [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
+- [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
+- [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
 <!-- BLOG-POST-LIST:END -->
 
