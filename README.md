@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
-- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
-- [https://medium.com/@farhan.nasir01/top-7-mistakes-that-slow-down-wordpress-websites-and-how-i-fix-them-5b82a1434476](https://dev.to/farhannasirdev/-i5p)
-- [第 24 课：Freqtrade交易监控与调整](https://dev.to/henry_lin_3ac6363747f45b4/di-24-ke-freqtradejiao-yi-jian-kong-yu-diao-zheng-23c6)
+- [Building a Scalable Notification System with RabbitMQ and Microservices](https://dev.to/wurldguy/building-a-scalable-notification-system-with-rabbitmq-and-microservices-1a9f)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-2acn)
+- [What I learned from Analyzing HTTP Traffic with Wireshark](https://dev.to/ganesh-kumar/what-i-learned-from-analyzing-http-traffic-with-wireshark-32k6)
+- [A Declaration of Digital Independence](https://dev.to/frw_community/a-declaration-of-digital-independence-3267)
 <!-- BLOG-POST-LIST:END -->
 
