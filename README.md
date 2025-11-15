@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is &quot;Zero-Trust&quot; Automation: An Introduction to Flowork.](https://dev.to/ari_anggoro_9628f03902953/the-future-is-zero-trust-automation-an-introduction-to-flowork-3g6i)
-- [This Python Workflow Automation Tool Finally Solved Dependency Hell.](https://dev.to/ari_anggoro_9628f03902953/this-python-workflow-automation-tool-finally-solved-dependency-hell-2o2a)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
-- [How Hackers Are Using AI to Craft Unstoppable Phishing Campaigns](https://dev.to/sagar_sajwan_a91beb41c861/how-hackers-are-using-ai-to-craft-unstoppable-phishing-campaigns-al4)
+- [Transform API Monetization: A Deep Dive into Monetzly](https://dev.to/monetzly/transform-api-monetization-a-deep-dive-into-monetzly-4i62)
+- [Can AI Trustworthy? Uncovering the Limits of LLM-Powered Code Security](https://dev.to/mabualzait/can-ai-trustworthy-uncovering-the-limits-of-llm-powered-code-security-2999)
+- [LLMs Are Dying - The New AI Is Killing Them](https://dev.to/jose_crespo_phd/llms-are-dying-the-new-ai-is-killing-them-1aa4)
+- [Avoid These Team-Building Pitfalls as a New Entrepreneur](https://dev.to/jean_chou_b0a8ad9c32addbd/avoid-these-team-building-pitfalls-as-a-new-entrepreneur-14m5)
 <!-- BLOG-POST-LIST:END -->
 
