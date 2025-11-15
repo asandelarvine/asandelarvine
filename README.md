@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a REST API in seconds](https://dev.to/nicolasbonnici/how-to-create-a-rest-api-in-seconds-59a4)
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-3-2khn)
-- [AI in Hospitality and Tourism: Creating Personalized Guest Experiences at Scale](https://dev.to/arc_support_458635af462f4/ai-in-hospitality-and-tourism-creating-personalized-guest-experiences-at-scale-1i00)
-- [3 Must-Have GNOME Extensions to Instantly Boost Your Desktop](https://dev.to/alldaylinux/3-must-have-gnome-extensions-to-instantly-boost-your-desktop-384)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-1gj7)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
+- [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
+- [What is an e-commerce website and why do you need one?](https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io)
 <!-- BLOG-POST-LIST:END -->
 
