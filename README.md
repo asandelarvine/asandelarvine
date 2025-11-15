@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/md_ataullah_205566605d138/-3efj)
-- [Part 1: Mastering Dynamic Programming — 5 Steps to Solve It &lpar;Longest Increasing Subsequence Using Tabulation / Bottom-Up&rpar;](https://dev.to/saishanmukkha/part-1-mastering-dynamic-programming-5-steps-to-solve-it-longest-increasing-sequence-using-5hm4)
-- [Nuxt Tutorial 3 - Utils &amp; Composables](https://dev.to/aloisseckar/nuxt-tutorial-3-utils-composables-3o51)
-- [Open-Sourcing arkA — A Universal Video Protocol Inspired by RSS](https://dev.to/arka_project_4a91672d6a48/open-sourcing-arka-a-universal-video-protocol-inspired-by-rss-4hip)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52mm)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3ld4)
+- [I Stopped Recording Voiceovers for My Tech YouTube Channel. Here&#39;s What Happened.](https://dev.to/blogai/i-stopped-recording-voiceovers-for-my-tech-youtube-channel-heres-what-happened-564i)
+- [Why Your Snowflake Bill is High and How to Fix It with a Hybrid Approach](https://dev.to/zenithai/why-your-snowflake-bill-is-high-and-how-to-fix-it-with-a-hybrid-approach-1o3h)
 <!-- BLOG-POST-LIST:END -->
 
