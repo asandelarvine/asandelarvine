@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-2i5k)
-- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
-- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
-- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
+- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
+- [Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable](https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf)
+- [5 Key Performance Benchmarks for AI Development in 2025](https://dev.to/lofcz/5-key-performance-benchmarks-for-ai-development-in-2025-2mco)
+- [[Boost]](https://dev.to/nicolasbonnici/-5b8h)
 <!-- BLOG-POST-LIST:END -->
 
