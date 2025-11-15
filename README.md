@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-1gj7)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
-- [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
-- [What is an e-commerce website and why do you need one?](https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io)
+- [Closures &amp; Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
+- [Your Understanding of Abstraction is Incomplete &lpar;And It&#39;s Holding You Back&rpar;](https://dev.to/araldhafeeri/your-understanding-of-abstraction-is-incomplete-and-its-holding-you-back-4k5l)
+- [Unlocking the Unsolvable: Parallel Search Algorithms Conquer Complexity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-the-unsolvable-parallel-search-algorithms-conquer-complexity-by-arvind-sundararajan-f15)
+- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
 <!-- BLOG-POST-LIST:END -->
 
