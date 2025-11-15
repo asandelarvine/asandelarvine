@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon DocumentDB New Query Planner](https://dev.to/aws-heroes/amazon-documentdb-new-query-planner-2dh0)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1epd)
-- [Bridging the Abstraction Gap: Formalizing Complex Systems with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/bridging-the-abstraction-gap-formalizing-complex-systems-with-ai-by-arvind-sundararajan-12n2)
-- [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
+- [Federated avatars in authentik](https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2)
+- [OSD600: Lab 8](https://dev.to/kphero/osd600-lab-8-3315)
+- [Azure Application Gateway και Azure Front Door](https://dev.to/__b63657/azure-application-gateway-kai-azure-front-door-263g)
+- [[Boost]](https://dev.to/b5119/-55ml)
 <!-- BLOG-POST-LIST:END -->
 
