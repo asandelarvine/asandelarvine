@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the use of Intermediate models in Django &lpar;Many to Many Relationship&rpar;](https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li)
-- [How to Compare Chatbot Platforms for Your Business](https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9)
+- [Stop AI From Seeing What It Shouldn’t: A Practical Guide to PII Safety](https://dev.to/sridharcr/stop-ai-from-seeing-what-it-shouldnt-a-practical-guide-to-pii-safety-38ll)
+- [Games: Chromono](https://dev.to/orsenthil/games-chromono-513m)
+- [Custom Exploit Development](https://dev.to/godofgeeks/custom-exploit-development-nnm)
+- [A Universe of Triangles.](https://dev.to/kichuman28/a-universe-of-triangles-3f9n)
 <!-- BLOG-POST-LIST:END -->
 
