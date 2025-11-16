@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
-- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
-- [ROFL Proxy for HTTPS Hosting](https://dev.to/rollingindo/rofl-proxy-for-https-hosting-4796)
-- [ai coding](https://dev.to/aka17/ai-coding-171f)
+- [🎃 Transforming the Web Into a Spooky World — Building Halloween Vibes with Kiro](https://dev.to/deepak_negi_f1d64e7393000/transforming-the-web-into-a-spooky-world-building-halloween-vibes-with-kiro-9lj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-42bl)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-326o)
+- [LLM Introduction](https://dev.to/shashank_shekhar_f6f866a8/llm-introduction-1ikb)
 <!-- BLOG-POST-LIST:END -->
 
