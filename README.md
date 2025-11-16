@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure RabbitMQ &amp; Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2)
-- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c)
-- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
-- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878)
+- [Weekly Challenge: The one about formatting](https://dev.to/simongreennet/weekly-challenge-the-one-about-formatting-kfp)
+- [Scale Django on Seenode: Production Architecture That Actually Works](https://dev.to/app_dev_b139d1a58b00b6516/scale-django-on-seenode-production-architecture-that-actually-works-2bkk)
+- [ROFL Proxy for HTTPS Hosting](https://dev.to/rollingindo/rofl-proxy-for-https-hosting-4796)
+- [ai coding](https://dev.to/aka17/ai-coding-171f)
 <!-- BLOG-POST-LIST:END -->
 
