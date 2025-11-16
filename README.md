@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Meet Noty: The Chrome Extension That Finally Fixed My Messy Workflow](https://dev.to/odqin/meet-noty-the-chrome-extension-that-finally-fixed-my-messy-workflow-3h44)
-- [Python by Structure: Context Managers and the With Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-1g8j)
-- [Everything You Need to Do Before Successfully Reading an Excel File with Pandas](https://dev.to/techkene/everything-you-need-to-do-before-successfully-reading-an-excel-file-with-pandas-3ec7)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
+- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
+- [Snap Package Manager Cheatsheet](https://dev.to/rosgluk/snap-package-manager-cheatsheet-36en)
+- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://dev.to/rosgluk/ubuntu-package-management-apt-and-dpkg-cheatsheet-1na)
 <!-- BLOG-POST-LIST:END -->
 
