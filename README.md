@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop AI From Seeing What It Shouldn’t: A Practical Guide to PII Safety](https://dev.to/sridharcr/stop-ai-from-seeing-what-it-shouldnt-a-practical-guide-to-pii-safety-38ll)
-- [Games: Chromono](https://dev.to/orsenthil/games-chromono-513m)
-- [Custom Exploit Development](https://dev.to/godofgeeks/custom-exploit-development-nnm)
-- [A Universe of Triangles.](https://dev.to/kichuman28/a-universe-of-triangles-3f9n)
+- [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
+- [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
+- [I wanted to create an AI app named Jarvis it should wake when I say, Jarvis . It should provide me latest news with the help of Google when I ask. Moreover, it should act like an AI chatbot. Like ChatGPT or grok](https://dev.to/asgar_ali_0fc38c362fc3858/i-wanted-to-create-an-ai-app-named-jarvis-it-should-wake-when-i-say-jarvis-it-should-provide-me-4h2g)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-13ii)
 <!-- BLOG-POST-LIST:END -->
 
