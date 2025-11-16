@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
-- [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
-- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
-- [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
+- [N+1 query in databases](https://dev.to/rajusarkar/n1-query-in-databases-50lb)
+- [Building RSSRenaissance: AI-Powered Summaries for Smarter Reading](https://dev.to/fabricecoder/building-rssrenaissance-ai-powered-summaries-for-smarter-reading-ild)
+- [I Built 20+ Free Developer Tools as a Solo Dev - Here’s How &lpar;and Why&rpar;](https://dev.to/dafin_edisonj_3ec5f65110/i-built-20-free-developer-tools-as-a-solo-dev-heres-how-and-why-2gn8)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3i99)
 <!-- BLOG-POST-LIST:END -->
 
