@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infinibay Development update #01](https://dev.to/andres_b_26dabd6ea99769a/infinibay-development-update-01-b53)
-- [This Week’s Cloud Native Pulse: Top Releases &amp; Urgent Ingress NGINX News &lpar;Nov 16, 2025&rpar;](https://dev.to/aws-builders/this-weeks-cloud-native-pulse-top-releases-urgent-ingress-nginx-news-nov-16-2025-1f8b)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
-- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
+- [IInteger Generic Parameters in Swift 6.2: A New Era for Type-Safe Programming](https://dev.to/arshtechpro/iinteger-generic-parameters-in-swift-62-a-new-era-for-type-safe-programming-495d)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-11f4)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1kom)
+- [Introducing KurrentDB-Swift: Bringing Event Sourcing to Server-Side Swift](https://dev.to/gradyzhuo/introducing-kurrentdb-swift-bringing-event-sourcing-to-server-side-swift-3g83)
 <!-- BLOG-POST-LIST:END -->
 
