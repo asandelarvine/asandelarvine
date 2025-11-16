@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-3idf)
-- [How to promote a link building post to developer communities](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-promote-a-link-building-post-to-developer-communities-27k1)
-- [summary of git management](https://dev.to/hirooka_kazuya_d7f37d3cde/summary-of-git-management-3m9f)
-- [🏗️ Part 2 — Running a Serverless API Locally with AWS SAM &lpar;API Gateway + Lambda + DynamoDB&rpar;](https://dev.to/balaji_sivakumar_e7a4b07a/part-2-running-a-serverless-api-locally-with-aws-sam-api-gateway-lambda-dynamodb-dob)
+- [How I Upgraded My App’s UI With Real-Time Output + a 10-Second Demo &lpar;BusinessAdBooster Update&rpar;](https://dev.to/shemith_mohanan_6361bb8a2/how-i-upgraded-my-apps-ui-with-real-time-output-a-10-second-demo-businessadbooster-update-32bn)
+- [Countdown to Glory: Uncovering 2026 World Cup Trends &amp; Predictions](https://dev.to/mabualzait/countdown-to-glory-uncovering-2026-world-cup-trends-predictions-415m)
+- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-5dpa)
+- [Conquering Complexity: Parallel Proof Search for Superhuman AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/conquering-complexity-parallel-proof-search-for-superhuman-ai-by-arvind-sundararajan-1nb6)
 <!-- BLOG-POST-LIST:END -->
 
