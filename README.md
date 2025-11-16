@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async JS Explained Using Swiggy, Zomato &amp; Food Orders 😋🍴](https://dev.to/applexity_ox/async-js-explained-using-swiggy-zomato-food-orders-4k4p)
-- [Kiro with MCP for GitHub Integration, Docs, Diagrams and AWS Recommendations](https://dev.to/aws-builders/mcp-on-kiro-for-github-integration-docs-diagrams-and-aws-recommendations-3g5m)
-- [It was acceptable in the 80s](https://dev.to/diso/it-was-acceptable-in-the-80s-4go3)
-- [How to Create an Internal Documentation Library](https://dev.to/jessica_karpinski_e1415d5/how-to-create-an-internal-documentation-library-5gf1)
+- [Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation](https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g)
+- [Debugging Java ClassNotFoundException: A Beginner&#39;s Guide to Finding Missing Dependencies](https://dev.to/itzsrikanth/debugging-java-classnotfoundexception-a-beginners-guide-to-finding-missing-dependencies-1i9p)
+- [Google Cloud Group DevFest Toronto 2025 - The Most Chaotic Conference I&#39;ve Ever Been To](https://dev.to/xiongemi/google-cloud-group-devfest-toronto-2025-the-most-chaotic-conference-ive-ever-been-to-2348)
+- [Beyond The Tutorial: Why Courses Are Not What We Thought](https://dev.to/leojimenezg/beyond-the-tutorial-why-courses-are-not-what-we-thought-30oo)
 <!-- BLOG-POST-LIST:END -->
 
