@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Renaissance: Java, Python, JavaScript, and Beyond](https://dev.to/atharvshinde2004/the-tech-renaissance-java-python-javascript-and-beyond-5eim)
-- [Webinar Analytics: Your Guide to Measuring Success](https://dev.to/glensizemore/webinar-analytics-your-guide-to-measuring-success-4c8k)
-- [Outil de Cybersécurité du Jour - Nov 16, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-16-2025-41db)
-- [AI&#39;s Revolution in Team Formation and Collaboration](https://dev.to/jean_chou_b0a8ad9c32addbd/ais-revolution-in-team-formation-and-collaboration-192m)
+- [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
+- [Seamless Map Integration in React Native: A Complete Guide](https://dev.to/dainyjose/seamless-map-integration-in-react-native-a-complete-guide-29o7)
+- [How I Quietly Fixed My Entire Creative Workflow with One Tool](https://dev.to/yokii/how-i-quietly-fixed-my-entire-creative-workflow-with-one-tool-207d)
+- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
 <!-- BLOG-POST-LIST:END -->
 
