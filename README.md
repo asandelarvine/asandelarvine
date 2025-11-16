@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ZipperOS: A Community-Driven Linux OS Designed by Users, for Users](https://dev.to/wolfie_numbers_f600dbfc56/zipperos-a-community-driven-linux-os-designed-by-users-for-users-721)
-- [Revolutionize Your LLM Apps with Monetzly&#39;s AI Monetization Solutions](https://dev.to/monetzly/revolutionize-your-llm-apps-with-monetzlys-ai-monetization-solutions-286h)
-- [Python by Structure: Generator Delegation with Yield From](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-generator-delegation-with-yield-from-3d4d)
-- [Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time](https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77)
+- [🚀 Meet Noty: The Chrome Extension That Finally Fixed My Messy Workflow](https://dev.to/odqin/meet-noty-the-chrome-extension-that-finally-fixed-my-messy-workflow-3h44)
+- [Python by Structure: Context Managers and the With Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-1g8j)
+- [Everything You Need to Do Before Successfully Reading an Excel File with Pandas](https://dev.to/techkene/everything-you-need-to-do-before-successfully-reading-an-excel-file-with-pandas-3ec7)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
 <!-- BLOG-POST-LIST:END -->
 
