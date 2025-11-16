@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5.Delete Git Branch](https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn)
-- [Predicting the Unpredictable: Visualizing the Future with Temporal Independence](https://dev.to/arvind_sundararajan/predicting-the-unpredictable-visualizing-the-future-with-temporal-independence-5egj)
-- [4.Update Git Repository with Sample HTML File](https://dev.to/thukhakyawe_cloud/4update-git-repository-with-sample-html-file-3e8h)
-- [🔥 LLM Interview Series&lpar;6&rpar;: RLHF &lpar;Reinforcement Learning from Human Feedback&rpar; Demystified](https://dev.to/jackm_345442a09fb53b/llm-interview-series6-rlhf-reinforcement-learning-from-human-feedback-demystified-hi8)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-3idf)
+- [How to promote a link building post to developer communities](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-promote-a-link-building-post-to-developer-communities-27k1)
+- [summary of git management](https://dev.to/hirooka_kazuya_d7f37d3cde/summary-of-git-management-3m9f)
+- [🏗️ Part 2 — Running a Serverless API Locally with AWS SAM &lpar;API Gateway + Lambda + DynamoDB&rpar;](https://dev.to/balaji_sivakumar_e7a4b07a/part-2-running-a-serverless-api-locally-with-aws-sam-api-gateway-lambda-dynamodb-dob)
 <!-- BLOG-POST-LIST:END -->
 
