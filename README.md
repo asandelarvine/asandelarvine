@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Process Information Using The DIKW Model](https://dev.to/chihidan/how-we-process-information-using-the-dikw-model-4p60)
-- [Seamless Map Integration in React Native: A Complete Guide](https://dev.to/dainyjose/seamless-map-integration-in-react-native-a-complete-guide-29o7)
-- [How I Quietly Fixed My Entire Creative Workflow with One Tool](https://dev.to/yokii/how-i-quietly-fixed-my-entire-creative-workflow-with-one-tool-207d)
-- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
+- [Effortless Jupyter Notebook to PDF in VS Code: Meet nb2pdf #python #nb2pdf #vscode #ipnyb2pdf](https://dev.to/ganesh250684/effortless-jupyter-notebook-to-pdf-in-vs-code-meet-nb2pdf-python-nb2pdf-vscode-ipnyb2pdf-4o07)
+- [Safety vs Security in Software: A Practical Guide for Engineers and Infrastructure Teams](https://dev.to/anderson_leite/safety-vs-security-in-software-a-practical-guide-for-engineers-and-infrastructure-teams-34f3)
+- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
+- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
 <!-- BLOG-POST-LIST:END -->
 
