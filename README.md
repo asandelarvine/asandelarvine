@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tic Tac Toe Game with HTML, CSS &amp; JavaScript — Live Demo + Source Code](https://dev.to/siddheshcodes/tic-tac-toe-game-with-html-css-javascript-live-demo-source-code-1k37)
-- [Taming Tedious Tasks with a Tiny Titan: The ESP32 Auto-Controller](https://dev.to/patrocinioluisf/taming-tedious-tasks-with-a-tiny-titan-the-esp32-auto-controller-27pp)
-- [Comparing Wallet SDKs in 2025: What Builders Should Actually Evaluate &lpar;Not Just Features&rpar;](https://dev.to/estelleatthenook/comparing-wallet-sdks-in-2025-what-builders-should-actually-evaluate-not-just-features-5c5j)
-- [The .NET News daily newsletter for C# developers](https://dev.to/jasenf/the-net-news-daily-newsletter-for-c-developers-45mi)
+- [How a young entrepreneur named Abhay Aditya Jain is re-writing the rules of the AI web](https://dev.to/okabarack/how-a-young-entrepreneur-named-abhay-aditya-jain-is-re-writing-the-rules-of-the-ai-web-53fi)
+- [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
+- [Using Ansible File Module to Manage Files &amp; Directories](https://dev.to/spacelift/using-ansible-file-module-to-manage-files-directories-di3)
+- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
 <!-- BLOG-POST-LIST:END -->
 
