@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 3 - Add Knowledge](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-3-add-knowledge-5fa0)
-- [AI Guardrails: A Comprehensive Guide from Basic to Advanced Implementation](https://dev.to/techstuff/ai-guardrails-a-comprehensive-guide-from-basic-to-advanced-implementation-39jk)
-- [Why DevOps Engineers Fail in Production: The Hidden Truth About Technology Stack Understanding](https://dev.to/srinivasamcjf/why-devops-engineers-fail-in-production-the-hidden-truth-about-technology-stack-understanding-4ndk)
-- [The Developer&#39;s Guide to Stress-Free Angular Updates](https://dev.to/hashbyt/the-developers-guide-to-stress-free-angular-updates-4pb)
+- [Retries and Hedges: Calming the Tail](https://dev.to/miller-28/retries-and-hedges-calming-the-tail-ima)
+- [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
+- [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
+- [Master JavaScript: Complete Guide for Beginners with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/master-javascript-complete-guide-for-beginners-with-examples-309d)
 <!-- BLOG-POST-LIST:END -->
 
