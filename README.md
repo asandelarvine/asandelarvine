@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Git by Building My Own Minimal Version Control System](https://dev.to/ironrinox/exploring-git-by-building-my-own-minimal-version-control-system-5591)
-- [Build a Calorie Estimation App With Vision Agents](https://dev.to/emmanuelthecoder/build-a-calorie-estimation-app-with-vision-agents-750)
-- [How to Generate Video Schema for Any YouTube Video Automatically](https://dev.to/websitedeveloper/how-to-generate-video-schema-for-any-youtube-video-automatically-4jfe)
-- [How to SSH Into a VirtualBox Ubuntu VM From Windows - Password Authentication &lpar;Step-By-Step Guide&rpar;](https://dev.to/kevin_suchetan_6f9d783b4f/how-to-ssh-into-a-virtualbox-ubuntu-vm-from-windows-password-authentication-step-by-step-guide-3843)
+- [KI zeigt nicht die Zukunft des Marketings. Sie zeigt den Zustand der Branche.](https://dev.to/jens_r_4ac124fba483a5d950/ki-zeigt-nicht-die-zukunft-des-marketings-sie-zeigt-den-zustand-der-branche-122h)
+- [Google launches new AI tools in Search to help users plan trips, find flightdeals and book reservations](https://dev.to/ytosko/google-launches-new-ai-tools-in-search-to-help-users-plan-trips-find-flightdeals-and-book-4b18)
+- [LuminoraCore v1.1: Your AI Memory That Actually Travels 🧠✨](https://dev.to/rulyaltamirano/luminoracore-v11-your-ai-memory-that-actually-travels-1e4c)
+- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
 <!-- BLOG-POST-LIST:END -->
 
