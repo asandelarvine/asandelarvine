@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Frameworks Without Headaches: Choosing Your Weapon ⚔️🌐](https://dev.to/javadinteger/web-frameworks-without-headaches-choosing-your-weapon-3h1e)
-- [Migrating Media Libraries to Content Hub in Xperience by Kentico – A Hands-On Project Case Study](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
-- [🚫 Simple &amp; Clean 404 Error Page — HTML &amp; CSS](https://dev.to/haripriya_shivakumar_b089/simple-clean-404-error-page-html-css-j3o)
-- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
+- [CloudFormation Hooks: Lambda hooks con anotaciones granulares &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-hooks-lambda-hooks-con-anotaciones-granulares-en-espanol-sencillo-4739)
+- [Patrol: The Flutter Testing Framework That Changes Everything](https://dev.to/hiteshm_devapp/patrol-the-flutter-testing-framework-that-changes-everything-3nb6)
+- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
+- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
 <!-- BLOG-POST-LIST:END -->
 
