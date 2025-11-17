@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehouse vs Data Lake vs Data Lakehouse: Technical Guide &lpar;2025&rpar;](https://dev.to/chaos-genius/data-warehouse-vs-data-lake-vs-data-lakehouse-technical-guide-2025-3hg2)
-- [🚀 Introduction to Git Worktree &lpar;With Oh My Zsh Aliases&rpar;](https://dev.to/prakh_r/introduction-to-git-worktree-with-oh-my-zsh-aliases-27lp)
-- [From Development to Production: A Complete Guide to Deploying Node.js Applications on Google Cloud](https://dev.to/k-kibet/from-development-to-production-a-complete-guide-to-deploying-nodejs-applications-on-google-cloud-1cg1)
-- [From Chaos to Control: &#39;Good Enough&#39; AI Planning is Redefining Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/from-chaos-to-control-good-enough-ai-planning-is-redefining-efficiency-by-arvind-sundararajan-6d2)
+- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi)
+- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe)
+- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
+- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk)
 <!-- BLOG-POST-LIST:END -->
 
