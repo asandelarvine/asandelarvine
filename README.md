@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/velwyn_sam_bd8c14920e351a/-354p)
-- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
-- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
-- [One Sound at a time - My Audio Engineering Journey](https://dev.to/awesomeaudioai/one-sound-at-a-time--28i6)
+- [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
+- [If I have to start again, I will use Free AI tools instead of premium. Here is why:](https://dev.to/jaideepparashar/if-i-have-to-start-again-i-will-use-free-ai-tools-instead-of-premium-here-is-why-im0)
+- [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
+- [Andrew Huang: S4 2.0 is one of the most inspiring tools I&#39;ve used](https://dev.to/music_youtube/andrew-huang-s4-20-is-one-of-the-most-inspiring-tools-ive-used-33cd)
 <!-- BLOG-POST-LIST:END -->
 
