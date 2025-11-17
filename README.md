@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture &amp; More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)
-- [**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp)
-- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5)
+- [Exploring Git by Building My Own Minimal Version Control System](https://dev.to/ironrinox/exploring-git-by-building-my-own-minimal-version-control-system-5591)
+- [Build a Calorie Estimation App With Vision Agents](https://dev.to/emmanuelthecoder/build-a-calorie-estimation-app-with-vision-agents-750)
+- [How to Generate Video Schema for Any YouTube Video Automatically](https://dev.to/websitedeveloper/how-to-generate-video-schema-for-any-youtube-video-automatically-4jfe)
+- [How to SSH Into a VirtualBox Ubuntu VM From Windows - Password Authentication &lpar;Step-By-Step Guide&rpar;](https://dev.to/kevin_suchetan_6f9d783b4f/how-to-ssh-into-a-virtualbox-ubuntu-vm-from-windows-password-authentication-step-by-step-guide-3843)
 <!-- BLOG-POST-LIST:END -->
 
