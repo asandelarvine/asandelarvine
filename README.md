@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to High-Performance Web Animations](https://dev.to/nipundinuranga/the-ultimate-guide-to-high-performance-web-animations-36dp)
-- [semantic-release : quand la CI gère nos versions à notre place](https://dev.to/jpiazzal/semantic-release-quand-la-ci-gere-nos-versions-a-notre-place-2nd7)
-- [Black Weeks. The big 50% is here.](https://dev.to/mike_andreuzza/black-weeks-the-big-50-is-here-d6k)
-- [Building Tantrik — A Multi-Agent AI Halloween Chat Using Next.js, Flask &amp; Kiro](https://dev.to/deepak_negi_f1d64e7393000/building-tantrik-a-multi-agent-ai-halloween-chat-using-nextjs-flask-kiro-jgi)
+- [Database Schemas: Star Schema vs. Snowflake Schema and Choosing the Right Data Warehouse Design](https://dev.to/ed_j_wanjama/database-schemas-star-schema-vs-snowflake-schema-and-choosing-the-right-data-warehouse-design-593l)
+- [The Fastest and Cleanest Way to Convert PDF Bank Statements to Excel, XML, CSV, QIF, OFX](https://dev.to/nuhayd_shaik_68ee737ef605/the-fastest-and-cleanest-way-to-convert-pdf-bank-statements-to-excel-xml-csv-qif-ofx-2ne6)
+- [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
+- [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
 <!-- BLOG-POST-LIST:END -->
 
