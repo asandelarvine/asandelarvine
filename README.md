@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My React template](https://dev.to/tkorakas/my-react-template-ho4)
-- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
-- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
-- [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
+- [deboa, a simple http client for rust](https://dev.to/rogrio_arajo_55dae16f0d/deboa-a-simple-http-client-for-rust-2758)
+- [Customer Experience Design: Why Your Friction Map Matters More Than Your Journey Map](https://dev.to/synergistdigitalmedia/customer-experience-design-why-your-friction-map-matters-more-than-your-journey-map-5gbj)
+- [The Unseen Code: When Medical AI Reveals More Than Medicine by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-unseen-code-when-medical-ai-reveals-more-than-medicine-by-arvind-sundararajan-11on)
+- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
 <!-- BLOG-POST-LIST:END -->
 
