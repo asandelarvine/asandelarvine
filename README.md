@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
-- [Snap Package Manager Cheatsheet](https://dev.to/rosgluk/snap-package-manager-cheatsheet-36en)
-- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
-- [Ubuntu Package Management: APT and dpkg Cheatsheet](https://dev.to/rosgluk/ubuntu-package-management-apt-and-dpkg-cheatsheet-1na)
+- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
+- [Reclaiming context with claude code CLI](https://dev.to/nick_porter_0cfcbc03e871f/reclaiming-context-with-claude-code-cli-1hic)
+- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
+- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
 <!-- BLOG-POST-LIST:END -->
 
