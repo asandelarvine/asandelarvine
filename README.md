@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a young entrepreneur named Abhay Aditya Jain is re-writing the rules of the AI web](https://dev.to/okabarack/how-a-young-entrepreneur-named-abhay-aditya-jain-is-re-writing-the-rules-of-the-ai-web-53fi)
-- [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
-- [Using Ansible File Module to Manage Files &amp; Directories](https://dev.to/spacelift/using-ansible-file-module-to-manage-files-directories-di3)
-- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
+- [Utilize another telemetry data for faster improvement with AI agent](https://dev.to/awsugonair/utilize-another-telemetry-data-for-faster-improvement-with-ai-agent-41h2)
+- [I Had 10 Minutes to Fix a Broken PDF Before My Client Demo](https://dev.to/bryan_collins_abcd0214d94/i-had-10-minutes-to-fix-a-broken-pdf-before-my-client-demo-35k2)
+- [Graduating from Vibe Coding: Spec‑Driven Development with Kiro](https://dev.to/aws-builders/graduating-from-vibe-coding-spec-driven-development-with-kiro-gb8)
+- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
 <!-- BLOG-POST-LIST:END -->
 
