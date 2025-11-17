@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KI zeigt nicht die Zukunft des Marketings. Sie zeigt den Zustand der Branche.](https://dev.to/jens_r_4ac124fba483a5d950/ki-zeigt-nicht-die-zukunft-des-marketings-sie-zeigt-den-zustand-der-branche-122h)
-- [Google launches new AI tools in Search to help users plan trips, find flightdeals and book reservations](https://dev.to/ytosko/google-launches-new-ai-tools-in-search-to-help-users-plan-trips-find-flightdeals-and-book-4b18)
-- [LuminoraCore v1.1: Your AI Memory That Actually Travels 🧠✨](https://dev.to/rulyaltamirano/luminoracore-v11-your-ai-memory-that-actually-travels-1e4c)
-- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
+- [🚀 How to Create My Startup? &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/stasxreal/how-to-create-my-startup-a-developer-friendly-guide-3453)
+- [Mastering Python Strings: More Than Just Text](https://dev.to/onlineproxy/mastering-python-strings-more-than-just-text-1m4f)
+- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
+- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
 <!-- BLOG-POST-LIST:END -->
 
