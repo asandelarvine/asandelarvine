@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation Hooks: Lambda hooks con anotaciones granulares &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-hooks-lambda-hooks-con-anotaciones-granulares-en-espanol-sencillo-4739)
-- [Patrol: The Flutter Testing Framework That Changes Everything](https://dev.to/hiteshm_devapp/patrol-the-flutter-testing-framework-that-changes-everything-3nb6)
-- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
-- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
+- [[Boost]](https://dev.to/anthonymax/-1ngi)
+- [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
+- [New fav claude CLI commands: /primer &amp; /wrap-up](https://dev.to/nick_porter_0cfcbc03e871f/new-fav-claude-cli-commands-primer-wrap-up-59i4)
+- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
 <!-- BLOG-POST-LIST:END -->
 
