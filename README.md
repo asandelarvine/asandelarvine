@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilize another telemetry data for faster improvement with AI agent](https://dev.to/awsugonair/utilize-another-telemetry-data-for-faster-improvement-with-ai-agent-41h2)
-- [I Had 10 Minutes to Fix a Broken PDF Before My Client Demo](https://dev.to/bryan_collins_abcd0214d94/i-had-10-minutes-to-fix-a-broken-pdf-before-my-client-demo-35k2)
-- [Graduating from Vibe Coding: Spec‑Driven Development with Kiro](https://dev.to/aws-builders/graduating-from-vibe-coding-spec-driven-development-with-kiro-gb8)
-- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
+- [Web Frameworks Without Headaches: Choosing Your Weapon ⚔️🌐](https://dev.to/javadinteger/web-frameworks-without-headaches-choosing-your-weapon-3h1e)
+- [Migrating Media Libraries to Content Hub in Xperience by Kentico – A Hands-On Project Case Study](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
+- [🚫 Simple &amp; Clean 404 Error Page — HTML &amp; CSS](https://dev.to/haripriya_shivakumar_b089/simple-clean-404-error-page-html-css-j3o)
+- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
 <!-- BLOG-POST-LIST:END -->
 
