@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Schemas: Star Schema vs. Snowflake Schema and Choosing the Right Data Warehouse Design](https://dev.to/ed_j_wanjama/database-schemas-star-schema-vs-snowflake-schema-and-choosing-the-right-data-warehouse-design-593l)
-- [The Fastest and Cleanest Way to Convert PDF Bank Statements to Excel, XML, CSV, QIF, OFX](https://dev.to/nuhayd_shaik_68ee737ef605/the-fastest-and-cleanest-way-to-convert-pdf-bank-statements-to-excel-xml-csv-qif-ofx-2ne6)
-- [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
-- [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
+- [Tic Tac Toe Game with HTML, CSS &amp; JavaScript — Live Demo + Source Code](https://dev.to/siddheshcodes/tic-tac-toe-game-with-html-css-javascript-live-demo-source-code-1k37)
+- [Taming Tedious Tasks with a Tiny Titan: The ESP32 Auto-Controller](https://dev.to/patrocinioluisf/taming-tedious-tasks-with-a-tiny-titan-the-esp32-auto-controller-27pp)
+- [Comparing Wallet SDKs in 2025: What Builders Should Actually Evaluate &lpar;Not Just Features&rpar;](https://dev.to/estelleatthenook/comparing-wallet-sdks-in-2025-what-builders-should-actually-evaluate-not-just-features-5c5j)
+- [The .NET News daily newsletter for C# developers](https://dev.to/jasenf/the-net-news-daily-newsletter-for-c-developers-45mi)
 <!-- BLOG-POST-LIST:END -->
 
