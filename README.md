@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Create My Startup? &lpar;A Developer-Friendly Guide&rpar;](https://dev.to/stasxreal/how-to-create-my-startup-a-developer-friendly-guide-3453)
-- [Mastering Python Strings: More Than Just Text](https://dev.to/onlineproxy/mastering-python-strings-more-than-just-text-1m4f)
-- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
-- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
+- [My React template](https://dev.to/tkorakas/my-react-template-ho4)
+- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
+- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
+- [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
 <!-- BLOG-POST-LIST:END -->
 
