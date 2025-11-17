@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi)
-- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe)
-- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552)
-- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk)
+- [🎯 Predict Markets Like a FAANG Data Scientist: 3 ML Models That Outperform MBA Analysts](https://dev.to/igornosatov_15/predict-markets-like-a-faang-data-scientist-3-ml-models-that-outperform-mba-analysts-559k)
+- [React for Total Beginners](https://dev.to/buchilazarus4/react-for-total-beginners-13m7)
+- [🌱 My Coding Journey: Small Steps, Simple Projects, and Steady Progress](https://dev.to/olivia_roseparker_b7261e/my-coding-journey-small-steps-simple-projects-and-steady-progress-1ni7)
+- [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
 <!-- BLOG-POST-LIST:END -->
 
