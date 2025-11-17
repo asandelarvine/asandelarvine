@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Predict Markets Like a FAANG Data Scientist: 3 ML Models That Outperform MBA Analysts](https://dev.to/igornosatov_15/predict-markets-like-a-faang-data-scientist-3-ml-models-that-outperform-mba-analysts-559k)
-- [React for Total Beginners](https://dev.to/buchilazarus4/react-for-total-beginners-13m7)
-- [🌱 My Coding Journey: Small Steps, Simple Projects, and Steady Progress](https://dev.to/olivia_roseparker_b7261e/my-coding-journey-small-steps-simple-projects-and-steady-progress-1ni7)
-- [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 3 - Add Knowledge](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-3-add-knowledge-5fa0)
+- [AI Guardrails: A Comprehensive Guide from Basic to Advanced Implementation](https://dev.to/techstuff/ai-guardrails-a-comprehensive-guide-from-basic-to-advanced-implementation-39jk)
+- [Why DevOps Engineers Fail in Production: The Hidden Truth About Technology Stack Understanding](https://dev.to/srinivasamcjf/why-devops-engineers-fail-in-production-the-hidden-truth-about-technology-stack-understanding-4ndk)
+- [The Developer&#39;s Guide to Stress-Free Angular Updates](https://dev.to/hashbyt/the-developers-guide-to-stress-free-angular-updates-4pb)
 <!-- BLOG-POST-LIST:END -->
 
