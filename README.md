@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [deboa, a simple http client for rust](https://dev.to/rogrio_arajo_55dae16f0d/deboa-a-simple-http-client-for-rust-2758)
-- [Customer Experience Design: Why Your Friction Map Matters More Than Your Journey Map](https://dev.to/synergistdigitalmedia/customer-experience-design-why-your-friction-map-matters-more-than-your-journey-map-5gbj)
-- [The Unseen Code: When Medical AI Reveals More Than Medicine by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-unseen-code-when-medical-ai-reveals-more-than-medicine-by-arvind-sundararajan-11on)
-- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
+- [Guided Lab: Azure Storage with Customer-Managed Keys, Retention Policies &amp; Encryption Scopes](https://dev.to/ojosamuel129/guided-lab-azure-storage-with-customer-managed-keys-retention-policies-encryption-scopes-oc4)
+- [CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack](https://dev.to/iron-software/curldotnet-bringing-curl-superpowers-to-every-corner-of-the-net-10-c-stack-1ol2)
+- [Cloudy With a Chance of Context: Navigating Change with Context Engineering](https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5)
+- [Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute](https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1)
 <!-- BLOG-POST-LIST:END -->
 
