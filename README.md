@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Growth Hacking in 2025: What Actually Moves the Needle &lpar;And What Just Sounds Cool&rpar;](https://dev.to/synergistdigitalmedia/growth-hacking-in-2025-what-actually-moves-the-needle-and-what-just-sounds-cool-276)
-- [The Hidden Time Drain Killing Your Business Productivity](https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-productivity-2b3j)
-- [How Async/Await Made Me Love Asynchronous JavaScript Again](https://dev.to/ofodile/how-asyncawait-made-me-love-asynchronous-javascript-again-2do)
-- [PHP’s Next Chapter: From Web Framework to Agent Framework](https://dev.to/inspector/phps-next-chapter-from-web-framework-to-agent-framework-59p4)
+- [Why Big Tech Won&#39;t Hire Flutter Developers in 2026](https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88)
+- [Adaptive Anti-Corruption Layer &lpar;AACL&rpar;](https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8)
+- [Nextjs Documentation Frontend website template](https://dev.to/shreyvijayvargiya/nextjs-documentation-frontend-website-template-4i75)
+- [Context-Driven Development Experiment 3: Building Multi-Project JIRA Support with Claude Code](https://dev.to/imdone/context-driven-development-experiment-3-building-multi-project-jira-support-with-claude-code-1gdm)
 <!-- BLOG-POST-LIST:END -->
 
