@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Your Own FIFO Queue: An Essential Data Structure for Modern Systems](https://dev.to/pmbanugo/write-your-own-fifo-queue-an-essential-data-structure-for-modern-systems-2kjn)
-- [🤬 De 64 GB Vloek: Waarom de kaarten in uw BMW of Mercedes niet &#39;zomaar&#39; updaten, en hoe wij dit gevecht aangaan](https://dev.to/udo_a6171b989650d291a04a1/de-64-gb-vloek-waarom-de-kaarten-in-uw-bmw-of-mercedes-niet-zomaar-updaten-en-hoe-wij-dit-54i1)
-- [Use a container for astronomy data processing](https://dev.to/peijin94/use-a-container-for-astronomy-data-processing-4pb6)
-- [Best Replacement Gearbox for 5ft Rotary Cutter: Fast Diagnosis, Fitment Checklist, and Installation Guide](https://dev.to/bryan_collins_abcd0214d94/best-replacement-gearbox-for-5ft-rotary-cutter-fast-diagnosis-fitment-checklist-and-installation-4ohc)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-2hig)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-38jp)
+- [New pricing model for CloudFront](https://dev.to/aws-builders/new-pricing-model-for-cloudfront-213k)
+- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
 <!-- BLOG-POST-LIST:END -->
 
