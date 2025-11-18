@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Big Tech Won&#39;t Hire Flutter Developers in 2026](https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88)
-- [Adaptive Anti-Corruption Layer &lpar;AACL&rpar;](https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8)
-- [Nextjs Documentation Frontend website template](https://dev.to/shreyvijayvargiya/nextjs-documentation-frontend-website-template-4i75)
-- [Context-Driven Development Experiment 3: Building Multi-Project JIRA Support with Claude Code](https://dev.to/imdone/context-driven-development-experiment-3-building-multi-project-jira-support-with-claude-code-1gdm)
+- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
+- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
+- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
+- [Maximizing CPU Core Utilization: GraphBit&#39;s Parallel Processing Strategies](https://dev.to/yeahiasarker/maximizing-cpu-core-utilization-graphbits-parallel-processing-strategies-16ke)
 <!-- BLOG-POST-LIST:END -->
 
