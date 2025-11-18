@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guided Lab: Azure Storage with Customer-Managed Keys, Retention Policies &amp; Encryption Scopes](https://dev.to/ojosamuel129/guided-lab-azure-storage-with-customer-managed-keys-retention-policies-encryption-scopes-oc4)
-- [CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack](https://dev.to/iron-software/curldotnet-bringing-curl-superpowers-to-every-corner-of-the-net-10-c-stack-1ol2)
-- [Cloudy With a Chance of Context: Navigating Change with Context Engineering](https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5)
-- [Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute](https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1)
+- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
+- [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
+- [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
+- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
 <!-- BLOG-POST-LIST:END -->
 
