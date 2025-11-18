@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Weeks Stuck on Authentication: My Headless API Journey](https://dev.to/debugger360/two-weeks-stuck-on-authentication-my-headless-api-journey-1m65)
-- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
-- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
-- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
+- [📝 Fixing BigInt Serialization Error in Node.js + Express &lpar;A Beginner-Friendly Explanation&rpar;](https://dev.to/krishnamoorthy_k_0f3f8d93/fixing-bigint-serialization-error-in-nodejs-express-a-beginner-friendly-explanation-5fe6)
+- [Monetzly: The Future of AI Monetization for Developers](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-developers-2npm)
+- [Practical Guidelines for Feature Selection](https://dev.to/dipti_m_2e7ba36c478d1a48a/practical-guidelines-for-feature-selection-5c91)
+- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)
 <!-- BLOG-POST-LIST:END -->
 
