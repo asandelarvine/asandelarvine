@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Essential Data Formats in Cloud Analytics: A Complete Guide with Examples](https://dev.to/raj_shriwastava_989889ad4/6-essential-data-formats-in-cloud-analytics-a-complete-guide-with-examples-7i)
-- [How to tell if I bricked my microcontroller board?](https://dev.to/carolineee/how-to-tell-if-i-bricked-my-microcontroller-board-21ii)
-- [A List of Status Pages Every TechOps Engineer Should Know](https://dev.to/talonx/a-list-of-status-pages-every-techops-engineer-should-know-28kd)
-- [How to Create Stunning AI Videos from Text with Genra.ai](https://dev.to/genra_ai/how-to-create-stunning-ai-videos-from-text-with-genraai-4j1f)
+- [Automating Load Testing: From Local Dev to Production Confidence](https://dev.to/gatling/automating-load-testing-from-local-dev-to-production-confidence-3mfk)
+- [Multipass + Terraform: Modern VM Automation Guide](https://dev.to/todoroff/multipass-terraform-modern-vm-automation-guide-129l)
+- [A Complete Guide to CI/CD Pipelines — From Zero to Deployment](https://dev.to/farhadrahimiklie/a-complete-guide-to-cicd-pipelines-from-zero-to-deployment-1jf2)
+- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
 <!-- BLOG-POST-LIST:END -->
 
