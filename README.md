@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
-- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
-- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
-- [Maximizing CPU Core Utilization: GraphBit&#39;s Parallel Processing Strategies](https://dev.to/yeahiasarker/maximizing-cpu-core-utilization-graphbits-parallel-processing-strategies-16ke)
+- [200 reports, 11 valid bugs, 0 critical issues. Why our HackerOne VDP was still worth it](https://dev.to/ishosting/200-reports-11-valid-bugs-0-critical-issues-why-our-hackerone-vdp-was-still-worth-it-h07)
+- [Teching by playing is one of the best ways to make the material &quot;click&quot;. Think you have what it takes? Join us in creating v3.0 of Cornucopia!](https://dev.to/mamicidal/teching-by-playing-is-one-of-the-best-ways-to-make-the-material-click-think-you-have-what-it-2j29)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
+- [limit](https://dev.to/query_filter_591122b53770/limit-3lf)
 <!-- BLOG-POST-LIST:END -->
 
