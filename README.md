@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Saloon vs Guzzle vs SDK vs Http Facade for Laravel API Integrations](https://dev.to/ashallendesign/saloon-vs-guzzle-vs-sdk-vs-http-facade-for-laravel-api-integrations-2a0e)
-- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
-- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
-- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
+- [A Modern Data Governance Framework for Google Cloud: Implementing Just-Enough and Just-in-Time Access](https://dev.to/hikikomorineko/a-modern-data-governance-framework-for-google-cloud-implementing-just-enough-and-just-in-time-1a0d)
+- [Why Identity Threat Detection &amp; Response &lpar;ITDR&rpar; Is Becoming Essential in Modern Security](https://dev.to/sunnysinh_a/why-identity-threat-detection-response-itdr-is-becoming-essential-in-modern-security-15ih)
+- [Cracking the Medical Coding Challenge: Fine-Tuning BioBERT for ICD-10 Classification &lpar;Part 1&rpar;](https://dev.to/alexretana/cracking-the-medical-coding-challenge-fine-tuning-biobert-for-icd-10-classification-part-1-7oc)
+- [⭐ HTML Input Types &lpar;With Examples&rpar;](https://dev.to/ramyasree_manthena_76c598/html-input-types-with-examples-4555)
 <!-- BLOG-POST-LIST:END -->
 
