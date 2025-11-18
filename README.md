@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Scanning Tools &lpar;Anchore, Clair&rpar;](https://dev.to/godofgeeks/image-scanning-tools-anchore-clair-4kmg)
-- [第 24.3 课：币安合约交易操作详解](https://dev.to/henry_lin_3ac6363747f45b4/di-243-ke-bi-an-he-yue-jiao-yi-cao-zuo-xiang-jie-2hkh)
-- [MVC - Third Step](https://dev.to/vasudevankumar/mvc-third-step-50pi)
-- [TM1637 Board Arduino Example](https://dev.to/danielmx/tm1637-board-arduino-example-1po1)
+- [Building a Network Lab on Kubernetes with netclab-chart](https://dev.to/mbakalarski/building-a-network-lab-on-kubernetes-with-netclab-chart-2jjk)
+- [PDF Translate – Free PDF Translator | pdf-translation.com](https://dev.to/digiplan_pro_52d07cbd0f1a/pdf-translate-free-pdf-translator-pdf-translationcom-4eb8)
+- [Looking to collab with EU/US devs](https://dev.to/aroma_nihon_696690efb774e/looking-to-collab-with-euus-devs-og3)
+- [Website laten maken in WordPress: de voordelen van een gebruiksvriendelijk CMS](https://dev.to/creatixcode1/website-laten-maken-in-wordpress-de-voordelen-van-een-gebruiksvriendelijk-cms-21io)
 <!-- BLOG-POST-LIST:END -->
 
