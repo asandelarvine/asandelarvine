@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Network Lab on Kubernetes with netclab-chart](https://dev.to/mbakalarski/building-a-network-lab-on-kubernetes-with-netclab-chart-2jjk)
-- [PDF Translate – Free PDF Translator | pdf-translation.com](https://dev.to/digiplan_pro_52d07cbd0f1a/pdf-translate-free-pdf-translator-pdf-translationcom-4eb8)
-- [Looking to collab with EU/US devs](https://dev.to/aroma_nihon_696690efb774e/looking-to-collab-with-euus-devs-og3)
-- [Website laten maken in WordPress: de voordelen van een gebruiksvriendelijk CMS](https://dev.to/creatixcode1/website-laten-maken-in-wordpress-de-voordelen-van-een-gebruiksvriendelijk-cms-21io)
+- [6 Essential Data Formats in Cloud Analytics: A Complete Guide with Examples](https://dev.to/raj_shriwastava_989889ad4/6-essential-data-formats-in-cloud-analytics-a-complete-guide-with-examples-7i)
+- [How to tell if I bricked my microcontroller board?](https://dev.to/carolineee/how-to-tell-if-i-bricked-my-microcontroller-board-21ii)
+- [A List of Status Pages Every TechOps Engineer Should Know](https://dev.to/talonx/a-list-of-status-pages-every-techops-engineer-should-know-28kd)
+- [How to Create Stunning AI Videos from Text with Genra.ai](https://dev.to/genra_ai/how-to-create-stunning-ai-videos-from-text-with-genraai-4j1f)
 <!-- BLOG-POST-LIST:END -->
 
