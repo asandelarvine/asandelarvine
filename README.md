@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways to Optimize Your LLM Applications](https://dev.to/kuldeep_paul/10-ways-to-optimize-your-llm-applications-36hl)
-- [Why I Built &quot;Yet Another&quot; Pomodoro App with React &lpar;And How I Gamified It&rpar; 🍅](https://dev.to/tommodoro/why-i-built-a-gamified-pomodoro-timer-with-react-and-why-it-works-2hpe)
-- [🧠 Kafka Broker vs Controller - Complete Guide](https://dev.to/ajinkya_singh_2c02bd40423/kafka-broker-vs-controller-complete-guide-32fg)
-- [A Comprehensive Guide to Observability in AI Agents: Best Practices](https://dev.to/kuldeep_paul/a-comprehensive-guide-to-observability-in-ai-agents-best-practices-4bd4)
+- [Write Your Own FIFO Queue: An Essential Data Structure for Modern Systems](https://dev.to/pmbanugo/write-your-own-fifo-queue-an-essential-data-structure-for-modern-systems-2kjn)
+- [🤬 De 64 GB Vloek: Waarom de kaarten in uw BMW of Mercedes niet &#39;zomaar&#39; updaten, en hoe wij dit gevecht aangaan](https://dev.to/udo_a6171b989650d291a04a1/de-64-gb-vloek-waarom-de-kaarten-in-uw-bmw-of-mercedes-niet-zomaar-updaten-en-hoe-wij-dit-54i1)
+- [Use a container for astronomy data processing](https://dev.to/peijin94/use-a-container-for-astronomy-data-processing-4pb6)
+- [Best Replacement Gearbox for 5ft Rotary Cutter: Fast Diagnosis, Fitment Checklist, and Installation Guide](https://dev.to/bryan_collins_abcd0214d94/best-replacement-gearbox-for-5ft-rotary-cutter-fast-diagnosis-fitment-checklist-and-installation-4ohc)
 <!-- BLOG-POST-LIST:END -->
 
