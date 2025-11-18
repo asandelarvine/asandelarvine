@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Modern Data Governance Framework for Google Cloud: Implementing Just-Enough and Just-in-Time Access](https://dev.to/hikikomorineko/a-modern-data-governance-framework-for-google-cloud-implementing-just-enough-and-just-in-time-1a0d)
-- [Why Identity Threat Detection &amp; Response &lpar;ITDR&rpar; Is Becoming Essential in Modern Security](https://dev.to/sunnysinh_a/why-identity-threat-detection-response-itdr-is-becoming-essential-in-modern-security-15ih)
-- [Cracking the Medical Coding Challenge: Fine-Tuning BioBERT for ICD-10 Classification &lpar;Part 1&rpar;](https://dev.to/alexretana/cracking-the-medical-coding-challenge-fine-tuning-biobert-for-icd-10-classification-part-1-7oc)
-- [⭐ HTML Input Types &lpar;With Examples&rpar;](https://dev.to/ramyasree_manthena_76c598/html-input-types-with-examples-4555)
+- [Two Weeks Stuck on Authentication: My Headless API Journey](https://dev.to/debugger360/two-weeks-stuck-on-authentication-my-headless-api-journey-1m65)
+- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
+- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
+- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
 <!-- BLOG-POST-LIST:END -->
 
