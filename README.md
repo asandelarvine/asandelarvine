@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [200 reports, 11 valid bugs, 0 critical issues. Why our HackerOne VDP was still worth it](https://dev.to/ishosting/200-reports-11-valid-bugs-0-critical-issues-why-our-hackerone-vdp-was-still-worth-it-h07)
-- [Teching by playing is one of the best ways to make the material &quot;click&quot;. Think you have what it takes? Join us in creating v3.0 of Cornucopia!](https://dev.to/mamicidal/teching-by-playing-is-one-of-the-best-ways-to-make-the-material-click-think-you-have-what-it-2j29)
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
-- [limit](https://dev.to/query_filter_591122b53770/limit-3lf)
+- [Saloon vs Guzzle vs SDK vs Http Facade for Laravel API Integrations](https://dev.to/ashallendesign/saloon-vs-guzzle-vs-sdk-vs-http-facade-for-laravel-api-integrations-2a0e)
+- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
+- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
+- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
 <!-- BLOG-POST-LIST:END -->
 
