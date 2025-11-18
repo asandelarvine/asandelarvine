@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-2hig)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-38jp)
-- [New pricing model for CloudFront](https://dev.to/aws-builders/new-pricing-model-for-cloudfront-213k)
-- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
+- [AI Wives 2026: A Developer&#39;s Look at the Code Behind the Relationships](https://dev.to/glorioustechs/ai-wives-2026-a-developers-look-at-the-code-behind-the-relationships-3bma)
+- [The Hidden Dependency That Took Down Half the Internet Today](https://dev.to/statusfield/the-hidden-dependency-that-took-down-half-the-internet-today-55cb)
+- [TikTok Shop vs. Instagram Shopping: Real Conversion Data from 52 E-commerce Brands](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-instagram-shopping-real-conversion-data-from-52-e-commerce-brands-kff)
+- [Boost Your Laravel Productivity with “Laravel Debug Remover” VSCode Extension](https://dev.to/yasserelgammal/boost-your-laravel-productivity-with-laravel-debug-remover-vscode-extension-154g)
 <!-- BLOG-POST-LIST:END -->
 
