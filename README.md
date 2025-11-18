@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Learned React Wrong for 3 Months. Here&#39;s What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
-- [# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?](https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426)
-- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l)
-- [How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation](https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4)
+- [Image Scanning Tools &lpar;Anchore, Clair&rpar;](https://dev.to/godofgeeks/image-scanning-tools-anchore-clair-4kmg)
+- [第 24.3 课：币安合约交易操作详解](https://dev.to/henry_lin_3ac6363747f45b4/di-243-ke-bi-an-he-yue-jiao-yi-cao-zuo-xiang-jie-2hkh)
+- [MVC - Third Step](https://dev.to/vasudevankumar/mvc-third-step-50pi)
+- [TM1637 Board Arduino Example](https://dev.to/danielmx/tm1637-board-arduino-example-1po1)
 <!-- BLOG-POST-LIST:END -->
 
