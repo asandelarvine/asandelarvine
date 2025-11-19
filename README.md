@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille](https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8)
-- [Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l)
-- [A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain](https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n)
-- [🚀 Introducing Laravel Chatbot – A simple &amp; powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl)
+- [My AI Bot Argues With My Swagger Schema &lpar;And Why That&#39;s Good&rpar;](https://dev.to/aragossa/my-ai-bot-argues-with-my-swagger-schema-and-why-thats-good-1efl)
+- [Database handling using Python Alembic and SQL Alchemy](https://dev.to/shreshthajit_das_1a7b40f5/database-handling-using-python-alembic-and-sql-alchemy-3a12)
+- [Introducing Google Antigravity, a New Era in AI-Assisted Software Development](https://dev.to/googleai/introducing-google-antigravity-a-new-era-in-ai-assisted-software-development-275d)
+- [I Built a Production-Ready Next.js Boilerplate &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-boilerplate-so-you-dont-have-to-17d3)
 <!-- BLOG-POST-LIST:END -->
 
