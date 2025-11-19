@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Wives 2026: A Developer&#39;s Look at the Code Behind the Relationships](https://dev.to/glorioustechs/ai-wives-2026-a-developers-look-at-the-code-behind-the-relationships-3bma)
-- [The Hidden Dependency That Took Down Half the Internet Today](https://dev.to/statusfield/the-hidden-dependency-that-took-down-half-the-internet-today-55cb)
-- [TikTok Shop vs. Instagram Shopping: Real Conversion Data from 52 E-commerce Brands](https://dev.to/synergistdigitalmedia/tiktok-shop-vs-instagram-shopping-real-conversion-data-from-52-e-commerce-brands-kff)
-- [Boost Your Laravel Productivity with “Laravel Debug Remover” VSCode Extension](https://dev.to/yasserelgammal/boost-your-laravel-productivity-with-laravel-debug-remover-vscode-extension-154g)
+- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
+- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
+- [I Built Production-Ready 2FA &lpar;TOTP&rpar; in Node.js + Angular - Here&#39;s How](https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb)
+- [Context - Bridging the AI Agent&#39;s Blind Spot](https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6)
 <!-- BLOG-POST-LIST:END -->
 
