@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is LLM Post-Training? Best Techniques in 2025](https://dev.to/sunethkawasaki7/what-is-llm-post-training-best-techniques-in-2025-379g)
-- [A Simple Guide to Route Tables and Internet Gateways in AWS](https://dev.to/irfansatrio/a-simple-guide-to-route-tables-and-internet-gateways-in-aws-3b1k)
-- [Testing LLM Prompts in Production Pipelines: A Practical Approach](https://dev.to/stuartp/testing-llm-prompts-in-production-pipelines-a-practical-approach-349b)
-- [The pain of Windows development](https://dev.to/simeon_norris_49460d1e9de/the-pain-of-windows-development-1d2m)
+- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
+- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
+- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
+- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
 <!-- BLOG-POST-LIST:END -->
 
