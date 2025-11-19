@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fenjufu/-3ffa)
-- [Building a Custom OTP Input Component in React Native](https://dev.to/neeraj1005/building-a-custom-otp-input-component-in-react-native-59m9)
-- [How to Use AI to Stress-Test Your Spending Plan Without Spreadsheets](https://dev.to/briandavies/how-to-use-ai-to-stress-test-your-spending-plan-without-spreadsheets-3kof)
-- [REMI Evolved: Beyond the Agentic Postgres Challenge](https://dev.to/jramone3/remi-evolved-beyond-the-agentic-postgres-challenge-42jp)
+- [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
+- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
+- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
+- [Building a feature-rich datagrid with Deno &amp; Preact - First Impressions](https://dev.to/nesterow/building-a-feature-rich-datagrid-with-deno-preact-first-impressions-4cnn)
 <!-- BLOG-POST-LIST:END -->
 
