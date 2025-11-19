@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KubeEdge and Edge Computing](https://dev.to/godofgeeks/kubeedge-and-edge-computing-1iem)
-- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
-- [How do I reduce hallucinations when pulling mixed data sources in an LLM-based chatbot?](https://dev.to/whitmanmark/how-do-i-reduce-hallucinations-when-pulling-mixed-data-sources-in-an-llm-based-chatbot-54ii)
-- [Prometheus Monitoring: Complete Setup &amp; Best Practices](https://dev.to/rosgluk/prometheus-monitoring-complete-setup-best-practices-4859)
+- [I Learned JavaScript for 2 Years… Without Installing It 😭😂](https://dev.to/usama_dev/i-learned-javascript-for-2-years-without-installing-it-1jd6)
+- [‎Screen Reader Optimization: How to Build Websites Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/screen-reader-optimization-how-to-build-websites-everyone-can-use-5409)
+- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
+- [What Is Earned Value Management &lpar;EVM&rpar; and How To Calculate It](https://dev.to/taskford/what-is-earned-value-management-evm-and-how-to-calculate-it-2fl7)
 <!-- BLOG-POST-LIST:END -->
 
