@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Divide in Developer Culture](https://dev.to/cheetah100/the-hidden-divide-in-developer-culture-j6l)
-- [Why Computer Vision Isn’t the Best Choice for Control Systems](https://dev.to/gold_roger/why-computer-vision-isnt-the-best-choice-for-control-systems-33da)
-- [Building a Dice Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
-- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
+- [What Is LLM Post-Training? Best Techniques in 2025](https://dev.to/sunethkawasaki7/what-is-llm-post-training-best-techniques-in-2025-379g)
+- [A Simple Guide to Route Tables and Internet Gateways in AWS](https://dev.to/irfansatrio/a-simple-guide-to-route-tables-and-internet-gateways-in-aws-3b1k)
+- [Testing LLM Prompts in Production Pipelines: A Practical Approach](https://dev.to/stuartp/testing-llm-prompts-in-production-pipelines-a-practical-approach-349b)
+- [The pain of Windows development](https://dev.to/simeon_norris_49460d1e9de/the-pain-of-windows-development-1d2m)
 <!-- BLOG-POST-LIST:END -->
 
