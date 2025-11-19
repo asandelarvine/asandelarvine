@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/unauthorized/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
-- [Quesby 0.1.2 is now available!](https://dev.to/quesby/quesby-012-is-now-available-2ae6)
-- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
-- [uniapp里 rich-text 里的img图片如何控制最大宽度](https://dev.to/cheng_qian_8382fdc61158ce/uniappli-rich-text-li-de-imgtu-pian-ru-he-kong-zhi-zui-da-kuan-du-1bm9)
+- [Bootstrapping Local AI with Ollama &amp; Python in 10](https://dev.to/mabualzait/bootstrapping-local-ai-with-ollama-python-in-10-l4e)
+- [Vendor Tools &amp; Reliability — Lessons from the 2025 Cloud Outages](https://dev.to/smuppuri/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o)
+- [10x Productivity in Practice? A Real-World Experience Using Kiro to Refactor and Revive Legacy Code](https://dev.to/rexreus/10x-productivity-in-practice-a-real-world-experience-using-kiro-to-refactor-and-revive-legacy-code-292k)
+- [The Email List You Build When You Stop Annoying People](https://dev.to/synergistdigitalmedia/the-email-list-you-build-when-you-stop-annoying-people-24n7)
 <!-- BLOG-POST-LIST:END -->
 
