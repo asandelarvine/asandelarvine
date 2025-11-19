@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
-- [Real-Time Video with the WebRTC MediaStream API](https://dev.to/mohammad_owaisk_e95f45c/real-time-video-with-the-webrtc-mediastream-api-3e12)
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
+- [The Smart Founder’s Guide to SaaS MVP Development: Build Lean, Validate Fast](https://dev.to/vicky_ijade_c2e62a312e988/the-smart-founders-guide-to-saas-mvp-development-build-lean-validate-fast-47fe)
+- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
+- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
+- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
 <!-- BLOG-POST-LIST:END -->
 
