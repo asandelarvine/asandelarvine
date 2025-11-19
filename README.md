@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day F3: The Day I Accidentally Acted Human](https://dev.to/casperday11/day-f3-the-day-i-accidentally-acted-human-48m2)
-- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
-- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
-- [Building a feature-rich datagrid with Deno &amp; Preact - First Impressions](https://dev.to/nesterow/building-a-feature-rich-datagrid-with-deno-preact-first-impressions-4cnn)
+- [Build a VPC With EC2 On Terraform!](https://dev.to/pavan_reddy_8f9125a73121c/build-a-vpc-with-ec2--1hmf)
+- [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
+- [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
+- [Miami Property Management Trends 2026: Data, Tech &amp; Strategy](https://dev.to/threshold_management/miami-property-management-trends-2026-data-tech-strategy-5c32)
 <!-- BLOG-POST-LIST:END -->
 
