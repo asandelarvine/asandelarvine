@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Website savings: where to cut and where to stop](https://dev.to/polyapolza108/website-savings-where-to-cut-and-where-to-stop-56j1)
-- [Zoho για Developers: Αναλυτικός Οδηγός για Email, CRM και WordPress Integration](https://dev.to/__b63657/zoho-gia-developers-analutikos-odegos-gia-email-crm-kai-wordpress-integration-11kf)
-- [The Brutal Truth About Today’s “AI Startups”: Most Are Just Fancy Wrappers Around Someone Else’s Model](https://dev.to/ajaylegion/the-brutal-truth-about-todays-ai-startups-most-are-just-fancy-wrappers-around-someone-elses-55k6)
-- [What Is a Firewall—and Why Should You Use One?](https://dev.to/sagar_sajwan_a91beb41c861/what-is-a-firewall-and-why-should-you-use-one-2ak6)
+- [[Boost]](https://dev.to/fenjufu/-3ffa)
+- [Building a Custom OTP Input Component in React Native](https://dev.to/neeraj1005/building-a-custom-otp-input-component-in-react-native-59m9)
+- [How to Use AI to Stress-Test Your Spending Plan Without Spreadsheets](https://dev.to/briandavies/how-to-use-ai-to-stress-test-your-spending-plan-without-spreadsheets-3kof)
+- [REMI Evolved: Beyond the Agentic Postgres Challenge](https://dev.to/jramone3/remi-evolved-beyond-the-agentic-postgres-challenge-42jp)
 <!-- BLOG-POST-LIST:END -->
 
