@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a VPC With EC2 On Terraform!](https://dev.to/pavan_reddy_8f9125a73121c/build-a-vpc-with-ec2--1hmf)
-- [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
-- [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
-- [Miami Property Management Trends 2026: Data, Tech &amp; Strategy](https://dev.to/threshold_management/miami-property-management-trends-2026-data-tech-strategy-5c32)
+- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
+- [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
+- [How To Convert Figma Design To React + MUI Code In Minutes](https://dev.to/the_greatbonnie/how-to-convert-figma-design-to-react-mui-code-in-minutes-l9l)
+- [⚠️ When Voting Rights Become a Weapon for Cybercriminals — The SIR Verification Scam](https://dev.to/sybersecure/when-voting-rights-become-a-weapon-for-cybercriminals-the-sir-verification-scam-534j)
 <!-- BLOG-POST-LIST:END -->
 
