@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Learned JavaScript for 2 Years… Without Installing It 😭😂](https://dev.to/usama_dev/i-learned-javascript-for-2-years-without-installing-it-1jd6)
-- [‎Screen Reader Optimization: How to Build Websites Everyone Can Use](https://dev.to/okoye_ndidiamaka_5e3b7d30/screen-reader-optimization-how-to-build-websites-everyone-can-use-5409)
-- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
-- [What Is Earned Value Management &lpar;EVM&rpar; and How To Calculate It](https://dev.to/taskford/what-is-earned-value-management-evm-and-how-to-calculate-it-2fl7)
+- [Of Type and Interface: TypeScript Tales Ch. 01](https://dev.to/arbishal/of-type-and-interface-typescript-tales-ch-01-39de)
+- [Building a Serverless Student Management System Using AWS &lpar;Lambda, API Gateway, DynamoDB, S3 &amp; CloudFront&rpar;](https://dev.to/faheem_abid011_4eaf853dc/building-a-serverless-student-management-system-using-aws-lambda-api-gateway-dynamodb-s3--46i0)
+- [How to Create Groups Efficiently in Tableau: Origins, Real-World Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/how-to-create-groups-efficiently-in-tableau-origins-real-world-applications-and-case-studies-4dp)
+- [🧠 What 7 Years in .NET Development Taught Me About Software Craftsmanship](https://dev.to/heshamessam/what-7-years-in-net-development-taught-me-about-software-craftsmanship-5866)
 <!-- BLOG-POST-LIST:END -->
 
