@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Ignite 2025 for Devs &amp; DevOps: My Top Announcements](https://dev.to/pwd9000/microsoft-ignite-2025-for-devs-devops-my-top-announcements-4f6i)
-- [Understanding Content Security Policy &lpar;CSP&rpar;](https://dev.to/ozankozan/understanding-content-security-policy-csp-1hh5)
-- [Best AI Test Case Generation Tools &lpar;2025 Guide&rpar;](https://dev.to/morrismoses149/best-ai-test-case-generation-tools-2025-guide-35b9)
-- [Queen City Con 0x3: Hacking And Embracing Resiliency](https://dev.to/gitguardian/queen-city-con-0x3-hacking-and-embracing-resiliency-7hl)
+- [🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille](https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8)
+- [Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l)
+- [A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain](https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n)
+- [🚀 Introducing Laravel Chatbot – A simple &amp; powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl)
 <!-- BLOG-POST-LIST:END -->
 
