@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Risk Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-risk-battle-simulator-when-board-games-meet-monte-carlo-59o6)
-- [Hotel Search System Design](https://dev.to/sumedhbala/hotel-search-system-design-5ea4)
-- [Better integrate your AppImage with .desktop file](https://dev.to/dawhistler/better-integrate-your-appimage-with-desktop-file-41o0)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
+- [The Hidden Divide in Developer Culture](https://dev.to/cheetah100/the-hidden-divide-in-developer-culture-j6l)
+- [Why Computer Vision Isn’t the Best Choice for Control Systems](https://dev.to/gold_roger/why-computer-vision-isnt-the-best-choice-for-control-systems-33da)
+- [Building a Dice Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
+- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
 <!-- BLOG-POST-LIST:END -->
 
