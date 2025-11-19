@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping Local AI with Ollama &amp; Python in 10](https://dev.to/mabualzait/bootstrapping-local-ai-with-ollama-python-in-10-l4e)
-- [Vendor Tools &amp; Reliability — Lessons from the 2025 Cloud Outages](https://dev.to/smuppuri/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o)
-- [10x Productivity in Practice? A Real-World Experience Using Kiro to Refactor and Revive Legacy Code](https://dev.to/rexreus/10x-productivity-in-practice-a-real-world-experience-using-kiro-to-refactor-and-revive-legacy-code-292k)
-- [The Email List You Build When You Stop Annoying People](https://dev.to/synergistdigitalmedia/the-email-list-you-build-when-you-stop-annoying-people-24n7)
+- [C# Collections Quick Reference](https://dev.to/recurpixel/c-collections-quick-reference-k1h)
+- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf)
+- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)
+- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11)
 <!-- BLOG-POST-LIST:END -->
 
