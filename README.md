@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
-- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
-- [I Built Production-Ready 2FA &lpar;TOTP&rpar; in Node.js + Angular - Here&#39;s How](https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb)
-- [Context - Bridging the AI Agent&#39;s Blind Spot](https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6)
+- [I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and...](https://dev.to/wintrover/i-finally-achieved-automatic-id-card-and-face-capture-on-web-pages-face-similarity-comparison-1e40)
+- [Hot-Swapping and Microservitization--SPL Reporting](https://dev.to/esproc_spl/hot-swapping-and-microservitization-spl-reporting-583l)
+- [Blink Diagnostics: Decoding Health One Flutter at a Time](https://dev.to/arvind_sundararajan/blink-diagnostics-decoding-health-one-flutter-at-a-time-kk2)
+- [stopPropagation&lpar;&rpar;、catch &lpar;_&rpar;、定位属性、chrome.runtime.getURL、requestAnimationFrame&lpar;&rpar;](https://dev.to/nikimunger/stoppropagation-catch-ding-wei-shu-xing-chromeruntimegeturl-requestanimationframe-16e3)
 <!-- BLOG-POST-LIST:END -->
 
