@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
-- [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
-- [How To Convert Figma Design To React + MUI Code In Minutes](https://dev.to/the_greatbonnie/how-to-convert-figma-design-to-react-mui-code-in-minutes-l9l)
-- [⚠️ When Voting Rights Become a Weapon for Cybercriminals — The SIR Verification Scam](https://dev.to/sybersecure/when-voting-rights-become-a-weapon-for-cybercriminals-the-sir-verification-scam-534j)
+- [Microsoft Ignite 2025 for Devs &amp; DevOps: My Top Announcements](https://dev.to/pwd9000/microsoft-ignite-2025-for-devs-devops-my-top-announcements-4f6i)
+- [Understanding Content Security Policy &lpar;CSP&rpar;](https://dev.to/ozankozan/understanding-content-security-policy-csp-1hh5)
+- [Best AI Test Case Generation Tools &lpar;2025 Guide&rpar;](https://dev.to/morrismoses149/best-ai-test-case-generation-tools-2025-guide-35b9)
+- [Queen City Con 0x3: Hacking And Embracing Resiliency](https://dev.to/gitguardian/queen-city-con-0x3-hacking-and-embracing-resiliency-7hl)
 <!-- BLOG-POST-LIST:END -->
 
