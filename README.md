@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Of Type and Interface: TypeScript Tales Ch. 01](https://dev.to/arbishal/of-type-and-interface-typescript-tales-ch-01-39de)
-- [Building a Serverless Student Management System Using AWS &lpar;Lambda, API Gateway, DynamoDB, S3 &amp; CloudFront&rpar;](https://dev.to/faheem_abid011_4eaf853dc/building-a-serverless-student-management-system-using-aws-lambda-api-gateway-dynamodb-s3--46i0)
-- [How to Create Groups Efficiently in Tableau: Origins, Real-World Applications, and Case Studies](https://dev.to/vamshi_e_eebe5a6287a27142/how-to-create-groups-efficiently-in-tableau-origins-real-world-applications-and-case-studies-4dp)
-- [🧠 What 7 Years in .NET Development Taught Me About Software Craftsmanship](https://dev.to/heshamessam/what-7-years-in-net-development-taught-me-about-software-craftsmanship-5866)
+- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
+- [Real-Time Video with the WebRTC MediaStream API](https://dev.to/mohammad_owaisk_e95f45c/real-time-video-with-the-webrtc-mediastream-api-3e12)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
+- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
 <!-- BLOG-POST-LIST:END -->
 
