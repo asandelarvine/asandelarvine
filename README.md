@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Achieved Automatic ID Card and Face Capture on Web Pages, Face Similarity Comparison Between Images and Videos, and...](https://dev.to/wintrover/i-finally-achieved-automatic-id-card-and-face-capture-on-web-pages-face-similarity-comparison-1e40)
-- [Hot-Swapping and Microservitization--SPL Reporting](https://dev.to/esproc_spl/hot-swapping-and-microservitization-spl-reporting-583l)
-- [Blink Diagnostics: Decoding Health One Flutter at a Time](https://dev.to/arvind_sundararajan/blink-diagnostics-decoding-health-one-flutter-at-a-time-kk2)
-- [stopPropagation&lpar;&rpar;、catch &lpar;_&rpar;、定位属性、chrome.runtime.getURL、requestAnimationFrame&lpar;&rpar;](https://dev.to/nikimunger/stoppropagation-catch-ding-wei-shu-xing-chromeruntimegeturl-requestanimationframe-16e3)
+- [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/unauthorized/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
+- [Quesby 0.1.2 is now available!](https://dev.to/quesby/quesby-012-is-now-available-2ae6)
+- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
+- [uniapp里 rich-text 里的img图片如何控制最大宽度](https://dev.to/cheng_qian_8382fdc61158ce/uniappli-rich-text-li-de-imgtu-pian-ru-he-kong-zhi-zui-da-kuan-du-1bm9)
 <!-- BLOG-POST-LIST:END -->
 
