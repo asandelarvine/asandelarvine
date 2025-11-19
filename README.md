@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Bot Argues With My Swagger Schema &lpar;And Why That&#39;s Good&rpar;](https://dev.to/aragossa/my-ai-bot-argues-with-my-swagger-schema-and-why-thats-good-1efl)
-- [Database handling using Python Alembic and SQL Alchemy](https://dev.to/shreshthajit_das_1a7b40f5/database-handling-using-python-alembic-and-sql-alchemy-3a12)
-- [Introducing Google Antigravity, a New Era in AI-Assisted Software Development](https://dev.to/googleai/introducing-google-antigravity-a-new-era-in-ai-assisted-software-development-275d)
-- [I Built a Production-Ready Next.js Boilerplate &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-boilerplate-so-you-dont-have-to-17d3)
+- [Building a Risk Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-risk-battle-simulator-when-board-games-meet-monte-carlo-59o6)
+- [Hotel Search System Design](https://dev.to/sumedhbala/hotel-search-system-design-5ea4)
+- [Better integrate your AppImage with .desktop file](https://dev.to/dawhistler/better-integrate-your-appimage-with-desktop-file-41o0)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
 <!-- BLOG-POST-LIST:END -->
 
