@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Useful Coding Tools That Will Instantly Improve Your Dev Game 🔥🚀](https://dev.to/madza/8-useful-coding-tools-that-will-instantly-improve-your-dev-game-2fgo)
-- [Flexible DSL Embedding Using Prefix-Guided Syntax](https://dev.to/canonical/flexible-dsl-embedding-using-prefix-guided-syntax-4m85)
-- [What Is the Real Value of an AI Daily Planner?](https://dev.to/mahi_dholpure_0b4a20eb4b5/what-is-the-real-value-of-an-ai-daily-planner-1kdb)
-- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
+- [🚀 A Complete Guide to Rendering Agents &amp; Workflows Using Agent Framework Dev UI](https://dev.to/sayen_vv_cc7f3d9662139d60/a-complete-guide-to-rendering-agents-workflows-using-agent-framework-dev-ui-2jgl)
+- [Day 3: Type Casting - Transforming Data Types - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-3-type-casting-transforming-data-types-30-days-of-python-challenge-26ip)
+- [Saving Game Data in Unity — Part 4: SQLite](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-4-sqlite-4mdd)
+- [I got so annoyed with AI coding assistants that I built my own.](https://dev.to/vmayorskiyac/i-got-so-annoyed-with-ai-coding-assistants-that-i-built-my-own-5dfa)
 <!-- BLOG-POST-LIST:END -->
 
