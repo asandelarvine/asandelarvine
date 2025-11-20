@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Live: How I Deployed My Water Quality ML API to the Cloud in 5 Minutes](https://dev.to/techkene/going-live-how-i-deployed-my-water-quality-ml-api-to-the-cloud-in-5-minutes-hhc)
-- [The Simple Guide to Smarter Matka Planning and Daily Number Tracking](https://dev.to/knox_va_e2c78bf2dbac9077c/the-simple-guide-to-smarter-matka-planning-and-daily-number-tracking-3do)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
+- [Pinduoduo API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/pinduoduo-api-tutorial-on-retrieving-product-details-page-data-via-product-link-a43)
+- [Mikrotik RB952Ui-5ac2nD — ორმხრივი Wi-Fi როუტერი მცირე ქსელებისთვის - Review and Guide](https://dev.to/innocomltd/mikrotik-rb952ui-5ac2nd-ormxrivi-wi-fi-routeri-mcire-kselebistvis-review-and-guide-i43)
+- [How to Fix &quot;App Not Installed&quot; Error on Android: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-app-not-installed-error-on-android-complete-troubleshooting-guide-4528)
+- [A Zero-Build Web Framework with Pure JavaScript](https://dev.to/benlue/a-zero-build-web-framework-with-pure-javascript-4cpb)
 <!-- BLOG-POST-LIST:END -->
 
