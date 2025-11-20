@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessing the Dark Web Safely: What Researchers Should Know](https://dev.to/tor_bbb/accessing-the-dark-web-safely-what-researchers-should-know-4k1)
-- [Best AI Rank Monitoring Softwares](https://dev.to/babamanga/best-ai-rank-monitoring-softwares-49p5)
-- [The difference method shows us the elements of one set that are not found in the other](https://dev.to/onaolapo11/the-difference-method-shows-us-the-elements-of-one-set-that-are-not-found-in-the-other-1kde)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
+- [Gemini 3: the multimodal leap redefining Google’s artificial intelligence](https://dev.to/vicodev/gemini-3-the-multimodal-leap-redefining-googles-artificial-intelligence-3fa0)
+- [Gemini 3: el salto multimodal que redefine la inteligencia artificial de Google](https://dev.to/vicodev/gemini-3-el-salto-multimodal-que-redefine-la-inteligencia-artificial-de-google-1nn0)
+- [Zero-Click Content: How to Win When Nobody Visits Your Website](https://dev.to/synergistdigitalmedia/zero-click-content-how-to-win-when-nobody-visits-your-website-jjj)
+- [Navigating AWS EKS with Terraform: Configuring Karpenter for Just-in-Time Node Provisioning](https://dev.to/aws-builders/navigating-aws-eks-with-terraform-configuring-karpenter-for-just-in-time-node-provisioning-5g45)
 <!-- BLOG-POST-LIST:END -->
 
