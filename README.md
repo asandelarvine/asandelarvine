@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
-- [STN Hackathon 2025](https://dev.to/prajwal_up/stn-hackathon-2025-ghg)
-- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
-- [🚀 Experience Liftoff: Google Antigravity—The Agent-First IDE Redefining Development](https://dev.to/sauravkumar8178/experience-liftoff-google-antigravity-the-agent-first-ide-redefining-development-55oe)
+- [ChatGPT Search vs. Google: The Optimization Split Nobody Asked For &lpar;But Here We Are&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-vs-google-the-optimization-split-nobody-asked-for-but-here-we-are-3523)
+- [Contributing to Optimization in Open Source Project](https://dev.to/denisc96/contributing-to-optimization-in-open-source-project-2fap)
+- [Day 49 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-49-of-100-days-dsa-coding-challenge-5c56)
+- [Conecta Notion y AI en n8n: ¡Adiós API, hola MCP OAuth2!](https://dev.to/macorreag/conecta-notion-y-ai-en-n8n-adios-api-hola-mcp-oauth2-53h2)
 <!-- BLOG-POST-LIST:END -->
 
