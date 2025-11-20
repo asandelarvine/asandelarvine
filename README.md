@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trysil - API REST made simple](https://dev.to/davidlastrucci/trysil-api-rest-made-simple-40j1)
-- [Nigeria&#39;s Tax Reform 2025: What It Means for You &lpar;And Why TaxEngine Changes Everything&rpar;](https://dev.to/iamcymentho/nigerias-tax-reform-2025-what-it-means-for-you-and-why-taxengine-changes-everything-fll)
-- [🌱La maternidad, la pausa laboral… y un clic](https://dev.to/laumontironi/la-maternidad-la-pausa-laboral-y-un-clic-476p)
-- [🕵️‍♂️ The Case of the Missing S3 Metadata: A CORS Deep Dive](https://dev.to/vavilov2212/the-case-of-the-missing-s3-metadata-a-cors-deep-dive-1gag)
+- [Accessing the Dark Web Safely: What Researchers Should Know](https://dev.to/tor_bbb/accessing-the-dark-web-safely-what-researchers-should-know-4k1)
+- [Best AI Rank Monitoring Softwares](https://dev.to/babamanga/best-ai-rank-monitoring-softwares-49p5)
+- [The difference method shows us the elements of one set that are not found in the other](https://dev.to/onaolapo11/the-difference-method-shows-us-the-elements-of-one-set-that-are-not-found-in-the-other-1kde)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
 <!-- BLOG-POST-LIST:END -->
 
