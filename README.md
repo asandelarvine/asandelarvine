@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
-- [CancellationToken: The Complete Technical Guide for .NET Developers](https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p)
-- [Implementing SCA tools in large legacy Android Project](https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije)
-- [C# Async/Await in .NET 10: The Complete Technical Guide for 2025](https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii)
+- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
+- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
+- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
+- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
 <!-- BLOG-POST-LIST:END -->
 
