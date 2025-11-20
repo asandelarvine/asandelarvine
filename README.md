@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Semantic API Search: Find Any API Faster — No Exact Keywords Needed](https://dev.to/eleanor_fairfax_5ce95399d/ai-semantic-api-search-find-any-api-faster-no-exact-keywords-needed-343f)
-- [The 3 Most Subtle Solidity Bugs We Found in Audits &lpar;And How We Found Them&rpar;](https://dev.to/extropy/the-3-most-subtle-solidity-bugs-we-found-in-audits-and-how-we-found-them-549c)
-- [How to Convert XLS to XLSX and Vice Versa Using Java](https://dev.to/leondavis1991/how-to-convert-xls-to-xlsx-and-vice-versa-using-java-284o)
-- [Another amazing version with so many innovations. Discover &amp; try the open source digital workplace eXo Platform](https://dev.to/anne_sophieduport_53fc1b/another-amazing-version-with-so-many-innovations-discover-try-the-open-source-digital-workplace-31mm)
+- [Rethinking Frontend Scalability: The “UI Composition Architecture” Pattern for Large React Applications](https://dev.to/riturathin/rethinking-frontend-scalability-the-ui-composition-architecture-pattern-for-large-react-3mpn)
+- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
+- [🚇 I Built a Mini Metro–Style Multiplayer Game on Rune &lpar;And Learned a Lot About Real-Time Sync&rpar;](https://dev.to/asaleg/i-built-a-mini-metro-style-multiplayer-game-on-rune-and-learned-a-lot-about-real-time-sync-1330)
+- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
 <!-- BLOG-POST-LIST:END -->
 
