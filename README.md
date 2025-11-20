@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Frontend Scalability: The “UI Composition Architecture” Pattern for Large React Applications](https://dev.to/riturathin/rethinking-frontend-scalability-the-ui-composition-architecture-pattern-for-large-react-3mpn)
-- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
-- [🚇 I Built a Mini Metro–Style Multiplayer Game on Rune &lpar;And Learned a Lot About Real-Time Sync&rpar;](https://dev.to/asaleg/i-built-a-mini-metro-style-multiplayer-game-on-rune-and-learned-a-lot-about-real-time-sync-1330)
-- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
+- [What Is A Codec? Full Codec Comparison Guide [2025 Updated]](https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl)
+- [Data Protection in Blockchain | CCPA Compliance](https://dev.to/umang_suthar_9bad6f345a8a/data-protection-in-blockchain-ccpa-compliance-2bee)
+- [How I vibe code: Improving my site design with Goose and Gemini 3](https://dev.to/debs_obrien/how-i-vibe-code-improving-my-site-design-with-goose-and-gemini-3-2a3k)
+- [5 Quick DevEx Audit Wins](https://dev.to/linkbenjamin/5-quick-devex-audit-wins-1h7l)
 <!-- BLOG-POST-LIST:END -->
 
