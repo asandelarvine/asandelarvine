@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
-- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
+- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
+- [CancellationToken: The Complete Technical Guide for .NET Developers](https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p)
+- [Implementing SCA tools in large legacy Android Project](https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije)
+- [C# Async/Await in .NET 10: The Complete Technical Guide for 2025](https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii)
 <!-- BLOG-POST-LIST:END -->
 
