@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Agile Team Might Be Building on Hope, Not Discipline](https://dev.to/stevenstuartm/why-your-agile-team-might-be-building-on-hope-not-discipline-1f88)
-- [SDG Peace &amp; War Safety Awareness Website | By Michael &amp; Gabriel](https://dev.to/michaelssekabanja14maker/sdg-peace-war-safety-awareness-website-by-michael-gabriel-2on3)
-- [#A Senior Developer Challenge](https://dev.to/liquidcode/a-senior-developer-challenge-403a)
-- [The Secret Life of Python: Bytecode Secrets - What Python Really Runs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-bytecode-secrets-what-python-really-runs-328f)
+- [Trysil - API REST made simple](https://dev.to/davidlastrucci/trysil-api-rest-made-simple-40j1)
+- [Nigeria&#39;s Tax Reform 2025: What It Means for You &lpar;And Why TaxEngine Changes Everything&rpar;](https://dev.to/iamcymentho/nigerias-tax-reform-2025-what-it-means-for-you-and-why-taxengine-changes-everything-fll)
+- [🌱La maternidad, la pausa laboral… y un clic](https://dev.to/laumontironi/la-maternidad-la-pausa-laboral-y-un-clic-476p)
+- [🕵️‍♂️ The Case of the Missing S3 Metadata: A CORS Deep Dive](https://dev.to/vavilov2212/the-case-of-the-missing-s3-metadata-a-cors-deep-dive-1gag)
 <!-- BLOG-POST-LIST:END -->
 
