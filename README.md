@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 A Complete Guide to Rendering Agents &amp; Workflows Using Agent Framework Dev UI](https://dev.to/sayen_vv_cc7f3d9662139d60/a-complete-guide-to-rendering-agents-workflows-using-agent-framework-dev-ui-2jgl)
-- [Day 3: Type Casting - Transforming Data Types - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-3-type-casting-transforming-data-types-30-days-of-python-challenge-26ip)
-- [Saving Game Data in Unity — Part 4: SQLite](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-4-sqlite-4mdd)
-- [I got so annoyed with AI coding assistants that I built my own.](https://dev.to/vmayorskiyac/i-got-so-annoyed-with-ai-coding-assistants-that-i-built-my-own-5dfa)
+- [Turn your code into OpenAPI 3.0 docs in seconds](https://dev.to/qodex-ai/turn-your-code-into-openapi-30-docs-in-seconds-2b75)
+- [Dockerizing Java and Python Applications](https://dev.to/altairlage/dockerizing-java-and-python-applications-4n7l)
+- [Why Reading Tools Will Be the Next Big AI Category](https://dev.to/jackm_345442a09fb53b/why-reading-tools-will-be-the-next-big-ai-category-14i9)
+- [How Microsoft Agent Framework + AG-UI Enable Agentic UX &amp; Generative UI](https://dev.to/copilotkit/how-microsoft-agent-framework-ag-ui-enable-agentic-ux-generative-ui-eci)
 <!-- BLOG-POST-LIST:END -->
 
