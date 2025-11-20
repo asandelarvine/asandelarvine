@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dealing with stale closure in React](https://dev.to/thekhairul/dealing-with-stale-closure-in-react-395i)
-- [.slnx vs .sln: What&#39;s the Difference?](https://dev.to/rasheedmozaffar/slnx-vs-sln-whats-the-difference-n2f)
-- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
-- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
+- [Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال](https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c)
+- [Padrões de projeto no front-end?](https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip)
+- [UTP Cat6 Patch cord,7*0.16 26AWG &lpar;CCA&rpar; 0.5m - Review](https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did)
+- [Entendendo Sícrono vs Assíncrono: Threads, Await e Performance](https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3)
 <!-- BLOG-POST-LIST:END -->
 
