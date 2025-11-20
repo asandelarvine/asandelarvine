@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: Secret Management Engines](https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb)
-- [🚀 Type Alias in TypeScript: Why I Use Them Every Day &lpar;And How They Compare to Interfaces&rpar;](https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n)
-- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
-- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
+- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
+- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
+- [How to Fix a Commit Message](https://dev.to/david_shimon_0c086967acb5/how-to-fix-a-commit-message-14ec)
+- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
 <!-- BLOG-POST-LIST:END -->
 
