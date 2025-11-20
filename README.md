@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you should stop writing long functions](https://dev.to/giftintech/why-you-should-stop-writing-long-functions-1588)
-- [Mikrotik LtAP mini LTE kit — LTE-ready გარე Wi-Fi gateway GPS-ით - Review and Guide](https://dev.to/innocomltd/mikrotik-ltap-mini-lte-kit-lte-ready-gare-wi-fi-gateway-gps-it-review-and-guide-4amp)
-- [Mikrotik RB912R-2nD-LTm - LTE გარე როუტერი GPS-ით - Review and Guide](https://dev.to/innocomltd/mikrotik-rb912r-2nd-ltm-lte-gare-routeri-gps-it-review-and-guide-1lch)
-- [Hello everyone!
-Hope you’re all doing well. I’ve been exploring AWS and serverless lately, and I enjoy sharing clear, simple explanations of what I learn. Looking forward to good discussions and connecting with like-minded people here!](https://dev.to/krisha_arya_55/hello-everyone-hope-youre-all-doing-well-ive-been-exploring-aws-and-serverless-lately-and-i-ikk)
+- [Dealing with stale closure in React](https://dev.to/thekhairul/dealing-with-stale-closure-in-react-395i)
+- [.slnx vs .sln: What&#39;s the Difference?](https://dev.to/rasheedmozaffar/slnx-vs-sln-whats-the-difference-n2f)
+- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
+- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
 <!-- BLOG-POST-LIST:END -->
 
