@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinduoduo API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/pinduoduo-api-tutorial-on-retrieving-product-details-page-data-via-product-link-a43)
-- [Mikrotik RB952Ui-5ac2nD — ორმხრივი Wi-Fi როუტერი მცირე ქსელებისთვის - Review and Guide](https://dev.to/innocomltd/mikrotik-rb952ui-5ac2nd-ormxrivi-wi-fi-routeri-mcire-kselebistvis-review-and-guide-i43)
-- [How to Fix &quot;App Not Installed&quot; Error on Android: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-app-not-installed-error-on-android-complete-troubleshooting-guide-4528)
-- [A Zero-Build Web Framework with Pure JavaScript](https://dev.to/benlue/a-zero-build-web-framework-with-pure-javascript-4cpb)
+- [AI Semantic API Search: Find Any API Faster — No Exact Keywords Needed](https://dev.to/eleanor_fairfax_5ce95399d/ai-semantic-api-search-find-any-api-faster-no-exact-keywords-needed-343f)
+- [The 3 Most Subtle Solidity Bugs We Found in Audits &lpar;And How We Found Them&rpar;](https://dev.to/extropy/the-3-most-subtle-solidity-bugs-we-found-in-audits-and-how-we-found-them-549c)
+- [How to Convert XLS to XLSX and Vice Versa Using Java](https://dev.to/leondavis1991/how-to-convert-xls-to-xlsx-and-vice-versa-using-java-284o)
+- [Another amazing version with so many innovations. Discover &amp; try the open source digital workplace eXo Platform](https://dev.to/anne_sophieduport_53fc1b/another-amazing-version-with-so-many-innovations-discover-try-the-open-source-digital-workplace-31mm)
 <!-- BLOG-POST-LIST:END -->
 
