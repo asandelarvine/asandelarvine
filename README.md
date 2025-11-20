@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
-- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
-- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
-- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
+- [Why Your Agile Team Might Be Building on Hope, Not Discipline](https://dev.to/stevenstuartm/why-your-agile-team-might-be-building-on-hope-not-discipline-1f88)
+- [SDG Peace &amp; War Safety Awareness Website | By Michael &amp; Gabriel](https://dev.to/michaelssekabanja14maker/sdg-peace-war-safety-awareness-website-by-michael-gabriel-2on3)
+- [#A Senior Developer Challenge](https://dev.to/liquidcode/a-senior-developer-challenge-403a)
+- [The Secret Life of Python: Bytecode Secrets - What Python Really Runs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-bytecode-secrets-what-python-really-runs-328f)
 <!-- BLOG-POST-LIST:END -->
 
