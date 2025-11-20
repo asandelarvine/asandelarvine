@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
-- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
-- [How to Fix a Commit Message](https://dev.to/david_shimon_0c086967acb5/how-to-fix-a-commit-message-14ec)
-- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
+- [Going Live: How I Deployed My Water Quality ML API to the Cloud in 5 Minutes](https://dev.to/techkene/going-live-how-i-deployed-my-water-quality-ml-api-to-the-cloud-in-5-minutes-hhc)
+- [The Simple Guide to Smarter Matka Planning and Daily Number Tracking](https://dev.to/knox_va_e2c78bf2dbac9077c/the-simple-guide-to-smarter-matka-planning-and-daily-number-tracking-3do)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
 <!-- BLOG-POST-LIST:END -->
 
