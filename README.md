@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
-- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
-- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
-- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
+- [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
+- [STN Hackathon 2025](https://dev.to/prajwal_up/stn-hackathon-2025-ghg)
+- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
+- [🚀 Experience Liftoff: Google Antigravity—The Agent-First IDE Redefining Development](https://dev.to/sauravkumar8178/experience-liftoff-google-antigravity-the-agent-first-ide-redefining-development-55oe)
 <!-- BLOG-POST-LIST:END -->
 
