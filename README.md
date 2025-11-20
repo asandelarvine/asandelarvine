@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال](https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c)
-- [Padrões de projeto no front-end?](https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip)
-- [UTP Cat6 Patch cord,7*0.16 26AWG &lpar;CCA&rpar; 0.5m - Review](https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did)
-- [Entendendo Sícrono vs Assíncrono: Threads, Await e Performance](https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3)
+- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
+- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
+- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
+- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
 <!-- BLOG-POST-LIST:END -->
 
