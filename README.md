@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Search vs. Google: The Optimization Split Nobody Asked For &lpar;But Here We Are&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-vs-google-the-optimization-split-nobody-asked-for-but-here-we-are-3523)
-- [Contributing to Optimization in Open Source Project](https://dev.to/denisc96/contributing-to-optimization-in-open-source-project-2fap)
-- [Day 49 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-49-of-100-days-dsa-coding-challenge-5c56)
-- [Conecta Notion y AI en n8n: ¡Adiós API, hola MCP OAuth2!](https://dev.to/macorreag/conecta-notion-y-ai-en-n8n-adios-api-hola-mcp-oauth2-53h2)
+- [Hashicorp Vault: Secret Management Engines](https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb)
+- [🚀 Type Alias in TypeScript: Why I Use Them Every Day &lpar;And How They Compare to Interfaces&rpar;](https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n)
+- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
+- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
 <!-- BLOG-POST-LIST:END -->
 
