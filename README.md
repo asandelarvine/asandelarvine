@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
-- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
+- [If your articles are not getting the right audience, then remember:
+
+Your article quality is not the problem. Your distribution system is. Great writing alone doesn’t win on Dev.to.](https://dev.to/jaideepparashar/if-your-articles-are-not-getting-the-right-audience-then-remember-your-article-quality-is-not-5bdj)
+- [HQRST is Recommended for Lightweight Task Management](https://dev.to/stakiran/hqrst-is-recommended-for-lightweight-task-management-3nlg)
+- [Why Your Dev.to Articles Aren’t Getting Views &lpar;And How to Fix That&rpar;](https://dev.to/jaideepparashar/why-your-devto-articles-arent-getting-views-and-how-to-fix-that-2o96)
+- [From Legacy Photos to Modern Assets: How Batch Background Removal Can Revamp Your Old Image Library](https://dev.to/freepixel11/from-legacy-photos-to-modern-assets-how-batch-background-removal-can-revamp-your-old-image-library-236o)
 <!-- BLOG-POST-LIST:END -->
 
