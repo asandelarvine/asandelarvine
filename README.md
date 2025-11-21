@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between .JAR and .WAR packaging in JAVA](https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph)
-- [Building a Technical Blog with Astro + Cloudflare](https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l)
-- [How to Compress Your Prompts and Reduce LLM Costs](https://dev.to/manishmshiva/how-to-compress-your-prompts-and-reduce-llm-costs-3pa)
-- [Swarm: How Browser-Based Compute Networks Turn Everyday Devices Into a Distributed Supercomputer](https://dev.to/neurolov__ai/swarm-how-browser-based-compute-networks-turn-everyday-devices-into-a-distributed-supercomputer-2bf0)
+- [What Every Programmer Should Know About Memory &lpar;Part 1&rpar;](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-1-385e)
+- [I Built GitPulse — A Faster Way to Find Beginner-Friendly Open-Source Projects](https://dev.to/jondoehimself/i-built-gitpulse-a-faster-way-to-find-beginner-friendly-open-source-projects-407e)
+- [🚀 New React Challenge: How Many Days Old Are You?](https://dev.to/duffmancc/new-react-challenge-how-many-days-old-are-you-4ka3)
+- [Smarter Search: A Revolutionary Algorithm for Crushing Complex Optimization by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smarter-search-a-revolutionary-algorithm-for-crushing-complex-optimization-by-arvind-sundararajan-30d2)
 <!-- BLOG-POST-LIST:END -->
 
