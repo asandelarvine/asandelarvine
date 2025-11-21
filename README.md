@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Whisperx model by Victor-Upmeet on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-whisperx-model-by-victor-upmeet-on-replicate-pj0)
-- [Making dynamic UIs accessible with ARIA live regions](https://dev.to/nick_fe_nick/making-dynamic-uis-accessible-with-aria-live-regions-531d)
-- [After-Sales Support from Mini Asphalt Plant Manufacturers Reduces Long-Term Costs](https://dev.to/macroad/after-sales-support-from-mini-asphalt-plant-manufacturers-reduces-long-term-costs-2589)
-- [📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025](https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c)
+- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
+- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
+- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
+- [Merging Multiple File Types into One PDF in C#](https://dev.to/yahey/merging-multiple-file-types-into-one-pdf-in-c-19pb)
 <!-- BLOG-POST-LIST:END -->
 
