@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
-- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
-- [ClausTk - A Tkinter library for creating New Year&#39;s and Christmas-themed interfaces](https://dev.to/limafresh/claustk-a-tkinter-library-for-creating-new-years-and-christmas-themed-interfaces-od9)
-- [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
+- [How I’m Building a Racing-Analysis Web App from Raw Telemetry](https://dev.to/ibrahimpima/how-im-building-a-racing-analysis-web-app-from-raw-telemetry-59g)
+- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
+- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
+- [How Becoming a Parent Helped Me Notice the Small Things](https://dev.to/eli-sanderson/how-becoming-a-parent-helped-me-notice-the-small-things-i79)
 <!-- BLOG-POST-LIST:END -->
 
