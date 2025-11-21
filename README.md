@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
-- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-5d96)
-- [Using AWS Like A Pro: Best Practices From Solutions Architects](https://dev.to/john_asmith_bdd2c6cdfa0/using-aws-like-a-pro-best-practices-from-solutions-architects-1kcg)
-- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
+- [Implementasi Theme Switcher di NextJS Tanpa Ribet, Flicker Free + Persist via localStorage Pakai Context API.](https://dev.to/seljarante/implementasi-theme-switcher-di-nextjs-tanpa-ribet-flicker-free-persist-via-localstorage-pakai-24ai)
+- [AuthController](https://dev.to/sugumar_8fe6aa709ab474ae3/authcontroller-178i)
+- [AI Infrastructure on Consumer Hardware](https://dev.to/rosgluk/ai-infrastructure-on-consumer-hardware-4cpj)
+- [Build Python Packages: Development to PyPI Guide](https://dev.to/rosgluk/build-python-packages-development-to-pypi-guide-39)
 <!-- BLOG-POST-LIST:END -->
 
