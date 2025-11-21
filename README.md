@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Recap: Caching in Java](https://dev.to/codeintention/quick-recap-caching-in-java-3k5k)
-- [Hack a Windows System Using PowerShell](https://dev.to/scofieldidehen/hack-a-windows-system-using-powershell-67e)
-- [Slim shock : the index file](https://dev.to/xwero/slim-shock-the-index-file-1h8d)
-- [De Ubuntu a Windows: Documentando el proceso de creación de un USB booteable](https://dev.to/edhersan/de-ubuntu-a-windows-documentando-el-proceso-de-creacion-de-un-usb-booteable-3aeo)
+- [Agentic Postgres Challenge: Winner Announcement Delayed](https://dev.to/devteam/agentic-postgres-challenge-winner-announcement-delayed-27c7)
+- [Testing
+
+https://github.com/stormkit-io/stormkit-io/blob/main/CHANGELOG.md/](https://dev.to/ben/testinghttpsgithubcomstormkit-iostormkit-ioblobmainchangelogmd-f2)
+- [Testing
+
+https://github.com/stormkit-io/stormkit-io/blob/main/CHANGELOG.md](https://dev.to/ben/testinghttpsgithubcomstormkit-iostormkit-ioblobmainchangelogmd-2kjl)
+- [🌟 My Journey to Becoming a Full Stack Developer &lpar;React, Node &amp; React Native&rpar;](https://dev.to/lavisingh0630/my-journey-to-becoming-a-full-stack-developer-react-node-react-native-50nj)
 <!-- BLOG-POST-LIST:END -->
 
