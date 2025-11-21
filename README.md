@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Postgres Challenge: Winner Announcement Delayed](https://dev.to/devteam/agentic-postgres-challenge-winner-announcement-delayed-27c7)
-- [Testing
-
-https://github.com/stormkit-io/stormkit-io/blob/main/CHANGELOG.md/](https://dev.to/ben/testinghttpsgithubcomstormkit-iostormkit-ioblobmainchangelogmd-f2)
-- [Testing
-
-https://github.com/stormkit-io/stormkit-io/blob/main/CHANGELOG.md](https://dev.to/ben/testinghttpsgithubcomstormkit-iostormkit-ioblobmainchangelogmd-2kjl)
-- [🌟 My Journey to Becoming a Full Stack Developer &lpar;React, Node &amp; React Native&rpar;](https://dev.to/lavisingh0630/my-journey-to-becoming-a-full-stack-developer-react-node-react-native-50nj)
+- [Laeyrd - Create theme &amp; customize VS Code without touching JSON 😁](https://dev.to/rajeev_theenggs/laeyrd-create-theme-customize-vs-code-without-touching-json-387b)
+- [I Built A Browser Extension That Save ChatGPT, Claude, Grok, DeepSeek &amp; Gemini](https://dev.to/kudrot_adegoke_56c2820fe8/i-built-a-browser-extension-that-save-chatgpt-claude-grok-deepseek-gemini-3k2o)
+- [How I Fixed a Confusing Bug in NumPy](https://dev.to/jongwan93/how-i-fixed-a-confusing-bug-in-numpy-1gkj)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
 <!-- BLOG-POST-LIST:END -->
 
