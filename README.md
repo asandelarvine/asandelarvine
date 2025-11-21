@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Management for Macro Hedging on AWS](https://dev.to/aws-builders/portfolio-management-for-macro-hedging-on-aws-h5l)
-- [Theory-Guided Data Science: A Smarter Way to Use Data](https://dev.to/deep_data_insight/theory-guided-data-science-a-smarter-way-to-use-data-e02)
-- [Type hints in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-hints-in-python-2-4igm)
-- [Unlocking Smarter Sites with AI-Powered Web Design](https://dev.to/mabualzait/unlocking-smarter-sites-with-ai-powered-web-design-i51)
+- [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
+- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
 <!-- BLOG-POST-LIST:END -->
 
