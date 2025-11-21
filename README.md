@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
-- [Running Firefox in Docker? Yes, with a GUI and noVNC!](https://dev.to/danielcristho/running-firefox-in-docker-yes-with-a-gui-and-novnc-5fk)
-- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
-- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
+- [Quick Recap: Caching in Java](https://dev.to/codeintention/quick-recap-caching-in-java-3k5k)
+- [Hack a Windows System Using PowerShell](https://dev.to/scofieldidehen/hack-a-windows-system-using-powershell-67e)
+- [Slim shock : the index file](https://dev.to/xwero/slim-shock-the-index-file-1h8d)
+- [De Ubuntu a Windows: Documentando el proceso de creación de un USB booteable](https://dev.to/edhersan/de-ubuntu-a-windows-documentando-el-proceso-de-creacion-de-un-usb-booteable-3aeo)
 <!-- BLOG-POST-LIST:END -->
 
