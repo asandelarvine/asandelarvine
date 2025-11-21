@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laeyrd - Create theme &amp; customize VS Code without touching JSON 😁](https://dev.to/rajeev_theenggs/laeyrd-create-theme-customize-vs-code-without-touching-json-387b)
-- [I Built A Browser Extension That Save ChatGPT, Claude, Grok, DeepSeek &amp; Gemini](https://dev.to/kudrot_adegoke_56c2820fe8/i-built-a-browser-extension-that-save-chatgpt-claude-grok-deepseek-gemini-3k2o)
-- [How I Fixed a Confusing Bug in NumPy](https://dev.to/jongwan93/how-i-fixed-a-confusing-bug-in-numpy-1gkj)
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
+- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
+- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
+- [ClausTk - A Tkinter library for creating New Year&#39;s and Christmas-themed interfaces](https://dev.to/limafresh/claustk-a-tkinter-library-for-creating-new-years-and-christmas-themed-interfaces-od9)
+- [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
 <!-- BLOG-POST-LIST:END -->
 
