@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If your articles are not getting the right audience, then remember:
-
-Your article quality is not the problem. Your distribution system is. Great writing alone doesn’t win on Dev.to.](https://dev.to/jaideepparashar/if-your-articles-are-not-getting-the-right-audience-then-remember-your-article-quality-is-not-5bdj)
-- [HQRST is Recommended for Lightweight Task Management](https://dev.to/stakiran/hqrst-is-recommended-for-lightweight-task-management-3nlg)
-- [Why Your Dev.to Articles Aren’t Getting Views &lpar;And How to Fix That&rpar;](https://dev.to/jaideepparashar/why-your-devto-articles-arent-getting-views-and-how-to-fix-that-2o96)
-- [From Legacy Photos to Modern Assets: How Batch Background Removal Can Revamp Your Old Image Library](https://dev.to/freepixel11/from-legacy-photos-to-modern-assets-how-batch-background-removal-can-revamp-your-old-image-library-236o)
+- [Branding Case Study: How Neil Patel Turned His Name into the Ultimate SEO Tool](https://dev.to/rezapurnama/branding-case-study-how-neil-patel-turned-his-name-into-the-ultimate-seo-tool-5foo)
+- [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
+- [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
+- [JavaScript Closures Finally Clicked!](https://dev.to/siddheshcodes/javascript-closures-finally-clicked-hb4)
 <!-- BLOG-POST-LIST:END -->
 
