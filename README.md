@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Dev.to Journey: Learning, Building &amp; Sharing](https://dev.to/vishnugaruda246/starting-my-devto-journey-learning-building-sharing-4m6n)
-- [Machine Learning Isn&#39;t Intelligence &lpar;And That&#39;s Fine&rpar;](https://dev.to/evan_lausier/machine-learning-isnt-intelligence-and-thats-fine-3ji6)
-- [Quick Recap: SQL Databases](https://dev.to/codeintention/quick-recap-sql-databases-184)
-- [🏗️ Component-Driven Development: 2025 Edition](https://dev.to/tahamjp/component-driven-development-2025-edition-2fmo)
+- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
+- [Running Firefox in Docker? Yes, with a GUI and noVNC!](https://dev.to/danielcristho/running-firefox-in-docker-yes-with-a-gui-and-novnc-5fk)
+- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
+- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
 <!-- BLOG-POST-LIST:END -->
 
