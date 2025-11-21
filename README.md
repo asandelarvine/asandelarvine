@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
 - [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4p9j)
-- [Building Delta Health: Frontend Adventures in Empowering Rural Clinics](https://dev.to/toboreeee/building-delta-health-frontend-adventures-in-empowering-rural-clinics-42h3)
+- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
+- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
 <!-- BLOG-POST-LIST:END -->
 
