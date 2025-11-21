@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I’m Building a Racing-Analysis Web App from Raw Telemetry](https://dev.to/ibrahimpima/how-im-building-a-racing-analysis-web-app-from-raw-telemetry-59g)
-- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
-- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
-- [How Becoming a Parent Helped Me Notice the Small Things](https://dev.to/eli-sanderson/how-becoming-a-parent-helped-me-notice-the-small-things-i79)
+- [Introducing nenv — A portable, per-project Node.js runtime for Windows &lpar;no global install required&rpar;](https://dev.to/tabreezsajjad/introducing-nenv-a-portable-per-project-nodejs-runtime-for-windows-no-global-install-required-4fp7)
+- [When Heaven Teaches You How to Live: A Deep Journey Through Matthew Chapter 6](https://dev.to/douglasvandergraph/when-heaven-teaches-you-how-to-live-a-deep-journey-through-matthew-chapter-6-45mh)
+- [Building an AWS-Based RAG Pipeline](https://dev.to/elbanic/building-an-aws-based-rag-pipeline-1lp1)
+- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
 <!-- BLOG-POST-LIST:END -->
 
