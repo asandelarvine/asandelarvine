@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementasi Theme Switcher di NextJS Tanpa Ribet, Flicker Free + Persist via localStorage Pakai Context API.](https://dev.to/seljarante/implementasi-theme-switcher-di-nextjs-tanpa-ribet-flicker-free-persist-via-localstorage-pakai-24ai)
-- [AuthController](https://dev.to/sugumar_8fe6aa709ab474ae3/authcontroller-178i)
-- [AI Infrastructure on Consumer Hardware](https://dev.to/rosgluk/ai-infrastructure-on-consumer-hardware-4cpj)
-- [Build Python Packages: Development to PyPI Guide](https://dev.to/rosgluk/build-python-packages-development-to-pypi-guide-39)
+- [Difference between .JAR and .WAR packaging in JAVA](https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph)
+- [Building a Technical Blog with Astro + Cloudflare](https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l)
+- [How to Compress Your Prompts and Reduce LLM Costs](https://dev.to/manishmshiva/how-to-compress-your-prompts-and-reduce-llm-costs-3pa)
+- [Swarm: How Browser-Based Compute Networks Turn Everyday Devices Into a Distributed Supercomputer](https://dev.to/neurolov__ai/swarm-how-browser-based-compute-networks-turn-everyday-devices-into-a-distributed-supercomputer-2bf0)
 <!-- BLOG-POST-LIST:END -->
 
