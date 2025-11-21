@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3: the multimodal leap redefining Google’s artificial intelligence](https://dev.to/vicodev/gemini-3-the-multimodal-leap-redefining-googles-artificial-intelligence-3fa0)
-- [Gemini 3: el salto multimodal que redefine la inteligencia artificial de Google](https://dev.to/vicodev/gemini-3-el-salto-multimodal-que-redefine-la-inteligencia-artificial-de-google-1nn0)
-- [Zero-Click Content: How to Win When Nobody Visits Your Website](https://dev.to/synergistdigitalmedia/zero-click-content-how-to-win-when-nobody-visits-your-website-jjj)
-- [Navigating AWS EKS with Terraform: Configuring Karpenter for Just-in-Time Node Provisioning](https://dev.to/aws-builders/navigating-aws-eks-with-terraform-configuring-karpenter-for-just-in-time-node-provisioning-5g45)
+- [A beginner&#39;s guide to the Whisperx model by Victor-Upmeet on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-whisperx-model-by-victor-upmeet-on-replicate-pj0)
+- [Making dynamic UIs accessible with ARIA live regions](https://dev.to/nick_fe_nick/making-dynamic-uis-accessible-with-aria-live-regions-531d)
+- [After-Sales Support from Mini Asphalt Plant Manufacturers Reduces Long-Term Costs](https://dev.to/macroad/after-sales-support-from-mini-asphalt-plant-manufacturers-reduces-long-term-costs-2589)
+- [📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025](https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c)
 <!-- BLOG-POST-LIST:END -->
 
