@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving AI Email Classification Accuracy Through Prompt Engineering](https://dev.to/_877737de2d34ff8c6265/improving-ai-email-classification-accuracy-through-prompt-engineering-46lh)
-- [7 Dumb things I&#39;d do if I started a software company](https://dev.to/ivypuckett/7-dumb-things-id-do-if-i-started-a-software-company-4khi)
-- [A Complete Guide to Handling Missing Values in R: Concepts, Pitfalls, and Practical Imputation with mice](https://dev.to/dipti_moryani_08e62702314/a-complete-guide-to-handling-missing-values-in-r-concepts-pitfalls-and-practical-imputation-with-3b7l)
-- [How I Built My YouTube Title Generator &lpar;from Idea to AI Tool&rpar;](https://dev.to/samantcoursey/how-i-built-my-youtube-title-generator-from-idea-to-ai-tool-545n)
+- [Portfolio Management for Macro Hedging on AWS](https://dev.to/aws-builders/portfolio-management-for-macro-hedging-on-aws-h5l)
+- [Theory-Guided Data Science: A Smarter Way to Use Data](https://dev.to/deep_data_insight/theory-guided-data-science-a-smarter-way-to-use-data-e02)
+- [Type hints in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-hints-in-python-2-4igm)
+- [Unlocking Smarter Sites with AI-Powered Web Design](https://dev.to/mabualzait/unlocking-smarter-sites-with-ai-powered-web-design-i51)
 <!-- BLOG-POST-LIST:END -->
 
