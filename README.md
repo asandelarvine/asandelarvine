@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Branding Case Study: How Neil Patel Turned His Name into the Ultimate SEO Tool](https://dev.to/rezapurnama/branding-case-study-how-neil-patel-turned-his-name-into-the-ultimate-seo-tool-5foo)
-- [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
-- [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
-- [JavaScript Closures Finally Clicked!](https://dev.to/siddheshcodes/javascript-closures-finally-clicked-hb4)
+- [Understanding Virtual Accounts with Flutterwave](https://dev.to/flutterwaveeng/understanding-virtual-accounts-with-flutterwave-4mnm)
+- [Understanding the Party Wall Notice: When You Need It and How to Serve It Properly](https://dev.to/jason-edworthy/understanding-the-party-wall-notice-when-you-need-it-and-how-to-serve-it-properly-5dcj)
+- [Stop Using `?.` Everywhere - You&#39;re Hiding Your Bugs](https://dev.to/samuel_ochaba_eb9c875fa89/stop-using-everywhere-youre-hiding-your-bugs-1p54)
+- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
 <!-- BLOG-POST-LIST:END -->
 
