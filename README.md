@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
-- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
-- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
-- [Merging Multiple File Types into One PDF in C#](https://dev.to/yahey/merging-multiple-file-types-into-one-pdf-in-c-19pb)
+- [Improving AI Email Classification Accuracy Through Prompt Engineering](https://dev.to/_877737de2d34ff8c6265/improving-ai-email-classification-accuracy-through-prompt-engineering-46lh)
+- [7 Dumb things I&#39;d do if I started a software company](https://dev.to/ivypuckett/7-dumb-things-id-do-if-i-started-a-software-company-4khi)
+- [A Complete Guide to Handling Missing Values in R: Concepts, Pitfalls, and Practical Imputation with mice](https://dev.to/dipti_moryani_08e62702314/a-complete-guide-to-handling-missing-values-in-r-concepts-pitfalls-and-practical-imputation-with-3b7l)
+- [How I Built My YouTube Title Generator &lpar;from Idea to AI Tool&rpar;](https://dev.to/samantcoursey/how-i-built-my-youtube-title-generator-from-idea-to-ai-tool-545n)
 <!-- BLOG-POST-LIST:END -->
 
