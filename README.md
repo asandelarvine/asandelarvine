@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Virtual Accounts with Flutterwave](https://dev.to/flutterwaveeng/understanding-virtual-accounts-with-flutterwave-4mnm)
-- [Understanding the Party Wall Notice: When You Need It and How to Serve It Properly](https://dev.to/jason-edworthy/understanding-the-party-wall-notice-when-you-need-it-and-how-to-serve-it-properly-5dcj)
-- [Stop Using `?.` Everywhere - You&#39;re Hiding Your Bugs](https://dev.to/samuel_ochaba_eb9c875fa89/stop-using-everywhere-youre-hiding-your-bugs-1p54)
-- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
+- [The Ultimate MCP Guide for Vibe Coding: What 1000+ Reddit Developers Actually Use &lpar;2025 Edition&rpar;](https://dev.to/yigit-konur/the-ultimate-mcp-guide-for-vibe-coding-what-1000-reddit-developers-actually-use-2025-edition-11ie)
+- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-5d96)
+- [Using AWS Like A Pro: Best Practices From Solutions Architects](https://dev.to/john_asmith_bdd2c6cdfa0/using-aws-like-a-pro-best-practices-from-solutions-architects-1kcg)
+- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
 <!-- BLOG-POST-LIST:END -->
 
