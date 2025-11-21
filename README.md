@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing nenv — A portable, per-project Node.js runtime for Windows &lpar;no global install required&rpar;](https://dev.to/tabreezsajjad/introducing-nenv-a-portable-per-project-nodejs-runtime-for-windows-no-global-install-required-4fp7)
-- [When Heaven Teaches You How to Live: A Deep Journey Through Matthew Chapter 6](https://dev.to/douglasvandergraph/when-heaven-teaches-you-how-to-live-a-deep-journey-through-matthew-chapter-6-45mh)
-- [Building an AWS-Based RAG Pipeline](https://dev.to/elbanic/building-an-aws-based-rag-pipeline-1lp1)
-- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
+- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
+- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4p9j)
+- [Building Delta Health: Frontend Adventures in Empowering Rural Clinics](https://dev.to/toboreeee/building-delta-health-frontend-adventures-in-empowering-rural-clinics-42h3)
 <!-- BLOG-POST-LIST:END -->
 
