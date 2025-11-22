@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
-- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
-- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
-- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
+- [Camunda Health Monitor v2.0 Open Source: AI-Powered Intelligence](https://dev.to/dmitriy_champa_d458cfc7/camunda-health-monitor-v20-open-source-ai-powered-intelligence-4nlf)
+- [3 Realistic Paths Into Data Science &lpar;And How To Choose Yours&rpar;](https://dev.to/mashraf_aiman_b9a968e5c1d/3-realistic-paths-into-data-science-and-how-to-choose-yours-2lk7)
+- [Post-Holiday Retargeting Playbook: Converting December Browsers into January Buyers](https://dev.to/synergistdigitalmedia/post-holiday-retargeting-playbook-converting-december-browsers-into-january-buyers-15i0)
+- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
 <!-- BLOG-POST-LIST:END -->
 
