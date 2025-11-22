@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7: Simple Calculator - Putting It All Together - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-7-simple-calculator-putting-it-all-together-30-days-of-python-challenge-i9d)
-- [The Future of Digital Marketing: Strategies Businesses Can’t Ignore in 2025](https://dev.to/brand_a2db3fb555a521dd682/the-future-of-digital-marketing-strategies-businesses-cant-ignore-in-2025-2k38)
-- [Day 3: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-3-python-programming-2eo9)
-- [Untitled](https://dev.to/w_c_bbebf0827bbc4fbb8cbb4/untitled-3oee)
+- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
+- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
+- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
+- [Angular migration to AWS with Azure AD SSO](https://dev.to/vidya_netke_a9f0dc38b7886/angular-migration-to-aws-with-azure-ad-sso-28fc)
 <!-- BLOG-POST-LIST:END -->
 
