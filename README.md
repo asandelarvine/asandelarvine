@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Stopped &quot;Guessing&quot; and Started &quot;Thinking&quot;: Implementing a Planning &amp; Reasoning Architecture](https://dev.to/aragossa/my-ai-stopped-guessing-and-started-thinking-implementing-a-planning-reasoning-architecture-4ei3)
-- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-3o1b)
-- [AI assistance in Development](https://dev.to/divyansh_sareen_2d6e3baa7/ai-assistance-in-development-53nd)
-- [How to avoid getting your BetPKR account blocked?](https://dev.to/car_zilla_9a5c37d90329e8c/how-to-avoid-getting-your-betpkr-account-blocked-5amf)
+- [Scalable Multi-Tenant Architecture for Hundreds of Custom Domains](https://dev.to/peter_dyakov_06f3c69a46b7/scalable-multi-tenant-architecture-for-hundreds-of-custom-domains-56mn)
+- [My first flash loan protocol: A Solana adventure](https://dev.to/ola-zoll/my-first-flash-loan-protocol-a-solana-adventure-3i4k)
+- [Birthday Gift](https://dev.to/preetha_vaishnavi_2b82358/birthday-gift-23ng)
+- [🌿 The Tools That Make My Developer Life Easier](https://dev.to/rubiin/the-tools-that-make-my-developer-life-easier-1p06)
 <!-- BLOG-POST-LIST:END -->
 
