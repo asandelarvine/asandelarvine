@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Imminent Threat of an Atomic Catastrophe: Understanding and Preparing for the Worst](https://dev.to/guswoltmann84/the-imminent-threat-of-an-atomic-catastrophe-understanding-and-preparing-for-the-worst-5g35)
-- [Building a Weather-Aware Activity Tool with OpenWeather &amp; Mapbox](https://dev.to/lushkovskis/building-a-weather-aware-activity-tool-with-openweather-mapbox-1dbn)
-- [How to Find a Job as a Developer and What to Consider During an Interview](https://dev.to/gustavowoltmann18/how-to-find-a-job-as-a-developer-and-what-to-consider-during-an-interview-5cee)
-- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-154n)
+- [Maximize Your Developer Revenue through Monetzly&#39;s AI Monetization Tools](https://dev.to/monetzly/maximize-your-developer-revenue-through-monetzlys-ai-monetization-tools-3ml8)
+- [I built a tiny autosave engine for web forms](https://dev.to/plc-creates/i-built-a-tiny-autosave-engine-for-web-forms-1f08)
+- [Secrets to Smarter Architecture: AI&#39;s Role in 2025 Decisions](https://dev.to/pravin_niceguy/secrets-to-smarter-architecture-ais-role-in-2025-decisions-358g)
+- [Robot Toolsmiths: Why Confidence Isn&#39;t Creativity &lpar;Yet&rpar;](https://dev.to/arvind_sundararajan/robot-toolsmiths-why-confidence-isnt-creativity-yet-4a7j)
 <!-- BLOG-POST-LIST:END -->
 
