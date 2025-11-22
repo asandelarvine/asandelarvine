@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Compliance with Terraform](https://dev.to/aws-builders/aws-compliance-with-terraform-faa)
-- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
-- [Implementing Authentication Middleware in Next.js with i18n Support](https://dev.to/tajudeen_abdulgafar_e0363/implementing-authentication-middleware-in-nextjs-with-i18n-support-3iom)
-- [Building a Native Rich Text Editor for React Native](https://dev.to/typelets/building-a-native-rich-text-editor-for-react-native-c7b)
+- [CSS Filter Property Playground](https://dev.to/preetha_vaishnavi_2b82358/css-filter-property-playground-326n)
+- [Instagram&#39;s Discovery Feed Algorithm: What Actually Gets You Featured &lpar;Not What Instagram Says&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-algorithm-what-actually-gets-you-featured-not-what-instagram-says-1m1n)
+- [My First Software Release: Repo-Context-Packager](https://dev.to/oleksandrakordonets/my-first-software-release-repo-context-packager-dn0)
+- [🧹 The Garbage Collector of Java City — A Story About Memory and Mess](https://dev.to/shweta_aee818203e9dffed84/the-garbage-collector-of-java-city-a-story-about-memory-and-mess-414d)
 <!-- BLOG-POST-LIST:END -->
 
