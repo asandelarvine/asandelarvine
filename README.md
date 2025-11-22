@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Filter Property Playground](https://dev.to/preetha_vaishnavi_2b82358/css-filter-property-playground-326n)
-- [Instagram&#39;s Discovery Feed Algorithm: What Actually Gets You Featured &lpar;Not What Instagram Says&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-algorithm-what-actually-gets-you-featured-not-what-instagram-says-1m1n)
-- [My First Software Release: Repo-Context-Packager](https://dev.to/oleksandrakordonets/my-first-software-release-repo-context-packager-dn0)
-- [🧹 The Garbage Collector of Java City — A Story About Memory and Mess](https://dev.to/shweta_aee818203e9dffed84/the-garbage-collector-of-java-city-a-story-about-memory-and-mess-414d)
+- [Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation](https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2)
+- [The Role of Social Profiles in Strengthening Brand SEO](https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
+- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
 <!-- BLOG-POST-LIST:END -->
 
