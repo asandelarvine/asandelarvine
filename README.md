@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
-- [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
-- [WebApiClientGen vs Kiota regarding ASP.NET backend + Angular Frontend](https://dev.to/zijianhuang/webapiclientgen-vs-kiota-regarding-aspnet-backend-angular-frontend-4op0)
+- [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
+- [Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)
+- [10 GitHub Repos Every Serious Prompt Writer Should Be Using](https://dev.to/web_dev-usman/10-github-repos-every-serious-prompt-writer-should-be-using-21jk)
+- [WordPress 6.9: New Features, Release Date &amp; Why It Matters](https://dev.to/serveravatar/wordpress-69-new-features-release-date-why-it-matters-5hen)
 <!-- BLOG-POST-LIST:END -->
 
