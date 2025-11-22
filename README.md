@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day F5: The Day I Lost](https://dev.to/casperday11/day-f5-the-day-i-lost-cj3)
-- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
-- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3cbp)
+- [Building an impossible Tic-Tac-Toe with Minimax and LemonadeJS](https://dev.to/hodeware/building-an-impossible-tic-tac-toe-with-minimax-and-lemonadejs-52df)
+- [Building a High-Performance Live Network Sniffer in Rust &lpar;Without Kernel Drivers&rpar;](https://dev.to/bored123/building-a-high-performance-live-network-sniffer-in-rust-without-kernel-drivers-5398)
+- [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
+- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
 <!-- BLOG-POST-LIST:END -->
 
