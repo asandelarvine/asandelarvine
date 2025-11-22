@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Xahau: Automating Reward Claims with Hooks and CronSet](https://dev.to/ekiserrepe/learning-xahau-automating-reward-claims-with-hooks-and-cronset-n4k)
-- [Day 8: Weight Converter - Building Practical Tools - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-8-weight-converter-building-practical-tools-30-days-of-python-challenge-5gk)
-- [The Art of the Imperfect: Embracing AI Glitches for Unexpected Creativity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-art-of-the-imperfect-embracing-ai-glitches-for-unexpected-creativity-by-arvind-sundararajan-2i6a)
-- [The Zygote Problem: Why Every Child Deserves a Perfect Future &lpar;And How Systems Break Them&rpar;](https://dev.to/obinexus/the-zygote-problem-why-every-child-deserves-a-perfect-future-and-how-systems-break-them-8o1)
+- [My AI Stopped &quot;Guessing&quot; and Started &quot;Thinking&quot;: Implementing a Planning &amp; Reasoning Architecture](https://dev.to/aragossa/my-ai-stopped-guessing-and-started-thinking-implementing-a-planning-reasoning-architecture-4ei3)
+- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-3o1b)
+- [AI assistance in Development](https://dev.to/divyansh_sareen_2d6e3baa7/ai-assistance-in-development-53nd)
+- [How to avoid getting your BetPKR account blocked?](https://dev.to/car_zilla_9a5c37d90329e8c/how-to-avoid-getting-your-betpkr-account-blocked-5amf)
 <!-- BLOG-POST-LIST:END -->
 
