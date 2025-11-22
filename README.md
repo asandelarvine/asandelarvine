@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Your Developer Revenue through Monetzly&#39;s AI Monetization Tools](https://dev.to/monetzly/maximize-your-developer-revenue-through-monetzlys-ai-monetization-tools-3ml8)
-- [I built a tiny autosave engine for web forms](https://dev.to/plc-creates/i-built-a-tiny-autosave-engine-for-web-forms-1f08)
-- [Secrets to Smarter Architecture: AI&#39;s Role in 2025 Decisions](https://dev.to/pravin_niceguy/secrets-to-smarter-architecture-ais-role-in-2025-decisions-358g)
-- [Robot Toolsmiths: Why Confidence Isn&#39;t Creativity &lpar;Yet&rpar;](https://dev.to/arvind_sundararajan/robot-toolsmiths-why-confidence-isnt-creativity-yet-4a7j)
+- [Artificial Intelligence as an Educational Equalizer: Infusing AI for quality Sciences and Medical Education in Eastern Nigeria](https://dev.to/sopuluchukwu_eze/artificial-intelligence-as-an-educational-equalizer-infusing-ai-for-quality-sciences-and-medical-j6b)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
+- [Day 19 : Django Learnings](https://dev.to/stackbento/day-19-django-learnings-1h3h)
 <!-- BLOG-POST-LIST:END -->
 
