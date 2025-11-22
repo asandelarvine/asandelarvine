@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
-- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
-- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
+- [As AI-driven diagnosis and treatment plans become increasing](https://dev.to/drcarlosruizviquez/as-ai-driven-diagnosis-and-treatment-plans-become-increasing-350k)
+- [Amazon Bedrock Agentcore &amp; System Design](https://dev.to/aws-builders/amazon-bedrock-agentcore-system-design-m5j)
+- [Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 &lpar;y el Famoso Error &#39;[retrieved information]&#39;](https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php)
+- [I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously](https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3)
 <!-- BLOG-POST-LIST:END -->
 
