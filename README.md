@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
-- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
-- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
-- [Angular migration to AWS with Azure AD SSO](https://dev.to/vidya_netke_a9f0dc38b7886/angular-migration-to-aws-with-azure-ad-sso-28fc)
+- [Silent-Civ Part 13 — Section 12-2 Fundamental Informational Units &lpar;Mapping the Civilization into YAML&rpar;](https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-13-section-12-2-fundamental-informational-units-mapping-the-civilization-into-2khh)
+- [Why C Took 52 Years to Get a Real Bool](https://dev.to/ysy63874/why-c-took-52-years-to-get-a-real-bool-13gk)
+- [Why Governments Are Exploring Browser-Based Distributed Compute Networks](https://dev.to/neurolov__ai/why-governments-are-exploring-browser-based-distributed-compute-networks-dih)
+- [Evolution of Agentic AI C/O Amazon Quicksuite](https://dev.to/aws-builders/evolution-of-agentic-ai-co-amazon-quicksuite-2kh)
 <!-- BLOG-POST-LIST:END -->
 
