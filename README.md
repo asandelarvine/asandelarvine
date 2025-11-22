@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Camunda Health Monitor v2.0 Open Source: AI-Powered Intelligence](https://dev.to/dmitriy_champa_d458cfc7/camunda-health-monitor-v20-open-source-ai-powered-intelligence-4nlf)
-- [3 Realistic Paths Into Data Science &lpar;And How To Choose Yours&rpar;](https://dev.to/mashraf_aiman_b9a968e5c1d/3-realistic-paths-into-data-science-and-how-to-choose-yours-2lk7)
-- [Post-Holiday Retargeting Playbook: Converting December Browsers into January Buyers](https://dev.to/synergistdigitalmedia/post-holiday-retargeting-playbook-converting-december-browsers-into-january-buyers-15i0)
-- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
+- [Day F5: The Day I Lost](https://dev.to/casperday11/day-f5-the-day-i-lost-cj3)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
+- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3cbp)
 <!-- BLOG-POST-LIST:END -->
 
