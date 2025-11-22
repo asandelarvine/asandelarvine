@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Multi-Tenant Architecture for Hundreds of Custom Domains](https://dev.to/peter_dyakov_06f3c69a46b7/scalable-multi-tenant-architecture-for-hundreds-of-custom-domains-56mn)
-- [My first flash loan protocol: A Solana adventure](https://dev.to/ola-zoll/my-first-flash-loan-protocol-a-solana-adventure-3i4k)
-- [Birthday Gift](https://dev.to/preetha_vaishnavi_2b82358/birthday-gift-23ng)
-- [🌿 The Tools That Make My Developer Life Easier](https://dev.to/rubiin/the-tools-that-make-my-developer-life-easier-1p06)
+- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
+- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
+- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
+- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
 <!-- BLOG-POST-LIST:END -->
 
