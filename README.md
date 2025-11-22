@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
-- [Publishing Your First NPM Package: A Real-World Guide That Actually Helps](https://dev.to/mir_mursalin_ankur/publishing-your-first-npm-package-a-real-world-guide-that-actually-helps-4l4)
-- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
-- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
+- [AWS Compliance with Terraform](https://dev.to/aws-builders/aws-compliance-with-terraform-faa)
+- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
+- [Implementing Authentication Middleware in Next.js with i18n Support](https://dev.to/tajudeen_abdulgafar_e0363/implementing-authentication-middleware-in-nextjs-with-i18n-support-3iom)
+- [Building a Native Rich Text Editor for React Native](https://dev.to/typelets/building-a-native-rich-text-editor-for-react-native-c7b)
 <!-- BLOG-POST-LIST:END -->
 
