@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence as an Educational Equalizer: Infusing AI for quality Sciences and Medical Education in Eastern Nigeria](https://dev.to/sopuluchukwu_eze/artificial-intelligence-as-an-educational-equalizer-infusing-ai-for-quality-sciences-and-medical-j6b)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
-- [Day 19 : Django Learnings](https://dev.to/stackbento/day-19-django-learnings-1h3h)
+- [Building Multi-Touch Attribution in GA4 Without Hiring a Data Analyst](https://dev.to/synergistdigitalmedia/building-multi-touch-attribution-in-ga4-without-hiring-a-data-analyst-243o)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4k1o)
+- [Mintlify Ignored This Feature Request for 6 Months. Here&#39;s Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
+- [Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!](https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk)
 <!-- BLOG-POST-LIST:END -->
 
