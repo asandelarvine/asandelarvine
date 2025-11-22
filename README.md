@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation](https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2)
-- [The Role of Social Profiles in Strengthening Brand SEO](https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
-- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
+- [The Day I Learned What Actually Slows Down React Apps](https://dev.to/nitinnair89/the-day-i-learned-what-actually-slows-down-react-apps-552p)
+- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
+- [How I Vibe Coded a Custom Telegram Downloader &lpar;Because Browser Throttling is the Worst&rpar;](https://dev.to/anay_pandya_bfac6bcdbb055/how-i-vibe-coded-a-custom-telegram-downloader-because-browser-throttling-is-the-worst-3alb)
+- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
 <!-- BLOG-POST-LIST:END -->
 
