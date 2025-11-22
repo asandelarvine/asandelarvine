@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevSecOps: Deep Dive into Software Development, Security, and Operations Integration](https://dev.to/danmuso/aws-devsecops-deep-dive-into-software-development-security-and-operations-integration-f22)
-- [Integrating Google ADK to Build Smarter Multimodal AI Agents](https://dev.to/mabualzait/integrating-google-adk-to-build-smarter-multimodal-ai-agents-26bh)
-- [10 GitHub Repos Every Serious Prompt Writer Should Be Using](https://dev.to/web_dev-usman/10-github-repos-every-serious-prompt-writer-should-be-using-21jk)
-- [WordPress 6.9: New Features, Release Date &amp; Why It Matters](https://dev.to/serveravatar/wordpress-69-new-features-release-date-why-it-matters-5hen)
+- [Day 7: Simple Calculator - Putting It All Together - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-7-simple-calculator-putting-it-all-together-30-days-of-python-challenge-i9d)
+- [The Future of Digital Marketing: Strategies Businesses Can’t Ignore in 2025](https://dev.to/brand_a2db3fb555a521dd682/the-future-of-digital-marketing-strategies-businesses-cant-ignore-in-2025-2k38)
+- [Day 3: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-3-python-programming-2eo9)
+- [Untitled](https://dev.to/w_c_bbebf0827bbc4fbb8cbb4/untitled-3oee)
 <!-- BLOG-POST-LIST:END -->
 
