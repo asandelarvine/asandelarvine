@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an impossible Tic-Tac-Toe with Minimax and LemonadeJS](https://dev.to/hodeware/building-an-impossible-tic-tac-toe-with-minimax-and-lemonadejs-52df)
-- [Building a High-Performance Live Network Sniffer in Rust &lpar;Without Kernel Drivers&rpar;](https://dev.to/bored123/building-a-high-performance-live-network-sniffer-in-rust-without-kernel-drivers-5398)
-- [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
-- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
+- [The Imminent Threat of an Atomic Catastrophe: Understanding and Preparing for the Worst](https://dev.to/guswoltmann84/the-imminent-threat-of-an-atomic-catastrophe-understanding-and-preparing-for-the-worst-5g35)
+- [Building a Weather-Aware Activity Tool with OpenWeather &amp; Mapbox](https://dev.to/lushkovskis/building-a-weather-aware-activity-tool-with-openweather-mapbox-1dbn)
+- [How to Find a Job as a Developer and What to Consider During an Interview](https://dev.to/gustavowoltmann18/how-to-find-a-job-as-a-developer-and-what-to-consider-during-an-interview-5cee)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-154n)
 <!-- BLOG-POST-LIST:END -->
 
