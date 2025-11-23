@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linear Algebra for AI](https://dev.to/amritanshu_dash_6ca69c0f2/linear-algebra-for-ai-5bjg)
-- [The Autonomous Marketer: How to Master Marketing Automation and AI to Scale Your Business Ethically](https://dev.to/bobby_sanders_63117dbdf8a/the-autonomous-marketer-how-to-master-marketing-automation-and-ai-to-scale-your-business-ethically-14a5)
-- [7 Essential Shifts Every Marketer Must Make Now to Master AI and Automation](https://dev.to/bobby_sanders_63117dbdf8a/7-essential-shifts-every-marketer-must-make-now-to-master-ai-and-automation-j8e)
-- [The Self-Aware Robot: How Confidence Unlocks Clever Tool Use](https://dev.to/arvind_sundararajan/the-self-aware-robot-how-confidence-unlocks-clever-tool-use-1ofm)
+- [🌍 Uniface Localization Series &lpar;Part 1&rpar;: Mastering Date &amp; Time in Web Apps 📅](https://dev.to/petercode/uniface-localization-series-part-1-mastering-date-time-in-web-apps-5bed)
+- [The &quot;Zombie Request&quot; Problem: Why Your Backend Keeps Working After the User Quits](https://dev.to/tjcoding/the-zombie-request-problem-why-your-backend-keeps-working-after-the-user-quits-1167)
+- [A importância de gerenciar corretamente variáveis de ambiente &lpar;.env&rpar;](https://dev.to/victorzarzar/a-importancia-de-gerenciar-corretamente-variaveis-de-ambiente-env-4b5i)
+- [🔐 Modernizing Legacy: Implementing OAuth2 in Uniface for Outlook &amp; Gmail](https://dev.to/petercode/modernizing-legacy-implementing-oauth2-in-uniface-for-outlook-gmail-1n07)
 <!-- BLOG-POST-LIST:END -->
 
