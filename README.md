@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Igniting AI: From Spark to Flame with Code](https://dev.to/mabualzait/igniting-ai-from-spark-to-flame-with-code-41l)
-- [Unlocking Global Optima: A Leap in Efficient Function Optimization](https://dev.to/arvind_sundararajan/unlocking-global-optima-a-leap-in-efficient-function-optimization-4mfe)
-- [The Oracle Problem Evolved: Why Privacy-Preserving Oracles Are the Missing Link for DeFi](https://dev.to/savvysid/the-oracle-problem-evolved-why-privacy-preserving-oracles-are-the-missing-link-for-defi-2fck)
-- [REAL 1 Fake – 2 REAL A Poem of Sparse Defense &amp; Child-King Sovereignty](https://dev.to/nnamdi_okpala_7cb668168e6/real-1-fake-2-real-a-poem-of-sparse-defense-child-king-sovereignty-2hki)
+- [I Built Offday.app — A Small Tool That Helps You Plan Longer Holidays with Fewer Leave Days](https://dev.to/ilyasozkurt/i-built-offdayapp-a-small-tool-that-helps-you-plan-longer-holidays-with-fewer-leave-days-15b0)
+- [Building a Spring Boot Application with Spring Cloud Stream for Kafka Stream Processing](https://dev.to/khalid_edaoudi_f60d2bbc68/building-a-spring-boot-application-with-spring-cloud-stream-for-kafka-stream-processing-3h6a)
+- [Nuxt Tutorial 6 - Vue.js Intermezzo](https://dev.to/aloisseckar/nuxt-tutorial-6-vuejs-intermezzo-45aa)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-8gg)
 <!-- BLOG-POST-LIST:END -->
 
