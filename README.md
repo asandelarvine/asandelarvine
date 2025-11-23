@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Offday.app — A Small Tool That Helps You Plan Longer Holidays with Fewer Leave Days](https://dev.to/ilyasozkurt/i-built-offdayapp-a-small-tool-that-helps-you-plan-longer-holidays-with-fewer-leave-days-15b0)
-- [Building a Spring Boot Application with Spring Cloud Stream for Kafka Stream Processing](https://dev.to/khalid_edaoudi_f60d2bbc68/building-a-spring-boot-application-with-spring-cloud-stream-for-kafka-stream-processing-3h6a)
-- [Nuxt Tutorial 6 - Vue.js Intermezzo](https://dev.to/aloisseckar/nuxt-tutorial-6-vuejs-intermezzo-45aa)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-8gg)
+- [AI is the biggest bubble in human history](https://dev.to/joaoalissonsilva/ai-is-the-biggest-bubble-in-human-history-4ce0)
+- [Nix for Fun and Profit: Programs as Lego&#39;s](https://dev.to/blu/nix-for-fun-and-profit-programs-as-legos-22e0)
+- [AI Camouflage: Clothing That Breaks the Algorithm](https://dev.to/arvind_sundararajan/ai-camouflage-clothing-that-breaks-the-algorithm-4ngi)
+- [Headless CMS: Directus and Payload Walk Into a Bar 🍵](https://dev.to/fbrzlarosa/headless-cms-directus-and-payload-walk-into-a-bar-4kog)
 <!-- BLOG-POST-LIST:END -->
 
