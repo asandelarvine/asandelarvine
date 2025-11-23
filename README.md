@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing udwall: A New Tool for Making UFW and Docker Play Nice With Each Other](https://dev.to/ganesh-kumar/announcing-udwall-a-new-tool-for-making-ufw-and-docker-play-nice-with-each-other-554b)
-- [Understanding the C Compilation Process](https://dev.to/manojge/understanding-the-c-compilation-process-5b91)
-- [AI for Bharat: Tired of Just Reading About AI? It’s Time to Start Building](https://dev.to/arunagri82/ai-for-bharat-tired-of-just-reading-about-ai-its-time-to-start-building-275k)
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-3fjm)
+- [EF Core Migrations Troubleshooting Guide — Design Package, Tooling Versions &amp; Multi‑Project Setups](https://dev.to/cristiansifuentes/ef-core-migrations-troubleshooting-guide-design-package-tooling-versions-multi-project-setups-4a55)
+- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
+- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
 <!-- BLOG-POST-LIST:END -->
 
