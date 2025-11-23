@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3pfa)
-- [Learn Kafka by Doing: Build a 3-Broker Kafka Cluster with Docker Compose](https://dev.to/ajinkya_singh_2c02bd40423/learn-kafka-by-doing-build-a-3-broker-kafka-cluster-with-docker-compose-ank)
-- [The subtle trap of useMemo for large collections - and a tiny alternative](https://dev.to/shubham_dwivedi_dbf682957/the-subtle-trap-of-usememo-for-large-collections-and-a-tiny-alternative-38jg)
-- [PixelPerfect Capture: High-Quality Screenshots &amp; Full-Page Captures, Simplified](https://dev.to/0apocalypse0/pixelperfect-capture-high-quality-screenshots-full-page-captures-simplified-3m4)
+- [Bridging the Gap: Integrating 3GL Languages with Uniface](https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2)
+- [I&#39;ve got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈](https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l)
+- [Uniface Meets 3GL: Integrating Legacy Power with Modern Performance](https://dev.to/petercode/uniface-meets-3gl-integrating-legacy-power-with-modern-performance-6gj)
+- [Google ADK Tutorials](https://dev.to/liberifatali/google-adk-tutorials-1e2b)
 <!-- BLOG-POST-LIST:END -->
 
