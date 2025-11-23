@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-291i)
-- [GitHub Finally Became a Part of My Coding Routine](https://dev.to/sareena_rahim/github-finally-became-a-part-of-my-coding-routine-4ck4)
-- [💾 Uniface &amp; Excel: Writing Data &amp; Clean Exits &lpar;Part 3&rpar;](https://dev.to/petercode/uniface-excel-writing-data-clean-exits-part-3-3k0n)
-- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
+- [How EIP-4844 Changed Ethereum Gas Prices](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)
+- [Building the Future of Entertainment Tech: Wimberly Media’s Innovation Culture](https://dev.to/dennis_wimberly_b8aa3c8aa/building-the-future-of-entertainment-tech-wimberly-medias-innovation-culture-317h)
+- [When Noise Becomes Structure - The Hidden Mechanism Behind Resonance](https://dev.to/miller-28/when-noise-becomes-structure-the-hidden-mechanism-behind-resonance-1kd7)
+- [How equillar manage investment commissions](https://dev.to/icolomina/how-equillar-manage-investment-commissions-3c88)
 <!-- BLOG-POST-LIST:END -->
 
