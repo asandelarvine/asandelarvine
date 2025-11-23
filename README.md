@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Prefer Web Fundamentals Over the Endless Framework Cycle](https://dev.to/mashraf_aiman_b9a968e5c1d/why-i-prefer-web-fundamentals-over-the-endless-framework-cycle-1698)
-- [A beginner&#39;s guide to the Vggt-1b model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-model-by-vufinder-on-replicate-4oo8)
-- [Part 3 of My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/part-3-of-my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-pam)
-- [Stop Building Indie SaaS the Hard Way](https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2)
+- [Dealing with domain modelling mismatches on external services](https://dev.to/shalvah/dealing-with-domain-modelling-mismatches-on-external-services-2gh6)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4fah)
+- [Introduction to GNU, GDB, ELF, and LLDB](https://dev.to/godinhojoao/introduction-to-gnu-gdb-elf-and-lldb-p9p)
+- [Releasing My First Open-Source CLI Tool: Lessons from Publishing Repository-Context-Packager](https://dev.to/cynthia_f/releasing-my-first-open-source-cli-tool-lessons-from-publishing-repository-context-packager-2ef0)
 <!-- BLOG-POST-LIST:END -->
 
