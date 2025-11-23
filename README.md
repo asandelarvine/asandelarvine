@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dealing with domain modelling mismatches on external services](https://dev.to/shalvah/dealing-with-domain-modelling-mismatches-on-external-services-2gh6)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4fah)
-- [Introduction to GNU, GDB, ELF, and LLDB](https://dev.to/godinhojoao/introduction-to-gnu-gdb-elf-and-lldb-p9p)
-- [Releasing My First Open-Source CLI Tool: Lessons from Publishing Repository-Context-Packager](https://dev.to/cynthia_f/releasing-my-first-open-source-cli-tool-lessons-from-publishing-repository-context-packager-2ef0)
+- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
+- [From &#39;Will AI Replace Me?&#39; to Building an AI PM: My 3-Month Journey](https://dev.to/ashbuildsai/from-will-ai-replace-me-to-building-an-ai-pm-my-3-month-journey-35ej)
+- [The Real Cost of AI: AWS Bedrock vs. OpenAI vs. Self-Hosting 💰](https://dev.to/nimmala_nagasanthoshbab/the-real-cost-of-ai-aws-bedrock-vs-openai-vs-self-hosting-236m)
+- [Industries Where Your C Code Saves Lives &lpar;And They&#39;re Hiring&rpar;](https://dev.to/fosres/industries-in-demand-for-cert-c-compliant-security-focused-coders-27n6)
 <!-- BLOG-POST-LIST:END -->
 
