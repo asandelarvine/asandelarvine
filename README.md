@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap: Integrating 3GL Languages with Uniface](https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2)
-- [I&#39;ve got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈](https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l)
-- [Uniface Meets 3GL: Integrating Legacy Power with Modern Performance](https://dev.to/petercode/uniface-meets-3gl-integrating-legacy-power-with-modern-performance-6gj)
-- [Google ADK Tutorials](https://dev.to/liberifatali/google-adk-tutorials-1e2b)
+- [Building DiskCleanKit – My Journey from a Simple Idea to Mac App Store 🚀](https://dev.to/nam_tran_7c63c91d70bf0442/building-diskcleankit-my-journey-from-a-simple-idea-to-mac-app-store-22l2)
+- [# How to Connect Power BI to PostgreSQL: Local and Aiven Cloud Setup](https://dev.to/ken_kimani_7f4b5a334929b3/-how-to-connect-power-bi-to-postgresql-local-and-aiven-cloud-setup-5692)
+- [React Native API Example Step-by-Step](https://dev.to/developerhelpfull/react-native-api-example-step-by-step-3ede)
+- [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-44ci)
 <!-- BLOG-POST-LIST:END -->
 
