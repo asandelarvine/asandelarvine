@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokenization in NLP: The Foundational Step That Turns Language Into Data](https://dev.to/knitesh/tokenization-in-nlp-the-foundational-step-that-turns-language-into-data-2jni)
-- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
-- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
-- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
+- [Run TypeScript Files in 30 Seconds](https://dev.to/walodja1987/run-typescript-files-in-30-seconds-4b3l)
+- [Stop Memory Leaks! The Practical Guide to WeakMap and WeakSet](https://dev.to/samuel_ochaba_eb9c875fa89/stop-memory-leaks-the-practical-guide-to-weakmap-and-weakset-gbm)
+- [Fiz merda com o Git… como resolver?](https://dev.to/andersoncontreira/fiz-merda-com-o-git-como-resolver-4kaf)
+- [Slush 2025 MoM 🚀](https://dev.to/shopskasalad/slush-2025-mom-1f6p)
 <!-- BLOG-POST-LIST:END -->
 
