@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run TypeScript Files in 30 Seconds](https://dev.to/walodja1987/run-typescript-files-in-30-seconds-4b3l)
-- [Stop Memory Leaks! The Practical Guide to WeakMap and WeakSet](https://dev.to/samuel_ochaba_eb9c875fa89/stop-memory-leaks-the-practical-guide-to-weakmap-and-weakset-gbm)
-- [Fiz merda com o Git… como resolver?](https://dev.to/andersoncontreira/fiz-merda-com-o-git-como-resolver-4kaf)
-- [Slush 2025 MoM 🚀](https://dev.to/shopskasalad/slush-2025-mom-1f6p)
+- [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
+- [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
+- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
+- [Vinyl Tracker Project Overview](https://dev.to/bernard_borg_dev/vinyl-tracker-project-overview-5bg2)
 <!-- BLOG-POST-LIST:END -->
 
