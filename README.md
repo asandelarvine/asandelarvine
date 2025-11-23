@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Serverless Workloads with the Circuit Breaker Pattern](https://dev.to/aws-builders/building-resilient-serverless-workloads-with-the-circuit-breaker-pattern-5pb)
-- [C++ Through the Years : From Classic to Modern](https://dev.to/md_dildar_mandal/evolution-of-c-3j24)
-- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
+- [Igniting AI: From Spark to Flame with Code](https://dev.to/mabualzait/igniting-ai-from-spark-to-flame-with-code-41l)
+- [Unlocking Global Optima: A Leap in Efficient Function Optimization](https://dev.to/arvind_sundararajan/unlocking-global-optima-a-leap-in-efficient-function-optimization-4mfe)
+- [The Oracle Problem Evolved: Why Privacy-Preserving Oracles Are the Missing Link for DeFi](https://dev.to/savvysid/the-oracle-problem-evolved-why-privacy-preserving-oracles-are-the-missing-link-for-defi-2fck)
+- [REAL 1 Fake – 2 REAL A Poem of Sparse Defense &amp; Child-King Sovereignty](https://dev.to/nnamdi_okpala_7cb668168e6/real-1-fake-2-real-a-poem-of-sparse-defense-child-king-sovereignty-2hki)
 <!-- BLOG-POST-LIST:END -->
 
