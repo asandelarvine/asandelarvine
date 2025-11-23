@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9)
-- [Singleton Pattern issue in playwright browser](https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b)
-- [Streamline SDK Integration for AI Monetization with Monetzly](https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2)
-- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)
+- [Linear Algebra for AI](https://dev.to/amritanshu_dash_6ca69c0f2/linear-algebra-for-ai-5bjg)
+- [The Autonomous Marketer: How to Master Marketing Automation and AI to Scale Your Business Ethically](https://dev.to/bobby_sanders_63117dbdf8a/the-autonomous-marketer-how-to-master-marketing-automation-and-ai-to-scale-your-business-ethically-14a5)
+- [7 Essential Shifts Every Marketer Must Make Now to Master AI and Automation](https://dev.to/bobby_sanders_63117dbdf8a/7-essential-shifts-every-marketer-must-make-now-to-master-ai-and-automation-j8e)
+- [The Self-Aware Robot: How Confidence Unlocks Clever Tool Use](https://dev.to/arvind_sundararajan/the-self-aware-robot-how-confidence-unlocks-clever-tool-use-1ofm)
 <!-- BLOG-POST-LIST:END -->
 
