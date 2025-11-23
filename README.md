@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Uniface Localization Series &lpar;Part 1&rpar;: Mastering Date &amp; Time in Web Apps 📅](https://dev.to/petercode/uniface-localization-series-part-1-mastering-date-time-in-web-apps-5bed)
-- [The &quot;Zombie Request&quot; Problem: Why Your Backend Keeps Working After the User Quits](https://dev.to/tjcoding/the-zombie-request-problem-why-your-backend-keeps-working-after-the-user-quits-1167)
-- [A importância de gerenciar corretamente variáveis de ambiente &lpar;.env&rpar;](https://dev.to/victorzarzar/a-importancia-de-gerenciar-corretamente-variaveis-de-ambiente-env-4b5i)
-- [🔐 Modernizing Legacy: Implementing OAuth2 in Uniface for Outlook &amp; Gmail](https://dev.to/petercode/modernizing-legacy-implementing-oauth2-in-uniface-for-outlook-gmail-1n07)
+- [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-291i)
+- [GitHub Finally Became a Part of My Coding Routine](https://dev.to/sareena_rahim/github-finally-became-a-part-of-my-coding-routine-4ck4)
+- [💾 Uniface &amp; Excel: Writing Data &amp; Clean Exits &lpar;Part 3&rpar;](https://dev.to/petercode/uniface-excel-writing-data-clean-exits-part-3-3k0n)
+- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
 <!-- BLOG-POST-LIST:END -->
 
