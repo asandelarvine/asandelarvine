@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How EIP-4844 Changed Ethereum Gas Prices](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)
-- [Building the Future of Entertainment Tech: Wimberly Media’s Innovation Culture](https://dev.to/dennis_wimberly_b8aa3c8aa/building-the-future-of-entertainment-tech-wimberly-medias-innovation-culture-317h)
-- [When Noise Becomes Structure - The Hidden Mechanism Behind Resonance](https://dev.to/miller-28/when-noise-becomes-structure-the-hidden-mechanism-behind-resonance-1kd7)
-- [How equillar manage investment commissions](https://dev.to/icolomina/how-equillar-manage-investment-commissions-3c88)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3pfa)
+- [Learn Kafka by Doing: Build a 3-Broker Kafka Cluster with Docker Compose](https://dev.to/ajinkya_singh_2c02bd40423/learn-kafka-by-doing-build-a-3-broker-kafka-cluster-with-docker-compose-ank)
+- [The subtle trap of useMemo for large collections - and a tiny alternative](https://dev.to/shubham_dwivedi_dbf682957/the-subtle-trap-of-usememo-for-large-collections-and-a-tiny-alternative-38jg)
+- [PixelPerfect Capture: High-Quality Screenshots &amp; Full-Page Captures, Simplified](https://dev.to/0apocalypse0/pixelperfect-capture-high-quality-screenshots-full-page-captures-simplified-3m4)
 <!-- BLOG-POST-LIST:END -->
 
