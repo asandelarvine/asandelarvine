@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EF Core Migrations Troubleshooting Guide — Design Package, Tooling Versions &amp; Multi‑Project Setups](https://dev.to/cristiansifuentes/ef-core-migrations-troubleshooting-guide-design-package-tooling-versions-multi-project-setups-4a55)
-- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
-- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
-- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
+- [Building Resilient Serverless Workloads with the Circuit Breaker Pattern](https://dev.to/aws-builders/building-resilient-serverless-workloads-with-the-circuit-breaker-pattern-5pb)
+- [C++ Through the Years : From Classic to Modern](https://dev.to/md_dildar_mandal/evolution-of-c-3j24)
+- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
 <!-- BLOG-POST-LIST:END -->
 
