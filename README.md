@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building DiskCleanKit – My Journey from a Simple Idea to Mac App Store 🚀](https://dev.to/nam_tran_7c63c91d70bf0442/building-diskcleankit-my-journey-from-a-simple-idea-to-mac-app-store-22l2)
-- [# How to Connect Power BI to PostgreSQL: Local and Aiven Cloud Setup](https://dev.to/ken_kimani_7f4b5a334929b3/-how-to-connect-power-bi-to-postgresql-local-and-aiven-cloud-setup-5692)
-- [React Native API Example Step-by-Step](https://dev.to/developerhelpfull/react-native-api-example-step-by-step-3ede)
-- [Free JSON APIs for Developers with Examples](https://dev.to/developerhelpfull/free-json-apis-for-developers-with-examples-44ci)
+- [Terraform Workspaces: Proven Multi-Environment Patterns for Real-World DevOps](https://dev.to/careerbytecode/terraform-workspaces-proven-multi-environment-patterns-for-real-world-devops-1nme)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-l9b)
+- [ISO 27001 in 6 Months](https://dev.to/ccscaesar/iso-27001-in-6-months-2o8k)
 <!-- BLOG-POST-LIST:END -->
 
