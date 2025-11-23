@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Touch Attribution in GA4 Without Hiring a Data Analyst](https://dev.to/synergistdigitalmedia/building-multi-touch-attribution-in-ga4-without-hiring-a-data-analyst-243o)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4k1o)
-- [Mintlify Ignored This Feature Request for 6 Months. Here&#39;s Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
-- [Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!](https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk)
+- [Why I Prefer Web Fundamentals Over the Endless Framework Cycle](https://dev.to/mashraf_aiman_b9a968e5c1d/why-i-prefer-web-fundamentals-over-the-endless-framework-cycle-1698)
+- [A beginner&#39;s guide to the Vggt-1b model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-model-by-vufinder-on-replicate-4oo8)
+- [Part 3 of My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.](https://dev.to/jervie_gono/part-3-of-my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-pam)
+- [Stop Building Indie SaaS the Hard Way](https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2)
 <!-- BLOG-POST-LIST:END -->
 
