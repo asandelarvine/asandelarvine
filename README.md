@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQL: Revisiting the Basics](https://dev.to/ch-kartik/mastering-sql-revisiting-the-basics-43ci)
-- [Tutorial: Packaging Operations Runbooks with Puppet Edge Workflows](https://dev.to/jasonstcyr/tutorial-packaging-operations-runbooks-with-puppet-edge-workflows-16jp)
-- [I built an AI agent that ships full-stack apps from a prompt &lpar;Not just code — real running Next.js apps&rpar;](https://dev.to/saathwik/i-built-an-ai-agent-that-ships-full-stack-apps-from-a-prompt-not-just-code-real-running-nextjs-4gbf)
-- [🎉 I Just Launched AnimTheme A Marketplace for Web Animations](https://dev.to/anim_theme_a5314fe2e0c287/i-just-launched-animtheme-a-marketplace-for-web-animations-160f)
+- [Yaml is King change my mind, please!](https://dev.to/mvaldes/yaml-is-king-change-my-mind-please-1ibg)
+- [ROFL Introduces Native Frontend Hosting: Confidential Apps Can Finally Go Full-Stack](https://dev.to/caerlower/rofl-introduces-native-frontend-hosting-confidential-apps-can-finally-go-full-stack-c89)
+- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
+- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-22pf)
 <!-- BLOG-POST-LIST:END -->
 
