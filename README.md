@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Encrypt your GDrive / Dropbox files. GPG for beginners!](https://dev.to/aviiciii/encrypt-your-gdrive-dropbox-files-gpg-for-beginners-2c4j)
-- [Inside the Edge: Building an Automation-Native Telecom Stack for Real-Time Networks](https://dev.to/abdul_shamim/inside-the-edge-building-an-automation-native-telecom-stack-for-real-time-networks-3cfl)
-- [BATCHNORM IN LANGUAGE MODELS](https://dev.to/blackbidz/batchnorm-in-language-models-539c)
-- [Why I Stopped Using LocalStorage for Auth and What You Should Do Instead](https://dev.to/hills-dev/why-i-stopped-using-localstorage-for-auth-and-what-you-should-do-instead-5gli)
+- [Back to Unity baby!](https://dev.to/rapidsingularity/back-to-unity-baby-3h7o)
+- [How streaming platforms engineered their own piracy problem: a data story](https://dev.to/ronnie_pye_/how-streaming-platforms-engineered-their-own-piracy-problem-a-data-story-4mkl)
+- [AWS re:Invent 2025 Quirky Events: A Serious Assessment](https://dev.to/shandrew/aws-reinvent-2025-quirky-events-a-serious-assessment-43do)
+- [Finally Modernized My Emacs Setup with LSP + Tree-sitter](https://dev.to/masutaka/finally-modernized-my-emacs-setup-with-lsp-tree-sitter-125)
 <!-- BLOG-POST-LIST:END -->
 
