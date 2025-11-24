@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
-- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
-- [Erase Faces, Not Utility: Instant Privacy for Image AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-faces-not-utility-instant-privacy-for-image-ai-by-arvind-sundararajan-4318)
-- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
+- [The Irreplaceable Role of Human Developers in the Age of AI](https://dev.to/devray/the-irreplaceable-role-of-human-developers-in-the-age-of-ai-7gp)
+- [Automatically switching Git Identities and SSH Keys on the same machine](https://dev.to/enbis/automatically-switching-git-identities-and-ssh-keys-on-the-same-machine-75n)
+- [Is the Java ecosystem cursed? A dependency analysis perspective](https://dev.to/autonomousapps/is-the-java-ecosystem-cursed-a-dependency-analysis-perspective-53ef)
+- [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
 <!-- BLOG-POST-LIST:END -->
 
