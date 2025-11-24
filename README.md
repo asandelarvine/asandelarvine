@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your React Skills Alone Won&#39;t Master React Native](https://dev.to/mashraf_aiman_b9a968e5c1d/why-your-react-skills-alone-wont-master-react-native-4459)
-- [Trabalhar não é ruim. Ruim é ter que trabalhar — Será mesmo?](https://dev.to/andersoncontreira/trabalhar-nao-e-ruim-ruim-e-ter-que-trabalhar-sera-mesmo-2d93)
-- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
-- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
+- [Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack](https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m)
+- [Choosing Between Agent Builder and n8n? Here’s the Breakdown That Would’ve Saved Me Months](https://dev.to/composiodev/choosing-between-agent-builder-and-n8n-heres-the-breakdown-that-wouldve-saved-me-months-2fm5)
+- [Software Development Teams and Architecture: A Complete Guide](https://dev.to/datatechbridge/software-development-teams-and-architecture-a-complete-guide-4nm7)
+- [What happens when you try to get hired by the top IT companies](https://dev.to/thetechpreneur/what-happens-when-you-try-to-get-hired-by-the-top-it-companies-1kg5)
 <!-- BLOG-POST-LIST:END -->
 
