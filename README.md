@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect PostgreSQL to Power BI using Local PostgreSQL.](https://dev.to/maina_meghan/how-to-connect-postgresql-to-power-bi-using-local-postgresql-27j4)
-- [🚀Deploy a Python Flask App on AWS Elastic Container Service with Fargate Using OpenTofu + Docker + Trivy + ALB](https://dev.to/latchudevops/deploy-a-python-flask-app-on-aws-elastic-container-service-with-fargate-using-opentofu-docker--5d21)
-- [10 GA4 Custom Reports That Actually Answer Your Questions &lpar;Not Google&#39;s&rpar;](https://dev.to/synergistdigitalmedia/10-ga4-custom-reports-that-actually-answer-your-questions-not-googles-5hdj)
-- [Cutting-Edge Tech Innovations Setting the Pace for 2025](https://dev.to/creative_soul_1f7d988fcf9/cutting-edge-tech-innovations-setting-the-pace-for-2025-19nm)
+- [Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love](https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08)
+- [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol)
+- [Python Django Developer: From Beginner to Expert in Web Apps &amp; APIs](https://dev.to/miftah_jabeen_3deefdf3c7a/python-django-developer-from-beginner-to-expert-in-web-apps-apis-2io8)
+- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)
 <!-- BLOG-POST-LIST:END -->
 
