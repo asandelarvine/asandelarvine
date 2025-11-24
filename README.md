@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-53mj)
-- [The Quick Commerce Tech Stack: How to Build 10-Minute Delivery Logic in 2025](https://dev.to/indianwebsiteco/the-quick-commerce-tech-stack-how-to-build-10-minute-delivery-logic-in-2025-3p9k)
-- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9420]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9420-428g)
-- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [4112]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-4112-4bc2)
+- [Mastering SQL: Revisiting the Basics](https://dev.to/ch-kartik/mastering-sql-revisiting-the-basics-43ci)
+- [Tutorial: Packaging Operations Runbooks with Puppet Edge Workflows](https://dev.to/jasonstcyr/tutorial-packaging-operations-runbooks-with-puppet-edge-workflows-16jp)
+- [I built an AI agent that ships full-stack apps from a prompt &lpar;Not just code — real running Next.js apps&rpar;](https://dev.to/saathwik/i-built-an-ai-agent-that-ships-full-stack-apps-from-a-prompt-not-just-code-real-running-nextjs-4gbf)
+- [🎉 I Just Launched AnimTheme A Marketplace for Web Animations](https://dev.to/anim_theme_a5314fe2e0c287/i-just-launched-animtheme-a-marketplace-for-web-animations-160f)
 <!-- BLOG-POST-LIST:END -->
 
