@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yaml is King change my mind, please!](https://dev.to/mvaldes/yaml-is-king-change-my-mind-please-1ibg)
-- [ROFL Introduces Native Frontend Hosting: Confidential Apps Can Finally Go Full-Stack](https://dev.to/caerlower/rofl-introduces-native-frontend-hosting-confidential-apps-can-finally-go-full-stack-c89)
-- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
-- [GitSecOps: Why Compliance Only Works When Teams Can Prove What They Deliver — Not Just Promise It](https://dev.to/manuel_engelhardt_e793c88/gitsecops-why-compliance-only-works-when-teams-can-prove-what-they-deliver-not-just-promise-it-22pf)
+- [Why Your React Skills Alone Won&#39;t Master React Native](https://dev.to/mashraf_aiman_b9a968e5c1d/why-your-react-skills-alone-wont-master-react-native-4459)
+- [Trabalhar não é ruim. Ruim é ter que trabalhar — Será mesmo?](https://dev.to/andersoncontreira/trabalhar-nao-e-ruim-ruim-e-ter-que-trabalhar-sera-mesmo-2d93)
+- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
+- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
 <!-- BLOG-POST-LIST:END -->
 
