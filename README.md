@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Unity baby!](https://dev.to/rapidsingularity/back-to-unity-baby-3h7o)
-- [How streaming platforms engineered their own piracy problem: a data story](https://dev.to/ronnie_pye_/how-streaming-platforms-engineered-their-own-piracy-problem-a-data-story-4mkl)
-- [AWS re:Invent 2025 Quirky Events: A Serious Assessment](https://dev.to/shandrew/aws-reinvent-2025-quirky-events-a-serious-assessment-43do)
-- [Finally Modernized My Emacs Setup with LSP + Tree-sitter](https://dev.to/masutaka/finally-modernized-my-emacs-setup-with-lsp-tree-sitter-125)
+- [Building Voyage Planner – Modern Travel Booking Website](https://dev.to/senzy01/building-voyage-planner-modern-travel-booking-website-5do8)
+- [🔰 *SQL Programming Roadmap*](https://dev.to/ssekabirarobertsims/sql-programming-roadmap-2oih)
+- [ChatGPT Search Just Changed the Game: What Actually Matters Now](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-what-actually-matters-now-1cdd)
+- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
 <!-- BLOG-POST-LIST:END -->
 
