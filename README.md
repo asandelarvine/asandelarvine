@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Training a model to predict a persuasion score for documents, but hitting a wall](https://dev.to/howard_shaw_3c36a3a6cb900/training-a-model-to-predict-a-persuasion-score-for-documents-but-hitting-a-wall-1anm)
-- [I built a custom range slider for Retool with a histogram built in](https://dev.to/ghofrane_baaziz_aea1d4056/i-built-a-custom-range-slider-for-retool-with-a-histogram-built-in-5491)
-- [Meme Monday](https://dev.to/ben/meme-monday-1ec3)
-- [Neovim x Unreal Engine: Zero-Config Debugging &amp; A Dedicated Explorer 🚀](https://dev.to/taku25/neovim-x-unreal-engine-zero-config-debugging-a-dedicated-explorer-1a38)
+- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-53mj)
+- [The Quick Commerce Tech Stack: How to Build 10-Minute Delivery Logic in 2025](https://dev.to/indianwebsiteco/the-quick-commerce-tech-stack-how-to-build-10-minute-delivery-logic-in-2025-3p9k)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9420]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9420-428g)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [4112]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-4112-4bc2)
 <!-- BLOG-POST-LIST:END -->
 
