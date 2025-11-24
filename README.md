@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is the biggest bubble in human history](https://dev.to/joaoalissonsilva/ai-is-the-biggest-bubble-in-human-history-4ce0)
-- [Nix for Fun and Profit: Programs as Lego&#39;s](https://dev.to/blu/nix-for-fun-and-profit-programs-as-legos-22e0)
-- [AI Camouflage: Clothing That Breaks the Algorithm](https://dev.to/arvind_sundararajan/ai-camouflage-clothing-that-breaks-the-algorithm-4ngi)
-- [Headless CMS: Directus and Payload Walk Into a Bar 🍵](https://dev.to/fbrzlarosa/headless-cms-directus-and-payload-walk-into-a-bar-4kog)
+- [Everyone is focusing on AI engineers and AI developers, but nobody is talking about two real groups:
+
+AI Builders and AI Operators](https://dev.to/jaideepparashar/everyone-is-focusing-on-ai-engineers-and-ai-developers-but-nobody-is-talking-about-two-real-381c)
+- [Why Every DevOps Engineer Must Learn DHCP — Even If You Work Only on AWS](https://dev.to/srinivasamcjf/why-every-devops-engineer-must-learn-dhcp-even-if-you-work-only-on-aws-2bp7)
+- [I built a generative UI Guitar Tutor app](https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1)
+- [The Coming Divide: AI Builders vs AI Operators](https://dev.to/jaideepparashar/the-coming-divide-ai-builders-vs-ai-operators-345n)
 <!-- BLOG-POST-LIST:END -->
 
