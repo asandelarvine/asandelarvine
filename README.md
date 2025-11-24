@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I doing the best I can? Thoughts about talent, mediocrity, expectations and success.](https://dev.to/dvddpl/am-i-doing-the-best-i-can-thoughts-about-talent-mediocrity-expectations-and-success-1g6d)
-- [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl)
-- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
-- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
+- [Looking for simple tools to build a personal static site for notes](https://dev.to/md8_habibullah/looking-for-simple-tools-to-build-a-personal-static-site-for-notes-30g)
+- [Installing CVAT on Fedora - Quick Guide](https://dev.to/ankk98/installing-cvat-on-fedora-quick-guide-430o)
+- [Pulumi - DNS in AWS](https://dev.to/codecowboydotio/pulumi-dns-in-aws-450f)
+- [The Gradle Mystery - When Your Code Works... Until It Doesn&#39;t 🕵️](https://dev.to/kiran_ravi_092a2cfcf60389/the-gradle-mystery-when-your-code-works-until-it-doesnt-2n9d)
 <!-- BLOG-POST-LIST:END -->
 
