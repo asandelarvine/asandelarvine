@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Irreplaceable Role of Human Developers in the Age of AI](https://dev.to/devray/the-irreplaceable-role-of-human-developers-in-the-age-of-ai-7gp)
-- [Automatically switching Git Identities and SSH Keys on the same machine](https://dev.to/enbis/automatically-switching-git-identities-and-ssh-keys-on-the-same-machine-75n)
-- [Is the Java ecosystem cursed? A dependency analysis perspective](https://dev.to/autonomousapps/is-the-java-ecosystem-cursed-a-dependency-analysis-perspective-53ef)
-- [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
+- [I Built a Chrome Extension to Extract YouTube Transcripts in Bulk](https://dev.to/mohduwaish59/i-built-a-chrome-extension-to-extract-youtube-transcripts-in-bulk-and-its-been-a-game-changer-59g9)
+- [Rejection: The Gateway to Growth](https://dev.to/gamepill/rejection-the-gateway-to-growth-1imc)
+- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
 <!-- BLOG-POST-LIST:END -->
 
