@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development: What Skills Will Matter Most](https://dev.to/sia_negi21/the-future-of-web-development-what-skills-will-matter-most-4045)
-- [recent thoughts about gen-ai](https://dev.to/forbit/recent-thoughts-about-gen-ai-57hj)
-- [Building fast in Angular with Zard UI, Tailwind CSS and Signals](https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-and-signals-cj5)
-- [LLM Code Map: Visualize TypeScript/JavaScript Dependencies &amp; Empower AI Agents](https://dev.to/mk668a/llm-code-map-visualize-typescriptjavascript-dependencies-empower-ai-agents-4bng)
+- [Training a model to predict a persuasion score for documents, but hitting a wall](https://dev.to/howard_shaw_3c36a3a6cb900/training-a-model-to-predict-a-persuasion-score-for-documents-but-hitting-a-wall-1anm)
+- [I built a custom range slider for Retool with a histogram built in](https://dev.to/ghofrane_baaziz_aea1d4056/i-built-a-custom-range-slider-for-retool-with-a-histogram-built-in-5491)
+- [Meme Monday](https://dev.to/ben/meme-monday-1ec3)
+- [Neovim x Unreal Engine: Zero-Config Debugging &amp; A Dedicated Explorer 🚀](https://dev.to/taku25/neovim-x-unreal-engine-zero-config-debugging-a-dedicated-explorer-1a38)
 <!-- BLOG-POST-LIST:END -->
 
