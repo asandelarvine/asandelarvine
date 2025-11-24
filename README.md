@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing WebAI Performance: A Deep Dive into LiteRT.js](https://dev.to/sauravkumar8178/maximizing-webai-performance-a-deep-dive-into-litertjs-5od)
-- [Full Async](https://dev.to/stakiran/full-async-4hem)
-- [🚀 x402: A Practical Path Toward Built-In Web Payments](https://dev.to/adityasingh2824/x402-a-practical-path-toward-built-in-web-payments-dcf)
-- [Automating Compliance Checks in CI/CD Pipelines with Rego](https://dev.to/neviarrawlinson/automating-compliance-checks-in-cicd-pipelines-with-rego-4idk)
+- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
+- [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
+- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
+- [Headscale Deployment and Usage Guide: Mastering Tailscale&#39;s Self-Hosting Basics for Ultimate Control](https://dev.to/carsonyang/headscale-deployment-and-usage-guide-mastering-tailscales-self-hosting-basics-for-ultimate-5ai0)
 <!-- BLOG-POST-LIST:END -->
 
