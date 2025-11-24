@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
-- [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
-- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
-- [Headscale Deployment and Usage Guide: Mastering Tailscale&#39;s Self-Hosting Basics for Ultimate Control](https://dev.to/carsonyang/headscale-deployment-and-usage-guide-mastering-tailscales-self-hosting-basics-for-ultimate-5ai0)
+- [How to Connect PostgreSQL to Power BI using Local PostgreSQL.](https://dev.to/maina_meghan/how-to-connect-postgresql-to-power-bi-using-local-postgresql-27j4)
+- [🚀Deploy a Python Flask App on AWS Elastic Container Service with Fargate Using OpenTofu + Docker + Trivy + ALB](https://dev.to/latchudevops/deploy-a-python-flask-app-on-aws-elastic-container-service-with-fargate-using-opentofu-docker--5d21)
+- [10 GA4 Custom Reports That Actually Answer Your Questions &lpar;Not Google&#39;s&rpar;](https://dev.to/synergistdigitalmedia/10-ga4-custom-reports-that-actually-answer-your-questions-not-googles-5hdj)
+- [Cutting-Edge Tech Innovations Setting the Pace for 2025](https://dev.to/creative_soul_1f7d988fcf9/cutting-edge-tech-innovations-setting-the-pace-for-2025-19nm)
 <!-- BLOG-POST-LIST:END -->
 
