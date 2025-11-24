@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freelancing Reimagined: Total Autonomy with Massa Smart Contracts](https://dev.to/kirodotdev/freelancing-reimagined-total-autonomy-with-massa-smart-contracts-2c3l)
-- [tcount](https://dev.to/query_filter_591122b53770/tcount-3ah6)
-- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-4hjo)
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
+- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
+- [Erase &amp; Protect: Face Anonymization Without the AI Training Hassle by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-protect-face-anonymization-without-the-ai-training-hassle-by-arvind-sundararajan-95p)
+- [Hard Knocks, Cardboard, and AI: How a Siberian “Dropout” Became the Go-To-Market Partner for Startups](https://dev.to/andyterekhin/hard-knocks-cardboard-and-ai-how-a-siberian-dropout-became-the-go-to-market-partner-for-4nbn)
+- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
 <!-- BLOG-POST-LIST:END -->
 
