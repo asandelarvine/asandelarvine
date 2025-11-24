@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Voyage Planner – Modern Travel Booking Website](https://dev.to/senzy01/building-voyage-planner-modern-travel-booking-website-5do8)
-- [🔰 *SQL Programming Roadmap*](https://dev.to/ssekabirarobertsims/sql-programming-roadmap-2oih)
-- [ChatGPT Search Just Changed the Game: What Actually Matters Now](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-what-actually-matters-now-1cdd)
-- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
+- [The Future of Web Development: What Skills Will Matter Most](https://dev.to/sia_negi21/the-future-of-web-development-what-skills-will-matter-most-4045)
+- [recent thoughts about gen-ai](https://dev.to/forbit/recent-thoughts-about-gen-ai-57hj)
+- [Building fast in Angular with Zard UI, Tailwind CSS and Signals](https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-and-signals-cj5)
+- [LLM Code Map: Visualize TypeScript/JavaScript Dependencies &amp; Empower AI Agents](https://dev.to/mk668a/llm-code-map-visualize-typescriptjavascript-dependencies-empower-ai-agents-4bng)
 <!-- BLOG-POST-LIST:END -->
 
