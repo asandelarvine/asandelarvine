@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for simple tools to build a personal static site for notes](https://dev.to/md8_habibullah/looking-for-simple-tools-to-build-a-personal-static-site-for-notes-30g)
-- [Installing CVAT on Fedora - Quick Guide](https://dev.to/ankk98/installing-cvat-on-fedora-quick-guide-430o)
-- [Pulumi - DNS in AWS](https://dev.to/codecowboydotio/pulumi-dns-in-aws-450f)
-- [The Gradle Mystery - When Your Code Works... Until It Doesn&#39;t 🕵️](https://dev.to/kiran_ravi_092a2cfcf60389/the-gradle-mystery-when-your-code-works-until-it-doesnt-2n9d)
+- [Encrypt your GDrive / Dropbox files. GPG for beginners!](https://dev.to/aviiciii/encrypt-your-gdrive-dropbox-files-gpg-for-beginners-2c4j)
+- [Inside the Edge: Building an Automation-Native Telecom Stack for Real-Time Networks](https://dev.to/abdul_shamim/inside-the-edge-building-an-automation-native-telecom-stack-for-real-time-networks-3cfl)
+- [BATCHNORM IN LANGUAGE MODELS](https://dev.to/blackbidz/batchnorm-in-language-models-539c)
+- [Why I Stopped Using LocalStorage for Auth and What You Should Do Instead](https://dev.to/hills-dev/why-i-stopped-using-localstorage-for-auth-and-what-you-should-do-instead-5gli)
 <!-- BLOG-POST-LIST:END -->
 
