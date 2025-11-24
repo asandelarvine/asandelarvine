@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack](https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m)
-- [Choosing Between Agent Builder and n8n? Here’s the Breakdown That Would’ve Saved Me Months](https://dev.to/composiodev/choosing-between-agent-builder-and-n8n-heres-the-breakdown-that-wouldve-saved-me-months-2fm5)
-- [Software Development Teams and Architecture: A Complete Guide](https://dev.to/datatechbridge/software-development-teams-and-architecture-a-complete-guide-4nm7)
-- [What happens when you try to get hired by the top IT companies](https://dev.to/thetechpreneur/what-happens-when-you-try-to-get-hired-by-the-top-it-companies-1kg5)
+- [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
+- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
+- [Erase Faces, Not Utility: Instant Privacy for Image AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-faces-not-utility-instant-privacy-for-image-ai-by-arvind-sundararajan-4318)
+- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
 <!-- BLOG-POST-LIST:END -->
 
