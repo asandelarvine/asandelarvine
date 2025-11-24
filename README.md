@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone is focusing on AI engineers and AI developers, but nobody is talking about two real groups:
-
-AI Builders and AI Operators](https://dev.to/jaideepparashar/everyone-is-focusing-on-ai-engineers-and-ai-developers-but-nobody-is-talking-about-two-real-381c)
-- [Why Every DevOps Engineer Must Learn DHCP — Even If You Work Only on AWS](https://dev.to/srinivasamcjf/why-every-devops-engineer-must-learn-dhcp-even-if-you-work-only-on-aws-2bp7)
-- [I built a generative UI Guitar Tutor app](https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1)
-- [The Coming Divide: AI Builders vs AI Operators](https://dev.to/jaideepparashar/the-coming-divide-ai-builders-vs-ai-operators-345n)
+- [Maximizing WebAI Performance: A Deep Dive into LiteRT.js](https://dev.to/sauravkumar8178/maximizing-webai-performance-a-deep-dive-into-litertjs-5od)
+- [Full Async](https://dev.to/stakiran/full-async-4hem)
+- [🚀 x402: A Practical Path Toward Built-In Web Payments](https://dev.to/adityasingh2824/x402-a-practical-path-toward-built-in-web-payments-dcf)
+- [Automating Compliance Checks in CI/CD Pipelines with Rego](https://dev.to/neviarrawlinson/automating-compliance-checks-in-cicd-pipelines-with-rego-4idk)
 <!-- BLOG-POST-LIST:END -->
 
