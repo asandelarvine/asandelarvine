@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension to Extract YouTube Transcripts in Bulk](https://dev.to/mohduwaish59/i-built-a-chrome-extension-to-extract-youtube-transcripts-in-bulk-and-its-been-a-game-changer-59g9)
-- [Rejection: The Gateway to Growth](https://dev.to/gamepill/rejection-the-gateway-to-growth-1imc)
-- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
+- [Freelancing Reimagined: Total Autonomy with Massa Smart Contracts](https://dev.to/kirodotdev/freelancing-reimagined-total-autonomy-with-massa-smart-contracts-2c3l)
+- [tcount](https://dev.to/query_filter_591122b53770/tcount-3ah6)
+- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-4hjo)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
 <!-- BLOG-POST-LIST:END -->
 
