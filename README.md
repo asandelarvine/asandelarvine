@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying out Amazon CloudWatch Network Flow Monitor in EKS](https://dev.to/aws-builders/trying-out-amazon-cloudwatch-network-flow-monitor-in-eks-7pc)
-- [.](https://dev.to/denicmarko/-5g9p)
-- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
-- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
+- [Uma jornada ao Trunk-Based Development](https://dev.to/ffmmjj/uma-jornada-ao-trunk-based-development-2n06)
+- [Is it time to introduce milkadmin?](https://dev.to/giuliopanda/is-it-time-to-introduce-milkadmin-4l2m)
+- [🚀 New Tool Launch: Free Keyword Analyzer for SEO Research](https://dev.to/frontendtoolstech/new-tool-launch-free-keyword-analyzer-for-seo-research-3mmj)
+- [How to install a react JS in your Computer?](https://dev.to/aj_arul/how-to-install-a-react-js-in-your-computer-338n)
 <!-- BLOG-POST-LIST:END -->
 
