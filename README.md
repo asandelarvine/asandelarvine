@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AlloyDB Agentic RAG Application with MCP Toolbox [Part 2]](https://dev.to/googleai/alloydb-agentic-rag-application-with-mcp-toolbox-part-2-2l28)
-- [AlloyDB Agentic RAG Application with MCP Toolbox [Part 1]](https://dev.to/googleai/alloydb-agentic-rag-application-with-mcp-toolbox-part-1-1l8k)
-- [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
-- [✅ *Authentication &amp; Authorization Basics* 🔐🌐](https://dev.to/ssekabirarobertsims/authentication-authorization-basics-3o6g)
+- [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
+- [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
+- [Securing Azure APIM MCP Servers in Production](https://dev.to/itsrene/securing-azure-apim-mcp-servers-in-production-3gd3)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2d7n)
 <!-- BLOG-POST-LIST:END -->
 
