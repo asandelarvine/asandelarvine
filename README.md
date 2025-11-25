@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer New Contract: Why Trust Not Code is the Only Measure of AI Success](https://dev.to/simon_leighpurereputati/the-developer-new-contract-why-trust-not-code-is-the-only-measure-of-ai-success-5g9k)
-- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
-- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
-- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
+- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
+- [What Every Programmer Should Know About Memory Part 2](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-2-125m)
+- [Deploying Microservices &lpar;Python+Nodejs&rpar; to AWS ECS Fargate Using OpenTofu + Docker Hub + ALB &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/latchudevops/deploying-microservices-pythonnodejs-to-aws-ecs-fargate-using-opentofu-docker-hub-alb-3lka)
+- [Orchestrating Nature: AI-Powered Birdsong Soundscapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-nature-ai-powered-birdsong-soundscapes-by-arvind-sundararajan-bn1)
 <!-- BLOG-POST-LIST:END -->
 
