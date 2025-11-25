@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⭐ Build &quot;AI Moodboards From Tweets&quot; Using the Contentdrips API](https://dev.to/amna_anjum_2f911c0a1a4640/build-ai-moodboards-from-tweets-using-the-contentdrips-api-2e8h)
-- [Concorrência em Go: Goroutines e Channels Easy](https://dev.to/dev-araujo/concorrencia-em-go-goroutines-e-channels-easy-i8g)
-- [Yay, I&#39;ve been featured on the top 7 for the very first time! Thanks DEV ❤️](https://dev.to/dennistraub/yay-ive-been-featured-on-the-top-7-for-the-very-first-time-thanks-dev-4i04)
-- [Building a Full-Stack Class Dues Tracker: Lessons from Real-World Problem Solving](https://dev.to/wishot_cipher/building-a-full-stack-class-dues-tracker-lessons-from-real-world-problem-solving-4482)
+- [AlloyDB Agentic RAG Application with MCP Toolbox [Part 2]](https://dev.to/googleai/alloydb-agentic-rag-application-with-mcp-toolbox-part-2-2l28)
+- [AlloyDB Agentic RAG Application with MCP Toolbox [Part 1]](https://dev.to/googleai/alloydb-agentic-rag-application-with-mcp-toolbox-part-1-1l8k)
+- [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
+- [✅ *Authentication &amp; Authorization Basics* 🔐🌐](https://dev.to/ssekabirarobertsims/authentication-authorization-basics-3o6g)
 <!-- BLOG-POST-LIST:END -->
 
