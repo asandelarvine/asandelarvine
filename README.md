@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My DevOps Portfolio on a Killercoda Ubuntu Playground — And It Transformed My Learning](https://dev.to/hansomike/i-built-my-devops-portfolio-on-a-killercoda-ubuntu-playground-and-it-transformed-my-learning-99k)
-- [Working 30% on a 100% Job: What I Learned as a Solo Developer](https://dev.to/madsendev/working-30-on-a-100-job-what-i-learned-as-a-solo-developer-4568)
-- [Como Estruturei um Template de AWS Lambda com Terraform e GitHub Actions](https://dev.to/marcos_vile/como-estruturei-um-template-de-aws-lambda-com-terraform-e-github-actions-5hd1)
-- [Como Provisionar Infraestrutura AWS MediaConvert com Terraform](https://dev.to/marcos_vile/como-provisionar-infraestrutura-aws-mediaconvert-com-terraform-1lg)
+- [Trying out Amazon CloudWatch Network Flow Monitor in EKS](https://dev.to/aws-builders/trying-out-amazon-cloudwatch-network-flow-monitor-in-eks-7pc)
+- [.](https://dev.to/denicmarko/-5g9p)
+- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
+- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
 <!-- BLOG-POST-LIST:END -->
 
