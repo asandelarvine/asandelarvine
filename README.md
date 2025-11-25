@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Taught GitHub Copilot Code Review to Think Like a Maintainer](https://dev.to/techgirl1908/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer-3l2c)
-- [The End of the &quot;Code Typist&quot;: How I Shipped 10k Lines in 3 Days with AI Agents](https://dev.to/wavecut/the-end-of-the-code-typist-how-i-shipped-10k-lines-in-3-days-with-ai-agents-237c)
-- [How to Work with Feedback in Prompting: A Live Guide with Examples](https://dev.to/petrashka/how-to-work-with-feedback-in-prompting-a-live-guide-with-examples-570p)
-- [Diagrams as Code Just Make Sense](https://dev.to/cgarza/diagrams-as-code-just-make-sense-50on)
+- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
+- [Designing Trust: UX Principles in Fintech Apps](https://dev.to/pocketportfolioapp/designing-trust-ux-principles-in-fintech-apps-2gfo)
+- [GA4 Custom Reporting: Stop Building Dashboards Nobody Uses](https://dev.to/synergistdigitalmedia/ga4-custom-reporting-stop-building-dashboards-nobody-uses-16m0)
+- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
 <!-- BLOG-POST-LIST:END -->
 
