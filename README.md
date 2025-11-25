@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Work Faster With Multi-Model Tools](https://dev.to/rohit_gavali_0c2ad84fe4e0/how-developers-work-faster-with-multi-model-tools-11f6)
-- [Post-Holiday Customer Retention: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-customer-retention-what-to-do-with-all-those-december-buyers-3g52)
-- [Playwright vs Cypress: Solving Real Test Automation Challenges](https://dev.to/pratik01/playwright-vs-cypress-solving-real-test-automation-challenges-4e8m)
-- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
+- [The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat](https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072)
+- [How Sellers Prepare Agencies Websites for Sale](https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e)
+- [A look at Aikido&#39;s first launch on Product Hunt](https://dev.to/fmerian/a-look-at-aikidos-first-launch-on-product-hunt-3mdn)
+- [Cron Jobs vs Real Task Schedulers: A Love Story](https://dev.to/elvissautet/cron-jobs-vs-real-task-schedulers-a-love-story-1fka)
 <!-- BLOG-POST-LIST:END -->
 
