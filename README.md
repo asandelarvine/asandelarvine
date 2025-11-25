@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
-- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
-- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
-- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
+- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-5hn3)
+- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-opg)
+- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
 <!-- BLOG-POST-LIST:END -->
 
