@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
-- [Erase &amp; Protect: Face Anonymization Without the AI Training Hassle by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-protect-face-anonymization-without-the-ai-training-hassle-by-arvind-sundararajan-95p)
-- [Hard Knocks, Cardboard, and AI: How a Siberian “Dropout” Became the Go-To-Market Partner for Startups](https://dev.to/andyterekhin/hard-knocks-cardboard-and-ai-how-a-siberian-dropout-became-the-go-to-market-partner-for-4nbn)
-- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
+- [Liquid Round Button Animation](https://dev.to/jubayid_hassan_734b7ff1de/liquid-round-button-animation-16j7)
+- [Unlocking Automation with Strands Agents and Bedrock](https://dev.to/elbanic/unlocking-automation-with-strands-agents-and-bedrock-3noa)
+- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
+- [Stop decoding Hex manually. I built a Python J1939 Sniffer with a GUI &lpar;No Hardware Needed&rpar;](https://dev.to/philyeh/stop-decoding-hex-manually-i-built-a-python-j1939-sniffer-with-a-gui-no-hardware-needed-1p8o)
 <!-- BLOG-POST-LIST:END -->
 
