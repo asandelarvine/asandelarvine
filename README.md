@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reasoning In The Wild: How I Actually Think About Cognition](https://dev.to/marcosomma/reasoning-in-the-wild-how-i-actually-think-about-cognition-1i90)
-- [The Secret Life of Go: Variables &amp; Types](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co)
-- [Pourquoi changer sera difficile… &lpar;Réflexion personnelle&rpar;](https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak)
-- [What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research &lpar;India&rpar;?](https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5)
+- [Progress Indicators Explained: Types, Variations &amp; Best Practices for SaaS Design](https://dev.to/lollypopdesign/progress-indicators-explained-types-variations-best-practices-for-saas-design-392n)
+- [Mastering Java on AWS: A Guide for Modern Cloud Developers](https://dev.to/kaustubhyerkade/mastering-java-on-aws-a-guide-for-modern-cloud-developers-4jp1)
+- [SafeLine: A Modern, Developer-Friendly Self-Hosted WAF for Real-World Threats](https://dev.to/arina_cholee/safeline-a-modern-developer-friendly-self-hosted-waf-for-real-world-threats-3o3e)
+- [Log Ordering in Distributed Systems](https://dev.to/temich/log-ordering-in-distributed-systems-3bg0)
 <!-- BLOG-POST-LIST:END -->
 
