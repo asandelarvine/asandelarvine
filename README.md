@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Error handling in Go](https://dev.to/igor_grieder/error-handling-in-go-3f4o)
-- [Key Take-a-Ways From Microsoft Ignite 2025](https://dev.to/thomas_rosquin_2ea358feb2/key-take-a-ways-from-microsoft-ignite-2025-551l)
-- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
-- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
+- [⭐ Build &quot;AI Moodboards From Tweets&quot; Using the Contentdrips API](https://dev.to/amna_anjum_2f911c0a1a4640/build-ai-moodboards-from-tweets-using-the-contentdrips-api-2e8h)
+- [Concorrência em Go: Goroutines e Channels Easy](https://dev.to/dev-araujo/concorrencia-em-go-goroutines-e-channels-easy-i8g)
+- [Yay, I&#39;ve been featured on the top 7 for the very first time! Thanks DEV ❤️](https://dev.to/dennistraub/yay-ive-been-featured-on-the-top-7-for-the-very-first-time-thanks-dev-4i04)
+- [Building a Full-Stack Class Dues Tracker: Lessons from Real-World Problem Solving](https://dev.to/wishot_cipher/building-a-full-stack-class-dues-tracker-lessons-from-real-world-problem-solving-4482)
 <!-- BLOG-POST-LIST:END -->
 
