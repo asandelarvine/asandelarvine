@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Liquid Round Button Animation](https://dev.to/jubayid_hassan_734b7ff1de/liquid-round-button-animation-16j7)
-- [Unlocking Automation with Strands Agents and Bedrock](https://dev.to/elbanic/unlocking-automation-with-strands-agents-and-bedrock-3noa)
-- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
-- [Stop decoding Hex manually. I built a Python J1939 Sniffer with a GUI &lpar;No Hardware Needed&rpar;](https://dev.to/philyeh/stop-decoding-hex-manually-i-built-a-python-j1939-sniffer-with-a-gui-no-hardware-needed-1p8o)
+- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
+- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
+- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
+- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
 <!-- BLOG-POST-LIST:END -->
 
