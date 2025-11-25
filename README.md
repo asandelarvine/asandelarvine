@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
-- [What Every Programmer Should Know About Memory Part 2](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-2-125m)
-- [Deploying Microservices &lpar;Python+Nodejs&rpar; to AWS ECS Fargate Using OpenTofu + Docker Hub + ALB &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/latchudevops/deploying-microservices-pythonnodejs-to-aws-ecs-fargate-using-opentofu-docker-hub-alb-3lka)
-- [Orchestrating Nature: AI-Powered Birdsong Soundscapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-nature-ai-powered-birdsong-soundscapes-by-arvind-sundararajan-bn1)
+- [The Gen Z Privilege And The Blind Spot in AI Era](https://dev.to/dlzcods/the-gen-z-privilege-and-the-blind-spot-in-ai-era-58hm)
+- [Cohesion Is About Knowledge: Why High Cohesion Makes Code Easier to Understand](https://dev.to/yannick555/cohesion-is-about-knowledge-why-high-cohesion-makes-code-easier-to-understand-11cf)
+- [🚀 How Market Sentiment Impacts Trader Performance: A Deep Dive Using Bitcoin Fear &amp; Greed Index + Hyperliquid Trader Data](https://dev.to/shivang_mishra_be0160ce62/how-market-sentiment-impacts-trader-performance-a-deep-dive-using-bitcoin-fear-greed-index--4ip)
+- [2025 Complete Guide: How to Build End-to-End OCR with HunyuanOCR](https://dev.to/czmilo/2025-complete-guide-how-to-build-end-to-end-ocr-with-hunyuanocr-1k8m)
 <!-- BLOG-POST-LIST:END -->
 
