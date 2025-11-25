@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Lab68 Dev Platform: Build • Learn • Collaborate](https://dev.to/f4p1e/introducing-lab68-dev-platform-build-learn-collaborate-468c)
-- [Software Testing, Mock Objects, &amp; Test Isolation: Implementasi Teknik Lanjutan pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/software-testing-mock-objects-test-isolation-implementasi-teknik-lanjutan-pada-modul-reply-4fla)
-- [Refactoring &amp; Design Patterns: Peningkatan Performa dan Aspek Nonfungsional pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/refactoring-design-patterns-peningkatan-performa-dan-aspek-nonfungsional-pada-modul-reply-226e)
-- [Grab detail JDIHN](https://dev.to/ekopriyanto/grab-detail-jdihn-o5a)
+- [Reasoning In The Wild: How I Actually Think About Cognition](https://dev.to/marcosomma/reasoning-in-the-wild-how-i-actually-think-about-cognition-1i90)
+- [The Secret Life of Go: Variables &amp; Types](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co)
+- [Pourquoi changer sera difficile… &lpar;Réflexion personnelle&rpar;](https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak)
+- [What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research &lpar;India&rpar;?](https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5)
 <!-- BLOG-POST-LIST:END -->
 
