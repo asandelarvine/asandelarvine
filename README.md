@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: Functions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-functions-2mk1)
-- [Contract-Testing TM Forum Open APIs with Pact + Postman: Stop Breaking Your BSS](https://dev.to/yacine_s/contract-testing-tm-forum-open-apis-with-pact-postman-stop-breaking-your-bss-3hh2)
-- [Securing Azure APIM MCP Servers in Production](https://dev.to/itsrene/securing-azure-apim-mcp-servers-in-production-3gd3)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2d7n)
+- [[Boost]](https://dev.to/dev-araujo/-3kdk)
+- [Monte Carlo Neural Operators: Democratizing Physics Simulations by Arvind Sundararajan](https://dev.to/arvind_sundararajan/monte-carlo-neural-operators-democratizing-physics-simulations-by-arvind-sundararajan-595d)
+- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
+- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
 <!-- BLOG-POST-LIST:END -->
 
