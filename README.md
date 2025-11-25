@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma jornada ao Trunk-Based Development](https://dev.to/ffmmjj/uma-jornada-ao-trunk-based-development-2n06)
-- [Is it time to introduce milkadmin?](https://dev.to/giuliopanda/is-it-time-to-introduce-milkadmin-4l2m)
-- [🚀 New Tool Launch: Free Keyword Analyzer for SEO Research](https://dev.to/frontendtoolstech/new-tool-launch-free-keyword-analyzer-for-seo-research-3mmj)
-- [How to install a react JS in your Computer?](https://dev.to/aj_arul/how-to-install-a-react-js-in-your-computer-338n)
+- [How I Taught GitHub Copilot Code Review to Think Like a Maintainer](https://dev.to/techgirl1908/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer-3l2c)
+- [The End of the &quot;Code Typist&quot;: How I Shipped 10k Lines in 3 Days with AI Agents](https://dev.to/wavecut/the-end-of-the-code-typist-how-i-shipped-10k-lines-in-3-days-with-ai-agents-237c)
+- [How to Work with Feedback in Prompting: A Live Guide with Examples](https://dev.to/petrashka/how-to-work-with-feedback-in-prompting-a-live-guide-with-examples-570p)
+- [Diagrams as Code Just Make Sense](https://dev.to/cgarza/diagrams-as-code-just-make-sense-50on)
 <!-- BLOG-POST-LIST:END -->
 
