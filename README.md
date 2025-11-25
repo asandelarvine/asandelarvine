@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Progress Indicators Explained: Types, Variations &amp; Best Practices for SaaS Design](https://dev.to/lollypopdesign/progress-indicators-explained-types-variations-best-practices-for-saas-design-392n)
-- [Mastering Java on AWS: A Guide for Modern Cloud Developers](https://dev.to/kaustubhyerkade/mastering-java-on-aws-a-guide-for-modern-cloud-developers-4jp1)
-- [SafeLine: A Modern, Developer-Friendly Self-Hosted WAF for Real-World Threats](https://dev.to/arina_cholee/safeline-a-modern-developer-friendly-self-hosted-waf-for-real-world-threats-3o3e)
-- [Log Ordering in Distributed Systems](https://dev.to/temich/log-ordering-in-distributed-systems-3bg0)
+- [The Developer New Contract: Why Trust Not Code is the Only Measure of AI Success](https://dev.to/simon_leighpurereputati/the-developer-new-contract-why-trust-not-code-is-the-only-measure-of-ai-success-5g9k)
+- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
+- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
+- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
 <!-- BLOG-POST-LIST:END -->
 
