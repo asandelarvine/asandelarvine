@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
-- [Designing Trust: UX Principles in Fintech Apps](https://dev.to/pocketportfolioapp/designing-trust-ux-principles-in-fintech-apps-2gfo)
-- [GA4 Custom Reporting: Stop Building Dashboards Nobody Uses](https://dev.to/synergistdigitalmedia/ga4-custom-reporting-stop-building-dashboards-nobody-uses-16m0)
-- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
+- [Why Pub/Sub Is the Architecture Trick Every Developer Should Know](https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k)
+- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
+- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
+- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
 <!-- BLOG-POST-LIST:END -->
 
