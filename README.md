@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pub/Sub Is the Architecture Trick Every Developer Should Know](https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k)
-- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
-- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
-- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
+- [Error handling in Go](https://dev.to/igor_grieder/error-handling-in-go-3f4o)
+- [Key Take-a-Ways From Microsoft Ignite 2025](https://dev.to/thomas_rosquin_2ea358feb2/key-take-a-ways-from-microsoft-ignite-2025-551l)
+- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
+- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
 <!-- BLOG-POST-LIST:END -->
 
