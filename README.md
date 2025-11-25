@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-15gd)
-- [ApidogのAIテスト生成機能が便利だった話](https://dev.to/nakamura_takuya/apidognoaitesutosheng-cheng-ji-neng-gabian-li-datutahua-5hn3)
-- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-opg)
-- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
+- [Introducing Lab68 Dev Platform: Build • Learn • Collaborate](https://dev.to/f4p1e/introducing-lab68-dev-platform-build-learn-collaborate-468c)
+- [Software Testing, Mock Objects, &amp; Test Isolation: Implementasi Teknik Lanjutan pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/software-testing-mock-objects-test-isolation-implementasi-teknik-lanjutan-pada-modul-reply-4fla)
+- [Refactoring &amp; Design Patterns: Peningkatan Performa dan Aspek Nonfungsional pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/refactoring-design-patterns-peningkatan-performa-dan-aspek-nonfungsional-pada-modul-reply-226e)
+- [Grab detail JDIHN](https://dev.to/ekopriyanto/grab-detail-jdihn-o5a)
 <!-- BLOG-POST-LIST:END -->
 
