@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Authentication &amp; Authorization: A Beginner&#39;s Guide](https://dev.to/rushier/microservices-authentication-authorization-a-beginners-guide-1hde)
-- [Data Lakes vs. Data Warehouses: Which Model Fits Your Use Case?](https://dev.to/mathewpregasen/data-lakes-vs-data-warehouses-which-model-fits-your-use-case-46mm)
-- [What is Nuxeo? A brutally honest assessment from 10+ years of implementation](https://dev.to/thecontenthorizon/what-is-nuxeo-a-brutally-honest-assessment-from-10-years-of-implementation-1ae6)
-- [I Built an Animated UI Library for CSS Haters](https://dev.to/karan_k/i-built-an-animated-ui-library-for-css-haters-1nn6)
+- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
+- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
+- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
+- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
 <!-- BLOG-POST-LIST:END -->
 
