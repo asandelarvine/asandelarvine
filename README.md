@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Switched to a Feature-Based Folder Structure &lpar;And Why You Should Too&rpar;](https://dev.to/hxnain619/why-i-switched-to-a-feature-based-folder-structure-and-why-you-should-too-3lpo)
-- [SMTP Zen - Reliable, High Deliverability email service for developers](https://dev.to/pgiglobal/smtp-zen-reliable-high-deliverability-email-service-for-developers-1o3i)
-- [I Built a Game in Less Than a Day &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/j4s0nc/i-built-a-game-in-less-than-a-day-without-writing-a-single-line-of-code-4co6)
-- [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
+- [TWD 1.2.x release - Component mocking, test and ci improvements](https://dev.to/kevinccbsg/twd-12x-release-component-mocking-test-and-ci-improvements-1lc3)
+- [TRAE Global Best Practice Challenge - L](https://dev.to/vamp_e889546e10e432ca4c4d/trae-global-best-practice-challenge-l-4o36)
+- [Google&#39;s December 2025 Core Update Hit E-commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-e-commerce-hard-heres-what-actually-changed-3k46)
+- [Day 1275 : Thanksgiving](https://dev.to/dwane/day-1275-thanksgiving-30j7)
 <!-- BLOG-POST-LIST:END -->
 
