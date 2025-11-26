@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BudgetBuddy — The First Finance App That Understands Your Emotions Before Your Money](https://dev.to/jainishah/budgetbuddy-the-first-finance-app-that-understands-your-emotions-before-your-money-27i0)
-- [Unpacking the Foundation: Understanding Azure&#39;s Core Architectural Components](https://dev.to/afo_techie/unpacking-the-foundation-understanding-azures-core-architectural-components-4b)
-- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
-- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
+- [The $847 Idle RDS Instance: A Deep Dive into AWS Cost Optimization](https://dev.to/cloudwiseteam/the-847-idle-rds-instance-a-deep-dive-into-aws-cost-optimization-4mhf)
+- [📺 ITV-60 – Mon lecteur IPTV personnel en ligne](https://dev.to/guillaumesere/itv-60-mon-lecteur-iptv-personnel-en-ligne-1imh)
+- [Artisan Brew House: A &quot;WOW Factor&quot; UI built with Uno Platform](https://dev.to/devendra_shyoran_e735f166/artisan-brew-house-a-wow-factor-ui-built-with-uno-platform-40l3)
+- [3. PYTHON ESSENTIALS FOR AI/ML &lpar;OOP&rpar;](https://dev.to/m_t_ramkrushna/3-python-essentials-for-aiml-oop-3gpl)
 <!-- BLOG-POST-LIST:END -->
 
