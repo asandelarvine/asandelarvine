@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of Pay-Per-Click &lpar;PPC&rpar; Advertising](https://dev.to/ayisha_mk/understanding-the-basics-of-pay-per-click-ppc-advertising-1bga)
-- [Fixing SQL Injection Vulnerabilities to Strengthen Security](https://dev.to/_877737de2d34ff8c6265/fixing-sql-injection-vulnerabilities-to-strengthen-security-2pph)
-- [Rethinking State Management in React: A UI Architect’s Deep Dive Into “State Boundaries”](https://dev.to/riturathin/rethinking-state-management-in-react-a-ui-architects-deep-dive-into-state-boundaries-7o4)
-- [Developer can write unit test by cypress prompt](https://dev.to/tak089/developer-can-write-unit-test-by-cypress-prompt-fn3)
+- [10 Lessons About App Development I Learned After Submitting My First iOS App](https://dev.to/olivia-john/10-lessons-about-app-development-i-learned-after-submitting-my-first-ios-app-37b)
+- [Agentic AI for Startups: How Founders Can Use Agents to Scale Faster](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-for-startups-how-founders-can-use-agents-to-scale-faster-10d3)
+- [Which workplace chat tool do you think balances usability and noise the best?](https://dev.to/clariti_22_6e89b280ccd102/which-workplace-chat-tool-do-you-think-balances-usability-and-noise-the-best-2pf3)
+- [Tried building a file explorer using NativePHP v2 &lpar;nativephp/desktop&rpar;](https://dev.to/yone3/tried-building-a-file-explorer-using-nativephp-v2-nativephpdesktop-2n26)
 <!-- BLOG-POST-LIST:END -->
 
