@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Mistakes Developers Still Make with Firebase in 2025](https://dev.to/mridudixit15/top-10-mistakes-developers-still-make-with-firebase-in-2025-53ah)
-- [How AI and Procedural Generation Are Transforming Role Play Game Development](https://dev.to/sarah_taylor_c02e59164123/how-ai-and-procedural-generation-are-transforming-role-play-game-development-3ml4)
-- [Run React Native Background Tasks 2026 For Optimal Performance](https://dev.to/eira-wexford/run-react-native-background-tasks-2026-for-optimal-performance-d26)
-- [We Used Claude to Build an Entire n8n Workflow in Minutes: Here’s What Actually Happened](https://dev.to/ciphernutz/we-used-claude-to-build-an-entire-n8n-workflow-in-minutes-heres-what-actually-happened-3nd7)
+- [BudgetBuddy — The First Finance App That Understands Your Emotions Before Your Money](https://dev.to/jainishah/budgetbuddy-the-first-finance-app-that-understands-your-emotions-before-your-money-27i0)
+- [Unpacking the Foundation: Understanding Azure&#39;s Core Architectural Components](https://dev.to/afo_techie/unpacking-the-foundation-understanding-azures-core-architectural-components-4b)
+- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
+- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
 <!-- BLOG-POST-LIST:END -->
 
