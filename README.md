@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dev-araujo/-3kdk)
-- [Monte Carlo Neural Operators: Democratizing Physics Simulations by Arvind Sundararajan](https://dev.to/arvind_sundararajan/monte-carlo-neural-operators-democratizing-physics-simulations-by-arvind-sundararajan-595d)
-- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
-- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
+- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
+- [shadcn-components-blocks: 100+ UI Components for React/Next.js](https://dev.to/jqueryscript/shadcn-components-blocks-100-ui-components-for-reactnextjs-41o7)
+- [The 2025 Tech Layoff Cycle Isn’t the Real Threat, It’s What Comes After](https://dev.to/brandonkylebailey/the-2025-tech-layoff-cycle-isnt-the-real-threat-its-what-comes-after-4cf7)
+- [createElementNS、setAttribute&lpar;&rpar;、SVG 的 viewBox 属性、`&lt;svg&gt;`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
 <!-- BLOG-POST-LIST:END -->
 
