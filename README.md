@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL HeatWave: Migrating Your Data to HeatWave Service](https://dev.to/derrickryangiggs/mysql-heatwave-migrating-your-data-to-heatwave-service-51ei)
-- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
-- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
-- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
+- [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
+- [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
+- [We Tested Meta&#39;s Advantage+ Creative in 50 Campaigns: Here&#39;s What Actually Moved the Needle](https://dev.to/synergistdigitalmedia/we-tested-metas-advantage-creative-in-50-campaigns-heres-what-actually-moved-the-needle-4mle)
+- [Git Flow vs GitHub Flow : Understand in 3 Minutes](https://dev.to/hongster85/git-flow-vs-github-flow-understand-in-3-minutes-kmm)
 <!-- BLOG-POST-LIST:END -->
 
