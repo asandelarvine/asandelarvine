@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 The Blueprint of Success: Mastering the Technical Requirements Document &lpar;TRD&rpar;](https://dev.to/mohammadidrees/the-blueprint-of-success-mastering-the-technical-requirements-document-trd-306g)
-- [2026 Marketing Budget Planning: The Framework That Actually Works When Finance Says No](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-the-framework-that-actually-works-when-finance-says-no-2b7g)
-- [Beyond Filters: Rearchitecting Prompt Injection Defense](https://dev.to/narnaiezzsshaa/beyond-filters-rearchitecting-prompt-injection-defense-1h20)
-- [Beyond Normalization: Unlocking Database Power with Design Patterns](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-normalization-unlocking-database-power-with-design-patterns-i5b)
+- [Microservices Authentication &amp; Authorization: A Beginner&#39;s Guide](https://dev.to/rushier/microservices-authentication-authorization-a-beginners-guide-1hde)
+- [Data Lakes vs. Data Warehouses: Which Model Fits Your Use Case?](https://dev.to/mathewpregasen/data-lakes-vs-data-warehouses-which-model-fits-your-use-case-46mm)
+- [What is Nuxeo? A brutally honest assessment from 10+ years of implementation](https://dev.to/thecontenthorizon/what-is-nuxeo-a-brutally-honest-assessment-from-10-years-of-implementation-1ae6)
+- [I Built an Animated UI Library for CSS Haters](https://dev.to/karan_k/i-built-an-animated-ui-library-for-css-haters-1nn6)
 <!-- BLOG-POST-LIST:END -->
 
