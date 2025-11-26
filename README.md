@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Amazon Scraper Using Your Chrome Profile](https://dev.to/letsscrape/build-an-amazon-scraper-using-your-chrome-profile-dnk)
-- [Delta Lake Health Analyzer](https://dev.to/razorpaytech/delta-lake-health-analyzer-fg)
-- [We Tested Meta&#39;s Advantage+ Creative in 50 Campaigns: Here&#39;s What Actually Moved the Needle](https://dev.to/synergistdigitalmedia/we-tested-metas-advantage-creative-in-50-campaigns-heres-what-actually-moved-the-needle-4mle)
-- [Git Flow vs GitHub Flow : Understand in 3 Minutes](https://dev.to/hongster85/git-flow-vs-github-flow-understand-in-3-minutes-kmm)
+- [Top 10 Mistakes Developers Still Make with Firebase in 2025](https://dev.to/mridudixit15/top-10-mistakes-developers-still-make-with-firebase-in-2025-53ah)
+- [How AI and Procedural Generation Are Transforming Role Play Game Development](https://dev.to/sarah_taylor_c02e59164123/how-ai-and-procedural-generation-are-transforming-role-play-game-development-3ml4)
+- [Run React Native Background Tasks 2026 For Optimal Performance](https://dev.to/eira-wexford/run-react-native-background-tasks-2026-for-optimal-performance-d26)
+- [We Used Claude to Build an Entire n8n Workflow in Minutes: Here’s What Actually Happened](https://dev.to/ciphernutz/we-used-claude-to-build-an-entire-n8n-workflow-in-minutes-heres-what-actually-happened-3nd7)
 <!-- BLOG-POST-LIST:END -->
 
