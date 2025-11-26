@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
-- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
-- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
-- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
+- [Stop Burning Cash on Brackets: Switch to TOON Because JSON is Too Expensive for AI](https://dev.to/devendra_singh_f5e85b1362/stop-burning-cash-on-brackets-switch-to-toon-because-json-is-too-expensive-for-ai-366g)
+- [معرفی متاکلاس‌ها در پایتون](https://dev.to/pipinstalled/mrfy-mtkhlsh-dr-pytwn-3a34)
+- [Vibe Coding, Productivity, and Staying Sane with AI](https://dev.to/rohsyl/vibe-coding-productivity-and-staying-sane-with-ai-eb0)
+- [Terraform Plan: Your Last Line of Defense Before Infrastructure Changes](https://dev.to/terraformmonkey/terraform-plan-your-last-line-of-defense-before-infrastructure-changes-5ge1)
 <!-- BLOG-POST-LIST:END -->
 
