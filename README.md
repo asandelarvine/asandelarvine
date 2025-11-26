@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Arithmetic and Logical Operators in Python — A Practical Guide for Developers](https://dev.to/anidigitalhub/understanding-arithmetic-and-logical-operators-in-python-a-practical-guide-for-developers-l63)
-- [How to Implement a Visual Word Template Similar to poi-tl with 800 Lines of Code](https://dev.to/canonical/how-to-implement-a-visual-word-template-similar-to-poi-tl-with-800-lines-of-code-31o3)
-- [Anon: The Adaptive Optimizer Bridging SGD and Adam for Peak AI Performance](https://dev.to/arvind_sundararajan/anon-the-adaptive-optimizer-bridging-sgd-and-adam-for-peak-ai-performance-2d4l)
-- [Engineers, Managers, and Spreaders](https://dev.to/stakiran/engineers-managers-and-spreaders-4fl7)
+- [The Evolution of Software Testing: Moving from Automation Tools to Automation Strategy](https://dev.to/misterankit/the-evolution-of-software-testing-moving-from-automation-tools-to-automation-strategy-3c7m)
+- [Browser Storage Deep Dive: Cache vs IndexedDB for Scalable PWAs](https://dev.to/mino/browser-storage-deep-dive-cache-vs-indexeddb-for-scalable-pwas-35f4)
+- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
+- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
 <!-- BLOG-POST-LIST:END -->
 
