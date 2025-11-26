@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Logging with Grafana Alloy + Loki](https://dev.to/sharonkynu/modern-logging-with-grafana-alloy-loki-53ll)
-- [ESPB: WASM-like bytecode interpreter for ESP32 with seamless FreeRTOS integration.](https://dev.to/andrey_asx_6a2421d07b6d62/espb-wasm-like-bytecode-interpreter-for-esp32-with-seamless-freertos-integration-4f19)
-- [Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)
-- [TikTok Search Optimization: How to Rank When Gen Z Ditches Google](https://dev.to/synergistdigitalmedia/tiktok-search-optimization-how-to-rank-when-gen-z-ditches-google-e2h)
+- [How to Build Agentic AI Systems: A Guide for Engineering Leaders](https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7)
+- [How I Reverse-Engineered Perplexity’s Referral Signup](https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04)
+- [Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era](https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l)
+- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
 <!-- BLOG-POST-LIST:END -->
 
