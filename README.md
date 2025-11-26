@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
-- [shadcn-components-blocks: 100+ UI Components for React/Next.js](https://dev.to/jqueryscript/shadcn-components-blocks-100-ui-components-for-reactnextjs-41o7)
-- [The 2025 Tech Layoff Cycle Isn’t the Real Threat, It’s What Comes After](https://dev.to/brandonkylebailey/the-2025-tech-layoff-cycle-isnt-the-real-threat-its-what-comes-after-4cf7)
-- [createElementNS、setAttribute&lpar;&rpar;、SVG 的 viewBox 属性、`&lt;svg&gt;`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
+- [Understanding Arithmetic and Logical Operators in Python — A Practical Guide for Developers](https://dev.to/anidigitalhub/understanding-arithmetic-and-logical-operators-in-python-a-practical-guide-for-developers-l63)
+- [How to Implement a Visual Word Template Similar to poi-tl with 800 Lines of Code](https://dev.to/canonical/how-to-implement-a-visual-word-template-similar-to-poi-tl-with-800-lines-of-code-31o3)
+- [Anon: The Adaptive Optimizer Bridging SGD and Adam for Peak AI Performance](https://dev.to/arvind_sundararajan/anon-the-adaptive-optimizer-bridging-sgd-and-adam-for-peak-ai-performance-2d4l)
+- [Engineers, Managers, and Spreaders](https://dev.to/stakiran/engineers-managers-and-spreaders-4fl7)
 <!-- BLOG-POST-LIST:END -->
 
