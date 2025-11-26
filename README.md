@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-2861)
-- [SKALDA – privacy-first browser tools that run entirely in your browser](https://dev.to/skalda/skalda-privacy-first-browser-tools-that-run-entirely-in-your-browser-8gi)
-- [24-Hour Autonomous Codex Max: What Happens When Your Code Writes Itself?](https://dev.to/prateekshaweb/24-hour-autonomous-codex-max-what-happens-when-your-code-writes-itself-11j)
-- [Tame Your LLMs: A New Optimizer for Robust Deep Learning](https://dev.to/arvind_sundararajan/tame-your-llms-a-new-optimizer-for-robust-deep-learning-3aaj)
+- [Why I Switched to a Feature-Based Folder Structure &lpar;And Why You Should Too&rpar;](https://dev.to/hxnain619/why-i-switched-to-a-feature-based-folder-structure-and-why-you-should-too-3lpo)
+- [SMTP Zen - Reliable, High Deliverability email service for developers](https://dev.to/pgiglobal/smtp-zen-reliable-high-deliverability-email-service-for-developers-1o3i)
+- [I Built a Game in Less Than a Day &lpar;Without Writing a Single Line of Code&rpar;](https://dev.to/j4s0nc/i-built-a-game-in-less-than-a-day-without-writing-a-single-line-of-code-4co6)
+- [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
 <!-- BLOG-POST-LIST:END -->
 
