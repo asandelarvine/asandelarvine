@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Software Testing: Moving from Automation Tools to Automation Strategy](https://dev.to/misterankit/the-evolution-of-software-testing-moving-from-automation-tools-to-automation-strategy-3c7m)
-- [Browser Storage Deep Dive: Cache vs IndexedDB for Scalable PWAs](https://dev.to/mino/browser-storage-deep-dive-cache-vs-indexeddb-for-scalable-pwas-35f4)
-- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
-- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
+- [Modern Logging with Grafana Alloy + Loki](https://dev.to/sharonkynu/modern-logging-with-grafana-alloy-loki-53ll)
+- [ESPB: WASM-like bytecode interpreter for ESP32 with seamless FreeRTOS integration.](https://dev.to/andrey_asx_6a2421d07b6d62/espb-wasm-like-bytecode-interpreter-for-esp32-with-seamless-freertos-integration-4f19)
+- [Code Detective: Using Vector Databases to Power AI-Powered Search and Docs](https://dev.to/mabualzait/code-detective-using-vector-databases-to-power-ai-powered-search-and-docs-3g07)
+- [TikTok Search Optimization: How to Rank When Gen Z Ditches Google](https://dev.to/synergistdigitalmedia/tiktok-search-optimization-how-to-rank-when-gen-z-ditches-google-e2h)
 <!-- BLOG-POST-LIST:END -->
 
