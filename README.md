@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Lessons About App Development I Learned After Submitting My First iOS App](https://dev.to/olivia-john/10-lessons-about-app-development-i-learned-after-submitting-my-first-ios-app-37b)
-- [Agentic AI for Startups: How Founders Can Use Agents to Scale Faster](https://dev.to/aziro_tech_8cf3f347e4e95b/agentic-ai-for-startups-how-founders-can-use-agents-to-scale-faster-10d3)
-- [Which workplace chat tool do you think balances usability and noise the best?](https://dev.to/clariti_22_6e89b280ccd102/which-workplace-chat-tool-do-you-think-balances-usability-and-noise-the-best-2pf3)
-- [Tried building a file explorer using NativePHP v2 &lpar;nativephp/desktop&rpar;](https://dev.to/yone3/tried-building-a-file-explorer-using-nativephp-v2-nativephpdesktop-2n26)
+- [MySQL HeatWave: Migrating Your Data to HeatWave Service](https://dev.to/derrickryangiggs/mysql-heatwave-migrating-your-data-to-heatwave-service-51ei)
+- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
+- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
+- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
 <!-- BLOG-POST-LIST:END -->
 
