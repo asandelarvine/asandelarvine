@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is AI Replacing Developers — or Making Senior Engineers More Valuable?](https://dev.to/logicverse_2025/is-ai-replacing-developers-or-making-senior-engineers-more-valuable-9ci)
-- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
-- [The Crucial Intersection of Cybersecurity and Product Management](https://dev.to/fruity_pebbles_9eb2518a6e/the-crucial-intersection-of-cybersecurity-and-product-management-2c9g)
-- [Unlocking Peak Performance: A New Optimizer That Tames the Training Beast by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-peak-performance-a-new-optimizer-that-tames-the-training-beast-by-arvind-sundararajan-3l2j)
+- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
+- [Power BI Embedded ile CRM ekranına custom rapor nasıl eklenir?](https://dev.to/oguzhanasan1/power-bi-embedded-ile-crm-ekranina-custom-rapor-nasil-eklenir-mah)
+- [Building a Scalable Community Health Worker Analytics Platform: My Journey with dbt and Snowflake](https://dev.to/augo_amos/building-a-scalable-community-health-worker-analytics-platform-my-journey-with-dbt-and-snowflake-7gc)
+- [Why Your User Update Endpoint Shouldn&#39;t Do Everything: SRP and Least Privilege in NestJS](https://dev.to/tochukwu_dev/why-your-user-update-endpoint-shouldnt-do-everything-srp-and-least-privilege-in-nestjs-dc3)
 <!-- BLOG-POST-LIST:END -->
 
