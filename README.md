@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
-- [Power BI Embedded ile CRM ekranına custom rapor nasıl eklenir?](https://dev.to/oguzhanasan1/power-bi-embedded-ile-crm-ekranina-custom-rapor-nasil-eklenir-mah)
-- [Building a Scalable Community Health Worker Analytics Platform: My Journey with dbt and Snowflake](https://dev.to/augo_amos/building-a-scalable-community-health-worker-analytics-platform-my-journey-with-dbt-and-snowflake-7gc)
-- [Why Your User Update Endpoint Shouldn&#39;t Do Everything: SRP and Least Privilege in NestJS](https://dev.to/tochukwu_dev/why-your-user-update-endpoint-shouldnt-do-everything-srp-and-least-privilege-in-nestjs-dc3)
+- [🧱 The Blueprint of Success: Mastering the Technical Requirements Document &lpar;TRD&rpar;](https://dev.to/mohammadidrees/the-blueprint-of-success-mastering-the-technical-requirements-document-trd-306g)
+- [2026 Marketing Budget Planning: The Framework That Actually Works When Finance Says No](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-the-framework-that-actually-works-when-finance-says-no-2b7g)
+- [Beyond Filters: Rearchitecting Prompt Injection Defense](https://dev.to/narnaiezzsshaa/beyond-filters-rearchitecting-prompt-injection-defense-1h20)
+- [Beyond Normalization: Unlocking Database Power with Design Patterns](https://dev.to/muhammad_fayzliaqat_cc8b/beyond-normalization-unlocking-database-power-with-design-patterns-i5b)
 <!-- BLOG-POST-LIST:END -->
 
