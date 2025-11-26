@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $847 Idle RDS Instance: A Deep Dive into AWS Cost Optimization](https://dev.to/cloudwiseteam/the-847-idle-rds-instance-a-deep-dive-into-aws-cost-optimization-4mhf)
-- [📺 ITV-60 – Mon lecteur IPTV personnel en ligne](https://dev.to/guillaumesere/itv-60-mon-lecteur-iptv-personnel-en-ligne-1imh)
-- [Artisan Brew House: A &quot;WOW Factor&quot; UI built with Uno Platform](https://dev.to/devendra_shyoran_e735f166/artisan-brew-house-a-wow-factor-ui-built-with-uno-platform-40l3)
-- [3. PYTHON ESSENTIALS FOR AI/ML &lpar;OOP&rpar;](https://dev.to/m_t_ramkrushna/3-python-essentials-for-aiml-oop-3gpl)
+- [Is AI Replacing Developers — or Making Senior Engineers More Valuable?](https://dev.to/logicverse_2025/is-ai-replacing-developers-or-making-senior-engineers-more-valuable-9ci)
+- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
+- [The Crucial Intersection of Cybersecurity and Product Management](https://dev.to/fruity_pebbles_9eb2518a6e/the-crucial-intersection-of-cybersecurity-and-product-management-2c9g)
+- [Unlocking Peak Performance: A New Optimizer That Tames the Training Beast by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-peak-performance-a-new-optimizer-that-tames-the-training-beast-by-arvind-sundararajan-3l2j)
 <!-- BLOG-POST-LIST:END -->
 
