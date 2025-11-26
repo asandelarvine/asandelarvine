@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Burning Cash on Brackets: Switch to TOON Because JSON is Too Expensive for AI](https://dev.to/devendra_singh_f5e85b1362/stop-burning-cash-on-brackets-switch-to-toon-because-json-is-too-expensive-for-ai-366g)
-- [معرفی متاکلاس‌ها در پایتون](https://dev.to/pipinstalled/mrfy-mtkhlsh-dr-pytwn-3a34)
-- [Vibe Coding, Productivity, and Staying Sane with AI](https://dev.to/rohsyl/vibe-coding-productivity-and-staying-sane-with-ai-eb0)
-- [Terraform Plan: Your Last Line of Defense Before Infrastructure Changes](https://dev.to/terraformmonkey/terraform-plan-your-last-line-of-defense-before-infrastructure-changes-5ge1)
+- [Boost Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-2861)
+- [SKALDA – privacy-first browser tools that run entirely in your browser](https://dev.to/skalda/skalda-privacy-first-browser-tools-that-run-entirely-in-your-browser-8gi)
+- [24-Hour Autonomous Codex Max: What Happens When Your Code Writes Itself?](https://dev.to/prateekshaweb/24-hour-autonomous-codex-max-what-happens-when-your-code-writes-itself-11j)
+- [Tame Your LLMs: A New Optimizer for Robust Deep Learning](https://dev.to/arvind_sundararajan/tame-your-llms-a-new-optimizer-for-robust-deep-learning-3aaj)
 <!-- BLOG-POST-LIST:END -->
 
