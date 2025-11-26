@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Common Pitfalls in Developing Financial Technology Products?](https://dev.to/it-influencer/what-are-the-common-pitfalls-in-developing-financial-technology-products-1djj)
-- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
-- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
-- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
+- [Understanding the Basics of Pay-Per-Click &lpar;PPC&rpar; Advertising](https://dev.to/ayisha_mk/understanding-the-basics-of-pay-per-click-ppc-advertising-1bga)
+- [Fixing SQL Injection Vulnerabilities to Strengthen Security](https://dev.to/_877737de2d34ff8c6265/fixing-sql-injection-vulnerabilities-to-strengthen-security-2pph)
+- [Rethinking State Management in React: A UI Architect’s Deep Dive Into “State Boundaries”](https://dev.to/riturathin/rethinking-state-management-in-react-a-ui-architects-deep-dive-into-state-boundaries-7o4)
+- [Developer can write unit test by cypress prompt](https://dev.to/tak089/developer-can-write-unit-test-by-cypress-prompt-fn3)
 <!-- BLOG-POST-LIST:END -->
 
