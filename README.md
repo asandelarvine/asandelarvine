@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Agentic AI Systems: A Guide for Engineering Leaders](https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7)
-- [How I Reverse-Engineered Perplexity’s Referral Signup](https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04)
-- [Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era](https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l)
-- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
+- [What Are the Common Pitfalls in Developing Financial Technology Products?](https://dev.to/it-influencer/what-are-the-common-pitfalls-in-developing-financial-technology-products-1djj)
+- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
+- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
+- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
 <!-- BLOG-POST-LIST:END -->
 
