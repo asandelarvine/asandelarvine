@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making A Peer Review System for My Blogs Using Google-ADK &amp; Mem0](https://dev.to/piyush_choudhari_a5b29f7f/making-a-peer-review-system-for-my-blogs-using-google-adk-mem0-3ejg)
-- [6 Essential Tools to Supercharge Your Workflow &amp; Creativity](https://dev.to/platypus98/6-essential-tools-to-supercharge-your-workflow-creativity-gkh)
-- [Micro Frontend: Common Misconceptions with Case Studies](https://dev.to/juun_roh/micro-frontend-common-misconceptions-with-case-studies-4fan)
-- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
+- [Stop Using RAG for Small Document Sets! Build an MCP Resource Server with Spring AI](https://dev.to/javaninja/your-post-title-il2)
+- [AI Agents Are Writing Your Content Now. Here&#39;s How to Keep It From Sounding Like Everyone Else&#39;s](https://dev.to/synergistdigitalmedia/ai-agents-are-writing-your-content-now-heres-how-to-keep-it-from-sounding-like-everyone-elses-562j)
+- [Guide to 4K HDMI Cables](https://dev.to/saif_ahmed_b92026e9aaca2b/guide-to-4k-hdmi-cables-3m17)
+- [Golden gate Bridge - San Francisco](https://dev.to/preetha_vaishnavi_2b82358/golden-gate-bridge-san-francisco-54a3)
 <!-- BLOG-POST-LIST:END -->
 
