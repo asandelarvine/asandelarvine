@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[MyNextHome] Simple Data Model + Sync Flow](https://dev.to/cathylai/mynexthome-simple-data-model-sync-flow-v01-4b8f)
-- [I Built a Browser-Based HEIC PDF/PNG Converter: How It Works &lpar;and Why Office Workers Might Love It&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/i-built-a-browser-based-heic-pdfpng-converter-how-it-works-and-why-office-workers-might-love-it-70h)
-- [How Blockchain Development Services Are Powering the Next Wave of Enterprise Innovation | Oodles](https://dev.to/oodlesplatform/how-blockchain-development-services-are-powering-the-next-wave-of-enterprise-innovation-oodles-24hd)
-- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
+- [From AWS Kinesis to Apache Kafka: Building a Real-Time Streaming Bridge](https://dev.to/abdelrahman_ahmed/from-aws-kinesis-to-apache-kafka-building-a-real-time-streaming-bridge-96b)
+- [Amazon Bedrock Data Automation](https://dev.to/elianalamhost/amazon-bedrock-data-automation-5165)
+- [Multi-Agent on AgentCore](https://dev.to/elianalamhost/multi-agent-on-agentcore-2gno)
+- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
 <!-- BLOG-POST-LIST:END -->
 
