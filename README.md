@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Put an LLM in My Browser and Now It Writes My Commit Messages. The Results Were… Unexpected😭✨](https://dev.to/sylwia-lask/i-put-an-llm-in-my-browser-and-now-it-writes-my-commit-messages-the-results-were-unexpected-43je)
-- [New in Vue - November 2025](https://dev.to/aloisseckar/new-in-vue-november-2025-1l1b)
-- [5 Técnicas Para Melhorar a Performance no seu App Angular](https://dev.to/dev-araujo/5-tecnicas-para-melhorar-a-performance-no-seu-app-angular-g0e)
-- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
+- [How To Attach A Data Disk To A Virtual Machine And How To Initialize It](https://dev.to/akintoye_gbenga/how-to-attach-a-data-disk-to-a-virtual-machine-and-how-to-initialize-it-1p0c)
+- [Multicloud: Freedom or a Fancy Form of Chaos?](https://dev.to/dev_tips/multicloud-freedom-or-a-fancy-form-of-chaos-27k3)
+- [Day 2 : The Knowledge of Terraform Providers](https://dev.to/alafiz/day-2-the-knowledge-of-terraform-providers-49a1)
+- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
 <!-- BLOG-POST-LIST:END -->
 
