@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using RAG for Small Document Sets! Build an MCP Resource Server with Spring AI](https://dev.to/javaninja/your-post-title-il2)
-- [AI Agents Are Writing Your Content Now. Here&#39;s How to Keep It From Sounding Like Everyone Else&#39;s](https://dev.to/synergistdigitalmedia/ai-agents-are-writing-your-content-now-heres-how-to-keep-it-from-sounding-like-everyone-elses-562j)
-- [Guide to 4K HDMI Cables](https://dev.to/saif_ahmed_b92026e9aaca2b/guide-to-4k-hdmi-cables-3m17)
-- [Golden gate Bridge - San Francisco](https://dev.to/preetha_vaishnavi_2b82358/golden-gate-bridge-san-francisco-54a3)
+- [Definition of Services in Kubernetes](https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if)
+- [Types of Chatbots: Rule-Based, NLP &amp; AI Chatbots Explained &lpar;Insights from DGTL Tech Hub&rpar;](https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb)
+- [Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself](https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i)
+- [🚀 Terraform Azure Infrastructure &lpar;Modular Architecture + DevSecOps&rpar;](https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p)
 <!-- BLOG-POST-LIST:END -->
 
