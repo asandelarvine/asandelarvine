@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Code: Is It Good or Bad?](https://dev.to/andersoncontreira/ai-generated-code-is-it-good-or-bad-2p70)
-- [He Stood Between Me and the Stones: A Deep Walk Through John 8](https://dev.to/douglasvandergraph/he-stood-between-me-and-the-stones-a-deep-walk-through-john-8-4ej1)
-- [API Request Limiter Challenge](https://dev.to/fosres/api-request-limiter-challenge-5dc1)
-- [Conquer Any Screen: Responsive Design Best Practices for a Seamless User Experience](https://dev.to/muhammad_fayzliaqat_cc8b/conquer-any-screen-responsive-design-best-practices-for-a-seamless-user-experience-4082)
+- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
+- [Why was Kubernetes created?](https://dev.to/itsmecharan7/why-was-kubernetes-created-2lmm)
+- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
+- [How to Add a Data Disk to a VM](https://dev.to/ojosamuel129/how-to-add-a-data-disk-to-a-vm-532f)
 <!-- BLOG-POST-LIST:END -->
 
