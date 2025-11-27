@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
-- [🧪 HexSpeak — The Language That Turns Hex Into readable “Magic Words”](https://dev.to/viz-x/hexspeak-the-language-that-turns-hex-into-readable-magic-words-32m4)
-- [Why a 4-Day Workweek Just Makes Sense](https://dev.to/bibimbop123/why-a-4-day-workweek-just-makes-sense-3bel)
-- [🐔 Chicken — The Language Where Every Keyword Is “chicken&quot;](https://dev.to/viz-x/chicken-the-language-where-every-keyword-is-chicken-2jno)
+- [**Riesgos de lavado de dinero en México:**](https://dev.to/drcarlosruizviquez/riesgos-de-lavado-de-dinero-en-mexico-12o2)
+- [I Built a Real-Time HackerNews Search Engine with 50 Lines of Python &lpar;No Airflow, No Kafka&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-search-engine-with-50-lines-of-python-no-airflow-no-kafka-b9)
+- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
+- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
 <!-- BLOG-POST-LIST:END -->
 
