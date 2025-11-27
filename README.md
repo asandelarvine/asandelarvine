@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TWD 1.2.x release - Component mocking, test and ci improvements](https://dev.to/kevinccbsg/twd-12x-release-component-mocking-test-and-ci-improvements-1lc3)
-- [TRAE Global Best Practice Challenge - L](https://dev.to/vamp_e889546e10e432ca4c4d/trae-global-best-practice-challenge-l-4o36)
-- [Google&#39;s December 2025 Core Update Hit E-commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-e-commerce-hard-heres-what-actually-changed-3k46)
-- [Day 1275 : Thanksgiving](https://dev.to/dwane/day-1275-thanksgiving-30j7)
+- [AI-Generated Code: Is It Good or Bad?](https://dev.to/andersoncontreira/ai-generated-code-is-it-good-or-bad-2p70)
+- [He Stood Between Me and the Stones: A Deep Walk Through John 8](https://dev.to/douglasvandergraph/he-stood-between-me-and-the-stones-a-deep-walk-through-john-8-4ej1)
+- [API Request Limiter Challenge](https://dev.to/fosres/api-request-limiter-challenge-5dc1)
+- [Conquer Any Screen: Responsive Design Best Practices for a Seamless User Experience](https://dev.to/muhammad_fayzliaqat_cc8b/conquer-any-screen-responsive-design-best-practices-for-a-seamless-user-experience-4082)
 <!-- BLOG-POST-LIST:END -->
 
