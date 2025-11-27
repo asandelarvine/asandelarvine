@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How have I managed Date types in my asyncio python web scraper using PostgreSQL?](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272)
-- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://dev.to/max_alyokhin/drone-ambient-noise-synthesizer-in-javascript-when-instability-is-a-feature-not-a-bug-34i8)
-- [Хурдтай вебийн 3 шинж](https://dev.to/bizocci/khurdtai-viebiin-3-shinzh-4ofk)
-- [MySQL SELECT … FOR UPDATE is causing a table lock during high traffic while generating sequential transaction IDs](https://dev.to/developer_account_19c62ad/mysql-select-for-update-is-causing-a-table-lock-during-high-traffic-while-generating-sequential-4ola)
+- [Cloudflare&#39;s November 18 Outage – A Continuous Delivery Perspective](https://dev.to/markoa/cloudflares-november-18-outage-a-continuous-delivery-perspective-4e69)
+- [🚜 Farmore — Mirror Every GitHub Repo You Own in One Command](https://dev.to/miztizm/farmore-mirror-every-github-repo-you-own-in-one-command-16oc)
+- [Prototipagem rápida com Figma](https://dev.to/lucaspereiradesouzat/prototipagem-rapida-com-figma-346p)
+- [Integrating Real-Time Alerts for AI Agent Performance Monitoring](https://dev.to/kamya_shah_e69d5dd78f831c/integrating-real-time-alerts-for-ai-agent-performance-monitoring-3354)
 <!-- BLOG-POST-LIST:END -->
 
