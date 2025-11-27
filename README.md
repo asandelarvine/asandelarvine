@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
-- [Why was Kubernetes created?](https://dev.to/itsmecharan7/why-was-kubernetes-created-2lmm)
-- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
-- [How to Add a Data Disk to a VM](https://dev.to/ojosamuel129/how-to-add-a-data-disk-to-a-vm-532f)
+- [Making A Peer Review System for My Blogs Using Google-ADK &amp; Mem0](https://dev.to/piyush_choudhari_a5b29f7f/making-a-peer-review-system-for-my-blogs-using-google-adk-mem0-3ejg)
+- [6 Essential Tools to Supercharge Your Workflow &amp; Creativity](https://dev.to/platypus98/6-essential-tools-to-supercharge-your-workflow-creativity-gkh)
+- [Micro Frontend: Common Misconceptions with Case Studies](https://dev.to/juun_roh/micro-frontend-common-misconceptions-with-case-studies-4fan)
+- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
 <!-- BLOG-POST-LIST:END -->
 
