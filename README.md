@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From AWS Kinesis to Apache Kafka: Building a Real-Time Streaming Bridge](https://dev.to/abdelrahman_ahmed/from-aws-kinesis-to-apache-kafka-building-a-real-time-streaming-bridge-96b)
-- [Amazon Bedrock Data Automation](https://dev.to/elianalamhost/amazon-bedrock-data-automation-5165)
-- [Multi-Agent on AgentCore](https://dev.to/elianalamhost/multi-agent-on-agentcore-2gno)
-- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
+- [🧱 Lesson 9A - Login and Authentication &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lesson-9a-login-and-authentication-angular-549m)
+- [Building an Air-gapped Hardened Kubernetes Cluster with Kubespray](https://dev.to/alisoltani255/building-an-air-gapped-hardened-kubernetes-cluster-with-kubespray-4405)
+- [MaterialM Free VueJS Vuetify Admin Dashboard Template - by WrapPixel](https://dev.to/vaibhavg/materialm-free-vuejs-vuetify-admin-dashboard-template-by-wrappixel-37n4)
+- [Programming languages are like girl , they are very difficult to understand.](https://dev.to/sudit_patel_89b4731b2259a/programming-languages-are-like-girl-they-are-very-difficult-to-understand-3a90)
 <!-- BLOG-POST-LIST:END -->
 
