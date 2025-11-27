@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimal Linux x86_64 Syscall Samples &lpar;pure assembly, no libc&rpar;](https://dev.to/nguyn_nhtmlp11a13/minimal-linux-x8664-syscall-samples-pure-assembly-no-libc-1clg)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
-- [[Boost]](https://dev.to/anthonymax/-ep4)
+- [Designing High-Performance Fintech SaaS with Redis and CDNs](https://dev.to/ertnbrk/designing-high-performance-fintech-saas-with-redis-and-cdns-120g)
+- [GA4 Custom Segments That Actually Matter: 7 Configurations Most Marketers Overlook](https://dev.to/synergistdigitalmedia/ga4-custom-segments-that-actually-matter-7-configurations-most-marketers-overlook-184j)
+- [Moving from Process to Subprocess](https://dev.to/trozware/moving-from-process-to-subprocess-4408)
+- [How Grok Works Under the Hood: Inside xAI’s Infrastructure and Training Logic](https://dev.to/davidevans/how-grok-works-under-the-hood-inside-xais-infrastructure-and-training-logic-45ag)
 <!-- BLOG-POST-LIST:END -->
 
