@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting](https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o)
-- [4. PYTHON ESSENTIALS FOR AI/ML &lpar;Advanced OOP&rpar;](https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1)
-- [5. PYTHON ESSENTIALS FOR AI/ML &lpar;List &amp; Dictionary Comprehensions&rpar;](https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5)
-- [Ethereum&#39;s Interop Layer &lpar;EIL&rpar;, Sequence&#39;s Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration](https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k)
+- [I Put an LLM in My Browser and Now It Writes My Commit Messages. The Results Were… Unexpected😭✨](https://dev.to/sylwia-lask/i-put-an-llm-in-my-browser-and-now-it-writes-my-commit-messages-the-results-were-unexpected-43je)
+- [New in Vue - November 2025](https://dev.to/aloisseckar/new-in-vue-november-2025-1l1b)
+- [5 Técnicas Para Melhorar a Performance no seu App Angular](https://dev.to/dev-araujo/5-tecnicas-para-melhorar-a-performance-no-seu-app-angular-g0e)
+- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
 <!-- BLOG-POST-LIST:END -->
 
