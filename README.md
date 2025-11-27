@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Lesson 9A - Login and Authentication &lpar;Angular&rpar;](https://dev.to/farrukh_rehman/lesson-9a-login-and-authentication-angular-549m)
-- [Building an Air-gapped Hardened Kubernetes Cluster with Kubespray](https://dev.to/alisoltani255/building-an-air-gapped-hardened-kubernetes-cluster-with-kubespray-4405)
-- [MaterialM Free VueJS Vuetify Admin Dashboard Template - by WrapPixel](https://dev.to/vaibhavg/materialm-free-vuejs-vuetify-admin-dashboard-template-by-wrappixel-37n4)
-- [Programming languages are like girl , they are very difficult to understand.](https://dev.to/sudit_patel_89b4731b2259a/programming-languages-are-like-girl-they-are-very-difficult-to-understand-3a90)
+- [CKS Notes - Image Security](https://dev.to/cheedge_lee/cks-notes-image-security-29k6)
+- [The Future of Private Networking: Top Self-Hosted VPN Tools in 2025](https://dev.to/lightningdev123/the-future-of-private-networking-top-self-hosted-vpn-tools-in-2025-10bm)
+- [✅ Task #1 — Introduction to ArgoCD + Installation on GKE Cluster](https://dev.to/latchudevops/task-1-introduction-to-argocd-installation-on-gke-cluster-445m)
+- [How to connect PostgreSQL to Power BI using local PostgreSQL and Aiven.](https://dev.to/aishuuuuuuuuuu/how-to-connect-postgresql-to-power-bi-using-local-postgresql-and-aiven-3n13)
 <!-- BLOG-POST-LIST:END -->
 
