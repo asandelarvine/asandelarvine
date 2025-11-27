@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From ESLint/StyleLint and Prettier to Biome: simplifying our front-end linting](https://dev.to/yoriiis/from-eslintstylelint-and-prettier-to-biome-simplifying-our-front-end-linting-3nmj)
-- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
-- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
-- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
+- [Minimal Linux x86_64 Syscall Samples &lpar;pure assembly, no libc&rpar;](https://dev.to/nguyn_nhtmlp11a13/minimal-linux-x8664-syscall-samples-pure-assembly-no-libc-1clg)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
+- [[Boost]](https://dev.to/anthonymax/-ep4)
 <!-- BLOG-POST-LIST:END -->
 
