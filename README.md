@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How can you find experts to build a new financial technology product?](https://dev.to/it-influencer/how-can-you-find-experts-to-build-a-new-financial-technology-product-4ded)
-- [MongoDB Index Intersection &lpar;and PostgreSQL Bitmap And&rpar;](https://dev.to/franckpachot/mongodb-index-intersection-and-postgresql-bitmap-scan-40a6)
-- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
-- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
+- [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
+- [🧪 HexSpeak — The Language That Turns Hex Into readable “Magic Words”](https://dev.to/viz-x/hexspeak-the-language-that-turns-hex-into-readable-magic-words-32m4)
+- [Why a 4-Day Workweek Just Makes Sense](https://dev.to/bibimbop123/why-a-4-day-workweek-just-makes-sense-3bel)
+- [🐔 Chicken — The Language Where Every Keyword Is “chicken&quot;](https://dev.to/viz-x/chicken-the-language-where-every-keyword-is-chicken-2jno)
 <!-- BLOG-POST-LIST:END -->
 
