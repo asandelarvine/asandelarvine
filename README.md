@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Attach A Data Disk To A Virtual Machine And How To Initialize It](https://dev.to/akintoye_gbenga/how-to-attach-a-data-disk-to-a-virtual-machine-and-how-to-initialize-it-1p0c)
-- [Multicloud: Freedom or a Fancy Form of Chaos?](https://dev.to/dev_tips/multicloud-freedom-or-a-fancy-form-of-chaos-27k3)
-- [Day 2 : The Knowledge of Terraform Providers](https://dev.to/alafiz/day-2-the-knowledge-of-terraform-providers-49a1)
-- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
+- [How have I managed Date types in my asyncio python web scraper using PostgreSQL?](https://dev.to/brainstorm86/how-have-i-managed-date-types-in-my-asyncio-python-web-scraper-using-postgresql-2272)
+- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://dev.to/max_alyokhin/drone-ambient-noise-synthesizer-in-javascript-when-instability-is-a-feature-not-a-bug-34i8)
+- [Хурдтай вебийн 3 шинж](https://dev.to/bizocci/khurdtai-viebiin-3-shinzh-4ofk)
+- [MySQL SELECT … FOR UPDATE is causing a table lock during high traffic while generating sequential transaction IDs](https://dev.to/developer_account_19c62ad/mysql-select-for-update-is-causing-a-table-lock-during-high-traffic-while-generating-sequential-4ola)
 <!-- BLOG-POST-LIST:END -->
 
