@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CKS Notes - Image Security](https://dev.to/cheedge_lee/cks-notes-image-security-29k6)
-- [The Future of Private Networking: Top Self-Hosted VPN Tools in 2025](https://dev.to/lightningdev123/the-future-of-private-networking-top-self-hosted-vpn-tools-in-2025-10bm)
-- [✅ Task #1 — Introduction to ArgoCD + Installation on GKE Cluster](https://dev.to/latchudevops/task-1-introduction-to-argocd-installation-on-gke-cluster-445m)
-- [How to connect PostgreSQL to Power BI using local PostgreSQL and Aiven.](https://dev.to/aishuuuuuuuuuu/how-to-connect-postgresql-to-power-bi-using-local-postgresql-and-aiven-3n13)
+- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
+- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
+- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-1449)
+- [The Architecture of Sound: Workflow Analysis of Generative Audio Tools](https://dev.to/van_huypham_f0eabcc5d4b2/the-architecture-of-sound-workflow-analysis-of-generative-audio-tools-1mo9)
 <!-- BLOG-POST-LIST:END -->
 
