@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
-- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
-- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-1449)
-- [The Architecture of Sound: Workflow Analysis of Generative Audio Tools](https://dev.to/van_huypham_f0eabcc5d4b2/the-architecture-of-sound-workflow-analysis-of-generative-audio-tools-1mo9)
+- [Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting](https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o)
+- [4. PYTHON ESSENTIALS FOR AI/ML &lpar;Advanced OOP&rpar;](https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1)
+- [5. PYTHON ESSENTIALS FOR AI/ML &lpar;List &amp; Dictionary Comprehensions&rpar;](https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5)
+- [Ethereum&#39;s Interop Layer &lpar;EIL&rpar;, Sequence&#39;s Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration](https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k)
 <!-- BLOG-POST-LIST:END -->
 
