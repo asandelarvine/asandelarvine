@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare&#39;s November 18 Outage – A Continuous Delivery Perspective](https://dev.to/markoa/cloudflares-november-18-outage-a-continuous-delivery-perspective-4e69)
-- [🚜 Farmore — Mirror Every GitHub Repo You Own in One Command](https://dev.to/miztizm/farmore-mirror-every-github-repo-you-own-in-one-command-16oc)
-- [Prototipagem rápida com Figma](https://dev.to/lucaspereiradesouzat/prototipagem-rapida-com-figma-346p)
-- [Integrating Real-Time Alerts for AI Agent Performance Monitoring](https://dev.to/kamya_shah_e69d5dd78f831c/integrating-real-time-alerts-for-ai-agent-performance-monitoring-3354)
+- [🚀My First Portfolio Deployment with Nginx on Killercoda: A Step-by-Step DevOps Walkthrough](https://dev.to/alphajosh/my-first-portfolio-deployment-with-nginx-on-killercoda-a-step-by-step-devops-walkthrough-2p0l)
+- [ActiveFields: Search](https://dev.to/exterminate/activefields-search-35ad)
+- [30 days without AI: what I learned when I finally used my brain again](https://dev.to/dev_tips/30-days-without-ai-what-i-learned-when-i-finally-used-my-brain-again-198m)
+- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
 <!-- BLOG-POST-LIST:END -->
 
