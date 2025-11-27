@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Riesgos de lavado de dinero en México:**](https://dev.to/drcarlosruizviquez/riesgos-de-lavado-de-dinero-en-mexico-12o2)
-- [I Built a Real-Time HackerNews Search Engine with 50 Lines of Python &lpar;No Airflow, No Kafka&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-search-engine-with-50-lines-of-python-no-airflow-no-kafka-b9)
-- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
-- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
+- [From ESLint/StyleLint and Prettier to Biome: simplifying our front-end linting](https://dev.to/yoriiis/from-eslintstylelint-and-prettier-to-biome-simplifying-our-front-end-linting-3nmj)
+- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
+- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
+- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
 <!-- BLOG-POST-LIST:END -->
 
