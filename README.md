@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀My First Portfolio Deployment with Nginx on Killercoda: A Step-by-Step DevOps Walkthrough](https://dev.to/alphajosh/my-first-portfolio-deployment-with-nginx-on-killercoda-a-step-by-step-devops-walkthrough-2p0l)
-- [ActiveFields: Search](https://dev.to/exterminate/activefields-search-35ad)
-- [30 days without AI: what I learned when I finally used my brain again](https://dev.to/dev_tips/30-days-without-ai-what-i-learned-when-i-finally-used-my-brain-again-198m)
-- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
+- [How can you find experts to build a new financial technology product?](https://dev.to/it-influencer/how-can-you-find-experts-to-build-a-new-financial-technology-product-4ded)
+- [MongoDB Index Intersection &lpar;and PostgreSQL Bitmap And&rpar;](https://dev.to/franckpachot/mongodb-index-intersection-and-postgresql-bitmap-scan-40a6)
+- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
+- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
 <!-- BLOG-POST-LIST:END -->
 
