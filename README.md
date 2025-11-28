@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond 5G: How 6G Will Transform Intelligent Connectivity and Real-Time Computing](https://dev.to/williamparker/beyond-5g-how-6g-will-transform-intelligent-connectivity-and-real-time-computing-3ihd)
-- [Scaling to 100K Users: Architecture Lessons from Building Nigeria&#39;s Social Commerce Platform](https://dev.to/onoja5/scaling-to-100k-users-architecture-lessons-from-building-nigerias-social-commerce-platform-e1l)
-- [From Just a Scanner to a Smart Agent: How I Improved my SEO Prospecting Tool 🐍](https://dev.to/rafajrg21/from-just-a-scanner-to-a-smart-agent-how-i-improved-my-seo-prospecting-tool-3eb3)
-- [Trust the Server, Not the LLM: A Deterministic Approach to LLM Accuracy](https://dev.to/nodefiend/trust-the-server-not-the-llm-a-deterministic-approach-to-llm-accuracy-20ag)
+- [Now live: U.S. Network APIs + Video API updates](https://dev.to/vonagedev/now-live-us-network-apis-video-api-updates-4fk0)
+- [[Book Review]AI Engineering by Chip Huyen](https://dev.to/uponthesky/book-reviewai-engineering-by-chip-huyen-4e26)
+- [When it comes to refactoring code should we Tidy First?](https://dev.to/menilek/when-it-comes-to-refactoring-code-should-we-tidy-first-5df8)
+- [Managing the Quality of AI-Generated Python Code](https://dev.to/daisukeyoda/managing-the-quality-of-ai-generated-python-code-48pe)
 <!-- BLOG-POST-LIST:END -->
 
