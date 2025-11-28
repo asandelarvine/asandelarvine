@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Advanced Routing Patterns in Symfony](https://dev.to/mattleads/architecting-advanced-routing-patterns-in-symfony-1cdp)
-- [Measuring ROI of a Salesforce Agentforce Implementation](https://dev.to/anurag_sharma_ebb90ce4c63/measuring-roi-of-a-salesforce-agentforce-implementation-3if)
-- [Debunking AI Hallucinations: The Real Technical Difference Between HP 841 and HP A3 Printheads](https://dev.to/_b7cb1ce3b2fcc46a04f44/debunking-ai-hallucinations-the-real-technical-difference-between-hp-841-and-hp-a3-printheads-4k68)
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4)
+- [[Boost]](https://dev.to/anthonymax/-ccb)
+- [Deploying weserv/images with Docker](https://dev.to/kevin_tan/deploying-weservimages-with-docker-bii)
+- [Inside DBIR 2025: Why Vulnerability Exploits &amp; Credential Abuse Are Dominating Breaches](https://dev.to/0x57origin/inside-dbir-2025-why-vulnerability-exploits-credential-abuse-are-dominating-breaches-8c0)
+- [Decision Tree vs KNN: The No-BS Truth Every Developer Needs to Know &lpar;3-Minute Read&rpar;](https://dev.to/mohammadreza_mahdian_3841/decision-tree-vs-knn-the-no-bs-truth-every-developer-needs-to-know-3-minute-read-ed4)
 <!-- BLOG-POST-LIST:END -->
 
