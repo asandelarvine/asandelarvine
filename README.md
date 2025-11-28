@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-ccb)
-- [Deploying weserv/images with Docker](https://dev.to/kevin_tan/deploying-weservimages-with-docker-bii)
-- [Inside DBIR 2025: Why Vulnerability Exploits &amp; Credential Abuse Are Dominating Breaches](https://dev.to/0x57origin/inside-dbir-2025-why-vulnerability-exploits-credential-abuse-are-dominating-breaches-8c0)
-- [Decision Tree vs KNN: The No-BS Truth Every Developer Needs to Know &lpar;3-Minute Read&rpar;](https://dev.to/mohammadreza_mahdian_3841/decision-tree-vs-knn-the-no-bs-truth-every-developer-needs-to-know-3-minute-read-ed4)
+- [4 Practical Tips That 10x’ed My Productivity with Cursor &lpar;and Helped Me Build NiceVoice&rpar;](https://dev.to/nicevoice/4-practical-tips-that-10xed-my-productivity-with-cursor-and-helped-me-build-nicevoice-25em)
+- [7 AI Tools Developers Are Using to Compress Years of Skill Growth](https://dev.to/jamespatterson25/7-ai-tools-developers-are-using-to-compress-years-of-skill-growth-4mm5)
+- [CSS Concepts That Will Actually Make Your Life as a Front-End Developer Easier](https://dev.to/web_dev-usman/css-concepts-that-will-actually-make-your-life-as-a-front-end-developer-easier-4mfj)
+- [Telegraphic Semantic Compression &lpar;TSC&rpar; - A Semantic Compression Method for LLM Contexts](https://dev.to/devasservice/telegraphic-semantic-compression-tsc-a-semantic-compression-method-for-llm-contexts-1akl)
 <!-- BLOG-POST-LIST:END -->
 
