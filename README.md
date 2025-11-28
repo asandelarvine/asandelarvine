@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Need for Services in Kubernetes.](https://dev.to/itsmecharan7/need-for-services-in-kubernetes-5acl)
-- [A beginner&#39;s guide to the Gpt-4o-Mini model by Openai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-4o-mini-model-by-openai-on-replicate-4jln)
-- [Uncovering Global Content Trends on Netflix: A Full Tableau Analytics Breakdown](https://dev.to/augo_amos/uncovering-global-content-trends-on-netflix-a-full-tableau-analytics-breakdown-23c9)
-- [When we can use ARIA](https://dev.to/jeganmurugan_0101/when-we-can-use-aria-42h6)
+- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
+- [You Don&#39;t Know the True Meaning of Retreat Yet](https://dev.to/stakiran/you-dont-know-the-true-meaning-of-retreat-yet-3kh7)
+- [FounderForge AI workspace](https://dev.to/eseosarumen_efesomwan_67/founderforge-ai-workspace-3opo)
+- [look at this problem once Can we discuss dsa problem here!](https://dev.to/shubhanjali_c5ab3ee45ab00/look-at-this-problem-once-can-we-discuss-dsa-problem-here-io6)
 <!-- BLOG-POST-LIST:END -->
 
