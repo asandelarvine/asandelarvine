@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2)
-- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-20eb)
-- [What is a NullPointerException, and How Do I Fix It?](https://dev.to/sharmaprash/what-is-a-nullpointerexception-and-how-do-i-fix-it-7bc)
-- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
+- [Supercomputer Coatlicue: Scientific ambition or political spectacle?](https://dev.to/vicodev/supercomputer-coatlicue-scientific-ambition-or-political-spectacle-4dif)
+- [API Security with encrypted value in endpoints](https://dev.to/terngr/api-security-with-encrypted-value-in-endpoints-186j)
+- [Cómo usar el Profiler de React para medir renders de verdad &lpar;y dejar de adivinar&rpar;](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
+- [Supercomputadora Coatlicue: ¿ambición científica o espectáculo político?](https://dev.to/vicodev/coatlicue-y-si-la-supercomputadora-mexicana-realmente-existiera-2bl7)
 <!-- BLOG-POST-LIST:END -->
 
