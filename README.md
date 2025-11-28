@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercomputer Coatlicue: Scientific ambition or political spectacle?](https://dev.to/vicodev/supercomputer-coatlicue-scientific-ambition-or-political-spectacle-4dif)
-- [API Security with encrypted value in endpoints](https://dev.to/terngr/api-security-with-encrypted-value-in-endpoints-186j)
-- [Cómo usar el Profiler de React para medir renders de verdad &lpar;y dejar de adivinar&rpar;](https://dev.to/hileodev/como-usar-el-profiler-de-react-para-medir-renders-de-verdad-y-dejar-de-adivinar-2o1k)
-- [Supercomputadora Coatlicue: ¿ambición científica o espectáculo político?](https://dev.to/vicodev/coatlicue-y-si-la-supercomputadora-mexicana-realmente-existiera-2bl7)
+- [The 48-Hour Button: Fighting Supabase, Google Auth, and &quot;Scope Creep&quot;](https://dev.to/not_varunkv/the-48-hour-button-fighting-supabase-google-auth-and-scope-creep-1e7n)
+- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
+- [Stop Installing 42 Plugins: How I Build Lean, Fast WordPress Sites Without the Bloat](https://dev.to/paullyd_ca/stop-installing-42-plugins-how-i-build-lean-fast-wordpress-sites-without-the-bloat-2g92)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
 <!-- BLOG-POST-LIST:END -->
 
