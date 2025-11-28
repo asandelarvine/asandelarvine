@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Heaven Leaned In to Listen: A Deep Journey Through John 17](https://dev.to/douglasvandergraph/when-heaven-leaned-in-to-listen-a-deep-journey-through-john-17-4h37)
-- [Security news weekly round-up - 28th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-november-2025-50l8)
-- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
-- [Unmasking Bias: How Vocal Cues Skew Speech Translation](https://dev.to/arvind_sundararajan/unmasking-bias-how-vocal-cues-skew-speech-translation-2ba4)
+- [SQL: CsvPath vis-a-vis SodaCL](https://dev.to/david_kershaw_b6916404da6/comparison-csvpath-vis-a-vis-sodacl-2669)
+- [Stepping Out of the Comfort Zone - Plan for the Final Stretch](https://dev.to/jongwan93/stepping-out-of-the-comfort-zone-plan-for-the-final-stretch-3h18)
+- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
+- [ASP.NET Core Route Names &amp; API Versioning — From “Duplicate Name” Crash to Intentional Routing](https://dev.to/cristiansifuentes/aspnet-core-route-names-api-versioning-from-duplicate-name-crash-to-intentional-routing-3fmm)
 <!-- BLOG-POST-LIST:END -->
 
