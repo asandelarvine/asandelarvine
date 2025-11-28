@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 48-Hour Button: Fighting Supabase, Google Auth, and &quot;Scope Creep&quot;](https://dev.to/not_varunkv/the-48-hour-button-fighting-supabase-google-auth-and-scope-creep-1e7n)
-- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
-- [Stop Installing 42 Plugins: How I Build Lean, Fast WordPress Sites Without the Bloat](https://dev.to/paullyd_ca/stop-installing-42-plugins-how-i-build-lean-fast-wordpress-sites-without-the-bloat-2g92)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
+- [When Heaven Leaned In to Listen: A Deep Journey Through John 17](https://dev.to/douglasvandergraph/when-heaven-leaned-in-to-listen-a-deep-journey-through-john-17-4h37)
+- [Security news weekly round-up - 28th November 2025](https://dev.to/ziizium/security-news-weekly-round-up-28th-november-2025-50l8)
+- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
+- [Unmasking Bias: How Vocal Cues Skew Speech Translation](https://dev.to/arvind_sundararajan/unmasking-bias-how-vocal-cues-skew-speech-translation-2ba4)
 <!-- BLOG-POST-LIST:END -->
 
