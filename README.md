@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If You’re Learning AI, These 5 Books Are All You Need](https://dev.to/somadevtoo/if-youre-learning-ai-these-5-books-are-all-you-need-58bb)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
+- [Prose Linting for Technical Teams: What Grammarly Can’t Do](https://dev.to/blessing_olaoye_b20eaba78/prose-linting-for-technical-teams-what-grammarly-cant-do-3dc9)
+- [Zero-Click SEO in 2026: Winning When Nobody Clicks Your Links](https://dev.to/synergistdigitalmedia/zero-click-seo-in-2026-winning-when-nobody-clicks-your-links-5dal)
+- [The Role of a Brand Marketing Agency in Building Customer Trust](https://dev.to/firstclickmediagroup/the-role-of-a-brand-marketing-agency-in-building-customer-trust-ne4)
+- [Unlocking AI&#39;s Inner Geometry: Scale-Agnostic Structures in Neural Networks](https://dev.to/arvind_sundararajan/unlocking-ais-inner-geometry-scale-agnostic-structures-in-neural-networks-44d0)
 <!-- BLOG-POST-LIST:END -->
 
