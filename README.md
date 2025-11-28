@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Practical Tips That 10x’ed My Productivity with Cursor &lpar;and Helped Me Build NiceVoice&rpar;](https://dev.to/nicevoice/4-practical-tips-that-10xed-my-productivity-with-cursor-and-helped-me-build-nicevoice-25em)
-- [7 AI Tools Developers Are Using to Compress Years of Skill Growth](https://dev.to/jamespatterson25/7-ai-tools-developers-are-using-to-compress-years-of-skill-growth-4mm5)
-- [CSS Concepts That Will Actually Make Your Life as a Front-End Developer Easier](https://dev.to/web_dev-usman/css-concepts-that-will-actually-make-your-life-as-a-front-end-developer-easier-4mfj)
-- [Telegraphic Semantic Compression &lpar;TSC&rpar; - A Semantic Compression Method for LLM Contexts](https://dev.to/devasservice/telegraphic-semantic-compression-tsc-a-semantic-compression-method-for-llm-contexts-1akl)
+- [Boost Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-48)
+- [Beyond the C-Wire: Powering the Next Generation of Smart Thermostats](https://dev.to/iotpulsereview/beyond-the-c-wire-powering-the-next-generation-of-smart-thermostats-1fen)
+- [5 Coding Concepts That Become Easier the Moment You Use AI to Visualize Them](https://dev.to/luketaylor25/5-coding-concepts-that-become-easier-the-moment-you-use-ai-to-visualize-them-3mpg)
+- [How to Design a Multi-Agent Workflow for Personal Learning Projects](https://dev.to/luketaylor25/how-to-design-a-multi-agent-workflow-for-personal-learning-projects-ik8)
 <!-- BLOG-POST-LIST:END -->
 
