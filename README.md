@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java copySign&lpar;&rpar; Method: Your Guide to Sign Manipulation](https://dev.to/satyam_gupta_0d1ff2152dcc/java-copysign-method-your-guide-to-sign-manipulation-1k2i)
-- [How Vibe Coding Changed my Development Workflow](https://dev.to/davidmorais/how-vibe-coding-changed-my-development-workflow-38gb)
-- [Java String Ceiling: What It Is &amp; How to Implement It | CoderCrafter](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-ceiling-what-it-is-how-to-implement-it-codercrafter-3iik)
-- [Amazon Quick Suite : Quick Flow and Quick Research](https://dev.to/budionosan/amazon-quick-suite-quick-flow-and-quick-research-15li)
+- [I Built a No-Backend Form Tool That Sends Submissions to WhatsApp — Here’s Why](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-a-no-backend-form-tool-that-sends-submissions-to-whatsapp-heres-why-5b34)
+- [How to Install &amp; Deploy Spike Vue Template](https://dev.to/wrap-pixel/how-to-install-deploy-spike-vue-template-1kce)
+- [Weekly Market Summary: Indices Hover Near Record Highs Amid Global Stability](https://dev.to/aisha_mehra_d0f134c62a79b/weekly-market-summary-indices-hover-near-record-highs-amid-global-stability-3p04)
+- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
 <!-- BLOG-POST-LIST:END -->
 
