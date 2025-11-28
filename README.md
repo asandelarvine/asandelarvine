@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Catalyst::Request body issues with the file position pointer](https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l)
-- [Why CutMix Works &lpar;Even When It Breaks the Image Apart&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutmix-works-even-when-it-breaks-the-image-apart-1aek)
-- [Figma to React: How Kombai Finally Solved My Frontend Workflow](https://dev.to/daveyhert/figma-to-react-how-kombai-finally-solved-my-frontend-workflow-9ol)
-- [Laravel 12 + shadcn/ui: Build Modern UIs with Ease in 2025](https://dev.to/haridas4274/laravel-12-shadcnui-build-modern-uis-with-ease-in-2025-3koo)
+- [Beyond 5G: How 6G Will Transform Intelligent Connectivity and Real-Time Computing](https://dev.to/williamparker/beyond-5g-how-6g-will-transform-intelligent-connectivity-and-real-time-computing-3ihd)
+- [Scaling to 100K Users: Architecture Lessons from Building Nigeria&#39;s Social Commerce Platform](https://dev.to/onoja5/scaling-to-100k-users-architecture-lessons-from-building-nigerias-social-commerce-platform-e1l)
+- [From Just a Scanner to a Smart Agent: How I Improved my SEO Prospecting Tool 🐍](https://dev.to/rafajrg21/from-just-a-scanner-to-a-smart-agent-how-i-improved-my-seo-prospecting-tool-3eb3)
+- [Trust the Server, Not the LLM: A Deterministic Approach to LLM Accuracy](https://dev.to/nodefiend/trust-the-server-not-the-llm-a-deterministic-approach-to-llm-accuracy-20ag)
 <!-- BLOG-POST-LIST:END -->
 
