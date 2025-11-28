@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prose Linting for Technical Teams: What Grammarly Can’t Do](https://dev.to/blessing_olaoye_b20eaba78/prose-linting-for-technical-teams-what-grammarly-cant-do-3dc9)
-- [Zero-Click SEO in 2026: Winning When Nobody Clicks Your Links](https://dev.to/synergistdigitalmedia/zero-click-seo-in-2026-winning-when-nobody-clicks-your-links-5dal)
-- [The Role of a Brand Marketing Agency in Building Customer Trust](https://dev.to/firstclickmediagroup/the-role-of-a-brand-marketing-agency-in-building-customer-trust-ne4)
-- [Unlocking AI&#39;s Inner Geometry: Scale-Agnostic Structures in Neural Networks](https://dev.to/arvind_sundararajan/unlocking-ais-inner-geometry-scale-agnostic-structures-in-neural-networks-44d0)
+- [Java copySign&lpar;&rpar; Method: Your Guide to Sign Manipulation](https://dev.to/satyam_gupta_0d1ff2152dcc/java-copysign-method-your-guide-to-sign-manipulation-1k2i)
+- [How Vibe Coding Changed my Development Workflow](https://dev.to/davidmorais/how-vibe-coding-changed-my-development-workflow-38gb)
+- [Java String Ceiling: What It Is &amp; How to Implement It | CoderCrafter](https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-ceiling-what-it-is-how-to-implement-it-codercrafter-3iik)
+- [Amazon Quick Suite : Quick Flow and Quick Research](https://dev.to/budionosan/amazon-quick-suite-quick-flow-and-quick-research-15li)
 <!-- BLOG-POST-LIST:END -->
 
