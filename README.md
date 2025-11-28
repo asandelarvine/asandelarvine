@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Common .NET Logging Mistakes and How to Avoid Them for Maintainable Apps](https://dev.to/mashrulhaque/10-common-net-logging-mistakes-and-how-to-avoid-them-for-maintainable-apps-33i9)
-- [Agentic AI: The Shift Developers Didn’t Realise They Needed](https://dev.to/nikhilsoni12/agentic-ai-the-shift-developers-didnt-realise-they-needed-85b)
-- [Bueno he estado creando un lenguaje de programación desde hace ciertos tiempo quien quiera verlo métase aquí](https://dev.to/samuel_leonardo_37aff38b4/bueno-he-estado-creando-un-lenguaje-de-programacion-desde-hace-ciertos-tiempo-quien-quiera-verlo-14ba)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
+- [Catalyst::Request body issues with the file position pointer](https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l)
+- [Why CutMix Works &lpar;Even When It Breaks the Image Apart&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutmix-works-even-when-it-breaks-the-image-apart-1aek)
+- [Figma to React: How Kombai Finally Solved My Frontend Workflow](https://dev.to/daveyhert/figma-to-react-how-kombai-finally-solved-my-frontend-workflow-9ol)
+- [Laravel 12 + shadcn/ui: Build Modern UIs with Ease in 2025](https://dev.to/haridas4274/laravel-12-shadcnui-build-modern-uis-with-ease-in-2025-3koo)
 <!-- BLOG-POST-LIST:END -->
 
