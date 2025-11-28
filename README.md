@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-48)
-- [Beyond the C-Wire: Powering the Next Generation of Smart Thermostats](https://dev.to/iotpulsereview/beyond-the-c-wire-powering-the-next-generation-of-smart-thermostats-1fen)
-- [5 Coding Concepts That Become Easier the Moment You Use AI to Visualize Them](https://dev.to/luketaylor25/5-coding-concepts-that-become-easier-the-moment-you-use-ai-to-visualize-them-3mpg)
-- [How to Design a Multi-Agent Workflow for Personal Learning Projects](https://dev.to/luketaylor25/how-to-design-a-multi-agent-workflow-for-personal-learning-projects-ik8)
+- [If You’re Learning AI, These 5 Books Are All You Need](https://dev.to/somadevtoo/if-youre-learning-ai-these-5-books-are-all-you-need-58bb)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
 <!-- BLOG-POST-LIST:END -->
 
