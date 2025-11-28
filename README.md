@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Now live: U.S. Network APIs + Video API updates](https://dev.to/vonagedev/now-live-us-network-apis-video-api-updates-4fk0)
-- [[Book Review]AI Engineering by Chip Huyen](https://dev.to/uponthesky/book-reviewai-engineering-by-chip-huyen-4e26)
-- [When it comes to refactoring code should we Tidy First?](https://dev.to/menilek/when-it-comes-to-refactoring-code-should-we-tidy-first-5df8)
-- [Managing the Quality of AI-Generated Python Code](https://dev.to/daisukeyoda/managing-the-quality-of-ai-generated-python-code-48pe)
+- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2)
+- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-20eb)
+- [What is a NullPointerException, and How Do I Fix It?](https://dev.to/sharmaprash/what-is-a-nullpointerexception-and-how-do-i-fix-it-7bc)
+- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
 <!-- BLOG-POST-LIST:END -->
 
