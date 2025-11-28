@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: CsvPath vis-a-vis SodaCL](https://dev.to/david_kershaw_b6916404da6/comparison-csvpath-vis-a-vis-sodacl-2669)
-- [Stepping Out of the Comfort Zone - Plan for the Final Stretch](https://dev.to/jongwan93/stepping-out-of-the-comfort-zone-plan-for-the-final-stretch-3h18)
-- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
-- [ASP.NET Core Route Names &amp; API Versioning — From “Duplicate Name” Crash to Intentional Routing](https://dev.to/cristiansifuentes/aspnet-core-route-names-api-versioning-from-duplicate-name-crash-to-intentional-routing-3fmm)
+- [Your Company Page Is Getting Ignored: LinkedIn&#39;s Quiet Algorithm Revolution](https://dev.to/synergistdigitalmedia/your-company-page-is-getting-ignored-linkedins-quiet-algorithm-revolution-4j5f)
+- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
+- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
+- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
 <!-- BLOG-POST-LIST:END -->
 
