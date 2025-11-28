@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Advantage+ Shopping: When the Algorithm Actually Knows Better Than You &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/synergistdigitalmedia/meta-advantage-shopping-when-the-algorithm-actually-knows-better-than-you-and-when-it-doesnt-3i6n)
-- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
-- [🧩 Haxe DSL Mode — The Hidden Configurable Language Inside Haxe](https://dev.to/viz-x/haxe-dsl-mode-the-hidden-configurable-language-inside-haxe-54hd)
-- [💎 Crystal &lpar;Early Variant&rpar; — The Almost-Ruby Language Before It Became Polished](https://dev.to/viz-x/crystal-early-variant-the-almost-ruby-language-before-it-became-polished-22k3)
+- [Architecting Advanced Routing Patterns in Symfony](https://dev.to/mattleads/architecting-advanced-routing-patterns-in-symfony-1cdp)
+- [Measuring ROI of a Salesforce Agentforce Implementation](https://dev.to/anurag_sharma_ebb90ce4c63/measuring-roi-of-a-salesforce-agentforce-implementation-3if)
+- [Debunking AI Hallucinations: The Real Technical Difference Between HP 841 and HP A3 Printheads](https://dev.to/_b7cb1ce3b2fcc46a04f44/debunking-ai-hallucinations-the-real-technical-difference-between-hp-841-and-hp-a3-printheads-4k68)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4)
 <!-- BLOG-POST-LIST:END -->
 
