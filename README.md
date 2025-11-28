@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing High-Performance Fintech SaaS with Redis and CDNs](https://dev.to/ertnbrk/designing-high-performance-fintech-saas-with-redis-and-cdns-120g)
-- [GA4 Custom Segments That Actually Matter: 7 Configurations Most Marketers Overlook](https://dev.to/synergistdigitalmedia/ga4-custom-segments-that-actually-matter-7-configurations-most-marketers-overlook-184j)
-- [Moving from Process to Subprocess](https://dev.to/trozware/moving-from-process-to-subprocess-4408)
-- [How Grok Works Under the Hood: Inside xAI’s Infrastructure and Training Logic](https://dev.to/davidevans/how-grok-works-under-the-hood-inside-xais-infrastructure-and-training-logic-45ag)
+- [🧩 Need for Services in Kubernetes.](https://dev.to/itsmecharan7/need-for-services-in-kubernetes-5acl)
+- [A beginner&#39;s guide to the Gpt-4o-Mini model by Openai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-4o-mini-model-by-openai-on-replicate-4jln)
+- [Uncovering Global Content Trends on Netflix: A Full Tableau Analytics Breakdown](https://dev.to/augo_amos/uncovering-global-content-trends-on-netflix-a-full-tableau-analytics-breakdown-23c9)
+- [When we can use ARIA](https://dev.to/jeganmurugan_0101/when-we-can-use-aria-42h6)
 <!-- BLOG-POST-LIST:END -->
 
