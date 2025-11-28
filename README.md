@@ -79,12 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real AI-first products won’t need to say “AI” anywhere.
-They’ll simply feel smoother, smarter, and more effortless than the alternatives.
-
-The future will belong to the builders and operators who understand this distinction.](https://dev.to/jaideepparashar/real-ai-first-products-wont-need-to-say-ai-anywhere-theyll-simply-feel-smoother-smarter-and-5h51)
-- [Day 56 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-56-of-100-days-dsa-coding-challenge-2dmg)
-- [Faceless AI Video Course Review: 10-Minute Shorts Workflow for Fast Output and Email Monetization](https://dev.to/nhan_scope/faceless-ai-video-course-review-10-minute-shorts-workflow-for-fast-output-and-email-monetization-1ae6)
-- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
+- [Meta Advantage+ Shopping: When the Algorithm Actually Knows Better Than You &lpar;And When It Doesn&#39;t&rpar;](https://dev.to/synergistdigitalmedia/meta-advantage-shopping-when-the-algorithm-actually-knows-better-than-you-and-when-it-doesnt-3i6n)
+- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
+- [🧩 Haxe DSL Mode — The Hidden Configurable Language Inside Haxe](https://dev.to/viz-x/haxe-dsl-mode-the-hidden-configurable-language-inside-haxe-54hd)
+- [💎 Crystal &lpar;Early Variant&rpar; — The Almost-Ruby Language Before It Became Polished](https://dev.to/viz-x/crystal-early-variant-the-almost-ruby-language-before-it-became-polished-22k3)
 <!-- BLOG-POST-LIST:END -->
 
