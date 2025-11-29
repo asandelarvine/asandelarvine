@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracked&lpar;interactive&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crackedinteractive-3b9e)
-- [PayPal Smart Buttons in 2025 is the about:blank flash + never-closing popup finally dead?😞](https://dev.to/vidakhoshpey22/paypal-smart-buttons-in-2025-is-the-aboutblank-flash-never-closing-popup-finally-dead-584j)
-- [Google&#39;s December 2025 Core Update Hit Your E-commerce Site: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-your-e-commerce-site-heres-what-actually-changed-4ef8)
-- [Crack in background as you scroll](https://dev.to/preetha_vaishnavi_2b82358/crack-in-background-as-you-scroll-3d9b)
+- [abstractions in memory system for agents](https://dev.to/crawlingcrusader/abstractions-in-memory-system-for-agents-2nd9)
+- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
+- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
+- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-4i28)
 <!-- BLOG-POST-LIST:END -->
 
