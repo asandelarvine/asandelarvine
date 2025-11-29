@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kashmir Trek: In-Depth Information on Routes &amp; Difficulty](https://dev.to/tasinnew22/kashmir-trek-in-depth-information-on-routes-difficulty-3ja8)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
-- [Brand Refresh to Revenue: Using SEO-Driven Graphic Design for Growth](https://dev.to/hollowcore/brand-refresh-to-revenue-using-seo-driven-graphic-design-for-growth-3na0)
+- [Cracked&lpar;interactive&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crackedinteractive-3b9e)
+- [PayPal Smart Buttons in 2025 is the about:blank flash + never-closing popup finally dead?😞](https://dev.to/vidakhoshpey22/paypal-smart-buttons-in-2025-is-the-aboutblank-flash-never-closing-popup-finally-dead-584j)
+- [Google&#39;s December 2025 Core Update Hit Your E-commerce Site: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2025-core-update-hit-your-e-commerce-site-heres-what-actually-changed-4ef8)
+- [Crack in background as you scroll](https://dev.to/preetha_vaishnavi_2b82358/crack-in-background-as-you-scroll-3d9b)
 <!-- BLOG-POST-LIST:END -->
 
