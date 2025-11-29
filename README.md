@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
-- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
-- [Hey There! this is my first blog.](https://dev.to/infinity_mindset_915125da/hey-there-this-is-my-first-blog-3ga1)
+- [Concrete Whispers: Decoding Infrastructure&#39;s Silent Distress Calls with AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/concrete-whispers-decoding-infrastructures-silent-distress-calls-with-ai-by-arvind-sundararajan-5f7h)
+- [NumPy Labs: Minkowski Distance, Image Edge Detection, and Array Reshaping for Data Science](https://dev.to/labex/numpy-labs-minkowski-distance-image-edge-detection-and-array-reshaping-for-data-science-5cgl)
+- [The Hidden Tax on Traders: Is Your Broker Sabotaging You?](https://dev.to/stock_expertai_5eafb5be7/the-hidden-tax-on-traders-is-your-broker-sabotaging-you-5bn)
+- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
 <!-- BLOG-POST-LIST:END -->
 
