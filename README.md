@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
-- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)
-- [The €15,000 Contract Mistake That Almost Sank My Client&#39;s Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
+- [Build Linera dApps Fast with This Next.js Template](https://dev.to/kirodotdev/build-linera-dapps-fast-with-this-nextjs-template-4ih7)
+- [The Wonders of Cosmic Physics: From Black Holes to Dark Matter](https://dev.to/sydne_sloan_8e7fc123adf2b/the-wonders-of-cosmic-physics-from-black-holes-to-dark-matter-3k5)
+- [PYTHON ESSENTIALS FOR AI/ML&lpar;Error Handling&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aimlvirtual-environments-19pg)
+- [How Insertion Sort Works: Simplified Explanation](https://dev.to/saptarshisarkar/how-insertion-sort-works-simplified-explanation-232i)
 <!-- BLOG-POST-LIST:END -->
 
