@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critique &amp; Refresh for the SXSW Community Manager Manifesto &lpar;2012&rpar;](https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741)
-- [Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow](https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a)
-- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8455d9df/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-oaj)
-- [Digital Excellence Is Now the Baseline - Not a Bonus](https://dev.to/farhannasirdev/digital-excellence-is-now-the-baseline-not-a-bonus-4nl4)
+- [Why Mixup Works &lpar;Even When It Blends Everything Into Goo&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-mixup-works-even-when-it-blends-everything-into-goo-25g1)
+- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
+- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
+- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
 <!-- BLOG-POST-LIST:END -->
 
