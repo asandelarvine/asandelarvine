@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nano Banana 2](https://dev.to/leo_king_25a8aa998a261145/nano-banana-2-4ahf)
-- [A Financial MCP server with multi-provider orchestration &lpar;Open Source&rpar;](https://dev.to/kiarashplusplus/a-financial-mcp-server-with-multi-provider-orchestration-open-source-dob)
-- [The Catch-22 of programming](https://dev.to/gtanyware/the-catch-22-of-programming-2e1p)
-- [Free tool to remove watermarks from AI images, 100% private](https://dev.to/jawuilp/free-tool-to-remove-watermarks-from-ai-images-100-private-1pf4)
+- [Cercle: Weval - ON &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-weval-on-live-version-cercle-odyssey-3obc)
+- [Struggling with Next.js 16 App Router? Migrate Faster &amp; Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
+- [Day 15 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-15-of-improving-my-data-science-skills-28ee)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
 <!-- BLOG-POST-LIST:END -->
 
