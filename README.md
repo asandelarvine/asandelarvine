@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy Deployment of Vertex AI Agent Engine with vaiae](https://dev.to/toyama0919/easy-deployment-of-vertex-ai-agent-engine-with-vaiae-m84)
-- [Making Cloud Cost Analysis Smarter: Building FinOps Intelligent Agents with Strands and AgentCore](https://dev.to/elianalamhost/making-cloud-cost-analysis-smarter-building-finops-intelligent-agents-with-strands-and-agentcore-43di)
-- [🤖 Arduino Forth — A Minimal Forth Variant Adapted for Microcontrollers](https://dev.to/viz-x/arduino-forth-a-minimal-forth-variant-adapted-for-microcontrollers-3emj)
-- [Building a Serverless AI Fitness Coach on AWS Using Bedrock &lpar;Llama 3&rpar;, Lambda &amp; CloudFront](https://dev.to/imash24/building-a-serverless-ai-fitness-coach-on-aws-using-bedrock-llama-3-lambda-cloudfront-3bf0)
+- [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
+- [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
+- [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
+- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
 <!-- BLOG-POST-LIST:END -->
 
