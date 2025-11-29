@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Weval - ON &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-weval-on-live-version-cercle-odyssey-3obc)
-- [Struggling with Next.js 16 App Router? Migrate Faster &amp; Smarter](https://dev.to/dharmendra/struggling-with-nextjs-16-app-router-migrate-faster-smarter-248p)
-- [Day 15 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-15-of-improving-my-data-science-skills-28ee)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
+- [Instagram&#39;s Discovery Feed Actually Rewards Different Content Now &lpar;Here&#39;s What Changed&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-actually-rewards-different-content-now-heres-what-changed-1aa9)
+- [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
+- [I built a free AI Comparison Portal with Next.js &lpar;Alternatives to paid directories&rpar;](https://dev.to/rehanuri_talu_4f7c9d5cb63/i-built-a-free-ai-comparison-portal-with-nextjs-alternatives-to-paid-directories-2ko3)
+- [Neural Networks: Cracking the Geometric Code to AI](https://dev.to/arvind_sundararajan/neural-networks-cracking-the-geometric-code-to-ai-297l)
 <!-- BLOG-POST-LIST:END -->
 
