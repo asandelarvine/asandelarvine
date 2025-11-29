@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASA: The First Architecture Built for the AI-Coding Era](https://dev.to/vibecodiq/asa-the-first-architecture-built-for-the-ai-coding-era-3g2k)
-- [# A Clear Difference Between IPv4 and IPv6—and How They Work](https://dev.to/sudiip__17/-a-clear-difference-between-ipv4-and-ipv6-and-how-they-work-29p2)
-- [Error-Handling-Revolution-Making-System-Crashes-a-Thing-of-the-Past](https://dev.to/member_8455d9df/error-handling-revolution-making-system-crashes-a-thing-of-the-past-1bji)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-5egl)
+- [Nano Banana 2](https://dev.to/leo_king_25a8aa998a261145/nano-banana-2-4ahf)
+- [A Financial MCP server with multi-provider orchestration &lpar;Open Source&rpar;](https://dev.to/kiarashplusplus/a-financial-mcp-server-with-multi-provider-orchestration-open-source-dob)
+- [The Catch-22 of programming](https://dev.to/gtanyware/the-catch-22-of-programming-2e1p)
+- [Free tool to remove watermarks from AI images, 100% private](https://dev.to/jawuilp/free-tool-to-remove-watermarks-from-ai-images-100-private-1pf4)
 <!-- BLOG-POST-LIST:END -->
 
