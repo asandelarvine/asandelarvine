@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
-- [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
-- [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
-- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
+- [Kashmir Trek: In-Depth Information on Routes &amp; Difficulty](https://dev.to/tasinnew22/kashmir-trek-in-depth-information-on-routes-difficulty-3ja8)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
+- [Brand Refresh to Revenue: Using SEO-Driven Graphic Design for Growth](https://dev.to/hollowcore/brand-refresh-to-revenue-using-seo-driven-graphic-design-for-growth-3na0)
 <!-- BLOG-POST-LIST:END -->
 
