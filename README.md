@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Script to list MongoDB collection URI &lpar;to map to WiredTiger files&rpar;](https://dev.to/franckpachot/script-to-list-mongodb-collection-uri-to-map-to-wiredtiger-files-4k2n)
-- [Building Trinity Shield: Our Custom TEE Solution for Multi-Chain Security](https://dev.to/chronosvault/building-trinity-shield-our-custom-tee-solution-for-multi-chain-security-3cdf)
-- [Weekly Coding Challenge #1 - Double slider Sign in/up Form - Desktop Only](https://dev.to/preetha_vaishnavi_2b82358/weekly-coding-challenge-1-double-slider-sign-inup-form-desktop-only-4pak)
-- [You Can Build Ideas on a Phone, But You Can’t Build Software There](https://dev.to/plc-creates/you-can-build-ideas-on-a-phone-but-you-cant-build-software-there-3i91)
+- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
+- [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
+- [Just submitted MeetSpot to the Kiro Hackathon! 🚀](https://dev.to/jasonrobertdestiny/just-submitted-meetspot-to-the-kiro-hackathon-k75)
+- [Predictions for AI Developments by the End of 2027](https://dev.to/hemanth_suresh_d8fd79da4b/predictions-for-ai-developments-by-the-end-of-2027-3dpb)
 <!-- BLOG-POST-LIST:END -->
 
