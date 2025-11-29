@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Upgrade to Prisma v7?](https://dev.to/manujdixit/how-to-upgrade-to-prisma-v7-zero-confusion-guide-2ljd)
-- [I wanted to code from my phone with Claude code](https://dev.to/oxonomy/i-wanted-to-code-from-my-phone-with-claude-code-31c0)
-- [Just submitted MeetSpot to the Kiro Hackathon! 🚀](https://dev.to/jasonrobertdestiny/just-submitted-meetspot-to-the-kiro-hackathon-k75)
-- [Predictions for AI Developments by the End of 2027](https://dev.to/hemanth_suresh_d8fd79da4b/predictions-for-ai-developments-by-the-end-of-2027-3dpb)
+- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
+- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
+- [Hey There! this is my first blog.](https://dev.to/infinity_mindset_915125da/hey-there-this-is-my-first-blog-3ga1)
 <!-- BLOG-POST-LIST:END -->
 
