@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Way Forward for Automation Testers in the Age of AI](https://dev.to/godhirajcode/the-way-forward-for-automation-testers-in-the-age-of-ai-1f51)
-- [How to Use Amazon SNS Data Protection Policies to Prevent Sensitive Data Leakage](https://dev.to/aws-builders/how-to-use-amazon-sns-data-protection-policies-to-prevent-sensitive-data-leakage-1dgn)
-- [Building Forms with React Hook Form &lpar;Part 2&rpar;](https://dev.to/rinidh/building-forms-with-react-hook-form-part-2-3005)
-- [Building Modern Backends with Kaapi: API Documentation Generation](https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2)
+- [ASA: The First Architecture Built for the AI-Coding Era](https://dev.to/vibecodiq/asa-the-first-architecture-built-for-the-ai-coding-era-3g2k)
+- [# A Clear Difference Between IPv4 and IPv6—and How They Work](https://dev.to/sudiip__17/-a-clear-difference-between-ipv4-and-ipv6-and-how-they-work-29p2)
+- [Error-Handling-Revolution-Making-System-Crashes-a-Thing-of-the-Past](https://dev.to/member_8455d9df/error-handling-revolution-making-system-crashes-a-thing-of-the-past-1bji)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-5egl)
 <!-- BLOG-POST-LIST:END -->
 
