@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [abstractions in memory system for agents](https://dev.to/crawlingcrusader/abstractions-in-memory-system-for-agents-2nd9)
-- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
-- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
-- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-4i28)
+- [Smart Invoice Analyzer — How I Automated Invoice Processing &amp; Predicted Sales Using Machine Learning](https://dev.to/sanjaydot/smart-invoice-analyzer-how-i-automated-invoice-processing-predicted-sales-using-machine-learning-41b3)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_8455d9df/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-29ca)
+- [From the Brink to the Big League: Pakistan’s $5B Crisis to $19.6B Clout](https://dev.to/skye_wright_1443d44f7b6d1/from-the-brink-to-the-big-league-pakistans-5b-crisis-to-196b-clout-4i37)
+- [📌 I built a code snippet manager because I kept losing my own code &lpar;MVP live&rpar;](https://dev.to/sahil_pradhan_af85f41e46a/i-built-a-code-snippet-manager-because-i-kept-losing-my-own-code-mvp-live-37g9)
 <!-- BLOG-POST-LIST:END -->
 
