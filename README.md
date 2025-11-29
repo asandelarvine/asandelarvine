@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Linera dApps Fast with This Next.js Template](https://dev.to/kirodotdev/build-linera-dapps-fast-with-this-nextjs-template-4ih7)
-- [The Wonders of Cosmic Physics: From Black Holes to Dark Matter](https://dev.to/sydne_sloan_8e7fc123adf2b/the-wonders-of-cosmic-physics-from-black-holes-to-dark-matter-3k5)
-- [PYTHON ESSENTIALS FOR AI/ML&lpar;Error Handling&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aimlvirtual-environments-19pg)
-- [How Insertion Sort Works: Simplified Explanation](https://dev.to/saptarshisarkar/how-insertion-sort-works-simplified-explanation-232i)
+- [Easy Deployment of Vertex AI Agent Engine with vaiae](https://dev.to/toyama0919/easy-deployment-of-vertex-ai-agent-engine-with-vaiae-m84)
+- [Making Cloud Cost Analysis Smarter: Building FinOps Intelligent Agents with Strands and AgentCore](https://dev.to/elianalamhost/making-cloud-cost-analysis-smarter-building-finops-intelligent-agents-with-strands-and-agentcore-43di)
+- [🤖 Arduino Forth — A Minimal Forth Variant Adapted for Microcontrollers](https://dev.to/viz-x/arduino-forth-a-minimal-forth-variant-adapted-for-microcontrollers-3emj)
+- [Building a Serverless AI Fitness Coach on AWS Using Bedrock &lpar;Llama 3&rpar;, Lambda &amp; CloudFront](https://dev.to/imash24/building-a-serverless-ai-fitness-coach-on-aws-using-bedrock-llama-3-lambda-cloudfront-3bf0)
 <!-- BLOG-POST-LIST:END -->
 
