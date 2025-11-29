@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Company Page Is Getting Ignored: LinkedIn&#39;s Quiet Algorithm Revolution](https://dev.to/synergistdigitalmedia/your-company-page-is-getting-ignored-linkedins-quiet-algorithm-revolution-4j5f)
-- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
-- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
-- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
+- [A Critique &amp; Refresh for the SXSW Community Manager Manifesto &lpar;2012&rpar;](https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741)
+- [Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow](https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a)
+- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8455d9df/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-oaj)
+- [Digital Excellence Is Now the Baseline - Not a Bonus](https://dev.to/farhannasirdev/digital-excellence-is-now-the-baseline-not-a-bonus-4nl4)
 <!-- BLOG-POST-LIST:END -->
 
