@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Mitsuki - Spring Boot Enterprise Patterns and Speed with Python&#39;s Flexibility](https://dev.to/david_landup/introducing-mitsuki-spring-boot-enterprise-patterns-and-speed-with-pythons-flexibility-5e77)
-- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
-- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
-- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
+- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
+- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)
+- [The €15,000 Contract Mistake That Almost Sank My Client&#39;s Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
 <!-- BLOG-POST-LIST:END -->
 
