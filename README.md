@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
-- [Latest Updates in Vue](https://dev.to/ibrahim_zbib_9806de6128af/latest-updates-in-vue-3p38)
-- [Google&#39;s Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5)
-- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9)
+- [The Way Forward for Automation Testers in the Age of AI](https://dev.to/godhirajcode/the-way-forward-for-automation-testers-in-the-age-of-ai-1f51)
+- [How to Use Amazon SNS Data Protection Policies to Prevent Sensitive Data Leakage](https://dev.to/aws-builders/how-to-use-amazon-sns-data-protection-policies-to-prevent-sensitive-data-leakage-1dgn)
+- [Building Forms with React Hook Form &lpar;Part 2&rpar;](https://dev.to/rinidh/building-forms-with-react-hook-form-part-2-3005)
+- [Building Modern Backends with Kaapi: API Documentation Generation](https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2)
 <!-- BLOG-POST-LIST:END -->
 
