@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got a new Mac, what do I install?](https://dev.to/thelazyindiantechie/i-got-a-new-mac-what-do-i-install-3kba)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1lam)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3pa7)
-- [Mastering Dart Enums: From Basic Lists to Supercharged Classes](https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e)
+- [Introducing Mitsuki - Spring Boot Enterprise Patterns and Speed with Python&#39;s Flexibility](https://dev.to/david_landup/introducing-mitsuki-spring-boot-enterprise-patterns-and-speed-with-pythons-flexibility-5e77)
+- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
+- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
+- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
 <!-- BLOG-POST-LIST:END -->
 
