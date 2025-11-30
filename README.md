@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)
-- [Breaking the Sound Barrier with AI: Real-Time Flight Simulation Arrives by Arvind Sundararajan](https://dev.to/arvind_sundararajan/breaking-the-sound-barrier-with-ai-real-time-flight-simulation-arrives-by-arvind-sundararajan-64p)
-- [માનસિક](https://dev.to/ddr_pdr_d754dc776c87532ad/maansik-2mho)
-- [Outil de Cybersécurité du Jour - Nov 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-30-2025-1koi)
+- [Run Cypress autotests in parallel for Allure report](https://dev.to/smoliarick/run-cypress-autotests-in-parallel-for-allure-report-13m2)
+- [Searching 2500+ Claude Code sessions was painful, so I fixed it](https://dev.to/moshe_revah_b9ed24a93a59a/searching-2500-claude-code-sessions-was-painful-so-i-fixed-it-44fi)
+- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
+- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
 <!-- BLOG-POST-LIST:END -->
 
