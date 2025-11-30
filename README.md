@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mirror Problem: When AI Confidence Becomes Your Biggest Liability](https://dev.to/thedevankit/the-mirror-problem-when-ai-confidence-becomes-your-biggest-liability-26k1)
-- [Notes WebApp - Complete Guide with Cloud Functions, Firestore, and Cloud Storage](https://dev.to/chainiz/notes-webapp-complete-guide-with-cloud-functions-firestore-and-cloud-storage-3fcg)
-- [AI Email Segmentation: How Machine Learning Actually Doubled My Open Rates &lpar;Without the BS&rpar;](https://dev.to/synergistdigitalmedia/ai-email-segmentation-how-machine-learning-actually-doubled-my-open-rates-without-the-bs-3daj)
-- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
+- [Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c)
+- [Getting Started with AWS CDK on Windows: A Complete Setup Guide](https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf)
+- [🚀 I Built a Lightweight Uptime &amp; API Monitoring Tool Because Nothing Felt Simple Enough](https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i)
+- [Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3)
 <!-- BLOG-POST-LIST:END -->
 
