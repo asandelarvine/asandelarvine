@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
-- [SpecterBeats](https://dev.to/vitamindel/specterbeats-4p40)
+- [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
+- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
+- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
+- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
 <!-- BLOG-POST-LIST:END -->
 
