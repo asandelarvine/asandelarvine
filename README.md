@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
-- [Event Loop: Call Stack, Web API, Task Queue, Microtask Queue](https://dev.to/antonov_mike/event-loop-call-stack-web-api-task-queue-microtask-queue-1eb2)
-- [AI Ranking Analyzer Tools](https://dev.to/arc_support_458635af462f4/ai-ranking-analyzer-tools-22g0)
-- [AI Keyword Tracking Tools](https://dev.to/babamanga/ai-keyword-tracking-tools-5e53)
+- [Will Data Science Still Rule 2026?](https://dev.to/mabualzait/will-data-science-still-rule-2026-2bj)
+- [Breaking the Sound Barrier with AI: Real-Time Flight Simulation Arrives by Arvind Sundararajan](https://dev.to/arvind_sundararajan/breaking-the-sound-barrier-with-ai-real-time-flight-simulation-arrives-by-arvind-sundararajan-64p)
+- [માનસિક](https://dev.to/ddr_pdr_d754dc776c87532ad/maansik-2mho)
+- [Outil de Cybersécurité du Jour - Nov 30, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-nov-30-2025-1koi)
 <!-- BLOG-POST-LIST:END -->
 
