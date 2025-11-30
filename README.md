@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers vs AI: Are We Becoming AI Managers Instead of Coders?](https://dev.to/marxon/developers-vs-ai-are-we-becoming-ai-managers-instead-of-coders-5ef3)
-- [Firing Up AI with Cognitive Spark](https://dev.to/mabualzait/firing-up-ai-with-cognitive-spark-5ac7)
-- [AI Guardian Angel: Preventing Traffic Chaos with Smart Sensors by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-guardian-angel-preventing-traffic-chaos-with-smart-sensors-by-arvind-sundararajan-4k7g)
-- [Error Handling Through the Lens of the Principle of Independent Variation](https://dev.to/yannick555/error-handling-through-the-lens-of-the-principle-of-independent-variation-2p5o)
+- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
+- [SpecterBeats](https://dev.to/vitamindel/specterbeats-4p40)
 <!-- BLOG-POST-LIST:END -->
 
