@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
-- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
-- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
-- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
+- [From Static Docs to Living Knowledge: Building an STS‑Aware Retrieval‑Augmented Agent Backend](https://dev.to/suraj_khaitan_f893c243958/from-static-docs-to-living-knowledge-building-an-sts-aware-retrieval-augmented-agent-backend-dng)
+- [The Architect &amp; The Automaton: A New Map for Full-Stack Developers](https://dev.to/thinkaddict/the-architect-the-automaton-a-new-map-for-full-stack-developers-5hcp)
+- [If you&#39;re building for emerging markets, this is for you.I&#39;m sharing the complete architecture that took Ayema from 0 to 100K users in Nigeria, including the mistakes, the midnight server crashes, and the technical decisions that actually mattered.](https://dev.to/onoja5/if-youre-building-for-emerging-markets-this-is-for-you-im-sharing-the-complete-architecture-1gc5)
+- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
 <!-- BLOG-POST-LIST:END -->
 
