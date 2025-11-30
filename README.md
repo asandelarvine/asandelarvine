@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [So I Wrote My Own Compiler, SDK, and Node Package To Revive A Minecraft Mod](https://dev.to/iteranya/so-i-wrote-my-own-compiler-sdk-and-node-package-to-revive-a-minecraft-mod-41ic)
-- [Building an AI-Powered SQL Chatbot With LangChain, Mistral &amp; Streamlit](https://dev.to/sanjaydot/building-an-ai-powered-sql-chatbot-with-langchain-mistral-streamlit-a08)
-- [The Discipline Fallacy: Master Your System, Not Your Willpower](https://dev.to/thinkaddict/the-discipline-fallacy-master-your-system-not-your-willpower-3c9l)
-- [&quot;Mastering Prisma ORM with NestJS: A Step-by-Step Guide to Installation and Connection Troubleshooting &lpar;Version 7.0.1&rpar;&quot;](https://dev.to/mirzasaikatahmmed/mastering-prisma-orm-with-nestjs-a-step-by-step-guide-to-installation-and-connection-2e4h)
+- [When Should You Use Backblaze B2 and When Should You Use Cloudflare R2?](https://dev.to/zororaka/when-should-you-use-backblaze-b2-and-when-should-you-use-cloudflare-r2-402o)
+- [Building Atlassian Forge app with Kiro](https://dev.to/blueorbitz/building-atlassian-forge-app-with-kiro-k7j)
+- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
+- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
 <!-- BLOG-POST-LIST:END -->
 
