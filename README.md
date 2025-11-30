@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
-- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
-- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
-- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
+- [Developers vs AI: Are We Becoming AI Managers Instead of Coders?](https://dev.to/marxon/developers-vs-ai-are-we-becoming-ai-managers-instead-of-coders-5ef3)
+- [Firing Up AI with Cognitive Spark](https://dev.to/mabualzait/firing-up-ai-with-cognitive-spark-5ac7)
+- [AI Guardian Angel: Preventing Traffic Chaos with Smart Sensors by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-guardian-angel-preventing-traffic-chaos-with-smart-sensors-by-arvind-sundararajan-4k7g)
+- [Error Handling Through the Lens of the Principle of Independent Variation](https://dev.to/yannick555/error-handling-through-the-lens-of-the-principle-of-independent-variation-2p5o)
 <!-- BLOG-POST-LIST:END -->
 
