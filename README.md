@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us](https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28)
-- [[AWS] 1. IAM &lpar;Identity and Access Management&rpar; &amp; AWS CLI &lpar;Command Line Interface&rpar;](https://dev.to/sangwoo_rhie/aws-1-iam-identity-and-access-management-aws-cli-command-line-interface-2lmp)
-- [Stop Getting KeyError: &#39;\ufeffName&#39; When Reading CSVs in Python — Here’s the Fix](https://dev.to/suavebajaj/stop-getting-keyerror-ufeffname-when-reading-csvs-in-python-heres-the-fix-5e0n)
-- [CODEON – Recruitment Phase 1.0](https://dev.to/nikhil_ks/codeon-recruitment-phase-10-4p48)
+- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
+- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
+- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
+- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
 <!-- BLOG-POST-LIST:END -->
 
