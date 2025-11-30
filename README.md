@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local. Private. Use IBM Granite 4 for Contract Analysis in Microsoft Word.](https://dev.to/locpilot/local-private-use-ibm-granite-4-for-contract-analysis-in-microsoft-word-110h)
-- [Micro-Interactions in SwiftUI — Subtle Animations That Make Apps Feel Premium](https://dev.to/sebastienlato/micro-interactions-in-swiftui-subtle-animations-that-make-apps-feel-premium-2ldn)
-- [Hoppscotch — The Open Source API Development Ecosystem](https://dev.to/codefalconx/hoppscotch-the-open-source-api-development-ecosystem-4m5b)
-- [Exploring PL/SQL Collection Methods: DELETE, TRIM, and Their Best Practices](https://dev.to/ayako_yk/exploring-plsql-collection-methods-delete-trim-and-their-best-practices-3630)
+- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-2j16)
+- [Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps](https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-526)
+- [Mengenal React Redux dan React Native Elements](https://dev.to/sandatya_widhi_ce7cb1c809/mengenal-react-redux-dan-react-native-elements-2j47)
 <!-- BLOG-POST-LIST:END -->
 
