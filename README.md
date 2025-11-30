@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c)
-- [Getting Started with AWS CDK on Windows: A Complete Setup Guide](https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf)
-- [🚀 I Built a Lightweight Uptime &amp; API Monitoring Tool Because Nothing Felt Simple Enough](https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i)
-- [Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3)
+- [[Boost]](https://dev.to/gyj/-1kn4)
+- [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
+- [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
+- [Antigravity vs Claude Code: Ultimate Agentic Dev Showdown](https://dev.to/robort-gabriel/antigravity-vs-claude-code-ultimate-agentic-dev-showdown-1njp)
 <!-- BLOG-POST-LIST:END -->
 
