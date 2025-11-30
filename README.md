@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Static Docs to Living Knowledge: Building an STS‑Aware Retrieval‑Augmented Agent Backend](https://dev.to/suraj_khaitan_f893c243958/from-static-docs-to-living-knowledge-building-an-sts-aware-retrieval-augmented-agent-backend-dng)
-- [The Architect &amp; The Automaton: A New Map for Full-Stack Developers](https://dev.to/thinkaddict/the-architect-the-automaton-a-new-map-for-full-stack-developers-5hcp)
-- [If you&#39;re building for emerging markets, this is for you.I&#39;m sharing the complete architecture that took Ayema from 0 to 100K users in Nigeria, including the mistakes, the midnight server crashes, and the technical decisions that actually mattered.](https://dev.to/onoja5/if-youre-building-for-emerging-markets-this-is-for-you-im-sharing-the-complete-architecture-1gc5)
-- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
+- [So I Wrote My Own Compiler, SDK, and Node Package To Revive A Minecraft Mod](https://dev.to/iteranya/so-i-wrote-my-own-compiler-sdk-and-node-package-to-revive-a-minecraft-mod-41ic)
+- [Building an AI-Powered SQL Chatbot With LangChain, Mistral &amp; Streamlit](https://dev.to/sanjaydot/building-an-ai-powered-sql-chatbot-with-langchain-mistral-streamlit-a08)
+- [The Discipline Fallacy: Master Your System, Not Your Willpower](https://dev.to/thinkaddict/the-discipline-fallacy-master-your-system-not-your-willpower-3c9l)
+- [&quot;Mastering Prisma ORM with NestJS: A Step-by-Step Guide to Installation and Connection Troubleshooting &lpar;Version 7.0.1&rpar;&quot;](https://dev.to/mirzasaikatahmmed/mastering-prisma-orm-with-nestjs-a-step-by-step-guide-to-installation-and-connection-2e4h)
 <!-- BLOG-POST-LIST:END -->
 
