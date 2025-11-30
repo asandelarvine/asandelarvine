@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2go4)
-- [Developing real-time, humanlike AI video agents that enable natural customer interactions](https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5)
-- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1)
-- [Romans 4 — The Faith That Opens the Door God Intended All Along](https://dev.to/douglasvandergraph/romans-4-the-faith-that-opens-the-door-god-intended-all-along-4eog)
+- [Local. Private. Use IBM Granite 4 for Contract Analysis in Microsoft Word.](https://dev.to/locpilot/local-private-use-ibm-granite-4-for-contract-analysis-in-microsoft-word-110h)
+- [Micro-Interactions in SwiftUI — Subtle Animations That Make Apps Feel Premium](https://dev.to/sebastienlato/micro-interactions-in-swiftui-subtle-animations-that-make-apps-feel-premium-2ldn)
+- [Hoppscotch — The Open Source API Development Ecosystem](https://dev.to/codefalconx/hoppscotch-the-open-source-api-development-ecosystem-4m5b)
+- [Exploring PL/SQL Collection Methods: DELETE, TRIM, and Their Best Practices](https://dev.to/ayako_yk/exploring-plsql-collection-methods-delete-trim-and-their-best-practices-3630)
 <!-- BLOG-POST-LIST:END -->
 
