@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter vs Xamarin: Choosing the Right Framework for Cross-Platform Development](https://dev.to/gustavowoltmann18/flutter-vs-xamarin-choosing-the-right-framework-for-cross-platform-development-bjl)
-- [Google&#39;s December 2025 Helpful Content Update: The Recovery Playbook Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-the-recovery-playbook-nobodys-talking-about-15o4)
-- [How I Fixed a Website That Wouldn’t Open on GLO &lpar;Nigeria&rpar;.The Complete Guide Nobody Told Me.](https://dev.to/onoja5/how-i-fixed-a-website-that-wouldnt-open-on-glo-nigeriathe-complete-guide-nobody-told-me-3b33)
-- [Diving Deeper into SQL: Advanced Queries and Real-World Applications](https://dev.to/ch-kartik/diving-deeper-into-sql-advanced-queries-and-real-world-applications-pjc)
+- [Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us](https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28)
+- [[AWS] 1. IAM &lpar;Identity and Access Management&rpar; &amp; AWS CLI &lpar;Command Line Interface&rpar;](https://dev.to/sangwoo_rhie/aws-1-iam-identity-and-access-management-aws-cli-command-line-interface-2lmp)
+- [Stop Getting KeyError: &#39;\ufeffName&#39; When Reading CSVs in Python — Here’s the Fix](https://dev.to/suavebajaj/stop-getting-keyerror-ufeffname-when-reading-csvs-in-python-heres-the-fix-5e0n)
+- [CODEON – Recruitment Phase 1.0](https://dev.to/nikhil_ks/codeon-recruitment-phase-10-4p48)
 <!-- BLOG-POST-LIST:END -->
 
