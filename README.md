@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Should You Use Backblaze B2 and When Should You Use Cloudflare R2?](https://dev.to/zororaka/when-should-you-use-backblaze-b2-and-when-should-you-use-cloudflare-r2-402o)
-- [Building Atlassian Forge app with Kiro](https://dev.to/blueorbitz/building-atlassian-forge-app-with-kiro-k7j)
-- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
-- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
+- [The Mirror Problem: When AI Confidence Becomes Your Biggest Liability](https://dev.to/thedevankit/the-mirror-problem-when-ai-confidence-becomes-your-biggest-liability-26k1)
+- [Notes WebApp - Complete Guide with Cloud Functions, Firestore, and Cloud Storage](https://dev.to/chainiz/notes-webapp-complete-guide-with-cloud-functions-firestore-and-cloud-storage-3fcg)
+- [AI Email Segmentation: How Machine Learning Actually Doubled My Open Rates &lpar;Without the BS&rpar;](https://dev.to/synergistdigitalmedia/ai-email-segmentation-how-machine-learning-actually-doubled-my-open-rates-without-the-bs-3daj)
+- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
 <!-- BLOG-POST-LIST:END -->
 
