@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gyj/-1kn4)
-- [Building The Digital Exorcism: Infinite Replayability Through Dynamic Generation &lpar;Part 2&rpar;](https://dev.to/yooi/building-the-digital-exorcism-infinite-replayability-through-dynamic-generation-part-2-cjo)
-- [Day 06: Organizing Your Infrastructure as Code for your Project](https://dev.to/andylovecloud/day-06-organizing-your-infrastructure-as-code-for-your-project-4nko)
-- [Antigravity vs Claude Code: Ultimate Agentic Dev Showdown](https://dev.to/robort-gabriel/antigravity-vs-claude-code-ultimate-agentic-dev-showdown-1njp)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
+- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
+- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
+- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
 <!-- BLOG-POST-LIST:END -->
 
