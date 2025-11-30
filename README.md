@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram&#39;s Discovery Feed Actually Rewards Different Content Now &lpar;Here&#39;s What Changed&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-actually-rewards-different-content-now-heres-what-changed-1aa9)
-- [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
-- [I built a free AI Comparison Portal with Next.js &lpar;Alternatives to paid directories&rpar;](https://dev.to/rehanuri_talu_4f7c9d5cb63/i-built-a-free-ai-comparison-portal-with-nextjs-alternatives-to-paid-directories-2ko3)
-- [Neural Networks: Cracking the Geometric Code to AI](https://dev.to/arvind_sundararajan/neural-networks-cracking-the-geometric-code-to-ai-297l)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2go4)
+- [Developing real-time, humanlike AI video agents that enable natural customer interactions](https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5)
+- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1)
+- [Romans 4 — The Faith That Opens the Door God Intended All Along](https://dev.to/douglasvandergraph/romans-4-the-faith-that-opens-the-door-god-intended-all-along-4eog)
 <!-- BLOG-POST-LIST:END -->
 
