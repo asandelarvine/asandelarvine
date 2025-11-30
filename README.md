@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Cypress autotests in parallel for Allure report](https://dev.to/smoliarick/run-cypress-autotests-in-parallel-for-allure-report-13m2)
-- [Searching 2500+ Claude Code sessions was painful, so I fixed it](https://dev.to/moshe_revah_b9ed24a93a59a/searching-2500-claude-code-sessions-was-painful-so-i-fixed-it-44fi)
-- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
-- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
+- [Flutter vs Xamarin: Choosing the Right Framework for Cross-Platform Development](https://dev.to/gustavowoltmann18/flutter-vs-xamarin-choosing-the-right-framework-for-cross-platform-development-bjl)
+- [Google&#39;s December 2025 Helpful Content Update: The Recovery Playbook Nobody&#39;s Talking About](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-the-recovery-playbook-nobodys-talking-about-15o4)
+- [How I Fixed a Website That Wouldn’t Open on GLO &lpar;Nigeria&rpar;.The Complete Guide Nobody Told Me.](https://dev.to/onoja5/how-i-fixed-a-website-that-wouldnt-open-on-glo-nigeriathe-complete-guide-nobody-told-me-3b33)
+- [Diving Deeper into SQL: Advanced Queries and Real-World Applications](https://dev.to/ch-kartik/diving-deeper-into-sql-advanced-queries-and-real-world-applications-pjc)
 <!-- BLOG-POST-LIST:END -->
 
