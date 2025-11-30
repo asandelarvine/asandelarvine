@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance Networking &lpar;RDMA, InfiniBand&rpar;](https://dev.to/godofgeeks/high-performance-networking-rdma-infiniband-o2e)
-- [How to Get License Key for 4K Video Downloader Free?](https://dev.to/james130/how-to-get-license-key-for-4k-video-downloader-free-3edg)
-- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-4fpb)
-- [Smart Roads, Safer Cities: AI Guards Against Infrastructure Chaos by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smart-roads-safer-cities-ai-guards-against-infrastructure-chaos-by-arvind-sundararajan-36ih)
+- [Introduction to Azure Storage](https://dev.to/delamywa/introduction-to-azure-storage-5781)
+- [Event Loop: Call Stack, Web API, Task Queue, Microtask Queue](https://dev.to/antonov_mike/event-loop-call-stack-web-api-task-queue-microtask-queue-1eb2)
+- [AI Ranking Analyzer Tools](https://dev.to/arc_support_458635af462f4/ai-ranking-analyzer-tools-22g0)
+- [AI Keyword Tracking Tools](https://dev.to/babamanga/ai-keyword-tracking-tools-5e53)
 <!-- BLOG-POST-LIST:END -->
 
