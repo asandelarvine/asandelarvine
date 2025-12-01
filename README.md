@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI for Developers: Building Autonomous AI Systems Instead of Chatbots](https://dev.to/careerbytecode/agentic-ai-for-developers-building-autonomous-ai-systems-instead-of-chatbots-3kj6)
-- [Week 9: Using Recoil in React!](https://dev.to/nikhilsharma6/week-9-using-recoil-in-react-2m0j)
-- [🚀 Day 1: Introduction to Apache Spark](https://dev.to/sandeepk27/day-1-introduction-to-apache-spark-3haa)
-- [How to Search Non-Patent Literature for Prior Art](https://dev.to/patentscanai/how-to-search-non-patent-literature-for-prior-art-4ag8)
+- [Is Solana Really Running Out of Memory?](https://dev.to/soltap_io/is-solana-really-running-out-of-memory-23il)
+- [🔭 Observability Practices: The 3 Pillars with a Node.js + OpenTelemetry Example](https://dev.to/wsalas651/observability-practices-the-3-pillars-with-a-nodejs-opentelemetry-example-11k7)
+- [JavaScript Introduction.](https://dev.to/mohamed_ajmal_222/javascript-introduction-2gk1)
+- [PyTorch in Practice: Engineering a Custom CNN for Hair Texture Classification](https://dev.to/austin_deyan_6c9b2445aed6/pytorch-in-practice-engineering-a-custom-cnn-for-hair-texture-classification-1b37)
 <!-- BLOG-POST-LIST:END -->
 
