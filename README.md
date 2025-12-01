@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next-Generation Logic Orchestration Engine NopTaskFlow Built from Scratch](https://dev.to/canonical/the-next-generation-logic-orchestration-engine-noptaskflow-built-from-scratch-4755)
-- [The Secret Life of Go: Structs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-structs-3aj9)
-- [HarmonyOS Next: How To Use RichEditor](https://dev.to/harmonyos/harmonyos-next-how-to-use-richeditor-57jg)
-- [Deploy SafeLine WAF in 10 Minutes: A DevOps-Friendly Quick Start](https://dev.to/arina_cholee/deploy-safeline-waf-in-10-minutes-a-devops-friendly-quick-start-1nnn)
+- [🚀 Building Your First MCP Server: A Step-by-Step Guide](https://dev.to/sebastianfuentesavalos/-building-your-first-mcp-server-a-step-by-step-guide-41j4)
+- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
+- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
+- [NestJS Dependency Injection: Why Your Services Won&#39;t Inject &lpar;And How to Fix It Properly&rpar;](https://dev.to/adamthedeveloper/nestjs-dependency-injection-why-your-services-wont-inject-and-how-to-fix-it-properly-3phf)
 <!-- BLOG-POST-LIST:END -->
 
