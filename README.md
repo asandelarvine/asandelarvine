@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Web3 in Simple Terms](https://dev.to/obafemi_ogunmokun_df70d91/what-is-web3-in-simple-terms-449l)
-- [Maximize Your AI Conversations: Monetization Tactics for Developers](https://dev.to/monetzly/maximize-your-ai-conversations-monetization-tactics-for-developers-1806)
-- [Understanding GlassEffectContainer in iOS 26](https://dev.to/arshtechpro/understanding-glasseffectcontainer-in-ios-26-2n8p)
-- [Keypad Conundrum](https://dev.to/rmion/keypad-conundrum-39hl)
+- [Linus Tech Tips &lpar;LTT&rpar;: Building the PERFECT Linux PC with Linus Torvalds](https://dev.to/future_youtube/linus-tech-tips-ltt-building-the-perfect-linux-pc-with-linus-torvalds-1fal)
+- [Pull Request Reviews](https://dev.to/gratus_devanesan_39212f29/pull-request-reviews-5576)
+- [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
+- [How I Automated My GitHub Profile README With GitHub Actions &lpar;And How You Can Automate Anything Too&rpar;](https://dev.to/bhargab/how-i-automated-my-github-profile-readme-with-github-actions-and-how-you-can-automate-anything-too-1lkm)
 <!-- BLOG-POST-LIST:END -->
 
