@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Country&#39;s Currency Loses 70% in Two Years, Bitcoin Stops Looking Risky](https://dev.to/dhis_is_jj/when-your-countrys-currency-loses-70-in-two-years-bitcoin-stops-looking-risky-3jlf)
-- [Simplifying basic &lpar;genAI&rpar; web app deployment with serverless](https://dev.to/wescpy/simplifying-basic-genai-web-app-deployment-with-serverless-3cc5)
-- [Fixing Claude Code&#39;s Amnesia](https://dev.to/arpitnath/fixing-claude-codes-amnesia-5g9f)
-- [Build Custom Logistics Management Software With AI](https://dev.to/nickpe/build-custom-logistics-management-software-with-ai-5baf)
+- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/bochie/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
+- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
+- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-2fm0)
+- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
 <!-- BLOG-POST-LIST:END -->
 
