@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Meta-Arguments](https://dev.to/anil_kumar_noolu/terraform-meta-arguments-187f)
-- [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
-- [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
-- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
+- [Agentic AI for Developers: Building Autonomous AI Systems Instead of Chatbots](https://dev.to/careerbytecode/agentic-ai-for-developers-building-autonomous-ai-systems-instead-of-chatbots-3kj6)
+- [Week 9: Using Recoil in React!](https://dev.to/nikhilsharma6/week-9-using-recoil-in-react-2m0j)
+- [🚀 Day 1: Introduction to Apache Spark](https://dev.to/sandeepk27/day-1-introduction-to-apache-spark-3haa)
+- [How to Search Non-Patent Literature for Prior Art](https://dev.to/patentscanai/how-to-search-non-patent-literature-for-prior-art-4ag8)
 <!-- BLOG-POST-LIST:END -->
 
