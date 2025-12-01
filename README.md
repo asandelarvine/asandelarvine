@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mettez du Love dans votre produit, le MVP est-il dépassé ?](https://dev.to/onepoint/mettez-du-love-dans-votre-produit-le-mvp-est-il-depasse--1h87)
-- [База Данных 4 Практика](https://dev.to/erlan_akbar/baza-dannykh-4-praktika-10k2)
-- [Análisis Exhaustivo: Despliegue de Servidores MCP en Google Cloud Run](https://dev.to/angel_josevargasgutierr/analisis-exhaustivo-despliegue-de-servidores-mcp-en-google-cloud-run-1po1)
-- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
+- [5 Modern AI Web Development Platforms to Try in 2026](https://dev.to/joywinter90/5-modern-ai-web-development-platforms-to-try-in-2026-4dld)
+- [Reflections on the Djangonaut Space Journey 🦄](https://dev.to/_e6641d4181e2ba2945d1f/reflections-on-the-djangonaut-journey-ajn)
+- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
+- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
 <!-- BLOG-POST-LIST:END -->
 
