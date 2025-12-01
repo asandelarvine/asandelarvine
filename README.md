@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/bochie/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
-- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
-- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-2fm0)
-- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
+- [Migrating Azure Table Storage Across Organizations: A Practical Guide](https://dev.to/techwithhari/migrating-azure-table-storage-across-organizations-a-practical-guide-5gph)
+- [AWS Terraform Meta Arguments | Count, depends_on, for_each](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-meta-arguments-count-dependson-foreach-19nh)
+- [Smart_Store: Triple-Lock Validation for Secure Data Imports](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
 <!-- BLOG-POST-LIST:END -->
 
