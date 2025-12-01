@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building Your First MCP Server: A Step-by-Step Guide](https://dev.to/sebastianfuentesavalos/-building-your-first-mcp-server-a-step-by-step-guide-41j4)
-- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
-- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
-- [NestJS Dependency Injection: Why Your Services Won&#39;t Inject &lpar;And How to Fix It Properly&rpar;](https://dev.to/adamthedeveloper/nestjs-dependency-injection-why-your-services-wont-inject-and-how-to-fix-it-properly-3phf)
+- [How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors &amp; Builders](https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd)
+- [Why Everyday Smart Devices &lpar;Yes — Even a Toothbrush&rpar; Matter in Web3 &amp; DePIN](https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4)
+- [Infrastructure as a Service: The Backbone of Modern Cloud Computing](https://dev.to/khushi_jitani_ca127abdedd/infrastructure-as-a-service-the-backbone-of-modern-cloud-computing-3ig2)
+- [The Rise of Predictive UX: How Data Forecasts User Behavior Before It Happens](https://dev.to/millipixels1/the-rise-of-predictive-ux-how-data-forecasts-user-behavior-before-it-happens-2fg5)
 <!-- BLOG-POST-LIST:END -->
 
