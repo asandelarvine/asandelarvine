@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
-- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
-- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
-- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
+- [Manage revisions in Azure Container Apps](https://dev.to/lotanna_obianefo/manage-revisions-in-azure-container-apps-5938)
+- [Every startup claims they’re AI-enabled. Every tool claims intelligence. Every founder claims differentiation.
+
+But here’s the truth:
+
+Most founders have no idea what “AI-enabled” actually means.](https://dev.to/jaideepparashar/every-startup-claims-theyre-ai-enabled-every-tool-claims-intelligence-every-founder-claims-39ie)
+- [How to Track Amazon Competitors: A Practical Guide to Winning With Store Monitoring](https://dev.to/loopsthings/how-to-track-amazon-competitors-a-practical-guide-to-winning-with-store-monitoring-32bf)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1nal)
 <!-- BLOG-POST-LIST:END -->
 
