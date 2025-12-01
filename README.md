@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Azure Table Storage Across Organizations: A Practical Guide](https://dev.to/techwithhari/migrating-azure-table-storage-across-organizations-a-practical-guide-5gph)
-- [AWS Terraform Meta Arguments | Count, depends_on, for_each](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-meta-arguments-count-dependson-foreach-19nh)
-- [Smart_Store: Triple-Lock Validation for Secure Data Imports](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761)
-- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
+- [Design and Simulate System Architecture before building](https://dev.to/joshua_fe9e97108ad35e33e7/design-and-simulate-system-architecture-before-building-2od7)
+- [The Velocity Trap: Why Your AI Productivity Gains Are an Illusion](https://dev.to/cleberdelima/the-velocity-trap-why-your-ai-productivity-gains-are-an-illusion-o6o)
+- [Day 1 — The Red Bear Inn: Beginning the Security Advent &lpar;Defense in Depth&rpar;](https://dev.to/aerabi/day-1-the-red-bear-inn-beginning-the-security-advent-defense-in-depth-35c7)
+- [How AI Is Changing the Way Developers Work &lpar;And Why I Built Code Tracker AI&rpar;](https://dev.to/monahidalgo/how-ai-is-changing-the-way-developers-work-and-why-i-built-code-tracker-ai-2gae)
 <!-- BLOG-POST-LIST:END -->
 
