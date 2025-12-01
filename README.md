@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI-Driven Search Experience with Meilisearch and Sevalla](https://dev.to/manishmshiva/how-to-build-an-ai-driven-search-experience-with-meilisearch-and-sevalla-2hmo)
-- [React&#39;s Render Pipeline: A Deep Dive From JSX to the Screen](https://dev.to/curry/reacts-render-pipeline-a-deep-dive-from-jsx-to-the-screen-e2k)
-- [I made a energy recovery game](https://dev.to/lovefoopants/i-made-a-energy-recovery-game-3c9b)
-- [Killing the Stochastic Parrot: I Built Accurate Cognitive AI Search](https://dev.to/iantepoot/killing-the-stochastic-parrot-i-built-accurate-cognitive-ai-search-3gh1)
+- [From Blender-MCP to 3D-Agent: The Evolution of AI-Powered Blender Modeling](https://dev.to/glglgl/from-blender-mcp-to-3d-agent-the-evolution-of-ai-powered-blender-modeling-1m7d)
+- [The Missing Dimension in Neuroplasticity Theory](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-missing-dimension-in-neuroplasticity-theory-5bp4)
+- [🚀 Build a Remote MCP Server That Connects to Any MCP Client &lpar;Claude, VSCode &amp; More&rpar;](https://dev.to/wsalas651/build-a-remote-mcp-server-that-connects-to-any-mcp-client-claude-vscode-more-3i9d)
+- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
 <!-- BLOG-POST-LIST:END -->
 
