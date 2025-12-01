@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix +1-&lpar;804&rpar;-985-1002 Quickbooks Error 1612-Fast Support](https://dev.to/j9cdgwrxwu/how-to-fix-1-804-985-1002-quickbooks-error-1612-fast-support-3fp7)
-- [👻 From Coffins to Code: Building a Spooky Study Dashboard in &lt;8 Hrs with Kiro&#39;s Dark Magic 🪄](https://dev.to/kirodotdev/from-coffins-to-code-building-a-spooky-study-dashboard-in-8-hrs-with-kiros-dark-magic-eno)
-- [🔐The Secret World of APIs: How Apps Communicate Behind the Scenes](https://dev.to/sanskruti_sugandhi/the-secret-world-of-apis-how-apps-communicate-behind-the-scenes-3dpa)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-17c4)
+- [What is Web3 in Simple Terms](https://dev.to/obafemi_ogunmokun_df70d91/what-is-web3-in-simple-terms-449l)
+- [Maximize Your AI Conversations: Monetization Tactics for Developers](https://dev.to/monetzly/maximize-your-ai-conversations-monetization-tactics-for-developers-1806)
+- [Understanding GlassEffectContainer in iOS 26](https://dev.to/arshtechpro/understanding-glasseffectcontainer-in-ios-26-2n8p)
+- [Keypad Conundrum](https://dev.to/rmion/keypad-conundrum-39hl)
 <!-- BLOG-POST-LIST:END -->
 
