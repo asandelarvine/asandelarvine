@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design and Simulate System Architecture before building](https://dev.to/joshua_fe9e97108ad35e33e7/design-and-simulate-system-architecture-before-building-2od7)
-- [The Velocity Trap: Why Your AI Productivity Gains Are an Illusion](https://dev.to/cleberdelima/the-velocity-trap-why-your-ai-productivity-gains-are-an-illusion-o6o)
-- [Day 1 — The Red Bear Inn: Beginning the Security Advent &lpar;Defense in Depth&rpar;](https://dev.to/aerabi/day-1-the-red-bear-inn-beginning-the-security-advent-defense-in-depth-35c7)
-- [How AI Is Changing the Way Developers Work &lpar;And Why I Built Code Tracker AI&rpar;](https://dev.to/monahidalgo/how-ai-is-changing-the-way-developers-work-and-why-i-built-code-tracker-ai-2gae)
+- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
+- [React State Custom: Comprehensive Review](https://dev.to/vothanhdat/react-state-custom-comprehensive-review-5geb)
+- [Restoring a Lost Datafile from Standby Using RMAN](https://dev.to/vahidusefzadeh/restoring-a-lost-datafile-from-standby-using-rman-35a5)
+- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
 <!-- BLOG-POST-LIST:END -->
 
