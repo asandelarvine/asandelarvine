@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Blender-MCP to 3D-Agent: The Evolution of AI-Powered Blender Modeling](https://dev.to/glglgl/from-blender-mcp-to-3d-agent-the-evolution-of-ai-powered-blender-modeling-1m7d)
-- [The Missing Dimension in Neuroplasticity Theory](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-missing-dimension-in-neuroplasticity-theory-5bp4)
-- [🚀 Build a Remote MCP Server That Connects to Any MCP Client &lpar;Claude, VSCode &amp; More&rpar;](https://dev.to/wsalas651/build-a-remote-mcp-server-that-connects-to-any-mcp-client-claude-vscode-more-3i9d)
-- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
+- [Terraform Meta-Arguments](https://dev.to/anil_kumar_noolu/terraform-meta-arguments-187f)
+- [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
+- [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
+- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
 <!-- BLOG-POST-LIST:END -->
 
