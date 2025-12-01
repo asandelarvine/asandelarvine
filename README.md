@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma 7: They Ditched Rust and Everything Got Faster](https://dev.to/web_dev-usman/prisma-7-they-ditched-rust-and-everything-got-faster-1pdi)
-- [Great Article for Allure Report Alternative](https://dev.to/robort_smith/great-article-for-allure-report-alternative-3gf2)
-- [[Boost]](https://dev.to/robort_smith/-1215)
-- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
+- [Mettez du Love dans votre produit, le MVP est-il dépassé ?](https://dev.to/onepoint/mettez-du-love-dans-votre-produit-le-mvp-est-il-depasse--1h87)
+- [База Данных 4 Практика](https://dev.to/erlan_akbar/baza-dannykh-4-praktika-10k2)
+- [Análisis Exhaustivo: Despliegue de Servidores MCP en Google Cloud Run](https://dev.to/angel_josevargasgutierr/analisis-exhaustivo-despliegue-de-servidores-mcp-en-google-cloud-run-1po1)
+- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
 <!-- BLOG-POST-LIST:END -->
 
