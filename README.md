@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Solana Really Running Out of Memory?](https://dev.to/soltap_io/is-solana-really-running-out-of-memory-23il)
-- [🔭 Observability Practices: The 3 Pillars with a Node.js + OpenTelemetry Example](https://dev.to/wsalas651/observability-practices-the-3-pillars-with-a-nodejs-opentelemetry-example-11k7)
-- [JavaScript Introduction.](https://dev.to/mohamed_ajmal_222/javascript-introduction-2gk1)
-- [PyTorch in Practice: Engineering a Custom CNN for Hair Texture Classification](https://dev.to/austin_deyan_6c9b2445aed6/pytorch-in-practice-engineering-a-custom-cnn-for-hair-texture-classification-1b37)
+- [How to Fix +1-&lpar;804&rpar;-985-1002 Quickbooks Error 1612-Fast Support](https://dev.to/j9cdgwrxwu/how-to-fix-1-804-985-1002-quickbooks-error-1612-fast-support-3fp7)
+- [👻 From Coffins to Code: Building a Spooky Study Dashboard in &lt;8 Hrs with Kiro&#39;s Dark Magic 🪄](https://dev.to/kirodotdev/from-coffins-to-code-building-a-spooky-study-dashboard-in-8-hrs-with-kiros-dark-magic-eno)
+- [🔐The Secret World of APIs: How Apps Communicate Behind the Scenes](https://dev.to/sanskruti_sugandhi/the-secret-world-of-apis-how-apps-communicate-behind-the-scenes-3dpa)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-17c4)
 <!-- BLOG-POST-LIST:END -->
 
