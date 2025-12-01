@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Modern AI Web Development Platforms to Try in 2026](https://dev.to/joywinter90/5-modern-ai-web-development-platforms-to-try-in-2026-4dld)
-- [Reflections on the Djangonaut Space Journey 🦄](https://dev.to/_e6641d4181e2ba2945d1f/reflections-on-the-djangonaut-journey-ajn)
-- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
-- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
+- [When Your Country&#39;s Currency Loses 70% in Two Years, Bitcoin Stops Looking Risky](https://dev.to/dhis_is_jj/when-your-countrys-currency-loses-70-in-two-years-bitcoin-stops-looking-risky-3jlf)
+- [Simplifying basic &lpar;genAI&rpar; web app deployment with serverless](https://dev.to/wescpy/simplifying-basic-genai-web-app-deployment-with-serverless-3cc5)
+- [Fixing Claude Code&#39;s Amnesia](https://dev.to/arpitnath/fixing-claude-codes-amnesia-5g9f)
+- [Build Custom Logistics Management Software With AI](https://dev.to/nickpe/build-custom-logistics-management-software-with-ai-5baf)
 <!-- BLOG-POST-LIST:END -->
 
