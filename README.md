@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors &amp; Builders](https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd)
-- [Why Everyday Smart Devices &lpar;Yes — Even a Toothbrush&rpar; Matter in Web3 &amp; DePIN](https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4)
-- [Infrastructure as a Service: The Backbone of Modern Cloud Computing](https://dev.to/khushi_jitani_ca127abdedd/infrastructure-as-a-service-the-backbone-of-modern-cloud-computing-3ig2)
-- [The Rise of Predictive UX: How Data Forecasts User Behavior Before It Happens](https://dev.to/millipixels1/the-rise-of-predictive-ux-how-data-forecasts-user-behavior-before-it-happens-2fg5)
+- [Prisma 7: They Ditched Rust and Everything Got Faster](https://dev.to/web_dev-usman/prisma-7-they-ditched-rust-and-everything-got-faster-1pdi)
+- [Great Article for Allure Report Alternative](https://dev.to/robort_smith/great-article-for-allure-report-alternative-3gf2)
+- [[Boost]](https://dev.to/robort_smith/-1215)
+- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
 <!-- BLOG-POST-LIST:END -->
 
