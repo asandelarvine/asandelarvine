@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage revisions in Azure Container Apps](https://dev.to/lotanna_obianefo/manage-revisions-in-azure-container-apps-5938)
-- [Every startup claims they’re AI-enabled. Every tool claims intelligence. Every founder claims differentiation.
-
-But here’s the truth:
-
-Most founders have no idea what “AI-enabled” actually means.](https://dev.to/jaideepparashar/every-startup-claims-theyre-ai-enabled-every-tool-claims-intelligence-every-founder-claims-39ie)
-- [How to Track Amazon Competitors: A Practical Guide to Winning With Store Monitoring](https://dev.to/loopsthings/how-to-track-amazon-competitors-a-practical-guide-to-winning-with-store-monitoring-32bf)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1nal)
+- [The Next-Generation Logic Orchestration Engine NopTaskFlow Built from Scratch](https://dev.to/canonical/the-next-generation-logic-orchestration-engine-noptaskflow-built-from-scratch-4755)
+- [The Secret Life of Go: Structs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-structs-3aj9)
+- [HarmonyOS Next: How To Use RichEditor](https://dev.to/harmonyos/harmonyos-next-how-to-use-richeditor-57jg)
+- [Deploy SafeLine WAF in 10 Minutes: A DevOps-Friendly Quick Start](https://dev.to/arina_cholee/deploy-safeline-waf-in-10-minutes-a-devops-friendly-quick-start-1nnn)
 <!-- BLOG-POST-LIST:END -->
 
