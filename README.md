@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
-- [React State Custom: Comprehensive Review](https://dev.to/vothanhdat/react-state-custom-comprehensive-review-5geb)
-- [Restoring a Lost Datafile from Standby Using RMAN](https://dev.to/vahidusefzadeh/restoring-a-lost-datafile-from-standby-using-rman-35a5)
-- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
+- [How to Build an AI-Driven Search Experience with Meilisearch and Sevalla](https://dev.to/manishmshiva/how-to-build-an-ai-driven-search-experience-with-meilisearch-and-sevalla-2hmo)
+- [React&#39;s Render Pipeline: A Deep Dive From JSX to the Screen](https://dev.to/curry/reacts-render-pipeline-a-deep-dive-from-jsx-to-the-screen-e2k)
+- [I made a energy recovery game](https://dev.to/lovefoopants/i-made-a-energy-recovery-game-3c9b)
+- [Killing the Stochastic Parrot: I Built Accurate Cognitive AI Search](https://dev.to/iantepoot/killing-the-stochastic-parrot-i-built-accurate-cognitive-ai-search-3gh1)
 <!-- BLOG-POST-LIST:END -->
 
