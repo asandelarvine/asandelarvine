@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Horror Typing Game Where Blinking Kills You](https://dev.to/shahen0x/building-a-horror-typing-game-where-blinking-kills-you-229l)
-- [The Future of Software Development Isn&#39;t AI — It&#39;s Integration](https://dev.to/toplinesoftsys/the-future-of-software-development-isnt-ai-its-integration-1olk)
-- [The Equalizer and the Integrator: AI, Cybersecurity, and the Human Insight Imperative](https://dev.to/narnaiezzsshaa/the-equalizer-and-the-integrator-ai-cybersecurity-and-the-human-insight-imperative-2o49)
-- [Micro-Interactions in UI: Small Details That Transform UX &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/micro-interactions-in-ui-small-details-that-transform-ux-2025-guide-3nkk)
+- [HexForge: The Spooky Coding Education Game for the Kiroween](https://dev.to/sachin_gupta_7fa2ec5ba28f/hexforge-the-spooky-coding-education-game-for-the-kiroween-1gb6)
+- [As the Machine Rises – The Human Mind Becomes the Source of Direction](https://dev.to/miller-28/as-the-machine-rises-the-human-mind-becomes-the-source-of-direction-1a62)
+- [How I decided to revive my project that was stale for 5 years...](https://dev.to/igrekov/how-i-decided-to-revive-my-project-that-was-stale-for-5-years-fj0)
+- [The Quiet Digital Shift Reshaping How We Learn and Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-quiet-digital-shift-reshaping-how-we-learn-and-work-nkn)
 <!-- BLOG-POST-LIST:END -->
 
