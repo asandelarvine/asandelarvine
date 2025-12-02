@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
-- [From 5 Seconds to 0.7 Seconds: How I Built a Production-Ready Voice AI Agent &lpar;And Cut Latency by 7x&rpar;](https://dev.to/sidharth_grover_0c1bbe66d/from-5-seconds-to-07-seconds-how-i-built-a-production-ready-voice-ai-agent-and-cut-latency-by-7x-52ig)
-- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
+- [Day 60 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-60-of-100-days-dsa-coding-challenge-22i7)
+- [Thinking Like a Diffusion Model](https://dev.to/eddieajau/thinking-like-a-diffusion-model-5f3b)
+- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
+- [ChatGPT Opens to Erotic Conversations](https://dev.to/ndabene/chatgpt-opens-to-erotic-conversations-2dcj)
 <!-- BLOG-POST-LIST:END -->
 
