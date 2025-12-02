@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building &quot;6 Degrees of Kevin Bacon&quot; with a Graph-Native Backend: Why I Created FLXBL](https://dev.to/flxbl/building-6-degrees-of-kevin-bacon-with-a-graph-native-backend-why-i-created-flxbl-jbj)
-- [The Limits of Spec-Driven Development](https://dev.to/chrisywz/the-limits-of-spec-driven-development-3b16)
-- [Galactic Genesis: Can Neural Nets Unravel the Secrets of Galaxy Formation?](https://dev.to/arvind_sundararajan/galactic-genesis-can-neural-nets-unravel-the-secrets-of-galaxy-formation-23o1)
-- [Understanding Artificial Intelligence: Agentic AI vs LLM](https://dev.to/conquer_vince_0b588be5f29/understanding-artificial-intelligence-agentic-ai-vs-llm-23m1)
+- [Setup Expo Build Environment on WSL2 &lpar;Without Android Studio nor Paying Expo Credits&rpar;](https://dev.to/jervi/i-built-a-complete-expo-build-environment-on-wsl2-without-android-studio-nor-paying-expo-credits-4921)
+- [How I Built a Semantic Search Engine with CocoIndex](https://dev.to/cocoindex/how-i-built-a-semantic-search-engine-with-cocoindex-5ak9)
+- [Game development with SpecKit, Rust and Bevy](https://dev.to/ldrscke/game-development-with-speckit-rust-and-bevy-86p)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-2k36)
 <!-- BLOG-POST-LIST:END -->
 
