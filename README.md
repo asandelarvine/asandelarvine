@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
-- [Deploy SafeLine WAF with Docker Compose: A Step-by-Step Guide](https://dev.to/arina_cholee/deploy-safeline-waf-with-docker-compose-a-step-by-step-guide-1fk0)
-- [5 Physics Systems You Can Build in Scratch &lpar;With Working Code&rpar;](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k)
-- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk)
+- [テストエンジニアが知っておくべきRedis基礎 現場で使えるコマンドと検証方法](https://dev.to/nakamura_takuya/tesutoenziniagazhi-tuteokubekiredisji-chu-xian-chang-deshi-erukomandotojian-zheng-fang-fa-2hea)
+- [When your Next.js Site Reports: Title tag Missing](https://dev.to/mxro/when-your-nextjs-site-reports-title-tag-missing-1oo9)
+- [Run a MySQL container with persistent storage using Docker volumes](https://dev.to/deborahemeni1/run-a-mysql-container-with-persistent-storage-using-docker-volumes-49ma)
+- [Legit Ways to Enjoy Canva Pro Without Paying](https://dev.to/shiva_c74698f901616e10e57/legit-ways-to-enjoy-canva-pro-without-paying-4fa7)
 <!-- BLOG-POST-LIST:END -->
 
