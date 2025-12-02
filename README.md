@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More](https://dev.to/nitinfab/7-nano-banana-pro-workflows-that-actually-save-you-hours-as-a-developer-and-more-17bj)
-- [The Hidden Dockerfile Mistakes That Waste Hours &lpar;Thinking of Building a Tool for This&rpar;](https://dev.to/waruni_manike_30f5e1b12d9/the-hidden-dockerfile-mistakes-that-waste-hours-thinking-of-building-a-tool-for-this-2h5f)
-- [I&#39;m 19 and building ZK identity for Nostr. Looking for co-founders.](https://dev.to/o3ryan/im-19-and-building-zk-identity-for-nostr-looking-for-co-founders-4k1e)
-- [The Code Review Killer: Ditch Manual Checks with this n8n &amp; GPT Automation Guide](https://dev.to/ashikvarma11/the-code-review-killer-ditch-manual-checks-with-this-n8n-gpt-automation-guide-5g1a)
+- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
+- [From 5 Seconds to 0.7 Seconds: How I Built a Production-Ready Voice AI Agent &lpar;And Cut Latency by 7x&rpar;](https://dev.to/sidharth_grover_0c1bbe66d/from-5-seconds-to-07-seconds-how-i-built-a-production-ready-voice-ai-agent-and-cut-latency-by-7x-52ig)
+- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
 <!-- BLOG-POST-LIST:END -->
 
