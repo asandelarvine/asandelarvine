@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [テストエンジニアが知っておくべきRedis基礎 現場で使えるコマンドと検証方法](https://dev.to/nakamura_takuya/tesutoenziniagazhi-tuteokubekiredisji-chu-xian-chang-deshi-erukomandotojian-zheng-fang-fa-2hea)
-- [When your Next.js Site Reports: Title tag Missing](https://dev.to/mxro/when-your-nextjs-site-reports-title-tag-missing-1oo9)
-- [Run a MySQL container with persistent storage using Docker volumes](https://dev.to/deborahemeni1/run-a-mysql-container-with-persistent-storage-using-docker-volumes-49ma)
-- [Legit Ways to Enjoy Canva Pro Without Paying](https://dev.to/shiva_c74698f901616e10e57/legit-ways-to-enjoy-canva-pro-without-paying-4fa7)
+- [I Skipped My Birthday to Give Go Its First Real ML Framework](https://dev.to/kolkov/i-skipped-my-birthday-to-give-go-its-first-real-ml-framework-13gj)
+- [Advent of Cyber 2025: Day 1 Writeup &amp; SideQuest | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-1-writeup-sidequest-tryhackme-2l34)
+- [I&#39;m Building a LinkedIn Alternative for Developers &lpar;And Sharing Everything I Learn&rpar;](https://dev.to/tomwebwalker/im-building-a-linkedin-alternative-for-developers-and-sharing-everything-i-learn-n4o)
+- [Introduction to Deep Learning: A Complete Beginner’s Guide](https://dev.to/techkene/introduction-to-deep-learning-a-complete-beginners-guide-4f45)
 <!-- BLOG-POST-LIST:END -->
 
