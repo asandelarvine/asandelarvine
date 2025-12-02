@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
-- [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
-- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
-- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
+- [Managing Complex State: From Dynamic Depth Charts to Tactical Game Grids](https://dev.to/ffteamnames/managing-complex-state-from-dynamic-depth-charts-to-tactical-game-grids-1n56)
+- [Mastering PowerPoint Lists: A Spire.Presentation for Java Tutorial](https://dev.to/lu_liu_e3fc806354d9a952b7/mastering-powerpoint-lists-a-spirepresentation-for-java-tutorial-1423)
+- [Dubai vs. Abu Dhabi: Which City is Better for New Year&#39;s Eve?](https://dev.to/chenlanlan/dubai-vs-abu-dhabi-which-city-is-better-for-new-years-eve-29k9)
+- [Why We Don&#39;t Use Browser Extensions: The Clickjacking Problem](https://dev.to/sourabh_katti_f87f3875e01/why-we-dont-use-browser-extensions-the-clickjacking-problem-379i)
 <!-- BLOG-POST-LIST:END -->
 
