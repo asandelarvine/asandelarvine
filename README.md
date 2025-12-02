@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do We Need Signals?](https://dev.to/luciano0322/why-do-we-need-signals-716)
-- [From PyInstaller to Nuitka: Convert Python to EXE Without False Positives](https://dev.to/weisshufer/from-pyinstaller-to-nuitka-convert-python-to-exe-without-false-positives-19jf)
-- [The N+1 Query Problem: When Your Code Needs a Performance Review &lpar;Not a Hug&rpar;](https://dev.to/hotfixhero/the-n1-query-problem-when-your-code-needs-a-performance-review-not-a-hug-311g)
-- [Unlocking AI Potential with Open Models](https://dev.to/mabualzait/unlocking-ai-potential-with-open-models-kl6)
+- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
+- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
+- [Built InvoiceQuick with Vibe Coding to help solopreneurs and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/built-invoicequick-with-vibe-coding-to-help-solopreneurs-and-small-teams-create-and-send-invoices-3a7i)
+- [Architecture Decisions When You’re Asked to Build a Crypto Exchange](https://dev.to/budventure_technologies_5/architecture-decisions-when-youre-asked-to-build-a-crypto-exchange-2ilc)
 <!-- BLOG-POST-LIST:END -->
 
