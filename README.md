@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentgateway Review: A Feature-Rich New AI Gateway](https://dev.to/spacewander/agentgateway-review-a-feature-rich-new-ai-gateway-53lm)
-- [Cloud Cost Optimization for AI &amp; Data-Intensive Systems: Save While Scaling](https://dev.to/oleksii_samoilenko/cloud-cost-optimization-for-ai-data-intensive-systems-save-while-scaling-ofb)
-- [Transactional and Marketing Emails for AsanTyping.com](https://dev.to/danishyarkh/transactional-and-marketing-emails-for-asantypingcom-112i)
-- [Creating Autonomous AI Agents – A Practical Guide for Businesses](https://dev.to/harshada_75eaf5c6bf7a194a/creating-autonomous-ai-agents-a-practical-guide-for-businesses-384k)
+- [Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows](https://dev.to/doong_yee_644f8aa5907ed17/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h)
+- [Authenticating Users in Astro &amp; React Apps with Better Auth](https://dev.to/isnan__h/authenticating-users-in-astro-react-apps-with-better-auth-3loe)
+- [Security Holes in MCP Servers and How To Plug Them](https://dev.to/thenjdevopsguy/security-holes-in-mcp-servers-and-how-to-plug-them-d61)
+- [I Built an AI That Finds Every Article Similar to Your Text — Here’s How It Works](https://dev.to/stokry/i-built-an-ai-that-finds-every-article-similar-to-your-text-heres-how-it-works-bhb)
 <!-- BLOG-POST-LIST:END -->
 
