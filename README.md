@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows](https://dev.to/doong_yee_644f8aa5907ed17/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h)
-- [Authenticating Users in Astro &amp; React Apps with Better Auth](https://dev.to/isnan__h/authenticating-users-in-astro-react-apps-with-better-auth-3loe)
-- [Security Holes in MCP Servers and How To Plug Them](https://dev.to/thenjdevopsguy/security-holes-in-mcp-servers-and-how-to-plug-them-d61)
-- [I Built an AI That Finds Every Article Similar to Your Text — Here’s How It Works](https://dev.to/stokry/i-built-an-ai-that-finds-every-article-similar-to-your-text-heres-how-it-works-bhb)
+- [Comprehensive Guide to Load and Stress Testing Types with Locust Implementation](https://dev.to/mohsen_akbari_ebe53d7cbc2/comprehensive-guide-to-load-and-stress-testing-types-with-locust-implementation-40o6)
+- [HTTP/1.1 vs HTTP/2 vs HTTP/3 – Which One Are You Still Using in 2025?](https://dev.to/sreekanth_kuruba_91721e5d/http11-vs-http2-vs-http3-which-one-are-you-still-using-in-2025-4aah)
+- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
+- [HTML Invokers: The Coolest API You Aren’t Using Yet](https://dev.to/web_dev-usman/html-invokers-the-coolest-api-you-arent-using-yet-35nl)
 <!-- BLOG-POST-LIST:END -->
 
