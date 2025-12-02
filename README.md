@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 60 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-60-of-100-days-dsa-coding-challenge-22i7)
-- [Thinking Like a Diffusion Model](https://dev.to/eddieajau/thinking-like-a-diffusion-model-5f3b)
-- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
-- [ChatGPT Opens to Erotic Conversations](https://dev.to/ndabene/chatgpt-opens-to-erotic-conversations-2dcj)
+- [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
+- [Deploy SafeLine WAF with Docker Compose: A Step-by-Step Guide](https://dev.to/arina_cholee/deploy-safeline-waf-with-docker-compose-a-step-by-step-guide-1fk0)
+- [5 Physics Systems You Can Build in Scratch &lpar;With Working Code&rpar;](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k)
+- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk)
 <!-- BLOG-POST-LIST:END -->
 
