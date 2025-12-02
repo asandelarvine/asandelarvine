@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Как сделать и настроить свой VPN](https://dev.to/ikorut/kak-sdielat-i-nastroit-svoi-vpn-4ind)
-- [Anthropic Just Acquired Bun — And It Signals the Beginning of AI-Native Software Engineering](https://dev.to/axrisi/anthropic-just-acquired-bun-and-it-signals-the-beginning-of-ai-native-software-engineering-3cd9)
-- [Building a Dependency-Aware CRUD API with FastAPI and Topological Sorting with Kiro](https://dev.to/nayana-vinod/building-a-dependency-aware-crud-api-with-fastapi-and-topological-sorting-43lm)
-- [How I Built a Production-Ready SaaS in a Weekend &lpar;and Open-Sourced It&rpar;](https://dev.to/falk_maria_zeitsprung/how-i-built-a-production-ready-saas-in-a-weekend-and-open-sourced-it-2f66)
+- [I Thought I Knew npm… Until I Met npx: Intro to npx](https://dev.to/rijultp/i-thought-i-knew-npm-until-i-met-npx-intro-to-npx-354a)
+- [PAGI: ASGI For Perl, or the Spiritual Successor to Plack](https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9)
+- [The Ping Engine: Adaptive Focus + MindsEye State Cards](https://dev.to/peacebinflow/the-ping-engine-adaptive-focus-mindseye-state-cards-24fp)
+- [Advent of Code 2025 - December 2nd](https://dev.to/robvanderleek/advent-of-code-2025-december-2nd-2j08)
 <!-- BLOG-POST-LIST:END -->
 
