@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who&#39;s hiring — December 2025](https://dev.to/fmerian/whos-hiring-december-2025-1he2)
-- [Converting Figma Design To Next.js Code In Minutes](https://dev.to/crosspostr/converting-figma-design-to-nextjs-code-in-minutes-5607)
-- [Docker Image Compression: gzip vs zstd](https://dev.to/danielcristho/docker-image-compression-gzip-vs-zstd-4eod)
-- [AI Agents and context-aware permissions](https://dev.to/mathewpregasen/ai-agents-and-context-aware-permissions-1gii)
+- [Building a Horror Typing Game Where Blinking Kills You](https://dev.to/shahen0x/building-a-horror-typing-game-where-blinking-kills-you-229l)
+- [The Future of Software Development Isn&#39;t AI — It&#39;s Integration](https://dev.to/toplinesoftsys/the-future-of-software-development-isnt-ai-its-integration-1olk)
+- [The Equalizer and the Integrator: AI, Cybersecurity, and the Human Insight Imperative](https://dev.to/narnaiezzsshaa/the-equalizer-and-the-integrator-ai-cybersecurity-and-the-human-insight-imperative-2o49)
+- [Micro-Interactions in UI: Small Details That Transform UX &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/micro-interactions-in-ui-small-details-that-transform-ux-2025-guide-3nkk)
 <!-- BLOG-POST-LIST:END -->
 
