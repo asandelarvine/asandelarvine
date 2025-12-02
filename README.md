@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought I Knew npm… Until I Met npx: Intro to npx](https://dev.to/rijultp/i-thought-i-knew-npm-until-i-met-npx-intro-to-npx-354a)
-- [PAGI: ASGI For Perl, or the Spiritual Successor to Plack](https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9)
-- [The Ping Engine: Adaptive Focus + MindsEye State Cards](https://dev.to/peacebinflow/the-ping-engine-adaptive-focus-mindseye-state-cards-24fp)
-- [Advent of Code 2025 - December 2nd](https://dev.to/robvanderleek/advent-of-code-2025-december-2nd-2j08)
+- [Building &quot;6 Degrees of Kevin Bacon&quot; with a Graph-Native Backend: Why I Created FLXBL](https://dev.to/flxbl/building-6-degrees-of-kevin-bacon-with-a-graph-native-backend-why-i-created-flxbl-jbj)
+- [The Limits of Spec-Driven Development](https://dev.to/chrisywz/the-limits-of-spec-driven-development-3b16)
+- [Galactic Genesis: Can Neural Nets Unravel the Secrets of Galaxy Formation?](https://dev.to/arvind_sundararajan/galactic-genesis-can-neural-nets-unravel-the-secrets-of-galaxy-formation-23o1)
+- [Understanding Artificial Intelligence: Agentic AI vs LLM](https://dev.to/conquer_vince_0b588be5f29/understanding-artificial-intelligence-agentic-ai-vs-llm-23m1)
 <!-- BLOG-POST-LIST:END -->
 
