@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HexForge: The Spooky Coding Education Game for the Kiroween](https://dev.to/sachin_gupta_7fa2ec5ba28f/hexforge-the-spooky-coding-education-game-for-the-kiroween-1gb6)
-- [As the Machine Rises – The Human Mind Becomes the Source of Direction](https://dev.to/miller-28/as-the-machine-rises-the-human-mind-becomes-the-source-of-direction-1a62)
-- [How I decided to revive my project that was stale for 5 years...](https://dev.to/igrekov/how-i-decided-to-revive-my-project-that-was-stale-for-5-years-fj0)
-- [The Quiet Digital Shift Reshaping How We Learn and Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-quiet-digital-shift-reshaping-how-we-learn-and-work-nkn)
+- [CHW Monthly Activity Aggregation: Turning Visit Logs into Insight](https://dev.to/oliver_samuel_028c6f65ad6/chw-monthly-activity-aggregation-turning-visit-logs-into-insight-4jm5)
+- [Building My First RAG System in One Week with Kiro IDE 🎃](https://dev.to/syed_shahnizam_4d470b6e21/building-my-first-rag-system-in-one-week-with-kiro-ide-19ee)
+- [Your First Mini Terraform Project: Install, Configure, and Deploy on AWS](https://dev.to/krisha_arya_55/your-first-mini-terraform-project-install-configure-and-deploy-on-aws-10j2)
+- [-&gt;&gt; Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0)
 <!-- BLOG-POST-LIST:END -->
 
