@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Amazon Q Custom Agents: Concepts, Architecture &amp; Inner Workings](https://dev.to/aws-builders/understanding-amazon-q-custom-agents-concepts-architecture-inner-workings-362)
-- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
-- [The Game Math Behind a Candy Craze Game: Probability, Cascades, and Level Pacing in HTML5 Puzzlers](https://dev.to/gamh5games/the-game-math-behind-a-candy-craze-game-probability-cascades-and-level-pacing-in-html5-puzzlers-32k6)
-- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
+- [Who&#39;s hiring — December 2025](https://dev.to/fmerian/whos-hiring-december-2025-1he2)
+- [Converting Figma Design To Next.js Code In Minutes](https://dev.to/crosspostr/converting-figma-design-to-nextjs-code-in-minutes-5607)
+- [Docker Image Compression: gzip vs zstd](https://dev.to/danielcristho/docker-image-compression-gzip-vs-zstd-4eod)
+- [AI Agents and context-aware permissions](https://dev.to/mathewpregasen/ai-agents-and-context-aware-permissions-1gii)
 <!-- BLOG-POST-LIST:END -->
 
