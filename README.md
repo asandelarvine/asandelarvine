@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Complex State: From Dynamic Depth Charts to Tactical Game Grids](https://dev.to/ffteamnames/managing-complex-state-from-dynamic-depth-charts-to-tactical-game-grids-1n56)
-- [Mastering PowerPoint Lists: A Spire.Presentation for Java Tutorial](https://dev.to/lu_liu_e3fc806354d9a952b7/mastering-powerpoint-lists-a-spirepresentation-for-java-tutorial-1423)
-- [Dubai vs. Abu Dhabi: Which City is Better for New Year&#39;s Eve?](https://dev.to/chenlanlan/dubai-vs-abu-dhabi-which-city-is-better-for-new-years-eve-29k9)
-- [Why We Don&#39;t Use Browser Extensions: The Clickjacking Problem](https://dev.to/sourabh_katti_f87f3875e01/why-we-dont-use-browser-extensions-the-clickjacking-problem-379i)
+- [7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More](https://dev.to/nitinfab/7-nano-banana-pro-workflows-that-actually-save-you-hours-as-a-developer-and-more-17bj)
+- [The Hidden Dockerfile Mistakes That Waste Hours &lpar;Thinking of Building a Tool for This&rpar;](https://dev.to/waruni_manike_30f5e1b12d9/the-hidden-dockerfile-mistakes-that-waste-hours-thinking-of-building-a-tool-for-this-2h5f)
+- [I&#39;m 19 and building ZK identity for Nostr. Looking for co-founders.](https://dev.to/o3ryan/im-19-and-building-zk-identity-for-nostr-looking-for-co-founders-4k1e)
+- [The Code Review Killer: Ditch Manual Checks with this n8n &amp; GPT Automation Guide](https://dev.to/ashikvarma11/the-code-review-killer-ditch-manual-checks-with-this-n8n-gpt-automation-guide-5g1a)
 <!-- BLOG-POST-LIST:END -->
 
