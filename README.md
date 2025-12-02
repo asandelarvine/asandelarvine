@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to Load and Stress Testing Types with Locust Implementation](https://dev.to/mohsen_akbari_ebe53d7cbc2/comprehensive-guide-to-load-and-stress-testing-types-with-locust-implementation-40o6)
-- [HTTP/1.1 vs HTTP/2 vs HTTP/3 – Which One Are You Still Using in 2025?](https://dev.to/sreekanth_kuruba_91721e5d/http11-vs-http2-vs-http3-which-one-are-you-still-using-in-2025-4aah)
-- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
-- [HTML Invokers: The Coolest API You Aren’t Using Yet](https://dev.to/web_dev-usman/html-invokers-the-coolest-api-you-arent-using-yet-35nl)
+- [Understanding Amazon Q Custom Agents: Concepts, Architecture &amp; Inner Workings](https://dev.to/aws-builders/understanding-amazon-q-custom-agents-concepts-architecture-inner-workings-362)
+- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
+- [The Game Math Behind a Candy Craze Game: Probability, Cascades, and Level Pacing in HTML5 Puzzlers](https://dev.to/gamh5games/the-game-math-behind-a-candy-craze-game-probability-cascades-and-level-pacing-in-html5-puzzlers-32k6)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
 <!-- BLOG-POST-LIST:END -->
 
