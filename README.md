@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Skipped My Birthday to Give Go Its First Real ML Framework](https://dev.to/kolkov/i-skipped-my-birthday-to-give-go-its-first-real-ml-framework-13gj)
-- [Advent of Cyber 2025: Day 1 Writeup &amp; SideQuest | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-1-writeup-sidequest-tryhackme-2l34)
-- [I&#39;m Building a LinkedIn Alternative for Developers &lpar;And Sharing Everything I Learn&rpar;](https://dev.to/tomwebwalker/im-building-a-linkedin-alternative-for-developers-and-sharing-everything-i-learn-n4o)
-- [Introduction to Deep Learning: A Complete Beginner’s Guide](https://dev.to/techkene/introduction-to-deep-learning-a-complete-beginners-guide-4f45)
+- [Why Do We Need Signals?](https://dev.to/luciano0322/why-do-we-need-signals-716)
+- [From PyInstaller to Nuitka: Convert Python to EXE Without False Positives](https://dev.to/weisshufer/from-pyinstaller-to-nuitka-convert-python-to-exe-without-false-positives-19jf)
+- [The N+1 Query Problem: When Your Code Needs a Performance Review &lpar;Not a Hug&rpar;](https://dev.to/hotfixhero/the-n1-query-problem-when-your-code-needs-a-performance-review-not-a-hug-311g)
+- [Unlocking AI Potential with Open Models](https://dev.to/mabualzait/unlocking-ai-potential-with-open-models-kl6)
 <!-- BLOG-POST-LIST:END -->
 
