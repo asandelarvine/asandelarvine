@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
-- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
-- [Built InvoiceQuick with Vibe Coding to help solopreneurs and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/built-invoicequick-with-vibe-coding-to-help-solopreneurs-and-small-teams-create-and-send-invoices-3a7i)
-- [Architecture Decisions When You’re Asked to Build a Crypto Exchange](https://dev.to/budventure_technologies_5/architecture-decisions-when-youre-asked-to-build-a-crypto-exchange-2ilc)
+- [Agentgateway Review: A Feature-Rich New AI Gateway](https://dev.to/spacewander/agentgateway-review-a-feature-rich-new-ai-gateway-53lm)
+- [Cloud Cost Optimization for AI &amp; Data-Intensive Systems: Save While Scaling](https://dev.to/oleksii_samoilenko/cloud-cost-optimization-for-ai-data-intensive-systems-save-while-scaling-ofb)
+- [Transactional and Marketing Emails for AsanTyping.com](https://dev.to/danishyarkh/transactional-and-marketing-emails-for-asantypingcom-112i)
+- [Creating Autonomous AI Agents – A Practical Guide for Businesses](https://dev.to/harshada_75eaf5c6bf7a194a/creating-autonomous-ai-agents-a-practical-guide-for-businesses-384k)
 <!-- BLOG-POST-LIST:END -->
 
