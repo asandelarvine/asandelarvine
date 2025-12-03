@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
-- [Tenis On Cloud: Why These Shoes Are Leading Comfort and Performance in 2025](https://dev.to/oncloud/tenis-on-cloud-why-these-shoes-are-leading-comfort-and-performance-in-2025-4pfl)
-- [Tainting the kernel](https://dev.to/adam_weber_6dc0d5bd752326/tainting-the-kernel-2cgh)
-- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
+- [**Challenge:** &quot;Evaluating the Cognitive Limitations of Larg](https://dev.to/drcarlosruizviquez/challenge-evaluating-the-cognitive-limitations-of-larg-41a0)
+- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
+- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
+- [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
 <!-- BLOG-POST-LIST:END -->
 
