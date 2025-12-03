@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building LLM Tools That Don&#39;t Drown in Context: Lazy Traversal for Unknown Structures](https://dev.to/johnonline35/building-llm-tools-that-dont-drown-in-context-lazy-traversal-for-unknown-structures-4kla)
-- [Testing Legacy Systems with AI: Automated QA, Regression &amp; Edge Cases](https://dev.to/himani_0b4c9fc3c2ab3a1700/testing-legacy-systems-with-ai-automated-qa-regression-edge-cases-j1l)
-- [Data Analyst Checklist](https://dev.to/ssekabirarobertsims/data-analyst-checklist-5589)
-- [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
+- [How I Made an Electron Window Draggable and Kept Mouse Enter/Leave Detection](https://dev.to/saidfatah/how-i-made-an-electron-window-draggable-and-kept-mouse-enterleave-detection-1c0h)
+- [🌐 Setting Up Your Azure Environment: A Step-by-Step Walkthrough](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-your-azure-environment-a-step-by-step-walkthrough-43dc)
+- [FingerGo Typing Trainer &lpar;don&#39;t hunt, type!&rpar;](https://dev.to/ashbuk/stop-hunting-start-typing-fingergo-typing-trainer-3ogp)
+- [Speeding Laravel Response Times with Nginx FastCGI Cache](https://dev.to/devops-make-it-run/speeding-laravel-response-times-with-nginx-fastcgi-cache-2029)
 <!-- BLOG-POST-LIST:END -->
 
