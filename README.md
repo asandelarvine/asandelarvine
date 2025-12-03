@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Tab-Switching for Simple Calculations, So I Built This](https://dev.to/techyowls_d6ddaf9b6de327f/i-got-tired-of-tab-switching-for-simple-calculations-so-i-built-this-5984)
-- [Update on my Kiroween project 🎃](https://dev.to/hellocaleb/update-on-my-kiroween-project-c3l)
-- [ChatGPT Search Just Changed SEO &lpar;And Most Guides Are Already Wrong&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-and-most-guides-are-already-wrong-2dik)
-- [**Technical AI in Advertisement Challenge: &quot;Dynamic Ad Place](https://dev.to/drcarlosruizviquez/technical-ai-in-advertisement-challenge-dynamic-ad-place-le2)
+- [Embedding Serverless Dashboards in React](https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0)
+- [Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection](https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd)
+- [No Vibe No Code: Bootstrapping Ideas](https://dev.to/kirodotdev/no-vibe-no-code-bootstrapping-ideas-o88)
+- [News Aggregator - AI-Powered Cross-Platform Development](https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03)
 <!-- BLOG-POST-LIST:END -->
 
