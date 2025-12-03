@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-09: Lifecycle management rules in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-09-lifecycle-management-rules-in-terraform-5fai)
-- [Amazon Category Traversal: Achieving 95%+ Coverage of Front-end Visible Products](https://dev.to/loopsthings/amazon-category-traversal-achieving-95-coverage-of-front-end-visible-products-2cbm)
-- [Ethereum’s Fusaka Upgrade: The Most Ambitious Step Since The Merge &lpar;Live on Mainnet – Dec 3, 2025&rpar;](https://dev.to/codebyankita/ethereums-fusaka-upgrade-the-most-ambitious-step-since-the-merge-live-on-mainnet-dec-3-2025-37nl)
-- [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
+- [Agile, Scalable APIs &amp; Python](https://dev.to/adrianovieira/agile-scalable-apis-python-2ma)
+- [Inside the OCT Machine: A Developer&#39;s Look at Retinal Imaging Tech](https://dev.to/blantky/inside-the-oct-machine-a-developers-look-at-retinal-imaging-tech-44fb)
+- [How to Architect a Real-World ML System — End-to-End Blueprint &lpar;Part 8&rpar;](https://dev.to/ashish_ghadigaonkar_/how-to-architect-a-real-world-ml-system-end-to-end-blueprint-part-8-22p7)
+- [Your 2025 Marketing Budget Probably Lied to You: A Q1 2026 Audit Framework](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-lied-to-you-a-q1-2026-audit-framework-d9l)
 <!-- BLOG-POST-LIST:END -->
 
