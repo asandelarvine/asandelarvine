@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
-- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
-- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
-- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
+- [wrote this breakdown of the best proxy and scraper apis for 2025. simple, honest and actually useful. check it out if you want 👇](https://dev.to/arjuncodess/wrote-this-breakdown-of-the-best-proxy-and-scraper-apis-for-2025-simple-honest-and-actually-4b2i)
+- [11 Powerful Proxy &amp; Web Scraper APIs You Should Use in 2025 🤯](https://dev.to/arjuncodess/11-powerful-proxy-web-scraper-apis-you-should-use-in-2025-12no)
+- [From Data Silos to Intelligent Insights: Building a Future-oriented Operation Intelligence System](https://dev.to/observabilityguy/from-data-silos-to-intelligent-insights-building-a-future-oriented-operation-intelligence-system-58hj)
+- [Loading Chrome extensions for development in 2025](https://dev.to/bitcrowd/loading-chrome-extensions-for-development-in-2025-1039)
 <!-- BLOG-POST-LIST:END -->
 
