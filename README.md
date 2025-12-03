@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why n8n — The Next-Gen Automation Engine](https://dev.to/hasanmonsur/why-n8n-the-next-gen-automation-engine-38hc)
-- [Opinion on weird system design](https://dev.to/megrajchauhan/opinion-on-weird-system-design-18a5)
-- [Data Pipeline Tools Compared: Key Criteria to Pick the Right One](https://dev.to/vladam/data-pipeline-tools-compared-key-criteria-to-pick-the-right-one-2ele)
-- [Service Granularity: When Is a Microservice Really “Micro”?](https://dev.to/knowis/service-granularity-when-is-a-microservice-really-micro-36aa)
+- [My 30 Favorite Tools as a Fractional CTO for 2026](https://dev.to/willbarrett/my-30-favorite-tools-as-a-fractional-cto-for-2026-29pl)
+- [BUILD YOUR FIRST SPRING BOOT&lpar;KOTLIN&rpar; BACK-END](https://dev.to/prabhuls/build-your-first-spring-bootkotlin-back-end-54jp)
+- [Training Large Reasoning Models](https://dev.to/centaurai/training-large-reasoning-models-1pce)
+- [AttributeError: &#39;int&#39; object has no attribute &#39;title&#39; in python3](https://dev.to/giridharan_devops/attributeerror-int-object-has-no-attribute-title-in-python3-4nji)
 <!-- BLOG-POST-LIST:END -->
 
