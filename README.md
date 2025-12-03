@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 30 Favorite Tools as a Fractional CTO for 2026](https://dev.to/willbarrett/my-30-favorite-tools-as-a-fractional-cto-for-2026-29pl)
-- [BUILD YOUR FIRST SPRING BOOT&lpar;KOTLIN&rpar; BACK-END](https://dev.to/prabhuls/build-your-first-spring-bootkotlin-back-end-54jp)
-- [Training Large Reasoning Models](https://dev.to/centaurai/training-large-reasoning-models-1pce)
-- [AttributeError: &#39;int&#39; object has no attribute &#39;title&#39; in python3](https://dev.to/giridharan_devops/attributeerror-int-object-has-no-attribute-title-in-python3-4nji)
+- [I Got Tired of Tab-Switching for Simple Calculations, So I Built This](https://dev.to/techyowls_d6ddaf9b6de327f/i-got-tired-of-tab-switching-for-simple-calculations-so-i-built-this-5984)
+- [Update on my Kiroween project 🎃](https://dev.to/hellocaleb/update-on-my-kiroween-project-c3l)
+- [ChatGPT Search Just Changed SEO &lpar;And Most Guides Are Already Wrong&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-and-most-guides-are-already-wrong-2dik)
+- [**Technical AI in Advertisement Challenge: &quot;Dynamic Ad Place](https://dev.to/drcarlosruizviquez/technical-ai-in-advertisement-challenge-dynamic-ad-place-le2)
 <!-- BLOG-POST-LIST:END -->
 
