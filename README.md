@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Terraform Stops Scaling for Multi-Tenant Kubernetes: A Database-Driven Approach](https://dev.to/selenehyun/when-terraform-stops-scaling-for-multi-tenant-kubernetes-a-database-driven-approach-3oi5)
-- [Creating a S3 bucket using Terraform](https://dev.to/woovi/creating-a-s3-bucket-using-terraform-4kgb)
-- [The Git Commit Messages That Reveal A Developer’s Thinking](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-git-commit-messages-that-reveal-a-developers-thinking-48e8)
-- [Terraform Life Cycle Rules](https://dev.to/nandan_007/terraform-life-cycle-rules-1odl)
+- [Building LLM Tools That Don&#39;t Drown in Context: Lazy Traversal for Unknown Structures](https://dev.to/johnonline35/building-llm-tools-that-dont-drown-in-context-lazy-traversal-for-unknown-structures-4kla)
+- [Testing Legacy Systems with AI: Automated QA, Regression &amp; Edge Cases](https://dev.to/himani_0b4c9fc3c2ab3a1700/testing-legacy-systems-with-ai-automated-qa-regression-edge-cases-j1l)
+- [Data Analyst Checklist](https://dev.to/ssekabirarobertsims/data-analyst-checklist-5589)
+- [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
 <!-- BLOG-POST-LIST:END -->
 
