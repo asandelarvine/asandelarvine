@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js + Supabase Project Structure for Indie Development](https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od)
-- [The Future of Data Engineering: Automation, AI, and Code-Free Solutions](https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd)
-- [Introducing Uatu - An AI-Powered System Troubleshooting](https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84)
-- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
+- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
+- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
+- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
+- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
 <!-- BLOG-POST-LIST:END -->
 
