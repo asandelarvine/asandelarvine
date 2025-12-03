@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [wrote this breakdown of the best proxy and scraper apis for 2025. simple, honest and actually useful. check it out if you want 👇](https://dev.to/arjuncodess/wrote-this-breakdown-of-the-best-proxy-and-scraper-apis-for-2025-simple-honest-and-actually-4b2i)
-- [11 Powerful Proxy &amp; Web Scraper APIs You Should Use in 2025 🤯](https://dev.to/arjuncodess/11-powerful-proxy-web-scraper-apis-you-should-use-in-2025-12no)
-- [From Data Silos to Intelligent Insights: Building a Future-oriented Operation Intelligence System](https://dev.to/observabilityguy/from-data-silos-to-intelligent-insights-building-a-future-oriented-operation-intelligence-system-58hj)
-- [Loading Chrome extensions for development in 2025](https://dev.to/bitcrowd/loading-chrome-extensions-for-development-in-2025-1039)
+- [Why abstractions are good](https://dev.to/cartmann68/why-abstractions-are-good-jim)
+- [Taming the Container Beast: A Developer&#39;s Guide to Debugging Django in Docker](https://dev.to/mcheremnov/taming-the-container-beast-a-developers-guide-to-debugging-django-in-docker-2g01)
+- [What DRY actually means](https://dev.to/cartmann68/what-dry-actually-means-3ngj)
+- [The Best Workflow for Collaborating on a Shared GitHub Repository](https://dev.to/msnmongare/the-best-workflow-for-collaborating-on-a-shared-github-repository-2f5j)
 <!-- BLOG-POST-LIST:END -->
 
