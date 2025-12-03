@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Challenge:** &quot;Evaluating the Cognitive Limitations of Larg](https://dev.to/drcarlosruizviquez/challenge-evaluating-the-cognitive-limitations-of-larg-41a0)
-- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
-- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
-- [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
+- [step6](https://dev.to/query_filter_591122b53770/step6-4eik)
+- [step5](https://dev.to/query_filter_591122b53770/step5-3474)
+- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
+- [Quantum Feature Alchemy: Transmuting Data into AI Gold](https://dev.to/arvind_sundararajan/quantum-feature-alchemy-transmuting-data-into-ai-gold-1hgd)
 <!-- BLOG-POST-LIST:END -->
 
