@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile, Scalable APIs &amp; Python](https://dev.to/adrianovieira/agile-scalable-apis-python-2ma)
-- [Inside the OCT Machine: A Developer&#39;s Look at Retinal Imaging Tech](https://dev.to/blantky/inside-the-oct-machine-a-developers-look-at-retinal-imaging-tech-44fb)
-- [How to Architect a Real-World ML System — End-to-End Blueprint &lpar;Part 8&rpar;](https://dev.to/ashish_ghadigaonkar_/how-to-architect-a-real-world-ml-system-end-to-end-blueprint-part-8-22p7)
-- [Your 2025 Marketing Budget Probably Lied to You: A Q1 2026 Audit Framework](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-lied-to-you-a-q1-2026-audit-framework-d9l)
+- [Next.js + Supabase Project Structure for Indie Development](https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od)
+- [The Future of Data Engineering: Automation, AI, and Code-Free Solutions](https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd)
+- [Introducing Uatu - An AI-Powered System Troubleshooting](https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84)
+- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
 <!-- BLOG-POST-LIST:END -->
 
