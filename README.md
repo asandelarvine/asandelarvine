@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
-- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
-- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
-- [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
+- [Agentic CI with Buildkite: Three practical examples](https://dev.to/cnunciato/agentic-ci-with-buildkite-three-practical-examples-12bk)
+- [Mastering Jenkins: From Pipeline Rookie to DevOps Hero 🎭](https://dev.to/tavernetech/mastering-jenkins-from-pipeline-rookie-to-devops-hero-3eof)
+- [How to Avoid Route 53 $0.50 / Month Charge per Hosting Zone using Free CloudFront Distribution](https://dev.to/mxro/how-to-avoid-route-53-050-month-charge-per-hosting-zone-using-free-cloudfront-distribution-319k)
+- [I built a waitlist tool with viral mechanics](https://dev.to/soyzamudio/i-built-a-waitlist-tool-with-viral-mechanics-7o4)
 <!-- BLOG-POST-LIST:END -->
 
