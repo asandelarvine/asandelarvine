@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [step6](https://dev.to/query_filter_591122b53770/step6-4eik)
-- [step5](https://dev.to/query_filter_591122b53770/step5-3474)
-- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
-- [Quantum Feature Alchemy: Transmuting Data into AI Gold](https://dev.to/arvind_sundararajan/quantum-feature-alchemy-transmuting-data-into-ai-gold-1hgd)
+- [How to Build a Voice Bot for Car Dealerships Using VAPI](https://dev.to/callstacktech/how-to-build-a-voice-bot-for-car-dealerships-using-vapi-19l0)
+- [The Night Kubernetes Almost Made Me Quit DevOps Forever](https://dev.to/arbythecoder/the-night-kubernetes-almost-made-me-quit-devops-forever-4248)
+- [diag2](https://dev.to/query_filter_591122b53770/diag2-26e5)
+- [diag1](https://dev.to/query_filter_591122b53770/diag1-1plp)
 <!-- BLOG-POST-LIST:END -->
 
