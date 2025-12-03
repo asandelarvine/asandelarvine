@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why abstractions are good](https://dev.to/cartmann68/why-abstractions-are-good-jim)
-- [Taming the Container Beast: A Developer&#39;s Guide to Debugging Django in Docker](https://dev.to/mcheremnov/taming-the-container-beast-a-developers-guide-to-debugging-django-in-docker-2g01)
-- [What DRY actually means](https://dev.to/cartmann68/what-dry-actually-means-3ngj)
-- [The Best Workflow for Collaborating on a Shared GitHub Repository](https://dev.to/msnmongare/the-best-workflow-for-collaborating-on-a-shared-github-repository-2f5j)
+- [When Terraform Stops Scaling for Multi-Tenant Kubernetes: A Database-Driven Approach](https://dev.to/selenehyun/when-terraform-stops-scaling-for-multi-tenant-kubernetes-a-database-driven-approach-3oi5)
+- [Creating a S3 bucket using Terraform](https://dev.to/woovi/creating-a-s3-bucket-using-terraform-4kgb)
+- [The Git Commit Messages That Reveal A Developer’s Thinking](https://dev.to/rohit_gavali_0c2ad84fe4e0/the-git-commit-messages-that-reveal-a-developers-thinking-48e8)
+- [Terraform Life Cycle Rules](https://dev.to/nandan_007/terraform-life-cycle-rules-1odl)
 <!-- BLOG-POST-LIST:END -->
 
