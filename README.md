@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedding Serverless Dashboards in React](https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0)
-- [Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection](https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd)
-- [No Vibe No Code: Bootstrapping Ideas](https://dev.to/kirodotdev/no-vibe-no-code-bootstrapping-ideas-o88)
-- [News Aggregator - AI-Powered Cross-Platform Development](https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03)
+- [AI Agents Intensive Course Writing Challenge with Google and Kaggle: Deadline Extended](https://dev.to/devteam/ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-deadline-extended-324d)
+- [Tenis On Cloud: Why These Shoes Are Leading Comfort and Performance in 2025](https://dev.to/oncloud/tenis-on-cloud-why-these-shoes-are-leading-comfort-and-performance-in-2025-4pfl)
+- [Tainting the kernel](https://dev.to/adam_weber_6dc0d5bd752326/tainting-the-kernel-2cgh)
+- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
 <!-- BLOG-POST-LIST:END -->
 
