@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Voice Bot for Car Dealerships Using VAPI](https://dev.to/callstacktech/how-to-build-a-voice-bot-for-car-dealerships-using-vapi-19l0)
-- [The Night Kubernetes Almost Made Me Quit DevOps Forever](https://dev.to/arbythecoder/the-night-kubernetes-almost-made-me-quit-devops-forever-4248)
-- [diag2](https://dev.to/query_filter_591122b53770/diag2-26e5)
-- [diag1](https://dev.to/query_filter_591122b53770/diag1-1plp)
+- [Instagram Collabs 2.0: What Changed and Why You Should Actually Care](https://dev.to/synergistdigitalmedia/instagram-collabs-20-what-changed-and-why-you-should-actually-care-1e9h)
+- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
+- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
+- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
 <!-- BLOG-POST-LIST:END -->
 
