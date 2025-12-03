@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chatbot GUI with Rust, Dioxus, and SQLite](https://dev.to/kpcofgs/i-built-a-chatbot-gui-with-rust-dioxus-and-sqlite-3abk)
-- [From 5MB to 500KB: The Hidden Cost of providedIn: &#39;root&#39; in Angular – A Performance Deep Dive](https://dev.to/codewithrajat/from-5mb-to-500kb-the-hidden-cost-of-providedin-root-in-angular-a-performance-deep-dive-301h)
-- [For decades, building big meant hiring big. Large teams, large budgets, large offices.
-
-In 2025, that equation has completely flipped.
-
-Today, small teams powered by AI are outperforming large organisations.](https://dev.to/jaideepparashar/for-decades-building-big-meant-hiring-big-large-teams-large-budgets-large-offices-in-2025-3bf5)
-- [AI + Small Teams = Unfair Advantage &lpar;Here’s the Playbook&rpar;](https://dev.to/jaideepparashar/ai-small-teams-unfair-advantage-heres-the-playbook-4hgk)
+- [Real-time Communication with WebSockets using deboa-extras](https://dev.to/rogrio_arajo_55dae16f0d/real-time-communication-with-websockets-using-deboa-extras-172o)
+- [Understanding How LCD Screens Work: Components, Light Control, and Display Technologies](https://dev.to/danie_brooks_dc7a891322b3/understanding-how-lcd-screens-work-components-light-control-and-display-technologies-3j1h)
+- [Improving our frontend tracking with Avo](https://dev.to/superpayments/improving-our-frontend-tracking-with-avo-50cc)
+- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
 <!-- BLOG-POST-LIST:END -->
 
