@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made an Electron Window Draggable and Kept Mouse Enter/Leave Detection](https://dev.to/saidfatah/how-i-made-an-electron-window-draggable-and-kept-mouse-enterleave-detection-1c0h)
-- [🌐 Setting Up Your Azure Environment: A Step-by-Step Walkthrough](https://dev.to/adebayo_ganiyatoladunjoy/setting-up-your-azure-environment-a-step-by-step-walkthrough-43dc)
-- [FingerGo Typing Trainer &lpar;don&#39;t hunt, type!&rpar;](https://dev.to/ashbuk/stop-hunting-start-typing-fingergo-typing-trainer-3ogp)
-- [Speeding Laravel Response Times with Nginx FastCGI Cache](https://dev.to/devops-make-it-run/speeding-laravel-response-times-with-nginx-fastcgi-cache-2029)
+- [I built a Chatbot GUI with Rust, Dioxus, and SQLite](https://dev.to/kpcofgs/i-built-a-chatbot-gui-with-rust-dioxus-and-sqlite-3abk)
+- [From 5MB to 500KB: The Hidden Cost of providedIn: &#39;root&#39; in Angular – A Performance Deep Dive](https://dev.to/codewithrajat/from-5mb-to-500kb-the-hidden-cost-of-providedin-root-in-angular-a-performance-deep-dive-301h)
+- [For decades, building big meant hiring big. Large teams, large budgets, large offices.
+
+In 2025, that equation has completely flipped.
+
+Today, small teams powered by AI are outperforming large organisations.](https://dev.to/jaideepparashar/for-decades-building-big-meant-hiring-big-large-teams-large-budgets-large-offices-in-2025-3bf5)
+- [AI + Small Teams = Unfair Advantage &lpar;Here’s the Playbook&rpar;](https://dev.to/jaideepparashar/ai-small-teams-unfair-advantage-heres-the-playbook-4hgk)
 <!-- BLOG-POST-LIST:END -->
 
