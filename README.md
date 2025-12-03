@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time Communication with WebSockets using deboa-extras](https://dev.to/rogrio_arajo_55dae16f0d/real-time-communication-with-websockets-using-deboa-extras-172o)
-- [Understanding How LCD Screens Work: Components, Light Control, and Display Technologies](https://dev.to/danie_brooks_dc7a891322b3/understanding-how-lcd-screens-work-components-light-control-and-display-technologies-3j1h)
-- [Improving our frontend tracking with Avo](https://dev.to/superpayments/improving-our-frontend-tracking-with-avo-50cc)
-- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
+- [Why n8n — The Next-Gen Automation Engine](https://dev.to/hasanmonsur/why-n8n-the-next-gen-automation-engine-38hc)
+- [Opinion on weird system design](https://dev.to/megrajchauhan/opinion-on-weird-system-design-18a5)
+- [Data Pipeline Tools Compared: Key Criteria to Pick the Right One](https://dev.to/vladam/data-pipeline-tools-compared-key-criteria-to-pick-the-right-one-2ele)
+- [Service Granularity: When Is a Microservice Really “Micro”?](https://dev.to/knowis/service-granularity-when-is-a-microservice-really-micro-36aa)
 <!-- BLOG-POST-LIST:END -->
 
