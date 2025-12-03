@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic CI with Buildkite: Three practical examples](https://dev.to/cnunciato/agentic-ci-with-buildkite-three-practical-examples-12bk)
-- [Mastering Jenkins: From Pipeline Rookie to DevOps Hero 🎭](https://dev.to/tavernetech/mastering-jenkins-from-pipeline-rookie-to-devops-hero-3eof)
-- [How to Avoid Route 53 $0.50 / Month Charge per Hosting Zone using Free CloudFront Distribution](https://dev.to/mxro/how-to-avoid-route-53-050-month-charge-per-hosting-zone-using-free-cloudfront-distribution-319k)
-- [I built a waitlist tool with viral mechanics](https://dev.to/soyzamudio/i-built-a-waitlist-tool-with-viral-mechanics-7o4)
+- [How We Build a Tier-10 Global Supply Graph](https://dev.to/supplygraphai/how-we-build-a-tier-10-global-supply-graph-3bgf)
+- [Lesson 30: Conclusion and Continuous Learning](https://dev.to/henry_lin_3ac6363747f45b4/lesson-30-conclusion-and-continuous-learning-3h8h)
+- [第 30 课：总结与持续学习](https://dev.to/henry_lin_3ac6363747f45b4/di-30-ke-zong-jie-yu-chi-xu-xue-xi-3j3i)
+- [Lesson 29: Machine Learning and Strategy Optimization](https://dev.to/henry_lin_3ac6363747f45b4/lesson-29-machine-learning-and-strategy-optimization-4pip)
 <!-- BLOG-POST-LIST:END -->
 
