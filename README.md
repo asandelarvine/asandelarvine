@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch My Product TemplateFame.com !](https://dev.to/hyhor/launch-my-product-templatefamecom--233h)
-- [Physics in the Browser: How I Built a Beam Stress Visualizer with React &amp; Three.js](https://dev.to/yogavigneshengineer/physics-in-the-browser-how-i-built-a-beam-stress-visualizer-with-react-threejs-nem)
-- [All vector DBs claim &quot;long-term memory,&quot; but how long is lon](https://dev.to/nullure_ef11832f4ce3b466a/all-vector-dbs-claim-long-term-memory-but-how-long-is-lon-3nnm)
-- [Memory Leaks in Modern JS: A Deep Dive into Closures and Garbage Collection](https://dev.to/samuel_ochaba_eb9c875fa89/memory-leaks-in-modern-js-a-deep-dive-into-closures-and-garbage-collection-2n72)
+- [How Rust Is Quietly Rewriting the AI Compute Stack](https://dev.to/manjushaps/how-rust-is-quietly-rewriting-the-ai-compute-stack-20nf)
+- [Kalman Filter &lpar;Day 1&rpar; - Why?](https://dev.to/chocolatebrownie/kalman-filter-day-1-why-3bcm)
+- [Interop.io &amp; io.Connect Glossary](https://dev.to/tpetrov9/interopio-ioconnect-glossary-43h3)
+- [How I could have avoided a loss if I had just stuck to my rule🤦🏾‍♂️](https://dev.to/dhis_is_jj/how-i-could-have-avoided-a-loss-if-i-had-just-stuck-to-my-rule-585e)
 <!-- BLOG-POST-LIST:END -->
 
