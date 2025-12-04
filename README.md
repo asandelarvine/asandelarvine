@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Indeed&#39;s migration to Amazon S3 Tables &lpar;STG210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-indeeds-migration-to-amazon-s3-tables-stg210-2165)
-- [AWS re:Invent 2025 - Inside S3: Lessons from exabyte-scale data lake modernization &lpar;STG351&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-inside-s3-lessons-from-exabyte-scale-data-lake-modernization-stg351-1aje)
-- [AWS re:Invent 2025 - Large-scale software deployments: Inside Amazon S3’s release pipeline &lpar;STG352&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-large-scale-software-deployments-inside-amazon-s3s-release-pipeline-stg352-3glf)
-- [JavaFX In Action #24 with Florian Enner about Robot 3D Visualizations and Charts](https://dev.to/fdelporte/javafx-in-action-24-with-florian-enner-about-robot-3d-visualizations-and-charts-4obo)
+- [Helldivers 2 Storage Crisis Solved](https://dev.to/derexxd/helldivers-2-storage-crisis-solved-g81)
+- [Top PDF Remediation Challenges Developers Face and How to Solve Them](https://dev.to/brianna_collins/top-pdf-remediation-challenges-developers-face-and-how-to-solve-them-3gf5)
+- [🌱 Eco-Friendly Hosting: How InterServer Is Committed to Sustainability](https://dev.to/onalephile_molemane_e3e9b/eco-friendly-hosting-how-interserver-is-committed-to-sustainability-3ele)
+- [How Businesses Are Quietly Becoming Crypto-Native &lpar;And Why It’s Happening Faster Than You Think&rpar;](https://dev.to/tanelith/how-businesses-are-quietly-becoming-crypto-native-and-why-its-happening-faster-than-you-think-2bfa)
 <!-- BLOG-POST-LIST:END -->
 
