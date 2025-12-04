@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVSS 10.0 RCE Rocks the Frontend World: React/Next.js Hit by a Log4Shell‑Level Vulnerability?](https://dev.to/arina_cholee/cvss-100-rce-rocks-the-frontend-world-reactnextjs-hit-by-a-log4shell-level-vulnerability-1nn2)
-- [TinyNN: A Fast, Zero-Dependency Neural Network Library for Node.js](https://dev.to/hodeware/tinynn-a-fast-zero-dependency-neural-network-library-for-nodejs-12la)
-- [Building Smarter AI: Lessons from My Capstone in the Kaggle Intensive](https://dev.to/pperumal_moorthy_8556ade/ai-agents-intensive-capstone-project-kaggle-learning-ai-automation-4mlh)
-- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
+- [Comparing sync/async PostgreSQL18（Amazon RDS）](https://dev.to/kanahiro/comparing-syncasync-postgresql18amazon-rds-1g31)
+- [The &quot;Separation of Concerns&quot; Lie: Why Your &quot;Clean&quot; Architecture is Actually Spaghetti](https://dev.to/samuel_ochaba_eb9c875fa89/the-separation-of-concerns-lie-why-your-clean-architecture-is-actually-spaghetti-5h07)
+- [Zero Multiplied by AI is Still Zero: The Addition is a Myth](https://dev.to/ryo_suwito/zero-multiplied-by-ai-is-still-zero-the-addition-is-a-myth-37mg)
+- [The Five-Day Transformation: From NLP Developer to AI Agent Expert](https://dev.to/hardhikman/the-five-day-transformation-from-nlp-developer-to-ai-agent-expert-57e0)
 <!-- BLOG-POST-LIST:END -->
 
