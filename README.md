@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Integral: A Full-Stack Productivity Suite with AI-Assisted Development](https://dev.to/exyness/building-integral-a-full-stack-productivity-suite-with-ai-assisted-development-1een)
-- [CAPS Chromium AI Plugin Skeleton](https://dev.to/ariay/caps-chromium-ai-plugin-skeleton-9ae)
-- [SwiftUI #1: Proyecto plantilla](https://dev.to/david_goyes_a488f58a17a53/proyecto-plantilla-de-swiftui-3nk1)
-- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
+- [Insights from Google &amp; Kaggle’s 5-Day AI Program](https://dev.to/suresh_techgrowth/insights-from-google-kaggles-5-day-ai-program-3m4n)
+- [Serve the same route from Next.js App Router and Pages Router](https://dev.to/erfanebrahimnia/serve-the-same-route-from-nextjs-app-router-and-pages-router-3c0b)
+- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
+- [SwiftUI #5: Estilo de botón](https://dev.to/david_goyes_a488f58a17a53/swiftui-5-estilo-de-boton-28f4)
 <!-- BLOG-POST-LIST:END -->
 
