@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café](https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi)
-- [Part 3: Accelerating Calculations using GPU](https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d)
-- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3)
-- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
+- [CVSS 10.0 RCE Rocks the Frontend World: React/Next.js Hit by a Log4Shell‑Level Vulnerability?](https://dev.to/arina_cholee/cvss-100-rce-rocks-the-frontend-world-reactnextjs-hit-by-a-log4shell-level-vulnerability-1nn2)
+- [TinyNN: A Fast, Zero-Dependency Neural Network Library for Node.js](https://dev.to/hodeware/tinynn-a-fast-zero-dependency-neural-network-library-for-nodejs-12la)
+- [Building Smarter AI: Lessons from My Capstone in the Kaggle Intensive](https://dev.to/pperumal_moorthy_8556ade/ai-agents-intensive-capstone-project-kaggle-learning-ai-automation-4mlh)
+- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
 <!-- BLOG-POST-LIST:END -->
 
