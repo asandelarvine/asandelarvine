@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Insights from Google &amp; Kaggle’s 5-Day AI Program](https://dev.to/suresh_techgrowth/insights-from-google-kaggles-5-day-ai-program-3m4n)
-- [Serve the same route from Next.js App Router and Pages Router](https://dev.to/erfanebrahimnia/serve-the-same-route-from-nextjs-app-router-and-pages-router-3c0b)
-- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
-- [SwiftUI #5: Estilo de botón](https://dev.to/david_goyes_a488f58a17a53/swiftui-5-estilo-de-boton-28f4)
+- [✨ Self-Reflection – Year 2025 Back to Basics – Rediscovering the Joy of Hands-On Coding &amp; Delivering Real Impact](https://dev.to/jercichop/self-reflection-year-2025-back-to-basics-rediscovering-the-joy-of-hands-on-coding--11p1)
+- [Top 10 pg_dump Options You Should Know for Reliable PostgreSQL Backups](https://dev.to/me_grigory_pshekovich/top-10-pgdump-options-you-should-know-for-reliable-postgresql-backups-42k7)
+- [My Experience with Google-Kaggle AI agents Intensive Course](https://dev.to/sandeep_nani_af1b167889e9/my-experience-with-google-kaggle-ai-agents-intensive-course-1p0m)
+- [FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻](https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6)
 <!-- BLOG-POST-LIST:END -->
 
