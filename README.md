@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Post-Holiday Email Trap: Why Your December Buyers Ghost You in January](https://dev.to/synergistdigitalmedia/the-post-holiday-email-trap-why-your-december-buyers-ghost-you-in-january-8om)
-- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
-- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
-- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
+- [A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café](https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi)
+- [Part 3: Accelerating Calculations using GPU](https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d)
+- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3)
+- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g)
 <!-- BLOG-POST-LIST:END -->
 
