@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
-- [Latency: What It Really Means, How It’s Measured, and Why Every Field Sees It Differently](https://dev.to/tick-to-trade/latency-what-it-really-means-how-its-measured-and-why-every-field-sees-it-differently-226h)
-- [Learning Reflections from the AI Agents Intensive Course &lpar;Google + Kaggle&rpar;](https://dev.to/jose_cachucho_5e288b4bc2/learning-reflections-from-the-ai-agents-intensive-course-google-kaggle-1g7a)
-- [KToon: Tiny Tables, Big Savings Plug TOON into Your @Serializable Kotlin Classes](https://dev.to/sanjayajoseph/ktoon-tiny-tables-big-savings-plug-toon-into-your-serializable-kotlin-classes-4091)
+- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://dev.to/railsdesigner/building-optimistic-ui-in-rails-and-learn-custom-elements-5ef4)
+- [AI Dev: Plan Mode vs. SDD — A Weekend Experiment](https://dev.to/maximsaplin/ai-dev-plan-mode-vs-sdd-a-weekend-experiment-f8e)
+- [Recipe Reanimator: How Kiro Helped Me Build a Frankenstein App That Fights Food Waste](https://dev.to/kirodotdev/recipe-reanimator-how-kiro-helped-me-build-a-frankenstein-app-that-fights-food-waste-37j0)
+- [Why Pharma Integrations Fail Quietly and What CTOs Need to Watch For](https://dev.to/newpagesolutions/why-pharma-integrations-fail-quietly-and-what-ctos-need-to-watch-for-3kbd)
 <!-- BLOG-POST-LIST:END -->
 
