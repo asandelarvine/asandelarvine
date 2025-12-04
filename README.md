@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Rust Is Quietly Rewriting the AI Compute Stack](https://dev.to/manjushaps/how-rust-is-quietly-rewriting-the-ai-compute-stack-20nf)
-- [Kalman Filter &lpar;Day 1&rpar; - Why?](https://dev.to/chocolatebrownie/kalman-filter-day-1-why-3bcm)
-- [Interop.io &amp; io.Connect Glossary](https://dev.to/tpetrov9/interopio-ioconnect-glossary-43h3)
-- [How I could have avoided a loss if I had just stuck to my rule🤦🏾‍♂️](https://dev.to/dhis_is_jj/how-i-could-have-avoided-a-loss-if-i-had-just-stuck-to-my-rule-585e)
+- [🔥 Day 4: RDD Internals - Partitions, Shuffles &amp; Repartitioning Demystified](https://dev.to/sandeepk27/day-4-rdd-internals-partitions-shuffles-repartitioning-demystified-mj9)
+- [Latency: What It Really Means, How It’s Measured, and Why Every Field Sees It Differently](https://dev.to/tick-to-trade/latency-what-it-really-means-how-its-measured-and-why-every-field-sees-it-differently-226h)
+- [Learning Reflections from the AI Agents Intensive Course &lpar;Google + Kaggle&rpar;](https://dev.to/jose_cachucho_5e288b4bc2/learning-reflections-from-the-ai-agents-intensive-course-google-kaggle-1g7a)
+- [KToon: Tiny Tables, Big Savings Plug TOON into Your @Serializable Kotlin Classes](https://dev.to/sanjayajoseph/ktoon-tiny-tables-big-savings-plug-toon-into-your-serializable-kotlin-classes-4091)
 <!-- BLOG-POST-LIST:END -->
 
