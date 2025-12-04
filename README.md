@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Istio the Hard Way: A Real Service Mesh Lab with Canary, mTLS, and Tracing.](https://dev.to/denyme24/learning-istio-the-hard-way-a-real-service-mesh-lab-with-canary-mtls-and-tracing-m82)
-- [Swift Testing #2: Agrupando pruebas con @Suite](https://dev.to/david_goyes_a488f58a17a53/swift-testing-2-agrupando-pruebas-con-suite-11ao)
-- [Scalable AI Application Development: Combining Python ML Frameworks with TypeScript-Powered Web Systems](https://dev.to/art_light/scalable-ai-application-development-combining-python-ml-frameworks-with-typescript-powered-web-2ji6)
-- [Swift Testing #3: Organizar, Clasificar y Filtrar pruebas con @Tag](https://dev.to/david_goyes_a488f58a17a53/swift-testing-3-organizar-clasificar-y-filtrar-pruebas-con-tag-41kl)
+- [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
+- [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
+- [Choosing the Right AI Agent Framework: A Simple Decision Flow for Engineers](https://dev.to/nkassetty/choosing-the-right-ai-agent-framework-a-simple-decision-flow-for-engineers-5efl)
+- [How to Deploy a Voice Agent for Medical Office Appointment Setting](https://dev.to/callstacktech/how-to-deploy-a-voice-agent-for-medical-office-appointment-setting-13e)
 <!-- BLOG-POST-LIST:END -->
 
