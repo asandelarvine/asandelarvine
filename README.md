@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing sync/async PostgreSQL18（Amazon RDS）](https://dev.to/kanahiro/comparing-syncasync-postgresql18amazon-rds-1g31)
-- [The &quot;Separation of Concerns&quot; Lie: Why Your &quot;Clean&quot; Architecture is Actually Spaghetti](https://dev.to/samuel_ochaba_eb9c875fa89/the-separation-of-concerns-lie-why-your-clean-architecture-is-actually-spaghetti-5h07)
-- [Zero Multiplied by AI is Still Zero: The Addition is a Myth](https://dev.to/ryo_suwito/zero-multiplied-by-ai-is-still-zero-the-addition-is-a-myth-37mg)
-- [The Five-Day Transformation: From NLP Developer to AI Agent Expert](https://dev.to/hardhikman/the-five-day-transformation-from-nlp-developer-to-ai-agent-expert-57e0)
+- [AWS re:Invent 2025 - Indeed&#39;s migration to Amazon S3 Tables &lpar;STG210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-indeeds-migration-to-amazon-s3-tables-stg210-2165)
+- [AWS re:Invent 2025 - Inside S3: Lessons from exabyte-scale data lake modernization &lpar;STG351&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-inside-s3-lessons-from-exabyte-scale-data-lake-modernization-stg351-1aje)
+- [AWS re:Invent 2025 - Large-scale software deployments: Inside Amazon S3’s release pipeline &lpar;STG352&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-large-scale-software-deployments-inside-amazon-s3s-release-pipeline-stg352-3glf)
+- [JavaFX In Action #24 with Florian Enner about Robot 3D Visualizations and Charts](https://dev.to/fdelporte/javafx-in-action-24-with-florian-enner-about-robot-3d-visualizations-and-charts-4obo)
 <!-- BLOG-POST-LIST:END -->
 
