@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Color Theory in UI Design for Maximum Impact](https://dev.to/taqwah/color-theory-in-ui-design-for-maximum-impact-1ddo)
-- [Top Ruby on Rails Security Best Practices for Web Applications](https://dev.to/devang1810/top-ruby-on-rails-security-best-practices-for-web-applications-4i17)
-- [Function Calling and Tool Use: Turning LLMs into Action-Taking Agents](https://dev.to/qvfagundes/function-calling-and-tool-use-turning-llms-into-action-taking-agents-30ca)
-- [The 0.33-Second Coherence Framework: A New Timing Architecture for Stable, Safer AI](https://dev.to/anjanasaurabh317lab/the-033-second-coherence-framework-a-new-timing-architecture-for-stable-safer-ai-2moe)
+- [Building a Task Flow Builder](https://dev.to/liv_mc_d4d89327f/building-a-task-flow-builder-2ml4)
+- [Understanding CompTIA A+ Structure](https://dev.to/lowell_95f0f399246560ba38/understanding-comptia-a-structure-4p1j)
+- [My Journey With Agentic AI in the Google x Kaggle Hackathon: What I Built, What I Learned, and Why It Mattered](https://dev.to/irwan_prabowo_30422f3846f/my-journey-with-agentic-ai-in-the-google-x-kaggle-hackathon-what-i-built-what-i-learned-and-why-48pd)
+- [Product Engineering for Fintech Startups: Accelerating Compliance and Growth](https://dev.to/aspire-softserv/product-engineering-for-fintech-startups-accelerating-compliance-and-growth-4akg)
 <!-- BLOG-POST-LIST:END -->
 
