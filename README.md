@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Zero-Downtime Database Migration Pipeline &lpar;PostgreSQL to Aurora&rpar;](https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe)
-- [AI Challenge for Cross-Platform Apps - WOW Factor Submission](https://dev.to/akash_sharma_5e53f53dc353/ai-challenge-for-cross-platform-apps-wow-factor-submission-kdb)
-- [🌩️ Building a Haunted Weather App: A Spooky Journey into 3D Web Development](https://dev.to/alicejapan/building-a-haunted-weather-app-a-spooky-journey-into-3d-web-development-47io)
-- [Learning Reflections: 5-Day AI Agents Intensive Course with Google and Kaggle](https://dev.to/akash_sharma_5e53f53dc353/learning-reflections-5-day-ai-agents-intensive-course-with-google-and-kaggle-ej0)
+- [Learning Reflections: Unlocking Digital Memories with &quot;Reflect&quot;](https://dev.to/prasanna_thapa/learning-reflections-unlocking-digital-memories-with-reflect-1951)
+- [How to Choose Soft and Durable Bed Linen?](https://dev.to/dylan_manson_f8a94d84ae59/how-to-choose-soft-and-durable-bed-linen-1o5n)
+- [&quot;From Financial Overload to Causal Agents: Architecting Autonomy for the Market&quot;](https://dev.to/sruthi_kumar_c0c809139982/from-financial-overload-to-causal-agents-architecting-autonomy-for-the-market-3bc5)
+- [Day 62 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-62-of-100-days-dsa-coding-challenge-j6c)
 <!-- BLOG-POST-LIST:END -->
 
