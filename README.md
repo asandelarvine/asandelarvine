@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Reflections: Unlocking Digital Memories with &quot;Reflect&quot;](https://dev.to/prasanna_thapa/learning-reflections-unlocking-digital-memories-with-reflect-1951)
-- [How to Choose Soft and Durable Bed Linen?](https://dev.to/dylan_manson_f8a94d84ae59/how-to-choose-soft-and-durable-bed-linen-1o5n)
-- [&quot;From Financial Overload to Causal Agents: Architecting Autonomy for the Market&quot;](https://dev.to/sruthi_kumar_c0c809139982/from-financial-overload-to-causal-agents-architecting-autonomy-for-the-market-3bc5)
-- [Day 62 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-62-of-100-days-dsa-coding-challenge-j6c)
+- [The Post-Holiday Email Trap: Why Your December Buyers Ghost You in January](https://dev.to/synergistdigitalmedia/the-post-holiday-email-trap-why-your-december-buyers-ghost-you-in-january-8om)
+- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
+- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
+- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
 <!-- BLOG-POST-LIST:END -->
 
