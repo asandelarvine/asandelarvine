@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solo Project: Designing a Fast and Simple YouTube Summarizing Agent](https://dev.to/pawan_kumar_de983e3215aa8/solo-project-designing-a-fast-and-simple-youtube-summarizing-agent-4o29)
-- [How to Spot Red Flags in AI Backed Business Models](https://dev.to/jaideepparashar/how-to-spot-red-flags-in-ai-backed-business-models-27n0)
-- [Ai agent writing challenge](https://dev.to/koombi_boy_211a46278f1765/ai-agent-writing-challenge-2nff)
-- [From Prompts to Agents: My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/noob_gaming_22f991e6f10f8/from-prompts-to-agents-my-learning-journey-in-the-5-day-ai-agents-intensive-43oc)
+- [I Built a Zero-Downtime Database Migration Pipeline &lpar;PostgreSQL to Aurora&rpar;](https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe)
+- [AI Challenge for Cross-Platform Apps - WOW Factor Submission](https://dev.to/akash_sharma_5e53f53dc353/ai-challenge-for-cross-platform-apps-wow-factor-submission-kdb)
+- [🌩️ Building a Haunted Weather App: A Spooky Journey into 3D Web Development](https://dev.to/alicejapan/building-a-haunted-weather-app-a-spooky-journey-into-3d-web-development-47io)
+- [Learning Reflections: 5-Day AI Agents Intensive Course with Google and Kaggle](https://dev.to/akash_sharma_5e53f53dc353/learning-reflections-5-day-ai-agents-intensive-course-with-google-and-kaggle-ej0)
 <!-- BLOG-POST-LIST:END -->
 
