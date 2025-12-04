@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Task Flow Builder](https://dev.to/liv_mc_d4d89327f/building-a-task-flow-builder-2ml4)
-- [Understanding CompTIA A+ Structure](https://dev.to/lowell_95f0f399246560ba38/understanding-comptia-a-structure-4p1j)
-- [My Journey With Agentic AI in the Google x Kaggle Hackathon: What I Built, What I Learned, and Why It Mattered](https://dev.to/irwan_prabowo_30422f3846f/my-journey-with-agentic-ai-in-the-google-x-kaggle-hackathon-what-i-built-what-i-learned-and-why-48pd)
-- [Product Engineering for Fintech Startups: Accelerating Compliance and Growth](https://dev.to/aspire-softserv/product-engineering-for-fintech-startups-accelerating-compliance-and-growth-4akg)
+- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
+- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
+- [How I processed 2,000 concurrent OpenAI requests using Node.js Streams &lpar;Zero 429 Errors&rpar;](https://dev.to/catmapapi/how-i-processed-2000-concurrent-openai-requests-using-nodejs-streams-zero-429-errors-341a)
+- [Qik Seek: My Modern, Fast, and Interactive Search Engine](https://dev.to/futuredev_guy/qik-seek-my-modern-fast-and-interactive-search-engine-3762)
 <!-- BLOG-POST-LIST:END -->
 
