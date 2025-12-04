@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
-- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
-- [How I processed 2,000 concurrent OpenAI requests using Node.js Streams &lpar;Zero 429 Errors&rpar;](https://dev.to/catmapapi/how-i-processed-2000-concurrent-openai-requests-using-nodejs-streams-zero-429-errors-341a)
-- [Qik Seek: My Modern, Fast, and Interactive Search Engine](https://dev.to/futuredev_guy/qik-seek-my-modern-fast-and-interactive-search-engine-3762)
+- [Launch My Product TemplateFame.com !](https://dev.to/hyhor/launch-my-product-templatefamecom--233h)
+- [Physics in the Browser: How I Built a Beam Stress Visualizer with React &amp; Three.js](https://dev.to/yogavigneshengineer/physics-in-the-browser-how-i-built-a-beam-stress-visualizer-with-react-threejs-nem)
+- [All vector DBs claim &quot;long-term memory,&quot; but how long is lon](https://dev.to/nullure_ef11832f4ce3b466a/all-vector-dbs-claim-long-term-memory-but-how-long-is-lon-3nnm)
+- [Memory Leaks in Modern JS: A Deep Dive into Closures and Garbage Collection](https://dev.to/samuel_ochaba_eb9c875fa89/memory-leaks-in-modern-js-a-deep-dive-into-closures-and-garbage-collection-2n72)
 <!-- BLOG-POST-LIST:END -->
 
