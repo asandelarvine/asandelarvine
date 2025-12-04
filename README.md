@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building optimistic UI in Rails &lpar;and learn custom elements&rpar;](https://dev.to/railsdesigner/building-optimistic-ui-in-rails-and-learn-custom-elements-5ef4)
-- [AI Dev: Plan Mode vs. SDD — A Weekend Experiment](https://dev.to/maximsaplin/ai-dev-plan-mode-vs-sdd-a-weekend-experiment-f8e)
-- [Recipe Reanimator: How Kiro Helped Me Build a Frankenstein App That Fights Food Waste](https://dev.to/kirodotdev/recipe-reanimator-how-kiro-helped-me-build-a-frankenstein-app-that-fights-food-waste-37j0)
-- [Why Pharma Integrations Fail Quietly and What CTOs Need to Watch For](https://dev.to/newpagesolutions/why-pharma-integrations-fail-quietly-and-what-ctos-need-to-watch-for-3kbd)
+- [Building Integral: A Full-Stack Productivity Suite with AI-Assisted Development](https://dev.to/exyness/building-integral-a-full-stack-productivity-suite-with-ai-assisted-development-1een)
+- [CAPS Chromium AI Plugin Skeleton](https://dev.to/ariay/caps-chromium-ai-plugin-skeleton-9ae)
+- [SwiftUI #1: Proyecto plantilla](https://dev.to/david_goyes_a488f58a17a53/proyecto-plantilla-de-swiftui-3nk1)
+- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
 <!-- BLOG-POST-LIST:END -->
 
