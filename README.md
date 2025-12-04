@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram Collabs 2.0: What Changed and Why You Should Actually Care](https://dev.to/synergistdigitalmedia/instagram-collabs-20-what-changed-and-why-you-should-actually-care-1e9h)
-- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
-- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
-- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
+- [Solo Project: Designing a Fast and Simple YouTube Summarizing Agent](https://dev.to/pawan_kumar_de983e3215aa8/solo-project-designing-a-fast-and-simple-youtube-summarizing-agent-4o29)
+- [How to Spot Red Flags in AI Backed Business Models](https://dev.to/jaideepparashar/how-to-spot-red-flags-in-ai-backed-business-models-27n0)
+- [Ai agent writing challenge](https://dev.to/koombi_boy_211a46278f1765/ai-agent-writing-challenge-2nff)
+- [From Prompts to Agents: My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/noob_gaming_22f991e6f10f8/from-prompts-to-agents-my-learning-journey-in-the-5-day-ai-agents-intensive-43oc)
 <!-- BLOG-POST-LIST:END -->
 
