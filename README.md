@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Helldivers 2 Storage Crisis Solved](https://dev.to/derexxd/helldivers-2-storage-crisis-solved-g81)
-- [Top PDF Remediation Challenges Developers Face and How to Solve Them](https://dev.to/brianna_collins/top-pdf-remediation-challenges-developers-face-and-how-to-solve-them-3gf5)
-- [🌱 Eco-Friendly Hosting: How InterServer Is Committed to Sustainability](https://dev.to/onalephile_molemane_e3e9b/eco-friendly-hosting-how-interserver-is-committed-to-sustainability-3ele)
-- [How Businesses Are Quietly Becoming Crypto-Native &lpar;And Why It’s Happening Faster Than You Think&rpar;](https://dev.to/tanelith/how-businesses-are-quietly-becoming-crypto-native-and-why-its-happening-faster-than-you-think-2bfa)
+- [Color Theory in UI Design for Maximum Impact](https://dev.to/taqwah/color-theory-in-ui-design-for-maximum-impact-1ddo)
+- [Top Ruby on Rails Security Best Practices for Web Applications](https://dev.to/devang1810/top-ruby-on-rails-security-best-practices-for-web-applications-4i17)
+- [Function Calling and Tool Use: Turning LLMs into Action-Taking Agents](https://dev.to/qvfagundes/function-calling-and-tool-use-turning-llms-into-action-taking-agents-30ca)
+- [The 0.33-Second Coherence Framework: A New Timing Architecture for Stable, Safer AI](https://dev.to/anjanasaurabh317lab/the-033-second-coherence-framework-a-new-timing-architecture-for-stable-safer-ai-2moe)
 <!-- BLOG-POST-LIST:END -->
 
