@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Self-Reflection – Year 2025 Back to Basics – Rediscovering the Joy of Hands-On Coding &amp; Delivering Real Impact](https://dev.to/jercichop/self-reflection-year-2025-back-to-basics-rediscovering-the-joy-of-hands-on-coding--11p1)
-- [Top 10 pg_dump Options You Should Know for Reliable PostgreSQL Backups](https://dev.to/me_grigory_pshekovich/top-10-pgdump-options-you-should-know-for-reliable-postgresql-backups-42k7)
-- [My Experience with Google-Kaggle AI agents Intensive Course](https://dev.to/sandeep_nani_af1b167889e9/my-experience-with-google-kaggle-ai-agents-intensive-course-1p0m)
-- [FOLKLORERUN — how Kiro turned a spooky idea into a haunting, playable web experience 👻](https://dev.to/umaadevi_11f0cdde81a351ee/folklorerun-how-kiro-turned-a-spooky-idea-into-a-haunting-playable-web-experience-14j6)
+- [What Really Happens When You Join Public Wi-Fi &lpar;And How To Stay Safe Anyway&rpar;](https://dev.to/byalexdavid/what-really-happens-when-you-join-public-wi-fi-and-how-to-stay-safe-anyway-43m3)
+- [Say hello to GoREST v0.3](https://dev.to/nicolasbonnici/say-hello-to-gorest-v03-4k8k)
+- [How Kiro Transformed the Way I Build: From Code to Vibes](https://dev.to/thesukhsingh/how-kiro-transformed-the-way-i-build-from-code-to-vibes-1cp4)
+- [Quantum Nets: Unmasking Financial Fraud with Unprecedented Accuracy by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-nets-unmasking-financial-fraud-with-unprecedented-accuracy-by-arvind-sundararajan-5afc)
 <!-- BLOG-POST-LIST:END -->
 
