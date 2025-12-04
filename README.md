@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Really Happens When You Join Public Wi-Fi &lpar;And How To Stay Safe Anyway&rpar;](https://dev.to/byalexdavid/what-really-happens-when-you-join-public-wi-fi-and-how-to-stay-safe-anyway-43m3)
-- [Say hello to GoREST v0.3](https://dev.to/nicolasbonnici/say-hello-to-gorest-v03-4k8k)
-- [How Kiro Transformed the Way I Build: From Code to Vibes](https://dev.to/thesukhsingh/how-kiro-transformed-the-way-i-build-from-code-to-vibes-1cp4)
-- [Quantum Nets: Unmasking Financial Fraud with Unprecedented Accuracy by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-nets-unmasking-financial-fraud-with-unprecedented-accuracy-by-arvind-sundararajan-5afc)
+- [Learning Istio the Hard Way: A Real Service Mesh Lab with Canary, mTLS, and Tracing.](https://dev.to/denyme24/learning-istio-the-hard-way-a-real-service-mesh-lab-with-canary-mtls-and-tracing-m82)
+- [Swift Testing #2: Agrupando pruebas con @Suite](https://dev.to/david_goyes_a488f58a17a53/swift-testing-2-agrupando-pruebas-con-suite-11ao)
+- [Scalable AI Application Development: Combining Python ML Frameworks with TypeScript-Powered Web Systems](https://dev.to/art_light/scalable-ai-application-development-combining-python-ml-frameworks-with-typescript-powered-web-2ji6)
+- [Swift Testing #3: Organizar, Clasificar y Filtrar pruebas con @Tag](https://dev.to/david_goyes_a488f58a17a53/swift-testing-3-organizar-clasificar-y-filtrar-pruebas-con-tag-41kl)
 <!-- BLOG-POST-LIST:END -->
 
