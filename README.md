@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Screens: The Quiet Work That Shapes the Code](https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm)
-- [AWS re:Invent 2025 - What&#39;s new with AWS Lambda &lpar;CNS376&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp)
-- [Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow](https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp)
-- [How I Built a 3D Product Configurator using Alpine.js &amp; Three.js &lpar;No React required!&rpar;](https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6)
+- [Working with Docker Images: From Basics to Best Practices](https://dev.to/techwithhari/working-with-docker-images-from-basics-to-best-practices-i9n)
+- [I built a Transactional NoSQL Database in Go &lpar;and now it has AI Agents!&rpar;](https://dev.to/grecinto/i-built-a-transactional-nosql-database-in-go-and-now-it-has-ai-agents-870)
+- [Using Google Maps Natively in Angular 20 — Modern vs Traditional Approach](https://dev.to/guilhermebodart/using-google-maps-natively-in-angular-20-modern-vs-traditional-approach-23p2)
+- [AWS re:Invent 2025 - Supercharge security investigations with custom detection &amp; analytics &lpar;SEC350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-security-investigations-with-custom-detection-analytics-sec350-2903)
 <!-- BLOG-POST-LIST:END -->
 
