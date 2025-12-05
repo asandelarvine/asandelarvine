@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [24 Zsh Plugins🔌 Every Developer &amp; DevOps Engineer 🖥 Should Use in 2025](https://dev.to/chandrashekhar/24-zsh-plugins-every-developer-devops-engineer-should-use-in-2025-383k)
-- [My Cousin Became a Pilot – Here’s What I Learned About Commercial Pilot Training in India](https://dev.to/raj_kumar_bad38660705bdd4/my-cousin-became-a-pilot-heres-what-i-learned-about-commercial-pilot-training-in-india-65m)
-- [My Takeaways from Swami’s re:Invent 2025 Keynote — The Era of Agentic AI Is Here](https://dev.to/aditmodi/my-takeaways-from-swamis-reinvent-2025-keynote-the-era-of-agentic-ai-is-here-4ol)
-- [IA dans DevSecOps](https://dev.to/arij_belaid/ia-dans-devsecops-3ph5)
+- [Using Excel Dashboards for Real-Time Business Performance Monitoring](https://dev.to/chimdi_ndudim_/using-excel-dashboards-for-real-time-business-performance-monitoring-27la)
+- [Storage and warehousing](https://dev.to/safwan_42b77737d3ff722c3e/storage-and-warehousing-3f2)
+- [First-Party Data Strategies That Actually Work When Cookies Finally Die](https://dev.to/synergistdigitalmedia/first-party-data-strategies-that-actually-work-when-cookies-finally-die-5ch1)
+- [Building an OCR-Powered Mobile App with Google Gemini + Lovable AI](https://dev.to/vidya_kokkada/building-an-ocr-powered-mobile-app-with-google-gemini-lovable-ai-15a8)
 <!-- BLOG-POST-LIST:END -->
 
