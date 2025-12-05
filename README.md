@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
-- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
-- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
-- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
+- [Behind the Screens: The Quiet Work That Shapes the Code](https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm)
+- [AWS re:Invent 2025 - What&#39;s new with AWS Lambda &lpar;CNS376&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp)
+- [Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow](https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp)
+- [How I Built a 3D Product Configurator using Alpine.js &amp; Three.js &lpar;No React required!&rpar;](https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6)
 <!-- BLOG-POST-LIST:END -->
 
