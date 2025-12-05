@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configure CrewAI with Groq: Alternative LLM Setup Guide](https://dev.to/fanioz/configure-crewai-with-groq-alternative-llm-setup-guide-4gc9)
-- [Security news weekly round-up - 5th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-december-2025-3ii)
-- [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin &lpar;IND371&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-product-development-lifecycle-with-a-product-digital-twin-ind371-4ca2)
-- [DIY GitHub Issue Bot — Just Your LLM API Key](https://dev.to/fl4tlin3/diy-github-issue-bot-just-your-llm-api-key-3plf)
+- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
+- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
+- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
+- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
 <!-- BLOG-POST-LIST:END -->
 
