@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Deep dive: The evolution of AWS load balancing and new capabilities &lpar;NET334&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-the-evolution-of-aws-load-balancing-and-new-capabilities-net334-3cic)
-- [SwiftUI #7: Reconocer gestos con GestureRecognizer](https://dev.to/david_goyes_a488f58a17a53/swiftui-7-reconocer-gestos-con-gesturerecognizer-5gce)
-- [Typescript wrapper class for browser storage](https://dev.to/muszynov/typescript-wrapper-class-for-browser-storage-55pd)
-- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
+- [The Use of Excel in Payroll Management and Salary Analysis](https://dev.to/ibukunoluwa_onamakinde_99/the-use-of-excel-in-payroll-management-and-salary-analysis-1kfg)
+- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
+- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
+- [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro &lpar;MAM343&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-vibe-modernize-your-net-applications-using-aws-transform-and-kiro-mam343-4amb)
 <!-- BLOG-POST-LIST:END -->
 
