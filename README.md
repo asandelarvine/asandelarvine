@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Japanese redevelops calculator with Kiro](https://dev.to/gf_afd1eaf4bacb964d4c5/a-japanese-redevelops-calculator-with-kiro-29oi)
-- [Why Kiro Feels Like Cheating &lpar;But It&#39;s Not&rpar;](https://dev.to/member_6e43b340/why-kiro-feels-like-cheating-but-its-not-256i)
-- [Progressive Adoption of Kiro for 90s Website Generator](https://dev.to/yuya_mukai_0b1913157ca31d/progressive-adoption-of-kiro-for-90s-website-generator-lon)
-- [MyDetector.ai Deep Dive — Honest Experience with AI Detection and Humanizer](https://dev.to/cicisee666/mydetectorai-deep-dive-honest-experience-with-ai-detection-and-humanizer-448a)
+- [Swift Testing #6: Aislando bugs conocidos usando withKnownIssue](https://dev.to/david_goyes_a488f58a17a53/swift-testing-6-aislando-bugs-conocidos-usando-withknownissue-4k6f)
+- [AWS re:Invent 2025 - Agentic AI&#39;s new generation of Industry and Line of Business solutions &lpar;PEX202&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ais-new-generation-of-industry-and-line-of-business-solutions-pex202-5b)
+- [Found a Google for DevOps utilities](https://dev.to/imranonline/found-a-google-for-devops-utilities-3ml4)
+- [Pixel Café ☕ - A Retro-Futuristic Coffee Shop with a Virtual Pet&quot;](https://dev.to/sai_dinesh/pixel-cafe-a-retro-futuristic-coffee-shop-with-a-virtual-pet-1h7k)
 <!-- BLOG-POST-LIST:END -->
 
