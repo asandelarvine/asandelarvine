@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Zero-Knowledge VPN That Can&#39;t Track You &lpar;Even If It Wanted To&rpar;](https://dev.to/chronocoders/i-built-a-zero-knowledge-vpn-that-cant-track-you-even-if-it-wanted-to-29jf)
-- [AI Video Generators: The Reality Behind Scaling Social Content &lpar;Not the Hype&rpar;](https://dev.to/synergistdigitalmedia/ai-video-generators-the-reality-behind-scaling-social-content-not-the-hype-49i4)
-- [Choosing the Right AI Agent Framework: A Simple Decision Flow for Engineers](https://dev.to/nkassetty/choosing-the-right-ai-agent-framework-a-simple-decision-flow-for-engineers-5efl)
-- [How to Deploy a Voice Agent for Medical Office Appointment Setting](https://dev.to/callstacktech/how-to-deploy-a-voice-agent-for-medical-office-appointment-setting-13e)
+- [How AI is Transforming Document Work Across Industries: Use Cases](https://dev.to/deepakgupta/how-ai-is-transforming-document-work-across-industries-use-cases-5eld)
+- [The Impact of Excel on Decision‑Making in Financial Institutions](https://dev.to/oraka_esther_0a4875b337f6/the-impact-of-excel-on-decision-making-in-financial-institutions-2p95)
+- [[Boost]](https://dev.to/snaghub/-2j90)
+- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57)
 <!-- BLOG-POST-LIST:END -->
 
