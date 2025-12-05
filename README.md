@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting a NO from an open source maintainer](https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j)
-- [AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service &lpar;AIM359&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii)
-- [AWS re:Invent 2025 - Optimize for AWS with intelligent automation &lpar;AIM235&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj)
-- [Implement Noise Suppression in JavaScript](https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18)
+- [Dev Bounties: Get Paid $500+ to Try Openfort &lpar;LATAM &amp; Africa/Asia&rpar;](https://dev.to/estelleatthenook/dev-bounties-get-paid-500-to-try-openfort-latam-africaasia-1lii)
+- [AWS re:Invent 2025-How to build an AI Engine to generate near real time insights for videos at scale](https://dev.to/kazuya_dev/aws-reinvent-2025-how-to-build-an-ai-engine-to-generate-near-real-time-insights-for-videos-at-scale-1kmf)
+- [Why Choosing the Right Game Development Partner is Crucial for Your Game’s Success](https://dev.to/red_apple_technologies/why-choosing-the-right-game-development-partner-is-crucial-for-your-games-success-1ekd)
+- [AWS re:Invent 2025 - Automatic Enterprise ML with Amazon SageMaker and Nextworld &lpar;SMB201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-automatic-enterprise-ml-with-amazon-sagemaker-and-nextworld-smb201-2nen)
 <!-- BLOG-POST-LIST:END -->
 
