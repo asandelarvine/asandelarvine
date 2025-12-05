@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Transforming Document Work Across Industries: Use Cases](https://dev.to/deepakgupta/how-ai-is-transforming-document-work-across-industries-use-cases-5eld)
-- [The Impact of Excel on Decision‑Making in Financial Institutions](https://dev.to/oraka_esther_0a4875b337f6/the-impact-of-excel-on-decision-making-in-financial-institutions-2p95)
-- [[Boost]](https://dev.to/snaghub/-2j90)
-- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57)
+- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
+- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
+- [Creating Laravel Artisan Command To Generate Model Repository Service Controller for each table automatically.](https://dev.to/macarthurgonde/creating-laravel-artisan-command-to-generate-model-repository-service-controller-for-each-3g55)
+- [From Code Red to Reality Check: The Three Forces Defining AI&#39;s Next Chapter](https://dev.to/ethan_zhang_e501fea89c25b/from-code-red-to-reality-check-the-three-forces-defining-ais-next-chapter-1342)
 <!-- BLOG-POST-LIST:END -->
 
