@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Excel Dashboards for Real-Time Business Performance Monitoring](https://dev.to/chimdi_ndudim_/using-excel-dashboards-for-real-time-business-performance-monitoring-27la)
-- [Storage and warehousing](https://dev.to/safwan_42b77737d3ff722c3e/storage-and-warehousing-3f2)
-- [First-Party Data Strategies That Actually Work When Cookies Finally Die](https://dev.to/synergistdigitalmedia/first-party-data-strategies-that-actually-work-when-cookies-finally-die-5ch1)
-- [Building an OCR-Powered Mobile App with Google Gemini + Lovable AI](https://dev.to/vidya_kokkada/building-an-ocr-powered-mobile-app-with-google-gemini-lovable-ai-15a8)
+- [Getting a NO from an open source maintainer](https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j)
+- [AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service &lpar;AIM359&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii)
+- [AWS re:Invent 2025 - Optimize for AWS with intelligent automation &lpar;AIM235&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj)
+- [Implement Noise Suppression in JavaScript](https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18)
 <!-- BLOG-POST-LIST:END -->
 
