@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Development: Lessons from Google’s Intensive Course + Capstone Project](https://dev.to/shifana_pm_5ec7d8523257ca/ai-agent-development-lessons-from-googles-intensive-course-capstone-project-4nb3)
-- [When Your Digital Annunaki Goes Offline... Can You Still Vibe Your Way](https://dev.to/ryo_suwito/when-your-digital-annunaki-goes-offline-can-you-still-vibe-your-way-552a)
-- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
-- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
+- [24 Zsh Plugins🔌 Every Developer &amp; DevOps Engineer 🖥 Should Use in 2025](https://dev.to/chandrashekhar/24-zsh-plugins-every-developer-devops-engineer-should-use-in-2025-383k)
+- [My Cousin Became a Pilot – Here’s What I Learned About Commercial Pilot Training in India](https://dev.to/raj_kumar_bad38660705bdd4/my-cousin-became-a-pilot-heres-what-i-learned-about-commercial-pilot-training-in-india-65m)
+- [My Takeaways from Swami’s re:Invent 2025 Keynote — The Era of Agentic AI Is Here](https://dev.to/aditmodi/my-takeaways-from-swamis-reinvent-2025-keynote-the-era-of-agentic-ai-is-here-4ol)
+- [IA dans DevSecOps](https://dev.to/arij_belaid/ia-dans-devsecops-3ph5)
 <!-- BLOG-POST-LIST:END -->
 
