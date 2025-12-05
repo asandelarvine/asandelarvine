@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Docker Images: From Basics to Best Practices](https://dev.to/techwithhari/working-with-docker-images-from-basics-to-best-practices-i9n)
-- [I built a Transactional NoSQL Database in Go &lpar;and now it has AI Agents!&rpar;](https://dev.to/grecinto/i-built-a-transactional-nosql-database-in-go-and-now-it-has-ai-agents-870)
-- [Using Google Maps Natively in Angular 20 — Modern vs Traditional Approach](https://dev.to/guilhermebodart/using-google-maps-natively-in-angular-20-modern-vs-traditional-approach-23p2)
-- [AWS re:Invent 2025 - Supercharge security investigations with custom detection &amp; analytics &lpar;SEC350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-security-investigations-with-custom-detection-analytics-sec350-2903)
+- [AWS re:Invent 2025 - Deep dive: The evolution of AWS load balancing and new capabilities &lpar;NET334&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-deep-dive-the-evolution-of-aws-load-balancing-and-new-capabilities-net334-3cic)
+- [SwiftUI #7: Reconocer gestos con GestureRecognizer](https://dev.to/david_goyes_a488f58a17a53/swiftui-7-reconocer-gestos-con-gesturerecognizer-5gce)
+- [Typescript wrapper class for browser storage](https://dev.to/muszynov/typescript-wrapper-class-for-browser-storage-55pd)
+- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
 <!-- BLOG-POST-LIST:END -->
 
