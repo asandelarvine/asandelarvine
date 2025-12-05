@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Navigate multicloud with AWS: Essential foundations for success &lpar;HMC101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-navigate-multicloud-with-aws-essential-foundations-for-success-hmc101-58al)
-- [AWS re:Invent 2025-AWS Local Zones- Sophos’ new edge in the global race against cyber-attacks-HMC215](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-local-zones-sophos-new-edge-in-the-global-race-against-cyber-attacks-hmc215-3b14)
-- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
-- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
+- [LinkedIn&#39;s Algorithm in 2025: Why Engagement Pods Are Dead and What Works Now](https://dev.to/synergistdigitalmedia/linkedins-algorithm-in-2025-why-engagement-pods-are-dead-and-what-works-now-1f6h)
+- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
+- [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://dev.to/kazuya_dev/aws-reinvent-2025-nfl-fantasy-ai-zero-to-production-in-weeks-w-bedrock-and-strands-agents-spf304-4n9o)
+- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
 <!-- BLOG-POST-LIST:END -->
 
