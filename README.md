@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Bounties: Get Paid $500+ to Try Openfort &lpar;LATAM &amp; Africa/Asia&rpar;](https://dev.to/estelleatthenook/dev-bounties-get-paid-500-to-try-openfort-latam-africaasia-1lii)
-- [AWS re:Invent 2025-How to build an AI Engine to generate near real time insights for videos at scale](https://dev.to/kazuya_dev/aws-reinvent-2025-how-to-build-an-ai-engine-to-generate-near-real-time-insights-for-videos-at-scale-1kmf)
-- [Why Choosing the Right Game Development Partner is Crucial for Your Game’s Success](https://dev.to/red_apple_technologies/why-choosing-the-right-game-development-partner-is-crucial-for-your-games-success-1ekd)
-- [AWS re:Invent 2025 - Automatic Enterprise ML with Amazon SageMaker and Nextworld &lpar;SMB201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-automatic-enterprise-ml-with-amazon-sagemaker-and-nextworld-smb201-2nen)
+- [A Japanese redevelops calculator with Kiro](https://dev.to/gf_afd1eaf4bacb964d4c5/a-japanese-redevelops-calculator-with-kiro-29oi)
+- [Why Kiro Feels Like Cheating &lpar;But It&#39;s Not&rpar;](https://dev.to/member_6e43b340/why-kiro-feels-like-cheating-but-its-not-256i)
+- [Progressive Adoption of Kiro for 90s Website Generator](https://dev.to/yuya_mukai_0b1913157ca31d/progressive-adoption-of-kiro-for-90s-website-generator-lon)
+- [MyDetector.ai Deep Dive — Honest Experience with AI Detection and Humanizer](https://dev.to/cicisee666/mydetectorai-deep-dive-honest-experience-with-ai-detection-and-humanizer-448a)
 <!-- BLOG-POST-LIST:END -->
 
