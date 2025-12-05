@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Building agentic workflows for augmented observability &lpar;COP405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-agentic-workflows-for-augmented-observability-cop405-d2j)
-- [[2025 Guide] Best AI Video Generators for TikTok: Unlock Viral Scale](https://dev.to/getkoro_app/2025-guide-best-ai-video-generators-for-tiktok-unlock-viral-scale-4nl5)
-- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
-- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
+- [How We Used DBtune to Cut Our Postgres Query Time by 50% on AWS RDS](https://dev.to/floriansuchan/how-we-used-dbtune-to-cut-our-postgres-query-time-by-50-on-aws-rds-2a5e)
+- [Don&#39;t Break Your WiFi: How to Simulate 503 Errors in a Single Browser Tab](https://dev.to/aragossa/dont-break-your-wifi-how-to-simulate-503-errors-in-a-single-browser-tab-5fm5)
+- [The Modern Agent Builder’s Toolkit: Best Frameworks for Agentic AI](https://dev.to/yeahiasarker/the-modern-agent-builders-toolkit-best-frameworks-for-agentic-ai-3n57)
+- [From Curiosity to Crisis-Tech: Building NexusResponse, an Agentic AI System for Disaster Coordination](https://dev.to/trushna_wanarkar_0e81c73c/from-curiosity-to-crisis-tech-building-nexusresponse-an-agentic-ai-system-for-disaster-18a2)
 <!-- BLOG-POST-LIST:END -->
 
