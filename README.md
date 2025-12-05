@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Used DBtune to Cut Our Postgres Query Time by 50% on AWS RDS](https://dev.to/floriansuchan/how-we-used-dbtune-to-cut-our-postgres-query-time-by-50-on-aws-rds-2a5e)
-- [Don&#39;t Break Your WiFi: How to Simulate 503 Errors in a Single Browser Tab](https://dev.to/aragossa/dont-break-your-wifi-how-to-simulate-503-errors-in-a-single-browser-tab-5fm5)
-- [The Modern Agent Builder’s Toolkit: Best Frameworks for Agentic AI](https://dev.to/yeahiasarker/the-modern-agent-builders-toolkit-best-frameworks-for-agentic-ai-3n57)
-- [From Curiosity to Crisis-Tech: Building NexusResponse, an Agentic AI System for Disaster Coordination](https://dev.to/trushna_wanarkar_0e81c73c/from-curiosity-to-crisis-tech-building-nexusresponse-an-agentic-ai-system-for-disaster-18a2)
+- [The Block Structure of Podlite](https://dev.to/zag/the-block-structure-of-podlite-513m)
+- [Opensearch as a Vector Database for Semantic Search](https://dev.to/neeldev96/opensearch-as-a-vector-database-for-semantic-search-21lf)
+- [AWS re:Invent 2025 - Scaling foundation model inference on Amazon SageMaker AI &lpar;AIM424&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-scaling-foundation-model-inference-on-amazon-sagemaker-ai-aim424-220o)
+- [An Open-Source Exam/Assessment Platform](https://dev.to/mtokarev/an-open-source-examassessment-platform-45mh)
 <!-- BLOG-POST-LIST:END -->
 
