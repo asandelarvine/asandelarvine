@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Block Structure of Podlite](https://dev.to/zag/the-block-structure-of-podlite-513m)
-- [Opensearch as a Vector Database for Semantic Search](https://dev.to/neeldev96/opensearch-as-a-vector-database-for-semantic-search-21lf)
-- [AWS re:Invent 2025 - Scaling foundation model inference on Amazon SageMaker AI &lpar;AIM424&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-scaling-foundation-model-inference-on-amazon-sagemaker-ai-aim424-220o)
-- [An Open-Source Exam/Assessment Platform](https://dev.to/mtokarev/an-open-source-examassessment-platform-45mh)
+- [AI Agent Development: Lessons from Google’s Intensive Course + Capstone Project](https://dev.to/shifana_pm_5ec7d8523257ca/ai-agent-development-lessons-from-googles-intensive-course-capstone-project-4nb3)
+- [When Your Digital Annunaki Goes Offline... Can You Still Vibe Your Way](https://dev.to/ryo_suwito/when-your-digital-annunaki-goes-offline-can-you-still-vibe-your-way-552a)
+- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
+- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
 <!-- BLOG-POST-LIST:END -->
 
