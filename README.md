@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn&#39;s Algorithm in 2025: Why Engagement Pods Are Dead and What Works Now](https://dev.to/synergistdigitalmedia/linkedins-algorithm-in-2025-why-engagement-pods-are-dead-and-what-works-now-1f6h)
-- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
-- [AWS re:Invent 2025 -NFL Fantasy AI: Zero to Production in Weeks w/ Bedrock and Strands Agents-SPF304](https://dev.to/kazuya_dev/aws-reinvent-2025-nfl-fantasy-ai-zero-to-production-in-weeks-w-bedrock-and-strands-agents-spf304-4n9o)
-- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
+- [AWS re:Invent 2025 - Building agentic workflows for augmented observability &lpar;COP405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-agentic-workflows-for-augmented-observability-cop405-d2j)
+- [[2025 Guide] Best AI Video Generators for TikTok: Unlock Viral Scale](https://dev.to/getkoro_app/2025-guide-best-ai-video-generators-for-tiktok-unlock-viral-scale-4nl5)
+- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
+- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
 <!-- BLOG-POST-LIST:END -->
 
