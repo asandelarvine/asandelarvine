@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MemGuard: Rethinking Secure Storage in Flutter with Zero-Leak Architecture](https://dev.to/cas8398/memguard-rethinking-secure-storage-in-flutter-with-zero-leak-architecture-144m)
-- [Behaviour Coding: BDD + AI for the Disruptive Economy](https://dev.to/stefano_294db3a96780f2b0e/behaviour-coding-bdd-ai-for-the-disruptive-economy-2hj1)
-- [RELIGHT — AI Cinematic Lighting Engine Built With Kiro | Kiroween Hackathon](https://dev.to/ritanshu_123/relight-ai-cinematic-lighting-engine-built-with-kiro-kiroween-hackathon-2hc6)
-- [I built a Free &quot;Media Command Center&quot; for Developers &lpar;Better than Imgur&rpar;](https://dev.to/ultimatecodes/i-built-a-free-media-command-center-for-developers-better-than-imgur-25oc)
+- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
+- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
+- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
+- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
 <!-- BLOG-POST-LIST:END -->
 
