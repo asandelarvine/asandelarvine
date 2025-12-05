@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
-- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
-- [Creating Laravel Artisan Command To Generate Model Repository Service Controller for each table automatically.](https://dev.to/macarthurgonde/creating-laravel-artisan-command-to-generate-model-repository-service-controller-for-each-3g55)
-- [From Code Red to Reality Check: The Three Forces Defining AI&#39;s Next Chapter](https://dev.to/ethan_zhang_e501fea89c25b/from-code-red-to-reality-check-the-three-forces-defining-ais-next-chapter-1342)
+- [AWS re:Invent 2025 - Navigate multicloud with AWS: Essential foundations for success &lpar;HMC101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-navigate-multicloud-with-aws-essential-foundations-for-success-hmc101-58al)
+- [AWS re:Invent 2025-AWS Local Zones- Sophos’ new edge in the global race against cyber-attacks-HMC215](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-local-zones-sophos-new-edge-in-the-global-race-against-cyber-attacks-hmc215-3b14)
+- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
+- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
 <!-- BLOG-POST-LIST:END -->
 
