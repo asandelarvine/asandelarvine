@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Common Types of Stock Photo Licenses?](https://dev.to/cheedow/what-are-the-common-types-of-stock-photo-licenses-2gkc)
-- [I got tired of setting up the same .NET architecture every project for 31 times, so I built a clean starter template kit](https://dev.to/safwan_rusli_c07e0e21d057/i-got-tired-of-setting-up-the-same-net-architecture-every-project-for-31-times-so-i-built-a-clean-2c3j)
-- [Java&#39;s nextAfter&lpar;&rpar; Method: Your Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-nextafter-method-your-guide-to-floating-point-precision-448e)
-- [Pengu&#39;s Nightshift: How I created a Horror Version of Pokémon GO only using KIRO](https://dev.to/michaeltandyo/pengus-nightshift-how-i-created-a-horror-version-of-pokemon-go-only-using-kiro-5dgc)
+- [🟩How to Route DB Connections to Multiple Database Servers Using HAProxy Port Forwarding](https://dev.to/latchudevops/how-to-route-db-connections-to-multiple-database-servers-using-haproxy-port-forwarding-1332)
+- [From Performance Engineering to Agentic Intelligence — My Journey Through the AI Agents Intensive](https://dev.to/ajin_sudhir_243c86142add9/from-performance-engineering-to-agentic-intelligence-my-journey-through-the-ai-agents-intensive-1fn2)
+- [AWS re:Invent 2025 - Powering your Agentic AI experience with AWS Streaming and Messaging &lpar;ANT310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-agentic-ai-experience-with-aws-streaming-and-messaging-ant310-3e3p)
+- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
 <!-- BLOG-POST-LIST:END -->
 
