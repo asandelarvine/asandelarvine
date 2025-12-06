@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Production-Ready Invoice Builder in .NET Using IronPDF](https://dev.to/antonmartyniuk/how-to-build-a-production-ready-invoice-builder-in-net-using-ironpdf-lbb)
-- [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-4dp4)
-- [🚀 Unlock Early Access to Digging Code&#39;s Latest Developer Features](https://dev.to/mmramadan496/unlock-early-access-to-digging-codes-latest-developer-features-28fe)
-- [How Developers Flatline Their Careers — And How to Avoid It](https://dev.to/chrismbah/how-developers-flatline-their-careers-and-how-to-avoid-it-6li)
+- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
+- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
+- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
+- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
 <!-- BLOG-POST-LIST:END -->
 
