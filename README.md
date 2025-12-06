@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
-- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
-- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
-- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
+- [Smart Contracts and dApps on Ethereum &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/day-6-smart-contracts-and-dapps-on-ethereum-for-non-technical-people-2mi3)
+- [🔐Secure AWS Access Using Client VPN Endpoint — A Step-by-Step Guide &lpar;EasyRSA + ACM&rpar;](https://dev.to/latchudevops/secure-aws-access-using-client-vpn-endpoint-a-step-by-step-guide-easyrsa-acm-3mh2)
+- [Quadratic Scaling, Power, Patience, and Mastery](https://dev.to/bibimbop123/quadratic-scaling-power-patience-and-mastery-3h7p)
+- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff)
 <!-- BLOG-POST-LIST:END -->
 
