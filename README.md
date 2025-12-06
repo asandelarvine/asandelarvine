@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your Python App Using Bandit as a SAST Tool](https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm)
-- [Discordo: A Go Library for Streamlined Discord Bot Development](https://dev.to/stelixx-insider/discordo-a-go-library-for-streamlined-discord-bot-development-36e2)
-- [AWS re:Invent 2025 - Balance cost, performance &amp; reliability for AI at enterprise scale &lpar;AIM3304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-balance-cost-performance-reliability-for-ai-at-enterprise-scale-aim3304-jcd)
-- [Cross-Compile Anything to Anywhere with One GitHub Action Why I Ended Up Building This](https://dev.to/rul1an/cross-compile-anything-to-anywhere-with-one-github-actionwhy-i-ended-up-building-this-2b62)
+- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
+- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
+- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
+- [AWS re:Invent 2025 - Capital One: From Chaos Testing to Continuous Verification &lpar;SPS328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-capital-one-from-chaos-testing-to-continuous-verification-sps328-3gc3)
 <!-- BLOG-POST-LIST:END -->
 
