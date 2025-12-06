@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f)
-- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk)
-- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI &lpar;IND206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p)
-- [AWS re:Invent 2025 -From Print to AI: The Economist&#39;s Digital Evolution w/ AWS Architecture &lpar;IND399&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh)
+- [ESLint for Markdown: Standardizing Documentation Consistency](https://dev.to/stelixx-insider/eslint-for-markdown-standardizing-documentation-consistency-2p1h)
+- [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS &lpar;DAT420&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-generative-ai-to-accelerate-database-modernization-with-aws-dms-dat420-34he)
+- [AWS re:Invent 2025 - Multi-Region strong consistency with Amazon DynamoDB global tables &lpar;DAT440&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-multi-region-strong-consistency-with-amazon-dynamodb-global-tables-dat440-2j1c)
+- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
 <!-- BLOG-POST-LIST:END -->
 
