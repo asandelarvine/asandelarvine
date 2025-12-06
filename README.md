@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Ubuntu VM Creation with libvirt &lpar;KVM/QEMU&rpar; and Cloud-Init](https://dev.to/tjuliu/automating-ubuntu-vm-creation-with-libvirt-kvmqemu-and-cloud-init-2inf)
-- [LogGuard](https://dev.to/cas8398/logguard-29cb)
-- [Building SkyMoment: A 4K Personalized Star Map Generator with Python, Skyfield and Astronomical Data](https://dev.to/balyakin/building-skymoment-a-4k-personalized-star-map-generator-with-python-skyfield-and-astronomical-data-11h9)
-- [How Container Governance Shapes Enterprise Deployment Strategies](https://dev.to/kapusto/how-container-governance-shapes-enterprise-deployment-strategies-eg)
+- [Build a Minute-Based Job Scheduler in .NET 10 with WJb package](https://dev.to/ukrguru/build-a-minute-based-job-scheduler-in-net-10-with-wjb-package-27da)
+- [Reintroducing Snap.svg: A Shape‑First Alternative to D3.js in 2025 &lpar;With Geometry, 3D, and TypeScript&rpar;](https://dev.to/o_vakarelov/reintroducing-snapsvg-a-shape-first-alternative-to-d3js-in-2025-with-geometry-3d-and-27ai)
+- [Build your own tunnel in Rust: Expose local sites to the Web with blazing performance](https://dev.to/explicit-logic/build-your-own-tunnel-in-rust-expose-local-sites-to-the-web-with-blazing-performance-1218)
+- [How can I connect a local MCP server &lpar;Python&rpar; to ChatGPT? - “Unsafe URL” issue](https://dev.to/makki/how-can-i-connect-a-local-mcp-server-python-to-chatgpt-unsafe-url-issue-94p)
 <!-- BLOG-POST-LIST:END -->
 
