@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
-- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
-- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
-- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
+- [Secure Your Python App Using Bandit as a SAST Tool](https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm)
+- [Discordo: A Go Library for Streamlined Discord Bot Development](https://dev.to/stelixx-insider/discordo-a-go-library-for-streamlined-discord-bot-development-36e2)
+- [AWS re:Invent 2025 - Balance cost, performance &amp; reliability for AI at enterprise scale &lpar;AIM3304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-balance-cost-performance-reliability-for-ai-at-enterprise-scale-aim3304-jcd)
+- [Cross-Compile Anything to Anywhere with One GitHub Action Why I Ended Up Building This](https://dev.to/rul1an/cross-compile-anything-to-anywhere-with-one-github-actionwhy-i-ended-up-building-this-2b62)
 <!-- BLOG-POST-LIST:END -->
 
