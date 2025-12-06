@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🟩How to Route DB Connections to Multiple Database Servers Using HAProxy Port Forwarding](https://dev.to/latchudevops/how-to-route-db-connections-to-multiple-database-servers-using-haproxy-port-forwarding-1332)
-- [From Performance Engineering to Agentic Intelligence — My Journey Through the AI Agents Intensive](https://dev.to/ajin_sudhir_243c86142add9/from-performance-engineering-to-agentic-intelligence-my-journey-through-the-ai-agents-intensive-1fn2)
-- [AWS re:Invent 2025 - Powering your Agentic AI experience with AWS Streaming and Messaging &lpar;ANT310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-agentic-ai-experience-with-aws-streaming-and-messaging-ant310-3e3p)
-- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
+- [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
+- [Dissecting the Anatomy of a Botnet](https://dev.to/syswraith/dissecting-the-anatomy-of-a-botnet-30oa)
+- [Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
+- [How to build a full-screen navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-build-a-full-screen-navigation-with-tailwind-css-and-javascript-1mi1)
 <!-- BLOG-POST-LIST:END -->
 
