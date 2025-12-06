@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arreglar pinchazos cerca de mi en Quijorna](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-quijorna-462l)
-- [Arreglar pinchazos cerca de mi en Brunete](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-brunete-4l1h)
-- [AWS re:Invent 2025 - A leader&#39;s guide to accelerating large-scale migration &lpar;SNR301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-accelerating-large-scale-migration-snr301-557g)
-- [From Distributed Ledgers to Autonomous Agents: How AI Agents Are Reshaping Smart Contract Intelligence](https://dev.to/jay_yadav_0cc1b8270e70447/from-distributed-ledgers-to-autonomous-agents-how-ai-agents-are-reshaping-smart-contract-54c4)
+- [What Are the Common Types of Stock Photo Licenses?](https://dev.to/cheedow/what-are-the-common-types-of-stock-photo-licenses-2gkc)
+- [I got tired of setting up the same .NET architecture every project for 31 times, so I built a clean starter template kit](https://dev.to/safwan_rusli_c07e0e21d057/i-got-tired-of-setting-up-the-same-net-architecture-every-project-for-31-times-so-i-built-a-clean-2c3j)
+- [Java&#39;s nextAfter&lpar;&rpar; Method: Your Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-nextafter-method-your-guide-to-floating-point-precision-448e)
+- [Pengu&#39;s Nightshift: How I created a Horror Version of Pokémon GO only using KIRO](https://dev.to/michaeltandyo/pengus-nightshift-how-i-created-a-horror-version-of-pokemon-go-only-using-kiro-5dgc)
 <!-- BLOG-POST-LIST:END -->
 
