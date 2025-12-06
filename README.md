@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practicing programming with sandbox projects](https://dev.to/janux_de/practicing-programming-with-sandbox-projects-3kj)
-- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
-- [What will be first .NET language to face End of Support?](https://dev.to/aspxone-official/what-will-be-first-net-language-to-face-end-of-support-44l2)
-- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
+- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f)
+- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk)
+- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI &lpar;IND206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p)
+- [AWS re:Invent 2025 -From Print to AI: The Economist&#39;s Digital Evolution w/ AWS Architecture &lpar;IND399&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh)
 <!-- BLOG-POST-LIST:END -->
 
