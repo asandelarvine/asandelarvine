@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
-- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
-- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
-- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
+- [Automating Ubuntu VM Creation with libvirt &lpar;KVM/QEMU&rpar; and Cloud-Init](https://dev.to/tjuliu/automating-ubuntu-vm-creation-with-libvirt-kvmqemu-and-cloud-init-2inf)
+- [LogGuard](https://dev.to/cas8398/logguard-29cb)
+- [Building SkyMoment: A 4K Personalized Star Map Generator with Python, Skyfield and Astronomical Data](https://dev.to/balyakin/building-skymoment-a-4k-personalized-star-map-generator-with-python-skyfield-and-astronomical-data-11h9)
+- [How Container Governance Shapes Enterprise Deployment Strategies](https://dev.to/kapusto/how-container-governance-shapes-enterprise-deployment-strategies-eg)
 <!-- BLOG-POST-LIST:END -->
 
