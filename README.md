@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ESLint for Markdown: Standardizing Documentation Consistency](https://dev.to/stelixx-insider/eslint-for-markdown-standardizing-documentation-consistency-2p1h)
-- [AWS re:Invent 2025 - Using generative AI to accelerate database modernization with AWS DMS &lpar;DAT420&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-using-generative-ai-to-accelerate-database-modernization-with-aws-dms-dat420-34he)
-- [AWS re:Invent 2025 - Multi-Region strong consistency with Amazon DynamoDB global tables &lpar;DAT440&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-multi-region-strong-consistency-with-amazon-dynamodb-global-tables-dat440-2j1c)
-- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
+- [Don&#39;t become a victim of PII Harvesting](https://dev.to/suvink/dont-become-a-victim-of-pii-harvesting-1gk9)
+- [888Starz Casino No Deposit Bonus Codes 2025 &lpar;Free Spins &amp; Cash&rpar;](https://dev.to/gambplays/888starz-casino-no-deposit-bonus-codes-2025-free-spins-cash-16db)
+- [888Starz Casino Promo Code 2025 – Exclusive Bonus Codes](https://dev.to/gambplays/888starz-casino-promo-code-2025-exclusive-bonus-codes-4lpm)
+- [AWS re:Invent 2025 - Comprehensive observability with Mobile RUM and Application Map &lpar;COP364&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-comprehensive-observability-with-mobile-rum-and-application-map-cop364-24jk)
 <!-- BLOG-POST-LIST:END -->
 
