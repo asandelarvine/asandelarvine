@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
-- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
-- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/aws-builders/building-streaming-iceberg-tables-for-real-time-logistics-analytics-kke)
+- [Advent of Code 2025 - Day 6](https://dev.to/yordiverkroost/advent-of-code-2025-day-6-59ko)
+- [How to Design a Notification System: A Complete Guide](https://dev.to/madhur_banger/how-to-design-a-notification-system-a-complete-guide-4509)
+- [How We Built an AI-Powered Invoice Generator for Small Contractors](https://dev.to/5_boilererrorcodes_f615/how-we-built-an-ai-powered-invoice-generator-for-small-contractors-54je)
+- [CloudFront +s3 Tutorial: How I Hosted my Portfolio Securely on AWS](https://dev.to/naomi_ansah_d792faf7a1276/cloudfront-s3-tutorial-how-i-hosted-my-portfolio-securely-on-aws-2lhi)
 <!-- BLOG-POST-LIST:END -->
 
