@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [888Starz Casino Philippines – Is It Available for PH Players?](https://dev.to/gambplays/888starz-casino-philippines-is-it-available-for-ph-players-2h2g)
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-j52)
-- [Chapter 2: End-to-End Machine Learning Project](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-end-to-end-machine-learning-project-1b8a)
-- [Is NeetCode Pro Worth It? A Complete 2025 Review &lpar;Pros, Cons, Alternatives&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/is-neetcode-pro-worth-it-a-complete-2025-review-pros-cons-alternatives-am7)
+- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
+- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
+- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
+- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/aws-builders/building-streaming-iceberg-tables-for-real-time-logistics-analytics-kke)
 <!-- BLOG-POST-LIST:END -->
 
