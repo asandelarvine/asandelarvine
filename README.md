@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t become a victim of PII Harvesting](https://dev.to/suvink/dont-become-a-victim-of-pii-harvesting-1gk9)
-- [888Starz Casino No Deposit Bonus Codes 2025 &lpar;Free Spins &amp; Cash&rpar;](https://dev.to/gambplays/888starz-casino-no-deposit-bonus-codes-2025-free-spins-cash-16db)
-- [888Starz Casino Promo Code 2025 – Exclusive Bonus Codes](https://dev.to/gambplays/888starz-casino-promo-code-2025-exclusive-bonus-codes-4lpm)
-- [AWS re:Invent 2025 - Comprehensive observability with Mobile RUM and Application Map &lpar;COP364&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-comprehensive-observability-with-mobile-rum-and-application-map-cop364-24jk)
+- [888Starz Casino Philippines – Is It Available for PH Players?](https://dev.to/gambplays/888starz-casino-philippines-is-it-available-for-ph-players-2h2g)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-j52)
+- [Chapter 2: End-to-End Machine Learning Project](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-end-to-end-machine-learning-project-1b8a)
+- [Is NeetCode Pro Worth It? A Complete 2025 Review &lpar;Pros, Cons, Alternatives&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/is-neetcode-pro-worth-it-a-complete-2025-review-pros-cons-alternatives-am7)
 <!-- BLOG-POST-LIST:END -->
 
