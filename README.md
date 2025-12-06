@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contracts and dApps on Ethereum &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/day-6-smart-contracts-and-dapps-on-ethereum-for-non-technical-people-2mi3)
-- [🔐Secure AWS Access Using Client VPN Endpoint — A Step-by-Step Guide &lpar;EasyRSA + ACM&rpar;](https://dev.to/latchudevops/secure-aws-access-using-client-vpn-endpoint-a-step-by-step-guide-easyrsa-acm-3mh2)
-- [Quadratic Scaling, Power, Patience, and Mastery](https://dev.to/bibimbop123/quadratic-scaling-power-patience-and-mastery-3h7p)
-- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff)
+- [Arreglar pinchazos cerca de mi en Quijorna](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-quijorna-462l)
+- [Arreglar pinchazos cerca de mi en Brunete](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-brunete-4l1h)
+- [AWS re:Invent 2025 - A leader&#39;s guide to accelerating large-scale migration &lpar;SNR301&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-accelerating-large-scale-migration-snr301-557g)
+- [From Distributed Ledgers to Autonomous Agents: How AI Agents Are Reshaping Smart Contract Intelligence](https://dev.to/jay_yadav_0cc1b8270e70447/from-distributed-ledgers-to-autonomous-agents-how-ai-agents-are-reshaping-smart-contract-54c4)
 <!-- BLOG-POST-LIST:END -->
 
