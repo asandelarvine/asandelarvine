@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
-- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
-- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
-- [AWS re:Invent 2025 - Capital One: From Chaos Testing to Continuous Verification &lpar;SPS328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-capital-one-from-chaos-testing-to-continuous-verification-sps328-3gc3)
+- [AWS re:Invent 2025 - The Zero Migration Path from Data to Enterprise Agentic AI &lpar;AIM123&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-zero-migration-path-from-data-to-enterprise-agentic-ai-aim123-2acl)
+- [AWS re:Invent 2025 - From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE &lpar;AIM225&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-alert-to-resolution-supercharge-aws-ops-with-the-agentic-ai-sre-aim225-45dm)
+- [AWS re:Invent 2025 - Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS &lpar;AIM231&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-the-hype-delivering-measurable-roi-with-generative-ai-on-aws-aim231-3p83)
+- [AWS re:Invent 2025 - Human-Centric AI: Avoiding the High Cost of Getting It Wrong in IT &lpar;AIM205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-human-centric-ai-avoiding-the-high-cost-of-getting-it-wrong-in-it-aim205-3lpj)
 <!-- BLOG-POST-LIST:END -->
 
