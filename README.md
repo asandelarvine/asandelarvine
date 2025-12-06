@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [END-TO-END Deployment Of Django App on AWS EKS Cluster](https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a)
-- [Discover Monetzly: Your Path to Effective AI Monetization Strategies](https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n)
-- [The Future of Web Development is Not AI](https://dev.to/oleksiy_martynovollie_/the-future-of-web-development-is-not-ai-3o7m)
-- [Embeddings != magic. Forget &quot;semantic&quot; = perfect. Similarity](https://dev.to/nullure_ef11832f4ce3b466a/embeddings-magic-forget-semantic-perfect-similarity-2m70)
+- [How to Build a Production-Ready Invoice Builder in .NET Using IronPDF](https://dev.to/antonmartyniuk/how-to-build-a-production-ready-invoice-builder-in-net-using-ironpdf-lbb)
+- [Daily AI Report - December 06, 2025](https://dev.to/dan_ledger_ce2886f0037972/daily-ai-report-december-06-2025-4dp4)
+- [🚀 Unlock Early Access to Digging Code&#39;s Latest Developer Features](https://dev.to/mmramadan496/unlock-early-access-to-digging-codes-latest-developer-features-28fe)
+- [How Developers Flatline Their Careers — And How to Avoid It](https://dev.to/chrismbah/how-developers-flatline-their-careers-and-how-to-avoid-it-6li)
 <!-- BLOG-POST-LIST:END -->
 
