@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With NextJs and Shadcn on Cloudflare, with Hono and D1](https://dev.to/teaganga/getting-started-with-nextjs-and-shadcn-on-cloudflare-with-hono-and-d1-35dk)
-- [Dissecting the Anatomy of a Botnet](https://dev.to/syswraith/dissecting-the-anatomy-of-a-botnet-30oa)
-- [Throttle Smart, Scale Safe — Complete Guide to Rate Limiting — Architecture Series: Part 6](https://dev.to/usman_awan/throttle-smart-scale-safe-complete-guide-to-rate-limiting-architecture-series-part-6-43hl)
-- [How to build a full-screen navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-build-a-full-screen-navigation-with-tailwind-css-and-javascript-1mi1)
+- [Practicing programming with sandbox projects](https://dev.to/janux_de/practicing-programming-with-sandbox-projects-3kj)
+- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
+- [What will be first .NET language to face End of Support?](https://dev.to/aspxone-official/what-will-be-first-net-language-to-face-end-of-support-44l2)
+- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
 <!-- BLOG-POST-LIST:END -->
 
