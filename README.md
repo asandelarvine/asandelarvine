@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
-- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
-- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
-- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
+- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
+- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
+- [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
+- [SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries &amp; String Plumbing in C#](https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9)
 <!-- BLOG-POST-LIST:END -->
 
