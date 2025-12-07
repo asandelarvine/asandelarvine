@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
-- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
-- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
-- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
+- [MCP, Code, or Commands? A Decision Framework for AI Tool Integration](https://dev.to/vuong_ngo/mcp-code-or-commands-a-decision-framework-for-ai-tool-integration-2f30)
+- [I made a Cyberpunk themed calculator app](https://dev.to/spidroid381/i-made-a-cyberpunk-themed-calculator-app-5acb)
+- [AI Chatbots Induce Users to Share Data](https://dev.to/ndabene/ai-chatbots-induce-users-to-share-data-350c)
+- [Busting the AI Hype: What&#39;s Real, What&#39;s a Bubble?](https://dev.to/mabualzait/busting-the-ai-hype-whats-real-whats-a-bubble-58lk)
 <!-- BLOG-POST-LIST:END -->
 
