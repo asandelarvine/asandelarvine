@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Red Team - Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz](https://dev.to/mintercoder/2026-red-team-kendi-hacking-araclarimizi-yazmayi-ogreniyoruz-oln)
-- [My 5-Day Journey into AI Agents 🚀](https://dev.to/mahadiosb/my-5-day-journey-into-ai-agents-2al3)
-- [AWS Glue ETL Jobs: Transform Your Data at Scale](https://dev.to/aws-builders/aws-glue-etl-jobs-transform-your-data-at-scale-2l4n)
-- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
+- [Log Databases Done Right](https://dev.to/sathish/log-databases-done-right-4447)
+- [The Ultimate Branding Page: What Every Creative Should Add](https://dev.to/imtaslim/the-ultimate-branding-page-what-every-creative-should-add-1f5f)
+- [Test
+
+https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
+- [💡 नैतिक सीईओ का खाका: Tvarnip AI में AGI++ विकास का शासन &lpar;गवर्नेंस&rpar; कैसे करें](https://dev.to/ultra_gemersatyam_8b80/naitik-siiiio-kaa-khaakaa-tvarnip-ai-men-agi-vikaas-kaa-shaasn-gvrnens-kaise-kren-mg)
 <!-- BLOG-POST-LIST:END -->
 
