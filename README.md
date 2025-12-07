@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic patterns and architectural approaches in AI](https://dev.to/websilvercraft/agentic-patterns-and-architectural-approaches-in-ai-34b1)
-- [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
-- [Trauma-Informed React Hooks](https://dev.to/crisiscoresystems/trauma-informed-react-hooks-483n)
-- [[Personal Development] Developed a tech blog that can integrate Qiita articles with internal blogs](https://dev.to/kazutora_hattori_66972c88/personal-development-developed-a-tech-blog-that-can-integrate-qiita-articles-with-internal-blogs-5aj1)
+- [CI/CD for Electron Desktop Apps Auto-Update, CDN, Azure Blob, Matrix Build &amp; OS-Level Security](https://dev.to/techwithhari/cicd-for-electron-desktop-apps-auto-update-cdn-azure-blob-matrix-build-os-level-security-2gg9)
+- [I Built a Free Meditation App Because Everyone Should Have Access to Peace](https://dev.to/cenyi/i-built-a-free-meditation-app-because-everyone-should-have-access-to-peace-13n6)
+- [Preciso de 12 testadores para liberar meu jogo na Google Play &lpar;fechamento de requisito obrigatório&rpar;](https://dev.to/lustosakev/preciso-de-12-testadores-para-liberar-meu-jogo-na-google-play-fechamento-de-requisito-obrigatorio-2j66)
+- [Beyond Basic RAG: 3 Advanced Architectures I Built to Fix AI Retrieval](https://dev.to/anthony_lee_63e96408d7573/beyond-basic-rag-3-advanced-architectures-i-built-to-fix-ai-retrieval-4e5b)
 <!-- BLOG-POST-LIST:END -->
 
