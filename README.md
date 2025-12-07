@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
-- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
-- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
-- [AI agents are human too](https://dev.to/johanschuijt/ai-agents-are-human-too-3ah2)
+- [🤖 AI News Roundup - December 07, 2025](https://dev.to/edjere_evelynoghenetejir/ai-news-roundup-december-07-2025-1jnn)
+- [[2025 Guide] 7 Social Media Marketing Campaigns That Scaled D2C Brands](https://dev.to/getkoro_app/2025-guide-7-social-media-marketing-campaigns-that-scaled-d2c-brands-eb7)
+- [re:Play 2025](https://dev.to/yeshwanthlm/replay-2025-52oo)
+- [How to Save and Exit Vim? The Ultimate Guide for Beginners](https://dev.to/tuxmori/how-to-save-and-exit-vim-the-ultimate-guide-for-beginners-4ce0)
 <!-- BLOG-POST-LIST:END -->
 
