@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Electrifying AI with Code: A Spark of Innovation](https://dev.to/mabualzait/electrifying-ai-with-code-a-spark-of-innovation-5cd6)
-- [I Built a Fully Local Prompt Enhancer Chrome Extension with Gemini Nano](https://dev.to/harvesh_kumar/i-built-a-fully-local-prompt-enhancer-chrome-extension-with-gemini-nano-1m5m)
-- [How to Read &amp; Understand Config Files.](https://dev.to/kaustubhyerkade/how-to-read-understand-config-files-neg)
-- [Advent of Code 2025 - December 7th](https://dev.to/robvanderleek/advent-of-code-2025-december-7th-3j94)
+- [Best Laptops Under $800 in 2025 – I Bought and Tested 12 Myself](https://dev.to/honest_laptopreview_de83d/best-laptops-under-800-in-2025-i-bought-and-tested-12-myself-3cea)
+- [Ubuntu 24.04 Cheat-Sheet for MC-Server Support &lpar;Everything I Use&rpar;](https://dev.to/navickas/ubuntu-2404-cheat-sheet-for-mc-server-support-everything-i-use-4ied)
+- [Production-Ready Code Examples](https://dev.to/antonio_delgado_4df54c9bc/production-ready-code-examples-32n5)
+- [AIDE Automation Framework From Integrity Checks to Self-Verification](https://dev.to/sebos/aide-automation-framework-from-integrity-checks-to-self-verification-2ccn)
 <!-- BLOG-POST-LIST:END -->
 
