@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Backend, No Excuses: Building a Pain Tracker That Doesn&#39;t Sell You Out](https://dev.to/crisiscoresystems/no-backend-no-excuses-building-a-pain-tracker-that-doesnt-sell-you-out-118j)
-- [Building Stable AI Ecosystems With a Shared Meaning Root](https://dev.to/canonicalfunnel/building-stable-ai-ecosystems-with-a-shared-meaning-root-22n8)
-- [🚀 SWAG : Le Reverse Proxy Docker qui va révolutionner votre homelab !](https://dev.to/onepoint/swag-le-reverse-proxy-docker-qui-va-revolutionner-votre-homelab--1ik4)
-- [Urgent Security Update from Next.js](https://dev.to/r_muthukumaran_06172892/urgent-security-update-from-nextjs-11nd)
+- [Agentic patterns and architectural approaches in AI](https://dev.to/websilvercraft/agentic-patterns-and-architectural-approaches-in-ai-34b1)
+- [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
+- [Trauma-Informed React Hooks](https://dev.to/crisiscoresystems/trauma-informed-react-hooks-483n)
+- [[Personal Development] Developed a tech blog that can integrate Qiita articles with internal blogs](https://dev.to/kazutora_hattori_66972c88/personal-development-developed-a-tech-blog-that-can-integrate-qiita-articles-with-internal-blogs-5aj1)
 <!-- BLOG-POST-LIST:END -->
 
