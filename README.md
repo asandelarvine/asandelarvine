@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $300 Million Button: A Lesson in UX Engineering](https://dev.to/programevi/the-300-million-button-a-lesson-in-ux-engineering-2826)
-- [🏋️‍♂️ Spartan Racing, Software Development, and the Power of Relentless Grit](https://dev.to/franksmithiii/spartan-racing-software-development-and-the-power-of-relentless-grit-19nn)
-- [UnoDelivery App - AI Acceleration Challenge](https://dev.to/hctor_prez_606770454b73/unodelivery-app-ai-acceleration-challenge-3f83)
-- [HATEOAS – Do we have standard?](https://dev.to/pawe_sikora_5535c45ed2cc/hateoas-do-we-have-standard-je6)
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-2-4d7i)
+- [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
+- [A clean collection of free browser tools &lpar;PDF, Image, Text &amp; Dev Utilities&rpar;](https://dev.to/fulltools4you/a-clean-collection-of-free-browser-tools-pdf-image-text-dev-utilities-513c)
+- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
 <!-- BLOG-POST-LIST:END -->
 
