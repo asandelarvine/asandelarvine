@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD for Electron Desktop Apps Auto-Update, CDN, Azure Blob, Matrix Build &amp; OS-Level Security](https://dev.to/techwithhari/cicd-for-electron-desktop-apps-auto-update-cdn-azure-blob-matrix-build-os-level-security-2gg9)
-- [I Built a Free Meditation App Because Everyone Should Have Access to Peace](https://dev.to/cenyi/i-built-a-free-meditation-app-because-everyone-should-have-access-to-peace-13n6)
-- [Preciso de 12 testadores para liberar meu jogo na Google Play &lpar;fechamento de requisito obrigatório&rpar;](https://dev.to/lustosakev/preciso-de-12-testadores-para-liberar-meu-jogo-na-google-play-fechamento-de-requisito-obrigatorio-2j66)
-- [Beyond Basic RAG: 3 Advanced Architectures I Built to Fix AI Retrieval](https://dev.to/anthony_lee_63e96408d7573/beyond-basic-rag-3-advanced-architectures-i-built-to-fix-ai-retrieval-4e5b)
+- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
+- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
+- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
+- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
 <!-- BLOG-POST-LIST:END -->
 
