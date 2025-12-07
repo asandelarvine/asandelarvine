@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/leee_rodgers1/-56nd)
-- [Full Presentation &amp; Live Preview of DeployEase Working](https://dev.to/alikhan-devs/full-presentation-live-preview-of-deployease-working-3b1o)
-- [Weekly Challenge: Good shuffling](https://dev.to/simongreennet/weekly-challenge-good-shuffling-3cdj)
-- [[Boost]](https://dev.to/marvin_p/-156k)
+- [2026 Red Team - Kendi Hacking Araçlarımızı Yazmayı Öğreniyoruz](https://dev.to/mintercoder/2026-red-team-kendi-hacking-araclarimizi-yazmayi-ogreniyoruz-oln)
+- [My 5-Day Journey into AI Agents 🚀](https://dev.to/mahadiosb/my-5-day-journey-into-ai-agents-2al3)
+- [AWS Glue ETL Jobs: Transform Your Data at Scale](https://dev.to/aws-builders/aws-glue-etl-jobs-transform-your-data-at-scale-2l4n)
+- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
 <!-- BLOG-POST-LIST:END -->
 
