@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python by Structure: Context Managers and the &#39;with&#39; Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-20ab)
-- [Humans or Monsters: The Moral Crisis of Our Species](https://dev.to/devamanali/humans-or-monsters-the-moral-crisis-of-our-species-le5)
-- [10 Calendar Tools That Can Instantly Improve Your Productivity in 2025](https://dev.to/bakhat_yar_016451bb6f3b86/10-calendar-tools-that-can-instantly-improve-your-productivity-in-2025-3d60)
-- [Top 10 Business Processes That Will Be Fully Automated by 2030 &lpar;Technical Breakdown&rpar;](https://dev.to/mdmamunkabir/top-10-business-processes-that-will-be-fully-automated-by-2030-technical-breakdown-4c92)
+- [No Backend, No Excuses: Building a Pain Tracker That Doesn&#39;t Sell You Out](https://dev.to/crisiscoresystems/no-backend-no-excuses-building-a-pain-tracker-that-doesnt-sell-you-out-118j)
+- [Building Stable AI Ecosystems With a Shared Meaning Root](https://dev.to/canonicalfunnel/building-stable-ai-ecosystems-with-a-shared-meaning-root-22n8)
+- [🚀 SWAG : Le Reverse Proxy Docker qui va révolutionner votre homelab !](https://dev.to/onepoint/swag-le-reverse-proxy-docker-qui-va-revolutionner-votre-homelab--1ik4)
+- [Urgent Security Update from Next.js](https://dev.to/r_muthukumaran_06172892/urgent-security-update-from-nextjs-11nd)
 <!-- BLOG-POST-LIST:END -->
 
