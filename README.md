@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Winning AI Challenge for Cross-Platform Apps with Aroma_Have](https://dev.to/potheesh_15a42ffee19e/winning-ai-challenge-for-cross-platform-apps-with-aromahave-5cci)
-- [[Boost]](https://dev.to/pulkit_agarwal_daea4da2ec/-2a8c)
-- [Blazor vs React: A .NET Developer&#39;s Honest Comparison](https://dev.to/mashrulhaque/blazor-vs-react-a-net-developers-honest-comparison-59lk)
-- [Ever Wonder How Your Photos End Up “In the Cloud”? Meet FTP](https://dev.to/shamim_hasnain_bd/ever-wonder-how-your-photos-end-up-in-the-cloud-meet-ftp-2b8a)
+- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
+- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
+- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
+- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
 <!-- BLOG-POST-LIST:END -->
 
