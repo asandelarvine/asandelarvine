@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s December 2024 Core Update Hit E-Commerce Hard: Here&#39;s What Actually Changed](https://dev.to/synergistdigitalmedia/googles-december-2024-core-update-hit-e-commerce-hard-heres-what-actually-changed-533b)
-- [Advent of Code 2025 - December 6th](https://dev.to/robvanderleek/advent-of-code-2025-december-6th-1d14)
-- [Terrace Shop A headless Shopify store built for modern football terrace culture.](https://dev.to/saidmounaim/terrace-shop-a-headless-shopify-store-built-for-modern-football-terrace-culture-1h74)
-- [🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026](https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o)
+- [My First Ethical Open Redirect Scanner: From Zero to Shipped](https://dev.to/ethicals7s/my-first-ethical-open-redirect-scanner-from-zero-to-shipped-4h69)
+- [Huebox.fr : Transformez vos images en palettes stylées en un clic](https://dev.to/benjaminjacobdev/hueboxfr-transformez-vos-images-en-palettes-stylees-en-un-clic-of8)
+- [DevPills #6 - SQLC: how to scaffold your database code](https://dev.to/raulsilva/devpills-6-sqlc-how-to-scaffold-your-database-code-2996)
+- [Optimizing a 40-Year-Old Government Database: From 3s to 30ms](https://dev.to/sam_sullivan_411184fbc70e/optimizing-a-40-year-old-government-database-from-3s-to-30ms-4lk3)
 <!-- BLOG-POST-LIST:END -->
 
