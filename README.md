@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP, Code, or Commands? A Decision Framework for AI Tool Integration](https://dev.to/vuong_ngo/mcp-code-or-commands-a-decision-framework-for-ai-tool-integration-2f30)
-- [I made a Cyberpunk themed calculator app](https://dev.to/spidroid381/i-made-a-cyberpunk-themed-calculator-app-5acb)
-- [AI Chatbots Induce Users to Share Data](https://dev.to/ndabene/ai-chatbots-induce-users-to-share-data-350c)
-- [Busting the AI Hype: What&#39;s Real, What&#39;s a Bubble?](https://dev.to/mabualzait/busting-the-ai-hype-whats-real-whats-a-bubble-58lk)
+- [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)
+- [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)
+- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
+- [GPUI Component: Because Desktop Apps Shouldn&#39;t Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp)
 <!-- BLOG-POST-LIST:END -->
 
