@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-2-4d7i)
-- [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
-- [A clean collection of free browser tools &lpar;PDF, Image, Text &amp; Dev Utilities&rpar;](https://dev.to/fulltools4you/a-clean-collection-of-free-browser-tools-pdf-image-text-dev-utilities-513c)
-- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
+- [Electrifying AI with Code: A Spark of Innovation](https://dev.to/mabualzait/electrifying-ai-with-code-a-spark-of-innovation-5cd6)
+- [I Built a Fully Local Prompt Enhancer Chrome Extension with Gemini Nano](https://dev.to/harvesh_kumar/i-built-a-fully-local-prompt-enhancer-chrome-extension-with-gemini-nano-1m5m)
+- [How to Read &amp; Understand Config Files.](https://dev.to/kaustubhyerkade/how-to-read-understand-config-files-neg)
+- [Advent of Code 2025 - December 7th](https://dev.to/robvanderleek/advent-of-code-2025-december-7th-3j94)
 <!-- BLOG-POST-LIST:END -->
 
