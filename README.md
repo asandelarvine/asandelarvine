@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS vs Azure: Which Cloud Platform Makes More Sense for Your Career?](https://dev.to/technogeekscspuneindia/aws-vs-azure-which-cloud-platform-makes-more-sense-for-your-career-1gfl)
-- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
-- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
-- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
+- [FinOps for AI](https://dev.to/aws-builders/finops-for-ai-5cne)
+- [Stop Fighting React Native Dependency Hell — Use This Microsoft Tool](https://dev.to/ajmal_hasan/stop-fighting-react-native-dependency-hell-use-this-microsoft-tool-3g5g)
+- [From Ethereum to Mantle: Kicking Off My #14DaysOfLearning &lpar;Camp 6&rpar;](https://dev.to/azharpratama/from-ethereum-to-mantle-kicking-off-my-14daysoflearning-camp-6-39)
+- [How to Add Error Alerts to ShipFast in 30 Seconds](https://dev.to/mark_kaave/how-to-add-error-alerts-to-shipfast-in-30-seconds-1lj3)
 <!-- BLOG-POST-LIST:END -->
 
