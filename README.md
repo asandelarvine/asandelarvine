@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Switzerland of AI Tooling: Inside TanStack AI’s Bold New Approach](https://dev.to/usman_awan/the-switzerland-of-ai-tooling-inside-tanstack-ais-bold-new-approach-1cbb)
-- [Building Your First REST API with Spring Boot](https://dev.to/deividas-strole/building-your-first-rest-api-with-spring-boot-1be3)
-- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
-- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
+- [Asaaju Peter Reports Security Breach Caused by Malicious WordPress Plugin](https://dev.to/phemight_technologies_281/asaaju-peter-reports-security-breach-caused-by-malicious-wordpress-plugin-4d8c)
+- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
+- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+- [Unlock GPU Power with CUDA Tiles: A Python Developer&#39;s Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)
 <!-- BLOG-POST-LIST:END -->
 
