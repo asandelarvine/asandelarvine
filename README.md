@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps for AI](https://dev.to/aws-builders/finops-for-ai-5cne)
-- [Stop Fighting React Native Dependency Hell — Use This Microsoft Tool](https://dev.to/ajmal_hasan/stop-fighting-react-native-dependency-hell-use-this-microsoft-tool-3g5g)
-- [From Ethereum to Mantle: Kicking Off My #14DaysOfLearning &lpar;Camp 6&rpar;](https://dev.to/azharpratama/from-ethereum-to-mantle-kicking-off-my-14daysoflearning-camp-6-39)
-- [How to Add Error Alerts to ShipFast in 30 Seconds](https://dev.to/mark_kaave/how-to-add-error-alerts-to-shipfast-in-30-seconds-1lj3)
+- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
+- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
+- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
+- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
 <!-- BLOG-POST-LIST:END -->
 
