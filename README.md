@@ -79,9 +79,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: Transforming AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-transforming-ai-monetization-for-llm-apps-1cl1)
-- [Asaaju Peter Issues Strong Warning on Phishing Attacks and How to Avoid Them](https://dev.to/phemight_technologies_281/asaaju-peter-issues-strong-warning-on-phishing-attacks-and-how-to-avoid-them-420h)
-- [Hello dev.to! I’m Sergey — developer of Suri Oculus](https://dev.to/sergey_filipovich_5eb9e4c/hello-devto-im-sergey-developer-of-suri-oculus-iah)
-- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
+- [Just published a new blog on DEV Community! 🚀
+If you’ve ever struggled with messy URL search params in Next.js, this breakdown of nuqs shows how to make them fully type-safe, reactive, and effortless to manage.
+
+Would love your feedback](https://dev.to/tphilus/just-published-a-new-blog-on-dev-community-if-youve-ever-struggled-with-messy-url-search-14g2)
+- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
+- [Creating, Running, and Managing Python Projects in Visual Studio](https://dev.to/carl_max007/creating-running-and-managing-python-projects-in-visual-studio-33ea)
+- [Introduction](https://dev.to/esther_okafor_5a68bc4c5c8/introduction-3bil)
 <!-- BLOG-POST-LIST:END -->
 
