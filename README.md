@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
-- [The Brittleness Problem in Infrastructure Automation](https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma)
-- [QLCM - Quantum Language and Consciousness Model](https://dev.to/osmarylisbeth/qlcm-quantum-language-and-consciousness-model-45f9)
-- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
+- [Real-Time ALB Log Analysis for Proactive Integration Recovery via Datadog Monitors, Workflows and AWS Lambda](https://dev.to/aws-builders/real-time-alb-log-analysis-for-proactive-integration-recovery-via-datadog-monitors-workflows-and-115g)
+- [How to Know When Dynamic Programming Is Needed](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-dynamic-programming-is-needed-1f97)
+- [How to Explain LeetCode Solutions in Plain English for Interview Success](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-leetcode-solutions-in-plain-english-for-interview-success-423o)
+- [How to Explain Your LeetCode Solution Out Loud During Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-your-leetcode-solution-out-loud-during-coding-interviews-4e11)
 <!-- BLOG-POST-LIST:END -->
 
