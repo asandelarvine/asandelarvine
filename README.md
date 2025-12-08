@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT user growth slows to 5% from August to November, lagging behind Gemini&#39;s30% increase](https://dev.to/ytosko/chatgpt-user-growth-slows-to-5-from-august-to-november-lagging-behind-geminis30-increase-1k34)
-- [AWS re:Invent 2025 - Customize &amp; scale foundation models using Amazon SageMaker AI &lpar;AIM363&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-scale-foundation-models-using-amazon-sagemaker-ai-aim363-4717)
-- [AWS re:Invent 2025 - Break through AI performance and cost barriers with AWS Trainium &lpar;AIM201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-break-through-ai-performance-and-cost-barriers-with-aws-trainium-aim201-1cel)
-- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
+- [2025-12-08 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-robotics-news-3n8p)
+- [C# Operators Mental Model — From `number % 2 == 0` to LLM‑Ready Code](https://dev.to/cristiansifuentes/c-operators-mental-model-from-number-2-0-to-llm-ready-code-1kn8)
+- [AWS re:Invent 2025 - Build gpu-boosted, auto-optimized, billion-scale VectorDBs in hours &lpar;ANT213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-gpu-boosted-auto-optimized-billion-scale-vectordbs-in-hours-ant213-2dk1)
+- [AWS re:Invent 2025 - Why Usage-Based Billing Must Be Treated as Infrastructure &lpar;AIM109&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-why-usage-based-billing-must-be-treated-as-infrastructure-aim109-4706)
 <!-- BLOG-POST-LIST:END -->
 
