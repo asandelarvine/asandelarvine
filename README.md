@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent $12K Testing Meta&#39;s AI Ad Tools So You Don&#39;t Have To](https://dev.to/synergistdigitalmedia/i-spent-12k-testing-metas-ai-ad-tools-so-you-dont-have-to-3njc)
-- [metaForge: A Multi-Language Build &amp; Automation Compiler](https://dev.to/alsops/metaforge-a-multi-language-build-automation-compiler-251k)
-- [How to Use Lined Printables to Improve Your Study or Coding Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-use-lined-printables-to-improve-your-study-or-coding-workflow-p82)
-- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
+- [How simultaneously swapping unique IDs in Postgres](https://dev.to/hashcode01/how-simultaneously-swapping-unique-ids-in-postgres-1ki5)
+- [AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity &lpar;CNS382&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lambda-managed-instances-ec2-power-with-serverless-simplicity-cns382-3jnm)
+- [AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS &lpar;AMZ302&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-leo-building-a-low-earth-orbit-satellite-network-on-aws-amz302-46nb)
+- [Developer Meetup Badges Made Simple with BadgeFlow](https://dev.to/badgeflow/developer-meetup-badges-made-simple-with-badgeflow-1ci5)
 <!-- BLOG-POST-LIST:END -->
 
