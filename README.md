@@ -79,12 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just published a new blog on DEV Community! 🚀
-If you’ve ever struggled with messy URL search params in Next.js, this breakdown of nuqs shows how to make them fully type-safe, reactive, and effortless to manage.
-
-Would love your feedback](https://dev.to/tphilus/just-published-a-new-blog-on-dev-community-if-youve-ever-struggled-with-messy-url-search-14g2)
-- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
-- [Creating, Running, and Managing Python Projects in Visual Studio](https://dev.to/carl_max007/creating-running-and-managing-python-projects-in-visual-studio-33ea)
-- [Introduction](https://dev.to/esther_okafor_5a68bc4c5c8/introduction-3bil)
+- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
+- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
+- [Key NGINX performance metrics](https://dev.to/priyapraburam/key-nginx-performance-metrics-45bl)
+- [Automation-First Automation-First Engineering: Removing Manual Bottlenecks with CI/CD &amp; IaC](https://dev.to/aspire-softserv/automation-first-automation-first-engineering-removing-manual-bottlenecks-with-cicd-iac-40in)
 <!-- BLOG-POST-LIST:END -->
 
