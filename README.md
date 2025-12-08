@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How simultaneously swapping unique IDs in Postgres](https://dev.to/hashcode01/how-simultaneously-swapping-unique-ids-in-postgres-1ki5)
-- [AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity &lpar;CNS382&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-lambda-managed-instances-ec2-power-with-serverless-simplicity-cns382-3jnm)
-- [AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS &lpar;AMZ302&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-leo-building-a-low-earth-orbit-satellite-network-on-aws-amz302-46nb)
-- [Developer Meetup Badges Made Simple with BadgeFlow](https://dev.to/badgeflow/developer-meetup-badges-made-simple-with-badgeflow-1ci5)
+- [🚀 Revolutionizing System Design with Diagrammatic: An AI-Powered Architecture Tool for Modern Developers](https://dev.to/satya00089/revolutionizing-system-design-with-diagrammatic-an-ai-powered-architecture-tool-for-modern-iib)
+- [&lpar;8/8&rpar; Testes Finais, Troubleshooting e Encerramento](https://dev.to/levi_the_goat/88-testes-finais-troubleshooting-e-encerramento-5627)
+- [&lpar;7/8&rpar; Firewall: Estrutura, Fluxo e Políticas Reais](https://dev.to/levi_the_goat/78-firewall-estrutura-fluxo-e-politicas-reais-5gm4)
+- [Controlled vs. Uncontrolled Components in React: A Practical Guide](https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79)
 <!-- BLOG-POST-LIST:END -->
 
