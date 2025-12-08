@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevFlow: API testing tool made with UNO.](https://dev.to/prime_299792/devflow-api-testing-tool-made-with-uno-dnp)
-- [a](https://dev.to/anurag_sati_5b77a6578f780/a-5fef)
-- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
-- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
+- [A Developer’s Guide to Domain Types: What They Mean and How to Choose the Right One](https://dev.to/badass_tech-ae2025/a-developers-guide-to-domain-types-what-they-mean-and-how-to-choose-the-right-one-2g8g)
+- [Mastering Wildcards in Linux: *, ?, and [] for Efficient File Management](https://dev.to/agentic-jj/mastering-wildcards-in-linux-and-for-efficient-file-management-1gg7)
+- [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-3ihe)
+- [WhisprGeo – I just built a location-based voice note app &lpar;looking for feedback!&rpar;](https://dev.to/whispr_geo_10c645c36c4432/whisprgeo-i-just-built-a-location-based-voice-note-app-looking-for-feedback-9al)
 <!-- BLOG-POST-LIST:END -->
 
