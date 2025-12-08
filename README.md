@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Revolutionizing System Design with Diagrammatic: An AI-Powered Architecture Tool for Modern Developers](https://dev.to/satya00089/revolutionizing-system-design-with-diagrammatic-an-ai-powered-architecture-tool-for-modern-iib)
-- [&lpar;8/8&rpar; Testes Finais, Troubleshooting e Encerramento](https://dev.to/levi_the_goat/88-testes-finais-troubleshooting-e-encerramento-5627)
-- [&lpar;7/8&rpar; Firewall: Estrutura, Fluxo e Políticas Reais](https://dev.to/levi_the_goat/78-firewall-estrutura-fluxo-e-politicas-reais-5gm4)
-- [Controlled vs. Uncontrolled Components in React: A Practical Guide](https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79)
+- [AI-Friendly README: Stop Claude &amp; ChatGPT Hallucinations](https://dev.to/jedrzejdocs/ai-friendly-readme-stop-claude-chatgpt-hallucinations-4ho)
+- [AWS re:Invent 2025 - Securing agent access with Amazon Bedrock AgentCore Identity &lpar;SEC313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-securing-agent-access-with-amazon-bedrock-agentcore-identity-sec313-2p4j)
+- [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
+- [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
 <!-- BLOG-POST-LIST:END -->
 
