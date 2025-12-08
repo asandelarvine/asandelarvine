@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer’s Guide to Domain Types: What They Mean and How to Choose the Right One](https://dev.to/badass_tech-ae2025/a-developers-guide-to-domain-types-what-they-mean-and-how-to-choose-the-right-one-2g8g)
-- [Mastering Wildcards in Linux: *, ?, and [] for Efficient File Management](https://dev.to/agentic-jj/mastering-wildcards-in-linux-and-for-efficient-file-management-1gg7)
-- [🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations](https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-3ihe)
-- [WhisprGeo – I just built a location-based voice note app &lpar;looking for feedback!&rpar;](https://dev.to/whispr_geo_10c645c36c4432/whisprgeo-i-just-built-a-location-based-voice-note-app-looking-for-feedback-9al)
+- [Monetzly: Transforming AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-transforming-ai-monetization-for-llm-apps-1cl1)
+- [Asaaju Peter Issues Strong Warning on Phishing Attacks and How to Avoid Them](https://dev.to/phemight_technologies_281/asaaju-peter-issues-strong-warning-on-phishing-attacks-and-how-to-avoid-them-420h)
+- [Hello dev.to! I’m Sergey — developer of Suri Oculus](https://dev.to/sergey_filipovich_5eb9e4c/hello-devto-im-sergey-developer-of-suri-oculus-iah)
+- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
 <!-- BLOG-POST-LIST:END -->
 
