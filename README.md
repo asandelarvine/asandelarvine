@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Terraform Functions – Part 2](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-functions-part-2-430e)
-- [n8n AI Automation Workflows: 5 Templates That Save 100+ Hours](https://dev.to/joe_joe/n8n-ai-automation-workflows-5-templates-that-save-100-hours-46fg)
-- [A Practical Guide to Supabase: Setting up a Database, Auth, and Integrating Resend](https://dev.to/yeagoo/a-practical-guide-to-supabase-setting-up-a-database-auth-and-integrating-resend-obe)
-- [How to Fix “Broken Formatting” in Excel &lpar;Quick Repair Guide&rpar;](https://dev.to/vedad_borovac_pxc/how-to-fix-broken-formatting-in-excel-quick-repair-guide-2h0g)
+- [I Spent $12K Testing Meta&#39;s AI Ad Tools So You Don&#39;t Have To](https://dev.to/synergistdigitalmedia/i-spent-12k-testing-metas-ai-ad-tools-so-you-dont-have-to-3njc)
+- [metaForge: A Multi-Language Build &amp; Automation Compiler](https://dev.to/alsops/metaforge-a-multi-language-build-automation-compiler-251k)
+- [How to Use Lined Printables to Improve Your Study or Coding Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-use-lined-printables-to-improve-your-study-or-coding-workflow-p82)
+- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
 <!-- BLOG-POST-LIST:END -->
 
