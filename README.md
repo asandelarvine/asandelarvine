@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
-- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
-- [Key NGINX performance metrics](https://dev.to/priyapraburam/key-nginx-performance-metrics-45bl)
-- [Automation-First Automation-First Engineering: Removing Manual Bottlenecks with CI/CD &amp; IaC](https://dev.to/aspire-softserv/automation-first-automation-first-engineering-removing-manual-bottlenecks-with-cicd-iac-40in)
+- [How Agentic AI Is Transforming Intelligent Automation Across Industries](https://dev.to/harshada_75eaf5c6bf7a194a/how-agentic-ai-is-transforming-intelligent-automation-across-industries-4bh)
+- [Without DNS, The Internet Won&#39;t Exist](https://dev.to/scofieldidehen/without-dns-the-internet-wont-exist-500h)
+- [Securities vs. Commodities: Why Crypto Classification Matters More Than You Think](https://dev.to/umang_suthar_9bad6f345a8a/securities-vs-commodities-why-crypto-classification-matters-more-than-you-think-4624)
+- [The Story of Docker And a Newbie](https://dev.to/vipulydv/the-story-of-docker-and-a-newbie-4m95)
 <!-- BLOG-POST-LIST:END -->
 
