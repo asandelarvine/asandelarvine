@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time ALB Log Analysis for Proactive Integration Recovery via Datadog Monitors, Workflows and AWS Lambda](https://dev.to/aws-builders/real-time-alb-log-analysis-for-proactive-integration-recovery-via-datadog-monitors-workflows-and-115g)
-- [How to Know When Dynamic Programming Is Needed](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-dynamic-programming-is-needed-1f97)
-- [How to Explain LeetCode Solutions in Plain English for Interview Success](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-leetcode-solutions-in-plain-english-for-interview-success-423o)
-- [How to Explain Your LeetCode Solution Out Loud During Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-your-leetcode-solution-out-loud-during-coding-interviews-4e11)
+- [The Switzerland of AI Tooling: Inside TanStack AI’s Bold New Approach](https://dev.to/usman_awan/the-switzerland-of-ai-tooling-inside-tanstack-ais-bold-new-approach-1cbb)
+- [Building Your First REST API with Spring Boot](https://dev.to/deividas-strole/building-your-first-rest-api-with-spring-boot-1be3)
+- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
+- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
 <!-- BLOG-POST-LIST:END -->
 
