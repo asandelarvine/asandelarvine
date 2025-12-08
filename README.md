@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
-- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
-- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
-- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
+- [AWS Terraform Functions – Part 2](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-functions-part-2-430e)
+- [n8n AI Automation Workflows: 5 Templates That Save 100+ Hours](https://dev.to/joe_joe/n8n-ai-automation-workflows-5-templates-that-save-100-hours-46fg)
+- [A Practical Guide to Supabase: Setting up a Database, Auth, and Integrating Resend](https://dev.to/yeagoo/a-practical-guide-to-supabase-setting-up-a-database-auth-and-integrating-resend-obe)
+- [How to Fix “Broken Formatting” in Excel &lpar;Quick Repair Guide&rpar;](https://dev.to/vedad_borovac_pxc/how-to-fix-broken-formatting-in-excel-quick-repair-guide-2h0g)
 <!-- BLOG-POST-LIST:END -->
 
