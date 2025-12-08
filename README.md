@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #750 - Perl Advent Calendar 2025](https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga)
-- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0)
-- [Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer](https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop)
-- [Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon](https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon)
+- [DevFlow: API testing tool made with UNO.](https://dev.to/prime_299792/devflow-api-testing-tool-made-with-uno-dnp)
+- [a](https://dev.to/anurag_sati_5b77a6578f780/a-5fef)
+- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
+- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
 <!-- BLOG-POST-LIST:END -->
 
