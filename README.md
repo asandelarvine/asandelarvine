@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Search Just Changed the Game—Here&#39;s How to Actually Rank in AI Answer Engines](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-heres-how-to-actually-rank-in-ai-answer-engines-265p)
-- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
-- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
-- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
+- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
+- [The Brittleness Problem in Infrastructure Automation](https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma)
+- [QLCM - Quantum Language and Consciousness Model](https://dev.to/osmarylisbeth/qlcm-quantum-language-and-consciousness-model-45f9)
+- [A beginner&#39;s guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c)
 <!-- BLOG-POST-LIST:END -->
 
