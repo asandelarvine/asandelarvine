@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Lightweight Way to Convert Text Files to PDF Without Breaking Developer Flow](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-convert-text-files-to-pdf-without-breaking-developer-flow-3lee)
-- [A Simple Tool to Solve Real Problems for Shop Owners](https://dev.to/vjygour/a-simple-tool-to-solve-real-problems-for-shop-owners-1gp2)
-- [PostgreSQL MVCC vs MySQL Key-Next Locking: How Transaction Isolation Affects Concurrency](https://dev.to/deko39/postgresql-mvcc-vs-mysql-key-next-locking-how-transaction-isolation-affects-concurrency-3a37)
-- [Understanding Different Types of Databases in AWS: When to Use What?](https://dev.to/aishwarygathe/understanding-different-types-of-databases-in-aws-when-to-use-what-3nmo)
+- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
+- [NextAuth.js to Better Auth: Why I Switched Auth Libraries](https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3)
+- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
+- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
 <!-- BLOG-POST-LIST:END -->
 
