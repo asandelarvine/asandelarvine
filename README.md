@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
-- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
-- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
-- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
+- [From Chatting with AI to Architecting It](https://dev.to/roi_d95df0bf6e689c571b39a/from-chatting-with-ai-to-architecting-it-5a9k)
+- [MCP won, but the Lock-in War just started. Why &quot;Agent-first&quot; scares vendors more than &quot;Open-source&quot; saves them.](https://dev.to/fl4tlin3/mcp-won-but-the-lock-in-war-just-started-why-agent-first-scares-vendors-more-than-open-source-1odl)
+- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
+- [Best ways for a hotel to optimize its online presence so AI‑driven search tools recommend it over OTAs?](https://dev.to/bryvandekamp/best-ways-for-a-hotel-to-optimize-its-online-presence-so-ai-driven-search-tools-recommend-it-over-3m68)
 <!-- BLOG-POST-LIST:END -->
 
