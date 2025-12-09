@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 07: Getting Comfortable with Terraform Variables](https://dev.to/sreya_sharma_711168ec58fc/day-07-getting-comfortable-with-terraform-variables-4p0p)
-- [You Don’t Need RAG to Build a Domain Sentiment Engine — A Single LLM + JSON Works](https://dev.to/yuer/you-dont-need-rag-to-build-a-domain-sentiment-engine-a-single-llm-json-works-18hm)
-- [Supercharge Your Go Applications: Advanced Caching Strategies for High-Load Systems](https://dev.to/4mars/supercharge-your-go-applications-advanced-caching-strategies-for-high-load-systems-3of1)
-- [Being a Writer: Fun But Sometimes Headache-Inducing](https://dev.to/samrichh/being-a-writer-fun-but-sometimes-headache-inducing-19a)
+- [Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot](https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04)
+- [True Parallelism in R Using the parallel Package](https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i)
+- [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
+- [I built an AI-powered Portfolio Tracker](https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen)
 <!-- BLOG-POST-LIST:END -->
 
