@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Going beyond autocomplete with AI Agents](https://dev.to/wildgoosedevelopers/going-beyond-autocomplete-with-ai-agents-1cee)
-- [🎮 7 React Game Challenges You Should Try This Month](https://dev.to/duffmancc/7-react-game-challenges-you-should-try-this-month-3f86)
-- [Digital Personal Data Protection Act 2023: What It Is and Why It Matters](https://dev.to/cybersigma/digital-personal-data-protection-act-2023-what-it-is-and-why-it-matters-1145)
-- [n8n: Google Sheets - Append row in sheet](https://dev.to/codebangkok/n8n-google-sheets-append-row-in-sheet-ode)
+- [Tech News Roundup: December 9, 2025 - OpenAI&#39;s &#39;Code Red&#39;, DeepSeek&#39;s Challenge, and the $320B AI Arms Race](https://dev.to/krlz/tech-news-roundup-december-9-2025-openais-code-red-deepseeks-challenge-and-the-320b-ai-590j)
+- [Jopi.js : I&#39;m the new community manager!](https://dev.to/claratc/jopijs-im-the-new-community-manager-1c2k)
+- [5 Business Workflows You Can Automate With n8n](https://dev.to/ciphernutz/5-business-workflows-you-can-automate-with-n8n-1kcc)
+- [The Role of Job Description in Building Organizational Culture](https://dev.to/writegenic/the-role-of-job-description-in-building-organizational-culture-17l4)
 <!-- BLOG-POST-LIST:END -->
 
