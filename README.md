@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Personalizing Services in Mobile Banking for SMEs](https://dev.to/it-influencer/ai-for-personalizing-services-in-mobile-banking-for-smes-3fj5)
-- [The Echo Chamber of Content](https://dev.to/gigaelk/the-echo-chamber-of-content-3ojm)
-- [Flutter on Your Phone: Building Games in Termux While Your Laptop Judges You](https://dev.to/krlz/flutter-on-your-phone-building-games-in-termux-while-your-laptop-judges-you-570g)
-- [PRPM - The Universal Package Manager for AI Prompts](https://dev.to/devdiaries/prpm-the-universal-package-manager-for-ai-prompts-36cf)
+- [MCP Sampling: When Your Tools Need to Think](https://dev.to/blockopensource/mcp-sampling-when-your-tools-need-to-think-2d2c)
+- [Meet Hubble: A Natural-Language Observatory for MongoDB](https://dev.to/davidos366/meet-hubble-a-natural-language-observatory-for-mongodb-2lal)
+- [January&#39;s Gold Mine: Why Your Holiday Window Shoppers Are Worth More Than You Think](https://dev.to/synergistdigitalmedia/januarys-gold-mine-why-your-holiday-window-shoppers-are-worth-more-than-you-think-31mk)
+- [2025-12-09 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-09-daily-ai-news-45om)
 <!-- BLOG-POST-LIST:END -->
 
