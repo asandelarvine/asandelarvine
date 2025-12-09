@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StackConvert: Free Online File Conversion Tools](https://dev.to/rahmat_ullah_646d3e085019/stackconvert-free-online-file-conversion-tools-496l)
-- [Why I Recommend You to Migrate from Cloudflare to SafeLine WAF](https://dev.to/arina_cholee/why-i-recommend-you-to-migrate-from-cloudflare-to-safeline-waf-2j22)
-- [Building a Managed Database Service on €3 Hetzner Servers: The Economics of EU Cloud Sovereignty](https://dev.to/muhiak/building-a-managed-database-service-on-eu3-hetzner-servers-the-economics-of-eu-cloud-sovereignty-237g)
-- [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
+- [Going beyond autocomplete with AI Agents](https://dev.to/wildgoosedevelopers/going-beyond-autocomplete-with-ai-agents-1cee)
+- [🎮 7 React Game Challenges You Should Try This Month](https://dev.to/duffmancc/7-react-game-challenges-you-should-try-this-month-3f86)
+- [Digital Personal Data Protection Act 2023: What It Is and Why It Matters](https://dev.to/cybersigma/digital-personal-data-protection-act-2023-what-it-is-and-why-it-matters-1145)
+- [n8n: Google Sheets - Append row in sheet](https://dev.to/codebangkok/n8n-google-sheets-append-row-in-sheet-ode)
 <!-- BLOG-POST-LIST:END -->
 
