@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech News Roundup: December 9, 2025 - OpenAI&#39;s &#39;Code Red&#39;, DeepSeek&#39;s Challenge, and the $320B AI Arms Race](https://dev.to/krlz/tech-news-roundup-december-9-2025-openais-code-red-deepseeks-challenge-and-the-320b-ai-590j)
-- [Jopi.js : I&#39;m the new community manager!](https://dev.to/claratc/jopijs-im-the-new-community-manager-1c2k)
-- [5 Business Workflows You Can Automate With n8n](https://dev.to/ciphernutz/5-business-workflows-you-can-automate-with-n8n-1kcc)
-- [The Role of Job Description in Building Organizational Culture](https://dev.to/writegenic/the-role-of-job-description-in-building-organizational-culture-17l4)
+- [AI Automation: How to Build LLM Apps, AI Agents and Automated Workflows](https://dev.to/yeahiasarker/ai-automation-how-to-build-llm-apps-ai-agents-and-automated-workflows-5c1o)
+- [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
+- [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
+- [Mastering Lightning App Builder in 2025 A Practical Guide for Salesforce Admins &amp; Builders](https://dev.to/selavina_b_de3b87f13c96a6/mastering-lightning-app-builder-in-2025-a-practical-guide-for-salesforce-admins-builders-2h7m)
 <!-- BLOG-POST-LIST:END -->
 
