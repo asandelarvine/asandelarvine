@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot](https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04)
-- [True Parallelism in R Using the parallel Package](https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i)
-- [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution &amp; Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh)
-- [I built an AI-powered Portfolio Tracker](https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen)
+- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
+- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
+- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
+- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
 <!-- BLOG-POST-LIST:END -->
 
