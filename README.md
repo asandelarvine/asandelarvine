@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-08 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-robotics-news-3n8p)
-- [C# Operators Mental Model — From `number % 2 == 0` to LLM‑Ready Code](https://dev.to/cristiansifuentes/c-operators-mental-model-from-number-2-0-to-llm-ready-code-1kn8)
-- [AWS re:Invent 2025 - Build gpu-boosted, auto-optimized, billion-scale VectorDBs in hours &lpar;ANT213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-gpu-boosted-auto-optimized-billion-scale-vectordbs-in-hours-ant213-2dk1)
-- [AWS re:Invent 2025 - Why Usage-Based Billing Must Be Treated as Infrastructure &lpar;AIM109&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-why-usage-based-billing-must-be-treated-as-infrastructure-aim109-4706)
+- [A beginner&#39;s guide to the Kokoro-82m-All-Voices model by Vladpolbennikov on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-kokoro-82m-all-voices-model-by-vladpolbennikov-on-replicate-33j3)
+- [I Spent 40 Hours Researching Business Ideas So You Don&#39;t Have To - Here&#39;s What Actually Works in 2025](https://dev.to/krlz/i-spent-40-hours-researching-business-ideas-so-you-dont-have-to-heres-what-actually-works-in-474i)
+- [L’IA Générative dans le DevSecOps](https://dev.to/dabbech_narjess_2413d67e2/lia-generative-dans-le-devsecops-4cja)
+- [I Tried &quot;Vibe Coding&quot; a Hardware Test Site: AI is Powerful, But It&#39;s Not Magic &lpar;Yet&rpar; 🛠️](https://dev.to/jackwind/i-tried-vibe-coding-a-hardware-test-site-ai-is-powerful-but-its-not-magic-yet-4gn5)
 <!-- BLOG-POST-LIST:END -->
 
