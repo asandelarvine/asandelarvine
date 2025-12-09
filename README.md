@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
-- [NextAuth.js to Better Auth: Why I Switched Auth Libraries](https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3)
-- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
-- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
+- [Technology Best IT Solutions for Businesses Using Cloud Solutions and Emerging Technologies](https://dev.to/itcs11/technologybest-it-solutions-for-businesses-using-cloud-solutions-and-emerging-technologies-250k)
+- [The Secret Life of Go: Mutexes and Synchronization](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-mutexes-and-synchronization-51f6)
+- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
+- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
 <!-- BLOG-POST-LIST:END -->
 
