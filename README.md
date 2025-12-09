@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chatting with AI to Architecting It](https://dev.to/roi_d95df0bf6e689c571b39a/from-chatting-with-ai-to-architecting-it-5a9k)
-- [MCP won, but the Lock-in War just started. Why &quot;Agent-first&quot; scares vendors more than &quot;Open-source&quot; saves them.](https://dev.to/fl4tlin3/mcp-won-but-the-lock-in-war-just-started-why-agent-first-scares-vendors-more-than-open-source-1odl)
-- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
-- [Best ways for a hotel to optimize its online presence so AI‑driven search tools recommend it over OTAs?](https://dev.to/bryvandekamp/best-ways-for-a-hotel-to-optimize-its-online-presence-so-ai-driven-search-tools-recommend-it-over-3m68)
+- [Stop Clicking, Start Shipping: A Minimalist Dashboard for Netlify](https://dev.to/vamshi4001/stop-clicking-start-shipping-a-minimalist-dashboard-for-netlify-2ckn)
+- [Shallow Copy vs Deep Copy in JavaScript — Quick and Clear explanation](https://dev.to/shantih_palani/shallow-copy-vs-deep-copy-in-javascript-quick-clear-slightly-funny-4d98)
+- [Project vs Transject](https://dev.to/stakiran/project-vs-transject-cpd)
+- [Swift #9: Switch case](https://dev.to/david_goyes_a488f58a17a53/swift-9-switch-case-73p)
 <!-- BLOG-POST-LIST:END -->
 
