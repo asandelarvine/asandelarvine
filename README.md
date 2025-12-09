@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Why Social Media Feels So Harsh: Observations from Facebook](https://dev.to/janithadhananjaya/why-social-media-feels-so-harsh-observations-from-facebook-60c)
-- [Message Trace in Microsoft 365](https://dev.to/itcs11/message-trace-in-microsoft-365-78o)
-- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k)
-- [How I Stopped My AI from Booking 60 Students into a 25-Seat Room](https://dev.to/md_romannihal_590f79d4aa/how-i-stopped-my-ai-from-booking-60-students-into-a-25-seat-room-5del)
+- [From Code to Context: Building Semantic Search &amp; Live Chat Over Your Codebase with Vezlo](https://dev.to/ashford_ai/from-code-to-context-building-semantic-search-live-chat-over-your-codebase-with-vezlo-4aa1)
+- [Build a Free, Private “Chat with PDF” App in 70 Lines of Python](https://dev.to/fabiothiroki/build-a-free-private-chat-with-pdf-app-in-70-lines-of-python-4dn8)
+- [From Python Script to Docker Container: A Beginner&#39;s Guide &lpar;Windows + WSL2&rpar;](https://dev.to/raafe_asad/from-python-script-to-docker-container-a-beginners-guide-windows-wsl2-c48)
+- [Made a $10 “Mood Lamp” with ESP32, WS2812B, and Ambient Light Sensor](https://dev.to/emma-suntech/made-a-10-mood-lamp-with-esp32-ws2812b-and-ambient-light-sensor-172h)
 <!-- BLOG-POST-LIST:END -->
 
