@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Architected a Scalable WhatsApp Job Assistant &lpar;WorqNow&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/how-i-architected-a-scalable-whatsapp-job-assistant-worqnow-3c0c)
-- [Building an LLM Gateway in Go: What We Learned](https://dev.to/kuldeep_paul/building-an-llm-gateway-in-go-what-we-learned-22mm)
-- [Implementing Feature Flags in AWS CDK: A Contributor&#39;s Guide](https://dev.to/aws-builders/implementing-feature-flags-in-aws-cdk-a-contributors-guide-fdf)
-- [We built an LLM gateway 50x faster than LiteLLM &lpar;and it&#39;s open source&rpar;](https://dev.to/kuldeep_paul/we-built-an-llm-gateway-50x-faster-than-litellm-and-its-open-source-4a57)
+- [Taming the 5–10% Instability Rule: Using ASA for Deterministic Regeneration](https://dev.to/vibecodiq/taming-the-5-10-instability-rule-using-asa-for-deterministic-regeneration-3j0b)
+- [How to Secure Your AI App Against Prompt Injection in 5 Minutes](https://dev.to/abhijoy_sarkar_c3f44842fa/how-to-secure-your-ai-app-against-prompt-injection-in-5-minutes-4hpl)
+- [5 Patrones de Orquestación Multi-Agente que Funcionan en Producción &lpar;LangGraph&rpar;](https://dev.to/abdessamad_ammi_202ac2bad/5-patrones-de-orquestacion-multi-agente-que-funcionan-en-produccion-langgraph-1f1)
+- [Interview preparation #1](https://dev.to/arun_kumar_98/interview-preparation-1-37o9)
 <!-- BLOG-POST-LIST:END -->
 
