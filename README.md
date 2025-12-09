@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Automation: How to Build LLM Apps, AI Agents and Automated Workflows](https://dev.to/yeahiasarker/ai-automation-how-to-build-llm-apps-ai-agents-and-automated-workflows-5c1o)
-- [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
-- [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
-- [Mastering Lightning App Builder in 2025 A Practical Guide for Salesforce Admins &amp; Builders](https://dev.to/selavina_b_de3b87f13c96a6/mastering-lightning-app-builder-in-2025-a-practical-guide-for-salesforce-admins-builders-2h7m)
+- [New AI web standards and scraping trends in 2026: rethinking robots.txt](https://dev.to/astro-official/new-ai-web-standards-and-scraping-trends-in-2026-rethinking-robotstxt-3730)
+- [How I Built a Disaster Resource Coordination Agent &lpar;DRCA&rpar; with Google Gemini](https://dev.to/deeksha_mahara_44401ff158/how-i-built-a-disaster-resource-coordination-agent-drca-with-google-gemini-1m4j)
+- [Exploring How Redis and CloudFront Speed Up Fintech Applications](https://dev.to/ertnbrk/exploring-how-redis-and-cloudfront-speed-up-fintech-applications-kk)
+- [Built a Rock-Solid E2E Tests for KubeStellar: A 3-Month Journey](https://dev.to/arpit529srivatava/built-a-rock-solid-e2e-tests-for-kubestellar-a-3-month-journey-5f89)
 <!-- BLOG-POST-LIST:END -->
 
