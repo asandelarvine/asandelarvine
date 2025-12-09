@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New AI web standards and scraping trends in 2026: rethinking robots.txt](https://dev.to/astro-official/new-ai-web-standards-and-scraping-trends-in-2026-rethinking-robotstxt-3730)
-- [How I Built a Disaster Resource Coordination Agent &lpar;DRCA&rpar; with Google Gemini](https://dev.to/deeksha_mahara_44401ff158/how-i-built-a-disaster-resource-coordination-agent-drca-with-google-gemini-1m4j)
-- [Exploring How Redis and CloudFront Speed Up Fintech Applications](https://dev.to/ertnbrk/exploring-how-redis-and-cloudfront-speed-up-fintech-applications-kk)
-- [Built a Rock-Solid E2E Tests for KubeStellar: A 3-Month Journey](https://dev.to/arpit529srivatava/built-a-rock-solid-e2e-tests-for-kubestellar-a-3-month-journey-5f89)
+- [Github Copilot Alternatives for AI Code Review](https://dev.to/ed_dfreitas/github-copilot-alternatives-for-ai-code-review-1856)
+- [TLS 1.2 vs TLS 1.3 in Production &lpar;2025&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/tls-12-vs-tls-13-in-production-2025-5c0e)
+- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
+- [Offline Data Entry Automation Software](https://dev.to/arba2021/offline-data-entry-automation-software-1648)
 <!-- BLOG-POST-LIST:END -->
 
