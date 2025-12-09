@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the 5–10% Instability Rule: Using ASA for Deterministic Regeneration](https://dev.to/vibecodiq/taming-the-5-10-instability-rule-using-asa-for-deterministic-regeneration-3j0b)
-- [How to Secure Your AI App Against Prompt Injection in 5 Minutes](https://dev.to/abhijoy_sarkar_c3f44842fa/how-to-secure-your-ai-app-against-prompt-injection-in-5-minutes-4hpl)
-- [5 Patrones de Orquestación Multi-Agente que Funcionan en Producción &lpar;LangGraph&rpar;](https://dev.to/abdessamad_ammi_202ac2bad/5-patrones-de-orquestacion-multi-agente-que-funcionan-en-produccion-langgraph-1f1)
-- [Interview preparation #1](https://dev.to/arun_kumar_98/interview-preparation-1-37o9)
+- [Building Multi-Tenant AI SaaS Without the Data Privacy Nightmares](https://dev.to/shashikiran_ml/building-multi-tenant-ai-saas-without-the-data-privacy-nightmares-2ig4)
+- [Networking for Cybersecurity &lpar;Part 1&rpar;: OSI, TCP/IP, Ports &amp; Protocols](https://dev.to/alvinseyidov/networking-for-cybersecurity-part-1-osi-tcpip-ports-protocols-3eai)
+- [A RAG-Free Technique That Makes LLM Outputs Stable, Predictable, and Auditable](https://dev.to/yuer/a-rag-free-technique-that-makes-llm-outputs-stable-predictable-and-auditable-54nm)
+- [Anki powered with AI open-source projec](https://dev.to/maltsevmki/anki-powered-with-ai-open-source-projec-2d16)
 <!-- BLOG-POST-LIST:END -->
 
