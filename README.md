@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Technology Best IT Solutions for Businesses Using Cloud Solutions and Emerging Technologies](https://dev.to/itcs11/technologybest-it-solutions-for-businesses-using-cloud-solutions-and-emerging-technologies-250k)
-- [The Secret Life of Go: Mutexes and Synchronization](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-mutexes-and-synchronization-51f6)
-- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
-- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
+- [🚨 Why Social Media Feels So Harsh: Observations from Facebook](https://dev.to/janithadhananjaya/why-social-media-feels-so-harsh-observations-from-facebook-60c)
+- [Message Trace in Microsoft 365](https://dev.to/itcs11/message-trace-in-microsoft-365-78o)
+- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k)
+- [How I Stopped My AI from Booking 60 Students into a 25-Seat Room](https://dev.to/md_romannihal_590f79d4aa/how-i-stopped-my-ai-from-booking-60-students-into-a-25-seat-room-5del)
 <!-- BLOG-POST-LIST:END -->
 
