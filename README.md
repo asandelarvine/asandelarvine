@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Copilot Alternatives for AI Code Review](https://dev.to/ed_dfreitas/github-copilot-alternatives-for-ai-code-review-1856)
-- [TLS 1.2 vs TLS 1.3 in Production &lpar;2025&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/tls-12-vs-tls-13-in-production-2025-5c0e)
-- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
-- [Offline Data Entry Automation Software](https://dev.to/arba2021/offline-data-entry-automation-software-1648)
+- [How I Architected a Scalable WhatsApp Job Assistant &lpar;WorqNow&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/how-i-architected-a-scalable-whatsapp-job-assistant-worqnow-3c0c)
+- [Building an LLM Gateway in Go: What We Learned](https://dev.to/kuldeep_paul/building-an-llm-gateway-in-go-what-we-learned-22mm)
+- [Implementing Feature Flags in AWS CDK: A Contributor&#39;s Guide](https://dev.to/aws-builders/implementing-feature-flags-in-aws-cdk-a-contributors-guide-fdf)
+- [We built an LLM gateway 50x faster than LiteLLM &lpar;and it&#39;s open source&rpar;](https://dev.to/kuldeep_paul/we-built-an-llm-gateway-50x-faster-than-litellm-and-its-open-source-4a57)
 <!-- BLOG-POST-LIST:END -->
 
