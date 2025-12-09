@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Context: Building Semantic Search &amp; Live Chat Over Your Codebase with Vezlo](https://dev.to/ashford_ai/from-code-to-context-building-semantic-search-live-chat-over-your-codebase-with-vezlo-4aa1)
-- [Build a Free, Private “Chat with PDF” App in 70 Lines of Python](https://dev.to/fabiothiroki/build-a-free-private-chat-with-pdf-app-in-70-lines-of-python-4dn8)
-- [From Python Script to Docker Container: A Beginner&#39;s Guide &lpar;Windows + WSL2&rpar;](https://dev.to/raafe_asad/from-python-script-to-docker-container-a-beginners-guide-windows-wsl2-c48)
-- [Made a $10 “Mood Lamp” with ESP32, WS2812B, and Ambient Light Sensor](https://dev.to/emma-suntech/made-a-10-mood-lamp-with-esp32-ws2812b-and-ambient-light-sensor-172h)
+- [StackConvert: Free Online File Conversion Tools](https://dev.to/rahmat_ullah_646d3e085019/stackconvert-free-online-file-conversion-tools-496l)
+- [Why I Recommend You to Migrate from Cloudflare to SafeLine WAF](https://dev.to/arina_cholee/why-i-recommend-you-to-migrate-from-cloudflare-to-safeline-waf-2j22)
+- [Building a Managed Database Service on €3 Hetzner Servers: The Economics of EU Cloud Sovereignty](https://dev.to/muhiak/building-a-managed-database-service-on-eu3-hetzner-servers-the-economics-of-eu-cloud-sovereignty-237g)
+- [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
 <!-- BLOG-POST-LIST:END -->
 
