@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Clicking, Start Shipping: A Minimalist Dashboard for Netlify](https://dev.to/vamshi4001/stop-clicking-start-shipping-a-minimalist-dashboard-for-netlify-2ckn)
-- [Shallow Copy vs Deep Copy in JavaScript — Quick and Clear explanation](https://dev.to/shantih_palani/shallow-copy-vs-deep-copy-in-javascript-quick-clear-slightly-funny-4d98)
-- [Project vs Transject](https://dev.to/stakiran/project-vs-transject-cpd)
-- [Swift #9: Switch case](https://dev.to/david_goyes_a488f58a17a53/swift-9-switch-case-73p)
+- [AI for Personalizing Services in Mobile Banking for SMEs](https://dev.to/it-influencer/ai-for-personalizing-services-in-mobile-banking-for-smes-3fj5)
+- [The Echo Chamber of Content](https://dev.to/gigaelk/the-echo-chamber-of-content-3ojm)
+- [Flutter on Your Phone: Building Games in Termux While Your Laptop Judges You](https://dev.to/krlz/flutter-on-your-phone-building-games-in-termux-while-your-laptop-judges-you-570g)
+- [PRPM - The Universal Package Manager for AI Prompts](https://dev.to/devdiaries/prpm-the-universal-package-manager-for-ai-prompts-36cf)
 <!-- BLOG-POST-LIST:END -->
 
