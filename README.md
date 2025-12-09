@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Tenant AI SaaS Without the Data Privacy Nightmares](https://dev.to/shashikiran_ml/building-multi-tenant-ai-saas-without-the-data-privacy-nightmares-2ig4)
-- [Networking for Cybersecurity &lpar;Part 1&rpar;: OSI, TCP/IP, Ports &amp; Protocols](https://dev.to/alvinseyidov/networking-for-cybersecurity-part-1-osi-tcpip-ports-protocols-3eai)
-- [A RAG-Free Technique That Makes LLM Outputs Stable, Predictable, and Auditable](https://dev.to/yuer/a-rag-free-technique-that-makes-llm-outputs-stable-predictable-and-auditable-54nm)
-- [Anki powered with AI open-source projec](https://dev.to/maltsevmki/anki-powered-with-ai-open-source-projec-2d16)
+- [Day 07: Getting Comfortable with Terraform Variables](https://dev.to/sreya_sharma_711168ec58fc/day-07-getting-comfortable-with-terraform-variables-4p0p)
+- [You Don’t Need RAG to Build a Domain Sentiment Engine — A Single LLM + JSON Works](https://dev.to/yuer/you-dont-need-rag-to-build-a-domain-sentiment-engine-a-single-llm-json-works-18hm)
+- [Supercharge Your Go Applications: Advanced Caching Strategies for High-Load Systems](https://dev.to/4mars/supercharge-your-go-applications-advanced-caching-strategies-for-high-load-systems-3of1)
+- [Being a Writer: Fun But Sometimes Headache-Inducing](https://dev.to/samrichh/being-a-writer-fun-but-sometimes-headache-inducing-19a)
 <!-- BLOG-POST-LIST:END -->
 
