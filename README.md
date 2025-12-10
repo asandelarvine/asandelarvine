@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Auto-Generate Open Graph Images for Your Blog &lpar;No Design Skills Needed&rpar;](https://dev.to/malachi_stark_/how-to-auto-generate-open-graph-images-for-your-blog-no-design-skills-needed-2lca)
-- [Why Your DIY LED Strips Die Too Soon &lpar;And My $15 Fix That Lasted 2 Years&rpar;](https://dev.to/emma-suntech/why-your-diy-led-strips-die-too-soon-and-my-15-fix-that-lasted-2-years-2ln4)
-- [day3: kube controller manager](https://dev.to/cattkaizen/day3-kube-controller-manager-4gfh)
-- [Shadcn Builder: No-Code Form Generator for React](https://dev.to/jqueryscript/shadcn-builder-no-code-form-generator-for-react-3ohf)
+- [Visual Studio Code: The Complete Guide for Developers in 2025](https://dev.to/farhadrahimiklie/visual-studio-code-the-complete-guide-for-developers-in-2025-fd9)
+- [React2Shell RCE Vulnerability: Critical Exploit in React Server Components and Next.js — Patch Immediately](https://dev.to/rohanrajgautam/react2shell-rce-vulnerability-critical-exploit-in-react-server-components-and-nextjs-patch-3jkb)
+- [Planning My Next Open-Source Contributions](https://dev.to/oleksandrakordonets/planning-my-next-open-source-contributions-17pn)
+- [What Happens If Spike Arrest Is Set to 10pm but Traffic Spikes to 100 Requests at Once?](https://dev.to/realnamehidden1_61/what-happens-if-spike-arrest-is-set-to-10pm-but-traffic-spikes-to-100-requests-at-once-3hi5)
 <!-- BLOG-POST-LIST:END -->
 
