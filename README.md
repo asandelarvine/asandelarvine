@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Gemini CLI extensions for Google Data Cloud](https://dev.to/googleai/launching-gemini-cli-extensions-for-google-data-cloud-3dbk)
-- [Using Resend with Encore](https://dev.to/encore/using-resend-with-encore-1b29)
-- [AI doesn’t take away – it lifts you up!](https://dev.to/sarah_schachter/ai-doesnt-take-away-it-lifts-you-up-48gh)
-- [✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀](https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1)
+- [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)
+- [Ship Production Apps in Days, Not Months: We Open-Sourced Our Entire Infrastructure Stack](https://dev.to/nfrax/ship-production-apps-in-days-not-months-we-open-sourced-our-entire-infrastructure-stack-3f33)
+- [How I built a privacy-first Chrome Extension to fix performance &lpar;Manifest V3&rpar;](https://dev.to/superchargebrowser/how-i-built-a-privacy-first-chrome-extension-to-fix-performance-manifest-v3-43b4)
+- [The Hell of AI Agent Development](https://dev.to/fl4tlin3/the-hell-of-ai-agent-development-47b4)
 <!-- BLOG-POST-LIST:END -->
 
