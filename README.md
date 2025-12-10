@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Sampling: When Your Tools Need to Think](https://dev.to/blockopensource/mcp-sampling-when-your-tools-need-to-think-2d2c)
-- [Meet Hubble: A Natural-Language Observatory for MongoDB](https://dev.to/davidos366/meet-hubble-a-natural-language-observatory-for-mongodb-2lal)
-- [January&#39;s Gold Mine: Why Your Holiday Window Shoppers Are Worth More Than You Think](https://dev.to/synergistdigitalmedia/januarys-gold-mine-why-your-holiday-window-shoppers-are-worth-more-than-you-think-31mk)
-- [2025-12-09 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-09-daily-ai-news-45om)
+- [How to Auto-Generate Open Graph Images for Your Blog &lpar;No Design Skills Needed&rpar;](https://dev.to/malachi_stark_/how-to-auto-generate-open-graph-images-for-your-blog-no-design-skills-needed-2lca)
+- [Why Your DIY LED Strips Die Too Soon &lpar;And My $15 Fix That Lasted 2 Years&rpar;](https://dev.to/emma-suntech/why-your-diy-led-strips-die-too-soon-and-my-15-fix-that-lasted-2-years-2ln4)
+- [day3: kube controller manager](https://dev.to/cattkaizen/day3-kube-controller-manager-4gfh)
+- [Shadcn Builder: No-Code Form Generator for React](https://dev.to/jqueryscript/shadcn-builder-no-code-form-generator-for-react-3ohf)
 <!-- BLOG-POST-LIST:END -->
 
