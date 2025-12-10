@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 22 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-22-of-improving-my-data-science-skills-288o)
-- [One bug, nine errors: what templates actually are](https://dev.to/h0tb0x/one-bug-nine-errors-what-templates-actually-are-7nm)
-- [Validating a CLI to sync env vars - would you pay $79?](https://dev.to/rupamjit_ghosh_3466fa0fc7/validating-a-cli-to-sync-env-vars-would-you-pay-79-1662)
-- [Build a Real-Time tldraw Whiteboard with Velt Comments inside ChatGPT🤯🔥](https://dev.to/astrodevil/build-a-real-time-tldraw-whiteboard-with-velt-comments-inside-chatgpt-1dhe)
+- [Day 1 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-1-beginning-my-40-days-aws-devops-journey-4cdj)
+- [Ringer Movies: ‘Jay Kelly’ and The Adam Sandler Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-jay-kelly-and-the-adam-sandler-hall-of-fame-4j4h)
+- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/blackgirlbytes/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-5g85)
+- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
 <!-- BLOG-POST-LIST:END -->
 
