@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio Code: The Complete Guide for Developers in 2025](https://dev.to/farhadrahimiklie/visual-studio-code-the-complete-guide-for-developers-in-2025-fd9)
-- [React2Shell RCE Vulnerability: Critical Exploit in React Server Components and Next.js — Patch Immediately](https://dev.to/rohanrajgautam/react2shell-rce-vulnerability-critical-exploit-in-react-server-components-and-nextjs-patch-3jkb)
-- [Planning My Next Open-Source Contributions](https://dev.to/oleksandrakordonets/planning-my-next-open-source-contributions-17pn)
-- [What Happens If Spike Arrest Is Set to 10pm but Traffic Spikes to 100 Requests at Once?](https://dev.to/realnamehidden1_61/what-happens-if-spike-arrest-is-set-to-10pm-but-traffic-spikes-to-100-requests-at-once-3hi5)
+- [The Dog Exposed My Stacktrace! 😱 My Bespoke Solution to a Common API Security Issue](https://dev.to/jordanleal12/the-dog-exposed-my-stacktrace-my-bespoke-solution-to-a-common-api-security-issue-3b53)
+- [App Router Directory Design: Next.js Project Structure Patterns](https://dev.to/pipipi-dev/app-router-directory-design-nextjs-project-structure-patterns-31eo)
+- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
+- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
 <!-- BLOG-POST-LIST:END -->
 
