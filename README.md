@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caught Up in the Cert Chase &lpar;And What I Learnt About Coding&rpar;](https://dev.to/vulcanwm/caught-up-in-the-cert-chase-and-what-i-learnt-about-coding-1gja)
-- [What Recent API Breaches Teach Us - And Why ZeroThreat Became the Go-To Fix](https://dev.to/jigar_online/what-recent-api-breaches-teach-us-and-why-zerothreat-became-the-go-to-fix-1kh4)
-- [httpx vs aiohttp: A Simple Comparison for Beginners](https://dev.to/jaironlanda/httpx-vs-aiohttp-a-simple-comparison-for-beginners-o2o)
-- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
+- [Launching Gemini CLI extensions for Google Data Cloud](https://dev.to/googleai/launching-gemini-cli-extensions-for-google-data-cloud-3dbk)
+- [Using Resend with Encore](https://dev.to/encore/using-resend-with-encore-1b29)
+- [AI doesn’t take away – it lifts you up!](https://dev.to/sarah_schachter/ai-doesnt-take-away-it-lifts-you-up-48gh)
+- [✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀](https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1)
 <!-- BLOG-POST-LIST:END -->
 
