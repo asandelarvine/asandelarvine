@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought I Knew AI. Then I Met &quot;Agents&quot;](https://dev.to/jinesh_barot_5ed48e8b69f5/i-thought-i-knew-ai-then-i-met-agents-5819)
-- [Music Is Healing: How Sound Therapy Is Tuning Up Mental and Emotional Health](https://dev.to/sia_negi21/music-is-healing-how-sound-therapy-is-tuning-up-mental-and-emotional-health-1pnh)
-- [A CTO&#39;s 5-phase roadmap to AI-native internal tools &lpar;and why most pilots stall&rpar;](https://dev.to/bennykillua/a-ctos-5-phase-roadmap-to-ai-native-internal-tools-and-why-most-pilots-stall-5ea5)
-- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
+- [25+ Real-World Rails Upgrade Questions &lpar;And the Answers Devs Actually Need&rpar;](https://dev.to/railsfactory_sedin/25-real-world-rails-upgrade-questions-and-the-answers-devs-actually-need-451o)
+- [A Minimal Go Toolkit for Cleaning, Validating, and Querying CSV/TSV/Excel/Parquet Files](https://dev.to/nchika/a-minimal-go-toolkit-for-cleaning-validating-and-querying-csvtsvexcelparquet-files-41ad)
+- [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
+- [Modern AI Development Lifecycle: What Makes It Different from Traditional SDLC](https://dev.to/evawilson01/modern-ai-development-lifecycle-what-makes-it-different-from-traditional-sdlc-514f)
 <!-- BLOG-POST-LIST:END -->
 
