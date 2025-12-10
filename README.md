@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Engagement: What&#39;s Working Now?](https://dev.to/adiatiayu/open-source-engagement-whats-working-now-37b9)
-- [Ship Production Apps in Days, Not Months: We Open-Sourced Our Entire Infrastructure Stack](https://dev.to/nfrax/ship-production-apps-in-days-not-months-we-open-sourced-our-entire-infrastructure-stack-3f33)
-- [How I built a privacy-first Chrome Extension to fix performance &lpar;Manifest V3&rpar;](https://dev.to/superchargebrowser/how-i-built-a-privacy-first-chrome-extension-to-fix-performance-manifest-v3-43b4)
-- [The Hell of AI Agent Development](https://dev.to/fl4tlin3/the-hell-of-ai-agent-development-47b4)
+- [Postgresus 2.0: New Version of Open Source PostgreSQL Backup Tool](https://dev.to/rostislav_dugin/postgresus-20-new-version-of-open-source-postgresql-backup-tool-448h)
+- [I built a Laravel package to stop silent cron failures](https://dev.to/jiordiviera/i-built-a-laravel-package-to-stop-silent-cron-failures-1o25)
+- [“GenAI: The 5-Day Upgrade I Didn’t Know I Needed”](https://dev.to/sumetha_elango_ed061af1e9/genai-the-5-day-upgrade-i-didnt-know-i-needed-5b0i)
+- [How to Launch a Website in China 2026](https://dev.to/jackson_white_a85921e93c6/how-to-launch-a-website-in-china-2026-3cf9)
 <!-- BLOG-POST-LIST:END -->
 
