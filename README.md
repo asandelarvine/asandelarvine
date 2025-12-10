@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building PsychoAnalyze AI: An AI-Powered Interview Analysis Tool for Therapists](https://dev.to/remontsuri/building-psychoanalyze-ai-an-ai-powered-interview-analysis-tool-for-therapists-3n8d)
-- [Agent Facing Analytics with High Concurrency: Doris vs Clickhouse vs Snowflake](https://dev.to/apachedoris/agent-facing-analytics-with-high-concurrency-doris-vs-clickhouse-vs-snowflake-18ij)
-- [10 Best Feature Flag Tools for 2025 &lpar;Comparison + ConfigBee Ranked #1&rpar;](https://dev.to/srivenkatareddy/10-best-feature-flag-tools-for-2025-comparison-configbee-ranked-1-1n6m)
-- [How AI Helps ShortPixel&#39;s Human Agents Deliver Stellar Support](https://dev.to/biancarus/how-ai-helps-shortpixels-human-agents-deliver-stellar-support-33lo)
+- [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
+- [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
+- [Coding Challenge Practice - Question 75](https://dev.to/tomivan/coding-challenge-practice-question-75-mbi)
+- [The Wrong Database Connection: A Go Deadlock Story](https://dev.to/harudev/the-wrong-database-connection-a-go-deadlock-story-286e)
 <!-- BLOG-POST-LIST:END -->
 
