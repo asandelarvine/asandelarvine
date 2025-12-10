@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Python the best for AI development?](https://dev.to/jennijuli3/is-python-the-best-for-ai-development-3644)
-- [Blue/Green Deployment on AWS Using CodeDeploy and CodePipeline](https://dev.to/awais_684/bluegreen-deployment-on-aws-using-codedeploy-and-codepipeline-2m34)
-- [How AI Quietly Boosts Developer Efficiency](https://dev.to/fabinaworkdemo_c1bf633d69/how-ai-quietly-boosts-developer-efficiency-4i37)
-- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
+- [The ₹250 Crore Question: How India’s DPDPA Rewrites the Cost of a Data Breach](https://dev.to/jamesdas/the-250-crore-question-how-indias-dpdpa-rewrites-the-cost-of-a-data-breach-4e55)
+- [The Shocking Discovery That Cost a Business $180,000](https://dev.to/tracksimple/the-shocking-discovery-that-cost-a-business-180000-4k2n)
+- [ChatGPT Search Just Changed SEO Forever &lpar;And Your Content Strategy Needs to Catch Up&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-forever-and-your-content-strategy-needs-to-catch-up-3l7f)
+- [Generic GET Engine – How We Built a Dynamic Query Architecture](https://dev.to/malki_lapidot_bf2ab753e50/building-a-fully-generic-get-engine-a-scalable-approach-to-dynamic-querying-516o)
 <!-- BLOG-POST-LIST:END -->
 
