@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Career Planning for a Future of Working with AI Agents](https://dev.to/dclnbrght/career-planning-for-a-future-of-working-with-ai-agents-6c4)
-- [AI Engineering: Advent of AI with goose Day 3](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-3-2384)
-- [Coding Challenge Practice - Question 75](https://dev.to/tomivan/coding-challenge-practice-question-75-mbi)
-- [The Wrong Database Connection: A Go Deadlock Story](https://dev.to/harudev/the-wrong-database-connection-a-go-deadlock-story-286e)
+- [Google&#39;s December 2025 Helpful Content Update: What Actually Changed &lpar;And What You Need to Do&rpar;](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-what-actually-changed-and-what-you-need-to-do-2577)
+- [2025-12-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-10-daily-ai-news-491o)
+- [Docker for Beginners: How I Containerized an Existing Project Node-by-Node](https://dev.to/hormogbolahan20/docker-for-beginners-how-i-containerized-an-existing-project-node-by-node-f97)
+- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
 <!-- BLOG-POST-LIST:END -->
 
