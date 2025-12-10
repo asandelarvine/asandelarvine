@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [La Création Web : Du Concept à la Conversion](https://dev.to/metalya/la-creation-web-du-concept-a-la-conversion-4gmb)
-- [Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.](https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h)
-- [A Practical Guide to How Real-Time Chat &amp; Video Platforms Work](https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib)
-- [Wave-Encoded Data Systems: An Alternative Abstraction for Data Representation](https://dev.to/hejhdiss/wave-encoded-data-systems-an-alternative-abstraction-for-data-representation-3jda)
+- [I Thought I Knew AI. Then I Met &quot;Agents&quot;](https://dev.to/jinesh_barot_5ed48e8b69f5/i-thought-i-knew-ai-then-i-met-agents-5819)
+- [Music Is Healing: How Sound Therapy Is Tuning Up Mental and Emotional Health](https://dev.to/sia_negi21/music-is-healing-how-sound-therapy-is-tuning-up-mental-and-emotional-health-1pnh)
+- [A CTO&#39;s 5-phase roadmap to AI-native internal tools &lpar;and why most pilots stall&rpar;](https://dev.to/bennykillua/a-ctos-5-phase-roadmap-to-ai-native-internal-tools-and-why-most-pilots-stall-5ea5)
+- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
 <!-- BLOG-POST-LIST:END -->
 
