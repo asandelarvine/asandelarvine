@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
-- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
-- [Utility Sector Outage Prep with Load Tests](https://dev.to/pflb/utility-sector-outage-prep-with-load-tests-5842)
-- [Adding Queue and Cron Handlers to Your Cloudflare Worker &lpar;Part 2&rpar;](https://dev.to/teaganga/adding-queue-and-cron-handlers-to-your-cloudflare-worker-part-2-5ge7)
+- [Caught Up in the Cert Chase &lpar;And What I Learnt About Coding&rpar;](https://dev.to/vulcanwm/caught-up-in-the-cert-chase-and-what-i-learnt-about-coding-1gja)
+- [What Recent API Breaches Teach Us - And Why ZeroThreat Became the Go-To Fix](https://dev.to/jigar_online/what-recent-api-breaches-teach-us-and-why-zerothreat-became-the-go-to-fix-1kh4)
+- [httpx vs aiohttp: A Simple Comparison for Beginners](https://dev.to/jaironlanda/httpx-vs-aiohttp-a-simple-comparison-for-beginners-o2o)
+- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
 <!-- BLOG-POST-LIST:END -->
 
