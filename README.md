@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgresus 2.0: New Version of Open Source PostgreSQL Backup Tool](https://dev.to/rostislav_dugin/postgresus-20-new-version-of-open-source-postgresql-backup-tool-448h)
-- [I built a Laravel package to stop silent cron failures](https://dev.to/jiordiviera/i-built-a-laravel-package-to-stop-silent-cron-failures-1o25)
-- [“GenAI: The 5-Day Upgrade I Didn’t Know I Needed”](https://dev.to/sumetha_elango_ed061af1e9/genai-the-5-day-upgrade-i-didnt-know-i-needed-5b0i)
-- [How to Launch a Website in China 2026](https://dev.to/jackson_white_a85921e93c6/how-to-launch-a-website-in-china-2026-3cf9)
+- [Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know](https://dev.to/naresh_007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-4l0c)
+- [Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa)
+- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
+- [Why I Started Letting AI Handle My 3D Modeling Workflow — As a Developer, I Strongly Recommend Trying This AI 3D Model Tool](https://dev.to/dolla_innovations_0748b0c/why-i-started-letting-ai-handle-my-3d-modeling-workflow-as-a-developer-i-strongly-recommend-1h4a)
 <!-- BLOG-POST-LIST:END -->
 
