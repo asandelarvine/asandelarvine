@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 — Legacy Systems &lpar;The Old Bridge&rpar;](https://dev.to/aerabi/day-10-legacy-systems-the-old-bridge-35b8)
-- [Why I Chose GoatCounter for my GitHub Pages Site](https://dev.to/iam_pbk/why-i-chose-goatcounter-for-my-github-pages-site-7k8)
-- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
-- [A simple visual system for tracking hifz mistakes and progress](https://dev.to/dr_rajabi/a-simple-visual-system-for-tracking-hifz-mistakes-and-progress-32h3)
+- [Is Python the best for AI development?](https://dev.to/jennijuli3/is-python-the-best-for-ai-development-3644)
+- [Blue/Green Deployment on AWS Using CodeDeploy and CodePipeline](https://dev.to/awais_684/bluegreen-deployment-on-aws-using-codedeploy-and-codepipeline-2m34)
+- [How AI Quietly Boosts Developer Efficiency](https://dev.to/fabinaworkdemo_c1bf633d69/how-ai-quietly-boosts-developer-efficiency-4i37)
+- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
 <!-- BLOG-POST-LIST:END -->
 
