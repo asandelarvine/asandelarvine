@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New React Challenge: Digital Segment Clock](https://dev.to/duffmancc/new-react-challenge-digital-segment-clock-2dg0)
-- [Stop Writing a Kafka Consumer for Every Topic – Make It Generic in .NET](https://dev.to/__d3ec2d533ada03/stop-writing-a-kafka-consumer-for-every-topic-make-it-generic-in-net-3i26)
-- [I made a Nuxt 4 complete boilerplate and a few people seem to really like it](https://dev.to/tom_han/i-made-a-nuxt-4-complete-boilerplate-and-a-few-people-seem-to-really-like-it-4b3l)
-- [Stop Your Dev Environment from Breaking: Docker Done Right](https://dev.to/tamar_fuks/stop-your-dev-environment-from-breaking-docker-done-right-bo8)
+- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
+- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
+- [Utility Sector Outage Prep with Load Tests](https://dev.to/pflb/utility-sector-outage-prep-with-load-tests-5842)
+- [Adding Queue and Cron Handlers to Your Cloudflare Worker &lpar;Part 2&rpar;](https://dev.to/teaganga/adding-queue-and-cron-handlers-to-your-cloudflare-worker-part-2-5ge7)
 <!-- BLOG-POST-LIST:END -->
 
