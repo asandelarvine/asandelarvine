@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The ₹250 Crore Question: How India’s DPDPA Rewrites the Cost of a Data Breach](https://dev.to/jamesdas/the-250-crore-question-how-indias-dpdpa-rewrites-the-cost-of-a-data-breach-4e55)
-- [The Shocking Discovery That Cost a Business $180,000](https://dev.to/tracksimple/the-shocking-discovery-that-cost-a-business-180000-4k2n)
-- [ChatGPT Search Just Changed SEO Forever &lpar;And Your Content Strategy Needs to Catch Up&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-forever-and-your-content-strategy-needs-to-catch-up-3l7f)
-- [Generic GET Engine – How We Built a Dynamic Query Architecture](https://dev.to/malki_lapidot_bf2ab753e50/building-a-fully-generic-get-engine-a-scalable-approach-to-dynamic-querying-516o)
+- [🚀 New React Challenge: Digital Segment Clock](https://dev.to/duffmancc/new-react-challenge-digital-segment-clock-2dg0)
+- [Stop Writing a Kafka Consumer for Every Topic – Make It Generic in .NET](https://dev.to/__d3ec2d533ada03/stop-writing-a-kafka-consumer-for-every-topic-make-it-generic-in-net-3i26)
+- [I made a Nuxt 4 complete boilerplate and a few people seem to really like it](https://dev.to/tom_han/i-made-a-nuxt-4-complete-boilerplate-and-a-few-people-seem-to-really-like-it-4b3l)
+- [Stop Your Dev Environment from Breaking: Docker Done Right](https://dev.to/tamar_fuks/stop-your-dev-environment-from-breaking-docker-done-right-bo8)
 <!-- BLOG-POST-LIST:END -->
 
