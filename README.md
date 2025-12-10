@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dog Exposed My Stacktrace! 😱 My Bespoke Solution to a Common API Security Issue](https://dev.to/jordanleal12/the-dog-exposed-my-stacktrace-my-bespoke-solution-to-a-common-api-security-issue-3b53)
-- [App Router Directory Design: Next.js Project Structure Patterns](https://dev.to/pipipi-dev/app-router-directory-design-nextjs-project-structure-patterns-31eo)
-- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
-- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
+- [🚀 Deploying MongoDB on Docker with Secure Host Directory Mounts Using ACLs &lpar;Without Changing Permissions&rpar;](https://dev.to/er_ragul/deploying-mongodb-on-docker-with-secure-host-directory-mounts-using-acls-without-changing-1oo8)
+- [5 GA4 E-commerce Dashboards That&#39;ll Actually Tell You Where Your Money&#39;s Going](https://dev.to/synergistdigitalmedia/5-ga4-e-commerce-dashboards-thatll-actually-tell-you-where-your-moneys-going-12an)
+- [Fetching column data from a column database](https://dev.to/learntechwithsaumya/fetching-column-data-from-a-column-database-3903)
+- [The Real Reason Why Some Dev Companies Are Forcing AI](https://dev.to/canro91/the-real-reason-why-some-dev-companies-are-forcing-ai-42kb)
 <!-- BLOG-POST-LIST:END -->
 
