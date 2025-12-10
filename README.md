@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-1-beginning-my-40-days-aws-devops-journey-4cdj)
-- [Ringer Movies: ‘Jay Kelly’ and The Adam Sandler Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-jay-kelly-and-the-adam-sandler-hall-of-fame-4j4h)
-- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/blackgirlbytes/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-5g85)
-- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
+- [Building PsychoAnalyze AI: An AI-Powered Interview Analysis Tool for Therapists](https://dev.to/remontsuri/building-psychoanalyze-ai-an-ai-powered-interview-analysis-tool-for-therapists-3n8d)
+- [Agent Facing Analytics with High Concurrency: Doris vs Clickhouse vs Snowflake](https://dev.to/apachedoris/agent-facing-analytics-with-high-concurrency-doris-vs-clickhouse-vs-snowflake-18ij)
+- [10 Best Feature Flag Tools for 2025 &lpar;Comparison + ConfigBee Ranked #1&rpar;](https://dev.to/srivenkatareddy/10-best-feature-flag-tools-for-2025-comparison-configbee-ranked-1-1n6m)
+- [How AI Helps ShortPixel&#39;s Human Agents Deliver Stellar Support](https://dev.to/biancarus/how-ai-helps-shortpixels-human-agents-deliver-stellar-support-33lo)
 <!-- BLOG-POST-LIST:END -->
 
