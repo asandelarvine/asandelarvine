@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK IAM Role Management: Preventing Automatic Policy Updates](https://dev.to/aws-heroes/aws-cdk-iam-role-management-preventing-automatic-policy-updates-ibk)
-- [From AI Enthusiast to Applied AI Agent Builder — My Journey Through the Google Agents Intensive &amp; My Capstone Project](https://dev.to/ajoy_ssaha_24290780ba206/from-ai-enthusiast-to-applied-ai-agent-builder-my-journey-through-the-google-agents-intensive--2941)
-- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
-- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
+- [Taming Opus 4.5&#39;s Efficiency: Using TodoWrite to Keep Claude Code on Track](https://dev.to/shinpr/taming-opus-45s-efficiency-using-todowrite-to-keep-claude-code-on-track-1ee5)
+- [Personal Expense Dashboard: Top 10 Metrics and KPIs to Track](https://dev.to/boldbi/personal-expense-dashboard-top-10-metrics-and-kpis-to-track-1jfd)
+- [How Soft2bet Turns Gamification Into Growth With Proven Performance Data](https://dev.to/tigra_nubira_010e82342503/how-soft2bet-turns-gamification-into-growth-with-proven-performance-data-5h1p)
+- [What cultural insights influence Online Brand Communication for global audiences?](https://dev.to/pella_dynamics_0d1458df5e/what-cultural-insights-influence-online-brand-communication-for-global-audiences-305m)
 <!-- BLOG-POST-LIST:END -->
 
