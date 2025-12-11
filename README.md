@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Upgrade Chatbot Plan: A Complete Guide to Scaling Your Automation](https://dev.to/chatboqai/how-to-upgrade-chatbot-plan-a-complete-guide-to-scaling-your-automation-4pfn)
-- [Advent of AI 2025 - Day 8: Messy Data to Structured Output](https://dev.to/nickytonline/advent-of-ai-2025-day-8-messy-data-to-structured-output-25i2)
-- [Introducing EnvGuard - a zero-dependency, type-safe environment variable validator with features like secret masking, warning mode, and .env.example generation](https://dev.to/satinathnit/introducing-envguard-a-zero-dependency-type-safe-environment-variable-validator-with-features-38je)
-- [AWS re:Invent 2025 - Crowning the Kiro code champions &lpar;DVT221&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-crowning-the-kiro-code-champions-dvt221-1b47)
+- [Raffi: a modern Stremio‑compatible streaming client I built at 16](https://dev.to/artemas/raffi-a-modern-stremio-compatible-streaming-client-i-built-at-16-223p)
+- [AWS re:Invent 2025 - Simplify permissions management across Amazon Redshift warehouses &lpar;ANT350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-simplify-permissions-management-across-amazon-redshift-warehouses-ant350-1mll)
+- [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
+- [9 Strumenti e Tecnologie Che Stanno Potenziando Lo Sviluppo di Applicazioni Web3 nel 2025](https://dev.to/chickieabby/9-strumenti-e-tecnologie-che-stanno-potenziando-lo-sviluppo-di-applicazioni-web3-nel-2025-1nn)
 <!-- BLOG-POST-LIST:END -->
 
