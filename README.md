@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MyTaskly: 11 Months of Developing an AI App at 16](https://dev.to/gabry848/building-mytaskly-11-months-of-developing-an-ai-app-at-16-38n6)
-- [How computers actually see time?](https://dev.to/rasheem/how-computers-actually-see-time-58p8)
-- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
-- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
+- [You Probably Understood the Client Server Model Wrong](https://dev.to/jjackbauer/you-probably-understood-the-client-server-model-wrong-3ae1)
+- [How I Automated My Workflow Using Zapier and Why You Should Too](https://dev.to/andrewbaisden/how-i-automated-my-workflow-using-zapier-and-why-you-should-too-1g4d)
+- [10 Stability Errors That Prevent Your Money System From Becoming Resilient](https://dev.to/luketaylor25/10-stability-errors-that-prevent-your-money-system-from-becoming-resilient-ge2)
+- [sql5](https://dev.to/query_filter_591122b53770/sql5-1c78)
 <!-- BLOG-POST-LIST:END -->
 
