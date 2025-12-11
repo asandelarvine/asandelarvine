@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4kja)
-- [How to Merge Word Documents in C#](https://dev.to/yahey/how-to-merge-word-documents-in-c-28hj)
-- [How to Programmatically Split Word Documents in Java using Spire.Doc](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-programmatically-split-word-documents-in-java-using-spiredoc-41ha)
-- [A two-dimensional array is like a big grid of boxes](https://dev.to/kingyou/a-two-dimensional-array-is-like-a-big-grid-of-boxes-2dn7)
+- [How to Upgrade Chatbot Plan: A Complete Guide to Scaling Your Automation](https://dev.to/chatboqai/how-to-upgrade-chatbot-plan-a-complete-guide-to-scaling-your-automation-4pfn)
+- [Advent of AI 2025 - Day 8: Messy Data to Structured Output](https://dev.to/nickytonline/advent-of-ai-2025-day-8-messy-data-to-structured-output-25i2)
+- [Introducing EnvGuard - a zero-dependency, type-safe environment variable validator with features like secret masking, warning mode, and .env.example generation](https://dev.to/satinathnit/introducing-envguard-a-zero-dependency-type-safe-environment-variable-validator-with-features-38je)
+- [AWS re:Invent 2025 - Crowning the Kiro code champions &lpar;DVT221&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-crowning-the-kiro-code-champions-dvt221-1b47)
 <!-- BLOG-POST-LIST:END -->
 
