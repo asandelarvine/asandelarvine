@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Opus 4.5&#39;s Efficiency: Using TodoWrite to Keep Claude Code on Track](https://dev.to/shinpr/taming-opus-45s-efficiency-using-todowrite-to-keep-claude-code-on-track-1ee5)
-- [Personal Expense Dashboard: Top 10 Metrics and KPIs to Track](https://dev.to/boldbi/personal-expense-dashboard-top-10-metrics-and-kpis-to-track-1jfd)
-- [How Soft2bet Turns Gamification Into Growth With Proven Performance Data](https://dev.to/tigra_nubira_010e82342503/how-soft2bet-turns-gamification-into-growth-with-proven-performance-data-5h1p)
-- [What cultural insights influence Online Brand Communication for global audiences?](https://dev.to/pella_dynamics_0d1458df5e/what-cultural-insights-influence-online-brand-communication-for-global-audiences-305m)
+- [Lab Notes: What I Learned Dropping Imdone’s Price for a Week](https://dev.to/imdone/lab-notes-what-i-learned-dropping-imdones-price-for-a-week-543l)
+- [How to use comments in Terraform](https://dev.to/techielass/how-to-use-comments-in-terraform-5fgp)
+- [GLM-TTS Complete Guide 2025: Revolutionary Zero-Shot Voice Cloning with Reinforcement Learning](https://dev.to/czmilo/glm-tts-complete-guide-2025-revolutionary-zero-shot-voice-cloning-with-reinforcement-learning-m8m)
+- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
 <!-- BLOG-POST-LIST:END -->
 
