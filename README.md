@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time AI-Powered Car Auction Platform &lpar;Xano + React vite&rpar;](https://dev.to/jervi/real-time-ai-powered-car-auction-platform-xano-react-vite-1m3o)
-- [Why a “Workflow Pack” for RAG + Eval?](https://dev.to/dowhatmatters/why-a-workflow-pack-for-rag-eval-4hd)
-- [# From 400 Alerts/Night to 8: The SRE Playbook That Saved My Team’s Sanity](https://dev.to/meena_nukala_1154d49b984d/-from-400-alertsnight-to-8-the-sre-playbook-that-saved-my-teams-sanity-36f1)
-- [122. Best Time to Buy and Sell Stock II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/122-best-time-to-buy-and-sell-stock-ii-leetcode-top-interview-150-coding-questions-432)
+- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
+- [git](https://dev.to/query_filter_591122b53770/git-2enf)
+- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
+- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
 <!-- BLOG-POST-LIST:END -->
 
