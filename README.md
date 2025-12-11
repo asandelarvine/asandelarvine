@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Probably Understood the Client Server Model Wrong](https://dev.to/jjackbauer/you-probably-understood-the-client-server-model-wrong-3ae1)
-- [How I Automated My Workflow Using Zapier and Why You Should Too](https://dev.to/andrewbaisden/how-i-automated-my-workflow-using-zapier-and-why-you-should-too-1g4d)
-- [10 Stability Errors That Prevent Your Money System From Becoming Resilient](https://dev.to/luketaylor25/10-stability-errors-that-prevent-your-money-system-from-becoming-resilient-ge2)
-- [sql5](https://dev.to/query_filter_591122b53770/sql5-1c78)
+- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-33c)
+- [Understanding Overfitting in Neural Networks &lpar;TensorFlow- CNN&rpar;](https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b)
+- [Which Telegram Bot Library Should You Use? &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/which-telegram-bot-library-should-you-use-beginner-friendly-guide-4g90)
+- [I built a visual workflow tool for developers with Tauri](https://dev.to/runkids/i-built-a-visual-workflow-tool-for-developers-with-tauri-45gp)
 <!-- BLOG-POST-LIST:END -->
 
