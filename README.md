@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco 17 LTS: Features, Improvements &amp; What Developers Should Know](https://dev.to/addact_technologies_3322b/umbraco-17-lts-features-improvements-what-developers-should-know-234d)
-- [How to optimize your workflow with AI batch video generation](https://dev.to/hicutai/how-to-optimize-your-workflow-with-ai-batch-video-generation-2g91)
-- [Cómo Resolver Captchas ImageToText Usando una Extensión de Chrome](https://dev.to/dustin_base/como-resolver-captchas-imagetotext-usando-una-extension-de-chrome-i6n)
-- [Neue Trends im Arbeitsalltag: Tools zur Zeitmessung im Praxistest](https://dev.to/timespinwriterjames/neue-trends-im-arbeitsalltag-tools-zur-zeitmessung-im-praxistest-25la)
+- [The 5-Minute System Design Question Most Engineers Get Wrong](https://dev.to/social_interviewbee/the-5-minute-system-design-question-most-engineers-get-wrong-49fb)
+- [Building a Scalable E-Commerce Platform: From Storefront to Warehouse](https://dev.to/edgi/building-a-scalable-e-commerce-platform-from-storefront-to-warehouse-e7a)
+- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
+- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
 <!-- BLOG-POST-LIST:END -->
 
