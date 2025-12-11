@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Must read!](https://dev.to/the_duchess_of_hackers/must-read-3da0)
-- [Modern Identity Governance Strategies for Evolving IT Environments](https://dev.to/kapusto/modern-identity-governance-strategies-for-evolving-it-environments-253f)
-- [Luna API buit with Xano Backend](https://dev.to/kaichat/luna-api-buit-with-xano-backend-3keg)
-- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
+- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
+- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
+- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
+- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
 <!-- BLOG-POST-LIST:END -->
 
