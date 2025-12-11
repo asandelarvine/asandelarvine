@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
-- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
-- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
-- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
+- [Real-Time AI-Powered Car Auction Platform &lpar;Xano + React vite&rpar;](https://dev.to/jervi/real-time-ai-powered-car-auction-platform-xano-react-vite-1m3o)
+- [Why a “Workflow Pack” for RAG + Eval?](https://dev.to/dowhatmatters/why-a-workflow-pack-for-rag-eval-4hd)
+- [# From 400 Alerts/Night to 8: The SRE Playbook That Saved My Team’s Sanity](https://dev.to/meena_nukala_1154d49b984d/-from-400-alertsnight-to-8-the-sre-playbook-that-saved-my-teams-sanity-36f1)
+- [122. Best Time to Buy and Sell Stock II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/122-best-time-to-buy-and-sell-stock-ii-leetcode-top-interview-150-coding-questions-432)
 <!-- BLOG-POST-LIST:END -->
 
