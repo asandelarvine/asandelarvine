@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s December 2025 Helpful Content Update: What Actually Changed &lpar;And What You Need to Do&rpar;](https://dev.to/synergistdigitalmedia/googles-december-2025-helpful-content-update-what-actually-changed-and-what-you-need-to-do-2577)
-- [2025-12-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-10-daily-ai-news-491o)
-- [Docker for Beginners: How I Containerized an Existing Project Node-by-Node](https://dev.to/hormogbolahan20/docker-for-beginners-how-i-containerized-an-existing-project-node-by-node-f97)
-- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
+- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4kja)
+- [How to Merge Word Documents in C#](https://dev.to/yahey/how-to-merge-word-documents-in-c-28hj)
+- [How to Programmatically Split Word Documents in Java using Spire.Doc](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-programmatically-split-word-documents-in-java-using-spiredoc-41ha)
+- [A two-dimensional array is like a big grid of boxes](https://dev.to/kingyou/a-two-dimensional-array-is-like-a-big-grid-of-boxes-2dn7)
 <!-- BLOG-POST-LIST:END -->
 
