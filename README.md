@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lab Notes: What I Learned Dropping Imdone’s Price for a Week](https://dev.to/imdone/lab-notes-what-i-learned-dropping-imdones-price-for-a-week-543l)
-- [How to use comments in Terraform](https://dev.to/techielass/how-to-use-comments-in-terraform-5fgp)
-- [GLM-TTS Complete Guide 2025: Revolutionary Zero-Shot Voice Cloning with Reinforcement Learning](https://dev.to/czmilo/glm-tts-complete-guide-2025-revolutionary-zero-shot-voice-cloning-with-reinforcement-learning-m8m)
-- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
+- [Building MyTaskly: 11 Months of Developing an AI App at 16](https://dev.to/gabry848/building-mytaskly-11-months-of-developing-an-ai-app-at-16-38n6)
+- [How computers actually see time?](https://dev.to/rasheem/how-computers-actually-see-time-58p8)
+- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
+- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
 <!-- BLOG-POST-LIST:END -->
 
