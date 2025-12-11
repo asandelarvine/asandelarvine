@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
-- [git](https://dev.to/query_filter_591122b53770/git-2enf)
-- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
-- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
+- [YouTube Shoppable Shorts: What Works Now &lpar;Not What Worked Last Quarter&rpar;](https://dev.to/synergistdigitalmedia/youtube-shoppable-shorts-what-works-now-not-what-worked-last-quarter-270p)
+- [GitHub Actions: From YAML Hell to Pipeline Heaven 🔧](https://dev.to/tavernetech/github-actions-from-yaml-hell-to-pipeline-heaven-4hcm)
+- [2025-12-11 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-11-daily-ai-news-4c7)
+- [State Management in SwiftUI: The Complete Guide](https://dev.to/sebastienlato/state-management-in-swiftui-the-complete-guide-18fj)
 <!-- BLOG-POST-LIST:END -->
 
