@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load](https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm)
-- [DB Connection Pools: The Chefs Behind Your App’s Kitchen](https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l)
-- [How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs](https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89)
-- [DuckDB: how to fine tune parameters?](https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8)
+- [Must read!](https://dev.to/the_duchess_of_hackers/must-read-3da0)
+- [Modern Identity Governance Strategies for Evolving IT Environments](https://dev.to/kapusto/modern-identity-governance-strategies-for-evolving-it-environments-253f)
+- [Luna API buit with Xano Backend](https://dev.to/kaichat/luna-api-buit-with-xano-backend-3keg)
+- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
 <!-- BLOG-POST-LIST:END -->
 
