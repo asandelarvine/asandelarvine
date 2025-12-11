@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-33c)
-- [Understanding Overfitting in Neural Networks &lpar;TensorFlow- CNN&rpar;](https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b)
-- [Which Telegram Bot Library Should You Use? &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/which-telegram-bot-library-should-you-use-beginner-friendly-guide-4g90)
-- [I built a visual workflow tool for developers with Tauri](https://dev.to/runkids/i-built-a-visual-workflow-tool-for-developers-with-tauri-45gp)
+- [Como corrigir o erro de GPG do repositório do Cursor no Linux Mint](https://dev.to/brayanmonteiroo/como-corrigir-o-erro-de-gpg-do-repositorio-do-cursor-no-linux-mint-4m8h)
+- [How far have we come?](https://dev.to/xtina/how-far-have-we-come-1glo)
+- [Fusaka Goes Live, EIL vs OIF Debate, Rewardy Launches ERC-7702 Wallet, 7702 Unlocks Recovering Assets](https://dev.to/etherspot/fusaka-goes-live-eil-vs-oif-debate-rewardy-launches-erc-7702-wallet-7702-unlocks-recovering-4bd3)
+- [📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐](https://dev.to/sudarshan_yadav/day-13-aws-vpc-the-heart-of-aws-networking-2bjc)
 <!-- BLOG-POST-LIST:END -->
 
