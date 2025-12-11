@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/vimal/-5c5d)
-- [Build a Dogecoin Sentiment-Driven Trading Signal CLI with Remix](https://dev.to/dbatson/build-a-dogecoin-sentiment-driven-trading-signal-cli-with-remix-2je2)
-- [VPN for Kaiber: Why AI Video Creators Need Protection](https://dev.to/dev-vpn/vpn-for-kaiber-why-ai-video-creators-need-protection-4h5g)
-- [How I Consolidate Photo Notes Into a Single PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-consolidate-photo-notes-into-a-single-pdf-3fg7)
+- [Umbraco 17 LTS: Features, Improvements &amp; What Developers Should Know](https://dev.to/addact_technologies_3322b/umbraco-17-lts-features-improvements-what-developers-should-know-234d)
+- [How to optimize your workflow with AI batch video generation](https://dev.to/hicutai/how-to-optimize-your-workflow-with-ai-batch-video-generation-2g91)
+- [Cómo Resolver Captchas ImageToText Usando una Extensión de Chrome](https://dev.to/dustin_base/como-resolver-captchas-imagetotext-usando-una-extension-de-chrome-i6n)
+- [Neue Trends im Arbeitsalltag: Tools zur Zeitmessung im Praxistest](https://dev.to/timespinwriterjames/neue-trends-im-arbeitsalltag-tools-zur-zeitmessung-im-praxistest-25la)
 <!-- BLOG-POST-LIST:END -->
 
