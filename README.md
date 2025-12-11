@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Raffi: a modern Stremio‑compatible streaming client I built at 16](https://dev.to/artemas/raffi-a-modern-stremio-compatible-streaming-client-i-built-at-16-223p)
-- [AWS re:Invent 2025 - Simplify permissions management across Amazon Redshift warehouses &lpar;ANT350&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-simplify-permissions-management-across-amazon-redshift-warehouses-ant350-1mll)
-- [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
-- [9 Strumenti e Tecnologie Che Stanno Potenziando Lo Sviluppo di Applicazioni Web3 nel 2025](https://dev.to/chickieabby/9-strumenti-e-tecnologie-che-stanno-potenziando-lo-sviluppo-di-applicazioni-web3-nel-2025-1nn)
+- [Day 68 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-68-of-100-days-dsa-coding-challenge-hmh)
+- [Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)
+- [Voiden: API specs, tests, and docs in one Markdown file](https://dev.to/dhruba_patra_160fd3a4046b/voiden-api-specs-tests-and-docs-in-one-markdown-file-42i1)
+- [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
 <!-- BLOG-POST-LIST:END -->
 
