@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5-Minute System Design Question Most Engineers Get Wrong](https://dev.to/social_interviewbee/the-5-minute-system-design-question-most-engineers-get-wrong-49fb)
-- [Building a Scalable E-Commerce Platform: From Storefront to Warehouse](https://dev.to/edgi/building-a-scalable-e-commerce-platform-from-storefront-to-warehouse-e7a)
-- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
-- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
+- [AWS CDK IAM Role Management: Preventing Automatic Policy Updates](https://dev.to/aws-heroes/aws-cdk-iam-role-management-preventing-automatic-policy-updates-ibk)
+- [From AI Enthusiast to Applied AI Agent Builder — My Journey Through the Google Agents Intensive &amp; My Capstone Project](https://dev.to/ajoy_ssaha_24290780ba206/from-ai-enthusiast-to-applied-ai-agent-builder-my-journey-through-the-google-agents-intensive--2941)
+- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
+- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
 <!-- BLOG-POST-LIST:END -->
 
