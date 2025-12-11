@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como corrigir o erro de GPG do repositório do Cursor no Linux Mint](https://dev.to/brayanmonteiroo/como-corrigir-o-erro-de-gpg-do-repositorio-do-cursor-no-linux-mint-4m8h)
-- [How far have we come?](https://dev.to/xtina/how-far-have-we-come-1glo)
-- [Fusaka Goes Live, EIL vs OIF Debate, Rewardy Launches ERC-7702 Wallet, 7702 Unlocks Recovering Assets](https://dev.to/etherspot/fusaka-goes-live-eil-vs-oif-debate-rewardy-launches-erc-7702-wallet-7702-unlocks-recovering-4bd3)
-- [📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐](https://dev.to/sudarshan_yadav/day-13-aws-vpc-the-heart-of-aws-networking-2bjc)
+- [.NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load](https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm)
+- [DB Connection Pools: The Chefs Behind Your App’s Kitchen](https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l)
+- [How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs](https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89)
+- [DuckDB: how to fine tune parameters?](https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8)
 <!-- BLOG-POST-LIST:END -->
 
