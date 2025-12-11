@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 68 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-68-of-100-days-dsa-coding-challenge-hmh)
-- [Protecting Your Cloud Apps from AI-Driven Threats](https://dev.to/mabualzait/protecting-your-cloud-apps-from-ai-driven-threats-4b52)
-- [Voiden: API specs, tests, and docs in one Markdown file](https://dev.to/dhruba_patra_160fd3a4046b/voiden-api-specs-tests-and-docs-in-one-markdown-file-42i1)
-- [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
+- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
+- [How git clone Really Works: A Deep Dive into Git’s Object Database](https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7)
+- [Global Server Load Balancing &lpar;GSLB&rpar;: Modern Application Delivery-এর Global Backbone](https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9)
+- [AI Engineering: Advent of AI with goose Day 8](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-8-50me)
 <!-- BLOG-POST-LIST:END -->
 
