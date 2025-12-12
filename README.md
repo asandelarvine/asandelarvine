@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning to solve a new larger project](https://dev.to/slyang08/planning-to-solve-a-new-larger-project-1m0g)
-- [Full-Stack Developer | React | Next.js | Node.js | AI Integrations](https://dev.to/master-rj/full-stack-developer-react-nextjs-nodejs-ai-integrations-3bhb)
-- [How to add AI to the JPedal Viewer &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-add-ai-to-the-jpedal-viewer-tutorial-27dh)
-- [Chìa khoá xe ô tô VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-o-to-vinfast-34g7)
+- [How to Build and Deploy Your LLM Agents in 10 Minutes with TypeScript](https://dev.to/hatchet/how-to-build-and-deploy-your-llm-agents-in-10-minutes-with-typescript-47lh)
+- [Best CRM for Solopreneurs and Solo Founders in 2025](https://dev.to/shabe_ai/best-crm-for-solopreneurs-and-solo-founders-in-2025-4p5l)
+- [SCCM vs WSUS vs Azure Update Manager vs Intune - Which One Do I Actually Use?](https://dev.to/azurenoob/sccm-vs-wsus-vs-azure-update-manager-vs-intune-which-one-do-i-actually-use-4m56)
+- [A Critical Analysis of Kysera: Why This Project Exists](https://dev.to/luxquant/a-critical-analysis-of-kysera-why-this-project-exists-1d50)
 <!-- BLOG-POST-LIST:END -->
 
