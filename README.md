@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenID Connect Login](https://dev.to/jakubkoci/openid-connect-login-10e5)
-- [Warum Ordnung mehr Qualität schafft – und was Unternehmen daraus lernen können](https://dev.to/timespinwriterjames/warum-ordnung-mehr-qualitat-schafft-und-was-unternehmen-daraus-lernen-konnen-2pfo)
-- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
-- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
+- [Choosing the Right Data Structure in Python for Automation Projects](https://dev.to/godhirajcode/choosing-the-right-data-structure-in-python-for-automation-projects-hj5)
+- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-123h)
+- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
+- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
 <!-- BLOG-POST-LIST:END -->
 
