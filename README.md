@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yellowbrick Data - Community Edition Blog](https://dev.to/hunter-dev/yellowbrick-data-community-edition-blog-1abb)
-- [Escaping Localhost](https://dev.to/jongwan93/escaping-localhost-3kc)
-- [Reflections on My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/silali_banerjee_e845914ff/reflections-on-my-learning-journey-in-the-5-day-ai-agents-intensive-253e)
-- [Smart Escrow Post #2: What is WebAssembly?](https://dev.to/ripplexdev/smart-escrow-post-2-what-is-webassembly-4of3)
+- [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
+- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
+- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
+- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
 <!-- BLOG-POST-LIST:END -->
 
