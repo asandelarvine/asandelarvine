@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This made me to learn Node.js :&rpar;](https://dev.to/dhruvjoshi9/this-made-me-to-learn-nodejs--apm)
-- [Web2 vs Web3](https://dev.to/mirbasit01/web2-vs-web3-4fg6)
-- [Building a FinTech Approval System with Symfony 7.4](https://dev.to/mattleads/building-a-fintech-approval-system-with-symfony-74-1hl1)
-- [🚀 Scrape the Web with Summaryr + AI-Powered Summaries, Flashcards, Question Generation &amp; PDF Export!](https://dev.to/ahmadnk31/scrape-the-web-with-summaryr-ai-powered-summaries-flashcards-question-generation-pdf-export-4f54)
+- [CloudFront Function vs Lambda@Edge - which one to use](https://dev.to/shajam/cloudfront-function-vs-lambdaedge-which-one-to-use-2dko)
+- [Backend, Frontend &amp; Product Walk Into a Meeting… And AI Docs Finally Make It Less Painful](https://dev.to/notadevbuthere/backend-frontend-product-walk-into-a-meeting-and-ai-docs-finally-make-it-less-painful-ibn)
+- [I Built ClipFlow: The Clipboard History macOS Should Have](https://dev.to/kotyada_saipraneeth_7be9/i-built-clipflow-the-clipboard-history-macos-should-have-11fn)
+- [My Ultimate VS Code Setup for 2025 &lpar;Extensions, Fonts, and Themes&rpar;](https://dev.to/maame-codes/my-ultimate-vs-code-setup-for-2025-extensions-fonts-and-themes-53cc)
 <!-- BLOG-POST-LIST:END -->
 
