@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping Meaningful Open Source Work](https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o)
-- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
-- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
-- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
+- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
+- [Inside Google Jobs Series &lpar;Part 10&rpar;: Ads &amp; Commerce Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-10-ads-commerce-engineering-1aah)
+- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
+- [PyPulsar: A Python-based Alternative to Electron for Desktop Apps](https://dev.to/dannyxhub/pypulsar-a-python-based-alternative-to-electron-for-desktop-apps-5gkn)
 <!-- BLOG-POST-LIST:END -->
 
