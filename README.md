@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Agent Demo: Investigating ALB Health Check Failures](https://dev.to/hung____/aws-devops-agent-demo-investigating-alb-health-check-failures-2be6)
-- [Eclipse WTP: JaCoCo Coverage Not Recognized When Running Tomcat in Debug Mode](https://dev.to/toydev/eclipse-wtp-jacoco-coverage-not-recognized-when-running-tomcat-in-debug-mode-4d00)
-- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
-- [A Complete Guide to SVG-to-JPG Conversion in .NET](https://dev.to/shahzad_ashraf_5ea18e2b2d/a-complete-guide-to-svg-to-jpg-conversion-in-net-bbh)
+- [How No Code Business Automation Works for AI Workflows 2025](https://dev.to/eira-wexford/how-no-code-business-automation-works-for-ai-workflows-2025-1ae)
+- [🚀 How I Achieved 60% Cost Reduction with AWS Auto-Scaling: A Complete Migration Case Study](https://dev.to/cloudwithharry_v26/how-i-achieved-60-cost-reduction-with-aws-auto-scaling-a-complete-migration-case-study-48pl)
+- [I Read My Code From 1 Year Ago. I&#39;m Both Impressed and Horrified.](https://dev.to/sahil_sahu/i-read-my-code-from-1-year-ago-im-both-impressed-and-horrified-2md1)
+- [✌️5 AI Document Parsing Tools That Actually Work 🚀🔥](https://dev.to/shricodev/5-ai-document-parsing-tools-that-actually-work-db6)
 <!-- BLOG-POST-LIST:END -->
 
