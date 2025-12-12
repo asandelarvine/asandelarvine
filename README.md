@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 62: Python Longest Subarray with Target Sum - O&lpar;n&rpar; Prefix Sum &amp; HashMap Guide &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-62-python-longest-subarray-with-target-sum-on-prefix-sum-hashmap-guide-leetcode-vibes-4n7b)
-- [The &quot;Distributed State Tax&quot; and Why We Don&#39;t Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8)
-- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b)
-- [Remote SSH Access to Windows from Debian: Complete Setup and Fixes](https://dev.to/siddharth_magesh_e12b8505/remote-ssh-access-to-windows-from-debian-complete-setup-and-fixes-3e5d)
+- [Dissecting ELF for Bare Metal Development: Sections, Segments, VMA, and LMA Explained](https://dev.to/ripan030/dissecting-elf-for-bare-metal-development-sections-segments-vma-and-lma-explained-4390)
+- [Korean Reading Practice Tips for TOPIK Exam](https://dev.to/karanxrma/korean-reading-practice-tips-for-topik-exam-5hch)
+- [From a Front-End Developer’s Perspective:The “Interaction Detail Philosophy” Behind File Conversion Tools](https://dev.to/_6257a85884eafc7541653/from-a-front-end-developers-perspectivethe-interaction-detail-philosophy-behind-file-conversion-5809)
+- [🚀How to Create Your First GitHub Trigger &amp; Connections in Google Cloud Build](https://dev.to/latchudevops/how-to-create-your-first-github-trigger-connections-in-google-cloud-build-2igd)
 <!-- BLOG-POST-LIST:END -->
 
