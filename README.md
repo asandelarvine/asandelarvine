@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix the Annoying RDP Screen Freeze &lpar;TCP vs UDP&rpar;](https://dev.to/erkmenhost/how-to-fix-the-annoying-rdp-screen-freeze-tcp-vs-udp-3i7k)
-- [Método USE.: O que é e Como Usar](https://dev.to/rafaelbonilha/metodo-use-o-que-e-e-como-usar-39a1)
-- [How SmartKNN Learns Feature Weights Internally.](https://dev.to/jashwanth_thatipamula_8ee/how-smartknn-learns-feature-weights-internally-5cii)
-- [AI 2026: Google’s Roadmap &amp; Strategy](https://dev.to/devin-rosario/ai-2026-googles-roadmap-strategy-77f)
+- [Planning to solve a new larger project](https://dev.to/slyang08/planning-to-solve-a-new-larger-project-1m0g)
+- [Full-Stack Developer | React | Next.js | Node.js | AI Integrations](https://dev.to/master-rj/full-stack-developer-react-nextjs-nodejs-ai-integrations-3bhb)
+- [How to add AI to the JPedal Viewer &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-add-ai-to-the-jpedal-viewer-tutorial-27dh)
+- [Chìa khoá xe ô tô VinFast](https://dev.to/link_back_248d8e2428dabe9/chia-khoa-xe-o-to-vinfast-34g7)
 <!-- BLOG-POST-LIST:END -->
 
