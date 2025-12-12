@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce GPU Cost by More Than 40% for ML Workloads](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-1c8h)
-- [🚀 Boost Your EF Core Performance with AsNoTracking&lpar;&rpar;](https://dev.to/elmehditaii/boost-your-ef-core-performance-with-asnotracking-ee5)
-- [How to Build a Full-Stack App with an AI Coding Agent](https://dev.to/nickpe/how-to-build-a-full-stack-app-with-an-ai-coding-agent-9p9)
-- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
+- [AWS DevOps Agent Demo: Investigating ALB Health Check Failures](https://dev.to/hung____/aws-devops-agent-demo-investigating-alb-health-check-failures-2be6)
+- [Eclipse WTP: JaCoCo Coverage Not Recognized When Running Tomcat in Debug Mode](https://dev.to/toydev/eclipse-wtp-jacoco-coverage-not-recognized-when-running-tomcat-in-debug-mode-4d00)
+- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
+- [A Complete Guide to SVG-to-JPG Conversion in .NET](https://dev.to/shahzad_ashraf_5ea18e2b2d/a-complete-guide-to-svg-to-jpg-conversion-in-net-bbh)
 <!-- BLOG-POST-LIST:END -->
 
