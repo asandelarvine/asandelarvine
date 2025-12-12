@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How No Code Business Automation Works for AI Workflows 2025](https://dev.to/eira-wexford/how-no-code-business-automation-works-for-ai-workflows-2025-1ae)
-- [🚀 How I Achieved 60% Cost Reduction with AWS Auto-Scaling: A Complete Migration Case Study](https://dev.to/cloudwithharry_v26/how-i-achieved-60-cost-reduction-with-aws-auto-scaling-a-complete-migration-case-study-48pl)
-- [I Read My Code From 1 Year Ago. I&#39;m Both Impressed and Horrified.](https://dev.to/sahil_sahu/i-read-my-code-from-1-year-ago-im-both-impressed-and-horrified-2md1)
-- [✌️5 AI Document Parsing Tools That Actually Work 🚀🔥](https://dev.to/shricodev/5-ai-document-parsing-tools-that-actually-work-db6)
+- [How to Fix the Annoying RDP Screen Freeze &lpar;TCP vs UDP&rpar;](https://dev.to/erkmenhost/how-to-fix-the-annoying-rdp-screen-freeze-tcp-vs-udp-3i7k)
+- [Método USE.: O que é e Como Usar](https://dev.to/rafaelbonilha/metodo-use-o-que-e-e-como-usar-39a1)
+- [How SmartKNN Learns Feature Weights Internally.](https://dev.to/jashwanth_thatipamula_8ee/how-smartknn-learns-feature-weights-internally-5cii)
+- [AI 2026: Google’s Roadmap &amp; Strategy](https://dev.to/devin-rosario/ai-2026-googles-roadmap-strategy-77f)
 <!-- BLOG-POST-LIST:END -->
 
