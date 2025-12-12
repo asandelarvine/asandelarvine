@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build and Deploy Your LLM Agents in 10 Minutes with TypeScript](https://dev.to/hatchet/how-to-build-and-deploy-your-llm-agents-in-10-minutes-with-typescript-47lh)
-- [Best CRM for Solopreneurs and Solo Founders in 2025](https://dev.to/shabe_ai/best-crm-for-solopreneurs-and-solo-founders-in-2025-4p5l)
-- [SCCM vs WSUS vs Azure Update Manager vs Intune - Which One Do I Actually Use?](https://dev.to/azurenoob/sccm-vs-wsus-vs-azure-update-manager-vs-intune-which-one-do-i-actually-use-4m56)
-- [A Critical Analysis of Kysera: Why This Project Exists](https://dev.to/luxquant/a-critical-analysis-of-kysera-why-this-project-exists-1d50)
+- [OpenID Connect Login](https://dev.to/jakubkoci/openid-connect-login-10e5)
+- [Warum Ordnung mehr Qualität schafft – und was Unternehmen daraus lernen können](https://dev.to/timespinwriterjames/warum-ordnung-mehr-qualitat-schafft-und-was-unternehmen-daraus-lernen-konnen-2pfo)
+- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
+- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
 <!-- BLOG-POST-LIST:END -->
 
