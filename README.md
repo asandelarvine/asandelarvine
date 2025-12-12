@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dissecting ELF for Bare Metal Development: Sections, Segments, VMA, and LMA Explained](https://dev.to/ripan030/dissecting-elf-for-bare-metal-development-sections-segments-vma-and-lma-explained-4390)
-- [Korean Reading Practice Tips for TOPIK Exam](https://dev.to/karanxrma/korean-reading-practice-tips-for-topik-exam-5hch)
-- [From a Front-End Developer’s Perspective:The “Interaction Detail Philosophy” Behind File Conversion Tools](https://dev.to/_6257a85884eafc7541653/from-a-front-end-developers-perspectivethe-interaction-detail-philosophy-behind-file-conversion-5809)
-- [🚀How to Create Your First GitHub Trigger &amp; Connections in Google Cloud Build](https://dev.to/latchudevops/how-to-create-your-first-github-trigger-connections-in-google-cloud-build-2igd)
+- [This made me to learn Node.js :&rpar;](https://dev.to/dhruvjoshi9/this-made-me-to-learn-nodejs--apm)
+- [Web2 vs Web3](https://dev.to/mirbasit01/web2-vs-web3-4fg6)
+- [Building a FinTech Approval System with Symfony 7.4](https://dev.to/mattleads/building-a-fintech-approval-system-with-symfony-74-1hl1)
+- [🚀 Scrape the Web with Summaryr + AI-Powered Summaries, Flashcards, Question Generation &amp; PDF Export!](https://dev.to/ahmadnk31/scrape-the-web-with-summaryr-ai-powered-summaries-flashcards-question-generation-pdf-export-4f54)
 <!-- BLOG-POST-LIST:END -->
 
