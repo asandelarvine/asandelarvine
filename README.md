@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Data Structure in Python for Automation Projects](https://dev.to/godhirajcode/choosing-the-right-data-structure-in-python-for-automation-projects-hj5)
-- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-123h)
-- [Vous cherchez un métier dans le digital](https://dev.to/maximeguinard/vous-cherchez-un-metier-dans-le-digital-2gll)
-- [CSS Basics](https://dev.to/sasirekaarumugam/css-igf)
+- [LiteLLM Broke at 300 RPS in Production. Here&#39;s How We Fixed It](https://dev.to/debmckinney/litellm-broke-at-300-rps-in-production-heres-how-we-fixed-it-5ej)
+- [I got tired of Audit tools that just list problems, so I built one that writes the fixes &lpar;and roasts you&rpar;](https://dev.to/mariuscg/i-got-tired-of-audit-tools-that-just-list-problems-so-i-built-one-that-writes-the-fixes-and-25bh)
+- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo)
+- [Why I Built My Personal Developer Portfolio &lpar;and What You Can Learn From It&rpar;](https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib)
 <!-- BLOG-POST-LIST:END -->
 
