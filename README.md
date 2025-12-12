@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
-- [Inside Google Jobs Series &lpar;Part 10&rpar;: Ads &amp; Commerce Engineering](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-10-ads-commerce-engineering-1aah)
-- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
-- [PyPulsar: A Python-based Alternative to Electron for Desktop Apps](https://dev.to/dannyxhub/pypulsar-a-python-based-alternative-to-electron-for-desktop-apps-5gkn)
+- [Yellowbrick Data - Community Edition Blog](https://dev.to/hunter-dev/yellowbrick-data-community-edition-blog-1abb)
+- [Escaping Localhost](https://dev.to/jongwan93/escaping-localhost-3kc)
+- [Reflections on My Learning Journey in the 5-Day AI Agents Intensive](https://dev.to/silali_banerjee_e845914ff/reflections-on-my-learning-journey-in-the-5-day-ai-agents-intensive-253e)
+- [Smart Escrow Post #2: What is WebAssembly?](https://dev.to/ripplexdev/smart-escrow-post-2-what-is-webassembly-4of3)
 <!-- BLOG-POST-LIST:END -->
 
