@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I Do Grind 75 or Blind 75 in 2024? A Complete Comparison Guide](https://dev.to/alex_hunter_44f4c9ed6671e/should-i-do-grind-75-or-blind-75-in-2024-a-complete-comparison-guide-10h9)
-- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
-- [Failing LeetCode Over and Over? Here&#39;s How to Stay Motivated](https://dev.to/alex_hunter_44f4c9ed6671e/failing-leetcode-over-and-over-heres-how-to-stay-motivated-4lhe)
-- [Mastering the Cloud - Why Every Business Needs a Cloud Architecture Expert](https://dev.to/ioweb_961ddefd53bd65fce97/mastering-the-cloud-why-every-business-needs-a-cloud-architecture-expert-1i3c)
+- [Day 62: Python Longest Subarray with Target Sum - O&lpar;n&rpar; Prefix Sum &amp; HashMap Guide &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-62-python-longest-subarray-with-target-sum-on-prefix-sum-hashmap-guide-leetcode-vibes-4n7b)
+- [The &quot;Distributed State Tax&quot; and Why We Don&#39;t Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8)
+- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b)
+- [Remote SSH Access to Windows from Debian: Complete Setup and Fixes](https://dev.to/siddharth_magesh_e12b8505/remote-ssh-access-to-windows-from-debian-complete-setup-and-fixes-3e5d)
 <!-- BLOG-POST-LIST:END -->
 
