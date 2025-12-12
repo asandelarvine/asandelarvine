@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/transform-sdk-integration-monetize-your-ai-conversations-effectively-33j5)
-- [From Catalog Chaos to Real-Time Recommendations: Building a Product Graph with LLMs and Neo4j](https://dev.to/badmonster0/from-catalog-chaos-to-real-time-recommendations-building-a-product-graph-with-llms-and-neo4j-22b9)
-- [Complete Onboarding Breakdown: 9 Steps from First Screen to Paywall](https://dev.to/paywallpro/complete-onboarding-breakdown-9-steps-from-first-screen-to-paywall-2j7)
-- [Looking for a Tax File Number?](https://dev.to/fast_rabbit_9d94d696ee6b3/looking-for-a-tax-file-number-52no)
+- [Bitcoin for Non-Technical People: Why the First Cryptocurrency Matters](https://dev.to/ribhavmodi/bitcoin-for-non-technical-people-why-the-first-cryptocurrency-matters-58fp)
+- [Url Shortener Vs Regular Links: Pros and Cons](https://dev.to/cristianalex_17/url-shortener-vs-regular-links-pros-and-cons-43jc)
+- [Best Url Shorteners: Ultimate Guide in 2025](https://dev.to/puratabla/best-url-shorteners-ultimate-guide-in-2025-25g5)
+- [Pause, Inspect, Edit: Debugging LLM Requests in vLLora](https://dev.to/mrunmaylangdb/pause-inspect-edit-debugging-llm-requests-in-vllora-26bg)
 <!-- BLOG-POST-LIST:END -->
 
