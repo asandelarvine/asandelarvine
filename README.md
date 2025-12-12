@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront Function vs Lambda@Edge - which one to use](https://dev.to/shajam/cloudfront-function-vs-lambdaedge-which-one-to-use-2dko)
-- [Backend, Frontend &amp; Product Walk Into a Meeting… And AI Docs Finally Make It Less Painful](https://dev.to/notadevbuthere/backend-frontend-product-walk-into-a-meeting-and-ai-docs-finally-make-it-less-painful-ibn)
-- [I Built ClipFlow: The Clipboard History macOS Should Have](https://dev.to/kotyada_saipraneeth_7be9/i-built-clipflow-the-clipboard-history-macos-should-have-11fn)
-- [My Ultimate VS Code Setup for 2025 &lpar;Extensions, Fonts, and Themes&rpar;](https://dev.to/maame-codes/my-ultimate-vs-code-setup-for-2025-extensions-fonts-and-themes-53cc)
+- [How to Reduce GPU Cost by More Than 40% for ML Workloads](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-1c8h)
+- [🚀 Boost Your EF Core Performance with AsNoTracking&lpar;&rpar;](https://dev.to/elmehditaii/boost-your-ef-core-performance-with-asnotracking-ee5)
+- [How to Build a Full-Stack App with an AI Coding Agent](https://dev.to/nickpe/how-to-build-a-full-stack-app-with-an-ai-coding-agent-9p9)
+- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
 <!-- BLOG-POST-LIST:END -->
 
