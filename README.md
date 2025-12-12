@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Productivity Killer in Your Coding Workflow &lpar;And How I Finally Fixed It&rpar;](https://dev.to/deleanmafra/the-silent-productivity-killer-in-your-coding-workflow-and-how-i-finally-fixed-it-5fd3)
-- [I Built a Community for Government Exam Aspirants Using the Forem](https://dev.to/muraridevv/i-built-a-community-for-government-exam-aspirants-using-the-forem-3lpg)
-- [PowerShell pipeline chain operator 的小陷阱](https://dev.to/codemee/powershell-pipeline-chain-operator-de-xiao-xian-jing-3d67)
-- [Top 20 Nano Banana Pro prompts on Twitter in 2025](https://dev.to/czmilo/top-20-nano-banana-pro-prompts-on-twitter-in-2025-44cf)
+- [Transform SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/transform-sdk-integration-monetize-your-ai-conversations-effectively-33j5)
+- [From Catalog Chaos to Real-Time Recommendations: Building a Product Graph with LLMs and Neo4j](https://dev.to/badmonster0/from-catalog-chaos-to-real-time-recommendations-building-a-product-graph-with-llms-and-neo4j-22b9)
+- [Complete Onboarding Breakdown: 9 Steps from First Screen to Paywall](https://dev.to/paywallpro/complete-onboarding-breakdown-9-steps-from-first-screen-to-paywall-2j7)
+- [Looking for a Tax File Number?](https://dev.to/fast_rabbit_9d94d696ee6b3/looking-for-a-tax-file-number-52no)
 <!-- BLOG-POST-LIST:END -->
 
