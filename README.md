@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning My Final Open Source Contribution](https://dev.to/aubreyddd/planning-my-final-open-source-contribution-2j85)
-- [[Boost]](https://dev.to/tedashikode/-1b6d)
-- [Key Elements of an Effective Leadership and Motivation Plan](https://dev.to/writegenic/key-elements-of-an-effective-leadership-and-motivation-plan-14de)
-- [Day 7: Trading Leetcode for ML](https://dev.to/casperday11/day-7-trading-leetcode-for-ml-2k7m)
+- [Shipping Meaningful Open Source Work](https://dev.to/aubreyddd/shipping-meaningful-open-source-work-3p3o)
+- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
+- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
+- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
 <!-- BLOG-POST-LIST:END -->
 
