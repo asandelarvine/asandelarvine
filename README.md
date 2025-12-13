@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Memcortex: A Lightweight Semantic Memory Layer for LLMs](https://dev.to/sobowalebukola/inside-memcortex-a-lightweight-semantic-memory-layer-for-llms-1eki)
-- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
-- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
-- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
+- [I Built a Cozy Pixel Art Bouquet Maker Using HTML Canvas](https://dev.to/ycnkc/i-built-a-cozy-pixel-art-bouquet-maker-using-html-canvas-2k8a)
+- [It’s been a week since I shared my chat app — and I’m trying to understand why it didn’t click](https://dev.to/bug-free-dev/its-been-a-week-since-i-shared-my-chat-app-and-im-trying-to-understand-why-it-didnt-click-19k0)
+- [Cut Your LLM Costs by ~30% With Prompt Optimization &lpar;What Actually Works in Production&rpar;](https://dev.to/bogdanpi/cut-your-llm-costs-by-30-with-prompt-optimization-what-actually-works-in-production-2fn1)
+- [How to Choose the Right VPS Hosting in 2025: A Complete Guide](https://dev.to/medha-hosting/how-to-choose-the-right-vps-hosting-in-2025-a-complete-guide-5c4d)
 <!-- BLOG-POST-LIST:END -->
 
