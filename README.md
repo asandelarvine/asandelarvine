@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cozy Pixel Art Bouquet Maker Using HTML Canvas](https://dev.to/ycnkc/i-built-a-cozy-pixel-art-bouquet-maker-using-html-canvas-2k8a)
-- [It’s been a week since I shared my chat app — and I’m trying to understand why it didn’t click](https://dev.to/bug-free-dev/its-been-a-week-since-i-shared-my-chat-app-and-im-trying-to-understand-why-it-didnt-click-19k0)
-- [Cut Your LLM Costs by ~30% With Prompt Optimization &lpar;What Actually Works in Production&rpar;](https://dev.to/bogdanpi/cut-your-llm-costs-by-30-with-prompt-optimization-what-actually-works-in-production-2fn1)
-- [How to Choose the Right VPS Hosting in 2025: A Complete Guide](https://dev.to/medha-hosting/how-to-choose-the-right-vps-hosting-in-2025-a-complete-guide-5c4d)
+- [Docker Explained from Real Project Pain &lpar;Not Theory&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-real-project-pain-not-theory-4al)
+- [Day 24 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-24-of-improving-my-data-science-skills-2fg2)
+- [Lessons Learned from the React2Shell Vulnerability &lpar;December 3, 2025&rpar;](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
+- [DB-Toolkit - Database Management Made Simple](https://dev.to/adelodunpeter/db-toolkit-database-management-made-simple-3bdp)
 <!-- BLOG-POST-LIST:END -->
 
