@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Prototyping with No-Code Tools: Build AI Voice Agents](https://dev.to/callstacktech/rapid-prototyping-with-no-code-tools-build-ai-voice-agents-4pfl)
-- [3 Questions That Can Transform Any Call](https://dev.to/ridd0/3-questions-that-can-transform-any-call-25p1)
-- [What is Serverless? And why you should care about it?](https://dev.to/pierre/what-is-serverless-43fd)
-- [Day 13 — Audit and Update Old Infrastructure &lpar;Deep in the Mines&rpar;](https://dev.to/aerabi/day-13-audit-and-update-old-infrastructure-deep-in-the-mines-1ii2)
+- [Hydro: A Distributed Programming Framework for Rust](https://dev.to/stelixx-insider/hydro-a-distributed-programming-framework-for-rust-1bg9)
+- [Slow programming - why I don&#39;t let AI generate production code for me](https://dev.to/andreas_mller_2fd27cf578/slow-programming-why-i-dont-let-ai-generate-production-code-for-me-588j)
+- [Why Every Business Needs a Responsible AI Framework Advisor in 2026](https://dev.to/erinredd/why-every-business-needs-a-responsible-ai-framework-advisor-in-2026-2kmm)
+- [[Boost]](https://dev.to/mukuldev21/-1004)
 <!-- BLOG-POST-LIST:END -->
 
