@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Business Management in 2026: AI, Automation, and Clarity](https://dev.to/sapeagle_erp_7e0cacb93388/the-future-of-business-management-in-2026-ai-automation-and-clarity-2hm8)
-- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
-- [JS Variables.](https://dev.to/mohamed_ajmal_222/js-variables-13h9)
-- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
+- [AWS for Developers: The Guide](https://dev.to/kaustubhyerkade/aws-for-developers-the-only-guide-you-actually-need-in-2026-901)
+- [Linker Scripts Explained: Controlling Memory Layout on Bare Metal](https://dev.to/ripan030/linker-scripts-explained-controlling-memory-layout-on-bare-metal-3ocb)
+- [Full-Stack Dev &amp; AI: Your Roadmap to Unstoppable Leverage](https://dev.to/thinkaddict/full-stack-dev-ai-your-roadmap-to-unstoppable-leverage-4202)
+- [Announcing &quot;PNGpng&quot;: A Pngyu Alternative for macOS 15 Sequoia](https://dev.to/i-icc/announcing-pngpng-a-pngyu-alternative-for-macos-15-sequoia-1g)
 <!-- BLOG-POST-LIST:END -->
 
