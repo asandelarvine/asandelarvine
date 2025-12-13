@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hydro: A Distributed Programming Framework for Rust](https://dev.to/stelixx-insider/hydro-a-distributed-programming-framework-for-rust-1bg9)
-- [Slow programming - why I don&#39;t let AI generate production code for me](https://dev.to/andreas_mller_2fd27cf578/slow-programming-why-i-dont-let-ai-generate-production-code-for-me-588j)
-- [Why Every Business Needs a Responsible AI Framework Advisor in 2026](https://dev.to/erinredd/why-every-business-needs-a-responsible-ai-framework-advisor-in-2026-2kmm)
-- [[Boost]](https://dev.to/mukuldev21/-1004)
+- [How Equillar Uses Stellar Muxed Accounts](https://dev.to/icolomina/how-equillar-uses-stellar-muxed-accounts-4fhi)
+- [Streit um den Acht-Stunden-Tag: Bauarbeiter schlagen Alarm](https://dev.to/timespinwriterjames/streit-um-den-acht-stunden-tag-bauarbeiter-schlagen-alarm-32l3)
+- [Stop feeding garbage to your LLM: How to get clean Markdown from Documentation](https://dev.to/_c6b40244e4cdb3f10/stop-feeding-garbage-to-your-llm-how-to-get-clean-markdown-from-documentation-1l69)
+- [5.Create VPC with IPv6 Using Terraform](https://dev.to/thukhakyawe_cloud/5create-vpc-with-ipv6-using-terraform-mfi)
 <!-- BLOG-POST-LIST:END -->
 
