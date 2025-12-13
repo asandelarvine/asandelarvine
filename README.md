@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Equillar Uses Stellar Muxed Accounts](https://dev.to/icolomina/how-equillar-uses-stellar-muxed-accounts-4fhi)
-- [Streit um den Acht-Stunden-Tag: Bauarbeiter schlagen Alarm](https://dev.to/timespinwriterjames/streit-um-den-acht-stunden-tag-bauarbeiter-schlagen-alarm-32l3)
-- [Stop feeding garbage to your LLM: How to get clean Markdown from Documentation](https://dev.to/_c6b40244e4cdb3f10/stop-feeding-garbage-to-your-llm-how-to-get-clean-markdown-from-documentation-1l69)
-- [5.Create VPC with IPv6 Using Terraform](https://dev.to/thukhakyawe_cloud/5create-vpc-with-ipv6-using-terraform-mfi)
+- [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
+- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
+- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
+- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
 <!-- BLOG-POST-LIST:END -->
 
