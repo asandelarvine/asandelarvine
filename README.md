@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
-- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
-- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
-- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
+- [Inside Memcortex: A Lightweight Semantic Memory Layer for LLMs](https://dev.to/sobowalebukola/inside-memcortex-a-lightweight-semantic-memory-layer-for-llms-1eki)
+- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
+- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
+- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
 <!-- BLOG-POST-LIST:END -->
 
