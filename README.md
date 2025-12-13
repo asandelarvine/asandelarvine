@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Joy of Code in the Age of Vibe Engineering](https://dev.to/jjn1056/the-joy-of-code-in-the-age-of-vibe-engineering-49j2)
-- [Making TypeScript Tools Safer and Smarter](https://dev.to/oleksandrakordonets/making-typescript-tools-safer-and-smarter-4pgk)
-- [Feature Gating: How We Built a Freemium SaaS Without Duplicating Components](https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6)
-- [Debounce vs Throttle in JavaScript &lpar;Explained Simply with Code&rpar;](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm)
+- [Stealth Inline Hook Detection via LR Return Address](https://dev.to/jack_sparrow_2386c07e8b94/stealth-inline-hook-detection-via-lr-return-address-52c5)
+- [I tried scraping Reddit in 2025... here&#39;s what happens when you fight the API](https://dev.to/short_playskits_ab152535/i-tried-scraping-reddit-in-2025-heres-what-happens-when-you-fight-the-api-57o5)
+- [If You Could Add ONE Feature to a Design Portfolio, What Would It Be?](https://dev.to/the_duchess_of_hackers/if-you-could-add-one-feature-to-a-design-portfolio-what-would-it-be-1ma9)
+- [Building vs. Orchestrating: The New Founder’s Dilemma in the AI Era](https://dev.to/jaideepparashar/building-vs-orchestrating-the-new-founders-dilemma-in-the-ai-era-i2l)
 <!-- BLOG-POST-LIST:END -->
 
