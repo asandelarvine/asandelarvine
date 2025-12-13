@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C&#39;de malloc ve struct Kullanarak Dinamik Bir Öğrenci Not Sistemi Nasıl Yazılır?](https://dev.to/berkaydmr/cde-malloc-ve-struct-kullanarak-dinamik-bir-ogrenci-not-sistemi-nasil-yazilir-48bl)
-- [Mastering Enums in TypeScript: A Comprehensive Guide](https://dev.to/vjnvisakh/mastering-enums-in-typescript-a-comprehensive-guide-4945)
-- [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
-- [Sector HQ Weekly Digest - December 13, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-13-2025-3fm4)
+- [Why is PDF so hard to edit?](https://dev.to/michael_lahr/why-is-pdf-so-hard-to-edit-3h3l)
+- [DEV Track Spotlight: Designing Local Generative AI Inference with AWS IoT Greengrass &lpar;DEV316&rpar;](https://dev.to/gunnargrosch/dev-track-spotlight-designing-local-generative-ai-inference-with-aws-iot-greengrass-dev316-3kgk)
+- [Docfx-Plus: A template and a tool to enhance DocFx and migrate from SHFB &lpar;Sandcastle&rpar;](https://dev.to/dotmake/docfx-plus-a-template-and-a-tool-to-enhance-docfx-and-migrate-from-shfb-sandcastle-1kp0)
+- [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
 <!-- BLOG-POST-LIST:END -->
 
