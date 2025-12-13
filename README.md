@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [패키지 매니저 파묘🪦](https://dev.to/algoorgoal/paekiji-maenijeo-pamyo-gf5)
-- [PS5 Exclusive Saros Delayed, But Pre-Orders Are Live Right Now](https://dev.to/aibuddyinc/ps5-exclusive-saros-delayed-but-pre-orders-are-live-right-now-5glg)
-- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
-- [Production Timing and Counting PLC Data Acquisition IoT System Solution](https://dev.to/wideiot/production-timing-and-counting-plc-data-acquisition-iot-system-solution-18m1)
+- [C&#39;de malloc ve struct Kullanarak Dinamik Bir Öğrenci Not Sistemi Nasıl Yazılır?](https://dev.to/berkaydmr/cde-malloc-ve-struct-kullanarak-dinamik-bir-ogrenci-not-sistemi-nasil-yazilir-48bl)
+- [Mastering Enums in TypeScript: A Comprehensive Guide](https://dev.to/vjnvisakh/mastering-enums-in-typescript-a-comprehensive-guide-4945)
+- [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
+- [Sector HQ Weekly Digest - December 13, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-13-2025-3fm4)
 <!-- BLOG-POST-LIST:END -->
 
