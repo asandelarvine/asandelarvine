@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-stop EC2 on low CPU, then auto-start on HTTPS request — how to keep a “front door” while the instance is off?](https://dev.to/jawherkassas/auto-stop-ec2-on-low-cpu-then-auto-start-on-https-request-how-to-keep-a-front-door-while-the-58f)
-- [Stuck for Hours? The &#39;Productive Struggle&#39; Rule for LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6)
-- [Mind Goes Blank on LeetCode? Here&#39;s Your Escape Plan](https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m)
-- [Cloud Architecture Mistakes I Made So You Don&#39;t Have To](https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl)
+- [The Future of Business Management in 2026: AI, Automation, and Clarity](https://dev.to/sapeagle_erp_7e0cacb93388/the-future-of-business-management-in-2026-ai-automation-and-clarity-2hm8)
+- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
+- [JS Variables.](https://dev.to/mohamed_ajmal_222/js-variables-13h9)
+- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
 <!-- BLOG-POST-LIST:END -->
 
