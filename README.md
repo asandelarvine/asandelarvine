@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #12: Funciones](https://dev.to/david_goyes_a488f58a17a53/swift-12-funciones-43c7)
-- [Learn Dart Programming Language: A Beginner&#39;s Guide](https://dev.to/techwithsam/learn-dart-programming-language-a-beginners-guide-3a1c)
-- [Go Slices: The Pointer Paradox Why Your Appends Disappear &lpar;Understanding when slice modifications persist and when they vanish&rpar;](https://dev.to/mx_tech/go-slices-the-pointer-paradox-why-your-appends-disappear-understanding-when-slice-modifications-303j)
-- [Navigating the Switch: How to Choose the Right Linux Distro in 2026](https://dev.to/srijan-xi/navigating-the-switch-how-to-choose-the-right-linux-distro-in-2026-448b)
+- [Trying to understand SOLID Principles with C#](https://dev.to/prasadg/trying-to-understand-solid-principles-with-c-693)
+- [🚀 Simplify Your C# Collections with the Spread Operator &lpar;..&rpar;](https://dev.to/elmehditaii/simplify-your-c-collections-with-the-spread-operator--3d8m)
+- [How Does Amex Process Millions of Transactions in Milliseconds](https://dev.to/evan-lausier/how-does-amex-process-millions-of-transactions-in-milliseconds-89i)
+- [KV Caching in LLMs: How It Speeds Up Text Generation](https://dev.to/rijultp/kv-caching-in-llms-how-it-speeds-up-text-generation-459j)
 <!-- BLOG-POST-LIST:END -->
 
