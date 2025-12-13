@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Explained from Real Project Pain &lpar;Not Theory&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-real-project-pain-not-theory-4al)
-- [Day 24 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-24-of-improving-my-data-science-skills-2fg2)
-- [Lessons Learned from the React2Shell Vulnerability &lpar;December 3, 2025&rpar;](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
-- [DB-Toolkit - Database Management Made Simple](https://dev.to/adelodunpeter/db-toolkit-database-management-made-simple-3bdp)
+- [Swift #12: Funciones](https://dev.to/david_goyes_a488f58a17a53/swift-12-funciones-43c7)
+- [Learn Dart Programming Language: A Beginner&#39;s Guide](https://dev.to/techwithsam/learn-dart-programming-language-a-beginners-guide-3a1c)
+- [Go Slices: The Pointer Paradox Why Your Appends Disappear &lpar;Understanding when slice modifications persist and when they vanish&rpar;](https://dev.to/mx_tech/go-slices-the-pointer-paradox-why-your-appends-disappear-understanding-when-slice-modifications-303j)
+- [Navigating the Switch: How to Choose the Right Linux Distro in 2026](https://dev.to/srijan-xi/navigating-the-switch-how-to-choose-the-right-linux-distro-in-2026-448b)
 <!-- BLOG-POST-LIST:END -->
 
