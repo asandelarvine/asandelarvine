@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stealth Inline Hook Detection via LR Return Address](https://dev.to/jack_sparrow_2386c07e8b94/stealth-inline-hook-detection-via-lr-return-address-52c5)
-- [I tried scraping Reddit in 2025... here&#39;s what happens when you fight the API](https://dev.to/short_playskits_ab152535/i-tried-scraping-reddit-in-2025-heres-what-happens-when-you-fight-the-api-57o5)
-- [If You Could Add ONE Feature to a Design Portfolio, What Would It Be?](https://dev.to/the_duchess_of_hackers/if-you-could-add-one-feature-to-a-design-portfolio-what-would-it-be-1ma9)
-- [Building vs. Orchestrating: The New Founder’s Dilemma in the AI Era](https://dev.to/jaideepparashar/building-vs-orchestrating-the-new-founders-dilemma-in-the-ai-era-i2l)
+- [The Linux Kernel Embraces Rust: The Dawn of a Golden Age for the Language, or Just Hype?](https://dev.to/betoalien/the-linux-kernel-embraces-rust-the-dawn-of-a-golden-age-for-the-language-or-just-hype-1pk3)
+- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
+- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
+- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
 <!-- BLOG-POST-LIST:END -->
 
