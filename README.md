@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux Kernel Embraces Rust: The Dawn of a Golden Age for the Language, or Just Hype?](https://dev.to/betoalien/the-linux-kernel-embraces-rust-the-dawn-of-a-golden-age-for-the-language-or-just-hype-1pk3)
-- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
-- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
-- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
+- [The Difference of Deno and Node Handle Signals in Watch Mode](https://dev.to/whyang9701/the-difference-of-deno-and-node-handle-signals-in-watch-mode-kcm)
+- [Analyzing and Optimizing a Parquet ClickHouse Ingestion Pipeline](https://dev.to/mohhddhassan/analyzing-and-optimizing-a-parquet-clickhouse-ingestion-pipeline-547i)
+- [2026 Marketing Budget Planning: A Framework That Actually Survives Contact With Reality](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-a-framework-that-actually-survives-contact-with-reality-fle)
+- [Claude Code Online: Agentic AI on the Web](https://dev.to/ndabene/claude-code-online-agentic-ai-on-the-web-3j2d)
 <!-- BLOG-POST-LIST:END -->
 
