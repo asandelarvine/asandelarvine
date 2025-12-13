@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
-- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
-- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
-- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
+- [The Joy of Code in the Age of Vibe Engineering](https://dev.to/jjn1056/the-joy-of-code-in-the-age-of-vibe-engineering-49j2)
+- [Making TypeScript Tools Safer and Smarter](https://dev.to/oleksandrakordonets/making-typescript-tools-safer-and-smarter-4pgk)
+- [Feature Gating: How We Built a Freemium SaaS Without Duplicating Components](https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6)
+- [Debounce vs Throttle in JavaScript &lpar;Explained Simply with Code&rpar;](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm)
 <!-- BLOG-POST-LIST:END -->
 
