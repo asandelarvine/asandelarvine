@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference of Deno and Node Handle Signals in Watch Mode](https://dev.to/whyang9701/the-difference-of-deno-and-node-handle-signals-in-watch-mode-kcm)
-- [Analyzing and Optimizing a Parquet ClickHouse Ingestion Pipeline](https://dev.to/mohhddhassan/analyzing-and-optimizing-a-parquet-clickhouse-ingestion-pipeline-547i)
-- [2026 Marketing Budget Planning: A Framework That Actually Survives Contact With Reality](https://dev.to/synergistdigitalmedia/2026-marketing-budget-planning-a-framework-that-actually-survives-contact-with-reality-fle)
-- [Claude Code Online: Agentic AI on the Web](https://dev.to/ndabene/claude-code-online-agentic-ai-on-the-web-3j2d)
+- [Auto-stop EC2 on low CPU, then auto-start on HTTPS request — how to keep a “front door” while the instance is off?](https://dev.to/jawherkassas/auto-stop-ec2-on-low-cpu-then-auto-start-on-https-request-how-to-keep-a-front-door-while-the-58f)
+- [Stuck for Hours? The &#39;Productive Struggle&#39; Rule for LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6)
+- [Mind Goes Blank on LeetCode? Here&#39;s Your Escape Plan](https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m)
+- [Cloud Architecture Mistakes I Made So You Don&#39;t Have To](https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl)
 <!-- BLOG-POST-LIST:END -->
 
