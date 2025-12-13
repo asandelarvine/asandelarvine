@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS for Developers: The Guide](https://dev.to/kaustubhyerkade/aws-for-developers-the-only-guide-you-actually-need-in-2026-901)
-- [Linker Scripts Explained: Controlling Memory Layout on Bare Metal](https://dev.to/ripan030/linker-scripts-explained-controlling-memory-layout-on-bare-metal-3ocb)
-- [Full-Stack Dev &amp; AI: Your Roadmap to Unstoppable Leverage](https://dev.to/thinkaddict/full-stack-dev-ai-your-roadmap-to-unstoppable-leverage-4202)
-- [Announcing &quot;PNGpng&quot;: A Pngyu Alternative for macOS 15 Sequoia](https://dev.to/i-icc/announcing-pngpng-a-pngyu-alternative-for-macos-15-sequoia-1g)
+- [패키지 매니저 파묘🪦](https://dev.to/algoorgoal/paekiji-maenijeo-pamyo-gf5)
+- [PS5 Exclusive Saros Delayed, But Pre-Orders Are Live Right Now](https://dev.to/aibuddyinc/ps5-exclusive-saros-delayed-but-pre-orders-are-live-right-now-5glg)
+- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
+- [Production Timing and Counting PLC Data Acquisition IoT System Solution](https://dev.to/wideiot/production-timing-and-counting-plc-data-acquisition-iot-system-solution-18m1)
 <!-- BLOG-POST-LIST:END -->
 
