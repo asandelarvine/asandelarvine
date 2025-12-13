@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
-- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
-- [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
+- [Contribute to Any GitHub Repository Anonymously — No Account, No Trace 👻](https://dev.to/livrasand/contribute-to-any-github-repository-anonymously-no-account-no-trace-385h)
+- [Play lichess from your terminal](https://dev.to/thomasmauran/play-lichess-from-your-terminal-4p47)
+- [Why is backend coding have a bit close similarities to Java....](https://dev.to/ezeudu_chibuike_4d75833bd/why-is-backend-coding-have-a-bit-close-similarities-to-java-f56)
+- [From Repo to Movement: Building an Open Source Project and Its Community](https://dev.to/badmonster0/from-repo-to-movement-building-an-open-source-project-and-its-community-215i)
 <!-- BLOG-POST-LIST:END -->
 
