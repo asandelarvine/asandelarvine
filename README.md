@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is PDF so hard to edit?](https://dev.to/michael_lahr/why-is-pdf-so-hard-to-edit-3h3l)
-- [DEV Track Spotlight: Designing Local Generative AI Inference with AWS IoT Greengrass &lpar;DEV316&rpar;](https://dev.to/gunnargrosch/dev-track-spotlight-designing-local-generative-ai-inference-with-aws-iot-greengrass-dev316-3kgk)
-- [Docfx-Plus: A template and a tool to enhance DocFx and migrate from SHFB &lpar;Sandcastle&rpar;](https://dev.to/dotmake/docfx-plus-a-template-and-a-tool-to-enhance-docfx-and-migrate-from-shfb-sandcastle-1kp0)
-- [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
+- [Rapid Prototyping with No-Code Tools: Build AI Voice Agents](https://dev.to/callstacktech/rapid-prototyping-with-no-code-tools-build-ai-voice-agents-4pfl)
+- [3 Questions That Can Transform Any Call](https://dev.to/ridd0/3-questions-that-can-transform-any-call-25p1)
+- [What is Serverless? And why you should care about it?](https://dev.to/pierre/what-is-serverless-43fd)
+- [Day 13 — Audit and Update Old Infrastructure &lpar;Deep in the Mines&rpar;](https://dev.to/aerabi/day-13-audit-and-update-old-infrastructure-deep-in-the-mines-1ii2)
 <!-- BLOG-POST-LIST:END -->
 
