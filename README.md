@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap for the Adoption of Generative AI in Software Testing](https://dev.to/qa-leaders/roadmap-for-the-adoption-of-generative-ai-in-software-testing-4em4)
-- [https://www.linkedin.com/pulse/live-upcoming-tech-hackathon-opportunities-202526-students-kousar-ahy9c](https://dev.to/farhakousar16/-52e2)
-- [🚀 LIVE &amp; UPCOMING TECH &amp; HACKATHON OPPORTUNITIES &lpar;2025–26&rpar;](https://dev.to/farhakousar16/live-upcoming-tech-hackathon-opportunities-2025-26-5am6)
-- [How I Built an AI-Powered Weather Web App &lpar;SkyCast&rpar;](https://dev.to/arnab0986/how-i-built-an-ai-powered-weather-web-app-skycast-40ka)
+- [Fun With Filters&lpar;css/js&rpar;](https://dev.to/preetha_vaishnavi_2b82358/fun-with-filterscssjs-ljk)
+- [Am I still a real developer if AI writes half my code?](https://dev.to/dev_tips/am-i-still-a-real-developer-if-ai-writes-half-my-code-16e)
+- [DeArrow: Crowdsourcing Better YouTube Titles and Thumbnails](https://dev.to/stelixx-insider/dearrow-crowdsourcing-better-youtube-titles-and-thumbnails-chk)
+- [Git &amp; GitHub for DevOps - The Complete Hands-On Guide &lpar;Week 4&rpar;](https://dev.to/ashish0360/git-github-for-devops-the-complete-hands-on-guide-week-4-bf1)
 <!-- BLOG-POST-LIST:END -->
 
