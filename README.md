@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Ready E-commerce Price Tracker API: A Xano AI Challenge Submission](https://dev.to/suriya_kumar_032b4d4e13f5/production-ready-e-commerce-price-tracker-api-a-xano-ai-challenge-submission-435i)
-- [Runtime environment variables in Next.js - build reusable Docker images](https://dev.to/nemanjam/runtime-environment-variables-in-nextjs-build-reusable-docker-images-ho)
-- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
-- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
+- [GitHug: Finding Your Code Soulmate in the Octoverse](https://dev.to/daviducolo/githug-finding-your-code-soulmate-in-the-octoverse-3lji)
+- [One-Line Inverted Border Radius &lpar;Pure CSS&rpar;](https://dev.to/polyuretanio/one-line-inverted-border-radius-pure-css-1dhi)
+- [How can I optimize the performance of a Python script that processes large CSV files with millions of rows, and which libraries &lpar;such as Pandas, Dask&rpar; are most suitable for this task?](https://dev.to/hjchshdudh283n/how-can-i-optimize-the-performance-of-a-python-script-that-processes-large-csv-files-with-millions-3ja3)
+- [Updating Node Dependencies: The 2025 Survival Guide](https://dev.to/sarveshh/updating-node-dependencies-the-2025-survival-guide-1ge4)
 <!-- BLOG-POST-LIST:END -->
 
