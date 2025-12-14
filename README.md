@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your LLM Apps with Monetzly&#39;s API Monetization Strategies](https://dev.to/monetzly/boost-your-llm-apps-with-monetzlys-api-monetization-strategies-8d6)
-- [Top 50 Python AI Interview Questions &amp; Answers](https://dev.to/jennijuli3/top-50-python-ai-interview-questions-answers-2i7l)
-- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp)
-- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f)
+- [Hi tech gurus - I’m building devars, a developer-focused platform for AI-assisted tooling.](https://dev.to/mintlord3ttah/hi-tech-gurus-im-building-devars-a-developer-focused-platform-for-ai-assisted-tooling-3bg8)
+- [I Thought AI Agents Were Just Prompts. This Course Proved Me Wrong.](https://dev.to/srinithya_000/i-thought-ai-agents-were-just-prompts-this-course-proved-me-wrong-152)
+- [AI 브라우저를 활용한 PR 메세지 자동화](https://dev.to/headf1rst/ai-beuraujeoreul-hwalyonghan-pr-meseji-jadonghwa-51op)
+- [💡 The Engineer&#39;s Toolkit: How to Shrink and Accelerate Transformer Models for Edge AI](https://dev.to/shalinibhavi525sudo/the-engineers-toolkit-how-to-shrink-and-accelerate-transformer-models-for-edge-ai-o9d)
 <!-- BLOG-POST-LIST:END -->
 
