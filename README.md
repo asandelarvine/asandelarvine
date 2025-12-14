@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
-- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
-- [# From Sailing to Smart Cities: My Year of Building Agents](https://dev.to/jamal_jones_c74c153f799e8/-from-sailing-to-smart-cities-my-year-of-building-agents-3p5i)
-- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
+- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
+- [Managing Local and Remote Podman instances over LazyDocker](https://dev.to/alfonsosanchez12/managing-local-and-remote-podman-instances-over-lazydocker-31e6)
+- [HFT-Lite: Prediction market arbitrage engine](https://dev.to/h0tb0x/hft-lite-prediction-market-arbitrage-engine-51lc)
+- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/careerbytecode/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-3amj)
 <!-- BLOG-POST-LIST:END -->
 
