@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Common Roadblocks for AI Storytelling](https://dev.to/goldsteinnick/the-common-roadblocks-for-ai-storytelling-1m69)
-- [All About React2Shell: A Technical Analysis of the Critical Next.js RCE Vulnerability](https://dev.to/trixsec/all-about-react2shell-a-technical-analysis-of-the-critical-nextjs-rce-vulnerability-2oj6)
-- [Terraform Basics](https://dev.to/saurabhahuja/terraform-basics-1j16)
-- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
+- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
+- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
+- [# From Sailing to Smart Cities: My Year of Building Agents](https://dev.to/jamal_jones_c74c153f799e8/-from-sailing-to-smart-cities-my-year-of-building-agents-3p5i)
+- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
 <!-- BLOG-POST-LIST:END -->
 
