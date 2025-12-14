@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-13 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-13-daily-ai-news-49lh)
-- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
-- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
-- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
+- [Scallpy &lpar;beta&rpar;: Scaffold FastAPI Projects Like Vite – In Seconds](https://dev.to/jara505/scallpy-beta-scaffold-fastapi-projects-like-vite-in-seconds-4nom)
+- [Trocando complexidade ciclomática por O&lpar;1&rpar; com Object Maps](https://dev.to/bruno_fernando_59a2cd7feb/trocando-complexidade-ciclomatica-por-o1-com-object-maps-27d7)
+- [I built a &quot;CI/CD Pipeline&quot; for my Resume &lpar;Next.js 15 + Puppeteer&rpar;](https://dev.to/marouandoulahiane/i-built-a-cicd-pipeline-for-my-resume-nextjs-15-puppeteer-2c8h)
+- [Designing Mobile-First UX: Responsive Design in Practice](https://dev.to/pipipi-dev/designing-mobile-first-ux-responsive-design-in-practice-g96)
 <!-- BLOG-POST-LIST:END -->
 
