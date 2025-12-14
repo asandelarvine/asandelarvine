@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Next.js: TanStack Start and the Future of Full-Stack React Development](https://dev.to/hugaidas/beyond-nextjs-tanstack-start-and-the-future-of-full-stack-react-development-2m5h)
-- [Managing Local and Remote Podman instances over LazyDocker](https://dev.to/alfonsosanchez12/managing-local-and-remote-podman-instances-over-lazydocker-31e6)
-- [HFT-Lite: Prediction market arbitrage engine](https://dev.to/h0tb0x/hft-lite-prediction-market-arbitrage-engine-51lc)
-- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/careerbytecode/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-3amj)
+- [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
+- [2025-12-14 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-ai-news-1h2j)
+- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
+- [SwiftUI Performance Deep Dive: Rendering, Identity &amp; Invalidations](https://dev.to/sebastienlato/swiftui-performance-deep-dive-rendering-identity-invalidations-elm)
 <!-- BLOG-POST-LIST:END -->
 
