@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi tech gurus - I’m building devars, a developer-focused platform for AI-assisted tooling.](https://dev.to/mintlord3ttah/hi-tech-gurus-im-building-devars-a-developer-focused-platform-for-ai-assisted-tooling-3bg8)
-- [I Thought AI Agents Were Just Prompts. This Course Proved Me Wrong.](https://dev.to/srinithya_000/i-thought-ai-agents-were-just-prompts-this-course-proved-me-wrong-152)
-- [AI 브라우저를 활용한 PR 메세지 자동화](https://dev.to/headf1rst/ai-beuraujeoreul-hwalyonghan-pr-meseji-jadonghwa-51op)
-- [💡 The Engineer&#39;s Toolkit: How to Shrink and Accelerate Transformer Models for Edge AI](https://dev.to/shalinibhavi525sudo/the-engineers-toolkit-how-to-shrink-and-accelerate-transformer-models-for-edge-ai-o9d)
+- [Production-Ready E-commerce Price Tracker API: A Xano AI Challenge Submission](https://dev.to/suriya_kumar_032b4d4e13f5/production-ready-e-commerce-price-tracker-api-a-xano-ai-challenge-submission-435i)
+- [Runtime environment variables in Next.js - build reusable Docker images](https://dev.to/nemanjam/runtime-environment-variables-in-nextjs-build-reusable-docker-images-ho)
+- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
+- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
 <!-- BLOG-POST-LIST:END -->
 
