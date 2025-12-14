@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHug: Finding Your Code Soulmate in the Octoverse](https://dev.to/daviducolo/githug-finding-your-code-soulmate-in-the-octoverse-3lji)
-- [One-Line Inverted Border Radius &lpar;Pure CSS&rpar;](https://dev.to/polyuretanio/one-line-inverted-border-radius-pure-css-1dhi)
-- [How can I optimize the performance of a Python script that processes large CSV files with millions of rows, and which libraries &lpar;such as Pandas, Dask&rpar; are most suitable for this task?](https://dev.to/hjchshdudh283n/how-can-i-optimize-the-performance-of-a-python-script-that-processes-large-csv-files-with-millions-3ja3)
-- [Updating Node Dependencies: The 2025 Survival Guide](https://dev.to/sarveshh/updating-node-dependencies-the-2025-survival-guide-1ge4)
+- [Best Data Governance Software by Pilog Group](https://dev.to/hanouf_alrasheid_b7e9dd9d/best-data-governance-software-by-pilog-group-26nl)
+- [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
+- [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
+- [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
 <!-- BLOG-POST-LIST:END -->
 
