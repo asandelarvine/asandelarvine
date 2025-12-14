@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Learning Journey – Google 5-Day AI Agents Intensive &amp; Travel Multi-Agent System](https://dev.to/hosnaakter/my-learning-journey-google-5-day-ai-agents-intensive-travel-multi-agent-system-4d4h)
-- [Reasons to optimize cloud costs &lpar;not just to save money&rpar;](https://dev.to/ysatroconis20/reasons-to-optimize-cloud-costs-not-just-to-save-money-3ecp)
-- [React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem](https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb)
-- [👋 Starting My DevOps Journey!](https://dev.to/tushar_kumar_a7bdb00a5af8/starting-my-devops-journey-1gho)
+- [The Common Roadblocks for AI Storytelling](https://dev.to/goldsteinnick/the-common-roadblocks-for-ai-storytelling-1m69)
+- [All About React2Shell: A Technical Analysis of the Critical Next.js RCE Vulnerability](https://dev.to/trixsec/all-about-react2shell-a-technical-analysis-of-the-critical-nextjs-rce-vulnerability-2oj6)
+- [Terraform Basics](https://dev.to/saurabhahuja/terraform-basics-1j16)
+- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
 <!-- BLOG-POST-LIST:END -->
 
