@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Data Governance Software by Pilog Group](https://dev.to/hanouf_alrasheid_b7e9dd9d/best-data-governance-software-by-pilog-group-26nl)
-- [Untitled](https://dev.to/hyme_08_68da5ff31f9cb3580/untitled-eml)
-- [DEV Track Spotlight: Unleash Rust&#39;s Potential on AWS &lpar;DEV307&rpar;](https://dev.to/aws/dev-track-spotlight-unleash-rusts-potential-on-aws-dev307-4e31)
-- [Clean Up Your Quartz.NET Jobs with Dynamic Registration 🧹](https://dev.to/andresjcorrea/clean-up-your-quartznet-jobs-with-dynamic-registration-4p42)
+- [AI Email Personalization: Why Your Predictive Content Blocks Are Probably Creeping People Out](https://dev.to/synergistdigitalmedia/ai-email-personalization-why-your-predictive-content-blocks-are-probably-creeping-people-out-286m)
+- [Day 2:Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-2python-programming-5ddf)
+- [I Built an AI Movie Recommendation App to End Endless Scrolling](https://dev.to/ramiz_mehdiyev_8d57b736c5/i-built-an-ai-movie-recommendation-app-to-end-endless-scrolling-55o)
+- [Hardware Protection Engineering: Analyzing the SIXBOX iPhone 17 Case Design](https://dev.to/odvex_admin/hardware-protection-engineering-analyzing-the-sixbox-iphone-17-case-design-1pmg)
 <!-- BLOG-POST-LIST:END -->
 
