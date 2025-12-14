@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Vue 3 Coffee Cup Animation](https://dev.to/preetha_vaishnavi_2b82358/interactive-vue-3-coffee-cup-animation-10ch)
-- [Application of Python in Environmental Data Analysis and Pollution Prediction](https://dev.to/aston2/application-of-python-in-environmental-data-analysis-and-pollution-prediction-1a59)
-- [Transform Conversations: API Monetization with Monetzly](https://dev.to/monetzly/transform-conversations-api-monetization-with-monetzly-3ii3)
-- [The Broke Student’s Guide to the Cloud: How I Host Projects for $0](https://dev.to/maame-codes/the-broke-students-guide-to-the-cloud-how-i-host-projects-for-0-2iok)
+- [LLM’in Düşüncesini İzlemek](https://dev.to/hakkiergin/llmin-dusuncesini-izlemek-14f)
+- [🚀 Day 1 of Learning C — Laying the First Brick Toward My Own Operating System](https://dev.to/brucelee03/day-1-of-learning-c-laying-the-first-brick-toward-my-own-operating-system-2o40)
+- [From Confusion to Clarity: Building My First Research Agent in Google&#39;s AI Intensive](https://dev.to/wilson_bmiles_d0902d06d/from-confusion-to-clarity-building-my-first-research-agent-in-googles-ai-intensive-jn8)
+- [The Complete Guide to Meta-Prompting: The Technique of Having AI Write Your Prompts](https://dev.to/seiwan-maikuma/the-complete-guide-to-meta-prompting-the-technique-of-having-ai-write-your-prompts-12ai)
 <!-- BLOG-POST-LIST:END -->
 
