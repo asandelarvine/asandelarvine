@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundraising Concert for Sitio Bebe](https://dev.to/preetha_vaishnavi_2b82358/fundraising-concert-for-sitio-bebe-nna)
-- [Mastering Prompt Engineering for Automation Testers](https://dev.to/godhirajcode/mastering-prompt-engineering-for-automation-testers-1anh)
-- [Learn CSS - inline block](https://dev.to/marcelinaredocindo/learn-css-inline-block-79n)
-- [Course: Large Language Models and Generative AI for NLP — 2025](https://dev.to/dmitrykey/course-large-language-models-and-generative-ai-for-nlp-2025-52fn)
+- [Interactive Vue 3 Coffee Cup Animation](https://dev.to/preetha_vaishnavi_2b82358/interactive-vue-3-coffee-cup-animation-10ch)
+- [Application of Python in Environmental Data Analysis and Pollution Prediction](https://dev.to/aston2/application-of-python-in-environmental-data-analysis-and-pollution-prediction-1a59)
+- [Transform Conversations: API Monetization with Monetzly](https://dev.to/monetzly/transform-conversations-api-monetization-with-monetzly-3ii3)
+- [The Broke Student’s Guide to the Cloud: How I Host Projects for $0](https://dev.to/maame-codes/the-broke-students-guide-to-the-cloud-how-i-host-projects-for-0-2iok)
 <!-- BLOG-POST-LIST:END -->
 
