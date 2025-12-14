@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scallpy &lpar;beta&rpar;: Scaffold FastAPI Projects Like Vite – In Seconds](https://dev.to/jara505/scallpy-beta-scaffold-fastapi-projects-like-vite-in-seconds-4nom)
-- [Trocando complexidade ciclomática por O&lpar;1&rpar; com Object Maps](https://dev.to/bruno_fernando_59a2cd7feb/trocando-complexidade-ciclomatica-por-o1-com-object-maps-27d7)
-- [I built a &quot;CI/CD Pipeline&quot; for my Resume &lpar;Next.js 15 + Puppeteer&rpar;](https://dev.to/marouandoulahiane/i-built-a-cicd-pipeline-for-my-resume-nextjs-15-puppeteer-2c8h)
-- [Designing Mobile-First UX: Responsive Design in Practice](https://dev.to/pipipi-dev/designing-mobile-first-ux-responsive-design-in-practice-g96)
+- [Why AI Won’t Replace Developers &lpar;After I Used It in Production&rpar;](https://dev.to/rohit_singh_ee84e64941db7/why-ai-wont-replace-developers-after-i-used-it-in-production-j3g)
+- [BISO Glossary](https://dev.to/d3one/biso-glossary-dep)
+- [My First Two Projects as a 17-Year-Old Developer](https://dev.to/esteban_mo_3af943dd5d7939/my-first-two-projects-as-a-17-year-old-developer-370i)
+- [Building Stoqyy: Simplifying Retail Management Without Building Another Heavy ERP](https://dev.to/vjygour/building-stoqyy-simplifying-retail-management-without-building-another-heavy-erp-f2l)
 <!-- BLOG-POST-LIST:END -->
 
