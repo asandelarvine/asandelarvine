@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Won’t Replace Developers &lpar;After I Used It in Production&rpar;](https://dev.to/rohit_singh_ee84e64941db7/why-ai-wont-replace-developers-after-i-used-it-in-production-j3g)
-- [BISO Glossary](https://dev.to/d3one/biso-glossary-dep)
-- [My First Two Projects as a 17-Year-Old Developer](https://dev.to/esteban_mo_3af943dd5d7939/my-first-two-projects-as-a-17-year-old-developer-370i)
-- [Building Stoqyy: Simplifying Retail Management Without Building Another Heavy ERP](https://dev.to/vjygour/building-stoqyy-simplifying-retail-management-without-building-another-heavy-erp-f2l)
+- [**Understanding Client-Server Architecture: A Beginner’s Guide**](https://dev.to/alikhan-devs/understanding-client-server-architecture-a-beginners-guide-4djn)
+- [Temporal Topology: Why Monday Morning Feels Different from Saturday Morning](https://dev.to/aureus_c_b3ba7f87cc34d74d49/temporal-topology-why-monday-morning-feels-different-from-saturday-morning-38dd)
+- [PrestaShop 8/9 Compatibility: Transition](https://dev.to/ndabene/prestashop-89-compatibility-transition-50c8)
+- [Développer pour le déploiement distribué](https://dev.to/onepoint/developper-pour-le-deploiement-distribue-4m64)
 <!-- BLOG-POST-LIST:END -->
 
