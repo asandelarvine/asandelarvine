@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Email Personalization: Why Your Predictive Content Blocks Are Probably Creeping People Out](https://dev.to/synergistdigitalmedia/ai-email-personalization-why-your-predictive-content-blocks-are-probably-creeping-people-out-286m)
-- [Day 2:Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-2python-programming-5ddf)
-- [I Built an AI Movie Recommendation App to End Endless Scrolling](https://dev.to/ramiz_mehdiyev_8d57b736c5/i-built-an-ai-movie-recommendation-app-to-end-endless-scrolling-55o)
-- [Hardware Protection Engineering: Analyzing the SIXBOX iPhone 17 Case Design](https://dev.to/odvex_admin/hardware-protection-engineering-analyzing-the-sixbox-iphone-17-case-design-1pmg)
+- [Roadmap for the Adoption of Generative AI in Software Testing](https://dev.to/qa-leaders/roadmap-for-the-adoption-of-generative-ai-in-software-testing-4em4)
+- [https://www.linkedin.com/pulse/live-upcoming-tech-hackathon-opportunities-202526-students-kousar-ahy9c](https://dev.to/farhakousar16/-52e2)
+- [🚀 LIVE &amp; UPCOMING TECH &amp; HACKATHON OPPORTUNITIES &lpar;2025–26&rpar;](https://dev.to/farhakousar16/live-upcoming-tech-hackathon-opportunities-2025-26-5am6)
+- [How I Built an AI-Powered Weather Web App &lpar;SkyCast&rpar;](https://dev.to/arnab0986/how-i-built-an-ai-powered-weather-web-app-skycast-40ka)
 <!-- BLOG-POST-LIST:END -->
 
