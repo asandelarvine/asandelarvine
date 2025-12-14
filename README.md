@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun With Filters&lpar;css/js&rpar;](https://dev.to/preetha_vaishnavi_2b82358/fun-with-filterscssjs-ljk)
-- [Am I still a real developer if AI writes half my code?](https://dev.to/dev_tips/am-i-still-a-real-developer-if-ai-writes-half-my-code-16e)
-- [DeArrow: Crowdsourcing Better YouTube Titles and Thumbnails](https://dev.to/stelixx-insider/dearrow-crowdsourcing-better-youtube-titles-and-thumbnails-chk)
-- [Git &amp; GitHub for DevOps - The Complete Hands-On Guide &lpar;Week 4&rpar;](https://dev.to/ashish0360/git-github-for-devops-the-complete-hands-on-guide-week-4-bf1)
+- [Fundraising Concert for Sitio Bebe](https://dev.to/preetha_vaishnavi_2b82358/fundraising-concert-for-sitio-bebe-nna)
+- [Mastering Prompt Engineering for Automation Testers](https://dev.to/godhirajcode/mastering-prompt-engineering-for-automation-testers-1anh)
+- [Learn CSS - inline block](https://dev.to/marcelinaredocindo/learn-css-inline-block-79n)
+- [Course: Large Language Models and Generative AI for NLP — 2025](https://dev.to/dmitrykey/course-large-language-models-and-generative-ai-for-nlp-2025-52fn)
 <!-- BLOG-POST-LIST:END -->
 
