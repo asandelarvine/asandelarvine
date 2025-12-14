@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM’in Düşüncesini İzlemek](https://dev.to/hakkiergin/llmin-dusuncesini-izlemek-14f)
-- [🚀 Day 1 of Learning C — Laying the First Brick Toward My Own Operating System](https://dev.to/brucelee03/day-1-of-learning-c-laying-the-first-brick-toward-my-own-operating-system-2o40)
-- [From Confusion to Clarity: Building My First Research Agent in Google&#39;s AI Intensive](https://dev.to/wilson_bmiles_d0902d06d/from-confusion-to-clarity-building-my-first-research-agent-in-googles-ai-intensive-jn8)
-- [The Complete Guide to Meta-Prompting: The Technique of Having AI Write Your Prompts](https://dev.to/seiwan-maikuma/the-complete-guide-to-meta-prompting-the-technique-of-having-ai-write-your-prompts-12ai)
+- [From RFQ Emails to Winning Proposals: Building Tendr](https://dev.to/agastya_khati_f72c89077c8/from-rfq-emails-to-winning-proposals-building-tendr-3pg4)
+- [What App Would Prevent a Website from Getting Hacked, and Why?](https://dev.to/dev-articles/what-app-would-prevent-a-website-from-getting-hacked-and-why-228h)
+- [Why Python Isn’t Enough: What Enterprises Miss When They Think of AI Only as a Data Science Problem](https://dev.to/vigneshjd/why-python-isnt-enough-what-enterprises-miss-when-they-think-of-ai-only-as-a-data-science-problem-hlb)
+- [The AI Revolution: Shaping the Future of Tech](https://dev.to/sia_negi21/the-ai-revolution-shaping-the-future-of-tech-4cl6)
 <!-- BLOG-POST-LIST:END -->
 
