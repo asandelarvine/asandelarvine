@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring WebClient vs. RestTemplate: Which One Should You Use in 2025?](https://dev.to/sam_th/spring-webclient-vs-resttemplate-which-one-should-you-use-in-2025-4mcp)
-- [Boost Your Bottom Line: Integrate Monetzly for AI Monetization Success](https://dev.to/monetzly/boost-your-bottom-line-integrate-monetzly-for-ai-monetization-success-5do1)
-- [Designing a Symbol-Based Portal System for a Web Browser MMO Strategy Game](https://dev.to/interstellarempires/designing-a-symbol-based-portal-system-for-a-web-browser-mmo-strategy-game-3poj)
-- [Best Cursor Editor Themes 2024: Boost Focus &amp; Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)
+- [My Learning Journey – Google 5-Day AI Agents Intensive &amp; Travel Multi-Agent System](https://dev.to/hosnaakter/my-learning-journey-google-5-day-ai-agents-intensive-travel-multi-agent-system-4d4h)
+- [Reasons to optimize cloud costs &lpar;not just to save money&rpar;](https://dev.to/ysatroconis20/reasons-to-optimize-cloud-costs-not-just-to-save-money-3ecp)
+- [React 19 ile Değişen Dünya: Front-End Geliştiriciler İçin Yeni Dönem](https://dev.to/erhanaky/react-19-ile-degisen-dunya-front-end-gelistiriciler-icin-yeni-donem-4dcb)
+- [👋 Starting My DevOps Journey!](https://dev.to/tushar_kumar_a7bdb00a5af8/starting-my-devops-journey-1gho)
 <!-- BLOG-POST-LIST:END -->
 
