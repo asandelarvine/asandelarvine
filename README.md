@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Toward Version 2 of Triple Gyrus Core with Community Feedback](https://dev.to/triple_gyrus_core/toward-version-2-of-triple-gyrus-core-with-community-feedback-11d9)
-- [📈Visualizing LLM Parameters: Temperature, Top-p, and Top-k in Action](https://dev.to/louis7/visualizing-llm-parameters-temperature-top-p-and-top-k-in-action-1ij2)
-- [Investigating &amp; Resolving High-CPU Alerts in Kubernetes Pods](https://dev.to/alok_shankar/investigating-resolving-high-cpu-alerts-in-kubernetes-pods-m0a)
-- [How SQLite Replaced PostgreSQL as My First Choice](https://dev.to/cordlesswool/how-sqlite-replaced-postgresql-as-my-first-choice-2p8h)
+- [How to Deploy Applications Securely on a Linux Server &lpar;A Production-Grade, Framework-Agnostic Guide&rpar;](https://dev.to/yousufbasir/how-to-deploy-applications-securely-on-a-linux-server-a-production-grade-framework-agnostic-guide-1m9j)
+- [Test Environment](https://dev.to/longtth/test-environment-jh3)
+- [Forge: Lightweight, Fast, and Reliable Local CI/CD](https://dev.to/0xrelogic/forge-lightweight-fast-and-reliable-local-cicd-4kj8)
+- [Share your projects in our end of year Show &amp; Tell event!](https://dev.to/jess/share-your-projects-in-our-end-of-year-show-tell-event-5cdc)
 <!-- BLOG-POST-LIST:END -->
 
