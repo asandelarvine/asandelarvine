@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Verified Address Input Form with Autocomplete Suggestions and UX-Friendly Confirmation](https://dev.to/geoapify-maps-api/build-a-verified-address-input-form-with-autocomplete-suggestions-and-ux-friendly-confirmation-11na)
-- [The Building Blocks of AI Governance: Policies, Principles &amp; People](https://dev.to/audaciatechnology/the-building-blocks-of-ai-governance-policies-principles-people-1ej8)
-- [Backtracking Permutations: Can You Trace the Recursion Stack?](https://dev.to/alex_hunter_44f4c9ed6671e/backtracking-permutations-can-you-trace-the-recursion-stack-26o8)
-- [Cognitive Agents Explained Through Code](https://dev.to/yeahiasarker/cognitive-agents-explained-through-code-2d2h)
+- [How I Built a Multilingual Developer News Hub in a Weekend](https://dev.to/shipi18n/how-i-built-a-multilingual-developer-news-hub-in-a-weekend-j0m)
+- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
+- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
+- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
 <!-- BLOG-POST-LIST:END -->
 
