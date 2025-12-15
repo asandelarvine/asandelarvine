@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a RSS feed](https://dev.to/dekigk/what-is-a-rss-feed-41m0)
-- [Taming Windows Terminal&#39;s win32-input-mode in Go ConPTY Applications](https://dev.to/andylbrummer/taming-windows-terminals-win32-input-mode-in-go-conpty-applications-7gg)
-- [Bot Protection Explained: Dynamic Defense, Human Verification, and Anti-Replay in SafeLine WAF](https://dev.to/arina_cholee/bot-protection-explained-dynamic-defense-human-verification-and-anti-replay-in-safeline-waf-428a)
-- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
+- [Build a Verified Address Input Form with Autocomplete Suggestions and UX-Friendly Confirmation](https://dev.to/geoapify-maps-api/build-a-verified-address-input-form-with-autocomplete-suggestions-and-ux-friendly-confirmation-11na)
+- [The Building Blocks of AI Governance: Policies, Principles &amp; People](https://dev.to/audaciatechnology/the-building-blocks-of-ai-governance-policies-principles-people-1ej8)
+- [Backtracking Permutations: Can You Trace the Recursion Stack?](https://dev.to/alex_hunter_44f4c9ed6671e/backtracking-permutations-can-you-trace-the-recursion-stack-26o8)
+- [Cognitive Agents Explained Through Code](https://dev.to/yeahiasarker/cognitive-agents-explained-through-code-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
