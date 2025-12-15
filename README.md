@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Hour API: An API for Local Happy Hour Deals](https://dev.to/nick_calhoun_0046fedbaeac/happy-hour-api-an-api-for-local-happy-hour-deals-3c2h)
-- [I made a programming language](https://dev.to/eric_phillips_1e9cb624bf5/i-made-a-programming-language-1df5)
-- [Why Excel Worked for My Budget — Until It Didn’t](https://dev.to/tech_motka_fc3c90932fd0c0/why-excel-worked-for-my-budget-until-it-didnt-4314)
-- [🚀 FlowPilot: One assistant on the outside. A full AI team on the inside.](https://dev.to/rajasekhar_nimmala/flowpilot-one-assistant-on-the-outside-a-full-ai-team-on-the-inside-2dll)
+- [The &quot;Rescue Mission&quot;: How to Lead a Team of Git Beginners Without Losing Your Mind](https://dev.to/whoisprince/the-rescue-mission-how-to-lead-a-team-of-git-beginners-without-losing-your-mind-1joj)
+- [How Paid Advertising Helps Businesses Reach the Right Audience](https://dev.to/theclickwise/how-paid-advertising-helps-businesses-reach-the-right-audience-1ojd)
+- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
+- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
 <!-- BLOG-POST-LIST:END -->
 
