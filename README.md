@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I was tired of copy-pasting to ChatGPT, so I built a Chrome extension](https://dev.to/ialijr/i-was-tired-of-copy-pasting-to-chatgpt-so-i-built-a-chrome-extension-m3f)
-- [Application Development with LLMs on Google Cloud: Building the Next Generation of Apps](https://dev.to/rohan_jee_085655230/application-development-with-llms-on-google-cloud-building-the-next-generation-of-apps-3lh5)
-- [Day 14 of #30DaysOfAWSTerraform: Hosting a Static Website with S3 and CloudFront](https://dev.to/alafiz/day-14-of-30daysofawsterraform-hosting-a-static-website-with-s3-and-cloudfront-4i7a)
-- [The European DPP’s Technical Blind Spot: Why Simple Schema.org Guarantees Chaos by 2027](https://dev.to/kevinbouti/the-european-dpps-technical-blind-spot-why-simple-schemaorg-guarantees-chaos-by-2027-2ogg)
+- [Building Nexa: An AI-First Financial Operating System &lpar;Early Build, Real Lessons&rpar;](https://dev.to/nexa_operationfinancial/building-nexa-an-ai-first-financial-operating-system-early-build-real-lessons-bgo)
+- [Angular Signals, But Better Now for .NET](https://dev.to/federico_alterio_5ff46735/angular-signals-but-better-now-for-net-2jib)
+- [The Coffee Bean](https://dev.to/yoditdevn8n/the-coffee-bean-1452)
+- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
 <!-- BLOG-POST-LIST:END -->
 
