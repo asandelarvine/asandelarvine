@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A UTF-8 Trap I Hit While Building a Customer Support Chat System](https://dev.to/iccb1013/a-utf-8-trap-i-hit-while-building-a-customer-support-chat-system-g5h)
-- [Day 11: Understanding Terraform Functions Through Real Use Cases](https://dev.to/sreya_sharma_711168ec58fc/day-11-understanding-terraform-functions-through-real-use-cases-397a)
-- [Laravel Livewire CRUD Tutorial: Step-by-Step Guide for Beginners](https://dev.to/prateekshaweb/laravel-livewire-crud-tutorial-step-by-step-guide-for-beginners-478i)
-- [What 30 Years of Python Reveal About Programming Language Design?](https://dev.to/rakshath/what-30-years-of-python-reveal-about-programming-language-design-ea5)
+- [Toward Version 2 of Triple Gyrus Core with Community Feedback](https://dev.to/triple_gyrus_core/toward-version-2-of-triple-gyrus-core-with-community-feedback-11d9)
+- [📈Visualizing LLM Parameters: Temperature, Top-p, and Top-k in Action](https://dev.to/louis7/visualizing-llm-parameters-temperature-top-p-and-top-k-in-action-1ij2)
+- [Investigating &amp; Resolving High-CPU Alerts in Kubernetes Pods](https://dev.to/alok_shankar/investigating-resolving-high-cpu-alerts-in-kubernetes-pods-m0a)
+- [How SQLite Replaced PostgreSQL as My First Choice](https://dev.to/cordlesswool/how-sqlite-replaced-postgresql-as-my-first-choice-2p8h)
 <!-- BLOG-POST-LIST:END -->
 
