@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt -&gt; RAG -&gt; Eval: System Overview for LLM Engineers](https://dev.to/dowhatmatters/prompt-rag-eval-system-overview-for-llm-engineers-5bef)
-- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
-- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
-- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
+- [Building a Terminal UI Broke My Brain](https://dev.to/manasmudbari/building-a-terminal-ui-broke-my-brain-hpc)
+- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d)
+- [Untitled](https://dev.to/dane_jelic_beeacb6d8b8515/untitled-3b4e)
+- [I’m building a Laravel-like framework in Go – feedback welcome
+https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e94c/im-building-a-laravel-like-framework-in-go-feedback-welcome-44ah)
 <!-- BLOG-POST-LIST:END -->
 
