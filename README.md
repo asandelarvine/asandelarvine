@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Multilingual Developer News Hub in a Weekend](https://dev.to/shipi18n/how-i-built-a-multilingual-developer-news-hub-in-a-weekend-j0m)
-- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
-- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
-- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
+- [The State of Open Source 2025 - Key Takeaways](https://dev.to/fmerian/the-state-of-open-source-2025-key-takeaways-253c)
+- [How I ship power-options to all major Linux distros with 0 hassle](https://dev.to/thealexdev23/how-i-ship-power-options-to-all-major-linux-distros-with-0-hassle-2ho9)
+- [I Built an AI Tool to Help Creators Generate Reels in Minutes](https://dev.to/aixnouman/i-built-an-ai-tool-to-help-creators-generate-reels-in-minutes-2bpm)
+- [How Shadow IT Turns Employees Into Unintentional Insider Threats](https://dev.to/guardingpearsoftware/how-shadow-it-turns-employees-into-unintentional-insider-threats-197c)
 <!-- BLOG-POST-LIST:END -->
 
