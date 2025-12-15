@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Applications Securely on a Linux Server &lpar;A Production-Grade, Framework-Agnostic Guide&rpar;](https://dev.to/yousufbasir/how-to-deploy-applications-securely-on-a-linux-server-a-production-grade-framework-agnostic-guide-1m9j)
-- [Test Environment](https://dev.to/longtth/test-environment-jh3)
-- [Forge: Lightweight, Fast, and Reliable Local CI/CD](https://dev.to/0xrelogic/forge-lightweight-fast-and-reliable-local-cicd-4kj8)
-- [Share your projects in our end of year Show &amp; Tell event!](https://dev.to/jess/share-your-projects-in-our-end-of-year-show-tell-event-5cdc)
+- [Prompt -&gt; RAG -&gt; Eval: System Overview for LLM Engineers](https://dev.to/dowhatmatters/prompt-rag-eval-system-overview-for-llm-engineers-5bef)
+- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
+- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
+- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
 <!-- BLOG-POST-LIST:END -->
 
