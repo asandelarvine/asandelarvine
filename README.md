@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Open Source 2025 - Key Takeaways](https://dev.to/fmerian/the-state-of-open-source-2025-key-takeaways-253c)
-- [How I ship power-options to all major Linux distros with 0 hassle](https://dev.to/thealexdev23/how-i-ship-power-options-to-all-major-linux-distros-with-0-hassle-2ho9)
-- [I Built an AI Tool to Help Creators Generate Reels in Minutes](https://dev.to/aixnouman/i-built-an-ai-tool-to-help-creators-generate-reels-in-minutes-2bpm)
-- [How Shadow IT Turns Employees Into Unintentional Insider Threats](https://dev.to/guardingpearsoftware/how-shadow-it-turns-employees-into-unintentional-insider-threats-197c)
+- [Entering the Upside Down of Pivot Grid: A Stranger Things Data-Viz Tutorial](https://dev.to/daria_filozop_bfe6aa68940/entering-the-upside-down-of-pivot-grid-a-stranger-things-data-viz-tutorial-4db7)
+- [I Wasted 6 Weeks Building SaaS Boilerplate &lpar;Again&rpar;. Here&#39;s What Finally Made Me Stop.](https://dev.to/seergiue/i-wasted-6-weeks-building-saas-boilerplate-again-heres-what-finally-made-me-stop-3cmg)
+- [Designing Difficulty Curves That Work in Browser Platformer Games](https://dev.to/gamh5games/designing-difficulty-curves-that-work-in-browser-platformer-games-id8)
+- [CNN vs Transformer – A Visual Comparison](https://dev.to/richard_abishai/cnn-vs-transformer-a-visual-comparison-4o2h)
 <!-- BLOG-POST-LIST:END -->
 
