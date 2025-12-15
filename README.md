@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
-- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
-- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
-- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
+- [**WebAssembly JavaScript Integration: Boost Browser Performance with Native-Speed Code Execution**](https://dev.to/nithinbharathwaj/webassembly-javascript-integration-boost-browser-performance-with-native-speed-code-execution-b4m)
+- [Next.js Performance: What the Defaults Don’t Solve for You](https://dev.to/danywalls/nextjs-performance-what-the-defaults-dont-solve-for-you-3a0l)
+- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
+- [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale VisualEvidence](https://dev.to/paperium/conan-progressive-learning-to-reason-like-a-detective-over-multi-scale-visualevidence-ka)
 <!-- BLOG-POST-LIST:END -->
 
