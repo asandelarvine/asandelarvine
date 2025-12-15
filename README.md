@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**WebAssembly JavaScript Integration: Boost Browser Performance with Native-Speed Code Execution**](https://dev.to/nithinbharathwaj/webassembly-javascript-integration-boost-browser-performance-with-native-speed-code-execution-b4m)
-- [Next.js Performance: What the Defaults Don’t Solve for You](https://dev.to/danywalls/nextjs-performance-what-the-defaults-dont-solve-for-you-3a0l)
-- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
-- [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale VisualEvidence](https://dev.to/paperium/conan-progressive-learning-to-reason-like-a-detective-over-multi-scale-visualevidence-ka)
+- [Why TypeScript is No Longer Optional for Serious JavaScript Projects?](https://dev.to/alvisonhunter/why-typescript-is-no-longer-optional-for-serious-javascript-projects-2gbk)
+- [Very well done!](https://dev.to/ben/very-well-done-3dkl)
+- [2025-12-15 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-robotics-news-5g5m)
+- [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
 <!-- BLOG-POST-LIST:END -->
 
