@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Terminal UI Broke My Brain](https://dev.to/manasmudbari/building-a-terminal-ui-broke-my-brain-hpc)
-- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d)
-- [Untitled](https://dev.to/dane_jelic_beeacb6d8b8515/untitled-3b4e)
-- [I’m building a Laravel-like framework in Go – feedback welcome
-https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e94c/im-building-a-laravel-like-framework-in-go-feedback-welcome-44ah)
+- [I was tired of copy-pasting to ChatGPT, so I built a Chrome extension](https://dev.to/ialijr/i-was-tired-of-copy-pasting-to-chatgpt-so-i-built-a-chrome-extension-m3f)
+- [Application Development with LLMs on Google Cloud: Building the Next Generation of Apps](https://dev.to/rohan_jee_085655230/application-development-with-llms-on-google-cloud-building-the-next-generation-of-apps-3lh5)
+- [Day 14 of #30DaysOfAWSTerraform: Hosting a Static Website with S3 and CloudFront](https://dev.to/alafiz/day-14-of-30daysofawsterraform-hosting-a-static-website-with-s3-and-cloudfront-4i7a)
+- [The European DPP’s Technical Blind Spot: Why Simple Schema.org Guarantees Chaos by 2027](https://dev.to/kevinbouti/the-european-dpps-technical-blind-spot-why-simple-schemaorg-guarantees-chaos-by-2027-2ogg)
 <!-- BLOG-POST-LIST:END -->
 
