@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
-- [2025-12-14 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-ai-news-1h2j)
-- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
-- [SwiftUI Performance Deep Dive: Rendering, Identity &amp; Invalidations](https://dev.to/sebastienlato/swiftui-performance-deep-dive-rendering-identity-invalidations-elm)
+- [From Prompts to Action: My Journey Through the Google &amp; Kaggle AI Agents Bootcamp](https://dev.to/joshyfruit/from-prompts-to-action-my-journey-through-the-google-kaggle-ai-agents-bootcamp-2489)
+- [Functions in javascript](https://dev.to/keerthigap/functions-in-javascript-2iag)
+- [Koka.py: Type-Checked Dependency Injection and Error Handling in Python](https://dev.to/herrington_darkholme/kokapy-type-checked-dependency-injection-and-error-handling-in-python-1beg)
+- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4fpd)
 <!-- BLOG-POST-LIST:END -->
 
