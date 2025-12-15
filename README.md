@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Rescue Mission&quot;: How to Lead a Team of Git Beginners Without Losing Your Mind](https://dev.to/whoisprince/the-rescue-mission-how-to-lead-a-team-of-git-beginners-without-losing-your-mind-1joj)
-- [How Paid Advertising Helps Businesses Reach the Right Audience](https://dev.to/theclickwise/how-paid-advertising-helps-businesses-reach-the-right-audience-1ojd)
-- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
-- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
+- [Slire: A Minimal Repository Layer for Node.js + MongoDB/Firestore](https://dev.to/dchowitz/slire-a-minimal-repository-layer-for-nodejs-mongodbfirestore-4ipn)
+- [The Rise of AI-Powered Marketing: What’s Next in 2026](https://dev.to/digital_terrene_b369a1c21/the-rise-of-ai-powered-marketing-whats-next-in-2026-4b0g)
+- [Top Benefits of Real Time Analytics for Faster and Smarter Decisions](https://dev.to/ravi_teja_4/top-benefits-of-real-time-analytics-for-faster-and-smarter-decisions-3i1i)
+- [Drive API Monetization: How Monetzly Enhances Your AI Conversations](https://dev.to/monetzly/drive-api-monetization-how-monetzly-enhances-your-ai-conversations-509h)
 <!-- BLOG-POST-LIST:END -->
 
