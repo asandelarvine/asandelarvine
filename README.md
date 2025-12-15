@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Nexa: An AI-First Financial Operating System &lpar;Early Build, Real Lessons&rpar;](https://dev.to/nexa_operationfinancial/building-nexa-an-ai-first-financial-operating-system-early-build-real-lessons-bgo)
-- [Angular Signals, But Better Now for .NET](https://dev.to/federico_alterio_5ff46735/angular-signals-but-better-now-for-net-2jib)
-- [The Coffee Bean](https://dev.to/yoditdevn8n/the-coffee-bean-1452)
-- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
+- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
+- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
+- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
+- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
 <!-- BLOG-POST-LIST:END -->
 
