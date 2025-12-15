@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Reddit&#39;s Free Traffic Thing for 3 Weeks &lpar;Here&#39;s What Actually Happened&rpar;](https://dev.to/short_playskits_ab152535/i-tested-reddits-free-traffic-thing-for-3-weeks-heres-what-actually-happened-5853)
-- [Interview Questions and Answers: How to Prepare and Succeed](https://dev.to/john_0816eabdee7f6ee66418/interview-questions-and-answers-how-to-prepare-and-succeed-4mgh)
-- [What Most Teams Get Wrong When Modernizing Legacy Systems](https://dev.to/james_caron_3da04b2ed359a/what-most-teams-get-wrong-when-modernizing-legacy-systems-477g)
-- [From &quot;Black Box&quot; to Self-Healing: My Journey Building an Autonomous AI Mechanic](https://dev.to/kavyatrivedi/from-black-box-to-self-healing-my-journey-building-an-autonomous-ai-mechanic-2e5l)
+- [What is a RSS feed](https://dev.to/dekigk/what-is-a-rss-feed-41m0)
+- [Taming Windows Terminal&#39;s win32-input-mode in Go ConPTY Applications](https://dev.to/andylbrummer/taming-windows-terminals-win32-input-mode-in-go-conpty-applications-7gg)
+- [Bot Protection Explained: Dynamic Defense, Human Verification, and Anti-Replay in SafeLine WAF](https://dev.to/arina_cholee/bot-protection-explained-dynamic-defense-human-verification-and-anti-replay-in-safeline-waf-428a)
+- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
 <!-- BLOG-POST-LIST:END -->
 
