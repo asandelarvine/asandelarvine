@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Center Accessibility Guidelines Every Team Should Follow](https://dev.to/freepixel11/help-center-accessibility-guidelines-every-team-should-follow-3j0o)
-- [Engineering DebtDrone: Building a High-Performance AST-Based Static Analyzer in Go](https://dev.to/endrilickollari/engineering-debtdrone-building-a-high-performance-ast-based-static-analyzer-in-go-ifd)
-- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
-- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
+- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-1b6f)
+- [Self-Host Your LLM Gateway or Try the Managed Version &lpar;Bifrost OSS &amp; Enterprise&rpar;](https://dev.to/debmckinney/self-host-your-llm-gateway-or-try-the-managed-version-bifrost-oss-enterprise-1b3h)
+- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-57ia)
+- [Azure Data Fabric Solutions for Unified Cloud Data Management](https://dev.to/jackryan365/azure-data-fabric-solutions-for-unified-cloud-data-management-4bp)
 <!-- BLOG-POST-LIST:END -->
 
