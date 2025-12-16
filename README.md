@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-19fn)
-- [How Social Media Platforms Really Decide What You See](https://dev.to/devarshi_2211/how-social-media-platforms-really-decide-what-you-see-3hh7)
-- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
-- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
+- [Autodogfooding Autodock on AWS](https://dev.to/mikesol/autodogfooding-autodock-on-aws-1m6a)
+- [Building a Production-Ready Authentication System in Next.js — Without Reinventing the Wheel](https://dev.to/sadegh_shojayefard/building-a-production-ready-authentication-system-in-nextjs-without-reinventing-the-wheel-29p0)
+- [Building Magic Link Authentication with Next.js Server-Side Rendering and Supabase](https://dev.to/nolliebigspin/building-magic-link-authentication-with-nextjs-server-side-rendering-and-supabase-45gn)
+- [How to Send Emails with React Using Nodemailer](https://dev.to/davecodes/how-to-send-emails-with-react-using-nodemailer-1pi7)
 <!-- BLOG-POST-LIST:END -->
 
