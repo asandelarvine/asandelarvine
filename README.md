@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ai Didn’t Kill Frontend. It Turned It Into A Perspective.](https://dev.to/wizsebastian/ai-didnt-kill-frontend-it-turned-it-into-a-perspective-e23)
-- [Building A Metro Route Planner Website For Indian Cities](https://dev.to/codebyprakash/building-a-metro-route-planner-website-for-indian-cities-5bpp)
-- [Day 16: Delta Lake Explained - How Spark Finally Became Reliable for Production ETL](https://dev.to/sandeepk27/day-16-delta-lake-explained-how-spark-finally-became-reliable-for-production-etl-da)
-- [EF Core Bulk Data Operations: Insert and Update Best Practices](https://dev.to/dbdeveloper/ef-core-bulk-data-operations-insert-and-update-best-practices-2ed7)
+- [Kubernetes Spiegato Semplice: 3 Concetti Chiave](https://dev.to/scape/kubernetes-spiegato-semplice-3-concetti-chiave-2ifb)
+- [The West&#39;s Moral High Ground Is Paving China&#39;s Digital Highway](https://dev.to/zeroblind25/the-wests-moral-high-ground-is-paving-chinas-digital-highway-g01)
+- [Why Tools Break Agents &lpar;And How to Fix Them&rpar;](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28)
+- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
 <!-- BLOG-POST-LIST:END -->
 
