@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When you ship fast, there are chances that you might ship bugs in production, Here&#39;s how I deal with that](https://dev.to/mark_kaave/when-you-ship-fast-there-are-chances-that-you-might-ship-bugs-in-production-heres-how-i-deal-bcj)
-- [How I Built a Python Library That Lets You Join MySQL, PostgreSQL, MongoDB, REST APIs, and Files in a Single SQL Query](https://dev.to/theodore_p_9749548f7dd03/how-i-built-a-python-library-that-lets-you-join-mysql-postgresql-mongodb-rest-apis-and-files-in-h5d)
-- [Un banco mexicano decidió implementar un sistema de prevenci](https://dev.to/drcarlosruizviquez/un-banco-mexicano-decidio-implementar-un-sistema-de-prevenci-2dl2)
-- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
+- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v2.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v20-46p1)
+- [Adapter Philosophy](https://dev.to/rokoss21/adapter-philosophy-65h)
+- [Streamlining Maintenance with Machine Learning](https://dev.to/marcussterling/streamlining-maintenance-with-machine-learning-bkp)
+- [SwiftUI Accessibility &lpar;Production-Grade, Real World Patterns&rpar;](https://dev.to/sebastienlato/swiftui-accessibility-production-grade-real-world-patterns-i21)
 <!-- BLOG-POST-LIST:END -->
 
