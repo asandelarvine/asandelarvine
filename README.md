@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A2UI in Practice: Build Agent-to-User Interfaces Using A2A + AG-UI](https://dev.to/copilotkit/a2ui-in-practice-build-agent-to-user-interfaces-using-a2a-ag-ui-3ng5)
-- [API Test Data Management: Creating Realistic and Maintainable Test Data](https://dev.to/adnan_arif_14ae4bc014267f/api-test-data-management-creating-realistic-and-maintainable-test-data-51no)
-- [Z-Image Turbo ControlNet 2.0 Released Just 9 Days After 1.0!?](https://dev.to/ryan_n_a9ec3d0a1a357a89/z-image-turbo-controlnet-20-released-just-9-days-after-10-2hdp)
-- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
+- [Fine-Tuning Large Language Models with LoRA and QLoRA](https://dev.to/nagoorkani2393/fine-tuning-large-language-models-with-lora-and-qlora-268h)
+- [Building an API-First Personal Finance Platform: 12 Years and Lessons in Shipping vs. Perfecting](https://dev.to/theoscion/building-an-api-first-personal-finance-platform-12-years-and-lessons-in-shipping-vs-perfecting-1i99)
+- [Exploring Rate Limiting in Go](https://dev.to/hueyemma769/-exploring-rate-limiting-in-go-17fk)
+- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
 <!-- BLOG-POST-LIST:END -->
 
