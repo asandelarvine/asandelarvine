@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué sigue para los roles FinOps en LATAM?](https://dev.to/barbara_gaspar/que-sigue-para-los-roles-finops-en-latam-13hf)
-- [The Secret Life of Python: The Myth of the Box](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-myth-of-the-box-11hl)
-- [Coroutines &amp; Concurrent HTTP and a Templating Engine in C++ &lpar;Part 2&rpar;](https://dev.to/armaancpro/coroutines-concurrent-http-and-a-templating-engine-in-c-part-2-337n)
-- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
+- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-19fn)
+- [How Social Media Platforms Really Decide What You See](https://dev.to/devarshi_2211/how-social-media-platforms-really-decide-what-you-see-3hh7)
+- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
+- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
 <!-- BLOG-POST-LIST:END -->
 
