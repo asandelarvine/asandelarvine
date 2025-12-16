@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning Large Language Models with LoRA and QLoRA](https://dev.to/nagoorkani2393/fine-tuning-large-language-models-with-lora-and-qlora-268h)
-- [Building an API-First Personal Finance Platform: 12 Years and Lessons in Shipping vs. Perfecting](https://dev.to/theoscion/building-an-api-first-personal-finance-platform-12-years-and-lessons-in-shipping-vs-perfecting-1i99)
-- [Exploring Rate Limiting in Go](https://dev.to/hueyemma769/-exploring-rate-limiting-in-go-17fk)
-- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
+- [Ai Didn’t Kill Frontend. It Turned It Into A Perspective.](https://dev.to/wizsebastian/ai-didnt-kill-frontend-it-turned-it-into-a-perspective-e23)
+- [Building A Metro Route Planner Website For Indian Cities](https://dev.to/codebyprakash/building-a-metro-route-planner-website-for-indian-cities-5bpp)
+- [Day 16: Delta Lake Explained - How Spark Finally Became Reliable for Production ETL](https://dev.to/sandeepk27/day-16-delta-lake-explained-how-spark-finally-became-reliable-for-production-etl-da)
+- [EF Core Bulk Data Operations: Insert and Update Best Practices](https://dev.to/dbdeveloper/ef-core-bulk-data-operations-insert-and-update-best-practices-2ed7)
 <!-- BLOG-POST-LIST:END -->
 
