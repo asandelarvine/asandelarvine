@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MEP Estimation Services in Texas - Your Budget Controller](https://dev.to/constructioncostesti/mep-estimation-services-in-texas-your-budget-controller-59me)
-- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
-- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
-- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
+- [When you ship fast, there are chances that you might ship bugs in production, Here&#39;s how I deal with that](https://dev.to/mark_kaave/when-you-ship-fast-there-are-chances-that-you-might-ship-bugs-in-production-heres-how-i-deal-bcj)
+- [How I Built a Python Library That Lets You Join MySQL, PostgreSQL, MongoDB, REST APIs, and Files in a Single SQL Query](https://dev.to/theodore_p_9749548f7dd03/how-i-built-a-python-library-that-lets-you-join-mysql-postgresql-mongodb-rest-apis-and-files-in-h5d)
+- [Un banco mexicano decidió implementar un sistema de prevenci](https://dev.to/drcarlosruizviquez/un-banco-mexicano-decidio-implementar-un-sistema-de-prevenci-2dl2)
+- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
 <!-- BLOG-POST-LIST:END -->
 
