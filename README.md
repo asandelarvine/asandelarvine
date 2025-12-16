@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Pre-Sales Techies can use BANT to qualify opportunities effectively](https://dev.to/techielass/how-pre-sales-techies-can-use-bant-to-qualify-opportunities-effectively-51d0)
-- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
-- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
-- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
+- [Creating a simplified LinkedIn-style social architecture](https://dev.to/greatjosh/creating-a-simplified-linkedin-style-social-architecture-3gf6)
+- [Off-By-One Errors on LeetCode: Why They Happen and How to Stop Them](https://dev.to/alex_hunter_44f4c9ed6671e/off-by-one-errors-on-leetcode-why-they-happen-and-how-to-stop-them-pai)
+- [A Technical Guide to Darkweb Research Tools](https://dev.to/tor_bbb/a-technical-guide-to-darkweb-research-tools-28jf)
+- [Variables](https://dev.to/sasirekaarumugam/variables-35lj)
 <!-- BLOG-POST-LIST:END -->
 
