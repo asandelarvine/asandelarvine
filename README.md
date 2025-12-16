@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Triad Protocol&quot;: A Proposed Neuro-Symbolic Architecture for AGI Alignment](https://dev.to/wesley_torresdeoliveira/the-triad-protocol-a-proposed-neuro-symbolic-architecture-for-agi-alignment-kff)
-- [Excellent post. Clear, thoughtful, and very accurate in capturing how different developer mindsets shape teams and software over time!!!](https://dev.to/fonteeboa/excellent-post-clear-thoughtful-and-very-accurate-in-capturing-how-different-developer-mindsets-1imm)
-- [Introducing mcp-tef - Testing Your MCP Tool Descriptions Before They Cause Problems](https://dev.to/stacklok/introducing-mcp-tef-testing-your-mcp-tool-descriptions-before-they-cause-problems-fan)
-- [Online Doctor Directories: How to Use an Imperfect Tool Without Getting Misled](https://dev.to/sonia_bobrik_1939cdddd79d/online-doctor-directories-how-to-use-an-imperfect-tool-without-getting-misled-53o2)
+- [MEP Estimation Services in Texas - Your Budget Controller](https://dev.to/constructioncostesti/mep-estimation-services-in-texas-your-budget-controller-59me)
+- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
+- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
+- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
 <!-- BLOG-POST-LIST:END -->
 
