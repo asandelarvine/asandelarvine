@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eBPF Tutorial by Example 32: Wall Clock Profiling with Combined On-CPU and Off-CPU Analysis](https://dev.to/yunwei37/ebpf-tutorial-by-example-32-wall-clock-profiling-with-combined-on-cpu-and-off-cpu-analysis-2jcm)
-- [10 Proven SEO Hacks to Skyrocket 🚀 Your Website Traffic in 2026 👑](https://dev.to/thebitforge/10-proven-seo-hacks-to-skyrocket-your-website-traffic-in-2026-597j)
-- [How Does Medical App Development Solve Real-World Challenges in Healthcare Systems?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-medical-app-development-solve-real-world-challenges-in-healthcare-systems-894)
-- [Life with Generalized Anxiety Disorder &lpar;GAD&rpar; #1](https://dev.to/codesoup/life-with-generalized-anxiety-disorder-gad-1-3i53)
+- [Location-Based Flood Predictions with AI on AWS: Kalani River Case Study](https://dev.to/aws-builders/location-based-flood-predictions-with-ai-on-aws-kalani-river-case-study-307n)
+- [What is a tfvars file in Terraform and how do you use it?](https://dev.to/techielass/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it-3l7o)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 5 - Add MCP](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-5-add-mcp-4h2o)
+- [How AI Learns: Gradient Descent Explained Through a Midnight Smoky Jollof Adventure](https://dev.to/fawole_joshua_c92c794ea50/how-ai-learns-gradient-descent-explained-through-a-midnight-smoky-jollof-adventure-3ggh)
 <!-- BLOG-POST-LIST:END -->
 
