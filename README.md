@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estratégias de Crescimento: Como Impulsionar Seu Negócio em 2024](https://dev.to/movin/estrategias-de-crescimento-como-impulsionar-seu-negocio-em-2024-1b6f)
-- [Self-Host Your LLM Gateway or Try the Managed Version &lpar;Bifrost OSS &amp; Enterprise&rpar;](https://dev.to/debmckinney/self-host-your-llm-gateway-or-try-the-managed-version-bifrost-oss-enterprise-1b3h)
-- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-57ia)
-- [Azure Data Fabric Solutions for Unified Cloud Data Management](https://dev.to/jackryan365/azure-data-fabric-solutions-for-unified-cloud-data-management-4bp)
+- [Day 1: Building a Holiday Budget Tracker with Svelte 5 💸](https://dev.to/dev_michael/day-1-building-a-holiday-budget-tracker-with-svelte-5-29m0)
+- [Not only hourly and fixed price. Weekly retainers on Upwork.](https://dev.to/chocomastery/not-only-hourly-and-fixed-price-weekly-retainers-on-upwork-3ccn)
+- [Boat Registration Renewal: Understanding the Process Over Time](https://dev.to/kari_van_f8915069655d062e/boat-registration-renewal-understanding-the-process-over-time-4cnj)
+- [Introducing azurecost: Azure Cost Management Made Simple](https://dev.to/toyama0919/introducing-azurecost-azure-cost-management-made-simple-1o3k)
 <!-- BLOG-POST-LIST:END -->
 
