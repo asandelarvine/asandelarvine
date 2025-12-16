@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Market Making Programs: The Invisible Infrastructure Behind Successful Token Launches](https://dev.to/dan_keller/market-making-programs-the-invisible-infrastructure-behind-successful-token-launches-2adm)
-- [Stop Building Express Apps Manually: Introducing exp-mvc](https://dev.to/zaheer_ahmed_afa544c30811/stop-building-express-apps-manually-introducing-exp-mvc-4951)
-- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
-- [Getting into AI Agent](https://dev.to/sunday_victor_0c3b4c71c69/getting-into-ai-agent-29ed)
+- [The &quot;Triad Protocol&quot;: A Proposed Neuro-Symbolic Architecture for AGI Alignment](https://dev.to/wesley_torresdeoliveira/the-triad-protocol-a-proposed-neuro-symbolic-architecture-for-agi-alignment-kff)
+- [Excellent post. Clear, thoughtful, and very accurate in capturing how different developer mindsets shape teams and software over time!!!](https://dev.to/fonteeboa/excellent-post-clear-thoughtful-and-very-accurate-in-capturing-how-different-developer-mindsets-1imm)
+- [Introducing mcp-tef - Testing Your MCP Tool Descriptions Before They Cause Problems](https://dev.to/stacklok/introducing-mcp-tef-testing-your-mcp-tool-descriptions-before-they-cause-problems-fan)
+- [Online Doctor Directories: How to Use an Imperfect Tool Without Getting Misled](https://dev.to/sonia_bobrik_1939cdddd79d/online-doctor-directories-how-to-use-an-imperfect-tool-without-getting-misled-53o2)
 <!-- BLOG-POST-LIST:END -->
 
