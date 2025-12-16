@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PPPoE vs. DHCP: Which One Should You Use?](https://dev.to/lsolink/pppoe-vs-dhcp-which-one-should-you-use-5hgk)
-- [Svelte Bash: Lightweight Terminal Emulator for Svelte 5 Applications](https://dev.to/jqueryscript/svelte-bash-lightweight-terminal-emulator-for-svelte-5-applications-2io7)
-- [📌 10 Things You Must Know Before Building Your Language Model from Scratch 📌](https://dev.to/lakhera2015/10-things-you-must-know-before-building-your-language-model-from-scratch-41c9)
-- [Day 6 | 💸 The famous green character that stole your cloud budget: the cardinality problem&quot;](https://dev.to/alexiskroberson/day-6-the-famous-green-character-that-stole-your-cloud-budget-the-cardinality-problem-420k)
+- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
+- [JavaScript 101: Getting Started with Control Flow](https://dev.to/joorch/javascript-101-getting-started-with-control-flow-16pk)
+- [From FP16 to Q4: Understanding Quantization in Ollama](https://dev.to/rijultp/from-fp16-to-q4-understanding-quantization-in-ollama-1j1e)
+- [Nginx Log Analytics with GoAccess: Local Logs, S3 Backups, and Beyond](https://dev.to/ajitkumar/nginx-log-analytics-with-goaccess-local-logs-s3-backups-and-beyond-181e)
 <!-- BLOG-POST-LIST:END -->
 
