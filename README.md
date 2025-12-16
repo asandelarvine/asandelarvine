@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autodogfooding Autodock on AWS](https://dev.to/mikesol/autodogfooding-autodock-on-aws-1m6a)
-- [Building a Production-Ready Authentication System in Next.js — Without Reinventing the Wheel](https://dev.to/sadegh_shojayefard/building-a-production-ready-authentication-system-in-nextjs-without-reinventing-the-wheel-29p0)
-- [Building Magic Link Authentication with Next.js Server-Side Rendering and Supabase](https://dev.to/nolliebigspin/building-magic-link-authentication-with-nextjs-server-side-rendering-and-supabase-45gn)
-- [How to Send Emails with React Using Nodemailer](https://dev.to/davecodes/how-to-send-emails-with-react-using-nodemailer-1pi7)
+- [eBPF Tutorial by Example 32: Wall Clock Profiling with Combined On-CPU and Off-CPU Analysis](https://dev.to/yunwei37/ebpf-tutorial-by-example-32-wall-clock-profiling-with-combined-on-cpu-and-off-cpu-analysis-2jcm)
+- [10 Proven SEO Hacks to Skyrocket 🚀 Your Website Traffic in 2026 👑](https://dev.to/thebitforge/10-proven-seo-hacks-to-skyrocket-your-website-traffic-in-2026-597j)
+- [How Does Medical App Development Solve Real-World Challenges in Healthcare Systems?](https://dev.to/rank_alchemy_5ad282cec75d/how-does-medical-app-development-solve-real-world-challenges-in-healthcare-systems-894)
+- [Life with Generalized Anxiety Disorder &lpar;GAD&rpar; #1](https://dev.to/codesoup/life-with-generalized-anxiety-disorder-gad-1-3i53)
 <!-- BLOG-POST-LIST:END -->
 
