@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Building a Holiday Budget Tracker with Svelte 5 💸](https://dev.to/dev_michael/day-1-building-a-holiday-budget-tracker-with-svelte-5-29m0)
-- [Not only hourly and fixed price. Weekly retainers on Upwork.](https://dev.to/chocomastery/not-only-hourly-and-fixed-price-weekly-retainers-on-upwork-3ccn)
-- [Boat Registration Renewal: Understanding the Process Over Time](https://dev.to/kari_van_f8915069655d062e/boat-registration-renewal-understanding-the-process-over-time-4cnj)
-- [Introducing azurecost: Azure Cost Management Made Simple](https://dev.to/toyama0919/introducing-azurecost-azure-cost-management-made-simple-1o3k)
+- [How Pre-Sales Techies can use BANT to qualify opportunities effectively](https://dev.to/techielass/how-pre-sales-techies-can-use-bant-to-qualify-opportunities-effectively-51d0)
+- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
+- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
+- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
 <!-- BLOG-POST-LIST:END -->
 
