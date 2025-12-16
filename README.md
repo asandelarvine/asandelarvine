@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Spiegato Semplice: 3 Concetti Chiave](https://dev.to/scape/kubernetes-spiegato-semplice-3-concetti-chiave-2ifb)
-- [The West&#39;s Moral High Ground Is Paving China&#39;s Digital Highway](https://dev.to/zeroblind25/the-wests-moral-high-ground-is-paving-chinas-digital-highway-g01)
-- [Why Tools Break Agents &lpar;And How to Fix Them&rpar;](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28)
-- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
+- [Market Making Programs: The Invisible Infrastructure Behind Successful Token Launches](https://dev.to/dan_keller/market-making-programs-the-invisible-infrastructure-behind-successful-token-launches-2adm)
+- [Stop Building Express Apps Manually: Introducing exp-mvc](https://dev.to/zaheer_ahmed_afa544c30811/stop-building-express-apps-manually-introducing-exp-mvc-4951)
+- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
+- [Getting into AI Agent](https://dev.to/sunday_victor_0c3b4c71c69/getting-into-ai-agent-29ed)
 <!-- BLOG-POST-LIST:END -->
 
