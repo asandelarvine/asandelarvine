@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why TypeScript is No Longer Optional for Serious JavaScript Projects?](https://dev.to/alvisonhunter/why-typescript-is-no-longer-optional-for-serious-javascript-projects-2gbk)
-- [Very well done!](https://dev.to/ben/very-well-done-3dkl)
-- [2025-12-15 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-robotics-news-5g5m)
-- [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
+- [PPPoE vs. DHCP: Which One Should You Use?](https://dev.to/lsolink/pppoe-vs-dhcp-which-one-should-you-use-5hgk)
+- [Svelte Bash: Lightweight Terminal Emulator for Svelte 5 Applications](https://dev.to/jqueryscript/svelte-bash-lightweight-terminal-emulator-for-svelte-5-applications-2io7)
+- [📌 10 Things You Must Know Before Building Your Language Model from Scratch 📌](https://dev.to/lakhera2015/10-things-you-must-know-before-building-your-language-model-from-scratch-41c9)
+- [Day 6 | 💸 The famous green character that stole your cloud budget: the cardinality problem&quot;](https://dev.to/alexiskroberson/day-6-the-famous-green-character-that-stole-your-cloud-budget-the-cardinality-problem-420k)
 <!-- BLOG-POST-LIST:END -->
 
