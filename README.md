@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Lisp needs more documentation, tools and ideas &lpar;where are we on this?&rpar;](https://dev.to/vindarel/common-lisp-needs-more-documentation-tools-and-ideas-where-are-we-on-this-io)
-- [Stop paying $20/month for AI videos. Generate Sora 2 quality clips for just $0.15 each with Kie.ai API](https://dev.to/fracabu/stop-paying-20month-for-ai-videos-generate-sora-2-quality-clips-for-just-015-each-with-kieai-31g1)
-- [I built a privacy-first IP API and it&#39;s free.](https://dev.to/arshvir/i-built-a-privacy-first-ip-api-and-its-free-4f77)
-- [Day 3: Understanding Data Types in Java](https://dev.to/karthick_narayanan/day-3-understanding-data-types-in-java-4lch)
+- [NumPy: An Engineer-Level Guide to Arrays, Math, Randomness, and Linear Algebra](https://dev.to/bodhitiwari/numpy-an-engineer-level-guide-to-arrays-math-randomness-and-linear-algebra-22o6)
+- [Day 67: Python Shortest Path in Unweighted Graph - BFS Queue Magic for O&lpar;V+E&rpar; Routing Mastery &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-67-python-shortest-path-in-unweighted-graph-bfs-queue-magic-for-ove-routing-mastery-mie)
+- [AI-assisted development in 2025: the problem is no longer the code](https://dev.to/jasen_dev/ai-assisted-development-in-2025-the-problem-is-no-longer-the-code-452e)
+- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
 <!-- BLOG-POST-LIST:END -->
 
