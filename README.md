@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-af)
-- [My Engineering Workflow in CursorAI](https://dev.to/codeaholicguy/my-engineering-workflow-in-cursorai-2hed)
-- [AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)
-- [Advent of AI - Day 11: Goose Subagents](https://dev.to/nickytonline/advent-of-ai-day-11-goose-subagents-2n2)
+- [The YouTube Social Paradox: A Manifesto](https://dev.to/mike_art_0d853def820658a0/the-youtube-social-paradox-a-manifesto-2mfb)
+- [Docker Compose How to Set Environment Variables](https://dev.to/web_dev-usman/docker-compose-how-to-set-environment-variables-1ca7)
+- [Export Your Brain: A Simple Way To Make Any AI “Know You” From Day One](https://dev.to/onlyoneaman/export-your-brain-a-simple-way-to-make-any-ai-know-you-from-day-one-2bnd)
+- [Display Rupiah Values Beautifully with formatCompact&lpar;&rpar;](https://dev.to/choiruladamm/display-rupiah-values-beautifully-with-formatcompact-3pgc)
 <!-- BLOG-POST-LIST:END -->
 
