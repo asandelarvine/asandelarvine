@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WiRL e WebBroker](https://dev.to/lminuti/wirl-e-webbroker-60p)
-- [Java-8 &lpar;The Biggest Transformation&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-the-biggest-transformation-2i31)
-- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-59a7)
-- [Microsoft Agent Framework: una visión práctica para sistemas multiagente](https://dev.to/jona866/microsoft-agent-framework-una-vision-practica-para-sistemas-multiagente-646)
+- [How we made email authentication actually usable inside editors and AI agents](https://dev.to/annika_grunewaldt_dd31030/how-we-made-email-authentication-actually-usable-inside-editors-and-ai-agents-i08)
+- [AI Tools Directory for Small Businesses](https://dev.to/_fde76ff2d01974642930b/ai-tools-directory-for-small-businesses-413g)
+- [I Built a Local-First Git Analytics Tool &lpar;Without AI&rpar; — Here’s Why](https://dev.to/stoyan_korudzhiev_51f6add/i-built-a-local-first-git-analytics-tool-without-ai-heres-why-1dmm)
+- [How We Built an LLM Gateway Processing Millions of Requests &lpar;And Why We Pivoted&rpar;](https://dev.to/tamishmhatre/how-we-built-an-llm-gateway-processing-millions-of-requests-and-why-we-pivoted-585j)
 <!-- BLOG-POST-LIST:END -->
 
