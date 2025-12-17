@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The YouTube Social Paradox: A Manifesto](https://dev.to/mike_art_0d853def820658a0/the-youtube-social-paradox-a-manifesto-2mfb)
-- [Docker Compose How to Set Environment Variables](https://dev.to/web_dev-usman/docker-compose-how-to-set-environment-variables-1ca7)
-- [Export Your Brain: A Simple Way To Make Any AI “Know You” From Day One](https://dev.to/onlyoneaman/export-your-brain-a-simple-way-to-make-any-ai-know-you-from-day-one-2bnd)
-- [Display Rupiah Values Beautifully with formatCompact&lpar;&rpar;](https://dev.to/choiruladamm/display-rupiah-values-beautifully-with-formatcompact-3pgc)
+- [Event-Driven Architecture Part 2: Event Streaming and Pub/Sub Patterns](https://dev.to/outdated-dev/event-driven-architecture-part-2-event-streaming-and-pubsub-patterns-5b1k)
+- [Why is my hotel’s website barely showing up in local search results even after investing in SEO?](https://dev.to/__eb2f56b93/why-is-my-hotels-website-barely-showing-up-in-local-search-results-even-after-investing-in-seo-35la)
+- [AI Background Remover: How AI Detects Objects and Separates Backgrounds](https://dev.to/freepixel11/ai-background-remover-how-ai-detects-objects-and-separates-backgrounds-1pkn)
+- [Blind Source Separation for automatic speech recognition: How Machines Learn to Untangle Mixed Signals](https://dev.to/awesomeaudioai/blind-source-separation-for-automatic-speech-recognition-how-machines-learn-to-untangle-mixed-42d9)
 <!-- BLOG-POST-LIST:END -->
 
