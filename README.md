@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v2.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v20-46p1)
-- [Adapter Philosophy](https://dev.to/rokoss21/adapter-philosophy-65h)
-- [Streamlining Maintenance with Machine Learning](https://dev.to/marcussterling/streamlining-maintenance-with-machine-learning-bkp)
-- [SwiftUI Accessibility &lpar;Production-Grade, Real World Patterns&rpar;](https://dev.to/sebastienlato/swiftui-accessibility-production-grade-real-world-patterns-i21)
+- [Why Event-Driven Systems Fail in Production](https://dev.to/deejaycodes/why-event-driven-systems-fail-in-production-2ieg)
+- [🔒 Beginner’s Guide to AWS IAM Hardening](https://dev.to/ldwit/beginners-guide-to-aws-iam-hardening-5ag2)
+- [Your First AWS WAF Setup](https://dev.to/secesther/your-first-aws-waf-setup-54h1)
+- [AI Is Too Polite](https://dev.to/evanmorris/ai-is-too-polite-248)
 <!-- BLOG-POST-LIST:END -->
 
