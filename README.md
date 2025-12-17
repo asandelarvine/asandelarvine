@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most SaaS MVPs Fail in the First 90 Days &lpar;and How to Fix It&rpar;](https://dev.to/tashfia_a8008e6a542/why-most-saas-mvps-fail-in-the-first-90-days-and-how-to-fix-it-epm)
-- [Automating code security in CI/CD: SonarCloud SAST guide &lpar;Part 3&rpar;](https://dev.to/vardan_matevosian_tech/automating-code-security-in-cicd-sonarcloud-sast-guide-part-3-37ln)
-- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
-- [Tutorial: Midnight Wallet SDK - Guía Completa para Desarrolladores](https://dev.to/cardumen_c23712b080b2a053/tutorial-midnight-wallet-sdk-guia-completa-para-desarrolladores-20e7)
+- [Building a Link-in-Bio platform from scratch &lpar;thugg.lol&rpar;. Looking for feedback and contributors](https://dev.to/m6jo9/building-a-link-in-bio-platform-from-scratch-thugglol-looking-for-feedback-and-contributors-e00)
+- [Basics &lpar;Getting Started&rpar; with WJb](https://dev.to/ukrguru/basics-getting-started-with-wjb-3i3o)
+- [TokenEscrowV1: Fixing MPT Escrow Accounting](https://dev.to/ripplexdev/tokenescrowv1-fixing-mpt-escrow-accounting-5adb)
+- [Recognized: Credibility, Controversy &amp; Craft](https://dev.to/recognized/recognized-credibility-controversy-craft-3gpa)
 <!-- BLOG-POST-LIST:END -->
 
