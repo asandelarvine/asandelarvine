@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Event-Driven Systems Fail in Production](https://dev.to/deejaycodes/why-event-driven-systems-fail-in-production-2ieg)
-- [🔒 Beginner’s Guide to AWS IAM Hardening](https://dev.to/ldwit/beginners-guide-to-aws-iam-hardening-5ag2)
-- [Your First AWS WAF Setup](https://dev.to/secesther/your-first-aws-waf-setup-54h1)
-- [AI Is Too Polite](https://dev.to/evanmorris/ai-is-too-polite-248)
+- [[AI 協作筆記] gRPC 傳輸優化：基於 Flattening 與 Bitset 的高效方案](https://dev.to/mesak/grpc-transmission-optimization-an-efficient-solution-based-on-flattening-and-bitset-n4k)
+- [Inside the European Chip Renaissance: Malta’s Semiconductor Ambitions at GSCM 2025](https://dev.to/alpinumblogs/inside-the-european-chip-renaissance-maltas-semiconductor-ambitions-at-gscm-2025-4a7a)
+- [The 5-Step Method to Audit Any Onboarding Flow &lpar;And Find Your Biggest Conversion Leaks&rpar;](https://dev.to/paywallpro/the-5-step-method-to-audit-any-onboarding-flow-and-find-your-biggest-conversion-leaks-5c50)
+- [Blocking Web Scrapers and Crawlers Using Nginx &lpar;Without Cloudflare or AWS WAF&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-and-crawlers-using-nginx-without-cloudflare-or-aws-waf-l9l)
 <!-- BLOG-POST-LIST:END -->
 
