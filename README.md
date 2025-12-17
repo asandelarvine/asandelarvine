@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XDef: An Evolution-Oriented Metamodel and Its Construction Philosophy](https://dev.to/canonical/xdef-an-evolution-oriented-metamodel-and-its-construction-philosophy-l6)
-- [AI Tools for Developer Productivity: Hype vs. Reality in 2025](https://dev.to/luciench/ai-tools-for-developer-productivity-hype-vs-reality-in-2025-480d)
-- [Beyond Automation: How CI/CD Pipelines Power Faster, Safer Software Delivery](https://dev.to/khushi_jitani_ca127abdedd/beyond-automation-how-cicd-pipelines-power-faster-safer-software-delivery-2co4)
-- [How to Bulk Delete Emails on Gmail for a Faster, Cleaner Inbox](https://dev.to/averygriffin1/how-to-bulk-delete-emails-on-gmail-for-a-faster-cleaner-inbox-50en)
+- [Choosing AI Code Review Tools for Enterprises and Startups](https://dev.to/yeahiasarker/choosing-ai-code-review-tools-for-enterprises-and-startups-180j)
+- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
+- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
+- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
 <!-- BLOG-POST-LIST:END -->
 
