@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Daily Stand-Up Generator using Pieces API - Part 1: The SDK overview](https://dev.to/get_pieces/building-daily-stand-up-generator-using-pieces-api-part-1-the-sdk-overview-83k)
-- [My Dev Multirepo Setup for JS projects with dependencies](https://dev.to/jeremies/my-dev-multirepo-setup-for-js-projects-with-dependencies-2a4f)
-- [Simple BOT blocker with Caddy and Django](https://dev.to/climentea/simple-bot-blocker-with-caddy-and-django-3j40)
-- [Prompt Engineering na Prática: Um Guia para Devs](https://dev.to/heltonss/prompt-engineering-na-pratica-um-guia-para-devs-3oh2)
+- [Common Lisp needs more documentation, tools and ideas &lpar;where are we on this?&rpar;](https://dev.to/vindarel/common-lisp-needs-more-documentation-tools-and-ideas-where-are-we-on-this-io)
+- [Stop paying $20/month for AI videos. Generate Sora 2 quality clips for just $0.15 each with Kie.ai API](https://dev.to/fracabu/stop-paying-20month-for-ai-videos-generate-sora-2-quality-clips-for-just-015-each-with-kieai-31g1)
+- [I built a privacy-first IP API and it&#39;s free.](https://dev.to/arshvir/i-built-a-privacy-first-ip-api-and-its-free-4f77)
+- [Day 3: Understanding Data Types in Java](https://dev.to/karthick_narayanan/day-3-understanding-data-types-in-java-4lch)
 <!-- BLOG-POST-LIST:END -->
 
