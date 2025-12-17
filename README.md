@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi MiMo-V2-Flash: Complete Guide to the 309B Parameter MoE Model &lpar;2025&rpar;](https://dev.to/czmilo/xiaomi-mimo-v2-flash-complete-guide-to-the-309b-parameter-moe-model-2025-bg6)
-- [Docker Hardened Images are Free](https://dev.to/docker/docker-hardened-images-are-free-3cj1)
-- [Day 11: Late Start and Bike Accidents](https://dev.to/casperday11/day-11-late-start-and-bike-accidents-82l)
-- [How to Run Mock Coding Interviews by Yourself with LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-run-mock-coding-interviews-by-yourself-with-leetcode-3a42)
+- [Building Daily Stand-Up Generator using Pieces API - Part 1: The SDK overview](https://dev.to/get_pieces/building-daily-stand-up-generator-using-pieces-api-part-1-the-sdk-overview-83k)
+- [My Dev Multirepo Setup for JS projects with dependencies](https://dev.to/jeremies/my-dev-multirepo-setup-for-js-projects-with-dependencies-2a4f)
+- [Simple BOT blocker with Caddy and Django](https://dev.to/climentea/simple-bot-blocker-with-caddy-and-django-3j40)
+- [Prompt Engineering na Prática: Um Guia para Devs](https://dev.to/heltonss/prompt-engineering-na-pratica-um-guia-para-devs-3oh2)
 <!-- BLOG-POST-LIST:END -->
 
