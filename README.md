@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NumPy: An Engineer-Level Guide to Arrays, Math, Randomness, and Linear Algebra](https://dev.to/bodhitiwari/numpy-an-engineer-level-guide-to-arrays-math-randomness-and-linear-algebra-22o6)
-- [Day 67: Python Shortest Path in Unweighted Graph - BFS Queue Magic for O&lpar;V+E&rpar; Routing Mastery &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-67-python-shortest-path-in-unweighted-graph-bfs-queue-magic-for-ove-routing-mastery-mie)
-- [AI-assisted development in 2025: the problem is no longer the code](https://dev.to/jasen_dev/ai-assisted-development-in-2025-the-problem-is-no-longer-the-code-452e)
-- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
+- [Why Most SaaS MVPs Fail in the First 90 Days &lpar;and How to Fix It&rpar;](https://dev.to/tashfia_a8008e6a542/why-most-saas-mvps-fail-in-the-first-90-days-and-how-to-fix-it-epm)
+- [Automating code security in CI/CD: SonarCloud SAST guide &lpar;Part 3&rpar;](https://dev.to/vardan_matevosian_tech/automating-code-security-in-cicd-sonarcloud-sast-guide-part-3-37ln)
+- [How I Built In-App Workspace Switching for Multi-Repo Git Workflows](https://dev.to/iam_pbk/how-i-built-in-app-workspace-switching-for-multi-repo-git-workflows-4cbh)
+- [Tutorial: Midnight Wallet SDK - Guía Completa para Desarrolladores](https://dev.to/cardumen_c23712b080b2a053/tutorial-midnight-wallet-sdk-guia-completa-para-desarrolladores-20e7)
 <!-- BLOG-POST-LIST:END -->
 
