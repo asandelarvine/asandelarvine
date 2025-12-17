@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leash, Not Autopilot: Building Predictable AI Behavior with Copilot Instructions 🪢](https://dev.to/anchildress1/leash-not-autopilot-building-predictable-ai-behavior-with-copilot-instructions-14ip)
-- [SQL for Automation Testers: Understand and Optimize Queries Without Being a DBA](https://dev.to/godhirajcode/sql-for-automation-testers-understand-and-optimize-queries-without-being-a-dba-bnd)
-- [Day 17 — Silent Failure &amp; Loss of Visibility &lpar;The White Tree&rpar;](https://dev.to/aerabi/day-17-silent-failure-loss-of-visibility-the-white-tree-3hi2)
-- [TorqueLogic: An AI-Driven Management Information System for High-Performance Fleet Management and Decision Support](https://dev.to/shakti_8ebe4de3f7031e2521/torquelogic-an-ai-driven-management-information-system-for-high-performance-fleet-management-and-dk9)
+- [Xiaomi MiMo-V2-Flash: Complete Guide to the 309B Parameter MoE Model &lpar;2025&rpar;](https://dev.to/czmilo/xiaomi-mimo-v2-flash-complete-guide-to-the-309b-parameter-moe-model-2025-bg6)
+- [Docker Hardened Images are Free](https://dev.to/docker/docker-hardened-images-are-free-3cj1)
+- [Day 11: Late Start and Bike Accidents](https://dev.to/casperday11/day-11-late-start-and-bike-accidents-82l)
+- [How to Run Mock Coding Interviews by Yourself with LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-run-mock-coding-interviews-by-yourself-with-leetcode-3a42)
 <!-- BLOG-POST-LIST:END -->
 
