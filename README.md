@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture Part 2: Event Streaming and Pub/Sub Patterns](https://dev.to/outdated-dev/event-driven-architecture-part-2-event-streaming-and-pubsub-patterns-5b1k)
-- [Why is my hotel’s website barely showing up in local search results even after investing in SEO?](https://dev.to/__eb2f56b93/why-is-my-hotels-website-barely-showing-up-in-local-search-results-even-after-investing-in-seo-35la)
-- [AI Background Remover: How AI Detects Objects and Separates Backgrounds](https://dev.to/freepixel11/ai-background-remover-how-ai-detects-objects-and-separates-backgrounds-1pkn)
-- [Blind Source Separation for automatic speech recognition: How Machines Learn to Untangle Mixed Signals](https://dev.to/awesomeaudioai/blind-source-separation-for-automatic-speech-recognition-how-machines-learn-to-untangle-mixed-42d9)
+- [WiRL e WebBroker](https://dev.to/lminuti/wirl-e-webbroker-60p)
+- [Java-8 &lpar;The Biggest Transformation&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/java-8-the-biggest-transformation-2i31)
+- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-59a7)
+- [Microsoft Agent Framework: una visión práctica para sistemas multiagente](https://dev.to/jona866/microsoft-agent-framework-una-vision-practica-para-sistemas-multiagente-646)
 <!-- BLOG-POST-LIST:END -->
 
