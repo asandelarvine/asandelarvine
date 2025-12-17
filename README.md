@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Vuelve dBASE?](https://dev.to/baltasarq/vuelve-dbase-2975)
-- [Postgresus is live on Product Hunt — the open source PostgreSQL backup tool](https://dev.to/dmetrovich/postgresus-is-live-on-product-hunt-the-open-source-postgresql-backup-tool-5dc3)
-- [How to Improve Your Website’s UX Without a Full Redesign](https://dev.to/pixel_mosaic/how-to-improve-your-websites-ux-without-a-full-redesign-5d6b)
-- [Initial project of a website generator linked to GitHub](https://dev.to/ijacko_noodon_8da65e404e7/initial-project-of-a-website-linked-to-github-540d)
+- [Leash, Not Autopilot: Building Predictable AI Behavior with Copilot Instructions 🪢](https://dev.to/anchildress1/leash-not-autopilot-building-predictable-ai-behavior-with-copilot-instructions-14ip)
+- [SQL for Automation Testers: Understand and Optimize Queries Without Being a DBA](https://dev.to/godhirajcode/sql-for-automation-testers-understand-and-optimize-queries-without-being-a-dba-bnd)
+- [Day 17 — Silent Failure &amp; Loss of Visibility &lpar;The White Tree&rpar;](https://dev.to/aerabi/day-17-silent-failure-loss-of-visibility-the-white-tree-3hi2)
+- [TorqueLogic: An AI-Driven Management Information System for High-Performance Fleet Management and Decision Support](https://dev.to/shakti_8ebe4de3f7031e2521/torquelogic-an-ai-driven-management-information-system-for-high-performance-fleet-management-and-dk9)
 <!-- BLOG-POST-LIST:END -->
 
