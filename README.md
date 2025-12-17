@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we made email authentication actually usable inside editors and AI agents](https://dev.to/annika_grunewaldt_dd31030/how-we-made-email-authentication-actually-usable-inside-editors-and-ai-agents-i08)
-- [AI Tools Directory for Small Businesses](https://dev.to/_fde76ff2d01974642930b/ai-tools-directory-for-small-businesses-413g)
-- [I Built a Local-First Git Analytics Tool &lpar;Without AI&rpar; — Here’s Why](https://dev.to/stoyan_korudzhiev_51f6add/i-built-a-local-first-git-analytics-tool-without-ai-heres-why-1dmm)
-- [How We Built an LLM Gateway Processing Millions of Requests &lpar;And Why We Pivoted&rpar;](https://dev.to/tamishmhatre/how-we-built-an-llm-gateway-processing-millions-of-requests-and-why-we-pivoted-585j)
+- [XDef: An Evolution-Oriented Metamodel and Its Construction Philosophy](https://dev.to/canonical/xdef-an-evolution-oriented-metamodel-and-its-construction-philosophy-l6)
+- [AI Tools for Developer Productivity: Hype vs. Reality in 2025](https://dev.to/luciench/ai-tools-for-developer-productivity-hype-vs-reality-in-2025-480d)
+- [Beyond Automation: How CI/CD Pipelines Power Faster, Safer Software Delivery](https://dev.to/khushi_jitani_ca127abdedd/beyond-automation-how-cicd-pipelines-power-faster-safer-software-delivery-2co4)
+- [How to Bulk Delete Emails on Gmail for a Faster, Cleaner Inbox](https://dev.to/averygriffin1/how-to-bulk-delete-emails-on-gmail-for-a-faster-cleaner-inbox-50en)
 <!-- BLOG-POST-LIST:END -->
 
