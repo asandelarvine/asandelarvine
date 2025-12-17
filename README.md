@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing AI Code Review Tools for Enterprises and Startups](https://dev.to/yeahiasarker/choosing-ai-code-review-tools-for-enterprises-and-startups-180j)
-- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
-- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
-- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
+- [¿Vuelve dBASE?](https://dev.to/baltasarq/vuelve-dbase-2975)
+- [Postgresus is live on Product Hunt — the open source PostgreSQL backup tool](https://dev.to/dmetrovich/postgresus-is-live-on-product-hunt-the-open-source-postgresql-backup-tool-5dc3)
+- [How to Improve Your Website’s UX Without a Full Redesign](https://dev.to/pixel_mosaic/how-to-improve-your-websites-ux-without-a-full-redesign-5d6b)
+- [Initial project of a website generator linked to GitHub](https://dev.to/ijacko_noodon_8da65e404e7/initial-project-of-a-website-linked-to-github-540d)
 <!-- BLOG-POST-LIST:END -->
 
