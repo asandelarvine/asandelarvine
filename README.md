@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Link-in-Bio platform from scratch &lpar;thugg.lol&rpar;. Looking for feedback and contributors](https://dev.to/m6jo9/building-a-link-in-bio-platform-from-scratch-thugglol-looking-for-feedback-and-contributors-e00)
-- [Basics &lpar;Getting Started&rpar; with WJb](https://dev.to/ukrguru/basics-getting-started-with-wjb-3i3o)
-- [TokenEscrowV1: Fixing MPT Escrow Accounting](https://dev.to/ripplexdev/tokenescrowv1-fixing-mpt-escrow-accounting-5adb)
-- [Recognized: Credibility, Controversy &amp; Craft](https://dev.to/recognized/recognized-credibility-controversy-craft-3gpa)
+- [How to Prepare for Q1 Performance Reviews Right Now](https://dev.to/nataliaherself/how-to-prepare-for-q1-performance-reviews-right-now-b2m)
+- [Fixing Prometheus namespace monitoring](https://dev.to/santispavajeau/fixing-prometheus-namespace-monitoring-31bh)
+- [I built a QR Code API and here&#39;s what I learned](https://dev.to/malachi_stark_/i-built-a-qr-code-api-and-heres-what-i-learned-3l5g)
+- [How We Built Mathematically Provable Smart Contract Security with Lean4](https://dev.to/chronosvault/how-we-built-mathematically-provable-smart-contract-security-with-lean4-596b)
 <!-- BLOG-POST-LIST:END -->
 
