@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for Q1 Performance Reviews Right Now](https://dev.to/nataliaherself/how-to-prepare-for-q1-performance-reviews-right-now-b2m)
-- [Fixing Prometheus namespace monitoring](https://dev.to/santispavajeau/fixing-prometheus-namespace-monitoring-31bh)
-- [I built a QR Code API and here&#39;s what I learned](https://dev.to/malachi_stark_/i-built-a-qr-code-api-and-heres-what-i-learned-3l5g)
-- [How We Built Mathematically Provable Smart Contract Security with Lean4](https://dev.to/chronosvault/how-we-built-mathematically-provable-smart-contract-security-with-lean4-596b)
+- [Title: Global Music Web Radio – Interactive Online Player | LiveHTML.net](https://dev.to/okan_kaplan_livehtml/title-global-music-web-radio-interactive-online-player-livehtmlnet-1nom)
+- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
+- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
+- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
 <!-- BLOG-POST-LIST:END -->
 
