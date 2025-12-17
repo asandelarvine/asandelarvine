@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Rive Animation: A Complete Guide for React Developers](https://dev.to/hoainhoblogdev/mastering-rive-animation-a-complete-guide-for-react-developers-5hn1)
-- [Mastering Cloud Security: A Strategic Guide to Securing Your AWS Environment](https://dev.to/kaths3cdev/mastering-cloud-security-a-strategic-guide-to-securing-your-aws-environment-51bo)
-- [💻 AWS 106: The Moment of Truth! Launching Your First EC2 Instance](https://dev.to/hritikraj8804/aws-106-the-moment-of-truth-launching-your-first-ec2-instance-2m3p)
-- [The Long Echo Toolkit: Preserving Your Digital Life](https://dev.to/queelius/the-long-echo-toolkit-preserving-your-digital-life-1eh8)
+- [The AI Bubble 2025: How the Boom Occurred and Transformed Industries Globally](https://dev.to/vanshsaxena/the-ai-bubble-2025-how-the-boom-occurred-and-transformed-industries-globally-af)
+- [My Engineering Workflow in CursorAI](https://dev.to/codeaholicguy/my-engineering-workflow-in-cursorai-2hed)
+- [AI Powerhouses: How to Leverage Joint Neural Networks in Multimodal Apps](https://dev.to/mabualzait/ai-powerhouses-how-to-leverage-joint-neural-networks-in-multimodal-apps-fdg)
+- [Advent of AI - Day 11: Goose Subagents](https://dev.to/nickytonline/advent-of-ai-day-11-goose-subagents-2n2)
 <!-- BLOG-POST-LIST:END -->
 
