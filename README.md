@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 81](https://dev.to/tomivan/coding-challenge-practice-question-81-4750)
-- [134. Gas Station | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/134-gas-station-leetcode-top-interview-150-coding-questions-2je3)
-- [Overview of Real-Time Data Synchronization from PostgreSQL to VeloDB](https://dev.to/apachedoris/overview-of-real-time-data-synchronization-from-postgresql-to-velodb-188l)
-- [Ringer Movies: The 2022 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-2022-movie-draft-1lme)
+- [Migrating from Manual Borsh to LUMOS: A Step-by-Step Guide](https://dev.to/getlumos/migrating-from-manual-borsh-to-lumos-a-step-by-step-guide-444g)
+- [LUMOS + Anchor: The Perfect Combo for Solana Development](https://dev.to/getlumos/lumos-anchor-the-perfect-combo-for-solana-development-472d)
+- [Type-Safe Rust ↔ TypeScript Communication for Solana](https://dev.to/getlumos/type-safe-rust-typescript-communication-for-solana-3nd0)
+- [135. Candy | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/135-candy-leetcode-top-interview-150-coding-questions-1hck)
 <!-- BLOG-POST-LIST:END -->
 
