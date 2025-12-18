@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Braket- AWS SERVICE](https://dev.to/baviya_varshiniv_5840bee/aws-braket-aws-service-4h2g)
-- [Add snow to your app with Stimulus](https://dev.to/railsdesigner/add-snow-to-your-app-with-stimulus-441f)
-- [Building a Decentralized AI Training Network: Challenges and Opportunities](https://dev.to/iamkyr0/building-a-decentralized-ai-training-network-challenges-and-opportunities-2om5)
-- [Why Most Reporting Systems Fail Before the UI Even Loads](https://dev.to/mzghosty/why-most-reporting-systems-fail-before-the-ui-even-loads-3em5)
+- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
+- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
+- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-426f)
+- [Hackathones, cansancio y razones del por qué Buen Día Builders existe](https://dev.to/ar3lisa/hackathones-cansancio-y-razones-del-por-que-buen-dia-builders-existe-1nob)
 <!-- BLOG-POST-LIST:END -->
 
