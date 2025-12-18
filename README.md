@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Correlated Subqueries in D365FO Computed Columns: A Practical Guide](https://dev.to/ni_klaus_4eb1581f851becee/implementing-correlated-subqueries-in-d365fo-computed-columns-a-practical-guide-2672)
-- [🔧 AWS IoT Jobs: Automating Secure Device Management at Scale](https://dev.to/jaswant_karun_s_a_37/aws-iot-jobs-automating-secure-device-management-at-scale-21nl)
-- [Bifrost: The LLM Gateway That&#39;s 40x Faster Than LiteLLM](https://dev.to/varshithvhegde/bifrost-the-llm-gateway-thats-40x-faster-than-litellm-1763)
-- [Explain your code!](https://dev.to/will_geary_492103418e054d/explain-your-code-5dld)
+- [AWS Braket- AWS SERVICE](https://dev.to/baviya_varshiniv_5840bee/aws-braket-aws-service-4h2g)
+- [Add snow to your app with Stimulus](https://dev.to/railsdesigner/add-snow-to-your-app-with-stimulus-441f)
+- [Building a Decentralized AI Training Network: Challenges and Opportunities](https://dev.to/iamkyr0/building-a-decentralized-ai-training-network-challenges-and-opportunities-2om5)
+- [Why Most Reporting Systems Fail Before the UI Even Loads](https://dev.to/mzghosty/why-most-reporting-systems-fail-before-the-ui-even-loads-3em5)
 <!-- BLOG-POST-LIST:END -->
 
