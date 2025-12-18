@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this thing on?](https://dev.to/missamarakay/is-this-thing-on-5796)
-- [Your console.log deserves better](https://dev.to/chintanshah35/your-consolelog-deserves-better-4ack)
-- [My Service is Slow! Where Do I Start? &lpar;Performance Tuning Basics&rpar;](https://dev.to/jonghwayoo03_dev/my-service-is-slow-where-do-i-start-performance-tuning-basics-1h1m)
-- [Turn Any REST API into an MCP Server in 25 Minutes](https://dev.to/dbatson/turn-any-rest-api-into-an-mcp-server-in-25-minutes-4e47)
+- [SQL SIDE QUEST - An Immersive story telling SQL Game](https://dev.to/sqlsidequest/sql-side-quest-an-immersive-story-telling-sql-game-4jin)
+- [I Ran Vibe Coding on My Eating Habits. The Results Were Disturbing.](https://dev.to/manoj6543/i-ran-vibe-coding-on-my-eating-habits-the-results-were-disturbing-4lmj)
+- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
+- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
 <!-- BLOG-POST-LIST:END -->
 
