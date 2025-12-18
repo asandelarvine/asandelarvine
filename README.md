@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Memorizing Kubernetes: Pods, Deployments, and Services Explained](https://dev.to/sharonkynu/stop-memorizing-kubernetes-pods-deployments-and-services-explained-3e64)
-- [Quantifying the Intangible: A Strategic Framework for Measuring the Impact of Business Simulations](https://dev.to/leadership28/quantifying-the-intangible-a-strategic-framework-for-measuring-the-impact-of-business-simulations-39dd)
-- [Linux Filesystem and Navigation for DevOps &lpar;With Practical Demo&rpar;](https://dev.to/chetan_tekam_3500/linux-filesystem-and-navigation-for-devops-with-practical-demo-5g36)
-- [Data Analytics Course in Telugu: Empowering Students and Working Professionals Through Mother-Tongue Learning](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-empowering-students-and-working-professionals-through-4iec)
+- [10 Best AI Interview Helpers for 2026](https://dev.to/finalroundai/10-best-ai-interview-helpers-for-2026-4lg6)
+- [Dockerfile Internals and the Image Build Pipeline](https://dev.to/sreekanth_kuruba_91721e5d/dockerfile-internals-and-the-image-build-pipeline-37b1)
+- [eDgeWrapper Technology Overview - 18/12/2025 11:57:18 am](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-technology-overview-18122025-115718-am-3ea3)
+- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-28a8)
 <!-- BLOG-POST-LIST:END -->
 
