@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gap Between Figma and Production: Why Handoff Fails and How Design Systems Fix It](https://dev.to/lewisnewman24/the-gap-between-figma-and-production-why-handoff-fails-and-how-design-systems-fix-it-4ma9)
-- [📉 AWS 107: Save Money by Rightsizing - How to Change an EC2 Instance Type](https://dev.to/hritikraj8804/aws-107-save-money-by-rightsizing-how-to-change-an-ec2-instance-type-349o)
-- [The Uneven Rise of AI: From Silicon Valley Illusions to Global Divisions and Human-AI Struggles](https://dev.to/_4b254f4408ef55656a22e4/the-uneven-rise-of-ai-from-silicon-valley-illusions-to-global-divisions-and-human-ai-struggles-5559)
-- [How to Build an App with Vibe Coding](https://dev.to/cloudestersoftware/how-to-build-an-app-with-vibe-coding-29jd)
+- [CSS Opacity Masterclass 2025: Guide with Code Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/css-opacity-masterclass-2025-guide-with-code-examples-best-practices-3e7e)
+- [Reducing Carbon: Strategies for a Sustainable Footprint](https://dev.to/victor-lang/reducing-carbon-strategies-for-a-sustainable-footprint-421g)
+- [Setting Up a Frontend Build for HTML Email Templating with MJML](https://dev.to/byteminds/setting-up-a-frontend-build-for-html-email-templating-with-mjml-4eh1)
+- [Master CSS Alignment: Complete Guide to Centering &amp; Positioning Elements &lpar;2025&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/master-css-alignment-complete-guide-to-centering-positioning-elements-2025-3h1l)
 <!-- BLOG-POST-LIST:END -->
 
