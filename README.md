@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity feels heavy and Claude Skills are light](https://dev.to/teamquesma/antigravity-feels-heavy-and-claude-skills-are-light-9b0)
-- [Mantine Compare: A Sleek, Accessible Way to Showcase Before/After in React](https://dev.to/undolog/mantine-compare-a-sleek-accessible-way-to-showcase-beforeafter-in-react-229m)
-- [DeepSeek AI’s Understanding of the Delta Customization Concept — Far Beyond Ordinary Programmers](https://dev.to/canonical/deepseek-ais-understanding-of-the-delta-customization-concept-far-beyond-ordinary-programmers-23op)
-- [Securely Managing GitHub Access on Production Servers](https://dev.to/yousufbasir/securely-managing-github-access-on-production-servers-20l3)
+- [Schema Markup for Developers: Boost Your Site&#39;s Search Visibility with Structured Data published](https://dev.to/msmyaqoob25/schema-markup-for-developers-boost-your-sites-search-visibility-with-structured-datapublished-b8e)
+- [Fix Resolution in frontend](https://dev.to/farhanreact/fix-resolution-in-frontend-14o4)
+- [Mobile Privacy Settings for Secure and Confident Phone Use](https://dev.to/rapidcellphone/mobile-privacy-settings-for-secure-and-confident-phone-use-1ebe)
+- [Why Your RF Power Readings Keep Drifting &lpar;and How I Usually Pin It Down&rpar;](https://dev.to/maronlabs/why-your-rf-power-readings-keep-drifting-and-how-i-usually-pin-it-down-26db)
 <!-- BLOG-POST-LIST:END -->
 
