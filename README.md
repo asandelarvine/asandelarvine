@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Prompt Engineering Techniques: A Comprehensive Guide](https://dev.to/brayanarrieta/aws-prompt-engineering-techniques-a-comprehensive-guide-3i3f)
+- [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
+- [Automating Environmental Reporting with Python](https://dev.to/phenixzain/automating-environmental-reporting-with-python-5ali)
 - [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
-- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
-- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-426f)
-- [Hackathones, cansancio y razones del por qué Buen Día Builders existe](https://dev.to/ar3lisa/hackathones-cansancio-y-razones-del-por-que-buen-dia-builders-existe-1nob)
 <!-- BLOG-POST-LIST:END -->
 
