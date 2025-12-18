@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Meta-Logger: Tracking My Work Across GitHub, Codeberg, and Bitbucket Using Go](https://dev.to/nimxch/building-a-meta-logger-tracking-my-work-across-github-codeberg-and-bitbucket-using-go-4kp6)
-- [The API Odyssey: Navigating the Waters of Interview Questions](https://dev.to/adnan_arif_14ae4bc014267f/the-api-odyssey-navigating-the-waters-of-interview-questions-44a8)
-- [The Overwhelmed Dementia Mind: How Silence Can Bring Relief, Calm, and Connection](https://dev.to/miriamfein-rst/the-overwhelmed-dementia-mind-how-silence-can-bring-relief-calm-and-connection-4ii8)
-- [Integrate Monetzly SDK for Effortless AI Monetization Strategies](https://dev.to/monetzly/integrate-monetzly-sdk-for-effortless-ai-monetization-strategies-4g4d)
+- [Implementing Correlated Subqueries in D365FO Computed Columns: A Practical Guide](https://dev.to/ni_klaus_4eb1581f851becee/implementing-correlated-subqueries-in-d365fo-computed-columns-a-practical-guide-2672)
+- [🔧 AWS IoT Jobs: Automating Secure Device Management at Scale](https://dev.to/jaswant_karun_s_a_37/aws-iot-jobs-automating-secure-device-management-at-scale-21nl)
+- [Bifrost: The LLM Gateway That&#39;s 40x Faster Than LiteLLM](https://dev.to/varshithvhegde/bifrost-the-llm-gateway-thats-40x-faster-than-litellm-1763)
+- [Explain your code!](https://dev.to/will_geary_492103418e054d/explain-your-code-5dld)
 <!-- BLOG-POST-LIST:END -->
 
