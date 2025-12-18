@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema Markup for Developers: Boost Your Site&#39;s Search Visibility with Structured Data published](https://dev.to/msmyaqoob25/schema-markup-for-developers-boost-your-sites-search-visibility-with-structured-datapublished-b8e)
-- [Fix Resolution in frontend](https://dev.to/farhanreact/fix-resolution-in-frontend-14o4)
-- [Mobile Privacy Settings for Secure and Confident Phone Use](https://dev.to/rapidcellphone/mobile-privacy-settings-for-secure-and-confident-phone-use-1ebe)
-- [Why Your RF Power Readings Keep Drifting &lpar;and How I Usually Pin It Down&rpar;](https://dev.to/maronlabs/why-your-rf-power-readings-keep-drifting-and-how-i-usually-pin-it-down-26db)
+- [Building a Meta-Logger: Tracking My Work Across GitHub, Codeberg, and Bitbucket Using Go](https://dev.to/nimxch/building-a-meta-logger-tracking-my-work-across-github-codeberg-and-bitbucket-using-go-4kp6)
+- [The API Odyssey: Navigating the Waters of Interview Questions](https://dev.to/adnan_arif_14ae4bc014267f/the-api-odyssey-navigating-the-waters-of-interview-questions-44a8)
+- [The Overwhelmed Dementia Mind: How Silence Can Bring Relief, Calm, and Connection](https://dev.to/miriamfein-rst/the-overwhelmed-dementia-mind-how-silence-can-bring-relief-calm-and-connection-4ii8)
+- [Integrate Monetzly SDK for Effortless AI Monetization Strategies](https://dev.to/monetzly/integrate-monetzly-sdk-for-effortless-ai-monetization-strategies-4g4d)
 <!-- BLOG-POST-LIST:END -->
 
