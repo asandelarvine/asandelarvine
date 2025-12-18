@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
-- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
-- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
-- [Roshan Kumar — AI Engineer &amp; Data Scientist | Machine Learning &amp; Generative AI](https://dev.to/roshankumar-datascience/roshan-kumar-ai-engineer-data-scientist-machine-learning-generative-ai-52hp)
+- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
+- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
+- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
+- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
 <!-- BLOG-POST-LIST:END -->
 
