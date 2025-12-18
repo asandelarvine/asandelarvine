@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Chatterbox-Turbo model by Resemble-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-chatterbox-turbo-model-by-resemble-ai-on-replicate-433l)
-- [Why We Built Authentication Without Accounts, Passwords, or Personal Data](https://dev.to/antonmb/why-we-built-authentication-without-accounts-passwords-or-personal-data-2ij3)
-- [Building my first Kiro Power: PostHog Observability](https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik)
-- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
+- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
+- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
+- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
+- [Roshan Kumar — AI Engineer &amp; Data Scientist | Machine Learning &amp; Generative AI](https://dev.to/roshankumar-datascience/roshan-kumar-ai-engineer-data-scientist-machine-learning-generative-ai-52hp)
 <!-- BLOG-POST-LIST:END -->
 
