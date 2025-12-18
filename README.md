@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
-- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
-- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
-- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
+- [Is this thing on?](https://dev.to/missamarakay/is-this-thing-on-5796)
+- [Your console.log deserves better](https://dev.to/chintanshah35/your-consolelog-deserves-better-4ack)
+- [My Service is Slow! Where Do I Start? &lpar;Performance Tuning Basics&rpar;](https://dev.to/jonghwayoo03_dev/my-service-is-slow-where-do-i-start-performance-tuning-basics-1h1m)
+- [Turn Any REST API into an MCP Server in 25 Minutes](https://dev.to/dbatson/turn-any-rest-api-into-an-mcp-server-in-25-minutes-4e47)
 <!-- BLOG-POST-LIST:END -->
 
