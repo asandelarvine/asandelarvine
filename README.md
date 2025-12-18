@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
-- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
-- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
-- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
+- [Stop Memorizing Kubernetes: Pods, Deployments, and Services Explained](https://dev.to/sharonkynu/stop-memorizing-kubernetes-pods-deployments-and-services-explained-3e64)
+- [Quantifying the Intangible: A Strategic Framework for Measuring the Impact of Business Simulations](https://dev.to/leadership28/quantifying-the-intangible-a-strategic-framework-for-measuring-the-impact-of-business-simulations-39dd)
+- [Linux Filesystem and Navigation for DevOps &lpar;With Practical Demo&rpar;](https://dev.to/chetan_tekam_3500/linux-filesystem-and-navigation-for-devops-with-practical-demo-5g36)
+- [Data Analytics Course in Telugu: Empowering Students and Working Professionals Through Mother-Tongue Learning](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-empowering-students-and-working-professionals-through-4iec)
 <!-- BLOG-POST-LIST:END -->
 
