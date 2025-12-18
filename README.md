@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System calls: how programs talk to the Linux kernel](https://dev.to/zsoltkacsandi/system-calls-how-programs-talk-to-the-linux-kernel-2bj6)
-- [What if we could just… make our own Season 2 of Freaks and Geeks?](https://dev.to/andrew_stern_62a96bc6b88e/what-if-we-could-just-make-our-own-season-2-of-freaks-and-geeks-2jb2)
-- [Top 5 Emerging Developer Tools to Watch in 2026](https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl)
-- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
+- [The Gap Between Figma and Production: Why Handoff Fails and How Design Systems Fix It](https://dev.to/lewisnewman24/the-gap-between-figma-and-production-why-handoff-fails-and-how-design-systems-fix-it-4ma9)
+- [📉 AWS 107: Save Money by Rightsizing - How to Change an EC2 Instance Type](https://dev.to/hritikraj8804/aws-107-save-money-by-rightsizing-how-to-change-an-ec2-instance-type-349o)
+- [The Uneven Rise of AI: From Silicon Valley Illusions to Global Divisions and Human-AI Struggles](https://dev.to/_4b254f4408ef55656a22e4/the-uneven-rise-of-ai-from-silicon-valley-illusions-to-global-divisions-and-human-ai-struggles-5559)
+- [How to Build an App with Vibe Coding](https://dev.to/cloudestersoftware/how-to-build-an-app-with-vibe-coding-29jd)
 <!-- BLOG-POST-LIST:END -->
 
