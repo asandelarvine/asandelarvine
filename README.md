@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Databases with TiDB: AWS Community Day Bangalore 2025](https://dev.to/chandureddy/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
-- [How to Easily Develop Amazon Integration for Your eCommerce SaaS](https://dev.to/oliinyk/how-to-easily-develop-amazon-integration-for-your-ecommerce-saas-3dkc)
-- [Shopify Frontend Development &amp; Custom Storefronts: The Complete 2026 Guide](https://dev.to/puneetjassal/shopify-frontend-development-custom-storefronts-the-complete-2026-guide-6d4)
-- [Enable HTTPS for Jenkins on SUSE by using Apache httpd Reverse Proxy with Existing SSL Certificate](https://dev.to/andylovecloud/enable-https-for-jenkins-on-suse-by-using-apache-httpd-reverse-proxy-with-existing-ssl-certificate-3hgm)
+- [Antigravity feels heavy and Claude Skills are light](https://dev.to/teamquesma/antigravity-feels-heavy-and-claude-skills-are-light-9b0)
+- [Mantine Compare: A Sleek, Accessible Way to Showcase Before/After in React](https://dev.to/undolog/mantine-compare-a-sleek-accessible-way-to-showcase-beforeafter-in-react-229m)
+- [DeepSeek AI’s Understanding of the Delta Customization Concept — Far Beyond Ordinary Programmers](https://dev.to/canonical/deepseek-ais-understanding-of-the-delta-customization-concept-far-beyond-ordinary-programmers-23op)
+- [Securely Managing GitHub Access on Production Servers](https://dev.to/yousufbasir/securely-managing-github-access-on-production-servers-20l3)
 <!-- BLOG-POST-LIST:END -->
 
