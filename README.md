@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Manual Borsh to LUMOS: A Step-by-Step Guide](https://dev.to/getlumos/migrating-from-manual-borsh-to-lumos-a-step-by-step-guide-444g)
-- [LUMOS + Anchor: The Perfect Combo for Solana Development](https://dev.to/getlumos/lumos-anchor-the-perfect-combo-for-solana-development-472d)
-- [Type-Safe Rust ↔ TypeScript Communication for Solana](https://dev.to/getlumos/type-safe-rust-typescript-communication-for-solana-3nd0)
-- [135. Candy | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/135-candy-leetcode-top-interview-150-coding-questions-1hck)
+- [A beginner&#39;s guide to the Chatterbox-Turbo model by Resemble-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-chatterbox-turbo-model-by-resemble-ai-on-replicate-433l)
+- [Why We Built Authentication Without Accounts, Passwords, or Personal Data](https://dev.to/antonmb/why-we-built-authentication-without-accounts-passwords-or-personal-data-2ij3)
+- [Building my first Kiro Power: PostHog Observability](https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik)
+- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
 <!-- BLOG-POST-LIST:END -->
 
