@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
-- [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
-- [The &quot;GitHub Graveyard&quot; Ends Here: Why Your Next Side Project Should Be a Chrome Extension](https://dev.to/lewisnewman24/the-github-graveyard-ends-here-why-your-next-side-project-should-be-a-chrome-extension-3061)
-- [Shift in the Software Development Paradigm: From Imperative Coding to Solution Architecture and the Economics of AI](https://dev.to/fedor_s_44305e5b02c47b773/shift-in-the-software-development-paradigm-from-imperative-coding-to-solution-architecture-and-the-5g8g)
+- [Scaling Databases with TiDB: AWS Community Day Bangalore 2025](https://dev.to/chandureddy/scaling-databases-with-tidb-aws-community-day-bangalore-2025-56nb)
+- [How to Easily Develop Amazon Integration for Your eCommerce SaaS](https://dev.to/oliinyk/how-to-easily-develop-amazon-integration-for-your-ecommerce-saas-3dkc)
+- [Shopify Frontend Development &amp; Custom Storefronts: The Complete 2026 Guide](https://dev.to/puneetjassal/shopify-frontend-development-custom-storefronts-the-complete-2026-guide-6d4)
+- [Enable HTTPS for Jenkins on SUSE by using Apache httpd Reverse Proxy with Existing SSL Certificate](https://dev.to/andylovecloud/enable-https-for-jenkins-on-suse-by-using-apache-httpd-reverse-proxy-with-existing-ssl-certificate-3hgm)
 <!-- BLOG-POST-LIST:END -->
 
