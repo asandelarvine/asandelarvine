@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Fabric no Ignite 2025: dados como vantagem competitiva, arquitetura como acelerador](https://dev.to/angelo_matias/microsoft-fabric-no-ignite-2025-dados-como-vantagem-competitiva-arquitetura-como-acelerador-55on)
-- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)
-- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
-- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
+- [Caching in WebFlux - GraphQL context, using Caffeine](https://dev.to/bacongubbe/caching-in-webflux-graphql-context-using-caffeine-3dja)
+- [Day 25 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-25-of-documenting-my-learning-journey-1oan)
+- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
+- [Day 24 Of Documenting my Learning Journey](https://dev.to/james_kabuga/day-24-of-documenting-my-learning-journey-1h5m)
 <!-- BLOG-POST-LIST:END -->
 
