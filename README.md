@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# XChainJS Cross-Chain Swap Example &lpar;THORChain&rpar;](https://dev.to/xchainviskor/-xchainjs-cross-chain-swap-example-thorchain-1nc5)
-- [Beyond the Hype: How AI Will Actually Transform Our World by 2030](https://dev.to/shiva_shanker_k/beyond-the-hype-how-ai-will-actually-transform-our-world-by-2030-2lng)
-- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
-- [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://dev.to/paperium/transunet-transformers-make-strong-encoders-for-medical-image-segmentation-422d)
+- [Java + Rust with FFM](https://dev.to/fb64/java-rust-with-ffm-c6k)
+- [🔐 Building an IAM Security Dashboard with Power BI &lpar;Beginner-Friendly Walkthrough&rpar;](https://dev.to/ldwit/building-an-iam-security-dashboard-with-power-bi-beginner-friendly-walkthrough-45hd)
+- [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
+- [Implementing WebSockets in Go using Gorilla WebSocket](https://dev.to/washiulalam/implementing-websockets-in-go-using-gorilla-websocket-43p7)
 <!-- BLOG-POST-LIST:END -->
 
