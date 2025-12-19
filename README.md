@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching in WebFlux - GraphQL context, using Caffeine](https://dev.to/bacongubbe/caching-in-webflux-graphql-context-using-caffeine-3dja)
-- [Day 25 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-25-of-documenting-my-learning-journey-1oan)
-- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
-- [Day 24 Of Documenting my Learning Journey](https://dev.to/james_kabuga/day-24-of-documenting-my-learning-journey-1h5m)
+- [Cutting LLM Expenses and Response Times by 70% Through Bifrost&#39;s Semantic Caching](https://dev.to/debmckinney/cutting-llm-expenses-and-response-times-by-70-through-bifrosts-semantic-caching-d02)
+- [The HotfixHero code Manifesto: Seven Rules to Live By](https://dev.to/hotfixhero/the-hotfixhero-code-manifesto-seven-rules-to-live-by-38a)
+- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
+- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
 <!-- BLOG-POST-LIST:END -->
 
