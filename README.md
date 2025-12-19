@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Is Communication &lpar;And We&#39;re All Terrible At It&rpar;](https://dev.to/aris_georgatos/engineering-is-communication-and-were-all-terrible-at-it-1cfm)
-- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
-- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
-- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
+- [From Network Segmentation to Micro-segmentation on AWS](https://dev.to/irfansatrio/from-network-segmentation-to-micro-segmentation-on-aws-1jc8)
+- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
+- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
+- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
 <!-- BLOG-POST-LIST:END -->
 
