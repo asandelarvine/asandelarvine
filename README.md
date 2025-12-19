@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployment Strategies Visualized](https://dev.to/jp_fontenele4321/deployment-strategies-visualized-k4a)
-- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
-- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
-- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
+- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
+- [Decoding the CAP Theorem: The &quot;Pick Two&quot; Dilemma in Distributed Systems](https://dev.to/an0nxen/decoding-the-cap-theorem-the-pick-two-dilemma-in-distributed-systems-4ha7)
+- [Java on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/java-on-ubuntu-installation-setup-and-first-steps-37nc)
+- [Understanding Download and Upload: A Technical Breakdown for Developers](https://dev.to/izmroen/understanding-download-and-upload-a-technical-breakdown-for-developers-1bp2)
 <!-- BLOG-POST-LIST:END -->
 
