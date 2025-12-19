@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Role-Based Access Control &lpar;RBAC&rpar; in Laravel with a Next.js Frontend](https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g)
-- [Use Angular HostDirective for all of your component facades](https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6)
-- [Docker](https://dev.to/syed_irfan_f0a0a796454b26/docker-bme)
-- [Building ScrapeForge in public starting tomorrow 🚀](https://dev.to/vishwas-batra/building-scrapeforge-in-public-starting-tomorrow-29ki)
+- [Supabase preview environments with Autodock](https://dev.to/mikesol/supabase-preview-environments-with-autodock-1f0l)
+- [Getting Started with Ansible: A Beginner’s Guide](https://dev.to/anushree_gm/getting-started-with-ansible-a-beginners-guide-3deh)
+- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
+- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
 <!-- BLOG-POST-LIST:END -->
 
