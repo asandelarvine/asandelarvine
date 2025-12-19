@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibecoding in Between Meetings: Learning MCP Servers and Building a PoC &lpar; with AWS Kiro&rpar;](https://dev.to/aws-builders/vibecoding-in-between-meetings-learning-mcp-servers-and-building-a-poc-with-aws-kiro-dkm)
-- [Commercn: A UI Component library that speeds up eCommerce Development](https://dev.to/jqueryscript/commercn-a-ui-component-library-that-speeds-up-ecommerce-development-26h5)
-- [My first day with Antigravity](https://dev.to/tomokat/my-first-day-with-antigravity-4jai)
-- [What Is Dependency Injection and How Is It Implemented in Spring?](https://dev.to/realnamehidden1_61/what-is-dependency-injection-and-how-is-it-implemented-in-spring-503g)
+- [How Do You Measure API Performance in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-measure-api-performance-in-apigee-x-3ldo)
+- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
+- [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
+- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
 <!-- BLOG-POST-LIST:END -->
 
