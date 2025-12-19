@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The FM30 hackathon returns: Build a typing speed test!](https://dev.to/frontendmentor/the-fm30-hackathon-returns-build-a-typing-speed-test-22bl)
-- [Designing Cost-Aware AI Inference on AWS: Scaling Models Without Burning Your Cloud Budget](https://dev.to/btanisha11/designing-cost-aware-ai-inference-on-aws-scaling-models-without-burning-your-cloud-budget-5609)
-- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
-- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
+- [Deployment Strategies Visualized](https://dev.to/jp_fontenele4321/deployment-strategies-visualized-k4a)
+- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
+- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
+- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
 <!-- BLOG-POST-LIST:END -->
 
