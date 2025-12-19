@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting LLM Expenses and Response Times by 70% Through Bifrost&#39;s Semantic Caching](https://dev.to/debmckinney/cutting-llm-expenses-and-response-times-by-70-through-bifrosts-semantic-caching-d02)
-- [The HotfixHero code Manifesto: Seven Rules to Live By](https://dev.to/hotfixhero/the-hotfixhero-code-manifesto-seven-rules-to-live-by-38a)
-- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
-- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
+- [Why “99.9% uptime” doesn’t mean your users are fine](https://dev.to/lideroocom/why-999-uptime-doesnt-mean-your-users-are-fine-3bf7)
+- [I Built a $29/mo Alternative to $800 Enterprise Social Listening Tools](https://dev.to/constantquadruped/i-built-a-29mo-alternative-to-800-enterprise-social-listening-tools-19e4)
+- [Streamlining Payroll Management for Federal Contractors](https://dev.to/kapusto/streamlining-payroll-management-for-federal-contractors-3gan)
+- [Skip the Boilerplate: Build Vue 3 SaaS Apps with Ready-Made Clerk Authentication](https://dev.to/ayoub_fedil/skip-the-boilerplate-build-vue-3-saas-apps-with-ready-made-clerk-authentication-3ll6)
 <!-- BLOG-POST-LIST:END -->
 
