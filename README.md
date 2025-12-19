@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase preview environments with Autodock](https://dev.to/mikesol/supabase-preview-environments-with-autodock-1f0l)
-- [Getting Started with Ansible: A Beginner’s Guide](https://dev.to/anushree_gm/getting-started-with-ansible-a-beginners-guide-3deh)
-- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
-- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
+- [Top AI Tools for Productivity in 2025](https://dev.to/_fde76ff2d01974642930b/top-ai-tools-for-productivity-in-2025-356e)
+- [A Simple Tool for Video Conversion and Compression](https://dev.to/curry_lau_9674447236abfc0/a-simple-tool-for-video-conversion-and-compression-4gij)
+- [How to Build a White Label Travel Portal: A Developer&#39;s Guide](https://dev.to/dhiraj_kumar_163e7e663e6e/how-to-build-a-white-label-travel-portal-a-developers-guide-48ig)
+- [What It Takes to Build FinTech Apps That Survive Real User Growth](https://dev.to/mary_andree/what-it-takes-to-build-fintech-apps-that-survive-real-user-growth-2o3)
 <!-- BLOG-POST-LIST:END -->
 
