@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cybersecurity Programming Language in Go &lpar;Cyber+&rpar;](https://dev.to/czax225/i-built-a-cybersecurity-programming-language-in-go-cyber-1jdo)
-- [Building a Client-Side NPM Visualizer: No Servers, Just Vanilla JS and CSS](https://dev.to/sam_th/building-a-client-side-npm-visualizer-no-servers-just-vanilla-js-and-css-3ili)
-- [Why Technical Due Diligence Should Start Before the Term Sheet](https://dev.to/dextralabs/why-technical-due-diligence-should-start-before-the-term-sheet-2n4k)
-- [Best AI Tools for Developers to Boost Productivity in 2026](https://dev.to/del_rosario/best-ai-tools-for-developers-to-boost-productivity-in-2026-3pl8)
+- [The FM30 hackathon returns: Build a typing speed test!](https://dev.to/frontendmentor/the-fm30-hackathon-returns-build-a-typing-speed-test-22bl)
+- [Designing Cost-Aware AI Inference on AWS: Scaling Models Without Burning Your Cloud Budget](https://dev.to/btanisha11/designing-cost-aware-ai-inference-on-aws-scaling-models-without-burning-your-cloud-budget-5609)
+- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
+- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
 <!-- BLOG-POST-LIST:END -->
 
