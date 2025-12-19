@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of 50+ Tabs Open Just for Simple Dev Tasks? I Built a 200+ Free Tools Hub to Fix It](https://dev.to/codere5c/tired-of-50-tabs-open-just-for-simple-dev-tasks-i-built-a-200-free-tools-hub-to-fix-it-5g8a)
-- [Securing Gmail AI Agents against Prompt Injection with Model Armor](https://dev.to/googleworkspace/securing-gmail-ai-agents-against-prompt-injection-with-model-armor-4fo)
-- [Google Workspace Developer Tools MCP Server](https://dev.to/googleworkspace/google-workspace-developer-tools-mcp-server-723)
-- [Google Workspace Developer Tools VS Code Extension](https://dev.to/googleworkspace/google-workspace-developer-tools-vs-code-extension-g6n)
+- [Vibecoding in Between Meetings: Learning MCP Servers and Building a PoC &lpar; with AWS Kiro&rpar;](https://dev.to/aws-builders/vibecoding-in-between-meetings-learning-mcp-servers-and-building-a-poc-with-aws-kiro-dkm)
+- [Commercn: A UI Component library that speeds up eCommerce Development](https://dev.to/jqueryscript/commercn-a-ui-component-library-that-speeds-up-ecommerce-development-26h5)
+- [My first day with Antigravity](https://dev.to/tomokat/my-first-day-with-antigravity-4jai)
+- [What Is Dependency Injection and How Is It Implemented in Spring?](https://dev.to/realnamehidden1_61/what-is-dependency-injection-and-how-is-it-implemented-in-spring-503g)
 <!-- BLOG-POST-LIST:END -->
 
