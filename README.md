@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
-- [Decoding the CAP Theorem: The &quot;Pick Two&quot; Dilemma in Distributed Systems](https://dev.to/an0nxen/decoding-the-cap-theorem-the-pick-two-dilemma-in-distributed-systems-4ha7)
-- [Java on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/java-on-ubuntu-installation-setup-and-first-steps-37nc)
-- [Understanding Download and Upload: A Technical Breakdown for Developers](https://dev.to/izmroen/understanding-download-and-upload-a-technical-breakdown-for-developers-1bp2)
+- [# XChainJS Cross-Chain Swap Example &lpar;THORChain&rpar;](https://dev.to/xchainviskor/-xchainjs-cross-chain-swap-example-thorchain-1nc5)
+- [Beyond the Hype: How AI Will Actually Transform Our World by 2030](https://dev.to/shiva_shanker_k/beyond-the-hype-how-ai-will-actually-transform-our-world-by-2030-2lng)
+- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
+- [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://dev.to/paperium/transunet-transformers-make-strong-encoders-for-medical-image-segmentation-422d)
 <!-- BLOG-POST-LIST:END -->
 
