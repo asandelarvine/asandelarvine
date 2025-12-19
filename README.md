@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL SIDE QUEST - An Immersive story telling SQL Game](https://dev.to/sqlsidequest/sql-side-quest-an-immersive-story-telling-sql-game-4jin)
-- [I Ran Vibe Coding on My Eating Habits. The Results Were Disturbing.](https://dev.to/manoj6543/i-ran-vibe-coding-on-my-eating-habits-the-results-were-disturbing-4lmj)
-- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
-- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
+- [Tired of 50+ Tabs Open Just for Simple Dev Tasks? I Built a 200+ Free Tools Hub to Fix It](https://dev.to/codere5c/tired-of-50-tabs-open-just-for-simple-dev-tasks-i-built-a-200-free-tools-hub-to-fix-it-5g8a)
+- [Securing Gmail AI Agents against Prompt Injection with Model Armor](https://dev.to/googleworkspace/securing-gmail-ai-agents-against-prompt-injection-with-model-armor-4fo)
+- [Google Workspace Developer Tools MCP Server](https://dev.to/googleworkspace/google-workspace-developer-tools-mcp-server-723)
+- [Google Workspace Developer Tools VS Code Extension](https://dev.to/googleworkspace/google-workspace-developer-tools-vs-code-extension-g6n)
 <!-- BLOG-POST-LIST:END -->
 
