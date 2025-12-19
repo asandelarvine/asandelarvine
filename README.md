@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dynamic Seat Layout Rendering in React from Sparse JSON &lpar;BookMyShow/District-style&rpar;](https://dev.to/shubhamverma/building-dynamic-seat-layout-rendering-in-react-from-sparse-json-bookmyshowdistrict-style-2i88)
-- [Mastering Visual Data: Unveiling the Power of Stacked Column Charts](https://dev.to/boldbi/mastering-visual-data-unveiling-the-power-of-stacked-column-charts-94n)
-- [eDgeWrapper Technology: Strategic Positioning and Comprehensive Service Architecture](https://dev.to/member_810218ad/edgewrapper-technology-strategic-positioning-and-comprehensive-service-architecture-c0b)
-- [What Exactly Is a Pressure Transducer?](https://dev.to/ersajay/what-exactly-is-a-pressure-transducer-1dp8)
+- [Engineering Is Communication &lpar;And We&#39;re All Terrible At It&rpar;](https://dev.to/aris_georgatos/engineering-is-communication-and-were-all-terrible-at-it-1cfm)
+- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
+- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
+- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
 <!-- BLOG-POST-LIST:END -->
 
