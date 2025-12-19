@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Network Segmentation to Micro-segmentation on AWS](https://dev.to/irfansatrio/from-network-segmentation-to-micro-segmentation-on-aws-1jc8)
-- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
-- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
-- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
+- [I Built a Cybersecurity Programming Language in Go &lpar;Cyber+&rpar;](https://dev.to/czax225/i-built-a-cybersecurity-programming-language-in-go-cyber-1jdo)
+- [Building a Client-Side NPM Visualizer: No Servers, Just Vanilla JS and CSS](https://dev.to/sam_th/building-a-client-side-npm-visualizer-no-servers-just-vanilla-js-and-css-3ili)
+- [Why Technical Due Diligence Should Start Before the Term Sheet](https://dev.to/dextralabs/why-technical-due-diligence-should-start-before-the-term-sheet-2n4k)
+- [Best AI Tools for Developers to Boost Productivity in 2026](https://dev.to/del_rosario/best-ai-tools-for-developers-to-boost-productivity-in-2026-3pl8)
 <!-- BLOG-POST-LIST:END -->
 
