@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java + Rust with FFM](https://dev.to/fb64/java-rust-with-ffm-c6k)
-- [🔐 Building an IAM Security Dashboard with Power BI &lpar;Beginner-Friendly Walkthrough&rpar;](https://dev.to/ldwit/building-an-iam-security-dashboard-with-power-bi-beginner-friendly-walkthrough-45hd)
-- [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
-- [Implementing WebSockets in Go using Gorilla WebSocket](https://dev.to/washiulalam/implementing-websockets-in-go-using-gorilla-websocket-43p7)
+- [Microsoft Fabric no Ignite 2025: dados como vantagem competitiva, arquitetura como acelerador](https://dev.to/angelo_matias/microsoft-fabric-no-ignite-2025-dados-como-vantagem-competitiva-arquitetura-como-acelerador-55on)
+- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f)
+- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
+- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
 <!-- BLOG-POST-LIST:END -->
 
