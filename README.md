@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
-- [AI Made Me 10x Faster—Here&#39;s What I Had to Change](https://dev.to/imaginex/ai-made-me-10x-faster-heres-what-i-had-to-change-3j91)
-- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
-- [Understanding Dart Class Modifiers by Using Lattices](https://dev.to/modulovalue/understanding-dart-class-modifiers-by-using-lattices-3cl3)
+- [How to Recover AI Coding Mistakes](https://dev.to/ivandotcodes/how-to-recover-ai-coding-mistakes-26lf)
+- [PROJECT : Module Reuse + Outputs Consumption](https://dev.to/jumptotech/project-module-reuse-outputs-consumption-1c4f)
+- [2025-12-19 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-robotics-news-1m46)
+- [Is Multi-Location Scheduling Where Dental PMS Integrations Start to Drift?](https://dev.to/lake22traillady/is-multi-location-scheduling-where-dental-pms-integrations-start-to-drift-4cb2)
 <!-- BLOG-POST-LIST:END -->
 
