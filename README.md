@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My notes on AWS IPAM](https://dev.to/aws-builders/my-notes-on-aws-ipam-4m7a)
-- [Not Everything You See Is an AI](https://dev.to/thevenice/not-everything-you-see-is-an-ai-3m0k)
-- [Prometheus Architecture](https://dev.to/trdevops/prometheus-architecture-425p)
-- [AWS Database Savings Plans: What They Actually Mean for Your Cloud Bill](https://dev.to/rituraj_borah_7d2880b57c2/aws-database-savings-plans-what-they-actually-mean-for-your-cloud-bill-b21)
+- [Mastering Role-Based Access Control &lpar;RBAC&rpar; in Laravel with a Next.js Frontend](https://dev.to/prateekshaweb/mastering-role-based-access-control-rbac-in-laravel-with-a-nextjs-frontend-4i4g)
+- [Use Angular HostDirective for all of your component facades](https://dev.to/romain_geffrault_10d88369/use-angular-hostdirective-for-all-of-your-component-facades-1bo6)
+- [Docker](https://dev.to/syed_irfan_f0a0a796454b26/docker-bme)
+- [Building ScrapeForge in public starting tomorrow 🚀](https://dev.to/vishwas-batra/building-scrapeforge-in-public-starting-tomorrow-29ki)
 <!-- BLOG-POST-LIST:END -->
 
