@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “99.9% uptime” doesn’t mean your users are fine](https://dev.to/lideroocom/why-999-uptime-doesnt-mean-your-users-are-fine-3bf7)
-- [I Built a $29/mo Alternative to $800 Enterprise Social Listening Tools](https://dev.to/constantquadruped/i-built-a-29mo-alternative-to-800-enterprise-social-listening-tools-19e4)
-- [Streamlining Payroll Management for Federal Contractors](https://dev.to/kapusto/streamlining-payroll-management-for-federal-contractors-3gan)
-- [Skip the Boilerplate: Build Vue 3 SaaS Apps with Ready-Made Clerk Authentication](https://dev.to/ayoub_fedil/skip-the-boilerplate-build-vue-3-saas-apps-with-ready-made-clerk-authentication-3ll6)
+- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
+- [AI Made Me 10x Faster—Here&#39;s What I Had to Change](https://dev.to/imaginex/ai-made-me-10x-faster-heres-what-i-had-to-change-3j91)
+- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
+- [Understanding Dart Class Modifiers by Using Lattices](https://dev.to/modulovalue/understanding-dart-class-modifiers-by-using-lattices-3cl3)
 <!-- BLOG-POST-LIST:END -->
 
