@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Chunklet-py: One Library to Split Them All - Sentence, Code, Docs**](https://dev.to/speed_k_7e1b449706e59e433/chunklet-py-one-library-to-split-them-all-sentence-code-docs-2eeg)
-- [MindsEye — Turning AI Activity Into Auditable Organizational Memory](https://dev.to/peacebinflow/mindseye-turning-ai-activity-into-auditable-organizational-memory-1ic3)
-- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f)
-- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh)
+- [The mental checklist I use when troubleshooting Linux servers](https://dev.to/navickas/the-mental-checklist-i-use-when-troubleshooting-linux-servers-2g5d)
+- [Instalando Arch Linux em 2026](https://dev.to/vittor/instalando-arch-linux-em-2026-29mp)
+- [Why We Built a Lightweight Uptime Monitor for Shared Hosting](https://dev.to/weborbiton/why-we-built-a-lightweight-uptime-monitor-for-shared-hosting-215c)
+- [From Lab Notebook to Dashboard: The Scientific Data Lifecycle](https://dev.to/phenixzain/from-lab-notebook-to-dashboard-the-scientific-data-lifecycle-314p)
 <!-- BLOG-POST-LIST:END -->
 
