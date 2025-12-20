@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
-- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
-- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
-- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
+- [The Ultimate Guide to Capturing Leads in Zoho CRM from WordPress &lpar;2025 Edition&rpar;](https://dev.to/affectionate_code/the-ultimate-guide-to-capturing-leads-in-zoho-crm-from-wordpress-2025-edition-37ae)
+- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
+- [[Boost]](https://dev.to/fernandosilvot/-30k4)
 <!-- BLOG-POST-LIST:END -->
 
