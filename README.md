@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
-- [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
-- [Building a Fully Interactive LEGO® Website Concept with Image-Based HTML Elements](https://dev.to/laszlobarath/building-a-fully-interactive-legor-website-concept-with-image-based-html-elements-10fc)
-- [Why Women Should Learn Digital Skills: A Developer’s Perspective Introduction](https://dev.to/careerbytecode/why-women-should-learn-digital-skills-a-developers-perspectiveintroduction-45o5)
+- [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
+- [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
+- [Cover Letter – Front-End Oriented Full-Stack Laravel Developer](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
+- [🔧 yini-cli v1.1.1-beta released](https://dev.to/marko_kseppnen_6250a7f/yini-cli-v111-beta-released-488f)
 <!-- BLOG-POST-LIST:END -->
 
