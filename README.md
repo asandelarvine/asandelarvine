@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Le pouvoir de Babylon js](https://dev.to/florentin_lurot_1a228aa53/le-pouvoir-de-babylon-js-1a4a)
-- [I built LoveToRead.ai – Create personalized children&#39;s books with AI](https://dev.to/maxwell_ai/i-built-lovetoreadai-create-personalized-childrens-books-with-ai-5a5h)
-- [Building My Own Tools &amp; Systems – Feedback Welcome](https://dev.to/rijan_koirala_7771fdb37aa/building-my-own-tools-systems-feedback-welcome-4k4n)
-- [Clean Architecture Design Flow: A Practical Guide to Diagrams That Actually Help](https://dev.to/sherwinwater/clean-architecture-design-flow-a-practical-guide-to-diagrams-that-actually-help-12ke)
+- [Revolutionize Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-4a9i)
+- [[Boost]](https://dev.to/zenithai/-3k18)
+- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
+- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
 <!-- BLOG-POST-LIST:END -->
 
