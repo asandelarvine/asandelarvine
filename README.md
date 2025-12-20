@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Track Spotlight: Building Agentic AI - Amazon Nova Act and Strands Agents in Practice &lpar;DEV327&rpar;](https://dev.to/aws/dev-track-spotlight-building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-dev327-3hbj)
-- [What Is the Impact of Quota and Spike Arrest on Latency in Apigee X?](https://dev.to/realnamehidden1_61/what-is-the-impact-of-quota-and-spike-arrest-on-latency-in-apigee-x-d08)
-- [Day 20 — Incident Response &lpar;The Ambush&rpar;](https://dev.to/aerabi/day-20-incident-response-the-ambush-6a5)
-- [Road of Resilience: Day 4 – Utility for All 🛡️](https://dev.to/auli_takala_d379835856f1f/road-of-resilience-day-4-utility-for-all-5bbc)
+- [We Can&#39;t Write the Perfect Prompt on the First Try — And That&#39;s the Point](https://dev.to/synthaicode_commander/we-cant-write-the-perfect-prompt-on-the-first-try-and-thats-the-point-148b)
+- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
+- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
+- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
 <!-- BLOG-POST-LIST:END -->
 
