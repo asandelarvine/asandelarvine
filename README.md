@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resurrecting Google Reader for the modern web using Kiro](https://dev.to/aws-builders/resurrecting-google-reader-for-the-modern-web-using-kiro-201k)
-- [Toon 1.1.8 — Unlock Complex Nested Array Support for Laravel](https://dev.to/sbsaga/toon-118-unlock-complex-nested-array-support-for-laravel-54kf)
-- [Project Tracker with Laravel 12 + Inertia + Vue &lpar;Starter Kit Walkthrough&rpar;](https://dev.to/blamsa0mine/project-tracker-with-laravel-12-inertia-vue-starter-kit-walkthrough-1gl0)
-- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
+- [AWS&#39;s Mind-Blowing New AI Agent &#39;Kiro&#39; Can Code Autonomously for Days](https://dev.to/muhammad_zeeshan_6499a22a/awss-mind-blowing-new-ai-agent-kiro-can-code-autonomously-for-days-1koo)
+- [🎵 Build a Real-Time Spotify Dashboard with Next.js &lpar;Part 1: The Auth&rpar;](https://dev.to/adityathakekar/build-a-real-time-spotify-dashboard-with-nextjs-part-1-the-auth-297e)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from HumanFeedback](https://dev.to/paperium/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-humanfeedback-2nm5)
+- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
 <!-- BLOG-POST-LIST:END -->
 
