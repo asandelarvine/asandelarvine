@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS&#39;s Mind-Blowing New AI Agent &#39;Kiro&#39; Can Code Autonomously for Days](https://dev.to/muhammad_zeeshan_6499a22a/awss-mind-blowing-new-ai-agent-kiro-can-code-autonomously-for-days-1koo)
-- [🎵 Build a Real-Time Spotify Dashboard with Next.js &lpar;Part 1: The Auth&rpar;](https://dev.to/adityathakekar/build-a-real-time-spotify-dashboard-with-nextjs-part-1-the-auth-297e)
-- [Training a Helpful and Harmless Assistant with Reinforcement Learning from HumanFeedback](https://dev.to/paperium/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-humanfeedback-2nm5)
-- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
+- [Observability-Driven Kubernetes: A Practical EKS Demo](https://dev.to/aws-builders/observability-driven-kubernetes-a-practical-eks-demo-5gjp)
+- [How Creators Can Convert Followers into Subscribers Using VisitFolio](https://dev.to/imtaslim/how-creators-can-convert-followers-into-subscribers-using-visitfolio-pge)
+- [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
 <!-- BLOG-POST-LIST:END -->
 
