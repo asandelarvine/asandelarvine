@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The mental checklist I use when troubleshooting Linux servers](https://dev.to/navickas/the-mental-checklist-i-use-when-troubleshooting-linux-servers-2g5d)
-- [Instalando Arch Linux em 2026](https://dev.to/vittor/instalando-arch-linux-em-2026-29mp)
-- [Why We Built a Lightweight Uptime Monitor for Shared Hosting](https://dev.to/weborbiton/why-we-built-a-lightweight-uptime-monitor-for-shared-hosting-215c)
-- [From Lab Notebook to Dashboard: The Scientific Data Lifecycle](https://dev.to/phenixzain/from-lab-notebook-to-dashboard-the-scientific-data-lifecycle-314p)
+- [Le pouvoir de Babylon js](https://dev.to/florentin_lurot_1a228aa53/le-pouvoir-de-babylon-js-1a4a)
+- [I built LoveToRead.ai – Create personalized children&#39;s books with AI](https://dev.to/maxwell_ai/i-built-lovetoreadai-create-personalized-childrens-books-with-ai-5a5h)
+- [Building My Own Tools &amp; Systems – Feedback Welcome](https://dev.to/rijan_koirala_7771fdb37aa/building-my-own-tools-systems-feedback-welcome-4k4n)
+- [Clean Architecture Design Flow: A Practical Guide to Diagrams That Actually Help](https://dev.to/sherwinwater/clean-architecture-design-flow-a-practical-guide-to-diagrams-that-actually-help-12ke)
 <!-- BLOG-POST-LIST:END -->
 
