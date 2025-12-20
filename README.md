@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Run AI Models Locally, Even on Mid-Tier Laptop](https://dev.to/payamhn/complete-guide-to-run-ai-models-locally-even-on-mid-tier-laptop-212p)
-- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f)
-- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk)
-- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
+- [Bulk Crap Uninstaller: Essential Tool for Clean Windows Environments](https://dev.to/stelixx-insider/bulk-crap-uninstaller-essential-tool-for-clean-windows-environments-3add)
+- [Firefox Not Responding: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/firefox-not-responding-complete-fix-guide-2025-2ao3)
+- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
+- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
 <!-- BLOG-POST-LIST:END -->
 
