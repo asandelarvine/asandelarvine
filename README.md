@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Ads in 2026: The Post-Algorithm Guide to Actually Making Money](https://dev.to/synergistdigitalmedia/reddit-ads-in-2026-the-post-algorithm-guide-to-actually-making-money-4178)
-- [Terraform Providers: Day2 — Explained Super Simply](https://dev.to/amitsinghs98/terraform-providers-day2-explained-super-simply-1nog)
-- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
-- [Mastering Matplotlib: Building Dynamic Bar Charts, Histograms, and Multi-Panel Subplots](https://dev.to/labex/mastering-matplotlib-building-dynamic-bar-charts-histograms-and-multi-panel-subplots-309p)
+- [**Chunklet-py: One Library to Split Them All - Sentence, Code, Docs**](https://dev.to/speed_k_7e1b449706e59e433/chunklet-py-one-library-to-split-them-all-sentence-code-docs-2eeg)
+- [MindsEye — Turning AI Activity Into Auditable Organizational Memory](https://dev.to/peacebinflow/mindseye-turning-ai-activity-into-auditable-organizational-memory-1ic3)
+- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f)
+- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh)
 <!-- BLOG-POST-LIST:END -->
 
