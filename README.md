@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Developer Revenue with Monetzly&#39;s AI Conversation API](https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-4a9i)
-- [[Boost]](https://dev.to/zenithai/-3k18)
-- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
-- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
+- [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
+- [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
+- [Building a Fully Interactive LEGO® Website Concept with Image-Based HTML Elements](https://dev.to/laszlobarath/building-a-fully-interactive-legor-website-concept-with-image-based-html-elements-10fc)
+- [Why Women Should Learn Digital Skills: A Developer’s Perspective Introduction](https://dev.to/careerbytecode/why-women-should-learn-digital-skills-a-developers-perspectiveintroduction-45o5)
 <!-- BLOG-POST-LIST:END -->
 
