@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability-Driven Kubernetes: A Practical EKS Demo](https://dev.to/aws-builders/observability-driven-kubernetes-a-practical-eks-demo-5gjp)
-- [How Creators Can Convert Followers into Subscribers Using VisitFolio](https://dev.to/imtaslim/how-creators-can-convert-followers-into-subscribers-using-visitfolio-pge)
-- [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
+- [Reddit Ads in 2026: The Post-Algorithm Guide to Actually Making Money](https://dev.to/synergistdigitalmedia/reddit-ads-in-2026-the-post-algorithm-guide-to-actually-making-money-4178)
+- [Terraform Providers: Day2 — Explained Super Simply](https://dev.to/amitsinghs98/terraform-providers-day2-explained-super-simply-1nog)
+- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
+- [Mastering Matplotlib: Building Dynamic Bar Charts, Histograms, and Multi-Panel Subplots](https://dev.to/labex/mastering-matplotlib-building-dynamic-bar-charts-histograms-and-multi-panel-subplots-309p)
 <!-- BLOG-POST-LIST:END -->
 
