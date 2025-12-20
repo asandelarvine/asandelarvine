@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals vs RxJS — Do We Still Need Observables?](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-vs-rxjs-do-we-still-need-observables-3of3)
-- [b0nes: The Framework That Actually Fits in Your Head &lpar;Yes, Really&rpar; Or: How I Learned to Stop Worrying and Love Zero Dependencies](https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai)
-- [PowerPoint Borders: A complete step by step Guide to Make Your Slides Look Professional](https://dev.to/dhanusree_v_91cb434a13fdf/powerpoint-borders-a-complete-step-by-step-guide-to-make-your-slides-look-professional-9ip)
-- [Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)
+- [As a Student, I Built a Startup to Answer One Simple Question: Where Can I Watch This Anime?](https://dev.to/001_9d63ca6159a6ea2d617/as-a-student-i-built-a-startup-to-answer-one-simple-question-where-can-i-watch-this-anime-5cbl)
+- [Boost Your LLM Apps: Monetization Strategies with Monetzly&#39;s API](https://dev.to/monetzly/boost-your-llm-apps-monetization-strategies-with-monetzlys-api-2lf9)
+- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
+- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
 <!-- BLOG-POST-LIST:END -->
 
