@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk Crap Uninstaller: Essential Tool for Clean Windows Environments](https://dev.to/stelixx-insider/bulk-crap-uninstaller-essential-tool-for-clean-windows-environments-3add)
-- [Firefox Not Responding: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/firefox-not-responding-complete-fix-guide-2025-2ao3)
-- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
-- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
+- [Resurrecting Google Reader for the modern web using Kiro](https://dev.to/aws-builders/resurrecting-google-reader-for-the-modern-web-using-kiro-201k)
+- [Toon 1.1.8 — Unlock Complex Nested Array Support for Laravel](https://dev.to/sbsaga/toon-118-unlock-complex-nested-array-support-for-laravel-54kf)
+- [Project Tracker with Laravel 12 + Inertia + Vue &lpar;Starter Kit Walkthrough&rpar;](https://dev.to/blamsa0mine/project-tracker-with-laravel-12-inertia-vue-starter-kit-walkthrough-1gl0)
+- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
 <!-- BLOG-POST-LIST:END -->
 
