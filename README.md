@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
-- [The Ultimate Guide to Capturing Leads in Zoho CRM from WordPress &lpar;2025 Edition&rpar;](https://dev.to/affectionate_code/the-ultimate-guide-to-capturing-leads-in-zoho-crm-from-wordpress-2025-edition-37ae)
-- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
-- [[Boost]](https://dev.to/fernandosilvot/-30k4)
+- [Angular Signals vs RxJS — Do We Still Need Observables?](https://dev.to/rohit_singh_ee84e64941db7/angular-signals-vs-rxjs-do-we-still-need-observables-3of3)
+- [b0nes: The Framework That Actually Fits in Your Head &lpar;Yes, Really&rpar; Or: How I Learned to Stop Worrying and Love Zero Dependencies](https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai)
+- [PowerPoint Borders: A complete step by step Guide to Make Your Slides Look Professional](https://dev.to/dhanusree_v_91cb434a13fdf/powerpoint-borders-a-complete-step-by-step-guide-to-make-your-slides-look-professional-9ip)
+- [Boosting Cloud Security with AI: A New Layer of Protection](https://dev.to/mabualzait/boosting-cloud-security-with-ai-a-new-layer-of-protection-jak)
 <!-- BLOG-POST-LIST:END -->
 
