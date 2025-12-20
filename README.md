@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Can&#39;t Write the Perfect Prompt on the First Try — And That&#39;s the Point](https://dev.to/synthaicode_commander/we-cant-write-the-perfect-prompt-on-the-first-try-and-thats-the-point-148b)
-- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
-- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
-- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
+- [Complete Guide to Run AI Models Locally, Even on Mid-Tier Laptop](https://dev.to/payamhn/complete-guide-to-run-ai-models-locally-even-on-mid-tier-laptop-212p)
+- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f)
+- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk)
+- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
 <!-- BLOG-POST-LIST:END -->
 
