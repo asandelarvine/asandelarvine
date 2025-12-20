@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover AI Coding Mistakes](https://dev.to/ivandotcodes/how-to-recover-ai-coding-mistakes-26lf)
-- [PROJECT : Module Reuse + Outputs Consumption](https://dev.to/jumptotech/project-module-reuse-outputs-consumption-1c4f)
-- [2025-12-19 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-robotics-news-1m46)
-- [Is Multi-Location Scheduling Where Dental PMS Integrations Start to Drift?](https://dev.to/lake22traillady/is-multi-location-scheduling-where-dental-pms-integrations-start-to-drift-4cb2)
+- [Secure Secrets in Google Apps Script](https://dev.to/googleworkspace/secure-secrets-in-google-apps-script-1dhc)
+- [AI without the hype: using LLMs to reduce noise, not replace thinking](https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko)
+- [Why Emstrata is the Best AI Storytelling App](https://dev.to/goldsteinnick/why-emstrata-is-the-best-ai-storytelling-app-gp5)
+- [Chapter 1: Introduction to NautilusTrader](https://dev.to/henry_lin_3ac6363747f45b4/chapter-1-introduction-to-nautilustrader-5552)
 <!-- BLOG-POST-LIST:END -->
 
