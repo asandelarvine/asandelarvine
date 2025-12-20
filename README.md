@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built svg4.ru — a high-performance SVG icons platform on Laravel 12](https://dev.to/bau_59/i-built-svg4ru-a-high-performance-svg-icons-platform-on-laravel-12-1h32)
-- [Cloud Computing – Complete Overview](https://dev.to/omkarsharma2821/cloud-computing-complete-overview-2o35)
-- [Beyond the PDF: Law as an Architectural Layer in the Modern Tech Stack](https://dev.to/avsercankoc/beyond-the-pdf-law-as-an-architectural-layer-in-the-modern-tech-stack-38eg)
-- [Life Insurance Premiums: 9 Key Factors That Raise or Lower Your Cost &lpar;Simple Guide&rpar;](https://dev.to/sadiq123/life-insurance-premiums-9-key-factors-that-raise-or-lower-your-cost-simple-guide-k95)
+- [How to Know When to Use a Hash Map in Coding Interviews: A Pattern Recognition Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-to-use-a-hash-map-in-coding-interviews-a-pattern-recognition-guide-3437)
+- [Your Tech Stack Is Limiting Your Creativity](https://dev.to/dbzero/your-tech-stack-is-limiting-your-creativity-p2l)
+- [Your Restaurant Is a Distributed System With an Unbounded Queue](https://dev.to/rohit_rajak_71c5ba74e4ec3/your-restaurant-is-a-distributed-system-with-an-unbounded-queue-160h)
+- [I Built SoftLA: A Software-Only Logic Analyzer for UART &amp; I2C Debugging &lpar;No Hardware Required&rpar;](https://dev.to/manish112233/i-built-softla-a-software-only-logic-analyzer-for-uart-i2c-debugging-no-hardware-required-1n5c)
 <!-- BLOG-POST-LIST:END -->
 
