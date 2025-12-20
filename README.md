@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Secrets in Google Apps Script](https://dev.to/googleworkspace/secure-secrets-in-google-apps-script-1dhc)
-- [AI without the hype: using LLMs to reduce noise, not replace thinking](https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko)
-- [Why Emstrata is the Best AI Storytelling App](https://dev.to/goldsteinnick/why-emstrata-is-the-best-ai-storytelling-app-gp5)
-- [Chapter 1: Introduction to NautilusTrader](https://dev.to/henry_lin_3ac6363747f45b4/chapter-1-introduction-to-nautilustrader-5552)
+- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
+- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
+- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
+- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
 <!-- BLOG-POST-LIST:END -->
 
