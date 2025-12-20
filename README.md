@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Know When to Use a Hash Map in Coding Interviews: A Pattern Recognition Guide](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-to-use-a-hash-map-in-coding-interviews-a-pattern-recognition-guide-3437)
-- [Your Tech Stack Is Limiting Your Creativity](https://dev.to/dbzero/your-tech-stack-is-limiting-your-creativity-p2l)
-- [Your Restaurant Is a Distributed System With an Unbounded Queue](https://dev.to/rohit_rajak_71c5ba74e4ec3/your-restaurant-is-a-distributed-system-with-an-unbounded-queue-160h)
-- [I Built SoftLA: A Software-Only Logic Analyzer for UART &amp; I2C Debugging &lpar;No Hardware Required&rpar;](https://dev.to/manish112233/i-built-softla-a-software-only-logic-analyzer-for-uart-i2c-debugging-no-hardware-required-1n5c)
+- [DEV Track Spotlight: Building Agentic AI - Amazon Nova Act and Strands Agents in Practice &lpar;DEV327&rpar;](https://dev.to/aws/dev-track-spotlight-building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-dev327-3hbj)
+- [What Is the Impact of Quota and Spike Arrest on Latency in Apigee X?](https://dev.to/realnamehidden1_61/what-is-the-impact-of-quota-and-spike-arrest-on-latency-in-apigee-x-d08)
+- [Day 20 — Incident Response &lpar;The Ambush&rpar;](https://dev.to/aerabi/day-20-incident-response-the-ambush-6a5)
+- [Road of Resilience: Day 4 – Utility for All 🛡️](https://dev.to/auli_takala_d379835856f1f/road-of-resilience-day-4-utility-for-all-5bbc)
 <!-- BLOG-POST-LIST:END -->
 
