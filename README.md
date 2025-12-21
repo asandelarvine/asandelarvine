@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Gemini-Vega&quot; Validation](https://dev.to/frank_vega_987689489099bf/the-gemini-vega-validation-27i2)
-- [How to Rank on ChatGPT: LLM Visibility Strategies for B2B SaaS](https://dev.to/infrasity-learning/how-to-rank-on-chatgpt-llm-visibility-strategies-for-b2b-saas-3blj)
-- [☁️ -AWS Storage File Gateway-](https://dev.to/mohamed_benali_70972ddcc/-aws-storage-file-gateway--1115)
-- [The 31-Hour Discovery That Changed Everything](https://dev.to/tracksimple/the-31-hour-discovery-that-changed-everything-ae6)
+- [#1 Cloud &amp; Coffee - AWS UG Medan](https://dev.to/aws-builders/1-cloud-coffee-aws-ug-medan-on3)
+- [Coding a startup - Defining OMX nodes](https://dev.to/idevbrandon/coding-a-startup-defining-omx-nodes-4li2)
+- [Fanout at Scale: Push vs. Pull Strategies in Distributed Systems](https://dev.to/ahsanfarooq210/fanout-at-scale-push-vs-pull-strategies-in-distributed-systems-228l)
+- [Deep dive Tainted Grail [4] - MipMaps streaming](https://dev.to/kamilvdono/deep-dive-tainted-grail-4-mipmaps-streaming-1aj3)
 <!-- BLOG-POST-LIST:END -->
 
