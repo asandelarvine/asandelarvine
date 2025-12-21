@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Java &amp; Maven for Spring Boot – Step-by-Step Guide](https://dev.to/tejas_agravat_1a781f196b0/setting-up-java-maven-for-spring-boot-step-by-step-guide-5dn)
-- [Boosting Data Science Velocity with Google AI Studio: 4 Essential Tips](https://dev.to/mabualzait/boosting-data-science-velocity-with-google-ai-studio-4-essential-tips-2de0)
-- [Outil de Cybersécurité du Jour - Dec 21, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-21-2025-55je)
-- [Digital Identity Verification for Banks &amp; NBFCs](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-nbfcs-3kc7)
+- [Bringing Rockbox&#39;s Legendary Audio Engine to the Modern Desktop: A Native Port for Linux and macOS](https://dev.to/tsirysndr/bringing-rockboxs-legendary-audio-engine-to-the-modern-desktop-a-native-port-for-linux-and-macos-4hih)
+- [Unveiling the Power of Support Vector Machines in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-support-vector-machines-in-machine-learning-2p32)
+- [Why Static Credit Scoring Fails in Modern FinTech Platforms](https://dev.to/turalmu95150474/why-static-credit-scoring-fails-in-modern-fintech-platforms-57ni)
+- [Soft Actor-Critic Algorithms and Applications](https://dev.to/paperium/soft-actor-critic-algorithms-and-applications-49)
 <!-- BLOG-POST-LIST:END -->
 
