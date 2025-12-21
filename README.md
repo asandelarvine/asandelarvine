@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Steam in a Distrobox Container With x86-64-v3 Power Boost!](https://dev.to/archerallstars/install-steam-in-a-distrobox-container-with-x86-64-v3-power-boost-2am0)
-- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
-- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
-- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
+- [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
+- [How I Stopped Mixing Personal and Work GitHub Accounts](https://dev.to/adriandarian/how-i-stopped-mixing-personal-and-work-github-accounts-4c2j)
+- [Pixon: A Fast, Native Image Processing Command-Line Tool](https://dev.to/sudiplahiri3123alt/pixon-a-fast-native-image-processing-command-line-tool-cdh)
+- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
 <!-- BLOG-POST-LIST:END -->
 
