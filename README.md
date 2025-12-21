@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
-- [Digler — Open-Source Disk Forensics and File Recovery Tool](https://dev.to/bitwiserokos/digler-open-source-disk-forensics-and-file-recovery-tool-3nb)
-- [Made a free online mouse tester — check for double-click faults, polling rate, CPS, and all button functions &lpar;no install needed&rpar;](https://dev.to/liu_panfeng_bd95c90da9906/made-a-free-online-mouse-tester-check-for-double-click-faults-polling-rate-cps-and-all-button-kog)
-- [The Tradeoffs Behind AI Agents](https://dev.to/aminboutarfi/the-tradeoffs-behind-ai-agents-1135)
+- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-jha)
+- [The Future of AI Monetization: Exploring Monetzly for Developers](https://dev.to/monetzly/the-future-of-ai-monetization-exploring-monetzly-for-developers-21p7)
+- [Gold Rates](https://dev.to/preetha_vaishnavi_2b82358/gold-rates-2f7j)
+- [Why Scrapy Gets Blocked But Python Requests Works &lpar;And How to Fix It&rpar;](https://dev.to/ikram_khan/why-scrapy-gets-blocked-but-python-requests-works-and-how-to-fix-it-1jhj)
 <!-- BLOG-POST-LIST:END -->
 
