@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Rockbox&#39;s Legendary Audio Engine to the Modern Desktop: A Native Port for Linux and macOS](https://dev.to/tsirysndr/bringing-rockboxs-legendary-audio-engine-to-the-modern-desktop-a-native-port-for-linux-and-macos-4hih)
-- [Unveiling the Power of Support Vector Machines in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-support-vector-machines-in-machine-learning-2p32)
-- [Why Static Credit Scoring Fails in Modern FinTech Platforms](https://dev.to/turalmu95150474/why-static-credit-scoring-fails-in-modern-fintech-platforms-57ni)
-- [Soft Actor-Critic Algorithms and Applications](https://dev.to/paperium/soft-actor-critic-algorithms-and-applications-49)
+- [The &quot;Gemini-Vega&quot; Validation](https://dev.to/frank_vega_987689489099bf/the-gemini-vega-validation-27i2)
+- [How to Rank on ChatGPT: LLM Visibility Strategies for B2B SaaS](https://dev.to/infrasity-learning/how-to-rank-on-chatgpt-llm-visibility-strategies-for-b2b-saas-3blj)
+- [☁️ -AWS Storage File Gateway-](https://dev.to/mohamed_benali_70972ddcc/-aws-storage-file-gateway--1115)
+- [The 31-Hour Discovery That Changed Everything](https://dev.to/tracksimple/the-31-hour-discovery-that-changed-everything-ae6)
 <!-- BLOG-POST-LIST:END -->
 
