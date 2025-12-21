@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching APM providers without the headache](https://dev.to/rodrigonbarreto/switching-apm-providers-without-the-headache-4gh2)
-- [Trocando de APM sem dor de cabeça](https://dev.to/rodrigonbarreto/trocando-de-apm-sem-dor-de-cabeca-ld7)
-- [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
-- [Your Job Search is a Legacy System. Here’s How to Refactor It &lpar;2026 Edition&rpar;](https://dev.to/careerswift/your-job-search-is-a-legacy-system-heres-how-to-refactor-it-2026-edition-2hm6)
+- [This year, commuting again brought back something I had missed: time to listen. 🎧
+
+I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
+- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
+- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
+- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
 <!-- BLOG-POST-LIST:END -->
 
