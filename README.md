@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost a Week to a Physics Bug in a Multiplayer Golf Game](https://dev.to/asaleg/i-lost-a-week-to-a-physics-bug-in-a-multiplayer-golf-game-2f4d)
-- [RGB text](https://dev.to/preetha_vaishnavi_2b82358/rgb-text-50k8)
-- [Understanding AWS Costs in Practice: Billing Behavior, Pricing Models, and Optimization Patterns](https://dev.to/manishpcp/understanding-aws-costs-in-practice-billing-behavior-pricing-models-and-optimization-patterns-16ed)
-- [Carific.ai: Building a Flicker-Free PDF Viewer with React - The Dual-Document Pattern](https://dev.to/abdullahjan/carificai-building-a-flicker-free-pdf-viewer-with-react-the-dual-document-pattern-3p5a)
+- [Weekly Salary Calculator -In line JavaScript](https://dev.to/preetha_vaishnavi_2b82358/weekly-salary-calculator-in-line-javascript-fjl)
+- [For my love](https://dev.to/ariel_sanchez_86fa0ce586b/for-my-love-15l3)
+- [“Vibe Coding — The Future of AI-Driven Development”](https://dev.to/isocyanideisgood/vibe-coding-the-future-of-ai-driven-development-502f)
+- [Your Career, Onchain: Building a Resume Protocol with Purpose and Trust](https://dev.to/binnadev/your-career-onchain-building-a-resume-protocol-with-purpose-and-trust-3p67)
 <!-- BLOG-POST-LIST:END -->
 
