@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
-- [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
-- [Cover Letter – Front-End Oriented Full-Stack Laravel Developer](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
-- [🔧 yini-cli v1.1.1-beta released](https://dev.to/marko_kseppnen_6250a7f/yini-cli-v111-beta-released-488f)
+- [Day 2 building ScrapeForge 🛠️](https://dev.to/vishwas-batra/day-2-building-scrapeforge-2dia)
+- [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with DeepLearning](https://dev.to/paperium/chexnet-radiologist-level-pneumonia-detection-on-chest-x-rays-with-deeplearning-1jc1)
+- [System Design Interview: Autocomplete / Type-ahead System &lpar;Final Part&rpar;](https://dev.to/zeeshanali0704/system-design-interview-autocomplete-type-ahead-system-final-part-238c)
+- [AI&#39;s pervasive influence drives memory shortages, shapes search engines, and refines creative tools.](https://dev.to/stelixx-insights/ais-pervasive-influence-drives-memory-shortages-shapes-search-engines-and-refines-creative-tools-27ek)
 <!-- BLOG-POST-LIST:END -->
 
