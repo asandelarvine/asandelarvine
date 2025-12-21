@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
-- [How I Stopped Mixing Personal and Work GitHub Accounts](https://dev.to/adriandarian/how-i-stopped-mixing-personal-and-work-github-accounts-4c2j)
-- [Pixon: A Fast, Native Image Processing Command-Line Tool](https://dev.to/sudiplahiri3123alt/pixon-a-fast-native-image-processing-command-line-tool-cdh)
-- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
+- [Setting Up Java &amp; Maven for Spring Boot – Step-by-Step Guide](https://dev.to/tejas_agravat_1a781f196b0/setting-up-java-maven-for-spring-boot-step-by-step-guide-5dn)
+- [Boosting Data Science Velocity with Google AI Studio: 4 Essential Tips](https://dev.to/mabualzait/boosting-data-science-velocity-with-google-ai-studio-4-essential-tips-2de0)
+- [Outil de Cybersécurité du Jour - Dec 21, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-21-2025-55je)
+- [Digital Identity Verification for Banks &amp; NBFCs](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-nbfcs-3kc7)
 <!-- BLOG-POST-LIST:END -->
 
