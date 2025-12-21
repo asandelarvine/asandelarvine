@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-jha)
-- [The Future of AI Monetization: Exploring Monetzly for Developers](https://dev.to/monetzly/the-future-of-ai-monetization-exploring-monetzly-for-developers-21p7)
-- [Gold Rates](https://dev.to/preetha_vaishnavi_2b82358/gold-rates-2f7j)
-- [Why Scrapy Gets Blocked But Python Requests Works &lpar;And How to Fix It&rpar;](https://dev.to/ikram_khan/why-scrapy-gets-blocked-but-python-requests-works-and-how-to-fix-it-1jhj)
+- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
+- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
+- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
+- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
 <!-- BLOG-POST-LIST:END -->
 
