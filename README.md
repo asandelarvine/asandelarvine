@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Salary Calculator -In line JavaScript](https://dev.to/preetha_vaishnavi_2b82358/weekly-salary-calculator-in-line-javascript-fjl)
-- [For my love](https://dev.to/ariel_sanchez_86fa0ce586b/for-my-love-15l3)
-- [“Vibe Coding — The Future of AI-Driven Development”](https://dev.to/isocyanideisgood/vibe-coding-the-future-of-ai-driven-development-502f)
-- [Your Career, Onchain: Building a Resume Protocol with Purpose and Trust](https://dev.to/binnadev/your-career-onchain-building-a-resume-protocol-with-purpose-and-trust-3p67)
+- [Optimizing Integer-Constrained Circle Packing using Differential Evolution in Python.](https://dev.to/astrophelverse/optimizing-integer-constrained-circle-packing-using-differential-evolution-in-python-1ad9)
+- [NitroGen — Vision-to-Action Game AI](https://dev.to/xchainviskor/nitrogen-vision-to-action-game-ai-5aea)
+- [Explain the Relationship Between API Proxy API Product App Developer in Apigee X](https://dev.to/realnamehidden1_61/explain-the-relationship-between-api-proxy-api-product-app-developer-in-apigee-x-27a4)
+- [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/this-is-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
 <!-- BLOG-POST-LIST:END -->
 
