@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Integer-Constrained Circle Packing using Differential Evolution in Python.](https://dev.to/astrophelverse/optimizing-integer-constrained-circle-packing-using-differential-evolution-in-python-1ad9)
-- [NitroGen — Vision-to-Action Game AI](https://dev.to/xchainviskor/nitrogen-vision-to-action-game-ai-5aea)
-- [Explain the Relationship Between API Proxy API Product App Developer in Apigee X](https://dev.to/realnamehidden1_61/explain-the-relationship-between-api-proxy-api-product-app-developer-in-apigee-x-27a4)
-- [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/this-is-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
+- [Styling by Language: Using the lang Attribute for Multilingual Design](https://dev.to/yuridevat/styling-by-language-using-the-lang-attribute-for-multilingual-design-1087)
+- [Digler — Open-Source Disk Forensics and File Recovery Tool](https://dev.to/bitwiserokos/digler-open-source-disk-forensics-and-file-recovery-tool-3nb)
+- [Made a free online mouse tester — check for double-click faults, polling rate, CPS, and all button functions &lpar;no install needed&rpar;](https://dev.to/liu_panfeng_bd95c90da9906/made-a-free-online-mouse-tester-check-for-double-click-faults-polling-rate-cps-and-all-button-kog)
+- [The Tradeoffs Behind AI Agents](https://dev.to/aminboutarfi/the-tradeoffs-behind-ai-agents-1135)
 <!-- BLOG-POST-LIST:END -->
 
