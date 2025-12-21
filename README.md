@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an iOS app that turns Mandalart &lpar;9x9&rpar; into GTD Actions &lpar;v1.0&rpar;](https://dev.to/marcus_jh/i-built-an-ios-app-that-turns-mandalart-9x9-into-gtd-actions-v10-1586)
-- [Exploring the Concept of &#39;The Ghost in the Machine&#39;](https://dev.to/gandolfslayer/exploring-the-concept-of-the-ghost-in-the-machine-35h6)
-- [Why AI Startups Need to Focus on Distribution Before Disruption](https://dev.to/jaideepparashar/why-ai-startups-need-to-focus-on-distribution-before-disruption-569a)
-- [RAG Evaluation Metrics: Measuring What Actually Matters](https://dev.to/qvfagundes/rag-evaluation-metrics-measuring-what-actually-matters-gnk)
+- [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
+- [🛠 Local LLM Ops 2025: A Developer&#39;s Guide to Running Pocket-Sized Neural Networks](https://dev.to/lag_lagendary/local-llm-ops-2025-a-developers-guide-to-running-pocket-sized-neural-networks-4djo)
+- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
+- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
 <!-- BLOG-POST-LIST:END -->
 
