@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 building ScrapeForge 🛠️](https://dev.to/vishwas-batra/day-2-building-scrapeforge-2dia)
-- [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with DeepLearning](https://dev.to/paperium/chexnet-radiologist-level-pneumonia-detection-on-chest-x-rays-with-deeplearning-1jc1)
-- [System Design Interview: Autocomplete / Type-ahead System &lpar;Final Part&rpar;](https://dev.to/zeeshanali0704/system-design-interview-autocomplete-type-ahead-system-final-part-238c)
-- [AI&#39;s pervasive influence drives memory shortages, shapes search engines, and refines creative tools.](https://dev.to/stelixx-insights/ais-pervasive-influence-drives-memory-shortages-shapes-search-engines-and-refines-creative-tools-27ek)
+- [I built an iOS app that turns Mandalart &lpar;9x9&rpar; into GTD Actions &lpar;v1.0&rpar;](https://dev.to/marcus_jh/i-built-an-ios-app-that-turns-mandalart-9x9-into-gtd-actions-v10-1586)
+- [Exploring the Concept of &#39;The Ghost in the Machine&#39;](https://dev.to/gandolfslayer/exploring-the-concept-of-the-ghost-in-the-machine-35h6)
+- [Why AI Startups Need to Focus on Distribution Before Disruption](https://dev.to/jaideepparashar/why-ai-startups-need-to-focus-on-distribution-before-disruption-569a)
+- [RAG Evaluation Metrics: Measuring What Actually Matters](https://dev.to/qvfagundes/rag-evaluation-metrics-measuring-what-actually-matters-gnk)
 <!-- BLOG-POST-LIST:END -->
 
