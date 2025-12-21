@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
-- [🛠 Local LLM Ops 2025: A Developer&#39;s Guide to Running Pocket-Sized Neural Networks](https://dev.to/lag_lagendary/local-llm-ops-2025-a-developers-guide-to-running-pocket-sized-neural-networks-4djo)
-- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
-- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
+- [The Missing Dot and the Birth of My First Search Engine](https://dev.to/fayzakseo/the-missing-dot-and-the-birth-of-my-first-search-engine-4fie)
+- [Fixing WebView2 Issues in Linux Bottles: How I Got It Working](https://dev.to/lionthehoon/fixing-webview2-issues-in-linux-bottles-how-i-got-it-working-1ab6)
+- [I Got Shadowbanned 12 Times Launching My Developer Tool](https://dev.to/mobin_poursalami_f30352a2/i-got-shadowbanned-12-times-launching-my-developer-tool-4jj)
+- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
 <!-- BLOG-POST-LIST:END -->
 
