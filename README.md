@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Dot and the Birth of My First Search Engine](https://dev.to/fayzakseo/the-missing-dot-and-the-birth-of-my-first-search-engine-4fie)
-- [Fixing WebView2 Issues in Linux Bottles: How I Got It Working](https://dev.to/lionthehoon/fixing-webview2-issues-in-linux-bottles-how-i-got-it-working-1ab6)
-- [I Got Shadowbanned 12 Times Launching My Developer Tool](https://dev.to/mobin_poursalami_f30352a2/i-got-shadowbanned-12-times-launching-my-developer-tool-4jj)
-- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
+- [Install Steam in a Distrobox Container With x86-64-v3 Power Boost!](https://dev.to/archerallstars/install-steam-in-a-distrobox-container-with-x86-64-v3-power-boost-2am0)
+- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
+- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
+- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
 <!-- BLOG-POST-LIST:END -->
 
