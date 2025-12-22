@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This year, commuting again brought back something I had missed: time to listen. 🎧
-
-I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
-- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
-- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
-- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [AI Sycophancy: Is AI Too Nice?](https://dev.to/evanmorris/ai-sycophancy-is-ai-too-nice-4pda)
+- [Why You Can&#39;t &quot;Manage&quot; Code You Don&#39;t Understand](https://dev.to/ttoss/why-you-cant-manage-code-you-dont-understand-4idd)
+- [Code Mode Doesn&#39;t Replace MCP &lpar;Here&#39;s What It Actually Does&rpar;](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
+- [SwiftUI Rendering Pipeline Explained](https://dev.to/sebastienlato/swiftui-rendering-pipeline-explained-3m5h)
 <!-- BLOG-POST-LIST:END -->
 
