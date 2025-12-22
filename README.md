@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG based agent using DronaHQ](https://dev.to/gayatrisachdev1/building-a-rag-based-agent-using-dronahq-59n7)
-- [5 APIs for Developers to Integrate In-App Content Creation Functionality](https://dev.to/joywinter90/5-apis-for-developers-to-integrate-in-app-content-creation-functionality-46gb)
-- [Building Context-Aware Agents with LangGraph](https://dev.to/richard_abishai/building-context-aware-agents-with-langgraph-c2a)
-- [Reverse a List &lpar;without using reverse&lpar;&rpar;&rpar;](https://dev.to/highcenburg/reverse-a-list-without-using-reverse-14o3)
+- [Cuando mi LLM aprendió a tener prisa, diagnóstico y contención del sesgo agéntico](https://dev.to/jjdelcerro/cuando-mi-llm-aprendio-a-tener-prisa-diagnostico-y-contencion-del-sesgo-agentico-i07)
+- [Why I’m building a Windows-first emotional AI assistant &lpar;lessons so far&rpar;](https://dev.to/anna2612/why-im-building-a-windows-first-emotional-ai-assistant-lessons-so-far-1iii)
+- [Building a scalable multi-bucket load balancer for Cloudflare R2](https://dev.to/image2url/building-a-scalable-multi-bucket-load-balancer-for-cloudflare-r2-920)
+- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
 <!-- BLOG-POST-LIST:END -->
 
