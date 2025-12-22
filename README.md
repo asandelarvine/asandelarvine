@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Joshua-Paul Meme Generator](https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f)
-- [Just removed the login wall from my app based on feedback](https://dev.to/superhuang2/just-removed-the-login-wall-from-my-app-based-on-feedback-49j)
-- [Paging the data](https://dev.to/tudor96stani/paging-the-data-1hlf)
-- [100 Web Development Jokes](https://dev.to/alvaromontoro/100-web-development-jokes-1b03)
+- [Reflections on building my first LangGraph project](https://dev.to/juhapellotsalo/reflections-on-building-my-first-langgraph-project-3b6j)
+- [Docker Environment Composer Local Package Development Tips](https://dev.to/mesak/docker-environment-composer-local-package-development-tips-13a7)
+- [Building Multi-Tenant SaaS as a Solo Developer](https://dev.to/pipipi-dev/building-multi-tenant-saas-as-a-solo-developer-1pi9)
+- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
 <!-- BLOG-POST-LIST:END -->
 
