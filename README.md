@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Abstract Classes vs Interfaces in C# — A Deep, Real‑World Comparison](https://dev.to/cristiansifuentes/abstract-classes-vs-interfaces-in-c-a-deep-real-world-comparison-2593)
-- [Classes in C#: From First Principles to Architectural Mastery *An artist–scientist guide to object-oriented design in modern C#](https://dev.to/cristiansifuentes/classes-in-c-from-first-principles-to-architectural-mastery-an-artist-scientist-guide-to-odj)
-- [Day 1 with Docker](https://dev.to/chandraa007b/day-1-with-docker-2enm)
-- [Google Cloud Course: Build a Successful Cloud Career with Online IT Guru](https://dev.to/vijay_indhuri_aadec6c369b/google-cloud-course-build-a-successful-cloud-career-with-online-it-guru-d4i)
+- [Questionnaire Made Easy – with IRIS, FHIR SQL Builder, and Vector Search](https://dev.to/intersystems/questionnaire-made-easy-with-iris-fhir-sql-builder-and-vector-search-ihe)
+- [I don&#39;t trust password managers. So I built one.](https://dev.to/dineshgit17/i-dont-trust-password-managers-so-i-built-one-88k)
+- [Seamless SDK Integration: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/seamless-sdk-integration-monetizing-ai-conversations-with-monetzly-4aad)
+- [Learning Databases from the Ground Up: Disks and Blocks](https://dev.to/lovestaco/learning-databases-from-the-ground-up-disks-and-blocks-1661)
 <!-- BLOG-POST-LIST:END -->
 
