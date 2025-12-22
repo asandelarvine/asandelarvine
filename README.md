@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Multiprocessor Mindset: Safety vs. Liveness &lpar;A Beginner’s Guide&rpar;](https://dev.to/jadeoti/the-multiprocessor-mindset-safety-vs-liveness-a-beginners-guide-1l9i)
-- [Hello DEV! My first step here 🚀](https://dev.to/mukitaro/hello-dev-my-first-step-here-55nd)
-- [From Arrival to Delivery: A Connected Future for Tank Farm Operations](https://dev.to/kunal_jethithor_3e05ad92e/from-arrival-to-delivery-a-connected-future-for-tank-farmoperations-3o1)
-- [What Should I Practice Before Attempting Dynamic Programming Problems?](https://dev.to/alex_hunter_44f4c9ed6671e/what-should-i-practice-before-attempting-dynamic-programming-problems-5ba9)
+- [How to Programmatically Fill a PDF Form with Raw JavaScript &lpar;The Easy Way&rpar;](https://dev.to/joyfill/how-to-programmatically-fill-a-pdf-form-with-raw-javascript-the-easy-way-1lj5)
+- [Day 72: Python Sliding Window Maximum - Deque O&lpar;n&rpar; Solution for Efficient Max Tracking &lpar;LeetCode #239 Guide&rpar;](https://dev.to/shahrouzlogs/day-72-python-sliding-window-maximum-deque-on-solution-for-efficient-max-tracking-leetcode-1f2i)
+- [Meta-Authors Note: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicles-12kh)
+- [Microservices Communication Patterns: When to Use REST, gRPC, or Message Queues](https://dev.to/benyusouf/microservices-communication-patterns-when-to-use-rest-grpc-or-message-queues-2dl4)
 <!-- BLOG-POST-LIST:END -->
 
