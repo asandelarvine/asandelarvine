@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Questionnaire Made Easy – with IRIS, FHIR SQL Builder, and Vector Search](https://dev.to/intersystems/questionnaire-made-easy-with-iris-fhir-sql-builder-and-vector-search-ihe)
-- [I don&#39;t trust password managers. So I built one.](https://dev.to/dineshgit17/i-dont-trust-password-managers-so-i-built-one-88k)
-- [Seamless SDK Integration: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/seamless-sdk-integration-monetizing-ai-conversations-with-monetzly-4aad)
-- [Learning Databases from the Ground Up: Disks and Blocks](https://dev.to/lovestaco/learning-databases-from-the-ground-up-disks-and-blocks-1661)
+- [Another ETL: Night Lift Tickets](https://dev.to/garciadiazjaime/another-etl-night-lift-tickets-m31)
+- [Context Rot: Why AI Forgets Your Perfect Prompts](https://dev.to/knmeiss/context-rot-why-ai-forgets-your-perfect-prompts-41hn)
+- [Gonzo: An Open-Source Terminal UI That&#39;s Changing How I Analyze Logs](https://dev.to/discoposse/gonzo-an-open-source-terminal-ui-thats-changing-how-i-analyze-logs-3h40)
+- [Ethereum-Solidity Quiz Q1: What is fuzzing?](https://dev.to/mihaihng/e-s-quiz-q1-what-is-fuzzing-in-web3-4114)
 <!-- BLOG-POST-LIST:END -->
 
