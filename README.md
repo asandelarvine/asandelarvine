@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Spoken English: The Journey from Silence to Confidence](https://dev.to/abdulla_a_0ae0233ce47ec5c/-spoken-english-the-journey-from-silence-to-confidence-3b92)
-- [Aerospace Inspection as Risk Management in Aviation](https://dev.to/amrepinspect/aerospace-inspection-as-risk-management-in-aviation-1fd5)
-- [10 Simple Ways People Celebrate Christmas Day at Home](https://dev.to/arzoo/10-simple-ways-people-celebrate-christmas-day-at-home-30l9)
-- [checkout this article on Path Analysis Using R: Concepts, Origins, Applications, and Case Studies](https://dev.to/dipti26810/checkout-this-article-on-path-analysis-using-r-concepts-origins-applications-and-case-studies-408k)
+- [easy-query vs JOOQ](https://dev.to/dev-jack/easy-query-vs-jooq-30in)
+- [Looking for a New Year Gift for Your Loved Ones &lpar;or Yourself&rpar;?](https://dev.to/sony_tech_updates/looking-for-a-new-year-gift-for-your-loved-ones-or-yourself-3f5f)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2ep3)
+- [InteractiveChecklists: An Android App for Aviation Documents &amp; DCS Integration](https://dev.to/arn-c0de/interactivechecklists-an-android-app-for-aviation-documents-dcs-integration-3kok)
 <!-- BLOG-POST-LIST:END -->
 
