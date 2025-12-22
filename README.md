@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Show Git Branch &amp; Status in Bash Prompt](https://dev.to/rosgluk/show-git-branch-status-in-bash-prompt-59h0)
-- [Animated Dark/Light Mode in React Native: The iPhone Way](https://dev.to/noman_akram_6c329a67f88ca/animated-darklight-mode-in-react-native-the-iphone-way-1j17)
-- [Umbraco vs WordPress: Which CMS Should You Use in 2026?](https://dev.to/addact_technologies_3322b/umbraco-vs-wordpress-which-cms-should-you-use-in-2026-23i5)
-- [Building an AI-Powered Resume Analyzer: My Journey with Resume Analiser](https://dev.to/mahmud-r-farhan/building-an-ai-powered-resume-analyzer-my-journey-with-resume-analiser-3lbf)
+- [# Spoken English: The Journey from Silence to Confidence](https://dev.to/abdulla_a_0ae0233ce47ec5c/-spoken-english-the-journey-from-silence-to-confidence-3b92)
+- [Aerospace Inspection as Risk Management in Aviation](https://dev.to/amrepinspect/aerospace-inspection-as-risk-management-in-aviation-1fd5)
+- [10 Simple Ways People Celebrate Christmas Day at Home](https://dev.to/arzoo/10-simple-ways-people-celebrate-christmas-day-at-home-30l9)
+- [checkout this article on Path Analysis Using R: Concepts, Origins, Applications, and Case Studies](https://dev.to/dipti26810/checkout-this-article-on-path-analysis-using-r-concepts-origins-applications-and-case-studies-408k)
 <!-- BLOG-POST-LIST:END -->
 
