@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections on building my first LangGraph project](https://dev.to/juhapellotsalo/reflections-on-building-my-first-langgraph-project-3b6j)
-- [Docker Environment Composer Local Package Development Tips](https://dev.to/mesak/docker-environment-composer-local-package-development-tips-13a7)
-- [Building Multi-Tenant SaaS as a Solo Developer](https://dev.to/pipipi-dev/building-multi-tenant-saas-as-a-solo-developer-1pi9)
-- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
+- [DevOps in Hybrid/Multicloud Environments](https://dev.to/godofgeeks/devops-in-hybridmulticloud-environments-50g5)
+- [How Snowflake Business Agility Transforms AI and Application Development with Secure, Scalable Tools](https://dev.to/anujrawat/how-snowflake-business-agility-transforms-ai-and-application-development-with-secure-scalable-tools-42i8)
+- [How Mobile Apps Help Businesses Grow in 2026](https://dev.to/dheeraj_sharma_ba03aa2de8/how-mobile-apps-help-businesses-grow-in-2026-19pb)
+- [Training Compute-Optimal Large Language Models](https://dev.to/paperium/training-compute-optimal-large-language-models-2iok)
 <!-- BLOG-POST-LIST:END -->
 
