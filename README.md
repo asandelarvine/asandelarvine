@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identifying Systemic Flaws in Delaware&#39;s Divorce Process: A Legal Critique](https://dev.to/paulafoxauthor/identifying-systemic-flaws-in-delawares-divorce-process-a-legal-critique-2gic)
-- [WebGPU Engine from Scratch Part 12: Ambient Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-12-ambient-lighting-49hk)
-- [Art of a Good Question](https://dev.to/karant_dev/art-of-a-good-question-3kkl)
-- [AI Engineering: Advent of AI with goose Day 11](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-11-ngm)
+- [What Engineering Leaders Ask That Others Don&#39;t](https://dev.to/stevenstuartm/what-engineering-leaders-ask-that-others-dont-35jo)
+- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
+- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
+- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
 <!-- BLOG-POST-LIST:END -->
 
