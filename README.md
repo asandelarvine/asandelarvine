@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
-- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
-- [Designing a Dynamic Loan Decision Engine in a Regulated FinTech Environment](https://dev.to/turalmu95150474/designing-a-dynamic-loan-decision-engine-in-a-regulated-fintech-environment-1f42)
-- [Payment Gateway vs Payment Processor: What&#39;s the Difference?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-whats-the-difference-5h6d)
+- [Joshua-Paul Meme Generator](https://dev.to/alvaromontoro/joshua-paul-meme-generator-4i3f)
+- [Just removed the login wall from my app based on feedback](https://dev.to/superhuang2/just-removed-the-login-wall-from-my-app-based-on-feedback-49j)
+- [Paging the data](https://dev.to/tudor96stani/paging-the-data-1hlf)
+- [100 Web Development Jokes](https://dev.to/alvaromontoro/100-web-development-jokes-1b03)
 <!-- BLOG-POST-LIST:END -->
 
