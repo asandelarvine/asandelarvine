@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Programmatically Fill a PDF Form with Raw JavaScript &lpar;The Easy Way&rpar;](https://dev.to/joyfill/how-to-programmatically-fill-a-pdf-form-with-raw-javascript-the-easy-way-1lj5)
-- [Day 72: Python Sliding Window Maximum - Deque O&lpar;n&rpar; Solution for Efficient Max Tracking &lpar;LeetCode #239 Guide&rpar;](https://dev.to/shahrouzlogs/day-72-python-sliding-window-maximum-deque-on-solution-for-efficient-max-tracking-leetcode-1f2i)
-- [Meta-Authors Note: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicles-12kh)
-- [Microservices Communication Patterns: When to Use REST, gRPC, or Message Queues](https://dev.to/benyusouf/microservices-communication-patterns-when-to-use-rest-grpc-or-message-queues-2dl4)
+- [Windows paths with spaces in Python&#39;s `os`](https://dev.to/nazanin_ashrafi/windows-paths-with-spaces-in-pythons-os-2kl4)
+- [How to keep up with technology and advance your career](https://dev.to/aws-builders/how-to-keep-up-with-technology-and-advance-your-career-3oa5)
+- [Upwork new categories structure 2025. Full structure](https://dev.to/chocomastery/upwork-new-categories-structure-2025-full-structure-31lm)
+- [VSCode Extensions](https://dev.to/lucaspereiradesouzat/vscode-extensions-oll)
 <!-- BLOG-POST-LIST:END -->
 
