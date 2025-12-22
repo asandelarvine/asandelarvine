@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows paths with spaces in Python&#39;s `os`](https://dev.to/nazanin_ashrafi/windows-paths-with-spaces-in-pythons-os-2kl4)
-- [How to keep up with technology and advance your career](https://dev.to/aws-builders/how-to-keep-up-with-technology-and-advance-your-career-3oa5)
-- [Upwork new categories structure 2025. Full structure](https://dev.to/chocomastery/upwork-new-categories-structure-2025-full-structure-31lm)
-- [VSCode Extensions](https://dev.to/lucaspereiradesouzat/vscode-extensions-oll)
+- [Abstract Classes vs Interfaces in C# — A Deep, Real‑World Comparison](https://dev.to/cristiansifuentes/abstract-classes-vs-interfaces-in-c-a-deep-real-world-comparison-2593)
+- [Classes in C#: From First Principles to Architectural Mastery *An artist–scientist guide to object-oriented design in modern C#](https://dev.to/cristiansifuentes/classes-in-c-from-first-principles-to-architectural-mastery-an-artist-scientist-guide-to-odj)
+- [Day 1 with Docker](https://dev.to/chandraa007b/day-1-with-docker-2enm)
+- [Google Cloud Course: Build a Successful Cloud Career with Online IT Guru](https://dev.to/vijay_indhuri_aadec6c369b/google-cloud-course-build-a-successful-cloud-career-with-online-it-guru-d4i)
 <!-- BLOG-POST-LIST:END -->
 
