@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Efficient Technologies to Reduce AI Token Costs: TOON and Microsoft&#39;s LLMLingua-2](https://dev.to/sreeni5018/two-efficient-technologies-to-reduce-ai-token-costs-toon-and-microsofts-llmlingua-2-294e)
-- [Why NestJS Hot Reload Does Not Work in Docker and How to Fix It Properly](https://dev.to/osalumense/why-nestjs-hot-reload-does-not-work-in-docker-and-how-to-fix-it-properly-4de4)
-- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
-- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
+- [Part 4: Running Multiple Services Locally with Docker Compose](https://dev.to/daviesbrown/part-4-running-multiple-services-locally-with-docker-compose-2n97)
+- [Part 3: Dependency Hell - Why Docker Exists](https://dev.to/daviesbrown/part-3-dependency-hell-why-docker-exists-27b5)
+- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
+- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
 <!-- BLOG-POST-LIST:END -->
 
