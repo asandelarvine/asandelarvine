@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [easy-query vs JOOQ](https://dev.to/dev-jack/easy-query-vs-jooq-30in)
-- [Looking for a New Year Gift for Your Loved Ones &lpar;or Yourself&rpar;?](https://dev.to/sony_tech_updates/looking-for-a-new-year-gift-for-your-loved-ones-or-yourself-3f5f)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2ep3)
-- [InteractiveChecklists: An Android App for Aviation Documents &amp; DCS Integration](https://dev.to/arn-c0de/interactivechecklists-an-android-app-for-aviation-documents-dcs-integration-3kok)
+- [Building a RAG based agent using DronaHQ](https://dev.to/gayatrisachdev1/building-a-rag-based-agent-using-dronahq-59n7)
+- [5 APIs for Developers to Integrate In-App Content Creation Functionality](https://dev.to/joywinter90/5-apis-for-developers-to-integrate-in-app-content-creation-functionality-46gb)
+- [Building Context-Aware Agents with LangGraph](https://dev.to/richard_abishai/building-context-aware-agents-with-langgraph-c2a)
+- [Reverse a List &lpar;without using reverse&lpar;&rpar;&rpar;](https://dev.to/highcenburg/reverse-a-list-without-using-reverse-14o3)
 <!-- BLOG-POST-LIST:END -->
 
