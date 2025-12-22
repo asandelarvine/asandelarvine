@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps in Hybrid/Multicloud Environments](https://dev.to/godofgeeks/devops-in-hybridmulticloud-environments-50g5)
-- [How Snowflake Business Agility Transforms AI and Application Development with Secure, Scalable Tools](https://dev.to/anujrawat/how-snowflake-business-agility-transforms-ai-and-application-development-with-secure-scalable-tools-42i8)
-- [How Mobile Apps Help Businesses Grow in 2026](https://dev.to/dheeraj_sharma_ba03aa2de8/how-mobile-apps-help-businesses-grow-in-2026-19pb)
-- [Training Compute-Optimal Large Language Models](https://dev.to/paperium/training-compute-optimal-large-language-models-2iok)
+- [Perl 🐪 Weekly #752 - Marlin - OOP Framework](https://dev.to/szabgab/perl-weekly-752-marlin-oop-framework-49k4)
+- [Understanding Serverless Containers on AWS](https://dev.to/shawmeer22/understanding-serverless-containers-on-aws-41il)
+- [Exploring Mobile Performance Monitoring: iOS RUM SDK Architecture and Practices](https://dev.to/observabilityguy/exploring-mobile-performance-monitoring-ios-rum-sdk-architecture-and-practices-3m0b)
+- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
 <!-- BLOG-POST-LIST:END -->
 
