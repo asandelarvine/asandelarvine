@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
-- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
-- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
+- [Setting Up Kafka 4.0 Locally with Docker: A Learning Journey](https://dev.to/hantedyou_0106/setting-up-kafka-40-locally-with-docker-a-learning-journey-dif)
+- [Как английский поднял мой доход на 50%. Пошаговый путь айтишника](https://dev.to/__453c64d6/kak-anghliiskii-podnial-moi-dokhod-na-50-poshaghovyi-put-aitishnika-2mia)
+- [When ANALYZE Isn&#39;t Enough: Debugging Bad Row Estimation in PostgreSQL](https://dev.to/michal_cyncynatus_3a792c2/when-analyze-isnt-enough-debugging-bad-row-estimation-in-postgresql-47n6)
+- [[Sports Watch] [API 6] How to implement frame-by-frame animation on a sports watch that can start and stop at any time?](https://dev.to/harmonyos/sports-watch-api-6-how-to-implement-frame-by-frame-animation-on-a-sports-watch-that-can-start-2l3d)
 <!-- BLOG-POST-LIST:END -->
 
