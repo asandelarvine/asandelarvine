@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Combinators: How to Write Half the CSS With Twice the Clarity](https://dev.to/web_dev-usman/css-combinators-how-to-write-half-the-css-with-twice-the-clarity-4oge)
-- [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
-- [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
-- [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
+- [Basta con il &quot;Funziona sulla mia Macchina&quot;: La Guida Semplice a Docker](https://dev.to/scape/basta-con-il-funziona-sulla-mia-macchina-la-guida-semplice-a-docker-64f)
+- [Kapbe Redefines Vaults: Why Systems Inevitably Destabilise When Yield Becomes the Only Metric?](https://dev.to/czof_pbni_d21cb3b73d2f19c/kapbe-redefines-vaults-why-systems-inevitably-destabilise-when-yield-becomes-the-only-metric-4klg)
+- [Michigan Startup App Costs in 2026](https://dev.to/del_rosario/michigan-startup-app-costs-in-2026-224a)
+- [Speed Up Syncthing File Sync Discovery &lpar;From 11 Seconds to 2&rpar;](https://dev.to/evoleinik/speed-up-syncthing-file-sync-discovery-from-11-seconds-to-2-345a)
 <!-- BLOG-POST-LIST:END -->
 
