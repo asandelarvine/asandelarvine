@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 25.Setting Up an EC2 Instance and CloudWatch Alarm](https://dev.to/thukhakyawe_cloud/day-25setting-up-an-ec2-instance-and-cloudwatch-alarm-5gp)
-- [From Blocks to Meaning: Data Items and Databases](https://dev.to/lovestaco/from-blocks-to-meaning-data-items-and-databases-187i)
-- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
-- [Improving Readability of Long Documentation Pages](https://dev.to/wang_wei_7bca82af800c6f68/improving-readability-of-long-documentation-pages-2i3b)
+- [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
+- [Out-of-Office BUG](https://dev.to/sonandrew/out-of-office-bug-en0)
+- [Who Is Ayush Kumar Rai? A Full Stack Developer’s Journey into Tech](https://dev.to/ayushkumarrai/who-is-ayush-kumar-rai-a-full-stack-developers-journey-into-tech-3jj8)
+- [Day 27.Configuring a Public VPC with an EC2 Instance for Internet Access](https://dev.to/thukhakyawe_cloud/day-27configuring-a-public-vpc-with-an-ec2-instance-for-internet-access-4n4l)
 <!-- BLOG-POST-LIST:END -->
 
