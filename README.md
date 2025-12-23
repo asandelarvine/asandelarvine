@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creative Design Agency Portfolio React, GSAP Animation](https://dev.to/hashirkhan/creative-design-agency-portfolio-react-gsap-animation-17mm)
-- [Medical Service API - v1.0](https://dev.to/alexander-attoh/medical-service-api-v10-44b0)
-- [Flutter Just Changed UI Forever — Most Developers Haven’t Noticed Yet](https://dev.to/kiddo4lyf/flutter-just-changed-ui-forever-most-developers-havent-noticed-yet-1pkd)
-- [Predicting Wine Quality with Data Science: My Vivino Project](https://dev.to/youssef_bellouz_ce1d9c1b4/predicting-wine-quality-with-data-science-my-vivino-project-1m88)
+- [Crypto Liquidity: How Market Depth Shapes Price Movements](https://dev.to/aleoluwatobemmanuel/crypto-liquidity-how-market-depth-shapes-price-movements-ki1)
+- [Machine Learning for Everyone: A Friendly Intro to the Future!](https://dev.to/zeroshotanu/machine-learning-for-everyone-a-friendly-intro-to-the-future-1i1d)
+- [Building a High-Performance SaaS for $0/mo with Java, Quarkus &amp; Cloud Run](https://dev.to/ivan91ncl/building-a-high-performance-saas-for-0mo-with-java-quarkus-cloud-run-3m2b)
+- [Beyond Clean Code: Mastering Parallel Data Fetching with React Router&#39;s defer](https://dev.to/peterintech/beyond-clean-code-mastering-parallel-data-fetching-with-react-routers-defer-4d1b)
 <!-- BLOG-POST-LIST:END -->
 
