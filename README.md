@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperskill&#39;s Coding Christmas Challenge🎄](https://dev.to/igor_kirillov_d76c259a3d9/hyperskills-coding-christmas-challenge-4f00)
-- [MXNet: A Flexible and Efficient Machine Learning Library for HeterogeneousDistributed Systems](https://dev.to/paperium/mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneousdistributed-systems-1997)
-- [Why Systems Get Slow as They Scale &lpar;Even Before Traffic Explodes&rpar;](https://dev.to/optyxstack/why-systems-get-slow-as-they-scale-even-before-traffic-explodes-4gn7)
-- [Why Most Small Businesses Overpay for Cloud Servers &lpar;And How to Avoid It&rpar;](https://dev.to/vamsi_0fe326ce8584827fca5/why-most-small-businesses-overpay-for-cloud-servers-and-how-to-avoid-it-147n)
+- [Docker Networking: How Packets Actually Move](https://dev.to/sreekanth_kuruba_91721e5d/docker-networking-how-packets-actually-move-2k6h)
+- [The End of Clicking: Why Voice-Based AI is the Final Frontier of UX &lpar;feat. ShopSage&rpar;](https://dev.to/neetigyachahar/the-end-of-clicking-why-voice-based-ai-is-the-final-frontier-of-ux-feat-shopsage-2167)
+- [Introduction to Behavior Driving Development with Java and MongoDB](https://dev.to/mongodb/introduction-to-behavior-driving-development-with-java-and-mongodb-4k4h)
+- [Generate Barcodes via API &lpar;SVG / PNG / Base64&rpar; with myapi.rest](https://dev.to/marquismark/generate-barcodes-via-api-svg-png-base64-with-myapirest-5k1)
 <!-- BLOG-POST-LIST:END -->
 
