@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basta con il &quot;Funziona sulla mia Macchina&quot;: La Guida Semplice a Docker](https://dev.to/scape/basta-con-il-funziona-sulla-mia-macchina-la-guida-semplice-a-docker-64f)
-- [Kapbe Redefines Vaults: Why Systems Inevitably Destabilise When Yield Becomes the Only Metric?](https://dev.to/czof_pbni_d21cb3b73d2f19c/kapbe-redefines-vaults-why-systems-inevitably-destabilise-when-yield-becomes-the-only-metric-4klg)
-- [Michigan Startup App Costs in 2026](https://dev.to/del_rosario/michigan-startup-app-costs-in-2026-224a)
-- [Speed Up Syncthing File Sync Discovery &lpar;From 11 Seconds to 2&rpar;](https://dev.to/evoleinik/speed-up-syncthing-file-sync-discovery-from-11-seconds-to-2-345a)
+- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
+- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
+- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
+- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
 <!-- BLOG-POST-LIST:END -->
 
