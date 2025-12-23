@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned to Customize My Resume for Every Job &lpar;and Built an AI Tool to Do It&rpar;](https://dev.to/artur_loss/how-i-learned-to-customize-my-resume-for-every-job-and-built-an-ai-tool-to-do-it-51k4)
-- [Java Core Mastery Part 1: From Zero to FAANG Ready 🚀](https://dev.to/rajat128/java-core-mastery-part-1-from-zero-to-faang-ready-3imi)
-- [🚢 Docker, Explained from docker run to Docker Compose &lpar;With Real Examples&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-docker-run-to-docker-compose-with-real-examples-1aln)
-- [AI wrote a Universe Engine based on physics constants. I need help testing it.](https://dev.to/julianzoria/ai-wrote-a-universe-engine-based-on-physics-constants-i-need-help-testing-it-4077)
+- [AWS simplified Cloudtrail events monitoring using CloudWatch Logs](https://dev.to/aaitaazizi/aws-simplified-cloudtrail-events-monitoring-using-cloudwatch-logs-2a6m)
+- [Architecting Offline-First iOS Apps With Idle-Aware Background Sync](https://dev.to/vijaya_saimunduru_c9579b/architecting-offline-first-ios-apps-with-idle-aware-background-sync-1dhh)
+- [Announcing securebit_core: A Platform-Agnostic Cryptographic Kernel for Secure P2P Communication](https://dev.to/securebitchat/announcing-securebitcore-a-platform-agnostic-cryptographic-kernel-for-secure-p2p-communication-o1b)
+- [Finding My Niche in Tech: Exploring Data, AI/ML, and Cybersecurity as a CS Student](https://dev.to/erica_kinch_8d9cbbe892653/finding-my-niche-in-tech-exploring-data-aiml-and-cybersecurity-as-a-cs-student-2ip5)
 <!-- BLOG-POST-LIST:END -->
 
