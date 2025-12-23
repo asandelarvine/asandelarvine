@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS simplified Cloudtrail events monitoring using CloudWatch Logs](https://dev.to/aaitaazizi/aws-simplified-cloudtrail-events-monitoring-using-cloudwatch-logs-2a6m)
-- [Architecting Offline-First iOS Apps With Idle-Aware Background Sync](https://dev.to/vijaya_saimunduru_c9579b/architecting-offline-first-ios-apps-with-idle-aware-background-sync-1dhh)
-- [Announcing securebit_core: A Platform-Agnostic Cryptographic Kernel for Secure P2P Communication](https://dev.to/securebitchat/announcing-securebitcore-a-platform-agnostic-cryptographic-kernel-for-secure-p2p-communication-o1b)
-- [Finding My Niche in Tech: Exploring Data, AI/ML, and Cybersecurity as a CS Student](https://dev.to/erica_kinch_8d9cbbe892653/finding-my-niche-in-tech-exploring-data-aiml-and-cybersecurity-as-a-cs-student-2ip5)
+- [UTCP: um protocolo alternativo ao MCP para chamada de ferramentas](https://dev.to/wandealves/utcp-um-protocolo-alternativo-ao-mcp-para-chamada-de-ferramentas-5dnn)
+- [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
+- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
+- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
 <!-- BLOG-POST-LIST:END -->
 
