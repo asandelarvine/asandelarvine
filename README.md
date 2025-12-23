@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the New Dataverse “Prompt Column” to Automate Categorization with AI](https://dev.to/ippu_ito_870812/how-to-use-the-new-dataverse-prompt-column-to-automate-categorization-with-ai-3e37)
-- [How to Prepare Large-Scale Training Data for Large Model Training](https://dev.to/jackm_345442a09fb53b/how-to-prepare-large-scale-training-data-for-large-model-training-45ih)
-- [Set Background Color and Image for PowerPoint Presentations with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/set-background-color-and-image-for-powerpoint-presentations-with-java-2nn1)
-- [How to Evaluate the Performance of a Large Model, Especially in Real-World Applications](https://dev.to/jackm_345442a09fb53b/how-to-evaluate-the-performance-of-a-large-model-especially-in-real-world-applications-42jd)
+- [How to use Python&#39;s request library to retrieve data from API&#39;s](https://dev.to/robotwizard/how-to-use-pythons-request-library-to-retrieve-data-from-apis-2c6)
+- [Automatic staging environments for your GitHub PRs](https://dev.to/mikesol/automatic-staging-environments-for-your-github-prs-4e78)
+- [Why iPhone HEIC Photos Are Hard to Share &lpar;And What I Actually Do&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/why-iphone-heic-photos-are-hard-to-share-and-what-i-actually-do-1a3h)
+- [Cutting React Bundle Size by 72%: A Deep Dive into main.chunk.js &amp; vendor.chunk.js](https://dev.to/saijamii/cutting-react-bundle-size-by-72-a-deep-dive-into-mainchunkjs-vendorchunkjs-5alj)
 <!-- BLOG-POST-LIST:END -->
 
