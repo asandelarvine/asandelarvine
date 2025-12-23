@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Liquidity: How Market Depth Shapes Price Movements](https://dev.to/aleoluwatobemmanuel/crypto-liquidity-how-market-depth-shapes-price-movements-ki1)
-- [Machine Learning for Everyone: A Friendly Intro to the Future!](https://dev.to/zeroshotanu/machine-learning-for-everyone-a-friendly-intro-to-the-future-1i1d)
-- [Building a High-Performance SaaS for $0/mo with Java, Quarkus &amp; Cloud Run](https://dev.to/ivan91ncl/building-a-high-performance-saas-for-0mo-with-java-quarkus-cloud-run-3m2b)
-- [Beyond Clean Code: Mastering Parallel Data Fetching with React Router&#39;s defer](https://dev.to/peterintech/beyond-clean-code-mastering-parallel-data-fetching-with-react-routers-defer-4d1b)
+- [How I Learned to Customize My Resume for Every Job &lpar;and Built an AI Tool to Do It&rpar;](https://dev.to/artur_loss/how-i-learned-to-customize-my-resume-for-every-job-and-built-an-ai-tool-to-do-it-51k4)
+- [Java Core Mastery Part 1: From Zero to FAANG Ready 🚀](https://dev.to/rajat128/java-core-mastery-part-1-from-zero-to-faang-ready-3imi)
+- [🚢 Docker, Explained from docker run to Docker Compose &lpar;With Real Examples&rpar;](https://dev.to/anusha_kuppili/docker-explained-from-docker-run-to-docker-compose-with-real-examples-1aln)
+- [AI wrote a Universe Engine based on physics constants. I need help testing it.](https://dev.to/julianzoria/ai-wrote-a-universe-engine-based-on-physics-constants-i-need-help-testing-it-4077)
 <!-- BLOG-POST-LIST:END -->
 
