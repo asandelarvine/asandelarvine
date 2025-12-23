@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Networking: How Packets Actually Move](https://dev.to/sreekanth_kuruba_91721e5d/docker-networking-how-packets-actually-move-2k6h)
-- [The End of Clicking: Why Voice-Based AI is the Final Frontier of UX &lpar;feat. ShopSage&rpar;](https://dev.to/neetigyachahar/the-end-of-clicking-why-voice-based-ai-is-the-final-frontier-of-ux-feat-shopsage-2167)
-- [Introduction to Behavior Driving Development with Java and MongoDB](https://dev.to/mongodb/introduction-to-behavior-driving-development-with-java-and-mongodb-4k4h)
-- [Generate Barcodes via API &lpar;SVG / PNG / Base64&rpar; with myapi.rest](https://dev.to/marquismark/generate-barcodes-via-api-svg-png-base64-with-myapirest-5k1)
+- [The new Supabase power for Kiro](https://dev.to/supabase/the-new-supabase-power-for-kiro-51df)
+- [Activity Rings: Build Your Own Health Dashboard with React and SVG](https://dev.to/wellallytech/activity-rings-build-your-own-health-dashboard-with-react-and-svg-49og)
+- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
+- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
 <!-- BLOG-POST-LIST:END -->
 
