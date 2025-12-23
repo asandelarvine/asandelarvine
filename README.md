@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The new Supabase power for Kiro](https://dev.to/supabase/the-new-supabase-power-for-kiro-51df)
-- [Activity Rings: Build Your Own Health Dashboard with React and SVG](https://dev.to/wellallytech/activity-rings-build-your-own-health-dashboard-with-react-and-svg-49og)
-- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
-- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
+- [Creative Design Agency Portfolio React, GSAP Animation](https://dev.to/hashirkhan/creative-design-agency-portfolio-react-gsap-animation-17mm)
+- [Medical Service API - v1.0](https://dev.to/alexander-attoh/medical-service-api-v10-44b0)
+- [Flutter Just Changed UI Forever — Most Developers Haven’t Noticed Yet](https://dev.to/kiddo4lyf/flutter-just-changed-ui-forever-most-developers-havent-noticed-yet-1pkd)
+- [Predicting Wine Quality with Data Science: My Vivino Project](https://dev.to/youssef_bellouz_ce1d9c1b4/predicting-wine-quality-with-data-science-my-vivino-project-1m88)
 <!-- BLOG-POST-LIST:END -->
 
