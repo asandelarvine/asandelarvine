@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Architecture Mastery — From OOP to SOLID to Clean Architecture &lpar;Part 2&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-from-oop-to-solid-to-clean-architecture-559)
-- [Ship Faster: The Complete Asset Optimization Reference](https://dev.to/arghya_majumder_54190fb59/ship-faster-the-complete-asset-optimization-reference-26b0)
-- [AI Made Me More Productive — and Less Sure Why I Code](https://dev.to/downtherabbithole/ai-made-me-more-productive-and-less-sure-why-i-code-2l8e)
-- [C# Fundamentals Mastery — From Quiz Answers to Production-Grade .NET Mental Models](https://dev.to/cristiansifuentes/c-fundamentals-mastery-from-quiz-answers-to-production-grade-net-mental-models-4pg1)
+- [C# Architecture Mastery — Event-Driven Architecture in .NET &lpar;Clean Boundaries with Messaging&rpar; &lpar;Part 12&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-event-driven-architecture-in-net-clean-boundaries-with-messaging-part-12dl)
+- [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
+- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
+- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
 <!-- BLOG-POST-LIST:END -->
 
