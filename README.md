@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Architecture Mastery — Event-Driven Architecture in .NET &lpar;Clean Boundaries with Messaging&rpar; &lpar;Part 12&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-event-driven-architecture-in-net-clean-boundaries-with-messaging-part-12dl)
-- [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
-- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
-- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
+- [Day 25.Setting Up an EC2 Instance and CloudWatch Alarm](https://dev.to/thukhakyawe_cloud/day-25setting-up-an-ec2-instance-and-cloudwatch-alarm-5gp)
+- [From Blocks to Meaning: Data Items and Databases](https://dev.to/lovestaco/from-blocks-to-meaning-data-items-and-databases-187i)
+- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
+- [Improving Readability of Long Documentation Pages](https://dev.to/wang_wei_7bca82af800c6f68/improving-readability-of-long-documentation-pages-2i3b)
 <!-- BLOG-POST-LIST:END -->
 
