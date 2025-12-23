@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Tokyo Moves Bitcoin: Building Your Macro Volatility Early-Warning System with Open-Source AI](https://dev.to/apnews/when-tokyo-moves-bitcoin-building-your-macro-volatility-early-warning-system-with-open-source-ai-2ib1)
-- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
-- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
-- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
+- [AI-Powered Low-Code Platforms for Apps and Agents](https://dev.to/nickpe/ai-powered-low-code-platforms-for-apps-and-agents-1e5c)
+- [Agentic AI: Building Autonomous AI Systems That Plan and Act](https://dev.to/sonammg/agentic-ai-building-autonomous-ai-systems-that-plan-and-act-1h6l)
+- [React Performance Optimization: 15 Best Practices for 2025](https://dev.to/alex_bobes/react-performance-optimization-15-best-practices-for-2025-17l9)
+- [How to turn your handwriting into a font in 60 seconds &lpar;Open Source&rpar;](https://dev.to/progressiveprogrammer/how-to-turn-your-handwriting-into-a-font-in-60-seconds-open-source-129j)
 <!-- BLOG-POST-LIST:END -->
 
