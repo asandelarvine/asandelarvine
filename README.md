@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Running Multiple Services Locally with Docker Compose](https://dev.to/daviesbrown/part-4-running-multiple-services-locally-with-docker-compose-2n97)
-- [Part 3: Dependency Hell - Why Docker Exists](https://dev.to/daviesbrown/part-3-dependency-hell-why-docker-exists-27b5)
-- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
-- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
+- [How to Use the New Dataverse “Prompt Column” to Automate Categorization with AI](https://dev.to/ippu_ito_870812/how-to-use-the-new-dataverse-prompt-column-to-automate-categorization-with-ai-3e37)
+- [How to Prepare Large-Scale Training Data for Large Model Training](https://dev.to/jackm_345442a09fb53b/how-to-prepare-large-scale-training-data-for-large-model-training-45ih)
+- [Set Background Color and Image for PowerPoint Presentations with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/set-background-color-and-image-for-powerpoint-presentations-with-java-2nn1)
+- [How to Evaluate the Performance of a Large Model, Especially in Real-World Applications](https://dev.to/jackm_345442a09fb53b/how-to-evaluate-the-performance-of-a-large-model-especially-in-real-world-applications-42jd)
 <!-- BLOG-POST-LIST:END -->
 
