@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Address Autocomplete to a MapLibre GL Map &lpar;with Click-to-Address Reverse Geocoding&rpar;](https://dev.to/geoapify-maps-api/add-address-autocomplete-to-a-maplibre-gl-map-with-click-to-address-reverse-geocoding-3c14)
-- [The 12 Days of Christmas - Programmed vs. Compressed](https://dev.to/jberesford94/the-12-days-of-christmas-programmed-vs-compressed-cfd)
-- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
-- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
+- [Hyperskill&#39;s Coding Christmas Challenge🎄](https://dev.to/igor_kirillov_d76c259a3d9/hyperskills-coding-christmas-challenge-4f00)
+- [MXNet: A Flexible and Efficient Machine Learning Library for HeterogeneousDistributed Systems](https://dev.to/paperium/mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneousdistributed-systems-1997)
+- [Why Systems Get Slow as They Scale &lpar;Even Before Traffic Explodes&rpar;](https://dev.to/optyxstack/why-systems-get-slow-as-they-scale-even-before-traffic-explodes-4gn7)
+- [Why Most Small Businesses Overpay for Cloud Servers &lpar;And How to Avoid It&rpar;](https://dev.to/vamsi_0fe326ce8584827fca5/why-most-small-businesses-overpay-for-cloud-servers-and-how-to-avoid-it-147n)
 <!-- BLOG-POST-LIST:END -->
 
