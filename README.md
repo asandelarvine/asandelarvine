@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Low-Code Platforms for Apps and Agents](https://dev.to/nickpe/ai-powered-low-code-platforms-for-apps-and-agents-1e5c)
-- [Agentic AI: Building Autonomous AI Systems That Plan and Act](https://dev.to/sonammg/agentic-ai-building-autonomous-ai-systems-that-plan-and-act-1h6l)
-- [React Performance Optimization: 15 Best Practices for 2025](https://dev.to/alex_bobes/react-performance-optimization-15-best-practices-for-2025-17l9)
-- [How to turn your handwriting into a font in 60 seconds &lpar;Open Source&rpar;](https://dev.to/progressiveprogrammer/how-to-turn-your-handwriting-into-a-font-in-60-seconds-open-source-129j)
+- [Add Address Autocomplete to a MapLibre GL Map &lpar;with Click-to-Address Reverse Geocoding&rpar;](https://dev.to/geoapify-maps-api/add-address-autocomplete-to-a-maplibre-gl-map-with-click-to-address-reverse-geocoding-3c14)
+- [The 12 Days of Christmas - Programmed vs. Compressed](https://dev.to/jberesford94/the-12-days-of-christmas-programmed-vs-compressed-cfd)
+- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
+- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
 <!-- BLOG-POST-LIST:END -->
 
