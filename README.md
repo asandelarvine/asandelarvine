@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
-- [🚀 Terraform Day 16: Bulk IAM User Management Using Terraform &lpar;CSV AWS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-16-bulk-iam-user-management-using-terraform-csv-aws-4b92)
-- [Crunching Numbers: Georgia&#39;s Mobile Dev Costs for 2026](https://dev.to/mabualzait/crunching-numbers-georgias-mobile-dev-costs-for-2026-1mgo)
-- [The M3 MacBook Pro: Why Financial Analysts Are Getting Outsmarted by Their Own Tools](https://dev.to/alan_luu/the-m3-macbook-pro-why-financial-analysts-are-getting-outsmarted-by-their-own-tools-4265)
+- [The Proxy Paradox: Why Spring @Transactional Vanishes](https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758)
+- [Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple GitHub Accounts on Windows](https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg)
+- [Dark vs Bright Website Design: The Real Difference &lpar;and How to Choose the Right One&rpar;](https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j)
+- [User Connectivity: Two Years in Production — Lessons Learned and New Patterns](https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf)
 <!-- BLOG-POST-LIST:END -->
 
