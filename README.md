@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Is Not Free Performance](https://dev.to/yousufamre/redis-is-not-free-performance-1cie)
-- [Building a HIPAA-Compliant Telehealth Solution with VAPI: What I Learned](https://dev.to/callstacktech/building-a-hipaa-compliant-telehealth-solution-with-vapi-what-i-learned-18n4)
-- [How AI Is Changing Affiliate Bonus Stacking](https://dev.to/tomax_review_570e1e27ee32/how-ai-is-changing-affiliate-bonus-stacking-42l1)
-- [Chatbot Development Services: Building Intelligent Conversations That Scale Businesses](https://dev.to/oodlesplatform/chatbot-development-services-building-intelligent-conversations-that-scale-businesses-3jhd)
+- [How to Send Email in FastAPI &lpar;+Code Snippets&rpar;](https://dev.to/sendlayer/how-to-send-email-in-fastapi-code-snippets-1ecd)
+- [How Do You Handle Validation Errors Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-validation-errors-globally-in-spring-boot-1mg2)
+- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
+- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
 <!-- BLOG-POST-LIST:END -->
 
