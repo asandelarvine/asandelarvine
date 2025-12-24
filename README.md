@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Muslim Prayer Reminder for Slack](https://dev.to/ikhaledabdelfattah/muslim-prayer-reminder-for-slack-5573)
-- [Out-of-Office BUG](https://dev.to/sonandrew/out-of-office-bug-en0)
-- [Who Is Ayush Kumar Rai? A Full Stack Developer’s Journey into Tech](https://dev.to/ayushkumarrai/who-is-ayush-kumar-rai-a-full-stack-developers-journey-into-tech-3jj8)
-- [Day 27.Configuring a Public VPC with an EC2 Instance for Internet Access](https://dev.to/thukhakyawe_cloud/day-27configuring-a-public-vpc-with-an-ec2-instance-for-internet-access-4n4l)
+- [I built JSON Buddy — a privacy-first JSON formatter + CSV/Excel JSON converter that works offline](https://dev.to/longmon_work_6d47b218674b/i-built-json-buddy-a-privacy-first-json-formatter-csvexcel-json-converter-that-works-offline-2e3k)
+- [Day 5 of building ScrapeForge 🛠️](https://dev.to/vishwas-batra/day-5-of-building-scrapeforge-3nef)
+- [Configure Envoy Without Writing Protobuf — Meet Flowplane](https://dev.to/rajeevramani/configure-envoy-without-writing-protobuf-meet-flowplane-e3)
+- [Developer Communities &lpar;JavaScript, TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/developer-communities-javascript-typescript-2fk7)
 <!-- BLOG-POST-LIST:END -->
 
