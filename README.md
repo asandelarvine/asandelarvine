@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Changed My Mind About Exceptions](https://dev.to/stevenstuartm/why-i-changed-my-mind-about-exceptions-1gi0)
-- [Automate Your CI/CD with Frodo CLI for GitHub Actions](https://dev.to/iamdevbox/automate-your-cicd-with-frodo-cli-for-github-actions-3d4k)
-- [Why Data Annotation Platforms Are the Unsung Heroes of AI Success](https://dev.to/rushikesh_langale_42ac365/why-data-annotation-platforms-are-the-unsung-heroes-of-ai-success-11pl)
-- [Next.js Caching Evolution: From v14 to v15 and the Cache Components Era](https://dev.to/ahr_dev/nextjs-caching-evolution-from-v14-to-v15-and-the-cache-components-era-5goo)
+- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
+- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
+- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
+- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
 <!-- BLOG-POST-LIST:END -->
 
