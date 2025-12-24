@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
-- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
-- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
-- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
+- [Ministral 3 3B Local Setup Guide with MCP Tool Calling 🔥](https://dev.to/composiodev/ministral-3-3b-local-setup-guide-with-mcp-tool-calling-icm)
+- [9 Developer Tools That Will Boost Your Workflow in 2026 🔥](https://dev.to/anthonymax/9-developer-tools-that-will-boost-your-workflow-in-2026-3hgb)
+- [I Built a Tiny Reactive JS Library and Discovered Why v-model Exists](https://dev.to/jahongir2007/i-built-a-tiny-reactive-js-library-and-discovered-why-v-model-exists-1gg2)
+- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
 <!-- BLOG-POST-LIST:END -->
 
