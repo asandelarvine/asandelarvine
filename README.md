@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify + Voice Assistants: Alexa Integration for Order Status Tracking](https://dev.to/lucy1/shopify-voice-assistants-alexa-integration-for-order-status-tracking-1g98)
-- [Machine Learning Development Company Powering the Next Generation of Intelligent Businesses](https://dev.to/oodlesplatform/machine-learning-development-company-powering-the-next-generation-of-intelligent-businesses-4688)
-- [Top 5 Developer Marketing Agencies For B2B SaaS Startups](https://dev.to/parv_mittal_4127fbf643d56/top-5-developer-marketing-agencies-for-b2b-saas-startups-ahk)
-- [Binarized Neural Networks](https://dev.to/paperium/binarized-neural-networks-22k7)
+- [Redis Is Not Free Performance](https://dev.to/yousufamre/redis-is-not-free-performance-1cie)
+- [Building a HIPAA-Compliant Telehealth Solution with VAPI: What I Learned](https://dev.to/callstacktech/building-a-hipaa-compliant-telehealth-solution-with-vapi-what-i-learned-18n4)
+- [How AI Is Changing Affiliate Bonus Stacking](https://dev.to/tomax_review_570e1e27ee32/how-ai-is-changing-affiliate-bonus-stacking-42l1)
+- [Chatbot Development Services: Building Intelligent Conversations That Scale Businesses](https://dev.to/oodlesplatform/chatbot-development-services-building-intelligent-conversations-that-scale-businesses-3jhd)
 <!-- BLOG-POST-LIST:END -->
 
