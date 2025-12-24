@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code: ?sexob evom ot woH](https://dev.to/rkeeves/advent-of-code-sexob-evom-ot-woh-4336)
-- [WhatsApp: The Future of Customer Communication &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/whatsapp-the-future-of-customer-communication-a-developers-perspective-184a)
-- [Healthcare Data Breaches Are America&#39;s Unaddressed National Security Crisis](https://dev.to/zeroblind25/healthcare-data-breaches-are-americas-unaddressed-national-security-crisis-1mk0)
-- [Designing STC Mining with NFTs: Inside BUBUVERSE’s STC Staking Labubu](https://dev.to/bubuverse/designing-stc-mining-with-nfts-inside-bubuverses-stc-staking-labubu-fin)
+- [How to prepare for a Coding/Technical Interview](https://dev.to/swarnaliroy94/how-to-prepare-for-a-codingtechnical-interview-2ihk)
+- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
+- [[Boost]](https://dev.to/david_bussell14/-dgl)
+- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
 <!-- BLOG-POST-LIST:END -->
 
