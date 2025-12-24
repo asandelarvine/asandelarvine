@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Proxy Paradox: Why Spring @Transactional Vanishes](https://dev.to/rajatarora/the-proxy-paradox-why-spring-transactional-vanishes-4758)
-- [Stop Pushing Work Code with Your Personal Email: The Ultimate Guide to Multiple GitHub Accounts on Windows](https://dev.to/rahulkbharti/stop-pushing-work-code-with-your-personal-email-the-ultimate-guide-to-multiple-github-accounts-on-39bg)
-- [Dark vs Bright Website Design: The Real Difference &lpar;and How to Choose the Right One&rpar;](https://dev.to/per-starke-642/dark-vs-bright-website-design-the-real-difference-and-how-to-choose-the-right-one-5b5j)
-- [User Connectivity: Two Years in Production — Lessons Learned and New Patterns](https://dev.to/anoushnet/user-connectivity-two-years-in-production-lessons-learned-and-new-patterns-3fpf)
+- [Shopify + Voice Assistants: Alexa Integration for Order Status Tracking](https://dev.to/lucy1/shopify-voice-assistants-alexa-integration-for-order-status-tracking-1g98)
+- [Machine Learning Development Company Powering the Next Generation of Intelligent Businesses](https://dev.to/oodlesplatform/machine-learning-development-company-powering-the-next-generation-of-intelligent-businesses-4688)
+- [Top 5 Developer Marketing Agencies For B2B SaaS Startups](https://dev.to/parv_mittal_4127fbf643d56/top-5-developer-marketing-agencies-for-b2b-saas-startups-ahk)
+- [Binarized Neural Networks](https://dev.to/paperium/binarized-neural-networks-22k7)
 <!-- BLOG-POST-LIST:END -->
 
