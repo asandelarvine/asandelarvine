@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New At Releem - November 2025](https://dev.to/drupaladmin/whats-new-at-releem-november-2025-2lk2)
-- [AI Trading Daily Report: December 24, 2025 | $+133.74](https://dev.to/igorganapolsky/ai-trading-daily-report-december-24-2025-13374-4d64)
-- [The Christmas Clarity Calendar – Finding Focus, Calm, and Momentum Before the New Year](https://dev.to/per-starke-642/the-christmas-clarity-calendar-finding-focus-calm-and-momentum-before-the-new-year-3edm)
-- [**Rust Error Handling: How Option and Result Types Build Bulletproof Software**](https://dev.to/nithinbharathwaj/rust-error-handling-how-option-and-result-types-build-bulletproof-software-1i7i)
+- [Building Cryptographic Audit Trails for SEC Rule 17a-4: A Technical Deep Dive](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-sec-rule-17a-4-a-technical-deep-dive-4hbp)
+- [2025-12-24 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-ai-news-4cao)
+- [linux day #1](https://dev.to/jumptotech/linux-day-1-2745)
+- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-42cm)
 <!-- BLOG-POST-LIST:END -->
 
