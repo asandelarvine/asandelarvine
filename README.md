@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
-- [SpillTea](https://dev.to/akanji/spilltea-751)
-- [Building Five Dice Math: My MVP Works, But I&#39;m Not Sure It Matters](https://dev.to/mbdunson/building-five-dice-math-my-mvp-works-but-im-not-sure-it-matters-22ne)
-- [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
+- [What&#39;s New At Releem - November 2025](https://dev.to/drupaladmin/whats-new-at-releem-november-2025-2lk2)
+- [AI Trading Daily Report: December 24, 2025 | $+133.74](https://dev.to/igorganapolsky/ai-trading-daily-report-december-24-2025-13374-4d64)
+- [The Christmas Clarity Calendar – Finding Focus, Calm, and Momentum Before the New Year](https://dev.to/per-starke-642/the-christmas-clarity-calendar-finding-focus-calm-and-momentum-before-the-new-year-3edm)
+- [**Rust Error Handling: How Option and Result Types Build Bulletproof Software**](https://dev.to/nithinbharathwaj/rust-error-handling-how-option-and-result-types-build-bulletproof-software-1i7i)
 <!-- BLOG-POST-LIST:END -->
 
