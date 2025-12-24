@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
-- [The &quot;Prompt-to-Playable&quot; Shift: Why Gemini 3 Marks the End of Passive Media](https://dev.to/juddiy/the-prompt-to-playable-shift-why-gemini-3-marks-the-end-of-passive-media-22g9)
-- [BuildTab Construction Theme — My Site Rebuild Field Notes](https://dev.to/bashar_forrestad_27f084aa/buildtab-construction-theme-my-site-rebuild-field-notes-4il5)
-- [Apple&#39;s Guideline 5.1.2&lpar;i&rpar;: The AI Data Sharing Rule That Will Impact Every iOS Developer](https://dev.to/arshtechpro/apples-guideline-512i-the-ai-data-sharing-rule-that-will-impact-every-ios-developer-1b0p)
+- [SaijinOS Part 18 — From Architecture to Stance Why I’m Building Studios Pong](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-from-architecture-to-stance-why-im-building-studios-pong-o2)
+- [What Is Performance Marketing? Meaning, Benefits &amp; Examples](https://dev.to/innovativeblogtech_f6ec83/what-is-performance-marketing-meaning-benefits-examples-30ma)
+- [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
+- [The OpenSearch Outage You Can&#39;t Fix: Why 2-Node Clusters Always Fail.](https://dev.to/aws-builders/avoid-this-costly-aws-opensearch-mistake-the-complete-guide-to-quorum-loss-77j)
 <!-- BLOG-POST-LIST:END -->
 
