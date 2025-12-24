@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
-- [RCU &lpar;Read, Copy, Update&rpar; in the Linux Kernel](https://dev.to/sauravshah31/rcu-read-copy-update-in-the-linux-kernel-18di)
-- [Rahsi Defense Security Mesh™ | Copilot &amp; Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)
-- [Headless Raspberry Pi Homelab – Part 1: OS Configuration &amp; Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)
+- [Advent of Code: ?sexob evom ot woH](https://dev.to/rkeeves/advent-of-code-sexob-evom-ot-woh-4336)
+- [WhatsApp: The Future of Customer Communication &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/whatsapp-the-future-of-customer-communication-a-developers-perspective-184a)
+- [Healthcare Data Breaches Are America&#39;s Unaddressed National Security Crisis](https://dev.to/zeroblind25/healthcare-data-breaches-are-americas-unaddressed-national-security-crisis-1mk0)
+- [Designing STC Mining with NFTs: Inside BUBUVERSE’s STC Staking Labubu](https://dev.to/bubuverse/designing-stc-mining-with-nfts-inside-bubuverses-stc-staking-labubu-fin)
 <!-- BLOG-POST-LIST:END -->
 
