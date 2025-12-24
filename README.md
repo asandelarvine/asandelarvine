@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaijinOS Part 18 — From Architecture to Stance Why I’m Building Studios Pong](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-from-architecture-to-stance-why-im-building-studios-pong-o2)
-- [What Is Performance Marketing? Meaning, Benefits &amp; Examples](https://dev.to/innovativeblogtech_f6ec83/what-is-performance-marketing-meaning-benefits-examples-30ma)
-- [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
-- [The OpenSearch Outage You Can&#39;t Fix: Why 2-Node Clusters Always Fail.](https://dev.to/aws-builders/avoid-this-costly-aws-opensearch-mistake-the-complete-guide-to-quorum-loss-77j)
+- [Drupal Canvas, creación de páginas I](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-canvas-creacion-de-paginas-i-c3b)
+- [Handy: Công cụ ghi âm giọng nói sang văn bản cục bộ, bảo mật](https://dev.to/stelixx-insider/handy-cong-cu-ghi-am-giong-noi-sang-van-ban-cuc-bo-bao-mat-4p1m)
+- [Jasa Backlink AC.ID Murah dan Berkualitas untuk SEO](https://dev.to/egy_panama_6fdbd6a624cac4/jasa-backlink-acid-murah-dan-berkualitas-untuk-seo-2jgi)
+- [Crypto Exchange Development That Helps Users Trade Across Multiple Assets](https://dev.to/gabrielmateo/crypto-exchange-development-that-helps-users-trade-across-multiple-assets-4lgj)
 <!-- BLOG-POST-LIST:END -->
 
