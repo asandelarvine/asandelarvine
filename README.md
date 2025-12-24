@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ministral 3 3B Local Setup Guide with MCP Tool Calling 🔥](https://dev.to/composiodev/ministral-3-3b-local-setup-guide-with-mcp-tool-calling-icm)
-- [9 Developer Tools That Will Boost Your Workflow in 2026 🔥](https://dev.to/anthonymax/9-developer-tools-that-will-boost-your-workflow-in-2026-3hgb)
-- [I Built a Tiny Reactive JS Library and Discovered Why v-model Exists](https://dev.to/jahongir2007/i-built-a-tiny-reactive-js-library-and-discovered-why-v-model-exists-1gg2)
-- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
+- [Manage Message Queues Using Amazon SQS](https://dev.to/aws-builders/manage-message-queues-using-amazon-sqs-1dcd)
+- [Vibe Coding vs. Engenharia Assistida por IA: Onde você está no espectro?](https://dev.to/edu_betim/vibe-coding-vs-engenharia-assistida-por-ia-onde-voce-esta-no-espectro-476f)
+- [Mastering Pandas: From Handling NaN and Duplicates to Advanced Sales Data Grouping](https://dev.to/labex/mastering-pandas-from-handling-nan-and-duplicates-to-advanced-sales-data-grouping-4pni)
+- [Why Software Engineers Are Wasting 40% of Their Dev Time on SEO &lpar;And How Mangools Fixes This&rpar;](https://dev.to/alan_luu/why-software-engineers-are-wasting-40-of-their-dev-time-on-seo-and-how-mangools-fixes-this-3a3i)
 <!-- BLOG-POST-LIST:END -->
 
