@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Drupal Canvas, creación de páginas I](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-canvas-creacion-de-paginas-i-c3b)
-- [Handy: Công cụ ghi âm giọng nói sang văn bản cục bộ, bảo mật](https://dev.to/stelixx-insider/handy-cong-cu-ghi-am-giong-noi-sang-van-ban-cuc-bo-bao-mat-4p1m)
-- [Jasa Backlink AC.ID Murah dan Berkualitas untuk SEO](https://dev.to/egy_panama_6fdbd6a624cac4/jasa-backlink-acid-murah-dan-berkualitas-untuk-seo-2jgi)
-- [Crypto Exchange Development That Helps Users Trade Across Multiple Assets](https://dev.to/gabrielmateo/crypto-exchange-development-that-helps-users-trade-across-multiple-assets-4lgj)
+- [Why I Changed My Mind About Exceptions](https://dev.to/stevenstuartm/why-i-changed-my-mind-about-exceptions-1gi0)
+- [Automate Your CI/CD with Frodo CLI for GitHub Actions](https://dev.to/iamdevbox/automate-your-cicd-with-frodo-cli-for-github-actions-3d4k)
+- [Why Data Annotation Platforms Are the Unsung Heroes of AI Success](https://dev.to/rushikesh_langale_42ac365/why-data-annotation-platforms-are-the-unsung-heroes-of-ai-success-11pl)
+- [Next.js Caching Evolution: From v14 to v15 and the Cache Components Era](https://dev.to/ahr_dev/nextjs-caching-evolution-from-v14-to-v15-and-the-cache-components-era-5goo)
 <!-- BLOG-POST-LIST:END -->
 
