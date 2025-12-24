@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prepare for a Coding/Technical Interview](https://dev.to/swarnaliroy94/how-to-prepare-for-a-codingtechnical-interview-2ihk)
-- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
-- [[Boost]](https://dev.to/david_bussell14/-dgl)
-- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
+- [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
+- [SpillTea](https://dev.to/akanji/spilltea-751)
+- [Building Five Dice Math: My MVP Works, But I&#39;m Not Sure It Matters](https://dev.to/mbdunson/building-five-dice-math-my-mvp-works-but-im-not-sure-it-matters-22ne)
+- [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
 <!-- BLOG-POST-LIST:END -->
 
