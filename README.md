@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage Message Queues Using Amazon SQS](https://dev.to/aws-builders/manage-message-queues-using-amazon-sqs-1dcd)
-- [Vibe Coding vs. Engenharia Assistida por IA: Onde você está no espectro?](https://dev.to/edu_betim/vibe-coding-vs-engenharia-assistida-por-ia-onde-voce-esta-no-espectro-476f)
-- [Mastering Pandas: From Handling NaN and Duplicates to Advanced Sales Data Grouping](https://dev.to/labex/mastering-pandas-from-handling-nan-and-duplicates-to-advanced-sales-data-grouping-4pni)
-- [Why Software Engineers Are Wasting 40% of Their Dev Time on SEO &lpar;And How Mangools Fixes This&rpar;](https://dev.to/alan_luu/why-software-engineers-are-wasting-40-of-their-dev-time-on-seo-and-how-mangools-fixes-this-3a3i)
+- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
+- [RCU &lpar;Read, Copy, Update&rpar; in the Linux Kernel](https://dev.to/sauravshah31/rcu-read-copy-update-in-the-linux-kernel-18di)
+- [Rahsi Defense Security Mesh™ | Copilot &amp; Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)
+- [Headless Raspberry Pi Homelab – Part 1: OS Configuration &amp; Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)
 <!-- BLOG-POST-LIST:END -->
 
