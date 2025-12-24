@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Elm Architecture with React](https://dev.to/atmorojo/the-elm-architecture-with-react-2p1m)
-- [Digital Wellness: Building a Proactive Chatbot for Stress Support](https://dev.to/wellallytech/digital-wellness-building-a-proactive-chatbot-for-stress-support-11pi)
-- [All things Kiro &amp; Road to reinvent Hackathon Experience 2025](https://dev.to/aws-builders/all-things-kiro-road-to-reinvent-hackathon-experience-2025-21da)
-- [IMake: Reinventing Build Systems with Clarity and Efficiency for Native Linux Development](https://dev.to/lengjingzju/imake-reinventing-build-systems-with-clarity-and-efficiency-for-native-linux-development-gm0)
+- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
+- [🚀 Terraform Day 16: Bulk IAM User Management Using Terraform &lpar;CSV AWS&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-16-bulk-iam-user-management-using-terraform-csv-aws-4b92)
+- [Crunching Numbers: Georgia&#39;s Mobile Dev Costs for 2026](https://dev.to/mabualzait/crunching-numbers-georgias-mobile-dev-costs-for-2026-1mgo)
+- [The M3 MacBook Pro: Why Financial Analysts Are Getting Outsmarted by Their Own Tools](https://dev.to/alan_luu/the-m3-macbook-pro-why-financial-analysts-are-getting-outsmarted-by-their-own-tools-4265)
 <!-- BLOG-POST-LIST:END -->
 
