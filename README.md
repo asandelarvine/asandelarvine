@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built JSON Buddy — a privacy-first JSON formatter + CSV/Excel JSON converter that works offline](https://dev.to/longmon_work_6d47b218674b/i-built-json-buddy-a-privacy-first-json-formatter-csvexcel-json-converter-that-works-offline-2e3k)
-- [Day 5 of building ScrapeForge 🛠️](https://dev.to/vishwas-batra/day-5-of-building-scrapeforge-3nef)
-- [Configure Envoy Without Writing Protobuf — Meet Flowplane](https://dev.to/rajeevramani/configure-envoy-without-writing-protobuf-meet-flowplane-e3)
-- [Developer Communities &lpar;JavaScript, TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/developer-communities-javascript-typescript-2fk7)
+- [A 30% Hashrate Drop: Are Bitcoin Miners Really Capitulating?](https://dev.to/apnews/a-30-hashrate-drop-are-bitcoin-miners-really-capitulating-g5o)
+- [Using AI and Chrome MCP to Automate Core Web Vitals](https://dev.to/marianocodes/using-ai-and-chrome-devtools-to-automate-core-web-vitals-56j1)
+- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
+- [Why Most A/B Tests Fail in Subscription Apps](https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64)
 <!-- BLOG-POST-LIST:END -->
 
