@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Send Email in FastAPI &lpar;+Code Snippets&rpar;](https://dev.to/sendlayer/how-to-send-email-in-fastapi-code-snippets-1ecd)
-- [How Do You Handle Validation Errors Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-validation-errors-globally-in-spring-boot-1mg2)
-- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
-- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
+- [Day 24 — Design for Resilience &lpar;The Last Stand&rpar;](https://dev.to/aerabi/day-24-design-for-resilience-the-last-stand-2dhj)
+- [Data Science: Turning Data into Actionable Business Insights](https://dev.to/khushi_jitani_ca127abdedd/data-science-turning-data-into-actionable-business-insights-3iml)
+- [Stop Building &quot;Zombie UI&quot;: The Resilient UX Checklist &lpar;Playwright + Python&rpar;](https://dev.to/aragossa/stop-building-zombie-ui-the-resilient-ux-checklist-playwright-python-3ahk)
+- [Optimizing Fleet Mobility with Intelligent Planning and Optimization](https://dev.to/richa_singh_11bd098df12c8/optimizing-fleet-mobility-with-intelligent-planning-and-optimization-24bk)
 <!-- BLOG-POST-LIST:END -->
 
