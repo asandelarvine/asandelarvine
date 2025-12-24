@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A 30% Hashrate Drop: Are Bitcoin Miners Really Capitulating?](https://dev.to/apnews/a-30-hashrate-drop-are-bitcoin-miners-really-capitulating-g5o)
-- [Using AI and Chrome MCP to Automate Core Web Vitals](https://dev.to/marianocodes/using-ai-and-chrome-devtools-to-automate-core-web-vitals-56j1)
-- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
-- [Why Most A/B Tests Fail in Subscription Apps](https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64)
+- [The Elm Architecture with React](https://dev.to/atmorojo/the-elm-architecture-with-react-2p1m)
+- [Digital Wellness: Building a Proactive Chatbot for Stress Support](https://dev.to/wellallytech/digital-wellness-building-a-proactive-chatbot-for-stress-support-11pi)
+- [All things Kiro &amp; Road to reinvent Hackathon Experience 2025](https://dev.to/aws-builders/all-things-kiro-road-to-reinvent-hackathon-experience-2025-21da)
+- [IMake: Reinventing Build Systems with Clarity and Efficiency for Native Linux Development](https://dev.to/lengjingzju/imake-reinventing-build-systems-with-clarity-and-efficiency-for-native-linux-development-gm0)
 <!-- BLOG-POST-LIST:END -->
 
