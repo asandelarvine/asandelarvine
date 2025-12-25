@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronized, Interactive, Realtime or Animated Data Visualizations on Video Walls](https://dev.to/bkavuncu/synchronized-interactive-realtime-or-animated-data-visualizations-on-video-walls-4anh)
-- [Introduction to GraphQL and How to Use It in Your Projects](https://dev.to/lacey_glenn_e95da24922778/introduction-to-graphql-and-how-to-use-it-in-your-projects-16ap)
-- [Building a Simple Wendy’s Menu Viewer with JavaScript](https://dev.to/tayyab_seo_31da4c784bd58f/building-a-simple-wendys-menu-viewer-with-javascript-31bk)
-- [Build a Twitter/X Community Tracker to Find Your Target Audience](https://dev.to/olams/build-a-twitterx-community-tracker-to-find-your-target-audience-3l66)
+- [This Week in AI: Key Insights from the Latest Podcast Conversations](https://dev.to/ethan_zhang_e501fea89c25b/this-week-in-ai-key-insights-from-the-latest-podcast-conversations-e7)
+- [I built a free tool that runs 15+ website diagnostic checks at once](https://dev.to/antoner-me/i-built-a-free-tool-that-runs-15-website-diagnostic-checks-at-once-3dnp)
+- [The Importance of a Healthy Lifestyle in Today’s Fast-Paced World](https://dev.to/dharmikk_baria_51b371d8c5/the-importance-of-a-healthy-lifestyle-in-todays-fast-paced-world-4pio)
+- [Angular vs React](https://dev.to/digitalcrafting/angular-vs-react-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
