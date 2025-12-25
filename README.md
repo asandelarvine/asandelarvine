@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best of 2025 from Rails Designer](https://dev.to/railsdesigner/the-best-of-2025-from-rails-designer-58ga)
-- [Rethinking How we write JSX in React - Part 1](https://dev.to/ashishsimplecoder/rethinking-how-we-write-jsx-in-react-part-1-4nl)
-- [Day-16 of DevOps: Mastering Dockerfiles, Volumes, and Docker Compose 🐳](https://dev.to/jayanth_dasari_7/day-16-of-devops-mastering-dockerfiles-volumes-and-docker-compose-5hm4)
-- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
+- [Maximize Profit Potential in AI with Monetzly&#39;s Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d)
+- [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk)
+- [I&#39;ve been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh)
+- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
 <!-- BLOG-POST-LIST:END -->
 
