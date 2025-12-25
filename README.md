@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
-- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
-- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
-- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
+- [How to Debug Webhook Integrations in Minutes &lpar;Step-by-Step Guide&rpar;](https://dev.to/ar27111994/how-to-debug-webhook-integrations-in-minutes-step-by-step-guide-3ccf)
+- [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
+- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
+- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
 <!-- BLOG-POST-LIST:END -->
 
