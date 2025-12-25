@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Our AI Hiring Platform Gets Smarter Without Code Changes](https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3)
-- [Render Alternatives: What to Use When Render Starts to Limit You](https://dev.to/kuberns_cloud/render-alternatives-what-to-use-when-render-starts-to-limit-you-17em)
-- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
-- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
+- [How to build dynamic forms in React using SurveyJS, Node.js &amp; MongoDB Backend](https://dev.to/mir_raashid_js/how-to-build-dynamic-forms-in-react-using-surveyjs-nodejs-mongodb-backend-1pa4)
+- [Getting Started with Go &lpar;Golang&rpar;: A Practical Guide for Developers](https://dev.to/yash_sonawane25/getting-started-with-go-golang-a-practical-guide-for-developers-78l)
+- [Building Production-Grade AI Agents with MCP &amp; A2A: A Guide from the Trenches](https://dev.to/exploredataaiml/building-production-grade-ai-agents-with-mcp-a2a-a-guide-from-the-trenches-1man)
+- [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
 <!-- BLOG-POST-LIST:END -->
 
