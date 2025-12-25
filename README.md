@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Wikibeem: Turning ClickUp Docs into Professional Documentation Sites](https://dev.to/toumi_abderrahmane_f07d5b/how-i-built-wikibeem-turning-clickup-docs-into-professional-documentation-sites-24md)
-- [Rigid Leg and Flexible Leg Design in Shipyard Gantry Cranes](https://dev.to/aicraneblog/rigid-leg-and-flexible-leg-design-in-shipyard-gantry-cranes-5h8c)
-- [Level 0 3 Physics: From Serial Prototypes to Parallel Manifolds and GPU Constraint Solvers](https://dev.to/p3ngu1nzz/level-0-3-physics-from-serial-prototypes-to-parallel-manifolds-and-gpu-constraint-solvers-25ii)
-- [I Wasted $3,200 on Reddit Ads. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-wasted-3200-on-reddit-ads-heres-what-actually-works-246f)
+- [How Our AI Hiring Platform Gets Smarter Without Code Changes](https://dev.to/dhyan_raj_98e6a5999c8d5ef/how-our-ai-hiring-platform-gets-smarter-without-code-changes-1kg3)
+- [Render Alternatives: What to Use When Render Starts to Limit You](https://dev.to/kuberns_cloud/render-alternatives-what-to-use-when-render-starts-to-limit-you-17em)
+- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
+- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
 <!-- BLOG-POST-LIST:END -->
 
