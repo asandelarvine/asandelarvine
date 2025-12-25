@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build dynamic forms in React using SurveyJS, Node.js &amp; MongoDB Backend](https://dev.to/mir_raashid_js/how-to-build-dynamic-forms-in-react-using-surveyjs-nodejs-mongodb-backend-1pa4)
-- [Getting Started with Go &lpar;Golang&rpar;: A Practical Guide for Developers](https://dev.to/yash_sonawane25/getting-started-with-go-golang-a-practical-guide-for-developers-78l)
-- [Building Production-Grade AI Agents with MCP &amp; A2A: A Guide from the Trenches](https://dev.to/exploredataaiml/building-production-grade-ai-agents-with-mcp-a2a-a-guide-from-the-trenches-1man)
-- [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
+- [I Protocolli di Rete Essenziali da Capire](https://dev.to/scape/i-protocolli-di-rete-essenziali-da-capire-fmm)
+- [Some people are becoming exceptional tool users. Others are becoming system builders.
+
+Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp)
+- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6)
+- [GitHub Actions: From Zero to Production&lpar;EP1&rpar;🚀](https://dev.to/vishwark/github-actions-from-zero-to-production-kmb)
 <!-- BLOG-POST-LIST:END -->
 
