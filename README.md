@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in AI: Key Insights from the Latest Podcast Conversations](https://dev.to/ethan_zhang_e501fea89c25b/this-week-in-ai-key-insights-from-the-latest-podcast-conversations-e7)
-- [I built a free tool that runs 15+ website diagnostic checks at once](https://dev.to/antoner-me/i-built-a-free-tool-that-runs-15-website-diagnostic-checks-at-once-3dnp)
-- [The Importance of a Healthy Lifestyle in Today’s Fast-Paced World](https://dev.to/dharmikk_baria_51b371d8c5/the-importance-of-a-healthy-lifestyle-in-todays-fast-paced-world-4pio)
-- [Angular vs React](https://dev.to/digitalcrafting/angular-vs-react-2hdm)
+- [Securing IoT: Best Practices for Developers in a Smart-Device World 🔐🌍](https://dev.to/heintingla/securing-iot-best-practices-for-developers-in-a-smart-device-world-1lfd)
+- [How Microsoft Access and WordPress Secretly Taught Me Programming](https://dev.to/mohamedisaac/how-microsoft-access-and-wordpress-secretly-taught-me-programming-h5o)
+- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
+- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
 <!-- BLOG-POST-LIST:END -->
 
