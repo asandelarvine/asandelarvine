@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How many Exercises do I have to know?](https://dev.to/bibimbop123/how-many-exercises-do-i-have-to-know-9n9)
-- [Why Good API Documentation Feels Invisible &lpar;Until It’s Missing&rpar;](https://dev.to/surhidamatya/why-good-api-documentation-feels-invisible-until-its-missing-28h8)
-- [What breaks trust in authentication UX](https://dev.to/antonmb/what-breaks-trust-in-authentication-ux-4kfo)
-- [c# interview questions](https://dev.to/shahzad111111/c-interview-questions-562o)
+- [CSS Shadows Mastery: Elevate Your Web Design with Box-Shadow &amp; Text-Shadow](https://dev.to/satyam_gupta_0d1ff2152dcc/css-shadows-mastery-elevate-your-web-design-with-box-shadow-text-shadow-435f)
+- [My First AWS Community Day Dubai &amp; that too as a Speaker :&rpar;](https://dev.to/amaan-igs/my-first-aws-community-day-dubai-that-too-as-a-speaker--4hnl)
+- [Gradient Descent vs Adam Optimizer: A Beginner’s Guide](https://dev.to/codeneuron/gradient-descent-vs-adam-optimizer-a-beginners-guide-3b7k)
+- [AI Tools for Automating Business Workflows](https://dev.to/_fde76ff2d01974642930b/ai-tools-for-automating-business-workflows-55fn)
 <!-- BLOG-POST-LIST:END -->
 
