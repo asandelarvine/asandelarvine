@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot vs Cursor vs Windsurf vs AntiGravity](https://dev.to/joaquin_sez_6de09e190ca1/github-copilot-vs-cursor-vs-windsurf-vs-antigravity-152d)
-- [New image sensor breaks optical limits](https://dev.to/aibuddyinc/new-image-sensor-breaks-optical-limits-3a65)
-- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
-- [The Future of DevOps: Key Trends Shaping 2025 and Beyond](https://dev.to/meena_nukala/the-future-of-devops-key-trends-shaping-2025-and-beyond-56eo)
+- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
+- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
+- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
+- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
 <!-- BLOG-POST-LIST:END -->
 
