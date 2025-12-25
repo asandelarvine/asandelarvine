@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Protocolli di Rete Essenziali da Capire](https://dev.to/scape/i-protocolli-di-rete-essenziali-da-capire-fmm)
-- [Some people are becoming exceptional tool users. Others are becoming system builders.
-
-Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp)
-- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6)
-- [GitHub Actions: From Zero to Production&lpar;EP1&rpar;🚀](https://dev.to/vishwark/github-actions-from-zero-to-production-kmb)
+- [How many Exercises do I have to know?](https://dev.to/bibimbop123/how-many-exercises-do-i-have-to-know-9n9)
+- [Why Good API Documentation Feels Invisible &lpar;Until It’s Missing&rpar;](https://dev.to/surhidamatya/why-good-api-documentation-feels-invisible-until-its-missing-28h8)
+- [What breaks trust in authentication UX](https://dev.to/antonmb/what-breaks-trust-in-authentication-ux-4kfo)
+- [c# interview questions](https://dev.to/shahzad111111/c-interview-questions-562o)
 <!-- BLOG-POST-LIST:END -->
 
