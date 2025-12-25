@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
-- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
-- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
-- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
+- [Improving Developer Productivity Without Burning Out Your Team Practical engineering habits that actually scale](https://dev.to/syfox_pr_17e3f352864295d7/improving-developer-productivity-without-burning-out-your-team-practical-engineering-habits-that-1hoc)
+- [How to Deploy a Voice AI Agent for HVAC Customer Inquiries: My Journey](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-for-hvac-customer-inquiries-my-journey-3pco)
+- [word2vec Explained: deriving Mikolov et al.&#39;s negative-sampling word-embeddingmethod](https://dev.to/paperium/word2vec-explained-deriving-mikolov-et-als-negative-sampling-word-embeddingmethod-jpl)
+- [Important Steps to Becoming a Successful Reseller on Creosca](https://dev.to/gift1210/important-steps-to-becoming-a-successful-reseller-on-creosca-2lca)
 <!-- BLOG-POST-LIST:END -->
 
