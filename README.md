@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Merry Christmas… in Your Linux Terminal 🎄](https://dev.to/igorgbr/merry-christmas-in-your-linux-terminal-5ei2)
-- [Week 2 Scripting Challenge: Caesarian Cipher](https://dev.to/fosres/week-2-scripting-challenge-caesarian-cipher-5916)
-- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
-- [Building a Blazing Fast CI Engine in Rust &lpar;That Dogfoods Itself!&rpar; 🦀⚡](https://dev.to/copyleftdev/building-a-blazing-fast-ci-engine-in-rust-that-dogfoods-itself-458l)
+- [GitHub Copilot vs Cursor vs Windsurf vs AntiGravity](https://dev.to/joaquin_sez_6de09e190ca1/github-copilot-vs-cursor-vs-windsurf-vs-antigravity-152d)
+- [New image sensor breaks optical limits](https://dev.to/aibuddyinc/new-image-sensor-breaks-optical-limits-3a65)
+- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
+- [The Future of DevOps: Key Trends Shaping 2025 and Beyond](https://dev.to/meena_nukala/the-future-of-devops-key-trends-shaping-2025-and-beyond-56eo)
 <!-- BLOG-POST-LIST:END -->
 
