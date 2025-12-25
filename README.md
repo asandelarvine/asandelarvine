@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cryptographic Audit Trails for SEC Rule 17a-4: A Technical Deep Dive](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-sec-rule-17a-4-a-technical-deep-dive-4hbp)
-- [2025-12-24 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-ai-news-4cao)
-- [linux day #1](https://dev.to/jumptotech/linux-day-1-2745)
-- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-42cm)
+- [How I Built Wikibeem: Turning ClickUp Docs into Professional Documentation Sites](https://dev.to/toumi_abderrahmane_f07d5b/how-i-built-wikibeem-turning-clickup-docs-into-professional-documentation-sites-24md)
+- [Rigid Leg and Flexible Leg Design in Shipyard Gantry Cranes](https://dev.to/aicraneblog/rigid-leg-and-flexible-leg-design-in-shipyard-gantry-cranes-5h8c)
+- [Level 0 3 Physics: From Serial Prototypes to Parallel Manifolds and GPU Constraint Solvers](https://dev.to/p3ngu1nzz/level-0-3-physics-from-serial-prototypes-to-parallel-manifolds-and-gpu-constraint-solvers-25ii)
+- [I Wasted $3,200 on Reddit Ads. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-wasted-3200-on-reddit-ads-heres-what-actually-works-246f)
 <!-- BLOG-POST-LIST:END -->
 
