@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Login with Supabase : What Each Provider is Really Doing](https://dev.to/cathylai/google-login-with-supabase-what-each-provider-is-really-doing-18b6)
-- [Consultas geoespaciais com PostGIS](https://dev.to/lucaspereiradesouzat/consultas-geoespaciais-com-postgis-1o1m)
-- [Why Every PropTech Startup Needs a Feasibility Engine](https://dev.to/abdul_shamim/why-every-proptech-startup-needs-a-feasibility-engine-35do)
-- [Getting Started with AI on AWS: A Practical Guide](https://dev.to/vasil_shaikh_f2c13100cab1/getting-started-with-ai-on-aws-a-practical-guide-3koa)
+- [The Best of 2025 from Rails Designer](https://dev.to/railsdesigner/the-best-of-2025-from-rails-designer-58ga)
+- [Rethinking How we write JSX in React - Part 1](https://dev.to/ashishsimplecoder/rethinking-how-we-write-jsx-in-react-part-1-4nl)
+- [Day-16 of DevOps: Mastering Dockerfiles, Volumes, and Docker Compose 🐳](https://dev.to/jayanth_dasari_7/day-16-of-devops-mastering-dockerfiles-volumes-and-docker-compose-5hm4)
+- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
 <!-- BLOG-POST-LIST:END -->
 
