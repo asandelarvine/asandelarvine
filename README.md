@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Developer Productivity Without Burning Out Your Team Practical engineering habits that actually scale](https://dev.to/syfox_pr_17e3f352864295d7/improving-developer-productivity-without-burning-out-your-team-practical-engineering-habits-that-1hoc)
-- [How to Deploy a Voice AI Agent for HVAC Customer Inquiries: My Journey](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-for-hvac-customer-inquiries-my-journey-3pco)
-- [word2vec Explained: deriving Mikolov et al.&#39;s negative-sampling word-embeddingmethod](https://dev.to/paperium/word2vec-explained-deriving-mikolov-et-als-negative-sampling-word-embeddingmethod-jpl)
-- [Important Steps to Becoming a Successful Reseller on Creosca](https://dev.to/gift1210/important-steps-to-becoming-a-successful-reseller-on-creosca-2lca)
+- [Merry Christmas… in Your Linux Terminal 🎄](https://dev.to/igorgbr/merry-christmas-in-your-linux-terminal-5ei2)
+- [Week 2 Scripting Challenge: Caesarian Cipher](https://dev.to/fosres/week-2-scripting-challenge-caesarian-cipher-5916)
+- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
+- [Building a Blazing Fast CI Engine in Rust &lpar;That Dogfoods Itself!&rpar; 🦀⚡](https://dev.to/copyleftdev/building-a-blazing-fast-ci-engine-in-rust-that-dogfoods-itself-458l)
 <!-- BLOG-POST-LIST:END -->
 
