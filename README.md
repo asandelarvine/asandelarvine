@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Shadows Mastery: Elevate Your Web Design with Box-Shadow &amp; Text-Shadow](https://dev.to/satyam_gupta_0d1ff2152dcc/css-shadows-mastery-elevate-your-web-design-with-box-shadow-text-shadow-435f)
-- [My First AWS Community Day Dubai &amp; that too as a Speaker :&rpar;](https://dev.to/amaan-igs/my-first-aws-community-day-dubai-that-too-as-a-speaker--4hnl)
-- [Gradient Descent vs Adam Optimizer: A Beginner’s Guide](https://dev.to/codeneuron/gradient-descent-vs-adam-optimizer-a-beginners-guide-3b7k)
-- [AI Tools for Automating Business Workflows](https://dev.to/_fde76ff2d01974642930b/ai-tools-for-automating-business-workflows-55fn)
+- [Synchronized, Interactive, Realtime or Animated Data Visualizations on Video Walls](https://dev.to/bkavuncu/synchronized-interactive-realtime-or-animated-data-visualizations-on-video-walls-4anh)
+- [Introduction to GraphQL and How to Use It in Your Projects](https://dev.to/lacey_glenn_e95da24922778/introduction-to-graphql-and-how-to-use-it-in-your-projects-16ap)
+- [Building a Simple Wendy’s Menu Viewer with JavaScript](https://dev.to/tayyab_seo_31da4c784bd58f/building-a-simple-wendys-menu-viewer-with-javascript-31bk)
+- [Build a Twitter/X Community Tracker to Find Your Target Audience](https://dev.to/olams/build-a-twitterx-community-tracker-to-find-your-target-audience-3l66)
 <!-- BLOG-POST-LIST:END -->
 
