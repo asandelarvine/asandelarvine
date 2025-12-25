@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
+- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
 - [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
 - [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
-- [Stop Building Drawing Tools From Scratch: Meet js-draw, The Library That Handles Infinite Zoom and Stylus Input](https://dev.to/githubopensource/stop-building-drawing-tools-from-scratch-meet-js-draw-the-library-that-handles-infinite-zoom-and-52eo)
-- [Too much code, too many PRs. AI, please send help!](https://dev.to/sekimori_roma/too-much-code-too-many-prs-ai-please-send-help-13i9)
 <!-- BLOG-POST-LIST:END -->
 
