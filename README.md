@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Profit Potential in AI with Monetzly&#39;s Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d)
-- [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk)
-- [I&#39;ve been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh)
-- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
+- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
+- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
+- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
+- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
 <!-- BLOG-POST-LIST:END -->
 
