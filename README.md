@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing IoT: Best Practices for Developers in a Smart-Device World 🔐🌍](https://dev.to/heintingla/securing-iot-best-practices-for-developers-in-a-smart-device-world-1lfd)
-- [How Microsoft Access and WordPress Secretly Taught Me Programming](https://dev.to/mohamedisaac/how-microsoft-access-and-wordpress-secretly-taught-me-programming-h5o)
-- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
-- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
+- [2025 in Review: The Adventures of Blink](https://dev.to/linkbenjamin/2025-in-review-the-adventures-of-blink-37jp)
+- [Homelabing - Local to online setup suppressing CGNAT](https://dev.to/priyanshuverma/homelabing-local-to-online-setup-suppressing-cgnat-mpd)
+- [Web Bluetooth Guide: How to Build a Real-Time Heart Rate Dashboard](https://dev.to/wellallytech/web-bluetooth-guide-how-to-build-a-real-time-heart-rate-dashboard-nj7)
+- [Runtime Environment Variables for React Apps with Nginx and Docker](https://dev.to/imzihad21/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62)
 <!-- BLOG-POST-LIST:END -->
 
