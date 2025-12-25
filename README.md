@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Webhook Integrations in Minutes &lpar;Step-by-Step Guide&rpar;](https://dev.to/ar27111994/how-to-debug-webhook-integrations-in-minutes-step-by-step-guide-3ccf)
-- [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
-- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
-- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
+- [Google Login with Supabase : What Each Provider is Really Doing](https://dev.to/cathylai/google-login-with-supabase-what-each-provider-is-really-doing-18b6)
+- [Consultas geoespaciais com PostGIS](https://dev.to/lucaspereiradesouzat/consultas-geoespaciais-com-postgis-1o1m)
+- [Why Every PropTech Startup Needs a Feasibility Engine](https://dev.to/abdul_shamim/why-every-proptech-startup-needs-a-feasibility-engine-35do)
+- [Getting Started with AI on AWS: A Practical Guide](https://dev.to/vasil_shaikh_f2c13100cab1/getting-started-with-ai-on-aws-a-practical-guide-3koa)
 <!-- BLOG-POST-LIST:END -->
 
