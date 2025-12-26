@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebClient ColdStart 문제](https://dev.to/headf1rst/webclient-coldstart-munje-44ln)
-- [IA DLC Con Kiro - Parte 1](https://dev.to/derocoxcloud/ia-dlc-con-kiro-parte-1-25b6)
-- [I built a free AI summarizer that turns any article into 5 key insights](https://dev.to/dehua_song_b54c6a9a611ce9/i-built-a-free-ai-summarizer-that-turns-any-article-into-5-key-insights-1ln2)
-- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-7p9)
+- [Martino D’abruzzo and the Practice of Purposeful Outdoorsmanship](https://dev.to/tinodabruzzo/martino-dabruzzo-and-the-practice-of-purposeful-outdoorsmanship-5d79)
+- [How I Built an Autonomous AI Startup System with 37 Agents Using Claude Code](https://dev.to/asklokesh/how-i-built-an-autonomous-ai-startup-system-with-37-agents-using-claude-code-2p79)
+- [Embed Any Content Instantly: Free Embedding Generator for Developers](https://dev.to/satendra_kaushik_74304936/embed-any-content-instantly-free-embedding-generator-for-developers-4c6c)
+- [Gemini unavailable in your region? 2026 Guide for Hong Kong &amp; Macau](https://dev.to/tobin_price_5d8e29bf002eb/gemini-unavailable-in-your-region-2026-guide-for-hong-kong-macau-59io)
 <!-- BLOG-POST-LIST:END -->
 
