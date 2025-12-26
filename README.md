@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Martino D’abruzzo and the Practice of Purposeful Outdoorsmanship](https://dev.to/tinodabruzzo/martino-dabruzzo-and-the-practice-of-purposeful-outdoorsmanship-5d79)
-- [How I Built an Autonomous AI Startup System with 37 Agents Using Claude Code](https://dev.to/asklokesh/how-i-built-an-autonomous-ai-startup-system-with-37-agents-using-claude-code-2p79)
-- [Embed Any Content Instantly: Free Embedding Generator for Developers](https://dev.to/satendra_kaushik_74304936/embed-any-content-instantly-free-embedding-generator-for-developers-4c6c)
-- [Gemini unavailable in your region? 2026 Guide for Hong Kong &amp; Macau](https://dev.to/tobin_price_5d8e29bf002eb/gemini-unavailable-in-your-region-2026-guide-for-hong-kong-macau-59io)
+- [I built a BYOK AI chatbot platform - here&#39;s why transparency beats convenience](https://dev.to/javid_karimov/i-built-a-byok-ai-chatbot-platform-heres-why-transparency-beats-convenience-3dde)
+- [The Importance of Fairness in AI Product Design](https://dev.to/shreyansh_rane_18d2a7cad2/the-importance-of-fairness-in-ai-product-design-54nd)
+- [Angular Resource API Pattern for Scalable Applications](https://dev.to/satnam_singh_7e9044f30dd2/angular-resource-api-pattern-for-scalable-applications-11p9)
+- [How to Build a UiPath Bot to Acquire Data from Credential-Based Source Systems](https://dev.to/enna/how-to-build-a-uipath-bot-to-acquire-data-from-credential-based-source-systems-13km)
 <!-- BLOG-POST-LIST:END -->
 
