@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
-- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
-- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
-- [How ADHD Adult Coach Methods Address Everyday Challenges](https://dev.to/coaching_withbrooke_1a5e/how-adhd-adult-coach-methods-address-everyday-challenges-4977)
+- [InfraForge v1.0.0 Launch](https://dev.to/infraforgelabs/infraforge-v100-launch-32hd)
+- [Exploring the Best National Parks in India: A Photographer’s Wildlife Paradise](https://dev.to/chaitwik_kumar_1719b6f14e/exploring-the-best-national-parks-in-india-a-photographers-wildlife-paradise-49m8)
+- [Model‑First Reasoning Myth‑Tech: One Mechanism, Two Dialects](https://dev.to/narnaiezzsshaa/model-first-reasoning-x-myth-tech-one-mechanism-two-dialects-3df5)
+- [From Chaos to Clarity: Use This Private Impact vs. Effort Matrix for Smarter Planning](https://dev.to/techno_kraft_in/from-chaos-to-clarity-use-this-private-impact-vs-effort-matrix-for-smarter-planning-4mg6)
 <!-- BLOG-POST-LIST:END -->
 
