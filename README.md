@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
-- [Why Your B2B Tool Stack Probably Has Too Many Overlapping Solutions](https://dev.to/aiexpertreviewer/why-your-b2b-tool-stack-probably-has-too-many-overlapping-solutions-4bkj)
-- [Why Your Brain Dumps LeetCode Solutions &lpar;And How to Fix It&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/why-your-brain-dumps-leetcode-solutions-and-how-to-fix-it-42p8)
-- [Automatically Refresh Forms After Status Changes in Model Driven Apps](https://dev.to/_neronotte/automatically-refresh-forms-after-status-changes-in-model-driven-apps-ig)
+- [VPC Part 2 : AWS Site-to-Site VPN &lpar;On-Prem Simulation&rpar;](https://dev.to/nash9/vpc-part-2-aws-site-to-site-vpn-on-prem-simulation-4eia)
+- [VPC Part 1 : AWS VPC Peering](https://dev.to/nash9/vpc-part-1-aws-vpc-peering-je4)
+- [Day 2 BookMyShow Progress](https://dev.to/vishwapratapsingh90/day-2-bookmyshow-progress-5c30)
+- [I Built a News App Because Indian Media Made Me Angry](https://dev.to/iojas/i-built-a-news-app-because-indian-media-made-me-angry-54dc)
 <!-- BLOG-POST-LIST:END -->
 
