@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Gradients: The Engine Behind Neural Network Learning](https://dev.to/rijultp/understanding-gradients-the-engine-behind-neural-network-learning-3om0)
-- [When &quot;Good Enough&quot; isn&#39;t enough: Why Netflix moved to Amazon Aurora. 🎬☁️](https://dev.to/morekiranp/when-good-enough-isnt-enough-why-netflix-moved-to-amazon-aurora-16m8)
-- [Solved: CodeVisualizer: Instantly Map Your Entire Codebase in VS Code](https://dev.to/techresolve/solved-codevisualizer-instantly-map-your-entire-codebase-in-vs-code-2cog)
-- [🚀 Build a Todo App API with FastAPI + uv &lpar;The Cleanest Way!&rpar;](https://dev.to/cmanish049/build-a-todo-app-api-with-fastapi-uv-the-cleanest-way-3g6p)
+- [How I Built a Real-Time Physics Engine for Electrical Engineering with Flutter](https://dev.to/rubenortz_/how-i-built-a-real-time-physics-engine-for-electrical-engineering-with-flutter-2jfh)
+- [Scale by Subtraction: An Engineering Leader’s View on Practical AI](https://dev.to/mosiddi/scale-by-subtraction-an-engineering-leaders-view-on-practical-ai-4iba)
+- [Building Reusable UI in React: Compound Components, Render Props, and API Design](https://dev.to/ward_khaddour/building-reusable-ui-in-react-compound-components-render-props-and-api-design-38lg)
+- [AI Trading Daily Report: December 26, 2025 | $+189.98](https://dev.to/igorganapolsky/ai-trading-daily-report-december-26-2025-18998-2838)
 <!-- BLOG-POST-LIST:END -->
 
