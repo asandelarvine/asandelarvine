@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
-- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
-- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
-- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
+- [[Smart Watch] [Stage] Single shelf compilation error: hvigor ERROR: Unexpected string in JSON at position 1877](https://dev.to/harmonyos/smart-watch-stage-single-shelf-compilation-error-hvigor-error-unexpected-string-in-json-at-2h06)
+- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
+- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
+- [How Amazon Sponsored Ad Placement Scraper Achieves 96% Success Rate](https://dev.to/loopsthings/how-amazon-sponsored-ad-placement-scraper-achieves-96-success-rate-ghf)
 <!-- BLOG-POST-LIST:END -->
 
