@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Smart Watch] [Stage] Single shelf compilation error: hvigor ERROR: Unexpected string in JSON at position 1877](https://dev.to/harmonyos/smart-watch-stage-single-shelf-compilation-error-hvigor-error-unexpected-string-in-json-at-2h06)
-- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
-- [Day 25 / 365 - Full Stack journey](https://dev.to/munin_borah/day-25-365-full-stack-journey-95i)
-- [How Amazon Sponsored Ad Placement Scraper Achieves 96% Success Rate](https://dev.to/loopsthings/how-amazon-sponsored-ad-placement-scraper-achieves-96-success-rate-ghf)
+- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
+- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
+- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
+- [How ADHD Adult Coach Methods Address Everyday Challenges](https://dev.to/coaching_withbrooke_1a5e/how-adhd-adult-coach-methods-address-everyday-challenges-4977)
 <!-- BLOG-POST-LIST:END -->
 
