@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Letter of Authorization Can Save Your Project &lpar;and Your Time&rpar;](https://dev.to/priyanshi_m_d195792bc9ee1/how-a-letter-of-authorization-can-save-your-project-and-your-time-2n6)
-- [I Built a 3D AI Avatar That Actually Sees and Talks Back 🎭](https://dev.to/kiranbaby14/i-built-a-3d-ai-avatar-that-actually-sees-and-talks-back-4j1a)
-- [Understanding LLM vs AI: What You Need to Know](https://dev.to/ash_dubai/understanding-llm-vs-ai-what-you-need-to-know-4h2l)
-- [Real-World LLM AI Examples I&#39;ve Used in My Projects](https://dev.to/ash_dubai/real-world-llm-ai-examples-ive-used-in-my-projects-4phk)
+- [Parrot Security OS Explained + Full Installation Guide](https://dev.to/rootxblogs/parrot-security-os-explained-full-installation-guide-5e4o)
+- [The 2025 Raku Advent Posts](https://dev.to/lizmat/the-2025-raku-advent-posts-3ldl)
+- [Full-Stack Observability: What It Really Means and Why It Matters in 2026](https://dev.to/rushikesh_langale_42ac365/full-stack-observability-what-it-really-means-and-why-it-matters-in-2026-2h11)
+- [How I Structure a Frontend Project for Better Readability](https://dev.to/ayush_gupta_3982a63fd60ba/how-i-structure-a-frontend-project-for-better-readability-k9k)
 <!-- BLOG-POST-LIST:END -->
 
