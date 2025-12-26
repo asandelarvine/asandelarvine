@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [InfraForge v1.0.0 Launch](https://dev.to/infraforgelabs/infraforge-v100-launch-32hd)
-- [Exploring the Best National Parks in India: A Photographer’s Wildlife Paradise](https://dev.to/chaitwik_kumar_1719b6f14e/exploring-the-best-national-parks-in-india-a-photographers-wildlife-paradise-49m8)
-- [Model‑First Reasoning Myth‑Tech: One Mechanism, Two Dialects](https://dev.to/narnaiezzsshaa/model-first-reasoning-x-myth-tech-one-mechanism-two-dialects-3df5)
-- [From Chaos to Clarity: Use This Private Impact vs. Effort Matrix for Smarter Planning](https://dev.to/techno_kraft_in/from-chaos-to-clarity-use-this-private-impact-vs-effort-matrix-for-smarter-planning-4mg6)
+- [Data Analytics Course in Telugu: A Complete Guide for Students and Working Professionals](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-a-complete-guide-for-students-and-working-professionals-4n47)
+- [The $7,500 Mistake Dentists Make With SEO &lpar;And How Mangools Fixes It&rpar;](https://dev.to/alan_luu/the-7500-mistake-dentists-make-with-seo-and-how-mangools-fixes-it-2gln)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
+- [SVG vs PNG vs WebP: Choosing the Right Image Format for Performance &amp; SEO](https://dev.to/frontendtoolstech/svg-vs-png-vs-webp-choosing-the-right-image-format-for-performance-seo-15b4)
 <!-- BLOG-POST-LIST:END -->
 
