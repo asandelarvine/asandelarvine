@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maestro: A Single Framework for Mobile and Web E2E Testing](https://dev.to/leading-edje/maestro-a-single-framework-for-mobile-and-web-e2e-testing-b98)
-- [Neovim for Blog Writing: Plugins, Keymaps, and a Cheatsheet](https://dev.to/prasincs/neovim-for-blog-writing-plugins-keymaps-and-a-cheatsheet-38fn)
-- [Streamline Your GitHub Actions Workflow with Act](https://dev.to/stelixx-insider/streamline-your-github-actions-workflow-with-act-4la7)
-- [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source Communities with DevEx](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2)
+- [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
+- [Why Your B2B Tool Stack Probably Has Too Many Overlapping Solutions](https://dev.to/aiexpertreviewer/why-your-b2b-tool-stack-probably-has-too-many-overlapping-solutions-4bkj)
+- [Why Your Brain Dumps LeetCode Solutions &lpar;And How to Fix It&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/why-your-brain-dumps-leetcode-solutions-and-how-to-fix-it-42p8)
+- [Automatically Refresh Forms After Status Changes in Model Driven Apps](https://dev.to/_neronotte/automatically-refresh-forms-after-status-changes-in-model-driven-apps-ig)
 <!-- BLOG-POST-LIST:END -->
 
