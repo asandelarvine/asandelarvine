@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Agent Skills from Scratch](https://dev.to/onlyoneaman/building-agent-skills-from-scratch-lbl)
-- [Building a Game Website With Zero Coding Experience &lpar;Thanks to Codex](https://dev.to/defoy/building-a-game-website-with-zero-coding-experience-thanks-to-codex-4dgg)
-- [Scale Ethically: Implement Multilingual AI Voice Models with Data Privacy](https://dev.to/callstacktech/scale-ethically-implement-multilingual-ai-voice-models-with-data-privacy-2h5h)
-- [Best AI Software Tools for Content Creation](https://dev.to/_fde76ff2d01974642930b/best-ai-software-tools-for-content-creation-412j)
+- [🚀 Where `npx` Exists &amp; What You Can Change &lpar;Deep Practical Guide&rpar;](https://dev.to/luckychauhan/where-npx-exists-what-you-can-change-deep-practical-guide-3df4)
+- [How Do You Validate Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-validate-query-parameters-in-spring-boot-4jgh)
+- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
+- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
 <!-- BLOG-POST-LIST:END -->
 
