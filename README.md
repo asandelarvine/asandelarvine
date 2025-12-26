@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Year of Model Context Protocol: From Experiment to Industry Standard](https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8)
-- [Top Digital Branding Publications: How Level Up Magazine Helps Brands Grow](https://dev.to/levelup_magzine_abd2554b8/top-digital-branding-publications-how-level-up-magazine-helps-brands-grow-1la9)
-- [A to Z Snapshot of the 2025 Tech Landscape](https://dev.to/logicverse_2025/a-to-z-snapshot-of-the-2025-tech-landscape-4b4e)
-- [Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration](https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo)
+- [Update FhyServe 1.0.10: Web Server &amp; Runtime Local](https://dev.to/fitri-hy/update-fhyserve-1010-web-server-runtime-local-3jbi)
+- [Skip the 4-year wait: build a DevOps career faster
+Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
+#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
+- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
+- [[Boost]](https://dev.to/nitinnair89/-17fj)
 <!-- BLOG-POST-LIST:END -->
 
