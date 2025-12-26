@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a BYOK AI chatbot platform - here&#39;s why transparency beats convenience](https://dev.to/javid_karimov/i-built-a-byok-ai-chatbot-platform-heres-why-transparency-beats-convenience-3dde)
-- [The Importance of Fairness in AI Product Design](https://dev.to/shreyansh_rane_18d2a7cad2/the-importance-of-fairness-in-ai-product-design-54nd)
-- [Angular Resource API Pattern for Scalable Applications](https://dev.to/satnam_singh_7e9044f30dd2/angular-resource-api-pattern-for-scalable-applications-11p9)
-- [How to Build a UiPath Bot to Acquire Data from Credential-Based Source Systems](https://dev.to/enna/how-to-build-a-uipath-bot-to-acquire-data-from-credential-based-source-systems-13km)
+- [Tracing the Meaning of a Word: Rendering &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/tracing-the-meaning-of-a-word-rendering-bite-size-article-115c)
+- [How Faulty Sensors Quietly Break Smart Heating Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2)
+- [What hampers IT Project executions](https://dev.to/sambathwins/what-hampers-it-project-executions-5dc7)
+- [Lazy vs. Eager Loading &amp; JPA Relationships](https://dev.to/vigneshwaralingam/lazy-vs-eager-loading-jpa-relationships-4f22)
 <!-- BLOG-POST-LIST:END -->
 
