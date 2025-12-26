@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VPC Part 2 : AWS Site-to-Site VPN &lpar;On-Prem Simulation&rpar;](https://dev.to/nash9/vpc-part-2-aws-site-to-site-vpn-on-prem-simulation-4eia)
-- [VPC Part 1 : AWS VPC Peering](https://dev.to/nash9/vpc-part-1-aws-vpc-peering-je4)
-- [Day 2 BookMyShow Progress](https://dev.to/vishwapratapsingh90/day-2-bookmyshow-progress-5c30)
-- [I Built a News App Because Indian Media Made Me Angry](https://dev.to/iojas/i-built-a-news-app-because-indian-media-made-me-angry-54dc)
+- [WebClient ColdStart 문제](https://dev.to/headf1rst/webclient-coldstart-munje-44ln)
+- [IA DLC Con Kiro - Parte 1](https://dev.to/derocoxcloud/ia-dlc-con-kiro-parte-1-25b6)
+- [I built a free AI summarizer that turns any article into 5 key insights](https://dev.to/dehua_song_b54c6a9a611ce9/i-built-a-free-ai-summarizer-that-turns-any-article-into-5-key-insights-1ln2)
+- [node-cron for scheduled jobs](https://dev.to/lucaspereiradesouzat/node-cron-for-scheduled-jobs-7p9)
 <!-- BLOG-POST-LIST:END -->
 
