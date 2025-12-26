@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update FhyServe 1.0.10: Web Server &amp; Runtime Local](https://dev.to/fitri-hy/update-fhyserve-1010-web-server-runtime-local-3jbi)
-- [Skip the 4-year wait: build a DevOps career faster
-Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
-#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
-- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
-- [[Boost]](https://dev.to/nitinnair89/-17fj)
+- [Building Agent Skills from Scratch](https://dev.to/onlyoneaman/building-agent-skills-from-scratch-lbl)
+- [Building a Game Website With Zero Coding Experience &lpar;Thanks to Codex](https://dev.to/defoy/building-a-game-website-with-zero-coding-experience-thanks-to-codex-4dgg)
+- [Scale Ethically: Implement Multilingual AI Voice Models with Data Privacy](https://dev.to/callstacktech/scale-ethically-implement-multilingual-ai-voice-models-with-data-privacy-2h5h)
+- [Best AI Software Tools for Content Creation](https://dev.to/_fde76ff2d01974642930b/best-ai-software-tools-for-content-creation-412j)
 <!-- BLOG-POST-LIST:END -->
 
