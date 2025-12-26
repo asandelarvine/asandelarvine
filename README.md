@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Where `npx` Exists &amp; What You Can Change &lpar;Deep Practical Guide&rpar;](https://dev.to/luckychauhan/where-npx-exists-what-you-can-change-deep-practical-guide-3df4)
-- [How Do You Validate Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-validate-query-parameters-in-spring-boot-4jgh)
-- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
-- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
+- [eDgeWrapper: Navigating the Future of Enterprise AI Integration](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-navigating-the-future-of-enterprise-ai-integration-3mdk)
+- [LEAF: A Benchmark for Federated Settings](https://dev.to/paperium/leaf-a-benchmark-for-federated-settings-1gbc)
+- [Future Trends in Wearable Tech: What Developers Should Expect](https://dev.to/lucas_wade_0596/future-trends-in-wearable-tech-what-developers-should-expect-3hk3)
+- [&quot;Netflix Effect&quot;: How Banks are Rewiring Money with AWS &amp; NVIDIA](https://dev.to/karentam_1225/netflix-effect-how-banks-are-rewiring-money-with-aws-nvidia-3fep)
 <!-- BLOG-POST-LIST:END -->
 
