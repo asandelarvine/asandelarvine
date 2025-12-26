@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Parrot Security OS Explained + Full Installation Guide](https://dev.to/rootxblogs/parrot-security-os-explained-full-installation-guide-5e4o)
-- [The 2025 Raku Advent Posts](https://dev.to/lizmat/the-2025-raku-advent-posts-3ldl)
-- [Full-Stack Observability: What It Really Means and Why It Matters in 2026](https://dev.to/rushikesh_langale_42ac365/full-stack-observability-what-it-really-means-and-why-it-matters-in-2026-2h11)
-- [How I Structure a Frontend Project for Better Readability](https://dev.to/ayush_gupta_3982a63fd60ba/how-i-structure-a-frontend-project-for-better-readability-k9k)
+- [Maestro: A Single Framework for Mobile and Web E2E Testing](https://dev.to/leading-edje/maestro-a-single-framework-for-mobile-and-web-e2e-testing-b98)
+- [Neovim for Blog Writing: Plugins, Keymaps, and a Cheatsheet](https://dev.to/prasincs/neovim-for-blog-writing-plugins-keymaps-and-a-cheatsheet-38fn)
+- [Streamline Your GitHub Actions Workflow with Act](https://dev.to/stelixx-insider/streamline-your-github-actions-workflow-with-act-4la7)
+- [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source Communities with DevEx](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2)
 <!-- BLOG-POST-LIST:END -->
 
