@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analytics Course in Telugu: A Complete Guide for Students and Working Professionals](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-a-complete-guide-for-students-and-working-professionals-4n47)
-- [The $7,500 Mistake Dentists Make With SEO &lpar;And How Mangools Fixes It&rpar;](https://dev.to/alan_luu/the-7500-mistake-dentists-make-with-seo-and-how-mangools-fixes-it-2gln)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
-- [SVG vs PNG vs WebP: Choosing the Right Image Format for Performance &amp; SEO](https://dev.to/frontendtoolstech/svg-vs-png-vs-webp-choosing-the-right-image-format-for-performance-seo-15b4)
+- [One Year of Model Context Protocol: From Experiment to Industry Standard](https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8)
+- [Top Digital Branding Publications: How Level Up Magazine Helps Brands Grow](https://dev.to/levelup_magzine_abd2554b8/top-digital-branding-publications-how-level-up-magazine-helps-brands-grow-1la9)
+- [A to Z Snapshot of the 2025 Tech Landscape](https://dev.to/logicverse_2025/a-to-z-snapshot-of-the-2025-tech-landscape-4b4e)
+- [Rethinking Expense Splitting: A Graph-Based Approach with LLM Integration](https://dev.to/naveen_v_5562871ba6455b7e/rethinking-expense-splitting-a-graph-based-approach-with-llm-integration-mbo)
 <!-- BLOG-POST-LIST:END -->
 
