@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eDgeWrapper: Navigating the Future of Enterprise AI Integration](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-navigating-the-future-of-enterprise-ai-integration-3mdk)
-- [LEAF: A Benchmark for Federated Settings](https://dev.to/paperium/leaf-a-benchmark-for-federated-settings-1gbc)
-- [Future Trends in Wearable Tech: What Developers Should Expect](https://dev.to/lucas_wade_0596/future-trends-in-wearable-tech-what-developers-should-expect-3hk3)
-- [&quot;Netflix Effect&quot;: How Banks are Rewiring Money with AWS &amp; NVIDIA](https://dev.to/karentam_1225/netflix-effect-how-banks-are-rewiring-money-with-aws-nvidia-3fep)
+- [How a Letter of Authorization Can Save Your Project &lpar;and Your Time&rpar;](https://dev.to/priyanshi_m_d195792bc9ee1/how-a-letter-of-authorization-can-save-your-project-and-your-time-2n6)
+- [I Built a 3D AI Avatar That Actually Sees and Talks Back 🎭](https://dev.to/kiranbaby14/i-built-a-3d-ai-avatar-that-actually-sees-and-talks-back-4j1a)
+- [Understanding LLM vs AI: What You Need to Know](https://dev.to/ash_dubai/understanding-llm-vs-ai-what-you-need-to-know-4h2l)
+- [Real-World LLM AI Examples I&#39;ve Used in My Projects](https://dev.to/ash_dubai/real-world-llm-ai-examples-ive-used-in-my-projects-4phk)
 <!-- BLOG-POST-LIST:END -->
 
