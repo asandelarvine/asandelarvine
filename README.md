@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swoole: an asynchronous framework for PHP](https://dev.to/__31337ac53cb/swoole-an-asynchronous-framework-for-php-21cc)
-- [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
-- [Why I Built a Calm, Structured AI Learning Platform for Beginners](https://dev.to/john_haworth_a503e7ff8249/why-i-built-a-calm-structured-ai-learning-platform-for-beginners-4m83)
-- [##🖥️ Ubuntu Laptop Home Server + Personal VPN &lpar;Tailscale Exit Node&rpar;](https://dev.to/reggiejohnson86/-ubuntu-laptop-home-server-personal-vpn-tailscale-exit-node-18b)
+- [# Building an HTTP Module in Node.js Using the HTTP Server](https://dev.to/sudiip__17/-building-an-http-module-in-nodejs-using-the-http-server-c72)
+- [Building a Zero-Trust Security Gateway for Local AI](https://dev.to/shynsec/building-a-zero-trust-security-gateway-for-local-ai-497k)
+- [Angular Zoneless: Migrating off Zone.js without breaking your UI](https://dev.to/georgehulpoi/angular-zoneless-migrating-off-zonejs-without-breaking-your-ui-3cek)
+- [How to Choose the Right Service Provider on Creosca as a Reseller](https://dev.to/gift1210/how-to-choose-the-right-service-provider-on-creosca-as-a-reseller-50ja)
 <!-- BLOG-POST-LIST:END -->
 
