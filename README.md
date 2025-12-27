@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CES 2026: ZDNet Highlights Key Trends in Foldables, AI, and TVs at Upcoming TechShow](https://dev.to/ytosko/ces-2026-zdnet-highlights-key-trends-in-foldables-ai-and-tvs-at-upcoming-techshow-4fh7)
-- [Governance of Power Platform – as enabler, not as gatekeeper](https://dev.to/swatantra/governance-of-power-platform-as-enabler-not-as-gatekeeper-53gk)
-- [Generative AI - Diffusion Models - Complete Tutorial](https://dev.to/hkj13/generative-ai-diffusion-models-complete-tutorial-1198)
-- [Decoding Life One Cell at a Time: A Journey Through Single-Cell RNA Sequencing](https://dev.to/jhhornn/decoding-life-one-cell-at-a-time-a-journey-through-single-cell-rna-sequencing-f5a)
+- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
+- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
+- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
+- [Top 5 best WordPress SEO tools in 2026](https://dev.to/dmetrovich/top-5-best-wordpress-seo-tools-in-2026-1nc8)
 <!-- BLOG-POST-LIST:END -->
 
