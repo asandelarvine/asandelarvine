@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia–Groq Talks Signal New Shift in the AI Chip Race](https://dev.to/logicverse_2025/nvidia-groq-talks-signal-new-shift-in-the-ai-chip-race-18o3)
-- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
-- [🕹️ Game Designer or Game Developer? Don’t Decide Too Early](https://dev.to/dinesh_04/game-designer-or-game-developer-dont-decide-too-early-35n7)
-- [Improved Simulation of Stabilizer Circuits](https://dev.to/paperium/improved-simulation-of-stabilizer-circuits-4hnc)
+- [Building Tamper-Proof Audit Trails for AI Content Pipelines: A Practical Guide to CAP](https://dev.to/veritaschain/building-tamper-proof-audit-trails-for-ai-content-pipelines-a-practical-guide-to-cap-1cc6)
+- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
+- [Best Productivity Tools I Discovered &lpar;And Actually Use&rpar;](https://dev.to/sharmamanish/best-productivity-tools-i-discovered-and-actually-use-355a)
+- [Docker Is Not Dead — But Podman Might Be Better](https://dev.to/bemals_dvanitha_5b14b68f9/docker-is-not-dead-but-podman-might-be-better-3hdj)
 <!-- BLOG-POST-LIST:END -->
 
