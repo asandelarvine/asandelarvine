@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Enterprise grade Multi‑Agent AI with AWS Strands &amp; Amazon Bedrock AgentCore](https://dev.to/sreeni5018/architecting-enterprise-grade-multi-agent-ai-with-aws-strands-amazon-bedrock-agentcore-4o93)
-- [Getting to know Claude better](https://dev.to/goatpug/getting-to-know-claude-better-572p)
-- [I Used My AI Nutrition Agent Every Day for a Month. Here&#39;s What I Actually Had to Fix](https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8)
-- [From Shared Infrastructure to Scalable Platforms: De-Risking Our Vertical Technology Roadmap](https://dev.to/jotheeswaran03/from-shared-infrastructure-to-scalable-platforms-de-risking-our-vertical-technology-roadmap-45l0)
+- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
+- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
+- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
+- [Playwright Visual Testing: Why Passing Tests Still Ship Broken UI](https://dev.to/pratik01/playwright-visual-testing-why-passing-tests-still-ship-broken-ui-2fai)
 <!-- BLOG-POST-LIST:END -->
 
