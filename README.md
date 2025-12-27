@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap: Adding a `dev` Subdomain to Your Production EC2 Environment](https://dev.to/ajitkumar/bridging-the-gap-adding-a-dev-subdomain-to-your-production-ec2-environment-1g16)
-- [Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)
-- [📌 Day 19: 21 Days of Building a Small Language Model: Residual Connections 📌](https://dev.to/lakhera2015/day-19-21-days-of-building-a-small-language-model-residual-connections-186k)
-- [The Danger of Letting AI Think for You](https://dev.to/rgbos/the-danger-of-letting-ai-think-for-you-4g9d)
+- [Architecting Enterprise grade Multi‑Agent AI with AWS Strands &amp; Amazon Bedrock AgentCore](https://dev.to/sreeni5018/architecting-enterprise-grade-multi-agent-ai-with-aws-strands-amazon-bedrock-agentcore-4o93)
+- [Getting to know Claude better](https://dev.to/goatpug/getting-to-know-claude-better-572p)
+- [I Used My AI Nutrition Agent Every Day for a Month. Here&#39;s What I Actually Had to Fix](https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8)
+- [From Shared Infrastructure to Scalable Platforms: De-Risking Our Vertical Technology Roadmap](https://dev.to/jotheeswaran03/from-shared-infrastructure-to-scalable-platforms-de-risking-our-vertical-technology-roadmap-45l0)
 <!-- BLOG-POST-LIST:END -->
 
