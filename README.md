@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools is missing these features, so I built them myself](https://dev.to/nhrdev/chrome-devtools-is-missing-these-features-so-i-built-them-myself-2ea4)
-- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
-- [I Built an Email API — Here&#39;s What I Learned About DKIM, SPF, and DMARC](https://dev.to/johan_s_/i-built-an-email-api-heres-what-i-learned-about-dkim-spf-and-dmarc-2ann)
-- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
+- [Swoole: an asynchronous framework for PHP](https://dev.to/__31337ac53cb/swoole-an-asynchronous-framework-for-php-21cc)
+- [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
+- [Why I Built a Calm, Structured AI Learning Platform for Beginners](https://dev.to/john_haworth_a503e7ff8249/why-i-built-a-calm-structured-ai-learning-platform-for-beginners-4m83)
+- [##🖥️ Ubuntu Laptop Home Server + Personal VPN &lpar;Tailscale Exit Node&rpar;](https://dev.to/reggiejohnson86/-ubuntu-laptop-home-server-personal-vpn-tailscale-exit-node-18b)
 <!-- BLOG-POST-LIST:END -->
 
