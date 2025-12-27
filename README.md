@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I swapped a Relational Database for Neo4j to build a Skill-Gap Identifier 🚀](https://dev.to/harsha_vardhanreddy_15a5/why-i-swapped-a-relational-database-for-neo4j-to-build-a-skill-gap-identifier-2hnj)
-- [Project Corsa: The Untold Story of TypeScript 7 &lpar;A Git Forensic Thriller&rpar;](https://dev.to/copyleftdev/project-corsa-the-untold-story-of-typescript-7-a-git-forensic-thriller-40jg)
-- [https://iwcindianwebsitecompany.blogspot.com/2025/12/duplicate-content-in-ecommerce.html](https://dev.to/indianwebsiteco/httpsiwcindianwebsitecompanyblogspotcom202512duplicate-content-in-ecommercehtml-ji3)
-- [Building a Full-Stack E-Commerce Platform with AWS](https://dev.to/randiakm/building-a-full-stack-e-commerce-platform-with-aws-3hki)
+- [How APIs Actually Travel Between Systems](https://dev.to/surhidamatya/how-apis-actually-travel-between-systems-5adj)
+- [From ClickOps to DevOps: My First Infrastructure as Code Project with Terraform](https://dev.to/rohanan07/from-clickops-to-devops-my-first-infrastructure-as-code-project-with-terraform-3fcn)
+- [When Teams Go Quiet, It&#39;s Dangerous: Reading Project Crisis Signals](https://dev.to/_jeongyuhyeon_03de1/when-teams-go-quiet-its-dangerous-reading-project-crisis-signals-5ca2)
+- [Quark&#39;s Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)
 <!-- BLOG-POST-LIST:END -->
 
