@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Tamper-Proof Audit Trails for AI Content Pipelines: A Practical Guide to CAP](https://dev.to/veritaschain/building-tamper-proof-audit-trails-for-ai-content-pipelines-a-practical-guide-to-cap-1cc6)
-- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
-- [Best Productivity Tools I Discovered &lpar;And Actually Use&rpar;](https://dev.to/sharmamanish/best-productivity-tools-i-discovered-and-actually-use-355a)
-- [Docker Is Not Dead — But Podman Might Be Better](https://dev.to/bemals_dvanitha_5b14b68f9/docker-is-not-dead-but-podman-might-be-better-3hdj)
+- [The Silent Pandemic: How Viral File Spread Threatens Our Digital Safety and How to Fight Back](https://dev.to/freedom-coder/the-silent-pandemic-how-viral-file-spread-threatens-our-digital-safety-and-how-to-fight-back-4ndg)
+- [Permanent Metal QR Tags vs Printed QR Codes — Which Works Better in Industrial Environments?](https://dev.to/posttechsupportteam/permanent-metal-qr-tags-vs-printed-qr-codes-which-works-better-in-industrial-environments-30fp)
+- [Deno 2 vs Node.js vs Bun in 2026: The Complete JavaScript Runtime Comparison](https://dev.to/hobbada/deno-2-vs-nodejs-vs-bun-in-2026-the-complete-javascript-runtime-comparison-1elm)
+- [Model Context Protocol &lpar;MCP&rpar;: The Complete Guide to Building AI Agents That Actually Work](https://dev.to/hobbada/model-context-protocol-mcp-the-complete-guide-to-building-ai-agents-that-actually-work-2e6h)
 <!-- BLOG-POST-LIST:END -->
 
