@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
-- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
-- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
-- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
+- [The Complete Guide to Streaming LLM Responses in Web Applications: From SSE to Real-Time UI](https://dev.to/hobbada/the-complete-guide-to-streaming-llm-responses-in-web-applications-from-sse-to-real-time-ui-3534)
+- [How I’d Become a Backend Developer in 2026 &lpar;If I Were Starting Today&rpar;](https://dev.to/a9kit_kumar/how-id-become-a-backend-developer-in-2026-if-i-were-starting-today-41bc)
+- [Working With Images That Outlive Their Stories](https://dev.to/aaroncole/working-with-images-that-outlive-their-stories-1i0p)
+- [I’ve Been Doing This for 25 Years and I Still Google Everything](https://dev.to/zerotrustzeroenergy/ive-been-doing-this-for-25-years-and-i-still-google-everything-2kc9)
 <!-- BLOG-POST-LIST:END -->
 
