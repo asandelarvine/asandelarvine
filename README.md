@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Building an HTTP Module in Node.js Using the HTTP Server](https://dev.to/sudiip__17/-building-an-http-module-in-nodejs-using-the-http-server-c72)
-- [Building a Zero-Trust Security Gateway for Local AI](https://dev.to/shynsec/building-a-zero-trust-security-gateway-for-local-ai-497k)
-- [Angular Zoneless: Migrating off Zone.js without breaking your UI](https://dev.to/georgehulpoi/angular-zoneless-migrating-off-zonejs-without-breaking-your-ui-3cek)
-- [How to Choose the Right Service Provider on Creosca as a Reseller](https://dev.to/gift1210/how-to-choose-the-right-service-provider-on-creosca-as-a-reseller-50ja)
+- [How to fix problem: Can&#39;t extend partition C:?](https://dev.to/justplegend/how-to-fix-problem-cant-extend-partition-c-4n9c)
+- [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
+- [How a Solo Dev at a Dealership Runs the Entire IT Department with Claude Code](https://dev.to/aj3/how-a-solo-dev-at-a-dealership-runs-the-entire-it-department-with-claude-code-2nn6)
+- [[Boost]](https://dev.to/barbara_gaspar/-588k)
 <!-- BLOG-POST-LIST:END -->
 
