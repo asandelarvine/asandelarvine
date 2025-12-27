@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Streaming LLM Responses in Web Applications: From SSE to Real-Time UI](https://dev.to/hobbada/the-complete-guide-to-streaming-llm-responses-in-web-applications-from-sse-to-real-time-ui-3534)
-- [How I’d Become a Backend Developer in 2026 &lpar;If I Were Starting Today&rpar;](https://dev.to/a9kit_kumar/how-id-become-a-backend-developer-in-2026-if-i-were-starting-today-41bc)
-- [Working With Images That Outlive Their Stories](https://dev.to/aaroncole/working-with-images-that-outlive-their-stories-1i0p)
-- [I’ve Been Doing This for 25 Years and I Still Google Everything](https://dev.to/zerotrustzeroenergy/ive-been-doing-this-for-25-years-and-i-still-google-everything-2kc9)
+- [Content Delivery Patterns on AWS: CloudFront, ALB, and S3](https://dev.to/irfansatrio/content-delivery-patterns-on-aws-cloudfront-alb-and-s3-23i7)
+- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
+- [Automatic LetsEncrypt certificates with Tailscale and Traefik in Docker](https://dev.to/thes1lv3r/automatic-letsencrypt-certificates-with-tailscale-and-traefik-in-docker-333i)
+- [From IP to Identity: The Complete Guide to Deploying Django with SSL, Nginx, and Docker](https://dev.to/ajitkumar/from-ip-to-identity-the-complete-guide-to-deploying-django-with-ssl-nginx-and-docker-a90)
 <!-- BLOG-POST-LIST:END -->
 
