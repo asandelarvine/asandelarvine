@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ Simplificando o Código com o Padrão Composite &lpar;Composição&rpar; no React](https://dev.to/nathita/simplificando-o-codigo-com-o-padrao-composite-composicao-no-react-2k3p)
-- [Solved: The engineering problem, or what to do if you don’t know how to talk to people?](https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai)
-- [Fixing Android Emulator Lag on Windows &lpar;AVD Config Tweaks That Actually Work&rpar;](https://dev.to/zain_mhesn/fixing-android-emulator-lag-on-windows-avd-config-tweaks-that-actually-work-2bl1)
-- [AI আপনাকে কোড বানিয়ে দেবে।](https://dev.to/mehedidevops/ai-aapnaake-kodd-baaniyye-debe--54p6)
+- [Coding Challenge Practice - Question 88](https://dev.to/tomivan/coding-challenge-practice-question-88-57nd)
+- [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://dev.to/paperium/ediff-i-text-to-image-diffusion-models-with-an-ensemble-of-expert-denoisers-d0a)
+- [2025-12-27 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-27-daily-robotics-news-19k5)
+- [Solved: Pacemaker/DRBD: Auto-failback kills active DRBD Sync Primary to Secondary. How to prevent this?](https://dev.to/techresolve/solved-pacemakerdrbd-auto-failback-kills-active-drbd-sync-primary-to-secondary-how-to-prevent-48ee)
 <!-- BLOG-POST-LIST:END -->
 
