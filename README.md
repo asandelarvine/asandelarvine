@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
-- [Cybersecurity ProxyChains: A Mask of Anonymity](https://dev.to/thmnagpur/cybersecurity-proxychains-a-mask-of-anonymity-45pn)
-- [Solved: TryHackMe Co-founder AMA: Get Hired in Cyber Security &amp; Build Elite Teams.](https://dev.to/techresolve/solved-tryhackme-co-founder-ama-get-hired-in-cyber-security-build-elite-teams-i13)
-- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
+- [Chrome DevTools is missing these features, so I built them myself](https://dev.to/nhrdev/chrome-devtools-is-missing-these-features-so-i-built-them-myself-2ea4)
+- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
+- [I Built an Email API — Here&#39;s What I Learned About DKIM, SPF, and DMARC](https://dev.to/johan_s_/i-built-an-email-api-heres-what-i-learned-about-dkim-spf-and-dmarc-2ann)
+- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
 <!-- BLOG-POST-LIST:END -->
 
