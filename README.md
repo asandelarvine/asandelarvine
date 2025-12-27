@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
-- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
-- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
-- [Playwright Visual Testing: Why Passing Tests Still Ship Broken UI](https://dev.to/pratik01/playwright-visual-testing-why-passing-tests-still-ship-broken-ui-2fai)
+- [Nvidia–Groq Talks Signal New Shift in the AI Chip Race](https://dev.to/logicverse_2025/nvidia-groq-talks-signal-new-shift-in-the-ai-chip-race-18o3)
+- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
+- [🕹️ Game Designer or Game Developer? Don’t Decide Too Early](https://dev.to/dinesh_04/game-designer-or-game-developer-dont-decide-too-early-35n7)
+- [Improved Simulation of Stabilizer Circuits](https://dev.to/paperium/improved-simulation-of-stabilizer-circuits-4hnc)
 <!-- BLOG-POST-LIST:END -->
 
