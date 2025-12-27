@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries for Large-Scale Data Applications](https://dev.to/bakhat_yar_016451bb6f3b86/optimizing-postgresql-queries-for-large-scale-data-applications-16f0)
-- [Stop Rewriting Authentication in Node.js — I Built a Devise-Inspired Auth Kit](https://dev.to/yogendra_prajapati_3c7d83/stop-rewriting-authentication-in-nodejs-i-built-a-devise-inspired-auth-kit-1l5p)
-- [[Boost]](https://dev.to/techno_kraft_in/-3nho)
-- [Run SQLite in the Browser with Blazor WebAssembly: A Practical Step‑by‑Step Guide](https://dev.to/auyeungdavid_2847435260/run-sqlite-in-the-browser-with-blazor-webassembly-a-practical-step-by-step-guide-2e2p)
+- [Bridging the Gap: Adding a `dev` Subdomain to Your Production EC2 Environment](https://dev.to/ajitkumar/bridging-the-gap-adding-a-dev-subdomain-to-your-production-ec2-environment-1g16)
+- [Busting the Randomness: Building Predictable AI with Reliable Prompt Designs](https://dev.to/mabualzait/busting-the-randomness-building-predictable-ai-with-reliable-prompt-designs-2b2b)
+- [📌 Day 19: 21 Days of Building a Small Language Model: Residual Connections 📌](https://dev.to/lakhera2015/day-19-21-days-of-building-a-small-language-model-residual-connections-186k)
+- [The Danger of Letting AI Think for You](https://dev.to/rgbos/the-danger-of-letting-ai-think-for-you-4g9d)
 <!-- BLOG-POST-LIST:END -->
 
