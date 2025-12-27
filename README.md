@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Pandemic: How Viral File Spread Threatens Our Digital Safety and How to Fight Back](https://dev.to/freedom-coder/the-silent-pandemic-how-viral-file-spread-threatens-our-digital-safety-and-how-to-fight-back-4ndg)
-- [Permanent Metal QR Tags vs Printed QR Codes — Which Works Better in Industrial Environments?](https://dev.to/posttechsupportteam/permanent-metal-qr-tags-vs-printed-qr-codes-which-works-better-in-industrial-environments-30fp)
-- [Deno 2 vs Node.js vs Bun in 2026: The Complete JavaScript Runtime Comparison](https://dev.to/hobbada/deno-2-vs-nodejs-vs-bun-in-2026-the-complete-javascript-runtime-comparison-1elm)
-- [Model Context Protocol &lpar;MCP&rpar;: The Complete Guide to Building AI Agents That Actually Work](https://dev.to/hobbada/model-context-protocol-mcp-the-complete-guide-to-building-ai-agents-that-actually-work-2e6h)
+- [Why I swapped a Relational Database for Neo4j to build a Skill-Gap Identifier 🚀](https://dev.to/harsha_vardhanreddy_15a5/why-i-swapped-a-relational-database-for-neo4j-to-build-a-skill-gap-identifier-2hnj)
+- [Project Corsa: The Untold Story of TypeScript 7 &lpar;A Git Forensic Thriller&rpar;](https://dev.to/copyleftdev/project-corsa-the-untold-story-of-typescript-7-a-git-forensic-thriller-40jg)
+- [https://iwcindianwebsitecompany.blogspot.com/2025/12/duplicate-content-in-ecommerce.html](https://dev.to/indianwebsiteco/httpsiwcindianwebsitecompanyblogspotcom202512duplicate-content-in-ecommercehtml-ji3)
+- [Building a Full-Stack E-Commerce Platform with AWS](https://dev.to/randiakm/building-a-full-stack-e-commerce-platform-with-aws-3hki)
 <!-- BLOG-POST-LIST:END -->
 
