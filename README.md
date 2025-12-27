@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Bushido: Designing Tension with Only Two Buttons &lpar;7 Games in 7 Weeks - Week 3&rpar;](https://dev.to/asaleg/building-bushido-designing-tension-with-only-two-buttons-7-games-in-7-weeks-week-3-1727)
-- [Kibana: Visualizing Your Data Story](https://dev.to/stelixx-insider/kibana-visualizing-your-data-story-ie3)
-- [When 200 OK Doesn&#39;t Mean Everything Is OK](https://dev.to/p12se/when-200-ok-doesnt-mean-everything-is-ok-4g4o)
-- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
+- [CES 2026: ZDNet Highlights Key Trends in Foldables, AI, and TVs at Upcoming TechShow](https://dev.to/ytosko/ces-2026-zdnet-highlights-key-trends-in-foldables-ai-and-tvs-at-upcoming-techshow-4fh7)
+- [Governance of Power Platform – as enabler, not as gatekeeper](https://dev.to/swatantra/governance-of-power-platform-as-enabler-not-as-gatekeeper-53gk)
+- [Generative AI - Diffusion Models - Complete Tutorial](https://dev.to/hkj13/generative-ai-diffusion-models-complete-tutorial-1198)
+- [Decoding Life One Cell at a Time: A Journey Through Single-Cell RNA Sequencing](https://dev.to/jhhornn/decoding-life-one-cell-at-a-time-a-journey-through-single-cell-rna-sequencing-f5a)
 <!-- BLOG-POST-LIST:END -->
 
