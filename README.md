@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
-- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
-- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
-- [Top 5 best WordPress SEO tools in 2026](https://dev.to/dmetrovich/top-5-best-wordpress-seo-tools-in-2026-1nc8)
+- [Autosave works. Until it doesn’t.](https://dev.to/plc-creates/autosave-works-until-it-doesnt-2l3i)
+- [I Built a Wrapper to Fix the Two Biggest Problems with LocalStorage](https://dev.to/kushalst/i-built-a-wrapper-to-fix-the-two-biggest-problems-with-localstorage-keh)
+- [Symfony Station Communiqué - Stardate: ✦ 26 December 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-26-december-2025-234k)
+- [Proxy and Reflect in JavaScript](https://dev.to/lucaspereiradesouzat/proxy-and-reflect-in-javascript-51c8)
 <!-- BLOG-POST-LIST:END -->
 
