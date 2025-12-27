@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autosave works. Until it doesn’t.](https://dev.to/plc-creates/autosave-works-until-it-doesnt-2l3i)
-- [I Built a Wrapper to Fix the Two Biggest Problems with LocalStorage](https://dev.to/kushalst/i-built-a-wrapper-to-fix-the-two-biggest-problems-with-localstorage-keh)
-- [Symfony Station Communiqué - Stardate: ✦ 26 December 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-26-december-2025-234k)
-- [Proxy and Reflect in JavaScript](https://dev.to/lucaspereiradesouzat/proxy-and-reflect-in-javascript-51c8)
+- [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
+- [Cybersecurity ProxyChains: A Mask of Anonymity](https://dev.to/thmnagpur/cybersecurity-proxychains-a-mask-of-anonymity-45pn)
+- [Solved: TryHackMe Co-founder AMA: Get Hired in Cyber Security &amp; Build Elite Teams.](https://dev.to/techresolve/solved-tryhackme-co-founder-ama-get-hired-in-cyber-security-build-elite-teams-i13)
+- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
 <!-- BLOG-POST-LIST:END -->
 
