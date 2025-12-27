@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Delivery Patterns on AWS: CloudFront, ALB, and S3](https://dev.to/irfansatrio/content-delivery-patterns-on-aws-cloudfront-alb-and-s3-23i7)
-- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
-- [Automatic LetsEncrypt certificates with Tailscale and Traefik in Docker](https://dev.to/thes1lv3r/automatic-letsencrypt-certificates-with-tailscale-and-traefik-in-docker-333i)
-- [From IP to Identity: The Complete Guide to Deploying Django with SSL, Nginx, and Docker](https://dev.to/ajitkumar/from-ip-to-identity-the-complete-guide-to-deploying-django-with-ssl-nginx-and-docker-a90)
+- [Optimizing PostgreSQL Queries for Large-Scale Data Applications](https://dev.to/bakhat_yar_016451bb6f3b86/optimizing-postgresql-queries-for-large-scale-data-applications-16f0)
+- [Stop Rewriting Authentication in Node.js — I Built a Devise-Inspired Auth Kit](https://dev.to/yogendra_prajapati_3c7d83/stop-rewriting-authentication-in-nodejs-i-built-a-devise-inspired-auth-kit-1l5p)
+- [[Boost]](https://dev.to/techno_kraft_in/-3nho)
+- [Run SQLite in the Browser with Blazor WebAssembly: A Practical Step‑by‑Step Guide](https://dev.to/auyeungdavid_2847435260/run-sqlite-in-the-browser-with-blazor-webassembly-a-practical-step-by-step-guide-2e2p)
 <!-- BLOG-POST-LIST:END -->
 
