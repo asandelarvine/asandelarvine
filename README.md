@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re launching on ProductHunt](https://dev.to/anthonymax/were-launching-on-producthunt-3i43)
-- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
-- [How to Calculate Lead Generation ROI: Budget Planning Tools and Strategies That Work](https://dev.to/digicarrom/how-to-calculate-lead-generation-roi-budget-planning-tools-and-strategies-that-work-4hgg)
-- [Mastering Low Light Photography: From Blurry Mess to Stunning Shots](https://dev.to/techgenius/mastering-low-light-photography-from-blurry-mess-to-stunning-shots-apo)
+- [I Built DevTrace — A Community for Developers Who Build in Public](https://dev.to/rushikesh_bodakhe_db28644/i-built-devtrace-a-community-for-developers-who-build-in-public-3j79)
+- [watermelon encryption/decryption v1.2](https://dev.to/salu_pinho_015b91a01060bd/watermelon-encryptiondecryption-v12-4d74)
+- [Speedtest Tracker: Monitor Your Internet Performance](https://dev.to/stelixx-insider/speedtest-tracker-monitor-your-internet-performance-2174)
+- [ComputeKit: A React Toolkit for Heavy Computations Without Freezing the UI](https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a)
 <!-- BLOG-POST-LIST:END -->
 
