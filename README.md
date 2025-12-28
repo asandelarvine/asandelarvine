@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
-- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
-- [Learning Cookie Creation and Access Through Implementation &lpar;Part 3&rpar;](https://dev.to/bysontech_8dd1313811a8895/learning-cookie-creation-and-access-through-implementation-part-3-52on)
-- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
+- [Let’s fight the bugs!](https://dev.to/art_light/lets-fight-the-bugs-1h61)
+- [DevRealityOps Manifesto](https://dev.to/yuji_marutani/devrealityops-manifesto-30lk)
+- [68. Text Justification | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/68-text-justification-leetcode-top-interview-150-coding-questions-aad)
+- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
 <!-- BLOG-POST-LIST:END -->
 
