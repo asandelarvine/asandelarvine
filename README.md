@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design - EP 4.2 - CA vs. AP vs. CP - What to Choose and When](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-42-ca-vs-ap-vs-cp-what-to-choose-and-when-3nim)
-- [For the upcoming year...](https://dev.to/aniket_kuyate_15acc4e6587/for-the-upcoming-year-4600)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_6331818c/files-are-not-just-data-a-guide-to-robust-file-handling-3icm)
-- [Clean Code Principles](https://dev.to/lucaspereiradesouzat/clean-code-principles-4jkn)
+- [Perl PAGI Project Update](https://dev.to/jjn1056/perl-pagi-project-update-2n2p)
+- [Tecnologie e Protocolli dello Streaming Video: Una Guida Tecnica Avanzata](https://dev.to/david_fabrizio/tecnologie-e-protocolli-dello-streaming-video-una-guida-tecnica-avanzata-pci)
+- [What Is AI Shopping Visibility? How AI Assistants Discover Products](https://dev.to/david_mishra_750e7e447a2c/what-is-ai-shopping-visibility-how-ai-assistants-discover-products-40nd)
+- [Engineering in the WILD - EP 7 - Why &#39;Frontend Validation&#39; is a Myth](https://dev.to/hrishikesh_dalal_ced8f95e/engineering-in-the-wild-ep-7-why-frontend-validation-is-a-myth-52a7)
 <!-- BLOG-POST-LIST:END -->
 
