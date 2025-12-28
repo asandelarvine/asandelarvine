@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Week of Self-Hosting Adventures](https://dev.to/piyush-linux/my-week-of-self-hosting-adventures-2o18)
-- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
-- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
-- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
+- [linux day #6](https://dev.to/jumptotech/linux-day-6-35ol)
+- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
+- [Understanding Cookies from the Ground Up: Part 1 - Fundamentals and the Critical Difference between 1st and 3rd Party Cookies](https://dev.to/bysontech_8dd1313811a8895/understanding-cookies-from-the-ground-up-part-1-fundamentals-and-the-critical-difference-between-2ofg)
+- [Why I Chose Voice Over Chat for AI Interviews &lpar;And Why It Almost Backfired&rpar;](https://dev.to/ambalogun/why-i-chose-voice-over-chat-for-ai-interviews-and-why-it-almost-backfired-2fab)
 <!-- BLOG-POST-LIST:END -->
 
