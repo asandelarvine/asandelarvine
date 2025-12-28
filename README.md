@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Claritools with Next.js: A Fast, No-Friction Tools Platform](https://dev.to/harsh_yaduvanshi_74957b8b/building-claritools-with-nextjs-a-fast-no-friction-tools-platform-2cpa)
-- [TypeScript 6.0 Deep Dive: Why the 2025 Evolution Changes Everything](https://dev.to/dataformathub/typescript-60-deep-dive-why-the-2025-evolution-changes-everything-58gl)
-- [Interview puzzle: &quot;2 users buy last item, who win?&quot;](https://dev.to/mnhnam1301/concurrency-lost-updates-false-conflicts-29i4)
-- [Amazon Nova 2: AWS&#39;s Reasoning Models That Actually Get Production Needs!](https://dev.to/ahmedadel/amazon-nova-2-awss-reasoning-models-that-actually-get-production-needs-2ad0)
+- [System Design - EP 4.2 - CA vs. AP vs. CP - What to Choose and When](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-42-ca-vs-ap-vs-cp-what-to-choose-and-when-3nim)
+- [For the upcoming year...](https://dev.to/aniket_kuyate_15acc4e6587/for-the-upcoming-year-4600)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_6331818c/files-are-not-just-data-a-guide-to-robust-file-handling-3icm)
+- [Clean Code Principles](https://dev.to/lucaspereiradesouzat/clean-code-principles-4jkn)
 <!-- BLOG-POST-LIST:END -->
 
