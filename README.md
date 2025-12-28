@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your React Page Speed: How @opensite/hooks Reduces Bundle Size and API Calls by 95%](https://dev.to/opensite/supercharge-your-react-page-speed-how-opensitehooks-reduces-bundle-size-and-api-calls-by-95-4n41)
-- [Solved: Error when updating PowerShell](https://dev.to/techresolve/solved-error-when-updating-powershell-dk6)
-- [Solved: PoE+++?! WHEN WILL THE MADNESS END?](https://dev.to/techresolve/solved-poe-when-will-the-madness-end-3ki)
-- [How to Turn Cloud &quot;Trash&quot; into a Golden 100GB Encrypted Vault &lpar;LVM + rclone&rpar;](https://dev.to/lag_lagendary/how-to-turn-cloud-trash-into-a-golden-100gb-encrypted-vault-lvm-rclone-1lc5)
+- [Forensic Analysis: The Unverified Backend of DIVEXA](https://dev.to/nezahualpillitlapalco/forensic-analysis-the-unverified-backend-of-divexa-2mdh)
+- [Google Cloud SQL: The Ultimate Guide to Managed Relational Databases](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-sql-the-ultimate-guide-to-managed-relational-databases-6g6)
+- [How AI + GCP Work Together to Build Scalable, Real-World Intelligent Applications](https://dev.to/realnamehidden1_61/how-ai-gcp-work-together-to-build-scalable-real-world-intelligent-applications-264)
+- [How AI is Reshaping Meteorological Monitoring Systems](https://dev.to/toby-patrick/how-ai-is-reshaping-meteorological-monitoring-systems-52g9)
 <!-- BLOG-POST-LIST:END -->
 
