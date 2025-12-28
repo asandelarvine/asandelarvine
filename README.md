@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Amazon ECR Public over IPv6](https://dev.to/aws-builders/how-to-use-amazon-ecr-public-over-ipv6-ki9)
-- [SecureAI Note Assistant](https://dev.to/osazuwa_john_1580bf90e07f/secureai-note-assistant-3mdn)
-- [I Got Roasted on Reddit for My AI-Built CMS So I Built a Full PHP Framework Instead](https://dev.to/aamirali51/i-got-roasted-on-reddit-for-my-ai-built-cms-so-i-built-a-full-php-framework-instead-14j5)
-- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
+- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
+- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
+- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
+- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
 <!-- BLOG-POST-LIST:END -->
 
