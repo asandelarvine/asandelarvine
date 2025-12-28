@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/techno_kraft_in/-2dim)
-- [From Conversation History to Intelligent Memory: How Cortex Memory Redefines AI Memory Systems](https://dev.to/sopaco/from-conversation-history-to-intelligent-memory-how-cortex-memory-redefines-ai-memory-systems-j87)
-- [Detecting AI Slop: Techniques &amp; Red Flags](https://dev.to/rosgluk/detecting-ai-slop-techniques-red-flags-6aj)
-- [Self-Hosting Cognee: LLM Performance Tests](https://dev.to/rosgluk/self-hosting-cognee-llm-performance-tests-3oel)
+- [We&#39;re launching on ProductHunt](https://dev.to/anthonymax/were-launching-on-producthunt-3i43)
+- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
+- [How to Calculate Lead Generation ROI: Budget Planning Tools and Strategies That Work](https://dev.to/digicarrom/how-to-calculate-lead-generation-roi-budget-planning-tools-and-strategies-that-work-4hgg)
+- [Mastering Low Light Photography: From Blurry Mess to Stunning Shots](https://dev.to/techgenius/mastering-low-light-photography-from-blurry-mess-to-stunning-shots-apo)
 <!-- BLOG-POST-LIST:END -->
 
