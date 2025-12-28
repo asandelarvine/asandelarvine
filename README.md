@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built DevTrace — A Community for Developers Who Build in Public](https://dev.to/rushikesh_bodakhe_db28644/i-built-devtrace-a-community-for-developers-who-build-in-public-3j79)
-- [watermelon encryption/decryption v1.2](https://dev.to/salu_pinho_015b91a01060bd/watermelon-encryptiondecryption-v12-4d74)
-- [Speedtest Tracker: Monitor Your Internet Performance](https://dev.to/stelixx-insider/speedtest-tracker-monitor-your-internet-performance-2174)
-- [ComputeKit: A React Toolkit for Heavy Computations Without Freezing the UI](https://dev.to/tapava/computekit-a-react-toolkit-for-heavy-computations-without-freezing-the-ui-559a)
+- [&quot;가시성은 중앙에서, 제어는 서비스에서&quot; : Azure 환경의 실전 LLM 토큰 거버넌스 설계](https://dev.to/shingyeongseon/gasiseongeun-jungangeseo-jeeoneun-seobiseueseo-azure-hwangyeongyi-siljeon-llm-tokeun-geobeoneonseu-seolgye-2c9n)
+- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
+- [Documentation is a Feature: Why I’m Obsessing Over &quot;Time-to-Hello-World&quot;](https://dev.to/nextblockcms/documentation-is-a-feature-why-im-obsessing-over-time-to-hello-world-26h8)
+- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
 <!-- BLOG-POST-LIST:END -->
 
