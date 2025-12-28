@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SmartKNN - Large Scale Classification Benchmarks &lpar;CPU&rpar;](https://dev.to/jashwanth_thatipamula_8ee/smartknn-large-scale-classification-benchmarks-cpu-3lni)
-- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
-- [Day 85 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-85-of-100-days-dsa-coding-challenge-2ja4)
-- [Daily Tech News Roundup - 2025-12-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-28-1n3a)
+- [Scalable ML Training on AWS: SageMaker, Spot Instances and Experiment Tracking](https://dev.to/shoaibalimir/scalable-ml-training-on-aws-sagemaker-spot-instances-and-experiment-tracking-i9)
+- [Getting started in synthetic data generation with AWS Clean Rooms - Analytics](https://dev.to/aws-heroes/getting-started-in-synthetic-data-generation-with-aws-clean-rooms-analytics-35gd)
+- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod)
+- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
 <!-- BLOG-POST-LIST:END -->
 
