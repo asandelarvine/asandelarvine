@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;가시성은 중앙에서, 제어는 서비스에서&quot; : Azure 환경의 실전 LLM 토큰 거버넌스 설계](https://dev.to/shingyeongseon/gasiseongeun-jungangeseo-jeeoneun-seobiseueseo-azure-hwangyeongyi-siljeon-llm-tokeun-geobeoneonseu-seolgye-2c9n)
-- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Documentation is a Feature: Why I’m Obsessing Over &quot;Time-to-Hello-World&quot;](https://dev.to/nextblockcms/documentation-is-a-feature-why-im-obsessing-over-time-to-hello-world-26h8)
-- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
+- [Building Claritools with Next.js: A Fast, No-Friction Tools Platform](https://dev.to/harsh_yaduvanshi_74957b8b/building-claritools-with-nextjs-a-fast-no-friction-tools-platform-2cpa)
+- [TypeScript 6.0 Deep Dive: Why the 2025 Evolution Changes Everything](https://dev.to/dataformathub/typescript-60-deep-dive-why-the-2025-evolution-changes-everything-58gl)
+- [Interview puzzle: &quot;2 users buy last item, who win?&quot;](https://dev.to/mnhnam1301/concurrency-lost-updates-false-conflicts-29i4)
+- [Amazon Nova 2: AWS&#39;s Reasoning Models That Actually Get Production Needs!](https://dev.to/ahmedadel/amazon-nova-2-awss-reasoning-models-that-actually-get-production-needs-2ad0)
 <!-- BLOG-POST-LIST:END -->
 
