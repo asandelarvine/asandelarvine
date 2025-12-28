@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
-- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
-- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
-- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
+- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 3: Developing the UI&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-3-developing-the-ui-e5k)
+- [Building a Secure Bastion Host Architecture in AWS: A Complete Step-by-Step Guide](https://dev.to/nik26_/building-a-secure-bastion-host-architecture-in-aws-a-complete-step-by-step-guide-22p0)
+- [When Illegality Accelerates Democratization](https://dev.to/yuji_marutani/when-illegality-accelerates-democratization-39fi)
+- [I Built a Security Tool at 2 AM Because Copy-Pasting Commands 50 Times Isn&#39;t Learning](https://dev.to/phillip_pauljames_007df6/i-built-a-security-tool-at-2-am-because-copy-pasting-commands-50-times-isnt-learning-1m2c)
 <!-- BLOG-POST-LIST:END -->
 
