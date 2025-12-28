@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl PAGI Project Update](https://dev.to/jjn1056/perl-pagi-project-update-2n2p)
-- [Tecnologie e Protocolli dello Streaming Video: Una Guida Tecnica Avanzata](https://dev.to/david_fabrizio/tecnologie-e-protocolli-dello-streaming-video-una-guida-tecnica-avanzata-pci)
-- [What Is AI Shopping Visibility? How AI Assistants Discover Products](https://dev.to/david_mishra_750e7e447a2c/what-is-ai-shopping-visibility-how-ai-assistants-discover-products-40nd)
-- [Engineering in the WILD - EP 7 - Why &#39;Frontend Validation&#39; is a Myth](https://dev.to/hrishikesh_dalal_ced8f95e/engineering-in-the-wild-ep-7-why-frontend-validation-is-a-myth-52a7)
+- [How to use Amazon ECR Public over IPv6](https://dev.to/aws-builders/how-to-use-amazon-ecr-public-over-ipv6-ki9)
+- [SecureAI Note Assistant](https://dev.to/osazuwa_john_1580bf90e07f/secureai-note-assistant-3mdn)
+- [I Got Roasted on Reddit for My AI-Built CMS So I Built a Full PHP Framework Instead](https://dev.to/aamirali51/i-got-roasted-on-reddit-for-my-ai-built-cms-so-i-built-a-full-php-framework-instead-14j5)
+- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
 <!-- BLOG-POST-LIST:END -->
 
