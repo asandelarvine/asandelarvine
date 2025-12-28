@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forensic Analysis: The Unverified Backend of DIVEXA](https://dev.to/nezahualpillitlapalco/forensic-analysis-the-unverified-backend-of-divexa-2mdh)
-- [Google Cloud SQL: The Ultimate Guide to Managed Relational Databases](https://dev.to/tech_croc_f32fbb6ea8ed4/google-cloud-sql-the-ultimate-guide-to-managed-relational-databases-6g6)
-- [How AI + GCP Work Together to Build Scalable, Real-World Intelligent Applications](https://dev.to/realnamehidden1_61/how-ai-gcp-work-together-to-build-scalable-real-world-intelligent-applications-264)
-- [How AI is Reshaping Meteorological Monitoring Systems](https://dev.to/toby-patrick/how-ai-is-reshaping-meteorological-monitoring-systems-52g9)
+- [[Boost]](https://dev.to/techno_kraft_in/-2dim)
+- [From Conversation History to Intelligent Memory: How Cortex Memory Redefines AI Memory Systems](https://dev.to/sopaco/from-conversation-history-to-intelligent-memory-how-cortex-memory-redefines-ai-memory-systems-j87)
+- [Detecting AI Slop: Techniques &amp; Red Flags](https://dev.to/rosgluk/detecting-ai-slop-techniques-red-flags-6aj)
+- [Self-Hosting Cognee: LLM Performance Tests](https://dev.to/rosgluk/self-hosting-cognee-llm-performance-tests-3oel)
 <!-- BLOG-POST-LIST:END -->
 
