@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [linux day #6](https://dev.to/jumptotech/linux-day-6-35ol)
-- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
-- [Understanding Cookies from the Ground Up: Part 1 - Fundamentals and the Critical Difference between 1st and 3rd Party Cookies](https://dev.to/bysontech_8dd1313811a8895/understanding-cookies-from-the-ground-up-part-1-fundamentals-and-the-critical-difference-between-2ofg)
-- [Why I Chose Voice Over Chat for AI Interviews &lpar;And Why It Almost Backfired&rpar;](https://dev.to/ambalogun/why-i-chose-voice-over-chat-for-ai-interviews-and-why-it-almost-backfired-2fab)
+- [Supercharge Your React Page Speed: How @opensite/hooks Reduces Bundle Size and API Calls by 95%](https://dev.to/opensite/supercharge-your-react-page-speed-how-opensitehooks-reduces-bundle-size-and-api-calls-by-95-4n41)
+- [Solved: Error when updating PowerShell](https://dev.to/techresolve/solved-error-when-updating-powershell-dk6)
+- [Solved: PoE+++?! WHEN WILL THE MADNESS END?](https://dev.to/techresolve/solved-poe-when-will-the-madness-end-3ki)
+- [How to Turn Cloud &quot;Trash&quot; into a Golden 100GB Encrypted Vault &lpar;LVM + rclone&rpar;](https://dev.to/lag_lagendary/how-to-turn-cloud-trash-into-a-golden-100gb-encrypted-vault-lvm-rclone-1lc5)
 <!-- BLOG-POST-LIST:END -->
 
