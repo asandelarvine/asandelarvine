@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 88](https://dev.to/tomivan/coding-challenge-practice-question-88-57nd)
-- [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://dev.to/paperium/ediff-i-text-to-image-diffusion-models-with-an-ensemble-of-expert-denoisers-d0a)
-- [2025-12-27 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-27-daily-robotics-news-19k5)
-- [Solved: Pacemaker/DRBD: Auto-failback kills active DRBD Sync Primary to Secondary. How to prevent this?](https://dev.to/techresolve/solved-pacemakerdrbd-auto-failback-kills-active-drbd-sync-primary-to-secondary-how-to-prevent-48ee)
+- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
+- [Modelos de ML: Por Qué Tu Predicción Es Buena... Hasta Que No Lo Es](https://dev.to/python_baires/modelos-de-ml-por-que-tu-prediccion-es-buena-hasta-que-no-lo-es-3daa)
+- [AI Drives Global Economic Shifts: From Chip Exports and Billionaire Creation to Cybersecurity and Energy Demands](https://dev.to/stelixx-insights/ai-drives-global-economic-shifts-from-chip-exports-and-billionaire-creation-to-cybersecurity-and-5710)
+- [Deep Graph Contrastive Representation Learning](https://dev.to/paperium/deep-graph-contrastive-representation-learning-26f9)
 <!-- BLOG-POST-LIST:END -->
 
