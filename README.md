@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable ML Training on AWS: SageMaker, Spot Instances and Experiment Tracking](https://dev.to/shoaibalimir/scalable-ml-training-on-aws-sagemaker-spot-instances-and-experiment-tracking-i9)
-- [Getting started in synthetic data generation with AWS Clean Rooms - Analytics](https://dev.to/aws-heroes/getting-started-in-synthetic-data-generation-with-aws-clean-rooms-analytics-35gd)
-- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod)
-- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
+- [My Week of Self-Hosting Adventures](https://dev.to/piyush-linux/my-week-of-self-hosting-adventures-2o18)
+- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
+- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
+- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
 <!-- BLOG-POST-LIST:END -->
 
