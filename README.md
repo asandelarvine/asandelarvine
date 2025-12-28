@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack App with Turborepo, React, and Hono &lpar;Part 3: Developing the UI&rpar;](https://dev.to/parthiv_saikia_/building-a-full-stack-app-with-turborepo-react-and-hono-part-3-developing-the-ui-e5k)
-- [Building a Secure Bastion Host Architecture in AWS: A Complete Step-by-Step Guide](https://dev.to/nik26_/building-a-secure-bastion-host-architecture-in-aws-a-complete-step-by-step-guide-22p0)
-- [When Illegality Accelerates Democratization](https://dev.to/yuji_marutani/when-illegality-accelerates-democratization-39fi)
-- [I Built a Security Tool at 2 AM Because Copy-Pasting Commands 50 Times Isn&#39;t Learning](https://dev.to/phillip_pauljames_007df6/i-built-a-security-tool-at-2-am-because-copy-pasting-commands-50-times-isnt-learning-1m2c)
+- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
+- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
+- [Learning Cookie Creation and Access Through Implementation &lpar;Part 3&rpar;](https://dev.to/bysontech_8dd1313811a8895/learning-cookie-creation-and-access-through-implementation-part-3-52on)
+- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
 <!-- BLOG-POST-LIST:END -->
 
