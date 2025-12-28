@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
-- [Modelos de ML: Por Qué Tu Predicción Es Buena... Hasta Que No Lo Es](https://dev.to/python_baires/modelos-de-ml-por-que-tu-prediccion-es-buena-hasta-que-no-lo-es-3daa)
-- [AI Drives Global Economic Shifts: From Chip Exports and Billionaire Creation to Cybersecurity and Energy Demands](https://dev.to/stelixx-insights/ai-drives-global-economic-shifts-from-chip-exports-and-billionaire-creation-to-cybersecurity-and-5710)
-- [Deep Graph Contrastive Representation Learning](https://dev.to/paperium/deep-graph-contrastive-representation-learning-26f9)
+- [Orbis: Building a Plugin-Driven Desktop Platform with Rust and React](https://dev.to/cyberpath/orbis-building-a-plugin-driven-desktop-platform-with-rust-and-react-4ikh)
+- [Fitness Equation 11/27/2025](https://dev.to/bibimbop123/fitness-equation-11272025-4dd4)
+- [Building an Intelligent Customer Support System with Multi-Agent Architecture](https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h)
+- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
 <!-- BLOG-POST-LIST:END -->
 
