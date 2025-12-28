@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orbis: Building a Plugin-Driven Desktop Platform with Rust and React](https://dev.to/cyberpath/orbis-building-a-plugin-driven-desktop-platform-with-rust-and-react-4ikh)
-- [Fitness Equation 11/27/2025](https://dev.to/bibimbop123/fitness-equation-11272025-4dd4)
-- [Building an Intelligent Customer Support System with Multi-Agent Architecture](https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h)
-- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
+- [SmartKNN - Large Scale Classification Benchmarks &lpar;CPU&rpar;](https://dev.to/jashwanth_thatipamula_8ee/smartknn-large-scale-classification-benchmarks-cpu-3lni)
+- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
+- [Day 85 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-85-of-100-days-dsa-coding-challenge-2ja4)
+- [Daily Tech News Roundup - 2025-12-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-28-1n3a)
 <!-- BLOG-POST-LIST:END -->
 
