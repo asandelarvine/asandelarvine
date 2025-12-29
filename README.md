@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Agentic AI: What I’d Bet On &lpar;and What I Wouldn’t&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/the-future-of-agentic-ai-what-id-bet-on-and-what-i-wouldnt-od4)
-- [Diário Dev7: Por que decidi criar meu próprio design system?](https://dev.to/andersonvnieves/diario-dev7-por-que-decidi-criar-meu-proprio-design-system-385g)
-- [What are your Goals of the week? #159](https://dev.to/jarvisscript/what-are-your-goals-of-the-week-159-28e1)
-- [🚀 Terraform Day 23: Production-Grade Monitoring &amp; Observability on AWS &lpar;Serverless&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-23-production-grade-monitoring-observability-on-aws-serverless-5096)
+- [Building Sustainable Social Media Workflows in a Noisy Digital Space](https://dev.to/boostero_panel/building-sustainable-social-media-workflows-in-a-noisy-digital-space-4ila)
+- [ToddlerBites: The Meal Planning App for Everyone Feeding a Toddler](https://dev.to/hulyamasharipov/toddlerbites-the-meal-planning-app-for-everyone-feeding-a-toddler-1nko)
+- [What Bike Path Maintenance Taught Me About Preventive Work](https://dev.to/lucasbrenner/what-bike-path-maintenance-taught-me-about-preventive-work-397l)
+- [Containerization 2025: Why containerd 2.0 and eBPF Change Everything](https://dev.to/dataformathub/containerization-2025-why-containerd-20-and-ebpf-change-everything-1238)
 <!-- BLOG-POST-LIST:END -->
 
