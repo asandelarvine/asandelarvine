@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Project Breakdown] Syncord: Encrypted File Storage via Discord](https://dev.to/krishsharma0413/project-breakdown-syncord-using-discord-as-file-storage-system-2l0c)
-- [AI Trading Daily Report: December 29, 2025 | $+240.36](https://dev.to/igorganapolsky/ai-trading-daily-report-december-29-2025-24036-5fib)
-- [CVE-2025-14847: MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability](https://dev.to/freedom-coder/cve-2025-14847-mongodb-and-mongodb-server-improper-handling-of-length-parameter-inconsistency-3f8n)
-- [🛠️_Development_Efficiency_vs_Runtime_Performance[20251229220041]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20251229220041-1n18)
+- [11. Container With Most Water | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/11-container-with-most-water-leetcode-top-interview-150-coding-questions-3ngi)
+- [🔄_Containerized_Deployment_Performance_Optimization[20251229230729]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20251229230729-hmi)
+- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
+- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
 <!-- BLOG-POST-LIST:END -->
 
