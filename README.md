@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 HeroUI | A Modern, Tailwind-Powered React UI Component Library](https://dev.to/reactjsguru/heroui-a-modern-tailwind-powered-react-ui-component-library-499f)
-- [2025 Year in Review: Apache Iceberg, Polaris, Parquet, and Arrow](https://dev.to/alexmercedcoder/2025-year-in-review-apache-iceberg-polaris-parquet-and-arrow-4l1p)
-- [I Built SonarQube Export Scripts So You Don&#39;t Have To](https://dev.to/abdulm/i-built-sonarqube-export-scripts-so-you-dont-have-to-1ilg)
-- [A Máquina que &quot;Lê&quot; Código: Entre o Autocompletar e o Entendimento](https://dev.to/vinicius3w/a-maquina-que-le-codigo-entre-o-autocompletar-e-o-entendimento-1l3e)
+- [184 Theorems, Zero Sorry How We Formally Verified a Multi-Chain Protocol](https://dev.to/chronosvault/184-theorems-zero-sorry-how-we-formally-verified-a-multi-chain-protocol-57g9)
+- [Mastering Claude’s Research Tool: A Practical Guide](https://dev.to/criticalmynd/mastering-claudes-research-tool-a-practical-guide-465d)
+- [Open Source is Not Just for Hacktoberfest](https://dev.to/sachinchaurasiya/open-source-is-not-just-for-hacktoberfest-2i38)
+- [Why I Switched From VS Code to Antigravity &lpar;and I&#39;m Not Going Back&rpar;](https://dev.to/fedtti/why-i-switched-from-vs-code-to-antigravity-and-im-not-going-back-2ml2)
 <!-- BLOG-POST-LIST:END -->
 
