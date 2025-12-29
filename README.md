@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Automation for Multi-Tenant SaaS on CloudFlare](https://dev.to/alexisfranorge/dns-automation-for-multi-tenant-saas-on-cloudflare-2ag7)
-- [the developer’s &quot;writer&#39;s block&quot;: the &quot;already done&quot; trap and why you should build it anyway](https://dev.to/siliconcatalyst/the-developers-writers-block-the-already-done-trap-and-why-you-should-build-it-anyway-374b)
-- [Create your own ChatGPT using SageMaker Python SDK V3](https://dev.to/rgurung_sr/create-your-own-chatgpt-using-sagemaker-python-sdk-v3-3fnd)
-- [Java Find and Replace Values in Excel Files](https://dev.to/lu_liu_e3fc806354d9a952b7/java-find-and-replace-values-in-excel-files-4j42)
+- [How Rapido Drivers Earn 80,000 Per Month in India](https://dev.to/vandna_yadav_e81f937bbf9d/how-rapido-drivers-earn-80000-per-month-in-india-18o8)
+- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
+- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
+- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
 <!-- BLOG-POST-LIST:END -->
 
