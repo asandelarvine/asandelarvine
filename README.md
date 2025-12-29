@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
-- [Kubernetes Interview Questions &amp; Answers &lpar;Professional – 6 Years Experience&rpar;](https://dev.to/jumptotech/kubernetes-interview-questions-answersprofessional-6-years-experience-14h5)
-- [Day 36 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-36-of-improving-my-data-science-skills-2pa4)
-- [🚀 O melhor dos dois mundos: Entenda o Partial Pre-Rendering &lpar;PPR&rpar;](https://dev.to/nathdev/o-melhor-dos-dois-mundos-entenda-o-partial-pre-rendering-ppr-295f)
+- [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
+- [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
+- [The standup isn’t 15 minutes. Here’s the math.](https://dev.to/ghostinit0x/the-standup-isnt-15-minutes-heres-the-math-h1e)
+- [⚡_Real_Time_System_Performance_Optimization[20251229205319]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20251229205319-5g35)
 <!-- BLOG-POST-LIST:END -->
 
