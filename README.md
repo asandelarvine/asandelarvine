@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
-- [Install Mailspring, the Best Free Email App on Linux, in a Distrobox Container!](https://dev.to/archerallstars/install-mailspring-the-best-free-email-app-on-linux-in-a-distrobox-container-4b4j)
-- [Por qué creé PHLEXMOD: Un framework PHP para los que estamos cansados de sobre-ingeniería](https://dev.to/tremolgraterol/por-que-cree-phlexmod-un-framework-php-para-los-que-estamos-cansados-de-sobre-ingenieria-1b66)
-- [SafeLine: The Open-Source WAF That Protects Your Web Applications from Every Angle](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-protects-your-web-applications-from-every-angle-1fao)
+- [EP 14: The Rate Limit War - Stopping Brute Force and Bot](https://dev.to/hrishikesh_dalal_ced8f95e/ep-14-the-rate-limit-war-stopping-brute-force-and-bot-4mbo)
+- [👥 AWS 117: Managing the Crowd - Creating Your First IAM Group](https://dev.to/hritikraj8804/aws-117-managing-the-crowd-creating-your-first-iam-group-2pf4)
+- [Scrapy Signals: The Complete Beginner&#39;s Guide &lpar;Make Your Spider Talk to You&rpar;](https://dev.to/ikram_khan/scrapy-signals-the-complete-beginners-guide-make-your-spider-talk-to-you-29lf)
+- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
 <!-- BLOG-POST-LIST:END -->
 
