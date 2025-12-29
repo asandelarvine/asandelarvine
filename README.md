@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Spotify Metrics: Use Docker with Prometheus and Grafana](https://dev.to/atahanceylan/track-spotify-metrics-use-docker-with-prometheus-and-grafana-6g1)
-- [You Pay 6x More When Your EKS Cluster Goes Out of Support](https://dev.to/sadebare/you-pay-6x-more-when-your-eks-cluster-goes-out-of-support-289d)
-- [Keep extending ADV game engine with Antigravity](https://dev.to/tomokat/keep-extending-adv-game-engine-with-antigravity-2idn)
-- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
+- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
+- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
+- [I Built a Claude Code Plugin That Unifies 10 AI Image Providers](https://dev.to/merlin_rabens_932227317eb/i-built-a-claude-code-plugin-that-unifies-10-ai-image-providers-5gpd)
+- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
 <!-- BLOG-POST-LIST:END -->
 
