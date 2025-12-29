@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Native Amazon EKS Backups with AWS Backup](https://dev.to/aws-builders/native-amazon-eks-backups-with-aws-backup-2kkd)
-- [Choosing Rowstore or Columnstore? How to Pick the Right Engine for Your Workload](https://dev.to/singlestore-developer/choosing-rowstore-or-columnstore-how-to-pick-the-right-engine-for-your-workload-b4d)
-- [Building a Mobile Tool After Facing Media Quality Issues as a Content Creator](https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3)
-- [How to Use Regex for Data Validation in the BoldSign API](https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35)
+- [Factorial](https://dev.to/highcenburg/factorial-13am)
+- [Why Your Vue App Is Reactive Too Much &lpar;and How to Fix It&rpar;](https://dev.to/jacobandrewsky/why-your-vue-app-is-reactive-too-much-and-how-to-fix-it-4n7m)
+- [Building CodeAnswr: How I combined Stack Overflow with AI using SvelteKit + Cloudflare](https://dev.to/mobin_poursalami_f30352a2/building-codeanswr-how-i-combined-stack-overflow-with-ai-using-sveltekit-cloudflare-11m0)
+- [I want people to document their entire lives from childhood to adulthood.](https://dev.to/hushuai_wang_29fb41896f72/i-want-people-to-document-their-entire-lives-from-childhood-to-adulthood-37j8)
 <!-- BLOG-POST-LIST:END -->
 
