@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Rapido Drivers Earn 80,000 Per Month in India](https://dev.to/vandna_yadav_e81f937bbf9d/how-rapido-drivers-earn-80000-per-month-in-india-18o8)
-- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
-- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
-- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
+- [Integrating .NET Aspire with WinampToSpotify Project &lpar;1&rpar;](https://dev.to/atahanceylan/integrating-net-aspire-with-winamptospotify-project-1-3c3m)
+- [Guide to Hiring Shopify Developers in 2026 | Complete Guide](https://dev.to/theplanetsoft/guide-to-hiring-shopify-developers-in-2026-complete-guide-335g)
+- [Turn your text into an immersive audio-visual experience.](https://dev.to/techno_kraft_in/turn-your-text-into-an-immersive-audio-visual-experience-3p64)
+- [BigCommerce Plugin Development: Everything You Need to Know](https://dev.to/henrydavid/bigcommerce-plugin-development-everything-you-need-to-know-1188)
 <!-- BLOG-POST-LIST:END -->
 
