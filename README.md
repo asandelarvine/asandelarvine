@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Never-Ending Fun &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
-- [Unified Data Fabric: Serverless Spark on ROSA Integrating with AWS Glue Catalog](https://dev.to/mgonzalezo/unified-data-fabric-serverless-spark-on-rosa-integrating-with-aws-glue-catalog-9bb)
-- [Failures we don&#39;t model correctly](https://dev.to/y9vad9/failures-we-dont-model-correctly-2hbo)
-- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
+- [Sales Development Agent no Ignite 2025: quando vendas vira “sistema de ação” &lpar;e não só CRM&rpar;](https://dev.to/angelo_matias/sales-development-agent-no-ignite-2025-quando-vendas-vira-sistema-de-acao-e-nao-so-crm-ndc)
+- [WBS vs Agile? There&#39;s No Such Opposition](https://dev.to/_jeongyuhyeon_03de1/wbs-vs-agile-theres-no-such-opposition-51b9)
+- [🌐 Strengthening the Security Pillar of the AWS Well-Architected Framework: Introducing EC2 Instance Attestation](https://dev.to/morekiranp/strengthening-the-security-pillar-of-the-aws-well-architected-framework-introducing-ec2-instance-4mcb)
+- [How To Automatically Submit Sitemap To Google Programmatically](https://dev.to/eunit/how-to-automatically-submit-sitemap-to-google-programmatically-1gbn)
 <!-- BLOG-POST-LIST:END -->
 
