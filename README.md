@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EP 14: The Rate Limit War - Stopping Brute Force and Bot](https://dev.to/hrishikesh_dalal_ced8f95e/ep-14-the-rate-limit-war-stopping-brute-force-and-bot-4mbo)
-- [👥 AWS 117: Managing the Crowd - Creating Your First IAM Group](https://dev.to/hritikraj8804/aws-117-managing-the-crowd-creating-your-first-iam-group-2pf4)
-- [Scrapy Signals: The Complete Beginner&#39;s Guide &lpar;Make Your Spider Talk to You&rpar;](https://dev.to/ikram_khan/scrapy-signals-the-complete-beginners-guide-make-your-spider-talk-to-you-29lf)
-- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
+- [Native Amazon EKS Backups with AWS Backup](https://dev.to/aws-builders/native-amazon-eks-backups-with-aws-backup-2kkd)
+- [Choosing Rowstore or Columnstore? How to Pick the Right Engine for Your Workload](https://dev.to/singlestore-developer/choosing-rowstore-or-columnstore-how-to-pick-the-right-engine-for-your-workload-b4d)
+- [Building a Mobile Tool After Facing Media Quality Issues as a Content Creator](https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3)
+- [How to Use Regex for Data Validation in the BoldSign API](https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35)
 <!-- BLOG-POST-LIST:END -->
 
