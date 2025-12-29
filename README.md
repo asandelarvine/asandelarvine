@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating .NET Aspire with WinampToSpotify Project &lpar;1&rpar;](https://dev.to/atahanceylan/integrating-net-aspire-with-winamptospotify-project-1-3c3m)
-- [Guide to Hiring Shopify Developers in 2026 | Complete Guide](https://dev.to/theplanetsoft/guide-to-hiring-shopify-developers-in-2026-complete-guide-335g)
-- [Turn your text into an immersive audio-visual experience.](https://dev.to/techno_kraft_in/turn-your-text-into-an-immersive-audio-visual-experience-3p64)
-- [BigCommerce Plugin Development: Everything You Need to Know](https://dev.to/henrydavid/bigcommerce-plugin-development-everything-you-need-to-know-1188)
+- [How to Create Never-Ending Fun &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
+- [Unified Data Fabric: Serverless Spark on ROSA Integrating with AWS Glue Catalog](https://dev.to/mgonzalezo/unified-data-fabric-serverless-spark-on-rosa-integrating-with-aws-glue-catalog-9bb)
+- [Failures we don&#39;t model correctly](https://dev.to/y9vad9/failures-we-dont-model-correctly-2hbo)
+- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
 <!-- BLOG-POST-LIST:END -->
 
