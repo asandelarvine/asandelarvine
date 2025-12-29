@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sales Development Agent no Ignite 2025: quando vendas vira “sistema de ação” &lpar;e não só CRM&rpar;](https://dev.to/angelo_matias/sales-development-agent-no-ignite-2025-quando-vendas-vira-sistema-de-acao-e-nao-so-crm-ndc)
-- [WBS vs Agile? There&#39;s No Such Opposition](https://dev.to/_jeongyuhyeon_03de1/wbs-vs-agile-theres-no-such-opposition-51b9)
-- [🌐 Strengthening the Security Pillar of the AWS Well-Architected Framework: Introducing EC2 Instance Attestation](https://dev.to/morekiranp/strengthening-the-security-pillar-of-the-aws-well-architected-framework-introducing-ec2-instance-4mcb)
-- [How To Automatically Submit Sitemap To Google Programmatically](https://dev.to/eunit/how-to-automatically-submit-sitemap-to-google-programmatically-1gbn)
+- [Building a Realistic Banking Dummy Data Generator with Bad-Data Simulation](https://dev.to/menai993/building-a-realistic-banking-dummy-data-generator-with-bad-data-simulation-11pd)
+- [Bold BI Introduces AI-Powered Embedded Analytics Assistant!](https://dev.to/boldbi/bold-bi-introduces-ai-powered-embedded-analytics-assistant-3ohi)
+- [UI Tectonic Plates are on the Move?](https://dev.to/bastarrd/ui-tectonic-plates-on-the-move-432f)
+- [Mastering Tokio Semaphores in Rust](https://dev.to/amritsingh183/mastering-tokio-semaphores-in-rust-4776)
 <!-- BLOG-POST-LIST:END -->
 
