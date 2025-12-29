@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Factorial](https://dev.to/highcenburg/factorial-13am)
-- [Why Your Vue App Is Reactive Too Much &lpar;and How to Fix It&rpar;](https://dev.to/jacobandrewsky/why-your-vue-app-is-reactive-too-much-and-how-to-fix-it-4n7m)
-- [Building CodeAnswr: How I combined Stack Overflow with AI using SvelteKit + Cloudflare](https://dev.to/mobin_poursalami_f30352a2/building-codeanswr-how-i-combined-stack-overflow-with-ai-using-sveltekit-cloudflare-11m0)
-- [I want people to document their entire lives from childhood to adulthood.](https://dev.to/hushuai_wang_29fb41896f72/i-want-people-to-document-their-entire-lives-from-childhood-to-adulthood-37j8)
+- [DNS Automation for Multi-Tenant SaaS on CloudFlare](https://dev.to/alexisfranorge/dns-automation-for-multi-tenant-saas-on-cloudflare-2ag7)
+- [the developer’s &quot;writer&#39;s block&quot;: the &quot;already done&quot; trap and why you should build it anyway](https://dev.to/siliconcatalyst/the-developers-writers-block-the-already-done-trap-and-why-you-should-build-it-anyway-374b)
+- [Create your own ChatGPT using SageMaker Python SDK V3](https://dev.to/rgurung_sr/create-your-own-chatgpt-using-sagemaker-python-sdk-v3-3fnd)
+- [Java Find and Replace Values in Excel Files](https://dev.to/lu_liu_e3fc806354d9a952b7/java-find-and-replace-values-in-excel-files-4j42)
 <!-- BLOG-POST-LIST:END -->
 
