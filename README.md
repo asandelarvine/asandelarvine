@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a pSEO app with Next.js 14 generating 500+ static pages &lpar;Case Study&rpar;](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
-- [Your LED Strip Is a Distributed System &lpar;And That’s Why It Glitches&rpar;](https://dev.to/emma-suntech/your-led-strip-is-a-distributed-system-and-thats-why-it-glitches-1bh4)
-- [Avoid Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/avoid-forcing-rest-onto-domain-driven-architectures-2j6k)
-- [From MITM to Agentic Design: Automating Sports Nutrition with Claude, n8n, and Hexis](https://dev.to/emilienmottet/from-mitm-to-agentic-design-automating-sports-nutrition-with-claude-n8n-and-hexis-12gg)
+- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
+- [Install Mailspring, the Best Free Email App on Linux, in a Distrobox Container!](https://dev.to/archerallstars/install-mailspring-the-best-free-email-app-on-linux-in-a-distrobox-container-4b4j)
+- [Por qué creé PHLEXMOD: Un framework PHP para los que estamos cansados de sobre-ingeniería](https://dev.to/tremolgraterol/por-que-cree-phlexmod-un-framework-php-para-los-que-estamos-cansados-de-sobre-ingenieria-1b66)
+- [SafeLine: The Open-Source WAF That Protects Your Web Applications from Every Angle](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-protects-your-web-applications-from-every-angle-1fao)
 <!-- BLOG-POST-LIST:END -->
 
