@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [184 Theorems, Zero Sorry How We Formally Verified a Multi-Chain Protocol](https://dev.to/chronosvault/184-theorems-zero-sorry-how-we-formally-verified-a-multi-chain-protocol-57g9)
-- [Mastering Claude’s Research Tool: A Practical Guide](https://dev.to/criticalmynd/mastering-claudes-research-tool-a-practical-guide-465d)
-- [Open Source is Not Just for Hacktoberfest](https://dev.to/sachinchaurasiya/open-source-is-not-just-for-hacktoberfest-2i38)
-- [Why I Switched From VS Code to Antigravity &lpar;and I&#39;m Not Going Back&rpar;](https://dev.to/fedtti/why-i-switched-from-vs-code-to-antigravity-and-im-not-going-back-2ml2)
+- [Track Spotify Metrics: Use Docker with Prometheus and Grafana](https://dev.to/atahanceylan/track-spotify-metrics-use-docker-with-prometheus-and-grafana-6g1)
+- [You Pay 6x More When Your EKS Cluster Goes Out of Support](https://dev.to/sadebare/you-pay-6x-more-when-your-eks-cluster-goes-out-of-support-289d)
+- [Keep extending ADV game engine with Antigravity](https://dev.to/tomokat/keep-extending-adv-game-engine-with-antigravity-2idn)
+- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
 <!-- BLOG-POST-LIST:END -->
 
