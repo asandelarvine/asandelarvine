@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Realistic Banking Dummy Data Generator with Bad-Data Simulation](https://dev.to/menai993/building-a-realistic-banking-dummy-data-generator-with-bad-data-simulation-11pd)
-- [Bold BI Introduces AI-Powered Embedded Analytics Assistant!](https://dev.to/boldbi/bold-bi-introduces-ai-powered-embedded-analytics-assistant-3ohi)
-- [UI Tectonic Plates are on the Move?](https://dev.to/bastarrd/ui-tectonic-plates-on-the-move-432f)
-- [Mastering Tokio Semaphores in Rust](https://dev.to/amritsingh183/mastering-tokio-semaphores-in-rust-4776)
+- [The Future of Agentic AI: What I’d Bet On &lpar;and What I Wouldn’t&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/the-future-of-agentic-ai-what-id-bet-on-and-what-i-wouldnt-od4)
+- [Diário Dev7: Por que decidi criar meu próprio design system?](https://dev.to/andersonvnieves/diario-dev7-por-que-decidi-criar-meu-proprio-design-system-385g)
+- [What are your Goals of the week? #159](https://dev.to/jarvisscript/what-are-your-goals-of-the-week-159-28e1)
+- [🚀 Terraform Day 23: Production-Grade Monitoring &amp; Observability on AWS &lpar;Serverless&rpar;](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-23-production-grade-monitoring-observability-on-aws-serverless-5096)
 <!-- BLOG-POST-LIST:END -->
 
