@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Sustainable Social Media Workflows in a Noisy Digital Space](https://dev.to/boostero_panel/building-sustainable-social-media-workflows-in-a-noisy-digital-space-4ila)
-- [ToddlerBites: The Meal Planning App for Everyone Feeding a Toddler](https://dev.to/hulyamasharipov/toddlerbites-the-meal-planning-app-for-everyone-feeding-a-toddler-1nko)
-- [What Bike Path Maintenance Taught Me About Preventive Work](https://dev.to/lucasbrenner/what-bike-path-maintenance-taught-me-about-preventive-work-397l)
-- [Containerization 2025: Why containerd 2.0 and eBPF Change Everything](https://dev.to/dataformathub/containerization-2025-why-containerd-20-and-ebpf-change-everything-1238)
+- [🚀 HeroUI | A Modern, Tailwind-Powered React UI Component Library](https://dev.to/reactjsguru/heroui-a-modern-tailwind-powered-react-ui-component-library-499f)
+- [2025 Year in Review: Apache Iceberg, Polaris, Parquet, and Arrow](https://dev.to/alexmercedcoder/2025-year-in-review-apache-iceberg-polaris-parquet-and-arrow-4l1p)
+- [I Built SonarQube Export Scripts So You Don&#39;t Have To](https://dev.to/abdulm/i-built-sonarqube-export-scripts-so-you-dont-have-to-1ilg)
+- [A Máquina que &quot;Lê&quot; Código: Entre o Autocompletar e o Entendimento](https://dev.to/vinicius3w/a-maquina-que-le-codigo-entre-o-autocompletar-e-o-entendimento-1l3e)
 <!-- BLOG-POST-LIST:END -->
 
