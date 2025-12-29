@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Skills Kill MCP?](https://dev.to/goose_oss/did-skills-kill-mcp-3lk1)
-- [Binary Sovereignty: Stop Uploading Your Unreleased App to Strangers](https://dev.to/omnarayan/binary-sovereignty-stop-uploading-your-unreleased-app-to-strangers-4lfp)
-- [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
-- [Compounding Engineering: Turn Your Repo into a Self-Improving DSPy Agent](https://dev.to/dan-startegicauto/compounding-engineering-turn-your-repo-into-a-self-improving-dspy-agent-1e99)
+- [How I built a pSEO app with Next.js 14 generating 500+ static pages &lpar;Case Study&rpar;](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
+- [Your LED Strip Is a Distributed System &lpar;And That’s Why It Glitches&rpar;](https://dev.to/emma-suntech/your-led-strip-is-a-distributed-system-and-thats-why-it-glitches-1bh4)
+- [Avoid Forcing REST onto Domain-Driven Architectures](https://dev.to/stevenstuartm/avoid-forcing-rest-onto-domain-driven-architectures-2j6k)
+- [From MITM to Agentic Design: Automating Sports Nutrition with Claude, n8n, and Hexis](https://dev.to/emilienmottet/from-mitm-to-agentic-design-automating-sports-nutrition-with-claude-n8n-and-hexis-12gg)
 <!-- BLOG-POST-LIST:END -->
 
