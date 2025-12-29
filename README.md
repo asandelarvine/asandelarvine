@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
-- [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
-- [The standup isn’t 15 minutes. Here’s the math.](https://dev.to/ghostinit0x/the-standup-isnt-15-minutes-heres-the-math-h1e)
-- [⚡_Real_Time_System_Performance_Optimization[20251229205319]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20251229205319-5g35)
+- [[Project Breakdown] Syncord: Encrypted File Storage via Discord](https://dev.to/krishsharma0413/project-breakdown-syncord-using-discord-as-file-storage-system-2l0c)
+- [AI Trading Daily Report: December 29, 2025 | $+240.36](https://dev.to/igorganapolsky/ai-trading-daily-report-december-29-2025-24036-5fib)
+- [CVE-2025-14847: MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability](https://dev.to/freedom-coder/cve-2025-14847-mongodb-and-mongodb-server-improper-handling-of-length-parameter-inconsistency-3f8n)
+- [🛠️_Development_Efficiency_vs_Runtime_Performance[20251229220041]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20251229220041-1n18)
 <!-- BLOG-POST-LIST:END -->
 
