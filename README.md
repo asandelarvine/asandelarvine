@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
-- [TempleOS: A Non-POSIX Operating System That Removed Protection on Purpose](https://dev.to/viz-x/templeos-a-desktop-operating-system-that-removed-protection-on-purpose-meb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hh6)
-- [Frontend Fears: A Backend Python Dev&#39;s Struggle with UI](https://dev.to/aditya_mishra_f7caea5fe91/frontend-fears-a-backend-python-devs-struggle-with-ui-4a9a)
+- [Step‑by‑Step Ubuntu Linux Installation Guide](https://dev.to/reggiejohnson86/step-by-step-ubuntu-linux-installation-guide-25di)
+- [RISC OS: A Non-POSIX Operating System That Grew With ARM](https://dev.to/viz-x/risc-os-a-non-posix-operating-system-that-grew-with-arm-5ah3)
+- [From Consumer to Builder: My 2025](https://dev.to/ankit_rattan/from-consumer-to-builder-my-2025-3eel)
+- [Inside a Neural Network: How Hidden Layers, Weights, and Biases Work](https://dev.to/rijultp/inside-a-neural-network-how-hidden-layers-weights-and-biases-work-512a)
 <!-- BLOG-POST-LIST:END -->
 
