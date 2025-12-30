@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Pixel Grip - Split &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pixel-grip-split-live-on-kexp-84k)
-- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
-- [Getting started with GPU Programming on an EC2!](https://dev.to/aws-builders/getting-started-with-gpu-programming-on-an-ec2-42ke)
-- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
+- [Web Development Is Meant to Be Built, Not Watched](https://dev.to/web_dev-usman/web-development-is-meant-to-be-built-not-watched-2em7)
+- [What Happens When You Kill the Kotlin Daemon Before R8?](https://dev.to/cdsap/what-happens-when-you-kill-the-kotlin-daemon-before-r8-el7)
+- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
+- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
 <!-- BLOG-POST-LIST:END -->
 
