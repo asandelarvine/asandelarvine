@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hacked GitHub Readmes to Show Real-Time Data &lpar;No Spinner, No JS&rpar;](https://dev.to/0xsunanda/i-hacked-github-readmes-to-show-real-time-data-no-spinner-no-js-2gj7)
-- [📈_Scalability_Architecture_Design[20251230124757]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20251230124757-40jj)
-- [Can you describe a complex data architecture you’ve designed or implemented in the past?](https://dev.to/shruti_nakum/can-you-describe-a-complex-data-architecture-youve-designed-or-implemented-in-the-past-14kl)
-- [CCPA 2026: What Developers Need to Know About the New Privacy Updates](https://dev.to/mehwish_malik_4f29ff7fb04/ccpa-2026-what-developers-need-to-know-about-the-new-privacy-updates-1el2)
+- [What Are AWS Regions, Availability Zones, and Edge Locations? A Simple Guide for Beginners](https://dev.to/deeppatel0311/what-are-aws-regions-availability-zones-and-edge-locations-a-simple-guide-for-beginners-2kbj)
+- [Why Android is Not Really Open Source](https://dev.to/askadityapandey/why-android-is-not-really-open-source-3626)
+- [Developers VS Product Sense](https://dev.to/superkacper4/developers-vs-product-sense-8ph)
+- [OS/2 vs Windows NT: One Bet on Hardware, One Bet on Time](https://dev.to/viz-x/os2-vs-windows-nt-one-bet-on-hardware-one-bet-on-time-355o)
 <!-- BLOG-POST-LIST:END -->
 
