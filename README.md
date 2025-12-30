@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SageMaker Unified Studio: Your All-in-One AWS Analytics Platform](https://dev.to/datatechbridge/sagemaker-unified-studio-your-all-in-one-aws-analytics-platform-2noa)
-- [AI Empathy: HumanSense Achieves Context-Aware Responses via Reasoning MLLMs](https://dev.to/aimodels-fyi/ai-empathy-humansense-achieves-context-aware-responses-via-reasoning-mllms-3bdh)
-- [A beginner&#39;s guide to the Mmaudio model by Zsxkib on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mmaudio-model-by-zsxkib-on-replicate-385n)
-- [C#: Rename Excel Sheets and Set Tab Colors](https://dev.to/yahey/c-rename-excel-sheets-and-set-tab-colors-90n)
+- [How to Build a Random Content List in Momen &lpar;Step by Step&rpar;](https://dev.to/momen_hq/how-to-build-a-random-content-list-in-momen-step-by-step-10ka)
+- [How to Monetize Voice AI Agents for SaaS Startups with VAPI: My Journey](https://dev.to/callstacktech/how-to-monetize-voice-ai-agents-for-saas-startups-with-vapi-my-journey-3p16)
+- [⚡_Latency_Optimization_Practical_Guide[20251230033436]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20251230033436-5ele)
+- [Crypto Spot-Futures Arbitrage in Practice: Lessons Learned from Theory to Reality](https://dev.to/chronosquant/crypto-spot-futures-arbitrage-in-practice-lessons-learned-from-theory-to-reality-h82)
 <!-- BLOG-POST-LIST:END -->
 
