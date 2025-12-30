@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [11. Container With Most Water | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/11-container-with-most-water-leetcode-top-interview-150-coding-questions-3ngi)
-- [🔄_Containerized_Deployment_Performance_Optimization[20251229230729]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20251229230729-hmi)
-- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
-- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
+- [SageMaker Unified Studio: Your All-in-One AWS Analytics Platform](https://dev.to/datatechbridge/sagemaker-unified-studio-your-all-in-one-aws-analytics-platform-2noa)
+- [AI Empathy: HumanSense Achieves Context-Aware Responses via Reasoning MLLMs](https://dev.to/aimodels-fyi/ai-empathy-humansense-achieves-context-aware-responses-via-reasoning-mllms-3bdh)
+- [A beginner&#39;s guide to the Mmaudio model by Zsxkib on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mmaudio-model-by-zsxkib-on-replicate-385n)
+- [C#: Rename Excel Sheets and Set Tab Colors](https://dev.to/yahey/c-rename-excel-sheets-and-set-tab-colors-90n)
 <!-- BLOG-POST-LIST:END -->
 
