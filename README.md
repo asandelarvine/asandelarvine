@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step‑by‑Step Ubuntu Linux Installation Guide](https://dev.to/reggiejohnson86/step-by-step-ubuntu-linux-installation-guide-25di)
-- [RISC OS: A Non-POSIX Operating System That Grew With ARM](https://dev.to/viz-x/risc-os-a-non-posix-operating-system-that-grew-with-arm-5ah3)
-- [From Consumer to Builder: My 2025](https://dev.to/ankit_rattan/from-consumer-to-builder-my-2025-3eel)
-- [Inside a Neural Network: How Hidden Layers, Weights, and Biases Work](https://dev.to/rijultp/inside-a-neural-network-how-hidden-layers-weights-and-biases-work-512a)
+- [Zilog Z80: the small CPU that powered an entire generation](https://dev.to/viz-x/zilog-z80-the-small-cpu-that-powered-an-entire-generation-4inc)
+- [IBM Z: the computer that never learned how to die](https://dev.to/viz-x/ibm-z-the-computer-that-never-learned-how-to-die-590j)
+- [Keep your Ubuntu‑based VPN Server Updated](https://dev.to/reggiejohnson86/keep-your-ubuntu-based-vpn-server-updated-11al)
+- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
 <!-- BLOG-POST-LIST:END -->
 
