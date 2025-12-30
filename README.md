@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TutorialsByNitin.com — A Comprehensive Guide to Creativity, Design &amp; Tech Learning](https://dev.to/tutorialsbynitin/tutorialsbynitincom-a-comprehensive-guide-to-creativity-design-tech-learning-19hj)
-- [Created a Rails 8 Learning Repository and Started Recovering from a 6-Year Blank with Rails Guides and Claude Code](https://dev.to/masutaka/created-a-rails-8-learning-repository-and-started-recovering-from-a-6-year-blank-with-rails-guides-jcc)
-- [⚡_Real_Time_System_Performance_Optimization[20251230051723]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251230051723-49h3)
-- [Building a Microservices Order System with Gin, RabbitMQ, and PostgreSQL](https://dev.to/codefalconx/building-a-microservices-order-system-with-gin-rabbitmq-and-postgresql-4a84)
+- [Tutorial: Build a Zero-Cost DevOps Platform on Windows 11 with Kubernetes &amp; ArgoCD](https://dev.to/martins984/tutorial-build-a-zero-cost-devops-platform-on-windows-11-with-kubernetes-argocd-1hnn)
+- [The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job](https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn)
+- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
+- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
 <!-- BLOG-POST-LIST:END -->
 
