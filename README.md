@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Random Content List in Momen &lpar;Step by Step&rpar;](https://dev.to/momen_hq/how-to-build-a-random-content-list-in-momen-step-by-step-10ka)
-- [How to Monetize Voice AI Agents for SaaS Startups with VAPI: My Journey](https://dev.to/callstacktech/how-to-monetize-voice-ai-agents-for-saas-startups-with-vapi-my-journey-3p16)
-- [⚡_Latency_Optimization_Practical_Guide[20251230033436]](https://dev.to/member_6331818c/latencyoptimizationpracticalguide20251230033436-5ele)
-- [Crypto Spot-Futures Arbitrage in Practice: Lessons Learned from Theory to Reality](https://dev.to/chronosquant/crypto-spot-futures-arbitrage-in-practice-lessons-learned-from-theory-to-reality-h82)
+- [TutorialsByNitin.com — A Comprehensive Guide to Creativity, Design &amp; Tech Learning](https://dev.to/tutorialsbynitin/tutorialsbynitincom-a-comprehensive-guide-to-creativity-design-tech-learning-19hj)
+- [Created a Rails 8 Learning Repository and Started Recovering from a 6-Year Blank with Rails Guides and Claude Code](https://dev.to/masutaka/created-a-rails-8-learning-repository-and-started-recovering-from-a-6-year-blank-with-rails-guides-jcc)
+- [⚡_Real_Time_System_Performance_Optimization[20251230051723]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251230051723-49h3)
+- [Building a Microservices Order System with Gin, RabbitMQ, and PostgreSQL](https://dev.to/codefalconx/building-a-microservices-order-system-with-gin-rabbitmq-and-postgresql-4a84)
 <!-- BLOG-POST-LIST:END -->
 
