@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AWS Supports Enterprise Grade Generative AI Workloads](https://dev.to/shubhamthakoredev/how-aws-supports-enterprise-grade-generative-ai-workloads-1258)
-- [FileMate v2: A Modern Tkinter File Manager in Python](https://dev.to/matetechnologie/filemate-v2-a-modern-tkinter-file-manager-in-python-1ob5)
-- [The useCallback react hook](https://dev.to/edriso/the-usecallback-react-hook-2cco)
-- [Day-21 GitHub Actions, CI Triggers, and Understanding Runners 🚀](https://dev.to/jayanth_dasari_7/day-21-github-actions-ci-triggers-and-understanding-runners-8h2)
+- [Inferno: An Operating System That Treats Distribution as Normal](https://dev.to/viz-x/inferno-an-operating-system-that-treats-distribution-as-normal-1ag6)
+- [Don&#39;t Let AI Trading Burn You: Legal Landmines to Avoid](https://dev.to/tanvir_khan_18c27d836a78f/dont-let-ai-trading-burn-you-legal-landmines-to-avoid-aag)
+- [Understanding SQL Window Functions &lpar;Part 2&rpar;](https://dev.to/intersystems/understanding-sql-window-functions-part-2-1mlc)
+- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
 <!-- BLOG-POST-LIST:END -->
 
