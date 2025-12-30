@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
-- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
-- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
-- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
+- [How to Activate AI Assistant in Your Analytics Embedded App](https://dev.to/boldbi/how-to-activate-ai-assistant-in-your-analytics-embedded-app-4jfh)
+- [I Quit My Job to Build the Game Dev Platform I Wish Existed](https://dev.to/jonas_olofsson_cdf7608bde/i-quit-my-job-to-build-the-game-dev-platform-i-wish-existed-6jg)
+- [Stop Guessing Which AI Model is Best: Benchmark 300+ Models Inside ChatGPT](https://dev.to/criticalmynd/stop-guessing-which-ai-model-is-best-benchmark-300-models-inside-chatgpt-fg0)
+- [PERFECT Code Review](https://dev.to/bastrich/perfect-code-review-4d5)
 <!-- BLOG-POST-LIST:END -->
 
