@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Python To Merge Array of Ranges](https://dev.to/grantdotdev/using-python-to-merge-array-of-ranges-2hic)
-- [WHY DEVTOOLS USERS DON&#39;T CONVERT &lpar;AND IT&#39;S NOT YOUR FEATURES&rpar;](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
-- [The Tick Model](https://dev.to/saptakbhoumik/the-tick-model-4ccj)
-- [Breaking the real matrix in open source](https://dev.to/javadinteger/breaking-the-real-matrix-in-open-source-4m55)
+- [Building a CMS-Level Firewall: Why Application Context Matters](https://dev.to/maximalex/building-a-cms-level-firewall-why-application-context-matters-52kp)
+- [🎯_Microservices_Performance_Tuning_Practical[20251230231030]](https://dev.to/member_6331818c/microservicesperformancetuningpractical20251230231030-16k1)
+- [2025-12-30 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-30-daily-robotics-news-l8m)
+- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
 <!-- BLOG-POST-LIST:END -->
 
