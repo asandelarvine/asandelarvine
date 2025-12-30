@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inferno: An Operating System That Treats Distribution as Normal](https://dev.to/viz-x/inferno-an-operating-system-that-treats-distribution-as-normal-1ag6)
-- [Don&#39;t Let AI Trading Burn You: Legal Landmines to Avoid](https://dev.to/tanvir_khan_18c27d836a78f/dont-let-ai-trading-burn-you-legal-landmines-to-avoid-aag)
-- [Understanding SQL Window Functions &lpar;Part 2&rpar;](https://dev.to/intersystems/understanding-sql-window-functions-part-2-1mlc)
-- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
+- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
+- [TempleOS: A Non-POSIX Operating System That Removed Protection on Purpose](https://dev.to/viz-x/templeos-a-desktop-operating-system-that-removed-protection-on-purpose-meb)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hh6)
+- [Frontend Fears: A Backend Python Dev&#39;s Struggle with UI](https://dev.to/aditya_mishra_f7caea5fe91/frontend-fears-a-backend-python-devs-struggle-with-ui-4a9a)
 <!-- BLOG-POST-LIST:END -->
 
