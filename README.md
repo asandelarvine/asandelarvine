@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bugs in the Wild West: Top 10 C and C++ errors of 2025](https://dev.to/pvsdev/bugs-in-the-wild-west-top-10-c-and-c-errors-of-2025-o2d)
-- [Monetzly: The New Frontier in AI Monetization for Developers](https://dev.to/monetzly/monetzly-the-new-frontier-in-ai-monetization-for-developers-36ne)
-- [Turning Complexity into Smart Simplicity for Product Design](https://dev.to/edaeda2354/turning-complexity-into-smart-simplicity-for-product-design-174a)
-- [Motion graphics of human anatomy](https://dev.to/kaoria/motion-graphics-of-human-anatomy-59b0)
+- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
+- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
+- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
+- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
 <!-- BLOG-POST-LIST:END -->
 
