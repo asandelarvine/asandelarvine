@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
-- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
-- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
-- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
+- [Using Python To Merge Array of Ranges](https://dev.to/grantdotdev/using-python-to-merge-array-of-ranges-2hic)
+- [WHY DEVTOOLS USERS DON&#39;T CONVERT &lpar;AND IT&#39;S NOT YOUR FEATURES&rpar;](https://dev.to/arbythecoder/why-devtools-users-dont-convert-and-its-not-your-features-1h9m)
+- [The Tick Model](https://dev.to/saptakbhoumik/the-tick-model-4ccj)
+- [Breaking the real matrix in open source](https://dev.to/javadinteger/breaking-the-real-matrix-in-open-source-4m55)
 <!-- BLOG-POST-LIST:END -->
 
