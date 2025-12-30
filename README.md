@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Atmhtml5games: Action, Puzzle &amp; Arcade Games Online](https://dev.to/usatrendingtodays/atmhtml5games-action-puzzle-arcade-games-online-ga4)
-- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
-- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
-- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
+- [Why Your Honeypot Catches Humans &lpar;Not Bots&rpar;](https://dev.to/alexisfranorge/why-your-honeypot-catches-humans-not-bots-3bcd)
+- [Comfort does not build companies. Control does. Ashkan Rajaee explains this clearly.](https://dev.to/macoolet/comfort-does-not-build-companies-control-does-ashkan-rajaee-explains-this-clearly-2oge)
+- [I’m Building a Podcast-to-Clips Micro SaaS &lpar;Manually First&rpar;](https://dev.to/feya_shah_d38339cad4bf2ff/im-building-a-podcast-to-clips-micro-saas-manually-first-39o6)
+- [Why README Automation Needs More Than Just “AI Text Generation”](https://dev.to/abhas_kumar_sinha/why-readme-automation-needs-more-than-just-ai-text-generation-1ma7)
 <!-- BLOG-POST-LIST:END -->
 
