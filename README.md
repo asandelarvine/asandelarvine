@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Build a Zero-Cost DevOps Platform on Windows 11 with Kubernetes &amp; ArgoCD](https://dev.to/martins984/tutorial-build-a-zero-cost-devops-platform-on-windows-11-with-kubernetes-argocd-1hnn)
-- [The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job](https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn)
-- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
-- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
+- [🧩 Atmhtml5games: Action, Puzzle &amp; Arcade Games Online](https://dev.to/usatrendingtodays/atmhtml5games-action-puzzle-arcade-games-online-ga4)
+- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
+- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
+- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
 <!-- BLOG-POST-LIST:END -->
 
