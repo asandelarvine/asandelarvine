@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zilog Z80: the small CPU that powered an entire generation](https://dev.to/viz-x/zilog-z80-the-small-cpu-that-powered-an-entire-generation-4inc)
-- [IBM Z: the computer that never learned how to die](https://dev.to/viz-x/ibm-z-the-computer-that-never-learned-how-to-die-590j)
-- [Keep your Ubuntu‑based VPN Server Updated](https://dev.to/reggiejohnson86/keep-your-ubuntu-based-vpn-server-updated-11al)
-- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
+- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
+- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
+- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
+- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
 <!-- BLOG-POST-LIST:END -->
 
