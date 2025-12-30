@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are AWS Regions, Availability Zones, and Edge Locations? A Simple Guide for Beginners](https://dev.to/deeppatel0311/what-are-aws-regions-availability-zones-and-edge-locations-a-simple-guide-for-beginners-2kbj)
-- [Why Android is Not Really Open Source](https://dev.to/askadityapandey/why-android-is-not-really-open-source-3626)
-- [Developers VS Product Sense](https://dev.to/superkacper4/developers-vs-product-sense-8ph)
-- [OS/2 vs Windows NT: One Bet on Hardware, One Bet on Time](https://dev.to/viz-x/os2-vs-windows-nt-one-bet-on-hardware-one-bet-on-time-355o)
+- [KEXP: Pixel Grip - Split &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pixel-grip-split-live-on-kexp-84k)
+- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
+- [Getting started with GPU Programming on an EC2!](https://dev.to/aws-builders/getting-started-with-gpu-programming-on-an-ec2-42ke)
+- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
 <!-- BLOG-POST-LIST:END -->
 
