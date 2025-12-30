@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Is Meant to Be Built, Not Watched](https://dev.to/web_dev-usman/web-development-is-meant-to-be-built-not-watched-2em7)
-- [What Happens When You Kill the Kotlin Daemon Before R8?](https://dev.to/cdsap/what-happens-when-you-kill-the-kotlin-daemon-before-r8-el7)
-- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
-- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
+- [How AWS Supports Enterprise Grade Generative AI Workloads](https://dev.to/shubhamthakoredev/how-aws-supports-enterprise-grade-generative-ai-workloads-1258)
+- [FileMate v2: A Modern Tkinter File Manager in Python](https://dev.to/matetechnologie/filemate-v2-a-modern-tkinter-file-manager-in-python-1ob5)
+- [The useCallback react hook](https://dev.to/edriso/the-usecallback-react-hook-2cco)
+- [Day-21 GitHub Actions, CI Triggers, and Understanding Runners 🚀](https://dev.to/jayanth_dasari_7/day-21-github-actions-ci-triggers-and-understanding-runners-8h2)
 <!-- BLOG-POST-LIST:END -->
 
