@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Activate AI Assistant in Your Analytics Embedded App](https://dev.to/boldbi/how-to-activate-ai-assistant-in-your-analytics-embedded-app-4jfh)
-- [I Quit My Job to Build the Game Dev Platform I Wish Existed](https://dev.to/jonas_olofsson_cdf7608bde/i-quit-my-job-to-build-the-game-dev-platform-i-wish-existed-6jg)
-- [Stop Guessing Which AI Model is Best: Benchmark 300+ Models Inside ChatGPT](https://dev.to/criticalmynd/stop-guessing-which-ai-model-is-best-benchmark-300-models-inside-chatgpt-fg0)
-- [PERFECT Code Review](https://dev.to/bastrich/perfect-code-review-4d5)
+- [I Hacked GitHub Readmes to Show Real-Time Data &lpar;No Spinner, No JS&rpar;](https://dev.to/0xsunanda/i-hacked-github-readmes-to-show-real-time-data-no-spinner-no-js-2gj7)
+- [📈_Scalability_Architecture_Design[20251230124757]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20251230124757-40jj)
+- [Can you describe a complex data architecture you’ve designed or implemented in the past?](https://dev.to/shruti_nakum/can-you-describe-a-complex-data-architecture-youve-designed-or-implemented-in-the-past-14kl)
+- [CCPA 2026: What Developers Need to Know About the New Privacy Updates](https://dev.to/mehwish_malik_4f29ff7fb04/ccpa-2026-what-developers-need-to-know-about-the-new-privacy-updates-1el2)
 <!-- BLOG-POST-LIST:END -->
 
