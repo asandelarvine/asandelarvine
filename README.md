@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Angular Compiler with Google Gemini](https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0)
-- [SVG vs Canvas vs WebGL for Diagram Viewers: Tradeoffs, Bottlenecks, and How to Measure](https://dev.to/vitalf/svg-vs-canvas-vs-webgl-for-diagram-viewers-tradeoffs-bottlenecks-and-how-to-measure-34n7)
-- [A local-first, reversible PII scrubber for AI workflows using ONNX and Regex](https://dev.to/tjruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-53fb)
-- [Scaling Autonomy: Architecting Cost-Efficient Agentic AI for the Enterprise](https://dev.to/dev_gupta_6707a7dccdfd729/scaling-autonomy-architecting-cost-efficient-agentic-ai-for-the-enterprise-4140)
+- [Create MinIO Bucket using Express.js](https://dev.to/codefalconx/create-minio-bucket-using-expressjs-21k2)
+- [تکنیک‌های افزایش فروش دوره در اینستاگرام &lpar;از جذب تا ثبت‌نام&rpar;](https://dev.to/dorify/tkhnykhhy-fzysh-frwsh-dwrh-dr-ynstgrm-z-jdhb-t-thbtnm-3465)
+- [Building a Matrix Digital Rain Screensaver for Windows 10/11](https://dev.to/miztizm/building-a-matrix-digital-rain-screensaver-for-windows-1011-2feb)
+- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
 <!-- BLOG-POST-LIST:END -->
 
