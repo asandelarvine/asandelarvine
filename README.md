@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Egyptian Sign Language Translator: AI-Powered Solution to Empower the Deaf Community in Egypt](https://dev.to/ahmed_ashraf_e11715dbbf46/real-time-egyptian-sign-language-translator-ai-powered-solution-to-empower-the-deaf-community-14nf)
-- [What Is Beta Testing? Process, Types, Benefits, And Best Practices](https://dev.to/keploy/what-is-beta-testing-process-types-benefits-and-best-practices-43m0)
-- [Why Developers Always Miss Deadlines](https://dev.to/_jeongyuhyeon_03de1/why-developers-always-miss-deadlines-nl6)
-- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc)
+- [KitOps Wrap 2025🔥](https://dev.to/astrodevil/kitops-wrap-2025-1n0l)
+- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
+- [Stop Parsing Nightmares: Prompting LLMs to Return Clean, Parseable JSON](https://dev.to/superorange0707/stop-parsing-nightmares-prompting-llms-to-return-clean-parseable-json-290o)
+- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
 <!-- BLOG-POST-LIST:END -->
 
