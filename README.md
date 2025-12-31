@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5d1i)
-- [첫 글](https://dev.to/dbsans11/ceos-geul-1320)
-- [🧩Runtime Snapshots #8 — From Bug Reports to Automated Regression: A QA Pipeline](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-8-from-bug-reports-to-automated-regression-a-qa-pipeline-5bl5)
-- [The AI Bubble Is Not About AI](https://dev.to/intelgreatnez/the-ai-bubble-is-not-about-ai-1bmp)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-34i9)
+- [When the AI Misreads the Stack: How Models Misinterpret Error Traces](https://dev.to/jamesdev4123/when-the-ai-misreads-the-stack-how-models-misinterpret-error-traces-99j)
+- [Moving From Strategy to Design: 2025 Review and 2026 Roadmap](https://dev.to/devin-rosario/moving-from-strategy-to-design-2025-review-and-2026-roadmap-3cge)
+- [7 Steps of Problem Solving and Decision Making](https://dev.to/writegenic/7-steps-of-problem-solving-and-decision-making-3h00)
 <!-- BLOG-POST-LIST:END -->
 
