@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Server‑Side Rendering: Rediscovering PHP and the Joy of Experimenting](https://dev.to/jaboarnoldlandry/beyond-server-side-rendering-rediscovering-php-and-the-joy-of-experimenting-2oo6)
-- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
-- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
-- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
+- [🌐_Network_IO_Performance_Optimization[20251231210816]](https://dev.to/member_6331818c/networkioperformanceoptimization20251231210816-4old)
+- [🛠 Fixing a Real UI Bug in PrimeReact: My Open Source Contribution Journey](https://dev.to/coderxrohan/fixing-a-real-ui-bug-in-primereact-my-open-source-contribution-journey-428b)
+- [Interpretable classifiers using rules and Bayesian analysis: Building a betterstroke prediction model](https://dev.to/paperium/interpretable-classifiers-using-rules-and-bayesian-analysis-building-a-betterstroke-prediction-2c40)
+- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
 <!-- BLOG-POST-LIST:END -->
 
