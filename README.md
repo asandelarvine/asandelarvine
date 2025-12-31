@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
-- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
-- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
-- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5d1i)
+- [첫 글](https://dev.to/dbsans11/ceos-geul-1320)
+- [🧩Runtime Snapshots #8 — From Bug Reports to Automated Regression: A QA Pipeline](https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-8-from-bug-reports-to-automated-regression-a-qa-pipeline-5bl5)
+- [The AI Bubble Is Not About AI](https://dev.to/intelgreatnez/the-ai-bubble-is-not-about-ai-1bmp)
 <!-- BLOG-POST-LIST:END -->
 
