@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does the Shopify theme really affect store performance?](https://dev.to/amara_okafor_2dc94ad7699a/does-the-shopify-theme-really-affect-store-performance-3812)
-- [When Would You Group Multiple API Proxies Into a Single Product in Apigee X?](https://dev.to/realnamehidden1_61/when-would-you-group-multiple-api-proxies-into-a-single-product-in-apigee-x-2djb)
-- [🖥️ The DEC-VAX: The Machine That Changed Computing History](https://dev.to/f345345dfg/the-dec-vax-the-machine-that-changed-computing-history-50kf)
-- [Professional Massage Therapy in Ajman: A Practical Approach to Wellness](https://dev.to/jameela_spauae_25324bf1b/professional-massage-therapy-in-ajman-a-practical-approach-to-wellness-47nl)
+- [Reverse-engineering undocumented APIs with Claude](https://dev.to/kalil0321/reverse-engineering-undocumented-apis-with-claude-1l33)
+- [Copper Sales Opportunities Dashboard: 5 Key Metrics to Track](https://dev.to/boldbi/copper-sales-opportunities-dashboard-5-key-metrics-to-track-3def)
+- [Combine #11: Temporizadores](https://dev.to/david_goyes_a488f58a17a53/combine-11-temporizadores-3aod)
+- [React JS Embedding: Server Authentication via Access Token](https://dev.to/boldbi/react-js-embedding-server-authentication-via-access-token-58me)
 <!-- BLOG-POST-LIST:END -->
 
