@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready MERN Stack Applications: Lessons from 50M+ Users](https://dev.to/muhammad_zulqarnainakram/building-production-ready-mern-stack-applications-lessons-from-50m-users-1pjd)
-- [CSS @property Explained: The Secret Weapon for Dynamic &amp; Smooth Animations](https://dev.to/satyam_gupta_0d1ff2152dcc/css-property-explained-the-secret-weapon-for-dynamic-smooth-animations-2ip5)
-- [Resolving &quot;This workflow run was not suspended&quot; in Nested Mastra Workflows](https://dev.to/devamaz/mastra-this-workflow-run-was-not-suspended-error-4o3a)
-- [Ending the year by reaching out](https://dev.to/vulcanwm/ending-the-year-by-reaching-out-5f3g)
+- [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
+- [Skyflo: AI agent for Cloud &amp; DevOps](https://dev.to/karanjagtiani/skyflo-ai-agent-for-cloud-devops-3a7f)
+- [The useMemo react hook: Optimizing Expensive Calculations with useMemo](https://dev.to/edriso/the-usememo-react-hook-optimizing-expensive-calculations-with-usememo-2j84)
+- [Kuinka rakensin käyttäjälähtöisen verkkotyökalun pörssisähkön hinnan seuraamiseen](https://dev.to/sofiamayer_dev/kuinka-rakensin-kayttajalahtoisen-verkkotyokalun-porssisahkon-hinnan-seuraamiseen-3gge)
 <!-- BLOG-POST-LIST:END -->
 
