@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create MinIO Bucket using Express.js](https://dev.to/codefalconx/create-minio-bucket-using-expressjs-21k2)
-- [تکنیک‌های افزایش فروش دوره در اینستاگرام &lpar;از جذب تا ثبت‌نام&rpar;](https://dev.to/dorify/tkhnykhhy-fzysh-frwsh-dwrh-dr-ynstgrm-z-jdhb-t-thbtnm-3465)
-- [Building a Matrix Digital Rain Screensaver for Windows 10/11](https://dev.to/miztizm/building-a-matrix-digital-rain-screensaver-for-windows-1011-2feb)
-- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
+- [Happy New Year! 🎉 | Your Code from Last Year Still Doesn&#39;t Work 😂](https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8)
+- [🌍 I Built MapMeet: A 3D Globe Event Platform for the Mux + DEV Challenge](https://dev.to/kiranbaby14/i-built-mapmeet-a-3d-globe-event-platform-for-the-mux-dev-challenge-5ai7)
+- [Mastering RabbitMQ in Microservices: A JavaScript Guide to Async Magic](https://dev.to/harshm03/mastering-rabbitmq-in-microservices-a-javascript-guide-to-async-magic-1a7c)
+- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
 <!-- BLOG-POST-LIST:END -->
 
