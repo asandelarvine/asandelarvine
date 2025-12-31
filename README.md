@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Hype Reckoning: A 2025 Retrospective on the Bubble That Burst Expectations](https://dev.to/om_shree_0709/the-ai-hype-reckoning-a-2025-retrospective-on-the-bubble-that-burst-expectations-fj7)
-- [Organizing technology events](https://dev.to/lucaspereiradesouzat/organizing-technology-events-34b3)
-- [Organizando eventos de tecnologia](https://dev.to/lucaspereiradesouzat/organizando-eventos-de-tecnologia-21ga)
-- [I Learned Generative AI Basics Today — Here’s the Simple Truth No One Explained Clearly](https://dev.to/satyajitmishra/i-learned-generative-ai-basics-today-heres-the-simple-truth-no-one-explained-clearly-1ckf)
+- [Building an Angular Compiler with Google Gemini](https://dev.to/brandontroberts/building-an-angular-compiler-with-google-gemini-ie0)
+- [SVG vs Canvas vs WebGL for Diagram Viewers: Tradeoffs, Bottlenecks, and How to Measure](https://dev.to/vitalf/svg-vs-canvas-vs-webgl-for-diagram-viewers-tradeoffs-bottlenecks-and-how-to-measure-34n7)
+- [A local-first, reversible PII scrubber for AI workflows using ONNX and Regex](https://dev.to/tjruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-53fb)
+- [Scaling Autonomy: Architecting Cost-Efficient Agentic AI for the Enterprise](https://dev.to/dev_gupta_6707a7dccdfd729/scaling-autonomy-architecting-cost-efficient-agentic-ai-for-the-enterprise-4140)
 <!-- BLOG-POST-LIST:END -->
 
