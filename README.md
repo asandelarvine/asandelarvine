@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐_Network_IO_Performance_Optimization[20251231210816]](https://dev.to/member_6331818c/networkioperformanceoptimization20251231210816-4old)
-- [🛠 Fixing a Real UI Bug in PrimeReact: My Open Source Contribution Journey](https://dev.to/coderxrohan/fixing-a-real-ui-bug-in-primereact-my-open-source-contribution-journey-428b)
-- [Interpretable classifiers using rules and Bayesian analysis: Building a betterstroke prediction model](https://dev.to/paperium/interpretable-classifiers-using-rules-and-bayesian-analysis-building-a-betterstroke-prediction-2c40)
-- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
+- [The Context Graph Manifesto](https://dev.to/jackcolquitt/the-context-graph-manifesto-2a8m)
+- [FitnessEquation](https://dev.to/bibimbop123/fitnessequation-28cg)
+- [Transaction Race Conditions: Why BEGIN on Pool Breaks Everything](https://dev.to/ofri-peretz/transaction-race-conditions-why-begin-on-pool-breaks-everything-117h)
+- [The Connection Leak That Took Down Our Production Database](https://dev.to/ofri-peretz/the-connection-leak-that-took-down-our-production-database-3bal)
 <!-- BLOG-POST-LIST:END -->
 
