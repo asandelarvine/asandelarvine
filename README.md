@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy New Year! 🎉 | Your Code from Last Year Still Doesn&#39;t Work 😂](https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8)
-- [🌍 I Built MapMeet: A 3D Globe Event Platform for the Mux + DEV Challenge](https://dev.to/kiranbaby14/i-built-mapmeet-a-3d-globe-event-platform-for-the-mux-dev-challenge-5ai7)
-- [Mastering RabbitMQ in Microservices: A JavaScript Guide to Async Magic](https://dev.to/harshm03/mastering-rabbitmq-in-microservices-a-javascript-guide-to-async-magic-1a7c)
-- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
+- [Beyond Server‑Side Rendering: Rediscovering PHP and the Joy of Experimenting](https://dev.to/jaboarnoldlandry/beyond-server-side-rendering-rediscovering-php-and-the-joy-of-experimenting-2oo6)
+- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
+- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
 <!-- BLOG-POST-LIST:END -->
 
