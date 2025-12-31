@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7)
-- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-2lbg)
-- [Beyond Chatbots: Building Autonomous Multi-Agent Swarms for Global Supply Chain Risk Intelligence](https://dev.to/exploredataaiml/beyond-chatbots-building-autonomous-multi-agent-swarms-for-global-supply-chain-risk-intelligence-2onh)
-- [When 4chan suddenly gives you 403 or an endless CAPTCHA](https://dev.to/gabrielewayner/when-4chan-suddenly-gives-you-403-or-an-endless-captcha-1e35)
+- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
+- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
+- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
+- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
 <!-- BLOG-POST-LIST:END -->
 
