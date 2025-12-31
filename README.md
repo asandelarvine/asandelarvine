@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KitOps Wrap 2025🔥](https://dev.to/astrodevil/kitops-wrap-2025-1n0l)
-- [CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent](https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l)
-- [Stop Parsing Nightmares: Prompting LLMs to Return Clean, Parseable JSON](https://dev.to/superorange0707/stop-parsing-nightmares-prompting-llms-to-return-clean-parseable-json-290o)
-- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
+- [Building Production-Ready MERN Stack Applications: Lessons from 50M+ Users](https://dev.to/muhammad_zulqarnainakram/building-production-ready-mern-stack-applications-lessons-from-50m-users-1pjd)
+- [CSS @property Explained: The Secret Weapon for Dynamic &amp; Smooth Animations](https://dev.to/satyam_gupta_0d1ff2152dcc/css-property-explained-the-secret-weapon-for-dynamic-smooth-animations-2ip5)
+- [Resolving &quot;This workflow run was not suspended&quot; in Nested Mastra Workflows](https://dev.to/devamaz/mastra-this-workflow-run-was-not-suspended-error-4o3a)
+- [Ending the year by reaching out](https://dev.to/vulcanwm/ending-the-year-by-reaching-out-5f3g)
 <!-- BLOG-POST-LIST:END -->
 
