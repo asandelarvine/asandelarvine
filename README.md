@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering undocumented APIs with Claude](https://dev.to/kalil0321/reverse-engineering-undocumented-apis-with-claude-1l33)
-- [Copper Sales Opportunities Dashboard: 5 Key Metrics to Track](https://dev.to/boldbi/copper-sales-opportunities-dashboard-5-key-metrics-to-track-3def)
-- [Combine #11: Temporizadores](https://dev.to/david_goyes_a488f58a17a53/combine-11-temporizadores-3aod)
-- [React JS Embedding: Server Authentication via Access Token](https://dev.to/boldbi/react-js-embedding-server-authentication-via-access-token-58me)
+- [Real-Time Egyptian Sign Language Translator: AI-Powered Solution to Empower the Deaf Community in Egypt](https://dev.to/ahmed_ashraf_e11715dbbf46/real-time-egyptian-sign-language-translator-ai-powered-solution-to-empower-the-deaf-community-14nf)
+- [What Is Beta Testing? Process, Types, Benefits, And Best Practices](https://dev.to/keploy/what-is-beta-testing-process-types-benefits-and-best-practices-43m0)
+- [Why Developers Always Miss Deadlines](https://dev.to/_jeongyuhyeon_03de1/why-developers-always-miss-deadlines-nl6)
+- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc)
 <!-- BLOG-POST-LIST:END -->
 
