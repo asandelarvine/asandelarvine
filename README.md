@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How Signals Work](https://dev.to/luciano0322/understanding-how-signals-work-e7e)
-- [Building Self-Referential Agents with .NET 10 &amp; Aspire &lpar;Part 1&rpar;](https://dev.to/shawn_bellazan_843158cdd4/building-self-referential-agents-with-net-10-aspire-part-1-5dam)
-- [Alpha Arena AI Trading System 2.0: The Optimization Journey from Ideal to Reality](https://dev.to/chronosquant/alpha-arena-ai-trading-system-20-the-optimization-journey-from-ideal-to-reality-5c85)
-- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
+- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-48g7)
+- [Building an Effect Runtime in TypeScript - Part 2: Integrating the JavaScript Ecosystem Like LEGO Blocks](https://dev.to/baldrvivaldelli/building-an-effect-runtime-in-typescript-part-2-integrating-the-javascript-ecosystem-like-lego-2lbg)
+- [Beyond Chatbots: Building Autonomous Multi-Agent Swarms for Global Supply Chain Risk Intelligence](https://dev.to/exploredataaiml/beyond-chatbots-building-autonomous-multi-agent-swarms-for-global-supply-chain-risk-intelligence-2onh)
+- [When 4chan suddenly gives you 403 or an endless CAPTCHA](https://dev.to/gabrielewayner/when-4chan-suddenly-gives-you-403-or-an-endless-captcha-1e35)
 <!-- BLOG-POST-LIST:END -->
 
