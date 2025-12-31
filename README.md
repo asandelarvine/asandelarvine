@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
-- [Skyflo: AI agent for Cloud &amp; DevOps](https://dev.to/karanjagtiani/skyflo-ai-agent-for-cloud-devops-3a7f)
-- [The useMemo react hook: Optimizing Expensive Calculations with useMemo](https://dev.to/edriso/the-usememo-react-hook-optimizing-expensive-calculations-with-usememo-2j84)
-- [Kuinka rakensin käyttäjälähtöisen verkkotyökalun pörssisähkön hinnan seuraamiseen](https://dev.to/sofiamayer_dev/kuinka-rakensin-kayttajalahtoisen-verkkotyokalun-porssisahkon-hinnan-seuraamiseen-3gge)
+- [The AI Hype Reckoning: A 2025 Retrospective on the Bubble That Burst Expectations](https://dev.to/om_shree_0709/the-ai-hype-reckoning-a-2025-retrospective-on-the-bubble-that-burst-expectations-fj7)
+- [Organizing technology events](https://dev.to/lucaspereiradesouzat/organizing-technology-events-34b3)
+- [Organizando eventos de tecnologia](https://dev.to/lucaspereiradesouzat/organizando-eventos-de-tecnologia-21ga)
+- [I Learned Generative AI Basics Today — Here’s the Simple Truth No One Explained Clearly](https://dev.to/satyajitmishra/i-learned-generative-ai-basics-today-heres-the-simple-truth-no-one-explained-clearly-1ckf)
 <!-- BLOG-POST-LIST:END -->
 
