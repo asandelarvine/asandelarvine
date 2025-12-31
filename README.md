@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
-- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
-- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
-- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
+- [The 30-Minute Security Audit: Onboarding a New Codebase](https://dev.to/ofri-peretz/the-30-minute-security-audit-onboarding-a-new-codebase-4f91)
+- [Why Conversational AI Is Not Just a Chatbot — It’s a Service Redesign](https://dev.to/kokni_manus_4ba34ad6eddbc/why-conversational-ai-is-not-just-a-chatbot-its-a-service-redesign-40ck)
+- [AI Layer Split: Extract 5+ Game-Ready Assets Fast](https://dev.to/aivideotool/ai-layer-split-extract-5-game-ready-assets-fast-h4l)
+- [Beyond `apt upgrade`: Automating Linux Hardening for Public Sector Workloads](https://dev.to/patrickbloemit/beyond-apt-upgrade-automating-linux-hardening-for-public-sector-workloads-4m69)
 <!-- BLOG-POST-LIST:END -->
 
