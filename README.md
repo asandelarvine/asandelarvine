@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a CMS-Level Firewall: Why Application Context Matters](https://dev.to/maximalex/building-a-cms-level-firewall-why-application-context-matters-52kp)
-- [🎯_Microservices_Performance_Tuning_Practical[20251230231030]](https://dev.to/member_6331818c/microservicesperformancetuningpractical20251230231030-16k1)
-- [2025-12-30 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-30-daily-robotics-news-l8m)
-- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
+- [Understanding How Signals Work](https://dev.to/luciano0322/understanding-how-signals-work-e7e)
+- [Building Self-Referential Agents with .NET 10 &amp; Aspire &lpar;Part 1&rpar;](https://dev.to/shawn_bellazan_843158cdd4/building-self-referential-agents-with-net-10-aspire-part-1-5dam)
+- [Alpha Arena AI Trading System 2.0: The Optimization Journey from Ideal to Reality](https://dev.to/chronosquant/alpha-arena-ai-trading-system-20-the-optimization-journey-from-ideal-to-reality-5c85)
+- [My Predictions for MCP and AI-Assisted Coding in 2026](https://dev.to/blackgirlbytes/my-predictions-for-mcp-and-ai-assisted-coding-in-2026-16bm)
 <!-- BLOG-POST-LIST:END -->
 
