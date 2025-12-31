@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 30-Minute Security Audit: Onboarding a New Codebase](https://dev.to/ofri-peretz/the-30-minute-security-audit-onboarding-a-new-codebase-4f91)
-- [Why Conversational AI Is Not Just a Chatbot — It’s a Service Redesign](https://dev.to/kokni_manus_4ba34ad6eddbc/why-conversational-ai-is-not-just-a-chatbot-its-a-service-redesign-40ck)
-- [AI Layer Split: Extract 5+ Game-Ready Assets Fast](https://dev.to/aivideotool/ai-layer-split-extract-5-game-ready-assets-fast-h4l)
-- [Beyond `apt upgrade`: Automating Linux Hardening for Public Sector Workloads](https://dev.to/patrickbloemit/beyond-apt-upgrade-automating-linux-hardening-for-public-sector-workloads-4m69)
+- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
+- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
+- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
+- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
 <!-- BLOG-POST-LIST:END -->
 
