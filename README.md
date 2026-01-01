@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flight Status Card ✦ turbokit.io](https://dev.to/preetha_vaishnavi_2b82358/flight-status-card-turbokitio-48fm)
-- [A Guide to Web3 Infrastructure &amp; Concepts](https://dev.to/inushathathsara/a-guide-to-web3-infrastructure-concepts-73k)
-- [The Database Query That Could Cost a Company Millions&lpar;And Why Data Engineers Exist&rpar;](https://dev.to/thanh_truong_a99577c6b879/the-database-query-that-could-cost-a-company-millionsand-why-data-engineers-exist-4i8e)
-- [Automating Serverless Data Ingestion: How to Connect External APIs to BigQuery using Python and Cloud Functions](https://dev.to/aminelaatfa/automating-serverless-data-ingestion-how-to-connect-external-apis-to-bigquery-using-python-and-1opk)
+- [Solved: Which is the most popular CI/CD tool used nowadays?](https://dev.to/techresolve/solved-which-is-the-most-popular-cicd-tool-used-nowadays-4bjk)
+- [Solved: Does everyone uses hacks to bypass Airtable’s crazy pricing?](https://dev.to/techresolve/solved-does-everyone-uses-hacks-to-bypass-airtables-crazy-pricing-bh2)
+- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-4klh)
+- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-1mfh)
 <!-- BLOG-POST-LIST:END -->
 
