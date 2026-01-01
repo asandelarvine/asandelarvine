@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
-- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
-- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
-- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
+- [Day 1 of DSA: Arrays Fundamentals](https://dev.to/kabileshwarankabil/day-1-of-dsa-arrays-fundamentals-1l4j)
+- [The Federal Government Needs a Technical Bankruptcy, Not Another Security Patch](https://dev.to/zeroblind25/the-federal-government-needs-a-technical-bankruptcy-not-another-security-patch-oa4)
+- [Title: &quot;When Tech News Meets Comedy – Part 1: The Great Server Meltdown of 2023&quot;](https://dev.to/adnan_arif_14ae4bc014267f/title-when-tech-news-meets-comedy-part-1-the-great-server-meltdown-of-2023-5h17)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260101015520]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260101015520-2cd7)
 <!-- BLOG-POST-LIST:END -->
 
