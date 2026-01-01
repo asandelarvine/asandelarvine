@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tenant Design for Bedrock Knowledge Base: Solving the Account Limit with Metadata Filtering](https://dev.to/ryo_ariyama_b521d7133c493/multi-tenant-design-for-bedrock-knowledge-base-solving-the-account-limit-with-metadata-filtering-e6b)
-- [15. 3Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/15-3sum-leetcode-top-interview-150-coding-questions-5eik)
-- [Radiant AI: Building an AI-Powered Image Editor with Python](https://dev.to/arshvir/radiant-ai-building-an-ai-powered-image-editor-with-python-51lp)
-- [Monetzly: Boost Developer Revenue with AI Conversation Monetization](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-monetization-196n)
+- [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
+- [Building &lpar;and Sharing&rpar; an HTML5 Component Library — No Frameworks Required](https://dev.to/lukedunsmoto/building-and-sharing-an-html5-component-library-no-frameworks-required-497o)
+- [Federal Cybersecurity Is Just Security Theater With a Bigger Budget](https://dev.to/zeroblind25/federal-cybersecurity-is-just-security-theater-with-a-bigger-budget-248)
+- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
 <!-- BLOG-POST-LIST:END -->
 
