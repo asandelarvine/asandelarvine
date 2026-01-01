@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Controllable AI: A Runtime Legitimacy Layer for AI Governance](https://dev.to/yuer/controllable-ai-a-runtime-legitimacy-layer-for-ai-governance-bp)
-- [Blockchain Development Services: Build Secure and Scalable Solutions with Oodles](https://dev.to/oodlesplatform/blockchain-development-services-build-secure-and-scalable-solutions-with-oodles-4b26)
-- [What’s New in .NET 10 &lpar;LTS&rpar; — Why It Matters for Developers &amp; Businesses](https://dev.to/kellythomas/whats-new-in-net-10-lts-why-it-matters-for-developers-businesses-1c50)
-- [Understanding LVL Faceit ELO and Why It Matters for Competitive CS2 Players](https://dev.to/mathive_smith_89345d9df4f/understanding-lvl-faceit-elo-and-why-it-matters-for-competitive-cs2-players-21n3)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/abhimanyu_kumar_b94e042e9/why-version-control-exists-the-pendrive-problem-2779)
+- [Thundering Herds: The Scalability Killer](https://dev.to/aonnis/thundering-herds-the-scalability-killer-41mh)
+- [SEO Basics for Small Businesses: How to Build Visibility That Actually Converts](https://dev.to/seo-growth-guide/seo-basics-for-small-businesses-how-to-build-visibility-that-actually-converts-1p0b)
+- [Sending emails in Node.js, Deno, and Bun in 2026: a practical guide](https://dev.to/hongminhee/sending-emails-in-nodejs-deno-and-bun-in-2026-a-practical-guide-og9)
 <!-- BLOG-POST-LIST:END -->
 
