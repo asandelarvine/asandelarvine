@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Design Trends for 2026: What Developers Actually Need to Care About](https://dev.to/webmix_studio_3a626e2219e/web-design-trends-for-2026-what-developers-actually-need-to-care-about-298c)
-- [Fast-Growing Business Opportunities in Bangladesh 2026](https://dev.to/isha_mohammad_034308fdad7/fast-growing-business-opportunities-in-bangladesh-2026-2mbh)
-- [PyTorch vs. TensorFlow: Choosing Your AI Framework for 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/pytorch-vs-tensorflow-choosing-your-ai-framework-for-2026-4ik6)
-- [What Is a Digital NFC Card? A Simple Guide for Modern Businesses](https://dev.to/promaxcard_fdf0758c0b2cd5/what-is-a-digital-nfc-card-a-simple-guide-for-modern-businesses-g4b)
+- [Cutting My Self-Hosted Analytics Stack Memory by 45%](https://dev.to/sivarampg/cutting-my-self-hosted-analytics-stack-memory-by-45-2o9g)
+- [Deploying a Highly Available AWS Architecture with Terraform](https://dev.to/copubah/deploying-a-highly-available-aws-architecture-with-terraform-39pb)
+- [Salesforce No-Code Automation: What’s Next in 2026](https://dev.to/itechcloud_solution_d0e2c/salesforce-no-code-automation-whats-next-in-2026-67d)
+- [Elzero Web School CSS All-Assignment 14](https://dev.to/preetha_vaishnavi_2b82358/elzero-web-school-css-all-assignment-14-2no3)
 <!-- BLOG-POST-LIST:END -->
 
