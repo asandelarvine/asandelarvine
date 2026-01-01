@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking the Trades: Why I Chose Python for HVAC Field Automation](https://dev.to/dyami_connell/hacking-the-trades-why-i-chose-python-for-hvac-field-automation-1il4)
-- [Semantic3D.net: A new Large-scale Point Cloud Classification Benchmark](https://dev.to/paperium/semantic3dnet-a-new-large-scale-point-cloud-classification-benchmark-4pd)
-- [How I Fixed Sunshine Screen Sharing on macOS Tahoe &lpar;The Native Wrapper Method&rpar;](https://dev.to/sanjayajoseph/how-i-fixed-sunshine-screen-sharing-on-macos-tahoe-the-native-wrapper-method-558g)
-- [When AI-generated tests pass but miss the bug: a postmortem on tautological unit tests](https://dev.to/jamesdev4123/when-ai-generated-tests-pass-but-miss-the-bug-a-postmortem-on-tautological-unit-tests-2ajp)
+- [A New Year, an Open Source Tool](https://dev.to/surhidamatya/a-new-year-an-open-source-tool-38in)
+- [New Year, New Build: Traata Goes Mobile](https://dev.to/abhishekdvs/new-year-new-build-traata-goes-mobile-2a6f)
+- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
+- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
 <!-- BLOG-POST-LIST:END -->
 
