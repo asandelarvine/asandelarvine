@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
-- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
-- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
-- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
+- [Multi-Tenant Design for Bedrock Knowledge Base: Solving the Account Limit with Metadata Filtering](https://dev.to/ryo_ariyama_b521d7133c493/multi-tenant-design-for-bedrock-knowledge-base-solving-the-account-limit-with-metadata-filtering-e6b)
+- [15. 3Sum | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/15-3sum-leetcode-top-interview-150-coding-questions-5eik)
+- [Radiant AI: Building an AI-Powered Image Editor with Python](https://dev.to/arshvir/radiant-ai-building-an-ai-powered-image-editor-with-python-51lp)
+- [Monetzly: Boost Developer Revenue with AI Conversation Monetization](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-monetization-196n)
 <!-- BLOG-POST-LIST:END -->
 
