@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of DSA: Arrays Fundamentals](https://dev.to/kabileshwarankabil/day-1-of-dsa-arrays-fundamentals-1l4j)
-- [The Federal Government Needs a Technical Bankruptcy, Not Another Security Patch](https://dev.to/zeroblind25/the-federal-government-needs-a-technical-bankruptcy-not-another-security-patch-oa4)
-- [Title: &quot;When Tech News Meets Comedy – Part 1: The Great Server Meltdown of 2023&quot;](https://dev.to/adnan_arif_14ae4bc014267f/title-when-tech-news-meets-comedy-part-1-the-great-server-meltdown-of-2023-5h17)
-- [🧠_Deep_Dive_Memory_Management_Performance[20260101015520]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260101015520-2cd7)
+- [Hacking the Trades: Why I Chose Python for HVAC Field Automation](https://dev.to/dyami_connell/hacking-the-trades-why-i-chose-python-for-hvac-field-automation-1il4)
+- [Semantic3D.net: A new Large-scale Point Cloud Classification Benchmark](https://dev.to/paperium/semantic3dnet-a-new-large-scale-point-cloud-classification-benchmark-4pd)
+- [How I Fixed Sunshine Screen Sharing on macOS Tahoe &lpar;The Native Wrapper Method&rpar;](https://dev.to/sanjayajoseph/how-i-fixed-sunshine-screen-sharing-on-macos-tahoe-the-native-wrapper-method-558g)
+- [When AI-generated tests pass but miss the bug: a postmortem on tautological unit tests](https://dev.to/jamesdev4123/when-ai-generated-tests-pass-but-miss-the-bug-a-postmortem-on-tautological-unit-tests-2ajp)
 <!-- BLOG-POST-LIST:END -->
 
