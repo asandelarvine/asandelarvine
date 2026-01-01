@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks - Part 1: useState - Test Series](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-test-series-2j5m)
-- [My Blog Post - Test Cross-post V2](https://dev.to/ethan_zhang_e501fea89c25b/my-blog-post-test-cross-post-v2-2ehj)
-- [Getting Started with Docker - Test Tutorial](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-test-tutorial-ooc)
-- [When Generated Tests Pass but Miss the Bug: A Case of False Confidence from AI Test Generation](https://dev.to/markk40123/when-generated-tests-pass-but-miss-the-bug-a-case-of-false-confidence-from-ai-test-generation-1674)
+- [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
+- [AI-powered drone-based computer vision systems for inspection and maintenance of urban infrastructure](https://dev.to/kirill_filippov_be027e777/ai-powered-drone-based-computer-vision-systems-for-inspection-and-maintenance-of-urban-b8k)
+- [Components of a RDBMS: From SQL to Disk](https://dev.to/lovestaco/components-of-a-rdbms-from-sql-to-disk-1824)
+- [Announcing NocoBase 2.0-beta](https://dev.to/nocobase/announcing-nocobase-20-beta-2cfn)
 <!-- BLOG-POST-LIST:END -->
 
