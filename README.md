@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Year, an Open Source Tool](https://dev.to/surhidamatya/a-new-year-an-open-source-tool-38in)
-- [New Year, New Build: Traata Goes Mobile](https://dev.to/abhishekdvs/new-year-new-build-traata-goes-mobile-2a6f)
-- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
-- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
+- [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
+- [Computer Vision Services: Building Intelligent Visual Systems with Oodles](https://dev.to/oodlesplatform/computer-vision-services-building-intelligent-visual-systems-with-oodles-3pi0)
+- [Practical Next.js Caching: Routes, Data, Revalidation, and Tags](https://dev.to/sumeet_shrofffreelancer_/practical-nextjs-caching-routes-data-revalidation-and-tags-24d1)
+- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
 <!-- BLOG-POST-LIST:END -->
 
