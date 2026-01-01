@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting My Self-Hosted Analytics Stack Memory by 45%](https://dev.to/sivarampg/cutting-my-self-hosted-analytics-stack-memory-by-45-2o9g)
-- [Deploying a Highly Available AWS Architecture with Terraform](https://dev.to/copubah/deploying-a-highly-available-aws-architecture-with-terraform-39pb)
-- [Salesforce No-Code Automation: What’s Next in 2026](https://dev.to/itechcloud_solution_d0e2c/salesforce-no-code-automation-whats-next-in-2026-67d)
-- [Elzero Web School CSS All-Assignment 14](https://dev.to/preetha_vaishnavi_2b82358/elzero-web-school-css-all-assignment-14-2no3)
+- [Flight Status Card ✦ turbokit.io](https://dev.to/preetha_vaishnavi_2b82358/flight-status-card-turbokitio-48fm)
+- [A Guide to Web3 Infrastructure &amp; Concepts](https://dev.to/inushathathsara/a-guide-to-web3-infrastructure-concepts-73k)
+- [The Database Query That Could Cost a Company Millions&lpar;And Why Data Engineers Exist&rpar;](https://dev.to/thanh_truong_a99577c6b879/the-database-query-that-could-cost-a-company-millionsand-why-data-engineers-exist-4i8e)
+- [Automating Serverless Data Ingestion: How to Connect External APIs to BigQuery using Python and Cloud Functions](https://dev.to/aminelaatfa/automating-serverless-data-ingestion-how-to-connect-external-apis-to-bigquery-using-python-and-1opk)
 <!-- BLOG-POST-LIST:END -->
 
