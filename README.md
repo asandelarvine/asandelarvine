@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Thundering Herd&quot; of 2026: Preparing SRE for Agent-Native Infrastructure](https://dev.to/meena_nukala/the-thundering-herd-of-2026-preparing-sre-for-agent-native-infrastructure-mno)
-- [How to Find and Use Resume Keywords from Tech Job Descriptions to Beat ATS and Get More Interviews](https://dev.to/saber-amani/how-to-find-and-use-resume-keywords-from-tech-job-descriptions-to-beat-ats-and-get-more-interviews-13p9)
-- [Solved: Any Connectwise MSP’s out there that recently &lpar;in the past year&rpar; implemented REWST?](https://dev.to/techresolve/solved-any-connectwise-msps-out-there-that-recently-in-the-past-year-implemented-rewst-2g99)
-- [Debugging StyleX + Vite: The Mystery of &quot;Invalid Empty Selector&quot;](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
+- [How to Fix the Annoying WSL &quot;Press any key to install&quot; Popup on Windows 11 &lpar;After Uninstalling WSL&rpar;](https://dev.to/3dfoster/how-to-fix-the-annoying-wsl-press-any-key-to-install-popup-on-windows-11-after-uninstalling-wsl-294a)
+- [Coding Challenge Practice - Question 91](https://dev.to/tomivan/coding-challenge-practice-question-91-56pl)
+- [End-to-End Deployment of a Two-Tier Application Using Docker, Kubernetes, Helm, and AWS](https://dev.to/safi-ullah/end-to-end-deployment-of-a-two-tier-application-using-docker-kubernetes-helm-and-aws-3gma)
+- [Event-Driven Architecture: Why Your App Should Stop Talking to Itself &lpar;And Start Listening&rpar;](https://dev.to/ftwoli/event-driven-architecture-why-your-app-should-stop-talking-to-itself-and-start-listening-4mp1)
 <!-- BLOG-POST-LIST:END -->
 
