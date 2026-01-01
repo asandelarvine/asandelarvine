@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Merge Vitest Unit, Component, and E2E Test Coverage](https://dev.to/stevez/how-to-merge-vitest-unit-component-and-e2e-test-coverage-438f)
-- [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)
-- [The Geometry of Stability: Why Manifold-Constrained Hyper-Connections Are the Future of Large-Scale AI](https://dev.to/azterix101/the-geometry-of-stability-why-manifold-constrained-hyper-connections-are-the-future-of-large-scale-1810)
-- [Building EaseGrade: Why I’m Creating a React App for Teachers.](https://dev.to/numlightdev/building-easegrade-why-im-creating-a-react-app-for-teachers-2nn)
+- [Anyone else noticing how fast hiring is changing? Remote interviews, AI-based screening, automated assessments — it’s wild. I’ve been exploring AI For Interview solutions to stay competitive, and it honestly makes a difference](https://dev.to/jeenifer_beezer/anyone-else-noticing-how-fast-hiring-is-changing-remote-interviews-ai-based-screening-automated-pj9)
+- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
+- [On the &lpar;Statistical&rpar; Detection of Adversarial Examples](https://dev.to/paperium/on-the-statistical-detection-of-adversarial-examples-5cij)
+- [How I handled real-time notifications in a MERN stack using a Socket.io Singleton](https://dev.to/geoffreyg81/how-i-handled-real-time-notifications-in-a-mern-stack-using-a-socketio-singleton-701)
 <!-- BLOG-POST-LIST:END -->
 
