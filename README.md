@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Paradox of Slow Coding: Why Rushing Kills Your Progress &lpar;And What to Do Instead&rpar;](https://dev.to/rajeshroyal/the-paradox-of-slow-coding-why-rushing-kills-your-progress-and-what-to-do-instead-2pde)
-- [AI-powered drone-based computer vision systems for inspection and maintenance of urban infrastructure](https://dev.to/kirill_filippov_be027e777/ai-powered-drone-based-computer-vision-systems-for-inspection-and-maintenance-of-urban-b8k)
-- [Components of a RDBMS: From SQL to Disk](https://dev.to/lovestaco/components-of-a-rdbms-from-sql-to-disk-1824)
-- [Announcing NocoBase 2.0-beta](https://dev.to/nocobase/announcing-nocobase-20-beta-2cfn)
+- [Web Design Trends for 2026: What Developers Actually Need to Care About](https://dev.to/webmix_studio_3a626e2219e/web-design-trends-for-2026-what-developers-actually-need-to-care-about-298c)
+- [Fast-Growing Business Opportunities in Bangladesh 2026](https://dev.to/isha_mohammad_034308fdad7/fast-growing-business-opportunities-in-bangladesh-2026-2mbh)
+- [PyTorch vs. TensorFlow: Choosing Your AI Framework for 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/pytorch-vs-tensorflow-choosing-your-ai-framework-for-2026-4ik6)
+- [What Is a Digital NFC Card? A Simple Guide for Modern Businesses](https://dev.to/promaxcard_fdf0758c0b2cd5/what-is-a-digital-nfc-card-a-simple-guide-for-modern-businesses-g4b)
 <!-- BLOG-POST-LIST:END -->
 
