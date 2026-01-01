@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
-- [Building &lpar;and Sharing&rpar; an HTML5 Component Library — No Frameworks Required](https://dev.to/lukedunsmoto/building-and-sharing-an-html5-component-library-no-frameworks-required-497o)
-- [Federal Cybersecurity Is Just Security Theater With a Bigger Budget](https://dev.to/zeroblind25/federal-cybersecurity-is-just-security-theater-with-a-bigger-budget-248)
-- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
+- [How to Merge Vitest Unit, Component, and E2E Test Coverage](https://dev.to/stevez/how-to-merge-vitest-unit-component-and-e2e-test-coverage-438f)
+- [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)
+- [The Geometry of Stability: Why Manifold-Constrained Hyper-Connections Are the Future of Large-Scale AI](https://dev.to/azterix101/the-geometry-of-stability-why-manifold-constrained-hyper-connections-are-the-future-of-large-scale-1810)
+- [Building EaseGrade: Why I’m Creating a React App for Teachers.](https://dev.to/numlightdev/building-easegrade-why-im-creating-a-react-app-for-teachers-2nn)
 <!-- BLOG-POST-LIST:END -->
 
