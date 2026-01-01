@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Which is the most popular CI/CD tool used nowadays?](https://dev.to/techresolve/solved-which-is-the-most-popular-cicd-tool-used-nowadays-4bjk)
-- [Solved: Does everyone uses hacks to bypass Airtable’s crazy pricing?](https://dev.to/techresolve/solved-does-everyone-uses-hacks-to-bypass-airtables-crazy-pricing-bh2)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-4klh)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-1mfh)
+- [How I Built a Cyberpunk Portfolio with Tailwind &amp; GSAP &lpar;From Scratch&rpar;🚀](https://dev.to/sarshijkarn/how-i-built-a-cyberpunk-portfolio-with-tailwind-gsap-from-scratch-pk4)
+- [Contoh Isi Catatan Pelaksanaan Ujian Sekolah yang Benar dan Jelas](https://dev.to/backlink_blog_a0bee06f492/contoh-isi-catatan-pelaksanaan-ujian-sekolah-yang-benar-dan-jelas-1j1k)
+- [I Built a Free Sleep Cycle Calculator](https://dev.to/sunil_chaudhary_3985d071c/i-built-a-free-sleep-cycle-calculator-5ef7)
+- [How Modern Websites Work: A Beginner’s Guide to Frontend, Backend, and Browsers](https://dev.to/mzaheerofficial/how-modern-websites-work-a-beginners-guide-to-frontend-backend-and-browsers-2c6m)
 <!-- BLOG-POST-LIST:END -->
 
