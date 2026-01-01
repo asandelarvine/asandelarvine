@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Big to Small: Multi-Scale Local Planar Guidance for Monocular DepthEstimation](https://dev.to/paperium/from-big-to-small-multi-scale-local-planar-guidance-for-monocular-depthestimation-1m3c)
-- [UniFace: a production-ready, ONNX-first face analysis toolkit in Python](https://dev.to/yakhyo/uniface-a-production-ready-onnx-first-face-analysis-toolkit-in-python-1563)
-- [JavaScript vs TypeScript: advantages and differences](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-advantages-and-differences-k2g)
-- [JavaScript vs TypeScript: vantagens e diferenças](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-vantagens-e-diferencas-2i2l)
+- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
+- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
+- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
+- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
 <!-- BLOG-POST-LIST:END -->
 
