@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Cyberpunk Portfolio with Tailwind &amp; GSAP &lpar;From Scratch&rpar;🚀](https://dev.to/sarshijkarn/how-i-built-a-cyberpunk-portfolio-with-tailwind-gsap-from-scratch-pk4)
-- [Contoh Isi Catatan Pelaksanaan Ujian Sekolah yang Benar dan Jelas](https://dev.to/backlink_blog_a0bee06f492/contoh-isi-catatan-pelaksanaan-ujian-sekolah-yang-benar-dan-jelas-1j1k)
-- [I Built a Free Sleep Cycle Calculator](https://dev.to/sunil_chaudhary_3985d071c/i-built-a-free-sleep-cycle-calculator-5ef7)
-- [How Modern Websites Work: A Beginner’s Guide to Frontend, Backend, and Browsers](https://dev.to/mzaheerofficial/how-modern-websites-work-a-beginners-guide-to-frontend-backend-and-browsers-2c6m)
+- [From Big to Small: Multi-Scale Local Planar Guidance for Monocular DepthEstimation](https://dev.to/paperium/from-big-to-small-multi-scale-local-planar-guidance-for-monocular-depthestimation-1m3c)
+- [UniFace: a production-ready, ONNX-first face analysis toolkit in Python](https://dev.to/yakhyo/uniface-a-production-ready-onnx-first-face-analysis-toolkit-in-python-1563)
+- [JavaScript vs TypeScript: advantages and differences](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-advantages-and-differences-k2g)
+- [JavaScript vs TypeScript: vantagens e diferenças](https://dev.to/lucaspereiradesouzat/javascript-vs-typescript-vantagens-e-diferencas-2i2l)
 <!-- BLOG-POST-LIST:END -->
 
