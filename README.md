@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Version Control Exists: The Pendrive Problem](https://dev.to/abhimanyu_kumar_b94e042e9/why-version-control-exists-the-pendrive-problem-2779)
-- [Thundering Herds: The Scalability Killer](https://dev.to/aonnis/thundering-herds-the-scalability-killer-41mh)
-- [SEO Basics for Small Businesses: How to Build Visibility That Actually Converts](https://dev.to/seo-growth-guide/seo-basics-for-small-businesses-how-to-build-visibility-that-actually-converts-1p0b)
-- [Sending emails in Node.js, Deno, and Bun in 2026: a practical guide](https://dev.to/hongminhee/sending-emails-in-nodejs-deno-and-bun-in-2026-a-practical-guide-og9)
+- [React Hooks - Part 1: useState - Test Series](https://dev.to/ethan_zhang_e501fea89c25b/react-hooks-part-1-usestate-test-series-2j5m)
+- [My Blog Post - Test Cross-post V2](https://dev.to/ethan_zhang_e501fea89c25b/my-blog-post-test-cross-post-v2-2ehj)
+- [Getting Started with Docker - Test Tutorial](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-test-tutorial-ooc)
+- [When Generated Tests Pass but Miss the Bug: A Case of False Confidence from AI Test Generation](https://dev.to/markk40123/when-generated-tests-pass-but-miss-the-bug-a-case-of-false-confidence-from-ai-test-generation-1674)
 <!-- BLOG-POST-LIST:END -->
 
