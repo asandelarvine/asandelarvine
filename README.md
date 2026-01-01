@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
-- [Computer Vision Services: Building Intelligent Visual Systems with Oodles](https://dev.to/oodlesplatform/computer-vision-services-building-intelligent-visual-systems-with-oodles-3pi0)
-- [Practical Next.js Caching: Routes, Data, Revalidation, and Tags](https://dev.to/sumeet_shrofffreelancer_/practical-nextjs-caching-routes-data-revalidation-and-tags-24d1)
-- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
+- [Controllable AI: A Runtime Legitimacy Layer for AI Governance](https://dev.to/yuer/controllable-ai-a-runtime-legitimacy-layer-for-ai-governance-bp)
+- [Blockchain Development Services: Build Secure and Scalable Solutions with Oodles](https://dev.to/oodlesplatform/blockchain-development-services-build-secure-and-scalable-solutions-with-oodles-4b26)
+- [What’s New in .NET 10 &lpar;LTS&rpar; — Why It Matters for Developers &amp; Businesses](https://dev.to/kellythomas/whats-new-in-net-10-lts-why-it-matters-for-developers-businesses-1c50)
+- [Understanding LVL Faceit ELO and Why It Matters for Competitive CS2 Players](https://dev.to/mathive_smith_89345d9df4f/understanding-lvl-faceit-elo-and-why-it-matters-for-competitive-cs2-players-21n3)
 <!-- BLOG-POST-LIST:END -->
 
