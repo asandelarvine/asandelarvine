@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Decoupling: The End of Frozen Interactions](https://dev.to/gd-tech-guru/the-great-decoupling-the-end-of-frozen-interactions-48f2)
-- [How we built an AI to beat the &quot;Resume Bots&quot; &lpar;ATS&rpar;](https://dev.to/irtiqa_hub/how-we-built-an-ai-to-beat-the-resume-bots-ats-3e44)
-- [Day 2: Untill I Get Google Internship](https://dev.to/sugunadithya/day-2-untill-i-get-google-internship-23ok)
-- [Identify AWS Access Management Capabilities](https://dev.to/aws-builders/identify-aws-access-management-capabilities-1nk7)
+- [Advanced JavaScript Unit Testing Techniques: From Mocking to Coverage and Async Testing](https://dev.to/nithinbharathwaj/advanced-javascript-unit-testing-techniques-from-mocking-to-coverage-and-async-testing-296g)
+- [9 Ways AI Learning Becomes Passive Without You Noticing](https://dev.to/briandavies/9-ways-ai-learning-becomes-passive-without-you-noticing-248k)
+- [11 Prompting Mistakes That Keep Outputs Generic](https://dev.to/briandavies/11-prompting-mistakes-that-keep-outputs-generic-13jk)
+- [Mastering Single Pass Optimization in C++](https://dev.to/nithya_dharshiniofficial/mastering-single-pass-optimization-in-c-ilo)
 <!-- BLOG-POST-LIST:END -->
 
