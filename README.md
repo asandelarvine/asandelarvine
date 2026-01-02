@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Code Generation: LLMs for Code Understanding](https://dev.to/eabait/beyond-code-generation-llms-for-code-understanding-3ldn)
-- [I built a platform that syncs audio with reading - Here&#39;s how](https://dev.to/raka_e651343a7ae74281f659/i-built-a-platform-that-syncs-audio-with-reading-heres-how-c2j)
-- [Memory Palace Part 2: Agentic RAG, Chrome Extension, and Making AI Actually Understand You 🧠✨](https://dev.to/venki0552/memory-palace-part-2-agentic-rag-chrome-extension-and-making-ai-actually-understand-you-mn1)
-- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp)
+- [Choosing the Right Walker for Improved Mobility and Safety at Home](https://dev.to/amir_redone_9191ea41279d1/choosing-the-right-walker-for-improved-mobility-and-safety-at-home-4d4m)
+- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
+- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
+- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
 <!-- BLOG-POST-LIST:END -->
 
