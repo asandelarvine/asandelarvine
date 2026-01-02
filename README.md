@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Fedora OS in VMware Workstation &lpar;Easy Guide&rpar;](https://dev.to/rootxblogs/how-to-install-fedora-os-in-vmware-workstation-easy-guide-2kc5)
-- [The Architect&#39;s Journey: Navigating Next.js Security as a Living System](https://dev.to/alex_aslam/the-architects-journey-navigating-nextjs-security-as-a-living-system-4bk6)
-- [Building an Autonomous Supply Chain Watchdog: My Experiment with AI Reasoning Agents](https://dev.to/exploredataaiml/building-an-autonomous-supply-chain-watchdog-my-experiment-with-ai-reasoning-agents-24ip)
-- [Avalanche +11%: ETF and Staking Narrative Drives Repricing](https://dev.to/alexnav/avalanche-11-etf-and-staking-narrative-drives-repricing-5bpf)
+- [Effection Scope: Resource Lifetimes and Cleanup](https://dev.to/joshuaamaju/effection-scope-resource-lifetimes-and-cleanup-3134)
+- [Tense Playground: Master English Grammar with AI &amp; Interactive Games](https://dev.to/dharamgfx/tense-playground-master-english-grammar-with-ai-interactive-games-3165)
+- [Why I Code When I Should Be Sleeping: The Student Developer Paradox](https://dev.to/aditya_mishra/why-i-code-when-i-should-be-sleeping-the-student-developer-paradox-3cbh)
+- [Best Way to Translate an InDesign File](https://dev.to/liamcorwin/best-way-to-translate-an-indesign-file-4k10)
 <!-- BLOG-POST-LIST:END -->
 
