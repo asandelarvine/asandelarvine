@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Twitter &lpar;X&rpar; Trends Without Breaking the Bank](https://dev.to/eunit/how-to-scrape-twitter-x-trends-without-breaking-the-bank-bli)
-- [Compiler Design 101: Falcon - A Minimal Production‑Oriented Language and Compiler](https://dev.to/javadinteger/compiler-design-101-falcon-a-minimal-production-oriented-language-and-compiler-90b)
-- [Learning Apache Kafka with Python - Part 1: Producers](https://dev.to/hantedyou_0106/learning-apache-kafka-with-python-part-1-producers-356b)
-- [Stop Restarting Your Node App! Debug Like a Pro with an Interactive REPL 🛑](https://dev.to/yogendra_prajapati_3c7d83/stop-restarting-your-node-app-debug-like-a-pro-with-an-interactive-repl-1o9k)
+- [How to Install Fedora OS in VMware Workstation &lpar;Easy Guide&rpar;](https://dev.to/rootxblogs/how-to-install-fedora-os-in-vmware-workstation-easy-guide-2kc5)
+- [The Architect&#39;s Journey: Navigating Next.js Security as a Living System](https://dev.to/alex_aslam/the-architects-journey-navigating-nextjs-security-as-a-living-system-4bk6)
+- [Building an Autonomous Supply Chain Watchdog: My Experiment with AI Reasoning Agents](https://dev.to/exploredataaiml/building-an-autonomous-supply-chain-watchdog-my-experiment-with-ai-reasoning-agents-24ip)
+- [Avalanche +11%: ETF and Staking Narrative Drives Repricing](https://dev.to/alexnav/avalanche-11-etf-and-staking-narrative-drives-repricing-5bpf)
 <!-- BLOG-POST-LIST:END -->
 
