@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-2-mn2)
-- [Getting Started with eslint-plugin-jwt](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-jwt-4l4p)
-- [Scaling Documentation Without Engineering: The Case for a Professional Documentation CMS](https://dev.to/therealmrmumba/scaling-documentation-without-engineering-the-case-for-a-professional-documentation-cms-2i41)
-- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-15pg)
+- [The Great Decoupling: The End of Frozen Interactions](https://dev.to/gd-tech-guru/the-great-decoupling-the-end-of-frozen-interactions-48f2)
+- [How we built an AI to beat the &quot;Resume Bots&quot; &lpar;ATS&rpar;](https://dev.to/irtiqa_hub/how-we-built-an-ai-to-beat-the-resume-bots-ats-3e44)
+- [Day 2: Untill I Get Google Internship](https://dev.to/sugunadithya/day-2-untill-i-get-google-internship-23ok)
+- [Identify AWS Access Management Capabilities](https://dev.to/aws-builders/identify-aws-access-management-capabilities-1nk7)
 <!-- BLOG-POST-LIST:END -->
 
