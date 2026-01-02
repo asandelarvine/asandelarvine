@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the VSCode Claude Code Extension with Bedrock and Claude Sonnet 4.5](https://dev.to/aws-builders/using-the-vscode-claude-code-extension-with-bedrock-and-claude-sonnet-45-2d69)
-- [Azure AI Search at Scale: Building RAG Applications with Enhanced Vector Capacity](https://dev.to/jubinsoni/azure-ai-search-at-scale-building-rag-applications-with-enhanced-vector-capacity-1cjd)
-- [Technical Implementation Focus Areas for Voice AI Integration: Key Insights](https://dev.to/callstacktech/technical-implementation-focus-areas-for-voice-ai-integration-key-insights-og)
-- [Day 90 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-90-of-100-days-dsa-coding-challenge-oll)
+- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
+- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
+- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
+- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
 <!-- BLOG-POST-LIST:END -->
 
