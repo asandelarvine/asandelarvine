@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Compliance: How Kalshi Turned Prediction Markets into a $11 Billion Legitimate Business](https://dev.to/apnews/the-power-of-compliance-how-kalshi-turned-prediction-markets-into-a-11-billion-legitimate-business-3l48)
-- [Tech Horror Codex: Technical Debt](https://dev.to/narnaiezzsshaa/tech-horror-codex-technical-debt-o16)
-- [Roulette-wheel selection via stochastic acceptance](https://dev.to/paperium/roulette-wheel-selection-via-stochastic-acceptance-3kci)
-- [🚀 NestJS + RedisOM: Taking State Management to the Next Level](https://dev.to/alpha018/nestjs-redisom-taking-state-management-to-the-next-level-5gli)
+- [Using the VSCode Claude Code Extension with Bedrock and Claude Sonnet 4.5](https://dev.to/aws-builders/using-the-vscode-claude-code-extension-with-bedrock-and-claude-sonnet-45-2d69)
+- [Azure AI Search at Scale: Building RAG Applications with Enhanced Vector Capacity](https://dev.to/jubinsoni/azure-ai-search-at-scale-building-rag-applications-with-enhanced-vector-capacity-1cjd)
+- [Technical Implementation Focus Areas for Voice AI Integration: Key Insights](https://dev.to/callstacktech/technical-implementation-focus-areas-for-voice-ai-integration-key-insights-og)
+- [Day 90 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-90-of-100-days-dsa-coding-challenge-oll)
 <!-- BLOG-POST-LIST:END -->
 
