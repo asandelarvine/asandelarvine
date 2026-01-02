@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
-- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
-- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
-- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
+- [SMM Panel Security Basics: 10 Must‑Follow Practices &lpar;with PHP Examples&rpar;](https://dev.to/techdude/smm-panel-security-basics-10-must-follow-practices-with-php-examples-cpi)
+- [Stop Begging for Feedback: Why &quot;Silent Signals&quot; Are the Future of AI Learning](https://dev.to/mosiddi/stop-begging-for-feedback-why-silent-signals-are-the-future-of-ai-learning-40jp)
+- [Postbear: The Postman alternative in your terminal](https://dev.to/carban/postbear-the-postman-alternative-in-your-terminal-ia2)
+- [Package a django app](https://dev.to/erlan_akbar/package-a-django-app-of5)
 <!-- BLOG-POST-LIST:END -->
 
