@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientific Schedule Estimation: From PERT to Monte Carlo](https://dev.to/_jeongyuhyeon_03de1/scientific-schedule-estimation-from-pert-to-monte-carlo-4pcd)
-- [Brute Force to Two Pointers: Stop Getting Lost in the Transition](https://dev.to/alex_hunter_44f4c9ed6671e/brute-force-to-two-pointers-stop-getting-lost-in-the-transition-39)
-- [Migrando desde VMware: Una comparación de las principales alternativas de hipervisores](https://dev.to/adini/migrando-desde-vmware-una-comparacion-de-las-principales-alternativas-de-hipervisores-47jd)
-- [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
+- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-2-mn2)
+- [Getting Started with eslint-plugin-jwt](https://dev.to/ofri-peretz/getting-started-with-eslint-plugin-jwt-4l4p)
+- [Scaling Documentation Without Engineering: The Case for a Professional Documentation CMS](https://dev.to/therealmrmumba/scaling-documentation-without-engineering-the-case-for-a-professional-documentation-cms-2i41)
+- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-15pg)
 <!-- BLOG-POST-LIST:END -->
 
