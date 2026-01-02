@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced JavaScript Unit Testing Techniques: From Mocking to Coverage and Async Testing](https://dev.to/nithinbharathwaj/advanced-javascript-unit-testing-techniques-from-mocking-to-coverage-and-async-testing-296g)
-- [9 Ways AI Learning Becomes Passive Without You Noticing](https://dev.to/briandavies/9-ways-ai-learning-becomes-passive-without-you-noticing-248k)
-- [11 Prompting Mistakes That Keep Outputs Generic](https://dev.to/briandavies/11-prompting-mistakes-that-keep-outputs-generic-13jk)
-- [Mastering Single Pass Optimization in C++](https://dev.to/nithya_dharshiniofficial/mastering-single-pass-optimization-in-c-ilo)
+- [How I built Upple: A modern uptime monitor with Go and React](https://dev.to/khiman/how-i-built-upple-a-modern-uptime-monitor-with-go-and-react-iac)
+- [**Production-Ready Go Docker Containers: Small, Secure, and Efficient Containerization Guide**](https://dev.to/nithinbharathwaj/production-ready-go-docker-containers-small-secure-and-efficient-containerization-guide-1j2)
+- [Maximize SDK Integration: Monetize AI Conversations Like Google Ads](https://dev.to/monetzly/maximize-sdk-integration-monetize-ai-conversations-like-google-ads-186m)
+- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351)
 <!-- BLOG-POST-LIST:END -->
 
