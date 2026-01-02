@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
-- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
-- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
-- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
+- [How to Scrape Twitter &lpar;X&rpar; Trends Without Breaking the Bank](https://dev.to/eunit/how-to-scrape-twitter-x-trends-without-breaking-the-bank-bli)
+- [Compiler Design 101: Falcon - A Minimal Production‑Oriented Language and Compiler](https://dev.to/javadinteger/compiler-design-101-falcon-a-minimal-production-oriented-language-and-compiler-90b)
+- [Learning Apache Kafka with Python - Part 1: Producers](https://dev.to/hantedyou_0106/learning-apache-kafka-with-python-part-1-producers-356b)
+- [Stop Restarting Your Node App! Debug Like a Pro with an Interactive REPL 🛑](https://dev.to/yogendra_prajapati_3c7d83/stop-restarting-your-node-app-debug-like-a-pro-with-an-interactive-repl-1o9k)
 <!-- BLOG-POST-LIST:END -->
 
