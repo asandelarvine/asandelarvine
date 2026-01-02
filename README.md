@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin — Part3](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part3-2nm0)
-- [Open source erp system](https://dev.to/henry_5ad39e49b27320656fc/open-source-erp-system-mkp)
-- [Ejecuta Qwen3 + Ollama + Open WebUI en Docker: Tu propio AI Chat local 🧠](https://dev.to/chainiz/ejecuta-qwen3-ollama-open-webui-en-docker-tu-propio-ai-chat-local-405m)
-- [I’m Building an AI Resume ATS Tool Because the System Is Broken](https://dev.to/iamutkarshyadav/im-building-an-ai-resume-ats-tool-because-the-system-is-broken-2f6a)
+- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
+- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
+- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
+- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
 <!-- BLOG-POST-LIST:END -->
 
