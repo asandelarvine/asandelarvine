@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix the Annoying WSL &quot;Press any key to install&quot; Popup on Windows 11 &lpar;After Uninstalling WSL&rpar;](https://dev.to/3dfoster/how-to-fix-the-annoying-wsl-press-any-key-to-install-popup-on-windows-11-after-uninstalling-wsl-294a)
-- [Coding Challenge Practice - Question 91](https://dev.to/tomivan/coding-challenge-practice-question-91-56pl)
-- [End-to-End Deployment of a Two-Tier Application Using Docker, Kubernetes, Helm, and AWS](https://dev.to/safi-ullah/end-to-end-deployment-of-a-two-tier-application-using-docker-kubernetes-helm-and-aws-3gma)
-- [Event-Driven Architecture: Why Your App Should Stop Talking to Itself &lpar;And Start Listening&rpar;](https://dev.to/ftwoli/event-driven-architecture-why-your-app-should-stop-talking-to-itself-and-start-listening-4mp1)
+- [The Power of Compliance: How Kalshi Turned Prediction Markets into a $11 Billion Legitimate Business](https://dev.to/apnews/the-power-of-compliance-how-kalshi-turned-prediction-markets-into-a-11-billion-legitimate-business-3l48)
+- [Tech Horror Codex: Technical Debt](https://dev.to/narnaiezzsshaa/tech-horror-codex-technical-debt-o16)
+- [Roulette-wheel selection via stochastic acceptance](https://dev.to/paperium/roulette-wheel-selection-via-stochastic-acceptance-3kci)
+- [🚀 NestJS + RedisOM: Taking State Management to the Next Level](https://dev.to/alpha018/nestjs-redisom-taking-state-management-to-the-next-level-5gli)
 <!-- BLOG-POST-LIST:END -->
 
