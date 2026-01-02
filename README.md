@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
-- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
-- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
-- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
+- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin — Part3](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part3-2nm0)
+- [Open source erp system](https://dev.to/henry_5ad39e49b27320656fc/open-source-erp-system-mkp)
+- [Ejecuta Qwen3 + Ollama + Open WebUI en Docker: Tu propio AI Chat local 🧠](https://dev.to/chainiz/ejecuta-qwen3-ollama-open-webui-en-docker-tu-propio-ai-chat-local-405m)
+- [I’m Building an AI Resume ATS Tool Because the System Is Broken](https://dev.to/iamutkarshyadav/im-building-an-ai-resume-ats-tool-because-the-system-is-broken-2f6a)
 <!-- BLOG-POST-LIST:END -->
 
