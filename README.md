@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built Upple: A modern uptime monitor with Go and React](https://dev.to/khiman/how-i-built-upple-a-modern-uptime-monitor-with-go-and-react-iac)
-- [**Production-Ready Go Docker Containers: Small, Secure, and Efficient Containerization Guide**](https://dev.to/nithinbharathwaj/production-ready-go-docker-containers-small-secure-and-efficient-containerization-guide-1j2)
-- [Maximize SDK Integration: Monetize AI Conversations Like Google Ads](https://dev.to/monetzly/maximize-sdk-integration-monetize-ai-conversations-like-google-ads-186m)
-- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351)
+- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
+- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
+- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
+- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
 <!-- BLOG-POST-LIST:END -->
 
