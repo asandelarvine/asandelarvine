@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [China Just Released the First Coding AI of 2026 and Its Crushing Everything We Know](https://dev.to/yakhilesh/china-just-released-the-first-coding-ai-of-2026-and-its-crushing-everything-we-know-3bbj)
-- [Deconstructing Geo-Restrictions: Unblocking Streaming with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/deconstructing-geo-restrictions-unblocking-streaming-with-nocturne-vpn-2cg)
-- [How to Become an AWS Community Builder &lpar;What Nobody Tells You&rpar; published: true](https://dev.to/sujitha_rasamsetty/how-to-become-an-aws-community-builder-what-nobody-tells-youpublished-true-449c)
-- [What Is DataOps and Why It Matters for Modern Enterprises](https://dev.to/sangram_6c566d62b3944d2b9/what-is-dataops-and-why-it-matters-for-modern-enterprises-117n)
+- [Get Hit By Performance Bottleneck In Canvas](https://dev.to/ikhwanal/get-hit-by-performance-bottleneck-in-canvas-5che)
+- [🚀 Building the Best SQL-Backed Job Queue with WJb and UkrGuru.Sql in .NET](https://dev.to/ukrguru/building-the-best-sql-backed-job-queue-with-wjb-and-ukrgurusql-in-net-3nnm)
+- [How Netflix Streams to Millions Globally: A Technical Masterclass in Resilience, Scale, and Systematic Failure](https://dev.to/siddharthbhalsod/how-netflix-streams-to-millions-globally-a-technical-masterclass-in-resilience-scale-and-31n5)
+- [Why Refactoring AWS Infrastructure Taught Me More Than Building It](https://dev.to/adil_khan_dc8aaf5632c369b/why-refactoring-aws-infrastructure-taught-me-more-than-building-it-3iml)
 <!-- BLOG-POST-LIST:END -->
 
