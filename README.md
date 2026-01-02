@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SMM Panel Security Basics: 10 Must‑Follow Practices &lpar;with PHP Examples&rpar;](https://dev.to/techdude/smm-panel-security-basics-10-must-follow-practices-with-php-examples-cpi)
-- [Stop Begging for Feedback: Why &quot;Silent Signals&quot; Are the Future of AI Learning](https://dev.to/mosiddi/stop-begging-for-feedback-why-silent-signals-are-the-future-of-ai-learning-40jp)
-- [Postbear: The Postman alternative in your terminal](https://dev.to/carban/postbear-the-postman-alternative-in-your-terminal-ia2)
-- [Package a django app](https://dev.to/erlan_akbar/package-a-django-app-of5)
+- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
+- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
+- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
+- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
 <!-- BLOG-POST-LIST:END -->
 
