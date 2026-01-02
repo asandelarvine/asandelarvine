@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
-- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
-- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
-- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
+- [China Just Released the First Coding AI of 2026 and Its Crushing Everything We Know](https://dev.to/yakhilesh/china-just-released-the-first-coding-ai-of-2026-and-its-crushing-everything-we-know-3bbj)
+- [Deconstructing Geo-Restrictions: Unblocking Streaming with Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/deconstructing-geo-restrictions-unblocking-streaming-with-nocturne-vpn-2cg)
+- [How to Become an AWS Community Builder &lpar;What Nobody Tells You&rpar; published: true](https://dev.to/sujitha_rasamsetty/how-to-become-an-aws-community-builder-what-nobody-tells-youpublished-true-449c)
+- [What Is DataOps and Why It Matters for Modern Enterprises](https://dev.to/sangram_6c566d62b3944d2b9/what-is-dataops-and-why-it-matters-for-modern-enterprises-117n)
 <!-- BLOG-POST-LIST:END -->
 
