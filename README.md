@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Effection Scope: Resource Lifetimes and Cleanup](https://dev.to/joshuaamaju/effection-scope-resource-lifetimes-and-cleanup-3134)
-- [Tense Playground: Master English Grammar with AI &amp; Interactive Games](https://dev.to/dharamgfx/tense-playground-master-english-grammar-with-ai-interactive-games-3165)
-- [Why I Code When I Should Be Sleeping: The Student Developer Paradox](https://dev.to/aditya_mishra/why-i-code-when-i-should-be-sleeping-the-student-developer-paradox-3cbh)
-- [Best Way to Translate an InDesign File](https://dev.to/liamcorwin/best-way-to-translate-an-indesign-file-4k10)
+- [Beyond Code Generation: LLMs for Code Understanding](https://dev.to/eabait/beyond-code-generation-llms-for-code-understanding-3ldn)
+- [I built a platform that syncs audio with reading - Here&#39;s how](https://dev.to/raka_e651343a7ae74281f659/i-built-a-platform-that-syncs-audio-with-reading-heres-how-c2j)
+- [Memory Palace Part 2: Agentic RAG, Chrome Extension, and Making AI Actually Understand You 🧠✨](https://dev.to/venki0552/memory-palace-part-2-agentic-rag-chrome-extension-and-making-ai-actually-understand-you-mn1)
+- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp)
 <!-- BLOG-POST-LIST:END -->
 
