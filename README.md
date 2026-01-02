@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Walker for Improved Mobility and Safety at Home](https://dev.to/amir_redone_9191ea41279d1/choosing-the-right-walker-for-improved-mobility-and-safety-at-home-4d4m)
-- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
-- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
-- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
+- [Scientific Schedule Estimation: From PERT to Monte Carlo](https://dev.to/_jeongyuhyeon_03de1/scientific-schedule-estimation-from-pert-to-monte-carlo-4pcd)
+- [Brute Force to Two Pointers: Stop Getting Lost in the Transition](https://dev.to/alex_hunter_44f4c9ed6671e/brute-force-to-two-pointers-stop-getting-lost-in-the-transition-39)
+- [Migrando desde VMware: Una comparación de las principales alternativas de hipervisores](https://dev.to/adini/migrando-desde-vmware-una-comparacion-de-las-principales-alternativas-de-hipervisores-47jd)
+- [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
 <!-- BLOG-POST-LIST:END -->
 
