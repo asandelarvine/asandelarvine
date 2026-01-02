@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Hit By Performance Bottleneck In Canvas](https://dev.to/ikhwanal/get-hit-by-performance-bottleneck-in-canvas-5che)
-- [🚀 Building the Best SQL-Backed Job Queue with WJb and UkrGuru.Sql in .NET](https://dev.to/ukrguru/building-the-best-sql-backed-job-queue-with-wjb-and-ukrgurusql-in-net-3nnm)
-- [How Netflix Streams to Millions Globally: A Technical Masterclass in Resilience, Scale, and Systematic Failure](https://dev.to/siddharthbhalsod/how-netflix-streams-to-millions-globally-a-technical-masterclass-in-resilience-scale-and-31n5)
-- [Why Refactoring AWS Infrastructure Taught Me More Than Building It](https://dev.to/adil_khan_dc8aaf5632c369b/why-refactoring-aws-infrastructure-taught-me-more-than-building-it-3iml)
+- [Solved: Real world testimonies on Palo Alto/Check Point/Fortinet?](https://dev.to/techresolve/solved-real-world-testimonies-on-palo-altocheck-pointfortinet-21en)
+- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
+- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
+- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
 <!-- BLOG-POST-LIST:END -->
 
