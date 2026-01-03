@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;&gt; Day-14 Host A Static Website in AWS S3 And CloudFront &lpar;using terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/-day-14-host-a-static-website-in-aws-s3-and-cloudfront-using-terraform-5ffj)
-- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
-- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
-- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
+- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
+- [From Fresh Mac to Productive in 30 Minutes](https://dev.to/nickytonline/from-fresh-mac-to-productive-in-30-minutes-21db)
+- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
+- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
 <!-- BLOG-POST-LIST:END -->
 
