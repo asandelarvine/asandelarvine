@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Driven Development: Stop Vibe Coding](https://dev.to/alfredoperez/spec-driven-development-stop-vibe-coding-af2)
-- [Universal Knowledge Base for AI](https://dev.to/alfredoperez/universal-knowledge-base-for-ai-432g)
-- [Uploaded a 120-page PDF instant AI chat. 
-If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
-- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
+- [LRU vs TinyLFU: Choosing the Right Cache Eviction Strategy 🚀](https://dev.to/akarshan/lru-vs-tinylfu-choosing-the-right-cache-eviction-strategy-56pd)
+- [Master the Double Diamond Process: The 2026 Cheat Code That Turns Weeks of Ideation Into Hours of Real Progress](https://dev.to/tarun_chowdhry_9c697cbde1/master-the-double-diamond-process-the-2026-cheat-code-that-turns-weeks-of-ideation-into-hours-of-2e0)
+- [I Didn’t Need a New Routine — I Needed Fewer Invisible Demands](https://dev.to/jamesmiller25/i-didnt-need-a-new-routine-i-needed-fewer-invisible-demands-58ig)
+- [Quick business lesson:](https://dev.to/armab_dev101/quick-business-lesson-4bo4)
 <!-- BLOG-POST-LIST:END -->
 
