@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Re-implemented Java Streams to Understand Lazy Evaluation](https://dev.to/ssj256x/i-re-implemented-java-streams-to-understand-lazy-evaluation-1if0)
-- [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
-- [[Boost]](https://dev.to/cypriantinasheaarons/-3ild)
-- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
+- [-&gt;&gt; Day-14 Host A Static Website in AWS S3 And CloudFront &lpar;using terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/-day-14-host-a-static-website-in-aws-s3-and-cloudfront-using-terraform-5ffj)
+- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
+- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
+- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
 <!-- BLOG-POST-LIST:END -->
 
