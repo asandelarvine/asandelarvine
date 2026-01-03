@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
-- [From Fresh Mac to Productive in 30 Minutes](https://dev.to/nickytonline/from-fresh-mac-to-productive-in-30-minutes-21db)
-- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
-- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
+- [How to scrape YouTube trends and popular channels](https://dev.to/eunit/how-to-scrape-youtube-trends-and-popular-channels-4m07)
+- [Just added SAM3 video object tracking to X-AnyLabeling!](https://dev.to/jack_wang_d47b1f7f781c64f/just-added-sam3-video-object-tracking-to-x-anylabeling-33md)
+- [Day 3: Untill I Get Google Internship](https://dev.to/sugunadithya/day-3-untill-i-get-google-internship-3jcn)
+- [testing blog](https://dev.to/ankush_diwakar_b128ff3fcf/testing-blog-12c)
 <!-- BLOG-POST-LIST:END -->
 
