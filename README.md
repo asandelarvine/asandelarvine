@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026 🚀](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
-- [Introducing Embex: The Universal Vector Database ORM](https://dev.to/josias1997/introducing-embex-the-universal-vector-database-orm-4mpc)
-- [Best LEED Consultants in Japan](https://dev.to/radeleed/best-leed-consultants-in-japan-4n41)
-- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
+- [5 Critical Lessons from 3.5 Years of Odoo](https://dev.to/zdev_/5-critical-lessons-from-35-years-of-odoo-implementation-16j5)
+- [streamix: Generators + Operators - React Community Feedback = ?](https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl)
+- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
+- [Best LEED Consultants in Singapore](https://dev.to/vietleed/best-leed-consultants-in-singapore-2m0f)
 <!-- BLOG-POST-LIST:END -->
 
