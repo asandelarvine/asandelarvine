@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Critical Lessons from 3.5 Years of Odoo](https://dev.to/zdev_/5-critical-lessons-from-35-years-of-odoo-implementation-16j5)
-- [streamix: Generators + Operators - React Community Feedback = ?](https://dev.to/oleksii_shepel_3f635cea4d/streamix-generators-operators-react-community-feedback--1ckl)
-- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
-- [Best LEED Consultants in Singapore](https://dev.to/vietleed/best-leed-consultants-in-singapore-2m0f)
+- [The .sort&lpar;&rpar; in React improved my understanding of State, Mutation, and Data Flow](https://dev.to/victorugs_dev/the-sort-in-react-improved-my-understanding-of-state-mutation-and-data-flow-4b8b)
+- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
+- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
+- [Critical GNU Wget2 flaw allows attackers to overwrite sensitive files](https://dev.to/beyondmachines/critical-gnu-wget2-flaw-allows-attackers-to-overwrite-sensitive-files-1530)
 <!-- BLOG-POST-LIST:END -->
 
