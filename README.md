@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The .sort&lpar;&rpar; in React improved my understanding of State, Mutation, and Data Flow](https://dev.to/victorugs_dev/the-sort-in-react-improved-my-understanding-of-state-mutation-and-data-flow-4b8b)
-- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
-- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
-- [Critical GNU Wget2 flaw allows attackers to overwrite sensitive files](https://dev.to/beyondmachines/critical-gnu-wget2-flaw-allows-attackers-to-overwrite-sensitive-files-1530)
+- [I Re-implemented Java Streams to Understand Lazy Evaluation](https://dev.to/ssj256x/i-re-implemented-java-streams-to-understand-lazy-evaluation-1if0)
+- [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
+- [[Boost]](https://dev.to/cypriantinasheaarons/-3ild)
+- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
 <!-- BLOG-POST-LIST:END -->
 
