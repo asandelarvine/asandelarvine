@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LRU vs TinyLFU: Choosing the Right Cache Eviction Strategy 🚀](https://dev.to/akarshan/lru-vs-tinylfu-choosing-the-right-cache-eviction-strategy-56pd)
-- [Master the Double Diamond Process: The 2026 Cheat Code That Turns Weeks of Ideation Into Hours of Real Progress](https://dev.to/tarun_chowdhry_9c697cbde1/master-the-double-diamond-process-the-2026-cheat-code-that-turns-weeks-of-ideation-into-hours-of-2e0)
-- [I Didn’t Need a New Routine — I Needed Fewer Invisible Demands](https://dev.to/jamesmiller25/i-didnt-need-a-new-routine-i-needed-fewer-invisible-demands-58ig)
-- [Quick business lesson:](https://dev.to/armab_dev101/quick-business-lesson-4bo4)
+- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
+- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
+- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
+- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://dev.to/suyogkumawat/amazon-bedrock-the-ai-foundation-thats-powering-natwest-banks-digital-transformation-54k)
 <!-- BLOG-POST-LIST:END -->
 
