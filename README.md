@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
-- [🌐_Network_IO_Performance_Optimization[20260103040732]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260103040732-o0n)
-- [I stopped writing separate maintenance scripts for each Linux distro. You can too.](https://dev.to/harery/i-stopped-writing-separate-maintenance-scripts-for-each-linux-distro-you-can-too-5gfk)
-- [Stop Writing Tests Manually](https://dev.to/satinathnit/stop-writing-tests-manually-47d)
+- [Spec-Driven Development: Stop Vibe Coding](https://dev.to/alfredoperez/spec-driven-development-stop-vibe-coding-af2)
+- [Universal Knowledge Base for AI](https://dev.to/alfredoperez/universal-knowledge-base-for-ai-432g)
+- [Uploaded a 120-page PDF instant AI chat. 
+If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
+- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
 <!-- BLOG-POST-LIST:END -->
 
