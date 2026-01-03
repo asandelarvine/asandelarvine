@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Shell Sort: From Theory to Practical Code](https://dev.to/yumyum116/implementing-shell-sort-from-theory-to-practical-code-5bce)
-- [I built a &quot;VSCode-Exclusive&quot; BBS for Software Engineers using PocketBase](https://dev.to/y_s_k_n_s_n_/i-built-a-vscode-exclusive-bbs-for-software-engineers-using-pocketbase-5a5a)
-- [Duoplus Invitation Code : &lpar;ABHI25&rpar; Exclusive 15% Off On Signup](https://dev.to/referral_code_ee61ef9548a/duoplus-invitation-code-abhi25-exclusive-15-off-on-signup-2985)
-- [🛡️ Privatesolana: True Private Payments on Solana](https://dev.to/bobz_aa792a56ec14e9464370/privatesolana-true-private-payments-on-solana-50ha)
+- [LeetCode vs AlgoMonster: Which Is Better for Interview Prep in 2025?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-vs-algomonster-which-is-better-for-interview-prep-in-2025-1pko)
+- [Alphana Ai Promo Code : &lpar;ARCH30&rpar; Get 20% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/alphana-ai-promo-code-arch30-get-20-off-on-subscription-plan-58f7)
+- [Test projects at Telegem](https://dev.to/slick_phantom/test-projects-at-telegem-4jbg)
+- [Uvskinz Discount Code : &lpar;ARCHANA17010&rpar; Exclusive 20% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/uvskinz-discount-code-archana17010-exclusive-20-discount-on-purchase-4l29)
 <!-- BLOG-POST-LIST:END -->
 
