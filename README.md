@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing my thoughts on experience/learning from Freelancing journey](https://dev.to/zhravan/sharing-my-thoughts-on-experiencelearning-from-freelancing-journey-1dgh)
-- [OAuth Simplified: A Hands-On Breakdown](https://dev.to/sanl0wkey/oauth-simplified-a-hands-on-breakdown-20pb)
-- [My Page Loaded in 2 Seconds… According to Me](https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl)
-- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
+- [Drive Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/drive-developer-revenue-with-monetzlys-api-monetization-5alh)
+- [I got tired of guessing why my server crashed: Building a &quot;Smart&quot; Monitor with Global Checks &amp; JSON Validation](https://dev.to/aragossa/i-got-tired-of-guessing-why-my-server-crashed-building-a-smart-monitor-with-global-checks-json-f42)
+- [30. Substring with Concatenation of All Words | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/30-substring-with-concatenation-of-all-words-leetcode-top-interview-150-coding-questions-55di)
+- [The Death of &quot;Vibe-Coding&quot; &amp; the Return of the Senior SRE](https://dev.to/meena_nukala/the-death-of-vibe-coding-the-return-of-the-senior-sre-1ih)
 <!-- BLOG-POST-LIST:END -->
 
