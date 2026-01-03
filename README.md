@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Currency &amp; Gold Data Scraper with Python and GitHub Actions](https://dev.to/hossein_1ff200a1a15acef5b/automated-currency-gold-data-scraper-with-python-and-github-actions-27ha)
-- [Caching Patterns and Strategies for High-Traffic Applications](https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6)
-- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
-- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
+- [Sharing my thoughts on experience/learning from Freelancing journey](https://dev.to/zhravan/sharing-my-thoughts-on-experiencelearning-from-freelancing-journey-1dgh)
+- [OAuth Simplified: A Hands-On Breakdown](https://dev.to/sanl0wkey/oauth-simplified-a-hands-on-breakdown-20pb)
+- [My Page Loaded in 2 Seconds… According to Me](https://dev.to/javascriptwizzard/my-page-loaded-in-2-seconds-according-to-me-26pl)
+- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
 <!-- BLOG-POST-LIST:END -->
 
