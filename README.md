@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
-- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260103013437]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260103013437-40fm)
-- [Asaaju Peter Raises Concerns Over Security and Fees on Fiverr](https://dev.to/phemight_technologies_281/asaaju-peter-raises-concerns-over-security-and-fees-on-fiverr-52gl)
+- [From Azure AI to AIOps—Without Knowing DevOps First](https://dev.to/ibne_sabidsaikat_1443282/from-azure-ai-to-aiops-without-knowing-devops-first-1of3)
+- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
+- [Revisiting Small Batch Training for Deep Neural Networks](https://dev.to/paperium/revisiting-small-batch-training-for-deep-neural-networks-p4a)
+- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
 <!-- BLOG-POST-LIST:END -->
 
