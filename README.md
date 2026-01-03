@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to scrape YouTube trends and popular channels](https://dev.to/eunit/how-to-scrape-youtube-trends-and-popular-channels-4m07)
-- [Just added SAM3 video object tracking to X-AnyLabeling!](https://dev.to/jack_wang_d47b1f7f781c64f/just-added-sam3-video-object-tracking-to-x-anylabeling-33md)
-- [Day 3: Untill I Get Google Internship](https://dev.to/sugunadithya/day-3-untill-i-get-google-internship-3jcn)
-- [testing blog](https://dev.to/ankush_diwakar_b128ff3fcf/testing-blog-12c)
+- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
+- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
+- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
+- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
 <!-- BLOG-POST-LIST:END -->
 
