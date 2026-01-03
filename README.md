@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Business Logic Is the Real Product &lpar;So I Built logicrepo&rpar;](https://dev.to/alexdrimbe/business-logic-is-the-real-product-so-i-built-logicrepo-23bj)
-- [[Boost]](https://dev.to/justgeek/-2hfe)
-- [Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions &amp; Redis](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn)
-- [Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers &amp; Server Setup](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
+- [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
+- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
+- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
 <!-- BLOG-POST-LIST:END -->
 
