@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How IronPDF Turns Untrustworthy CSV Data into Auditable Truth in C#](https://dev.to/simran0807/how-ironpdf-turns-untrustworthy-csv-data-into-auditable-truth-in-c-1ck0)
-- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
-- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
-- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
+- [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026 🚀](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
+- [Introducing Embex: The Universal Vector Database ORM](https://dev.to/josias1997/introducing-embex-the-universal-vector-database-orm-4mpc)
+- [Best LEED Consultants in Japan](https://dev.to/radeleed/best-leed-consultants-in-japan-4n41)
+- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
 <!-- BLOG-POST-LIST:END -->
 
