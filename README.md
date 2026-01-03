@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Drive Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/drive-developer-revenue-with-monetzlys-api-monetization-5alh)
-- [I got tired of guessing why my server crashed: Building a &quot;Smart&quot; Monitor with Global Checks &amp; JSON Validation](https://dev.to/aragossa/i-got-tired-of-guessing-why-my-server-crashed-building-a-smart-monitor-with-global-checks-json-f42)
-- [30. Substring with Concatenation of All Words | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/30-substring-with-concatenation-of-all-words-leetcode-top-interview-150-coding-questions-55di)
-- [The Death of &quot;Vibe-Coding&quot; &amp; the Return of the Senior SRE](https://dev.to/meena_nukala/the-death-of-vibe-coding-the-return-of-the-senior-sre-1ih)
+- [Business Logic Is the Real Product &lpar;So I Built logicrepo&rpar;](https://dev.to/alexdrimbe/business-logic-is-the-real-product-so-i-built-logicrepo-23bj)
+- [[Boost]](https://dev.to/justgeek/-2hfe)
+- [Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions &amp; Redis](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn)
+- [Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers &amp; Server Setup](https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4)
 <!-- BLOG-POST-LIST:END -->
 
