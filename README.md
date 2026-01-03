@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode vs AlgoMonster: Which Is Better for Interview Prep in 2025?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-vs-algomonster-which-is-better-for-interview-prep-in-2025-1pko)
-- [Alphana Ai Promo Code : &lpar;ARCH30&rpar; Get 20% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/alphana-ai-promo-code-arch30-get-20-off-on-subscription-plan-58f7)
-- [Test projects at Telegem](https://dev.to/slick_phantom/test-projects-at-telegem-4jbg)
-- [Uvskinz Discount Code : &lpar;ARCHANA17010&rpar; Exclusive 20% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/uvskinz-discount-code-archana17010-exclusive-20-discount-on-purchase-4l29)
+- [How IronPDF Turns Untrustworthy CSV Data into Auditable Truth in C#](https://dev.to/simran0807/how-ironpdf-turns-untrustworthy-csv-data-into-auditable-truth-in-c-1ck0)
+- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
+- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
+- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
 <!-- BLOG-POST-LIST:END -->
 
