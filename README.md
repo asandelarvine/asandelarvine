@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Confessions of a Totally Average Dev &quot;Part 2&quot;: How I Accidentally Learned TypeScript and Immediately Regretted It 🌩️😩](https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-part-2-how-i-accidentally-learned-typescript-and-5an3)
-- [The Grand Finale: Image Reconstruction Network from Scratch in Rust](https://dev.to/palash90/the-grand-finale-image-reconstruction-network-from-scratch-in-rust-3mkb)
-- [No more ngrok: a simpler way to tunnel MCP local servers](https://dev.to/huynhphuchuy/no-more-ngrok-a-simpler-way-to-tunnel-mcp-local-servers-1lm)
-- [Tech Pulse: Wrapping 2025, Igniting 2026](https://dev.to/om_shree_0709/tech-pulse-wrapping-2025-igniting-2026-5a77)
+- [I just Starting to learn Rust](https://dev.to/bosnaufal/i-just-starting-to-learn-rust-4698)
+- [Stop Print Debugging Your AI Agents: A Deep Dive into Agent Observability](https://dev.to/angu10/stop-print-debugging-your-ai-agents-a-deep-dive-into-agent-observability-29eo)
+- [How Attention Shapes Knowledge Retention](https://dev.to/memory_rush_5bb9305e1ab6d/how-attention-shapes-knowledge-retention-1e9d)
+- [The $2,300 Kill Switch: How One Hacker Saved a Headset and Broke a Tesla](https://dev.to/karentam_1225/the-2300-kill-switch-how-one-hacker-saved-a-headset-and-broke-a-tesla-hdn)
 <!-- BLOG-POST-LIST:END -->
 
