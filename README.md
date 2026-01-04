@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why software development education has to become more personalized](https://dev.to/andreas_mller_2fd27cf578/why-software-development-education-has-to-be-come-more-personalized-42a1)
-- [Components in React: Functional vs. Class Components](https://dev.to/tenelabs/components-in-react-functional-vs-class-components-4laj)
-- [🐙吃吃章魚燒🚛](https://dev.to/janwear_lo_a79aeaf21bc1f/chi-chi-zhang-yu-shao-3h1i)
-- [WebForms Core in NuGet](https://dev.to/elanatframework/webforms-core-in-nuget-1567)
+- [Turning a Research Paper into a Runnable System](https://dev.to/flamehaven01/turning-a-research-paper-into-a-runnable-system-eld)
+- [Why Tenant Context Must Be Scoped Per Transaction](https://dev.to/m_zinger_2fc60eb3f3897908/why-tenant-context-must-be-scoped-per-transaction-3aop)
+- [The Modern Home Network Has No Safe Mode](https://dev.to/numbpill3d/the-modern-home-network-has-no-safe-mode-1gdo)
+- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
 <!-- BLOG-POST-LIST:END -->
 
