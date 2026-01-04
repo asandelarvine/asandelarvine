@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Prompt-Origin Paradox: Why the Future of Art is Curation, Not Creation — By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-prompt-origin-paradox-why-the-future-of-art-is-curation-not-creation-by-adel-abdel-dayem-1gf3)
-- [Equivalent Resistance Calculator: A Little Prince’s Guide to Resistor Mazes](https://dev.to/ersajay/equivalent-resistance-calculator-a-little-princes-guide-to-resistor-mazes-37cc)
-- [Wait, what? PK is not needed for HABTM?](https://dev.to/tom_donarski_dev/wait-what-pk-is-not-needed-for-habtm-25lb)
-- [Why Your @Async Method Ignores @Transactional &lpar;And Leaks Internal Errors&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-your-async-method-ignores-transactional-and-leaks-internal-errors-hnc)
+- [🚀 Supercarga la Autenticación en NestJS con Firebase](https://dev.to/alpha018/supercarga-la-autenticacion-en-nestjs-con-firebase-1kc0)
+- [MCP vs Function Calling — What&#39;s the difference?](https://dev.to/gantz/mcp-vs-function-calling-whats-the-difference-22gn)
+- [Day 31: Configuring a Private RDS Instance for Application Development](https://dev.to/thukhakyawe_cloud/day-31-configuring-a-private-rds-instance-for-application-development-2c8k)
+- [Kubernetes Security Fundamentals: Building a Robust Defense](https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-defense-58b0)
 <!-- BLOG-POST-LIST:END -->
 
