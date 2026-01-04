@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Authentication in Next.js: Building a Production-Ready Login System](https://dev.to/thekarlesi/secure-authentication-in-nextjs-building-a-production-ready-login-system-4m7)
-- [Hypervisors Explained: How Virtual Machines Really Work in the Cloud](https://dev.to/micheal_angelo_41cea4e81a/hypervisors-explained-how-virtual-machines-really-work-in-the-cloud-bbp)
-- [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
-- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
+- [Cracking the Shell: Enumerating SMB and SSH in the INE Skill Check Lab](https://dev.to/james_kariuki/cracking-the-shell-enumerating-smb-and-ssh-in-the-ine-skill-check-lab-4jj4)
+- [Day 92 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-92-of-100-days-dsa-coding-challenge-55e9)
+- [openskills.space](https://dev.to/onurkanbakirci/openskillsspace-2lc0)
+- [Why every dev will run an MCP server](https://dev.to/gantz/why-every-dev-will-run-an-mcp-server-dg3)
 <!-- BLOG-POST-LIST:END -->
 
