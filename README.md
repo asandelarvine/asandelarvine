@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a unique compiled programming language in Rust without LLVM](https://dev.to/morcules/i-made-a-unique-compiled-programming-language-in-rust-without-llvm-2glb)
-- [Hyper-V Configuration Guide for Kubernetes and Supporting Network Services](https://dev.to/korakrit/hyper-v-configuration-guide-for-kubernetes-and-supporting-network-services-1l6a)
-- [IaaS vs PaaS vs SaaS Explained: AWS Shared Responsibility Made Simple](https://dev.to/micheal_angelo_41cea4e81a/iaas-vs-paas-vs-saas-explained-aws-shared-responsibility-made-simple-4e10)
-- [Building a High-Performance Link Shortener with Next.js 16, Supabase, and Edge Functions](https://dev.to/mariusme/building-a-high-performance-link-shortener-with-nextjs-16-supabase-and-edge-functions-4fjn)
+- [Tool Use vs RAG: picking the right approach](https://dev.to/gantz/tool-use-vs-rag-picking-the-right-approach-4ipj)
+- [Kafka Consumer Rebalancing: From Stop-the-World to Cooperative Protocol](https://dev.to/hantedyou_0106/kafka-consumer-rebalancing-from-stop-the-world-to-cooperative-protocol-1kh)
+- [Centralizing Email Infrastructure on AWS with SESMailEngine](https://dev.to/aurora75/centralizing-email-infrastructure-on-aws-with-sesmailengine-2i0d)
+- [Tree Traversals Explained: DFS, BFS, and When to Use Each](https://dev.to/mqshaikh8/tree-traversals-explained-dfs-bfs-and-when-to-use-each-2m3f)
 <!-- BLOG-POST-LIST:END -->
 
