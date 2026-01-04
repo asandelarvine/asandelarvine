@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://dev.to/paperium/chateval-towards-better-llm-based-evaluators-through-multi-agent-debate-43e4)
-- [My AI agent worked fine in testing. Then real inputs broke it.](https://dev.to/franciscohumarang/my-ai-agent-worked-fine-in-testing-then-real-inputs-broke-it-2922)
-- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
-- [How AI Is Transforming Everyday Life](https://dev.to/market_expert_2abefa6f035/how-ai-is-transforming-everyday-life-1lpc)
+- [Why software development education has to become more personalized](https://dev.to/andreas_mller_2fd27cf578/why-software-development-education-has-to-be-come-more-personalized-42a1)
+- [Components in React: Functional vs. Class Components](https://dev.to/tenelabs/components-in-react-functional-vs-class-components-4laj)
+- [🐙吃吃章魚燒🚛](https://dev.to/janwear_lo_a79aeaf21bc1f/chi-chi-zhang-yu-shao-3h1i)
+- [WebForms Core in NuGet](https://dev.to/elanatframework/webforms-core-in-nuget-1567)
 <!-- BLOG-POST-LIST:END -->
 
