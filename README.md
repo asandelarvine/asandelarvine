@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: Mastering 3 Essential Patterns &lpar;Reflexive&rpar;. Part 3 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-reflexive-part-3-of-3-2cmn)
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Reflexive&rpar;. Parte 3 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-reflexive-parte-3-de-3-486e)
-- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260104221318]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260104221318-1084)
-- [Building Hoasel: What I Learned About Ethical Engagement After Winning Tech4Dev](https://dev.to/mayowaogunnubi/building-hoasel-what-i-learned-about-ethical-engagement-after-winning-tech4dev-5db6)
+- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
+- [54. Spiral Matrix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/54-spiral-matrix-leetcode-top-interview-150-coding-questions-2a1j)
+- [2026-01-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-04-daily-ai-news-g06)
+- [Progress on STAR &lpar;EOM&rpar;](https://dev.to/ryan_bae_5bd7d40241e52c14/progress-on-star-eom-4p8h)
 <!-- BLOG-POST-LIST:END -->
 
