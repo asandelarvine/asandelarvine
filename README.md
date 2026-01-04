@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tiny State Management Library in TypeScript atostate](https://dev.to/mahmoudshahin1111/i-built-a-tiny-state-management-library-in-typescript-atostate-hip)
-- [From Deprecated npm Classic Tokens to OIDC Trusted Publishing: A CI/CD Troubleshooting Journey](https://dev.to/zhangjintao/from-deprecated-npm-classic-tokens-to-oidc-trusted-publishing-a-cicd-troubleshooting-journey-4h8b)
-- [Part 1: Critical Analysis of Recent Tech News](https://dev.to/adnan_arif_14ae4bc014267f/part-1-critical-analysis-of-recent-tech-news-5a8d)
-- [LeetCode DSA Series #3: 202. Happy Number](https://dev.to/daveson217/leetcode-dsa-series-3-202-happy-number-api)
+- [Confessions of a Totally Average Dev &quot;Part 2&quot;: How I Accidentally Learned TypeScript and Immediately Regretted It 🌩️😩](https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-part-2-how-i-accidentally-learned-typescript-and-5an3)
+- [The Grand Finale: Image Reconstruction Network from Scratch in Rust](https://dev.to/palash90/the-grand-finale-image-reconstruction-network-from-scratch-in-rust-3mkb)
+- [No more ngrok: a simpler way to tunnel MCP local servers](https://dev.to/huynhphuchuy/no-more-ngrok-a-simpler-way-to-tunnel-mcp-local-servers-1lm)
+- [Tech Pulse: Wrapping 2025, Igniting 2026](https://dev.to/om_shree_0709/tech-pulse-wrapping-2025-igniting-2026-5a77)
 <!-- BLOG-POST-LIST:END -->
 
