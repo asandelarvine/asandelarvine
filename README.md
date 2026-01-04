@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-4de3)
-- [Estacionariedade: Por que a Média Histórica é Perigosa para suas Projeções](https://dev.to/_richardson_/estacionariedade-por-que-a-media-historica-e-perigosa-para-suas-projecoes-1ko7)
-- [After 47 Failed Systems, I Built One That Works: The Purpose Stack](https://dev.to/czechue/after-47-failed-systems-i-built-one-that-works-the-purpose-stack-4j8n)
-- [Documentation Is a Decision System, Not a Knowledge Base](https://dev.to/danielle_washington_96915/documentation-is-a-decision-system-not-a-knowledge-base-2a57)
+- [AI Agents: Mastering 3 Essential Patterns &lpar;Reflexive&rpar;. Part 3 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-reflexive-part-3-of-3-2cmn)
+- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Reflexive&rpar;. Parte 3 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-reflexive-parte-3-de-3-486e)
+- [🛠️_Development_Efficiency_vs_Runtime_Performance[20260104221318]](https://dev.to/member_6331818c/developmentefficiencyvsruntimeperformance20260104221318-1084)
+- [Building Hoasel: What I Learned About Ethical Engagement After Winning Tech4Dev](https://dev.to/mayowaogunnubi/building-hoasel-what-i-learned-about-ethical-engagement-after-winning-tech4dev-5db6)
 <!-- BLOG-POST-LIST:END -->
 
