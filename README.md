@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inspecting SSL Traffic Using FortiGate](https://dev.to/andreyscott/inspecting-ssl-traffic-using-fortigate-22jn)
-- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
-- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
-- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4de3)
+- [Estacionariedade: Por que a Média Histórica é Perigosa para suas Projeções](https://dev.to/_richardson_/estacionariedade-por-que-a-media-historica-e-perigosa-para-suas-projecoes-1ko7)
+- [After 47 Failed Systems, I Built One That Works: The Purpose Stack](https://dev.to/czechue/after-47-failed-systems-i-built-one-that-works-the-purpose-stack-4j8n)
+- [Documentation Is a Decision System, Not a Knowledge Base](https://dev.to/danielle_washington_96915/documentation-is-a-decision-system-not-a-knowledge-base-2a57)
 <!-- BLOG-POST-LIST:END -->
 
