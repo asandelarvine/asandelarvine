@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning a Research Paper into a Runnable System](https://dev.to/flamehaven01/turning-a-research-paper-into-a-runnable-system-eld)
-- [Why Tenant Context Must Be Scoped Per Transaction](https://dev.to/m_zinger_2fc60eb3f3897908/why-tenant-context-must-be-scoped-per-transaction-3aop)
-- [The Modern Home Network Has No Safe Mode](https://dev.to/numbpill3d/the-modern-home-network-has-no-safe-mode-1gdo)
-- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
+- [Inspecting SSL Traffic Using FortiGate](https://dev.to/andreyscott/inspecting-ssl-traffic-using-fortigate-22jn)
+- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
+- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
+- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
 <!-- BLOG-POST-LIST:END -->
 
