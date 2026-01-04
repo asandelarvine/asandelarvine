@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ECS vs EKS: When You DON&#39;T Need Kubernetes - A Practical Guide to Choosing AWS Container Services](https://dev.to/aws-builders/ecs-vs-eks-when-you-dont-need-kubernetes-a-practical-guide-to-choosing-aws-container-services-4dif)
-- [[Boost]](https://dev.to/karaniph/-2154)
-- [Closures and Scopes in JavaScript](https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h)
-- [Closures e escopos em JavaScript](https://dev.to/lucaspereiradesouzat/closures-e-escopos-em-javascript-4l6j)
+- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://dev.to/paperium/chateval-towards-better-llm-based-evaluators-through-multi-agent-debate-43e4)
+- [My AI agent worked fine in testing. Then real inputs broke it.](https://dev.to/franciscohumarang/my-ai-agent-worked-fine-in-testing-then-real-inputs-broke-it-2922)
+- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
+- [How AI Is Transforming Everyday Life](https://dev.to/market_expert_2abefa6f035/how-ai-is-transforming-everyday-life-1lpc)
 <!-- BLOG-POST-LIST:END -->
 
