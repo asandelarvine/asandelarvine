@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
-- [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
-- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
-- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
+- [I Built a Tiny State Management Library in TypeScript atostate](https://dev.to/mahmoudshahin1111/i-built-a-tiny-state-management-library-in-typescript-atostate-hip)
+- [From Deprecated npm Classic Tokens to OIDC Trusted Publishing: A CI/CD Troubleshooting Journey](https://dev.to/zhangjintao/from-deprecated-npm-classic-tokens-to-oidc-trusted-publishing-a-cicd-troubleshooting-journey-4h8b)
+- [Part 1: Critical Analysis of Recent Tech News](https://dev.to/adnan_arif_14ae4bc014267f/part-1-critical-analysis-of-recent-tech-news-5a8d)
+- [LeetCode DSA Series #3: 202. Happy Number](https://dev.to/daveson217/leetcode-dsa-series-3-202-happy-number-api)
 <!-- BLOG-POST-LIST:END -->
 
