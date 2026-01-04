@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I just Starting to learn Rust](https://dev.to/bosnaufal/i-just-starting-to-learn-rust-4698)
-- [Stop Print Debugging Your AI Agents: A Deep Dive into Agent Observability](https://dev.to/angu10/stop-print-debugging-your-ai-agents-a-deep-dive-into-agent-observability-29eo)
-- [How Attention Shapes Knowledge Retention](https://dev.to/memory_rush_5bb9305e1ab6d/how-attention-shapes-knowledge-retention-1e9d)
-- [The $2,300 Kill Switch: How One Hacker Saved a Headset and Broke a Tesla](https://dev.to/karentam_1225/the-2300-kill-switch-how-one-hacker-saved-a-headset-and-broke-a-tesla-hdn)
+- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
+- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
+- [Grid Gaps Explained: The Secret to Perfect Web Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-gaps-explained-the-secret-to-perfect-web-layouts-4a48)
+- [Master CSS Grid Tracks: Complete Guide to Modern Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/master-css-grid-tracks-complete-guide-to-modern-layouts-2026-1dao)
 <!-- BLOG-POST-LIST:END -->
 
