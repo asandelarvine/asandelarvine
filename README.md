@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Shell: Enumerating SMB and SSH in the INE Skill Check Lab](https://dev.to/james_kariuki/cracking-the-shell-enumerating-smb-and-ssh-in-the-ine-skill-check-lab-4jj4)
-- [Day 92 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-92-of-100-days-dsa-coding-challenge-55e9)
-- [openskills.space](https://dev.to/onurkanbakirci/openskillsspace-2lc0)
-- [Why every dev will run an MCP server](https://dev.to/gantz/why-every-dev-will-run-an-mcp-server-dg3)
+- [I made a unique compiled programming language in Rust without LLVM](https://dev.to/morcules/i-made-a-unique-compiled-programming-language-in-rust-without-llvm-2glb)
+- [Hyper-V Configuration Guide for Kubernetes and Supporting Network Services](https://dev.to/korakrit/hyper-v-configuration-guide-for-kubernetes-and-supporting-network-services-1l6a)
+- [IaaS vs PaaS vs SaaS Explained: AWS Shared Responsibility Made Simple](https://dev.to/micheal_angelo_41cea4e81a/iaas-vs-paas-vs-saas-explained-aws-shared-responsibility-made-simple-4e10)
+- [Building a High-Performance Link Shortener with Next.js 16, Supabase, and Edge Functions](https://dev.to/mariusme/building-a-high-performance-link-shortener-with-nextjs-16-supabase-and-edge-functions-4fjn)
 <!-- BLOG-POST-LIST:END -->
 
