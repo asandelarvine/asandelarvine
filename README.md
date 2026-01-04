@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: Boost Developer Revenue with AI Conversation Ads](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-ads-2pmm)
-- [Profit Like a Supermarket Boss: Demystifying Bitcoin High-Frequency Grid Trading](https://dev.to/ghostsworm/profit-like-a-supermarket-boss-demystifying-bitcoin-high-frequency-grid-trading-1dpn)
-- [A real-world story: Why we even need npm](https://dev.to/karthikkorrayi/a-real-world-story-why-we-even-need-npm-h86)
-- [JIT-Picking: Exploiting the Logic Gap in Modern JavaScript Engines](https://dev.to/azterix101/jit-picking-exploiting-the-logic-gap-in-modern-javascript-engines-o9k)
+- [ECS vs EKS: When You DON&#39;T Need Kubernetes - A Practical Guide to Choosing AWS Container Services](https://dev.to/aws-builders/ecs-vs-eks-when-you-dont-need-kubernetes-a-practical-guide-to-choosing-aws-container-services-4dif)
+- [[Boost]](https://dev.to/karaniph/-2154)
+- [Closures and Scopes in JavaScript](https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h)
+- [Closures e escopos em JavaScript](https://dev.to/lucaspereiradesouzat/closures-e-escopos-em-javascript-4l6j)
 <!-- BLOG-POST-LIST:END -->
 
