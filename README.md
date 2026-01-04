@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Backtesting Platforms for Stock Strategies in 2026: Top Tools to Maximize Your Trading Edge](https://dev.to/georgemortoninvestments/best-backtesting-platforms-for-stock-strategies-in-2026-top-tools-to-maximize-your-trading-edge-51p2)
-- [“Cracking the Kubernetes Interview” 🍘 Book Review](https://dev.to/aairom/cracking-the-kubernetes-interview-book-review-5904)
-- [Channels in C#](https://dev.to/adrianbailador/channels-in-c-3i6h)
-- [☕ Just launched Coffee Pomodoro - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-coffee-pomodoro-my-personal-productivity-project-k18)
+- [Secure Authentication in Next.js: Building a Production-Ready Login System](https://dev.to/thekarlesi/secure-authentication-in-nextjs-building-a-production-ready-login-system-4m7)
+- [Hypervisors Explained: How Virtual Machines Really Work in the Cloud](https://dev.to/micheal_angelo_41cea4e81a/hypervisors-explained-how-virtual-machines-really-work-in-the-cloud-bbp)
+- [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
+- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
 <!-- BLOG-POST-LIST:END -->
 
