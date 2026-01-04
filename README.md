@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tool Use vs RAG: picking the right approach](https://dev.to/gantz/tool-use-vs-rag-picking-the-right-approach-4ipj)
-- [Kafka Consumer Rebalancing: From Stop-the-World to Cooperative Protocol](https://dev.to/hantedyou_0106/kafka-consumer-rebalancing-from-stop-the-world-to-cooperative-protocol-1kh)
-- [Centralizing Email Infrastructure on AWS with SESMailEngine](https://dev.to/aurora75/centralizing-email-infrastructure-on-aws-with-sesmailengine-2i0d)
-- [Tree Traversals Explained: DFS, BFS, and When to Use Each](https://dev.to/mqshaikh8/tree-traversals-explained-dfs-bfs-and-when-to-use-each-2m3f)
+- [Monetzly: Boost Developer Revenue with AI Conversation Ads](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-conversation-ads-2pmm)
+- [Profit Like a Supermarket Boss: Demystifying Bitcoin High-Frequency Grid Trading](https://dev.to/ghostsworm/profit-like-a-supermarket-boss-demystifying-bitcoin-high-frequency-grid-trading-1dpn)
+- [A real-world story: Why we even need npm](https://dev.to/karthikkorrayi/a-real-world-story-why-we-even-need-npm-h86)
+- [JIT-Picking: Exploiting the Logic Gap in Modern JavaScript Engines](https://dev.to/azterix101/jit-picking-exploiting-the-logic-gap-in-modern-javascript-engines-o9k)
 <!-- BLOG-POST-LIST:END -->
 
