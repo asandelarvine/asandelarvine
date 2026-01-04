@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Supercarga la Autenticación en NestJS con Firebase](https://dev.to/alpha018/supercarga-la-autenticacion-en-nestjs-con-firebase-1kc0)
-- [MCP vs Function Calling — What&#39;s the difference?](https://dev.to/gantz/mcp-vs-function-calling-whats-the-difference-22gn)
-- [Day 31: Configuring a Private RDS Instance for Application Development](https://dev.to/thukhakyawe_cloud/day-31-configuring-a-private-rds-instance-for-application-development-2c8k)
-- [Kubernetes Security Fundamentals: Building a Robust Defense](https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-defense-58b0)
+- [Best Backtesting Platforms for Stock Strategies in 2026: Top Tools to Maximize Your Trading Edge](https://dev.to/georgemortoninvestments/best-backtesting-platforms-for-stock-strategies-in-2026-top-tools-to-maximize-your-trading-edge-51p2)
+- [“Cracking the Kubernetes Interview” 🍘 Book Review](https://dev.to/aairom/cracking-the-kubernetes-interview-book-review-5904)
+- [Channels in C#](https://dev.to/adrianbailador/channels-in-c-3i6h)
+- [☕ Just launched Coffee Pomodoro - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-coffee-pomodoro-my-personal-productivity-project-k18)
 <!-- BLOG-POST-LIST:END -->
 
