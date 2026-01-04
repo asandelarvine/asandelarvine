@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
-- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
-- [Grid Gaps Explained: The Secret to Perfect Web Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-gaps-explained-the-secret-to-perfect-web-layouts-4a48)
-- [Master CSS Grid Tracks: Complete Guide to Modern Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/master-css-grid-tracks-complete-guide-to-modern-layouts-2026-1dao)
+- [Talking Heads vs Full-Body Motion: How to Choose the Right AI Avatar Tool](https://dev.to/herman99630/talking-heads-vs-full-body-motion-how-to-choose-the-right-ai-avatar-tool-2766)
+- [RAG Techniques That Actually Work](https://dev.to/ravi_kumarverma_afd09786/rag-techniques-that-actually-work-nad)
+- [Why Does SOCKS5 Proxy Login Trigger Account Warnings or Failures When Switching Between Cloud and Local Access?](https://dev.to/miller_proxy/why-does-socks5-proxy-login-trigger-account-warnings-or-failures-when-switching-between-cloud-and-29c)
+- [🔒_Security_Performance_Balance[20260104070437]](https://dev.to/member_8659c28a/securityperformancebalance20260104070437-36k2)
 <!-- BLOG-POST-LIST:END -->
 
