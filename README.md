@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 things we broke building our first major ML pipeline at Besttech &lpar;and how we fixed them&rpar;.](https://dev.to/best_techcompany_200e9f2/the-5-things-we-broke-building-our-first-major-ml-pipeline-at-besttech-and-how-we-fixed-them-c96)
-- [Looking for Early Builders &amp; Prompt Engineers to Shape Noteal](https://dev.to/byron_kennedy_4fb928d39ef/looking-for-early-builders-prompt-engineers-to-shape-noteal-hlh)
-- [Polyglot Microservices Communication in Kubernetes with DNS, CoreDNS, and Istio &lpar;Java + Python&rpar;](https://dev.to/gokul_gk/polyglot-microservices-communication-in-kubernetes-with-dns-coredns-and-istio-java-python-4gb9)
-- [What are Some Smart Testing Tips for Remote Tech Teams](https://dev.to/misterankit/what-are-some-smart-testing-tips-for-remote-tech-teams-3cin)
+- [Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform](https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji)
+- [Converting HTML to Images in Java with Spire.Doc](https://dev.to/lu_liu_e3fc806354d9a952b7/converting-html-to-images-in-java-with-spiredoc-3l23)
+- [🐍 Python Tiny Tools: Practical Automation, Learning &amp; 200+ Project Ideas](https://dev.to/matetechnologie/python-tiny-tools-practical-automation-learning-200-project-ideas-38f)
+- [Implementing Per-Seat Team Billing with Stripe](https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5fp5)
 <!-- BLOG-POST-LIST:END -->
 
