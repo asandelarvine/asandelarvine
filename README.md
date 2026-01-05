@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Agent with Phone Callbacks on Render](https://dev.to/nick_lamela_24a1fdf801a43/build-an-ai-agent-with-phone-callbacks-on-render-j2n)
-- [Microsoft Entra SAML SSO in Go: Everything You Need and Don&#39;t Need To Know](https://dev.to/david_horvat_18feaa13a9a8/microsoft-entra-saml-sso-in-go-everything-you-need-and-dont-need-to-know-4fhn)
-- [CineDB: Building a Movie Catalog with DocumentDB 📽️](https://dev.to/khushi_nandwani07/cinedb-building-a-movie-catalog-with-documentdb-3jf7)
-- [How to Read DMARC Aggregate &lpar;RUA&rpar; Reports: A Practical Guide](https://dev.to/mar804ca0133d4c0e993/how-to-read-dmarc-aggregate-rua-reports-a-practical-guide-2gj5)
+- [I&#39;ve been building AI document processing systems for insurance companies for 3 years. Here&#39;s what actually works](https://dev.to/melek_messoussi_651bf64f4/ive-been-building-ai-document-processing-systems-for-insurance-companies-for-3-years-heres-what-18ea)
+- [Faster Isn’t Safer: Why Over-Rotating IPs Trips Anti-Bot Systems](https://dev.to/anna_6c67c00f5c3f53660978/faster-isnt-safer-why-over-rotating-ips-trips-anti-bot-systems-5d6o)
+- [The Hidden 31-Hour Monthly Tax on Your Business &lpar;And How to Eliminate It for Free&rpar;](https://dev.to/tracksimple/the-hidden-31-hour-monthly-tax-on-your-business-and-how-to-eliminate-it-for-free-5g2j)
+- [[Boost]](https://dev.to/devush/-4j3b)
 <!-- BLOG-POST-LIST:END -->
 
