@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready AWS ALB + Auto Scaling Architecture Using Terraform](https://dev.to/manoop_madhu/building-a-production-ready-aws-alb-auto-scaling-architecture-using-terraform-3nji)
-- [Converting HTML to Images in Java with Spire.Doc](https://dev.to/lu_liu_e3fc806354d9a952b7/converting-html-to-images-in-java-with-spiredoc-3l23)
-- [🐍 Python Tiny Tools: Practical Automation, Learning &amp; 200+ Project Ideas](https://dev.to/matetechnologie/python-tiny-tools-practical-automation-learning-200-project-ideas-38f)
-- [Implementing Per-Seat Team Billing with Stripe](https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5fp5)
+- [Why Most Resumes Fail ATS &lpar;What I Learned While Building One&rpar;](https://dev.to/iamutkarshyadav/why-most-resumes-fail-ats-what-i-learned-while-building-one-3pg)
+- [Pattern Matching in Rust](https://dev.to/godofgeeks/pattern-matching-in-rust-1ijk)
+- [What I Didn’t Expect When Working as a Rural Internet Provider](https://dev.to/sidra-jefferi/what-i-didnt-expect-when-working-as-a-rural-internet-provider-4813)
+- [[2026 AI Watch] The Year Begins with a Bang: DeepSeek V3.2 and the Democratization of &quot;Super-Reasoning&quot;](https://dev.to/aslanshou/2026-ai-watch-the-year-begins-with-a-bang-deepseek-v32-and-the-democratization-of-2ebe)
 <!-- BLOG-POST-LIST:END -->
 
