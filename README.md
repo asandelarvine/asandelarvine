@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Testing JIMBO OS - Automated Content Pipeline](https://dev.to/karol_81a50ed396508bcffd7/testing-jimbo-os-automated-content-pipeline-2moe)
-- [About JVM Architecture](https://dev.to/rahulraj156/about-jvm-architecture-9mk)
-- [# Solving Angular&#39;s Subscription Memory Leak Problem with a Simple Decorator](https://dev.to/sarath90/-solving-angulars-subscription-memory-leak-problem-with-a-simple-decorator-1fel)
-- [AI Cybersecurity for EU SMEs: Detect &amp; Contain](https://dev.to/dr_hernani_costa/ai-cybersecurity-for-eu-smes-detect-contain-2pgg)
+- [IP Addresses &amp; the Internet Protocol — From Numbers to Global](https://dev.to/cristiansifuentes/ip-addresses-the-internet-protocol-from-numbers-to-global-2mg2)
+- [Stop Setting Goals, Start Tracking Wins](https://dev.to/nataliaherself/stop-setting-goals-start-tracking-wins-347m)
+- [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
+- [**Unveiling the Labyrinth of Explainable AI: A Comparative A](https://dev.to/drcarlosruizviquez/unveiling-the-labyrinth-of-explainable-ai-a-comparative-a-1e3l)
 <!-- BLOG-POST-LIST:END -->
 
