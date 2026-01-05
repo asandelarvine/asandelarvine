@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
-- [54. Spiral Matrix | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/54-spiral-matrix-leetcode-top-interview-150-coding-questions-2a1j)
-- [2026-01-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-04-daily-ai-news-g06)
-- [Progress on STAR &lpar;EOM&rpar;](https://dev.to/ryan_bae_5bd7d40241e52c14/progress-on-star-eom-4p8h)
+- [A beginner&#39;s guide to the Photo2cartoon model by Minivision-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-photo2cartoon-model-by-minivision-ai-on-replicate-19m4)
+- [A beginner&#39;s guide to the Hand-Refiner model by Camenduru on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-hand-refiner-model-by-camenduru-on-replicate-2h0g)
+- [A beginner&#39;s guide to the Noobai-Xl model by Delta-Lock on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-noobai-xl-model-by-delta-lock-on-replicate-12ig)
+- [A beginner&#39;s guide to the Colorize-Line-Art model by Camenduru on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-colorize-line-art-model-by-camenduru-on-replicate-m42)
 <!-- BLOG-POST-LIST:END -->
 
