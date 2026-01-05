@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 QA Trends You Can&#39;t Ignore in 2026](https://dev.to/unais_shahid/5-qa-trends-you-cant-ignore-in-2026-21e3)
-- [Differences Between Windows, Linux, and macOS](https://dev.to/cristiansifuentes/differences-between-windows-linux-and-macos-3jk2)
-- [Perplexity AI Models 2025: Which Model Fits Your Workflow?](https://dev.to/dr_hernani_costa/perplexity-ai-models-2025-which-model-fits-your-workflow-3808)
-- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
+- [Rethinking RAG Systems: Beyond Binary Outcomes](https://dev.to/drcarlosruizviquez/rethinking-rag-systems-beyond-binary-outcomes-4o2m)
+- [The Q-Protocol: Reducing Agentic Telemetry Costs with Z-Order Curves](https://dev.to/philhills/the-q-protocol-reducing-agentic-telemetry-costs-with-z-order-curves-156g)
+- [Zapier vs Make, n8n &amp; Lindy: 2026 Pricing &amp; Platform Guide](https://dev.to/dr_hernani_costa/zapier-vs-make-n8n-lindy-2026-pricing-platform-guide-48co)
+- [AI Trading Daily Report: January 05, 2026 | $+101,197.92](https://dev.to/igorganapolsky/ai-trading-daily-report-january-05-2026-10119792-13mc)
 <!-- BLOG-POST-LIST:END -->
 
