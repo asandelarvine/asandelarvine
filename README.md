@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ToolBox Pro: Thousands of Free Online Tools – All-in-One Efficient Web Toolkit](https://dev.to/winter_grady_3d8fc370f968/toolbox-pro-thousands-of-free-online-tools-all-in-one-efficient-web-toolkit-4kgg)
-- [Server-Sent Events in .NET 10: Finally, a Native Solution](https://dev.to/mashrulhaque/server-sent-events-in-net-10-finally-a-native-solution-22kg)
-- [Building a University Resource Sharing Platform: My Laravel Learning Journey](https://dev.to/nelson_orina_a538ba52e9ed/building-a-university-resource-sharing-platform-my-laravel-learning-journey-579l)
-- [GQLoom Evaluation Report](https://dev.to/xcfox/gqloom-evaluation-report-b6j)
+- [Build an AI Agent with Phone Callbacks on Render](https://dev.to/nick_lamela_24a1fdf801a43/build-an-ai-agent-with-phone-callbacks-on-render-j2n)
+- [Microsoft Entra SAML SSO in Go: Everything You Need and Don&#39;t Need To Know](https://dev.to/david_horvat_18feaa13a9a8/microsoft-entra-saml-sso-in-go-everything-you-need-and-dont-need-to-know-4fhn)
+- [CineDB: Building a Movie Catalog with DocumentDB 📽️](https://dev.to/khushi_nandwani07/cinedb-building-a-movie-catalog-with-documentdb-3jf7)
+- [How to Read DMARC Aggregate &lpar;RUA&rpar; Reports: A Practical Guide](https://dev.to/mar804ca0133d4c0e993/how-to-read-dmarc-aggregate-rua-reports-a-practical-guide-2gj5)
 <!-- BLOG-POST-LIST:END -->
 
