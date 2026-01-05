@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes as a Control System: Beyond Orchestration, Towards Autonomy](https://dev.to/mohammed_27c42362d82e94dd/kubernetes-as-a-control-system-beyond-orchestration-towards-autonomy-3j3h)
-- [Building a Batch Data Pipeline on AWS](https://dev.to/jessica_tiwari_dec39541e2/building-a-batch-data-pipeline-on-aws-2fkb)
-- [Nano Banana Pro vs Olio: A Real Battle Silicon Valley Didn’t See Coming](https://dev.to/tashfia_a8008e6a542/nano-banana-pro-vs-olio-a-real-battle-silicon-valley-didnt-see-coming-19og)
-- [A fully local Mailtrap style inbox for Laravel](https://dev.to/raffi001/a-fully-local-mailtrap-style-inbox-for-laravel-1c64)
+- [How I Built a Tool to Detect AI-Generated Fake References](https://dev.to/lidianycs/how-i-built-a-tool-to-detect-ai-generated-fake-references-2891)
+- [Amazon Q: Your AI Assistant for AWS, Developers, and the Business](https://dev.to/brayanarrieta/amazon-q-your-ai-assistant-for-aws-developers-and-the-business-4b1c)
+- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+- [Why HMAC Is the Right Choice for Webhook Security &lpar;and Why Spubhi Makes It Simple&rpar;](https://dev.to/spubhi/why-hmac-is-the-right-choice-for-webhook-security-and-why-spubhi-makes-it-simple-29p2)
 <!-- BLOG-POST-LIST:END -->
 
