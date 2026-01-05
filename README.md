@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Improving Agents: Power, Danger, and Guardrails](https://dev.to/gantz/self-improving-agents-power-danger-and-guardrails-2ldi)
-- [How Memory Builds Through Iteration](https://dev.to/memory_rush_5bb9305e1ab6d/how-memory-builds-through-iteration-1lj9)
-- [Docker and Kubernetes](https://dev.to/min38/docker-and-kubernetes-3mbm)
-- [M7 Week 1: Deterministic AI, Practical Pathfinding, and a Real 3D Audio Pipe &lpar;Bad Cat: Void Frontier&rpar;](https://dev.to/p3ngu1nzz/m7-week-1-deterministic-ai-practical-pathfinding-and-a-real-3d-audio-pipe-bad-cat-void-3oca)
+- [Writing with AI Assistance](https://dev.to/burvestorylab/writing-with-ai-assistance-4fj5)
+- [Meta-Prompting: Prompts That Write Prompts](https://dev.to/gantz/meta-prompting-prompts-that-write-prompts-2218)
+- [You Don&#39;t Have to Test All of Your Code...](https://dev.to/aws-builders/you-dont-have-to-test-all-of-your-code-m97)
+- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
 <!-- BLOG-POST-LIST:END -->
 
