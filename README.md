@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Sdxl-Controlnet-Lora model by Fermatresearch on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-sdxl-controlnet-lora-model-by-fermatresearch-on-replicate-4e9b)
-- [FluentDocs: Keep Docs Accurate as Code Evolves](https://dev.to/tammibriggs/fluentdocs-keep-docs-accurate-as-code-evolves-12f6)
-- [A beginner&#39;s guide to the Force-Align-Wordstamps model by Cureau on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-force-align-wordstamps-model-by-cureau-on-replicate-5b12)
-- [A beginner&#39;s guide to the Flux-Schnell-Lora model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-schnell-lora-model-by-lucataco-on-replicate-3f6j)
+- [The 5 things we broke building our first major ML pipeline at Besttech &lpar;and how we fixed them&rpar;.](https://dev.to/best_techcompany_200e9f2/the-5-things-we-broke-building-our-first-major-ml-pipeline-at-besttech-and-how-we-fixed-them-c96)
+- [Looking for Early Builders &amp; Prompt Engineers to Shape Noteal](https://dev.to/byron_kennedy_4fb928d39ef/looking-for-early-builders-prompt-engineers-to-shape-noteal-hlh)
+- [Polyglot Microservices Communication in Kubernetes with DNS, CoreDNS, and Istio &lpar;Java + Python&rpar;](https://dev.to/gokul_gk/polyglot-microservices-communication-in-kubernetes-with-dns-coredns-and-istio-java-python-4gb9)
+- [What are Some Smart Testing Tips for Remote Tech Teams](https://dev.to/misterankit/what-are-some-smart-testing-tips-for-remote-tech-teams-3cin)
 <!-- BLOG-POST-LIST:END -->
 
