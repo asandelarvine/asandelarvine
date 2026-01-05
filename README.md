@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Tool to Detect AI-Generated Fake References](https://dev.to/lidianycs/how-i-built-a-tool-to-detect-ai-generated-fake-references-2891)
-- [Amazon Q: Your AI Assistant for AWS, Developers, and the Business](https://dev.to/brayanarrieta/amazon-q-your-ai-assistant-for-aws-developers-and-the-business-4b1c)
-- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
-- [Why HMAC Is the Right Choice for Webhook Security &lpar;and Why Spubhi Makes It Simple&rpar;](https://dev.to/spubhi/why-hmac-is-the-right-choice-for-webhook-security-and-why-spubhi-makes-it-simple-29p2)
+- [whereHas&lpar;&rpar; vs whereRelation&lpar;&rpar;: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260105171014]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260105171014-4h2p)
+- [I gave my Go programs a &quot;nervous system&quot; so they can feel pain and disobey me](https://dev.to/gusiii/i-gave-my-go-programs-a-nervous-system-so-they-can-feel-pain-and-disobey-me-11jb)
+- [What Working on a Growing Tech Platform Has Taught Me About Clarity, Responsibility, and Growth](https://dev.to/acessays/what-working-on-a-growing-tech-platform-has-taught-me-about-clarity-responsibility-and-growth-26oc)
 <!-- BLOG-POST-LIST:END -->
 
