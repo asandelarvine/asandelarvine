@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Resumes Fail ATS &lpar;What I Learned While Building One&rpar;](https://dev.to/iamutkarshyadav/why-most-resumes-fail-ats-what-i-learned-while-building-one-3pg)
-- [Pattern Matching in Rust](https://dev.to/godofgeeks/pattern-matching-in-rust-1ijk)
-- [What I Didn’t Expect When Working as a Rural Internet Provider](https://dev.to/sidra-jefferi/what-i-didnt-expect-when-working-as-a-rural-internet-provider-4813)
-- [[2026 AI Watch] The Year Begins with a Bang: DeepSeek V3.2 and the Democratization of &quot;Super-Reasoning&quot;](https://dev.to/aslanshou/2026-ai-watch-the-year-begins-with-a-bang-deepseek-v32-and-the-democratization-of-2ebe)
+- [How Cleaning Up Projects Eliminates Technical Debt and Improves Developer Experience](https://dev.to/dekigk/how-cleaning-up-projects-eliminates-technical-debt-and-improves-developer-experience-3e34)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/6116hayat/git-for-beginners-basics-and-essential-commands-1omj)
+- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
+- [AI Video Generators for Beginners: A Practical Starting Guide](https://dev.to/herman99630/ai-video-generators-for-beginners-a-practical-starting-guide-aak)
 <!-- BLOG-POST-LIST:END -->
 
