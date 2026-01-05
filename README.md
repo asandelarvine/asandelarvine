@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking EF Core LINQ, Dapper Raw SQL, and Stored Procedures in .NET: A Real-World Performance Comparison &lpar;2026&rpar;](https://dev.to/mina_golzari_dalir/benchmarking-ef-core-linq-dapper-raw-sql-and-stored-procedures-in-net-a-real-world-performance-54e4)
-- [Build Your Own Local AI Agent &lpar;Part 2&rpar;: The SQLite Analyst](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-2-the-sqlite-analyst-24oc)
-- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
-- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
+- [Self-Improving Agents: Power, Danger, and Guardrails](https://dev.to/gantz/self-improving-agents-power-danger-and-guardrails-2ldi)
+- [How Memory Builds Through Iteration](https://dev.to/memory_rush_5bb9305e1ab6d/how-memory-builds-through-iteration-1lj9)
+- [Docker and Kubernetes](https://dev.to/min38/docker-and-kubernetes-3mbm)
+- [M7 Week 1: Deterministic AI, Practical Pathfinding, and a Real 3D Audio Pipe &lpar;Bad Cat: Void Frontier&rpar;](https://dev.to/p3ngu1nzz/m7-week-1-deterministic-ai-practical-pathfinding-and-a-real-3d-audio-pipe-bad-cat-void-3oca)
 <!-- BLOG-POST-LIST:END -->
 
