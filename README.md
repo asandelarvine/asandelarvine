@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [whereHas&lpar;&rpar; vs whereRelation&lpar;&rpar;: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260105171014]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260105171014-4h2p)
-- [I gave my Go programs a &quot;nervous system&quot; so they can feel pain and disobey me](https://dev.to/gusiii/i-gave-my-go-programs-a-nervous-system-so-they-can-feel-pain-and-disobey-me-11jb)
-- [What Working on a Growing Tech Platform Has Taught Me About Clarity, Responsibility, and Growth](https://dev.to/acessays/what-working-on-a-growing-tech-platform-has-taught-me-about-clarity-responsibility-and-growth-26oc)
+- [GitHub Outage Tracker: 5 Real-Time Monitoring Methods](https://dev.to/isdown/github-outage-tracker-5-real-time-monitoring-methods-57e0)
+- [Preparando uma API NodeJS para produção](https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic)
+- [Chain Rule in Machine Learning: A Simple Walkthrough](https://dev.to/rijultp/chain-rule-in-machine-learning-a-simple-walkthrough-2jb3)
+- [[Boost]](https://dev.to/gem_hell/-d15)
 <!-- BLOG-POST-LIST:END -->
 
