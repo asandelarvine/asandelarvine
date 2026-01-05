@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Addresses &amp; the Internet Protocol — From Numbers to Global](https://dev.to/cristiansifuentes/ip-addresses-the-internet-protocol-from-numbers-to-global-2mg2)
-- [Stop Setting Goals, Start Tracking Wins](https://dev.to/nataliaherself/stop-setting-goals-start-tracking-wins-347m)
-- [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
-- [**Unveiling the Labyrinth of Explainable AI: A Comparative A](https://dev.to/drcarlosruizviquez/unveiling-the-labyrinth-of-explainable-ai-a-comparative-a-1e3l)
+- [5 QA Trends You Can&#39;t Ignore in 2026](https://dev.to/unais_shahid/5-qa-trends-you-cant-ignore-in-2026-21e3)
+- [Differences Between Windows, Linux, and macOS](https://dev.to/cristiansifuentes/differences-between-windows-linux-and-macos-3jk2)
+- [Perplexity AI Models 2025: Which Model Fits Your Workflow?](https://dev.to/dr_hernani_costa/perplexity-ai-models-2025-which-model-fits-your-workflow-3808)
+- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
 <!-- BLOG-POST-LIST:END -->
 
