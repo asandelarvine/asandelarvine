@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Outage Tracker: 5 Real-Time Monitoring Methods](https://dev.to/isdown/github-outage-tracker-5-real-time-monitoring-methods-57e0)
-- [Preparando uma API NodeJS para produção](https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic)
-- [Chain Rule in Machine Learning: A Simple Walkthrough](https://dev.to/rijultp/chain-rule-in-machine-learning-a-simple-walkthrough-2jb3)
-- [[Boost]](https://dev.to/gem_hell/-d15)
+- [🤖 Testing JIMBO OS - Automated Content Pipeline](https://dev.to/karol_81a50ed396508bcffd7/testing-jimbo-os-automated-content-pipeline-2moe)
+- [About JVM Architecture](https://dev.to/rahulraj156/about-jvm-architecture-9mk)
+- [# Solving Angular&#39;s Subscription Memory Leak Problem with a Simple Decorator](https://dev.to/sarath90/-solving-angulars-subscription-memory-leak-problem-with-a-simple-decorator-1fel)
+- [AI Cybersecurity for EU SMEs: Detect &amp; Contain](https://dev.to/dr_hernani_costa/ai-cybersecurity-for-eu-smes-detect-contain-2pgg)
 <!-- BLOG-POST-LIST:END -->
 
