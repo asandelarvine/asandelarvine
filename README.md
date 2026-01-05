@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking RAG Systems: Beyond Binary Outcomes](https://dev.to/drcarlosruizviquez/rethinking-rag-systems-beyond-binary-outcomes-4o2m)
-- [The Q-Protocol: Reducing Agentic Telemetry Costs with Z-Order Curves](https://dev.to/philhills/the-q-protocol-reducing-agentic-telemetry-costs-with-z-order-curves-156g)
-- [Zapier vs Make, n8n &amp; Lindy: 2026 Pricing &amp; Platform Guide](https://dev.to/dr_hernani_costa/zapier-vs-make-n8n-lindy-2026-pricing-platform-guide-48co)
-- [AI Trading Daily Report: January 05, 2026 | $+101,197.92](https://dev.to/igorganapolsky/ai-trading-daily-report-january-05-2026-10119792-13mc)
+- [The RGB LED Sidequest 💡](https://dev.to/sigje/the-rgb-led-sidequest-4519)
+- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
+- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
+- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
 <!-- BLOG-POST-LIST:END -->
 
