@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Cleaning Up Projects Eliminates Technical Debt and Improves Developer Experience](https://dev.to/dekigk/how-cleaning-up-projects-eliminates-technical-debt-and-improves-developer-experience-3e34)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/6116hayat/git-for-beginners-basics-and-essential-commands-1omj)
-- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
-- [AI Video Generators for Beginners: A Practical Starting Guide](https://dev.to/herman99630/ai-video-generators-for-beginners-a-practical-starting-guide-aak)
+- [ToolBox Pro: Thousands of Free Online Tools – All-in-One Efficient Web Toolkit](https://dev.to/winter_grady_3d8fc370f968/toolbox-pro-thousands-of-free-online-tools-all-in-one-efficient-web-toolkit-4kgg)
+- [Server-Sent Events in .NET 10: Finally, a Native Solution](https://dev.to/mashrulhaque/server-sent-events-in-net-10-finally-a-native-solution-22kg)
+- [Building a University Resource Sharing Platform: My Laravel Learning Journey](https://dev.to/nelson_orina_a538ba52e9ed/building-a-university-resource-sharing-platform-my-laravel-learning-journey-579l)
+- [GQLoom Evaluation Report](https://dev.to/xcfox/gqloom-evaluation-report-b6j)
 <!-- BLOG-POST-LIST:END -->
 
