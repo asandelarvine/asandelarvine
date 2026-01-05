@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Photo2cartoon model by Minivision-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-photo2cartoon-model-by-minivision-ai-on-replicate-19m4)
-- [A beginner&#39;s guide to the Hand-Refiner model by Camenduru on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-hand-refiner-model-by-camenduru-on-replicate-2h0g)
-- [A beginner&#39;s guide to the Noobai-Xl model by Delta-Lock on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-noobai-xl-model-by-delta-lock-on-replicate-12ig)
-- [A beginner&#39;s guide to the Colorize-Line-Art model by Camenduru on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-colorize-line-art-model-by-camenduru-on-replicate-m42)
+- [A beginner&#39;s guide to the Sdxl-Controlnet-Lora model by Fermatresearch on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-sdxl-controlnet-lora-model-by-fermatresearch-on-replicate-4e9b)
+- [FluentDocs: Keep Docs Accurate as Code Evolves](https://dev.to/tammibriggs/fluentdocs-keep-docs-accurate-as-code-evolves-12f6)
+- [A beginner&#39;s guide to the Force-Align-Wordstamps model by Cureau on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-force-align-wordstamps-model-by-cureau-on-replicate-5b12)
+- [A beginner&#39;s guide to the Flux-Schnell-Lora model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-schnell-lora-model-by-lucataco-on-replicate-3f6j)
 <!-- BLOG-POST-LIST:END -->
 
