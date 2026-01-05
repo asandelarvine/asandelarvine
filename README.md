@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing with AI Assistance](https://dev.to/burvestorylab/writing-with-ai-assistance-4fj5)
-- [Meta-Prompting: Prompts That Write Prompts](https://dev.to/gantz/meta-prompting-prompts-that-write-prompts-2218)
-- [You Don&#39;t Have to Test All of Your Code...](https://dev.to/aws-builders/you-dont-have-to-test-all-of-your-code-m97)
-- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
+- [Kubernetes as a Control System: Beyond Orchestration, Towards Autonomy](https://dev.to/mohammed_27c42362d82e94dd/kubernetes-as-a-control-system-beyond-orchestration-towards-autonomy-3j3h)
+- [Building a Batch Data Pipeline on AWS](https://dev.to/jessica_tiwari_dec39541e2/building-a-batch-data-pipeline-on-aws-2fkb)
+- [Nano Banana Pro vs Olio: A Real Battle Silicon Valley Didn’t See Coming](https://dev.to/tashfia_a8008e6a542/nano-banana-pro-vs-olio-a-real-battle-silicon-valley-didnt-see-coming-19og)
+- [A fully local Mailtrap style inbox for Laravel](https://dev.to/raffi001/a-fully-local-mailtrap-style-inbox-for-laravel-1c64)
 <!-- BLOG-POST-LIST:END -->
 
