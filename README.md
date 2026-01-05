@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been building AI document processing systems for insurance companies for 3 years. Here&#39;s what actually works](https://dev.to/melek_messoussi_651bf64f4/ive-been-building-ai-document-processing-systems-for-insurance-companies-for-3-years-heres-what-18ea)
-- [Faster Isn’t Safer: Why Over-Rotating IPs Trips Anti-Bot Systems](https://dev.to/anna_6c67c00f5c3f53660978/faster-isnt-safer-why-over-rotating-ips-trips-anti-bot-systems-5d6o)
-- [The Hidden 31-Hour Monthly Tax on Your Business &lpar;And How to Eliminate It for Free&rpar;](https://dev.to/tracksimple/the-hidden-31-hour-monthly-tax-on-your-business-and-how-to-eliminate-it-for-free-5g2j)
-- [[Boost]](https://dev.to/devush/-4j3b)
+- [Benchmarking EF Core LINQ, Dapper Raw SQL, and Stored Procedures in .NET: A Real-World Performance Comparison &lpar;2026&rpar;](https://dev.to/mina_golzari_dalir/benchmarking-ef-core-linq-dapper-raw-sql-and-stored-procedures-in-net-a-real-world-performance-54e4)
+- [Build Your Own Local AI Agent &lpar;Part 2&rpar;: The SQLite Analyst](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-2-the-sqlite-analyst-24oc)
+- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
+- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
 <!-- BLOG-POST-LIST:END -->
 
