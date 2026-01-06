@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Brain–Computer Interfaces Enter the Era of Mass Production: A Technical Breakdown of Neuralink’s 2026 Roadmap](https://dev.to/apnews/when-brain-computer-interfaces-enter-the-era-of-mass-production-a-technical-breakdown-of-18ci)
-- [😲 Most People Don’t Know You Can Log In by Copying a Password Hash 🔐 &lpar;And Why It’s NOT a Bug&rpar;](https://dev.to/bharat_solanke_8e45411fa6/most-people-dont-know-you-can-log-in-by-copying-a-password-hash-and-why-its-not-a-bug-2ljg)
-- [eBPF Tutorial by Example: BPF Arena for Zero-Copy Shared Memory](https://dev.to/yunwei37/ebpf-tutorial-by-example-bpf-arena-for-zero-copy-shared-memory-nf)
-- [I made a fast, structured PDF extractor for RAG; 300 pages a second](https://dev.to/intercepted16/i-made-a-fast-structured-pdf-extractor-for-rag-300-pages-a-second-34d1)
+- [MoonShine 4: AI-Powered Admin Panel Revolution](https://dev.to/cutcode/moonshine-4-ai-powered-admin-panel-revolution-43h9)
+- [Cache Purge on Cloudflare for C# Applications](https://dev.to/alexisfranorge/cache-purge-on-cloudflare-for-c-applications-h0i)
+- [CSS-only Mario World &lpar;with keyboard!&rpar;](https://dev.to/nelson_deneiva_40efb3bba/css-only-mario-world-with-keyboard-3nbd)
+- [Solved: Recommendations on Hosting Platform, Realtor website](https://dev.to/techresolve/solved-recommendations-on-hosting-platform-realtor-website-2nhi)
 <!-- BLOG-POST-LIST:END -->
 
