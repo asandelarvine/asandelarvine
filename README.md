@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaflet Location Picker with Address Autocomplete, Geolocation, and Draggable Pin with Geoapify](https://dev.to/geoapify-maps-api/leaflet-location-picker-with-address-autocomplete-geolocation-and-draggable-pin-with-geoapify-1gfa)
-- [When Clients &amp; Students Ask Is Web Development Dead?](https://dev.to/jamal_ahmad_1f68678ca8253/when-clients-students-ask-is-web-development-dead-ng0)
-- [SVAR Gantt 2.4: A Free, Modern Gantt Chart for React &amp; Svelte](https://dev.to/olga_tash/svar-gantt-24-a-free-modern-gantt-chart-for-react-svelte-2e07)
-- [Solidity Basics &lpar;Part 2&rpar; — Arrays, Mappings &amp; Structs &lpar;Upgrading the Web3 Journey Logger&rpar;](https://dev.to/ribhavmodi/solidity-basics-part-2-arrays-mappings-structs-upgrading-the-web3-journey-logger-n4d)
+- [Why being smart isn&#39;t enough for agentic AI](https://dev.to/ailnk0/why-being-smart-isnt-enough-for-agentic-ai-54mb)
+- [Ruby 4.0 New Features Explained for Modern Applications](https://dev.to/devang18/ruby-40-new-features-explained-for-modern-applications-4lbf)
+- [Building a Production-Ready AI Loan Prediction System: A 15-Day Journey](https://dev.to/oluwatobiloba_olatunji_c1/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-36i4)
+- [Performance Tuning MCP Integrations: A Developer&#39;s Survival Guide](https://dev.to/manonaga2188/performance-tuning-mcp-integrations-a-developers-survival-guide-4043)
 <!-- BLOG-POST-LIST:END -->
 
