@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
-- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
-- [Dart Server-Side in 2026: An Introduction to Dart Frog 🐸](https://dev.to/techwithsam/dart-server-side-in-2026-an-introduction-to-dart-frog-4ib3)
-- [Implementing a swipeable component using the Animated API](https://dev.to/paulo_s/swipeable-component-with-the-animated-api-4hef)
+- [Mockmate — TypeScript-first mock data generator](https://dev.to/monokkai/mockmate-typescript-first-mock-data-generator-4emk)
+- [Deploying Machine Learning Applications with Render: A Data Scientist’s Guide](https://dev.to/techkene/deploying-machine-learning-applications-with-render-a-data-scientists-guide-1jhh)
+- [Advanced TypeScript Patterns: Type-Safe Code That Scales](https://dev.to/sepehr/advanced-typescript-patterns-type-safe-code-that-scales-4fhn)
+- [Stateless vs Stateful Services](https://dev.to/speaklouder/stateless-vs-stateful-services-3o7l)
 <!-- BLOG-POST-LIST:END -->
 
