@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;LLMs Can Do Everything&quot;: Autopsy of a Myth](https://dev.to/mickael__andrieu/llms-can-do-everything-autopsy-of-a-myth-2ika)
-- [SwiftUI #12: Vista &quot;Color&quot;](https://dev.to/david_goyes_a488f58a17a53/swiftui-12-vista-color-6k7)
-- [Add Document Properties in Word Documents with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/add-document-properties-in-word-documents-with-java-1nic)
-- [Building an AI-Powered Customer Sentiment Analysis Tool for SMBs](https://dev.to/ben_stone_5608b8e2d9f8973/building-an-ai-powered-customer-sentiment-analysis-tool-for-smbs-1ego)
+- [🔥 Laravel Query Gate v1.2.0 is AWESOME](https://dev.to/jeffsynister/laravel-query-gate-v120-is-awesome-11jj)
+- [AI automation with C++ and Python](https://dev.to/jcsacramento_9861ebc9b26/ai-automation-with-c-and-python-2b52)
+- [Beyond if &lpar;stock &gt; 0&rpar;: Handling Race Conditions in High-Traffic E-Commerce Systems](https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481)
+- [Agent Discovery eXchange &lpar;AX&rpar;](https://dev.to/pseudyx/agent-discovery-exchange-ax-148o)
 <!-- BLOG-POST-LIST:END -->
 
