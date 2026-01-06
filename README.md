@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI That Doesn&#39;t Lose Its Mind: A Universal Architecture for Stable Memory Systems](https://dev.to/aleksandr_kossarev_e23623/building-ai-that-doesnt-lose-its-mind-a-universal-architecture-for-stable-memory-systems-3naf)
-- [Day 10: Storing Financial Data in DynamoDB with Python &lpar;Boto3&rpar;.](https://dev.to/ericrodriguez10/day-10-storing-financial-data-in-dynamodb-with-python-boto3-5bgg)
-- [How the Android Boot Process Works on Embedded SBCs](https://dev.to/jasonliu112/how-the-android-boot-process-works-on-embedded-sbcs-24c2)
-- [AI Democratization Killing Strategic Advantage: Fix It Now](https://dev.to/dr_hernani_costa/ai-democratization-killing-strategic-advantage-fix-it-now-4b81)
+- [Why I Built mlship: One Tool for All ML Frameworks](https://dev.to/peshwar/why-i-built-mlship-one-tool-for-all-ml-frameworks-222k)
+- [Trial License Implementation Patterns in C#: A Technical Deep Dive](https://dev.to/olivier_moussalli_e3492f5/trial-license-implementation-patterns-in-c-a-technical-deep-dive-338l)
+- [Using Amazon Bedrock with AWS Free Tier for the 10,000 AIdeas Competition 🛠️](https://dev.to/aws/using-amazon-bedrock-with-aws-free-tier-for-the-10000-aideas-competition-554f)
+- [How I Built a Zodiac Compatibility API with Node.js, Express and MongoDB](https://dev.to/romulusjustinianus/how-i-built-a-zodiac-compatibility-api-with-nodejs-express-and-mongodb-5e3n)
 <!-- BLOG-POST-LIST:END -->
 
