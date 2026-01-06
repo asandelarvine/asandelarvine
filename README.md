@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge Practice - Question 96](https://dev.to/tomivan/coding-challenge-practice-question-96-32dm)
-- [AI-generated code will choke delivery pipelines](https://dev.to/srvaroa/ai-generated-code-will-choke-delivery-pipelines-3pnn)
-- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
-- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
+- [THE SKETCH](https://dev.to/lisa_girlinghouse_5124a19/the-sketch-47o6)
+- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
+- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
+- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
 <!-- BLOG-POST-LIST:END -->
 
