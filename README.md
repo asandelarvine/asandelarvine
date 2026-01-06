@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Electric Border Effect Actually Works](https://dev.to/behnam_azimi_9335d5b42517/how-the-electric-border-effect-actually-works-31k8)
-- [Sutton &amp; Barto Gridworld example in C#](https://dev.to/davide_lettieri_a99c7dd29/sutton-barto-gridworld-example-in-c-3pgn)
-- [Exploiting Unvalidated Redirects for XSS](https://dev.to/this-is-learning/exploiting-unvalidated-redirects-for-xss-ai)
-- [Is Codewars Worth It in 2025? An Honest Review](https://dev.to/alex_hunter_44f4c9ed6671e/is-codewars-worth-it-in-2025-an-honest-review-1jj3)
+- [Building AI That Doesn&#39;t Lose Its Mind: A Universal Architecture for Stable Memory Systems](https://dev.to/aleksandr_kossarev_e23623/building-ai-that-doesnt-lose-its-mind-a-universal-architecture-for-stable-memory-systems-3naf)
+- [Day 10: Storing Financial Data in DynamoDB with Python &lpar;Boto3&rpar;.](https://dev.to/ericrodriguez10/day-10-storing-financial-data-in-dynamodb-with-python-boto3-5bgg)
+- [How the Android Boot Process Works on Embedded SBCs](https://dev.to/jasonliu112/how-the-android-boot-process-works-on-embedded-sbcs-24c2)
+- [AI Democratization Killing Strategic Advantage: Fix It Now](https://dev.to/dr_hernani_costa/ai-democratization-killing-strategic-advantage-fix-it-now-4b81)
 <!-- BLOG-POST-LIST:END -->
 
