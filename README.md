@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [THE SKETCH](https://dev.to/lisa_girlinghouse_5124a19/the-sketch-47o6)
-- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
-- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
-- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
+- [Stop Pasting Secrets into AI Chat - Use AI-Safe Credentials Instead](https://dev.to/forest6511_23bcd0a045b1ff/stop-pasting-secrets-into-ai-chat-use-ai-safe-credentials-instead-3h6h)
+- [Why Most Telecom APIs Fail Before the First Developer Uses Them](https://dev.to/telcoedgeinc/why-most-telecom-apis-fail-before-the-first-developer-uses-them-5634)
+- [I Tested GLM-4.7 for Two Weeks—Here&#39;s What Actually Matters](https://dev.to/sohails07/i-tested-glm-47-for-two-weeks-heres-what-actually-matters-37ld)
+- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
 <!-- BLOG-POST-LIST:END -->
 
