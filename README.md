@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Data Workflows Work: AI-Driven Automation for Reliable Enterprise Pipelines](https://dev.to/arbisoftcompany/making-data-workflows-work-ai-driven-automation-for-reliable-enterprise-pipelines-3752)
-- [How to Build an AI Agent Using Modern Agent Builders](https://dev.to/yeahiasarker/how-to-build-an-ai-agent-using-modern-agent-builders-g9f)
-- [Akshayakalpa App Referral Code &quot;AK1229852R&quot; Get 250Rs Cashback](https://dev.to/referralcode24/akshayakalpa-app-referral-code-ak1229852r-get-250rs-cashback-39dl)
-- [Claude Opus 4.5 Is Not Just Another AI Model — Here’s Why It Matters](https://dev.to/vasughanta09/claude-opus-45-is-not-just-another-ai-model-heres-why-it-matters-5466)
+- [Files: Metadata, Headers, and Extensions — How Computers Really Understand Your Data](https://dev.to/cristiansifuentes/files-metadata-headers-and-extensions-how-computers-really-understand-your-data-50en)
+- [So I&#39;ve been losing my mind over document extraction in insurance for the past few years](https://dev.to/melek_messoussi_651bf64f4/so-ive-been-losing-my-mind-over-document-extraction-in-insurance-for-the-past-few-years-16pn)
+- [Developer Toolkit Pro](https://dev.to/zntb/developer-toolkit-pro-5db2)
+- [Permissions, Process Levels, and Execution Privileges](https://dev.to/cristiansifuentes/permissions-process-levels-and-execution-privileges-21pa)
 <!-- BLOG-POST-LIST:END -->
 
