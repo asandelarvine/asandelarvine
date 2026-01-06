@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why being smart isn&#39;t enough for agentic AI](https://dev.to/ailnk0/why-being-smart-isnt-enough-for-agentic-ai-54mb)
-- [Ruby 4.0 New Features Explained for Modern Applications](https://dev.to/devang18/ruby-40-new-features-explained-for-modern-applications-4lbf)
-- [Building a Production-Ready AI Loan Prediction System: A 15-Day Journey](https://dev.to/oluwatobiloba_olatunji_c1/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-36i4)
-- [Performance Tuning MCP Integrations: A Developer&#39;s Survival Guide](https://dev.to/manonaga2188/performance-tuning-mcp-integrations-a-developers-survival-guide-4043)
+- [Making Data Workflows Work: AI-Driven Automation for Reliable Enterprise Pipelines](https://dev.to/arbisoftcompany/making-data-workflows-work-ai-driven-automation-for-reliable-enterprise-pipelines-3752)
+- [How to Build an AI Agent Using Modern Agent Builders](https://dev.to/yeahiasarker/how-to-build-an-ai-agent-using-modern-agent-builders-g9f)
+- [Akshayakalpa App Referral Code &quot;AK1229852R&quot; Get 250Rs Cashback](https://dev.to/referralcode24/akshayakalpa-app-referral-code-ak1229852r-get-250rs-cashback-39dl)
+- [Claude Opus 4.5 Is Not Just Another AI Model — Here’s Why It Matters](https://dev.to/vasughanta09/claude-opus-45-is-not-just-another-ai-model-heres-why-it-matters-5466)
 <!-- BLOG-POST-LIST:END -->
 
