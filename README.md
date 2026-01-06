@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Files: Metadata, Headers, and Extensions — How Computers Really Understand Your Data](https://dev.to/cristiansifuentes/files-metadata-headers-and-extensions-how-computers-really-understand-your-data-50en)
-- [So I&#39;ve been losing my mind over document extraction in insurance for the past few years](https://dev.to/melek_messoussi_651bf64f4/so-ive-been-losing-my-mind-over-document-extraction-in-insurance-for-the-past-few-years-16pn)
-- [Developer Toolkit Pro](https://dev.to/zntb/developer-toolkit-pro-5db2)
-- [Permissions, Process Levels, and Execution Privileges](https://dev.to/cristiansifuentes/permissions-process-levels-and-execution-privileges-21pa)
+- [The Secret Life of JavaScript: Illusions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-illusions-1e2m)
+- [5 Small LLMs to Run Locally: Cost &amp; Compliance Guide](https://dev.to/dr_hernani_costa/5-small-llms-to-run-locally-cost-compliance-guide-1lk6)
+- [How Serverless &amp; Community Can Transform Your Career](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
+- [Tutorial: Bridging Fiat and Crypto in Your dApp with On-Chain IBANs](https://dev.to/jackcarroll/tutorial-bridging-fiat-and-crypto-in-your-dapp-with-on-chain-ibans-45e0)
 <!-- BLOG-POST-LIST:END -->
 
