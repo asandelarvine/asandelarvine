@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Pasting Secrets into AI Chat - Use AI-Safe Credentials Instead](https://dev.to/forest6511_23bcd0a045b1ff/stop-pasting-secrets-into-ai-chat-use-ai-safe-credentials-instead-3h6h)
-- [Why Most Telecom APIs Fail Before the First Developer Uses Them](https://dev.to/telcoedgeinc/why-most-telecom-apis-fail-before-the-first-developer-uses-them-5634)
-- [I Tested GLM-4.7 for Two Weeks—Here&#39;s What Actually Matters](https://dev.to/sohails07/i-tested-glm-47-for-two-weeks-heres-what-actually-matters-37ld)
-- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
+- [🛠 Fixing `Undefined property: TwilioSmsMessage::$contentVariables` in Laravel &lpar;Twilio Notifications&rpar;](https://dev.to/ayowandeapp/fixing-undefined-property-twiliosmsmessagecontentvariables-in-laravel-twilio-notifications-13k4)
+- [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
+- [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
+- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
 <!-- BLOG-POST-LIST:END -->
 
