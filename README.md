@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A2UI Introduction](https://dev.to/czmilo/a2ui-introduction-jb2)
-- [Sum of Left Leaves: Coding Problem Explained](https://dev.to/stack_overflowed/sum-of-left-leaves-coding-problem-explained-i56)
-- [The A2UI Protocol: A 2026 Complete Guide to Agent-Driven Interfaces](https://dev.to/czmilo/the-a2ui-protocol-a-2026-complete-guide-to-agent-driven-interfaces-2l3c)
-- [Planning a Road Trip Through Albemarle County? Here’s Why Local Stops Matter](https://dev.to/nencywilliams/planning-a-road-trip-through-albemarle-county-heres-why-local-stops-matter-2ha1)
+- [XM Partner Code &quot;4BW9T&quot; Get 20% Off on Trading Fees](https://dev.to/referralcode233/xm-partner-code-4bw9t-get-20-off-on-trading-fees-147o)
+- [10 Cool CodePen Demos &lpar;December 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-december-2025-213g)
+- [How to Evaluate ML Models Step by Step](https://dev.to/codeneuron/how-to-evaluate-ml-models-step-by-step-66o)
+- [2026 Web Dev Trends That Actually Matter](https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520)
 <!-- BLOG-POST-LIST:END -->
 
