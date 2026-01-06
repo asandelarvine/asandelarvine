@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MoonShine 4: AI-Powered Admin Panel Revolution](https://dev.to/cutcode/moonshine-4-ai-powered-admin-panel-revolution-43h9)
-- [Cache Purge on Cloudflare for C# Applications](https://dev.to/alexisfranorge/cache-purge-on-cloudflare-for-c-applications-h0i)
-- [CSS-only Mario World &lpar;with keyboard!&rpar;](https://dev.to/nelson_deneiva_40efb3bba/css-only-mario-world-with-keyboard-3nbd)
-- [Solved: Recommendations on Hosting Platform, Realtor website](https://dev.to/techresolve/solved-recommendations-on-hosting-platform-realtor-website-2nhi)
+- [Leaflet Location Picker with Address Autocomplete, Geolocation, and Draggable Pin with Geoapify](https://dev.to/geoapify-maps-api/leaflet-location-picker-with-address-autocomplete-geolocation-and-draggable-pin-with-geoapify-1gfa)
+- [When Clients &amp; Students Ask Is Web Development Dead?](https://dev.to/jamal_ahmad_1f68678ca8253/when-clients-students-ask-is-web-development-dead-ng0)
+- [SVAR Gantt 2.4: A Free, Modern Gantt Chart for React &amp; Svelte](https://dev.to/olga_tash/svar-gantt-24-a-free-modern-gantt-chart-for-react-svelte-2e07)
+- [Solidity Basics &lpar;Part 2&rpar; — Arrays, Mappings &amp; Structs &lpar;Upgrading the Web3 Journey Logger&rpar;](https://dev.to/ribhavmodi/solidity-basics-part-2-arrays-mappings-structs-upgrading-the-web3-journey-logger-n4d)
 <!-- BLOG-POST-LIST:END -->
 
