@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Laravel Query Gate v1.2.0 is AWESOME](https://dev.to/jeffsynister/laravel-query-gate-v120-is-awesome-11jj)
-- [AI automation with C++ and Python](https://dev.to/jcsacramento_9861ebc9b26/ai-automation-with-c-and-python-2b52)
-- [Beyond if &lpar;stock &gt; 0&rpar;: Handling Race Conditions in High-Traffic E-Commerce Systems](https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481)
-- [Agent Discovery eXchange &lpar;AX&rpar;](https://dev.to/pseudyx/agent-discovery-exchange-ax-148o)
+- [A2UI Introduction](https://dev.to/czmilo/a2ui-introduction-jb2)
+- [Sum of Left Leaves: Coding Problem Explained](https://dev.to/stack_overflowed/sum-of-left-leaves-coding-problem-explained-i56)
+- [The A2UI Protocol: A 2026 Complete Guide to Agent-Driven Interfaces](https://dev.to/czmilo/the-a2ui-protocol-a-2026-complete-guide-to-agent-driven-interfaces-2l3c)
+- [Planning a Road Trip Through Albemarle County? Here’s Why Local Stops Matter](https://dev.to/nencywilliams/planning-a-road-trip-through-albemarle-county-heres-why-local-stops-matter-2ha1)
 <!-- BLOG-POST-LIST:END -->
 
