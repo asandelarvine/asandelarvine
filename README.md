@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: Illusions](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-illusions-1e2m)
-- [5 Small LLMs to Run Locally: Cost &amp; Compliance Guide](https://dev.to/dr_hernani_costa/5-small-llms-to-run-locally-cost-compliance-guide-1lk6)
-- [How Serverless &amp; Community Can Transform Your Career](https://dev.to/aws-builders/how-serverless-community-can-transform-your-career-26h5)
-- [Tutorial: Bridging Fiat and Crypto in Your dApp with On-Chain IBANs](https://dev.to/jackcarroll/tutorial-bridging-fiat-and-crypto-in-your-dapp-with-on-chain-ibans-45e0)
+- [How the Electric Border Effect Actually Works](https://dev.to/behnam_azimi_9335d5b42517/how-the-electric-border-effect-actually-works-31k8)
+- [Sutton &amp; Barto Gridworld example in C#](https://dev.to/davide_lettieri_a99c7dd29/sutton-barto-gridworld-example-in-c-3pgn)
+- [Exploiting Unvalidated Redirects for XSS](https://dev.to/this-is-learning/exploiting-unvalidated-redirects-for-xss-ai)
+- [Is Codewars Worth It in 2025? An Honest Review](https://dev.to/alex_hunter_44f4c9ed6671e/is-codewars-worth-it-in-2025-an-honest-review-1jj3)
 <!-- BLOG-POST-LIST:END -->
 
