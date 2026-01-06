@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The RGB LED Sidequest 💡](https://dev.to/sigje/the-rgb-led-sidequest-4519)
-- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
-- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
-- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
+- [&quot;LLMs Can Do Everything&quot;: Autopsy of a Myth](https://dev.to/mickael__andrieu/llms-can-do-everything-autopsy-of-a-myth-2ika)
+- [SwiftUI #12: Vista &quot;Color&quot;](https://dev.to/david_goyes_a488f58a17a53/swiftui-12-vista-color-6k7)
+- [Add Document Properties in Word Documents with Java](https://dev.to/lu_liu_e3fc806354d9a952b7/add-document-properties-in-word-documents-with-java-1nic)
+- [Building an AI-Powered Customer Sentiment Analysis Tool for SMBs](https://dev.to/ben_stone_5608b8e2d9f8973/building-an-ai-powered-customer-sentiment-analysis-tool-for-smbs-1ego)
 <!-- BLOG-POST-LIST:END -->
 
