@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mockmate — TypeScript-first mock data generator](https://dev.to/monokkai/mockmate-typescript-first-mock-data-generator-4emk)
-- [Deploying Machine Learning Applications with Render: A Data Scientist’s Guide](https://dev.to/techkene/deploying-machine-learning-applications-with-render-a-data-scientists-guide-1jhh)
-- [Advanced TypeScript Patterns: Type-Safe Code That Scales](https://dev.to/sepehr/advanced-typescript-patterns-type-safe-code-that-scales-4fhn)
-- [Stateless vs Stateful Services](https://dev.to/speaklouder/stateless-vs-stateful-services-3o7l)
+- [Coding Challenge Practice - Question 96](https://dev.to/tomivan/coding-challenge-practice-question-96-32dm)
+- [AI-generated code will choke delivery pipelines](https://dev.to/srvaroa/ai-generated-code-will-choke-delivery-pipelines-3pnn)
+- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
+- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
 <!-- BLOG-POST-LIST:END -->
 
