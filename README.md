@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Hopes and Goals](https://dev.to/aaronmccollum/2026-hopes-and-goals-6lf)
-- [7 Best Resources to Learn Cloud Computing in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-cloud-computing-in-2026-3l63)
-- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
-- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
+- [React Native Linking: The Simple Guide to Protocols](https://dev.to/abdullah_nasir/react-native-linking-the-simple-guide-to-protocols-2lob)
+- [AAoM-01: Pug Template Engine](https://dev.to/milky2018/aaom-01-pug-template-engine-11ka)
+- [Introduction to Agentic Adventures of MoonBit](https://dev.to/milky2018/introduction-to-agentic-adventures-of-moonbit-1pgi)
+- [AI Cost Management: Turning the Financial Ghost into a Wish-Granting Genie](https://dev.to/yaseen_tech/ai-cost-management-turning-the-financial-ghost-into-a-wish-granting-genie-gng)
 <!-- BLOG-POST-LIST:END -->
 
