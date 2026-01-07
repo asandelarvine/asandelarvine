@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppetlabs Modules Roundup – December 2025](https://dev.to/puppet/puppetlabs-modules-roundup-december-2025-4e5h)
-- [Flat Rate Website Acceleration Tools for Agencies](https://dev.to/biancarus/flat-rate-website-acceleration-tools-for-agencies-30ii)
-- [URGENT Survey | $15 + Bonus](https://dev.to/_19586fa8d50b6948b7962/urgent-survey-15-bonus-2gek)
-- [Application security: thinking backwards](https://dev.to/vardan_matevosian_tech/application-security-thinking-backwards-2756)
+- [A Metaclass Architecture for Encryption: Keys as Algorithm Generators](https://dev.to/hejhdiss/a-metaclass-architecture-for-encryption-keys-as-algorithm-generators-145o)
+- [Why Does Your Angular Component State Reset When You Move It? A Deep Dive into CDK Portals](https://dev.to/codewithrajat/why-does-your-angular-component-state-reset-when-you-move-it-a-deep-dive-into-cdk-portals-3g1k)
+- [Stop forgetting your work: I built an AI Career Tracker &lpar;GitHub + Jira + Voice&rpar;](https://dev.to/winlanem/stop-forgetting-your-work-i-built-an-ai-career-tracker-github-jira-voice-325b)
+- [Angular: Custom Multi-File Translation Loader for ngx-translate](https://dev.to/gramli/angular-custom-multi-file-translation-loader-for-ngx-translate-2lcd)
 <!-- BLOG-POST-LIST:END -->
 
