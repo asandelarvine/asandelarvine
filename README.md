@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Shipping Your Dev Logs](https://dev.to/ahr_dev/stop-shipping-your-dev-logs-11h5)
-- [Building a Privacy-First Video to Audio Converter with FFmpeg.wasm](https://dev.to/xg_fei_e836667012d8841d03/building-a-privacy-first-video-to-audio-converter-with-ffmpegwasm-1kd0)
-- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
-- [Windows vs Linux - Which Operating System Should You Choose?](https://dev.to/kathirvel_8d2560e13901c2d/windows-vs-linux-which-operating-system-should-you-choose-p9o)
+- [Understand Resources For Billing, Budget, and Cost Management](https://dev.to/aws-builders/understand-resources-for-billing-budget-and-cost-management-3g6a)
+- [How Boris Cherny, Builder of Claude Code, Uses It — And Why That Should Change How You Think About AI](https://dev.to/with_attitude/how-boris-cherny-builder-of-claude-code-uses-it-and-why-that-should-change-how-you-think-about-173g)
+- [I built an auth backend for my own app — then tried selling it to see if it works](https://dev.to/sanctum/i-built-an-auth-backend-for-my-own-app-then-tried-selling-it-to-see-if-it-works-39ap)
+- [Motia: make backend development boring &lpar;and that&#39;s the point&rpar;](https://dev.to/marcin_codes/motia-make-backend-development-boring-and-thats-the-point-3afj)
 <!-- BLOG-POST-LIST:END -->
 
