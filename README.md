@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3 - Production-Ready C#: Resource Management, Testing &amp; Telemetry, Security &amp; Reliability](https://dev.to/k5tar/part-3-production-ready-c-resource-management-testing-telemetry-security-reliability-4oma)
-- [Part 2 - Performance &amp; Concurrency Essentials in C#: Memory, Async, and High-Performance Primitives](https://dev.to/k5tar/part-2-performance-concurrency-essentials-in-c-memory-async-and-high-performance-primitives-5afe)
-- [Part 1 - Core Foundations for Enterprise C#: OOP &amp; SOLID, Clean Architecture, and Type Semantics](https://dev.to/k5tar/part-1-core-foundations-for-enterprise-c-oop-solid-clean-architecture-and-type-semantics-1aka)
-- [How to Build Your First AI Agent Deploy it to Sevalla](https://dev.to/manishmshiva/how-to-build-your-first-ai-agent-deploy-it-to-sevalla-2hm6)
+- [Puppetlabs Modules Roundup – December 2025](https://dev.to/puppet/puppetlabs-modules-roundup-december-2025-4e5h)
+- [Flat Rate Website Acceleration Tools for Agencies](https://dev.to/biancarus/flat-rate-website-acceleration-tools-for-agencies-30ii)
+- [URGENT Survey | $15 + Bonus](https://dev.to/_19586fa8d50b6948b7962/urgent-survey-15-bonus-2gek)
+- [Application security: thinking backwards](https://dev.to/vardan_matevosian_tech/application-security-thinking-backwards-2756)
 <!-- BLOG-POST-LIST:END -->
 
