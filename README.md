@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture Made Simple: A Koin DI Walkthrough for Android](https://dev.to/supriya_shah_1e9c3df6158c/clean-architecture-made-simple-a-koin-di-walkthrough-for-android-154a)
-- [Honeypot Fields: Bot Protection That&#39;s Free and Takes 5 Minutes](https://dev.to/alexisfranorge/honeypot-fields-bot-protection-thats-free-and-takes-5-minutes-2eid)
-- [ngx-vflow 2.0 Is Here and SignalTree 7.x Just Landed](https://dev.to/daisy_jones_21bdcc6b40f9d/ngx-vflow-20-is-here-and-signaltree-7x-just-landed-107p)
-- [Finally, the difference between print&lpar;&rpar; and return just clicked for me](https://dev.to/wassim_touir/finally-the-difference-between-print-and-return-just-clicked-for-me-3kgb)
+- [Identify Services From Other In-Scope AWS Service Categories](https://dev.to/aws-builders/identify-services-from-other-in-scope-aws-service-categories-1ll3)
+- [AI時代に手動APIテストが破綻する理由10選](https://dev.to/nakamura_takuya/aishi-dai-nishou-dong-apitesutogapo-zhan-suruli-you-10xuan-2p6m)
+- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
+- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
 <!-- BLOG-POST-LIST:END -->
 
