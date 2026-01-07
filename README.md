@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Trading Instrument APIs: Fetching and Managing Symbols in Python](https://dev.to/emily19980210/understanding-trading-instrument-apis-fetching-and-managing-symbols-in-python-5dbh)
-- [I Am 38, I Am a Nurse, and I Have Always Wanted to Learn Coding](https://dev.to/rustypea/i-am-38-i-am-a-nurse-and-i-have-always-wanted-to-learn-coding-2375)
-- [Why Autonomous AI Agents are the Future of DevOps in 2026](https://dev.to/karol_81a50ed396508bcffd7/why-autonomous-ai-agents-are-the-future-of-devops-in-2026-2dha)
-- [Your Codebase Needs OSHA](https://dev.to/junothreadborne/your-codebase-needs-osha-2oa0)
+- [I built a JSON diff tool in a single HTML file &lpar;no build step&rpar;](https://dev.to/jon_za/i-built-a-json-diff-tool-in-a-single-html-file-no-build-step-1438)
+- [I Built an AI Creative Director: Automating FB Ad Gen with GPT-4o Vision &amp; Structured Outputs](https://dev.to/iloven8n/i-built-an-ai-creative-director-automating-fb-ad-gen-with-gpt-4o-vision-structured-outputs-4g5c)
+- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
+- [Preventable Danger in Plain Sight: Gabriel Jarret Calls for Fire Safety Reform in Southern California Rentals](https://dev.to/gabrieljarret/preventable-danger-in-plain-sight-gabriel-jarret-calls-for-fire-safety-reform-in-southern-14ep)
 <!-- BLOG-POST-LIST:END -->
 
