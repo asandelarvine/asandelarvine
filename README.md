@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Small Visual Studio Extension Reached 79,000+ Installs](https://dev.to/shemeerns/how-a-small-visual-studio-extension-reached-79000-installs-2p70)
-- [Solved: Since when does Notion have heading 4?](https://dev.to/techresolve/solved-since-when-does-notion-have-heading-4-15ko)
-- [Typique — A zero-runtime CSS-in-TS library that doesn’t fight RSC](https://dev.to/alekseiberezkin/typique-a-zero-runtime-css-in-ts-library-that-doesnt-fight-rsc-273e)
-- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
+- [Clean Architecture Made Simple: A Koin DI Walkthrough for Android](https://dev.to/supriya_shah_1e9c3df6158c/clean-architecture-made-simple-a-koin-di-walkthrough-for-android-154a)
+- [Honeypot Fields: Bot Protection That&#39;s Free and Takes 5 Minutes](https://dev.to/alexisfranorge/honeypot-fields-bot-protection-thats-free-and-takes-5-minutes-2eid)
+- [ngx-vflow 2.0 Is Here and SignalTree 7.x Just Landed](https://dev.to/daisy_jones_21bdcc6b40f9d/ngx-vflow-20-is-here-and-signaltree-7x-just-landed-107p)
+- [Finally, the difference between print&lpar;&rpar; and return just clicked for me](https://dev.to/wassim_touir/finally-the-difference-between-print-and-return-just-clicked-for-me-3kgb)
 <!-- BLOG-POST-LIST:END -->
 
