@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Bitmasks for Role-Based Permissions: Stop Querying Your Database](https://dev.to/digitaldrreamer/using-bitmasks-for-role-based-permissions-stop-querying-your-database-34pn)
-- [Bitmask Operations: The Math You Skipped &lpar;And Why It Matters&rpar;](https://dev.to/digitaldrreamer/bitmask-operations-the-math-you-skipped-and-why-it-matters-5gp2)
-- [SRDD &lpar;Part 1 of 4&rpar; - The Best AI Coding Methodology](https://dev.to/bbos/srdd-part-1-of-4-the-best-ai-coding-methodology-8fe)
-- [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
+- [Understanding Trading Instrument APIs: Fetching and Managing Symbols in Python](https://dev.to/emily19980210/understanding-trading-instrument-apis-fetching-and-managing-symbols-in-python-5dbh)
+- [I Am 38, I Am a Nurse, and I Have Always Wanted to Learn Coding](https://dev.to/rustypea/i-am-38-i-am-a-nurse-and-i-have-always-wanted-to-learn-coding-2375)
+- [Why Autonomous AI Agents are the Future of DevOps in 2026](https://dev.to/karol_81a50ed396508bcffd7/why-autonomous-ai-agents-are-the-future-of-devops-in-2026-2dha)
+- [Your Codebase Needs OSHA](https://dev.to/junothreadborne/your-codebase-needs-osha-2oa0)
 <!-- BLOG-POST-LIST:END -->
 
