@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passkey Login &amp; Smart Wallet Creation on Solana with React Native and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-react-native-and-lazorkit-no-more-seed-49gk)
-- [Educative vs AlgoMonster: I Compared Both for 30 Days &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/educative-vs-algomonster-i-compared-both-for-30-days-2026-4089)
-- [Full-Stack Development in 2026](https://dev.to/cyrustse/full-stack-development-in-2026-5c46)
-- [My Dashboard](https://dev.to/endykaufman/my-dashboard-3onm)
+- [Stop Shipping Your Dev Logs](https://dev.to/ahr_dev/stop-shipping-your-dev-logs-11h5)
+- [Building a Privacy-First Video to Audio Converter with FFmpeg.wasm](https://dev.to/xg_fei_e836667012d8841d03/building-a-privacy-first-video-to-audio-converter-with-ffmpegwasm-1kd0)
+- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
+- [Windows vs Linux - Which Operating System Should You Choose?](https://dev.to/kathirvel_8d2560e13901c2d/windows-vs-linux-which-operating-system-should-you-choose-p9o)
 <!-- BLOG-POST-LIST:END -->
 
