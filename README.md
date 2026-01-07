@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand Resources For Billing, Budget, and Cost Management](https://dev.to/aws-builders/understand-resources-for-billing-budget-and-cost-management-3g6a)
-- [How Boris Cherny, Builder of Claude Code, Uses It — And Why That Should Change How You Think About AI](https://dev.to/with_attitude/how-boris-cherny-builder-of-claude-code-uses-it-and-why-that-should-change-how-you-think-about-173g)
-- [I built an auth backend for my own app — then tried selling it to see if it works](https://dev.to/sanctum/i-built-an-auth-backend-for-my-own-app-then-tried-selling-it-to-see-if-it-works-39ap)
-- [Motia: make backend development boring &lpar;and that&#39;s the point&rpar;](https://dev.to/marcin_codes/motia-make-backend-development-boring-and-thats-the-point-3afj)
+- [DDSS: Step-by-Step Explanation](https://dev.to/ekemini_thompson/ddss-step-by-step-explanation-3ade)
+- [Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases](https://dev.to/abhirockzz/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases-29if)
+- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
+- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
 <!-- BLOG-POST-LIST:END -->
 
