@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extended Thinking: How to Make Claude Actually Think Before It Answers](https://dev.to/rajeshroyal/extended-thinking-how-to-make-claude-actually-think-before-it-answers-33po)
-- [COBOL in the 21st Century: The Invisible Engine](https://dev.to/sanal_sukamo/cobol-in-the-21st-century-the-invisible-engine-1g1m)
-- [I Built an App After Getting Catfished 3 Times](https://dev.to/arsene_muyenlee_b6090d8d/i-built-an-app-after-getting-catfished-3-times-1mbp)
-- [Concurrency Control and Database Recovery in SQLite](https://dev.to/lovestaco/concurrency-control-and-database-recovery-in-sqlite-2pmo)
+- [Wrote a new article!](https://dev.to/johannesjo/wrote-a-new-article-1ph5)
+- [The Missing Link: Triggering Serverless Events from Legacy Databases with AWS DMS](https://dev.to/khaldoun488/the-missing-link-triggering-serverless-events-from-legacy-databases-with-aws-dms-10l4)
+- [What to Do While Waiting for AI Code Assistants](https://dev.to/johannesjo/what-to-do-while-waiting-for-ai-code-assistants-4ok9)
+- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
 <!-- BLOG-POST-LIST:END -->
 
