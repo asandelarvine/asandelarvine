@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wrote a new article!](https://dev.to/johannesjo/wrote-a-new-article-1ph5)
-- [The Missing Link: Triggering Serverless Events from Legacy Databases with AWS DMS](https://dev.to/khaldoun488/the-missing-link-triggering-serverless-events-from-legacy-databases-with-aws-dms-10l4)
-- [What to Do While Waiting for AI Code Assistants](https://dev.to/johannesjo/what-to-do-while-waiting-for-ai-code-assistants-4ok9)
-- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
+- [Midweek Elevate: Raise the Baseline](https://dev.to/mzghosty/midweek-elevate-raise-the-baseline-21f5)
+- [Ethereum-Solidity Quiz Q16: What is impermanent loss?](https://dev.to/mihaihng/ethereum-solidity-quiz-q16-what-is-impermanent-loss-4di0)
+- [The Ultimate ServiceNow CIS-DF &lpar;Data Foundations&rpar; Exam Cheat Sheet](https://dev.to/bren67/the-ultimate-servicenow-cis-df-data-foundations-exam-cheat-sheet-38en)
+- [https://jawramblog.blogspot.com/2024/08/chatgpt.html?m=1&amp;zx=9c2bddc08300f85c](https://dev.to/jawad_artisteikisse_7385/httpsjawramblogblogspotcom202408chatgpthtmlm1zx9c2bddc08300f85c-53nm)
 <!-- BLOG-POST-LIST:END -->
 
