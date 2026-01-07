@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify Services From Other In-Scope AWS Service Categories](https://dev.to/aws-builders/identify-services-from-other-in-scope-aws-service-categories-1ll3)
-- [AI時代に手動APIテストが破綻する理由10選](https://dev.to/nakamura_takuya/aishi-dai-nishou-dong-apitesutogapo-zhan-suruli-you-10xuan-2p6m)
-- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
-- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
+- [How I Built a SEO-Optimized FLAMES Calculator using Vanilla JS](https://dev.to/aabhijit108/how-i-built-a-seo-optimized-flames-calculator-using-vanilla-js-3ckf)
+- [# How APIs Work: A Friendly Dive into Real-Time Magic](https://dev.to/vasughanta09/-how-apis-work-a-friendly-dive-into-real-time-magic-3d2n)
+- [The Conformity Gate Phenomenon: Exploration of Fan Theories Following the Stranger Things Season 5 Finale](https://dev.to/om_shree_0709/the-conformity-gate-phenomenon-exploration-of-fan-theories-following-the-stranger-things-season-5-fia)
+- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
 <!-- BLOG-POST-LIST:END -->
 
