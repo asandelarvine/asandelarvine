@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
-- [Researching with AI: How I Created a Detailed Report on the Global Impact of AI in Education with Gemini&#39;s Deep Research](https://dev.to/datalaria/researching-with-ai-how-i-created-a-detailed-report-on-the-global-impact-of-ai-in-education-with-29jg)
-- [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
-- [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
+- [Craft and Control Resource Pools on MSSQL](https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci)
+- [SwiftUI #20: Prioridades](https://dev.to/david_goyes_a488f58a17a53/swiftui-20-prioridades-1lka)
+- [Kicking Off 2026: Expert Analysis from the World Cup Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-stage-12ab)
+- [Building a Fast File Transfer Tool, Part 2: Beating rsync by 58% with kTLS](https://dev.to/vincentdu2021/building-a-fast-file-transfer-tool-part-2-beating-rsync-by-58-with-ktls-1hob)
 <!-- BLOG-POST-LIST:END -->
 
