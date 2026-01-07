@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a JSON diff tool in a single HTML file &lpar;no build step&rpar;](https://dev.to/jon_za/i-built-a-json-diff-tool-in-a-single-html-file-no-build-step-1438)
-- [I Built an AI Creative Director: Automating FB Ad Gen with GPT-4o Vision &amp; Structured Outputs](https://dev.to/iloven8n/i-built-an-ai-creative-director-automating-fb-ad-gen-with-gpt-4o-vision-structured-outputs-4g5c)
-- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
-- [Preventable Danger in Plain Sight: Gabriel Jarret Calls for Fire Safety Reform in Southern California Rentals](https://dev.to/gabrieljarret/preventable-danger-in-plain-sight-gabriel-jarret-calls-for-fire-safety-reform-in-southern-14ep)
+- [2026 Hopes and Goals](https://dev.to/aaronmccollum/2026-hopes-and-goals-6lf)
+- [7 Best Resources to Learn Cloud Computing in 2026](https://dev.to/stack_overflowed/7-best-resources-to-learn-cloud-computing-in-2026-3l63)
+- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
+- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
 <!-- BLOG-POST-LIST:END -->
 
