@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Metaclass Architecture for Encryption: Keys as Algorithm Generators](https://dev.to/hejhdiss/a-metaclass-architecture-for-encryption-keys-as-algorithm-generators-145o)
-- [Why Does Your Angular Component State Reset When You Move It? A Deep Dive into CDK Portals](https://dev.to/codewithrajat/why-does-your-angular-component-state-reset-when-you-move-it-a-deep-dive-into-cdk-portals-3g1k)
-- [Stop forgetting your work: I built an AI Career Tracker &lpar;GitHub + Jira + Voice&rpar;](https://dev.to/winlanem/stop-forgetting-your-work-i-built-an-ai-career-tracker-github-jira-voice-325b)
-- [Angular: Custom Multi-File Translation Loader for ngx-translate](https://dev.to/gramli/angular-custom-multi-file-translation-loader-for-ngx-translate-2lcd)
+- [Passkey Login &amp; Smart Wallet Creation on Solana with React Native and LazorKit — No More Seed Phrases!](https://dev.to/xavier_script/passkey-login-smart-wallet-creation-on-solana-with-react-native-and-lazorkit-no-more-seed-49gk)
+- [Educative vs AlgoMonster: I Compared Both for 30 Days &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/educative-vs-algomonster-i-compared-both-for-30-days-2026-4089)
+- [Full-Stack Development in 2026](https://dev.to/cyrustse/full-stack-development-in-2026-5c46)
+- [My Dashboard](https://dev.to/endykaufman/my-dashboard-3onm)
 <!-- BLOG-POST-LIST:END -->
 
