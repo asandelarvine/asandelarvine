@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Linking: The Simple Guide to Protocols](https://dev.to/abdullah_nasir/react-native-linking-the-simple-guide-to-protocols-2lob)
-- [AAoM-01: Pug Template Engine](https://dev.to/milky2018/aaom-01-pug-template-engine-11ka)
-- [Introduction to Agentic Adventures of MoonBit](https://dev.to/milky2018/introduction-to-agentic-adventures-of-moonbit-1pgi)
-- [AI Cost Management: Turning the Financial Ghost into a Wish-Granting Genie](https://dev.to/yaseen_tech/ai-cost-management-turning-the-financial-ghost-into-a-wish-granting-genie-gng)
+- [How a Small Visual Studio Extension Reached 79,000+ Installs](https://dev.to/shemeerns/how-a-small-visual-studio-extension-reached-79000-installs-2p70)
+- [Solved: Since when does Notion have heading 4?](https://dev.to/techresolve/solved-since-when-does-notion-have-heading-4-15ko)
+- [Typique — A zero-runtime CSS-in-TS library that doesn’t fight RSC](https://dev.to/alekseiberezkin/typique-a-zero-runtime-css-in-ts-library-that-doesnt-fight-rsc-273e)
+- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
 <!-- BLOG-POST-LIST:END -->
 
