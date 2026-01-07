@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DDSS: Step-by-Step Explanation](https://dev.to/ekemini_thompson/ddss-step-by-step-explanation-3ade)
-- [Build AI Tooling in Go with the MCP SDK – Connecting AI Apps to Databases](https://dev.to/abhirockzz/build-ai-tooling-in-go-with-the-mcp-sdk-connecting-ai-apps-to-databases-29if)
-- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
-- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
+- [Extended Thinking: How to Make Claude Actually Think Before It Answers](https://dev.to/rajeshroyal/extended-thinking-how-to-make-claude-actually-think-before-it-answers-33po)
+- [COBOL in the 21st Century: The Invisible Engine](https://dev.to/sanal_sukamo/cobol-in-the-21st-century-the-invisible-engine-1g1m)
+- [I Built an App After Getting Catfished 3 Times](https://dev.to/arsene_muyenlee_b6090d8d/i-built-an-app-after-getting-catfished-3-times-1mbp)
+- [Concurrency Control and Database Recovery in SQLite](https://dev.to/lovestaco/concurrency-control-and-database-recovery-in-sqlite-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
