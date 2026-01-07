@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Midweek Elevate: Raise the Baseline](https://dev.to/mzghosty/midweek-elevate-raise-the-baseline-21f5)
-- [Ethereum-Solidity Quiz Q16: What is impermanent loss?](https://dev.to/mihaihng/ethereum-solidity-quiz-q16-what-is-impermanent-loss-4di0)
-- [The Ultimate ServiceNow CIS-DF &lpar;Data Foundations&rpar; Exam Cheat Sheet](https://dev.to/bren67/the-ultimate-servicenow-cis-df-data-foundations-exam-cheat-sheet-38en)
-- [https://jawramblog.blogspot.com/2024/08/chatgpt.html?m=1&amp;zx=9c2bddc08300f85c](https://dev.to/jawad_artisteikisse_7385/httpsjawramblogblogspotcom202408chatgpthtmlm1zx9c2bddc08300f85c-53nm)
+- [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
+- [Researching with AI: How I Created a Detailed Report on the Global Impact of AI in Education with Gemini&#39;s Deep Research](https://dev.to/datalaria/researching-with-ai-how-i-created-a-detailed-report-on-the-global-impact-of-ai-in-education-with-29jg)
+- [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
+- [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
 <!-- BLOG-POST-LIST:END -->
 
