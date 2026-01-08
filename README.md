@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a permanent text wall. Someone is already stuck in Vim.](https://dev.to/zenomhunter123/i-built-a-permanent-text-wall-someone-is-already-stuck-in-vim-3h1m)
-- [Day Three with SQL: Inserting Data, Querying Smarter, and Working with Real Datasets](https://dev.to/mazinocodes/day-three-with-sql-inserting-data-querying-smarter-and-working-with-real-datasets-2l3n)
-- [Everyone&#39;s Generating Videos; I Calculated What AI Video Actually Costs in 2026](https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag)
-- [SwiftUI #21: Groups](https://dev.to/david_goyes_a488f58a17a53/swiftui-21-groups-3cma)
+- [I built a permanent text wall with Next.js and Supabase. Users are already fighting.](https://dev.to/zenomhunter123/i-built-a-permanent-text-wall-with-nextjs-and-supabase-users-are-already-fighting-5264)
+- [LivinGrimoire Skill Tree](https://dev.to/owly/livingrimoire-skill-tree-5de7)
+- [Why Most AI Coding Sessions Fail &lpar;And How to Fix It&rpar;](https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1)
+- [What is a Vector Space in Machine Learning? &lpar;With Math and Intuition&rpar;](https://dev.to/aws-builders/what-is-a-vector-space-in-machine-learning-with-math-and-intuition-ajm)
 <!-- BLOG-POST-LIST:END -->
 
