@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Iterando lo recursivo](https://dev.to/baltasarq/iterando-lo-recursivo-4d45)
-- [10 AWS Production Incidents That Taught Me Real-World SRE](https://dev.to/muhammad_yawar_malik/10-aws-production-incidents-that-taught-me-real-world-sre-38l2)
-- [Day-30 Kubernetes Networking Decoded: Why We Need Ingress and Ingress Controllers](https://dev.to/jayanth_dasari_7/day-30-kubernetes-networking-decoded-why-we-need-ingress-and-ingress-controllers-4kep)
-- [Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts](https://dev.to/robert_r_7c237256b7614328/browser-based-kubectl-access-managing-kubernetes-without-bastion-hosts-1b4a)
+- [Best AI Diagramming Tools for Developers in 2026](https://dev.to/dashin_pro/best-ai-diagramming-tools-for-developers-in-2026-3ni3)
+- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
+- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
+- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
 <!-- BLOG-POST-LIST:END -->
 
