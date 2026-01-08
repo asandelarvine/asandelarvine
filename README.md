@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing HTTP Tracker Plus: Request Capture form Browser](https://dev.to/devded/introducing-http-tracker-plus-request-capture-form-browser-4lob)
-- [I Built a Google Autocomplete Keyword Tool in Python &lpar;Source Code Included&rpar;](https://dev.to/matetechnologie/i-built-a-google-autocomplete-keyword-tool-in-python-source-code-included-2die)
-- [Rethinking AI from First Principles](https://dev.to/nicetrywiseguy_c07dd904bb/rethinking-ai-from-first-principles-3ij4)
-- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2)
+- [My sudden episode to keep my virtualenv in check](https://dev.to/benji011/my-sudden-episode-to-keep-my-virtualenv-in-check-3ah2)
+- [Why Traditional API Gateways Fail at AI Governance &lpar;And What Actually Works&rpar;](https://dev.to/debmckinney/why-traditional-api-gateways-fail-at-ai-governance-and-what-actually-works-go2)
+- [Using AWS App Runner to build &amp; host my website](https://dev.to/muash10/using-aws-app-runner-for-hosting-my-website-1875)
+- [Pointer Arithmetic: Traversing Memory without an Index](https://dev.to/ujjawal0711/pointer-arithmetic-traversing-memory-without-an-index-1j6b)
 <!-- BLOG-POST-LIST:END -->
 
