@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an actual companion right in your IDE.](https://dev.to/karaniph/i-built-an-actual-companion-right-in-your-ide-32l4)
-- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
-- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
-- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
+- [How to Crack Any Software Developer Interview in 2026 &lpar;Updated for AI &amp; Modern Hiring&rpar;](https://dev.to/finalroundai/how-to-crack-any-software-developer-interview-in-2026-updated-for-ai-modern-hiring-4ih8)
+- [Creando mi &#39;Navaja Suiza&#39; Digital: Un Conversor de Unidades a Medida con la IA](https://dev.to/datalaria/creando-mi-navaja-suiza-digital-un-conversor-de-unidades-a-medida-con-la-ia-1mb1)
+- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0)
+- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp)
 <!-- BLOG-POST-LIST:END -->
 
