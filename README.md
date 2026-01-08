@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mebularts: A tiny Turkish fake data generator for tests &lpar;names, phones, addresses, user-agents&rpar;](https://dev.to/mebularts/mebularts-a-tiny-turkish-fake-data-generator-for-tests-names-phones-addresses-user-agents-dj8)
-- [How to Get Better at LeetCode: 10 Tips That Actually Work &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-get-better-at-leetcode-10-tips-that-actually-work-2026-5dim)
-- [I Built a CLI Tool to Make Git Worktree Enjoyable](https://dev.to/kexi/i-built-a-cli-tool-to-make-git-worktree-enjoyable-4fh3)
-- [AWS Lambda and AWS Glue Python Shell in the Context of Lightweight ETL](https://dev.to/aws-builders/aws-lambda-and-aws-glue-python-shell-in-the-context-of-lightweight-etl-3ao5)
+- [TypeScript Generics in React Components.](https://dev.to/egorovsa/typescript-generics-in-react-components-5ej)
+- [CSS Grid + Flexbox Mastery: Build Responsive UIs Faster](https://dev.to/thebitforge/css-grid-flexbox-mastery-build-responsive-uis-faster-27kn)
+- [How do you build serious features using only VS Code’s public APIs?](https://dev.to/getpochi/how-do-you-build-serious-features-using-only-vs-codes-public-apis-3d6b)
+- [How Do You Handle Orchestration in Apigee X Using ServiceCallout &amp; FlowCallout?](https://dev.to/realnamehidden1_61/how-do-you-handle-orchestration-in-apigee-x-using-servicecallout-flowcallout-24ff)
 <!-- BLOG-POST-LIST:END -->
 
