@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
-- [How to Change Operating System in a Virtual Machine](https://dev.to/vpswala123/how-to-change-operating-system-in-a-virtual-machine-2ii9)
-- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
-- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
+- [Stop Redeploying Just to Change a Config Value](https://dev.to/tilyupo/stop-redeploying-just-to-change-a-config-value-2egb)
+- [Angular Version 21 eStore + Shopping Cart Prototype](https://dev.to/lstanikmas/angular-version-21-estore-shopping-cart-prototype-30ce)
+- [Why email journaling works when apps never did &lpar;and why I built DailyInk&rpar;](https://dev.to/code_guru/why-email-journaling-works-when-apps-never-did-and-why-i-built-dailyink-3klh)
+- [How I Used GitLab Duo Agent Platorm to Build a Conference Demo in under an hour](https://dev.to/shivaylamba/how-i-used-gitlab-duo-agent-platorm-to-build-a-conference-demo-in-under-an-hour-1c88)
 <!-- BLOG-POST-LIST:END -->
 
