@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From PostgreSQL to Redis: How We Reduced Authentication Latency by 98% in Production](https://dev.to/dipankar_sethi_8d61e16fb1/from-postgresql-to-redis-how-we-reduced-authentication-latency-by-98-in-production-3kn0)
-- [Building Persistent Memory for Voice AI Agents with MongoDB](https://dev.to/mongodb/building-persistent-memory-for-voice-ai-agents-with-mongodb-1obe)
-- [Building with Background Removal APIs: Why Cost Matters &lpar;And How to Save 95%&rpar;](https://dev.to/tamnv/building-with-background-removal-apis-why-cost-matters-and-how-to-save-95-11ce)
-- [Assertion Blocks in Voiden](https://dev.to/dhruv2038/assertion-blocks-in-voiden-fhm)
+- [I Struggled with LeetCode for Months Until I Learned These 6 Patterns 🎯](https://dev.to/rajat128/i-struggled-with-leetcode-for-months-until-i-learned-these-6-patterns-3lo9)
+- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
+- [لماذا نعتقد: كيف يمكننا تحسين قدرة النماذج على التفكير](https://dev.to/mohamedshabanai/lmdh-ntqd-kyf-ymknn-thsyn-qdr-lnmdhj-l-ltfkyr-103i)
+- [The 7 Best Developer Portals for Enterprise Teams in 2025](https://dev.to/luciench/the-7-best-developer-portals-for-enterprise-teams-in-2025-4kgj)
 <!-- BLOG-POST-LIST:END -->
 
