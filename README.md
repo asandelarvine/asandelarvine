@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI that detects your mood while coding &lpar;Locally in VS Code&rpar; 🧠✨](https://dev.to/freerave/i-built-an-ai-that-detects-your-mood-while-coding-locally-in-vs-code-1dn6)
-- [C#.NET - day 06](https://dev.to/sabin_sim/cnet-day-06-dmg)
-- [What Happens Before the Event Loop. Part 1](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
-- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
+- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
+- [How to Change Operating System in a Virtual Machine](https://dev.to/vpswala123/how-to-change-operating-system-in-a-virtual-machine-2ii9)
+- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
+- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
 <!-- BLOG-POST-LIST:END -->
 
