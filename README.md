@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding DLCM: A Deep Dive into Its Core Architecture and the Power of Causal Encoding](https://dev.to/mehrcodeland/understanding-dlcm-a-deep-dive-into-its-core-architecture-and-the-power-of-causal-encoding-4dc8)
-- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
-- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
-- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
+- [IBM C1000-058 Certification: MQ V9.1 Administrator Guide](https://dev.to/lesternphillips/ibm-c1000-058-certification-mq-v91-administrator-guide-8gf)
+- [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
+- [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
+- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
 <!-- BLOG-POST-LIST:END -->
 
