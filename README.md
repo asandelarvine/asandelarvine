@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧗‍♂️Beginner-Friendly Guide &#39;Max Dot Product of Two Subsequences&#39; – LeetCode 1458 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-max-dot-product-of-two-subsequences-leetcode-1458-c-python-2mgf)
-- [COOLIFY : THE DEPLOYMENT ARBITRAGE RECLAIMING STARTUP RUNWAY FROM VERCEL](https://dev.to/_aparna_pradhan_/coolify-the-deployment-arbitrage-reclaiming-startup-runway-from-vercel-3be9)
-- [How LLM use MCPs?](https://dev.to/hiteshchawla/how-llm-use-mcps-4mp2)
-- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
+- [From PostgreSQL to Redis: How We Reduced Authentication Latency by 98% in Production](https://dev.to/dipankar_sethi_8d61e16fb1/from-postgresql-to-redis-how-we-reduced-authentication-latency-by-98-in-production-3kn0)
+- [Building Persistent Memory for Voice AI Agents with MongoDB](https://dev.to/mongodb/building-persistent-memory-for-voice-ai-agents-with-mongodb-1obe)
+- [Building with Background Removal APIs: Why Cost Matters &lpar;And How to Save 95%&rpar;](https://dev.to/tamnv/building-with-background-removal-apis-why-cost-matters-and-how-to-save-95-11ce)
+- [Assertion Blocks in Voiden](https://dev.to/dhruv2038/assertion-blocks-in-voiden-fhm)
 <!-- BLOG-POST-LIST:END -->
 
