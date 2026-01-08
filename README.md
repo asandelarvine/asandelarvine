@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Cisco Packet Tracer Lab Collection](https://dev.to/akkaraponph/cisco-packet-tracer-lab-collection-2m17)
-- [How My Company Automate Meeting Notes to Jira](https://dev.to/aatechother/how-my-company-automate-meeting-notes-to-jira-4o6f)
-- [Beyond Manual Audits: Building an Autonomous AI Clinical Compliance Auditor](https://dev.to/exploredataaiml/beyond-manual-audits-building-an-autonomous-ai-clinical-compliance-auditor-2abl)
-- [Implementing Real-Time Streaming with VAPI: Enhancing Customer Support with Voice AI](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-enhancing-customer-support-with-voice-ai-182l)
+- [I built an actual companion right in your IDE.](https://dev.to/karaniph/i-built-an-actual-companion-right-in-your-ide-32l4)
+- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
+- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
+- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
 <!-- BLOG-POST-LIST:END -->
 
