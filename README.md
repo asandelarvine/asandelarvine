@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Generics in React Components.](https://dev.to/egorovsa/typescript-generics-in-react-components-5ej)
-- [CSS Grid + Flexbox Mastery: Build Responsive UIs Faster](https://dev.to/thebitforge/css-grid-flexbox-mastery-build-responsive-uis-faster-27kn)
-- [How do you build serious features using only VS Code’s public APIs?](https://dev.to/getpochi/how-do-you-build-serious-features-using-only-vs-codes-public-apis-3d6b)
-- [How Do You Handle Orchestration in Apigee X Using ServiceCallout &amp; FlowCallout?](https://dev.to/realnamehidden1_61/how-do-you-handle-orchestration-in-apigee-x-using-servicecallout-flowcallout-24ff)
+- [Iterando lo recursivo](https://dev.to/baltasarq/iterando-lo-recursivo-4d45)
+- [10 AWS Production Incidents That Taught Me Real-World SRE](https://dev.to/muhammad_yawar_malik/10-aws-production-incidents-that-taught-me-real-world-sre-38l2)
+- [Day-30 Kubernetes Networking Decoded: Why We Need Ingress and Ingress Controllers](https://dev.to/jayanth_dasari_7/day-30-kubernetes-networking-decoded-why-we-need-ingress-and-ingress-controllers-4kep)
+- [Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts](https://dev.to/robert_r_7c237256b7614328/browser-based-kubectl-access-managing-kubernetes-without-bastion-hosts-1b4a)
 <!-- BLOG-POST-LIST:END -->
 
