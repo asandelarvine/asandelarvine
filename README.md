@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Redeploying Just to Change a Config Value](https://dev.to/tilyupo/stop-redeploying-just-to-change-a-config-value-2egb)
-- [Angular Version 21 eStore + Shopping Cart Prototype](https://dev.to/lstanikmas/angular-version-21-estore-shopping-cart-prototype-30ce)
-- [Why email journaling works when apps never did &lpar;and why I built DailyInk&rpar;](https://dev.to/code_guru/why-email-journaling-works-when-apps-never-did-and-why-i-built-dailyink-3klh)
-- [How I Used GitLab Duo Agent Platorm to Build a Conference Demo in under an hour](https://dev.to/shivaylamba/how-i-used-gitlab-duo-agent-platorm-to-build-a-conference-demo-in-under-an-hour-1c88)
+- [Output format enforcement for agents: JSON schema or it didn’t happen](https://dev.to/dowhatmatters/output-format-enforcement-for-agents-json-schema-or-it-didnt-happen-1pbi)
+- [New Python Courseware for Early-Career CS Students](https://dev.to/jcasman/new-python-courseware-for-early-career-cs-students-2e81)
+- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
+- [Introdução ao Deploy](https://dev.to/yuripeixinho/introducao-ao-deploy-2a07)
 <!-- BLOG-POST-LIST:END -->
 
