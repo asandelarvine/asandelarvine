@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Diagramming Tools for Developers in 2026](https://dev.to/dashin_pro/best-ai-diagramming-tools-for-developers-in-2026-3ni3)
-- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
-- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
-- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
+- [Kubernetes Debugging in 3 Passi: logs, describe, events](https://dev.to/scape/kubernetes-debugging-in-3-passi-logs-describe-events-1562)
+- [Virtual Private Cloud Spiegato Semplice](https://dev.to/scape/virtual-private-cloud-spiegato-semplice-3c9h)
+- [Never Lose Your Work: Session Management That Saves Your Sanity](https://dev.to/rajeshroyal/never-lose-your-work-session-management-that-saves-your-sanity-4dp8)
+- [Old School Tech: How to Animate The Classic DVD Logo Bouncing 📀📐](https://dev.to/thormeier/old-school-tech-how-to-animate-the-classic-dvd-logo-bouncing-11d9)
 <!-- BLOG-POST-LIST:END -->
 
