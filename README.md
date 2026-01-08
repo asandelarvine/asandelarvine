@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Debugging in 3 Passi: logs, describe, events](https://dev.to/scape/kubernetes-debugging-in-3-passi-logs-describe-events-1562)
-- [Virtual Private Cloud Spiegato Semplice](https://dev.to/scape/virtual-private-cloud-spiegato-semplice-3c9h)
-- [Never Lose Your Work: Session Management That Saves Your Sanity](https://dev.to/rajeshroyal/never-lose-your-work-session-management-that-saves-your-sanity-4dp8)
-- [Old School Tech: How to Animate The Classic DVD Logo Bouncing 📀📐](https://dev.to/thormeier/old-school-tech-how-to-animate-the-classic-dvd-logo-bouncing-11d9)
+- [How I Reduced Docker Setup Time from 8 Hours to 5 Minutes](https://dev.to/penuel_mdluli_bc27cc2c8fe/how-i-reduced-docker-setup-time-from-8-hours-to-5-minutes-133p)
+- [Is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
+- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
+- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
 <!-- BLOG-POST-LIST:END -->
 
