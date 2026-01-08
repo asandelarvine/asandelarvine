@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced Docker Setup Time from 8 Hours to 5 Minutes](https://dev.to/penuel_mdluli_bc27cc2c8fe/how-i-reduced-docker-setup-time-from-8-hours-to-5-minutes-133p)
-- [Is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
-- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
-- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
+- [I built an AI that detects your mood while coding &lpar;Locally in VS Code&rpar; 🧠✨](https://dev.to/freerave/i-built-an-ai-that-detects-your-mood-while-coding-locally-in-vs-code-1dn6)
+- [C#.NET - day 06](https://dev.to/sabin_sim/cnet-day-06-dmg)
+- [What Happens Before the Event Loop. Part 1](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
+- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
 <!-- BLOG-POST-LIST:END -->
 
