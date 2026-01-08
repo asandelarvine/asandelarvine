@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a permanent text wall with Next.js and Supabase. Users are already fighting.](https://dev.to/zenomhunter123/i-built-a-permanent-text-wall-with-nextjs-and-supabase-users-are-already-fighting-5264)
-- [LivinGrimoire Skill Tree](https://dev.to/owly/livingrimoire-skill-tree-5de7)
-- [Why Most AI Coding Sessions Fail &lpar;And How to Fix It&rpar;](https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1)
-- [What is a Vector Space in Machine Learning? &lpar;With Math and Intuition&rpar;](https://dev.to/aws-builders/what-is-a-vector-space-in-machine-learning-with-math-and-intuition-ajm)
+- [🌐 Cisco Packet Tracer Lab Collection](https://dev.to/akkaraponph/cisco-packet-tracer-lab-collection-2m17)
+- [How My Company Automate Meeting Notes to Jira](https://dev.to/aatechother/how-my-company-automate-meeting-notes-to-jira-4o6f)
+- [Beyond Manual Audits: Building an Autonomous AI Clinical Compliance Auditor](https://dev.to/exploredataaiml/beyond-manual-audits-building-an-autonomous-ai-clinical-compliance-auditor-2abl)
+- [Implementing Real-Time Streaming with VAPI: Enhancing Customer Support with Voice AI](https://dev.to/callstacktech/implementing-real-time-streaming-with-vapi-enhancing-customer-support-with-voice-ai-182l)
 <!-- BLOG-POST-LIST:END -->
 
