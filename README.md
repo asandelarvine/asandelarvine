@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM C1000-058 Certification: MQ V9.1 Administrator Guide](https://dev.to/lesternphillips/ibm-c1000-058-certification-mq-v91-administrator-guide-8gf)
-- [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
-- [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
-- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
+- [Introducing HTTP Tracker Plus: Request Capture form Browser](https://dev.to/devded/introducing-http-tracker-plus-request-capture-form-browser-4lob)
+- [I Built a Google Autocomplete Keyword Tool in Python &lpar;Source Code Included&rpar;](https://dev.to/matetechnologie/i-built-a-google-autocomplete-keyword-tool-in-python-source-code-included-2die)
+- [Rethinking AI from First Principles](https://dev.to/nicetrywiseguy_c07dd904bb/rethinking-ai-from-first-principles-3ij4)
+- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2)
 <!-- BLOG-POST-LIST:END -->
 
