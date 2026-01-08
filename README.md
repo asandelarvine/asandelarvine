@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My sudden episode to keep my virtualenv in check](https://dev.to/benji011/my-sudden-episode-to-keep-my-virtualenv-in-check-3ah2)
-- [Why Traditional API Gateways Fail at AI Governance &lpar;And What Actually Works&rpar;](https://dev.to/debmckinney/why-traditional-api-gateways-fail-at-ai-governance-and-what-actually-works-go2)
-- [Using AWS App Runner to build &amp; host my website](https://dev.to/muash10/using-aws-app-runner-for-hosting-my-website-1875)
-- [Pointer Arithmetic: Traversing Memory without an Index](https://dev.to/ujjawal0711/pointer-arithmetic-traversing-memory-without-an-index-1j6b)
+- [mebularts: A tiny Turkish fake data generator for tests &lpar;names, phones, addresses, user-agents&rpar;](https://dev.to/mebularts/mebularts-a-tiny-turkish-fake-data-generator-for-tests-names-phones-addresses-user-agents-dj8)
+- [How to Get Better at LeetCode: 10 Tips That Actually Work &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-get-better-at-leetcode-10-tips-that-actually-work-2026-5dim)
+- [I Built a CLI Tool to Make Git Worktree Enjoyable](https://dev.to/kexi/i-built-a-cli-tool-to-make-git-worktree-enjoyable-4fh3)
+- [AWS Lambda and AWS Glue Python Shell in the Context of Lightweight ETL](https://dev.to/aws-builders/aws-lambda-and-aws-glue-python-shell-in-the-context-of-lightweight-etl-3ao5)
 <!-- BLOG-POST-LIST:END -->
 
