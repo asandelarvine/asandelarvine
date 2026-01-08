@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Struggled with LeetCode for Months Until I Learned These 6 Patterns 🎯](https://dev.to/rajat128/i-struggled-with-leetcode-for-months-until-i-learned-these-6-patterns-3lo9)
-- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
-- [لماذا نعتقد: كيف يمكننا تحسين قدرة النماذج على التفكير](https://dev.to/mohamedshabanai/lmdh-ntqd-kyf-ymknn-thsyn-qdr-lnmdhj-l-ltfkyr-103i)
-- [The 7 Best Developer Portals for Enterprise Teams in 2025](https://dev.to/luciench/the-7-best-developer-portals-for-enterprise-teams-in-2025-4kgj)
+- [Understanding DLCM: A Deep Dive into Its Core Architecture and the Power of Causal Encoding](https://dev.to/mehrcodeland/understanding-dlcm-a-deep-dive-into-its-core-architecture-and-the-power-of-causal-encoding-4dc8)
+- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
+- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
+- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
 <!-- BLOG-POST-LIST:END -->
 
