@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Accidentally Zipping Build Artifacts? Try &quot;dnx zipsrc&quot;!](https://dev.to/j_sakamoto/tired-of-accidentally-zipping-build-artifacts-try-dnx-zipsrc-3304)
-- [F-Droid on ChromeOS: trying to get behind the road blocks](https://dev.to/tkuenneth/f-droid-on-chromeos-trying-to-get-behind-the-road-blocks-48f)
-- [De Localhost a Escala Global: Una Estrategia de Arquitectura AWS para Emprendedores en Latinoamérica](https://dev.to/csotelo/de-localhost-a-escala-global-una-estrategia-de-arquitectura-aws-para-emprendedores-en-latinoamerica-3e7i)
-- [Heineken: Why classic Java is right and YOU ARE WRONG](https://dev.to/rkeeves/heineken-why-classic-java-is-right-and-you-are-wrong-4774)
+- [$3,000 Prize Pool · Global Online Hackathon · Agent Infrastructure Tech Stack](https://dev.to/memu_ai/3000-prize-pool-global-online-hackathon-agent-infrastructure-tech-stack-2il5)
+- [Why Startups and IndieDevs Should Choose Monolith First, Lessons From My Micro-SaaS Project, For ...](https://dev.to/saber-amani/why-startups-and-indiedevs-should-choose-monolith-first-lessons-from-my-micro-saas-project-for--2epf)
+- [Summary of MapLibre User Group Japan Activities in 2025](https://dev.to/mug-jp/summary-of-maplibre-user-group-japan-activities-in-2025-p9h)
+- [How to Review AI‑Generated Solidity Like an Auditor &lpar;For Beginners&rpar;](https://dev.to/ribhavmodi/how-to-review-ai-generated-solidity-like-an-auditor-for-beginners-o30)
 <!-- BLOG-POST-LIST:END -->
 
