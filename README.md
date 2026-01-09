@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce: How to Build a Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
-- [Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance](https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0)
-- [What is cyber security and why is it important in today’s digital world?](https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3)
-- [Why I Went Back to Basics: What 20,000 XP on W3Schools Taught Me About Coding](https://dev.to/sandipyadav/why-i-went-back-to-basics-what-20000-xp-on-w3schools-taught-me-about-coding-576a)
+- [Get Rid of Excel and Use these I built simple and most effective habit tracking app](https://dev.to/dilippurohit47/get-rid-of-excel-and-use-these-i-built-simple-and-most-effective-habit-tracking-app-19k4)
+- [I started learning Electron, and this is what I learned so far](https://dev.to/prs-dev/i-started-learning-electron-and-this-is-what-i-learned-so-far-38b2)
+- [Please break Autodock](https://dev.to/mikesol/please-break-autodock-2lhh)
+- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
 <!-- BLOG-POST-LIST:END -->
 
