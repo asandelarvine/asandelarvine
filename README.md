@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [$3,000 Prize Pool · Global Online Hackathon · Agent Infrastructure Tech Stack](https://dev.to/memu_ai/3000-prize-pool-global-online-hackathon-agent-infrastructure-tech-stack-2il5)
-- [Why Startups and IndieDevs Should Choose Monolith First, Lessons From My Micro-SaaS Project, For ...](https://dev.to/saber-amani/why-startups-and-indiedevs-should-choose-monolith-first-lessons-from-my-micro-saas-project-for--2epf)
-- [Summary of MapLibre User Group Japan Activities in 2025](https://dev.to/mug-jp/summary-of-maplibre-user-group-japan-activities-in-2025-p9h)
-- [How to Review AI‑Generated Solidity Like an Auditor &lpar;For Beginners&rpar;](https://dev.to/ribhavmodi/how-to-review-ai-generated-solidity-like-an-auditor-for-beginners-o30)
+- [Implementing player/coach workflow with Kiro CLI subagents](https://dev.to/aws/implementing-playercoach-workflow-with-kiro-cli-subagents-2gf3)
+- [Orphaned EBS Volumes Costing You $$$?](https://dev.to/cloudwiseteam/orphaned-ebs-volumes-costing-you--1g7l)
+- [How to remove annotations from PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-remove-annotations-from-pdf-files-in-java-tutorial-2nn8)
+- [NEWBIE PROBLEM MOST FACE MAYBE](https://dev.to/gamer_king/newbie-problem-most-face-maybe-51h6)
 <!-- BLOG-POST-LIST:END -->
 
