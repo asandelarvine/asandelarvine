@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
-- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
-- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
-- [Cool Article on API Tools!!
-
-https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
+- [[Boost]](https://dev.to/elizabethfuentes12/-df3)
+- [AI Should Serve Society - Not Just Industry and Billionaires](https://dev.to/ramikronbi/ai-should-serve-society-not-just-industry-and-billionaires-37c9)
+- [How I Reduced Friction in My Studies Using AI, Rust, and Obsidian.](https://dev.to/gabriel_santos_fc57509a3c/how-i-reduced-friction-in-my-studies-using-ai-rust-and-obsidian-444d)
+- [Vector Databases &lpar;with OpenAI and Supabase&rpar; - Part 1](https://dev.to/shlokaguptaa/vector-databases-with-openai-and-supabase-1-4jco)
 <!-- BLOG-POST-LIST:END -->
 
