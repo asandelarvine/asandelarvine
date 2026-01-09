@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Models with the Microsoft Agent Framework](https://dev.to/willvelida/using-github-models-with-the-microsoft-agent-framework-ekd)
-- [Zero Egress Costs: How I Built P2P File Sharing with Cloudflare](https://dev.to/kiyoe/zero-egress-costs-how-i-built-p2p-file-sharing-with-cloudflare-4lhc)
-- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
-- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
+- [E-commerce: How to Build a Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
+- [Docker Kanvas Challenges Helm and Kustomize for Kubernetes Dominance](https://dev.to/latchudevops/docker-kanvas-challenges-helm-and-kustomize-for-kubernetes-dominance-2df0)
+- [What is cyber security and why is it important in today’s digital world?](https://dev.to/ridhima_b7f6c7cbeef40f3b8/what-is-cyber-security-and-why-is-it-important-in-todays-digital-world-3jp3)
+- [Why I Went Back to Basics: What 20,000 XP on W3Schools Taught Me About Coding](https://dev.to/sandipyadav/why-i-went-back-to-basics-what-20000-xp-on-w3schools-taught-me-about-coding-576a)
 <!-- BLOG-POST-LIST:END -->
 
