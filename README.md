@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading: Lesson Learned #121: Investment Strategy Audit - Honest Assessment &lpar;Jan 9, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-121-investment-strategy-audit-honest-assessment-jan-9-2026-4od3)
-- [The Backtesting Nightmare: When Data Size Kills Agility](https://dev.to/iseecodepeople/the-backtesting-nightmare-when-data-size-kills-agility-5cfo)
-- [Silent Plumbing Assistant – A Non-Conversational Retail Intelligence Agent](https://dev.to/venkatesh_prasanna_d/silent-plumbing-assistant-a-non-conversational-retail-intelligence-agent-37j0)
-- [Deploying Custom Voice Models in VAPI for E-commerce: Key Insights](https://dev.to/callstacktech/deploying-custom-voice-models-in-vapi-for-e-commerce-key-insights-4g)
+- [Using GitHub Models with the Microsoft Agent Framework](https://dev.to/willvelida/using-github-models-with-the-microsoft-agent-framework-ekd)
+- [Zero Egress Costs: How I Built P2P File Sharing with Cloudflare](https://dev.to/kiyoe/zero-egress-costs-how-i-built-p2p-file-sharing-with-cloudflare-4lhc)
+- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
 <!-- BLOG-POST-LIST:END -->
 
