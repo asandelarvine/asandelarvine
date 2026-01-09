@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Perpetual vs Subscription Licenses: Which Business Model Wins in 2026?](https://dev.to/olivier_moussalli_e3492f5/perpetual-vs-subscription-licenses-which-business-model-wins-in-2026-19nb)
-- [[Boost]](https://dev.to/rakeshv675/-3282)
-- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-50po)
-- [Let’s break down DNS: how your browser finds a website](https://dev.to/syedfazil/lets-break-down-dns-how-your-browser-finds-a-website-15lf)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 2/7: Create a Clerk Project](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-27-create-a-clerk-project-fg5)
+- [How I Built a Chrome Extension That Analyzes SEC Filings and Financial News in Seconds](https://dev.to/mayu2008/how-i-built-a-chrome-extension-that-analyzes-sec-filings-and-financial-news-in-seconds-1ldm)
+- [My First Anniversary at insightsoftware — A Year of Learning Real Software Engineering](https://dev.to/suvam_108/my-first-anniversary-at-insightsoftware-a-year-of-learning-real-software-engineering-6p5)
+- [Model Context Protocol &lpar;MCP&rpar; — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)
 <!-- BLOG-POST-LIST:END -->
 
