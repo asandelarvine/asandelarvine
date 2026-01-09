@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I Truly Understood the useRef Hook &lpar;Not Just What It Does, But Why It Exists&rpar;](https://dev.to/usama_dev/today-i-truly-understood-the-useref-hook-not-just-what-it-does-but-why-it-exists-4iif)
-- [SQL Pattern Matching Finally Makes Sense &lpar;LIKE, ILIKE, IN, BETWEEN&rpar;](https://dev.to/mazinocodes/sql-pattern-matching-finally-makes-sense-like-ilike-in-between-3o9n)
-- [IRQs and the Art of Not Crashing](https://dev.to/florent_herisson_691b0bac/irqs-and-the-art-of-not-crashing-non)
-- [How running a single EC2 with just Gunicorn silently capped my app — and what it taught me about real scaling](https://dev.to/saifullahusmani/how-running-a-single-ec2-with-just-gunicorn-silently-capped-my-app-and-what-it-taught-me-about-1m17)
+- [Tired of Accidentally Zipping Build Artifacts? Try &quot;dnx zipsrc&quot;!](https://dev.to/j_sakamoto/tired-of-accidentally-zipping-build-artifacts-try-dnx-zipsrc-3304)
+- [F-Droid on ChromeOS: trying to get behind the road blocks](https://dev.to/tkuenneth/f-droid-on-chromeos-trying-to-get-behind-the-road-blocks-48f)
+- [De Localhost a Escala Global: Una Estrategia de Arquitectura AWS para Emprendedores en Latinoamérica](https://dev.to/csotelo/de-localhost-a-escala-global-una-estrategia-de-arquitectura-aws-para-emprendedores-en-latinoamerica-3e7i)
+- [Heineken: Why classic Java is right and YOU ARE WRONG](https://dev.to/rkeeves/heineken-why-classic-java-is-right-and-you-are-wrong-4774)
 <!-- BLOG-POST-LIST:END -->
 
