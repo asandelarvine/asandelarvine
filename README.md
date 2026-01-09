@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s Defer: complex thing in simple manner with low level intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
-- [Two Pointers &lpar;Same Direction&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-same-direction-39i)
-- [My Cloud Practitioner Certification Journey and the Resources to Certify with Confidence](https://dev.to/aws-builders/my-cloud-practitioner-certification-journey-and-the-resources-to-certify-with-confidence-81n)
-- [Solved: Anyone found a DLP that actually catches data leaving through cloud and browser tools?](https://dev.to/techresolve/solved-anyone-found-a-dlp-that-actually-catches-data-leaving-through-cloud-and-browser-tools-3ndd)
+- [Today I Truly Understood the useRef Hook &lpar;Not Just What It Does, But Why It Exists&rpar;](https://dev.to/usama_dev/today-i-truly-understood-the-useref-hook-not-just-what-it-does-but-why-it-exists-4iif)
+- [SQL Pattern Matching Finally Makes Sense &lpar;LIKE, ILIKE, IN, BETWEEN&rpar;](https://dev.to/mazinocodes/sql-pattern-matching-finally-makes-sense-like-ilike-in-between-3o9n)
+- [IRQs and the Art of Not Crashing](https://dev.to/florent_herisson_691b0bac/irqs-and-the-art-of-not-crashing-non)
+- [How running a single EC2 with just Gunicorn silently capped my app — and what it taught me about real scaling](https://dev.to/saifullahusmani/how-running-a-single-ec2-with-just-gunicorn-silently-capped-my-app-and-what-it-taught-me-about-1m17)
 <!-- BLOG-POST-LIST:END -->
 
