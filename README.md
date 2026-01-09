@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New You Portfolio Challenge - Akkarapon Phikulsri](https://dev.to/akkaraponph/new-year-new-you-portfolio-challenge-akkarapon-phikulsri-2n15)
-- [AceHack 5.0 Theme Reveal: Inspired by Minecraft, Built for Builders](https://dev.to/acehack/acehack-50-theme-reveal-inspired-by-minecraft-built-for-builders-5f5i)
-- [HA K8s cluster using kube-vip](https://dev.to/achu1612/ha-k8s-cluster-using-kube-vip-48jn)
-- [Shift-left with GitHub Amazon Q Developer Project Rules](https://dev.to/aws-builders/shift-left-with-github-amazon-q-developer-project-rules-3dn8)
+- [Solved: First KubeCon after the AI bubble bursts?](https://dev.to/techresolve/solved-first-kubecon-after-the-ai-bubble-bursts-3b04)
+- [Docker Compose Magic: How to Automate All Your Container Updates with Watchtower and Diun](https://dev.to/itpraktika/docker-compose-magic-how-to-automate-all-your-container-updates-with-watchtower-and-diun-1ab6)
+- [AI Just Killed Tailwind’s Revenue &lpar;And Your Business Might Be Next&rpar;](https://dev.to/usama_dev/ai-just-killed-tailwinds-revenue-and-your-business-might-be-next-4nah)
+- [Building Your First Game on Midnight: A Complete Developer Tutorial](https://dev.to/uvroxx/building-your-first-game-on-midnight-a-complete-developer-tutorial-caf)
 <!-- BLOG-POST-LIST:END -->
 
