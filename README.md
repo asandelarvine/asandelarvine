@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing player/coach workflow with Kiro CLI subagents](https://dev.to/aws/implementing-playercoach-workflow-with-kiro-cli-subagents-2gf3)
-- [Orphaned EBS Volumes Costing You $$$?](https://dev.to/cloudwiseteam/orphaned-ebs-volumes-costing-you--1g7l)
-- [How to remove annotations from PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-remove-annotations-from-pdf-files-in-java-tutorial-2nn8)
-- [NEWBIE PROBLEM MOST FACE MAYBE](https://dev.to/gamer_king/newbie-problem-most-face-maybe-51h6)
+- [New Year, New You Portfolio Challenge - Akkarapon Phikulsri](https://dev.to/akkaraponph/new-year-new-you-portfolio-challenge-akkarapon-phikulsri-2n15)
+- [AceHack 5.0 Theme Reveal: Inspired by Minecraft, Built for Builders](https://dev.to/acehack/acehack-50-theme-reveal-inspired-by-minecraft-built-for-builders-5f5i)
+- [HA K8s cluster using kube-vip](https://dev.to/achu1612/ha-k8s-cluster-using-kube-vip-48jn)
+- [Shift-left with GitHub Amazon Q Developer Project Rules](https://dev.to/aws-builders/shift-left-with-github-amazon-q-developer-project-rules-3dn8)
 <!-- BLOG-POST-LIST:END -->
 
