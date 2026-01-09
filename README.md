@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-df3)
-- [AI Should Serve Society - Not Just Industry and Billionaires](https://dev.to/ramikronbi/ai-should-serve-society-not-just-industry-and-billionaires-37c9)
-- [How I Reduced Friction in My Studies Using AI, Rust, and Obsidian.](https://dev.to/gabriel_santos_fc57509a3c/how-i-reduced-friction-in-my-studies-using-ai-rust-and-obsidian-444d)
-- [Vector Databases &lpar;with OpenAI and Supabase&rpar; - Part 1](https://dev.to/shlokaguptaa/vector-databases-with-openai-and-supabase-1-4jco)
+- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
+- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
+- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
+- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
 <!-- BLOG-POST-LIST:END -->
 
