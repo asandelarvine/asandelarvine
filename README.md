@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [واتساب يطور من تجربة المستخدم: ثلاث ميزات جديدة لتحسين المحادثات الجماعية](https://dev.to/mohamedshabanai/wtsb-ytwr-mn-tjrb-lmstkhdm-thlth-myzt-jdyd-lthsyn-lmhdtht-ljmy-5784)
-- [🚨 How We Rescued a Dead Azure Linux VM After SSH, Agent, and OS Disk All Broke &lpar;A Real Production War Story&rpar;](https://dev.to/starkprince/how-we-rescued-a-dead-azure-linux-vm-after-ssh-agent-and-os-disk-all-broke-a-real-production-4aa1)
-- [Tired of Switching Tools Just to Write Markdown?](https://dev.to/vasughanta09/tired-of-switching-tools-just-to-write-markdown-28eb)
-- [IAM is Broken for AI Agents: Introducing Dynamic RBAC for Agentic Security](https://dev.to/alessandro_pignati/iam-is-broken-for-ai-agents-introducing-dynamic-rbac-for-agentic-security-m96)
+- [Go&#39;s Defer: complex thing in simple manner with low level intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
+- [Two Pointers &lpar;Same Direction&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-same-direction-39i)
+- [My Cloud Practitioner Certification Journey and the Resources to Certify with Confidence](https://dev.to/aws-builders/my-cloud-practitioner-certification-journey-and-the-resources-to-certify-with-confidence-81n)
+- [Solved: Anyone found a DLP that actually catches data leaving through cloud and browser tools?](https://dev.to/techresolve/solved-anyone-found-a-dlp-that-actually-catches-data-leaving-through-cloud-and-browser-tools-3ndd)
 <!-- BLOG-POST-LIST:END -->
 
