@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a 10,000-Level Puzzle with Swift 6 and SwiftUI: My Journey as a Student Developer](https://dev.to/shane_321/building-a-10000-level-puzzle-with-swift-6-and-swiftui-my-journey-as-a-student-developer-1892)
-- [Benchmark: I replaced Gemini CLI&#39;s Vector RAG with Context Trees to stop the hallucinations &lpar;99% Token Reduction&rpar;](https://dev.to/chilan/benchmark-i-replaced-gemini-clis-vector-rag-with-context-trees-to-stop-the-hallucinations-99-kh1)
-- [From Data Mesh to AI Excellence: Implementing Decentralized Data Architecture on Google BigQuery](https://dev.to/jubinsoni/from-data-mesh-to-ai-excellence-implementing-decentralized-data-architecture-on-google-bigquery-21e8)
-- [CLI Validation Patterns with Maybe Monads](https://dev.to/mikelane/cli-validation-patterns-with-maybe-monads-2abj)
+- [AI Trading: Lesson Learned #121: Investment Strategy Audit - Honest Assessment &lpar;Jan 9, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-lesson-learned-121-investment-strategy-audit-honest-assessment-jan-9-2026-4od3)
+- [The Backtesting Nightmare: When Data Size Kills Agility](https://dev.to/iseecodepeople/the-backtesting-nightmare-when-data-size-kills-agility-5cfo)
+- [Silent Plumbing Assistant – A Non-Conversational Retail Intelligence Agent](https://dev.to/venkatesh_prasanna_d/silent-plumbing-assistant-a-non-conversational-retail-intelligence-agent-37j0)
+- [Deploying Custom Voice Models in VAPI for E-commerce: Key Insights](https://dev.to/callstacktech/deploying-custom-voice-models-in-vapi-for-e-commerce-key-insights-4g)
 <!-- BLOG-POST-LIST:END -->
 
