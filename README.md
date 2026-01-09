@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: First KubeCon after the AI bubble bursts?](https://dev.to/techresolve/solved-first-kubecon-after-the-ai-bubble-bursts-3b04)
-- [Docker Compose Magic: How to Automate All Your Container Updates with Watchtower and Diun](https://dev.to/itpraktika/docker-compose-magic-how-to-automate-all-your-container-updates-with-watchtower-and-diun-1ab6)
-- [AI Just Killed Tailwind’s Revenue &lpar;And Your Business Might Be Next&rpar;](https://dev.to/usama_dev/ai-just-killed-tailwinds-revenue-and-your-business-might-be-next-4nah)
-- [Building Your First Game on Midnight: A Complete Developer Tutorial](https://dev.to/uvroxx/building-your-first-game-on-midnight-a-complete-developer-tutorial-caf)
+- [Perpetual vs Subscription Licenses: Which Business Model Wins in 2026?](https://dev.to/olivier_moussalli_e3492f5/perpetual-vs-subscription-licenses-which-business-model-wins-in-2026-19nb)
+- [[Boost]](https://dev.to/rakeshv675/-3282)
+- [Getting Started with Docker](https://dev.to/ethan_zhang_e501fea89c25b/getting-started-with-docker-50po)
+- [Let’s break down DNS: how your browser finds a website](https://dev.to/syedfazil/lets-break-down-dns-how-your-browser-finds-a-website-15lf)
 <!-- BLOG-POST-LIST:END -->
 
