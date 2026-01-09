@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Rid of Excel and Use these I built simple and most effective habit tracking app](https://dev.to/dilippurohit47/get-rid-of-excel-and-use-these-i-built-simple-and-most-effective-habit-tracking-app-19k4)
-- [I started learning Electron, and this is what I learned so far](https://dev.to/prs-dev/i-started-learning-electron-and-this-is-what-i-learned-so-far-38b2)
-- [Please break Autodock](https://dev.to/mikesol/please-break-autodock-2lhh)
-- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
+- [I Built 86 AI Applications in One Year. Here&#39;s My Brutal Self-Audit.](https://dev.to/prudhvi_krovvidi_3b48baae/i-built-86-ai-applications-in-one-year-heres-my-brutal-self-audit-5a0f)
+- [How I handle Dynamic IP for my Home Server](https://dev.to/thirza258/how-i-handle-dynamic-ip-for-my-home-server-40np)
+- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
+- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
 <!-- BLOG-POST-LIST:END -->
 
