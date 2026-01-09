@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 86 AI Applications in One Year. Here&#39;s My Brutal Self-Audit.](https://dev.to/prudhvi_krovvidi_3b48baae/i-built-86-ai-applications-in-one-year-heres-my-brutal-self-audit-5a0f)
-- [How I handle Dynamic IP for my Home Server](https://dev.to/thirza258/how-i-handle-dynamic-ip-for-my-home-server-40np)
-- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
-- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
+- [واتساب يطور من تجربة المستخدم: ثلاث ميزات جديدة لتحسين المحادثات الجماعية](https://dev.to/mohamedshabanai/wtsb-ytwr-mn-tjrb-lmstkhdm-thlth-myzt-jdyd-lthsyn-lmhdtht-ljmy-5784)
+- [🚨 How We Rescued a Dead Azure Linux VM After SSH, Agent, and OS Disk All Broke &lpar;A Real Production War Story&rpar;](https://dev.to/starkprince/how-we-rescued-a-dead-azure-linux-vm-after-ssh-agent-and-os-disk-all-broke-a-real-production-4aa1)
+- [Tired of Switching Tools Just to Write Markdown?](https://dev.to/vasughanta09/tired-of-switching-tools-just-to-write-markdown-28eb)
+- [IAM is Broken for AI Agents: Introducing Dynamic RBAC for Agentic Security](https://dev.to/alessandro_pignati/iam-is-broken-for-ai-agents-introducing-dynamic-rbac-for-agentic-security-m96)
 <!-- BLOG-POST-LIST:END -->
 
