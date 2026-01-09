@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My New 2026 Portfolio: Powered by Google Cloud &amp; AI](https://dev.to/arnostorg/my-new-2026-portfolio-powered-by-google-cloud-ai-i9d)
-- [Testes de Interface com Playwright e MCP no Windsurf](https://dev.to/vgeruso/testes-de-interface-com-playwright-e-mcp-no-windsurf-53al)
-- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
-- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
+- [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
+- [SwiftUI #25: Estado &lpar;@State&rpar;](https://dev.to/david_goyes_a488f58a17a53/swift-25-estado-state-46h6)
+- [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
+- [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
 <!-- BLOG-POST-LIST:END -->
 
