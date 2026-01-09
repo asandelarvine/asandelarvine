@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Output format enforcement for agents: JSON schema or it didn’t happen](https://dev.to/dowhatmatters/output-format-enforcement-for-agents-json-schema-or-it-didnt-happen-1pbi)
-- [New Python Courseware for Early-Career CS Students](https://dev.to/jcasman/new-python-courseware-for-early-career-cs-students-2e81)
-- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
-- [Introdução ao Deploy](https://dev.to/yuripeixinho/introducao-ao-deploy-2a07)
+- [Building a 10,000-Level Puzzle with Swift 6 and SwiftUI: My Journey as a Student Developer](https://dev.to/shane_321/building-a-10000-level-puzzle-with-swift-6-and-swiftui-my-journey-as-a-student-developer-1892)
+- [Benchmark: I replaced Gemini CLI&#39;s Vector RAG with Context Trees to stop the hallucinations &lpar;99% Token Reduction&rpar;](https://dev.to/chilan/benchmark-i-replaced-gemini-clis-vector-rag-with-context-trees-to-stop-the-hallucinations-99-kh1)
+- [From Data Mesh to AI Excellence: Implementing Decentralized Data Architecture on Google BigQuery](https://dev.to/jubinsoni/from-data-mesh-to-ai-excellence-implementing-decentralized-data-architecture-on-google-bigquery-21e8)
+- [CLI Validation Patterns with Maybe Monads](https://dev.to/mikelane/cli-validation-patterns-with-maybe-monads-2abj)
 <!-- BLOG-POST-LIST:END -->
 
