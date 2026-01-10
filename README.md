@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
-- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
-- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
+- [I Built a Gesture Controlled Fluid Simulation &lpar;And Accidentally Fought GitHub&rpar;](https://dev.to/trojanmocx/i-built-a-gesture-controlled-fluid-simulation-and-accidentally-fought-github-3098)
+- [SwiftUI Feature Flags &amp; Remote Config Architecture &lpar;Production-Grade&rpar;](https://dev.to/sebastienlato/swiftui-feature-flags-remote-config-architecture-production-grade-56d8)
+- [Why I built an open-source benchmark reference UI - and what I refused to add](https://dev.to/albert_albert_b9d1ab0fa5a/why-i-built-an-open-source-benchmark-reference-ui-and-what-i-refused-to-add-3f19)
+- [How Code-Executing AI Agents are Making 128K Context Windows Obsolete](https://dev.to/deviprasadshetty/how-code-executing-ai-agents-are-making-128k-context-windows-obsolete-5dk)
 <!-- BLOG-POST-LIST:END -->
 
