@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremark Now Supports Solid: One Library for Vue, React, Svelte, and Solid](https://dev.to/kingshuaishuai/incremark-now-supports-solid-one-library-for-vue-react-svelte-and-solid-n39)
-- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
-- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
-- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
+- [[Boost]](https://dev.to/mbugua70/-56ef)
+- [# Beyond the Code: Introducing Helpothon, Where Developers Build Technology for](https://dev.to/helpathon/-beyond-the-code-introducing-helpothon-where-developers-build-technology-for-1njp)
+- [[Simple SNS Project] Step 4. Search Implementation &amp; Logging Strategy](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-4-search-implementation-logging-strategy-1b0d)
+- [i made this project syswaifu, shows your system stats with random waifu image.](https://dev.to/iamovi/i-made-this-project-syswaifu-shows-your-system-stats-with-random-waifu-image-4lcm)
 <!-- BLOG-POST-LIST:END -->
 
