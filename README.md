@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mbugua70/-56ef)
-- [# Beyond the Code: Introducing Helpothon, Where Developers Build Technology for](https://dev.to/helpathon/-beyond-the-code-introducing-helpothon-where-developers-build-technology-for-1njp)
-- [[Simple SNS Project] Step 4. Search Implementation &amp; Logging Strategy](https://dev.to/jonghwayoo03_dev/simple-sns-project-step-4-search-implementation-logging-strategy-1b0d)
-- [i made this project syswaifu, shows your system stats with random waifu image.](https://dev.to/iamovi/i-made-this-project-syswaifu-shows-your-system-stats-with-random-waifu-image-4lcm)
+- [Minions: Building Self-Learning AI Agent Swarms That Actually Ship Code](https://dev.to/spc_technologyltd_3b/minions-building-self-learning-ai-agent-swarms-that-actually-ship-code-38c0)
+- [Why I Love Using Nix for All My Projects](https://dev.to/nietzscheson/why-i-love-using-nix-for-all-my-projects-3147)
+- [PiGym – Pi digits memorization game](https://dev.to/eoic_7726ef81/pigym-pi-digits-memorization-game-1ep2)
+- [**Myth: AI Efficiency is Directly Proportional to Computing](https://dev.to/drcarlosruizviquez/myth-ai-efficiency-is-directly-proportional-to-computing-369d)
 <!-- BLOG-POST-LIST:END -->
 
