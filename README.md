@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Went From &#39;I&#39;m Not a Hardware Person&#39; to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894)
-- [Linux Kernel Architecture: From Ring 0 to Network Stack &amp; eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0)
-- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)
-- [PushEnv: A New, Encrypted Way to Manage .env Files &lpar;No SaaS, No Servers&rpar; 🔐](https://dev.to/shahnoor_mujawar/pushenv-a-new-encrypted-way-to-manage-env-files-no-saas-no-servers-3d1p)
+- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
+- [Rust Smart Pointers &lpar;Box, Rc, Arc&rpar;](https://dev.to/godofgeeks/rust-smart-pointers-box-rc-arc-290)
+- [[Boost]](https://dev.to/itsugo/-2n2g)
+- [Kubernetes Gateway API on AKS Exposed via Azure Application Gateway](https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo)
 <!-- BLOG-POST-LIST:END -->
 
