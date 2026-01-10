@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Minions: Building Self-Learning AI Agent Swarms That Actually Ship Code](https://dev.to/spc_technologyltd_3b/minions-building-self-learning-ai-agent-swarms-that-actually-ship-code-38c0)
-- [Why I Love Using Nix for All My Projects](https://dev.to/nietzscheson/why-i-love-using-nix-for-all-my-projects-3147)
-- [PiGym – Pi digits memorization game](https://dev.to/eoic_7726ef81/pigym-pi-digits-memorization-game-1ep2)
-- [**Myth: AI Efficiency is Directly Proportional to Computing](https://dev.to/drcarlosruizviquez/myth-ai-efficiency-is-directly-proportional-to-computing-369d)
+- [Listing IAM Roles for Your Current AWS Account](https://dev.to/tttol/listing-iam-roles-for-your-current-aws-account-24ie)
+- [Before Big Data: 3 Key Discoveries That Changed Business Strategy Forever](https://dev.to/thanh_truong_a99577c6b879/before-big-data-3-key-discoveries-that-changed-business-strategy-forever-3mhc)
+- [Building Own MAC: Part 1 - Encrypted, but Not Trusted](https://dev.to/dmytro_huz/building-own-mac-part-1-encrypted-but-not-trusted-2bck)
+- [A2UI Protocol: Building Intelligent Agent-to-User Interfaces](https://dev.to/vishalmysore/a2ui-protocol-building-intelligent-agent-to-user-interfaces-p0j)
 <!-- BLOG-POST-LIST:END -->
 
