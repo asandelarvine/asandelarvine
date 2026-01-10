@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with React: Dive into JSX, Components, and Props! &lpar;React Day 2&rpar;](https://dev.to/vasughanta09/building-with-react-dive-into-jsx-components-and-props-react-day-2-2cb2)
-- [Seton — A focus timer that turns your hours into assets](https://dev.to/keplerjst/seton-a-focus-timer-that-turns-your-hours-into-assets-3e3m)
-- [Bit Fields in C Explained: How They Work and Why They Matter](https://dev.to/amanprasad/bit-fields-in-c-explained-how-they-work-and-why-they-matter-34i9)
-- [Setting Up Jenkins SSH Build Agents: A Complete Troubleshooting Guide](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl)
+- [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
+- [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
+- [How to Check External API Throttle Limit in Laravel](https://dev.to/ankitvermaonline/how-to-check-external-api-throttle-limit-in-laravel-mk6)
+- [The Utopia of Regulations: The Iron Law of Liberalism and Bureaucracy](https://dev.to/fundacjadobrepanstwo/the-utopia-of-regulations-the-iron-law-of-liberalism-and-bureaucracy-4gj0)
 <!-- BLOG-POST-LIST:END -->
 
