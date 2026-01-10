@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Feeding Big Tech AI: Why We Built a Private Cloud Storage Alternative](https://dev.to/c4fkrx/stop-feeding-big-tech-ai-why-we-built-a-private-cloud-storage-alternative-3lo2)
-- [2025 Wrapup: Articles, Talks, Papers, and Software I Loved](https://dev.to/pmbanugo/2025-wrapup-articles-talks-papers-and-software-i-loved-473d)
-- [7 Software Engineering Interview Topics You Should Prepare in 2026](https://dev.to/somadevtoo/7-software-engineering-interview-topics-you-should-prepare-in-2026-4ik4)
-- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
+- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
+- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
+- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
 <!-- BLOG-POST-LIST:END -->
 
