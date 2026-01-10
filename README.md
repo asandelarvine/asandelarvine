@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Clients ACTUALLY Want From Frontend Devs &lpar;Not Clean Code&rpar;](https://dev.to/toboreeee/what-clients-actually-want-from-frontend-developers-1bm7)
-- [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
-- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
-- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
+- [Stop Feeding Big Tech AI: Why We Built a Private Cloud Storage Alternative](https://dev.to/c4fkrx/stop-feeding-big-tech-ai-why-we-built-a-private-cloud-storage-alternative-3lo2)
+- [2025 Wrapup: Articles, Talks, Papers, and Software I Loved](https://dev.to/pmbanugo/2025-wrapup-articles-talks-papers-and-software-i-loved-473d)
+- [7 Software Engineering Interview Topics You Should Prepare in 2026](https://dev.to/somadevtoo/7-software-engineering-interview-topics-you-should-prepare-in-2026-4ik4)
+- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
 <!-- BLOG-POST-LIST:END -->
 
