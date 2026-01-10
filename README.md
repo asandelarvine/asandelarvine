@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Equillar Ensures Payment Capacity for Investment Contracts](https://dev.to/icolomina/how-equillar-ensures-payment-capacity-for-investment-contracts-181i)
-- [“While Others Wait for VS Code to Load, I’m Already Coding in Ecode.”](https://dev.to/linfinitydev/while-others-wait-for-vs-code-to-load-im-already-coding-in-ecode-3f38)
-- [Building Custom Composite Components with STDF in Svelte](https://dev.to/zt49t9-dev/building-custom-composite-components-with-stdf-in-svelte-5f72)
-- [Building a Kafka Wikimedia Producer: Understanding Constructors and Threading](https://dev.to/hantedyou_0106/building-a-kafka-wikimedia-producer-understanding-constructors-and-threading-1nmo)
+- [Stop Building Flaky AI Agents: Introducing Transactional AI](https://dev.to/grafikui/stop-building-flaky-ai-agents-introducing-transactional-ai-2mij)
+- [Making VS Code &quot;Read My Mind&quot;: Building Smart Context Awareness](https://dev.to/freerave/making-vs-code-read-my-mind-building-smart-context-awareness-2pdi)
+- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
+- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
 <!-- BLOG-POST-LIST:END -->
 
