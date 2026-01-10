@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Flaky AI Agents: Introducing Transactional AI](https://dev.to/grafikui/stop-building-flaky-ai-agents-introducing-transactional-ai-2mij)
-- [Making VS Code &quot;Read My Mind&quot;: Building Smart Context Awareness](https://dev.to/freerave/making-vs-code-read-my-mind-building-smart-context-awareness-2pdi)
-- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
-- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
+- [Today I Truly Understood Custom Hooks &lpar;And Built My Own&rpar;](https://dev.to/usama_dev/today-i-truly-understood-custom-hooks-and-built-my-own-dah)
+- [Build Your Own iMessage AI Bot in Minutes with blooio](https://dev.to/blooio/build-your-own-imessage-ai-bot-in-minutes-with-msgnew-26b3)
+- [HarisLab Connect: Manage Website Forms, Feedback, Newsletters &amp; Subscribers Effortlessly 🚀](https://dev.to/haris18/harislab-connect-manage-website-forms-feedback-newsletters-subscribers-effortlessly-4ic9)
+- [How to Build an AI Customer Support System with AWS Bedrock Guardrails &lpar;Complete Tutorial + Free Code&rpar;](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m)
 <!-- BLOG-POST-LIST:END -->
 
