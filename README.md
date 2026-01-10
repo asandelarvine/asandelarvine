@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
-- [Offline-First PWAs: Build Resilient Apps That Never Lose Data](https://dev.to/wellallytech/offline-first-pwas-build-resilient-apps-that-never-lose-data-ach)
-- [# Building a Sustainable Future: Introducing Helpothon&#39;s Climate Data Platform f](https://dev.to/helpathon/-building-a-sustainable-future-introducing-helpothons-climate-data-platform-f-3fhj)
-- [I built an autonomous Robot Diary with &quot;Boredom Scores&quot; and a sense of time 🤖📖](https://dev.to/joehenzi/i-built-an-autonomous-robot-diary-with-boredom-scores-and-a-sense-of-time-2nnd)
+- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
+- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
+- [Build Your Own Voice Stack with Deepgram and PlayHT: A Practical Guide](https://dev.to/callstacktech/build-your-own-voice-stack-with-deepgram-and-playht-a-practical-guide-2kl9)
+- [CI Load Test for http-echo using Kind and k6](https://dev.to/vumdao/ci-load-test-for-http-echo-using-kind-and-k6-4nab)
 <!-- BLOG-POST-LIST:END -->
 
