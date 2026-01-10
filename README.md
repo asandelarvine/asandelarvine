@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Gesture Controlled Fluid Simulation &lpar;And Accidentally Fought GitHub&rpar;](https://dev.to/trojanmocx/i-built-a-gesture-controlled-fluid-simulation-and-accidentally-fought-github-3098)
-- [SwiftUI Feature Flags &amp; Remote Config Architecture &lpar;Production-Grade&rpar;](https://dev.to/sebastienlato/swiftui-feature-flags-remote-config-architecture-production-grade-56d8)
-- [Why I built an open-source benchmark reference UI - and what I refused to add](https://dev.to/albert_albert_b9d1ab0fa5a/why-i-built-an-open-source-benchmark-reference-ui-and-what-i-refused-to-add-3f19)
-- [How Code-Executing AI Agents are Making 128K Context Windows Obsolete](https://dev.to/deviprasadshetty/how-code-executing-ai-agents-are-making-128k-context-windows-obsolete-5dk)
+- [Adeus, Swagger UI ? Uma alternativa elegante com Redoc](https://dev.to/daniloopinheiro/adeus-swagger-ui-uma-alternativa-elegante-com-redoc-3024)
+- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
+- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
+- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
 <!-- BLOG-POST-LIST:END -->
 
