@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Cut Your AI Costs in Half While Doubling Performance](https://dev.to/debmckinney/how-to-cut-your-ai-costs-in-half-while-doubling-performance-59f9)
-- [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
-- [How to Check External API Throttle Limit in Laravel](https://dev.to/ankitvermaonline/how-to-check-external-api-throttle-limit-in-laravel-mk6)
-- [The Utopia of Regulations: The Iron Law of Liberalism and Bureaucracy](https://dev.to/fundacjadobrepanstwo/the-utopia-of-regulations-the-iron-law-of-liberalism-and-bureaucracy-4gj0)
+- [How I Went From &#39;I&#39;m Not a Hardware Person&#39; to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894)
+- [Linux Kernel Architecture: From Ring 0 to Network Stack &amp; eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0)
+- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5)
+- [PushEnv: A New, Encrypted Way to Manage .env Files &lpar;No SaaS, No Servers&rpar; 🔐](https://dev.to/shahnoor_mujawar/pushenv-a-new-encrypted-way-to-manage-env-files-no-saas-no-servers-3d1p)
 <!-- BLOG-POST-LIST:END -->
 
