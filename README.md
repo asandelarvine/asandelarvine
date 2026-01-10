@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
-- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
-- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
-- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
+- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [Offline-First PWAs: Build Resilient Apps That Never Lose Data](https://dev.to/wellallytech/offline-first-pwas-build-resilient-apps-that-never-lose-data-ach)
+- [# Building a Sustainable Future: Introducing Helpothon&#39;s Climate Data Platform f](https://dev.to/helpathon/-building-a-sustainable-future-introducing-helpothons-climate-data-platform-f-3fhj)
+- [I built an autonomous Robot Diary with &quot;Boredom Scores&quot; and a sense of time 🤖📖](https://dev.to/joehenzi/i-built-an-autonomous-robot-diary-with-boredom-scores-and-a-sense-of-time-2nnd)
 <!-- BLOG-POST-LIST:END -->
 
