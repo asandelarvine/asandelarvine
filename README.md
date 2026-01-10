@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adeus, Swagger UI ? Uma alternativa elegante com Redoc](https://dev.to/daniloopinheiro/adeus-swagger-ui-uma-alternativa-elegante-com-redoc-3024)
-- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
-- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
-- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
+- [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
+- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
+- [Which Document class is best to use in Java to read MongoDB documents?](https://dev.to/franckpachot/which-document-class-is-best-to-use-in-java-to-read-mongodb-documents-46n7)
+- [Inside the SQLite Frontend: Tokenizer, Parser, and Code Generator](https://dev.to/lovestaco/inside-the-sqlite-frontend-tokenizer-parser-and-code-generator-3m4k)
 <!-- BLOG-POST-LIST:END -->
 
