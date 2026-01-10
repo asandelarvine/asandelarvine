@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
-- [Vim Mode: Edit Prompts at the Speed of Thought](https://dev.to/rajeshroyal/vim-mode-edit-prompts-at-the-speed-of-thought-3l6c)
-- [Which Document class is best to use in Java to read MongoDB documents?](https://dev.to/franckpachot/which-document-class-is-best-to-use-in-java-to-read-mongodb-documents-46n7)
-- [Inside the SQLite Frontend: Tokenizer, Parser, and Code Generator](https://dev.to/lovestaco/inside-the-sqlite-frontend-tokenizer-parser-and-code-generator-3m4k)
+- [Incremark Now Supports Solid: One Library for Vue, React, Svelte, and Solid](https://dev.to/kingshuaishuai/incremark-now-supports-solid-one-library-for-vue-react-svelte-and-solid-n39)
+- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
+- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
+- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
 <!-- BLOG-POST-LIST:END -->
 
