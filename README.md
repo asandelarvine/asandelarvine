@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
-- [Rust Smart Pointers &lpar;Box, Rc, Arc&rpar;](https://dev.to/godofgeeks/rust-smart-pointers-box-rc-arc-290)
-- [[Boost]](https://dev.to/itsugo/-2n2g)
-- [Kubernetes Gateway API on AKS Exposed via Azure Application Gateway](https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo)
+- [Job Board Scraping: API Endpoints &amp; Cheat Sheet](https://dev.to/zayanmohamed/job-board-scraping-api-endpoints-cheat-sheet-1da7)
+- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
+- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
+- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
 <!-- BLOG-POST-LIST:END -->
 
