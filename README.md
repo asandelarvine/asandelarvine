@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Board Scraping: API Endpoints &amp; Cheat Sheet](https://dev.to/zayanmohamed/job-board-scraping-api-endpoints-cheat-sheet-1da7)
-- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
-- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
-- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
+- [The Complete Windows to Linux Migration Guide](https://dev.to/md8_habibullah/the-complete-windows-to-linux-migration-guide-2f9m)
+- [Road To Compliance: Will Your Internal Users Hate Your Platform Team?](https://dev.to/dvddpl/road-to-compliance-will-your-internal-users-hate-your-platform-team-1jk5)
+- [I Got Tired of Jira. So I Built an Agentic Project Management Tool — and Open-Sourced It](https://dev.to/josemukorivo/i-got-tired-of-jira-so-i-built-an-agentic-project-management-tool-and-open-sourced-it-3ghp)
+- [AsyncTasQ: The Type-Safe, Async-First Task Queue That&#39;s 2-3x Faster Than Celery](https://dev.to/adamrefaey/asynctasq-the-type-safe-async-first-task-queue-thats-2-3x-faster-than-celery-585i)
 <!-- BLOG-POST-LIST:END -->
 
