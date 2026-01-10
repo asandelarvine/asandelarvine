@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Listing IAM Roles for Your Current AWS Account](https://dev.to/tttol/listing-iam-roles-for-your-current-aws-account-24ie)
-- [Before Big Data: 3 Key Discoveries That Changed Business Strategy Forever](https://dev.to/thanh_truong_a99577c6b879/before-big-data-3-key-discoveries-that-changed-business-strategy-forever-3mhc)
-- [Building Own MAC: Part 1 - Encrypted, but Not Trusted](https://dev.to/dmytro_huz/building-own-mac-part-1-encrypted-but-not-trusted-2bck)
-- [A2UI Protocol: Building Intelligent Agent-to-User Interfaces](https://dev.to/vishalmysore/a2ui-protocol-building-intelligent-agent-to-user-interfaces-p0j)
+- [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
+- [Python Obfuscation: From Readable to Untraceable](https://dev.to/lyric0x10/python-obfuscation-from-readable-to-untraceable-4fip)
+- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
+- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
 <!-- BLOG-POST-LIST:END -->
 
