@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
-- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
-- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
-- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
+- [Oasis for Developers: an underrated EVM for privacy-first dApps](https://dev.to/rollingindo/oasis-for-developers-an-underrated-evm-for-privacy-first-dapps-9if)
+- [Deploying Full-Stack Next.js Apps: Vercel vs Render Comparison](https://dev.to/athashri_keny/deploying-full-stack-nextjs-apps-vercel-vs-render-comparison-ojj)
+- [Open WebUI: Self-Hosted LLM Interface](https://dev.to/rosgluk/open-webui-self-hosted-llm-interface-2jhc)
+- [The Engine Under the Hood: Go’s GMP, Java’s Locks, and Erlang’s Heaps](https://dev.to/ayush-k-anand/the-engine-under-the-hood-gos-gmp-javas-locks-and-erlangs-heaps-1lhi)
 <!-- BLOG-POST-LIST:END -->
 
