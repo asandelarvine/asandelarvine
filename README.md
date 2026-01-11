@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-pem)
-- [𝗪𝗵𝘆 𝗔𝗜-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗖𝗼𝗱𝗲 𝗢𝗳𝘁𝗲𝗻 𝗟𝗼𝗼𝗸𝘀 “𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲” — 𝗯𝘂𝘁 𝗜𝘀𝗻’𝘁—𝗮𝗻𝗱 𝘄𝗵𝘆 𝗜 𝗯𝘂𝗶𝗹𝘁 𝗔𝗜-𝗦𝗟𝗢𝗣 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿](https://dev.to/flamehaven01/--en3)
-- [The Great Escape: Why Developers Are Finally Ditching Windows for Linux](https://dev.to/ownlife/the-great-escape-why-developers-are-finally-ditching-windows-for-linux-3g7m)
-- [Glaucoma Awareness Month](https://dev.to/tatyanabayramova/glaucoma-awareness-month-363o)
+- [Mastering Next.js Routing: Dynamic Routes, Route Groups, and Parallel Routes](https://dev.to/devjordan/mastering-nextjs-routing-dynamic-routes-route-groups-and-parallel-routes-1m5h)
+- [Day 4: The Sizeof Trap: Understanding Array Decay in C](https://dev.to/ujjawal0711/day-4-the-sizeof-trap-understanding-array-decay-in-c-3587)
+- [Level 1 Array &amp; String Problems in C++](https://dev.to/nithya_dharshiniofficial/level-1-array-string-problems-in-c-1a8m)
+- [Legacy-First Design &lpar;LFD&rpar;: Designing Software That Still Makes Sense Over Time](https://dev.to/matheus_pereira_532646ca6/legacy-first-design-lfd-designing-software-that-still-makes-sense-over-time-4ak6)
 <!-- BLOG-POST-LIST:END -->
 
