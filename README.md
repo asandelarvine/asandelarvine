@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django + Redis Caching: Patterns, Pitfalls, and Real-World Lessons](https://dev.to/topunix/django-redis-caching-patterns-pitfalls-and-real-world-lessons-m7o)
-- [Why My Model Wouldn’t Deploy to Hugging Face Spaces &lpar;and What Git LFS Actually Does&rpar;](https://dev.to/czhoudev/why-my-model-wouldnt-deploy-to-hugging-face-spaces-and-what-git-lfs-actually-does-9kf)
-- [New programming language by me](https://dev.to/probex/new-programming-language-by-me-hpg)
-- [Multitasking Me and Claude](https://dev.to/chrismo/multitasking-me-and-claude-1h7p)
+- [Bytekit: A Turbocharged TypeScript Toolkit for Modern Development](https://dev.to/sebamar88/bytekit-a-turbocharged-typescript-toolkit-for-modern-development-1m1l)
+- [Why Claude Code Excels at Legacy System Modernization](https://dev.to/juhapellotsalo/why-claude-code-excels-at-legacy-system-modernization-1ll1)
+- [Artdots: The benefits of creating a side project](https://dev.to/veliona/artdots-the-benefits-of-creating-a-side-project-564e)
+- [3I/ATLAS: Could an Interstellar Object Threaten Earth? Analysis Assisted by ChatGPT](https://dev.to/sharmaricky/the-curious-case-of-3iatlas-could-an-interstellar-object-pose-a-risk-to-earth-11j9)
 <!-- BLOG-POST-LIST:END -->
 
