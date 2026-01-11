@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
-- [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
-- [We Didn’t “Align” — We Argued &lpar;and Shipped a Better System&rpar;](https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818)
-- [I Built a Mock API Platform in 2.5 Months &lpar;Django + React + Redis + PostgreSQL&rpar;](https://dev.to/marcuscodes/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql-4n43)
+- [SaijinOS Part 20 — Trust as a Temporal Resource](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-20-trust-as-a-temporal-resource-2iho)
+- [From ChatGPT to Gemini: How We Built a GDPR-Compliant CV Parser for Odoo](https://dev.to/tderick/from-chatgpt-to-gemini-how-we-built-a-gdpr-compliant-cv-parser-for-odoo-nne)
+- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
+- [Code Hike in 100 Seconds](https://dev.to/fabianfrankwerner/code-hike-in-100-seconds-1d9o)
 <!-- BLOG-POST-LIST:END -->
 
