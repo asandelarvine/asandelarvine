@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Beginner-Friendly Guide &#39;Maximal Rectangle&#39; – LeetCode 85 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe)
-- [HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting](https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221)
-- [The Irreplaceable Human in the Age of Smart Systems](https://dev.to/newriderslabs/the-irreplaceable-human-in-the-age-of-smart-systems-5ej3)
-- [🎬 Build a Relax Video Generator &lpar;Images + MP3 MP4&rpar; with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-relax-video-generator-images-mp3-mp4-with-python-tkinter-b3g)
+- [Synchronizing Recurring Outlook Meetings with EspoCRM: A Production-Grade Solution](https://dev.to/yhzhu/synchronizing-recurring-outlook-meetings-with-espocrm-a-production-grade-solution-1e5d)
+- [Released Gon v7.0.0](https://dev.to/willnet/released-gon-v700-34k6)
+- [Who Owns This? Why Project Ownership Matters More Than Ever](https://dev.to/sela_network/who-owns-this-why-project-ownership-matters-more-than-ever-cpk)
+- [MCP Token Limits: The Hidden Cost of Tool Overload](https://dev.to/piotr_hajdas/mcp-token-limits-the-hidden-cost-of-tool-overload-2d5)
 <!-- BLOG-POST-LIST:END -->
 
