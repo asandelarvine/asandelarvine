@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
-- [Python Obfuscation: From Readable to Untraceable](https://dev.to/lyric0x10/python-obfuscation-from-readable-to-untraceable-4fip)
-- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
-- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
+- [Django + Redis Caching: Patterns, Pitfalls, and Real-World Lessons](https://dev.to/topunix/django-redis-caching-patterns-pitfalls-and-real-world-lessons-m7o)
+- [Why My Model Wouldn’t Deploy to Hugging Face Spaces &lpar;and What Git LFS Actually Does&rpar;](https://dev.to/czhoudev/why-my-model-wouldnt-deploy-to-hugging-face-spaces-and-what-git-lfs-actually-does-9kf)
+- [New programming language by me](https://dev.to/probex/new-programming-language-by-me-hpg)
+- [Multitasking Me and Claude](https://dev.to/chrismo/multitasking-me-and-claude-1h7p)
 <!-- BLOG-POST-LIST:END -->
 
