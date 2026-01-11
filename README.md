@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Showdev] Blitzy: a lightweight 2D game engine in Kotlin](https://dev.to/xerooup/showdev-blitzy-a-lightweight-2d-game-engine-in-kotlin-1e9c)
-- [Linux File &amp; Directory Operations for DevOps — v1.0](https://dev.to/chetan_tekam_3500/linux-file-directory-operations-for-devops-v10-1jbb)
-- [Back to basics: a solid foundation for using AI coding agents in a monorepo](https://dev.to/valuecodes/back-to-basics-a-solid-foundation-for-using-ai-coding-agents-in-a-monorepo-3c26)
-- [🚀 AWS 131: Scalable Data - Provisioning Private RDS with Storage Autoscaling](https://dev.to/hritikraj8804/aws-131-scalable-data-provisioning-private-rds-with-storage-autoscaling-1che)
+- [Udacity: Gemini API by Google Course Review](https://dev.to/evanlin/udacity-gemini-api-by-google-course-review-adp)
+- [Notes from the Made by Google Conference](https://dev.to/evanlin/notes-from-the-made-by-google-conference-2moi)
+- [Gemini/Firebase: Building a Tech News LINE Bot with IFTTT and LangChain](https://dev.to/evanlin/geminifirebase-building-a-tech-news-line-bot-with-ifttt-and-langchain-9ki)
+- [LangChain on Cloud Run: Getting YouTube Info](https://dev.to/evanlin/langchain-on-cloud-run-getting-youtube-info-1g00)
 <!-- BLOG-POST-LIST:END -->
 
