@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
-- [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
-- [Seeing the Web Like a User: Handling IP Reputation in Multi-Region Scraping](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-web-like-a-user-handling-ip-reputation-in-multi-region-scraping-1a9m)
-- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
+- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
+- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa)
+- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent &lpar;Part-3&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb)
 <!-- BLOG-POST-LIST:END -->
 
