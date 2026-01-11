@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronizing Recurring Outlook Meetings with EspoCRM: A Production-Grade Solution](https://dev.to/yhzhu/synchronizing-recurring-outlook-meetings-with-espocrm-a-production-grade-solution-1e5d)
-- [Released Gon v7.0.0](https://dev.to/willnet/released-gon-v700-34k6)
-- [Who Owns This? Why Project Ownership Matters More Than Ever](https://dev.to/sela_network/who-owns-this-why-project-ownership-matters-more-than-ever-cpk)
-- [MCP Token Limits: The Hidden Cost of Tool Overload](https://dev.to/piotr_hajdas/mcp-token-limits-the-hidden-cost-of-tool-overload-2d5)
+- [Beyond the All-Nighter: 5 Surprising Truths About the Modern Hackathon](https://dev.to/dev_d5dad042c015d3612cbbc/beyond-the-all-nighter-5-surprising-truths-about-the-modern-hackathon-40me)
+- [Building Interview prep ai](https://dev.to/shashank0701byte/building-interview-prep-ai-1bje)
+- [Cheapest Solana Token Creator: 0.05 SOL vs 0.3 SOL &lpar;Full Breakdown&rpar;](https://dev.to/jumpbit/cheapest-solana-token-creator-005-sol-vs-03-sol-full-breakdown-55pc)
+- [Tech Pulse – Weekly Tech Digest January 11, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
 <!-- BLOG-POST-LIST:END -->
 
