@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code em PHP moderno.](https://dev.to/danielcamucatto/clean-code-em-php-moderno-a72)
-- [Flutter ECS: Mastering Async Operations and Complex Workflows](https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g)
-- [Building Modern Backends with Kaapi: Request validation Part 2](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-part-2-2ha5)
-- [Mastering React DevTools: A Comprehensive Guide to Efficient Debugging](https://dev.to/beleke_ian_2d13cbd4de310e/mastering-react-devtools-a-comprehensive-guide-to-efficient-debugging-21mh)
+- [try-rs: Control your experiment and project folders.](https://dev.to/tassio/try-rs-control-your-experiment-and-project-folders-1kjc)
+- [API First in Practice: How We Made Frontend Types Predictable and Stable](https://dev.to/dmitrii-verbetchii/api-first-in-practice-how-we-made-frontend-types-predictable-and-stable-332c)
+- [[Boost]](https://dev.to/nightbird07/-176c)
+- [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
 <!-- BLOG-POST-LIST:END -->
 
