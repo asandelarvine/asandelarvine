@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Udacity: Gemini API by Google Course Review](https://dev.to/evanlin/udacity-gemini-api-by-google-course-review-adp)
-- [Notes from the Made by Google Conference](https://dev.to/evanlin/notes-from-the-made-by-google-conference-2moi)
-- [Gemini/Firebase: Building a Tech News LINE Bot with IFTTT and LangChain](https://dev.to/evanlin/geminifirebase-building-a-tech-news-line-bot-with-ifttt-and-langchain-9ki)
-- [LangChain on Cloud Run: Getting YouTube Info](https://dev.to/evanlin/langchain-on-cloud-run-getting-youtube-info-1g00)
+- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-pem)
+- [𝗪𝗵𝘆 𝗔𝗜-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗖𝗼𝗱𝗲 𝗢𝗳𝘁𝗲𝗻 𝗟𝗼𝗼𝗸𝘀 “𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲” — 𝗯𝘂𝘁 𝗜𝘀𝗻’𝘁—𝗮𝗻𝗱 𝘄𝗵𝘆 𝗜 𝗯𝘂𝗶𝗹𝘁 𝗔𝗜-𝗦𝗟𝗢𝗣 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿](https://dev.to/flamehaven01/--en3)
+- [The Great Escape: Why Developers Are Finally Ditching Windows for Linux](https://dev.to/ownlife/the-great-escape-why-developers-are-finally-ditching-windows-for-linux-3g7m)
+- [Glaucoma Awareness Month](https://dev.to/tatyanabayramova/glaucoma-awareness-month-363o)
 <!-- BLOG-POST-LIST:END -->
 
