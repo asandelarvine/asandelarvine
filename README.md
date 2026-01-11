@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Next.js Routing: Dynamic Routes, Route Groups, and Parallel Routes](https://dev.to/devjordan/mastering-nextjs-routing-dynamic-routes-route-groups-and-parallel-routes-1m5h)
-- [Day 4: The Sizeof Trap: Understanding Array Decay in C](https://dev.to/ujjawal0711/day-4-the-sizeof-trap-understanding-array-decay-in-c-3587)
-- [Level 1 Array &amp; String Problems in C++](https://dev.to/nithya_dharshiniofficial/level-1-array-string-problems-in-c-1a8m)
-- [Legacy-First Design &lpar;LFD&rpar;: Designing Software That Still Makes Sense Over Time](https://dev.to/matheus_pereira_532646ca6/legacy-first-design-lfd-designing-software-that-still-makes-sense-over-time-4ak6)
+- [Video Streaming Platform &lpar;YouTube / Hotstar / Netflix / Prime&rpar; High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l)
+- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)
+- [AI Agents: Automate 80% of Support &lpar;Case Study&rpar;](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793)
+- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
 <!-- BLOG-POST-LIST:END -->
 
