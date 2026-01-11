@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Helm Chart Testing Matters &lpar;And How to Choose Your Tools&rpar;](https://dev.to/alexandrev/why-helm-chart-testing-matters-and-how-to-choose-your-tools-4mhk)
-- [Right way to vibe code that actually works](https://dev.to/singhdevhub/right-way-to-vibe-code-that-actually-works-3oah)
-- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
-- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
+- [[Showdev] Blitzy: a lightweight 2D game engine in Kotlin](https://dev.to/xerooup/showdev-blitzy-a-lightweight-2d-game-engine-in-kotlin-1e9c)
+- [Linux File &amp; Directory Operations for DevOps — v1.0](https://dev.to/chetan_tekam_3500/linux-file-directory-operations-for-devops-v10-1jbb)
+- [Back to basics: a solid foundation for using AI coding agents in a monorepo](https://dev.to/valuecodes/back-to-basics-a-solid-foundation-for-using-ai-coding-agents-in-a-monorepo-3c26)
+- [🚀 AWS 131: Scalable Data - Provisioning Private RDS with Storage Autoscaling](https://dev.to/hritikraj8804/aws-131-scalable-data-provisioning-private-rds-with-storage-autoscaling-1che)
 <!-- BLOG-POST-LIST:END -->
 
