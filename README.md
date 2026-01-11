@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Terraform Blue-Green Deployment Using Elastic Beanstalk](https://dev.to/amit_kumar_7db8e36a64dd45/aws-terraform-blue-green-deployment-using-elastic-beanstalk-5647)
-- [Foundational Primitive Structure for Decentralized AI Trust Layer Infrastructure](https://dev.to/canonicalfunnel/foundational-primitive-structure-for-decentralized-ai-trust-layer-infrastructure-36m6)
-- [Turning Database Schemas into Diagrams &amp; Docs — Open for Early Feedback](https://dev.to/rushikesh_bodakhe_db28644/turning-database-schemas-into-diagrams-docs-open-for-early-feedback-5159)
-- [Why print&lpar;&rpar; Can Cause a TLE Even with an Efficient Algorithm](https://dev.to/yumyum116/why-print-can-cause-a-tle-even-with-an-efficient-algorithm-4f7e)
+- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
+- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
+- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
+- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
 <!-- BLOG-POST-LIST:END -->
 
