@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bytekit: A Turbocharged TypeScript Toolkit for Modern Development](https://dev.to/sebamar88/bytekit-a-turbocharged-typescript-toolkit-for-modern-development-1m1l)
-- [Why Claude Code Excels at Legacy System Modernization](https://dev.to/juhapellotsalo/why-claude-code-excels-at-legacy-system-modernization-1ll1)
-- [Artdots: The benefits of creating a side project](https://dev.to/veliona/artdots-the-benefits-of-creating-a-side-project-564e)
-- [3I/ATLAS: Could an Interstellar Object Threaten Earth? Analysis Assisted by ChatGPT](https://dev.to/sharmaricky/the-curious-case-of-3iatlas-could-an-interstellar-object-pose-a-risk-to-earth-11j9)
+- [🧱 Beginner-Friendly Guide &#39;Maximal Rectangle&#39; – LeetCode 85 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe)
+- [HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting](https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221)
+- [The Irreplaceable Human in the Age of Smart Systems](https://dev.to/newriderslabs/the-irreplaceable-human-in-the-age-of-smart-systems-5ej3)
+- [🎬 Build a Relax Video Generator &lpar;Images + MP3 MP4&rpar; with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-relax-video-generator-images-mp3-mp4-with-python-tkinter-b3g)
 <!-- BLOG-POST-LIST:END -->
 
