@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oasis for Developers: an underrated EVM for privacy-first dApps](https://dev.to/rollingindo/oasis-for-developers-an-underrated-evm-for-privacy-first-dapps-9if)
-- [Deploying Full-Stack Next.js Apps: Vercel vs Render Comparison](https://dev.to/athashri_keny/deploying-full-stack-nextjs-apps-vercel-vs-render-comparison-ojj)
-- [Open WebUI: Self-Hosted LLM Interface](https://dev.to/rosgluk/open-webui-self-hosted-llm-interface-2jhc)
-- [The Engine Under the Hood: Go’s GMP, Java’s Locks, and Erlang’s Heaps](https://dev.to/ayush-k-anand/the-engine-under-the-hood-gos-gmp-javas-locks-and-erlangs-heaps-1lhi)
+- [My Dashboard: как я превратил старые Android-устройства в кроссплатформенные дашборды с помощью AI и типобезопасного fullstack](https://dev.to/endykaufman/my-dashboard-kak-ia-prievratil-staryie-android-ustroistva-v-krossplatformiennyie-dashbordy-s-pomoshchiu-ai-1dh9)
+- [Creating Spotlight Tutorials in Flutter: The Complete Guide to Selective Overlays](https://dev.to/thanasistraitsis/creating-spotlight-tutorials-in-flutter-the-complete-guide-to-selective-overlays-4iil)
+- [Seeing the Web Like a User: Handling IP Reputation in Multi-Region Scraping](https://dev.to/anna_6c67c00f5c3f53660978/seeing-the-web-like-a-user-handling-ip-reputation-in-multi-region-scraping-1a9m)
+- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
 <!-- BLOG-POST-LIST:END -->
 
