@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Platform: How Modern Organizations Stay Ahead of Cyber Threats](https://dev.to/borisgigovic/threat-intelligence-platform-how-modern-organizations-stay-ahead-of-cyber-threats-57fl)
-- [7 Small Workflow Tweaks That Actually Helped My Developer Productivity](https://dev.to/johannesjo/7-small-workflow-tweaks-that-actually-helped-my-developer-productivity-3iib)
-- [XCode Cloud Build fails due Command exited with non-zero exit-code: 70](https://dev.to/alexanderhodes/xcode-cloud-build-fails-due-command-exited-with-non-zero-exit-code-70-6aj)
-- [Shipping a small app forces uncomfortable decisions](https://dev.to/ivkemilioner/shipping-a-small-app-forces-uncomfortable-decisions-13if)
+- [Python Selenium and Its Architecture, Significance of the python virtual environment](https://dev.to/nandithashri_sk_91b3e3d3/python-selenium-and-its-architecture-significance-of-the-python-virtual-environment-4c4l)
+- [Exploring Modern Python Type Checkers](https://dev.to/nicocrm/exploring-modern-python-type-checkers-572l)
+- [When the GUI Disappears: Google UCP and the Shift to Protocol-First Commerce](https://dev.to/aaronwu-builds/when-the-gui-disappears-google-ucp-and-the-shift-to-protocol-first-commerce-49pn)
+- [10 Best HackerRank Alternatives in 2026 &lpar;Free &amp; Paid&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/10-best-hackerrank-alternatives-in-2026-free-paid-3d14)
 <!-- BLOG-POST-LIST:END -->
 
