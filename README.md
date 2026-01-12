@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I realized I was wasting hours applying to “dead” LinkedIn jobs — so I built a tiny fix](https://dev.to/salaria_labs_5ce6a1f78143/i-realized-i-was-wasting-hours-applying-to-dead-linkedin-jobs-so-i-built-a-tiny-fix-29fh)
-- [Deploying AI Agents on AWS Without Creating a Security Mess](https://dev.to/morganwilliscloud/deploying-ai-agents-on-aws-without-creating-a-security-mess-4i)
-- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
-- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
+- [Building Nature’s View — A Responsive Website Using HTML, CSS &amp; JavaScript](https://dev.to/hopewell_mahlombe_f5d82ba/building-natures-view-a-responsive-website-using-html-css-javascript-4hnl)
+- [Built API Stress Lab after my startup crashed on launch day](https://dev.to/shadullah_sartajsyed_800/built-api-stress-lab-after-my-startup-crashed-on-launch-day-3kpk)
+- [Why Your Secret Sharing Tool Needs Post-Quantum Cryptography Today](https://dev.to/whaaat_9819bdb68eccf5b8a/why-your-secret-sharing-tool-needs-post-quantum-cryptography-today-20j3)
+- [The 3 Most Common .env Leaks &lpar;and How to Prevent Them&rpar;](https://dev.to/joerucci/the-3-most-common-env-leaks-and-how-to-prevent-them-2omc)
 <!-- BLOG-POST-LIST:END -->
 
