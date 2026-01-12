@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop App to Supercharge My TMUX + Claude Code Workflow](https://dev.to/joe_re/i-built-a-desktop-app-to-supercharge-my-tmux-claude-code-workflow-521m)
-- [Agentic Coding Tools Are Accelerating Output, Not Velocity](https://dev.to/signadot/agentic-coding-tools-are-accelerating-output-not-velocity-51fc)
-- [OKAN KAPLAN SOUND LAB – Infinite Jazz Generator | Live Coding with JavaScript](https://dev.to/okan_kaplan_livehtml/okan-kaplan-sound-lab-infinite-jazz-generator-live-coding-with-javascript-3ifi)
-- [I tried to capture system audio in the browser. Here&#39;s what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
+- [🧭 Beginner-Friendly Guide &#39;Minimum Time Visiting All Points&#39; – LeetCode 1266 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-time-visiting-all-points-leetcode-1266-c-python-50ah)
+- [If you’re preparing for a software developer interview in 2026, this guide breaks down exactly how modern software engineering interviews work, so you can follow a clear developer interview preparation roadmap and crack your next interview with confidence.](https://dev.to/hadil/if-youre-preparing-for-a-software-developer-interview-in-2026-this-guide-breaks-down-exactly-how-9eh)
+- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
+- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
 <!-- BLOG-POST-LIST:END -->
 
