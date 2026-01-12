@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Q&amp;A on &quot;Why XLang Is an Innovative Programming Language&quot;](https://dev.to/canonical/qa-on-why-xlang-is-an-innovative-programming-language-3998)
-- [counter](https://dev.to/query_filter_591122b53770/counter-faj)
-- [Bags.fm: The Solana Launchpad That&#39;s Changing Creator Monetization](https://dev.to/sivarampg/bagsfm-the-solana-launchpad-thats-changing-creator-monetization-4g7n)
-- [2D Spatial Recognition with Local LLM: Comparing Prompt Strategies](https://dev.to/toydev/2d-spatial-recognition-with-local-llm-comparing-prompt-strategies-4h64)
+- [I Built a Desktop App to Supercharge My TMUX + Claude Code Workflow](https://dev.to/joe_re/i-built-a-desktop-app-to-supercharge-my-tmux-claude-code-workflow-521m)
+- [Agentic Coding Tools Are Accelerating Output, Not Velocity](https://dev.to/signadot/agentic-coding-tools-are-accelerating-output-not-velocity-51fc)
+- [OKAN KAPLAN SOUND LAB – Infinite Jazz Generator | Live Coding with JavaScript](https://dev.to/okan_kaplan_livehtml/okan-kaplan-sound-lab-infinite-jazz-generator-live-coding-with-javascript-3ifi)
+- [I tried to capture system audio in the browser. Here&#39;s what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
 <!-- BLOG-POST-LIST:END -->
 
