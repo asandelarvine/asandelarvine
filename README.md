@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
-- [You can&#39;t trust Images anymore](https://dev.to/shuckle_xd/you-cant-trust-images-anymore-58jh)
-- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
-- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
+- [I realized I was wasting hours applying to “dead” LinkedIn jobs — so I built a tiny fix](https://dev.to/salaria_labs_5ce6a1f78143/i-realized-i-was-wasting-hours-applying-to-dead-linkedin-jobs-so-i-built-a-tiny-fix-29fh)
+- [Deploying AI Agents on AWS Without Creating a Security Mess](https://dev.to/morganwilliscloud/deploying-ai-agents-on-aws-without-creating-a-security-mess-4i)
+- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
 <!-- BLOG-POST-LIST:END -->
 
