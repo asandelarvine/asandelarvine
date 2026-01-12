@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem 9: Most Frequent Element](https://dev.to/highcenburg/problem-9-most-frequent-element-3pdh)
-- [MCPConnect &lpar;EN&rpar;](https://dev.to/lminuti/mcpconnect-en-2e37)
-- [Putting the CD Back into CI/CD: A Guide to Continuous Deployment](https://dev.to/audaciatechnology/putting-the-cd-back-into-cicd-a-guide-to-continuous-deployment-174o)
-- [Generative AI in FinTech: Use Cases, Implementation, and Helpful Hints](https://dev.to/yuliyamelnik/generative-ai-in-fintech-use-cases-implementation-and-helpful-hints-fc8)
+- [Mike’s 36th Birthday Cake – CSS Candle Wick Edition](https://dev.to/preetha_vaishnavi_2b82358/mikes-36th-birthday-cake-css-candle-wick-edition-3l5p)
+- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
+- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
+- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
 <!-- BLOG-POST-LIST:END -->
 
