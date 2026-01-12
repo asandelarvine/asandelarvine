@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Programmers Are Falling Into the AI Trap](https://dev.to/farhadrahimiklie/how-programmers-are-falling-into-the-ai-trap-ahg)
-- [How to protect server functions with auth middleware in TanStack Start](https://dev.to/hirotoshioi/how-to-protect-server-functions-with-auth-middleware-in-tanstack-start-opj)
-- [eBPF: Experiencing eBPF with Cilium](https://dev.to/kanywst/ebpf-experiencing-ebpf-with-cilium-4k55)
-- [How Rube MCP Solves Context Overload When Using Hundreds of MCP Servers](https://dev.to/composiodev/how-rube-mcp-solves-context-overload-when-using-hundreds-of-mcp-servers-2l9e)
+- [Problem 9: Most Frequent Element](https://dev.to/highcenburg/problem-9-most-frequent-element-3pdh)
+- [MCPConnect &lpar;EN&rpar;](https://dev.to/lminuti/mcpconnect-en-2e37)
+- [Putting the CD Back into CI/CD: A Guide to Continuous Deployment](https://dev.to/audaciatechnology/putting-the-cd-back-into-cicd-a-guide-to-continuous-deployment-174o)
+- [Generative AI in FinTech: Use Cases, Implementation, and Helpful Hints](https://dev.to/yuliyamelnik/generative-ai-in-fintech-use-cases-implementation-and-helpful-hints-fc8)
 <!-- BLOG-POST-LIST:END -->
 
