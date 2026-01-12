@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Staying Uncomfortable: My Take on Growth at 23](https://dev.to/priyankaj04/staying-uncomfortable-my-take-on-growth-at-23-3ioa)
-- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
-- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
-- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
+- [Week 4 iptables Security: 4 Production-Ready Firewall Scenarios](https://dev.to/fosres/master-iptables-security-4-production-ready-firewall-scenarios-860)
+- [From Copilot to Autonomous AI: The Evolution of AI-Assisted Programming](https://dev.to/eva_clari_289d85ecc68da48/from-copilot-to-autonomous-ai-the-evolution-of-ai-assisted-programming-2n8k)
+- [Under the Hood: VaidhLlama Architecture &amp; Training Pipeline](https://dev.to/vivek_patel_022db0e176cf2/under-the-hood-vaidhllama-architecture-training-pipeline-1ho1)
+- [Introduction to DevOps #2. Life Before DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-2-life-before-devops-1g8i)
 <!-- BLOG-POST-LIST:END -->
 
