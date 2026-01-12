@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Selenium and Its Architecture, Significance of the python virtual environment](https://dev.to/nandithashri_sk_91b3e3d3/python-selenium-and-its-architecture-significance-of-the-python-virtual-environment-4c4l)
-- [Exploring Modern Python Type Checkers](https://dev.to/nicocrm/exploring-modern-python-type-checkers-572l)
-- [When the GUI Disappears: Google UCP and the Shift to Protocol-First Commerce](https://dev.to/aaronwu-builds/when-the-gui-disappears-google-ucp-and-the-shift-to-protocol-first-commerce-49pn)
-- [10 Best HackerRank Alternatives in 2026 &lpar;Free &amp; Paid&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/10-best-hackerrank-alternatives-in-2026-free-paid-3d14)
+- [Q&amp;A on &quot;Why XLang Is an Innovative Programming Language&quot;](https://dev.to/canonical/qa-on-why-xlang-is-an-innovative-programming-language-3998)
+- [counter](https://dev.to/query_filter_591122b53770/counter-faj)
+- [Bags.fm: The Solana Launchpad That&#39;s Changing Creator Monetization](https://dev.to/sivarampg/bagsfm-the-solana-launchpad-thats-changing-creator-monetization-4g7n)
+- [2D Spatial Recognition with Local LLM: Comparing Prompt Strategies](https://dev.to/toydev/2d-spatial-recognition-with-local-llm-comparing-prompt-strategies-4h64)
 <!-- BLOG-POST-LIST:END -->
 
