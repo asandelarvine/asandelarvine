@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 4 iptables Security: 4 Production-Ready Firewall Scenarios](https://dev.to/fosres/master-iptables-security-4-production-ready-firewall-scenarios-860)
-- [From Copilot to Autonomous AI: The Evolution of AI-Assisted Programming](https://dev.to/eva_clari_289d85ecc68da48/from-copilot-to-autonomous-ai-the-evolution-of-ai-assisted-programming-2n8k)
-- [Under the Hood: VaidhLlama Architecture &amp; Training Pipeline](https://dev.to/vivek_patel_022db0e176cf2/under-the-hood-vaidhllama-architecture-training-pipeline-1ho1)
-- [Introduction to DevOps #2. Life Before DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-2-life-before-devops-1g8i)
+- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
+- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
+- [🚨 AWS 132: Data Time Travel - RDS Snapshots and Restoration](https://dev.to/hritikraj8804/aws-132-data-time-travel-rds-snapshots-and-restoration-34eg)
+- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
 <!-- BLOG-POST-LIST:END -->
 
