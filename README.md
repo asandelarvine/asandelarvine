@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
-- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
-- [🚨 AWS 132: Data Time Travel - RDS Snapshots and Restoration](https://dev.to/hritikraj8804/aws-132-data-time-travel-rds-snapshots-and-restoration-34eg)
-- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
+- [Devs should use AI for operations and let them focus on new ideas.](https://dev.to/jaideepparashar/devs-should-use-ai-for-operations-and-let-them-focus-on-new-ideas-4a97)
+- [AI for operations: remove friction, not people](https://dev.to/jaideepparashar/ai-for-operations-remove-friction-not-people-1jj9)
+- [Smart Contract Security 101 — Reentrancy &amp; Common AI‑Generated Mistakes](https://dev.to/ribhavmodi/smart-contract-security-101-reentrancy-common-ai-generated-mistakes-1pfb)
+- [Hashicorp Vault: Transit Secrets Engine](https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam)
 <!-- BLOG-POST-LIST:END -->
 
