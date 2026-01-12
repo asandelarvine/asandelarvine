@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Tests Keep Passing, but Design Stops Moving](https://dev.to/felix-asher/when-tests-keep-passing-but-design-stops-moving-19ik)
-- [Debugging runtime bugs in React/Next.js apps can be frustrating when there&#39;s no crash or log to guide you. In this walkthrough, I use theORQL &lpar;an AI runtime debugger&rpar; to fix 5 common bugs in a weather demo app – from render crashes to silent UI failures.](https://dev.to/eleftheriabatsou/debugging-runtime-bugs-in-reactnextjs-apps-can-be-frustrating-when-theres-no-crash-or-log-to-23be)
-- [Why LLMs Are Bad at &quot;First Try&quot; and Great at Verification](https://dev.to/shinpr/why-llms-are-bad-at-first-try-and-great-at-verification-4kcf)
-- [Debugging 5 Real-World Bugs: A Practical Walkthrough That Doesn&#39;t Include Console.log!](https://dev.to/eleftheriabatsou/debugging-5-real-world-bugs-a-practical-walkthrough-that-doesnt-include-consolelog-1jje)
+- [Threat Intelligence Platform: How Modern Organizations Stay Ahead of Cyber Threats](https://dev.to/borisgigovic/threat-intelligence-platform-how-modern-organizations-stay-ahead-of-cyber-threats-57fl)
+- [7 Small Workflow Tweaks That Actually Helped My Developer Productivity](https://dev.to/johannesjo/7-small-workflow-tweaks-that-actually-helped-my-developer-productivity-3iib)
+- [XCode Cloud Build fails due Command exited with non-zero exit-code: 70](https://dev.to/alexanderhodes/xcode-cloud-build-fails-due-command-exited-with-non-zero-exit-code-70-6aj)
+- [Shipping a small app forces uncomfortable decisions](https://dev.to/ivkemilioner/shipping-a-small-app-forces-uncomfortable-decisions-13if)
 <!-- BLOG-POST-LIST:END -->
 
