@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs should use AI for operations and let them focus on new ideas.](https://dev.to/jaideepparashar/devs-should-use-ai-for-operations-and-let-them-focus-on-new-ideas-4a97)
-- [AI for operations: remove friction, not people](https://dev.to/jaideepparashar/ai-for-operations-remove-friction-not-people-1jj9)
-- [Smart Contract Security 101 — Reentrancy &amp; Common AI‑Generated Mistakes](https://dev.to/ribhavmodi/smart-contract-security-101-reentrancy-common-ai-generated-mistakes-1pfb)
-- [Hashicorp Vault: Transit Secrets Engine](https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam)
+- [How Programmers Are Falling Into the AI Trap](https://dev.to/farhadrahimiklie/how-programmers-are-falling-into-the-ai-trap-ahg)
+- [How to protect server functions with auth middleware in TanStack Start](https://dev.to/hirotoshioi/how-to-protect-server-functions-with-auth-middleware-in-tanstack-start-opj)
+- [eBPF: Experiencing eBPF with Cilium](https://dev.to/kanywst/ebpf-experiencing-ebpf-with-cilium-4k55)
+- [How Rube MCP Solves Context Overload When Using Hundreds of MCP Servers](https://dev.to/composiodev/how-rube-mcp-solves-context-overload-when-using-hundreds-of-mcp-servers-2l9e)
 <!-- BLOG-POST-LIST:END -->
 
