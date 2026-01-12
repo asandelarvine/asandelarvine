@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Test of Java on the Orange Pi &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-the-orange-pi-arm-and-risc-v-53bg)
-- [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
-- [Building Voice Trainer: a tiny, local‑first pitch analysis tool for gender‑affirming voice practice](https://dev.to/codebunny20/building-voice-trainer-a-tiny-local-first-pitch-analysis-tool-for-gender-affirming-voice-practice-23a0)
-- [From Moths to Microservices: A Comprehensive History of Coding: Part 1](https://dev.to/bingkahu/from-moths-to-microservices-a-comprehensive-history-of-coding-part-1-3a51)
+- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
+- [You can&#39;t trust Images anymore](https://dev.to/shuckle_xd/you-cant-trust-images-anymore-58jh)
+- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
+- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
 <!-- BLOG-POST-LIST:END -->
 
