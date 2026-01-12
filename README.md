@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Stateful Functions Through JavaScript Closures](https://dev.to/jaboarnoldlandry/understanding-stateful-functions-through-javascript-closures-1f97)
-- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
-- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
-- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
+- [Clean Code Is a Communication Tool, Not a Style Preference](https://dev.to/wmdn9116/clean-code-is-a-communication-tool-not-a-style-preference-1b9p)
+- [Admin-Only Dashboard Rule of Thumb](https://dev.to/msnmongare/admin-only-dashboard-rule-of-thumb-3hhl)
+- [🚀 Building a Modern PHP Microservices Architecture with Docker](https://dev.to/alanvarghese-dev/building-a-modern-php-microservices-architecture-with-docker-4pi0)
+- [Announcing Kreuzberg v4](https://dev.to/t_ivanova/announcing-kreuzberg-v4-55ia)
 <!-- BLOG-POST-LIST:END -->
 
