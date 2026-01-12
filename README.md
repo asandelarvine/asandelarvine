@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaijinOS Part 20 — Trust as a Temporal Resource](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-20-trust-as-a-temporal-resource-2iho)
-- [From ChatGPT to Gemini: How We Built a GDPR-Compliant CV Parser for Odoo](https://dev.to/tderick/from-chatgpt-to-gemini-how-we-built-a-gdpr-compliant-cv-parser-for-odoo-nne)
-- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
-- [Code Hike in 100 Seconds](https://dev.to/fabianfrankwerner/code-hike-in-100-seconds-1d9o)
+- [Staying Uncomfortable: My Take on Growth at 23](https://dev.to/priyankaj04/staying-uncomfortable-my-take-on-growth-at-23-3ioa)
+- [Build Network Proxies and Reverse Proxies in Go: A Hands-On Guide](https://dev.to/jones_charles_ad50858dbc0/build-network-proxies-and-reverse-proxies-in-go-a-hands-on-guide-288j)
+- [System.CommandLine with Dependency Injection: A Complete Solution](https://dev.to/rushuiguan/systemcommandline-with-dependency-injection-a-complete-solution-128o)
+- [Why n8n Is Quietly Becoming a Power Tool for DevOps &amp; SRE Teams❓](https://dev.to/saharbat00l/why-n8n-is-quietly-becoming-a-power-tool-for-devops-sre-teams-4j14)
 <!-- BLOG-POST-LIST:END -->
 
