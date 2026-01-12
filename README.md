@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧭 Beginner-Friendly Guide &#39;Minimum Time Visiting All Points&#39; – LeetCode 1266 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-time-visiting-all-points-leetcode-1266-c-python-50ah)
-- [If you’re preparing for a software developer interview in 2026, this guide breaks down exactly how modern software engineering interviews work, so you can follow a clear developer interview preparation roadmap and crack your next interview with confidence.](https://dev.to/hadil/if-youre-preparing-for-a-software-developer-interview-in-2026-this-guide-breaks-down-exactly-how-9eh)
-- [I built an agent that turns customer calls into Linear tickets](https://dev.to/toriseidenstein/i-built-an-agent-that-turns-customer-calls-into-linear-tickets-39mc)
-- [Seeking Peer Connections for CodeChat P2P Testing](https://dev.to/bingkahu/seeking-peer-connections-for-codechat-p2p-testing-4inh)
+- [First Test of Java on the Orange Pi &lpar;ARM and RISC-V&rpar;](https://dev.to/fdelporte/first-test-of-java-on-the-orange-pi-arm-and-risc-v-53bg)
+- [The `/context` Command: X-Ray Vision for Your Tokens](https://dev.to/rajeshroyal/the-context-command-x-ray-vision-for-your-tokens-4n03)
+- [Building Voice Trainer: a tiny, local‑first pitch analysis tool for gender‑affirming voice practice](https://dev.to/codebunny20/building-voice-trainer-a-tiny-local-first-pitch-analysis-tool-for-gender-affirming-voice-practice-23a0)
+- [From Moths to Microservices: A Comprehensive History of Coding: Part 1](https://dev.to/bingkahu/from-moths-to-microservices-a-comprehensive-history-of-coding-part-1-3a51)
 <!-- BLOG-POST-LIST:END -->
 
