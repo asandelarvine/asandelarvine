@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mike’s 36th Birthday Cake – CSS Candle Wick Edition](https://dev.to/preetha_vaishnavi_2b82358/mikes-36th-birthday-cake-css-candle-wick-edition-3l5p)
-- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
-- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
-- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
+- [Understanding Stateful Functions Through JavaScript Closures](https://dev.to/jaboarnoldlandry/understanding-stateful-functions-through-javascript-closures-1f97)
+- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
+- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
+- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
 <!-- BLOG-POST-LIST:END -->
 
