@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up many landing pages with waitlist in an economical way](https://dev.to/tanin47/how-to-set-up-many-landing-pages-with-waitlist-in-an-economical-way-2fn8)
-- [Manage Environment Configs](https://dev.to/mikkoi/manage-environment-configs-4b3e)
-- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
+- [Feedforward Neural Networks](https://dev.to/washington_amolo_ebf7698c/feedforward-neural-networks-3mhm)
+- [The Three Musketeers of Machine Learning: A Journey from &quot;What&#39;s ML?&quot; to &quot;I Get It!&quot;](https://dev.to/sachin_krrajput/the-three-musketeers-of-machine-learning-a-journey-from-whats-ml-to-i-get-it-2dla)
+- [IVP Compliance Review: CodeAI - An AI-Designed Language Evaluated Against the Independent Variation Principle](https://dev.to/yannick555/ivp-compliance-review-codeai-an-ai-designed-language-evaluated-against-the-independent-variation-4ca9)
+- [I got tired of manual DTO mapping, so I built a visual tool for it 🛠️](https://dev.to/anandh_a_73d986de2f2e0c58/i-got-tired-of-manual-dto-mapping-so-i-built-a-visual-tool-for-it-35g8)
 <!-- BLOG-POST-LIST:END -->
 
