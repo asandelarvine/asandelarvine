@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Experiential Edge: Bridging the Leadership Gap with Simulation](https://dev.to/businessacumen21/the-experiential-edge-bridging-the-leadership-gap-with-simulation-48mo)
-- [🐌 “My Spring Boot API Became Slow… Until I Learned Pagination &amp; Sorting”](https://dev.to/shashwathsh/my-spring-boot-api-became-slow-until-i-learned-pagination-sorting-20md)
-- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
-- [How I built a high-performance Social API with Bun &amp; ElysiaJS on a $5 VPS &lpar;handling 3.6k reqs/min&rpar;](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
+- [A Production-Ready Monorepo for AI-Native Full-Stack Development](https://dev.to/gracefullight/a-production-ready-monorepo-for-ai-native-full-stack-development-55ma)
+- [GenX: From Childhood Flipbooks to Premium Scroll Animation](https://dev.to/sagarparmarr/genx-from-childhood-flipbooks-to-premium-scroll-animation-1j4)
+- [In-Memory Databases Are Overrated — Here’s What Actually Matters for Speed&quot;](https://dev.to/esproc_spl/in-memory-databases-are-overrated-heres-what-actually-matters-for-speed-3ho1)
+- [Ask Our AI Experts: An AMA With Our Tech Leads](https://dev.to/capestart/ask-our-ai-experts-an-ama-with-our-tech-leads-2cn6)
 <!-- BLOG-POST-LIST:END -->
 
