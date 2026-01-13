@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Remote: Your AI, Anywhere You Go](https://dev.to/rajeshroyal/claude-code-remote-your-ai-anywhere-you-go-l94)
-- [I Taught a 4B Parameter LLM to Play Wordle on a Mac M4 &lpar;Using GRPO&rpar;](https://dev.to/charbull/i-taught-a-4b-parameter-llm-to-play-wordle-on-a-mac-m4-using-grpo-i9k)
-- [Server-First Web Component Architecture: SXO + Reactive Component](https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p)
-- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
+- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
+- [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
+- [MSUthemes: Building Consistent Analytics Through Thoughtful Tooling](https://dev.to/emilioxavier/msuthemes-building-consistent-analytics-through-thoughtful-tooling-4lln)
+- [🎨Color Picker Tool for Visual Studio](https://dev.to/shemeerns/color-picker-tool-for-visual-studio-j4p)
 <!-- BLOG-POST-LIST:END -->
 
