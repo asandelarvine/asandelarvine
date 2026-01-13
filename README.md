@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
-- [I Built a VSCode Extension to Learn How VSCode Extensions Work](https://dev.to/aimatey/i-built-a-vscode-extension-to-learn-how-vscode-extensions-work-3197)
-- [Anthropic Shipped Cowork in 10 Days Using Its Own AI. Here&#39;s Why That Changes Everything.](https://dev.to/with_attitude/anthropic-shipped-cowork-in-10-days-using-its-own-ai-heres-why-that-changes-everything-2i2j)
-- [Trying Out the New Conductor Extension in Gemini CLI — We’re Gonna Add Auth to Our Full Stack](https://dev.to/gde/trying-out-the-new-conductor-extension-in-gemini-cli-were-gonna-add-auth-to-our-full-stack-3lb1)
+- [Engineer’s Diary: Leaving Windows Behind and Building the ETL Engine I Always Dreamed Of, PardoX v0.1](https://dev.to/betoalien/engineers-diary-leaving-windows-behind-and-building-the-etl-engine-i-always-dreamed-of-pardox-9jp)
+- [Dart Frog Tutorial Part 2: Building Your First Real REST API &lpar;Full CRUD with Todos&rpar; 🐸](https://dev.to/techwithsam/dart-frog-tutorial-part-2-building-your-first-real-rest-api-full-crud-with-todos-14ff)
+- [My Goals for 2026 in Technology](https://dev.to/cinthiabs/my-goals-for-2026-in-technology-dae)
+- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
 <!-- BLOG-POST-LIST:END -->
 
