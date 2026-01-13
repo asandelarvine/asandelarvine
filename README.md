@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🟦 Beginner-Friendly Guide &#39;Separate Squares I&#39; – LeetCode 3453 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-i-leetcode-3453-c-python-javascript-45nf)
-- [Identify Practical Use Cases for AI](https://dev.to/aws-builders/identify-practical-use-cases-for-ai-3mb2)
-- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
-- [CLI tool to &quot;freeze&quot; heavy apps instead of closing them to save CPU/RAM &lpar;Python + Linux&rpar;](https://dev.to/annposhtak/cli-tool-to-freeze-heavy-apps-instead-of-closing-them-to-save-cpuram-python-linux-4n1p)
+- [How to set up many landing pages with waitlist in an economical way](https://dev.to/tanin47/how-to-set-up-many-landing-pages-with-waitlist-in-an-economical-way-2fn8)
+- [Manage Environment Configs](https://dev.to/mikkoi/manage-environment-configs-4b3e)
+- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
+- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
 <!-- BLOG-POST-LIST:END -->
 
