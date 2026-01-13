@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-obm)
-- [The Rate Limiting Bug That Cost Us 14 Engineering Hours &lpar;And What We Learned&rpar;](https://dev.to/ackermannq/the-rate-limiting-bug-that-cost-us-14-engineering-hours-and-what-we-learned-24mj)
-- [Networking 101 #2. How the Internet actually works](https://dev.to/himanshu_bhatt/networking-101-2-how-the-internet-actually-works-2fg1)
-- [Looking for Developer Feedback: Open Issues in Vizora &lpar;Schema Intelligence Tool&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-developer-feedback-open-issues-in-vizora-schema-intelligence-tool-328h)
+- [Devlog #01: Making Fish Swim](https://dev.to/visualcookie/devlog-01-making-fish-swim-o56)
+- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
+- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
+- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
 <!-- BLOG-POST-LIST:END -->
 
