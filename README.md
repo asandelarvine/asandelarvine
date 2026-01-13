@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Token Validation: Measuring Real Device Delivery Rates with Firebase FCM](https://dev.to/sangwoo_rhie/beyond-token-validation-measuring-real-device-delivery-rates-with-firebase-fcm-3196)
-- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
-- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
-- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
+- [Claude Code Remote: Your AI, Anywhere You Go](https://dev.to/rajeshroyal/claude-code-remote-your-ai-anywhere-you-go-l94)
+- [I Taught a 4B Parameter LLM to Play Wordle on a Mac M4 &lpar;Using GRPO&rpar;](https://dev.to/charbull/i-taught-a-4b-parameter-llm-to-play-wordle-on-a-mac-m4-using-grpo-i9k)
+- [Server-First Web Component Architecture: SXO + Reactive Component](https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p)
+- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
 <!-- BLOG-POST-LIST:END -->
 
