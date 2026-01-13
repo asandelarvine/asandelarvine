@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Photo Restoration Tool with Next.js](https://dev.to/s0lace11/building-an-ai-photo-restoration-tool-with-nextjs-1mg4)
-- [The Ultimate Guide to Drizzle ORM + PostgreSQL &lpar;2025 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-drizzle-orm-postgresql-2025-edition-22b)
-- [Modern Java Observability in 2026 - Spring Boot 4 on Amazon EKS](https://dev.to/yuriybezsonov/modern-java-observability-in-2026-spring-boot-4-on-amazon-eks-4bla)
-- [Networking 101 #1. Networking Introduction](https://dev.to/himanshu_bhatt/networking-101-1-networking-introduction-4ip0)
+- [How to build and serve custom simplified maps with OpenMapTiles](https://dev.to/zenika/how-to-build-and-serve-custom-simplified-maps-with-openmaptiles-hfn)
+- [What SmartML Benchmarks Tell You Before Hyperparameter Tuning](https://dev.to/jashwanth_thatipamula_8ee/what-smartml-benchmarks-tell-you-before-hyperparameter-tuning-2pll)
+- [How RAG Changed the Way We Use Large Language Models](https://dev.to/shravya_k/how-rag-changed-the-way-we-use-large-language-models-1iih)
+- [Why frontend developers don&#39;t wanna write e2e tests](https://dev.to/kriptonian/why-frontend-developers-dont-wanna-write-e2e-tests-4j91)
 <!-- BLOG-POST-LIST:END -->
 
