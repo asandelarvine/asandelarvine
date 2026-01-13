@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer’s Diary: Leaving Windows Behind and Building the ETL Engine I Always Dreamed Of, PardoX v0.1](https://dev.to/betoalien/engineers-diary-leaving-windows-behind-and-building-the-etl-engine-i-always-dreamed-of-pardox-9jp)
-- [Dart Frog Tutorial Part 2: Building Your First Real REST API &lpar;Full CRUD with Todos&rpar; 🐸](https://dev.to/techwithsam/dart-frog-tutorial-part-2-building-your-first-real-rest-api-full-crud-with-todos-14ff)
-- [My Goals for 2026 in Technology](https://dev.to/cinthiabs/my-goals-for-2026-in-technology-dae)
-- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
+- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/_9162596f7fb60139f88447/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
+- [Building a Celtic Cross Tarot Reading Platform from Scratch](https://dev.to/romulusjustinianus/building-a-celtic-cross-tarot-reading-platform-from-scratch-3iof)
+- [Implementando el patrón SNS SQS Fan-out en AWS con Terraform](https://dev.to/auztinorix/implementando-el-patron-sns-sqs-fan-out-en-aws-con-terraform-1i24)
+- [Image Processing Serverless Project using AWS Lambda &lpar;with terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/image-processing-serverless-project-using-aws-lambda-with-terraform-53je)
 <!-- BLOG-POST-LIST:END -->
 
