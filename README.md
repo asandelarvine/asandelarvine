@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Tune-Out: Why AI’s Perfect Illusions Might Save Us from Social Media](https://dev.to/megrehn/the-great-tune-out-why-ais-perfect-illusions-might-save-us-from-social-media-1a9e)
-- [How to Compare Two PDF Documents in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-compare-two-pdf-documents-in-java-a-comprehensive-guide-ja7)
-- [Scalable Architecture Patterns Aren’t Magic — They Just Fix Constraints](https://dev.to/optyxstack/scalable-architecture-patterns-arent-magic-they-just-fix-constraints-2cmk)
-- [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
+- [Login with Google &lpar;oAuth&rpar; - Finding Client ID/Secret in Google Cloud Console &lpar;2026&rpar;](https://dev.to/cathylai/login-with-google-oauth-finding-client-idsecret-in-google-cloud-console-2026-5943)
+- [Cowork: Claude Code for the Rest of Your Work](https://dev.to/sivarampg/cowork-claude-code-for-the-rest-of-your-work-3hjp)
+- [Introducing Frak.js: Simple, Scriptable Code Deployments](https://dev.to/fstrube/introducing-frakjs-simple-scriptable-code-deployments-1g6l)
+- [How I Built a Production AI Chatbot &lpar;That Actually Handles Complexity&rpar;](https://dev.to/rizwanul_islam_afraim/how-i-built-a-production-ai-chatbot-that-actually-handles-complexity-55l6)
 <!-- BLOG-POST-LIST:END -->
 
