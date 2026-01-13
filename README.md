@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Devlog #01: Making Fish Swim](https://dev.to/visualcookie/devlog-01-making-fish-swim-o56)
-- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
-- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
-- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
+- [Beyond Token Validation: Measuring Real Device Delivery Rates with Firebase FCM](https://dev.to/sangwoo_rhie/beyond-token-validation-measuring-real-device-delivery-rates-with-firebase-fcm-3196)
+- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
+- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
+- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
 <!-- BLOG-POST-LIST:END -->
 
