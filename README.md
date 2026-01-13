@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
-- [Sqlite Database File Structure](https://dev.to/lovestaco/sqlite-database-file-structure-2dhl)
-- [MSUthemes: Building Consistent Analytics Through Thoughtful Tooling](https://dev.to/emilioxavier/msuthemes-building-consistent-analytics-through-thoughtful-tooling-4lln)
-- [🎨Color Picker Tool for Visual Studio](https://dev.to/shemeerns/color-picker-tool-for-visual-studio-j4p)
+- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
+- [I Built a VSCode Extension to Learn How VSCode Extensions Work](https://dev.to/aimatey/i-built-a-vscode-extension-to-learn-how-vscode-extensions-work-3197)
+- [Anthropic Shipped Cowork in 10 Days Using Its Own AI. Here&#39;s Why That Changes Everything.](https://dev.to/with_attitude/anthropic-shipped-cowork-in-10-days-using-its-own-ai-heres-why-that-changes-everything-2i2j)
+- [Trying Out the New Conductor Extension in Gemini CLI — We’re Gonna Add Auth to Our Full Stack](https://dev.to/gde/trying-out-the-new-conductor-extension-in-gemini-cli-were-gonna-add-auth-to-our-full-stack-3lb1)
 <!-- BLOG-POST-LIST:END -->
 
