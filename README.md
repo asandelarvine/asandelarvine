@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Integration Platforms for 2026 🤖💥](https://dev.to/composiodev/top-ai-integration-platforms-for-2026-32pm)
-- [We&#39;re Paying Developers $330-$825 Per Contract to Build Ethical AI Features &lpar;Open Bounties&rpar;](https://dev.to/warpspeedopen/were-paying-developers-330-825-per-contract-to-build-ethical-ai-features-open-bounties-277e)
-- [Supercharge Your PHP Apps with FrankenPHP Classic Mode](https://dev.to/indunilperamuna/supercharge-your-php-apps-with-frankenphp-classic-mode-5gb5)
-- [Acumatica Salesforce Integration Guide](https://dev.to/antoninakharchenko/acumatica-salesforce-integration-guide-2a4f)
+- [Migrando de Supabase a una arquitectura full Go: La poesía de los binarios estáticos](https://dev.to/gopherscl/migrando-de-supabase-a-una-arquitectura-full-go-la-poesia-de-los-binarios-estaticos-145n)
+- [System Design for Beginners: A Practical Practice Path](https://dev.to/alex_hunter_44f4c9ed6671e/system-design-for-beginners-a-practical-practice-path-107p)
+- [Constela v0.8.0: 5 New Features for AI-Powered UI Development](https://dev.to/yuu1ch13/constela-v080-5-new-features-for-ai-powered-ui-development-5f02)
+- [Batch vs Mini-Batch vs Stochastic Gradient Descent: Three Hikers, Three Strategies, One Mountain](https://dev.to/sachin_krrajput/batch-vs-mini-batch-vs-stochastic-gradient-descent-three-hikers-three-strategies-one-mountain-23bd)
 <!-- BLOG-POST-LIST:END -->
 
