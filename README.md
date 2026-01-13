@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro + Decap in 2026](https://dev.to/migsarnavarro/astro-decap-in-2026-3mj3)
-- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
-- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
-- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
+- [🟦 Beginner-Friendly Guide &#39;Separate Squares I&#39; – LeetCode 3453 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-separate-squares-i-leetcode-3453-c-python-javascript-45nf)
+- [Identify Practical Use Cases for AI](https://dev.to/aws-builders/identify-practical-use-cases-for-ai-3mb2)
+- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+- [CLI tool to &quot;freeze&quot; heavy apps instead of closing them to save CPU/RAM &lpar;Python + Linux&rpar;](https://dev.to/annposhtak/cli-tool-to-freeze-heavy-apps-instead-of-closing-them-to-save-cpuram-python-linux-4n1p)
 <!-- BLOG-POST-LIST:END -->
 
