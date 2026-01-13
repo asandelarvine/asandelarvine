@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Android Engineer to Indie Developer: My Journey So Far](https://dev.to/_9162596f7fb60139f88447/from-android-engineer-to-indie-developer-my-journey-so-far-3jkm)
-- [Building a Celtic Cross Tarot Reading Platform from Scratch](https://dev.to/romulusjustinianus/building-a-celtic-cross-tarot-reading-platform-from-scratch-3iof)
-- [Implementando el patrón SNS SQS Fan-out en AWS con Terraform](https://dev.to/auztinorix/implementando-el-patron-sns-sqs-fan-out-en-aws-con-terraform-1i24)
-- [Image Processing Serverless Project using AWS Lambda &lpar;with terraform&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/image-processing-serverless-project-using-aws-lambda-with-terraform-53je)
+- [Self-Hosted Nextcloud on a Ubuntu Server 24.04 VM](https://dev.to/navickas/self-hosted-nextcloud-on-a-ubuntu-server-2404-vm-4agh)
+- [Por que o seu Design System está morrendo &lpar;e como começamos a salvá-lo&rpar;](https://dev.to/augustosandim/por-que-o-seu-design-system-esta-morrendo-e-como-comecamos-a-salva-lo-546l)
+- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
+- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
 <!-- BLOG-POST-LIST:END -->
 
