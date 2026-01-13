@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Login with Google &lpar;oAuth&rpar; - Finding Client ID/Secret in Google Cloud Console &lpar;2026&rpar;](https://dev.to/cathylai/login-with-google-oauth-finding-client-idsecret-in-google-cloud-console-2026-5943)
-- [Cowork: Claude Code for the Rest of Your Work](https://dev.to/sivarampg/cowork-claude-code-for-the-rest-of-your-work-3hjp)
-- [Introducing Frak.js: Simple, Scriptable Code Deployments](https://dev.to/fstrube/introducing-frakjs-simple-scriptable-code-deployments-1g6l)
-- [How I Built a Production AI Chatbot &lpar;That Actually Handles Complexity&rpar;](https://dev.to/rizwanul_islam_afraim/how-i-built-a-production-ai-chatbot-that-actually-handles-complexity-55l6)
+- [The Experiential Edge: Bridging the Leadership Gap with Simulation](https://dev.to/businessacumen21/the-experiential-edge-bridging-the-leadership-gap-with-simulation-48mo)
+- [🐌 “My Spring Boot API Became Slow… Until I Learned Pagination &amp; Sorting”](https://dev.to/shashwathsh/my-spring-boot-api-became-slow-until-i-learned-pagination-sorting-20md)
+- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
+- [How I built a high-performance Social API with Bun &amp; ElysiaJS on a $5 VPS &lpar;handling 3.6k reqs/min&rpar;](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
 <!-- BLOG-POST-LIST:END -->
 
