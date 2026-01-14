@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is PaaS &lpar;Platform as a Service&rpar;?](https://dev.to/devopsdynamicshub/what-is-paas-platform-as-a-service-550l)
-- [Running and Testing an SLM Locally using CPU-Only Mode](https://dev.to/ben-santora/running-and-testing-an-slm-locally-using-cpu-only-mode-4dbk)
-- [Before optimizing code, optimize the process](https://dev.to/fadydesokysaeedabdelaziz/before-optimizing-code-optimize-the-process-2267)
-- [INSTALL GIT BASH ON WINDOWS AND LINK IT TO YOUR GITHUB ACCOUNT.](https://dev.to/njagiii/install-git-bash-on-windows-and-link-it-to-your-github-account-34o7)
+- [Top 5 React Animation Libraries: Bring Life to Your Web Applications](https://dev.to/riteshkokam/top-5-react-animation-libraries-bring-life-to-your-web-applications-2hm8)
+- [Inside the Interviewer&#39;s Mind: Why We Still Ask Blind 75 Questions](https://dev.to/alex_hunter_44f4c9ed6671e/inside-the-interviewers-mind-why-we-still-ask-blind-75-questions-2la3)
+- [We Tested Three Frontier Models on Kilo&#39;s AI Code Reviews](https://dev.to/kilocode/we-tested-three-frontier-models-on-kilos-ai-code-reviews-482e)
+- [GitHub Actions in 2026: The Complete Guide to Monorepo CI/CD and Self-Hosted Runners](https://dev.to/pockit_tools/github-actions-in-2026-the-complete-guide-to-monorepo-cicd-and-self-hosted-runners-1jop)
 <!-- BLOG-POST-LIST:END -->
 
