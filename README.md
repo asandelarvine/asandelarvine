@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Blog Generator with FastAPI, React, and Hugging Face &lpar;Pt1&rpar;](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
-- [CPU–RAM–OS Synergy: Why Balanced Systems Matter More Than High Specs](https://dev.to/micheal_angelo_41cea4e81a/cpu-ram-os-synergy-why-balanced-systems-matter-more-than-high-specs-526d)
-- [When Indicators Are Not Functions: Defining Quant Operators in Rust](https://dev.to/yuer/when-indicators-are-not-functions-defining-quant-operators-in-rust-73h)
-- [Which Code Editor Is Best for Developers in 2026](https://dev.to/farhadrahimiklie/which-code-editor-is-best-for-developers-in-2026-2dn7)
+- [The Chatbot That Couldn&#39;t Understand &quot;Hmm&quot; &lpar;Until We Taught It Bangla Body Language&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-chatbot-that-couldnt-understand-hmm-until-we-taught-it-bangla-body-language-30l1)
+- [A Simple Guide to Cookies in Modern Web Development](https://dev.to/tech_girlll/a-simple-guide-to-cookies-in-modern-web-development-43ap)
+- [Morning Build Update: How Vizora Is Shaping Up &lpar;UI, Motion, and Core Systems&rpar;](https://dev.to/rushikesh_bodakhe_db28644/morning-build-update-how-vizora-is-shaping-up-ui-motion-and-core-systems-4lab)
+- [AI-Powered Malware: Reality, Myths, and the Current Stage of the Threat Landscape](https://dev.to/hejhdiss/ai-powered-malware-reality-myths-and-the-current-stage-of-the-threat-landscape-4mj1)
 <!-- BLOG-POST-LIST:END -->
 
