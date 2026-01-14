@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-519p)
-- [Why Your App Needs Secure Link Previews—Beyond Just UX](https://dev.to/nikolas_dimitroulakis_d23/why-your-app-needs-secure-link-previews-beyond-just-ux-2j40)
-- [The Law of Loudness: Why Your Code Should Scream, Not Whisper](https://dev.to/doogal/the-law-of-loudness-why-your-code-should-scream-not-whisper-1cee)
-- [Gaze Guard: Your Privacy-First AI Shield Against Unwanted Online Content](https://dev.to/txlabs/gaze-guard-your-privacy-first-ai-shield-against-unwanted-online-content-2o09)
+- [Break Global Barriers: Introducing the Ultimate Translator API for Developers](https://dev.to/imbuedata/break-global-barriers-introducing-the-ultimate-translator-api-for-developers-3kk9)
+- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn)
+- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab)
+- [Why My Node.js E-commerce App Got Slower Over Time &lpar;And It Wasn’t a Memory Leak&rpar;](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)
 <!-- BLOG-POST-LIST:END -->
 
