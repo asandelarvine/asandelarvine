@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built PulseDaily: a Local‑First, No‑Login Habit Tracker &lpar;Next.js + Tailwind&rpar;](https://dev.to/wenbin_zhang_800871dc9625/i-built-pulsedaily-a-local-first-no-login-habit-tracker-nextjs-tailwind-2n2j)
-- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
-- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
-- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
+- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
+- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
+- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
+- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
 <!-- BLOG-POST-LIST:END -->
 
