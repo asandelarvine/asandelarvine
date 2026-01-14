@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Load Testing with k6](https://dev.to/gr1m0h/a-practical-guide-to-load-testing-with-k6-10ce)
-- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
-- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
-- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
+- [The Race Condition You&#39;re Probably Shipping Right Now With Stripe Webhooks](https://dev.to/belazy/the-race-condition-youre-probably-shipping-right-now-with-stripe-webhooks-mj4)
+- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
+- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
+- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
 <!-- BLOG-POST-LIST:END -->
 
