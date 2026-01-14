@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proyecto Weather Service &lpar;Parte 3&rpar;: Prediciendo el Futuro con IA y OpenWeatherMap](https://dev.to/datalaria/proyecto-weather-service-parte-3-prediciendo-el-futuro-con-ia-y-openweathermap-19kb)
-- [Building a Type-Safe REST API Client with TypeScript Discriminated Unions](https://dev.to/abdullah_tariq_02c405b9c5/building-a-type-safe-rest-api-client-with-typescript-discriminated-unions-5098)
-- [Ethical AI Is Not a Feature — It’s an Architectural Decision](https://dev.to/dhianarinofa/ethical-ai-is-not-a-feature-its-an-architectural-decision-13jm)
-- [I Open-Sourced a Tool to Detect Weak JWT Secrets 🔐](https://dev.to/girff/i-open-sourced-a-tool-to-detect-weak-jwt-secrets-4j71)
+- [The JavaScript Event Loop &amp; Concurrency Model: Why setTimeout&lpar;fn, 0&rpar; Doesn&#39;t Run Immediately](https://dev.to/tishonator/the-javascript-event-loop-concurrency-model-why-settimeoutfn-0-doesnt-run-immediately-396m)
+- [How software development will transform in the next decade](https://dev.to/luisyanguas/how-software-development-will-transform-in-the-next-decade-198c)
+- [Building CLI tools with Rust &lpar;Clap&rpar;](https://dev.to/godofgeeks/building-cli-tools-with-rust-clap-4bo2)
+- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
 <!-- BLOG-POST-LIST:END -->
 
