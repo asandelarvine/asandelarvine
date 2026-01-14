@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Break Global Barriers: Introducing the Ultimate Translator API for Developers](https://dev.to/imbuedata/break-global-barriers-introducing-the-ultimate-translator-api-for-developers-3kk9)
-- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn)
-- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab)
-- [Why My Node.js E-commerce App Got Slower Over Time &lpar;And It Wasn’t a Memory Leak&rpar;](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)
+- [What is PaaS &lpar;Platform as a Service&rpar;?](https://dev.to/devopsdynamicshub/what-is-paas-platform-as-a-service-550l)
+- [Running and Testing an SLM Locally using CPU-Only Mode](https://dev.to/ben-santora/running-and-testing-an-slm-locally-using-cpu-only-mode-4dbk)
+- [Before optimizing code, optimize the process](https://dev.to/fadydesokysaeedabdelaziz/before-optimizing-code-optimize-the-process-2267)
+- [INSTALL GIT BASH ON WINDOWS AND LINK IT TO YOUR GITHUB ACCOUNT.](https://dev.to/njagiii/install-git-bash-on-windows-and-link-it-to-your-github-account-34o7)
 <!-- BLOG-POST-LIST:END -->
 
