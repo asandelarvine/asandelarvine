@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Code Node - Import external library &lpar;Python &amp; JavaScript&rpar;](https://dev.to/codebangkok/n8n-code-node-import-external-library-python-javascript-4lp7)
-- [The Death of Vanilla JavaScript &lpar;And Why It&#39;s Actually Stronger Than Ever&rpar;](https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70)
-- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
-- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
+- [Building Real Agentic AI in PHP with Neuron AI, Gemini, and Tools](https://dev.to/robertobutti/building-real-agentic-ai-in-php-with-neuron-ai-gemini-and-tools-2n5)
+- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-52mk)
+- [`/stats`: Your Claude Code Contribution Graph](https://dev.to/rajeshroyal/stats-your-claude-code-contribution-graph-4hle)
+- [Reducing TCO for AI inferencing with external KV Cache on Managed Lustre](https://dev.to/googleai/reducing-tco-for-ai-inferencing-with-external-kv-cache-on-managed-lustre-56ml)
 <!-- BLOG-POST-LIST:END -->
 
