@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recent breakthroughs in generative AI have led to the discov](https://dev.to/drcarlosruizviquez/recent-breakthroughs-in-generative-ai-have-led-to-the-discov-36j1)
-- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
-- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
-- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
+- [Application Migrations for ASP.NET Core: A Small Library for a Common Problem](https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p)
+- [Complete Go Starter Guide: Setup, Syntax &amp; First Program](https://dev.to/rs9000/complete-go-starter-guide-setup-syntax-first-program-3c4p)
+- [Implementing AI Voice Agents in Retail: Key Challenges and Solutions](https://dev.to/rootstack/implementing-ai-voice-agents-in-retail-key-challenges-and-solutions-kb3)
+- [smart](https://dev.to/query_filter_591122b53770/smart-3afd)
 <!-- BLOG-POST-LIST:END -->
 
