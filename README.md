@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 React Animation Libraries: Bring Life to Your Web Applications](https://dev.to/riteshkokam/top-5-react-animation-libraries-bring-life-to-your-web-applications-2hm8)
-- [Inside the Interviewer&#39;s Mind: Why We Still Ask Blind 75 Questions](https://dev.to/alex_hunter_44f4c9ed6671e/inside-the-interviewers-mind-why-we-still-ask-blind-75-questions-2la3)
-- [We Tested Three Frontier Models on Kilo&#39;s AI Code Reviews](https://dev.to/kilocode/we-tested-three-frontier-models-on-kilos-ai-code-reviews-482e)
-- [GitHub Actions in 2026: The Complete Guide to Monorepo CI/CD and Self-Hosted Runners](https://dev.to/pockit_tools/github-actions-in-2026-the-complete-guide-to-monorepo-cicd-and-self-hosted-runners-1jop)
+- [A Practical Guide to Load Testing with k6](https://dev.to/gr1m0h/a-practical-guide-to-load-testing-with-k6-10ce)
+- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
+- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
+- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
 <!-- BLOG-POST-LIST:END -->
 
