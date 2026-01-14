@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The JavaScript Event Loop &amp; Concurrency Model: Why setTimeout&lpar;fn, 0&rpar; Doesn&#39;t Run Immediately](https://dev.to/tishonator/the-javascript-event-loop-concurrency-model-why-settimeoutfn-0-doesnt-run-immediately-396m)
-- [How software development will transform in the next decade](https://dev.to/luisyanguas/how-software-development-will-transform-in-the-next-decade-198c)
-- [Building CLI tools with Rust &lpar;Clap&rpar;](https://dev.to/godofgeeks/building-cli-tools-with-rust-clap-4bo2)
-- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
+- [I Built PulseDaily: a Local‑First, No‑Login Habit Tracker &lpar;Next.js + Tailwind&rpar;](https://dev.to/wenbin_zhang_800871dc9625/i-built-pulsedaily-a-local-first-no-login-habit-tracker-nextjs-tailwind-2n2j)
+- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
+- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
+- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
 <!-- BLOG-POST-LIST:END -->
 
