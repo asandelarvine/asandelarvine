@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Nextcloud on a Ubuntu Server 24.04 VM](https://dev.to/navickas/self-hosted-nextcloud-on-a-ubuntu-server-2404-vm-4agh)
-- [Por que o seu Design System está morrendo &lpar;e como começamos a salvá-lo&rpar;](https://dev.to/augustosandim/por-que-o-seu-design-system-esta-morrendo-e-como-comecamos-a-salva-lo-546l)
-- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
-- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
+- [Building an Intelligent Legal Contract Auditor with Python](https://dev.to/exploredataaiml/building-an-intelligent-legal-contract-auditor-with-python-2fpo)
+- [The Accountability Gap: Why AI Systems Need Cryptographic Proof of Refusals](https://dev.to/veritaschain/the-accountability-gap-why-ai-systems-need-cryptographic-proof-of-refusals-4n2a)
+- [Thank you, DEV community, for the badge recognition after one year. I truly appreciate it.](https://dev.to/victor_uzormba_80a4cf106c/thank-you-dev-community-for-the-badge-recognition-after-one-year-i-truly-appreciate-it-5bmi)
+- [# Mastering Scale: Why Your Next Custom Solution Needs Helpothon’s Engineering F](https://dev.to/helpathon/-mastering-scale-why-your-next-custom-solution-needs-helpothons-engineering-f-md)
 <!-- BLOG-POST-LIST:END -->
 
