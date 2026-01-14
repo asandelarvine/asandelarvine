@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
-- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
-- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
-- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
+- [Is Meta Becoming the 4th Cloud Giant? &lpar;The Answer is Complicated&rpar;](https://dev.to/bren67/is-meta-becoming-the-4th-cloud-giant-the-answer-is-complicated-4gp4)
+- [Web development has never been more exciting or more overwhelming](https://dev.to/silvana_/web-development-has-never-been-more-exciting-or-more-overwhelming-1m7p)
+- [Exploring a hardware-isolated OS shown at CES 2026](https://dev.to/trustkernel/exploring-a-hardware-isolated-os-shown-at-ces-2026-m9i)
+- [How to Build Presto from Source - OSS Contribution Guide &lpar;Step by Step Tutorial&rpar;](https://dev.to/saurabhmahawar/how-to-build-presto-from-source-oss-contribution-guide-step-by-step-tutorial-460j)
 <!-- BLOG-POST-LIST:END -->
 
