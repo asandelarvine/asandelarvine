@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Race Condition You&#39;re Probably Shipping Right Now With Stripe Webhooks](https://dev.to/belazy/the-race-condition-youre-probably-shipping-right-now-with-stripe-webhooks-mj4)
-- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
-- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
-- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
+- [n8n: Code Node - Import external library &lpar;Python &amp; JavaScript&rpar;](https://dev.to/codebangkok/n8n-code-node-import-external-library-python-javascript-4lp7)
+- [The Death of Vanilla JavaScript &lpar;And Why It&#39;s Actually Stronger Than Ever&rpar;](https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70)
+- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
+- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
 <!-- BLOG-POST-LIST:END -->
 
