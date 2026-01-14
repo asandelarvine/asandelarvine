@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Page Speed &amp; Core Web Vitals Affect Rankings](https://dev.to/bakhat_yar_016451bb6f3b86/how-page-speed-core-web-vitals-affect-rankings-35ff)
-- [Skillshare: Sync Your AI CLI Skills Across Claude, Codex, Cursor, Gemini, and OpenCode](https://dev.to/runkids/skillshare-sync-your-ai-cli-skills-across-claude-codex-cursor-gemini-and-opencode-13o1)
-- [Creating an Automated UI Test of Your Web App in Seconds, with Gemini CLI and BrowserMCP](https://dev.to/gde/creating-an-automated-ui-test-of-your-web-app-in-seconds-with-gemini-cli-and-browsermcp-5cd7)
-- [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
+- [Recent breakthroughs in generative AI have led to the discov](https://dev.to/drcarlosruizviquez/recent-breakthroughs-in-generative-ai-have-led-to-the-discov-36j1)
+- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
+- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
+- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
 <!-- BLOG-POST-LIST:END -->
 
