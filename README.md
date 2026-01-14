@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Intelligent Legal Contract Auditor with Python](https://dev.to/exploredataaiml/building-an-intelligent-legal-contract-auditor-with-python-2fpo)
-- [The Accountability Gap: Why AI Systems Need Cryptographic Proof of Refusals](https://dev.to/veritaschain/the-accountability-gap-why-ai-systems-need-cryptographic-proof-of-refusals-4n2a)
-- [Thank you, DEV community, for the badge recognition after one year. I truly appreciate it.](https://dev.to/victor_uzormba_80a4cf106c/thank-you-dev-community-for-the-badge-recognition-after-one-year-i-truly-appreciate-it-5bmi)
-- [# Mastering Scale: Why Your Next Custom Solution Needs Helpothon’s Engineering F](https://dev.to/helpathon/-mastering-scale-why-your-next-custom-solution-needs-helpothons-engineering-f-md)
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face &lpar;Pt1&rpar;](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
+- [CPU–RAM–OS Synergy: Why Balanced Systems Matter More Than High Specs](https://dev.to/micheal_angelo_41cea4e81a/cpu-ram-os-synergy-why-balanced-systems-matter-more-than-high-specs-526d)
+- [When Indicators Are Not Functions: Defining Quant Operators in Rust](https://dev.to/yuer/when-indicators-are-not-functions-defining-quant-operators-in-rust-73h)
+- [Which Code Editor Is Best for Developers in 2026](https://dev.to/farhadrahimiklie/which-code-editor-is-best-for-developers-in-2026-2dn7)
 <!-- BLOG-POST-LIST:END -->
 
