@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Building Landing Pages in ~20 Seconds Now! How vibehtml Changed My Workflow](https://dev.to/mfelat/im-building-landing-pages-in-20-seconds-now-how-vibehtml-changed-my-workflow-c3j)
-- [Application Migrations for ASP.NET Core: A Small Library for a Common Problem](https://dev.to/sbastien_sougnez_c15451f/application-migrations-for-aspnet-core-a-small-library-for-a-common-problem-3a3p)
-- [Complete Go Starter Guide: Setup, Syntax &amp; First Program](https://dev.to/rs9000/complete-go-starter-guide-setup-syntax-first-program-3c4p)
-- [Installing and Setting Up Git on Ubuntu &lpar;Beginner’s Guide&rpar;](https://dev.to/k1int/installing-and-setting-up-git-on-ubuntu-beginners-guide-5bk0)
+- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
+- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
+- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
+- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
 <!-- BLOG-POST-LIST:END -->
 
