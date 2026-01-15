@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
-- [LogicStamp: Deterministic Context for AI-Assisted Development](https://dev.to/amitek/logicstamp-deterministic-context-for-ai-assisted-development-39da)
-- [Building a Webhook Replay System with AWS Kinesis](https://dev.to/ajithmanmu/building-a-webhook-replay-system-with-aws-kinesis-2682)
-- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
+- [AI-Radar.it](https://dev.to/davide_serra_e63526e554df/ai-radarit-1b2b)
+- [Understand AWS IAM Identifiers](https://dev.to/mayurbhatti/understand-aws-iam-identifiers-18ol)
+- [🚀 AI Is Making Junior Developers Useless — Or Is It?](https://dev.to/igbojionu/ai-is-making-junior-developers-useless-or-is-it-27ph)
+- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
 <!-- BLOG-POST-LIST:END -->
 
