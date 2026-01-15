@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a canonical URL?](https://dev.to/dekigk/what-is-a-canonical-url-26fn)
-- [Why Writeless AI Is a Scholarship Killer for Students](https://dev.to/michaelbettis/why-writeless-ai-is-a-scholarship-killer-for-students-4h7)
-- [🚀 Different Types of Deployment Strategies in DevOps](https://dev.to/abhishek_korde_31/different-types-of-deployment-strategies-in-devops-2m6n)
-- [Avoiding complexity in software development](https://dev.to/nandofm/avoiding-complexity-in-software-development-5992)
+- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
+- [How I built a Zero-Knowledge Secret Sharer using Next.js and the Web Crypto API](https://dev.to/derick_jdavid_2e9c83287/how-i-built-a-zero-knowledge-secret-sharer-using-nextjs-and-the-web-crypto-api-4mn)
+- [My 2025 Tech Resolutions and My Plan for 2026](https://dev.to/vikkio88/my-2025-tech-resolutions-and-my-plan-for-2026-4c4o)
+- [Building a Real-Time Face Recognition System with ESP32-CAM &lpar;in a Weekend&rpar;](https://dev.to/callmetarush/building-a-real-time-face-recognition-system-with-esp32-cam-in-a-weekend-4856)
 <!-- BLOG-POST-LIST:END -->
 
