@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Radar.it](https://dev.to/davide_serra_e63526e554df/ai-radarit-1b2b)
-- [Understand AWS IAM Identifiers](https://dev.to/mayurbhatti/understand-aws-iam-identifiers-18ol)
-- [🚀 AI Is Making Junior Developers Useless — Or Is It?](https://dev.to/igbojionu/ai-is-making-junior-developers-useless-or-is-it-27ph)
-- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
+- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Where cloud security policies break down](https://dev.to/ncksecuritydude/where-cloud-security-policies-break-down-2n1n)
+- [Please, Stop Redirecting to Login on 401 Errors 🛑](https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l)
+- [Using Ruby Model Classes, Service Objects and Interactors](https://dev.to/zilton7/using-ruby-model-classes-service-objects-and-interactors-4d4p)
 <!-- BLOG-POST-LIST:END -->
 
