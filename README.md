@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Finally Fixed My Serverless + esbuild + Prisma Packaging Nightmare](https://dev.to/htuohz/how-i-finally-fixed-my-serverless-esbuild-prisma-packaging-nightmare-ah0)
-- [SeaTunnel CDC Explained: A Layman’s Guide](https://dev.to/seatunnel/seatunnel-cdc-explained-a-laymans-guide-1m50)
-- [Dokufy: Generate PDFs your way — Gotenberg, LibreOffice, or native PHP.](https://dev.to/nasrulhazim/dokufy-generate-pdfs-your-way-gotenberg-libreoffice-or-native-php-2c58)
-- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
+- [The Kiro Agentic IDE Vulnerability &lpar;CVE-2026-0830&rpar;](https://dev.to/alessandro_pignati/the-kiro-agentic-ide-vulnerability-cve-2026-0830-5438)
+- [ORM, JPA, Hibernate, JDBC, JPQL, DDL, DML e DQL: descomplicando a sopa de letrinhas do Java](https://dev.to/wagnernegrao/orm-jpa-hibernate-jdbc-jpql-ddl-dml-e-dql-descomplicando-a-sopa-de-letrinhas-do-java-d9h)
+- [Statutory Audit Applicability in India: Who Must Audit, Turnover Limits &amp; Penalties Explained](https://dev.to/shunyatax_global_da5608a3/statutory-audit-applicability-in-india-who-must-audit-turnover-limits-penalties-explained-38b1)
+- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
 <!-- BLOG-POST-LIST:END -->
 
