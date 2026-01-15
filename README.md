@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Plugins for WordPress LMS Performance &lpar;+ Bonus&rpar;](https://dev.to/biancarus/5-essential-plugins-for-wordpress-lms-performance-bonus-c2l)
-- [How I Use Claude to Watch My Infrastructure While I Sleep](https://dev.to/boop_one/how-i-use-claude-to-watch-my-infrastructure-while-i-sleep-3fcf)
-- [I built a SQL-to-Google Sheets bridge because existing tools were slow as hell &lpar;No-signup demo&rpar;](https://dev.to/robert_ward_4b72381cf553f/built-a-sql-to-google-sheets-bridge-because-existing-tools-were-slow-as-hell-no-signup-demo-cfh)
-- [Git for Beginners: From “What Is This?” to Your First Commit](https://dev.to/subhrangsu90/git-for-beginners-from-what-is-this-to-your-first-commit-ff8)
+- [Nested forms without `accepts_nested_attributes_for` in Rails](https://dev.to/railsdesigner/nested-forms-without-acceptsnestedattributesfor-in-rails-5fb7)
+- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
+- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
+- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
 <!-- BLOG-POST-LIST:END -->
 
