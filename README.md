@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Named Sessions: Your Git Branches Have Names — Why Shouldn&#39;t Your Claude Sessions?](https://dev.to/rajeshroyal/named-sessions-your-git-branches-have-names-why-shouldnt-your-claude-sessions-43oc)
-- [Designing Blockchain #4: Merkle Trees and State Verification](https://dev.to/dmytro_svynarenko/designing-blockchain-4-merkle-trees-and-state-verification-15i8)
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎵](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-i3o)
-- [Portfolio Site](https://dev.to/subucodes/portfolio-site-6k9)
+- [Limiting GraphQL Query Depth the Right Way](https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65)
+- [A Beginner&#39;s Guide on Git &amp; GitHub for Version Control](https://dev.to/ambogo2/a-beginners-guide-on-git-github-for-version-control-17bd)
+- [Understanding Technical Debt in Modern Software Development](https://dev.to/yasserelgammal/understanding-technical-debt-in-modern-software-development-19id)
+- [The Reprompt Attack Isn&#39;t a Bug,It&#39;s AI Working Exactly as Designed](https://dev.to/zeroblind25/the-reprompt-attack-isnt-a-bugits-ai-working-exactly-as-designed-2o7l)
 <!-- BLOG-POST-LIST:END -->
 
