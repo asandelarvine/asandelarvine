@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
-- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
-- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
-- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 5/7: Expo Router Setup](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-57-expo-router-setup-42ae)
+- [SLMs - A Very Different Form of AI](https://dev.to/ben-santora/slms-a-very-different-form-of-ai-53ah)
+- [Smart Alarms Explained: How Sensor Technology Can Help You Wake Up Refreshed](https://dev.to/wellallytech/smart-alarms-explained-how-sensor-technology-can-help-you-wake-up-refreshed-43ng)
+- [All the Different Types of AI Layers](https://dev.to/goldsteinnick/all-the-different-types-of-ai-layers-m39)
 <!-- BLOG-POST-LIST:END -->
 
