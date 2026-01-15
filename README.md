@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
-- [How I built a Zero-Knowledge Secret Sharer using Next.js and the Web Crypto API](https://dev.to/derick_jdavid_2e9c83287/how-i-built-a-zero-knowledge-secret-sharer-using-nextjs-and-the-web-crypto-api-4mn)
-- [My 2025 Tech Resolutions and My Plan for 2026](https://dev.to/vikkio88/my-2025-tech-resolutions-and-my-plan-for-2026-4c4o)
-- [Building a Real-Time Face Recognition System with ESP32-CAM &lpar;in a Weekend&rpar;](https://dev.to/callmetarush/building-a-real-time-face-recognition-system-with-esp32-cam-in-a-weekend-4856)
+- [How I Finally Fixed My Serverless + esbuild + Prisma Packaging Nightmare](https://dev.to/htuohz/how-i-finally-fixed-my-serverless-esbuild-prisma-packaging-nightmare-ah0)
+- [SeaTunnel CDC Explained: A Layman’s Guide](https://dev.to/seatunnel/seatunnel-cdc-explained-a-laymans-guide-1m50)
+- [Dokufy: Generate PDFs your way — Gotenberg, LibreOffice, or native PHP.](https://dev.to/nasrulhazim/dokufy-generate-pdfs-your-way-gotenberg-libreoffice-or-native-php-2c58)
+- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
 <!-- BLOG-POST-LIST:END -->
 
