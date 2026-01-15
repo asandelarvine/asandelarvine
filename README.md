@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Fundamental Golang : Building RESTAPI Project](https://dev.to/__00/mastering-fundamental-golang-building-restapi-project-3hbn)
-- [🧱 Beginner-Friendly Guide &#39;Maximize Area of Square Hole in Grid&#39; – LeetCode 2943 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-area-of-square-hole-in-grid-leetcode-2943-c-python-31k9)
-- [LLM Showstoppers: What Fails in Prod and How to Fix it with Agent Core](https://dev.to/mabualzait/llm-showstoppers-what-fails-in-prod-and-how-to-fix-it-with-agent-core-4nb1)
-- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
-Es realmente increíble 
-https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
+- [CVE-2026-0621: Event-Loop Denial of Service in the MCP TypeScript SDK](https://dev.to/om_shree_0709/cve-2026-0621-event-loop-denial-of-service-in-the-mcp-typescript-sdk-1k40)
+- [เพิ่มประสิทธิภาพการทำงาน ด้วย Agile process](https://dev.to/__00/ephimprasiththiphaaphkaarthamngaan-dwy-agile-process-307o)
+- [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m)
+- [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi)
 <!-- BLOG-POST-LIST:END -->
 
