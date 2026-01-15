@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Long Does It Take to Prepare for Coding Interviews? &lpar;Realistic Timelines&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-long-does-it-take-to-prepare-for-coding-interviews-realistic-timelines-4a3n)
-- [December 2025 AI Newsletter Mentions](https://dev.to/xbill/december-2025-ai-newsletter-mentions-9ej)
-- [Product Titans Runner-up: Agentic AI for Hyper-Personalized Learning](https://dev.to/vikas_sahani_3a7e2706846c/product-titans-runner-up-agentic-ai-for-hyper-personalized-learning-37ab)
-- [Coding Challenge Practice - Question 103](https://dev.to/tomivan/coding-challenge-practice-question-103-aa4)
+- [AI-Powered Development: Building Smarter with Prompt Engineering](https://dev.to/avsecdongol/ai-powered-development-building-smarter-with-prompt-engineering-42eg)
+- [Essential Python Libraries Every Data Scientist Should Know in 2026](https://dev.to/vix_dev_ssh/essential-python-libraries-every-data-scientist-should-know-in-2026-5b7g)
+- [I Built an AI Tool to Generate SEO Blogs &amp; Pages - Here’s What I Learned](https://dev.to/sanjaynegi94/i-built-an-ai-tool-to-generate-seo-blogs-pages-heres-what-i-learned-412g)
+- [Monroe University Data Breach Investigation](https://dev.to/beyondmachines/monroe-university-data-breach-investigation-527e)
 <!-- BLOG-POST-LIST:END -->
 
