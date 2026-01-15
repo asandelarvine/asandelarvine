@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Logtide: 2 Months After Launch &lpar;The Real Numbers&rpar;](https://dev.to/polliog/logtide-2-months-after-launch-the-real-numbers-fp0)
-- [The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation](https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np)
-- [Building a Console-Based Maintenance Helpdesk System in Java](https://dev.to/phoenix-archer/building-a-console-based-maintenance-helpdesk-system-in-java-5a8c)
-- [I Tried Vibe Coding an Audio Streaming System in C++: Here Are the Results](https://dev.to/sfundomhlungu/i-tried-vibe-coding-an-audio-streaming-system-in-c-here-are-the-results-2hl8)
+- [Making Parallel HTTP Requests Stable in Go: Lessons from Building a Markdown Linter](https://dev.to/_402ccbd6e5cb02871506/making-parallel-http-requests-stable-in-go-lessons-from-building-a-markdown-linter-1j36)
+- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
+- [Diagnostics 101: The Art of Systematic Troubleshooting](https://dev.to/aungkoko/diagnostics-101-the-art-of-systematic-troubleshooting-594e)
+- [I&#39;ve Been a Developer for 10 Years and Still Forgot What &quot;@&quot; Means in DNS](https://dev.to/y-takashi/ive-been-a-developer-for-10-years-and-still-forgot-what-means-in-dns-20m3)
 <!-- BLOG-POST-LIST:END -->
 
