@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Kiro Agentic IDE Vulnerability &lpar;CVE-2026-0830&rpar;](https://dev.to/alessandro_pignati/the-kiro-agentic-ide-vulnerability-cve-2026-0830-5438)
-- [ORM, JPA, Hibernate, JDBC, JPQL, DDL, DML e DQL: descomplicando a sopa de letrinhas do Java](https://dev.to/wagnernegrao/orm-jpa-hibernate-jdbc-jpql-ddl-dml-e-dql-descomplicando-a-sopa-de-letrinhas-do-java-d9h)
-- [Statutory Audit Applicability in India: Who Must Audit, Turnover Limits &amp; Penalties Explained](https://dev.to/shunyatax_global_da5608a3/statutory-audit-applicability-in-india-who-must-audit-turnover-limits-penalties-explained-38b1)
-- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
+- [Logtide: 2 Months After Launch &lpar;The Real Numbers&rpar;](https://dev.to/polliog/logtide-2-months-after-launch-the-real-numbers-fp0)
+- [The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation](https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np)
+- [Building a Console-Based Maintenance Helpdesk System in Java](https://dev.to/phoenix-archer/building-a-console-based-maintenance-helpdesk-system-in-java-5a8c)
+- [I Tried Vibe Coding an Audio Streaming System in C++: Here Are the Results](https://dev.to/sfundomhlungu/i-tried-vibe-coding-an-audio-streaming-system-in-c-here-are-the-results-2hl8)
 <!-- BLOG-POST-LIST:END -->
 
