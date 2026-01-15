@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Limiting GraphQL Query Depth the Right Way](https://dev.to/mateodiaz/limiting-graphql-query-depth-the-right-way-1h65)
-- [A Beginner&#39;s Guide on Git &amp; GitHub for Version Control](https://dev.to/ambogo2/a-beginners-guide-on-git-github-for-version-control-17bd)
-- [Understanding Technical Debt in Modern Software Development](https://dev.to/yasserelgammal/understanding-technical-debt-in-modern-software-development-19id)
-- [The Reprompt Attack Isn&#39;t a Bug,It&#39;s AI Working Exactly as Designed](https://dev.to/zeroblind25/the-reprompt-attack-isnt-a-bugits-ai-working-exactly-as-designed-2o7l)
+- [Hello I am new to this programming world it would be great help me in learning python how to become a good python developer with dsa](https://dev.to/mushaffiq_ahmedmujale_95/hello-i-am-new-to-this-programming-world-it-would-be-great-help-me-in-learning-python-how-to-become-n9o)
+- [LogicStamp: Deterministic Context for AI-Assisted Development](https://dev.to/amitek/logicstamp-deterministic-context-for-ai-assisted-development-39da)
+- [Building a Webhook Replay System with AWS Kinesis](https://dev.to/ajithmanmu/building-a-webhook-replay-system-with-aws-kinesis-2682)
+- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
 <!-- BLOG-POST-LIST:END -->
 
