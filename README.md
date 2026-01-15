@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
-- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
-- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
-- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
+- [What is a canonical URL?](https://dev.to/dekigk/what-is-a-canonical-url-26fn)
+- [Why Writeless AI Is a Scholarship Killer for Students](https://dev.to/michaelbettis/why-writeless-ai-is-a-scholarship-killer-for-students-4h7)
+- [🚀 Different Types of Deployment Strategies in DevOps](https://dev.to/abhishek_korde_31/different-types-of-deployment-strategies-in-devops-2m6n)
+- [Avoiding complexity in software development](https://dev.to/nandofm/avoiding-complexity-in-software-development-5992)
 <!-- BLOG-POST-LIST:END -->
 
