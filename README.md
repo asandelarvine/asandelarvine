@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Development: Building Smarter with Prompt Engineering](https://dev.to/avsecdongol/ai-powered-development-building-smarter-with-prompt-engineering-42eg)
-- [Essential Python Libraries Every Data Scientist Should Know in 2026](https://dev.to/vix_dev_ssh/essential-python-libraries-every-data-scientist-should-know-in-2026-5b7g)
-- [I Built an AI Tool to Generate SEO Blogs &amp; Pages - Here’s What I Learned](https://dev.to/sanjaynegi94/i-built-an-ai-tool-to-generate-seo-blogs-pages-heres-what-i-learned-412g)
-- [Monroe University Data Breach Investigation](https://dev.to/beyondmachines/monroe-university-data-breach-investigation-527e)
+- [5 Essential Plugins for WordPress LMS Performance &lpar;+ Bonus&rpar;](https://dev.to/biancarus/5-essential-plugins-for-wordpress-lms-performance-bonus-c2l)
+- [How I Use Claude to Watch My Infrastructure While I Sleep](https://dev.to/boop_one/how-i-use-claude-to-watch-my-infrastructure-while-i-sleep-3fcf)
+- [I built a SQL-to-Google Sheets bridge because existing tools were slow as hell &lpar;No-signup demo&rpar;](https://dev.to/robert_ward_4b72381cf553f/built-a-sql-to-google-sheets-bridge-because-existing-tools-were-slow-as-hell-no-signup-demo-cfh)
+- [Git for Beginners: From “What Is This?” to Your First Commit](https://dev.to/subhrangsu90/git-for-beginners-from-what-is-this-to-your-first-commit-ff8)
 <!-- BLOG-POST-LIST:END -->
 
