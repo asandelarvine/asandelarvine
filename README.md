@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 5/7: Expo Router Setup](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-57-expo-router-setup-42ae)
-- [SLMs - A Very Different Form of AI](https://dev.to/ben-santora/slms-a-very-different-form-of-ai-53ah)
-- [Smart Alarms Explained: How Sensor Technology Can Help You Wake Up Refreshed](https://dev.to/wellallytech/smart-alarms-explained-how-sensor-technology-can-help-you-wake-up-refreshed-43ng)
-- [All the Different Types of AI Layers](https://dev.to/goldsteinnick/all-the-different-types-of-ai-layers-m39)
+- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
+- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
+- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
+- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
 <!-- BLOG-POST-LIST:END -->
 
