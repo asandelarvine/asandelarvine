@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Parallel HTTP Requests Stable in Go: Lessons from Building a Markdown Linter](https://dev.to/_402ccbd6e5cb02871506/making-parallel-http-requests-stable-in-go-lessons-from-building-a-markdown-linter-1j36)
-- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
-- [Diagnostics 101: The Art of Systematic Troubleshooting](https://dev.to/aungkoko/diagnostics-101-the-art-of-systematic-troubleshooting-594e)
-- [I&#39;ve Been a Developer for 10 Years and Still Forgot What &quot;@&quot; Means in DNS](https://dev.to/y-takashi/ive-been-a-developer-for-10-years-and-still-forgot-what-means-in-dns-20m3)
+- [How Long Does It Take to Prepare for Coding Interviews? &lpar;Realistic Timelines&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/how-long-does-it-take-to-prepare-for-coding-interviews-realistic-timelines-4a3n)
+- [December 2025 AI Newsletter Mentions](https://dev.to/xbill/december-2025-ai-newsletter-mentions-9ej)
+- [Product Titans Runner-up: Agentic AI for Hyper-Personalized Learning](https://dev.to/vikas_sahani_3a7e2706846c/product-titans-runner-up-agentic-ai-for-hyper-personalized-learning-37ab)
+- [Coding Challenge Practice - Question 103](https://dev.to/tomivan/coding-challenge-practice-question-103-aa4)
 <!-- BLOG-POST-LIST:END -->
 
