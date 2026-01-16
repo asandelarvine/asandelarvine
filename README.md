@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurop Forge: Your AI Can&#39;t Lie About What It Did Anymore](https://dev.to/lbwasserman/neurop-forge-your-ai-cant-lie-about-what-it-did-anymore-5ceh)
-- [New Year, New Portfolio Challenge Presented by Google AI](https://dev.to/shingcaofek/new-year-new-portfolio-challenge-presented-by-google-ai-4gp)
-- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
-- [Homeschool curriculum site](https://dev.to/gentschev/homeschool-curriculum-site-53i7)
+- [From Ops to Dev: I spent 3 months learning AI to build a free Image Background Remover](https://dev.to/wo_ytao_734002744cb9586f0/from-ops-to-dev-i-spent-3-months-learning-ai-to-build-a-free-image-background-remover-402c)
+- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
+- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
+- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
 <!-- BLOG-POST-LIST:END -->
 
