@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему будущее ИИ-агентов — децентрализованные сети, а не оркестраторы](https://dev.to/kagvi13/pochiemu-budushchieie-ii-aghientov-dietsientralizovannyie-sieti-a-nie-orkiestratory-19jf)
-- [Using Google Gemini and YouTube to Count Calories From Desi Recipes](https://dev.to/sobia_khalid_029f7c1efb2a/using-google-gemini-and-youtube-to-count-calories-from-desi-recipes-3a14)
-- [Solved: A Cloudflare outage is taking down parts of the internet – here’s what we know so far](https://dev.to/techresolve/solved-a-cloudflare-outage-is-taking-down-parts-of-the-internet-heres-what-we-know-so-far-49kh)
-- [Your Code Isn’t the Bottleneck. Other People’s Approval Is.](https://dev.to/christopherclemmons/your-code-isnt-the-bottleneck-other-peoples-approval-is-32p4)
+- [Revisiting Interstellar&#39;s Cooper and TARS](https://dev.to/ben-santora/revisiting-interstellars-cooper-and-tars-4m1g)
+- [Self-hosting DocuSeal on a Hetzner Ubuntu Server](https://dev.to/atakanozt/self-hosting-docuseal-on-a-hetzner-ubuntu-server-3j8m)
+- [Ultrathink: Tell Claude Exactly How Hard to Think About Your Problem](https://dev.to/rajeshroyal/ultrathink-tell-claude-exactly-how-hard-to-think-about-your-problem-i35)
+- [Apple broke our cloud build in production. Here&#39;s what actually failed:](https://dev.to/dev_tips/apple-broke-our-cloud-build-in-production-heres-what-actually-failed-5en9)
 <!-- BLOG-POST-LIST:END -->
 
