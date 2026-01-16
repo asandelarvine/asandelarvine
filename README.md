@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AWS Cloud Clubs Are Helping Students Build Real Projects ☁️💻](https://dev.to/tendai_jack_620ed40df8265/how-aws-cloud-clubs-are-helping-students-build-real-projects-lhp)
-- [AI - The Challenge of Testing Systems That Learn](https://dev.to/ben-santora/ai-the-challenge-of-testing-systems-that-learn-53n2)
-- [Building a Production-Grade Scraper with Playwright, Chromium, Kubernetes, and AWS](https://dev.to/nirberko/building-a-production-grade-scraper-with-playwright-chromium-kubernetes-and-aws-lo9)
-- [use-thunk: A New Global State Management Lib as &lpar;much&rpar; Simplified Redux](https://dev.to/chhsiao1981/use-thunk-a-new-global-state-management-lib-as-much-simplified-redux-5bnh)
+- [C# Conditional Statements &lpar;if, else, switch&rpar;](https://dev.to/allcoderthings/c-conditional-statements-if-else-switch-34d9)
+- [Publishing Pipeline - inline Mermaid code](https://dev.to/12ww1160/publishing-pipeline-inline-mermaid-code-43g7)
+- [Automating Unity Builds to iOS, macOS, and visionOS](https://dev.to/virtualmaker/automating-unity-builds-to-ios-macos-and-visionos-14km)
+- [Go Internals for Interviews: Concurrency](https://dev.to/david_horvat_18feaa13a9a8/go-internals-for-interviews-concurrency-2pa5)
 <!-- BLOG-POST-LIST:END -->
 
