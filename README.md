@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Ops to Dev: I spent 3 months learning AI to build a free Image Background Remover](https://dev.to/wo_ytao_734002744cb9586f0/from-ops-to-dev-i-spent-3-months-learning-ai-to-build-a-free-image-background-remover-402c)
-- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
-- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
-- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
+- [AWS DevOps Practice Summary](https://dev.to/alok38/aws-devops-practice-summary-2l1h)
+- [Mastering a Difficult API: Building a Secure OAuth 2.1 + PKCE Integration in Production](https://dev.to/kawano_aiyuki/mastering-a-difficult-api-building-a-secure-oauth-21-pkce-integration-in-production-4n10)
+- [What’s one small daily task you wish a simple free tool already existed for?](https://dev.to/bhavin-allinonetools/whats-one-small-daily-task-you-wish-a-simple-free-tool-already-existed-for-5ga8)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
 <!-- BLOG-POST-LIST:END -->
 
