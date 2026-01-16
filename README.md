@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Practice Summary](https://dev.to/alok38/aws-devops-practice-summary-2l1h)
-- [Mastering a Difficult API: Building a Secure OAuth 2.1 + PKCE Integration in Production](https://dev.to/kawano_aiyuki/mastering-a-difficult-api-building-a-secure-oauth-21-pkce-integration-in-production-4n10)
-- [What’s one small daily task you wish a simple free tool already existed for?](https://dev.to/bhavin-allinonetools/whats-one-small-daily-task-you-wish-a-simple-free-tool-already-existed-for-5ga8)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
+- [Let&#39;s stop calling it vibe-coding.](https://dev.to/camb/lets-stop-calling-it-vibe-coding-27i)
+- [Building an AI-ready culture without big budgets](https://dev.to/jaideepparashar/building-an-ai-ready-culture-without-big-budgets-49gc)
+- [Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative](https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok)
+- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g)
 <!-- BLOG-POST-LIST:END -->
 
