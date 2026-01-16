@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to &quot;Sign in with Google&quot;, &quot;Google One Tap&quot; and &quot;FedCM&quot;](https://dev.to/mjoycemilburn/an-introduction-to-sign-in-with-google-google-one-tap-and-fedcm-2p8m)
-- [Distributed Inference Observability gaps](https://dev.to/jeff_geiser/distributed-inference-observability-gaps-3pn3)
-- [Secret Entrance](https://dev.to/rmion/secret-entrance-3i9j)
-- [How to Build a Monitoring Application Using Golang](https://dev.to/wol3/how-to-build-a-monitoring-application-using-golang-4k4o)
+- [From Journals to Transactions: How SQLite Executes Work Safely](https://dev.to/lovestaco/from-journals-to-transactions-how-sqlite-executes-work-safely-4ihn)
+- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
+- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
+- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
 <!-- BLOG-POST-LIST:END -->
 
