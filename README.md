@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Programming Language for Coding Interviews in 2026 &lpar;Python vs Java vs C++&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/best-programming-language-for-coding-interviews-in-2026-python-vs-java-vs-c-55ig)
-- [gmk: Stop Typing Git URLs](https://dev.to/kanywst/gmk-stop-typing-git-urls-a7)
-- [T Shaped people](https://dev.to/marux/t-shaped-people-510n)
-- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-45e3)
+- [Architecting for AI Excellence: Exploring AWS’s Three New Well-Architected Lenses Announced at re:Invent 2025](https://dev.to/aws-builders/architecting-for-ai-excellence-exploring-awss-three-new-well-architected-lenses-announced-at-3dm)
+- [SC #1: La historia de async/await](https://dev.to/david_goyes_a488f58a17a53/sc-1-la-historia-de-asyncawait-d6e)
+- [Why Data Engineers Are Becoming Agent Engineers](https://dev.to/sateesh2020/why-data-engineers-are-becoming-agent-engineers-4dm)
+- [Guia Warcraft III de Etiqueta para Pull Requests](https://dev.to/joaoprd/guia-warcraft-iii-de-etiqueta-para-pull-requests-b29)
 <!-- BLOG-POST-LIST:END -->
 
