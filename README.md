@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
-- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
-- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
-- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
+- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
+- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
+- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
+- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
 <!-- BLOG-POST-LIST:END -->
 
