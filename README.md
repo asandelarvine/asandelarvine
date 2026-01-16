@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Conditional Statements &lpar;if, else, switch&rpar;](https://dev.to/allcoderthings/c-conditional-statements-if-else-switch-34d9)
-- [Publishing Pipeline - inline Mermaid code](https://dev.to/12ww1160/publishing-pipeline-inline-mermaid-code-43g7)
-- [Automating Unity Builds to iOS, macOS, and visionOS](https://dev.to/virtualmaker/automating-unity-builds-to-ios-macos-and-visionos-14km)
-- [Go Internals for Interviews: Concurrency](https://dev.to/david_horvat_18feaa13a9a8/go-internals-for-interviews-concurrency-2pa5)
+- [The most revolutionary techs transforming the Car Rental business in 2026](https://dev.to/luisyanguas/the-most-revolutionary-techs-transforming-the-car-rental-business-in-2026-39ld)
+- [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
+- [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
+- [Steve Yegge의 Gas Town을 보고 배운 것들 — 그리고 개인 개발자를 위한 작은 도구](https://dev.to/kiwibreaksme/steve-yeggeyi-gas-towneul-bogo-baeun-geosdeul-geurigo-gaein-gaebaljareul-wihan-jageun-dogu-196d)
 <!-- BLOG-POST-LIST:END -->
 
