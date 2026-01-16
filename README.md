@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React JSON Schema Forms in Practice — Why They Break Down and How SurveyJS Fixes the Architecture](https://dev.to/surveyjs/react-json-schema-forms-in-practice-why-they-break-down-and-how-surveyjs-fixes-the-architecture-17ik)
-- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
-- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
-- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
+- [Neurop Forge: Your AI Can&#39;t Lie About What It Did Anymore](https://dev.to/lbwasserman/neurop-forge-your-ai-cant-lie-about-what-it-did-anymore-5ceh)
+- [New Year, New Portfolio Challenge Presented by Google AI](https://dev.to/shingcaofek/new-year-new-portfolio-challenge-presented-by-google-ai-4gp)
+- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
+- [Homeschool curriculum site](https://dev.to/gentschev/homeschool-curriculum-site-53i7)
 <!-- BLOG-POST-LIST:END -->
 
