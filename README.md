@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting for AI Excellence: Exploring AWS’s Three New Well-Architected Lenses Announced at re:Invent 2025](https://dev.to/aws-builders/architecting-for-ai-excellence-exploring-awss-three-new-well-architected-lenses-announced-at-3dm)
-- [SC #1: La historia de async/await](https://dev.to/david_goyes_a488f58a17a53/sc-1-la-historia-de-asyncawait-d6e)
-- [Why Data Engineers Are Becoming Agent Engineers](https://dev.to/sateesh2020/why-data-engineers-are-becoming-agent-engineers-4dm)
-- [Guia Warcraft III de Etiqueta para Pull Requests](https://dev.to/joaoprd/guia-warcraft-iii-de-etiqueta-para-pull-requests-b29)
+- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
+- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
+- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
+- [FreeLens vs OpenLens vs Lens: Choosing the Right Kubernetes IDE](https://dev.to/alexandrev/freelens-vs-openlens-vs-lens-choosing-the-right-kubernetes-ide-lc8)
 <!-- BLOG-POST-LIST:END -->
 
