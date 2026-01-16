@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Journals to Transactions: How SQLite Executes Work Safely](https://dev.to/lovestaco/from-journals-to-transactions-how-sqlite-executes-work-safely-4ihn)
-- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
-- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
-- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
+- [Resolviendo errores al conformar protocolos &quot;actor-isolated&quot;.](https://dev.to/david_goyes_a488f58a17a53/resolviendo-errores-al-conformar-protocolos-actor-isolated-4cfi)
+- [Integrating KaibanJS Teams with Kaiban.io: Enterprise Workflow Automation via A2A Protocol](https://dev.to/kaibanjs/integrating-kaibanjs-teams-with-kaibanio-enterprise-workflow-automation-via-a2a-protocol-2kk7)
+- [How My Economics Degree Made Me a Better AI Engineer](https://dev.to/jackfelke/how-my-economics-degree-made-me-a-better-ai-engineer-98g)
+- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
 <!-- BLOG-POST-LIST:END -->
 
