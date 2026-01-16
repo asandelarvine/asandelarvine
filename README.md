@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
-- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
-- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
-- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
+- [Understanding Git and GitHub: Pushing, Pulling, and Tracking Code &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/k1int/understanding-git-and-github-pushing-pulling-and-tracking-code-beginner-friendly-guide-1bkm)
+- [Angular: Stop Overusing ChangeDetectorRef](https://dev.to/gramli/angular-stop-overusing-changedetectorref-33oa)
+- [Best Practices in API Design with Node.js &amp; Express.js](https://dev.to/msnmongare/best-practices-in-api-design-with-nodejs-expressjs-1bno)
+- [AWS SageMaker HyperPod: Distributed Training for Foundation Models at Scale](https://dev.to/jubinsoni/aws-sagemaker-hyperpod-distributed-training-for-foundation-models-at-scale-21g5)
 <!-- BLOG-POST-LIST:END -->
 
