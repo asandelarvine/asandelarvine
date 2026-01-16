@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Git and GitHub: Pushing, Pulling, and Tracking Code &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/k1int/understanding-git-and-github-pushing-pulling-and-tracking-code-beginner-friendly-guide-1bkm)
-- [Angular: Stop Overusing ChangeDetectorRef](https://dev.to/gramli/angular-stop-overusing-changedetectorref-33oa)
-- [Best Practices in API Design with Node.js &amp; Express.js](https://dev.to/msnmongare/best-practices-in-api-design-with-nodejs-expressjs-1bno)
-- [AWS SageMaker HyperPod: Distributed Training for Foundation Models at Scale](https://dev.to/jubinsoni/aws-sagemaker-hyperpod-distributed-training-for-foundation-models-at-scale-21g5)
+- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-g00)
+- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-2k7g)
+- [SIP &amp; SIP Trunking: Secure Architecture for Reliable VoIP Communications](https://dev.to/vratech/sip-sip-trunking-secure-architecture-for-reliable-voip-communications-19na)
+- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-3blf)
 <!-- BLOG-POST-LIST:END -->
 
