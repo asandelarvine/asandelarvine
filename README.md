@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Pipeline - Refactoring](https://dev.to/12ww1160/publishing-pipeline-refactoring-g00)
-- [Publishing Pipeline v1.2.0 – backlinks and X support](https://dev.to/12ww1160/publishing-pipeline-v120-backlinks-and-x-support-2k7g)
-- [SIP &amp; SIP Trunking: Secure Architecture for Reliable VoIP Communications](https://dev.to/vratech/sip-sip-trunking-secure-architecture-for-reliable-voip-communications-19na)
-- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-3blf)
+- [How AWS Cloud Clubs Are Helping Students Build Real Projects ☁️💻](https://dev.to/tendai_jack_620ed40df8265/how-aws-cloud-clubs-are-helping-students-build-real-projects-lhp)
+- [AI - The Challenge of Testing Systems That Learn](https://dev.to/ben-santora/ai-the-challenge-of-testing-systems-that-learn-53n2)
+- [Building a Production-Grade Scraper with Playwright, Chromium, Kubernetes, and AWS](https://dev.to/nirberko/building-a-production-grade-scraper-with-playwright-chromium-kubernetes-and-aws-lo9)
+- [use-thunk: A New Global State Management Lib as &lpar;much&rpar; Simplified Redux](https://dev.to/chhsiao1981/use-thunk-a-new-global-state-management-lib-as-much-simplified-redux-5bnh)
 <!-- BLOG-POST-LIST:END -->
 
