@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
-- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
-- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
-- [FreeLens vs OpenLens vs Lens: Choosing the Right Kubernetes IDE](https://dev.to/alexandrev/freelens-vs-openlens-vs-lens-choosing-the-right-kubernetes-ide-lc8)
+- [Почему будущее ИИ-агентов — децентрализованные сети, а не оркестраторы](https://dev.to/kagvi13/pochiemu-budushchieie-ii-aghientov-dietsientralizovannyie-sieti-a-nie-orkiestratory-19jf)
+- [Using Google Gemini and YouTube to Count Calories From Desi Recipes](https://dev.to/sobia_khalid_029f7c1efb2a/using-google-gemini-and-youtube-to-count-calories-from-desi-recipes-3a14)
+- [Solved: A Cloudflare outage is taking down parts of the internet – here’s what we know so far](https://dev.to/techresolve/solved-a-cloudflare-outage-is-taking-down-parts-of-the-internet-heres-what-we-know-so-far-49kh)
+- [Your Code Isn’t the Bottleneck. Other People’s Approval Is.](https://dev.to/christopherclemmons/your-code-isnt-the-bottleneck-other-peoples-approval-is-32p4)
 <!-- BLOG-POST-LIST:END -->
 
