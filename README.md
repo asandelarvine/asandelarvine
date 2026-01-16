@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s stop calling it vibe-coding.](https://dev.to/camb/lets-stop-calling-it-vibe-coding-27i)
-- [Building an AI-ready culture without big budgets](https://dev.to/jaideepparashar/building-an-ai-ready-culture-without-big-budgets-49gc)
-- [Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative](https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok)
-- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g)
+- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
+- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
+- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
+- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
 <!-- BLOG-POST-LIST:END -->
 
