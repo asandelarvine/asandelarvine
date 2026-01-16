@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting Interstellar&#39;s Cooper and TARS](https://dev.to/ben-santora/revisiting-interstellars-cooper-and-tars-4m1g)
-- [Self-hosting DocuSeal on a Hetzner Ubuntu Server](https://dev.to/atakanozt/self-hosting-docuseal-on-a-hetzner-ubuntu-server-3j8m)
-- [Ultrathink: Tell Claude Exactly How Hard to Think About Your Problem](https://dev.to/rajeshroyal/ultrathink-tell-claude-exactly-how-hard-to-think-about-your-problem-i35)
-- [Apple broke our cloud build in production. Here&#39;s what actually failed:](https://dev.to/dev_tips/apple-broke-our-cloud-build-in-production-heres-what-actually-failed-5en9)
+- [An Introduction to &quot;Sign in with Google&quot;, &quot;Google One Tap&quot; and &quot;FedCM&quot;](https://dev.to/mjoycemilburn/an-introduction-to-sign-in-with-google-google-one-tap-and-fedcm-2p8m)
+- [Distributed Inference Observability gaps](https://dev.to/jeff_geiser/distributed-inference-observability-gaps-3pn3)
+- [Secret Entrance](https://dev.to/rmion/secret-entrance-3i9j)
+- [How to Build a Monitoring Application Using Golang](https://dev.to/wol3/how-to-build-a-monitoring-application-using-golang-4k4o)
 <!-- BLOG-POST-LIST:END -->
 
