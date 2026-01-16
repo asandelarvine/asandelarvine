@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolviendo errores al conformar protocolos &quot;actor-isolated&quot;.](https://dev.to/david_goyes_a488f58a17a53/resolviendo-errores-al-conformar-protocolos-actor-isolated-4cfi)
-- [Integrating KaibanJS Teams with Kaiban.io: Enterprise Workflow Automation via A2A Protocol](https://dev.to/kaibanjs/integrating-kaibanjs-teams-with-kaibanio-enterprise-workflow-automation-via-a2a-protocol-2kk7)
-- [How My Economics Degree Made Me a Better AI Engineer](https://dev.to/jackfelke/how-my-economics-degree-made-me-a-better-ai-engineer-98g)
-- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
+- [I Let Claude Code Run Unsupervised for 8 Hours - Here&#39;s What It Built](https://dev.to/intelligenttools_tomic_85/i-let-claude-code-run-unsupervised-for-8-hours-heres-what-it-built-5gp3)
+- [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
+- [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
+- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
 <!-- BLOG-POST-LIST:END -->
 
