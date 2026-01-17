@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
-- [I Built AI Virtual Staging tool](https://dev.to/atharvtathe/i-built-ai-virtual-staging-tool-44k2)
-- [🚨 One filename change. Zero errors. Production broken.](https://dev.to/devnamdev/one-filename-change-zero-errors-production-broken-2kp1)
-- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don&#39;t have ethics at the centre, then your model will work but won&#39;t have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib)
+- [Building Decisora: an AI tool to think through decisions &lpar;early feedback welcome&rpar;](https://dev.to/harsha_saiakhila_8d4dd16/building-decisora-an-ai-tool-to-think-through-decisions-early-feedback-welcome-4oj6)
+- [Stop Reinventing Multiplayer Netcode — Here&#39;s How I Built a Universal Protocol](https://dev.to/kohanmathers/stop-reinventing-multiplayer-netcode-heres-how-i-built-a-universal-protocol-117f)
+- [Students Professionals GitHub](https://dev.to/isocyanideisgood/students-x-professionals-x-github-5h5o)
+- [WASI &lpar;WebAssembly System Interface&rpar;](https://dev.to/godofgeeks/wasi-webassembly-system-interface-2ep8)
 <!-- BLOG-POST-LIST:END -->
 
