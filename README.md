@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Decisora: an AI tool to think through decisions &lpar;early feedback welcome&rpar;](https://dev.to/harsha_saiakhila_8d4dd16/building-decisora-an-ai-tool-to-think-through-decisions-early-feedback-welcome-4oj6)
-- [Stop Reinventing Multiplayer Netcode — Here&#39;s How I Built a Universal Protocol](https://dev.to/kohanmathers/stop-reinventing-multiplayer-netcode-heres-how-i-built-a-universal-protocol-117f)
-- [Students Professionals GitHub](https://dev.to/isocyanideisgood/students-x-professionals-x-github-5h5o)
-- [WASI &lpar;WebAssembly System Interface&rpar;](https://dev.to/godofgeeks/wasi-webassembly-system-interface-2ep8)
+- [Next.js SEO Optimization: Complete Guide to Ranking Higher](https://dev.to/sepehr/nextjs-seo-optimization-complete-guide-to-ranking-higher-321e)
+- [Beginner’s Guide to Git &amp; GitHub Using SSH Keys](https://dev.to/sirsona/beginners-guide-to-git-github-using-ssh-keys-5e7n)
+- [AI the way out of doubt](https://dev.to/aloisseckar/ai-the-way-out-of-doubt-2fbg)
+- [Is Humanoids&#39; Data Appetite Really Endless?](https://dev.to/ankk98/is-humanoids-data-appetite-really-endless-39lj)
 <!-- BLOG-POST-LIST:END -->
 
