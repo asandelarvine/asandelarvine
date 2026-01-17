@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Twitter Viewer in 3 Weeks with Next.js 14 - Here&#39;s What I Learned](https://dev.to/peter_anderson33/i-built-a-twitter-viewer-in-3-weeks-with-nextjs-14-heres-what-i-learned-5bh3)
-- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
-- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
-- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
+- [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
+- [Learning Git &amp; GitHub as a Data Engineering Student at LuxDevHQ](https://dev.to/peter_amoro_fccf1d029a084/learning-git-github-as-a-data-engineering-student-at-luxdevhq-4co2)
+- [GitHub Copilot Should Use .copilot, Not .github](https://dev.to/innoo/github-copilot-should-use-copilot-not-github-4jdj)
+- [C# Loops &lpar;for, foreach, while, do-while&rpar;](https://dev.to/allcoderthings/c-loops-for-foreach-while-do-while-11fo)
 <!-- BLOG-POST-LIST:END -->
 
