@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding structured data to a Next.js site without losing your mind:](https://dev.to/elyvora_us/adding-structured-data-to-a-nextjs-site-without-losing-your-mind-57kh)
-- [How to Run MLPerf Llama 2 70B Training on AMD MI325X Without SLURM](https://dev.to/vincentdu2021/how-to-run-mlperf-llama-2-70b-training-on-amd-mi325x-without-slurm-1ho4)
-- [I Checked My Phone 47 Times Yesterday. Here&#39;s What I&#39;m Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)
-- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)
+- [How to work with GIT and GitHub](https://dev.to/jeff_kamuthu_84592639a8fd/how-to-work-with-git-and-github-474b)
+- [Git and Github for Beginners](https://dev.to/erasto/git-and-github-for-beginners-3aik)
+- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
+- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
 <!-- BLOG-POST-LIST:END -->
 
