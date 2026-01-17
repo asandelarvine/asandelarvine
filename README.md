@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Luxury Analytics Dashboard with Next.js 16 &amp; Tailwind v4](https://dev.to/fytroy/building-a-luxury-analytics-dashboard-with-nextjs-16-tailwind-v4-155h)
-- [Power Distribution in Multi-Port Adapters: What Actually Happens When You Plug Everything In](https://dev.to/bijalparekh/power-distribution-in-multi-port-adapters-what-actually-happens-when-you-plug-everything-in-7ma)
-- [Agent Skills: How to Make AI Write Modern Angular Code](https://dev.to/hassantayyab/agent-skills-how-to-make-ai-write-modern-angular-code-3h5i)
-- [Learning Databases Beyond SQL: My First Day with Oracle Tables](https://dev.to/mazinocodes/learning-databases-beyond-sql-my-first-day-with-oracle-tables-33ig)
+- [Building a Rich Shell Experience: Modern CLI Tools for Developers](https://dev.to/octasoft-ltd/building-a-rich-shell-experience-modern-cli-tools-for-developers-2dg4)
+- [Imitation Learning: A Stanford Walkthrough](https://dev.to/samdude/imitation-learning-a-stanford-walkthrough-22cc)
+- [Running Podman on Windows with WSL: A Practical Guide](https://dev.to/octasoft-ltd/running-podman-on-windows-with-wsl-a-practical-guide-4jl8)
+- [GHSA-5882-5RX9-XGXP: Crawl4AI RCE: Hook, Line, and Sinker into Your Docker Container](https://dev.to/cverports/ghsa-5882-5rx9-xgxp-crawl4ai-rce-hook-line-and-sinker-into-your-docker-container-3l1l)
 <!-- BLOG-POST-LIST:END -->
 
