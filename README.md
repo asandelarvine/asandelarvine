@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a City Boy Meme Generator with Next.js and Fabric.js &lpar;No Watermarks!&rpar;](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
-- [Você já ouviu falar do meme do monstro Shoggoth?](https://dev.to/lhayana/voce-ja-ouviu-falar-do-meme-do-monstro-shoggoth-467n)
-- [Importance of Semantic HTML](https://dev.to/richardpascoe/importance-of-semantic-html-3hcm)
-- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
+- [Why Decentralized Perpetual Exchanges Are the Future of Crypto Trading](https://dev.to/evalane898/why-decentralized-perpetual-exchanges-are-the-future-of-crypto-trading-1i11)
+- [Install and Use Portainer on AlmaLinux 10](https://dev.to/anuragsingh01/install-and-use-portainer-on-almalinux-10-277n)
+- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
+- [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
 <!-- BLOG-POST-LIST:END -->
 
