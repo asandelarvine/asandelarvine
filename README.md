@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Nicknames for Free Fire](https://dev.to/freefirenation/create-nicknames-for-free-fire-18g6)
-- [Building an AI-Native Data Interface with Google ADK, MCP, and BigQuery](https://dev.to/gde/building-an-ai-native-data-interface-with-google-adk-mcp-and-bigquery-4704)
-- [Keep the User Model Stable &lpar;and Let Everything Else Change&rpar;](https://dev.to/interface/keep-the-user-model-stable-and-let-everything-else-change-2108)
-- [The Bash Agent: Notes from Testing SLMs on Linux](https://dev.to/ben-santora/the-bash-agent-notes-from-testing-slms-on-linux-5hcd)
+- [Will 2026 Be the Last Year I Write Code by Hand?](https://dev.to/trolzie/2026-be-that-last-year-i-hand-roll-any-code-422e)
+- [Kubernetes namespaces: concepts &amp; key commands](https://dev.to/rohanan07/kubernetes-namespaces-concepts-key-commands-19hj)
+- [[Boost]](https://dev.to/dd8888/-50me)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/adityagiri14/why-version-control-exists-the-pendrive-problem-3ocl)
 <!-- BLOG-POST-LIST:END -->
 
