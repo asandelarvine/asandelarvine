@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Decentralized Perpetual Exchanges Are the Future of Crypto Trading](https://dev.to/evalane898/why-decentralized-perpetual-exchanges-are-the-future-of-crypto-trading-1i11)
-- [Install and Use Portainer on AlmaLinux 10](https://dev.to/anuragsingh01/install-and-use-portainer-on-almalinux-10-277n)
-- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
-- [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
+- [Create Nicknames for Free Fire](https://dev.to/freefirenation/create-nicknames-for-free-fire-18g6)
+- [Building an AI-Native Data Interface with Google ADK, MCP, and BigQuery](https://dev.to/gde/building-an-ai-native-data-interface-with-google-adk-mcp-and-bigquery-4704)
+- [Keep the User Model Stable &lpar;and Let Everything Else Change&rpar;](https://dev.to/interface/keep-the-user-model-stable-and-let-everything-else-change-2108)
+- [The Bash Agent: Notes from Testing SLMs on Linux](https://dev.to/ben-santora/the-bash-agent-notes-from-testing-slms-on-linux-5hcd)
 <!-- BLOG-POST-LIST:END -->
 
