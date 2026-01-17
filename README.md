@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to work with GIT and GitHub](https://dev.to/jeff_kamuthu_84592639a8fd/how-to-work-with-git-and-github-474b)
-- [Git and Github for Beginners](https://dev.to/erasto/git-and-github-for-beginners-3aik)
-- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
-- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
+- [🌽 *orn — A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
+- [How to DoS A server](https://dev.to/andreyscott/how-to-dos-a-server-452h)
+- [ActivityPub: Protocolo para Redes Descentralizadas](https://dev.to/rafaelbonilha/activitypub-protocolo-para-redes-descentralizadas-425e)
+- [From Funnels to Pipelines: Why I’m Trading Digital Marketing for DevOps](https://dev.to/sumit-jha/from-funnels-to-pipelines-why-im-trading-digital-marketing-for-devops-3e08)
 <!-- BLOG-POST-LIST:END -->
 
