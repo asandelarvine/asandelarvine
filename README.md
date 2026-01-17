@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON to Excel Add-in - Seamless Integration Within Excel](https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn)
-- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
-- [Getting Started with JSON to Excel Web App - Convert in Seconds](https://dev.to/wtsolutions/getting-started-with-json-to-excel-web-app-convert-in-seconds-5g47)
-- [GHSA-GW32-9RMW-QWWW: Svelte SSR XSS: The Textarea Trap](https://dev.to/cverports/ghsa-gw32-9rmw-qwww-svelte-ssr-xss-the-textarea-trap-44ld)
+- [I built a local-first AWS cost killer in Go &lpar;Open Source&rpar;](https://dev.to/drskyle/i-built-a-local-first-aws-cost-killer-in-go-open-source-gi)
+- [Building an Autonomous Skill-Architecture Agent for Rapid Career Transition](https://dev.to/exploredataaiml/building-an-autonomous-skill-architecture-agent-for-rapid-career-transition-don)
+- [Setup MonoRepo in Nest.js](https://dev.to/asibul_hasan_5fe57cd945b8/setup-monorepo-in-nestjs-dj4)
+- [From Dust to Dev Tool: &lpar;Part 2&rpar;](https://dev.to/ranganath_reddy_a430259d3/from-dust-to-dev-tool-part-2-20m4)
 <!-- BLOG-POST-LIST:END -->
 
