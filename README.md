@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first AWS cost killer in Go &lpar;Open Source&rpar;](https://dev.to/drskyle/i-built-a-local-first-aws-cost-killer-in-go-open-source-gi)
-- [Building an Autonomous Skill-Architecture Agent for Rapid Career Transition](https://dev.to/exploredataaiml/building-an-autonomous-skill-architecture-agent-for-rapid-career-transition-don)
-- [Setup MonoRepo in Nest.js](https://dev.to/asibul_hasan_5fe57cd945b8/setup-monorepo-in-nestjs-dj4)
-- [From Dust to Dev Tool: &lpar;Part 2&rpar;](https://dev.to/ranganath_reddy_a430259d3/from-dust-to-dev-tool-part-2-20m4)
+- [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
+- [How to Write a Cover Letter that Lands an Interview in European Tech](https://dev.to/piotr-get-talent/how-to-write-a-cover-letter-that-lands-an-interview-in-european-tech-1aei)
+- [How we built Afina and why WebRTC + QUIC actually matter](https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh)
+- [Claude Code Keeps Forgetting Your Project? Here&#39;s the Fix &lpar;2026&rpar;](https://dev.to/kiwibreaksme/claude-code-keeps-forgetting-your-project-heres-the-fix-2026-3flm)
 <!-- BLOG-POST-LIST:END -->
 
