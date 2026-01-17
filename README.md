@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# 14 - Null Conditional Assignment in .NET10](https://dev.to/jplazaro/c-14-null-conditional-assignment-in-net10-1mc9)
-- [Here are a few options, from most direct to most developer-focused: **Option 1 &lpar;Direct &amp; Punchy&rpar;:** Solved: How I Got Played...](https://dev.to/techresolve/here-are-a-few-options-from-most-direct-to-most-developer-focused-option-1-direct--13he)
-- [Solved: I want to learn scripting for powershell](https://dev.to/techresolve/solved-i-want-to-learn-scripting-for-powershell-1nl)
-- [The main difference between computer science and real computers is side effects](https://dev.to/amarao/the-main-difference-between-computer-science-and-real-computers-is-side-effects-2poo)
+- [Building a City Boy Meme Generator with Next.js and Fabric.js &lpar;No Watermarks!&rpar;](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
+- [Você já ouviu falar do meme do monstro Shoggoth?](https://dev.to/lhayana/voce-ja-ouviu-falar-do-meme-do-monstro-shoggoth-467n)
+- [Importance of Semantic HTML](https://dev.to/richardpascoe/importance-of-semantic-html-3hcm)
+- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
 <!-- BLOG-POST-LIST:END -->
 
