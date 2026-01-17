@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t we all look forward to code-review full time?](https://dev.to/naugtur/dont-we-all-look-forward-to-code-review-full-time-1la5)
-- [We Cut AWS Onboarding from 7 Days to 1 Hour with Terragrunt &lpar;Here&#39;s How&rpar;](https://dev.to/paril_sanghvi_bf1c9276086/we-cut-aws-onboarding-from-7-days-to-1-hour-with-terragrunt-heres-how-54f0)
-- [Airalo eSIM vs. Competitors: The Brutal Truth About Roaming Data](https://dev.to/ii-x/airalo-esim-vs-competitors-the-brutal-truth-about-roaming-data-5d83)
-- [Understanding Git](https://dev.to/user_karta/understanding-git-2h8l)
+- [A Mario-Style Developer Site Built with AI and Deployed to Cloud Run](https://dev.to/serhii_serdiuk_dev/a-mario-style-developer-site-built-with-ai-and-deployed-to-cloud-run-32p2)
+- [Automating Threat Intel: How I Built a Fast, Containerised IP Triage Tool](https://dev.to/shynsec/automating-threat-intel-how-i-built-a-fast-containerised-ip-triage-tool-dfk)
+- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
+- [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
 <!-- BLOG-POST-LIST:END -->
 
