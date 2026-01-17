@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌽 *orn — A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
-- [How to DoS A server](https://dev.to/andreyscott/how-to-dos-a-server-452h)
-- [ActivityPub: Protocolo para Redes Descentralizadas](https://dev.to/rafaelbonilha/activitypub-protocolo-para-redes-descentralizadas-425e)
-- [From Funnels to Pipelines: Why I’m Trading Digital Marketing for DevOps](https://dev.to/sumit-jha/from-funnels-to-pipelines-why-im-trading-digital-marketing-for-devops-3e08)
+- [Don&#39;t we all look forward to code-review full time?](https://dev.to/naugtur/dont-we-all-look-forward-to-code-review-full-time-1la5)
+- [We Cut AWS Onboarding from 7 Days to 1 Hour with Terragrunt &lpar;Here&#39;s How&rpar;](https://dev.to/paril_sanghvi_bf1c9276086/we-cut-aws-onboarding-from-7-days-to-1-hour-with-terragrunt-heres-how-54f0)
+- [Airalo eSIM vs. Competitors: The Brutal Truth About Roaming Data](https://dev.to/ii-x/airalo-esim-vs-competitors-the-brutal-truth-about-roaming-data-5d83)
+- [Understanding Git](https://dev.to/user_karta/understanding-git-2h8l)
 <!-- BLOG-POST-LIST:END -->
 
