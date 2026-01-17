@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Rich Shell Experience: Modern CLI Tools for Developers](https://dev.to/octasoft-ltd/building-a-rich-shell-experience-modern-cli-tools-for-developers-2dg4)
-- [Imitation Learning: A Stanford Walkthrough](https://dev.to/samdude/imitation-learning-a-stanford-walkthrough-22cc)
-- [Running Podman on Windows with WSL: A Practical Guide](https://dev.to/octasoft-ltd/running-podman-on-windows-with-wsl-a-practical-guide-4jl8)
-- [GHSA-5882-5RX9-XGXP: Crawl4AI RCE: Hook, Line, and Sinker into Your Docker Container](https://dev.to/cverports/ghsa-5882-5rx9-xgxp-crawl4ai-rce-hook-line-and-sinker-into-your-docker-container-3l1l)
+- [JSON to Excel Add-in - Seamless Integration Within Excel](https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn)
+- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
+- [Getting Started with JSON to Excel Web App - Convert in Seconds](https://dev.to/wtsolutions/getting-started-with-json-to-excel-web-app-convert-in-seconds-5g47)
+- [GHSA-GW32-9RMW-QWWW: Svelte SSR XSS: The Textarea Trap](https://dev.to/cverports/ghsa-gw32-9rmw-qwww-svelte-ssr-xss-the-textarea-trap-44ld)
 <!-- BLOG-POST-LIST:END -->
 
