@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Messaging &amp; Event Driven design](https://dev.to/dipalikulshrestha/messaging-event-driven-design-i8)
-- [Learning Git &amp; GitHub as a Data Engineering Student at LuxDevHQ](https://dev.to/peter_amoro_fccf1d029a084/learning-git-github-as-a-data-engineering-student-at-luxdevhq-4co2)
-- [GitHub Copilot Should Use .copilot, Not .github](https://dev.to/innoo/github-copilot-should-use-copilot-not-github-4jdj)
-- [C# Loops &lpar;for, foreach, while, do-while&rpar;](https://dev.to/allcoderthings/c-loops-for-foreach-while-do-while-11fo)
+- [Ethereum-Solidity Quiz Q22: How are functions overridden using the &quot;super&quot; keyword?](https://dev.to/mihaihng/ethereum-solidity-quiz-q22-how-are-functions-overridden-using-the-super-keyword-3128)
+- [How to share what you know &lpar;without becoming an influencer&rpar;](https://dev.to/andreagriffiths11/how-to-share-what-you-know-without-becoming-an-influencer-3cke)
+- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
+- [Core Architectural Components of Microsoft Azure &lpar;with Real-World Architecture Example&rpar;](https://dev.to/toniaken/core-architectural-components-of-microsoft-azure-with-real-world-architecture-example-lj5)
 <!-- BLOG-POST-LIST:END -->
 
