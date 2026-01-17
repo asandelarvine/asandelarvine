@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Mario-Style Developer Site Built with AI and Deployed to Cloud Run](https://dev.to/serhii_serdiuk_dev/a-mario-style-developer-site-built-with-ai-and-deployed-to-cloud-run-32p2)
-- [Automating Threat Intel: How I Built a Fast, Containerised IP Triage Tool](https://dev.to/shynsec/automating-threat-intel-how-i-built-a-fast-containerised-ip-triage-tool-dfk)
-- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
-- [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
+- [Building Generative Art Step by Step — A Node Garden Example](https://dev.to/usapopopooon/building-generative-art-step-by-step-a-node-garden-example-3o6h)
+- [2026-01-17 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-17-daily-ai-news-2e0e)
+- [Stop Drawing Stacks: Seeing Drupal on AWS as a Graph](https://dev.to/iamarsh/stop-drawing-stacks-seeing-drupal-on-aws-as-a-graph-1j1b)
+- [MCP Inspector is Now Stable: A Browser-Based Tool for Testing MCP Servers](https://dev.to/punkpeye/mcp-inspector-is-now-stable-a-browser-based-tool-for-testing-mcp-servers-4dim)
 <!-- BLOG-POST-LIST:END -->
 
