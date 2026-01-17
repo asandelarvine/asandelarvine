@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is AWS SageMaker, Actually??](https://dev.to/sakshampaliwal/what-is-aws-sagemaker-actually-47kf)
-- [The Bio-Digital Orchard: A Self-Correcting System](https://dev.to/ygo/the-bio-digital-orchard-a-self-correcting-circular-system-55b4)
-- [From System Transactions to User Transactions in SQLite](https://dev.to/lovestaco/from-system-transactions-to-user-transactions-in-sqlite-3mki)
-- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
+- [Adding structured data to a Next.js site without losing your mind:](https://dev.to/elyvora_us/adding-structured-data-to-a-nextjs-site-without-losing-your-mind-57kh)
+- [How to Run MLPerf Llama 2 70B Training on AMD MI325X Without SLURM](https://dev.to/vincentdu2021/how-to-run-mlperf-llama-2-70b-training-on-amd-mi325x-without-slurm-1ho4)
+- [I Checked My Phone 47 Times Yesterday. Here&#39;s What I&#39;m Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)
+- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)
 <!-- BLOG-POST-LIST:END -->
 
