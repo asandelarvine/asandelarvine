@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum-Solidity Quiz Q22: How are functions overridden using the &quot;super&quot; keyword?](https://dev.to/mihaihng/ethereum-solidity-quiz-q22-how-are-functions-overridden-using-the-super-keyword-3128)
-- [How to share what you know &lpar;without becoming an influencer&rpar;](https://dev.to/andreagriffiths11/how-to-share-what-you-know-without-becoming-an-influencer-3cke)
-- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
-- [Core Architectural Components of Microsoft Azure &lpar;with Real-World Architecture Example&rpar;](https://dev.to/toniaken/core-architectural-components-of-microsoft-azure-with-real-world-architecture-example-lj5)
+- [What Is AWS SageMaker, Actually??](https://dev.to/sakshampaliwal/what-is-aws-sagemaker-actually-47kf)
+- [The Bio-Digital Orchard: A Self-Correcting System](https://dev.to/ygo/the-bio-digital-orchard-a-self-correcting-circular-system-55b4)
+- [From System Transactions to User Transactions in SQLite](https://dev.to/lovestaco/from-system-transactions-to-user-transactions-in-sqlite-3mki)
+- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
 <!-- BLOG-POST-LIST:END -->
 
