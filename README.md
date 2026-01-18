@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is an LLM? How ChatGPT, GPT &amp; AI Language Models Really Work &lpar;Beginner Guide&rpar;](https://dev.to/prabhasg56/what-is-an-llm-how-chatgpt-gpt-ai-language-models-really-work-beginner-guide-1l1a)
-- [Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You](https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848)
-- [Updated Title](https://dev.to/ethan_zhang_e501fea89c25b/article-with-cover-ecp)
-- [How We Eliminated Duplicate Orders at Scale: A Python Post-Mortem from EyecareWell](https://dev.to/darkbranchcore/how-we-eliminated-duplicate-orders-at-scale-a-python-post-mortem-from-eyecarewell-3fo2)
+- [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
+- [Building a Resilient Meta Tag Analyzer with DOMParser and Serverless](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-resilient-meta-tag-analyzer-with-domparser-and-serverless-2k6m)
+- [I figured out how to actually be the “first applicant” on LinkedIn](https://dev.to/salaria_labs/i-figured-out-how-to-actually-be-the-first-applicant-on-linkedin-40ip)
+- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66)
 <!-- BLOG-POST-LIST:END -->
 
