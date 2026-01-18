@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create City Boy Meme](https://dev.to/_75729aa6b13e505e279f7/how-to-create-city-boy-meme-40h2)
-- [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
-- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
+- [[ Open Source Project] open-translate — Offline Translation Web Service Powered by TranslateGemma](https://dev.to/gde/open-source-open-translate-offline-translation-web-service-powered-by-translategemma-2ob2)
+- [How I Hosted Next.js on $5 Shared Hosting](https://dev.to/bravian1/how-i-hosted-nextjs-on-5-shared-hosting-4mg)
+- [How I Fixed “Card Theme Error” in Flutter](https://dev.to/rohitkumarr77/how-i-fixed-card-theme-error-in-flutter-3cpi)
+- [I Pitted AutoML Against a Single Model. The Results Were Uncomfortable](https://dev.to/jashwanth_thatipamula_8ee/i-pitted-automl-against-a-single-model-the-results-were-uncomfortable-58ba)
 <!-- BLOG-POST-LIST:END -->
 
