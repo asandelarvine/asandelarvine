@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
-- [Project BookMyShow: Day 7](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-7-boe)
-- [Quantam: A Lightweight Async Workflow Engine for Node.js](https://dev.to/byron_kennedy_4fb928d39ef/quantam-a-lightweight-async-workflow-engine-for-nodejs-3gc4)
-- [Want to Learn Git and GitHub? A Step-by-Step Guide to Version Control](https://dev.to/gathurum/want-to-learn-git-and-github-a-step-by-step-guide-to-version-control-dko)
+- [AI Financial Co-Pilot](https://dev.to/danifezi/ai-financial-co-pilot-4lnd)
+- [Weekly #03-2026: React2Shell Zero-Day Defense, Kubernetes Autoscaling Guide, AI Coding Guardrails &amp; 2026 AI Acceleration](https://dev.to/weekly/weekly-03-2026-react2shell-zero-day-defense-kubernetes-autoscaling-guide-ai-coding-guardrails--3e0)
+- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
+- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
 <!-- BLOG-POST-LIST:END -->
 
