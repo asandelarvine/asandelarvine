@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RCt2 – A Pragmatic Evolution of BDD for Software Test Cases](https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go)
-- [I Got Tired of &quot;It Works on My Machine&quot; So I Built a Time-Travel Debugger](https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h)
-- [Confucius Code Agent: Why Scaffolding Matters More Than Model Size](https://dev.to/manoj_kumars_21d591547df/confucius-code-agent-why-scaffolding-matters-more-than-model-size-3d78)
-- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
+- [Can AI Image Generators Replace Professional Photographers in 2026?](https://dev.to/sarahmitchell/can-ai-image-generators-replace-professional-photographers-in-2026-34ke)
+- [A Beginner’s Guide to Using Git Bash and GitHub](https://dev.to/mutuku_joseph_74/a-beginners-guide-to-using-git-bash-and-github-5eb9)
+- [My Learnings from Planning AWS Student Community Day Peshawar 2025](https://dev.to/hafsajavedpak/my-learnings-from-planning-aws-student-community-day-peshawar-2025-2l2b)
+- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
 <!-- BLOG-POST-LIST:END -->
 
