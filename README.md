@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Financial Co-Pilot](https://dev.to/danifezi/ai-financial-co-pilot-4lnd)
-- [Weekly #03-2026: React2Shell Zero-Day Defense, Kubernetes Autoscaling Guide, AI Coding Guardrails &amp; 2026 AI Acceleration](https://dev.to/weekly/weekly-03-2026-react2shell-zero-day-defense-kubernetes-autoscaling-guide-ai-coding-guardrails--3e0)
-- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
-- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
+- [How to Create City Boy Meme](https://dev.to/_75729aa6b13e505e279f7/how-to-create-city-boy-meme-40h2)
+- [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
+- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
 <!-- BLOG-POST-LIST:END -->
 
