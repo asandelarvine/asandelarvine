@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB compared to Oracle Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
-- [Introduction to Git Bash and GitHub for Beginners](https://dev.to/sirphilip/introduction-to-git-bash-and-github-for-beginners-43on)
-- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/malaika-musee/getting-started-with-git-and-github-a-beginners-guide-20d5)
-- [System Design Interview was HARD, until I Mastered these Concepts](https://dev.to/somadevtoo/system-design-interview-was-hard-until-i-mastered-these-concepts-3239)
+- [Do you quit a tool when it asks for signup for a simple task?](https://dev.to/bhavin-allinonetools/do-you-quit-a-tool-when-it-asks-for-signup-for-a-simple-task-34ce)
+- [A Linux Tutorial: Log to CSV to JSON](https://dev.to/ben-santora/a-linux-tutorial-log-csv-json-1451)
+- [The Complete Guide to Prompt Engineering for Angular Developers](https://dev.to/hassantayyab/the-complete-guide-to-prompt-engineering-for-angular-developers-8pg)
+- [Best Customer Support SDK for Flutter &lpar;2026 Guide&rpar;](https://dev.to/tintin_1dfb11cb70cf6e9/best-customer-support-sdk-for-flutter-2026-guide-9k6)
 <!-- BLOG-POST-LIST:END -->
 
