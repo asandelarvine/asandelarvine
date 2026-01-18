@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you quit a tool when it asks for signup for a simple task?](https://dev.to/bhavin-allinonetools/do-you-quit-a-tool-when-it-asks-for-signup-for-a-simple-task-34ce)
-- [A Linux Tutorial: Log to CSV to JSON](https://dev.to/ben-santora/a-linux-tutorial-log-csv-json-1451)
-- [The Complete Guide to Prompt Engineering for Angular Developers](https://dev.to/hassantayyab/the-complete-guide-to-prompt-engineering-for-angular-developers-8pg)
-- [Best Customer Support SDK for Flutter &lpar;2026 Guide&rpar;](https://dev.to/tintin_1dfb11cb70cf6e9/best-customer-support-sdk-for-flutter-2026-guide-9k6)
+- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
+- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
+- [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
+- [Passkeys in Production: Adding WebAuthn to a SaaS](https://dev.to/boop_one/passkeys-in-production-adding-webauthn-to-a-saas-4eo9)
 <!-- BLOG-POST-LIST:END -->
 
