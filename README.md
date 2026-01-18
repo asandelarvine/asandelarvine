@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Proven Ways Tech Pros Can Optimize LinkedIn Profiles to Get Noticed by Recruiters in 2024](https://dev.to/saber-amani/5-proven-ways-tech-pros-can-optimize-linkedin-profiles-to-get-noticed-by-recruiters-in-2024-2le3)
-- [ast2ast v0.5: Translate R Functions to Optimized C++: Now with automatic differentiation!](https://dev.to/konrad1991/ast2ast-v05-translate-r-functions-to-optimized-c-now-with-automatic-differentiation-mf1)
-- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
-- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
+- [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
+- [The Sensational Release of jQuery 4.0.0 and the End of Framework Dictatorship](https://dev.to/jsgurujobs/the-sensational-release-of-jquery-400-and-the-end-of-framework-dictatorship-3677)
+- [Network Engineer](https://dev.to/desinetworker/network-engineer-3e7o)
+- [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
 <!-- BLOG-POST-LIST:END -->
 
