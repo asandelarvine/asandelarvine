@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Linux Work as a Corporate Desktop](https://dev.to/sebos/making-linux-work-as-a-corporate-desktop-2ji8)
-- [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
-- [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
-- [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
+- [Building Guardrails for AI Coding Assistants: A PreToolUse Hook System for Claude Code](https://dev.to/mikelane/building-guardrails-for-ai-coding-assistants-a-pretooluse-hook-system-for-claude-code-ilj)
+- [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
+- [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
+- [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
 <!-- BLOG-POST-LIST:END -->
 
