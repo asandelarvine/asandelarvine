@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of using Git](https://dev.to/valgrace/basics-of-using-git-171a)
-- [Git for beginners: Track changes, push and pull code.](https://dev.to/twisted21/git-for-beginners-track-changes-push-and-pull-code-4kbe)
-- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
-- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
+- [MongoDB compared to Oracle Maximum Availability Architecture](https://dev.to/franckpachot/mongodb-compared-to-oracle-maximum-availability-architecture-mpl)
+- [Introduction to Git Bash and GitHub for Beginners](https://dev.to/sirphilip/introduction-to-git-bash-and-github-for-beginners-43on)
+- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/malaika-musee/getting-started-with-git-and-github-a-beginners-guide-20d5)
+- [System Design Interview was HARD, until I Mastered these Concepts](https://dev.to/somadevtoo/system-design-interview-was-hard-until-i-mastered-these-concepts-3239)
 <!-- BLOG-POST-LIST:END -->
 
