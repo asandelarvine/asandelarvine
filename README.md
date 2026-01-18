@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2026 Ultimate Guide to Google for Startups: Funding, Accelerators, and $350k in Credits](https://dev.to/googleai/the-2026-ultimate-guide-to-google-for-startups-funding-accelerators-and-350k-in-credits-10ha)
-- [HOW TO GIT IT](https://dev.to/shabex/how-to-git-it-38kp)
-- [How infrastructure outages in 2025 changed how businesses think about servers](https://dev.to/k_hohlov/how-infrastructure-outages-in-2025-changed-how-businesses-think-about-servers-5810)
-- [On the &#39;Joy of Creating&#39; in the Age of AI](https://dev.to/bebechien/on-the-joy-of-creating-in-the-age-of-ai-hm4)
+- [Turkish Sieve Engine &lpar;TSE&rpar; V.1.0.0](https://dev.to/turkishsieve/turkish-sieve-engine-tse-v100-3c9f)
+- [From fix CORS in Nuxt and found new better way to authenticate](https://dev.to/silvesterwali/from-fix-cors-in-nuxt-and-found-new-better-way-to-authenticate-1ck9)
+- [🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It](https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg)
+- [Customizing MacOS Terminal with Starship Like a Pro](https://dev.to/gvalenncia/customizing-macos-terminal-with-starship-like-a-pro-2geb)
 <!-- BLOG-POST-LIST:END -->
 
