@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Image Generators Replace Professional Photographers in 2026?](https://dev.to/sarahmitchell/can-ai-image-generators-replace-professional-photographers-in-2026-34ke)
-- [A Beginner’s Guide to Using Git Bash and GitHub](https://dev.to/mutuku_joseph_74/a-beginners-guide-to-using-git-bash-and-github-5eb9)
-- [My Learnings from Planning AWS Student Community Day Peshawar 2025](https://dev.to/hafsajavedpak/my-learnings-from-planning-aws-student-community-day-peshawar-2025-2l2b)
-- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
+- [The Knowledge Base That Lied to 10,000 Customers &lpar;And How We Caught It&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-knowledge-base-that-lied-to-10000-customers-and-how-we-caught-it-3gm4)
+- [CSS @scope: advanced nesting](https://dev.to/effnd/css-scope-advanced-nesting-485e)
+- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
+- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
 <!-- BLOG-POST-LIST:END -->
 
