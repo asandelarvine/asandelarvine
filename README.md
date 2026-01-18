@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Found a Really Nice Way to Visualize SQLite Databases](https://dev.to/damia_ferrer_98cc88ce80e1/found-a-really-nice-way-to-visualize-sqlite-databases-3eda)
-- [Use Cursor with Local LLM and LM Studio](https://dev.to/0xkoji/use-cursor-with-local-llm-and-lm-studio-i54)
-- [The &quot;Virtual Air Gap&quot;: Building Fort Knox in AWS](https://dev.to/alifunk/the-virtual-air-gap-building-fort-knox-in-aws-4ako)
-- [Stop Building Features: Start Building Patterns](https://dev.to/edulazaro/stop-building-features-start-building-patterns-2efl)
+- [The 2026 Ultimate Guide to Google for Startups: Funding, Accelerators, and $350k in Credits](https://dev.to/googleai/the-2026-ultimate-guide-to-google-for-startups-funding-accelerators-and-350k-in-credits-10ha)
+- [HOW TO GIT IT](https://dev.to/shabex/how-to-git-it-38kp)
+- [How infrastructure outages in 2025 changed how businesses think about servers](https://dev.to/k_hohlov/how-infrastructure-outages-in-2025-changed-how-businesses-think-about-servers-5810)
+- [On the &#39;Joy of Creating&#39; in the Age of AI](https://dev.to/bebechien/on-the-joy-of-creating-in-the-age-of-ai-hm4)
 <!-- BLOG-POST-LIST:END -->
 
