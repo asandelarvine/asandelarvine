@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Knowledge Base That Lied to 10,000 Customers &lpar;And How We Caught It&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-knowledge-base-that-lied-to-10000-customers-and-how-we-caught-it-3gm4)
-- [CSS @scope: advanced nesting](https://dev.to/effnd/css-scope-advanced-nesting-485e)
-- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
-- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
+- [Basics of using Git](https://dev.to/valgrace/basics-of-using-git-171a)
+- [Git for beginners: Track changes, push and pull code.](https://dev.to/twisted21/git-for-beginners-track-changes-push-and-pull-code-4kbe)
+- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
+- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
 <!-- BLOG-POST-LIST:END -->
 
