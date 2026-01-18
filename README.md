@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
-- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
-- [🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅](https://dev.to/tensorlake/claude-opus-45-vs-gpt-52-high-vs-gemini-3-pro-production-coding-test-25of)
-- [Passkeys in Production: Adding WebAuthn to a SaaS](https://dev.to/boop_one/passkeys-in-production-adding-webauthn-to-a-saas-4eo9)
+- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
+- [Project BookMyShow: Day 7](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-7-boe)
+- [Quantam: A Lightweight Async Workflow Engine for Node.js](https://dev.to/byron_kennedy_4fb928d39ef/quantam-a-lightweight-async-workflow-engine-for-nodejs-3gc4)
+- [Want to Learn Git and GitHub? A Step-by-Step Guide to Version Control](https://dev.to/gathurum/want-to-learn-git-and-github-a-step-by-step-guide-to-version-control-dko)
 <!-- BLOG-POST-LIST:END -->
 
