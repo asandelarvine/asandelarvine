@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
-- [Building a Resilient Meta Tag Analyzer with DOMParser and Serverless](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-resilient-meta-tag-analyzer-with-domparser-and-serverless-2k6m)
-- [I figured out how to actually be the “first applicant” on LinkedIn](https://dev.to/salaria_labs/i-figured-out-how-to-actually-be-the-first-applicant-on-linkedin-40ip)
-- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66)
+- [5 Proven Ways Tech Pros Can Optimize LinkedIn Profiles to Get Noticed by Recruiters in 2024](https://dev.to/saber-amani/5-proven-ways-tech-pros-can-optimize-linkedin-profiles-to-get-noticed-by-recruiters-in-2024-2le3)
+- [ast2ast v0.5: Translate R Functions to Optimized C++: Now with automatic differentiation!](https://dev.to/konrad1991/ast2ast-v05-translate-r-functions-to-optimized-c-now-with-automatic-differentiation-mf1)
+- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
+- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
 <!-- BLOG-POST-LIST:END -->
 
