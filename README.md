@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turkish Sieve Engine &lpar;TSE&rpar; V.1.0.0](https://dev.to/turkishsieve/turkish-sieve-engine-tse-v100-3c9f)
-- [From fix CORS in Nuxt and found new better way to authenticate](https://dev.to/silvesterwali/from-fix-cors-in-nuxt-and-found-new-better-way-to-authenticate-1ck9)
-- [🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It](https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg)
-- [Customizing MacOS Terminal with Starship Like a Pro](https://dev.to/gvalenncia/customizing-macos-terminal-with-starship-like-a-pro-2geb)
+- [RCt2 – A Pragmatic Evolution of BDD for Software Test Cases](https://dev.to/rafael_cardoso_c438f2c879/rct2-a-pragmatic-evolution-of-bdd-for-software-test-cases-37go)
+- [I Got Tired of &quot;It Works on My Machine&quot; So I Built a Time-Travel Debugger](https://dev.to/ujwal240/i-got-tired-of-it-works-on-my-machine-so-i-built-a-time-travel-debugger-235h)
+- [Confucius Code Agent: Why Scaffolding Matters More Than Model Size](https://dev.to/manoj_kumars_21d591547df/confucius-code-agent-why-scaffolding-matters-more-than-model-size-3d78)
+- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
 <!-- BLOG-POST-LIST:END -->
 
