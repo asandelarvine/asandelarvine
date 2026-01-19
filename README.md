@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementasi Blockchain pada Mesh Network Tanpa Internet](https://dev.to/initialm503/implementasi-blockchain-pada-mesh-network-tanpa-internet-3f1i)
-- [Day 3 — Errors &amp; Loss Functions: Measuring How Wrong a Model Is](https://dev.to/brains_behind_bots/day-3-errors-loss-functions-measuring-how-wrong-a-model-is-h29)
-- [Digital Door Lock Systems Market: Key Drivers, Future Scope And Regional Analysis](https://dev.to/blocksmithpro/digital-door-lock-systems-market-key-drivers-future-scope-and-regional-analysis-42hm)
-- [Chain of Responsibility pattern](https://dev.to/stevsharp/chain-of-responsibility-pattern-1nn6)
+- [Extracting a Shared Box URL from the Login Page](https://dev.to/vast-cow/extracting-a-shared-box-url-from-the-login-page-5d75)
+- [How I bundle my codebase so ChatGPT can actually understand it](https://dev.to/koistya/how-i-bundle-my-codebase-so-chatgpt-can-actually-understand-it-lp1)
+- [Block Outbound Traffic for a Specific Linux User with iptables &lpar;While Keeping Listening Ports Working&rpar;](https://dev.to/vast-cow/block-outbound-traffic-for-a-specific-linux-user-with-iptables-while-keeping-listening-ports-48li)
+- [🔧 Integrating tmux automatically in VS Code with persistent sessions](https://dev.to/pookdeveloper/integrating-tmux-automatically-in-vs-code-with-persistent-sessions-95k)
 <!-- BLOG-POST-LIST:END -->
 
