@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Tree Views with react-arborist in React](https://dev.to/blockpathdev/building-tree-views-with-react-arborist-in-react-53cn)
-- [Getting Started with Generative AI on AWS: A Practical, Hands-On Guide](https://dev.to/ravindraptech/getting-started-with-generative-ai-on-aws-a-practical-hands-on-guide-1cbn)
-- [How to Work Better With AI](https://dev.to/matrix7689/how-to-work-better-with-ai-5dm)
-- [Building Command Palettes with kbar in React](https://dev.to/blockpathdev/building-command-palettes-with-kbar-in-react-32p3)
+- [SEO Explained](https://dev.to/nordiksparkle/seo-explained-5g3o)
+- [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
+- [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
+- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
 <!-- BLOG-POST-LIST:END -->
 
