@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NgRx Toolkit v21](https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46)
-- [Getting Started with Pure React Carousel: Building Image Carousels](https://dev.to/web3logic/getting-started-with-pure-react-carousel-building-image-carousels-2a89)
-- [Building a Todo App with Vanilla JavaScript](https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k)
-- [We&#39;re hiring!! Senior Full-Stack Engineer &lpar;High-Performance Web&rpar;](https://dev.to/sandra_marinsancho_519f3/were-hiring-senior-full-stack-engineer-high-performance-web-3e9g)
+- [Building Tree Views with react-arborist in React](https://dev.to/blockpathdev/building-tree-views-with-react-arborist-in-react-53cn)
+- [Getting Started with Generative AI on AWS: A Practical, Hands-On Guide](https://dev.to/ravindraptech/getting-started-with-generative-ai-on-aws-a-practical-hands-on-guide-1cbn)
+- [How to Work Better With AI](https://dev.to/matrix7689/how-to-work-better-with-ai-5dm)
+- [Building Command Palettes with kbar in React](https://dev.to/blockpathdev/building-command-palettes-with-kbar-in-react-32p3)
 <!-- BLOG-POST-LIST:END -->
 
