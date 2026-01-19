@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ for backend applications - Get started with this simple template](https://dev.to/landiluigi746/c-for-backend-applications-get-started-with-this-simple-template-2pb6)
-- [I Replaced My scripts/ Folder With a Browser Tool — Here&#39;s Why](https://dev.to/kevin_tan_29e4fbebec2fd64/i-replaced-my-scripts-folder-with-a-browser-tool-heres-why-1hhl)
-- [From memory to machines: how notifications actually work](https://dev.to/surhidamatya/from-memory-to-machines-how-notifications-actually-work-1f75)
-- [Building an Ultra-Modern Animated Portfolio with Google AI Studio &amp; Gemini](https://dev.to/aniruddhaadak/building-an-ultra-modern-animated-portfolio-with-google-ai-studio-gemini-4cga)
+- [I built a free, privacy-first WakaTime alternative &lpar;using Go &amp; MongoDB&rpar; for VS Code &amp; Neovim with Zero Latency](https://dev.to/rtarun3606k/i-built-a-free-privacy-first-wakatime-alternative-using-go-mongodb-for-vs-code-neovim-with-2p4e)
+- [Serverless Architectures: Designing for Scale, Simplicity and Resilience](https://dev.to/audaciatechnology/serverless-architectures-designing-for-scale-simplicity-and-resilience-2c62)
+- [Listening to Battery Percentage Changes on Windows with Python and Win32 Messages](https://dev.to/vast-cow/listening-to-battery-percentage-changes-on-windows-with-python-and-win32-messages-4o5o)
+- [eJPT Lab Walkthrough: Vulnerability Assessment](https://dev.to/james_kariuki/ejpt-lab-walkthrough-vulnerability-assessment-5cg0)
 <!-- BLOG-POST-LIST:END -->
 
