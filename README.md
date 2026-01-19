@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Set up a bcache partition and evaluate its performance](https://dev.to/vast-cow/set-up-a-bcache-partition-and-evaluate-its-performance-1j28)
-- [ROS2 SYSTEMS ANALYSIS: Visualizing Workspaces, Nodes &amp; Communication](https://dev.to/eyetengu/ros2-systems-analysis-visualizing-workspaces-nodes-communication-4pee)
-- [ROS2 SYSTEMS ANALYSIS: Developing The Correct Mental Model](https://dev.to/eyetengu/ros2-systems-analysis-developing-the-correct-mental-model-5848)
-- [I Built 7 Free Converter Tools Developers Actually Use &lpar;No Ads, No Signup&rpar;](https://dev.to/humayun_nasir_04b087812ce/i-built-7-free-converter-tools-developers-actually-use-no-ads-no-signup-2ea9)
+- [Connecting Your Computer with GitHub-Part Two](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-two-2hb3)
+- [Efficiently Reverse Arrays In-Place in Go Language](https://dev.to/rubenoalvarado/efficiently-reverse-arrays-in-place-in-go-language-2eji)
+- [SwiftUI App Migration Strategies &lpar;UIKit SwiftUI, Legacy Modern&rpar;](https://dev.to/sebastienlato/swiftui-app-migration-strategies-uikit-swiftui-legacy-modern-kp7)
+- [.ENV Files](https://dev.to/conscious_coder/env-files-2aih)
 <!-- BLOG-POST-LIST:END -->
 
