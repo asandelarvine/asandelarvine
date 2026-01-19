@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free, privacy-first WakaTime alternative &lpar;using Go &amp; MongoDB&rpar; for VS Code &amp; Neovim with Zero Latency](https://dev.to/rtarun3606k/i-built-a-free-privacy-first-wakatime-alternative-using-go-mongodb-for-vs-code-neovim-with-2p4e)
-- [Serverless Architectures: Designing for Scale, Simplicity and Resilience](https://dev.to/audaciatechnology/serverless-architectures-designing-for-scale-simplicity-and-resilience-2c62)
-- [Listening to Battery Percentage Changes on Windows with Python and Win32 Messages](https://dev.to/vast-cow/listening-to-battery-percentage-changes-on-windows-with-python-and-win32-messages-4o5o)
-- [eJPT Lab Walkthrough: Vulnerability Assessment](https://dev.to/james_kariuki/ejpt-lab-walkthrough-vulnerability-assessment-5cg0)
+- [Implementasi Blockchain pada Mesh Network Tanpa Internet](https://dev.to/initialm503/implementasi-blockchain-pada-mesh-network-tanpa-internet-3f1i)
+- [Day 3 — Errors &amp; Loss Functions: Measuring How Wrong a Model Is](https://dev.to/brains_behind_bots/day-3-errors-loss-functions-measuring-how-wrong-a-model-is-h29)
+- [Digital Door Lock Systems Market: Key Drivers, Future Scope And Regional Analysis](https://dev.to/blocksmithpro/digital-door-lock-systems-market-key-drivers-future-scope-and-regional-analysis-42hm)
+- [Chain of Responsibility pattern](https://dev.to/stevsharp/chain-of-responsibility-pattern-1nn6)
 <!-- BLOG-POST-LIST:END -->
 
