@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cognitive Budget: How I Write Code I Can Actually Maintain](https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf)
-- [Running dnsmasq as a Dedicated DNS Server with macvlan to Avoid systemd-resolved Conflicts](https://dev.to/vast-cow/running-dnsmasq-as-a-dedicated-dns-server-with-macvlan-to-avoid-systemd-resolved-conflicts-5akp)
-- [Beyond the Syntax: The Anatomy of a High-Impact Developer’s Daily Routine](https://dev.to/sameer_saleem/beyond-the-syntax-the-anatomy-of-a-high-impact-developers-daily-routine-1bk5)
-- [Back to Our Roots: The All-New locize.com](https://dev.to/adrai/back-to-our-roots-the-all-new-locizecom-11bg)
+- [AI Isn’t Replacing Developers—It’s Exposing Execution Gaps in Teams](https://dev.to/workelate123/ai-isnt-replacing-developers-its-exposing-execution-gaps-in-teams-34jf)
+- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn)
+- [Helm Chart Best Practices - What Every DevOps Engineer Should Know](https://dev.to/atmosly/helm-chart-best-practices-what-every-devops-engineer-should-know-4eeb)
+- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)
 <!-- BLOG-POST-LIST:END -->
 
