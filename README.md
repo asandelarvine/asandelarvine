@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Your Computer with GitHub-Part Two](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-two-2hb3)
-- [Efficiently Reverse Arrays In-Place in Go Language](https://dev.to/rubenoalvarado/efficiently-reverse-arrays-in-place-in-go-language-2eji)
-- [SwiftUI App Migration Strategies &lpar;UIKit SwiftUI, Legacy Modern&rpar;](https://dev.to/sebastienlato/swiftui-app-migration-strategies-uikit-swiftui-legacy-modern-kp7)
-- [.ENV Files](https://dev.to/conscious_coder/env-files-2aih)
+- [NgRx Toolkit v21](https://dev.to/ngrx-toolkit/ngrx-toolkit-v21-4l46)
+- [Getting Started with Pure React Carousel: Building Image Carousels](https://dev.to/web3logic/getting-started-with-pure-react-carousel-building-image-carousels-2a89)
+- [Building a Todo App with Vanilla JavaScript](https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k)
+- [We&#39;re hiring!! Senior Full-Stack Engineer &lpar;High-Performance Web&rpar;](https://dev.to/sandra_marinsancho_519f3/were-hiring-senior-full-stack-engineer-high-performance-web-3e9g)
 <!-- BLOG-POST-LIST:END -->
 
