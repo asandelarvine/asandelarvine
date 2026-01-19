@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch](https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k)
+- [Music Monday: Taking a &#39;Break&#39;](https://dev.to/musicforem/music-monday-taking-a-break-13m0)
 - [Public vs Private APIs in ASP.NET Core — Branching the Middleware Pipeline &lpar;Production‑Minded, with a Smile&rpar;](https://dev.to/cristiansifuentes/public-vs-private-apis-in-aspnet-core-branching-the-middleware-pipeline-production-minded-with-288)
-- [SSR vs SPA | Qual usar?](https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh)
-- [I built Vercube because benchmarks don’t lie](https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7)
-- [SC #8: Cancelando un Task](https://dev.to/david_goyes_a488f58a17a53/sc-8-cancelando-un-task-179m)
+- [Jekyll 블로그에 Mermaid 다이어그램 추가하기](https://dev.to/dss99911/jekyll-beulrogeue-mermaid-daieogeuraem-cugahagi-1fj6)
 <!-- BLOG-POST-LIST:END -->
 
