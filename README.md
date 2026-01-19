@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [k6 vs. JMeter: Comparing Load Testing Tools and AI-Enhanced Scenario Generation](https://dev.to/matiasmagni/k6-vs-jmeter-comparing-load-testing-tools-and-ai-enhanced-scenario-generation-5488)
-- [Automation Without Accountability Is Structurally Unsafe](https://dev.to/yuer/automation-without-accountability-is-structurally-unsafe-1kmk)
-- [Authority, Boundaries, and Final Veto in AI Systems](https://dev.to/yuer/authority-boundaries-and-final-veto-in-ai-systems-18d9)
-- [Building an AI-Powered Authentication System with Temporal.io](https://dev.to/ujja/building-an-ai-powered-authentication-system-with-temporalio-16kd)
+- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
+- [Tableau + Databricks at Scale: A Technical Guide for Managing 10,000+ Databases](https://dev.to/ridwan_sassman_3d07/tableau-databricks-at-scale-a-technical-guide-for-managing-10000-databases-3mag)
+- [🔲 Beginner-Friendly Guide &#39;Maximum Side Length of a Square&#39; – LeetCode 1292 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-side-length-of-a-square-leetcode-1292-c-python-345h)
+- [The Cloud SDET Manifesto: Scaling Quality with Go 🚀](https://dev.to/matiasmagni/the-cloud-sdet-manifesto-scaling-quality-with-go-47l4)
 <!-- BLOG-POST-LIST:END -->
 
