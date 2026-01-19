@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch](https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k)
-- [Music Monday: Taking a &#39;Break&#39;](https://dev.to/musicforem/music-monday-taking-a-break-13m0)
-- [Public vs Private APIs in ASP.NET Core — Branching the Middleware Pipeline &lpar;Production‑Minded, with a Smile&rpar;](https://dev.to/cristiansifuentes/public-vs-private-apis-in-aspnet-core-branching-the-middleware-pipeline-production-minded-with-288)
-- [Jekyll 블로그에 Mermaid 다이어그램 추가하기](https://dev.to/dss99911/jekyll-beulrogeue-mermaid-daieogeuraem-cugahagi-1fj6)
+- [The Three Phases of Data Pipelines](https://dev.to/thanh_truong_a99577c6b879/the-three-phases-of-data-pipelines-3d1c)
+- [When Playwright’s Locator Tool Isn’t Enough](https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h)
+- [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
+- [Portfolio &amp; Summarizing Dev Journals Using Google AI &amp; Cloud Run](https://dev.to/fengjinglan/portfolio-summarizing-dev-journals-using-google-ai-cloud-run-29jj)
 <!-- BLOG-POST-LIST:END -->
 
