@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Isn’t Replacing Developers—It’s Exposing Execution Gaps in Teams](https://dev.to/workelate123/ai-isnt-replacing-developers-its-exposing-execution-gaps-in-teams-34jf)
-- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn)
-- [Helm Chart Best Practices - What Every DevOps Engineer Should Know](https://dev.to/atmosly/helm-chart-best-practices-what-every-devops-engineer-should-know-4eeb)
-- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)
+- [When Pendulum Physics Becomes Art: Implementing a Pollock-Style Generative Art Generator](https://dev.to/usapopopooon/when-pendulum-physics-becomes-art-implementing-a-pollock-style-generative-art-generator-104i)
+- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
+- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
+- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
 <!-- BLOG-POST-LIST:END -->
 
