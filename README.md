@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IAM Fundamentals](https://dev.to/dipalikulshrestha/iam-fundamentals-32pa)
-- [Perl 🐪 Weekly #756 - Perl in 2026](https://dev.to/szabgab/perl-weekly-756-perl-in-2026-1pc0)
-- [YAKMESH™ v2.2.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v220-post-quantum-p2p-mesh-network-1d2j)
-- [GitHub + Azure DevOps: The Better Together Story &lpar;And Why GitHub Should Be Your Future](https://dev.to/vevarunsharma/github-azure-devops-the-better-together-story-and-why-github-should-be-your-future-1bb6)
+- [A Practical Guide to Replacing NetSuite SOAP Web Services with REST](https://dev.to/neos/a-practical-guide-to-replacing-netsuite-soap-web-services-with-rest-136o)
+- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii)
+- [Playwright Reporting Breaks Down as Your Suite Grows &lpar;and How a Test Dashboard Fixes It&rpar;](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20)
+- [Understanding ArkTS ArcList: The Go-To Component for Watch UIs](https://dev.to/harmonyos/understanding-arkts-arclist-the-go-to-component-for-watch-uis-1hc9)
 <!-- BLOG-POST-LIST:END -->
 
