@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
-- [Tableau + Databricks at Scale: A Technical Guide for Managing 10,000+ Databases](https://dev.to/ridwan_sassman_3d07/tableau-databricks-at-scale-a-technical-guide-for-managing-10000-databases-3mag)
-- [🔲 Beginner-Friendly Guide &#39;Maximum Side Length of a Square&#39; – LeetCode 1292 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-side-length-of-a-square-leetcode-1292-c-python-345h)
-- [The Cloud SDET Manifesto: Scaling Quality with Go 🚀](https://dev.to/matiasmagni/the-cloud-sdet-manifesto-scaling-quality-with-go-47l4)
+- [IAM Fundamentals](https://dev.to/dipalikulshrestha/iam-fundamentals-32pa)
+- [Perl 🐪 Weekly #756 - Perl in 2026](https://dev.to/szabgab/perl-weekly-756-perl-in-2026-1pc0)
+- [YAKMESH™ v2.2.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v220-post-quantum-p2p-mesh-network-1d2j)
+- [GitHub + Azure DevOps: The Better Together Story &lpar;And Why GitHub Should Be Your Future](https://dev.to/vevarunsharma/github-azure-devops-the-better-together-story-and-why-github-should-be-your-future-1bb6)
 <!-- BLOG-POST-LIST:END -->
 
