@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[BlindSpot] Log 01. Architecture](https://dev.to/ryujm1828/blindspot-log-01-architecture-55mf)
-- [🧱 Lecture 11: Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; with Jenkins](https://dev.to/farrukh_rehman/lecture-11-continuous-integration-and-continuous-deployment-cicd-with-jenkins-6om)
-- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
-- [Welcome to MCP-P-A-looza](https://dev.to/gde/welcome-to-mcp-p-a-looza-kak)
+- [I recommend reading it](https://dev.to/leee_rodgers1/i-recommend-reading-it-3fen)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd)
+- [Node Congress 2026](https://dev.to/gitnationorg/node-congress-2026-31h8)
+- [How to Set Up NativeWind in Expo Without Version Conflicts](https://dev.to/chizycodes/how-to-set-up-nativewind-in-expo-without-version-conflicts-2k4o)
 <!-- BLOG-POST-LIST:END -->
 
