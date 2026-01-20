@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I recommend reading it](https://dev.to/leee_rodgers1/i-recommend-reading-it-3fen)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd)
-- [Node Congress 2026](https://dev.to/gitnationorg/node-congress-2026-31h8)
-- [How to Set Up NativeWind in Expo Without Version Conflicts](https://dev.to/chizycodes/how-to-set-up-nativewind-in-expo-without-version-conflicts-2k4o)
+- [RubyLLM::Instrumentation: The foundation for RubyLLM monitoring](https://dev.to/sinaptia_dev/rubyllminstrumentation-the-foundation-for-rubyllm-monitoring-4jh9)
+- [I built a Python project to explore practical password security](https://dev.to/usero0/i-built-a-python-project-to-explore-practical-password-security-2ai1)
+- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
+- [PostgreSQL as vector search &lpar;pgvector&rpar;](https://dev.to/lucaspereiradesouzat/postgresql-as-vector-search-pgvector-102m)
 <!-- BLOG-POST-LIST:END -->
 
