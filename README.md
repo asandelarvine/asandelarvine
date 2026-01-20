@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-0009 - Linux Kernel eBPF Privilege Escalation Vulnerability](https://dev.to/yogsec/cve-2025-0009-linux-kernel-ebpf-privilege-escalation-vulnerability-5afo)
-- [Targeted Bets: Reinventing the Job Hunt for Developers](https://dev.to/dd8888/targeted-bets-reinventing-the-job-hunt-for-developers-2no2)
-- [eBPF Tutorial: BPF Workqueues for Asynchronous Sleepable Tasks](https://dev.to/yunwei37/ebpf-tutorial-bpf-workqueues-for-asynchronous-sleepable-tasks-58nb)
-- [Project Autopilot: Why I Fired Myself as Community Manager to Build an AI agents Army](https://dev.to/datalaria/project-autopilot-why-i-fired-myself-as-community-manager-to-build-an-ai-agents-army-39k8)
+- [Designing a Flight Search Engine: Architecture, Caching, and Trade-offs](https://dev.to/rahmannugar/designing-a-flight-search-engine-architecture-caching-and-trade-offs-2jbn)
+- [[Boost]](https://dev.to/cleverhoods/-5389)
+- [Next.js Caching and Rendering: A Complete Guide for 2026](https://dev.to/md_marufrahman_3552855e/nextjs-caching-and-rendering-a-complete-guide-for-2026-21lh)
+- [5 Email Attack Vectors Every SaaS Should Block](https://dev.to/alexisfranorge/5-email-based-attack-vectors-every-saas-should-block-597e)
 <!-- BLOG-POST-LIST:END -->
 
