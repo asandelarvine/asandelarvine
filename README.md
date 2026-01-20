@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Lições sobre microsserviços que todo desenvolvedor precisa saber](https://dev.to/erandirjunior/8-licoes-sobre-microsservicos-que-todo-desenvolvedor-precisa-saber-3o42)
-- [BenQ RD280UG Review: 28-Inch 4K Programming Monitor for Developers](https://dev.to/nickytonline/benq-rd280ug-review-28-inch-4k-programming-monitor-for-developers-2iko)
-- [Understanding &#39;Key&#39; in React And, Why It Matters](https://dev.to/adarsha_wagle_6b218268d02/understanding-keys-in-react-why-they-matter-1h7i)
-- [Zappp ⚡ - A Lightning-Fast Alternative to VS Code Live Server](https://dev.to/iamovi/zappp-a-lightning-fast-alternative-to-vs-code-live-server-17hb)
+- [[BlindSpot] Log 01. Architecture](https://dev.to/ryujm1828/blindspot-log-01-architecture-55mf)
+- [🧱 Lecture 11: Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; with Jenkins](https://dev.to/farrukh_rehman/lecture-11-continuous-integration-and-continuous-deployment-cicd-with-jenkins-6om)
+- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
+- [Welcome to MCP-P-A-looza](https://dev.to/gde/welcome-to-mcp-p-a-looza-kak)
 <!-- BLOG-POST-LIST:END -->
 
