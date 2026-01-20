@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Network Devices](https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4)
-- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
-- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
-- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
+- [CVE-2025-0009 - Linux Kernel eBPF Privilege Escalation Vulnerability](https://dev.to/yogsec/cve-2025-0009-linux-kernel-ebpf-privilege-escalation-vulnerability-5afo)
+- [Targeted Bets: Reinventing the Job Hunt for Developers](https://dev.to/dd8888/targeted-bets-reinventing-the-job-hunt-for-developers-2no2)
+- [eBPF Tutorial: BPF Workqueues for Asynchronous Sleepable Tasks](https://dev.to/yunwei37/ebpf-tutorial-bpf-workqueues-for-asynchronous-sleepable-tasks-58nb)
+- [Project Autopilot: Why I Fired Myself as Community Manager to Build an AI agents Army](https://dev.to/datalaria/project-autopilot-why-i-fired-myself-as-community-manager-to-build-an-ai-agents-army-39k8)
 <!-- BLOG-POST-LIST:END -->
 
