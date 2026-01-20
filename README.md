@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Querying &amp; Filtering in Oracle Databases: What Actually Clicked for Me As a Beginner](https://dev.to/mazinocodes/querying-filtering-in-oracle-databases-what-actually-clicked-for-me-as-a-beginner-5di2)
-- [𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗮 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻‑𝗥𝗲𝗮𝗱𝘆 𝗠𝘂𝗹𝘁𝗶‑𝗥𝗲𝗴𝗶𝗼𝗻 𝗔𝗪𝗦 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗘𝗞𝗦 | 𝗖𝗜/𝗖𝗗 | 𝗖𝗮𝗻𝗮𝗿𝘆 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁𝘀 | 𝗗𝗥 𝗙𝗮𝗶𝗹𝗼𝘃𝗲𝗿](https://dev.to/emmao/--18j9)
-- [Creating a AI-enabled Slackbot with AWS Bedrock Knowledge Base](https://dev.to/aws-builders/creating-a-ai-enabled-slackbot-with-aws-bedrock-knowledge-base-4pdm)
-- [hakozuna &lpar;hz3&rpar; - A new memory allocator released](https://dev.to/charmpic/hakozuna-hz3-a-new-memory-allocator-released-2d23)
+- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
+- [Mi primer paso en la IA de AWS: Cómo obtuve la insignia de Machine Learning Foundations](https://dev.to/wilson_mendoza_0339689ee4/mi-primer-paso-en-la-ia-de-aws-como-obtuve-la-insignia-de-machine-learning-foundations-1ll)
+- [Nuxt Studio: Self-Hosted Content Editing for Production Sites](https://dev.to/jqueryscript/nuxt-studio-self-hosted-content-editing-for-production-sites-116j)
+- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
 <!-- BLOG-POST-LIST:END -->
 
