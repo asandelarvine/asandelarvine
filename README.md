@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-First 3D Dashboard with IndexedDB: 89% Cache Hit Rate](https://dev.to/emmanueln07/building-a-local-first-3d-dashboard-with-indexeddb-89-cache-hit-rate-1n2m)
-- [n8n: Community Node - LiteLLM](https://dev.to/codebangkok/n8n-community-node-litellm-5abe)
-- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
-- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
+- [Como resolver o ciclo de importação em Go](https://dev.to/gabriel_santos_fc57509a3c/como-resolver-o-ciclo-de-importacao-em-go-h9i)
+- [Learning Starts After Graduation](https://dev.to/itsugo/learning-starts-after-graduation-2ie4)
+- [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
+- [Building My Personal Portfolio Website: Design, Decisions and Growth](https://dev.to/yasirawan4831/building-my-personal-portfolio-website-design-decisions-and-growth-3o1b)
 <!-- BLOG-POST-LIST:END -->
 
