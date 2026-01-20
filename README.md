@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Shadcn/ui + Radix ‘Hidden’ Components That Make Your App Feel Premium](https://dev.to/shadcndeck_dev/9-shadcnui-radix-hidden-components-that-make-your-app-feel-premium-12hg)
-- [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/elica-beki/10-best-video-calling-apis-benefits-features-55cp)
-- [Cloud-Connected Sphero RVR Robot with AWS IoT Core and Seeed Studio XIAO ESP32S3](https://dev.to/chiwaichan/cloud-connected-sphero-rvr-robot-with-aws-iot-core-and-seeed-studio-xiao-esp32s3-2k41)
-- [🌍 Building an Inclusive Web: A Beginner’s Hands-On Guide to WordPress Accessibility &lpar;Part 1&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-hands-on-guide-to-wordpress-accessibility-part-1-1h9p)
+- [🛰 Beginner-Friendly Guide &#39;Construct the Minimum Bitwise Array I&#39; - Problem 3314 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-i-problem-3314-c-python-3ia4)
+- [4 reasons why ditching Machine Learning and falling in love with Deep Learning might be a good idea](https://dev.to/vishnu_ajit/4-reasons-why-ditching-machine-learning-and-falling-in-love-with-deep-learning-might-be-a-good-idea-3lm1)
+- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
+- [I Built an AI Debugging Assistant Because I Was Tired of Midnight Bug Hunts](https://dev.to/shrey_chauhan_12059d3a8db/i-built-an-ai-debugging-assistant-because-i-was-tired-of-midnight-bug-hunts-3j93)
 <!-- BLOG-POST-LIST:END -->
 
