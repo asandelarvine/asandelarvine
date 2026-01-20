@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como resolver o ciclo de importação em Go](https://dev.to/gabriel_santos_fc57509a3c/como-resolver-o-ciclo-de-importacao-em-go-h9i)
-- [Learning Starts After Graduation](https://dev.to/itsugo/learning-starts-after-graduation-2ie4)
-- [Hooks: How to Put Guardrails on Your AI Coding Assistant](https://dev.to/rajeshroyal/hooks-how-to-put-guardrails-on-your-ai-coding-assistant-4gak)
-- [Building My Personal Portfolio Website: Design, Decisions and Growth](https://dev.to/yasirawan4831/building-my-personal-portfolio-website-design-decisions-and-growth-3o1b)
+- [5 Awesome Ways to Deploy DocuSeal in 2026](https://dev.to/atakanozt/5-awesome-ways-to-deploy-docuseal-in-2026-516l)
+- [Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners](https://dev.to/shahibur_rahman_6670cd024/mastering-wordpress-plugin-best-practices-security-i18n-and-performance-for-beginners-3bc8)
+- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
+- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
 <!-- BLOG-POST-LIST:END -->
 
