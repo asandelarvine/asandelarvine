@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
-- [Mi primer paso en la IA de AWS: Cómo obtuve la insignia de Machine Learning Foundations](https://dev.to/wilson_mendoza_0339689ee4/mi-primer-paso-en-la-ia-de-aws-como-obtuve-la-insignia-de-machine-learning-foundations-1ll)
-- [Nuxt Studio: Self-Hosted Content Editing for Production Sites](https://dev.to/jqueryscript/nuxt-studio-self-hosted-content-editing-for-production-sites-116j)
-- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
+- [React 2026: Why the All-Client SPA Is Becoming Legacy Code](https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e)
+- [I Turned My Insecurities into Art with Google AI &lpar;And Built This&rpar;](https://dev.to/byadhddev/i-turned-my-insecurities-into-art-with-google-ai-and-built-this-33h6)
+- [Async and Await in JavaScript &lpar;Easy Explanation for Freshers&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/async-and-await-in-javascript-easy-explanation-for-freshers-1m1e)
+- [Sliding Windows Explained: Sunglasses Analogy with Ruby Code](https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg)
 <!-- BLOG-POST-LIST:END -->
 
