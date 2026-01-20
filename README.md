@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Reactivity with Angular Resources — A Production‑Minded Guide &lpar;2026&rpar;](https://dev.to/cristiansifuentes/async-reactivity-with-angular-resources-a-production-minded-guide-2026-283k)
-- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
-- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
-- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
+- [Overview of Real-Time Data Synchronization from PostgreSQL to VeloDB](https://dev.to/apachedoris/overview-of-real-time-data-synchronization-from-postgresql-to-velodb-5aem)
+- [Building funsize-engineer](https://dev.to/funsize_engineer/building-funsize-engineer-3k18)
+- [Building a serverless function in AWS](https://dev.to/andrewesley1211/building-a-serverless-function-in-aws-5779)
+- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
 <!-- BLOG-POST-LIST:END -->
 
