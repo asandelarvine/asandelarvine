@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Database Designer Where You Draw First and Generate SQL Later](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-database-designer-where-you-draw-first-and-generate-sql-later-4f96)
-- [Let&#39;s laugh at some of my pain!](https://dev.to/bibimbop123/lets-laugh-at-some-of-my-pain-3p0i)
-- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
-- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
+- [Understanding Network Devices](https://dev.to/abhimanyu_kumar_b94e042e9/understanding-network-devices-15l4)
+- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
+- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
+- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
 <!-- BLOG-POST-LIST:END -->
 
