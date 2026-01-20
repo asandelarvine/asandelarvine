@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛰 Beginner-Friendly Guide &#39;Construct the Minimum Bitwise Array I&#39; - Problem 3314 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-i-problem-3314-c-python-3ia4)
-- [4 reasons why ditching Machine Learning and falling in love with Deep Learning might be a good idea](https://dev.to/vishnu_ajit/4-reasons-why-ditching-machine-learning-and-falling-in-love-with-deep-learning-might-be-a-good-idea-3lm1)
-- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
-- [I Built an AI Debugging Assistant Because I Was Tired of Midnight Bug Hunts](https://dev.to/shrey_chauhan_12059d3a8db/i-built-an-ai-debugging-assistant-because-i-was-tired-of-midnight-bug-hunts-3j93)
+- [8 Lições sobre microsserviços que todo desenvolvedor precisa saber](https://dev.to/erandirjunior/8-licoes-sobre-microsservicos-que-todo-desenvolvedor-precisa-saber-3o42)
+- [BenQ RD280UG Review: 28-Inch 4K Programming Monitor for Developers](https://dev.to/nickytonline/benq-rd280ug-review-28-inch-4k-programming-monitor-for-developers-2iko)
+- [Understanding &#39;Key&#39; in React And, Why It Matters](https://dev.to/adarsha_wagle_6b218268d02/understanding-keys-in-react-why-they-matter-1h7i)
+- [Zappp ⚡ - A Lightning-Fast Alternative to VS Code Live Server](https://dev.to/iamovi/zappp-a-lightning-fast-alternative-to-vs-code-live-server-17hb)
 <!-- BLOG-POST-LIST:END -->
 
