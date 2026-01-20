@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [700 views vs 8% conversion: Why I redesigned my Next.js site to a Bento Grid &lpar;Day 3&rpar;](https://dev.to/velox-web/700-views-vs-8-conversion-why-i-redesigned-my-nextjs-site-to-a-bento-grid-day-3-45o6)
-- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
-- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
-- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
+- [9 Shadcn/ui + Radix ‘Hidden’ Components That Make Your App Feel Premium](https://dev.to/shadcndeck_dev/9-shadcnui-radix-hidden-components-that-make-your-app-feel-premium-12hg)
+- [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/elica-beki/10-best-video-calling-apis-benefits-features-55cp)
+- [Cloud-Connected Sphero RVR Robot with AWS IoT Core and Seeed Studio XIAO ESP32S3](https://dev.to/chiwaichan/cloud-connected-sphero-rvr-robot-with-aws-iot-core-and-seeed-studio-xiao-esp32s3-2k41)
+- [🌍 Building an Inclusive Web: A Beginner’s Hands-On Guide to WordPress Accessibility &lpar;Part 1&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-hands-on-guide-to-wordpress-accessibility-part-1-1h9p)
 <!-- BLOG-POST-LIST:END -->
 
