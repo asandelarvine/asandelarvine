@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Awesome Ways to Deploy DocuSeal in 2026](https://dev.to/atakanozt/5-awesome-ways-to-deploy-docuseal-in-2026-516l)
-- [Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners](https://dev.to/shahibur_rahman_6670cd024/mastering-wordpress-plugin-best-practices-security-i18n-and-performance-for-beginners-3bc8)
-- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
-- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
+- [Async Reactivity with Angular Resources — A Production‑Minded Guide &lpar;2026&rpar;](https://dev.to/cristiansifuentes/async-reactivity-with-angular-resources-a-production-minded-guide-2026-283k)
+- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
+- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
+- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
 <!-- BLOG-POST-LIST:END -->
 
