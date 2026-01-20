@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React 2026: Why the All-Client SPA Is Becoming Legacy Code](https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e)
-- [I Turned My Insecurities into Art with Google AI &lpar;And Built This&rpar;](https://dev.to/byadhddev/i-turned-my-insecurities-into-art-with-google-ai-and-built-this-33h6)
-- [Async and Await in JavaScript &lpar;Easy Explanation for Freshers&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/async-and-await-in-javascript-easy-explanation-for-freshers-1m1e)
-- [Sliding Windows Explained: Sunglasses Analogy with Ruby Code](https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg)
+- [I Built a Database Designer Where You Draw First and Generate SQL Later](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-database-designer-where-you-draw-first-and-generate-sql-later-4f96)
+- [Let&#39;s laugh at some of my pain!](https://dev.to/bibimbop123/lets-laugh-at-some-of-my-pain-3p0i)
+- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
+- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
 <!-- BLOG-POST-LIST:END -->
 
