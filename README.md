@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RubyLLM::Instrumentation: The foundation for RubyLLM monitoring](https://dev.to/sinaptia_dev/rubyllminstrumentation-the-foundation-for-rubyllm-monitoring-4jh9)
-- [I built a Python project to explore practical password security](https://dev.to/usero0/i-built-a-python-project-to-explore-practical-password-security-2ai1)
-- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
-- [PostgreSQL as vector search &lpar;pgvector&rpar;](https://dev.to/lucaspereiradesouzat/postgresql-as-vector-search-pgvector-102m)
+- [Building a Local-First 3D Dashboard with IndexedDB: 89% Cache Hit Rate](https://dev.to/emmanueln07/building-a-local-first-3d-dashboard-with-indexeddb-89-cache-hit-rate-1n2m)
+- [n8n: Community Node - LiteLLM](https://dev.to/codebangkok/n8n-community-node-litellm-5abe)
+- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
+- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
 <!-- BLOG-POST-LIST:END -->
 
