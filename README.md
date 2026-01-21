@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I like how the article separates titles from actual value in the work.](https://dev.to/thegiansorianodev/i-like-how-the-article-separates-titles-from-actual-value-in-the-work-kek)
-- [Serverless Practice: Sending Trello Reminders to Your WhatsApp Using AWS](https://dev.to/saemp21/send-trello-notifications-to-your-whatsapp-using-aws-serverless-for-less-than-1-a-month-1l2g)
-- [When Servers Catch Fire: Mastering DevOps Incident Response 🔥](https://dev.to/tavernetech/when-servers-catch-fire-mastering-devops-incident-response-34cf)
-- [Decoupling Finance: Introducing Helpothon Banking Infrastructure for Modern Fint](https://dev.to/helpathon/decoupling-finance-introducing-helpothon-banking-infrastructure-for-modern-fint-46ag)
+- [Are We All Just Copying Code and Pretending We Know What We&#39;re Doing?](https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk)
+- [Cypress.Promise.all&lpar;&rpar; and cy.mapChain&lpar;&rpar;: Two Hidden Gems for Cypress You Won’t Let Go Once You Try Them](https://dev.to/sebastianclavijo/cypresspromiseall-and-cymapchain-two-hidden-gems-for-cypress-you-wont-let-go-once-you-try-20mj)
+- [Docker, Beyond “It Works on My Machine”: A Senior Engineer’s Playbook](https://dev.to/antobenilofficial/docker-beyond-it-works-on-my-machine-a-senior-engineers-playbook-2fao)
+- [The Secret Life of JavaScript: The Garbage Collector](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok)
 <!-- BLOG-POST-LIST:END -->
 
