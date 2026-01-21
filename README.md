@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/bhushan_tawade_96d6b49aff/hello-world-6l1)
-- [The LLM Imposter](https://dev.to/h0tb0x/the-llm-imposter-2072)
-- [Extracting Text from Documents Using Amazon Textract &lpar;AI series&rpar;](https://dev.to/jeyy/extracting-text-from-documents-using-amazon-textract-ai-series-42eb)
-- [Mastering PostgreSQL Query Optimization: Techniques for Efficient Queries](https://dev.to/imarwan/mastering-postgresql-query-optimization-techniques-for-efficient-queries-1b5l)
+- [We Hardened Ubuntu 24.04 for Security Tools &lpar;And Broke Everything First&rpar;](https://dev.to/david_dev_sec/we-hardened-ubuntu-2404-for-security-tools-and-broke-everything-first-kf2)
+- [Auto-Scaling ComfyUI-API and ComfyUI: Orchestrating GPU Workloads with Azure Kubernetes Service and KEDA](https://dev.to/thangchung/auto-scaling-comfyui-api-and-comfyui-orchestrating-gpu-workloads-with-azure-kubernetes-service-and-2207)
+- [How to Break Any AI Model &lpar;A Machine Learning Security Crash Course&rpar;](https://dev.to/jgracie52/how-to-break-any-ai-model-a-machine-learning-security-crash-course-14gp)
+- [Introducing ZScript](https://dev.to/ziyaadsaqlain/introducing-zscript-2o09)
 <!-- BLOG-POST-LIST:END -->
 
