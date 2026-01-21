@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Epistemology of Offense and Defense: A Foundational Framework](https://dev.to/narnaiezzsshaa/the-epistemology-of-offense-and-defense-a-foundational-framework-em0)
-- [Don’t Lock Yourself Out: Enabling UFW on a Linux Server Without Breaking SSH](https://dev.to/marcoz/dont-lock-yourself-out-enabling-ufw-on-a-linux-server-without-breaking-ssh-2p7o)
-- [Four LLM Stress Tests](https://dev.to/ben-santora/four-llm-stress-tests-2pnh)
-- [Inteligencia Artificial: Conceptos básicos para aprender](https://dev.to/aws-builders/inteligencia-artificial-conceptos-basicos-para-aprender-55c0)
+- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
+- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
+- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
+- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
 <!-- BLOG-POST-LIST:END -->
 
