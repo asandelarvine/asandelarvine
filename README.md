@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
-- [Glossary in Python &lpar;1&rpar;](https://dev.to/hyperkai/glossary-in-python-1-58e1)
-- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
-- [The OS of the Future: Will It Be Chat Based?](https://dev.to/jaideepparashar/the-os-of-the-future-will-it-be-chat-based-3jmo)
+- [Scaling to 70 Modules: Building a Web, Mobile, and API backend on one Convex deployment](https://dev.to/convexchampions/scaling-to-70-modules-building-a-web-mobile-and-api-backend-on-one-convex-deployment-3pcg)
+- [Mastering Google Antigravity: The Future of Vibe Coding in 2026](https://dev.to/mayu2008/mastering-google-antigravity-the-future-of-vibe-coding-in-2026-45l4)
+- [How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code](https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc)
+- [Test](https://dev.to/kaustubhyerkade/test-29na)
 <!-- BLOG-POST-LIST:END -->
 
