@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
-- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
-- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
-- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
+- [I like how the article separates titles from actual value in the work.](https://dev.to/thegiansorianodev/i-like-how-the-article-separates-titles-from-actual-value-in-the-work-kek)
+- [Serverless Practice: Sending Trello Reminders to Your WhatsApp Using AWS](https://dev.to/saemp21/send-trello-notifications-to-your-whatsapp-using-aws-serverless-for-less-than-1-a-month-1l2g)
+- [When Servers Catch Fire: Mastering DevOps Incident Response 🔥](https://dev.to/tavernetech/when-servers-catch-fire-mastering-devops-incident-response-34cf)
+- [Decoupling Finance: Introducing Helpothon Banking Infrastructure for Modern Fint](https://dev.to/helpathon/decoupling-finance-introducing-helpothon-banking-infrastructure-for-modern-fint-46ag)
 <!-- BLOG-POST-LIST:END -->
 
