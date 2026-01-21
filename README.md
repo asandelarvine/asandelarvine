@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
+- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
+- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
 - [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
-- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
-- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
-- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
 <!-- BLOG-POST-LIST:END -->
 
