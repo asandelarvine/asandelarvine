@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode as a txtai LLM](https://dev.to/neuml/opencode-as-a-txtai-llm-2h0p)
-- [Why most ‘fast websites’ are still slow in production](https://dev.to/360presence/why-most-fast-websites-are-still-slow-in-production-35ng)
-- [Why Early Request Header Modification Matters in API Gateways](https://dev.to/uzukwu_michael_91a95b823b/why-early-request-header-modification-matters-in-api-gateways-4gle)
-- [In 2023, 52% of Python Devs Used Pytest. In 2026, 100% of AI Models Understand Doctests.](https://dev.to/pcfvw/in-2023-52-of-python-devs-used-pytest-in-2026-100-of-ai-models-understand-doctests-23m3)
+- [Day 2 - Learning Bug Bounty](https://dev.to/rudth/day-2-learning-bug-bounty-kpb)
+- [The Assumptions of Linear Regression: The GPS That Only Works on Straight, Flat Roads in Perfect Weather](https://dev.to/sachin_krrajput/the-assumptions-of-linear-regression-the-gps-that-only-works-on-straight-flat-roads-in-perfect-6bc)
+- [Semantic Tags in HTML](https://dev.to/hariharan_sj_584ad73ef2e/semantic-tags-in-html-276h)
+- [[BlindSpot] Log 02. C# Socket Optimization : Zero-Allocation &amp; GC Free](https://dev.to/ryujm1828/blindspot-log-02-c-socket-optimization-2mgb)
 <!-- BLOG-POST-LIST:END -->
 
