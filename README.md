@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
-- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
-- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
-- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
+- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
+- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
+- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
 <!-- BLOG-POST-LIST:END -->
 
