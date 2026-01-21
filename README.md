@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can we trust AI-generated code?](https://dev.to/dimitrisk_cyclopt/can-we-trust-ai-generated-code-122d)
-- [Dart Frog Part 3: Connecting Flutter to Your Dart Backend &lpar;Full-Stack Todo Demo&rpar; 🐸](https://dev.to/techwithsam/dart-frog-part-3-connecting-flutter-to-your-dart-backend-full-stack-todo-demo-4gdd)
-- [start using Ralph with npx ralph-scaffold](https://dev.to/rickvian/start-using-ralph-with-npx-ralph-scaffold-2167)
-- [Bloom Filters : Strictly NO, May be YES](https://dev.to/prado7/bloom-filters-strictly-no-may-be-yes-12j6)
+- [7 AI Tools Every Developer Needs in 2026 &lpar;With Code Examples&rpar;](https://dev.to/vasughanta09/7-ai-tools-every-developer-needs-in-2026-with-code-examples-4d8i)
+- [Setting up RHEL to boot with `/` &lpar;root&rpar; on an `mdadm` RAID device](https://dev.to/vast-cow/setting-up-rhel-to-boot-with-root-on-an-mdadm-raid-device-46c8)
+- [Building Custom UI Components from Scratch: Popover, Button, Inputs, Dropdowns, Tabs &amp; More](https://dev.to/sunny7899/building-custom-ui-components-from-scratch-popover-button-inputs-dropdowns-tabs-more-54hd)
+- [How to Maintain Test Automation as Systems Scale?](https://dev.to/sophielane/how-to-maintain-test-automation-as-systems-scale-3hbk)
 <!-- BLOG-POST-LIST:END -->
 
