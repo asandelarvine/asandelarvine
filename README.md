@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Alpha: How We Use Python to Scrape Fintech Sentiment in Brazil](https://dev.to/prestonmarwicke/coding-alpha-how-we-use-python-to-scrape-fintech-sentiment-in-brazil-10a)
-- [Guia de Estrutura de Dados: Implementando Filas de alta performance em JavaScript](https://dev.to/rohyer/guia-de-estrutura-de-dados-implementando-filas-de-alta-performance-em-javascript-1iib)
-- [How the Internet Gets to Your App: A Tour Through Networking Hardware](https://dev.to/dev_avi/how-the-internet-gets-to-your-app-a-tour-through-networking-hardware-12eg)
-- [How to Get a Route and Turn-by-Turn Directions with the Geoapify Routing API](https://dev.to/geoapify-maps-api/how-to-get-a-route-and-turn-by-turn-directions-with-the-geoapify-routing-api-2ofl)
+- [How sharp is your attention as a C++ programmer?](https://dev.to/pvsdev/how-sharp-is-your-attention-as-a-c-programmer-11pi)
+- [Event Delegation](https://dev.to/thiraisuvadu_dev/event-delegation-3cpa)
+- [Spring Boot Interview Question](https://dev.to/bhu_kalki/spring-boot-interview-question-1chb)
+- [Getting Started with Generative AI on AWS Using Amazon Bedrock](https://dev.to/saif_urrahman_762e98ccba/getting-started-with-generative-ai-on-aws-using-amazon-bedrock-48l5)
 <!-- BLOG-POST-LIST:END -->
 
