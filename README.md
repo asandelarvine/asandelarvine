@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Tools Every Developer Needs in 2026 &lpar;With Code Examples&rpar;](https://dev.to/vasughanta09/7-ai-tools-every-developer-needs-in-2026-with-code-examples-4d8i)
-- [Setting up RHEL to boot with `/` &lpar;root&rpar; on an `mdadm` RAID device](https://dev.to/vast-cow/setting-up-rhel-to-boot-with-root-on-an-mdadm-raid-device-46c8)
-- [Building Custom UI Components from Scratch: Popover, Button, Inputs, Dropdowns, Tabs &amp; More](https://dev.to/sunny7899/building-custom-ui-components-from-scratch-popover-button-inputs-dropdowns-tabs-more-54hd)
-- [How to Maintain Test Automation as Systems Scale?](https://dev.to/sophielane/how-to-maintain-test-automation-as-systems-scale-3hbk)
+- [Coding Alpha: How We Use Python to Scrape Fintech Sentiment in Brazil](https://dev.to/prestonmarwicke/coding-alpha-how-we-use-python-to-scrape-fintech-sentiment-in-brazil-10a)
+- [Guia de Estrutura de Dados: Implementando Filas de alta performance em JavaScript](https://dev.to/rohyer/guia-de-estrutura-de-dados-implementando-filas-de-alta-performance-em-javascript-1iib)
+- [How the Internet Gets to Your App: A Tour Through Networking Hardware](https://dev.to/dev_avi/how-the-internet-gets-to-your-app-a-tour-through-networking-hardware-12eg)
+- [How to Get a Route and Turn-by-Turn Directions with the Geoapify Routing API](https://dev.to/geoapify-maps-api/how-to-get-a-route-and-turn-by-turn-directions-with-the-geoapify-routing-api-2ofl)
 <!-- BLOG-POST-LIST:END -->
 
