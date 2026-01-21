@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Code: Communication Skills Every Software Engineer Needs](https://dev.to/thawkin3/beyond-code-communication-skills-every-software-engineer-needs-5714)
-- [Mastering Network Timeouts and Retries in Go: A Practical Guide for Dev.to](https://dev.to/jones_charles_ad50858dbc0/mastering-network-timeouts-and-retries-in-go-a-practical-guide-for-devto-jdf)
-- [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://dev.to/gde/smart-stowage-building-a-3d-cargo-digital-twin-with-gemini-3-4473)
-- [SectorCast AI – Multi-Sector Market Forecasting Using Machine Learning :](https://dev.to/rc18/sectorcast-ai-multi-sector-market-forecasting-using-machine-learningpublished-true-1mge)
+- [Can we trust AI-generated code?](https://dev.to/dimitrisk_cyclopt/can-we-trust-ai-generated-code-122d)
+- [Dart Frog Part 3: Connecting Flutter to Your Dart Backend &lpar;Full-Stack Todo Demo&rpar; 🐸](https://dev.to/techwithsam/dart-frog-part-3-connecting-flutter-to-your-dart-backend-full-stack-todo-demo-4gdd)
+- [start using Ralph with npx ralph-scaffold](https://dev.to/rickvian/start-using-ralph-with-npx-ralph-scaffold-2167)
+- [Bloom Filters : Strictly NO, May be YES](https://dev.to/prado7/bloom-filters-strictly-no-may-be-yes-12j6)
 <!-- BLOG-POST-LIST:END -->
 
