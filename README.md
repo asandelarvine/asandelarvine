@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passwordless access in minutes - Toqen.app integration demo](https://dev.to/antonmb/passwordless-access-in-minutes-toqenapp-integration-demo-e70)
-- [Toqen.app - Smart Authentication, Mindful by Design](https://dev.to/antonmb/toqenapp-smart-authentication-mindful-by-design-2kn8)
-- [How to Calculate Accurate Prayer Times Using JavaScript &lpar;Riyadh Case Study&rpar;](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
-- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
+- [The Epistemology of Offense and Defense: A Foundational Framework](https://dev.to/narnaiezzsshaa/the-epistemology-of-offense-and-defense-a-foundational-framework-em0)
+- [Don’t Lock Yourself Out: Enabling UFW on a Linux Server Without Breaking SSH](https://dev.to/marcoz/dont-lock-yourself-out-enabling-ufw-on-a-linux-server-without-breaking-ssh-2p7o)
+- [Four LLM Stress Tests](https://dev.to/ben-santora/four-llm-stress-tests-2pnh)
+- [Inteligencia Artificial: Conceptos básicos para aprender](https://dev.to/aws-builders/inteligencia-artificial-conceptos-basicos-para-aprender-55c0)
 <!-- BLOG-POST-LIST:END -->
 
