@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How sharp is your attention as a C++ programmer?](https://dev.to/pvsdev/how-sharp-is-your-attention-as-a-c-programmer-11pi)
-- [Event Delegation](https://dev.to/thiraisuvadu_dev/event-delegation-3cpa)
-- [Spring Boot Interview Question](https://dev.to/bhu_kalki/spring-boot-interview-question-1chb)
-- [Getting Started with Generative AI on AWS Using Amazon Bedrock](https://dev.to/saif_urrahman_762e98ccba/getting-started-with-generative-ai-on-aws-using-amazon-bedrock-48l5)
+- [Type I vs Type II Errors: The Fire Alarm That Cried Wolf vs The Fire Alarm That Slept Through Arson](https://dev.to/sachin_krrajput/type-i-vs-type-ii-errors-the-fire-alarm-that-cried-wolf-vs-the-fire-alarm-that-slept-through-arson-3oin)
+- [Your Next Role, Planned With Clarity](https://dev.to/vishdevwork/your-next-role-planned-with-clarity-2h6g)
+- [♟️ I built a Free API for Go &lpar;Baduk&rpar; Problems with 49k+ puzzles](https://dev.to/apisit_thananchai_f91d598/i-built-a-free-api-for-go-baduk-problems-with-49k-puzzles-47ep)
+- [PostgreSQL Dead Rows: The Ultimate Guide to MVCC, Database Bloat, Performance Degradation, and Long-Term Optimization](https://dev.to/nilebits/postgresql-dead-rows-the-ultimate-guide-to-mvcc-database-bloat-performance-degradation-and-38o0)
 <!-- BLOG-POST-LIST:END -->
 
