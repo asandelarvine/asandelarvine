@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Hardened Ubuntu 24.04 for Security Tools &lpar;And Broke Everything First&rpar;](https://dev.to/david_dev_sec/we-hardened-ubuntu-2404-for-security-tools-and-broke-everything-first-kf2)
-- [Auto-Scaling ComfyUI-API and ComfyUI: Orchestrating GPU Workloads with Azure Kubernetes Service and KEDA](https://dev.to/thangchung/auto-scaling-comfyui-api-and-comfyui-orchestrating-gpu-workloads-with-azure-kubernetes-service-and-2207)
-- [How to Break Any AI Model &lpar;A Machine Learning Security Crash Course&rpar;](https://dev.to/jgracie52/how-to-break-any-ai-model-a-machine-learning-security-crash-course-14gp)
-- [Introducing ZScript](https://dev.to/ziyaadsaqlain/introducing-zscript-2o09)
+- [2 - Arrumando a casa - separando componentes, instalando módulos](https://dev.to/danielmiclos/2-arrumando-a-casa-separando-componentes-instalando-modulos-1edn)
+- [AI Is Not the Pilot: Where Artificial Intelligence Actually Fits in UAVs](https://dev.to/asikarastallion/ai-is-not-the-pilot-where-artificial-intelligence-actually-fits-in-uavs-36pf)
+- [The Best Way to Use Teenage Engineering Manuals](https://dev.to/ivandotcodes/he-best-way-to-use-teenage-engineering-manuals-4n96)
+- [would appreciate some career guidance](https://dev.to/binarysearchtree/would-appreciate-some-career-guidance-4lh7)
 <!-- BLOG-POST-LIST:END -->
 
