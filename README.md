@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
-- [Contenido vs Interactividad: Como elegir tu siguiente Framework Web](https://dev.to/jusepemu/contenido-vs-interactividad-como-elegir-tu-siguiente-framework-web-211d)
-- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
-- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [KMP WorkManager: Enterprise-Grade Background Tasks for Kotlin Multiplatform](https://dev.to/brewkits/kmp-workmanager-enterprise-grade-background-tasks-for-kotlin-multiplatform-3cl2)
+- [Stop Managing Disks: Why Your Block Storage Strategy is Stuck in 2014](https://dev.to/iseecodepeople/stop-managing-disks-why-your-block-storage-strategy-is-stuck-in-2014-23n1)
+- [From &quot;Losing at T=16&quot; to &quot;Matching mimalloc&quot;: A Day with hz3 Lane16](https://dev.to/charmpic/from-losing-at-t16-to-matching-mimalloc-a-day-with-hz3-lane16-4np8)
+- [Preservando la integridad de los datos](https://dev.to/mmonzon/preservando-la-integridad-de-los-datos-1d2f)
 <!-- BLOG-POST-LIST:END -->
 
