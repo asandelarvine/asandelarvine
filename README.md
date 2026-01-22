@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Document Workflows Without Slowing Teams Down](https://dev.to/eloisame/building-secure-document-workflows-without-slowing-teams-down-2nfg)
-- [Understanding HTML Structure](https://dev.to/chandra_ramu_6ec0a1c1eb59/understanding-html-structure-4570)
-- [[BOJ/C++] 단계별로 풀어보기 - 집합과 맵](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jibhabgwa-maeb-225)
-- [Logistic Regression: The Bouncer Who Gives Probability of Entry Instead of Just Yes/No](https://dev.to/sachin_krrajput/logistic-regression-the-bouncer-who-gives-probability-of-entry-instead-of-just-yesno-4heb)
+- [Day 5 : Is Your Model Actually Good? - Evaluation Metrics](https://dev.to/brains_behind_bots/day-5-is-your-model-actually-good-evaluation-metrics-1bm7)
+- [How I Use Claude Code to Ship Better Code Faster](https://dev.to/jdizm/how-i-use-claude-code-to-ship-better-code-faster-6jb)
+- [How to Add GitHub OAuth Login in Node.js &lpar;step by step&rpar;](https://dev.to/jahongir2007/how-to-add-github-oauth-login-in-nodejs-step-by-step-2h9l)
+- [Ethereum 2026 Self-Sovereignty, Polygon Acquires Coinme and Sequence, Vitalik Publishes New AA Reference, EOA-to-AA Bridges](https://dev.to/etherspot/ethereum-2026-self-sovereignty-polygon-acquires-coinme-and-sequence-vitalik-publishes-new-aa-fh5)
 <!-- BLOG-POST-LIST:END -->
 
