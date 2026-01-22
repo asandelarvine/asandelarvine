@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building WSL-UI: The Polish Phase and Privacy-First Analytics](https://dev.to/octasoft-ltd/building-wsl-ui-the-polish-phase-and-privacy-first-analytics-31a2)
-- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
-- [Frontend – Temporal, APIs, and DateTimePickers That Don&#39;t Lie](https://dev.to/bwi/frontend-temporal-apis-and-datetimepickers-that-dont-lie-6dn)
-- [Rick Beato: The Secret History of the 90&#39;s Greatest Ballad](https://dev.to/music_youtube/rick-beato-the-secret-history-of-the-90s-greatest-ballad-k8p)
+- [Fully Autonomous Agentic Weather Reporting System](https://dev.to/aidanliang89/fully-autonomous-agentic-weather-reporting-system-f89)
+- [Automating Security Updates for Prometheus LTS: My First CNCF Contribution](https://dev.to/eunini/automating-security-updates-for-prometheus-lts-my-first-cncf-contribution-gh7)
+- [How I Built a Multilingual Food Database Using a Local LLM on an AMD GPU](https://dev.to/hakimmohamed/how-i-built-a-multilingual-food-database-using-a-local-llm-on-an-amd-gpu-1f0k)
+- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
 <!-- BLOG-POST-LIST:END -->
 
