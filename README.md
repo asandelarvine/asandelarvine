@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Computed Values Really Work: Lazy Evaluation in a Reactive Graph](https://dev.to/luciano0322/how-computed-values-really-work-lazy-evaluation-in-a-reactive-graph-2mjp)
-- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
-- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
-- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
+- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
+- [Describe Methods To Evaluate Foundation Model Performance](https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb)
+- [AI Is No Longer a Tool, It’s an Architectural Layer!](https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2)
+- [Understanding JSX &amp; How a React App Starts &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p)
 <!-- BLOG-POST-LIST:END -->
 
