@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Persistent Storage with State Deltas](https://dev.to/galadd/optimizing-persistent-storage-with-state-deltas-4emp)
-- [Best TypeScript Backend Frameworks in 2026](https://dev.to/andout/best-typescript-backend-frameworks-in-2026-2omd)
-- [How Verification vs Validation Fit Into CI/CD Pipelines?](https://dev.to/sophielane/how-verification-vs-validation-fit-into-cicd-pipelines-424i)
-- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
+- [Amazon’s new European Sovereign Cloud - a strategic response to US Law and EU Data Privacy](https://dev.to/aws-builders/amazons-new-european-sovereign-cloud-a-strategic-response-to-us-law-and-eu-data-privacy-ed3)
+- [Modern Systems Don’t Fix Missing History](https://dev.to/fadydesokysaeedabdelaziz/modern-systems-dont-fix-missing-history-4pg5)
+- [Efficient Client-Side Image Preprocessing for AI Wrappers](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-image-preprocessing-for-ai-wrappers-3ebb)
+- [Why AI Models Fail in Production — Even When Accuracy Looks High](https://dev.to/naanhe_gujral_c001233100f/why-ai-models-fail-in-production-even-when-accuracy-looks-high-ggi)
 <!-- BLOG-POST-LIST:END -->
 
