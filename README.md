@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Writing CSS from Scratch &lpar;And Started Using Webflow + JavaScript&rpar;](https://dev.to/journeyhorizon/why-i-stopped-writing-css-from-scratch-and-started-using-webflow-javascript-3aai)
-- [Install Claude Code on Windows with scoop](https://dev.to/0xkoji/install-claude-code-on-windows-with-scoop-2452)
-- [Your Interview Process is a Museum, and Linus Torvalds Just Left the Building](https://dev.to/ryo_suwito/your-interview-process-is-a-museum-and-linus-torvalds-just-left-the-building-5bm9)
-- [API Authentication Best Practices in 2026](https://dev.to/apiverve/api-authentication-best-practices-in-2026-3k4a)
+- [How Computed Values Really Work: Lazy Evaluation in a Reactive Graph](https://dev.to/luciano0322/how-computed-values-really-work-lazy-evaluation-in-a-reactive-graph-2mjp)
+- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
+- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
+- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
 <!-- BLOG-POST-LIST:END -->
 
