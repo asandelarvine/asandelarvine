@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
-- [Understanding Kube-proxy &amp; CoreDNS in Kubernetes no bluff](https://dev.to/blackzu/understanding-kube-proxy-coredns-in-kubernetes-no-bluff-23bc)
-- [Releem 2025 Recap: Building a Database Advisor for Developer Teams](https://dev.to/drupaladmin/releem-2025-recap-building-a-database-advisor-for-developer-teams-5fi1)
-- [How to Write Bug Reports Developers Can Actually Reproduce 🐛](https://dev.to/crosscheckcloud/how-to-write-bug-reports-developers-can-actually-reproduce-e4m)
+- [The Cost of Not Knowing MongoDB - Part 1: appV0 to appV4](https://dev.to/arturgc/the-cost-of-not-knowing-mongodb-part-1-appv0-to-appv4-23ff)
+- [Building a Production-Ready ECS Pipeline: What I Learned Splitting Infrastructure into Layer](https://dev.to/elsadevops/building-a-production-ready-ecs-pipeline-what-i-learned-splitting-infrastructure-into-layer-514)
+- [How to Add Video to Your Astro Site with ImageKit](https://dev.to/ukmadlz/how-to-add-video-to-your-astro-site-with-imagekit-1p3m)
+- [Flutter Flavors en producción: Guía completa para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-en-produccion-guia-completa-para-proyectos-multicliente-en-android-e-ios-jfh)
 <!-- BLOG-POST-LIST:END -->
 
