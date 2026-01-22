@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
-- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
-- [MCP Development with COBOL, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-cobol-cloud-run-and-gemini-cli-3j6l)
+- [Building WSL-UI: The Polish Phase and Privacy-First Analytics](https://dev.to/octasoft-ltd/building-wsl-ui-the-polish-phase-and-privacy-first-analytics-31a2)
+- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
+- [Frontend – Temporal, APIs, and DateTimePickers That Don&#39;t Lie](https://dev.to/bwi/frontend-temporal-apis-and-datetimepickers-that-dont-lie-6dn)
+- [Rick Beato: The Secret History of the 90&#39;s Greatest Ballad](https://dev.to/music_youtube/rick-beato-the-secret-history-of-the-90s-greatest-ballad-k8p)
 <!-- BLOG-POST-LIST:END -->
 
