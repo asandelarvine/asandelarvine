@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
-- [Describe Methods To Evaluate Foundation Model Performance](https://dev.to/aws-builders/describe-methods-to-evaluate-foundation-model-performance-1chb)
-- [AI Is No Longer a Tool, It’s an Architectural Layer!](https://dev.to/joshinii/ai-is-no-longer-a-tool-its-an-architectural-layer-7g2)
-- [Understanding JSX &amp; How a React App Starts &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/jamir_khan_81139708882eb8/understanding-jsx-how-a-react-app-starts-beginner-friendly-guide-107p)
+- [Building DeepCleaner: An Open Source Windows Cleanup Utility That Actually Respects Your System](https://dev.to/isubroto/building-deepcleaner-an-open-source-windows-cleanup-utility-that-actually-respects-your-system-4bhn)
+- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
+- [The Real Problems With LiteLLM &lpar;And What Actually Works Better&rpar;](https://dev.to/debmckinney/the-real-problems-with-litellm-and-what-actually-works-better-227k)
+- [The Day I Chose VARCHAR&lpar;255&rpar; and Regretted It: A PostgreSQL String Story](https://dev.to/igornosatov_15/the-day-i-chose-varchar255-and-regretted-it-a-postgresql-string-story-29l5)
 <!-- BLOG-POST-LIST:END -->
 
