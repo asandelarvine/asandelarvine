@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building DeepCleaner: An Open Source Windows Cleanup Utility That Actually Respects Your System](https://dev.to/isubroto/building-deepcleaner-an-open-source-windows-cleanup-utility-that-actually-respects-your-system-4bhn)
-- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
-- [The Real Problems With LiteLLM &lpar;And What Actually Works Better&rpar;](https://dev.to/debmckinney/the-real-problems-with-litellm-and-what-actually-works-better-227k)
-- [The Day I Chose VARCHAR&lpar;255&rpar; and Regretted It: A PostgreSQL String Story](https://dev.to/igornosatov_15/the-day-i-chose-varchar255-and-regretted-it-a-postgresql-string-story-29l5)
+- [Building Secure Document Workflows Without Slowing Teams Down](https://dev.to/eloisame/building-secure-document-workflows-without-slowing-teams-down-2nfg)
+- [Understanding HTML Structure](https://dev.to/chandra_ramu_6ec0a1c1eb59/understanding-html-structure-4570)
+- [[BOJ/C++] 단계별로 풀어보기 - 집합과 맵](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jibhabgwa-maeb-225)
+- [Logistic Regression: The Bouncer Who Gives Probability of Entry Instead of Just Yes/No](https://dev.to/sachin_krrajput/logistic-regression-the-bouncer-who-gives-probability-of-entry-instead-of-just-yesno-4heb)
 <!-- BLOG-POST-LIST:END -->
 
