@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/hiral/inside-git-how-it-works-and-the-role-of-the-git-folder-5748)
-- [7 Key AI Sales Trends to Watch in 2026](https://dev.to/chrispatterson/7-key-ai-sales-trends-to-watch-in-2026-77l)
-- [Ringer Movies: The 2026 Oscar Nominations: Snubs, Surprises, and WTFs](https://dev.to/popcorn_movies/ringer-movies-the-2026-oscar-nominations-snubs-surprises-and-wtfs-41hh)
-- [Stop Using Frameworks Blindly: Build Your Own Python Web Server from Scratch](https://dev.to/programmingcentral/stop-using-frameworks-blindly-build-your-own-python-web-server-from-scratch-52b0)
+- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
+- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
+- [MCP Development with COBOL, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-cobol-cloud-run-and-gemini-cli-3j6l)
 <!-- BLOG-POST-LIST:END -->
 
