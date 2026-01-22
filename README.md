@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The GreenEyes.AI Vision Stack: A Hybrid Pipeline for Object Labeling and Feature-Based Recognition](https://dev.to/rpi1337/the-greeneyesai-vision-stack-a-hybrid-pipeline-for-object-labeling-and-feature-based-recognition-39j5)
-- [Complete Layered Architecture Guide](https://dev.to/mrakdon/complete-layered-architecture-guide-1jmd)
-- [Identity Management in Fintech: Why It Matters](https://dev.to/blnkfinance/identity-management-in-fintech-why-it-matters-59e3)
-- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
+- [Optimizing Persistent Storage with State Deltas](https://dev.to/galadd/optimizing-persistent-storage-with-state-deltas-4emp)
+- [Best TypeScript Backend Frameworks in 2026](https://dev.to/andout/best-typescript-backend-frameworks-in-2026-2omd)
+- [How Verification vs Validation Fit Into CI/CD Pipelines?](https://dev.to/sophielane/how-verification-vs-validation-fit-into-cicd-pipelines-424i)
+- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
 <!-- BLOG-POST-LIST:END -->
 
