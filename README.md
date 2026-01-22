@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I had knee pain for months cycling. So I built a free &lpar;AI&rpar; bike fitting tool](https://dev.to/elouan_/i-had-knee-pain-for-months-cycling-so-i-built-a-free-ai-bike-fitting-tool-586h)
-- [Stop Being a Script Kiddie: building a Port Scanner with Python 🐍](https://dev.to/sh4lu_z/stop-being-a-script-kiddie-building-a-port-scanner-with-python-31la)
-- [How to Build Escrow Payments for Online Marketplaces](https://dev.to/blnkfinance/how-to-build-escrow-payments-for-online-marketplaces-5eik)
-- [I built a simple WordPress plugin to boost conversions with video &lpar;and it works&rpar;](https://dev.to/brendondev/i-built-a-simple-wordpress-plugin-to-boost-conversions-with-video-and-it-works-33h9)
+- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
+- [Understanding Kube-proxy &amp; CoreDNS in Kubernetes no bluff](https://dev.to/blackzu/understanding-kube-proxy-coredns-in-kubernetes-no-bluff-23bc)
+- [Releem 2025 Recap: Building a Database Advisor for Developer Teams](https://dev.to/drupaladmin/releem-2025-recap-building-a-database-advisor-for-developer-teams-5fi1)
+- [How to Write Bug Reports Developers Can Actually Reproduce 🐛](https://dev.to/crosscheckcloud/how-to-write-bug-reports-developers-can-actually-reproduce-e4m)
 <!-- BLOG-POST-LIST:END -->
 
