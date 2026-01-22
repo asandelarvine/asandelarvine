@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KMP WorkManager: Enterprise-Grade Background Tasks for Kotlin Multiplatform](https://dev.to/brewkits/kmp-workmanager-enterprise-grade-background-tasks-for-kotlin-multiplatform-3cl2)
-- [Stop Managing Disks: Why Your Block Storage Strategy is Stuck in 2014](https://dev.to/iseecodepeople/stop-managing-disks-why-your-block-storage-strategy-is-stuck-in-2014-23n1)
-- [From &quot;Losing at T=16&quot; to &quot;Matching mimalloc&quot;: A Day with hz3 Lane16](https://dev.to/charmpic/from-losing-at-t16-to-matching-mimalloc-a-day-with-hz3-lane16-4np8)
-- [Preservando la integridad de los datos](https://dev.to/mmonzon/preservando-la-integridad-de-los-datos-1d2f)
+- [Why I Stopped Writing CSS from Scratch &lpar;And Started Using Webflow + JavaScript&rpar;](https://dev.to/journeyhorizon/why-i-stopped-writing-css-from-scratch-and-started-using-webflow-javascript-3aai)
+- [Install Claude Code on Windows with scoop](https://dev.to/0xkoji/install-claude-code-on-windows-with-scoop-2452)
+- [Your Interview Process is a Museum, and Linus Torvalds Just Left the Building](https://dev.to/ryo_suwito/your-interview-process-is-a-museum-and-linus-torvalds-just-left-the-building-5bm9)
+- [API Authentication Best Practices in 2026](https://dev.to/apiverve/api-authentication-best-practices-in-2026-3k4a)
 <!-- BLOG-POST-LIST:END -->
 
