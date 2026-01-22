@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s new European Sovereign Cloud - a strategic response to US Law and EU Data Privacy](https://dev.to/aws-builders/amazons-new-european-sovereign-cloud-a-strategic-response-to-us-law-and-eu-data-privacy-ed3)
-- [Modern Systems Don’t Fix Missing History](https://dev.to/fadydesokysaeedabdelaziz/modern-systems-dont-fix-missing-history-4pg5)
-- [Efficient Client-Side Image Preprocessing for AI Wrappers](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-image-preprocessing-for-ai-wrappers-3ebb)
-- [Why AI Models Fail in Production — Even When Accuracy Looks High](https://dev.to/naanhe_gujral_c001233100f/why-ai-models-fail-in-production-even-when-accuracy-looks-high-ggi)
+- [I had knee pain for months cycling. So I built a free &lpar;AI&rpar; bike fitting tool](https://dev.to/elouan_/i-had-knee-pain-for-months-cycling-so-i-built-a-free-ai-bike-fitting-tool-586h)
+- [Stop Being a Script Kiddie: building a Port Scanner with Python 🐍](https://dev.to/sh4lu_z/stop-being-a-script-kiddie-building-a-port-scanner-with-python-31la)
+- [How to Build Escrow Payments for Online Marketplaces](https://dev.to/blnkfinance/how-to-build-escrow-payments-for-online-marketplaces-5eik)
+- [I built a simple WordPress plugin to boost conversions with video &lpar;and it works&rpar;](https://dev.to/brendondev/i-built-a-simple-wordpress-plugin-to-boost-conversions-with-video-and-it-works-33h9)
 <!-- BLOG-POST-LIST:END -->
 
