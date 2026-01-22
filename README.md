@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Not Knowing MongoDB - Part 1: appV0 to appV4](https://dev.to/arturgc/the-cost-of-not-knowing-mongodb-part-1-appv0-to-appv4-23ff)
-- [Building a Production-Ready ECS Pipeline: What I Learned Splitting Infrastructure into Layer](https://dev.to/elsadevops/building-a-production-ready-ecs-pipeline-what-i-learned-splitting-infrastructure-into-layer-514)
-- [How to Add Video to Your Astro Site with ImageKit](https://dev.to/ukmadlz/how-to-add-video-to-your-astro-site-with-imagekit-1p3m)
-- [Flutter Flavors en producción: Guía completa para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/flutter-flavors-en-produccion-guia-completa-para-proyectos-multicliente-en-android-e-ios-jfh)
+- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
+- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
+- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
+- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
 <!-- BLOG-POST-LIST:END -->
 
