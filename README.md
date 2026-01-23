@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Remote Companies the Hard Way](https://dev.to/techstratos/building-remote-companies-the-hard-way-5of)
-- [🚀 Starting My DevOps Journey as a Fresher &lpar;Learning in Public&rpar;](https://dev.to/yusuf01asif/starting-my-devops-journey-as-a-fresher-learning-in-public-3nh2)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/mohammad1105/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-5gg7)
-- [Smart Meal Prep for Tech Professionals: Apps, Gadgets, and Systems That Actually Work](https://dev.to/narayanabk24/smart-meal-prep-for-tech-professionals-apps-gadgets-and-systems-that-actually-work-2h0p)
+- [Building Tamper-Evident Audit Trails for Trading Systems: A Complete VCP v1.1 Implementation Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-trading-systems-a-complete-vcp-v11-implementation-guide-1ohd)
+- [Build Discord-Style Chat App &lpar;No Backend!&rpar; - Socket.IO Simulation + Debug Panel &lpar;2026&rpar;](https://dev.to/vasughanta09/build-discord-style-chat-app-no-backend-socketio-simulation-debug-panel-2026-4imn)
+- [AuthFlow Integration Assistant](https://dev.to/violinkhuba/algolia-authflow-integration-assistant-2fi9)
+- [AI 코딩 에이전트용 스킬 마켓플레이스 &lpar;몰랐으면 손해&rpar;](https://dev.to/kiwibreaksme/ai-koding-eijeonteuyong-seukil-makespeulreiseu-molrasseumyeon-sonhae-p2m)
 <!-- BLOG-POST-LIST:END -->
 
