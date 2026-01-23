@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI DevOps Debugger — Turning Production Logs into Actionable Insights with Copilot CLI](https://dev.to/darshanraval/ai-devops-debugger-turning-production-logs-into-actionable-insights-with-copilot-cli-1hlb)
-- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
-- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
-- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
+- [I Stopped Building Features, All at Once”](https://dev.to/sajithpj/i-stopped-building-features-all-at-once-333l)
+- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
+- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
+- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
 <!-- BLOG-POST-LIST:END -->
 
