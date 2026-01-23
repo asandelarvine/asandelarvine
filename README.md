@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PgBench on MongoDB via Foreign Data Wrapper](https://dev.to/franckpachot/pgbench-on-mongodb-via-foreign-data-wrapper-i5j)
-- [Implementación de Remote Config Modular &lpar;v23.x.x&rpar;](https://dev.to/foodiehoodie/implementacion-de-remote-config-modular-v23xx-4lo6)
-- [Kubernetes](https://dev.to/_898301e197bdb531b6bd0/kubernetes-4e1)
-- [Build Live search Input with API fetching &amp; cancelling using JavaScript](https://dev.to/pckalyan/building-a-search-input-with-api-request-cancellation-using-javascript-51g4)
+- [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
+- [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
+- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
+- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
 <!-- BLOG-POST-LIST:END -->
 
