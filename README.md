@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Tamper-Evident Audit Trails for Trading Systems: A Complete VCP v1.1 Implementation Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-trading-systems-a-complete-vcp-v11-implementation-guide-1ohd)
-- [Build Discord-Style Chat App &lpar;No Backend!&rpar; - Socket.IO Simulation + Debug Panel &lpar;2026&rpar;](https://dev.to/vasughanta09/build-discord-style-chat-app-no-backend-socketio-simulation-debug-panel-2026-4imn)
-- [AuthFlow Integration Assistant](https://dev.to/violinkhuba/algolia-authflow-integration-assistant-2fi9)
-- [AI 코딩 에이전트용 스킬 마켓플레이스 &lpar;몰랐으면 손해&rpar;](https://dev.to/kiwibreaksme/ai-koding-eijeonteuyong-seukil-makespeulreiseu-molrasseumyeon-sonhae-p2m)
+- [Implement Garmin Connect OAuth2 Authentication in React Native with Expo](https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55)
+- [How to Develop Fintech App with Laravel: A Step-by-Step Guide](https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke)
+- [What is DOM and virtual DOM with example?](https://dev.to/dash_suvankarr_/what-is-dom-and-virtual-dom-with-example-4ddi)
+- [The HIDDEN Gem in the Google AI Challenge💎](https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh)
 <!-- BLOG-POST-LIST:END -->
 
