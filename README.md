@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
-- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
-- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
-- [Poetry and coding](https://dev.to/ivy_imoh_d8b40fce225d63ab/poetry-and-coding-12f6)
+- [Integrating Claude AI Into Your WordPress Plugins](https://dev.to/el_condorito_54d80b88eb90/integrating-claude-ai-into-your-wordpress-plugins-4omk)
+- [secure calculator vault](https://dev.to/patel_4ad1dbb5f279fff28b3/secure-calculator-vault-251)
+- [I Built a Receipt Scanner to Stop Losing Money on Expenses](https://dev.to/naman_gupta_4b554ece35bb2/i-built-a-receipt-scanner-to-stop-losing-money-on-expenses-ngh)
+- [Best DNS for Gaming in 2026](https://dev.to/lightningdev123/best-dns-for-gaming-in-2026-4kph)
 <!-- BLOG-POST-LIST:END -->
 
