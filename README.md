@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Origin of GitOps — What Was Formalized and Why It Matters](https://dev.to/jumptotech/origin-of-gitops-what-was-formalized-and-why-it-matters-57gn)
-- [Why “If I Can, I’d Like to Do It” Quietly Turns into “I Have to Do It”](https://dev.to/koshirok096/why-if-i-can-id-like-to-do-it-quietly-turns-into-i-have-to-do-it-5bke)
-- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
-- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
+- [🤖 AI DevOps Debugger — Turning Production Logs into Actionable Insights with Copilot CLI](https://dev.to/darshanraval/ai-devops-debugger-turning-production-logs-into-actionable-insights-with-copilot-cli-1hlb)
+- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
+- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
+- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
 <!-- BLOG-POST-LIST:END -->
 
