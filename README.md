@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Relying on Code Review Alone Is a Recipe for Burnout](https://dev.to/jszutkowski/why-relying-on-code-review-alone-is-a-recipe-for-burnout-3bf7)
-- [China&#39;s AI Boom Explained.](https://dev.to/sanyog_thakur_5b94f2b7d2d/chinas-ai-boom-explained-27li)
-- [Make E2E tests faster](https://dev.to/spo0q/make-e2e-tests-faster-4k9p)
-- [Implementing &quot;Refusal-First&quot; RAG: Why We Architected Our AI to Say &#39;I Don&#39;t Know&#39;](https://dev.to/flamehaven01/implementing-refusal-first-rag-why-we-architected-our-ai-to-say-i-dont-know-4h10)
+- [Introduction to MS Excel for data analytics](https://dev.to/murimikelvin/introduction-to-ms-excel-for-data-analytics-2n1f)
+- [Building a Client-Side PDF Compressor using JavaScript and Web Workers](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-client-side-pdf-compressor-using-javascript-and-web-workers-4dmm)
+- [How I Built an End-to-End Encrypted File Sharing App with Flask and ChaCha20 in 30 Days](https://dev.to/aayushbankar/how-i-built-an-end-to-end-encrypted-file-sharing-app-with-flask-and-chacha20-in-30-days-9k8)
+- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
 <!-- BLOG-POST-LIST:END -->
 
