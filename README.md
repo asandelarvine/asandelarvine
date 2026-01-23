@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Building Features, All at Once”](https://dev.to/sajithpj/i-stopped-building-features-all-at-once-333l)
-- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
-- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
-- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
+- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
+- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
+- [The Definitive Guide to JS Spreadsheets with Jspreadsheet Pro](https://dev.to/hodeware/the-definitive-guide-to-js-spreadsheets-with-jspreadsheet-pro-26c1)
+- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
 <!-- BLOG-POST-LIST:END -->
 
