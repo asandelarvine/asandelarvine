@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why digital signatures break on structured healthcare data](https://dev.to/vincentxplore/why-digital-signatures-break-on-structured-healthcare-data-4if9)
-- [I Don&#39;t Write Code Anymore. My Income Tripled. Here&#39;s the System Behind It.](https://dev.to/okoloboga/i-dont-write-code-anymore-my-income-tripled-heres-the-system-behind-it-bkh)
-- [Stop Drowning in Context Switching: Why I Built an AI That &quot;Talks&quot; to My Jira, Codebase, and Docs](https://dev.to/sujit_kumar_bindhani/stop-drowning-in-context-switching-why-i-built-an-ai-that-talks-to-my-jira-codebase-and-docs-2nk)
-- [How I Stopped Fighting Text-in-Image and Started Shipping Designs](https://dev.to/kaushik_pandav_aiml/how-i-stopped-fighting-text-in-image-and-started-shipping-designs-2ao9)
+- [Building APIs with Flask: What They Are and What They’re Used For](https://dev.to/jasec7/building-apis-with-flask-what-they-are-and-what-theyre-used-for-1lm3)
+- [Find Product Variants](https://dev.to/mms-tech/find-product-variants-5043)
+- [AWS Disk Full? Why Deleting Logs Might Kill Your Database &lpar;And How to Fix It&rpar;](https://dev.to/abby3103/aws-disk-full-why-deleting-logs-might-kill-your-database-and-how-to-fix-it-4aid)
+- [How I Learned to Audit AI Instead of Accept It](https://dev.to/jamespatterson25/how-i-learned-to-audit-ai-instead-of-accept-it-1ap5)
 <!-- BLOG-POST-LIST:END -->
 
