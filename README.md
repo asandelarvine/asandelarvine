@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fully Autonomous Agentic Weather Reporting System](https://dev.to/aidanliang89/fully-autonomous-agentic-weather-reporting-system-f89)
-- [Automating Security Updates for Prometheus LTS: My First CNCF Contribution](https://dev.to/eunini/automating-security-updates-for-prometheus-lts-my-first-cncf-contribution-gh7)
-- [How I Built a Multilingual Food Database Using a Local LLM on an AMD GPU](https://dev.to/hakimmohamed/how-i-built-a-multilingual-food-database-using-a-local-llm-on-an-amd-gpu-1f0k)
-- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
+- [Building an Amazon Advertising ROI Optimization System with Python](https://dev.to/loopsthings/building-an-amazon-advertising-roi-optimization-system-with-python-157a)
+- [Princípios SOLID](https://dev.to/yuripeixinho/principios-solid-3ahm)
+- [🧼 Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array II&#39; - LeetCode 3510 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-ii-leetcode-3510-c-python-57e2)
+- [Using closures to measure call stack depth in Go](https://dev.to/lucassha/using-closures-to-measure-call-stack-depth-in-go-22c3)
 <!-- BLOG-POST-LIST:END -->
 
