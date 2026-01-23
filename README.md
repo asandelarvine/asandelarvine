@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
-- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
-- [The Definitive Guide to JS Spreadsheets with Jspreadsheet Pro](https://dev.to/hodeware/the-definitive-guide-to-js-spreadsheets-with-jspreadsheet-pro-26c1)
-- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
+- [dokumentasi](https://dev.to/hudaipi_wardani_1f6177e55/dokumentasi-1m82)
+- [Angular Forms in 2026 — Reactive vs Template‑Driven, Validation, Testing, and the Signal Era](https://dev.to/cristiansifuentes/angular-forms-in-2026-reactive-vs-template-driven-validation-testing-and-the-signal-era-3oo6)
+- [The Mental Model That Made AWS Networking Finally Click](https://dev.to/emanuelegurini/the-mental-model-that-made-aws-networking-finally-click-1fc9)
+- [Building Maintainable AI Pipelines with the Task Context Observer Pattern](https://dev.to/matthew_hou_e8ab76d6be07b/building-maintainable-ai-pipelines-with-the-task-context-observer-pattern-1e26)
 <!-- BLOG-POST-LIST:END -->
 
