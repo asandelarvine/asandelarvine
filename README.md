@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement Garmin Connect OAuth2 Authentication in React Native with Expo](https://dev.to/alexanderhodes/implement-garmin-connect-oauth2-authentication-in-react-native-with-expo-1j55)
-- [How to Develop Fintech App with Laravel: A Step-by-Step Guide](https://dev.to/dhruvil_joshi14/how-to-develop-fintech-app-with-laravel-a-step-by-step-guide-45ke)
-- [What is DOM and virtual DOM with example?](https://dev.to/dash_suvankarr_/what-is-dom-and-virtual-dom-with-example-4ddi)
-- [The HIDDEN Gem in the Google AI Challenge💎](https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh)
+- [How Rule Engines Transform Business Agility and Code Simplicity](https://dev.to/capestart/how-rule-engines-transform-business-agility-and-code-simplicity-54gk)
+- [Konečne CZ/SK Linux komunita bez elitárstva a „RTFM“ – Pridaj sa na Revolt a Matrix!](https://dev.to/jakub-bites/konecne-czsk-linux-komunita-bez-elitarstva-a-rtfm-pridaj-sa-na-revolt-a-matrix-kga)
+- [Explain The Development Of AI Systems That Are Responsible](https://dev.to/aws-builders/explain-the-development-of-ai-systems-that-are-responsible-2ggl)
+- [Cargo Package Manager Deep Dive](https://dev.to/godofgeeks/cargo-package-manager-deep-dive-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
