@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions to VPS: Zero-Trust with Tailscale](https://dev.to/rihdusr/github-actions-to-vps-zero-trust-with-tailscale-2omf)
-- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
-- [The Right Way to Deploy Private GitHub Repos to Your VPS](https://dev.to/marcoz/the-right-way-to-deploy-private-github-repos-to-your-vps-3725)
-- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
+- [Origin of GitOps — What Was Formalized and Why It Matters](https://dev.to/jumptotech/origin-of-gitops-what-was-formalized-and-why-it-matters-57gn)
+- [Why “If I Can, I’d Like to Do It” Quietly Turns into “I Have to Do It”](https://dev.to/koshirok096/why-if-i-can-id-like-to-do-it-quietly-turns-into-i-have-to-do-it-5bke)
+- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
+- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
 <!-- BLOG-POST-LIST:END -->
 
