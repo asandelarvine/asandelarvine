@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MS Excel for data analytics](https://dev.to/murimikelvin/introduction-to-ms-excel-for-data-analytics-2n1f)
-- [Building a Client-Side PDF Compressor using JavaScript and Web Workers](https://dev.to/ahmad_shakibnasaj_a8f9bb/building-a-client-side-pdf-compressor-using-javascript-and-web-workers-4dmm)
-- [How I Built an End-to-End Encrypted File Sharing App with Flask and ChaCha20 in 30 Days](https://dev.to/aayushbankar/how-i-built-an-end-to-end-encrypted-file-sharing-app-with-flask-and-chacha20-in-30-days-9k8)
-- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
+- [GitHub Actions to VPS: Zero-Trust with Tailscale](https://dev.to/rihdusr/github-actions-to-vps-zero-trust-with-tailscale-2omf)
+- [Claude Code + Chrome: Fix the Bug AND Verify It Works — In One Prompt](https://dev.to/rajeshroyal/claude-code-chrome-fix-the-bug-and-verify-it-works-in-one-prompt-25mi)
+- [The Right Way to Deploy Private GitHub Repos to Your VPS](https://dev.to/marcoz/the-right-way-to-deploy-private-github-repos-to-your-vps-3725)
+- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
 <!-- BLOG-POST-LIST:END -->
 
