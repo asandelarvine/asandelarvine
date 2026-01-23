@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Amazon Advertising ROI Optimization System with Python](https://dev.to/loopsthings/building-an-amazon-advertising-roi-optimization-system-with-python-157a)
-- [Princípios SOLID](https://dev.to/yuripeixinho/principios-solid-3ahm)
-- [🧼 Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array II&#39; - LeetCode 3510 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-ii-leetcode-3510-c-python-57e2)
-- [Using closures to measure call stack depth in Go](https://dev.to/lucassha/using-closures-to-measure-call-stack-depth-in-go-22c3)
+- [Building Remote Companies the Hard Way](https://dev.to/techstratos/building-remote-companies-the-hard-way-5of)
+- [🚀 Starting My DevOps Journey as a Fresher &lpar;Learning in Public&rpar;](https://dev.to/yusuf01asif/starting-my-devops-journey-as-a-fresher-learning-in-public-3nh2)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/mohammad1105/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-5gg7)
+- [Smart Meal Prep for Tech Professionals: Apps, Gadgets, and Systems That Actually Work](https://dev.to/narayanabk24/smart-meal-prep-for-tech-professionals-apps-gadgets-and-systems-that-actually-work-2h0p)
 <!-- BLOG-POST-LIST:END -->
 
