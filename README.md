@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building APIs with Flask: What They Are and What They’re Used For](https://dev.to/jasec7/building-apis-with-flask-what-they-are-and-what-theyre-used-for-1lm3)
-- [Find Product Variants](https://dev.to/mms-tech/find-product-variants-5043)
-- [AWS Disk Full? Why Deleting Logs Might Kill Your Database &lpar;And How to Fix It&rpar;](https://dev.to/abby3103/aws-disk-full-why-deleting-logs-might-kill-your-database-and-how-to-fix-it-4aid)
-- [How I Learned to Audit AI Instead of Accept It](https://dev.to/jamespatterson25/how-i-learned-to-audit-ai-instead-of-accept-it-1ap5)
+- [PgBench on MongoDB via Foreign Data Wrapper](https://dev.to/franckpachot/pgbench-on-mongodb-via-foreign-data-wrapper-i5j)
+- [Implementación de Remote Config Modular &lpar;v23.x.x&rpar;](https://dev.to/foodiehoodie/implementacion-de-remote-config-modular-v23xx-4lo6)
+- [Kubernetes](https://dev.to/_898301e197bdb531b6bd0/kubernetes-4e1)
+- [Build Live search Input with API fetching &amp; cancelling using JavaScript](https://dev.to/pckalyan/building-a-search-input-with-api-request-cancellation-using-javascript-51g4)
 <!-- BLOG-POST-LIST:END -->
 
