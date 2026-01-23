@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Claude AI Into Your WordPress Plugins](https://dev.to/el_condorito_54d80b88eb90/integrating-claude-ai-into-your-wordpress-plugins-4omk)
-- [secure calculator vault](https://dev.to/patel_4ad1dbb5f279fff28b3/secure-calculator-vault-251)
-- [I Built a Receipt Scanner to Stop Losing Money on Expenses](https://dev.to/naman_gupta_4b554ece35bb2/i-built-a-receipt-scanner-to-stop-losing-money-on-expenses-ngh)
-- [Best DNS for Gaming in 2026](https://dev.to/lightningdev123/best-dns-for-gaming-in-2026-4kph)
+- [Why digital signatures break on structured healthcare data](https://dev.to/vincentxplore/why-digital-signatures-break-on-structured-healthcare-data-4if9)
+- [I Don&#39;t Write Code Anymore. My Income Tripled. Here&#39;s the System Behind It.](https://dev.to/okoloboga/i-dont-write-code-anymore-my-income-tripled-heres-the-system-behind-it-bkh)
+- [Stop Drowning in Context Switching: Why I Built an AI That &quot;Talks&quot; to My Jira, Codebase, and Docs](https://dev.to/sujit_kumar_bindhani/stop-drowning-in-context-switching-why-i-built-an-ai-that-talks-to-my-jira-codebase-and-docs-2nk)
+- [How I Stopped Fighting Text-in-Image and Started Shipping Designs](https://dev.to/kaushik_pandav_aiml/how-i-stopped-fighting-text-in-image-and-started-shipping-designs-2ao9)
 <!-- BLOG-POST-LIST:END -->
 
