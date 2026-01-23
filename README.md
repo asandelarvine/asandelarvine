@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotel Page Design](https://dev.to/preetha_vaishnavi_2b82358/hotel-page-design-2226)
-- [🚀 The Rise of Vibe Coding — Is AI Changing What Coding Even Means? 🤖✨](https://dev.to/darshanraval/the-rise-of-vibe-coding-is-ai-changing-what-coding-even-means-2a2g)
-- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
-- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
+- [Why Relying on Code Review Alone Is a Recipe for Burnout](https://dev.to/jszutkowski/why-relying-on-code-review-alone-is-a-recipe-for-burnout-3bf7)
+- [China&#39;s AI Boom Explained.](https://dev.to/sanyog_thakur_5b94f2b7d2d/chinas-ai-boom-explained-27li)
+- [Make E2E tests faster](https://dev.to/spo0q/make-e2e-tests-faster-4k9p)
+- [Implementing &quot;Refusal-First&quot; RAG: Why We Architected Our AI to Say &#39;I Don&#39;t Know&#39;](https://dev.to/flamehaven01/implementing-refusal-first-rag-why-we-architected-our-ai-to-say-i-dont-know-4h10)
 <!-- BLOG-POST-LIST:END -->
 
