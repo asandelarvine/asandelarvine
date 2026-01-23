@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Rule Engines Transform Business Agility and Code Simplicity](https://dev.to/capestart/how-rule-engines-transform-business-agility-and-code-simplicity-54gk)
-- [Konečne CZ/SK Linux komunita bez elitárstva a „RTFM“ – Pridaj sa na Revolt a Matrix!](https://dev.to/jakub-bites/konecne-czsk-linux-komunita-bez-elitarstva-a-rtfm-pridaj-sa-na-revolt-a-matrix-kga)
-- [Explain The Development Of AI Systems That Are Responsible](https://dev.to/aws-builders/explain-the-development-of-ai-systems-that-are-responsible-2ggl)
-- [Cargo Package Manager Deep Dive](https://dev.to/godofgeeks/cargo-package-manager-deep-dive-1ca4)
+- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
+- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
+- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
+- [Poetry and coding](https://dev.to/ivy_imoh_d8b40fce225d63ab/poetry-and-coding-12f6)
 <!-- BLOG-POST-LIST:END -->
 
