@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Design in Nucleify – Build Consistent and Scalable UIs](https://dev.to/szymcode/atomic-design-in-nucleify-build-consistent-and-scalable-uis-3mng)
-- [Why I Built an AI to See Certainty in an Uncertain World](https://dev.to/globalperspectives/why-i-built-an-ai-to-see-certainty-in-an-uncertain-world-1c6k)
-- [FamBudget - Advanced Family Budget Management](https://dev.to/lalupj07/fambudget-advanced-family-budget-management-3gkn)
-- [Atomic Design w Nucleify – Twórz spójne i skalowalne UI](https://dev.to/szymcode/atomic-design-build-consistent-and-scalable-uis-4na2)
+- [94% of CEOs Are All-In on AI: The Shift No One Is Talking About](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-the-shift-no-one-is-talking-about-4080)
+- [Рынок умер? Любой опыт теперь нерелевантен? — это лучшее время](https://dev.to/nomanualhero/rynok-umier-liuboi-opyt-tiepier-nierielievantien-eto-luchshieie-vriemia-53nd)
+- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
+- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
 <!-- BLOG-POST-LIST:END -->
 
