@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [94% of CEOs Are All-In on AI: The Shift No One Is Talking About](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-the-shift-no-one-is-talking-about-4080)
-- [Рынок умер? Любой опыт теперь нерелевантен? — это лучшее время](https://dev.to/nomanualhero/rynok-umier-liuboi-opyt-tiepier-nierielievantien-eto-luchshieie-vriemia-53nd)
-- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
-- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
+- [[POG-03] Prompts as First-class Software Assets: Stop Treating Your Gold Like Stones](https://dev.to/enjtorian/pog-03-prompts-as-first-class-software-assets-stop-treating-your-gold-like-stones-3jc3)
+- [Unity DOTS : Entity [Part-2]](https://dev.to/whoami--remon/unity-dots-entity-part-2-4oh)
+- [CQRS Pattern in Flutter: Commands vs Queries](https://dev.to/deveminsahin/cqrs-pattern-in-flutter-commands-vs-queries-24kc)
+- [Quark&#39;s Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7)
 <!-- BLOG-POST-LIST:END -->
 
