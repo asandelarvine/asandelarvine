@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git – What is it and Why is Version Control Important – A Comprehensive Guide](https://dev.to/amo_invanalysis_392c1de71/git-what-is-it-and-why-is-version-control-important-a-comprehensive-guide-45ol)
-- [Level Up Your D3 Charts: Exploring d3-3d v2.0.0](https://dev.to/niekes/level-up-your-d3-charts-exploring-d3-3d-v200-3c12)
-- [CVE-2026-0798: Gitea&#39;s Ghost in the Machine: Leaking Private Release Notes via Zombie Watchers](https://dev.to/cverports/cve-2026-0798-giteas-ghost-in-the-machine-leaking-private-release-notes-via-zombie-watchers-3en3)
-- [Building a Multi-Repository Code Search with Algolia Agent Studio](https://dev.to/vishal590/building-a-multi-repository-code-search-with-algolia-agent-studio-29n4)
+- [A Pragmatic, Event-Driven Serverless Data Architecture](https://dev.to/geekusa33/a-pragmatic-event-driven-serverless-data-architecture-52bp)
+- [I Finally Understood useReducer by Building a Real App &lpar;Not Just Small Demos&rpar;](https://dev.to/usama_dev/i-finally-understood-usereducer-by-building-a-real-app-not-just-small-demos-5c1n)
+- [LLM, RAG, AGENT And MCP](https://dev.to/tak089/llm-rag-agent-and-mcp-cgo)
+- [How 10,000 API Queries Can Clone Your $3M AI Model](https://dev.to/cyberpath/how-10000-api-queries-can-clone-your-3m-ai-model-59pa)
 <!-- BLOG-POST-LIST:END -->
 
