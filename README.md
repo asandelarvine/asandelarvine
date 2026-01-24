@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/motanga/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-3oc2)
-- [I made a game site because I didn’t like the existing ones &lpar;and learned to stop overengineering&rpar;](https://dev.to/rupertuple/i-made-a-game-site-because-i-didnt-like-the-existing-ones-and-learned-to-stop-overengineering-35c1)
-- [30 Minutes Daily: The Only Learning Strategy You Need in 2026](https://dev.to/tirthdoshi009/30-minutes-daily-the-only-learning-strategy-you-need-in-2026-1714)
-- [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
+- [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
+- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
+- [Linux RAM Analysis Script](https://dev.to/ben-santora/linux-ram-analysis-script-59j5)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
 <!-- BLOG-POST-LIST:END -->
 
