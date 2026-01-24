@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [dokumentasi](https://dev.to/hudaipi_wardani_1f6177e55/dokumentasi-1m82)
-- [Angular Forms in 2026 — Reactive vs Template‑Driven, Validation, Testing, and the Signal Era](https://dev.to/cristiansifuentes/angular-forms-in-2026-reactive-vs-template-driven-validation-testing-and-the-signal-era-3oo6)
-- [The Mental Model That Made AWS Networking Finally Click](https://dev.to/emanuelegurini/the-mental-model-that-made-aws-networking-finally-click-1fc9)
-- [Building Maintainable AI Pipelines with the Task Context Observer Pattern](https://dev.to/matthew_hou_e8ab76d6be07b/building-maintainable-ai-pipelines-with-the-task-context-observer-pattern-1e26)
+- [Dioxide v2.0.0: Clean Architecture Made Simple](https://dev.to/mikelane/dioxide-v200-clean-architecture-made-simple-3gp6)
+- [From Ingress to Gateway API: A Hands-On Walkthrough with NGINX Gateway Fabric](https://dev.to/keneojiteli/from-ingress-to-gateway-api-a-hands-on-walkthrough-with-nginx-gateway-fabric-5dn7)
+- [How I Built an Email-to-Google Sheets Automation Using GitHub Copilot CLI](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-using-github-copilot-cli-481g)
+- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
 <!-- BLOG-POST-LIST:END -->
 
