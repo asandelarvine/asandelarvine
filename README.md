@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Crates to crates.io](https://dev.to/godofgeeks/publishing-crates-to-cratesio-41dn)
-- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb)
-- [CSA XCON 2026: India’s Premier Cybersecurity Conference Bringing Global Experts to Dehradun](https://dev.to/sagar_sajwan_a91beb41c861/csa-xcon-2026-indias-premier-cybersecurity-conference-bringing-global-experts-to-dehradun-3011)
-- [CVE-2026-20805 | Desktop Window Manager Information Disclosure Vulnerability](https://dev.to/aakash_rahsi/cve-2026-20805-desktop-window-manager-information-disclosure-vulnerability-1aj7)
+- [Pantry – Web-Application for organizing everything around food in your household.](https://dev.to/netz_sg/pantry-an-open-source-project-to-organize-shared-resources-k1m)
+- [Writing Patents with AI: What Works &lpar;and What Doesn’t&rpar;](https://dev.to/idea2patentai/writing-patents-with-ai-what-works-and-what-doesnt-21a8)
+- [Recognize The Importance Of Transparent And Explainable Models](https://dev.to/aws-builders/recognize-the-importance-of-transparent-and-explainablemodels-g9d)
+- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
 <!-- BLOG-POST-LIST:END -->
 
