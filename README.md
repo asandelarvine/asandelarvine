@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[POG-03] Prompts as First-class Software Assets: Stop Treating Your Gold Like Stones](https://dev.to/enjtorian/pog-03-prompts-as-first-class-software-assets-stop-treating-your-gold-like-stones-3jc3)
-- [Unity DOTS : Entity [Part-2]](https://dev.to/whoami--remon/unity-dots-entity-part-2-4oh)
-- [CQRS Pattern in Flutter: Commands vs Queries](https://dev.to/deveminsahin/cqrs-pattern-in-flutter-commands-vs-queries-24kc)
-- [Quark&#39;s Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7)
+- [DAGs &amp; Topological Sorting](https://dev.to/josephakayesi/dags-topological-sorting-1o9k)
+- [I Built a Productivity &quot;Command Center&quot; for Chrome with React 19 &amp; Glassmorphism 🚀](https://dev.to/chieund/i-built-a-productivity-command-center-for-chrome-with-react-19-glassmorphism-3jbm)
+- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
+- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
 <!-- BLOG-POST-LIST:END -->
 
