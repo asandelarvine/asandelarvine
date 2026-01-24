@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I cheated to maintain GitHub streak and I don&#39;t regret it](https://dev.to/aloisseckar/i-cheated-to-maintain-github-streak-and-i-dont-regret-it-39ka)
-- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
-- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
-- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
+- [Git – What is it and Why is Version Control Important – A Comprehensive Guide](https://dev.to/amo_invanalysis_392c1de71/git-what-is-it-and-why-is-version-control-important-a-comprehensive-guide-45ol)
+- [Level Up Your D3 Charts: Exploring d3-3d v2.0.0](https://dev.to/niekes/level-up-your-d3-charts-exploring-d3-3d-v200-3c12)
+- [CVE-2026-0798: Gitea&#39;s Ghost in the Machine: Leaking Private Release Notes via Zombie Watchers](https://dev.to/cverports/cve-2026-0798-giteas-ghost-in-the-machine-leaking-private-release-notes-via-zombie-watchers-3en3)
+- [Building a Multi-Repository Code Search with Algolia Agent Studio](https://dev.to/vishal590/building-a-multi-repository-code-search-with-algolia-agent-studio-29n4)
 <!-- BLOG-POST-LIST:END -->
 
