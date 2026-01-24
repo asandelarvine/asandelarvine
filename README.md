@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Shopify Apps Solo: My React Router 7 + AI Tech Stack](https://dev.to/kulikboxx/building-shopify-apps-solo-my-react-router-7-ai-tech-stack-3dk4)
-- [How to Be Someone Who Makes Your Colleagues Shine](https://dev.to/manager_log/how-to-be-someone-who-makes-your-colleagues-shine-59mg)
-- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
-- [A Brief Pause, and What’s Next in My 90-Day Web3 Learning Journey](https://dev.to/yanjun/a-brief-pause-and-whats-next-in-my-90-day-web3-learning-journey-2pg9)
+- [Atomic Design in Nucleify – Build Consistent and Scalable UIs](https://dev.to/szymcode/atomic-design-in-nucleify-build-consistent-and-scalable-uis-3mng)
+- [Why I Built an AI to See Certainty in an Uncertain World](https://dev.to/globalperspectives/why-i-built-an-ai-to-see-certainty-in-an-uncertain-world-1c6k)
+- [FamBudget - Advanced Family Budget Management](https://dev.to/lalupj07/fambudget-advanced-family-budget-management-3gkn)
+- [Atomic Design w Nucleify – Twórz spójne i skalowalne UI](https://dev.to/szymcode/atomic-design-build-consistent-and-scalable-uis-4na2)
 <!-- BLOG-POST-LIST:END -->
 
