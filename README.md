@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
-- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
-- [Linux RAM Analysis Script](https://dev.to/ben-santora/linux-ram-analysis-script-59j5)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
+- [ML ALGOS List](https://dev.to/jenil_sheth_3eb6f86dc4900/ml-algos-list-2eio)
+- [The Offline-First Struggle: How I Built a Robust Sync Engine for Flutter &lpar;SynapseLink&rpar;](https://dev.to/vortex_shadow_8bce7f9fe36/the-offline-first-struggle-how-i-built-a-robust-sync-engine-for-flutter-synapselink-4d8a)
+- [Silent Failures Most Metrics Don’t See](https://dev.to/plc-creates/silent-failures-most-metrics-dont-see-3e20)
+- [The Vibe Coding Hangover: Why I’m Returning to Engineering Rigor in 2026](https://dev.to/maximiliano_allende97/the-vibe-coding-hangover-why-im-returning-to-engineering-rigor-in-2026-49hl)
 <!-- BLOG-POST-LIST:END -->
 
