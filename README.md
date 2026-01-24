@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
-- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
-- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
-- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
+- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
+- [🌱 Bloom Roadmap — What’s Coming Next](https://dev.to/codebunny20/bloom-roadmap-whats-coming-next-335a)
+- [Stop Writing Selectors: How I Vibe Coded a Production AppSumo Scraper](https://dev.to/sommic/stop-writing-selectors-how-i-vibe-coded-a-production-appsumo-scraper-4704)
+- [Where Blockchain Data Actually Lives &lpar;IPFS, Arweave &amp; The 2026 Storage War&rpar;](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka)
 <!-- BLOG-POST-LIST:END -->
 
