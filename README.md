@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dioxide v2.0.0: Clean Architecture Made Simple](https://dev.to/mikelane/dioxide-v200-clean-architecture-made-simple-3gp6)
-- [From Ingress to Gateway API: A Hands-On Walkthrough with NGINX Gateway Fabric](https://dev.to/keneojiteli/from-ingress-to-gateway-api-a-hands-on-walkthrough-with-nginx-gateway-fabric-5dn7)
-- [How I Built an Email-to-Google Sheets Automation Using GitHub Copilot CLI](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-using-github-copilot-cli-481g)
-- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
+- [How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)
+- [Vibe Coding on a 4GB RAM Chromebook?](https://dev.to/mikhael28/vibe-coding-on-a-4gb-ram-chromebook-2c8g)
+- [Building Tamper-Evident Audit Trails: What the 2025 Trading Crisis Taught Us About Cryptographic Logging](https://dev.to/veritaschain/building-tamper-evident-audit-trails-what-the-2025-trading-crisis-taught-us-about-cryptographic-384f)
+- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
 <!-- BLOG-POST-LIST:END -->
 
