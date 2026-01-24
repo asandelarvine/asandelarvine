@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)
-- [Vibe Coding on a 4GB RAM Chromebook?](https://dev.to/mikhael28/vibe-coding-on-a-4gb-ram-chromebook-2c8g)
-- [Building Tamper-Evident Audit Trails: What the 2025 Trading Crisis Taught Us About Cryptographic Logging](https://dev.to/veritaschain/building-tamper-evident-audit-trails-what-the-2025-trading-crisis-taught-us-about-cryptographic-384f)
-- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
+- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
+- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
+- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
+- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
 <!-- BLOG-POST-LIST:END -->
 
