@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DAGs &amp; Topological Sorting](https://dev.to/josephakayesi/dags-topological-sorting-1o9k)
-- [I Built a Productivity &quot;Command Center&quot; for Chrome with React 19 &amp; Glassmorphism 🚀](https://dev.to/chieund/i-built-a-productivity-command-center-for-chrome-with-react-19-glassmorphism-3jbm)
-- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
-- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
+- [I cheated to maintain GitHub streak and I don&#39;t regret it](https://dev.to/aloisseckar/i-cheated-to-maintain-github-streak-and-i-dont-regret-it-39ka)
+- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
+- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
+- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
 <!-- BLOG-POST-LIST:END -->
 
