@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pragmatic, Event-Driven Serverless Data Architecture](https://dev.to/geekusa33/a-pragmatic-event-driven-serverless-data-architecture-52bp)
-- [I Finally Understood useReducer by Building a Real App &lpar;Not Just Small Demos&rpar;](https://dev.to/usama_dev/i-finally-understood-usereducer-by-building-a-real-app-not-just-small-demos-5c1n)
-- [LLM, RAG, AGENT And MCP](https://dev.to/tak089/llm-rag-agent-and-mcp-cgo)
-- [How 10,000 API Queries Can Clone Your $3M AI Model](https://dev.to/cyberpath/how-10000-api-queries-can-clone-your-3m-ai-model-59pa)
+- [FPGA_Part_07](https://dev.to/cevval/fpgapart07-h6c)
+- [I Built a Privacy-First PDF Tool That Never Uploads Your File](https://dev.to/aizazart/i-built-a-privacy-first-pdf-tool-that-never-uploads-your-file-1blh)
+- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
+- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
 <!-- BLOG-POST-LIST:END -->
 
