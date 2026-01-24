@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ML ALGOS List](https://dev.to/jenil_sheth_3eb6f86dc4900/ml-algos-list-2eio)
-- [The Offline-First Struggle: How I Built a Robust Sync Engine for Flutter &lpar;SynapseLink&rpar;](https://dev.to/vortex_shadow_8bce7f9fe36/the-offline-first-struggle-how-i-built-a-robust-sync-engine-for-flutter-synapselink-4d8a)
-- [Silent Failures Most Metrics Don’t See](https://dev.to/plc-creates/silent-failures-most-metrics-dont-see-3e20)
-- [The Vibe Coding Hangover: Why I’m Returning to Engineering Rigor in 2026](https://dev.to/maximiliano_allende97/the-vibe-coding-hangover-why-im-returning-to-engineering-rigor-in-2026-49hl)
+- [How to Return HTTP 410 &lpar;Gone&rpar; Status in Next.js App Router: Two Workarounds](https://dev.to/alessandro-grosselle/how-to-return-http-410-gone-status-in-nextjs-app-router-two-workarounds-2f0g)
+- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
+- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
+- [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
 <!-- BLOG-POST-LIST:END -->
 
