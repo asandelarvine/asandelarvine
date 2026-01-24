@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pantry – Web-Application for organizing everything around food in your household.](https://dev.to/netz_sg/pantry-an-open-source-project-to-organize-shared-resources-k1m)
-- [Writing Patents with AI: What Works &lpar;and What Doesn’t&rpar;](https://dev.to/idea2patentai/writing-patents-with-ai-what-works-and-what-doesnt-21a8)
-- [Recognize The Importance Of Transparent And Explainable Models](https://dev.to/aws-builders/recognize-the-importance-of-transparent-and-explainablemodels-g9d)
-- [Voice Live vs Real-Time API : Quelle solution choisir sur Azure AI Foundry ?](https://dev.to/galaxy_ai/-voice-live-vs-real-time-api-quelle-solution-choisir-sur-azure-ai-foundry--54m0)
+- [Building Shopify Apps Solo: My React Router 7 + AI Tech Stack](https://dev.to/kulikboxx/building-shopify-apps-solo-my-react-router-7-ai-tech-stack-3dk4)
+- [How to Be Someone Who Makes Your Colleagues Shine](https://dev.to/manager_log/how-to-be-someone-who-makes-your-colleagues-shine-59mg)
+- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
+- [A Brief Pause, and What’s Next in My 90-Day Web3 Learning Journey](https://dev.to/yanjun/a-brief-pause-and-whats-next-in-my-90-day-web3-learning-journey-2pg9)
 <!-- BLOG-POST-LIST:END -->
 
