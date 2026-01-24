@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Scope in Python](https://dev.to/ruqiya_arshad_7839c5e21f2/scope-in-python-3bg8)
 - [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
 - [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
 - [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
-- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
 <!-- BLOG-POST-LIST:END -->
 
