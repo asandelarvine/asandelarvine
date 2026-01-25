@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
-- [🧠 RAG in 2026: A Practical Blueprint for Retrieval-Augmented Generation](https://dev.to/suraj_khaitan_f893c243958/-rag-in-2026-a-practical-blueprint-for-retrieval-augmented-generation-16pp)
-- [Spring Boot 4 入門教學](https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh)
-- [Run an LLM Locally to Interact with your Documents](https://dev.to/coding_dev_/run-an-llm-locally-to-interact-with-your-documents-3ncj)
+- [Explain Methods To Secure AI Systems](https://dev.to/aws-builders/explain-methods-to-secure-ai-systems-iei)
+- [The Secret Life of Python: The Scope Creep](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-scope-creep-21e4)
+- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
+- [I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser](https://dev.to/pranav_mailarpawar_7039f2/i-got-tired-of-pdf-tools-uploading-my-files-so-i-built-one-that-runs-entirely-in-the-browser-56ei)
 <!-- BLOG-POST-LIST:END -->
 
