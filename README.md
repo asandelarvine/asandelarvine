@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Microsoft Excel for Basic Data Analysis &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/kelvin_kamau_dccc44b35803/using-microsoft-excel-for-basic-data-analysis-beginner-friendly-guide-3151)
-- [Do You Really Need Kafka? A Practical Alternative with Postgres](https://dev.to/density_tech/do-you-really-need-kafka-a-practical-alternative-with-postgres-2de8)
-- [How I Fixed a Critical Memory Leak in My Python Audio App](https://dev.to/highcenburg/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app-42g9)
-- [How I automated my EF Core boilerplate code &lpar;Visual Modeling&rpar;](https://dev.to/haytham_69c9c32e329/how-i-automated-my-ef-core-boilerplate-code-visual-modeling-3cm5)
+- [We Ship 5MB of JavaScript Then Gaslight Users About Their WiFi](https://dev.to/adamthedeveloper/we-ship-5mb-of-javascript-then-gaslight-users-about-their-wifi-4lhd)
+- [How To Enforce Your Engineering Standards Across Your Codebase](https://dev.to/amit_kochman_06d0d76a03ba/how-to-enforce-your-engineering-standards-across-your-codebase-1anl)
+- [How Cowork &amp; Coding Agent Only Modifies Files That Need Changing](https://dev.to/sopaco/how-cowork-coding-agent-only-modifies-files-that-need-changing-2h99)
+- [From Idea to Code: How an AI Multi-Agent System Works Like a Team to Write Software](https://dev.to/sopaco/from-idea-to-code-how-an-ai-multi-agent-system-works-like-a-team-to-write-software-568h)
 <!-- BLOG-POST-LIST:END -->
 
