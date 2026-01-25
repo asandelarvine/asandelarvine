@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mukul_verma_bca58a415e218/-50jm)
-- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
-- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
-- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
+- [Introduction to Microsoft Excel for Data Analytics: A Beginner-Friendly Guide](https://dev.to/sirsona/introduction-to-microsoft-excel-for-data-analytics-a-beginner-friendly-guide-179g)
+- [AI productivity gains sound impressive… but are we measuring the right things?](https://dev.to/richardpascoe/ai-can-boost-productivity-but-are-the-fantastical-claims-we-often-see-over-simplified-23j)
+- [I traced a single prompt through an LLM engine to see how it actually works &lpar;Visual Breakdown&rpar;](https://dev.to/practicalaiguy_ba30448492/i-traced-a-single-prompt-through-an-llm-engine-to-see-how-it-actually-works-visual-breakdown-2kbj)
+- [If this doesn&#39;t kill your app, then I’m damn sure it will help: How a rebrand turned ChatGPT into my #1 referral source.](https://dev.to/danieelatu_71b7ad8ea3fa31/if-this-doesnt-kill-your-app-then-im-damn-sure-it-will-help-how-a-rebrand-turned-chatgpt-into-2lnj)
 <!-- BLOG-POST-LIST:END -->
 
