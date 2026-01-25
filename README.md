@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [January started out strong. I put out 4 blogs, which I would like to think caused a ripple effect, and inspired 4 other people in my network to use Devto and start blogging. YAY!](https://dev.to/shlokaguptaa/january-started-out-strong-i-put-out-4-blogs-which-i-would-like-to-think-caused-a-ripple-effect-26oe)
-- [AWS Trends to Watch in 2026: Agentic AI, FinOps, Serverless, and Sustainable Infra](https://dev.to/aws-builders/aws-trends-to-watch-in-2026-agentic-ai-finops-serverless-and-sustainable-infra-4e5j)
-- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
-- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
+- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
+- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
+- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
 <!-- BLOG-POST-LIST:END -->
 
