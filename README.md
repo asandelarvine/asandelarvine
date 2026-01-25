@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reescrevendo Legados #01](https://dev.to/cavalcanteyury/reescrevendo-legados-01-1fm3)
-- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
-- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
-- [What I’d do if I were starting my career today](https://dev.to/martin_call/what-id-do-if-i-were-starting-my-career-today-16hc)
+- [Linux ve Dağıtımlarının Felsefesi](https://dev.to/dtpcoglu/linux-ve-dagitimlarinin-felsefesi-90i)
+- [Jeff Su: The Only AI Tools You Need &lpar;12-Minute Guide&rpar;](https://dev.to/future_ai/jeff-su-the-only-ai-tools-you-need-12-minute-guide-9a4)
+- [AI Is Not a Tool. It Is an Enterprise Capability. And It Must Be Architected.](https://dev.to/eagleeyethinker/ai-is-not-a-tool-it-is-an-enterprise-capability-and-it-must-be-architected-4c9j)
+- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh)
 <!-- BLOG-POST-LIST:END -->
 
