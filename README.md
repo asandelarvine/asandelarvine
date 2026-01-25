@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming LLM Output Chaos: A 3-Tier Normalisation Pattern](https://dev.to/armelhbobdad/taming-llm-output-chaos-a-3-tier-normalisation-pattern-41jm)
-- [Best game engine to start with in 2026?](https://dev.to/moibra/best-game-engine-to-start-with-in-2026-3hne)
-- [A new dawn for me](https://dev.to/makore1762/a-new-dawn-for-me-48gp)
-- [Building my Portfolio Site in 2 Days Using Gemini CLI, Antigravity, Conductor, and Agent Starter Pack](https://dev.to/gde/building-my-portfolio-site-in-2-days-using-gemini-cli-antigravity-conductor-and-agent-starter-3bke)
+- [Pipeline de Dados x Pipeline ETL](https://dev.to/franolv/pipeline-de-dados-x-pipeline-etl-47ep)
+- [DNS Record Types](https://dev.to/priyanshu_verma/dns-record-types-2bij)
+- [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
+- [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
 <!-- BLOG-POST-LIST:END -->
 
