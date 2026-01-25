@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Toge DB, A Javascript Based Database + ORM Layer](https://dev.to/revtm/getting-started-with-toge-db-a-javascript-based-database-orm-layer-3aod)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/nganga_njongo/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-4bf)
-- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
-- [26 AI application notes](https://dev.to/dait05/26-ai-application-notes-52f3)
+- [[Boost]](https://dev.to/mukul_verma_bca58a415e218/-50jm)
+- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
+- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
+- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
 <!-- BLOG-POST-LIST:END -->
 
