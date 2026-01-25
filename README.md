@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LINUX FOR A ROOKIE DATA ENGINEERING STUDENT](https://dev.to/shabex/linux-for-a-rookie-data-engineering-student-255h)
-- [Starting JavaScript Today – My First Attempt.](https://dev.to/jazmin_m_099/starting-javascript-today-my-first-attempt-4pj1)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
-- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
+- [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
+- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
+- [How I Built a Serverless AI Image Analyzer in 40 Minutes &lpar;Free Tier&rpar;](https://dev.to/alifunk/how-i-built-a-serverless-ai-image-analyzer-in-40-minutes-free-tier-5fhm)
+- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
 <!-- BLOG-POST-LIST:END -->
 
