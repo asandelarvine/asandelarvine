@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
-- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
-- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
-- [Engineering Log: LL-298: Invalid Option Strikes Causing C &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-298-invalid-option-strikes-causing-c-2-more-186j)
+- [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
+- [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
+- [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
+- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
 <!-- BLOG-POST-LIST:END -->
 
