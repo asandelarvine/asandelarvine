@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Created My First AI Tool-Using Agent with LangGraph and Groq](https://dev.to/akansrodger/i-created-my-first-ai-tool-using-agent-with-langgraph-and-groq-3j3n)
-- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
-- [How I Built a Serverless AI Image Analyzer in 40 Minutes &lpar;Free Tier&rpar;](https://dev.to/alifunk/how-i-built-a-serverless-ai-image-analyzer-in-40-minutes-free-tier-5fhm)
-- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
+- [Taming LLM Output Chaos: A 3-Tier Normalisation Pattern](https://dev.to/armelhbobdad/taming-llm-output-chaos-a-3-tier-normalisation-pattern-41jm)
+- [Best game engine to start with in 2026?](https://dev.to/moibra/best-game-engine-to-start-with-in-2026-3hne)
+- [A new dawn for me](https://dev.to/makore1762/a-new-dawn-for-me-48gp)
+- [Building my Portfolio Site in 2 Days Using Gemini CLI, Antigravity, Conductor, and Agent Starter Pack](https://dev.to/gde/building-my-portfolio-site-in-2-days-using-gemini-cli-antigravity-conductor-and-agent-starter-3bke)
 <!-- BLOG-POST-LIST:END -->
 
