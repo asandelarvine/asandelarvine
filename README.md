@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explain Methods To Secure AI Systems](https://dev.to/aws-builders/explain-methods-to-secure-ai-systems-iei)
-- [The Secret Life of Python: The Scope Creep](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-scope-creep-21e4)
-- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
-- [I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser](https://dev.to/pranav_mailarpawar_7039f2/i-got-tired-of-pdf-tools-uploading-my-files-so-i-built-one-that-runs-entirely-in-the-browser-56ei)
+- [How to Check if Your VPN is Working on Mac: DNS Leak Testing Guide](https://dev.to/heocoi/how-to-check-if-your-vpn-is-working-on-mac-dns-leak-testing-guide-14m9)
+- [From cronjobs to controllers: Building a production-grade Kubernetes Backup &amp; Restore Operator](https://dev.to/mxnuchim/from-cronjobs-to-controllers-building-a-production-grade-kubernetes-backup-restore-operator-4g8h)
+- [Crayons and the Wall](https://dev.to/suckup_de/crayons-and-the-wall-2ia7)
+- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
 <!-- BLOG-POST-LIST:END -->
 
