@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Microsoft Excel for Data Analytics: A Beginner-Friendly Guide](https://dev.to/sirsona/introduction-to-microsoft-excel-for-data-analytics-a-beginner-friendly-guide-179g)
-- [AI productivity gains sound impressive… but are we measuring the right things?](https://dev.to/richardpascoe/ai-can-boost-productivity-but-are-the-fantastical-claims-we-often-see-over-simplified-23j)
-- [I traced a single prompt through an LLM engine to see how it actually works &lpar;Visual Breakdown&rpar;](https://dev.to/practicalaiguy_ba30448492/i-traced-a-single-prompt-through-an-llm-engine-to-see-how-it-actually-works-visual-breakdown-2kbj)
-- [If this doesn&#39;t kill your app, then I’m damn sure it will help: How a rebrand turned ChatGPT into my #1 referral source.](https://dev.to/danieelatu_71b7ad8ea3fa31/if-this-doesnt-kill-your-app-then-im-damn-sure-it-will-help-how-a-rebrand-turned-chatgpt-into-2lnj)
+- [January started out strong. I put out 4 blogs, which I would like to think caused a ripple effect, and inspired 4 other people in my network to use Devto and start blogging. YAY!](https://dev.to/shlokaguptaa/january-started-out-strong-i-put-out-4-blogs-which-i-would-like-to-think-caused-a-ripple-effect-26oe)
+- [AWS Trends to Watch in 2026: Agentic AI, FinOps, Serverless, and Sustainable Infra](https://dev.to/aws-builders/aws-trends-to-watch-in-2026-agentic-ai-finops-serverless-and-sustainable-infra-4e5j)
+- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
+- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
 <!-- BLOG-POST-LIST:END -->
 
