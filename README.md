@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP Working: 3-Way Handshake &amp; Reliable Communication](https://dev.to/debashis_das_4deca65ec224/tcp-working-3-way-handshake-reliable-communication-57oa)
-- [AI Nana Banana: A Simple Way to Generate and Edit Images with AI](https://dev.to/lynn123456/ai-nana-banana-a-simple-way-to-generate-and-edit-images-with-ai-kd6)
-- [Building a Physics-Enforced Oracle: How KAILEdge Brings Deterministic Cargo Monitoring to Layer 2s](https://dev.to/zentoshi/building-a-physics-enforced-oracle-how-kailedge-brings-deterministic-cargo-monitoring-to-layer-2s-4a3a)
-- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
+- [I Built a 3D Game-Style Interactive Developer Portfolio with Three.js, Gemini &amp; AntiGravity](https://dev.to/saurabhnative/i-built-a-3d-game-style-interactive-developer-portfolio-with-threejs-gemini-antigravity-3ie9)
+- [Super Simple Guide: Get Your Code on GitHub](https://dev.to/nicholas_kimani_e0fc0306b/super-simple-guide-get-your-code-on-github-1bp7)
+- [A Simple beginners Guide to Git &amp; GitHub](https://dev.to/lawrence_murithi/a-simple-beginners-guide-to-git-github-j29)
+- [🚀 Why I Built JSSpace - 100+ Free Online Tools Built with AI](https://dev.to/_f64155ec4200ceaffa673e/why-i-built-jsspace-100-free-online-tools-built-with-ai-3p44)
 <!-- BLOG-POST-LIST:END -->
 
