@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
-- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id)
-- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1)
+- [LINUX FOR A ROOKIE DATA ENGINEERING STUDENT](https://dev.to/shabex/linux-for-a-rookie-data-engineering-student-255h)
+- [Starting JavaScript Today – My First Attempt.](https://dev.to/jazmin_m_099/starting-javascript-today-my-first-attempt-4pj1)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
+- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
 <!-- BLOG-POST-LIST:END -->
 
