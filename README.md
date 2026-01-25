@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux ve Dağıtımlarının Felsefesi](https://dev.to/dtpcoglu/linux-ve-dagitimlarinin-felsefesi-90i)
-- [Jeff Su: The Only AI Tools You Need &lpar;12-Minute Guide&rpar;](https://dev.to/future_ai/jeff-su-the-only-ai-tools-you-need-12-minute-guide-9a4)
-- [AI Is Not a Tool. It Is an Enterprise Capability. And It Must Be Architected.](https://dev.to/eagleeyethinker/ai-is-not-a-tool-it-is-an-enterprise-capability-and-it-must-be-architected-4c9j)
-- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh)
+- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
+- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
+- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
+- [Engineering Log: LL-298: Invalid Option Strikes Causing C &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-298-invalid-option-strikes-causing-c-2-more-186j)
 <!-- BLOG-POST-LIST:END -->
 
