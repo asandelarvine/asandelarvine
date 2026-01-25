@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
-- [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
-- [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
-- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
+- [Top 10 VS Code Extensions for PHP Developers in 2026](https://dev.to/arafatweb/top-10-vs-code-extensions-for-php-developers-in-2026-199m)
+- [🧠 RAG in 2026: A Practical Blueprint for Retrieval-Augmented Generation](https://dev.to/suraj_khaitan_f893c243958/-rag-in-2026-a-practical-blueprint-for-retrieval-augmented-generation-16pp)
+- [Spring Boot 4 入門教學](https://dev.to/cyrustse/spring-boot-4-spring-security-6-ru-men-jiao-xue-5ekh)
+- [Run an LLM Locally to Interact with your Documents](https://dev.to/coding_dev_/run-an-llm-locally-to-interact-with-your-documents-3ncj)
 <!-- BLOG-POST-LIST:END -->
 
