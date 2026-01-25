@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check if Your VPN is Working on Mac: DNS Leak Testing Guide](https://dev.to/heocoi/how-to-check-if-your-vpn-is-working-on-mac-dns-leak-testing-guide-14m9)
-- [From cronjobs to controllers: Building a production-grade Kubernetes Backup &amp; Restore Operator](https://dev.to/mxnuchim/from-cronjobs-to-controllers-building-a-production-grade-kubernetes-backup-restore-operator-4g8h)
-- [Crayons and the Wall](https://dev.to/suckup_de/crayons-and-the-wall-2ia7)
-- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
+- [Using Microsoft Excel for Basic Data Analysis &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/kelvin_kamau_dccc44b35803/using-microsoft-excel-for-basic-data-analysis-beginner-friendly-guide-3151)
+- [Do You Really Need Kafka? A Practical Alternative with Postgres](https://dev.to/density_tech/do-you-really-need-kafka-a-practical-alternative-with-postgres-2de8)
+- [How I Fixed a Critical Memory Leak in My Python Audio App](https://dev.to/highcenburg/how-i-fixed-a-critical-memory-leak-in-my-python-audio-app-42g9)
+- [How I automated my EF Core boilerplate code &lpar;Visual Modeling&rpar;](https://dev.to/haytham_69c9c32e329/how-i-automated-my-ef-core-boilerplate-code-visual-modeling-3cm5)
 <!-- BLOG-POST-LIST:END -->
 
