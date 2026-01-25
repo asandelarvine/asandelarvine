@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline de Dados x Pipeline ETL](https://dev.to/franolv/pipeline-de-dados-x-pipeline-etl-47ep)
-- [DNS Record Types](https://dev.to/priyanshu_verma/dns-record-types-2bij)
-- [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
-- [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
+- [C# Console menus with Actions](https://dev.to/karenpayneoregon/c-console-menus-with-actions-67n)
+- [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
+- [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
+- [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
 <!-- BLOG-POST-LIST:END -->
 
