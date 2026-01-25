@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
-- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
-- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
+- [Plugins: Share Your Entire Claude Code Setup With One Command](https://dev.to/rajeshroyal/plugins-share-your-entire-claude-code-setup-with-one-command-294n)
+- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id)
+- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1)
 <!-- BLOG-POST-LIST:END -->
 
