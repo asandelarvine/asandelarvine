@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Ship 5MB of JavaScript Then Gaslight Users About Their WiFi](https://dev.to/adamthedeveloper/we-ship-5mb-of-javascript-then-gaslight-users-about-their-wifi-4lhd)
-- [How To Enforce Your Engineering Standards Across Your Codebase](https://dev.to/amit_kochman_06d0d76a03ba/how-to-enforce-your-engineering-standards-across-your-codebase-1anl)
-- [How Cowork &amp; Coding Agent Only Modifies Files That Need Changing](https://dev.to/sopaco/how-cowork-coding-agent-only-modifies-files-that-need-changing-2h99)
-- [From Idea to Code: How an AI Multi-Agent System Works Like a Team to Write Software](https://dev.to/sopaco/from-idea-to-code-how-an-ai-multi-agent-system-works-like-a-team-to-write-software-568h)
+- [TCP Working: 3-Way Handshake &amp; Reliable Communication](https://dev.to/debashis_das_4deca65ec224/tcp-working-3-way-handshake-reliable-communication-57oa)
+- [AI Nana Banana: A Simple Way to Generate and Edit Images with AI](https://dev.to/lynn123456/ai-nana-banana-a-simple-way-to-generate-and-edit-images-with-ai-kd6)
+- [Building a Physics-Enforced Oracle: How KAILEdge Brings Deterministic Cargo Monitoring to Layer 2s](https://dev.to/zentoshi/building-a-physics-enforced-oracle-how-kailedge-brings-deterministic-cargo-monitoring-to-layer-2s-4a3a)
+- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
 <!-- BLOG-POST-LIST:END -->
 
