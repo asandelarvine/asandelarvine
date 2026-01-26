@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Linux for Data Engineers: Using the Nano Editor with Practical Examples](https://dev.to/peter_amoro_fccf1d029a084/an-introduction-to-linux-for-data-engineers-using-the-nano-editor-with-practical-examples-39a2)
-- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
-- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
-- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
+- [Regular Functions vs Arrow Functions in JavaScript](https://dev.to/miasalazar/regular-functions-vs-arrow-functions-in-javascript-528n)
+- [How to build a captive portal in ESP32 with MicroPython](https://dev.to/devasservice/how-to-build-a-captive-portal-in-esp32-with-micropython-2dc1)
+- [Will React Compiler Make Manual Memoization Obsolete? — Things to Know Before Adopting It](https://dev.to/usapopopooon/will-react-compiler-make-manual-memoization-obsolete-things-to-know-before-adopting-it-4ie9)
+- [Agent Evolver: The Darwin of AI Agents](https://dev.to/koushik_sen_d549bf321e6fb/agent-evolver-the-darwin-of-ai-agents-4iio)
 <!-- BLOG-POST-LIST:END -->
 
