@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [More than Maps](https://dev.to/dungeoncrawlsoft/more-than-maps-1f25)
-- [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
-- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
-- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
+- [Building Memory-First AI Reminder Agents with Mem0 and Claude Agent SDK](https://dev.to/mem0/building-memory-first-ai-reminder-agents-with-mem0-and-claude-agent-sdk-3380)
+- [A Universal FPGA Compiler that Understands 42 Programming Languages](https://dev.to/serverlesskiy/a-universal-fpga-compiler-that-understands-42-programming-languages-l79)
+- [Automating Unity Builds for Meta Quest](https://dev.to/virtualmaker/automating-unity-builds-for-meta-quest-2lpf)
+- [Introduction to Linux for Data Engineers](https://dev.to/lawrence_murithi/introduction-to-linux-for-data-engineers-29jn)
 <!-- BLOG-POST-LIST:END -->
 
