@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Console menus with Actions](https://dev.to/karenpayneoregon/c-console-menus-with-actions-67n)
-- [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
-- [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
-- [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
+- [Introduction to Linux For Data Engineers, Including Practical use for Vi and Nano](https://dev.to/stephen_githinji_/introduction-to-linux-for-data-engineers-including-practical-use-for-vi-and-nano-2moa)
+- [How to Break Problems Into Steps Like a Developer](https://dev.to/anuj_prajapati_/how-to-break-problems-into-steps-like-a-developer-8f0)
+- [Golang Concurrency: From &quot;Hello World&quot; to Worker Pools](https://dev.to/mmurtuzah/golang-concurrency-from-hello-world-to-worker-pools-19n6)
+- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
 <!-- BLOG-POST-LIST:END -->
 
