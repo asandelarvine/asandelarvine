@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Surprising Simplicity of Temporal Worker Pools on Cloud Run](https://dev.to/gbostoen/the-surprising-simplicity-of-temporal-worker-pools-on-cloud-run-14db)
-- [JavaScript Day 2: Slow Progress Is Still Progress.](https://dev.to/jazmin_m_099/javascript-day-2-slow-progress-is-still-progress-158m)
-- [Testcontainers](https://dev.to/farhan_khan_41ec7ff11ac1d/testcontainers-2b6n)
-- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
+- [Introducción a Linux](https://dev.to/fedrummond_/introduccion-a-linux-2c8c)
+- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
+- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
+- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
 <!-- BLOG-POST-LIST:END -->
 
