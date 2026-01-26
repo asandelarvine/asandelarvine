@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
-- [# MCP vs CAP: Why Your AI Agents Need Both Protocols](https://dev.to/yaron_torgeman_104570d968/-mcp-vs-cap-why-your-ai-agents-need-both-protocols-3g4l)
-- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
-- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
+- [The Surprising Simplicity of Temporal Worker Pools on Cloud Run](https://dev.to/gbostoen/the-surprising-simplicity-of-temporal-worker-pools-on-cloud-run-14db)
+- [JavaScript Day 2: Slow Progress Is Still Progress.](https://dev.to/jazmin_m_099/javascript-day-2-slow-progress-is-still-progress-158m)
+- [Testcontainers](https://dev.to/farhan_khan_41ec7ff11ac1d/testcontainers-2b6n)
+- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
 <!-- BLOG-POST-LIST:END -->
 
