@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What PVS-Studio unicorn looked like in 2016](https://dev.to/pvsdev/what-pvs-studio-unicorn-looked-like-in-2016-58bf)
-- [🔥 Contract Testing: the bug that passes CI and breaks production](https://dev.to/patrickbastosdeveloper/contract-testing-the-bug-that-passes-ci-and-breaks-production-532l)
-- [Linux - The &#39;df -h&#39; Command](https://dev.to/ben-santora/linux-how-to-interpret-the-output-of-the-df-h-command-4gg9)
-- [Build Production-ready AI Agents with AWS Bedrock &amp; Agentcore](https://dev.to/aws-builders/build-production-ready-ai-agents-with-aws-bedrock-agentcore-13kk)
+- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
+- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
+- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
+- [Multi-Agent Communication Patterns That Actually Work](https://dev.to/aureus_c_b3ba7f87cc34d74d49/multi-agent-communication-patterns-that-actually-work-50kp)
 <!-- BLOG-POST-LIST:END -->
 
