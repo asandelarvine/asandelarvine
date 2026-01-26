@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Linux For Data Engineers, Including Practical use for Vi and Nano](https://dev.to/stephen_githinji_/introduction-to-linux-for-data-engineers-including-practical-use-for-vi-and-nano-2moa)
-- [How to Break Problems Into Steps Like a Developer](https://dev.to/anuj_prajapati_/how-to-break-problems-into-steps-like-a-developer-8f0)
-- [Golang Concurrency: From &quot;Hello World&quot; to Worker Pools](https://dev.to/mmurtuzah/golang-concurrency-from-hello-world-to-worker-pools-19n6)
-- [How Will the Next Federal Reserve Chair Shape the U.S. Cryptocurrency Regulatory Landscape?](https://dev.to/apnews/how-will-the-next-federal-reserve-chair-shape-the-us-cryptocurrency-regulatory-landscape-2pa0)
+- [The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate and connecting it to AWS AgentCore Gateway](https://dev.to/kintur_kt/the-complete-guide-deploying-a-dockerized-mcp-server-to-aws-ecs-fargate-and-connecting-it-to-aws-fo7)
+- [How to Actually Build an Algorithmic Trading System That Works](https://dev.to/nampt/how-to-actually-build-an-algorithmic-trading-system-that-works-16k7)
+- [Building in Public: CV Analyzer - Act 4 · Scene 2 : Stabilizing the Frontend Contract](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-2-stabilizing-the-frontend-contract-dnd)
+- [Why Your Engineering Wiki is a Graveyard &lpar;And How to Fix It&rpar;](https://dev.to/kislay/why-your-engineering-wiki-is-a-graveyard-and-how-to-fix-it-2eme)
 <!-- BLOG-POST-LIST:END -->
 
