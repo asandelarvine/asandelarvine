@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Paper to Production: Building Radiimed for Dentists in Botswana](https://dev.to/radtech21/from-paper-to-production-building-radiimed-for-dentists-in-botswana-1mia)
-- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
-- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
-- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
+- [Git by example - The signature you will not forget! &lpar;&quot;missing DCO signoff&quot;&rpar;](https://dev.to/aurelievache/git-by-example-the-signature-you-will-not-forget-missing-dco-signoff-a28)
+- [[Boost]](https://dev.to/cherryramatis/-59ph)
+- [Why an AWS Architect Built Azure Powers for Kiro &lpar;And What I Learned&rpar;](https://dev.to/aws-builders/why-an-aws-architect-built-azure-powers-for-kiro-and-what-i-learned-2dg4)
+- [Exploring the SoftMax Function: The Better Way to Interpret Neural Network Outputs](https://dev.to/rijultp/exploring-the-softmax-function-the-better-way-to-interpret-neural-network-outputs-5p8)
 <!-- BLOG-POST-LIST:END -->
 
