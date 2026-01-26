@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Excessive API Calls in React Search with Debouncing](https://dev.to/ar_abid_bcfb3a80671e2a134/how-to-prevent-excessive-api-calls-in-react-search-with-debouncing-1mj2)
-- [Skills, Not Vibes: Teaching AI Agents to Write Clean Code](https://dev.to/gde/skills-not-vibes-teaching-ai-agents-to-write-clean-code-3l9e)
-- [Why Hyperparameter Tuning Sometimes Does Nothing &lpar;And What Actually Moves the Needle&rpar;](https://dev.to/aiwithapex/why-hyperparameter-tuning-sometimes-does-nothing-and-what-actually-moves-the-needle-18fl)
-- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
+- [What PVS-Studio unicorn looked like in 2016](https://dev.to/pvsdev/what-pvs-studio-unicorn-looked-like-in-2016-58bf)
+- [🔥 Contract Testing: the bug that passes CI and breaks production](https://dev.to/patrickbastosdeveloper/contract-testing-the-bug-that-passes-ci-and-breaks-production-532l)
+- [Linux - The &#39;df -h&#39; Command](https://dev.to/ben-santora/linux-how-to-interpret-the-output-of-the-df-h-command-4gg9)
+- [Build Production-ready AI Agents with AWS Bedrock &amp; Agentcore](https://dev.to/aws-builders/build-production-ready-ai-agents-with-aws-bedrock-agentcore-13kk)
 <!-- BLOG-POST-LIST:END -->
 
