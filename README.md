@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
-- [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
-- [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
-- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
+- [Why You Don&#39;t Have to Restart Your PC Anymore: A Kernel Perspective](https://dev.to/benes/why-you-dont-have-to-restart-your-pc-anymore-a-kernel-perspective-59bd)
+- [Autopilot - La Pesadilla de las APIs: Cómo vencí a la burocracia de LinkedIn para automatizar mi empresa](https://dev.to/datalaria/autopilot-la-pesadilla-de-las-apis-como-venci-a-la-burocracia-de-linkedin-para-automatizar-mi-1dfj)
+- [# 🪦 RIP CocoaPods &lpar;2011-2026&rpar;: What Every iOS Developer Must Do NOW](https://dev.to/diskcleankit/-rip-cocoapods-2011-2026-what-every-ios-developer-must-do-now-5eed)
+- [You Don&#39;t Need a Mac Mini to Run Clawdbot - Here&#39;s How to Run It Anywhere](https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l)
 <!-- BLOG-POST-LIST:END -->
 
