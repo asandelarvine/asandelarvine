@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
-- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
-- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
-- [Multi-Agent Communication Patterns That Actually Work](https://dev.to/aureus_c_b3ba7f87cc34d74d49/multi-agent-communication-patterns-that-actually-work-50kp)
+- [File Permission on unix Systems](https://dev.to/matscode/file-permission-on-unix-systems-3ck3)
+- [Senior Developer&#39;s Secret: AI-Driven Iteration with VSCode, Cline &amp; Playwright](https://dev.to/gioboa/senior-developers-secret-ai-driven-iteration-with-vscode-cline-playwright-38ee)
+- [Stop Managing Encryption Keys: Vault-as-a-Service in 5 Minutes](https://dev.to/aairom/stop-managing-encryption-keys-vault-as-a-service-in-5-minutes-1cg0)
+- [Reverse Engineering as a Debugging Mindset](https://dev.to/volt1480/reverse-engineering-as-a-debugging-mindset-1b88)
 <!-- BLOG-POST-LIST:END -->
 
