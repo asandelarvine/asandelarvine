@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate and connecting it to AWS AgentCore Gateway](https://dev.to/kintur_kt/the-complete-guide-deploying-a-dockerized-mcp-server-to-aws-ecs-fargate-and-connecting-it-to-aws-fo7)
-- [How to Actually Build an Algorithmic Trading System That Works](https://dev.to/nampt/how-to-actually-build-an-algorithmic-trading-system-that-works-16k7)
-- [Building in Public: CV Analyzer - Act 4 · Scene 2 : Stabilizing the Frontend Contract](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-2-stabilizing-the-frontend-contract-dnd)
-- [Why Your Engineering Wiki is a Graveyard &lpar;And How to Fix It&rpar;](https://dev.to/kislay/why-your-engineering-wiki-is-a-graveyard-and-how-to-fix-it-2eme)
+- [AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
+- [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
+- [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
+- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
 <!-- BLOG-POST-LIST:END -->
 
