@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [File Permission on unix Systems](https://dev.to/matscode/file-permission-on-unix-systems-3ck3)
-- [Senior Developer&#39;s Secret: AI-Driven Iteration with VSCode, Cline &amp; Playwright](https://dev.to/gioboa/senior-developers-secret-ai-driven-iteration-with-vscode-cline-playwright-38ee)
-- [Stop Managing Encryption Keys: Vault-as-a-Service in 5 Minutes](https://dev.to/aairom/stop-managing-encryption-keys-vault-as-a-service-in-5-minutes-1cg0)
-- [Reverse Engineering as a Debugging Mindset](https://dev.to/volt1480/reverse-engineering-as-a-debugging-mindset-1b88)
+- [More than Maps](https://dev.to/dungeoncrawlsoft/more-than-maps-1f25)
+- [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
+- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
+- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
 <!-- BLOG-POST-LIST:END -->
 
