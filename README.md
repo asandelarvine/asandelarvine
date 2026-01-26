@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [i need some honest reviews on my website please = gokame.com](https://dev.to/moki00/i-need-some-honest-reviews-on-my-website-please-gokamecom-2m1)
-- [Ctrl+R: Stop Retyping That Perfect Prompt You Wrote Last Week](https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae)
-- [DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164)
-- [I built the CMS I always wanted for my personal sites](https://dev.to/adamgreenough/i-built-the-cms-i-always-wanted-for-my-personal-sites-2ek8)
+- [From Paper to Production: Building Radiimed for Dentists in Botswana](https://dev.to/radtech21/from-paper-to-production-building-radiimed-for-dentists-in-botswana-1mia)
+- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
+- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
+- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
 <!-- BLOG-POST-LIST:END -->
 
