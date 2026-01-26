@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regular Functions vs Arrow Functions in JavaScript](https://dev.to/miasalazar/regular-functions-vs-arrow-functions-in-javascript-528n)
-- [How to build a captive portal in ESP32 with MicroPython](https://dev.to/devasservice/how-to-build-a-captive-portal-in-esp32-with-micropython-2dc1)
-- [Will React Compiler Make Manual Memoization Obsolete? — Things to Know Before Adopting It](https://dev.to/usapopopooon/will-react-compiler-make-manual-memoization-obsolete-things-to-know-before-adopting-it-4ie9)
-- [Agent Evolver: The Darwin of AI Agents](https://dev.to/koushik_sen_d549bf321e6fb/agent-evolver-the-darwin-of-ai-agents-4iio)
+- [Transaction Decoding on Ethereum &lpar;EVM blockchains &rpar; vs Solana: A Technical Perspective](https://dev.to/decoder_man/transaction-decoding-on-ethereum-evm-blockchains-vs-solana-a-technical-perspective-4kja)
+- [WebMCP: Making the Web AI-Agent Ready](https://dev.to/sunny7899/webmcp-making-the-web-ai-agent-ready-5152)
+- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
+- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
 <!-- BLOG-POST-LIST:END -->
 
