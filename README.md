@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rekall — A Context Recovery CLI That Uses GitHub Copilot as Its AI Brain](https://dev.to/jasmin/rekall-a-context-recovery-cli-that-uses-github-copilot-as-its-ai-brain-5bm)
-- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
-- [🚨 Saga EVM Exploit – $7M Minted from Thin Air 🚨](https://dev.to/mazechain/saga-evm-exploit-7m-minted-from-thin-air-57f9)
-- [From Slow Aggregations to Instant Queries: Optimizing Push Notification History with Summary Tables](https://dev.to/sangwoo_rhie/from-slow-aggregations-to-instant-queries-optimizing-push-notification-history-with-summary-tables-5c8n)
+- [i need some honest reviews on my website please = gokame.com](https://dev.to/moki00/i-need-some-honest-reviews-on-my-website-please-gokamecom-2m1)
+- [Ctrl+R: Stop Retyping That Perfect Prompt You Wrote Last Week](https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae)
+- [DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164)
+- [I built the CMS I always wanted for my personal sites](https://dev.to/adamgreenough/i-built-the-cms-i-always-wanted-for-my-personal-sites-2ek8)
 <!-- BLOG-POST-LIST:END -->
 
