@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Decoding on Ethereum &lpar;EVM blockchains &rpar; vs Solana: A Technical Perspective](https://dev.to/decoder_man/transaction-decoding-on-ethereum-evm-blockchains-vs-solana-a-technical-perspective-4kja)
-- [WebMCP: Making the Web AI-Agent Ready](https://dev.to/sunny7899/webmcp-making-the-web-ai-agent-ready-5152)
-- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
-- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
+- [Software Testing Trends in DevOps: How QA Is Evolving with Speed](https://dev.to/aio_tests_903984883a574e9/software-testing-trends-in-devops-how-qa-is-evolving-with-speed-25fj)
+- [Engineering Log: LL-309: Iron Condor Optimal Control Rese &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-309-iron-condor-optimal-control-rese-2-more-36g8)
+- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
+- [Ecommerce Website Templates That Turn Visitors Into Customers](https://dev.to/isabella_martin_d66456d74/ecommerce-website-templates-that-turn-visitors-into-customers-16fm)
 <!-- BLOG-POST-LIST:END -->
 
