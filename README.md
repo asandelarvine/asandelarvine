@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing Trends in DevOps: How QA Is Evolving with Speed](https://dev.to/aio_tests_903984883a574e9/software-testing-trends-in-devops-how-qa-is-evolving-with-speed-25fj)
-- [Engineering Log: LL-309: Iron Condor Optimal Control Rese &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-309-iron-condor-optimal-control-rese-2-more-36g8)
-- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
-- [Ecommerce Website Templates That Turn Visitors Into Customers](https://dev.to/isabella_martin_d66456d74/ecommerce-website-templates-that-turn-visitors-into-customers-16fm)
+- [How to Prevent Excessive API Calls in React Search with Debouncing](https://dev.to/ar_abid_bcfb3a80671e2a134/how-to-prevent-excessive-api-calls-in-react-search-with-debouncing-1mj2)
+- [Skills, Not Vibes: Teaching AI Agents to Write Clean Code](https://dev.to/gde/skills-not-vibes-teaching-ai-agents-to-write-clean-code-3l9e)
+- [Why Hyperparameter Tuning Sometimes Does Nothing &lpar;And What Actually Moves the Needle&rpar;](https://dev.to/aiwithapex/why-hyperparameter-tuning-sometimes-does-nothing-and-what-actually-moves-the-needle-18fl)
+- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
 <!-- BLOG-POST-LIST:END -->
 
