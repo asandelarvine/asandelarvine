@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Memory-First AI Reminder Agents with Mem0 and Claude Agent SDK](https://dev.to/mem0/building-memory-first-ai-reminder-agents-with-mem0-and-claude-agent-sdk-3380)
-- [A Universal FPGA Compiler that Understands 42 Programming Languages](https://dev.to/serverlesskiy/a-universal-fpga-compiler-that-understands-42-programming-languages-l79)
-- [Automating Unity Builds for Meta Quest](https://dev.to/virtualmaker/automating-unity-builds-for-meta-quest-2lpf)
-- [Introduction to Linux for Data Engineers](https://dev.to/lawrence_murithi/introduction-to-linux-for-data-engineers-29jn)
+- [Rekall — A Context Recovery CLI That Uses GitHub Copilot as Its AI Brain](https://dev.to/jasmin/rekall-a-context-recovery-cli-that-uses-github-copilot-as-its-ai-brain-5bm)
+- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
+- [🚨 Saga EVM Exploit – $7M Minted from Thin Air 🚨](https://dev.to/mazechain/saga-evm-exploit-7m-minted-from-thin-air-57f9)
+- [From Slow Aggregations to Instant Queries: Optimizing Push Notification History with Summary Tables](https://dev.to/sangwoo_rhie/from-slow-aggregations-to-instant-queries-optimizing-push-notification-history-with-summary-tables-5c8n)
 <!-- BLOG-POST-LIST:END -->
 
