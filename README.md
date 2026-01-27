@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How The Tribune Modernized Its Digital Publishing with a Headless CMS](https://dev.to/poojamehta88/how-the-tribune-modernized-its-digital-publishing-with-a-headless-cms-51hi)
-- [An “n8n for DevOps” Control Plane - Superplane](https://dev.to/superplane/an-n8n-for-devops-control-plane-superplane-54i4)
-- [How to Choose the Right Anti-Bot + WAF Combination for an E-Commerce Site](https://dev.to/arina_cholee/how-to-choose-the-right-anti-bot-waf-combination-for-an-e-commerce-site-cd5)
-- [Beyond the dashboard: Decoding the APM, RUM, and DEM trinity](https://dev.to/manageengineapm/beyond-the-dashboard-decoding-the-apm-rum-and-dem-trinity-3539)
+- [High Performance, Low Cost: Building a Professional RAG Chatbot from Scratch](https://dev.to/nebuladata/high-performance-low-cost-building-a-professional-rag-chatbot-from-scratch-1a76)
+- [Parallel &amp; Concurrent Computing](https://dev.to/abhirajadhikary06/parallel-concurrent-computing-42g3)
+- [The Hitchhiker&#39;s Guide to LTS: Key changes when upgrading from Java 8 to Java 11](https://dev.to/pvsdev/the-hitchhikers-guide-to-lts-key-changes-when-upgrading-from-java-8-to-java-11-2gdp)
+- [2026 New Year Keyboard Upgrade](https://dev.to/funkyidol/2026-new-year-keyboard-upgrade-ng3)
 <!-- BLOG-POST-LIST:END -->
 
