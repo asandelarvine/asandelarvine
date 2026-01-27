@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] Acciones de &quot;Swipe&quot;](https://dev.to/david_goyes_a488f58a17a53/sui-acciones-de-swipe-d3)
-- [𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐬 𝐨𝐧 𝐀𝐖𝐒 𝐂𝐚𝐧 𝐅𝐞𝐞𝐥 𝐎𝐯𝐞𝐫𝐰𝐡𝐞𝐥𝐦𝐢𝐧𝐠 — 𝐇𝐞𝐫𝐞’𝐬 𝐚 𝐂𝐥𝐞𝐚𝐫 𝐏𝐚𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝](https://dev.to/jozcar/--43k0)
-- [Why Deploying AI Agents on AWS Is So Hard &lpar;when it shouldn&#39;t be&rpar;](https://dev.to/basilfateen/why-deploying-ai-agents-on-aws-is-so-hard-when-it-shouldnt-be-52g7)
-- [Getting started with cURL &lpar;as a beginner!!&rpar;](https://dev.to/rahul_kumarparida_6c16f5/getting-started-with-curl-as-a-beginner-1pj7)
+- [The Paradox of AI Coding: Faster Software, Slower Progress](https://dev.to/aravsanj/the-paradox-of-ai-coding-faster-software-slower-progress-2bhh)
+- [Difference Between Regular Functions and Arrow Functions](https://dev.to/raja71/difference-between-regular-functions-and-arrow-functions-4i18)
+- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
+- [Introduction to excel for beginners.](https://dev.to/jobbyjohn/introduction-to-excel-for-beginners-odd)
 <!-- BLOG-POST-LIST:END -->
 
