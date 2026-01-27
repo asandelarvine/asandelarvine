@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a Tinder-style Card Swipe in Next.js 16](https://dev.to/asterios07/how-i-built-a-tinder-style-card-swipe-in-nextjs-16-592h)
-- [Rust TUI](https://dev.to/nx2991/rust-tui-25h2)
-- [When to Scale Up a Dedicated Team: Signals to Watch](https://dev.to/alona_instandart/when-to-scale-up-a-dedicated-team-signals-to-watch-3dj9)
-- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
+- [Edge Runtime vs Node.js Runtime: When Your Serverless Functions Mysteriously Fail](https://dev.to/pockit_tools/edge-runtime-vs-nodejs-runtime-when-your-serverless-functions-mysteriously-fail-14a)
+- [Mocking External APIs in PHP &lpar;Sandbox Example&rpar;](https://dev.to/codecraft_diary_3d13677fb/mocking-external-apis-in-php-sandbox-example-5312)
+- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
+- [Observability](https://dev.to/mohan023/observability-2ne0)
 <!-- BLOG-POST-LIST:END -->
 
