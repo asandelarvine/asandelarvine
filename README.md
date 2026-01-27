@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Edge Runtime vs Node.js Runtime: When Your Serverless Functions Mysteriously Fail](https://dev.to/pockit_tools/edge-runtime-vs-nodejs-runtime-when-your-serverless-functions-mysteriously-fail-14a)
-- [Mocking External APIs in PHP &lpar;Sandbox Example&rpar;](https://dev.to/codecraft_diary_3d13677fb/mocking-external-apis-in-php-sandbox-example-5312)
-- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
-- [Observability](https://dev.to/mohan023/observability-2ne0)
+- [The Network as a Service Revolution: What Every Operator Must Prepare For](https://dev.to/telcoedgeinc/the-network-as-a-service-revolution-what-every-operator-must-prepare-for-4p19)
+- [🌊 GetWaves.io — Generate Stunning SVG Wave Backgrounds](https://dev.to/ml318097/getwavesio-generate-stunning-svg-wave-backgrounds-4afg)
+- [Governance Before Agents: A Structured Human Intelligence Portfolio for AI Systems](https://dev.to/hhi/governance-before-agents-a-structured-human-intelligence-portfolio-for-ai-systems-3f8)
+- [Analyzing the Relationship Between Wine Price, Quality, and Origin Using Data Science](https://dev.to/ougrarr/analyzing-the-relationship-between-wine-price-quality-and-origin-using-data-science-3blb)
 <!-- BLOG-POST-LIST:END -->
 
