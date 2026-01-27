@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Software Engineering: More Than Just Coding](https://dev.to/jtvanwage/ai-and-software-engineering-more-than-just-coding-19l5)
-- [Hydrosphere, Sun](https://dev.to/carolina_carner_8bb48c7d3/hydrosphere-sun-3m2l)
-- [Mencoba global forest watch API](https://dev.to/ekopriyanto/mencoba-global-forest-watch-api-3ha0)
-- [We&#39;re Creating a Knowledge Collapse and No One&#39;s Talking About It](https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d)
+- [Problem 11: Count Character Frequency](https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9)
+- [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9)
+- [BSON to JSON: The Python Way](https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9)
+- [How I Actually Use AI as a Developer &lpar;And Where It Still Breaks&rpar;](https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih)
 <!-- BLOG-POST-LIST:END -->
 
