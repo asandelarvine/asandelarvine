@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High Performance, Low Cost: Building a Professional RAG Chatbot from Scratch](https://dev.to/nebuladata/high-performance-low-cost-building-a-professional-rag-chatbot-from-scratch-1a76)
-- [Parallel &amp; Concurrent Computing](https://dev.to/abhirajadhikary06/parallel-concurrent-computing-42g3)
-- [The Hitchhiker&#39;s Guide to LTS: Key changes when upgrading from Java 8 to Java 11](https://dev.to/pvsdev/the-hitchhikers-guide-to-lts-key-changes-when-upgrading-from-java-8-to-java-11-2gdp)
-- [2026 New Year Keyboard Upgrade](https://dev.to/funkyidol/2026-new-year-keyboard-upgrade-ng3)
+- [On the Need for Neutral Maintained Minifier Metrics](https://dev.to/j9t/on-the-need-for-neutral-maintained-minifier-metrics-5715)
+- [My 7 Aspirations as a Software Engineer in 2026](https://dev.to/ravgeetdhillon/my-7-aspirations-as-a-software-engineer-in-2026-2fdb)
+- [Dark Mode Screenshots in Docusaurus &lpar;That Actually Switch&rpar;](https://dev.to/omachala/dark-mode-screenshots-in-docusaurus-that-actually-switch-1djm)
+- [How to Deploy to AWS in 2026](https://dev.to/encore/how-to-deploy-to-aws-in-2026-55bn)
 <!-- BLOG-POST-LIST:END -->
 
