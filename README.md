@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PicoServer - Lightweight Cross-Platform Web Request Glue Library](https://dev.to/ben23/picoserver-lightweight-cross-platform-web-request-glue-library-1doh)
-- [HTTP status codes](https://dev.to/bbylumi/http-status-codes-4j37)
-- [Why Neural Networks Need He Init, Clipping, and Momentum](https://dev.to/sbondaryev/why-neural-networks-need-he-init-clipping-and-momentum-4e80)
-- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
+- [Love vs Debt: Value Creation in Relationships](https://dev.to/matthew_hou_e8ab76d6be07b/love-vs-debt-value-creation-in-relationships-4pn8)
+- [[BlindSpot] Log 03. Let&#39;s follow the SOLID principles : SRP](https://dev.to/ryujm1828/blindspot-log-03-lets-follow-the-solid-principles-srp-2bh2)
+- [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
+- [Day 3 of JavaScript: Where Three Days Can Break Your Brain](https://dev.to/jazmin_m_099/day-3-of-javascript-where-three-days-can-break-your-brain-38d)
 <!-- BLOG-POST-LIST:END -->
 
