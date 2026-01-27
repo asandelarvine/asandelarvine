@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Discord Sucks for Developer Communities](https://dev.to/bdbchgg/why-discord-sucks-for-developer-communities-2fg1)
-- [The UI Design Styles Every Designer Should Know in 2026](https://dev.to/trixsec/the-ui-design-styles-every-designer-should-know-in-2026-1pmc)
-- [Powering Your App with Serverless APIs: API Gateway &amp; Lambda Integration](https://dev.to/aws-builders/powering-your-app-with-serverless-apis-api-gateway-lambda-integration-40d7)
-- [/init: Let Claude Write Its Own Onboarding Docs](https://dev.to/rajeshroyal/init-let-claude-write-its-own-onboarding-docs-1hp3)
+- [GO-SQLite@v0.2.0: SQLite client with chained method calls](https://dev.to/pardnchiu/go-sqlitev020-sqlite-client-with-chained-method-calls-4ipn)
+- [My Portfolio — Built with Antigravity, Gemini CLI and Google Cloud Run](https://dev.to/prayag09/my-portfolio-built-with-gemini-google-cloud-run-3ggg)
+- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
+- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
 <!-- BLOG-POST-LIST:END -->
 
