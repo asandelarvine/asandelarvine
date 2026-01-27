@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Hosting Reviews No Longer Explain Anything](https://dev.to/k_hohlov/why-most-hosting-reviews-no-longer-explain-anything-41ie)
-- [In 2026, the biggest shift in developer workflows won’t be about tools. It will be about where effort is spent.](https://dev.to/jaideepparashar/in-2026-the-biggest-shift-in-developer-workflows-wont-be-about-tools-it-will-be-about-where-3m9m)
-- [Workflow for Developers in 2026: Coding Less, Thinking More](https://dev.to/jaideepparashar/workflow-for-developers-in-2026-coding-less-thinking-more-1i9o)
-- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
+- [How to Use Claude.ai&#39;s Research Toggle Inside Claude Code](https://dev.to/bhaidar/how-to-use-claudeais-research-toggle-inside-claude-code-469d)
+- [Building a Product Hunt Like Threaded Comments with Real-Time Collaboration 🔥](https://dev.to/astrodevil/building-a-product-hunt-like-threaded-comments-with-real-time-collaboration-5gd6)
+- [Top Free AI Tools for Data Analysis](https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con)
+- [How to read data when an HTTP request returns a JSON file and dataL2 access is successful?](https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl)
 <!-- BLOG-POST-LIST:END -->
 
