@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Ultimate Local-First Privacy Suite with Rust &amp; Tauri v2](https://dev.to/powergr/building-the-ultimate-local-first-privacy-suite-with-rust-tauri-v2-2eam)
-- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
-- [I Built an AI Spam Blocker App as an Indie Developer &lpar;NoSpamPro&rpar;](https://dev.to/huseyinsari/i-built-an-ai-spam-blocker-app-as-an-indie-developer-nospampro-2599)
-- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-3kn2)
+- [ℹ️ INFO Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ralph-proactive-scan-findings-2-more-1ic9)
+- [CVE-2025-59471: Next.js Image Optimizer: The 4GB Hello World](https://dev.to/cverports/cve-2025-59471-nextjs-image-optimizer-the-4gb-hello-world-5c09)
+- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-12ki)
 <!-- BLOG-POST-LIST:END -->
 
