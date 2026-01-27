@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-3kn2)
-- [ℹ️ INFO Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ralph-proactive-scan-findings-2-more-1ic9)
-- [CVE-2025-59471: Next.js Image Optimizer: The 4GB Hello World](https://dev.to/cverports/cve-2025-59471-nextjs-image-optimizer-the-4gb-hello-world-5c09)
-- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-12ki)
+- [PicoServer - Lightweight Cross-Platform Web Request Glue Library](https://dev.to/ben23/picoserver-lightweight-cross-platform-web-request-glue-library-1doh)
+- [HTTP status codes](https://dev.to/bbylumi/http-status-codes-4j37)
+- [Why Neural Networks Need He Init, Clipping, and Momentum](https://dev.to/sbondaryev/why-neural-networks-need-he-init-clipping-and-momentum-4e80)
+- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
 <!-- BLOG-POST-LIST:END -->
 
