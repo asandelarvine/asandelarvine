@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Need for Neutral Maintained Minifier Metrics](https://dev.to/j9t/on-the-need-for-neutral-maintained-minifier-metrics-5715)
-- [My 7 Aspirations as a Software Engineer in 2026](https://dev.to/ravgeetdhillon/my-7-aspirations-as-a-software-engineer-in-2026-2fdb)
-- [Dark Mode Screenshots in Docusaurus &lpar;That Actually Switch&rpar;](https://dev.to/omachala/dark-mode-screenshots-in-docusaurus-that-actually-switch-1djm)
-- [How to Deploy to AWS in 2026](https://dev.to/encore/how-to-deploy-to-aws-in-2026-55bn)
+- [Ask-Shell: I built an AI agent that completes multi-step terminal tasks autonomously](https://dev.to/_cc2e072869b5ab5f7f0b9/ask-shell-i-built-an-ai-agent-that-completes-multi-step-terminal-tasks-autonomously-18a3)
+- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
+- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
+- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
 <!-- BLOG-POST-LIST:END -->
 
