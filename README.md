@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Refused to Pay Auth0 $96,000/Year &lpar;And Built My Own Auth Instead&rpar;](https://dev.to/kohsin/why-i-refused-to-pay-auth0-96000year-and-built-my-own-auth-instead-3nn4)
-- [2025 in Review: AI Agents, Automation, and a Year of Building](https://dev.to/aryanirani123/2025-in-review-ai-agents-automation-and-a-year-of-building-3nc3)
-- [Beyond the Cluster: Rethinking Your Kubernetes Platform Strategy](https://dev.to/mhmxs/beyond-the-cluster-rethinking-your-kubernetes-platform-strategy-54lm)
-- [How to Build Custom Automation Workflows with GPT and n8n &lpar;Step-by-Step&rpar;](https://dev.to/ciphernutz/how-to-build-custom-automation-workflows-with-gpt-and-n8n-step-by-step-397e)
+- [How I built a Tinder-style Card Swipe in Next.js 16](https://dev.to/asterios07/how-i-built-a-tinder-style-card-swipe-in-nextjs-16-592h)
+- [Rust TUI](https://dev.to/nx2991/rust-tui-25h2)
+- [When to Scale Up a Dedicated Team: Signals to Watch](https://dev.to/alona_instandart/when-to-scale-up-a-dedicated-team-signals-to-watch-3dj9)
+- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
 <!-- BLOG-POST-LIST:END -->
 
