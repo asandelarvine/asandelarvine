@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask-Shell: I built an AI agent that completes multi-step terminal tasks autonomously](https://dev.to/_cc2e072869b5ab5f7f0b9/ask-shell-i-built-an-ai-agent-that-completes-multi-step-terminal-tasks-autonomously-18a3)
-- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
-- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
-- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
+- [Why I Refused to Pay Auth0 $96,000/Year &lpar;And Built My Own Auth Instead&rpar;](https://dev.to/kohsin/why-i-refused-to-pay-auth0-96000year-and-built-my-own-auth-instead-3nn4)
+- [2025 in Review: AI Agents, Automation, and a Year of Building](https://dev.to/aryanirani123/2025-in-review-ai-agents-automation-and-a-year-of-building-3nc3)
+- [Beyond the Cluster: Rethinking Your Kubernetes Platform Strategy](https://dev.to/mhmxs/beyond-the-cluster-rethinking-your-kubernetes-platform-strategy-54lm)
+- [How to Build Custom Automation Workflows with GPT and n8n &lpar;Step-by-Step&rpar;](https://dev.to/ciphernutz/how-to-build-custom-automation-workflows-with-gpt-and-n8n-step-by-step-397e)
 <!-- BLOG-POST-LIST:END -->
 
