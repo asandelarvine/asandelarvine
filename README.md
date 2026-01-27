@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Paradox of AI Coding: Faster Software, Slower Progress](https://dev.to/aravsanj/the-paradox-of-ai-coding-faster-software-slower-progress-2bhh)
-- [Difference Between Regular Functions and Arrow Functions](https://dev.to/raja71/difference-between-regular-functions-and-arrow-functions-4i18)
-- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
-- [Introduction to excel for beginners.](https://dev.to/jobbyjohn/introduction-to-excel-for-beginners-odd)
+- [Why Discord Sucks for Developer Communities](https://dev.to/bdbchgg/why-discord-sucks-for-developer-communities-2fg1)
+- [The UI Design Styles Every Designer Should Know in 2026](https://dev.to/trixsec/the-ui-design-styles-every-designer-should-know-in-2026-1pmc)
+- [Powering Your App with Serverless APIs: API Gateway &amp; Lambda Integration](https://dev.to/aws-builders/powering-your-app-with-serverless-apis-api-gateway-lambda-integration-40d7)
+- [/init: Let Claude Write Its Own Onboarding Docs](https://dev.to/rajeshroyal/init-let-claude-write-its-own-onboarding-docs-1hp3)
 <!-- BLOG-POST-LIST:END -->
 
