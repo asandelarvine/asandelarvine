@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducción a Linux](https://dev.to/fedrummond_/introduccion-a-linux-2c8c)
-- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
-- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
-- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
+- [AI and Software Engineering: More Than Just Coding](https://dev.to/jtvanwage/ai-and-software-engineering-more-than-just-coding-19l5)
+- [Hydrosphere, Sun](https://dev.to/carolina_carner_8bb48c7d3/hydrosphere-sun-3m2l)
+- [Mencoba global forest watch API](https://dev.to/ekopriyanto/mencoba-global-forest-watch-api-3ha0)
+- [We&#39;re Creating a Knowledge Collapse and No One&#39;s Talking About It](https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d)
 <!-- BLOG-POST-LIST:END -->
 
