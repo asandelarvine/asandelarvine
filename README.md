@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claude.ai&#39;s Research Toggle Inside Claude Code](https://dev.to/bhaidar/how-to-use-claudeais-research-toggle-inside-claude-code-469d)
-- [Building a Product Hunt Like Threaded Comments with Real-Time Collaboration 🔥](https://dev.to/astrodevil/building-a-product-hunt-like-threaded-comments-with-real-time-collaboration-5gd6)
-- [Top Free AI Tools for Data Analysis](https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con)
-- [How to read data when an HTTP request returns a JSON file and dataL2 access is successful?](https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl)
+- [How The Tribune Modernized Its Digital Publishing with a Headless CMS](https://dev.to/poojamehta88/how-the-tribune-modernized-its-digital-publishing-with-a-headless-cms-51hi)
+- [An “n8n for DevOps” Control Plane - Superplane](https://dev.to/superplane/an-n8n-for-devops-control-plane-superplane-54i4)
+- [How to Choose the Right Anti-Bot + WAF Combination for an E-Commerce Site](https://dev.to/arina_cholee/how-to-choose-the-right-anti-bot-waf-combination-for-an-e-commerce-site-cd5)
+- [Beyond the dashboard: Decoding the APM, RUM, and DEM trinity](https://dev.to/manageengineapm/beyond-the-dashboard-decoding-the-apm-rum-and-dem-trinity-3539)
 <!-- BLOG-POST-LIST:END -->
 
