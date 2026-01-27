@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GO-SQLite@v0.2.0: SQLite client with chained method calls](https://dev.to/pardnchiu/go-sqlitev020-sqlite-client-with-chained-method-calls-4ipn)
-- [My Portfolio — Built with Antigravity, Gemini CLI and Google Cloud Run](https://dev.to/prayag09/my-portfolio-built-with-gemini-google-cloud-run-3ggg)
-- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
-- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
+- [Building the Ultimate Local-First Privacy Suite with Rust &amp; Tauri v2](https://dev.to/powergr/building-the-ultimate-local-first-privacy-suite-with-rust-tauri-v2-2eam)
+- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
+- [I Built an AI Spam Blocker App as an Indie Developer &lpar;NoSpamPro&rpar;](https://dev.to/huseyinsari/i-built-an-ai-spam-blocker-app-as-an-indie-developer-nospampro-2599)
+- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
 <!-- BLOG-POST-LIST:END -->
 
