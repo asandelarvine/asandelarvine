@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Teach LLMs to Play BattleTech &lpar;Part 2&rpar;: Building an MCP Server and Agents in C#](https://dev.to/antonmakarevich/how-i-teach-llms-to-play-battletech-part-2-building-an-mcp-server-and-agents-in-c-e86)
-- [Building AI-native backends – RAG pipelines, function calling, prompt versioning, LLM observability](https://dev.to/sepehr/building-ai-native-backends-rag-pipelines-function-calling-prompt-versioning-llm-observability-kkg)
-- [You Don&#39;t Need to Move to San Francisco to Earn 6 Figures. You Need to Change Your Strategy.](https://dev.to/resumemind/you-dont-need-to-move-to-san-francisco-to-earn-6-figures-you-need-to-change-your-strategy-2o1b)
-- [Building a Production-Ready AWS Security Vulnerability Scanner: A Technical Deep Dive](https://dev.to/debapriya_dey_aada54b7766/building-a-production-ready-aws-security-vulnerability-scanner-a-technical-deep-dive-1m33)
+- [DNS record for newbies](https://dev.to/ppc/dns-record-for-newbies-2pgm)
+- [From Prompt to Production: Mastering Rules, Skills, and Subagents in Cursor](https://dev.to/mkomeyl94/from-prompt-to-production-mastering-rules-skills-and-subagents-in-cursor-47m4)
+- [5 Kotlin Courses That Help You Build Portfolio-Worthy Projects](https://dev.to/hyperskill_academy/5-kotlin-courses-that-help-you-build-portfolio-worthy-projects-3kfc)
+- [Integrando Sentry com .NET](https://dev.to/daniloopinheiro/integrando-sentry-com-net-2pl1)
 <!-- BLOG-POST-LIST:END -->
 
