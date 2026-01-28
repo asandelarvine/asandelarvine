@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Love vs Debt: Value Creation in Relationships](https://dev.to/matthew_hou_e8ab76d6be07b/love-vs-debt-value-creation-in-relationships-4pn8)
-- [[BlindSpot] Log 03. Let&#39;s follow the SOLID principles : SRP](https://dev.to/ryujm1828/blindspot-log-03-lets-follow-the-solid-principles-srp-2bh2)
-- [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
-- [Day 3 of JavaScript: Where Three Days Can Break Your Brain](https://dev.to/jazmin_m_099/day-3-of-javascript-where-three-days-can-break-your-brain-38d)
+- [AI Trading Arena: Real-time Multi-Model Competition for Optimal Execution](https://dev.to/quant001/ai-trading-arena-real-time-multi-model-competition-for-optimal-execution-1n6m)
+- [Proving What AI Didn&#39;t Generate: Building Cryptographic Refusal Logs with CAP-SRP](https://dev.to/veritaschain/proving-what-ai-didnt-generate-building-cryptographic-refusal-logs-with-cap-srp-2p51)
+- [🛑 Stop Managing Skills Manually Across 5 AI Tools. Use This Instead. 🚀](https://dev.to/dongtran/stop-managing-skills-manually-across-5-ai-tools-use-this-instead-22jc)
+- [I Built a &#39;Fourth Clover&#39; for Writers: A Minimalist Next.js Blogging Platform 🍀](https://dev.to/member_e6319a44/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja)
 <!-- BLOG-POST-LIST:END -->
 
