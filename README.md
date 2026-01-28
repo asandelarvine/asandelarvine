@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running AEM Without Losing Your Mind: A Practical Local &amp; AWS EC2 Setup Guide](https://dev.to/vishnu_rachapudi_75e73248/running-aem-without-losing-your-mind-a-practical-local-aws-ec2-setup-guide-jej)
-- [Self-Hosted AI Assistant: Complete Moltbot Installation Guide for Docker](https://dev.to/1richter/self-hosted-ai-assistant-complete-moltbot-installation-guide-for-docker-558a)
-- [How to Run LLMs Offline on Android Using Kotlin](https://dev.to/ferranpons/how-to-run-llms-offline-on-android-using-kotlin-407g)
-- [Two Nights, One Tutorial: The Hard Work Behind Sharing Knowledge](https://dev.to/gudong/two-nights-one-tutorial-the-hard-work-behind-sharing-knowledge-59cm)
+- [7 Code Snippets That Save 10+ Hours on Every Project](https://dev.to/hiren_thakore_026e8be2a76/7-code-snippets-that-save-10-hours-on-every-project-43k2)
+- [Contains Duplicate II](https://dev.to/nithya_dharshiniofficial/contains-duplicate-ii-28lh)
+- [Deploying a React Application to AWS: Implementing a Production-Ready CI/CD Pipeline with Terraform](https://dev.to/coder7475/deploying-a-react-application-to-aws-implementing-a-production-ready-cicd-pipeline-with-terraform-4d15)
+- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
 <!-- BLOG-POST-LIST:END -->
 
