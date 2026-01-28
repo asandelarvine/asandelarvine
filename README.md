@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading Arena: Real-time Multi-Model Competition for Optimal Execution](https://dev.to/quant001/ai-trading-arena-real-time-multi-model-competition-for-optimal-execution-1n6m)
-- [Proving What AI Didn&#39;t Generate: Building Cryptographic Refusal Logs with CAP-SRP](https://dev.to/veritaschain/proving-what-ai-didnt-generate-building-cryptographic-refusal-logs-with-cap-srp-2p51)
-- [🛑 Stop Managing Skills Manually Across 5 AI Tools. Use This Instead. 🚀](https://dev.to/dongtran/stop-managing-skills-manually-across-5-ai-tools-use-this-instead-22jc)
-- [I Built a &#39;Fourth Clover&#39; for Writers: A Minimalist Next.js Blogging Platform 🍀](https://dev.to/member_e6319a44/i-built-a-fourth-clover-for-writers-a-minimalist-nextjs-blogging-platform-oja)
+- [From Markdown to PDF](https://dev.to/anacunha/from-markdown-to-pdf-29io)
+- [Why Tech Careers Feel So Emotionally Heavy Now](https://dev.to/coderom/why-tech-careers-feel-so-emotionally-heavy-now-3dig)
+- [Beyond Backups: Building Verifiable Cloud Recovery on IBM Cloud](https://dev.to/thej_deep_457/beyond-backups-building-verifiable-cloud-recovery-on-ibm-cloud-4g3l)
+- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-2fmh)
 <!-- BLOG-POST-LIST:END -->
 
