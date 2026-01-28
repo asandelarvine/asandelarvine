@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [With Bitrise slashing their retention period for artifacts again, Buildstash is an alternative for unlimited retention](https://dev.to/r0bbie/with-bitrise-slashing-their-retention-period-for-artifacts-again-is-buildstash-the-alternative-47hg)
-- [Clean Code: Otimizando a Comparação de Listas no C#](https://dev.to/sk9g3/clean-code-otimizando-a-comparacao-de-listas-no-c-5721)
-- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
-- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
+- [Building Connected Agents with MCP and A2A](https://dev.to/googleai/building-connected-agents-with-mcp-and-a2a-47b6)
+- [Stop Parsing JSON: The Vercel AI SDK’s &quot;AI Protocol&quot; is Revolutionizing Generative UI](https://dev.to/programmingcentral/stop-parsing-json-the-vercel-ai-sdks-ai-protocol-is-revolutionizing-generative-ui-40k1)
+- [Understanding HTML Tags and Elements](https://dev.to/priyanshu_verma/understanding-html-tags-and-elements-4dip)
+- [Claude Code Tutorial for Beginners 2026: From Installation to Building Your First Project](https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma)
 <!-- BLOG-POST-LIST:END -->
 
