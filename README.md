@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Code Snippets That Save 10+ Hours on Every Project](https://dev.to/hiren_thakore_026e8be2a76/7-code-snippets-that-save-10-hours-on-every-project-43k2)
-- [Contains Duplicate II](https://dev.to/nithya_dharshiniofficial/contains-duplicate-ii-28lh)
-- [Deploying a React Application to AWS: Implementing a Production-Ready CI/CD Pipeline with Terraform](https://dev.to/coder7475/deploying-a-react-application-to-aws-implementing-a-production-ready-cicd-pipeline-with-terraform-4d15)
-- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
+- [A Procedurally Generated GitHub CLI Roguelike Where Every Dungeon Is Built from Your Code](https://dev.to/leereilly/a-procedurally-generated-github-cli-roguelike-where-every-dungeon-is-built-from-your-code-1ef)
+- [Visualizing Real-Time-Ish GitHub Activity on a Rotating ASCII Globe in the Terminal](https://dev.to/leereilly/visualizing-real-time-ish-github-activity-on-a-rotating-ascii-globe-in-the-terminal-ana)
+- [GitHub Changelog, Now in Your Terminal &lpar;Built with Copilot CLI&rpar;](https://dev.to/leereilly/github-changelog-now-in-your-terminal-built-with-copilot-cli-4fn7)
+- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
 <!-- BLOG-POST-LIST:END -->
 
