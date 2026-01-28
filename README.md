@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Era of Agents: MCP &amp; Mariner Automation](https://dev.to/dr_hernani_costa/api-era-of-agents-mcp-mariner-automation-13l4)
-- [threejs-gsap-lenis_3d-tunnel-vision-effect_final-colour&lpar;psicodelic&rpar;](https://dev.to/delafuentej/threejs-gsap-lenis3d-tunnel-vision-effectfinal-colourpsicodelic-4nko)
-- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
-- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
+- [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
+- [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
+- [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
+- [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
 <!-- BLOG-POST-LIST:END -->
 
