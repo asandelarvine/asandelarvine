@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Resources to Master Object-Oriented Programming &lpar;OOP&rpar; in 2026](https://dev.to/stack_overflowed/7-best-resources-to-master-object-oriented-programming-oop-in-2026-2fm9)
-- [Web component content is too long, how to handle the inability to scroll and link the content at the bottom?](https://dev.to/harmonyos/web-component-content-is-too-long-how-to-handle-the-inability-to-scroll-and-link-the-content-at-48en)
-- [Why Everyone Is Obsessed With Gasket-Mounted Keyboards Right Now](https://dev.to/mysticcoder/why-everyone-is-obsessed-with-gasket-mounted-keyboards-right-now-4m07)
-- [Gamifying Trust: Building a 6-Level Reputation System for P2P Marketplaces](https://dev.to/revolvotech/gamifying-trust-building-a-6-level-reputation-system-for-p2p-marketplaces-332i)
+- [API Era of Agents: MCP &amp; Mariner Automation](https://dev.to/dr_hernani_costa/api-era-of-agents-mcp-mariner-automation-13l4)
+- [threejs-gsap-lenis_3d-tunnel-vision-effect_final-colour&lpar;psicodelic&rpar;](https://dev.to/delafuentej/threejs-gsap-lenis3d-tunnel-vision-effectfinal-colourpsicodelic-4nko)
+- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
+- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
 <!-- BLOG-POST-LIST:END -->
 
