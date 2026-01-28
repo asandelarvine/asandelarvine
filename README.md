@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/quant001/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1a59)
-- [SmartKNN v2.2: Improving Scalability, Correctness, and Training Speed](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v22-improving-scalability-correctness-and-training-speed-167e)
-- [The Secret Life of Go: Interfaces in Practice](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-interfaces-in-practice-50k4)
-- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_8d61e16fb1/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-a24)
+- [Tracking Video Progress with Bitmaps](https://dev.to/cobel1024/tracking-video-progress-with-bitmaps-452g)
+- [Autopilot - Final: De Localhost a la Nube con GitHub Actions y CI/CD](https://dev.to/datalaria/autopilot-final-de-localhost-a-la-nube-con-github-actions-y-cicd-20i9)
+- [You Don’t Need a Framework for Everything](https://dev.to/wingsdesignstudio/you-dont-need-a-framework-for-everything-3on1)
+- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
 <!-- BLOG-POST-LIST:END -->
 
