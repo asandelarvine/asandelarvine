@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Markdown to PDF](https://dev.to/anacunha/from-markdown-to-pdf-29io)
-- [Why Tech Careers Feel So Emotionally Heavy Now](https://dev.to/coderom/why-tech-careers-feel-so-emotionally-heavy-now-3dig)
-- [Beyond Backups: Building Verifiable Cloud Recovery on IBM Cloud](https://dev.to/thej_deep_457/beyond-backups-building-verifiable-cloud-recovery-on-ibm-cloud-4g3l)
-- [ℹ️ INFO LL-309: Iron Condor Optimal Control &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/info-ll-309-iron-condor-optimal-control-2-more-2fmh)
+- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/quant001/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1a59)
+- [SmartKNN v2.2: Improving Scalability, Correctness, and Training Speed](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v22-improving-scalability-correctness-and-training-speed-167e)
+- [The Secret Life of Go: Interfaces in Practice](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-interfaces-in-practice-50k4)
+- [👻 The Silent Ghost: How a Single Enum Broke Our Distributed Transaction](https://dev.to/dipankar_sethi_8d61e16fb1/the-silent-ghost-how-a-single-enum-broke-our-distributed-transaction-a24)
 <!-- BLOG-POST-LIST:END -->
 
