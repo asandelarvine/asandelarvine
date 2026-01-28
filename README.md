@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Video Progress with Bitmaps](https://dev.to/cobel1024/tracking-video-progress-with-bitmaps-452g)
-- [Autopilot - Final: De Localhost a la Nube con GitHub Actions y CI/CD](https://dev.to/datalaria/autopilot-final-de-localhost-a-la-nube-con-github-actions-y-cicd-20i9)
-- [You Don’t Need a Framework for Everything](https://dev.to/wingsdesignstudio/you-dont-need-a-framework-for-everything-3on1)
-- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
+- [7 Best Resources to Master Object-Oriented Programming &lpar;OOP&rpar; in 2026](https://dev.to/stack_overflowed/7-best-resources-to-master-object-oriented-programming-oop-in-2026-2fm9)
+- [Web component content is too long, how to handle the inability to scroll and link the content at the bottom?](https://dev.to/harmonyos/web-component-content-is-too-long-how-to-handle-the-inability-to-scroll-and-link-the-content-at-48en)
+- [Why Everyone Is Obsessed With Gasket-Mounted Keyboards Right Now](https://dev.to/mysticcoder/why-everyone-is-obsessed-with-gasket-mounted-keyboards-right-now-4m07)
+- [Gamifying Trust: Building a 6-Level Reputation System for P2P Marketplaces](https://dev.to/revolvotech/gamifying-trust-building-a-6-level-reputation-system-for-p2p-marketplaces-332i)
 <!-- BLOG-POST-LIST:END -->
 
