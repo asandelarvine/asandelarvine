@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS record for newbies](https://dev.to/ppc/dns-record-for-newbies-2pgm)
-- [From Prompt to Production: Mastering Rules, Skills, and Subagents in Cursor](https://dev.to/mkomeyl94/from-prompt-to-production-mastering-rules-skills-and-subagents-in-cursor-47m4)
-- [5 Kotlin Courses That Help You Build Portfolio-Worthy Projects](https://dev.to/hyperskill_academy/5-kotlin-courses-that-help-you-build-portfolio-worthy-projects-3kfc)
-- [Integrando Sentry com .NET](https://dev.to/daniloopinheiro/integrando-sentry-com-net-2pl1)
+- [Running AEM Without Losing Your Mind: A Practical Local &amp; AWS EC2 Setup Guide](https://dev.to/vishnu_rachapudi_75e73248/running-aem-without-losing-your-mind-a-practical-local-aws-ec2-setup-guide-jej)
+- [Self-Hosted AI Assistant: Complete Moltbot Installation Guide for Docker](https://dev.to/1richter/self-hosted-ai-assistant-complete-moltbot-installation-guide-for-docker-558a)
+- [How to Run LLMs Offline on Android Using Kotlin](https://dev.to/ferranpons/how-to-run-llms-offline-on-android-using-kotlin-407g)
+- [Two Nights, One Tutorial: The Hard Work Behind Sharing Knowledge](https://dev.to/gudong/two-nights-one-tutorial-the-hard-work-behind-sharing-knowledge-59cm)
 <!-- BLOG-POST-LIST:END -->
 
