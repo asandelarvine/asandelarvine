@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Guarantees Delivery, Not Uniqueness: How to Build Idempotent Systems](https://dev.to/naresh_007/kafka-guarantees-delivery-not-uniqueness-how-to-build-idempotent-systems-1j6d)
-- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-2ffc)
-- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
-- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign)
+- [With Bitrise slashing their retention period for artifacts again, Buildstash is an alternative for unlimited retention](https://dev.to/r0bbie/with-bitrise-slashing-their-retention-period-for-artifacts-again-is-buildstash-the-alternative-47hg)
+- [Clean Code: Otimizando a Comparação de Listas no C#](https://dev.to/sk9g3/clean-code-otimizando-a-comparacao-de-listas-no-c-5721)
+- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
+- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
 <!-- BLOG-POST-LIST:END -->
 
