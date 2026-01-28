@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable To-Do App with React and Node.js: A Practical Guide](https://dev.to/deepikarajawat/how-to-build-a-scalable-to-do-app-with-react-and-nodejs-a-practical-guide-fee)
-- [Latency Is Not a Performance Problem. It Is a Design Problem.](https://dev.to/invincible/latency-is-not-a-performance-problem-it-is-a-design-problem-40ph)
-- [Building a Data Visualization and Note-Taking Web App](https://dev.to/maxixo/building-a-data-visualization-and-note-taking-web-app-4inb)
-- [Stuck in the past, can&#39;t movie forward 😢😢](https://dev.to/haddadmj/stuck-in-the-past-cant-movie-forward-357o)
+- [How I Teach LLMs to Play BattleTech &lpar;Part 2&rpar;: Building an MCP Server and Agents in C#](https://dev.to/antonmakarevich/how-i-teach-llms-to-play-battletech-part-2-building-an-mcp-server-and-agents-in-c-e86)
+- [Building AI-native backends – RAG pipelines, function calling, prompt versioning, LLM observability](https://dev.to/sepehr/building-ai-native-backends-rag-pipelines-function-calling-prompt-versioning-llm-observability-kkg)
+- [You Don&#39;t Need to Move to San Francisco to Earn 6 Figures. You Need to Change Your Strategy.](https://dev.to/resumemind/you-dont-need-to-move-to-san-francisco-to-earn-6-figures-you-need-to-change-your-strategy-2o1b)
+- [Building a Production-Ready AWS Security Vulnerability Scanner: A Technical Deep Dive](https://dev.to/debapriya_dey_aada54b7766/building-a-production-ready-aws-security-vulnerability-scanner-a-technical-deep-dive-1m33)
 <!-- BLOG-POST-LIST:END -->
 
