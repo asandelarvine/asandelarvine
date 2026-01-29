@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Embeddings: Meet the Librarian Living Inside Every AI](https://dev.to/sreeni5018/vector-embeddings-meet-the-librarian-living-inside-every-ai-5bln)
-- [Top 5 Local LLM Tools and Models in 2026](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5)
-- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
-- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
+- [Backstage SaaS &amp; Open Source Alternatives](https://dev.to/luciench/backstage-saas-open-source-alternatives-2m08)
+- [Spring Beans, Context, Spring IoC container](https://dev.to/phoenix_238501d86d417e/spring-beans-context-2ijm)
+- [Single-Channel Noise Cancellation in 2025: What’s Actually Working &lpar;and Why&rpar;](https://dev.to/namanigandhi/single-channel-noise-cancellation-in-2025-whats-actually-working-and-why-5enb)
+- [When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead](https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l)
 <!-- BLOG-POST-LIST:END -->
 
