@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Enfim, DDD - Padrões de projeto no front-end. Parte 2.](https://dev.to/layssadev/enfim-ddd-padroes-de-projeto-no-front-end-parte-2-3bbf)
-- [Git, GitHub, and EC2: A Practical Walkthrough from Local Repo to Live Deployment](https://dev.to/theodora_e6f61d02577a5f06/git-github-and-ec2-a-practical-walkthrough-from-local-repo-to-live-deployment-j7c)
-- [Old wannabe developer comes for one more try...](https://dev.to/j0kic0de/old-developer-comes-for-one-more-try-47an)
-- [AI Trading: Day 85 - 10 Lessons Learned &lpar;January 21, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-85-10-lessons-learned-january-21-2026-8j5)
+- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
+- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
+- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
+- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
 <!-- BLOG-POST-LIST:END -->
 
