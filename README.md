@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens If Two Android Phones Edit the Same Data Offline?](https://dev.to/midopooler/what-happens-if-two-android-phones-edit-the-same-data-offline-3ok2)
-- [Understanding HTML Tags and Elements](https://dev.to/kunal_dev/understanding-html-tags-and-elements-55b9)
-- [The Graph: How Blockchain Apps Query Data Without Running Nodes](https://dev.to/ribhavmodi/the-graph-how-blockchain-apps-query-data-without-running-nodes-4pbp)
-- [ChatGPT Tutorial for Beginners &lpar;2026 Edition&rpar;](https://dev.to/volt1480/chatgpt-tutorial-for-beginners-2026-edition-2251)
+- [PEClient.rb - The Puppet API Ruby Client Library](https://dev.to/puppet/peclientrb-the-puppet-api-ruby-client-library-31jb)
+- [Connect ClawdBot to Lark/Feishu: Build a 24/7 AI Assistant for Your Team](https://dev.to/er_li_92a27f8612f9f070e18/i-accidentally-turned-my-clawdbot-into-a-data-leak-dont-make-my-mistake-42ac)
+- [5 Ways to Handle Test Data in Playwright | TestDino Insights](https://dev.to/testdino01/5-ways-to-handle-test-data-in-playwright-1l32)
+- [🎯 From 50+ Lines to 1 Line: Zero Boilerplate ASP.NET APIs](https://dev.to/reslava/from-50-lines-to-1-line-zero-boilerplate-aspnet-apis-4hb)
 <!-- BLOG-POST-LIST:END -->
 
