@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PEClient.rb - The Puppet API Ruby Client Library](https://dev.to/puppet/peclientrb-the-puppet-api-ruby-client-library-31jb)
-- [Connect ClawdBot to Lark/Feishu: Build a 24/7 AI Assistant for Your Team](https://dev.to/er_li_92a27f8612f9f070e18/i-accidentally-turned-my-clawdbot-into-a-data-leak-dont-make-my-mistake-42ac)
-- [5 Ways to Handle Test Data in Playwright | TestDino Insights](https://dev.to/testdino01/5-ways-to-handle-test-data-in-playwright-1l32)
-- [🎯 From 50+ Lines to 1 Line: Zero Boilerplate ASP.NET APIs](https://dev.to/reslava/from-50-lines-to-1-line-zero-boilerplate-aspnet-apis-4hb)
+- [From Idea to Launch: How Developers Can Build Successful Startups 🏵](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-hf7)
+- [The time for the browsers](https://dev.to/viniciusdallacqua/the-personal-web-experiment-2iao)
+- [Why I Built Custom AI Search Instead of Using ChatGPT &lpar;WordPress Plugin&rpar;](https://dev.to/gronrafal/why-i-built-custom-ai-search-instead-of-using-chatgpt-wordpress-plugin-4598)
+- [Running Moltbot &lpar;Clawdbot&rpar; with Bifrost: Observability, Cost Control, and Multi-Model Routing](https://dev.to/kuldeep_paul/running-moltbot-clawdbot-with-bifrost-observability-cost-control-and-multi-model-routing-3jg8)
 <!-- BLOG-POST-LIST:END -->
 
