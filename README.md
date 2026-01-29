@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
-- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
-- [Jeff&#39;s January 2026 Closeout](https://dev.to/mathgladiator/jeffs-january-2026-closeout-3b87)
-- [The New Cold Wars: The Twilight of Illusions and China&#39;s Power Game](https://dev.to/fundacjadobrepanstwo/the-new-cold-wars-the-twilight-of-illusions-and-chinas-power-game-4dci)
+- [Enfim, DDD - Padrões de projeto no front-end. Parte 2.](https://dev.to/layssadev/enfim-ddd-padroes-de-projeto-no-front-end-parte-2-3bbf)
+- [Git, GitHub, and EC2: A Practical Walkthrough from Local Repo to Live Deployment](https://dev.to/theodora_e6f61d02577a5f06/git-github-and-ec2-a-practical-walkthrough-from-local-repo-to-live-deployment-j7c)
+- [Old wannabe developer comes for one more try...](https://dev.to/j0kic0de/old-developer-comes-for-one-more-try-47an)
+- [AI Trading: Day 85 - 10 Lessons Learned &lpar;January 21, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-85-10-lessons-learned-january-21-2026-8j5)
 <!-- BLOG-POST-LIST:END -->
 
