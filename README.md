@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A lego set could do so much more builds](https://dev.to/vincentaltspec/a-lego-set-could-do-so-much-more-builds-3k3m)
-- [🔍 Restore Google Search in Brave Browser - Quick Dev Fix](https://dev.to/iydebu/restore-google-search-in-brave-browser-quick-dev-fix-413f)
-- [Software Testing Fundamentals: Black Box, White Box, and the Test Pyramid](https://dev.to/rubemfsv/software-testing-fundamentals-black-box-white-box-and-the-test-pyramid-mm4)
-- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
+- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
+- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
+- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
+- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
 <!-- BLOG-POST-LIST:END -->
 
