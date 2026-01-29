@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Layout in Embedded Systems: How C Code Really Ends Up in FLASH and RAM](https://dev.to/amanprasad/memory-layout-in-embedded-systems-how-c-code-really-ends-up-in-flash-and-ram-34c0)
-- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
-- [Browser Code: Teaching AI to Grow Userscripts](https://dev.to/tumf/browser-code-teaching-ai-to-grow-userscripts-3npj)
-- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
+- [Vector Embeddings: Meet the Librarian Living Inside Every AI](https://dev.to/sreeni5018/vector-embeddings-meet-the-librarian-living-inside-every-ai-5bln)
+- [Top 5 Local LLM Tools and Models in 2026](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5)
+- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
+- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
 <!-- BLOG-POST-LIST:END -->
 
