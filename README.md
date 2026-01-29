@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Free SEO Tools I Built &lpar;No Signup, No Email&rpar;](https://dev.to/itsjoaki/13-free-seo-tools-i-built-no-signup-no-email-11nd)
-- [An easy way to check if AutoMapper misses any mapping](https://dev.to/juliashevchenko/an-easy-way-to-check-if-automapper-misses-any-mapping-38p)
-- [Building semantic search for quotes I can&#39;t quite remember](https://dev.to/quotewisio/building-semantic-search-for-quotes-i-cant-quite-remember-5hme)
-- [VDOM-less Approaches to Reactive UI](https://dev.to/vftiago/vdom-less-approaches-to-reactive-ui-4g40)
+- [Lightweight / health check tool](https://dev.to/charbelharb/lightweight-health-check-tool-28e2)
+- [Server-rendered Maps for Web and Mobile](https://dev.to/mapbox/server-rendered-maps-for-web-and-mobile-51f7)
+- [Leading Quality Through Change: Balancing Speed, AI, and the Fundamentals That Matter](https://dev.to/cypress/leading-quality-through-change-balancing-speed-ai-and-the-fundamentals-that-matter-oi7)
+- [Why TikTok&#39;s Compliance Win Became User Trust Disaster](https://dev.to/ownlife/why-tiktoks-compliance-win-became-user-trust-disaster-3n11)
 <!-- BLOG-POST-LIST:END -->
 
