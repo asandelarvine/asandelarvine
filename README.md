@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
-- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
-- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
-- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
+- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
+- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
+- [Jeff&#39;s January 2026 Closeout](https://dev.to/mathgladiator/jeffs-january-2026-closeout-3b87)
+- [The New Cold Wars: The Twilight of Illusions and China&#39;s Power Game](https://dev.to/fundacjadobrepanstwo/the-new-cold-wars-the-twilight-of-illusions-and-chinas-power-game-4dci)
 <!-- BLOG-POST-LIST:END -->
 
