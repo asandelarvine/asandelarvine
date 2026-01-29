@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Intent Driven Development &lpar;IDD&rpar; is our Current Future](https://dev.to/smolinari/intent-driven-development-idd-is-our-current-future-5fh4)
-- [Heroshot Features for Docusaurus: Viewports, Retina, CI/CD](https://dev.to/omachala/keep-your-docusaurus-screenshots-fresh-with-dark-mode-3d01)
-- [MySQL backup to cloud — Backing up MySQL databases to AWS S3 and Google Cloud](https://dev.to/piteradyson/mysql-backup-to-cloud-backing-up-mysql-databases-to-aws-s3-and-google-cloud-4fhc)
-- [Why 1-second polling doesn&#39;t scale &lpar;and the architectures that do&rpar;](https://dev.to/donbagger/why-1-second-polling-doesnt-scale-and-the-architectures-that-do-5def)
+- [What Happens If Two Android Phones Edit the Same Data Offline?](https://dev.to/midopooler/what-happens-if-two-android-phones-edit-the-same-data-offline-3ok2)
+- [Understanding HTML Tags and Elements](https://dev.to/kunal_dev/understanding-html-tags-and-elements-55b9)
+- [The Graph: How Blockchain Apps Query Data Without Running Nodes](https://dev.to/ribhavmodi/the-graph-how-blockchain-apps-query-data-without-running-nodes-4pbp)
+- [ChatGPT Tutorial for Beginners &lpar;2026 Edition&rpar;](https://dev.to/volt1480/chatgpt-tutorial-for-beginners-2026-edition-2251)
 <!-- BLOG-POST-LIST:END -->
 
