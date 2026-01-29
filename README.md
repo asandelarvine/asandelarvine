@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-28 Weekly Quantum News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-28-weekly-quantum-news-2a3g)
-- [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
-- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
-- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
+- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
+- [Before I forget how I got here...](https://dev.to/richhaase/before-i-forget-how-i-got-here-23b6)
+- [Is the language war even real?](https://dev.to/ujja/is-the-language-war-even-real-13n0)
+- [Excited to share my new portfolio!](https://dev.to/mohammed_mahmoud_dea5deca/excited-to-share-my-new-portfolio-1col)
 <!-- BLOG-POST-LIST:END -->
 
