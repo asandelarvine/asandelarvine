@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
-- [AWS CDK Hotswap Deployments Now Support Bedrock AgentCore Runtime](https://dev.to/aws-heroes/aws-cdk-hotswap-deployments-now-support-bedrock-agentcore-runtime-42c7)
-- [Pager Interface Functions in SQLite: The Narrow Doorway to Persistence](https://dev.to/lovestaco/pager-interface-functions-in-sqlite-the-narrow-doorway-to-persistence-103a)
-- [Scripts Runner: Manage Your npm Scripts with Style 🚀](https://dev.to/abdoseadaa/scripts-runner-manage-your-npm-scripts-with-style-325d)
+- [Silent foe or quiet ally: Brief guide to alignment in C++](https://dev.to/pvsdev/silent-foe-or-quiet-ally-brief-guide-to-alignment-in-c-86e)
+- [Starting a web app used to feel like starting from scratch. Now, I have a system that makes it faster, here’s how.](https://dev.to/manoj_sravan_ccfc9fa15b8d/a-few-years-ago-every-new-web-app-felt-like-starting-from-scratch-e54)
+- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
+- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
 <!-- BLOG-POST-LIST:END -->
 
