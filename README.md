@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backstage SaaS &amp; Open Source Alternatives](https://dev.to/luciench/backstage-saas-open-source-alternatives-2m08)
-- [Spring Beans, Context, Spring IoC container](https://dev.to/phoenix_238501d86d417e/spring-beans-context-2ijm)
-- [Single-Channel Noise Cancellation in 2025: What’s Actually Working &lpar;and Why&rpar;](https://dev.to/namanigandhi/single-channel-noise-cancellation-in-2025-whats-actually-working-and-why-5enb)
-- [When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead](https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l)
+- [Intent Driven Development &lpar;IDD&rpar; is our Current Future](https://dev.to/smolinari/intent-driven-development-idd-is-our-current-future-5fh4)
+- [Heroshot Features for Docusaurus: Viewports, Retina, CI/CD](https://dev.to/omachala/keep-your-docusaurus-screenshots-fresh-with-dark-mode-3d01)
+- [MySQL backup to cloud — Backing up MySQL databases to AWS S3 and Google Cloud](https://dev.to/piteradyson/mysql-backup-to-cloud-backing-up-mysql-databases-to-aws-s3-and-google-cloud-4fhc)
+- [Why 1-second polling doesn&#39;t scale &lpar;and the architectures that do&rpar;](https://dev.to/donbagger/why-1-second-polling-doesnt-scale-and-the-architectures-that-do-5def)
 <!-- BLOG-POST-LIST:END -->
 
