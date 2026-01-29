@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent foe or quiet ally: Brief guide to alignment in C++](https://dev.to/pvsdev/silent-foe-or-quiet-ally-brief-guide-to-alignment-in-c-86e)
-- [Starting a web app used to feel like starting from scratch. Now, I have a system that makes it faster, here’s how.](https://dev.to/manoj_sravan_ccfc9fa15b8d/a-few-years-ago-every-new-web-app-felt-like-starting-from-scratch-e54)
-- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
-- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
+- [13 Free SEO Tools I Built &lpar;No Signup, No Email&rpar;](https://dev.to/itsjoaki/13-free-seo-tools-i-built-no-signup-no-email-11nd)
+- [An easy way to check if AutoMapper misses any mapping](https://dev.to/juliashevchenko/an-easy-way-to-check-if-automapper-misses-any-mapping-38p)
+- [Building semantic search for quotes I can&#39;t quite remember](https://dev.to/quotewisio/building-semantic-search-for-quotes-i-cant-quite-remember-5hme)
+- [VDOM-less Approaches to Reactive UI](https://dev.to/vftiago/vdom-less-approaches-to-reactive-ui-4g40)
 <!-- BLOG-POST-LIST:END -->
 
