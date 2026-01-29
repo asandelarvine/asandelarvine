@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Finally a 2 digit number!!!](https://dev.to/sugunadithya/day-10-finally-a-2-digit-number-3lf4)
-- [Your Code Is Slow Because You Think in Objects, Not Data](https://dev.to/rafacalderon/your-code-is-slow-because-you-think-in-objects-not-data-4mn8)
-- [The Ultimate Database That Makes Compliance Audits Effortless](https://dev.to/cyberpath/the-ultimate-database-that-makes-compliance-audits-effortless-32ga)
-- [The Hidden Complexity of AI Model Orchestration: Why Loading Models Is Harder Than You Think](https://dev.to/hejhdiss/the-hidden-complexity-of-ai-model-orchestration-why-loading-models-is-harder-than-you-think-2d2m)
+- [Next.js Caching and Rendering: Complete Guide for 2026](https://dev.to/marufrahmanlive/nextjs-caching-and-rendering-complete-guide-for-2026-ij2)
+- [Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑](https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019)
+- [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3)
+- [If Your Code Works on the First Try, There’s a Massive Mistake Somewhere](https://dev.to/jaskirat_singh/if-your-code-works-on-the-first-try-theres-a-massive-mistake-somewhere-1h8o)
 <!-- BLOG-POST-LIST:END -->
 
