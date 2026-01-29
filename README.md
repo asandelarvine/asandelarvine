@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forge your experience Without the Chat: Building Proactive D&amp;D Tools with Algolia](https://dev.to/austin_amento_860aebb9f55/forge-your-experience-without-the-chat-building-proactive-dd-tools-with-algolia-5013)
-- [The Oracle: A Conversational D&amp;D Character Discovery Experience](https://dev.to/austin_amento_860aebb9f55/the-oracle-a-conversational-dd-character-discovery-experience-5bjp)
-- [What makes you trust a free tool without reading user feedback?](https://dev.to/bhavin-allinonetools/what-makes-you-trust-a-free-tool-without-reading-user-feedback-2n7n)
-- [Authentication System Fix - Implementation Summary](https://dev.to/therealgabry/authentication-system-fix-implementation-summary-320k)
+- [Memory Layout in Embedded Systems: How C Code Really Ends Up in FLASH and RAM](https://dev.to/amanprasad/memory-layout-in-embedded-systems-how-c-code-really-ends-up-in-flash-and-ram-34c0)
+- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
+- [Browser Code: Teaching AI to Grow Userscripts](https://dev.to/tumf/browser-code-teaching-ai-to-grow-userscripts-3npj)
+- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
 <!-- BLOG-POST-LIST:END -->
 
