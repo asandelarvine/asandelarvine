@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Launch: How Developers Can Build Successful Startups 🏵](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-hf7)
-- [The time for the browsers](https://dev.to/viniciusdallacqua/the-personal-web-experiment-2iao)
-- [Why I Built Custom AI Search Instead of Using ChatGPT &lpar;WordPress Plugin&rpar;](https://dev.to/gronrafal/why-i-built-custom-ai-search-instead-of-using-chatgpt-wordpress-plugin-4598)
-- [Running Moltbot &lpar;Clawdbot&rpar; with Bifrost: Observability, Cost Control, and Multi-Model Routing](https://dev.to/kuldeep_paul/running-moltbot-clawdbot-with-bifrost-observability-cost-control-and-multi-model-routing-3jg8)
+- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
+- [AWS CDK Hotswap Deployments Now Support Bedrock AgentCore Runtime](https://dev.to/aws-heroes/aws-cdk-hotswap-deployments-now-support-bedrock-agentcore-runtime-42c7)
+- [Pager Interface Functions in SQLite: The Narrow Doorway to Persistence](https://dev.to/lovestaco/pager-interface-functions-in-sqlite-the-narrow-doorway-to-persistence-103a)
+- [Scripts Runner: Manage Your npm Scripts with Style 🚀](https://dev.to/abdoseadaa/scripts-runner-manage-your-npm-scripts-with-style-325d)
 <!-- BLOG-POST-LIST:END -->
 
