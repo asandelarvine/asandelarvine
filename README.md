@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
-- [Before I forget how I got here...](https://dev.to/richhaase/before-i-forget-how-i-got-here-23b6)
-- [Is the language war even real?](https://dev.to/ujja/is-the-language-war-even-real-13n0)
-- [Excited to share my new portfolio!](https://dev.to/mohammed_mahmoud_dea5deca/excited-to-share-my-new-portfolio-1col)
+- [Forge your experience Without the Chat: Building Proactive D&amp;D Tools with Algolia](https://dev.to/austin_amento_860aebb9f55/forge-your-experience-without-the-chat-building-proactive-dd-tools-with-algolia-5013)
+- [The Oracle: A Conversational D&amp;D Character Discovery Experience](https://dev.to/austin_amento_860aebb9f55/the-oracle-a-conversational-dd-character-discovery-experience-5bjp)
+- [What makes you trust a free tool without reading user feedback?](https://dev.to/bhavin-allinonetools/what-makes-you-trust-a-free-tool-without-reading-user-feedback-2n7n)
+- [Authentication System Fix - Implementation Summary](https://dev.to/therealgabry/authentication-system-fix-implementation-summary-320k)
 <!-- BLOG-POST-LIST:END -->
 
