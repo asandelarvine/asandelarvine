@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Caching and Rendering: Complete Guide for 2026](https://dev.to/marufrahmanlive/nextjs-caching-and-rendering-complete-guide-for-2026-ij2)
-- [Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑](https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019)
-- [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3)
-- [If Your Code Works on the First Try, There’s a Massive Mistake Somewhere](https://dev.to/jaskirat_singh/if-your-code-works-on-the-first-try-theres-a-massive-mistake-somewhere-1h8o)
+- [A lego set could do so much more builds](https://dev.to/vincentaltspec/a-lego-set-could-do-so-much-more-builds-3k3m)
+- [🔍 Restore Google Search in Brave Browser - Quick Dev Fix](https://dev.to/iydebu/restore-google-search-in-brave-browser-quick-dev-fix-413f)
+- [Software Testing Fundamentals: Black Box, White Box, and the Test Pyramid](https://dev.to/rubemfsv/software-testing-fundamentals-black-box-white-box-and-the-test-pyramid-mm4)
+- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
 <!-- BLOG-POST-LIST:END -->
 
