@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Cross Entropy &lpar;Part 2&rpar;: Understanding Total Cross Entropy and Loss with a Python Example](https://dev.to/rijultp/exploring-cross-entropy-part-2-understanding-total-cross-entropy-and-loss-with-a-python-example-5o3)
-- [[SUI] DisclosureGroup](https://dev.to/david_goyes_a488f58a17a53/sui-disclosuregroup-1cb)
-- [Scaling Load Testing with Docker: A Lead QA Engineer&#39;s Practical Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-a-lead-qa-engineers-practical-approach-1i38)
-- [How to Remove Vocals from Any Song Using Python &lpar;3 Methods&rpar;](https://dev.to/stevecase430/how-to-remove-vocals-from-any-song-using-python-3-methods-28pa)
+- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
+- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
+- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
 <!-- BLOG-POST-LIST:END -->
 
