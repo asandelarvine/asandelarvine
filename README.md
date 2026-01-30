@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
-- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
-- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
-- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
+- [Part-Time Full Stack Developer for Sports Betting Platform](https://dev.to/willee8390/part-time-full-stack-developer-for-sports-betting-platform-1p6o)
+- [Social Engineering and Microsoft SSPR: The Road to Pwnage is Paved with Good Intentions](https://dev.to/mark0_617b45cda9782a/social-engineering-and-microsoft-sspr-the-road-to-pwnage-is-paved-with-good-intentions-4ncg)
+- [LDAP Channel Binding and LDAP Signing](https://dev.to/mark0_617b45cda9782a/ldap-channel-binding-and-ldap-signing-3id)
+- [2026-01-20: VIP Recovery infection with FTP data exfiltration traffic](https://dev.to/mark0_617b45cda9782a/2026-01-20-vip-recovery-infection-with-ftp-data-exfiltration-traffic-24ia)
 <!-- BLOG-POST-LIST:END -->
 
