@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/6116hayat/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-577)
-- [Crafting code crafting mead: Un Viaje de Paciencia y Bugs](https://dev.to/csotelo/crafting-code-crafting-mead-un-viaje-de-paciencia-y-bugs-52if)
-- [How I Got 100 Users in 48 Days &lpar;Solo Founder, $500 Ad Spend, 5% Conversion&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-got-100-users-in-48-days-solo-founder-500-ad-spend-5-conversion-3okf)
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/hiral/emmet-for-html-a-beginners-guide-to-writing-faster-markup-17pg)
+- [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
+- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
+- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)
+- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)
 <!-- BLOG-POST-LIST:END -->
 
