@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-Time Full Stack Developer for Sports Betting Platform](https://dev.to/willee8390/part-time-full-stack-developer-for-sports-betting-platform-1p6o)
-- [Social Engineering and Microsoft SSPR: The Road to Pwnage is Paved with Good Intentions](https://dev.to/mark0_617b45cda9782a/social-engineering-and-microsoft-sspr-the-road-to-pwnage-is-paved-with-good-intentions-4ncg)
-- [LDAP Channel Binding and LDAP Signing](https://dev.to/mark0_617b45cda9782a/ldap-channel-binding-and-ldap-signing-3id)
-- [2026-01-20: VIP Recovery infection with FTP data exfiltration traffic](https://dev.to/mark0_617b45cda9782a/2026-01-20-vip-recovery-infection-with-ftp-data-exfiltration-traffic-24ia)
+- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
+- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
+- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
+- [connect.timeout.millis vs io.timeout.millis ,What’s the Difference in API Proxies in Apigee X?](https://dev.to/realnamehidden1_61/connecttimeoutmillis-vs-iotimeoutmillis-whats-the-difference-in-api-proxies-in-apigee-x-1i58)
 <!-- BLOG-POST-LIST:END -->
 
