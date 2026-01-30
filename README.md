@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Commands: Stop Repeating Yourself and Start Shipping Faster](https://dev.to/rajeshroyal/commands-stop-repeating-yourself-and-start-shipping-faster-4gci)
-- [NAT Traversal: How It Works](https://dev.to/alakkadshaw/nat-traversal-how-it-works-4dnc)
-- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)
-- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)
+- [How to Configure Asymmetric JWTs on Self-Hosted Supabase](https://dev.to/vpcano/how-to-configure-asymmetric-jwts-on-self-hosted-supabase-53ed)
+- [Mastering the Linux Software Toolbox: A Professional’s Deep Dive into GNU Coreutils 9.9](https://dev.to/kurdistan_linux_lab/mastering-the-linux-software-toolbox-a-professionals-deep-dive-into-gnu-coreutils-99-21em)
+- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
+- [When Scaling Process Kills Working Teams](https://dev.to/ghostinit0x/when-scaling-process-kills-working-teams-19hm)
 <!-- BLOG-POST-LIST:END -->
 
