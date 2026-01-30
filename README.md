@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Coolors — Instant Color Palettes for Devs &amp; Designers](https://dev.to/ml318097/coolors-instant-color-palettes-for-devs-designers-3lek)
-- [Keep Code References Out of Your Migrations](https://dev.to/andreluizlunelli/keep-code-references-out-of-your-migrations-3pd)
-- [Chrome extension tracked on your own websites, so you can spend time](https://dev.to/hashirkhan/chrome-extension-tracked-on-your-own-website-so-you-can-spend-time-3nj)
-- [I Performed an Autopsy on My LeetCode Streak &lpar;It Didn’t Die Peacefully&rpar;](https://dev.to/trojanmocx/i-performed-an-autopsy-on-my-leetcode-streak-it-didnt-die-peacefully-2ibg)
+- [Regiões e Zonas de Disponibilidade na Magalu Cloud: como pensar resiliência desde o início](https://dev.to/magalucloud/regioes-e-zonas-de-disponibilidade-na-magalu-cloud-como-pensar-resiliencia-desde-o-inicio-3lmj)
+- [Two Minutes Hate #1 - The awakening of the EU](https://dev.to/miccy/two-minutes-hate-1-the-awakening-of-the-eu-332a)
+- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
+- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
 <!-- BLOG-POST-LIST:END -->
 
