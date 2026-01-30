@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering Hall Sensors: The Hidden Tech in Laptops and TWS Earbuds](https://dev.to/amanprasad/discovering-hall-sensors-the-hidden-tech-in-laptops-and-tws-earbuds-np7)
-- [RAG &amp; Semantic Search](https://dev.to/simranshaikh20_50/rag-semantic-search-12gd)
-- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
-- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/sachin_kumar_e80e5bd576a2/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-29gp)
+- [AI Helped Me Move Faster — But I Missed Important Signals](https://dev.to/allenbailey25/ai-helped-me-move-faster-but-i-missed-important-signals-aop)
+- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
+- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
 <!-- BLOG-POST-LIST:END -->
 
