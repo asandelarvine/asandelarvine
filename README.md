@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/sachin_kumar_e80e5bd576a2/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-29gp)
-- [AI Helped Me Move Faster — But I Missed Important Signals](https://dev.to/allenbailey25/ai-helped-me-move-faster-but-i-missed-important-signals-aop)
-- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
-- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
+- [I&#39;m Passing on theGitHub CoPilot CLI Challenge](https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo)
+- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-1c5a)
+- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
+- [Help](https://dev.to/renzx_dev/help-463k)
 <!-- BLOG-POST-LIST:END -->
 
