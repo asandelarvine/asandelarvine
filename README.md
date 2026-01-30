@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Passing on theGitHub CoPilot CLI Challenge](https://dev.to/ben-santora/im-passing-on-thegithub-copilot-cli-challenge-38fo)
-- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-1c5a)
-- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
-- [Help](https://dev.to/renzx_dev/help-463k)
+- [How We Built an Instant Live Demo System for Our SaaS Product](https://dev.to/emrahg/how-we-built-an-instant-live-demo-system-for-our-saas-product-5d8k)
+- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
+- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
+- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
 <!-- BLOG-POST-LIST:END -->
 
