@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] DatePicker](https://dev.to/david_goyes_a488f58a17a53/sui-datepicker-4j38)
-- [Synapse v1.0 — A Programming Language for AI, Not Humans](https://dev.to/xzdes/synapse-v10-a-programming-language-for-ai-not-humans-4a2o)
-- [Movie Planner — планировщик фильмов и сериалов / Movie Planner: movie &amp; TV series planning tool](https://dev.to/zapnikita95/movie-planner-planirovshchik-filmov-i-sierialov-movie-planner-movie-tv-series-planning-tool-23io)
-- [Security news weekly round-up - 30th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8)
+- [Exploring Cross Entropy &lpar;Part 2&rpar;: Understanding Total Cross Entropy and Loss with a Python Example](https://dev.to/rijultp/exploring-cross-entropy-part-2-understanding-total-cross-entropy-and-loss-with-a-python-example-5o3)
+- [[SUI] DisclosureGroup](https://dev.to/david_goyes_a488f58a17a53/sui-disclosuregroup-1cb)
+- [Scaling Load Testing with Docker: A Lead QA Engineer&#39;s Practical Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-a-lead-qa-engineers-practical-approach-1i38)
+- [How to Remove Vocals from Any Song Using Python &lpar;3 Methods&rpar;](https://dev.to/stevecase430/how-to-remove-vocals-from-any-song-using-python-3-methods-28pa)
 <!-- BLOG-POST-LIST:END -->
 
