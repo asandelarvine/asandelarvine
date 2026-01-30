@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Direction in Classification at SmartEco](https://dev.to/jashwanth_thatipamula_8ee/a-new-direction-in-classification-at-smarteco-5970)
-- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
-- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
-- [Understanding Backprogation In Hindi With शायरी](https://dev.to/jenil_sheth_3eb6f86dc4900/understanding-backprogation-in-hindi-with-shaayrii-44d4)
+- [🎨 Coolors — Instant Color Palettes for Devs &amp; Designers](https://dev.to/ml318097/coolors-instant-color-palettes-for-devs-designers-3lek)
+- [Keep Code References Out of Your Migrations](https://dev.to/andreluizlunelli/keep-code-references-out-of-your-migrations-3pd)
+- [Chrome extension tracked on your own websites, so you can spend time](https://dev.to/hashirkhan/chrome-extension-tracked-on-your-own-website-so-you-can-spend-time-3nj)
+- [I Performed an Autopsy on My LeetCode Streak &lpar;It Didn’t Die Peacefully&rpar;](https://dev.to/trojanmocx/i-performed-an-autopsy-on-my-leetcode-streak-it-didnt-die-peacefully-2ibg)
 <!-- BLOG-POST-LIST:END -->
 
