@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Airline’s Chatbot is a Security Risk &lpar;and How to Fix It&rpar;](https://dev.to/alessandro_pignati/why-your-airlines-chatbot-is-a-security-risk-and-how-to-fix-it-575f)
-- [BaseXConvertor – A Simple &amp; Powerful Number System Converter for Developers](https://dev.to/nirmit_angane/basexconvertor-a-simple-powerful-number-system-converter-for-developers-46df)
-- [App recommendation - LookAway](https://dev.to/eminetto/app-recommendation-lookaway-1nkk)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1916)
+- [A New Direction in Classification at SmartEco](https://dev.to/jashwanth_thatipamula_8ee/a-new-direction-in-classification-at-smarteco-5970)
+- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
+- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
+- [Understanding Backprogation In Hindi With शायरी](https://dev.to/jenil_sheth_3eb6f86dc4900/understanding-backprogation-in-hindi-with-shaayrii-44d4)
 <!-- BLOG-POST-LIST:END -->
 
