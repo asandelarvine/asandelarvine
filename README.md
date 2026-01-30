@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why implementing AWS cloudfront is a better fit for your Architecture](https://dev.to/sosmation/why-implementing-aws-cloudfront-is-a-better-fit-for-your-architecture-2lnl)
-- [New developer tools for Google AI Pro and Ultra subscribers](https://dev.to/googleai/new-developer-tools-for-google-ai-pro-and-ultra-subscribers-3cj4)
-- [Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses](https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3)
-- [Running llama-cli on Linux](https://dev.to/ben-santora/running-llama-cli-on-linux-28h6)
+- [[SUI] DatePicker](https://dev.to/david_goyes_a488f58a17a53/sui-datepicker-4j38)
+- [Synapse v1.0 — A Programming Language for AI, Not Humans](https://dev.to/xzdes/synapse-v10-a-programming-language-for-ai-not-humans-4a2o)
+- [Movie Planner — планировщик фильмов и сериалов / Movie Planner: movie &amp; TV series planning tool](https://dev.to/zapnikita95/movie-planner-planirovshchik-filmov-i-sierialov-movie-planner-movie-tv-series-planning-tool-23io)
+- [Security news weekly round-up - 30th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-30th-january-2026-gb8)
 <!-- BLOG-POST-LIST:END -->
 
