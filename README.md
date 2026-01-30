@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Web Development Mistakes That Hurt UX](https://dev.to/pixel_mosaic/common-web-development-mistakes-that-hurt-ux-594m)
-- [Hack Your Kitchen: Tech-Powered Meal Prep Solutions for Coding Marathon Survival](https://dev.to/narayanabk24/hack-your-kitchen-tech-powered-meal-prep-solutions-for-coding-marathon-survival-164k)
-- [Web Development Without Overthinking](https://dev.to/wingsdesignstudio/web-development-without-overthinking-5fk9)
-- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
+- [How to Write a Developer-Level Prompt: A Practical Guide](https://dev.to/yaruyng/how-to-write-a-developer-level-prompt-a-practical-guide-4240)
+- [Commonly used Linux commands by DevOps engineers - Version 2](https://dev.to/alok38/commonly-used-linux-commands-by-devops-engineers-version-2-55o)
+- [Singleton vs Non-Singleton in JavaScript: When and Why to Use Each](https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b)
+- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% &lpar;and How “Local‑First” Saved It&rpar;](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
 <!-- BLOG-POST-LIST:END -->
 
