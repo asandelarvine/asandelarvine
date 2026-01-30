@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
-- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
-- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
-- [connect.timeout.millis vs io.timeout.millis ,What’s the Difference in API Proxies in Apigee X?](https://dev.to/realnamehidden1_61/connecttimeoutmillis-vs-iotimeoutmillis-whats-the-difference-in-api-proxies-in-apigee-x-1i58)
+- [Common Web Development Mistakes That Hurt UX](https://dev.to/pixel_mosaic/common-web-development-mistakes-that-hurt-ux-594m)
+- [Hack Your Kitchen: Tech-Powered Meal Prep Solutions for Coding Marathon Survival](https://dev.to/narayanabk24/hack-your-kitchen-tech-powered-meal-prep-solutions-for-coding-marathon-survival-164k)
+- [Web Development Without Overthinking](https://dev.to/wingsdesignstudio/web-development-without-overthinking-5fk9)
+- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
 <!-- BLOG-POST-LIST:END -->
 
