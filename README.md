@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regiões e Zonas de Disponibilidade na Magalu Cloud: como pensar resiliência desde o início](https://dev.to/magalucloud/regioes-e-zonas-de-disponibilidade-na-magalu-cloud-como-pensar-resiliencia-desde-o-inicio-3lmj)
-- [Two Minutes Hate #1 - The awakening of the EU](https://dev.to/miccy/two-minutes-hate-1-the-awakening-of-the-eu-332a)
-- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
-- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/6116hayat/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-577)
+- [Crafting code crafting mead: Un Viaje de Paciencia y Bugs](https://dev.to/csotelo/crafting-code-crafting-mead-un-viaje-de-paciencia-y-bugs-52if)
+- [How I Got 100 Users in 48 Days &lpar;Solo Founder, $500 Ad Spend, 5% Conversion&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-got-100-users-in-48-days-solo-founder-500-ad-spend-5-conversion-3okf)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/hiral/emmet-for-html-a-beginners-guide-to-writing-faster-markup-17pg)
 <!-- BLOG-POST-LIST:END -->
 
