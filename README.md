@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Object-Oriented Programming &lpar;OOP&rpar; in Flutter and Dart](https://dev.to/surhidamatya/implementing-object-oriented-programming-oop-in-flutter-and-dart-1kb6)
-- [AI Trends 2026: What the Future Holds for Artificial Intelligence](https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab)
-- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
-- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
+- [Discovering Hall Sensors: The Hidden Tech in Laptops and TWS Earbuds](https://dev.to/amanprasad/discovering-hall-sensors-the-hidden-tech-in-laptops-and-tws-earbuds-np7)
+- [RAG &amp; Semantic Search](https://dev.to/simranshaikh20_50/rag-semantic-search-12gd)
+- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
+- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
 <!-- BLOG-POST-LIST:END -->
 
