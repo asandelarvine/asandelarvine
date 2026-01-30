@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Developer-Level Prompt: A Practical Guide](https://dev.to/yaruyng/how-to-write-a-developer-level-prompt-a-practical-guide-4240)
-- [Commonly used Linux commands by DevOps engineers - Version 2](https://dev.to/alok38/commonly-used-linux-commands-by-devops-engineers-version-2-55o)
-- [Singleton vs Non-Singleton in JavaScript: When and Why to Use Each](https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b)
-- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% &lpar;and How “Local‑First” Saved It&rpar;](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
+- [Implementing Object-Oriented Programming &lpar;OOP&rpar; in Flutter and Dart](https://dev.to/surhidamatya/implementing-object-oriented-programming-oop-in-flutter-and-dart-1kb6)
+- [AI Trends 2026: What the Future Holds for Artificial Intelligence](https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab)
+- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
+- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
 <!-- BLOG-POST-LIST:END -->
 
