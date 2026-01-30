@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure Asymmetric JWTs on Self-Hosted Supabase](https://dev.to/vpcano/how-to-configure-asymmetric-jwts-on-self-hosted-supabase-53ed)
-- [Mastering the Linux Software Toolbox: A Professional’s Deep Dive into GNU Coreutils 9.9](https://dev.to/kurdistan_linux_lab/mastering-the-linux-software-toolbox-a-professionals-deep-dive-into-gnu-coreutils-99-21em)
-- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
-- [When Scaling Process Kills Working Teams](https://dev.to/ghostinit0x/when-scaling-process-kills-working-teams-19hm)
+- [Why implementing AWS cloudfront is a better fit for your Architecture](https://dev.to/sosmation/why-implementing-aws-cloudfront-is-a-better-fit-for-your-architecture-2lnl)
+- [New developer tools for Google AI Pro and Ultra subscribers](https://dev.to/googleai/new-developer-tools-for-google-ai-pro-and-ultra-subscribers-3cj4)
+- [Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses](https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3)
+- [Running llama-cli on Linux](https://dev.to/ben-santora/running-llama-cli-on-linux-28h6)
 <!-- BLOG-POST-LIST:END -->
 
