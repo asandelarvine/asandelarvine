@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an Instant Live Demo System for Our SaaS Product](https://dev.to/emrahg/how-we-built-an-instant-live-demo-system-for-our-saas-product-5d8k)
-- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
-- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
-- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
+- [Why Your Airline’s Chatbot is a Security Risk &lpar;and How to Fix It&rpar;](https://dev.to/alessandro_pignati/why-your-airlines-chatbot-is-a-security-risk-and-how-to-fix-it-575f)
+- [BaseXConvertor – A Simple &amp; Powerful Number System Converter for Developers](https://dev.to/nirmit_angane/basexconvertor-a-simple-powerful-number-system-converter-for-developers-46df)
+- [App recommendation - LookAway](https://dev.to/eminetto/app-recommendation-lookaway-1nkk)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1916)
 <!-- BLOG-POST-LIST:END -->
 
