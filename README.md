@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
-- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
-- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
+- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
+- [[AWS] Kiro steering application timing and scope verification [Kiro]](https://dev.to/aws-builders/aws-kiro-steering-application-timing-and-scope-verification-kiro-47gm)
+- [Securing Test Environments: Eliminating Leaking PII in Microservices with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-leaking-pii-in-microservices-with-javascript-1dem)
+- [Isolating Developer Environments for High-Traffic Events with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/isolating-developer-environments-for-high-traffic-events-with-javascript-3dka)
 <!-- BLOG-POST-LIST:END -->
 
