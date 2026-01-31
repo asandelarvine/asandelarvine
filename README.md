@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting Without a Perfect Plan](https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d)
-- [Handling Production issue - Scaling Amazon Kinesis and AWS Lambda](https://dev.to/ankitmalikg/handling-production-issue-scaling-amazon-kinesis-and-aws-lambda-3f3n)
-- [5 App Store Screenshot Mistakes Killing Conversions &lpar;2026&rpar;](https://dev.to/appscreenshotstudio/5-app-store-screenshot-mistakes-killing-conversions-2026-5adp)
-- [from typing import FinallyAnExplanation](https://dev.to/frank-895/from-typing-import-finallyanexplanation-8m8)
+- [Why website change monitors fail silently on JavaScript-heavy sites &lpar;and how to detect it before it costs you&rpar;](https://dev.to/bd73/why-website-change-monitors-fail-silently-on-javascript-heavy-sites-and-how-to-detect-it-before-it-e61)
+- [InvestorMate: AI-Powered Stock Analysis in Python — And calling out open-source devs for feedback and contributions](https://dev.to/siddartha19/investormate-ai-powered-stock-analysis-in-python-and-calling-out-open-source-devs-for-feedback-4jcf)
+- [The Future of Content Management Systems with SharePoint](https://dev.to/rumaisa_ms_56aaa48ba8b1b/the-future-of-content-management-systems-with-sharepoint-3hb9)
+- [Crons Are an Agent’s Superpower &lpar;and the cleanest path to compounding usefulness&rpar;](https://dev.to/angelablue/crons-are-an-agents-superpower-and-the-cleanest-path-to-compounding-usefulness-2b6h)
 <!-- BLOG-POST-LIST:END -->
 
