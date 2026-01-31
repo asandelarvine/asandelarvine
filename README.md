@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Dream to Reality: My First Resizable Sidebar UI](https://dev.to/usama_dev/from-dream-to-reality-my-first-resizable-sidebar-ui-21p)
-- [Meet Synapse: State Management Without the Ceremony](https://dev.to/john_yaghobieh_8f294091f6/meet-synapse-state-management-without-the-ceremony-2i63)
-- [CI/CD Deployment of an Azure Web App using Terraform and Azure DevOps.](https://dev.to/alvarosro/cicd-deployment-of-an-azure-web-app-using-terraform-and-azure-devops-26e6)
-- [🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful](https://dev.to/polliog/logtide-050-making-observability-simpler-and-more-powerful-4o0f)
+- [Using GitHub Copilot CLI as a Beginner to Translate English into Shell Commands](https://dev.to/arpitjindal01/using-github-copilot-cli-as-a-beginner-to-translate-english-into-shell-commands-3h4e)
+- [Why Slower Software Often Leads to Better Products](https://dev.to/edition/why-slower-software-often-leads-to-better-products-5eal)
+- [LeetCode vs Educative: Which Is Better for Interview Prep in 2026?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-vs-educative-which-is-better-for-interview-prep-in-2026-4mm0)
+- [S3 Triggers: How to Launch Glue Python Shell via AWS Lambda](https://dev.to/aws-builders/s3-triggers-how-to-launch-glue-python-shell-via-aws-lambda-4ke8)
 <!-- BLOG-POST-LIST:END -->
 
