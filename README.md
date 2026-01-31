@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Cut API Latency by 95% by Fixing One Hidden Loop ❤️‍🔥](https://dev.to/naveenc83002940/how-i-cut-api-latency-by-95-by-fixing-one-hidden-loop-4i7j)
-- [Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI](https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a)
-- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
-- [How Jenkins Slowly Drained Our EFS Burst Credits Over 2 Weeks](https://dev.to/tielec-takashi/how-jenkins-slowly-drained-our-efs-burst-credits-over-2-weeks-4dg4)
+- [29.Delete Backup from S3 Using Terraform](https://dev.to/thukhakyawe_cloud/29delete-backup-from-s3-using-terraform-4ha2)
+- [Battling Spam Traps in Email Campaigns with JavaScript on a Zero-Budget](https://dev.to/mohammad_waseem_c31f3a26f/battling-spam-traps-in-email-campaigns-with-javascript-on-a-zero-budget-b85)
+- [Automating Authentication Flows with JavaScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-with-javascript-and-open-source-tools-ade)
+- [Self-hosted Plagiarism Detection with OpenSearch](https://dev.to/cobel1024/self-hosted-plagiarism-detection-with-opensearch-33gj)
 <!-- BLOG-POST-LIST:END -->
 
