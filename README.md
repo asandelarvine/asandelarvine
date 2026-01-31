@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Dark Mode: The Complete Implementation Guide](https://dev.to/__be2942592/swiftui-dark-mode-the-complete-implementation-guide-3f8i)
-- [5 SwiftUI Tips That Will Make Your Code 10x Cleaner](https://dev.to/__be2942592/5-swiftui-tips-that-will-make-your-code-10x-cleaner-39d8)
-- [You&#39;re Consuming Too Much and Creating Too Little](https://dev.to/ruhidibadli/youre-consuming-too-much-and-creating-too-little-1dfm)
-- [Sandbox Mode: YOLO Speed Meets Actual Security](https://dev.to/rajeshroyal/sandbox-mode-yolo-speed-meets-actual-security-36m9)
+- [Almost futuristic portfolio](https://dev.to/lp_microbiana/almost-futuristic-portfolio-jjk)
+- [The Office Portfolio](https://dev.to/vignesh_pa_9fefa8b4e8a96/the-office-portfolio-pco)
+- [Reducing FOUC with Web Components](https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh)
+- [DevSession CLI](https://dev.to/dobrenteiistvan/devsession-cli-b17)
 <!-- BLOG-POST-LIST:END -->
 
