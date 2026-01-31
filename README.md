@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [29.Delete Backup from S3 Using Terraform](https://dev.to/thukhakyawe_cloud/29delete-backup-from-s3-using-terraform-4ha2)
-- [Battling Spam Traps in Email Campaigns with JavaScript on a Zero-Budget](https://dev.to/mohammad_waseem_c31f3a26f/battling-spam-traps-in-email-campaigns-with-javascript-on-a-zero-budget-b85)
-- [Automating Authentication Flows with JavaScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-with-javascript-and-open-source-tools-ade)
-- [Self-hosted Plagiarism Detection with OpenSearch](https://dev.to/cobel1024/self-hosted-plagiarism-detection-with-opensearch-33gj)
+- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
+- [30.Delete EC2 Instance Using Terraform](https://dev.to/thukhakyawe_cloud/30delete-ec2-instance-using-terraform-1358)
+- [Automating Authentication Flows in Go: Lessons from a Security Researcher’s No-Docs Approach](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-lessons-from-a-security-researchers-no-docs-approach-2ogo)
+- [BNSS Filing Guide: Verify CrPC Sections Using a Converter](https://dev.to/mrashu_singhrajput_8e3c/bnss-filing-guide-verify-crpc-sections-using-a-converter-553m)
 <!-- BLOG-POST-LIST:END -->
 
