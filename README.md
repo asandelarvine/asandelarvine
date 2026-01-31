@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
-- [30.Delete EC2 Instance Using Terraform](https://dev.to/thukhakyawe_cloud/30delete-ec2-instance-using-terraform-1358)
-- [Automating Authentication Flows in Go: Lessons from a Security Researcher’s No-Docs Approach](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-flows-in-go-lessons-from-a-security-researchers-no-docs-approach-2ogo)
-- [BNSS Filing Guide: Verify CrPC Sections Using a Converter](https://dev.to/mrashu_singhrajput_8e3c/bnss-filing-guide-verify-crpc-sections-using-a-converter-553m)
+- [TCP Working 3-Way Handshake &amp; Reliable Communication](https://dev.to/souvik_blog_b790df30e8dea/tcp-working-3-way-handshake-reliable-communication-1h4k)
+- [Rain water trapping](https://dev.to/raja71/rain-water-trapping-35b2)
+- [Understanding Network Devices](https://dev.to/souvik_blog_b790df30e8dea/understanding-network-devices-5f06)
+- [The Future of WebAssembly](https://dev.to/godofgeeks/the-future-of-webassembly-24fb)
 <!-- BLOG-POST-LIST:END -->
 
