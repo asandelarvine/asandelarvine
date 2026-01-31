@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
-- [[AWS] Kiro steering application timing and scope verification [Kiro]](https://dev.to/aws-builders/aws-kiro-steering-application-timing-and-scope-verification-kiro-47gm)
-- [Securing Test Environments: Eliminating Leaking PII in Microservices with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-leaking-pii-in-microservices-with-javascript-1dem)
-- [Isolating Developer Environments for High-Traffic Events with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/isolating-developer-environments-for-high-traffic-events-with-javascript-3dka)
+- [How I Cut API Latency by 95% by Fixing One Hidden Loop ❤️‍🔥](https://dev.to/naveenc83002940/how-i-cut-api-latency-by-95-by-fixing-one-hidden-loop-4i7j)
+- [Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI](https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a)
+- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
+- [How Jenkins Slowly Drained Our EFS Burst Credits Over 2 Weeks](https://dev.to/tielec-takashi/how-jenkins-slowly-drained-our-efs-burst-credits-over-2-weeks-4dg4)
 <!-- BLOG-POST-LIST:END -->
 
