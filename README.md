@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does a Good Hackathon Submission Look Like?](https://dev.to/dorahacks/what-does-a-good-hackathon-submission-look-like-5398)
-- [bus factor = 1 &lpar;why i coded a kill switch for my death&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/bus-factor-1-why-i-coded-a-kill-switch-for-my-death-4lln)
-- [Why App Retention Metrics Quietly Push Teams Toward Dark Patterns](https://dev.to/ariana_1cd1f38541bf6cd69f/why-app-retention-metrics-quietly-push-teams-toward-dark-patterns-2j81)
-- [Local MCP Development with Zig and Gemini CLI](https://dev.to/gde/local-mcp-development-with-zig-and-gemini-cli-1807)
+- [Rendering in Next.js: Lessons from High-Traffic Production Apps 🚀](https://dev.to/jagrajbains/rendering-in-nextjs-lessons-from-high-traffic-production-apps-3c3b)
+- [Understanding The Nuance of UX Research Through a Behavioral Science Lens](https://dev.to/prettyalana/understanding-the-nuance-of-ux-research-through-a-behavioral-science-lens-hcc)
+- [Laravel IQ - Level 1 - Part 5](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-5-3bid)
+- [Moltbook Deep Dive: API-First Agent Swarms, OpenClaw Protocol Architecture, and the 30-Minute Check-In Loop](https://dev.to/pithycyborg/moltbook-deep-dive-api-first-agent-swarms-openclaw-protocol-architecture-and-the-30-minute-33p8)
 <!-- BLOG-POST-LIST:END -->
 
