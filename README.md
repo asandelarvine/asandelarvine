@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Rust-powered web vulnerability scanner with 60+ modules](https://dev.to/bountyyfi/i-built-a-rust-powered-web-vulnerability-scanner-with-60-modules-4og0)
-- [First on Dev Community](https://dev.to/riyyan_qazi_d92d27005b371/first-on-dev-community-4dgl)
-- [Building an Autonomous F1/10th Car #1: Intro and Why](https://dev.to/daveson217/building-an-autonomous-f110th-car-1-intro-and-why-3lck)
-- [Multimodal Prompting: The Next Frontier-How to Juggle Text, Images, and Files in a Single Request](https://dev.to/velocityai/multimodal-prompting-the-next-frontier-how-to-juggle-text-images-and-files-in-a-single-request-3112)
+- [To those who are left behind in the AI rush](https://dev.to/ms_74/to-those-who-are-left-behind-in-the-ai-rush-45f5)
+- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-34cn)
+- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
+- [Dicas avançadas do firefox](https://dev.to/voyeg3r/dicas-avancadas-do-firefox-3cg9)
 <!-- BLOG-POST-LIST:END -->
 
