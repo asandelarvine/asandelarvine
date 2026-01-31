@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Mastery from First Principles in the AI Era: &lpar;2026 Edition&rpar;](https://dev.to/girma35/backend-mastery-from-first-principles-in-the-ai-era-2026-edition-5col)
-- [Why CLAUDE.md Is one of the Most Important File in Your Codebase](https://dev.to/damogallagher/why-claudemd-is-one-of-the-most-important-file-in-your-codebase-292a)
-- [Building a Real-Time Satellite Tracker](https://dev.to/0xbhoomi_vashishtha/building-a-real-time-satellite-tracker-2da6)
-- [Introducing ACP Bridge to Amp Code](https://dev.to/shashikant86/introducing-acp-bridge-to-amp-code-50kc)
+- [From Dream to Reality: My First Resizable Sidebar UI](https://dev.to/usama_dev/from-dream-to-reality-my-first-resizable-sidebar-ui-21p)
+- [Meet Synapse: State Management Without the Ceremony](https://dev.to/john_yaghobieh_8f294091f6/meet-synapse-state-management-without-the-ceremony-2i63)
+- [CI/CD Deployment of an Azure Web App using Terraform and Azure DevOps.](https://dev.to/alvarosro/cicd-deployment-of-an-azure-web-app-using-terraform-and-azure-devops-26e6)
+- [🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful](https://dev.to/polliog/logtide-050-making-observability-simpler-and-more-powerful-4o0f)
 <!-- BLOG-POST-LIST:END -->
 
