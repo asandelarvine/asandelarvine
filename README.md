@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Copilot CLI as a Beginner to Translate English into Shell Commands](https://dev.to/arpitjindal01/using-github-copilot-cli-as-a-beginner-to-translate-english-into-shell-commands-3h4e)
-- [Why Slower Software Often Leads to Better Products](https://dev.to/edition/why-slower-software-often-leads-to-better-products-5eal)
-- [LeetCode vs Educative: Which Is Better for Interview Prep in 2026?](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-vs-educative-which-is-better-for-interview-prep-in-2026-4mm0)
-- [S3 Triggers: How to Launch Glue Python Shell via AWS Lambda](https://dev.to/aws-builders/s3-triggers-how-to-launch-glue-python-shell-via-aws-lambda-4ke8)
+- [Git &amp; GitHub for Beginners &lpar;Amazon Linux 2023&rpar;: Fork, Branch, Commit, Pull Request &lpar;Walkthrough&rpar;](https://dev.to/ldwit/git-github-for-beginners-amazon-linux-2023-fork-branch-commit-pull-request-walkthrough-j74)
+- [I&#39;m 14 and built a course tracker because Udemy&#39;s dashboard is not good enough](https://dev.to/dvfrog/im-14-and-built-a-course-tracker-because-udemys-dashboard-is-not-good-enough-4jk4)
+- [Top 10 AI Tools Every Developer Should Know in 2026](https://dev.to/md8_habibullah/top-10-ai-tools-every-developer-should-know-in-2026-44f7)
+- [Dark Web Monitoring: Signals, Noise, and Practical Constraints](https://dev.to/tor_bbb/dark-web-monitoring-signals-noise-and-practical-constraints-2250)
 <!-- BLOG-POST-LIST:END -->
 
