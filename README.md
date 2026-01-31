@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-4j88)
-- [Full-Stack, Mobile &amp; Cloud Developer Portfolio](https://dev.to/dinesh_dk/full-stack-mobile-cloud-developer-portfolio-4olf)
-- [I Was Wrong: Selenium vs Playwright in 2025](https://dev.to/toasagi/i-was-wrong-selenium-vs-playwright-in-2025-4ope)
-- [Why the search for truth can never be worth more than the search to question it.](https://dev.to/tlrag/why-the-search-for-truth-can-never-be-worth-more-than-the-search-to-question-it-4dcb)
+- [Starting Without a Perfect Plan](https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d)
+- [Handling Production issue - Scaling Amazon Kinesis and AWS Lambda](https://dev.to/ankitmalikg/handling-production-issue-scaling-amazon-kinesis-and-aws-lambda-3f3n)
+- [5 App Store Screenshot Mistakes Killing Conversions &lpar;2026&rpar;](https://dev.to/appscreenshotstudio/5-app-store-screenshot-mistakes-killing-conversions-2026-5adp)
+- [from typing import FinallyAnExplanation](https://dev.to/frank-895/from-typing-import-finallyanexplanation-8m8)
 <!-- BLOG-POST-LIST:END -->
 
