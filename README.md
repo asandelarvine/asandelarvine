@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [To those who are left behind in the AI rush](https://dev.to/ms_74/to-those-who-are-left-behind-in-the-ai-rush-45f5)
-- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-34cn)
-- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
-- [Dicas avançadas do firefox](https://dev.to/voyeg3r/dicas-avancadas-do-firefox-3cg9)
+- [Building a Honeypot Scanner That Handles 2M Scans/Day for $0](https://dev.to/teycir/building-a-honeypot-scanner-that-handles-2m-scansday-for-0-d6a)
+- [We tested 5 AI commit-message skills on security. 3 made things worse.](https://dev.to/shadab_nazar/we-tested-5-ai-commit-message-skills-on-security-3-made-things-worse-mdm)
+- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
+- [Scaling Load Testing for Enterprises: A Go-Based Approach to Handling Massive Traffic](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-for-enterprises-a-go-based-approach-to-handling-massive-traffic-17ed)
 <!-- BLOG-POST-LIST:END -->
 
