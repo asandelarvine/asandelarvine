@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git &amp; GitHub for Beginners &lpar;Amazon Linux 2023&rpar;: Fork, Branch, Commit, Pull Request &lpar;Walkthrough&rpar;](https://dev.to/ldwit/git-github-for-beginners-amazon-linux-2023-fork-branch-commit-pull-request-walkthrough-j74)
-- [I&#39;m 14 and built a course tracker because Udemy&#39;s dashboard is not good enough](https://dev.to/dvfrog/im-14-and-built-a-course-tracker-because-udemys-dashboard-is-not-good-enough-4jk4)
-- [Top 10 AI Tools Every Developer Should Know in 2026](https://dev.to/md8_habibullah/top-10-ai-tools-every-developer-should-know-in-2026-44f7)
-- [Dark Web Monitoring: Signals, Noise, and Practical Constraints](https://dev.to/tor_bbb/dark-web-monitoring-signals-noise-and-practical-constraints-2250)
+- [What Does a Good Hackathon Submission Look Like?](https://dev.to/dorahacks/what-does-a-good-hackathon-submission-look-like-5398)
+- [bus factor = 1 &lpar;why i coded a kill switch for my death&rpar;](https://dev.to/gordazo0_7653f38e2d667dd1/bus-factor-1-why-i-coded-a-kill-switch-for-my-death-4lln)
+- [Why App Retention Metrics Quietly Push Teams Toward Dark Patterns](https://dev.to/ariana_1cd1f38541bf6cd69f/why-app-retention-metrics-quietly-push-teams-toward-dark-patterns-2j81)
+- [Local MCP Development with Zig and Gemini CLI](https://dev.to/gde/local-mcp-development-with-zig-and-gemini-cli-1807)
 <!-- BLOG-POST-LIST:END -->
 
