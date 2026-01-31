@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSec Ansible Collection: Hardening Linux, SSH, Nginx, MySQL](https://dev.to/stelixx-insider/devsec-ansible-collection-hardening-linux-ssh-nginx-mysql-50b9)
-- [Database Fundamentals](https://dev.to/sami21234/database-fundamentals-36ka)
-- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-1i9f)
-- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
+- [Backend Mastery from First Principles in the AI Era: &lpar;2026 Edition&rpar;](https://dev.to/girma35/backend-mastery-from-first-principles-in-the-ai-era-2026-edition-5col)
+- [Why CLAUDE.md Is one of the Most Important File in Your Codebase](https://dev.to/damogallagher/why-claudemd-is-one-of-the-most-important-file-in-your-codebase-292a)
+- [Building a Real-Time Satellite Tracker](https://dev.to/0xbhoomi_vashishtha/building-a-real-time-satellite-tracker-2da6)
+- [Introducing ACP Bridge to Amp Code](https://dev.to/shashikant86/introducing-acp-bridge-to-amp-code-50kc)
 <!-- BLOG-POST-LIST:END -->
 
