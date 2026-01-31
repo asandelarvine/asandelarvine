@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Almost futuristic portfolio](https://dev.to/lp_microbiana/almost-futuristic-portfolio-jjk)
-- [The Office Portfolio](https://dev.to/vignesh_pa_9fefa8b4e8a96/the-office-portfolio-pco)
-- [Reducing FOUC with Web Components](https://dev.to/stuffbreaker/reducing-fouc-with-web-components-1jnh)
-- [DevSession CLI](https://dev.to/dobrenteiistvan/devsession-cli-b17)
+- [I built a Rust-powered web vulnerability scanner with 60+ modules](https://dev.to/bountyyfi/i-built-a-rust-powered-web-vulnerability-scanner-with-60-modules-4og0)
+- [First on Dev Community](https://dev.to/riyyan_qazi_d92d27005b371/first-on-dev-community-4dgl)
+- [Building an Autonomous F1/10th Car #1: Intro and Why](https://dev.to/daveson217/building-an-autonomous-f110th-car-1-intro-and-why-3lck)
+- [Multimodal Prompting: The Next Frontier-How to Juggle Text, Images, and Files in a Single Request](https://dev.to/velocityai/multimodal-prompting-the-next-frontier-how-to-juggle-text-images-and-files-in-a-single-request-3112)
 <!-- BLOG-POST-LIST:END -->
 
