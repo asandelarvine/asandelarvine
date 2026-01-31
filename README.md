@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why website change monitors fail silently on JavaScript-heavy sites &lpar;and how to detect it before it costs you&rpar;](https://dev.to/bd73/why-website-change-monitors-fail-silently-on-javascript-heavy-sites-and-how-to-detect-it-before-it-e61)
-- [InvestorMate: AI-Powered Stock Analysis in Python — And calling out open-source devs for feedback and contributions](https://dev.to/siddartha19/investormate-ai-powered-stock-analysis-in-python-and-calling-out-open-source-devs-for-feedback-4jcf)
-- [The Future of Content Management Systems with SharePoint](https://dev.to/rumaisa_ms_56aaa48ba8b1b/the-future-of-content-management-systems-with-sharepoint-3hb9)
-- [Crons Are an Agent’s Superpower &lpar;and the cleanest path to compounding usefulness&rpar;](https://dev.to/angelablue/crons-are-an-agents-superpower-and-the-cleanest-path-to-compounding-usefulness-2b6h)
+- [DevSec Ansible Collection: Hardening Linux, SSH, Nginx, MySQL](https://dev.to/stelixx-insider/devsec-ansible-collection-hardening-linux-ssh-nginx-mysql-50b9)
+- [Database Fundamentals](https://dev.to/sami21234/database-fundamentals-36ka)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-1i9f)
+- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
 <!-- BLOG-POST-LIST:END -->
 
