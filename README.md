@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Honeypot Scanner That Handles 2M Scans/Day for $0](https://dev.to/teycir/building-a-honeypot-scanner-that-handles-2m-scansday-for-0-d6a)
-- [We tested 5 AI commit-message skills on security. 3 made things worse.](https://dev.to/shadab_nazar/we-tested-5-ai-commit-message-skills-on-security-3-made-things-worse-mdm)
-- [Practical Introduction to Async Generators in JavaScript](https://dev.to/pmbanugo/practical-introduction-to-async-generators-in-javascript-47k5)
-- [Scaling Load Testing for Enterprises: A Go-Based Approach to Handling Massive Traffic](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-for-enterprises-a-go-based-approach-to-handling-massive-traffic-17ed)
+- [Hackintosh the Easy Way: Generating a Clean EFI with OpCore-Simplify &lpar;Windows First&rpar;](https://dev.to/jervi/hackintosh-the-easy-way-generating-a-clean-efi-with-opcore-simplify-windows-first-466o)
+- [PHP 8.3–8.4 для Bitrix и WordPress: типизация, атрибуты, паттерны](https://dev.to/_vproger_/php-83-84-dlia-bitrix-i-wordpress-tipizatsiia-atributy-pattierny-24l8)
+- [Astro vs React/Vue и SSG: когда Astro — перебор, а когда спасение](https://dev.to/_vproger_/astro-vs-reactvue-i-ssg-koghda-astro-pieriebor-a-koghda-spasieniie-10g)
+- [SIEM-themed portfolio](https://dev.to/yowise/siem-themed-portfolio-4j5)
 <!-- BLOG-POST-LIST:END -->
 
