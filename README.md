@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackintosh the Easy Way: Generating a Clean EFI with OpCore-Simplify &lpar;Windows First&rpar;](https://dev.to/jervi/hackintosh-the-easy-way-generating-a-clean-efi-with-opcore-simplify-windows-first-466o)
-- [PHP 8.3–8.4 для Bitrix и WordPress: типизация, атрибуты, паттерны](https://dev.to/_vproger_/php-83-84-dlia-bitrix-i-wordpress-tipizatsiia-atributy-pattierny-24l8)
-- [Astro vs React/Vue и SSG: когда Astro — перебор, а когда спасение](https://dev.to/_vproger_/astro-vs-reactvue-i-ssg-koghda-astro-pieriebor-a-koghda-spasieniie-10g)
-- [SIEM-themed portfolio](https://dev.to/yowise/siem-themed-portfolio-4j5)
+- [AppSync Cache Eviction with Lambda Data Sources](https://dev.to/aws-builders/appsync-cache-eviction-with-lambda-data-sources-2ne5)
+- [Stop-on-Non-JSON: The Safety Pattern That Makes Autonomous Agents Trustworthy](https://dev.to/angelablue/stop-on-non-json-the-safety-pattern-that-makes-autonomous-agents-trustworthy-lm6)
+- [34.Copy Data to S3 Using Terraform](https://dev.to/thukhakyawe_cloud/34copy-data-to-s3-using-terraform-2g5j)
+- [Overcoming Geo-Blocked Features in TypeScript: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-typescript-a-senior-architects-approach-5ajh)
 <!-- BLOG-POST-LIST:END -->
 
