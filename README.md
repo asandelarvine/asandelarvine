@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Elixir’s Observability Ready for Production? A Guide for Skeptical Engineers](https://dev.to/arctarus/is-elixirs-observability-ready-for-production-a-guide-for-skeptical-engineers-2hj2)
-- [Train Your Own Z-Image Turbo LoRA on cloud GPUs](https://dev.to/ishaangupta1201/train-your-own-z-image-turbo-lora-on-cloud-gpus-247n)
-- [I Built an Open-Source CLI AI Coding Assistant in Go &lpar;and it costs $3/month&rpar;](https://dev.to/sungat_arynov_cda583888da/i-built-an-open-source-cli-ai-coding-assistant-in-go-and-it-costs-3month-4pma)
-- [How to run a multi-container app with Docker compose](https://dev.to/deborahemeni1/how-to-run-a-multi-container-app-with-docker-compose-25i7)
+- [Revisiting My esbuild Configuration: Lessons Learned from Snowflake and Prisma](https://dev.to/htuohz/revisiting-my-esbuild-configuration-lessons-learned-from-snowflake-and-prisma-40df)
+- [A Three-Layer Boot Architecture for AI-Native Systems](https://dev.to/hejhdiss/a-three-layer-boot-architecture-for-ai-native-systems-1cbl)
+- [AI can write code, but can you catch its mistakes?](https://dev.to/httpsabhis/ai-can-write-code-but-can-you-catch-its-mistakes-4hb)
+- [Breaking Through IP Bans in Web Scraping with Kubernetes: A DevOps Approach Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/breaking-through-ip-bans-in-web-scraping-with-kubernetes-a-devops-approach-under-tight-deadlines-32n7)
 <!-- BLOG-POST-LIST:END -->
 
