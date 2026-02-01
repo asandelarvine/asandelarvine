@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Speed vs Quality vs Security: Enforcing Microservice Consistency in the AI Era](https://dev.to/itsprakash84/speed-vs-quality-vs-security-enforcing-microservice-consistency-in-the-ai-era-53ic)
-- [The “Open Do Close” Rule That Changed How I Build Tools](https://dev.to/bhavin-allinonetools/the-open-do-close-rule-that-changed-how-i-build-tools-3p40)
-- [Engineering Management Nugget #6: From Firefighting to Architecting](https://dev.to/lek890/engineering-management-nugget-6-from-firefighting-to-architecting-2pme)
-- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
+- [Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-tackling-pii-leaks-in-legacy-code-with-typescript-3o20)
+- [Meet the AI Assistant That Guards My Portfolio](https://dev.to/dstushar7/meet-the-ai-assistant-that-guards-my-portfolio-57im)
+- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)
+- [[Opinion]Today&#39;s frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)
 <!-- BLOG-POST-LIST:END -->
 
