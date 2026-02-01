@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My editor saw me using Claude last week.](https://dev.to/pithycyborg/my-editor-saw-me-using-claude-last-week-2no4)
-- [From Terraform to Crossplane: How to Understand Crossplane if you already know Terraform?](https://dev.to/sarony11/from-terraform-to-crossplane-how-to-understand-crossplane-if-you-already-know-terraform-3ncn)
-- [/usage: Know Your Limits, Then Exceed Them](https://dev.to/rajeshroyal/usage-know-your-limits-then-exceed-them-4j3g)
-- [The Ten Commandments of Agentic AI](https://dev.to/dominiquegrys/the-ten-commandments-of-agentic-ai-1kmm)
+- [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)
+- [#Data analytics #Data Science #Power Bi](https://dev.to/arapzruto/data-analytics-data-science-power-bi-78k)
+- [Schemas and Data Modelling in Power BI](https://dev.to/atemba/schemas-and-data-modelling-in-power-bi-2oa8)
+- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
 <!-- BLOG-POST-LIST:END -->
 
