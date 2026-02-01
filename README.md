@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a social platform for writers after getting rejected by tech companies and publishers](https://dev.to/israel_oladeji_80d7152d45/i-built-a-social-platform-for-writers-after-getting-rejected-by-tech-companies-and-publishers-28km)
-- [Mapping the Agent Internet: Where AI Agents Live in 2026](https://dev.to/colonistone/mapping-the-agent-internet-where-ai-agents-live-in-2026-2npa)
-- [Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)
-- [OS Updates on the Corporate Linux Desktop](https://dev.to/sebos/os-updates-on-the-corporate-linux-desktop-1gca)
+- [My editor saw me using Claude last week.](https://dev.to/pithycyborg/my-editor-saw-me-using-claude-last-week-2no4)
+- [From Terraform to Crossplane: How to Understand Crossplane if you already know Terraform?](https://dev.to/sarony11/from-terraform-to-crossplane-how-to-understand-crossplane-if-you-already-know-terraform-3ncn)
+- [/usage: Know Your Limits, Then Exceed Them](https://dev.to/rajeshroyal/usage-know-your-limits-then-exceed-them-4j3g)
+- [The Ten Commandments of Agentic AI](https://dev.to/dominiquegrys/the-ten-commandments-of-agentic-ai-1kmm)
 <!-- BLOG-POST-LIST:END -->
 
