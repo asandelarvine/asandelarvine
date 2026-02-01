@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding API Complexity: A Technical Deep Dive into Full-Spectrum Specification Intelligence](https://dev.to/ayoub_hadef_bb5f0716342a8/decoding-api-complexity-a-technical-deep-dive-into-full-spectrum-specification-intelligence-111g)
-- [Mastering Memory Leak Debugging in Rust During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/mastering-memory-leak-debugging-in-rust-during-high-traffic-events-9bb)
-- [Streamlining Test Account Management in Microservices Ecosystems with DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-microservices-ecosystems-with-devops-2mc0)
-- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
+- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
+- [05. C# &lpar;AND / OR Logical Operators &amp; Short-Circuit&rpar;](https://dev.to/sabin_sim/05-c-and-or-logical-operators-short-circuit-4gba)
+- [Mastering Spam Trap Avoidance with DevOps: A Senior Architect’s Approach Amidst Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-with-devops-a-senior-architects-approach-amidst-documentation-gaps-13he)
+- [Scripts for Suggesting Standup Alternatives to Your Manager](https://dev.to/ghostinit0x/scripts-for-suggesting-standup-alternatives-to-your-manager-5886)
 <!-- BLOG-POST-LIST:END -->
 
