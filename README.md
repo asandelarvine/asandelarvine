@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/sanjeev_singh_d0e6cd59459/emmet-for-html-a-beginners-guide-to-writing-faster-markup-2995)
-- [Swift Concurrency](https://dev.to/onnerb/swift-concurrency-3em1)
-- [Gas Optimization Strategies: Why Your Contract Costs More &lpar;And How to Fix It&rpar;](https://dev.to/ribhavmodi/gas-optimization-strategies-why-your-contract-costs-more-and-how-to-fix-it-2blm)
-- [Understanding HTML , Tags, Elements&lpar;Basics&rpar;](https://dev.to/rahul_kumarparida_6c16f5/understanding-html-tags-elementsbasics-d54)
+- [I built a social platform for writers after getting rejected by tech companies and publishers](https://dev.to/israel_oladeji_80d7152d45/i-built-a-social-platform-for-writers-after-getting-rejected-by-tech-companies-and-publishers-28km)
+- [Mapping the Agent Internet: Where AI Agents Live in 2026](https://dev.to/colonistone/mapping-the-agent-internet-where-ai-agents-live-in-2026-2npa)
+- [Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)
+- [OS Updates on the Corporate Linux Desktop](https://dev.to/sebos/os-updates-on-the-corporate-linux-desktop-1gca)
 <!-- BLOG-POST-LIST:END -->
 
