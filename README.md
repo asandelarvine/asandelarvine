@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Test Environments: Tackling PII Leaks in Legacy Code with TypeScript](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-tackling-pii-leaks-in-legacy-code-with-typescript-3o20)
-- [Meet the AI Assistant That Guards My Portfolio](https://dev.to/dstushar7/meet-the-ai-assistant-that-guards-my-portfolio-57im)
-- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)
-- [[Opinion]Today&#39;s frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-2-2id7)
+- [Backend Without HTTP: How Would the Web Work?](https://dev.to/rohit_giri/backend-without-http-how-would-the-web-work-e26)
+- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
+- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
 <!-- BLOG-POST-LIST:END -->
 
