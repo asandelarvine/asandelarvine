@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting My esbuild Configuration: Lessons Learned from Snowflake and Prisma](https://dev.to/htuohz/revisiting-my-esbuild-configuration-lessons-learned-from-snowflake-and-prisma-40df)
-- [A Three-Layer Boot Architecture for AI-Native Systems](https://dev.to/hejhdiss/a-three-layer-boot-architecture-for-ai-native-systems-1cbl)
-- [AI can write code, but can you catch its mistakes?](https://dev.to/httpsabhis/ai-can-write-code-but-can-you-catch-its-mistakes-4hb)
-- [Breaking Through IP Bans in Web Scraping with Kubernetes: A DevOps Approach Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/breaking-through-ip-bans-in-web-scraping-with-kubernetes-a-devops-approach-under-tight-deadlines-32n7)
+- [Desenvolver aplicações de AI com o melhor prompt e contexto.](https://dev.to/airton_lirajunior_2ddebd/desenvolver-aplicacoes-de-ai-com-o-melhor-prompt-e-contexto-334a)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/ritam369/css-selectors-101-targeting-elements-with-precision-4i50)
+- [Leveraging Python to Bypass Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-python-to-bypass-gated-content-during-high-traffic-events-2m9h)
+- [I Built QualityHub: AI-Powered Quality Intelligence for Your Releases](https://dev.to/younes_bentlili_9480340f/i-built-qualityhub-ai-powered-quality-intelligence-for-your-releases-40d3)
 <!-- BLOG-POST-LIST:END -->
 
