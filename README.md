@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)
-- [#Data analytics #Data Science #Power Bi](https://dev.to/arapzruto/data-analytics-data-science-power-bi-78k)
-- [Schemas and Data Modelling in Power BI](https://dev.to/atemba/schemas-and-data-modelling-in-power-bi-2oa8)
-- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
+- [Decoding API Complexity: A Technical Deep Dive into Full-Spectrum Specification Intelligence](https://dev.to/ayoub_hadef_bb5f0716342a8/decoding-api-complexity-a-technical-deep-dive-into-full-spectrum-specification-intelligence-111g)
+- [Mastering Memory Leak Debugging in Rust During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/mastering-memory-leak-debugging-in-rust-during-high-traffic-events-9bb)
+- [Streamlining Test Account Management in Microservices Ecosystems with DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-microservices-ecosystems-with-devops-2mc0)
+- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
 <!-- BLOG-POST-LIST:END -->
 
