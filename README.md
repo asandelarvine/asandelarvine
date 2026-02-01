@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AppSync Cache Eviction with Lambda Data Sources](https://dev.to/aws-builders/appsync-cache-eviction-with-lambda-data-sources-2ne5)
-- [Stop-on-Non-JSON: The Safety Pattern That Makes Autonomous Agents Trustworthy](https://dev.to/angelablue/stop-on-non-json-the-safety-pattern-that-makes-autonomous-agents-trustworthy-lm6)
-- [34.Copy Data to S3 Using Terraform](https://dev.to/thukhakyawe_cloud/34copy-data-to-s3-using-terraform-2g5j)
-- [Overcoming Geo-Blocked Features in TypeScript: A Senior Architect’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-typescript-a-senior-architects-approach-5ajh)
+- [Speed vs Quality vs Security: Enforcing Microservice Consistency in the AI Era](https://dev.to/itsprakash84/speed-vs-quality-vs-security-enforcing-microservice-consistency-in-the-ai-era-53ic)
+- [The “Open Do Close” Rule That Changed How I Build Tools](https://dev.to/bhavin-allinonetools/the-open-do-close-rule-that-changed-how-i-build-tools-3p40)
+- [Engineering Management Nugget #6: From Firefighting to Architecting](https://dev.to/lek890/engineering-management-nugget-6-from-firefighting-to-architecting-2pme)
+- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
 <!-- BLOG-POST-LIST:END -->
 
