@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-2-2id7)
-- [Backend Without HTTP: How Would the Web Work?](https://dev.to/rohit_giri/backend-without-http-how-would-the-web-work-e26)
-- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
-- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
+- [How to create canonical URLs in Gatsby?](https://dev.to/dekigk/how-to-create-canonical-urls-in-gatsby-1nd8)
+- [Leveraging TypeScript to Bypass Gated Content in Automated Testing](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-typescript-to-bypass-gated-content-in-automated-testing-26cb)
+- [React Best Practices in Cursor](https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e)
+- [AI Agents Fundamentals](https://dev.to/mazumdarabhishek/ai-agents-fundamentals-idg)
 <!-- BLOG-POST-LIST:END -->
 
