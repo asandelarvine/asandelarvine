@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolver aplicações de AI com o melhor prompt e contexto.](https://dev.to/airton_lirajunior_2ddebd/desenvolver-aplicacoes-de-ai-com-o-melhor-prompt-e-contexto-334a)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/ritam369/css-selectors-101-targeting-elements-with-precision-4i50)
-- [Leveraging Python to Bypass Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-python-to-bypass-gated-content-during-high-traffic-events-2m9h)
-- [I Built QualityHub: AI-Powered Quality Intelligence for Your Releases](https://dev.to/younes_bentlili_9480340f/i-built-qualityhub-ai-powered-quality-intelligence-for-your-releases-40d3)
+- [You Probably Don&#39;t Need Kubernetes for Odoo](https://dev.to/parthiv_patel_5f6da1d3f38/-you-probably-dont-need-kubernetes-for-odoo-52o8)
+- [Why Lovable.dev sites struggle with search engine and LLM indexing](https://dev.to/jbobbink/why-lovabledev-sites-struggle-with-search-engine-and-llm-indexing-36kp)
+- [Clearing Clutter: Using Web Scraping to Optimize Production Databases Without Budget](https://dev.to/mohammad_waseem_c31f3a26f/clearing-clutter-using-web-scraping-to-optimize-production-databases-without-budget-3jaa)
+- [Migrating from Nginx to Angie: A Real-World Journey from Certbot to Built-in ACME](https://dev.to/stan-breaks/migrating-from-nginx-to-angie-a-real-world-journey-from-certbot-to-built-in-acme-7a3)
 <!-- BLOG-POST-LIST:END -->
 
