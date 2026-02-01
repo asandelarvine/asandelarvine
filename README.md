@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
-- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
-- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
-- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
+- [Securing Test Environments: Eliminating PII Leaks in React with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-in-react-with-open-source-tools-3ioo)
+- [Overcoming Geo-Blocked Features: A Senior Architect&#39;s Strategy for Rapid QA Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-a-senior-architects-strategy-for-rapid-qa-testing-41kn)
+- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
+- [Sleek Portfolio](https://dev.to/mrityunjay_tiwarimt_89/sleek-portfolio-3g1p)
 <!-- BLOG-POST-LIST:END -->
 
