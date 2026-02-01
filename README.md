@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Most Beautiful Markdown Viewer for Developers &lpar;And It&#39;s Free&rpar;](https://dev.to/chieund/i-built-the-most-beautiful-markdown-viewer-for-developers-and-its-free-4km6)
-- [&lpar;Mis-&rpar;Use Spring proxy magic to inject Http request into business layer - should you?](https://dev.to/mumbocoder/mis-use-spring-proxy-magic-to-inject-http-request-into-business-layer-should-you-4fgb)
-- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
-- [Context Engineering: Designing AI Systems That Actually Understand Your Codebase](https://dev.to/daylay92/context-engineering-designing-ai-systems-that-actually-understand-your-codebase-28bf)
+- [Why Memory Compatibility &lpar;QVL&rpar; Matters on Modern DDR5 Systems](https://dev.to/bios-doctor/why-memory-compatibility-qvl-matters-on-modern-ddr5-systems-2689)
+- [Linux Fundamentals - Part 5: Bash Scripting &lpar;Hello World &amp; Variables&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-5-bash-scripting-hello-world-variables-10l9)
+- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
+- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
 <!-- BLOG-POST-LIST:END -->
 
