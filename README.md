@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You Probably Don&#39;t Need Kubernetes for Odoo](https://dev.to/parthiv_patel_5f6da1d3f38/-you-probably-dont-need-kubernetes-for-odoo-52o8)
-- [Why Lovable.dev sites struggle with search engine and LLM indexing](https://dev.to/jbobbink/why-lovabledev-sites-struggle-with-search-engine-and-llm-indexing-36kp)
-- [Clearing Clutter: Using Web Scraping to Optimize Production Databases Without Budget](https://dev.to/mohammad_waseem_c31f3a26f/clearing-clutter-using-web-scraping-to-optimize-production-databases-without-budget-3jaa)
-- [Migrating from Nginx to Angie: A Real-World Journey from Certbot to Built-in ACME](https://dev.to/stan-breaks/migrating-from-nginx-to-angie-a-real-world-journey-from-certbot-to-built-in-acme-7a3)
+- [I Built the Most Beautiful Markdown Viewer for Developers &lpar;And It&#39;s Free&rpar;](https://dev.to/chieund/i-built-the-most-beautiful-markdown-viewer-for-developers-and-its-free-4km6)
+- [&lpar;Mis-&rpar;Use Spring proxy magic to inject Http request into business layer - should you?](https://dev.to/mumbocoder/mis-use-spring-proxy-magic-to-inject-http-request-into-business-layer-should-you-4fgb)
+- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
+- [Context Engineering: Designing AI Systems That Actually Understand Your Codebase](https://dev.to/daylay92/context-engineering-designing-ai-systems-that-actually-understand-your-codebase-28bf)
 <!-- BLOG-POST-LIST:END -->
 
