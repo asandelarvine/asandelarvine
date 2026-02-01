@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Memory Compatibility &lpar;QVL&rpar; Matters on Modern DDR5 Systems](https://dev.to/bios-doctor/why-memory-compatibility-qvl-matters-on-modern-ddr5-systems-2689)
-- [Linux Fundamentals - Part 5: Bash Scripting &lpar;Hello World &amp; Variables&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-5-bash-scripting-hello-world-variables-10l9)
-- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
-- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/sanjeev_singh_d0e6cd59459/emmet-for-html-a-beginners-guide-to-writing-faster-markup-2995)
+- [Swift Concurrency](https://dev.to/onnerb/swift-concurrency-3em1)
+- [Gas Optimization Strategies: Why Your Contract Costs More &lpar;And How to Fix It&rpar;](https://dev.to/ribhavmodi/gas-optimization-strategies-why-your-contract-costs-more-and-how-to-fix-it-2blm)
+- [Understanding HTML , Tags, Elements&lpar;Basics&rpar;](https://dev.to/rahul_kumarparida_6c16f5/understanding-html-tags-elementsbasics-d54)
 <!-- BLOG-POST-LIST:END -->
 
