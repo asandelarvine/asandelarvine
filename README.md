@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Spam Trap Avoidance in React Without Spending a Dime](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em)
-- [05. C# &lpar;AND / OR Logical Operators &amp; Short-Circuit&rpar;](https://dev.to/sabin_sim/05-c-and-or-logical-operators-short-circuit-4gba)
-- [Mastering Spam Trap Avoidance with DevOps: A Senior Architect’s Approach Amidst Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-with-devops-a-senior-architects-approach-amidst-documentation-gaps-13he)
-- [Scripts for Suggesting Standup Alternatives to Your Manager](https://dev.to/ghostinit0x/scripts-for-suggesting-standup-alternatives-to-your-manager-5886)
+- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
+- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
+- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
+- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
 <!-- BLOG-POST-LIST:END -->
 
