@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
-- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
-- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-11k9)
-- [GoAI - A Clean, Multi-Provider LLM Client for Go](https://dev.to/dariubs/goai-a-clean-multi-provider-llm-client-for-go-27o5)
+- [🪙Let’s Become a Millionaire in a Second &lpar;Gold Fountain with React Three Fiber&rpar;🪙](https://dev.to/webdeveloperhyper/lets-become-a-millionaire-in-a-second-gold-fountain-with-react-three-fiber-3mo2)
+- [Hello Dev.to! Excited to Share &amp; Learn](https://dev.to/waelodeh98/hello-devto-excited-to-share-learn-2hkg)
+- [How AI Agents Changed What I Write About &lpar;And Why You Should Still Care About Git&rpar;](https://dev.to/david_shimon/how-ai-agents-changed-what-i-write-about-and-why-you-should-still-care-about-git-5g72)
+- [[SUI] NavigationStack](https://dev.to/david_goyes_a488f58a17a53/sui-navigationstack-37hj)
 <!-- BLOG-POST-LIST:END -->
 
