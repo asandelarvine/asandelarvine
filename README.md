@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine](https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h)
-- [Schemas &amp; Data Modelling in Power BI](https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no)
-- [Neural Bridge: My AI-First Portfolio with a Live Gemini-Powered Clone You Can Interview](https://dev.to/zelalemgizachew/neural-bridge-my-ai-first-portfolio-with-a-live-gemini-powered-clone-you-can-interview-10nk)
-- [I Built a Retro Gamified Portfolio &lpar;Yes, With Pixel Art, Games &amp; Windows 95 Vibes&rpar; 🎮](https://dev.to/mewmewdevart/i-built-a-retro-gamified-portfolio-yes-with-pixel-art-games-windows-95-vibes-589k)
+- [Cool article](https://dev.to/anthonymax/cool-article-1ee6)
+- [How to Export Kindle Highlights as Markdown Using Glasp](https://dev.to/glasp/how-to-export-kindle-highlights-as-markdown-using-glasp-m2m)
+- [DevFlow - Build Anywhere with GitHub Copilot CLI](https://dev.to/miracleio/devflow-build-anywhere-with-github-copilot-cli-2apc)
+- [Power BI Data Modeling Made Simple: Your Complete Beginner&#39;s Guide](https://dev.to/mariam_turnesh/power-bi-data-modeling-made-simple-your-complete-beginners-guide-17il)
 <!-- BLOG-POST-LIST:END -->
 
