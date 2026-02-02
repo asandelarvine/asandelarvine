@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power BI Made Simple: Data Modelling Beginner&#39;s Guide](https://dev.to/willygachengo/power-bi-made-simple-data-modelling-beginners-guide-1de7)
-- [The Overlooked Attack Surface in Enterprise RAG Systems](https://dev.to/fabiotoky/the-overlooked-attack-surface-in-enterprise-rag-systems-53hg)
-- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
-- [38.User Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/38user-variable-setup-using-terraform-1l2g)
+- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-11k9)
+- [GoAI - A Clean, Multi-Provider LLM Client for Go](https://dev.to/dariubs/goai-a-clean-multi-provider-llm-client-for-go-27o5)
 <!-- BLOG-POST-LIST:END -->
 
