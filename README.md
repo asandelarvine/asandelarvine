@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Hidden Gift: We&#39;re Rediscovering the Practice of Coding](https://dev.to/canro91/ais-hidden-gift-were-rediscovering-the-practice-of-coding-2da2)
-- [MCPs, Claude Code, Codex, Moltbot &lpar;Clawdbot&rpar; — and the 2026 Workflow Shift in AI Development](https://dev.to/austinwdigital/mcps-claude-code-codex-moltbot-clawdbot-and-the-2026-workflow-shift-in-ai-development-1o04)
-- [The Teacher as Gradient: What Backpropagation Taught Me About Learning](https://dev.to/sreeni5018/the-teacher-as-gradient-what-backpropagation-taught-me-about-learning-1gek)
-- [🚀 Attendance Management System | Full-Stack Project](https://dev.to/karthikav_tkm_4e6cf04b18/attendance-management-system-full-stack-project-3gf)
+- [Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine](https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h)
+- [Schemas &amp; Data Modelling in Power BI](https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no)
+- [Neural Bridge: My AI-First Portfolio with a Live Gemini-Powered Clone You Can Interview](https://dev.to/zelalemgizachew/neural-bridge-my-ai-first-portfolio-with-a-live-gemini-powered-clone-you-can-interview-10nk)
+- [I Built a Retro Gamified Portfolio &lpar;Yes, With Pixel Art, Games &amp; Windows 95 Vibes&rpar; 🎮](https://dev.to/mewmewdevart/i-built-a-retro-gamified-portfolio-yes-with-pixel-art-games-windows-95-vibes-589k)
 <!-- BLOG-POST-LIST:END -->
 
