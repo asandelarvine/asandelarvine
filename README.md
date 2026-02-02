@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Test Environments: Eliminating PII Leaks in React with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-eliminating-pii-leaks-in-react-with-open-source-tools-3ioo)
-- [Overcoming Geo-Blocked Features: A Senior Architect&#39;s Strategy for Rapid QA Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-a-senior-architects-strategy-for-rapid-qa-testing-41kn)
-- [Securing Test Environments: Preventing PII Leaks in React-Based Microservices](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji)
-- [Sleek Portfolio](https://dev.to/mrityunjay_tiwarimt_89/sleek-portfolio-3g1p)
+- [The Semantic Bridge: Building a Translator’s Dev Portfolio Entirely in Google AI Studio](https://dev.to/tandivina/the-semantic-bridge-building-a-translators-dev-portfolio-entirely-in-google-ai-studio-njb)
+- [AI-Assisted Development in 2026: Best Practices, Real Risks, and the New Bar for Engineers](https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom)
+- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
+- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
 <!-- BLOG-POST-LIST:END -->
 
