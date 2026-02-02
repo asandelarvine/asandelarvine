@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool article](https://dev.to/anthonymax/cool-article-1ee6)
-- [How to Export Kindle Highlights as Markdown Using Glasp](https://dev.to/glasp/how-to-export-kindle-highlights-as-markdown-using-glasp-m2m)
-- [DevFlow - Build Anywhere with GitHub Copilot CLI](https://dev.to/miracleio/devflow-build-anywhere-with-github-copilot-cli-2apc)
-- [Power BI Data Modeling Made Simple: Your Complete Beginner&#39;s Guide](https://dev.to/mariam_turnesh/power-bi-data-modeling-made-simple-your-complete-beginners-guide-17il)
+- [Power BI Made Simple: Data Modelling Beginner&#39;s Guide](https://dev.to/willygachengo/power-bi-made-simple-data-modelling-beginners-guide-1de7)
+- [The Overlooked Attack Surface in Enterprise RAG Systems](https://dev.to/fabiotoky/the-overlooked-attack-surface-in-enterprise-rag-systems-53hg)
+- [How to Save Terminal Commands in Windows Using PowerShell Transcript](https://dev.to/chabbasaad/how-to-save-terminal-commands-in-windows-using-powershell-transcript-2m6j)
+- [38.User Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/38user-variable-setup-using-terraform-1l2g)
 <!-- BLOG-POST-LIST:END -->
 
