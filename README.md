@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using effectScope to Control Vue Reactivity Lifecycles](https://dev.to/jacobandrewsky/using-effectscope-to-control-vue-reactivity-lifecycles-2mml)
-- [PART 7 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-8-controller-all-concept-in-springboot-project-1j31)
-- [Building an Autonomous AI Agent Marketplace with Agno &amp; Ollama](https://dev.to/harishkotra/building-an-autonomous-ai-agent-marketplace-with-agno-ollama-4l12)
-- [Weeks 4 &amp; 5: Recursion and Arrays in JavaScript](https://dev.to/precix_phantom/weeks-4-5-recursion-and-arrays-in-javascript-10ic)
+- [Getting High-Quality Output from 7B Models: A Production-Grade Prompting Playbook](https://dev.to/superorange0707/getting-high-quality-output-from-7b-models-a-production-grade-prompting-playbook-21hi)
+- [Choosing a Workplace in North Carolina: How Job Seekers Can Thoughtfully Evaluate DEI](https://dev.to/shane_windmeyer/choosing-a-workplace-in-north-carolina-how-job-seekers-can-thoughtfully-evaluate-dei-ch0)
+- [Zero-Touch Secrets: On-The-Wire Injection of Vault-Sourced Credentials](https://dev.to/riptides/zero-touch-secrets-on-the-wire-injection-of-vault-sourced-credentials-10if)
+- [Ethereum-Solidity Quiz Q27: How are Layer 2 networks making transactions fees cheaper?](https://dev.to/mihaihng/ethereum-solidity-quiz-q27-how-are-layer-2-networks-making-transactions-fees-cheaper-1llc)
 <!-- BLOG-POST-LIST:END -->
 
