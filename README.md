@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 GoodUI — Learn from Real A/B Test Results](https://dev.to/ml318097/goodui-learn-from-real-ab-test-results-1kon)
-- [AI Just Built Its Own Social Network. And Humans Aren’t Invited.](https://dev.to/salaria_labs/ai-just-built-its-own-social-network-and-humans-arent-invited-2f6k)
-- [How to Install Java 17 on Linux &lpar;Zorin OS/Ubuntu&rpar; in 1 Minute! 🐧☕](https://dev.to/codesniper221/how-to-install-java-17-on-linux-zorin-osubuntu-in-1-minute-2bob)
-- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
+- [How Vibe Coding Drains Open Source](https://dev.to/sashido/how-vibe-coding-drains-open-source-546l)
+- [Running GitHub Copilot CLI Safely with Docker Sandbox](https://dev.to/brunoborges/running-github-copilot-cli-safely-with-docker-sandbox-2f4i)
+- [How I Convert Sketch Designs Into React Native Apps: My Practical Guide](https://dev.to/arinvolkov/how-i-convert-sketch-designs-into-react-native-apps-my-practical-guide-3c7l)
+- [The &#39;Sprint&#39; Illusion: 3 Bosses, 0 Tech Leads, and the &#39;AI-Generated&#39; Debt](https://dev.to/jmontagne/the-sprint-illusion-3-bosses-0-tech-leads-and-the-ai-generated-debt-3dfg)
 <!-- BLOG-POST-LIST:END -->
 
