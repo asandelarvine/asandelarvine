@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🪙Let’s Become a Millionaire in a Second &lpar;Gold Fountain with React Three Fiber&rpar;🪙](https://dev.to/webdeveloperhyper/lets-become-a-millionaire-in-a-second-gold-fountain-with-react-three-fiber-3mo2)
-- [Hello Dev.to! Excited to Share &amp; Learn](https://dev.to/waelodeh98/hello-devto-excited-to-share-learn-2hkg)
-- [How AI Agents Changed What I Write About &lpar;And Why You Should Still Care About Git&rpar;](https://dev.to/david_shimon/how-ai-agents-changed-what-i-write-about-and-why-you-should-still-care-about-git-5g72)
-- [[SUI] NavigationStack](https://dev.to/david_goyes_a488f58a17a53/sui-navigationstack-37hj)
+- [Using effectScope to Control Vue Reactivity Lifecycles](https://dev.to/jacobandrewsky/using-effectscope-to-control-vue-reactivity-lifecycles-2mml)
+- [PART 7 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-8-controller-all-concept-in-springboot-project-1j31)
+- [Building an Autonomous AI Agent Marketplace with Agno &amp; Ollama](https://dev.to/harishkotra/building-an-autonomous-ai-agent-marketplace-with-agno-ollama-4l12)
+- [Weeks 4 &amp; 5: Recursion and Arrays in JavaScript](https://dev.to/precix_phantom/weeks-4-5-recursion-and-arrays-in-javascript-10ic)
 <!-- BLOG-POST-LIST:END -->
 
