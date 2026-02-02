@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Vibe Coding Drains Open Source](https://dev.to/sashido/how-vibe-coding-drains-open-source-546l)
-- [Running GitHub Copilot CLI Safely with Docker Sandbox](https://dev.to/brunoborges/running-github-copilot-cli-safely-with-docker-sandbox-2f4i)
-- [How I Convert Sketch Designs Into React Native Apps: My Practical Guide](https://dev.to/arinvolkov/how-i-convert-sketch-designs-into-react-native-apps-my-practical-guide-3c7l)
-- [The &#39;Sprint&#39; Illusion: 3 Bosses, 0 Tech Leads, and the &#39;AI-Generated&#39; Debt](https://dev.to/jmontagne/the-sprint-illusion-3-bosses-0-tech-leads-and-the-ai-generated-debt-3dfg)
+- [High-performance backend scripting for .NET](https://dev.to/giannoudis/high-performance-backend-scripting-for-net-1jpg)
+- [Running a SPA inside ChatGPT using MCP Apps &lpar;Step-by-Step Guide&rpar;](https://dev.to/nyaomaru/running-a-spa-inside-chatgpt-using-mcp-apps-step-by-step-guide-o52)
+- [Training classic ML using GPU on windows](https://dev.to/siddhartha_reddy/using-cuml-on-windows-49e2)
+- [DigitalOcean on Dev.to: Practical AI Insights for Builders](https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c)
 <!-- BLOG-POST-LIST:END -->
 
