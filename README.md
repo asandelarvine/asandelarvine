@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Semantic Bridge: Building a Translator’s Dev Portfolio Entirely in Google AI Studio](https://dev.to/tandivina/the-semantic-bridge-building-a-translators-dev-portfolio-entirely-in-google-ai-studio-njb)
-- [AI-Assisted Development in 2026: Best Practices, Real Risks, and the New Bar for Engineers](https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom)
-- [Mobile Developer Portfolio](https://dev.to/paul_leung_dcbf90b7c5de1f/mobile-developer-portfolio-1bke)
-- [From Product Grids to Personal Stylists: Conversational Upselling with AI](https://dev.to/gervaisamoah/from-product-grids-to-personal-stylists-conversational-upselling-with-ai-3aj1)
+- [AI&#39;s Hidden Gift: We&#39;re Rediscovering the Practice of Coding](https://dev.to/canro91/ais-hidden-gift-were-rediscovering-the-practice-of-coding-2da2)
+- [MCPs, Claude Code, Codex, Moltbot &lpar;Clawdbot&rpar; — and the 2026 Workflow Shift in AI Development](https://dev.to/austinwdigital/mcps-claude-code-codex-moltbot-clawdbot-and-the-2026-workflow-shift-in-ai-development-1o04)
+- [The Teacher as Gradient: What Backpropagation Taught Me About Learning](https://dev.to/sreeni5018/the-teacher-as-gradient-what-backpropagation-taught-me-about-learning-1gek)
+- [🚀 Attendance Management System | Full-Stack Project](https://dev.to/karthikav_tkm_4e6cf04b18/attendance-management-system-full-stack-project-3gf)
 <!-- BLOG-POST-LIST:END -->
 
