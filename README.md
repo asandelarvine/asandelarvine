@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [High-performance backend scripting for .NET](https://dev.to/giannoudis/high-performance-backend-scripting-for-net-1jpg)
-- [Running a SPA inside ChatGPT using MCP Apps &lpar;Step-by-Step Guide&rpar;](https://dev.to/nyaomaru/running-a-spa-inside-chatgpt-using-mcp-apps-step-by-step-guide-o52)
-- [Training classic ML using GPU on windows](https://dev.to/siddhartha_reddy/using-cuml-on-windows-49e2)
-- [DigitalOcean on Dev.to: Practical AI Insights for Builders](https://dev.to/digitalocean/digitalocean-on-devto-practical-ai-insights-for-builders-3g0c)
+- [Generating a Parametric SVG Logo with Pug](https://dev.to/bitifet/generating-a-parametric-svg-logo-with-pug-8m0)
+- [Data Migration Between Servers Using BTEQ Scripts in Informatica Cloud](https://dev.to/hira_12345/data-migration-between-servers-using-bteq-scripts-in-informatica-cloud-kdf)
+- [Recovering from Partial Failures in Enterprise MCP Tools](https://dev.to/zaynelt/recovering-from-partial-failures-in-enterprise-mcp-tools-1m76)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
 <!-- BLOG-POST-LIST:END -->
 
