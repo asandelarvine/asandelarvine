@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting High-Quality Output from 7B Models: A Production-Grade Prompting Playbook](https://dev.to/superorange0707/getting-high-quality-output-from-7b-models-a-production-grade-prompting-playbook-21hi)
-- [Choosing a Workplace in North Carolina: How Job Seekers Can Thoughtfully Evaluate DEI](https://dev.to/shane_windmeyer/choosing-a-workplace-in-north-carolina-how-job-seekers-can-thoughtfully-evaluate-dei-ch0)
-- [Zero-Touch Secrets: On-The-Wire Injection of Vault-Sourced Credentials](https://dev.to/riptides/zero-touch-secrets-on-the-wire-injection-of-vault-sourced-credentials-10if)
-- [Ethereum-Solidity Quiz Q27: How are Layer 2 networks making transactions fees cheaper?](https://dev.to/mihaihng/ethereum-solidity-quiz-q27-how-are-layer-2-networks-making-transactions-fees-cheaper-1llc)
+- [🧠 GoodUI — Learn from Real A/B Test Results](https://dev.to/ml318097/goodui-learn-from-real-ab-test-results-1kon)
+- [AI Just Built Its Own Social Network. And Humans Aren’t Invited.](https://dev.to/salaria_labs/ai-just-built-its-own-social-network-and-humans-arent-invited-2f6k)
+- [How to Install Java 17 on Linux &lpar;Zorin OS/Ubuntu&rpar; in 1 Minute! 🐧☕](https://dev.to/codesniper221/how-to-install-java-17-on-linux-zorin-osubuntu-in-1-minute-2bob)
+- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
 <!-- BLOG-POST-LIST:END -->
 
