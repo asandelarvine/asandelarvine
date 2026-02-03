@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Path Not Taken](https://dev.to/commencesoftware/a-path-not-taken-11hc)
-- [Stop Logging Raw JSON: How I Built a Visual Audit Trail for Filament PHP](https://dev.to/ianstudios_ac9bc/stop-logging-raw-json-how-i-built-a-visual-audit-trail-for-filament-php-17ik)
-- [40GB of Bot Traffic Later: I&#39;m Open Sourcing 8,000+ n8n Workflows 🚀](https://dev.to/iloven8n/40gb-of-bot-traffic-later-im-open-sourcing-8000-n8n-workflows-3mhf)
-- [Rick Beato: Why Don’t People Use Chords Like This Anymore?](https://dev.to/music_youtube/rick-beato-why-dont-people-use-chords-like-this-anymore-3m9i)
+- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
+- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
+- [Help: My expo+nativewind project runs well on the web &lpar;Chrome&rpar;, but encounters errors on Android + expoGo.](https://dev.to/kerryjavalin/help-my-exponativewind-project-runs-well-on-the-web-chrome-but-encounters-errors-on-android--p30)
+- [Behind the Vision](https://dev.to/infraforgelabs/behind-the-vision-4fka)
 <!-- BLOG-POST-LIST:END -->
 
