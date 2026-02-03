@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [63 Q&amp;As from Watching Karpathy&#39;s LLM Tutorial Twice](https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl)
-- [Tackling Core Web Vitals on a Heavy React App](https://dev.to/leo_d/tackling-core-web-vitals-on-a-heavy-react-app-4d70)
-- [How B-Tree Indexes Work in SQL Databases: An Intuitive Guide](https://dev.to/ashraf_shaik_ee7ab42b0eb3/how-b-tree-indexes-work-in-sql-databases-an-intuitive-guide-3e71)
-- [Beyond the Standard Model :Introducing the &quot;Cousins&quot; of the Memory-Native Neural Network Family](https://dev.to/hejhdiss/beyond-the-standard-model-introducing-the-cousins-of-the-memory-native-neural-network-family-5emh)
+- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
+- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
+- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
+- [The React Timer Trap: Refactoring a &quot;Simple&quot; Countdown from Buggy to Bulletproof](https://dev.to/orhalim/the-react-timer-trap-refactoring-a-simple-countdown-from-buggy-to-bulletproof-3ogj)
 <!-- BLOG-POST-LIST:END -->
 
