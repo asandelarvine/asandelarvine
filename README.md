@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your First React Project with Vite and VS Code](https://dev.to/christal_riziki_62c4dd40f/setting-up-your-first-react-project-with-vite-and-vs-code-on0)
-- [Setting up Laravel and Filament for Personal Finance](https://dev.to/maiobarbero/setting-up-laravel-and-filament-for-personal-finance-5om)
-- [Advanced Techniques for Bypassing Gated Content with Linux and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/advanced-techniques-for-bypassing-gated-content-with-linux-and-open-source-tools-2m55)
-- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
+- [OpenAI’s new Codex Mac app is an agent “command center” &lpar;and it’s lighting up the devtool wars&rpar;](https://dev.to/sivarampg/openais-new-codex-mac-app-is-an-agent-command-center-and-its-lighting-up-the-devtool-wars-3aek)
+- [Is the Overnight Sensation OpenClaw a Game-Changer or a Ticking Time Bomb?](https://dev.to/platypus98/is-the-overnight-sensation-openclaw-a-game-changer-or-a-ticking-time-bomb-4fe6)
+- [Actividades diarias de escritura para mejorar tu español](https://dev.to/davidscanu/actividades-diarias-de-escritura-para-mejorar-tu-espanol-4g74)
+- [Inside AMD SEV: How memory encryption works today&lpar;and where it is lacking&rpar;](https://dev.to/oluwaseun_olajide_828e75d/inside-amd-sev-how-memory-encryption-works-todayand-where-it-is-lacking-1oin)
 <!-- BLOG-POST-LIST:END -->
 
