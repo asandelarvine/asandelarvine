@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Content Management: Using MCP with AEM as a Cloud Service](https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje)
-- [Kubernetes Gateway API on EKS Exposed via ALB](https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka)
-- [4 Best AI Agent Authentication platforms to consider in 2026 🔐](https://dev.to/composiodev/4-best-ai-agent-authentication-platforms-to-consider-in-2026-32o8)
-- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b)
+- [I Replaced $100/Month in SaaS Tools With a $5 VPS](https://dev.to/sst21/i-replaced-100month-in-saas-tools-with-a-5-vps-1gk)
+- [Semantic Caching for RubyLLM: Cut Your AI Costs by 70%](https://dev.to/stokry/semantic-caching-for-rubyllm-cut-your-ai-costs-by-70-2ibn)
+- [Contract Upgradeability: How to Build Protocols That Can Evolve Without Losing Trust](https://dev.to/ribhavmodi/contract-upgradeability-how-to-build-protocols-that-can-evolve-without-losing-trust-3lo0)
+- [How to set up k3s on Ubuntu server](https://dev.to/cheulong/how-to-set-up-k3s-on-ubuntu-server-173h)
 <!-- BLOG-POST-LIST:END -->
 
