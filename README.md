@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating a Parametric SVG Logo with Pug](https://dev.to/bitifet/generating-a-parametric-svg-logo-with-pug-8m0)
-- [Data Migration Between Servers Using BTEQ Scripts in Informatica Cloud](https://dev.to/hira_12345/data-migration-between-servers-using-bteq-scripts-in-informatica-cloud-kdf)
-- [Recovering from Partial Failures in Enterprise MCP Tools](https://dev.to/zaynelt/recovering-from-partial-failures-in-enterprise-mcp-tools-1m76)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
+- [A Path Not Taken](https://dev.to/commencesoftware/a-path-not-taken-11hc)
+- [Stop Logging Raw JSON: How I Built a Visual Audit Trail for Filament PHP](https://dev.to/ianstudios_ac9bc/stop-logging-raw-json-how-i-built-a-visual-audit-trail-for-filament-php-17ik)
+- [40GB of Bot Traffic Later: I&#39;m Open Sourcing 8,000+ n8n Workflows 🚀](https://dev.to/iloven8n/40gb-of-bot-traffic-later-im-open-sourcing-8000-n8n-workflows-3mhf)
+- [Rick Beato: Why Don’t People Use Chords Like This Anymore?](https://dev.to/music_youtube/rick-beato-why-dont-people-use-chords-like-this-anymore-3m9i)
 <!-- BLOG-POST-LIST:END -->
 
