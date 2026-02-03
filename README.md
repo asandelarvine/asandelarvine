@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s new Codex Mac app is an agent “command center” &lpar;and it’s lighting up the devtool wars&rpar;](https://dev.to/sivarampg/openais-new-codex-mac-app-is-an-agent-command-center-and-its-lighting-up-the-devtool-wars-3aek)
-- [Is the Overnight Sensation OpenClaw a Game-Changer or a Ticking Time Bomb?](https://dev.to/platypus98/is-the-overnight-sensation-openclaw-a-game-changer-or-a-ticking-time-bomb-4fe6)
-- [Actividades diarias de escritura para mejorar tu español](https://dev.to/davidscanu/actividades-diarias-de-escritura-para-mejorar-tu-espanol-4g74)
-- [Inside AMD SEV: How memory encryption works today&lpar;and where it is lacking&rpar;](https://dev.to/oluwaseun_olajide_828e75d/inside-amd-sev-how-memory-encryption-works-todayand-where-it-is-lacking-1oin)
+- [Scaling Massive Load Testing with Kubernetes: A Security Researcher’s Unconventional Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-massive-load-testing-with-kubernetes-a-security-researchers-unconventional-approach-4o72)
+- [The Invisible Perimeter: Why Zero Day Vulnerabilities Are Now a Boardroom Crisis](https://dev.to/prajnaitsecopscloud/the-invisible-perimeter-why-zero-day-vulnerabilities-are-now-a-boardroom-crisis-4p65)
+- [Losing in Games Teaches Faster Than Winning](https://dev.to/sergueyasaelshinder/losing-in-games-teaches-faster-than-winning-2pje)
+- [AWS Savings Plans: When They Make Sense, and When They Don’t](https://dev.to/rituraj_borah_7d2880b57c2/aws-savings-plans-when-they-make-sense-and-when-they-dont-4ji6)
 <!-- BLOG-POST-LIST:END -->
 
