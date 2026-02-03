@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Massive Load Testing with Kubernetes: A Security Researcher’s Unconventional Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-massive-load-testing-with-kubernetes-a-security-researchers-unconventional-approach-4o72)
-- [The Invisible Perimeter: Why Zero Day Vulnerabilities Are Now a Boardroom Crisis](https://dev.to/prajnaitsecopscloud/the-invisible-perimeter-why-zero-day-vulnerabilities-are-now-a-boardroom-crisis-4p65)
-- [Losing in Games Teaches Faster Than Winning](https://dev.to/sergueyasaelshinder/losing-in-games-teaches-faster-than-winning-2pje)
-- [AWS Savings Plans: When They Make Sense, and When They Don’t](https://dev.to/rituraj_borah_7d2880b57c2/aws-savings-plans-when-they-make-sense-and-when-they-dont-4ji6)
+- [How Growing Apps Break Under Scale: Lessons From Real Systems](https://dev.to/varsha_ojha_5b45cb023937b/how-growing-apps-break-under-scale-lessons-from-real-systems-54dh)
+- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
+- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
+- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
 <!-- BLOG-POST-LIST:END -->
 
