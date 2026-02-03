@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
-- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
-- [Help: My expo+nativewind project runs well on the web &lpar;Chrome&rpar;, but encounters errors on Android + expoGo.](https://dev.to/kerryjavalin/help-my-exponativewind-project-runs-well-on-the-web-chrome-but-encounters-errors-on-android--p30)
-- [Behind the Vision](https://dev.to/infraforgelabs/behind-the-vision-4fka)
+- [Monkey AIslands - Part 1](https://dev.to/shredwheat/monkey-aislands-part-1-46fm)
+- [Scaling Massive Load Testing with Linux: An Open Source Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-massive-load-testing-with-linux-an-open-source-approach-3bbo)
+- [Rethinking IDE Strategy for Modern Enterprise IT Teams](https://dev.to/eagleeyethinker/rethinking-ide-strategy-for-modern-enterprise-it-teams-nni)
+- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
 <!-- BLOG-POST-LIST:END -->
 
