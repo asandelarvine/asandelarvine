@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ona &lpar;formerly Gitpod&rpar; is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
-- [Building an AI Drone System for Real-Time Crowd Risk Detection &lpar;Edge AI + IoT&rpar;](https://dev.to/prithwis_das_46cb0fb6dde8/building-an-ai-drone-system-for-real-time-crowd-risk-detection-edge-ai-iot-1b8k)
-- [Learning Terms in Java](https://dev.to/shelner/learning-terms-in-java-2gg1)
-- [Testing Geo-Blocked Features with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/testing-geo-blocked-features-with-docker-on-a-zero-budget-setup-4og3)
+- [Running a Startup Killed My Ability to Pretend I Know Things](https://dev.to/mjlynch123/running-a-startup-killed-my-ability-to-pretend-i-know-things-5ghl)
+- [Mastering Email Flow Validation Through API Development in the Absence of Documentation](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-through-api-development-in-the-absence-of-documentation-5d32)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao)
+- [Why Your LLM Returns “Sure! Here’s the JSON” and How to Fix It](https://dev.to/acartag7/why-your-llm-returns-sure-heres-the-json-and-how-to-fix-it-2b1g)
 <!-- BLOG-POST-LIST:END -->
 
