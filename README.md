@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Try out OpenMetaData!](https://dev.to/eleni_patsiou_2a814e7f89d/try-out-openmetadata-4jja)
-- [Agentic AI Isn’t Thinking… It’s Guessing &lpar;Here’s the Fix&rpar;](https://dev.to/aiwithapex/agentic-ai-isnt-thinking-its-guessing-heres-the-fix-beb)
-- [Why most beginner portfolios don’t get interviews &lpar;and how to fix yours&rpar;](https://dev.to/giftintech/why-most-beginner-portfolios-dont-get-interviews-and-how-to-fix-yours-2dc2)
-- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
+- [63 Q&amp;As from Watching Karpathy&#39;s LLM Tutorial Twice](https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl)
+- [Tackling Core Web Vitals on a Heavy React App](https://dev.to/leo_d/tackling-core-web-vitals-on-a-heavy-react-app-4d70)
+- [How B-Tree Indexes Work in SQL Databases: An Intuitive Guide](https://dev.to/ashraf_shaik_ee7ab42b0eb3/how-b-tree-indexes-work-in-sql-databases-an-intuitive-guide-3e71)
+- [Beyond the Standard Model :Introducing the &quot;Cousins&quot; of the Memory-Native Neural Network Family](https://dev.to/hejhdiss/beyond-the-standard-model-introducing-the-cousins-of-the-memory-native-neural-network-family-5emh)
 <!-- BLOG-POST-LIST:END -->
 
