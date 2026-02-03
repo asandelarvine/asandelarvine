@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Growing Apps Break Under Scale: Lessons From Real Systems](https://dev.to/varsha_ojha_5b45cb023937b/how-growing-apps-break-under-scale-lessons-from-real-systems-54dh)
-- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
-- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
-- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
+- [CAP Theorem Explained: Beyond the &quot;Pick Two&quot; Myth](https://dev.to/amalik18/cap-theorem-explained-beyond-the-pick-two-myth-k1n)
+- [Playwright &amp; Chaos Engineering: 3 Ways to Break Your UI in 10 Lines of Code 🧨](https://dev.to/aragossa/playwright-chaos-engineering-3-ways-to-break-your-ui-in-10-lines-of-code-2bkj)
+- [CP Systems Explained: The Hidden Cost of Strong Consistency](https://dev.to/amalik18/cp-systems-explained-the-hidden-cost-of-strong-consistency-1kgp)
+- [Update thousands of servers](https://dev.to/jypelle/update-thousands-of-servers-33i7)
 <!-- BLOG-POST-LIST:END -->
 
