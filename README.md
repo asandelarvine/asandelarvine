@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced $100/Month in SaaS Tools With a $5 VPS](https://dev.to/sst21/i-replaced-100month-in-saas-tools-with-a-5-vps-1gk)
-- [Semantic Caching for RubyLLM: Cut Your AI Costs by 70%](https://dev.to/stokry/semantic-caching-for-rubyllm-cut-your-ai-costs-by-70-2ibn)
-- [Contract Upgradeability: How to Build Protocols That Can Evolve Without Losing Trust](https://dev.to/ribhavmodi/contract-upgradeability-how-to-build-protocols-that-can-evolve-without-losing-trust-3lo0)
-- [How to set up k3s on Ubuntu server](https://dev.to/cheulong/how-to-set-up-k3s-on-ubuntu-server-173h)
+- [Setting Up Your First React Project with Vite and VS Code](https://dev.to/christal_riziki_62c4dd40f/setting-up-your-first-react-project-with-vite-and-vs-code-on0)
+- [Setting up Laravel and Filament for Personal Finance](https://dev.to/maiobarbero/setting-up-laravel-and-filament-for-personal-finance-5om)
+- [Advanced Techniques for Bypassing Gated Content with Linux and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/advanced-techniques-for-bypassing-gated-content-with-linux-and-open-source-tools-2m55)
+- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
 <!-- BLOG-POST-LIST:END -->
 
