@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem Explained: Beyond the &quot;Pick Two&quot; Myth](https://dev.to/amalik18/cap-theorem-explained-beyond-the-pick-two-myth-k1n)
-- [Playwright &amp; Chaos Engineering: 3 Ways to Break Your UI in 10 Lines of Code 🧨](https://dev.to/aragossa/playwright-chaos-engineering-3-ways-to-break-your-ui-in-10-lines-of-code-2bkj)
-- [CP Systems Explained: The Hidden Cost of Strong Consistency](https://dev.to/amalik18/cp-systems-explained-the-hidden-cost-of-strong-consistency-1kgp)
-- [Update thousands of servers](https://dev.to/jypelle/update-thousands-of-servers-33i7)
+- [Ona &lpar;formerly Gitpod&rpar; is re-launching its Open Source program](https://dev.to/siddhantkcode/ona-formerly-gitpod-is-re-launching-its-open-source-program-5d3c)
+- [Building an AI Drone System for Real-Time Crowd Risk Detection &lpar;Edge AI + IoT&rpar;](https://dev.to/prithwis_das_46cb0fb6dde8/building-an-ai-drone-system-for-real-time-crowd-risk-detection-edge-ai-iot-1b8k)
+- [Learning Terms in Java](https://dev.to/shelner/learning-terms-in-java-2gg1)
+- [Testing Geo-Blocked Features with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/testing-geo-blocked-features-with-docker-on-a-zero-budget-setup-4og3)
 <!-- BLOG-POST-LIST:END -->
 
