@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Beyond the Control Paradigm](https://dev.to/guitlle/engineering-beyond-the-control-paradigm-ci2)
-- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
-- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
-- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [How I Built an Automated Operational Analytics Pipeline from a Queue Management System](https://dev.to/monfortbrian_/how-i-built-an-automated-operational-analytics-pipeline-from-a-queue-management-system-ecc)
+- [Insurance Domain Agentic Mesh in Java: From Underwriting Rules to Claims Automation](https://dev.to/vishalmysore/insurance-domain-agentic-mesh-in-java-from-underwriting-rules-to-claims-automation-5d4i)
+- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
+- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
 <!-- BLOG-POST-LIST:END -->
 
