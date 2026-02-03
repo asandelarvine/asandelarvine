@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Your App Feel Instant with Optimistic Updates](https://dev.to/hassantayyab/why-your-app-feels-slow-and-how-optimistic-updates-fix-it-18m9)
-- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
-- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
-- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
+- [Engineering Beyond the Control Paradigm](https://dev.to/guitlle/engineering-beyond-the-control-paradigm-ci2)
+- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
+- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
+- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
 <!-- BLOG-POST-LIST:END -->
 
