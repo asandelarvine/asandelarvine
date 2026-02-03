@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monkey AIslands - Part 1](https://dev.to/shredwheat/monkey-aislands-part-1-46fm)
-- [Scaling Massive Load Testing with Linux: An Open Source Approach](https://dev.to/mohammad_waseem_c31f3a26f/scaling-massive-load-testing-with-linux-an-open-source-approach-3bbo)
-- [Rethinking IDE Strategy for Modern Enterprise IT Teams](https://dev.to/eagleeyethinker/rethinking-ide-strategy-for-modern-enterprise-it-teams-nni)
-- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
+- [AI-Powered Content Management: Using MCP with AEM as a Cloud Service](https://dev.to/raghavajoijode/ai-powered-content-management-using-mcp-with-aem-as-a-cloud-service-5aje)
+- [Kubernetes Gateway API on EKS Exposed via ALB](https://dev.to/shanaka_jayasundera/kubernetes-gateway-api-on-eks-exposed-via-alb-1fka)
+- [4 Best AI Agent Authentication platforms to consider in 2026 🔐](https://dev.to/composiodev/4-best-ai-agent-authentication-platforms-to-consider-in-2026-32o8)
+- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b)
 <!-- BLOG-POST-LIST:END -->
 
