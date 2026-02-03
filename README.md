@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a Startup Killed My Ability to Pretend I Know Things](https://dev.to/mjlynch123/running-a-startup-killed-my-ability-to-pretend-i-know-things-5ghl)
-- [Mastering Email Flow Validation Through API Development in the Absence of Documentation](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-through-api-development-in-the-absence-of-documentation-5d32)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao)
-- [Why Your LLM Returns “Sure! Here’s the JSON” and How to Fix It](https://dev.to/acartag7/why-your-llm-returns-sure-heres-the-json-and-how-to-fix-it-2b1g)
+- [Mastering Spam Trap Avoidance on a Zero-Budget Linux Setup](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-on-a-zero-budget-linux-setup-jd5)
+- [The Ultimate Immunefi Bug Bounty Guide: From Zero to First Submission](https://dev.to/ohmygod/the-ultimate-immunefi-bug-bounty-guide-from-zero-to-first-submission-373f)
+- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
+- [Webhooks: The Underrated Hero of Real-Time Integration](https://dev.to/santhosh_sandy_1750af124a/webhooks-the-underrated-hero-of-real-time-integration-2b60)
 <!-- BLOG-POST-LIST:END -->
 
