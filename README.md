@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Spam Trap Avoidance on a Zero-Budget Linux Setup](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-on-a-zero-budget-linux-setup-jd5)
-- [The Ultimate Immunefi Bug Bounty Guide: From Zero to First Submission](https://dev.to/ohmygod/the-ultimate-immunefi-bug-bounty-guide-from-zero-to-first-submission-373f)
-- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
-- [Webhooks: The Underrated Hero of Real-Time Integration](https://dev.to/santhosh_sandy_1750af124a/webhooks-the-underrated-hero-of-real-time-integration-2b60)
+- [Try out OpenMetaData!](https://dev.to/eleni_patsiou_2a814e7f89d/try-out-openmetadata-4jja)
+- [Agentic AI Isn’t Thinking… It’s Guessing &lpar;Here’s the Fix&rpar;](https://dev.to/aiwithapex/agentic-ai-isnt-thinking-its-guessing-heres-the-fix-beb)
+- [Why most beginner portfolios don’t get interviews &lpar;and how to fix yours&rpar;](https://dev.to/giftintech/why-most-beginner-portfolios-dont-get-interviews-and-how-to-fix-yours-2dc2)
+- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
 <!-- BLOG-POST-LIST:END -->
 
