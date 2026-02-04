@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Grant: The “No-Nonsense” Permission Manager for Kotlin Multiplatform](https://dev.to/brewkits/grant-the-no-nonsense-permission-manager-for-kotlin-multiplatform-4n1a)
-- [AI Development Heats Up: Week of January 27 - February 2, 2026](https://dev.to/alexmercedcoder/ai-development-heats-up-week-of-january-27-february-2-2026-3dgd)
-- [Switch Case](https://dev.to/nanthini_ammu_ac02ad32802/switch-case-4nka)
-- [Mensageria e o desconforto de não saber exatamente quando algo acontece](https://dev.to/maurilosantos/mensageria-e-o-desconforto-de-nao-saber-exatamente-quando-algo-acontece-1g8a)
+- [From Leaky Container to Fort Knox: A Guide to Docker Security Hardening](https://dev.to/alanvarghese-dev/from-leaky-container-to-fort-knox-a-guide-to-docker-security-hardening-3e88)
+- [Switch Case](https://dev.to/nanthini_ammu_ac02ad32802/switch-case-459a)
+- [AI-Driven LoadRunner Script Development](https://dev.to/m_sudha/ai-driven-loadrunner-script-development-gen)
+- [Beyond the Cloud: Why Personal Data Sovereignty Starts with Better Encryption](https://dev.to/zulqurnan/beyond-the-cloud-why-personal-data-sovereignty-starts-with-better-encryption-4ggi)
 <!-- BLOG-POST-LIST:END -->
 
