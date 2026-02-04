@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapbox X Wix](https://dev.to/mapbox/mapbox-x-wix-44j5)
-- [If our tables could predict the future?](https://dev.to/vigneshwaralingam/if-our-tables-could-predict-the-future-1981)
-- [I ran Gemma 3 12B for a week and ditched $200/month AI subscriptions - here&#39;s what happened](https://dev.to/azizme/i-ran-gemma-3-12b-for-a-week-and-ditched-200month-ai-subscriptions-heres-what-happened-4e8e)
-- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
+- [Your User Stories Are Too Big 🎯🤯](https://dev.to/mattlewandowski93/your-user-stories-are-too-big-5g0o)
+- [TxtAI got skills](https://dev.to/neuml/txtai-got-skills-2b61)
+- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc)
+- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o)
 <!-- BLOG-POST-LIST:END -->
 
