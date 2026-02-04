@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4.Copy File to Docker Container](https://dev.to/thukhakyawe_cloud/4copy-file-to-docker-container-9i7)
-- [3.Delete Docker Container](https://dev.to/thukhakyawe_cloud/3delete-docker-container-1e48)
-- [5.Troubleshoot Docker Container Issue](https://dev.to/thukhakyawe_cloud/5troubleshoot-docker-container-issue-4n6g)
-- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
+- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
+- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
+- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
+- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
 <!-- BLOG-POST-LIST:END -->
 
