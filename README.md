@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Leaky Container to Fort Knox: A Guide to Docker Security Hardening](https://dev.to/alanvarghese-dev/from-leaky-container-to-fort-knox-a-guide-to-docker-security-hardening-3e88)
-- [Switch Case](https://dev.to/nanthini_ammu_ac02ad32802/switch-case-459a)
-- [AI-Driven LoadRunner Script Development](https://dev.to/m_sudha/ai-driven-loadrunner-script-development-gen)
-- [Beyond the Cloud: Why Personal Data Sovereignty Starts with Better Encryption](https://dev.to/zulqurnan/beyond-the-cloud-why-personal-data-sovereignty-starts-with-better-encryption-4ggi)
+- [Smart Scheduling: How to Optimize Competitor Price Scraping to Reduce Costs](https://dev.to/sommic/smart-scheduling-how-to-optimize-competitor-price-scraping-to-reduce-costs-19k)
+- [Why do you write?](https://dev.to/itsugo/why-do-you-write-5bkf)
+- [Defense against image scrapers, in Depth: Shielding Digital Art with Emojis, Proxies, and Pixels](https://dev.to/rpi1337/defense-against-image-scrapers-in-depth-shielding-digital-art-with-emojis-proxies-and-pixels-201l)
+- [Sparse-Stream Memory Networks: The Next Evolution in Efficient AI](https://dev.to/hejhdiss/sparse-stream-memory-networks-the-next-evolution-in-efficient-ai-12hi)
 <!-- BLOG-POST-LIST:END -->
 
