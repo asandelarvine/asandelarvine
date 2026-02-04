@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v363](https://dev.to/devteam/welcome-thread-v363-13be)
-- [Unearthing Subtle Misconfigurations in Cloud-Native Kubernet](https://dev.to/harsh_a45dbc191edc27e4b96/unearthing-subtle-misconfigurations-in-cloud-native-kubernet-1jjp)
-- [We built a small calculator that shows how much inventory drift actually costs](https://dev.to/gnizdoapp/we-built-a-small-calculator-that-shows-how-much-inventory-drift-actually-costs-54ek)
-- [How AI Content Systems Lose Trust Over Time](https://dev.to/automationsystemslab/how-ai-content-systems-lose-trust-over-time-4029)
+- [intel9](https://dev.to/query_filter_591122b53770/intel9-367k)
+- [Understanding Concurrency Through Everyday Life Examples](https://dev.to/devjaiye/understanding-concurrency-through-everyday-life-examples-2hc9)
+- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
+- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
+
+https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
 <!-- BLOG-POST-LIST:END -->
 
