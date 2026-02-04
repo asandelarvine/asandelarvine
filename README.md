@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Scheduling: How to Optimize Competitor Price Scraping to Reduce Costs](https://dev.to/sommic/smart-scheduling-how-to-optimize-competitor-price-scraping-to-reduce-costs-19k)
-- [Why do you write?](https://dev.to/itsugo/why-do-you-write-5bkf)
-- [Defense against image scrapers, in Depth: Shielding Digital Art with Emojis, Proxies, and Pixels](https://dev.to/rpi1337/defense-against-image-scrapers-in-depth-shielding-digital-art-with-emojis-proxies-and-pixels-201l)
-- [Sparse-Stream Memory Networks: The Next Evolution in Efficient AI](https://dev.to/hejhdiss/sparse-stream-memory-networks-the-next-evolution-in-efficient-ai-12hi)
+- [Turn Your App Mascot Into an Interactive Product System with Rive](https://dev.to/uianimation/turn-your-app-mascot-into-an-interactive-product-system-with-rive-1ekd)
+- [Top 10 Cloudflare Tunnel Alternatives in 2026: A Practical Guide for Developers](https://dev.to/lightningdev123/top-10-cloudflare-tunnel-alternatives-in-2026-a-practical-guide-for-developers-2akg)
+- [Why AI Makes Bad Engineers Worse and Good Engineers Unstoppable](https://dev.to/jasrandhawa/why-ai-makes-bad-engineers-worse-and-good-engineers-unstoppable-16j8)
+- [How I Design Rive Animations So Product Teams Can Scale Them Without Me](https://dev.to/uianimation/how-i-design-rive-animations-so-product-teams-can-scale-them-without-me-17hp)
 <!-- BLOG-POST-LIST:END -->
 
