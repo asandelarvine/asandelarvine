@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
-- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
-- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
-- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
+- [Welcome Thread - v363](https://dev.to/devteam/welcome-thread-v363-13be)
+- [Unearthing Subtle Misconfigurations in Cloud-Native Kubernet](https://dev.to/harsh_a45dbc191edc27e4b96/unearthing-subtle-misconfigurations-in-cloud-native-kubernet-1jjp)
+- [We built a small calculator that shows how much inventory drift actually costs](https://dev.to/gnizdoapp/we-built-a-small-calculator-that-shows-how-much-inventory-drift-actually-costs-54ek)
+- [How AI Content Systems Lose Trust Over Time](https://dev.to/automationsystemslab/how-ai-content-systems-lose-trust-over-time-4029)
 <!-- BLOG-POST-LIST:END -->
 
