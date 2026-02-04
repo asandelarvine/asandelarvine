@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Interview Kickstart Alternatives in 2026: From Free to Premium](https://dev.to/alex_hunter_44f4c9ed6671e/best-interview-kickstart-alternatives-in-2026-from-free-to-premium-53go)
-- [64-bit bootloader from scratch in AT&amp;T assembly, Part-2](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-2-4bo0)
-- [90-Day AI Adoption Roadmap for CTOs and Developers](https://dev.to/meisterit_systems_/90-day-ai-adoption-roadmap-for-ctos-and-developers-4n25)
-- [Back to Basics and Beyond: My Journey from Junior to Post-Grad Full Stack Developer](https://dev.to/guidev/back-to-basics-and-beyond-my-journey-from-junior-to-post-grad-full-stack-developer-5gne)
+- [4.Copy File to Docker Container](https://dev.to/thukhakyawe_cloud/4copy-file-to-docker-container-9i7)
+- [3.Delete Docker Container](https://dev.to/thukhakyawe_cloud/3delete-docker-container-1e48)
+- [5.Troubleshoot Docker Container Issue](https://dev.to/thukhakyawe_cloud/5troubleshoot-docker-container-issue-4n6g)
+- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
 <!-- BLOG-POST-LIST:END -->
 
