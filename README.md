@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
-- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
-- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
-- [How Many Jira Tickets Does a &quot;Good&quot; Engineer Close Per Week?](https://dev.to/mtzanida/how-many-jira-tickets-does-a-good-engineer-close-per-week-1aii)
+- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
+- [The Build-to-Learn Framework: How a Near-Disaster Taught Me to Learn in Public](https://dev.to/rivadaviam/the-build-to-learn-framework-how-a-near-disaster-taught-me-to-learn-in-public-c2e)
+- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
+- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
 <!-- BLOG-POST-LIST:END -->
 
