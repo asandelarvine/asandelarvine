@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
-- [The Build-to-Learn Framework: How a Near-Disaster Taught Me to Learn in Public](https://dev.to/rivadaviam/the-build-to-learn-framework-how-a-near-disaster-taught-me-to-learn-in-public-c2e)
-- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
-- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
+- [Why I Built a Stateless Trend Dashboard — Minimal, Focused, and Ephemeral](https://dev.to/rushyhirosan/why-i-built-a-stateless-trend-dashboard-41f1)
+- [2026-02-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-04-daily-ai-news-407b)
+- [Strategic Approach to Avoiding Spam Traps with Node.js and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/strategic-approach-to-avoiding-spam-traps-with-nodejs-and-open-source-tools-e8m)
+- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
 <!-- BLOG-POST-LIST:END -->
 
