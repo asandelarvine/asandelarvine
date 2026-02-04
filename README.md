@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation in Tony Format](https://dev.to/scott_cotton_dc9ce3e7e632/evaluation-in-tony-format-4cnl)
-- [Moltbook Is Not an AI Society](https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d)
-- [Why Tailwind Won &lpar;And What That Means for Traditional CSS&rpar; 🐍](https://dev.to/thebitforge/why-tailwind-won-and-what-that-means-for-traditional-css-51d8)
-- [HTML解析はもう古い？AI時代の最新データ抽出ツール比較](https://dev.to/yuuto128/htmljie-xi-hamougu-iaishi-dai-nozui-xin-detachou-chu-turubi-jiao-3kon)
+- [Best Interview Kickstart Alternatives in 2026: From Free to Premium](https://dev.to/alex_hunter_44f4c9ed6671e/best-interview-kickstart-alternatives-in-2026-from-free-to-premium-53go)
+- [64-bit bootloader from scratch in AT&amp;T assembly, Part-2](https://dev.to/bhjaipal/64-bit-bootloader-from-scratch-in-att-assembly-part-2-4bo0)
+- [90-Day AI Adoption Roadmap for CTOs and Developers](https://dev.to/meisterit_systems_/90-day-ai-adoption-roadmap-for-ctos-and-developers-4n25)
+- [Back to Basics and Beyond: My Journey from Junior to Post-Grad Full Stack Developer](https://dev.to/guidev/back-to-basics-and-beyond-my-journey-from-junior-to-post-grad-full-stack-developer-5gne)
 <!-- BLOG-POST-LIST:END -->
 
