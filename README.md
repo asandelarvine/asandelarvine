@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Billion-Dollar Companies Ship Electron Apps &lpar;And Why Developers Hate It&rpar;](https://dev.to/maniishbhusal/why-billion-dollar-companies-ship-electron-apps-and-why-developers-hate-it-3pd3)
-- [OpenClaw, Moltbook, and the Real Risks of Autonomous AI Agents](https://dev.to/ailoitte_sk/openclaw-moltbook-and-the-real-risks-of-autonomous-ai-agents-2486)
-- [Kubernetes Operators Pattern](https://dev.to/godofgeeks/kubernetes-operators-pattern-lpp)
-- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
+- [Evaluation in Tony Format](https://dev.to/scott_cotton_dc9ce3e7e632/evaluation-in-tony-format-4cnl)
+- [Moltbook Is Not an AI Society](https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d)
+- [Why Tailwind Won &lpar;And What That Means for Traditional CSS&rpar; 🐍](https://dev.to/thebitforge/why-tailwind-won-and-what-that-means-for-traditional-css-51d8)
+- [HTML解析はもう古い？AI時代の最新データ抽出ツール比較](https://dev.to/yuuto128/htmljie-xi-hamougu-iaishi-dai-nozui-xin-detachou-chu-turubi-jiao-3kon)
 <!-- BLOG-POST-LIST:END -->
 
