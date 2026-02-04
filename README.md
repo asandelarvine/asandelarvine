@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Market Place](https://dev.to/klarson1022/amazon-market-place-bho)
-- [Cross Entropy Derivatives, Part 4: Solving for other output classes](https://dev.to/rijultp/cross-entropy-derivatives-part-4-solving-for-other-output-classes-3gce)
-- [Why did no one tell me how amazing Git Bisect was](https://dev.to/amandamayfield/why-did-no-one-tell-me-how-amazing-git-bisect-was-32ll)
-- [A Beginner’s Guide to Installing Linux on Windows Using WSL](https://dev.to/motanga/a-beginners-guide-to-installing-linux-on-windows-using-wsl-4cjb)
+- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
+- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
+- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
+- [How Many Jira Tickets Does a &quot;Good&quot; Engineer Close Per Week?](https://dev.to/mtzanida/how-many-jira-tickets-does-a-good-engineer-close-per-week-1aii)
 <!-- BLOG-POST-LIST:END -->
 
