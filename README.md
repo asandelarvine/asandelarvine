@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your User Stories Are Too Big 🎯🤯](https://dev.to/mattlewandowski93/your-user-stories-are-too-big-5g0o)
-- [TxtAI got skills](https://dev.to/neuml/txtai-got-skills-2b61)
-- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc)
-- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o)
+- [Week 6 Quiz - Audit Crypto Bugs in Web Apps](https://dev.to/fosres/week-6-quiz-audit-crypto-bugs-in-web-apps-531)
+- [Python Internals: Operator Protocols](https://dev.to/aykhlf_yassir/python-internals-operator-protocols-3efc)
+- [What the heck is OpenClaw/Clawbot/MoltBot?](https://dev.to/ponikar/what-the-heck-is-openclawclawbotmoltbot-1icd)
+- [Visual Debugging for AI Agents &lpar;ANY Framework&rpar;](https://dev.to/seakai/visual-debugging-for-ai-agents-any-framework-4npf)
 <!-- BLOG-POST-LIST:END -->
 
