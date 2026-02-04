@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [intel9](https://dev.to/query_filter_591122b53770/intel9-367k)
-- [Understanding Concurrency Through Everyday Life Examples](https://dev.to/devjaiye/understanding-concurrency-through-everyday-life-examples-2hc9)
-- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
-- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
-
-https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
+- [Cookies Explained — How They Work &amp; Header-Based Auth vs Cookie-Based Auth](https://dev.to/jps27cse/cookies-explained-how-they-work-header-based-auth-vs-cookie-based-auth-530o)
+- [Remote MCP server in action: a new entry point for SaaS products in the AI era](https://dev.to/logto/remote-mcp-server-in-action-a-new-entry-point-for-saas-products-in-the-ai-era-kjc)
+- [Securing Test Environments: Preventing PII Leaks in Kubernetes for Legacy Codebases](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-kubernetes-for-legacy-codebases-1nml)
+- [Streamlining Authentication Flow Testing with Docker: A Lead QA Engineer&#39;s Experience](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flow-testing-with-docker-a-lead-qa-engineers-experience-34k9)
 <!-- BLOG-POST-LIST:END -->
 
