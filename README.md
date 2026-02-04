@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookies Explained — How They Work &amp; Header-Based Auth vs Cookie-Based Auth](https://dev.to/jps27cse/cookies-explained-how-they-work-header-based-auth-vs-cookie-based-auth-530o)
-- [Remote MCP server in action: a new entry point for SaaS products in the AI era](https://dev.to/logto/remote-mcp-server-in-action-a-new-entry-point-for-saas-products-in-the-ai-era-kjc)
-- [Securing Test Environments: Preventing PII Leaks in Kubernetes for Legacy Codebases](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-kubernetes-for-legacy-codebases-1nml)
-- [Streamlining Authentication Flow Testing with Docker: A Lead QA Engineer&#39;s Experience](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flow-testing-with-docker-a-lead-qa-engineers-experience-34k9)
+- [Building a Human-Like AI Outbound Calling Agent at ~$0.01/Minute - part 1](https://dev.to/james920609/building-a-human-like-ai-outbound-calling-agent-at-001minute-6ci)
+- [Pascoe Is Right—And Here&#39;s What That Proves About Governance](https://dev.to/narnaiezzsshaa/pascoe-is-right-and-heres-what-that-proves-about-governance-k32)
+- [React 19 use&lpar;&rpar; Hook Deep Dive: The Game-Changer for Data Fetching](https://dev.to/pockit_tools/react-19-use-hook-deep-dive-the-game-changer-for-data-fetching-53fi)
+- [How Web Apps Like Midday Gain a Competitive Edge with Supabase and MindsDB](https://dev.to/mindsdb/how-web-apps-like-midday-gain-a-competitive-edge-with-supabase-and-mindsdb-4aoi)
 <!-- BLOG-POST-LIST:END -->
 
