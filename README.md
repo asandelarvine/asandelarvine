@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Automated Operational Analytics Pipeline from a Queue Management System](https://dev.to/monfortbrian_/how-i-built-an-automated-operational-analytics-pipeline-from-a-queue-management-system-ecc)
-- [Insurance Domain Agentic Mesh in Java: From Underwriting Rules to Claims Automation](https://dev.to/vishalmysore/insurance-domain-agentic-mesh-in-java-from-underwriting-rules-to-claims-automation-5d4i)
-- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
-- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
+- [Grant: The “No-Nonsense” Permission Manager for Kotlin Multiplatform](https://dev.to/brewkits/grant-the-no-nonsense-permission-manager-for-kotlin-multiplatform-4n1a)
+- [AI Development Heats Up: Week of January 27 - February 2, 2026](https://dev.to/alexmercedcoder/ai-development-heats-up-week-of-january-27-february-2-2026-3dgd)
+- [Switch Case](https://dev.to/nanthini_ammu_ac02ad32802/switch-case-4nka)
+- [Mensageria e o desconforto de não saber exatamente quando algo acontece](https://dev.to/maurilosantos/mensageria-e-o-desconforto-de-nao-saber-exatamente-quando-algo-acontece-1g8a)
 <!-- BLOG-POST-LIST:END -->
 
