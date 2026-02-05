@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR for Developers: What You Actually Need to Know](https://dev.to/yanikpei/gdpr-for-developers-what-you-actually-need-to-know-45l1)
-- [Pare de Brincar com LLMs Locais: Leve a IAG Open Source para a Produção na Magalu Cloud](https://dev.to/magalucloud/pare-de-brincar-com-llms-locais-leve-a-iag-open-source-para-a-producao-na-magalu-cloud-4p6c)
-- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
-- [I Built Git for LLM Prompts — Here is What 332 Tests Taught Me](https://dev.to/rahul_kashayp_700d6c4673a/i-built-git-for-llm-prompts-here-is-what-332-tests-taught-me-1gki)
+- [Using Google Sheets as a CMS: A Simple, Powerful Approach to Content Management](https://dev.to/codejourney/using-google-sheets-as-a-cms-a-simple-powerful-approach-to-content-management-fg1)
+- [Introducing Flexiwind &lpar;Beta&rpar;: a composable UI system for Laravel &amp; Livewire](https://dev.to/unoforge/introducing-flexiwind-beta-a-composable-ui-system-for-laravel-livewire-144a)
+- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
+- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/blogz7/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-2mb7)
 <!-- BLOG-POST-LIST:END -->
 
