@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Tests](https://dev.to/nicolas_vbgh/backend-tests-3d9p)
-- [Why I Built a Child-Safe AI App After ChatGPT Terrified My Kid](https://dev.to/askie_app_d7bb6930ba304bd/why-i-built-a-child-safe-ai-app-after-chatgpt-terrified-my-kid-4b8)
-- [What do you have to do as junior programmer to get a job?](https://dev.to/arnedo1/what-do-you-have-to-do-as-junior-programmer-to-get-a-job-2k1a)
-- [Why App Startup Time Isn’t Just a Metric, It’s a Growth Lever](https://dev.to/digia_studio/why-app-startup-time-isnt-just-a-metric-its-a-growth-lever-1hoh)
+- [Is Your Shopify Store Ready for AI Agents?](https://dev.to/mdminhazul_abedin_99f4ad/is-your-shopify-store-ready-for-ai-agents-4lf7)
+- [I started learning PHP](https://dev.to/isye/i-started-learning-php-3hp5)
+- [Software Autonomy: A Cost Reassessment for Engineering Leaders](https://dev.to/kushagra_ag/software-autonomy-a-cost-reassessment-for-engineering-leaders-3glg)
+- [How do you decide what kind of work to schedule when you’re already mentally drained?](https://dev.to/samabos/how-do-you-decide-what-kind-of-work-to-schedule-when-youre-already-mentally-drained-2daa)
 <!-- BLOG-POST-LIST:END -->
 
