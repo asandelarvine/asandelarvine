@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping H1B Limbo: The 2026 Guide to Tech Salaries &amp; Visas in Canada 🇨🇦](https://dev.to/canadajobbank/escaping-h1b-limbo-the-2026-guide-to-tech-salaries-visas-in-canada-3ak1)
-- [Running Claude Code with Local LLMs via vLLM and LiteLLM](https://dev.to/dcruver/running-claude-code-with-local-llms-via-vllm-and-litellm-599b)
-- [Why We Keep Blaming Prompts Instead of Architecture](https://dev.to/narnaiezzsshaa/why-we-keep-blaming-prompts-instead-of-architecture-1l)
-- [Solve Headache Backend API Authentication with Proven NPM Packages](https://dev.to/burhan_chughtai/solve-headache-backend-api-authentication-with-proven-npm-packages-46ff)
+- [How to Secure Laravel Applications from Common Attacks](https://dev.to/robin-ivi/how-to-secure-laravel-applications-from-common-attacks-3np6)
+- [I Built a Free Desktop App for Real-time Transcription &amp; Translation - Here&#39;s Everything It Can Do](https://dev.to/mrd999999/i-built-a-free-desktop-app-for-real-time-transcription-translation-heres-everything-it-can-do-c65)
+- [It Works on My Machine: Debugging Vuex Proxy Traps in Production](https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118)
+- [ReactJS Design Pattern ~Error Boundary~](https://dev.to/kkr0423/reactjs-design-pattern-error-boundary-1ibb)
 <!-- BLOG-POST-LIST:END -->
 
