@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Sheets as a CMS: A Simple, Powerful Approach to Content Management](https://dev.to/codejourney/using-google-sheets-as-a-cms-a-simple-powerful-approach-to-content-management-fg1)
-- [Introducing Flexiwind &lpar;Beta&rpar;: a composable UI system for Laravel &amp; Livewire](https://dev.to/unoforge/introducing-flexiwind-beta-a-composable-ui-system-for-laravel-livewire-144a)
-- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
-- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/blogz7/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-2mb7)
+- [# Creating a Custom Payment Gateway Integration with Next.js and Permit.io](https://dev.to/sammex45/-creating-a-custom-payment-gateway-integration-with-nextjs-and-permitio-3j4b)
+- [The Junior Developer is Extinct &lpar;And we are creating a disaster&rpar;](https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2)
+- [Music Is Emotion You Can Revisit](https://dev.to/sergueyasaelshinder/music-is-emotion-you-can-revisit-10dl)
+- [Programming Is Reducing Mental Load](https://dev.to/sergueyasaelshinder/programming-is-reducing-mental-load-428k)
 <!-- BLOG-POST-LIST:END -->
 
