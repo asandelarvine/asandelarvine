@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Creating a Custom Payment Gateway Integration with Next.js and Permit.io](https://dev.to/sammex45/-creating-a-custom-payment-gateway-integration-with-nextjs-and-permitio-3j4b)
-- [The Junior Developer is Extinct &lpar;And we are creating a disaster&rpar;](https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2)
-- [Music Is Emotion You Can Revisit](https://dev.to/sergueyasaelshinder/music-is-emotion-you-can-revisit-10dl)
-- [Programming Is Reducing Mental Load](https://dev.to/sergueyasaelshinder/programming-is-reducing-mental-load-428k)
+- [Chapter 3: Linux File Permissions](https://dev.to/0xalphasecurity/chapter-3-linux-file-permissions-34ac)
+- [The Hidden Power of Online Server IDEs: Why Your Next Development Environment Might Be in Your Browser](https://dev.to/aashhuttossh/the-hidden-power-of-online-server-ides-why-your-next-development-environment-might-be-in-your-24h0)
+- [How Do I Stop Second-Guessing My Approach During Coding Interviews? A Confidence-Building Framework](https://dev.to/alex_hunter_44f4c9ed6671e/how-do-i-stop-second-guessing-my-approach-during-coding-interviews-a-confidence-building-framework-4bk0)
+- [Výběr zařízení pro Meshtastic](https://dev.to/t0mk/vyber-zarizeni-pro-meshtastic-1l27)
 <!-- BLOG-POST-LIST:END -->
 
