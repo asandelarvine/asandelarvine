@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
-- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
-- [Building a Production-Ready Daily Customer Orders Snapshot with Airflow, Python, and Oracle](https://dev.to/peter_ongwae_78d1c9273164/building-a-production-ready-daily-customer-orders-snapshot-with-airflow-python-and-oracle-1ic)
-- [My Java Notes: Understanding String](https://dev.to/kesavarthini/my-java-notes-understanding-string-38oo)
+- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
+- [const with Object or Array in Javascript](https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m)
+- [Rate my palindrome checker algorithm](https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk)
+- [From Concept to Market Leader: A Guide to Sustainable Scaling of MVP](https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j)
 <!-- BLOG-POST-LIST:END -->
 
