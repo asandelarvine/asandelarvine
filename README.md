@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug a Donation Form](https://dev.to/richardpascoe/debug-a-donation-form-16im)
-- [AWS European Sovereign Cloud: Beyond data sovereignty](https://dev.to/bramverhagen/aws-european-sovereign-cloud-beyond-data-sovereignty-51j5)
-- [When NOT to Use `@EnvironmentObject` in SwiftUI](https://dev.to/arshtechpro/when-not-to-use-environmentobject-in-swiftui-56l0)
-- [AWS Zero to Hero: Learn AWS with Practical, Real-World Examples](https://dev.to/awsandevops/aws-zero-to-hero-learn-aws-with-practical-real-world-examples-158h)
+- [GDPR for Developers: What You Actually Need to Know](https://dev.to/yanikpei/gdpr-for-developers-what-you-actually-need-to-know-45l1)
+- [Pare de Brincar com LLMs Locais: Leve a IAG Open Source para a Produção na Magalu Cloud](https://dev.to/magalucloud/pare-de-brincar-com-llms-locais-leve-a-iag-open-source-para-a-producao-na-magalu-cloud-4p6c)
+- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
+- [I Built Git for LLM Prompts — Here is What 332 Tests Taught Me](https://dev.to/rahul_kashayp_700d6c4673a/i-built-git-for-llm-prompts-here-is-what-332-tests-taught-me-1gki)
 <!-- BLOG-POST-LIST:END -->
 
