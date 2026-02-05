@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Spot vs. Reserved: Which Saved Us $5,000 Last Quarter?](https://dev.to/cloudwiseteam/ec2-spot-vs-reserved-which-saved-us-5000-last-quarter-481b)
-- [Revisiting DSA Through Mini Projects #2: HTML Syntax Validator](https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-2-html-syntax-validator-1c35)
-- [7 Years of Experience, 0% Conversion: A Reality Check on the 2026 Job Market](https://dev.to/feta95/7-years-of-experience-0-conversion-a-reality-check-on-the-2026-job-market-3ij2)
-- [Get back inserted Id](https://dev.to/lancer1977/get-back-inserted-id-81b)
+- [[Boost]](https://dev.to/m4rri4nne/-4f75)
+- [From Zero to AWTRIX App in 30 Minutes: Vibe Coding with Home Assistant, Yahoo Finance and a LED Matrix](https://dev.to/raythekool/from-zero-to-awtrix-app-in-30-minutes-vibe-coding-with-home-assistant-yahoo-finance-and-a-led-2nkn)
+- [Open-Source: Tech Company Insights &lpar;Hiring, Culture, Pay &amp; Engineering&rpar;](https://dev.to/devwithmohit/open-source-tech-company-insights-hiring-culture-pay-engineering-1ldi)
+- [Soft-Skill Attacks: How Social Engineering Bypasses Security Controls](https://dev.to/juicyscore/soft-skill-attacks-how-social-engineering-bypasses-security-controls-29ba)
 <!-- BLOG-POST-LIST:END -->
 
