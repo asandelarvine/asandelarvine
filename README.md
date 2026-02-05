@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Shopify Store Ready for AI Agents?](https://dev.to/mdminhazul_abedin_99f4ad/is-your-shopify-store-ready-for-ai-agents-4lf7)
-- [I started learning PHP](https://dev.to/isye/i-started-learning-php-3hp5)
-- [Software Autonomy: A Cost Reassessment for Engineering Leaders](https://dev.to/kushagra_ag/software-autonomy-a-cost-reassessment-for-engineering-leaders-3glg)
-- [How do you decide what kind of work to schedule when you’re already mentally drained?](https://dev.to/samabos/how-do-you-decide-what-kind-of-work-to-schedule-when-youre-already-mentally-drained-2daa)
+- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
+- [Claude Opus 4.6 for Developers: Agent Teams, 1M Context, and What Actually Matters](https://dev.to/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c)
+- [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
+- [API designs for microservice comparison.](https://dev.to/gokul_gk/api-designs-for-microservice-comparison-39o4)
 <!-- BLOG-POST-LIST:END -->
 
