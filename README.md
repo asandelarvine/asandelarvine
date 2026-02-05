@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
-- [const with Object or Array in Javascript](https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m)
-- [Rate my palindrome checker algorithm](https://dev.to/kevincp17/rate-my-palindrome-checker-algorithm-43gk)
-- [From Concept to Market Leader: A Guide to Sustainable Scaling of MVP](https://dev.to/steve_davis_359cf13c7813b/from-concept-to-market-leader-a-guide-to-sustainable-scaling-of-mvp-138j)
+- [Design Recipe: Observability Pyramid for LLM Infrastructure](https://dev.to/astronaut27/design-recipe-observability-pyramid-for-llm-infrastructure-3b5l)
+- [Ethereum&#39;s Frame Transactions for Post-Quantum Accounts, ChA Quietly Advances Beyond the Hype, ERC-8004 Is Live](https://dev.to/etherspot/ethereums-frame-transactions-for-post-quantum-accounts-cha-quietly-advances-beyond-the-hype-21jl)
+- [Tip: don&#39;t use SalesForce Marketing Cloud for account recovery emails](https://dev.to/street-air-5461/tip-dont-use-salesforce-marketing-cloud-for-account-recovery-emails-541d)
+- [Building Multi-Tenant AI Middleware on Cloudflare&#39;s Edge &lpar;No GPUs Required&rpar;](https://dev.to/rakesh1002/building-multi-tenant-ai-middleware-on-cloudflares-edge-no-gpus-required-6j7)
 <!-- BLOG-POST-LIST:END -->
 
