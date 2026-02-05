@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
-- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
-- [I Accidentally Built a Spam Bot: The Engineering Lessons from -16 Karma](https://dev.to/mosiddi/i-accidentally-built-a-spam-bot-the-engineering-lessons-from-16-karma-364m)
-- [Probé Playwright Agents en E2E: lo que realmente aportan &lpar;y dónde fallan&rpar;](https://dev.to/jmr85/probe-playwright-agents-en-e2e-lo-que-realmente-aportan-y-donde-fallan-13n3)
+- [Backend Tests](https://dev.to/nicolas_vbgh/backend-tests-3d9p)
+- [Why I Built a Child-Safe AI App After ChatGPT Terrified My Kid](https://dev.to/askie_app_d7bb6930ba304bd/why-i-built-a-child-safe-ai-app-after-chatgpt-terrified-my-kid-4b8)
+- [What do you have to do as junior programmer to get a job?](https://dev.to/arnedo1/what-do-you-have-to-do-as-junior-programmer-to-get-a-job-2k1a)
+- [Why App Startup Time Isn’t Just a Metric, It’s a Growth Lever](https://dev.to/digia_studio/why-app-startup-time-isnt-just-a-metric-its-a-growth-lever-1hoh)
 <!-- BLOG-POST-LIST:END -->
 
