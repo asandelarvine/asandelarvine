@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Tried to Build Analytics Without a Database. It Sort of Worked.](https://dev.to/density_tech/we-tried-to-build-analytics-without-a-database-it-sort-of-worked-396)
-- [The #1 Downloaded ClawdBot Skill Was a Backdoor](https://dev.to/er_li_92a27f8612f9f070e18/the-1-downloaded-clawdbot-skill-was-a-backdoor-4o1p)
-- [Understanding Laravel Routing: Complete Guide with Examples &lpar;Laravel 12&rpar;](https://dev.to/muhammmad_nawaz_d8ba895e1/understanding-laravel-routing-complete-guide-with-examples-laravel-12-21aj)
-- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
+- [Actualización de embeddings en producción con LangChain + pgvector](https://dev.to/davidcamargo/actualizacion-de-embeddings-en-produccion-con-langchain-pgvector-3ed5)
+- [Remote builds are easy to talk about and annoying to operationalize.](https://dev.to/kavita_kavia/remote-builds-are-easy-to-talk-about-and-annoying-to-operationalize-kje)
+- [GoPlan: GitHub Copilot CLI Challenge - From Zero to Production in 45 Minutes](https://dev.to/aman_asmuei/goplan-github-copilot-cli-challenge-from-zero-to-production-in-45-minutes-6a9)
+- [Got Gemini CLI questions? The Google team will answer DEV&#39;s questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
 <!-- BLOG-POST-LIST:END -->
 
