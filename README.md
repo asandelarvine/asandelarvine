@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Laravel Applications from Common Attacks](https://dev.to/robin-ivi/how-to-secure-laravel-applications-from-common-attacks-3np6)
-- [I Built a Free Desktop App for Real-time Transcription &amp; Translation - Here&#39;s Everything It Can Do](https://dev.to/mrd999999/i-built-a-free-desktop-app-for-real-time-transcription-translation-heres-everything-it-can-do-c65)
-- [It Works on My Machine: Debugging Vuex Proxy Traps in Production](https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118)
-- [ReactJS Design Pattern ~Error Boundary~](https://dev.to/kkr0423/reactjs-design-pattern-error-boundary-1ibb)
+- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
+- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
+- [Building a Production-Ready Daily Customer Orders Snapshot with Airflow, Python, and Oracle](https://dev.to/peter_ongwae_78d1c9273164/building-a-production-ready-daily-customer-orders-snapshot-with-airflow-python-and-oracle-1ic)
+- [My Java Notes: Understanding String](https://dev.to/kesavarthini/my-java-notes-understanding-string-38oo)
 <!-- BLOG-POST-LIST:END -->
 
