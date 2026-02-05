@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Actualización de embeddings en producción con LangChain + pgvector](https://dev.to/davidcamargo/actualizacion-de-embeddings-en-produccion-con-langchain-pgvector-3ed5)
-- [Remote builds are easy to talk about and annoying to operationalize.](https://dev.to/kavita_kavia/remote-builds-are-easy-to-talk-about-and-annoying-to-operationalize-kje)
-- [GoPlan: GitHub Copilot CLI Challenge - From Zero to Production in 45 Minutes](https://dev.to/aman_asmuei/goplan-github-copilot-cli-challenge-from-zero-to-production-in-45-minutes-6a9)
-- [Got Gemini CLI questions? The Google team will answer DEV&#39;s questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j)
+- [Building TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
+- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
+- [I Accidentally Built a Spam Bot: The Engineering Lessons from -16 Karma](https://dev.to/mosiddi/i-accidentally-built-a-spam-bot-the-engineering-lessons-from-16-karma-364m)
+- [Probé Playwright Agents en E2E: lo que realmente aportan &lpar;y dónde fallan&rpar;](https://dev.to/jmr85/probe-playwright-agents-en-e2e-lo-que-realmente-aportan-y-donde-fallan-13n3)
 <!-- BLOG-POST-LIST:END -->
 
