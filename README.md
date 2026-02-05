@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Stateless Trend Dashboard — Minimal, Focused, and Ephemeral](https://dev.to/rushyhirosan/why-i-built-a-stateless-trend-dashboard-41f1)
-- [2026-02-04 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-02-04-daily-ai-news-407b)
-- [Strategic Approach to Avoiding Spam Traps with Node.js and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/strategic-approach-to-avoiding-spam-traps-with-nodejs-and-open-source-tools-e8m)
-- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
+- [Escaping H1B Limbo: The 2026 Guide to Tech Salaries &amp; Visas in Canada 🇨🇦](https://dev.to/canadajobbank/escaping-h1b-limbo-the-2026-guide-to-tech-salaries-visas-in-canada-3ak1)
+- [Running Claude Code with Local LLMs via vLLM and LiteLLM](https://dev.to/dcruver/running-claude-code-with-local-llms-via-vllm-and-litellm-599b)
+- [Why We Keep Blaming Prompts Instead of Architecture](https://dev.to/narnaiezzsshaa/why-we-keep-blaming-prompts-instead-of-architecture-1l)
+- [Solve Headache Backend API Authentication with Proven NPM Packages](https://dev.to/burhan_chughtai/solve-headache-backend-api-authentication-with-proven-npm-packages-46ff)
 <!-- BLOG-POST-LIST:END -->
 
