@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 3: Linux File Permissions](https://dev.to/0xalphasecurity/chapter-3-linux-file-permissions-34ac)
-- [The Hidden Power of Online Server IDEs: Why Your Next Development Environment Might Be in Your Browser](https://dev.to/aashhuttossh/the-hidden-power-of-online-server-ides-why-your-next-development-environment-might-be-in-your-24h0)
-- [How Do I Stop Second-Guessing My Approach During Coding Interviews? A Confidence-Building Framework](https://dev.to/alex_hunter_44f4c9ed6671e/how-do-i-stop-second-guessing-my-approach-during-coding-interviews-a-confidence-building-framework-4bk0)
-- [Výběr zařízení pro Meshtastic](https://dev.to/t0mk/vyber-zarizeni-pro-meshtastic-1l27)
+- [EC2 Spot vs. Reserved: Which Saved Us $5,000 Last Quarter?](https://dev.to/cloudwiseteam/ec2-spot-vs-reserved-which-saved-us-5000-last-quarter-481b)
+- [Revisiting DSA Through Mini Projects #2: HTML Syntax Validator](https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-2-html-syntax-validator-1c35)
+- [7 Years of Experience, 0% Conversion: A Reality Check on the 2026 Job Market](https://dev.to/feta95/7-years-of-experience-0-conversion-a-reality-check-on-the-2026-job-market-3ij2)
+- [Get back inserted Id](https://dev.to/lancer1977/get-back-inserted-id-81b)
 <!-- BLOG-POST-LIST:END -->
 
