@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Recipe: Observability Pyramid for LLM Infrastructure](https://dev.to/astronaut27/design-recipe-observability-pyramid-for-llm-infrastructure-3b5l)
-- [Ethereum&#39;s Frame Transactions for Post-Quantum Accounts, ChA Quietly Advances Beyond the Hype, ERC-8004 Is Live](https://dev.to/etherspot/ethereums-frame-transactions-for-post-quantum-accounts-cha-quietly-advances-beyond-the-hype-21jl)
-- [Tip: don&#39;t use SalesForce Marketing Cloud for account recovery emails](https://dev.to/street-air-5461/tip-dont-use-salesforce-marketing-cloud-for-account-recovery-emails-541d)
-- [Building Multi-Tenant AI Middleware on Cloudflare&#39;s Edge &lpar;No GPUs Required&rpar;](https://dev.to/rakesh1002/building-multi-tenant-ai-middleware-on-cloudflares-edge-no-gpus-required-6j7)
+- [Debug a Donation Form](https://dev.to/richardpascoe/debug-a-donation-form-16im)
+- [AWS European Sovereign Cloud: Beyond data sovereignty](https://dev.to/bramverhagen/aws-european-sovereign-cloud-beyond-data-sovereignty-51j5)
+- [When NOT to Use `@EnvironmentObject` in SwiftUI](https://dev.to/arshtechpro/when-not-to-use-environmentobject-in-swiftui-56l0)
+- [AWS Zero to Hero: Learn AWS with Practical, Real-World Examples](https://dev.to/awsandevops/aws-zero-to-hero-learn-aws-with-practical-real-world-examples-158h)
 <!-- BLOG-POST-LIST:END -->
 
