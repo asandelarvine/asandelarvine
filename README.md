@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/m4rri4nne/-4f75)
-- [From Zero to AWTRIX App in 30 Minutes: Vibe Coding with Home Assistant, Yahoo Finance and a LED Matrix](https://dev.to/raythekool/from-zero-to-awtrix-app-in-30-minutes-vibe-coding-with-home-assistant-yahoo-finance-and-a-led-2nkn)
-- [Open-Source: Tech Company Insights &lpar;Hiring, Culture, Pay &amp; Engineering&rpar;](https://dev.to/devwithmohit/open-source-tech-company-insights-hiring-culture-pay-engineering-1ldi)
-- [Soft-Skill Attacks: How Social Engineering Bypasses Security Controls](https://dev.to/juicyscore/soft-skill-attacks-how-social-engineering-bypasses-security-controls-29ba)
+- [We Tried to Build Analytics Without a Database. It Sort of Worked.](https://dev.to/density_tech/we-tried-to-build-analytics-without-a-database-it-sort-of-worked-396)
+- [The #1 Downloaded ClawdBot Skill Was a Backdoor](https://dev.to/er_li_92a27f8612f9f070e18/the-1-downloaded-clawdbot-skill-was-a-backdoor-4o1p)
+- [Understanding Laravel Routing: Complete Guide with Examples &lpar;Laravel 12&rpar;](https://dev.to/muhammmad_nawaz_d8ba895e1/understanding-laravel-routing-complete-guide-with-examples-laravel-12-21aj)
+- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
 <!-- BLOG-POST-LIST:END -->
 
