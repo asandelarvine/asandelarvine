@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
-- [Merge Two Binary Trees: Coding Problem Explained](https://dev.to/stack_overflowed/merge-two-binary-trees-coding-problem-explained-3ohc)
-- [Why I Started Wrapping Everything in React Native?](https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c)
-- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
+- [Взломы и вирусы в 1С-Битрикс: реальные уязвимости и как их лечат](https://dev.to/_vproger_/vzlomy-i-virusy-v-1s-bitriks-riealnyie-uiazvimosti-i-kak-ikh-liechat-k76)
+- [Reducing row count estimation errors in PostgreSQL](https://dev.to/shinyakato_/reducing-row-count-estimation-errors-in-postgresql-54ok)
+- [API Graveyard ☠️ - Where Dead APIs Go to REST](https://dev.to/adylagad/api-graveyard-by-cli-for-cli-ehj)
+- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
 <!-- BLOG-POST-LIST:END -->
 
