@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eslint-plugin-security Is Unmaintained. Here&#39;s What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h)
-- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8)
-- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h)
-- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en)
+- [Rails Authorization Beyond Models: Securing Dashboards and Service Controllers with CanCanCan](https://dev.to/nemwelboniface/rails-authorization-beyond-models-securing-dashboards-and-service-controllers-with-cancancan-4fgj)
+- [Auto-Saving Serial Monitor Output in VS Code &lpar;PlatformIO&rpar;](https://dev.to/dassa_das/auto-saving-serial-monitor-output-in-vs-code-platformio-212)
+- [How to Collect Payments Using the v4 APIs](https://dev.to/flutterwaveeng/how-to-collect-payments-using-the-v4-apis-4lhp)
+- [Gaming Beat Me, Development Won&#39;t](https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b)
 <!-- BLOG-POST-LIST:END -->
 
