@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Your Serverless Database Be Costing You Too Much? Meet Coldbase.](https://dev.to/yosbelms/could-your-serverless-database-be-costing-you-too-much-meet-coldbase-59bl)
-- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
-- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
-- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
+- [Integrate Omnichannel Voice and Digital Solutions for Seamless Customer Experiences](https://dev.to/callstacktech/integrate-omnichannel-voice-and-digital-solutions-for-seamless-customer-experiences-4o8f)
+- [Your Agent Is Slow Because of Inference](https://dev.to/trilok_kanwar/your-agent-is-slow-because-of-inference-l2a)
+- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
+- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
 <!-- BLOG-POST-LIST:END -->
 
