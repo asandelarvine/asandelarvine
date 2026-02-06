@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaSpocalypse: A Technical Look at Why Many SaaS Products Are Failing](https://dev.to/wafa_bergaoui/saaspocalypse-a-technical-look-at-why-many-saas-products-are-failing-3lhg)
-- [How Automation Amplifies System Design](https://dev.to/automationsystemslab/how-automation-amplifies-system-design-bad)
-- [Building an Encryption System: A Technical Deep Dive](https://dev.to/jayantkageri/building-an-encryption-system-a-technical-deep-dive-10pm)
-- [Self-hosting GitLab Behind Cloudflare Zero Trust &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/self-hosting-gitlab-behind-cloudflare-zero-trust-a-practical-devops-lab-18ce)
+- [Demystifying the Web: Episode 1 The Journey of a web page from Browser to Screen](https://dev.to/prasunchakra/demystifying-the-web-episode-1-the-journey-of-a-web-page-from-browser-to-screen-4dbh)
+- [Getting Started with Clprolf: Structuring Responsibilities in OOP](https://dev.to/charles_koffler_bcabc582b/getting-started-with-clprolf-structuring-responsibilities-in-oop-5doe)
+- [Wrapping up my first Kestra flow](https://dev.to/missamarakay/wrapping-up-my-first-kestra-flow-4o9h)
+- [Heroku is going into maintenance mode](https://dev.to/ben/heroku-is-going-into-maintenance-mode-m3f)
 <!-- BLOG-POST-LIST:END -->
 
