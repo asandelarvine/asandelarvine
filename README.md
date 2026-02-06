@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML: For beginners Part 1](https://dev.to/beey12345/semantic-html-for-beginners-part-1-kcj)
-- [Replacing 800 Lines of AI Agent Instructions with 10-Token Questions](https://dev.to/mikelane/replacing-800-lines-of-ai-agent-instructions-with-10-token-questions-dcd)
-- [How to use / tick on Minecraft Bedrock](https://dev.to/myonx/how-to-use-tick-on-minecraft-bedrock-g0l)
-- [280+ Leaky Skills: How OpenClaw &amp; ClawHub Are Exposing API Keys and PII](https://dev.to/snyk/280-leaky-skills-how-openclaw-clawhub-are-exposing-api-keys-and-pii-24jg)
+- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
+- [Merge Two Binary Trees: Coding Problem Explained](https://dev.to/stack_overflowed/merge-two-binary-trees-coding-problem-explained-3ohc)
+- [Why I Started Wrapping Everything in React Native?](https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c)
+- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
 <!-- BLOG-POST-LIST:END -->
 
