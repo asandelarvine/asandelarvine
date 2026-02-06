@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure Before Features: Building the Right Things First](https://dev.to/codeldev/infrastructure-before-features-building-the-right-things-first-4a01)
-- [Building a Recommender System for GitHub Repositories](https://dev.to/zhenghaoz/building-a-recommender-system-for-github-repositories-4f1p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5am7)
-- [Automating SEO with Python and Scraping API](https://dev.to/hasdata_com/automating-seo-with-python-and-scraping-api-2cb2)
+- [Could Your Serverless Database Be Costing You Too Much? Meet Coldbase.](https://dev.to/yosbelms/could-your-serverless-database-be-costing-you-too-much-meet-coldbase-59bl)
+- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
+- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
+- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
 <!-- BLOG-POST-LIST:END -->
 
