@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent 2 weeks reading outdated docs at my new job - so I discussed with 20 devs about it](https://dev.to/sayoojgn/i-spent-2-weeks-reading-outdated-docs-at-my-new-job-so-i-discussed-with-20-devs-about-it-23of)
-- [The Armored AI Agent You Can Actually Trust](https://dev.to/juandenis/the-armored-ai-agent-you-can-actually-trust-4pea)
-- [Teaching Claude Code Your Standards](https://dev.to/helderberto/teaching-claude-code-your-standards-k9p)
-- [Building a Resilience Engine in Python: Internals of LimitPal &lpar;Part 2&rpar;](https://dev.to/ilya_masliev/building-a-resilience-engine-in-python-internals-of-limitpal-part-2-hm1)
+- [Infrastructure Before Features: Building the Right Things First](https://dev.to/codeldev/infrastructure-before-features-building-the-right-things-first-4a01)
+- [Building a Recommender System for GitHub Repositories](https://dev.to/zhenghaoz/building-a-recommender-system-for-github-repositories-4f1p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5am7)
+- [Automating SEO with Python and Scraping API](https://dev.to/hasdata_com/automating-seo-with-python-and-scraping-api-2cb2)
 <!-- BLOG-POST-LIST:END -->
 
