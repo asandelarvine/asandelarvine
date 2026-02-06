@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Взломы и вирусы в 1С-Битрикс: реальные уязвимости и как их лечат](https://dev.to/_vproger_/vzlomy-i-virusy-v-1s-bitriks-riealnyie-uiazvimosti-i-kak-ikh-liechat-k76)
-- [Reducing row count estimation errors in PostgreSQL](https://dev.to/shinyakato_/reducing-row-count-estimation-errors-in-postgresql-54ok)
-- [API Graveyard ☠️ - Where Dead APIs Go to REST](https://dev.to/adylagad/api-graveyard-by-cli-for-cli-ehj)
-- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
+- [eslint-plugin-security Is Unmaintained. Here&#39;s What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h)
+- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8)
+- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h)
+- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en)
 <!-- BLOG-POST-LIST:END -->
 
