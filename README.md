@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Omnichannel Voice and Digital Solutions for Seamless Customer Experiences](https://dev.to/callstacktech/integrate-omnichannel-voice-and-digital-solutions-for-seamless-customer-experiences-4o8f)
-- [Your Agent Is Slow Because of Inference](https://dev.to/trilok_kanwar/your-agent-is-slow-because-of-inference-l2a)
-- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
-- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
+- [SaaSpocalypse: A Technical Look at Why Many SaaS Products Are Failing](https://dev.to/wafa_bergaoui/saaspocalypse-a-technical-look-at-why-many-saas-products-are-failing-3lhg)
+- [How Automation Amplifies System Design](https://dev.to/automationsystemslab/how-automation-amplifies-system-design-bad)
+- [Building an Encryption System: A Technical Deep Dive](https://dev.to/jayantkageri/building-an-encryption-system-a-technical-deep-dive-10pm)
+- [Self-hosting GitLab Behind Cloudflare Zero Trust &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/self-hosting-gitlab-behind-cloudflare-zero-trust-a-practical-devops-lab-18ce)
 <!-- BLOG-POST-LIST:END -->
 
