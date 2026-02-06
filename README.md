@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
-- [Building “My Bac”: A Mobile App for Tunisian Students by Mohammed Aziz Hleli](https://dev.to/mohamed_hleli_b970506ac13/building-my-bac-a-mobile-app-for-tunisian-students-by-mohammed-aziz-hleli-5he5)
-- [Finding Balance in AI-Powered Creation](https://dev.to/shashank_raj/finding-balance-in-ai-powered-creation-1572)
-- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
+- [How to fix Context Fragmentation in LLMs &lpar;AIO.CORE Protocol&rpar;](https://dev.to/pablocheee/how-to-fix-context-fragmentation-in-llms-aiocore-protocol-55p6)
+- [Security news weekly round-up - 6th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-february-2026-1l4m)
+- [From Red CI to Green PR — Automatically, Safely, and with Evidence](https://dev.to/manoj_mallick_71d0dd7eaa6/from-red-ci-to-green-pr-automatically-safely-and-with-evidence-4k66)
+- [The 2026 Developer&#39;s Guide to Free Google Cloud Credits &lpar;For AI &amp; Side Projects&rpar;](https://dev.to/behruamm/the-2026-developers-guide-to-free-google-cloud-credits-for-ai-side-projects-1ac5)
 <!-- BLOG-POST-LIST:END -->
 
