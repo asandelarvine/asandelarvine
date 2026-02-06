@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
-- [Stop Treating AI APIs Like REST APIs &lpar;They&#39;re Fundamentally Different&rpar;](https://dev.to/leena_malhotra/stop-treating-ai-apis-like-rest-apis-theyre-fundamentally-different-3k62)
-- [I used to hate Laravel. Now it’s my 2026 primary stack](https://dev.to/espfra95/i-used-to-hate-laravel-now-its-my-2026-primary-stack-47ff)
-- [This Week In React #267 : Bun, Next-Intl, Grab, Aria | Worklets, Teleport, Voltra, AI SDK, Screens | State of JS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-267-bun-next-intl-grab-aria-worklets-teleport-voltra-ai-sdk-screens-23gb)
+- [Xcode 26.3 Brings Agentic Coding: Claude and Codex Now Integrated Into Your IDE](https://dev.to/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p)
+- [The Free Online Tools I Actually Use as a Developer &lpar;and Why I Built HNGTools&rpar;](https://dev.to/humayun_nasir_04b087812ce/the-free-online-tools-i-actually-use-as-a-developer-and-why-i-built-hngtools-31hc)
+- [IPFS &amp; Decentralized Storage: Why “I’ll Just Put It On IPFS” Isn’t Enough](https://dev.to/ribhavmodi/ipfs-decentralized-storage-why-ill-just-put-it-on-ipfs-isnt-enough-1oji)
+- [State Management in Vue 3 for Laravel Applications &lpar;Pinia Integration&rpar;](https://dev.to/addwebsolutionpvtltd/state-management-in-vue-3-for-laravel-applications-pinia-integration-1jkf)
 <!-- BLOG-POST-LIST:END -->
 
