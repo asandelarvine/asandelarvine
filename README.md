@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiploks Robustness Score Kills Most Strategies &lpar;And That&#39;s the Point&rpar; Part 2](https://dev.to/kiploksrobustnessengine/kiploks-robustness-score-kills-most-strategies-and-thats-the-point-332h)
-- [Top 7 MCP Alternatives for Context7 in 2026](https://dev.to/moshe_io/top-7-mcp-alternatives-for-context7-in-2026-2555)
-- [$100 OFF Google Cloud Next for the Community! Let&#39;s meet up?](https://dev.to/devteam/100-off-google-cloud-next-for-the-community-lets-meet-up-3mbo)
-- [CodeBehind 4.5 Released; Advanced Async Capability](https://dev.to/elanatframework/codebehind-45-released-advanced-async-capability-1mni)
+- [Jenkins Agents — Full DevOps Lecture](https://dev.to/jumptotech/jenkins-agents-full-devops-lecture-2437)
+- [Jenkins Agents lab](https://dev.to/jumptotech/jenkins-agents-1d1g)
+- [Shadow DOM Tailwind and shadcn/ui all have their strengths, but they do not always play nicely together. Sometimes you just have to compromise. Use Shadow DOM only for simple components, let portals work normally, and accept a bit of global CSS.](https://dev.to/ujja/shadow-dom-tailwind-and-shadcnui-all-have-their-strengths-but-they-do-not-always-play-nicely-1lhh)
+- [I built a DAST scanner you can run from Docker - here’s how it works](https://dev.to/scryn/i-built-a-dast-scanner-you-can-run-from-docker-heres-how-it-works-139j)
 <!-- BLOG-POST-LIST:END -->
 
