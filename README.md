@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying the Web: Episode 1 The Journey of a web page from Browser to Screen](https://dev.to/prasunchakra/demystifying-the-web-episode-1-the-journey-of-a-web-page-from-browser-to-screen-4dbh)
-- [Getting Started with Clprolf: Structuring Responsibilities in OOP](https://dev.to/charles_koffler_bcabc582b/getting-started-with-clprolf-structuring-responsibilities-in-oop-5doe)
-- [Wrapping up my first Kestra flow](https://dev.to/missamarakay/wrapping-up-my-first-kestra-flow-4o9h)
-- [Heroku is going into maintenance mode](https://dev.to/ben/heroku-is-going-into-maintenance-mode-m3f)
+- [Von 0 auf 300% lokale Anfragen: Mein Google Business Profile Hack für Entwickler](https://dev.to/ivo_sa/von-0-auf-300-lokale-anfragen-mein-google-business-profile-hack-fur-entwickler-586d)
+- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7)
+- [Quest: Epic CLI tutor &lpar;Learn Code by Actually Building&rpar;](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)
+- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
 <!-- BLOG-POST-LIST:END -->
 
