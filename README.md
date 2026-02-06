@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
-- [Basics about SAML/SSO with ADLAP](https://dev.to/maggie_ma_74a341dc9fbf0f6/basics-about-samlsso-with-adlap-47md)
-- [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
-- [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
+- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
+- [Building “My Bac”: A Mobile App for Tunisian Students by Mohammed Aziz Hleli](https://dev.to/mohamed_hleli_b970506ac13/building-my-bac-a-mobile-app-for-tunisian-students-by-mohammed-aziz-hleli-5he5)
+- [Finding Balance in AI-Powered Creation](https://dev.to/shashank_raj/finding-balance-in-ai-powered-creation-1572)
+- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
 <!-- BLOG-POST-LIST:END -->
 
