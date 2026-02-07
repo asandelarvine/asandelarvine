@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cline’s Backroom Git: The Secret History of “View Changes”](https://dev.to/alex_buzunov_4d5851f839cc/clines-backroom-git-the-secret-history-of-view-changes-1ma1)
-- [State of JS 2025: Popular Syntax Features Explained with PHP Equivalents](https://dev.to/robertobutti/state-of-js-2025-popular-syntax-features-explained-with-php-equivalents-4ffp)
-- [Missing Data in Machine Learning: A Practical Step-by-Step Approach](https://dev.to/brittany_37606c0775530a57/missing-data-in-machine-learning-a-practical-step-by-step-approach-1p85)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
+- [Fixing Kali Linux&#39;s &quot;Failed to Set Beacon Parameters&quot; Hotspot Error: A Troubleshooting Tale](https://dev.to/rosewabere/fixing-kali-linuxs-failed-to-set-beacon-parameters-hotspot-error-a-troubleshooting-tale-1ddc)
+- [Day 7 of #100DaysOfCode — Understanding Custom Hooks in React](https://dev.to/m_saad_ahmad/day-7-of-100daysofcode-understanding-custom-hooks-in-react-3e3p)
+- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
+- [📊 2026-02-07 - Daily Intelligence Recap - Top 3 Signals](https://dev.to/jose_marquez_alberti/2026-02-07-daily-intelligence-recap-top-3-signals-11f)
 <!-- BLOG-POST-LIST:END -->
 
