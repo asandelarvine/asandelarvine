@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [gh-excavate: Unearthing Code with GitHub Copilot](https://dev.to/anika_jha_33ae1d9afc69178/gh-excavate-unearthing-code-with-github-copilot-3cml)
-- [Bundle Size Analysis: Comparing React MUI, Angular Material, and IK UI](https://dev.to/ikui_47ea3538ca74920eee2b/bundle-size-analysis-comparing-react-mui-angular-material-and-ik-ui-5dnj)
-- [The Miner and the Jeweler: Why AI Code Isn&#39;t Production-Ready](https://dev.to/leolanese/the-miner-and-the-jeweler-why-ai-code-isnt-production-ready-5don)
-- [On a Shift in the Paradigm](https://dev.to/drugoi_dev/on-a-shift-in-the-paradigm-n7g)
+- [I Built a Programming Language Where think Is a Keyword](https://dev.to/elias_hourany_5735ea9eac2/i-built-a-programming-language-where-think-is-a-keyword-1p2i)
+- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8)
+- [I Shipped My First VS Code Extension — Here’s What I Learned](https://dev.to/munish_kumarsharma_c7d83/i-shipped-my-first-vs-code-extension-heres-what-i-learned-3mkn)
+- [🔑 Cloud Policy Abuse: The IAM Blind Spot](https://dev.to/harsh_hak/cloud-policy-abuse-the-iam-blind-spot-fgj)
 <!-- BLOG-POST-LIST:END -->
 
