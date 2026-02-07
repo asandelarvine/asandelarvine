@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
-- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
-- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
-- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
+- [Puppet with Foreman - Host Registration](https://dev.to/12ww1160/puppet-with-foreman-host-registration-3866)
+- [PHP Architect January 2026: Wanted: PHP Developers](https://dev.to/phparch/php-architect-january-2026-wanted-php-developers-26n7)
+- [My Learning Notes](https://dev.to/dawid_ryczko/my-learning-notes-6i7)
+- [Comprehensive Research: Audit Log Paradigms &amp; Go/PostgreSQL/GORM Design Patterns](https://dev.to/akkaraponph/comprehensive-research-audit-log-paradigms-gopostgresqlgorm-design-patterns-1jmm)
 <!-- BLOG-POST-LIST:END -->
 
