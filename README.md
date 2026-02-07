@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resourceful Computing: What Happens When We Optimize for Old Hardware?](https://dev.to/ben-santora/resourceful-computing-what-happens-when-we-optimize-for-old-hardware-3an6)
-- [Bitcoin L2s: How Bitcoin Is Becoming More Than “Digital Gold” in 2026](https://dev.to/ribhavmodi/bitcoin-l2s-how-bitcoin-is-becoming-more-than-digital-gold-in-2026-2i)
-- [Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:](https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0)
-- [Switch case](https://dev.to/karthick_m22/switch-case-22f)
+- [Design High-Performing And Elastic Compute Solutions](https://dev.to/aws-builders/design-high-performing-and-elastic-compute-solutions-2h9h)
+- [I stopped setting goals. Here&#39;s what happened.](https://dev.to/betatesterlife/i-stopped-setting-goals-heres-what-happened-5cmc)
+- [The Ball and Chain: Why Git is an Anti-Pattern for AI-Native Engineering](https://dev.to/smolinari/the-ball-and-chain-why-git-is-an-anti-pattern-for-ai-native-engineering-1i47)
+- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
 <!-- BLOG-POST-LIST:END -->
 
