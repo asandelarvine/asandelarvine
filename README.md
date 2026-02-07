@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Classes in Java – A Beginner’s Guide](https://dev.to/ponvel_m_9b698962c39e9474/understanding-classes-in-java-a-beginners-guide-97p)
-- [Debugging Kotlin Multiplatform Apps with Better Observability](https://dev.to/shivathapaa/debugging-kotlin-multiplatform-apps-with-better-observability-273)
-- [Breaking Down Barriers: My Journey to Make Programming Truly Global](https://dev.to/dev_rashmi_b_r/breaking-down-barriers-my-journey-to-make-programming-truly-global-673)
-- [What is class?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-class-2ida)
+- [The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss](https://dev.to/clearvoro/the-financial-reporting-paradox-and-clearvoro-analysis-of-microstrategys-q4-loss-2101)
+- [🧠 JavaScript Type Coercion — A Question That Teaches](https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj)
+- [Design HLD - Notification Sytem](https://dev.to/learnwithvikzzy/design-hld-notification-sytem-eo7)
+- [Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o)
 <!-- BLOG-POST-LIST:END -->
 
