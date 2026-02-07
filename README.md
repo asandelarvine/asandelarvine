@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Kali Linux&#39;s &quot;Failed to Set Beacon Parameters&quot; Hotspot Error: A Troubleshooting Tale](https://dev.to/rosewabere/fixing-kali-linuxs-failed-to-set-beacon-parameters-hotspot-error-a-troubleshooting-tale-1ddc)
-- [Day 7 of #100DaysOfCode — Understanding Custom Hooks in React](https://dev.to/m_saad_ahmad/day-7-of-100daysofcode-understanding-custom-hooks-in-react-3e3p)
-- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
-- [📊 2026-02-07 - Daily Intelligence Recap - Top 3 Signals](https://dev.to/jose_marquez_alberti/2026-02-07-daily-intelligence-recap-top-3-signals-11f)
+- [LicGen — Offline License Generator &lpar;CLI + Web UI&rpar;](https://dev.to/tejavvo/licgen-offline-license-generator-cli-web-ui-4j69)
+- [Why do tree-based models still outperform deep learning on tabular data?](https://dev.to/paperium/why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data-2lc5)
+- [GHSA-382Q-FPQH-29F7: Betting on a Bad Horse: The Malicious `polymarket-clients-sdk` Crate](https://dev.to/cverports/ghsa-382q-fpqh-29f7-betting-on-a-bad-horse-the-malicious-polymarket-clients-sdk-crate-3g9d)
+- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
 <!-- BLOG-POST-LIST:END -->
 
