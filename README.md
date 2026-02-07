@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock GitHub Copilot in Cursor: The Ultimate Guide &lpar;Free &amp; Unlimited&rpar;](https://dev.to/jacksonkasi/unlock-github-copilot-in-cursor-the-ultimate-guide-free-unlimited-4i9c)
-- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
-- [Q - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/q-glossary-python-3k01)
-- [Demystifying the Cloud: A Guide to the Core Pillars of Modern Infrastructure](https://dev.to/precious_nwafor/demystifying-the-cloud-a-guide-to-the-core-pillars-of-modern-infrastructure-ec1)
+- [Resourceful Computing: What Happens When We Optimize for Old Hardware?](https://dev.to/ben-santora/resourceful-computing-what-happens-when-we-optimize-for-old-hardware-3an6)
+- [Bitcoin L2s: How Bitcoin Is Becoming More Than “Digital Gold” in 2026](https://dev.to/ribhavmodi/bitcoin-l2s-how-bitcoin-is-becoming-more-than-digital-gold-in-2026-2i)
+- [Quincy Larson’s freeCodeCamp updates are invaluable. This week: Harvard CS50 2026, a free CS course, now on their YouTube channel:](https://dev.to/richardpascoe/quincy-larsons-freecodecamp-updates-are-invaluable-this-week-harvard-cs50-2026-a-free-cs-4ca0)
+- [Switch case](https://dev.to/karthick_m22/switch-case-22f)
 <!-- BLOG-POST-LIST:END -->
 
