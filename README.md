@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje)
-- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
-- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff)
-- [Quark&#39;s Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n)
+- [Local vs Cloud Builds in Expo: What expo prebuild and eas build Really Do](https://dev.to/mbugua70/local-vs-cloud-builds-in-expo-what-expo-prebuild-and-eas-build-really-do-3mnc)
+- [Flash Memory Explained: NAND vs NOR, Architecture, and Memory Organization](https://dev.to/amanprasad/flash-memory-explained-nand-vs-nor-architecture-and-memory-organization-3abf)
+- [PHP 8.5: новые возможности, апгрейд и реальные риски](https://dev.to/_vproger_/php-85-novyie-vozmozhnosti-apghrieid-i-riealnyie-riski-4hh8)
+- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
 <!-- BLOG-POST-LIST:END -->
 
