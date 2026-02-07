@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LicGen — Offline License Generator &lpar;CLI + Web UI&rpar;](https://dev.to/tejavvo/licgen-offline-license-generator-cli-web-ui-4j69)
-- [Why do tree-based models still outperform deep learning on tabular data?](https://dev.to/paperium/why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data-2lc5)
-- [GHSA-382Q-FPQH-29F7: Betting on a Bad Horse: The Malicious `polymarket-clients-sdk` Crate](https://dev.to/cverports/ghsa-382q-fpqh-29f7-betting-on-a-bad-horse-the-malicious-polymarket-clients-sdk-crate-3g9d)
-- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
+- [How I Built a Random Number Generator &lpar;Sort Of&rpar;](https://dev.to/douxxtech/how-i-built-a-random-number-generator-sort-of-37i)
+- [How to Implement OpenClaw in a Spring Boot Application &lpar;Java&rpar;](https://dev.to/mykola-bielousov/how-to-implement-openclaw-in-a-spring-boot-application-java-5c02)
+- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
+- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
 <!-- BLOG-POST-LIST:END -->
 
