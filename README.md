@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL SQL Recap: Building Strong Foundational SQL Skills](https://dev.to/auyeungdavid_2847435260/postgresql-sql-recap-building-strong-foundational-sql-skills-1mhh)
-- [I Abandoned Vector DBs to Build a &quot;Biological&quot; AI OS: Memory that Dreams + Reflexes that Kill Latency](https://dev.to/merchantmohdebug/i-abandoned-vector-dbs-to-build-a-biological-ai-os-memory-that-dreams-reflexes-that-kill-33c)
-- [Python Block Comments: Best Practices, Shortcuts, and Docstrings Explained](https://dev.to/lifeportal20002010/python-block-comments-best-practices-shortcuts-and-docstrings-explained-342f)
-- [Modern Web APIs That Replace JavaScript Libraries](https://dev.to/abhilash_hegde/modern-web-apis-that-replace-javascript-libraries-4njd)
+- [Why Most Open-Source Issues Feel Hard &lpar;And What I’m Building to Fix It&rpar;](https://dev.to/vednarvekar/why-most-open-source-issues-feel-hard-and-what-im-building-to-fix-it-eog)
+- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
+- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
+- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
 <!-- BLOG-POST-LIST:END -->
 
