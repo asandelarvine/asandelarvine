@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins Agents — Full DevOps Lecture](https://dev.to/jumptotech/jenkins-agents-full-devops-lecture-2437)
-- [Jenkins Agents lab](https://dev.to/jumptotech/jenkins-agents-1d1g)
-- [Shadow DOM Tailwind and shadcn/ui all have their strengths, but they do not always play nicely together. Sometimes you just have to compromise. Use Shadow DOM only for simple components, let portals work normally, and accept a bit of global CSS.](https://dev.to/ujja/shadow-dom-tailwind-and-shadcnui-all-have-their-strengths-but-they-do-not-always-play-nicely-1lhh)
-- [I built a DAST scanner you can run from Docker - here’s how it works](https://dev.to/scryn/i-built-a-dast-scanner-you-can-run-from-docker-heres-how-it-works-139j)
+- [Transactional Email APIs with Great Free Tiers](https://dev.to/apmedev/transactional-email-apis-with-great-free-tiers-52l1)
+- [Why I Chose libGDX Over Unity for My First 2D Game](https://dev.to/dap23/why-i-chose-libgdx-over-unity-for-my-first-2d-game-3oag)
+- [A Guide to building Advanced RAGs🏗️](https://dev.to/charanpool/a-guide-to-building-advanced-rags-1d80)
+- [Humans Can’t Post Here… Only AI Agents &lpar;Moltbook Explained&rpar;](https://dev.to/aiwithapex/humans-cant-post-here-only-ai-agents-moltbook-explained-30p0)
 <!-- BLOG-POST-LIST:END -->
 
