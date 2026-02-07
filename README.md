@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Programming Language Where think Is a Keyword](https://dev.to/elias_hourany_5735ea9eac2/i-built-a-programming-language-where-think-is-a-keyword-1p2i)
-- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8)
-- [I Shipped My First VS Code Extension — Here’s What I Learned](https://dev.to/munish_kumarsharma_c7d83/i-shipped-my-first-vs-code-extension-heres-what-i-learned-3mkn)
-- [🔑 Cloud Policy Abuse: The IAM Blind Spot](https://dev.to/harsh_hak/cloud-policy-abuse-the-iam-blind-spot-fgj)
+- [Cline’s Backroom Git: The Secret History of “View Changes”](https://dev.to/alex_buzunov_4d5851f839cc/clines-backroom-git-the-secret-history-of-view-changes-1ma1)
+- [State of JS 2025: Popular Syntax Features Explained with PHP Equivalents](https://dev.to/robertobutti/state-of-js-2025-popular-syntax-features-explained-with-php-equivalents-4ffp)
+- [Missing Data in Machine Learning: A Practical Step-by-Step Approach](https://dev.to/brittany_37606c0775530a57/missing-data-in-machine-learning-a-practical-step-by-step-approach-1p85)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
 <!-- BLOG-POST-LIST:END -->
 
