@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Financial Reporting Paradox and ClearVoro Analysis of MicroStrategy’s Q4 Loss](https://dev.to/clearvoro/the-financial-reporting-paradox-and-clearvoro-analysis-of-microstrategys-q4-loss-2101)
-- [🧠 JavaScript Type Coercion — A Question That Teaches](https://dev.to/manasa_bolisetti_8f262624/javascript-type-coercion-a-question-that-teaches-5edj)
-- [Design HLD - Notification Sytem](https://dev.to/learnwithvikzzy/design-hld-notification-sytem-eo7)
-- [Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o)
+- [PostgreSQL SQL Recap: Building Strong Foundational SQL Skills](https://dev.to/auyeungdavid_2847435260/postgresql-sql-recap-building-strong-foundational-sql-skills-1mhh)
+- [I Abandoned Vector DBs to Build a &quot;Biological&quot; AI OS: Memory that Dreams + Reflexes that Kill Latency](https://dev.to/merchantmohdebug/i-abandoned-vector-dbs-to-build-a-biological-ai-os-memory-that-dreams-reflexes-that-kill-33c)
+- [Python Block Comments: Best Practices, Shortcuts, and Docstrings Explained](https://dev.to/lifeportal20002010/python-block-comments-best-practices-shortcuts-and-docstrings-explained-342f)
+- [Modern Web APIs That Replace JavaScript Libraries](https://dev.to/abhilash_hegde/modern-web-apis-that-replace-javascript-libraries-4njd)
 <!-- BLOG-POST-LIST:END -->
 
