@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java in 2026: still boring, still powerful, still printing money](https://dev.to/pvgomes/java-in-2026-still-boring-still-powerful-still-printing-money-5ehj)
-- [Why &quot;Hello, World&quot;](https://dev.to/i_moh/why-hello-world-il4)
-- [Z.AI LARAVEL 12 SDK](https://dev.to/0xmergen/zai-laravel-12-sdk-2g3n)
-- [Beyond OOP: Rethinking What a Programming Language Should Guarantee](https://dev.to/programmerkr/beyond-oop-rethinking-what-a-programming-language-should-guarantee-36i4)
+- [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
+- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
+- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
+- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
 <!-- BLOG-POST-LIST:END -->
 
