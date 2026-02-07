@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs as Your AI Coding Assistant on Apple Silicon](https://dev.to/brunocerberus/running-local-llms-on-apple-silicon-2ecm)
-- [From Locked PDFs to Structured Data: Agent Skills to Extract Thailand&#39;s Election Policies using Gemini 3 Pro and Gemini CLI](https://dev.to/nuttee_c5712c306d78369997/from-locked-pdfs-to-structured-data-agent-skills-to-extract-thailands-election-policies-using-2l0i)
-- [MoSPI launches beta MCP Server — AI-ready access to official Indian stats](https://dev.to/rsrini7/mospi-launches-beta-mcp-server-ai-ready-access-to-official-indian-stats-2ek1)
-- [Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳](https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m)
+- [Understanding Classes in Java – A Beginner’s Guide](https://dev.to/ponvel_m_9b698962c39e9474/understanding-classes-in-java-a-beginners-guide-97p)
+- [Debugging Kotlin Multiplatform Apps with Better Observability](https://dev.to/shivathapaa/debugging-kotlin-multiplatform-apps-with-better-observability-273)
+- [Breaking Down Barriers: My Journey to Make Programming Truly Global](https://dev.to/dev_rashmi_b_r/breaking-down-barriers-my-journey-to-make-programming-truly-global-673)
+- [What is class?](https://dev.to/ashwin_vijay_5dbc6d66ea3c/what-is-class-2ida)
 <!-- BLOG-POST-LIST:END -->
 
