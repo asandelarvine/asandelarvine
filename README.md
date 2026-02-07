@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet with Foreman - Host Registration](https://dev.to/12ww1160/puppet-with-foreman-host-registration-3866)
-- [PHP Architect January 2026: Wanted: PHP Developers](https://dev.to/phparch/php-architect-january-2026-wanted-php-developers-26n7)
-- [My Learning Notes](https://dev.to/dawid_ryczko/my-learning-notes-6i7)
-- [Comprehensive Research: Audit Log Paradigms &amp; Go/PostgreSQL/GORM Design Patterns](https://dev.to/akkaraponph/comprehensive-research-audit-log-paradigms-gopostgresqlgorm-design-patterns-1jmm)
+- [gh-excavate: Unearthing Code with GitHub Copilot](https://dev.to/anika_jha_33ae1d9afc69178/gh-excavate-unearthing-code-with-github-copilot-3cml)
+- [Bundle Size Analysis: Comparing React MUI, Angular Material, and IK UI](https://dev.to/ikui_47ea3538ca74920eee2b/bundle-size-analysis-comparing-react-mui-angular-material-and-ik-ui-5dnj)
+- [The Miner and the Jeweler: Why AI Code Isn&#39;t Production-Ready](https://dev.to/leolanese/the-miner-and-the-jeweler-why-ai-code-isnt-production-ready-5don)
+- [On a Shift in the Paradigm](https://dev.to/drugoi_dev/on-a-shift-in-the-paradigm-n7g)
 <!-- BLOG-POST-LIST:END -->
 
