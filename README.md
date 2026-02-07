@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design High-Performing And Elastic Compute Solutions](https://dev.to/aws-builders/design-high-performing-and-elastic-compute-solutions-2h9h)
-- [I stopped setting goals. Here&#39;s what happened.](https://dev.to/betatesterlife/i-stopped-setting-goals-heres-what-happened-5cmc)
-- [The Ball and Chain: Why Git is an Anti-Pattern for AI-Native Engineering](https://dev.to/smolinari/the-ball-and-chain-why-git-is-an-anti-pattern-for-ai-native-engineering-1i47)
-- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
+- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje)
+- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
+- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff)
+- [Quark&#39;s Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n)
 <!-- BLOG-POST-LIST:END -->
 
