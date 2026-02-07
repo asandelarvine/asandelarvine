@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Open-Source Issues Feel Hard &lpar;And What I’m Building to Fix It&rpar;](https://dev.to/vednarvekar/why-most-open-source-issues-feel-hard-and-what-im-building-to-fix-it-eog)
-- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
-- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
-- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
+- [🚀 Unlock GitHub Copilot in Cursor: The Ultimate Guide &lpar;Free &amp; Unlimited&rpar;](https://dev.to/jacksonkasi/unlock-github-copilot-in-cursor-the-ultimate-guide-free-unlimited-4i9c)
+- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
+- [Q - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/q-glossary-python-3k01)
+- [Demystifying the Cloud: A Guide to the Core Pillars of Modern Infrastructure](https://dev.to/precious_nwafor/demystifying-the-cloud-a-guide-to-the-core-pillars-of-modern-infrastructure-ec1)
 <!-- BLOG-POST-LIST:END -->
 
