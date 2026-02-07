@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local vs Cloud Builds in Expo: What expo prebuild and eas build Really Do](https://dev.to/mbugua70/local-vs-cloud-builds-in-expo-what-expo-prebuild-and-eas-build-really-do-3mnc)
-- [Flash Memory Explained: NAND vs NOR, Architecture, and Memory Organization](https://dev.to/amanprasad/flash-memory-explained-nand-vs-nor-architecture-and-memory-organization-3abf)
-- [PHP 8.5: новые возможности, апгрейд и реальные риски](https://dev.to/_vproger_/php-85-novyie-vozmozhnosti-apghrieid-i-riealnyie-riski-4hh8)
-- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
+- [Java in 2026: still boring, still powerful, still printing money](https://dev.to/pvgomes/java-in-2026-still-boring-still-powerful-still-printing-money-5ehj)
+- [Why &quot;Hello, World&quot;](https://dev.to/i_moh/why-hello-world-il4)
+- [Z.AI LARAVEL 12 SDK](https://dev.to/0xmergen/zai-laravel-12-sdk-2g3n)
+- [Beyond OOP: Rethinking What a Programming Language Should Guarantee](https://dev.to/programmerkr/beyond-oop-rethinking-what-a-programming-language-should-guarantee-36i4)
 <!-- BLOG-POST-LIST:END -->
 
