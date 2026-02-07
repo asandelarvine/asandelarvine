@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Random Number Generator &lpar;Sort Of&rpar;](https://dev.to/douxxtech/how-i-built-a-random-number-generator-sort-of-37i)
-- [How to Implement OpenClaw in a Spring Boot Application &lpar;Java&rpar;](https://dev.to/mykola-bielousov/how-to-implement-openclaw-in-a-spring-boot-application-java-5c02)
-- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
-- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
+- [Tech Academy Write-Up](https://dev.to/obtuosa/tech-academy-write-up-338p)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/dennis_ogaka_2d188ab5bef7/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2imf)
+- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
+- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
 <!-- BLOG-POST-LIST:END -->
 
