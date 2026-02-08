@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From messy data to meaningful action: How analysts use Power BI to drive decisions](https://dev.to/kinyywa-data-analyst/from-messy-data-to-meaningful-action-how-analysts-use-power-bi-to-drive-decisions-5co2)
-- [Archiving ChatGPT Conversations with a Bookmarklet](https://dev.to/vast-cow/archiving-chatgpt-conversations-with-a-bookmarklet-55lo)
-- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
-- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
+- [The Project Cookbook](https://dev.to/tupe12334/the-project-cookbook-3o0m)
+- [Httpc - A much needed wrapper](https://dev.to/jnaneshd/httpc-a-much-needed-wrapper-3n9)
+- [Secure Boot et Linux : l&#39;état de l&#39;art en 2026](https://dev.to/r3m8/secure-boot-et-linux-letat-de-lart-en-2026-3djn)
+- [Dotfiles Coach: Your Shell History is Full of Automation Gold &lpar;You Just Don&#39;t Know It Yet&rpar;](https://dev.to/olaproeis/dotfiles-coach-your-shell-history-is-full-of-automation-gold-you-just-dont-know-it-yet-4g52)
 <!-- BLOG-POST-LIST:END -->
 
