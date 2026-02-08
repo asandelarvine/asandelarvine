@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Academy Write-Up](https://dev.to/obtuosa/tech-academy-write-up-338p)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/dennis_ogaka_2d188ab5bef7/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2imf)
-- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
-- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
+- [I Built a Full-Stack F1 Fantasy Platform in 4 Weeks — Solo, With AI Agents](https://dev.to/rakesh_paul/i-built-a-full-stack-f1-fantasy-platform-in-4-weeks-solo-with-ai-agents-3195)
+- [파이썬](https://dev.to/koareum/paisseon-25f6)
+- [Deploy Next.js on cPanel/WHM with Phusion Passenger](https://dev.to/sumeet_shrofffreelancer_/deploy-nextjs-on-cpanelwhm-with-phusion-passenger-de4)
+- [Next.js Advanced FAQs: Fonts, Images, i18n, Security &amp; Headless Shopify](https://dev.to/sumeet_shrofffreelancer_/nextjs-advanced-faqs-fonts-images-i18n-security-headless-shopify-3ca6)
 <!-- BLOG-POST-LIST:END -->
 
