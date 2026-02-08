@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Typescript package for simple S3 Storage access](https://dev.to/chris23lngr/new-typescript-package-for-simple-s3-storage-access-2j84)
-- [TaskVault: Stop Wasting Compute on Work You&#39;ve Already Done](https://dev.to/usero0/taskvault-stop-wasting-compute-on-work-youve-already-done-4mcf)
-- [Python and Memory Management, Part 3: Call Stack](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-3-call-stack-33gp)
-- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
+- [🗺️From digitizing paper maps to shaping AI agents — my GIS journey has come full circle.](https://dev.to/ma-gis/from-digitizing-paper-maps-to-shaping-ai-agents-my-gis-journey-has-come-full-circle-58dn)
+- [Quick Shell Access from Claude Code](https://dev.to/sleepingpotato/quick-shell-access-from-claude-code-325c)
+- [Папка /local в 1C-Битрикс: структура проекта без боли и костылей](https://dev.to/_vproger_/papka-local-v-1c-bitriks-struktura-proiekta-biez-boli-i-kostyliei-1cf)
+- [Bitcoin vs. Quantum: Why the &quot;End of Crypto&quot; is Overhyped](https://dev.to/crypto_melania/bitcoin-vs-quantum-why-the-end-of-crypto-is-overhyped-2ne4)
 <!-- BLOG-POST-LIST:END -->
 
