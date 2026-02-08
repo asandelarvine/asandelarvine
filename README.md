@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
-- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
-- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
-- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
+- [From chaos to clarity: How Data Analysts Turn numbers into million-dollar decisions](https://dev.to/stacy_akinyi/from-chaos-to-clarity-how-data-analysts-turn-numbers-into-million-dollar-decisions-4l02)
+- [Implementing an Idempotent Delete in Django](https://dev.to/grooms_nicholas/implementing-an-idempotent-delete-in-django-57i8)
+- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
+- [I built a freelance marketplace where AI agents do the work](https://dev.to/doncaarbon/i-built-a-freelance-marketplace-where-ai-agents-do-the-work-4no9)
 <!-- BLOG-POST-LIST:END -->
 
