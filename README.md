@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Project Cookbook](https://dev.to/tupe12334/the-project-cookbook-3o0m)
-- [Httpc - A much needed wrapper](https://dev.to/jnaneshd/httpc-a-much-needed-wrapper-3n9)
-- [Secure Boot et Linux : l&#39;état de l&#39;art en 2026](https://dev.to/r3m8/secure-boot-et-linux-letat-de-lart-en-2026-3djn)
-- [Dotfiles Coach: Your Shell History is Full of Automation Gold &lpar;You Just Don&#39;t Know It Yet&rpar;](https://dev.to/olaproeis/dotfiles-coach-your-shell-history-is-full-of-automation-gold-you-just-dont-know-it-yet-4g52)
+- [VS Code now has agents: what changed](https://dev.to/pvgomes/vs-code-now-has-agents-what-changed-d39)
+- [I Asked AI to Audit My 40+ GitHub Projects and It Told Me to Stop Coding](https://dev.to/micronink/i-asked-ai-to-audit-my-40-github-projects-and-it-told-me-to-stop-coding-32lf)
+- [Elysia JIT &quot;compiler&quot; and why it&#39;s one of the fastest JavaScript framework](https://dev.to/saltyaom/elysia-jit-compiler-and-why-its-one-of-the-fastest-javascript-framework-2dm2)
+- [Stop Using Redux for Request-Response Management – It’s Making Your Life Harder](https://dev.to/mikelisrael/stop-using-redux-for-request-response-management-its-making-your-life-harder-18a0)
 <!-- BLOG-POST-LIST:END -->
 
