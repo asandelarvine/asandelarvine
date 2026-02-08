@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code now has agents: what changed](https://dev.to/pvgomes/vs-code-now-has-agents-what-changed-d39)
-- [I Asked AI to Audit My 40+ GitHub Projects and It Told Me to Stop Coding](https://dev.to/micronink/i-asked-ai-to-audit-my-40-github-projects-and-it-told-me-to-stop-coding-32lf)
-- [Elysia JIT &quot;compiler&quot; and why it&#39;s one of the fastest JavaScript framework](https://dev.to/saltyaom/elysia-jit-compiler-and-why-its-one-of-the-fastest-javascript-framework-2dm2)
-- [Stop Using Redux for Request-Response Management – It’s Making Your Life Harder](https://dev.to/mikelisrael/stop-using-redux-for-request-response-management-its-making-your-life-harder-18a0)
+- [🚀 Introducing SBP: Multi-Agent Coordination via Digital &quot;Pheromones](https://dev.to/naveentvelu/introducing-sbp-multi-agent-coordination-via-digital-pheromones-2j4e)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/avedi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-46dg)
+- [AI Agent Tool Design: What I Wish I Knew Earlier](https://dev.to/hassantayyab/ai-agent-tool-design-what-i-wish-i-knew-earlier-5fj)
+- [How Do You Decide Blog Topics That Actually Help Readers?](https://dev.to/cocguidehub/how-do-you-decide-blog-topics-that-actually-help-readers-46b8)
 <!-- BLOG-POST-LIST:END -->
 
