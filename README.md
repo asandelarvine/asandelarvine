@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
-- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
-- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
-- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
+- [AI Productivity Gains That Are Actually Measurable &lpar;With Real Numbers&rpar;](https://dev.to/rakesh1002/ai-productivity-gains-that-are-actually-measurable-with-real-numbers-3jmg)
+- [The Understanding Tax: Why Your Developers Spend 90 Minutes Per Ticket Before Writing Code](https://dev.to/glue_admin_3465093919ac6b/the-understanding-tax-why-your-developers-spend-90-minutes-per-ticket-before-writing-code-47kh)
+- [Environmental DNA: How AI Reasoners are Revolutionizing Image Geolocation](https://dev.to/andy_76f9d332cebcb8999956/environmental-dna-how-ai-reasoners-are-revolutionizing-image-geolocation-1cdf)
+- [Measuring Technical Debt: Beyond SonarQube](https://dev.to/glue_admin_3465093919ac6b/measuring-technical-debt-beyond-sonarqube-16hd)
 <!-- BLOG-POST-LIST:END -->
 
