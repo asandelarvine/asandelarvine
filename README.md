@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Junior Developer Paradox: Why AI Makes Fundamentals More Important, Not Less](https://dev.to/respect17/the-junior-developer-paradox-why-ai-makes-fundamentals-more-important-not-less-3n6l)
-- [Rate Limiting: Concepts, Algorithms, and Distributed Challenges](https://dev.to/guna01/rate-limiting-concepts-algorithms-and-distributed-challenges-4gfl)
-- [I’m Building a Dating App for AI Agents &lpar;For Science… Probably&rpar;](https://dev.to/neeleshwark17/im-building-a-dating-app-for-ai-agents-for-science-probably-5gm6)
-- [AI Localization: Can Machines Really Speak Everyone&#39;s Language?](https://dev.to/nextgenaiinsight/ai-localization-can-machines-really-speak-everyones-language-3lfd)
+- [From messy data to meaningful action: How analysts use Power BI to drive decisions](https://dev.to/kinyywa-data-analyst/from-messy-data-to-meaningful-action-how-analysts-use-power-bi-to-drive-decisions-5co2)
+- [Archiving ChatGPT Conversations with a Bookmarklet](https://dev.to/vast-cow/archiving-chatgpt-conversations-with-a-bookmarklet-55lo)
+- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
+- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
 <!-- BLOG-POST-LIST:END -->
 
