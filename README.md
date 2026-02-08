@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From chaos to clarity: How Data Analysts Turn numbers into million-dollar decisions](https://dev.to/stacy_akinyi/from-chaos-to-clarity-how-data-analysts-turn-numbers-into-million-dollar-decisions-4l02)
-- [Implementing an Idempotent Delete in Django](https://dev.to/grooms_nicholas/implementing-an-idempotent-delete-in-django-57i8)
-- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
-- [I built a freelance marketplace where AI agents do the work](https://dev.to/doncaarbon/i-built-a-freelance-marketplace-where-ai-agents-do-the-work-4no9)
+- [The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)
+- [I Built an E2E Test Runner Where Tests Are JSON, Not Code](https://dev.to/fastslack/i-built-an-e2e-test-runner-where-tests-are-json-not-code-edj)
+- [Change 6 Characters in Terraform and Save 20% on EC2 Costs Instantly 💪](https://dev.to/suhas_mallesh/change-6-characters-in-terraform-and-save-20-on-ec2-costs-instantly-19nj)
+- [How we built an error explainer with Gemini](https://dev.to/clearthehaze/how-we-built-an-error-explainer-with-gemini-n43)
 <!-- BLOG-POST-LIST:END -->
 
