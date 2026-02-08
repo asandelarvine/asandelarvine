@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing SBP: Multi-Agent Coordination via Digital &quot;Pheromones](https://dev.to/naveentvelu/introducing-sbp-multi-agent-coordination-via-digital-pheromones-2j4e)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/avedi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-46dg)
-- [AI Agent Tool Design: What I Wish I Knew Earlier](https://dev.to/hassantayyab/ai-agent-tool-design-what-i-wish-i-knew-earlier-5fj)
-- [How Do You Decide Blog Topics That Actually Help Readers?](https://dev.to/cocguidehub/how-do-you-decide-blog-topics-that-actually-help-readers-46b8)
+- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
+- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
+- [QHexView 5.1 Release &lpar;and a little bit of history&rpar;](https://dev.to/dax89/qhexview-51-release-and-a-little-bit-of-history-24e8)
+- [When AI Slaps You in the Face](https://dev.to/mathgladiator/when-ai-slaps-you-in-the-face-39jh)
 <!-- BLOG-POST-LIST:END -->
 
