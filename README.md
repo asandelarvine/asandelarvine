@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GoRouter Advanced Tutorial 2026: Bottom Nav, Nested Routes, Auth Redirects &amp; Typed Navigation 🚀](https://dev.to/techwithsam/gorouter-advanced-tutorial-2026-bottom-nav-nested-routes-auth-redirects-typed-navigation-31d)
-- [How VS Code Copilot Chat Premium Features Leak into Subagents &lpar;and Why It Matters&rpar;](https://dev.to/damogallagher/how-vs-code-copilot-chat-premium-features-leak-into-subagents-and-why-it-matters-3hpj)
-- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71)
-- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
+- [New Typescript package for simple S3 Storage access](https://dev.to/chris23lngr/new-typescript-package-for-simple-s3-storage-access-2j84)
+- [TaskVault: Stop Wasting Compute on Work You&#39;ve Already Done](https://dev.to/usero0/taskvault-stop-wasting-compute-on-work-youve-already-done-4mcf)
+- [Python and Memory Management, Part 3: Call Stack](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-3-call-stack-33gp)
+- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
 <!-- BLOG-POST-LIST:END -->
 
