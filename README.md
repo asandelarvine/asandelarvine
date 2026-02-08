@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗺️From digitizing paper maps to shaping AI agents — my GIS journey has come full circle.](https://dev.to/ma-gis/from-digitizing-paper-maps-to-shaping-ai-agents-my-gis-journey-has-come-full-circle-58dn)
-- [Quick Shell Access from Claude Code](https://dev.to/sleepingpotato/quick-shell-access-from-claude-code-325c)
-- [Папка /local в 1C-Битрикс: структура проекта без боли и костылей](https://dev.to/_vproger_/papka-local-v-1c-bitriks-struktura-proiekta-biez-boli-i-kostyliei-1cf)
-- [Bitcoin vs. Quantum: Why the &quot;End of Crypto&quot; is Overhyped](https://dev.to/crypto_melania/bitcoin-vs-quantum-why-the-end-of-crypto-is-overhyped-2ne4)
+- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
+- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
+- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
+- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
 <!-- BLOG-POST-LIST:END -->
 
