@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design HLD - Recomendation Sytem](https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p)
-- [Service Mesh Architecture &lpar;Istio/Linkerd&rpar;](https://dev.to/godofgeeks/service-mesh-architecture-istiolinkerd-26ed)
-- [Constela: Built-in a11y Checks, Plugin System &amp; CSS Transitions](https://dev.to/yuu1ch13/constela-built-in-a11y-checks-plugin-system-css-transitions-16dd)
-- [A Brief Review of Interval Partitioning](https://dev.to/vahidusefzadeh/a-brief-review-of-interval-partitioning-1j2e)
+- [The &quot;Desktop-to-Mobile&quot; Handoff: Why I Stopped Hating QR Codes in My UX](https://dev.to/abdurrahmanhassan/the-desktop-to-mobile-handoff-why-i-stopped-hating-qr-codes-in-my-ux-ohi)
+- [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
+- [Understanding Your Codebase in 2026: The Complete Guide](https://dev.to/glue_admin_3465093919ac6b/understanding-your-codebase-in-2026-the-complete-guide-14dg)
+- [The 10-Minute Codebase Audit: What to Check Before Joining a New Team](https://dev.to/glue_admin_3465093919ac6b/the-10-minute-codebase-audit-what-to-check-before-joining-a-new-team-j2a)
 <!-- BLOG-POST-LIST:END -->
 
