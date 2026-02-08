@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Desktop-to-Mobile&quot; Handoff: Why I Stopped Hating QR Codes in My UX](https://dev.to/abdurrahmanhassan/the-desktop-to-mobile-handoff-why-i-stopped-hating-qr-codes-in-my-ux-ohi)
-- [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
-- [Understanding Your Codebase in 2026: The Complete Guide](https://dev.to/glue_admin_3465093919ac6b/understanding-your-codebase-in-2026-the-complete-guide-14dg)
-- [The 10-Minute Codebase Audit: What to Check Before Joining a New Team](https://dev.to/glue_admin_3465093919ac6b/the-10-minute-codebase-audit-what-to-check-before-joining-a-new-team-j2a)
+- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
+- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
+- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
+- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
 <!-- BLOG-POST-LIST:END -->
 
