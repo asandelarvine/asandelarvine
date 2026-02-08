@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
-- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
-- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
-- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
+- [CReact: JSX meta-execution engine v0.3.0](https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j)
+- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl)
+- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j)
+- [I Built a YouTube Dislike Viewer with Next.js 16 — Here&#39;s How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b)
 <!-- BLOG-POST-LIST:END -->
 
