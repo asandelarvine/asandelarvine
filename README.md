@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full-Stack F1 Fantasy Platform in 4 Weeks — Solo, With AI Agents](https://dev.to/rakesh_paul/i-built-a-full-stack-f1-fantasy-platform-in-4-weeks-solo-with-ai-agents-3195)
-- [파이썬](https://dev.to/koareum/paisseon-25f6)
-- [Deploy Next.js on cPanel/WHM with Phusion Passenger](https://dev.to/sumeet_shrofffreelancer_/deploy-nextjs-on-cpanelwhm-with-phusion-passenger-de4)
-- [Next.js Advanced FAQs: Fonts, Images, i18n, Security &amp; Headless Shopify](https://dev.to/sumeet_shrofffreelancer_/nextjs-advanced-faqs-fonts-images-i18n-security-headless-shopify-3ca6)
+- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
+- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
+- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
+- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
 <!-- BLOG-POST-LIST:END -->
 
