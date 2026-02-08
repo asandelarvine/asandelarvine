@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
-- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
-- [QHexView 5.1 Release &lpar;and a little bit of history&rpar;](https://dev.to/dax89/qhexview-51-release-and-a-little-bit-of-history-24e8)
-- [When AI Slaps You in the Face](https://dev.to/mathgladiator/when-ai-slaps-you-in-the-face-39jh)
+- [GoRouter Advanced Tutorial 2026: Bottom Nav, Nested Routes, Auth Redirects &amp; Typed Navigation 🚀](https://dev.to/techwithsam/gorouter-advanced-tutorial-2026-bottom-nav-nested-routes-auth-redirects-typed-navigation-31d)
+- [How VS Code Copilot Chat Premium Features Leak into Subagents &lpar;and Why It Matters&rpar;](https://dev.to/damogallagher/how-vs-code-copilot-chat-premium-features-leak-into-subagents-and-why-it-matters-3hpj)
+- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71)
+- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
 <!-- BLOG-POST-LIST:END -->
 
