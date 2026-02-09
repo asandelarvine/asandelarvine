@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Leg Was Never Broken](https://dev.to/choutos/the-leg-was-never-broken-35jm)
-- [I want to create a personal website 
-How do I go about it.](https://dev.to/divine_5168ba5fb31524fd22/i-want-to-create-a-personal-website-how-do-i-go-about-it-2jln)
-- [TIL on Zod...](https://dev.to/maggie_ma_74a341dc9fbf0f6/til-on-zod-mbh)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/sharon_m/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-347j)
+- [C++ da Type Casting: Bir turdan ikkinchisiga o&#39;tish](https://dev.to/nooon/c-da-type-casting-bir-turdan-ikkinchisiga-otish-i92)
+- [Insecurity of Quantum Secure Computations](https://dev.to/paperium/insecurity-of-quantum-secure-computations-2iaf)
+- [Five Free Virtual Workshops about Graph and AI](https://dev.to/yolandeonneo4j/five-free-virtual-workshops-about-graph-and-ai-3ehm)
+- [Why AI-Generated Code Needs an Origin Story](https://dev.to/yasini/why-ai-generated-code-needs-an-origin-story-52d4)
 <!-- BLOG-POST-LIST:END -->
 
