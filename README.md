@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Phantom-WG: Build a Censorship-Resistant WireGuard VPN on Your Own Server](https://dev.to/remrearas/phantom-wg-build-a-censorship-resistant-wireguard-vpn-on-your-own-server-4oif)
-- [🌛Beginner-Friendly Guide &#39;Balance a Binary Search Tree&#39; - Problem 1382 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-balance-a-binary-search-tree-problem-1382-c-python-javascript-6n6)
-- [Stop Paying Twice for AI — Turn Your CLI Agents Into Rubber Ducks](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1)
-- [Why Canvas Breaks Your Screen Recorder &lpar;And What to Do Instead&rpar;](https://dev.to/alexneamtu/why-canvas-breaks-your-screen-recorder-and-what-to-do-instead-30hl)
+- [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb)
+- [Auditing repository bloat without auto-fixing anything](https://dev.to/babbawaagen/auditing-repository-bloat-without-auto-fixing-anything-45e7)
+- [I Built an API for LLM JSON Validation in Rust — Here’s What I Learned](https://dev.to/mtdevworks/i-built-an-api-for-llm-json-validation-in-rust-heres-what-i-learned-36nc)
+- [Tailwind A11y Checker 🌊♿ — Stop shipping inaccessible UIs by accident](https://dev.to/codewithnuh/tailwind-a11y-checker-stop-shipping-inaccessible-uis-by-accident-16i3)
 <!-- BLOG-POST-LIST:END -->
 
