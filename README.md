@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] Alertas](https://dev.to/david_goyes_a488f58a17a53/sui-alertas-c33)
-- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
-- [I built a self-hosted Docker platform in Go](https://dev.to/fransys/i-built-a-self-hosted-docker-platform-in-go-1j7g)
-- [CVE-2026-25498: Crafting Chaos: RCE in Craft CMS via Yii2 Behavior Injection](https://dev.to/cverports/cve-2026-25498-crafting-chaos-rce-in-craft-cms-via-yii2-behavior-injection-44pg)
+- [Your AI Agent Just Got a Credit Card: Introducing x402 Bazaar](https://dev.to/wintyx57/your-ai-agent-just-got-a-credit-card-introducing-x402-bazaar-1g64)
+- [Using AI to write a transpiler](https://dev.to/back2dos/using-ai-to-write-a-transpiler-pnf)
+- [Your API Calls the Same Lambda 1,000 Times a Minute &lpar;Enable Caching Already&rpar; 🚀](https://dev.to/suhas_mallesh/your-api-calls-the-same-lambda-1000-times-a-minute-enable-caching-already-4chk)
+- [Building My System, Piece by Piece](https://dev.to/vintagetechie/building-my-system-piece-by-piece-b93)
 <!-- BLOG-POST-LIST:END -->
 
