@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A11y Guard - Shift Accessibility Left Powered by GitHub Copilot CLI](https://dev.to/raj_uppadhyay_3d17a8e7aa8/a11y-guard-shift-accessibility-left-powered-by-github-copilot-cli-19f6)
-- [Improvements in communication have made understanding more difficult](https://dev.to/lexingdailylife/improvements-in-communication-have-made-understanding-more-difficult-2cpl)
-- [Brooke&#39;s AWS Valentine&#39;s Day Cards 2026](https://dev.to/aws/brookes-aws-valentines-day-cards-2026-5hhj)
-- [AI for PHP Developers. Practical Use of TransformersPHP](https://dev.to/samuel_akopyan_e902195a96/ai-for-php-developers-practical-use-of-transformersphp-5043)
+- [[SUI] Alertas](https://dev.to/david_goyes_a488f58a17a53/sui-alertas-c33)
+- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
+- [I built a self-hosted Docker platform in Go](https://dev.to/fransys/i-built-a-self-hosted-docker-platform-in-go-1j7g)
+- [CVE-2026-25498: Crafting Chaos: RCE in Craft CMS via Yii2 Behavior Injection](https://dev.to/cverports/cve-2026-25498-crafting-chaos-rce-in-craft-cms-via-yii2-behavior-injection-44pg)
 <!-- BLOG-POST-LIST:END -->
 
