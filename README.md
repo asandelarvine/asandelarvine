@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Reasoning: Deploying DeepSeek-R1 Distill Llama-8B with Ollama &amp; Open WebUI 🌙](https://dev.to/lyraalishaikh/local-reasoning-deploying-deepseek-r1-distill-llama-8b-with-ollama-open-webui-13a3)
-- [Why your `curl` logic just bit you 🐾](https://dev.to/googlecloud/why-your-curl-logic-just-bit-you-5gk1)
-- [10 Tips Every New Coder Should Know to Succeed](https://dev.to/canro91/10-tips-every-new-coder-should-know-to-succeed-4kgh)
-- [Clean Architecture in .NET 10: The Infrastructure Layer — EF Core Without the Leakage](https://dev.to/bspann/clean-architecture-in-net-10-the-infrastructure-layer-ef-core-without-the-leakage-55dn)
+- [I Built a Python CLI Tool for RAG Over Any Document Folder](https://dev.to/lukaszgrochal/i-built-a-python-cli-tool-for-rag-over-any-document-folder-55ic)
+- [📚 StudyStream: Your AI Learning Companion That Actually Gets You!](https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6)
+- [SocialFi: How Farcaster and Lens Are Redesigning Social on Web3](https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd)
+- [Sofia Core - Open Source AI Infrastructure with DNA Computing](https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj)
 <!-- BLOG-POST-LIST:END -->
 
