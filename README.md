@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a Wishlist Heart Icon Inside the Product Image on Horizon Theme?](https://dev.to/sebbanfa/how-to-add-a-wishlist-heart-icon-inside-the-product-image-on-horizon-theme-43kb)
-- [Auditing repository bloat without auto-fixing anything](https://dev.to/babbawaagen/auditing-repository-bloat-without-auto-fixing-anything-45e7)
-- [I Built an API for LLM JSON Validation in Rust — Here’s What I Learned](https://dev.to/mtdevworks/i-built-an-api-for-llm-json-validation-in-rust-heres-what-i-learned-36nc)
-- [Tailwind A11y Checker 🌊♿ — Stop shipping inaccessible UIs by accident](https://dev.to/codewithnuh/tailwind-a11y-checker-stop-shipping-inaccessible-uis-by-accident-16i3)
+- [Just Because You Can, Doesn’t Mean You Should: A Question About Complexity in LLM Systems](https://dev.to/micheal_angelo_41cea4e81a/just-because-you-can-doesnt-mean-you-should-a-question-about-complexity-in-llm-systems-4dh6)
+- [How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live](https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md)
+- [[POG-Task-02] From Governance to Execution: POG Task Design and MVP](https://dev.to/enjtorian/pog-task-02-from-governance-to-execution-pog-task-design-and-mvp-4lh8)
+- [Crypto Needs Clarity, Not Another Hype Cycle](https://dev.to/alexnav/crypto-needs-clarity-not-another-hype-cycle-9kh)
 <!-- BLOG-POST-LIST:END -->
 
