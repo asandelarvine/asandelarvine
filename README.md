@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Python CLI Tool for RAG Over Any Document Folder](https://dev.to/lukaszgrochal/i-built-a-python-cli-tool-for-rag-over-any-document-folder-55ic)
-- [📚 StudyStream: Your AI Learning Companion That Actually Gets You!](https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6)
-- [SocialFi: How Farcaster and Lens Are Redesigning Social on Web3](https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd)
-- [Sofia Core - Open Source AI Infrastructure with DNA Computing](https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj)
+- [Playwright Locators Guide: getByRole, getByText, getByLabel, CSS &amp; XPath](https://dev.to/keepcodn/playwright-locators-guide-getbyrole-getbytext-getbylabel-css-xpath-24n0)
+- [C, ¿el lenguaje de programación de los chamanes?](https://dev.to/baltasarq/c-el-lenguaje-de-programacion-de-los-chamanes-pp4)
+- [Password reset Laravel: How to allow users reset their passwords in Laravel](https://dev.to/sendlayer/password-reset-laravel-how-to-allow-users-reset-their-passwords-in-laravel-5f5i)
+- [[Boost]](https://dev.to/anthonymax/-252n)
 <!-- BLOG-POST-LIST:END -->
 
