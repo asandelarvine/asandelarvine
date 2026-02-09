@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
-- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
-- [The Microservices Hangover: Why 2026 Is the Year of the Sovereign Module](https://dev.to/invincible/the-microservices-hangover-why-2026-is-the-year-of-the-sovereign-module-4288)
-- [Architecting Hyper-Efficient AI: Rust&#39;s Zero-Copy Paradigm for 45% Cost Reduction](https://dev.to/syrius_contact_24f6f1d273/architecting-hyper-efficient-ai-rusts-zero-copy-paradigm-for-45-cost-reduction-5k1)
+- [Phantom-WG: Build a Censorship-Resistant WireGuard VPN on Your Own Server](https://dev.to/remrearas/phantom-wg-build-a-censorship-resistant-wireguard-vpn-on-your-own-server-4oif)
+- [🌛Beginner-Friendly Guide &#39;Balance a Binary Search Tree&#39; - Problem 1382 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-balance-a-binary-search-tree-problem-1382-c-python-javascript-6n6)
+- [Stop Paying Twice for AI — Turn Your CLI Agents Into Rubber Ducks](https://dev.to/nesquikm/stop-paying-twice-for-ai-turn-your-cli-agents-into-rubber-ducks-af1)
+- [Why Canvas Breaks Your Screen Recorder &lpar;And What to Do Instead&rpar;](https://dev.to/alexneamtu/why-canvas-breaks-your-screen-recorder-and-what-to-do-instead-30hl)
 <!-- BLOG-POST-LIST:END -->
 
