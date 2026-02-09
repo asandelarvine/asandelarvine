@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)
-- [I Built an E2E Test Runner Where Tests Are JSON, Not Code](https://dev.to/fastslack/i-built-an-e2e-test-runner-where-tests-are-json-not-code-edj)
-- [Change 6 Characters in Terraform and Save 20% on EC2 Costs Instantly 💪](https://dev.to/suhas_mallesh/change-6-characters-in-terraform-and-save-20-on-ec2-costs-instantly-19nj)
-- [How we built an error explainer with Gemini](https://dev.to/clearthehaze/how-we-built-an-error-explainer-with-gemini-n43)
+- [Trabalho Aprendizado de Máquina - Pós IA e Data Analisys - Wagner Pereira](https://dev.to/wagnerpereira/trabalho-aprendizado-de-maquina-pos-ia-e-data-analisys-wagner-pereira-136n)
+- [EAS Update not downloading on production build despite matching channels and successful publish](https://dev.to/sang0424/eas-update-not-downloading-on-production-build-despite-matching-channels-and-successful-publish-1i66)
+- [Local-First AI: How SLMs are Fixing the Latency Gap 💻✨](https://dev.to/charanpool/local-first-ai-how-slms-are-fixing-the-latency-gap-3h4g)
+- [AI Agents as Accountability Partners](https://dev.to/turtleand/ai-agents-as-accountability-partners-4jn)
 <!-- BLOG-POST-LIST:END -->
 
