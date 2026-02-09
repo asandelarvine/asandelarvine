@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Good vs Bad Prompting: What I Learned While Working With AI Models](https://dev.to/konark_13/good-vs-bad-prompting-what-i-learned-while-working-with-ai-models-3eg4)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/brianm/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4p2k)
-- [Runtime Hyperparameter Tuning in LangChain](https://dev.to/harishkotra/runtime-hyperparameter-tuning-in-langchain-3aa)
-- [What Your Claude Code Agents Don&#39;t Need to Be Told](https://dev.to/helderberto/what-your-claude-code-agents-dont-need-to-be-told-4ed5)
+- [The Leg Was Never Broken](https://dev.to/choutos/the-leg-was-never-broken-35jm)
+- [I want to create a personal website 
+How do I go about it.](https://dev.to/divine_5168ba5fb31524fd22/i-want-to-create-a-personal-website-how-do-i-go-about-it-2jln)
+- [TIL on Zod...](https://dev.to/maggie_ma_74a341dc9fbf0f6/til-on-zod-mbh)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/sharon_m/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-347j)
 <!-- BLOG-POST-LIST:END -->
 
