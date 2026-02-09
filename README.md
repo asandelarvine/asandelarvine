@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Because You Can, Doesn’t Mean You Should: A Question About Complexity in LLM Systems](https://dev.to/micheal_angelo_41cea4e81a/just-because-you-can-doesnt-mean-you-should-a-question-about-complexity-in-llm-systems-4dh6)
-- [How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live](https://dev.to/googleai/how-fishjamio-built-a-multi-speaker-ai-game-using-gemini-live-20md)
-- [[POG-Task-02] From Governance to Execution: POG Task Design and MVP](https://dev.to/enjtorian/pog-task-02-from-governance-to-execution-pog-task-design-and-mvp-4lh8)
-- [Crypto Needs Clarity, Not Another Hype Cycle](https://dev.to/alexnav/crypto-needs-clarity-not-another-hype-cycle-9kh)
+- [Good vs Bad Prompting: What I Learned While Working With AI Models](https://dev.to/konark_13/good-vs-bad-prompting-what-i-learned-while-working-with-ai-models-3eg4)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/brianm/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-4p2k)
+- [Runtime Hyperparameter Tuning in LangChain](https://dev.to/harishkotra/runtime-hyperparameter-tuning-in-langchain-3aa)
+- [What Your Claude Code Agents Don&#39;t Need to Be Told](https://dev.to/helderberto/what-your-claude-code-agents-dont-need-to-be-told-4ed5)
 <!-- BLOG-POST-LIST:END -->
 
