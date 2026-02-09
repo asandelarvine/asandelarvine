@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Locators Guide: getByRole, getByText, getByLabel, CSS &amp; XPath](https://dev.to/keepcodn/playwright-locators-guide-getbyrole-getbytext-getbylabel-css-xpath-24n0)
-- [C, ¿el lenguaje de programación de los chamanes?](https://dev.to/baltasarq/c-el-lenguaje-de-programacion-de-los-chamanes-pp4)
-- [Password reset Laravel: How to allow users reset their passwords in Laravel](https://dev.to/sendlayer/password-reset-laravel-how-to-allow-users-reset-their-passwords-in-laravel-5f5i)
-- [[Boost]](https://dev.to/anthonymax/-252n)
+- [Designing Zero-Trust CI/CD Pipelines with GitHub Actions and AWS](https://dev.to/adarshbp/designing-zero-trust-cicd-pipelines-with-github-actions-and-aws-1mn5)
+- [Cursor vs Claude Code: Which Ships Faster? &lpar;2026&rpar;](https://dev.to/lukaszfryc/cursor-vs-claude-code-which-ships-faster-2026-79j)
+- [Building Tabularis: A Developer&#39;s Database Tool That Doesn&#39;t Suck](https://dev.to/debba/building-tabularis-a-developers-database-tool-that-doesnt-suck-4k73)
+- [USB-C Hub Technical Blueprint: Beyond Simple Connectivity](https://dev.to/wixom/usb-c-hub-technical-blueprint-beyond-simple-connectivity-1i2a)
 <!-- BLOG-POST-LIST:END -->
 
