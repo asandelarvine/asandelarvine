@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trabalho Aprendizado de Máquina - Pós IA e Data Analisys - Wagner Pereira](https://dev.to/wagnerpereira/trabalho-aprendizado-de-maquina-pos-ia-e-data-analisys-wagner-pereira-136n)
-- [EAS Update not downloading on production build despite matching channels and successful publish](https://dev.to/sang0424/eas-update-not-downloading-on-production-build-despite-matching-channels-and-successful-publish-1i66)
-- [Local-First AI: How SLMs are Fixing the Latency Gap 💻✨](https://dev.to/charanpool/local-first-ai-how-slms-are-fixing-the-latency-gap-3h4g)
-- [AI Agents as Accountability Partners](https://dev.to/turtleand/ai-agents-as-accountability-partners-4jn)
+- [Local Reasoning: Deploying DeepSeek-R1 Distill Llama-8B with Ollama &amp; Open WebUI 🌙](https://dev.to/lyraalishaikh/local-reasoning-deploying-deepseek-r1-distill-llama-8b-with-ollama-open-webui-13a3)
+- [Why your `curl` logic just bit you 🐾](https://dev.to/googlecloud/why-your-curl-logic-just-bit-you-5gk1)
+- [10 Tips Every New Coder Should Know to Succeed](https://dev.to/canro91/10-tips-every-new-coder-should-know-to-succeed-4kgh)
+- [Clean Architecture in .NET 10: The Infrastructure Layer — EF Core Without the Leakage](https://dev.to/bspann/clean-architecture-in-net-10-the-infrastructure-layer-ef-core-without-the-leakage-55dn)
 <!-- BLOG-POST-LIST:END -->
 
