@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees Explained: The Secret to Conflict-Free Parallel Development](https://dev.to/aivideotool/git-worktrees-explained-the-secret-to-conflict-free-parallel-development-1mep)
-- [Streaming Blocks on Solana: Data Volume, Latency, and Unavoidable Trade-offs](https://dev.to/decoder_man/streaming-blocks-on-solana-data-volume-latency-and-unavoidable-trade-offs-103m)
-- [Sora: A Review on Background, Technology, Limitations, and Opportunities ofLarge Vision Models](https://dev.to/paperium/sora-a-review-on-background-technology-limitations-and-opportunities-oflarge-vision-models-1nn2)
-- [Five Git Config Settings Every Dev Needs](https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55)
+- [Clean Architecture in .NET 10: The API Layer — Controllers vs Minimal APIs](https://dev.to/bspann/clean-architecture-in-net-10-the-api-layer-controllers-vs-minimal-apis-52mg)
+- [I Built an MCP Server So I&#39;d Never Have to Manually Import Excel Data Again](https://dev.to/kie-sp/i-built-an-mcp-server-so-id-never-have-to-manually-import-excel-data-again-40gh)
+- [You Sharded Your Database. Now One Shard Is On Fire](https://dev.to/jinpyo181/you-sharded-your-database-now-one-shard-is-on-fire-1p7h)
+- [GitHub Copilot SDK vs Azure AI Foundry Agents: Which One Should Your Company Use?](https://dev.to/vevarunsharma/github-copilot-sdk-vs-azure-ai-foundry-agents-which-one-should-your-company-use-1n7n)
 <!-- BLOG-POST-LIST:END -->
 
