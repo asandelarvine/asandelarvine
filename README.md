@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use MCP in OpenAI Code &lpar;IDE, CLI, App, Cloud&rpar;](https://dev.to/composiodev/how-to-use-mcp-in-openai-code-ide-cli-app-cloud-16c0)
-- [How Is RWA Tokenization Changing the Way Real World Assets Are Issued and Managed Digitally?](https://dev.to/suzie_iris_65ce8070067366/how-is-rwa-tokenization-changing-the-way-real-world-assets-are-issued-and-managed-digitally-2bfd)
-- [These ever-popping and ubiquitous posts with titles saying something like &quot;Here&#39;s The Topic That Will Blow Your Mind &lpar;Especially If You Have One&rpar;&quot; — with unnecessary unsolicited text in parentheses specifically — are so freaking annoying, FWIW... 👴🏻](https://dev.to/fyodorio/these-ever-popping-and-ubiquitous-posts-with-titles-saying-something-like-heres-the-topic-that-1dco)
-- [AlphaOfTech Daily Brief — 2026-02-10](https://dev.to/chairman_lee_7d78f8023756/alphaoftech-daily-brief-2026-02-10-20k5)
+- [CloudShell in Practice: How to move faster in the cloud without losing control, standards, or operational confidence](https://dev.to/claudio_santos/cloudshell-in-practice-how-to-move-faster-in-the-cloud-without-losing-control-standards-or-2c76)
+- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
+- [How to Manage Website Data Without Touching Frontend Code](https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc)
+- [Why Jest Tests Pass Locally but Fail in CI &lpar;and How to Fix It&rpar;](https://dev.to/stephan_dum/why-jest-tests-pass-locally-but-fail-in-ci-and-how-to-fix-it-1bk0)
 <!-- BLOG-POST-LIST:END -->
 
