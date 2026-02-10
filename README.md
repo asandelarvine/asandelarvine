@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Smooth Page Transitions with the View Transitions API in 2026](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-smooth-page-transitions-with-the-view-transitions-api-in-2026-31of)
-- [[SUI] TipKit](https://dev.to/david_goyes_a488f58a17a53/sui-tipkit-1pn6)
-- [How can this site serve me as a cbot developer?](https://dev.to/salileh/how-can-this-site-serve-me-as-a-cbot-developer-fh1)
-- [Finally Found the Easiest Way to Deploy OpenClaw](https://dev.to/harshpatel014/finally-found-the-easiest-way-to-deploy-openclaw-5eol)
+- [Monday Morning Planning Template: 15 Minutes of Magic That Rules the Week](https://dev.to/_jeongyuhyeon_03de1/monday-morning-planning-template-15-minutes-of-magic-that-rules-the-week-fah)
+- [[POG-Task-03] Deep Dive into POG Task: The Missing Layer and the POG Task Moment](https://dev.to/enjtorian/pog-task-03-deep-dive-into-pog-task-the-missing-layer-and-the-pog-task-moment-2oe1)
+- [Why “Just Build Projects” Isn’t Enough for Junior Developers](https://dev.to/lentonen/why-just-build-projects-isnt-enough-for-junior-developers-n06)
+- [I Tried the Viral OpenClaw AI Bot, This Is How I Run It Without Local Access](https://dev.to/parth_mkanpariya_f91b0db/i-tried-the-viral-openclaw-ai-bot-this-is-how-i-run-it-without-local-access-5hjc)
 <!-- BLOG-POST-LIST:END -->
 
