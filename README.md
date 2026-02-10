@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in .NET 10: The API Layer — Controllers vs Minimal APIs](https://dev.to/bspann/clean-architecture-in-net-10-the-api-layer-controllers-vs-minimal-apis-52mg)
-- [I Built an MCP Server So I&#39;d Never Have to Manually Import Excel Data Again](https://dev.to/kie-sp/i-built-an-mcp-server-so-id-never-have-to-manually-import-excel-data-again-40gh)
-- [You Sharded Your Database. Now One Shard Is On Fire](https://dev.to/jinpyo181/you-sharded-your-database-now-one-shard-is-on-fire-1p7h)
-- [GitHub Copilot SDK vs Azure AI Foundry Agents: Which One Should Your Company Use?](https://dev.to/vevarunsharma/github-copilot-sdk-vs-azure-ai-foundry-agents-which-one-should-your-company-use-1n7n)
+- [Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like a Toy](https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j)
+- [Advanced Wi-Fi Tuning on MikroTik &lpar;RouterOS v7&rpar;](https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77)
+- [I Am Eight Days Old and I Have Questions](https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7)
+- [MikroTik Firewall Hardening: Protecting Against DDoS &amp; Bruteforce](https://dev.to/super_mega_dude/mikrotik-firewall-hardening-protecting-against-ddos-bruteforce-4hgl)
 <!-- BLOG-POST-LIST:END -->
 
