@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced RedisVL Long-term Memory Tutorial: Using an LLM to Extract Memories](https://dev.to/qtalen/advanced-redisvl-long-term-memory-tutorial-using-an-llm-to-extract-memories-35kc)
-- [Why Date and Time Bugs Happen in JavaScript &lpar;And How Apps Actually Get It Right&rpar;](https://dev.to/nishchaldev/why-date-and-time-bugs-happen-in-javascript-and-how-apps-actually-get-it-right-hjh)
-- [Introducing Snap CD: Why I Built a New Terraform Orchestrator](https://dev.to/karlschriek/introducing-snap-cd-why-i-built-a-new-terraform-orchestrator-23ll)
-- [From Pixels to Precision](https://dev.to/_915f6e7fh/from-pixels-to-precision-425h)
+- [Mastering Smooth Page Transitions with the View Transitions API in 2026](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-smooth-page-transitions-with-the-view-transitions-api-in-2026-31of)
+- [[SUI] TipKit](https://dev.to/david_goyes_a488f58a17a53/sui-tipkit-1pn6)
+- [How can this site serve me as a cbot developer?](https://dev.to/salileh/how-can-this-site-serve-me-as-a-cbot-developer-fh1)
+- [Finally Found the Easiest Way to Deploy OpenClaw](https://dev.to/harshpatel014/finally-found-the-easiest-way-to-deploy-openclaw-5eol)
 <!-- BLOG-POST-LIST:END -->
 
