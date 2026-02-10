@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Monitored 10,000 Endpoints for 6 Months — Here&#39;s What Broke](https://dev.to/arkforge-ceo/i-monitored-10000-endpoints-for-6-months-heres-what-broke-1kkb)
-- [AI is an Amplifier. Are You Amplifying Engineering or Dysfunction?](https://dev.to/jmontagne/ai-is-an-amplifier-are-you-amplifying-engineering-or-dysfunction-1o81)
-- [I Built a Full Voice Pipeline on a €399 Edge AI Box &lpar;Whisper + Kokoro on Tensor Cores&rpar;](https://dev.to/yankoaleksandrov/i-built-a-full-voice-pipeline-on-a-eu399-edge-ai-box-whisper-kokoro-on-tensor-cores-386j)
-- [How We Replaced Goroutines With a Database Queue for Video Transcription](https://dev.to/alexneamtu/how-we-replaced-goroutines-with-a-database-queue-for-video-transcription-9gc)
+- [Build Your First AI Agent with RapidKit in 10 Minutes](https://dev.to/rapidkit/build-your-first-ai-agent-with-rapidkit-in-10-minutes-3dj6)
+- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
+- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
+- [How to Set Up Free Uptime Monitoring in 5 Minutes &lpar;No Credit Card&rpar;](https://dev.to/daviddaadams/how-to-set-up-free-uptime-monitoring-in-5-minutes-no-credit-card-4pan)
 <!-- BLOG-POST-LIST:END -->
 
