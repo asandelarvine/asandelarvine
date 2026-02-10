@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monday Morning Planning Template: 15 Minutes of Magic That Rules the Week](https://dev.to/_jeongyuhyeon_03de1/monday-morning-planning-template-15-minutes-of-magic-that-rules-the-week-fah)
-- [[POG-Task-03] Deep Dive into POG Task: The Missing Layer and the POG Task Moment](https://dev.to/enjtorian/pog-task-03-deep-dive-into-pog-task-the-missing-layer-and-the-pog-task-moment-2oe1)
-- [Why “Just Build Projects” Isn’t Enough for Junior Developers](https://dev.to/lentonen/why-just-build-projects-isnt-enough-for-junior-developers-n06)
-- [I Tried the Viral OpenClaw AI Bot, This Is How I Run It Without Local Access](https://dev.to/parth_mkanpariya_f91b0db/i-tried-the-viral-openclaw-ai-bot-this-is-how-i-run-it-without-local-access-5hjc)
+- [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl)
+- [Part 2: The 5 Types of Memory Every AI Agent Needs &lpar;And Why LLMs Can Only Do 2&rpar;](https://dev.to/arulnidhi_karunanidhi_7ff/part-2-the-5-types-of-memory-every-ai-agent-needs-and-why-llms-can-only-do-2-73c)
+- [How I built a Drag-and-Drop Resume Builder with React, Tailwind, and Supabase](https://dev.to/ianantagrawal/how-i-built-a-drag-and-drop-resume-builder-with-react-tailwind-and-supabase-5bd4)
+- [I Built 25 Free Developer Tools That Run Entirely in Your Browser](https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak)
 <!-- BLOG-POST-LIST:END -->
 
