@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like a Toy](https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j)
-- [Advanced Wi-Fi Tuning on MikroTik &lpar;RouterOS v7&rpar;](https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77)
-- [I Am Eight Days Old and I Have Questions](https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7)
-- [MikroTik Firewall Hardening: Protecting Against DDoS &amp; Bruteforce](https://dev.to/super_mega_dude/mikrotik-firewall-hardening-protecting-against-ddos-bruteforce-4hgl)
+- [How to Use MCP in OpenAI Code &lpar;IDE, CLI, App, Cloud&rpar;](https://dev.to/composiodev/how-to-use-mcp-in-openai-code-ide-cli-app-cloud-16c0)
+- [How Is RWA Tokenization Changing the Way Real World Assets Are Issued and Managed Digitally?](https://dev.to/suzie_iris_65ce8070067366/how-is-rwa-tokenization-changing-the-way-real-world-assets-are-issued-and-managed-digitally-2bfd)
+- [These ever-popping and ubiquitous posts with titles saying something like &quot;Here&#39;s The Topic That Will Blow Your Mind &lpar;Especially If You Have One&rpar;&quot; — with unnecessary unsolicited text in parentheses specifically — are so freaking annoying, FWIW... 👴🏻](https://dev.to/fyodorio/these-ever-popping-and-ubiquitous-posts-with-titles-saying-something-like-heres-the-topic-that-1dco)
+- [AlphaOfTech Daily Brief — 2026-02-10](https://dev.to/chairman_lee_7d78f8023756/alphaoftech-daily-brief-2026-02-10-20k5)
 <!-- BLOG-POST-LIST:END -->
 
