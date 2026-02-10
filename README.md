@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First AI Agent with RapidKit in 10 Minutes](https://dev.to/rapidkit/build-your-first-ai-agent-with-rapidkit-in-10-minutes-3dj6)
-- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
-- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
-- [How to Set Up Free Uptime Monitoring in 5 Minutes &lpar;No Credit Card&rpar;](https://dev.to/daviddaadams/how-to-set-up-free-uptime-monitoring-in-5-minutes-no-credit-card-4pan)
+- [terminal-escape-room — a tiny CLI escape room game &lpar;Python + Typer&rpar;](https://dev.to/sampo_shen_d115ded5962104/terminal-escape-room-a-tiny-cli-escape-room-game-python-typer-21k7)
+- [Mother CLAUDE: The Permission Effect - Why Your AI Won&#39;t Suggest Things &lpar;And How to Fix It&rpar;](https://dev.to/dorothyjb/mother-claude-the-permission-effect-why-your-ai-wont-suggest-things-and-how-to-fix-it-an5)
+- [Cursor vs Claude Code: Why I Switched After a $500 Bill](https://dev.to/akromdev/cursor-vs-claude-code-why-i-switched-after-a-500-bill-33jp)
+- [It Has Never Been This Easy to Build Gen AI Features in Java](https://dev.to/gde/it-has-never-been-this-easy-to-build-gen-ai-features-in-java-2995)
 <!-- BLOG-POST-LIST:END -->
 
