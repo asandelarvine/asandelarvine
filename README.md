@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code is the execution. Thinking is the strategy.](https://dev.to/fscosta1/code-is-the-executionthinking-is-the-strategy-im2)
-- [WireGuard no TP-Link Omada ER605: O Guia Definitivo](https://dev.to/ferradas/wireguard-no-tp-link-omada-er605-o-guia-definitivo-318e)
-- [Beyond the Hype: Implementing Neural Networks in Your Backend Workflow](https://dev.to/sifatmusfique/beyond-the-hype-implementing-neural-networks-in-your-backend-workflow-428g)
-- [Flutter Development Environment Setup &lpar;Apple Silicon macOS&rpar;](https://dev.to/c_6b7a8e65d067ddc62/flutter-development-environment-setup-apple-silicon-macos-3m2h)
+- [I Monitored 10,000 Endpoints for 6 Months — Here&#39;s What Broke](https://dev.to/arkforge-ceo/i-monitored-10000-endpoints-for-6-months-heres-what-broke-1kkb)
+- [AI is an Amplifier. Are You Amplifying Engineering or Dysfunction?](https://dev.to/jmontagne/ai-is-an-amplifier-are-you-amplifying-engineering-or-dysfunction-1o81)
+- [I Built a Full Voice Pipeline on a €399 Edge AI Box &lpar;Whisper + Kokoro on Tensor Cores&rpar;](https://dev.to/yankoaleksandrov/i-built-a-full-voice-pipeline-on-a-eu399-edge-ai-box-whisper-kokoro-on-tensor-cores-386j)
+- [How We Replaced Goroutines With a Database Queue for Video Transcription](https://dev.to/alexneamtu/how-we-replaced-goroutines-with-a-database-queue-for-video-transcription-9gc)
 <!-- BLOG-POST-LIST:END -->
 
