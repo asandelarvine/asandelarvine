@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [terminal-escape-room — a tiny CLI escape room game &lpar;Python + Typer&rpar;](https://dev.to/sampo_shen_d115ded5962104/terminal-escape-room-a-tiny-cli-escape-room-game-python-typer-21k7)
-- [Mother CLAUDE: The Permission Effect - Why Your AI Won&#39;t Suggest Things &lpar;And How to Fix It&rpar;](https://dev.to/dorothyjb/mother-claude-the-permission-effect-why-your-ai-wont-suggest-things-and-how-to-fix-it-an5)
-- [Cursor vs Claude Code: Why I Switched After a $500 Bill](https://dev.to/akromdev/cursor-vs-claude-code-why-i-switched-after-a-500-bill-33jp)
-- [It Has Never Been This Easy to Build Gen AI Features in Java](https://dev.to/gde/it-has-never-been-this-easy-to-build-gen-ai-features-in-java-2995)
+- [Forgetful - Memory for AI Agents - latest update](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-memory-for-ai-agents-latest-update-14kp)
+- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
+- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
+- [Automated Funnel Leak Detection for High Velocity Page Publishing Workflows](https://dev.to/jasonbiondo/automated-funnel-leak-detection-for-high-velocity-page-publishing-workflows-18lo)
 <!-- BLOG-POST-LIST:END -->
 
