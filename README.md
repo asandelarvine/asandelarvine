@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudShell in Practice: How to move faster in the cloud without losing control, standards, or operational confidence](https://dev.to/claudio_santos/cloudshell-in-practice-how-to-move-faster-in-the-cloud-without-losing-control-standards-or-2c76)
-- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
-- [How to Manage Website Data Without Touching Frontend Code](https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc)
-- [Why Jest Tests Pass Locally but Fail in CI &lpar;and How to Fix It&rpar;](https://dev.to/stephan_dum/why-jest-tests-pass-locally-but-fail-in-ci-and-how-to-fix-it-1bk0)
+- [Advanced RedisVL Long-term Memory Tutorial: Using an LLM to Extract Memories](https://dev.to/qtalen/advanced-redisvl-long-term-memory-tutorial-using-an-llm-to-extract-memories-35kc)
+- [Why Date and Time Bugs Happen in JavaScript &lpar;And How Apps Actually Get It Right&rpar;](https://dev.to/nishchaldev/why-date-and-time-bugs-happen-in-javascript-and-how-apps-actually-get-it-right-hjh)
+- [Introducing Snap CD: Why I Built a New Terraform Orchestrator](https://dev.to/karlschriek/introducing-snap-cd-why-i-built-a-new-terraform-orchestrator-23ll)
+- [From Pixels to Precision](https://dev.to/_915f6e7fh/from-pixels-to-precision-425h)
 <!-- BLOG-POST-LIST:END -->
 
