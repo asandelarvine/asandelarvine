@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Just Got a Credit Card: Introducing x402 Bazaar](https://dev.to/wintyx57/your-ai-agent-just-got-a-credit-card-introducing-x402-bazaar-1g64)
-- [Using AI to write a transpiler](https://dev.to/back2dos/using-ai-to-write-a-transpiler-pnf)
-- [Your API Calls the Same Lambda 1,000 Times a Minute &lpar;Enable Caching Already&rpar; 🚀](https://dev.to/suhas_mallesh/your-api-calls-the-same-lambda-1000-times-a-minute-enable-caching-already-4chk)
-- [Building My System, Piece by Piece](https://dev.to/vintagetechie/building-my-system-piece-by-piece-b93)
+- [Git Worktrees Explained: The Secret to Conflict-Free Parallel Development](https://dev.to/aivideotool/git-worktrees-explained-the-secret-to-conflict-free-parallel-development-1mep)
+- [Streaming Blocks on Solana: Data Volume, Latency, and Unavoidable Trade-offs](https://dev.to/decoder_man/streaming-blocks-on-solana-data-volume-latency-and-unavoidable-trade-offs-103m)
+- [Sora: A Review on Background, Technology, Limitations, and Opportunities ofLarge Vision Models](https://dev.to/paperium/sora-a-review-on-background-technology-limitations-and-opportunities-oflarge-vision-models-1nn2)
+- [Five Git Config Settings Every Dev Needs](https://dev.to/nickytonline/five-git-config-settings-every-dev-needs-3e55)
 <!-- BLOG-POST-LIST:END -->
 
