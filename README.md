@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a Movie Review Page](https://dev.to/richardpascoe/design-a-movie-review-page-36bl)
-- [Part 2: The 5 Types of Memory Every AI Agent Needs &lpar;And Why LLMs Can Only Do 2&rpar;](https://dev.to/arulnidhi_karunanidhi_7ff/part-2-the-5-types-of-memory-every-ai-agent-needs-and-why-llms-can-only-do-2-73c)
-- [How I built a Drag-and-Drop Resume Builder with React, Tailwind, and Supabase](https://dev.to/ianantagrawal/how-i-built-a-drag-and-drop-resume-builder-with-react-tailwind-and-supabase-5bd4)
-- [I Built 25 Free Developer Tools That Run Entirely in Your Browser](https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak)
+- [Code is the execution. Thinking is the strategy.](https://dev.to/fscosta1/code-is-the-executionthinking-is-the-strategy-im2)
+- [WireGuard no TP-Link Omada ER605: O Guia Definitivo](https://dev.to/ferradas/wireguard-no-tp-link-omada-er605-o-guia-definitivo-318e)
+- [Beyond the Hype: Implementing Neural Networks in Your Backend Workflow](https://dev.to/sifatmusfique/beyond-the-hype-implementing-neural-networks-in-your-backend-workflow-428g)
+- [Flutter Development Environment Setup &lpar;Apple Silicon macOS&rpar;](https://dev.to/c_6b7a8e65d067ddc62/flutter-development-environment-setup-apple-silicon-macos-3m2h)
 <!-- BLOG-POST-LIST:END -->
 
