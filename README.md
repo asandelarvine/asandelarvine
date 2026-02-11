@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v364](https://dev.to/devteam/welcome-thread-v364-2mdg)
-- [Clean Architecture in .NET 10: Validation, Logging, and Production Polish](https://dev.to/bspann/clean-architecture-in-net-10-validation-logging-and-production-polish-p8j)
-- [Hearts animation background](https://dev.to/preetha_vaishnavi_2b82358/hearts-animation-background-22ag)
-- [You&#39;re Pronouncing Words Wrong — And That&#39;s Why You Can&#39;t Understand Native Speakers](https://dev.to/mrd999999/youre-pronouncing-words-wrong-and-thats-why-you-cant-understand-native-speakers-5hb6)
+- [Building My Own Google Analytics for $0](https://dev.to/adwait12345/building-my-own-google-analytics-for-0-13eo)
+- [From Useless to Surprisingly Good: How Voice Input Changed the Way I Code](https://dev.to/wenxin_zhang_a7d942474425/from-useless-to-surprisingly-good-how-voice-input-changed-the-way-i-code-2i8m)
+- [Docker Basics : Problem Statement, Concepts &amp; Commands](https://dev.to/omkarsharma2821/docker-basics-problem-statement-concepts-commands-3hij)
+- [Designing a Scalable Knowledge Base for Large Language Models](https://dev.to/yaruyng/designing-a-scalable-knowledge-base-for-large-language-models-45jd)
 <!-- BLOG-POST-LIST:END -->
 
