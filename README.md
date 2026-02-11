@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Ways to Move Tensors Without Stopping: Inside vLLM&#39;s Async GPU Transfer Patterns](https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7)
-- [Learning Spatiotemporal Features with 3D Convolutional Networks](https://dev.to/paperium/learning-spatiotemporal-features-with-3d-convolutional-networks-4i0h)
-- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
-- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
+- [Email OSINT: How to Investigate Any Email Address](https://dev.to/kylebrennan_dev/email-osint-how-to-investigate-any-email-address-35ph)
+- [CVE-2026-2249: The Open Door Policy: Unauthenticated RCE in METIS DFS](https://dev.to/cverports/cve-2026-2249-the-open-door-policy-unauthenticated-rce-in-metis-dfs-1di3)
+- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
+- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
 <!-- BLOG-POST-LIST:END -->
 
