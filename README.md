@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find MCP Servers &lpar;Without Spending Hours on GitHub&rpar;](https://dev.to/seakai/how-to-find-mcp-servers-without-spending-hours-on-github-588h)
-- [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108)
-- [Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.](https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g)
-- [Delete Operation in B+-Tree: Removing Without Destabilizing](https://dev.to/lovestaco/delete-operation-in-b-tree-removing-without-destabilizing-46og)
+- [When the Matrix Breaks: Failure Modes of Early Matching Systems](https://dev.to/yurii_lozinskyi/when-the-matrix-breaks-failure-modes-of-early-matching-systems-4nm6)
+- [LAB: Demonstrating FULL POWER of ALB + ASG](https://dev.to/jumptotech/lab-demonstrating-full-power-of-alb-asg-158j)
+- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
+- [Creating a PHP, Go, and Python Quine Relay](https://dev.to/hideaki_shimizu_75b25756f/developing-a-php-go-and-python-quine-relay-59g3)
 <!-- BLOG-POST-LIST:END -->
 
