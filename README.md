@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop forgetting architectural decisions: make them executable](https://dev.to/dobrenteiistvan/stop-forgetting-architectural-decisions-make-them-executable-4hk6)
-- [A imagem one-click do OpenClaw já está disponível na LetsCloud](https://dev.to/letscloud/a-imagem-one-click-do-openclaw-ja-esta-disponivel-na-letscloud-145f)
-- [Prisma + MongoDB “Hello World”](https://dev.to/franckpachot/prisma-mongodb-hello-world-928)
-- [PAGI::Server, now with HTTP/2!](https://dev.to/jjn1056/pagiserver-now-with-http2-37gf)
+- [Choosing Between Array and Map in JavaScript](https://dev.to/ravdz/choosing-between-array-and-map-in-javascript-2bh8)
+- [Data-driven decision making using Power BI.](https://dev.to/juliet_kiplimo_b9a825c95a/data-driven-decision-making-using-power-bi-kba)
+- [5 Redis Patterns Every Developer Should Know](https://dev.to/jy2140251-wuxie/5-redis-patterns-every-developer-should-know-1e85)
+- [Optimizing the MongoDB Java Driver: How minor optimizations led to macro gains](https://dev.to/mongodb/optimizing-the-mongodb-java-driver-how-minor-optimizations-led-to-macro-gains-47af)
 <!-- BLOG-POST-LIST:END -->
 
