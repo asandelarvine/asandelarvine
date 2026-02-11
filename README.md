@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lets Setup K8s Cluster](https://dev.to/iamzahid/lets-setup-k8s-cluster-24nd)
-- [Scalable SaaS Blueprints: Build Once, Grow Forever &lpar;No Regrets&rpar;](https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41)
-- [For : DOLL](https://dev.to/rahul_naik_b8278022c15b27/untitled-1gac)
-- [The AWS Badge-Dex: An Almost Complete Guide for 2026](https://dev.to/davidshaek/the-aws-badge-dex-an-almost-complete-guide-for-2026-47dk)
+- [Stop forgetting architectural decisions: make them executable](https://dev.to/dobrenteiistvan/stop-forgetting-architectural-decisions-make-them-executable-4hk6)
+- [A imagem one-click do OpenClaw já está disponível na LetsCloud](https://dev.to/letscloud/a-imagem-one-click-do-openclaw-ja-esta-disponivel-na-letscloud-145f)
+- [Prisma + MongoDB “Hello World”](https://dev.to/franckpachot/prisma-mongodb-hello-world-928)
+- [PAGI::Server, now with HTTP/2!](https://dev.to/jjn1056/pagiserver-now-with-http2-37gf)
 <!-- BLOG-POST-LIST:END -->
 
