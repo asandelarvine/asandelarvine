@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Between Array and Map in JavaScript](https://dev.to/ravdz/choosing-between-array-and-map-in-javascript-2bh8)
-- [Data-driven decision making using Power BI.](https://dev.to/juliet_kiplimo_b9a825c95a/data-driven-decision-making-using-power-bi-kba)
-- [5 Redis Patterns Every Developer Should Know](https://dev.to/jy2140251-wuxie/5-redis-patterns-every-developer-should-know-1e85)
-- [Optimizing the MongoDB Java Driver: How minor optimizations led to macro gains](https://dev.to/mongodb/optimizing-the-mongodb-java-driver-how-minor-optimizations-led-to-macro-gains-47af)
+- [Two Ways to Move Tensors Without Stopping: Inside vLLM&#39;s Async GPU Transfer Patterns](https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7)
+- [Learning Spatiotemporal Features with 3D Convolutional Networks](https://dev.to/paperium/learning-spatiotemporal-features-with-3d-convolutional-networks-4i0h)
+- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
+- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
 <!-- BLOG-POST-LIST:END -->
 
