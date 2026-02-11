@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own Google Analytics for $0](https://dev.to/adwait12345/building-my-own-google-analytics-for-0-13eo)
-- [From Useless to Surprisingly Good: How Voice Input Changed the Way I Code](https://dev.to/wenxin_zhang_a7d942474425/from-useless-to-surprisingly-good-how-voice-input-changed-the-way-i-code-2i8m)
-- [Docker Basics : Problem Statement, Concepts &amp; Commands](https://dev.to/omkarsharma2821/docker-basics-problem-statement-concepts-commands-3hij)
-- [Designing a Scalable Knowledge Base for Large Language Models](https://dev.to/yaruyng/designing-a-scalable-knowledge-base-for-large-language-models-45jd)
+- [WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps](https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0)
+- [Building a Production RAG Server with Ollama, Open WebUI and Chroma DB](https://dev.to/chribonn/building-a-production-rag-server-with-ollama-open-webui-and-chroma-db-3h3o)
+- [The Git Problem That Stalks 87% of Developers](https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk)
+- [The Engineer as a Decision Maker, Not a Developer](https://dev.to/msnmongare/the-engineer-as-a-decision-maker-not-a-developer-lid)
 <!-- BLOG-POST-LIST:END -->
 
