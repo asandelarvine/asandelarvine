@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences and Usage Scenarios of HAR, HSP, and HAP](https://dev.to/harmonyos/differences-and-usage-scenarios-of-har-hsp-and-hap-5aeg)
-- [I Built an AI Companion on Telegram That Actually Remembers You](https://dev.to/reeddev42/i-built-an-ai-companion-on-telegram-that-actually-remembers-you-41eg)
-- [Machine-to-Machine APIs: Designing for &quot;Machine Customers&quot; 🤖🤝](https://dev.to/charanpool/machine-to-machine-apis-designing-for-machine-customers-5a7m)
-- [New Project: Open Cardinal](https://dev.to/4tlas/new-project-open-cardinal-2cnf)
+- [Welcome Thread - v364](https://dev.to/devteam/welcome-thread-v364-2mdg)
+- [Clean Architecture in .NET 10: Validation, Logging, and Production Polish](https://dev.to/bspann/clean-architecture-in-net-10-validation-logging-and-production-polish-p8j)
+- [Hearts animation background](https://dev.to/preetha_vaishnavi_2b82358/hearts-animation-background-22ag)
+- [You&#39;re Pronouncing Words Wrong — And That&#39;s Why You Can&#39;t Understand Native Speakers](https://dev.to/mrd999999/youre-pronouncing-words-wrong-and-thats-why-you-cant-understand-native-speakers-5hb6)
 <!-- BLOG-POST-LIST:END -->
 
