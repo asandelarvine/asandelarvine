@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Curated 120+ Agentic Development Tools So You Don&#39;t Have To](https://dev.to/qdenka/i-curated-120-agentic-development-tools-so-you-dont-have-to-7p8)
-- [How I Write Laravel Code That Future-Me Can still Read.](https://dev.to/button99/how-i-write-laravel-code-that-future-me-can-still-read-2755)
-- [Javascript Question of the Day #15 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-15-talkoverflow-27p4)
-- [Ayudando a otros... Día 1: Generador de Entrenamientos Garmin desde Train2Go: Híbrido Regex + LLM](https://dev.to/mariaeu/ayudando-a-otros-dia-1-generador-de-entrenamientos-garmin-desde-train2go-hibrido-regex-llm-4po6)
+- [How to Find MCP Servers &lpar;Without Spending Hours on GitHub&rpar;](https://dev.to/seakai/how-to-find-mcp-servers-without-spending-hours-on-github-588h)
+- [Re-creating a Pantone Color Deck in CSS](https://dev.to/madsstoumann/re-creating-a-pantone-color-deck-in-css-3108)
+- [Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.](https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g)
+- [Delete Operation in B+-Tree: Removing Without Destabilizing](https://dev.to/lovestaco/delete-operation-in-b-tree-removing-without-destabilizing-46og)
 <!-- BLOG-POST-LIST:END -->
 
