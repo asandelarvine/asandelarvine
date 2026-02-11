@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forgetful - Memory for AI Agents - latest update](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-memory-for-ai-agents-latest-update-14kp)
-- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
-- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
-- [Automated Funnel Leak Detection for High Velocity Page Publishing Workflows](https://dev.to/jasonbiondo/automated-funnel-leak-detection-for-high-velocity-page-publishing-workflows-18lo)
+- [Differences and Usage Scenarios of HAR, HSP, and HAP](https://dev.to/harmonyos/differences-and-usage-scenarios-of-har-hsp-and-hap-5aeg)
+- [I Built an AI Companion on Telegram That Actually Remembers You](https://dev.to/reeddev42/i-built-an-ai-companion-on-telegram-that-actually-remembers-you-41eg)
+- [Machine-to-Machine APIs: Designing for &quot;Machine Customers&quot; 🤖🤝](https://dev.to/charanpool/machine-to-machine-apis-designing-for-machine-customers-5a7m)
+- [New Project: Open Cardinal](https://dev.to/4tlas/new-project-open-cardinal-2cnf)
 <!-- BLOG-POST-LIST:END -->
 
