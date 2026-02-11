@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Matrix Breaks: Failure Modes of Early Matching Systems](https://dev.to/yurii_lozinskyi/when-the-matrix-breaks-failure-modes-of-early-matching-systems-4nm6)
-- [LAB: Demonstrating FULL POWER of ALB + ASG](https://dev.to/jumptotech/lab-demonstrating-full-power-of-alb-asg-158j)
-- [Your AI Can Read Your .env File - Unless You Stop It Like This](https://dev.to/playfulprogramming/your-ai-can-read-your-env-file-unless-you-stop-it-like-this-4hog)
-- [Creating a PHP, Go, and Python Quine Relay](https://dev.to/hideaki_shimizu_75b25756f/developing-a-php-go-and-python-quine-relay-59g3)
+- [Lets Setup K8s Cluster](https://dev.to/iamzahid/lets-setup-k8s-cluster-24nd)
+- [Scalable SaaS Blueprints: Build Once, Grow Forever &lpar;No Regrets&rpar;](https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41)
+- [For : DOLL](https://dev.to/rahul_naik_b8278022c15b27/untitled-1gac)
+- [The AWS Badge-Dex: An Almost Complete Guide for 2026](https://dev.to/davidshaek/the-aws-badge-dex-an-almost-complete-guide-for-2026-47dk)
 <!-- BLOG-POST-LIST:END -->
 
