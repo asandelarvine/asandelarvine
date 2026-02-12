@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Website Cloner with AI Agents &lpar;And It&#39;s Kinda Scary Good&rpar;](https://dev.to/vadim7j7/i-built-a-website-cloner-with-ai-agents-and-its-kinda-scary-good-gb9)
-- [🚀 I Built a Full JSON Developer Tools Platform with Angular &lpar;And You Can Use the Source Code&rpar;](https://dev.to/mareeswaran_ponraj/i-built-a-full-json-developer-tools-platform-with-angular-and-you-can-use-the-source-code-314j)
-- [🧱 Lecture 12: Structured Logging &amp; Monitoring](https://dev.to/farrukh_rehman/lecture-12-structured-logging-monitoring-ohi)
-- [AI Agents Violate Ethics 30-50% of the Time Under KPI Pressure](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-violate-ethics-30-50-of-the-time-under-kpi-pressure-4132)
+- [What to Expect from Odoo 20: New Features, Industry Benefits &amp; Updates](https://dev.to/aspire-softserv/what-to-expect-from-odoo-20-new-features-industry-benefits-updates-3jbi)
+- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
+- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
+- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
 <!-- BLOG-POST-LIST:END -->
 
