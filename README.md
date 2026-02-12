@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is &quot;Knowing How to Code&quot; Enough? My 1-Year Experiment in Forensic Engineering.](https://dev.to/shalinibhavi525sudo/is-knowing-how-to-code-enough-my-1-year-experiment-in-forensic-engineering-1nmj)
-- [Squarespace X Mapbox](https://dev.to/mapbox/squarespace-x-mapbox-1k44)
-- [Google Workspace Developer News January 2026 Updates](https://dev.to/googleworkspace/google-workspace-developer-news-january-2026-updates-3ckm)
-- [NDM-TCP vs TCP Cubic vs TCP Reno: High-Performance Fiber/Broadband Network Test](https://dev.to/hejhdiss/ndm-tcp-vs-tcp-cubic-vs-tcp-reno-high-performance-fiberbroadband-network-test-47mm)
+- [IM Account Manager on macOS: Fixing Microphone &amp; Screen Recording Permission Failures](https://dev.to/am124/im-account-manager-on-macos-fixing-microphone-screen-recording-permission-failures-bld)
+- [Repo Optimizer: I Let a KISS AI Agent Optimize Itself Overnight. It Cut Its Own Cost by 98%.](https://dev.to/koushik_sen_d549bf321e6fb/repo-optimizer-i-let-a-kiss-ai-agent-optimize-itself-overnight-it-cut-its-own-cost-by-98-1ddi)
+- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
+- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
 <!-- BLOG-POST-LIST:END -->
 
