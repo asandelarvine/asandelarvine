@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Classification with CNNs – Part 3: Understanding Max Pooling and Results](https://dev.to/rijultp/image-classification-with-cnns-part-3-understanding-max-pooling-and-results-787)
-- [🏥 RepoDoctor - AI-Powered Repository Health Analysis with GitHub Copilot CLI](https://dev.to/k1lgor/repodoctor-ai-powered-repository-health-analysis-with-github-copilot-cli-36l4)
-- [A-Team CLI is LIVE](https://dev.to/ghassangaidi/a-team-cli-is-live-3jh8)
-- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
+- [Like Stories? Love Python! 📖🐍 Ep.1 - The One Ring &lpar;Singleton&rpar;](https://dev.to/the-software-s-journey/like-stories-love-python-ep1-the-one-ring-singleton-25c4)
+- [Introduction to Writing RISC-V Contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
+- [Why every aspiring developer should understand the CPU and RAM](https://dev.to/sanseverino/why-every-aspiring-developer-should-understand-the-cpu-and-ram-1igm)
+- [Building an AI - Powered Portfolio: A Developer&#39;s Journey](https://dev.to/roy_amit/building-an-ai-powered-portfolio-a-developers-journey-16a1)
 <!-- BLOG-POST-LIST:END -->
 
