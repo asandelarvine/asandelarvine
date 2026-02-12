@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Latência: O que é e como pode prejudicar uma aplicação](https://dev.to/oleobarreto/latencia-o-que-e-e-como-pode-prejudicar-uma-aplicacao-a8b)
-- [I Built an AI That Writes Production Workflows From Plain English](https://dev.to/zyk/i-built-an-ai-that-writes-production-workflows-from-plain-english-1409)
-- [Building a Developer-First Ethereum Explorer &lpar;Mempool, Whale Tracking &amp; Contract Simulation&rpar;](https://dev.to/ktzchen_web3/building-a-developer-first-ethereum-explorer-mempool-whale-tracking-contract-simulation-2k13)
-- [After 20 Years Managing Dev Teams, I Built a Full SaaS Alone With AI](https://dev.to/jaymoreno/after-20-years-managing-dev-teams-i-built-a-full-saas-alone-with-ai-582g)
+- [WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences](https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e)
+- [Starting a dev journey](https://dev.to/gwynnemichele/starting-a-dev-journey-4fee)
+- [[Boost]](https://dev.to/fernandoandrade/-ml8)
+- [From Raw Sales Data to Actionable Insights: My Power BI Workflow](https://dev.to/tenzintsundue/from-raw-sales-data-to-actionable-insights-my-power-bi-workflow-40je)
 <!-- BLOG-POST-LIST:END -->
 
