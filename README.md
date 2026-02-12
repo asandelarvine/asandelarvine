@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Your SaaS AI-Agent Ready: A Practical Guide](https://dev.to/arielf/making-your-saas-ai-agent-ready-a-practical-guide-2hai)
-- [25 Developer Tools I Wish I Knew When I Started Coding 🚀](https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0)
-- [I Tried Streamlit for the First Time and Built an MLB Bat Tracking Dashboard](https://dev.to/yasumorishima/i-tried-streamlit-for-the-first-time-and-built-an-mlb-bat-tracking-dashboard-147b)
-- [Missing Authorization — the 401 That Saves You From 45 Minutes of Nonsense](https://dev.to/liudasjan/missing-authorization-the-401-that-saves-you-from-45-minutes-of-nonsense-2o5n)
+- [Develop Software Faster With AppGen Without Shipping Chaos](https://dev.to/sashido/develop-software-faster-with-appgen-without-shipping-chaos-4cd7)
+- [hey guys i have been learning linear algebra from a great teacher and friend of mine, in such a way that i was able to see a linear transformation happening in my mind should i make a series of blogs on LA ?](https://dev.to/coderatul/hey-guys-i-have-been-learning-linear-algebra-from-a-great-teacher-and-friend-of-mine-in-such-a-way-523c)
+- [Trying to Make Content Without Triggering Myself](https://dev.to/codebunny20/trying-to-make-content-without-triggering-myself-58pk)
+- [Brightness &amp; Color Calibration in LED Displays: A Software Perspective](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/brightness-color-calibration-in-led-displays-a-software-perspective-14e4)
 <!-- BLOG-POST-LIST:END -->
 
