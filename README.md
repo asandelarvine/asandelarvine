@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Expect from Odoo 20: New Features, Industry Benefits &amp; Updates](https://dev.to/aspire-softserv/what-to-expect-from-odoo-20-new-features-industry-benefits-updates-3jbi)
-- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
-- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
-- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
+- [The Question That Cannot Be Answered](https://dev.to/abdulosman/the-question-that-cannot-be-answered-3a5f)
+- [I Built a Managed Cloud Platform for Personal AI Assistants with Elixir](https://dev.to/setas/i-built-a-managed-cloud-platform-for-personal-ai-assistants-with-elixir-5e5j)
+- [The BEHILOS Benchmark: Performance Analysis of Low-Footprint CLI Search Tools](https://dev.to/gabor_dombay/the-behilos-benchmark-performance-analysis-of-low-footprint-cli-search-tools-2nhf)
+- [How Transformer Architecture Powers LLMs](https://dev.to/dev-in-progress/how-transformer-architecture-powers-llms-1oh8)
 <!-- BLOG-POST-LIST:END -->
 
