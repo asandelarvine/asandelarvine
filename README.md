@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
-- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
-- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
-- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
+- [I Built a Website Cloner with AI Agents &lpar;And It&#39;s Kinda Scary Good&rpar;](https://dev.to/vadim7j7/i-built-a-website-cloner-with-ai-agents-and-its-kinda-scary-good-gb9)
+- [🚀 I Built a Full JSON Developer Tools Platform with Angular &lpar;And You Can Use the Source Code&rpar;](https://dev.to/mareeswaran_ponraj/i-built-a-full-json-developer-tools-platform-with-angular-and-you-can-use-the-source-code-314j)
+- [🧱 Lecture 12: Structured Logging &amp; Monitoring](https://dev.to/farrukh_rehman/lecture-12-structured-logging-monitoring-ohi)
+- [AI Agents Violate Ethics 30-50% of the Time Under KPI Pressure](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-violate-ethics-30-50-of-the-time-under-kpi-pressure-4132)
 <!-- BLOG-POST-LIST:END -->
 
