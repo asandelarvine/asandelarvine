@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop Software Faster With AppGen Without Shipping Chaos](https://dev.to/sashido/develop-software-faster-with-appgen-without-shipping-chaos-4cd7)
-- [hey guys i have been learning linear algebra from a great teacher and friend of mine, in such a way that i was able to see a linear transformation happening in my mind should i make a series of blogs on LA ?](https://dev.to/coderatul/hey-guys-i-have-been-learning-linear-algebra-from-a-great-teacher-and-friend-of-mine-in-such-a-way-523c)
-- [Trying to Make Content Without Triggering Myself](https://dev.to/codebunny20/trying-to-make-content-without-triggering-myself-58pk)
-- [Brightness &amp; Color Calibration in LED Displays: A Software Perspective](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/brightness-color-calibration-in-led-displays-a-software-perspective-14e4)
+- [Building a Multimodal Food Analysis System on Qubrid AI](https://dev.to/sharur7/building-a-multimodal-food-analysis-system-on-qubrid-ai-3l1b)
+- [Are We Over-Engineering LLM Stacks Too Early?](https://dev.to/prashanth_boovaragavan_98/are-we-over-engineering-llm-stacks-too-early-k9c)
+- [Why Many IoT Projects Fail at Scale and How Modern Architecture Solves It](https://dev.to/esoftwaresolutions1/why-many-iot-projects-fail-at-scale-and-how-modern-architecture-solves-it-3eji)
+- [Designing AI Systems With Constraints &lpar;Instead of More Freedom&rpar;](https://dev.to/cloyouai/designing-ai-systems-with-constraints-instead-of-more-freedom-15fk)
 <!-- BLOG-POST-LIST:END -->
 
