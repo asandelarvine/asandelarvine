@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IM Account Manager on macOS: Fixing Microphone &amp; Screen Recording Permission Failures](https://dev.to/am124/im-account-manager-on-macos-fixing-microphone-screen-recording-permission-failures-bld)
-- [Repo Optimizer: I Let a KISS AI Agent Optimize Itself Overnight. It Cut Its Own Cost by 98%.](https://dev.to/koushik_sen_d549bf321e6fb/repo-optimizer-i-let-a-kiss-ai-agent-optimize-itself-overnight-it-cut-its-own-cost-by-98-1ddi)
-- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
-- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
+- [Code Agents: Como aumentar a produtividade sem se tornar dependente](https://dev.to/fernandopuri_dev/code-agents-como-aumentar-a-produtividade-sem-se-tornar-dependente-2hp3)
+- [Vibe-coding: Not for Those Who Can&#39;t Code](https://dev.to/alexrixten/vibe-coding-not-for-those-who-cant-code-bfg)
+- [path7](https://dev.to/query_filter_591122b53770/path7-2f12)
+- [Choosing the Right IR Module for an ESP32 Flipper-Style Project](https://dev.to/thilak_kumar/choosing-the-right-ir-module-for-an-esp32-flipper-style-project-5e7n)
 <!-- BLOG-POST-LIST:END -->
 
