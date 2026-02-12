@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Agents: Como aumentar a produtividade sem se tornar dependente](https://dev.to/fernandopuri_dev/code-agents-como-aumentar-a-produtividade-sem-se-tornar-dependente-2hp3)
-- [Vibe-coding: Not for Those Who Can&#39;t Code](https://dev.to/alexrixten/vibe-coding-not-for-those-who-cant-code-bfg)
-- [path7](https://dev.to/query_filter_591122b53770/path7-2f12)
-- [Choosing the Right IR Module for an ESP32 Flipper-Style Project](https://dev.to/thilak_kumar/choosing-the-right-ir-module-for-an-esp32-flipper-style-project-5e7n)
+- [I Built an MCP Server for My Translation Tool - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/hellolukasz/i-built-an-mcp-server-for-my-translation-tool-heres-how-and-why-580o)
+- [Fundamental Concepts of Cloud Computing](https://dev.to/nwafor_somadina_efa388085/fundamental-concepts-of-cloud-computing-3bpk)
+- [Can You Self-Host an Efficient AI at Home or for your Company?](https://dev.to/alexmergnat/can-you-self-host-an-efficient-ai-at-home-or-for-your-company-1dkj)
+- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc)
 <!-- BLOG-POST-LIST:END -->
 
