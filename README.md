@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multimodal Food Analysis System on Qubrid AI](https://dev.to/sharur7/building-a-multimodal-food-analysis-system-on-qubrid-ai-3l1b)
-- [Are We Over-Engineering LLM Stacks Too Early?](https://dev.to/prashanth_boovaragavan_98/are-we-over-engineering-llm-stacks-too-early-k9c)
-- [Why Many IoT Projects Fail at Scale and How Modern Architecture Solves It](https://dev.to/esoftwaresolutions1/why-many-iot-projects-fail-at-scale-and-how-modern-architecture-solves-it-3eji)
-- [Designing AI Systems With Constraints &lpar;Instead of More Freedom&rpar;](https://dev.to/cloyouai/designing-ai-systems-with-constraints-instead-of-more-freedom-15fk)
+- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
+- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
+- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
+- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
 <!-- BLOG-POST-LIST:END -->
 
