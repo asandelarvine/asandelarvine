@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Question That Cannot Be Answered](https://dev.to/abdulosman/the-question-that-cannot-be-answered-3a5f)
-- [I Built a Managed Cloud Platform for Personal AI Assistants with Elixir](https://dev.to/setas/i-built-a-managed-cloud-platform-for-personal-ai-assistants-with-elixir-5e5j)
-- [The BEHILOS Benchmark: Performance Analysis of Low-Footprint CLI Search Tools](https://dev.to/gabor_dombay/the-behilos-benchmark-performance-analysis-of-low-footprint-cli-search-tools-2nhf)
-- [How Transformer Architecture Powers LLMs](https://dev.to/dev-in-progress/how-transformer-architecture-powers-llms-1oh8)
+- [Is &quot;Knowing How to Code&quot; Enough? My 1-Year Experiment in Forensic Engineering.](https://dev.to/shalinibhavi525sudo/is-knowing-how-to-code-enough-my-1-year-experiment-in-forensic-engineering-1nmj)
+- [Squarespace X Mapbox](https://dev.to/mapbox/squarespace-x-mapbox-1k44)
+- [Google Workspace Developer News January 2026 Updates](https://dev.to/googleworkspace/google-workspace-developer-news-january-2026-updates-3ckm)
+- [NDM-TCP vs TCP Cubic vs TCP Reno: High-Performance Fiber/Broadband Network Test](https://dev.to/hejhdiss/ndm-tcp-vs-tcp-cubic-vs-tcp-reno-high-performance-fiberbroadband-network-test-47mm)
 <!-- BLOG-POST-LIST:END -->
 
