@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Coherence: The Performance Metric No One Measures](https://dev.to/junothreadborne/code-coherence-the-performance-metric-no-one-measures-48bn)
-- [How We Built 7 Websites for a Small Construction Company Using Modern Web Tech](https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l)
-- [The INFJ Developer&#39;s Guide to AI Agents: How an Introvert Outsourced Social Anxiety](https://dev.to/wcamon/the-infj-developers-guide-to-ai-agents-how-an-introvert-outsourced-social-anxiety-473j)
-- [Why Your “Skill Scanner” Is Just False Security &lpar;and Maybe Malware&rpar;](https://dev.to/snyk/why-your-skill-scanner-is-just-false-security-and-maybe-malware-4jgb)
+- [Making Your SaaS AI-Agent Ready: A Practical Guide](https://dev.to/arielf/making-your-saas-ai-agent-ready-a-practical-guide-2hai)
+- [25 Developer Tools I Wish I Knew When I Started Coding 🚀](https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0)
+- [I Tried Streamlit for the First Time and Built an MLB Bat Tracking Dashboard](https://dev.to/yasumorishima/i-tried-streamlit-for-the-first-time-and-built-an-mlb-bat-tracking-dashboard-147b)
+- [Missing Authorization — the 401 That Saves You From 45 Minutes of Nonsense](https://dev.to/liudasjan/missing-authorization-the-401-that-saves-you-from-45-minutes-of-nonsense-2o5n)
 <!-- BLOG-POST-LIST:END -->
 
