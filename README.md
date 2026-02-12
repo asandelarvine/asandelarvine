@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Traits Deep Dive: Static vs. Dynamic Dispatch](https://dev.to/kanywst/rust-traits-deep-dive-static-vs-dynamic-dispatch-3eol)
-- [What I’m Learning in Data Structures: The Algorithm Behind Compression &lpar;bzip, etc.&rpar;](https://dev.to/dinh_hoangmyle_a832c9d9/what-im-learning-in-data-structures-the-algorithm-behind-compression-bzip-etc-20ei)
-- [O papel do PostGIS em aplicações com dados espaciais.](https://dev.to/kuelui/o-papel-do-postgis-em-aplicacoes-com-dados-espaciais-177d)
-- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
+- [Code Coherence: The Performance Metric No One Measures](https://dev.to/junothreadborne/code-coherence-the-performance-metric-no-one-measures-48bn)
+- [How We Built 7 Websites for a Small Construction Company Using Modern Web Tech](https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l)
+- [The INFJ Developer&#39;s Guide to AI Agents: How an Introvert Outsourced Social Anxiety](https://dev.to/wcamon/the-infj-developers-guide-to-ai-agents-how-an-introvert-outsourced-social-anxiety-473j)
+- [Why Your “Skill Scanner” Is Just False Security &lpar;and Maybe Malware&rpar;](https://dev.to/snyk/why-your-skill-scanner-is-just-false-security-and-maybe-malware-4jgb)
 <!-- BLOG-POST-LIST:END -->
 
