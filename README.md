@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-39cd)
-- [Send us your Dev Challenge!](https://dev.to/devengers/send-us-dev-challenges-2lip)
-- [🌟 5 Developers Who Started as Beginners &lpar;And How You Can Learn From Them&rpar;](https://dev.to/harsh2644/5-developers-who-started-as-beginners-and-how-you-can-learn-from-them-287b)
-- [Flowers for my bebe](https://dev.to/chris_26a2198a3f58c297446/flowers-for-my-bebe-3k22)
+- [Benchmarking Vercel AI Gateway against the native Anthropic SDK](https://dev.to/cliftonz/benchmarking-vercel-ai-gateway-against-the-native-anthropic-sdk-21g5)
+- [Shell Tutor: I Built a Terminal Teacher Where Copilot CLI Is the Instructor](https://dev.to/zeshama/shell-tutor-i-built-a-terminal-teacher-where-copilot-cli-is-the-instructor-2577)
+- [What&#39;s easier, Learning LaTeX Tables or Asking Copilot CLI for a table code generating tool?](https://dev.to/raemih/whats-easier-learning-latex-tables-or-asking-copilot-cli-for-a-table-code-generating-tool-437p)
+- [Understanding Key Cloud and Infrastructure Concepts](https://dev.to/zainab_oladimeji/understanding-key-cloud-and-infrastructure-concepts-4b3b)
 <!-- BLOG-POST-LIST:END -->
 
