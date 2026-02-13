@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Rebuilt My Finances Around Bad Weeks](https://dev.to/briandavies/i-rebuilt-my-finances-around-bad-weeks-jc)
-- [How I Improved Email Rendering Performance 15x Using Rust + WebAssembly &lpar;Next.js 16 Devlog&rpar;](https://dev.to/sanjaysah/how-i-improved-email-rendering-performance-15x-using-rust-webassembly-nextjs-16-devlog-2hml)
-- [Regenerative Stablecoins: When “Stable” Also Means Net‑Positive](https://dev.to/ribhavmodi/regenerative-stablecoins-when-stable-also-means-net-positive-1i4j)
-- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
+- [Toxic Relationships 💔: When Your Agents Hallucinate](https://dev.to/prodevel/toxic-relationships-when-your-agents-hallucinate-1cpb)
+- [Comparing WebForms Core with Microsoft Classic WebForms: Revolution vs. Tradition](https://dev.to/elanatframework/comparing-webforms-core-with-microsoft-classic-webforms-revolution-vs-tradition-g03)
+- [I stopped my AI coding agent from rewriting tests — here&#39;s the prompt architecture that worked](https://dev.to/slimd/i-stopped-my-ai-coding-agent-from-rewriting-tests-heres-the-prompt-architecture-that-worked-1io8)
+- [Speeding Up Layout from Figma with MCP and Cursor](https://dev.to/byteminds/speeding-up-layout-from-figma-with-mcp-and-cursor-4211)
 <!-- BLOG-POST-LIST:END -->
 
