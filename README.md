@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxic Relationships 💔: When Your Agents Hallucinate](https://dev.to/prodevel/toxic-relationships-when-your-agents-hallucinate-1cpb)
-- [Comparing WebForms Core with Microsoft Classic WebForms: Revolution vs. Tradition](https://dev.to/elanatframework/comparing-webforms-core-with-microsoft-classic-webforms-revolution-vs-tradition-g03)
-- [I stopped my AI coding agent from rewriting tests — here&#39;s the prompt architecture that worked](https://dev.to/slimd/i-stopped-my-ai-coding-agent-from-rewriting-tests-heres-the-prompt-architecture-that-worked-1io8)
-- [Speeding Up Layout from Figma with MCP and Cursor](https://dev.to/byteminds/speeding-up-layout-from-figma-with-mcp-and-cursor-4211)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a)
+- [Claude Code for Fullstack Development: The 3 Things You Actually Need](https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p)
+- [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
+- [Copilot vs. Cursor vs. Reality: Why 59% of Developers Use Both &lpar;And Then Some&rpar;](https://dev.to/jakkie_koekemoer/copilot-vs-cursor-vs-reality-why-59-of-developers-use-both-and-then-some-32np)
 <!-- BLOG-POST-LIST:END -->
 
