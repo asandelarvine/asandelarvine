@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation strategies for consistent and healthy development](https://dev.to/austinwdigital/automation-strategies-for-consistent-and-healthy-development-1p8f)
-- [Choosing a Launchpad Partner: A Practical Engineering Checklist &lpar;White Label vs Build&rpar;](https://dev.to/chaingpt/choosing-a-launchpad-partner-a-practical-engineering-checklist-white-label-vs-build-5c4a)
-- [How to Build a Portfolio Website From Scratch – A Complete Journey](https://dev.to/im_nishant/how-to-build-a-portfolio-website-from-scratch-a-complete-journey-2mj3)
-- [OpenClaw + Terraphim LLM Proxy: OpenAI, Z.ai GLM-5, and MiniMax M2.5](https://dev.to/alexmikhalev/openclaw-terraphim-llm-proxy-openai-zai-glm-5-and-minimax-m25-59m7)
+- [I Built an Experimental Async OSINT Tool in Python &lpar;VoidScan&rpar;](https://dev.to/secretman12lang/i-built-an-experimental-async-osint-tool-in-python-voidscan-5129)
+- [Talk to the Grid: Control Energy Infrastructure with Claude + MCP](https://dev.to/karthikeyan_dsk_72d9d837b/talk-to-the-grid-control-energy-infrastructure-with-claude-mcp-1a5e)
+- [Introducing Depmender - The Ultimate Dependency Management CLI for JavaScript/TypeScript Projects](https://dev.to/raj_k_270898/introducing-depmender-the-ultimate-dependency-management-cli-for-javascripttypescript-projects-3ima)
+- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
 <!-- BLOG-POST-LIST:END -->
 
