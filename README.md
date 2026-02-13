@@ -79,9 +79,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a)
-- [Claude Code for Fullstack Development: The 3 Things You Actually Need](https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p)
-- [This Week In React #268 :Bulletproof Comps, Render Types | RN 0.84, Gestures, Rozenite, Storybook | Vitest, VSCode](https://dev.to/sebastienlorber/this-week-in-react-268-bulletproof-comps-render-types-rn-084-gestures-rozenite-storybook-2097)
-- [Copilot vs. Cursor vs. Reality: Why 59% of Developers Use Both &lpar;And Then Some&rpar;](https://dev.to/jakkie_koekemoer/copilot-vs-cursor-vs-reality-why-59-of-developers-use-both-and-then-some-32np)
+- [Pragmatica Aether: Let Java Be Java](https://dev.to/siy/pragmatica-aether-let-java-be-java-4k2g)
+- [Tip #5: Be comfortable with the struggle
+
+You feel like you don&#39;t know anything? Everybody around you is way more competent?
+
+Take it step by step. It gets easier with time and effort.
+
+And the feeling of not knowing anything never goes away.](https://dev.to/canro91/tip-5-be-comfortable-with-the-struggle-you-feel-like-you-dont-know-anything-everybody-4d1c)
+- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
+- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
 <!-- BLOG-POST-LIST:END -->
 
