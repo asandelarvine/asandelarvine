@@ -79,15 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
-- [Indie AI devs don’t lose because they lack models.
-
-They lose because they repeat avoidable mistakes at the product, system, and strategy layers.
-
-The ones who win won’t be the loudest.
-
-They’ll be the ones who build quietly, and deliberately.](https://dev.to/jaideepparashar/indie-ai-devs-dont-lose-because-they-lack-models-they-lose-because-they-repeat-avoidable-1efm)
-- [The Most Common Mistakes Indie AI Devs Make in 2026](https://dev.to/jaideepparashar/the-most-common-mistakes-indie-ai-devs-make-in-2026-57l3)
-- [OpenClaw Rises, Agents Get Email, Infrastructure Goes AI](https://dev.to/urbanisierung/openclaw-rises-agents-get-email-infrastructure-goes-ai-3ob)
+- [Most MERN Tutorials Ignore This, Until Production Breaks](https://dev.to/prateek_mangalgi/most-mern-tutorials-ignore-this-until-production-breaks-3c2l)
+- [Stop Paying for Slack Alerts: Send Sentry Errors to Slack for Free](https://dev.to/lutif/stop-paying-for-slack-alerts-send-sentry-errors-to-slack-for-free-f7f)
+- [I Turned 6 Dusty Vercel Projects Into 7 Gumroad Products in One Day](https://dev.to/binbreeze/i-turned-6-dusty-vercel-projects-into-7-gumroad-products-in-one-day-33mn)
+- [Your First Azure Function: HTTP Triggers Step-by-Step](https://dev.to/martin_oehlert/your-first-azure-function-http-triggers-step-by-step-ib8)
 <!-- BLOG-POST-LIST:END -->
 
