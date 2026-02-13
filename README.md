@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Install ShellGPT with Gemini API](https://dev.to/anandvikkath/install-shellgpt-with-gemini-api-48go)
-- [Building a Video-to-Prompt Pipeline: Lessons from TubePrompter](https://dev.to/chisha_d5ceeffee4e27/building-a-video-to-prompt-pipeline-lessons-from-tubeprompter-27a)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/samwel_sam/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1k0i)
-- [When to Use a Monorepo](https://dev.to/devops-make-it-run/when-to-use-a-monorepo-1e29)
+- [I Rebuilt My Finances Around Bad Weeks](https://dev.to/briandavies/i-rebuilt-my-finances-around-bad-weeks-jc)
+- [How I Improved Email Rendering Performance 15x Using Rust + WebAssembly &lpar;Next.js 16 Devlog&rpar;](https://dev.to/sanjaysah/how-i-improved-email-rendering-performance-15x-using-rust-webassembly-nextjs-16-devlog-2hml)
+- [Regenerative Stablecoins: When “Stable” Also Means Net‑Positive](https://dev.to/ribhavmodi/regenerative-stablecoins-when-stable-also-means-net-positive-1i4j)
+- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
 <!-- BLOG-POST-LIST:END -->
 
