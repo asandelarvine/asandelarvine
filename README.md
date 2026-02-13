@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Experimental Async OSINT Tool in Python &lpar;VoidScan&rpar;](https://dev.to/secretman12lang/i-built-an-experimental-async-osint-tool-in-python-voidscan-5129)
-- [Talk to the Grid: Control Energy Infrastructure with Claude + MCP](https://dev.to/karthikeyan_dsk_72d9d837b/talk-to-the-grid-control-energy-infrastructure-with-claude-mcp-1a5e)
-- [Introducing Depmender - The Ultimate Dependency Management CLI for JavaScript/TypeScript Projects](https://dev.to/raj_k_270898/introducing-depmender-the-ultimate-dependency-management-cli-for-javascripttypescript-projects-3ima)
-- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
+- [pretty cool challenge](https://dev.to/mihai_chindris/pretty-cool-challenge-1kf9)
+- [Turning Research Papers into Executable Code](https://dev.to/chiho5/turning-research-papers-into-executable-code-5898)
+- [A Practical Guide to Multi-Model AI Workflows](https://dev.to/salvatore_zetina_afcf8b44/a-practical-guide-to-multi-model-ai-workflows-12ln)
+- [Programming in the Age of AI: From Code to Intent](https://dev.to/robertobutti/programming-in-the-age-of-ai-from-code-to-intent-46eo)
 <!-- BLOG-POST-LIST:END -->
 
