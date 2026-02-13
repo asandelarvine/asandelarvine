@@ -79,15 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pragmatica Aether: Let Java Be Java](https://dev.to/siy/pragmatica-aether-let-java-be-java-4k2g)
-- [Tip #5: Be comfortable with the struggle
-
-You feel like you don&#39;t know anything? Everybody around you is way more competent?
-
-Take it step by step. It gets easier with time and effort.
-
-And the feeling of not knowing anything never goes away.](https://dev.to/canro91/tip-5-be-comfortable-with-the-struggle-you-feel-like-you-dont-know-anything-everybody-4d1c)
-- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
-- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
+- [Building a playable Graeco-Latin Sudoku square: the math behind Suirodoku](https://dev.to/teliance/building-a-playable-graeco-latin-sudoku-square-the-math-behind-suirodoku-gf3)
+- [Integrate Seamlessly: Leveraging APIs for Voice-to-Chat Handoffs with Twilio &amp; VAPI](https://dev.to/callstacktech/integrate-seamlessly-leveraging-apis-for-voice-to-chat-handoffs-with-twilio-vapi-1c10)
+- [Why we didn’t build another chatbot and why security forced us to rethink OS-level AI agents](https://dev.to/neura77ead/why-we-didnt-build-another-chatbot-and-why-security-forced-us-to-rethink-os-level-ai-agents-pgl)
+- [Three LangGraph Agent Patterns That Replaced Hundreds of Lines of Glue Code](https://dev.to/irubtsov/three-langgraph-agent-patterns-that-replaced-hundreds-of-lines-of-glue-code-3a21)
 <!-- BLOG-POST-LIST:END -->
 
