@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World — Independent Security Researcher Joining DEV](https://dev.to/dtfoss/hello-world-independent-security-researcher-joining-dev-38fh)
-- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
-- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
-- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
+- [Install ShellGPT with Gemini API](https://dev.to/anandvikkath/install-shellgpt-with-gemini-api-48go)
+- [Building a Video-to-Prompt Pipeline: Lessons from TubePrompter](https://dev.to/chisha_d5ceeffee4e27/building-a-video-to-prompt-pipeline-lessons-from-tubeprompter-27a)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/samwel_sam/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1k0i)
+- [When to Use a Monorepo](https://dev.to/devops-make-it-run/when-to-use-a-monorepo-1e29)
 <!-- BLOG-POST-LIST:END -->
 
