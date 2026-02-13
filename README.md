@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of Python&lpar;Tuple&rpar;](https://dev.to/vidya_varshini/day-5-of-pythontuple-4ga2)
-- [Plant Safety Corpus](https://dev.to/leafvibe/plant-safety-corpus-17ik)
-- [What is the difference between this and $ in HarmonyOS development?](https://dev.to/harmonyos/what-is-the-difference-between-this-and-in-harmonyos-development-1gfn)
-- [A Governance Lens on Drift, Evidence, and Reliance.](https://dev.to/hollowhouse/a-governance-lens-on-drift-evidence-and-reliance-3jk8)
+- [Are Shopify Stores at Risk of AI Deepfake Scams in 2026? Here’s What to Know](https://dev.to/destinovaailabs/are-shopify-stores-at-risk-of-ai-deepfake-scams-in-2026-heres-what-to-know-3fp8)
+- [OpenClaw生态深度分析：从个人AI助手到开源](https://dev.to/chx381/openclawsheng-tai-shen-du-fen-xi-cong-ge-ren-aizhu-shou-dao-kai-yuan-gln)
+- [.NET Learning Notes: Custom In-Memory Provider&lpar;1&rpar; - Registration and Discovery](https://dev.to/alexleeeeeeeeee/c-learning-notes-custom-in-memory-provider1-registration-and-discovery-12i0)
+- [Practical baseline safeguards for ChatGPT-powered services](https://dev.to/uni928/practical-baseline-safeguards-for-chatgpt-powered-services-efd)
 <!-- BLOG-POST-LIST:END -->
 
