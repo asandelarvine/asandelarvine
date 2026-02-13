@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a playable Graeco-Latin Sudoku square: the math behind Suirodoku](https://dev.to/teliance/building-a-playable-graeco-latin-sudoku-square-the-math-behind-suirodoku-gf3)
-- [Integrate Seamlessly: Leveraging APIs for Voice-to-Chat Handoffs with Twilio &amp; VAPI](https://dev.to/callstacktech/integrate-seamlessly-leveraging-apis-for-voice-to-chat-handoffs-with-twilio-vapi-1c10)
-- [Why we didn’t build another chatbot and why security forced us to rethink OS-level AI agents](https://dev.to/neura77ead/why-we-didnt-build-another-chatbot-and-why-security-forced-us-to-rethink-os-level-ai-agents-pgl)
-- [Three LangGraph Agent Patterns That Replaced Hundreds of Lines of Glue Code](https://dev.to/irubtsov/three-langgraph-agent-patterns-that-replaced-hundreds-of-lines-of-glue-code-3a21)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-39cd)
+- [Send us your Dev Challenge!](https://dev.to/devengers/send-us-dev-challenges-2lip)
+- [🌟 5 Developers Who Started as Beginners &lpar;And How You Can Learn From Them&rpar;](https://dev.to/harsh2644/5-developers-who-started-as-beginners-and-how-you-can-learn-from-them-287b)
+- [Flowers for my bebe](https://dev.to/chris_26a2198a3f58c297446/flowers-for-my-bebe-3k22)
 <!-- BLOG-POST-LIST:END -->
 
