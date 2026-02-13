@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebForms Core vs Modern Web Concepts: Architectural Similarities and Differences](https://dev.to/elanatframework/webforms-core-vs-modern-web-concepts-architectural-similarities-and-differences-2c4e)
-- [Starting a dev journey](https://dev.to/gwynnemichele/starting-a-dev-journey-4fee)
-- [[Boost]](https://dev.to/fernandoandrade/-ml8)
-- [From Raw Sales Data to Actionable Insights: My Power BI Workflow](https://dev.to/tenzintsundue/from-raw-sales-data-to-actionable-insights-my-power-bi-workflow-40je)
+- [Day 5 of Python&lpar;Tuple&rpar;](https://dev.to/vidya_varshini/day-5-of-pythontuple-4ga2)
+- [Plant Safety Corpus](https://dev.to/leafvibe/plant-safety-corpus-17ik)
+- [What is the difference between this and $ in HarmonyOS development?](https://dev.to/harmonyos/what-is-the-difference-between-this-and-in-harmonyos-development-1gfn)
+- [A Governance Lens on Drift, Evidence, and Reliance.](https://dev.to/hollowhouse/a-governance-lens-on-drift-evidence-and-reliance-3jk8)
 <!-- BLOG-POST-LIST:END -->
 
