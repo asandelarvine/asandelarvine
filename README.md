@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The OWASP Top 10 for LLMs — A Pentester&#39;s Practical Guide](https://dev.to/latentbreach/the-owasp-top-10-for-llms-a-pentesters-practical-guide-2b8)
-- [LLD-2:ECommerces Checkout](https://dev.to/_noob/ecommerece-checkout-2ael)
-- [An open-source credential manager for AI agents](https://dev.to/idwispera/an-open-source-credential-manager-for-ai-agents-11gj)
-- [Type casting](https://dev.to/shavkatovbexzod1987crypto/type-casting-1ipa)
+- [Automation strategies for consistent and healthy development](https://dev.to/austinwdigital/automation-strategies-for-consistent-and-healthy-development-1p8f)
+- [Choosing a Launchpad Partner: A Practical Engineering Checklist &lpar;White Label vs Build&rpar;](https://dev.to/chaingpt/choosing-a-launchpad-partner-a-practical-engineering-checklist-white-label-vs-build-5c4a)
+- [How to Build a Portfolio Website From Scratch – A Complete Journey](https://dev.to/im_nishant/how-to-build-a-portfolio-website-from-scratch-a-complete-journey-2mj3)
+- [OpenClaw + Terraphim LLM Proxy: OpenAI, Z.ai GLM-5, and MiniMax M2.5](https://dev.to/alexmikhalev/openclaw-terraphim-llm-proxy-openai-zai-glm-5-and-minimax-m25-59m7)
 <!-- BLOG-POST-LIST:END -->
 
