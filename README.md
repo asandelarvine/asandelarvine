@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking Vercel AI Gateway against the native Anthropic SDK](https://dev.to/cliftonz/benchmarking-vercel-ai-gateway-against-the-native-anthropic-sdk-21g5)
-- [Shell Tutor: I Built a Terminal Teacher Where Copilot CLI Is the Instructor](https://dev.to/zeshama/shell-tutor-i-built-a-terminal-teacher-where-copilot-cli-is-the-instructor-2577)
-- [What&#39;s easier, Learning LaTeX Tables or Asking Copilot CLI for a table code generating tool?](https://dev.to/raemih/whats-easier-learning-latex-tables-or-asking-copilot-cli-for-a-table-code-generating-tool-437p)
-- [Understanding Key Cloud and Infrastructure Concepts](https://dev.to/zainab_oladimeji/understanding-key-cloud-and-infrastructure-concepts-4b3b)
+- [Introducing Ⓜ️ Meddler! A Medium Export Converter](https://dev.to/brennan/introducing-meddler-a-medium-export-converter-4nka)
+- [How to Test Any App with AI in 30 Seconds — Flutter, React Native, iOS, Android &amp; More](https://dev.to/free_bella_438c32c978e5b7/how-to-test-any-app-with-ai-in-30-seconds-flutter-react-native-ios-android-more-j6c)
+- [I Built a 120-Image AI Influencer Pipeline for $4.80](https://dev.to/jason_peterson_607e54abf5/i-built-a-120-image-ai-influencer-pipeline-for-480-117p)
+- [Computer Science for Beginners](https://dev.to/codeintuition/computer-science-for-beginners-584g)
 <!-- BLOG-POST-LIST:END -->
 
