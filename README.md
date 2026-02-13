@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Ⓜ️ Meddler! A Medium Export Converter](https://dev.to/brennan/introducing-meddler-a-medium-export-converter-4nka)
-- [How to Test Any App with AI in 30 Seconds — Flutter, React Native, iOS, Android &amp; More](https://dev.to/free_bella_438c32c978e5b7/how-to-test-any-app-with-ai-in-30-seconds-flutter-react-native-ios-android-more-j6c)
-- [I Built a 120-Image AI Influencer Pipeline for $4.80](https://dev.to/jason_peterson_607e54abf5/i-built-a-120-image-ai-influencer-pipeline-for-480-117p)
-- [Computer Science for Beginners](https://dev.to/codeintuition/computer-science-for-beginners-584g)
+- [The OWASP Top 10 for LLMs — A Pentester&#39;s Practical Guide](https://dev.to/latentbreach/the-owasp-top-10-for-llms-a-pentesters-practical-guide-2b8)
+- [LLD-2:ECommerces Checkout](https://dev.to/_noob/ecommerece-checkout-2ael)
+- [An open-source credential manager for AI agents](https://dev.to/idwispera/an-open-source-credential-manager-for-ai-agents-11gj)
+- [Type casting](https://dev.to/shavkatovbexzod1987crypto/type-casting-1ipa)
 <!-- BLOG-POST-LIST:END -->
 
