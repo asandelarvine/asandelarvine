@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Markdown for RAG Pipelines](https://dev.to/chandan-kumar/how-to-scrape-markdown-for-rag-pipelines-jdb)
-- [I Built a 7-Level Valentine Week Game Using GitHub Copilot CLI](https://dev.to/saurabhnative/i-built-a-7-level-valentine-week-game-using-github-copilot-cli-3od6)
-- [How a Korean Garlic Farmer Built a Scripting Language That Catches AI Lies — On a Phone](https://dev.to/c_ckp_3d3e45d77ceafe05823/how-a-korean-garlic-farmer-built-a-scripting-language-that-catches-ai-lies-on-a-phone-44al)
-- [Spec Guard: AI-Powered API Spec Compliance Tool](https://dev.to/kitandara06/spec-guard-ai-powered-api-spec-compliance-tool-533)
+- [I Stopped Reading Newsletters. Here&#39;s What I Use Instead.](https://dev.to/warren_allen/i-stopped-reading-newsletters-heres-what-i-use-instead-2hi)
+- [Built Something Crazy This Week – Inkash](https://dev.to/random_ti/built-something-crazy-this-week-inkash-17g1)
+- [Specter: Give Your Codebase a Voice](https://dev.to/liztacular/specter-give-your-codebase-a-voice-2pd0)
+- [Zero-code E2E testing for any app with OpenClaw + flutter-skill](https://dev.to/free_bella/zero-code-e2e-testing-for-any-app-with-openclaw-flutter-skill-f00)
 <!-- BLOG-POST-LIST:END -->
 
