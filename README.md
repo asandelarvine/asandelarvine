@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meaningful and humor books in IT](https://dev.to/shitij_bhatnagar_b6d1be72/meaningful-and-humor-books-in-it-4gnf)
-- [Copilot Jira Planner — Turn Project Ideas into Jira-Ready Plans with AI](https://dev.to/olivier_vanheste_62a5c2c6/copilot-jira-planner-turn-project-ideas-into-jira-ready-plans-with-ai-iph)
-- [Advanced GPU Optimization: CUDA &amp; HIP from zero to hero](https://dev.to/javadinteger/advanced-gpu-optimization-cuda-hip-from-zero-to-hero-1dle)
-- [Transactional Integrity in Distributed Financial Ledger Systems: Architecture, Invariants, and Failure Models](https://dev.to/doomhammerhell/transactional-integrity-in-distributed-financial-ledger-systems-architecture-invariants-and-4b22)
+- [Today I have nothing to do](https://dev.to/sanseverino/today-i-have-nothing-to-do-ea1)
+- [Scaling to 200+ Cities by Deleting 90% of My Database](https://dev.to/iistrate/scaling-to-200-cities-by-deleting-90-of-my-database-1l70)
+- [HakoNyans: A Transparent Lossless Codec Challenge &lpar;with GitHub Copilot CLI&rpar;](https://dev.to/charmpic/hakonyans-a-transparent-lossless-codec-challenge-with-github-copilot-cli-2imj)
+- [Making offline time-tracker with Copilot CLI](https://dev.to/zmateusz/making-offline-time-tracker-with-copilot-cli-34c2)
 <!-- BLOG-POST-LIST:END -->
 
