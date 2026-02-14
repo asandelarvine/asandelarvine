@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Discord Bot Manager with Python &amp; Tkinter &lpar;With AI Help&rpar;](https://dev.to/v3ct0r924/i-built-a-discord-bot-manager-with-python-tkinter-with-ai-help-3j87)
-- [Final Chapter: Jenkins EFS Problem Solved - From 100% to 0% Throughput Usage](https://dev.to/tielec-takashi/final-chapter-jenkins-efs-problem-solved-from-100-to-0-throughput-usage-2km7)
-- [Terminal Tutor - an interactive Git CLI coach built with GitHub Copilot CLI](https://dev.to/anthonyerazo/terminal-tutor-an-interactive-git-cli-coach-built-with-github-copilot-cli-1522)
-- [How AI Code Review Tools Are Catching Bugs That Humans Miss](https://dev.to/b1fe7066aefjbingbong/how-ai-code-review-tools-are-catching-bugs-that-humans-miss-10m3)
+- [MongoDB Advanced Techniques: Going Beyond the Basics](https://dev.to/whytrchy/mongodb-advanced-techniques-going-beyond-the-basics-g71)
+- [MonBusiness: When AI Helped Me Build My Sister a Business in One Week](https://dev.to/gervaisamoah/monbusiness-when-ai-helped-me-build-my-sister-a-business-in-one-week-4jia)
+- [Designing a Layered YouTube Analytics Pipeline with AWS Bedrock &lpar;Architecture Overview](https://dev.to/geets_a1be902588b38e52740/designing-a-layered-youtube-analytics-pipeline-with-aws-bedrock-architecture-overview-1ba4)
+- [Offline vs Cloud: the Real Threat Model in Password Managers](https://dev.to/marano/offline-vs-cloud-il-vero-modello-di-minaccia-nei-password-manager-1b4e)
 <!-- BLOG-POST-LIST:END -->
 
