@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between IAM role and policy in Google Cloud Google Cloud Platform?](https://dev.to/realnamehidden1_61/difference-between-iam-role-and-policy-in-google-cloud-google-cloud-platform-3pl1)
-- [DevScope: System Activity &amp; Productivity Analyzer with GitHub Copilot CLI](https://dev.to/shubham_pareta_7337a009cd/devscope-system-activity-productivity-analyzer-with-github-copilot-cli-4hko)
-- [From Code to Shape: A Beginner’s Guide to Unity Mesh Generation](https://dev.to/prasanth_sivakumar/from-code-to-shape-a-beginners-guide-to-unity-mesh-generation-gff)
-- [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
+- [How to Scrape Markdown for RAG Pipelines](https://dev.to/chandan-kumar/how-to-scrape-markdown-for-rag-pipelines-jdb)
+- [I Built a 7-Level Valentine Week Game Using GitHub Copilot CLI](https://dev.to/saurabhnative/i-built-a-7-level-valentine-week-game-using-github-copilot-cli-3od6)
+- [How a Korean Garlic Farmer Built a Scripting Language That Catches AI Lies — On a Phone](https://dev.to/c_ckp_3d3e45d77ceafe05823/how-a-korean-garlic-farmer-built-a-scripting-language-that-catches-ai-lies-on-a-phone-44al)
+- [Spec Guard: AI-Powered API Spec Compliance Tool](https://dev.to/kitandara06/spec-guard-ai-powered-api-spec-compliance-tool-533)
 <!-- BLOG-POST-LIST:END -->
 
