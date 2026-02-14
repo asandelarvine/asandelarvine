@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production CLI Tool to Gamify and Enforce Code Documentation with GitHub Copilot CLI](https://dev.to/mdsaalim/building-a-production-cli-tool-to-gamify-and-enforce-code-documentation-with-github-copilot-cli-1j4m)
-- [🚨 Developer Reality Moment 😅](https://dev.to/flutter_developer/developer-reality-moment-4p1l)
-- [Cara Setup OpenClaw dengan Custom Provider Sumopod](https://dev.to/iqbalbaihaqi/cara-setup-openclaw-dengan-custom-provider-sumopod-2k5h)
-- [I Built a Markdown Editor That Deliberately Does Less](https://dev.to/kyles_light_275be0175609f/i-built-a-markdown-editor-that-deliberately-does-less-1fkh)
+- [Cool article](https://dev.to/anthonymax/cool-article-57c7)
+- [Daily Challenge #2 : The &quot;Secret Valentine&quot; Decoder 💌](https://dev.to/bingkahu/daily-challenge-2-the-secret-valentine-decoder-17mj)
+- [⚡ Mastering useQuery — The Complete Dev Guide &lpar;TanStack React Query&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-usequery-the-complete-dev-guide-tanstack-react-query-4726)
+- [Building HirvaGems: What No One Tells You About High-Trust Ecommerce Products](https://dev.to/shopia_allen_ee49a7139f70/building-hirvagems-what-no-one-tells-you-about-high-trust-ecommerce-products-372k)
 <!-- BLOG-POST-LIST:END -->
 
