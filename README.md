@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool article](https://dev.to/anthonymax/cool-article-57c7)
-- [Daily Challenge #2 : The &quot;Secret Valentine&quot; Decoder 💌](https://dev.to/bingkahu/daily-challenge-2-the-secret-valentine-decoder-17mj)
-- [⚡ Mastering useQuery — The Complete Dev Guide &lpar;TanStack React Query&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-usequery-the-complete-dev-guide-tanstack-react-query-4726)
-- [Building HirvaGems: What No One Tells You About High-Trust Ecommerce Products](https://dev.to/shopia_allen_ee49a7139f70/building-hirvagems-what-no-one-tells-you-about-high-trust-ecommerce-products-372k)
+- [Introducing ENTE-TCP: Smart TCP Congestion Control for Modern Networks](https://dev.to/hejhdiss/introducing-ente-tcp-smart-tcp-congestion-control-for-modern-networks-4fao)
+- [Become an early adopter of an Agentic economy](https://dev.to/weedeej/become-an-early-adopter-of-an-agentic-economy-4933)
+- [Why I Built ClawTick: Cloud Scheduling for AI Agents](https://dev.to/clawtick/why-i-built-clawtick-cloud-scheduling-for-ai-agents-34c8)
+- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
 <!-- BLOG-POST-LIST:END -->
 
