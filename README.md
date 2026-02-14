@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Optimization: From Research to Production](https://dev.to/ruchika_bhat_876f8530fa3b/llm-optimization-from-research-to-production-3ofi)
-- [Building a Lightweight Layout Engine for WordPress](https://dev.to/mdelprincipe/building-a-lightweight-layout-engine-for-wordpress-5ame)
-- [AI Coding for Founders: 30 YC-Backed Tips to 10x Shipping](https://dev.to/dr_hernani_costa/ai-coding-for-founders-30-yc-backed-tips-to-10x-shipping-4jgn)
-- [Building Production-Ready Spark on Kubernetes with the Operator Pattern](https://dev.to/tim_derzhavets/building-production-ready-spark-on-kubernetes-with-the-operator-pattern-2jpd)
+- [Building a Custom OSINT Tool for Digital Footprinting &lpar;by lazyekansh&rpar;](https://dev.to/lazyekansh/building-a-custom-osint-tool-for-digital-footprinting-by-lazyekansh-501m)
+- [Day 1 — Back to Scratch: Relearning Python Without Autopilot](https://dev.to/hafiz_shamnad_f513385b0a9/day-1-back-to-scratch-relearning-python-without-autopilot-4ak7)
+- [6 months until the EU AI Act hits. Here&#39;s what runtime security means.](https://dev.to/luckypipewrench/6-months-until-the-eu-ai-act-hits-heres-what-runtime-security-means-23bo)
+- [WebMCP is Coming, but Your AI Needs Eyes Today: Why MCP-FE is the Bridge to the Future](https://dev.to/michalkopecky/webmcp-is-coming-but-your-ai-needs-eyes-today-why-mcp-fe-is-the-bridge-to-the-future-5gli)
 <!-- BLOG-POST-LIST:END -->
 
