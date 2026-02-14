@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide private storage for internal company documents](https://dev.to/okunola_babatunde_dff5cbd/provide-private-storage-for-internal-company-documents-14gd)
-- [#c++ code data type!](https://dev.to/ahmadzonodilmurod55sudo/c-code-data-type-b52)
-- [Pitfalls of Session Management in Multi-AI-Agent Systems](https://dev.to/linou518/pitfalls-of-session-management-in-multi-ai-agent-systems-2m41)
-- [From Tab Chaos to Clarity: Why I Built a Chrome Extension for Jira + GitHub](https://dev.to/just_a_programmer/from-tab-chaos-to-clarity-why-i-built-a-chrome-extension-for-jira-github-1579)
+- [I Built a Discord Bot Manager with Python &amp; Tkinter &lpar;With AI Help&rpar;](https://dev.to/v3ct0r924/i-built-a-discord-bot-manager-with-python-tkinter-with-ai-help-3j87)
+- [Final Chapter: Jenkins EFS Problem Solved - From 100% to 0% Throughput Usage](https://dev.to/tielec-takashi/final-chapter-jenkins-efs-problem-solved-from-100-to-0-throughput-usage-2km7)
+- [Terminal Tutor - an interactive Git CLI coach built with GitHub Copilot CLI](https://dev.to/anthonyerazo/terminal-tutor-an-interactive-git-cli-coach-built-with-github-copilot-cli-1522)
+- [How AI Code Review Tools Are Catching Bugs That Humans Miss](https://dev.to/b1fe7066aefjbingbong/how-ai-code-review-tools-are-catching-bugs-that-humans-miss-10m3)
 <!-- BLOG-POST-LIST:END -->
 
