@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Character-Level Language Model in Rust: From Zero to &quot;Aha!&quot;](https://dev.to/palash90/building-a-character-level-language-model-in-rust-from-zero-to-aha-416i)
-- [Is Your Streaming Service Down? How to Check Netflix, Disney+, Hulu &amp; More &lpar;2026&rpar;](https://dev.to/shibley/is-your-streaming-service-down-how-to-check-netflix-disney-hulu-more-2026-437c)
-- [How to Scrape Pinduoduo &lpar;拼多多&rpar; for Product Data: A Complete Guide](https://dev.to/wfgsss/how-to-scrape-pinduoduo-pin-duo-duo-for-product-data-a-complete-guide-34dj)
-- [The &quot;This&quot; Identity Crisis: A Survival Guide to `.call&lpar;&rpar;`, `.apply&lpar;&rpar;`, and `.bind&lpar;&rpar;`](https://dev.to/kiran_ravi_092a2cfcf60389/the-this-identity-crisis-a-survival-guide-to-call-apply-and-bind-pcm)
+- [Experimenting with the idea of a &quot;TypeScript&quot; for CSS](https://dev.to/reinvanoyen/experimenting-with-the-idea-of-a-typescript-for-css-3i8l)
+- [PyTorch Neural Network Guide: 5 Mistakes That Break Training](https://dev.to/tildalice/pytorch-neural-network-guide-5-mistakes-that-break-training-12ga)
+- [The SurfaceDocs SDK Just Went From Write-Only to Full CRUD](https://dev.to/surfacedocs/the-surfacedocs-sdk-just-went-from-write-only-to-full-crud-l1m)
+- [Analytics After Dashboards: Understanding Data in the GA4 Era](https://dev.to/rjay/analytics-after-dashboards-understanding-data-in-the-ga4-era-3em5)
 <!-- BLOG-POST-LIST:END -->
 
