@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I have nothing to do](https://dev.to/sanseverino/today-i-have-nothing-to-do-ea1)
-- [Scaling to 200+ Cities by Deleting 90% of My Database](https://dev.to/iistrate/scaling-to-200-cities-by-deleting-90-of-my-database-1l70)
-- [HakoNyans: A Transparent Lossless Codec Challenge &lpar;with GitHub Copilot CLI&rpar;](https://dev.to/charmpic/hakonyans-a-transparent-lossless-codec-challenge-with-github-copilot-cli-2imj)
-- [Making offline time-tracker with Copilot CLI](https://dev.to/zmateusz/making-offline-time-tracker-with-copilot-cli-34c2)
+- [17. C# &lpar;Char&rpar;](https://dev.to/sabin_sim/17-c-char-4k9l)
+- [Code Telescope: bringing Telescope&#39;s power to VS Code](https://dev.to/guilhermeccosta/code-telescope-bringing-telescopes-power-to-vs-code-183k)
+- [I Built a Tiny App That Changes the Vibe of Your Writing ✨](https://dev.to/cart_vista_be03c392d6c951/i-built-a-tiny-app-that-changes-the-vibe-of-your-writing-2la4)
+- [16. C# &lpar;Switch Statement&rpar;](https://dev.to/sabin_sim/16-c-switch-statement-10ib)
 <!-- BLOG-POST-LIST:END -->
 
