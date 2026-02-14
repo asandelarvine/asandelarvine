@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Advanced Techniques: Going Beyond the Basics](https://dev.to/whytrchy/mongodb-advanced-techniques-going-beyond-the-basics-g71)
-- [MonBusiness: When AI Helped Me Build My Sister a Business in One Week](https://dev.to/gervaisamoah/monbusiness-when-ai-helped-me-build-my-sister-a-business-in-one-week-4jia)
-- [Designing a Layered YouTube Analytics Pipeline with AWS Bedrock &lpar;Architecture Overview](https://dev.to/geets_a1be902588b38e52740/designing-a-layered-youtube-analytics-pipeline-with-aws-bedrock-architecture-overview-1ba4)
-- [Offline vs Cloud: the Real Threat Model in Password Managers](https://dev.to/marano/offline-vs-cloud-il-vero-modello-di-minaccia-nei-password-manager-1b4e)
+- [The AWS Knowledge Gap: What Certifications Don’t Teach About Production](https://dev.to/manishpcp/the-aws-knowledge-gap-what-certifications-dont-teach-about-production-4be6)
+- [Azure Container Apps: Workload Profiles v2 Is Now the Default — What You Need to Know](https://dev.to/bspann/azure-container-apps-workload-profiles-v2-is-now-the-default-what-you-need-to-know-4ek8)
+- [From Localhost to Production: How I Built a Resource Hub for Student Developers](https://dev.to/studentdiscount/from-localhost-to-production-how-i-built-a-resource-hub-for-student-developers-545b)
+- [Building Interactive Programs inside Claude Code](https://dev.to/tobrun_vannuland_70632c7/building-interactive-programs-inside-claude-code-3ca5)
 <!-- BLOG-POST-LIST:END -->
 
