@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s AI Hardware: The $250/mo Platform Tax for Founders](https://dev.to/dr_hernani_costa/googles-ai-hardware-the-250mo-platform-tax-for-founders-cg6)
-- [🔐 Admin Control in TON Stablecoins: What Every User Must Know](https://dev.to/a08778/admin-control-in-ton-stablecoins-what-every-user-must-know-d3p)
-- [Secure Polyglot Code Execution: How to Run Untrusted Code Safely](https://dev.to/totylabs/secure-polyglot-code-execution-how-to-run-untrusted-code-safely-4n8a)
-- [Garmin&#39;s AI Bet: From Wearables to Autonomous Flight](https://dev.to/dr_hernani_costa/garmins-ai-bet-from-wearables-to-autonomous-flight-4ojj)
+- [Difference between IAM role and policy in Google Cloud Google Cloud Platform?](https://dev.to/realnamehidden1_61/difference-between-iam-role-and-policy-in-google-cloud-google-cloud-platform-3pl1)
+- [DevScope: System Activity &amp; Productivity Analyzer with GitHub Copilot CLI](https://dev.to/shubham_pareta_7337a009cd/devscope-system-activity-productivity-analyzer-with-github-copilot-cli-4hko)
+- [From Code to Shape: A Beginner’s Guide to Unity Mesh Generation](https://dev.to/prasanth_sivakumar/from-code-to-shape-a-beginners-guide-to-unity-mesh-generation-gff)
+- [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
 <!-- BLOG-POST-LIST:END -->
 
