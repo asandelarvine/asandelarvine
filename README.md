@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [17. C# &lpar;Char&rpar;](https://dev.to/sabin_sim/17-c-char-4k9l)
-- [Code Telescope: bringing Telescope&#39;s power to VS Code](https://dev.to/guilhermeccosta/code-telescope-bringing-telescopes-power-to-vs-code-183k)
-- [I Built a Tiny App That Changes the Vibe of Your Writing ✨](https://dev.to/cart_vista_be03c392d6c951/i-built-a-tiny-app-that-changes-the-vibe-of-your-writing-2la4)
-- [16. C# &lpar;Switch Statement&rpar;](https://dev.to/sabin_sim/16-c-switch-statement-10ib)
+- [Constructor](https://dev.to/karthick_m22/constructor-20ae)
+- [Weekly #05-2026: AI Agents Build Compilers, SVG-First Apps, Markdown for Agents, and Why Code Is Now Cheap](https://dev.to/weekly/weekly-05-2026-ai-agents-build-compilers-svg-first-apps-markdown-for-agents-and-why-code-is-1km8)
+- [Data Relationships Are a First-Class Problem in Modern Data Systems](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationships-are-a-first-class-problem-in-modern-data-systems-31kd)
+- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
 <!-- BLOG-POST-LIST:END -->
 
