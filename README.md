@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ENTE-TCP: Smart TCP Congestion Control for Modern Networks](https://dev.to/hejhdiss/introducing-ente-tcp-smart-tcp-congestion-control-for-modern-networks-4fao)
-- [Become an early adopter of an Agentic economy](https://dev.to/weedeej/become-an-early-adopter-of-an-agentic-economy-4933)
-- [Why I Built ClawTick: Cloud Scheduling for AI Agents](https://dev.to/clawtick/why-i-built-clawtick-cloud-scheduling-for-ai-agents-34c8)
-- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
+- [Google&#39;s AI Hardware: The $250/mo Platform Tax for Founders](https://dev.to/dr_hernani_costa/googles-ai-hardware-the-250mo-platform-tax-for-founders-cg6)
+- [🔐 Admin Control in TON Stablecoins: What Every User Must Know](https://dev.to/a08778/admin-control-in-ton-stablecoins-what-every-user-must-know-d3p)
+- [Secure Polyglot Code Execution: How to Run Untrusted Code Safely](https://dev.to/totylabs/secure-polyglot-code-execution-how-to-run-untrusted-code-safely-4n8a)
+- [Garmin&#39;s AI Bet: From Wearables to Autonomous Flight](https://dev.to/dr_hernani_costa/garmins-ai-bet-from-wearables-to-autonomous-flight-4ojj)
 <!-- BLOG-POST-LIST:END -->
 
