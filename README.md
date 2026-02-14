@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to code and finally sharing my projects – feedback would mean a lot! ⭐⭐⭐](https://dev.to/fcyber/learning-to-code-and-finally-sharing-my-projects-feedback-would-mean-a-lot-57aj)
-- [20 Minutes, Two Prompts, a Complete Video Pipeline](https://dev.to/htekdev/20-minutes-two-prompts-a-complete-video-pipeline-16io)
-- [PostgreSQL connection pooling — PgBouncer vs Pgpool-II compared in 5 key areas](https://dev.to/dave-anisimov/postgresql-connection-pooling-pgbouncer-vs-pgpool-ii-compared-in-5-key-areas-486c)
-- [CodeCompass — AI-Powered Codebase Intelligence Powered by Github Copilot SDK](https://dev.to/negaga53/codecompass-ai-powered-codebase-intelligence-powered-by-github-copilot-sdk-37io)
+- [Building a Character-Level Language Model in Rust: From Zero to &quot;Aha!&quot;](https://dev.to/palash90/building-a-character-level-language-model-in-rust-from-zero-to-aha-416i)
+- [Is Your Streaming Service Down? How to Check Netflix, Disney+, Hulu &amp; More &lpar;2026&rpar;](https://dev.to/shibley/is-your-streaming-service-down-how-to-check-netflix-disney-hulu-more-2026-437c)
+- [How to Scrape Pinduoduo &lpar;拼多多&rpar; for Product Data: A Complete Guide](https://dev.to/wfgsss/how-to-scrape-pinduoduo-pin-duo-duo-for-product-data-a-complete-guide-34dj)
+- [The &quot;This&quot; Identity Crisis: A Survival Guide to `.call&lpar;&rpar;`, `.apply&lpar;&rpar;`, and `.bind&lpar;&rpar;`](https://dev.to/kiran_ravi_092a2cfcf60389/the-this-identity-crisis-a-survival-guide-to-call-apply-and-bind-pcm)
 <!-- BLOG-POST-LIST:END -->
 
