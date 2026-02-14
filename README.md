@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom OSINT Tool for Digital Footprinting &lpar;by lazyekansh&rpar;](https://dev.to/lazyekansh/building-a-custom-osint-tool-for-digital-footprinting-by-lazyekansh-501m)
-- [Day 1 — Back to Scratch: Relearning Python Without Autopilot](https://dev.to/hafiz_shamnad_f513385b0a9/day-1-back-to-scratch-relearning-python-without-autopilot-4ak7)
-- [6 months until the EU AI Act hits. Here&#39;s what runtime security means.](https://dev.to/luckypipewrench/6-months-until-the-eu-ai-act-hits-heres-what-runtime-security-means-23bo)
-- [WebMCP is Coming, but Your AI Needs Eyes Today: Why MCP-FE is the Bridge to the Future](https://dev.to/michalkopecky/webmcp-is-coming-but-your-ai-needs-eyes-today-why-mcp-fe-is-the-bridge-to-the-future-5gli)
+- [Meaningful and humor books in IT](https://dev.to/shitij_bhatnagar_b6d1be72/meaningful-and-humor-books-in-it-4gnf)
+- [Copilot Jira Planner — Turn Project Ideas into Jira-Ready Plans with AI](https://dev.to/olivier_vanheste_62a5c2c6/copilot-jira-planner-turn-project-ideas-into-jira-ready-plans-with-ai-iph)
+- [Advanced GPU Optimization: CUDA &amp; HIP from zero to hero](https://dev.to/javadinteger/advanced-gpu-optimization-cuda-hip-from-zero-to-hero-1dle)
+- [Transactional Integrity in Distributed Financial Ledger Systems: Architecture, Invariants, and Failure Models](https://dev.to/doomhammerhell/transactional-integrity-in-distributed-financial-ledger-systems-architecture-invariants-and-4b22)
 <!-- BLOG-POST-LIST:END -->
 
