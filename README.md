@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Reading Newsletters. Here&#39;s What I Use Instead.](https://dev.to/warren_allen/i-stopped-reading-newsletters-heres-what-i-use-instead-2hi)
-- [Built Something Crazy This Week – Inkash](https://dev.to/random_ti/built-something-crazy-this-week-inkash-17g1)
-- [Specter: Give Your Codebase a Voice](https://dev.to/liztacular/specter-give-your-codebase-a-voice-2pd0)
-- [Zero-code E2E testing for any app with OpenClaw + flutter-skill](https://dev.to/free_bella/zero-code-e2e-testing-for-any-app-with-openclaw-flutter-skill-f00)
+- [LLM Optimization: From Research to Production](https://dev.to/ruchika_bhat_876f8530fa3b/llm-optimization-from-research-to-production-3ofi)
+- [Building a Lightweight Layout Engine for WordPress](https://dev.to/mdelprincipe/building-a-lightweight-layout-engine-for-wordpress-5ame)
+- [AI Coding for Founders: 30 YC-Backed Tips to 10x Shipping](https://dev.to/dr_hernani_costa/ai-coding-for-founders-30-yc-backed-tips-to-10x-shipping-4jgn)
+- [Building Production-Ready Spark on Kubernetes with the Operator Pattern](https://dev.to/tim_derzhavets/building-production-ready-spark-on-kubernetes-with-the-operator-pattern-2jpd)
 <!-- BLOG-POST-LIST:END -->
 
