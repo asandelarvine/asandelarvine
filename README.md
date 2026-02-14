@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes: Why I Created a Performance Testing Course](https://dev.to/oleh_koren/behind-the-scenes-why-i-created-a-performance-testing-course-22i0)
-- [I built this to stop the endless cycle of copy-pasting terminal errors into Google. It uses Copilot CLI to give you a one-line fix directly in the terminal.](https://dev.to/stefan_donosa/i-built-this-to-stop-the-endless-cycle-of-copy-pasting-terminal-errors-into-google-it-uses-copilot-m6n)
-- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
-- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
+- [Provide private storage for internal company documents](https://dev.to/okunola_babatunde_dff5cbd/provide-private-storage-for-internal-company-documents-14gd)
+- [#c++ code data type!](https://dev.to/ahmadzonodilmurod55sudo/c-code-data-type-b52)
+- [Pitfalls of Session Management in Multi-AI-Agent Systems](https://dev.to/linou518/pitfalls-of-session-management-in-multi-ai-agent-systems-2m41)
+- [From Tab Chaos to Clarity: Why I Built a Chrome Extension for Jira + GitHub](https://dev.to/just_a_programmer/from-tab-chaos-to-clarity-why-i-built-a-chrome-extension-for-jira-github-1579)
 <!-- BLOG-POST-LIST:END -->
 
