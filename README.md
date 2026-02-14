@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Constructor](https://dev.to/karthick_m22/constructor-20ae)
-- [Weekly #05-2026: AI Agents Build Compilers, SVG-First Apps, Markdown for Agents, and Why Code Is Now Cheap](https://dev.to/weekly/weekly-05-2026-ai-agents-build-compilers-svg-first-apps-markdown-for-agents-and-why-code-is-1km8)
-- [Data Relationships Are a First-Class Problem in Modern Data Systems](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationships-are-a-first-class-problem-in-modern-data-systems-31kd)
-- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
+- [How I Use 19 AI Agents to Design Physics Engines &lpar;Tournament Architecture&rpar;](https://dev.to/0x000null/how-i-use-19-ai-agents-to-design-physics-engines-tournament-architecture-4ipp)
+- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
+- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
+- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
 <!-- BLOG-POST-LIST:END -->
 
