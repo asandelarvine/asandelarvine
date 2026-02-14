@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use 19 AI Agents to Design Physics Engines &lpar;Tournament Architecture&rpar;](https://dev.to/0x000null/how-i-use-19-ai-agents-to-design-physics-engines-tournament-architecture-4ipp)
-- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
-- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
-- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
+- [Learning to code and finally sharing my projects – feedback would mean a lot! ⭐⭐⭐](https://dev.to/fcyber/learning-to-code-and-finally-sharing-my-projects-feedback-would-mean-a-lot-57aj)
+- [20 Minutes, Two Prompts, a Complete Video Pipeline](https://dev.to/htekdev/20-minutes-two-prompts-a-complete-video-pipeline-16io)
+- [PostgreSQL connection pooling — PgBouncer vs Pgpool-II compared in 5 key areas](https://dev.to/dave-anisimov/postgresql-connection-pooling-pgbouncer-vs-pgpool-ii-compared-in-5-key-areas-486c)
+- [CodeCompass — AI-Powered Codebase Intelligence Powered by Github Copilot SDK](https://dev.to/negaga53/codecompass-ai-powered-codebase-intelligence-powered-by-github-copilot-sdk-37io)
 <!-- BLOG-POST-LIST:END -->
 
