@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Advanced Scheduling &lpar; Hidden gems of Kubernetes &rpar;](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-hidden-gems-of-kubernetes-1--29l9)
-- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
-- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25)
-- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+- [The Sovereign Board: A Guide to MoltBoard and Agentic Governance](https://dev.to/agentnexus/the-sovereign-board-a-guide-to-moltboard-and-agentic-governance-4c36)
+- [Building Jist: An AI-Powered Notification Summarizer with GitHub Copilot CLI](https://dev.to/dilutewater/building-jist-an-ai-powered-notification-summarizer-with-github-copilot-cli-4din)
+- [[Boost]](https://dev.to/evelyn_oliveira_8ca5cf65e/-ih3)
+- [The Only OpenClaw Cheat Sheet You Need &lpar;2-Page Quick Reference&rpar;](https://dev.to/techfind777/the-only-openclaw-cheat-sheet-you-need-2-page-quick-reference-1439)
 <!-- BLOG-POST-LIST:END -->
 
