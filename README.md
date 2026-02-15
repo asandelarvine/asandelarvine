@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Python and Game Development: Beyond the Basics](https://dev.to/mattysa/my-journey-into-python-and-game-development-beyond-the-basics-e7p)
-- [I Built a Tool to Stop AI Coding Agents from Forgetting Everything Between Sessions](https://dev.to/marvin_ma_597e184518c2221/i-built-a-tool-to-stop-ai-coding-agents-from-forgetting-everything-between-sessions-10ni)
-- [We Benchmarked 4 AI API Strategies With Real Money — The Results Changed How We Think About Model Selection](https://dev.to/robinbanner/we-benchmarked-4-ai-api-strategies-with-real-money-the-results-changed-how-we-think-about-model-5coa)
-- [What Happens After the Hero? The Section That Decides If Users Stay](https://dev.to/bhavin-allinonetools/what-happens-after-the-hero-the-section-that-decides-if-users-stay-2hm)
+- [How I Built a Production-Ready Utility Web App Using GitHub Copilot CLI](https://dev.to/devcodehub99/how-i-built-a-production-ready-utility-web-app-using-github-copilot-cli-1jc2)
+- [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers &lpar;Satori + resvg-wasm&rpar;](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
+- [My Docs Are Safer Than My Search History 😎](https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f)
+- [🤖 Copilot Telegram Bot: A Secure, Mobile-First Agent in Your Pocket](https://dev.to/julianchun/copilot-telegram-bot-a-secure-mobile-first-agent-in-your-pocket-5ah6)
 <!-- BLOG-POST-LIST:END -->
 
