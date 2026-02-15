@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sovereign Board: A Guide to MoltBoard and Agentic Governance](https://dev.to/agentnexus/the-sovereign-board-a-guide-to-moltboard-and-agentic-governance-4c36)
-- [Building Jist: An AI-Powered Notification Summarizer with GitHub Copilot CLI](https://dev.to/dilutewater/building-jist-an-ai-powered-notification-summarizer-with-github-copilot-cli-4din)
-- [[Boost]](https://dev.to/evelyn_oliveira_8ca5cf65e/-ih3)
-- [The Only OpenClaw Cheat Sheet You Need &lpar;2-Page Quick Reference&rpar;](https://dev.to/techfind777/the-only-openclaw-cheat-sheet-you-need-2-page-quick-reference-1439)
+- [Introduction to MS Excel for Data Analysis](https://dev.to/sharon_m/introduction-to-ms-excel-for-data-analysis-12n9)
+- [AI Pareidolia: The Strange Art of Making AI &#39;See&#39; What Isn&#39;t There Through Abstract and Nonsense Prompts](https://dev.to/velocityai/ai-pareidolia-the-strange-art-of-making-ai-see-what-isnt-there-through-abstract-and-nonsense-2cd8)
+- [Hacker Heuristics: Mental Shortcuts for Surviving a World Without &#39;Correct&#39; Answers](https://dev.to/kanywst/hacker-heuristics-mental-shortcuts-for-surviving-a-world-without-correct-answers-4725)
+- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
 <!-- BLOG-POST-LIST:END -->
 
