@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Clasez: An AI Study Copilot That Changes How Students Use Lecture Recordings with the GitHub Copilot SDK](https://dev.to/jamesrhurtado/i-built-clasez-an-ai-study-copilot-that-changes-how-students-use-lecture-recordings-with-the-43id)
-- [GitHub Copilot for Fast Presentation Generation](https://dev.to/jn1707/github-copilot-for-fast-presentation-generation-319o)
-- [Cloud workstation on AWS for $36/month: Windows EC2, static IP and Denver egress explained](https://dev.to/lbcristaldo/cloud-workstation-on-aws-for-36month-windows-ec2-static-ip-and-denver-egress-explained-36f3)
-- [How to Generate Open Graph Images Automatically in Ruby on Rails](https://dev.to/mackmoneymaker/how-to-generate-open-graph-images-automatically-in-ruby-on-rails-1n8d)
+- [Circumventing Internet Censorship: Protocols, Techniques, and the Arms Race](https://dev.to/shinomontaz/circumventing-internet-censorship-protocols-techniques-and-the-arms-race-20ff)
+- [Building EduCLI – Offline-First Learning Content Generator with GitHub Copilot CLI](https://dev.to/beneditotulio/building-educli-offline-first-learning-content-generator-with-github-copilot-cli-1gce)
+- [From Terminal to Desktop: How a Desktop App Uses Copilot CLI as Its Entire AI Layer](https://dev.to/tsadhoq/from-terminal-to-desktop-how-a-desktop-app-uses-copilot-cli-as-its-entire-ai-layer-bl9)
+- [Redacta: Elevating Video Content with GitHub Copilot CLI](https://dev.to/julcasans/redacta-elevating-video-content-with-github-copilot-cli-kc9)
 <!-- BLOG-POST-LIST:END -->
 
