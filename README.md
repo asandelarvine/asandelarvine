@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Production-Ready Utility Web App Using GitHub Copilot CLI](https://dev.to/devcodehub99/how-i-built-a-production-ready-utility-web-app-using-github-copilot-cli-1jc2)
-- [6 Pitfalls of Dynamic OG Image Generation on Cloudflare Workers &lpar;Satori + resvg-wasm&rpar;](https://dev.to/devoresyah/6-pitfalls-of-dynamic-og-image-generation-on-cloudflare-workers-satori-resvg-wasm-1kle)
-- [My Docs Are Safer Than My Search History 😎](https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f)
-- [🤖 Copilot Telegram Bot: A Secure, Mobile-First Agent in Your Pocket](https://dev.to/julianchun/copilot-telegram-bot-a-secure-mobile-first-agent-in-your-pocket-5ah6)
+- [[Boost]](https://dev.to/dennistraub/-31b6)
+- [A Debugging Companion that follows the Socratic Method](https://dev.to/alraj/a-debugging-companion-that-follows-the-socratic-method-5e58)
+- [Mastering Cloud-Native Architectures with Kubernetes](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-native-architectures-with-kubernetes-4hb4)
+- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
 <!-- BLOG-POST-LIST:END -->
 
