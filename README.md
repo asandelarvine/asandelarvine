@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ELI25: Apache Kafka Quick Notes for Interviews](https://dev.to/haydencordeiro/eli25-apache-kafka-quick-notes-for-interviews-oph)
-- [What Am I Doing?](https://dev.to/stinklewinks/what-am-i-doing-1koa)
-- [Stop Googling Blindly: Use Search Operators Like a Pro &lpar;Free Query Builder Inside&rpar;](https://dev.to/suleymanali/stop-googling-blindly-use-search-operators-like-a-pro-free-query-builder-inside-306i)
-- [Learn ChatGPT: Build a Live Chat Application with HTML, CSS, and JavaScript](https://dev.to/hypertextcoffeepot/learn-chatgpt-build-a-live-chat-application-with-html-css-and-javascript-56cl)
+- [Stop Saying Java Is Verbose](https://dev.to/igoriot/stop-saying-java-is-verbose-127i)
+- [Performance Tuning 101: Finding and Fixing Backend Bottlenecks](https://dev.to/zainabfirdous/performance-tuning-101-finding-and-fixing-backend-bottlenecks-28h5)
+- [Jurnal: A Voice-First Journal App with On-Device Whisper + LLM Note](https://dev.to/pizidavi/jurnal-a-voice-first-journal-app-with-on-device-whisper-llm-note-36le)
+- [Prevent Hugging Face Spaces from Sleeping with GitHub Actions + agent-browser](https://dev.to/0xkoji/prevent-hugging-face-spaces-from-sleeping-with-github-actions-agent-browser-2p4f)
 <!-- BLOG-POST-LIST:END -->
 
