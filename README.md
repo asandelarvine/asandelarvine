@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Audit for Developers: A 30-Minute Self-Check Before You Tune That Prompt Again](https://dev.to/optyxstack/llm-audit-for-developers-a-30-minute-self-check-before-you-tune-that-prompt-again-2jp1)
-- [Daily Challenge #3 : The &quot;Binary Clock&quot; 🕰️](https://dev.to/bingkahu/daily-challenge-3-the-binary-clock-55oo)
-- [Socratic Sentinel - AI-Powered Socratic Tutor for Deep Coding Mastery with GitHub Copilot CLI](https://dev.to/aviral_srivastava_2c4e212/socratic-sentinel-ai-powered-socratic-tutor-for-deep-coding-mastery-with-github-copilot-cli-32gh)
-- [The Complete Guide to Integrating Claude API with Laravel](https://dev.to/dewald_hugo_472be9f413c2a/the-complete-guide-to-integrating-claude-api-with-laravel-5413)
+- [My Journey into Python and Game Development: Beyond the Basics](https://dev.to/mattysa/my-journey-into-python-and-game-development-beyond-the-basics-e7p)
+- [I Built a Tool to Stop AI Coding Agents from Forgetting Everything Between Sessions](https://dev.to/marvin_ma_597e184518c2221/i-built-a-tool-to-stop-ai-coding-agents-from-forgetting-everything-between-sessions-10ni)
+- [We Benchmarked 4 AI API Strategies With Real Money — The Results Changed How We Think About Model Selection](https://dev.to/robinbanner/we-benchmarked-4-ai-api-strategies-with-real-money-the-results-changed-how-we-think-about-model-5coa)
+- [What Happens After the Hero? The Section That Decides If Users Stay](https://dev.to/bhavin-allinonetools/what-happens-after-the-hero-the-section-that-decides-if-users-stay-2hm)
 <!-- BLOG-POST-LIST:END -->
 
