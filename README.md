@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NDM-TCP vs Cubic vs Reno vs BBR: Pure Localhost Performance Test &lpar;No Artificial Constraints&rpar;](https://dev.to/hejhdiss/ndm-tcp-vs-cubic-vs-reno-vs-bbr-pure-localhost-performance-test-no-artificial-constraints-2lic)
-- [Two Types of Return in Arrow Functions: Implicit vs. Explicit](https://dev.to/edriso/two-types-of-return-in-arrow-functions-implicit-vs-explicit-2j90)
-- [Today I learned some seriously practical Linux admin skills](https://dev.to/ghafoor4321/today-i-learned-some-seriously-practical-linux-admin-skills-de7)
-- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
+- [5 Prompt Engineering Patterns That Actually Work &lpar;With Examples&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-patterns-that-actually-work-with-examples-3l0l)
+- [Your Users Shouldn&#39;t Have to Scroll to Find What Just Loaded](https://dev.to/edriso/your-users-shouldnt-have-to-scroll-to-find-what-just-loaded-cn1)
+- [🚀 Cron Translator v2.0: 16 Languages, Spring Boot Macros &amp; Crontab Parser](https://dev.to/vito_saulle_016ec1ce26825/cron-translator-v20-16-languages-spring-boot-macros-crontab-parser-3b4l)
+- [I got tired of reading AI-generated Markdown in VS Code, so I built a dedicated reader](https://dev.to/ss_mworks/i-got-tired-of-reading-ai-generated-markdown-in-vs-code-so-i-built-a-dedicated-reader-4288)
 <!-- BLOG-POST-LIST:END -->
 
