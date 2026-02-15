@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)
-- [You Don’t “Prompt Engineer” Identity — You Architect It &lpar;Why CloYou Explores Constrained AI Clones&rpar;](https://dev.to/cloyouai/you-dont-prompt-engineer-identity-you-architect-it-why-cloyou-explores-constrained-ai-clones-2h5g)
-- [Built my first TUI as a web dev and the experiecnce was awesome](https://dev.to/ashiqsultan/built-my-first-tui-as-a-web-dev-and-the-experiecnce-was-awesome-1i8n)
-- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
+- [LLM Audit for Developers: A 30-Minute Self-Check Before You Tune That Prompt Again](https://dev.to/optyxstack/llm-audit-for-developers-a-30-minute-self-check-before-you-tune-that-prompt-again-2jp1)
+- [Daily Challenge #3 : The &quot;Binary Clock&quot; 🕰️](https://dev.to/bingkahu/daily-challenge-3-the-binary-clock-55oo)
+- [Socratic Sentinel - AI-Powered Socratic Tutor for Deep Coding Mastery with GitHub Copilot CLI](https://dev.to/aviral_srivastava_2c4e212/socratic-sentinel-ai-powered-socratic-tutor-for-deep-coding-mastery-with-github-copilot-cli-32gh)
+- [The Complete Guide to Integrating Claude API with Laravel](https://dev.to/dewald_hugo_472be9f413c2a/the-complete-guide-to-integrating-claude-api-with-laravel-5413)
 <!-- BLOG-POST-LIST:END -->
 
