@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimenting with the idea of a &quot;TypeScript&quot; for CSS](https://dev.to/reinvanoyen/experimenting-with-the-idea-of-a-typescript-for-css-3i8l)
-- [PyTorch Neural Network Guide: 5 Mistakes That Break Training](https://dev.to/tildalice/pytorch-neural-network-guide-5-mistakes-that-break-training-12ga)
-- [The SurfaceDocs SDK Just Went From Write-Only to Full CRUD](https://dev.to/surfacedocs/the-surfacedocs-sdk-just-went-from-write-only-to-full-crud-l1m)
-- [Analytics After Dashboards: Understanding Data in the GA4 Era](https://dev.to/rjay/analytics-after-dashboards-understanding-data-in-the-ga4-era-3em5)
+- [Olio AI: Promptless AI Product Photography – Built with GitHub Copilot CLI](https://dev.to/mashraf_aiman/olio-ai-promptless-ai-product-photography-built-with-github-copilot-cli-hh9)
+- [VidPipe: I Built an Agentic Video Editor with GitHub Copilot CLI](https://dev.to/htekdev/vidpipe-i-built-an-agentic-video-editor-with-github-copilot-cli-163)
+- [A* Algorithm vs Unity NavMesh: Choosing the Right Pathfinding for Your Game](https://dev.to/prasanth_sivakumar/a-algorithm-vs-unity-navmesh-choosing-the-right-pathfinding-for-your-game-3l5l)
+- [App Store Scraper: Find Untranslated iOS Apps to Clone for Your Market &lpar;2026&rpar;](https://dev.to/kazkn/app-store-scraper-find-untranslated-ios-apps-to-clone-for-your-market-2026-28pc)
 <!-- BLOG-POST-LIST:END -->
 
