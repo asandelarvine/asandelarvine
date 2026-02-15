@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rustroke - WASM mini draw](https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih)
-- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
-- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
-- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
+- [Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)
+- [You Don’t “Prompt Engineer” Identity — You Architect It &lpar;Why CloYou Explores Constrained AI Clones&rpar;](https://dev.to/cloyouai/you-dont-prompt-engineer-identity-you-architect-it-why-cloyou-explores-constrained-ai-clones-2h5g)
+- [Built my first TUI as a web dev and the experiecnce was awesome](https://dev.to/ashiqsultan/built-my-first-tui-as-a-web-dev-and-the-experiecnce-was-awesome-1i8n)
+- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
 <!-- BLOG-POST-LIST:END -->
 
