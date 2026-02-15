@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Claude Code&#39;s Multi-Agent Orchestration and Laravel to Rebuild a Backend Overnight](https://dev.to/tessak22/how-i-used-claude-codes-multi-agent-orchestration-and-laravel-to-rebuild-a-backend-overnight-174)
-- [Bridge the gap between code and documentation without ever leaving your terminal.](https://dev.to/nik09/bridge-the-gap-between-code-and-documentation-without-ever-leaving-your-terminal-4l4b)
-- [The AI That Fixed My Life in Ethiopia: Meet Nura.](https://dev.to/zeshama/i-gave-my-terminal-an-ai-agent-named-nura-she-diagnoses-my-broken-ethiopian-internet-4fcg)
-- [Stop Writing Python Scripts Just to Convert JSON to CSV 🛑](https://dev.to/papiv-tools/stop-writing-python-scripts-just-to-convert-json-to-csv-2k5o)
+- [ELI25: Apache Kafka Quick Notes for Interviews](https://dev.to/haydencordeiro/eli25-apache-kafka-quick-notes-for-interviews-oph)
+- [What Am I Doing?](https://dev.to/stinklewinks/what-am-i-doing-1koa)
+- [Stop Googling Blindly: Use Search Operators Like a Pro &lpar;Free Query Builder Inside&rpar;](https://dev.to/suleymanali/stop-googling-blindly-use-search-operators-like-a-pro-free-query-builder-inside-306i)
+- [Learn ChatGPT: Build a Live Chat Application with HTML, CSS, and JavaScript](https://dev.to/hypertextcoffeepot/learn-chatgpt-build-a-live-chat-application-with-html-css-and-javascript-56cl)
 <!-- BLOG-POST-LIST:END -->
 
