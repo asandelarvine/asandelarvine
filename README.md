@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dennistraub/-31b6)
-- [A Debugging Companion that follows the Socratic Method](https://dev.to/alraj/a-debugging-companion-that-follows-the-socratic-method-5e58)
-- [Mastering Cloud-Native Architectures with Kubernetes](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-native-architectures-with-kubernetes-4hb4)
-- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
+- [Kubernetes Advanced Scheduling &lpar; Hidden gems of Kubernetes &rpar;](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-hidden-gems-of-kubernetes-1--29l9)
+- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
+- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25)
+- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
 <!-- BLOG-POST-LIST:END -->
 
