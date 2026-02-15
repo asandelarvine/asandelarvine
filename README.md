@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mini CLI Productivity Tool – GitHub Copilot CLI Challenge](https://dev.to/usan/mini-cli-productivity-tool-github-copilot-cli-challenge-556)
-- [AWS Data Engineer Associate &lpar;DEA-C01&rpar;: What Each Domain Actually Tests &lpar;From Someone Who Just Passed&rpar;](https://dev.to/andy_youtube_371fe0c1a37e/aws-data-engineer-associate-dea-c01-what-each-domain-actually-tests-from-someone-who-just-3pao)
-- [Machine Learning Best Practices 2026](https://dev.to/chx381/machine-learning-best-practices-2026-go9)
-- [AI Technology Trends 2026: Introduction](https://dev.to/chx381/ai-technology-trends-2026-introduction-29he)
+- [NDM-TCP vs Cubic vs Reno vs BBR: Pure Localhost Performance Test &lpar;No Artificial Constraints&rpar;](https://dev.to/hejhdiss/ndm-tcp-vs-cubic-vs-reno-vs-bbr-pure-localhost-performance-test-no-artificial-constraints-2lic)
+- [Two Types of Return in Arrow Functions: Implicit vs. Explicit](https://dev.to/edriso/two-types-of-return-in-arrow-functions-implicit-vs-explicit-2j90)
+- [Today I learned some seriously practical Linux admin skills](https://dev.to/ghafoor4321/today-i-learned-some-seriously-practical-linux-admin-skills-de7)
+- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
 <!-- BLOG-POST-LIST:END -->
 
