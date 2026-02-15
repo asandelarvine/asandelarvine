@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
-- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
-
-That belief is outdated.
-
-In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
-- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
-- [How Developers Can Build Authority in AI Without a Fancy Degree](https://dev.to/jaideepparashar/how-developers-can-build-authority-in-ai-without-a-fancy-degree-304)
+- [Rustroke - WASM mini draw](https://dev.to/pengeszikra/rustroke-wasm-mini-draw-3oih)
+- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
+- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
+- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
 <!-- BLOG-POST-LIST:END -->
 
