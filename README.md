@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Olio AI: Promptless AI Product Photography – Built with GitHub Copilot CLI](https://dev.to/mashraf_aiman/olio-ai-promptless-ai-product-photography-built-with-github-copilot-cli-hh9)
-- [VidPipe: I Built an Agentic Video Editor with GitHub Copilot CLI](https://dev.to/htekdev/vidpipe-i-built-an-agentic-video-editor-with-github-copilot-cli-163)
-- [A* Algorithm vs Unity NavMesh: Choosing the Right Pathfinding for Your Game](https://dev.to/prasanth_sivakumar/a-algorithm-vs-unity-navmesh-choosing-the-right-pathfinding-for-your-game-3l5l)
-- [App Store Scraper: Find Untranslated iOS Apps to Clone for Your Market &lpar;2026&rpar;](https://dev.to/kazkn/app-store-scraper-find-untranslated-ios-apps-to-clone-for-your-market-2026-28pc)
+- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
+- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
+
+That belief is outdated.
+
+In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
+- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
+- [How Developers Can Build Authority in AI Without a Fancy Degree](https://dev.to/jaideepparashar/how-developers-can-build-authority-in-ai-without-a-fancy-degree-304)
 <!-- BLOG-POST-LIST:END -->
 
