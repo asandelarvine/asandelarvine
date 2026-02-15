@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Prompt Engineering Patterns That Actually Work &lpar;With Examples&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-patterns-that-actually-work-with-examples-3l0l)
-- [Your Users Shouldn&#39;t Have to Scroll to Find What Just Loaded](https://dev.to/edriso/your-users-shouldnt-have-to-scroll-to-find-what-just-loaded-cn1)
-- [🚀 Cron Translator v2.0: 16 Languages, Spring Boot Macros &amp; Crontab Parser](https://dev.to/vito_saulle_016ec1ce26825/cron-translator-v20-16-languages-spring-boot-macros-crontab-parser-3b4l)
-- [I got tired of reading AI-generated Markdown in VS Code, so I built a dedicated reader](https://dev.to/ss_mworks/i-got-tired-of-reading-ai-generated-markdown-in-vs-code-so-i-built-a-dedicated-reader-4288)
+- [How I Used Claude Code&#39;s Multi-Agent Orchestration and Laravel to Rebuild a Backend Overnight](https://dev.to/tessak22/how-i-used-claude-codes-multi-agent-orchestration-and-laravel-to-rebuild-a-backend-overnight-174)
+- [Bridge the gap between code and documentation without ever leaving your terminal.](https://dev.to/nik09/bridge-the-gap-between-code-and-documentation-without-ever-leaving-your-terminal-4l4b)
+- [The AI That Fixed My Life in Ethiopia: Meet Nura.](https://dev.to/zeshama/i-gave-my-terminal-an-ai-agent-named-nura-she-diagnoses-my-broken-ethiopian-internet-4fcg)
+- [Stop Writing Python Scripts Just to Convert JSON to CSV 🛑](https://dev.to/papiv-tools/stop-writing-python-scripts-just-to-convert-json-to-csv-2k5o)
 <!-- BLOG-POST-LIST:END -->
 
