@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Your Computer with GitHub - Part Five](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-five-4m4n)
-- [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://dev.to/paperium/chat-rec-towards-interactive-and-explainable-llms-augmented-recommender-system-4f6c)
-- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge &amp; Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11)
-- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6)
+- [Harnessing Gemini AI for Automatic Alt Text Generation: A PHP Developer&#39;s Guide](https://dev.to/proga100/harnessing-gemini-ai-for-automatic-alt-text-generation-a-php-developers-guide-1cg9)
+- [I Launched to Nobody](https://dev.to/strandnerd/i-launched-to-nobody-18a4)
+- [LeetCode: The “Contains Duplicate” Problem](https://dev.to/workspacedex/leetcode-the-contains-duplicate-problem-23m7)
+- [Making Amazon Bedrock AgentCore Gateway Accessible &lpar;Only Through CloudFront&rpar;](https://dev.to/alexeybaltacov/making-amazon-bedrock-agentcore-gateway-accessible-only-through-cloudfront-ha1)
 <!-- BLOG-POST-LIST:END -->
 
