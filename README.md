@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BlueVision : AI Workflow Intelligence for All Developers](https://dev.to/hey_atharva/bluevision-ai-workflow-intelligence-for-all-developers-e2a)
-- [How to Make Your GitHub README Stand Out with Dynamic Images](https://dev.to/mackmoneymaker/how-to-make-your-github-readme-stand-out-with-dynamic-images-2m13)
-- [Stop Alt-Tabbing. Meet Code Sensei: The AI Workflow Loop for Your Terminal.](https://dev.to/pramesh77/stop-alt-tabbing-meet-code-sensei-the-ai-workflow-loop-for-your-terminal-2d83)
-- [Weekly Challenge: Representing a celebrity](https://dev.to/simongreennet/weekly-challenge-representing-a-celebrity-1cfe)
+- [Why I Stopped Writing Markdown in VS Code &lpar;and What I Built Instead&rpar; 🚀](https://dev.to/vasughanta09/why-i-stopped-writing-markdown-in-vs-code-and-what-i-built-instead-2g8e)
+- [Transformers - Encoder Deep Dive - Part 2](https://dev.to/iamyuvaraj/transformers-encoder-deep-dive-part-2-3lig)
+- [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on)
+- [Daily Challenge #4 : The &quot;Infinite&quot; Scroll Illusion 🎞️](https://dev.to/bingkahu/daily-challenge-4-the-infinite-scroll-illusion-23nl)
 <!-- BLOG-POST-LIST:END -->
 
