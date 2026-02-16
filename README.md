@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beacon — Context-Aware UI Guidance Without Forced Conversation](https://dev.to/dyung/beacon-context-aware-ui-guidance-without-forced-conversation-pm8)
-- [NeuroMode — Cognitive Accessibility Layer for GitHub Copilot](https://dev.to/camilapydata/neuromode-cognitive-accessibility-layer-for-github-copilot-2j21)
-- [Please don&#39;t rely solely on &quot;black-box&quot; security tools.](https://dev.to/zerogru/please-dont-rely-solely-on-black-box-security-tools-5ei2)
-- [I Built Locked In: A Browser Extension to Stay Focused and Break the Dopamine Loop](https://dev.to/jamesrhurtado/i-built-locked-in-a-browser-extension-to-stay-focused-and-break-the-dopamine-loop-52en)
+- [AI Is More Like a Sloppy Junior Coder With Bad Memory](https://dev.to/canro91/ai-is-more-like-a-sloppy-junior-coder-with-bad-memory-3jkd)
+- [Solo Command:- A mindful standup tool built for solo developers](https://dev.to/lilymercy/solo-command-a-mindful-standup-tool-built-for-solo-developers-43o7)
+- [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and ModelPredictive Control](https://dev.to/paperium/highly-dynamic-quadruped-locomotion-via-whole-body-impulse-control-and-modelpredictive-control-267j)
+- [From CruiseControl to Cloud Native: My Accidental 20-Year DevOps Journey](https://dev.to/suresh_devops_ffa0728a190/from-cruisecontrol-to-cloud-native-my-accidental-20-year-devops-journey-2kgc)
 <!-- BLOG-POST-LIST:END -->
 
