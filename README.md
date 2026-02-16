@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried to reach China — Creating a Gitee account as a foreigner](https://dev.to/kako-jun/i-tried-to-reach-china-creating-a-gitee-account-as-a-foreigner-59ll)
-- [I built a fetch tool that only runs on RISC-V &lpar;riscfetch v2.2.0&rpar;](https://dev.to/kako-jun/i-built-a-fetch-tool-that-only-runs-on-risc-v-riscfetch-v220-9f1)
-- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
-- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
+- [Angular: HTTP Caching with RxJS shareReplay](https://dev.to/gramli/angular-http-caching-with-rxjs-sharereplay-3mm0)
+- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
+- [Build a Web Product from 0 to 1 &lpar;2&rpar;: Documentation and Tech Stack Choices](https://dev.to/stringzwb/build-a-web-product-from-0-to-1-2-documentation-and-tech-stack-choices-1hk8)
+- [How Limiting My Internet Usage Changed the Way I Work and Live](https://dev.to/geeksta/how-limiting-my-internet-usage-changed-the-way-i-work-and-live-1mbe)
 <!-- BLOG-POST-LIST:END -->
 
