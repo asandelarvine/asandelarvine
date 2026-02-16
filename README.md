@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing Gemini AI for Automatic Alt Text Generation: A PHP Developer&#39;s Guide](https://dev.to/proga100/harnessing-gemini-ai-for-automatic-alt-text-generation-a-php-developers-guide-1cg9)
-- [I Launched to Nobody](https://dev.to/strandnerd/i-launched-to-nobody-18a4)
-- [LeetCode: The “Contains Duplicate” Problem](https://dev.to/workspacedex/leetcode-the-contains-duplicate-problem-23m7)
-- [Making Amazon Bedrock AgentCore Gateway Accessible &lpar;Only Through CloudFront&rpar;](https://dev.to/alexeybaltacov/making-amazon-bedrock-agentcore-gateway-accessible-only-through-cloudfront-ha1)
+- [I Built This Because I Was Tired of Building Admin Panels](https://dev.to/homeless-coder/i-built-this-because-i-was-tired-of-building-admin-panels-4e97)
+- [How to Test a Retell Agent in CI with GitHub Actions](https://dev.to/pld/how-to-test-a-retell-agent-in-ci-with-github-actions-2cjb)
+- [Cursor Agent Mode Ignores .cursorrules — Use .mdc Instead](https://dev.to/nedcodes/cursor-agent-mode-ignores-cursorrules-use-mdc-instead-5flb)
+- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
 <!-- BLOG-POST-LIST:END -->
 
