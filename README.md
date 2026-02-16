@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is More Like a Sloppy Junior Coder With Bad Memory](https://dev.to/canro91/ai-is-more-like-a-sloppy-junior-coder-with-bad-memory-3jkd)
-- [Solo Command:- A mindful standup tool built for solo developers](https://dev.to/lilymercy/solo-command-a-mindful-standup-tool-built-for-solo-developers-43o7)
-- [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and ModelPredictive Control](https://dev.to/paperium/highly-dynamic-quadruped-locomotion-via-whole-body-impulse-control-and-modelpredictive-control-267j)
-- [From CruiseControl to Cloud Native: My Accidental 20-Year DevOps Journey](https://dev.to/suresh_devops_ffa0728a190/from-cruisecontrol-to-cloud-native-my-accidental-20-year-devops-journey-2kgc)
+- [BlueVision : AI Workflow Intelligence for All Developers](https://dev.to/hey_atharva/bluevision-ai-workflow-intelligence-for-all-developers-e2a)
+- [How to Make Your GitHub README Stand Out with Dynamic Images](https://dev.to/mackmoneymaker/how-to-make-your-github-readme-stand-out-with-dynamic-images-2m13)
+- [Stop Alt-Tabbing. Meet Code Sensei: The AI Workflow Loop for Your Terminal.](https://dev.to/pramesh77/stop-alt-tabbing-meet-code-sensei-the-ai-workflow-loop-for-your-terminal-2d83)
+- [Weekly Challenge: Representing a celebrity](https://dev.to/simongreennet/weekly-challenge-representing-a-celebrity-1cfe)
 <!-- BLOG-POST-LIST:END -->
 
