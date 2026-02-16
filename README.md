@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built This Because I Was Tired of Building Admin Panels](https://dev.to/homeless-coder/i-built-this-because-i-was-tired-of-building-admin-panels-4e97)
-- [How to Test a Retell Agent in CI with GitHub Actions](https://dev.to/pld/how-to-test-a-retell-agent-in-ci-with-github-actions-2cjb)
-- [Cursor Agent Mode Ignores .cursorrules — Use .mdc Instead](https://dev.to/nedcodes/cursor-agent-mode-ignores-cursorrules-use-mdc-instead-5flb)
-- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
+- [Microsoft Agent Framework: The Future of .NET AI Agents Has Arrived](https://dev.to/bspann/microsoft-agent-framework-the-future-of-net-ai-agents-has-arrived-22mf)
+- [EF Core HasQueryFilter II](https://dev.to/karenpayneoregon/ef-core-hasqueryfilter-ii-39gf)
+- [Which AI Model Should You Actually Use? A Simple Guide for 2026](https://dev.to/sindhu_murthy_628835a359d/which-ai-model-should-you-actually-use-a-simple-guide-for-2026-31d4)
+- [Python Internals: Generators &amp; Coroutines](https://dev.to/aykhlf_yassir/python-internals-generators-coroutines-11j2)
 <!-- BLOG-POST-LIST:END -->
 
