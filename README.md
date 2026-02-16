@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular: HTTP Caching with RxJS shareReplay](https://dev.to/gramli/angular-http-caching-with-rxjs-sharereplay-3mm0)
-- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
-- [Build a Web Product from 0 to 1 &lpar;2&rpar;: Documentation and Tech Stack Choices](https://dev.to/stringzwb/build-a-web-product-from-0-to-1-2-documentation-and-tech-stack-choices-1hk8)
-- [How Limiting My Internet Usage Changed the Way I Work and Live](https://dev.to/geeksta/how-limiting-my-internet-usage-changed-the-way-i-work-and-live-1mbe)
+- [anilogin: a reactive authentication ui with anime character gaze tracking](https://dev.to/iamovi/anilogin-a-reactive-authentication-ui-with-anime-character-gaze-tracking-1nb9)
+- [Designing agentic workflows: the core loop](https://dev.to/danielbutlerirl/designing-agentic-workflows-the-core-loop-166d)
+- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
+- [An Interactive Guide to Firebase Cloud Messaging⌨️🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/an-interactive-guide-to-firebase-cloud-messaging-4oe0)
 <!-- BLOG-POST-LIST:END -->
 
