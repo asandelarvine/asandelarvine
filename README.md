@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Inheritance in Java](https://dev.to/nanthini_ammu_ac02ad32802/types-of-inheritance-in-java-3l3d)
-- [AI Is Not the Metaverse, But the Dealer Is the Same](https://dev.to/alpe89/ai-is-not-the-metaverse-but-the-dealer-is-the-same-2mnj)
-- [I Built an MCP Server to Fix 21 Things LLMs Are Bad At](https://dev.to/chataclaw/i-built-an-mcp-server-to-fix-21-things-llms-are-bad-at-4c9l)
-- [Building a Multi-Agent Orchestration System with AG2 &lpar;Agentic framework&rpar; and Local LLMs](https://dev.to/chung_duy_51a346946b27a3d/building-a-multi-agent-orchestration-system-with-ag2-agentic-framework-and-local-llms-4d3g)
+- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
+- [Why We Built a Voice AI That Takes Real Actions on Websites &lpar;Not Just Chats&rpar;](https://dev.to/adarsh_kant_1d0455d2af438/why-we-built-a-voice-ai-that-takes-real-actions-on-websites-not-just-chats-7im)
+- [Why Healthcare Can&#39;t Afford to Ignore AI Automation in 2026](https://dev.to/neuramonks/why-healthcare-cant-afford-to-ignore-ai-automation-in-2026-c4b)
+- [Getting Your First Open Source Contributors](https://dev.to/bridget_amana/getting-your-first-open-source-contributors-5j)
 <!-- BLOG-POST-LIST:END -->
 
