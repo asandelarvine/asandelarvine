@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform on Windows 11: The &quot;Before You Start&quot; Guide](https://dev.to/ty_foster_394ea28f46a18ca/terraform-on-windows-11-the-before-you-start-guide-56pb)
-- [The Quiet Power—and Friction—of SharePoint Workflow in Low-Code Business Automation](https://dev.to/ngssolution23/the-quiet-power-and-friction-of-sharepoint-workflow-in-low-code-business-automation-3o0i)
-- [5 Prompt Engineering Mistakes That Are Costing You Time &lpar;And How to Fix Them&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-mistakes-that-are-costing-you-time-and-how-to-fix-them-5a91)
-- [Chain-of-Thought Prompting: Make AI Think Step by Step &lpar;With Examples&rpar;](https://dev.to/novaelvaris/chain-of-thought-prompting-make-ai-think-step-by-step-with-examples-13h1)
+- [I Built a Print-on-Demand Service That Ships in 48 Hours](https://dev.to/ezprintonline/i-built-a-print-on-demand-service-that-ships-in-24-hours-beh)
+- [How We Replaced MinIO with Garage for Self-Hosted S3 Storage](https://dev.to/alexneamtu/how-we-replaced-minio-with-garage-for-self-hosted-s3-storage-23f7)
+- [A General Optimization-based Framework for Local Odometry Estimation withMultiple Sensors](https://dev.to/paperium/a-general-optimization-based-framework-for-local-odometry-estimation-withmultiple-sensors-2f9j)
+- [Monitor RAG Data Source Quality](https://dev.to/sandipan_bhaumik_effe80b2/monitor-rag-data-source-quality-before-your-ai-hallucinates-1n7e)
 <!-- BLOG-POST-LIST:END -->
 
