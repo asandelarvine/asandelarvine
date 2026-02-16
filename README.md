@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Writing Markdown in VS Code &lpar;and What I Built Instead&rpar; 🚀](https://dev.to/vasughanta09/why-i-stopped-writing-markdown-in-vs-code-and-what-i-built-instead-2g8e)
-- [Transformers - Encoder Deep Dive - Part 2](https://dev.to/iamyuvaraj/transformers-encoder-deep-dive-part-2-3lig)
-- [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on)
-- [Daily Challenge #4 : The &quot;Infinite&quot; Scroll Illusion 🎞️](https://dev.to/bingkahu/daily-challenge-4-the-infinite-scroll-illusion-23nl)
+- [Types of Inheritance in Java](https://dev.to/nanthini_ammu_ac02ad32802/types-of-inheritance-in-java-3l3d)
+- [AI Is Not the Metaverse, But the Dealer Is the Same](https://dev.to/alpe89/ai-is-not-the-metaverse-but-the-dealer-is-the-same-2mnj)
+- [I Built an MCP Server to Fix 21 Things LLMs Are Bad At](https://dev.to/chataclaw/i-built-an-mcp-server-to-fix-21-things-llms-are-bad-at-4c9l)
+- [Building a Multi-Agent Orchestration System with AG2 &lpar;Agentic framework&rpar; and Local LLMs](https://dev.to/chung_duy_51a346946b27a3d/building-a-multi-agent-orchestration-system-with-ag2-agentic-framework-and-local-llms-4d3g)
 <!-- BLOG-POST-LIST:END -->
 
