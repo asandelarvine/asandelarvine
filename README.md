@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Agent Framework: The Future of .NET AI Agents Has Arrived](https://dev.to/bspann/microsoft-agent-framework-the-future-of-net-ai-agents-has-arrived-22mf)
-- [EF Core HasQueryFilter II](https://dev.to/karenpayneoregon/ef-core-hasqueryfilter-ii-39gf)
-- [Which AI Model Should You Actually Use? A Simple Guide for 2026](https://dev.to/sindhu_murthy_628835a359d/which-ai-model-should-you-actually-use-a-simple-guide-for-2026-31d4)
-- [Python Internals: Generators &amp; Coroutines](https://dev.to/aykhlf_yassir/python-internals-generators-coroutines-11j2)
+- [Terraform on Windows 11: The &quot;Before You Start&quot; Guide](https://dev.to/ty_foster_394ea28f46a18ca/terraform-on-windows-11-the-before-you-start-guide-56pb)
+- [The Quiet Power—and Friction—of SharePoint Workflow in Low-Code Business Automation](https://dev.to/ngssolution23/the-quiet-power-and-friction-of-sharepoint-workflow-in-low-code-business-automation-3o0i)
+- [5 Prompt Engineering Mistakes That Are Costing You Time &lpar;And How to Fix Them&rpar;](https://dev.to/novaelvaris/5-prompt-engineering-mistakes-that-are-costing-you-time-and-how-to-fix-them-5a91)
+- [Chain-of-Thought Prompting: Make AI Think Step by Step &lpar;With Examples&rpar;](https://dev.to/novaelvaris/chain-of-thought-prompting-make-ai-think-step-by-step-with-examples-13h1)
 <!-- BLOG-POST-LIST:END -->
 
