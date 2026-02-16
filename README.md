@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Self-Hosting and Open Source Matter More Than Ever 🎇](https://dev.to/giacomofolli/why-self-hosting-and-open-source-matter-more-than-ever-2lac)
-- [Welcome to dev.to](https://dev.to/tobias_lante/welcome-to-devto-292e)
-- [From Frustration to Automation: My Facebook Auto-Posting Journey](https://dev.to/bharath_kumar_30_vog/from-frustration-to-automation-my-facebook-auto-posting-journey-1en3)
-- [From Portfolio Widget to npm Package: Building a Spotify Now Playing Card](https://dev.to/basskibo/from-portfolio-widget-to-npm-package-building-a-spotify-now-playing-card-13p2)
+- [Connecting Your Computer with GitHub - Part Five](https://dev.to/theoriginalbpc/connecting-your-computer-with-github-part-five-4m4n)
+- [Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System](https://dev.to/paperium/chat-rec-towards-interactive-and-explainable-llms-augmented-recommender-system-4f6c)
+- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge &amp; Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11)
+- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6)
 <!-- BLOG-POST-LIST:END -->
 
