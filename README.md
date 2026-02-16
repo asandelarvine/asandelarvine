@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing agentic workflows: supplementary commands and pressure valves](https://dev.to/danielbutlerirl/designing-agentic-workflows-supplementary-commands-and-pressure-valves-l51)
-- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
-- [Cursor IDE + Vinted MCP: Code With Live Data](https://dev.to/kazkn/cursor-ide-vinted-mcp-code-with-live-data-hjf)
-- [5 Fragen, die jedes Webdesign-Projekt retten &lpar;und warum ich sie VOR dem ersten Pixel stelle&rpar;](https://dev.to/ivo_sa/5-fragen-die-jedes-webdesign-projekt-retten-und-warum-ich-sie-vor-dem-ersten-pixel-stelle-1pdb)
+- [Why Self-Hosting and Open Source Matter More Than Ever 🎇](https://dev.to/giacomofolli/why-self-hosting-and-open-source-matter-more-than-ever-2lac)
+- [Welcome to dev.to](https://dev.to/tobias_lante/welcome-to-devto-292e)
+- [From Frustration to Automation: My Facebook Auto-Posting Journey](https://dev.to/bharath_kumar_30_vog/from-frustration-to-automation-my-facebook-auto-posting-journey-1en3)
+- [From Portfolio Widget to npm Package: Building a Spotify Now Playing Card](https://dev.to/basskibo/from-portfolio-widget-to-npm-package-building-a-spotify-now-playing-card-13p2)
 <!-- BLOG-POST-LIST:END -->
 
