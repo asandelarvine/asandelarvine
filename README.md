@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
-- [Why We Built a Voice AI That Takes Real Actions on Websites &lpar;Not Just Chats&rpar;](https://dev.to/adarsh_kant_1d0455d2af438/why-we-built-a-voice-ai-that-takes-real-actions-on-websites-not-just-chats-7im)
-- [Why Healthcare Can&#39;t Afford to Ignore AI Automation in 2026](https://dev.to/neuramonks/why-healthcare-cant-afford-to-ignore-ai-automation-in-2026-c4b)
-- [Getting Your First Open Source Contributors](https://dev.to/bridget_amana/getting-your-first-open-source-contributors-5j)
+- [I tried to reach China — Creating a Gitee account as a foreigner](https://dev.to/kako-jun/i-tried-to-reach-china-creating-a-gitee-account-as-a-foreigner-59ll)
+- [I built a fetch tool that only runs on RISC-V &lpar;riscfetch v2.2.0&rpar;](https://dev.to/kako-jun/i-built-a-fetch-tool-that-only-runs-on-risc-v-riscfetch-v220-9f1)
+- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
+- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
 <!-- BLOG-POST-LIST:END -->
 
