@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Circumventing Internet Censorship: Protocols, Techniques, and the Arms Race](https://dev.to/shinomontaz/circumventing-internet-censorship-protocols-techniques-and-the-arms-race-20ff)
-- [Building EduCLI – Offline-First Learning Content Generator with GitHub Copilot CLI](https://dev.to/beneditotulio/building-educli-offline-first-learning-content-generator-with-github-copilot-cli-1gce)
-- [From Terminal to Desktop: How a Desktop App Uses Copilot CLI as Its Entire AI Layer](https://dev.to/tsadhoq/from-terminal-to-desktop-how-a-desktop-app-uses-copilot-cli-as-its-entire-ai-layer-bl9)
-- [Redacta: Elevating Video Content with GitHub Copilot CLI](https://dev.to/julcasans/redacta-elevating-video-content-with-github-copilot-cli-kc9)
+- [Beacon — Context-Aware UI Guidance Without Forced Conversation](https://dev.to/dyung/beacon-context-aware-ui-guidance-without-forced-conversation-pm8)
+- [NeuroMode — Cognitive Accessibility Layer for GitHub Copilot](https://dev.to/camilapydata/neuromode-cognitive-accessibility-layer-for-github-copilot-2j21)
+- [Please don&#39;t rely solely on &quot;black-box&quot; security tools.](https://dev.to/zerogru/please-dont-rely-solely-on-black-box-security-tools-5ei2)
+- [I Built Locked In: A Browser Extension to Stay Focused and Break the Dopamine Loop](https://dev.to/jamesrhurtado/i-built-locked-in-a-browser-extension-to-stay-focused-and-break-the-dopamine-loop-52en)
 <!-- BLOG-POST-LIST:END -->
 
