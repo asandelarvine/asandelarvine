@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Relational composition and Codd&#39;s &quot;connection trap&quot; in PostgreSQL and MongoDB](https://dev.to/franckpachot/relational-composition-and-codds-connection-trap-in-postgresql-and-mongodb-4k34)
-- [Pair Programming in the AI Era](https://dev.to/carl_hembrough_4ff217c2f1/pair-programming-in-the-ai-era-52bb)
-- [I Built an MCP Server That Lets AI Agents like Claude Code Use Interactive Terminals — Here&#39;s Why It Matters](https://dev.to/sleepycoder21/i-built-an-mcp-server-that-lets-ai-agents-like-claude-code-use-interactive-terminals-heres-why-3ah5)
-- [How to Deploy Voice AI Agents Using Railway: Real Insights &amp; Tips](https://dev.to/callstacktech/how-to-deploy-voice-ai-agents-using-railway-real-insights-tips-1fd2)
+- [Designing agentic workflows: supplementary commands and pressure valves](https://dev.to/danielbutlerirl/designing-agentic-workflows-supplementary-commands-and-pressure-valves-l51)
+- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
+- [Cursor IDE + Vinted MCP: Code With Live Data](https://dev.to/kazkn/cursor-ide-vinted-mcp-code-with-live-data-hjf)
+- [5 Fragen, die jedes Webdesign-Projekt retten &lpar;und warum ich sie VOR dem ersten Pixel stelle&rpar;](https://dev.to/ivo_sa/5-fragen-die-jedes-webdesign-projekt-retten-und-warum-ich-sie-vor-dem-ersten-pixel-stelle-1pdb)
 <!-- BLOG-POST-LIST:END -->
 
