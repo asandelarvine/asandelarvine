@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Manual Quotes: Meet the Agentic Workflow for Kenyan Freelancers](https://dev.to/brykoech254/stop-building-manual-quotes-meet-the-agentic-workflow-for-kenyan-freelancers-l6n)
-- [Understanding `__slots__` in Python: Memory Optimization and Design Trade-offs](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87)
-- [Hoisting in let and const : Understanding the Temporal Dead Zone](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-let-and-const-understanding-the-temporal-dead-zone-2a90)
-- [How do you actually get people to notice your side projects?](https://dev.to/ben_thomison_42031c7bd6e9/how-do-you-actually-get-people-to-notice-your-side-projects-3gpe)
+- [AI Agents Can&#39;t Mark Their Own Homework [Case Study]](https://dev.to/dimwiddle/ai-agents-cant-mark-their-own-homework-case-study-26mk)
+- [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)
+- [Beyond RAG: Building a Logic-Grounded AI Host with a Dual-Layer Architecture](https://dev.to/kuboshiori/beyond-rag-building-a-logic-grounded-ai-host-with-a-dual-layer-architecture-41f7)
+- [Evoluindo a arquitetura do PsyHub com Monorepo + Nx + Module Federation](https://dev.to/gabrielluizs1996/evoluindo-a-arquitetura-do-psyhub-com-monorepo-nx-module-federation-2mkl)
 <!-- BLOG-POST-LIST:END -->
 
