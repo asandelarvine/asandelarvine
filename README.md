@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimten: a tiny agent loop for Node.js &lpar;without the framework weight&rpar;](https://dev.to/sayanriju/kimten-a-tiny-agent-loop-for-nodejs-without-the-framework-weight-4d29)
-- [Data Structures &amp; Algorithms &lpar;DSA&rpar; in Java](https://dev.to/krishnarao_inturi_75fb929/data-structures-algorithms-dsa-in-java-lel)
-- [Choosing a PDF SDK: All the Features You Need, Without the Performance Tax](https://dev.to/giacomo_verdi_5c597d69759/choosing-a-pdf-sdk-all-the-features-you-need-without-the-performance-tax-4l62)
-- [Printable Route Directions with Geoapify: Complete Demo Walkthrough](https://dev.to/geoapify-maps-api/printable-route-directions-with-geoapify-complete-demo-walkthrough-2keh)
+- [How to Handle Duplicate Webhook Events in ASP.NET Core &lpar;Idempotency Guide&rpar;](https://dev.to/ramapratheeba/how-to-handle-duplicate-webhook-events-in-aspnet-core-idempotency-guide-4kj6)
+- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
+- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
+- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
 <!-- BLOG-POST-LIST:END -->
 
