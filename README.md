@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Duplicate Webhook Events in ASP.NET Core &lpar;Idempotency Guide&rpar;](https://dev.to/ramapratheeba/how-to-handle-duplicate-webhook-events-in-aspnet-core-idempotency-guide-4kj6)
-- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
-- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
-- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
+- [Beyond the Prompt: An Explorer’s Guide to Claude Skills &lpar;Part 1&rpar;](https://dev.to/supreet_s/beyond-the-prompt-an-explorers-guide-to-claude-skills-part-1-gon)
+- [This command creates a VM on any cloud: cloudbrew create vm](https://dev.to/awasthi577/loudbrew-one-command-any-cloud-no-headaches-1n7m)
+- [5 Advanced JS Patterns to Level Up Your Senior Engineering Game](https://dev.to/dimitrisk_cyclopt/5-advanced-js-patterns-to-level-up-your-senior-engineering-game-18ce)
+- [If Your AI Product Can’t Handle Deletion, It Can’t Handle Monetization](https://dev.to/cizo/if-your-ai-product-cant-handle-deletion-it-cant-handle-monetization-46ee)
 <!-- BLOG-POST-LIST:END -->
 
