@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NoamVC v0.3 — We deleted 3,500 lines and the app got better](https://dev.to/steven_hans_b26a962c69563/noamvc-v03-we-deleted-3500-lines-and-the-app-got-better-4nlb)
-- [DAY6 -Event-driven](https://dev.to/maso_eb42159b65f6592/day6-event-driven-2ond)
-- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
-- [Kollabe vs EasyRetro: two free retro tools, very different bets 🏆](https://dev.to/kelly-app/kollabe-vs-easyretro-two-free-retro-tools-very-different-bets-17i2)
+- [Introduction to Selenium Java and Playwright: First Session](https://dev.to/scindia_bethuraj_7ffec81b/introduction-to-selenium-java-and-playwright-first-session-41hd)
+- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
+- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
+- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
 <!-- BLOG-POST-LIST:END -->
 
