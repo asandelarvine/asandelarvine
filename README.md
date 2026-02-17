@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
-- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
-- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
-- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
+- [slice vs splice vs split — The Way I Finally Understood Them](https://dev.to/manisha_batesar/slice-vs-splice-vs-split-the-way-i-finally-understood-them-2lh9)
+- [Copilot CLI Weekly: VS Code Integration and the Agentic Workflows Era](https://dev.to/htekdev/copilot-cli-weekly-vs-code-integration-and-the-agentic-workflows-era-lh8)
+- [AgentCafe: A Multiplayer Space for AI Agents](https://dev.to/devfrendme/agentcafe-a-multiplayer-space-for-ai-agents-7og)
+- [Writing Brain-Friendly Code: Principles of Extraction and Abstraction](https://dev.to/kohii/writing-brain-friendly-code-principles-of-extraction-and-abstraction-4p29)
 <!-- BLOG-POST-LIST:END -->
 
