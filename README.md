@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [slice vs splice vs split — The Way I Finally Understood Them](https://dev.to/manisha_batesar/slice-vs-splice-vs-split-the-way-i-finally-understood-them-2lh9)
-- [Copilot CLI Weekly: VS Code Integration and the Agentic Workflows Era](https://dev.to/htekdev/copilot-cli-weekly-vs-code-integration-and-the-agentic-workflows-era-lh8)
-- [AgentCafe: A Multiplayer Space for AI Agents](https://dev.to/devfrendme/agentcafe-a-multiplayer-space-for-ai-agents-7og)
-- [Writing Brain-Friendly Code: Principles of Extraction and Abstraction](https://dev.to/kohii/writing-brain-friendly-code-principles-of-extraction-and-abstraction-4p29)
+- [JSON to Mongoose Schema Generator – Complete 2026 Guide + Tool](https://dev.to/sam_th/json-to-mongoose-schema-generator-complete-2026-guide-tool-5d46)
+- [Stop Studying for AWS MLA-C01 Wrong — The SageMaker Trap Nobody Warns You About](https://dev.to/andy_youtube_371fe0c1a37e/stop-studying-for-aws-mla-c01-wrong-the-sagemaker-trap-nobody-warns-you-about-2o9n)
+- [How to Install and Configure PicoClaw on the Cheapest VPS](https://dev.to/cucoleadan/how-to-install-and-configure-picoclaw-on-the-cheapest-vps-1l73)
+- [Building NalamMesh DPI: A Disaster-Ready Healthcare App with 2G SMS Fallback &lpar;Node.js&rpar;](https://dev.to/tamilmanib2007/building-nalammesh-dpi-a-disaster-ready-healthcare-app-with-2g-sms-fallback-nodejs-c59)
 <!-- BLOG-POST-LIST:END -->
 
