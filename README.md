@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs with NeuroLink and Ollama: Complete Guide](https://dev.to/neurolink/running-local-llms-with-neurolink-and-ollama-complete-guide-447e)
-- [Stop Sorting Just to Check Order: 5 Fast O&lpar;n&rpar; Methods in Python](https://dev.to/emmimal_alexander_3be8cc7/stop-sorting-just-to-check-order-5-fast-on-methods-in-python-4da0)
-- [Day 8 – Connecting All the Dots &lpar;Frontend Integration &amp; Polish&rpar;](https://dev.to/imsushant12/day-8-connecting-all-the-dots-frontend-integration-polish-1j0c)
-- [Building a Modern Full-Stack Application: Architecture First](https://dev.to/purav_patel_13/building-a-modern-full-stack-application-architecture-first-4b6p)
+- [Building a Cloud-Native Agentic AI Research App: A Comprehensive Deep Dive into pgvector, Remix, and Multimodal LLMs](https://dev.to/rpi1337/building-a-cloud-native-agentic-ai-research-app-a-comprehensive-deep-dive-into-pgvector-remix-mdm)
+- [How to Automate Security Audits with AI: A Complete Guide for DevOps Teams](https://dev.to/archibaldtitan/how-to-automate-security-audits-with-ai-a-complete-guide-for-devops-teams-1co0)
+- [Enforcing Your Spacing Standards with Rhythmguard &lpar;A Custom Stylelint Plugin&rpar;](https://dev.to/petrilahdelma/enforcing-your-spacing-standards-with-rhythmguard-a-custom-stylelint-plugin-1ojj)
+- [Why AI Is Unlikely to Be a Game-Changer in African Economies](https://dev.to/amonoff/why-ai-is-unlikely-to-be-a-game-changer-in-african-economies-4g38)
 <!-- BLOG-POST-LIST:END -->
 
