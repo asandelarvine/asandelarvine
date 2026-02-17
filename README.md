@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud-Native Agentic AI Research App: A Comprehensive Deep Dive into pgvector, Remix, and Multimodal LLMs](https://dev.to/rpi1337/building-a-cloud-native-agentic-ai-research-app-a-comprehensive-deep-dive-into-pgvector-remix-mdm)
-- [How to Automate Security Audits with AI: A Complete Guide for DevOps Teams](https://dev.to/archibaldtitan/how-to-automate-security-audits-with-ai-a-complete-guide-for-devops-teams-1co0)
-- [Enforcing Your Spacing Standards with Rhythmguard &lpar;A Custom Stylelint Plugin&rpar;](https://dev.to/petrilahdelma/enforcing-your-spacing-standards-with-rhythmguard-a-custom-stylelint-plugin-1ojj)
-- [Why AI Is Unlikely to Be a Game-Changer in African Economies](https://dev.to/amonoff/why-ai-is-unlikely-to-be-a-game-changer-in-african-economies-4g38)
+- [Kimten: a tiny agent loop for Node.js &lpar;without the framework weight&rpar;](https://dev.to/sayanriju/kimten-a-tiny-agent-loop-for-nodejs-without-the-framework-weight-4d29)
+- [Data Structures &amp; Algorithms &lpar;DSA&rpar; in Java](https://dev.to/krishnarao_inturi_75fb929/data-structures-algorithms-dsa-in-java-lel)
+- [Choosing a PDF SDK: All the Features You Need, Without the Performance Tax](https://dev.to/giacomo_verdi_5c597d69759/choosing-a-pdf-sdk-all-the-features-you-need-without-the-performance-tax-4l62)
+- [Printable Route Directions with Geoapify: Complete Demo Walkthrough](https://dev.to/geoapify-maps-api/printable-route-directions-with-geoapify-complete-demo-walkthrough-2keh)
 <!-- BLOG-POST-LIST:END -->
 
