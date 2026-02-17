@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Can&#39;t Mark Their Own Homework [Case Study]](https://dev.to/dimwiddle/ai-agents-cant-mark-their-own-homework-case-study-26mk)
-- [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)
-- [Beyond RAG: Building a Logic-Grounded AI Host with a Dual-Layer Architecture](https://dev.to/kuboshiori/beyond-rag-building-a-logic-grounded-ai-host-with-a-dual-layer-architecture-41f7)
-- [Evoluindo a arquitetura do PsyHub com Monorepo + Nx + Module Federation](https://dev.to/gabrielluizs1996/evoluindo-a-arquitetura-do-psyhub-com-monorepo-nx-module-federation-2mkl)
+- [The WebMCP False Economy: Why We Don&#39;t Need Another Layer of Abstraction](https://dev.to/manveer_chawla_64a7283d5a/the-webmcp-false-economy-why-we-dont-need-another-layer-of-abstraction-566e)
+- [Spotify Stream Bot Explained: Open-Source GitHub Repo for Streaming Automation Research](https://dev.to/bitbash/spotify-stream-bot-explained-open-source-github-repo-for-streaming-automation-research-20do)
+- [I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals &lpar;Even 10+ Hour Videos&rpar;](https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)
 <!-- BLOG-POST-LIST:END -->
 
