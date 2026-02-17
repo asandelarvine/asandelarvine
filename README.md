@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Liferay DXP with Microsoft Entra ID &lpar;Azure AD&rpar; SAML 2.0 SSO: A Step-by-Step Integration Guide](https://dev.to/nirvana_lab/configuring-liferay-dxp-with-microsoft-entra-id-azure-ad-saml-20-sso-a-step-by-step-integration-3imb)
-- [Adding Web Analytics on Vercel Is Easier Than Ever &lpar;Free &amp; Built-In&rpar;](https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl)
-- [The Great Decoupling: Is Headless WordPress Right for Your Next Project?](https://dev.to/highcenburg/the-great-decoupling-is-headless-wordpress-right-for-your-next-project-1i91)
-- [Why Developers Hate Agile: Top Real-World Reasons](https://dev.to/siva_velu_b39044a1dd3b732/why-developers-hate-agile-top-real-world-reasons-4h4k)
+- [Running Local LLMs with NeuroLink and Ollama: Complete Guide](https://dev.to/neurolink/running-local-llms-with-neurolink-and-ollama-complete-guide-447e)
+- [Stop Sorting Just to Check Order: 5 Fast O&lpar;n&rpar; Methods in Python](https://dev.to/emmimal_alexander_3be8cc7/stop-sorting-just-to-check-order-5-fast-on-methods-in-python-4da0)
+- [Day 8 – Connecting All the Dots &lpar;Frontend Integration &amp; Polish&rpar;](https://dev.to/imsushant12/day-8-connecting-all-the-dots-frontend-integration-polish-1j0c)
+- [Building a Modern Full-Stack Application: Architecture First](https://dev.to/purav_patel_13/building-a-modern-full-stack-application-architecture-first-4b6p)
 <!-- BLOG-POST-LIST:END -->
 
