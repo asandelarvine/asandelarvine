@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Trick 7 AI Models with Fake Facts. They Didn&#39;t Fall for It. &lpar;That&#39;s a Problem.&rpar;](https://dev.to/ambalogun/i-tried-to-trick-7-ai-models-with-fake-facts-they-didnt-fall-for-it-thats-a-problem-58m8)
-- [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
-- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
-- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
+- [CryptoNow — Accept crypto payments to your own wallet](https://dev.to/cryptonow/cryptonow-accept-crypto-payments-to-your-own-wallet-ne4)
+- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
+- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
+- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
 <!-- BLOG-POST-LIST:END -->
 
