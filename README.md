@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The WebMCP False Economy: Why We Don&#39;t Need Another Layer of Abstraction](https://dev.to/manveer_chawla_64a7283d5a/the-webmcp-false-economy-why-we-dont-need-another-layer-of-abstraction-566e)
-- [Spotify Stream Bot Explained: Open-Source GitHub Repo for Streaming Automation Research](https://dev.to/bitbash/spotify-stream-bot-explained-open-source-github-repo-for-streaming-automation-research-20do)
-- [I Built a Chrome Extension That Captures YouTube Screenshots at Custom Intervals &lpar;Even 10+ Hour Videos&rpar;](https://dev.to/akshit_suthar/i-built-a-chrome-extension-that-captures-youtube-screenshots-at-custom-intervals-even-10-hour-2gjp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)
+- [NoamVC v0.3 — We deleted 3,500 lines and the app got better](https://dev.to/steven_hans_b26a962c69563/noamvc-v03-we-deleted-3500-lines-and-the-app-got-better-4nlb)
+- [DAY6 -Event-driven](https://dev.to/maso_eb42159b65f6592/day6-event-driven-2ond)
+- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
+- [Kollabe vs EasyRetro: two free retro tools, very different bets 🏆](https://dev.to/kelly-app/kollabe-vs-easyretro-two-free-retro-tools-very-different-bets-17i2)
 <!-- BLOG-POST-LIST:END -->
 
