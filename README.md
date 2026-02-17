@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Experience &lpar;DevEx&rpar; in 2026](https://dev.to/austinwdigital/developer-experience-devex-in-2026-the-real-competitive-advantage-2996)
-- [You Are a &lpar;Mostly&rpar; Helpful Assistant](https://dev.to/jtvanwage/you-are-a-mostly-helpful-assistant-he2)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4o7h)
-- [Balancing Creative Identity with Senior Engineering Responsibilities](https://dev.to/austinwdigital/balancing-creative-identity-with-senior-level-engineering-responsibilities-4e53)
+- [Configuring Liferay DXP with Microsoft Entra ID &lpar;Azure AD&rpar; SAML 2.0 SSO: A Step-by-Step Integration Guide](https://dev.to/nirvana_lab/configuring-liferay-dxp-with-microsoft-entra-id-azure-ad-saml-20-sso-a-step-by-step-integration-3imb)
+- [Adding Web Analytics on Vercel Is Easier Than Ever &lpar;Free &amp; Built-In&rpar;](https://dev.to/shofol/adding-web-analytics-on-vercel-is-easier-than-ever-free-built-in-57bl)
+- [The Great Decoupling: Is Headless WordPress Right for Your Next Project?](https://dev.to/highcenburg/the-great-decoupling-is-headless-wordpress-right-for-your-next-project-1i91)
+- [Why Developers Hate Agile: Top Real-World Reasons](https://dev.to/siva_velu_b39044a1dd3b732/why-developers-hate-agile-top-real-world-reasons-4h4k)
 <!-- BLOG-POST-LIST:END -->
 
