@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Prompt: An Explorer’s Guide to Claude Skills &lpar;Part 1&rpar;](https://dev.to/supreet_s/beyond-the-prompt-an-explorers-guide-to-claude-skills-part-1-gon)
-- [This command creates a VM on any cloud: cloudbrew create vm](https://dev.to/awasthi577/loudbrew-one-command-any-cloud-no-headaches-1n7m)
-- [5 Advanced JS Patterns to Level Up Your Senior Engineering Game](https://dev.to/dimitrisk_cyclopt/5-advanced-js-patterns-to-level-up-your-senior-engineering-game-18ce)
-- [If Your AI Product Can’t Handle Deletion, It Can’t Handle Monetization](https://dev.to/cizo/if-your-ai-product-cant-handle-deletion-it-cant-handle-monetization-46ee)
+- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
+- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
+- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
+- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
 <!-- BLOG-POST-LIST:END -->
 
