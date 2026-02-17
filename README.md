@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Print-on-Demand Service That Ships in 48 Hours](https://dev.to/ezprintonline/i-built-a-print-on-demand-service-that-ships-in-24-hours-beh)
-- [How We Replaced MinIO with Garage for Self-Hosted S3 Storage](https://dev.to/alexneamtu/how-we-replaced-minio-with-garage-for-self-hosted-s3-storage-23f7)
-- [A General Optimization-based Framework for Local Odometry Estimation withMultiple Sensors](https://dev.to/paperium/a-general-optimization-based-framework-for-local-odometry-estimation-withmultiple-sensors-2f9j)
-- [Monitor RAG Data Source Quality](https://dev.to/sandipan_bhaumik_effe80b2/monitor-rag-data-source-quality-before-your-ai-hallucinates-1n7e)
+- [Developer Experience &lpar;DevEx&rpar; in 2026](https://dev.to/austinwdigital/developer-experience-devex-in-2026-the-real-competitive-advantage-2996)
+- [You Are a &lpar;Mostly&rpar; Helpful Assistant](https://dev.to/jtvanwage/you-are-a-mostly-helpful-assistant-he2)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4o7h)
+- [Balancing Creative Identity with Senior Engineering Responsibilities](https://dev.to/austinwdigital/balancing-creative-identity-with-senior-level-engineering-responsibilities-4e53)
 <!-- BLOG-POST-LIST:END -->
 
