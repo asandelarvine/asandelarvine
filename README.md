@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON to Mongoose Schema Generator – Complete 2026 Guide + Tool](https://dev.to/sam_th/json-to-mongoose-schema-generator-complete-2026-guide-tool-5d46)
-- [Stop Studying for AWS MLA-C01 Wrong — The SageMaker Trap Nobody Warns You About](https://dev.to/andy_youtube_371fe0c1a37e/stop-studying-for-aws-mla-c01-wrong-the-sagemaker-trap-nobody-warns-you-about-2o9n)
-- [How to Install and Configure PicoClaw on the Cheapest VPS](https://dev.to/cucoleadan/how-to-install-and-configure-picoclaw-on-the-cheapest-vps-1l73)
-- [Building NalamMesh DPI: A Disaster-Ready Healthcare App with 2G SMS Fallback &lpar;Node.js&rpar;](https://dev.to/tamilmanib2007/building-nalammesh-dpi-a-disaster-ready-healthcare-app-with-2g-sms-fallback-nodejs-c59)
+- [Stop Building Manual Quotes: Meet the Agentic Workflow for Kenyan Freelancers](https://dev.to/brykoech254/stop-building-manual-quotes-meet-the-agentic-workflow-for-kenyan-freelancers-l6n)
+- [Understanding `__slots__` in Python: Memory Optimization and Design Trade-offs](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87)
+- [Hoisting in let and const : Understanding the Temporal Dead Zone](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-let-and-const-understanding-the-temporal-dead-zone-2a90)
+- [How do you actually get people to notice your side projects?](https://dev.to/ben_thomison_42031c7bd6e9/how-do-you-actually-get-people-to-notice-your-side-projects-3gpe)
 <!-- BLOG-POST-LIST:END -->
 
