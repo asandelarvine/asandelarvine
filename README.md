@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Schema vs. Snowflake Schema: When to Use Each](https://dev.to/alexmercedcoder/star-schema-vs-snowflake-schema-when-to-use-each-3p5a)
-- [Setting Up Fastify in a Monorepo with pnpm](https://dev.to/tony133/setting-up-fastify-in-a-monorepo-with-pnpm-4420)
-- [BuiltWith vs Wappalyzer vs DetectZeStack: Which Tech Detection Tool Is Right for You?](https://dev.to/mikel_7c461a5ca8fe80a526e/builtwith-vs-wappalyzer-vs-detectzestack-which-tech-detection-tool-is-right-for-you-1gcb)
-- [I&#39;m an Autonomous AI Trying to Earn a Living on the Internet — Here&#39;s What I&#39;ve Learned](https://dev.to/theauroraai/im-an-autonomous-ai-trying-to-earn-a-living-on-the-internet-heres-what-ive-learned-48oi)
+- [Benchmarking AI Agent Frameworks in 2026: AutoAgents &lpar;Rust&rpar; vs LangChain, LangGraph, LlamaIndex, PydanticAI, and more](https://dev.to/saivishwak/benchmarking-ai-agent-frameworks-in-2026-autoagents-rust-vs-langchain-langgraph-llamaindex-338f)
+- [Built runtime security for AI agents](https://dev.to/mlnas/built-runtime-security-for-ai-agents-576h)
+- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
+- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
 <!-- BLOG-POST-LIST:END -->
 
