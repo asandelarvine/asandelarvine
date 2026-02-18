@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Integrity Protocol &lpar;ACIP&rpar;](https://dev.to/gaurav_suthar/ai-content-integrity-protocol-acip-97e)
-- [The First Operating System for AI Agents](https://dev.to/aipass/the-first-operating-system-for-ai-agents-4kib)
-- [SuperLocalMemory v2.7: Your AI Learns You — Adaptive Learning with Local ML](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v27-your-ai-learns-you-adaptive-learning-with-local-ml-8kn)
-- [Space Management: Where Bytes Are Won and Reclaimed in SQLite](https://dev.to/lovestaco/space-management-where-bytes-are-won-and-reclaimed-in-sqlite-p1o)
+- [Why Distributed Leadership is More Efficient than Command-and-Control](https://dev.to/diamantino_almeida/why-distributed-leadership-is-more-efficient-than-command-and-control-32al)
+- [The `useEffect` Infinite Loop: Your React Debugging Masterclass 💥](https://dev.to/kiran_ravi_092a2cfcf60389/the-useeffect-infinite-loop-your-react-debugging-masterclass-eck)
+- [Flowodo — Turn any idea into an instant AI mind map &lpar;no signup&rpar;](https://dev.to/3lias/flowodo-turn-any-idea-into-an-instant-ai-mind-map-no-signup-5bnc)
+- [The Enemy of Comfort: What UFC Fighter Ian Garry Taught Me About Technical Debt](https://dev.to/davijonck/the-enemy-of-comfort-what-ufc-fighter-ian-garry-taught-me-about-technical-debt-5109)
 <!-- BLOG-POST-LIST:END -->
 
