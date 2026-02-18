@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every AI Agent Framework Trusts the Agent. That&#39;s the Problem.](https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa)
-- [Docker Explained: A Beginner-Friendly Introduction to Containerization &lpar;2025–2026&rpar;](https://dev.to/mukhil_77/docker-explained-a-beginner-friendly-introduction-to-containerization-2025-2026-lcn)
-- [Provide storage for the public website.](https://dev.to/rahimah_dev/provide-storage-for-the-public-website-356l)
-- [How To Set Up a UPS on Windows 11](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-windows-11-1p33)
+- [I Run a Travel SaaS With 12 AI Agents and 48 Cron Jobs on OpenClaw. Here&#39;s My Exact Setup.](https://dev.to/egorceo/i-run-a-travel-saas-with-12-ai-agents-and-48-cron-jobs-on-openclaw-heres-my-exact-setup-264h)
+- [dlt MCP Server for Popular IDEs](https://dev.to/pizofreude/dlt-mcp-server-for-popular-ides-2e9b)
+- [Building a Slitherlink Puzzle Engine in Rust + WebAssembly](https://dev.to/ansonchan/building-a-slitherlink-puzzle-engine-in-rust-webassembly-3ebc)
+- [Entropy-based Pruning of Backoff Language Models](https://dev.to/paperium/entropy-based-pruning-of-backoff-language-models-3652)
 <!-- BLOG-POST-LIST:END -->
 
