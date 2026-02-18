@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [4-Platform Blog Auto-Publishing: Fully Automated Pipeline](https://dev.to/linou518/4-platform-blog-auto-publishing-fully-automated-pipeline-18e0)
-- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-1lo5)
-- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-3nbd)
-- [Agent Message Bus: Communication Infrastructure for 16 AI Agents](https://dev.to/linou518/agent-message-bus-communication-infrastructure-for-16-ai-agents-18af)
+- [Every AI Agent Framework Trusts the Agent. That&#39;s the Problem.](https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa)
+- [Docker Explained: A Beginner-Friendly Introduction to Containerization &lpar;2025–2026&rpar;](https://dev.to/mukhil_77/docker-explained-a-beginner-friendly-introduction-to-containerization-2025-2026-lcn)
+- [Provide storage for the public website.](https://dev.to/rahimah_dev/provide-storage-for-the-public-website-356l)
+- [How To Set Up a UPS on Windows 11](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-windows-11-1p33)
 <!-- BLOG-POST-LIST:END -->
 
