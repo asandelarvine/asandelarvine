@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking AI Agent Frameworks in 2026: AutoAgents &lpar;Rust&rpar; vs LangChain, LangGraph, LlamaIndex, PydanticAI, and more](https://dev.to/saivishwak/benchmarking-ai-agent-frameworks-in-2026-autoagents-rust-vs-langchain-langgraph-llamaindex-338f)
-- [Built runtime security for AI agents](https://dev.to/mlnas/built-runtime-security-for-ai-agents-576h)
-- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
-- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
+- [How I Built a Synthetic Goat Scream Pipeline &lpar;And the Tools Along the Way&rpar;](https://dev.to/aimatey/how-i-built-a-synthetic-goat-scream-pipeline-and-the-tools-along-the-way-1aln)
+- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
+- [The Complete Guide to Tech Job Search in 2026 &lpar;Tools, Strategy, and Timeline&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp)
+- [Introducing muxtree: Dead-Simple Worktree + Tmux Sessions for AI Coding](https://dev.to/b-d055/introducing-muxtree-dead-simple-worktree-tmux-sessions-for-ai-coding-2kf2)
 <!-- BLOG-POST-LIST:END -->
 
