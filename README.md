@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Kiro Team Subscription Using AWS IAM Identity Center!](https://dev.to/bhatiagirish/how-to-set-up-a-kiro-team-subscription-using-aws-iam-identity-center-22hk)
-- [Organize your files in seconds with this node CLI tool](https://dev.to/christian_rincon/organize-your-files-in-seconds-with-this-node-cli-tool-859)
-- [Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute](https://dev.to/paudang/stop-wasting-time-on-boilerplate-generate-production-ready-nodejs-apps-in-1-minute-n1p)
-- [Introducing TajikGPT — The First AI Platform from Tajikistan 🇹🇯](https://dev.to/soul_muxammad/introducing-tajikgpt-the-first-ai-platform-from-tajikistan-3g19)
+- [Beyond Assistance: The Executive Power of &quot;Agent Plugins for AWS&quot;](https://dev.to/aws-builders/beyond-assistance-the-executive-power-of-agent-plugins-for-aws-5hnh)
+- [How I Set Up an AI Agent That Runs 24/7 on a Mac Mini &lpar;OpenClaw + Cron Jobs&rpar;](https://dev.to/maxxmini/how-i-set-up-an-ai-agent-that-runs-247-on-a-mac-mini-openclaw-cron-jobs-5g72)
+- [Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#39;s Take](https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6)
+- [I Built a Free VIN Decoder That Uses the NHTSA API - Here is How](https://dev.to/subprime2010/i-built-a-free-vin-decoder-that-uses-the-nhtsa-api-here-is-how-165l)
 <!-- BLOG-POST-LIST:END -->
 
