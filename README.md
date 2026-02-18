@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Assistance: The Executive Power of &quot;Agent Plugins for AWS&quot;](https://dev.to/aws-builders/beyond-assistance-the-executive-power-of-agent-plugins-for-aws-5hnh)
-- [How I Set Up an AI Agent That Runs 24/7 on a Mac Mini &lpar;OpenClaw + Cron Jobs&rpar;](https://dev.to/maxxmini/how-i-set-up-an-ai-agent-that-runs-247-on-a-mac-mini-openclaw-cron-jobs-5g72)
-- [Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#39;s Take](https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6)
-- [I Built a Free VIN Decoder That Uses the NHTSA API - Here is How](https://dev.to/subprime2010/i-built-a-free-vin-decoder-that-uses-the-nhtsa-api-here-is-how-165l)
+- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
+- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
+- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
+- [[Boost]](https://dev.to/willzmu/-3j8n)
 <!-- BLOG-POST-LIST:END -->
 
