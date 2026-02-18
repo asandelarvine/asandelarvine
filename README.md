@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Software Engineering Dead? 2026 Complete Career Guide](https://dev.to/dev_narratives_023afd008e/is-software-engineering-dead-2026-complete-career-guide-4588)
-- [A Guide To Using The Interswitch API Marketplace](https://dev.to/chizurum/a-guide-to-using-the-interswitch-api-marketplace-m9n)
-- [Stop Looking at Documentation - If You Use an MCP Server](https://dev.to/thecoder93/stop-looking-at-documentation-if-you-use-an-mcp-server-512b)
-- [How I Vibecoded a Sovereign Agent &lpar;And Accidentally Built an Enterprise Architecture&rpar;](https://dev.to/nemesiswave/how-i-vibecoded-a-sovereign-agent-and-accidentally-built-an-enterprise-architecture-1nok)
+- [Agentic AI Security Series &lpar;Part 3&rpar;: A Layered Security Model That Scales](https://dev.to/nagasatish_chilakamarti_2/agentic-ai-security-series-part-3-a-layered-security-model-that-scales-2faa)
+- [How I Automated SEO-Ready Blogs Across Next.js and Laravel Using a Custom &quot;Shadcn-Style&quot; Library](https://dev.to/talhakazmi1/how-i-automated-seo-ready-blogs-across-nextjs-and-laravel-using-a-custom-shadcn-style-library-1j27)
+- [Why I Chose Astro Over Next.js for a Marketing Site And Cut FCP from 2s to 0.2s](https://dev.to/9thquadrant/why-i-chose-astro-over-nextjs-for-a-marketing-site-and-cut-fcp-from-2s-to-02s-2o3e)
+- [The Country of Geniuses That Doesn’t Exist](https://dev.to/razoorka/the-country-of-geniuses-that-doesnt-exist-5dkh)
 <!-- BLOG-POST-LIST:END -->
 
