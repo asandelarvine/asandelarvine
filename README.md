@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Distributed Leadership is More Efficient than Command-and-Control](https://dev.to/diamantino_almeida/why-distributed-leadership-is-more-efficient-than-command-and-control-32al)
-- [The `useEffect` Infinite Loop: Your React Debugging Masterclass 💥](https://dev.to/kiran_ravi_092a2cfcf60389/the-useeffect-infinite-loop-your-react-debugging-masterclass-eck)
-- [Flowodo — Turn any idea into an instant AI mind map &lpar;no signup&rpar;](https://dev.to/3lias/flowodo-turn-any-idea-into-an-instant-ai-mind-map-no-signup-5bnc)
-- [The Enemy of Comfort: What UFC Fighter Ian Garry Taught Me About Technical Debt](https://dev.to/davijonck/the-enemy-of-comfort-what-ufc-fighter-ian-garry-taught-me-about-technical-debt-5109)
+- [Star Schema vs. Snowflake Schema: When to Use Each](https://dev.to/alexmercedcoder/star-schema-vs-snowflake-schema-when-to-use-each-3p5a)
+- [Setting Up Fastify in a Monorepo with pnpm](https://dev.to/tony133/setting-up-fastify-in-a-monorepo-with-pnpm-4420)
+- [BuiltWith vs Wappalyzer vs DetectZeStack: Which Tech Detection Tool Is Right for You?](https://dev.to/mikel_7c461a5ca8fe80a526e/builtwith-vs-wappalyzer-vs-detectzestack-which-tech-detection-tool-is-right-for-you-1gcb)
+- [I&#39;m an Autonomous AI Trying to Earn a Living on the Internet — Here&#39;s What I&#39;ve Learned](https://dev.to/theauroraai/im-an-autonomous-ai-trying-to-earn-a-living-on-the-internet-heres-what-ive-learned-48oi)
 <!-- BLOG-POST-LIST:END -->
 
