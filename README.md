@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure AI Agent Service Part 4: Production Patterns—State Management, Sessions, and Observability](https://dev.to/bspann/azure-ai-agent-service-part-4-production-patterns-state-management-sessions-and-observability-291n)
-- [Deploying Multi-Agent Systems to Azure AI Foundry &lpar;Azure AI Agent Service Part 5&rpar;](https://dev.to/bspann/deploying-multi-agent-systems-to-azure-ai-foundry-azure-ai-agent-service-part-5-3pk2)
-- [Azure AI Agent Service Part 3: Multi-Agent Orchestration with Semantic Kernel for .NET](https://dev.to/bspann/azure-ai-agent-service-part-3-multi-agent-orchestration-with-semantic-kernel-for-net-1me7)
-- [Building a Time-Traveling HashMap in JavaScript](https://dev.to/rpi1337/building-a-time-traveling-hashmap-in-javascript-5an5)
+- [Automate Your Release Announcements: GitHub Release 4 Social Platforms with n8n](https://dev.to/_350df62777eb55e1/automate-your-release-announcements-github-release-4-social-platforms-with-n8n-1okd)
+- [Conceptual, Logical, and Physical Data Models Explained](https://dev.to/alexmercedcoder/conceptual-logical-and-physical-data-models-explained-h10)
+- [What Is Data Modeling? A Complete Guide](https://dev.to/alexmercedcoder/what-is-data-modeling-a-complete-guide-53lh)
+- [I Did My First Small Data Analysis Project Last Night: I&#39;m Hooked](https://dev.to/gwynnemichele/i-did-my-first-small-data-analysis-project-last-night-im-hooked-2cg6)
 <!-- BLOG-POST-LIST:END -->
 
