@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Security Series &lpar;Part 3&rpar;: A Layered Security Model That Scales](https://dev.to/nagasatish_chilakamarti_2/agentic-ai-security-series-part-3-a-layered-security-model-that-scales-2faa)
-- [How I Automated SEO-Ready Blogs Across Next.js and Laravel Using a Custom &quot;Shadcn-Style&quot; Library](https://dev.to/talhakazmi1/how-i-automated-seo-ready-blogs-across-nextjs-and-laravel-using-a-custom-shadcn-style-library-1j27)
-- [Why I Chose Astro Over Next.js for a Marketing Site And Cut FCP from 2s to 0.2s](https://dev.to/9thquadrant/why-i-chose-astro-over-nextjs-for-a-marketing-site-and-cut-fcp-from-2s-to-02s-2o3e)
-- [The Country of Geniuses That Doesn’t Exist](https://dev.to/razoorka/the-country-of-geniuses-that-doesnt-exist-5dkh)
+- [I Built 50 Automation Scripts in One Day. Here&#39;s What Actually Worked.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-what-actually-worked-3pi1)
+- [7 years, no senior. So what?](https://dev.to/whoammi_who_39a247fb5ab0d/7-years-no-senior-so-what-4mb0)
+- [It Happened Again - Building a Platform for Tracking Recurring Events](https://dev.to/goniszewski/it-happened-again-building-a-platform-for-tracking-recurring-events-1e5g)
+- [Implementing pagination with PostgreSQL and the MantaHQ SDK](https://dev.to/mantahq/implementing-pagination-with-postgresql-and-the-mantahq-sdk-1nnn)
 <!-- BLOG-POST-LIST:END -->
 
