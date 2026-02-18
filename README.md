@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CryptoNow — Accept crypto payments to your own wallet](https://dev.to/cryptonow/cryptonow-accept-crypto-payments-to-your-own-wallet-ne4)
-- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
-- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
-- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
+- [How to Set Up a Kiro Team Subscription Using AWS IAM Identity Center!](https://dev.to/bhatiagirish/how-to-set-up-a-kiro-team-subscription-using-aws-iam-identity-center-22hk)
+- [Organize your files in seconds with this node CLI tool](https://dev.to/christian_rincon/organize-your-files-in-seconds-with-this-node-cli-tool-859)
+- [Stop Wasting Time on Boilerplate: Generate Production-Ready Node.js Apps in 1 Minute](https://dev.to/paudang/stop-wasting-time-on-boilerplate-generate-production-ready-nodejs-apps-in-1-minute-n1p)
+- [Introducing TajikGPT — The First AI Platform from Tajikistan 🇹🇯](https://dev.to/soul_muxammad/introducing-tajikgpt-the-first-ai-platform-from-tajikistan-3g19)
 <!-- BLOG-POST-LIST:END -->
 
