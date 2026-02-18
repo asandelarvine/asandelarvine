@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 50 Automation Scripts in One Day. Here&#39;s What Actually Worked.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-what-actually-worked-3pi1)
-- [7 years, no senior. So what?](https://dev.to/whoammi_who_39a247fb5ab0d/7-years-no-senior-so-what-4mb0)
-- [It Happened Again - Building a Platform for Tracking Recurring Events](https://dev.to/goniszewski/it-happened-again-building-a-platform-for-tracking-recurring-events-1e5g)
-- [Implementing pagination with PostgreSQL and the MantaHQ SDK](https://dev.to/mantahq/implementing-pagination-with-postgresql-and-the-mantahq-sdk-1nnn)
+- [4-Platform Blog Auto-Publishing: Fully Automated Pipeline](https://dev.to/linou518/4-platform-blog-auto-publishing-fully-automated-pipeline-18e0)
+- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-1lo5)
+- [How I Built a WCAG Contrast Checker in 50 Lines of JavaScript.](https://dev.to/afsar_khan/how-i-built-a-wcag-contrast-checker-in-50-lines-of-javascript-3nbd)
+- [Agent Message Bus: Communication Infrastructure for 16 AI Agents](https://dev.to/linou518/agent-message-bus-communication-infrastructure-for-16-ai-agents-18af)
 <!-- BLOG-POST-LIST:END -->
 
