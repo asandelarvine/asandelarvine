@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Run a Travel SaaS With 12 AI Agents and 48 Cron Jobs on OpenClaw. Here&#39;s My Exact Setup.](https://dev.to/egorceo/i-run-a-travel-saas-with-12-ai-agents-and-48-cron-jobs-on-openclaw-heres-my-exact-setup-264h)
-- [dlt MCP Server for Popular IDEs](https://dev.to/pizofreude/dlt-mcp-server-for-popular-ides-2e9b)
-- [Building a Slitherlink Puzzle Engine in Rust + WebAssembly](https://dev.to/ansonchan/building-a-slitherlink-puzzle-engine-in-rust-webassembly-3ebc)
-- [Entropy-based Pruning of Backoff Language Models](https://dev.to/paperium/entropy-based-pruning-of-backoff-language-models-3652)
+- [Azure AI Agent Service Part 4: Production Patterns—State Management, Sessions, and Observability](https://dev.to/bspann/azure-ai-agent-service-part-4-production-patterns-state-management-sessions-and-observability-291n)
+- [Deploying Multi-Agent Systems to Azure AI Foundry &lpar;Azure AI Agent Service Part 5&rpar;](https://dev.to/bspann/deploying-multi-agent-systems-to-azure-ai-foundry-azure-ai-agent-service-part-5-3pk2)
+- [Azure AI Agent Service Part 3: Multi-Agent Orchestration with Semantic Kernel for .NET](https://dev.to/bspann/azure-ai-agent-service-part-3-multi-agent-orchestration-with-semantic-kernel-for-net-1me7)
+- [Building a Time-Traveling HashMap in JavaScript](https://dev.to/rpi1337/building-a-time-traveling-hashmap-in-javascript-5an5)
 <!-- BLOG-POST-LIST:END -->
 
