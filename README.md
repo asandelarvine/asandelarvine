@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Host &amp; Network Penetration Testing: A Windows CTF Walkthrough](https://dev.to/james_kariuki/mastering-host-network-penetration-testing-a-windows-ctf-walkthrough-25o7)
-- [My Daily Essentials: The Apps/ Programs That I Use And Keep Me Organised](https://dev.to/tavare/my-daily-essentials-the-apps-programs-that-i-use-and-keep-me-organised-3mcp)
-- [OpenClaw for Developers: Building Solo-Dev Companies](https://dev.to/shehzan/openclaw-for-developers-building-solo-dev-companies-2o6g)
-- [How to Build a Smart Call Agent Using Twilio + ElevenLabs + n8n](https://dev.to/ciphernutz/how-to-build-a-smart-call-agent-using-twilio-elevenlabs-n8n-296a)
+- [Is Software Engineering Dead? 2026 Complete Career Guide](https://dev.to/dev_narratives_023afd008e/is-software-engineering-dead-2026-complete-career-guide-4588)
+- [A Guide To Using The Interswitch API Marketplace](https://dev.to/chizurum/a-guide-to-using-the-interswitch-api-marketplace-m9n)
+- [Stop Looking at Documentation - If You Use an MCP Server](https://dev.to/thecoder93/stop-looking-at-documentation-if-you-use-an-mcp-server-512b)
+- [How I Vibecoded a Sovereign Agent &lpar;And Accidentally Built an Enterprise Architecture&rpar;](https://dev.to/nemesiswave/how-i-vibecoded-a-sovereign-agent-and-accidentally-built-an-enterprise-architecture-1nok)
 <!-- BLOG-POST-LIST:END -->
 
