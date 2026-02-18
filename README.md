@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
-- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
-- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
-- [[Boost]](https://dev.to/willzmu/-3j8n)
+- [Mastering Host &amp; Network Penetration Testing: A Windows CTF Walkthrough](https://dev.to/james_kariuki/mastering-host-network-penetration-testing-a-windows-ctf-walkthrough-25o7)
+- [My Daily Essentials: The Apps/ Programs That I Use And Keep Me Organised](https://dev.to/tavare/my-daily-essentials-the-apps-programs-that-i-use-and-keep-me-organised-3mcp)
+- [OpenClaw for Developers: Building Solo-Dev Companies](https://dev.to/shehzan/openclaw-for-developers-building-solo-dev-companies-2o6g)
+- [How to Build a Smart Call Agent Using Twilio + ElevenLabs + n8n](https://dev.to/ciphernutz/how-to-build-a-smart-call-agent-using-twilio-elevenlabs-n8n-296a)
 <!-- BLOG-POST-LIST:END -->
 
