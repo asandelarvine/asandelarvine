@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Days of Java Coding Practice – My Structured Preparation Plan](https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7)
-- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
-- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
-- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
+- [Stop Using Docker Like It&#39;s 2020. Here&#39;s How Production Actually Works in 2026.](https://dev.to/matthew_hou_e8ab76d6be07b/stop-using-docker-like-its-2020-heres-how-production-actually-works-in-2026-ndf)
+- [AI Won&#39;t Replace Programmers. But It Already Replaced the Job You Were Hired For.](https://dev.to/matthew_hou_e8ab76d6be07b/ai-wont-replace-programmers-but-it-already-replaced-the-job-you-were-hired-for-3f2k)
+- [The System Design Interview Is Broken. Here&#39;s How to Pass It Anyway.](https://dev.to/matthew_hou_e8ab76d6be07b/the-system-design-interview-is-broken-heres-how-to-pass-it-anyway-3djc)
+- [The Overton Framework is now DOI-backed](https://dev.to/crisiscoresystems/the-overton-framework-is-now-doi-backed-ko7)
 <!-- BLOG-POST-LIST:END -->
 
