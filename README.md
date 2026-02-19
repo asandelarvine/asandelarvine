@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built InnoStore: Helping Vendors Move Beyond ‘DM to Order’](https://dev.to/bikeinnocent/why-i-built-innostore-helping-vendors-move-beyond-dm-to-order-1ki8)
-- [Daily Challenge #7 : The &quot;Recursive&quot; Folder Tree 📂](https://dev.to/bingkahu/daily-challenge-7-the-recursive-folder-tree-54mn)
-- [The Single Point of Failure in Google SSO](https://dev.to/samywrites/the-single-point-of-failure-in-google-sso-3l7h)
-- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
+- [Decoding the cbETH Oracle Misprice: An AequiSolva Technical Review](https://dev.to/aequisolva/decoding-the-cbeth-oracle-misprice-an-aequisolva-technical-review-df9)
+- [How to Implement Prompt Caching on Amazon Bedrock and Cut Inference Costs in Half](https://dev.to/sachinm207/how-to-implement-prompt-caching-on-amazon-bedrock-and-cut-inference-costs-in-half-3g00)
+- [What Are Core Web Vitals? A Practical Guide for 2026](https://dev.to/apogeewatcher/what-are-core-web-vitals-a-practical-guide-for-2026-382n)
+- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1)
 <!-- BLOG-POST-LIST:END -->
 
