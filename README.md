@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Docker Like It&#39;s 2020. Here&#39;s How Production Actually Works in 2026.](https://dev.to/matthew_hou_e8ab76d6be07b/stop-using-docker-like-its-2020-heres-how-production-actually-works-in-2026-ndf)
-- [AI Won&#39;t Replace Programmers. But It Already Replaced the Job You Were Hired For.](https://dev.to/matthew_hou_e8ab76d6be07b/ai-wont-replace-programmers-but-it-already-replaced-the-job-you-were-hired-for-3f2k)
-- [The System Design Interview Is Broken. Here&#39;s How to Pass It Anyway.](https://dev.to/matthew_hou_e8ab76d6be07b/the-system-design-interview-is-broken-heres-how-to-pass-it-anyway-3djc)
-- [The Overton Framework is now DOI-backed](https://dev.to/crisiscoresystems/the-overton-framework-is-now-doi-backed-ko7)
+- [Why I Built InnoStore: Helping Vendors Move Beyond ‘DM to Order’](https://dev.to/bikeinnocent/why-i-built-innostore-helping-vendors-move-beyond-dm-to-order-1ki8)
+- [Daily Challenge #7 : The &quot;Recursive&quot; Folder Tree 📂](https://dev.to/bingkahu/daily-challenge-7-the-recursive-folder-tree-54mn)
+- [The Single Point of Failure in Google SSO](https://dev.to/samywrites/the-single-point-of-failure-in-google-sso-3l7h)
+- [AI Partnership Over Replacement: Stanford&#39;s $10B Misalignment Problem](https://dev.to/dr_hernani_costa/ai-partnership-over-replacement-stanfords-10b-misalignment-problem-49c7)
 <!-- BLOG-POST-LIST:END -->
 
