@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-3pjb)
-- [🛍️ IShop: Production-Ready E-commerce SPA &lpar;React 18, Vite 5, Redux Toolkit&rpar;](https://dev.to/arvik1982/ishop-production-ready-e-commerce-spa-react-18-vite-5-redux-toolkit-5g02)
-- [AI Trading Daily Report: February 19, 2026 | $-29.60](https://dev.to/igorganapolsky/ai-trading-daily-report-february-19-2026-2960-j0)
-- [O que GTA 5 me ensinou sobre Lógica de Programação &lpar;e variáveis&rpar;](https://dev.to/thnocard36/o-que-gta-5-me-ensinou-sobre-logica-de-programacao-e-variaveis-1bie)
+- [Congrats to the &quot;New Year, New You&quot; Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h)
+- [RESTful Design &amp; Routes: Organizing Your API Like a Pro](https://dev.to/ghost_script/restful-design-routes-organizing-your-api-like-a-pro-3d3m)
+- [What Happens When an AI Agent Understands Its Own Guardrails?](https://dev.to/saezbaldo/what-happens-when-an-ai-agent-understands-its-own-guardrails-25al)
+- [How I Track EOL Dates and CVEs in My README With One Badge](https://dev.to/matheus_releaserun/how-i-track-eol-dates-and-cves-in-my-readme-with-one-badge-13oe)
 <!-- BLOG-POST-LIST:END -->
 
