@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 18 and Building the European Pusher Alternative — Here&#39;s Why It Doesn&#39;t Exist Yet](https://dev.to/juzi19/im-18-and-building-the-european-pusher-alternative-heres-why-it-doesnt-exist-yet-3207)
-- [Why I Ended Up Adding Sessions to a JWT-Based System](https://dev.to/sauravdhakal12/why-i-ended-up-adding-sessions-to-a-jwt-based-system-4m2i)
-- [Sprite Pipeline Playbook #1: Building a Production-Ready Character Pack from One Reference](https://dev.to/grace_lungu_bae72c2681d25/sprite-pipeline-playbook-1-from-one-reference-to-a-usable-character-pack-34p7)
-- [Capo2Keys : A Tool for Converting Guitar Chord Charts for Piano](https://dev.to/reprodev/capo2keys-a-tool-for-converting-guitar-chord-charts-for-piano-1ac1)
+- [[Inside CIDER] Steal Their Power, Pierce Their Weakness: The &quot;Elemental Cycle&quot; System](https://dev.to/gamedecisiondiagram/inside-cider-steal-their-power-pierce-their-weakness-the-elemental-cycle-system-58nk)
+- [How I reported 37% of my team&#39;s bugs over 4 years in ERP QA Automation &lpar;it wasn&#39;t luck&rpar;](https://dev.to/cesarbeassuarez/how-i-reported-37-of-my-teams-bugs-over-4-years-in-erp-qa-automation-it-wasnt-luck-1i1b)
+- [I built my first real Linux app — a GTK4 system monitor](https://dev.to/noah_6016a1c73e7667236197/i-built-my-first-real-linux-app-a-gtk4-system-monitor-2dbn)
+- [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler?](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o)
 <!-- BLOG-POST-LIST:END -->
 
