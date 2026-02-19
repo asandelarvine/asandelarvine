@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 6 OAuth2 Conceptual Quiz](https://dev.to/fosres/week-6-oauth2-conceptual-quiz-463d)
-- [I Built a Cursor Plugin to Track My Team&#39;s AI Spend From the IDE](https://dev.to/ofershap/i-built-a-cursor-plugin-to-track-my-teams-ai-spend-from-the-ide-2d53)
-- [I Created .cursorrules Files for 10 Tech Stacks. Here Are the Patterns That Make AI Write Production Code.](https://dev.to/matthewhou/i-created-cursorrules-files-for-10-tech-stacks-here-are-the-patterns-that-make-ai-write-21hj)
-- [Safeinstall: Um aliado no combate a ataques de Supply chain](https://dev.to/r9n/safeinstall-um-aliado-no-combate-a-ataques-de-supply-chain-47mh)
+- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
+- [List in Java](https://dev.to/vishnu_vishnu_856744a4421/list-in-java-2o0m)
+- [VoxCPM: A Novel Tokenizer-Free Approach to Context-Aware Speech Generation and Voice Cloning](https://dev.to/stelixx-insider/voxcpm-a-novel-tokenizer-free-approach-to-context-aware-speech-generation-and-voice-cloning-pme)
+- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
 <!-- BLOG-POST-LIST:END -->
 
