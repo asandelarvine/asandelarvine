@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Proton Pass API Without Knowing Its Architecture](https://dev.to/liudasjan/testing-proton-pass-api-without-knowing-its-architecture-1bje)
-- [SeeTheSharpFlag — Hack The Box Mobile Challenge Write-up](https://dev.to/r00tj0k3r/seethesharpflag-hack-the-box-mobile-challenge-write-up-3lfh)
-- [How the “Smoke Jumpers” team brings Gemini to billions of people](https://dev.to/manikandan/in-our-latest-podcast-hear-how-the-smoke-jumpers-team-brings-gemini-to-billions-of-people-1j3f)
-- [My AI Side Project Would Fail an EU AI Act Audit — Here&#39;s How I Fixed It](https://dev.to/arkforge-ceo/my-ai-side-project-would-fail-an-eu-ai-act-audit-heres-how-i-fixed-it-m8i)
+- [I&#39;m 18 and Building the European Pusher Alternative — Here&#39;s Why It Doesn&#39;t Exist Yet](https://dev.to/juzi19/im-18-and-building-the-european-pusher-alternative-heres-why-it-doesnt-exist-yet-3207)
+- [Why I Ended Up Adding Sessions to a JWT-Based System](https://dev.to/sauravdhakal12/why-i-ended-up-adding-sessions-to-a-jwt-based-system-4m2i)
+- [Sprite Pipeline Playbook #1: Building a Production-Ready Character Pack from One Reference](https://dev.to/grace_lungu_bae72c2681d25/sprite-pipeline-playbook-1-from-one-reference-to-a-usable-character-pack-34p7)
+- [Capo2Keys : A Tool for Converting Guitar Chord Charts for Piano](https://dev.to/reprodev/capo2keys-a-tool-for-converting-guitar-chord-charts-for-piano-1ac1)
 <!-- BLOG-POST-LIST:END -->
 
