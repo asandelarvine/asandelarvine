@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring a Command-Line Hangman Implementation in Node.js](https://dev.to/rpi1337/exploring-a-command-line-hangman-implementation-in-nodejs-2j8b)
-- [Why your kubernetes Pod was OOM killed and who really killed it.](https://dev.to/chunyi_wang/why-your-kubernetes-pod-was-oom-killed-and-who-really-killed-it-1jab)
-- [🌱 Bloom Update — February 19, 2026](https://dev.to/codebunny20/bloom-update-february-19-2026-278m)
-- [Developing for AI: The New Paradigm of Application Architecture with Intelligent Agents](https://dev.to/franbarinstance/developing-for-ai-the-new-paradigm-of-application-architecture-with-intelligent-agents-4ndb)
+- [Active-Passive vs Active-Active: How to Know Which Pattern Fits Your Database](https://dev.to/whytrchy/active-passive-vs-active-active-how-to-know-which-pattern-fits-your-database-2pnn)
+- [Best OpenClaw Skills for 2026: Safe, High-Impact Picks](https://dev.to/curi0us_dev/best-openclaw-skills-for-2026-safe-high-impact-picks-2fjd)
+- [How I Built an AI System to Find Polish Businesses Without Websites](https://dev.to/maxmendes91/how-i-built-an-ai-system-to-find-polish-businesses-without-websites-3ea8)
+- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar;: Getting Started with Managed Kubernetes](https://dev.to/a-atanda/amazon-elastic-kubernetes-service-eks-getting-started-with-managed-kubernetes-2gnd)
 <!-- BLOG-POST-LIST:END -->
 
