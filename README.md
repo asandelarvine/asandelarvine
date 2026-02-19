@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Inside CIDER] Steal Their Power, Pierce Their Weakness: The &quot;Elemental Cycle&quot; System](https://dev.to/gamedecisiondiagram/inside-cider-steal-their-power-pierce-their-weakness-the-elemental-cycle-system-58nk)
-- [How I reported 37% of my team&#39;s bugs over 4 years in ERP QA Automation &lpar;it wasn&#39;t luck&rpar;](https://dev.to/cesarbeassuarez/how-i-reported-37-of-my-teams-bugs-over-4-years-in-erp-qa-automation-it-wasnt-luck-1i1b)
-- [I built my first real Linux app — a GTK4 system monitor](https://dev.to/noah_6016a1c73e7667236197/i-built-my-first-real-linux-app-a-gtk4-system-monitor-2dbn)
-- [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler?](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o)
+- [Introducing Surrealism](https://dev.to/surrealdb/introducing-surrealism-4b5p)
+- [Protecting Language Models Against Unauthorized Distillation through Trace Rewriting](https://dev.to/jgnoncelogic/protecting-language-models-against-unauthorized-distillation-through-trace-rewriting-1n67)
+- [n8n is pure awesomeness](https://dev.to/mvaldes/n8n-is-pure-awesomeness-50h7)
+- [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk)
 <!-- BLOG-POST-LIST:END -->
 
