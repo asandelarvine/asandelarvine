@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the &quot;New Year, New You&quot; Portfolio Challenge Winners and Runner-Ups!](https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h)
-- [RESTful Design &amp; Routes: Organizing Your API Like a Pro](https://dev.to/ghost_script/restful-design-routes-organizing-your-api-like-a-pro-3d3m)
-- [What Happens When an AI Agent Understands Its Own Guardrails?](https://dev.to/saezbaldo/what-happens-when-an-ai-agent-understands-its-own-guardrails-25al)
-- [How I Track EOL Dates and CVEs in My README With One Badge](https://dev.to/matheus_releaserun/how-i-track-eol-dates-and-cves-in-my-readme-with-one-badge-13oe)
+- [I Built a Rust Compiler for a 20-Year-Old Mac &lpar;Borrow Checker and All&rpar;](https://dev.to/scottcjn/i-built-a-rust-compiler-for-a-20-year-old-mac-borrow-checker-and-all-37n7)
+- [How We Made &#39;One CPU, One Vote&#39; Actually Work &lpar;After 17 Years of Broken Promises&rpar;](https://dev.to/scottcjn/how-we-made-one-cpu-one-vote-actually-work-after-17-years-of-broken-promises-1ioo)
+- [Self-Hosting a Vision Model on a Datacenter GPU: BAGEL-7B-MoT on a Tesla V100](https://dev.to/scottcjn/self-hosting-a-vision-model-on-a-datacenter-gpu-bagel-7b-mot-on-a-tesla-v100-4mm4)
+- [I&#39;m Porting Node.js 22 to a 20-Year-Old Power Mac G5. It&#39;s Going About as Well as You&#39;d Expect.](https://dev.to/scottcjn/im-porting-nodejs-22-to-a-20-year-old-power-mac-g5-its-going-about-as-well-as-youd-expect-529g)
 <!-- BLOG-POST-LIST:END -->
 
