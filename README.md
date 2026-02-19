@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out how to get started with Google Workspace Studio](https://dev.to/googleworkspace/check-out-how-to-get-started-with-google-workspace-studio-3pb7)
-- [char str1[] = &quot;hello world&quot;; vs char *str2 = &quot;hello world&quot;; – The Memory Story Every C Programmer Must Know](https://dev.to/amanprasad/char-str1-hello-world-vs-char-str2-hello-world-the-memory-story-every-c-programmer-28hd)
-- [#3 Backpropagation: Errors Flow Backward, Knowledge Flows Forward](https://dev.to/rnilav/3-backpropagation-errors-flow-backward-knowledge-flows-forward-5320)
-- [🚀 Day 2 of My Automation Journey – Understanding JRE, JVM, JIT &amp; Data Types](https://dev.to/bala_dkaveri_443d4beb9c8/day-2-of-my-automation-journey-understanding-jvm-jre-data-types-2ehj)
+- [Testing Proton Pass API Without Knowing Its Architecture](https://dev.to/liudasjan/testing-proton-pass-api-without-knowing-its-architecture-1bje)
+- [SeeTheSharpFlag — Hack The Box Mobile Challenge Write-up](https://dev.to/r00tj0k3r/seethesharpflag-hack-the-box-mobile-challenge-write-up-3lfh)
+- [How the “Smoke Jumpers” team brings Gemini to billions of people](https://dev.to/manikandan/in-our-latest-podcast-hear-how-the-smoke-jumpers-team-brings-gemini-to-billions-of-people-1j3f)
+- [My AI Side Project Would Fail an EU AI Act Audit — Here&#39;s How I Fixed It](https://dev.to/arkforge-ceo/my-ai-side-project-would-fail-an-eu-ai-act-audit-heres-how-i-fixed-it-m8i)
 <!-- BLOG-POST-LIST:END -->
 
