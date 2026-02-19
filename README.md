@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Surrealism](https://dev.to/surrealdb/introducing-surrealism-4b5p)
-- [Protecting Language Models Against Unauthorized Distillation through Trace Rewriting](https://dev.to/jgnoncelogic/protecting-language-models-against-unauthorized-distillation-through-trace-rewriting-1n67)
-- [n8n is pure awesomeness](https://dev.to/mvaldes/n8n-is-pure-awesomeness-50h7)
-- [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk)
+- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-3pjb)
+- [🛍️ IShop: Production-Ready E-commerce SPA &lpar;React 18, Vite 5, Redux Toolkit&rpar;](https://dev.to/arvik1982/ishop-production-ready-e-commerce-spa-react-18-vite-5-redux-toolkit-5g02)
+- [AI Trading Daily Report: February 19, 2026 | $-29.60](https://dev.to/igorganapolsky/ai-trading-daily-report-february-19-2026-2960-j0)
+- [O que GTA 5 me ensinou sobre Lógica de Programação &lpar;e variáveis&rpar;](https://dev.to/thnocard36/o-que-gta-5-me-ensinou-sobre-logica-de-programacao-e-variaveis-1bie)
 <!-- BLOG-POST-LIST:END -->
 
