@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a &quot;Living&quot; AI Chatbot with Next.js, Mistral, and Framer Motion](https://dev.to/talhakazmi1/how-i-built-a-living-ai-chatbot-with-nextjs-mistral-and-framer-motion-2hcg)
-- [soundcn: 700+ Free UI Sounds for Modern Web Apps](https://dev.to/jqueryscript/soundcn-700-free-ui-sounds-for-modern-web-apps-599m)
-- [OSI Layer 3—The Navigator: Reachability, Direction, and Global Movement](https://dev.to/narnaiezzsshaa/osi-layer-3-the-navigator-reachability-direction-and-global-movement-4din)
-- [I Tried to Build My Own Markdown Editor &lpar;and Reality Hit Hard&rpar;](https://dev.to/davidartifacts/i-tried-to-build-my-own-markdown-editor-and-reality-hit-hard-k8e)
+- [7 Days of Java Coding Practice – My Structured Preparation Plan](https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7)
+- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
+- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
+- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
 <!-- BLOG-POST-LIST:END -->
 
