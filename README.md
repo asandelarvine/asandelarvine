@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Active-Passive vs Active-Active: How to Know Which Pattern Fits Your Database](https://dev.to/whytrchy/active-passive-vs-active-active-how-to-know-which-pattern-fits-your-database-2pnn)
-- [Best OpenClaw Skills for 2026: Safe, High-Impact Picks](https://dev.to/curi0us_dev/best-openclaw-skills-for-2026-safe-high-impact-picks-2fjd)
-- [How I Built an AI System to Find Polish Businesses Without Websites](https://dev.to/maxmendes91/how-i-built-an-ai-system-to-find-polish-businesses-without-websites-3ea8)
-- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar;: Getting Started with Managed Kubernetes](https://dev.to/a-atanda/amazon-elastic-kubernetes-service-eks-getting-started-with-managed-kubernetes-2gnd)
+- [Inside a Crypto Payment System](https://dev.to/andrej_murincev_a1e713da9/inside-a-crypto-payment-system-57h6)
+- [Building a Rails Engine #4 — Modeling Import Data with StoreModel &amp; JSONB](https://dev.to/seryllns_/building-a-rails-engine-4-modeling-import-data-with-storemodel-jsonb-3njp)
+- [I Built a Native Desktop GUI for OpenCode in 4 Days With AI](https://dev.to/akemmanuel/i-built-a-native-desktop-gui-for-opencode-in-4-days-with-ai-p44)
+- [Authentication That Actually Passes Security Audits](https://dev.to/vapmail16/authentication-that-actually-passes-security-audits-2bl6)
 <!-- BLOG-POST-LIST:END -->
 
