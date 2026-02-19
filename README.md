@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Synthetic Goat Scream Pipeline &lpar;And the Tools Along the Way&rpar;](https://dev.to/aimatey/how-i-built-a-synthetic-goat-scream-pipeline-and-the-tools-along-the-way-1aln)
-- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
-- [The Complete Guide to Tech Job Search in 2026 &lpar;Tools, Strategy, and Timeline&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp)
-- [Introducing muxtree: Dead-Simple Worktree + Tmux Sessions for AI Coding](https://dev.to/b-d055/introducing-muxtree-dead-simple-worktree-tmux-sessions-for-ai-coding-2kf2)
+- [Local-First Documentation: What It Is and Why Your AI Agent Needs It](https://dev.to/moshe_io/local-first-documentation-what-it-is-and-why-your-ai-agent-needs-it-1l0g)
+- [India&#39;s 3-Hour Deepfake Rule Exposes a Blind Spot: Building Cryptographic Proof of What AI Refused to Generate](https://dev.to/veritaschain/indias-3-hour-deepfake-rule-exposes-a-blind-spot-building-cryptographic-proof-of-what-ai-refused-45c1)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ngp)
+- [25 ChatGPT Prompts That Actually Help With Job Interviews &lpar;Not Generic Fluff&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/25-chatgpt-prompts-that-actually-help-with-job-interviews-not-generic-fluff-5c40)
 <!-- BLOG-POST-LIST:END -->
 
