@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the cbETH Oracle Misprice: An AequiSolva Technical Review](https://dev.to/aequisolva/decoding-the-cbeth-oracle-misprice-an-aequisolva-technical-review-df9)
-- [How to Implement Prompt Caching on Amazon Bedrock and Cut Inference Costs in Half](https://dev.to/sachinm207/how-to-implement-prompt-caching-on-amazon-bedrock-and-cut-inference-costs-in-half-3g00)
-- [What Are Core Web Vitals? A Practical Guide for 2026](https://dev.to/apogeewatcher/what-are-core-web-vitals-a-practical-guide-for-2026-382n)
-- [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://dev.to/chukwu3meka/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-28a1)
+- [Exploring a Command-Line Hangman Implementation in Node.js](https://dev.to/rpi1337/exploring-a-command-line-hangman-implementation-in-nodejs-2j8b)
+- [Why your kubernetes Pod was OOM killed and who really killed it.](https://dev.to/chunyi_wang/why-your-kubernetes-pod-was-oom-killed-and-who-really-killed-it-1jab)
+- [🌱 Bloom Update — February 19, 2026](https://dev.to/codebunny20/bloom-update-february-19-2026-278m)
+- [Developing for AI: The New Paradigm of Application Architecture with Intelligent Agents](https://dev.to/franbarinstance/developing-for-ai-the-new-paradigm-of-application-architecture-with-intelligent-agents-4ndb)
 <!-- BLOG-POST-LIST:END -->
 
