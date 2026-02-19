@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside a Crypto Payment System](https://dev.to/andrej_murincev_a1e713da9/inside-a-crypto-payment-system-57h6)
-- [Building a Rails Engine #4 — Modeling Import Data with StoreModel &amp; JSONB](https://dev.to/seryllns_/building-a-rails-engine-4-modeling-import-data-with-storemodel-jsonb-3njp)
-- [I Built a Native Desktop GUI for OpenCode in 4 Days With AI](https://dev.to/akemmanuel/i-built-a-native-desktop-gui-for-opencode-in-4-days-with-ai-p44)
-- [Authentication That Actually Passes Security Audits](https://dev.to/vapmail16/authentication-that-actually-passes-security-audits-2bl6)
+- [Check out how to get started with Google Workspace Studio](https://dev.to/googleworkspace/check-out-how-to-get-started-with-google-workspace-studio-3pb7)
+- [char str1[] = &quot;hello world&quot;; vs char *str2 = &quot;hello world&quot;; – The Memory Story Every C Programmer Must Know](https://dev.to/amanprasad/char-str1-hello-world-vs-char-str2-hello-world-the-memory-story-every-c-programmer-28hd)
+- [#3 Backpropagation: Errors Flow Backward, Knowledge Flows Forward](https://dev.to/rnilav/3-backpropagation-errors-flow-backward-knowledge-flows-forward-5320)
+- [🚀 Day 2 of My Automation Journey – Understanding JRE, JVM, JIT &amp; Data Types](https://dev.to/bala_dkaveri_443d4beb9c8/day-2-of-my-automation-journey-understanding-jvm-jre-data-types-2ehj)
 <!-- BLOG-POST-LIST:END -->
 
