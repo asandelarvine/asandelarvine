@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
-- [List in Java](https://dev.to/vishnu_vishnu_856744a4421/list-in-java-2o0m)
-- [VoxCPM: A Novel Tokenizer-Free Approach to Context-Aware Speech Generation and Voice Cloning](https://dev.to/stelixx-insider/voxcpm-a-novel-tokenizer-free-approach-to-context-aware-speech-generation-and-voice-cloning-pme)
-- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
+- [Why C Requires the “struct” Keyword for Structures](https://dev.to/pauljlucas/why-c-requires-the-struct-keyword-for-structures-nec)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4g4p)
+- [How “Clinejection” Turned an AI Bot into a Supply Chain Attack](https://dev.to/snyk/how-clinejection-turned-an-ai-bot-into-a-supply-chain-attack-4hke)
+- [Building a Type-Safe Data Processing Pipeline in TypeScript](https://dev.to/sakobume/building-a-type-safe-data-processing-pipeline-in-typescript-1nfe)
 <!-- BLOG-POST-LIST:END -->
 
