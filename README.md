@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who fixes the zero-days AI finds in abandoned software?](https://dev.to/martinald/who-fixes-the-zero-days-ai-finds-in-abandoned-software-2cej)
-- [Every Input Is an Attack Vector: A Developer&#39;s Guide to Input Validation](https://dev.to/suhteevah/every-input-is-an-attack-vector-a-developers-guide-to-input-validation-4dmg)
-- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
-- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
+- [Raising Agentic Children](https://dev.to/lightheartdev/raising-agentic-children-28gi)
+- [Why OCR for CJK Languages Is Still a Hard Problem in 2026 — And How I&#39;m Tackling It](https://dev.to/joe_wang_6a4a3e51566e8b52/why-ocr-for-cjk-languages-is-still-a-hard-problem-in-2026-and-how-im-tackling-it-5fge)
+- [Empirically Testing Skill Scanners Against Traditional Obfuscation](https://dev.to/bolhasec/empirically-testing-skill-scanners-against-traditional-obfuscation-5738)
+- [How I Built a SaaS That Deploys AI Chatbots to Telegram in 2 Minutes](https://dev.to/clawbotcloud/how-i-built-a-saas-that-deploys-ai-caisaasnextjsdevopshatbots-to-telegram-in-2-minutes-kng)
 <!-- BLOG-POST-LIST:END -->
 
