@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [回声（第17章）：量子生物学（第一部分）](https://dev.to/chx381/hui-sheng-di-17zhang-liang-zi-sheng-wu-xue-di-bu-fen--44fd)
-- [5 AI Tools Every Developer Should Integrate into Their Daily Workflow](https://dev.to/jaideepparashar/5-ai-tools-every-developer-should-integrate-into-their-daily-workflow-4272)
-- [🚀 Can I Run It? Stop the &quot;Out of Memory&quot; Guessing Game for Local LLMs](https://dev.to/wick229/can-i-run-it-stop-the-out-of-memory-guessing-game-for-local-llms-17ci)
-- [Bytecode: SQLite’s Internal Programming Language](https://dev.to/lovestaco/bytecode-sqlites-internal-programming-language-3kan)
+- [When a Session Forgets What It Knew: Why LLM State Management Breaks Under Load](https://dev.to/john_wade_dev/when-a-session-forgets-what-it-knew-why-llm-state-management-breaks-under-load-3f5a)
+- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
+- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
+- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-1a9l)
 <!-- BLOG-POST-LIST:END -->
 
