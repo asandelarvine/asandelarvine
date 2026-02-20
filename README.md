@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When a Session Forgets What It Knew: Why LLM State Management Breaks Under Load](https://dev.to/john_wade_dev/when-a-session-forgets-what-it-knew-why-llm-state-management-breaks-under-load-3f5a)
-- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
-- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
-- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-1a9l)
+- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
+- [Debugging postgres: List all connections](https://dev.to/stefanukena/debugging-postgres-list-all-connections-3o55)
+- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
+- [Why rigid task trackers fail my neurodivergent brain &lpar;and the local AI tool I built instead&rpar;](https://dev.to/chadders13/why-rigid-task-trackers-fail-my-neurodivergent-brain-and-the-local-ai-tool-i-built-instead-29c1)
 <!-- BLOG-POST-LIST:END -->
 
