@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [/server start: How I Let My Friends Control Our Minecraft Server via Discord](https://dev.to/aws/server-start-how-i-let-my-friends-control-our-minecraft-server-via-discord-38l1)
-- [Modern Logging and Telemetry in .Net](https://dev.to/vimaltwit/modern-logging-and-telemetry-in-net-inj)
-- [Cabin Analytics: Ditch the Cookie Banner and Embrace Ethical Tracking](https://dev.to/quentin_merle/cabin-analytics-ditch-the-cookie-banner-and-embrace-ethical-tracking-a51)
-- [Coinbase Agentic Wallets vs Agent Wallet SDK: What the Custody Difference Actually Means](https://dev.to/up2itnow0822/coinbase-agentic-wallets-vs-agent-wallet-sdk-what-the-custody-difference-actually-means-9l)
+- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
+- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
+- [TEST](https://dev.to/mikeydorje/test-4b7g)
+- [Who&#39;s hiring — February 2026](https://dev.to/fmerian/whos-hiring-february-2026-2ci9)
 <!-- BLOG-POST-LIST:END -->
 
