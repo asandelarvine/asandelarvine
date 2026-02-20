@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-reliable-docker-runs-l1o)
-- [Provide private storage for internal company documents](https://dev.to/precious_nwafor/provide-private-storage-for-internal-company-documents-3o7a)
-- [Why I chose MedusaJS over building ecommerce from scratch](https://dev.to/codewithonye/why-i-chose-medusajs-over-building-ecommerce-from-scratch-j0l)
-- [Does Your Website Inform or Convert? Guiding Visitors with Clarity and Trust](https://dev.to/per-starke-642/does-your-website-inform-or-convert-guiding-visitors-with-clarity-and-trust-5e7n)
+- [Zero-Downtime Embedding Migration: Switching from text-embedding-004 to text-embedding-3-large in Production](https://dev.to/humzakt/zero-downtime-embedding-migration-switching-from-text-embedding-004-to-text-embedding-3-large-in-1292)
+- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
+- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
+- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
 <!-- BLOG-POST-LIST:END -->
 
