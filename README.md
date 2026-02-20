@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why C Requires the “struct” Keyword for Structures](https://dev.to/pauljlucas/why-c-requires-the-struct-keyword-for-structures-nec)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4g4p)
-- [How “Clinejection” Turned an AI Bot into a Supply Chain Attack](https://dev.to/snyk/how-clinejection-turned-an-ai-bot-into-a-supply-chain-attack-4hke)
-- [Building a Type-Safe Data Processing Pipeline in TypeScript](https://dev.to/sakobume/building-a-type-safe-data-processing-pipeline-in-typescript-1nfe)
+- [回声（第17章）：量子生物学（第一部分）](https://dev.to/chx381/hui-sheng-di-17zhang-liang-zi-sheng-wu-xue-di-bu-fen--44fd)
+- [5 AI Tools Every Developer Should Integrate into Their Daily Workflow](https://dev.to/jaideepparashar/5-ai-tools-every-developer-should-integrate-into-their-daily-workflow-4272)
+- [🚀 Can I Run It? Stop the &quot;Out of Memory&quot; Guessing Game for Local LLMs](https://dev.to/wick229/can-i-run-it-stop-the-out-of-memory-guessing-game-for-local-llms-17ci)
+- [Bytecode: SQLite’s Internal Programming Language](https://dev.to/lovestaco/bytecode-sqlites-internal-programming-language-3kan)
 <!-- BLOG-POST-LIST:END -->
 
