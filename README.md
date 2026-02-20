@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Raising Agentic Children](https://dev.to/lightheartdev/raising-agentic-children-28gi)
-- [Why OCR for CJK Languages Is Still a Hard Problem in 2026 — And How I&#39;m Tackling It](https://dev.to/joe_wang_6a4a3e51566e8b52/why-ocr-for-cjk-languages-is-still-a-hard-problem-in-2026-and-how-im-tackling-it-5fge)
-- [Empirically Testing Skill Scanners Against Traditional Obfuscation](https://dev.to/bolhasec/empirically-testing-skill-scanners-against-traditional-obfuscation-5738)
-- [How I Built a SaaS That Deploys AI Chatbots to Telegram in 2 Minutes](https://dev.to/clawbotcloud/how-i-built-a-saas-that-deploys-ai-caisaasnextjsdevopshatbots-to-telegram-in-2-minutes-kng)
+- [Stop Paying for Opus: Claude Sonnet 4.6 Changes Everything for Developers](https://dev.to/ayyazzafar/stop-paying-for-opus-claude-sonnet-46-changes-everything-for-developers-k4g)
+- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
+- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
+- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
 <!-- BLOG-POST-LIST:END -->
 
