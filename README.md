@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
-- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
-- [TEST](https://dev.to/mikeydorje/test-4b7g)
-- [Who&#39;s hiring — February 2026](https://dev.to/fmerian/whos-hiring-february-2026-2ci9)
+- [Who fixes the zero-days AI finds in abandoned software?](https://dev.to/martinald/who-fixes-the-zero-days-ai-finds-in-abandoned-software-2cej)
+- [Every Input Is an Attack Vector: A Developer&#39;s Guide to Input Validation](https://dev.to/suhteevah/every-input-is-an-attack-vector-a-developers-guide-to-input-validation-4dmg)
+- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
+- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
 <!-- BLOG-POST-LIST:END -->
 
