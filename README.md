@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 700+ Calculator Platform with Pure PHP, Zero Frameworks, and a JSON Registry Pattern](https://dev.to/julien786534/how-i-built-a-700-calculator-platform-with-pure-php-zero-frameworks-and-a-json-registry-pattern-2pfp)
-- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
-- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
-- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
+- [How to Lint Your Cursor Rules in CI &lpar;So Broken Rules Don&#39;t Ship&rpar;](https://dev.to/nedcodes/how-to-lint-your-cursor-rules-in-ci-so-broken-rules-dont-ship-2n7a)
+- [I built a crypto airdrop tracker because I kept missing snapshots. Here&#39;s what I learned.](https://dev.to/loopey/i-built-a-crypto-airdrop-tracker-because-i-kept-missing-snapshots-heres-what-i-learned-3f4)
+- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
 <!-- BLOG-POST-LIST:END -->
 
