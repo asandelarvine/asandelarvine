@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Lint Your Cursor Rules in CI &lpar;So Broken Rules Don&#39;t Ship&rpar;](https://dev.to/nedcodes/how-to-lint-your-cursor-rules-in-ci-so-broken-rules-dont-ship-2n7a)
-- [I built a crypto airdrop tracker because I kept missing snapshots. Here&#39;s what I learned.](https://dev.to/loopey/i-built-a-crypto-airdrop-tracker-because-i-kept-missing-snapshots-heres-what-i-learned-3f4)
-- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
+- [I wrote a dev tool post that got 25k reads. My follow-up got 11. Here&#39;s what I learned.](https://dev.to/reposweeper/i-wrote-a-dev-tool-post-that-got-25k-reads-my-follow-up-got-11-heres-what-i-learned-3g51)
+- [Modular Structure in CodeBehind](https://dev.to/elanatframework/modular-structure-in-codebehind-31aa)
+- [[Boost]](https://dev.to/cherryramatis/-m2d)
+- [How to Set Up Your Own AI Assistant with OpenClaw &lpar;Beginner Guide&rpar;](https://dev.to/happy-lico/how-to-set-up-your-own-ai-assistant-with-openclaw-beginner-guide-1gjm)
 <!-- BLOG-POST-LIST:END -->
 
