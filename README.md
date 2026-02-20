@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Added Folders and Tags to Organize Video Libraries](https://dev.to/alexneamtu/how-we-added-folders-and-tags-to-organize-video-libraries-2f53)
-- [Is C# the new TypeScript? How Minimal APIs felt like home for a React Dev](https://dev.to/aroarko/is-c-the-new-typescript-how-minimal-apis-felt-like-home-for-a-react-dev-1nan)
-- [Face Avatar Generator — DEV x Google AI Studio Submission](https://dev.to/lukeponga-dev/face-avatar-generator-dev-x-google-ai-studio-submission-7pp)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4n28)
+- [How I Built a 700+ Calculator Platform with Pure PHP, Zero Frameworks, and a JSON Registry Pattern](https://dev.to/julien786534/how-i-built-a-700-calculator-platform-with-pure-php-zero-frameworks-and-a-json-registry-pattern-2pfp)
+- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
+- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
+- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
 <!-- BLOG-POST-LIST:END -->
 
