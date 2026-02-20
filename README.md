@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: The Rejection](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-rejection-124d)
-- [回声（第20章）：第二次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-20zhang-di-er-ci-duan-kai-di-bu-fen--261p)
-- [Java Edition of Claude Code CLI is Here! Solon Code CLI Released](https://dev.to/noear/java-edition-of-claude-code-cli-is-here-solon-code-cli-released-1lpb)
-- [&quot;loading...&quot; vs. &quot;thinking...&quot;](https://dev.to/manuartero/loading-vs-thinking-56i0)
+- [Instance Variables and Instance Methods in Python](https://dev.to/shameel/instance-variables-and-instance-methods-in-python-51o0)
+- [Using Docker Compose Profiles to unit tests part of the application](https://dev.to/teaganga/using-docker-compose-profiles-to-unit-tests-part-of-the-application-56cc)
+- [The Day Facebook Went Offline: A Case Study in Centralization](https://dev.to/ariana_1cd1f38541bf6cd69f/the-day-facebook-went-offline-a-case-study-in-centralization-3g25)
+- [You Don’t Need Motivation — You Need a System](https://dev.to/renato_silva_71eef0fc385f/you-dont-need-motivation-you-need-a-system-3378)
 <!-- BLOG-POST-LIST:END -->
 
