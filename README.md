@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
-- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
-- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
-- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
+- [/server start: How I Let My Friends Control Our Minecraft Server via Discord](https://dev.to/aws/server-start-how-i-let-my-friends-control-our-minecraft-server-via-discord-38l1)
+- [Modern Logging and Telemetry in .Net](https://dev.to/vimaltwit/modern-logging-and-telemetry-in-net-inj)
+- [Cabin Analytics: Ditch the Cookie Banner and Embrace Ethical Tracking](https://dev.to/quentin_merle/cabin-analytics-ditch-the-cookie-banner-and-embrace-ethical-tracking-a51)
+- [Coinbase Agentic Wallets vs Agent Wallet SDK: What the Custody Difference Actually Means](https://dev.to/up2itnow0822/coinbase-agentic-wallets-vs-agent-wallet-sdk-what-the-custody-difference-actually-means-9l)
 <!-- BLOG-POST-LIST:END -->
 
