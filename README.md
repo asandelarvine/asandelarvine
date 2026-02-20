@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g)
-- [What the &#39;sealed&#39; Keyword Means in C# — And When You Should Use It](https://dev.to/libintombaby/what-the-sealed-keyword-means-in-c-and-when-you-should-use-it-572g)
-- [Deep Dive: Self-Improving AI with ACE Skillbooks](https://dev.to/armelhbobdad/deep-dive-self-improving-ai-with-ace-skillbooks-2300)
-- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
+- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
+- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
+- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
+- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
 <!-- BLOG-POST-LIST:END -->
 
