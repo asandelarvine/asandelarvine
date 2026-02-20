@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
-- [Debugging postgres: List all connections](https://dev.to/stefanukena/debugging-postgres-list-all-connections-3o55)
-- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
-- [Why rigid task trackers fail my neurodivergent brain &lpar;and the local AI tool I built instead&rpar;](https://dev.to/chadders13/why-rigid-task-trackers-fail-my-neurodivergent-brain-and-the-local-ai-tool-i-built-instead-29c1)
+- [The Secret Life of JavaScript: The Rejection](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-rejection-124d)
+- [回声（第20章）：第二次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-20zhang-di-er-ci-duan-kai-di-bu-fen--261p)
+- [Java Edition of Claude Code CLI is Here! Solon Code CLI Released](https://dev.to/noear/java-edition-of-claude-code-cli-is-here-solon-code-cli-released-1lpb)
+- [&quot;loading...&quot; vs. &quot;thinking...&quot;](https://dev.to/manuartero/loading-vs-thinking-56i0)
 <!-- BLOG-POST-LIST:END -->
 
