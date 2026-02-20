@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Downtime Embedding Migration: Switching from text-embedding-004 to text-embedding-3-large in Production](https://dev.to/humzakt/zero-downtime-embedding-migration-switching-from-text-embedding-004-to-text-embedding-3-large-in-1292)
-- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
-- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5a3g)
+- [What the &#39;sealed&#39; Keyword Means in C# — And When You Should Use It](https://dev.to/libintombaby/what-the-sealed-keyword-means-in-c-and-when-you-should-use-it-572g)
+- [Deep Dive: Self-Improving AI with ACE Skillbooks](https://dev.to/armelhbobdad/deep-dive-self-improving-ai-with-ace-skillbooks-2300)
+- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
 <!-- BLOG-POST-LIST:END -->
 
