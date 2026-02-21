@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Operational Excellence Begins With Architecture Awareness](https://dev.to/abchatterjee7/operational-excellence-begins-with-architecture-awareness-4fe4)
-- [I built a GitHub star monitor in a single YAML file — zero dependencies, zero config](https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb)
-- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
-- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
+- [Your Company&#39;s Biggest AI Risk Is the AI Nobody Approved](https://dev.to/mothasa/your-companys-biggest-ai-risk-is-the-ai-nobody-approved-7f9)
+- [The Most Popular AI Agent on GitHub Is a Security Catastrophe](https://dev.to/mothasa/the-most-popular-ai-agent-on-github-is-a-security-catastrophe-415m)
+- [L&#39;Architecture de la Pensée Numérique : De l&#39;Algorithme à la Conscience](https://dev.to/lazarusfin/larchitecture-de-la-pensee-numerique-de-lalgorithme-a-la-conscience-5805)
+- [#java #oop #programming #computerscience](https://dev.to/kanishkashr/java-oop-programming-computerscience-4op)
 <!-- BLOG-POST-LIST:END -->
 
