@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Polyglot Trap: Why Mastering Just JavaScript and Python is Your Ultimate Superpower](https://dev.to/frankdotdev/the-polyglot-trap-why-mastering-just-javascript-and-python-is-your-ultimate-superpower-5hij)
-- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
-- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
-- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
+- [On a Quest for the Fastest P2P File Transfer CLI: Thruflux &lpar;Open Alpha&rpar;](https://dev.to/samsungplay/on-a-quest-for-the-fastest-p2p-file-transfer-cli-thruflux-open-alpha-49oi)
+- [SOLID in C# Part 1: Single Responsibility](https://dev.to/csharpdev/solid-in-c-part-1-single-responsibility-5eao)
+- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
+- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
 <!-- BLOG-POST-LIST:END -->
 
