@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers Gave AI Agents Real Jobs. The Agents Couldn&#39;t Close a Pop-Up.](https://dev.to/mothasa/researchers-gave-ai-agents-real-jobs-the-agents-couldnt-close-a-pop-up-b0d)
-- [AI-Powered KPI Extraction: From Annual Reports to Actionable Insights.](https://dev.to/contextfirstai/ai-powered-kpi-extraction-from-annual-reports-to-actionable-insights-1lc)
-- [I Built. I Failed. I Deleted Everything. And I’m Okay With That.](https://dev.to/puneetkumar2010/i-built-i-failed-i-deleted-everything-and-im-okay-with-that-303b)
-- [I built a todo app for people who hate todo apps ✅](https://dev.to/amanso23/i-built-a-todo-app-for-people-who-hate-todo-apps-m18)
+- [EKS-node-viewer: See Your EKS Costs in Real-Time &lpar;No Dashboard Needed&rpar;](https://dev.to/prithiviraj_rengarajan/eks-node-viewer-see-your-eks-costs-in-real-time-no-dashboard-needed-34n2)
+- [آموزش نصب Odoo 19 روی ویندوز &lpar;از صفر تا اجرا&rpar; | نصب نسخه Community مرحله‌به‌مرحله](https://dev.to/zagros_erp/amwzsh-nsb-odoo-19-rwy-wyndwz-z-sfr-t-jr-nsb-nskhh-community-mrhlhbhmrhlh-58ek)
+- [Who can participate in the USAII’s Global AI Hackathon 2026?](https://dev.to/helen_atkins/who-can-participate-in-the-usaiis-global-ai-hackathon-2026-2oc3)
+- [Idea for a Bitcoin wallet backup service that is non-custodial and fully respects self-sovereignty and privacy](https://dev.to/harshit_kedia/idea-for-a-bitcoin-wallet-backup-service-that-is-non-custodial-and-fully-respects-self-sovereignty-1e9g)
 <!-- BLOG-POST-LIST:END -->
 
