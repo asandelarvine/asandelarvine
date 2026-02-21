@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI SRE Doesn&#39;t Need One Model — It Needs the Right Model for Each Job](https://dev.to/vainkop/your-ai-sre-doesnt-need-one-model-it-needs-the-right-model-for-each-job-2b1j)
-- [The Agentic Attack Surface: 2005 Web Security All Over Again](https://dev.to/dendrite_soup/the-agentic-attack-surface-2005-web-security-all-over-again-3ab6)
-- [Understanding Strings in Rust: `String` vs String Literals &lpar;`&amp;str`&rpar;](https://dev.to/dobbythedev/understanding-strings-in-rust-string-vs-string-literals-str-5fn6)
-- [Supabase: Why Modern AI Applications Are Choosing Postgres Again](https://dev.to/riturathin/supabase-why-modern-ai-applications-are-choosing-postgres-again-3fco)
+- [Operational Excellence Begins With Architecture Awareness](https://dev.to/abchatterjee7/operational-excellence-begins-with-architecture-awareness-4fe4)
+- [I built a GitHub star monitor in a single YAML file — zero dependencies, zero config](https://dev.to/woojinahn/i-built-a-github-star-monitor-in-a-single-yaml-file-zero-dependencies-zero-config-2ccb)
+- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
+- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
 <!-- BLOG-POST-LIST:END -->
 
