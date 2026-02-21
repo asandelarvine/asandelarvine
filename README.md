@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Any Company&#39;s Tech Stack &lpar;A Developer&#39;s Guide&rpar;](https://dev.to/henley_wing_9424eb9a3177c/how-to-find-any-companys-tech-stack-a-developers-guide-53h7)
-- [My 2026 Developer Workflow: Combining Good Engineering Habits with AI Tools](https://dev.to/saschadev/my-2026-developer-workflow-combining-good-engineering-habits-with-ai-tools-33da)
-- [Event-Driven Integration in 2026: Connecting Azure and SAP Without Heavy Middleware](https://dev.to/saschadev/event-driven-integration-in-2026-connecting-azure-and-sap-without-heavy-middleware-27dk)
-- [The Likes Table Problem: Why We Went Polymorphic.](https://dev.to/sauravdhakal12/the-likes-table-problem-why-we-went-polymorphic-5dk1)
+- [lazygit-style TUI for NuGet](https://dev.to/nikolaos_protopapas_d3bd6/lazygit-style-tui-for-nuget-25fh)
+- [How We Added Generic Webhooks to SendRec](https://dev.to/alexneamtu/how-we-added-generic-webhooks-to-sendrec-na)
+- [Complete Database Backup Strategy for SaaS](https://dev.to/baqir_naqvi_41192fad7c962/complete-database-backup-strategy-for-saas-142l)
+- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
 <!-- BLOG-POST-LIST:END -->
 
