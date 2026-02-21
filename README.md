@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p)
-- [Habits I Learned Too Late as a Developer — part 2](https://dev.to/glnurltn/habits-i-learned-too-late-as-a-developer-part-2-1gio)
-- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
-- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
+- [PayWatcher is Live](https://dev.to/sem_pre/paywatcher-is-live-50cp)
+- [**Practical Tip: &#39;Shadow Auditing&#39; for AI Model Governance**](https://dev.to/drcarlosruizviquez/practical-tip-shadow-auditing-for-ai-model-governance-3oh8)
+- [USPN: The Web3 Vision for Universal Private Networking](https://dev.to/khizir_esmars_773e4a6d07c/uspn-the-web3-vision-for-universal-private-networking-4cfj)
+- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
 <!-- BLOG-POST-LIST:END -->
 
