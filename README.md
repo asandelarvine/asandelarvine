@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Company&#39;s Biggest AI Risk Is the AI Nobody Approved](https://dev.to/mothasa/your-companys-biggest-ai-risk-is-the-ai-nobody-approved-7f9)
-- [The Most Popular AI Agent on GitHub Is a Security Catastrophe](https://dev.to/mothasa/the-most-popular-ai-agent-on-github-is-a-security-catastrophe-415m)
-- [L&#39;Architecture de la Pensée Numérique : De l&#39;Algorithme à la Conscience](https://dev.to/lazarusfin/larchitecture-de-la-pensee-numerique-de-lalgorithme-a-la-conscience-5805)
-- [#java #oop #programming #computerscience](https://dev.to/kanishkashr/java-oop-programming-computerscience-4op)
+- [Researchers Gave AI Agents Real Jobs. The Agents Couldn&#39;t Close a Pop-Up.](https://dev.to/mothasa/researchers-gave-ai-agents-real-jobs-the-agents-couldnt-close-a-pop-up-b0d)
+- [AI-Powered KPI Extraction: From Annual Reports to Actionable Insights.](https://dev.to/contextfirstai/ai-powered-kpi-extraction-from-annual-reports-to-actionable-insights-1lc)
+- [I Built. I Failed. I Deleted Everything. And I’m Okay With That.](https://dev.to/puneetkumar2010/i-built-i-failed-i-deleted-everything-and-im-okay-with-that-303b)
+- [I built a todo app for people who hate todo apps ✅](https://dev.to/amanso23/i-built-a-todo-app-for-people-who-hate-todo-apps-m18)
 <!-- BLOG-POST-LIST:END -->
 
