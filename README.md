@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 16 Free Dev Tools in a Week — Here&#39;s What I Learned](https://dev.to/mackmoneymaker/i-built-16-free-dev-tools-in-a-week-heres-what-i-learned-37bd)
-- [I Built a Multi-Service Kubernetes App and Here&#39;s What Actually Broke](https://dev.to/adil-khan-723/i-built-a-multi-service-kubernetes-app-and-heres-what-actually-broke-c81)
-- [The Undocumented Secret to Hedera Message Signature Verification](https://dev.to/maxis/-the-undocumented-secret-to-hedera-message-signature-verification-e5l)
-- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
+- [Docker Port Exposing: My Real Production Mistake](https://dev.to/prashanta0234/docker-port-exposing-my-real-production-mistake-4jd0)
+- [Turbocharge Your Content with Sitecore AI Publishing V2](https://dev.to/roshan_ravaliya_c84c08f79/turbocharge-your-content-with-sitecore-ai-publishing-v2-18b5)
+- [Build your own AI code review agent in CI](https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai)
+- [SOPs That Scale: Building Process Workflows for National Operations](https://dev.to/pablo_rivera_ce33bab7970b/sops-that-scale-building-process-workflows-for-national-operations-427l)
 <!-- BLOG-POST-LIST:END -->
 
