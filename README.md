@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Is Unsafe By Design](https://dev.to/dendrite_soup/openclaw-is-unsafe-by-design-58gb)
-- [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
-- [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
-- [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
+- [The Polyglot Trap: Why Mastering Just JavaScript and Python is Your Ultimate Superpower](https://dev.to/frankdotdev/the-polyglot-trap-why-mastering-just-javascript-and-python-is-your-ultimate-superpower-5hij)
+- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
+- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
+- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
 <!-- BLOG-POST-LIST:END -->
 
