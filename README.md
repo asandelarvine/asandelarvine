@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fully Automated SonarCloud Pipeline Using Claude&#39;s MCP](https://dev.to/aadhin_karthik_4e695b420a/building-a-fully-automated-sonarcloud-pipeline-using-claudes-mcp-2il4)
-- [One Prompt to Give Your OpenClaw Email Access](https://dev.to/marcrovira/one-prompt-to-give-your-openclaw-email-access-3dp9)
-- [How I Gave Claude Code Access to 6,500 Azure Cmdlets](https://dev.to/yoshifumi_tsuda/how-i-gave-claude-code-access-to-6500-azure-cmdlets-chk)
-- [Rust-Powered Polymarket Trading Bots: Copy Trade, Arbitrage &amp; Market Making via Telegram](https://dev.to/soulcrancerdev/rust-powered-polymarket-trading-bots-copy-trade-arbitrage-market-making-via-telegram-3bee)
+- [How to Find Any Company&#39;s Tech Stack &lpar;A Developer&#39;s Guide&rpar;](https://dev.to/henley_wing_9424eb9a3177c/how-to-find-any-companys-tech-stack-a-developers-guide-53h7)
+- [My 2026 Developer Workflow: Combining Good Engineering Habits with AI Tools](https://dev.to/saschadev/my-2026-developer-workflow-combining-good-engineering-habits-with-ai-tools-33da)
+- [Event-Driven Integration in 2026: Connecting Azure and SAP Without Heavy Middleware](https://dev.to/saschadev/event-driven-integration-in-2026-connecting-azure-and-sap-without-heavy-middleware-27dk)
+- [The Likes Table Problem: Why We Went Polymorphic.](https://dev.to/sauravdhakal12/the-likes-table-problem-why-we-went-polymorphic-5dk1)
 <!-- BLOG-POST-LIST:END -->
 
