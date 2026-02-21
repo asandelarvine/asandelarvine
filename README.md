@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
-- [On‑Chain Games As Coordination Labs](https://dev.to/ribhavmodi/on-chain-games-as-coordination-labs-3ndf)
-- [Gemini 3.1 Pro: The Next Evolution of Multimodal AI](https://dev.to/gde/gemini-31-pro-the-next-evolution-of-multimodal-ai-1gmp)
-- [🚀 I Recreated an Awwwards-Style Website Using GSAP – Looking for Contributors!](https://dev.to/thakuma07/i-recreated-an-awwwards-style-website-using-gsap-looking-for-contributors-4eff)
+- [Vibe Coding Is Rewriting the Rules of Software Development](https://dev.to/vasughanta09/vibe-coding-is-rewriting-the-rules-of-software-development-282h)
+- [From 10-Minute Blocking APIs to Async Pipelines: A Production Backend Redesign](https://dev.to/phantom_adnan/from-10-minute-blocking-apis-to-async-pipelines-a-production-backend-redesign-114c)
+- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh)
+- [Terminal Operations in Java Streams](https://dev.to/priyankbhardwaj1199/terminal-operations-in-java-streams-2g83)
 <!-- BLOG-POST-LIST:END -->
 
