@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [lazygit-style TUI for NuGet](https://dev.to/nikolaos_protopapas_d3bd6/lazygit-style-tui-for-nuget-25fh)
-- [How We Added Generic Webhooks to SendRec](https://dev.to/alexneamtu/how-we-added-generic-webhooks-to-sendrec-na)
-- [Complete Database Backup Strategy for SaaS](https://dev.to/baqir_naqvi_41192fad7c962/complete-database-backup-strategy-for-saas-142l)
-- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
+- [Getting Started with LLM Gateway in 5 Minutes](https://dev.to/smakosh/getting-started-with-llm-gateway-in-5-minutes-67p)
+- [Habits I Learned Too Late as a Developer — part 2](https://dev.to/glnurltn/habits-i-learned-too-late-as-a-developer-part-2-1gio)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
+- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
 <!-- BLOG-POST-LIST:END -->
 
