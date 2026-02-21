@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Tools to Download TikToks Without Watermarks &lpar;And Why I Built My Own One&rpar;](https://dev.to/hatratilis1972/3-tools-to-download-tiktoks-without-watermarks-and-why-i-built-my-own-one-1mj9)
-- [CrowdStrike Says OpenClaw Is Dangerous. They&#39;re Right. Here&#39;s What To Do About It.](https://dev.to/darbogach/crowdstrike-says-openclaw-is-dangerous-theyre-right-heres-what-to-do-about-it-1kbc)
-- [Moneyshot#1: Month 1 till I make $1k MRR](https://dev.to/siren/moneyshot1-month-1-till-i-make-1k-mrr-2o4a)
-- [ShowDev: I&#39;m building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+- [OpenClaw Is Unsafe By Design](https://dev.to/dendrite_soup/openclaw-is-unsafe-by-design-58gb)
+- [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
+- [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
+- [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
 <!-- BLOG-POST-LIST:END -->
 
