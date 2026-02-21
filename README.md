@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Port Exposing: My Real Production Mistake](https://dev.to/prashanta0234/docker-port-exposing-my-real-production-mistake-4jd0)
-- [Turbocharge Your Content with Sitecore AI Publishing V2](https://dev.to/roshan_ravaliya_c84c08f79/turbocharge-your-content-with-sitecore-ai-publishing-v2-18b5)
-- [Build your own AI code review agent in CI](https://dev.to/lvndry/build-your-own-ai-code-review-agent-in-ci-4mai)
-- [SOPs That Scale: Building Process Workflows for National Operations](https://dev.to/pablo_rivera_ce33bab7970b/sops-that-scale-building-process-workflows-for-national-operations-427l)
+- [Building a Fully Automated SonarCloud Pipeline Using Claude&#39;s MCP](https://dev.to/aadhin_karthik_4e695b420a/building-a-fully-automated-sonarcloud-pipeline-using-claudes-mcp-2il4)
+- [One Prompt to Give Your OpenClaw Email Access](https://dev.to/marcrovira/one-prompt-to-give-your-openclaw-email-access-3dp9)
+- [How I Gave Claude Code Access to 6,500 Azure Cmdlets](https://dev.to/yoshifumi_tsuda/how-i-gave-claude-code-access-to-6500-azure-cmdlets-chk)
+- [Rust-Powered Polymarket Trading Bots: Copy Trade, Arbitrage &amp; Market Making via Telegram](https://dev.to/soulcrancerdev/rust-powered-polymarket-trading-bots-copy-trade-arbitrage-market-making-via-telegram-3bee)
 <!-- BLOG-POST-LIST:END -->
 
