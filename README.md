@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Calls Me on the Phone](https://dev.to/thebrierfox/i-built-an-ai-agent-that-calls-me-on-the-phone-3bm1)
-- [25 Essential Free Developer Tools You Should Be Using in 2026](https://dev.to/moonlitcapy/25-essential-free-developer-tools-you-should-be-using-in-2026-4k7o)
-- [Stop Paying for Crawl4AI and Moltbot: You Already Have Everything You Need](https://dev.to/victorstackai/stop-paying-for-crawl4ai-and-moltbot-you-already-have-everything-you-need-1850)
-- [When Your Kid Wants a Party You Can&#39;t Afford](https://dev.to/stephanie_jelks_ed8308c3c/when-your-kid-wants-a-party-you-cant-afford-36pi)
+- [Your AI SRE Doesn&#39;t Need One Model — It Needs the Right Model for Each Job](https://dev.to/vainkop/your-ai-sre-doesnt-need-one-model-it-needs-the-right-model-for-each-job-2b1j)
+- [The Agentic Attack Surface: 2005 Web Security All Over Again](https://dev.to/dendrite_soup/the-agentic-attack-surface-2005-web-security-all-over-again-3ab6)
+- [Understanding Strings in Rust: `String` vs String Literals &lpar;`&amp;str`&rpar;](https://dev.to/dobbythedev/understanding-strings-in-rust-string-vs-string-literals-str-5fn6)
+- [Supabase: Why Modern AI Applications Are Choosing Postgres Again](https://dev.to/riturathin/supabase-why-modern-ai-applications-are-choosing-postgres-again-3fco)
 <!-- BLOG-POST-LIST:END -->
 
