@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a dev tool post that got 25k reads. My follow-up got 11. Here&#39;s what I learned.](https://dev.to/reposweeper/i-wrote-a-dev-tool-post-that-got-25k-reads-my-follow-up-got-11-heres-what-i-learned-3g51)
-- [Modular Structure in CodeBehind](https://dev.to/elanatframework/modular-structure-in-codebehind-31aa)
-- [[Boost]](https://dev.to/cherryramatis/-m2d)
-- [How to Set Up Your Own AI Assistant with OpenClaw &lpar;Beginner Guide&rpar;](https://dev.to/happy-lico/how-to-set-up-your-own-ai-assistant-with-openclaw-beginner-guide-1gjm)
+- [How to Give Coding Agents Access to SSH and Databases &lpar;Without Breaking Production&rpar;](https://dev.to/getpochi/how-to-give-coding-agents-access-to-ssh-and-databases-without-breaking-production-3f2e)
+- [I&#39;m a dyslexic developer. Here is why I built a task tracker to escape the &quot;Wall of Text&quot;](https://dev.to/chadders13/im-a-dyslexic-developer-here-is-why-i-built-a-task-tracker-to-escape-the-wall-of-text-elp)
+- [ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-543i)
+- [How to Write Better AI Image Prompts: A Practical Guide](https://dev.to/nanoprompts/how-to-write-better-ai-image-prompts-a-practical-guide-539g)
 <!-- BLOG-POST-LIST:END -->
 
