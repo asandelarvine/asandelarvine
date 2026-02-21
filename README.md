@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Give Coding Agents Access to SSH and Databases &lpar;Without Breaking Production&rpar;](https://dev.to/getpochi/how-to-give-coding-agents-access-to-ssh-and-databases-without-breaking-production-3f2e)
-- [I&#39;m a dyslexic developer. Here is why I built a task tracker to escape the &quot;Wall of Text&quot;](https://dev.to/chadders13/im-a-dyslexic-developer-here-is-why-i-built-a-task-tracker-to-escape-the-wall-of-text-elp)
-- [ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-543i)
-- [How to Write Better AI Image Prompts: A Practical Guide](https://dev.to/nanoprompts/how-to-write-better-ai-image-prompts-a-practical-guide-539g)
+- [🏰Beginner-Friendly Guide &#39;Prime Number of Set Bits in Binary Representation&#39; - Problem 762 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-prime-number-of-set-bits-in-binary-representation-problem-762-c-3i33)
+- [Build Your Own MCP Server for Cursor/Claude in 4 Steps](https://dev.to/veeresh-machani/build-your-own-mcp-server-for-cursorclaude-in-4-steps-h79)
+- [Kubernetes Gateway API vs Ingress vs LoadBalancer: What to Use in 2026](https://dev.to/matheus_releaserun/kubernetes-gateway-api-vs-ingress-vs-loadbalancer-what-to-use-in-2026-3l65)
+- [PostgreSQL vs MySQL: A 2026 Production Decision Framework](https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8)
 <!-- BLOG-POST-LIST:END -->
 
