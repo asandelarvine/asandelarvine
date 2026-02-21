@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🏰Beginner-Friendly Guide &#39;Prime Number of Set Bits in Binary Representation&#39; - Problem 762 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-prime-number-of-set-bits-in-binary-representation-problem-762-c-3i33)
-- [Build Your Own MCP Server for Cursor/Claude in 4 Steps](https://dev.to/veeresh-machani/build-your-own-mcp-server-for-cursorclaude-in-4-steps-h79)
-- [Kubernetes Gateway API vs Ingress vs LoadBalancer: What to Use in 2026](https://dev.to/matheus_releaserun/kubernetes-gateway-api-vs-ingress-vs-loadbalancer-what-to-use-in-2026-3l65)
-- [PostgreSQL vs MySQL: A 2026 Production Decision Framework](https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8)
+- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
+- [On‑Chain Games As Coordination Labs](https://dev.to/ribhavmodi/on-chain-games-as-coordination-labs-3ndf)
+- [Gemini 3.1 Pro: The Next Evolution of Multimodal AI](https://dev.to/gde/gemini-31-pro-the-next-evolution-of-multimodal-ai-1gmp)
+- [🚀 I Recreated an Awwwards-Style Website Using GSAP – Looking for Contributors!](https://dev.to/thakuma07/i-recreated-an-awwwards-style-website-using-gsap-looking-for-contributors-4eff)
 <!-- BLOG-POST-LIST:END -->
 
