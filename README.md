@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#java #oop #programming #100daysofcode](https://dev.to/kanishkashr/java-oop-programming-100daysofcode-441k)
-- [When LLMs Converge, Orchestration Becomes Your Competitive Edge](https://dev.to/developer_100x_42fe0ea544/when-llms-converge-orchestration-becomes-your-competitive-edge-d62)
-- [The 3-Step System for Never Missing a Deadline](https://dev.to/caelummain1/the-3-step-system-for-never-missing-a-deadline-3m6g)
-- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
+- [Single-File CSS Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #008](https://dev.to/sugaiketadao/single-file-css-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-kk3)
+- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-5-a7k)
+- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
 <!-- BLOG-POST-LIST:END -->
 
