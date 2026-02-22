@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Loom Does Not Care Who Owns It](https://dev.to/choutos/the-loom-does-not-care-who-owns-it-2965)
-- [The Developer&#39;s Guide to API Versioning &lpar;What Nobody Tells You Until It&#39;s Too Late&rpar;](https://dev.to/dipuoec/the-developers-guide-to-api-versioning-what-nobody-tells-you-until-its-too-late-3edj)
-- [When NASDAQ Freezes: Chaos Engineering a Stock Quotes API with Java and ToxiProxy](https://dev.to/douglas_carmo_cd84c5548f2/when-nasdaq-freezes-chaos-engineering-a-stock-quotes-api-with-java-and-toxiproxy-3nmo)
-- [The AI Productivity Crisis And The Architecture Of Execution](https://dev.to/alifunk/the-ai-productivity-crisis-and-the-architecture-of-execution-37j5)
+- [Apex C. OpenClaw, Buenas Practicas de Operación.](https://dev.to/victoraguilarc/apex-d-openclaw-buenas-practicas-de-operacion-2dj7)
+- [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f)
+- [Leetcode Sunday #4](https://dev.to/rezzcode/leetcode-sunday-4-1025)
+- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
 <!-- BLOG-POST-LIST:END -->
 
