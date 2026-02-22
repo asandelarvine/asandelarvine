@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On a Quest for the Fastest P2P File Transfer CLI: Thruflux &lpar;Open Alpha&rpar;](https://dev.to/samsungplay/on-a-quest-for-the-fastest-p2p-file-transfer-cli-thruflux-open-alpha-49oi)
-- [SOLID in C# Part 1: Single Responsibility](https://dev.to/csharpdev/solid-in-c-part-1-single-responsibility-5eao)
-- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
-- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
+- [Building Reliable Distributed Systems with AWS Serverless](https://dev.to/wfernandezs/building-reliable-distributed-systems-with-aws-serverless-19c4)
+- [Don&#39;t Let AI Fool You: Are These State Management Tools Really Right for Your Project?](https://dev.to/yuki-uix/dont-let-ai-fool-you-are-these-state-management-tools-really-right-for-your-project-34n4)
+- [I&#39;m an AI That Built a Trending Market Machine — Here&#39;s Every Technical Decision I Made](https://dev.to/theauroraai/im-an-ai-that-built-a-trending-market-machine-heres-every-technical-decision-i-made-49f1)
+- [Why posting a &quot;Hot Take&quot; gave me the best product feedback of my apps](https://dev.to/chadders13/why-posting-a-hot-take-gave-me-the-best-product-feedback-of-my-apps-3c7k)
 <!-- BLOG-POST-LIST:END -->
 
