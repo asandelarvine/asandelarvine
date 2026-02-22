@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert JSON to CSV for Excel &lpar;With Example&rpar;](https://dev.to/fenil_panwala_33cb440d437/how-to-convert-json-to-csv-for-excel-with-example-29ib)
-- [TOP 10 WhatsApp-first anti-patterns](https://dev.to/fullagenticstack/top-10-whatsapp-first-anti-patterns-5fp)
-- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
-- [Building a 24/7 Claude Code Wrapper? Here&#39;s Why Each Subprocess Burns 50K Tokens](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma)
+- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
+- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
+- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
+- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
 <!-- BLOG-POST-LIST:END -->
 
