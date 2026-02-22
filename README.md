@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive &lpar;In Both the Bad Way and the Good Way&rpar;](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
-- [Raku Resolutions #3](https://dev.to/lizmat/raku-resolutions-3-3j6m)
-- [5 Errores Comunes en Facturación que te Están Costando Dinero](https://dev.to/brthls/5-errores-comunes-en-facturacion-que-te-estan-costando-dinero-24ne)
-- [ERP vs Contabilidad Online: ¿Cuál Elegir para Tu Negocio?](https://dev.to/brthls/erp-vs-contabilidad-online-cual-elegir-para-tu-negocio-3k9)
+- [Data Science at My MobApp Studio](https://dev.to/hanaez/data-science-at-my-mobapp-studio-1b1n)
+- [The Internet’s Trust Problem: BGP Hijacking, RPKI, and the Role of Blackwell-Scale Compute](https://dev.to/navinder/the-internets-trust-problem-bgp-hijacking-rpki-and-the-role-of-blackwell-scale-compute-2dkj)
+- [If you’re searching for businesses in a specific niche and wondering where to actually find quality leads, this article walks you through a step-by-step system to uncover and organize them efficiently.](https://dev.to/brenth_daryllmozo_ad9f09/if-youre-searching-for-businesses-in-a-specific-niche-and-wondering-where-to-actually-find-quality-i1c)
+- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
 <!-- BLOG-POST-LIST:END -->
 
