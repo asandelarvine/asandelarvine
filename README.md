@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents Need Permissionless Infrastructure — So We Built It](https://dev.to/alfredz0x/agents-need-permissionless-infrastructure-so-we-built-it-357c)
-- [Could AI in the Terminal Make Us Worse Engineers?](https://dev.to/kostia_3807e016df1085b9bd/could-ai-in-the-terminal-make-us-worse-engineers-3b5a)
-- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
-- [Build a RAG System with Python and a Local LLM &lpar;No API Costs&rpar;](https://dev.to/satstack/build-a-rag-system-with-python-and-a-local-llm-no-api-costs-2go0)
+- [#java #oop #programming #100daysofcode](https://dev.to/kanishkashr/java-oop-programming-100daysofcode-441k)
+- [When LLMs Converge, Orchestration Becomes Your Competitive Edge](https://dev.to/developer_100x_42fe0ea544/when-llms-converge-orchestration-becomes-your-competitive-edge-d62)
+- [The 3-Step System for Never Missing a Deadline](https://dev.to/caelummain1/the-3-step-system-for-never-missing-a-deadline-3m6g)
+- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
 <!-- BLOG-POST-LIST:END -->
 
