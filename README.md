@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Data Chaos to Executable Graphs: Turning Relationships into Infrastructure](https://dev.to/hello_arisyn_0dc948aa82b3/from-data-chaos-to-executable-graphs-turning-relationships-into-infrastructure-1f7m)
-- [[Boost]](https://dev.to/ladarius_davis_90f595f6e8/-1k3h)
-- [Flutter for Beginners: Where to Start?](https://dev.to/ratratatyu/flutter-for-beginners-where-to-start-142a)
-- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
+- [How to Convert JSON to CSV for Excel &lpar;With Example&rpar;](https://dev.to/fenil_panwala_33cb440d437/how-to-convert-json-to-csv-for-excel-with-example-29ib)
+- [TOP 10 WhatsApp-first anti-patterns](https://dev.to/fullagenticstack/top-10-whatsapp-first-anti-patterns-5fp)
+- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
+- [Building a 24/7 Claude Code Wrapper? Here&#39;s Why Each Subprocess Burns 50K Tokens](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma)
 <!-- BLOG-POST-LIST:END -->
 
