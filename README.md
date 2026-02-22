@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP fun: How to do operator overrides](https://dev.to/xwero/php-fun-how-to-do-operator-overrides-52o)
-- [Building a Production-Grade Table Editor with React and XState](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-41ke)
-- [Docker Desktop on Windows EC2 Virtualization not supported Requires Nested Virtualization &lpar;AWS&rpar;](https://dev.to/hem_upadhyay_ad9428dc9ddc/docker-desktop-on-windows-ec2-virtualization-not-supported-requires-nested-virtualization-aws-1n5d)
-- [Stepping into the Spotlight: Pitching Our HCI Vision at DesignExpo 2025](https://dev.to/iszet/stepping-into-the-spotlight-pitching-our-hci-vision-at-designexpo-2025-l86)
+- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive &lpar;In Both the Bad Way and the Good Way&rpar;](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
+- [Raku Resolutions #3](https://dev.to/lizmat/raku-resolutions-3-3j6m)
+- [5 Errores Comunes en Facturación que te Están Costando Dinero](https://dev.to/brthls/5-errores-comunes-en-facturacion-que-te-estan-costando-dinero-24ne)
+- [ERP vs Contabilidad Online: ¿Cuál Elegir para Tu Negocio?](https://dev.to/brthls/erp-vs-contabilidad-online-cual-elegir-para-tu-negocio-3k9)
 <!-- BLOG-POST-LIST:END -->
 
