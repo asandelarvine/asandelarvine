@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Single-File CSS Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #008](https://dev.to/sugaiketadao/single-file-css-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-kk3)
-- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-5-a7k)
-- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
+- [Published a Lightweight Library for Root/Jailbreak Detection React Native](https://dev.to/rushikeshpandit/published-a-lightweight-library-for-rootjailbreak-detection-react-native-1eam)
+- [Building Skill Align – Part 4: Roles, OWD, Sharing &amp; Record-Level Governance](https://dev.to/rubasri_srikanthan/building-skill-align-part-4-roles-owd-sharing-record-level-governance-4n61)
+- [Building a Production-Ready RAG Chatbot with AWS Bedrock, LangChain, and Terraform](https://dev.to/aws-builders/building-a-production-ready-rag-chatbot-with-aws-bedrock-langchain-and-terraform-381k)
+- [How to Generate Business Leads Using Google Maps, IDS, and Python](https://dev.to/up_min_sparcs/how-to-generate-business-leads-using-google-maps-ids-and-python-42c5)
 <!-- BLOG-POST-LIST:END -->
 
