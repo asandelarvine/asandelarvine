@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One OpenClaw Gateway Multiple Isolated AI Assistants &lpar;One Telegram Bot Per Worker&rpar;](https://dev.to/onin/one-openclaw-gateway-multiple-isolated-ai-assistants-one-telegram-bot-per-worker-3k97)
-- [Daily Challenge #10 : The &quot;Zero-Script&quot; Shopping Cart 🛒](https://dev.to/bingkahu/daily-challenge-10-the-zero-script-shopping-cart-2ka4)
-- [All you need to know about 🦞 OpenClaw](https://dev.to/xilinwei/all-you-need-to-know-about-openclaw-35cb)
-- [Hud.io Doesn’t Replace Observability It Replaces Guessing](https://dev.to/aws-builders/hudio-doesnt-replace-observability-it-replaces-guessing-13m2)
+- [Agents Need Permissionless Infrastructure — So We Built It](https://dev.to/alfredz0x/agents-need-permissionless-infrastructure-so-we-built-it-357c)
+- [Could AI in the Terminal Make Us Worse Engineers?](https://dev.to/kostia_3807e016df1085b9bd/could-ai-in-the-terminal-make-us-worse-engineers-3b5a)
+- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
+- [Build a RAG System with Python and a Local LLM &lpar;No API Costs&rpar;](https://dev.to/satstack/build-a-rag-system-with-python-and-a-local-llm-no-api-costs-2go0)
 <!-- BLOG-POST-LIST:END -->
 
