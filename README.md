@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free VIN Decoder vs Paid Services: What Information Actually Matters When Buying Used Cars](https://dev.to/subprime2010/free-vin-decoder-vs-paid-services-what-information-actually-matters-when-buying-used-cars-1mef)
-- [What Your Car Dealer Actually Paid for That Used Car &lpar;And Why It Matters&rpar;](https://dev.to/subprime2010/what-your-car-dealer-actually-paid-for-that-used-car-and-why-it-matters-3ied)
-- [Streaming anomaly detection in Node.js with Iterflow](https://dev.to/gvsh_maths/streaming-anomaly-detection-in-nodejs-with-iterflow-7e1)
-- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
+- [I Dug Up My 10-Year-Old Android App, Dusted It Off With AI, and Put It Back on the Play Store](https://dev.to/akarshan/i-dug-up-my-10-year-old-android-app-dusted-it-off-with-ai-and-put-it-back-on-the-play-store-4a3c)
+- [Why AI Text Gets Detected - The Linguistics Behind It](https://dev.to/gofortool/why-ai-text-gets-detected-the-linguistics-behind-it-4019)
+- [How to Build a Simple Persistent Memory Layer for LLM Apps &lpar;With Code&rpar;](https://dev.to/cloyouai/how-to-build-a-simple-persistent-memory-layer-for-llm-apps-with-code-1dgf)
+- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob)
 <!-- BLOG-POST-LIST:END -->
 
