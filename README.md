@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Published a Lightweight Library for Root/Jailbreak Detection React Native](https://dev.to/rushikeshpandit/published-a-lightweight-library-for-rootjailbreak-detection-react-native-1eam)
-- [Building Skill Align – Part 4: Roles, OWD, Sharing &amp; Record-Level Governance](https://dev.to/rubasri_srikanthan/building-skill-align-part-4-roles-owd-sharing-record-level-governance-4n61)
-- [Building a Production-Ready RAG Chatbot with AWS Bedrock, LangChain, and Terraform](https://dev.to/aws-builders/building-a-production-ready-rag-chatbot-with-aws-bedrock-langchain-and-terraform-381k)
-- [How to Generate Business Leads Using Google Maps, IDS, and Python](https://dev.to/up_min_sparcs/how-to-generate-business-leads-using-google-maps-ids-and-python-42c5)
+- [PHP fun: How to do operator overrides](https://dev.to/xwero/php-fun-how-to-do-operator-overrides-52o)
+- [Building a Production-Grade Table Editor with React and XState](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-41ke)
+- [Docker Desktop on Windows EC2 Virtualization not supported Requires Nested Virtualization &lpar;AWS&rpar;](https://dev.to/hem_upadhyay_ad9428dc9ddc/docker-desktop-on-windows-ec2-virtualization-not-supported-requires-nested-virtualization-aws-1n5d)
+- [Stepping into the Spotlight: Pitching Our HCI Vision at DesignExpo 2025](https://dev.to/iszet/stepping-into-the-spotlight-pitching-our-hci-vision-at-designexpo-2025-l86)
 <!-- BLOG-POST-LIST:END -->
 
