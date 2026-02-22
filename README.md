@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The section that actually makes users use your website &lpar;not the hero&rpar;](https://dev.to/bhavin-allinonetools/the-section-that-actually-makes-users-use-your-website-not-the-hero-1cdl)
-- [What is Serialization and Deserialization in Programming?](https://dev.to/itssohampatel/what-is-serialization-and-deserialization-in-programming-11d0)
-- [Open-source React DevTools extension for spotting performance and state issues in real time](https://dev.to/hoainhoblogdev/open-source-react-devtools-extension-for-spotting-performance-and-state-issues-in-real-time-54ib)
-- [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
+- [One OpenClaw Gateway Multiple Isolated AI Assistants &lpar;One Telegram Bot Per Worker&rpar;](https://dev.to/onin/one-openclaw-gateway-multiple-isolated-ai-assistants-one-telegram-bot-per-worker-3k97)
+- [Daily Challenge #10 : The &quot;Zero-Script&quot; Shopping Cart 🛒](https://dev.to/bingkahu/daily-challenge-10-the-zero-script-shopping-cart-2ka4)
+- [All you need to know about 🦞 OpenClaw](https://dev.to/xilinwei/all-you-need-to-know-about-openclaw-35cb)
+- [Hud.io Doesn’t Replace Observability It Replaces Guessing](https://dev.to/aws-builders/hudio-doesnt-replace-observability-it-replaces-guessing-13m2)
 <!-- BLOG-POST-LIST:END -->
 
