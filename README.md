@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarks Are Breaking: Why Many ‘Top Scores’ Don’t Mean Production-Ready.](https://dev.to/lamhot/benchmarks-are-breaking-why-many-top-scores-dont-mean-production-ready-3cc9)
-- [Your Lighthouse Score Is Only Half the Story](https://dev.to/ahojmetrics/your-lighthouse-score-is-only-half-the-story-1d80)
-- [DoraHacks Hackathon Newsletter 2026 February](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-february-53i0)
-- [JWT vs PASETO v2 vs TECTO: Choosing the Right Token Protocol in 2026](https://dev.to/zastinian/jwt-vs-paseto-v2-vs-tecto-choosing-the-right-token-protocol-in-2026-573j)
+- [Free VIN Decoder vs Paid Services: What Information Actually Matters When Buying Used Cars](https://dev.to/subprime2010/free-vin-decoder-vs-paid-services-what-information-actually-matters-when-buying-used-cars-1mef)
+- [What Your Car Dealer Actually Paid for That Used Car &lpar;And Why It Matters&rpar;](https://dev.to/subprime2010/what-your-car-dealer-actually-paid-for-that-used-car-and-why-it-matters-3ied)
+- [Streaming anomaly detection in Node.js with Iterflow](https://dev.to/gvsh_maths/streaming-anomaly-detection-in-nodejs-with-iterflow-7e1)
+- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
 <!-- BLOG-POST-LIST:END -->
 
