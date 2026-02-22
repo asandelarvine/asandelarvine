@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Dug Up My 10-Year-Old Android App, Dusted It Off With AI, and Put It Back on the Play Store](https://dev.to/akarshan/i-dug-up-my-10-year-old-android-app-dusted-it-off-with-ai-and-put-it-back-on-the-play-store-4a3c)
-- [Why AI Text Gets Detected - The Linguistics Behind It](https://dev.to/gofortool/why-ai-text-gets-detected-the-linguistics-behind-it-4019)
-- [How to Build a Simple Persistent Memory Layer for LLM Apps &lpar;With Code&rpar;](https://dev.to/cloyouai/how-to-build-a-simple-persistent-memory-layer-for-llm-apps-with-code-1dgf)
-- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob)
+- [The section that actually makes users use your website &lpar;not the hero&rpar;](https://dev.to/bhavin-allinonetools/the-section-that-actually-makes-users-use-your-website-not-the-hero-1cdl)
+- [What is Serialization and Deserialization in Programming?](https://dev.to/itssohampatel/what-is-serialization-and-deserialization-in-programming-11d0)
+- [Open-source React DevTools extension for spotting performance and state issues in real time](https://dev.to/hoainhoblogdev/open-source-react-devtools-extension-for-spotting-performance-and-state-issues-in-real-time-54ib)
+- [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
 <!-- BLOG-POST-LIST:END -->
 
