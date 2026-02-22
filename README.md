@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging APIs? Why a Visual JSON Editor is Better Than Your Terminal](https://dev.to/99tools/debugging-apis-why-a-visual-json-editor-is-better-than-your-terminal-1b40)
-- [🔐 TLS Encryption &amp; Decryption in AWS Network Firewall](https://dev.to/aws-builders/tls-encryption-decryption-in-aws-network-firewall-3olb)
-- [Competitive Puzzles](https://dev.to/jesuspinarte/competitive-puzzles-ma1)
-- [How I Built an AI Chat That Speaks As Me](https://dev.to/mjd/how-i-built-an-ai-chat-that-speaks-as-me-1hn3)
+- [From Data Chaos to Executable Graphs: Turning Relationships into Infrastructure](https://dev.to/hello_arisyn_0dc948aa82b3/from-data-chaos-to-executable-graphs-turning-relationships-into-infrastructure-1f7m)
+- [[Boost]](https://dev.to/ladarius_davis_90f595f6e8/-1k3h)
+- [Flutter for Beginners: Where to Start?](https://dev.to/ratratatyu/flutter-for-beginners-where-to-start-142a)
+- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
 <!-- BLOG-POST-LIST:END -->
 
