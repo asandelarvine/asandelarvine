@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science at My MobApp Studio](https://dev.to/hanaez/data-science-at-my-mobapp-studio-1b1n)
-- [The Internet’s Trust Problem: BGP Hijacking, RPKI, and the Role of Blackwell-Scale Compute](https://dev.to/navinder/the-internets-trust-problem-bgp-hijacking-rpki-and-the-role-of-blackwell-scale-compute-2dkj)
-- [If you’re searching for businesses in a specific niche and wondering where to actually find quality leads, this article walks you through a step-by-step system to uncover and organize them efficiently.](https://dev.to/brenth_daryllmozo_ad9f09/if-youre-searching-for-businesses-in-a-specific-niche-and-wondering-where-to-actually-find-quality-i1c)
-- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
+- [Debugging APIs? Why a Visual JSON Editor is Better Than Your Terminal](https://dev.to/99tools/debugging-apis-why-a-visual-json-editor-is-better-than-your-terminal-1b40)
+- [🔐 TLS Encryption &amp; Decryption in AWS Network Firewall](https://dev.to/aws-builders/tls-encryption-decryption-in-aws-network-firewall-3olb)
+- [Competitive Puzzles](https://dev.to/jesuspinarte/competitive-puzzles-ma1)
+- [How I Built an AI Chat That Speaks As Me](https://dev.to/mjd/how-i-built-an-ai-chat-that-speaks-as-me-1hn3)
 <!-- BLOG-POST-LIST:END -->
 
