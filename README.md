@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apex C. OpenClaw, Buenas Practicas de Operación.](https://dev.to/victoraguilarc/apex-d-openclaw-buenas-practicas-de-operacion-2dj7)
-- [The Evolution of the AI-Driven Coder](https://dev.to/iwilsonq/the-evolution-of-the-ai-driven-coder-2p0f)
-- [Leetcode Sunday #4](https://dev.to/rezzcode/leetcode-sunday-4-1025)
-- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
+- [How to Make Any React App Multilingual - Static UI + Dynamic Data](https://dev.to/manjhss/how-to-make-any-react-app-multilingual-static-ui-dynamic-data-1d0p)
+- [Beautiful Perl feature: trailing commas](https://dev.to/damil/beautiful-perl-feature-trailing-commas-4504)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
+- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
 <!-- BLOG-POST-LIST:END -->
 
