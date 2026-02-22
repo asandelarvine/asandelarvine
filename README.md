@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Any React App Multilingual - Static UI + Dynamic Data](https://dev.to/manjhss/how-to-make-any-react-app-multilingual-static-ui-dynamic-data-1d0p)
-- [Beautiful Perl feature: trailing commas](https://dev.to/damil/beautiful-perl-feature-trailing-commas-4504)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
-- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
+- [How Many Direct Reports Should an Engineering Manager Have?](https://dev.to/amy_vereda_ai/how-many-direct-reports-should-an-engineering-manager-have-39la)
+- [Optimizing documentation for search](https://dev.to/dino_kukic/optimizing-documentation-for-search-518c)
+- [Accessing Servers Behind Strict Firewalls Using Cloudflare](https://dev.to/galchammat/accessing-servers-behind-strict-firewalls-using-cloudflare-46pp)
+- [How we built a real-time DNS and VPN leak detection engine &lpar;architecture and methodology&rpar;](https://dev.to/denysshchur/how-we-built-a-real-time-dns-and-vpn-leak-detection-engine-architecture-and-methodology-1e2b)
 <!-- BLOG-POST-LIST:END -->
 
