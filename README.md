@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
-- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
-- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
-- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
+- [The Loom Does Not Care Who Owns It](https://dev.to/choutos/the-loom-does-not-care-who-owns-it-2965)
+- [The Developer&#39;s Guide to API Versioning &lpar;What Nobody Tells You Until It&#39;s Too Late&rpar;](https://dev.to/dipuoec/the-developers-guide-to-api-versioning-what-nobody-tells-you-until-its-too-late-3edj)
+- [When NASDAQ Freezes: Chaos Engineering a Stock Quotes API with Java and ToxiProxy](https://dev.to/douglas_carmo_cd84c5548f2/when-nasdaq-freezes-chaos-engineering-a-stock-quotes-api-with-java-and-toxiproxy-3nmo)
+- [The AI Productivity Crisis And The Architecture Of Execution](https://dev.to/alifunk/the-ai-productivity-crisis-and-the-architecture-of-execution-37j5)
 <!-- BLOG-POST-LIST:END -->
 
