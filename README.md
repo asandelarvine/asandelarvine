@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reliable Distributed Systems with AWS Serverless](https://dev.to/wfernandezs/building-reliable-distributed-systems-with-aws-serverless-19c4)
-- [Don&#39;t Let AI Fool You: Are These State Management Tools Really Right for Your Project?](https://dev.to/yuki-uix/dont-let-ai-fool-you-are-these-state-management-tools-really-right-for-your-project-34n4)
-- [I&#39;m an AI That Built a Trending Market Machine — Here&#39;s Every Technical Decision I Made](https://dev.to/theauroraai/im-an-ai-that-built-a-trending-market-machine-heres-every-technical-decision-i-made-49f1)
-- [Why posting a &quot;Hot Take&quot; gave me the best product feedback of my apps](https://dev.to/chadders13/why-posting-a-hot-take-gave-me-the-best-product-feedback-of-my-apps-3c7k)
+- [Benchmarks Are Breaking: Why Many ‘Top Scores’ Don’t Mean Production-Ready.](https://dev.to/lamhot/benchmarks-are-breaking-why-many-top-scores-dont-mean-production-ready-3cc9)
+- [Your Lighthouse Score Is Only Half the Story](https://dev.to/ahojmetrics/your-lighthouse-score-is-only-half-the-story-1d80)
+- [DoraHacks Hackathon Newsletter 2026 February](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-february-53i0)
+- [JWT vs PASETO v2 vs TECTO: Choosing the Right Token Protocol in 2026](https://dev.to/zastinian/jwt-vs-paseto-v2-vs-tecto-choosing-the-right-token-protocol-in-2026-573j)
 <!-- BLOG-POST-LIST:END -->
 
