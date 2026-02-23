@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudWatch vs Azure Monitor: Features, Costs, and Best Fit](https://dev.to/signoz/aws-cloudwatch-vs-azure-monitor-features-costs-and-best-fit-28nf)
-- [What Happened When I Stopped Delegating and Started Prompting](https://dev.to/nandishdave/what-happened-when-i-stopped-delegating-and-started-prompting-18ml)
-- [How to Auto-Export Glasp Highlights with n8n](https://dev.to/glasp/how-to-auto-export-glasp-highlights-with-n8n-24ll)
-- [CloudWatch Pricing Without the Confusion [Part 1]](https://dev.to/signoz/cloudwatch-pricing-without-the-confusion-part-1-3n1d)
+- [Created a GitHub Reusable Workflows Repository for Personal Use](https://dev.to/masutaka/created-a-github-reusable-workflows-repository-for-personal-use-28mo)
+- [Ten years late to the dbt party &lpar;DuckDB edition&rpar;](https://dev.to/rmoff/ten-years-late-to-the-dbt-party-duckdb-edition-2cg)
+- [The Comprehensive Guide to OTel Collector Contrib](https://dev.to/ankit01oss/the-comprehensive-guide-to-otel-collector-contrib-5cp2)
+- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
 <!-- BLOG-POST-LIST:END -->
 
