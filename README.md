@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust + CTEM: Building Security That Validates Itself](https://dev.to/akshayramshivakumar/zero-trust-ctem-building-security-that-validates-itself-56mp)
-- [Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast](https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g)
-- [2026 is the New 2016 and Honestly? I Kind of Get It.](https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg)
-- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d)
+- [AWS CloudWatch vs Azure Monitor: Features, Costs, and Best Fit](https://dev.to/signoz/aws-cloudwatch-vs-azure-monitor-features-costs-and-best-fit-28nf)
+- [What Happened When I Stopped Delegating and Started Prompting](https://dev.to/nandishdave/what-happened-when-i-stopped-delegating-and-started-prompting-18ml)
+- [How to Auto-Export Glasp Highlights with n8n](https://dev.to/glasp/how-to-auto-export-glasp-highlights-with-n8n-24ll)
+- [CloudWatch Pricing Without the Confusion [Part 1]](https://dev.to/signoz/cloudwatch-pricing-without-the-confusion-part-1-3n1d)
 <!-- BLOG-POST-LIST:END -->
 
