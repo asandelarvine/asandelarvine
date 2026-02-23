@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro-frontends as a organization - Anatomy of Scale - Part I](https://dev.to/marco_quintella/micro-frontends-as-a-organization-anatomy-of-scale-part-i-44fo)
-- [A better home for your automated test results](https://dev.to/stevepryde/a-better-home-for-your-automated-test-results-3951)
-- [Session #2 on Scrimba - the art of troubleshooting is still not mastered](https://dev.to/fredrik_berg/session-2-on-scrimba-the-art-of-troubleshooting-is-still-not-mastered-pef)
-- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
+- [I Built a Niche AI/ML Job Board in 48 Hours — Stack, Code &amp; Live Revenue Model](https://dev.to/oblivionlabz/i-built-a-niche-aiml-job-board-in-48-hours-stack-code-live-revenue-model-1l1g)
+- [Salary Data is Messy: What 10,000+ PMHNP Job Posts Say About DNP vs MSN &lpar;+$10–20K?&rpar;](https://dev.to/sathish_daggula/salary-data-is-messy-what-10000-pmhnp-job-posts-say-about-dnp-vs-msn-10-20k-5gp3)
+- [I Built an Autonomous Crypto Trading Bot That Runs 24/7 on My Mac for $0/Month](https://dev.to/naption/i-built-an-autonomous-crypto-trading-bot-that-runs-247-on-my-mac-for-0month-2f2c)
+- [The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy](https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf)
 <!-- BLOG-POST-LIST:END -->
 
