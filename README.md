@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RFC 6749 Deep Dive: Understanding OAuth 2.0 Design Decisions from the Specification](https://dev.to/kanywst/rfc-6749-deep-dive-understanding-oauth-20-design-decisions-from-the-specification-2amb)
-- [Vector Embeddings Explained &lpar;with hands on demo&rpar;](https://dev.to/tawe/vector-embeddings-explained-with-hands-on-demo-56gp)
-- [GenAIOps on AWS: Building Production-Ready GenAI Systems - Part 1](https://dev.to/shoaibalimir/genaiops-on-aws-building-production-ready-genai-systems-part-1-290f)
-- [✍Beginner-Friendly Guide &#39;Check If a String Contains All Binary Codes of Size K&#39; - Problem 1461 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-check-if-a-string-contains-all-binary-codes-of-size-k-problem-1461-2g95)
+- [21 for 21](https://dev.to/ja_xiao_12fb66bccf6a18a45/21-for-21-409l)
+- [How I Built an E2E Encrypted File Transfer in Python — and What Came Out of It](https://dev.to/artmarchenko/how-i-built-an-e2e-encrypted-file-transfer-in-python-and-what-came-out-of-it-54ei)
+- [MCP Server Monetization 2026](https://dev.to/namel/mcp-server-monetization-2026-1p2j)
+- [Advanced Prompt Engineering: From Zero-Shot to Self-Consistency](https://dev.to/brayanarrieta/advanced-prompt-engineering-from-zero-shot-to-self-consistency-431b)
 <!-- BLOG-POST-LIST:END -->
 
