@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Is Not About Containers: It&#39;s About Giving Every Team the Same Experience](https://dev.to/artem_atamancuk/kubernetes-is-not-about-containers-its-about-giving-every-team-the-same-experience-1omp)
-- [When I use AI for rapid prototyping and MVPs, the goal isn’t “build quickly.” The goal is learn quickly, with minimal waste and maximum signal.](https://dev.to/jaideepparashar/when-i-use-ai-for-rapid-prototyping-and-mvps-the-goal-isnt-build-quickly-the-goal-is-learn-g9n)
-- [How I Use AI for Rapid Prototyping and MVP Development](https://dev.to/jaideepparashar/how-i-use-ai-for-rapid-prototyping-and-mvp-development-2hm2)
-- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
+- [Zero Trust + CTEM: Building Security That Validates Itself](https://dev.to/akshayramshivakumar/zero-trust-ctem-building-security-that-validates-itself-56mp)
+- [Artificial Intelligence Coding Is Shrinking Teams. Adapt Fast](https://dev.to/sashido/artificial-intelligence-coding-is-shrinking-teams-adapt-fast-m8g)
+- [2026 is the New 2016 and Honestly? I Kind of Get It.](https://dev.to/vasughanta09/2026-is-the-new-2016-and-honestly-i-kind-of-get-it-57bg)
+- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d)
 <!-- BLOG-POST-LIST:END -->
 
