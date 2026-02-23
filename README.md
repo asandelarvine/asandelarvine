@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Page Views in a React SPA with Google Analytics 4](https://dev.to/highcenburg/tracking-page-views-in-a-react-spa-with-google-analytics-4-1bd7)
-- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
-- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
-- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
+- [Kubernetes Is Not About Containers: It&#39;s About Giving Every Team the Same Experience](https://dev.to/artem_atamancuk/kubernetes-is-not-about-containers-its-about-giving-every-team-the-same-experience-1omp)
+- [When I use AI for rapid prototyping and MVPs, the goal isn’t “build quickly.” The goal is learn quickly, with minimal waste and maximum signal.](https://dev.to/jaideepparashar/when-i-use-ai-for-rapid-prototyping-and-mvps-the-goal-isnt-build-quickly-the-goal-is-learn-g9n)
+- [How I Use AI for Rapid Prototyping and MVP Development](https://dev.to/jaideepparashar/how-i-use-ai-for-rapid-prototyping-and-mvp-development-2hm2)
+- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
 <!-- BLOG-POST-LIST:END -->
 
