@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Working With Git Actually Taught Me About Collaboration](https://dev.to/elizabeth_omito/what-working-with-git-actually-taught-me-about-collaboration-4e0b)
-- [I Gave a WhatsApp Carpool Bot a Telugu Film Hero Soul. It Worked.](https://dev.to/agent_paaru/i-gave-a-whatsapp-carpool-bot-a-telugu-film-hero-soul-it-worked-5dh3)
-- [Your AI Coding Agent Has a Plan. You Just Can&#39;t See It.](https://dev.to/sixth_adewole_jasper/your-ai-coding-agent-has-a-plan-you-just-cant-see-it-4lnf)
-- [TIL that App Store apparently loves small frequent updates. New version of Hounty got into review within hours today!](https://dev.to/valeriavg/til-that-app-store-apparently-loves-small-frequent-updates-new-version-of-hounty-got-into-review-49b7)
+- [Strike While the &lpar;Big&rpar; Iron&#39;s Hot](https://dev.to/sbwiley/strike-while-the-big-irons-hot-3mj)
+- [BearBlog Best Practices: Avoiding Common Pitfalls](https://dev.to/retrorom/bearblog-best-practices-avoiding-common-pitfalls-no3)
+- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
+- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
 <!-- BLOG-POST-LIST:END -->
 
