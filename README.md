@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Direct Reports Should an Engineering Manager Have?](https://dev.to/amy_vereda_ai/how-many-direct-reports-should-an-engineering-manager-have-39la)
-- [Optimizing documentation for search](https://dev.to/dino_kukic/optimizing-documentation-for-search-518c)
-- [Accessing Servers Behind Strict Firewalls Using Cloudflare](https://dev.to/galchammat/accessing-servers-behind-strict-firewalls-using-cloudflare-46pp)
-- [How we built a real-time DNS and VPN leak detection engine &lpar;architecture and methodology&rpar;](https://dev.to/denysshchur/how-we-built-a-real-time-dns-and-vpn-leak-detection-engine-architecture-and-methodology-1e2b)
+- [Tracking Page Views in a React SPA with Google Analytics 4](https://dev.to/highcenburg/tracking-page-views-in-a-react-spa-with-google-analytics-4-1bd7)
+- [Por que estou migrando da Roblox para o desenvolvimento web](https://dev.to/cayasde/por-que-estou-migrando-da-roblox-para-o-desenvolvimento-web-48h1)
+- [Bringing Async MCP to Google Cloud Run — Introducing cloudrun-mcp](https://dev.to/raghavachellu/bringing-async-mcp-to-google-cloud-run-introducing-cloudrun-mcp-1g3p)
+- [Scaling Climate Tech: An Introduction to Helpothon Sustainability for Developers](https://dev.to/helpathon/scaling-climate-tech-an-introduction-to-helpothon-sustainability-for-developers-31a8)
 <!-- BLOG-POST-LIST:END -->
 
