@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Миграция с WordPress на Bitrix без потери SEO](https://dev.to/_vproger_/mighratsiia-s-wordpress-na-bitrix-biez-potieri-seo-2l45)
-- [Почему миграции с WordPress на Bitrix рушат SEO](https://dev.to/_vproger_/pochiemu-mighratsii-s-wordpress-na-bitrix-rushat-seo-12k7)
-- [WordPress: JSON-LD для CPT — дубли и ошибки](https://dev.to/_vproger_/wordpress-json-ld-dlia-cpt-dubli-i-oshibki-181j)
-- [Torc Bot 2: The Refactor](https://dev.to/j3ffjessie/torc-bot-2-the-refactor-2f34)
+- [Micro-frontends as a organization - Anatomy of Scale - Part I](https://dev.to/marco_quintella/micro-frontends-as-a-organization-anatomy-of-scale-part-i-44fo)
+- [A better home for your automated test results](https://dev.to/stevepryde/a-better-home-for-your-automated-test-results-3951)
+- [Session #2 on Scrimba - the art of troubleshooting is still not mastered](https://dev.to/fredrik_berg/session-2-on-scrimba-the-art-of-troubleshooting-is-still-not-mastered-pef)
+- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
 <!-- BLOG-POST-LIST:END -->
 
