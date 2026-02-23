@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Safiullah Korai? Flutter Developer Today, AI Engineer Tomorrow](https://dev.to/safiullahkorai/who-is-safiullah-korai-flutter-developer-today-ai-engineer-tomorrow-2bbo)
-- [Training-Serving Skew. The Silent Model Killer](https://dev.to/timeai/training-serving-skew-the-silent-model-killer-2abl)
-- [Where software engineering might be headed](https://dev.to/sushantpokharel/where-software-engineering-might-be-headed-b8j)
-- [Problema do &quot;ponto&quot; no cmd do Windows](https://dev.to/douglas_leandro_dc6f0d1af/problema-do-ponto-no-cmd-do-windows-3ka7)
+- [Миграция с WordPress на Bitrix без потери SEO](https://dev.to/_vproger_/mighratsiia-s-wordpress-na-bitrix-biez-potieri-seo-2l45)
+- [Почему миграции с WordPress на Bitrix рушат SEO](https://dev.to/_vproger_/pochiemu-mighratsii-s-wordpress-na-bitrix-rushat-seo-12k7)
+- [WordPress: JSON-LD для CPT — дубли и ошибки](https://dev.to/_vproger_/wordpress-json-ld-dlia-cpt-dubli-i-oshibki-181j)
+- [Torc Bot 2: The Refactor](https://dev.to/j3ffjessie/torc-bot-2-the-refactor-2f34)
 <!-- BLOG-POST-LIST:END -->
 
