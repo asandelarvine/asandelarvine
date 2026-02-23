@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [21 for 21](https://dev.to/ja_xiao_12fb66bccf6a18a45/21-for-21-409l)
-- [How I Built an E2E Encrypted File Transfer in Python — and What Came Out of It](https://dev.to/artmarchenko/how-i-built-an-e2e-encrypted-file-transfer-in-python-and-what-came-out-of-it-54ei)
-- [MCP Server Monetization 2026](https://dev.to/namel/mcp-server-monetization-2026-1p2j)
-- [Advanced Prompt Engineering: From Zero-Shot to Self-Consistency](https://dev.to/brayanarrieta/advanced-prompt-engineering-from-zero-shot-to-self-consistency-431b)
+- [Who is Safiullah Korai? Flutter Developer Today, AI Engineer Tomorrow](https://dev.to/safiullahkorai/who-is-safiullah-korai-flutter-developer-today-ai-engineer-tomorrow-2bbo)
+- [Training-Serving Skew. The Silent Model Killer](https://dev.to/timeai/training-serving-skew-the-silent-model-killer-2abl)
+- [Where software engineering might be headed](https://dev.to/sushantpokharel/where-software-engineering-might-be-headed-b8j)
+- [Problema do &quot;ponto&quot; no cmd do Windows](https://dev.to/douglas_leandro_dc6f0d1af/problema-do-ponto-no-cmd-do-windows-3ka7)
 <!-- BLOG-POST-LIST:END -->
 
