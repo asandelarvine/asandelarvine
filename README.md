@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Created a GitHub Reusable Workflows Repository for Personal Use](https://dev.to/masutaka/created-a-github-reusable-workflows-repository-for-personal-use-28mo)
-- [Ten years late to the dbt party &lpar;DuckDB edition&rpar;](https://dev.to/rmoff/ten-years-late-to-the-dbt-party-duckdb-edition-2cg)
-- [The Comprehensive Guide to OTel Collector Contrib](https://dev.to/ankit01oss/the-comprehensive-guide-to-otel-collector-contrib-5cp2)
-- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
+- [How I Keep a Kubernetes CLI Lean: Vault + Jenkins + Istio, Loaded Only On Demand](https://dev.to/wilddog64/how-i-keep-a-kubernetes-cli-lean-vault-jenkins-istio-loaded-only-on-demand-5031)
+- [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
+- [How to Set Up a Local Podman Registry and Customize Podman Images](https://dev.to/project42/how-to-set-up-a-local-podman-registry-and-customize-podman-images-2dbc)
+- [A quick guide to Python&#39;s Dictionary](https://dev.to/jibbsjunior/a-quick-guide-to-pythons-dictionary-361k)
 <!-- BLOG-POST-LIST:END -->
 
