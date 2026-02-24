@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Update &lpar;2026/02/24&rpar;: Added new feature to reduce much stress.💥](https://dev.to/webdeveloperhyper/update-20260224-added-new-feature-to-reduce-much-stress-2m0b)
-- [Extension Methods in C#](https://dev.to/allcoderthings/extension-methods-in-c-4je7)
-- [The No-Code Credit Trap: How AI Builders Are Quietly Draining Your Budget](https://dev.to/pawel_reszka/the-no-code-credit-trap-how-ai-builders-are-quietly-draining-your-budget-20p4)
-- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
+- [Servactory — Typed Service Objects with Declarative Actions for Ruby](https://dev.to/profox/servactory-typed-service-objects-with-declarative-actions-for-ruby-1g96)
+- [The Python Function That Implements Itself](https://dev.to/morganwilliscloud/the-python-function-that-implements-itself-3el8)
+- [TDD is Like Cooking: Why I Taste My Code as I Go](https://dev.to/manishpodiyal/tdd-is-like-cooking-why-i-taste-my-code-as-i-go-1kl7)
+- [Detecting &amp; Fixing Memory Leaks in Java &lpar;Spring Boot&rpar; — A Practical Guide](https://dev.to/neerajgahlawat/detecting-fixing-memory-leaks-in-java-spring-boot-a-practical-guide-2eao)
 <!-- BLOG-POST-LIST:END -->
 
