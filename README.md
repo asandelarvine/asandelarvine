@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, I&#39;m Aamer — AI Engineer Building Agentic Systems](https://dev.to/o96a/hello-im-aamer-ai-engineer-building-agentic-systems-hpg)
-- [Secure Your App&#39;s API Keys in 10 Minutes](https://dev.to/jason_kvproxy/secure-your-apps-api-keys-in-10-minutes-3oga)
-- [How to make your own AI chatbot for absolute beginners?](https://dev.to/kush_dhuvad_c8d4f344c66c7/how-to-make-your-own-ai-chatbot-for-absolute-beginners-n8p)
-- [Data Modeling for Analytics: Optimize for Queries, Not Transactions](https://dev.to/alexmercedcoder/dimensional-modeling-facts-dimensions-and-grains-2gk5)
+- [Getting Started with brandspec: Define Your Brand in One YAML File](https://dev.to/numtet/getting-started-with-brandspec-define-your-brand-in-one-yaml-file-2lgc)
+- [The Ceiling Just Moved. Most Engineers Haven&#39;t Looked Up Yet.](https://dev.to/carolemlago/the-ceiling-just-moved-most-engineers-havent-looked-up-yet-3159)
+- [Project Vortex](https://dev.to/lucashooghof/project-vortex-47p0)
+- [I Built a Kubernetes Operator That Programs My Cisco Router](https://dev.to/csepulvedab/i-built-a-kubernetes-operator-that-programs-my-cisco-router-5b9e)
 <!-- BLOG-POST-LIST:END -->
 
