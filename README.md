@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Reviewed Final Round AI for Technical Interviews: Here’s What Actually Matters in 2026](https://dev.to/finalroundai/i-reviewed-final-round-ai-for-technical-interviews-heres-what-actually-matters-in-2026-47gd)
-- [From Zero to AI Agent: Your First Python Project Guide](https://dev.to/klement_gunndu/from-zero-to-ai-agent-your-first-python-project-guide-g93)
-- [Minesweeper in Power App: Two Buttons One Gallery](https://dev.to/niacrisss/minesweeper-in-power-app-two-buttons-one-gallery-4i6c)
-- [Why I Built BloxMeta: The Free Roblox Code Database Every Gamer Needs](https://dev.to/lyyluca/why-i-built-bloxmeta-the-free-roblox-code-database-every-gamer-needs-4kb2)
+- [run.sh Diaries #3: My Terminal Stack – tmux, zoxide, and lazygit](https://dev.to/lazydoomslayer/runsh-diaries-3-my-terminal-stack-tmux-zoxide-and-lazygit-4hmm)
+- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
+- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
+- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
 <!-- BLOG-POST-LIST:END -->
 
