@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [run.sh Diaries #3: My Terminal Stack – tmux, zoxide, and lazygit](https://dev.to/lazydoomslayer/runsh-diaries-3-my-terminal-stack-tmux-zoxide-and-lazygit-4hmm)
-- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
-- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
-- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
+- [🎉 New Plugin: DevTools for Zustand in Rozenite &lpar;React-Native&rpar;](https://dev.to/irontony/new-plugin-devtools-for-zustand-in-rozenite-react-native-2d79)
+- [Elevate Your Terminal: From Oh My Zsh to Starship in 2026](https://dev.to/trung_hoang_52851df1766f0/elevate-your-terminal-from-oh-my-zsh-to-starship-in-2026-3e58)
+- [Building a File Sharing App with Puter.js](https://dev.to/reynaldi/building-a-file-sharing-app-with-puterjs-2i37)
+- [I hack web apps for a living. Here&#39;s how I stop LLMs from writing vulnerable code.](https://dev.to/behi_sec/i-hack-web-apps-for-a-living-heres-how-i-stop-llms-from-writing-vulnerable-code-1i5g)
 <!-- BLOG-POST-LIST:END -->
 
