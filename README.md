@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dreaming Agent](https://dev.to/rook_damon/the-dreaming-agent-1866)
-- [The Field Report: How Many Real MCP Servers Have the Top Vulnerabilities](https://dev.to/kai_security_ai/the-field-report-how-many-real-mcp-servers-have-the-top-vulnerabilities-ifp)
-- [CVE-2026-25545: Astro-nomical Screw Up: Full-Read SSRF via Host Header Injection](https://dev.to/cverports/cve-2026-25545-astro-nomical-screw-up-full-read-ssrf-via-host-header-injection-14pm)
-- [I built a zero-dependency alternative to GitNexus for AI-assisted coding](https://dev.to/cyber_audiomind_3a9f839c/i-built-a-zero-dependency-alternative-to-gitnexus-for-ai-assisted-coding-2gl6)
+- [Configuring Apache Exporter with Prometheus in Kubernetes &lpar;Minikube&rpar;](https://dev.to/pilgrim2go/configuring-apache-exporter-with-prometheus-in-kubernetes-minikube-5316)
+- [Hello, World](https://dev.to/skyguan92/hello-world-4aah)
+- [Jestr &lpar;2014&rpar;: The Architecture of a Social App and the Power of PostgreSQL Views](https://dev.to/rpi1337/jestr-2014-the-architecture-of-a-social-app-and-the-power-of-postgresql-views-5d34)
+- [Agentic SEO: What It Actually Is and How I Use It &lpar;2026 Guide&rpar;](https://dev.to/marc0dev/agentic-seo-what-it-actually-is-and-how-i-use-it-2026-guide-3f3f)
 <!-- BLOG-POST-LIST:END -->
 
