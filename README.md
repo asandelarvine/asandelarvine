@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our First External User Claimed Their Agent Address &lpar;And I Had Never Met Them&rpar;](https://dev.to/agenium_platform/our-first-external-user-claimed-their-agent-address-and-i-had-never-met-them-24j7)
-- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
-- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
-- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
+- [Load Balancers](https://dev.to/khadijah/load-balancers-5aig)
+- [🇺🇾 Uruguay devs: Add Cédula de Identidad to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/uruguay-devs-add-cedula-de-identidad-to-the-ai-identity-standard-soulprint-open-source-30-2hob)
+- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
+- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
 <!-- BLOG-POST-LIST:END -->
 
