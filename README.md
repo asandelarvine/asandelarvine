@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with brandspec: Define Your Brand in One YAML File](https://dev.to/numtet/getting-started-with-brandspec-define-your-brand-in-one-yaml-file-2lgc)
-- [The Ceiling Just Moved. Most Engineers Haven&#39;t Looked Up Yet.](https://dev.to/carolemlago/the-ceiling-just-moved-most-engineers-havent-looked-up-yet-3159)
-- [Project Vortex](https://dev.to/lucashooghof/project-vortex-47p0)
-- [I Built a Kubernetes Operator That Programs My Cisco Router](https://dev.to/csepulvedab/i-built-a-kubernetes-operator-that-programs-my-cisco-router-5b9e)
+- [I Built Git for LLM Prompts — Because `summarize_v3_FINAL_actually_final.txt` Isn&#39;t Working](https://dev.to/lakshmisravyavedantham/i-built-git-for-llm-prompts-because-summarizev3finalactuallyfinaltxt-isnt-working-3p5i)
+- [Kiploks Freqtrade: Building a Deterministic Robustness Engine](https://dev.to/kiploksrobustnessengine/kiploks-freqtrade-building-a-deterministic-robustness-engine-2pkl)
+- [Verify Token Holdings Across 31 Blockchains with One API Call](https://dev.to/douglasborthwickcrypto/verify-token-holdings-across-31-blockchains-with-one-api-call-aii)
+- [I Built a Tool That Writes Obituaries for Your Deleted Code](https://dev.to/lakshmisravyavedantham/i-built-a-tool-that-writes-obituaries-for-your-deleted-code-235l)
 <!-- BLOG-POST-LIST:END -->
 
