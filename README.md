@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your country is missing from the AI identity standard — help us fix that in 30 minutes](https://dev.to/manuel_felipeariaspined/your-country-is-missing-from-the-ai-identity-standard-help-us-fix-that-in-30-minutes-12c4)
-- [Doctrine ORM: How I Escaped the Cartesian Product Trap](https://dev.to/ahmedbhs/doctrine-orm-how-i-escaped-the-cartesian-product-trap-4mck)
-- [Difference between High Level Design&lpar;HLD&rpar; and Low Level Design&lpar;LLD&rpar;](https://dev.to/satishjaiswal/difference-between-high-level-designhld-and-low-level-designlld-2okn)
-- [7 Terminal Tools I Can&#39;t Live Without &lpar;That Most Developers Don&#39;t Know About&rpar;](https://dev.to/teguh_coding/7-terminal-tools-i-cant-live-without-that-most-developers-dont-know-about-3bjk)
+- [Our First External User Claimed Their Agent Address &lpar;And I Had Never Met Them&rpar;](https://dev.to/agenium_platform/our-first-external-user-claimed-their-agent-address-and-i-had-never-met-them-24j7)
+- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
+- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
+- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
 <!-- BLOG-POST-LIST:END -->
 
