@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Servactory — Typed Service Objects with Declarative Actions for Ruby](https://dev.to/profox/servactory-typed-service-objects-with-declarative-actions-for-ruby-1g96)
-- [The Python Function That Implements Itself](https://dev.to/morganwilliscloud/the-python-function-that-implements-itself-3el8)
-- [TDD is Like Cooking: Why I Taste My Code as I Go](https://dev.to/manishpodiyal/tdd-is-like-cooking-why-i-taste-my-code-as-i-go-1kl7)
-- [Detecting &amp; Fixing Memory Leaks in Java &lpar;Spring Boot&rpar; — A Practical Guide](https://dev.to/neerajgahlawat/detecting-fixing-memory-leaks-in-java-spring-boot-a-practical-guide-2eao)
+- [Your country is missing from the AI identity standard — help us fix that in 30 minutes](https://dev.to/manuel_felipeariaspined/your-country-is-missing-from-the-ai-identity-standard-help-us-fix-that-in-30-minutes-12c4)
+- [Doctrine ORM: How I Escaped the Cartesian Product Trap](https://dev.to/ahmedbhs/doctrine-orm-how-i-escaped-the-cartesian-product-trap-4mck)
+- [Difference between High Level Design&lpar;HLD&rpar; and Low Level Design&lpar;LLD&rpar;](https://dev.to/satishjaiswal/difference-between-high-level-designhld-and-low-level-designlld-2okn)
+- [7 Terminal Tools I Can&#39;t Live Without &lpar;That Most Developers Don&#39;t Know About&rpar;](https://dev.to/teguh_coding/7-terminal-tools-i-cant-live-without-that-most-developers-dont-know-about-3bjk)
 <!-- BLOG-POST-LIST:END -->
 
