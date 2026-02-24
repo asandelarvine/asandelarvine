@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Git for LLM Prompts — Because `summarize_v3_FINAL_actually_final.txt` Isn&#39;t Working](https://dev.to/lakshmisravyavedantham/i-built-git-for-llm-prompts-because-summarizev3finalactuallyfinaltxt-isnt-working-3p5i)
-- [Kiploks Freqtrade: Building a Deterministic Robustness Engine](https://dev.to/kiploksrobustnessengine/kiploks-freqtrade-building-a-deterministic-robustness-engine-2pkl)
-- [Verify Token Holdings Across 31 Blockchains with One API Call](https://dev.to/douglasborthwickcrypto/verify-token-holdings-across-31-blockchains-with-one-api-call-aii)
-- [I Built a Tool That Writes Obituaries for Your Deleted Code](https://dev.to/lakshmisravyavedantham/i-built-a-tool-that-writes-obituaries-for-your-deleted-code-235l)
+- [My newsletter has 50 AI tools. The writing is still mine.](https://dev.to/ludobos/my-newsletter-has-50-ai-tools-the-writing-is-still-mine-55pa)
+- [# How to Parse Invoices into JSON with Python &lpar;No Regex&rpar;](https://dev.to/rishamax/-how-to-parse-invoices-into-json-with-python-no-regex-4pmn)
+- [Building a Document Processing Pipeline with 0xPdf and Python](https://dev.to/rishamax/building-a-document-processing-pipeline-with-0xpdf-and-python-5940)
+- [How I Self-Host Metabase &amp; Why Your Team Should Too](https://dev.to/paschalogu/how-i-self-host-metabase-why-your-team-should-too-1a6l)
 <!-- BLOG-POST-LIST:END -->
 
