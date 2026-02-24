@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Strike While the &lpar;Big&rpar; Iron&#39;s Hot](https://dev.to/sbwiley/strike-while-the-big-irons-hot-3mj)
-- [BearBlog Best Practices: Avoiding Common Pitfalls](https://dev.to/retrorom/bearblog-best-practices-avoiding-common-pitfalls-no3)
-- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
-- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
+- [The Dreaming Agent](https://dev.to/rook_damon/the-dreaming-agent-1866)
+- [The Field Report: How Many Real MCP Servers Have the Top Vulnerabilities](https://dev.to/kai_security_ai/the-field-report-how-many-real-mcp-servers-have-the-top-vulnerabilities-ifp)
+- [CVE-2026-25545: Astro-nomical Screw Up: Full-Read SSRF via Host Header Injection](https://dev.to/cverports/cve-2026-25545-astro-nomical-screw-up-full-read-ssrf-via-host-header-injection-14pm)
+- [I built a zero-dependency alternative to GitNexus for AI-assisted coding](https://dev.to/cyber_audiomind_3a9f839c/i-built-a-zero-dependency-alternative-to-gitnexus-for-ai-assisted-coding-2gl6)
 <!-- BLOG-POST-LIST:END -->
 
