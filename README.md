@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My newsletter has 50 AI tools. The writing is still mine.](https://dev.to/ludobos/my-newsletter-has-50-ai-tools-the-writing-is-still-mine-55pa)
-- [# How to Parse Invoices into JSON with Python &lpar;No Regex&rpar;](https://dev.to/rishamax/-how-to-parse-invoices-into-json-with-python-no-regex-4pmn)
-- [Building a Document Processing Pipeline with 0xPdf and Python](https://dev.to/rishamax/building-a-document-processing-pipeline-with-0xpdf-and-python-5940)
-- [How I Self-Host Metabase &amp; Why Your Team Should Too](https://dev.to/paschalogu/how-i-self-host-metabase-why-your-team-should-too-1a6l)
+- [Your AI Agents Have 5 Months to Comply With the EU AI Act — Here&#39;s What You&#39;re Missing](https://dev.to/json_shotwell/your-ai-agents-have-5-months-to-comply-with-the-eu-ai-act-heres-what-youre-missing-4c3a)
+- [Ng-News 26/07: Angular&#39;s Router, Vitest, Hashbrown, History &amp; Popularity](https://dev.to/playfulprogramming-angular/ng-news-2607-angulars-router-vitest-hashbrown-history-popularity-4phc)
+- [The 24 Hour Campaign Launch: Operational Workflows for Agile Landing Page Deployment](https://dev.to/jasonbiondo/the-24-hour-campaign-launch-operational-workflows-for-agile-landing-page-deployment-4him)
+- [Repository Pattern vs Direct DbContext Usage in .NET &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/repository-pattern-vs-direct-dbcontext-usage-in-net-2026-edition-31pd)
 <!-- BLOG-POST-LIST:END -->
 
