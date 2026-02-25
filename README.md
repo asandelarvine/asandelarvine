@@ -79,9 +79,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Decoupled Architecture](https://dev.to/jumptotech/part-2-decoupled-architecture-45jp)
-- [Session Profiles: Persistent Authentication for Browser Agents](https://dev.to/nottelabs/session-profiles-persistent-authentication-for-browser-agents-3e6b)
-- [12.Update Deployment and Service in Kubernetes](https://dev.to/thukhakyawe_cloud/12update-deployment-and-service-in-kubernetes-2ebp)
-- [We Built a YouTube Tag Generator Without Using AI — Here’s the Real Architecture Behind It](https://dev.to/yttaggen/we-built-a-youtube-tag-generator-without-using-ai-heres-the-real-architecture-behind-it-3l1j)
+- [I launch a 2D musou roguelite with sci-fi story and smalls ROOMs indie game](https://dev.to/sketbr/i-launch-a-2d-musou-roguelite-with-sci-fi-story-and-smalls-rooms-indie-game-12pp)
+- [JSON Video](https://dev.to/mena234/json-video-33pd)
+- [I spent 2 years as a UI/UX designer before switching to code.](https://dev.to/adewebdeveloper/i-spent-2-years-as-a-uiux-designer-before-switching-to-code-4dab)
+- [5 APIs I’d use to build data-driven apps:
+
+• IPstack IP &amp; location data
+• Aviationstack Flight &amp; aviation data
+• Zenserp Search engine results
+• Marketstack Stock market data
+• Numverify Phone validation &amp; metadata
+
+More info on the article :&rpar;](https://dev.to/eleftheriabatsou/5-apis-id-use-to-build-data-driven-apps-ipstack-ip-location-data-aviationstack--141a)
 <!-- BLOG-POST-LIST:END -->
 
