@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic SDLC: How AI Teams Debate, Code, and Secure Enterprise Infrastructure](https://dev.to/uenyioha/the-agentic-sdlc-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-5ge9)
-- [28 Real Tasks Reveal What AI Leaderboards Miss](https://dev.to/makerpulse/28-real-tasks-reveal-what-ai-leaderboards-miss-neb)
-- [The Challenges Threatening Open Source](https://dev.to/bridget_amana/the-challenges-threatening-open-source-160g)
-- [Low-Level Mastery: The Mechanics of Pointer Arithmetic](https://dev.to/miraly/low-level-mastery-the-mechanics-of-pointer-arithmetic-33f1)
+- [When Disk Space is Not Enough: A Lesson in Challenging MySQL Database Cleansing](https://dev.to/taufiqtab/when-disk-space-is-not-enough-a-lesson-in-challenging-mysql-database-cleansing-eoj)
+- [Conversational Development With Claude Code — Part 15: Cost Control and Model Strategy in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-15-cost-control-and-model-strategy-in-claude-2018)
+- [Conversational Development With Claude Code — Part 14: Installing MCP Servers in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-14-installing-mcp-servers-in-claude-code-3jg0)
+- [AWS Amplify + Amazon Cognito + AWS CDK: A Complete Setup Guide](https://dev.to/aws-builders/aws-amplify-amazon-cognito-aws-cdk-a-complete-setup-guide-26f2)
 <!-- BLOG-POST-LIST:END -->
 
