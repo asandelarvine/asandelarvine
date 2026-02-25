@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java record compact constructors &lpar;steal back from ai&rpar;](https://dev.to/hrgdavor/java-record-compact-constructors-steal-back-from-ai-4d8a)
-- [Arhitectură pentru un site de prezentare în 3 zile](https://dev.to/alexandru_draghici_3c127b/arhitectura-pentru-un-site-de-prezentare-in-3-zile-1j3o)
-- [Exploration: Composer Path Repositories for Local Drupal Module Dependencies](https://dev.to/victorstackai/exploration-composer-path-repositories-for-local-drupal-module-dependencies-3odp)
-- [Assumptions Do](https://dev.to/iyanu_david/assumptions-do-26hk)
+- [Building a Multi-Agent System with Tool Calling using Angular, Firebase &amp; Genkit](https://dev.to/wayne_gakuo/building-a-multi-agent-system-with-tool-calling-using-angular-firebase-genkit-5h83)
+- [How to Add Progress Bars and Status Indicators to Your Favicon](https://dev.to/arindamdawn/how-to-add-progress-bars-and-status-indicators-to-your-favicon-2leb)
+- [Gemini tried to shop my WooCommerce store. Here&#39;s how far it got.](https://dev.to/zologic/gemini-tried-to-shop-my-woocommerce-store-heres-how-far-it-got-326n)
+- [You Are Doing AI Images Wrong](https://dev.to/burvestorylab/you-are-doing-ai-images-wrong-12po)
 <!-- BLOG-POST-LIST:END -->
 
