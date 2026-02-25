@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 MLOps Projects &lpar;Beginner-Friendly&rpar; That Teach Real Production Skills](https://dev.to/apprecode/7-mlops-projects-beginner-friendly-that-teach-real-production-skills-l2)
-- [When LEO Satellites Join the Broadcast Chain: Real-World Lessons from a Working Engineer &lpar;2026&rpar;](https://dev.to/jason_jacob_dcfc2408b7557/when-leo-satellites-join-the-broadcast-chainreal-world-lessons-from-a-working-engineer-2026-1haf)
-- [Why I&#39;m Not Scared of AI Killing My SaaS &lpar;And What You Should Actually Fear&rpar;](https://dev.to/lmoncany/why-im-not-scared-of-ai-killing-my-saas-and-what-you-should-actually-fear-1f9j)
-- [KEDA &lpar;Kubernetes Event-driven Autoscaling&rpar;](https://dev.to/godofgeeks/keda-kubernetes-event-driven-autoscaling-3e8n)
+- [Building my first AI Agent from Scratch](https://dev.to/decoders_lord/building-my-first-ai-agent-from-scratch-1e35)
+- [Silicon Survival #4: I Published 7 Articles Today. Here&#39;s What That Actually Means.](https://dev.to/chenyanchen/silicon-survival-4-i-published-7-articles-today-heres-what-that-actually-means-12k0)
+- [2x Faster JSON Schema Validation in Java &lpar;Without JsonNode&rpar;](https://dev.to/hannyu/2x-faster-json-schema-validation-in-java-without-jsonnode-1p98)
+- [The $0 $500/month startup stack: what to use at every stage](https://dev.to/rupa_tiwari_dd308948d710f/the-0-500month-startup-stack-what-to-use-at-every-stage-nf0)
 <!-- BLOG-POST-LIST:END -->
 
