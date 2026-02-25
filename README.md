@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧶 I Built a Production-Ready Blogging Platform with Django, DRF &amp; Supabase](https://dev.to/sneh1117/i-built-a-production-ready-blogging-platform-with-django-drf-supabase-3d6p)
-- [How AI Made Our JS7 Migration 98% Faster](https://dev.to/venu_hulmane/how-ai-made-our-js7-migration-98-faster-55i3)
-- [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm)
-- [Turn Your Laptop into a Server: Host Web Apps Locally with Coolify and Cloudflare Tunnels](https://dev.to/vimal/turn-your-laptop-into-a-server-host-web-apps-locally-with-coolify-and-cloudflare-tunnels-1kkm)
+- [Stop Feeling the Shame; Start Reading the Logs: A Guide to Objective Analysis](https://dev.to/chandravijayagr/stop-feeling-the-shame-start-reading-the-logs-a-guide-to-objective-analysis-585m)
+- [5 Ways to Take Website Screenshots in Node.js &lpar;2026 Comparison&rpar;](https://dev.to/grabshot_dev/5-ways-to-take-website-screenshots-in-nodejs-2026-comparison-4gpo)
+- [I&#39;m a developer building a finance app for freelancers here&#39;s the problem no tool is solving no tool is solving](https://dev.to/hanstech/iim-a-developer-building-a-finance-app-for-freelancers-heres-the-problem-no-tool-is-solving-no-279m)
+- [Building AI Agent Memory Architecture: A Practical Guide to State Management in Autonomous Systems](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-practical-guide-to-state-management-in-autonomous-systems-5c4j)
 <!-- BLOG-POST-LIST:END -->
 
