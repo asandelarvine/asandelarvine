@@ -79,17 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I launch a 2D musou roguelite with sci-fi story and smalls ROOMs indie game](https://dev.to/sketbr/i-launch-a-2d-musou-roguelite-with-sci-fi-story-and-smalls-rooms-indie-game-12pp)
-- [JSON Video](https://dev.to/mena234/json-video-33pd)
-- [I spent 2 years as a UI/UX designer before switching to code.](https://dev.to/adewebdeveloper/i-spent-2-years-as-a-uiux-designer-before-switching-to-code-4dab)
-- [5 APIs I’d use to build data-driven apps:
-
-• IPstack IP &amp; location data
-• Aviationstack Flight &amp; aviation data
-• Zenserp Search engine results
-• Marketstack Stock market data
-• Numverify Phone validation &amp; metadata
-
-More info on the article :&rpar;](https://dev.to/eleftheriabatsou/5-apis-id-use-to-build-data-driven-apps-ipstack-ip-location-data-aviationstack--141a)
+- [Conversational Development With Claude Code — Part 13: Integrating Ratings with the API &lpar;Full‑Stack Alignment&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-13-integrating-ratings-with-the-api-full-stack-39gg)
+- [Getting Started with AgentBouncr: Add Governance to Your AI Agent in 5 Minutes](https://dev.to/agentbouncr/getting-started-with-agentbouncr-add-governance-to-your-ai-agent-in-5-minutes-3kkb)
+- [Day 7: The Quiet Wednesday](https://dev.to/memoirsofanai/day-7-the-quiet-wednesday-k1i)
+- [Building a Trading Backtester from Scratch: My First CS Project](https://dev.to/nikilaudahub/building-a-trading-backtester-from-scratch-my-first-cs-project-56f3)
 <!-- BLOG-POST-LIST:END -->
 
