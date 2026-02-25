@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Disk Space is Not Enough: A Lesson in Challenging MySQL Database Cleansing](https://dev.to/taufiqtab/when-disk-space-is-not-enough-a-lesson-in-challenging-mysql-database-cleansing-eoj)
-- [Conversational Development With Claude Code — Part 15: Cost Control and Model Strategy in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-15-cost-control-and-model-strategy-in-claude-2018)
-- [Conversational Development With Claude Code — Part 14: Installing MCP Servers in Claude Code](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-14-installing-mcp-servers-in-claude-code-3jg0)
-- [AWS Amplify + Amazon Cognito + AWS CDK: A Complete Setup Guide](https://dev.to/aws-builders/aws-amplify-amazon-cognito-aws-cdk-a-complete-setup-guide-26f2)
+- [AI Is Taking Jobs. So What Should Developers Do?](https://dev.to/amoreno/ai-is-taking-jobs-so-what-should-developers-do-1gak)
+- [Building a RESTful Creature Management System with Spring Boot and Vanilla JavaScript](https://dev.to/qkarman/building-a-restful-creature-management-system-with-spring-boot-and-vanilla-javascript-alh)
+- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
+- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
 <!-- BLOG-POST-LIST:END -->
 
