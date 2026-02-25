@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agents Have 5 Months to Comply With the EU AI Act — Here&#39;s What You&#39;re Missing](https://dev.to/json_shotwell/your-ai-agents-have-5-months-to-comply-with-the-eu-ai-act-heres-what-youre-missing-4c3a)
-- [Ng-News 26/07: Angular&#39;s Router, Vitest, Hashbrown, History &amp; Popularity](https://dev.to/playfulprogramming-angular/ng-news-2607-angulars-router-vitest-hashbrown-history-popularity-4phc)
-- [The 24 Hour Campaign Launch: Operational Workflows for Agile Landing Page Deployment](https://dev.to/jasonbiondo/the-24-hour-campaign-launch-operational-workflows-for-agile-landing-page-deployment-4him)
-- [Repository Pattern vs Direct DbContext Usage in .NET &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/repository-pattern-vs-direct-dbcontext-usage-in-net-2026-edition-31pd)
+- [Getting Started with Ent: Facebook’s Open-Source ORM for Go Developers](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-ent-facebooks-open-source-orm-for-go-developers-1non)
+- [🇦🇹 Österreich devs: Add Personalausweis to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/osterreich-devs-add-personalausweis-to-the-ai-identity-standard-soulprint-open-source-30-min-12dd)
+- [Stop Writing Spaghetti Code: How I Learned to Love TypeScript&#39;s Type System](https://dev.to/teguh_coding/stop-writing-spaghetti-code-how-i-learned-to-love-typescripts-type-system-12g)
+- [I built a FREE offline pixel art editor that runs entirely in your browser](https://dev.to/systemcrash92/i-built-a-free-offline-pixel-art-editor-that-runs-entirely-in-your-browser-1pf6)
 <!-- BLOG-POST-LIST:END -->
 
