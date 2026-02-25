@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversational Development With Claude Code — Part 13: Integrating Ratings with the API &lpar;Full‑Stack Alignment&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-13-integrating-ratings-with-the-api-full-stack-39gg)
-- [Getting Started with AgentBouncr: Add Governance to Your AI Agent in 5 Minutes](https://dev.to/agentbouncr/getting-started-with-agentbouncr-add-governance-to-your-ai-agent-in-5-minutes-3kkb)
-- [Day 7: The Quiet Wednesday](https://dev.to/memoirsofanai/day-7-the-quiet-wednesday-k1i)
-- [Building a Trading Backtester from Scratch: My First CS Project](https://dev.to/nikilaudahub/building-a-trading-backtester-from-scratch-my-first-cs-project-56f3)
+- [Skills Required for Building AI Agents in 2026](https://dev.to/imaginex/skills-required-for-building-ai-agents-in-2026-2ed)
+- [ATIC Doesn&#39;t Train. It Thinks. — How a Brazilian Developer Hit #1 on LiveBench Without Touching a Single Weight](https://dev.to/felipe_muniz_grsba/atic-doesnt-train-it-thinks-how-a-brazilian-developer-hit-1-on-livebench-without-touching-a-1p0a)
+- [Testing Data Pipelines: What to Validate and When](https://dev.to/alexmercedcoder/testing-data-pipelines-what-to-validate-and-when-2hei)
+- [Is AI Agent Development Just About Calling APIs? Where&#39;s the Real Difficulty?](https://dev.to/imaginex/is-ai-agent-development-just-about-calling-apis-wheres-the-real-difficulty-2j75)
 <!-- BLOG-POST-LIST:END -->
 
