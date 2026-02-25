@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent System with Tool Calling using Angular, Firebase &amp; Genkit](https://dev.to/wayne_gakuo/building-a-multi-agent-system-with-tool-calling-using-angular-firebase-genkit-5h83)
-- [How to Add Progress Bars and Status Indicators to Your Favicon](https://dev.to/arindamdawn/how-to-add-progress-bars-and-status-indicators-to-your-favicon-2leb)
-- [Gemini tried to shop my WooCommerce store. Here&#39;s how far it got.](https://dev.to/zologic/gemini-tried-to-shop-my-woocommerce-store-heres-how-far-it-got-326n)
-- [You Are Doing AI Images Wrong](https://dev.to/burvestorylab/you-are-doing-ai-images-wrong-12po)
+- [🇵🇭 Philippines devs: Add PhilSys ID &lpar;PSN&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/philippines-devs-add-philsys-id-psn-to-the-ai-identity-standard-soulprint-open-source-30-l6m)
+- [The Raw Power of Svelte 5 Runes: 70 Components, 25 KB, Full Reactivity](https://dev.to/hostingsift/the-raw-power-of-svelte-5-runes-70-components-25-kb-full-reactivity-2npp)
+- [20,000](https://dev.to/frontenddogma/20000-13b2)
+- [AI is Killing the &quot;Junior&quot; Role. Here is How We Save It.](https://dev.to/jakkie_koekemoer/ai-is-killing-the-junior-role-here-is-how-we-save-it-33cc)
 <!-- BLOG-POST-LIST:END -->
 
