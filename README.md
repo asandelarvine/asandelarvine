@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Ent: Facebook’s Open-Source ORM for Go Developers](https://dev.to/jones_charles_ad50858dbc0/getting-started-with-ent-facebooks-open-source-orm-for-go-developers-1non)
-- [🇦🇹 Österreich devs: Add Personalausweis to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/osterreich-devs-add-personalausweis-to-the-ai-identity-standard-soulprint-open-source-30-min-12dd)
-- [Stop Writing Spaghetti Code: How I Learned to Love TypeScript&#39;s Type System](https://dev.to/teguh_coding/stop-writing-spaghetti-code-how-i-learned-to-love-typescripts-type-system-12g)
-- [I built a FREE offline pixel art editor that runs entirely in your browser](https://dev.to/systemcrash92/i-built-a-free-offline-pixel-art-editor-that-runs-entirely-in-your-browser-1pf6)
+- [🧶 I Built a Production-Ready Blogging Platform with Django, DRF &amp; Supabase](https://dev.to/sneh1117/i-built-a-production-ready-blogging-platform-with-django-drf-supabase-3d6p)
+- [How AI Made Our JS7 Migration 98% Faster](https://dev.to/venu_hulmane/how-ai-made-our-js7-migration-98-faster-55i3)
+- [Static Imports Are Undermining JavaScript’s Isomorphism](https://dev.to/flancer64/static-imports-are-undermining-javascripts-isomorphism-25nm)
+- [Turn Your Laptop into a Server: Host Web Apps Locally with Coolify and Cloudflare Tunnels](https://dev.to/vimal/turn-your-laptop-into-a-server-host-web-apps-locally-with-coolify-and-cloudflare-tunnels-1kkm)
 <!-- BLOG-POST-LIST:END -->
 
