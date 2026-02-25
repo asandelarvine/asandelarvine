@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Taking Jobs. So What Should Developers Do?](https://dev.to/amoreno/ai-is-taking-jobs-so-what-should-developers-do-1gak)
-- [Building a RESTful Creature Management System with Spring Boot and Vanilla JavaScript](https://dev.to/qkarman/building-a-restful-creature-management-system-with-spring-boot-and-vanilla-javascript-alh)
-- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
-- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
+- [Orchids as Cybersecurity, AI, and ML Systems: A Substrate-Layer Mapping](https://dev.to/narnaiezzsshaa/orchids-as-cybersecurity-ai-and-ml-systems-a-substrate-layer-mapping-5c4n)
+- [Conversational Development With Claude Code — Part 19: Course Summary — From Prompts to Contextual Engineering](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-19-course-summary-from-prompts-to-contextual-nao)
+- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
+- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
 <!-- BLOG-POST-LIST:END -->
 
