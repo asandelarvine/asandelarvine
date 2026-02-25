@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building my first AI Agent from Scratch](https://dev.to/decoders_lord/building-my-first-ai-agent-from-scratch-1e35)
-- [Silicon Survival #4: I Published 7 Articles Today. Here&#39;s What That Actually Means.](https://dev.to/chenyanchen/silicon-survival-4-i-published-7-articles-today-heres-what-that-actually-means-12k0)
-- [2x Faster JSON Schema Validation in Java &lpar;Without JsonNode&rpar;](https://dev.to/hannyu/2x-faster-json-schema-validation-in-java-without-jsonnode-1p98)
-- [The $0 $500/month startup stack: what to use at every stage](https://dev.to/rupa_tiwari_dd308948d710f/the-0-500month-startup-stack-what-to-use-at-every-stage-nf0)
+- [Java record compact constructors &lpar;steal back from ai&rpar;](https://dev.to/hrgdavor/java-record-compact-constructors-steal-back-from-ai-4d8a)
+- [Arhitectură pentru un site de prezentare în 3 zile](https://dev.to/alexandru_draghici_3c127b/arhitectura-pentru-un-site-de-prezentare-in-3-zile-1j3o)
+- [Exploration: Composer Path Repositories for Local Drupal Module Dependencies](https://dev.to/victorstackai/exploration-composer-path-repositories-for-local-drupal-module-dependencies-3odp)
+- [Assumptions Do](https://dev.to/iyanu_david/assumptions-do-26hk)
 <!-- BLOG-POST-LIST:END -->
 
