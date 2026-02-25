@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Skills Required for Building AI Agents in 2026](https://dev.to/imaginex/skills-required-for-building-ai-agents-in-2026-2ed)
-- [ATIC Doesn&#39;t Train. It Thinks. — How a Brazilian Developer Hit #1 on LiveBench Without Touching a Single Weight](https://dev.to/felipe_muniz_grsba/atic-doesnt-train-it-thinks-how-a-brazilian-developer-hit-1-on-livebench-without-touching-a-1p0a)
-- [Testing Data Pipelines: What to Validate and When](https://dev.to/alexmercedcoder/testing-data-pipelines-what-to-validate-and-when-2hei)
-- [Is AI Agent Development Just About Calling APIs? Where&#39;s the Real Difficulty?](https://dev.to/imaginex/is-ai-agent-development-just-about-calling-apis-wheres-the-real-difficulty-2j75)
+- [The Agentic SDLC: How AI Teams Debate, Code, and Secure Enterprise Infrastructure](https://dev.to/uenyioha/the-agentic-sdlc-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-5ge9)
+- [28 Real Tasks Reveal What AI Leaderboards Miss](https://dev.to/makerpulse/28-real-tasks-reveal-what-ai-leaderboards-miss-neb)
+- [The Challenges Threatening Open Source](https://dev.to/bridget_amana/the-challenges-threatening-open-source-160g)
+- [Low-Level Mastery: The Mechanics of Pointer Arithmetic](https://dev.to/miraly/low-level-mastery-the-mechanics-of-pointer-arithmetic-33f1)
 <!-- BLOG-POST-LIST:END -->
 
