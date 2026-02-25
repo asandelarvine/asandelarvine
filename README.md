@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🇵🇭 Philippines devs: Add PhilSys ID &lpar;PSN&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/philippines-devs-add-philsys-id-psn-to-the-ai-identity-standard-soulprint-open-source-30-l6m)
-- [The Raw Power of Svelte 5 Runes: 70 Components, 25 KB, Full Reactivity](https://dev.to/hostingsift/the-raw-power-of-svelte-5-runes-70-components-25-kb-full-reactivity-2npp)
-- [20,000](https://dev.to/frontenddogma/20000-13b2)
-- [AI is Killing the &quot;Junior&quot; Role. Here is How We Save It.](https://dev.to/jakkie_koekemoer/ai-is-killing-the-junior-role-here-is-how-we-save-it-33cc)
+- [Part 2: Decoupled Architecture](https://dev.to/jumptotech/part-2-decoupled-architecture-45jp)
+- [Session Profiles: Persistent Authentication for Browser Agents](https://dev.to/nottelabs/session-profiles-persistent-authentication-for-browser-agents-3e6b)
+- [12.Update Deployment and Service in Kubernetes](https://dev.to/thukhakyawe_cloud/12update-deployment-and-service-in-kubernetes-2ebp)
+- [We Built a YouTube Tag Generator Without Using AI — Here’s the Real Architecture Behind It](https://dev.to/yttaggen/we-built-a-youtube-tag-generator-without-using-ai-heres-the-real-architecture-behind-it-3l1j)
 <!-- BLOG-POST-LIST:END -->
 
