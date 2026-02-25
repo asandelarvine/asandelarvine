@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Feeling the Shame; Start Reading the Logs: A Guide to Objective Analysis](https://dev.to/chandravijayagr/stop-feeling-the-shame-start-reading-the-logs-a-guide-to-objective-analysis-585m)
-- [5 Ways to Take Website Screenshots in Node.js &lpar;2026 Comparison&rpar;](https://dev.to/grabshot_dev/5-ways-to-take-website-screenshots-in-nodejs-2026-comparison-4gpo)
-- [I&#39;m a developer building a finance app for freelancers here&#39;s the problem no tool is solving no tool is solving](https://dev.to/hanstech/iim-a-developer-building-a-finance-app-for-freelancers-heres-the-problem-no-tool-is-solving-no-279m)
-- [Building AI Agent Memory Architecture: A Practical Guide to State Management in Autonomous Systems](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-practical-guide-to-state-management-in-autonomous-systems-5c4j)
+- [7 MLOps Projects &lpar;Beginner-Friendly&rpar; That Teach Real Production Skills](https://dev.to/apprecode/7-mlops-projects-beginner-friendly-that-teach-real-production-skills-l2)
+- [When LEO Satellites Join the Broadcast Chain: Real-World Lessons from a Working Engineer &lpar;2026&rpar;](https://dev.to/jason_jacob_dcfc2408b7557/when-leo-satellites-join-the-broadcast-chainreal-world-lessons-from-a-working-engineer-2026-1haf)
+- [Why I&#39;m Not Scared of AI Killing My SaaS &lpar;And What You Should Actually Fear&rpar;](https://dev.to/lmoncany/why-im-not-scared-of-ai-killing-my-saas-and-what-you-should-actually-fear-1f9j)
+- [KEDA &lpar;Kubernetes Event-driven Autoscaling&rpar;](https://dev.to/godofgeeks/keda-kubernetes-event-driven-autoscaling-3e8n)
 <!-- BLOG-POST-LIST:END -->
 
