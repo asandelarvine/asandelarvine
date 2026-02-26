@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When “Just Calling a Function” Isn’t That Simple Anymore](https://dev.to/yceruto/when-just-calling-a-function-isnt-that-simple-anymore-4ppb)
-- [Run Docker and Kubernetes on your Apple Silicon in an Enterprise Environment](https://dev.to/ollitron/run-docker-and-kubernetes-on-your-apple-silicon-in-an-enterprise-environment-45m)
-- [How to Make Your OpenClaw Agent Call Any API Without Exposing Your Keys](https://dev.to/the_seventeen/how-to-make-your-openclaw-agent-call-any-api-without-exposing-your-keys-43a1)
-- [How to auto-generate OG images when you publish a new blog post](https://dev.to/custodiaadmin/how-to-auto-generate-og-images-when-you-publish-a-new-blog-post-4pg1)
+- [WordPress Optimization Has an Architectural Blind Spot](https://dev.to/rushdev/wordpress-optimization-has-an-architectural-blind-spot-p1e)
+- [Solved: Feeling stuck at 10k$/month…](https://dev.to/techresolve/solved-feeling-stuck-at-10kmonth-2l3d)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0034](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0034-12h2)
+- [How to build a Polymarket trading bot &lpar;after new rules edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-after-new-rules-edition-5h09)
 <!-- BLOG-POST-LIST:END -->
 
