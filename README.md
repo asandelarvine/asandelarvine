@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your MCP Setup Keeps Timing Out in 60 Seconds &lpar;And How I Fixed It on Windows&rpar;](https://dev.to/tangman69/why-your-mcp-setup-keeps-timing-out-in-60-seconds-and-how-i-fixed-it-on-windows-1b2n)
-- [Stop building reactive agents: Why your architecture needs a System 1 and System 2](https://dev.to/an0nymus/stop-building-reactive-agents-why-your-architecture-needs-a-system-1-and-system-2-4b6p)
-- [Impostor Syndrome in Tech Is Normal — Here’s What Nobody Tells You](https://dev.to/renato_silva_71eef0fc385f/impostor-syndrome-in-tech-is-normal-heres-what-nobody-tells-you-2g8n)
-- [I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI](https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg)
+- [From HealthTech to Open Source: Building a sovereign web analytics engine in a single binary](https://dev.to/examo/from-healthtech-to-open-source-building-a-sovereign-web-analytics-engine-in-a-single-binary-4phm)
+- [15 Best MCP Gateways for Developers in 2026](https://dev.to/rebeccaws/15-best-mcp-gateways-for-developers-in-2026-4j9j)
+- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
+- [5 ошибок на фрилансе которые стоили мне денег и нервов](https://dev.to/__be2942592/5-oshibok-na-frilansie-kotoryie-stoili-mnie-dieniegh-i-niervov-32mc)
 <!-- BLOG-POST-LIST:END -->
 
