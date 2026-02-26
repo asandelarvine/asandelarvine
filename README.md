@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moltbot: How an Austrian AI Agent Framework Hit 106K GitHub Stars](https://dev.to/blckalpaca/moltbot-how-an-austrian-ai-agent-framework-hit-106k-github-stars-4aja)
-- [I’d love to hear how you’re approaching high-performance memory design in .NET. Feel free to share your thoughts or challenges.](https://dev.to/thuangf45/id-love-to-hear-how-youre-approaching-high-performance-memory-design-in-net-feel-free-to-share-81n)
-- [AI Strategy vs Human Intuition: A Bug-Finding Showdown](https://dev.to/yurukusa/ai-strategy-vs-human-intuition-a-bug-finding-showdown-2m82)
-- [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
+- [ziglint - Static Analysis](https://dev.to/loclv/ziglint-static-analysis-mik)
+- [Hexagonal Architecture &lpar;Ports &amp; Adapters&rpar;](https://dev.to/plusiv/hexagonal-architecture-ports-adapters-3adn)
+- [Creé un plugin que simplifica la integración de Google Maps en Vite y React](https://dev.to/franqsanz/cree-un-plugin-que-simplifica-la-integracion-de-google-maps-en-vite-y-react-11k9)
+- [Certificate Based Tool Authorization for MCP Agents](https://dev.to/david_culver_e78f000a10fe/certificate-based-tool-authorization-for-mcp-agents-ddj)
 <!-- BLOG-POST-LIST:END -->
 
