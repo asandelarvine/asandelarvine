@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Beginner-Friendly Guide - Leetcode Problem 1404 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-leetcode-problem-1404-c-python-javascript-5b25)
-- [Semantic Kernel from First Principles: Understanding the Architecture](https://dev.to/bspann/semantic-kernel-from-first-principles-understanding-the-architecture-2p35)
-- [🌐 Never buy a .online domain](https://dev.to/dmitrevnik/never-buy-a-online-domain-21p1)
-- [StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads](https://dev.to/ruzin_saleem_2b30cf073fd8/stenoai-privacy-focused-ai-meeting-intelligence-380-github-stars-1000-downloads-4o1m)
+- [When the Reasoning Doesn&#39;t Survive](https://dev.to/john_wade_dev/when-the-reasoning-doesnt-survive-mnj)
+- [I Asked ChatGPT for a Project Idea. It Gave Me One. Then It Stole It.](https://dev.to/manyaa_fr/i-asked-chatgpt-for-a-project-idea-it-gave-me-one-then-it-stole-it-4bkn)
+- [From .NET to Cloud – AWS Engineer Journey &lpar;Day 2: Deep Dive into EC2&rpar;](https://dev.to/avinashwagh/from-net-to-cloud-aws-engineer-journey-day-2-deep-dive-into-ec2-kn7)
+- [Reducing Cognitive Load with Internal Developer Platforms on AWS](https://dev.to/cygnetone/reducing-cognitive-load-with-internal-developer-platforms-on-aws-34ih)
 <!-- BLOG-POST-LIST:END -->
 
