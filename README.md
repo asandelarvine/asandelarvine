@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ziglint - Static Analysis](https://dev.to/loclv/ziglint-static-analysis-mik)
-- [Hexagonal Architecture &lpar;Ports &amp; Adapters&rpar;](https://dev.to/plusiv/hexagonal-architecture-ports-adapters-3adn)
-- [Creé un plugin que simplifica la integración de Google Maps en Vite y React](https://dev.to/franqsanz/cree-un-plugin-que-simplifica-la-integracion-de-google-maps-en-vite-y-react-11k9)
-- [Certificate Based Tool Authorization for MCP Agents](https://dev.to/david_culver_e78f000a10fe/certificate-based-tool-authorization-for-mcp-agents-ddj)
+- [Can You Break an AI Guardrail? APort Vault Is Open — $6,500 on the Line](https://dev.to/uu/can-you-break-an-ai-guardrail-aport-vault-is-open-6500-on-the-line-260l)
+- [Native Random Values in CSS](https://dev.to/alvaromontoro/native-random-values-in-css-a7e)
+- [Maintaining truthful docs over time: how to keep security claims honest](https://dev.to/crisiscoresystems/maintaining-truthful-docs-over-time-how-to-keep-security-claims-honest-2778)
+- [Rethinking UI State: CSS Range Syntax vs Class Toggling](https://dev.to/polyuretanio/rethinking-ui-state-css-range-syntax-vs-class-toggling-2c75)
 <!-- BLOG-POST-LIST:END -->
 
