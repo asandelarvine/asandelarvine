@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
-- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
-- [my first post](https://dev.to/leo606/my-first-post-5fke)
-- [CVE-2026-27735: Git Outta Here: Exfiltrating Secrets via CVE-2026-27735](https://dev.to/cverports/cve-2026-27735-git-outta-here-exfiltrating-secrets-via-cve-2026-27735-5dff)
+- [Why Your MCP Setup Keeps Timing Out in 60 Seconds &lpar;And How I Fixed It on Windows&rpar;](https://dev.to/tangman69/why-your-mcp-setup-keeps-timing-out-in-60-seconds-and-how-i-fixed-it-on-windows-1b2n)
+- [Stop building reactive agents: Why your architecture needs a System 1 and System 2](https://dev.to/an0nymus/stop-building-reactive-agents-why-your-architecture-needs-a-system-1-and-system-2-4b6p)
+- [Impostor Syndrome in Tech Is Normal — Here’s What Nobody Tells You](https://dev.to/renato_silva_71eef0fc385f/impostor-syndrome-in-tech-is-normal-heres-what-nobody-tells-you-2g8n)
+- [I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI](https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg)
 <!-- BLOG-POST-LIST:END -->
 
