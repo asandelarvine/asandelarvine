@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From HealthTech to Open Source: Building a sovereign web analytics engine in a single binary](https://dev.to/examo/from-healthtech-to-open-source-building-a-sovereign-web-analytics-engine-in-a-single-binary-4phm)
-- [15 Best MCP Gateways for Developers in 2026](https://dev.to/rebeccaws/15-best-mcp-gateways-for-developers-in-2026-4j9j)
-- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
-- [5 ошибок на фрилансе которые стоили мне денег и нервов](https://dev.to/__be2942592/5-oshibok-na-frilansie-kotoryie-stoili-mnie-dieniegh-i-niervov-32mc)
+- [7 AI Agents, One Command, 50% Cheaper Claude Code.](https://dev.to/ar6420/7-ai-agents-one-command-50-cheaper-claude-code-1fdp)
+- [Best OpenClaw Setup: Optimizing Agents for Efficiency and Effectiveness](https://dev.to/operationalneuralnetwork/best-openclaw-setup-optimizing-agents-for-efficiency-and-effectiveness-27hk)
+- [How I Cut My AI Coding Agent&#39;s Token Usage by 65% &lpar;Without Changing Models&rpar;](https://dev.to/nicolalessi/how-i-cut-my-ai-coding-agents-token-usage-by-65-without-changing-models-47m)
+- [JPEG vs WebP vs AVIF in WordPress: Real Benchmark Data &lpar;4 Plugins Tested&rpar;](https://dev.to/biancarus/jpeg-vs-webp-vs-avif-in-wordpress-real-benchmark-data-4-plugins-tested-j83)
 <!-- BLOG-POST-LIST:END -->
 
