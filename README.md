@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchids as Cybersecurity, AI, and ML Systems: A Substrate-Layer Mapping](https://dev.to/narnaiezzsshaa/orchids-as-cybersecurity-ai-and-ml-systems-a-substrate-layer-mapping-5c4n)
-- [Conversational Development With Claude Code — Part 19: Course Summary — From Prompts to Contextual Engineering](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-19-course-summary-from-prompts-to-contextual-nao)
-- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
+- [⚙️ Beginner-Friendly Guide - Leetcode Problem 1404 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-leetcode-problem-1404-c-python-javascript-5b25)
+- [Semantic Kernel from First Principles: Understanding the Architecture](https://dev.to/bspann/semantic-kernel-from-first-principles-understanding-the-architecture-2p35)
+- [🌐 Never buy a .online domain](https://dev.to/dmitrevnik/never-buy-a-online-domain-21p1)
+- [StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads](https://dev.to/ruzin_saleem_2b30cf073fd8/stenoai-privacy-focused-ai-meeting-intelligence-380-github-stars-1000-downloads-4o1m)
 <!-- BLOG-POST-LIST:END -->
 
