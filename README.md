@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Agents, One Command, 50% Cheaper Claude Code.](https://dev.to/ar6420/7-ai-agents-one-command-50-cheaper-claude-code-1fdp)
-- [Best OpenClaw Setup: Optimizing Agents for Efficiency and Effectiveness](https://dev.to/operationalneuralnetwork/best-openclaw-setup-optimizing-agents-for-efficiency-and-effectiveness-27hk)
-- [How I Cut My AI Coding Agent&#39;s Token Usage by 65% &lpar;Without Changing Models&rpar;](https://dev.to/nicolalessi/how-i-cut-my-ai-coding-agents-token-usage-by-65-without-changing-models-47m)
-- [JPEG vs WebP vs AVIF in WordPress: Real Benchmark Data &lpar;4 Plugins Tested&rpar;](https://dev.to/biancarus/jpeg-vs-webp-vs-avif-in-wordpress-real-benchmark-data-4-plugins-tested-j83)
+- [I Made Tkinter Look Like a Modern Glassmorphic App — Here&#39;s the Dark Magic I Used](https://dev.to/benito_mallamaci_c902e934/i-made-tkinter-look-like-a-modern-glassmorphic-app-heres-the-dark-magic-i-used-3718)
+- [Deep Dive: How Claude Code Remote Control Actually Works](https://dev.to/chwu1946/deep-dive-how-claude-code-remote-control-actually-works-50p6)
+- [The Hourly Trap: Why Freelance Developers Must Switch to Value-Based Pricing in 2026](https://dev.to/frankdotdev/the-hourly-trap-why-freelance-developers-must-switch-to-value-based-pricing-in-2026-1afa)
+- [How to Track What Hedge Funds Are Buying and Selling &lpar;Using SEC 13F Data&rpar;](https://dev.to/dapdev/how-to-track-what-hedge-funds-are-buying-and-selling-using-sec-13f-data-4poa)
 <!-- BLOG-POST-LIST:END -->
 
