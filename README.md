@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we built a hybrid FTS5 + embedding search for code — and why you need both](https://dev.to/tofutim/how-we-built-a-hybrid-fts5-embedding-search-for-code-and-why-you-need-both-4ec2)
-- [Translating a Website into 8 Languages with AI Agents in One Night](https://dev.to/brunoborges/translating-a-website-into-8-languages-with-ai-agents-in-one-night-50k7)
-- [Introducing: 7.5 Days Soft Challenge...](https://dev.to/kriti_arora/75day-soft-challenge-5bdj)
-- [The Problem With Tracking Conversations Like Pageviews](https://dev.to/shubhampalriwala/the-problem-with-tracking-conversations-like-pageviews-29fk)
+- [Why Your Tech Stack Doesn’t Matter as Much as You Think](https://dev.to/wingsdesignstudio/why-your-tech-stack-doesnt-matter-as-much-as-you-think-5hj9)
+- [Building a multi-agent Kalshi algotrader with Sentient Foundation&#39;s ROMA SDK](https://dev.to/j_dev28/building-a-multi-agent-kalshi-algotrader-with-sentient-foundations-roma-sdk-26ap)
+- [How to Detect Environment Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-environment-sentiment-shifts-with-the-pulsebit-api-python-2b46)
+- [Reactjs Web Hosting: Research-Based Infrastructure and Performance Analysis](https://dev.to/dmankani2007/reactjs-web-hosting-research-based-infrastructure-and-performance-analysis-262a)
 <!-- BLOG-POST-LIST:END -->
 
