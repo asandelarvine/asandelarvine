@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Break an AI Guardrail? APort Vault Is Open — $6,500 on the Line](https://dev.to/uu/can-you-break-an-ai-guardrail-aport-vault-is-open-6500-on-the-line-260l)
-- [Native Random Values in CSS](https://dev.to/alvaromontoro/native-random-values-in-css-a7e)
-- [Maintaining truthful docs over time: how to keep security claims honest](https://dev.to/crisiscoresystems/maintaining-truthful-docs-over-time-how-to-keep-security-claims-honest-2778)
-- [Rethinking UI State: CSS Range Syntax vs Class Toggling](https://dev.to/polyuretanio/rethinking-ui-state-css-range-syntax-vs-class-toggling-2c75)
+- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
+- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
+- [my first post](https://dev.to/leo606/my-first-post-5fke)
+- [CVE-2026-27735: Git Outta Here: Exfiltrating Secrets via CVE-2026-27735](https://dev.to/cverports/cve-2026-27735-git-outta-here-exfiltrating-secrets-via-cve-2026-27735-5dff)
 <!-- BLOG-POST-LIST:END -->
 
