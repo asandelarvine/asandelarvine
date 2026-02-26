@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress in the Age of AI Agents: Orchestration, Trust, and the Tests That Run Themselves](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
-- [I realized my AI tools were leaking sensitive data. So I built a local proxy to stop it](https://dev.to/ubcent/i-realized-my-ai-tools-were-leaking-sensitive-data-so-i-built-a-local-proxy-to-stop-it-2pma)
-- [We Can Measure How Fast We Ship. Can We Measure How Well We Understand What We Built?](https://dev.to/leonids2005/we-can-measure-how-fast-we-ship-can-we-measure-how-well-we-understand-what-we-built-5amm)
-- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
+- [Kafka Consumer Graceful Shutdown: Handle WakeupException and Commit Offsets Safely](https://dev.to/rajeev_a954661bb78eb9797f/kafka-consumer-graceful-shutdown-handle-wakeupexception-and-commit-offsets-safely-2a93)
+- [Built with Google Gemini: Handheld Arcade Console with Raspberry Pi Pico](https://dev.to/a_elhaag/built-with-google-gemini-handheld-arcade-console-with-raspberry-pi-pico-4iki)
+- [419 Clones in 48 Hours — What Happened When I Launched an SDK for Offline AI Agent Memory](https://dev.to/teolex2020/419-clones-in-48-hours-what-happened-when-i-launched-an-sdk-for-offline-ai-agent-memory-20n9)
+- [SOLID Principles in C# — A Practical, Real‑World Guide for .NET Developers](https://dev.to/libintombaby/solid-principles-in-c-a-practical-real-world-guide-for-net-developers-49i2)
 <!-- BLOG-POST-LIST:END -->
 
