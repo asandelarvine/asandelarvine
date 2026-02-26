@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Consumer Graceful Shutdown: Handle WakeupException and Commit Offsets Safely](https://dev.to/rajeev_a954661bb78eb9797f/kafka-consumer-graceful-shutdown-handle-wakeupexception-and-commit-offsets-safely-2a93)
-- [Built with Google Gemini: Handheld Arcade Console with Raspberry Pi Pico](https://dev.to/a_elhaag/built-with-google-gemini-handheld-arcade-console-with-raspberry-pi-pico-4iki)
-- [419 Clones in 48 Hours — What Happened When I Launched an SDK for Offline AI Agent Memory](https://dev.to/teolex2020/419-clones-in-48-hours-what-happened-when-i-launched-an-sdk-for-offline-ai-agent-memory-20n9)
-- [SOLID Principles in C# — A Practical, Real‑World Guide for .NET Developers](https://dev.to/libintombaby/solid-principles-in-c-a-practical-real-world-guide-for-net-developers-49i2)
+- [Moltbot: How an Austrian AI Agent Framework Hit 106K GitHub Stars](https://dev.to/blckalpaca/moltbot-how-an-austrian-ai-agent-framework-hit-106k-github-stars-4aja)
+- [I’d love to hear how you’re approaching high-performance memory design in .NET. Feel free to share your thoughts or challenges.](https://dev.to/thuangf45/id-love-to-hear-how-youre-approaching-high-performance-memory-design-in-net-feel-free-to-share-81n)
+- [AI Strategy vs Human Intuition: A Bug-Finding Showdown](https://dev.to/yurukusa/ai-strategy-vs-human-intuition-a-bug-finding-showdown-2m82)
+- [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
 <!-- BLOG-POST-LIST:END -->
 
