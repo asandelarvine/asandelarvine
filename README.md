@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Reasoning Doesn&#39;t Survive](https://dev.to/john_wade_dev/when-the-reasoning-doesnt-survive-mnj)
-- [I Asked ChatGPT for a Project Idea. It Gave Me One. Then It Stole It.](https://dev.to/manyaa_fr/i-asked-chatgpt-for-a-project-idea-it-gave-me-one-then-it-stole-it-4bkn)
-- [From .NET to Cloud – AWS Engineer Journey &lpar;Day 2: Deep Dive into EC2&rpar;](https://dev.to/avinashwagh/from-net-to-cloud-aws-engineer-journey-day-2-deep-dive-into-ec2-kn7)
-- [Reducing Cognitive Load with Internal Developer Platforms on AWS](https://dev.to/cygnetone/reducing-cognitive-load-with-internal-developer-platforms-on-aws-34ih)
+- [How we built a hybrid FTS5 + embedding search for code — and why you need both](https://dev.to/tofutim/how-we-built-a-hybrid-fts5-embedding-search-for-code-and-why-you-need-both-4ec2)
+- [Translating a Website into 8 Languages with AI Agents in One Night](https://dev.to/brunoborges/translating-a-website-into-8-languages-with-ai-agents-in-one-night-50k7)
+- [Introducing: 7.5 Days Soft Challenge...](https://dev.to/kriti_arora/75day-soft-challenge-5bdj)
+- [The Problem With Tracking Conversations Like Pageviews](https://dev.to/shubhampalriwala/the-problem-with-tracking-conversations-like-pageviews-29fk)
 <!-- BLOG-POST-LIST:END -->
 
