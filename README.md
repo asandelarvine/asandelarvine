@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Tech Stack Doesn’t Matter as Much as You Think](https://dev.to/wingsdesignstudio/why-your-tech-stack-doesnt-matter-as-much-as-you-think-5hj9)
-- [Building a multi-agent Kalshi algotrader with Sentient Foundation&#39;s ROMA SDK](https://dev.to/j_dev28/building-a-multi-agent-kalshi-algotrader-with-sentient-foundations-roma-sdk-26ap)
-- [How to Detect Environment Sentiment Shifts with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-environment-sentiment-shifts-with-the-pulsebit-api-python-2b46)
-- [Reactjs Web Hosting: Research-Based Infrastructure and Performance Analysis](https://dev.to/dmankani2007/reactjs-web-hosting-research-based-infrastructure-and-performance-analysis-262a)
+- [When “Just Calling a Function” Isn’t That Simple Anymore](https://dev.to/yceruto/when-just-calling-a-function-isnt-that-simple-anymore-4ppb)
+- [Run Docker and Kubernetes on your Apple Silicon in an Enterprise Environment](https://dev.to/ollitron/run-docker-and-kubernetes-on-your-apple-silicon-in-an-enterprise-environment-45m)
+- [How to Make Your OpenClaw Agent Call Any API Without Exposing Your Keys](https://dev.to/the_seventeen/how-to-make-your-openclaw-agent-call-any-api-without-exposing-your-keys-43a1)
+- [How to auto-generate OG images when you publish a new blog post](https://dev.to/custodiaadmin/how-to-auto-generate-og-images-when-you-publish-a-new-blog-post-4pg1)
 <!-- BLOG-POST-LIST:END -->
 
