@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Tkinter Look Like a Modern Glassmorphic App — Here&#39;s the Dark Magic I Used](https://dev.to/benito_mallamaci_c902e934/i-made-tkinter-look-like-a-modern-glassmorphic-app-heres-the-dark-magic-i-used-3718)
-- [Deep Dive: How Claude Code Remote Control Actually Works](https://dev.to/chwu1946/deep-dive-how-claude-code-remote-control-actually-works-50p6)
-- [The Hourly Trap: Why Freelance Developers Must Switch to Value-Based Pricing in 2026](https://dev.to/frankdotdev/the-hourly-trap-why-freelance-developers-must-switch-to-value-based-pricing-in-2026-1afa)
-- [How to Track What Hedge Funds Are Buying and Selling &lpar;Using SEC 13F Data&rpar;](https://dev.to/dapdev/how-to-track-what-hedge-funds-are-buying-and-selling-using-sec-13f-data-4poa)
+- [Preview Deployments with Firebase Hosting &amp; GitHub Actions](https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag)
+- [The Trillion Dollar Smokescreen and why Replacing Engineers with Algorithms is a Structural Failure](https://dev.to/alifunk/the-trillion-dollar-smokescreen-and-why-replacing-engineers-with-algorithms-is-a-structural-failure-3nea)
+- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
+- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
 <!-- BLOG-POST-LIST:END -->
 
