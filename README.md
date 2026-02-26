@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We built an open-source tool that lets you click on UI bugs in the browser and have AI agents fix them automatically](https://dev.to/imon_cmar_1b6026c67d3771/we-built-an-open-source-tool-that-lets-you-click-on-ui-bugs-in-the-browser-and-have-ai-agents-fix-34b1)
-- [Vuetify 4 is Live Now](https://dev.to/rakesh_nakrani/vuetify-4-is-live-now-d15)
-- [Prompt Driven Development &lpar;PDD&rpar; A Manifesto Against Comfortable Guessing](https://dev.to/blame76/prompt-driven-development-pdda-manifesto-against-comfortable-guessing-4m4a)
-- [Will AI Replace You &lpar;Yes, You&rpar; in the Near Future?](https://dev.to/maximthomas/will-ai-replace-you-yes-you-in-the-near-future-2ppg)
+- [Cypress in the Age of AI Agents: Orchestration, Trust, and the Tests That Run Themselves](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
+- [I realized my AI tools were leaking sensitive data. So I built a local proxy to stop it](https://dev.to/ubcent/i-realized-my-ai-tools-were-leaking-sensitive-data-so-i-built-a-local-proxy-to-stop-it-2pma)
+- [We Can Measure How Fast We Ship. Can We Measure How Well We Understand What We Built?](https://dev.to/leonids2005/we-can-measure-how-fast-we-ship-can-we-measure-how-well-we-understand-what-we-built-5amm)
+- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
 <!-- BLOG-POST-LIST:END -->
 
