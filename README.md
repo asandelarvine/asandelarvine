@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-21902: Juniper PTX Routers — One Packet to Root &lpar;CVSS 9.8&rpar;](https://dev.to/deepseax/cve-2026-21902-juniper-ptx-routers-one-packet-to-root-cvss-98-46na)
-- [How to Disagree With a Senior Engineer &lpar;Without Killing Your Career&rpar; 🗣️](https://dev.to/sonika_onboardedhq/how-to-disagree-with-a-senior-engineer-without-killing-your-career-2pd8)
-- [Provide Storage for a New Company App](https://dev.to/precious_nwafor/provide-storage-for-a-new-company-app-gm7)
-- [What PAPSS Means for Developers Building Cross-Border Payments in Africa](https://dev.to/flutterwaveeng/what-papss-means-for-developers-building-cross-border-payments-in-africa-10mj)
+- [The hidden cost of manual deployments in 2025](https://dev.to/yash_c7e55e90ec63c9e76e92/the-hidden-cost-of-manual-deployments-in-2025-2g38)
+- [Malicious npm Package in Baileys Fork &lpar;Skyzopedia Case&rpar;](https://dev.to/xygenisecurity/malicious-npm-package-in-baileys-fork-skyzopedia-case-47ic)
+- [How to Build Responsive Flutter Apps for Phones, Foldables, Tablets &amp; Web &lpar;2026&rpar;](https://dev.to/techwithsam/how-to-build-responsive-flutter-apps-for-phones-foldables-tablets-web-2026-140o)
+- [Solved: Access Package Report Script](https://dev.to/techresolve/solved-access-package-report-script-2k1i)
 <!-- BLOG-POST-LIST:END -->
 
