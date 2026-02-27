@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The hidden cost of manual deployments in 2025](https://dev.to/yash_c7e55e90ec63c9e76e92/the-hidden-cost-of-manual-deployments-in-2025-2g38)
-- [Malicious npm Package in Baileys Fork &lpar;Skyzopedia Case&rpar;](https://dev.to/xygenisecurity/malicious-npm-package-in-baileys-fork-skyzopedia-case-47ic)
-- [How to Build Responsive Flutter Apps for Phones, Foldables, Tablets &amp; Web &lpar;2026&rpar;](https://dev.to/techwithsam/how-to-build-responsive-flutter-apps-for-phones-foldables-tablets-web-2026-140o)
-- [Solved: Access Package Report Script](https://dev.to/techresolve/solved-access-package-report-script-2k1i)
+- [Designing a Production-Grade AI Chat Service with FastAPI.](https://dev.to/masteringbackend/designing-a-production-grade-ai-chat-service-with-fastapi-8o2)
+- [What Are Autonomous AI Agents? Complete Beginner Guide for Developers, Founders, and CTOs](https://dev.to/gofortool/what-are-autonomous-ai-agents-complete-beginner-guide-for-developers-founders-and-ctos-11ia)
+- [Microservices Architecture for Modular EdTech File Processing](https://dev.to/ideradevtools/microservices-architecture-for-modular-edtech-file-processing-268n)
+- [Why Polish Small Businesses Don&#39;t Need Websites &lpar;And Why I&#39;m Building Them Anyway&rpar;](https://dev.to/maxmendes91/why-polish-small-businesses-dont-need-websites-and-why-im-building-them-anyway-36bb)
 <!-- BLOG-POST-LIST:END -->
 
