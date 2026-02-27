@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JustHTML.dev — AI-Assisted, Vanilla-First Web Development](https://dev.to/coder_b/justhtmldev-ai-assisted-vanilla-first-web-development-2jl4)
-- [Automatic cross-platform testing: part 7: 32 bit, again](https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf)
-- [Security news weekly round-up - 27th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-february-2026-2agb)
-- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
+- [Challenges in building PaaS on AWS](https://dev.to/lalitkale/challenges-in-building-paas-on-aws-51fn)
+- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi)
+- [Utility-Based Cache Partitioning: Making Shared Caches Smarter in Multi-Core Systems](https://dev.to/rakesh_alex_ca78836df15a7/utility-based-cache-partitioning-making-shared-caches-smarter-in-multi-core-systems-f3f)
+- [Bear UI 1.1.2 + ForgeStack Ecosystem Update &lpar;Kiln, Crucible, CLI&rpar;](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-112-forgestack-ecosystem-update-kiln-crucible-cli-4l4p)
 <!-- BLOG-POST-LIST:END -->
 
