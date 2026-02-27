@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI landing page roaster in a weekend using Claude API + Netlify Functions](https://dev.to/lorenc___3f197e1dcb6c1400/i-built-an-ai-landing-page-roaster-in-a-weekend-using-claude-api-netlify-functions-2ek2)
-- [Unbiased Intelligence in a Biased Game: Building Elite Sports Intelligence Engine with Elastic Agent Builder](https://dev.to/kingdavid/unbiased-intelligence-in-a-biased-game-building-elite-sports-intelligence-engine-with-elastic-252o)
-- [Building an Inner Life for OpenClaw](https://dev.to/dkistenev/building-an-inner-life-for-openclaw-328e)
-- [How I Fixed a Geolocation Permission Bug in a Next.js App](https://dev.to/orjinameh/how-i-fixed-a-geolocation-permission-bug-in-a-nextjs-app-2bh2)
+- [Why I Bundled My Small JavaScript Calculators Into One Practical Kit](https://dev.to/yuvronixstudio/why-i-bundled-my-small-javascript-calculators-into-one-practical-kit-56b4)
+- [Predicting Your AI Agent&#39;s Cost](https://dev.to/aws/predicting-your-ai-agents-cost-6m9)
+- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
+- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
 <!-- BLOG-POST-LIST:END -->
 
