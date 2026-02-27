@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Tab View](https://dev.to/tyropon/react-native-tab-view-1na7)
-- [My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)
-- [I Run a Fleet of AI Agents in Production — Here&#39;s the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)
-- [Gildav](https://dev.to/tyropon/gildav-5eff)
+- [I built an AI landing page roaster in a weekend using Claude API + Netlify Functions](https://dev.to/lorenc___3f197e1dcb6c1400/i-built-an-ai-landing-page-roaster-in-a-weekend-using-claude-api-netlify-functions-2ek2)
+- [Unbiased Intelligence in a Biased Game: Building Elite Sports Intelligence Engine with Elastic Agent Builder](https://dev.to/kingdavid/unbiased-intelligence-in-a-biased-game-building-elite-sports-intelligence-engine-with-elastic-252o)
+- [Building an Inner Life for OpenClaw](https://dev.to/dkistenev/building-an-inner-life-for-openclaw-328e)
+- [How I Fixed a Geolocation Permission Bug in a Next.js App](https://dev.to/orjinameh/how-i-fixed-a-geolocation-permission-bug-in-a-nextjs-app-2bh2)
 <!-- BLOG-POST-LIST:END -->
 
