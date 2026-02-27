@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Edge in the Age of AI](https://dev.to/abayomi_grace/competitive-edge-in-the-age-of-ai-88j)
-- [ผมเบื่อที่จะเขียนโค้ด AI Agent ซ้ำๆ - นี่คือวิธีที่ผมแก้ปัญหา &lpar;ด้วย Boilerplate&rpar;](https://dev.to/shanmukh_ram_be8ae5390d56/phmebuuethiicchaekhiiynokhd-ai-agent-cham-niikhuuewithiithiiphmaekpayhaa-dwy-boilerplate-5ei7)
-- [We built a public CTF to stress-test AI agent guardrails &lpar;$6,500 prizes&rpar;](https://dev.to/uu/we-built-a-public-ctf-to-stress-test-ai-agent-guardrails-6500-prizes-3gfg)
-- [Price Action: Concept Notes &lpar;2&rpar;](https://dev.to/victorjia/price-action-concept-notes-2-45c3)
+- [The Terminal Always Wins](https://dev.to/meimakes/the-terminal-always-wins-5daf)
+- [How to Improve Speech Recognition Accuracy: Tips and Techniques](https://dev.to/sciforce/how-to-improve-speech-recognition-accuracy-tips-and-techniques-2ank)
+- [RoguePilot: How a Simple GitHub Issue Can Steal Your Copilot Session](https://dev.to/rainkode/roguepilot-how-a-simple-github-issue-can-steal-your-copilot-session-41ig)
+- [AI Agents Gone Rogue: Inside Amazon Kiro&#39;s Production Deletion](https://dev.to/rainkode/ai-agents-gone-rogue-inside-amazon-kiros-production-deletion-3dha)
 <!-- BLOG-POST-LIST:END -->
 
