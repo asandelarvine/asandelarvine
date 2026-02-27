@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Do LLMs Lie? The Real Reason AI Sounds Smart While Making Things Up](https://dev.to/superorange0707/do-llms-lie-the-real-reason-ai-sounds-smart-while-making-things-up-4jep)
-- [From LLM to Agent: How Memory + Planning Turn a Chatbot Into a Doer](https://dev.to/superorange0707/from-llm-to-agent-how-memory-planning-turn-a-chatbot-into-a-doer-35ck)
-- [Building a Daily Coding Habit](https://dev.to/tommy_ju/building-a-daily-coding-habit-20ma)
-- [When the Editor Analyzes the Wrong Files: Building the Pipeline That Built This Series](https://dev.to/john_wade_dev/when-the-editor-analyzes-the-wrong-files-building-the-pipeline-that-built-this-series-324p)
+- [How AI Killed My Assignment Business — And Pushed Me to Build an All-in-One Writing Workspace](https://dev.to/tushar_anand_7e4661e95afd/how-ai-killed-my-assignment-business-and-pushed-me-to-build-an-all-in-one-writing-workspace-6g)
+- [CVE-2026-27899: CVE-2026-27899: The &#39;Are You God?&#39; Checkbox in WireGuard Portal](https://dev.to/cverports/cve-2026-27899-cve-2026-27899-the-are-you-god-checkbox-in-wireguard-portal-5djj)
+- [Scaling Ethereum: When to Choose Layer 2 vs Alt-L1 vs Sidechains](https://dev.to/sankalp_sharma_634764b990/scaling-ethereum-when-to-choose-layer-2-vs-alt-l1-vs-sidechains-57jo)
+- [How I Built a Big Data Survival Guide - Because My Semester Was Not Surviving Me](https://dev.to/nk2552003/how-i-built-a-big-data-survival-guide-because-my-semester-was-not-surviving-me-5bji)
 <!-- BLOG-POST-LIST:END -->
 
