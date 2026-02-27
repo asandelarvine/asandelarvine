@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges in building PaaS on AWS](https://dev.to/lalitkale/challenges-in-building-paas-on-aws-51fn)
-- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi)
-- [Utility-Based Cache Partitioning: Making Shared Caches Smarter in Multi-Core Systems](https://dev.to/rakesh_alex_ca78836df15a7/utility-based-cache-partitioning-making-shared-caches-smarter-in-multi-core-systems-f3f)
-- [Bear UI 1.1.2 + ForgeStack Ecosystem Update &lpar;Kiln, Crucible, CLI&rpar;](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-112-forgestack-ecosystem-update-kiln-crucible-cli-4l4p)
+- [How to Run a Java JAR from C#: 5 Methods Benchmarked](https://dev.to/jnbridge/how-to-run-a-java-jar-from-c-5-methods-benchmarked-1bg0)
+- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
+- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
+- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
 <!-- BLOG-POST-LIST:END -->
 
