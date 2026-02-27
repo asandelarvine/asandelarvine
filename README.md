@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built workz: The Zoxide for Git Worktrees That Finally Fixes .env + node_modules Hell in 2026](https://dev.to/rohansx/i-built-workz-the-zoxide-for-git-worktrees-that-finally-fixes-env-nodemodules-hell-in-2026-2dpj)
-- [How I stopped declaring login in each of my 5k tests](https://dev.to/cypress/how-i-stopped-declaring-login-in-each-of-my-5k-tests-37km)
-- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
-- [JOINS AND WINDOW FUNCTIONS IN SQL.](https://dev.to/maggy_njuguna/joins-and-window-functions-in-sql-1pi)
+- [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
+- [Torc Bot 3: Torclation Services](https://dev.to/j3ffjessie/torc-bot-3-torclation-services-3m8k)
+- [I Built a RAG Agent From Scratch — Here&#39;s What I Actually Learned](https://dev.to/familyguyfg/i-built-a-rag-agent-from-scratch-heres-what-i-actually-learned-4fhp)
+- [OpenAI just raised $110 billion. Wow](https://dev.to/ben/openai-just-raised-110-billion-wow-5fci)
 <!-- BLOG-POST-LIST:END -->
 
