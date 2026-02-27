@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sockpuppetting: Jailbreak Most Open-Weight LLMs With One Line of Code](https://dev.to/kienmarkdo/sockpuppetting-jailbreak-most-open-weight-llms-with-one-line-of-code-3nfb)
-- [Is Laravel AI Development a Future-Proof Choice in 2026?](https://dev.to/laracopilot/is-laravel-ai-development-a-future-proof-choice-in-2026-ppj)
-- [Text-to-SQL Finally Gets Real: DySQL-Bench, BibSQL, DLBench Fix the &#39;Perfect Query&#39; Myth](https://dev.to/rebooter_s/text-to-sql-finally-gets-real-dysql-bench-bibsql-dlbench-fix-the-perfect-query-myth-3oc1)
-- [Wiring Claude Into Real Systems With Tool Use](https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86)
+- [Designing Self-Optimizing GenAI Pipelines in Production Systems](https://dev.to/shreekansha97/designing-self-optimizing-genai-pipelines-in-production-systems-5723)
+- [Mad Skills: what really differentiates those who build the impossible](https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f)
+- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g)
+- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1)
 <!-- BLOG-POST-LIST:END -->
 
