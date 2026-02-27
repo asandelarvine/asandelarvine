@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Bundled My Small JavaScript Calculators Into One Practical Kit](https://dev.to/yuvronixstudio/why-i-bundled-my-small-javascript-calculators-into-one-practical-kit-56b4)
-- [Predicting Your AI Agent&#39;s Cost](https://dev.to/aws/predicting-your-ai-agents-cost-6m9)
-- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
-- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
+- [Estrategias de Migración a AWS: Dominando las 7 Rs para una Transformación Real](https://dev.to/franciscojeg78/estrategias-de-migracion-a-aws-dominando-las-7-rs-para-una-transformacion-real-5dh7)
+- [When the Category Leader Stalls: Postman and the Future of API Tooling](https://dev.to/kaluvuri/when-the-category-leader-stalls-postman-and-the-future-of-api-tooling-43nm)
+- [Why I created the &quot;DevFoundry Umber&quot; Theme for VS Code &lpar;and why you should try it&rpar;](https://dev.to/andriy_ovcharov_312ead391/why-i-created-the-devfoundry-umber-theme-for-vs-code-and-why-you-should-try-it-1jh9)
+- [This Week In React #270 : Next.js, React Router | Hermes, React Navigation, CSS Grid, Maestro | Node, Oxfmt](https://dev.to/sebastienlorber/this-week-in-react-270-nextjs-react-router-hermes-react-navigation-css-grid-maestro--106o)
 <!-- BLOG-POST-LIST:END -->
 
