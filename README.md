@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Estrategias de Migración a AWS: Dominando las 7 Rs para una Transformación Real](https://dev.to/franciscojeg78/estrategias-de-migracion-a-aws-dominando-las-7-rs-para-una-transformacion-real-5dh7)
-- [When the Category Leader Stalls: Postman and the Future of API Tooling](https://dev.to/kaluvuri/when-the-category-leader-stalls-postman-and-the-future-of-api-tooling-43nm)
-- [Why I created the &quot;DevFoundry Umber&quot; Theme for VS Code &lpar;and why you should try it&rpar;](https://dev.to/andriy_ovcharov_312ead391/why-i-created-the-devfoundry-umber-theme-for-vs-code-and-why-you-should-try-it-1jh9)
-- [This Week In React #270 : Next.js, React Router | Hermes, React Navigation, CSS Grid, Maestro | Node, Oxfmt](https://dev.to/sebastienlorber/this-week-in-react-270-nextjs-react-router-hermes-react-navigation-css-grid-maestro--106o)
+- [I Built workz: The Zoxide for Git Worktrees That Finally Fixes .env + node_modules Hell in 2026](https://dev.to/rohansx/i-built-workz-the-zoxide-for-git-worktrees-that-finally-fixes-env-nodemodules-hell-in-2026-2dpj)
+- [How I stopped declaring login in each of my 5k tests](https://dev.to/cypress/how-i-stopped-declaring-login-in-each-of-my-5k-tests-37km)
+- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
+- [JOINS AND WINDOW FUNCTIONS IN SQL.](https://dev.to/maggy_njuguna/joins-and-window-functions-in-sql-1pi)
 <!-- BLOG-POST-LIST:END -->
 
