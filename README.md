@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Killed My Assignment Business — And Pushed Me to Build an All-in-One Writing Workspace](https://dev.to/tushar_anand_7e4661e95afd/how-ai-killed-my-assignment-business-and-pushed-me-to-build-an-all-in-one-writing-workspace-6g)
-- [CVE-2026-27899: CVE-2026-27899: The &#39;Are You God?&#39; Checkbox in WireGuard Portal](https://dev.to/cverports/cve-2026-27899-cve-2026-27899-the-are-you-god-checkbox-in-wireguard-portal-5djj)
-- [Scaling Ethereum: When to Choose Layer 2 vs Alt-L1 vs Sidechains](https://dev.to/sankalp_sharma_634764b990/scaling-ethereum-when-to-choose-layer-2-vs-alt-l1-vs-sidechains-57jo)
-- [How I Built a Big Data Survival Guide - Because My Semester Was Not Surviving Me](https://dev.to/nk2552003/how-i-built-a-big-data-survival-guide-because-my-semester-was-not-surviving-me-5bji)
+- [Sockpuppetting: Jailbreak Most Open-Weight LLMs With One Line of Code](https://dev.to/kienmarkdo/sockpuppetting-jailbreak-most-open-weight-llms-with-one-line-of-code-3nfb)
+- [Is Laravel AI Development a Future-Proof Choice in 2026?](https://dev.to/laracopilot/is-laravel-ai-development-a-future-proof-choice-in-2026-ppj)
+- [Text-to-SQL Finally Gets Real: DySQL-Bench, BibSQL, DLBench Fix the &#39;Perfect Query&#39; Myth](https://dev.to/rebooter_s/text-to-sql-finally-gets-real-dysql-bench-bibsql-dlbench-fix-the-perfect-query-myth-3oc1)
+- [Wiring Claude Into Real Systems With Tool Use](https://dev.to/prabhatkjena/wiring-claude-into-real-systems-with-tool-use-2i86)
 <!-- BLOG-POST-LIST:END -->
 
