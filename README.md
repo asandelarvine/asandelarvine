@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preview Deployments with Firebase Hosting &amp; GitHub Actions](https://dev.to/ozantunca/preview-deployments-with-firebase-hosting-github-actions-27ag)
-- [The Trillion Dollar Smokescreen and why Replacing Engineers with Algorithms is a Structural Failure](https://dev.to/alifunk/the-trillion-dollar-smokescreen-and-why-replacing-engineers-with-algorithms-is-a-structural-failure-3nea)
-- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
-- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
+- [Do LLMs Lie? The Real Reason AI Sounds Smart While Making Things Up](https://dev.to/superorange0707/do-llms-lie-the-real-reason-ai-sounds-smart-while-making-things-up-4jep)
+- [From LLM to Agent: How Memory + Planning Turn a Chatbot Into a Doer](https://dev.to/superorange0707/from-llm-to-agent-how-memory-planning-turn-a-chatbot-into-a-doer-35ck)
+- [Building a Daily Coding Habit](https://dev.to/tommy_ju/building-a-daily-coding-habit-20ma)
+- [When the Editor Analyzes the Wrong Files: Building the Pipeline That Built This Series](https://dev.to/john_wade_dev/when-the-editor-analyzes-the-wrong-files-building-the-pipeline-that-built-this-series-324p)
 <!-- BLOG-POST-LIST:END -->
 
