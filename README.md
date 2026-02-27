@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Self-Optimizing GenAI Pipelines in Production Systems](https://dev.to/shreekansha97/designing-self-optimizing-genai-pipelines-in-production-systems-5723)
-- [Mad Skills: what really differentiates those who build the impossible](https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f)
-- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g)
-- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1)
+- [CVE-2026-21902: Juniper PTX Routers — One Packet to Root &lpar;CVSS 9.8&rpar;](https://dev.to/deepseax/cve-2026-21902-juniper-ptx-routers-one-packet-to-root-cvss-98-46na)
+- [How to Disagree With a Senior Engineer &lpar;Without Killing Your Career&rpar; 🗣️](https://dev.to/sonika_onboardedhq/how-to-disagree-with-a-senior-engineer-without-killing-your-career-2pd8)
+- [Provide Storage for a New Company App](https://dev.to/precious_nwafor/provide-storage-for-a-new-company-app-gm7)
+- [What PAPSS Means for Developers Building Cross-Border Payments in Africa](https://dev.to/flutterwaveeng/what-papss-means-for-developers-building-cross-border-payments-in-africa-10mj)
 <!-- BLOG-POST-LIST:END -->
 
