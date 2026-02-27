@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terminal Always Wins](https://dev.to/meimakes/the-terminal-always-wins-5daf)
-- [How to Improve Speech Recognition Accuracy: Tips and Techniques](https://dev.to/sciforce/how-to-improve-speech-recognition-accuracy-tips-and-techniques-2ank)
-- [RoguePilot: How a Simple GitHub Issue Can Steal Your Copilot Session](https://dev.to/rainkode/roguepilot-how-a-simple-github-issue-can-steal-your-copilot-session-41ig)
-- [AI Agents Gone Rogue: Inside Amazon Kiro&#39;s Production Deletion](https://dev.to/rainkode/ai-agents-gone-rogue-inside-amazon-kiros-production-deletion-3dha)
+- [I built a booking system for Newsletter Ads. Here&#39;s every decision I made.](https://dev.to/miraclejudeiv/i-built-a-booking-system-for-newsletter-ads-heres-every-decision-i-made-1k6n)
+- [Cloud Agents: The Missing Layer in Your DevOps Pipeline](https://dev.to/kilocode/cloud-agents-the-missing-layer-in-your-devops-pipeline-27d9)
+- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho)
+- [Provide storage for the IT department testing and training](https://dev.to/henry_idokoh_c378760c14cd/provide-storage-for-the-it-department-testing-and-training-2h1f)
 <!-- BLOG-POST-LIST:END -->
 
