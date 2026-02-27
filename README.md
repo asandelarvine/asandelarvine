@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a booking system for Newsletter Ads. Here&#39;s every decision I made.](https://dev.to/miraclejudeiv/i-built-a-booking-system-for-newsletter-ads-heres-every-decision-i-made-1k6n)
-- [Cloud Agents: The Missing Layer in Your DevOps Pipeline](https://dev.to/kilocode/cloud-agents-the-missing-layer-in-your-devops-pipeline-27d9)
-- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho)
-- [Provide storage for the IT department testing and training](https://dev.to/henry_idokoh_c378760c14cd/provide-storage-for-the-it-department-testing-and-training-2h1f)
+- [React Native Tab View](https://dev.to/tyropon/react-native-tab-view-1na7)
+- [My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)
+- [I Run a Fleet of AI Agents in Production — Here&#39;s the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)
+- [Gildav](https://dev.to/tyropon/gildav-5eff)
 <!-- BLOG-POST-LIST:END -->
 
