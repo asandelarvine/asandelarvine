@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Documentation Tools Are Not Enough: The Hidden Cost of Fragmented Product Communication](https://dev.to/mukul_sharma/saas-documentation-tools-are-not-enough-the-hidden-cost-of-fragmented-product-communication-1i14)
-- [How Interactive API Docs Improve Developer Adoption](https://dev.to/therealmrmumba/how-interactive-api-docs-improve-developer-adoption-2m6a)
-- [Building a Browser-Side Image Converter: No Server, No Upload, No AI](https://dev.to/cai13808519901cpu/building-a-browser-side-image-converter-no-server-no-upload-no-ai-4kd4)
-- [파일 읽기](https://dev.to/koareum/pail-ilggi-283p)
+- [Аз Съм Спартак! — The Pulse of a Football Community](https://dev.to/k1lgor/az-sm-spartak-the-pulse-of-a-football-community-3dah)
+- [Platform Engineering Without the Ticket Factory](https://dev.to/anderson_leite/platform-engineering-without-the-ticket-factory-kc4)
+- [Inside OpenClaw: How AI Agents Actually Work &lpar;And Why It&#39;s Not Magic&rpar;](https://dev.to/nazarf/inside-openclaw-how-ai-agents-actually-work-and-why-its-not-magic-1im1)
+- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
 <!-- BLOG-POST-LIST:END -->
 
