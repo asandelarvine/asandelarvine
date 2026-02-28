@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Your ESP32 Speak: AI-Based Text-to-Speech Using Wit.ai](https://dev.to/david_thomas/making-your-esp32-speak-ai-based-text-to-speech-using-witai-138p)
-- [Automating Digital Cleanup: A Deep Dive into the File Archiver CLI](https://dev.to/rpi1337/automating-digital-cleanup-a-deep-dive-into-the-file-archiver-cli-3ncp)
-- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj)
-- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07)
+- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
+- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
+- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
+- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
 <!-- BLOG-POST-LIST:END -->
 
