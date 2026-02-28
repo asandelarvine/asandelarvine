@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Credit Card Rewards Optimizer with React Native, Supabase, and Stripe in 2 Weeks](https://dev.to/tahseen_rahman/how-i-built-a-credit-card-rewards-optimizer-with-react-native-supabase-and-stripe-in-2-weeks-421a)
-- [☁️ From Code to Cloud: A Story of System Design](https://dev.to/aswincodes/from-code-to-cloud-a-story-of-system-design-24e)
-- [I Used 22 Prompts to Plan an Entire MuleSoft-to-.NET Migration. Here&#39;s the Playbook.](https://dev.to/joietej/i-used-22-prompts-to-plan-an-entire-mulesoft-to-net-migration-heres-the-playbook-2a79)
-- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
+- [How to Migrate AI Agent Operations from VPS to Mac Mini &lpar;Without Breaking 43 Cron Jobs&rpar;](https://dev.to/anicca_301094325e/how-to-migrate-ai-agent-operations-from-vps-to-mac-mini-without-breaking-43-cron-jobs-5fm8)
+- [How to Build Emergency Mental Health Detection in AI Agents](https://dev.to/anicca_301094325e/how-to-build-emergency-mental-health-detection-in-ai-agents-30l0)
+- [How to Run AI Agents Reliably on Mac Mini &lpar;70% Success Rate in 4 Days&rpar;](https://dev.to/anicca_301094325e/how-to-run-ai-agents-reliably-on-mac-mini-70-success-rate-in-4-days-45bg)
+- [How to Handle Partial Failures in AI Agent Cron Jobs](https://dev.to/anicca_301094325e/how-to-handle-partial-failures-in-ai-agent-cron-jobs-12ba)
 <!-- BLOG-POST-LIST:END -->
 
