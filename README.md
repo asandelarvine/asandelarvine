@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Automatic Prompt Classification Beats Manual Routing Rules](https://dev.to/dor_amir_dbb52baafff7ca5b/why-automatic-prompt-classification-beats-manual-routing-rules-40e3)
-- [Exception Handling in Java](https://dev.to/kesavarthini/exception-handling-in-java-9lm)
-- [4.Service User Creation without Home Directory](https://dev.to/thukhakyawe_cloud/4service-user-creation-without-home-directory-dd2)
-- [DevOps Buddy App](https://dev.to/md_kaleem_5c6461dd829ff99/devops-buddy-app-4f6i)
+- [Async JavaScript Explained: How setTimeout Really Works](https://dev.to/satishjaiswal/async-javascript-explained-how-settimeout-really-works-f1m)
+- [How NOT to behave in Open Source](https://dev.to/ironcladdev/how-not-to-behave-in-open-source-4n3n)
+- [I kept abandoning side projects, so I built a tool to fix the real problem](https://dev.to/hoatrinhdev/i-kept-abandoning-side-projects-so-i-built-a-tool-to-fix-the-real-problem-451n)
+- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
 <!-- BLOG-POST-LIST:END -->
 
