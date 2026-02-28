@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
-- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
-- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
-- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
+- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
+- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
+- [I Built My Own dev.to Feed Page Instead of Embedding a Widget](https://dev.to/webweaversworld/i-built-my-own-devto-feed-page-instead-of-embedding-a-widget-fa5)
+- [Problemas que matan el rendimiento en Django ⚠️](https://dev.to/matiasolisbello/problemas-que-matan-el-rendimiento-en-django-aj)
 <!-- BLOG-POST-LIST:END -->
 
