@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-First Mobile Speech Assistant Using Google Gemini](https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm)
-- [10M agents. Zero API cost. Pure Rust swarm intelligence. Most AI frameworks today are slow wrappers around LLMs. Ebbforge solves 8 fundamental benchmarks that traditional architectures fail using SIMD physics and TD-RL, all math](https://dev.to/ashu_578bf1ca5f6b3c112df8/10m-agents-zero-api-cost-pure-rust-swarm-intelligence-most-ai-frameworks-today-are-slow-wrappers-38bm)
-- [Python sigmoid&lpar;&rpar;](https://dev.to/slackman/python-sigmoid-kgh)
-- [Reflexivity: How Our Beliefs Change the Reality We Observe](https://dev.to/_b8d89ece3338719863cb03/reflexivity-how-our-beliefs-change-the-reality-we-observe-5fk9)
+- [build-my-own-datalake: Improve metadata with caching](https://dev.to/kination/build-my-own-datalake-improve-metadata-with-caching-2lbl)
+- [When Past Team Failures Become Your Team&#39;s Problem](https://dev.to/adamthedeveloper/when-past-team-failures-become-your-teams-problem-5cf3)
+- [Scaling Engineers Doesn&#39;t Mean Scaling Work](https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3)
+- [Mistakes I Made as a Frontend Engineer &lpar;And What They Actually Cost Me&rpar;](https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m)
 <!-- BLOG-POST-LIST:END -->
 
