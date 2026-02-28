@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [build-my-own-datalake: Improve metadata with caching](https://dev.to/kination/build-my-own-datalake-improve-metadata-with-caching-2lbl)
-- [When Past Team Failures Become Your Team&#39;s Problem](https://dev.to/adamthedeveloper/when-past-team-failures-become-your-teams-problem-5cf3)
-- [Scaling Engineers Doesn&#39;t Mean Scaling Work](https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3)
-- [Mistakes I Made as a Frontend Engineer &lpar;And What They Actually Cost Me&rpar;](https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m)
+- [Building OmniGuide AI — A Real-Time Visual Assistant with Gemini Live](https://dev.to/zenieverse/building-omniguide-ai-a-real-time-visual-assistant-with-gemini-live-120e)
+- [Can any one help....?](https://dev.to/sudish_deuja_fdbff506d0c8/can-any-one-help-ei)
+- [CVE-2026-28351: CVE-2026-28351: Uncontrolled Resource Consumption in pypdf RunLengthDecode](https://dev.to/cverports/cve-2026-28351-cve-2026-28351-uncontrolled-resource-consumption-in-pypdf-runlengthdecode-4o7j)
+- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
 <!-- BLOG-POST-LIST:END -->
 
