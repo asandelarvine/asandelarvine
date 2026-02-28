@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Java JAR from C#: 5 Methods Benchmarked](https://dev.to/jnbridge/how-to-run-a-java-jar-from-c-5-methods-benchmarked-1bg0)
-- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
-- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
-- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
+- [Parte 3: Adicionando Multi-Tenancy por Coluna Discriminadora](https://dev.to/uiratan/parte-3-adicionando-multi-tenancy-por-coluna-discriminadora-4a8o)
+- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
+- [15-Minute Node.js Setup: From Zero to Production &lpar;GraphQL, PostgreSQL, Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minute-nodejs-setup-from-zero-to-production-graphql-postgresql-docker-cicd-11eg)
+- [Sandboxed Python in the Browser with Pydantic&#39;s Monty](https://dev.to/victorstackai/sandboxed-python-in-the-browser-with-pydantics-monty-10ne)
 <!-- BLOG-POST-LIST:END -->
 
