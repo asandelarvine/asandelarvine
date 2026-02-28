@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I have been struggling to write…](https://dev.to/michellebuchiokonicha/i-have-been-struggling-to-write-15j8)
-- [AI Won&#39;t Replace APIs—It Will Only Make Them More Important](https://dev.to/auden/ai-wont-replace-apis-it-will-only-make-them-more-important-1j6p)
-- [S&amp;OP: Why Your Excel Is Lying to You &lpar;and How to Interrogate It with Python&rpar;](https://dev.to/datalaria/sop-why-your-excel-is-lying-to-you-and-how-to-interrogate-it-with-python-3dof)
-- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
+- [SaaS Documentation Tools Are Not Enough: The Hidden Cost of Fragmented Product Communication](https://dev.to/mukul_sharma/saas-documentation-tools-are-not-enough-the-hidden-cost-of-fragmented-product-communication-1i14)
+- [How Interactive API Docs Improve Developer Adoption](https://dev.to/therealmrmumba/how-interactive-api-docs-improve-developer-adoption-2m6a)
+- [Building a Browser-Side Image Converter: No Server, No Upload, No AI](https://dev.to/cai13808519901cpu/building-a-browser-side-image-converter-no-server-no-upload-no-ai-4kd4)
+- [파일 읽기](https://dev.to/koareum/pail-ilggi-283p)
 <!-- BLOG-POST-LIST:END -->
 
