@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We stopped teaching AI and started shipping client projects with volunteer teams. Here&#39;s the architecture.](https://dev.to/contextfirstai/we-stopped-teaching-ai-and-started-shipping-client-projects-with-volunteer-teams-heres-the-2k74)
-- [The Rise of Native CSS: Revolutionizing Web Development in 2023](https://dev.to/dd8888/the-rise-of-native-css-revolutionizing-web-development-in-2023-ad2)
-- [RAG Explained for SQL Developers: Think of It as SELECT, But for Meaning](https://dev.to/prabhuvikas/rag-explained-for-sql-developers-think-of-it-as-select-but-for-meaning-olg)
-- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
+- [We stress-tested our own AI agent guardrails before launch. Here&#39;s what broke.](https://dev.to/uu/we-stress-tested-our-own-ai-agent-guardrails-before-launch-heres-what-broke-1cfm)
+- [Designing a Parallel-Safe Enterprise Automation Framework with Playwright and JUnit 5](https://dev.to/chukwuma1976/designing-a-parallel-safe-enterprise-automation-framework-with-playwright-and-junit-5-a99)
+- [Building an Agentic RAG Support Assistant with Elastic &amp; Jina](https://dev.to/d2anubis/building-an-agentic-rag-support-assistant-with-elastic-jina-19nn)
+- [How to Track What Billionaire Investors Are Buying &lpar;Using SEC EDGAR Data&rpar;](https://dev.to/dapdev/how-to-track-what-billionaire-investors-are-buying-using-sec-edgar-data-5g00)
 <!-- BLOG-POST-LIST:END -->
 
