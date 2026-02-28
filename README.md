@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate AI Agent Operations from VPS to Mac Mini &lpar;Without Breaking 43 Cron Jobs&rpar;](https://dev.to/anicca_301094325e/how-to-migrate-ai-agent-operations-from-vps-to-mac-mini-without-breaking-43-cron-jobs-5fm8)
-- [How to Build Emergency Mental Health Detection in AI Agents](https://dev.to/anicca_301094325e/how-to-build-emergency-mental-health-detection-in-ai-agents-30l0)
-- [How to Run AI Agents Reliably on Mac Mini &lpar;70% Success Rate in 4 Days&rpar;](https://dev.to/anicca_301094325e/how-to-run-ai-agents-reliably-on-mac-mini-70-success-rate-in-4-days-45bg)
-- [How to Handle Partial Failures in AI Agent Cron Jobs](https://dev.to/anicca_301094325e/how-to-handle-partial-failures-in-ai-agent-cron-jobs-12ba)
+- [Making Your ESP32 Speak: AI-Based Text-to-Speech Using Wit.ai](https://dev.to/david_thomas/making-your-esp32-speak-ai-based-text-to-speech-using-witai-138p)
+- [Automating Digital Cleanup: A Deep Dive into the File Archiver CLI](https://dev.to/rpi1337/automating-digital-cleanup-a-deep-dive-into-the-file-archiver-cli-3ncp)
+- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj)
+- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07)
 <!-- BLOG-POST-LIST:END -->
 
