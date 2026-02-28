@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We stress-tested our own AI agent guardrails before launch. Here&#39;s what broke.](https://dev.to/uu/we-stress-tested-our-own-ai-agent-guardrails-before-launch-heres-what-broke-1cfm)
-- [Designing a Parallel-Safe Enterprise Automation Framework with Playwright and JUnit 5](https://dev.to/chukwuma1976/designing-a-parallel-safe-enterprise-automation-framework-with-playwright-and-junit-5-a99)
-- [Building an Agentic RAG Support Assistant with Elastic &amp; Jina](https://dev.to/d2anubis/building-an-agentic-rag-support-assistant-with-elastic-jina-19nn)
-- [How to Track What Billionaire Investors Are Buying &lpar;Using SEC EDGAR Data&rpar;](https://dev.to/dapdev/how-to-track-what-billionaire-investors-are-buying-using-sec-edgar-data-5g00)
+- [Without Convergence, Nothing Holds](https://dev.to/samullinsjr/without-convergence-nothing-holds-epe)
+- [The Paradox of Choice: When More Options Lead to Worse Decisions](https://dev.to/_b8d89ece3338719863cb03/the-paradox-of-choice-when-more-options-lead-to-worse-decisions-38b1)
+- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
+- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
 <!-- BLOG-POST-LIST:END -->
 
