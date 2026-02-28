@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Parte 3: Adicionando Multi-Tenancy por Coluna Discriminadora](https://dev.to/uiratan/parte-3-adicionando-multi-tenancy-por-coluna-discriminadora-4a8o)
-- [How I Replaced $3,000/Year of SaaS With 50 Lines of Code - Building FeatureDrop](https://dev.to/thegdsks/how-i-replaced-3000year-of-saas-with-50-lines-of-code-building-featuredrop-9ji)
-- [15-Minute Node.js Setup: From Zero to Production &lpar;GraphQL, PostgreSQL, Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minute-nodejs-setup-from-zero-to-production-graphql-postgresql-docker-cicd-11eg)
-- [Sandboxed Python in the Browser with Pydantic&#39;s Monty](https://dev.to/victorstackai/sandboxed-python-in-the-browser-with-pydantics-monty-10ne)
+- [Vibe Coding: The next layer of Abstraction or Just Better Scaffolding?](https://dev.to/shridhar-rathi/vibe-coding-the-next-layer-of-abstraction-or-just-better-scaffolding-580b)
+- [Creating Entra Agent ID Blueprints and Identities with PowerShell and .NET](https://dev.to/willvelida/creating-entra-agent-id-blueprints-and-identities-with-powershell-and-net-56pg)
+- [I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀](https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp)
+- [How I built an AI tool that diagnoses CI/CD pipeline failures in seconds](https://dev.to/raja_karuppasamy_dfec2475/how-i-built-an-ai-tool-that-diagnoses-cicd-pipeline-failures-in-seconds-2igi)
 <!-- BLOG-POST-LIST:END -->
 
