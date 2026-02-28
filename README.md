@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-2c5h)
-- [PostgreSQL partitioning — 4 strategies for managing large tables](https://dev.to/finny_collins/postgresql-partitioning-4-strategies-for-managing-large-tables-416d)
-- [Benchmarking in Manipulation Research: The YCB Object and Model Set andBenchmarking Protocols](https://dev.to/paperium/benchmarking-in-manipulation-research-the-ycb-object-and-model-set-andbenchmarking-protocols-2d45)
-- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
+- [Building Programming Developer Authority in 2026: Code, Content, and Credibility](https://dev.to/sain_bux_dev/building-programming-developer-authority-in-2026-code-content-and-credibility-4b9d)
+- [How to Generate Images Using LLM Gateway and the Vercel AI SDK](https://dev.to/smakosh/how-to-generate-images-using-llm-gateway-and-the-vercel-ai-sdk-4e69)
+- [ClamAv with Rust-TUI](https://dev.to/nx2991/clamav-with-rust-tui-32ip)
+- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
 <!-- BLOG-POST-LIST:END -->
 
