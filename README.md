@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async JavaScript Explained: How setTimeout Really Works](https://dev.to/satishjaiswal/async-javascript-explained-how-settimeout-really-works-f1m)
-- [How NOT to behave in Open Source](https://dev.to/ironcladdev/how-not-to-behave-in-open-source-4n3n)
-- [I kept abandoning side projects, so I built a tool to fix the real problem](https://dev.to/hoatrinhdev/i-kept-abandoning-side-projects-so-i-built-a-tool-to-fix-the-real-problem-451n)
-- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
+- [How I Built a Credit Card Rewards Optimizer with React Native, Supabase, and Stripe in 2 Weeks](https://dev.to/tahseen_rahman/how-i-built-a-credit-card-rewards-optimizer-with-react-native-supabase-and-stripe-in-2-weeks-421a)
+- [☁️ From Code to Cloud: A Story of System Design](https://dev.to/aswincodes/from-code-to-cloud-a-story-of-system-design-24e)
+- [I Used 22 Prompts to Plan an Entire MuleSoft-to-.NET Migration. Here&#39;s the Playbook.](https://dev.to/joietej/i-used-22-prompts-to-plan-an-entire-mulesoft-to-net-migration-heres-the-playbook-2a79)
+- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
 <!-- BLOG-POST-LIST:END -->
 
