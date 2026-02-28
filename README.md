@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Programming Developer Authority in 2026: Code, Content, and Credibility](https://dev.to/sain_bux_dev/building-programming-developer-authority-in-2026-code-content-and-credibility-4b9d)
-- [How to Generate Images Using LLM Gateway and the Vercel AI SDK](https://dev.to/smakosh/how-to-generate-images-using-llm-gateway-and-the-vercel-ai-sdk-4e69)
-- [ClamAv with Rust-TUI](https://dev.to/nx2991/clamav-with-rust-tui-32ip)
-- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
+- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
+- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
+- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
+- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
 <!-- BLOG-POST-LIST:END -->
 
