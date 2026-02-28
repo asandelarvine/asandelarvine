@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/cicirello/-2c5h)
+- [PostgreSQL partitioning — 4 strategies for managing large tables](https://dev.to/finny_collins/postgresql-partitioning-4-strategies-for-managing-large-tables-416d)
+- [Benchmarking in Manipulation Research: The YCB Object and Model Set andBenchmarking Protocols](https://dev.to/paperium/benchmarking-in-manipulation-research-the-ycb-object-and-model-set-andbenchmarking-protocols-2d45)
 - [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
-- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
-- [I Built My Own dev.to Feed Page Instead of Embedding a Widget](https://dev.to/webweaversworld/i-built-my-own-devto-feed-page-instead-of-embedding-a-widget-fa5)
-- [Problemas que matan el rendimiento en Django ⚠️](https://dev.to/matiasolisbello/problemas-que-matan-el-rendimiento-en-django-aj)
 <!-- BLOG-POST-LIST:END -->
 
