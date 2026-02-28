@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Аз Съм Спартак! — The Pulse of a Football Community](https://dev.to/k1lgor/az-sm-spartak-the-pulse-of-a-football-community-3dah)
-- [Platform Engineering Without the Ticket Factory](https://dev.to/anderson_leite/platform-engineering-without-the-ticket-factory-kc4)
-- [Inside OpenClaw: How AI Agents Actually Work &lpar;And Why It&#39;s Not Magic&rpar;](https://dev.to/nazarf/inside-openclaw-how-ai-agents-actually-work-and-why-its-not-magic-1im1)
-- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
+- [We stopped teaching AI and started shipping client projects with volunteer teams. Here&#39;s the architecture.](https://dev.to/contextfirstai/we-stopped-teaching-ai-and-started-shipping-client-projects-with-volunteer-teams-heres-the-2k74)
+- [The Rise of Native CSS: Revolutionizing Web Development in 2023](https://dev.to/dd8888/the-rise-of-native-css-revolutionizing-web-development-in-2023-ad2)
+- [RAG Explained for SQL Developers: Think of It as SELECT, But for Meaning](https://dev.to/prabhuvikas/rag-explained-for-sql-developers-think-of-it-as-select-but-for-meaning-olg)
+- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
 <!-- BLOG-POST-LIST:END -->
 
