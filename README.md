@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building OmniGuide AI — A Real-Time Visual Assistant with Gemini Live](https://dev.to/zenieverse/building-omniguide-ai-a-real-time-visual-assistant-with-gemini-live-120e)
-- [Can any one help....?](https://dev.to/sudish_deuja_fdbff506d0c8/can-any-one-help-ei)
-- [CVE-2026-28351: CVE-2026-28351: Uncontrolled Resource Consumption in pypdf RunLengthDecode](https://dev.to/cverports/cve-2026-28351-cve-2026-28351-uncontrolled-resource-consumption-in-pypdf-runlengthdecode-4o7j)
-- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
+- [I have been struggling to write…](https://dev.to/michellebuchiokonicha/i-have-been-struggling-to-write-15j8)
+- [AI Won&#39;t Replace APIs—It Will Only Make Them More Important](https://dev.to/auden/ai-wont-replace-apis-it-will-only-make-them-more-important-1j6p)
+- [S&amp;OP: Why Your Excel Is Lying to You &lpar;and How to Interrogate It with Python&rpar;](https://dev.to/datalaria/sop-why-your-excel-is-lying-to-you-and-how-to-interrogate-it-with-python-3dof)
+- [Как конвертировать CHM в один PDF на Linux: без мусора и битых ссылок](https://dev.to/_vproger_/kak-konviertirovat-chm-v-odin-pdf-na-linux-biez-musora-i-bitykh-ssylok-3edd)
 <!-- BLOG-POST-LIST:END -->
 
