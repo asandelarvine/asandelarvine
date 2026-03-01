@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From My Kitchen to Yours: I Built a Food Swap Board for My Neighborhood](https://dev.to/meemeealm/from-my-kitchen-to-yours-i-built-a-food-swap-board-for-my-neighborhood-23ej)
-- [Why on-device agentic AI can&#39;t keep up](https://dev.to/martinald/why-on-device-agentic-ai-cant-keep-up-4c54)
-- [Building a Privacy-First AI Parent Chat with Ably AI Transport](https://dev.to/aralovelace/building-a-privacy-first-ai-parent-chat-with-ably-ai-transport-fgd)
-- [Arquitectura Cloud Moderna para Aplicaciones Web en AWS](https://dev.to/eduuu_dev/arquitectura-cloud-moderna-para-aplicaciones-web-en-aws-koi)
+- [Cat-Connect](https://dev.to/stentorian-studio/cat-connect-35nj)
+- [Why Bare Metal Nostalgia is Dead and Cloud Governance is the New Sovereignty](https://dev.to/alifunk/why-bare-metal-nostalgia-is-dead-and-cloud-governance-is-the-new-sovereignty-78f)
+- [YOLOv6 v3.0: A Full-Scale Reloading](https://dev.to/paperium/yolov6-v30-a-full-scale-reloading-jln)
+- [The 600x LLM Pricing Gap and How to Exploit It](https://dev.to/dor_amir_dbb52baafff7ca5b/the-600x-llm-pricing-gap-and-how-to-exploit-it-5hhk)
 <!-- BLOG-POST-LIST:END -->
 
