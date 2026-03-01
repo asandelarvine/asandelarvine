@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8)
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-j9)
-- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-855)
-- [GSM Based Smart Switch](https://dev.to/shishir_shukla/gsm-based-smart-switch-3nm)
+- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
+- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
+- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
+- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
 <!-- BLOG-POST-LIST:END -->
 
