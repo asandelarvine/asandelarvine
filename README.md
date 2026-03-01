@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
-- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
-- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
-- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
+- [GRSMD: Instant Markdown Viewer — Local &amp; Private](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c)
+- [Real world considerations: MS-SQL vs PostgreSQL vs MySQL](https://dev.to/marko_mgi_b8a9b2bc90838b/real-world-considerations-ms-sql-vs-postgresql-vs-mysql-kce)
+- [Auric Trade Collective!](https://dev.to/yendisfish/auric-trade-collective-31i6)
+- [Circula — Building a Community Exchange Platform for Neighbors](https://dev.to/wesleybertipaglia/circula-building-a-community-exchange-platform-for-neighbors-4f7j)
 <!-- BLOG-POST-LIST:END -->
 
