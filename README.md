@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#🧭 GuideAgent — A Lightweight SDK to Guide Users Inside Web Apps](https://dev.to/raghul_r29/-guideagent-a-lightweight-sdk-to-guide-users-inside-web-apps-52i8)
-- [How We Saved a High-Traffic IoT Service from 200 RPS to 20,000+ RPS &lpar;and a $42k+ AWS Bill&rpar;](https://dev.to/pikomonde/how-we-saved-a-high-traffic-iot-service-from-200-rps-to-20000-rps-and-a-42k-aws-bill-14j1)
-- [Built an AI Study Tool That Refuses to Give You the Answers for UoM](https://dev.to/inushathathsara/built-an-ai-study-tool-that-refuses-to-give-you-the-answers-for-uom-1eho)
-- [11ty : how to use the image plugin to generate responsive images for CSS](https://dev.to/rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-2o06)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-j9)
+- [The Hardest Part of AI Isn&#39;t the AI](https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-855)
+- [GSM Based Smart Switch](https://dev.to/shishir_shukla/gsm-based-smart-switch-3nm)
 <!-- BLOG-POST-LIST:END -->
 
