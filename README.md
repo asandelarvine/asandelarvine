@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Your Regional AKS Ingress into a Global SaaS Entry Point](https://dev.to/pilgrim2go/turn-your-regional-aks-ingress-into-a-global-saas-entry-point-14n4)
-- [From Idea to Pull Request in Minutes: Building an Autonomous Dev Team with Google Gemini](https://dev.to/shogun_the_grt/from-idea-to-pull-request-in-minutes-building-an-autonomous-dev-team-with-google-gemini-5729)
-- [Kiln: WebGPU-Native Out-of-Core Volume Rendering for Multi-GB Datasets](https://dev.to/mpanknin/kiln-webgpu-native-out-of-core-volume-rendering-for-multi-gb-datasets-2alb)
-- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
+- [LeetCode Alone Won&#39;t Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl)
+- [Supabase Blocked in India: The Complete Guide to Fixing Your App](https://dev.to/mahidhar_reddy_1dc0fe96f8/-supabase-blocked-in-india-the-complete-guide-to-fixing-your-app-456p)
+- [I built a free ngrok alternative — IT.CYOU](https://dev.to/anantsparrow/i-built-a-free-ngrok-alternative-itcyou-3ddg)
+- [32 More Generations: My Self-Evolving AI Agent Learned to Delete Its Own Code](https://dev.to/stefan_nitu/32-more-generations-my-self-evolving-ai-agent-learned-to-delete-its-own-code-18bp)
 <!-- BLOG-POST-LIST:END -->
 
