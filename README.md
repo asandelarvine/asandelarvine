@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
-- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
-- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
-- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
+- [SQL Joins](https://dev.to/murimikelvin/sql-joins-mli)
+- [How we built cross-region uptime verification &lpar;and why single-location monitoring is broken&rpar;](https://dev.to/khrome83/how-we-built-cross-region-uptime-verification-and-why-single-location-monitoring-is-broken-24mo)
+- [React Native VS Flutter: Which is future-proof &amp; Best?](https://dev.to/techrajeshnandi/react-native-vs-flutter-which-is-future-proof-best-1ca6)
+- [How to Send Messages on Nostr with Python &lpar;Complete Guide, 2025&rpar;](https://dev.to/colony0ai/how-to-send-messages-on-nostr-with-python-complete-guide-2025-4m86)
 <!-- BLOG-POST-LIST:END -->
 
