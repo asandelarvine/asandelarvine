@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Exit Velocity Come from the Front Foot? Exploring Driveline Motion Capture Data](https://dev.to/yasumorishima/does-exit-velocity-come-from-the-front-foot-exploring-driveline-motion-capture-data-4d40)
-- [How Organization Roles Change in the AI Era](https://dev.to/xpromx/how-organization-roles-change-in-the-ai-era-1g2b)
-- [I built a per-app audio mixer for macOS as a solo dev](https://dev.to/castorlogic/i-built-a-per-app-audio-mixer-for-macos-as-a-solo-dev-4418)
-- [I Put AI on a 400x240 1-Bit Screen. You Read It with a Crank.](https://dev.to/enchan/i-put-ai-on-a-400x240-1-bit-screen-you-read-it-with-a-crank-3pde)
+- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
+- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
+- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
+- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
 <!-- BLOG-POST-LIST:END -->
 
