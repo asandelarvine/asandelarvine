@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I was tired of bloated changelog tools, so I built BearLog](https://dev.to/phaxz10/i-was-tired-of-bloated-changelog-tools-so-i-built-bearlog-cfm)
-- [DevDNA — Turn Your GitHub Activity Into a Developer Personality](https://dev.to/akshit_suthar/devdna-turn-your-github-activity-into-a-developer-personality-292g)
-- [I Built a Free Tool That Removes Silence from Audio Instantly — No Uploads, No Signup](https://dev.to/random_code_0440e489e9712/i-built-a-free-tool-that-removes-silence-from-audio-instantly-no-uploads-no-signup-ldn)
-- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
+- [Pre-Action Authorization: The Missing Security Layer for AI Agents](https://dev.to/uu/pre-action-authorization-the-missing-security-layer-for-ai-agents-3l0p)
+- [Multi-Tenancy in TanStack Start: A Simple Guide](https://dev.to/harshg775/multi-tenancy-in-tanstack-start-a-simple-guide-5dcn)
+- [Back to Basics: A Developer’s Guide to Authentication](https://dev.to/prcsmae/back-to-basics-a-developers-guide-to-authentication-5cce)
+- [Use Cursor with LM Studio](https://dev.to/ketan_vijayvargiya_be9fb0/use-cursor-with-lm-studio-56e1)
 <!-- BLOG-POST-LIST:END -->
 
