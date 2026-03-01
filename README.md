@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways to Cut Your AI Agent&#39;s API Bill by 80%](https://dev.to/klement_gunndu/5-ways-to-cut-your-ai-agents-api-bill-by-80-aee)
-- [Why Keyboards Are Not in Alphabetical Order &lpar;And Why That’s Actually Brilliant&rpar;](https://dev.to/kathirvel-s/why-keyboards-are-not-in-alphabetical-order-and-why-thats-actually-brilliant-2020)
-- [Vendor Lock-In Happens Through Networking — Not APIs](https://dev.to/ntctech/vendor-lock-in-happens-through-networking-not-apis-4o9h)
-- [I invested in stocks… turns out they were JPEGs.](https://dev.to/devhashfortheweb/i-invested-in-stocks-turns-out-they-were-jpegs-4c3f)
+- [Does Exit Velocity Come from the Front Foot? Exploring Driveline Motion Capture Data](https://dev.to/yasumorishima/does-exit-velocity-come-from-the-front-foot-exploring-driveline-motion-capture-data-4d40)
+- [How Organization Roles Change in the AI Era](https://dev.to/xpromx/how-organization-roles-change-in-the-ai-era-1g2b)
+- [I built a per-app audio mixer for macOS as a solo dev](https://dev.to/castorlogic/i-built-a-per-app-audio-mixer-for-macos-as-a-solo-dev-4418)
+- [I Put AI on a 400x240 1-Bit Screen. You Read It with a Crank.](https://dev.to/enchan/i-put-ai-on-a-400x240-1-bit-screen-you-read-it-with-a-crank-3pde)
 <!-- BLOG-POST-LIST:END -->
 
