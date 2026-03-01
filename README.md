@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python to Rust to Proof: Cross-Validating a ZK System](https://dev.to/jacobi0x/python-to-rust-to-proof-cross-validating-a-zk-system-14n1)
-- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
-- [The Witness Problem: When BigInt Precision Breaks Your Proof](https://dev.to/jacobi0x/the-witness-problem-when-bigint-precision-breaks-your-proof-2153)
-- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
+- [From My Kitchen to Yours: I Built a Food Swap Board for My Neighborhood](https://dev.to/meemeealm/from-my-kitchen-to-yours-i-built-a-food-swap-board-for-my-neighborhood-23ej)
+- [Why on-device agentic AI can&#39;t keep up](https://dev.to/martinald/why-on-device-agentic-ai-cant-keep-up-4c54)
+- [Building a Privacy-First AI Parent Chat with Ably AI Transport](https://dev.to/aralovelace/building-a-privacy-first-ai-parent-chat-with-ably-ai-transport-fgd)
+- [Arquitectura Cloud Moderna para Aplicaciones Web en AWS](https://dev.to/eduuu_dev/arquitectura-cloud-moderna-para-aplicaciones-web-en-aws-koi)
 <!-- BLOG-POST-LIST:END -->
 
