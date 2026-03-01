@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Friendly Guide to IPv4 Subnetting with a Free CIDR Calculator](https://dev.to/panos_42/a-friendly-guide-to-ipv4-subnetting-with-a-free-cidr-calculator-c1)
-- [GroqTales: Building an AI‑Native Storytelling Engine on Monad &lpar;and Why I Need Your Help&rpar;](https://dev.to/drago03/groqtales-building-an-ai-native-storytelling-engine-on-monad-and-why-i-need-your-help-2kcb)
-- [A native Windows SSH agent using CNG/KSP, with no dependencies, smartcard support, and full RDP compatibility](https://dev.to/sanmilie/a-native-windows-ssh-agent-using-cngksp-with-no-dependencies-smartcard-support-and-full-rdp-oae)
-- [🚀 Création d&#39;une application PHP MCP pour publier des articles Darkwood](https://dev.to/matyo91/creation-dune-application-php-mcp-pour-publier-des-articles-darkwood-2pcm)
+- [Python to Rust to Proof: Cross-Validating a ZK System](https://dev.to/jacobi0x/python-to-rust-to-proof-cross-validating-a-zk-system-14n1)
+- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
+- [The Witness Problem: When BigInt Precision Breaks Your Proof](https://dev.to/jacobi0x/the-witness-problem-when-bigint-precision-breaks-your-proof-2153)
+- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
 <!-- BLOG-POST-LIST:END -->
 
