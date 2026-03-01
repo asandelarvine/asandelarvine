@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
-- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
-- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
-- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
+- [A Friendly Guide to IPv4 Subnetting with a Free CIDR Calculator](https://dev.to/panos_42/a-friendly-guide-to-ipv4-subnetting-with-a-free-cidr-calculator-c1)
+- [GroqTales: Building an AI‑Native Storytelling Engine on Monad &lpar;and Why I Need Your Help&rpar;](https://dev.to/drago03/groqtales-building-an-ai-native-storytelling-engine-on-monad-and-why-i-need-your-help-2kcb)
+- [A native Windows SSH agent using CNG/KSP, with no dependencies, smartcard support, and full RDP compatibility](https://dev.to/sanmilie/a-native-windows-ssh-agent-using-cngksp-with-no-dependencies-smartcard-support-and-full-rdp-oae)
+- [🚀 Création d&#39;une application PHP MCP pour publier des articles Darkwood](https://dev.to/matyo91/creation-dune-application-php-mcp-pour-publier-des-articles-darkwood-2pcm)
 <!-- BLOG-POST-LIST:END -->
 
