@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Alone Won&#39;t Save You in 2026 — Prepare These 7 Topics](https://dev.to/somadevtoo/leetcode-alone-wont-save-you-in-2026-prepare-these-7-topics-22nl)
-- [Supabase Blocked in India: The Complete Guide to Fixing Your App](https://dev.to/mahidhar_reddy_1dc0fe96f8/-supabase-blocked-in-india-the-complete-guide-to-fixing-your-app-456p)
-- [I built a free ngrok alternative — IT.CYOU](https://dev.to/anantsparrow/i-built-a-free-ngrok-alternative-itcyou-3ddg)
-- [32 More Generations: My Self-Evolving AI Agent Learned to Delete Its Own Code](https://dev.to/stefan_nitu/32-more-generations-my-self-evolving-ai-agent-learned-to-delete-its-own-code-18bp)
+- [I was tired of bloated changelog tools, so I built BearLog](https://dev.to/phaxz10/i-was-tired-of-bloated-changelog-tools-so-i-built-bearlog-cfm)
+- [DevDNA — Turn Your GitHub Activity Into a Developer Personality](https://dev.to/akshit_suthar/devdna-turn-your-github-activity-into-a-developer-personality-292g)
+- [I Built a Free Tool That Removes Silence from Audio Instantly — No Uploads, No Signup](https://dev.to/random_code_0440e489e9712/i-built-a-free-tool-that-removes-silence-from-audio-instantly-no-uploads-no-signup-ldn)
+- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
 <!-- BLOG-POST-LIST:END -->
 
