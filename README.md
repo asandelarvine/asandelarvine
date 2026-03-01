@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GRSMD: Instant Markdown Viewer — Local &amp; Private](https://dev.to/goodrelax/grsmd-instant-markdown-viewer-local-private-4g8c)
-- [Real world considerations: MS-SQL vs PostgreSQL vs MySQL](https://dev.to/marko_mgi_b8a9b2bc90838b/real-world-considerations-ms-sql-vs-postgresql-vs-mysql-kce)
-- [Auric Trade Collective!](https://dev.to/yendisfish/auric-trade-collective-31i6)
-- [Circula — Building a Community Exchange Platform for Neighbors](https://dev.to/wesleybertipaglia/circula-building-a-community-exchange-platform-for-neighbors-4f7j)
+- [How We Built MongoDB to ElasticSearch Sync for $89/Month &lpar;And Saved Our Sanity&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/how-we-built-mongodb-to-elasticsearch-sync-for-89month-and-saved-our-sanity-3hbm)
+- [I Built an AI-Powered Fake Deal Detector That Caught 2,347 Scams in 30 Days](https://dev.to/milinda_biswas_fb9eeb2a8a/i-built-an-ai-powered-fake-deal-detector-that-caught-2347-scams-in-30-days-16lk)
+- [Your Enterprise APIs Are Already Agent Tools. AWS AgentCore Gateway Just Unlocks Them via MCP](https://dev.to/sreeni5018/your-enterprise-apis-are-already-agent-tools-aws-agentcore-gateway-just-unlocks-them-via-mcp-2d0k)
+- [Building a Privacy-First Price Alert System: Zero Cookies, Full Trust](https://dev.to/milinda_biswas_fb9eeb2a8a/building-a-privacy-first-price-alert-system-zero-cookies-full-trust-1ag3)
 <!-- BLOG-POST-LIST:END -->
 
