@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Strategies in Distributed Systems](https://dev.to/hiral/cache-strategies-in-distributed-systems-3l9n)
-- [I built a Neovim plugin for Java development and open sourced it — nvim-javacreator](https://dev.to/nirmalravidas/i-built-a-neovim-plugin-for-java-development-and-open-sourced-it-nvim-javacreator-2h9c)
-- [Kubernetes Federation](https://dev.to/godofgeeks/kubernetes-federation-6b1)
-- [Building Search That Doesn&#39;t Suck &lpar;Vector + Keyword&rpar;](https://dev.to/aibuildersdigest/building-search-that-doesnt-suck-vector-keyword-5c6k)
+- [回声（第21章）：第三次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-21zhang-di-san-ci-duan-kai-di-bu-fen--274a)
+- [Memopt++:Adaptive Linux Memory Governor &lpar;C++&rpar;](https://dev.to/shiv_kumarmishra_7954d27/memoptadaptive-linux-memory-governor-c-1871)
+- [OpenClaw&#39;s &quot;Unknown Model&quot; Error — How One Missing JSON Entry Broke My AI Assistant for 4 Hours](https://dev.to/shifu_legend/openclaws-unknown-model-error-how-one-missing-json-entry-broke-my-ai-assistant-for-4-hours-5f19)
+- [I built 6 JavaScript widgets with zero dependencies — here&#39;s what I learned from each](https://dev.to/ali_rajab_caef7d25f6410f2/i-built-6-javascript-widgets-with-zero-dependencies-heres-what-i-learned-from-each-21ca)
 <!-- BLOG-POST-LIST:END -->
 
