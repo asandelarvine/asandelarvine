@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built MongoDB to ElasticSearch Sync for $89/Month &lpar;And Saved Our Sanity&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/how-we-built-mongodb-to-elasticsearch-sync-for-89month-and-saved-our-sanity-3hbm)
-- [I Built an AI-Powered Fake Deal Detector That Caught 2,347 Scams in 30 Days](https://dev.to/milinda_biswas_fb9eeb2a8a/i-built-an-ai-powered-fake-deal-detector-that-caught-2347-scams-in-30-days-16lk)
-- [Your Enterprise APIs Are Already Agent Tools. AWS AgentCore Gateway Just Unlocks Them via MCP](https://dev.to/sreeni5018/your-enterprise-apis-are-already-agent-tools-aws-agentcore-gateway-just-unlocks-them-via-mcp-2d0k)
-- [Building a Privacy-First Price Alert System: Zero Cookies, Full Trust](https://dev.to/milinda_biswas_fb9eeb2a8a/building-a-privacy-first-price-alert-system-zero-cookies-full-trust-1ag3)
+- [Comunidade Viva —Plataforma de Engajamento Urbano](https://dev.to/diogobaguiar/comunidade-viva-plataforma-de-engajamento-urbano-3jph)
+- [BUDGET-1](https://dev.to/bhu_kalki/budget-1-5f4a)
+- [800 Malicious Plugins, 40K Exposed Instances: The OpenClaw Security Reckoning](https://dev.to/darbogach/800-malicious-plugins-40k-exposed-instances-the-openclaw-security-reckoning-3bi2)
+- [30 CVEs and Counting: The MCP Security Crisis Nobody&#39;s Talking About](https://dev.to/darbogach/30-cves-and-counting-the-mcp-security-crisis-nobodys-talking-about-28ml)
 <!-- BLOG-POST-LIST:END -->
 
