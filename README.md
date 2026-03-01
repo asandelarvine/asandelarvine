@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pre-Action Authorization: The Missing Security Layer for AI Agents](https://dev.to/uu/pre-action-authorization-the-missing-security-layer-for-ai-agents-3l0p)
-- [Multi-Tenancy in TanStack Start: A Simple Guide](https://dev.to/harshg775/multi-tenancy-in-tanstack-start-a-simple-guide-5dcn)
-- [Back to Basics: A Developer’s Guide to Authentication](https://dev.to/prcsmae/back-to-basics-a-developers-guide-to-authentication-5cce)
-- [Use Cursor with LM Studio](https://dev.to/ketan_vijayvargiya_be9fb0/use-cursor-with-lm-studio-56e1)
+- [5 Ways to Cut Your AI Agent&#39;s API Bill by 80%](https://dev.to/klement_gunndu/5-ways-to-cut-your-ai-agents-api-bill-by-80-aee)
+- [Why Keyboards Are Not in Alphabetical Order &lpar;And Why That’s Actually Brilliant&rpar;](https://dev.to/kathirvel-s/why-keyboards-are-not-in-alphabetical-order-and-why-thats-actually-brilliant-2020)
+- [Vendor Lock-In Happens Through Networking — Not APIs](https://dev.to/ntctech/vendor-lock-in-happens-through-networking-not-apis-4o9h)
+- [I invested in stocks… turns out they were JPEGs.](https://dev.to/devhashfortheweb/i-invested-in-stocks-turns-out-they-were-jpegs-4c3f)
 <!-- BLOG-POST-LIST:END -->
 
