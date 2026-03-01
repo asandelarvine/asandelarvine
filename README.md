@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comunidade Viva —Plataforma de Engajamento Urbano](https://dev.to/diogobaguiar/comunidade-viva-plataforma-de-engajamento-urbano-3jph)
-- [BUDGET-1](https://dev.to/bhu_kalki/budget-1-5f4a)
-- [800 Malicious Plugins, 40K Exposed Instances: The OpenClaw Security Reckoning](https://dev.to/darbogach/800-malicious-plugins-40k-exposed-instances-the-openclaw-security-reckoning-3bi2)
-- [30 CVEs and Counting: The MCP Security Crisis Nobody&#39;s Talking About](https://dev.to/darbogach/30-cves-and-counting-the-mcp-security-crisis-nobodys-talking-about-28ml)
+- [The PKM Setup I Settled On After Many Iterations](https://dev.to/gantengx/the-pkm-setup-i-settled-on-after-many-iterations-6pa)
+- [How Text-First Toolchains Break Down - An Architects Under-the-Hood Deconstruction](https://dev.to/kailash_ac43c0ef1daf14abd/how-text-first-toolchains-break-down-an-architects-under-the-hood-deconstruction-48fl)
+- [The Scaffold: Playwright Project Structure Built for AI](https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62)
+- [Where Deep Research Fits: Choosing the AI Tool That Actually Does the Work](https://dev.to/azimkhan72/where-deep-research-fits-choosing-the-ai-tool-that-actually-does-the-work-5b2e)
 <!-- BLOG-POST-LIST:END -->
 
