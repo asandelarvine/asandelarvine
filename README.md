@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [回声（第21章）：第三次断开（第一部分）](https://dev.to/chx381/hui-sheng-di-21zhang-di-san-ci-duan-kai-di-bu-fen--274a)
-- [Memopt++:Adaptive Linux Memory Governor &lpar;C++&rpar;](https://dev.to/shiv_kumarmishra_7954d27/memoptadaptive-linux-memory-governor-c-1871)
-- [OpenClaw&#39;s &quot;Unknown Model&quot; Error — How One Missing JSON Entry Broke My AI Assistant for 4 Hours](https://dev.to/shifu_legend/openclaws-unknown-model-error-how-one-missing-json-entry-broke-my-ai-assistant-for-4-hours-5f19)
-- [I built 6 JavaScript widgets with zero dependencies — here&#39;s what I learned from each](https://dev.to/ali_rajab_caef7d25f6410f2/i-built-6-javascript-widgets-with-zero-dependencies-heres-what-i-learned-from-each-21ca)
+- [Turn Your Regional AKS Ingress into a Global SaaS Entry Point](https://dev.to/pilgrim2go/turn-your-regional-aks-ingress-into-a-global-saas-entry-point-14n4)
+- [From Idea to Pull Request in Minutes: Building an Autonomous Dev Team with Google Gemini](https://dev.to/shogun_the_grt/from-idea-to-pull-request-in-minutes-building-an-autonomous-dev-team-with-google-gemini-5729)
+- [Kiln: WebGPU-Native Out-of-Core Volume Rendering for Multi-GB Datasets](https://dev.to/mpanknin/kiln-webgpu-native-out-of-core-volume-rendering-for-multi-gb-datasets-2alb)
+- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
 <!-- BLOG-POST-LIST:END -->
 
