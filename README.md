@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: how I used Webflow + automation + SEO to replace $1.2K/month in Upwork leads](https://dev.to/techresolve/solved-how-i-used-webflow-automation-seo-to-replace-12kmonth-in-upwork-leads-1hme)
-- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
-- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
-- [GoodMonkey - 57% Reduction* in Claude Code Context via Extensible Proxy](https://dev.to/simplemindedrobot/goodmonkey-57-reduction-in-claude-code-context-via-extensible-proxy-5bh7)
+- [How to build an AI medical scribe with AssemblyAI](https://dev.to/martschweiger/how-to-build-an-ai-medical-scribe-with-assemblyai-44na)
+- [Reccuring Revenue - Finovara](https://dev.to/m4rc1nek/reccuring-revenue-finovara-4apd)
+- [From Idea to TestFlight in 7 Days: The 7-Day Pop-Up iOS Shipping Playbook &lpar;2026&rpar;](https://dev.to/sasha_yakubov_8bb26b17ae4/from-idea-to-testflight-in-7-days-the-7-day-pop-up-ios-shipping-playbook-2026-1h3h)
+- [I Stopped Buying SaaS for RevOps. I Built What I Needed on Harper Instead.](https://dev.to/harperfast/i-stopped-buying-saas-for-revops-i-built-what-i-needed-on-harper-instead-372e)
 <!-- BLOG-POST-LIST:END -->
 
