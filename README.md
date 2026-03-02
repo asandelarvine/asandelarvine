@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why traditional API clients slow down iOS development](https://dev.to/arvindh_httpbot/why-traditional-api-clients-slow-down-ios-development-30al)
-- [Technical Due Diligence for Small Acquisitions: A Developer’s View](https://dev.to/alex_mev/technical-due-diligence-for-small-acquisitions-a-developers-view-3d1h)
-- [Day 8: User Lifecycle Management — From Onboarding to Security Audits 🔐](https://dev.to/devon_argent_f9a11303298a/day-8-user-lifecycle-management-from-onboarding-to-security-audits-4d7d)
-- [I Logged 4,519 AI Agent Tool Calls. 63 Were Things I Never Authorized.](https://dev.to/uu/i-logged-4519-ai-agent-tool-calls-63-were-things-i-never-authorized-31kk)
+- [A Nuvem Nem Sempre é a Resposta: A História da LusoFicta Foods](https://dev.to/anderson_leite/a-nuvem-nem-sempre-e-a-resposta-a-historia-da-lusoficta-foods-1nf9)
+- [How to Cut LLM Waste with DriftQ](https://dev.to/behnamaxo/how-to-cut-llm-waste-with-driftq-4g4o)
+- [How I automate agent evals starter kit for AI agent workflows](https://dev.to/shellsage_ai/how-i-automate-agent-evals-starter-kit-for-ai-agent-workflows-3fbp)
+- [AWS Lambda Integration with DataDog](https://dev.to/srinivasuluparanduru/aws-lambda-integration-with-datadog-35go)
 <!-- BLOG-POST-LIST:END -->
 
