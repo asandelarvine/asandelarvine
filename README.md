@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Alpine.js Load Order in devlog-ist/landing](https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p)
-- [Your Resume Is Generic. Here Is How to Tailor It for Every Job Without Starting Over](https://dev.to/sira_ai/your-resume-is-generic-here-is-how-to-tailor-it-for-every-job-without-starting-over-2i99)
-- [🛒Shopping list to make shopping faster - AnQuickMerca](https://dev.to/nicols_alarcnrapela_5b/lista-de-la-compra-para-hacer-mas-rapido-las-compras-anquickmerca-4ea9)
-- [PhotoSo — Sort Your Photos Fast, Privately, In Browser, Without Leaving Any Window](https://dev.to/salswa/photoso-sort-your-photos-fast-privately-in-browser-without-leaving-any-window-gaf)
+- [Building a shared clipboard for dev teams — looking for feedback](https://dev.to/mohitgauniyal/building-a-shared-clipboard-for-dev-teams-looking-for-feedback-4flc)
+- [Perl 🐪 Weekly #762 - Perl with MetaCPAN](https://dev.to/szabgab/perl-weekly-762-perl-with-metacpan-2i8l)
+- [I launched my side project two weeks ago. Here&#39;s what actually happened.](https://dev.to/dearjohnmusic/i-launched-my-side-project-two-weeks-ago-heres-what-actually-happened-h4g)
+- [Bash, Coffee, and Me: Learning Shell without losing your Mind](https://dev.to/silaslelei/bash-coffee-and-me-learning-shell-without-losing-your-mind-50fj)
 <!-- BLOG-POST-LIST:END -->
 
