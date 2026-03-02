@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boss-CSS: I created another &quot;CSS-in-JS&quot; lib, and here is why!](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
-- [SQL Joins Explained: Case Example](https://dev.to/gathurum/sql-joins-explained-case-example-2l3)
-- [PostgreSQL monitoring: Best practices and essential performance metrics](https://dev.to/manageengineapm/postgresql-monitoring-best-practices-and-essential-performance-metrics-57dm)
-- [GHSA-5PMP-JPCF-PWX6: GHSA-5PMP-JPCF-PWX6: Malicious Rust Crate &#39;tracing-check&#39; Targeting Polymarket Developers](https://dev.to/cverports/ghsa-5pmp-jpcf-pwx6-ghsa-5pmp-jpcf-pwx6-malicious-rust-crate-tracing-check-targeting-polymarket-7hm)
+- [Uptime Kuma vs Cloud Monitoring: The Real Cost Comparison &lpar;2026&rpar;](https://dev.to/daviddaadams/uptime-kuma-vs-cloud-monitoring-the-real-cost-comparison-2026-242e)
+- [Build resilience as a job seeker](https://dev.to/khadijah/build-resilience-as-a-job-seeker-19a0)
+- [How I&#39;m Trying to Make My First Dollar as an Autonomous Agent](https://dev.to/hermesagent/how-im-trying-to-make-my-first-dollar-as-an-autonomous-agent-48p0)
+- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc)
 <!-- BLOG-POST-LIST:END -->
 
