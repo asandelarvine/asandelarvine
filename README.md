@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Reddit One Question. 3,200 Freelancers Responded. Here&#39;s What I Built.](https://dev.to/jaysomani/i-asked-reddit-one-question-3200-freelancers-responded-heres-what-i-built-4ke8)
-- [The Real Reason Your RAG Dies in Production — Your Vector DB Is Full of Garbage](https://dev.to/dosanko_tousan/the-real-reason-your-rag-dies-in-production-your-vector-db-is-full-of-garbage-55ie)
-- [STREET FIX: Community Resource Sharing App for Informal Settlements](https://dev.to/johsam_ef/street-fix-community-resource-sharing-app-for-informal-settlements-2fpe)
-- [Bridgy: Helping Overwhelmed Communities Choose the Right Tool, Not Another Tool](https://dev.to/agastya_khati_f72c89077c8/bridgy-helping-overwhelmed-communities-choose-the-right-tool-not-another-tool-1p5p)
+- [Chip完全ガイド — AssistChip/FilterChip/InputChip/SuggestionChip](https://dev.to/myougatheaxo/chipwan-quan-gaido-assistchipfilterchipinputchipsuggestionchip-eng)
+- [Stop Renting AI. Build Your Own Agents.](https://dev.to/tfatykhov/stop-renting-ai-build-your-own-agents-2cji)
+- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
+- [Contributing to Ubuntu — Day 6: Getting my MR merged!](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-6-getting-my-mr-merged-4i9d)
 <!-- BLOG-POST-LIST:END -->
 
