@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprendre les Tokens : Ne laissez plus l&#39;IA vider votre portefeuille](https://dev.to/pepetoken/comprendre-les-tokens-ne-laissez-plus-lia-vider-votre-portefeuille-3f8)
-- [🚀 10 JavaScript Functions Every Developer Should Master &lpar;With Real-World Examples&rpar;](https://dev.to/codehuntersharath/10-javascript-functions-every-developer-should-master-with-real-world-examples-499b)
-- [Master SQL: Navigating Joins and Windows Functions](https://dev.to/erasto/master-sql-navigating-joins-and-windows-functions-2566)
-- [Mastering JavaScript Arrays: A Beginner&#39;s Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0)
+- [IDisposable, Finalizers, and the Dispose Pattern — The Complete Guide for .NET Developers](https://dev.to/libintombaby/idisposable-finalizers-and-the-dispose-pattern-the-complete-guide-for-net-developers-4600)
+- [Vim commands that handle the detail work without friction](https://dev.to/vimtrickswiki/vim-commands-that-handle-the-detail-work-without-friction-4b75)
+- [Kubernetes&#39;te TimescaleDB Retention Testleri](https://dev.to/tarikanafarta/kuberneteste-timescaledb-retention-testleri-3i8m)
+- [I Made a Product Demo Video Entirely with AI](https://dev.to/javieraguilarai/i-made-a-product-demo-video-entirely-with-ai-e6h)
 <!-- BLOG-POST-LIST:END -->
 
