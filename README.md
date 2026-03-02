@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IDisposable, Finalizers, and the Dispose Pattern — The Complete Guide for .NET Developers](https://dev.to/libintombaby/idisposable-finalizers-and-the-dispose-pattern-the-complete-guide-for-net-developers-4600)
-- [Vim commands that handle the detail work without friction](https://dev.to/vimtrickswiki/vim-commands-that-handle-the-detail-work-without-friction-4b75)
-- [Kubernetes&#39;te TimescaleDB Retention Testleri](https://dev.to/tarikanafarta/kuberneteste-timescaledb-retention-testleri-3i8m)
-- [I Made a Product Demo Video Entirely with AI](https://dev.to/javieraguilarai/i-made-a-product-demo-video-entirely-with-ai-e6h)
+- [Why React Developers Can Finally Delete Half Their Performance Code](https://dev.to/_itsglover/why-react-developers-can-finally-delete-half-their-performance-code-1oh9)
+- [How to get AI-powered CI/CD failure diagnosis in 4 lines of GitHub Actions code](https://dev.to/raja_karuppasamy_dfec2475/how-to-get-ai-powered-cicd-failure-diagnosis-in-4-lines-of-github-actions-code-3kaf)
+- [sql join and windows function](https://dev.to/mariam_turnesh/sql-join-and-windows-function-2ncb)
+- [How Large Language Models Are Reinventing Travel Search](https://dev.to/airtruffle/how-large-language-models-are-reinventing-travel-search-52fp)
 <!-- BLOG-POST-LIST:END -->
 
