@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Mobile UX Mistakes I See in Almost Every Project](https://dev.to/dinko7/common-mobile-ux-mistakes-i-see-in-almost-every-project-djb)
-- [Unit Conversion at Scale: Building a Multi-System Calculator Platform](https://dev.to/julien786534/unit-conversion-at-scale-building-a-multi-system-calculator-platform-3ph4)
-- [Building a Multi-Region Video Platform Serving Asia-Pacific Markets](https://dev.to/ahmet_gedik778845/building-a-multi-region-video-platform-serving-asia-pacific-markets-5abf)
-- [Enhancing User Onboarding with Product Tours](https://dev.to/geanruca/enhancing-user-onboarding-with-product-tours-gi2)
+- [University Voting System &lpar;Blockchain Based&rpar;](https://dev.to/sazid_ahmed_bappi/university-voting-system-blockchain-based-1k8j)
+- [We Built an Open Protocol So AI Agents Can Actually See Your Screen](https://dev.to/k4cper-g/we-built-an-open-protocol-so-ai-agents-can-actually-see-your-screen-55aj)
+- [How to Use Docker with Python](https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi)
+- [I replaced my agents markdown memory with a semantic graph](https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp)
 <!-- BLOG-POST-LIST:END -->
 
