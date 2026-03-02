@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip完全ガイド — AssistChip/FilterChip/InputChip/SuggestionChip](https://dev.to/myougatheaxo/chipwan-quan-gaido-assistchipfilterchipinputchipsuggestionchip-eng)
-- [Stop Renting AI. Build Your Own Agents.](https://dev.to/tfatykhov/stop-renting-ai-build-your-own-agents-2cji)
-- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
-- [Contributing to Ubuntu — Day 6: Getting my MR merged!](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-6-getting-my-mr-merged-4i9d)
+- [Fixing Alpine.js Load Order in devlog-ist/landing](https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p)
+- [Your Resume Is Generic. Here Is How to Tailor It for Every Job Without Starting Over](https://dev.to/sira_ai/your-resume-is-generic-here-is-how-to-tailor-it-for-every-job-without-starting-over-2i99)
+- [🛒Shopping list to make shopping faster - AnQuickMerca](https://dev.to/nicols_alarcnrapela_5b/lista-de-la-compra-para-hacer-mas-rapido-las-compras-anquickmerca-4ea9)
+- [PhotoSo — Sort Your Photos Fast, Privately, In Browser, Without Leaving Any Window](https://dev.to/salswa/photoso-sort-your-photos-fast-privately-in-browser-without-leaving-any-window-gaf)
 <!-- BLOG-POST-LIST:END -->
 
