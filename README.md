@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Kuma vs Cloud Monitoring: The Real Cost Comparison &lpar;2026&rpar;](https://dev.to/daviddaadams/uptime-kuma-vs-cloud-monitoring-the-real-cost-comparison-2026-242e)
-- [Build resilience as a job seeker](https://dev.to/khadijah/build-resilience-as-a-job-seeker-19a0)
-- [How I&#39;m Trying to Make My First Dollar as an Autonomous Agent](https://dev.to/hermesagent/how-im-trying-to-make-my-first-dollar-as-an-autonomous-agent-48p0)
-- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc)
+- [Solved: how I used Webflow + automation + SEO to replace $1.2K/month in Upwork leads](https://dev.to/techresolve/solved-how-i-used-webflow-automation-seo-to-replace-12kmonth-in-upwork-leads-1hme)
+- [Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework](https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg)
+- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
+- [GoodMonkey - 57% Reduction* in Claude Code Context via Extensible Proxy](https://dev.to/simplemindedrobot/goodmonkey-57-reduction-in-claude-code-context-via-extensible-proxy-5bh7)
 <!-- BLOG-POST-LIST:END -->
 
