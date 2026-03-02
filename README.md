@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: The security researcher’s guide to mathematics](https://dev.to/techresolve/solved-the-security-researchers-guide-to-mathematics-5bae)
-- [SQL Joins and Window Functions Explained](https://dev.to/mariam_turnesh/sql-joins-and-window-functions-explained-511i)
-- [Stop Writing Blindly: Why Word Count &amp; Density Matter for SEO ✍️](https://dev.to/papiv-tools/stop-writing-blindly-why-word-count-density-matter-for-seo-28i2)
-- [Solved: Why do I still feel broke even though the business is doing well?](https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4)
+- [Why traditional API clients slow down iOS development](https://dev.to/arvindh_httpbot/why-traditional-api-clients-slow-down-ios-development-30al)
+- [Technical Due Diligence for Small Acquisitions: A Developer’s View](https://dev.to/alex_mev/technical-due-diligence-for-small-acquisitions-a-developers-view-3d1h)
+- [Day 8: User Lifecycle Management — From Onboarding to Security Audits 🔐](https://dev.to/devon_argent_f9a11303298a/day-8-user-lifecycle-management-from-onboarding-to-security-audits-4d7d)
+- [I Logged 4,519 AI Agent Tool Calls. 63 Were Things I Never Authorized.](https://dev.to/uu/i-logged-4519-ai-agent-tool-calls-63-were-things-i-never-authorized-31kk)
 <!-- BLOG-POST-LIST:END -->
 
