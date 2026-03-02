@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Developers Can Finally Delete Half Their Performance Code](https://dev.to/_itsglover/why-react-developers-can-finally-delete-half-their-performance-code-1oh9)
-- [How to get AI-powered CI/CD failure diagnosis in 4 lines of GitHub Actions code](https://dev.to/raja_karuppasamy_dfec2475/how-to-get-ai-powered-cicd-failure-diagnosis-in-4-lines-of-github-actions-code-3kaf)
-- [sql join and windows function](https://dev.to/mariam_turnesh/sql-join-and-windows-function-2ncb)
-- [How Large Language Models Are Reinventing Travel Search](https://dev.to/airtruffle/how-large-language-models-are-reinventing-travel-search-52fp)
+- [Solved: The security researcher’s guide to mathematics](https://dev.to/techresolve/solved-the-security-researchers-guide-to-mathematics-5bae)
+- [SQL Joins and Window Functions Explained](https://dev.to/mariam_turnesh/sql-joins-and-window-functions-explained-511i)
+- [Stop Writing Blindly: Why Word Count &amp; Density Matter for SEO ✍️](https://dev.to/papiv-tools/stop-writing-blindly-why-word-count-density-matter-for-seo-28i2)
+- [Solved: Why do I still feel broke even though the business is doing well?](https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4)
 <!-- BLOG-POST-LIST:END -->
 
