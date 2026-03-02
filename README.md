@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Multilingual Next.js App in 5 Minutes with App Router](https://dev.to/erayg/build-a-multilingual-nextjs-app-in-5-minutes-with-app-router-5fd2)
-- [Stop Queuing Inference Requests](https://dev.to/newssourcecrawler/stop-queuing-inference-requests-11cj)
-- [SNEAK PEAK - I Saw This AI Efficiency Trend Coming a Mile Away ....](https://dev.to/rhelmai/sneak-peak-i-saw-this-ai-efficiency-trend-coming-a-mile-away--39cm)
-- [Sprint](https://dev.to/codeibra/sprint-4p81)
+- [OpenAlerts - Monitoring layer for Agentic frameworks](https://dev.to/dev_khant/openalerts-monitoring-layer-for-agentic-frameworks-5p8)
+- [Your Multi-Agent Framework Handles Operations. What About the Other Five?](https://dev.to/philippenderle/your-multi-agent-framework-handles-operations-what-about-the-other-five-3hlj)
+- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
+- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
 <!-- BLOG-POST-LIST:END -->
 
