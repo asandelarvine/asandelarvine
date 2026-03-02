@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Nuvem Nem Sempre é a Resposta: A História da LusoFicta Foods](https://dev.to/anderson_leite/a-nuvem-nem-sempre-e-a-resposta-a-historia-da-lusoficta-foods-1nf9)
-- [How to Cut LLM Waste with DriftQ](https://dev.to/behnamaxo/how-to-cut-llm-waste-with-driftq-4g4o)
-- [How I automate agent evals starter kit for AI agent workflows](https://dev.to/shellsage_ai/how-i-automate-agent-evals-starter-kit-for-ai-agent-workflows-3fbp)
-- [AWS Lambda Integration with DataDog](https://dev.to/srinivasuluparanduru/aws-lambda-integration-with-datadog-35go)
+- [Boss-CSS: I created another &quot;CSS-in-JS&quot; lib, and here is why!](https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc)
+- [SQL Joins Explained: Case Example](https://dev.to/gathurum/sql-joins-explained-case-example-2l3)
+- [PostgreSQL monitoring: Best practices and essential performance metrics](https://dev.to/manageengineapm/postgresql-monitoring-best-practices-and-essential-performance-metrics-57dm)
+- [GHSA-5PMP-JPCF-PWX6: GHSA-5PMP-JPCF-PWX6: Malicious Rust Crate &#39;tracing-check&#39; Targeting Polymarket Developers](https://dev.to/cverports/ghsa-5pmp-jpcf-pwx6-ghsa-5pmp-jpcf-pwx6-malicious-rust-crate-tracing-check-targeting-polymarket-7hm)
 <!-- BLOG-POST-LIST:END -->
 
