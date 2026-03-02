@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an AI medical scribe with AssemblyAI](https://dev.to/martschweiger/how-to-build-an-ai-medical-scribe-with-assemblyai-44na)
-- [Reccuring Revenue - Finovara](https://dev.to/m4rc1nek/reccuring-revenue-finovara-4apd)
-- [From Idea to TestFlight in 7 Days: The 7-Day Pop-Up iOS Shipping Playbook &lpar;2026&rpar;](https://dev.to/sasha_yakubov_8bb26b17ae4/from-idea-to-testflight-in-7-days-the-7-day-pop-up-ios-shipping-playbook-2026-1h3h)
-- [I Stopped Buying SaaS for RevOps. I Built What I Needed on Harper Instead.](https://dev.to/harperfast/i-stopped-buying-saas-for-revops-i-built-what-i-needed-on-harper-instead-372e)
+- [Build a Multilingual Next.js App in 5 Minutes with App Router](https://dev.to/erayg/build-a-multilingual-nextjs-app-in-5-minutes-with-app-router-5fd2)
+- [Stop Queuing Inference Requests](https://dev.to/newssourcecrawler/stop-queuing-inference-requests-11cj)
+- [SNEAK PEAK - I Saw This AI Efficiency Trend Coming a Mile Away ....](https://dev.to/rhelmai/sneak-peak-i-saw-this-ai-efficiency-trend-coming-a-mile-away--39cm)
+- [Sprint](https://dev.to/codeibra/sprint-4p81)
 <!-- BLOG-POST-LIST:END -->
 
