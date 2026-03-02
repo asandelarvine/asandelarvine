@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat-Connect](https://dev.to/stentorian-studio/cat-connect-35nj)
-- [Why Bare Metal Nostalgia is Dead and Cloud Governance is the New Sovereignty](https://dev.to/alifunk/why-bare-metal-nostalgia-is-dead-and-cloud-governance-is-the-new-sovereignty-78f)
-- [YOLOv6 v3.0: A Full-Scale Reloading](https://dev.to/paperium/yolov6-v30-a-full-scale-reloading-jln)
-- [The 600x LLM Pricing Gap and How to Exploit It](https://dev.to/dor_amir_dbb52baafff7ca5b/the-600x-llm-pricing-gap-and-how-to-exploit-it-5hhk)
+- [A beginner&#39;s guide to the Flux-2-Klein-4b model by Black-Forest-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-klein-4b-model-by-black-forest-labs-on-replicate-kog)
+- [I Migrated Years of ChatGPT Conversations to Claude Using Cowork. Here&#39;s How.](https://dev.to/robiul_islam/i-migrated-years-of-chatgpt-conversations-to-claude-using-cowork-heres-how-plc)
+- [Key Mistakes to Avoid While Building a Bookkeeping SaaS for Dental Clinics](https://dev.to/rahul_kumar_1988/key-mistakes-to-avoid-while-building-a-bookkeeping-saasfor-dental-clinics-2e52)
+- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
 <!-- BLOG-POST-LIST:END -->
 
