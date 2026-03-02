@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [University Voting System &lpar;Blockchain Based&rpar;](https://dev.to/sazid_ahmed_bappi/university-voting-system-blockchain-based-1k8j)
-- [We Built an Open Protocol So AI Agents Can Actually See Your Screen](https://dev.to/k4cper-g/we-built-an-open-protocol-so-ai-agents-can-actually-see-your-screen-55aj)
-- [How to Use Docker with Python](https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi)
-- [I replaced my agents markdown memory with a semantic graph](https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp)
+- [Comprendre les Tokens : Ne laissez plus l&#39;IA vider votre portefeuille](https://dev.to/pepetoken/comprendre-les-tokens-ne-laissez-plus-lia-vider-votre-portefeuille-3f8)
+- [🚀 10 JavaScript Functions Every Developer Should Master &lpar;With Real-World Examples&rpar;](https://dev.to/codehuntersharath/10-javascript-functions-every-developer-should-master-with-real-world-examples-499b)
+- [Master SQL: Navigating Joins and Windows Functions](https://dev.to/erasto/master-sql-navigating-joins-and-windows-functions-2566)
+- [Mastering JavaScript Arrays: A Beginner&#39;s Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0)
 <!-- BLOG-POST-LIST:END -->
 
