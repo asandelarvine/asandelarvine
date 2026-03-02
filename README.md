@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Flux-2-Klein-4b model by Black-Forest-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-klein-4b-model-by-black-forest-labs-on-replicate-kog)
-- [I Migrated Years of ChatGPT Conversations to Claude Using Cowork. Here&#39;s How.](https://dev.to/robiul_islam/i-migrated-years-of-chatgpt-conversations-to-claude-using-cowork-heres-how-plc)
-- [Key Mistakes to Avoid While Building a Bookkeeping SaaS for Dental Clinics](https://dev.to/rahul_kumar_1988/key-mistakes-to-avoid-while-building-a-bookkeeping-saasfor-dental-clinics-2e52)
-- [MeraSociety — I Turned My Apartment Society&#39;s WhatsApp Chaos into a Real App](https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85)
+- [I Asked Reddit One Question. 3,200 Freelancers Responded. Here&#39;s What I Built.](https://dev.to/jaysomani/i-asked-reddit-one-question-3200-freelancers-responded-heres-what-i-built-4ke8)
+- [The Real Reason Your RAG Dies in Production — Your Vector DB Is Full of Garbage](https://dev.to/dosanko_tousan/the-real-reason-your-rag-dies-in-production-your-vector-db-is-full-of-garbage-55ie)
+- [STREET FIX: Community Resource Sharing App for Informal Settlements](https://dev.to/johsam_ef/street-fix-community-resource-sharing-app-for-informal-settlements-2fpe)
+- [Bridgy: Helping Overwhelmed Communities Choose the Right Tool, Not Another Tool](https://dev.to/agastya_khati_f72c89077c8/bridgy-helping-overwhelmed-communities-choose-the-right-tool-not-another-tool-1p5p)
 <!-- BLOG-POST-LIST:END -->
 
