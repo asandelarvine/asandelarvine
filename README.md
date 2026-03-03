@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a CAPTCHA That Only Bots Can Solve](https://dev.to/leo_pechnicki/why-i-built-a-captcha-that-only-bots-can-solve-30np)
-- [From Hackathon Hustle to Gemini Glory: My SyncroFlow Journey](https://dev.to/felix_arsene/from-hackathon-hustle-to-gemini-glory-my-syncroflow-journey-59m)
-- [I Was Building a Cloud Video Service. YouTube Turned Me Into an IP Trafficker.](https://dev.to/osovsky/i-was-building-a-cloud-video-service-youtube-turned-me-into-an-ip-trafficker-1l9o)
-- [Behavioral Engineering for AI in Java: Enforcing Policy from Dev to Prod](https://dev.to/riferrei/behavioral-engineering-for-ai-in-java-enforcing-policy-from-dev-to-prod-7ji)
+- [Google Gemini Writing Challenge](https://dev.to/dan52242644dan/google-gemini-writing-challenge-28d1)
+- [A GUI editor for Mapbox Color Themes](https://dev.to/mapbox/a-gui-editor-for-mapbox-color-themes-5fho)
+- [How We Built X Submission Intake: From Social Chaos to Structured Pipeline](https://dev.to/chefbc2k/how-we-built-x-submission-intake-from-social-chaos-to-structured-pipeline-3hjb)
+- [How Tech Leads Use Metrics to Justify Technical Decisions](https://dev.to/kodustech/how-tech-leads-use-metrics-to-justify-technical-decisions-3ch8)
 <!-- BLOG-POST-LIST:END -->
 
