@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0)
-- [Marxon vs AI #1 - The Developer Who Doesn&#39;t Panic](https://dev.to/marxon/-marxon-vs-ai-1-the-developer-who-doesnt-panic-5a1l)
-- [I built a spec management extension with a WYSIWYG Markdown editor in a VS Code webview — lessons learned](https://dev.to/thlandgraf/i-built-a-spec-management-extension-with-a-wysiwyg-markdown-editor-in-a-vs-code-webview-lessons-h5d)
-- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
+- [Closing the Loop: From Audit Violation to AI Fix in One Command](https://dev.to/dariusz_newecki_e35b0924c/closing-the-loop-from-audit-violation-to-ai-fix-in-one-command-3aj8)
+- [Debugging &amp; Refactoring Spaghetti Code - The A.I Special 🤖](https://dev.to/blocool/debugging-refactoring-spaghetti-code-the-ai-special-55be)
+- [Useful Linux Commands](https://dev.to/vcaunegre/useful-linux-commands-4ipm)
+- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0)
 <!-- BLOG-POST-LIST:END -->
 
