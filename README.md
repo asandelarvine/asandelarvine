@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Coherence Score &lpar;CS&rpar; for Structural Evaluation of LLM Outputs](https://dev.to/salvatore_attaguile_afcf8b44/designing-a-coherence-score-csfor-structural-evaluation-of-llm-outputs-520)
-- [My pitfalls while learning Ruby and Rails, First Issue](https://dev.to/rey_gutierrez/my-pitfalls-while-learning-ruby-and-rails-first-issue-n93)
-- [What I Learned Building Fast Websites for Small Businesses in India](https://dev.to/akelabhai/what-i-learned-building-fast-websites-for-small-businesses-in-india-4j8a)
-- [Two Frameworks, One Mission: Rethinking Web Security Testing in the AI Era](https://dev.to/cheahengsoon/two-frameworks-one-mission-rethinking-web-security-testing-in-the-ai-era-4flb)
+- [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk)
+- [The Ultimate Guide to Enterprise Web Development in 2026](https://dev.to/tantrijaenterprisess/the-ultimate-guide-to-enterprise-web-development-in-2026-3p1i)
+- [GHSA-HWPQ-RRPF-PGCQ: GHSA-HWPQ-RRPF-PGCQ: Execution Approval Bypass in OpenClaw system.run](https://dev.to/cverports/ghsa-hwpq-rrpf-pgcq-ghsa-hwpq-rrpf-pgcq-execution-approval-bypass-in-openclaw-systemrun-pml)
+- [Modern software is no longer just executing logic. It is increasingly making decisions.
+
+And that changes what software fundamentally is.](https://dev.to/jaideepparashar/modern-software-is-no-longer-just-executing-logic-it-is-increasingly-making-decisions-and-that-92e)
 <!-- BLOG-POST-LIST:END -->
 
