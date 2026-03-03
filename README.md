@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MEMORY.md Doesn&#39;t Scale. Here&#39;s What Does.](https://dev.to/jadessoriano/memorymd-doesnt-scale-heres-what-does-34ic)
-- [Day 16 — I Bypassed My Own Flask Login &lpar;And Fixed It Properly&rpar;](https://dev.to/hafiz_shamnad/day-16-i-bypassed-my-own-flask-login-and-fixed-it-properly-5a0j)
-- [Using Claude API to Automate Content Creation: A Real Implementation](https://dev.to/chenyanchen/using-claude-api-to-automate-content-creation-a-real-implementation-22ah)
-- [Part-4 Functional Interface&lpar;Supplier&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacesupplier-5f2b)
+- [Mastering SQL Joins and Window Functions](https://dev.to/lawrence_murithi/mastering-sql-joins-and-window-functions-1f30)
+- [Why I Chose TypeScript Over Tailwind and Built My Own React Styling Library](https://dev.to/maxpro/why-i-chose-typescript-over-tailwind-and-built-my-own-react-styling-library-15ga)
+- [Laravel Love Story: Getting Intimate with the Service Container](https://dev.to/ai_dosage/laravel-love-story-getting-intimate-with-the-service-container-489k)
+- [This VS Code Extension Gives Your Coding Session a Vibe Score &lpar;and Loses Its Mind at GOD MODE&rpar;](https://dev.to/dinesh0666/i-built-a-vs-code-extension-that-tracks-your-flow-state-in-real-time-and-hypes-you-up-2li6)
 <!-- BLOG-POST-LIST:END -->
 
