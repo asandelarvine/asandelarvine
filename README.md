@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Closing the Loop: From Audit Violation to AI Fix in One Command](https://dev.to/dariusz_newecki_e35b0924c/closing-the-loop-from-audit-violation-to-ai-fix-in-one-command-3aj8)
-- [Debugging &amp; Refactoring Spaghetti Code - The A.I Special 🤖](https://dev.to/blocool/debugging-refactoring-spaghetti-code-the-ai-special-55be)
-- [Useful Linux Commands](https://dev.to/vcaunegre/useful-linux-commands-4ipm)
-- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0)
+- [I built a tool that shows you which files break before you push](https://dev.to/lnguyen/i-built-a-tool-that-shows-you-which-files-break-before-you-push-20gn)
+- [I shipped my first SaaS in a day — here&#39;s the stack, the costs, and what I learned](https://dev.to/alberto_towns_b3e46310d1c/i-shipped-my-first-saas-in-a-day-heres-the-stack-the-costs-and-what-i-learned-41ea)
+- [API Documentation: Auto-Generated Swagger &amp; ReDoc with FastAPI](https://dev.to/ghost_script/api-documentation-auto-generated-swagger-redoc-with-fastapi-2hib)
+- [Push_Swap, Paralysis, and Why I Finally Chose the Turk Algorithm](https://dev.to/i_moh/pushswap-paralysis-and-why-i-finally-chose-the-turk-algorithm-3a2p)
 <!-- BLOG-POST-LIST:END -->
 
