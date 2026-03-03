@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Happens When You Call an LLM API?](https://dev.to/aprilloveblair/what-actually-happens-when-you-call-an-llm-api-10il)
-- [Vibe Coding Challenge Day 5: Custom Font Generator](https://dev.to/labdays/vibe-coding-challenge-day-5-custom-font-generator-3e1m)
-- [Publishing to dev.to Programmatically in 2026: What Actually Works](https://dev.to/ankitg12/publishing-to-devto-programmatically-in-2026-what-actually-works-2nkd)
-- [Designing High-Precision LLM RAG Systems: An Enterprise-Grade Architecture Blueprint](https://dev.to/optyxstack/designing-high-precision-llm-rag-systems-an-enterprise-grade-architecture-blueprint-1ldo)
+- [The Secret Life of Claude Code: The Beginning](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-beginning-3nib)
+- [I Let GitHub Copilot Build My Razor Pages UI &lpar;While Rewriting an Old .NET App&rpar;](https://dev.to/incomplete_developer/i-let-github-copilot-build-my-razor-pages-ui-while-rewriting-an-old-net-app-1lf9)
+- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg)
+- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89)
 <!-- BLOG-POST-LIST:END -->
 
