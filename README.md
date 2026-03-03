@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Claude Code: The Beginning](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-beginning-3nib)
-- [I Let GitHub Copilot Build My Razor Pages UI &lpar;While Rewriting an Old .NET App&rpar;](https://dev.to/incomplete_developer/i-let-github-copilot-build-my-razor-pages-ui-while-rewriting-an-old-net-app-1lf9)
-- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg)
-- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89)
+- [The Process Illusion: When documentation replaces decisions](https://dev.to/abdulosman/the-process-illusion-when-documentation-replaces-decisions-4j2a)
+- [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
+- [Why Attention Isnt Enough: Peeling Back the Layers of Modern AI Memory and Routing](https://dev.to/kailash_ac43c0ef1daf14abd/why-attention-isnt-enough-peeling-back-the-layers-of-modern-ai-memory-and-routing-4pao)
+- [Stop Writing Bash Scripts, There&#39;s a Better Way](https://dev.to/uthman_dev/stop-writing-bash-scripts-theres-a-better-way-50en)
 <!-- BLOG-POST-LIST:END -->
 
