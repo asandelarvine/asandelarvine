@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAlerts - Monitoring layer for Agentic frameworks](https://dev.to/dev_khant/openalerts-monitoring-layer-for-agentic-frameworks-5p8)
-- [Your Multi-Agent Framework Handles Operations. What About the Other Five?](https://dev.to/philippenderle/your-multi-agent-framework-handles-operations-what-about-the-other-five-3hlj)
-- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
-- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
+- [Designing a Coherence Score &lpar;CS&rpar; for Structural Evaluation of LLM Outputs](https://dev.to/salvatore_attaguile_afcf8b44/designing-a-coherence-score-csfor-structural-evaluation-of-llm-outputs-520)
+- [My pitfalls while learning Ruby and Rails, First Issue](https://dev.to/rey_gutierrez/my-pitfalls-while-learning-ruby-and-rails-first-issue-n93)
+- [What I Learned Building Fast Websites for Small Businesses in India](https://dev.to/akelabhai/what-i-learned-building-fast-websites-for-small-businesses-in-india-4j8a)
+- [Two Frameworks, One Mission: Rethinking Web Security Testing in the AI Era](https://dev.to/cheahengsoon/two-frameworks-one-mission-rethinking-web-security-testing-in-the-ai-era-4flb)
 <!-- BLOG-POST-LIST:END -->
 
