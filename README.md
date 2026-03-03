@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Writing Challenge](https://dev.to/dan52242644dan/google-gemini-writing-challenge-28d1)
-- [A GUI editor for Mapbox Color Themes](https://dev.to/mapbox/a-gui-editor-for-mapbox-color-themes-5fho)
-- [How We Built X Submission Intake: From Social Chaos to Structured Pipeline](https://dev.to/chefbc2k/how-we-built-x-submission-intake-from-social-chaos-to-structured-pipeline-3hjb)
-- [How Tech Leads Use Metrics to Justify Technical Decisions](https://dev.to/kodustech/how-tech-leads-use-metrics-to-justify-technical-decisions-3ch8)
+- [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh)
+- [17 AWS security issues I spot in almost every infrastructure audit](https://dev.to/haitmg/17-aws-security-issues-i-spot-in-almost-every-infrastructure-audit-13k7)
+- [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e)
+- [Coding to the Metal: Why Fixed Hardware Architectures Outpaced the Cloud-Gaming Vision](https://dev.to/thangialbert/coding-to-the-metal-why-fixed-hardware-architectures-outpaced-the-cloud-gaming-vision-140j)
 <!-- BLOG-POST-LIST:END -->
 
