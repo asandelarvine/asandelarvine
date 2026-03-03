@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Array Methods: A Beginner&#39;s Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89)
-- [Telegram and the Architectural Shift Toward Access-Layer Authentication](https://dev.to/antonmb/telegram-and-the-architectural-shift-toward-access-layer-authentication-2o0j)
-- [SkyDiscover: An Open Framework for LLM-Driven Algorithm Discovery](https://dev.to/skejriwal44/skydiscover-an-open-framework-for-llm-driven-algorithm-discovery-2ion)
-- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2of0)
+- [Marxon vs AI #1 - The Developer Who Doesn&#39;t Panic](https://dev.to/marxon/-marxon-vs-ai-1-the-developer-who-doesnt-panic-5a1l)
+- [I built a spec management extension with a WYSIWYG Markdown editor in a VS Code webview — lessons learned](https://dev.to/thlandgraf/i-built-a-spec-management-extension-with-a-wysiwyg-markdown-editor-in-a-vs-code-webview-lessons-h5d)
+- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
 <!-- BLOG-POST-LIST:END -->
 
