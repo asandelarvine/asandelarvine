@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace Studio: Extract PDF Data to Sheets Automatically](https://dev.to/googleworkspace/google-workspace-studio-extract-pdf-data-to-sheets-automatically-6ln)
-- [Stop Manually Translating “What’s New” in App Store Connect](https://dev.to/vlad_mobi/stop-manually-translating-whats-new-in-app-store-connect-1cad)
-- [The Hardest Part Isn&#39;t Being Invisible—It&#39;s Being Flattened Into One Dimension](https://dev.to/narnaiezzsshaa/the-hardest-part-isnt-being-invisible-its-being-flattened-into-one-dimension-2okj)
-- [How I Built an SEO Skill for AI IDEs Because My Cursor Kept Getting It Wrong](https://dev.to/aryanpanwar1/how-i-built-an-seo-skill-for-ai-ides-because-my-cursor-kept-getting-it-wrong-5hd1)
+- [Why I Built a CAPTCHA That Only Bots Can Solve](https://dev.to/leo_pechnicki/why-i-built-a-captcha-that-only-bots-can-solve-30np)
+- [From Hackathon Hustle to Gemini Glory: My SyncroFlow Journey](https://dev.to/felix_arsene/from-hackathon-hustle-to-gemini-glory-my-syncroflow-journey-59m)
+- [I Was Building a Cloud Video Service. YouTube Turned Me Into an IP Trafficker.](https://dev.to/osovsky/i-was-building-a-cloud-video-service-youtube-turned-me-into-an-ip-trafficker-1l9o)
+- [Behavioral Engineering for AI in Java: Enforcing Policy from Dev to Prod](https://dev.to/riferrei/behavioral-engineering-for-ai-in-java-enforcing-policy-from-dev-to-prod-7ji)
 <!-- BLOG-POST-LIST:END -->
 
