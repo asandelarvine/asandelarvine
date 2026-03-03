@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Invalidation That Doesn&#39;t Suck](https://dev.to/albertobadia/semantic-invalidation-that-doesnt-suck-1f0f)
-- [Best Enterprise AI Gateway for Scaling Claude Code in 2026](https://dev.to/pranay_batta/best-enterprise-ai-gateway-for-scaling-claude-code-in-2026-2jn2)
-- [Myopia, Exotropia, and Code: Developing a Vision Training Tool for Near-Sighted Professionals](https://dev.to/alexander-nenashev/myopia-exotropia-and-code-developing-a-vision-training-tool-for-near-sighted-professionals-5bh0)
-- [Top 5 Cloudflare AI Gateway Alternatives in 2026](https://dev.to/pranay_batta/top-5-cloudflare-ai-gateway-alternatives-in-2026-521e)
+- [Google Workspace Studio: Extract PDF Data to Sheets Automatically](https://dev.to/googleworkspace/google-workspace-studio-extract-pdf-data-to-sheets-automatically-6ln)
+- [Stop Manually Translating “What’s New” in App Store Connect](https://dev.to/vlad_mobi/stop-manually-translating-whats-new-in-app-store-connect-1cad)
+- [The Hardest Part Isn&#39;t Being Invisible—It&#39;s Being Flattened Into One Dimension](https://dev.to/narnaiezzsshaa/the-hardest-part-isnt-being-invisible-its-being-flattened-into-one-dimension-2okj)
+- [How I Built an SEO Skill for AI IDEs Because My Cursor Kept Getting It Wrong](https://dev.to/aryanpanwar1/how-i-built-an-seo-skill-for-ai-ides-because-my-cursor-kept-getting-it-wrong-5hd1)
 <!-- BLOG-POST-LIST:END -->
 
