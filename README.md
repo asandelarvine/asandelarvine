@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# CLAUDE.md Best Practices: 7 formatting rules for the Machine](https://dev.to/cleverhoods/-claudemd-best-practices-7-formatting-rules-for-the-machine-3d3l)
-- [Why Product Tours Should Live in Your Git Repo](https://dev.to/hellotrailguide/why-product-tours-should-live-in-your-git-repo-1ipd)
-- [5 Web Dev Pitfalls That Are Silently Killing Your Projects &lpar;With Real Fixes&rpar;](https://dev.to/dharanidharan_d_tech/5-web-dev-pitfalls-that-are-silently-killing-your-projects-with-real-fixes-1hpl)
-- [Building a Rails Engine #7 — The Orchestrator: Coordinating the Workflow](https://dev.to/seryllns_/building-a-rails-engine-7-the-orchestrator-coordinating-the-workflow-1p4i)
+- [Semantic Invalidation That Doesn&#39;t Suck](https://dev.to/albertobadia/semantic-invalidation-that-doesnt-suck-1f0f)
+- [Best Enterprise AI Gateway for Scaling Claude Code in 2026](https://dev.to/pranay_batta/best-enterprise-ai-gateway-for-scaling-claude-code-in-2026-2jn2)
+- [Myopia, Exotropia, and Code: Developing a Vision Training Tool for Near-Sighted Professionals](https://dev.to/alexander-nenashev/myopia-exotropia-and-code-developing-a-vision-training-tool-for-near-sighted-professionals-5bh0)
+- [Top 5 Cloudflare AI Gateway Alternatives in 2026](https://dev.to/pranay_batta/top-5-cloudflare-ai-gateway-alternatives-in-2026-521e)
 <!-- BLOG-POST-LIST:END -->
 
