@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a real-time, 3D interactive Data Globe with visualization platform](https://dev.to/heat_globe/how-i-built-a-real-time-3d-interactive-data-globe-with-visualization-platform-55ci)
-- [Mantine Split Pane v3 - Responsive Sizing, Container-Aware Panes, and a Leaner API](https://dev.to/undolog/mantine-split-pane-v3-responsive-sizing-container-aware-panes-and-a-leaner-api-ko1)
-- [28% of My Users Are on Mobile. My Conversion Page Was Broken for All of Them.](https://dev.to/kazutaka-dev/28-of-my-users-are-on-mobile-my-conversion-page-was-broken-for-all-of-them-70j)
-- [Building a Knowledge Base with RAG Using NestJS, LangChain and OpenAI](https://dev.to/dan1618/building-a-knowledge-base-with-rag-using-nestjs-langchain-and-openai-12nk)
+- [# CLAUDE.md Best Practices: 7 formatting rules for the Machine](https://dev.to/cleverhoods/-claudemd-best-practices-7-formatting-rules-for-the-machine-3d3l)
+- [Why Product Tours Should Live in Your Git Repo](https://dev.to/hellotrailguide/why-product-tours-should-live-in-your-git-repo-1ipd)
+- [5 Web Dev Pitfalls That Are Silently Killing Your Projects &lpar;With Real Fixes&rpar;](https://dev.to/dharanidharan_d_tech/5-web-dev-pitfalls-that-are-silently-killing-your-projects-with-real-fixes-1hpl)
+- [Building a Rails Engine #7 — The Orchestrator: Coordinating the Workflow](https://dev.to/seryllns_/building-a-rails-engine-7-the-orchestrator-coordinating-the-workflow-1p4i)
 <!-- BLOG-POST-LIST:END -->
 
