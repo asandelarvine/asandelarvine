@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool that shows you which files break before you push](https://dev.to/lnguyen/i-built-a-tool-that-shows-you-which-files-break-before-you-push-20gn)
-- [I shipped my first SaaS in a day — here&#39;s the stack, the costs, and what I learned](https://dev.to/alberto_towns_b3e46310d1c/i-shipped-my-first-saas-in-a-day-heres-the-stack-the-costs-and-what-i-learned-41ea)
-- [API Documentation: Auto-Generated Swagger &amp; ReDoc with FastAPI](https://dev.to/ghost_script/api-documentation-auto-generated-swagger-redoc-with-fastapi-2hib)
-- [Push_Swap, Paralysis, and Why I Finally Chose the Turk Algorithm](https://dev.to/i_moh/pushswap-paralysis-and-why-i-finally-chose-the-turk-algorithm-3a2p)
+- [The macOS Terminal Email Setup Nobody Talks About](https://dev.to/cheeto/the-macos-terminal-email-setup-nobody-talks-about-5682)
+- [Hackers don&#39;t have to be too smart unless you do this](https://dev.to/bastiasa/hackers-doesnt-have-to-be-too-smart-unless-you-do-this-2f8o)
+- [HTTP Protocols Explained Simply](https://dev.to/omkarscode/http-protocols-explained-simply-540j)
+- [Stanford Just Exposed the Fatal Flaw Killing Every RAG System at Scale](https://dev.to/aryan_shukla/stanford-just-exposed-the-fatal-flaw-killing-every-rag-system-at-scale-h7i)
 <!-- BLOG-POST-LIST:END -->
 
