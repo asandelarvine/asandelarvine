@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.1 Flash-Lite: Developer guide and use cases](https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh)
-- [17 AWS security issues I spot in almost every infrastructure audit](https://dev.to/haitmg/17-aws-security-issues-i-spot-in-almost-every-infrastructure-audit-13k7)
-- [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://dev.to/googleai/gemini-31-flash-lite-built-for-intelligence-at-scale-3i8e)
-- [Coding to the Metal: Why Fixed Hardware Architectures Outpaced the Cloud-Gaming Vision](https://dev.to/thangialbert/coding-to-the-metal-why-fixed-hardware-architectures-outpaced-the-cloud-gaming-vision-140j)
+- [Mastering JavaScript Array Methods: A Beginner&#39;s Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89)
+- [Telegram and the Architectural Shift Toward Access-Layer Authentication](https://dev.to/antonmb/telegram-and-the-architectural-shift-toward-access-layer-authentication-2o0j)
+- [SkyDiscover: An Open Framework for LLM-Driven Algorithm Discovery](https://dev.to/skejriwal44/skydiscover-an-open-framework-for-llm-driven-algorithm-discovery-2ion)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
 <!-- BLOG-POST-LIST:END -->
 
