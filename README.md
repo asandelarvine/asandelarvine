@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [i built a social platform where everything vanishes after 24 hours](https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk)
-- [The Ultimate Guide to Enterprise Web Development in 2026](https://dev.to/tantrijaenterprisess/the-ultimate-guide-to-enterprise-web-development-in-2026-3p1i)
-- [GHSA-HWPQ-RRPF-PGCQ: GHSA-HWPQ-RRPF-PGCQ: Execution Approval Bypass in OpenClaw system.run](https://dev.to/cverports/ghsa-hwpq-rrpf-pgcq-ghsa-hwpq-rrpf-pgcq-execution-approval-bypass-in-openclaw-systemrun-pml)
-- [Modern software is no longer just executing logic. It is increasingly making decisions.
-
-And that changes what software fundamentally is.](https://dev.to/jaideepparashar/modern-software-is-no-longer-just-executing-logic-it-is-increasingly-making-decisions-and-that-92e)
+- [What Actually Happens When You Call an LLM API?](https://dev.to/aprilloveblair/what-actually-happens-when-you-call-an-llm-api-10il)
+- [Vibe Coding Challenge Day 5: Custom Font Generator](https://dev.to/labdays/vibe-coding-challenge-day-5-custom-font-generator-3e1m)
+- [Publishing to dev.to Programmatically in 2026: What Actually Works](https://dev.to/ankitg12/publishing-to-devto-programmatically-in-2026-what-actually-works-2nkd)
+- [Designing High-Precision LLM RAG Systems: An Enterprise-Grade Architecture Blueprint](https://dev.to/optyxstack/designing-high-precision-llm-rag-systems-an-enterprise-grade-architecture-blueprint-1ldo)
 <!-- BLOG-POST-LIST:END -->
 
