@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of SSH — So I Built an AI Agent That Lets Me Check My Terminal From My Phone](https://dev.to/markin/i-was-tired-of-ssh-so-i-built-an-ai-agent-that-lets-me-check-my-terminal-from-my-phone-5g7c)
-- [I built a tool that turns RSS, YouTube, and Reddit into a single daily briefing](https://dev.to/sangkwun/i-built-a-tool-that-turns-rss-youtube-and-reddit-into-a-single-daily-briefing-1nci)
-- [Challenges and Solutions in Developing a Stable, User-Friendly, Open-Source Cross-Platform Database Client](https://dev.to/serbyte/challenges-and-solutions-in-developing-a-stable-user-friendly-open-source-cross-platform-database-3e8g)
-- [ML Theory is Everywhere. Practice is Nowhere. So I Built It.](https://dev.to/anurag_jain/ml-theory-is-everywhere-practice-is-nowhere-so-i-built-it-5f)
+- [MEMORY.md Doesn&#39;t Scale. Here&#39;s What Does.](https://dev.to/jadessoriano/memorymd-doesnt-scale-heres-what-does-34ic)
+- [Day 16 — I Bypassed My Own Flask Login &lpar;And Fixed It Properly&rpar;](https://dev.to/hafiz_shamnad/day-16-i-bypassed-my-own-flask-login-and-fixed-it-properly-5a0j)
+- [Using Claude API to Automate Content Creation: A Real Implementation](https://dev.to/chenyanchen/using-claude-api-to-automate-content-creation-a-real-implementation-22ah)
+- [Part-4 Functional Interface&lpar;Supplier&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacesupplier-5f2b)
 <!-- BLOG-POST-LIST:END -->
 
