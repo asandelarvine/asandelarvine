@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Meal Prep Co-Pilot Built with Google Gemini - A Reflection](https://dev.to/kathleen_bonaventure/a-meal-prep-co-pilot-built-with-google-gemini-a-reflection-3gb0)
-- [Fine-tuning vs RAG: Cuándo Usar Cada Enfoque para LLMs en Producción](https://dev.to/synsun/fine-tuning-vs-rag-cuando-usar-cada-enfoque-para-llms-en-produccion-5kl)
-- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-121c)
-- [Getting Started with Gemini Agents: Build a Data-Connected RAG Agent using Vertex AI Agent Builder](https://dev.to/jubinsoni/getting-started-with-gemini-agents-build-a-data-connected-rag-agent-using-vertex-ai-agent-builder-50ml)
+- [I Used The Markup&#39;s Blacklight to Audit 96 Websites. Here&#39;s the Technical Breakdown.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2)
+- [Data Engineering for AI Projects: What Most Developers Get Wrong](https://dev.to/eva_clari_289d85ecc68da48/data-engineering-for-ai-projects-what-most-developers-get-wrong-1ec2)
+- [Mastering the Art of Debugging in Flutter&lpar;Part Three&rpar;](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-three-3kae)
+- [How I built tamper-proof audit logs for AI agents at 15](https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49)
 <!-- BLOG-POST-LIST:END -->
 
