@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Windsurf — An AI Native Coding Environment](https://dev.to/saloniagrawal/i-tried-windsurf-an-ai-native-coding-environment-59i0)
-- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
-- [🚀 Day 10 of My Automation Journey – Tricky Constructor Questions &lpar;Inheritance in Java&rpar;](https://dev.to/bala_dkaveri_443d4beb9c8/day-10-of-my-automation-journey-tricky-constructor-questions-inheritance-in-java-2pnj)
-- [Why I&#39;m supporting the petition to recognize open-source work as volunteering in Germany](https://dev.to/kermie/why-im-supporting-the-petition-to-recognize-open-source-work-as-volunteering-in-germany-29ac)
+- [We built post-quantum encrypted email that works with Gmail. Here&#39;s how.](https://dev.to/findleyl/we-built-post-quantum-encrypted-email-that-works-with-gmail-heres-how-3ffn)
+- [Why AI Crawlers Can&#39;t See Your React App](https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n)
+- [The Economics of Residential Proxies: How a &quot;Free&quot; Flashlight App Becomes a $10/GB Node](https://dev.to/xunairahbalouch/the-economics-of-residential-proxies-how-a-free-flashlight-app-becomes-a-10gb-node-1m1m)
+- [React: Singletons aren&#39;t as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
 <!-- BLOG-POST-LIST:END -->
 
