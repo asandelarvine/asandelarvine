@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dalexor MI: The MCP Server That Gives Your AI a Permanent Memory of Your Codebase](https://dev.to/dragos_marincas_c5a67510e/dalexor-mi-the-mcp-server-that-gives-your-ai-a-permanent-memory-of-your-codebasepublished-true-2db)
-- [AI Hallucinations and Irreversible Actions: A Near-Death Experience](https://dev.to/originalb/ai-hallucinations-and-irreversible-actions-a-near-death-experience-4ojc)
-- [Optimizing Next.js Performance: A Practical Case Study &lpar;96+ Lighthouse Mobile&rpar;](https://dev.to/trlz/optimizing-nextjs-performance-a-practical-case-study-96-lighthouse-mobile-31da)
-- [“The Death of Business Software &lpar;As We Know It&rpar;”](https://dev.to/formever_corin/the-death-of-business-software-as-we-know-it-1f7a)
+- [Async/Await no .NET 10: Eliminando o Overhead da State Machine](https://dev.to/unhacked/asyncawait-no-net-10-eliminando-o-overhead-da-state-machine-3d3n)
+- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
+- [The Delicate Balance of Press Freedom: Identifying and Mitigating Threats](https://dev.to/mystrix/the-delicate-balance-of-press-freedom-identifying-and-mitigating-threats-1j7o)
+- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
 <!-- BLOG-POST-LIST:END -->
 
