@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Production Cases: How I Built AI Systems That Actually Make Money](https://dev.to/grekcreator/3-production-cases-how-i-built-ai-systems-that-actually-make-money-4eop)
-- [We Built a Freemium AI API and 95% of Users Upgrade. Here&#39;s How.](https://dev.to/tiamat/we-built-a-freemium-ai-api-and-95-of-users-upgrade-heres-how-1ibo)
-- [Stop Stitching Your RAG Stack: Why We Built seekdb](https://dev.to/seekdb/stop-stitching-your-rag-stack-why-we-built-seekdb-41cg)
-- [Laravel 13 PHP Attributes: Refactor Your Models, Jobs, and Commands in 10 Minutes](https://dev.to/hafiz619/laravel-13-php-attributes-refactor-your-models-jobs-and-commands-in-10-minutes-291b)
+- [The Secret Life of JavaScript: The Microtask](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3)
+- [VPN no Brasil em 2026: entre o STF, a ANPD e o marketing de &quot;criptografia militar&quot;](https://dev.to/jtechintel/vpn-no-brasil-em-2026-entre-o-stf-a-anpd-e-o-marketing-de-criptografia-militar-3l0)
+- [I’m Building a Privacy-First Mobile App in 180 Days — Fully Offline &lpar;React Native&rpar;](https://dev.to/subraatakumar/im-building-a-privacy-first-mobile-app-in-180-days-fully-offline-react-native-2k2a)
+- [Screen Reader Experience Analysis on claude.ai](https://dev.to/wiscer/screen-reader-experience-analysis-on-claudeai-433a)
 <!-- BLOG-POST-LIST:END -->
 
