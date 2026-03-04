@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Lambdas to Agents - ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
-- [The Samurai and the Syntax: Why AI is a Sword, Not a Magic Wand ⚔️](https://dev.to/chadders13/the-samurai-and-the-syntax-why-ai-is-a-sword-not-a-magic-wand-4bdc)
-- [MFA Is Working Fine. That&#39;s the Problem.](https://dev.to/dendrite_soup/mfa-is-working-fine-thats-the-problem-4nf8)
-- [python leet code](https://dev.to/vijay_k_86909e78fdad45da4/python-leet-code-586n)
+- [Week 8 Challenge: Build an Anti-XSS Escape Encoding Framework in Python](https://dev.to/fosres/security-challenge-build-an-xss-prevention-framework-in-python-100-tests-4i81)
+- [We Taught AI Agents to Stop Talking Like Humans](https://dev.to/aipass/we-taught-ai-agents-to-stop-talking-like-humans-c59)
+- [How I Get Claude to Think Like 5 Specialists &lpar;And Never Lose Context&rpar;](https://dev.to/nolrm/how-i-get-claude-to-think-like-5-specialists-and-never-lose-context-4h4l)
+- [Zero-Code PII Protection for LangChain and CrewAI Agents](https://dev.to/tiamat/zero-code-pii-protection-for-langchain-and-crewai-agents-i2j)
 <!-- BLOG-POST-LIST:END -->
 
