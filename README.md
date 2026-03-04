@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Modeled the Forgetting Curve in 40 Lines of Python](https://dev.to/ruhidibadli/how-i-modeled-the-forgetting-curve-in-40-lines-of-python-43mm)
-- [How to Generate AI Images Locally on Your iPhone in 2026 &lpar;No Cloud, No Subscription&rpar;](https://dev.to/alichherawalla/how-to-generate-ai-images-locally-on-your-iphone-in-2026-no-cloud-no-subscription-l18)
-- [The Missing Third Config Layer: Adding User Secrets to Blazor WebAssembly](https://dev.to/j_sakamoto/the-missing-third-config-layer-adding-user-secrets-to-blazor-webassembly-2a5a)
-- [Practice SQL in Your Browser — No Installation Required 🚀](https://dev.to/raihaninfo/practice-sql-in-your-browser-no-installation-required-10m0)
+- [CVE-2025-54136 MCPoison: Why Hosted MCP Servers Have a Smaller Attack Surface](https://dev.to/custodiaadmin/cve-2025-54136-mcpoison-why-hosted-mcp-servers-have-a-smaller-attack-surface-1aed)
+- [Tracking User Acquisition with UTM Parameters](https://dev.to/geanruca/tracking-user-acquisition-with-utm-parameters-420n)
+- [I Made Zod 64x Faster by Compiling Schemas at Build Time](https://dev.to/wakita181009/i-made-zod-64x-faster-by-compiling-schemas-at-build-time-3e1a)
+- [Gemini 3: The Overthinker - Project Silas](https://dev.to/nadinev/gemini-3-the-overthinker-project-silas-1e2)
 <!-- BLOG-POST-LIST:END -->
 
