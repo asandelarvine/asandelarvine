@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with ContextForge: From Zero to Tool Calls in 15 Minutes](https://dev.to/optml/getting-started-with-contextforge-from-zero-to-tool-calls-in-15-minutes-1lgi)
-- [𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐈𝐬 𝐚 𝐆𝐢𝐟𝐭: 𝐋𝐞𝐬𝐬𝐨𝐧𝐬 𝐅𝐫𝐨𝐦 𝐓𝐨𝐚𝐬𝐭𝐦𝐚𝐬𝐭𝐞𝐫𝐬](https://dev.to/yoditdevn8n/-1575)
-- [OpenClaw Deep Dive &lpar;4&rpar;: Plugin SDK and Extension Development](https://dev.to/wonderlab/openclaw-deep-dive-4-plugin-sdk-and-extension-development-51ki)
-- [Why You Need an MCP Gateway for Enterprise AI Agents](https://dev.to/optml/why-you-need-an-mcp-gateway-for-enterprise-ai-agents-3537)
+- [Everyone Scrambled to Ship MCP Servers. The Agents That Actually Work Just Use the Command Line.](https://dev.to/octomind_dev/everyone-scrambled-to-ship-mcp-servers-the-agents-that-actually-work-just-use-the-command-line-17m7)
+- [Make WooCommerce and Wordpress Visible to ChatGPT, Claude &amp; Perplexity](https://dev.to/madeburo/make-woocommerce-and-wordpress-visible-to-chatgpt-claude-perplexity-dhh)
+- [DP State Transitions: How to Design Tables That Actually Work](https://dev.to/alex_hunter_44f4c9ed6671e/dp-state-transitions-how-to-design-tables-that-actually-work-5efe)
+- [How AI Content Detectors Work in 2026: Algorithms Explained](https://dev.to/faty_diop_eecf070cdb0be72/how-ai-content-detectors-work-in-2026-algorithms-explained-26hi)
 <!-- BLOG-POST-LIST:END -->
 
