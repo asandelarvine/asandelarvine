@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We built post-quantum encrypted email that works with Gmail. Here&#39;s how.](https://dev.to/findleyl/we-built-post-quantum-encrypted-email-that-works-with-gmail-heres-how-3ffn)
-- [Why AI Crawlers Can&#39;t See Your React App](https://dev.to/jsvisible/why-ai-crawlers-cant-see-your-react-app-137n)
-- [The Economics of Residential Proxies: How a &quot;Free&quot; Flashlight App Becomes a $10/GB Node](https://dev.to/xunairahbalouch/the-economics-of-residential-proxies-how-a-free-flashlight-app-becomes-a-10gb-node-1m1m)
-- [React: Singletons aren&#39;t as evil as you think](https://dev.to/link2twenty/react-singletons-arent-as-evil-as-you-think-44m8)
+- [Dalexor MI: The MCP Server That Gives Your AI a Permanent Memory of Your Codebase](https://dev.to/dragos_marincas_c5a67510e/dalexor-mi-the-mcp-server-that-gives-your-ai-a-permanent-memory-of-your-codebasepublished-true-2db)
+- [AI Hallucinations and Irreversible Actions: A Near-Death Experience](https://dev.to/originalb/ai-hallucinations-and-irreversible-actions-a-near-death-experience-4ojc)
+- [Optimizing Next.js Performance: A Practical Case Study &lpar;96+ Lighthouse Mobile&rpar;](https://dev.to/trlz/optimizing-nextjs-performance-a-practical-case-study-96-lighthouse-mobile-31da)
+- [“The Death of Business Software &lpar;As We Know It&rpar;”](https://dev.to/formever_corin/the-death-of-business-software-as-we-know-it-1f7a)
 <!-- BLOG-POST-LIST:END -->
 
