@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Scrambled to Ship MCP Servers. The Agents That Actually Work Just Use the Command Line.](https://dev.to/octomind_dev/everyone-scrambled-to-ship-mcp-servers-the-agents-that-actually-work-just-use-the-command-line-17m7)
-- [Make WooCommerce and Wordpress Visible to ChatGPT, Claude &amp; Perplexity](https://dev.to/madeburo/make-woocommerce-and-wordpress-visible-to-chatgpt-claude-perplexity-dhh)
-- [DP State Transitions: How to Design Tables That Actually Work](https://dev.to/alex_hunter_44f4c9ed6671e/dp-state-transitions-how-to-design-tables-that-actually-work-5efe)
-- [How AI Content Detectors Work in 2026: Algorithms Explained](https://dev.to/faty_diop_eecf070cdb0be72/how-ai-content-detectors-work-in-2026-algorithms-explained-26hi)
+- [Zero to Java Dev — Day 0 🚀💻](https://dev.to/shubhamdhurwe47/zero-to-java-dev-day-0-42ll)
+- [Why I built Drivebase. An open-source unified file manager.](https://dev.to/monawwar/why-i-built-drivebase-an-open-source-unified-file-manager-1fhl)
+- [Learning as I Build](https://dev.to/gusmanchuca/learning-as-i-build-1ja0)
+- [Anagram Checker Using HashMap](https://dev.to/uroozulous/anagram-checker-using-hashmap-4ibf)
 <!-- BLOG-POST-LIST:END -->
 
