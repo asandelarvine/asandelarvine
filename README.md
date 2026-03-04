@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: The Microtask](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3)
-- [VPN no Brasil em 2026: entre o STF, a ANPD e o marketing de &quot;criptografia militar&quot;](https://dev.to/jtechintel/vpn-no-brasil-em-2026-entre-o-stf-a-anpd-e-o-marketing-de-criptografia-militar-3l0)
-- [I’m Building a Privacy-First Mobile App in 180 Days — Fully Offline &lpar;React Native&rpar;](https://dev.to/subraatakumar/im-building-a-privacy-first-mobile-app-in-180-days-fully-offline-react-native-2k2a)
-- [Screen Reader Experience Analysis on claude.ai](https://dev.to/wiscer/screen-reader-experience-analysis-on-claudeai-433a)
+- [Getting Started with ContextForge: From Zero to Tool Calls in 15 Minutes](https://dev.to/optml/getting-started-with-contextforge-from-zero-to-tool-calls-in-15-minutes-1lgi)
+- [𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐈𝐬 𝐚 𝐆𝐢𝐟𝐭: 𝐋𝐞𝐬𝐬𝐨𝐧𝐬 𝐅𝐫𝐨𝐦 𝐓𝐨𝐚𝐬𝐭𝐦𝐚𝐬𝐭𝐞𝐫𝐬](https://dev.to/yoditdevn8n/-1575)
+- [OpenClaw Deep Dive &lpar;4&rpar;: Plugin SDK and Extension Development](https://dev.to/wonderlab/openclaw-deep-dive-4-plugin-sdk-and-extension-development-51ki)
+- [Why You Need an MCP Gateway for Enterprise AI Agents](https://dev.to/optml/why-you-need-an-mcp-gateway-for-enterprise-ai-agents-3537)
 <!-- BLOG-POST-LIST:END -->
 
