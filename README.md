@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-54136 MCPoison: Why Hosted MCP Servers Have a Smaller Attack Surface](https://dev.to/custodiaadmin/cve-2025-54136-mcpoison-why-hosted-mcp-servers-have-a-smaller-attack-surface-1aed)
-- [Tracking User Acquisition with UTM Parameters](https://dev.to/geanruca/tracking-user-acquisition-with-utm-parameters-420n)
-- [I Made Zod 64x Faster by Compiling Schemas at Build Time](https://dev.to/wakita181009/i-made-zod-64x-faster-by-compiling-schemas-at-build-time-3e1a)
-- [Gemini 3: The Overthinker - Project Silas](https://dev.to/nadinev/gemini-3-the-overthinker-project-silas-1e2)
+- [AI Crash Course: Tokens, Prediction and Temperature](https://dev.to/kathryngrayson/ai-crash-course-tokens-prediction-and-temperature-2p4n)
+- [AI Crash Course: AI, ML, LLM and More](https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk)
+- [From 80% False Positives to 95% Accurate: How We Fixed Architecture Linting](https://dev.to/sergegriimm/from-80-false-positives-to-95-accurate-how-we-fixed-architecture-linting-4fg4)
+- [One API call to make any data GDPR/HIPAA/CCPA compliant. From zero to compliant in 10 minutes, not 10 months.](https://dev.to/ijaz18/one-api-call-to-make-any-data-gdprhipaaccpa-compliant-from-zero-to-compliant-in-10-minutes-not-f0h)
 <!-- BLOG-POST-LIST:END -->
 
