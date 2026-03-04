@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used The Markup&#39;s Blacklight to Audit 96 Websites. Here&#39;s the Technical Breakdown.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2)
-- [Data Engineering for AI Projects: What Most Developers Get Wrong](https://dev.to/eva_clari_289d85ecc68da48/data-engineering-for-ai-projects-what-most-developers-get-wrong-1ec2)
-- [Mastering the Art of Debugging in Flutter&lpar;Part Three&rpar;](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-three-3kae)
-- [How I built tamper-proof audit logs for AI agents at 15](https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49)
+- [3 Production Cases: How I Built AI Systems That Actually Make Money](https://dev.to/grekcreator/3-production-cases-how-i-built-ai-systems-that-actually-make-money-4eop)
+- [We Built a Freemium AI API and 95% of Users Upgrade. Here&#39;s How.](https://dev.to/tiamat/we-built-a-freemium-ai-api-and-95-of-users-upgrade-heres-how-1ibo)
+- [Stop Stitching Your RAG Stack: Why We Built seekdb](https://dev.to/seekdb/stop-stitching-your-rag-stack-why-we-built-seekdb-41cg)
+- [Laravel 13 PHP Attributes: Refactor Your Models, Jobs, and Commands in 10 Minutes](https://dev.to/hafiz619/laravel-13-php-attributes-refactor-your-models-jobs-and-commands-in-10-minutes-291b)
 <!-- BLOG-POST-LIST:END -->
 
