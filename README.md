@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Validation Best Practices: Beyond Simple Regex](https://dev.to/apiverve/email-validation-best-practices-beyond-simple-regex-491l)
-- [WHOIS Data: Domain Intelligence for Business and Security](https://dev.to/apiverve/whois-data-domain-intelligence-for-business-and-security-26p6)
-- [Node.js vs FastAPI Event Loop: A Deep Dive into Async Concurrency](https://dev.to/dipcb05/nodejs-vs-fastapi-event-loop-a-deep-dive-into-async-concurrency-35b1)
-- [IP Geolocation: Accuracy, Limitations, and Best Practices](https://dev.to/apiverve/ip-geolocation-accuracy-limitations-and-best-practices-39k2)
+- [From Lambdas to Agents - ECS for Orchestration](https://dev.to/tyson_cung/from-lambdas-to-agents-ecs-for-orchestration-1ap)
+- [The Samurai and the Syntax: Why AI is a Sword, Not a Magic Wand ⚔️](https://dev.to/chadders13/the-samurai-and-the-syntax-why-ai-is-a-sword-not-a-magic-wand-4bdc)
+- [MFA Is Working Fine. That&#39;s the Problem.](https://dev.to/dendrite_soup/mfa-is-working-fine-thats-the-problem-4nf8)
+- [python leet code](https://dev.to/vijay_k_86909e78fdad45da4/python-leet-code-586n)
 <!-- BLOG-POST-LIST:END -->
 
