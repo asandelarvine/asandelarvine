@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Java Dev — Day 0 🚀💻](https://dev.to/shubhamdhurwe47/zero-to-java-dev-day-0-42ll)
-- [Why I built Drivebase. An open-source unified file manager.](https://dev.to/monawwar/why-i-built-drivebase-an-open-source-unified-file-manager-1fhl)
-- [Learning as I Build](https://dev.to/gusmanchuca/learning-as-i-build-1ja0)
-- [Anagram Checker Using HashMap](https://dev.to/uroozulous/anagram-checker-using-hashmap-4ibf)
+- [🚀 Desmistificando Bancos NoSQL: O Guia Definitivo sobre Chave-Valor &lpar;Key-Value&rpar;](https://dev.to/felipecezar01/desmistificando-bancos-nosql-o-guia-definitivo-sobre-chave-valor-key-value-3i4c)
+- [Get your Public IP and Whois data in JSON &lpar;No API Key, No Ads&rpar;](https://dev.to/tommaso82/get-your-public-ip-and-whois-data-in-json-no-api-key-no-ads-28e0)
+- [I built a zero-cost end-to-end DevOps pipeline &lpar;GitHub Actions + Docker + Kubernetes + Docker Hub&rpar;](https://dev.to/rufilboss/i-built-a-zero-cost-end-to-end-devops-pipeline-github-actions-docker-kubernetes-docker-hub-2g9n)
+- [JSON Patch in Java — Without Converting Everything to JsonNode](https://dev.to/hannyu/json-patch-in-java-without-converting-everything-to-jsonnode-ji9)
 <!-- BLOG-POST-LIST:END -->
 
