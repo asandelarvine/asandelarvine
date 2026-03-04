@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The macOS Terminal Email Setup Nobody Talks About](https://dev.to/cheeto/the-macos-terminal-email-setup-nobody-talks-about-5682)
-- [Hackers don&#39;t have to be too smart unless you do this](https://dev.to/bastiasa/hackers-doesnt-have-to-be-too-smart-unless-you-do-this-2f8o)
-- [HTTP Protocols Explained Simply](https://dev.to/omkarscode/http-protocols-explained-simply-540j)
-- [Stanford Just Exposed the Fatal Flaw Killing Every RAG System at Scale](https://dev.to/aryan_shukla/stanford-just-exposed-the-fatal-flaw-killing-every-rag-system-at-scale-h7i)
+- [Why I Started Structuring My Development Notes &lpar;After Getting Called Out 😅&rpar;](https://dev.to/siti_aisyahmatzainal_73/why-i-started-structuring-my-development-notes-after-getting-called-out--41a8)
+- [We built a pet medication tracker because every other app failed us](https://dev.to/krlz/we-built-a-pet-medication-tracker-because-every-other-app-failed-us-aho)
+- [Unpopular opinion: Vibe coding is burning money — and nobody’s tracking it.](https://dev.to/akshat2634/unpopular-opinion-vibe-coding-is-burning-money-and-nobodys-tracking-it-1o9c)
+- [How LLM Can Fix Your Posture](https://dev.to/klymentiev/how-llm-can-fix-your-posture-2agk)
 <!-- BLOG-POST-LIST:END -->
 
