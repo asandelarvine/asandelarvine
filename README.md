@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Structuring My Development Notes &lpar;After Getting Called Out 😅&rpar;](https://dev.to/siti_aisyahmatzainal_73/why-i-started-structuring-my-development-notes-after-getting-called-out--41a8)
-- [We built a pet medication tracker because every other app failed us](https://dev.to/krlz/we-built-a-pet-medication-tracker-because-every-other-app-failed-us-aho)
-- [Unpopular opinion: Vibe coding is burning money — and nobody’s tracking it.](https://dev.to/akshat2634/unpopular-opinion-vibe-coding-is-burning-money-and-nobodys-tracking-it-1o9c)
-- [How LLM Can Fix Your Posture](https://dev.to/klymentiev/how-llm-can-fix-your-posture-2agk)
+- [A Meal Prep Co-Pilot Built with Google Gemini - A Reflection](https://dev.to/kathleen_bonaventure/a-meal-prep-co-pilot-built-with-google-gemini-a-reflection-3gb0)
+- [Fine-tuning vs RAG: Cuándo Usar Cada Enfoque para LLMs en Producción](https://dev.to/synsun/fine-tuning-vs-rag-cuando-usar-cada-enfoque-para-llms-en-produccion-5kl)
+- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-121c)
+- [Getting Started with Gemini Agents: Build a Data-Connected RAG Agent using Vertex AI Agent Builder](https://dev.to/jubinsoni/getting-started-with-gemini-agents-build-a-data-connected-rag-agent-using-vertex-ai-agent-builder-50ml)
 <!-- BLOG-POST-LIST:END -->
 
