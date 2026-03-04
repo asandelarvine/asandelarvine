@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Crash Course: Tokens, Prediction and Temperature](https://dev.to/kathryngrayson/ai-crash-course-tokens-prediction-and-temperature-2p4n)
-- [AI Crash Course: AI, ML, LLM and More](https://dev.to/kathryngrayson/ai-crash-course-ai-ml-llm-and-more-4ggk)
-- [From 80% False Positives to 95% Accurate: How We Fixed Architecture Linting](https://dev.to/sergegriimm/from-80-false-positives-to-95-accurate-how-we-fixed-architecture-linting-4fg4)
-- [One API call to make any data GDPR/HIPAA/CCPA compliant. From zero to compliant in 10 minutes, not 10 months.](https://dev.to/ijaz18/one-api-call-to-make-any-data-gdprhipaaccpa-compliant-from-zero-to-compliant-in-10-minutes-not-f0h)
+- [Day 1/100: Building Your First FastAPI REST API - A Complete Beginner&#39;s Guide](https://dev.to/archijain/day-1100-building-your-first-fastapi-rest-api-a-complete-beginners-guide-n2j)
+- [What software can manage FMCG distributor sales and inventory?](https://dev.to/dealer-hq/what-software-can-manage-fmcg-distributor-sales-and-inventory-5gb4)
+- [Best OCR APIs — Why Open-Source Falls Short for Devs](https://dev.to/aiengine/best-ocr-apis-why-open-source-falls-short-for-devs-2619)
+- [Automate Content Moderation with an NSFW Detection API](https://dev.to/aiengine/automate-content-moderation-with-an-nsfw-detection-api-k12)
 <!-- BLOG-POST-LIST:END -->
 
