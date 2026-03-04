@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await no .NET 10: Eliminando o Overhead da State Machine](https://dev.to/unhacked/asyncawait-no-net-10-eliminando-o-overhead-da-state-machine-3d3n)
-- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
-- [The Delicate Balance of Press Freedom: Identifying and Mitigating Threats](https://dev.to/mystrix/the-delicate-balance-of-press-freedom-identifying-and-mitigating-threats-1j7o)
-- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
+- [Email Validation Best Practices: Beyond Simple Regex](https://dev.to/apiverve/email-validation-best-practices-beyond-simple-regex-491l)
+- [WHOIS Data: Domain Intelligence for Business and Security](https://dev.to/apiverve/whois-data-domain-intelligence-for-business-and-security-26p6)
+- [Node.js vs FastAPI Event Loop: A Deep Dive into Async Concurrency](https://dev.to/dipcb05/nodejs-vs-fastapi-event-loop-a-deep-dive-into-async-concurrency-35b1)
+- [IP Geolocation: Accuracy, Limitations, and Best Practices](https://dev.to/apiverve/ip-geolocation-accuracy-limitations-and-best-practices-39k2)
 <!-- BLOG-POST-LIST:END -->
 
