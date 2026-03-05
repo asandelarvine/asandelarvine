@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Vibe Coding Tools Are Changing the Way We Build Software](https://dev.to/deanreed/vibe-coding-tools-are-changing-the-way-we-build-software-39jk)
-- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
-- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
-- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
+- [Designing Multi-Tenant SaaS Systems - Isolation Models, Data Strategies, and Failure Domains](https://dev.to/aloknecessary/designing-multi-tenant-saas-systems-isolation-models-data-strategies-and-failure-domains-261)
+- [Building a Rails Engine #8 — Real-time Progress with ActionCable &amp; Stimulus](https://dev.to/seryllns_/building-a-rails-engine-8-real-time-progress-with-actioncable-stimulus-2cji)
+- [You Don&#39;t Need to Know How It Works — And That&#39;s Exactly the Problem](https://dev.to/diamantino_almeida/you-dont-need-to-know-how-it-works-and-thats-exactly-the-problem-1pad)
+- [We built an admin dashboard that Claude can reshape into anything — here&#39;s how](https://dev.to/agileturtles/we-built-an-admin-dashboard-that-claude-can-reshape-into-anything-heres-how-3f3f)
 <!-- BLOG-POST-LIST:END -->
 
