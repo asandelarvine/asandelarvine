@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
-- [I Calculated NPB Park Factors for 10 Years — Stadium Renovations Revealed](https://dev.to/yasumorishima/i-calculated-npb-park-factors-for-10-years-stadium-renovations-revealed-4ji5)
-- [MCP Servers Have No Security Standard — Here&#39;s Why That&#39;s a Problem](https://dev.to/manja316/mcp-servers-have-no-security-standard-heres-why-thats-a-problem-fm3)
-- [Best Open-Source LLMs for RAG in 2026: 10 Models Ranked by Retrieval Accuracy](https://dev.to/jaipalsingh/best-open-source-llms-for-rag-in-2026-10-models-ranked-by-retrieval-accuracy-5hcf)
+- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
+- [Figma + ChatGPT = A Smarter Design Workflow 5 Practical Ways to Use Figma Inside ChatGPT](https://dev.to/hazel_94/figma-chatgpt-a-smarter-design-workflow5-practical-ways-to-use-figma-inside-chatgpt-56lh)
+- [Accounting Integration](https://dev.to/apideck/accounting-integration-2967)
+- [How AI Chatbots Are Transforming Web Development](https://dev.to/wingsdesignstudio/how-ai-chatbots-are-transforming-web-development-5bo0)
 <!-- BLOG-POST-LIST:END -->
 
