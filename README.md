@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Hive Index: A real-time custom json operations explorer for Hive](https://dev.to/serpent7776/introducing-hive-index-a-real-time-custom-json-operations-explorer-for-hive-35p7)
-- [Pourquoi j&#39;ai arrêté de payer pour un SaaS de time-tracking et j&#39;ai créé Presto](https://dev.to/tux86/pourquoi-jai-arrete-de-payer-pour-un-saas-de-time-tracking-et-jai-cree-presto-11i8)
-- [IaC com Terraform na Magalu Cloud: do zero a um ambiente reproduzível](https://dev.to/magalucloud/iac-com-terraform-na-magalu-cloud-do-zero-a-um-ambiente-reproduzivel-2bbm)
-- [I Deployed OpenClaw on AWS and Here&#39;s What I Found as a Cloud Security Engineer](https://dev.to/aws-heroes/i-deployed-openclaw-on-aws-and-heres-what-i-found-as-a-cloud-security-engineer-3p9i)
+- [I Built the Missing Layer Between A2A and MCP — Here&#39;s How NEXUS Coordinates AI Agents](https://dev.to/francosimon53/i-built-the-missing-layer-between-a2a-and-mcp-heres-how-nexus-coordinates-ai-agents-51j7)
+- [Apache Data Lakehouse Weekly: February 26 – March 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-26-march-5-2026-3ni1)
+- [&quot;Marketing Attribution Models: A Developer&#39;s Guide to Knowing What Actually Works&quot;](https://dev.to/andreashatlem/marketing-attribution-models-a-developers-guide-to-knowing-what-actually-works-4bj2)
+- [&quot;GDPR Cookie Consent Implementation: What Most Developers Get Wrong &lpar;and How to Fix It&rpar;&quot;](https://dev.to/andreashatlem/gdpr-cookie-consent-implementation-what-most-developers-get-wrong-and-how-to-fix-it-1jpl)
 <!-- BLOG-POST-LIST:END -->
 
