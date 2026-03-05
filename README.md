@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Holding Your Breath Every Time You Deploy: Zero-Downtime Secrets for Node.js Developers](https://dev.to/paudang/stop-holding-your-breath-every-time-you-deploy-zero-downtime-secrets-for-nodejs-developers-3294)
-- [How We Scaled Our Payment Processing Platform to 50 Million Daily Transactions with Conductor](https://dev.to/streamer_air_348ac8001e4c/how-we-scaled-our-payment-processing-platform-to-50-million-daily-transactions-with-conductor-2cim)
-- [Any Recommendation for a modern Oracle APEX reporting tool?](https://dev.to/farazz5/any-recommendation-for-a-modern-oracle-apex-reporting-tool-1ki3)
-- [Stop Asking About Cost](https://dev.to/abdulosman/stop-asking-about-cost-85l)
+- [Building TerraViz: A Real-Time Planet Dashboard Using Only Open Source Data](https://dev.to/chandravijayagr/building-terraviz-a-real-time-planet-dashboard-using-only-open-source-data-1809)
+- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj)
+- [API Documentation Generators: Your Complete Guide to Choosing the Right Tool in 2026](https://dev.to/apilover/api-documentation-generators-your-complete-guide-to-choosing-the-right-tool-in-2026-2gel)
+- [API Sleuthing in 2026: How I Uncover Website APIs with AI &lpar;and Zero Detective Work&rpar;](https://dev.to/apilover/api-sleuthing-in-2026-how-i-uncover-website-apis-with-ai-and-zero-detective-work-2dj1)
 <!-- BLOG-POST-LIST:END -->
 
