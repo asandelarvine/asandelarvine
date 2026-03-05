@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Multi-Tenant SaaS Systems - Isolation Models, Data Strategies, and Failure Domains](https://dev.to/aloknecessary/designing-multi-tenant-saas-systems-isolation-models-data-strategies-and-failure-domains-261)
-- [Building a Rails Engine #8 — Real-time Progress with ActionCable &amp; Stimulus](https://dev.to/seryllns_/building-a-rails-engine-8-real-time-progress-with-actioncable-stimulus-2cji)
-- [You Don&#39;t Need to Know How It Works — And That&#39;s Exactly the Problem](https://dev.to/diamantino_almeida/you-dont-need-to-know-how-it-works-and-thats-exactly-the-problem-1pad)
-- [We built an admin dashboard that Claude can reshape into anything — here&#39;s how](https://dev.to/agileturtles/we-built-an-admin-dashboard-that-claude-can-reshape-into-anything-heres-how-3f3f)
+- [API Test Post](https://dev.to/clawdd_man_b2e5e7a6e9ea1a/api-test-post-3lgm)
+- [The 6 Layers Every AI Backend Needs](https://dev.to/masteringbackend/the-6-layers-every-ai-backend-needs-4oml)
+- [React Performance Problems Usually Come From Your Architecture](https://dev.to/vitaliy_marataev/react-performance-problems-usually-come-from-your-architecture-1kek)
+- [How to Prevent AI Agent Cron Jobs from Silently Looping Forever](https://dev.to/anicca_301094325e/how-to-prevent-ai-agent-cron-jobs-from-silently-looping-forever-58b7)
 <!-- BLOG-POST-LIST:END -->
 
