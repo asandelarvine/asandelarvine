@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Missing Layer Between A2A and MCP — Here&#39;s How NEXUS Coordinates AI Agents](https://dev.to/francosimon53/i-built-the-missing-layer-between-a2a-and-mcp-heres-how-nexus-coordinates-ai-agents-51j7)
-- [Apache Data Lakehouse Weekly: February 26 – March 5, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-26-march-5-2026-3ni1)
-- [&quot;Marketing Attribution Models: A Developer&#39;s Guide to Knowing What Actually Works&quot;](https://dev.to/andreashatlem/marketing-attribution-models-a-developers-guide-to-knowing-what-actually-works-4bj2)
-- [&quot;GDPR Cookie Consent Implementation: What Most Developers Get Wrong &lpar;and How to Fix It&rpar;&quot;](https://dev.to/andreashatlem/gdpr-cookie-consent-implementation-what-most-developers-get-wrong-and-how-to-fix-it-1jpl)
+- [We Have 48 Hours Left. 168 Demos, 0 Signups. Here&#39;s Everything We Fixed.](https://dev.to/agenium_platform/we-have-48-hours-left-168-demos-0-signups-heres-everything-we-fixed-13oc)
+- [I built a Python library to make TCP networking as simple as Fastapi](https://dev.to/nytrox/i-built-a-python-library-to-make-tcp-networking-as-simple-as-fastapi-4il6)
+- [How to Build a Broken Link Checker in JavaScript &lpar;Free API&rpar;](https://dev.to/robocular/how-to-build-a-broken-link-checker-in-javascript-free-api-1400)
+- [Why is my CDN slow? Bypassing the 10MB Compression Limit on AWS CloudFront](https://dev.to/felipecarrillo100/why-is-my-cdn-slow-bypassing-the-10mb-compression-limit-on-aws-cloudfront-1okn)
 <!-- BLOG-POST-LIST:END -->
 
