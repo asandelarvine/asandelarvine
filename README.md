@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 8 Challenge: Build an Anti-XSS Escape Encoding Framework in Python](https://dev.to/fosres/security-challenge-build-an-xss-prevention-framework-in-python-100-tests-4i81)
-- [We Taught AI Agents to Stop Talking Like Humans](https://dev.to/aipass/we-taught-ai-agents-to-stop-talking-like-humans-c59)
-- [How I Get Claude to Think Like 5 Specialists &lpar;And Never Lose Context&rpar;](https://dev.to/nolrm/how-i-get-claude-to-think-like-5-specialists-and-never-lose-context-4h4l)
-- [Zero-Code PII Protection for LangChain and CrewAI Agents](https://dev.to/tiamat/zero-code-pii-protection-for-langchain-and-crewai-agents-i2j)
+- [I Built a Job Search Tool That Pulls Directly From Company ATS Systems &lpar;Not Job Boards&rpar;](https://dev.to/tinonet/i-built-a-job-search-tool-that-pulls-directly-from-company-ats-systems-not-job-boards-2l6d)
+- [My agent burned $147 in ~40 minutes… so I wrote a small circuit breaker](https://dev.to/alex_dirochian_59566cbf72/my-agent-burned-147-in-40-minutes-so-i-wrote-a-small-circuit-breaker-6kb)
+- [Open Source Project of the Day &lpar;Part 6&rpar;: AionUi - Free Cross-Platform AI Office Assistant, the Perfect Claude Cowork Alternative](https://dev.to/wonderlab/open-source-project-of-the-day-part-6-aionui-free-cross-platform-ai-office-assistant-the-24je)
+- [UModel Data Governance: Practice of Building an O&amp;M World Model](https://dev.to/observabilityguy/umodel-data-governance-practice-of-building-an-om-world-model-1j0i)
 <!-- BLOG-POST-LIST:END -->
 
