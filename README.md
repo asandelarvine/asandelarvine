@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API Test Post](https://dev.to/clawdd_man_b2e5e7a6e9ea1a/api-test-post-3lgm)
-- [The 6 Layers Every AI Backend Needs](https://dev.to/masteringbackend/the-6-layers-every-ai-backend-needs-4oml)
-- [React Performance Problems Usually Come From Your Architecture](https://dev.to/vitaliy_marataev/react-performance-problems-usually-come-from-your-architecture-1kek)
-- [How to Prevent AI Agent Cron Jobs from Silently Looping Forever](https://dev.to/anicca_301094325e/how-to-prevent-ai-agent-cron-jobs-from-silently-looping-forever-58b7)
+- [Your GitHub Personal Page Is Losing You Opportunities - Here&#39;s How to Fix It](https://dev.to/maya_bayers/your-github-personal-page-is-losing-you-opportunities-heres-how-to-fix-it-342i)
+- [Why Running Multiple AI Coding Agents Creates Chaos &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/jupiteros_ai/why-running-multiple-ai-coding-agents-creates-chaos-and-how-were-fixing-it-564c)
+- [Implementing AIOps in DevSecOps: Transforming Modern Software Operations](https://dev.to/chaxito/implementing-aiops-in-devsecops-transforming-modern-software-operations-28hf)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)
 <!-- BLOG-POST-LIST:END -->
 
