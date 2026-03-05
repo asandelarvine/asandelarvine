@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cash vs Equity in 2026: The Negotiation Playbook](https://dev.to/stewartblake/cash-vs-equity-in-2026-the-negotiation-playbook-383g)
-- [Slopsquatting: AI Hallucinations as Supply Chain Attacks](https://dev.to/bobbyblaine/slopsquatting-ai-hallucinations-as-supply-chain-attacks-1g31)
-- [Context Engineering: CLAUDE.md and .cursorrules](https://dev.to/bobbyblaine/context-engineering-claudemd-and-cursorrules-dc7)
-- [I Built a Social Media Downloader and Got 169 Keywords Indexed in 7 Days](https://dev.to/jamesdon68/i-built-a-social-media-downloader-and-got-169-keywords-indexed-in-7-days-4j7k)
+- [Stop Holding Your Breath Every Time You Deploy: Zero-Downtime Secrets for Node.js Developers](https://dev.to/paudang/stop-holding-your-breath-every-time-you-deploy-zero-downtime-secrets-for-nodejs-developers-3294)
+- [How We Scaled Our Payment Processing Platform to 50 Million Daily Transactions with Conductor](https://dev.to/streamer_air_348ac8001e4c/how-we-scaled-our-payment-processing-platform-to-50-million-daily-transactions-with-conductor-2cim)
+- [Any Recommendation for a modern Oracle APEX reporting tool?](https://dev.to/farazz5/any-recommendation-for-a-modern-oracle-apex-reporting-tool-1ki3)
+- [Stop Asking About Cost](https://dev.to/abdulosman/stop-asking-about-cost-85l)
 <!-- BLOG-POST-LIST:END -->
 
