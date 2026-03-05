@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Job Search Tool That Pulls Directly From Company ATS Systems &lpar;Not Job Boards&rpar;](https://dev.to/tinonet/i-built-a-job-search-tool-that-pulls-directly-from-company-ats-systems-not-job-boards-2l6d)
-- [My agent burned $147 in ~40 minutes… so I wrote a small circuit breaker](https://dev.to/alex_dirochian_59566cbf72/my-agent-burned-147-in-40-minutes-so-i-wrote-a-small-circuit-breaker-6kb)
-- [Open Source Project of the Day &lpar;Part 6&rpar;: AionUi - Free Cross-Platform AI Office Assistant, the Perfect Claude Cowork Alternative](https://dev.to/wonderlab/open-source-project-of-the-day-part-6-aionui-free-cross-platform-ai-office-assistant-the-24je)
-- [UModel Data Governance: Practice of Building an O&amp;M World Model](https://dev.to/observabilityguy/umodel-data-governance-practice-of-building-an-om-world-model-1j0i)
+- [Stripe has been doing amazing work with their llms.txt, and this guide covers it well. This might be worth adding to your own llms.txt file too!](https://dev.to/srbhr/stripe-has-been-doing-amazing-work-with-their-llmstxt-and-this-guide-covers-it-well-this-might-2ba4)
+- [I Calculated NPB Park Factors for 10 Years — Stadium Renovations Revealed](https://dev.to/yasumorishima/i-calculated-npb-park-factors-for-10-years-stadium-renovations-revealed-4ji5)
+- [MCP Servers Have No Security Standard — Here&#39;s Why That&#39;s a Problem](https://dev.to/manja316/mcp-servers-have-no-security-standard-heres-why-thats-a-problem-fm3)
+- [Best Open-Source LLMs for RAG in 2026: 10 Models Ranked by Retrieval Accuracy](https://dev.to/jaipalsingh/best-open-source-llms-for-rag-in-2026-10-models-ranked-by-retrieval-accuracy-5hcf)
 <!-- BLOG-POST-LIST:END -->
 
