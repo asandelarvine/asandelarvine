@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JSX — A Formal View &lpar;JavaScript + XML Syntax Extension&rpar;](https://dev.to/quddus-larik/jsx-a-formal-view-javascript-xml-syntax-extension-3kj5)
-- [Data Relationship Intelligence Is Infrastructure — Not a Feature](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-intelligence-is-infrastructure-not-a-feature-1d4g)
-- [AI Agents x Solana: Your Money&#39;s Getting a Brain Upgrade 🧠💰](https://dev.to/hitsuji_t2_7171e7fa9293d4/ai-agents-x-solana-your-moneys-getting-a-brain-upgrade-ljh)
-- [Hellooo devs 👋](https://dev.to/gavincettolo/hellooo-devs-3o2p)
+- [Stop Leaking PII Through Your OpenAI API Calls](https://dev.to/bnmnn/stop-leaking-pii-through-your-openai-api-calls-1l6n)
+- [AWS CLI Basics: A Beginner’s Tutorial](https://dev.to/kalpesh47/aws-cli-basics-a-beginners-tutorial-34pi)
+- [CVE-2026-26194: CVE-2026-26194: Command Option Injection in Gogs Release Deletion](https://dev.to/cverports/cve-2026-26194-cve-2026-26194-command-option-injection-in-gogs-release-deletion-2kma)
+- [SonarQube Installation on EC2](https://dev.to/kalpesh47/sonarqube-installation-on-ec2-ckd)
 <!-- BLOG-POST-LIST:END -->
 
