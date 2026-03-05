@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Raspberry Pi Homelab Server: A Comprehensive Guide for Intermediate to Advanced Users](https://dev.to/stefan_racic_cf882bf534ac/setting-up-a-raspberry-pi-homelab-server-a-comprehensive-guide-for-intermediate-to-advanced-users-4fnf)
-- [Testing Email Flows in CI/CD with Temporary Email APIs](https://dev.to/francofuji/testing-email-flows-in-cicd-with-temporary-email-apis-26hl)
-- [The Weather Says Clear Skies. So Why Is the Trail a Swamp?](https://dev.to/stalefishlabs/the-weather-says-clear-skies-so-why-is-the-trail-a-swamp-3fg5)
-- [Rise of Agentic AI](https://dev.to/24p0613_ayazali_856fc2b/rise-of-agentic-ai-461a)
+- [Introducing Hive Index: A real-time custom json operations explorer for Hive](https://dev.to/serpent7776/introducing-hive-index-a-real-time-custom-json-operations-explorer-for-hive-35p7)
+- [Pourquoi j&#39;ai arrêté de payer pour un SaaS de time-tracking et j&#39;ai créé Presto](https://dev.to/tux86/pourquoi-jai-arrete-de-payer-pour-un-saas-de-time-tracking-et-jai-cree-presto-11i8)
+- [IaC com Terraform na Magalu Cloud: do zero a um ambiente reproduzível](https://dev.to/magalucloud/iac-com-terraform-na-magalu-cloud-do-zero-a-um-ambiente-reproduzivel-2bbm)
+- [I Deployed OpenClaw on AWS and Here&#39;s What I Found as a Cloud Security Engineer](https://dev.to/aws-heroes/i-deployed-openclaw-on-aws-and-heres-what-i-found-as-a-cloud-security-engineer-3p9i)
 <!-- BLOG-POST-LIST:END -->
 
