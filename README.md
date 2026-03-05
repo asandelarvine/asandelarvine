@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
-- [Figma + ChatGPT = A Smarter Design Workflow 5 Practical Ways to Use Figma Inside ChatGPT](https://dev.to/hazel_94/figma-chatgpt-a-smarter-design-workflow5-practical-ways-to-use-figma-inside-chatgpt-56lh)
-- [Accounting Integration](https://dev.to/apideck/accounting-integration-2967)
-- [How AI Chatbots Are Transforming Web Development](https://dev.to/wingsdesignstudio/how-ai-chatbots-are-transforming-web-development-5bo0)
+- [Cash vs Equity in 2026: The Negotiation Playbook](https://dev.to/stewartblake/cash-vs-equity-in-2026-the-negotiation-playbook-383g)
+- [Slopsquatting: AI Hallucinations as Supply Chain Attacks](https://dev.to/bobbyblaine/slopsquatting-ai-hallucinations-as-supply-chain-attacks-1g31)
+- [Context Engineering: CLAUDE.md and .cursorrules](https://dev.to/bobbyblaine/context-engineering-claudemd-and-cursorrules-dc7)
+- [I Built a Social Media Downloader and Got 169 Keywords Indexed in 7 Days](https://dev.to/jamesdon68/i-built-a-social-media-downloader-and-got-169-keywords-indexed-in-7-days-4j7k)
 <!-- BLOG-POST-LIST:END -->
 
