@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your GitHub Personal Page Is Losing You Opportunities - Here&#39;s How to Fix It](https://dev.to/maya_bayers/your-github-personal-page-is-losing-you-opportunities-heres-how-to-fix-it-342i)
-- [Why Running Multiple AI Coding Agents Creates Chaos &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/jupiteros_ai/why-running-multiple-ai-coding-agents-creates-chaos-and-how-were-fixing-it-564c)
-- [Implementing AIOps in DevSecOps: Transforming Modern Software Operations](https://dev.to/chaxito/implementing-aiops-in-devsecops-transforming-modern-software-operations-28hf)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)
+- [JSX — A Formal View &lpar;JavaScript + XML Syntax Extension&rpar;](https://dev.to/quddus-larik/jsx-a-formal-view-javascript-xml-syntax-extension-3kj5)
+- [Data Relationship Intelligence Is Infrastructure — Not a Feature](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-intelligence-is-infrastructure-not-a-feature-1d4g)
+- [AI Agents x Solana: Your Money&#39;s Getting a Brain Upgrade 🧠💰](https://dev.to/hitsuji_t2_7171e7fa9293d4/ai-agents-x-solana-your-moneys-getting-a-brain-upgrade-ljh)
+- [Hellooo devs 👋](https://dev.to/gavincettolo/hellooo-devs-3o2p)
 <!-- BLOG-POST-LIST:END -->
 
