@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building TerraViz: A Real-Time Planet Dashboard Using Only Open Source Data](https://dev.to/chandravijayagr/building-terraviz-a-real-time-planet-dashboard-using-only-open-source-data-1809)
-- [The Old Seniority Definition Is Collapsing](https://dev.to/marcosomma/the-old-seniority-definition-is-collapsing-12lj)
-- [API Documentation Generators: Your Complete Guide to Choosing the Right Tool in 2026](https://dev.to/apilover/api-documentation-generators-your-complete-guide-to-choosing-the-right-tool-in-2026-2gel)
-- [API Sleuthing in 2026: How I Uncover Website APIs with AI &lpar;and Zero Detective Work&rpar;](https://dev.to/apilover/api-sleuthing-in-2026-how-i-uncover-website-apis-with-ai-and-zero-detective-work-2dj1)
+- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
+- [When 50,000 Unread Emails Stop Being a Joke](https://dev.to/netvolk_online/when-50000-unread-emails-stop-being-a-joke-19pd)
+- [5 Real-Time Data Tools Every AI Agent Needs &lpar;With Code Examples&rpar;](https://dev.to/ozorown/5-real-time-data-tools-every-ai-agent-needs-with-code-examples-2dh3)
+- [Connect MCPs to Your AI Copilot/Chatbot.](https://dev.to/rege/connect-mcps-to-your-ai-copilotchatbot-4dk3)
 <!-- BLOG-POST-LIST:END -->
 
