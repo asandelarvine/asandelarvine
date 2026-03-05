@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Claude Code to Post-Mortem Its Own Mistakes](https://dev.to/amitaile/using-claude-code-to-post-mortem-its-own-mistakes-3ned)
-- [Deep Dive: Maven Build Lifecycle &amp; the Truth About -DskipTests](https://dev.to/kailashnirmal/deep-dive-maven-build-lifecycle-the-truth-about-dskiptests-522e)
-- [Webbo — An AI-Powered Terminal That Translates Natural Language to Shell Commands](https://dev.to/john_yesh38/webbo-an-ai-powered-terminal-that-translates-natural-language-to-shell-commands-1ela)
-- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
+- [🚀 Vibe Coding Tools Are Changing the Way We Build Software](https://dev.to/deanreed/vibe-coding-tools-are-changing-the-way-we-build-software-39jk)
+- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
+- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
+- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
 <!-- BLOG-POST-LIST:END -->
 
