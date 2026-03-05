@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
-- [When 50,000 Unread Emails Stop Being a Joke](https://dev.to/netvolk_online/when-50000-unread-emails-stop-being-a-joke-19pd)
-- [5 Real-Time Data Tools Every AI Agent Needs &lpar;With Code Examples&rpar;](https://dev.to/ozorown/5-real-time-data-tools-every-ai-agent-needs-with-code-examples-2dh3)
-- [Connect MCPs to Your AI Copilot/Chatbot.](https://dev.to/rege/connect-mcps-to-your-ai-copilotchatbot-4dk3)
+- [Using Claude Code to Post-Mortem Its Own Mistakes](https://dev.to/amitaile/using-claude-code-to-post-mortem-its-own-mistakes-3ned)
+- [Deep Dive: Maven Build Lifecycle &amp; the Truth About -DskipTests](https://dev.to/kailashnirmal/deep-dive-maven-build-lifecycle-the-truth-about-dskiptests-522e)
+- [Webbo — An AI-Powered Terminal That Translates Natural Language to Shell Commands](https://dev.to/john_yesh38/webbo-an-ai-powered-terminal-that-translates-natural-language-to-shell-commands-1ela)
+- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
 <!-- BLOG-POST-LIST:END -->
 
