@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking PII Through Your OpenAI API Calls](https://dev.to/bnmnn/stop-leaking-pii-through-your-openai-api-calls-1l6n)
-- [AWS CLI Basics: A Beginner’s Tutorial](https://dev.to/kalpesh47/aws-cli-basics-a-beginners-tutorial-34pi)
-- [CVE-2026-26194: CVE-2026-26194: Command Option Injection in Gogs Release Deletion](https://dev.to/cverports/cve-2026-26194-cve-2026-26194-command-option-injection-in-gogs-release-deletion-2kma)
-- [SonarQube Installation on EC2](https://dev.to/kalpesh47/sonarqube-installation-on-ec2-ckd)
+- [Setting Up a Raspberry Pi Homelab Server: A Comprehensive Guide for Intermediate to Advanced Users](https://dev.to/stefan_racic_cf882bf534ac/setting-up-a-raspberry-pi-homelab-server-a-comprehensive-guide-for-intermediate-to-advanced-users-4fnf)
+- [Testing Email Flows in CI/CD with Temporary Email APIs](https://dev.to/francofuji/testing-email-flows-in-cicd-with-temporary-email-apis-26hl)
+- [The Weather Says Clear Skies. So Why Is the Trail a Swamp?](https://dev.to/stalefishlabs/the-weather-says-clear-skies-so-why-is-the-trail-a-swamp-3fg5)
+- [Rise of Agentic AI](https://dev.to/24p0613_ayazali_856fc2b/rise-of-agentic-ai-461a)
 <!-- BLOG-POST-LIST:END -->
 
