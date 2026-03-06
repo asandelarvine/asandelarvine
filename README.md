@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Dremio with Claude Code: Connect, Query, and Build Data Apps](https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-code-connect-query-and-build-data-apps-538i)
-- [5 Ways to Take Website Screenshots Automatically in Node.js &lpar;2026&rpar;](https://dev.to/opspawn/5-ways-to-take-website-screenshots-automatically-in-nodejs-2026-2ajp)
-- [I Built an AI Agent That Does My Entire Promo Planning. Here&#39;s What Triggered It.](https://dev.to/silver0325/i-built-an-ai-agent-that-does-my-entire-promo-planning-heres-what-triggered-it-20lm)
-- [How to E2E Test AI Agents: Mocking API Responses with Playwright in Next.js](https://dev.to/dumebii/how-to-e2e-test-ai-agents-mocking-api-responses-with-playwright-in-nextjs-nic)
+- [Customizing the MacOS Terminal with help from AI](https://dev.to/janeori/customizing-the-macos-terminal-with-help-from-ai-3f91)
+- [How to Recover Claude Code OAuth Token in 30 Seconds](https://dev.to/anicca_301094325e/how-to-recover-claude-code-oauth-token-in-30-seconds-1hd)
+- [Process Over Technology: Starting With the Blog Itself](https://dev.to/nuphirho/process-over-technology-starting-with-the-blog-itself-3ja5)
+- [The 48-Hour Infrastructure Overhaul: From Vercel to a Modular Stack](https://dev.to/trae_z/the-48-hour-infrastructure-overhaul-from-vercel-to-a-modular-stack-3bk)
 <!-- BLOG-POST-LIST:END -->
 
