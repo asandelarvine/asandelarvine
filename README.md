@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Cross-Chain NFT Marketplaces and Their Benefits](https://dev.to/sathvik45756/exploring-cross-chain-nft-marketplaces-and-their-benefits-5df2)
-- [You Deployed a Service With No Revenue Endpoint: Future of Filmmaking by Renzo Merbis](https://dev.to/coursetoaction/you-deployed-a-service-with-no-revenue-endpoint-future-of-filmmaking-by-renzo-merbis-19mn)
-- [We’re Measuring AI Velocity, but We’re Ignoring AI Gravity](https://dev.to/rajanp/were-measuring-ai-velocity-but-were-ignoring-ai-gravity-488d)
-- [Inconsistency Resolution in Distributed Systems: Versioning](https://dev.to/rajat10/inconsistency-resolution-in-distributed-systems-versioning-331b)
+- [The GitOps Standard in 2026: A Comparative Research Analysis of ArgoCD and FluxCD](https://dev.to/mechcloud_academy/the-gitops-standard-in-2026-a-comparative-research-analysis-of-argocd-and-fluxcd-46d8)
+- [Why I Built a Reverse-CAPTCHA That Verifies AI Agents, Not Humans](https://dev.to/leo_pechnicki/why-i-built-a-reverse-captcha-that-verifies-ai-agents-not-humans-2jbi)
+- [My Claude Code Skill Got Flagged by a Security Scanner. Here&#39;s What I Found and Fixed.](https://dev.to/othmanadi/my-claude-code-skill-got-flagged-by-a-security-scanner-heres-what-i-found-and-fixed-1g1a)
+- [GitHub Copilot: Assistant for my current Python workflow](https://dev.to/srini047/github-copilot-assistant-for-my-current-python-workflow-2phm)
 <!-- BLOG-POST-LIST:END -->
 
