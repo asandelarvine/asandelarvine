@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Have 48 Hours Left. 168 Demos, 0 Signups. Here&#39;s Everything We Fixed.](https://dev.to/agenium_platform/we-have-48-hours-left-168-demos-0-signups-heres-everything-we-fixed-13oc)
-- [I built a Python library to make TCP networking as simple as Fastapi](https://dev.to/nytrox/i-built-a-python-library-to-make-tcp-networking-as-simple-as-fastapi-4il6)
-- [How to Build a Broken Link Checker in JavaScript &lpar;Free API&rpar;](https://dev.to/robocular/how-to-build-a-broken-link-checker-in-javascript-free-api-1400)
-- [Why is my CDN slow? Bypassing the 10MB Compression Limit on AWS CloudFront](https://dev.to/felipecarrillo100/why-is-my-cdn-slow-bypassing-the-10mb-compression-limit-on-aws-cloudfront-1okn)
+- [How to Ensure Security Tool Connectivity on EC2 Across AWS Accounts with Automated Security Group Compliance](https://dev.to/aws-builders/how-to-ensure-security-tool-connectivity-on-ec2-across-aws-accounts-with-automated-security-group-mbh)
+- [Why Googling Your Category Kills Your Design — and How I Built a Cosmic 3D Background with Three.js](https://dev.to/ji_ai/why-googling-your-category-kills-your-design-and-how-i-built-a-cosmic-3d-background-with-threejs-32hk)
+- [사주 앱 디자인: ‘사주 사이트’를 검색하면 안 되는 이유, 그리고 Three.js로 우주를 깐 이야기](https://dev.to/ji_ai/saju-aeb-dijain-saju-saiteureul-geomsaeghamyeon-an-doeneun-iyu-geurigo-threejsro-ujureul-ggan-iyagi-52go)
+- [2월에 별 250,000개를 받은 프로젝트와, 나머지 99개의 공통점](https://dev.to/ji_ai/2weole-byeol-250000gaereul-badeun-peurojegteuwa-nameoji-99gaeyi-gongtongjeom-7b2)
 <!-- BLOG-POST-LIST:END -->
 
