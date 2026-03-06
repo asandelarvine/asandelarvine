@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-First Video Converter with WebAssembly](https://dev.to/jonathan_wallace_c6087363/building-a-privacy-first-video-converter-with-webassembly-4pi4)
-- [Minologue: Why I Started Building This Boring AI Application](https://dev.to/yasir_etc/minologue-why-i-started-building-this-boring-ai-application-3g98)
-- [I Put a 5MB Rust Binary Between My Code and Every LLM API — It Cut My Bill by 40%](https://dev.to/lakshmisravyavedantham/i-put-a-5mb-rust-binary-between-my-code-and-every-llm-api-it-cut-my-bill-by-40-1n51)
-- [How to Publish Your Browser Extension on the Chrome Web Store](https://dev.to/uncle_drew/how-to-publish-your-browser-extension-on-the-chrome-web-store-2kge)
+- [I got tired of clunky font menus, so I built a blazing-fast local font explorer &lpar;Zero Tracking&rpar;](https://dev.to/fady_helmey_7dce3c4eb4aa4/i-got-tired-of-clunky-font-menus-so-i-built-a-blazing-fast-local-font-explorer-zero-tracking-1d2p)
+- [Stop asking AI to &quot;build your app&quot;](https://dev.to/khazp/stop-asking-ai-to-build-your-app-42jj)
+- [What does a million dollars actually look like? I built a 3D tool to find out.](https://dev.to/khazp/what-does-a-million-dollars-actually-look-like-i-built-a-3d-tool-to-find-out-hef)
+- [Beginners&#39; guide to Go Contexts: The Magic Controller of Goroutines](https://dev.to/rocketchat/beginners-guide-to-go-contexts-the-magic-controller-of-goroutines-158c)
 <!-- BLOG-POST-LIST:END -->
 
