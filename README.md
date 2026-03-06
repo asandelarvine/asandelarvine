@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [the cat that watches your screen: building vibecat for the gemini live agent challenge](https://dev.to/combba/the-cat-that-watches-your-screen-building-vibecat-for-the-gemini-live-agent-challenge-3d10)
-- [Day 18 — Building a Linux Vulnerability Analyzer 🐧🔍](https://dev.to/hafiz_shamnad/day-18-building-a-linux-vulnerability-analyzer-895)
-- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
-- [I Built a Physics Certification Layer for Motion Data — Here&#39;s What I Found](https://dev.to/timbo4u1/i-built-a-physics-certification-layer-for-motion-data-heres-what-i-found-4dbp)
+- [Build a Mobile Game with MoonBit](https://dev.to/moonbitlang/build-a-mobile-game-with-moonbit-364i)
+- [Architecting IAM for Microservices](https://dev.to/mohammed_aminedridi_0a5b/architecting-iam-for-microservices-43ca)
+- [I Got Tired of Filling Out the Same Form 50 Times, So I Built an AI to Do It](https://dev.to/rahul_talatala/i-got-tired-of-filling-out-the-same-form-50-times-so-i-built-an-ai-to-do-it-4jfj)
+- [How to Choose Between Serverless and Dedicated Compute in Databricks](https://dev.to/therectoverse/how-to-choose-between-serverless-and-dedicated-compute-in-databricks-j64)
 <!-- BLOG-POST-LIST:END -->
 
