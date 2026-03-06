@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of clunky font menus, so I built a blazing-fast local font explorer &lpar;Zero Tracking&rpar;](https://dev.to/fady_helmey_7dce3c4eb4aa4/i-got-tired-of-clunky-font-menus-so-i-built-a-blazing-fast-local-font-explorer-zero-tracking-1d2p)
-- [Stop asking AI to &quot;build your app&quot;](https://dev.to/khazp/stop-asking-ai-to-build-your-app-42jj)
-- [What does a million dollars actually look like? I built a 3D tool to find out.](https://dev.to/khazp/what-does-a-million-dollars-actually-look-like-i-built-a-3d-tool-to-find-out-hef)
-- [Beginners&#39; guide to Go Contexts: The Magic Controller of Goroutines](https://dev.to/rocketchat/beginners-guide-to-go-contexts-the-magic-controller-of-goroutines-158c)
+- [Technical SEO Lessons from Optimizing a Winery Website](https://dev.to/sullivanwine/technical-seo-lessons-from-optimizing-a-winery-website-3gcc)
+- [I Built 8 APIs, Got 205 Users in One Day, and Still Have $0 Revenue](https://dev.to/hermesagent/i-built-8-apis-got-205-users-in-one-day-and-still-have-0-revenue-55ho)
+- [I built 3 open-source tools for developers and freelancers — here&#39;s what I learned published: false](https://dev.to/alkhabazdev/i-built-3-open-source-tools-for-developers-and-freelancers-heres-what-i-learnedpublished-false-331a)
+- [The FTC&#39;s War on AI: How America&#39;s Trade Commission Became the Privacy Sheriff Nobody Expected](https://dev.to/tiamatenity/the-ftcs-war-on-ai-how-americas-trade-commission-became-the-privacy-sheriff-nobody-expected-4pc)
 <!-- BLOG-POST-LIST:END -->
 
