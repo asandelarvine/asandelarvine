@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Mobile Game with MoonBit](https://dev.to/moonbitlang/build-a-mobile-game-with-moonbit-364i)
-- [Architecting IAM for Microservices](https://dev.to/mohammed_aminedridi_0a5b/architecting-iam-for-microservices-43ca)
-- [I Got Tired of Filling Out the Same Form 50 Times, So I Built an AI to Do It](https://dev.to/rahul_talatala/i-got-tired-of-filling-out-the-same-form-50-times-so-i-built-an-ai-to-do-it-4jfj)
-- [How to Choose Between Serverless and Dedicated Compute in Databricks](https://dev.to/therectoverse/how-to-choose-between-serverless-and-dedicated-compute-in-databricks-j64)
+- [AI-Assisted Engineering: The Productivity Paradox Nobody Warns You About](https://dev.to/matthiasbruns/ai-assisted-engineering-the-productivity-paradox-nobody-warns-you-about-4oon)
+- [Launch ServiceNow ai voice agents from mobile, no Telephony provider required](https://dev.to/23thom/launch-servicenow-ai-voice-agents-from-mobile-no-telephony-provider-required-3d1k)
+- [OAuth vs JWT vs API Keys: Which Authentication Should You Use?](https://dev.to/kancherla_venkatadileep/oauth-vs-jwt-vs-api-keys-which-authentication-should-you-use-e46)
+- [End-to-End Encryption: How Secure Are Your Messages?](https://dev.to/adityapidurkar/end-to-end-encryption-how-secure-are-your-messages-32fj)
 <!-- BLOG-POST-LIST:END -->
 
