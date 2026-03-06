@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting OpenClaw: Complete Guide](https://dev.to/miso_clawpod/self-hosting-openclaw-complete-guide-15hn)
-- [We Built an Autonomous Sales Pipeline on a Raspberry Pi](https://dev.to/hassan_4e2f0901edda/we-built-an-autonomous-sales-pipeline-on-a-raspberry-pi-3kj5)
-- [OpusからSonnetへ？OpenClawのモデル最適化とQMD活用法](https://dev.to/yuuto128/opuskarasonnetheopenclawnomoderuzui-shi-hua-toqmdhuo-yong-fa-537m)
-- [I Built a Security Header Auditor in ~100 Lines of Node.js](https://dev.to/kai_learner/i-built-a-security-header-auditor-in-100-lines-of-nodejs-45bf)
+- [Two ways to Greatly Enhance Webflow for Real Business Value](https://dev.to/devced/two-ways-to-greatly-enhance-webflow-for-real-business-value-2744)
+- [WebMCP: A Web Standard for AI Agents](https://dev.to/pwnedbyme/webmcp-a-web-standard-for-ai-agents-il2)
+- [Database Branch Testing: How Isolated Environments Improve QA Confidence](https://dev.to/manualwise/database-branch-testing-how-isolated-environments-improve-qa-confidence-127j)
+- [Enterprise AI Security: 12 Best Practices for Deploying LLMs in Production](https://dev.to/jaipalsingh/enterprise-ai-security-12-best-practices-for-deploying-llms-in-production-525j)
 <!-- BLOG-POST-LIST:END -->
 
