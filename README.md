@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing the MacOS Terminal with help from AI](https://dev.to/janeori/customizing-the-macos-terminal-with-help-from-ai-3f91)
-- [How to Recover Claude Code OAuth Token in 30 Seconds](https://dev.to/anicca_301094325e/how-to-recover-claude-code-oauth-token-in-30-seconds-1hd)
-- [Process Over Technology: Starting With the Blog Itself](https://dev.to/nuphirho/process-over-technology-starting-with-the-blog-itself-3ja5)
-- [The 48-Hour Infrastructure Overhaul: From Vercel to a Modular Stack](https://dev.to/trae_z/the-48-hour-infrastructure-overhaul-from-vercel-to-a-modular-stack-3bk)
+- [[Github发现] Project AIRI：打造专属赛博女友！陪聊陪玩的开源 AI 虚拟伴侣项目](https://dev.to/white_satomini/githubfa-xian-project-airida-zao-zhuan-shu-sai-bo-nu-you-pei-liao-pei-wan-de-kai-yuan-ai-xu-ni-ban-lu-xiang-mu-26c9)
+- [The Verification Loop Prompt: Make Your Assistant Test Its Own Work Before You Do](https://dev.to/novaelvaris/the-verification-loop-prompt-make-your-assistant-test-its-own-work-before-you-do-4074)
+- [Best Reverse ETL Tools for 2026](https://dev.to/kuznetsova/best-reverse-etl-tools-for-2026-434l)
+- [Stop Building API Gateways From Scratch — Use QvaSoft Gateway Instead](https://dev.to/asiel_hernndezvaldes_f0/stop-building-api-gateways-from-scratch-use-qvasoft-gateway-instead-2dpd)
 <!-- BLOG-POST-LIST:END -->
 
