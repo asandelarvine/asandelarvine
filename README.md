@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two ways to Greatly Enhance Webflow for Real Business Value](https://dev.to/devced/two-ways-to-greatly-enhance-webflow-for-real-business-value-2744)
-- [WebMCP: A Web Standard for AI Agents](https://dev.to/pwnedbyme/webmcp-a-web-standard-for-ai-agents-il2)
-- [Database Branch Testing: How Isolated Environments Improve QA Confidence](https://dev.to/manualwise/database-branch-testing-how-isolated-environments-improve-qa-confidence-127j)
-- [Enterprise AI Security: 12 Best Practices for Deploying LLMs in Production](https://dev.to/jaipalsingh/enterprise-ai-security-12-best-practices-for-deploying-llms-in-production-525j)
+- [How to Build Loan Disbursement, Interest, and Repayments with Blnk](https://dev.to/blnkfinance/how-to-build-loan-disbursement-interest-and-repayments-with-blnk-346)
+- [How to Debug AI Backend Systems](https://dev.to/masteringbackend/how-to-debug-ai-backend-systems-1m4b)
+- [Introduction to Eloquent ORM in Laravel](https://dev.to/rohitdhiman/introduction-to-eloquent-orm-in-laravel-19l3)
+- [Give Your AI Agent a Browser: Web Automation via API with IteraTools](https://dev.to/fredpsantos33/give-your-ai-agent-a-browser-web-automation-via-api-with-iteratools-4che)
 <!-- BLOG-POST-LIST:END -->
 
