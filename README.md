@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From EC2 Servers to Serverless Hosting: Learning Amazon S3, IAM &amp; AWS CLI &lpar;Day 4&rpar;](https://dev.to/avinashwagh/from-ec2-servers-to-serverless-hosting-learning-amazon-s3-iam-aws-cli-day-4-iak)
-- [A Journey Inside the Asynchronous Nature of JavaScript](https://dev.to/ebraheemsaid/a-journey-inside-the-asynchronous-nature-of-javascript-49j8)
-- [What Is Confidential AI? The Security Gap Your Encryption Doesn’t Cover](https://dev.to/jaipalsingh/what-is-confidential-ai-the-security-gap-your-encryption-doesnt-cover-4k51)
-- [Building XORPHER: A Multi-Algorithm XOR Encryption Tool for Red Teaming](https://dev.to/excalibra/building-xorpher-a-multi-algorithm-xor-encryption-tool-for-red-teaming-1en7)
+- [the cat that watches your screen: building vibecat for the gemini live agent challenge](https://dev.to/combba/the-cat-that-watches-your-screen-building-vibecat-for-the-gemini-live-agent-challenge-3d10)
+- [Day 18 — Building a Linux Vulnerability Analyzer 🐧🔍](https://dev.to/hafiz_shamnad/day-18-building-a-linux-vulnerability-analyzer-895)
+- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
+- [I Built a Physics Certification Layer for Motion Data — Here&#39;s What I Found](https://dev.to/timbo4u1/i-built-a-physics-certification-layer-for-motion-data-heres-what-i-found-4dbp)
 <!-- BLOG-POST-LIST:END -->
 
