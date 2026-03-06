@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Github发现] Project AIRI：打造专属赛博女友！陪聊陪玩的开源 AI 虚拟伴侣项目](https://dev.to/white_satomini/githubfa-xian-project-airida-zao-zhuan-shu-sai-bo-nu-you-pei-liao-pei-wan-de-kai-yuan-ai-xu-ni-ban-lu-xiang-mu-26c9)
-- [The Verification Loop Prompt: Make Your Assistant Test Its Own Work Before You Do](https://dev.to/novaelvaris/the-verification-loop-prompt-make-your-assistant-test-its-own-work-before-you-do-4074)
-- [Best Reverse ETL Tools for 2026](https://dev.to/kuznetsova/best-reverse-etl-tools-for-2026-434l)
-- [Stop Building API Gateways From Scratch — Use QvaSoft Gateway Instead](https://dev.to/asiel_hernndezvaldes_f0/stop-building-api-gateways-from-scratch-use-qvasoft-gateway-instead-2dpd)
+- [Exploring Cross-Chain NFT Marketplaces and Their Benefits](https://dev.to/sathvik45756/exploring-cross-chain-nft-marketplaces-and-their-benefits-5df2)
+- [You Deployed a Service With No Revenue Endpoint: Future of Filmmaking by Renzo Merbis](https://dev.to/coursetoaction/you-deployed-a-service-with-no-revenue-endpoint-future-of-filmmaking-by-renzo-merbis-19mn)
+- [We’re Measuring AI Velocity, but We’re Ignoring AI Gravity](https://dev.to/rajanp/were-measuring-ai-velocity-but-were-ignoring-ai-gravity-488d)
+- [Inconsistency Resolution in Distributed Systems: Versioning](https://dev.to/rajat10/inconsistency-resolution-in-distributed-systems-versioning-331b)
 <!-- BLOG-POST-LIST:END -->
 
