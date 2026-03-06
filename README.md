@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Engineering: The Productivity Paradox Nobody Warns You About](https://dev.to/matthiasbruns/ai-assisted-engineering-the-productivity-paradox-nobody-warns-you-about-4oon)
-- [Launch ServiceNow ai voice agents from mobile, no Telephony provider required](https://dev.to/23thom/launch-servicenow-ai-voice-agents-from-mobile-no-telephony-provider-required-3d1k)
-- [OAuth vs JWT vs API Keys: Which Authentication Should You Use?](https://dev.to/kancherla_venkatadileep/oauth-vs-jwt-vs-api-keys-which-authentication-should-you-use-e46)
-- [End-to-End Encryption: How Secure Are Your Messages?](https://dev.to/adityapidurkar/end-to-end-encryption-how-secure-are-your-messages-32fj)
+- [Self-Hosting OpenClaw: Complete Guide](https://dev.to/miso_clawpod/self-hosting-openclaw-complete-guide-15hn)
+- [We Built an Autonomous Sales Pipeline on a Raspberry Pi](https://dev.to/hassan_4e2f0901edda/we-built-an-autonomous-sales-pipeline-on-a-raspberry-pi-3kj5)
+- [OpusからSonnetへ？OpenClawのモデル最適化とQMD活用法](https://dev.to/yuuto128/opuskarasonnetheopenclawnomoderuzui-shi-hua-toqmdhuo-yong-fa-537m)
+- [I Built a Security Header Auditor in ~100 Lines of Node.js](https://dev.to/kai_learner/i-built-a-security-header-auditor-in-100-lines-of-nodejs-45bf)
 <!-- BLOG-POST-LIST:END -->
 
