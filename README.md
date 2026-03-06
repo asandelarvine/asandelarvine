@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped 126 Tests Last Month. Here&#39;s the AI Workflow That Got Me There.](https://dev.to/vipin_singh_701b96b0df516/i-shipped-126-tests-last-month-heres-the-ai-workflow-that-got-me-there-bb4)
-- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
-- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
-- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
+- [How to Use Dremio with Claude Code: Connect, Query, and Build Data Apps](https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-code-connect-query-and-build-data-apps-538i)
+- [5 Ways to Take Website Screenshots Automatically in Node.js &lpar;2026&rpar;](https://dev.to/opspawn/5-ways-to-take-website-screenshots-automatically-in-nodejs-2026-2ajp)
+- [I Built an AI Agent That Does My Entire Promo Planning. Here&#39;s What Triggered It.](https://dev.to/silver0325/i-built-an-ai-agent-that-does-my-entire-promo-planning-heres-what-triggered-it-20lm)
+- [How to E2E Test AI Agents: Mocking API Responses with Playwright in Next.js](https://dev.to/dumebii/how-to-e2e-test-ai-agents-mocking-api-responses-with-playwright-in-nextjs-nic)
 <!-- BLOG-POST-LIST:END -->
 
