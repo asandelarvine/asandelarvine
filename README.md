@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Loan Disbursement, Interest, and Repayments with Blnk](https://dev.to/blnkfinance/how-to-build-loan-disbursement-interest-and-repayments-with-blnk-346)
-- [How to Debug AI Backend Systems](https://dev.to/masteringbackend/how-to-debug-ai-backend-systems-1m4b)
-- [Introduction to Eloquent ORM in Laravel](https://dev.to/rohitdhiman/introduction-to-eloquent-orm-in-laravel-19l3)
-- [Give Your AI Agent a Browser: Web Automation via API with IteraTools](https://dev.to/fredpsantos33/give-your-ai-agent-a-browser-web-automation-via-api-with-iteratools-4che)
+- [I Shipped 126 Tests Last Month. Here&#39;s the AI Workflow That Got Me There.](https://dev.to/vipin_singh_701b96b0df516/i-shipped-126-tests-last-month-heres-the-ai-workflow-that-got-me-there-bb4)
+- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
+- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
+- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
 <!-- BLOG-POST-LIST:END -->
 
