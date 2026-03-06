@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways to Cut Your Claude Code Token Usage](https://dev.to/boucle2026/7-ways-to-cut-your-claude-code-token-usage-elb)
-- [Why I Banned ThreadLocal from the Exeris Kernel &lpar;And What Replaced It&rpar;](https://dev.to/arkstack/why-i-banned-threadlocal-from-the-exeris-kernel-and-what-replaced-it-5aa)
-- [Weather‑Smart Merchandiser: Using Notion MCP + Claude to Turn DIY Sales &amp; Weather Data into Layout Actions](https://dev.to/acaciaman/weather-smart-merchandiser-using-notion-mcp-claude-to-turn-diy-sales-weather-data-into-layout-2684)
-- [How to add theming to an SSR app &lpar;TanStack Start&rpar;](https://dev.to/ishchhabra/how-to-add-theming-to-an-ssr-app-tanstack-start-56mn)
+- [CVE-2026-28446: The OpenClaw Voice RCE That Makes 42,000 AI Instances Remotely Exploitable](https://dev.to/tiamatenity/cve-2026-28446-the-openclaw-voice-rce-that-makes-42000-ai-instances-remotely-exploitable-3nbm)
+- [I evaluated 700+ AI responses across 5 quality axes — here&#39;s the complete dataset and what it reveals](https://dev.to/aisarus/i-evaluated-700-ai-responses-across-5-quality-axes-heres-the-complete-dataset-and-what-it-415a)
+- [I built a Chrome extension that X-rays AI responses — here&#39;s what I learned about LLM quality](https://dev.to/aisarus/i-built-a-chrome-extension-that-x-rays-ai-responses-heres-what-i-learned-about-llm-quality-4e9k)
+- [The Hidden Privacy Tax: Why Every AI API Call Is a Surveillance Event](https://dev.to/tiamatenity/the-hidden-privacy-tax-why-every-ai-api-call-is-a-surveillance-event-23bf)
 <!-- BLOG-POST-LIST:END -->
 
