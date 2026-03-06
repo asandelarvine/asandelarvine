@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-28446: The OpenClaw Voice RCE That Makes 42,000 AI Instances Remotely Exploitable](https://dev.to/tiamatenity/cve-2026-28446-the-openclaw-voice-rce-that-makes-42000-ai-instances-remotely-exploitable-3nbm)
-- [I evaluated 700+ AI responses across 5 quality axes — here&#39;s the complete dataset and what it reveals](https://dev.to/aisarus/i-evaluated-700-ai-responses-across-5-quality-axes-heres-the-complete-dataset-and-what-it-415a)
-- [I built a Chrome extension that X-rays AI responses — here&#39;s what I learned about LLM quality](https://dev.to/aisarus/i-built-a-chrome-extension-that-x-rays-ai-responses-heres-what-i-learned-about-llm-quality-4e9k)
-- [The Hidden Privacy Tax: Why Every AI API Call Is a Surveillance Event](https://dev.to/tiamatenity/the-hidden-privacy-tax-why-every-ai-api-call-is-a-surveillance-event-23bf)
+- [Building a Privacy-First Video Converter with WebAssembly](https://dev.to/jonathan_wallace_c6087363/building-a-privacy-first-video-converter-with-webassembly-4pi4)
+- [Minologue: Why I Started Building This Boring AI Application](https://dev.to/yasir_etc/minologue-why-i-started-building-this-boring-ai-application-3g98)
+- [I Put a 5MB Rust Binary Between My Code and Every LLM API — It Cut My Bill by 40%](https://dev.to/lakshmisravyavedantham/i-put-a-5mb-rust-binary-between-my-code-and-every-llm-api-it-cut-my-bill-by-40-1n51)
+- [How to Publish Your Browser Extension on the Chrome Web Store](https://dev.to/uncle_drew/how-to-publish-your-browser-extension-on-the-chrome-web-store-2kge)
 <!-- BLOG-POST-LIST:END -->
 
