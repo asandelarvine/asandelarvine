@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Ensure Security Tool Connectivity on EC2 Across AWS Accounts with Automated Security Group Compliance](https://dev.to/aws-builders/how-to-ensure-security-tool-connectivity-on-ec2-across-aws-accounts-with-automated-security-group-mbh)
-- [Why Googling Your Category Kills Your Design — and How I Built a Cosmic 3D Background with Three.js](https://dev.to/ji_ai/why-googling-your-category-kills-your-design-and-how-i-built-a-cosmic-3d-background-with-threejs-32hk)
-- [사주 앱 디자인: ‘사주 사이트’를 검색하면 안 되는 이유, 그리고 Three.js로 우주를 깐 이야기](https://dev.to/ji_ai/saju-aeb-dijain-saju-saiteureul-geomsaeghamyeon-an-doeneun-iyu-geurigo-threejsro-ujureul-ggan-iyagi-52go)
-- [2월에 별 250,000개를 받은 프로젝트와, 나머지 99개의 공통점](https://dev.to/ji_ai/2weole-byeol-250000gaereul-badeun-peurojegteuwa-nameoji-99gaeyi-gongtongjeom-7b2)
+- [From EC2 Servers to Serverless Hosting: Learning Amazon S3, IAM &amp; AWS CLI &lpar;Day 4&rpar;](https://dev.to/avinashwagh/from-ec2-servers-to-serverless-hosting-learning-amazon-s3-iam-aws-cli-day-4-iak)
+- [A Journey Inside the Asynchronous Nature of JavaScript](https://dev.to/ebraheemsaid/a-journey-inside-the-asynchronous-nature-of-javascript-49j8)
+- [What Is Confidential AI? The Security Gap Your Encryption Doesn’t Cover](https://dev.to/jaipalsingh/what-is-confidential-ai-the-security-gap-your-encryption-doesnt-cover-4k51)
+- [Building XORPHER: A Multi-Algorithm XOR Encryption Tool for Red Teaming](https://dev.to/excalibra/building-xorpher-a-multi-algorithm-xor-encryption-tool-for-red-teaming-1en7)
 <!-- BLOG-POST-LIST:END -->
 
