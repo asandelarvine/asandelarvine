@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apprenez à forcer l&#39;API de l&#39;IA à vous répondre exclusivement dans un format JSON strict et validé](https://dev.to/pepetoken/apprenez-a-forcer-lapi-de-lia-a-vous-repondre-exclusivement-dans-un-format-json-strict-et-valide-3o4e)
-- [I Checked What Security Vulnerabilities AI Coding Tools Actually Introduce](https://dev.to/vitalii_petrenko_dev/i-checked-what-security-vulnerabilities-ai-coding-tools-actually-introduce-1cjd)
-- [How to Trust-Gate Your AI Agent API in 3 Lines of Code](https://dev.to/thezenmonster/how-to-trust-gate-your-ai-agent-api-in-3-lines-of-code-k5m)
-- [We Escaped Tutorial Hell, Only to Enter &quot;Prompt Hell&quot;](https://dev.to/saqibshahdev/we-escaped-tutorial-hell-only-to-enter-prompt-hell-j5a)
+- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
+- [Build a Modal Without JavaScript? 🤯 Meet the HTML Popover API!](https://dev.to/pawar-shivam7/build-a-modal-without-javascript-meet-the-html-popover-api-4ci1)
+- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
+- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
 <!-- BLOG-POST-LIST:END -->
 
