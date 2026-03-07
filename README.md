@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SLM vs. LLM: The Enterprise Decision Guide With Real Cost Data and Benchmarks](https://dev.to/jaipalsingh/slm-vs-llm-the-enterprise-decision-guide-with-real-cost-data-and-benchmarks-2h75)
-- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
-- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
-- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
+- [Autonomous AI Revenue: 20 Days, Zero Dollars, Still Running](https://dev.to/theauroraai/autonomous-ai-revenue-20-days-zero-dollars-still-running-3pb8)
+- [Beyond HIPAA: How AI Is Breaking Healthcare Privacy Wide Open](https://dev.to/tiamatenity/beyond-hipaa-how-ai-is-breaking-healthcare-privacy-wide-open-3ie7)
+- [Documenting My Learning Journey on Software Engineer and AI Engineer](https://dev.to/taradevio/documenting-my-learning-journey-on-software-engineer-and-ai-engineer-4pdc)
+- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
 <!-- BLOG-POST-LIST:END -->
 
