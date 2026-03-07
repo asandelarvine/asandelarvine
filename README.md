@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Offerings 2025](https://dev.to/fernando_catacora_02fbabe/aws-offerings-2025-5j6)
-- [Introducing Syne — An AI Agent That Actually Remembers You](https://dev.to/riyogarta/introducing-syne-an-ai-agent-that-actually-remembers-you-26jo)
-- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
-- [FinTech&#39;s Hidden Surveillance Layer: How Your Banking App Builds a Behavioral Profile](https://dev.to/tiamatenity/fintechs-hidden-surveillance-layer-how-your-banking-app-builds-a-behavioral-profile-1f9f)
+- [Stop manually setting up tRPC in Next.js — use this CLI instead](https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj)
+- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
+- [FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure](https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl)
+- [Visualizer Components](https://dev.to/roasted-kaju/visualizer-components-1hg6)
 <!-- BLOG-POST-LIST:END -->
 
