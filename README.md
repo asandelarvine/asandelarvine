@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Transformer Architecture : A Student&#39;s Journey from Classroom to Exam Hall](https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol)
-- [Precios de Bedrock: Lo que realmente vas a pagar](https://dev.to/kggonzalez/precios-de-bedrock-lo-que-realmente-vas-a-pagar-4npi)
-- [Every Prompt You&#39;ve Ever Typed May Be Training an AI Model — Without Your Consent](https://dev.to/tiamatenity/every-prompt-youve-ever-typed-may-be-training-an-ai-model-without-your-consent-1ene)
-- [I Built 3 AI-Powered News Channels That Run for $0/Day](https://dev.to/mfs_corp/i-built-3-ai-powered-news-channels-that-run-for-0day-4jd6)
+- [AWS Offerings 2025](https://dev.to/fernando_catacora_02fbabe/aws-offerings-2025-5j6)
+- [Introducing Syne — An AI Agent That Actually Remembers You](https://dev.to/riyogarta/introducing-syne-an-ai-agent-that-actually-remembers-you-26jo)
+- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
+- [FinTech&#39;s Hidden Surveillance Layer: How Your Banking App Builds a Behavioral Profile](https://dev.to/tiamatenity/fintechs-hidden-surveillance-layer-how-your-banking-app-builds-a-behavioral-profile-1f9f)
 <!-- BLOG-POST-LIST:END -->
 
