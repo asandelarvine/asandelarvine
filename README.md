@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried 20+ Claude Code Courses on Udemy: Here Are 5 Courses I Recommend](https://dev.to/somadevtoo/i-tried-20-claude-code-courses-on-udemy-here-are-5-courses-i-recommend-1kc9)
-- [Annotation-First UI Pair Programming: A New Workflow Pattern](https://dev.to/tushar_shukla_b5ad964210c/annotation-first-ui-pair-programming-a-new-workflow-pattern-25j)
-- [California Knows Your AI Confession — And It&#39;s Selling It](https://dev.to/tiamatenity/california-knows-your-ai-confession-and-its-selling-it-13fn)
-- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
+- [SLM vs. LLM: The Enterprise Decision Guide With Real Cost Data and Benchmarks](https://dev.to/jaipalsingh/slm-vs-llm-the-enterprise-decision-guide-with-real-cost-data-and-benchmarks-2h75)
+- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
+- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
+- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
 <!-- BLOG-POST-LIST:END -->
 
