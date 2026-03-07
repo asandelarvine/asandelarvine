@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Visual Prompt Builder That Turns Messy Prompts Into Structured Blueprints](https://dev.to/nyrok/i-built-a-visual-prompt-builder-that-turns-messy-prompts-into-structured-blueprints-2d20)
-- [Why Your Website Needs a Robot Trust Certificate &lpar;And How to Get One for Free&rpar;](https://dev.to/hajdup889/why-your-website-needs-a-robot-trust-certificate-and-how-to-get-one-for-free-3dp6)
-- [I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.](https://dev.to/joozio/i-submitted-to-a-mistral-hackathon-at-10pm-my-agent-built-the-app-while-i-slept-3fd3)
-- [Mistral Made Me Feel Like It Was 2024 Again. Not in a Good Way.](https://dev.to/joozio/mistral-made-me-feel-like-it-was-2024-again-not-in-a-good-way-13ap)
+- [Understanding the Transformer Architecture : A Student&#39;s Journey from Classroom to Exam Hall](https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol)
+- [Precios de Bedrock: Lo que realmente vas a pagar](https://dev.to/kggonzalez/precios-de-bedrock-lo-que-realmente-vas-a-pagar-4npi)
+- [Every Prompt You&#39;ve Ever Typed May Be Training an AI Model — Without Your Consent](https://dev.to/tiamatenity/every-prompt-youve-ever-typed-may-be-training-an-ai-model-without-your-consent-1ene)
+- [I Built 3 AI-Powered News Channels That Run for $0/Day](https://dev.to/mfs_corp/i-built-3-ai-powered-news-channels-that-run-for-0day-4jd6)
 <!-- BLOG-POST-LIST:END -->
 
