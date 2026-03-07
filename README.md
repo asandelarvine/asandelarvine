@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We all get 168 hours every week. You can&#39;t save them. Can&#39;t invest them. Can&#39;t roll them over to next week.](https://dev.to/haroon_butt_5dc32a9454867/we-all-get-168-hours-every-week-you-cant-save-them-cant-invest-them-cant-roll-them-over-to-5ek4)
-- [Mastering Kubernetes Service Discovery: Navigating the Complex Mesh of Microservices](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-service-discovery-navigating-the-complex-mesh-of-microservices-533i)
-- [GHSA-QR2G-P6Q7-W82M: GHSA-qr2g-p6q7-w82m: Critical Payment Verification Bypass in Coinbase x402 SDK &lpar;Solana&rpar;](https://dev.to/cverports/ghsa-qr2g-p6q7-w82m-ghsa-qr2g-p6q7-w82m-critical-payment-verification-bypass-in-coinbase-x402-sdk-3iep)
-- [How I manage skills and MCP servers across AI coding agents](https://dev.to/ryanreh99/how-i-manage-skills-and-mcp-servers-across-ai-coding-agents-jbj)
+- [How to actually start your fitness journey and stick to it &lpar;with the FitJourney platform&rpar;](https://dev.to/eunit/how-to-actually-start-your-fitness-journey-and-stick-to-it-with-the-fitjourney-platform-1oj4)
+- [JPA Mapping with Hibernate-One-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-one-relationship-g41)
+- [Why I Built Rails Error Dashboard &lpar;And Why You Might Want to Self-Host Too&rpar;](https://dev.to/anjanj/why-i-built-rails-error-dashboard-and-why-you-might-want-to-self-host-too-4o35)
+- [Building an AI-Powered Cybersecurity Project as a Computer Science Student](https://dev.to/madhur_samvatsar_4d420863/building-an-ai-powered-cybersecurity-project-as-a-computer-science-student-3igb)
 <!-- BLOG-POST-LIST:END -->
 
