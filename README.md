@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Base Chain Scanner Bot: From Zero to Whale Alerts](https://dev.to/noxventures/building-a-free-base-chain-scanner-bot-from-zero-to-whale-alerts-16pc)
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
-- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
+- [I Built a Visual Prompt Builder That Turns Messy Prompts Into Structured Blueprints](https://dev.to/nyrok/i-built-a-visual-prompt-builder-that-turns-messy-prompts-into-structured-blueprints-2d20)
+- [Why Your Website Needs a Robot Trust Certificate &lpar;And How to Get One for Free&rpar;](https://dev.to/hajdup889/why-your-website-needs-a-robot-trust-certificate-and-how-to-get-one-for-free-3dp6)
+- [I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.](https://dev.to/joozio/i-submitted-to-a-mistral-hackathon-at-10pm-my-agent-built-the-app-while-i-slept-3fd3)
+- [Mistral Made Me Feel Like It Was 2024 Again. Not in a Good Way.](https://dev.to/joozio/mistral-made-me-feel-like-it-was-2024-again-not-in-a-good-way-13ap)
 <!-- BLOG-POST-LIST:END -->
 
