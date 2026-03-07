@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI tool that explains C memory leaks and suggests fixes](https://dev.to/emmanuel_martin_d71c7e3d3/cli-tool-that-explains-c-memory-leaks-and-suggests-fixes-3n84)
-- [Building a Sovereign AI Stack: From Zero to POC](https://dev.to/janealesi/building-a-sovereign-ai-stack-from-zero-to-poc-4509)
-- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
-- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
+- [Apprenez à forcer l&#39;API de l&#39;IA à vous répondre exclusivement dans un format JSON strict et validé](https://dev.to/pepetoken/apprenez-a-forcer-lapi-de-lia-a-vous-repondre-exclusivement-dans-un-format-json-strict-et-valide-3o4e)
+- [I Checked What Security Vulnerabilities AI Coding Tools Actually Introduce](https://dev.to/vitalii_petrenko_dev/i-checked-what-security-vulnerabilities-ai-coding-tools-actually-introduce-1cjd)
+- [How to Trust-Gate Your AI Agent API in 3 Lines of Code](https://dev.to/thezenmonster/how-to-trust-gate-your-ai-agent-api-in-3-lines-of-code-k5m)
+- [We Escaped Tutorial Hell, Only to Enter &quot;Prompt Hell&quot;](https://dev.to/saqibshahdev/we-escaped-tutorial-hell-only-to-enter-prompt-hell-j5a)
 <!-- BLOG-POST-LIST:END -->
 
