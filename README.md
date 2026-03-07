@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
-- [Build a Modal Without JavaScript? 🤯 Meet the HTML Popover API!](https://dev.to/pawar-shivam7/build-a-modal-without-javascript-meet-the-html-popover-api-4ci1)
-- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
-- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
+- [Understanding Word2Vec – Part 3: Predicting the Next Word with Neural Networks](https://dev.to/rijultp/understanding-word2vec-part-3-predicting-the-next-word-with-neural-networks-ol7)
+- [Surveillance Capitalism: The Business Model That Turned Humanity Into Raw Material](https://dev.to/tiamatenity/surveillance-capitalism-the-business-model-that-turned-humanity-into-raw-material-4522)
+- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l)
+- [How I Built an AI Image Generation Platform That Reached 48K+ Users](https://dev.to/adibghamri/how-i-built-an-ai-image-generation-platform-that-reached-48k-users-3877)
 <!-- BLOG-POST-LIST:END -->
 
