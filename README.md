@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Test That Lied to Me: A practical guide to writing unit tests that actually mean something](https://dev.to/srsandrade/the-test-that-lied-to-me-a-practical-guide-to-writing-unit-tests-that-actually-mean-something-5f26)
-- [CCPA: How California&#39;s Privacy Law Created a National Standard Nobody Enforces](https://dev.to/tiamatenity/ccpa-how-californias-privacy-law-created-a-national-standard-nobody-enforces-a42)
-- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-30a0)
-- [Mastering SQL: A Deep Dive into JOINs and Window Functions](https://dev.to/macphalen_oduor/mastering-sql-a-deep-dive-into-joins-and-window-functions-2h6j)
+- [[Boost]](https://dev.to/anthonymax/-4da0)
+- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
+- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
+- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
 <!-- BLOG-POST-LIST:END -->
 
