@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Import Spreadsheet to BigQuery](https://dev.to/csvbox-io/import-spreadsheet-to-bigquery-23p9)
-- [Pitch Replication And Axis Compression In Unreal Engine](https://dev.to/roasted-kaju/pitch-replication-and-axis-compression-in-unreal-engine-285k)
-- [Polymorphism in Java: The &quot;Shape-Shifter&quot; Secret to Flexible Code](https://dev.to/realnamehidden1_61/polymorphism-in-java-the-shape-shifter-secret-to-flexible-code-51ij)
-- [How I Improved My WordPress PageSpeed Score from 60 to 95](https://dev.to/siddee/how-i-improved-my-wordpress-pagespeed-score-from-60-to-95-2gae)
+- [I Tried 20+ Claude Code Courses on Udemy: Here Are 5 Courses I Recommend](https://dev.to/somadevtoo/i-tried-20-claude-code-courses-on-udemy-here-are-5-courses-i-recommend-1kc9)
+- [Annotation-First UI Pair Programming: A New Workflow Pattern](https://dev.to/tushar_shukla_b5ad964210c/annotation-first-ui-pair-programming-a-new-workflow-pattern-25j)
+- [California Knows Your AI Confession — And It&#39;s Selling It](https://dev.to/tiamatenity/california-knows-your-ai-confession-and-its-selling-it-13fn)
+- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
 <!-- BLOG-POST-LIST:END -->
 
