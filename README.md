@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-4da0)
-- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
-- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
-- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
+- [One MCP Configuration for Codex, Claude, Cursor, and Copilot with chezmoi](https://dev.to/dotwee/one-mcp-configuration-for-codex-claude-cursor-and-copilot-with-chezmoi-925)
+- [One Skills Brain for Codex, Claude, Cursor, and Copilot with Chezmoi](https://dev.to/dotwee/one-skills-brain-for-codex-claude-cursor-and-copilot-with-chezmoi-2p3k)
+- [Markowitz to Deep Portfolio: Migration in 3 Refactors](https://dev.to/tildalice/markowitz-to-deep-portfolio-migration-in-3-refactors-4f0h)
+- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
 <!-- BLOG-POST-LIST:END -->
 
