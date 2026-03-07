@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing Will Break AI Privacy — And Nobody in the Industry Is Ready](https://dev.to/tiamatenity/quantum-computing-will-break-ai-privacy-and-nobody-in-the-industry-is-ready-5dn7)
-- [Protocols Visualizer: An Interactive Way to Learn Network Protocols](https://dev.to/r9n/protocols-visualizer-an-interactive-way-to-learn-network-protocols-4nep)
-- [Screen Reader Experience Mitigation on Gemini](https://dev.to/wiscer/screen-reader-experience-mitigation-on-gemini-2all)
-- [5 AI Portfolio Projects That Actually Get You Hired in 2026](https://dev.to/klement_gunndu/5-ai-portfolio-projects-that-actually-get-you-hired-in-2026-5bpl)
+- [I built a free open-source alternative to Microsoft SCCM](https://dev.to/claudio_f5c23617499305b57/i-built-a-free-open-source-alternative-to-microsoft-sccm-3dkh)
+- [I built a free browser-based image converter — no uploads, files never leave your device](https://dev.to/bright_agbomado_b3342a23e/i-built-a-free-browser-based-image-converter-no-uploads-files-never-leave-your-device-21nf)
+- [The Shift From Programming Languages to Intent Languages](https://dev.to/jaideepparashar/the-shift-from-programming-languages-to-intent-languages-365a)
+- [I Vibe Coded a Local ChatGPT Export Viewer &lpar;and Had Some Feelings About My Chat History&rpar;](https://dev.to/milchek/i-vibe-coded-a-local-chatgpt-export-viewer-and-had-some-feelings-about-my-chat-history-38mf)
 <!-- BLOG-POST-LIST:END -->
 
