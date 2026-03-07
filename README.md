@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free open-source alternative to Microsoft SCCM](https://dev.to/claudio_f5c23617499305b57/i-built-a-free-open-source-alternative-to-microsoft-sccm-3dkh)
-- [I built a free browser-based image converter — no uploads, files never leave your device](https://dev.to/bright_agbomado_b3342a23e/i-built-a-free-browser-based-image-converter-no-uploads-files-never-leave-your-device-21nf)
-- [The Shift From Programming Languages to Intent Languages](https://dev.to/jaideepparashar/the-shift-from-programming-languages-to-intent-languages-365a)
-- [I Vibe Coded a Local ChatGPT Export Viewer &lpar;and Had Some Feelings About My Chat History&rpar;](https://dev.to/milchek/i-vibe-coded-a-local-chatgpt-export-viewer-and-had-some-feelings-about-my-chat-history-38mf)
+- [CLI tool that explains C memory leaks and suggests fixes](https://dev.to/emmanuel_martin_d71c7e3d3/cli-tool-that-explains-c-memory-leaks-and-suggests-fixes-3n84)
+- [Building a Sovereign AI Stack: From Zero to POC](https://dev.to/janealesi/building-a-sovereign-ai-stack-from-zero-to-poc-4509)
+- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
+- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
 <!-- BLOG-POST-LIST:END -->
 
