@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop manually setting up tRPC in Next.js — use this CLI instead](https://dev.to/dhavalkurkutiya/stop-manually-setting-up-trpc-in-nextjs-use-this-cli-instead-10pj)
-- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
-- [FERPA Is Dead: How EdTech Turned Schools Into Surveillance Infrastructure](https://dev.to/tiamatenity/ferpa-is-dead-how-edtech-turned-schools-into-surveillance-infrastructure-54fl)
-- [Visualizer Components](https://dev.to/roasted-kaju/visualizer-components-1hg6)
+- [Import Spreadsheet to BigQuery](https://dev.to/csvbox-io/import-spreadsheet-to-bigquery-23p9)
+- [Pitch Replication And Axis Compression In Unreal Engine](https://dev.to/roasted-kaju/pitch-replication-and-axis-compression-in-unreal-engine-285k)
+- [Polymorphism in Java: The &quot;Shape-Shifter&quot; Secret to Flexible Code](https://dev.to/realnamehidden1_61/polymorphism-in-java-the-shape-shifter-secret-to-flexible-code-51ij)
+- [How I Improved My WordPress PageSpeed Score from 60 to 95](https://dev.to/siddee/how-i-improved-my-wordpress-pagespeed-score-from-60-to-95-2gae)
 <!-- BLOG-POST-LIST:END -->
 
