@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to actually start your fitness journey and stick to it &lpar;with the FitJourney platform&rpar;](https://dev.to/eunit/how-to-actually-start-your-fitness-journey-and-stick-to-it-with-the-fitjourney-platform-1oj4)
-- [JPA Mapping with Hibernate-One-to-One Relationship](https://dev.to/ankitdevcode/jpa-mapping-with-hibernate-one-to-one-relationship-g41)
-- [Why I Built Rails Error Dashboard &lpar;And Why You Might Want to Self-Host Too&rpar;](https://dev.to/anjanj/why-i-built-rails-error-dashboard-and-why-you-might-want-to-self-host-too-4o35)
-- [Building an AI-Powered Cybersecurity Project as a Computer Science Student](https://dev.to/madhur_samvatsar_4d420863/building-an-ai-powered-cybersecurity-project-as-a-computer-science-student-3igb)
+- [Quantum Computing Will Break AI Privacy — And Nobody in the Industry Is Ready](https://dev.to/tiamatenity/quantum-computing-will-break-ai-privacy-and-nobody-in-the-industry-is-ready-5dn7)
+- [Protocols Visualizer: An Interactive Way to Learn Network Protocols](https://dev.to/r9n/protocols-visualizer-an-interactive-way-to-learn-network-protocols-4nep)
+- [Screen Reader Experience Mitigation on Gemini](https://dev.to/wiscer/screen-reader-experience-mitigation-on-gemini-2all)
+- [5 AI Portfolio Projects That Actually Get You Hired in 2026](https://dev.to/klement_gunndu/5-ai-portfolio-projects-that-actually-get-you-hired-in-2026-5bpl)
 <!-- BLOG-POST-LIST:END -->
 
