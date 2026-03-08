@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 1784 – Check if Binary String Has at Most One Segment of Ones &lpar;Day-06&rpar;](https://dev.to/dolly_sharma/leetcode-1784-check-if-binary-string-has-at-most-one-segment-of-ones-2eb4)
-- [Weekly Challlenge: The subnet detector](https://dev.to/simongreennet/weekly-challlenge-the-subnet-detector-1d9l)
-- [I Processed 50,000 CSV Rows in 2 Minutes. Here&#39;s How.](https://dev.to/devadatta_baireddy/i-processed-50000-csv-rows-in-2-minutes-heres-how-2462)
-- [Why Supply Chain Security Fails in the Real World](https://dev.to/sonia_bobrik_1939cdddd79d/why-supply-chain-security-fails-in-the-real-world-565j)
+- [When light becomes a weapon: laser-based command injection attacks on voice assistants](https://dev.to/helixcipher/when-light-becomes-a-weapon-laser-based-command-injection-attacks-on-voice-assistants-1ob)
+- [How I Turned Claude Code into a 24/7 Slack &amp; Telegram Bot &lpar;No AI Framework Needed&rpar;](https://dev.to/joe_shawn/how-i-turned-claude-code-into-a-247-slack-telegram-bot-no-ai-framework-needed-5184)
+- [How AI is destroying my tech team](https://dev.to/tropicaldev/how-ai-is-destroying-my-tech-team-dab)
+- [40 Articles. 10 Tools. $1.63 Left. Here&#39;s What Comes Next.](https://dev.to/devadatta_baireddy/40-articles-10-tools-163-left-heres-what-comes-next-495e)
 <!-- BLOG-POST-LIST:END -->
 
