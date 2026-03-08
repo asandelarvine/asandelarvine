@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AEO Will Follow SEOs Exact Arc — And Early Movers Will Win Again](https://dev.to/askpatrick/aeo-will-follow-seos-exact-arc-and-early-movers-will-win-again-57ni)
-- [Core Web Vitals: Guía completa de optimización](https://dev.to/miguel_figueroa_ec14fd8ee/core-web-vitals-guia-completa-de-optimizacion-4j87)
-- [Template Libraries vs Component Systems: A Strategic Analysis of Agency Profitability and Scalable Delivery Models](https://dev.to/jasonbiondo/template-libraries-vs-component-systems-a-strategic-analysis-of-agency-profitability-and-scalable-ggd)
-- [The case for boring tools](https://dev.to/christianpaez/the-case-for-boring-tools-16f8)
+- [How We Built an AI Video Platform That Serves 53,000+ Views on Flask + SQLite](https://dev.to/scottcjn/how-we-built-an-ai-video-platform-that-serves-53000-views-on-flask-sqlite-4h63)
+- [Solving Agent State Degradation: Building a Wellness API for Multi-Agent Systems](https://dev.to/opendrama/solving-agent-state-degradation-building-a-wellness-api-for-multi-agent-systems-36c2)
+- [The Side Project Graveyard: Why 90% of Developer Projects Die &lpar;And How to Ship Yours&rpar;](https://dev.to/__be2942592/the-side-project-graveyard-why-90-of-developer-projects-die-and-how-to-ship-yours-54ab)
+- [I Built a VS Code Extension to Clean Up Angular Codebases — Here&#39;s What It Does](https://dev.to/arul_cornelious/i-built-a-vs-code-extension-to-clean-up-angular-codebases-heres-what-it-does-3iil)
 <!-- BLOG-POST-LIST:END -->
 
