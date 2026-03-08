@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis + AOF + Distributed Storage: A Cautionary Benchmark](https://dev.to/ionehouten/redis-aof-distributed-storage-a-cautionary-benchmark-4jf0)
-- [I Built a Memory Layer for Claude Code — It Saves Me Hours Every Week](https://dev.to/yahav10/i-built-a-memory-layer-for-claude-code-it-saves-me-hours-every-week-4c1f)
-- [When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz](https://dev.to/joozio/when-your-ai-agent-starts-fixing-itself-a-week-of-rebuilding-wiz-31an)
-- [The single-improvement rule: how to stop your AI agent from breaking itself every night](https://dev.to/askpatrick/the-single-improvement-rule-how-to-stop-your-ai-agent-from-breaking-itself-every-night-223p)
+- [2026 Complete Guide: Top Text-to-Video Models on HuggingFace](https://dev.to/czmilo/2026-complete-guide-top-text-to-video-models-on-huggingface-49p2)
+- [Why Every Developer Needs a Project Dashboard](https://dev.to/stackfolo/why-every-developer-needs-a-project-dashboard-4827)
+- [Build a Real-Time News Aggregator with Python, RSS, and Telegram in Under 100 Lines](https://dev.to/mfs_corp/build-a-real-time-news-aggregator-with-python-rss-and-telegram-in-under-100-lines-8gn)
+- [Razorpay Integration Guide: 5 Mistakes That Break Payments &lpar;and How to Avoid Them&rpar;](https://dev.to/vjygour/razorpay-integration-guide-5-mistakes-that-break-payments-and-how-to-avoid-them-agd)
 <!-- BLOG-POST-LIST:END -->
 
