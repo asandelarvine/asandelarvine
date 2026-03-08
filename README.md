@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the One-Model Era: Building Multi-AI Workflows in 2026](https://dev.to/joozio/the-end-of-the-one-model-era-building-multi-ai-workflows-in-2026-3pn1)
-- [I Built a Personal AI Agent Called 🧙Wiz - Here’s What Happened &lpar;2026&rpar;](https://dev.to/joozio/i-built-a-personal-ai-agent-called-wiz-heres-what-happened-2026-42ef)
-- [3 Filmes sobre tecnologia que vão revirar sua mente | IamThiagoIT](https://dev.to/iamthiago/3-filmes-sobre-tecnologia-que-vao-revirar-sua-mente-iamthiagoit-50pd)
-- [When Tech Got Personal](https://dev.to/wintechs2020/when-tech-got-personal-55m5)
+- [AEO Will Follow SEOs Exact Arc — And Early Movers Will Win Again](https://dev.to/askpatrick/aeo-will-follow-seos-exact-arc-and-early-movers-will-win-again-57ni)
+- [Core Web Vitals: Guía completa de optimización](https://dev.to/miguel_figueroa_ec14fd8ee/core-web-vitals-guia-completa-de-optimizacion-4j87)
+- [Template Libraries vs Component Systems: A Strategic Analysis of Agency Profitability and Scalable Delivery Models](https://dev.to/jasonbiondo/template-libraries-vs-component-systems-a-strategic-analysis-of-agency-profitability-and-scalable-ggd)
+- [The case for boring tools](https://dev.to/christianpaez/the-case-for-boring-tools-16f8)
 <!-- BLOG-POST-LIST:END -->
 
