@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Complete Guide: Top Text-to-Video Models on HuggingFace](https://dev.to/czmilo/2026-complete-guide-top-text-to-video-models-on-huggingface-49p2)
-- [Why Every Developer Needs a Project Dashboard](https://dev.to/stackfolo/why-every-developer-needs-a-project-dashboard-4827)
-- [Build a Real-Time News Aggregator with Python, RSS, and Telegram in Under 100 Lines](https://dev.to/mfs_corp/build-a-real-time-news-aggregator-with-python-rss-and-telegram-in-under-100-lines-8gn)
-- [Razorpay Integration Guide: 5 Mistakes That Break Payments &lpar;and How to Avoid Them&rpar;](https://dev.to/vjygour/razorpay-integration-guide-5-mistakes-that-break-payments-and-how-to-avoid-them-agd)
+- [Finding My Rhythm: A Developer&#39;s Journey to Productive Coding](https://dev.to/sellsuite/finding-my-rhythm-a-developers-journey-to-productive-coding-3aij)
+- [I Let AI Write My Blog Posts, Then Scored Them for Quality — The Results Were Brutal](https://dev.to/ckmtools/i-let-ai-write-my-blog-posts-then-scored-them-for-quality-the-results-were-brutal-4dlh)
+- [Zero-Log Enforcement in Production: How to Build APIs That Forget Everything](https://dev.to/tiamatenity/zero-log-enforcement-in-production-how-to-build-apis-that-forget-everything-2m25)
+- [Codex OSS Credits, Drupal Patch Deadlines, and the Testing Questions That Expose Fragile Systems](https://dev.to/victorstackai/codex-oss-credits-drupal-patch-deadlines-and-the-testing-questions-that-expose-fragile-systems-1nf5)
 <!-- BLOG-POST-LIST:END -->
 
