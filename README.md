@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Forecasting of Care Load &amp; Placement Demand: What a 66% Structural Break Taught Me About Machine Learning](https://dev.to/sugnikm/predictive-forecasting-of-care-load-placement-demand-what-a-66-structural-break-taught-me-about-4nb7)
-- [State Management is Dead. Long Live the Neural Layer: Introducing Synapse 1.1.0](https://dev.to/john_yaghobieh_8f294091f6/state-management-is-dead-long-live-the-neural-layer-introducing-synapse-110-3fc4)
-- [Background Jobs in Production: The Problems Queues Don’t Solve](https://dev.to/taras_h_7a24f2b356a6e/background-jobs-in-production-the-problems-queues-dont-solve-209a)
-- [Building Reliable Computer-Use Agents: Architecture That Survives 3 AM](https://dev.to/software_mvp-factory/building-reliable-computer-use-agents-architecture-that-survives-3-am-2pj1)
+- [NestJS 멀티테넌트 DB 커넥션 풀 동적 관리: Promise 캐싱과 Lazy Loading](https://dev.to/artistrator/nestjs-meoltiteneonteu-db-keonegsyeon-pul-dongjeog-gwanri-promise-kaesinggwa-lazy-loading-2a7e)
+- [NestJS MSA에서 TypeORM FindOperator가 사라지는 문제 — Interceptor로 해결하기](https://dev.to/artistrator/nestjs-msaeseo-typeorm-findoperatorga-sarajineun-munje-interceptorro-haegyeolhagi-cpo)
+- [Writing My First Redux Code — And Realizing How Similar It Is to useReducer](https://dev.to/usama_dev/writing-my-first-redux-code-and-realizing-how-similar-it-is-to-usereducer-1hb9)
+- [Stop using magic strings in your Firestore .NET queries](https://dev.to/mihail_brinza/stop-using-magic-strings-in-your-firestore-net-queries-59p4)
 <!-- BLOG-POST-LIST:END -->
 
