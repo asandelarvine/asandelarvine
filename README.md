@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity-First Security Strategy](https://dev.to/danieljglover/identity-first-security-strategy-4150)
-- [The Exit Condition Pattern: How to Stop Your AI Agent at the Right Moment](https://dev.to/askpatrick/the-exit-condition-pattern-how-to-stop-your-ai-agent-at-the-right-moment-4901)
-- [Develop a TypeScript language service plugin: Make RTK Query&#39;s &quot;Go to Definition&quot; smarter](https://dev.to/flycran/develop-a-typescript-language-service-plugin-make-rtk-querys-go-to-definition-smarter-1pkf)
-- [Implementing OpenTelemetry in Go](https://dev.to/godofgeeks/implementing-opentelemetry-in-go-2ngf)
+- [openHAB vs ioBroker: Which to Self-Host?](https://dev.to/selfhostingsh/openhab-vs-iobroker-which-to-self-host-1jf1)
+- [So Your Manager is Passive Aggressive: A Survival Guide for Developers 🙃](https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb)
+- [How I Built a Self-Healing Node.js System That Fixes Production Bugs While I Sleep](https://dev.to/prodini_admin/how-i-built-a-self-healing-nodejs-system-that-fixes-production-bugs-while-i-sleep-1bm9)
+- [The Women Who Helped Me Grow as a Developer](https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6)
 <!-- BLOG-POST-LIST:END -->
 
