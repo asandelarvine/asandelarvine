@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Image to Vector: Building Image Similarity Search with Python and MySQL](https://dev.to/sanjayghosh/from-image-to-vector-building-image-similarity-search-with-python-and-mysql-kol)
-- [🚀 Running a 5-Day Mini Sprint in Jira and Shipping a Real Website Change to EC2](https://dev.to/ft_mj_5b31d5ca700bb51d61f/running-a-5-day-mini-sprint-in-jira-and-shipping-a-real-website-change-to-ec2-3dc1)
-- [Solved: Pricing changes for GitHub Actions](https://dev.to/techresolve/solved-pricing-changes-for-github-actions-4623)
-- [How I Designed a Multi-Tenant ERP System That Isolates 100% of Customer Data](https://dev.to/ravindu2012/how-i-designed-a-multi-tenant-erp-system-that-isolates-100-of-customer-data-5865)
+- [I built a local Python code reviewer that gives your code a brutal honest score](https://dev.to/avabuilds/i-built-a-local-python-code-reviewer-that-gives-your-code-a-brutal-honest-score-5734)
+- [**Rust Async Programming: Build High-Performance Concurrent Applications Without Crashing**](https://dev.to/nithinbharathwaj/rust-async-programming-build-high-performance-concurrent-applications-without-crashing-3mon)
+- [sql.js + IndexedDB: Building an Offline-First Web App](https://dev.to/recca0120/sqljs-indexeddb-building-an-offline-first-web-app-i0j)
+- [Query SQLite on GitHub Pages with sql.js-httpvfs](https://dev.to/recca0120/query-sqlite-on-github-pages-with-sqljs-httpvfs-11do)
 <!-- BLOG-POST-LIST:END -->
 
