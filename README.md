@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
-- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
-- [What Breaks After Your AI Demo Works](https://dev.to/lei_ye_2cc01a0af9e8260e/what-breaks-after-your-ai-demo-works-2g8p)
-- [Day 3 of Building Conjure: Analytics, Streaks &amp; Staying Consistent](https://dev.to/sankalpdev/day-3-of-building-conjure-analytics-streaks-staying-consistent-316f)
+- [New Angular Dashboard Template: Overview](https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60)
+- [I Built a Telegram Bot That Writes Cover Letters for $0.14](https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg)
+- [brtc &lpar;Brute-force Cost&rpar;: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
+- [Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved Output](https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf)
 <!-- BLOG-POST-LIST:END -->
 
