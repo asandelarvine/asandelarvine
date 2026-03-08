@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS 멀티테넌트 DB 커넥션 풀 동적 관리: Promise 캐싱과 Lazy Loading](https://dev.to/artistrator/nestjs-meoltiteneonteu-db-keonegsyeon-pul-dongjeog-gwanri-promise-kaesinggwa-lazy-loading-2a7e)
-- [NestJS MSA에서 TypeORM FindOperator가 사라지는 문제 — Interceptor로 해결하기](https://dev.to/artistrator/nestjs-msaeseo-typeorm-findoperatorga-sarajineun-munje-interceptorro-haegyeolhagi-cpo)
-- [Writing My First Redux Code — And Realizing How Similar It Is to useReducer](https://dev.to/usama_dev/writing-my-first-redux-code-and-realizing-how-similar-it-is-to-usereducer-1hb9)
-- [Stop using magic strings in your Firestore .NET queries](https://dev.to/mihail_brinza/stop-using-magic-strings-in-your-firestore-net-queries-59p4)
+- [LeetCode 1784 – Check if Binary String Has at Most One Segment of Ones &lpar;Day-06&rpar;](https://dev.to/dolly_sharma/leetcode-1784-check-if-binary-string-has-at-most-one-segment-of-ones-2eb4)
+- [Weekly Challlenge: The subnet detector](https://dev.to/simongreennet/weekly-challlenge-the-subnet-detector-1d9l)
+- [I Processed 50,000 CSV Rows in 2 Minutes. Here&#39;s How.](https://dev.to/devadatta_baireddy/i-processed-50000-csv-rows-in-2-minutes-heres-how-2462)
+- [Why Supply Chain Security Fails in the Real World](https://dev.to/sonia_bobrik_1939cdddd79d/why-supply-chain-security-fails-in-the-real-world-565j)
 <!-- BLOG-POST-LIST:END -->
 
