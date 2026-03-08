@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Prompt README Pattern: Make AI Workflows Maintainable](https://dev.to/novaelvaris/the-prompt-readme-pattern-make-ai-workflows-maintainable-f6l)
-- [SQL ANALYTICAL MECHANICS: JOINS &amp; WINDOW FUNCTIONS](https://dev.to/dishon_gatambiadd_31a1/sql-analytical-mechanics-joins-window-functions-pc4)
-- [Solved: What to do with this?](https://dev.to/techresolve/solved-what-to-do-with-this-1a8m)
-- [DynamoDB as a State Machine: How I Stopped Paying for Redundant Lambda Executions](https://dev.to/harisharavindan/dynamodb-as-a-state-machine-how-i-stopped-paying-for-redundant-lambda-executions-30cc)
+- [Week 18 / 52 — Managed Cost Optimization: Controlling OCI Database Spends](https://dev.to/nabhaas/week-18-52-managed-cost-optimization-controlling-oci-database-spends-5hef)
+- [Running AI Agents Safely with Firecracker MicroVMs &lpar;Introducing BunkerVM&rpar;](https://dev.to/ashish_chaudhary_b6089002/running-ai-agents-safely-with-firecracker-microvms-introducing-bunkervm-1ma8)
+- [SaaS Multi-Tenant en Go: Guia Practica de Row-Level Security en PostgreSQL](https://dev.to/gopherscl/saas-multi-tenant-en-go-guia-practica-de-row-level-security-en-postgresql-1hkk)
+- [Stablecoins and tokenization in 2026: blockchain is moving from speculation to infrastructure](https://dev.to/marko-infohelm/stablecoins-and-tokenization-in-2026-blockchain-is-moving-from-speculation-to-infrastructure-c17)
 <!-- BLOG-POST-LIST:END -->
 
