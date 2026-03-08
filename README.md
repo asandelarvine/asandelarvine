@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving a &#39;Brain&#39; to Minecraft NPCs with a Local LLM — Nemotron + Mineflayer Implementation Notes](https://dev.to/soytuber/giving-a-brain-to-minecraft-npcs-with-a-local-llm-nemotron-mineflayer-implementation-notes-1mph)
-- [Exposing Multiple Web Applications from a Home Server with Cloudflare Tunnel + Caddy](https://dev.to/soytuber/exposing-multiple-web-applications-from-a-home-server-with-cloudflare-tunnel-caddy-32nb)
-- [Personal AI Development Environment Built with RTX 5090 + WSL2 — A Practical Setup Fully Utilizing 32GB GPU](https://dev.to/soytuber/personal-ai-development-environment-built-with-rtx-5090-wsl2-a-practical-setup-fully-utilizing-3if7)
-- [I Built a Unix Timestamp Converter and Stepped on 3 JavaScript Date API Landmines](https://dev.to/tommy_worklab/i-built-a-unix-timestamp-converter-and-stepped-on-3-javascript-date-api-landmines-5d2f)
+- [Open WebUI vs Text Generation WebUI: Compared](https://dev.to/selfhostingsh/open-webui-vs-text-generation-webui-compared-1l1n)
+- [BigQuery vs Traditional Database](https://dev.to/shreyans_padmani/bigquery-vs-traditional-database-2791)
+- [Self-Hosting vs SaaS: How Much Can you save?](https://dev.to/babu_munavarbasha/self-hosting-vs-saas-how-much-can-you-save-45le)
+- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
 <!-- BLOG-POST-LIST:END -->
 
