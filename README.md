@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local Python code reviewer that gives your code a brutal honest score](https://dev.to/avabuilds/i-built-a-local-python-code-reviewer-that-gives-your-code-a-brutal-honest-score-5734)
-- [**Rust Async Programming: Build High-Performance Concurrent Applications Without Crashing**](https://dev.to/nithinbharathwaj/rust-async-programming-build-high-performance-concurrent-applications-without-crashing-3mon)
-- [sql.js + IndexedDB: Building an Offline-First Web App](https://dev.to/recca0120/sqljs-indexeddb-building-an-offline-first-web-app-i0j)
-- [Query SQLite on GitHub Pages with sql.js-httpvfs](https://dev.to/recca0120/query-sqlite-on-github-pages-with-sqljs-httpvfs-11do)
+- [The End of the One-Model Era: Building Multi-AI Workflows in 2026](https://dev.to/joozio/the-end-of-the-one-model-era-building-multi-ai-workflows-in-2026-3pn1)
+- [I Built a Personal AI Agent Called 🧙Wiz - Here’s What Happened &lpar;2026&rpar;](https://dev.to/joozio/i-built-a-personal-ai-agent-called-wiz-heres-what-happened-2026-42ef)
+- [3 Filmes sobre tecnologia que vão revirar sua mente | IamThiagoIT](https://dev.to/iamthiago/3-filmes-sobre-tecnologia-que-vao-revirar-sua-mente-iamthiagoit-50pd)
+- [When Tech Got Personal](https://dev.to/wintechs2020/when-tech-got-personal-55m5)
 <!-- BLOG-POST-LIST:END -->
 
