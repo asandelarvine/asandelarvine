@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding My Rhythm: A Developer&#39;s Journey to Productive Coding](https://dev.to/sellsuite/finding-my-rhythm-a-developers-journey-to-productive-coding-3aij)
-- [I Let AI Write My Blog Posts, Then Scored Them for Quality — The Results Were Brutal](https://dev.to/ckmtools/i-let-ai-write-my-blog-posts-then-scored-them-for-quality-the-results-were-brutal-4dlh)
-- [Zero-Log Enforcement in Production: How to Build APIs That Forget Everything](https://dev.to/tiamatenity/zero-log-enforcement-in-production-how-to-build-apis-that-forget-everything-2m25)
-- [Codex OSS Credits, Drupal Patch Deadlines, and the Testing Questions That Expose Fragile Systems](https://dev.to/victorstackai/codex-oss-credits-drupal-patch-deadlines-and-the-testing-questions-that-expose-fragile-systems-1nf5)
+- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
+- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
+- [What Breaks After Your AI Demo Works](https://dev.to/lei_ye_2cc01a0af9e8260e/what-breaks-after-your-ai-demo-works-2g8p)
+- [Day 3 of Building Conjure: Analytics, Streaks &amp; Staying Consistent](https://dev.to/sankalpdev/day-3-of-building-conjure-analytics-streaks-staying-consistent-316f)
 <!-- BLOG-POST-LIST:END -->
 
