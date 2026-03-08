@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 18 / 52 — Managed Cost Optimization: Controlling OCI Database Spends](https://dev.to/nabhaas/week-18-52-managed-cost-optimization-controlling-oci-database-spends-5hef)
-- [Running AI Agents Safely with Firecracker MicroVMs &lpar;Introducing BunkerVM&rpar;](https://dev.to/ashish_chaudhary_b6089002/running-ai-agents-safely-with-firecracker-microvms-introducing-bunkervm-1ma8)
-- [SaaS Multi-Tenant en Go: Guia Practica de Row-Level Security en PostgreSQL](https://dev.to/gopherscl/saas-multi-tenant-en-go-guia-practica-de-row-level-security-en-postgresql-1hkk)
-- [Stablecoins and tokenization in 2026: blockchain is moving from speculation to infrastructure](https://dev.to/marko-infohelm/stablecoins-and-tokenization-in-2026-blockchain-is-moving-from-speculation-to-infrastructure-c17)
+- [The Two Sum problem in Java](https://dev.to/richk21/the-two-sum-problem-in-java-2j69)
+- [The Path](https://dev.to/kaeso/the-path-16in)
+- [Redefining Kaeso](https://dev.to/kaeso/redefining-kaeso-3531)
+- [I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension](https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de)
 <!-- BLOG-POST-LIST:END -->
 
