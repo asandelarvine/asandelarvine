@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Two Sum problem in Java](https://dev.to/richk21/the-two-sum-problem-in-java-2j69)
-- [The Path](https://dev.to/kaeso/the-path-16in)
-- [Redefining Kaeso](https://dev.to/kaeso/redefining-kaeso-3531)
-- [I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension](https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de)
+- [Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud](https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n)
+- [The 5-Minute Rule for AI Agent Tasks &lpar;And Why Most Agents Fail It&rpar;](https://dev.to/jarveyspecter/the-5-minute-rule-for-ai-agent-tasks-and-why-most-agents-fail-it-133f)
+- [I Let an AI Agent Manage My Emails for 30 Days. Here&#39;s What Broke.](https://dev.to/jarveyspecter/i-let-an-ai-agent-manage-my-emails-for-30-days-heres-what-broke-4n12)
+- [Navigating the Web with a Smile: A Jovial Guide to Simple PHP Routing](https://dev.to/ezeanyim_henry/navigating-the-web-with-a-smile-a-jovial-guide-to-simple-php-routing-571d)
 <!-- BLOG-POST-LIST:END -->
 
