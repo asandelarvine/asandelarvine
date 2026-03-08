@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Angular Dashboard Template: Overview](https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60)
-- [I Built a Telegram Bot That Writes Cover Letters for $0.14](https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg)
-- [brtc &lpar;Brute-force Cost&rpar;: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
-- [Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved Output](https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf)
+- [Identity-First Security Strategy](https://dev.to/danieljglover/identity-first-security-strategy-4150)
+- [The Exit Condition Pattern: How to Stop Your AI Agent at the Right Moment](https://dev.to/askpatrick/the-exit-condition-pattern-how-to-stop-your-ai-agent-at-the-right-moment-4901)
+- [Develop a TypeScript language service plugin: Make RTK Query&#39;s &quot;Go to Definition&quot; smarter](https://dev.to/flycran/develop-a-typescript-language-service-plugin-make-rtk-querys-go-to-definition-smarter-1pkf)
+- [Implementing OpenTelemetry in Go](https://dev.to/godofgeeks/implementing-opentelemetry-in-go-2ngf)
 <!-- BLOG-POST-LIST:END -->
 
