@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open WebUI vs Text Generation WebUI: Compared](https://dev.to/selfhostingsh/open-webui-vs-text-generation-webui-compared-1l1n)
-- [BigQuery vs Traditional Database](https://dev.to/shreyans_padmani/bigquery-vs-traditional-database-2791)
-- [Self-Hosting vs SaaS: How Much Can you save?](https://dev.to/babu_munavarbasha/self-hosting-vs-saas-how-much-can-you-save-45le)
-- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
+- [Predictive Forecasting of Care Load &amp; Placement Demand: What a 66% Structural Break Taught Me About Machine Learning](https://dev.to/sugnikm/predictive-forecasting-of-care-load-placement-demand-what-a-66-structural-break-taught-me-about-4nb7)
+- [State Management is Dead. Long Live the Neural Layer: Introducing Synapse 1.1.0](https://dev.to/john_yaghobieh_8f294091f6/state-management-is-dead-long-live-the-neural-layer-introducing-synapse-110-3fc4)
+- [Background Jobs in Production: The Problems Queues Don’t Solve](https://dev.to/taras_h_7a24f2b356a6e/background-jobs-in-production-the-problems-queues-dont-solve-209a)
+- [Building Reliable Computer-Use Agents: Architecture That Survives 3 AM](https://dev.to/software_mvp-factory/building-reliable-computer-use-agents-architecture-that-survives-3-am-2pj1)
 <!-- BLOG-POST-LIST:END -->
 
