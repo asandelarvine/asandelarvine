@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud](https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n)
-- [The 5-Minute Rule for AI Agent Tasks &lpar;And Why Most Agents Fail It&rpar;](https://dev.to/jarveyspecter/the-5-minute-rule-for-ai-agent-tasks-and-why-most-agents-fail-it-133f)
-- [I Let an AI Agent Manage My Emails for 30 Days. Here&#39;s What Broke.](https://dev.to/jarveyspecter/i-let-an-ai-agent-manage-my-emails-for-30-days-heres-what-broke-4n12)
-- [Navigating the Web with a Smile: A Jovial Guide to Simple PHP Routing](https://dev.to/ezeanyim_henry/navigating-the-web-with-a-smile-a-jovial-guide-to-simple-php-routing-571d)
+- [From Image to Vector: Building Image Similarity Search with Python and MySQL](https://dev.to/sanjayghosh/from-image-to-vector-building-image-similarity-search-with-python-and-mysql-kol)
+- [🚀 Running a 5-Day Mini Sprint in Jira and Shipping a Real Website Change to EC2](https://dev.to/ft_mj_5b31d5ca700bb51d61f/running-a-5-day-mini-sprint-in-jira-and-shipping-a-real-website-change-to-ec2-3dc1)
+- [Solved: Pricing changes for GitHub Actions](https://dev.to/techresolve/solved-pricing-changes-for-github-actions-4623)
+- [How I Designed a Multi-Tenant ERP System That Isolates 100% of Customer Data](https://dev.to/ravindu2012/how-i-designed-a-multi-tenant-erp-system-that-isolates-100-of-customer-data-5865)
 <!-- BLOG-POST-LIST:END -->
 
