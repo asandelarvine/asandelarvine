@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When light becomes a weapon: laser-based command injection attacks on voice assistants](https://dev.to/helixcipher/when-light-becomes-a-weapon-laser-based-command-injection-attacks-on-voice-assistants-1ob)
-- [How I Turned Claude Code into a 24/7 Slack &amp; Telegram Bot &lpar;No AI Framework Needed&rpar;](https://dev.to/joe_shawn/how-i-turned-claude-code-into-a-247-slack-telegram-bot-no-ai-framework-needed-5184)
-- [How AI is destroying my tech team](https://dev.to/tropicaldev/how-ai-is-destroying-my-tech-team-dab)
-- [40 Articles. 10 Tools. $1.63 Left. Here&#39;s What Comes Next.](https://dev.to/devadatta_baireddy/40-articles-10-tools-163-left-heres-what-comes-next-495e)
+- [The Prompt README Pattern: Make AI Workflows Maintainable](https://dev.to/novaelvaris/the-prompt-readme-pattern-make-ai-workflows-maintainable-f6l)
+- [SQL ANALYTICAL MECHANICS: JOINS &amp; WINDOW FUNCTIONS](https://dev.to/dishon_gatambiadd_31a1/sql-analytical-mechanics-joins-window-functions-pc4)
+- [Solved: What to do with this?](https://dev.to/techresolve/solved-what-to-do-with-this-1a8m)
+- [DynamoDB as a State Machine: How I Stopped Paying for Redundant Lambda Executions](https://dev.to/harisharavindan/dynamodb-as-a-state-machine-how-i-stopped-paying-for-redundant-lambda-executions-30cc)
 <!-- BLOG-POST-LIST:END -->
 
