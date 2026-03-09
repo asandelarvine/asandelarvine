@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Lazy&quot; Developer’s Guide to Twilio Auto-Replies &lpar;No Server Required&rpar;](https://dev.to/trivedivatsal/the-lazy-developers-guide-to-twilio-auto-replies-no-server-required-bmh)
-- [Perl 🐪 Weekly #763 - Is WhatsApp the new IRC?](https://dev.to/szabgab/perl-weekly-763-is-whatsapp-the-new-irc-53dl)
-- [Configuración de GitHub Actions para Proyectos Python: Lo Que Aprendí a las Malas](https://dev.to/synsun/configuracion-de-github-actions-para-proyectos-python-lo-que-aprendi-a-las-malas-2hc0)
-- [Context switching help needed](https://dev.to/priyayadav9591/context-switching-help-needed-1m0f)
+- [Elasticsearch vs RDBMS, Logstash vs Fluentd, Elasticsearch vs Opensearch](https://dev.to/tarikanafarta/elasticsearch-vs-rdbms-logstash-vs-fluentd-elasticsearch-vs-opensearch-2263)
+- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
+- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
+- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
 <!-- BLOG-POST-LIST:END -->
 
