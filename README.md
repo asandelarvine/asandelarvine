@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Local-First HSA Receipt Tracker with Flask, Google Drive, and AI](https://dev.to/pjhoberman/i-built-a-local-first-hsa-receipt-tracker-with-flask-google-drive-and-ai-23dl)
-- [Change Management When Specs Are Living Documents](https://dev.to/juranki/change-management-when-specs-are-living-documents-1mjb)
-- [Bootstrapping a Project with AI and Specs](https://dev.to/juranki/bootstrapping-a-project-with-ai-and-specs-2om8)
-- [What AI Needs to Know &lpar;and What It Doesn&#39;t&rpar;](https://dev.to/juranki/what-ai-needs-to-know-and-what-it-doesnt-imi)
+- [Why End-to-End Encryption Cannot Protect Infrastructure Metadata](https://dev.to/alifunk/why-end-to-end-encryption-cannot-protect-infrastructure-metadata-4bj4)
+- [Reddit-style threaded comment section I built with React / Next.js](https://dev.to/theaynpro/reddit-style-threaded-comment-section-i-built-with-react-nextjs-46lm)
+- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
+- [Una idea del siglo XIX que aparece en su compilador, sus tests y el diseño de su sistema](https://dev.to/el_programador_pobre/una-idea-del-siglo-xix-que-aparece-en-su-compilador-sus-tests-y-el-diseno-de-su-sistema-2ni1)
 <!-- BLOG-POST-LIST:END -->
 
