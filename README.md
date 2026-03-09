@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your OpenClaw Slack Agent Is Probably Leaking Data. Here&#39;s How to Fix It.](https://dev.to/helen_mireille_47b02db70c/your-openclaw-slack-agent-is-probably-leaking-data-heres-how-to-fix-it-1p4d)
-- [Commit Code, Update Docs: Building an AI Pipeline With Notion MCP](https://dev.to/sarupurisailalith/commit-code-update-docs-building-an-ai-pipeline-with-notion-mcp-36he)
-- [Billing and Subscription](https://dev.to/palash_gupta_883252c73ea5/billing-and-subscription-1haj)
-- [Ways to use ChatGPT for Whatsapp messaging](https://dev.to/palash_gupta_883252c73ea5/ways-to-use-chatgpt-for-whatsapp-messaging-2k02)
+- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
+- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
+- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
+- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
 <!-- BLOG-POST-LIST:END -->
 
