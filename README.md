@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SmartOrder — Part 4: Inside the Inventory Service](https://dev.to/portus84/smartorder-part-4-inside-the-inventory-service-106k)
-- [Create AppStore Images with one liner](https://dev.to/stevenselcuk/create-appstore-images-with-one-liner-pal)
-- [I built an AI that roasts your GitHub profile — here&#39;s how I made it in one day](https://dev.to/ishaansharma/i-built-an-ai-that-roasts-your-github-profile-heres-how-i-made-it-in-one-day-2b94)
-- [Decision Coherence: A Formal Correctness Requirement for Multi-Agent Systems](https://dev.to/hui_zhao_405dc49731688b0c/decision-coherence-a-formal-correctness-requirement-for-multi-agent-systems-2hj0)
+- [The &quot;Lazy&quot; Developer’s Guide to Twilio Auto-Replies &lpar;No Server Required&rpar;](https://dev.to/trivedivatsal/the-lazy-developers-guide-to-twilio-auto-replies-no-server-required-bmh)
+- [Perl 🐪 Weekly #763 - Is WhatsApp the new IRC?](https://dev.to/szabgab/perl-weekly-763-is-whatsapp-the-new-irc-53dl)
+- [Configuración de GitHub Actions para Proyectos Python: Lo Que Aprendí a las Malas](https://dev.to/synsun/configuracion-de-github-actions-para-proyectos-python-lo-que-aprendi-a-las-malas-2hc0)
+- [Context switching help needed](https://dev.to/priyayadav9591/context-switching-help-needed-1m0f)
 <!-- BLOG-POST-LIST:END -->
 
