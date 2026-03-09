@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
-- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
-- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
-- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
+- [How to Test AI Agents for Failure &lpar;Not Just Success&rpar;](https://dev.to/askpatrick/how-to-test-ai-agents-for-failure-not-just-success-5a9c)
+- [How does a linter know your column doesn&#39;t exist](https://dev.to/eitamos_ring_0508146ca448/how-does-a-linter-know-your-column-doesnt-exist-7ff)
+- [Media Queries : Adapter les interfaces web à la diversité des écrans.](https://dev.to/alexandrins_paulkakoba_e/media-queries-adapter-les-interfaces-web-a-la-diversite-des-ecrans-4o40)
+- [7 Hidden Costs of AI-Powered Development &lpar;And How to Actually Track Them&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/7-hidden-costs-of-ai-powered-development-and-how-to-actually-track-them-b6f)
 <!-- BLOG-POST-LIST:END -->
 
