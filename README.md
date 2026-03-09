@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Border-Image Recoloring with SVG Filters](https://dev.to/stampfff/dynamic-border-image-recoloring-with-svg-filters-58i1)
-- [How Data Brokers Expose Your Personal Information &lpar;And How to Fight Back&rpar;](https://dev.to/tiamatenity/how-data-brokers-expose-your-personal-information-and-how-to-fight-back-4jp4)
-- [Mastering TypeScript Generics: From Basic Constraints to Advanced Utility Types](https://dev.to/midas126/mastering-typescript-generics-from-basic-constraints-to-advanced-utility-types-4ak7)
-- [Micro-interactions are underrated in frontend UI.](https://dev.to/edwinvakayil/micro-interactions-are-underrated-in-frontend-ui-42el)
+- [I Built a Local-First HSA Receipt Tracker with Flask, Google Drive, and AI](https://dev.to/pjhoberman/i-built-a-local-first-hsa-receipt-tracker-with-flask-google-drive-and-ai-23dl)
+- [Change Management When Specs Are Living Documents](https://dev.to/juranki/change-management-when-specs-are-living-documents-1mjb)
+- [Bootstrapping a Project with AI and Specs](https://dev.to/juranki/bootstrapping-a-project-with-ai-and-specs-2om8)
+- [What AI Needs to Know &lpar;and What It Doesn&#39;t&rpar;](https://dev.to/juranki/what-ai-needs-to-know-and-what-it-doesnt-imi)
 <!-- BLOG-POST-LIST:END -->
 
