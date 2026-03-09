@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wild Ride Through AI Development Tools &lpar;Or: How I Landed Back at Cursor&rpar;](https://dev.to/joozio/my-wild-ride-through-ai-development-tools-or-how-i-landed-back-at-cursor-5b9c)
-- [How to Run a Minecraft Server on VPS/Termux without Pterodactyl Panel &lpar;Node.js&rpar;](https://dev.to/dimzxzzx07/how-to-run-a-minecraft-server-on-vpstermux-without-pterodactyl-panel-nodejs-1aai)
-- [Mapping the Territory](https://dev.to/tico/mapping-the-territory-3n55)
-- [How We Got Tired of the AI Subscription Zoo and Combined 30 Neural Networks in One Interface](https://dev.to/lucasdue/how-we-got-tired-of-the-ai-subscription-zoo-and-combined-30-neural-networks-in-one-interface-46p)
+- [I Changed Careers at 40. Here&#39;s How It Actually Went.](https://dev.to/buonoatsushi/i-changed-careers-at-40-heres-how-it-actually-went-1fgm)
+- [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4)
+- [Llevando AWS a la Universidad de Guayaquil: así fue la experiencia](https://dev.to/aledpolo/llevando-aws-a-la-universidad-de-guayaquil-asi-fue-la-experiencia-424f)
+- [I Built ac-trace to Check What Tests Actually Protect](https://dev.to/dmytro_huz/i-built-ac-trace-to-check-what-tests-actually-protect-2pnc)
 <!-- BLOG-POST-LIST:END -->
 
