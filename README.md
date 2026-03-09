@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an AI Video Platform That Serves 53,000+ Views on Flask + SQLite](https://dev.to/scottcjn/how-we-built-an-ai-video-platform-that-serves-53000-views-on-flask-sqlite-4h63)
-- [Solving Agent State Degradation: Building a Wellness API for Multi-Agent Systems](https://dev.to/opendrama/solving-agent-state-degradation-building-a-wellness-api-for-multi-agent-systems-36c2)
-- [The Side Project Graveyard: Why 90% of Developer Projects Die &lpar;And How to Ship Yours&rpar;](https://dev.to/__be2942592/the-side-project-graveyard-why-90-of-developer-projects-die-and-how-to-ship-yours-54ab)
-- [I Built a VS Code Extension to Clean Up Angular Codebases — Here&#39;s What It Does](https://dev.to/arul_cornelious/i-built-a-vs-code-extension-to-clean-up-angular-codebases-heres-what-it-does-3iil)
+- [Web Adapter Tool Agent: Turn Self-Learning Skills into &quot;98% Average Token Reduction on Revisits,&quot; Measured](https://dev.to/tumf/web-adapter-tool-agent-turn-self-learning-skills-into-98-average-token-reduction-on-revisits-3mi4)
+- [How to Succeed in AI Assisted Interviews](https://dev.to/elliancarlos/how-to-succeed-in-ai-assisted-interviews-13lb)
+- [Deploying My Headless Ubuntu Server](https://dev.to/priyanshu69/deploying-my-headless-ubuntu-server-b0i)
+- [The Silent Retry Trap: Why AI Agents Compound Failures in the Dark](https://dev.to/askpatrick/the-silent-retry-trap-why-ai-agents-compound-failures-in-the-dark-3h3g)
 <!-- BLOG-POST-LIST:END -->
 
