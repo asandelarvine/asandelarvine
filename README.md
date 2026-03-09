@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Increase Your Coding Speed FAST](https://dev.to/cyberjanitor/increase-your-coding-speed-fast-5g1e)
-- [Building a RAG System from Scratch: Turning Aviation Disruption Data into an AI-Powered Q&amp;A App](https://dev.to/parupati/building-a-rag-system-from-scratch-turning-aviation-disruption-data-into-an-ai-powered-qa-app-4e8n)
-- [Criei uma pipeline de planejamento no OpenCode e olha no que deu](https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb)
-- [We Built a Product Using 750 AI-Generated Pull Requests](https://dev.to/marcio_castilho/we-built-a-product-using-750-ai-generated-pull-requests-50h)
+- [Your OpenClaw Slack Agent Is Probably Leaking Data. Here&#39;s How to Fix It.](https://dev.to/helen_mireille_47b02db70c/your-openclaw-slack-agent-is-probably-leaking-data-heres-how-to-fix-it-1p4d)
+- [Commit Code, Update Docs: Building an AI Pipeline With Notion MCP](https://dev.to/sarupurisailalith/commit-code-update-docs-building-an-ai-pipeline-with-notion-mcp-36he)
+- [Billing and Subscription](https://dev.to/palash_gupta_883252c73ea5/billing-and-subscription-1haj)
+- [Ways to use ChatGPT for Whatsapp messaging](https://dev.to/palash_gupta_883252c73ea5/ways-to-use-chatgpt-for-whatsapp-messaging-2k02)
 <!-- BLOG-POST-LIST:END -->
 
