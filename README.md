@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch vs RDBMS, Logstash vs Fluentd, Elasticsearch vs Opensearch](https://dev.to/tarikanafarta/elasticsearch-vs-rdbms-logstash-vs-fluentd-elasticsearch-vs-opensearch-2263)
-- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
-- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
-- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
+- [My Wild Ride Through AI Development Tools &lpar;Or: How I Landed Back at Cursor&rpar;](https://dev.to/joozio/my-wild-ride-through-ai-development-tools-or-how-i-landed-back-at-cursor-5b9c)
+- [How to Run a Minecraft Server on VPS/Termux without Pterodactyl Panel &lpar;Node.js&rpar;](https://dev.to/dimzxzzx07/how-to-run-a-minecraft-server-on-vpstermux-without-pterodactyl-panel-nodejs-1aai)
+- [Mapping the Territory](https://dev.to/tico/mapping-the-territory-3n55)
+- [How We Got Tired of the AI Subscription Zoo and Combined 30 Neural Networks in One Interface](https://dev.to/lucasdue/how-we-got-tired-of-the-ai-subscription-zoo-and-combined-30-neural-networks-in-one-interface-46p)
 <!-- BLOG-POST-LIST:END -->
 
