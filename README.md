@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test AI Agents for Failure &lpar;Not Just Success&rpar;](https://dev.to/askpatrick/how-to-test-ai-agents-for-failure-not-just-success-5a9c)
-- [How does a linter know your column doesn&#39;t exist](https://dev.to/eitamos_ring_0508146ca448/how-does-a-linter-know-your-column-doesnt-exist-7ff)
-- [Media Queries : Adapter les interfaces web à la diversité des écrans.](https://dev.to/alexandrins_paulkakoba_e/media-queries-adapter-les-interfaces-web-a-la-diversite-des-ecrans-4o40)
-- [7 Hidden Costs of AI-Powered Development &lpar;And How to Actually Track Them&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/7-hidden-costs-of-ai-powered-development-and-how-to-actually-track-them-b6f)
+- [SmartOrder — Part 4: Inside the Inventory Service](https://dev.to/portus84/smartorder-part-4-inside-the-inventory-service-106k)
+- [Create AppStore Images with one liner](https://dev.to/stevenselcuk/create-appstore-images-with-one-liner-pal)
+- [I built an AI that roasts your GitHub profile — here&#39;s how I made it in one day](https://dev.to/ishaansharma/i-built-an-ai-that-roasts-your-github-profile-heres-how-i-made-it-in-one-day-2b94)
+- [Decision Coherence: A Formal Correctness Requirement for Multi-Agent Systems](https://dev.to/hui_zhao_405dc49731688b0c/decision-coherence-a-formal-correctness-requirement-for-multi-agent-systems-2hj0)
 <!-- BLOG-POST-LIST:END -->
 
