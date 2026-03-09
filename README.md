@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust at the Edge: Rethinking the eDMZ Perimeter &lpar;Part 1&rpar;](https://dev.to/alexuau922/zero-trust-at-the-edge-rethinking-the-edmz-perimeter-part-1-g86)
-- [Context Is the New Code](https://dev.to/stravukarl/context-is-the-new-code-50n5)
-- [Your Best Employee is Your Biggest Security Risk &lpar;And They Use ChatGPT&rpar;](https://dev.to/syedahmershah/your-best-employee-is-your-biggest-security-risk-and-they-use-chatgpt-3nm6)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 6 Lambda function performance improvement approaches](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-6-lambda-function-performance-113)
+- [5 AWS Concepts Every Developer Should Know Before Touching EC2](https://dev.to/parth2861866/5-aws-concepts-every-developer-should-know-before-touching-ec2-2an5)
+- [Setting Up Self-Hosted Runners As Pods](https://dev.to/dipe_/setting-up-self-hosted-runners-as-pods-3kan)
+- [Made a tool that fixes messy CSVs with AI - dates, duplicates, formatting](https://dev.to/sher1096/made-a-tool-that-fixes-messy-csvs-with-ai-dates-duplicates-formatting-9e)
+- [What if your AI coding agent actually learned from working with you?](https://dev.to/carloluisito/what-if-your-ai-coding-agent-actually-learned-from-working-with-you-5d19)
 <!-- BLOG-POST-LIST:END -->
 
