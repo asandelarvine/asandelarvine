@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Fundamentals: The Tip of the Iceberg](https://dev.to/akbarsiddic/docker-fundamentals-the-tip-of-the-iceberg-m4g)
-- [Catching Breaking API Changes Before They Reach Production](https://dev.to/delimit/catching-breaking-api-changes-before-they-reach-production-4n7k)
-- [The Agent Scope Creep Problem: Why AI Agents That Grow Without Limits Become Unreliable](https://dev.to/askpatrick/the-agent-scope-creep-problem-why-ai-agents-that-grow-without-limits-become-unreliable-3kk0)
-- [Flash Loans Explained: Zero-Collateral DeFi in One Transaction](https://dev.to/metadevdigital/flash-loans-explained-zero-collateral-defi-in-one-transaction-223o)
+- [#1 – AWS Cloud Introduction](https://dev.to/dareosewa/1-aws-cloud-introduction-3083)
+- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
+- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
+- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
 <!-- BLOG-POST-LIST:END -->
 
