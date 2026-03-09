@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A decade of shaping teams, and the book that made sense of it](https://dev.to/vburckhardt/a-decade-of-shaping-teams-and-the-book-that-made-sense-of-it-a3a)
-- [IDMerit&#39;s 3 Billion Record Breach: How Your Federal ID Ended Up On The Dark Web](https://dev.to/tiamatenity/idmerits-3-billion-record-breach-how-your-federal-id-ended-up-on-the-dark-web-6oj)
-- [FAQ: Supply-Chain Attacks — 10 Questions You&#39;re Asking &lpar;And Answers That Matter&rpar;](https://dev.to/tiamatenity/faq-supply-chain-attacks-10-questions-youre-asking-and-answers-that-matter-3nk5)
-- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
+- [Docker Fundamentals: The Tip of the Iceberg](https://dev.to/akbarsiddic/docker-fundamentals-the-tip-of-the-iceberg-m4g)
+- [Catching Breaking API Changes Before They Reach Production](https://dev.to/delimit/catching-breaking-api-changes-before-they-reach-production-4n7k)
+- [The Agent Scope Creep Problem: Why AI Agents That Grow Without Limits Become Unreliable](https://dev.to/askpatrick/the-agent-scope-creep-problem-why-ai-agents-that-grow-without-limits-become-unreliable-3kk0)
+- [Flash Loans Explained: Zero-Collateral DeFi in One Transaction](https://dev.to/metadevdigital/flash-loans-explained-zero-collateral-defi-in-one-transaction-223o)
 <!-- BLOG-POST-LIST:END -->
 
