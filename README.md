@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why End-to-End Encryption Cannot Protect Infrastructure Metadata](https://dev.to/alifunk/why-end-to-end-encryption-cannot-protect-infrastructure-metadata-4bj4)
-- [Reddit-style threaded comment section I built with React / Next.js](https://dev.to/theaynpro/reddit-style-threaded-comment-section-i-built-with-react-nextjs-46lm)
-- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
-- [Una idea del siglo XIX que aparece en su compilador, sus tests y el diseño de su sistema](https://dev.to/el_programador_pobre/una-idea-del-siglo-xix-que-aparece-en-su-compilador-sus-tests-y-el-diseno-de-su-sistema-2ni1)
+- [A decade of shaping teams, and the book that made sense of it](https://dev.to/vburckhardt/a-decade-of-shaping-teams-and-the-book-that-made-sense-of-it-a3a)
+- [IDMerit&#39;s 3 Billion Record Breach: How Your Federal ID Ended Up On The Dark Web](https://dev.to/tiamatenity/idmerits-3-billion-record-breach-how-your-federal-id-ended-up-on-the-dark-web-6oj)
+- [FAQ: Supply-Chain Attacks — 10 Questions You&#39;re Asking &lpar;And Answers That Matter&rpar;](https://dev.to/tiamatenity/faq-supply-chain-attacks-10-questions-youre-asking-and-answers-that-matter-3nk5)
+- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
 <!-- BLOG-POST-LIST:END -->
 
