@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Changed Careers at 40. Here&#39;s How It Actually Went.](https://dev.to/buonoatsushi/i-changed-careers-at-40-heres-how-it-actually-went-1fgm)
-- [Building a Text-to-Speech Engine in Pure C](https://dev.to/gabrielemastrapasqua/building-a-text-to-speech-engine-in-pure-c-59h4)
-- [Llevando AWS a la Universidad de Guayaquil: así fue la experiencia](https://dev.to/aledpolo/llevando-aws-a-la-universidad-de-guayaquil-asi-fue-la-experiencia-424f)
-- [I Built ac-trace to Check What Tests Actually Protect](https://dev.to/dmytro_huz/i-built-ac-trace-to-check-what-tests-actually-protect-2pnc)
+- [Zero-Trust at the Edge: Rethinking the eDMZ Perimeter &lpar;Part 1&rpar;](https://dev.to/alexuau922/zero-trust-at-the-edge-rethinking-the-edmz-perimeter-part-1-g86)
+- [Context Is the New Code](https://dev.to/stravukarl/context-is-the-new-code-50n5)
+- [Your Best Employee is Your Biggest Security Risk &lpar;And They Use ChatGPT&rpar;](https://dev.to/syedahmershah/your-best-employee-is-your-biggest-security-risk-and-they-use-chatgpt-3nm6)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 6 Lambda function performance improvement approaches](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-6-lambda-function-performance-113)
 <!-- BLOG-POST-LIST:END -->
 
