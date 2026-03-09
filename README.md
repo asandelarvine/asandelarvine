@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AWS Concepts Every Developer Should Know Before Touching EC2](https://dev.to/parth2861866/5-aws-concepts-every-developer-should-know-before-touching-ec2-2an5)
-- [Setting Up Self-Hosted Runners As Pods](https://dev.to/dipe_/setting-up-self-hosted-runners-as-pods-3kan)
-- [Made a tool that fixes messy CSVs with AI - dates, duplicates, formatting](https://dev.to/sher1096/made-a-tool-that-fixes-messy-csvs-with-ai-dates-duplicates-formatting-9e)
-- [What if your AI coding agent actually learned from working with you?](https://dev.to/carloluisito/what-if-your-ai-coding-agent-actually-learned-from-working-with-you-5d19)
+- [Dynamic Border-Image Recoloring with SVG Filters](https://dev.to/stampfff/dynamic-border-image-recoloring-with-svg-filters-58i1)
+- [How Data Brokers Expose Your Personal Information &lpar;And How to Fight Back&rpar;](https://dev.to/tiamatenity/how-data-brokers-expose-your-personal-information-and-how-to-fight-back-4jp4)
+- [Mastering TypeScript Generics: From Basic Constraints to Advanced Utility Types](https://dev.to/midas126/mastering-typescript-generics-from-basic-constraints-to-advanced-utility-types-4ak7)
+- [Micro-interactions are underrated in frontend UI.](https://dev.to/edwinvakayil/micro-interactions-are-underrated-in-frontend-ui-42el)
 <!-- BLOG-POST-LIST:END -->
 
