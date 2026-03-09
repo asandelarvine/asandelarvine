@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Adapter Tool Agent: Turn Self-Learning Skills into &quot;98% Average Token Reduction on Revisits,&quot; Measured](https://dev.to/tumf/web-adapter-tool-agent-turn-self-learning-skills-into-98-average-token-reduction-on-revisits-3mi4)
-- [How to Succeed in AI Assisted Interviews](https://dev.to/elliancarlos/how-to-succeed-in-ai-assisted-interviews-13lb)
-- [Deploying My Headless Ubuntu Server](https://dev.to/priyanshu69/deploying-my-headless-ubuntu-server-b0i)
-- [The Silent Retry Trap: Why AI Agents Compound Failures in the Dark](https://dev.to/askpatrick/the-silent-retry-trap-why-ai-agents-compound-failures-in-the-dark-3h3g)
+- [Increase Your Coding Speed FAST](https://dev.to/cyberjanitor/increase-your-coding-speed-fast-5g1e)
+- [Building a RAG System from Scratch: Turning Aviation Disruption Data into an AI-Powered Q&amp;A App](https://dev.to/parupati/building-a-rag-system-from-scratch-turning-aviation-disruption-data-into-an-ai-powered-qa-app-4e8n)
+- [Criei uma pipeline de planejamento no OpenCode e olha no que deu](https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb)
+- [We Built a Product Using 750 AI-Generated Pull Requests](https://dev.to/marcio_castilho/we-built-a-product-using-750-ai-generated-pull-requests-50h)
 <!-- BLOG-POST-LIST:END -->
 
