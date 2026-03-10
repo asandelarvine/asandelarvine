@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Friction Publishing: A Human-in-the-Loop Agentic CMS powered by Notion MCP](https://dev.to/lwgena/zero-friction-publishing-a-human-in-the-loop-agentic-cms-powered-by-notion-mcp-12nn)
-- [The AI Cold Start That Breaks Kubernetes Autoscaling](https://dev.to/namratha_3/the-ai-cold-start-that-breaks-kubernetes-autoscaling-280n)
-- [Data Paradigms for the Agent Era: From Human-Readable to AI-Understandable](https://dev.to/andrew202510/data-paradigms-for-the-agent-era-from-human-readable-to-ai-understandable-535)
-- [Understanding Core React Hooks with Practical Examples](https://dev.to/addwebsolutionpvtltd/understanding-core-react-hooks-with-practical-examples-1okn)
+- [2PC vs Saga](https://dev.to/xrs0/2pc-vs-saga-l23)
+- [MVI as a Unifying Architecture Pattern Across KMP, SwiftUI, and Compose: Implementing a Shared State Machine](https://dev.to/software_mvp-factory/mvi-as-a-unifying-architecture-pattern-across-kmp-swiftui-and-compose-implementing-a-shared-1bim)
+- [How to Get Your First 1,000 Users to Actually Come Back](https://dev.to/alichherawalla/how-to-get-your-first-1000-users-to-actually-come-back-2jj)
+- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
 <!-- BLOG-POST-LIST:END -->
 
