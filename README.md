@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI and Custom Web Development Enhance Website Performance and UX](https://dev.to/vasundhara_infotech/how-ai-and-custom-web-development-enhance-website-performance-and-ux-273l)
-- [Why Your Docking Station Fails to Detect an External Monitor: A Deep Dive into Multi-Display Architecture](https://dev.to/wixom/why-your-docking-station-fails-to-detect-an-external-monitor-a-deep-dive-into-multi-display-51d9)
-- [Quantum Computing Will Break Your Kubernetes Clusters — Here&#39;s When and What To Do Now](https://dev.to/shamsher_khan/quantum-computing-will-break-your-kubernetes-clusters-heres-when-and-what-to-do-now-3koa)
-- [Extract Structured Data from Car Listings Using AI in .NET 10](https://dev.to/rahul1994jh/extract-structured-data-from-car-listings-using-ai-in-net-10-59g)
+- [Broken Authentication in Fintech Systems](https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592)
+- [Why Hospitals Are Switching to Cloud-Based HMIS in 2026](https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj)
+- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
+- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
 <!-- BLOG-POST-LIST:END -->
 
