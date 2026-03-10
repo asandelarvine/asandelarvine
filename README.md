@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a VTU SGPA Calculator Using JavaScript](https://dev.to/krishna_sapkota/how-i-built-a-vtu-sgpa-calculator-using-javascript-22po)
-- [I built an open-source S3-native Kafka alternative. Here&#39;s how it works under the hoo](https://dev.to/gb_e9da03296321/i-built-an-open-source-s3-native-kafka-alternative-heres-how-it-works-under-the-hoo-gm9)
-- [Building a Live Adversarial Arena for AI Safety Testing](https://dev.to/alexgardenmnemom/building-a-live-adversarial-arena-for-ai-safety-testing-14db)
-- [What is Generative Engine Optimization &lpar;GEO&rpar; and Why Your Brand is Invisible to AI](https://dev.to/fay_/what-is-generative-engine-optimization-geo-and-why-your-brand-is-invisible-to-ai-1il9)
+- [Multi-Agent Systems: Orchestrating Azure AI Agents with Semantic Kernel](https://dev.to/bspann/multi-agent-systems-orchestrating-azure-ai-agents-with-semantic-kernel-58na)
+- [Too Many MCP Tools Make Agents Worse - Here’s How I Fixed It](https://dev.to/deathsaber/too-many-mcp-tools-make-agents-worse-heres-how-i-fixed-it-44n2)
+- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
+- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
 <!-- BLOG-POST-LIST:END -->
 
