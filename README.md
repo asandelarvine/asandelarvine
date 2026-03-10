@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to fix the encoding/newline/whitespace noise that pollutes your diffs](https://dev.to/michael_rawlsjr_8cf4c0/i-built-a-cli-to-fix-the-encodingnewlinewhitespace-noise-that-pollutes-your-diffs-4da5)
-- [Understanding Word2Vec – Part 5: How Training Creates Word Embeddings](https://dev.to/rijultp/understanding-word2vec-part-5-how-training-creates-word-embeddings-14a4)
-- [Portainer vs Lazydocker: Which Docker UI?](https://dev.to/selfhostingsh/portainer-vs-lazydocker-which-docker-ui-4oge)
-- [Why Engineers Stop Using GitHub Copilot &lpar;And What Actually Fixes It&rpar;](https://dev.to/askpatrick/why-engineers-stop-using-github-copilot-and-what-actually-fixes-it-3ol)
+- [How I Built a VTU SGPA Calculator Using JavaScript](https://dev.to/krishna_sapkota/how-i-built-a-vtu-sgpa-calculator-using-javascript-22po)
+- [I built an open-source S3-native Kafka alternative. Here&#39;s how it works under the hoo](https://dev.to/gb_e9da03296321/i-built-an-open-source-s3-native-kafka-alternative-heres-how-it-works-under-the-hoo-gm9)
+- [Building a Live Adversarial Arena for AI Safety Testing](https://dev.to/alexgardenmnemom/building-a-live-adversarial-arena-for-ai-safety-testing-14db)
+- [What is Generative Engine Optimization &lpar;GEO&rpar; and Why Your Brand is Invisible to AI](https://dev.to/fay_/what-is-generative-engine-optimization-geo-and-why-your-brand-is-invisible-to-ai-1il9)
 <!-- BLOG-POST-LIST:END -->
 
