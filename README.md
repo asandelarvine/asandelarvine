@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What do you call a developer that doesn&#39;t reply? A seen-ior developer](https://dev.to/highcenburg/what-do-you-call-a-developer-that-doesnt-reply-a-seen-ior-developer-3fl1)
-- [How to Visualize Multiple Overlapping Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-multiple-overlapping-routes-on-a-leaflet-map-16ni)
-- [Rejected but Not Defeated: Continuing My Journey Toward AWS Community Builders](https://dev.to/cardinal_seen/rejected-but-not-defeated-continuing-my-journey-toward-aws-community-builders-g8c)
-- [Java Security](https://dev.to/drsimplegraffiti/java-security-4lcf)
+- [6 Best FinOps Practices for Cloud Cost Allocation](https://dev.to/khushi_dubey/6-best-finops-practices-for-cloud-cost-allocation-2a2j)
+- [From €1.99 to Direct Contact With Montenegro’s Ex-President: a Security Story](https://dev.to/alexander_nadrilyanski/from-eu199-to-direct-contact-with-montenegros-ex-president-a-security-story-27f7)
+- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
+- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
 <!-- BLOG-POST-LIST:END -->
 
