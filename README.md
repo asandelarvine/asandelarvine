@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Systems: Orchestrating Azure AI Agents with Semantic Kernel](https://dev.to/bspann/multi-agent-systems-orchestrating-azure-ai-agents-with-semantic-kernel-58na)
-- [Too Many MCP Tools Make Agents Worse - Here’s How I Fixed It](https://dev.to/deathsaber/too-many-mcp-tools-make-agents-worse-heres-how-i-fixed-it-44n2)
-- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
-- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
+- [How Core Web Vitals Impact SEO Rankings: What the Data Shows](https://dev.to/apogeewatcher/how-core-web-vitals-impact-seo-rankings-what-the-data-shows-31ce)
+- [Got error msgpack on mac M2](https://dev.to/ugifractal/got-error-msgpack-on-mac-m2-1i56)
+- [How I built a hidden ARG inside a Deltarune fan site](https://dev.to/raaywasdead/how-i-built-a-hidden-arg-inside-a-deltarune-fan-site-28dn)
+- [The Missing Layer in the SaaS Stack: Capability Platforms](https://dev.to/aspantel/the-missing-layer-in-the-saas-stack-capability-platforms-1f20)
 <!-- BLOG-POST-LIST:END -->
 
