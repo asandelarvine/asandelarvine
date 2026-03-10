@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Core Web Vitals Impact SEO Rankings: What the Data Shows](https://dev.to/apogeewatcher/how-core-web-vitals-impact-seo-rankings-what-the-data-shows-31ce)
-- [Got error msgpack on mac M2](https://dev.to/ugifractal/got-error-msgpack-on-mac-m2-1i56)
-- [How I built a hidden ARG inside a Deltarune fan site](https://dev.to/raaywasdead/how-i-built-a-hidden-arg-inside-a-deltarune-fan-site-28dn)
-- [The Missing Layer in the SaaS Stack: Capability Platforms](https://dev.to/aspantel/the-missing-layer-in-the-saas-stack-capability-platforms-1f20)
+- [How I automated text dataset cleaning for ML training with AI &lpar;and why regex wasn&#39;t enough&rpar;](https://dev.to/lattanzi/how-i-automated-text-dataset-cleaning-for-ml-training-with-ai-and-why-regex-wasnt-enough-3h19)
+- [Dealing with flaky tests](https://dev.to/conw_y/dealing-with-flaky-tests-4d2e)
+- [Zero-effort offline static websites with Apptron](https://dev.to/progrium/zero-effort-offline-static-websites-with-apptron-47m6)
+- [Detecting Embedding Drift: The Silent Killer of RAG Accuracy](https://dev.to/dev-zc/detecting-embedding-drift-the-silent-killer-of-rag-accuracy-17md)
 <!-- BLOG-POST-LIST:END -->
 
