@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Claude Cowork](https://dev.to/aws-builders/securing-claude-cowork-1nnl)
-- [I Made Claude Code Think Before It Codes. Here&#39;s the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf)
-- [RxJS Subjects in the Angular Signals Era: Obsolete or Still Powerful?](https://dev.to/mayuri_jha_bc0b497f737276/rxjs-subjects-in-the-angular-signals-era-obsolete-or-still-powerful-2dh)
-- [40 Lines of Python to Fake a Serial Mouse](https://dev.to/jbinary/40-lines-of-python-to-fake-a-serial-mouse-5cob)
+- [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
+- [Portainer vs Dockge: Which Docker Manager?](https://dev.to/selfhostingsh/portainer-vs-dockge-which-docker-manager-2e24)
+- [Convert JSON to SQL Instantly – Free JSON to SQL Converter Tool for Developers](https://dev.to/ddaverse/convert-json-to-sql-instantly-free-json-to-sql-converter-tool-for-developers-1c98)
+- [gradle10](https://dev.to/query_filter_591122b53770/gradle10-1511)
 <!-- BLOG-POST-LIST:END -->
 
