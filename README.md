@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Reset Log #1 — Revising ML, DSA, and Fixing Knowledge Gaps](https://dev.to/casperday11/weekly-reset-log-1-revising-ml-dsa-and-fixing-knowledge-gaps-hlh)
-- [The 60-Year-Old Developer Who Broke Hacker News: This Is What Vibe Coding Actually Looks Like](https://dev.to/matthewhou/the-60-year-old-developer-who-broke-hacker-news-this-is-what-vibe-coding-actually-looks-like-11l7)
-- [Sift: Local Hybrid Search Without the Infrastructure Tax](https://dev.to/rupurt/sift-local-hybrid-search-without-the-infrastructure-tax-487n)
-- [Securing AI Agents: A Deep Dive into MCP Authorization](https://dev.to/thamindudev/securing-ai-agents-a-deep-dive-into-mcp-authorization-23m0)
+- [How AI and Custom Web Development Enhance Website Performance and UX](https://dev.to/vasundhara_infotech/how-ai-and-custom-web-development-enhance-website-performance-and-ux-273l)
+- [Why Your Docking Station Fails to Detect an External Monitor: A Deep Dive into Multi-Display Architecture](https://dev.to/wixom/why-your-docking-station-fails-to-detect-an-external-monitor-a-deep-dive-into-multi-display-51d9)
+- [Quantum Computing Will Break Your Kubernetes Clusters — Here&#39;s When and What To Do Now](https://dev.to/shamsher_khan/quantum-computing-will-break-your-kubernetes-clusters-heres-when-and-what-to-do-now-3koa)
+- [Extract Structured Data from Car Listings Using AI in .NET 10](https://dev.to/rahul1994jh/extract-structured-data-from-car-listings-using-ai-in-net-10-59g)
 <!-- BLOG-POST-LIST:END -->
 
