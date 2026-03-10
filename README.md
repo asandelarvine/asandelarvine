@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#1 – AWS Cloud Introduction](https://dev.to/dareosewa/1-aws-cloud-introduction-3083)
-- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
-- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
-- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
+- [Pocket Oracle: Building Your Mobile AI Command Center with Termux + Tmux](https://dev.to/hainanzhao/pocket-oracle-building-your-mobile-ai-command-center-with-termux-tmux-2id2)
+- [阿里开源 Qwen3.5-9B：9B 参数干翻 120B，小模型的 SOTA 时刻](https://dev.to/gary_yan_86eb77d35e0070f5/a-li-kai-yuan-qwen35-9b9b-can-shu-gan-fan-120bxiao-mo-xing-de-sota-shi-ke-j36)
+- [STREAM API INTERVIEW QUESTION](https://dev.to/bhu_kalki/stream-api-interview-question-3b7h)
+- [Part 2: Building the Engine — Tools, URIs, and the Art of Indexing FHIR](https://dev.to/chaets/part-2-building-the-engine-tools-uris-and-the-art-of-indexing-fhir-fi1)
 <!-- BLOG-POST-LIST:END -->
 
