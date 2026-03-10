@@ -79,9 +79,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
-- [How I Built a Military-Grade GPS App with React Native — Zero Cloud, Zero Tracking, $3.99](https://dev.to/gianlo_ranieri/how-i-built-a-military-grade-gps-app-with-react-native-zero-cloud-zero-tracking-399-2klf)
-- [I Built a Markdown Linter in Go — Here&#39;s How It Stacks Up Against markdownlint and remark-lint](https://dev.to/_402ccbd6e5cb02871506/i-built-a-markdown-linter-in-go-heres-how-it-stacks-up-against-markdownlint-and-remark-lint-4b6i)
-- [Building a Rails Engine #9 -- Building the UI with Phlex &amp; Tailwind](https://dev.to/seryllns_/building-a-rails-engine-9-building-the-ui-with-phlex-tailwind-1mn6)
+- [If your trading bot uses market hours, you have a hidden liquidation bug today.](https://dev.to/lembagang/if-your-trading-bot-uses-market-hours-you-have-a-hidden-liquidation-bug-today-23a3)
+- [What happens when you treat AI CLIs as LLM backends](https://dev.to/jfarcand/what-happens-when-you-treat-ai-clis-as-llm-backends-k0h)
+- [Unlocking Profit Margins: The Operational Secret of Product Bundling and Kitting](https://dev.to/millietechinsights/unlocking-profit-margins-the-operational-secret-of-product-bundling-and-kitting-3hm3)
+- [Recently, I tried to inspect our Dockerfile to understand our container setup.
+
+But there wasn’t one.
+
+Instead, we were using Jib - a tool that builds optimized Java container images without Dockerfiles or even Docker.
+
+Here’s a complete deep dive 👇](https://dev.to/apoorvtyagi/recently-i-tried-to-inspect-our-dockerfile-to-understand-our-container-setup-but-there-wasnt-1fi0)
 <!-- BLOG-POST-LIST:END -->
 
