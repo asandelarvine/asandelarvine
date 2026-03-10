@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken Authentication in Fintech Systems](https://dev.to/tech_wizard/broken-authentication-in-fintech-systems-5592)
-- [Why Hospitals Are Switching to Cloud-Based HMIS in 2026](https://dev.to/sisgaintech/why-hospitals-are-switching-to-cloud-based-hmis-in-2026-ibj)
-- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
-- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
+- [I Built a Self-Hosted Web Layer for AI Agents](https://dev.to/fay_/i-built-a-self-hosted-web-layer-for-ai-agents-2gah)
+- [Deniability Engineering: How Leaders Delegate Blame but Centralize Power](https://dev.to/abdulosman/deniability-engineering-how-leaders-delegate-blame-but-centralize-power-2e68)
+- [How Testing Has Evolved: Life Before Cypress, With Cypress Today, and the Future of Testing](https://dev.to/john_chima_d8530cec771dc7/how-testing-has-evolved-life-before-cypress-with-cypress-today-and-the-future-of-testing-d3e)
+- [How I Built My First ML Engineering Project And Got Noticed](https://dev.to/talha_t_76898bb5ac8d3f366/how-i-built-my-first-ml-engineering-project-and-got-noticed-56cn)
 <!-- BLOG-POST-LIST:END -->
 
