@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Hosted Web Layer for AI Agents](https://dev.to/fay_/i-built-a-self-hosted-web-layer-for-ai-agents-2gah)
-- [Deniability Engineering: How Leaders Delegate Blame but Centralize Power](https://dev.to/abdulosman/deniability-engineering-how-leaders-delegate-blame-but-centralize-power-2e68)
-- [How Testing Has Evolved: Life Before Cypress, With Cypress Today, and the Future of Testing](https://dev.to/john_chima_d8530cec771dc7/how-testing-has-evolved-life-before-cypress-with-cypress-today-and-the-future-of-testing-d3e)
-- [How I Built My First ML Engineering Project And Got Noticed](https://dev.to/talha_t_76898bb5ac8d3f366/how-i-built-my-first-ml-engineering-project-and-got-noticed-56cn)
+- [Zero-Friction Publishing: A Human-in-the-Loop Agentic CMS powered by Notion MCP](https://dev.to/lwgena/zero-friction-publishing-a-human-in-the-loop-agentic-cms-powered-by-notion-mcp-12nn)
+- [The AI Cold Start That Breaks Kubernetes Autoscaling](https://dev.to/namratha_3/the-ai-cold-start-that-breaks-kubernetes-autoscaling-280n)
+- [Data Paradigms for the Agent Era: From Human-Readable to AI-Understandable](https://dev.to/andrew202510/data-paradigms-for-the-agent-era-from-human-readable-to-ai-understandable-535)
+- [Understanding Core React Hooks with Practical Examples](https://dev.to/addwebsolutionpvtltd/understanding-core-react-hooks-with-practical-examples-1okn)
 <!-- BLOG-POST-LIST:END -->
 
