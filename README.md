@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2PC vs Saga](https://dev.to/xrs0/2pc-vs-saga-l23)
-- [MVI as a Unifying Architecture Pattern Across KMP, SwiftUI, and Compose: Implementing a Shared State Machine](https://dev.to/software_mvp-factory/mvi-as-a-unifying-architecture-pattern-across-kmp-swiftui-and-compose-implementing-a-shared-1bim)
-- [How to Get Your First 1,000 Users to Actually Come Back](https://dev.to/alichherawalla/how-to-get-your-first-1000-users-to-actually-come-back-2jj)
-- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
+- [What do you call a developer that doesn&#39;t reply? A seen-ior developer](https://dev.to/highcenburg/what-do-you-call-a-developer-that-doesnt-reply-a-seen-ior-developer-3fl1)
+- [How to Visualize Multiple Overlapping Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-multiple-overlapping-routes-on-a-leaflet-map-16ni)
+- [Rejected but Not Defeated: Continuing My Journey Toward AWS Community Builders](https://dev.to/cardinal_seen/rejected-but-not-defeated-continuing-my-journey-toward-aws-community-builders-g8c)
+- [Java Security](https://dev.to/drsimplegraffiti/java-security-4lcf)
 <!-- BLOG-POST-LIST:END -->
 
