@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini API Key Policy: What Changed and How to Fix Your Agent Workflows](https://dev.to/victorstackai/gemini-api-key-policy-what-changed-and-how-to-fix-your-agent-workflows-3lp5)
-- [web development lover](https://dev.to/__adcee71502cc99/web-development-lover-1idb)
-- [AI Coding Tip 010 - Access All Your Code](https://dev.to/mcsee/ai-coding-tip-010-access-all-your-code-3ocp)
-- [I built an AI-powered 3D showroom for e-commerce using Three.js](https://dev.to/mmsoftstudio/i-built-an-ai-powered-3d-showroom-for-e-commerce-using-threejs-4hf5)
+- [I built a CLI to fix the encoding/newline/whitespace noise that pollutes your diffs](https://dev.to/michael_rawlsjr_8cf4c0/i-built-a-cli-to-fix-the-encodingnewlinewhitespace-noise-that-pollutes-your-diffs-4da5)
+- [Understanding Word2Vec – Part 5: How Training Creates Word Embeddings](https://dev.to/rijultp/understanding-word2vec-part-5-how-training-creates-word-embeddings-14a4)
+- [Portainer vs Lazydocker: Which Docker UI?](https://dev.to/selfhostingsh/portainer-vs-lazydocker-which-docker-ui-4oge)
+- [Why Engineers Stop Using GitHub Copilot &lpar;And What Actually Fixes It&rpar;](https://dev.to/askpatrick/why-engineers-stop-using-github-copilot-and-what-actually-fixes-it-3ol)
 <!-- BLOG-POST-LIST:END -->
 
