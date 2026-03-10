@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy-Pasting HTTP Fakes by Hand? Laravel Http Automock Can Do It For You](https://dev.to/michiruf/copy-pasting-http-fakes-by-hand-laravel-http-automock-can-do-it-for-you-kok)
-- [Portainer vs Dockge: Which Docker Manager?](https://dev.to/selfhostingsh/portainer-vs-dockge-which-docker-manager-2e24)
-- [Convert JSON to SQL Instantly – Free JSON to SQL Converter Tool for Developers](https://dev.to/ddaverse/convert-json-to-sql-instantly-free-json-to-sql-converter-tool-for-developers-1c98)
-- [gradle10](https://dev.to/query_filter_591122b53770/gradle10-1511)
+- [Gemini API Key Policy: What Changed and How to Fix Your Agent Workflows](https://dev.to/victorstackai/gemini-api-key-policy-what-changed-and-how-to-fix-your-agent-workflows-3lp5)
+- [web development lover](https://dev.to/__adcee71502cc99/web-development-lover-1idb)
+- [AI Coding Tip 010 - Access All Your Code](https://dev.to/mcsee/ai-coding-tip-010-access-all-your-code-3ocp)
+- [I built an AI-powered 3D showroom for e-commerce using Three.js](https://dev.to/mmsoftstudio/i-built-an-ai-powered-3d-showroom-for-e-commerce-using-threejs-4hf5)
 <!-- BLOG-POST-LIST:END -->
 
