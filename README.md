@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Best FinOps Practices for Cloud Cost Allocation](https://dev.to/khushi_dubey/6-best-finops-practices-for-cloud-cost-allocation-2a2j)
-- [From €1.99 to Direct Contact With Montenegro’s Ex-President: a Security Story](https://dev.to/alexander_nadrilyanski/from-eu199-to-direct-contact-with-montenegros-ex-president-a-security-story-27f7)
-- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
-- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
+- [Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me](https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib)
+- [How I Built a Military-Grade GPS App with React Native — Zero Cloud, Zero Tracking, $3.99](https://dev.to/gianlo_ranieri/how-i-built-a-military-grade-gps-app-with-react-native-zero-cloud-zero-tracking-399-2klf)
+- [I Built a Markdown Linter in Go — Here&#39;s How It Stacks Up Against markdownlint and remark-lint](https://dev.to/_402ccbd6e5cb02871506/i-built-a-markdown-linter-in-go-heres-how-it-stacks-up-against-markdownlint-and-remark-lint-4b6i)
+- [Building a Rails Engine #9 -- Building the UI with Phlex &amp; Tailwind](https://dev.to/seryllns_/building-a-rails-engine-9-building-the-ui-with-phlex-tailwind-1mn6)
 <!-- BLOG-POST-LIST:END -->
 
