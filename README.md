@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers Beware: This Fake LinkedIn Interview Campaign is Targeting YOU &lpar;And Your SSH Keys&rpar;](https://dev.to/harispeter13/developers-beware-this-fake-linkedin-interview-campaign-is-targeting-you-and-your-ssh-keys-5545)
-- [Free Minecraft Server Status API: Build Dashboards, Bots, and Widgets](https://dev.to/draginox/free-minecraft-server-status-api-build-dashboards-bots-and-widgets-4f9m)
-- [Series: Building Cloud Call Centres with Vonage APIs — Day 2 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-2-of-30-31om)
-- [I Thought My Rails Query Was Fine — Until NULL Ate My Data](https://dev.to/pavelmyslik/i-thought-my-rails-query-was-fine-until-null-ate-my-data-13ca)
+- [I Spent 11 Hours Self-Hosting n8n on a VPS. Here&#39;s What It Actually Costs You](https://dev.to/farrukh_tariq_b2d419a76cf/i-spent-11-hours-self-hosting-n8n-on-a-vps-heres-what-it-actually-costs-you-52i1)
+- [VS Code Weekly: Microsoft Moves to Weekly Releases Starting with v1.111](https://dev.to/htekdev/vs-code-weekly-microsoft-moves-to-weekly-releases-starting-with-v1111-34en)
+- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-dln)
+- [JavaScript Promise.](https://dev.to/monicah/javascript-promise-12j7)
 <!-- BLOG-POST-LIST:END -->
 
