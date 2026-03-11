@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulate a Moving Fleet on Real Roads Before You Have a Single Real Vehicle](https://dev.to/ivannovazzi/simulate-a-moving-fleet-on-real-roads-before-you-have-a-single-real-vehicle-57gh)
-- [JelloOS: Assistive Tech Without Barriers](https://dev.to/vrfrequency/jelloos-assistive-tech-without-barriers-2kck)
-- [Why I Built RDX: Bringing Modern &quot;Docs-as-Code&quot; to the Rust Ecosystem](https://dev.to/farhansyah/why-i-built-rdx-bringing-modern-docs-as-code-to-the-rust-ecosystem-49f1)
-- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
+- [Challenge: iOS App from Zero to a Friend&#39;s Phone in 1 Hour](https://dev.to/cathylai/challenge-ios-app-from-zero-to-a-friends-phone-in-1-hour-4gfo)
+- [AI News 자동 포스팅 시스템 가동](https://dev.to/ji_ai/ai-news-jadong-poseuting-siseutem-gadong-12po)
+- [What Google DeepMind Gets Right About Agent Delegation — And What SatGate Already Built](https://dev.to/mattdeangit/what-google-deepmind-gets-right-about-agent-delegation-and-what-satgate-already-built-3e0a)
+- [Give Your AI a Place for Its Visual Output](https://dev.to/dylanfeltus/give-your-ai-a-place-for-its-visual-output-280m)
 <!-- BLOG-POST-LIST:END -->
 
