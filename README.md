@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
-- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
-- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
-- [How to Install PostgreSQL for beginners: A step by step guide.](https://dev.to/kithokoi/how-to-install-postgresql-for-beginners-a-step-by-step-guide-480b)
+- [Simulate a Moving Fleet on Real Roads Before You Have a Single Real Vehicle](https://dev.to/ivannovazzi/simulate-a-moving-fleet-on-real-roads-before-you-have-a-single-real-vehicle-57gh)
+- [JelloOS: Assistive Tech Without Barriers](https://dev.to/vrfrequency/jelloos-assistive-tech-without-barriers-2kck)
+- [Why I Built RDX: Bringing Modern &quot;Docs-as-Code&quot; to the Rust Ecosystem](https://dev.to/farhansyah/why-i-built-rdx-bringing-modern-docs-as-code-to-the-rust-ecosystem-49f1)
+- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
 <!-- BLOG-POST-LIST:END -->
 
