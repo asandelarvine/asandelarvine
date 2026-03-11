@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Voice-bot for L1 Support: Architecture, Orchestration &amp; Integration Guide](https://dev.to/ecosmob_technologies/building-an-ai-voice-bot-for-l1-supportarchitecture-orchestration-integration-guide-1npk)
-- [Designing S3 File Storage with Claude Code: Presigned URLs, Virus Scanning, CDN Delivery](https://dev.to/myougatheaxo/designing-s3-file-storage-with-claude-code-presigned-urls-virus-scanning-cdn-delivery-5da9)
-- [Day 6 of Building Conjure: First Draft of Recommendation Algorithm](https://dev.to/sankalpdev/day-6-of-building-conjure-first-draft-of-recommendation-algorithm-15db)
-- [Remembering Sir Tony Hoare: A Masterclass in Lifelong Learning](https://dev.to/priyabratapaul/remembering-sir-tony-hoare-a-masterclass-in-lifelong-learning-56l8)
+- [Beyond Basic Types: Mastering TypeScript&#39;s Advanced Type System for Robust Applications](https://dev.to/midas126/beyond-basic-types-mastering-typescripts-advanced-type-system-for-robust-applications-29ld)
+- [Kafka FinOps: How to Do Chargeback Reporting](https://dev.to/umbrincraft/kafka-finops-how-to-do-chargeback-reporting-8g8)
+- [What can&#39;t be known by Superintelligence AI &lpar;ASI&rpar;, simulation or not: future, purpose](https://dev.to/ygo/what-cant-be-known-by-superintelligence-ai-asi-simulation-or-not-future-purpose-162d)
+- [How I Built a Secure Reverse Proxy with Nginx](https://dev.to/meowth/how-i-built-a-secure-reverse-proxy-with-nginx-471o)
 <!-- BLOG-POST-LIST:END -->
 
