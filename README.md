@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated text dataset cleaning for ML training with AI &lpar;and why regex wasn&#39;t enough&rpar;](https://dev.to/lattanzi/how-i-automated-text-dataset-cleaning-for-ml-training-with-ai-and-why-regex-wasnt-enough-3h19)
-- [Dealing with flaky tests](https://dev.to/conw_y/dealing-with-flaky-tests-4d2e)
-- [Zero-effort offline static websites with Apptron](https://dev.to/progrium/zero-effort-offline-static-websites-with-apptron-47m6)
-- [Detecting Embedding Drift: The Silent Killer of RAG Accuracy](https://dev.to/dev-zc/detecting-embedding-drift-the-silent-killer-of-rag-accuracy-17md)
+- [GoogleCloudPlatform/generative-ai: Google 공식 생성형 AI 깃헙 리포지토리 완벽 가이드](https://dev.to/_46ea277e677b888e0cd13/googlecloudplatformgenerative-ai-google-gongsig-saengseonghyeong-ai-gisheob-ripojitori-wanbyeog-gaideu-81)
+- [ByteDance의 DeerFlow 2.0 써봤는데, 에이전트 프레임워크가 이 정도까지 왔네요](https://dev.to/_46ea277e677b888e0cd13/bytedanceyi-deerflow-20-sseobwassneunde-eijeonteu-peureimweokeuga-i-jeongdoggaji-wassneyo-nb9)
+- [1Code: Managing Multiple AI Coding Agents Without Terminal Hell](https://dev.to/_46ea277e677b888e0cd13/1code-managing-multiple-ai-coding-agents-without-terminal-hell-14o4)
+- [Claude Code vs Codex 2026 — What 500+ Reddit Developers Really Think](https://dev.to/_46ea277e677b888e0cd13/claude-code-vs-codex-2026-what-500-reddit-developers-really-think-31pb)
 <!-- BLOG-POST-LIST:END -->
 
