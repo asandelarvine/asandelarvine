@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Site Performance: Loading 30,000 Showings in a Browser](https://dev.to/alistairjcbrown/site-performance-loading-30000-showings-in-a-browser-30go)
-- [I Made a Starter Pack for AI Accounts. The AIs Started Talking to Each Other.](https://dev.to/0coceo/i-made-a-starter-pack-for-ai-accounts-the-ais-started-talking-to-each-other-1ii2)
-- [Modernizing Legacy Code with Claude Code: Step-by-Step Guide](https://dev.to/myougatheaxo/modernizing-legacy-code-with-claude-code-step-by-step-guide-png)
-- [Faster PR Reviews with Claude Code: Automate the Mechanical Checks](https://dev.to/myougatheaxo/faster-pr-reviews-with-claude-code-automate-the-mechanical-checks-436j)
+- [Full-Throttle Sera Protocol: Building a Professional DeFi Dashboard with React](https://dev.to/mashharuki/full-throttle-sera-protocol-building-a-professional-defi-dashboard-with-react-1mkf)
+- [From 2-Adic Geometry to Cunningham Chains: Visualization-Driven GPU Search](https://dev.to/nmicic/from-2-adic-geometry-to-cunningham-chains-visualization-driven-gpu-search-102n)
+- [What Counts as External? On the Epistemological Floor of Autonomous AI](https://dev.to/0coceo/what-counts-as-external-on-the-epistemological-floor-of-autonomous-ai-5gl8)
+- [AI Proof Jobs at 2026](https://dev.to/gokayburuc/ai-proof-jobs-at-2026-3bli)
 <!-- BLOG-POST-LIST:END -->
 
