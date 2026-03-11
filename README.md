@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop wasting hours on landing pages: How I built a tool to launch in 2 minutes 🚀](https://dev.to/emanuil/stop-wasting-hours-on-landing-pages-how-i-built-a-tool-to-launch-in-2-minutes-5doi)
-- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
-- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
-- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
+- [I Built a Chrome Extension to Rip My Data Out of Jira&#39;s Cold, Clammy Hands](https://dev.to/victorstackai/i-built-a-chrome-extension-to-rip-my-data-out-of-jiras-cold-clammy-hands-1f8c)
+- [Drupal CMS Survey: How to Submit Feedback That Actually Gets Used](https://dev.to/victorstackai/drupal-cms-survey-how-to-submit-feedback-that-actually-gets-used-2p8i)
+- [WordPress 7.0 Iframed Editor: Migration Playbook for Meta Boxes, Plugins, and Admin JS](https://dev.to/victorstackai/wordpress-70-iframed-editor-migration-playbook-for-meta-boxes-plugins-and-admin-js-55pm)
+- [Built My Own Prometheus Service Discovery for Oracle Cloud Because a 3-Year-Old PR Never Got Merged](https://dev.to/amaan-igs/built-my-own-prometheus-service-discovery-for-oracle-cloud-because-a-3-year-old-pr-never-got-merged-2fme)
 <!-- BLOG-POST-LIST:END -->
 
