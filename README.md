@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Dev.to 👋 — I&#39;m a .NET Developer Exploring AI and Modern Backend Development](https://dev.to/khushali_ai_dev/hello-devto-im-a-net-developer-exploring-ai-and-modern-backend-development-2m09)
-- [I Scanned 11,000+ Prediction Markets for Arbitrage — Here&#39;s What I Found](https://dev.to/vesper_finch/i-scanned-11000-prediction-markets-for-arbitrage-heres-what-i-found-35i3)
-- [I Logged 1 Million Requests to My Server — Here&#39;s What I Found](https://dev.to/meowth/i-logged-1-million-requests-to-my-server-heres-what-i-found-3i24)
-- [I got tired of every productivity planner assuming I drink green smoothies and journal about my feelings](https://dev.to/theflowforgestudio/i-got-tired-of-every-productivity-planner-assuming-i-drink-green-smoothies-and-journal-about-my-199)
+- [Criando IA para Jogos 2D com uma Arquitetura Orientada a Fluxos](https://dev.to/alairjt/criando-ia-para-jogos-2d-com-uma-arquitetura-orientada-a-fluxos-2c34)
+- [Small Lessons I Learned While Starting Open Source Contributions](https://dev.to/vishal-prajapati17/small-lessons-i-learned-while-starting-open-source-contributions-oo2)
+- [Dominando a Física de TileMaps no Godot 4: Construindo Plataformas Sólidas e Unidirecionais com GDScript](https://dev.to/alairjt/dominando-a-fisica-de-tilemaps-no-godot-4-construindo-plataformas-solidas-e-unidirecionais-com-1ooj)
+- [You&#39;re Overusing useEffect. Here&#39;s How to Fix It.](https://dev.to/bishoy_bishai/youre-overusing-useeffect-heres-how-to-fix-it-2p01)
 <!-- BLOG-POST-LIST:END -->
 
