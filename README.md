@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Chat: A Developer&#39;s Guide to Building with AI Agents](https://dev.to/midas126/beyond-the-chat-a-developers-guide-to-building-with-ai-agents-165)
-- [CubeAPM: A Modern Datadog Alternative for Cost, Control, and Scalable Observability](https://dev.to/cubeapm/cubeapm-a-modern-datadog-alternative-for-cost-control-and-scalable-observability-3d69)
-- [I Built 6 Free Dev Tools — Here&#39;s What I Learned](https://dev.to/klaw_gulp_9cb0f246c05d21b/i-built-6-free-dev-tools-heres-what-i-learned-g5h)
-- [ASP.NET Core Request Pipeline Explained: What Happens When an API Receives a Request](https://dev.to/alinabi19/aspnet-core-request-pipeline-explained-what-happens-when-an-api-receives-a-request-7p1)
+- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
+- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
+- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
+- [How to Install PostgreSQL for beginners: A step by step guide.](https://dev.to/kithokoi/how-to-install-postgresql-for-beginners-a-step-by-step-guide-480b)
 <!-- BLOG-POST-LIST:END -->
 
