@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Chainlink Price Feeds Work — and When They Can Be Manipulated](https://dev.to/metadevdigital/how-chainlink-price-feeds-work-and-when-they-can-be-manipulated-2hi7)
-- [I Gave My AI Assistant Permanent Memory — Here&#39;s Exactly How](https://dev.to/jeffwitters/i-gave-my-ai-assistant-permanent-memory-heres-exactly-how-1g8l)
-- [Selenium for Automation Testing Using Python](https://dev.to/sri_ram_af45956066fca623f/selenium-for-automation-testing-using-python-b8p)
-- [Seafile vs Syncthing: Server vs Peer-to-Peer](https://dev.to/selfhostingsh/seafile-vs-syncthing-server-vs-peer-to-peer-1om0)
+- [Beyond the Chat: A Developer&#39;s Guide to Building with AI Agents](https://dev.to/midas126/beyond-the-chat-a-developers-guide-to-building-with-ai-agents-165)
+- [CubeAPM: A Modern Datadog Alternative for Cost, Control, and Scalable Observability](https://dev.to/cubeapm/cubeapm-a-modern-datadog-alternative-for-cost-control-and-scalable-observability-3d69)
+- [I Built 6 Free Dev Tools — Here&#39;s What I Learned](https://dev.to/klaw_gulp_9cb0f246c05d21b/i-built-6-free-dev-tools-heres-what-i-learned-g5h)
+- [ASP.NET Core Request Pipeline Explained: What Happens When an API Receives a Request](https://dev.to/alinabi19/aspnet-core-request-pipeline-explained-what-happens-when-an-api-receives-a-request-7p1)
 <!-- BLOG-POST-LIST:END -->
 
