@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando IA para Jogos 2D com uma Arquitetura Orientada a Fluxos](https://dev.to/alairjt/criando-ia-para-jogos-2d-com-uma-arquitetura-orientada-a-fluxos-2c34)
-- [Small Lessons I Learned While Starting Open Source Contributions](https://dev.to/vishal-prajapati17/small-lessons-i-learned-while-starting-open-source-contributions-oo2)
-- [Dominando a Física de TileMaps no Godot 4: Construindo Plataformas Sólidas e Unidirecionais com GDScript](https://dev.to/alairjt/dominando-a-fisica-de-tilemaps-no-godot-4-construindo-plataformas-solidas-e-unidirecionais-com-1ooj)
-- [You&#39;re Overusing useEffect. Here&#39;s How to Fix It.](https://dev.to/bishoy_bishai/youre-overusing-useeffect-heres-how-to-fix-it-2p01)
+- [Developers Beware: This Fake LinkedIn Interview Campaign is Targeting YOU &lpar;And Your SSH Keys&rpar;](https://dev.to/harispeter13/developers-beware-this-fake-linkedin-interview-campaign-is-targeting-you-and-your-ssh-keys-5545)
+- [Free Minecraft Server Status API: Build Dashboards, Bots, and Widgets](https://dev.to/draginox/free-minecraft-server-status-api-build-dashboards-bots-and-widgets-4f9m)
+- [Series: Building Cloud Call Centres with Vonage APIs — Day 2 of 30](https://dev.to/shashi_kiran_bcfdbb223140/series-building-cloud-call-centres-with-vonage-apis-day-2-of-30-31om)
+- [I Thought My Rails Query Was Fine — Until NULL Ate My Data](https://dev.to/pavelmyslik/i-thought-my-rails-query-was-fine-until-null-ate-my-data-13ca)
 <!-- BLOG-POST-LIST:END -->
 
