@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GoogleCloudPlatform/generative-ai: Google 공식 생성형 AI 깃헙 리포지토리 완벽 가이드](https://dev.to/_46ea277e677b888e0cd13/googlecloudplatformgenerative-ai-google-gongsig-saengseonghyeong-ai-gisheob-ripojitori-wanbyeog-gaideu-81)
-- [ByteDance의 DeerFlow 2.0 써봤는데, 에이전트 프레임워크가 이 정도까지 왔네요](https://dev.to/_46ea277e677b888e0cd13/bytedanceyi-deerflow-20-sseobwassneunde-eijeonteu-peureimweokeuga-i-jeongdoggaji-wassneyo-nb9)
-- [1Code: Managing Multiple AI Coding Agents Without Terminal Hell](https://dev.to/_46ea277e677b888e0cd13/1code-managing-multiple-ai-coding-agents-without-terminal-hell-14o4)
-- [Claude Code vs Codex 2026 — What 500+ Reddit Developers Really Think](https://dev.to/_46ea277e677b888e0cd13/claude-code-vs-codex-2026-what-500-reddit-developers-really-think-31pb)
+- [Dependency Injection with Claude Code: Testable TypeScript Without DI Containers](https://dev.to/myougatheaxo/dependency-injection-with-claude-code-testable-typescript-without-di-containers-18d9)
+- [What I Learned About Enterprise WordPress Security](https://dev.to/mdismail_e830c2c4f43ae37/what-i-learned-about-enterprise-wordpress-security-1n4l)
+- [From Zero Coding Knowledge to Full-Stack Developer](https://dev.to/rehmanstackdev/from-zero-coding-knowledge-to-full-stack-developer-pll)
+- [API Versioning with Claude Code: Evolving APIs Without Breaking Clients](https://dev.to/myougatheaxo/api-versioning-with-claude-code-evolving-apis-without-breaking-clients-7d1)
 <!-- BLOG-POST-LIST:END -->
 
