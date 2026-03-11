@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 11 Hours Self-Hosting n8n on a VPS. Here&#39;s What It Actually Costs You](https://dev.to/farrukh_tariq_b2d419a76cf/i-spent-11-hours-self-hosting-n8n-on-a-vps-heres-what-it-actually-costs-you-52i1)
-- [VS Code Weekly: Microsoft Moves to Weekly Releases Starting with v1.111](https://dev.to/htekdev/vs-code-weekly-microsoft-moves-to-weekly-releases-starting-with-v1111-34en)
-- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-dln)
-- [JavaScript Promise.](https://dev.to/monicah/javascript-promise-12j7)
+- [Open Source Minecraft Server Tools: Why We Built ServerHub and What We Learned](https://dev.to/draginox/open-source-minecraft-server-tools-why-we-built-serverhub-and-what-we-learned-1ldo)
+- [Worst Case Scenario - an online minigame](https://dev.to/lnlenost/worst-case-scenario-an-online-minigame-1089)
+- [Things I Wish I Knew Before Becoming a Web Developer](https://dev.to/micro-chel/things-i-wish-i-knew-before-becoming-a-web-developer-3k8j)
+- [I Built a Free API That Scans 10,000+ Prediction Markets for Arbitrage](https://dev.to/vesper_finch/i-built-a-free-api-that-scans-10000-prediction-markets-for-arbitrage-4kmm)
 <!-- BLOG-POST-LIST:END -->
 
