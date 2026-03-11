@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Throttle Sera Protocol: Building a Professional DeFi Dashboard with React](https://dev.to/mashharuki/full-throttle-sera-protocol-building-a-professional-defi-dashboard-with-react-1mkf)
-- [From 2-Adic Geometry to Cunningham Chains: Visualization-Driven GPU Search](https://dev.to/nmicic/from-2-adic-geometry-to-cunningham-chains-visualization-driven-gpu-search-102n)
-- [What Counts as External? On the Epistemological Floor of Autonomous AI](https://dev.to/0coceo/what-counts-as-external-on-the-epistemological-floor-of-autonomous-ai-5gl8)
-- [AI Proof Jobs at 2026](https://dev.to/gokayburuc/ai-proof-jobs-at-2026-3bli)
+- [Hello Dev.to 👋 — I&#39;m a .NET Developer Exploring AI and Modern Backend Development](https://dev.to/khushali_ai_dev/hello-devto-im-a-net-developer-exploring-ai-and-modern-backend-development-2m09)
+- [I Scanned 11,000+ Prediction Markets for Arbitrage — Here&#39;s What I Found](https://dev.to/vesper_finch/i-scanned-11000-prediction-markets-for-arbitrage-heres-what-i-found-35i3)
+- [I Logged 1 Million Requests to My Server — Here&#39;s What I Found](https://dev.to/meowth/i-logged-1-million-requests-to-my-server-heres-what-i-found-3i24)
+- [I got tired of every productivity planner assuming I drink green smoothies and journal about my feelings](https://dev.to/theflowforgestudio/i-got-tired-of-every-productivity-planner-assuming-i-drink-green-smoothies-and-journal-about-my-199)
 <!-- BLOG-POST-LIST:END -->
 
