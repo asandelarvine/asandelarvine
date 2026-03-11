@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Stem Splitter API Comparison 2026: StemSplit vs LALAL.AI vs Moises &lpar;With Benchmarks&rpar;](https://dev.to/stevecase430/ai-stem-splitter-api-comparison-2026-stemsplit-vs-lalalai-vs-moises-with-benchmarks-372l)
-- [I Open-Sourced a Figma-to-Avada Shortcode Converter &lpar;AI + Claude Code&rpar;](https://dev.to/andreata/i-open-sourced-a-figma-to-avada-shortcode-converter-ai-claude-code-4fdn)
-- [5 Simple Tips That Made Me a Better Web Developer](https://dev.to/micro-chel/5-simple-tips-that-made-me-a-better-web-developer-5ek2)
-- [Python&#39;s __slots__ can reduce memory usage by up to 50% for large object classes](https://dev.to/jeffrin-dev/pythons-slots-can-reduce-memory-usage-by-up-to-50-for-large-object-classes-18pi)
+- [How Chainlink Price Feeds Work — and When They Can Be Manipulated](https://dev.to/metadevdigital/how-chainlink-price-feeds-work-and-when-they-can-be-manipulated-2hi7)
+- [I Gave My AI Assistant Permanent Memory — Here&#39;s Exactly How](https://dev.to/jeffwitters/i-gave-my-ai-assistant-permanent-memory-heres-exactly-how-1g8l)
+- [Selenium for Automation Testing Using Python](https://dev.to/sri_ram_af45956066fca623f/selenium-for-automation-testing-using-python-b8p)
+- [Seafile vs Syncthing: Server vs Peer-to-Peer](https://dev.to/selfhostingsh/seafile-vs-syncthing-server-vs-peer-to-peer-1om0)
 <!-- BLOG-POST-LIST:END -->
 
