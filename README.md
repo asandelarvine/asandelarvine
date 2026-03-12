@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-i54)
-- [What Is Crash Recovery? How Process Managers Keep Your App Online After Failures](https://dev.to/empellio/what-is-crash-recovery-how-process-managers-keep-your-app-online-after-failures-j4o)
-- [Building an Anchor Output Fee Bumping Service — Part 5: CPFP Transactions and Broadcasting](https://dev.to/susangithaigan/building-an-anchor-output-fee-bumping-service-part-5-cpfp-transactions-and-broadcasting-2mpb)
-- [Structuring AI Microservices in Python](https://dev.to/masteringbackend/structuring-ai-microservices-in-python-29e1)
+- [How to Send GET and POST Requests in Postman?](https://dev.to/theodoresummer/how-to-send-get-and-post-requests-in-postman-38d5)
+- [Frontend interview questions you&#39;ll actually get in 2026](https://dev.to/bishoy_bishai/frontend-interview-questions-youll-actually-get-in-2026-1gon)
+- [Learning Python Was a Life-Changing Experience](https://dev.to/mennylevinski/learning-python-was-a-life-changing-experience-18ac)
+- [Fear of AI made me create my own product](https://dev.to/misterion96/fear-of-ai-made-me-create-my-own-product-47gh)
 <!-- BLOG-POST-LIST:END -->
 
