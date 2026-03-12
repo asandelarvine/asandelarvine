@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Zero-Copy Sharing – Salesforce Snowflake for Analytics](https://dev.to/swaroop_krishna_e2f4b83b2/part-1-zero-copy-sharing-salesforce-snowflake-for-analytics-4f0j)
-- [7 OpenClaw Security Challenges to Watch for in 2026](https://dev.to/digitalocean/7-openclaw-security-challenges-to-watch-for-in-2026-46b1)
-- [Sleep Better at Night: Why Unit Testing is Your Secret Weapon for Graded Units 🛡️](https://dev.to/xh1m/sleep-better-at-night-why-unit-testing-is-your-secret-weapon-for-hnd-graded-units-4ce6)
-- [AWS Amplify vs Vercel: Complete Pricing Comparison for Next.js Applications](https://dev.to/u11d-michal-miler/aws-amplify-vs-vercel-complete-pricing-comparison-for-nextjs-applications-1a48)
+- [I Stopped Posting on Twitter for 2 Months](https://dev.to/deeflect/i-stopped-posting-on-twitter-for-2-months-4l1p)
+- [UQL v0.3: the first TypeScript ORM with native Vector Search](https://dev.to/sonemonu/uql-v03-the-first-typescript-orm-with-native-vector-search-2hac)
+- [Optimizing Multi-Agent Costs on Bedrock: From ~$18 to ~$7 per Diabetes Report Run &lpar;Graph vs Swarm Comparison&rpar;](https://dev.to/aws-builders/how-i-cut-my-ai-medical-report-cost-from-18-to-7-and-what-i-learned-comparing-two-multi-agent-3ja6)
+- [We Benchmarked Claude&#39;s Code Review Tool. Here&#39;s What the Data Shows.](https://dev.to/nnennandukwe/we-benchmarked-claudes-code-review-tool-heres-what-the-data-shows-35b9)
 <!-- BLOG-POST-LIST:END -->
 
