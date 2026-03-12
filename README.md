@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HashMap Java](https://dev.to/nanthini_ammu_ac02ad32802/hashmap-java-28m9)
-- [𝗪𝗵𝘆 𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗨𝗜𝘀 𝗕𝗿𝗲𝗮𝗸 𝗮𝘁 𝗦𝗰𝗮𝗹𝗲 &lpar;𝗔𝗻𝗱 𝘁𝗵𝗲 𝟯 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗧𝗵𝗮𝘁 𝗔𝗹𝘄𝗮𝘆𝘀 𝗦𝘂𝗿𝘃𝗶𝘃𝗲 𝗟𝗼𝗮𝗱&rpar;](https://dev.to/ricardosaumeth/--2kie)
-- [Boost Team Productivity with Smart Markdown File Management: Essential Tools and Strategies for AI Workflow Documentation](https://dev.to/ilyatech/boost-team-productivity-with-smart-markdown-file-management-essential-tools-and-strategies-for-ai-1l0j)
-- [𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀 𝗕𝘂𝗴 𝗶𝗻 𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗜𝘀𝗻’𝘁 𝗮 𝗖𝗿𝗮𝘀𝗵 — 𝗜𝘁’𝘀 𝗮 𝗟𝗶𝗲](https://dev.to/ricardosaumeth/--5c7g)
+- [Building a Free AI Baby Name Generator with Next.js and Static Site Generation](https://dev.to/yunhan_dev/building-a-free-ai-baby-name-generator-with-nextjs-and-static-site-generation-52bh)
+- [Building my first AI lead generation SaaS &lpar;LeadIt&rpar; — MVP architecture](https://dev.to/knihal12/building-my-first-ai-lead-generation-saas-leadit-mvp-architecture-f1d)
+- [I Built an AI Legal OS with 60 Specialized Agents and Real-time Statute Verification](https://dev.to/peter_choe_74edfaa33306ed/i-built-an-ai-legal-os-with-60-specialized-agents-and-real-time-statute-verification-251g)
+- [How I Reduced My OpenAI API Bill by 40% While Building AI Apps](https://dev.to/krishna_mohan_4f7a5232697/how-i-reduced-my-openai-api-bill-by-40-while-building-ai-apps-1c81)
 <!-- BLOG-POST-LIST:END -->
 
