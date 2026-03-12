@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Posting on Twitter for 2 Months](https://dev.to/deeflect/i-stopped-posting-on-twitter-for-2-months-4l1p)
-- [UQL v0.3: the first TypeScript ORM with native Vector Search](https://dev.to/sonemonu/uql-v03-the-first-typescript-orm-with-native-vector-search-2hac)
-- [Optimizing Multi-Agent Costs on Bedrock: From ~$18 to ~$7 per Diabetes Report Run &lpar;Graph vs Swarm Comparison&rpar;](https://dev.to/aws-builders/how-i-cut-my-ai-medical-report-cost-from-18-to-7-and-what-i-learned-comparing-two-multi-agent-3ja6)
-- [We Benchmarked Claude&#39;s Code Review Tool. Here&#39;s What the Data Shows.](https://dev.to/nnennandukwe/we-benchmarked-claudes-code-review-tool-heres-what-the-data-shows-35b9)
+- [Why Perkoon Exists](https://dev.to/perkoon/why-perkoon-exists-3i8h)
+- [Stop Blocking the Event Loop: A Deep Dive into Node.js Worker Threads and Multithreading](https://dev.to/naveenhere/stop-blocking-the-event-loop-a-deep-dive-into-nodejs-worker-threads-and-multithreading-4hg)
+- [JADEx: A New Practical Null-Safety Solution for Java](https://dev.to/jadex/jadex-a-new-practical-null-safety-solution-for-java-5514)
+- [The X-Axis of Data: How BigQuery Models the Customer Dimension for Agentic AI Decisions](https://dev.to/ramavala/the-x-axis-of-data-how-bigquery-models-the-customer-dimension-for-agentic-ai-decisions-16jh)
 <!-- BLOG-POST-LIST:END -->
 
