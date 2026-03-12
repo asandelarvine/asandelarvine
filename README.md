@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a DVR for AI Agents: Episode Replay UI That Actually Works](https://dev.to/json_shotwell/build-a-dvr-for-ai-agents-episode-replay-ui-that-actually-works-ma8)
-- [When Proxies Become the Attack Vectors in Web Architectures](https://dev.to/praetorian_guard/when-proxies-become-the-attack-vectors-in-web-architectures-65c)
-- [ESLint can&#39;t catch this: 5 failure modes unique to AI-generated code &lpar;and how I detect them in CI&rpar;](https://dev.to/raye_deng_622ab98e19a2147/eslint-cant-catch-this-5-failure-modes-unique-to-ai-generated-code-and-how-i-detect-them-in-ci-hl)
-- [How to Automate OpenClaw Backup and Optimization with GitHub](https://dev.to/cristiantalasanchez/how-to-automate-openclaw-backup-and-optimization-with-github-1bh9)
+- [Part 1: Zero-Copy Sharing – Salesforce Snowflake for Analytics](https://dev.to/swaroop_krishna_e2f4b83b2/part-1-zero-copy-sharing-salesforce-snowflake-for-analytics-4f0j)
+- [7 OpenClaw Security Challenges to Watch for in 2026](https://dev.to/digitalocean/7-openclaw-security-challenges-to-watch-for-in-2026-46b1)
+- [Sleep Better at Night: Why Unit Testing is Your Secret Weapon for Graded Units 🛡️](https://dev.to/xh1m/sleep-better-at-night-why-unit-testing-is-your-secret-weapon-for-hnd-graded-units-4ce6)
+- [AWS Amplify vs Vercel: Complete Pricing Comparison for Next.js Applications](https://dev.to/u11d-michal-miler/aws-amplify-vs-vercel-complete-pricing-comparison-for-nextjs-applications-1a48)
 <!-- BLOG-POST-LIST:END -->
 
