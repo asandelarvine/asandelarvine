@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running code quality pipelines during AI coding workflows](https://dev.to/toni_antunovi_7d9a99d4fa/running-code-quality-pipelines-during-ai-coding-workflows-55l6)
-- [I built a Chrome extension that eliminates copy-pasting into ChatGPT](https://dev.to/helix_labs_dev/i-built-a-chrome-extension-that-eliminates-copy-pasting-into-chatgpt-123e)
-- [How Architecture Firms Are Using AI to Win More Design Competitions](https://dev.to/aitoolsreview3/how-architecture-firms-are-using-ai-to-win-more-design-competitions-5daf)
-- [How to Add a Form Wizard to Your Website &lpar;React, Angular, Vue, plain JS&rpar;](https://dev.to/surveyjs/how-to-add-a-form-wizard-to-your-website-react-angular-vue-plain-js-198d)
+- [XP-R — Technotes: Slowing Down to Scale: Building Context as a Force Multiplier](https://dev.to/alabex_/xp-r-technotes-slowing-down-to-scale-building-context-as-a-force-multiplier-4mof)
+- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
+- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
+- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
 <!-- BLOG-POST-LIST:END -->
 
