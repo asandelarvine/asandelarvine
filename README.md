@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents is hard. So I built a 12-step visual guide to make it easy](https://dev.to/howtoagent/building-ai-agents-is-hard-so-i-built-a-12-step-visual-guide-to-make-it-easy-4lpn)
-- [#11 Known is a drop! Method overriding in JAVA -part 1](https://dev.to/deepikandas/11-known-is-a-drop-method-overriding-in-java-part-1-2el9)
-- [Multi-Agent Validation: How to Stop AI Agents from Hallucinating Silently](https://dev.to/elizabethfuentes12/multi-agent-validation-how-to-stop-ai-agents-from-hallucinating-silently-18h1)
-- [A Practical Guide to Building MCP Apps](https://dev.to/ashita/a-practical-guide-to-building-mcp-apps-1bfm)
+- [Your Agents Are Burning Money on Duplicate API Calls &lpar;And You Can&#39;t See It&rpar;](https://dev.to/custodiaadmin/your-agents-are-burning-money-on-duplicate-api-calls-and-you-cant-see-it-328c)
+- [Day 6 of My Cloud Journey: Building Secure AWS Networks with VPC, VPC Peering &amp; Billing Alerts](https://dev.to/avinashwagh/day-6-of-my-cloud-journey-building-secure-aws-networks-with-vpc-vpc-peering-billing-alerts-4gk8)
+- [Your runbook says one thing. Your infra does another. When did you last compare them?](https://dev.to/jariase/your-runbook-says-one-thing-your-infra-does-another-when-did-you-last-compare-them-313f)
+- [I Built a Claude Plugin to Fix AI-Generated Interfaces&#39; User Experience.](https://dev.to/mistyhx/i-built-a-claude-plugin-to-fix-ai-generated-interfaces-user-experience-42m8)
 <!-- BLOG-POST-LIST:END -->
 
