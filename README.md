@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension to Rip My Data Out of Jira&#39;s Cold, Clammy Hands](https://dev.to/victorstackai/i-built-a-chrome-extension-to-rip-my-data-out-of-jiras-cold-clammy-hands-1f8c)
-- [Drupal CMS Survey: How to Submit Feedback That Actually Gets Used](https://dev.to/victorstackai/drupal-cms-survey-how-to-submit-feedback-that-actually-gets-used-2p8i)
-- [WordPress 7.0 Iframed Editor: Migration Playbook for Meta Boxes, Plugins, and Admin JS](https://dev.to/victorstackai/wordpress-70-iframed-editor-migration-playbook-for-meta-boxes-plugins-and-admin-js-55pm)
-- [Built My Own Prometheus Service Discovery for Oracle Cloud Because a 3-Year-Old PR Never Got Merged](https://dev.to/amaan-igs/built-my-own-prometheus-service-discovery-for-oracle-cloud-because-a-3-year-old-pr-never-got-merged-2fme)
+- [Building AI Agents is hard. So I built a 12-step visual guide to make it easy](https://dev.to/howtoagent/building-ai-agents-is-hard-so-i-built-a-12-step-visual-guide-to-make-it-easy-4lpn)
+- [#11 Known is a drop! Method overriding in JAVA -part 1](https://dev.to/deepikandas/11-known-is-a-drop-method-overriding-in-java-part-1-2el9)
+- [Multi-Agent Validation: How to Stop AI Agents from Hallucinating Silently](https://dev.to/elizabethfuentes12/multi-agent-validation-how-to-stop-ai-agents-from-hallucinating-silently-18h1)
+- [A Practical Guide to Building MCP Apps](https://dev.to/ashita/a-practical-guide-to-building-mcp-apps-1bfm)
 <!-- BLOG-POST-LIST:END -->
 
