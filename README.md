@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agents Are Burning Money on Duplicate API Calls &lpar;And You Can&#39;t See It&rpar;](https://dev.to/custodiaadmin/your-agents-are-burning-money-on-duplicate-api-calls-and-you-cant-see-it-328c)
-- [Day 6 of My Cloud Journey: Building Secure AWS Networks with VPC, VPC Peering &amp; Billing Alerts](https://dev.to/avinashwagh/day-6-of-my-cloud-journey-building-secure-aws-networks-with-vpc-vpc-peering-billing-alerts-4gk8)
-- [Your runbook says one thing. Your infra does another. When did you last compare them?](https://dev.to/jariase/your-runbook-says-one-thing-your-infra-does-another-when-did-you-last-compare-them-313f)
-- [I Built a Claude Plugin to Fix AI-Generated Interfaces&#39; User Experience.](https://dev.to/mistyhx/i-built-a-claude-plugin-to-fix-ai-generated-interfaces-user-experience-42m8)
+- [Hardening Linux: Guía de Seguridad y Bastionado de Servidores](https://dev.to/devopsfreelance_pro/hardening-linux-guia-de-seguridad-y-bastionado-de-servidores-ldl)
+- [Stop Writing ../../../../../../ in Your Imports](https://dev.to/aabhassao/stop-writing-in-your-imports-21p4)
+- [☁️ Private Cloud vs Public Cloud — still one of the most misunderstood topics in cloud computing.
+Many discussions focus only on cost or control, but the real differences go deeper](https://dev.to/akdevcraft/private-cloud-vs-public-cloud-still-one-of-the-most-misunderstood-topics-in-cloud-computing-21a2)
+- [Guía Completa de Monitoreo con prometheus y grafana](https://dev.to/devopsfreelance_pro/guia-completa-de-monitoreo-con-prometheus-y-grafana-46jd)
 <!-- BLOG-POST-LIST:END -->
 
