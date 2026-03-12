@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Reverse Proxy and How Does It Work?](https://dev.to/kanishkrawattt/what-is-a-reverse-proxy-and-how-does-it-work-3pa1)
-- [I Built an MCP Server That Lets AI Agents Debug Running Ruby Processes](https://dev.to/rira100000000/i-built-an-mcp-server-that-lets-ai-agents-debug-running-ruby-processes-gbg)
-- [2026年版！AIエージェント開発に必須のオープンソースGitHubリポジトリ10選](https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3)
-- [3 Critical Pitfalls in Signup Form Validation](https://dev.to/leo_he/3-critical-pitfalls-in-signup-form-validation-1en9)
+- [HashMap Java](https://dev.to/nanthini_ammu_ac02ad32802/hashmap-java-28m9)
+- [𝗪𝗵𝘆 𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗨𝗜𝘀 𝗕𝗿𝗲𝗮𝗸 𝗮𝘁 𝗦𝗰𝗮𝗹𝗲 &lpar;𝗔𝗻𝗱 𝘁𝗵𝗲 𝟯 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗧𝗵𝗮𝘁 𝗔𝗹𝘄𝗮𝘆𝘀 𝗦𝘂𝗿𝘃𝗶𝘃𝗲 𝗟𝗼𝗮𝗱&rpar;](https://dev.to/ricardosaumeth/--2kie)
+- [Boost Team Productivity with Smart Markdown File Management: Essential Tools and Strategies for AI Workflow Documentation](https://dev.to/ilyatech/boost-team-productivity-with-smart-markdown-file-management-essential-tools-and-strategies-for-ai-1l0j)
+- [𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀 𝗕𝘂𝗴 𝗶𝗻 𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗜𝘀𝗻’𝘁 𝗮 𝗖𝗿𝗮𝘀𝗵 — 𝗜𝘁’𝘀 𝗮 𝗟𝗶𝗲](https://dev.to/ricardosaumeth/--5c7g)
 <!-- BLOG-POST-LIST:END -->
 
