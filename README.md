@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Code Writes Itself](https://dev.to/cheetah100/when-the-code-writes-itself-380b)
-- [EXIT Protocol + MCP: Portable AI Agent History](https://dev.to/dogcomplex/exit-protocol-mcp-portable-ai-agent-history-4dj)
-- [Adding Departure Records to Your LangChain Agents](https://dev.to/dogcomplex/adding-departure-records-to-your-langchain-agents-h7o)
-- [I turned OpenAI Symphony into a one-command local workflow for any repo](https://dev.to/ntty/i-turned-openai-symphony-into-a-one-command-local-workflow-for-any-repo-3gop)
+- [Why Your RAG System Needs a Graph Database &lpar;Not Just Vectors&rpar;](https://dev.to/nathanhamlett/why-your-rag-system-needs-a-graph-database-not-just-vectors-52i3)
+- [Building Conversational AI: Memory Patterns, Context Management, and Conversation Design](https://dev.to/bspann/building-conversational-ai-memory-patterns-context-management-and-conversation-design-2i58)
+- [Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#](https://dev.to/bspann/reliable-ai-outputs-function-calling-json-mode-and-structured-generation-in-c-2m87)
+- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
 <!-- BLOG-POST-LIST:END -->
 
