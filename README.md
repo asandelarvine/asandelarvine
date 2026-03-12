@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Tailwind CSS v4 &amp; shadcn/ui in AdonisJS v7 &lpar;React + Inertia&rpar;](https://dev.to/ahsanabrar/how-to-setup-tailwind-css-v4-shadcnui-in-adonisjs-v7-react-inertia-40h3)
-- [MT Salesguard Developer Guide: Verify Product Provenance in One API Call](https://dev.to/moltycel/mt-salesguard-developer-guide-verify-product-provenance-in-one-api-call-3kja)
-- [When AI Coding Tools Break Your UI: Architectural Lessons from Aider, Claude &amp; Gemini](https://dev.to/ramavala/when-ai-coding-tools-break-your-ui-architectural-lessons-from-aider-claude-gemini-501c)
-- [DevSecOps Without the Pain: The Missing Piece Most Teams Overlook](https://dev.to/kazumaxwell1117/devsecops-without-the-pain-the-missing-piece-most-teams-overlook-12ec)
+- [Build a DVR for AI Agents: Episode Replay UI That Actually Works](https://dev.to/json_shotwell/build-a-dvr-for-ai-agents-episode-replay-ui-that-actually-works-ma8)
+- [When Proxies Become the Attack Vectors in Web Architectures](https://dev.to/praetorian_guard/when-proxies-become-the-attack-vectors-in-web-architectures-65c)
+- [ESLint can&#39;t catch this: 5 failure modes unique to AI-generated code &lpar;and how I detect them in CI&rpar;](https://dev.to/raye_deng_622ab98e19a2147/eslint-cant-catch-this-5-failure-modes-unique-to-ai-generated-code-and-how-i-detect-them-in-ci-hl)
+- [How to Automate OpenClaw Backup and Optimization with GitHub](https://dev.to/cristiantalasanchez/how-to-automate-openclaw-backup-and-optimization-with-github-1bh9)
 <!-- BLOG-POST-LIST:END -->
 
