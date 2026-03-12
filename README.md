@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free AI Baby Name Generator with Next.js and Static Site Generation](https://dev.to/yunhan_dev/building-a-free-ai-baby-name-generator-with-nextjs-and-static-site-generation-52bh)
-- [Building my first AI lead generation SaaS &lpar;LeadIt&rpar; — MVP architecture](https://dev.to/knihal12/building-my-first-ai-lead-generation-saas-leadit-mvp-architecture-f1d)
-- [I Built an AI Legal OS with 60 Specialized Agents and Real-time Statute Verification](https://dev.to/peter_choe_74edfaa33306ed/i-built-an-ai-legal-os-with-60-specialized-agents-and-real-time-statute-verification-251g)
-- [How I Reduced My OpenAI API Bill by 40% While Building AI Apps](https://dev.to/krishna_mohan_4f7a5232697/how-i-reduced-my-openai-api-bill-by-40-while-building-ai-apps-1c81)
+- [NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents](https://dev.to/pranit_969191dae5411dc6db/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-i54)
+- [What Is Crash Recovery? How Process Managers Keep Your App Online After Failures](https://dev.to/empellio/what-is-crash-recovery-how-process-managers-keep-your-app-online-after-failures-j4o)
+- [Building an Anchor Output Fee Bumping Service — Part 5: CPFP Transactions and Broadcasting](https://dev.to/susangithaigan/building-an-anchor-output-fee-bumping-service-part-5-cpfp-transactions-and-broadcasting-2mpb)
+- [Structuring AI Microservices in Python](https://dev.to/masteringbackend/structuring-ai-microservices-in-python-29e1)
 <!-- BLOG-POST-LIST:END -->
 
