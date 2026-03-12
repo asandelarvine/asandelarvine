@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Linux: Guía de Seguridad y Bastionado de Servidores](https://dev.to/devopsfreelance_pro/hardening-linux-guia-de-seguridad-y-bastionado-de-servidores-ldl)
-- [Stop Writing ../../../../../../ in Your Imports](https://dev.to/aabhassao/stop-writing-in-your-imports-21p4)
-- [☁️ Private Cloud vs Public Cloud — still one of the most misunderstood topics in cloud computing.
-Many discussions focus only on cost or control, but the real differences go deeper](https://dev.to/akdevcraft/private-cloud-vs-public-cloud-still-one-of-the-most-misunderstood-topics-in-cloud-computing-21a2)
-- [Guía Completa de Monitoreo con prometheus y grafana](https://dev.to/devopsfreelance_pro/guia-completa-de-monitoreo-con-prometheus-y-grafana-46jd)
+- [What is a Reverse Proxy and How Does It Work?](https://dev.to/kanishkrawattt/what-is-a-reverse-proxy-and-how-does-it-work-3pa1)
+- [I Built an MCP Server That Lets AI Agents Debug Running Ruby Processes](https://dev.to/rira100000000/i-built-an-mcp-server-that-lets-ai-agents-debug-running-ruby-processes-gbg)
+- [2026年版！AIエージェント開発に必須のオープンソースGitHubリポジトリ10選](https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3)
+- [3 Critical Pitfalls in Signup Form Validation](https://dev.to/leo_he/3-critical-pitfalls-in-signup-form-validation-1en9)
 <!-- BLOG-POST-LIST:END -->
 
