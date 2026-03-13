@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating PostgreSQL with Power BI for Data Analysis](https://dev.to/erasto/integrating-postgresql-with-power-bi-for-data-analysis-11lm)
-- [From Zero to Compliance: Saudi Arabia Cybersecurity Roadmap for Businesses](https://dev.to/rahman_iqbal_21df7c748ed6/from-zero-to-compliance-saudi-arabia-cybersecurity-roadmap-for-businesses-13gk)
-- [I want to use Local AI to automate my PM away &lpar;and I need you to tell me if I&#39;m a sellout&rpar; 🐑🐈](https://dev.to/chadders13/i-want-to-use-local-ai-to-automate-my-pm-away-and-i-need-you-to-tell-me-if-im-a-sellout-4jch)
-- [How I Built an Agentic Memory System for GitHub Copilot &lpar;So It Never Forgets My Codebase&rpar;](https://dev.to/ciphernutz/how-i-built-an-agentic-memory-system-for-github-copilot-so-it-never-forgets-my-codebase-5h49)
+- [Connecting Power BI to a SQL Database: A Complete Guide](https://dev.to/nandaha/connecting-power-bi-to-a-sql-database-a-complete-guide-2do1)
+- [My first GitHub repo - a simple Hello World for beginners](https://dev.to/timelore_abaa90540a0f3a7a/my-first-github-repo-a-simple-hello-world-for-beginners-217d)
+- [I cut my AI coding costs and doomscrolling in 7 days &lpar;small habits, big difference&rpar;](https://dev.to/godnick/i-cut-my-ai-coding-costs-and-doomscrolling-in-7-days-small-habits-big-difference-582g)
+- [CVE-2026-32242: CVE-2026-32242: Authentication Bypass via Race Condition in Parse Server OAuth2 Adapter](https://dev.to/cverports/cve-2026-32242-cve-2026-32242-authentication-bypass-via-race-condition-in-parse-server-oauth2-29aj)
 <!-- BLOG-POST-LIST:END -->
 
