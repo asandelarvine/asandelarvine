@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clinejection Strikes, Agents Multiply, Node.js Slims Down](https://dev.to/urbanisierung/clinejection-strikes-agents-multiply-nodejs-slims-down-49d2)
-- [Configuration Done Right: Settings, Secrets, and Key Vault](https://dev.to/martin_oehlert/configuration-done-right-settings-secrets-and-key-vault-3n7h)
-- [5 Free Privacy-First Tools I Built Because I Was Tired of Signing Up for Everything](https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2)
-- [I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn](https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k)
+- [Integrating PostgreSQL with Power BI for Data Analysis](https://dev.to/erasto/integrating-postgresql-with-power-bi-for-data-analysis-11lm)
+- [From Zero to Compliance: Saudi Arabia Cybersecurity Roadmap for Businesses](https://dev.to/rahman_iqbal_21df7c748ed6/from-zero-to-compliance-saudi-arabia-cybersecurity-roadmap-for-businesses-13gk)
+- [I want to use Local AI to automate my PM away &lpar;and I need you to tell me if I&#39;m a sellout&rpar; 🐑🐈](https://dev.to/chadders13/i-want-to-use-local-ai-to-automate-my-pm-away-and-i-need-you-to-tell-me-if-im-a-sellout-4jch)
+- [How I Built an Agentic Memory System for GitHub Copilot &lpar;So It Never Forgets My Codebase&rpar;](https://dev.to/ciphernutz/how-i-built-an-agentic-memory-system-for-github-copilot-so-it-never-forgets-my-codebase-5h49)
 <!-- BLOG-POST-LIST:END -->
 
