@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Linked List Wants to Be a Bloody Tree](https://dev.to/doogal/why-your-linked-list-wants-to-be-a-bloody-tree-fea)
-- [I Trained Qwen to Talk Like a Pirate 🏴‍☠️ Got It Right Second Time](https://dev.to/mikegcaws/i-trained-qwen-to-talk-like-a-pirate-got-it-right-second-time-4ac2)
-- [Connecting Power BI to SQL databases.](https://dev.to/murimikelvin/connecting-power-bi-to-sql-databases-1kfi)
-- [Integrating ACH Payments &amp; User Verification with Dwolla: A Complete Developer Guide for SaaS Platforms](https://dev.to/genesis_technologies/integrating-ach-payments-user-verification-with-dwolla-a-complete-developer-guide-for-saas-592o)
+- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 2](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-218c)
+- [sql and databases](https://dev.to/murimikelvin/sql-and-databases-368a)
+- [Zero-Dependency HTTP Fingerprinting Library in Go: Bot Detection with JA3](https://dev.to/makennsky/zero-dependency-http-fingerprinting-library-in-go-bot-detection-with-ja3-3ad8)
+- [Vibe Coding Flutter: The Senior Dev&#39;s Honest Take](https://dev.to/sayed_ali_alkamel/vibe-coding-flutter-the-senior-devs-honest-take-1k0f)
 <!-- BLOG-POST-LIST:END -->
 
