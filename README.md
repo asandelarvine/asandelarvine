@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unearthing DRY Violations from Hotspot Data with lumitrace](https://dev.to/ko1/unearthing-dry-violations-from-hotspot-data-with-lumitrace-4p4l)
-- [How We Built a GraphRAG Chatbot for Enterprise Intelligence](https://dev.to/popke/how-we-built-a-graphrag-chatbot-for-enterprise-intelligence-1lbn)
-- [File Upload Infrastructure Decisions Every Early-Stage CTO Faces](https://dev.to/ideradevtools/file-upload-infrastructure-decisions-every-early-stage-cto-faces-90k)
-- [Fine-Tuning Phi-3 &amp; Gemma 2: The Budget Path to GPT-4 Performance at a Fraction of the Cost](https://dev.to/jaipalsingh/fine-tuning-phi-3-gemma-2-the-budget-path-to-gpt-4-performance-at-a-fraction-of-the-cost-2c95)
+- [An LLM Is Not a Deficient Mind](https://dev.to/romanonthego/an-llm-is-not-a-deficient-mind-234l)
+- [How Developers Can Prevent Frontend Wallet Drainer Attacks: A Case Study of the BONK.fun Hack](https://dev.to/cryip/how-developers-can-prevent-frontend-wallet-drainer-attacks-a-case-study-of-the-bonkfun-hack-29k4)
+- [Connecting power bi to SQL databases locally and through cloud service.](https://dev.to/maggy_njuguna/connecting-power-bi-to-sql-databases-locally-and-through-cloud-service-4876)
+- [ما هو التوكن؟ الدليل النهائي لأمن API](https://dev.to/yusuf_khalidd/m-hw-ltwkn-ldlyl-lnhyy-lmn-api-fbd)
 <!-- BLOG-POST-LIST:END -->
 
