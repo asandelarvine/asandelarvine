@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated Python Documentation Using AST Parsing and Multi-Provider LLMs](https://dev.to/shifu_legend/stop-writing-documentation-i-built-an-ai-tool-that-parses-your-codes-dna-5eh2)
-- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
-- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
-- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
+- [I Tracked My Claude Code Token Spend for a Week. Here&#39;s What Actually Surprised Me.](https://dev.to/godnick/i-tracked-my-claude-code-token-spend-for-a-week-heres-what-actually-surprised-me-34o1)
+- [The Fastest Way to Share Live HTML Previews Without a Server](https://dev.to/htmlsave/the-fastest-way-to-share-live-html-previews-without-a-server-4dgj)
+- [Building Developer Tools That Scale: Lessons from Email Infrastructure](https://dev.to/francofuji/building-developer-tools-that-scale-lessons-from-email-infrastructure-161b)
+- [Solana Upgrade Authority Security: The $40M Lesson Most Protocols Haven&#39;t Learned](https://dev.to/ohmygod/solana-upgrade-authority-security-the-40m-lesson-most-protocols-havent-learned-2g42)
 <!-- BLOG-POST-LIST:END -->
 
