@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quando a IA gera a interface: o schema como guardrail](https://dev.to/jreeeedd/quando-a-ia-gera-a-interface-o-schema-como-guardrail-2acd)
-- [Runtime Guardrails for AI Agents - Steer, Don&#39;t Block](https://dev.to/aws/runtime-guardrails-for-ai-agents-steer-dont-block-278n)
-- [Claude&#39;s 1M Context Window Is Live — Here&#39;s How to Actually Use It Without Burning Through Your Quota](https://dev.to/godnick/claudes-1m-context-window-is-live-heres-how-to-actually-use-it-without-burning-through-your-d7a)
-- [Mastering ADV Development with GOKI2: Manage Character Assets, Audio Paths, and Dialogues Like a Pro](https://dev.to/halo1234/mastering-adv-development-with-goki2-manage-character-assets-audio-paths-and-dialogues-like-a-pro-1and)
+- [How I Used PostgreSQL to Diagnose an Ecommerce Revenue Decline](https://dev.to/legacyunlimited/how-i-used-postgresql-to-diagnose-an-ecommerce-revenue-decline-114i)
+- [The Swiss Cheese Model of AI Security — Why Single-Layer Defense Always Fails](https://dev.to/kenimo49/the-swiss-cheese-model-of-ai-security-why-single-layer-defense-always-fails-258l)
+- [How to Create And Configure Network Security Groups](https://dev.to/cmwokocha/how-to-create-and-configure-network-security-groups-2p07)
+- [Beyond the Badge: A Complete Guide to Every Award Ceremony Worth Knowing About at SXSW 2026](https://dev.to/recognizedfm/beyond-the-badge-a-complete-guide-to-every-award-ceremony-worth-knowing-about-at-sxsw-2026-3og)
 <!-- BLOG-POST-LIST:END -->
 
