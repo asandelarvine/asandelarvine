@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tracked My Claude Code Token Spend for a Week. Here&#39;s What Actually Surprised Me.](https://dev.to/godnick/i-tracked-my-claude-code-token-spend-for-a-week-heres-what-actually-surprised-me-34o1)
-- [The Fastest Way to Share Live HTML Previews Without a Server](https://dev.to/htmlsave/the-fastest-way-to-share-live-html-previews-without-a-server-4dgj)
-- [Building Developer Tools That Scale: Lessons from Email Infrastructure](https://dev.to/francofuji/building-developer-tools-that-scale-lessons-from-email-infrastructure-161b)
-- [Solana Upgrade Authority Security: The $40M Lesson Most Protocols Haven&#39;t Learned](https://dev.to/ohmygod/solana-upgrade-authority-security-the-40m-lesson-most-protocols-havent-learned-2g42)
+- [Vercel Cloudflare migration + admin dashboard + AI news automation](https://dev.to/ji_ai/vercel-cloudflare-migration-admin-dashboard-ai-news-automation-497c)
+- [Selenium Proxy for Browser Automation](https://dev.to/alexanie_/selenium-proxy-for-browser-automation-45mb)
+- [CVE-2026-26118: How to Prove Your MCP Agent Wasn](https://dev.to/custodiaadmin/cve-2026-26118-how-to-prove-your-mcp-agent-wasn-1o4k)
+- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
 <!-- BLOG-POST-LIST:END -->
 
