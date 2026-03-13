@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Text Like Code: The &quot;Mother Tongue&quot; Prompt Hack That Got My Book Published](https://dev.to/lwgena/refactoring-text-like-code-the-mother-tongue-prompt-hack-that-got-my-book-published-5576)
-- [I Built 18 Free Browser Games with Flutter Web — Here&#39;s What I Learned](https://dev.to/likeplaygame/i-built-18-free-browser-games-with-flutter-web-heres-what-i-learned-o20)
-- [Azure Management Task 1: Preparing Resources for Update and Maintenance](https://dev.to/pirrezz/azure-management-task-1-preparing-resources-for-update-and-maintenance-phg)
-- [I Let AI Write to My Database &lpar;With Guardrails&rpar;🔬](https://dev.to/anchildress1/i-let-ai-write-to-my-database-with-guardrails-473o)
+- [What Building Voxitale for the Gemini Live Contest Taught Me About Working With Multiple AI Tools](https://dev.to/aaron_melton_0601b97a4b57/what-building-voxitale-for-the-gemini-live-contest-taught-me-about-working-with-multiple-ai-tools-3bjb)
+- [Proof-of-Execution: verifying what AI agents actually execute](https://dev.to/ladebw/proof-of-execution-verifying-what-ai-agents-actually-execute-5aoc)
+- [Why Context Engineering Will Replace Traditional Architecture Thinking](https://dev.to/jaideepparashar/why-context-engineering-will-replace-traditional-architecture-thinking-4e39)
+- [How I Learned and Built AI-Integrated Software Development](https://dev.to/vishaluttammane/how-i-learned-and-built-ai-integrated-software-development-2e3e)
 <!-- BLOG-POST-LIST:END -->
 
