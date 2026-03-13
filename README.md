@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Competitor Hashtag Gap Analyzer with Node.js](https://dev.to/olams/build-a-competitor-hashtag-gap-analyzer-with-nodejs-2gll)
-- [I wrote an amazing React Book](https://dev.to/gabrielenache/i-wrote-an-amazing-react-book-455g)
-- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar;](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start-3c9l)
-- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
+- [How I Automated Python Documentation Using AST Parsing and Multi-Provider LLMs](https://dev.to/shifu_legend/stop-writing-documentation-i-built-an-ai-tool-that-parses-your-codes-dna-5eh2)
+- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
+- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
+- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
 <!-- BLOG-POST-LIST:END -->
 
