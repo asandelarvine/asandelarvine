@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Only Indexed 2% of My 100,000-Page Site. Here&#39;s What I&#39;m Doing About It.](https://dev.to/apex_stack/google-only-indexed-2-of-my-100000-page-site-heres-what-im-doing-about-it-3jof)
-- [QuizPlay - play certification quizzes straight from GitHub](https://dev.to/taarimalta/quizplay-play-certification-quizzes-straight-from-github-26in)
-- [How I Build AI Agent Systems at Rocket.new &lpar;From the Inside&rpar;](https://dev.to/dhruvvgandhii/how-i-build-ai-agent-systems-at-rocketnew-from-the-inside-7of)
-- [Introducing &quot;Our Social&quot; — A Social Media Platform Built for Feature Phone Users](https://dev.to/mdarakib/introducing-our-social-a-social-media-platform-built-for-feature-phone-users-3occ)
+- [Build a Competitor Hashtag Gap Analyzer with Node.js](https://dev.to/olams/build-a-competitor-hashtag-gap-analyzer-with-nodejs-2gll)
+- [I wrote an amazing React Book](https://dev.to/gabrielenache/i-wrote-an-amazing-react-book-455g)
+- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar;](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start-3c9l)
+- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
 <!-- BLOG-POST-LIST:END -->
 
