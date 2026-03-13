@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel Cloudflare migration + admin dashboard + AI news automation](https://dev.to/ji_ai/vercel-cloudflare-migration-admin-dashboard-ai-news-automation-497c)
-- [Selenium Proxy for Browser Automation](https://dev.to/alexanie_/selenium-proxy-for-browser-automation-45mb)
-- [CVE-2026-26118: How to Prove Your MCP Agent Wasn](https://dev.to/custodiaadmin/cve-2026-26118-how-to-prove-your-mcp-agent-wasn-1o4k)
-- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
+- [Quando a IA gera a interface: o schema como guardrail](https://dev.to/jreeeedd/quando-a-ia-gera-a-interface-o-schema-como-guardrail-2acd)
+- [Runtime Guardrails for AI Agents - Steer, Don&#39;t Block](https://dev.to/aws/runtime-guardrails-for-ai-agents-steer-dont-block-278n)
+- [Claude&#39;s 1M Context Window Is Live — Here&#39;s How to Actually Use It Without Burning Through Your Quota](https://dev.to/godnick/claudes-1m-context-window-is-live-heres-how-to-actually-use-it-without-burning-through-your-d7a)
+- [Mastering ADV Development with GOKI2: Manage Character Assets, Audio Paths, and Dialogues Like a Pro](https://dev.to/halo1234/mastering-adv-development-with-goki2-manage-character-assets-audio-paths-and-dialogues-like-a-pro-1and)
 <!-- BLOG-POST-LIST:END -->
 
