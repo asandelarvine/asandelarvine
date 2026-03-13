@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solv Protocol&#39;s $2.7M ERC-3525 Reentrancy: How Semi-Fungible Tokens Created a Double-Minting Loophole](https://dev.to/ohmygod/solv-protocols-27m-erc-3525-reentrancy-how-semi-fungible-tokens-created-a-double-minting-2kgg)
-- [The 7 GCP Professional Cloud Architect Traps That Made Me Rethink My Entire Cloud Career](https://dev.to/andy_youtube_371fe0c1a37e/the-7-gcp-professional-cloud-architect-traps-that-made-me-rethink-my-entire-cloud-career-2g8m)
-- [Building what NIST is asking for: an AI agent security proxy](https://dev.to/arkforge-ceo/building-what-nist-is-asking-for-an-ai-agent-security-proxy-2li9)
-- [Writing maintainable react code at scale](https://dev.to/yashraj_2001/writing-maintainable-react-code-at-scale-ef8)
+- [Google Only Indexed 2% of My 100,000-Page Site. Here&#39;s What I&#39;m Doing About It.](https://dev.to/apex_stack/google-only-indexed-2-of-my-100000-page-site-heres-what-im-doing-about-it-3jof)
+- [QuizPlay - play certification quizzes straight from GitHub](https://dev.to/taarimalta/quizplay-play-certification-quizzes-straight-from-github-26in)
+- [How I Build AI Agent Systems at Rocket.new &lpar;From the Inside&rpar;](https://dev.to/dhruvvgandhii/how-i-build-ai-agent-systems-at-rocketnew-from-the-inside-7of)
+- [Introducing &quot;Our Social&quot; — A Social Media Platform Built for Feature Phone Users](https://dev.to/mdarakib/introducing-our-social-a-social-media-platform-built-for-feature-phone-users-3occ)
 <!-- BLOG-POST-LIST:END -->
 
