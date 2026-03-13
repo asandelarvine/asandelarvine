@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An LLM Is Not a Deficient Mind](https://dev.to/romanonthego/an-llm-is-not-a-deficient-mind-234l)
-- [How Developers Can Prevent Frontend Wallet Drainer Attacks: A Case Study of the BONK.fun Hack](https://dev.to/cryip/how-developers-can-prevent-frontend-wallet-drainer-attacks-a-case-study-of-the-bonkfun-hack-29k4)
-- [Connecting power bi to SQL databases locally and through cloud service.](https://dev.to/maggy_njuguna/connecting-power-bi-to-sql-databases-locally-and-through-cloud-service-4876)
-- [ما هو التوكن؟ الدليل النهائي لأمن API](https://dev.to/yusuf_khalidd/m-hw-ltwkn-ldlyl-lnhyy-lmn-api-fbd)
+- [Why Your Linked List Wants to Be a Bloody Tree](https://dev.to/doogal/why-your-linked-list-wants-to-be-a-bloody-tree-fea)
+- [I Trained Qwen to Talk Like a Pirate 🏴‍☠️ Got It Right Second Time](https://dev.to/mikegcaws/i-trained-qwen-to-talk-like-a-pirate-got-it-right-second-time-4ac2)
+- [Connecting Power BI to SQL databases.](https://dev.to/murimikelvin/connecting-power-bi-to-sql-databases-1kfi)
+- [Integrating ACH Payments &amp; User Verification with Dwolla: A Complete Developer Guide for SaaS Platforms](https://dev.to/genesis_technologies/integrating-ach-payments-user-verification-with-dwolla-a-complete-developer-guide-for-saas-592o)
 <!-- BLOG-POST-LIST:END -->
 
