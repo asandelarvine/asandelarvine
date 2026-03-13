@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 2](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-218c)
-- [sql and databases](https://dev.to/murimikelvin/sql-and-databases-368a)
-- [Zero-Dependency HTTP Fingerprinting Library in Go: Bot Detection with JA3](https://dev.to/makennsky/zero-dependency-http-fingerprinting-library-in-go-bot-detection-with-ja3-3ad8)
-- [Vibe Coding Flutter: The Senior Dev&#39;s Honest Take](https://dev.to/sayed_ali_alkamel/vibe-coding-flutter-the-senior-devs-honest-take-1k0f)
+- [Clojure core.async: A Question &amp; Answer Journey on Channels](https://dev.to/ivangavlik/clojure-coreasync-a-question-answer-journey-on-channels-3om0)
+- [10 Free Blender Addons I Built to Speed Up My Workflow](https://dev.to/vesper_finch/10-free-blender-addons-i-built-to-speed-up-my-workflow-55n9)
+- [Text Diff Checker, Length Converter &amp; Temperature Converter — Plus a Brand New Category on EveryTool](https://dev.to/mpsoftwarestudio/text-diff-checker-length-converter-temperature-converter-plus-a-brand-new-category-on-everytool-jn5)
+- [This Week In React #272 : Astro, Compiler, Next.js, shadcn | Navigation, Expo Agent, Widgets, Activity | Node.js, Source Maps](https://dev.to/sebastienlorber/this-week-in-react-272-astro-compiler-nextjs-shadcn-navigation-expo-agent-widgets-k38)
 <!-- BLOG-POST-LIST:END -->
 
