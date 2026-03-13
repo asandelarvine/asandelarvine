@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Building Voxitale for the Gemini Live Contest Taught Me About Working With Multiple AI Tools](https://dev.to/aaron_melton_0601b97a4b57/what-building-voxitale-for-the-gemini-live-contest-taught-me-about-working-with-multiple-ai-tools-3bjb)
-- [Proof-of-Execution: verifying what AI agents actually execute](https://dev.to/ladebw/proof-of-execution-verifying-what-ai-agents-actually-execute-5aoc)
-- [Why Context Engineering Will Replace Traditional Architecture Thinking](https://dev.to/jaideepparashar/why-context-engineering-will-replace-traditional-architecture-thinking-4e39)
-- [How I Learned and Built AI-Integrated Software Development](https://dev.to/vishaluttammane/how-i-learned-and-built-ai-integrated-software-development-2e3e)
+- [Clinejection Strikes, Agents Multiply, Node.js Slims Down](https://dev.to/urbanisierung/clinejection-strikes-agents-multiply-nodejs-slims-down-49d2)
+- [Configuration Done Right: Settings, Secrets, and Key Vault](https://dev.to/martin_oehlert/configuration-done-right-settings-secrets-and-key-vault-3n7h)
+- [5 Free Privacy-First Tools I Built Because I Was Tired of Signing Up for Everything](https://dev.to/docat0209/5-free-privacy-first-tools-i-built-because-i-was-tired-of-signing-up-for-everything-2mh2)
+- [I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn](https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k)
 <!-- BLOG-POST-LIST:END -->
 
