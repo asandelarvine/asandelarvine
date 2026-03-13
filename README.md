@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
-- [The Agent Factory: Building Consistent Agents at Scale](https://dev.to/chuckm/the-agent-factory-building-consistent-agents-at-scale-22an)
-- [I got tired of ugly websites. So I built a tool to fix them &lpar;and yes it has AI&rpar;](https://dev.to/royshell/i-got-tired-of-ugly-websites-so-i-built-a-tool-to-fix-them-and-yes-it-has-ai-476h)
-- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
+- [Refactoring Text Like Code: The &quot;Mother Tongue&quot; Prompt Hack That Got My Book Published](https://dev.to/lwgena/refactoring-text-like-code-the-mother-tongue-prompt-hack-that-got-my-book-published-5576)
+- [I Built 18 Free Browser Games with Flutter Web — Here&#39;s What I Learned](https://dev.to/likeplaygame/i-built-18-free-browser-games-with-flutter-web-heres-what-i-learned-o20)
+- [Azure Management Task 1: Preparing Resources for Update and Maintenance](https://dev.to/pirrezz/azure-management-task-1-preparing-resources-for-update-and-maintenance-phg)
+- [I Let AI Write to My Database &lpar;With Guardrails&rpar;🔬](https://dev.to/anchildress1/i-let-ai-write-to-my-database-with-guardrails-473o)
 <!-- BLOG-POST-LIST:END -->
 
