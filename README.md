@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram bot for funding rate arbitrage research on Binance](https://dev.to/lynalan/telegram-bot-for-funding-rate-arbitrage-research-on-binance-5eaj)
-- [How to Structure a Production-Ready Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/hewitt/how-to-structure-a-production-ready-chrome-extension-manifest-v3-2hlf)
-- [I Dockerized a Bank-Grade Credit Card Fraud Detection App with XGBoost &lpar;Recall 0.92 + SHAP&rpar;](https://dev.to/retro099/i-dockerized-a-bank-grade-credit-card-fraud-detection-app-with-xgboost-recall-092-shap-320o)
-- [I&#39;m frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g)
+- [Solv Protocol&#39;s $2.7M ERC-3525 Reentrancy: How Semi-Fungible Tokens Created a Double-Minting Loophole](https://dev.to/ohmygod/solv-protocols-27m-erc-3525-reentrancy-how-semi-fungible-tokens-created-a-double-minting-2kgg)
+- [The 7 GCP Professional Cloud Architect Traps That Made Me Rethink My Entire Cloud Career](https://dev.to/andy_youtube_371fe0c1a37e/the-7-gcp-professional-cloud-architect-traps-that-made-me-rethink-my-entire-cloud-career-2g8m)
+- [Building what NIST is asking for: an AI agent security proxy](https://dev.to/arkforge-ceo/building-what-nist-is-asking-for-an-ai-agent-security-proxy-2li9)
+- [Writing maintainable react code at scale](https://dev.to/yashraj_2001/writing-maintainable-react-code-at-scale-ef8)
 <!-- BLOG-POST-LIST:END -->
 
