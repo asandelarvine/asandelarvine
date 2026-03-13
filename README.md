@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure core.async: A Question &amp; Answer Journey on Channels](https://dev.to/ivangavlik/clojure-coreasync-a-question-answer-journey-on-channels-3om0)
-- [10 Free Blender Addons I Built to Speed Up My Workflow](https://dev.to/vesper_finch/10-free-blender-addons-i-built-to-speed-up-my-workflow-55n9)
-- [Text Diff Checker, Length Converter &amp; Temperature Converter — Plus a Brand New Category on EveryTool](https://dev.to/mpsoftwarestudio/text-diff-checker-length-converter-temperature-converter-plus-a-brand-new-category-on-everytool-jn5)
-- [This Week In React #272 : Astro, Compiler, Next.js, shadcn | Navigation, Expo Agent, Widgets, Activity | Node.js, Source Maps](https://dev.to/sebastienlorber/this-week-in-react-272-astro-compiler-nextjs-shadcn-navigation-expo-agent-widgets-k38)
+- [Telegram bot for funding rate arbitrage research on Binance](https://dev.to/lynalan/telegram-bot-for-funding-rate-arbitrage-research-on-binance-5eaj)
+- [How to Structure a Production-Ready Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/hewitt/how-to-structure-a-production-ready-chrome-extension-manifest-v3-2hlf)
+- [I Dockerized a Bank-Grade Credit Card Fraud Detection App with XGBoost &lpar;Recall 0.92 + SHAP&rpar;](https://dev.to/retro099/i-dockerized-a-bank-grade-credit-card-fraud-detection-app-with-xgboost-recall-092-shap-320o)
+- [I&#39;m frozen and I cannot move](https://dev.to/jankapunkt/im-frozen-and-i-cannot-move-547g)
 <!-- BLOG-POST-LIST:END -->
 
