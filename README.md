@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Power BI to a SQL Database: A Complete Guide](https://dev.to/nandaha/connecting-power-bi-to-a-sql-database-a-complete-guide-2do1)
-- [My first GitHub repo - a simple Hello World for beginners](https://dev.to/timelore_abaa90540a0f3a7a/my-first-github-repo-a-simple-hello-world-for-beginners-217d)
-- [I cut my AI coding costs and doomscrolling in 7 days &lpar;small habits, big difference&rpar;](https://dev.to/godnick/i-cut-my-ai-coding-costs-and-doomscrolling-in-7-days-small-habits-big-difference-582g)
-- [CVE-2026-32242: CVE-2026-32242: Authentication Bypass via Race Condition in Parse Server OAuth2 Adapter](https://dev.to/cverports/cve-2026-32242-cve-2026-32242-authentication-bypass-via-race-condition-in-parse-server-oauth2-29aj)
+- [Unearthing DRY Violations from Hotspot Data with lumitrace](https://dev.to/ko1/unearthing-dry-violations-from-hotspot-data-with-lumitrace-4p4l)
+- [How We Built a GraphRAG Chatbot for Enterprise Intelligence](https://dev.to/popke/how-we-built-a-graphrag-chatbot-for-enterprise-intelligence-1lbn)
+- [File Upload Infrastructure Decisions Every Early-Stage CTO Faces](https://dev.to/ideradevtools/file-upload-infrastructure-decisions-every-early-stage-cto-faces-90k)
+- [Fine-Tuning Phi-3 &amp; Gemma 2: The Budget Path to GPT-4 Performance at a Fraction of the Cost](https://dev.to/jaipalsingh/fine-tuning-phi-3-gemma-2-the-budget-path-to-gpt-4-performance-at-a-fraction-of-the-cost-2c95)
 <!-- BLOG-POST-LIST:END -->
 
