@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used PostgreSQL to Diagnose an Ecommerce Revenue Decline](https://dev.to/legacyunlimited/how-i-used-postgresql-to-diagnose-an-ecommerce-revenue-decline-114i)
-- [The Swiss Cheese Model of AI Security — Why Single-Layer Defense Always Fails](https://dev.to/kenimo49/the-swiss-cheese-model-of-ai-security-why-single-layer-defense-always-fails-258l)
-- [How to Create And Configure Network Security Groups](https://dev.to/cmwokocha/how-to-create-and-configure-network-security-groups-2p07)
-- [Beyond the Badge: A Complete Guide to Every Award Ceremony Worth Knowing About at SXSW 2026](https://dev.to/recognizedfm/beyond-the-badge-a-complete-guide-to-every-award-ceremony-worth-knowing-about-at-sxsw-2026-3og)
+- [Building a YouTube-Style Video Platform Inside a Single WordPress Plugin](https://dev.to/polangersoft/building-a-youtube-style-video-platform-inside-a-single-wordpress-plugin-1f8g)
+- [Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika](https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6)
+- [CVE-2026-32704: CVE-2026-32704: Improper Authorization and Information Disclosure in SiYuan Template Rendering](https://dev.to/cverports/cve-2026-32704-cve-2026-32704-improper-authorization-and-information-disclosure-in-siyuan-1dfd)
+- [🤯 Claude Just Killed the Static Chatbot: Interactive Visuals are Here](https://dev.to/siddhesh_surve/claude-just-killed-the-static-chatbot-interactive-visuals-are-here-3i5j)
 <!-- BLOG-POST-LIST:END -->
 
