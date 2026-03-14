@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Learning Roadmap — 6 Months In, Here’s What Matters](https://dev.to/themachinepulse/my-ai-learning-roadmap-6-months-in-heres-what-matters-4go)
-- [How I Built a Production-Grade DevOps Project From Scratch](https://dev.to/filbert_nanablessing_1ae/how-i-built-a-production-grade-devops-project-from-scratch-obg)
-- [Beyond ReconVLA: Annotation-Free Visual Grounding via Language-Attention Masked Reconstruction](https://dev.to/daud_ibrahim_9887/beyond-reconvla-annotation-free-visual-grounding-via-language-attention-masked-reconstruction-4klj)
-- [# Cracking the Technical Interviews: A Strategic Roadmap 🚀](https://dev.to/freeze_francis/-cracking-the-technical-interviews-a-strategic-roadmap-4g2d)
+- [Setting Up Ktor the Right Way in Kotlin Multiplatform](https://dev.to/shivathapaa/setting-up-ktor-the-right-way-in-kotlin-multiplatform-lg3)
+- [JavaScript Optional Chaining: The Complete Guide](https://dev.to/agunechemba/javascript-optional-chaining-the-complete-guide-2jkj)
+- [Smart Contract Infrastructure in Financial Systems: Determinism, Security Boundaries, and Execution Guarantees](https://dev.to/doomhammerhell/smart-contract-infrastructure-in-financial-systems-determinism-security-boundaries-and-execution-15of)
+- [Python Selenium Architecture &amp; Significance of the Python Virtual Environment.](https://dev.to/resaba/python-selenium-architecture-significance-of-the-python-virtual-environment-2f00)
 <!-- BLOG-POST-LIST:END -->
 
