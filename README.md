@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 Codex로 Shorts 생성 파이프라인 구축하기 — 프로젝트 부트스트랩 전략](https://dev.to/ji_ai/gpt-5-codexro-shorts-saengseong-paipeurain-gucughagi-peurojegteu-buteuseuteuraeb-jeonryag-3jf1)
-- [Your Brain on Action Games: The Neuroscience of Faster Thinking and Better Memory](https://dev.to/krizekster/your-brain-on-action-games-the-neuroscience-of-faster-thinking-and-better-memory-1b37)
-- [How Introverts Become Leaders in MMOs &lpar;And Why It Transfers to Real Life&rpar;](https://dev.to/krizekster/how-introverts-become-leaders-in-mmos-and-why-it-transfers-to-real-life-364e)
-- [AI 뉴스 자동 생성 파이프라인 — 이중언어 콘텐츠를 한번에 처리하는 스크립트 패턴](https://dev.to/ji_ai/ai-nyuseu-jadong-saengseong-paipeurain-ijungeoneo-kontenceureul-hanbeone-ceorihaneun-seukeuribteu-paeteon-cd8)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V59 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v59-showcase-56m3)
+- [Agent.BTZ — how one USB stick rewrote modern cyber defence](https://dev.to/helixcipher/agentbtz-how-one-usb-stick-rewrote-modern-cyber-defence-3enb)
+- [Abstract Class vs. Interface: The &quot;Blueprint&quot; Battle in Java](https://dev.to/realnamehidden1_61/abstract-class-vs-interface-the-blueprint-battle-in-java-47kf)
+- [Gaming Is the Most Powerful Cognitive Tool Ever Built &lpar;And Here&#39;s the 20-Year Journey That Proved It&rpar;](https://dev.to/krizekster/gaming-is-the-most-powerful-cognitive-tool-ever-built-and-heres-the-20-year-journey-that-proved-n77)
 <!-- BLOG-POST-LIST:END -->
 
