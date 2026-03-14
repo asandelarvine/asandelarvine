@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Declaration vs Function Expression: What&#39;s the Difference?](https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2)
-- [I Built an AI Startup Operating System with Notion MCP — It Manages My Entire Company](https://dev.to/blayzextm_6f26fabe5bfbfa2/i-built-an-ai-startup-operating-system-with-notion-mcp-it-manages-my-entire-company-4bpg)
-- [Infrastructure as a Security Frontier: Winning a 150 XTZ Bounty in the Tezos Ecosystem](https://dev.to/rdin777/infrastructure-as-a-security-frontier-winning-a-150-xtz-bounty-in-the-tezos-ecosystem-1ahb)
-- [JavaScript Operators: The Basics You Need to Know](https://dev.to/sanjeev_singh_d0e6cd59459/javascript-operators-the-basics-you-need-to-know-16po)
+- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9)
+- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i)
+- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j)
+- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7)
 <!-- BLOG-POST-LIST:END -->
 
