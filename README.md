@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MY AI REREARCG BLOG](https://dev.to/24p0669_saadahmedijaz_/my-ai-rerearcg-blog-20nl)
-- [WebMCP: Turn Your Web App Into an AI-Ready Tool Server — No Backend Required](https://dev.to/nicoavanzdev/webmcp-turn-your-web-app-into-an-ai-ready-tool-server-no-backend-required-2pk4)
-- [The Rise of Intelligent AI Agents and Deep Search](https://dev.to/muhammad_bilal_7e5da1fdbc/the-rise-of-intelligent-ai-agents-and-deep-search-25e5)
-- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-936)
+- [ConfDroid Puppet Modules - Nagios](https://dev.to/12ww1160/confdroid-puppet-modules-nagios-2997)
+- [Get Your Hands Dirty - AgentCore - Code Interpreter](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-code-interpreter-432d)
+- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
+- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
 <!-- BLOG-POST-LIST:END -->
 
