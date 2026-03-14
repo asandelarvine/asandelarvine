@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V59 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v59-showcase-56m3)
-- [Agent.BTZ — how one USB stick rewrote modern cyber defence](https://dev.to/helixcipher/agentbtz-how-one-usb-stick-rewrote-modern-cyber-defence-3enb)
-- [Abstract Class vs. Interface: The &quot;Blueprint&quot; Battle in Java](https://dev.to/realnamehidden1_61/abstract-class-vs-interface-the-blueprint-battle-in-java-47kf)
-- [Gaming Is the Most Powerful Cognitive Tool Ever Built &lpar;And Here&#39;s the 20-Year Journey That Proved It&rpar;](https://dev.to/krizekster/gaming-is-the-most-powerful-cognitive-tool-ever-built-and-heres-the-20-year-journey-that-proved-n77)
+- [My AI Learning Roadmap — 6 Months In, Here’s What Matters](https://dev.to/themachinepulse/my-ai-learning-roadmap-6-months-in-heres-what-matters-4go)
+- [How I Built a Production-Grade DevOps Project From Scratch](https://dev.to/filbert_nanablessing_1ae/how-i-built-a-production-grade-devops-project-from-scratch-obg)
+- [Beyond ReconVLA: Annotation-Free Visual Grounding via Language-Attention Masked Reconstruction](https://dev.to/daud_ibrahim_9887/beyond-reconvla-annotation-free-visual-grounding-via-language-attention-masked-reconstruction-4klj)
+- [# Cracking the Technical Interviews: A Strategic Roadmap 🚀](https://dev.to/freeze_francis/-cracking-the-technical-interviews-a-strategic-roadmap-4g2d)
 <!-- BLOG-POST-LIST:END -->
 
