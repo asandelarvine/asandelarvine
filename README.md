@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Ktor the Right Way in Kotlin Multiplatform](https://dev.to/shivathapaa/setting-up-ktor-the-right-way-in-kotlin-multiplatform-lg3)
-- [JavaScript Optional Chaining: The Complete Guide](https://dev.to/agunechemba/javascript-optional-chaining-the-complete-guide-2jkj)
-- [Smart Contract Infrastructure in Financial Systems: Determinism, Security Boundaries, and Execution Guarantees](https://dev.to/doomhammerhell/smart-contract-infrastructure-in-financial-systems-determinism-security-boundaries-and-execution-15of)
-- [Python Selenium Architecture &amp; Significance of the Python Virtual Environment.](https://dev.to/resaba/python-selenium-architecture-significance-of-the-python-virtual-environment-2f00)
+- [🗄️ Blob-Based Storage Optimization](https://dev.to/denesbeck/blob-based-storage-optimization-2j2h)
+- [Making Shell Scripts Safer in Production](https://dev.to/o_7969a270d071/making-shell-scripts-safer-in-production-2km5)
+- [AI Did Not Simplify Software Engineering: It Just Made Bad Engineering Easier](https://dev.to/robenglander/ai-did-not-simplify-software-engineering-it-just-made-bad-engineering-easier-4lnn)
+- [👨🏻‍💻 Developing my own VCS](https://dev.to/denesbeck/developing-my-own-vcs-1clg)
 <!-- BLOG-POST-LIST:END -->
 
