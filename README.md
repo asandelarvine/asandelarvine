@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an AI-Native Content Publishing Pipeline](https://dev.to/yusufhansck/designing-an-ai-native-content-publishing-pipeline-298a)
-- [Argo CD on EKS: Git repo access with AWS CodeConnections and Terraform](https://dev.to/jajera/argo-cd-on-eks-git-repo-access-with-aws-codeconnections-and-terraform-kck)
-- [Stop rebuilding Word documents with PDF libraries or HTML generators](https://dev.to/benny00100/stop-rebuilding-word-documents-with-pdf-libraries-or-html-generators-5cfo)
-- [SLOs, SLIs, and SLAs Defined](https://dev.to/godofgeeks/slos-slis-and-slas-defined-3o4n)
+- [Docker Made Simple: From Zero to Docker with Real Interview Questions](https://dev.to/rutvikmakvana4/docker-made-simple-from-zero-to-docker-with-real-interview-questions-848)
+- [The ADHD Gamer&#39;s Superpower: When Hyperfocus Becomes an Elite Cognitive Skill](https://dev.to/krizekster/the-adhd-gamers-superpower-when-hyperfocus-becomes-an-elite-cognitive-skill-12ad)
+- [Gaming as a Superpower: The Neuroscience Behind Why Gamers Outperform Non-Gamers](https://dev.to/krizekster/gaming-as-a-superpower-the-neuroscience-behind-why-gamers-outperform-non-gamers-46ei)
+- [SwiftUI Debugging: 6 Techniques Every iOS Dev Should Know](https://dev.to/mrugeshtank/swiftui-debugging-6-techniques-every-ios-dev-should-know-p3h)
 <!-- BLOG-POST-LIST:END -->
 
