@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Type Guards for Discriminated Unions &lpar;Best Practices for Scalable Code&rpar;](https://dev.to/sunny7899/typescript-type-guards-for-discriminated-unions-best-practices-for-scalable-code-4g07)
-- [5 Companies That Replaced Workers with AI — It Backfired Spectacularly](https://dev.to/tyson_cung/5-companies-that-replaced-workers-with-ai-it-backfired-spectacularly-1co7)
-- [5 AI Vulnerabilities Most Developers Miss &lpar;And How to Find Them&rpar;](https://dev.to/tom_herbin_79c8dce30832bc/5-ai-vulnerabilities-most-developers-miss-and-how-to-find-them-2nc8)
-- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
+- [MY AI REREARCG BLOG](https://dev.to/24p0669_saadahmedijaz_/my-ai-rerearcg-blog-20nl)
+- [WebMCP: Turn Your Web App Into an AI-Ready Tool Server — No Backend Required](https://dev.to/nicoavanzdev/webmcp-turn-your-web-app-into-an-ai-ready-tool-server-no-backend-required-2pk4)
+- [The Rise of Intelligent AI Agents and Deep Search](https://dev.to/muhammad_bilal_7e5da1fdbc/the-rise-of-intelligent-ai-agents-and-deep-search-25e5)
+- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-936)
 <!-- BLOG-POST-LIST:END -->
 
