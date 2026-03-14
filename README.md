@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)
-- [Scrapamoja: A Production-Grade Python Web Scraping Framework](https://dev.to/tisonek/scrapamoja-a-production-grade-python-web-scraping-framework-3d7j)
-- [The Great Abstraction: The Messy Middle of Engineering in the Age of AI](https://dev.to/nareshipme/the-great-abstraction-the-messy-middle-of-engineering-in-the-age-of-ai-4jd2)
-- [Building a Ray Tracer from Scratch in C++ Part 1: Mathematical Foundations](https://dev.to/alazar_demessie_0657c72a2/building-a-ray-tracer-from-scratch-in-c-part-1-mathematical-foundations-587b)
+- [Git Archaeology #11 — Entropy: The Universe Always Tends Toward Disorder](https://dev.to/machuz/git-archaeology-11-entropy-the-universe-always-tends-toward-disorder-ak9)
+- [Git Archaeology #10 — Dark Matter: The Invisible Gravity](https://dev.to/machuz/git-archaeology-10-dark-matter-the-invisible-gravity-45ne)
+- [HookChaos: Webhook Stress Tester CLI/Open-Sourced Project](https://dev.to/umutkeskin1001/hookchaos-webhook-stress-tester-cliopen-sourced-project-21ne)
+- [The Honest Advice Nobody Gives You in University](https://dev.to/srejon_khan/the-honest-advice-nobody-gives-you-in-university-41cd)
 <!-- BLOG-POST-LIST:END -->
 
