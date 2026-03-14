@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Archaeology #11 — Entropy: The Universe Always Tends Toward Disorder](https://dev.to/machuz/git-archaeology-11-entropy-the-universe-always-tends-toward-disorder-ak9)
-- [Git Archaeology #10 — Dark Matter: The Invisible Gravity](https://dev.to/machuz/git-archaeology-10-dark-matter-the-invisible-gravity-45ne)
-- [HookChaos: Webhook Stress Tester CLI/Open-Sourced Project](https://dev.to/umutkeskin1001/hookchaos-webhook-stress-tester-cliopen-sourced-project-21ne)
-- [The Honest Advice Nobody Gives You in University](https://dev.to/srejon_khan/the-honest-advice-nobody-gives-you-in-university-41cd)
+- [Building a Prop Firm Cost Analysis Tool with Next.js and SQLite](https://dev.to/propfirmkey/building-a-prop-firm-cost-analysis-tool-with-nextjs-and-sqlite-1fo0)
+- [Practical Tips When Working with AI Coding Assistants](https://dev.to/akdevcraft/practical-tips-when-working-with-ai-coding-assistants-1pea)
+- [n8n Test Post 9](https://dev.to/commenterthe9/n8n-test-post-9-50oc)
+- [Mastering Multi-Provider Routing with OpenRouter](https://dev.to/kirponik/mastering-multi-provider-routing-with-openrouter-1ce3)
 <!-- BLOG-POST-LIST:END -->
 
