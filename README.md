@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network egress is the cloud cost that people notice too late](https://dev.to/vctrcloudsec/network-egress-is-the-cloud-cost-that-people-notice-too-late-klc)
-- [Databases - Postgresql - PGbouncer](https://dev.to/12ww1160/databases-postgresql-pgbouncer-2hg)
-- [Most HR platforms can&#39;t record video. Adding it takes 4 lines of code.](https://dev.to/danger_cris/most-hr-platforms-cant-record-video-adding-it-takes-4-lines-of-code-1m67)
-- [One small experience to check the node of ros2](https://dev.to/jubro/one-small-experience-to-check-the-node-of-ros2-4mob)
+- [TypeScript Type Guards for Discriminated Unions &lpar;Best Practices for Scalable Code&rpar;](https://dev.to/sunny7899/typescript-type-guards-for-discriminated-unions-best-practices-for-scalable-code-4g07)
+- [5 Companies That Replaced Workers with AI — It Backfired Spectacularly](https://dev.to/tyson_cung/5-companies-that-replaced-workers-with-ai-it-backfired-spectacularly-1co7)
+- [5 AI Vulnerabilities Most Developers Miss &lpar;And How to Find Them&rpar;](https://dev.to/tom_herbin_79c8dce30832bc/5-ai-vulnerabilities-most-developers-miss-and-how-to-find-them-2nc8)
+- [How I Built clsh: Phone-First Terminal Access to Your Mac](https://dev.to/nadav_avisrur/how-i-built-clsh-phone-first-terminal-access-to-your-mac-jgb)
 <!-- BLOG-POST-LIST:END -->
 
