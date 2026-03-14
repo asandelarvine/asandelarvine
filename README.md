@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ConfDroid Puppet Modules - Nagios](https://dev.to/12ww1160/confdroid-puppet-modules-nagios-2997)
-- [Get Your Hands Dirty - AgentCore - Code Interpreter](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-code-interpreter-432d)
-- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
-- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
+- [Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)
+- [Scrapamoja: A Production-Grade Python Web Scraping Framework](https://dev.to/tisonek/scrapamoja-a-production-grade-python-web-scraping-framework-3d7j)
+- [The Great Abstraction: The Messy Middle of Engineering in the Age of AI](https://dev.to/nareshipme/the-great-abstraction-the-messy-middle-of-engineering-in-the-age-of-ai-4jd2)
+- [Building a Ray Tracer from Scratch in C++ Part 1: Mathematical Foundations](https://dev.to/alazar_demessie_0657c72a2/building-a-ray-tracer-from-scratch-in-c-part-1-mathematical-foundations-587b)
 <!-- BLOG-POST-LIST:END -->
 
