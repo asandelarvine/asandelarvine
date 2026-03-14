@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Prop Firm Cost Analysis Tool with Next.js and SQLite](https://dev.to/propfirmkey/building-a-prop-firm-cost-analysis-tool-with-nextjs-and-sqlite-1fo0)
-- [Practical Tips When Working with AI Coding Assistants](https://dev.to/akdevcraft/practical-tips-when-working-with-ai-coding-assistants-1pea)
-- [n8n Test Post 9](https://dev.to/commenterthe9/n8n-test-post-9-50oc)
-- [Mastering Multi-Provider Routing with OpenRouter](https://dev.to/kirponik/mastering-multi-provider-routing-with-openrouter-1ce3)
+- [I built a self-hosted cloud that installs in ONE command &lpar;Nextcloud alternative&rpar;](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
+- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
+- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
 <!-- BLOG-POST-LIST:END -->
 
