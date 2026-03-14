@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a YouTube-Style Video Platform Inside a Single WordPress Plugin](https://dev.to/polangersoft/building-a-youtube-style-video-platform-inside-a-single-wordpress-plugin-1f8g)
-- [Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika](https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6)
-- [CVE-2026-32704: CVE-2026-32704: Improper Authorization and Information Disclosure in SiYuan Template Rendering](https://dev.to/cverports/cve-2026-32704-cve-2026-32704-improper-authorization-and-information-disclosure-in-siyuan-1dfd)
-- [🤯 Claude Just Killed the Static Chatbot: Interactive Visuals are Here](https://dev.to/siddhesh_surve/claude-just-killed-the-static-chatbot-interactive-visuals-are-here-3i5j)
+- [Building VercelZero: An Open-Source Deployment Platform Experience with Next.js + AI](https://dev.to/davesimoes/building-vercelzero-an-open-source-deployment-platform-experience-with-nextjs-ai-1928)
+- [Digital Stewardship: Why Sovereign Infrastructure is the Silent Requirement for AI Safety](https://dev.to/janealesi/digital-stewardship-why-sovereign-infrastructure-is-the-silent-requirement-for-ai-safety-5c1p)
+- [10 Browser API Hooks Every React Developer Needs](https://dev.to/childrentime/10-browser-api-hooks-every-react-developer-needs-3j4h)
+- [Stop Writing Boilerplate! Simplify Java Bean Mapping with MapStruct](https://dev.to/manojsatna31/stop-writing-boilerplate-dto-mappings-in-java-use-mapstruct-instead-4356)
 <!-- BLOG-POST-LIST:END -->
 
