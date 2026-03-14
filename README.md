@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🗄️ Blob-Based Storage Optimization](https://dev.to/denesbeck/blob-based-storage-optimization-2j2h)
-- [Making Shell Scripts Safer in Production](https://dev.to/o_7969a270d071/making-shell-scripts-safer-in-production-2km5)
-- [AI Did Not Simplify Software Engineering: It Just Made Bad Engineering Easier](https://dev.to/robenglander/ai-did-not-simplify-software-engineering-it-just-made-bad-engineering-easier-4lnn)
-- [👨🏻‍💻 Developing my own VCS](https://dev.to/denesbeck/developing-my-own-vcs-1clg)
+- [Network egress is the cloud cost that people notice too late](https://dev.to/vctrcloudsec/network-egress-is-the-cloud-cost-that-people-notice-too-late-klc)
+- [Databases - Postgresql - PGbouncer](https://dev.to/12ww1160/databases-postgresql-pgbouncer-2hg)
+- [Most HR platforms can&#39;t record video. Adding it takes 4 lines of code.](https://dev.to/danger_cris/most-hr-platforms-cant-record-video-adding-it-takes-4-lines-of-code-1m67)
+- [One small experience to check the node of ros2](https://dev.to/jubro/one-small-experience-to-check-the-node-of-ros2-4mob)
 <!-- BLOG-POST-LIST:END -->
 
