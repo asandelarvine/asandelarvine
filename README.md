@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbiotic Decisions: Why Every Choice You Make in a Game Rewires How You Decide in Real Life](https://dev.to/krizekster/symbiotic-decisions-why-every-choice-you-make-in-a-game-rewires-how-you-decide-in-real-life-39hc)
-- [I Made a Self-Assessment Penalty Calculator Because HMRC Won&#39;t Tell You What You Owe](https://dev.to/landolio/i-made-a-self-assessment-penalty-calculator-because-hmrc-wont-tell-you-what-you-owe-31go)
-- [Implementing FedCM Login: Browser-Native Authentication Without Popups](https://dev.to/ktaka/implementing-fedcm-login-browser-native-authentication-without-popups-4a4b)
-- [How I Built an Open-Source DocSend Alternative](https://dev.to/robertatkinson3570/how-i-built-an-open-source-docsend-alternative-1jja)
+- [GPT-5 Codex로 Shorts 생성 파이프라인 구축하기 — 프로젝트 부트스트랩 전략](https://dev.to/ji_ai/gpt-5-codexro-shorts-saengseong-paipeurain-gucughagi-peurojegteu-buteuseuteuraeb-jeonryag-3jf1)
+- [Your Brain on Action Games: The Neuroscience of Faster Thinking and Better Memory](https://dev.to/krizekster/your-brain-on-action-games-the-neuroscience-of-faster-thinking-and-better-memory-1b37)
+- [How Introverts Become Leaders in MMOs &lpar;And Why It Transfers to Real Life&rpar;](https://dev.to/krizekster/how-introverts-become-leaders-in-mmos-and-why-it-transfers-to-real-life-364e)
+- [AI 뉴스 자동 생성 파이프라인 — 이중언어 콘텐츠를 한번에 처리하는 스크립트 패턴](https://dev.to/ji_ai/ai-nyuseu-jadong-saengseong-paipeurain-ijungeoneo-kontenceureul-hanbeone-ceorihaneun-seukeuribteu-paeteon-cd8)
 <!-- BLOG-POST-LIST:END -->
 
