@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9)
-- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i)
-- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j)
-- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7)
+- [Designing an AI-Native Content Publishing Pipeline](https://dev.to/yusufhansck/designing-an-ai-native-content-publishing-pipeline-298a)
+- [Argo CD on EKS: Git repo access with AWS CodeConnections and Terraform](https://dev.to/jajera/argo-cd-on-eks-git-repo-access-with-aws-codeconnections-and-terraform-kck)
+- [Stop rebuilding Word documents with PDF libraries or HTML generators](https://dev.to/benny00100/stop-rebuilding-word-documents-with-pdf-libraries-or-html-generators-5cfo)
+- [SLOs, SLIs, and SLAs Defined](https://dev.to/godofgeeks/slos-slis-and-slas-defined-3o4n)
 <!-- BLOG-POST-LIST:END -->
 
