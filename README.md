@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Made Simple: From Zero to Docker with Real Interview Questions](https://dev.to/rutvikmakvana4/docker-made-simple-from-zero-to-docker-with-real-interview-questions-848)
-- [The ADHD Gamer&#39;s Superpower: When Hyperfocus Becomes an Elite Cognitive Skill](https://dev.to/krizekster/the-adhd-gamers-superpower-when-hyperfocus-becomes-an-elite-cognitive-skill-12ad)
-- [Gaming as a Superpower: The Neuroscience Behind Why Gamers Outperform Non-Gamers](https://dev.to/krizekster/gaming-as-a-superpower-the-neuroscience-behind-why-gamers-outperform-non-gamers-46ei)
-- [SwiftUI Debugging: 6 Techniques Every iOS Dev Should Know](https://dev.to/mrugeshtank/swiftui-debugging-6-techniques-every-ios-dev-should-know-p3h)
+- [Symbiotic Decisions: Why Every Choice You Make in a Game Rewires How You Decide in Real Life](https://dev.to/krizekster/symbiotic-decisions-why-every-choice-you-make-in-a-game-rewires-how-you-decide-in-real-life-39hc)
+- [I Made a Self-Assessment Penalty Calculator Because HMRC Won&#39;t Tell You What You Owe](https://dev.to/landolio/i-made-a-self-assessment-penalty-calculator-because-hmrc-wont-tell-you-what-you-owe-31go)
+- [Implementing FedCM Login: Browser-Native Authentication Without Popups](https://dev.to/ktaka/implementing-fedcm-login-browser-native-authentication-without-popups-4a4b)
+- [How I Built an Open-Source DocSend Alternative](https://dev.to/robertatkinson3570/how-i-built-an-open-source-docsend-alternative-1jja)
 <!-- BLOG-POST-LIST:END -->
 
