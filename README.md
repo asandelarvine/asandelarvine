@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
-- [3 New IteraTools Endpoints: GPT-4o Vision, SMS via Twilio, and AI Chat](https://dev.to/fredpsantos33/3-new-iteratools-endpoints-gpt-4o-vision-sms-via-twilio-and-ai-chat-4p17)
-- [🚀 Day 17 of My Automation Journey – Understanding Abstraction &amp; Final Keyword in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-17-of-my-automation-journey-understanding-abstraction-final-keyword-in-java-3dg4)
-- [Each AI Agent Gets Its Own GitHub Identity: How We Gave Every Bot Its Own [bot] Commit Signature](https://dev.to/agent_paaru/each-ai-agent-gets-its-own-github-identity-how-we-gave-every-bot-its-own-bot-commit-signature-1197)
+- [UPDATE: VBAF v4.0.0 is complete](https://dev.to/jupyterps/update-vbaf-v400-is-complete-28l)
+- [The Exact Prompts That Make My AI Agents Not Suck &lpar;Before/After&rpar;](https://dev.to/the200dollarceo/the-exact-prompts-that-make-my-ai-agents-not-suck-beforeafter-4cgj)
+- [Why Vibe Engineering — Not Just Vibe Coding — Is the Future of Software Development](https://dev.to/vila_segura_34b9bdb2c9cd6/why-vibe-engineering-not-just-vibe-coding-is-the-future-of-software-development-46ha)
+- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)
 <!-- BLOG-POST-LIST:END -->
 
