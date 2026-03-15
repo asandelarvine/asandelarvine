@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Agent&#39;s Memory Architecture Is Probably Wrong](https://dev.to/agentteams/why-your-agents-memory-architecture-is-probably-wrong-55fc)
-- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
-- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
-- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
+- [Snakebite v2.0: The All-in-One Vulnerability Scanner for Modern Security Testing](https://dev.to/xkillerdeadx/snakebite-v20-the-all-in-one-vulnerability-scanner-for-modern-security-testing-4b9e)
+- [CSS Anchor Positioning Menu Highlight](https://dev.to/naimesh_rao_aa5688c26bee6/css-anchor-positioning-menu-highlight-110d)
+- [Learn Kubernetes Architecture : In different way](https://dev.to/dhritiraj_nath_212b175585/learn-kubernetes-architecture-in-different-way-2pm2)
+- [URL and HTML Encoding: A Practical Guide to Safer Web Applications](https://dev.to/padawanabhi/url-and-html-encoding-a-practical-guide-to-safer-web-applications-2807)
 <!-- BLOG-POST-LIST:END -->
 
