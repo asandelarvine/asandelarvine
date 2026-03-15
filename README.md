@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [E2E Test Automation Strategy for Frontend Upgrades &lpar;Angular, React, Vue.js&rpar;](https://dev.to/arkreddysfo/e2e-test-automation-strategy-for-frontend-upgrades-angular-react-vuejs-4b68)
-- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
-- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
-- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
+- [I Built a Free Android App to Track Subscriptions – Here&#39;s What I Learned](https://dev.to/sohail_manzoor_1297ab0256/i-built-a-free-android-app-to-track-subscriptions-heres-what-i-learned-4p69)
+- [I Built the First Official CLI for a Disposable Email Service — Here&#39;s Why and How to Use It](https://dev.to/dishantsinghdev/i-built-the-first-official-cli-for-a-disposable-email-service-heres-why-and-how-to-use-it-59go)
+- [How to Accept Solana Payments on Your Website &lpar;No Stripe, No Gumroad&rpar;](https://dev.to/tatelyman/how-to-accept-solana-payments-on-your-website-no-stripe-no-gumroad-3of6)
+- [How to reduce your OpenClaw agent costs &lpar;with a free dashboard](https://dev.to/aperturesurvivor/how-to-reduce-your-openclaw-agent-costs-with-a-free-dashboard-5e3o)
 <!-- BLOG-POST-LIST:END -->
 
