@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Single Prompt: Orchestrating Parallel Context Isolation &lpar;PCI&rpar; with Claude Code](https://dev.to/rsri/beyond-the-single-prompt-orchestrating-parallel-context-isolation-pci-with-claude-code-f58)
-- [Week 9: Fish Shell Functions for Managing AWS EC2 Instances -- Save Time and Billing](https://dev.to/fosres/fish-shell-functions-for-managing-aws-ec2-instances-save-progress-time-and-billing-1kbi)
-- [Keystore vs Truststore — How SSL Certificate Chain Actually Works &lpar;with java Examples&rpar;](https://dev.to/sanjayghosh/keystore-vs-truststore-how-ssl-certificate-chain-actually-works-with-java-examples-3hj5)
-- [The IEEPA Era Is Over](https://dev.to/rmccharles/the-ieepa-era-is-over-fin)
+- [E2E Test Automation Strategy for Frontend Upgrades &lpar;Angular, React, Vue.js&rpar;](https://dev.to/arkreddysfo/e2e-test-automation-strategy-for-frontend-upgrades-angular-react-vuejs-4b68)
+- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
+- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
+- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
 <!-- BLOG-POST-LIST:END -->
 
