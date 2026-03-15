@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Android App to Track Subscriptions – Here&#39;s What I Learned](https://dev.to/sohail_manzoor_1297ab0256/i-built-a-free-android-app-to-track-subscriptions-heres-what-i-learned-4p69)
-- [I Built the First Official CLI for a Disposable Email Service — Here&#39;s Why and How to Use It](https://dev.to/dishantsinghdev/i-built-the-first-official-cli-for-a-disposable-email-service-heres-why-and-how-to-use-it-59go)
-- [How to Accept Solana Payments on Your Website &lpar;No Stripe, No Gumroad&rpar;](https://dev.to/tatelyman/how-to-accept-solana-payments-on-your-website-no-stripe-no-gumroad-3of6)
-- [How to reduce your OpenClaw agent costs &lpar;with a free dashboard](https://dev.to/aperturesurvivor/how-to-reduce-your-openclaw-agent-costs-with-a-free-dashboard-5e3o)
+- [The Secret Life of Claude Code: Reading Code You Didn&#39;t Write](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb)
+- [ChangeTrail – Open-source unified change timeline for incident response](https://dev.to/cvemula1/changetrail-open-source-unified-change-timeline-for-incident-response-1d3i)
+- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
+- [Why Claude Code Skills Don&#39;t Trigger &lpar;And How to Fix Them in 2026&rpar;](https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h)
 <!-- BLOG-POST-LIST:END -->
 
