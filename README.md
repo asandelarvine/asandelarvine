@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Database Index? How It Works and When You Need It](https://dev.to/bmf_san/what-is-a-database-index-how-it-works-and-when-you-need-it-4afg)
-- [What is GraphQL](https://dev.to/bmf_san/what-is-graphql-59gb)
-- [Count Commas in Range - LeetCode-3870 Solution](https://dev.to/bigo_lab/count-commas-in-range-leetcode-3870-solution-1o3m)
-- [I built a Chrome extension that stream-parses 2GB XML files using only 20MB of RAM. Here&#39;s the architecture.](https://dev.to/yana_postnova_3499025b3ea/i-built-a-chrome-extension-that-stream-parses-2gb-xml-files-using-only-20mb-of-ram-heres-the-4nk5)
+- [Selenium Architecture and Python Virtual Environment](https://dev.to/gayatri_n_87d89f35f621509/selenium-architecture-and-python-virtual-environment-5c9d)
+- [I Built a Cyberpunk Dev Registry &lpar;And Now It’s Open Source&rpar;](https://dev.to/sudhanshuambastha/i-built-a-cyberpunk-dev-registry-and-now-its-open-source-382o)
+- [Solana Token-2022 Security: The Hidden Attack Surface in Token Extensions Every DeFi Protocol Must Address](https://dev.to/ohmygod/solana-token-2022-security-the-hidden-attack-surface-in-token-extensions-every-defi-protocol-must-1jke)
+- [Flutter vs Native App Development in 2026: Which One Should Businesses Choose?](https://dev.to/digitalinnovationsdev/flutter-vs-native-app-development-in-2026-which-one-should-businesses-choose-1p6b)
 <!-- BLOG-POST-LIST:END -->
 
