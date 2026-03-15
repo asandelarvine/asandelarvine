@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bugs Nobody Fixed &lpar;Until Now&rpar;](https://dev.to/vasughanta09/the-bugs-nobody-fixed-until-now-1il3)
-- [[Python/Fin]打造股票質押計算器&lpar;3&rpar;：歷史數據滾動回測模擬](https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-3li-shi-shu-ju-gun-dong-hui-ce-mo-ni-1iaf)
-- [I Let AI Agents Build My Entire Side Project — Here&#39;s What Happened](https://dev.to/chillkimtestoss/i-let-ai-agents-build-my-entire-side-project-heres-what-happened-2bbg)
-- [What Are We Actually Measuring?](https://dev.to/zentoshi/what-are-we-actually-measuring-31ml)
+- [Array Methods You Must Know](https://dev.to/souvik_blog_b790df30e8dea/array-methods-you-must-know-147g)
+- [Arrow Functions in JavaScript :- A Simpler Way to Write Functions](https://dev.to/souvik_blog_b790df30e8dea/arrow-functions-in-javascript-a-simpler-way-to-write-functions-34ee)
+- [Control Flow in JavaScript :- If, Else, and Switch Explained](https://dev.to/souvik_blog_b790df30e8dea/control-flow-in-javascript-if-else-and-switch-explained-3075)
+- [Function Declaration vs Function Expression What’s the Difference](https://dev.to/souvik_blog_b790df30e8dea/function-declaration-vs-function-expression-whats-the-difference-1c69)
 <!-- BLOG-POST-LIST:END -->
 
