@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Node.js Architecture and Internal Workings](https://dev.to/ritam369/deep-dive-into-nodejs-architecture-and-internal-workings-1dj9)
-- [Monorepos Explained: Benefits, Drawbacks, and When to Use Them](https://dev.to/bmf_san/monorepos-explained-benefits-drawbacks-and-when-to-use-them-2nb2)
-- [Differences Between Pull and Push Approaches in Monitoring Systems](https://dev.to/bmf_san/differences-between-pull-and-push-approaches-in-monitoring-systems-32a7)
-- [What I Learned Shipping a Spiritual App to 100+ Users and ₹15K Revenue in 3 Months](https://dev.to/lordhacker756/what-i-learned-shipping-a-spiritual-app-to-100-users-and-15k-revenue-in-3-months-9fd)
+- [What is a Database Index? How It Works and When You Need It](https://dev.to/bmf_san/what-is-a-database-index-how-it-works-and-when-you-need-it-4afg)
+- [What is GraphQL](https://dev.to/bmf_san/what-is-graphql-59gb)
+- [Count Commas in Range - LeetCode-3870 Solution](https://dev.to/bigo_lab/count-commas-in-range-leetcode-3870-solution-1o3m)
+- [I built a Chrome extension that stream-parses 2GB XML files using only 20MB of RAM. Here&#39;s the architecture.](https://dev.to/yana_postnova_3499025b3ea/i-built-a-chrome-extension-that-stream-parses-2gb-xml-files-using-only-20mb-of-ram-heres-the-4nk5)
 <!-- BLOG-POST-LIST:END -->
 
