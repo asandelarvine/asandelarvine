@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating URL Routing Episode 2](https://dev.to/bmf_san/creating-url-routing-episode-2-272e)
-- [Creating URL Routing Episode 1](https://dev.to/bmf_san/creating-url-routing-episode-1-3f18)
-- [15 Hugging Face Alternatives for Private, Self-Hosted AI Deployment &lpar;2026&rpar;](https://dev.to/jaipalsingh/15-hugging-face-alternatives-for-private-self-hosted-ai-deployment-2026-2li5)
-- [Container Technology Explained: How Docker and OCI Containers Work](https://dev.to/bmf_san/container-technology-explained-how-docker-and-oci-containers-work-19b2)
+- [Deep Dive into Node.js Architecture and Internal Workings](https://dev.to/ritam369/deep-dive-into-nodejs-architecture-and-internal-workings-1dj9)
+- [Monorepos Explained: Benefits, Drawbacks, and When to Use Them](https://dev.to/bmf_san/monorepos-explained-benefits-drawbacks-and-when-to-use-them-2nb2)
+- [Differences Between Pull and Push Approaches in Monitoring Systems](https://dev.to/bmf_san/differences-between-pull-and-push-approaches-in-monitoring-systems-32a7)
+- [What I Learned Shipping a Spiritual App to 100+ Users and ₹15K Revenue in 3 Months](https://dev.to/lordhacker756/what-i-learned-shipping-a-spiritual-app-to-100-users-and-15k-revenue-in-3-months-9fd)
 <!-- BLOG-POST-LIST:END -->
 
