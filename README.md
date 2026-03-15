@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with Google Vertex multimodal AI](https://dev.to/farzankk/building-with-google-vertex-multimodal-ai-3o68)
-- [How We Added 15+ Cultural Name Origins to a Baby Name Generator &lpar;With SEO Results&rpar;](https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3)
-- [We built an AI agent to write cold emails. Then we used it to sell itself.](https://dev.to/alex_wu_anythoughts_ai/we-built-an-ai-agent-to-write-cold-emails-then-we-used-it-to-sell-itself-18ib)
-- [AI Alignment, Catastrophic Risk, and Why Governments Are Finally Paying Attention](https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki)
+- [Claude Code Configuration Blueprint: The Complete Guide for Production Teams](https://dev.to/mir_mursalin_ankur/claude-code-configuration-blueprint-the-complete-guide-for-production-teams-557p)
+- [5 SQL Formatting Rules That Make Your Queries Actually Readable](https://dev.to/zevinchen/5-sql-formatting-rules-that-make-your-queries-actually-readable-2jj6)
+- [GPT-4o vs Claude vs Gemini: I ran the same 50 prompts through all three so you don&#39;t have to](https://dev.to/oneaiworld/gpt-4o-vs-claude-vs-gemini-i-ran-the-same-50-prompts-through-all-three-so-you-dont-have-to-2872)
+- [The &quot;Google SRE&quot; Interview Process: Why Senior Engineers Fail &lpar;2026+ Guide&rpar;](https://dev.to/aceinterviews/the-google-sre-interview-process-why-senior-engineers-fail-2026-guide-28eb)
 <!-- BLOG-POST-LIST:END -->
 
