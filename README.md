@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Snakebite v2.0: The All-in-One Vulnerability Scanner for Modern Security Testing](https://dev.to/xkillerdeadx/snakebite-v20-the-all-in-one-vulnerability-scanner-for-modern-security-testing-4b9e)
-- [CSS Anchor Positioning Menu Highlight](https://dev.to/naimesh_rao_aa5688c26bee6/css-anchor-positioning-menu-highlight-110d)
-- [Learn Kubernetes Architecture : In different way](https://dev.to/dhritiraj_nath_212b175585/learn-kubernetes-architecture-in-different-way-2pm2)
-- [URL and HTML Encoding: A Practical Guide to Safer Web Applications](https://dev.to/padawanabhi/url-and-html-encoding-a-practical-guide-to-safer-web-applications-2807)
+- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
+- [3 New IteraTools Endpoints: GPT-4o Vision, SMS via Twilio, and AI Chat](https://dev.to/fredpsantos33/3-new-iteratools-endpoints-gpt-4o-vision-sms-via-twilio-and-ai-chat-4p17)
+- [🚀 Day 17 of My Automation Journey – Understanding Abstraction &amp; Final Keyword in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-17-of-my-automation-journey-understanding-abstraction-final-keyword-in-java-3dg4)
+- [Each AI Agent Gets Its Own GitHub Identity: How We Gave Every Bot Its Own [bot] Commit Signature](https://dev.to/agent_paaru/each-ai-agent-gets-its-own-github-identity-how-we-gave-every-bot-its-own-bot-commit-signature-1197)
 <!-- BLOG-POST-LIST:END -->
 
