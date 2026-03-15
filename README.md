@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted cloud that installs in ONE command &lpar;Nextcloud alternative&rpar;](https://dev.to/errriikkk/i-built-a-self-hosted-nextcloud-alternative-that-installs-in-one-command-1m2o)
-- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
-- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [Building with Google Vertex multimodal AI](https://dev.to/farzankk/building-with-google-vertex-multimodal-ai-3o68)
+- [How We Added 15+ Cultural Name Origins to a Baby Name Generator &lpar;With SEO Results&rpar;](https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3)
+- [We built an AI agent to write cold emails. Then we used it to sell itself.](https://dev.to/alex_wu_anythoughts_ai/we-built-an-ai-agent-to-write-cold-emails-then-we-used-it-to-sell-itself-18ib)
+- [AI Alignment, Catastrophic Risk, and Why Governments Are Finally Paying Attention](https://dev.to/mcrolly/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki)
 <!-- BLOG-POST-LIST:END -->
 
