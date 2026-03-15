@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Configuration Blueprint: The Complete Guide for Production Teams](https://dev.to/mir_mursalin_ankur/claude-code-configuration-blueprint-the-complete-guide-for-production-teams-557p)
-- [5 SQL Formatting Rules That Make Your Queries Actually Readable](https://dev.to/zevinchen/5-sql-formatting-rules-that-make-your-queries-actually-readable-2jj6)
-- [GPT-4o vs Claude vs Gemini: I ran the same 50 prompts through all three so you don&#39;t have to](https://dev.to/oneaiworld/gpt-4o-vs-claude-vs-gemini-i-ran-the-same-50-prompts-through-all-three-so-you-dont-have-to-2872)
-- [The &quot;Google SRE&quot; Interview Process: Why Senior Engineers Fail &lpar;2026+ Guide&rpar;](https://dev.to/aceinterviews/the-google-sre-interview-process-why-senior-engineers-fail-2026-guide-28eb)
+- [The Bugs Nobody Fixed &lpar;Until Now&rpar;](https://dev.to/vasughanta09/the-bugs-nobody-fixed-until-now-1il3)
+- [[Python/Fin]打造股票質押計算器&lpar;3&rpar;：歷史數據滾動回測模擬](https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-3li-shi-shu-ju-gun-dong-hui-ce-mo-ni-1iaf)
+- [I Let AI Agents Build My Entire Side Project — Here&#39;s What Happened](https://dev.to/chillkimtestoss/i-let-ai-agents-build-my-entire-side-project-heres-what-happened-2bbg)
+- [What Are We Actually Measuring?](https://dev.to/zentoshi/what-are-we-actually-measuring-31ml)
 <!-- BLOG-POST-LIST:END -->
 
