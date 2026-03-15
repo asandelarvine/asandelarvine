@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Unified API is Failing Your Frontend &lpar;And Why Metadata is the Cure&rpar;](https://dev.to/aspantel/why-your-unified-api-is-failing-your-frontend-and-why-metadata-is-the-cure-5d6c)
-- [No, Brazil&#39;s &quot;Felca Law&quot; doesn&#39;t ban Linux](https://dev.to/phalkmin/no-brazils-felca-law-doesnt-ban-linux-4jj0)
-- [14.Linux Postfix Mail Server](https://dev.to/thukhakyawe_cloud/14linux-postfix-mail-server-2o4j)
-- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
+- [Why Your Agent&#39;s Memory Architecture Is Probably Wrong](https://dev.to/agentteams/why-your-agents-memory-architecture-is-probably-wrong-55fc)
+- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
+- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
+- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
 <!-- BLOG-POST-LIST:END -->
 
