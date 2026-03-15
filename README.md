@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Methods You Must Know](https://dev.to/souvik_blog_b790df30e8dea/array-methods-you-must-know-147g)
-- [Arrow Functions in JavaScript :- A Simpler Way to Write Functions](https://dev.to/souvik_blog_b790df30e8dea/arrow-functions-in-javascript-a-simpler-way-to-write-functions-34ee)
-- [Control Flow in JavaScript :- If, Else, and Switch Explained](https://dev.to/souvik_blog_b790df30e8dea/control-flow-in-javascript-if-else-and-switch-explained-3075)
-- [Function Declaration vs Function Expression What’s the Difference](https://dev.to/souvik_blog_b790df30e8dea/function-declaration-vs-function-expression-whats-the-difference-1c69)
+- [Creating URL Routing Episode 2](https://dev.to/bmf_san/creating-url-routing-episode-2-272e)
+- [Creating URL Routing Episode 1](https://dev.to/bmf_san/creating-url-routing-episode-1-3f18)
+- [15 Hugging Face Alternatives for Private, Self-Hosted AI Deployment &lpar;2026&rpar;](https://dev.to/jaipalsingh/15-hugging-face-alternatives-for-private-self-hosted-ai-deployment-2026-2li5)
+- [Container Technology Explained: How Docker and OCI Containers Work](https://dev.to/bmf_san/container-technology-explained-how-docker-and-oci-containers-work-19b2)
 <!-- BLOG-POST-LIST:END -->
 
