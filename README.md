@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Architecture and Python Virtual Environment](https://dev.to/gayatri_n_87d89f35f621509/selenium-architecture-and-python-virtual-environment-5c9d)
-- [I Built a Cyberpunk Dev Registry &lpar;And Now It’s Open Source&rpar;](https://dev.to/sudhanshuambastha/i-built-a-cyberpunk-dev-registry-and-now-its-open-source-382o)
-- [Solana Token-2022 Security: The Hidden Attack Surface in Token Extensions Every DeFi Protocol Must Address](https://dev.to/ohmygod/solana-token-2022-security-the-hidden-attack-surface-in-token-extensions-every-defi-protocol-must-1jke)
-- [Flutter vs Native App Development in 2026: Which One Should Businesses Choose?](https://dev.to/digitalinnovationsdev/flutter-vs-native-app-development-in-2026-which-one-should-businesses-choose-1p6b)
+- [Why Your Unified API is Failing Your Frontend &lpar;And Why Metadata is the Cure&rpar;](https://dev.to/aspantel/why-your-unified-api-is-failing-your-frontend-and-why-metadata-is-the-cure-5d6c)
+- [No, Brazil&#39;s &quot;Felca Law&quot; doesn&#39;t ban Linux](https://dev.to/phalkmin/no-brazils-felca-law-doesnt-ban-linux-4jj0)
+- [14.Linux Postfix Mail Server](https://dev.to/thukhakyawe_cloud/14linux-postfix-mail-server-2o4j)
+- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
 <!-- BLOG-POST-LIST:END -->
 
