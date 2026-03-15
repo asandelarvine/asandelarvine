@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Healthcare Data MCP Server: ICD-10, NPI, NDC, and DEA Tools for AI Agents](https://dev.to/easysolutions906/a-healthcare-data-mcp-server-icd-10-npi-ndc-and-dea-tools-for-ai-agents-2olc)
-- [I Passed the AWS Certification. Here&#39;s Why I Still Couldn&#39;t Get Hired.](https://dev.to/ajbuilds/i-passed-the-aws-certification-heres-why-i-still-couldnt-get-hired-52mb)
-- [What Does a Website Security Score Mean?](https://dev.to/guardr/what-does-a-website-security-score-mean-1kbn)
-- [Understanding Seq2Seq Neural Networks – Part 3: Stacking LSTMs in the Encoder](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-3-stacking-lstms-in-the-encoder-cj1)
+- [Beyond the Single Prompt: Orchestrating Parallel Context Isolation &lpar;PCI&rpar; with Claude Code](https://dev.to/rsri/beyond-the-single-prompt-orchestrating-parallel-context-isolation-pci-with-claude-code-f58)
+- [Week 9: Fish Shell Functions for Managing AWS EC2 Instances -- Save Time and Billing](https://dev.to/fosres/fish-shell-functions-for-managing-aws-ec2-instances-save-progress-time-and-billing-1kbi)
+- [Keystore vs Truststore — How SSL Certificate Chain Actually Works &lpar;with java Examples&rpar;](https://dev.to/sanjayghosh/keystore-vs-truststore-how-ssl-certificate-chain-actually-works-with-java-examples-3hj5)
+- [The IEEPA Era Is Over](https://dev.to/rmccharles/the-ieepa-era-is-over-fin)
 <!-- BLOG-POST-LIST:END -->
 
