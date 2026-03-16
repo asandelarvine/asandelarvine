@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Engineering Is Not a Replacement for Architecture](https://dev.to/narnaiezzsshaa/context-engineering-is-not-a-replacement-for-architecture-4ifl)
-- [Express.js PDF API: From HTML to PDF in 30 Seconds](https://dev.to/yoshyaes/expressjs-pdf-api-from-html-to-pdf-in-30-seconds-20m)
-- [The Secret Notebook of a Dev](https://dev.to/narnaiezzsshaa/the-secret-notebook-of-a-dev-1b0i)
-- [The Blind Spots of Four Archetypes](https://dev.to/narnaiezzsshaa/the-blind-spots-of-four-archetypes-4lf4)
+- [TDD Is No Longer Optional in the World of AI Agents](https://dev.to/andredarcie/tdd-is-no-longer-optional-in-the-world-of-ai-agents-5b1e)
+- [I ran 4 AI agents on my backlog and went for coffee](https://dev.to/reumbra/i-ran-4-ai-agents-on-my-backlog-and-went-for-coffee-4n63)
+- [The Bounded Autonomy Spectrum: When AI Agents Should Ask Instead of Act](https://dev.to/the_bookmaster/the-bounded-autonomy-spectrum-when-ai-agents-should-ask-instead-of-act-470i)
+- [How I built a real-time emotional spending intervention agent with Gemini Live](https://dev.to/rakib_1202/how-i-built-a-real-time-emotional-spending-intervention-agent-with-gemini-live-41cb)
 <!-- BLOG-POST-LIST:END -->
 
