@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[SC] Limitar el número de tareas en ejecución dentro de un TaskGroup](https://dev.to/david_goyes_a488f58a17a53/sc-limitar-el-numero-de-tareas-en-ejecucion-dentro-de-un-taskgroup-1a74)
-- [Choosing an ETL Tool in 2026](https://dev.to/gjdickens/choosing-an-etl-tool-in-2026-34hp)
-- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
-- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
+- [Why you should never migrate everything at once](https://dev.to/yeisoncruz16/why-you-should-never-migrate-everything-at-once-3jie)
+- [Building an Offline-First Retail Hub in Rust: How ApexEdge Keeps Stores Selling When the Internet Dies](https://dev.to/icegaming/building-an-offline-first-retail-hub-in-rust-how-apexedge-keeps-stores-selling-when-the-internet-ipg)
+- [Stop Drowning in CI Noise: QAI Agent Clusters Your Test Failures and Tells You What Actually Broke](https://dev.to/tomerli/stop-drowning-in-ci-noise-qai-agent-clusters-your-test-failures-and-tells-you-what-actually-broke-923)
+- [I Built an AI SDLC Scaffold](https://dev.to/pangon/i-built-an-ai-sdlc-scaffold-f5g)
 <!-- BLOG-POST-LIST:END -->
 
