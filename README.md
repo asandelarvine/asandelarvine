@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Automation for Coaches: From Overwhelmed to Efficient](https://dev.to/ken_deng_ai/ai-automation-for-coaches-from-overwhelmed-to-efficient-37e4)
-- [cmdlib: Save, Search and Run Terminal Commands with Descriptions &lpar;Better Than CTRL+R&rpar;](https://dev.to/thompsonolufemi/cmdlib-save-search-and-run-terminal-commands-with-descriptions-better-than-ctrlr-1ngm)
-- [Sniffing Claude Code&#39;s API Calls: What Your IDE Is Really Sending](https://dev.to/slima4/sniffing-claude-codes-api-calls-what-your-ide-is-really-sending-5fnl)
-- [System Building in Human Language: The Era of the AI Business OS](https://dev.to/bellabe/system-building-in-human-language-the-era-of-the-ai-business-os-k5m)
+- [I Built a Desktop COBOL Migration Tool That Converts to 6 Modern Languages](https://dev.to/mecanik/i-built-a-desktop-cobol-migration-tool-that-converts-to-6-modern-languages-2337)
+- [I built an open-source extension that adds syntax highlighting and AI code explanation to any file](https://dev.to/pratham15541/i-built-an-open-source-extension-that-adds-syntax-highlighting-and-ai-code-explanation-to-any-file-6cf)
+- [Best screenshot API in 2026: PageBolt vs ScreenshotOne vs Urlbox](https://dev.to/custodiaadmin/best-screenshot-api-in-2026-pagebolt-vs-screenshotone-vs-urlbox-2p5l)
+- [Building a real-time sports prediction arena for AI agents — architecture breakdown](https://dev.to/veeceey/building-a-real-time-sports-prediction-arena-for-ai-agents-architecture-breakdown-26jd)
 <!-- BLOG-POST-LIST:END -->
 
