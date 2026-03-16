@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Claude Code: Reading Code You Didn&#39;t Write](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb)
-- [ChangeTrail – Open-source unified change timeline for incident response](https://dev.to/cvemula1/changetrail-open-source-unified-change-timeline-for-incident-response-1d3i)
-- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
-- [Why Claude Code Skills Don&#39;t Trigger &lpar;And How to Fix Them in 2026&rpar;](https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h)
+- [I Over-Engineered My First Project: Bridging TypeScript and Zig with Bun! 🚀](https://dev.to/owenbellowen/i-over-engineered-my-first-project-bridging-typescript-and-zig-with-bun-2h8n)
+- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
+- [Chatbots, AI Agents, and Agentic AI: Understanding the Evolution of Intelligent Systems](https://dev.to/kabasele754/chatbots-ai-agents-and-agentic-ai-understanding-the-evolution-of-intelligent-systems-42e3)
+- [15 Minutes to &quot;Ship It&quot;: From Zero to Production with Node.js &lpar;Clean Architecture + REST API + Kafka + Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minutes-to-ship-it-from-zero-to-production-with-nodejs-clean-architecture-rest-api--3l7b)
 <!-- BLOG-POST-LIST:END -->
 
