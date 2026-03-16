@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Over-Engineered My First Project: Bridging TypeScript and Zig with Bun! 🚀](https://dev.to/owenbellowen/i-over-engineered-my-first-project-bridging-typescript-and-zig-with-bun-2h8n)
-- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
-- [Chatbots, AI Agents, and Agentic AI: Understanding the Evolution of Intelligent Systems](https://dev.to/kabasele754/chatbots-ai-agents-and-agentic-ai-understanding-the-evolution-of-intelligent-systems-42e3)
-- [15 Minutes to &quot;Ship It&quot;: From Zero to Production with Node.js &lpar;Clean Architecture + REST API + Kafka + Docker &amp; CI/CD&rpar;](https://dev.to/paudang/15-minutes-to-ship-it-from-zero-to-production-with-nodejs-clean-architecture-rest-api--3l7b)
+- [AI Automation for Coaches: From Overwhelmed to Efficient](https://dev.to/ken_deng_ai/ai-automation-for-coaches-from-overwhelmed-to-efficient-37e4)
+- [cmdlib: Save, Search and Run Terminal Commands with Descriptions &lpar;Better Than CTRL+R&rpar;](https://dev.to/thompsonolufemi/cmdlib-save-search-and-run-terminal-commands-with-descriptions-better-than-ctrlr-1ngm)
+- [Sniffing Claude Code&#39;s API Calls: What Your IDE Is Really Sending](https://dev.to/slima4/sniffing-claude-codes-api-calls-what-your-ide-is-really-sending-5fnl)
+- [System Building in Human Language: The Era of the AI Business OS](https://dev.to/bellabe/system-building-in-human-language-the-era-of-the-ai-business-os-k5m)
 <!-- BLOG-POST-LIST:END -->
 
