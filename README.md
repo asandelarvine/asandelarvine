@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MT Travel Developer Guide: Verify AI Booking Agents with W3C Delegation Chains](https://dev.to/moltycel/mt-travel-developer-guide-verify-ai-booking-agents-with-w3c-delegation-chains-h24)
-- [What Falling Off a Horse Taught Me About Frontend Architecture](https://dev.to/marialurdes_dehtiarenko_/what-falling-off-a-horse-taught-me-about-frontend-architecture-1815)
-- [AI Face Match Probable Cause: A Grandmother Paid the Price](https://dev.to/caracomp/ai-face-match-probable-cause-a-grandmother-paid-the-price-46o)
-- [5 Agent Skills I’d install before starting any new agent project in 2026](https://dev.to/ialijr/5-agent-skills-id-install-before-starting-any-new-agent-project-in-2026-3mg1)
+- [Context Engineering Is Not a Replacement for Architecture](https://dev.to/narnaiezzsshaa/context-engineering-is-not-a-replacement-for-architecture-4ifl)
+- [Express.js PDF API: From HTML to PDF in 30 Seconds](https://dev.to/yoshyaes/expressjs-pdf-api-from-html-to-pdf-in-30-seconds-20m)
+- [The Secret Notebook of a Dev](https://dev.to/narnaiezzsshaa/the-secret-notebook-of-a-dev-1b0i)
+- [The Blind Spots of Four Archetypes](https://dev.to/narnaiezzsshaa/the-blind-spots-of-four-archetypes-4lf4)
 <!-- BLOG-POST-LIST:END -->
 
