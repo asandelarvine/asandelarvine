@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent LLM Serving: Benchmarking vLLM vs SGLang vs Ollama](https://dev.to/zkaria_gamal_3cddbbff21c8/concurrent-llm-serving-benchmarking-vllm-vs-sglang-vs-ollama-1cpn)
-- [Building an AI Gateway in Rust &lpar;Authentication, Rate Limiting, and Routing&rpar;](https://dev.to/amankiss85/building-an-ai-gateway-in-rust-authentication-rate-limiting-and-routing-2d99)
-- [SLLVM - A unique OLLVM-based obfuscator](https://dev.to/lich0/sllvm-a-unique-ollvm-based-obfuscator-3k8c)
-- [I built a zero-BS calculator to find your true freelance rate &lpar;and avoid burnout&rpar;](https://dev.to/andrew_vazhnovski_25e9cb6/i-built-a-zero-bs-calculator-to-find-your-true-freelance-rate-and-avoid-burnout-2mkm)
+- [HTMLCollection vs NodeList in DOM: A JavaScript Guide](https://dev.to/ritam369/htmlcollection-vs-nodelist-in-dom-a-javascript-guide-2cd5)
+- [How I Built a Complete Multi-Tenancy System for My Laravel SaaS - Without Spatie](https://dev.to/d_isaenko_dev/how-i-built-a-complete-multi-tenancy-system-for-my-laravel-saas-without-spatie-227a)
+- [Moveet: incidents, recording &amp; replay, fleet management, dispatch flows, and 500+ tests](https://dev.to/ivannovazzi/moveet-v2-incidents-recording-replay-icon-rail-ui-and-500-tests-5fl5)
+- [How to Add Swap Space on Ubuntu &lpar;5GB Example&rpar;](https://dev.to/jervi/how-to-add-swap-space-on-ubuntu-5gb-example-3f1n)
 <!-- BLOG-POST-LIST:END -->
 
