@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you should never migrate everything at once](https://dev.to/yeisoncruz16/why-you-should-never-migrate-everything-at-once-3jie)
-- [Building an Offline-First Retail Hub in Rust: How ApexEdge Keeps Stores Selling When the Internet Dies](https://dev.to/icegaming/building-an-offline-first-retail-hub-in-rust-how-apexedge-keeps-stores-selling-when-the-internet-ipg)
-- [Stop Drowning in CI Noise: QAI Agent Clusters Your Test Failures and Tells You What Actually Broke](https://dev.to/tomerli/stop-drowning-in-ci-noise-qai-agent-clusters-your-test-failures-and-tells-you-what-actually-broke-923)
-- [I Built an AI SDLC Scaffold](https://dev.to/pangon/i-built-an-ai-sdlc-scaffold-f5g)
+- [MT Travel Developer Guide: Verify AI Booking Agents with W3C Delegation Chains](https://dev.to/moltycel/mt-travel-developer-guide-verify-ai-booking-agents-with-w3c-delegation-chains-h24)
+- [What Falling Off a Horse Taught Me About Frontend Architecture](https://dev.to/marialurdes_dehtiarenko_/what-falling-off-a-horse-taught-me-about-frontend-architecture-1815)
+- [AI Face Match Probable Cause: A Grandmother Paid the Price](https://dev.to/caracomp/ai-face-match-probable-cause-a-grandmother-paid-the-price-46o)
+- [5 Agent Skills I’d install before starting any new agent project in 2026](https://dev.to/ialijr/5-agent-skills-id-install-before-starting-any-new-agent-project-in-2026-3mg1)
 <!-- BLOG-POST-LIST:END -->
 
