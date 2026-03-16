@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern: A Practical CRUD Implementation Guide](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-a-practical-crud-implementation-guide-38hd)
-- [Canonry - The ultimate agent first AEO monitoring tool, open source.](https://dev.to/arberx/canonry-the-ultimate-agent-first-aeo-monitoring-tool-open-source-1idk)
-- [PII in Your Logs Is a GDPR Time Bomb - Here&#39;s How to Defuse It](https://dev.to/polliog/pii-in-your-logs-is-a-gdpr-time-bomb-heres-how-to-defuse-it-307l)
-- [Beyond the Single Repo: How I Use Claude Code Across Microservices](https://dev.to/leonardobybyte/beyond-the-single-repo-how-i-use-claude-code-across-microservices-hl5)
+- [Why Atomic Query Construction &lpar;AQC&rpar; Intentionally Uses Arrays Instead of DTOs](https://dev.to/raheelshan/why-atomic-query-construction-aqc-intentionally-uses-arrays-instead-of-dtos-3jfa)
+- [Running NemoClaw or OpenClaw locally? Audit your server before you give an AI agent the keys.](https://dev.to/metriclogic26/running-nemoclaw-or-openclaw-locally-audit-your-server-before-you-give-an-ai-agent-the-keys-35n4)
+- [My JSON Was Too Big for My AI, So I Built an MCP Server to Fix It](https://dev.to/gautamvhavle/my-json-was-too-big-for-my-ai-so-i-built-an-mcp-server-to-fix-it-43m2)
+- [How I connected SAP Business One to WhatsApp using AI agents &lpar;open-source&rpar;](https://dev.to/marcostaira/how-i-connected-sap-business-one-to-whatsapp-using-ai-agents-open-source-1210)
 <!-- BLOG-POST-LIST:END -->
 
