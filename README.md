@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop COBOL Migration Tool That Converts to 6 Modern Languages](https://dev.to/mecanik/i-built-a-desktop-cobol-migration-tool-that-converts-to-6-modern-languages-2337)
-- [I built an open-source extension that adds syntax highlighting and AI code explanation to any file](https://dev.to/pratham15541/i-built-an-open-source-extension-that-adds-syntax-highlighting-and-ai-code-explanation-to-any-file-6cf)
-- [Best screenshot API in 2026: PageBolt vs ScreenshotOne vs Urlbox](https://dev.to/custodiaadmin/best-screenshot-api-in-2026-pagebolt-vs-screenshotone-vs-urlbox-2p5l)
-- [Building a real-time sports prediction arena for AI agents — architecture breakdown](https://dev.to/veeceey/building-a-real-time-sports-prediction-arena-for-ai-agents-architecture-breakdown-26jd)
+- [Concurrent LLM Serving: Benchmarking vLLM vs SGLang vs Ollama](https://dev.to/zkaria_gamal_3cddbbff21c8/concurrent-llm-serving-benchmarking-vllm-vs-sglang-vs-ollama-1cpn)
+- [Building an AI Gateway in Rust &lpar;Authentication, Rate Limiting, and Routing&rpar;](https://dev.to/amankiss85/building-an-ai-gateway-in-rust-authentication-rate-limiting-and-routing-2d99)
+- [SLLVM - A unique OLLVM-based obfuscator](https://dev.to/lich0/sllvm-a-unique-ollvm-based-obfuscator-3k8c)
+- [I built a zero-BS calculator to find your true freelance rate &lpar;and avoid burnout&rpar;](https://dev.to/andrew_vazhnovski_25e9cb6/i-built-a-zero-bs-calculator-to-find-your-true-freelance-rate-and-avoid-burnout-2mkm)
 <!-- BLOG-POST-LIST:END -->
 
