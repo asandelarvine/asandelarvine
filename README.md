@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Atomic Query Construction &lpar;AQC&rpar; Intentionally Uses Arrays Instead of DTOs](https://dev.to/raheelshan/why-atomic-query-construction-aqc-intentionally-uses-arrays-instead-of-dtos-3jfa)
-- [Running NemoClaw or OpenClaw locally? Audit your server before you give an AI agent the keys.](https://dev.to/metriclogic26/running-nemoclaw-or-openclaw-locally-audit-your-server-before-you-give-an-ai-agent-the-keys-35n4)
-- [My JSON Was Too Big for My AI, So I Built an MCP Server to Fix It](https://dev.to/gautamvhavle/my-json-was-too-big-for-my-ai-so-i-built-an-mcp-server-to-fix-it-43m2)
-- [How I connected SAP Business One to WhatsApp using AI agents &lpar;open-source&rpar;](https://dev.to/marcostaira/how-i-connected-sap-business-one-to-whatsapp-using-ai-agents-open-source-1210)
+- [Streaming Large Financial Transaction Exports Without Breaking Your API](https://dev.to/abhiram_k/streaming-large-financial-transaction-exports-without-breaking-your-api-h5g)
+- [How I give my AI agents eyes with a single API call](https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad)
+- [Cómo sacar el máximo partido a Kiro](https://dev.to/aws-builders/como-sacar-el-maximo-partido-a-kiro-4i00)
+- [ScamDetect: Building a Multilingual AI-Powered Phishing Detection Platform](https://dev.to/blaycoder/scamdetect-building-a-multilingual-ai-powered-phishing-detection-platform-1d4n)
 <!-- BLOG-POST-LIST:END -->
 
