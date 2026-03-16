@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HTMLCollection vs NodeList in DOM: A JavaScript Guide](https://dev.to/ritam369/htmlcollection-vs-nodelist-in-dom-a-javascript-guide-2cd5)
-- [How I Built a Complete Multi-Tenancy System for My Laravel SaaS - Without Spatie](https://dev.to/d_isaenko_dev/how-i-built-a-complete-multi-tenancy-system-for-my-laravel-saas-without-spatie-227a)
-- [Moveet: incidents, recording &amp; replay, fleet management, dispatch flows, and 500+ tests](https://dev.to/ivannovazzi/moveet-v2-incidents-recording-replay-icon-rail-ui-and-500-tests-5fl5)
-- [How to Add Swap Space on Ubuntu &lpar;5GB Example&rpar;](https://dev.to/jervi/how-to-add-swap-space-on-ubuntu-5gb-example-3f1n)
+- [[SC] Limitar el número de tareas en ejecución dentro de un TaskGroup](https://dev.to/david_goyes_a488f58a17a53/sc-limitar-el-numero-de-tareas-en-ejecucion-dentro-de-un-taskgroup-1a74)
+- [Choosing an ETL Tool in 2026](https://dev.to/gjdickens/choosing-an-etl-tool-in-2026-34hp)
+- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 3](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-3-2cma)
+- [How I automated IPA transcription for linguistics: A story of CMUdict and Offline-first design](https://dev.to/louisbuilds/how-i-automated-ipa-transcription-for-linguistics-a-story-of-cmudict-and-offline-first-design-89j)
 <!-- BLOG-POST-LIST:END -->
 
