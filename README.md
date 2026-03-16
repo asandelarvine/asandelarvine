@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming Large Financial Transaction Exports Without Breaking Your API](https://dev.to/abhiram_k/streaming-large-financial-transaction-exports-without-breaking-your-api-h5g)
-- [How I give my AI agents eyes with a single API call](https://dev.to/boehner/how-i-give-my-ai-agents-eyes-with-a-single-api-call-bad)
-- [Cómo sacar el máximo partido a Kiro](https://dev.to/aws-builders/como-sacar-el-maximo-partido-a-kiro-4i00)
-- [ScamDetect: Building a Multilingual AI-Powered Phishing Detection Platform](https://dev.to/blaycoder/scamdetect-building-a-multilingual-ai-powered-phishing-detection-platform-1d4n)
+- [Your First Infrastructure as Code in Four Commands](https://dev.to/aws-builders/your-first-infrastructure-as-code-in-four-commands-46ep)
+- [Mentori: Turning Documents Into Interactive AI Tutors with Gemini Live](https://dev.to/harshini_hegde_1ab5ee3606/mentori-turning-documents-into-interactive-ai-tutors-with-gemini-live-26nl)
+- [Building Apache Iceberg Lakehouse Storage with S3 Table Buckets](https://dev.to/tallgray1/building-apache-iceberg-lakehouse-storage-with-s3-table-buckets-4dio)
+- [Building Wand: A Voice + Hand Pointer Live Agent with Google ADK and Gemini Live](https://dev.to/lifuyuan/building-wand-a-voice-hand-pointer-live-agent-with-google-adk-and-gemini-live-2fp7)
 <!-- BLOG-POST-LIST:END -->
 
