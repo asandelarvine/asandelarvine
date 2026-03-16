@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TDD Is No Longer Optional in the World of AI Agents](https://dev.to/andredarcie/tdd-is-no-longer-optional-in-the-world-of-ai-agents-5b1e)
-- [I ran 4 AI agents on my backlog and went for coffee](https://dev.to/reumbra/i-ran-4-ai-agents-on-my-backlog-and-went-for-coffee-4n63)
-- [The Bounded Autonomy Spectrum: When AI Agents Should Ask Instead of Act](https://dev.to/the_bookmaster/the-bounded-autonomy-spectrum-when-ai-agents-should-ask-instead-of-act-470i)
-- [How I built a real-time emotional spending intervention agent with Gemini Live](https://dev.to/rakib_1202/how-i-built-a-real-time-emotional-spending-intervention-agent-with-gemini-live-41cb)
+- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern: A Practical CRUD Implementation Guide](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-a-practical-crud-implementation-guide-38hd)
+- [Canonry - The ultimate agent first AEO monitoring tool, open source.](https://dev.to/arberx/canonry-the-ultimate-agent-first-aeo-monitoring-tool-open-source-1idk)
+- [PII in Your Logs Is a GDPR Time Bomb - Here&#39;s How to Defuse It](https://dev.to/polliog/pii-in-your-logs-is-a-gdpr-time-bomb-heres-how-to-defuse-it-307l)
+- [Beyond the Single Repo: How I Use Claude Code Across Microservices](https://dev.to/leonardobybyte/beyond-the-single-repo-how-i-use-claude-code-across-microservices-hl5)
 <!-- BLOG-POST-LIST:END -->
 
