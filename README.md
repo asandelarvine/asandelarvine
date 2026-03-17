@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a RAG System Architecture](https://dev.to/letstalkoss/anatomy-of-a-rag-system-architecture-1l96)
-- [awesome-trending-repos: Auto-Tracking GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-auto-tracking-github-trending-1afj)
-- [awesome-trending-repos: GitHub Trending&#39;i Otomatik Takip Etme](https://dev.to/furkankoykiran/awesome-trending-repos-github-trendingi-otomatik-takip-etme-eb2)
-- [The Complete Beginner&#39;s Guide to GSD &lpar;Get Shit Done&rpar; Framework for Claude Code](https://dev.to/alikazmidev/the-complete-beginners-guide-to-gsd-get-shit-done-framework-for-claude-code-24h0)
+- [Send Emails from Next.js with Hisend SDK](https://dev.to/lupluv/send-emails-from-nextjs-with-hisend-sdk-36hc)
+- [Receive Emails in Next.js with Hisend &lpar;the painless way&rpar;](https://dev.to/lupluv/receive-emails-in-nextjs-with-hisend-the-painless-way-31l4)
+- [Progressive Checkout Optimization: Breaking Your Purchase Flow Into Convertible Micro Experiences](https://dev.to/jasonbiondo/progressive-checkout-optimization-breaking-your-purchase-flow-into-convertible-micro-experiences-5b5)
+- [OpenSoul Agent Skill: Building Blockchain-Based AI Agent Memory and Identity](https://dev.to/aloycwl/opensoul-agent-skill-building-blockchain-based-ai-agent-memory-and-identity-2d2p)
 <!-- BLOG-POST-LIST:END -->
 
