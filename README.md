@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Emails from Next.js with Hisend SDK](https://dev.to/lupluv/send-emails-from-nextjs-with-hisend-sdk-36hc)
-- [Receive Emails in Next.js with Hisend &lpar;the painless way&rpar;](https://dev.to/lupluv/receive-emails-in-nextjs-with-hisend-the-painless-way-31l4)
-- [Progressive Checkout Optimization: Breaking Your Purchase Flow Into Convertible Micro Experiences](https://dev.to/jasonbiondo/progressive-checkout-optimization-breaking-your-purchase-flow-into-convertible-micro-experiences-5b5)
-- [OpenSoul Agent Skill: Building Blockchain-Based AI Agent Memory and Identity](https://dev.to/aloycwl/opensoul-agent-skill-building-blockchain-based-ai-agent-memory-and-identity-2d2p)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/ijay/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50kk)
+- [AI Agents Ship Bugs Faster Than You Can Fix Them](https://dev.to/tars_mistaike/ai-agents-ship-bugs-faster-than-you-can-fix-them-1pga)
+- [How to Structure Claude Code for Production: MCP Servers, Subagents, and CLAUDE.md &lpar;2026 Guide&rpar;](https://dev.to/lizechengnet/how-to-structure-claude-code-for-production-mcp-servers-subagents-and-claudemd-2026-guide-4gjn)
+- [🚀 Luff Microservices Boilerplate: Build Production-Ready Apps Faster](https://dev.to/harsh_tanwar/luff-microservices-boilerplate-build-production-ready-apps-faster-43np)
 <!-- BLOG-POST-LIST:END -->
 
