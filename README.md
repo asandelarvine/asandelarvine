@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to stop Claude Code from asking for confirmation mid-task](https://dev.to/builtbyzac/how-to-stop-claude-code-from-asking-for-confirmation-mid-task-2cbo)
-- [How to stop Claude from doing more than you asked](https://dev.to/builtbyzac/how-to-stop-claude-from-doing-more-than-you-asked-4io7)
-- [Is a 60% Keyboard Actually Worth It for Developers in 2026? ⌨️🚀](https://dev.to/mysticcoder/is-a-60-keyboard-actually-worth-it-for-developers-in-2026-1jc)
-- [Karpathy&#39;s agent-native infrastructure + working Python agent template](https://dev.to/alireza_rezvani/karpathys-agent-native-infrastructure-working-python-agent-template-2o9d)
+- [Prometheus + Grafana: The Monitoring Stack That Replaced Our $40K/Year Tool](https://dev.to/sanjaysundarmurthy/prometheus-grafana-the-monitoring-stack-that-replaced-our-40kyear-tool-2e0p)
+- [Claude&#39;s 2x Usage Boost Is Live — Here&#39;s How to Maximize It &lpar;March 13–28, 2026&rpar;](https://dev.to/sivarampg/claudes-2x-usage-boost-is-live-heres-how-to-maximize-it-march-13-28-2026-31d0)
+- [Monorepo vs Multirepo: How I Changed My Mind After Working on Real Projects](https://dev.to/alexsergey/monorepo-vs-multirepo-how-i-changed-my-mind-after-working-on-real-projects-2o97)
+- [Data Analyst Guide: Mastering Email Like a Senior Analyst: 5 Golden Rules](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-email-like-a-senior-analyst-5-golden-rules-1562)
 <!-- BLOG-POST-LIST:END -->
 
