@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus + Grafana: The Monitoring Stack That Replaced Our $40K/Year Tool](https://dev.to/sanjaysundarmurthy/prometheus-grafana-the-monitoring-stack-that-replaced-our-40kyear-tool-2e0p)
-- [Claude&#39;s 2x Usage Boost Is Live — Here&#39;s How to Maximize It &lpar;March 13–28, 2026&rpar;](https://dev.to/sivarampg/claudes-2x-usage-boost-is-live-heres-how-to-maximize-it-march-13-28-2026-31d0)
-- [Monorepo vs Multirepo: How I Changed My Mind After Working on Real Projects](https://dev.to/alexsergey/monorepo-vs-multirepo-how-i-changed-my-mind-after-working-on-real-projects-2o97)
-- [Data Analyst Guide: Mastering Email Like a Senior Analyst: 5 Golden Rules](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-email-like-a-senior-analyst-5-golden-rules-1562)
+- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-3688)
+- [[Boost]](https://dev.to/anthonymax/-ikf)
+- [AI Changed the Industry, But Not Why I Loved Computers](https://dev.to/sepehr/ai-changed-the-industry-but-not-why-i-loved-computers-ga)
+- [I Gave My AI Agent an Email Address. Here&#39;s What Happened.](https://dev.to/0coceo/i-gave-my-ai-agent-an-email-address-heres-what-happened-akp)
 <!-- BLOG-POST-LIST:END -->
 
