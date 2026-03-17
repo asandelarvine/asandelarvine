@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best resources for mastering machine learning system design](https://dev.to/stack_overflowed/best-resources-for-mastering-machine-learning-system-design-8na)
-- [Scaling FastAPI from 180 1300 Requests/sec: What Actually Worked](https://dev.to/winsongr/scaling-fastapi-from-180-1300-requestssec-what-actually-worked-10n9)
-- [AlgRelay The Westworld Pattern: Multi-Stage Algorithmic Systems](https://dev.to/owly/algrelay-the-westworld-pattern-multi-stage-algorithmic-systems-543b)
-- [Is your Production RAG giving up too?](https://dev.to/royanannya/is-your-production-rag-giving-up-too-3pi0)
+- [How to stop Claude Code from asking for confirmation mid-task](https://dev.to/builtbyzac/how-to-stop-claude-code-from-asking-for-confirmation-mid-task-2cbo)
+- [How to stop Claude from doing more than you asked](https://dev.to/builtbyzac/how-to-stop-claude-from-doing-more-than-you-asked-4io7)
+- [Is a 60% Keyboard Actually Worth It for Developers in 2026? ⌨️🚀](https://dev.to/mysticcoder/is-a-60-keyboard-actually-worth-it-for-developers-in-2026-1jc)
+- [Karpathy&#39;s agent-native infrastructure + working Python agent template](https://dev.to/alireza_rezvani/karpathys-agent-native-infrastructure-working-python-agent-template-2o9d)
 <!-- BLOG-POST-LIST:END -->
 
