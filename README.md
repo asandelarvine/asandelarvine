@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Public Portfolio and Ghostwriting for Founders](https://dev.to/ribhavmodi/building-a-public-portfolio-and-ghostwriting-for-founders-5f29)
-- [Why Falling AI Token Prices Don’t Mean Lower Costs](https://dev.to/khushi_dubey/why-falling-ai-token-prices-dont-mean-lower-costs-4j90)
-- [I Built a Skill That Writes Your Specs For You](https://dev.to/dannwaneri/i-built-a-skill-that-writes-your-specs-for-you-1o2n)
-- [WebWorker](https://dev.to/oter_padun_eb662bf882af9e/webworker-2di0)
+- [I built a free tool to design Tesla wraps and preview them in 3D — 2,000+ users, 3,700+ AI-generated designs, $200 in revenue](https://dev.to/louisv_studio/i-built-a-free-tool-to-design-tesla-wraps-and-preview-them-in-3d-2000-users-3700-4lpo)
+- [I Set Up GitOps on EKS with ArgoCD, Here&#39;s What Kubernetes Actually Looks Like in Production](https://dev.to/augusthottie/i-set-up-gitops-on-eks-with-argocd-heres-what-kubernetes-actually-looks-like-in-production-1961)
+- [L.U.C.I.A.: Cómo trabajar codo con codo con la IA sin perder el volante](https://dev.to/raguilera82/lucia-como-trabajar-codo-con-codo-con-la-ia-sin-perder-el-volante-54el)
+- [Tích hợp GA4 Google Analytics vào Zalo MiniApp](https://dev.to/huylv/tich-hop-ga4-google-analytics-vao-zalo-miniapp-47gg)
 <!-- BLOG-POST-LIST:END -->
 
