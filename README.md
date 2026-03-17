@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool to design Tesla wraps and preview them in 3D — 2,000+ users, 3,700+ AI-generated designs, $200 in revenue](https://dev.to/louisv_studio/i-built-a-free-tool-to-design-tesla-wraps-and-preview-them-in-3d-2000-users-3700-4lpo)
-- [I Set Up GitOps on EKS with ArgoCD, Here&#39;s What Kubernetes Actually Looks Like in Production](https://dev.to/augusthottie/i-set-up-gitops-on-eks-with-argocd-heres-what-kubernetes-actually-looks-like-in-production-1961)
-- [L.U.C.I.A.: Cómo trabajar codo con codo con la IA sin perder el volante](https://dev.to/raguilera82/lucia-como-trabajar-codo-con-codo-con-la-ia-sin-perder-el-volante-54el)
-- [Tích hợp GA4 Google Analytics vào Zalo MiniApp](https://dev.to/huylv/tich-hop-ga4-google-analytics-vao-zalo-miniapp-47gg)
+- [My AI Agent Built Its Own Tools — Here&#39;s How OpenClaw Skills Actually Work](https://dev.to/chirs_428b78486a09cfd138f/my-ai-agent-built-its-own-tools-heres-how-openclaw-skills-actually-work-2kga)
+- [How I Safely Share Logs, Configs, and Code with AI -Introducing Privatiser.net](https://dev.to/r0ot/how-i-safely-share-logs-configs-and-code-with-ai-introducing-privatisernet-12e3)
+- [Claude Code vs Cursor: I use both. Here&#39;s how I actually split the work](https://dev.to/builtbyzac/claude-code-vs-cursor-i-use-both-heres-how-i-actually-split-the-work-541m)
+- [Built mysh — a MySQL connection manager that auto-masks query output &lpar;emails, phones, etc.&rpar; befor...](https://dev.to/atani/built-mysh-a-mysql-connection-manager-that-auto-masks-query-output-emails-phones-etc-befor-2jid)
 <!-- BLOG-POST-LIST:END -->
 
