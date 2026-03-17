@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [QueueForge Website Launch](https://dev.to/ivole32/queueforge-website-launch-1ef7)
-- [I built 116 AI tools into one API — and added crypto payments](https://dev.to/archtools_dev/i-built-116-ai-tools-into-one-api-and-added-crypto-payments-2jk7)
-- [How to Preview Markdown Files Directly in macOS Finder](https://dev.to/crackx17/how-to-preview-markdown-files-directly-in-macos-finder-190e)
-- [NumClass – a Python CLI that classifies integers into 200+ number-theory properties &lpar;looking for testers&rpar;](https://dev.to/marcel_vandinteren_477b0/numclass-a-python-cli-that-classifies-integers-into-200-number-theory-properties-looking-for-h18)
+- [Anatomy of a RAG System Architecture](https://dev.to/letstalkoss/anatomy-of-a-rag-system-architecture-1l96)
+- [awesome-trending-repos: Auto-Tracking GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-auto-tracking-github-trending-1afj)
+- [awesome-trending-repos: GitHub Trending&#39;i Otomatik Takip Etme](https://dev.to/furkankoykiran/awesome-trending-repos-github-trendingi-otomatik-takip-etme-eb2)
+- [The Complete Beginner&#39;s Guide to GSD &lpar;Get Shit Done&rpar; Framework for Claude Code](https://dev.to/alikazmidev/the-complete-beginners-guide-to-gsd-get-shit-done-framework-for-claude-code-24h0)
 <!-- BLOG-POST-LIST:END -->
 
