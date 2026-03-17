@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-3688)
-- [[Boost]](https://dev.to/anthonymax/-ikf)
-- [AI Changed the Industry, But Not Why I Loved Computers](https://dev.to/sepehr/ai-changed-the-industry-but-not-why-i-loved-computers-ga)
-- [I Gave My AI Agent an Email Address. Here&#39;s What Happened.](https://dev.to/0coceo/i-gave-my-ai-agent-an-email-address-heres-what-happened-akp)
+- [Building a Public Portfolio and Ghostwriting for Founders](https://dev.to/ribhavmodi/building-a-public-portfolio-and-ghostwriting-for-founders-5f29)
+- [Why Falling AI Token Prices Don’t Mean Lower Costs](https://dev.to/khushi_dubey/why-falling-ai-token-prices-dont-mean-lower-costs-4j90)
+- [I Built a Skill That Writes Your Specs For You](https://dev.to/dannwaneri/i-built-a-skill-that-writes-your-specs-for-you-1o2n)
+- [WebWorker](https://dev.to/oter_padun_eb662bf882af9e/webworker-2di0)
 <!-- BLOG-POST-LIST:END -->
 
