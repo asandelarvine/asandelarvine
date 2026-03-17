@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-in-the-Loop Evaluation Systems for GenAI Platforms](https://dev.to/shreekansha97/human-in-the-loop-evaluation-systems-for-genai-platforms-28gm)
-- [Voice Ownership Needs an Exit Door, Not Just an Onboarding Flow](https://dev.to/chefbc2k_v1/voice-ownership-needs-an-exit-door-not-just-an-onboarding-flow-5fpi)
-- [Webpack vs Vite: The Complete Guide Every Frontend Dev Must Read &lpar;2026&rpar;](https://dev.to/munna_thakur_2019444f0351/webpack-vs-vite-the-complete-guide-every-frontend-dev-must-read-2026-46pd)
-- [SurfaceDocs + LlamaIndex: From RAG Pipeline to Shareable Report](https://dev.to/surfacedocs/surfacedocs-llamaindex-from-rag-pipeline-to-shareable-report-2fdf)
+- [The $27M Oracle Misfire: How Aave&#39;s CAPO System Turned a Configuration Error Into Mass Liquidations](https://dev.to/ohmygod/the-27m-oracle-misfire-how-aaves-capo-system-turned-a-configuration-error-into-mass-liquidations-5f14)
+- [Built a subscription reminder with Next.js and Supabase.](https://dev.to/syedmurtjiz/built-a-subscription-reminder-with-nextjs-and-supabase-4jje)
+- [I Built a 100% Private, On-Device AI Audio Stem Splitter &lpar;No Servers!&rpar;](https://dev.to/aralroca/i-built-a-100-private-on-device-ai-audio-stem-splitter-no-servers-5016)
+- [Claude CodeでScatter-Gatherパターンを設計する：並列サービス呼び出し・結果集約・タイムアウト制御](https://dev.to/myougatheaxo/claude-codedescatter-gatherpatanwoshe-ji-surubing-lie-sabisuhu-bichu-sijie-guo-ji-yue-taimuautozhi-yu-7c8)
 <!-- BLOG-POST-LIST:END -->
 
