@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $27M Oracle Misfire: How Aave&#39;s CAPO System Turned a Configuration Error Into Mass Liquidations](https://dev.to/ohmygod/the-27m-oracle-misfire-how-aaves-capo-system-turned-a-configuration-error-into-mass-liquidations-5f14)
-- [Built a subscription reminder with Next.js and Supabase.](https://dev.to/syedmurtjiz/built-a-subscription-reminder-with-nextjs-and-supabase-4jje)
-- [I Built a 100% Private, On-Device AI Audio Stem Splitter &lpar;No Servers!&rpar;](https://dev.to/aralroca/i-built-a-100-private-on-device-ai-audio-stem-splitter-no-servers-5016)
-- [Claude CodeでScatter-Gatherパターンを設計する：並列サービス呼び出し・結果集約・タイムアウト制御](https://dev.to/myougatheaxo/claude-codedescatter-gatherpatanwoshe-ji-surubing-lie-sabisuhu-bichu-sijie-guo-ji-yue-taimuautozhi-yu-7c8)
+- [QueueForge Website Launch](https://dev.to/ivole32/queueforge-website-launch-1ef7)
+- [I built 116 AI tools into one API — and added crypto payments](https://dev.to/archtools_dev/i-built-116-ai-tools-into-one-api-and-added-crypto-payments-2jk7)
+- [How to Preview Markdown Files Directly in macOS Finder](https://dev.to/crackx17/how-to-preview-markdown-files-directly-in-macos-finder-190e)
+- [NumClass – a Python CLI that classifies integers into 200+ number-theory properties &lpar;looking for testers&rpar;](https://dev.to/marcel_vandinteren_477b0/numclass-a-python-cli-that-classifies-integers-into-200-number-theory-properties-looking-for-h18)
 <!-- BLOG-POST-LIST:END -->
 
