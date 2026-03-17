@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First Infrastructure as Code in Four Commands](https://dev.to/aws-builders/your-first-infrastructure-as-code-in-four-commands-46ep)
-- [Mentori: Turning Documents Into Interactive AI Tutors with Gemini Live](https://dev.to/harshini_hegde_1ab5ee3606/mentori-turning-documents-into-interactive-ai-tutors-with-gemini-live-26nl)
-- [Building Apache Iceberg Lakehouse Storage with S3 Table Buckets](https://dev.to/tallgray1/building-apache-iceberg-lakehouse-storage-with-s3-table-buckets-4dio)
-- [Building Wand: A Voice + Hand Pointer Live Agent with Google ADK and Gemini Live](https://dev.to/lifuyuan/building-wand-a-voice-hand-pointer-live-agent-with-google-adk-and-gemini-live-2fp7)
+- [Beyond Text: seekdb Does Travel, Image Search, and Voice—in One DB](https://dev.to/seekdb/beyond-text-seekdb-does-travel-image-search-and-voice-in-one-db-mjk)
+- [6 Best Link in Bio for Creators in 2026](https://dev.to/ada_gao_1d265adffb29f2141/6-best-link-in-bio-for-creators-in-2026-1jkd)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-m0j)
+- [Why Multi-Agent AI Architectures Will Power the Next Generation of Learning Systems](https://dev.to/amit_tyagi_b6bb9dd185178e/why-multi-agent-ai-architectures-will-power-the-next-generation-of-learning-systems-m1j)
 <!-- BLOG-POST-LIST:END -->
 
