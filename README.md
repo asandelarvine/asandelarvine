@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Text: seekdb Does Travel, Image Search, and Voice—in One DB](https://dev.to/seekdb/beyond-text-seekdb-does-travel-image-search-and-voice-in-one-db-mjk)
-- [6 Best Link in Bio for Creators in 2026](https://dev.to/ada_gao_1d265adffb29f2141/6-best-link-in-bio-for-creators-in-2026-1jkd)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-m0j)
-- [Why Multi-Agent AI Architectures Will Power the Next Generation of Learning Systems](https://dev.to/amit_tyagi_b6bb9dd185178e/why-multi-agent-ai-architectures-will-power-the-next-generation-of-learning-systems-m1j)
+- [GHSA-WWG8-6FFR-H4Q2: GHSA-wwg8-6ffr-h4q2: Cross-Site Request Forgery in Admidio Role Management](https://dev.to/cverports/ghsa-wwg8-6ffr-h4q2-ghsa-wwg8-6ffr-h4q2-cross-site-request-forgery-in-admidio-role-management-4m8o)
+- [Struggling to Learn Docker? I Built a Hands-On Learning Environment &lpar;DockerQuest&rpar;](https://dev.to/praveenkanaparthy/struggling-to-learn-docker-i-built-a-hands-on-learning-environment-dockerquest-1422)
+- [Learning Automation the Smart Way: Scripts, Bots, and AI Workflows Every Developer Should Master](https://dev.to/eva_clari_289d85ecc68da48/learning-automation-the-smart-way-scripts-bots-and-ai-workflows-every-developer-should-master-1k2k)
+- [How I Automated Backlink Submission for My Side Projects &lpar;and Why You Should Care About SEO&rpar;](https://dev.to/mr-zhang-bo/how-i-automated-backlink-submission-for-my-side-projects-and-why-you-should-care-about-seo-1phi)
 <!-- BLOG-POST-LIST:END -->
 
