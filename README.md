@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/ijay/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50kk)
-- [AI Agents Ship Bugs Faster Than You Can Fix Them](https://dev.to/tars_mistaike/ai-agents-ship-bugs-faster-than-you-can-fix-them-1pga)
-- [How to Structure Claude Code for Production: MCP Servers, Subagents, and CLAUDE.md &lpar;2026 Guide&rpar;](https://dev.to/lizechengnet/how-to-structure-claude-code-for-production-mcp-servers-subagents-and-claudemd-2026-guide-4gjn)
-- [🚀 Luff Microservices Boilerplate: Build Production-Ready Apps Faster](https://dev.to/harsh_tanwar/luff-microservices-boilerplate-build-production-ready-apps-faster-43np)
+- [The 37x Inference Tax: When to Use Frontier Models vs Open-Weight Alternatives](https://dev.to/gpubridge/the-37x-inference-tax-when-to-use-frontier-models-vs-open-weight-alternatives-3cpd)
+- [When “Private” Files Leak: How I Fixed a Silent Azure Storage Misconfiguration](https://dev.to/buildwithbabs/when-private-files-leak-how-i-fixed-a-silent-azure-storage-misconfiguration-5289)
+- [Accelerating Signal Processing using cuSignal](https://dev.to/ashwin_sriramulu/accelerating-signal-processing-using-cusignal-186h)
+- [The Complete Guide to Open Graph Tags — What Most Developers Get Wrong](https://dev.to/eatyou_eatyou_d79d27e5622/the-complete-guide-to-open-graph-tags-what-most-developers-get-wrong-1joa)
 <!-- BLOG-POST-LIST:END -->
 
