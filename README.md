@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Protecting Your Code and Methodology in the Age of AI: Introducing RCF Protocol v1.2.7](https://dev.to/aladdinaliyev/protecting-your-code-and-methodology-in-the-age-of-ai-introducing-rcf-protocol-v127-4dhj)
-- [Building a Competitor Monitoring Tool in 30 Lines of Node.js](https://dev.to/boehner/building-a-competitor-monitoring-tool-in-30-lines-of-nodejs-4i0g)
-- [Automate Screenshots and Metadata Checks with SnapAPI + Zapier &lpar;No Code Required&rpar;](https://dev.to/boehner/automate-screenshots-and-metadata-checks-with-snapapi-zapier-no-code-required-1hmj)
-- [I Built an AI SEO Content Generator — Generate 2000-Word Articles in 60 Seconds](https://dev.to/mocsa03/i-built-an-ai-seo-content-generator-generate-2000-word-articles-in-60-seconds-13dh)
+- [I made my own Bootloader at 16. It was horrible. It was worth it.](https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1)
+- [How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?](https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l)
+- [Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready](https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc)
+- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
 <!-- BLOG-POST-LIST:END -->
 
