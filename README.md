@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Codeでカーソルページネーションを設計する：大量データの高速ページング・ソート安定性・無限スクロール](https://dev.to/myougatheaxo/claude-codedekasorupezinesiyonwoshe-ji-suruda-liang-detanogao-su-pezingusotoan-ding-xing-wu-xian-sukuroru-515m)
-- [The Freelance Project Kickoff Checklist That Prevents Disasters](https://dev.to/humanpagesai/the-freelance-project-kickoff-checklist-that-prevents-disasters-gpe)
-- [Checkmk vs Grafana: Monitoring Compared](https://dev.to/selfhostingsh/checkmk-vs-grafana-monitoring-compared-2mom)
-- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3eoc)
+- [Licenses Without Lift: The $100K AI Tool Problem Nobody Talks About](https://dev.to/dave_odell_1f178f9096f58/licenses-without-lift-the-100k-ai-tool-problem-nobody-talks-about-54j8)
+- [One VPS, Ten Projects: Docker + Traefik + Cloudflare for Indie Hackers](https://dev.to/ryancwynar/one-vps-ten-projects-docker-traefik-cloudflare-for-indie-hackers-5hai)
+- [Beyond the Hype: A Developer&#39;s Guide to Building *With* AI, Not Just For It](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-building-with-ai-not-just-for-it-294e)
+- [Fed up with clunky image editors? I built ihateimg.in — free, fast, no signup needed](https://dev.to/harshilshah99/fed-up-with-clunky-image-editors-i-built-ihateimgin-free-fast-no-signup-needed-5g63)
 <!-- BLOG-POST-LIST:END -->
 
