@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Licenses Without Lift: The $100K AI Tool Problem Nobody Talks About](https://dev.to/dave_odell_1f178f9096f58/licenses-without-lift-the-100k-ai-tool-problem-nobody-talks-about-54j8)
-- [One VPS, Ten Projects: Docker + Traefik + Cloudflare for Indie Hackers](https://dev.to/ryancwynar/one-vps-ten-projects-docker-traefik-cloudflare-for-indie-hackers-5hai)
-- [Beyond the Hype: A Developer&#39;s Guide to Building *With* AI, Not Just For It](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-building-with-ai-not-just-for-it-294e)
-- [Fed up with clunky image editors? I built ihateimg.in — free, fast, no signup needed](https://dev.to/harshilshah99/fed-up-with-clunky-image-editors-i-built-ihateimgin-free-fast-no-signup-needed-5g63)
+- [Datacenter Proxies: Dead or Evolved? Use Cases in 2026](https://dev.to/onlineproxy_io/datacenter-proxies-dead-or-evolved-use-cases-in-2026-15on)
+- [J2ME — Building Java Mobile Games Under 128 kB](https://dev.to/wpqrek/j2me-building-java-mobile-games-under-128-kb-1jb6)
+- [How I solved Claude Code&#39;s biggest missing feature](https://dev.to/synth1s/how-i-solved-claude-codes-biggest-missing-feature-1cdi)
+- [What Makes a Good Open Source PR &lpar;Lessons From Getting Mine Closed&rpar;](https://dev.to/oolongtea2026/what-makes-a-good-open-source-pr-lessons-from-getting-mine-closed-23al)
 <!-- BLOG-POST-LIST:END -->
 
