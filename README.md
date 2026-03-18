@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Power BI to a PostgreSQL Database &lpar;Local &amp; Cloud-Aiven&rpar;](https://dev.to/davi__mungai/connecting-power-bi-to-a-postgresql-database-local-cloud-aiven-40g6)
-- [How to Organize API Requests When Testing Multiple Scenarios](https://dev.to/kanishkrawattt/how-to-organize-api-requests-when-testing-multiple-scenarios-5dn5)
-- [DAY 1 Setting up EC2 &amp; Nginx](https://dev.to/bhu_kalki/day-1-setting-up-ec2-nginx-3o5i)
-- [How the OpenClaw Context Restore Skill Helps You Resume Work Seamlessly](https://dev.to/aloycwl/how-the-openclaw-context-restore-skill-helps-you-resume-work-seamlessly-55k5)
+- [I Let Two Gradients Do All the Terrain Coloring for Me — Here&#39;s How It Works](https://dev.to/tamtranngoc/i-let-two-gradients-do-all-the-terrain-coloring-for-me-heres-how-it-works-gi7)
+- [Top 5 Bug &amp; Performance Issue Detection Tools for Flutter Apps in 2026](https://dev.to/robin_a_p/top-5-bug-performance-issue-detection-tools-for-flutter-apps-in-2026-jof)
+- [My Story with HiDNS](https://dev.to/ifeng/my-story-with-hidns-7hd)
+- [Import Excel to Elasticsearch](https://dev.to/csvbox-io/import-excel-to-elasticsearch-5gd2)
 <!-- BLOG-POST-LIST:END -->
 
