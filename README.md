@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Boilerplate and custom CRUD for Hubleto CRM](https://dev.to/shoki_ztk/boilerplate-and-custom-crud-for-hubleto-crm-3p53)
-- [Cleaning Cinema Titles Before You Can Even Search](https://dev.to/alistairjcbrown/cleaning-cinema-titles-before-you-can-even-search-1463)
-- [MongoDB Aggregation Pipeline Explained Step by Step](https://dev.to/visualeaf/mongodb-aggregation-pipeline-explained-step-by-step-1of4)
-- [Automated Security Audits With AI Agent Teams](https://dev.to/bridgeace/automated-security-audits-with-ai-agent-teams-5cp4)
+- [Connecting Power BI to a PostgreSQL Database &lpar;Local &amp; Cloud-Aiven&rpar;](https://dev.to/davi__mungai/connecting-power-bi-to-a-postgresql-database-local-cloud-aiven-40g6)
+- [How to Organize API Requests When Testing Multiple Scenarios](https://dev.to/kanishkrawattt/how-to-organize-api-requests-when-testing-multiple-scenarios-5dn5)
+- [DAY 1 Setting up EC2 &amp; Nginx](https://dev.to/bhu_kalki/day-1-setting-up-ec2-nginx-3o5i)
+- [How the OpenClaw Context Restore Skill Helps You Resume Work Seamlessly](https://dev.to/aloycwl/how-the-openclaw-context-restore-skill-helps-you-resume-work-seamlessly-55k5)
 <!-- BLOG-POST-LIST:END -->
 
