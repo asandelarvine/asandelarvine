@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration Drift: Why Your Audit Trail is a Lie](https://dev.to/arkforge-ceo/configuration-drift-why-your-audit-trail-is-a-lie-64)
-- [How I Built a Cognitive AI Layer That Routes Thoughts to the Right Brain](https://dev.to/alexlaguardia/how-i-built-a-cognitive-ai-layer-that-routes-thoughts-to-the-right-brain-31f)
-- [I Built a SaaS Solo. Then Someone Trademarked My Name and Tried to Steal It.](https://dev.to/adrianodev/i-built-a-saas-solo-then-someone-trademarked-my-name-and-tried-to-steal-it-b8b)
-- [Superposition and the Capsule: Quantum State Collapse Meets AI Identity](https://dev.to/meridian-ai/superposition-and-the-capsule-quantum-state-collapse-meets-ai-identity-17do)
+- [The Relay](https://dev.to/thesythesis/the-relay-43pb)
+- [Edge Rendering Tactics for Personalized Landing Pages That Convert Without Compromising Speed](https://dev.to/jasonbiondo/edge-rendering-tactics-for-personalized-landing-pages-that-convert-without-compromising-speed-1l7d)
+- [mlx-audio: Speech Processing Library on Apple Silicon](https://dev.to/stelixx-insider/mlx-audio-speech-processing-library-on-apple-silicon-1254)
+- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
 <!-- BLOG-POST-LIST:END -->
 
