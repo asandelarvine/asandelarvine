@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 37x Inference Tax: When to Use Frontier Models vs Open-Weight Alternatives](https://dev.to/gpubridge/the-37x-inference-tax-when-to-use-frontier-models-vs-open-weight-alternatives-3cpd)
-- [When “Private” Files Leak: How I Fixed a Silent Azure Storage Misconfiguration](https://dev.to/buildwithbabs/when-private-files-leak-how-i-fixed-a-silent-azure-storage-misconfiguration-5289)
-- [Accelerating Signal Processing using cuSignal](https://dev.to/ashwin_sriramulu/accelerating-signal-processing-using-cusignal-186h)
-- [The Complete Guide to Open Graph Tags — What Most Developers Get Wrong](https://dev.to/eatyou_eatyou_d79d27e5622/the-complete-guide-to-open-graph-tags-what-most-developers-get-wrong-1joa)
+- [🛡️ Protecting Your Code and Methodology in the Age of AI: Introducing RCF Protocol v1.2.7](https://dev.to/aladdinaliyev/protecting-your-code-and-methodology-in-the-age-of-ai-introducing-rcf-protocol-v127-4dhj)
+- [Building a Competitor Monitoring Tool in 30 Lines of Node.js](https://dev.to/boehner/building-a-competitor-monitoring-tool-in-30-lines-of-nodejs-4i0g)
+- [Automate Screenshots and Metadata Checks with SnapAPI + Zapier &lpar;No Code Required&rpar;](https://dev.to/boehner/automate-screenshots-and-metadata-checks-with-snapapi-zapier-no-code-required-1hmj)
+- [I Built an AI SEO Content Generator — Generate 2000-Word Articles in 60 Seconds](https://dev.to/mocsa03/i-built-an-ai-seo-content-generator-generate-2000-word-articles-in-60-seconds-13dh)
 <!-- BLOG-POST-LIST:END -->
 
