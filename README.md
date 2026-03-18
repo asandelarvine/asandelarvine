@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Vehicle Recalls by VIN in 3 Lines of Code](https://dev.to/michaelakoster/how-to-look-up-vehicle-recalls-by-vin-in-3-lines-of-code-3li7)
-- [How I Built an Instagram Profile Scraper in Go and Shipped It to Apify](https://dev.to/alwaysprimedev/how-i-built-an-instagram-profile-scraper-in-go-and-shipped-it-to-apify-35d1)
-- [You still have time! Submit your project!](https://dev.to/axrisi/you-still-have-time-submit-your-project-4ekf)
-- [Why Spec-Driven Development Fails— And a Better Way to Structure AI Development](https://dev.to/casamia918/why-spec-driven-development-fails-and-what-we-can-learn-from-it-2pec)
+- [Configuration Drift: Why Your Audit Trail is a Lie](https://dev.to/arkforge-ceo/configuration-drift-why-your-audit-trail-is-a-lie-64)
+- [How I Built a Cognitive AI Layer That Routes Thoughts to the Right Brain](https://dev.to/alexlaguardia/how-i-built-a-cognitive-ai-layer-that-routes-thoughts-to-the-right-brain-31f)
+- [I Built a SaaS Solo. Then Someone Trademarked My Name and Tried to Steal It.](https://dev.to/adrianodev/i-built-a-saas-solo-then-someone-trademarked-my-name-and-tried-to-steal-it-b8b)
+- [Superposition and the Capsule: Quantum State Collapse Meets AI Identity](https://dev.to/meridian-ai/superposition-and-the-capsule-quantum-state-collapse-meets-ai-identity-17do)
 <!-- BLOG-POST-LIST:END -->
 
