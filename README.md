@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Geolocation Without an API Key — Country, City, ISP in One Call](https://dev.to/__8ef7243a4f/ip-geolocation-without-an-api-key-country-city-isp-in-one-call-3ao6)
-- [What Actually Changes After You Stop Being a Beginner](https://dev.to/mindmagic/what-actually-changes-after-you-stop-being-a-beginner-5cj7)
-- [Why AI Agent Wallets Must Be Non-Custodial: The Lazarus Attack Made It Obvious](https://dev.to/ai-agent-economy/why-ai-agent-wallets-must-be-non-custodial-the-lazarus-attack-made-it-obvious-2cm9)
-- [React Native SQLite: 0ms UI with debounced writes](https://dev.to/sathish_daggula/react-native-sqlite-0ms-ui-with-debounced-writes-2eh7)
+- [Claude Codeでカーソルページネーションを設計する：大量データの高速ページング・ソート安定性・無限スクロール](https://dev.to/myougatheaxo/claude-codedekasorupezinesiyonwoshe-ji-suruda-liang-detanogao-su-pezingusotoan-ding-xing-wu-xian-sukuroru-515m)
+- [The Freelance Project Kickoff Checklist That Prevents Disasters](https://dev.to/humanpagesai/the-freelance-project-kickoff-checklist-that-prevents-disasters-gpe)
+- [Checkmk vs Grafana: Monitoring Compared](https://dev.to/selfhostingsh/checkmk-vs-grafana-monitoring-compared-2mom)
+- [AWS Lambda Durable Functions + IA: el combo que no sabías que necesitabas](https://dev.to/aws/aws-lambda-durable-functions-ia-el-combo-que-no-sabias-que-necesitabas-3eoc)
 <!-- BLOG-POST-LIST:END -->
 
