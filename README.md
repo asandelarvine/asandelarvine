@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Datacenter Proxies: Dead or Evolved? Use Cases in 2026](https://dev.to/onlineproxy_io/datacenter-proxies-dead-or-evolved-use-cases-in-2026-15on)
-- [J2ME — Building Java Mobile Games Under 128 kB](https://dev.to/wpqrek/j2me-building-java-mobile-games-under-128-kb-1jb6)
-- [How I solved Claude Code&#39;s biggest missing feature](https://dev.to/synth1s/how-i-solved-claude-codes-biggest-missing-feature-1cdi)
-- [What Makes a Good Open Source PR &lpar;Lessons From Getting Mine Closed&rpar;](https://dev.to/oolongtea2026/what-makes-a-good-open-source-pr-lessons-from-getting-mine-closed-23al)
+- [How to Look Up Vehicle Recalls by VIN in 3 Lines of Code](https://dev.to/michaelakoster/how-to-look-up-vehicle-recalls-by-vin-in-3-lines-of-code-3li7)
+- [How I Built an Instagram Profile Scraper in Go and Shipped It to Apify](https://dev.to/alwaysprimedev/how-i-built-an-instagram-profile-scraper-in-go-and-shipped-it-to-apify-35d1)
+- [You still have time! Submit your project!](https://dev.to/axrisi/you-still-have-time-submit-your-project-4ekf)
+- [Why Spec-Driven Development Fails— And a Better Way to Structure AI Development](https://dev.to/casamia918/why-spec-driven-development-fails-and-what-we-can-learn-from-it-2pec)
 <!-- BLOG-POST-LIST:END -->
 
