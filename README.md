@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I made my own Bootloader at 16. It was horrible. It was worth it.](https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1)
-- [How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?](https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l)
-- [Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready](https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc)
-- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
+- [Boilerplate and custom CRUD for Hubleto CRM](https://dev.to/shoki_ztk/boilerplate-and-custom-crud-for-hubleto-crm-3p53)
+- [Cleaning Cinema Titles Before You Can Even Search](https://dev.to/alistairjcbrown/cleaning-cinema-titles-before-you-can-even-search-1463)
+- [MongoDB Aggregation Pipeline Explained Step by Step](https://dev.to/visualeaf/mongodb-aggregation-pipeline-explained-step-by-step-1of4)
+- [Automated Security Audits With AI Agent Teams](https://dev.to/bridgeace/automated-security-audits-with-ai-agent-teams-5cp4)
 <!-- BLOG-POST-LIST:END -->
 
