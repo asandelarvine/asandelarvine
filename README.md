@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let Two Gradients Do All the Terrain Coloring for Me — Here&#39;s How It Works](https://dev.to/tamtranngoc/i-let-two-gradients-do-all-the-terrain-coloring-for-me-heres-how-it-works-gi7)
-- [Top 5 Bug &amp; Performance Issue Detection Tools for Flutter Apps in 2026](https://dev.to/robin_a_p/top-5-bug-performance-issue-detection-tools-for-flutter-apps-in-2026-jof)
-- [My Story with HiDNS](https://dev.to/ifeng/my-story-with-hidns-7hd)
-- [Import Excel to Elasticsearch](https://dev.to/csvbox-io/import-excel-to-elasticsearch-5gd2)
+- [OpenClaw Skills: The Complete Guide to Building, Securing, and Deploying AI Agents](https://dev.to/duankai/openclaw-skills-the-complete-guide-to-building-securing-and-deploying-ai-agents-18o4)
+- [OpenClaw 安全加固完全指南（2026）](https://dev.to/duankai/openclaw-an-quan-jia-gu-wan-quan-zhi-nan-2026-1d5)
+- [How to Launch a SaaS in One Day with Laravel SaaS Starter](https://dev.to/martintonev/how-to-launch-a-saas-in-one-day-with-laravel-saas-starter-1m23)
+- [Reddit Has a Public JSON API Most Scrapers Ignore](https://dev.to/__8ef7243a4f/reddit-has-a-public-json-api-most-scrapers-ignore-35jo)
 <!-- BLOG-POST-LIST:END -->
 
