@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Thirty minutes after going public, my server logs looked like a crime scene.](https://dev.to/sashi_sharma_311f98faf173/thirty-minutes-after-going-public-my-server-logs-looked-like-a-crime-scene-3e6i)
-- [PaaS vs VPS: Why in 2026 I Use Render, Railway, and Hostinger at the Same Time](https://dev.to/espfra95/paas-vs-vps-why-in-2026-i-use-render-railway-and-hostinger-at-the-same-time-23kh)
-- [Claude Code Agent Teams Can Spawn Agents. It Just Doesn&#39;t Know Which Ones to Use.](https://dev.to/ji_ai/claude-code-agent-teams-can-spawn-agents-it-just-doesnt-know-which-ones-to-use-1h54)
-- [I Spent 4 Hours Debugging Google OAuth… Then I Deleted the Feature &lpar;A Lesson While Building My First SaaS&rpar;](https://dev.to/knihal12/i-spent-4-hours-debugging-google-oauth-then-i-deleted-the-feature-a-lesson-while-building-my-4n6d)
+- [Why Strange Images Make You Remember Better](https://dev.to/nikola/why-strange-images-make-you-remember-better-3l1a)
+- [From Classroom to Cloud: Building My First Azure Resource Group ☁️](https://dev.to/jodev001/from-classroom-to-cloud-building-my-first-azure-resource-group-3i12)
+- [Two Sum IV – Input is a BST &lpar;Two Pointer Approach&rpar;](https://dev.to/nithya_dharshiniofficial/two-sum-iv-input-is-a-bst-two-pointer-approach-1mo8)
+- [Sorting an Array of 0s, 1s, and 2s](https://dev.to/jeyaprasadr/sorting-an-array-of-0s-1s-and-2s-4afm)
 <!-- BLOG-POST-LIST:END -->
 
