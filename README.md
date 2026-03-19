@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-site scripting – Reflected XSS | PortSwigger Lab Note #3](https://dev.to/kenny-cipher/cross-site-scripting-reflected-xss-portswigger-lab-note-3-1p1e)
-- [Your AI Agent Passed OAuth. Now What? The Authorization Gap Nobody Talks About](https://dev.to/uu/your-ai-agent-passed-oauth-now-what-the-authorization-gap-nobody-talks-about-2404)
-- [Build a Project Scaffolding CLI Like create-next-app](https://dev.to/chengyixu/build-a-project-scaffolding-cli-like-create-next-app-3agn)
-- [Setting Up a New Umbraco Package Dev Environment with Umbraco.AI](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)
+- [n8n Integration for ClickHouse - Full CRUD, Triggers &amp; AI Agent Support](https://dev.to/sameer_deshmukh_d353043fd/n8n-integration-for-clickhouse-full-crud-triggers-ai-agent-support-3b0b)
+- [DocShark: a local-first documentation MCP server for AI](https://dev.to/dev_michael/docshark-a-local-first-documentation-mcp-server-for-ai-ia9)
+- [CVE-2026-33017: How I Found an Unauthenticated RCE in Langflow by Reading the Code They Already Fixed](https://dev.to/aviral_srivastava_ba4f282/cve-2026-33017-how-i-found-an-unauthenticated-rce-in-langflow-by-reading-the-code-they-already-3l2b)
+- [How I&#39;m Building my First Full Stack Project](https://dev.to/bfdev/how-im-building-my-first-full-stack-project-1i6n)
 <!-- BLOG-POST-LIST:END -->
 
