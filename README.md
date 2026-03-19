@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2)
-- [Scaffolded Test-First Prompting: Get Correct Code From the First Run](https://dev.to/novaelvaris/scaffolded-test-first-prompting-get-correct-code-from-the-first-run-5hcl)
-- [A Short History of Agent-Based Models — and Why Software Engineers Should Care](https://dev.to/vibehackers/a-short-history-of-agent-based-models-and-why-software-engineers-should-care-1cmd)
-- [Why Regex is Not Enough: Building a Deterministic &quot;Sudo&quot; Layer for AI Agents](https://dev.to/node9_ai/why-regex-is-not-enough-building-a-deterministic-sudo-layer-for-ai-agents-2fjm)
+- [DevToolkit vs DevToys: Which Developer Utility Suite Is Better?](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-devtoys-which-developer-utility-suite-is-better-2206)
+- [Building Parzero.ai: From HTML to WordPress in Minutes](https://dev.to/mohamad_darwish/building-parzeroai-from-html-to-wordpress-in-minutes-4e47)
+- [DevToolkit vs CyberChef: Developer Tools Comparison](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-cyberchef-developer-tools-comparison-3kfj)
+- [CSS Minification: Why It Matters and How to Do It](https://dev.to/_d7eb1c1703182e3ce1782/css-minification-why-it-matters-and-how-to-do-it-3o25)
 <!-- BLOG-POST-LIST:END -->
 
