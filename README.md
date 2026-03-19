@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Hooks](https://dev.to/helderberto/claude-code-hooks-1k7a)
-- [Battle of the Titans &lpar;Part 1&rpar;: The Ultimate Go Lambda on AWS Graviton](https://dev.to/aleh_karachun/battle-of-the-titans-part-1-the-ultimate-go-lambda-on-aws-graviton-2632)
-- [Why Your Hero Section Is Killing LCP](https://dev.to/pawar-shivam7/why-your-hero-section-is-killing-lcp-24dm)
-- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
+- [Why we want to integrate MCP servers into Kaeso.](https://dev.to/devinoldenburg/why-we-want-to-integrate-mcp-servers-into-kaeso-1j5m)
+- [Kadanes-algorithm](https://dev.to/abirami_prabhakar/kadanes-algorithm-6m1)
+- [Inside SQLite’s Frontend: How Your SQL Becomes Bytecode](https://dev.to/lovestaco/inside-sqlites-frontend-how-your-sql-becomes-bytecode-108p)
+- [Why AI Writes Better Game Code in Godot Than in Unity](https://dev.to/mistyhx/why-ai-writes-better-game-code-in-godot-than-in-unity-10hf)
 <!-- BLOG-POST-LIST:END -->
 
