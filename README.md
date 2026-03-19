@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NemoClaw: NVIDIA&#39;s Open Source Stack for Running AI Agents You Can Actually Trust](https://dev.to/arshtechpro/nemoclaw-nvidias-open-source-stack-for-running-ai-agents-you-can-actually-trust-50gl)
-- [Running a Node.js Daemon with Fastify &lpar;No PM2, No systemd&rpar;](https://dev.to/silverstream/running-a-nodejs-daemon-with-fastify-no-pm2-no-systemd-99i)
-- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
-- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
+- [Beyond the Hype: A Developer&#39;s Guide to Engineering AI-Generated Code](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-engineering-ai-generated-code-k9o)
+- [🚀 15 Linux Terminal Shortcuts That Will Save You Hours Every Week](https://dev.to/devops_descent/15-linux-terminal-shortcuts-that-will-save-you-hours-every-week-2bik)
+- [Your website might get visits from a mountain train via a VPN. And it should still load](https://dev.to/ivanvetoshkin/your-website-might-get-visits-from-a-mountain-train-via-a-vpn-and-it-should-still-load-2jk2)
+- [Your OpenSearch Bill Is Bigger Than You Think: A Technical Cost Breakdown](https://dev.to/cloudwiseteam/your-opensearch-bill-is-bigger-than-you-think-a-technical-cost-breakdown-20gj)
 <!-- BLOG-POST-LIST:END -->
 
