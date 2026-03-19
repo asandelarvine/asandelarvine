@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mystery Solved: Hunter Alpha on OpenRouter is Xiaomi MiMo-V2-Pro](https://dev.to/hubert_shelley_32028fa7a7/the-mystery-solved-hunter-alpha-on-openrouter-is-xiaomi-mimo-v2-pro-3dmd)
-- [The 2026 Solopreneur AI Stack: Every Tool You Need](https://dev.to/neo_one_944288aac0bb5e89b/the-2026-solopreneur-ai-stack-every-tool-you-need-39e2)
-- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
-- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
+- [Optimizing animations for 60 FPS with React Native Reanimated](https://dev.to/malik_chohra/optimizing-animations-for-60-fps-with-react-native-reanimatedoptimizing-animations-for-60-fps-with-1beh)
+- [Never Deploy with Missing ENV Vars Again — Build a Validator CLI](https://dev.to/chengyixu/never-deploy-with-missing-env-vars-again-build-a-validator-cli-ljn)
+- [How Flutter Application Development Helps Startups Build Faster and Smarter Apps](https://dev.to/apponward_technology/how-flutter-application-development-helps-startups-build-faster-and-smarter-apps-3dg)
+- [Why JavaScript Became the Basic Language for Every Developer](https://dev.to/mindmagic/why-javascript-became-the-basic-language-for-every-developer-1a51)
 <!-- BLOG-POST-LIST:END -->
 
