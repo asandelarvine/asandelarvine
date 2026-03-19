@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Strange Images Make You Remember Better](https://dev.to/nikola/why-strange-images-make-you-remember-better-3l1a)
-- [From Classroom to Cloud: Building My First Azure Resource Group ☁️](https://dev.to/jodev001/from-classroom-to-cloud-building-my-first-azure-resource-group-3i12)
-- [Two Sum IV – Input is a BST &lpar;Two Pointer Approach&rpar;](https://dev.to/nithya_dharshiniofficial/two-sum-iv-input-is-a-bst-two-pointer-approach-1mo8)
-- [Sorting an Array of 0s, 1s, and 2s](https://dev.to/jeyaprasadr/sorting-an-array-of-0s-1s-and-2s-4afm)
+- [Claude Code Hooks](https://dev.to/helderberto/claude-code-hooks-1k7a)
+- [Battle of the Titans &lpar;Part 1&rpar;: The Ultimate Go Lambda on AWS Graviton](https://dev.to/aleh_karachun/battle-of-the-titans-part-1-the-ultimate-go-lambda-on-aws-graviton-2632)
+- [Why Your Hero Section Is Killing LCP](https://dev.to/pawar-shivam7/why-your-hero-section-is-killing-lcp-24dm)
+- [I Tried Vite+ and Replaced My Entire Frontend Toolchain](https://dev.to/erikch/i-tried-vite-and-replaced-my-entire-frontend-toolchain-4cgb)
 <!-- BLOG-POST-LIST:END -->
 
