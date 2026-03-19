@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n Integration for ClickHouse - Full CRUD, Triggers &amp; AI Agent Support](https://dev.to/sameer_deshmukh_d353043fd/n8n-integration-for-clickhouse-full-crud-triggers-ai-agent-support-3b0b)
-- [DocShark: a local-first documentation MCP server for AI](https://dev.to/dev_michael/docshark-a-local-first-documentation-mcp-server-for-ai-ia9)
-- [CVE-2026-33017: How I Found an Unauthenticated RCE in Langflow by Reading the Code They Already Fixed](https://dev.to/aviral_srivastava_ba4f282/cve-2026-33017-how-i-found-an-unauthenticated-rce-in-langflow-by-reading-the-code-they-already-3l2b)
-- [How I&#39;m Building my First Full Stack Project](https://dev.to/bfdev/how-im-building-my-first-full-stack-project-1i6n)
+- [NemoClaw: NVIDIA&#39;s Open Source Stack for Running AI Agents You Can Actually Trust](https://dev.to/arshtechpro/nemoclaw-nvidias-open-source-stack-for-running-ai-agents-you-can-actually-trust-50gl)
+- [Running a Node.js Daemon with Fastify &lpar;No PM2, No systemd&rpar;](https://dev.to/silverstream/running-a-nodejs-daemon-with-fastify-no-pm2-no-systemd-99i)
+- [The Adventures of Blink S5e3: A Menu in Pygame](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e3-a-menu-in-pygame-3d4m)
+- [How I Built a 10,000+ Page SEO Site with Next.js and PostgreSQL](https://dev.to/christina_sanchez_f16f40a/how-i-built-a-10000-page-seo-site-with-nextjs-and-postgresql-3ipp)
 <!-- BLOG-POST-LIST:END -->
 
