@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Relay](https://dev.to/thesythesis/the-relay-43pb)
-- [Edge Rendering Tactics for Personalized Landing Pages That Convert Without Compromising Speed](https://dev.to/jasonbiondo/edge-rendering-tactics-for-personalized-landing-pages-that-convert-without-compromising-speed-1l7d)
-- [mlx-audio: Speech Processing Library on Apple Silicon](https://dev.to/stelixx-insider/mlx-audio-speech-processing-library-on-apple-silicon-1254)
-- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
+- [After using replacePath for navigation, how to carry data back to the previous page in the stack?](https://dev.to/harmonyos/after-using-replacepath-for-navigation-how-to-carry-data-back-to-the-previous-page-in-the-stack-39b5)
+- [Rotifer v0.1: CLI Framework &amp; Rust Core — Building the Gene Lifecycle from Scratch](https://dev.to/rotiferdev/rotifer-v01-cli-framework-rust-core-building-the-gene-lifecycle-from-scratch-2eg4)
+- [The Starting Point](https://dev.to/thesythesis/the-starting-point-alp)
+- [The Seat](https://dev.to/thesythesis/the-seat-cf1)
 <!-- BLOG-POST-LIST:END -->
 
