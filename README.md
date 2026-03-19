@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Ransomware Development 101 ~ understanding compiler optimizations](https://dev.to/7mo_sec/secure-ransomware-development-101-understanding-compiler-optimizations-4jml)
-- [교육 산업을 읽는 법: 신문 스크랩을 시작하며](https://dev.to/seungyeon_/gyoyug-saneobeul-ilgneun-beob-sinmun-seukeuraebeul-sijaghamyeo-188g)
-- [Announcing Dashtera: a powerful dashboarding platform](https://dev.to/omar_lightningchart/announcing-dashtera-a-powerful-dashboarding-platform-24kg)
-- [[JavaScript] 데이터 복사 이해하기 &lpar;feat. 얕은 복사, 깊은 복사&rpar;](https://dev.to/seungyeon_/javascript-deiteo-bogsa-ihaehagi-feat-yateun-bogsa-gipeun-bogsa-243e)
+- [Cross-site scripting – Reflected XSS | PortSwigger Lab Note #3](https://dev.to/kenny-cipher/cross-site-scripting-reflected-xss-portswigger-lab-note-3-1p1e)
+- [Your AI Agent Passed OAuth. Now What? The Authorization Gap Nobody Talks About](https://dev.to/uu/your-ai-agent-passed-oauth-now-what-the-authorization-gap-nobody-talks-about-2404)
+- [Build a Project Scaffolding CLI Like create-next-app](https://dev.to/chengyixu/build-a-project-scaffolding-cli-like-create-next-app-3agn)
+- [Setting Up a New Umbraco Package Dev Environment with Umbraco.AI](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)
 <!-- BLOG-POST-LIST:END -->
 
