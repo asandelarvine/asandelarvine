@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a mobile DevOps dashboard because managing Docker from my phone shouldn&#39;t require SSH](https://dev.to/bigabou007dev/i-built-a-mobile-devops-dashboard-because-managing-docker-from-my-phone-shouldnt-require-ssh-4j6n)
-- [On the Hunt for my First Software Engineering Job](https://dev.to/561aloha/on-the-hunt-for-my-first-software-engineering-job-4lel)
-- [The Inverse Cognitive Maneuver: Use Your Brain&#39;s Limits to Build Better Products](https://dev.to/alexsergeyev/the-inverse-cognitive-maneuver-use-your-brains-limits-to-build-better-products-10j2)
-- [The Scheduler API: Prioritising Work on the Main Thread](https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66)
+- [AI Vocab 101](https://dev.to/bekahhw/ai-vocab-101-eh2)
+- [Scaffolded Test-First Prompting: Get Correct Code From the First Run](https://dev.to/novaelvaris/scaffolded-test-first-prompting-get-correct-code-from-the-first-run-5hcl)
+- [A Short History of Agent-Based Models — and Why Software Engineers Should Care](https://dev.to/vibehackers/a-short-history-of-agent-based-models-and-why-software-engineers-should-care-1cmd)
+- [Why Regex is Not Enough: Building a Deterministic &quot;Sudo&quot; Layer for AI Agents](https://dev.to/node9_ai/why-regex-is-not-enough-building-a-deterministic-sudo-layer-for-ai-agents-2fjm)
 <!-- BLOG-POST-LIST:END -->
 
