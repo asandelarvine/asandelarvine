@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop decompressing entire archives to get one file — introducing ARCX](https://dev.to/highpass_studio_382ce5641/stop-decompressing-entire-archives-to-get-one-file-introducing-arcx-5dhn)
-- [We Built Multi-Tenancy Into a Blazor App. Here&#39;s Every Layer Preventing Data Leaks.](https://dev.to/octobernorth/we-built-multi-tenancy-into-a-blazor-app-heres-every-layer-preventing-data-leaks-3fbc)
-- [Gathering Hyrox Race Insights with Python](https://dev.to/jamesives/gathering-hyrox-race-insights-with-python-1kp9)
-- [🚀 Build a Schema-Based Wizard Form in Vue 3 &lpar;No Templates Needed&rpar;](https://dev.to/parsajiravand/build-a-schema-based-wizard-form-in-vue-3-no-templates-needed-2h8p)
+- [I built a mobile DevOps dashboard because managing Docker from my phone shouldn&#39;t require SSH](https://dev.to/bigabou007dev/i-built-a-mobile-devops-dashboard-because-managing-docker-from-my-phone-shouldnt-require-ssh-4j6n)
+- [On the Hunt for my First Software Engineering Job](https://dev.to/561aloha/on-the-hunt-for-my-first-software-engineering-job-4lel)
+- [The Inverse Cognitive Maneuver: Use Your Brain&#39;s Limits to Build Better Products](https://dev.to/alexsergeyev/the-inverse-cognitive-maneuver-use-your-brains-limits-to-build-better-products-10j2)
+- [The Scheduler API: Prioritising Work on the Main Thread](https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66)
 <!-- BLOG-POST-LIST:END -->
 
