@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we want to integrate MCP servers into Kaeso.](https://dev.to/devinoldenburg/why-we-want-to-integrate-mcp-servers-into-kaeso-1j5m)
-- [Kadanes-algorithm](https://dev.to/abirami_prabhakar/kadanes-algorithm-6m1)
-- [Inside SQLite’s Frontend: How Your SQL Becomes Bytecode](https://dev.to/lovestaco/inside-sqlites-frontend-how-your-sql-becomes-bytecode-108p)
-- [Why AI Writes Better Game Code in Godot Than in Unity](https://dev.to/mistyhx/why-ai-writes-better-game-code-in-godot-than-in-unity-10hf)
+- [Stop decompressing entire archives to get one file — introducing ARCX](https://dev.to/highpass_studio_382ce5641/stop-decompressing-entire-archives-to-get-one-file-introducing-arcx-5dhn)
+- [We Built Multi-Tenancy Into a Blazor App. Here&#39;s Every Layer Preventing Data Leaks.](https://dev.to/octobernorth/we-built-multi-tenancy-into-a-blazor-app-heres-every-layer-preventing-data-leaks-3fbc)
+- [Gathering Hyrox Race Insights with Python](https://dev.to/jamesives/gathering-hyrox-race-insights-with-python-1kp9)
+- [🚀 Build a Schema-Based Wizard Form in Vue 3 &lpar;No Templates Needed&rpar;](https://dev.to/parsajiravand/build-a-schema-based-wizard-form-in-vue-3-no-templates-needed-2h8p)
 <!-- BLOG-POST-LIST:END -->
 
