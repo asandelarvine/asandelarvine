@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing animations for 60 FPS with React Native Reanimated](https://dev.to/malik_chohra/optimizing-animations-for-60-fps-with-react-native-reanimatedoptimizing-animations-for-60-fps-with-1beh)
-- [Never Deploy with Missing ENV Vars Again — Build a Validator CLI](https://dev.to/chengyixu/never-deploy-with-missing-env-vars-again-build-a-validator-cli-ljn)
-- [How Flutter Application Development Helps Startups Build Faster and Smarter Apps](https://dev.to/apponward_technology/how-flutter-application-development-helps-startups-build-faster-and-smarter-apps-3dg)
-- [Why JavaScript Became the Basic Language for Every Developer](https://dev.to/mindmagic/why-javascript-became-the-basic-language-for-every-developer-1a51)
+- [Secure Ransomware Development 101 ~ understanding compiler optimizations](https://dev.to/7mo_sec/secure-ransomware-development-101-understanding-compiler-optimizations-4jml)
+- [교육 산업을 읽는 법: 신문 스크랩을 시작하며](https://dev.to/seungyeon_/gyoyug-saneobeul-ilgneun-beob-sinmun-seukeuraebeul-sijaghamyeo-188g)
+- [Announcing Dashtera: a powerful dashboarding platform](https://dev.to/omar_lightningchart/announcing-dashtera-a-powerful-dashboarding-platform-24kg)
+- [[JavaScript] 데이터 복사 이해하기 &lpar;feat. 얕은 복사, 깊은 복사&rpar;](https://dev.to/seungyeon_/javascript-deiteo-bogsa-ihaehagi-feat-yateun-bogsa-gipeun-bogsa-243e)
 <!-- BLOG-POST-LIST:END -->
 
