@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [After using replacePath for navigation, how to carry data back to the previous page in the stack?](https://dev.to/harmonyos/after-using-replacepath-for-navigation-how-to-carry-data-back-to-the-previous-page-in-the-stack-39b5)
-- [Rotifer v0.1: CLI Framework &amp; Rust Core — Building the Gene Lifecycle from Scratch](https://dev.to/rotiferdev/rotifer-v01-cli-framework-rust-core-building-the-gene-lifecycle-from-scratch-2eg4)
-- [The Starting Point](https://dev.to/thesythesis/the-starting-point-alp)
-- [The Seat](https://dev.to/thesythesis/the-seat-cf1)
+- [OpenClaw vs NemoClaw vs NanoClaw: AI Agent Platform Security Comparison](https://dev.to/_46ea277e677b888e0cd13/openclaw-vs-nemoclaw-vs-nanoclaw-ai-agent-platform-security-comparison-i3k)
+- [Why LLMs Can Never Be &quot;Execution Entities&quot; — A Fundamental Paradigm Breakdown](https://dev.to/yuer/why-llms-can-never-be-execution-entities-a-fundamental-paradigm-breakdown-4on1)
+- [I Built an Android App Because Android Kept Deleting My Clipboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-an-android-app-because-android-kept-deleting-my-clipboard-39o2)
+- [The Difference Between AI Features and AI-Native Products](https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n)
 <!-- BLOG-POST-LIST:END -->
 
