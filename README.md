@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dissecando o Navegador &lpar;Parte Final&rpar; - O Motor de Segurança, CORS e o Fantasma do OPTIONS](https://dev.to/erickg123/dissecando-o-navegador-parte-final-o-motor-de-seguranca-cors-e-o-fantasma-do-options-123n)
-- [Dissecando o Navegador &lpar;Parte 3&rpar; - A Regra dos 14KB e a Memória Geracional do V8](https://dev.to/erickg123/dissecando-o-navegador-parte-3-a-regra-dos-14kb-e-a-memoria-geracional-do-v8-2k1l)
-- [Dissecando o Navegador &lpar;Parte 2&rpar; - O Motor V8, Event Loop e o Coletor de Lixo](https://dev.to/erickg123/dissecando-o-navegador-parte-2-o-motor-v8-event-loop-e-o-coletor-de-lixo-4d1f)
-- [Arrays: Los bloques fundamentales de la programación](https://dev.to/fromchiapasdev/arrays-los-bloques-fundamentales-de-la-programacion-3jmf)
+- [The Absolute Architecture of Reality](https://dev.to/raver1975/the-absolute-architecture-of-reality-515l)
+- [I built a SaaS in a week with Next.js, Supabase, and Stripe — here&#39;s what I learned](https://dev.to/alberto_towns_b3e46310d1c/i-built-a-saas-in-a-week-with-nextjs-supabase-and-stripe-heres-what-i-learned-jbg)
+- [RF-DETR vs YOLO vs Cloud API: Which Should You Actually Use in 2026?](https://dev.to/aiengine/rf-detr-vs-yolo-vs-cloud-api-which-should-you-actually-use-in-2026-1ebp)
+- [I Built a Python Recon Toolkit and It Exposed My Own Server](https://dev.to/ryzedz/i-built-a-python-recon-toolkit-and-it-exposed-my-own-server-4edo)
 <!-- BLOG-POST-LIST:END -->
 
