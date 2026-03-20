@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built NexusForge: The Multimodal AI Agent Hub for Notion](https://dev.to/aniruddhaadak/i-built-nexusforge-the-multimodal-ai-agent-hub-for-notion-454)
-- [My Safety Check Killed 100% of Video Generations — Right When Traffic Spiked 3x](https://dev.to/kazutaka-dev/my-safety-check-killed-100-of-video-generations-right-when-traffic-spiked-3x-4eho)
-- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja)
+- [From whiteboard to code: mapping Facts, Rules, and Premises to OTP processes](https://dev.to/matheuscamarques/from-whiteboard-to-code-mapping-facts-rules-and-premises-to-otp-processes-1blb)
+- [Every era creates its file format. AI doesn&#39;t have one yet.](https://dev.to/arun_kt_bb670b3a571f5efd8/every-era-creates-its-file-format-ai-doesnt-have-one-yet-5cde)
+- [Notification-Oriented Paradigm &lpar;PON&rpar; in Elixir: why the BEAM fits reactive rules](https://dev.to/matheuscamarques/notification-oriented-paradigm-pon-in-elixir-why-the-beam-fits-reactive-rules-2p9e)
+- [Thinking Differently About Universal Microkernels](https://dev.to/notjustanna/thinking-differently-about-universal-microkernels-1hd0)
 <!-- BLOG-POST-LIST:END -->
 
