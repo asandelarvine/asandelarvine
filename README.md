@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Team: The Solopreneur Playbook](https://dev.to/neo_one_944288aac0bb5e89b/how-to-build-an-ai-team-the-solopreneur-playbook-1f86)
-- [Getting Started with AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/getting-started-with-ai-agents-42ml)
-- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/truong_trinhduc_1909/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-16m6)
-- [14 Best Self-Hosted Claude Alternatives for AI and Coding in 2026](https://dev.to/jaipalsingh/14-best-self-hosted-claude-alternatives-for-ai-and-coding-in-2026-4ih3)
+- [Solving Claude Code&#39;s Memory Loss ― Multi-Project Design Patterns](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm)
+- [DATABASE REPLICATION.](https://dev.to/mosesmorris/database-replication-2oae)
+- [Cara Integrasi Amazon SP API: Tutorial Langkah demi Langkah](https://dev.to/walse/cara-integrasi-amazon-sp-api-tutorial-langkah-demi-langkah-2cp7)
+- [Building a Confidential Sealed-Bid NFT Auction on Oasis Sapphire](https://dev.to/rollingindo/building-a-confidential-sealed-bid-nft-auction-on-oasis-sapphire-j1m)
 <!-- BLOG-POST-LIST:END -->
 
