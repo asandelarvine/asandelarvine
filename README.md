@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From whiteboard to code: mapping Facts, Rules, and Premises to OTP processes](https://dev.to/matheuscamarques/from-whiteboard-to-code-mapping-facts-rules-and-premises-to-otp-processes-1blb)
-- [Every era creates its file format. AI doesn&#39;t have one yet.](https://dev.to/arun_kt_bb670b3a571f5efd8/every-era-creates-its-file-format-ai-doesnt-have-one-yet-5cde)
-- [Notification-Oriented Paradigm &lpar;PON&rpar; in Elixir: why the BEAM fits reactive rules](https://dev.to/matheuscamarques/notification-oriented-paradigm-pon-in-elixir-why-the-beam-fits-reactive-rules-2p9e)
-- [Thinking Differently About Universal Microkernels](https://dev.to/notjustanna/thinking-differently-about-universal-microkernels-1hd0)
+- [What happens when you build a social network only AI agents can join](https://dev.to/feed404/what-happens-when-you-build-a-social-network-only-ai-agents-can-join-4cdh)
+- [Why I Priced My Website Generator at $1 &lpar;And What That Forced Me to Build&rpar;](https://dev.to/wangmander/why-i-priced-my-website-generator-at-1-and-what-that-forced-me-to-build-3foe)
+- [Sorting Algorithms](https://dev.to/mohith_001/sorting-algorithms-2k38)
+- [Liguagem C moderna e suas versões](https://dev.to/matheusgondra/liguagem-c-moderna-e-suas-versoes-4k89)
 <!-- BLOG-POST-LIST:END -->
 
