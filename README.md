@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevToolkit vs DevToys: Which Developer Utility Suite Is Better?](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-devtoys-which-developer-utility-suite-is-better-2206)
-- [Building Parzero.ai: From HTML to WordPress in Minutes](https://dev.to/mohamad_darwish/building-parzeroai-from-html-to-wordpress-in-minutes-4e47)
-- [DevToolkit vs CyberChef: Developer Tools Comparison](https://dev.to/_d7eb1c1703182e3ce1782/devtoolkit-vs-cyberchef-developer-tools-comparison-3kfj)
-- [CSS Minification: Why It Matters and How to Do It](https://dev.to/_d7eb1c1703182e3ce1782/css-minification-why-it-matters-and-how-to-do-it-3o25)
+- [VICIdial API Integration: Custom Workflows &amp; Automation](https://dev.to/gamlin/vicidial-api-integration-custom-workflows-automation-5277)
+- [How I Track 50+ Vibe Projects Without Leaving the Terminal](https://dev.to/snowtema/how-i-track-50-vibe-projects-without-leaving-the-terminal-2oak)
+- [I Audited 30 Days of My Manus AI Logs — Here&#39;s Where Every Credit Actually Went](https://dev.to/rafsilva85/i-audited-30-days-of-my-manus-ai-logs-heres-where-every-credit-actually-went-6pd)
+- [🚨 Malware Found in AI Agent Skills: A Security Advisory](https://dev.to/airano/malware-found-in-ai-agent-skills-a-security-advisory-3e7k)
 <!-- BLOG-POST-LIST:END -->
 
