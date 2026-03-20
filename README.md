@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Clearbit Alternative — Company Enrichment API for Developers](https://dev.to/artur_vakula_42b3a1638563/i-built-a-free-clearbit-alternative-company-enrichment-api-for-developers-443e)
-- [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
-- [I built a 1.7kb VDOM-less framework, it went &quot;viral&quot;, and Reddit banned me 🤣](https://dev.to/murillobrand/i-built-a-17kb-vdom-less-framework-it-went-viral-and-reddit-banned-me-5gmp)
-- [Designing a Hardware-Bound License Server for Embedded Linux Devices &lpar;Part 1: Server Architecture&rpar;](https://dev.to/dimagr/designing-a-hardware-bound-license-server-for-embedded-linux-devices-part-1-server-architecture-2l4)
+- [steamworks-ffi-node: A Steamworks SDK Library for JavaScript Game Frameworks](https://dev.to/arty_prof/steamworks-ffi-node-a-steamworks-sdk-library-for-javascript-game-frameworks-15h1)
+- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
+- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
+- [I built Mizakii.com so developers never have to pay for basic tools again](https://dev.to/alihassan1617/i-built-mizakiicom-so-developers-never-have-to-pay-for-basic-tools-again-41i4)
 <!-- BLOG-POST-LIST:END -->
 
