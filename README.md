@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [steamworks-ffi-node: A Steamworks SDK Library for JavaScript Game Frameworks](https://dev.to/arty_prof/steamworks-ffi-node-a-steamworks-sdk-library-for-javascript-game-frameworks-15h1)
-- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
-- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
-- [I built Mizakii.com so developers never have to pay for basic tools again](https://dev.to/alihassan1617/i-built-mizakiicom-so-developers-never-have-to-pay-for-basic-tools-again-41i4)
+- [Building the World&#39;s Largest E-Commerce Behavioral Dataset: Architecture and Lessons Learned](https://dev.to/marcus_the_architect/building-the-worlds-largest-e-commerce-behavioral-dataset-architecture-and-lessons-learned-525n)
+- [Top 5 in Frontend and AI this week - AI Is Making Us Dumber + useEffect gets banned](https://dev.to/shrutikapoor08/top-5-in-frontend-and-ai-this-week-ai-is-making-us-dumber-useeffect-gets-banned-9ca)
+- [I Migrated My AI Agents from Azure to AWS — Here&#39;s the Minimal Setup You Actually Need](https://dev.to/buildmintz_media_5238c1d7/i-migrated-my-ai-agents-from-azure-to-aws-heres-the-minimal-setup-you-actually-need-163d)
+- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
 <!-- BLOG-POST-LIST:END -->
 
