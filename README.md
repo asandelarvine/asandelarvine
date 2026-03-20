@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the World&#39;s Largest E-Commerce Behavioral Dataset: Architecture and Lessons Learned](https://dev.to/marcus_the_architect/building-the-worlds-largest-e-commerce-behavioral-dataset-architecture-and-lessons-learned-525n)
-- [Top 5 in Frontend and AI this week - AI Is Making Us Dumber + useEffect gets banned](https://dev.to/shrutikapoor08/top-5-in-frontend-and-ai-this-week-ai-is-making-us-dumber-useeffect-gets-banned-9ca)
-- [I Migrated My AI Agents from Azure to AWS — Here&#39;s the Minimal Setup You Actually Need](https://dev.to/buildmintz_media_5238c1d7/i-migrated-my-ai-agents-from-azure-to-aws-heres-the-minimal-setup-you-actually-need-163d)
-- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
+- [Building AI-Powered Healthcare Appeals: A Three-Stage Architecture Guide](https://dev.to/michaelnikitin/building-ai-powered-healthcare-appeals-a-three-stage-architecture-guide-4f7)
+- [Email validation in production: regex, MX, SMTP, and the trade-offs nobody tells you](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
+- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
+- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
 <!-- BLOG-POST-LIST:END -->
 
