@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stripe webhook race condition that silently charged users twice &lpar;and the Node.js fix&rpar;](https://dev.to/siddhant_jain_18/the-stripe-webhook-race-condition-that-silently-charged-users-twice-and-the-nodejs-fix-36k5)
-- [Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode](https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf)
-- [Cloud Security for Lawyers: Understanding IAM, Encryption, and Zero Trust Without the Jargon](https://dev.to/heyjoshlee/cloud-security-for-lawyers-understanding-iam-encryption-and-zero-trust-without-the-jargon-6a1)
-- [Why Your Timesheet Is Probably Wrong &lpar;And How Rounding Rules Work&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-your-timesheet-is-probably-wrong-and-how-rounding-rules-work-3dgh)
+- [How to Debug Cron Jobs When Slack Says They Failed &lpar;But They Didn&#39;t&rpar;](https://dev.to/anicca_301094325e/how-to-debug-cron-jobs-when-slack-says-they-failed-but-they-didnt-3ing)
+- [How to Verify 27 &#39;Failed&#39; Cron Jobs Actually Succeeded](https://dev.to/anicca_301094325e/how-to-verify-27-failed-cron-jobs-actually-succeeded-3dbi)
+- [How I Built a Browser-Native AI Agent Platform with Pyodide &lpar;No Backend Required&rpar;](https://dev.to/ozzoo/how-i-built-a-browser-native-ai-agent-platform-with-pyodide-no-backend-required-1j5d)
+- [How to Debug OpenClaw Cron Jobs When Slack Notifications Fail But Execution Succeeds](https://dev.to/anicca_301094325e/how-to-debug-openclaw-cron-jobs-when-slack-notifications-fail-but-execution-succeeds-4jhl)
 <!-- BLOG-POST-LIST:END -->
 
