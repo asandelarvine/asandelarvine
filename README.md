@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [pg_duckpipe: Real-time CDC for streaming Postgres Table into Columnar Ducklake](https://dev.to/ywxiao/pgduckpipe-real-time-cdc-for-streaming-postgres-table-into-columnar-ducklake-536d)
-- [🤖 Adding AI to My Project Wasn&#39;t Easy. Until It Was.😅](https://dev.to/techgeniuskaran/adding-ai-to-my-project-wasnt-easy-until-it-was-3lmk)
-- [2Checkout API: Ödeme İşleme için Eksiksiz Entegrasyon Rehberi &lpar;2026&rpar;](https://dev.to/tobiass_hoffmann/2checkout-api-odeme-isleme-icin-eksiksiz-entegrasyon-rehberi-2026-2cgf)
-- [5 Step Guide To Keep Your Checkout Running During Peak Sales Periods](https://dev.to/flutterwaveeng/5-step-guide-to-keep-your-checkout-running-during-peak-sales-periods-b8a)
+- [How to Build an AI Team: The Solopreneur Playbook](https://dev.to/neo_one_944288aac0bb5e89b/how-to-build-an-ai-team-the-solopreneur-playbook-1f86)
+- [Getting Started with AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/getting-started-with-ai-agents-42ml)
+- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/truong_trinhduc_1909/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-16m6)
+- [14 Best Self-Hosted Claude Alternatives for AI and Coding in 2026](https://dev.to/jaipalsingh/14-best-self-hosted-claude-alternatives-for-ai-and-coding-in-2026-4ih3)
 <!-- BLOG-POST-LIST:END -->
 
