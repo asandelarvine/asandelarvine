@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Engineering with ExoChat: Parsimony in Action](https://dev.to/arezvov/context-engineering-with-exochat-parsimony-in-action-174f)
-- [Vite 8 Lands, Agents Learn, GPL Looks Nervous](https://dev.to/urbanisierung/vite-8-lands-agents-learn-gpl-looks-nervous-1bnc)
-- [The MCP Server of You: Building a Personal Knowledge Power for Kiro IDE](https://dev.to/mikeartee/the-mcp-server-of-you-building-a-personal-knowledge-power-for-kiro-ide-159j)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-2iga)
+- [Search in Rotated Sorted Array](https://dev.to/jeyaprasadr/search-in-rotated-sorted-array-1228)
+- [Vertex AI Agent Tools: Connect Your Agent to APIs with ADK and Terraform 🔌](https://dev.to/suhas_mallesh/vertex-ai-agent-tools-connect-your-agent-to-apis-with-adk-and-terraform-328n)
+- [Angular’s New debounced&lpar;&rpar; Signal Explained](https://dev.to/brianmtreese/angulars-new-debounced-signal-explained-2gg6)
+- [S&amp;OP Engineering IV: Scaling to Enterprise &lpar;Multi-SKU &amp; Bottlenecks&rpar;](https://dev.to/datalaria/sop-engineering-iv-scaling-to-enterprise-multi-sku-bottlenecks-2hm7)
 <!-- BLOG-POST-LIST:END -->
 
