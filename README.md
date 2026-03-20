@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VICIdial API Integration: Custom Workflows &amp; Automation](https://dev.to/gamlin/vicidial-api-integration-custom-workflows-automation-5277)
-- [How I Track 50+ Vibe Projects Without Leaving the Terminal](https://dev.to/snowtema/how-i-track-50-vibe-projects-without-leaving-the-terminal-2oak)
-- [I Audited 30 Days of My Manus AI Logs — Here&#39;s Where Every Credit Actually Went](https://dev.to/rafsilva85/i-audited-30-days-of-my-manus-ai-logs-heres-where-every-credit-actually-went-6pd)
-- [🚨 Malware Found in AI Agent Skills: A Security Advisory](https://dev.to/airano/malware-found-in-ai-agent-skills-a-security-advisory-3e7k)
+- [The Complete Guide to Developer Productivity Tools in 2026](https://dev.to/_d7eb1c1703182e3ce1782/the-complete-guide-to-developer-productivity-tools-in-2026-165b)
+- [Vite vs Webpack: Build Tool Comparison for Modern Web Development &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/vite-vs-webpack-build-tool-comparison-for-modern-web-development-2026-3793)
+- [Making Your Astro Blog AI-Readable with llms.txt](https://dev.to/isaac-fei/making-your-astro-blog-ai-readable-with-llmstxt-21fi)
+- [Build Discord-Style Rich Link Previews in React &lpar;Without CORS Issues&rpar;](https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o)
 <!-- BLOG-POST-LIST:END -->
 
