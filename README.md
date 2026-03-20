@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Claude Code&#39;s Memory Loss ― Multi-Project Design Patterns](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm)
-- [DATABASE REPLICATION.](https://dev.to/mosesmorris/database-replication-2oae)
-- [Cara Integrasi Amazon SP API: Tutorial Langkah demi Langkah](https://dev.to/walse/cara-integrasi-amazon-sp-api-tutorial-langkah-demi-langkah-2cp7)
-- [Building a Confidential Sealed-Bid NFT Auction on Oasis Sapphire](https://dev.to/rollingindo/building-a-confidential-sealed-bid-nft-auction-on-oasis-sapphire-j1m)
+- [Managing Configurations in Python Projects](https://dev.to/isaac-fei/managing-configurations-in-python-projects-4k05)
+- [Qdrant Hybrid Search Combined with SQL Query Results](https://dev.to/isaac-fei/qdrant-hybrid-search-combined-with-sql-query-results-4p3n)
+- [The Publisher-Subscriber Pattern in React](https://dev.to/isaac-fei/the-publisher-subscriber-pattern-in-react-4b58)
+- [Deploying a Image Recognition Service to AWS Lambda](https://dev.to/isaac-fei/deploying-a-image-recognition-service-to-aws-lambda-la1)
 <!-- BLOG-POST-LIST:END -->
 
