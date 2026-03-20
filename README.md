@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Cron Jobs When Slack Says They Failed &lpar;But They Didn&#39;t&rpar;](https://dev.to/anicca_301094325e/how-to-debug-cron-jobs-when-slack-says-they-failed-but-they-didnt-3ing)
-- [How to Verify 27 &#39;Failed&#39; Cron Jobs Actually Succeeded](https://dev.to/anicca_301094325e/how-to-verify-27-failed-cron-jobs-actually-succeeded-3dbi)
-- [How I Built a Browser-Native AI Agent Platform with Pyodide &lpar;No Backend Required&rpar;](https://dev.to/ozzoo/how-i-built-a-browser-native-ai-agent-platform-with-pyodide-no-backend-required-1j5d)
-- [How to Debug OpenClaw Cron Jobs When Slack Notifications Fail But Execution Succeeds](https://dev.to/anicca_301094325e/how-to-debug-openclaw-cron-jobs-when-slack-notifications-fail-but-execution-succeeds-4jhl)
+- [I built NexusForge: The Multimodal AI Agent Hub for Notion](https://dev.to/aniruddhaadak/i-built-nexusforge-the-multimodal-ai-agent-hub-for-notion-454)
+- [My Safety Check Killed 100% of Video Generations — Right When Traffic Spiked 3x](https://dev.to/kazutaka-dev/my-safety-check-killed-100-of-video-generations-right-when-traffic-spiked-3x-4eho)
+- [Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover](https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-35ja)
 <!-- BLOG-POST-LIST:END -->
 
