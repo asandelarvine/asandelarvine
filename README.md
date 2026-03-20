@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you build a social network only AI agents can join](https://dev.to/feed404/what-happens-when-you-build-a-social-network-only-ai-agents-can-join-4cdh)
-- [Why I Priced My Website Generator at $1 &lpar;And What That Forced Me to Build&rpar;](https://dev.to/wangmander/why-i-priced-my-website-generator-at-1-and-what-that-forced-me-to-build-3foe)
-- [Sorting Algorithms](https://dev.to/mohith_001/sorting-algorithms-2k38)
-- [Liguagem C moderna e suas versões](https://dev.to/matheusgondra/liguagem-c-moderna-e-suas-versoes-4k89)
+- [Dissecando o Navegador &lpar;Parte Final&rpar; - O Motor de Segurança, CORS e o Fantasma do OPTIONS](https://dev.to/erickg123/dissecando-o-navegador-parte-final-o-motor-de-seguranca-cors-e-o-fantasma-do-options-123n)
+- [Dissecando o Navegador &lpar;Parte 3&rpar; - A Regra dos 14KB e a Memória Geracional do V8](https://dev.to/erickg123/dissecando-o-navegador-parte-3-a-regra-dos-14kb-e-a-memoria-geracional-do-v8-2k1l)
+- [Dissecando o Navegador &lpar;Parte 2&rpar; - O Motor V8, Event Loop e o Coletor de Lixo](https://dev.to/erickg123/dissecando-o-navegador-parte-2-o-motor-v8-event-loop-e-o-coletor-de-lixo-4d1f)
+- [Arrays: Los bloques fundamentales de la programación](https://dev.to/fromchiapasdev/arrays-los-bloques-fundamentales-de-la-programacion-3jmf)
 <!-- BLOG-POST-LIST:END -->
 
