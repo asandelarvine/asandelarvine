@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Developer Productivity Tools in 2026](https://dev.to/_d7eb1c1703182e3ce1782/the-complete-guide-to-developer-productivity-tools-in-2026-165b)
-- [Vite vs Webpack: Build Tool Comparison for Modern Web Development &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/vite-vs-webpack-build-tool-comparison-for-modern-web-development-2026-3793)
-- [Making Your Astro Blog AI-Readable with llms.txt](https://dev.to/isaac-fei/making-your-astro-blog-ai-readable-with-llmstxt-21fi)
-- [Build Discord-Style Rich Link Previews in React &lpar;Without CORS Issues&rpar;](https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o)
+- [Context Engineering with ExoChat: Parsimony in Action](https://dev.to/arezvov/context-engineering-with-exochat-parsimony-in-action-174f)
+- [Vite 8 Lands, Agents Learn, GPL Looks Nervous](https://dev.to/urbanisierung/vite-8-lands-agents-learn-gpl-looks-nervous-1bnc)
+- [The MCP Server of You: Building a Personal Knowledge Power for Kiro IDE](https://dev.to/mikeartee/the-mcp-server-of-you-building-a-personal-knowledge-power-for-kiro-ide-159j)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-2iga)
 <!-- BLOG-POST-LIST:END -->
 
