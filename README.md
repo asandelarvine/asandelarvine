@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Configurations in Python Projects](https://dev.to/isaac-fei/managing-configurations-in-python-projects-4k05)
-- [Qdrant Hybrid Search Combined with SQL Query Results](https://dev.to/isaac-fei/qdrant-hybrid-search-combined-with-sql-query-results-4p3n)
-- [The Publisher-Subscriber Pattern in React](https://dev.to/isaac-fei/the-publisher-subscriber-pattern-in-react-4b58)
-- [Deploying a Image Recognition Service to AWS Lambda](https://dev.to/isaac-fei/deploying-a-image-recognition-service-to-aws-lambda-la1)
+- [The Stripe webhook race condition that silently charged users twice &lpar;and the Node.js fix&rpar;](https://dev.to/siddhant_jain_18/the-stripe-webhook-race-condition-that-silently-charged-users-twice-and-the-nodejs-fix-36k5)
+- [Unlocking Gemini CLI with Skills, Hooks &amp; Plan Mode](https://dev.to/googleai/unlocking-gemini-cli-with-skills-hooks-plan-mode-2bgf)
+- [Cloud Security for Lawyers: Understanding IAM, Encryption, and Zero Trust Without the Jargon](https://dev.to/heyjoshlee/cloud-security-for-lawyers-understanding-iam-encryption-and-zero-trust-without-the-jargon-6a1)
+- [Why Your Timesheet Is Probably Wrong &lpar;And How Rounding Rules Work&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-your-timesheet-is-probably-wrong-and-how-rounding-rules-work-3dgh)
 <!-- BLOG-POST-LIST:END -->
 
