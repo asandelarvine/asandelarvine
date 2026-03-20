@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Search in Rotated Sorted Array](https://dev.to/jeyaprasadr/search-in-rotated-sorted-array-1228)
-- [Vertex AI Agent Tools: Connect Your Agent to APIs with ADK and Terraform 🔌](https://dev.to/suhas_mallesh/vertex-ai-agent-tools-connect-your-agent-to-apis-with-adk-and-terraform-328n)
-- [Angular’s New debounced&lpar;&rpar; Signal Explained](https://dev.to/brianmtreese/angulars-new-debounced-signal-explained-2gg6)
-- [S&amp;OP Engineering IV: Scaling to Enterprise &lpar;Multi-SKU &amp; Bottlenecks&rpar;](https://dev.to/datalaria/sop-engineering-iv-scaling-to-enterprise-multi-sku-bottlenecks-2hm7)
+- [pg_duckpipe: Real-time CDC for streaming Postgres Table into Columnar Ducklake](https://dev.to/ywxiao/pgduckpipe-real-time-cdc-for-streaming-postgres-table-into-columnar-ducklake-536d)
+- [🤖 Adding AI to My Project Wasn&#39;t Easy. Until It Was.😅](https://dev.to/techgeniuskaran/adding-ai-to-my-project-wasnt-easy-until-it-was-3lmk)
+- [2Checkout API: Ödeme İşleme için Eksiksiz Entegrasyon Rehberi &lpar;2026&rpar;](https://dev.to/tobiass_hoffmann/2checkout-api-odeme-isleme-icin-eksiksiz-entegrasyon-rehberi-2026-2cgf)
+- [5 Step Guide To Keep Your Checkout Running During Peak Sales Periods](https://dev.to/flutterwaveeng/5-step-guide-to-keep-your-checkout-running-during-peak-sales-periods-b8a)
 <!-- BLOG-POST-LIST:END -->
 
