@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Absolute Architecture of Reality](https://dev.to/raver1975/the-absolute-architecture-of-reality-515l)
-- [I built a SaaS in a week with Next.js, Supabase, and Stripe — here&#39;s what I learned](https://dev.to/alberto_towns_b3e46310d1c/i-built-a-saas-in-a-week-with-nextjs-supabase-and-stripe-heres-what-i-learned-jbg)
-- [RF-DETR vs YOLO vs Cloud API: Which Should You Actually Use in 2026?](https://dev.to/aiengine/rf-detr-vs-yolo-vs-cloud-api-which-should-you-actually-use-in-2026-1ebp)
-- [I Built a Python Recon Toolkit and It Exposed My Own Server](https://dev.to/ryzedz/i-built-a-python-recon-toolkit-and-it-exposed-my-own-server-4edo)
+- [I Built a Free Clearbit Alternative — Company Enrichment API for Developers](https://dev.to/artur_vakula_42b3a1638563/i-built-a-free-clearbit-alternative-company-enrichment-api-for-developers-443e)
+- [Red Team vs Blue Team — I Choose You!](https://dev.to/yuridevat/red-team-vs-blue-team-i-choose-you-1ljp)
+- [I built a 1.7kb VDOM-less framework, it went &quot;viral&quot;, and Reddit banned me 🤣](https://dev.to/murillobrand/i-built-a-17kb-vdom-less-framework-it-went-viral-and-reddit-banned-me-5gmp)
+- [Designing a Hardware-Bound License Server for Embedded Linux Devices &lpar;Part 1: Server Architecture&rpar;](https://dev.to/dimagr/designing-a-hardware-bound-license-server-for-embedded-linux-devices-part-1-server-architecture-2l4)
 <!-- BLOG-POST-LIST:END -->
 
