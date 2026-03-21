@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Log 02: The Sample Data Struggle &amp; The &quot;Wildcard&quot; Trap](https://dev.to/codebasejournal/log-02-the-sample-data-struggle-the-wildcard-trap-5hp)
-- [Managing SEO &amp; Metadata in React with react-meta-hooks](https://dev.to/satishjaiswal/managing-seo-metadata-in-react-with-react-meta-hooks-flb)
-- [An AI Agent Caused a Data Breach at Meta. Here&#39;s What Went Wrong.](https://dev.to/claudiobasckeira/an-ai-agent-caused-a-data-breach-at-meta-heres-what-went-wrong-45hj)
-- [Why Most People Use ChatGPT Wrong &lpar;And What to Do Instead&rpar;](https://dev.to/aioperator2026/why-most-people-use-chatgpt-wrong-and-what-to-do-instead-4cem)
+- [Sending a Million Rows from the Backend: Streaming, Batching, Compression &amp; Protocol Buffers](https://dev.to/ishaaan/sending-a-million-rows-from-the-backend-streaming-batching-compression-protocol-buffers-535)
+- [How to Automate Screenshots in Your CI/CD Pipeline](https://dev.to/custodiaadmin/how-to-automate-screenshots-in-your-cicd-pipeline-4mlj)
+- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
+- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
 <!-- BLOG-POST-LIST:END -->
 
