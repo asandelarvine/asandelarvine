@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Explained in a Simple Way](https://dev.to/rhythamnegi/apache-kafka-explained-in-a-simple-way-37j)
-- [Environment Variables Done Right: Stop Hardcoding Secrets](https://dev.to/young_gao/environment-variables-done-right-stop-hardcoding-secrets-2phg)
-- [Deploying a Base Sepolia Node with Docker](https://dev.to/pilgrim2go/deploying-a-base-sepolia-node-with-docker-4db4)
-- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
+- [I Used Skill Creator v2 to Improve One of My Agent Skills in VS Code](https://dev.to/debs_obrien/i-used-skill-creator-v2-to-improve-one-of-my-agent-skills-in-vs-code-fhd)
+- [Hey Dev.to! I built a visual stack builder to stop wasting hours on stack decisions](https://dev.to/stagevia_dev/hey-devto-i-built-a-visual-stack-builder-to-stop-wasting-hours-on-stack-decisions-5fcc)
+- [Claude Code vs Goose: Why This Free AI Coding Agent is Making Developers Rethink the $200/Month Option](https://dev.to/ajay_kumar_1daef5fe089885/claude-code-vs-goose-why-this-free-ai-coding-agent-is-making-developers-rethink-the-200month-307i)
+- [Role-Based Access Control in Node.js: Beyond Simple Middleware](https://dev.to/young_gao/role-based-access-control-in-nodejs-beyond-simple-middleware-3f5n)
 <!-- BLOG-POST-LIST:END -->
 
