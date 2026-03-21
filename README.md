@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train a Small Language Model: The Complete Guide for 2026](https://dev.to/jaipalsingh/how-to-train-a-small-language-model-the-complete-guide-for-2026-4p6h)
-- [How to Run Ollama on Mac Mini: A Complete Local AI Setup Guide](https://dev.to/paarthurnax_3f967358857ce/how-to-run-ollama-on-mac-mini-a-complete-local-ai-setup-guide-4g5i)
-- [CodeRef - Smart Java Analyzer with ML Engine](https://dev.to/piwe/coderef-smart-java-analyzer-with-ml-engine-41c3)
-- [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal)
+- [The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug](https://dev.to/rakshath/the-junior-developer-crisis-of-2026-ai-is-creating-developers-who-cant-debug-33od)
+- [Linux Fundamentals for Data Engineering](https://dev.to/abdiomari/linux-fundamentals-for-data-engineering-4gh2)
+- [I got mass-DM&#39;d by my teammate&#39;s Claude Code and honestly? It was great.](https://dev.to/agentdm/i-got-mass-dmd-by-my-teammates-claude-code-and-honestly-it-was-great-38l5)
+- [A French Sailor Went for a Jog. Journalists Found the Aircraft Carrier.](https://dev.to/adioof/a-french-sailor-went-for-a-jog-journalists-found-the-aircraft-carrier-4k9a)
 <!-- BLOG-POST-LIST:END -->
 
