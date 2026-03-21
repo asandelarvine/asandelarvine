@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
-- [Cloud Cost Optimization in the Age of AI Workloads: A Practical Guide for Engineering Leads](https://dev.to/mcrolly/cloud-cost-optimization-in-the-age-of-ai-workloads-a-practical-guide-for-engineering-leads-2lh7)
-- [TypeScript Utility Types Complete Guide](https://dev.to/muhammadlutf1/typescript-utility-types-complete-guide-agl)
-- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-3fk8)
+- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
+- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
+- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
 <!-- BLOG-POST-LIST:END -->
 
