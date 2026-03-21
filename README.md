@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ephemeral Database Branches in CI/CD: A Practical Guide to Per-PR Environments at Scale](https://dev.to/manualwise/ephemeral-database-branches-in-cicd-a-practical-guide-to-per-pr-environments-at-scale-2g6l)
-- [Parallel Worlds in the EU #devchallenge](https://dev.to/southy404/parallel-worlds-in-the-eu-devchallenge-4eae)
-- [How We Stopped Fighting Enterprise Auth and Read Calendars With a URL](https://dev.to/kgpraveen/how-we-stopped-fighting-enterprise-auth-and-read-calendars-with-a-url-1ang)
-- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
+- [# Containerization and Container Orchestration](https://dev.to/bruyo/-containerization-and-container-orchestration-54po)
+- [Kadane’s Algorithm: Finding the Maximum Subarray Sum](https://dev.to/christina_sharons_2b3205/kadanes-algorithm-finding-the-maximum-subarray-sum-hl9)
+- [DESIGNING THE ARCHITECTURE FOR MEMORY DRIVEN AI SYSTEM](https://dev.to/vivek_thakkuri/designing-the-architecture-for-memory-driven-ai-system-3jj9)
+- [ArXiv Struggles with AI-Generated Content Surge: Increased Funding and Independence Needed to Sustain Operations](https://dev.to/valesys/arxiv-struggles-with-ai-generated-content-surge-increased-funding-and-independence-needed-to-375p)
 <!-- BLOG-POST-LIST:END -->
 
