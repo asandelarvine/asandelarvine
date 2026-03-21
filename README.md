@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Revert Temporary Value Changes in a with Block](https://dev.to/tsuruko12/automatically-revert-temporary-value-changes-in-a-with-block-2dfb)
-- [Stop Showing the Wrong Currency](https://dev.to/amajid/stop-showing-the-wrong-currency-7m)
-- [Small Language Models vs. Frontier: 3B Parameters Beat 70B](https://dev.to/aditya_gupta_india/small-language-models-vs-frontier-3b-parameters-beat-70b-4649)
-- [Go errors: sentinel errors, error structs or fmt.Errorf — how to choose](https://dev.to/ohugonnot/go-errors-sentinel-errors-error-structs-or-fmterrorf-how-to-choose-bk5)
+- [Ephemeral Database Branches in CI/CD: A Practical Guide to Per-PR Environments at Scale](https://dev.to/manualwise/ephemeral-database-branches-in-cicd-a-practical-guide-to-per-pr-environments-at-scale-2g6l)
+- [Parallel Worlds in the EU #devchallenge](https://dev.to/southy404/parallel-worlds-in-the-eu-devchallenge-4eae)
+- [How We Stopped Fighting Enterprise Auth and Read Calendars With a URL](https://dev.to/kgpraveen/how-we-stopped-fighting-enterprise-auth-and-read-calendars-with-a-url-1ang)
+- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
 <!-- BLOG-POST-LIST:END -->
 
