@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Review Gap](https://dev.to/thesythesis/the-review-gap-16ff)
-- [Amazing Web Design Portfolios for 2026 to Inspire Your Next Project](https://dev.to/hr21don/amazing-web-design-portfolios-for-2026-to-inspire-your-next-project-c13)
-- [Java Virtual Threads in 2025: Scalable I/O Without Async Hell &lpar;and the Real Limits&rpar;](https://dev.to/jagdish_salgotra_e253b2d3/java-virtual-threads-in-2025-scalable-io-without-async-hell-and-the-real-limits-p64)
-- [Measuring What Matters: Rethinking Serverless Workflows with AWS Lambda Durable Functions](https://dev.to/aws-builders/measuring-what-matters-rethinking-serverless-workflows-with-aws-lambda-durable-functions-406l)
+- [Understanding Seq2Seq Neural Networks – Part 7: Generating the Output with Softmax](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-7-generating-the-output-with-softmax-387i)
+- [9 Developer Utilities You Can Add to Claude Desktop in 30 Seconds](https://dev.to/profiterole/9-developer-utilities-you-can-add-to-claude-desktop-in-30-seconds-4140)
+- [How I Built and Deployed a Free Email Validation API with Python and FastAPI](https://dev.to/willivan0706/how-i-built-and-deployed-a-free-email-validation-api-with-python-and-fastapi-39lc)
+- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
 <!-- BLOG-POST-LIST:END -->
 
