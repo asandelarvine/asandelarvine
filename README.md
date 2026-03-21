@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Containerization and Container Orchestration](https://dev.to/bruyo/-containerization-and-container-orchestration-54po)
-- [Kadane’s Algorithm: Finding the Maximum Subarray Sum](https://dev.to/christina_sharons_2b3205/kadanes-algorithm-finding-the-maximum-subarray-sum-hl9)
-- [DESIGNING THE ARCHITECTURE FOR MEMORY DRIVEN AI SYSTEM](https://dev.to/vivek_thakkuri/designing-the-architecture-for-memory-driven-ai-system-3jj9)
-- [ArXiv Struggles with AI-Generated Content Surge: Increased Funding and Independence Needed to Sustain Operations](https://dev.to/valesys/arxiv-struggles-with-ai-generated-content-surge-increased-funding-and-independence-needed-to-375p)
+- [Majority Element](https://dev.to/christina_sharons_2b3205/majority-element-4eff)
+- [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://dev.to/eresh_g_721f1d5ca1de0a5b9/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-fia)
+- [Markdown Knowledge Graph for Humans and Agents](https://dev.to/gimalay/markdown-knowledge-graph-for-humans-and-agents-43c4)
+- [Moving Beyond Disk: How Redis Supercharges Your App Performance](https://dev.to/gavin_hemsada_e40424b9d48/moving-beyond-disk-how-redis-supercharges-your-app-performance-4nfb)
 <!-- BLOG-POST-LIST:END -->
 
