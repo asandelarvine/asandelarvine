@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Seq2Seq Neural Networks – Part 7: Generating the Output with Softmax](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-7-generating-the-output-with-softmax-387i)
-- [9 Developer Utilities You Can Add to Claude Desktop in 30 Seconds](https://dev.to/profiterole/9-developer-utilities-you-can-add-to-claude-desktop-in-30-seconds-4140)
-- [How I Built and Deployed a Free Email Validation API with Python and FastAPI](https://dev.to/willivan0706/how-i-built-and-deployed-a-free-email-validation-api-with-python-and-fastapi-39lc)
-- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
+- [How to Send WhatsApp Messages from Your App in 5 Minutes](https://dev.to/msaeedsakib/how-to-send-whatsapp-messages-from-your-app-in-5-minutes-44kf)
+- [Everyone Is Talking About AI Trading Bots. We Actually Built One. Here&#39;s What Happened.](https://dev.to/crashland/everyone-is-talking-about-ai-trading-bots-we-actually-built-one-heres-what-happened-4cb3)
+- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
+- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
 <!-- BLOG-POST-LIST:END -->
 
