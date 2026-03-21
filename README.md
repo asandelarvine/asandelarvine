@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing and Deploying an x402 MCP Server to Cloudflare Workers using VibeKanban!](https://dev.to/mashharuki/developing-and-deploying-an-x402-mcp-server-to-cloudflare-workers-using-vibekanban-dob)
-- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l)
-- [I Built an Auto-Updating Archive of Every AI Arena Leaderboard](https://dev.to/oolongtea2026/i-built-an-auto-updating-archive-of-every-ai-arena-leaderboard-56ph)
-- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
+- [Apache Kafka Explained in a Simple Way](https://dev.to/rhythamnegi/apache-kafka-explained-in-a-simple-way-37j)
+- [Environment Variables Done Right: Stop Hardcoding Secrets](https://dev.to/young_gao/environment-variables-done-right-stop-hardcoding-secrets-2phg)
+- [Deploying a Base Sepolia Node with Docker](https://dev.to/pilgrim2go/deploying-a-base-sepolia-node-with-docker-4db4)
+- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
 <!-- BLOG-POST-LIST:END -->
 
