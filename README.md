@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 GitHub Repos That Will Actually Get You Hired](https://dev.to/x0lg0n/the-7-github-repos-that-will-actually-get-you-hired-2jg5)
-- [OSINT Isn’t About Skill Anymore. It’s About Systems](https://dev.to/numbpill3d/osint-isnt-about-skill-anymore-its-about-systems-4jdk)
-- [Why AI &quot;Solving Coding&quot; Might Actually Be the Industry&#39;s Next Nightmare](https://dev.to/x0lg0n/why-ai-solving-coding-might-actually-be-the-industrys-next-nightmare-3m04)
-- [Dream Interpretation with AI: What Dreaming About Snakes Actually Means](https://dev.to/eonlee/dream-interpretation-with-ai-what-dreaming-about-snakes-actually-means-am5)
+- [The MCP Pattern: SQLite as the AI-Queryable Cache](https://dev.to/queelius/the-mcp-pattern-sqlite-as-the-ai-queryable-cache-34g6)
+- [ArrayList Scenario Based Questions&lpar;Java&rpar;](https://dev.to/kavitha_krish/arraylist-scenario-based-questionsjava-3gp2)
+- [I built Tesla Dog Mode for macOS because my AI agents kept dying.](https://dev.to/sorkila/i-built-tesla-dog-mode-for-macos-because-my-ai-agents-kept-dying-41hg)
+- [Stop Manually Copying YouTube Captions: Automate Your Video Data Pipeline](https://dev.to/the_aientrepreneur_7ae85/stop-manually-copying-youtube-captions-automate-your-video-data-pipeline-5fkf)
 <!-- BLOG-POST-LIST:END -->
 
