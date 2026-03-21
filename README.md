@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Majority Element](https://dev.to/christina_sharons_2b3205/majority-element-4eff)
-- [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://dev.to/eresh_g_721f1d5ca1de0a5b9/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-fia)
-- [Markdown Knowledge Graph for Humans and Agents](https://dev.to/gimalay/markdown-knowledge-graph-for-humans-and-agents-43c4)
-- [Moving Beyond Disk: How Redis Supercharges Your App Performance](https://dev.to/gavin_hemsada_e40424b9d48/moving-beyond-disk-how-redis-supercharges-your-app-performance-4nfb)
+- [Impostor syndrome](https://dev.to/nikola/impostor-syndrome-24di)
+- [I built a private productivity OS alone, with no investors, no team, and no compromises. Here’s what I made.](https://dev.to/strgnvco/i-built-a-private-productivity-os-alone-with-no-investors-no-team-and-no-compromises-heres-44kh)
+- [Roundup Guide: best AML watchlist screening APIs](https://dev.to/adrienmehta/roundup-guide-best-aml-watchlist-screening-apis-ilp)
+- [How the Internet Works &lpar;Explained Like You&#39;re Just Getting Started&rpar;](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao)
 <!-- BLOG-POST-LIST:END -->
 
