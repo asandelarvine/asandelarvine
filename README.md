@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced a €2000/month Marketing Stack with 10 Free n8n Workflows](https://dev.to/nevik_schmidt_3635afa2b85/i-replaced-a-eu2000month-marketing-stack-with-10-free-n8n-workflows-4am7)
-- [15 Best Lightweight Language Models Worth Running in 2026](https://dev.to/jaipalsingh/15-best-lightweight-language-models-worth-running-in-2026-297g)
-- [Agent Diagnostics Mode — A Structured Technique for Iterative Prompt Tuning](https://dev.to/gemyago/agent-diagnostics-mode-a-structured-technique-for-iterative-prompt-tuning-hg8)
-- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-5hn7)
+- [Log 02: The Sample Data Struggle &amp; The &quot;Wildcard&quot; Trap](https://dev.to/codebasejournal/log-02-the-sample-data-struggle-the-wildcard-trap-5hp)
+- [Managing SEO &amp; Metadata in React with react-meta-hooks](https://dev.to/satishjaiswal/managing-seo-metadata-in-react-with-react-meta-hooks-flb)
+- [An AI Agent Caused a Data Breach at Meta. Here&#39;s What Went Wrong.](https://dev.to/claudiobasckeira/an-ai-agent-caused-a-data-breach-at-meta-heres-what-went-wrong-45hj)
+- [Why Most People Use ChatGPT Wrong &lpar;And What to Do Instead&rpar;](https://dev.to/aioperator2026/why-most-people-use-chatgpt-wrong-and-what-to-do-instead-4cem)
 <!-- BLOG-POST-LIST:END -->
 
