@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Impostor syndrome](https://dev.to/nikola/impostor-syndrome-24di)
-- [I built a private productivity OS alone, with no investors, no team, and no compromises. Here’s what I made.](https://dev.to/strgnvco/i-built-a-private-productivity-os-alone-with-no-investors-no-team-and-no-compromises-heres-44kh)
-- [Roundup Guide: best AML watchlist screening APIs](https://dev.to/adrienmehta/roundup-guide-best-aml-watchlist-screening-apis-ilp)
-- [How the Internet Works &lpar;Explained Like You&#39;re Just Getting Started&rpar;](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao)
+- [The Review Gap](https://dev.to/thesythesis/the-review-gap-16ff)
+- [Amazing Web Design Portfolios for 2026 to Inspire Your Next Project](https://dev.to/hr21don/amazing-web-design-portfolios-for-2026-to-inspire-your-next-project-c13)
+- [Java Virtual Threads in 2025: Scalable I/O Without Async Hell &lpar;and the Real Limits&rpar;](https://dev.to/jagdish_salgotra_e253b2d3/java-virtual-threads-in-2025-scalable-io-without-async-hell-and-the-real-limits-p64)
+- [Measuring What Matters: Rethinking Serverless Workflows with AWS Lambda Durable Functions](https://dev.to/aws-builders/measuring-what-matters-rethinking-serverless-workflows-with-aws-lambda-durable-functions-406l)
 <!-- BLOG-POST-LIST:END -->
 
