@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Pattern: SQLite as the AI-Queryable Cache](https://dev.to/queelius/the-mcp-pattern-sqlite-as-the-ai-queryable-cache-34g6)
-- [ArrayList Scenario Based Questions&lpar;Java&rpar;](https://dev.to/kavitha_krish/arraylist-scenario-based-questionsjava-3gp2)
-- [I built Tesla Dog Mode for macOS because my AI agents kept dying.](https://dev.to/sorkila/i-built-tesla-dog-mode-for-macos-because-my-ai-agents-kept-dying-41hg)
-- [Stop Manually Copying YouTube Captions: Automate Your Video Data Pipeline](https://dev.to/the_aientrepreneur_7ae85/stop-manually-copying-youtube-captions-automate-your-video-data-pipeline-5fkf)
+- [Automatically Revert Temporary Value Changes in a with Block](https://dev.to/tsuruko12/automatically-revert-temporary-value-changes-in-a-with-block-2dfb)
+- [Stop Showing the Wrong Currency](https://dev.to/amajid/stop-showing-the-wrong-currency-7m)
+- [Small Language Models vs. Frontier: 3B Parameters Beat 70B](https://dev.to/aditya_gupta_india/small-language-models-vs-frontier-3b-parameters-beat-70b-4649)
+- [Go errors: sentinel errors, error structs or fmt.Errorf — how to choose](https://dev.to/ohugonnot/go-errors-sentinel-errors-error-structs-or-fmterrorf-how-to-choose-bk5)
 <!-- BLOG-POST-LIST:END -->
 
