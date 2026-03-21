@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Send WhatsApp Messages from Your App in 5 Minutes](https://dev.to/msaeedsakib/how-to-send-whatsapp-messages-from-your-app-in-5-minutes-44kf)
-- [Everyone Is Talking About AI Trading Bots. We Actually Built One. Here&#39;s What Happened.](https://dev.to/crashland/everyone-is-talking-about-ai-trading-bots-we-actually-built-one-heres-what-happened-4cb3)
-- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
-- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
+- [Introducing gh-weekly-updates - Automate Your Weekly GitHub Impact Summaries](https://dev.to/sahan/introducing-gh-weekly-updates-automate-your-weekly-github-impact-summaries-1f1c)
+- [Cloud Cost Optimization in the Age of AI Workloads: A Practical Guide for Engineering Leads](https://dev.to/mcrolly/cloud-cost-optimization-in-the-age-of-ai-workloads-a-practical-guide-for-engineering-leads-2lh7)
+- [TypeScript Utility Types Complete Guide](https://dev.to/muhammadlutf1/typescript-utility-types-complete-guide-agl)
+- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
 <!-- BLOG-POST-LIST:END -->
 
