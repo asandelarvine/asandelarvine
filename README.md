@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Healthcare Appeals: A Three-Stage Architecture Guide](https://dev.to/michaelnikitin/building-ai-powered-healthcare-appeals-a-three-stage-architecture-guide-4f7)
-- [Email validation in production: regex, MX, SMTP, and the trade-offs nobody tells you](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
-- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
-- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
+- [When Your Lodge Was Better Than Your Health Insurance](https://dev.to/bytebrujo/when-your-lodge-was-better-than-your-health-insurance-2pio)
+- [Cross-Chain Bridge Message Validation: 7 Defensive Patterns That Would Have Stopped the $3M CrossCurve Exploit](https://dev.to/ohmygod/cross-chain-bridge-message-validation-7-defensive-patterns-that-would-have-stopped-the-3m-p9l)
+- [I got tired of uploading images, so I built my own converter](https://dev.to/ghostlyinc/i-got-tired-of-uploading-images-so-i-built-my-own-converter-5a1j)
+- [Vue i18n dahsboard](https://dev.to/m0me_/vue-i18n-dahsboard-l6l)
 <!-- BLOG-POST-LIST:END -->
 
