@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending a Million Rows from the Backend: Streaming, Batching, Compression &amp; Protocol Buffers](https://dev.to/ishaaan/sending-a-million-rows-from-the-backend-streaming-batching-compression-protocol-buffers-535)
-- [How to Automate Screenshots in Your CI/CD Pipeline](https://dev.to/custodiaadmin/how-to-automate-screenshots-in-your-cicd-pipeline-4mlj)
-- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
-- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
+- [The 7 GitHub Repos That Will Actually Get You Hired](https://dev.to/x0lg0n/the-7-github-repos-that-will-actually-get-you-hired-2jg5)
+- [OSINT Isn’t About Skill Anymore. It’s About Systems](https://dev.to/numbpill3d/osint-isnt-about-skill-anymore-its-about-systems-4jdk)
+- [Why AI &quot;Solving Coding&quot; Might Actually Be the Industry&#39;s Next Nightmare](https://dev.to/x0lg0n/why-ai-solving-coding-might-actually-be-the-industrys-next-nightmare-3m04)
+- [Dream Interpretation with AI: What Dreaming About Snakes Actually Means](https://dev.to/eonlee/dream-interpretation-with-ai-what-dreaming-about-snakes-actually-means-am5)
 <!-- BLOG-POST-LIST:END -->
 
