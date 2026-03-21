@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Lodge Was Better Than Your Health Insurance](https://dev.to/bytebrujo/when-your-lodge-was-better-than-your-health-insurance-2pio)
-- [Cross-Chain Bridge Message Validation: 7 Defensive Patterns That Would Have Stopped the $3M CrossCurve Exploit](https://dev.to/ohmygod/cross-chain-bridge-message-validation-7-defensive-patterns-that-would-have-stopped-the-3m-p9l)
-- [I got tired of uploading images, so I built my own converter](https://dev.to/ghostlyinc/i-got-tired-of-uploading-images-so-i-built-my-own-converter-5a1j)
-- [Vue i18n dahsboard](https://dev.to/m0me_/vue-i18n-dahsboard-l6l)
+- [How to Train a Small Language Model: The Complete Guide for 2026](https://dev.to/jaipalsingh/how-to-train-a-small-language-model-the-complete-guide-for-2026-4p6h)
+- [How to Run Ollama on Mac Mini: A Complete Local AI Setup Guide](https://dev.to/paarthurnax_3f967358857ce/how-to-run-ollama-on-mac-mini-a-complete-local-ai-setup-guide-4g5i)
+- [CodeRef - Smart Java Analyzer with ML Engine](https://dev.to/piwe/coderef-smart-java-analyzer-with-ml-engine-41c3)
+- [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal)
 <!-- BLOG-POST-LIST:END -->
 
