@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Blind Spots in AI‑Generated Code](https://dev.to/manojsatna31/security-blind-spots-in-ai-generated-code-1jhk)
-- [Debugging &amp; Production Incidents with AI](https://dev.to/manojsatna31/debugging-production-incidents-with-ai-2j86)
-- [Architecture Traps – When AI Over‑Engineers](https://dev.to/manojsatna31/architecture-traps-when-ai-over-engineers-34io)
-- [Performance Pitfalls – AI That Kills Your Latency](https://dev.to/manojsatna31/performance-pitfalls-ai-that-kills-your-latency-3hp1)
+- [Top 5 MongoDB monitoring tools every team should use in 2026](https://dev.to/finny_collins/top-5-mongodb-monitoring-tools-every-team-should-use-in-2026-31he)
+- [Weekly Challenge #4 : Still Taking Challenges 💥](https://dev.to/bingkahu/weekly-challenge-4-still-taking-challenges-kb3)
+- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-2ekf)
+- [The Crypto AI Agent Stack That Costs $0/Month to Run](https://dev.to/paarthurnax_3f967358857ce/the-crypto-ai-agent-stack-that-costs-0month-to-run-49d8)
 <!-- BLOG-POST-LIST:END -->
 
