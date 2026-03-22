@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to verify any AI agent in one API call — 6 checks, zero config](https://dev.to/thezenmonster/how-to-verify-any-ai-agent-in-one-api-call-6-checks-zero-config-1g1d)
-- [Your AI CLI Writes Code. Mine Tells You What It&#39;ll Break.](https://dev.to/sunilprakash/your-ai-cli-writes-code-mine-tells-you-what-itll-break-296l)
-- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
-- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
+- [KickJS Query Engine Deep Dive: Filtering, Sorting, Search, and Pagination with MongoDB](https://dev.to/forinda/kickjs-query-engine-deep-dive-filtering-sorting-search-and-pagination-with-mongodb-18dl)
+- [Seeing the Positive In the AI Race](https://dev.to/cyberjanitor/seeing-the-positive-in-the-ai-race-321l)
+- [OpenMusic - My first Open source project](https://dev.to/benji377/openmusic-my-first-open-source-project-2kha)
+- [Squares of a Sorted Array](https://dev.to/samantha_vincent_11/squares-of-a-sorted-array-4d08)
 <!-- BLOG-POST-LIST:END -->
 
