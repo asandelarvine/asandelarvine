@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Reverse - CA05](https://dev.to/lokeshwaran_s_db77da73b51/array-reverse-583i)
-- [Move Zeros](https://dev.to/ganga_sriv_b9bfb61d71007/move-zeros-4c8j)
-- [How to Build a Free API with Cloudflare Workers &lpar;Zero Infrastructure Cost&rpar;](https://dev.to/ryu0705/how-to-build-a-free-api-with-cloudflare-workers-zero-infrastructure-cost-3gi)
-- [Stablecoin Mint Path Auditing: A 12-Point Security Checklist After the $25M USR Exploit](https://dev.to/ohmygod/stablecoin-mint-path-auditing-a-12-point-security-checklist-after-the-25m-usr-exploit-3d1e)
+- [How to verify any AI agent in one API call — 6 checks, zero config](https://dev.to/thezenmonster/how-to-verify-any-ai-agent-in-one-api-call-6-checks-zero-config-1g1d)
+- [Your AI CLI Writes Code. Mine Tells You What It&#39;ll Break.](https://dev.to/sunilprakash/your-ai-cli-writes-code-mine-tells-you-what-itll-break-296l)
+- [A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)
+- [What Is Product-Market Fit? 12 Metrics to Measure It](https://dev.to/yos/what-is-product-market-fit-12-metrics-to-measure-it-277g)
 <!-- BLOG-POST-LIST:END -->
 
