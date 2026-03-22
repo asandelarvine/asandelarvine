@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your Web Site with AWS WAF and CloudFront](https://dev.to/aws-builders/protect-your-web-site-with-aws-waf-and-cloudfront-2p8c)
-- [Traycer vs Claude Code: Why Structured Specs Beat Conversational AI Development](https://dev.to/vivek_chavan_61a5b25723c4/traycer-vs-claude-code-why-structured-specs-beat-conversational-ai-development-o8i)
-- [35yo government employee, built real apps with AI, no CS background — realistic 5-year path to software career?](https://dev.to/sanket1015/35yo-government-employee-built-real-apps-with-ai-no-cs-background-realistic-5-year-path-to-p7h)
-- [Number Guessing Game](https://dev.to/santhoshi_mary_88917c3fd9/number-guessing-game-2k48)
+- [Array Reverse - CA05](https://dev.to/lokeshwaran_s_db77da73b51/array-reverse-583i)
+- [Move Zeros](https://dev.to/ganga_sriv_b9bfb61d71007/move-zeros-4c8j)
+- [How to Build a Free API with Cloudflare Workers &lpar;Zero Infrastructure Cost&rpar;](https://dev.to/ryu0705/how-to-build-a-free-api-with-cloudflare-workers-zero-infrastructure-cost-3gi)
+- [Stablecoin Mint Path Auditing: A 12-Point Security Checklist After the $25M USR Exploit](https://dev.to/ohmygod/stablecoin-mint-path-auditing-a-12-point-security-checklist-after-the-25m-usr-exploit-3d1e)
 <!-- BLOG-POST-LIST:END -->
 
