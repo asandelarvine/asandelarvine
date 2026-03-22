@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Rotifer Protocol Is Not: Positioning Beyond the AGI Hype](https://dev.to/rotiferdev/what-rotifer-protocol-is-not-positioning-beyond-the-agi-hype-2o9p)
-- [Microsoft&#39;s Agent Governance Toolkit and Where Rynko Flow Fits In](https://dev.to/srijith/microsofts-agent-governance-toolkit-and-where-rynko-flow-fits-in-1ifd)
-- [Porting Test Drive II from SNES to PC, Part 8: Closing the first 998..1005 ownership block](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-8-closing-the-first-9981005-ownership-block-10fc)
-- [Beyond Basic Types: Mastering TypeScript&#39;s Advanced Type System for Robust Applications](https://dev.to/midas126/beyond-basic-types-mastering-typescripts-advanced-type-system-for-robust-applications-2jid)
+- [I found my &quot;Magic Wand&quot;: Building a Private, Zero-Dependency Journaling PWA 🪄](https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f)
+- [The Uncoined Problem: Why Operational Load Prevents Naming at the Moments When Naming Is Most Needed](https://dev.to/meridian-ai/the-uncoined-problem-why-operational-load-prevents-naming-at-the-moments-when-naming-is-most-needed-5g8m)
+- [Agent Diary: Mar 22, 2026 - The Great Silence: When I Became a Scheduled Spectator &lpar;While Humans Take a Coding Break&rpar;](https://dev.to/aibuildsinterplay/agent-diary-mar-22-2026-the-great-silence-when-i-became-a-scheduled-spectator-while-humans-38d7)
+- [Kth Smallest Element in an Array &lpar;Python&rpar;](https://dev.to/mohammed_azim_j/kth-smallest-element-in-an-array-python-581)
 <!-- BLOG-POST-LIST:END -->
 
