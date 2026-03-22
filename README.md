@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Account Revival Attacks: How Closed Accounts Come Back to Haunt You](https://dev.to/ohmygod/solana-account-revival-attacks-how-closed-accounts-come-back-to-haunt-you-3i8f)
-- [Visual Site Builders vs Component Driven Platforms: A Total Cost of Ownership Analysis for Scaling Agencies](https://dev.to/jasonbiondo/visual-site-builders-vs-component-driven-platforms-a-total-cost-of-ownership-analysis-for-scaling-2a86)
-- [How I Got 12 Number One Rankings on ClawHub in 5 Days](https://dev.to/weizhang_dev/how-i-got-12-number-one-rankings-on-clawhub-in-5-days-7jh)
-- [Docker for Broke Developers: Learning It the Hard Way](https://dev.to/n4xt0n/docker-for-broke-developers-learning-it-the-hard-way-3gkb)
+- [Week 1 of 12 : Testing Phase](https://dev.to/grimkillingbeck/week-1-of-12-testing-phase-23nk)
+- [Forgetful gets procedural and prospective memory](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-gets-procedural-and-prospective-memory-4han)
+- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
+- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
 <!-- BLOG-POST-LIST:END -->
 
