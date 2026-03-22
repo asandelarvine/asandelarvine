@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sort 0s, 1s, and 2s](https://dev.to/ashiq_omar/sort-0s-1s-and-2s-2gf8)
-- [JMeter vs Gatling: Comparison for Modern Performance Testing](https://dev.to/akdevcraft/jmeter-vs-gatling-comparison-for-modern-performance-testing-57a1)
-- [I was paying $200/month in wasted AI tokens. So I built a Rust context optimizer.](https://dev.to/abhishek_52e7f656ac8ec0e6/i-was-paying-200month-in-wasted-ai-tokens-so-i-built-a-rust-context-optimizer-5g3e)
-- [i.MX6ULL Porting Log &lpar;02&rpar;: Project Layout, a Serial Port Trap, and the Current Board Baseline](https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-522d)
+- [Reversing a Linked list](https://dev.to/jaya_srij_c37a6ea796335c/reversing-a-linked-list-a1b)
+- [Valid Anagram](https://dev.to/anjana_rk_fbdea7abbdf13/valid-anagram-2458)
+- [About the the commandfor attribute.](https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45)
+- [65% of Enterprises Will Deploy Agentic AI by 2027: A Deep Technical Analysis of Readiness](https://dev.to/jubinsoni/65-of-enterprises-will-deploy-agentic-ai-by-2027-a-deep-technical-analysis-of-readiness-303a)
 <!-- BLOG-POST-LIST:END -->
 
