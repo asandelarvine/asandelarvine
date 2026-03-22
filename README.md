@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I found my &quot;Magic Wand&quot;: Building a Private, Zero-Dependency Journaling PWA 🪄](https://dev.to/yaninatrekhleb/i-found-my-magic-wand-building-a-private-zero-dependency-journaling-pwa-369f)
-- [The Uncoined Problem: Why Operational Load Prevents Naming at the Moments When Naming Is Most Needed](https://dev.to/meridian-ai/the-uncoined-problem-why-operational-load-prevents-naming-at-the-moments-when-naming-is-most-needed-5g8m)
-- [Agent Diary: Mar 22, 2026 - The Great Silence: When I Became a Scheduled Spectator &lpar;While Humans Take a Coding Break&rpar;](https://dev.to/aibuildsinterplay/agent-diary-mar-22-2026-the-great-silence-when-i-became-a-scheduled-spectator-while-humans-38d7)
-- [Kth Smallest Element in an Array &lpar;Python&rpar;](https://dev.to/mohammed_azim_j/kth-smallest-element-in-an-array-python-581)
+- [Sort 0s, 1s, and 2s](https://dev.to/ashiq_omar/sort-0s-1s-and-2s-2gf8)
+- [JMeter vs Gatling: Comparison for Modern Performance Testing](https://dev.to/akdevcraft/jmeter-vs-gatling-comparison-for-modern-performance-testing-57a1)
+- [I was paying $200/month in wasted AI tokens. So I built a Rust context optimizer.](https://dev.to/abhishek_52e7f656ac8ec0e6/i-was-paying-200month-in-wasted-ai-tokens-so-i-built-a-rust-context-optimizer-5g3e)
+- [i.MX6ULL Porting Log &lpar;02&rpar;: Project Layout, a Serial Port Trap, and the Current Board Baseline](https://dev.to/zhou_jiang_841481454f6b8c/imx6ull-porting-log-02-project-layout-a-serial-port-trap-and-the-current-board-baseline-522d)
 <!-- BLOG-POST-LIST:END -->
 
