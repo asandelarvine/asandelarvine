@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Memory usage with mmap - Phase 6 Mini Malloc](https://dev.to/moonlitpath1/optimizing-memory-usage-with-mmap-phase-6-mini-malloc-16hi)
-- [Coalescing - Phase 5 Mini Malloc](https://dev.to/moonlitpath1/coalescing-phase-5-mini-malloc-5g8c)
-- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
-- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
+- [VSCode doesn&#39;t save your open tabs and positions when you switch Git branches. I made a fix. &lpar;Open Source&rpar;](https://dev.to/harug/vscode-doesnt-save-your-open-tabs-and-positions-when-you-switch-git-branches-i-made-a-fix-19c9)
+- [Sub-Agent Architectures: Patterns, Trade-offs, and a Kotlin Implementation](https://dev.to/zrcic/sub-agent-architectures-patterns-trade-offs-and-a-kotlin-implementation-13dh)
+- [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
+- [Why I built a Local-First Codebase Visualizer to save 80% on AI Tokens](https://dev.to/mig8at/why-i-built-a-local-first-codebase-visualizer-to-save-80-on-ai-tokens-3elg)
 <!-- BLOG-POST-LIST:END -->
 
