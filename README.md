@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [觸覺回饋是什麼？讓科技觸摸你的感受](https://dev.to/_0c004e5fde78250aee362/chu-jue-hui-kui-shi-shi-mo-rang-ke-ji-chu-mo-ni-de-gan-shou-oab)
-- [Give Claude Your Browser Console — It Debugs Like a Real Developer](https://dev.to/emad_omar_5311e0e328be24c/give-claude-your-browser-console-it-debugs-like-a-real-developer-nmn)
-- [Finding First and Last Occurrence of an Element Using Binary Search in Python](https://dev.to/sri_mahalakshmi_a87f9d361/finding-first-and-last-occurrence-of-an-element-using-binary-search-in-python-24jp)
-- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
+- [AWS WAF Rate Limiting Based on Origin Response](https://dev.to/aws-builders/aws-waf-rate-limiting-based-on-origin-response-1h5j)
+- [Home Solar Power Monitoring System](https://dev.to/kevinari26/home-solar-power-monitoring-system-project-58oh)
+- [The Noisy Neighbor Attack: How Solana&#39;s Localized Fee Markets Create a $0.50 Kill Switch for Any DeFi Protocol](https://dev.to/ohmygod/the-noisy-neighbor-attack-how-solanas-localized-fee-markets-create-a-050-kill-switch-for-any-1lpc)
+- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
 <!-- BLOG-POST-LIST:END -->
 
