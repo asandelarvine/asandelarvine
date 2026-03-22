@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reversing a Linked list](https://dev.to/jaya_srij_c37a6ea796335c/reversing-a-linked-list-a1b)
-- [Valid Anagram](https://dev.to/anjana_rk_fbdea7abbdf13/valid-anagram-2458)
-- [About the the commandfor attribute.](https://dev.to/aadswebdesign/about-the-the-commandfor-attribute-5h45)
-- [65% of Enterprises Will Deploy Agentic AI by 2027: A Deep Technical Analysis of Readiness](https://dev.to/jubinsoni/65-of-enterprises-will-deploy-agentic-ai-by-2027-a-deep-technical-analysis-of-readiness-303a)
+- [She Drew a Dragon-Dog. I Built It an AI.](https://dev.to/sikamikanikobg/she-drew-a-dragon-dog-i-built-it-an-ai-89i)
+- [Built a CLI that gives your codebase a memory](https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o)
+- [Reversing an Array Using the Two Pointer Technique in Python](https://dev.to/sri_mahalakshmi_a87f9d361/reversing-an-array-using-the-two-pointer-technique-in-python-mfb)
+- [How to Display CAD DWG Files in a Web Browser — No Plugins&lpar;CAD+WEBGIS&rpar;](https://dev.to/vjmap/how-to-display-cad-dwg-files-in-a-web-browser-no-pluginscadwebgis-3l43)
 <!-- BLOG-POST-LIST:END -->
 
