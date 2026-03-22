@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing a New Go PDF Library: Fast, Lightweight, and CJK-Friendly Solution for PDF Generation](https://dev.to/viklogix/introducing-a-new-go-pdf-library-fast-lightweight-and-cjk-friendly-solution-for-pdf-generation-cgc)
-- [SOC 2 Compliant AI Platform: What the Certification Misses About AI Security](https://dev.to/jaipalsingh/soc-2-compliant-ai-platform-what-the-certification-misses-about-ai-security-39n6)
-- [From Lockdown to Google to Independent AI Consulting. What Actually Worked](https://dev.to/valentin_monteiro/from-lockdown-to-google-to-independent-ai-consulting-what-actually-worked-5ag1)
-- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
+- [觸覺回饋是什麼？讓科技觸摸你的感受](https://dev.to/_0c004e5fde78250aee362/chu-jue-hui-kui-shi-shi-mo-rang-ke-ji-chu-mo-ni-de-gan-shou-oab)
+- [Give Claude Your Browser Console — It Debugs Like a Real Developer](https://dev.to/emad_omar_5311e0e328be24c/give-claude-your-browser-console-it-debugs-like-a-real-developer-nmn)
+- [Finding First and Last Occurrence of an Element Using Binary Search in Python](https://dev.to/sri_mahalakshmi_a87f9d361/finding-first-and-last-occurrence-of-an-element-using-binary-search-in-python-24jp)
+- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
 <!-- BLOG-POST-LIST:END -->
 
