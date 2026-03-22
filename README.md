@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-3fk8)
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
+- [What Rotifer Protocol Is Not: Positioning Beyond the AGI Hype](https://dev.to/rotiferdev/what-rotifer-protocol-is-not-positioning-beyond-the-agi-hype-2o9p)
+- [Microsoft&#39;s Agent Governance Toolkit and Where Rynko Flow Fits In](https://dev.to/srijith/microsofts-agent-governance-toolkit-and-where-rynko-flow-fits-in-1ifd)
+- [Porting Test Drive II from SNES to PC, Part 8: Closing the first 998..1005 ownership block](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-8-closing-the-first-9981005-ownership-block-10fc)
+- [Beyond Basic Types: Mastering TypeScript&#39;s Advanced Type System for Robust Applications](https://dev.to/midas126/beyond-basic-types-mastering-typescripts-advanced-type-system-for-robust-applications-2jid)
 <!-- BLOG-POST-LIST:END -->
 
