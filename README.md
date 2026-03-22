@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [She Drew a Dragon-Dog. I Built It an AI.](https://dev.to/sikamikanikobg/she-drew-a-dragon-dog-i-built-it-an-ai-89i)
-- [Built a CLI that gives your codebase a memory](https://dev.to/omtrimoco/built-a-cli-that-gives-your-codebase-a-memory-4b0o)
-- [Reversing an Array Using the Two Pointer Technique in Python](https://dev.to/sri_mahalakshmi_a87f9d361/reversing-an-array-using-the-two-pointer-technique-in-python-mfb)
-- [How to Display CAD DWG Files in a Web Browser — No Plugins&lpar;CAD+WEBGIS&rpar;](https://dev.to/vjmap/how-to-display-cad-dwg-files-in-a-web-browser-no-pluginscadwebgis-3l43)
+- [Introducing a New Go PDF Library: Fast, Lightweight, and CJK-Friendly Solution for PDF Generation](https://dev.to/viklogix/introducing-a-new-go-pdf-library-fast-lightweight-and-cjk-friendly-solution-for-pdf-generation-cgc)
+- [SOC 2 Compliant AI Platform: What the Certification Misses About AI Security](https://dev.to/jaipalsingh/soc-2-compliant-ai-platform-what-the-certification-misses-about-ai-security-39n6)
+- [From Lockdown to Google to Independent AI Consulting. What Actually Worked](https://dev.to/valentin_monteiro/from-lockdown-to-google-to-independent-ai-consulting-what-actually-worked-5ag1)
+- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
 <!-- BLOG-POST-LIST:END -->
 
