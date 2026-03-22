@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode doesn&#39;t save your open tabs and positions when you switch Git branches. I made a fix. &lpar;Open Source&rpar;](https://dev.to/harug/vscode-doesnt-save-your-open-tabs-and-positions-when-you-switch-git-branches-i-made-a-fix-19c9)
-- [Sub-Agent Architectures: Patterns, Trade-offs, and a Kotlin Implementation](https://dev.to/zrcic/sub-agent-architectures-patterns-trade-offs-and-a-kotlin-implementation-13dh)
-- [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
-- [Why I built a Local-First Codebase Visualizer to save 80% on AI Tokens](https://dev.to/mig8at/why-i-built-a-local-first-codebase-visualizer-to-save-80-on-ai-tokens-3elg)
+- [The Trillion-Dollar Contradiction: Why Finance Loves Open Source but Refuses to Trust It](https://dev.to/wittycircuitry/the-trillion-dollar-contradiction-why-finance-loves-open-source-but-refuses-to-trust-it-2mne)
+- [How I Built 7 Shopify Apps as a Solo Developer in Ireland](https://dev.to/jmsdevlab/how-i-built-7-shopify-apps-as-a-solo-developer-in-ireland-2nfp)
+- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
+- [I built a Branch.io alternative for $79/mo instead of $499](https://dev.to/stefanobholz/i-built-a-branchio-alternative-for-79mo-instead-of-499-50oe)
 <!-- BLOG-POST-LIST:END -->
 
