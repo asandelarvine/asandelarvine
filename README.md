@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS WAF Rate Limiting Based on Origin Response](https://dev.to/aws-builders/aws-waf-rate-limiting-based-on-origin-response-1h5j)
-- [Home Solar Power Monitoring System](https://dev.to/kevinari26/home-solar-power-monitoring-system-project-58oh)
-- [The Noisy Neighbor Attack: How Solana&#39;s Localized Fee Markets Create a $0.50 Kill Switch for Any DeFi Protocol](https://dev.to/ohmygod/the-noisy-neighbor-attack-how-solanas-localized-fee-markets-create-a-050-kill-switch-for-any-1lpc)
-- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
+- [Protect Your Web Site with AWS WAF and CloudFront](https://dev.to/aws-builders/protect-your-web-site-with-aws-waf-and-cloudfront-2p8c)
+- [Traycer vs Claude Code: Why Structured Specs Beat Conversational AI Development](https://dev.to/vivek_chavan_61a5b25723c4/traycer-vs-claude-code-why-structured-specs-beat-conversational-ai-development-o8i)
+- [35yo government employee, built real apps with AI, no CS background — realistic 5-year path to software career?](https://dev.to/sanket1015/35yo-government-employee-built-real-apps-with-ai-no-cs-background-realistic-5-year-path-to-p7h)
+- [Number Guessing Game](https://dev.to/santhoshi_mary_88917c3fd9/number-guessing-game-2k48)
 <!-- BLOG-POST-LIST:END -->
 
