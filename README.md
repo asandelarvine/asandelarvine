@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Trillion-Dollar Contradiction: Why Finance Loves Open Source but Refuses to Trust It](https://dev.to/wittycircuitry/the-trillion-dollar-contradiction-why-finance-loves-open-source-but-refuses-to-trust-it-2mne)
-- [How I Built 7 Shopify Apps as a Solo Developer in Ireland](https://dev.to/jmsdevlab/how-i-built-7-shopify-apps-as-a-solo-developer-in-ireland-2nfp)
-- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
-- [I built a Branch.io alternative for $79/mo instead of $499](https://dev.to/stefanobholz/i-built-a-branchio-alternative-for-79mo-instead-of-499-50oe)
+- [Solana Account Revival Attacks: How Closed Accounts Come Back to Haunt You](https://dev.to/ohmygod/solana-account-revival-attacks-how-closed-accounts-come-back-to-haunt-you-3i8f)
+- [Visual Site Builders vs Component Driven Platforms: A Total Cost of Ownership Analysis for Scaling Agencies](https://dev.to/jasonbiondo/visual-site-builders-vs-component-driven-platforms-a-total-cost-of-ownership-analysis-for-scaling-2a86)
+- [How I Got 12 Number One Rankings on ClawHub in 5 Days](https://dev.to/weizhang_dev/how-i-got-12-number-one-rankings-on-clawhub-in-5-days-7jh)
+- [Docker for Broke Developers: Learning It the Hard Way](https://dev.to/n4xt0n/docker-for-broke-developers-learning-it-the-hard-way-3gkb)
 <!-- BLOG-POST-LIST:END -->
 
