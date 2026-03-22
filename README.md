@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 MongoDB monitoring tools every team should use in 2026](https://dev.to/finny_collins/top-5-mongodb-monitoring-tools-every-team-should-use-in-2026-31he)
-- [Weekly Challenge #4 : Still Taking Challenges 💥](https://dev.to/bingkahu/weekly-challenge-4-still-taking-challenges-kb3)
-- [OpenClaw vs 3Commas vs Cryptohopper: The Honest Comparison](https://dev.to/paarthurnax_3f967358857ce/openclaw-vs-3commas-vs-cryptohopper-the-honest-comparison-2ekf)
-- [The Crypto AI Agent Stack That Costs $0/Month to Run](https://dev.to/paarthurnax_3f967358857ce/the-crypto-ai-agent-stack-that-costs-0month-to-run-49d8)
+- [Optimizing Memory usage with mmap - Phase 6 Mini Malloc](https://dev.to/moonlitpath1/optimizing-memory-usage-with-mmap-phase-6-mini-malloc-16hi)
+- [Coalescing - Phase 5 Mini Malloc](https://dev.to/moonlitpath1/coalescing-phase-5-mini-malloc-5g8c)
+- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
+- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
 <!-- BLOG-POST-LIST:END -->
 
