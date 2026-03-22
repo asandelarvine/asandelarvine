@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KickJS Query Engine Deep Dive: Filtering, Sorting, Search, and Pagination with MongoDB](https://dev.to/forinda/kickjs-query-engine-deep-dive-filtering-sorting-search-and-pagination-with-mongodb-18dl)
-- [Seeing the Positive In the AI Race](https://dev.to/cyberjanitor/seeing-the-positive-in-the-ai-race-321l)
-- [OpenMusic - My first Open source project](https://dev.to/benji377/openmusic-my-first-open-source-project-2kha)
-- [Squares of a Sorted Array](https://dev.to/samantha_vincent_11/squares-of-a-sorted-array-4d08)
+- [Security Blind Spots in AI‑Generated Code](https://dev.to/manojsatna31/security-blind-spots-in-ai-generated-code-1jhk)
+- [Debugging &amp; Production Incidents with AI](https://dev.to/manojsatna31/debugging-production-incidents-with-ai-2j86)
+- [Architecture Traps – When AI Over‑Engineers](https://dev.to/manojsatna31/architecture-traps-when-ai-over-engineers-34io)
+- [Performance Pitfalls – AI That Kills Your Latency](https://dev.to/manojsatna31/performance-pitfalls-ai-that-kills-your-latency-3hp1)
 <!-- BLOG-POST-LIST:END -->
 
