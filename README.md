@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vue 3 Reactivity Trap: Why Large Datasets Crash Your Browser](https://dev.to/ameer-pk/the-vue-3-reactivity-trap-why-large-datasets-crash-your-browser-1ikb)
-- [Automation as Art: Designing Workflows That Feel Alive](https://dev.to/numbpill3d/automation-as-art-designing-workflows-that-feel-alive-50fh)
-- [Your coding agent already knows how to test your AI agent &lpar;we just turned it into a Skill&rpar;](https://dev.to/draismaaaa/your-coding-agent-already-knows-how-to-test-your-ai-agent-we-just-turned-it-into-a-skill-5f0g)
-- [AES Cipher Encryption &amp; Decryption with Example](https://dev.to/sharan_biradar_071/aes-cipher-encryption-decryption-with-example-3f11)
+- [Beyond the Prompt: The Rise of the Sovereign Developer](https://dev.to/syedahmershah/beyond-the-prompt-the-rise-of-the-sovereign-developer-3ogo)
+- [HTML Parsing Algorithm and Memory Structure](https://dev.to/jocerfranquiz/html-parsing-algorithm-and-memory-structure-3e3j)
+- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
+- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
 <!-- BLOG-POST-LIST:END -->
 
