@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Playbook Collection: Ansible Best Practices Guide](https://dev.to/thesius_code_7a136ae718b7/ansible-playbook-collection-ansible-best-practices-guide-g8n)
-- [Linux Hardening Scripts: Linux Server Security Guide](https://dev.to/thesius_code_7a136ae718b7/linux-hardening-scripts-linux-server-security-guide-1b62)
-- [Infrastructure As Code Patterns: Infrastructure as Code Patterns Guide](https://dev.to/thesius_code_7a136ae718b7/infrastructure-as-code-patterns-infrastructure-as-code-patterns-guide-bi3)
-- [Medallion Architecture Guide: Naming Conventions Cheatsheet](https://dev.to/thesius_code_7a136ae718b7/medallion-architecture-guide-naming-conventions-cheatsheet-2688)
+- [How I Built an AI Running Coach Pipeline: From Garmin Webhook to Custom GPT](https://dev.to/hivrich/how-i-built-an-ai-running-coach-pipeline-from-garmin-webhook-to-custom-gpt-329e)
+- [Gemini 2.5 Pro vs Gemini 2.5 Flash: Which Model Should You Use?](https://dev.to/leena_malhotra/gemini-25-pro-vs-gemini-25-flash-which-model-should-you-use-3ea2)
+- [You Don’t Actually Own Your Docs &lpar;Most People Don’t Think About This&rpar;](https://dev.to/kritika_yadav_b6bf58baaa5/you-dont-actually-own-your-docs-most-people-dont-think-about-this-22df)
+- [K8s YAML file Kind features](https://dev.to/bhu_kalki/k8s-yaml-file-kind-features-2hpp)
 <!-- BLOG-POST-LIST:END -->
 
