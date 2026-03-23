@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI that watches my email, calendar, GitHub, Slack and tells me what I missed](https://dev.to/msaule/i-built-an-ai-that-watches-my-email-calendar-github-slack-and-tells-me-what-i-missed-4775)
-- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-316j)
-- [UFW, fail2ban, and Banning Repeat Offenders](https://dev.to/jonesrussell/ufw-fail2ban-and-banning-repeat-offenders-1g52)
-- [SSH Hardening: Ed25519 Keys and Disabling Root Login](https://dev.to/jonesrussell/ssh-hardening-ed25519-keys-and-disabling-root-login-50di)
+- [The Most Painful Career Lesson My Best Job Taught Me](https://dev.to/canro91/the-most-painful-career-lesson-my-best-job-taught-me-ca2)
+- [I Built a Zombie Process Killer Because Claude Code Ate 14GB of My RAM](https://dev.to/thestack_ai/i-built-a-zombie-process-killer-because-claude-code-ate-14gb-of-my-ram-1deg)
+- [Sole trader vs limited company: the actual decision framework &lpar;not the oversimplified version&rpar;](https://dev.to/landolio/sole-trader-vs-limited-company-the-actual-decision-framework-not-the-oversimplified-version-423b)
+- [Data Augmentation Using GANs](https://dev.to/paperium/data-augmentation-using-gans-3kla)
 <!-- BLOG-POST-LIST:END -->
 
