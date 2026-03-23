@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When 100.00 Means Nothing: Gaming Coding Assessments](https://dev.to/realactioner/when-10000-means-nothing-gaming-coding-assessments-3e4l)
-- [OpenDataLoader PDF v2.0 Hits #1 on GitHub Trending Globally !](https://dev.to/katash/opendataloader-pdf-v20-hits-1-on-github-trending-globally--1ffa)
-- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
-- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
+- [The Vue 3 Reactivity Trap: Why Large Datasets Crash Your Browser](https://dev.to/ameer-pk/the-vue-3-reactivity-trap-why-large-datasets-crash-your-browser-1ikb)
+- [Automation as Art: Designing Workflows That Feel Alive](https://dev.to/numbpill3d/automation-as-art-designing-workflows-that-feel-alive-50fh)
+- [Your coding agent already knows how to test your AI agent &lpar;we just turned it into a Skill&rpar;](https://dev.to/draismaaaa/your-coding-agent-already-knows-how-to-test-your-ai-agent-we-just-turned-it-into-a-skill-5f0g)
+- [AES Cipher Encryption &amp; Decryption with Example](https://dev.to/sharan_biradar_071/aes-cipher-encryption-decryption-with-example-3f11)
 <!-- BLOG-POST-LIST:END -->
 
