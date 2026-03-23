@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing vMetal: Run Your GPU Data Center Like a Hyperscaler](https://dev.to/vcluster_89/introducing-vmetal-run-your-gpu-data-center-like-a-hyperscaler-2j49)
-- [How I Built a Precise Browser Metronome &lpar;And Why setTimeout Wasn&#39;t Good Enough&rpar;](https://dev.to/aboagye_dunca_82f13fe1afa/how-i-built-a-precise-browser-metronome-and-why-settimeout-wasnt-good-enough-2cm6)
-- [Why Employers Prefer Candidates with CPR Certification in 2026](https://dev.to/skillmateeducation/why-employers-prefer-candidates-with-cpr-certification-in-2026-5ajh)
-- [The “Cloud Repatriation” Trend: Why Smart CTOs Are Auditing Their AWS Bill in March](https://dev.to/intellisource/the-cloud-repatriation-trend-why-smart-ctos-are-auditing-their-aws-bill-in-march-3iob)
+- [From 600 Notes to 3,500: Semantic Search for AI Agent Memory](https://dev.to/klymentiev/from-600-notes-to-3500-semantic-search-for-ai-agent-memory-2j9e)
+- [Why GitHub Copilot Ignores Your React Project Structure](https://dev.to/avery_code/why-github-copilot-ignores-your-react-project-structure-ha)
+- [I built an open-source tool that lets you access RDP, SSH, and VNC through any browser — no VPN or client apps needed](https://dev.to/fengyily/i-built-an-open-source-tool-that-lets-you-access-rdp-ssh-and-vnc-through-any-browser-no-vpn-or-3l0a)
+- [Beyond the Basics: Mastering TypeScript&#39;s Advanced Type System for Robust Applications](https://dev.to/midas126/beyond-the-basics-mastering-typescripts-advanced-type-system-for-robust-applications-363o)
 <!-- BLOG-POST-LIST:END -->
 
