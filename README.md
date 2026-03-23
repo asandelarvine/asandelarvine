@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Running Coach Pipeline: From Garmin Webhook to Custom GPT](https://dev.to/hivrich/how-i-built-an-ai-running-coach-pipeline-from-garmin-webhook-to-custom-gpt-329e)
-- [Gemini 2.5 Pro vs Gemini 2.5 Flash: Which Model Should You Use?](https://dev.to/leena_malhotra/gemini-25-pro-vs-gemini-25-flash-which-model-should-you-use-3ea2)
-- [You Don’t Actually Own Your Docs &lpar;Most People Don’t Think About This&rpar;](https://dev.to/kritika_yadav_b6bf58baaa5/you-dont-actually-own-your-docs-most-people-dont-think-about-this-22df)
-- [K8s YAML file Kind features](https://dev.to/bhu_kalki/k8s-yaml-file-kind-features-2hpp)
+- [Introducing vMetal: Run Your GPU Data Center Like a Hyperscaler](https://dev.to/vcluster_89/introducing-vmetal-run-your-gpu-data-center-like-a-hyperscaler-2j49)
+- [How I Built a Precise Browser Metronome &lpar;And Why setTimeout Wasn&#39;t Good Enough&rpar;](https://dev.to/aboagye_dunca_82f13fe1afa/how-i-built-a-precise-browser-metronome-and-why-settimeout-wasnt-good-enough-2cm6)
+- [Why Employers Prefer Candidates with CPR Certification in 2026](https://dev.to/skillmateeducation/why-employers-prefer-candidates-with-cpr-certification-in-2026-5ajh)
+- [The “Cloud Repatriation” Trend: Why Smart CTOs Are Auditing Their AWS Bill in March](https://dev.to/intellisource/the-cloud-repatriation-trend-why-smart-ctos-are-auditing-their-aws-bill-in-march-3iob)
 <!-- BLOG-POST-LIST:END -->
 
