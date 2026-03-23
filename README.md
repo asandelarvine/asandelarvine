@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From 600 Notes to 3,500: Semantic Search for AI Agent Memory](https://dev.to/klymentiev/from-600-notes-to-3500-semantic-search-for-ai-agent-memory-2j9e)
-- [Why GitHub Copilot Ignores Your React Project Structure](https://dev.to/avery_code/why-github-copilot-ignores-your-react-project-structure-ha)
-- [I built an open-source tool that lets you access RDP, SSH, and VNC through any browser — no VPN or client apps needed](https://dev.to/fengyily/i-built-an-open-source-tool-that-lets-you-access-rdp-ssh-and-vnc-through-any-browser-no-vpn-or-3l0a)
-- [Beyond the Basics: Mastering TypeScript&#39;s Advanced Type System for Robust Applications](https://dev.to/midas126/beyond-the-basics-mastering-typescripts-advanced-type-system-for-robust-applications-363o)
+- [Don&#39;t Block the Event Loop: Scaling Heavy Video Rendering with Node.js, Redis &amp; BullMQ](https://dev.to/rodrigohernandezvidal/dont-block-the-event-loop-scaling-heavy-video-rendering-with-nodejs-redis-bullmq-2p7c)
+- [Installing and Configuring n8n on a Raspberry Pi &lpar;Private Home Server&rpar;](https://dev.to/mahinshanazeer/installing-and-configuring-n8n-on-a-raspberry-pi-private-home-server-1npe)
+- [What Is a QR Menu? A Complete Setup Guide for Restaurants &amp; Cafes &lpar;2026&rpar;](https://dev.to/ugyazilim/what-is-a-qr-menu-a-complete-setup-guide-for-restaurants-cafes-2026-di3)
+- [From Isolation to Creation: Building MarketLab Academy](https://dev.to/hampfree/from-isolation-to-creation-building-marketlab-academy-679)
 <!-- BLOG-POST-LIST:END -->
 
