@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How CVE-2026-25253 exposed every OpenClaw user to RCE — and how to fix it in one command](https://dev.to/andrewsispoidis/how-cve-2026-25253-exposed-every-openclaw-user-to-rce-and-how-to-fix-it-in-one-command-2dj)
-- [How to Generate Open Graph Images Automatically &lpar;No Design Tools Required&rpar;](https://dev.to/custodiaadmin/how-to-generate-open-graph-images-automatically-no-design-tools-required-6pk)
-- [How to Fix the 10 Most Common HTML Errors](https://dev.to/theo_dcrx/how-to-fix-the-10-most-common-html-errors-4fic)
-- [BeSA Batch 09 Week5 - Model Context Protocol in Practice and AI‑Powered Solution Validation](https://dev.to/girishmukim/besa-batch-09-week5-model-context-protocol-in-practice-and-ai-powered-solution-validation-2dhk)
+- [Introducing Minoo: A Living Map of Indigenous Community](https://dev.to/jonesrussell/introducing-minoo-a-living-map-of-indigenous-community-o4d)
+- [I Migrated a Laravel App to a Custom PHP Framework in One Claude Code Session](https://dev.to/jonesrussell/i-migrated-a-laravel-app-to-a-custom-php-framework-in-one-claude-code-session-n3a)
+- [Generate Claude Code skills from any documentation URL](https://dev.to/jonesrussell/generate-claude-code-skills-from-any-documentation-url-3ao)
+- [Git hooks are your best defense against AI-generated mess](https://dev.to/jonesrussell/git-hooks-are-your-best-defense-against-ai-generated-mess-5h1a)
 <!-- BLOG-POST-LIST:END -->
 
