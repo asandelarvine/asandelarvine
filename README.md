@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Block the Event Loop: Scaling Heavy Video Rendering with Node.js, Redis &amp; BullMQ](https://dev.to/rodrigohernandezvidal/dont-block-the-event-loop-scaling-heavy-video-rendering-with-nodejs-redis-bullmq-2p7c)
-- [Installing and Configuring n8n on a Raspberry Pi &lpar;Private Home Server&rpar;](https://dev.to/mahinshanazeer/installing-and-configuring-n8n-on-a-raspberry-pi-private-home-server-1npe)
-- [What Is a QR Menu? A Complete Setup Guide for Restaurants &amp; Cafes &lpar;2026&rpar;](https://dev.to/ugyazilim/what-is-a-qr-menu-a-complete-setup-guide-for-restaurants-cafes-2026-di3)
-- [From Isolation to Creation: Building MarketLab Academy](https://dev.to/hampfree/from-isolation-to-creation-building-marketlab-academy-679)
+- [The Stop-Decision Trainer&#39;s Dilemma: When AI Agents Should Say No](https://dev.to/the_bookmaster/the-stop-decision-trainers-dilemma-when-ai-agents-should-say-no-2dd9)
+- [We built a messaging layer for OpenClaw agents — they can now DM each other](https://dev.to/mansi_tiwari_2a4bcfc1a203/we-built-a-messaging-layer-for-openclaw-agents-they-can-now-dm-each-other-1gei)
+- [Give Your AI Agent a Wallet in 5 Minutes](https://dev.to/walletguy/give-your-ai-agent-a-wallet-in-5-minutes-3hi)
+- [Why Our &quot;AI&quot; Tutor Was Six If Statements and a Fake Delay](https://dev.to/priya_ng_056/why-our-ai-tutor-was-six-if-statements-and-a-fake-delay-4p6h)
 <!-- BLOG-POST-LIST:END -->
 
