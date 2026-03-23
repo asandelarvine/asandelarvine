@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1 of 12 : Testing Phase](https://dev.to/grimkillingbeck/week-1-of-12-testing-phase-23nk)
-- [Forgetful gets procedural and prospective memory](https://dev.to/scott_raisbeck_24ea5fbc1e/forgetful-gets-procedural-and-prospective-memory-4han)
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
+- [I built an AI that watches my email, calendar, GitHub, Slack and tells me what I missed](https://dev.to/msaule/i-built-an-ai-that-watches-my-email-calendar-github-slack-and-tells-me-what-i-missed-4775)
+- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-316j)
+- [UFW, fail2ban, and Banning Repeat Offenders](https://dev.to/jonesrussell/ufw-fail2ban-and-banning-repeat-offenders-1g52)
+- [SSH Hardening: Ed25519 Keys and Disabling Root Login](https://dev.to/jonesrussell/ssh-hardening-ed25519-keys-and-disabling-root-login-50di)
 <!-- BLOG-POST-LIST:END -->
 
