@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Coding Mentor that Actually Learns from Mistakes using Hindsight.](https://dev.to/bhavanac1107/i-built-a-coding-mentor-that-actually-learns-from-mistakes-using-hindsight-1e70)
-- [I Built a Vinted Price Index for Luxury Bags at 2 AM, and It Broke My Production Server](https://dev.to/kazkn/i-built-a-vinted-price-index-for-luxury-bags-at-2-am-and-it-broke-my-production-server-gon)
-- [Building a Memory Layer with Hindsight: From Stateless Feedback to Pattern-Aware Systems](https://dev.to/yasasasswini_idimukkala_0/building-a-memory-layer-with-hindsight-from-stateless-feedback-to-pattern-aware-systems-54n4)
-- [Why My AI Tutor Improved With Hindsight](https://dev.to/bala_praharshamannepalli/why-my-ai-tutor-improved-with-hindsight-l05)
+- [When 100.00 Means Nothing: Gaming Coding Assessments](https://dev.to/realactioner/when-10000-means-nothing-gaming-coding-assessments-3e4l)
+- [OpenDataLoader PDF v2.0 Hits #1 on GitHub Trending Globally !](https://dev.to/katash/opendataloader-pdf-v20-hits-1-on-github-trending-globally--1ffa)
+- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
+- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
 <!-- BLOG-POST-LIST:END -->
 
