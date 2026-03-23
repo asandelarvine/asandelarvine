@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Painful Career Lesson My Best Job Taught Me](https://dev.to/canro91/the-most-painful-career-lesson-my-best-job-taught-me-ca2)
-- [I Built a Zombie Process Killer Because Claude Code Ate 14GB of My RAM](https://dev.to/thestack_ai/i-built-a-zombie-process-killer-because-claude-code-ate-14gb-of-my-ram-1deg)
-- [Sole trader vs limited company: the actual decision framework &lpar;not the oversimplified version&rpar;](https://dev.to/landolio/sole-trader-vs-limited-company-the-actual-decision-framework-not-the-oversimplified-version-423b)
-- [Data Augmentation Using GANs](https://dev.to/paperium/data-augmentation-using-gans-3kla)
+- [I got tired of manual code reviews so I built a free automated security pipeline](https://dev.to/trivedivatsal/i-got-tired-of-manual-code-reviews-so-i-built-a-free-automated-security-pipeline-1lmd)
+- [Why Habit Apps Feel Like Nagging Parents &lpar;And What I Built Instead&rpar;](https://dev.to/eastkap/why-habit-apps-feel-like-nagging-parents-and-what-i-built-instead-4jfm)
+- [JavaScript Modules 101: import &amp; export Without Confusion](https://dev.to/kunal_dev/javascript-modules-101-import-export-without-confusion-83d)
+- [What is Antifragility &lpar;and why it matters in .NET&rpar;?](https://dev.to/samira_talebi_cca34ce28b8/what-is-antifragility-and-why-it-matters-in-net-eih)
 <!-- BLOG-POST-LIST:END -->
 
