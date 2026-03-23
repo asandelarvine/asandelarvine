@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of manual code reviews so I built a free automated security pipeline](https://dev.to/trivedivatsal/i-got-tired-of-manual-code-reviews-so-i-built-a-free-automated-security-pipeline-1lmd)
-- [Why Habit Apps Feel Like Nagging Parents &lpar;And What I Built Instead&rpar;](https://dev.to/eastkap/why-habit-apps-feel-like-nagging-parents-and-what-i-built-instead-4jfm)
-- [JavaScript Modules 101: import &amp; export Without Confusion](https://dev.to/kunal_dev/javascript-modules-101-import-export-without-confusion-83d)
-- [What is Antifragility &lpar;and why it matters in .NET&rpar;?](https://dev.to/samira_talebi_cca34ce28b8/what-is-antifragility-and-why-it-matters-in-net-eih)
+- [Ansible Playbook Collection: Ansible Best Practices Guide](https://dev.to/thesius_code_7a136ae718b7/ansible-playbook-collection-ansible-best-practices-guide-g8n)
+- [Linux Hardening Scripts: Linux Server Security Guide](https://dev.to/thesius_code_7a136ae718b7/linux-hardening-scripts-linux-server-security-guide-1b62)
+- [Infrastructure As Code Patterns: Infrastructure as Code Patterns Guide](https://dev.to/thesius_code_7a136ae718b7/infrastructure-as-code-patterns-infrastructure-as-code-patterns-guide-bi3)
+- [Medallion Architecture Guide: Naming Conventions Cheatsheet](https://dev.to/thesius_code_7a136ae718b7/medallion-architecture-guide-naming-conventions-cheatsheet-2688)
 <!-- BLOG-POST-LIST:END -->
 
