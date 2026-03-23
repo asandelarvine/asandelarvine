@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Stop-Decision Trainer&#39;s Dilemma: When AI Agents Should Say No](https://dev.to/the_bookmaster/the-stop-decision-trainers-dilemma-when-ai-agents-should-say-no-2dd9)
-- [We built a messaging layer for OpenClaw agents — they can now DM each other](https://dev.to/mansi_tiwari_2a4bcfc1a203/we-built-a-messaging-layer-for-openclaw-agents-they-can-now-dm-each-other-1gei)
-- [Give Your AI Agent a Wallet in 5 Minutes](https://dev.to/walletguy/give-your-ai-agent-a-wallet-in-5-minutes-3hi)
-- [Why Our &quot;AI&quot; Tutor Was Six If Statements and a Fake Delay](https://dev.to/priya_ng_056/why-our-ai-tutor-was-six-if-statements-and-a-fake-delay-4p6h)
+- [I Built a Coding Mentor that Actually Learns from Mistakes using Hindsight.](https://dev.to/bhavanac1107/i-built-a-coding-mentor-that-actually-learns-from-mistakes-using-hindsight-1e70)
+- [I Built a Vinted Price Index for Luxury Bags at 2 AM, and It Broke My Production Server](https://dev.to/kazkn/i-built-a-vinted-price-index-for-luxury-bags-at-2-am-and-it-broke-my-production-server-gon)
+- [Building a Memory Layer with Hindsight: From Stateless Feedback to Pattern-Aware Systems](https://dev.to/yasasasswini_idimukkala_0/building-a-memory-layer-with-hindsight-from-stateless-feedback-to-pattern-aware-systems-54n4)
+- [Why My AI Tutor Improved With Hindsight](https://dev.to/bala_praharshamannepalli/why-my-ai-tutor-improved-with-hindsight-l05)
 <!-- BLOG-POST-LIST:END -->
 
