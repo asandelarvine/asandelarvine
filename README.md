@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Taskmaster: A Go-Powered Process Supervisor from Scratch](https://dev.to/uba-code/building-taskmaster-a-go-powered-process-supervisor-from-scratch-12fn)
-- [Introducing L-BOM and GUI-BOM](https://dev.to/obtuseaglet/introducing-l-bom-and-gui-bom-16ck)
-- [20 Free Browser Tools That Replace Paid Software &lpar;-99/mo&rpar;](https://dev.to/teamzlab/20-free-browser-tools-that-replace-paid-software-99mo-45fo)
-- [NASA Has 5 Free APIs — Track Asteroids, Mars Photos &amp; Space Weather &lpar;No Auth Required&rpar;](https://dev.to/0012303/nasa-has-5-free-apis-track-asteroids-mars-photos-space-weather-no-auth-required-43p0)
+- [Lovable Just Added AI Pentesting. Here&#39;s What It Means for Every Other Vibe Coder.](https://dev.to/solobillions/lovable-just-added-ai-pentesting-heres-what-it-means-for-every-other-vibe-coder-27ka)
+- [Urgent Security Alerts &amp; Self-Hosted Swarm: Building Local LLM Infra Safely](https://dev.to/soytuber/urgent-security-alerts-self-hosted-swarm-building-local-llm-infra-safely-30o2)
+- [Guarding Critical Operations: Mastering SELECT FOR UPDATE for Race Condition Prevention in Django &amp; PostgreSQL](https://dev.to/alairjt/guarding-critical-operations-mastering-select-for-update-for-race-condition-prevention-in-django--32mg)
+- [MiniScript Weekly News — March 24, 2026](https://dev.to/joestrout/miniscript-weekly-news-march-24-2026-1jlj)
 <!-- BLOG-POST-LIST:END -->
 
