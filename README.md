@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Reading YC-Backed Code #1: claude-mem — Great Idea, Poor Implementation](https://dev.to/veltrea_code/-reading-yc-backed-code-1-claude-mem-great-idea-poor-implementation-2mbi)
-- [TypeScript Discriminated Unions: Advanced Type Narrowing](https://dev.to/maanu07/typescript-discriminated-unions-advanced-type-narrowing-47pp)
-- [I Gave My AI 688 Lines of Instructions. It Rewrote Them to 134. &lpar;Build Log #2&rpar;](https://dev.to/wildrunai/i-gave-my-ai-688-lines-of-instructions-it-rewrote-them-to-134-build-log-2-1cei)
-- [Is It Still Engineering If AI Writes the Code?](https://dev.to/chadders13/is-it-still-engineering-if-ai-writes-the-code-1a75)
+- [# How Java Taught Me Patience &lpar;and Made Me a Better Developer&rpar;](https://dev.to/mindmagic/-how-java-taught-me-patience-and-made-me-a-better-developer-dgk)
+- [# MongoDB in 2026: Flexible Data for Modern Apps](https://dev.to/mindmagic/-mongodb-in-2026-flexible-data-for-modern-apps-14fd)
+- [Passive-Aggressive Slack Messages at Work: Patterns Decoded](https://dev.to/skippy_magnificent_8cce24/passive-aggressive-slack-messages-at-work-patterns-decoded-5d08)
+- [# Python in 2026: Simple, Powerful, Everywhere](https://dev.to/mindmagic/-python-in-2026-simple-powerful-everywhere-2mof)
 <!-- BLOG-POST-LIST:END -->
 
