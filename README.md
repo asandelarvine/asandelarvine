@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Transaction Performance](https://dev.to/franckpachot/mongodb-transaction-performance-4dc7)
-- [Building an AI-Powered Social Media Content Generator - A Developer&#39;s Guide](https://dev.to/mistyhx/building-an-ai-powered-social-media-content-generator-a-developers-guide-11ca)
-- [O Dia em Que Cinco Batalhas Foram Travadas e o Inimigo Permanece Sem Nome](https://dev.to/the-architect-chronicles/o-dia-em-que-cinco-batalhas-foram-travadas-e-o-inimigo-permanece-sem-nome-1788)
-- [I Analyzed 50 GitHub Repos That Went From 0 to 10K Stars — Here Are the 7 Patterns](https://dev.to/0012303/i-analyzed-50-github-repos-that-went-from-0-to-10k-stars-here-are-the-7-patterns-54o1)
+- [abuse.ch Has 5 Free APIs — The Complete Threat Intelligence Toolkit You Didn&#39;t Know Existed](https://dev.to/0012303/abusech-has-5-free-apis-the-complete-threat-intelligence-toolkit-you-didnt-know-existed-4jo3)
+- [How to Save 55% on Manus AI Credits in 10 Minutes &lpar;Step-by-Step Setup Guide&rpar;](https://dev.to/rafsilva85/how-to-save-55-on-manus-ai-credits-in-10-minutes-step-by-step-setup-guide-2o0)
+- [How to Coordinate Multiple Claude Code Agents Without Losing Your Mind](https://dev.to/alanwest/how-to-coordinate-multiple-claude-code-agents-without-losing-your-mind-1i9f)
+- [Mastering Pattern Matching in Design and Verification: Boosting Efficiency in Modern Chip Development](https://dev.to/aloycwl/mastering-pattern-matching-in-design-and-verification-boosting-efficiency-in-modern-chip-3n9m)
 <!-- BLOG-POST-LIST:END -->
 
