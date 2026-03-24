@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Just Added Arrow Functions to Templates — And I’m Not Sure It’s a Good Idea](https://dev.to/gregorycode/angular-just-added-arrow-functions-to-templates-and-im-not-sure-its-a-good-idea-4fam)
-- [Leetcode Reflection 3.16-3.22](https://dev.to/korleones/leetcode-reflection-316-322-57fb)
-- [From DevOps to Platform Engineering and GitOps: The Complete Guide to Modern Software Delivery](https://dev.to/imsushant12/from-devops-to-platform-engineering-and-gitops-the-complete-guide-to-modern-software-delivery-2pa0)
-- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
+- [Your AI Integration Is Probably Riskier Than You Think](https://dev.to/vickkykruz/your-ai-integration-is-probably-riskier-than-you-think-3a03)
+- [Two of My Most Significant Clients Came From a Text-Based Browser Game](https://dev.to/aaronzara/two-of-my-most-significant-clients-came-from-a-text-based-browser-game-3mjg)
+- [BigCommerce API Kullanımı: E-Ticaret Entegrasyonu Geliştirici Rehberi](https://dev.to/tobiass_hoffmann/bigcommerce-api-kullanimi-e-ticaret-entegrasyonu-gelistirici-rehberi-2jb0)
+- [Never Miss a Downtime Again](https://dev.to/netaneo/never-miss-adowntime-again-mjj)
 <!-- BLOG-POST-LIST:END -->
 
