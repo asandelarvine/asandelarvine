@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Adding Video Artifacts to CI Pipelines Transforms Development Workflows](https://dev.to/brandikinard/how-adding-video-artifacts-to-ci-pipelines-transforms-development-workflows-1pjg)
-- [How Big Is the SMS Market? Your Events and Marketing Company Guide](https://dev.to/yolandalawrence/how-big-is-the-sms-market-your-events-and-marketing-company-guide-3cco)
-- [I built a web scraper in Rust that bypasses Cloudflare without a browser](https://dev.to/0xmassi/i-built-a-web-scraper-in-rust-that-bypasses-cloudflare-without-a-browser-3c1o)
-- [Turning World Bank Data Into 50K+ Searchable Pages with WordPress](https://dev.to/kavelaltd/turning-world-bank-data-into-50k-searchable-pages-with-wordpress-2ojp)
+- [Stop running JSON-Server locally](https://dev.to/jdevbr/stop-running-json-server-locally-5g3m)
+- [Instruction Best Practices: Precision Beats Clarity](https://dev.to/cleverhoods/instruction-best-practices-precision-beats-clarity-lod)
+- [&quot;The human might be asleep.&quot; One line in Karpathy&#39;s program.md started 100 automatic experiments per night.](https://dev.to/n_asuy/the-human-might-be-asleep-one-line-in-karpathys-programmd-started-100-automatic-experiments-e1)
+- [Building a Concurrent TCP Chat Server in Go &lpar;NetCat Clone&rpar;](https://dev.to/odinga71/building-a-concurrent-tcp-chat-server-in-go-netcat-clone-jc1)
 <!-- BLOG-POST-LIST:END -->
 
