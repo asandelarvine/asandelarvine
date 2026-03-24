@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# How Java Taught Me Patience &lpar;and Made Me a Better Developer&rpar;](https://dev.to/mindmagic/-how-java-taught-me-patience-and-made-me-a-better-developer-dgk)
-- [# MongoDB in 2026: Flexible Data for Modern Apps](https://dev.to/mindmagic/-mongodb-in-2026-flexible-data-for-modern-apps-14fd)
-- [Passive-Aggressive Slack Messages at Work: Patterns Decoded](https://dev.to/skippy_magnificent_8cce24/passive-aggressive-slack-messages-at-work-patterns-decoded-5d08)
-- [# Python in 2026: Simple, Powerful, Everywhere](https://dev.to/mindmagic/-python-in-2026-simple-powerful-everywhere-2mof)
+- [How Adding Video Artifacts to CI Pipelines Transforms Development Workflows](https://dev.to/brandikinard/how-adding-video-artifacts-to-ci-pipelines-transforms-development-workflows-1pjg)
+- [How Big Is the SMS Market? Your Events and Marketing Company Guide](https://dev.to/yolandalawrence/how-big-is-the-sms-market-your-events-and-marketing-company-guide-3cco)
+- [I built a web scraper in Rust that bypasses Cloudflare without a browser](https://dev.to/0xmassi/i-built-a-web-scraper-in-rust-that-bypasses-cloudflare-without-a-browser-3c1o)
+- [Turning World Bank Data Into 50K+ Searchable Pages with WordPress](https://dev.to/kavelaltd/turning-world-bank-data-into-50k-searchable-pages-with-wordpress-2ojp)
 <!-- BLOG-POST-LIST:END -->
 
