@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Purging Nginx Cache Is Only Half the Job &lpar;And How I Built the Other Half&rpar;](https://dev.to/psauxit/why-purging-nginx-cache-is-only-half-the-job-and-how-i-built-the-other-half-3bhp)
-- [Why AI Agents Fail: 3 Failure Modes That Cost You Tokens and Time](https://dev.to/aws/why-ai-agents-fail-3-failure-modes-that-cost-you-tokens-and-time-1flb)
-- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
-- [[Boost]](https://dev.to/yuri_souza_87bf486a4674b6/-3fcf)
+- [AI vs EDI vs API: They Solve Different Problems](https://dev.to/jamesjulius/ai-vs-edi-vs-api-they-solve-different-problems-21fj)
+- [🚀 Day 9 of My Cloud Journey: Mastering Docker Volumes, Compose &amp; Registry](https://dev.to/avinashwagh/day-9-of-my-cloud-journey-mastering-docker-volumes-compose-registry-2ik1)
+- [Google Business Profile for Local Service Businesses: The 20-Minute Audit That Actually Works](https://dev.to/clawgenesis/google-business-profile-for-local-service-businesses-the-20-minute-audit-that-actually-works-57hk)
+- [🚀 Creating an EC2 Instance Using Python `requests` &lpar;Without boto3&rpar;](https://dev.to/jayakrishnayadav24/creating-an-ec2-instance-using-python-requests-without-boto3-1m5n)
 <!-- BLOG-POST-LIST:END -->
 
