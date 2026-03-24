@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Compilative, Not Generative](https://dev.to/petersalvato/im-compilative-not-generative-11gn)
-- [Your Client&#39;s Website Is a Lawsuit Waiting to Happen](https://dev.to/dgrigg/your-clients-website-is-a-lawsuit-waiting-to-happen-56gg)
-- [Does Claude Code Need Sleep? Inside the Unreleased Auto-dream Feature](https://dev.to/akari_iku/does-claude-code-need-sleep-inside-the-unreleased-auto-dream-feature-2n7m)
-- [How I Validate API Keys Without Hitting the Database on Every Request](https://dev.to/lamj/how-i-validate-api-keys-without-hitting-the-database-on-every-request-5cb3)
+- [Stop Guessing Why Your App is Slow: A Pragmatic Guide to Big O Notation](https://dev.to/erickg123/stop-guessing-why-your-app-is-slow-a-pragmatic-guide-to-big-o-notation-4g2g)
+- [25 Dicas de performance com .NET 10](https://dev.to/unhacked/25-dicas-de-performance-com-net-10-368p)
+- [# Finding First and Last Occurrence in a Sorted Array &lpar;Java&rpar;](https://dev.to/sharmi_sabari_09/-finding-first-and-last-occurrence-in-a-sorted-array-java-417l)
+- [How to Run NemoClaw with a Local LLM &amp; Connect to Telegram &lpar;Without Losing Your Mind&rpar;](https://dev.to/minhiu/how-to-run-nemoclaw-with-a-local-llm-connect-to-telegram-without-losing-your-mind-3lk)
 <!-- BLOG-POST-LIST:END -->
 
