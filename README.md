@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing Why Your App is Slow: A Pragmatic Guide to Big O Notation](https://dev.to/erickg123/stop-guessing-why-your-app-is-slow-a-pragmatic-guide-to-big-o-notation-4g2g)
-- [25 Dicas de performance com .NET 10](https://dev.to/unhacked/25-dicas-de-performance-com-net-10-368p)
-- [# Finding First and Last Occurrence in a Sorted Array &lpar;Java&rpar;](https://dev.to/sharmi_sabari_09/-finding-first-and-last-occurrence-in-a-sorted-array-java-417l)
-- [How to Run NemoClaw with a Local LLM &amp; Connect to Telegram &lpar;Without Losing Your Mind&rpar;](https://dev.to/minhiu/how-to-run-nemoclaw-with-a-local-llm-connect-to-telegram-without-losing-your-mind-3lk)
+- [Mastering Basic Infrastructure with Terraform](https://dev.to/mktowett/mastering-basic-infrastructure-with-terraform-nac)
+- [The Missing Protocol for AI Agent Authorization](https://dev.to/chudah1/the-missing-protocol-for-ai-agent-authorization-2532)
+- [Getting SEC EDGAR Filings via API Without Scraping](https://dev.to/carrierone/getting-sec-edgar-filings-via-api-without-scraping-ce8)
+- [Partner Monitoring Your Text Messages: When Trust-Building Becomes Surveillance](https://dev.to/skippy_magnificent_8cce24/partner-monitoring-your-text-messages-when-trust-building-becomes-surveillance-5f8e)
 <!-- BLOG-POST-LIST:END -->
 
