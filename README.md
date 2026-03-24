@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop running JSON-Server locally](https://dev.to/jdevbr/stop-running-json-server-locally-5g3m)
-- [Instruction Best Practices: Precision Beats Clarity](https://dev.to/cleverhoods/instruction-best-practices-precision-beats-clarity-lod)
-- [&quot;The human might be asleep.&quot; One line in Karpathy&#39;s program.md started 100 automatic experiments per night.](https://dev.to/n_asuy/the-human-might-be-asleep-one-line-in-karpathys-programmd-started-100-automatic-experiments-e1)
-- [Building a Concurrent TCP Chat Server in Go &lpar;NetCat Clone&rpar;](https://dev.to/odinga71/building-a-concurrent-tcp-chat-server-in-go-netcat-clone-jc1)
+- [I&#39;m Compilative, Not Generative](https://dev.to/petersalvato/im-compilative-not-generative-11gn)
+- [Your Client&#39;s Website Is a Lawsuit Waiting to Happen](https://dev.to/dgrigg/your-clients-website-is-a-lawsuit-waiting-to-happen-56gg)
+- [Does Claude Code Need Sleep? Inside the Unreleased Auto-dream Feature](https://dev.to/akari_iku/does-claude-code-need-sleep-inside-the-unreleased-auto-dream-feature-2n7m)
+- [How I Validate API Keys Without Hitting the Database on Every Request](https://dev.to/lamj/how-i-validate-api-keys-without-hitting-the-database-on-every-request-5cb3)
 <!-- BLOG-POST-LIST:END -->
 
