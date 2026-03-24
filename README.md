@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Minoo: A Living Map of Indigenous Community](https://dev.to/jonesrussell/introducing-minoo-a-living-map-of-indigenous-community-o4d)
-- [I Migrated a Laravel App to a Custom PHP Framework in One Claude Code Session](https://dev.to/jonesrussell/i-migrated-a-laravel-app-to-a-custom-php-framework-in-one-claude-code-session-n3a)
-- [Generate Claude Code skills from any documentation URL](https://dev.to/jonesrussell/generate-claude-code-skills-from-any-documentation-url-3ao)
-- [Git hooks are your best defense against AI-generated mess](https://dev.to/jonesrussell/git-hooks-are-your-best-defense-against-ai-generated-mess-5h1a)
+- [Why Purging Nginx Cache Is Only Half the Job &lpar;And How I Built the Other Half&rpar;](https://dev.to/psauxit/why-purging-nginx-cache-is-only-half-the-job-and-how-i-built-the-other-half-3bhp)
+- [Why AI Agents Fail: 3 Failure Modes That Cost You Tokens and Time](https://dev.to/aws/why-ai-agents-fail-3-failure-modes-that-cost-you-tokens-and-time-1flb)
+- [Building a Faster, Ad-Free Unit Converter: Escaping the Paywalls of Utility Apps](https://dev.to/getinfotoyou/building-a-faster-ad-free-unit-converter-escaping-the-paywalls-of-utility-apps-1ek9)
+- [[Boost]](https://dev.to/yuri_souza_87bf486a4674b6/-3fcf)
 <!-- BLOG-POST-LIST:END -->
 
