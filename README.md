@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Basic Infrastructure with Terraform](https://dev.to/mktowett/mastering-basic-infrastructure-with-terraform-nac)
-- [The Missing Protocol for AI Agent Authorization](https://dev.to/chudah1/the-missing-protocol-for-ai-agent-authorization-2532)
-- [Getting SEC EDGAR Filings via API Without Scraping](https://dev.to/carrierone/getting-sec-edgar-filings-via-api-without-scraping-ce8)
-- [Partner Monitoring Your Text Messages: When Trust-Building Becomes Surveillance](https://dev.to/skippy_magnificent_8cce24/partner-monitoring-your-text-messages-when-trust-building-becomes-surveillance-5f8e)
+- [Building Taskmaster: A Go-Powered Process Supervisor from Scratch](https://dev.to/uba-code/building-taskmaster-a-go-powered-process-supervisor-from-scratch-12fn)
+- [Introducing L-BOM and GUI-BOM](https://dev.to/obtuseaglet/introducing-l-bom-and-gui-bom-16ck)
+- [20 Free Browser Tools That Replace Paid Software &lpar;-99/mo&rpar;](https://dev.to/teamzlab/20-free-browser-tools-that-replace-paid-software-99mo-45fo)
+- [NASA Has 5 Free APIs — Track Asteroids, Mars Photos &amp; Space Weather &lpar;No Auth Required&rpar;](https://dev.to/0012303/nasa-has-5-free-apis-track-asteroids-mars-photos-space-weather-no-auth-required-43p0)
 <!-- BLOG-POST-LIST:END -->
 
