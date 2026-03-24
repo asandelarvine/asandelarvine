@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lovable Just Added AI Pentesting. Here&#39;s What It Means for Every Other Vibe Coder.](https://dev.to/solobillions/lovable-just-added-ai-pentesting-heres-what-it-means-for-every-other-vibe-coder-27ka)
-- [Urgent Security Alerts &amp; Self-Hosted Swarm: Building Local LLM Infra Safely](https://dev.to/soytuber/urgent-security-alerts-self-hosted-swarm-building-local-llm-infra-safely-30o2)
-- [Guarding Critical Operations: Mastering SELECT FOR UPDATE for Race Condition Prevention in Django &amp; PostgreSQL](https://dev.to/alairjt/guarding-critical-operations-mastering-select-for-update-for-race-condition-prevention-in-django--32mg)
-- [MiniScript Weekly News — March 24, 2026](https://dev.to/joestrout/miniscript-weekly-news-march-24-2026-1jlj)
+- [MongoDB Transaction Performance](https://dev.to/franckpachot/mongodb-transaction-performance-4dc7)
+- [Building an AI-Powered Social Media Content Generator - A Developer&#39;s Guide](https://dev.to/mistyhx/building-an-ai-powered-social-media-content-generator-a-developers-guide-11ca)
+- [O Dia em Que Cinco Batalhas Foram Travadas e o Inimigo Permanece Sem Nome](https://dev.to/the-architect-chronicles/o-dia-em-que-cinco-batalhas-foram-travadas-e-o-inimigo-permanece-sem-nome-1788)
+- [I Analyzed 50 GitHub Repos That Went From 0 to 10K Stars — Here Are the 7 Patterns](https://dev.to/0012303/i-analyzed-50-github-repos-that-went-from-0-to-10k-stars-here-are-the-7-patterns-54o1)
 <!-- BLOG-POST-LIST:END -->
 
