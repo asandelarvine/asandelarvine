@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs EDI vs API: They Solve Different Problems](https://dev.to/jamesjulius/ai-vs-edi-vs-api-they-solve-different-problems-21fj)
-- [🚀 Day 9 of My Cloud Journey: Mastering Docker Volumes, Compose &amp; Registry](https://dev.to/avinashwagh/day-9-of-my-cloud-journey-mastering-docker-volumes-compose-registry-2ik1)
-- [Google Business Profile for Local Service Businesses: The 20-Minute Audit That Actually Works](https://dev.to/clawgenesis/google-business-profile-for-local-service-businesses-the-20-minute-audit-that-actually-works-57hk)
-- [🚀 Creating an EC2 Instance Using Python `requests` &lpar;Without boto3&rpar;](https://dev.to/jayakrishnayadav24/creating-an-ec2-instance-using-python-requests-without-boto3-1m5n)
+- [Angular Just Added Arrow Functions to Templates — And I’m Not Sure It’s a Good Idea](https://dev.to/gregorycode/angular-just-added-arrow-functions-to-templates-and-im-not-sure-its-a-good-idea-4fam)
+- [Leetcode Reflection 3.16-3.22](https://dev.to/korleones/leetcode-reflection-316-322-57fb)
+- [From DevOps to Platform Engineering and GitOps: The Complete Guide to Modern Software Delivery](https://dev.to/imsushant12/from-devops-to-platform-engineering-and-gitops-the-complete-guide-to-modern-software-delivery-2pa0)
+- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
 <!-- BLOG-POST-LIST:END -->
 
