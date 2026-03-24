@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Integration Is Probably Riskier Than You Think](https://dev.to/vickkykruz/your-ai-integration-is-probably-riskier-than-you-think-3a03)
-- [Two of My Most Significant Clients Came From a Text-Based Browser Game](https://dev.to/aaronzara/two-of-my-most-significant-clients-came-from-a-text-based-browser-game-3mjg)
-- [BigCommerce API Kullanımı: E-Ticaret Entegrasyonu Geliştirici Rehberi](https://dev.to/tobiass_hoffmann/bigcommerce-api-kullanimi-e-ticaret-entegrasyonu-gelistirici-rehberi-2jb0)
-- [Never Miss a Downtime Again](https://dev.to/netaneo/never-miss-adowntime-again-mjj)
+- [# Reading YC-Backed Code #1: claude-mem — Great Idea, Poor Implementation](https://dev.to/veltrea_code/-reading-yc-backed-code-1-claude-mem-great-idea-poor-implementation-2mbi)
+- [TypeScript Discriminated Unions: Advanced Type Narrowing](https://dev.to/maanu07/typescript-discriminated-unions-advanced-type-narrowing-47pp)
+- [I Gave My AI 688 Lines of Instructions. It Rewrote Them to 134. &lpar;Build Log #2&rpar;](https://dev.to/wildrunai/i-gave-my-ai-688-lines-of-instructions-it-rewrote-them-to-134-build-log-2-1cei)
+- [Is It Still Engineering If AI Writes the Code?](https://dev.to/chadders13/is-it-still-engineering-if-ai-writes-the-code-1a75)
 <!-- BLOG-POST-LIST:END -->
 
