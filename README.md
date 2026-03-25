@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Cheat Sheet: 60+ Commands Every Developer Should Know](https://dev.to/_d7eb1c1703182e3ce1782/git-cheat-sheet-60-commands-every-developer-should-know-58a8)
-- [Best Free Lorem Ipsum Generator Online: Placeholder Text for Developers](https://dev.to/_d7eb1c1703182e3ce1782/best-free-lorem-ipsum-generator-online-placeholder-text-for-developers-1o7p)
-- [From Senior Engineer to Technical CEO: My Blueprint for Building a Consultancy](https://dev.to/szglabs/from-senior-engineer-to-technical-ceo-my-blueprint-for-building-a-consultancy-45g9)
-- [ESLint + Prettier Setup: The Complete Developer Configuration Guide &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/eslint-prettier-setup-the-complete-developer-configuration-guide-2026-4p8k)
+- [Complete HTTP Status Codes Reference for REST API Devs](https://dev.to/_d7eb1c1703182e3ce1782/complete-http-status-codes-reference-for-rest-api-devs-1dnk)
+- [Color Picker Hex RGB — Convert and Pick Colors for Web Development](https://dev.to/_d7eb1c1703182e3ce1782/color-picker-hex-rgb-convert-and-pick-colors-for-web-development-2hlf)
+- [Code Review Checklist Template 2025: Everything You Need to Ship Better Code](https://dev.to/_d7eb1c1703182e3ce1782/code-review-checklist-template-2025-everything-you-need-to-ship-better-code-ej8)
+- [How to Use Claude API for Automated Code Review](https://dev.to/_d7eb1c1703182e3ce1782/how-to-use-claude-api-for-automated-code-review-27m8)
 <!-- BLOG-POST-LIST:END -->
 
