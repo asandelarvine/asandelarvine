@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Fixing Bugs Myself and Built an AI to Do It Instead](https://dev.to/rkchellah/i-stopped-fixing-bugs-myself-and-built-an-ai-to-do-it-instead-2ee1)
-- [How to implement DevOps without creating more complexity](https://dev.to/kodus/how-to-implement-devops-without-creating-more-complexity-7bl)
-- [15 VICIdial Settings Wasting Your Agents&#39; Time Right Now](https://dev.to/gamlin/15-vicidial-settings-wasting-your-agents-time-right-now-2llh)
-- [7 Mac Apps That Help Developers Avoid Burnout in 2026](https://dev.to/godnick/7-mac-apps-that-help-developers-avoid-burnout-in-2026-2jh2)
+- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-1hlg)
+- [Why I Store All My Scraped Data in SQLite &lpar;Not JSON, Not CSV&rpar;](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
+- [Two Weeks, 40 Commits, and an AI That Remembers My Preferences](https://dev.to/padawanabhi/two-weeks-40-commits-and-an-ai-that-remembers-my-preferences-1jo6)
+- [Benchmark oriented development is a road to nowhere](https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518)
 <!-- BLOG-POST-LIST:END -->
 
