@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Side Project to First Dollar: The Realistic Path Most Developers Never Take](https://dev.to/alexcloudstar/from-side-project-to-first-dollar-the-realistic-path-most-developers-never-take-o1a)
-- [I Built a CLI to Search 800M+ Academic Papers From Your Terminal](https://dev.to/0012303/i-built-a-cli-to-search-800m-academic-papers-from-your-terminal-1bcn)
-- [You&#39;re Probably Undercharging: A Practical Guide to SaaS Pricing for Indie Hackers](https://dev.to/alexcloudstar/youre-probably-undercharging-a-practical-guide-to-saas-pricing-for-indie-hackers-2ei7)
-- [The Silent Killer in Your Web App: How Bare catch {} Blocks Hide Failures from Everyone](https://dev.to/jeremy_longshore/the-silent-killer-in-your-web-app-how-bare-catch-blocks-hide-failures-from-everyone-7ee)
+- [How Hackers Exploit RDP &lpar;Port 3389&rpar; — Real Attack Breakdown &amp; Prevention Guide](https://dev.to/techpio-dalbeir/how-hackers-exploit-rdp-port-3389-real-attack-breakdown-prevention-guide-59mo)
+- [MongoDB Schema Design: Do’s and Don’ts for Real Projects](https://dev.to/mongodb/mongodb-schema-design-dos-and-donts-for-real-projects-1cg6)
+- [Deploying an ASP.NET Core Web API to Azure with App Service and Azure SQL Database](https://dev.to/promisee_ay/deploying-an-aspnet-core-web-api-to-azure-with-app-service-and-azure-sql-database-4md)
+- [Why 220 Keystrokes of Behavioral Biometrics Beat a Perfect Face Match](https://dev.to/caracomp/why-220-keystrokes-of-behavioral-biometrics-beat-a-perfect-face-match-43c9)
 <!-- BLOG-POST-LIST:END -->
 
