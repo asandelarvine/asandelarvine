@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-1hlg)
-- [Why I Store All My Scraped Data in SQLite &lpar;Not JSON, Not CSV&rpar;](https://dev.to/0012303/why-i-store-all-my-scraped-data-in-sqlite-not-json-not-csv-56pa)
-- [Two Weeks, 40 Commits, and an AI That Remembers My Preferences](https://dev.to/padawanabhi/two-weeks-40-commits-and-an-ai-that-remembers-my-preferences-1jo6)
-- [Benchmark oriented development is a road to nowhere](https://dev.to/dmtrkovalenko/benchmark-oriented-development-is-a-road-to-nowhere-1518)
+- [The UK Government Just Warned About Vibe Coding Security at RSA. Two Days Later, a Supply Chain Attack Proved Why.](https://dev.to/solobillions/the-uk-government-just-warned-about-vibe-coding-security-at-rsa-two-days-later-a-supply-chain-4id6)
+- [Stop guessing whether your API demo works — here are 5 TIAMAT endpoints I tested live](https://dev.to/tiamatenity/stop-guessing-whether-your-api-demo-works-here-are-5-tiamat-endpoints-i-tested-live-16fg)
+- [SQLite Just Got Vector Search — Here&#39;s How to Use It for AI &lpar;No Database Server Needed&rpar;](https://dev.to/0012303/sqlite-just-got-vector-search-heres-how-to-use-it-for-ai-no-database-server-needed-1dlf)
+- [Why Ignoring Token Costs Can Kill Your AI Product &lpar;and How to Fix It&rpar;](https://dev.to/botoom/why-ignoring-token-costs-can-kill-your-ai-product-and-how-to-fix-it-2c64)
 <!-- BLOG-POST-LIST:END -->
 
