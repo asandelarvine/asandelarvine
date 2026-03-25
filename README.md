@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Away From Work — Stopped Using React for the Game Loop](https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k)
-- [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/kendixy/how-excel-is-used-in-real-world-data-analysis-db4)
-- [How to Build a Free, Offline AI Background Remover with Python](https://dev.to/go_hardgohard_f0b0162/how-to-build-a-free-offline-ai-background-remover-with-python-5cif)
+- [Automating Web Table Exports with JavaScript: A Practical Guide](https://dev.to/circobit/automating-web-table-exports-with-javascript-a-practical-guide-557o)
+- [Mobile vs Desktop Core Web Vitals: Why You Need to Monitor Both](https://dev.to/apogeewatcher/mobile-vs-desktop-core-web-vitals-why-you-need-to-monitor-both-2085)
+- [Build Once, Deploy Many — A Staging-to-Production Pipeline with GCP Cloud Deploy](https://dev.to/ryotsun/build-once-deploy-many-a-staging-to-production-pipeline-with-gcp-cloud-deploy-1kh1)
+- [We Will Have 50,000 Jiras and No Better Software](https://dev.to/tomj/we-will-have-50000-jiras-and-no-better-software-31l)
 <!-- BLOG-POST-LIST:END -->
 
