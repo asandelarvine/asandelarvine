@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Taught AI Agents to See the Bigger Picture](https://dev.to/teamcity/how-we-taught-ai-agents-to-see-the-bigger-picture-342f)
-- [My first series of Wednesday Code Autopsy!
-Every wednesday :&rpar;](https://dev.to/huckler/my-first-series-of-wednesday-code-autopsyevery-wednesday--348n)
-- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
-- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
+- [I Stopped Fixing Bugs Myself and Built an AI to Do It Instead](https://dev.to/rkchellah/i-stopped-fixing-bugs-myself-and-built-an-ai-to-do-it-instead-2ee1)
+- [How to implement DevOps without creating more complexity](https://dev.to/kodus/how-to-implement-devops-without-creating-more-complexity-7bl)
+- [15 VICIdial Settings Wasting Your Agents&#39; Time Right Now](https://dev.to/gamlin/15-vicidial-settings-wasting-your-agents-time-right-now-2llh)
+- [7 Mac Apps That Help Developers Avoid Burnout in 2026](https://dev.to/godnick/7-mac-apps-that-help-developers-avoid-burnout-in-2026-2jh2)
 <!-- BLOG-POST-LIST:END -->
 
