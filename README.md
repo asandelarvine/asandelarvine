@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldman Sachs OA 2026 Interview Experience | HackerRank Questions + Solutions + Prep Guide](https://dev.to/net_programhelp_e160eef28/goldman-sachs-oa-2026-interview-experience-hackerrank-questions-solutions-prep-guide-3cdd)
-- [7 Developer Tools Nobody Talks About &lpar;That I Use Every Day&rpar;](https://dev.to/0012303/7-developer-tools-nobody-talks-about-that-i-use-every-day-4hh0)
-- [Best Git GUI Clients in 2025: GitKraken, SourceTree, Fork, and More Compared](https://dev.to/_d7eb1c1703182e3ce1782/best-git-gui-clients-in-2025-gitkraken-sourcetree-fork-and-more-compared-4gjd)
-- [ActionLib: How I Cut My Agent&#39;s Token Usage by 97%](https://dev.to/landzagent/actionlib-how-i-cut-my-agents-token-usage-by-97-2bji)
+- [Git Cheat Sheet: 60+ Commands Every Developer Should Know](https://dev.to/_d7eb1c1703182e3ce1782/git-cheat-sheet-60-commands-every-developer-should-know-58a8)
+- [Best Free Lorem Ipsum Generator Online: Placeholder Text for Developers](https://dev.to/_d7eb1c1703182e3ce1782/best-free-lorem-ipsum-generator-online-placeholder-text-for-developers-1o7p)
+- [From Senior Engineer to Technical CEO: My Blueprint for Building a Consultancy](https://dev.to/szglabs/from-senior-engineer-to-technical-ceo-my-blueprint-for-building-a-consultancy-45g9)
+- [ESLint + Prettier Setup: The Complete Developer Configuration Guide &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/eslint-prettier-setup-the-complete-developer-configuration-guide-2026-4p8k)
 <!-- BLOG-POST-LIST:END -->
 
