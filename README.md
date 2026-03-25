@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
-- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
-- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
-- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
+- [Run Away From Work — Stopped Using React for the Game Loop](https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k)
+- [Generating an aerial view of your project with OpenRewrite](https://dev.to/onepoint/generating-an-aerial-view-of-your-project-with-openrewrite-49kk)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/kendixy/how-excel-is-used-in-real-world-data-analysis-db4)
+- [How to Build a Free, Offline AI Background Remover with Python](https://dev.to/go_hardgohard_f0b0162/how-to-build-a-free-offline-ai-background-remover-with-python-5cif)
 <!-- BLOG-POST-LIST:END -->
 
