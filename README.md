@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [abuse.ch Has 5 Free APIs — The Complete Threat Intelligence Toolkit You Didn&#39;t Know Existed](https://dev.to/0012303/abusech-has-5-free-apis-the-complete-threat-intelligence-toolkit-you-didnt-know-existed-4jo3)
-- [How to Save 55% on Manus AI Credits in 10 Minutes &lpar;Step-by-Step Setup Guide&rpar;](https://dev.to/rafsilva85/how-to-save-55-on-manus-ai-credits-in-10-minutes-step-by-step-setup-guide-2o0)
-- [How to Coordinate Multiple Claude Code Agents Without Losing Your Mind](https://dev.to/alanwest/how-to-coordinate-multiple-claude-code-agents-without-losing-your-mind-1i9f)
-- [Mastering Pattern Matching in Design and Verification: Boosting Efficiency in Modern Chip Development](https://dev.to/aloycwl/mastering-pattern-matching-in-design-and-verification-boosting-efficiency-in-modern-chip-3n9m)
+- [Goldman Sachs OA 2026 Interview Experience | HackerRank Questions + Solutions + Prep Guide](https://dev.to/net_programhelp_e160eef28/goldman-sachs-oa-2026-interview-experience-hackerrank-questions-solutions-prep-guide-3cdd)
+- [7 Developer Tools Nobody Talks About &lpar;That I Use Every Day&rpar;](https://dev.to/0012303/7-developer-tools-nobody-talks-about-that-i-use-every-day-4hh0)
+- [Best Git GUI Clients in 2025: GitKraken, SourceTree, Fork, and More Compared](https://dev.to/_d7eb1c1703182e3ce1782/best-git-gui-clients-in-2025-gitkraken-sourcetree-fork-and-more-compared-4gjd)
+- [ActionLib: How I Cut My Agent&#39;s Token Usage by 97%](https://dev.to/landzagent/actionlib-how-i-cut-my-agents-token-usage-by-97-2bji)
 <!-- BLOG-POST-LIST:END -->
 
