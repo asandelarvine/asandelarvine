@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hackers Exploit RDP &lpar;Port 3389&rpar; — Real Attack Breakdown &amp; Prevention Guide](https://dev.to/techpio-dalbeir/how-hackers-exploit-rdp-port-3389-real-attack-breakdown-prevention-guide-59mo)
-- [MongoDB Schema Design: Do’s and Don’ts for Real Projects](https://dev.to/mongodb/mongodb-schema-design-dos-and-donts-for-real-projects-1cg6)
-- [Deploying an ASP.NET Core Web API to Azure with App Service and Azure SQL Database](https://dev.to/promisee_ay/deploying-an-aspnet-core-web-api-to-azure-with-app-service-and-azure-sql-database-4md)
-- [Why 220 Keystrokes of Behavioral Biometrics Beat a Perfect Face Match](https://dev.to/caracomp/why-220-keystrokes-of-behavioral-biometrics-beat-a-perfect-face-match-43c9)
+- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
+- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
+- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
+- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
 <!-- BLOG-POST-LIST:END -->
 
