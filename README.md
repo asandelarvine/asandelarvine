@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency Situation](https://dev.to/santhoshi_mary_88917c3fd9/idempotency-situation-3je3)
-- [Two Sum &amp; Sorted Two Sum](https://dev.to/jarvish_/two-sum-sorted-two-sum-2c2b)
-- [Building a Network of AI-Native CTOs](https://dev.to/glind/building-a-network-of-ai-native-ctos-1ffe)
-- [Your LocalStack CI Is Broken. Here Are Your Three Options.](https://dev.to/peytongreen_dev/your-localstack-ci-is-broken-here-are-your-three-options-41o8)
+- [Build a Real-Time Social Media App with InsForge, MiniMax, and Next.js](https://dev.to/astrodevil/build-a-real-time-social-media-app-with-insforge-minimax-and-nextjs-3jb8)
+- [The Best Engineers I Know Are Not the Fastest. They&#39;re the Clearest.](https://dev.to/__be2942592/the-best-engineers-i-know-are-not-the-fastest-theyre-the-clearest-2iji)
+- [I Reviewed 50 Junior Developer Portfolios. The Same 3 Problems Kept Showing Up.](https://dev.to/__be2942592/i-reviewed-50-junior-developer-portfolios-the-same-3-problems-kept-showing-up-4ed3)
+- [CVE-2026-33650: CVE-2026-33650: Privilege Escalation via Incorrect Authorization in WWBN AVideo](https://dev.to/cverports/cve-2026-33650-cve-2026-33650-privilege-escalation-via-incorrect-authorization-in-wwbn-avideo-123l)
 <!-- BLOG-POST-LIST:END -->
 
