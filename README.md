@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Web Table Exports with JavaScript: A Practical Guide](https://dev.to/circobit/automating-web-table-exports-with-javascript-a-practical-guide-557o)
-- [Mobile vs Desktop Core Web Vitals: Why You Need to Monitor Both](https://dev.to/apogeewatcher/mobile-vs-desktop-core-web-vitals-why-you-need-to-monitor-both-2085)
-- [Build Once, Deploy Many — A Staging-to-Production Pipeline with GCP Cloud Deploy](https://dev.to/ryotsun/build-once-deploy-many-a-staging-to-production-pipeline-with-gcp-cloud-deploy-1kh1)
-- [We Will Have 50,000 Jiras and No Better Software](https://dev.to/tomj/we-will-have-50000-jiras-and-no-better-software-31l)
+- [Idempotency Situation](https://dev.to/santhoshi_mary_88917c3fd9/idempotency-situation-3je3)
+- [Two Sum &amp; Sorted Two Sum](https://dev.to/jarvish_/two-sum-sorted-two-sum-2c2b)
+- [Building a Network of AI-Native CTOs](https://dev.to/glind/building-a-network-of-ai-native-ctos-1ffe)
+- [Your LocalStack CI Is Broken. Here Are Your Three Options.](https://dev.to/peytongreen_dev/your-localstack-ci-is-broken-here-are-your-three-options-41o8)
 <!-- BLOG-POST-LIST:END -->
 
