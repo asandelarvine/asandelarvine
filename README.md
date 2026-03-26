@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# I Created a Payment Bug Challenge… And AI Missed the Double Charge Risk 💸](https://dev.to/md_mijanur_molla/-i-created-a-payment-bug-challenge-and-ai-missed-the-double-charge-risk-3l2f)
-- [39 REST API Routes: Complete Wallet Control for Your Trading Bot](https://dev.to/walletguy/39-rest-api-routes-complete-wallet-control-for-your-trading-bot-189m)
-- [Parsing Filter Expressions in NestJS with a Context-Free Grammar](https://dev.to/robert_ozimek_6ff63966445/parsing-filter-expressions-in-nestjs-with-a-context-free-grammar-132)
-- [Solana&#39;s Noisy Neighbor Attack: How Localized Fee Markets Let Attackers Block Your DeFi Liquidations — And the Detection Toolkit to Stop Them](https://dev.to/ohmygod/solanas-noisy-neighbor-attack-how-localized-fee-markets-let-attackers-block-your-defi-3aoj)
+- [Distributed Sagas, Locking, and Zero-Config Documentation in NodeJS](https://dev.to/arslan_mecom/distributed-sagas-locking-and-zero-config-documentation-in-nodejs-2f0c)
+- [The AI Engineer&#39;s Toolkit: Moving Beyond Prompt Engineering to Build Robust AI Applications](https://dev.to/midas126/the-ai-engineers-toolkit-moving-beyond-prompt-engineering-to-build-robust-ai-applications-1pj7)
+- [What happens when you put multiple AI models in the same real-time conversation](https://dev.to/f_a_450523a23a7a583af6fd5/what-happens-when-you-put-multiple-ai-models-in-the-same-real-time-conversation-36ad)
+- [Why most AI agent frameworks break in production &lpar;and what I’m doing differently&rpar;](https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i)
 <!-- BLOG-POST-LIST:END -->
 
