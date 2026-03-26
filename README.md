@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a lightweight OpenTelemetry viewer for local development](https://dev.to/mesaglio/i-built-a-lightweight-opentelemetry-viewer-for-local-development-2d84)
-- [I built 10 autonomous AI agents for Claude Code — here&#39;s how they work Tags: ai, webdev, productivity, opensource](https://dev.to/samarth0211/i-built-10-autonomous-ai-agents-for-claude-code-heres-how-they-work-tags-ai-webdev-3bmc)
-- [What If Your AI Ran Inside an OS Designed for It?](https://dev.to/sirfederick/what-if-your-ai-ran-inside-an-os-designed-for-it-3nig)
-- [Generate database documentation with SchemaSpy &amp; Docker &lpar;Windows, Linux, macOS&rpar;](https://dev.to/alexjcm/generate-database-documentation-with-schemaspy-docker-windows-linux-macos-1hn1)
+- [# I Created a Payment Bug Challenge… And AI Missed the Double Charge Risk 💸](https://dev.to/md_mijanur_molla/-i-created-a-payment-bug-challenge-and-ai-missed-the-double-charge-risk-3l2f)
+- [39 REST API Routes: Complete Wallet Control for Your Trading Bot](https://dev.to/walletguy/39-rest-api-routes-complete-wallet-control-for-your-trading-bot-189m)
+- [Parsing Filter Expressions in NestJS with a Context-Free Grammar](https://dev.to/robert_ozimek_6ff63966445/parsing-filter-expressions-in-nestjs-with-a-context-free-grammar-132)
+- [Solana&#39;s Noisy Neighbor Attack: How Localized Fee Markets Let Attackers Block Your DeFi Liquidations — And the Detection Toolkit to Stop Them](https://dev.to/ohmygod/solanas-noisy-neighbor-attack-how-localized-fee-markets-let-attackers-block-your-defi-3aoj)
 <!-- BLOG-POST-LIST:END -->
 
