@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tamagotchi: Why I Built an AI That Starts Blank and Grows With You](https://dev.to/hidden_developer_5c94d579/ai-tamagotchi-why-i-built-an-ai-that-starts-blank-and-grows-with-you-19hj)
-- [Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees](https://dev.to/shreya_princy_8194cc37e3f/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1635)
-- [Why AI Hallucinates Even When It Knows the Answer](https://dev.to/sumanth-vallabhaneni/why-ai-hallucinates-even-when-it-knows-the-answer-4cbe)
-- [How I Almost Burned Out Doing Everything “Right”](https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6)
+- [How I Built an AI Job Board That Auto-Updates from 164+ Companies](https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-3o94)
+- [Open-Meteo Has a Free API — Get Weather Data for Any Location Without an API Key](https://dev.to/0012303/open-meteo-has-a-free-api-get-weather-data-for-any-location-without-an-api-key-2028)
+- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
+- [Why I built a React component library specifically for AI products](https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log)
 <!-- BLOG-POST-LIST:END -->
 
