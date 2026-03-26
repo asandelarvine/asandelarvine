@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gateways Are Not I/O-Bound Proxies I Benchmarked 5 of Them to Prove It](https://dev.to/ferrolabs-ai/ai-gateways-are-not-io-bound-proxies-i-benchmarked-5-of-them-to-prove-it-4iji)
-- [SVG vs PNG: When to Use Each Format](https://dev.to/pixotter/svg-vs-png-when-to-use-each-format-3i4b)
-- [I built a baseline-aware Python code health tool for CI and AI-assisted coding](https://dev.to/orenlab/i-built-a-baseline-aware-python-code-health-tool-for-ci-and-ai-assisted-coding-5dij)
-- [I Found 4 Backtesting Biases in My AI Trading Bot &lpar;83% Returns to Realistic&rpar;](https://dev.to/qcautomation/i-found-4-backtesting-biases-1mc5)
+- [JavaScript Closures Explained Simply](https://dev.to/kathirvel-s/javascript-closures-explained-simply-2mf3)
+- [Questioning productivity with AI coding agents in enterprise environments](https://dev.to/jarle/questioning-productivity-with-ai-coding-agents-in-enterprise-environments-3287)
+- [How We Generated 3,066 Colors Algorithmically — No Database Needed](https://dev.to/jasonyeyuhe/how-we-generated-3066-colors-algorithmically-no-database-needed-2k02)
+- [Meaningful Domain Models in TypeScript](https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9)
 <!-- BLOG-POST-LIST:END -->
 
