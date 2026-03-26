@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fine-Tuned a Security Reasoning Model That Runs on a 4GB Laptop &lpar;No GPU, No Cloud&rpar;](https://dev.to/izzytn_1/i-fine-tuned-a-security-reasoning-model-that-runs-on-a-4gb-laptop-no-gpu-no-cloud-4bdd)
-- [MCP Is the USB Port for AI Tools](https://dev.to/maxmendes91/mcp-is-the-usb-port-for-ai-tools-l8n)
-- [OmniShell: Building a Virtual Desktop Environment in C++ with wxWidgets](https://dev.to/lenik/omnishell-building-a-virtual-desktop-environment-in-c-with-wxwidgets-54p8)
-- [The Most Dangerous Failures Aren’t Wrong Decisions They’re Unchecked Actions](https://dev.to/dan_evans_1/the-most-dangerous-failures-arent-wrong-decisions-theyre-unchecked-actions-1dhg)
+- [Pull SEC EDGAR Filings into Your App with One API Call](https://dev.to/donnyautomation/pull-sec-edgar-filings-into-your-app-with-one-api-call-40k9)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
 <!-- BLOG-POST-LIST:END -->
 
