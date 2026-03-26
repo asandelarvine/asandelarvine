@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pull SEC EDGAR Filings into Your App with One API Call](https://dev.to/donnyautomation/pull-sec-edgar-filings-into-your-app-with-one-api-call-40k9)
-- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
-- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
-- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [How AgentTalk Uses Wallet Attestation for Agent-to-Agent Sessions](https://dev.to/douglasborthwickcrypto/how-agenttalk-uses-wallet-attestation-for-agent-to-agent-sessions-2gj5)
+- [Local LLM Unleashed: Faster Inference, Instant Starts, &amp; Open TTS](https://dev.to/soytuber/local-llm-unleashed-faster-inference-instant-starts-open-tts-1bjk)
+- [Wallet Auth: Gate Any API on What a Wallet Holds](https://dev.to/douglasborthwickcrypto/wallet-auth-gate-any-api-on-what-a-wallet-holds-1nj9)
+- [Headless Browser Detection: How Sites Know You&#39;re a Bot](https://dev.to/agenthustler/headless-browser-detection-how-sites-know-youre-a-bot-47g)
 <!-- BLOG-POST-LIST:END -->
 
