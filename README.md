@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Sagas, Locking, and Zero-Config Documentation in NodeJS](https://dev.to/arslan_mecom/distributed-sagas-locking-and-zero-config-documentation-in-nodejs-2f0c)
-- [The AI Engineer&#39;s Toolkit: Moving Beyond Prompt Engineering to Build Robust AI Applications](https://dev.to/midas126/the-ai-engineers-toolkit-moving-beyond-prompt-engineering-to-build-robust-ai-applications-1pj7)
-- [What happens when you put multiple AI models in the same real-time conversation](https://dev.to/f_a_450523a23a7a583af6fd5/what-happens-when-you-put-multiple-ai-models-in-the-same-real-time-conversation-36ad)
-- [Why most AI agent frameworks break in production &lpar;and what I’m doing differently&rpar;](https://dev.to/octaviannn/why-most-ai-agent-frameworks-break-in-production-and-what-im-doing-differently-3f5i)
+- [AI Tamagotchi: Why I Built an AI That Starts Blank and Grows With You](https://dev.to/hidden_developer_5c94d579/ai-tamagotchi-why-i-built-an-ai-that-starts-blank-and-grows-with-you-19hj)
+- [Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees](https://dev.to/shreya_princy_8194cc37e3f/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1635)
+- [Why AI Hallucinates Even When It Knows the Answer](https://dev.to/sumanth-vallabhaneni/why-ai-hallucinates-even-when-it-knows-the-answer-4cbe)
+- [How I Almost Burned Out Doing Everything “Right”](https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6)
 <!-- BLOG-POST-LIST:END -->
 
