@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AgentTalk Uses Wallet Attestation for Agent-to-Agent Sessions](https://dev.to/douglasborthwickcrypto/how-agenttalk-uses-wallet-attestation-for-agent-to-agent-sessions-2gj5)
-- [Local LLM Unleashed: Faster Inference, Instant Starts, &amp; Open TTS](https://dev.to/soytuber/local-llm-unleashed-faster-inference-instant-starts-open-tts-1bjk)
-- [Wallet Auth: Gate Any API on What a Wallet Holds](https://dev.to/douglasborthwickcrypto/wallet-auth-gate-any-api-on-what-a-wallet-holds-1nj9)
-- [Headless Browser Detection: How Sites Know You&#39;re a Bot](https://dev.to/agenthustler/headless-browser-detection-how-sites-know-youre-a-bot-47g)
+- [How to Set Up Semgrep in 2026 - Complete Installation and Configuration Guide](https://dev.to/rahulxsingh/how-to-set-up-semgrep-in-2026-complete-installation-and-configuration-guide-5emm)
+- [Node.js Memory Leaks in Production: Finding and Fixing Them Fast](https://dev.to/axiom_agent_1dc642fa83651/nodejs-memory-leaks-in-production-finding-and-fixing-them-fast-2cna)
+- [The State of Laravel Deployment in 2026: What&#39;s Changed and What Still Hurts](https://dev.to/deploynix/the-state-of-laravel-deployment-in-2026-whats-changed-and-what-still-hurts-37l2)
+- [The Hidden Labor Drain in Employee Onboarding &lpar;And How AI Fixes It&rpar;](https://dev.to/rmccain_cns/the-hidden-labor-drain-in-employee-onboarding-and-how-ai-fixes-it-5e2d)
 <!-- BLOG-POST-LIST:END -->
 
