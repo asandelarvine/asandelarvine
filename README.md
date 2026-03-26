@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Job Board That Auto-Updates from 164+ Companies](https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-3o94)
-- [Open-Meteo Has a Free API — Get Weather Data for Any Location Without an API Key](https://dev.to/0012303/open-meteo-has-a-free-api-get-weather-data-for-any-location-without-an-api-key-2028)
-- [I built a file transfer tool that can’t spy on you even if it wanted to](https://dev.to/aliirz/i-built-a-file-transfer-tool-that-cant-spy-on-you-even-if-it-wanted-to-2p39)
-- [Why I built a React component library specifically for AI products](https://dev.to/yangzh991/why-i-built-a-react-component-library-specifically-for-ai-products-3log)
+- [AI Gateways Are Not I/O-Bound Proxies I Benchmarked 5 of Them to Prove It](https://dev.to/ferrolabs-ai/ai-gateways-are-not-io-bound-proxies-i-benchmarked-5-of-them-to-prove-it-4iji)
+- [SVG vs PNG: When to Use Each Format](https://dev.to/pixotter/svg-vs-png-when-to-use-each-format-3i4b)
+- [I built a baseline-aware Python code health tool for CI and AI-assisted coding](https://dev.to/orenlab/i-built-a-baseline-aware-python-code-health-tool-for-ci-and-ai-assisted-coding-5dij)
+- [I Found 4 Backtesting Biases in My AI Trading Bot &lpar;83% Returns to Realistic&rpar;](https://dev.to/qcautomation/i-found-4-backtesting-biases-1mc5)
 <!-- BLOG-POST-LIST:END -->
 
