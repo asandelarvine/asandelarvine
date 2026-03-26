@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Simple Tools: Why Sometimes All You Need is a Counter](https://dev.to/chao_xue_34ee576abba0e8ed/the-power-of-simple-tools-why-sometimes-all-you-need-is-a-counter-2f3j)
-- [The Lazy Developer&#39;s Guide to Perfect Social Media Previews](https://dev.to/narender_singh_6c6e271c67/the-lazy-developers-guide-to-perfect-social-media-previews-39im)
-- [Evaluate LLM code generation with LLM-as-judge evaluators](https://dev.to/sattensil888/evaluate-llm-code-generation-with-llm-as-judge-evaluators-3epi)
-- [Lean Caching - A Custom NetworkBoundResource in Kotlin](https://dev.to/zoos1ne/lean-caching-a-custom-networkboundresource-in-kotlin-52el)
+- [I Fine-Tuned a Security Reasoning Model That Runs on a 4GB Laptop &lpar;No GPU, No Cloud&rpar;](https://dev.to/izzytn_1/i-fine-tuned-a-security-reasoning-model-that-runs-on-a-4gb-laptop-no-gpu-no-cloud-4bdd)
+- [MCP Is the USB Port for AI Tools](https://dev.to/maxmendes91/mcp-is-the-usb-port-for-ai-tools-l8n)
+- [OmniShell: Building a Virtual Desktop Environment in C++ with wxWidgets](https://dev.to/lenik/omnishell-building-a-virtual-desktop-environment-in-c-with-wxwidgets-54p8)
+- [The Most Dangerous Failures Aren’t Wrong Decisions They’re Unchecked Actions](https://dev.to/dan_evans_1/the-most-dangerous-failures-arent-wrong-decisions-theyre-unchecked-actions-1dhg)
 <!-- BLOG-POST-LIST:END -->
 
