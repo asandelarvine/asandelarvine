@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Persistent Memory for Claude Code Agents](https://dev.to/benji_banwart/building-persistent-memory-for-claude-code-agents-3b5m)
-- [Connection Pool Exhaustion in Mobile Backends](https://dev.to/software_mvp-factory/connection-pool-exhaustion-in-mobile-backends-4d9f)
-- [Building the Future of AI-Driven Networks: Lessons from My Journey](https://dev.to/zeed_xo/building-the-future-of-ai-driven-networks-lessons-from-my-journey-57n1)
-- [Cursor + Claude: stop shipping broken auth flows](https://dev.to/sathish_daggula/cursor-claude-stop-shipping-broken-auth-flows-3g3o)
+- [The Power of Simple Tools: Why Sometimes All You Need is a Counter](https://dev.to/chao_xue_34ee576abba0e8ed/the-power-of-simple-tools-why-sometimes-all-you-need-is-a-counter-2f3j)
+- [The Lazy Developer&#39;s Guide to Perfect Social Media Previews](https://dev.to/narender_singh_6c6e271c67/the-lazy-developers-guide-to-perfect-social-media-previews-39im)
+- [Evaluate LLM code generation with LLM-as-judge evaluators](https://dev.to/sattensil888/evaluate-llm-code-generation-with-llm-as-judge-evaluators-3epi)
+- [Lean Caching - A Custom NetworkBoundResource in Kotlin](https://dev.to/zoos1ne/lean-caching-a-custom-networkboundresource-in-kotlin-52el)
 <!-- BLOG-POST-LIST:END -->
 
