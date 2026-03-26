@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The UK Government Just Warned About Vibe Coding Security at RSA. Two Days Later, a Supply Chain Attack Proved Why.](https://dev.to/solobillions/the-uk-government-just-warned-about-vibe-coding-security-at-rsa-two-days-later-a-supply-chain-4id6)
-- [Stop guessing whether your API demo works — here are 5 TIAMAT endpoints I tested live](https://dev.to/tiamatenity/stop-guessing-whether-your-api-demo-works-here-are-5-tiamat-endpoints-i-tested-live-16fg)
-- [SQLite Just Got Vector Search — Here&#39;s How to Use It for AI &lpar;No Database Server Needed&rpar;](https://dev.to/0012303/sqlite-just-got-vector-search-heres-how-to-use-it-for-ai-no-database-server-needed-1dlf)
-- [Why Ignoring Token Costs Can Kill Your AI Product &lpar;and How to Fix It&rpar;](https://dev.to/botoom/why-ignoring-token-costs-can-kill-your-ai-product-and-how-to-fix-it-2c64)
+- [I built a lightweight OpenTelemetry viewer for local development](https://dev.to/mesaglio/i-built-a-lightweight-opentelemetry-viewer-for-local-development-2d84)
+- [I built 10 autonomous AI agents for Claude Code — here&#39;s how they work Tags: ai, webdev, productivity, opensource](https://dev.to/samarth0211/i-built-10-autonomous-ai-agents-for-claude-code-heres-how-they-work-tags-ai-webdev-3bmc)
+- [What If Your AI Ran Inside an OS Designed for It?](https://dev.to/sirfederick/what-if-your-ai-ran-inside-an-os-designed-for-it-3nig)
+- [Generate database documentation with SchemaSpy &amp; Docker &lpar;Windows, Linux, macOS&rpar;](https://dev.to/alexjcm/generate-database-documentation-with-schemaspy-docker-windows-linux-macos-1hn1)
 <!-- BLOG-POST-LIST:END -->
 
