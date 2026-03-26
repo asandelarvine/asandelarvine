@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Closures Explained Simply](https://dev.to/kathirvel-s/javascript-closures-explained-simply-2mf3)
-- [Questioning productivity with AI coding agents in enterprise environments](https://dev.to/jarle/questioning-productivity-with-ai-coding-agents-in-enterprise-environments-3287)
-- [How We Generated 3,066 Colors Algorithmically — No Database Needed](https://dev.to/jasonyeyuhe/how-we-generated-3066-colors-algorithmically-no-database-needed-2k02)
-- [Meaningful Domain Models in TypeScript](https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9)
+- [Building Persistent Memory for Claude Code Agents](https://dev.to/benji_banwart/building-persistent-memory-for-claude-code-agents-3b5m)
+- [Connection Pool Exhaustion in Mobile Backends](https://dev.to/software_mvp-factory/connection-pool-exhaustion-in-mobile-backends-4d9f)
+- [Building the Future of AI-Driven Networks: Lessons from My Journey](https://dev.to/zeed_xo/building-the-future-of-ai-driven-networks-lessons-from-my-journey-57n1)
+- [Cursor + Claude: stop shipping broken auth flows](https://dev.to/sathish_daggula/cursor-claude-stop-shipping-broken-auth-flows-3g3o)
 <!-- BLOG-POST-LIST:END -->
 
