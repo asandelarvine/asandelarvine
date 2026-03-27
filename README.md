@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Products Are Built Wrong &lpar;From a System Design Perspective&rpar;](https://dev.to/cloyouai/why-most-ai-products-are-built-wrong-from-a-system-design-perspective-192e)
-- [Build a Smart Building Automation Controller Using NORVI X](https://dev.to/bhanuka_gamachchige/build-a-smart-building-automation-controller-using-norvi-x-1m17)
-- [🦀 Rust Weekly Log — Weekly progress snapshot](https://dev.to/vinecksie_rust/rust-weekly-log-weekly-progress-snapshot-3cg9)
-- [Tailwind CSS vs Bootstrap - Why Developers Are Ditching Bootstrap and Never Looking Back 🎨](https://dev.to/hamidrazadev/tailwind-css-vs-bootstrap-why-developers-are-ditching-bootstrap-and-never-looking-back-m7j)
+- [Why a Single Markdown File Can&#39;t Be Your AI Agent&#39;s Memory](https://dev.to/origin_matrix_b790e656217/why-a-single-markdown-file-cant-be-your-ai-agents-memory-10l3)
+- [Why Your Contact Form Is Getting Spam &lpar;And How to Stop It&rpar;](https://dev.to/allenarduino/why-your-contact-form-is-getting-spam-and-how-to-stop-it-1id3)
+- [Friday Shipped &amp; Scarred #1: The Day git --force Deleted 130 PC Workman Commits &lpar;I Got 90 Back&rpar;](https://dev.to/huckler/friday-shipped-scarred-1-the-day-git-force-deleted-130-pc-workman-commits-i-got-90-back-1947)
+- [GitHub Copilot Stores Derived State in useEffect. This Is Why That Breaks Your App.](https://dev.to/avery_code/github-copilot-stores-derived-state-in-useeffect-this-is-why-that-breaks-your-app-4agd)
 <!-- BLOG-POST-LIST:END -->
 
