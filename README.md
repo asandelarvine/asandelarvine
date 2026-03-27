@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a Single Markdown File Can&#39;t Be Your AI Agent&#39;s Memory](https://dev.to/origin_matrix_b790e656217/why-a-single-markdown-file-cant-be-your-ai-agents-memory-10l3)
-- [Why Your Contact Form Is Getting Spam &lpar;And How to Stop It&rpar;](https://dev.to/allenarduino/why-your-contact-form-is-getting-spam-and-how-to-stop-it-1id3)
-- [Friday Shipped &amp; Scarred #1: The Day git --force Deleted 130 PC Workman Commits &lpar;I Got 90 Back&rpar;](https://dev.to/huckler/friday-shipped-scarred-1-the-day-git-force-deleted-130-pc-workman-commits-i-got-90-back-1947)
-- [GitHub Copilot Stores Derived State in useEffect. This Is Why That Breaks Your App.](https://dev.to/avery_code/github-copilot-stores-derived-state-in-useeffect-this-is-why-that-breaks-your-app-4agd)
+- [Grafana Loki Has a Free Log Aggregation System Like Prometheus But for Logs](https://dev.to/0012303/grafana-loki-has-a-free-log-aggregation-system-like-prometheus-but-for-logs-4k55)
+- [Domina la Conectividad Privada en AWS con VPC Endpoints &lpar;¡Ahorra $/mes!&rpar;](https://dev.to/aws-builders/domina-la-conectividad-privada-en-aws-con-vpc-endpoints-ahorra-mes-360i)
+- [Beyond the Panic: Hardening the Rust SDK](https://dev.to/yashksaini/beyond-the-panic-hardening-the-rust-sdk-53oj)
+- [Building an AI Profanity Filter with Vocal Separation](https://dev.to/n_d_87a2e0ec24f0923d167cb/building-an-ai-profanity-filter-with-vocal-separation-3m24)
 <!-- BLOG-POST-LIST:END -->
 
