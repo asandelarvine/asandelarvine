@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Grafana Loki Has a Free Log Aggregation System Like Prometheus But for Logs](https://dev.to/0012303/grafana-loki-has-a-free-log-aggregation-system-like-prometheus-but-for-logs-4k55)
-- [Domina la Conectividad Privada en AWS con VPC Endpoints &lpar;¡Ahorra $/mes!&rpar;](https://dev.to/aws-builders/domina-la-conectividad-privada-en-aws-con-vpc-endpoints-ahorra-mes-360i)
-- [Beyond the Panic: Hardening the Rust SDK](https://dev.to/yashksaini/beyond-the-panic-hardening-the-rust-sdk-53oj)
-- [Building an AI Profanity Filter with Vocal Separation](https://dev.to/n_d_87a2e0ec24f0923d167cb/building-an-ai-profanity-filter-with-vocal-separation-3m24)
+- [Why we replaced Node.js with Bun for 5x throughput](https://dev.to/triggerdotdev/why-we-replaced-nodejs-with-bun-for-5x-throughput-3ca1)
+- [I Tried Building a Netflix-Style System on AWS — Here’s What Actually Matters](https://dev.to/zeed_xo/i-tried-building-a-netflix-style-system-on-aws-heres-what-actually-matters-jf0)
+- [I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI](https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh)
+- [ClickHouse Has a Free Column-Oriented Database — Query Billions of Rows in Milliseconds](https://dev.to/0012303/clickhouse-has-a-free-column-oriented-database-query-billions-of-rows-in-milliseconds-61e)
 <!-- BLOG-POST-LIST:END -->
 
