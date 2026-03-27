@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Host Strong, AI Agents Fast, &amp; Master Your JSON Tools](https://dev.to/soytuber/self-host-strong-ai-agents-fast-master-your-json-tools-3fk0)
-- [The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!](https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd)
-- [I built a SaaS to measure AI visibility &lpar;GEO&rpar; — here’s how it works](https://dev.to/n8labs/i-built-a-saas-to-measure-ai-visibility-geo-heres-how-it-works-7o0)
-- [&quot;I Wasted Months on Wrong Skills — Here&#39;s What Actually Gets You Hired in 2026&quot;](https://dev.to/devraj_singh7/i-wasted-months-on-wrong-skills-heres-what-actually-gets-you-hired-in-2026-11pn)
+- [We built an API for events, places, and local news in Barcelona and Madrid](https://dev.to/dondego/we-built-an-api-for-events-places-and-local-news-in-barcelona-and-madrid-1409)
+- [Buffer Overflows on x64 Windows: A Practical Beginners Guide &lpar;Part 1&rpar;: Setting up](https://dev.to/mirrai/buffer-overflows-on-x64-windows-a-practical-beginners-guide-part-1-setting-up-mde)
+- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-kn5)
+- [Ultimate claude artifacts-guide](https://dev.to/hira_jabeen_ccaa191c13070/ultimate-claude-artifacts-guide-45k3)
 <!-- BLOG-POST-LIST:END -->
 
