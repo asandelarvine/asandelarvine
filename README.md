@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We built an API for events, places, and local news in Barcelona and Madrid](https://dev.to/dondego/we-built-an-api-for-events-places-and-local-news-in-barcelona-and-madrid-1409)
-- [Buffer Overflows on x64 Windows: A Practical Beginners Guide &lpar;Part 1&rpar;: Setting up](https://dev.to/mirrai/buffer-overflows-on-x64-windows-a-practical-beginners-guide-part-1-setting-up-mde)
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-kn5)
-- [Ultimate claude artifacts-guide](https://dev.to/hira_jabeen_ccaa191c13070/ultimate-claude-artifacts-guide-45k3)
+- [Monitoring Past Performance vs. Alerting Real-Time Issues: What React Teams Are Missing](https://dev.to/nosyos/monitoring-past-performance-vs-alerting-real-time-issues-what-react-teams-are-missing-hdc)
+- [I Built a Netflix-Style AI App to Study AWS &lpar;And It Actually Works&rpar;](https://dev.to/davidkljajo/i-built-a-netflix-style-ai-aws-saa-coach-using-partyrock-14cf)
+- [GDPR for Recruitment Agencies: Candidate CVs, Talent Pools and Retention Schedules](https://dev.to/custodiaadmin/gdpr-for-recruitment-agencies-candidate-cvs-talent-pools-and-retention-schedules-2ila)
+- [How to Fix CORS Errors in Your Frontend App Using a Proxy Server](https://dev.to/0xdezman/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server-5h65)
 <!-- BLOG-POST-LIST:END -->
 
