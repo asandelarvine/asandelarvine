@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI vs MCP vs Skills: The Whole Debate Is Asking the Wrong Question](https://dev.to/trashwbin/cli-vs-mcp-vs-skills-the-whole-debate-is-asking-the-wrong-question-nc1)
-- [The LiteLLM Supply Chain Attack Broke Trust in Python-Based AI Infrastructure](https://dev.to/pranay_batta/the-litellm-supply-chain-attack-broke-trust-in-python-based-ai-infrastructure-1poi)
-- [I Ran a 4-Strategy AI Trading Tournament in Paper Trading — Here&#39;s Who Won](https://dev.to/qcautomation/i-ran-a-4-strategy-ai-trading-tournament-in-paper-trading-heres-who-won-586i)
-- [I built an open source developer hub to showcase projects and profiles – looking for feedback](https://dev.to/castillodk/i-built-an-open-source-developer-hub-to-showcase-projects-and-profiles-looking-for-feedback-3890)
+- [#Open Claw that runs Food Truck ..](https://dev.to/bkashji/open-claw-that-runs-food-truck--1fa3)
+- [How to Build a Real Estate Business Plan: 8 Steps to Scale Your Success &lpar;+ Free Template&rpar;](https://dev.to/aloycwl/how-to-build-a-real-estate-business-plan-8-steps-to-scale-your-success-free-template-d4j)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-3f6p)
+- [Angular 22: Mix Signal Forms and Reactive Forms Seamlessly](https://dev.to/brianmtreese/angular-22-mix-signal-forms-and-reactive-forms-seamlessly-3p6k)
 <!-- BLOG-POST-LIST:END -->
 
